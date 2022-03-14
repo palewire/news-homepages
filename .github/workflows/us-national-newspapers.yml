@@ -12,7 +12,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ["nytimes", "wsj"]
+        source: ["nytimes", "washingtonpost", "wsj"]
     steps:
       - id: checkout
         name: Checkout
