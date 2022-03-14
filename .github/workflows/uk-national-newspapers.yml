@@ -1,0 +1,31 @@
+name: U.K. national newspapers
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3,9,15,21 * * *"
+
+jobs:
+  take-screenshot:
+    name: Take screenshot
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ["ft-uk", "guardian-uk"]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: screenshot
+        name: Screenshot
+        uses: ./.github/actions/screenshot
+        with:
+          source: ${{ matrix.source }}
+          twitter-consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          twitter-consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          twitter-access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+          twitter-access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          telegram-api-key: ${{ secrets.TELEGRAM_API_KEY }}
+          discord-bot-token: ${{ secrets.DISCORD_BOT_TOKEN }}
