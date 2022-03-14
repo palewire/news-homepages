@@ -31,7 +31,8 @@ def single(handle):
         f"{data['handle']}.jpg",
         data['width'] or DEFAULT_WIDTH,
         data['height'] or DEFAULT_HEIGHT,
-        data['wait'] or DEFAULT_WAIT
+        data['wait'] or DEFAULT_WAIT,
+        data['javascript'] or ''
     )
 
 
@@ -55,8 +56,9 @@ def bundle(slug):
         )
 
 
-def _shoot(url, output, width, height, wait):
+def _shoot(url, output, width, height, wait, javascript):
     logger.debug(f"Shooting {url}")
+    print('for (i in %s) {document.querySelector(i).remove()}' % (javascript))
     subprocess.run([
         "shot-scraper",
         url,
@@ -70,6 +72,8 @@ def _shoot(url, output, width, height, wait):
         height,
         "--wait",
         wait,
+        "--javascript",
+        'for (i of %s) {document.querySelector(i).remove()}' % (javascript)
     ])
 
 
