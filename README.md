@@ -19,7 +19,7 @@ pipenv run shot-scraper install
 Try a screenshot. The `shoot.py` command, as well as all the other commands, expects you pass in the Twitter handle of the target site. The supported sites are listed in [`sources.csv`](./sources.csv).
 
 ```bash
-pipenv run python shoot.py latimes
+pipenv run python shoot.py single latimes
 ```
 
 Posting to Twitter and uploading to the Internet Archive require a variety of credentials stored in environment variables. I recommend you create a `.env`  file. There you need to store a Twitter access key and app token that has the permissions necessary to post.
@@ -34,7 +34,7 @@ TWITTER_ACCESS_TOKEN_SECRET=
 Now you can post tweets by running the following:
 
 ```bash
-pipenv run python tweet.py latimes
+pipenv run python tweet.py single latimes
 ```
 
 To store the file in the Internet Archive you’ll need to add an access key pair and the unique identifier of a collection to the environment.
