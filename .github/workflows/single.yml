@@ -257,6 +257,10 @@ jobs:
         name: Checkout
         uses: actions/checkout@v2
 
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
       - id: docs
         name: Docs
         uses: ./.github/actions/docs
