@@ -21,6 +21,6 @@ jobs:
         name: Extract
         uses: ./.github/actions/extract
         with:
-          ia-access-key: ${{ secrets.IA_ACCESS_KEY }}
-          ia-secret-key: ${{ secrets.IA_SECRET_KEY }}
-          ia-collection: ${{ secrets.IA_COLLECTION }}
+          access-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
+          collection: ${{ secrets.IA_COLLECTION }}
