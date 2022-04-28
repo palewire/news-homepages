@@ -1,5 +1,5 @@
 {
-  "created": 1651187428,
+  "created": 1651189488,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/7/items/stevenspointjrl-2022",
@@ -1229,21 +1229,32 @@
       "rotation": "0"
     },
     {
+      "name": "stevenspointjrl-2022-04-28T18:09:23.481398-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stevenspointjrl-2022-04-28T18:09:23.481398-05:00.jpg",
+      "mtime": "1651189461",
+      "size": "9921",
+      "md5": "a4549f846beb01e047d5493d69b4662c",
+      "crc32": "bacb2c08",
+      "sha1": "ee99f337c5c6f2b560cae284c1ebe49374d70208"
+    },
+    {
       "name": "stevenspointjrl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c5fb503b27541ace70425d2f0c198676a61ebe2",
-      "mtime": "1651187425",
-      "size": "26702",
-      "md5": "459f64ef850c5d1d72d200a4e791d38f",
-      "crc32": "6ab373b9",
-      "sha1": "577805b1179080f88c9ae2c69d52830430cf4091",
+      "btih": "e4f5034be7fea8003ebaaf4a6956f932917ef386",
+      "mtime": "1651189469",
+      "size": "26913",
+      "md5": "f654f48c9f98f2f2e266804a84c48c4a",
+      "crc32": "565e0df6",
+      "sha1": "d020152f726e9ae523afc7b3fb13e8dab5d49a72",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stevenspointjrl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3211c144a6c93653ed49418021aab228",
+      "md5": "126fb2833ad366ffbb59c51cd3070309",
       "summation": "md5"
     },
     {
@@ -1267,9 +1278,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 120,
-  "item_last_updated": 1651187425,
-  "item_size": 11092156,
+  "files_count": 121,
+  "item_last_updated": 1651189469,
+  "item_size": 11102288,
   "metadata": {
     "identifier": "stevenspointjrl-2022",
     "collection": [
@@ -1286,21 +1297,10 @@
     "publicdate": "2022-03-23 23:07:34",
     "addeddate": "2022-03-23 23:07:34"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3248322860,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1796432213,
+  "uniq": 1494444896,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

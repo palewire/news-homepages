@@ -1,5 +1,5 @@
 {
-  "created": 1651187359,
+  "created": 1651189498,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/32/items/lacrossetribune-2022",
@@ -1355,21 +1355,32 @@
       "rotation": "0"
     },
     {
+      "name": "lacrossetribune-2022-04-28T18:08:17.103334-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lacrossetribune-2022-04-28T18:08:17.103334-05:00.jpg",
+      "mtime": "1651189427",
+      "size": "11622",
+      "md5": "9a002f7ef7e6de347298e124cb872ad5",
+      "crc32": "758295ae",
+      "sha1": "45fa98ef6a1eaf36c4a2c9e819661e6b5d33fc8e"
+    },
+    {
       "name": "lacrossetribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18df9c37e3ae432cf1b5059a2881368df163f921",
-      "mtime": "1651187357",
-      "size": "29435",
-      "md5": "b28c18e595e04b478684d3f79e076aaf",
-      "crc32": "b1008b39",
-      "sha1": "513546f55ad267423f3712fe4794fc2d5ccb5ca7",
+      "btih": "562c1eb75d67b096584544f16d54cdaa26bb91fe",
+      "mtime": "1651189470",
+      "size": "29647",
+      "md5": "31b8775613097331e38b5240f2ce890d",
+      "crc32": "49917b9c",
+      "sha1": "c2e38fe5deccd3a1c38922442e0034f76ebae379",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lacrossetribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a95b94a31ebb7f0fa63992306813f145",
+      "md5": "33958488e9760bc9b37db94f8433bc8c",
       "summation": "md5"
     },
     {
@@ -1393,9 +1404,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 132,
-  "item_last_updated": 1651187357,
-  "item_size": 14843283,
+  "files_count": 133,
+  "item_last_updated": 1651189470,
+  "item_size": 14855117,
   "metadata": {
     "identifier": "lacrossetribune-2022",
     "collection": [
@@ -1412,21 +1423,10 @@
     "publicdate": "2022-03-23 23:06:48",
     "addeddate": "2022-03-23 23:06:48"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3248322235,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1357991116,
+  "uniq": 327528646,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

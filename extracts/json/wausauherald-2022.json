@@ -1,5 +1,5 @@
 {
-  "created": 1651187432,
+  "created": 1651189559,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/24/items/wausauherald-2022",
@@ -1207,21 +1207,32 @@
       "rotation": "0"
     },
     {
+      "name": "wausauherald-2022-04-28T18:09:41.089884-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-04-28T18:09:41.089884-05:00.jpg",
+      "mtime": "1651189477",
+      "size": "9496",
+      "md5": "12a2a955e64aaa0c8f88103012e5dbbd",
+      "crc32": "19199b56",
+      "sha1": "9c0be543143ced71c5e865d2ffdf023352780403"
+    },
+    {
       "name": "wausauherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89d6db88a80d428410e52eff8122acda20261070",
-      "mtime": "1651187430",
-      "size": "25884",
-      "md5": "972afd17c8c6eb2d9bf5cceee87a0d88",
-      "crc32": "3d7f520d",
-      "sha1": "2160267c70dc3f8cd6acd6f493b4478f49d3af4f",
+      "btih": "8fd7b41de995347b50be274424345f0fc9e99fbf",
+      "mtime": "1651189523",
+      "size": "26092",
+      "md5": "1b24f9d669f0d56bc92d2d062cf0ee1d",
+      "crc32": "f85b9ab8",
+      "sha1": "050605b2c863e4004be49bacf6362ac81ebe68f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wausauherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83b6095271600c01a1217c162957ba34",
+      "md5": "a8f744667ea1ac31e134a761e19b65a6",
       "summation": "md5"
     },
     {
@@ -1245,9 +1256,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 118,
-  "item_last_updated": 1651187430,
-  "item_size": 10469868,
+  "files_count": 119,
+  "item_last_updated": 1651189523,
+  "item_size": 10479572,
   "metadata": {
     "identifier": "wausauherald-2022",
     "collection": [
@@ -1264,21 +1275,10 @@
     "publicdate": "2022-03-23 23:07:49",
     "addeddate": "2022-03-23 23:07:49"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3248322891,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1603789137,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1199817848,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

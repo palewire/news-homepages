@@ -1,5 +1,5 @@
 {
-  "created": 1651187300,
+  "created": 1651189415,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/gbpressgazette-2022",
@@ -1419,21 +1419,32 @@
       "rotation": "0"
     },
     {
+      "name": "gbpressgazette-2022-04-28T18:07:10.261712-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gbpressgazette-2022-04-28T18:07:10.261712-05:00.jpg",
+      "mtime": "1651189391",
+      "size": "10081",
+      "md5": "2f86438967cf88004bc0bfae262b619c",
+      "crc32": "0549340d",
+      "sha1": "f34e3dfe65fd0789e89c9f8a2a4d7fd3d1121c16"
+    },
+    {
       "name": "gbpressgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "495e13d4f872d4f5b1504e1787aad34f5e1084e2",
-      "mtime": "1651187297",
-      "size": "30448",
-      "md5": "ac237c6587c917326f7addabe57465ce",
-      "crc32": "dbb3a973",
-      "sha1": "66be514857d5ddfbce7449460572569d1ca0e9ee",
+      "btih": "c159aa7f550fd57d6f16994bf4365b07192aef46",
+      "mtime": "1651189398",
+      "size": "30659",
+      "md5": "fbae88cca9f327ec5b14b400d0ce4212",
+      "crc32": "e603eb27",
+      "sha1": "a41e1755ff71c1f20c0c66c6fe713fbda0f599ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gbpressgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4472fb51646338fcd7e3b0c69a4e3087",
+      "md5": "65369dd9897b6c7f160a1c07f8376013",
       "summation": "md5"
     },
     {
@@ -1457,9 +1468,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 138,
-  "item_last_updated": 1651187297,
-  "item_size": 12450160,
+  "files_count": 139,
+  "item_last_updated": 1651189398,
+  "item_size": 12460452,
   "metadata": {
     "identifier": "gbpressgazette-2022",
     "collection": [
@@ -1476,21 +1487,10 @@
     "publicdate": "2022-03-23 23:06:20",
     "addeddate": "2022-03-23 23:06:20"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3248321654,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1169032929,
+  "server": "ia801409.us.archive.org",
+  "uniq": 2110691473,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }
