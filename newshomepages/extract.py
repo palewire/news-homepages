@@ -21,7 +21,9 @@ def cli():
 @cli.command()
 def download():
     """Download the full list of Internet Archive items as JSON."""
-    click.echo("Extracting metadata for the Internet Archive collection")
+    click.echo(
+        f"Extracting metadata for the Internet Archive collection {IA_COLLECTION}"
+    )
     collection = internetarchive.get_item(IA_COLLECTION)
     with open(utils.EXTRACT_DIR / "json" / f"{IA_COLLECTION}.json", "w") as fh:
         json.dump(collection.item_metadata, fh, indent=2)
