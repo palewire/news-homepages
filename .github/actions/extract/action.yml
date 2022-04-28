@@ -1,6 +1,17 @@
 name: Extract
 description: Extract structured data from the Internet Archive collection
 
+inputs:
+  access-key:
+    description: An API key with permission to post to archive.org
+    required: true
+  secret-key:
+    description: An API secret with permission to post to archive.org
+    required: true
+  collection:
+    description: The identifier of the target archive.org collection
+    required: true
+
 runs:
   using: "composite"
   steps:
@@ -8,6 +19,10 @@ runs:
       name: Download Internet Archive metadata
       run: pipenv run python -m newshomepages.extract download;
       shell: bash
+      env:
+        IA_ACCESS_KEY: ${{ inputs.access-key }}
+        IA_SECRET_KEY: ${{ inputs.secret-key }}
+        IA_COLLECTION:  ${{ inputs.collection }}
 
     - id: commit
       name: Commit
