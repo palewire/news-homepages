@@ -9,6 +9,7 @@ A bot that gathers, archives and shares screenshots of news homepages
 :maxdepth: 1
 :name: mastertoc
 
+sources
 installation
 usage
 adding

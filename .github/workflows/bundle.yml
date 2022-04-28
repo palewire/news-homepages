@@ -195,6 +195,19 @@ jobs:
         name: Commit
         uses: ./.github/actions/commit
 
+  docs:
+    name: Update docs
+    needs: [jpg]
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: docs
+        name: Docs
+        uses: ./.github/actions/docs
+
   archive:
     name: Post to archive.org
     needs: [jpg,accessibility,hyperlinks]
