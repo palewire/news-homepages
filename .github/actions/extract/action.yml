@@ -1,0 +1,22 @@
+name: Extract
+description: Extract structured data from the Internet Archive collection
+
+runs:
+  using: "composite"
+  steps:
+    - id: extract
+      name: Extract Internet Archive data
+      run: pipenv run python -m newshomepages.extract item_list;
+      shell: bash
+
+    - id: commit
+      name: Commit
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git config pull.rebase false
+        git status
+        git pull origin $GITHUB_REF
+        git add ./extracts
+        git commit -m "Update extracts" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+      shell: bash
