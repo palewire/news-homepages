@@ -19,7 +19,7 @@ def cli():
 
 
 @cli.command()
-def item_list():
+def download():
     """Download the full list of Internet Archive items as JSON."""
     click.echo("Extracting metadata for the Internet Archive collection")
     collection = internetarchive.get_item(IA_COLLECTION)

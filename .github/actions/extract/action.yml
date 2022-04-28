@@ -4,9 +4,9 @@ description: Extract structured data from the Internet Archive collection
 runs:
   using: "composite"
   steps:
-    - id: extract
-      name: Extract Internet Archive data
-      run: pipenv run python -m newshomepages.extract item_list;
+    - id: download
+      name: Download Internet Archive metadata
+      run: pipenv run python -m newshomepages.extract download;
       shell: bash
 
     - id: commit
