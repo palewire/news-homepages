@@ -1,5 +1,5 @@
 {
-  "created": 1651153592,
+  "created": 1651241129,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/sfchronicle-2022",
@@ -1422,31 +1422,73 @@
       "sha1": "e5c1ff309de52ba8c73a19e83c619095837a3b86"
     },
     {
+      "name": "sfchronicle-2022-04-29T06:46:05.889180-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651239970",
+      "size": "87826",
+      "md5": "9d567d31136bee2f68b08993c3bb9b2c",
+      "crc32": "897ab263",
+      "sha1": "be308e70fe3472271d93a50091892d4913eec325",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-04-29T06:46:05.889180-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651239972",
+      "size": "104825",
+      "md5": "9bd7ea8207bc352c535655b35f0853e6",
+      "crc32": "7e8a875b",
+      "sha1": "d36cc5545d735b55b9a892a1a9976b90fa6852ff",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-04-29T06:46:05.889180-07:00.jpg",
+      "source": "original",
+      "mtime": "1651239969",
+      "size": "328035",
+      "md5": "b8dca915a53e82a8b9bc2d42f2668f0f",
+      "crc32": "942e52a0",
+      "sha1": "8c2ac3694d318178023521d5381d79897ed8dc32",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sfchronicle-2022-04-29T06:46:05.889180-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-04-29T06:46:05.889180-07:00.jpg",
+      "mtime": "1651241087",
+      "size": "9660",
+      "md5": "46a450ebbeb43c5d5fe3a188944494ab",
+      "crc32": "020d6415",
+      "sha1": "c93c24e1e3d22fedd5a33bd9b6e110af9086f2f5"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03d28ad68d1d82ddd98c28c218aaee9c95598a8b",
-      "mtime": "1651153586",
-      "size": "30232",
-      "md5": "ca1fe89f0f78119e2dd67b9ebcfc7f1a",
-      "crc32": "696425b7",
-      "sha1": "f10b36b8a7f9e93147cff91ec4d5b6b92159b22c",
+      "btih": "69c44bc09a3702252a07fc19d0a576e71a00ba0f",
+      "mtime": "1651241115",
+      "size": "31094",
+      "md5": "e7bd23301d3e0466774699772ef4bb5c",
+      "crc32": "fe4d4a14",
+      "sha1": "888982180d736869e87c03243cb1dc9dae9ae984",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5d321aa7c77c5ff0e05726647be2490",
+      "md5": "82c56458a84376f6ff44f859fac6ec17",
       "summation": "md5"
     },
     {
       "name": "sfchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651153535",
-      "size": "167936",
-      "md5": "3af36f0eb1d1b9bc877ffaa768108230",
-      "crc32": "83febe32",
-      "sha1": "88ab32a243591974c177736e97ae79cc41e291aa",
+      "mtime": "1651239977",
+      "size": "172032",
+      "md5": "b506a1c3cba925917b6ab7283a1032a2",
+      "crc32": "f3d9e120",
+      "sha1": "81ad3985d548d9dd30d542318298a46cb454181d",
       "format": "Metadata"
     },
     {
@@ -1460,9 +1502,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 138,
-  "item_last_updated": 1651153586,
-  "item_size": 18048088,
+  "files_count": 142,
+  "item_last_updated": 1651241115,
+  "item_size": 18583392,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -1479,10 +1521,10 @@
     "publicdate": "2022-03-23 02:09:45",
     "addeddate": "2022-03-23 02:09:45"
   },
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "uniq": 1435092411,
+  "server": "ia801501.us.archive.org",
+  "uniq": 972299680,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }
