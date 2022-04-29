@@ -24,6 +24,10 @@ runs:
         IA_SECRET_KEY: ${{ inputs.secret-key }}
         IA_COLLECTION:  ${{ inputs.collection }}
 
+    - id: consolidate
+      name: Consolidate Internet Archive metadata
+      run: pipenv run python -m newshomepages.extract consolidate;
+
     - id: commit
       name: Commit
       run: |
