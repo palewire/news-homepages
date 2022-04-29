@@ -45,6 +45,9 @@ def site_rss():
         file_list = [
             s for s in screenshot_list if s["handle"].lower() == site["handle"].lower()
         ]
+        site_tz = pytz.timezone(site["timezone"])
+        for file in file_list:
+            file["local_time"] = file["mtime"].astimezone(site_tz)
         sorted_list = sorted(file_list, key=lambda x: x["mtime"], reverse=True)
         context = dict(
             now=now,

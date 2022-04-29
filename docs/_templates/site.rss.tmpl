@@ -8,7 +8,7 @@
  <pubDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
  {% for file in file_list %}
  <item>
-  <title>{{ file.date }}</title>
+  <title>{{ file.local_time.strftime("%-I:%M %p") }} local time on {{ file.local_time.strftime("%B %d, %Y") }}</title>
   <link>{{ file.url }}</link>
   <pubDate>{{ file.mtime.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
   <enclosure url="{{ file.url }}" length="{{ file.size }}" type="image/jpeg" />
