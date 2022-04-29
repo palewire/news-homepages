@@ -66,6 +66,14 @@ def site_rss():
         with open(rss_path, "w") as fh:
             fh.write(rss)
 
+    # Create an OPML that collects them all
+    template = TEMPLATE_ENV.get_template("sites.opml.tmpl")
+    context = {"site_list": site_list}
+    opml = template.render(**context)
+    opml_path = PARENT_DIR / "docs" / "_extra" / "rss" / "sites" / "opml.xml"
+    with open(opml_path, "w") as fh:
+        fh.write(opml)
+
 
 if __name__ == "__main__":
     cli()

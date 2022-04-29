@@ -3,10 +3,10 @@
 
 # Sources
 
-The archiving routine is currently capturing {{ site_list|length }} sites.
+The archiving routine is currently capturing {{ site_list|length }} sites. An OPML file containing all of the RSS feeds is available at [palewi.re/docs/news-homepages/rss/sites/](https://palewi.re/docs/news-homepages/rss/sites/).
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 {% for obj in site_list -%}
 |[{{ obj.name }}]({{ obj.url }})|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ obj.handle.lower() }}.xml)|
-{% endfor %}
+{%- endfor %}
