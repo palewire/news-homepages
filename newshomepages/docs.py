@@ -52,7 +52,12 @@ def site_rss():
         )
         rss = template.render(**context)
         rss_path = (
-            PARENT_DIR / "docs" / "rss" / "sites" / f"{site['handle'].lower()}.xml"
+            PARENT_DIR
+            / "docs"
+            / "_extra"
+            / "rss"
+            / "sites"
+            / f"{site['handle'].lower()}.xml"
         )
         with open(rss_path, "w") as fh:
             fh.write(rss)

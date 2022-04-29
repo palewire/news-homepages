@@ -17,6 +17,7 @@ extensions = [
 templates_path = ["_templates"]
 source_suffix = ".rst"
 master_doc = "index"
+html_extra_path = ["_extra"]
 
 project = "news-homepages"
 year = datetime.now().year
