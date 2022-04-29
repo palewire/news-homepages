@@ -3,6 +3,8 @@ import typing
 from datetime import datetime
 from pathlib import Path
 
+import pytz
+
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
 SOURCES_PATH = THIS_DIR / "sources"
@@ -78,8 +80,10 @@ def get_screenshot_list():
     with open(EXTRACT_DIR / "csv" / "screenshot-files.csv") as fh:
         site_reader = csv.DictReader(fh)
         obj_list = list(site_reader)
+    tz = pytz.timezone("US/Pacific")
     for obj in obj_list:
-        obj["mtime"] = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
+        dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
+        obj["mtime"] = tz.localize(dt).astimezone(pytz.utc)
     return obj_list
 
 

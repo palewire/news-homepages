@@ -3,6 +3,7 @@ from pathlib import Path
 
 import click
 import jinja2
+import pytz
 
 from . import utils
 
@@ -38,7 +39,7 @@ def site_rss():
     """Create RSS feed for each site."""
     site_list = utils.get_site_list()
     screenshot_list = utils.get_screenshot_list()
-    now = datetime.now()
+    now = datetime.now(pytz.utc)
     for site in site_list:
         template = TEMPLATE_ENV.get_template("site.rss.tmpl")
         file_list = [
