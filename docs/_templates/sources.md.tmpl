@@ -5,8 +5,8 @@
 
 The archiving routine is currently capturing {{ site_list|length }} sites.
 
-| Site  | Latest screenshot |
-| :---- | :---------------: |
+| Site  | Latest screenshot | RSS |
+| :---- | :---------------: | :-- |
 {% for obj in site_list -%}
-|[{{ obj.name }}]({{ obj.url }})|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg)|
+|[{{ obj.name }}]({{ obj.url }})|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wsj.xml)|
 {% endfor %}

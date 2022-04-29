@@ -4,9 +4,14 @@ description: Update templated documentation pages
 runs:
   using: "composite"
   steps:
-    - id: update-docs
-      name: Update documentation
-      run: pipenv run python -m newshomepages.docs
+    - id: source-list
+      name: Update source list
+      run: pipenv run python -m newshomepages.docs source-list;
+      shell: bash
+
+    - id: site-rss
+      name: Update site RSS
+      run: pipenv run python -m newshomepages.docs site-rss;
       shell: bash
 
     - id: commit

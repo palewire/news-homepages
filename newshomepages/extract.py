@@ -2,6 +2,7 @@ import csv
 import json
 import os
 import time
+from datetime import datetime
 
 import click
 import internetarchive
@@ -104,7 +105,7 @@ def consolidate():
                     handle=site["handle"],
                     file_name=file["name"],
                     url=f"https://archive.org/download/{item_data['metadata']['identifier']}/{file['name']}",
-                    mtime=file["mtime"],
+                    mtime=datetime.fromtimestamp(int(file["mtime"])),
                     size=file["size"],
                     md5=file["md5"],
                     sha1=file["sha1"],

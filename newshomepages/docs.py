@@ -1,3 +1,4 @@
+from datetime import datetime
 from pathlib import Path
 
 import click
@@ -5,28 +6,57 @@ import jinja2
 
 from . import utils
 
+PARENT_DIR = Path(__file__).parent.parent
+TEMPLATE_DIR = PARENT_DIR / "docs" / "_templates/"
+TEMPLATE_LOADER = jinja2.FileSystemLoader(searchpath=TEMPLATE_DIR)
+TEMPLATE_ENV = jinja2.Environment(loader=TEMPLATE_LOADER)
 
-@click.command()
-def main():
+
+@click.group()
+def cli():
     """Update templated documentation pages."""
-    click.echo("Updating documentation")
+    pass
 
-    this_dir = Path(__file__).parent
-    parent_dir = this_dir.parent
-    loader = jinja2.FileSystemLoader(searchpath=parent_dir / "docs" / "_templates/")
-    env = jinja2.Environment(loader=loader)
 
+@cli.command()
+def source_list():
+    """Create source list."""
     site_list = sorted(utils.get_site_list(), key=lambda x: x["name"])
 
     context = {
         "site_list": site_list,
     }
-    template = env.get_template("sources.md.tmpl")
+    template = TEMPLATE_ENV.get_template("sources.md.tmpl")
     md = template.render(**context)
 
-    with open(parent_dir / "docs" / "sources.md", "w") as fh:
+    with open(PARENT_DIR / "docs" / "sources.md", "w") as fh:
         fh.write(md)
 
 
+@cli.command()
+def site_rss():
+    """Create RSS feed for each site."""
+    site_list = utils.get_site_list()
+    screenshot_list = utils.get_screenshot_list()
+    now = datetime.now()
+    for site in site_list:
+        template = TEMPLATE_ENV.get_template("site.rss.tmpl")
+        file_list = [
+            s for s in screenshot_list if s["handle"].lower() == site["handle"].lower()
+        ]
+        sorted_list = sorted(file_list, key=lambda x: x["mtime"], reverse=True)
+        context = dict(
+            now=now,
+            obj=site,
+            file_list=sorted_list[:25],
+        )
+        rss = template.render(**context)
+        rss_path = (
+            PARENT_DIR / "docs" / "rss" / "sites" / f"{site['handle'].lower()}.xml"
+        )
+        with open(rss_path, "w") as fh:
+            fh.write(rss)
+
+
 if __name__ == "__main__":
-    main()
+    cli()

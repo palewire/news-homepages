@@ -1,5 +1,6 @@
 import csv
 import typing
+from datetime import datetime
 from pathlib import Path
 
 # Set paths for key files
@@ -67,6 +68,19 @@ def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:
     bundle = get_bundle(slug)
     site_list = get_site_list()
     return [s for s in site_list if s["bundle"] == bundle["slug"]]
+
+
+def get_screenshot_list():
+    """Get the full list of screenshots from our extracts.
+
+    Returns a list of dictionaries.
+    """
+    with open(EXTRACT_DIR / "csv" / "screenshot-files.csv") as fh:
+        site_reader = csv.DictReader(fh)
+        obj_list = list(site_reader)
+    for obj in obj_list:
+        obj["mtime"] = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
+    return obj_list
 
 
 def get_javascript(handle: str) -> typing.Optional[str]:
