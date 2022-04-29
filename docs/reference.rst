@@ -26,6 +26,14 @@ Commands
    :prog: discorder
    :nested: full
 
+.. click:: newshomepages.docs:cli
+   :prog: docs
+   :nested: full
+
+.. click:: newshomepages.extract:cli
+   :prog: extract
+   :nested: full
+
 .. click:: newshomepages.hyperlinks:cli
    :prog: hyperlinks
    :nested: full
