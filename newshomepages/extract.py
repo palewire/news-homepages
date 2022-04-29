@@ -103,11 +103,13 @@ def consolidate():
                     identifier=item_data["metadata"]["identifier"],
                     handle=site["handle"],
                     file_name=file["name"],
+                    url=f"https://archive.org/download/{item_data['metadata']['identifier']}/{file['name']}",
                     mtime=file["mtime"],
                     size=file["size"],
                     md5=file["md5"],
                     sha1=file["sha1"],
                 )
+                # https://archive.org/download/lehuffpost-2022/lehuffpost-2022-04-09T15%3A43%3A17.585783%2B02%3A00.jpg
                 if file["format"] == "JPEG":
                     screenshot_output.append(file_dict)
                 elif "accessibility" in file["name"]:
