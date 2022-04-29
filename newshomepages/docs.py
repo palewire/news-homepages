@@ -68,11 +68,31 @@ def site_rss():
 
     # Create an OPML that collects them all
     template = TEMPLATE_ENV.get_template("sites.opml.tmpl")
-    context = {"site_list": site_list}
+    context = {"site_list": sorted(site_list, key=lambda x: x["name"])}
     opml = template.render(**context)
     opml_path = PARENT_DIR / "docs" / "_extra" / "rss" / "sites" / "opml.xml"
     with open(opml_path, "w") as fh:
         fh.write(opml)
+
+    # Create full feed
+    sorted_list = sorted(screenshot_list, key=lambda x: x["mtime"], reverse=True)
+    trimmed_list = sorted_list[:100]
+    for file_ in trimmed_list:
+        site = next(
+            s for s in site_list if s["handle"].lower() == file_["handle"].lower()
+        )
+        file_["site_name"] = site["name"]
+        site_tz = pytz.timezone(site["timezone"])
+        file_["local_time"] = file_["mtime"].astimezone(site_tz)
+    template = TEMPLATE_ENV.get_template("all.rss.tmpl")
+    context = dict(
+        file_list=trimmed_list,
+        now=now,
+    )
+    all_ = template.render(**context)
+    all_path = PARENT_DIR / "docs" / "_extra" / "rss" / "sites" / "all.xml"
+    with open(all_path, "w") as fh:
+        fh.write(all_)
 
 
 if __name__ == "__main__":
