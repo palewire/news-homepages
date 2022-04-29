@@ -27,6 +27,7 @@ runs:
     - id: consolidate
       name: Consolidate Internet Archive metadata
       run: pipenv run python -m newshomepages.extract consolidate;
+      shell: bash
 
     - id: commit
       name: Commit
