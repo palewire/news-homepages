@@ -22,6 +22,7 @@ Field | Description
 `handle` | The Twitter handle of the outlet. A unique identifier
 `name` | The name of the outlet
 `url` | The URL of the homepage
+`location` | The city where the site is based
 `timezone` | The timezone where the site is based
 
 ## items.csv

@@ -59,6 +59,7 @@ def consolidate():
             handle=site["handle"],
             name=site["name"],
             url=site["url"],
+            location=site["location"],
             timezone=site["timezone"],
         )
         # Add to the output list

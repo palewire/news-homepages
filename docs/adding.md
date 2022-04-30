@@ -5,7 +5,7 @@
 
 ## Add record to sites file
 
-Adding a new site requires that a new row be added to [`sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv) with, at a minimum, the Twitter handle, URL, name and timezone of the target.
+Adding a new site requires that a new row be added to [`sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv) with, at a minimum, the Twitter handle, URL, name, location and timezone of the target.
 
 You can also override the system’s defaults by adding optional attributes for the width, height and time delay of the screenshots.
 
