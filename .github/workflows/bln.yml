@@ -1,0 +1,20 @@
+name: Mirror at biglocalnews.org
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+  job:
+    name: Upload extracts to biglocalnews.org
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Upload folder to biglocalnews.org
+        uses: biglocalnews/upload-files@v2
+        with:
+          api-key: ${{ secrets.BLN_API_TOKEN }}
+          project-id: ${{ secrets.BLN_PROJECT_ID }}
+          path: extracts/
