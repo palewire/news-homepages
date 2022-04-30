@@ -1,7 +1,7 @@
 ```{include} _templates/nav.html
 ```
 
-# Sources
+# Site directory
 
 The archiving routine is currently capturing 101 sites.
 

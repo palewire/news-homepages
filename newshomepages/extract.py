@@ -79,6 +79,7 @@ def consolidate():
                 identifier=item_data["metadata"]["identifier"],
                 handle=site["handle"],
                 file_name=site_json.name,
+                url=f"https://archive.org/details/{item_data['metadata']['identifier']}",
                 title=item_data["metadata"]["title"],
                 date=item_data["metadata"]["date"],
                 publicdate=item_data["metadata"]["publicdate"],
