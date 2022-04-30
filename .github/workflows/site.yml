@@ -23,7 +23,7 @@ jobs:
         uses: ./.github/actions/docs
 
   rss:
-    name: Update docs
+    name: Update RSS
     runs-on: ubuntu-latest
     needs: [docs]
     steps:
