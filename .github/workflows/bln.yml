@@ -5,6 +5,7 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+jobs:
   job:
     name: Upload extracts to biglocalnews.org
     runs-on: ubuntu-latest
