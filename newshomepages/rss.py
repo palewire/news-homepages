@@ -14,7 +14,7 @@ TEMPLATE_ENV = jinja2.Environment(loader=TEMPLATE_LOADER)
 
 
 @click.command()
-def main():
+def cli():
     """Create RSS feeds."""
     site_list = utils.get_site_list()
     screenshot_list = utils.get_screenshot_list()
@@ -75,4 +75,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    cli()
