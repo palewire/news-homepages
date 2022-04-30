@@ -1,5 +1,5 @@
 {
-  "created": 1651251458,
+  "created": 1651273810,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/journalsentinel-2022",
@@ -1408,31 +1408,73 @@
       "sha1": "0ab0ccdfe34065f42c4ff9ea3d100c717d311d85"
     },
     {
+      "name": "journalsentinel-2022-04-29T18:08:20.876949-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651273734",
+      "size": "23197",
+      "md5": "7a2e786ffd6decf212ad5380e405d988",
+      "crc32": "2914eed0",
+      "sha1": "db71d504037a600e791e45125c0b09f413fd6336",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-04-29T18:08:20.876949-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651273735",
+      "size": "36552",
+      "md5": "31846394259ae08b44324626bb4902ac",
+      "crc32": "6ea60f74",
+      "sha1": "33ae8548528967f9f7b50cae315d4194a0c61c7d",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-04-29T18:08:20.876949-05:00.jpg",
+      "source": "original",
+      "mtime": "1651273732",
+      "size": "278522",
+      "md5": "fecc993e74fddd82e05f0fbc9d862b0e",
+      "crc32": "3bf300ec",
+      "sha1": "627a514e28c9a686f831c8f97a61629f2f4c115a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalsentinel-2022-04-29T18:08:20.876949-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalsentinel-2022-04-29T18:08:20.876949-05:00.jpg",
+      "mtime": "1651273796",
+      "size": "9604",
+      "md5": "d900c06d3c9c958050185c9ccb7e1978",
+      "crc32": "8f707fdc",
+      "sha1": "ac3e227699419f0187ef233962f899c4b9c8c429"
+    },
+    {
       "name": "journalsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a8737cb32fe75f650382e969d5e7dce68aaaa3f",
-      "mtime": "1651189413",
-      "size": "30359",
-      "md5": "9465fafcc571387ff582a3c0d68abf4f",
-      "crc32": "2c31766b",
-      "sha1": "c660db8a5cd1774bd28ece0801ea8f7705e4569a",
+      "btih": "e709d1f1f2846c602b623d12f3e73d11eeaa52d3",
+      "mtime": "1651273800",
+      "size": "31236",
+      "md5": "ecaadad0b6d3f45f3c2bf71c4f7c2584",
+      "crc32": "2a247bd7",
+      "sha1": "a26ac4843b4f096e234b1016d8bc703842c6c024",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c88d9787d8d5b10a7cb10d833b8bd6c3",
+      "md5": "be93f72dae9c0c80c1440e4097a390f0",
       "summation": "md5"
     },
     {
       "name": "journalsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651187300",
-      "size": "167936",
-      "md5": "45e0b97eff2aa66464585acce7e1a8a4",
-      "crc32": "a403a7a0",
-      "sha1": "cbfa0dc56511255d256af422e371088d804a971a",
+      "mtime": "1651273739",
+      "size": "172032",
+      "md5": "5606af0826bd85409062fa7bfdfb8ae3",
+      "crc32": "e4b03e70",
+      "sha1": "764c65c9712f4a7190feb312da3d2f39b48c3d22",
       "format": "Metadata"
     },
     {
@@ -1446,655 +1488,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1651189413,
-  "item_size": 11941048,
-  "journalsentinel-2022": [
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.jsonline.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022SPRING&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.jsonline.com%2F"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.jsonline.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022SPRING&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.jsonline.com%2F"
-    },
-    {
-      "text": "News",
-      "url": "/news/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "Packers",
-      "url": "/sports/packers/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Communities",
-      "url": "/communities/"
-    },
-    {
-      "text": "USA TODAY",
-      "url": "https://www.usatoday.com/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "https://www.jsonline.com/obituaries/"
-    },
-    {
-      "text": "E-Edition",
-      "url": "https://user.jsonline.com/user/enewspaper"
-    },
-    {
-      "text": "Legals",
-      "url": "https://www.jsonline.com/public-notices"
-    },
-    {
-      "text": "",
-      "url": "/search/"
-    },
-    {
-      "text": "",
-      "url": "/weather/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.jsonline.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022SPRING&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.jsonline.com%2F"
-    },
-    {
-      "text": "",
-      "url": "https://login.jsonline.com/PMJS-GUP/authenticate?success-url=https%3A%2F%2Fwww.jsonline.com%2F&cancel-url=https%3A%2F%2Fwww.jsonline.com%2F"
-    },
-    {
-      "text": " Legal system, aware of trauma's link to prison, is re-examining worst cases. Should we?",
-      "url": "/in-depth/news/special-reports/2022/04/28/childhood-trauma-can-predictor-later-crises-how-do-you-score/6341445001/"
-    },
-    {
-      "text": "Without Family House, former prisoners say, they'd be homeless",
-      "url": "/in-depth/news/special-reports/2022/04/28/milwaukee-program-family-house-tries-address-key-issue-ex-prisoners-housing/6080893001/"
-    },
-    {
-      "text": "'We lock up too many people for too long and at too high of an expense'",
-      "url": "/in-depth/news/special-reports/2022/04/28/wisconsin-corrections-secretary-kevin-carr-says-accountability-alone-doesnt-work/7227052001/"
-    },
-    {
-      "text": "Hate crime acid attack trial ends with conviction",
-      "url": "/story/news/crime/2022/04/28/milwaukee-jury-convicts-man-who-threw-acid-hispanic-man/9570668002/"
-    },
-    {
-      "text": "We Energies wants to raise rates for average customer by $60-$72 per year",
-      "url": "/story/money/business/2022/04/28/we-energies-wants-60-72-rate-increase-average-customer-wps-wisconsin/7275091001/"
-    },
-    {
-      "text": "Dwyane Wade will return to Marquette as commencement speaker",
-      "url": "/story/sports/college/marquette/2022/04/28/former-marquette-star-dwyane-wade-speak-2022-commencement/9571778002/"
-    },
-    {
-      "text": " Daniel Kelly calls Brian Hagedorn 'supremely unreliable'\u2026",
-      "url": "/story/news/politics/2022/04/28/daniel-kelly-calls-brian-hagedorn-supremely-unreliable-justice-wisconsin-supreme-court/9569878002/"
-    },
-    {
-      "text": " Bavette's new restaurant opens Friday in Third Ward",
-      "url": "/story/entertainment/dining/2022/04/28/bavettes-new-restaurant-opens-friday-milwaukees-third-ward/9570705002/"
-    },
-    {
-      "text": " Wisconsin redistricting gives Republicans a lock on the\u2026",
-      "url": "/story/news/politics/analysis/2022/04/28/wisconsin-redistricting-gives-republicans-lock-legislature/9559616002/"
-    },
-    {
-      "text": " Favre to have Packers radio gig on ESPN Milwaukee",
-      "url": "/story/entertainment/television-radio/2022/04/28/brett-favre-have-weekly-radio-gig-during-packers-season-wtki-fm/9568492002/"
-    },
-    {
-      "text": " 5 spring wildflower hikes in the Milwaukee area",
-      "url": "/story/travel/wisconsin/outdoors/2022/04/28/spring-wildflowers-hikes-parks-milwaukee-area/7415453001/"
-    },
-    {
-      "text": " New courts to address case backlog in Milwaukee County could open as early as June\u00a0",
-      "url": "/story/news/crime/2022/04/28/milwaukee-courts-address-criminal-case-backlog-open-june/9559342002/"
-    },
-    {
-      "text": " Men speak out about sexual abuse, say anyone could be a victim\u00a0",
-      "url": "/story/news/local/milwaukee/2022/04/28/men-speak-out-sexual-abuse-say-anyone-could-victim-denim-day-milwaukee/7445645001/"
-    },
-    {
-      "text": " 14-year-old boy arrested in Lily Peters homicide, held on $1 million bail\u00a0",
-      "url": "/story/news/crime/2022/04/27/chippewa-falls-boy-arrested-lily-peters-homicide-court-appearance-judge-orders-1-million-bail/9556846002/"
-    },
-    {
-      "text": "More in News",
-      "url": "/news/"
-    },
-    {
-      "text": " How McCutchen's big day at the plate and a bunt by Yelich led to sweep\u00a0",
-      "url": "/story/sports/mlb/brewers/2022/04/28/milwaukee-brewers-andrew-mccutchen-has-big-day-win-over-pirates/9568534002/"
-    },
-    {
-      "text": " Dwyane Wade will return to Marquette as commencement speaker\u00a0",
-      "url": "/story/sports/college/marquette/2022/04/28/former-marquette-star-dwyane-wade-speak-2022-commencement/9571778002/"
-    },
-    {
-      "text": " 'Cutch' is clutch: McCutchen drives in all three runs as Brewers sweep\u00a0",
-      "url": "/story/sports/mlb/brewers/2022/04/28/milwaukee-brewers-vs-pittsburgh-pirates-pnc-park-lineup-game-score-updates/9568522002/"
-    },
-    {
-      "text": "More in Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": " We Energies wants to raise rates for average customer by $60-$72 per year\u00a0",
-      "url": "/story/money/business/2022/04/28/we-energies-wants-60-72-rate-increase-average-customer-wps-wisconsin/7275091001/"
-    },
-    {
-      "text": " UAW, environmental group sue Postal Service to stop production of Oshkosh Defense mail trucks\u00a0",
-      "url": "/story/news/2022/04/28/uaw-nrdc-sue-usps-stop-production-oshkosh-defense-mail-trucks-national-resources-defense-council/9570423002/"
-    },
-    {
-      "text": " $20 million fund created to help finance Wisconsin affordable housing\u00a0",
-      "url": "/story/money/real-estate/commercial/2022/04/28/20-million-fund-created-help-finance-wisconsin-affordable-housing/9573898002/"
-    },
-    {
-      "text": "More in Business",
-      "url": "/business/"
-    },
-    {
-      "text": " Judge rules teen accused of sexually assaulting an 87-year-old will be tried as an adult\u00a0",
-      "url": "/story/communities/waukesha/2022/04/28/waukesha-boy-charged-87-year-olds-sex-assault-tried-adult/7436849001/"
-    },
-    {
-      "text": " Wauwatosa committee OKs ordinance to prohibit pet stores from profiting off the sale of dogs\u00a0",
-      "url": "/story/communities/west/news/wauwatosa/2022/04/28/wauwatosa-ordinance-would-prohibit-pet-stores-selling-dogs-cats/9552889002/"
-    },
-    {
-      "text": " Wisconsin now has its first unionized Starbucks\u00a0",
-      "url": "/story/communities/south/news/oak-creek/2022/04/28/starbucks-oak-creek-first-wisconsin-unionize/9567099002/"
-    },
-    {
-      "text": "More in Communities",
-      "url": "/communities/"
-    },
-    {
-      "text": "",
-      "url": "/picture-gallery/sports/nba/bucks/2022/04/28/milwaukee-bucks-vs-chicago-bulls-game-5-nba-playoff-photos-fiserv-forum-april-27-2022/9559702002/"
-    },
-    {
-      "text": " Bavette's new restaurant opens Friday in Third Ward, with more room and menu items\u00a0",
-      "url": "/story/entertainment/dining/2022/04/28/bavettes-new-restaurant-opens-friday-milwaukees-third-ward/9570705002/"
-    },
-    {
-      "text": " Report: Arts, culture sector rebounding, movie theaters still hurting\u00a0",
-      "url": "/story/entertainment/arts/2022/04/28/arts-cultures-wisconsin-policy-forum-2022/9556726002/"
-    },
-    {
-      "text": " Strange Town Bottle Shop's natural-wine bar opens May 1 downtown\u00a0",
-      "url": "/story/entertainment/dining/2022/04/28/strange-towns-natural-wine-bar-opens-may-1-3rd-street-market-hall-milwaukee/9559587002/"
-    },
-    {
-      "text": "More in Entertainment",
-      "url": "/entertainment/"
-    },
-    {
-      "text": " In a Third Ward condo with spectacular views, she adds oodles of her own flower art\u00a0",
-      "url": "/story/life/home-garden/at-home-with/2022/04/28/spaces-traces-2022-tour-condo-packed-art-has-great-views-third-ward-historic-milwaukee/7438333001/"
-    },
-    {
-      "text": " 5 spring wildflower hikes in the Milwaukee area\u00a0",
-      "url": "/story/travel/wisconsin/outdoors/2022/04/28/spring-wildflowers-hikes-parks-milwaukee-area/7415453001/"
-    },
-    {
-      "text": " Turkmenistan immigrant spent 17 years decorating cakes before opening Cake Creations Cafe\u00a0",
-      "url": "/story/life/food/fork-spoon-life/2022/04/28/cake-creations-cafe-grafton-custom-cakes-and-asian-traditions/7444668001/"
-    },
-    {
-      "text": "More in Life",
-      "url": "/life/"
-    },
-    {
-      "text": " Rentals could get electrical inspections to make them safer\u00a0",
-      "url": "/story/news/investigations/2022/03/29/milwaukee-building-code-violations-may-open-door-electrical-inspections-zip-code-53206-53209/7156709001/"
-    },
-    {
-      "text": " Bice: Dems criticize Amazon's anti-union efforts but still own stock, use it\u00a0",
-      "url": "/story/news/investigations/daniel-bice/2022/04/25/bice-dems-dont-drop-amazon-despite-criticizing-anti-union-efforts/7414017001/"
-    },
-    {
-      "text": " How the criminal justice system failed to hold Darrell Brooks accountable\u00a0",
-      "url": "/story/news/investigations/2022/03/17/how-waukesha-christmas-parade-suspect-darrell-brooks-dodged-law-bail/9446125002/"
-    },
-    {
-      "text": "More in Investigations",
-      "url": "/watchdog/"
-    },
-    {
-      "text": " Wayfair\u2019s Way Day 2022 sale ends tonight\u2014save up to 80% now\u00a0",
-      "url": "/story/money/reviewed/2022/04/28/wayfair-way-day-2022-sale/9560494002/"
-    },
-    {
-      "text": " Shop Way Day deals on recliners and sofas at Wayfair\u2014today only\u00a0",
-      "url": "/story/money/reviewed/2022/04/25/wayfair-sale-way-day-2022-recliners-sofa-couches/7443852001/"
-    },
-    {
-      "text": " Shop Kelly Clarkson Home rugs on sale during Way Day 2022\u00a0",
-      "url": "/story/money/reviewed/2022/04/28/wayfair-sale-way-day-2022-kelly-clarkson-rug-deal/7411553001/"
-    },
-    {
-      "text": "More in Reviewed",
-      "url": "https://www.usatoday.com/tech/reviewedcom/"
-    },
-    {
-      "text": "Enter to WIN!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://jsonline.secondstreetapp.com/Pool-Park-Dolphin-Pool-Cleaner-Giveaway/?itm_campaign=Pool%20Park%20Pool%20Cleaner&itm_medium=con&itm_source=secondStreet"
-    },
-    {
-      "text": "Enter Now!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://jsonline.secondstreetapp.com/Garage-Door-Giveaway/?itm_campaign=Garage%20Door%20Giveaway&itm_medium=con&itm_source=secondStreet"
-    },
-    {
-      "text": "Enter Every Day!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "http://jsonline.secondstreetapp.com/2022-Spring-Home-Makeover-Sweepstakes-2/?itm_campaign=2022%20Spring%20Home%20April%201&itm_medium=con&itm_source=secondStreet"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "5G Home Internet Deals",
-      "url": "https://startsearch.net/index.php?rgid=299558&gclid=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1gojLf27_fchtJq#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1gojLf27_fchtJq"
-    },
-    {
-      "text": "The Fastest 5G Home Internet in Des Moines is so Affordable we're almost Giving it Away5G Home Internet Deals|",
-      "url": "https://startsearch.net/index.php?rgid=299558&gclid=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1gojLf27_fchtJq#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1gojLf27_fchtJq"
-    },
-    {
-      "text": "",
-      "url": "https://startsearch.net/index.php?rgid=299558&gclid=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1gojLf27_fchtJq#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1gojLf27_fchtJq"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Marisha",
-      "url": "https://www.marisha.store/products/2022-ladies-new-knitted-carved-canvas-shoes-uli3?st=&utm_source=taboola&utm_medium=referral&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDGuFgoh4u3qPK9porEAQ#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDGuFgoh4u3qPK9porEAQ"
-    },
-    {
-      "text": "2022 trendy color canvas shoesMarisha|",
-      "url": "https://www.marisha.store/products/2022-ladies-new-knitted-carved-canvas-shoes-uli3?st=&utm_source=taboola&utm_medium=referral&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDGuFgoh4u3qPK9porEAQ#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDGuFgoh4u3qPK9porEAQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.marisha.store/products/2022-ladies-new-knitted-carved-canvas-shoes-uli3?st=&utm_source=taboola&utm_medium=referral&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDGuFgoh4u3qPK9porEAQ#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDGuFgoh4u3qPK9porEAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Shop Now",
-      "url": "https://trc.taboola.com/gannettcompany-jsonline/log/3/click?pi=%2F&ri=c111d2a401ba3e17b1a634066d79b91e&sd=v2_c3d7809cc265baf8c883f270aa07da16_4302bdee-c312-4551-ac63-3513c4b5adc6-tuct964a2dd_1651187038_1651187038_CIi3jgYQwqVAGL_uqpOHMCABKAQw4QE4kaQOQLzIDkjDzdkDUKcFWABgAGi3-820jvr_vzRwAQ&ui=4302bdee-c312-4551-ac63-3513c4b5adc6-tuct964a2dd&it=text&ii=~~V1~~8056962026387942829~~Zog2s6anCyQvYdcns0R-tTTvwr32fus7Q6oktXFjQ48ndpXq_nTToVci-tV_1bYyPVPbFHdycXfyr1VxmozLcV7JbGFbjtizQN29Zpin8p1JlawpbYFtoRw_FVSAoDPy8yoVX_ZV1DUzrU9mgEqIxVpt34vkyVLCqQj-j_6Ik-WFwt9_72reDSrMsTKuuUo5v3KZnUas0Sb2xPlF_5OFwYQcaYsR0k6lHcB4qP6JCsAR6_uJK691ABHAqNH0iqx-SK7vEXVR5SZgcJP0CHgIQ3TxLpDZmkCzM8jt0p2xLxvjv0bNnp6pOqc_l4h84-EoRMiMsWt_J59zH-ihmwYd_g&pt=home&li=rbox-h2v&sig=201f760f56978a2121f301fde730a857c07e66fc9534&redir=https%3A%2F%2Fwww.marisha.store%2Fproducts%2F2022-ladies-new-knitted-carved-canvas-shoes-uli3%3Fst%3D%26utm_source%3Dtaboola%26utm_medium%3Dreferral%26tblci%3DGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDGuFgoh4u3qPK9porEAQ%23tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDGuFgoh4u3qPK9porEAQ&vi=1651187038015&p=surmobiintl-outreach-genzen-sc&r=49&lti=deflated&ppb=CLoH&cpb=EhIyMDIyMDQyOC04LVJFTEVBU0UYzRIgnP__________ASoZY2gudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjODAyMzU4gKaWwgJAkaQOSLzIDlDDzdkDWKcFYwjXFhDVHxgjZGMIvBcQ6iAYJGRjCKUqELk5GBRkYwjcChCgEBgWZGMIlhQQmxwYGGRjCNIDEOAGGAhkYwjcFRD7JRgJZGMI6yQQ7jcYHWRjCPQUEJ4dGB9kYwjR__________8BENH__________wEYL2R4AYAB____________AYgB____________AQ&cta=true"
-    },
-    {
-      "text": "Chandeliers",
-      "url": "https://truesearches.net/index.php?rgid=339421&gclid={ob_click_id}#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCc01gomructK-x7aAN"
-    },
-    {
-      "text": "Chandeliers on Clearance Sale. Search Top Styles TodayChandeliers|",
-      "url": "https://truesearches.net/index.php?rgid=339421&gclid={ob_click_id}#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCc01gomructK-x7aAN"
-    },
-    {
-      "text": "",
-      "url": "https://truesearches.net/index.php?rgid=339421&gclid={ob_click_id}#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCc01gomructK-x7aAN"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Hair loss | Search Ads",
-      "url": "https://link.trackask.com/go/b9d86419-7f7d-45a1-bd1b-b839d100997d?click_id=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCDrFgoxK-kmrHdjtN1&site=jsonline.com&adtitle=how+to+stop+hair+fall+immediately+at+home+for+female&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCDrFgoxK-kmrHdjtN1#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCDrFgoxK-kmrHdjtN1"
-    },
-    {
-      "text": "how to stop hair fall immediately at home for femaleHair loss | Search Ads|",
-      "url": "https://link.trackask.com/go/b9d86419-7f7d-45a1-bd1b-b839d100997d?click_id=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCDrFgoxK-kmrHdjtN1&site=jsonline.com&adtitle=how+to+stop+hair+fall+immediately+at+home+for+female&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCDrFgoxK-kmrHdjtN1#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCDrFgoxK-kmrHdjtN1"
-    },
-    {
-      "text": "",
-      "url": "https://link.trackask.com/go/b9d86419-7f7d-45a1-bd1b-b839d100997d?click_id=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCDrFgoxK-kmrHdjtN1&site=jsonline.com&adtitle=how+to+stop+hair+fall+immediately+at+home+for+female&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCDrFgoxK-kmrHdjtN1#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCDrFgoxK-kmrHdjtN1"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Water Damage Restoration | Search Ads",
-      "url": "https://frequentsearches.com/index.php?rgid=339028&gclid=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyD4zlgoiqza2Y7a6Mgs#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyD4zlgoiqza2Y7a6Mgs"
-    },
-    {
-      "text": "Water Damage Restorations Near MeFind water damage restoration contractors near you.Water Damage Restoration | Search Ads|",
-      "url": "https://frequentsearches.com/index.php?rgid=339028&gclid=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyD4zlgoiqza2Y7a6Mgs#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyD4zlgoiqza2Y7a6Mgs"
-    },
-    {
-      "text": "",
-      "url": "https://frequentsearches.com/index.php?rgid=339028&gclid=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyD4zlgoiqza2Y7a6Mgs#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyD4zlgoiqza2Y7a6Mgs"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "plaque-psoriasiscareweb.com",
-      "url": "https://c8b8f9.bpndrpxzpsxzbm.com?adtitle=Signs+and++Symptoms+of+Psoriasis&network=taboola&site=gannettcompany-jsonline&dpco=1&click_id=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDR5Fgom4DW9YuujogP&subid1=2022-04-28+23%3A03%3A58&subid2=Signs+and++Symptoms+of+Psoriasis&subid3=organic&subid4=jsonline.com&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDR5Fgom4DW9YuujogP#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDR5Fgom4DW9YuujogP"
-    },
-    {
-      "text": "Signs and  Symptoms of PsoriasisGet Answers to Frequently Asked Questions About Psoriasis Treatment.plaque-psoriasiscareweb.com|",
-      "url": "https://c8b8f9.bpndrpxzpsxzbm.com?adtitle=Signs+and++Symptoms+of+Psoriasis&network=taboola&site=gannettcompany-jsonline&dpco=1&click_id=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDR5Fgom4DW9YuujogP&subid1=2022-04-28+23%3A03%3A58&subid2=Signs+and++Symptoms+of+Psoriasis&subid3=organic&subid4=jsonline.com&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDR5Fgom4DW9YuujogP#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDR5Fgom4DW9YuujogP"
-    },
-    {
-      "text": "",
-      "url": "https://c8b8f9.bpndrpxzpsxzbm.com?adtitle=Signs+and++Symptoms+of+Psoriasis&network=taboola&site=gannettcompany-jsonline&dpco=1&click_id=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDR5Fgom4DW9YuujogP&subid1=2022-04-28+23%3A03%3A58&subid2=Signs+and++Symptoms+of+Psoriasis&subid3=organic&subid4=jsonline.com&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDR5Fgom4DW9YuujogP#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDR5Fgom4DW9YuujogP"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "ThriveHealthLab",
-      "url": "https://go.thethrivehealthlab.com/6e7843d9-f1ba-4e0d-8911-fa481cd8bb88?site=gannettcompany-jsonline&site_id=1053378&title=Top+Doctor%3A+What+Hearing+Loss+And+Tinnitus+Do+To+The+Brain&platform=Desktop&campaign_id=12209238&campaign_item_id=3026365459&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F592e777649cf37d088d4b4378084bfb1.jpeg&timestamp=2022-04-28+23%3A03%3A58&domain=jsonline.com&campaign_name=thethrivehealthlab&click_id=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld"
-    },
-    {
-      "text": "Top Doctor: What Hearing Loss And Tinnitus Do To The BrainFighting Tinnitus (Ear Ringing)? Try This ImmediatelyThriveHealthLab|",
-      "url": "https://go.thethrivehealthlab.com/6e7843d9-f1ba-4e0d-8911-fa481cd8bb88?site=gannettcompany-jsonline&site_id=1053378&title=Top+Doctor%3A+What+Hearing+Loss+And+Tinnitus+Do+To+The+Brain&platform=Desktop&campaign_id=12209238&campaign_item_id=3026365459&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F592e777649cf37d088d4b4378084bfb1.jpeg&timestamp=2022-04-28+23%3A03%3A58&domain=jsonline.com&campaign_name=thethrivehealthlab&click_id=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld"
-    },
-    {
-      "text": "",
-      "url": "https://go.thethrivehealthlab.com/6e7843d9-f1ba-4e0d-8911-fa481cd8bb88?site=gannettcompany-jsonline&site_id=1053378&title=Top+Doctor%3A+What+Hearing+Loss+And+Tinnitus+Do+To+The+Brain&platform=Desktop&campaign_id=12209238&campaign_item_id=3026365459&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F592e777649cf37d088d4b4378084bfb1.jpeg&timestamp=2022-04-28+23%3A03%3A58&domain=jsonline.com&campaign_name=thethrivehealthlab&click_id=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld&tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Learn More",
-      "url": "https://trc.taboola.com/gannettcompany-jsonline/log/3/click?pi=%2F&ri=78c84fe68eae2a6a1e7415654d21dfea&sd=v2_c3d7809cc265baf8c883f270aa07da16_4302bdee-c312-4551-ac63-3513c4b5adc6-tuct964a2dd_1651187038_1651187038_CIi3jgYQwqVAGL_uqpOHMCABKAQw4QE4kaQOQLzIDkjDzdkDUKcFWABgAGi3-820jvr_vzRwAQ&ui=4302bdee-c312-4551-ac63-3513c4b5adc6-tuct964a2dd&it=text&ii=~~V1~~-1569126026678225871~~_FZfR7TF_-LOF4EgD6dcmQb8EnOjPdYti0XrDpAPQ4P6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQ1qPnz8TIp56FGMwGW1REdFcoT0Ljhi6q_7q-4aXBcLjTcElWTfIcUebXRiIA27_wBertETlBDEwEl6ESjeJHrXk3lIY7igMkI_5pg20ncUTdR-D1aRzi-x4jQTwaIGaGbYoUX5wsyGTHBIAUohAKm-yMYUwmxFZITx68_upzzplNLwxq7HaNYLWBFTefHkDuclbYOHC3IYtPRTzO4wsj4DZzaS0bLkaxb_YH5Vhd_hM&pt=home&li=rbox-h2v&sig=2d50299c96ec1bc50b83c17d9ed58c5a19203915cbe9&redir=https%3A%2F%2Fgo.thethrivehealthlab.com%2F6e7843d9-f1ba-4e0d-8911-fa481cd8bb88%3Fsite%3Dgannettcompany-jsonline%26site_id%3D1053378%26title%3DTop%2BDoctor%253A%2BWhat%2BHearing%2BLoss%2BAnd%2BTinnitus%2BDo%2BTo%2BThe%2BBrain%26platform%3DDesktop%26campaign_id%3D12209238%26campaign_item_id%3D3026365459%26thumbnail%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252F592e777649cf37d088d4b4378084bfb1.jpeg%26timestamp%3D2022-04-28%2B23%253A03%253A58%26domain%3Djsonline.com%26campaign_name%3Dthethrivehealthlab%26click_id%3DGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld%26tblci%3DGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld%23tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyC1pU8o4trIs8vMzcld&vi=1651187038015&p=ecomok-sc&r=30&lti=deflated&ppb=CEo&cpb=EhIyMDIyMDQyOC04LVJFTEVBU0UYzRIgnP__________ASoZY2gudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjODAyMzU4gKaWwgJAkaQOSLzIDlDDzdkDWKcFYwjXFhDVHxgjZGMIvBcQ6iAYJGRjCKUqELk5GBRkYwjcChCgEBgWZGMIlhQQmxwYGGRjCNIDEOAGGAhkYwjcFRD7JRgJZGMI6yQQ7jcYHWRjCPQUEJ4dGB9kYwjR__________8BENH__________wEYL2R4AYAB____________AYgB____________AQ&cta=true"
-    },
-    {
-      "text": "DexcomAdvertisement  ",
-      "url": "https://ad.doubleclick.net/ddm/clk/512482693;319964629;y?tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCkuUMoopOYubOR8NRC#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCkuUMoopOYubOR8NRC"
-    },
-    {
-      "text": "This is the One Technology People with Diabetes NeedDexcom|",
-      "url": "https://ad.doubleclick.net/ddm/clk/512482693;319964629;y?tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCkuUMoopOYubOR8NRC#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCkuUMoopOYubOR8NRC"
-    },
-    {
-      "text": "",
-      "url": "https://ad.doubleclick.net/ddm/clk/512482693;319964629;y?tblci=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCkuUMoopOYubOR8NRC#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyCkuUMoopOYubOR8NRC"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "'Cutch' is clutch: McCutchen drives in all three runs as Brewers sweep",
-      "url": "/story/sports/mlb/brewers/2022/04/28/milwaukee-brewers-vs-pittsburgh-pirates-pnc-park-lineup-game-score-updates/9568522002/"
-    },
-    {
-      "text": "Judge rules teen accused of sexually assaulting an 87-year-old will be tried as an adult",
-      "url": "/story/communities/waukesha/2022/04/28/waukesha-boy-charged-87-year-olds-sex-assault-tried-adult/7436849001/"
-    },
-    {
-      "text": "Michels promises to divest himself from family construction business",
-      "url": "/story/news/politics/2022/04/28/michels-promises-divest-family-business-if-elected-governor/9573574002/"
-    },
-    {
-      "text": "How McCutchen's big day at the plate and a bunt by Yelich led to sweep",
-      "url": "/story/sports/mlb/brewers/2022/04/28/milwaukee-brewers-andrew-mccutchen-has-big-day-win-over-pirates/9568534002/"
-    },
-    {
-      "text": "Here are the new movies playing in Milwaukee this week",
-      "url": "/story/entertainment/movies/2022/01/05/new-movies-playing-milwaukee-week-whats-new-on-demand-streaming-netflix-hulu-amazon-prime/9043733002/"
-    },
-    {
-      "text": "",
-      "url": "https://cm.jsonline.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.jsonline.com%2F&marketName=jsonline&cta=Right-Rail"
-    },
-    {
-      "text": "5G Home Internet Deals",
-      "url": "https://startsearch.net/index.php?rgid=299558&gclid=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1go04TM56SDmJasAQ#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1go04TM56SDmJasAQ"
-    },
-    {
-      "text": "The Fastest 5G Home Internet in Des Moines is so Affordable we're almost Giving it Away5G Home Internet Deals|",
-      "url": "https://startsearch.net/index.php?rgid=299558&gclid=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1go04TM56SDmJasAQ#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1go04TM56SDmJasAQ"
-    },
-    {
-      "text": "",
-      "url": "https://startsearch.net/index.php?rgid=299558&gclid=GiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1go04TM56SDmJasAQ#tblciGiAaT5LHpBG66KZWvN1C0Y4ZSLvbKoQru5SRIVDaG6YtUyDKn1go04TM56SDmJasAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-jsonline&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
-    },
-    {
-      "text": "Staff Directory",
-      "url": "https://www.jsonline.com/contact/staff/"
-    },
-    {
-      "text": "Careers",
-      "url": "http://www.gannett.com/careers/"
-    },
-    {
-      "text": "Accessibility Support",
-      "url": "https://cm.jsonline.com/accessibility"
-    },
-    {
-      "text": "Site Map",
-      "url": "/sitemap/"
-    },
-    {
-      "text": "Legals",
-      "url": "https://www.jsonline.com/public-notices"
-    },
-    {
-      "text": "Our Ethical Principles",
-      "url": "https://cm.jsonline.com/ethical-conduct"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://cm.jsonline.com/terms"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://cm.jsonline.com/privacy"
-    },
-    {
-      "text": "Your California Privacy Rights / Privacy Policy",
-      "url": "https://cm.jsonline.com/privacy-policy/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://help.jsonline.com/contact-us"
-    },
-    {
-      "text": "Support Local Businesses",
-      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=milwaukee"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://localiq.com/markets/wisconsin/"
-    },
-    {
-      "text": "Advertising Terms and Conditions",
-      "url": "https://cm.jsonline.com/advertising-terms-conditions"
-    },
-    {
-      "text": "Buy and Sell",
-      "url": "https://jsonline.gannettclassifieds.com/webbaseMJS/en/std/jsp/WebBaseMain.do;jsessionid=252E9A776D5008144F02D055749B8FBB.ecsadbeap05"
-    },
-    {
-      "text": "Help Center",
-      "url": "https://help.jsonline.com/"
-    },
-    {
-      "text": "Milwaukee Journal Sentinel Store",
-      "url": "https://usatodaystore.com/p/milwaukee-journal-sentinel?gps-source=BRNMSVCPLPXXSTOR&utm_source=mil&utm_medium=onsite-footer"
-    },
-    {
-      "text": "Licensing & Reprints",
-      "url": "https://imagn.com/licensing-reprints/"
-    },
-    {
-      "text": "Subscriber Guide",
-      "url": "https://cm.jsonline.com/subscriberguide"
-    },
-    {
-      "text": "My Account",
-      "url": "https://account.jsonline.com/"
-    },
-    {
-      "text": "Give Feedback",
-      "url": "https://cm.jsonline.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.jsonline.com%2F&marketName=jsonline&cta=Footer"
-    },
-    {
-      "text": "Promote Your Event",
-      "url": "https://new.evvnt.com/?with_navbar&partner=JSONLINE&publisher_id=7811&partner_name=Milwaukee%20Journal%20Sentinel"
-    },
-    {
-      "text": "Communities",
-      "url": ""
-    },
-    {
-      "text": "Subscribe Today",
-      "url": "https://subscribe.jsonline.com/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://profile.jsonline.com/newsletters/manage"
-    },
-    {
-      "text": "Mobile Apps",
-      "url": "https://www.jsonline.com/subscriberguide/apps/"
-    },
-    {
-      "text": "Facebook",
-      "url": "http://www.facebook.com/journalsentinel/"
-    },
-    {
-      "text": "Twitter",
-      "url": "http://twitter.com/journalsentinel/"
-    },
-    {
-      "text": "E-Edition",
-      "url": "https://user.jsonline.com/user/enewspaper"
-    },
-    {
-      "text": "Storytellers",
-      "url": "https://www.storytellersproject.com/"
-    },
-    {
-      "text": "Archives",
-      "url": "https://archives.jsonline.com/"
-    },
-    {
-      "text": "RSS Feeds",
-      "url": "http://static.jsonline.com/rss/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://www.jsonline.com/jobs/"
-    },
-    {
-      "text": "Cars",
-      "url": "http://classifieds.jsonline.com/category.php?place=Automotive"
-    },
-    {
-      "text": "Homes",
-      "url": "http://www.jsonline.com/marketplace/real-estate/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "http://classifieds.jsonline.com"
-    },
-    {
-      "text": "Education",
-      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Milwaukee+Journal+Sentinel"
-    },
-    {
-      "text": "Moonlighting",
-      "url": "https://www.gomnlt.com/gci/journal-sentinel/?utm_source=journal-sentinel&utm_medium=navweblink&utm_campaign=GCI"
-    },
-    {
-      "text": "Reviewed",
-      "url": "https://www.reviewed.com"
-    },
-    {
-      "text": "10Best",
-      "url": "https://www.10best.com/"
-    },
-    {
-      "text": "Reach Local",
-      "url": "http://www.reachlocal.com/us/en"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.jsonline.com/things-to-do/events"
-    },
-    {
-      "text": "USA TODAY Sports+",
-      "url": "https://www.usatodaysportsplus.com/"
-    }
-  ],
+  "files_count": 141,
+  "item_last_updated": 1651273800,
+  "item_size": 12293896,
   "metadata": {
     "identifier": "journalsentinel-2022",
     "collection": [
@@ -2112,7 +1508,7 @@
     "addeddate": "2022-03-23 23:06:34"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1790517252,
+  "uniq": 1647637320,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"
