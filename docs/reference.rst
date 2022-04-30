@@ -38,6 +38,10 @@ Commands
    :prog: hyperlinks
    :nested: full
 
+.. click:: newshomepages.rss:cli
+   :prog: rss
+   :nested: full
+
 .. click:: newshomepages.shoot:cli
    :prog: shoot
    :nested: full

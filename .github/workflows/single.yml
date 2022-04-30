@@ -244,23 +244,3 @@ jobs:
       - id: commit
         name: Commit
         uses: ./.github/actions/commit
-
-  docs:
-    name: Update docs
-    needs: [jpg]
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        source: ${{fromJson(inputs.source)}}
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v2
-
-      - id: install
-        name: Install
-        uses: ./.github/actions/install
-
-      - id: docs
-        name: Docs
-        uses: ./.github/actions/docs

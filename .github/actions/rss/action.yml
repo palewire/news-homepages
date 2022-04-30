@@ -1,12 +1,12 @@
 name: Docs
-description: Update templated documentation pages
+description: Update RSS feeds
 
 runs:
   using: "composite"
   steps:
-    - id: source-list
-      name: Update source list
-      run: pipenv run python -m newshomepages.docs source-list;
+    - id: site-rss
+      name: Update site RSS
+      run: pipenv run python -m newshomepages.rss;
       shell: bash
 
     - id: commit
@@ -17,6 +17,6 @@ runs:
         git config pull.rebase false
         git status
         git pull origin $GITHUB_REF
-        git add ./docs/sources.md
-        git commit -m "Update docs" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        git add ./docs/_extra/rss
+        git commit -m "Update RSS" --author="palewire <palewire@users.noreply.github.com>" && git push || true
       shell: bash
