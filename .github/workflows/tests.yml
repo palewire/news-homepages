@@ -42,21 +42,14 @@ jobs:
 
       - id: install-playwright
         name: Install Playwright dependencies
-        run: pipenv run playwright install --with-deps chromium
-        shell: bash
-
-      - id: install-xvfb
-        name: Install xvfb
-        run: sudo apt install -y xvfb
+        run: |
+            pipenv run python -m playwright install
+            pipenv run python -m playwright install-deps
         shell: bash
 
       - id: test
         name: Run tests
-        run: |
-            Xvfb $DISPLAY -screen 0 1920x1080x24 &
-            pipenv run pytest tests
-        env:
-          DISPLAY: :99
+        run: pipenv run xvfb-run pytest tests
 
   static-type-check:
     name: Static type check
