@@ -1,0 +1,23 @@
+name: France
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 12 * * *"
+
+jobs:
+  run:
+    name: Archive
+    uses: ./.github/workflows/bundle.yml
+    with:
+      source: france
+    secrets:
+      telegram-api-key: ${{ secrets.TELEGRAM_API_KEY }}
+      discord-bot-token: ${{ secrets.DISCORD_BOT_TOKEN }}
+      twitter-consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+      twitter-consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+      twitter-access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+      twitter-access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+      ia-access-key: ${{ secrets.IA_ACCESS_KEY }}
+      ia-secret-key: ${{ secrets.IA_SECRET_KEY }}
+      ia-collection: ${{ secrets.IA_COLLECTION }}

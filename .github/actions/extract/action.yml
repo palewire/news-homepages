@@ -1,0 +1,42 @@
+name: Extract
+description: Extract structured data from the Internet Archive collection
+
+inputs:
+  access-key:
+    description: An API key with permission to post to archive.org
+    required: true
+  secret-key:
+    description: An API secret with permission to post to archive.org
+    required: true
+  collection:
+    description: The identifier of the target archive.org collection
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - id: download
+      name: Download Internet Archive metadata
+      run: pipenv run python -m newshomepages.extract download;
+      shell: bash
+      env:
+        IA_ACCESS_KEY: ${{ inputs.access-key }}
+        IA_SECRET_KEY: ${{ inputs.secret-key }}
+        IA_COLLECTION:  ${{ inputs.collection }}
+
+    - id: consolidate
+      name: Consolidate Internet Archive metadata
+      run: pipenv run python -m newshomepages.extract consolidate;
+      shell: bash
+
+    - id: commit
+      name: Commit
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git config pull.rebase false
+        git status
+        git pull origin $GITHUB_REF
+        git add ./extracts
+        git commit -m "Update extracts" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+      shell: bash

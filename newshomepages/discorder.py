@@ -1,4 +1,5 @@
 import os
+import time
 import typing
 from datetime import datetime
 from pathlib import Path
@@ -15,10 +16,10 @@ DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 class BotClient(discord.Client):
     """A chat client that posts the provided handle."""
 
-    def __init__(self, data: dict, input_path: Path, *args, **kwargs):
+    def __init__(self, site_list: typing.List[dict], input_path: Path, *args, **kwargs):
         """Initialize object."""
         super().__init__(*args, **kwargs)
-        self.data = data
+        self.site_list = site_list
         self.input_path = input_path
 
     async def on_ready(self):
@@ -34,18 +35,24 @@ class BotClient(discord.Client):
         # Get the timestamp
         now = datetime.now()
 
-        # Convert it to local time
-        tz = pytz.timezone(self.data["timezone"])
-        now_local = now.astimezone(tz)
+        # Loop through all the sites
+        for site in self.site_list:
 
-        # Create the caption
-        caption = f"The {self.data['name']} homepage at {now_local.strftime('%-I:%M %p')} local time"
+            # Convert it to local time
+            tz = pytz.timezone(site["timezone"])
+            now_local = now.astimezone(tz)
 
-        # Get the image
-        image_path = self.input_path / f"{self.data['handle'].lower()}.jpg"
+            # Create the caption
+            caption = f"The {site['name']} homepage at {now_local.strftime('%-I:%M %p')} local time"
 
-        # Make the post
-        await channel.send(caption, file=discord.File(image_path))
+            # Get the image
+            image_path = self.input_path / f"{site['handle'].lower()}.jpg"
+
+            # Make the post
+            await channel.send(caption, file=discord.File(image_path))
+
+            # Pause
+            time.sleep(0.5)
 
 
 @click.group()
@@ -60,7 +67,9 @@ def cli():
 def single(handle: str, input_dir: str):
     """Send a single source."""
     site = utils.get_site(handle)
-    _post(site, input_dir)
+    input_path = Path(input_dir)
+    c = BotClient([site], input_path)
+    c.run(DISCORD_BOT_TOKEN)
 
 
 @cli.command()
@@ -69,15 +78,9 @@ def single(handle: str, input_dir: str):
 def bundle(slug: str, input_dir: str):
     """Send a bundle of sources."""
     site_list = utils.get_sites_in_bundle(slug)
-    for site in site_list:
-        _post(site, input_dir)
-
-
-async def _post(site: typing.Dict, input_dir: str):
     input_path = Path(input_dir)
-    c = BotClient(site, input_path)
+    c = BotClient(site_list, input_path)
     c.run(DISCORD_BOT_TOKEN)
-    await c.close()
 
 
 if __name__ == "__main__":

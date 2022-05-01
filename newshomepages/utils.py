@@ -1,6 +1,9 @@
 import csv
 import typing
+from datetime import datetime
 from pathlib import Path
+
+import pytz
 
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
@@ -8,6 +11,7 @@ SOURCES_PATH = THIS_DIR / "sources"
 SITES_PATH = SOURCES_PATH / "sites.csv"
 BUNDLES_PATH = SOURCES_PATH / "bundles.csv"
 EXTENSIONS_PATH = THIS_DIR / "extensions"
+EXTRACT_DIR = THIS_DIR.parent / "extracts"
 
 
 def get_site_list() -> typing.List[typing.Dict]:
@@ -67,6 +71,21 @@ def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:
     bundle = get_bundle(slug)
     site_list = get_site_list()
     return [s for s in site_list if s["bundle"] == bundle["slug"]]
+
+
+def get_screenshot_list():
+    """Get the full list of screenshots from our extracts.
+
+    Returns a list of dictionaries.
+    """
+    with open(EXTRACT_DIR / "csv" / "screenshot-files.csv") as fh:
+        site_reader = csv.DictReader(fh)
+        obj_list = list(site_reader)
+    tz = pytz.timezone("US/Pacific")
+    for obj in obj_list:
+        dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
+        obj["mtime"] = tz.localize(dt).astimezone(pytz.utc)
+    return obj_list
 
 
 def get_javascript(handle: str) -> typing.Optional[str]:

@@ -24,6 +24,7 @@ def single(handle: str, input_dir: str):
     """Tweet a single source."""
     # Pull the source’s metadata
     data = utils.get_site(handle)
+    click.echo(f"Tweeting {data['handle']}")
 
     # Connect to Twitter
     api = get_twitter_client()
@@ -36,12 +37,14 @@ def single(handle: str, input_dir: str):
     now_local = now.astimezone(tz)
 
     # Create the headline
-    tweet = f"The @{handle} homepage at {now_local.strftime('%-I:%M %p')} local time"
+    tweet = f"The {handle} homepage at {now_local.strftime('%-I:%M %p')} in {data['location']}"
 
     # Get the image
     input_path = Path(input_dir)
     input_path.mkdir(parents=True, exist_ok=True)
     image_path = input_path / f"{handle.lower()}.jpg"
+
+    # Upload the image
     io = open(image_path, "rb")
     media_id = api.UploadMediaSimple(io)
 
@@ -59,10 +62,21 @@ def bundle(slug: str, input_dir: str):
     """Tweet four sources as a single tweet."""
     # Pull the source metadata
     bundle = utils.get_bundle(slug)
+    click.echo(f"Tweeting {bundle['name']}")
     site_list = utils.get_sites_in_bundle(slug)
 
     # Sort alphabetically by handle
     sorted_list = sorted(site_list, key=lambda x: x["handle"].lower())
+
+    # Set the input directory
+    input_path = Path(input_dir)
+
+    # Cut any handles where the file doesn't exist
+    exists_list = []
+    for site in sorted_list:
+        image_path = input_path / f"{site['handle'].lower()}.jpg"
+        if image_path.exists():
+            exists_list.append(site)
 
     # Connect to Twitter
     api = get_twitter_client()
@@ -81,13 +95,12 @@ def bundle(slug: str, input_dir: str):
 
     # Loop through all the targets
     media_list = []
-    for i, site in enumerate(sorted_list):
+    for i, site in enumerate(exists_list):
         # Get the list item
         emoji = utils.numoji(i + 1)
-        list_item = f"\n{emoji} @{site['handle']}"
+        list_item = f"\n{emoji} {site['handle']}"
 
         # Get the image
-        input_path = Path(input_dir)
         image_path = input_path / f"{site['handle'].lower()}.jpg"
         io = open(image_path, "rb")
         media_id = api.UploadMediaSimple(io)
@@ -100,13 +113,16 @@ def bundle(slug: str, input_dir: str):
         site_local = site_now.astimezone(tz)
 
         # Add the alt text to the image
-        alt_text = f"The @{site['handle']} homepage at {site_local.strftime('%-I:%M %p')} local time"
+        alt_text = f"The {site['handle']} homepage at {site_local.strftime('%-I:%M %p')} in {site['location']}"
         api.PostMediaMetadata(media_id, alt_text)
 
         # Add it to our list
         media_list.append([list_item, media_id])
 
+    # Break it into chunks of four
     chunk_list = utils.chunk(media_list, 4)
+
+    # Loop through the chunks
     parent_status_id = None
     for i, chunk in enumerate(chunk_list):
         # Set the headline, if it's the first tweet in the thread

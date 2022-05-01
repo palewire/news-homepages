@@ -1,0 +1,36 @@
+from pathlib import Path
+
+import click
+import jinja2
+
+from . import utils
+
+PARENT_DIR = Path(__file__).parent.parent
+TEMPLATE_DIR = PARENT_DIR / "docs" / "_templates/"
+TEMPLATE_LOADER = jinja2.FileSystemLoader(searchpath=TEMPLATE_DIR)
+TEMPLATE_ENV = jinja2.Environment(loader=TEMPLATE_LOADER)
+
+
+@click.group()
+def cli():
+    """Update templated documentation pages."""
+    pass
+
+
+@cli.command()
+def source_list():
+    """Create source list."""
+    site_list = sorted(utils.get_site_list(), key=lambda x: x["name"])
+
+    context = {
+        "site_list": site_list,
+    }
+    template = TEMPLATE_ENV.get_template("sources.md.tmpl")
+    md = template.render(**context)
+
+    with open(PARENT_DIR / "docs" / "sources.md", "w") as fh:
+        fh.write(md)
+
+
+if __name__ == "__main__":
+    cli()

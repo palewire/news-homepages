@@ -1,0 +1,13 @@
+<opml version="1.0">
+    <head>
+        <title>News Homepages</title>
+    </head>
+    <body>
+        <outline title="Sites" text="Sites">
+            <outline text="All sites" title="All sites" type="rss" xmlUrl="https://palewi.re/docs/news-homepages/rss/sites/all.xml"/>
+            {%- for site in site_list -%}
+            <outline text="{{ site.name }}" title="{{ site.name }}" type="rss" xmlUrl="https://palewi.re/docs/news-homepages/rss/sites/{{ site.handle.lower() }}.xml"/>
+            {% endfor %}
+        </outline>
+    </body>
+</opml>

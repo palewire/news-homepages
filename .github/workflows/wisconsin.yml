@@ -7,7 +7,7 @@ on:
 
 jobs:
   run:
-    name: Screenshot
+    name: Archive
     uses: ./.github/workflows/bundle.yml
     with:
       source: wisconsin

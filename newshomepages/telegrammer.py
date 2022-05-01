@@ -65,12 +65,17 @@ def _post(site: typing.Dict, input_dir: str):
 
     # Set the path
     input_path = Path(input_dir)
+    image_path = input_path / f"{site['handle'].lower()}.jpg"
+
+    # If it doesn't exist, quit
+    if not image_path.exists():
+        click.echo("File does not exist")
+        return
 
     # Get the image
-    io = open(input_path / f"{site['handle'].lower()}.jpg", "rb")
-
-    # Send the photo
-    bot.sendPhoto("@newshomepages", io, caption=caption)
+    with open(image_path, "rb") as io:
+        # Send the photo
+        bot.sendPhoto("@newshomepages", io, caption=caption)
 
 
 if __name__ == "__main__":

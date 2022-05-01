@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-shot-scraper = ">=0.0.10"
+shot-scraper = ">=0.0.12"
 python-twitter = "*"
 click = "*"
 pytz = "*"
@@ -16,6 +16,7 @@ playwright = "==1.14.1"
 savepagenow = "==1.2.2"
 bs4 = "*"
 html5lib = "*"
+jinja2 = "*"
 
 [dev-packages]
 pre-commit = "*"

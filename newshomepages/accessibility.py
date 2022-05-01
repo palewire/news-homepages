@@ -56,6 +56,8 @@ def _get_accessibility(data, output_dir):
         data["url"],
         "-o",
         str(output_path / f"{data['handle'].lower()}.accessibility.json"),
+        "--timeout",
+        str(60 * 1000),
     ]
     javascript = utils.get_javascript(data["handle"])
     if javascript:
