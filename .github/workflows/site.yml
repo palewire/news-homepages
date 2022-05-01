@@ -1,7 +1,8 @@
 name: "Build website"
 on:
   push:
-    on: ["main"]
+    branches:
+    - main
   workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
