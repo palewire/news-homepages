@@ -2,6 +2,7 @@ name: Archive
 
 on:
   workflow_dispatch:
+  push:
 
 jobs:
   sources:
