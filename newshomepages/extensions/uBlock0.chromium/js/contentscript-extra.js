@@ -29,24 +29,13 @@ if (
 
 /******************************************************************************/
 
-const nonVisualElements = {
-    script: true,
-    style: true,
-};
+// TODO: Experiment/evaluate loading procedural operator code using an
+//       on demand approach.
 
 // 'P' stands for 'Procedural'
 
-class PSelectorTask {
-    begin() {
-    }
-    end() {
-    }
-}
-
-
-class PSelectorHasTextTask extends PSelectorTask {
+const PSelectorHasTextTask = class {
     constructor(task) {
-        super();
         let arg0 = task[1], arg1;
         if ( Array.isArray(task[1]) ) {
             arg1 = arg0[1]; arg0 = arg0[0];
@@ -58,11 +47,10 @@ class PSelectorHasTextTask extends PSelectorTask {
             output.push(node);
         }
     }
-}
+};
 
-class PSelectorIfTask extends PSelectorTask {
+const PSelectorIfTask = class {
     constructor(task) {
-        super();
         this.pselector = new PSelector(task[1]);
     }
     transpose(node, output) {
@@ -70,16 +58,15 @@ class PSelectorIfTask extends PSelectorTask {
             output.push(node);
         }
     }
-}
+};
 PSelectorIfTask.prototype.target = true;
 
-class PSelectorIfNotTask extends PSelectorIfTask {
-}
+const PSelectorIfNotTask = class extends PSelectorIfTask {
+};
 PSelectorIfNotTask.prototype.target = false;
 
-class PSelectorMatchesCSSTask extends PSelectorTask {
+const PSelectorMatchesCSSTask = class {
     constructor(task) {
-        super();
         this.name = task[1].name;
         let arg0 = task[1].value, arg1;
         if ( Array.isArray(arg0) ) {
@@ -93,20 +80,19 @@ class PSelectorMatchesCSSTask extends PSelectorTask {
             output.push(node);
         }
     }
-}
+};
 PSelectorMatchesCSSTask.prototype.pseudo = null;
 
-class PSelectorMatchesCSSAfterTask extends PSelectorMatchesCSSTask {
-}
+const PSelectorMatchesCSSAfterTask = class extends PSelectorMatchesCSSTask {
+};
 PSelectorMatchesCSSAfterTask.prototype.pseudo = ':after';
 
-class PSelectorMatchesCSSBeforeTask extends PSelectorMatchesCSSTask {
-}
+const PSelectorMatchesCSSBeforeTask = class extends PSelectorMatchesCSSTask {
+};
 PSelectorMatchesCSSBeforeTask.prototype.pseudo = ':before';
 
-class PSelectorMinTextLengthTask extends PSelectorTask {
+const PSelectorMinTextLengthTask = class {
     constructor(task) {
-        super();
         this.min = task[1];
     }
     transpose(node, output) {
@@ -114,85 +100,10 @@ class PSelectorMinTextLengthTask extends PSelectorTask {
             output.push(node);
         }
     }
-}
+};
 
-class PSelectorMatchesPathTask extends PSelectorTask {
+const PSelectorSpathTask = class {
     constructor(task) {
-        super();
-        let arg0 = task[1], arg1;
-        if ( Array.isArray(task[1]) ) {
-            arg1 = arg0[1]; arg0 = arg0[0];
-        }
-        this.needle = new RegExp(arg0, arg1);
-    }
-    transpose(node, output) {
-        if ( this.needle.test(self.location.pathname + self.location.search) ) {
-            output.push(node);
-        }
-    }
-}
-
-class PSelectorOthersTask extends PSelectorTask {
-    constructor() {
-        super();
-        this.targets = new Set();
-    }
-    begin() {
-        this.targets.clear();
-    }
-    end(output) {
-        const toKeep = new Set(this.targets);
-        const toDiscard = new Set();
-        const body = document.body;
-        let discard = null;
-        for ( let keep of this.targets ) {
-            while ( keep !== null && keep !== body ) {
-                toKeep.add(keep);
-                toDiscard.delete(keep);
-                discard = keep.previousElementSibling;
-                while ( discard !== null ) {
-                    if (
-                        nonVisualElements[discard.localName] !== true &&
-                        toKeep.has(discard) === false
-                    ) {
-                        toDiscard.add(discard);
-                    }
-                    discard = discard.previousElementSibling;
-                }
-                discard = keep.nextElementSibling;
-                while ( discard !== null ) {
-                    if (
-                        nonVisualElements[discard.localName] !== true &&
-                        toKeep.has(discard) === false
-                    ) {
-                        toDiscard.add(discard);
-                    }
-                    discard = discard.nextElementSibling;
-                }
-                keep = keep.parentElement;
-            }
-        }
-        for ( discard of toDiscard ) {
-            output.push(discard);
-        }
-        this.targets.clear();
-    }
-    transpose(candidate) {
-        for ( const target of this.targets ) {
-            if ( target.contains(candidate) ) { return; }
-            if ( candidate.contains(target) ) {
-                this.targets.delete(target);
-            }
-        }
-        this.targets.add(candidate);
-    }
-}
-
-// https://github.com/AdguardTeam/ExtendedCss/issues/31#issuecomment-302391277
-//   Prepend `:scope ` if needed.
-class PSelectorSpathTask extends PSelectorTask {
-    constructor(task) {
-        super();
         this.spath = task[1];
         this.nth = /^(?:\s*[+~]|:)/.test(this.spath);
         if ( this.nth ) { return; }
@@ -223,11 +134,10 @@ class PSelectorSpathTask extends PSelectorTask {
             output.push(node);
         }
     }
-}
+};
 
-class PSelectorUpwardTask extends PSelectorTask {
+const PSelectorUpwardTask = class {
     constructor(task) {
-        super();
         const arg = task[1];
         if ( typeof arg === 'number' ) {
             this.i = arg;
@@ -252,13 +162,12 @@ class PSelectorUpwardTask extends PSelectorTask {
         }
         output.push(node);
     }
-}
+};
 PSelectorUpwardTask.prototype.i = 0;
 PSelectorUpwardTask.prototype.s = '';
 
-class PSelectorWatchAttrs extends PSelectorTask {
+const PSelectorWatchAttrs = class {
     constructor(task) {
-        super();
         this.observer = null;
         this.observed = new WeakSet();
         this.observerOptions = {
@@ -287,11 +196,10 @@ class PSelectorWatchAttrs extends PSelectorTask {
         this.observer.observe(node, this.observerOptions);
         this.observed.add(node);
     }
-}
+};
 
-class PSelectorXpathTask extends PSelectorTask {
+const PSelectorXpathTask = class {
     constructor(task) {
-        super();
         this.xpe = document.createExpression(task[1], null);
         this.xpr = null;
     }
@@ -309,9 +217,9 @@ class PSelectorXpathTask extends PSelectorTask {
             }
         }
     }
-}
+};
 
-class PSelector {
+const PSelector = class {
     constructor(o) {
         if ( PSelector.prototype.operatorToTaskMap === undefined ) {
             PSelector.prototype.operatorToTaskMap = new Map([
@@ -322,11 +230,9 @@ class PSelector {
                 [ ':matches-css', PSelectorMatchesCSSTask ],
                 [ ':matches-css-after', PSelectorMatchesCSSAfterTask ],
                 [ ':matches-css-before', PSelectorMatchesCSSBeforeTask ],
-                [ ':matches-path', PSelectorMatchesPathTask ],
                 [ ':min-text-length', PSelectorMinTextLengthTask ],
                 [ ':not', PSelectorIfNotTask ],
                 [ ':nth-ancestor', PSelectorUpwardTask ],
-                [ ':others', PSelectorOthersTask ],
                 [ ':spath', PSelectorSpathTask ],
                 [ ':upward', PSelectorUpwardTask ],
                 [ ':watch-attr', PSelectorWatchAttrs ],
@@ -336,15 +242,13 @@ class PSelector {
         this.raw = o.raw;
         this.selector = o.selector;
         this.tasks = [];
-        const tasks = [];
-        if ( Array.isArray(o.tasks) === false ) { return; }
-        for ( const task of o.tasks ) {
-            const ctor = this.operatorToTaskMap.get(task[0]);
-            if ( ctor === undefined ) { return; }
-            tasks.push(new ctor(task));
+        const tasks = o.tasks;
+        if ( Array.isArray(tasks) === false ) { return; }
+        for ( const task of tasks ) {
+            this.tasks.push(
+                new (this.operatorToTaskMap.get(task[0]))(task)
+            );
         }
-        // Initialize only after all tasks have been successfully instantiated
-        this.tasks = tasks;
     }
     prime(input) {
         const root = input || document;
@@ -356,11 +260,9 @@ class PSelector {
         for ( const task of this.tasks ) {
             if ( nodes.length === 0 ) { break; }
             const transposed = [];
-            task.begin();
             for ( const node of nodes ) {
                 task.transpose(node, transposed);
             }
-            task.end(transposed);
             nodes = transposed;
         }
         return nodes;
@@ -371,11 +273,9 @@ class PSelector {
             let output = [ node ];
             for ( const task of this.tasks ) {
                 const transposed = [];
-                task.begin();
                 for ( const node of output ) {
                     task.transpose(node, transposed);
                 }
-                task.end(transposed);
                 output = transposed;
                 if ( output.length === 0 ) { break; }
             }
@@ -383,10 +283,10 @@ class PSelector {
         }
         return false;
     }
-}
+};
 PSelector.prototype.operatorToTaskMap = undefined;
 
-class PSelectorRoot extends PSelector {
+const PSelectorRoot = class extends PSelector {
     constructor(o, styleToken) {
         super(o);
         this.budget = 200; // I arbitrary picked a 1/5 second
@@ -395,10 +295,10 @@ class PSelectorRoot extends PSelector {
         this.lastAllowanceTime = 0;
         this.styleToken = styleToken;
     }
-}
+};
 PSelectorRoot.prototype.hit = false;
 
-class ProceduralFilterer {
+const ProceduralFilterer = class {
     constructor(domFilterer) {
         this.domFilterer = domFilterer;
         this.domIsReady = false;
@@ -539,7 +439,7 @@ class ProceduralFilterer {
             removedNodes;
         this.domFilterer.commit();
     }
-}
+};
 
 vAPI.DOMProceduralFilterer = ProceduralFilterer;
 

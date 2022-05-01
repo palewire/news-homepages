@@ -178,11 +178,9 @@ const handleImportFilePicker = function() {
     const fr = new FileReader();
     fr.onload = ev => {
         if ( ev.type !== 'load' ) { return; }
-        const content = uBlockDashboard.mergeNewLines(
-            getEditorText().trim(),
-            fr.result.trim()
+        setEditorText(
+            [ getEditorText().trim(), fr.result.trim() ].join('\n').trim()
         );
-        setEditorText(content);
     };
     fr.readAsText(file);
 };

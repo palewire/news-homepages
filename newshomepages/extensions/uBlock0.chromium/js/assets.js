@@ -23,9 +23,7 @@
 
 /******************************************************************************/
 
-import cacheStorage from './cachestorage.js';
-import logger from './logger.js';
-import µb from './background.js';
+µBlock.assets = (( ) => {
 
 /******************************************************************************/
 
@@ -33,7 +31,7 @@ const reIsExternalPath = /^(?:[a-z-]+):\/\//;
 const reIsUserAsset = /^user-/;
 const errorCantConnectTo = vAPI.i18n('errorCantConnectTo');
 
-const assets = {};
+const api = {};
 
 // A hint for various pieces of code to take measures if possible to save
 // bandwidth of remote servers.
@@ -43,13 +41,13 @@ let remoteServerFriendly = false;
 
 const observers = [];
 
-assets.addObserver = function(observer) {
+api.addObserver = function(observer) {
     if ( observers.indexOf(observer) === -1 ) {
         observers.push(observer);
     }
 };
 
-assets.removeObserver = function(observer) {
+api.removeObserver = function(observer) {
     let pos;
     while ( (pos = observers.indexOf(observer)) !== -1 ) {
         observers.splice(pos, 1);
@@ -67,11 +65,11 @@ const fireNotification = function(topic, details) {
 
 /******************************************************************************/
 
-assets.fetch = function(url, options = {}) {
+api.fetch = function(url, options = {}) {
     return new Promise((resolve, reject) => {
     // Start of executor
 
-    const timeoutAfter = µb.hiddenSettings.assetFetchTimeout * 1000 || 30000;
+    const timeoutAfter = µBlock.hiddenSettings.assetFetchTimeout * 1000 || 30000;
     const xhr = new XMLHttpRequest();
     let contentLoaded = 0;
     let timeoutTimer;
@@ -88,7 +86,7 @@ assets.fetch = function(url, options = {}) {
     };
 
     const fail = function(details, msg) {
-        logger.writeOne({
+        µBlock.logger.writeOne({
             realm: 'message',
             type: 'error',
             text: msg,
@@ -156,7 +154,7 @@ assets.fetch = function(url, options = {}) {
 
 /******************************************************************************/
 
-assets.fetchText = async function(url) {
+api.fetchText = async function(url) {
     const isExternal = reIsExternalPath.test(url);
     let actualUrl = isExternal ? url : vAPI.getURL(url);
 
@@ -173,7 +171,7 @@ assets.fetchText = async function(url) {
     // servers.
     if ( isExternal && remoteServerFriendly !== true ) {
         const cacheBypassToken =
-            µb.hiddenSettings.updateAssetBypassBrowserCache
+            µBlock.hiddenSettings.updateAssetBypassBrowserCache
                 ? Math.floor(Date.now() /    1000) % 86413
                 : Math.floor(Date.now() / 3600000) %    13;
         const queryValue = `_=${cacheBypassToken}`;
@@ -187,7 +185,7 @@ assets.fetchText = async function(url) {
 
     let details = { content: '' };
     try {
-        details = await assets.fetch(actualUrl);
+        details = await api.fetch(actualUrl);
 
         // Consider an empty result to be an error
         if ( stringIsNotEmpty(details.content) === false ) {
@@ -225,7 +223,7 @@ assets.fetchText = async function(url) {
 // https://github.com/gorhill/uBlock/issues/3331
 //   Support the seamless loading of sublists.
 
-assets.fetchFilterList = async function(mainlistURL) {
+api.fetchFilterList = async function(mainlistURL) {
     const toParsedURL = url => {
         try {
             return new URL(url.trim());
@@ -267,7 +265,7 @@ assets.fetchFilterList = async function(mainlistURL) {
             }
             if ( result instanceof Object === false ) { continue; }
             const content = result.content;
-            const slices = µb.preparseDirectives.split(content);
+            const slices = µBlock.preparseDirectives.split(content);
             for ( let i = 0, n = slices.length - 1; i < n; i++ ) {
                 const slice = content.slice(slices[i+0], slices[i+1]);
                 if ( (i & 1) !== 0 ) {
@@ -290,7 +288,7 @@ assets.fetchFilterList = async function(mainlistURL) {
                     out.push(
                         slice.slice(lastIndex, match.index + match[0].length),
                         `! >>>>>>>> ${subURL}\n`,
-                        assets.fetchText(subURL),
+                        api.fetchText(subURL),
                         `! <<<<<<<< ${subURL}\n`
                     );
                     lastIndex = reInclude.lastIndex;
@@ -343,12 +341,12 @@ assets.fetchFilterList = async function(mainlistURL) {
 
 **/
 
-let assetSourceRegistryPromise;
-let assetSourceRegistry = Object.create(null);
+let assetSourceRegistryPromise,
+    assetSourceRegistry = Object.create(null);
 
 const getAssetSourceRegistry = function() {
     if ( assetSourceRegistryPromise === undefined ) {
-        assetSourceRegistryPromise = cacheStorage.get(
+        assetSourceRegistryPromise = µBlock.cacheStorage.get(
             'assetSourceRegistry'
         ).then(bin => {
             if (
@@ -358,12 +356,12 @@ const getAssetSourceRegistry = function() {
                 assetSourceRegistry = bin.assetSourceRegistry;
                 return assetSourceRegistry;
             }
-            return assets.fetchText(
-                µb.assetsBootstrapLocation || 'assets/assets.json'
+            return api.fetchText(
+                µBlock.assetsBootstrapLocation || 'assets/assets.json'
             ).then(details => {
                 return details.content !== ''
                     ? details
-                    : assets.fetchText('assets/assets.json');
+                    : api.fetchText('assets/assets.json');
             }).then(details => {
                 updateAssetSourceRegistry(details.content, true);
                 return assetSourceRegistry;
@@ -420,7 +418,7 @@ const saveAssetSourceRegistry = (( ) => {
     let timer;
     const save = function() {
         timer = undefined;
-        cacheStorage.set({ assetSourceRegistry });
+        µBlock.cacheStorage.set({ assetSourceRegistry });
     };
     return function(lazily) {
         if ( timer !== undefined ) {
@@ -434,7 +432,7 @@ const saveAssetSourceRegistry = (( ) => {
     };
 })();
 
-const updateAssetSourceRegistry = function(json, silent = false) {
+const updateAssetSourceRegistry = function(json, silent) {
     let newDict;
     try {
         newDict = JSON.parse(json);
@@ -466,13 +464,13 @@ const updateAssetSourceRegistry = function(json, silent = false) {
     saveAssetSourceRegistry();
 };
 
-assets.registerAssetSource = async function(assetKey, details) {
+api.registerAssetSource = async function(assetKey, details) {
     await getAssetSourceRegistry();
     registerAssetSource(assetKey, details);
     saveAssetSourceRegistry(true);
 };
 
-assets.unregisterAssetSource = async function(assetKey) {
+api.unregisterAssetSource = async function(assetKey) {
     await getAssetSourceRegistry();
     unregisterAssetSource(assetKey);
     saveAssetSourceRegistry(true);
@@ -491,7 +489,7 @@ let assetCacheRegistry = {};
 
 const getAssetCacheRegistry = function() {
     if ( assetCacheRegistryPromise === undefined ) {
-        assetCacheRegistryPromise = cacheStorage.get(
+        assetCacheRegistryPromise = µBlock.cacheStorage.get(
             'assetCacheRegistry'
         ).then(bin => {
             if (
@@ -525,7 +523,7 @@ const saveAssetCacheRegistry = (( ) => {
     let timer;
     const save = function() {
         timer = undefined;
-        cacheStorage.set({ assetCacheRegistry });
+        µBlock.cacheStorage.set({ assetCacheRegistry });
     };
     return function(lazily) {
         if ( timer !== undefined ) { clearTimeout(timer); }
@@ -538,7 +536,6 @@ const saveAssetCacheRegistry = (( ) => {
 })();
 
 const assetCacheRead = async function(assetKey, updateReadTime = false) {
-    const t0 = Date.now();
     const internalKey = `cache/${assetKey}`;
 
     const reportBack = function(content) {
@@ -550,14 +547,8 @@ const assetCacheRead = async function(assetKey, updateReadTime = false) {
 
     const [ , bin ] = await Promise.all([
         getAssetCacheRegistry(),
-        cacheStorage.get(internalKey),
+        µBlock.cacheStorage.get(internalKey),
     ]);
-
-    µb.supportStats.maxAssetCacheWait = Math.max(
-        Date.now() - t0,
-        parseInt(µb.supportStats.maxAssetCacheWait, 10)
-    ) + ' ms';
-
     if (
         bin instanceof Object === false ||
         bin.hasOwnProperty(internalKey) === false
@@ -602,7 +593,7 @@ const assetCacheWrite = async function(assetKey, details) {
     if ( typeof options.url === 'string' ) {
         entry.remoteURL = options.url;
     }
-    cacheStorage.set({
+    µBlock.cacheStorage.set({
         assetCacheRegistry,
         [`cache/${assetKey}`]: content
     });
@@ -632,8 +623,8 @@ const assetCacheRemove = async function(pattern) {
     }
     if ( removedContent.length !== 0 ) {
         await Promise.all([
-            cacheStorage.remove(removedContent),
-            cacheStorage.set({ assetCacheRegistry }),
+            µBlock.cacheStorage.remove(removedContent),
+            µBlock.cacheStorage.set({ assetCacheRegistry }),
         ]);
     }
     for ( let i = 0; i < removedEntries.length; i++ ) {
@@ -667,7 +658,7 @@ const assetCacheMarkAsDirty = async function(pattern, exclude) {
         mustSave = true;
     }
     if ( mustSave ) {
-        cacheStorage.set({ assetCacheRegistry });
+        µBlock.cacheStorage.set({ assetCacheRegistry });
     }
 };
 
@@ -717,8 +708,8 @@ const saveUserAsset = function(assetKey, content) {
 
 /******************************************************************************/
 
-assets.get = async function(assetKey, options = {}) {
-    if ( assetKey === µb.userFiltersPath ) {
+api.get = async function(assetKey, options = {}) {
+    if ( assetKey === µBlock.userFiltersPath ) {
         return readUserAsset(assetKey);
     }
 
@@ -779,8 +770,8 @@ assets.get = async function(assetKey, options = {}) {
             continue;
         }
         const details = assetDetails.content === 'filters'
-            ? await assets.fetchFilterList(contentURL)
-            : await assets.fetchText(contentURL);
+            ? await api.fetchFilterList(contentURL)
+            : await api.fetchText(contentURL);
         if ( details.content === '' ) { continue; }
         if ( reIsExternalPath.test(contentURL) && options.dontCache !== true ) {
             assetCacheWrite(assetKey, {
@@ -841,8 +832,8 @@ const getRemote = async function(assetKey) {
         if ( reIsExternalPath.test(contentURL) === false ) { continue; }
 
         const result = assetDetails.content === 'filters'
-            ? await assets.fetchFilterList(contentURL)
-            : await assets.fetchText(contentURL);
+            ? await api.fetchFilterList(contentURL)
+            : await api.fetchText(contentURL);
 
         // Failure
         if ( stringIsNotEmpty(result.content) === false ) {
@@ -870,7 +861,7 @@ const getRemote = async function(assetKey) {
 
 /******************************************************************************/
 
-assets.put = async function(assetKey, content) {
+api.put = async function(assetKey, content) {
     return reIsUserAsset.test(assetKey)
         ? await saveUserAsset(assetKey, content)
         : await assetCacheWrite(assetKey, content);
@@ -878,7 +869,7 @@ assets.put = async function(assetKey, content) {
 
 /******************************************************************************/
 
-assets.metadata = async function() {
+api.metadata = async function() {
     await Promise.all([
         getAssetSourceRegistry(),
         getAssetCacheRegistry(),
@@ -897,7 +888,7 @@ assets.metadata = async function() {
             assetEntry.isDefault =
                 assetEntry.off === undefined ||
                 assetEntry.off === true &&
-                    µb.listMatchesEnvironment(assetEntry);
+                    µBlock.listMatchesEnvironment(assetEntry);
         }
         if ( cacheEntry ) {
             assetEntry.cached = true;
@@ -920,13 +911,13 @@ assets.metadata = async function() {
 
 /******************************************************************************/
 
-assets.purge = assetCacheMarkAsDirty;
+api.purge = assetCacheMarkAsDirty;
 
-assets.remove = function(pattern) {
+api.remove = function(pattern) {
     return assetCacheRemove(pattern);
 };
 
-assets.rmrf = function() {
+api.rmrf = function() {
     return assetCacheRemove(/./);
 };
 
@@ -1023,7 +1014,7 @@ const updateDone = function() {
     fireNotification('after-assets-updated', { assetKeys: assetKeys });
 };
 
-assets.updateStart = function(details) {
+api.updateStart = function(details) {
     const oldUpdateDelay = updaterAssetDelay;
     const newUpdateDelay = typeof details.delay === 'number'
         ? details.delay
@@ -1040,7 +1031,7 @@ assets.updateStart = function(details) {
     updateFirst();
 };
 
-assets.updateStop = function() {
+api.updateStop = function() {
     if ( updaterTimer ) {
         clearTimeout(updaterTimer);
         updaterTimer = undefined;
@@ -1050,13 +1041,17 @@ assets.updateStop = function() {
     }
 };
 
-assets.isUpdating = function() {
+api.isUpdating = function() {
     return updaterStatus === 'updating' &&
-           updaterAssetDelay <= µb.hiddenSettings.manualUpdateAssetFetchPeriod;
+           updaterAssetDelay <= µBlock.hiddenSettings.manualUpdateAssetFetchPeriod;
 };
 
 /******************************************************************************/
 
-export default assets;
+return api;
+
+/******************************************************************************/
+
+})();
 
 /******************************************************************************/

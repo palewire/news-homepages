@@ -55,10 +55,6 @@
     "message": "Om",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "Support",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ — Visning af aktiver",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Åbn loggeren",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "Anmeld et problem med dette websted",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Aktivér/deaktivér blokering af alle popups på dette websted",
@@ -335,25 +327,17 @@
     "message": "Optimeret til farveblinde",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Udseende",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Tema",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Tilpasset accentfarve",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Aktivér understøttelse for Skylagring",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
-    "message": "Jeg er en erfarne bruger",
-    "description": "Checkbox to let user access advanced, technical features"
+    "message": "Dette er (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>obligatorisk læsning</a>) for den erfarne bruger",
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "avancerede indstillinger",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Deaktivér præindlæsning (for at hindre enhver forbindelse for blokerede netværksanmodninger)",
@@ -399,18 +383,6 @@
     "message": "Vis kanoniske navne",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Avanceret",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Funktioner kun egnet til tekniske brugere.",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "avancerede indstillinger",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "Seneste gendannelse:",
     "description": "English: Last restore:"
@@ -455,10 +427,6 @@
     "message": "Generiske kosmetiske filtre er de kosmetiske filtre, der er beregnet til at gælde på alle websteder. Aktivering af denne indstilling vil eliminere hukommelse- og CPU-forbrug, der tilføjes til websider som et resultat af håndtering af generiske kosmetiske filtre.\n\nDet anbefales at aktivere denne indstilling på mindre kraftfulde enheder.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Suspendér netværksaktivitet, indtil alle filterlister er indlæst",
-    "description": "A checkbox in the 'Filter lists' pane"
-  },
   "3pListsOfBlockedHostsHeader": {
     "message": "Liste over blokerede værter",
     "description": "English: Lists of blocked hosts"
@@ -500,7 +468,7 @@
     "description": "English: Custom"
   },
   "3pImport": {
-    "message": "Importér...",
+    "message": "Importer...",
     "description": "The label for the checkbox used to import external filter lists"
   },
   "3pExternalListsHint": {
@@ -612,8 +580,8 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "De betroede webstedsdirektiver dikterer, på hvilke websider uBlock Origin skal deaktiveres. En post pr. linje.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "message": "De betroede webstedsdirektiver dikterer, på hvilke websider uBlock Origin skal deaktiveres. Én post pr. linje. Ugyldige direktiver ignoreres og kommenteres ud.",
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Importér og tilføj",
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Åbn",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Opret ny anmeldelse",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Find lign. anmeldelser",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Dokumentation",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Læs dokumentationen på <code> uBlock/wiki</code> for at få mere at vide om alle uBlock Origin-funktionerne.",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Spørgsmål og Support",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Svar på spørgsmål samt andre former for hjælp/support er tilgængelig via subreddit<code>/r/uBlockOrigin</code>.",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Filterproblemer/websted er ødelagt",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Rapportér filterproblemer med bestemte websteder via <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code>-problemsporing</span>. <u>Kræver en GitHub-konto.</u>",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Vigtigt:</b> Undgå brug af andre blockere med lign. formål sammen med uBlock Origin, da dette kan medføre filterproblemer på visse websteder.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Tip:</b> Sørg for, at dine filterlister er opdaterede. <span data-url=\"logger-ui.html#_\">Loggeren</span> er det primære værktøj til diagnosticering af filterrelaterede problemer.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Fejlrapport",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Rapportér problemer med selve uBlock Origin via <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> problemsporingen</span>. <u>Kræver en GitHub-konto.</u>",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Fejlfindingsinformation",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Nedenfor findes tekniske oplysninger, som kan være nyttige, når frivillige forsøger at hjælpe dig med at løse et problem.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Vigtigt:</b> Potentielt fortrolige eller sensitive oplysninger bortredigeres som standard, hvilket kan gøre problemløsningen vanskeligere.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Anmeld et filterproblem",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "For at undgå at belaste frivillige med dubletanmeldelser, så tjek venligst, at problemet ikke allerede er anmeldt.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Websideadressen",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "Websiden...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Vælg problemtype --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Viser annoncer eller annoncerester",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Indeholder overlejringer eller andre gener",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Detekterer uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Indeholder fortrolighedsrelaterede problemer",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Ødelægges, når uBlock Origin er aktiveret",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Åbner uønskede faner eller vinduer",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "Markér websiden som &ldquo;NSFW&rdquo; (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">&ldquo;Ikke sikker til arbejdsbrug&rdquo;</a>)",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Bortredigér",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Bortredigér ikke",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Fortrolighedspolitik",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Ændringslog",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Wiki",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Support",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Problemsporer",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Kildekode (GPLv3)",
@@ -1029,14 +889,6 @@
   },
   "aboutDependencies": {
     "message": "Eksterne afhængigheder (GPLv3-kompatible):",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNs": {
-    "message": "uBOs egne filterlister hostes frit på flg. <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDN'er</a>:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "En tilfældigt valgt CDN vil blive brugt, når en filterliste kræver opdatering",
     "description": "Shown in the About pane"
   },
   "aboutBackupDataButton": {
@@ -1215,17 +1067,13 @@
     "message": "Kopiér til Udklipsholder",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Vælg alt",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Kosmetisk filtrering til/fra",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Slå blokeringsprofil til/fra",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "Lemp blokeringstilstand",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Lagerplads brugt: {{value}} {{unit}}",

@@ -23,11 +23,7 @@
 
 /******************************************************************************/
 
-import µb from './background.js';
-
-/******************************************************************************/
-
-const contextMenu = (( ) => {
+µBlock.contextMenu = (( ) => {
 
 /******************************************************************************/
 
@@ -61,8 +57,8 @@ const onBlockElement = function(details, tab) {
         }
     }
 
-    µb.epickerArgs.mouse = true;
-    µb.elementPickerExec(tab.id, 0, `${tagName}\t${src}`);
+    µBlock.epickerArgs.mouse = true;
+    µBlock.elementPickerExec(tab.id, 0, `${tagName}\t${src}`);
 };
 
 /******************************************************************************/
@@ -70,8 +66,8 @@ const onBlockElement = function(details, tab) {
 const onBlockElementInFrame = function(details, tab) {
     if ( tab === undefined ) { return; }
     if ( /^https?:\/\//.test(details.frameUrl) === false ) { return; }
-    µb.epickerArgs.mouse = false;
-    µb.elementPickerExec(tab.id, details.frameId);
+    µBlock.epickerArgs.mouse = false;
+    µBlock.elementPickerExec(tab.id, details.frameId);
 };
 
 /******************************************************************************/
@@ -87,7 +83,7 @@ const onSubscribeToList = function(details) {
     const url = parsedURL.searchParams.get('location');
     if ( url === null ) { return; }
     const title = parsedURL.searchParams.get('title') || '?';
-    const hash = µb.selectedFilterLists.indexOf(parsedURL) !== -1
+    const hash = µBlock.selectedFilterLists.indexOf(parsedURL) !== -1
         ? '#subscribed'
         : '';
     vAPI.tabs.open({
@@ -104,7 +100,7 @@ const onSubscribeToList = function(details) {
 
 const onTemporarilyAllowLargeMediaElements = function(details, tab) {
     if ( tab === undefined ) { return; }
-    const pageStore = µb.pageStoreFromTabId(tab.id);
+    let pageStore = µBlock.pageStoreFromTabId(tab.id);
     if ( pageStore === null ) { return; }
     pageStore.temporarilyAllowLargeMediaElements(true);
 };
@@ -117,9 +113,6 @@ const onEntryClicked = function(details, tab) {
     }
     if ( details.menuItemId === 'uBlock0-blockElementInFrame' ) {
         return onBlockElementInFrame(details, tab);
-    }
-    if ( details.menuItemId === 'uBlock0-blockResource' ) {
-        return onBlockElement(details, tab);
     }
     if ( details.menuItemId === 'uBlock0-subscribeToList' ) {
         return onSubscribeToList(details);
@@ -135,28 +128,23 @@ const menuEntries = {
     blockElement: {
         id: 'uBlock0-blockElement',
         title: vAPI.i18n('pickerContextMenuEntry'),
-        contexts: [ 'all' ],
+        contexts: ['all'],
     },
     blockElementInFrame: {
         id: 'uBlock0-blockElementInFrame',
         title: vAPI.i18n('contextMenuBlockElementInFrame'),
-        contexts: [ 'frame' ],
-    },
-    blockResource: {
-        id: 'uBlock0-blockResource',
-        title: vAPI.i18n('pickerContextMenuEntry'),
-        contexts: [ 'audio', 'frame', 'image', 'video' ],
+        contexts: ['frame'],
     },
     subscribeToList: {
         id: 'uBlock0-subscribeToList',
         title: vAPI.i18n('contextMenuSubscribeToList'),
-        contexts: [ 'link' ],
-        targetUrlPatterns: [ 'abp:*', 'https://subscribe.adblockplus.org/*' ],
+        contexts: ['link'],
+        targetUrlPatterns: [ 'abp:*' ],
     },
     temporarilyAllowLargeMediaElements: {
         id: 'uBlock0-temporarilyAllowLargeMediaElements',
         title: vAPI.i18n('contextMenuTemporarilyAllowLargeMediaElements'),
-        contexts: [ 'all' ],
+        contexts: ['all'],
     }
 };
 
@@ -166,35 +154,25 @@ let currentBits = 0;
 
 const update = function(tabId = undefined) {
     let newBits = 0;
-    if ( µb.userSettings.contextMenuEnabled && tabId !== undefined ) {
-        const pageStore = µb.pageStoreFromTabId(tabId);
+    if ( µBlock.userSettings.contextMenuEnabled && tabId !== undefined ) {
+        let pageStore = µBlock.pageStoreFromTabId(tabId);
         if ( pageStore && pageStore.getNetFilteringSwitch() ) {
-            if ( pageStore.shouldApplySpecificCosmeticFilters(0) ) {
-                newBits |= 0b0001;
-            } else {
-                newBits |= 0b0010;
-            }
+            newBits |= 0x01;
             if ( pageStore.largeMediaCount !== 0 ) {
-                newBits |= 0b0100;
+                newBits |= 0x02;
             }
         }
-        newBits |= 0b1000;
     }
     if ( newBits === currentBits ) { return; }
     currentBits = newBits;
-    const usedEntries = [];
-    if ( newBits & 0b0001 ) {
+    let usedEntries = [];
+    if ( newBits & 0x01 ) {
         usedEntries.push(menuEntries.blockElement);
         usedEntries.push(menuEntries.blockElementInFrame);
-    }
-    if ( newBits & 0b0010 ) {
-        usedEntries.push(menuEntries.blockResource);
-    }
-    if ( newBits & 0b0100 ) {
-        usedEntries.push(menuEntries.temporarilyAllowLargeMediaElements);
-    }
-    if ( newBits & 0b1000 ) {
         usedEntries.push(menuEntries.subscribeToList);
+    }
+    if ( newBits & 0x02 ) {
+        usedEntries.push(menuEntries.temporarilyAllowLargeMediaElements);
     }
     vAPI.contextMenu.setEntries(usedEntries, onEntryClicked);
 };
@@ -206,7 +184,7 @@ const update = function(tabId = undefined) {
 //   looked up after closing a window.
 
 vAPI.contextMenu.onMustUpdate = async function(tabId = undefined) {
-    if ( µb.userSettings.contextMenuEnabled === false ) {
+    if ( µBlock.userSettings.contextMenuEnabled === false ) {
         return update();
     }
     if ( tabId !== undefined ) {
@@ -222,9 +200,3 @@ return { update: vAPI.contextMenu.onMustUpdate };
 /******************************************************************************/
 
 })();
-
-/******************************************************************************/
-
-export default contextMenu;
-
-/******************************************************************************/

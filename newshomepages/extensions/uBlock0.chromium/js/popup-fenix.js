@@ -19,13 +19,17 @@
     Home: https://github.com/gorhill/uBlock
 */
 
-/* global uDom */
+/* global punycode, uDom */
 
 'use strict';
 
-import punycode from '../lib/punycode.js';
+/******************************************************************************/
+
+{
+// >>>>> start of local scope
 
 /******************************************************************************/
+
 
 let popupFontSize = 'unset';
 vAPI.localStorage.getItemAsync('popupFontSize').then(value => {
@@ -56,7 +60,7 @@ const domainsHitStr = vAPI.i18n('popupHitDomainCount');
 let popupData = {};
 let dfPaneBuilt = false;
 let dfHotspots = null;
-const allHostnameRows = [];
+let allHostnameRows = [];
 let cachedPopupHash = '';
 
 // https://github.com/gorhill/uBlock/issues/2550
@@ -374,9 +378,7 @@ const buildAllFirewallRows = function() {
 
         const hnDetails = hostnameDict[des] || {};
         const isDomain = des === hnDetails.domain;
-        const prettyDomainName = des.includes('xn--')
-            ? punycode.toUnicode(des)
-            : des;
+        const prettyDomainName = punycode.toUnicode(des);
         const isPunycoded = prettyDomainName !== des;
 
         if ( isDomain && row.childElementCount < 4 ) {
@@ -386,7 +388,7 @@ const buildAllFirewallRows = function() {
         }
 
         const span = row.querySelector('span:first-of-type');
-        span.querySelector(':scope > span > span').textContent = prettyDomainName;
+        span.querySelector('span').textContent = prettyDomainName;
 
         const classList = row.classList;
 
@@ -405,8 +407,7 @@ const buildAllFirewallRows = function() {
         classList.toggle('isRootContext', des === pageHostname);
         classList.toggle('is3p', hnDetails.domain !== pageDomain);
         classList.toggle('isDomain', isDomain);
-        classList.toggle('hasSubdomains', isDomain && hnDetails.hasSubdomains);
-        classList.toggle('isSubdomain', !isDomain);
+        classList.toggle('isSubDomain', !isDomain);
         const { counts } = hnDetails;
         classList.toggle('allowed', gtz(counts.allowed.any));
         classList.toggle('blocked', gtz(counts.blocked.any));
@@ -469,17 +470,17 @@ const renderPrivacyExposure = function() {
     let allDomainCount = 0;
     let touchedDomainCount = 0;
 
-    allHostnameRows.length = 0;
+    allHostnameRows = [];
 
     // Sort hostnames. First-party hostnames must always appear at the top
     // of the list.
-    const { hostnameDict } = popupData;
-    const desHostnameDone = new Set();
-    const keys = Object.keys(hostnameDict).sort(hostnameCompare);
+    const desHostnameDone = {};
+    const keys = Object.keys(popupData.hostnameDict)
+                       .sort(hostnameCompare);
     for ( const des of keys ) {
         // Specific-type rules -- these are built-in
-        if ( des === '*' || desHostnameDone.has(des) ) { continue; }
-        const hnDetails = hostnameDict[des];
+        if ( des === '*' || desHostnameDone.hasOwnProperty(des) ) { continue; }
+        const hnDetails = popupData.hostnameDict[des];
         const { domain, counts } = hnDetails;
         if ( allDomains.hasOwnProperty(domain) === false ) {
             allDomains[domain] = false;
@@ -491,16 +492,8 @@ const renderPrivacyExposure = function() {
                 touchedDomainCount += 1;
             }
         }
-        const dnDetails = hostnameDict[domain];
-        if ( dnDetails !== undefined ) {
-            if ( des !== domain ) {
-                dnDetails.hasSubdomains = true;
-            } else if ( dnDetails.hasSubdomains === undefined ) {
-                dnDetails.hasSubdomains = false;
-            }
-        }
         allHostnameRows.push(des);
-        desHostnameDone.add(des);
+        desHostnameDone[des] = true;
     }
 
     const summary = domainsHitStr
@@ -564,10 +557,9 @@ const renderPopup = function() {
         }
     }
 
-    uDom.nodeFromId('basicTools').classList.toggle(
-        'canPick',
-        popupData.canElementPicker === true && isFiltering
-    );
+    const canElementPicker = popupData.canElementPicker === true && isFiltering;
+    uDom.nodeFromId('gotoPick').classList.toggle('enabled', canElementPicker);
+    uDom.nodeFromId('gotoZap').classList.toggle('enabled', canElementPicker);
 
     let blocked, total;
     if ( popupData.pageCounts !== undefined ) {
@@ -839,53 +831,6 @@ const gotoPick = function() {
 
 /******************************************************************************/
 
-const gotoReport = function() {
-    const popupPanel = {
-        blocked: popupData.pageCounts.blocked.any,
-    };
-    const reportedStates = [
-        { name: 'enabled', prop: 'netFilteringSwitch', expected: true },
-        { name: 'no-cosmetic-filtering', prop: 'noCosmeticFiltering', expected: false },
-        { name: 'no-large-media', prop: 'noLargeMedia', expected: false },
-        { name: 'no-popups', prop: 'noPopups', expected: false },
-        { name: 'no-remote-fonts', prop: 'noRemoteFonts', expected: false },
-        { name: 'no-scripting', prop: 'noScripting', expected: false },
-        { name: 'can-element-picker', prop: 'canElementPicker', expected: true },
-    ];
-    for ( const { name, prop, expected } of reportedStates ) {
-        if ( popupData[prop] === expected ) { continue; }
-        popupPanel[name] = !expected;
-    }
-    if ( hostnameToSortableTokenMap.size !== 0 ) {
-        const blockedDetails = {};
-        const hostnames =
-            Array.from(hostnameToSortableTokenMap.keys()).sort(hostnameCompare);
-        for ( const hostname of hostnames ) {
-            const entry = popupData.hostnameDict[hostname];
-            const count = entry.counts.blocked.any;
-            if ( count === 0 ) { continue; }
-            const domain = entry.domain;
-            if ( blockedDetails[domain] === undefined ) {
-                blockedDetails[domain] = 0;
-            }
-            blockedDetails[domain] += count;
-        }
-        if ( Object.keys(blockedDetails).length !== 0 ) {
-            popupPanel.blockedDetails = blockedDetails;
-        }
-    }
-    messaging.send('popupPanel', {
-        what: 'launchReporter',
-        tabId: popupData.tabId,
-        pageURL: popupData.pageURL,
-        popupPanel: JSON.stringify(popupPanel),
-    });
-
-    vAPI.closePopup();
-};
-
-/******************************************************************************/
-
 const gotoURL = function(ev) {
     if ( this.hasAttribute('href') === false ) { return; }
 
@@ -914,8 +859,8 @@ const gotoURL = function(ev) {
 
 /******************************************************************************/
 
-// The popup panel is made of sections. Visibility of sections can
-// be toggled on/off.
+// The popup panel is made of sections. Visiblity of sections can
+// be toggle on/off.
 
 const maxNumberOfSections = 6;
 const sectionFirewallBit = 0b10000;
@@ -1366,7 +1311,7 @@ const getPopupData = async function(tabId, first = false) {
     };
 
     // The purpose of the following code is to reset to a vertical layout
-    // should the viewport not be enough wide to accommodate the horizontal
+    // should the viewport not be enough wide to accomodate the horizontal
     // layout.
     // To avoid querying a spurious viewport width -- it happens sometimes,
     // somehow -- we delay layout-changing operations to the next paint
@@ -1424,7 +1369,6 @@ const getPopupData = async function(tabId, first = false) {
 uDom('#switch').on('click', toggleNetFilteringSwitch);
 uDom('#gotoZap').on('click', gotoZap);
 uDom('#gotoPick').on('click', gotoPick);
-uDom('#gotoReport').on('click', gotoReport);
 uDom('.hnSwitch').on('click', ev => { toggleHostnameSwitch(ev); });
 uDom('#saveRules').on('click', saveFirewallRules);
 uDom('#revertRules').on('click', ( ) => { revertFirewallRules(); });
@@ -1445,3 +1389,6 @@ document.querySelector('#firewall > [data-type="3p-frame"] .filter')
     });
 
 /******************************************************************************/
+
+// <<<<< end of local scope
+}

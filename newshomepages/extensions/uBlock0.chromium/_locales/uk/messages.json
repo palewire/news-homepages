@@ -55,10 +55,6 @@
     "message": "Про програму",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "Підтримка",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ – Переглядач ресурсів",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Перейти до журналу запитів",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "Повідомити про помилку на цьому вебсайті",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Увімкнути блокування всіх виринаючих вікон цього сайту",
@@ -335,25 +327,17 @@
     "message": "Підтримка дальтонізму",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Вигляд",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Тема",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Акцент кольору користувача",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Увімкнути підтримку хмарного сховища",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
     "message": "Я досвідчений користувач (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>Обов’язково до прочитання</a>)",
-    "description": "Checkbox to let user access advanced, technical features"
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "розширені налаштування",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Вимкнути передзавантаження (щоб унеможливити будь-які з’єднання для заблокованих мережевих запитів)",
@@ -399,18 +383,6 @@
     "message": "Показати CNAME назви",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Додатково",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Функції, що потрібні лише технічним користувачам.",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "розширені налаштування",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "Востаннє відновлено:",
     "description": "English: Last restore:"
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "<p>Загальні косметичні фільтри — це косметичні фільтри, які застосовуються до всіх веб-сторінок.<p>Хоча й uBlock обробує фільтри ефективно, вони все одно можуть вимагати значну кількість ресурсів на деяких, особливо навантаженних сторінках.<p>Увімкнення цього параметра знизить споживання ресурсів на таких сторінках від застосування загальних косметичних фільтрів, а також знизить споживання пам'яті самого uBlock.<p>Рекомендується увімкнути цей параметр на слабких пристроях.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Призупинити мережеві операції доки всі списки фільтрів не завантажаться",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "Перелік заблокованих хостів",
@@ -576,7 +544,7 @@
     "description": "Will discard manually-edited content and exit manual-edit mode"
   },
   "rulesImport": {
-    "message": " Імпортувати з файлу…",
+    "message": " Імпортувати з файлу...",
     "description": ""
   },
   "rulesExport": {
@@ -613,7 +581,7 @@
   },
   "whitelistPrompt": {
     "message": "Ваш список адрес сайтів, для яких µBlock буде неактивним. Додайте по одному запису на рядок. Невірні адреси будуть проігноровані без попереджень та закоментовані.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Імпортувати та додати",
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Відкрити",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Створити новий звіт",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Знайти подібні звіти",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Документація",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Прочитайте документацію у <code>uBlock/вікі</code>, щоб дізнатися про всі функції uBlock Origin. ",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Запитання та підтримка",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Відповіді на запитання та інші види підтримки довідки надаються на <code>/r/uBlockOrigin</code>.",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Фільтр проблем/вебсайтів пошкоджено",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Повідомити про проблеми фільтра на певних вебсайтах до <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">відстежувача проблем<code>uBlockOrigin/uAssets</code></span>. Потрібен обліковий запис GitHub.",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Важливо:</b> Уникайте використання інших блокувальників аналогічного призначення разом із uBlock Origin, оскільки це може спричинити проблеми з фільтрами на певних вебсайтах.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Поради:</b> Переконайтеся, що списки фільтрів оновлено. <span data-url=\"logger-ui.html#_\">Журнал</span> — основний засіб визначення проблем пов'язаних з фільтром.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Звіт про ваду",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Повідомити про проблеми самого uBlock Origin <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\">відстежувач проблем <code>uBlockOrigin/uBlock-issue</code>. Потрібен обліковий запис GitHub.",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Інформація про усунення несправностей",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Внизу наведено технічні дані, які можуть бути корисними, коли волонтери намагатимуться допомогти вам розв'язати проблему.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Важливо:</b> Потенційно приватні або конфіденційні дані типово редаговані. Редаговані дані можуть ускладнити розв'язання проблеми.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Повідомити про ваду фільтра",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "Щоб не обтяжувати волонтерів повторюваними звітами, переконайтеся, що про проблему ще не повідомлялося.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Адреса вебсторінки:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "Вебсторінка...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Указати проблему --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "З'являється реклама або залишки оголошень",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Накладання або інші прикрощі",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Виявляє uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Пов'язані з приватністю проблеми",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Щось не працює, якщо увімкнено uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Відкриває небажані вкладки або вікна",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "Позначити цю сторінку «NSFW» (<a href=\"https://uk.wikipedia.org/wiki/NSFW\">«Небезпечно для роботи»</a>)",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Редагувати",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Скасувати редагування",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Політика конфіденційності",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Журнал змін",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Вікі",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Підтримка",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Відстеження проблем",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Джерельний код (GPLv3)",
@@ -1031,14 +891,6 @@
     "message": "Зовнішні залежності (сумісні з GPLv3):",
     "description": "Shown in the About pane"
   },
-  "aboutCDNs": {
-    "message": "Списки власних фільтрів uBO вільно розміщуються на таких <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDN</a>:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "Випадково вибраний CDN застосовуватиметься, коли список фільтрів потрібно оновити",
-    "description": "Shown in the About pane"
-  },
   "aboutBackupDataButton": {
     "message": "Зберегти резервну копію у файл...",
     "description": "Text for button to create a backup of all settings"
@@ -1048,11 +900,11 @@
     "description": "English: my-ublock-backup_{{datetime}}.txt"
   },
   "aboutRestoreDataButton": {
-    "message": "Відновити з файлу…",
+    "message": "Відновити з файлу...",
     "description": "English: Restore from file..."
   },
   "aboutResetDataButton": {
-    "message": "Відновити початкові налаштування...",
+    "message": "Відновити параметри за замовчанням...",
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
@@ -1212,20 +1064,16 @@
     "description": "Tooltip for the button used to lock scrolling between the views in the 'My rules' pane"
   },
   "genericCopyToClipboard": {
-    "message": "Скопіювати до буферу обміну",
+    "message": "Скопіювати до буферу",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Вибрати все",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Увімкнути/вимкнути косметичні фільтри",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Перемкнути профіль блокування",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "Послаблений режим блокування",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Використано: {{value}} {{unit}}",

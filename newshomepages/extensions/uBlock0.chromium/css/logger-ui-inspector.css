@@ -14,7 +14,7 @@
     padding-left: 0.5em;
     }
 #domInspector ul {
-    background-color: var(--surface-1);
+    background-color: var(--default-surface);
     margin: 0;
     padding-left: 1em;
     }
@@ -25,7 +25,7 @@
 #domInspector li.isCosmeticHide,
 #domInspector li.isCosmeticHide ul,
 #domInspector li.isCosmeticHide li {
-    background-color: var(--surface-2);
+    background-color: #fee;
     }
 #domInspector li > * {
     display: inline-block;
@@ -37,7 +37,7 @@
     color: #aaa;
     }
 #domInspector li > span:first-child {
-    color: var(--ink-1);
+    color: var(--default-ink);
     cursor: default;
     font-size: 1rem;
     margin-right: 0;
@@ -74,7 +74,7 @@
     text-decoration: line-through;
     }
 #domInspector li > code.filter {
-    color: var(--cm-negative);
+    color: red;
     }
 
 #domInspector li > ul {

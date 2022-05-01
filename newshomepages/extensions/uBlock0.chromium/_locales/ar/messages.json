@@ -55,10 +55,6 @@
     "message": "حول البرنامج",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "الدعم",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ — مُعاين العناصر",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "إفتح سجل طلبات الشبكة",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "التقرير عن مُشكلة في الموقع",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "تفعيل أو تعطيل النوافذ منبثقة لهذا الموقع",
@@ -335,25 +327,17 @@
     "message": "وضع عمى الألوان",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "مظهر",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "المظاهر",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "لون التمييز المخصص",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "تفعيل دعم سحابة التخزين",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
-    "message": "أنا مستخدم ذو خبرة (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>قراءة إجبارية</a>)",
-    "description": "Checkbox to let user access advanced, technical features"
+    "message": "تمكين الميزات المتقدمة (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>يرجى الإطلاع</a>)",
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "الإعدادات المتقدمة",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "تعطيل الجلب المسبق على الشبكة (لمنع أي اتصال لطلبات الشبكة المحجوبة)",
@@ -399,18 +383,6 @@
     "message": "فك الأسماء المتعارف عليها",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "متقدم",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "ميزات مناسبة فقط للمستخدمين التقنيين",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "الإعدادات المتقدمة",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "آخر إسترجاع:",
     "description": "English: Last restore:"
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "الفلاتر التجميلية العمومية هي الفلاتر التجميلية التي تنطبق على كل مواقع الإنترنت. تفعيل هذا الخيار سوف يترك مساحة أقل من الذاكرة و قوة المعالجة للإستعمال من قبل صفحات الويب كنتيجة لمعالجة الفلاتر التجميلية العمومية.\n\nمن الأفضل تفعيل هذا الخيار على الأجهزة الأقل قوة.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "تعليق نشاط الشبكة حتى يتم تحميل كافة قوائم عوامل التصفية",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "قائمة المواقع المحجوبة",
@@ -612,8 +580,8 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "قائمة المواقع الوثوقة تحتوي على صفحات الويب التي يجب تعطيل يو بلوك أوريجين عند الدخول عليها. أدخل رابط واحد كل سطر. الروابط الغير صحيحة سوف يتم تجاهلها تلقائيًا.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "message": "قائمة المواقع الوثوقة تحتوي على صفحات الويب التي يجب تعطيل uBlock₀ عند الدخول عليها. أدخل رابط واحد كل سطر. الروابط الغير صحيحه سوف يتم تجاهلها تلقائيًا.",
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "استيراد",
@@ -672,7 +640,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "ويكي يو بلوك أوريجين: حافظ السجلات",
+    "message": "ويكي uBlock Origin: حافظ السجلات",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "افتح",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "إنشاء تقرير جديد",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "العثور على تقارير مماثلة",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "وثائق",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "اقرأ الوثائق على <code>uBlock/wiki</code> للتعرف على جميع ميزات يو بلوك أوريجين.",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "الأسئلة والدعم",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "يتم توفير إجابات للأسئلة وأنواع أخرى من دعم المساعدة على subreddit <code>/r/uBlockOrigin</code>",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "تصفية المسائل/موقع الويب معطل",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "الإبلاغ عن مشكلات التصفية في مواقع ويب محددة لـ <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code> أداة تعقب المشكلات</span>. يتطلب حساب GitHub..",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>هام:</b> تجنب استخدام أدوات الحظر الأخرى ذات الغرض المشابه مع يو بلوك أوريجين، حيث قد يتسبب ذلك في حدوث مشكلات في التصفية على مواقع ويب معينة.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>نصائح:</b> تأكد من تحديث قوائم التصفية. <span data-url=\"logger-ui.html#_\">المُسجِّل</span> هو الأداة الأساسية لتشخيص المشكلات المتعلقة بالفلتر",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "تقرير الأخطاء",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "الإبلاغ عن المشكلات المتعلقة بيو بلوك أوريجين نفسه إلى <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> أداة تعقب المشكلات</span>. يتطلب حساب GitHub.",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "رأس قسم \"معلومات استكشاف الأخطاء وإصلاحها\" في جزء الدعم",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "فيما يلي معلومات فنية قد تكون مفيدة عندما يحاول المتطوعون مساعدتك في حل مشكلة ما.فيما يلي معلومات فنية قد تكون مفيدة عندما يحاول المتطوعون مساعدتك في حل مشكلة ما.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>هام:</b> يتم تنقيح المعلومات التي يُحتمل أن تكون خاصة أو حساسة بشكل افتراضي. المعلومات المنقحة قد تجعل حل مشكلة ما أكثر صعوبة.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "الإبلاغ عن مشكلة في عوامل التصفية",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "لتجنب إثقال كاهل المتطوعين بتقارير مكررة، يرجى التحقق من عدم الإبلاغ عن المشكلة بالفعل.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "عنوان صفحة الويب:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "صفحة الويب...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- إختر خيارًا --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "ٌيُظهر الإعلانات أو بقايا الإعلانات",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "به تراكبات أو مضايقات أخرى",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "يكتشف يو بلوك أوريجين",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "لديه مشاكل متعلقة بالخصوصية",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "الأعطال عند تمكين يو بلوك أوريجين",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "افتح التبويبات أو النوافذ التي ليس مرغوبًا بها",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "تسمية صفحة الويب باسم \"NSFW\" (<a href=\"https://ar.wikipedia.org/wiki/%D8%BA%D9%8A%D8%B1_%D9%85%D9%86%D8%A7%D8%B3%D8%A8_%D9%84%D9%84%D8%B9%D9%85%D9%84\">\"ليس آمن للعمل\"\n",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "تنقيح",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "غير منقح",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "سياسة الخصوصية",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "سجل التغييرات",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "الويكي (Wiki)",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "الدعم",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "متعقب المشاكل",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "اكواد البرنامج (GPLv3)",
@@ -1029,14 +889,6 @@
   },
   "aboutDependencies": {
     "message": "الإعتماديات الخارجية (متوافقة مع GPLv3):",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNs": {
-    "message": "يتم استضافة قوائم عوامل التصفية الخاصة بـ uBO بحرية على ما يلي  <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDNs</a>:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "يتم استخدام CDN الذي تم اختياره عشوائيًا عند الحاجة إلى تحديث قائمة عوامل التصفية",
     "description": "Shown in the About pane"
   },
   "aboutBackupDataButton": {
@@ -1215,17 +1067,13 @@
     "message": "نسخ إلى الحافظة",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "اختر الكل",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "تبديل تصفية مستحضرات التجميل",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "تبديل صفحة الحظر",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "وضع الحظر المتراخي",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "مساحة التخزين المستخدمة: {{value}} {{unit}}",

@@ -26,9 +26,6 @@
     },
     "relax-blocking-mode": {
       "description": "__MSG_relaxBlockingMode__"
-    },
-    "toggle-cosmetic-filtering": {
-      "description": "__MSG_toggleCosmeticFiltering__"
     }
   },
   "content_scripts": [
@@ -57,8 +54,7 @@
         "https://filterlists.com/*",
         "https://forums.lanik.us/*",
         "https://github.com/*",
-        "https://*.github.io/*",
-        "https://*.letsblock.it/*"
+        "https://*.github.io/*"
       ],
       "run_at": "document_idle"
     }
@@ -74,7 +70,7 @@
   },
   "incognito": "split",
   "manifest_version": 2,
-  "minimum_chrome_version": "66.0",
+  "minimum_chrome_version": "55.0",
   "name": "uBlock Origin",
   "options_ui": {
     "open_in_tab": true,
@@ -95,7 +91,7 @@
   "storage": {
     "managed_schema": "managed_storage.json"
   },
-  "version": "1.42.4",
+  "version": "1.36.2",
   "web_accessible_resources": [
     "/web_accessible_resources/*"
   ]

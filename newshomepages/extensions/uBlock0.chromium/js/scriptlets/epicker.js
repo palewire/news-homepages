@@ -30,12 +30,6 @@
 
 /******************************************************************************/
 
-if ( typeof vAPI !== 'object' || vAPI === null ) {
-    return;
-}
-
-/******************************************************************************/
-
 const epickerId = vAPI.randomToken();
 let epickerConnectionId;
 
@@ -83,18 +77,17 @@ const getElementBoundingClientRect = function(elem) {
     if ( rect.width !== 0 && rect.height !== 0 ) {
         return rect;
     }
-    if ( elem.shadowRoot instanceof DocumentFragment ) {
-        return getElementBoundingClientRect(elem.shadowRoot);
-    }
 
     let left = rect.left,
-        right = left + rect.width,
+        right = rect.right,
         top = rect.top,
-        bottom = top + rect.height;
+        bottom = rect.bottom;
 
     for ( const child of elem.children ) {
         rect = getElementBoundingClientRect(child);
-        if ( rect.width === 0 || rect.height === 0 ) { continue; }
+        if ( rect.width === 0 || rect.height === 0 ) {
+            continue;
+        }
         if ( rect.left < left ) { left = rect.left; }
         if ( rect.right > right ) { right = rect.right; }
         if ( rect.top < top ) { top = rect.top; }
@@ -102,10 +95,8 @@ const getElementBoundingClientRect = function(elem) {
     }
 
     return {
-        bottom,
         height: bottom - top,
         left,
-        right,
         top,
         width: right - left
     };
@@ -231,12 +222,13 @@ const resourceURLsFromElement = function(elem) {
         if ( url !== '' ) { urls.push(url); }
         return urls;
     }
-    const s = elem[prop];
-    if ( typeof s === 'string' && /^https?:\/\//.test(s) ) {
-        urls.push(trimFragmentFromURL(s.slice(0, 1024)));
+    {
+        const s = elem[prop];
+        if ( typeof s === 'string' && /^https?:\/\//.test(s) ) {
+            urls.push(trimFragmentFromURL(s.slice(0, 1024)));
+        }
     }
     resourceURLsFromSrcset(elem, urls);
-    resourceURLsFromPicture(elem, urls);
     return urls;
 };
 
@@ -268,20 +260,6 @@ const resourceURLsFromSrcset = function(elem, out) {
         const parsedURL = new URL(url, document.baseURI);
         if ( parsedURL.pathname.length === 0 ) { continue; }
         out.push(trimFragmentFromURL(parsedURL.href));
-    }
-};
-
-// https://github.com/uBlockOrigin/uBlock-issues/issues/2069#issuecomment-1080600661
-// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
-const resourceURLsFromPicture = function(elem, out) {
-    if ( elem.localName === 'source' ) { return; }
-    const picture = elem.parentElement;
-    if ( picture === null || picture.localName !== 'picture' ) { return; }
-    const sources = picture.querySelectorAll(':scope > source');
-    for ( const source of sources ) {
-        const urls = resourceURLsFromElement(source);
-        if ( urls.length === 0 ) { continue; }
-        out.push(...urls);
     }
 };
 
@@ -349,7 +327,7 @@ const netFilterFromElement = function(elem) {
     const pattern = mergeStrings(urls);
 
 
-    if ( bestCandidateFilter === null && elem.matches('html,body') === false ) {
+    if ( bestCandidateFilter === null ) {
         bestCandidateFilter = {
             type: 'net',
             filters: candidates,
@@ -377,7 +355,6 @@ const netFilter1stSources = {
     'iframe': 'src',
        'img': 'src',
     'object': 'data',
-    'source': 'src',
      'video': 'src'
 };
 
@@ -401,7 +378,6 @@ const filterTypes = {
 const cosmeticFilterFromElement = function(elem) {
     if ( elem === null ) { return 0; }
     if ( elem.nodeType !== 1 ) { return 0; }
-    if ( noCosmeticFiltering ) { return 0; }
 
     if ( candidateElements.indexOf(elem) === -1 ) {
         candidateElements.push(elem);
@@ -430,9 +406,6 @@ const cosmeticFilterFromElement = function(elem) {
     // Use attributes if still no selector found.
     // https://github.com/gorhill/uBlock/issues/1901
     //   Trim attribute value, this may help in case of malformed HTML.
-    //
-    // https://github.com/uBlockOrigin/uBlock-issues/issues/1923
-    //   Escape unescaped `"` in attribute values
     if ( selector === '' ) {
         let attributes = [], attr;
         switch ( tagName ) {
@@ -474,14 +447,13 @@ const cosmeticFilterFromElement = function(elem) {
         }
         while ( (attr = attributes.pop()) ) {
             if ( attr.v.length === 0 ) { continue; }
-            const w = attr.v.replace(/([^\\])"/g, '$1\\"');
             v = elem.getAttribute(attr.k);
             if ( attr.v === v ) {
-                selector += `[${attr.k}="${w}"]`;
+                selector += `[${attr.k}="${attr.v}"]`;
             } else if ( v.startsWith(attr.v) ) {
-                selector += `[${attr.k}^="${w}"]`;
+                selector += `[${attr.k}^="${attr.v}"]`;
             } else {
-                selector += `[${attr.k}*="${w}"]`;
+                selector += `[${attr.k}*="${attr.v}"]`;
             }
         }
     }
@@ -545,19 +517,8 @@ const filtersFrom = function(x, y) {
         x = undefined;
     }
 
-    // https://github.com/gorhill/uBlock/issues/1545
-    //   Network filter candidates from all other elements found at [x,y].
-    // https://www.reddit.com/r/uBlockOrigin/comments/qmjk36/
-    //   Extract network candidates first.
-    if ( typeof x === 'number' ) {
-        const magicAttr = `${vAPI.sessionId}-clickblind`;
-        pickerRoot.setAttribute(magicAttr, '');
-        const elems = document.elementsFromPoint(x, y);
-        pickerRoot.removeAttribute(magicAttr);
-        for ( const elem of elems ) {
-            netFilterFromElement(elem);
-        }
-    } else if ( first !== null ) {
+    // Network filter from element which was clicked.
+    if ( first !== null ) {
         netFilterFromElement(first);
     }
 
@@ -580,16 +541,24 @@ const filtersFrom = function(x, y) {
         }
     }
 
-    // https://github.com/gorhill/uBlock/commit/ebaa8a8bb28aef043a68c99965fe6c128a3fe5e4#commitcomment-63818019
-    //   If still no best candidate, just use whatever is available in network
-    //   filter candidates -- which may have been previously skipped in favor
-    //   of cosmetic filters.
-    if ( bestCandidateFilter === null && netFilterCandidates.length !== 0 ) {
-        bestCandidateFilter = {
-            type: 'net',
-            filters: netFilterCandidates,
-            slot: 0
-        };
+    // https://github.com/gorhill/uBlock/issues/1545
+    //   Network filter candidates from all other elements found at
+    //   point (x, y).
+    if ( typeof x === 'number' ) {
+        const attrName = vAPI.sessionId + '-clickblind';
+        elem = first;
+        while ( elem !== null ) {
+            const previous = elem;
+            elem.setAttribute(attrName, '');
+            elem = elementFromPoint(x, y);
+            if ( elem === null || elem === previous ) { break; }
+            netFilterFromElement(elem);
+        }
+        for ( const elem of document.querySelectorAll(`[${attrName}]`) ) {
+            elem.removeAttribute(attrName);
+        }
+
+        netFilterFromElement(document.body);
     }
 
     return netFilterCandidates.length + cosmeticFilterCandidates.length;
@@ -740,7 +709,6 @@ const filterToDOMInterface = (( ) => {
     // https://github.com/gorhill/uBlock/issues/2515
     //   Remove trailing pseudo-element when querying.
     const fromCompiledCosmeticFilter = function(raw) {
-        if ( noCosmeticFiltering ) { return; }
         if ( typeof raw !== 'string' ) { return; }
         let elems, style;
         try {
@@ -830,7 +798,7 @@ const filterToDOMInterface = (( ) => {
         if ( permanent === false || reCosmeticAnchor.test(lastFilter) === false ) {
             return apply();
         }
-        if ( noCosmeticFiltering ) { return; }
+        if ( vAPI.domFilterer instanceof Object === false ) { return; }
         const cssSelectors = new Set();
         const proceduralSelectors = new Set();
         for ( const { raw } of lastResultset ) {
@@ -918,15 +886,7 @@ const elementFromPoint = (( ) => {
         const magicAttr = `${vAPI.sessionId}-clickblind`;
         pickerRoot.setAttribute(magicAttr, '');
         let elem = document.elementFromPoint(x, y);
-        if (
-            elem === null || /* to skip following tests */
-            elem === document.body ||
-            elem === document.documentElement || (
-                pickerBootArgs.zap !== true &&
-                noCosmeticFiltering &&
-                resourceURLsFromElement(elem).length === 0
-            )
-        ) {
+        if ( elem === document.body || elem === document.documentElement ) {
             elem = null;
         }
         // https://github.com/uBlockOrigin/uBlock-issues/issues/380
@@ -973,22 +933,20 @@ const zapElementAtPoint = function(mx, my, options) {
 
     if ( elemToRemove instanceof Element === false ) { return; }
 
-    const getStyleValue = (elem, prop) => {
+    const getStyleValue = function(elem, prop) {
         const style = window.getComputedStyle(elem);
         return style ? style[prop] : '';
     };
 
     // Heuristic to detect scroll-locking: remove such lock when detected.
-    let maybeScrollLocked = elemToRemove.shadowRoot instanceof DocumentFragment;
-    if ( maybeScrollLocked === false ) {
-        let elem = elemToRemove;
-        do {
-            maybeScrollLocked =
-                parseInt(getStyleValue(elem, 'zIndex'), 10) >= 1000 ||
-                getStyleValue(elem, 'position') === 'fixed';
-            elem = elem.parentElement;
-        } while ( elem !== null && maybeScrollLocked === false );
-    }
+    let maybeScrollLocked = false;
+    let elem = elemToRemove;
+    do {
+        maybeScrollLocked =
+            parseInt(getStyleValue(elem, 'zIndex'), 10) >= 1000 ||
+            getStyleValue(elem, 'position') === 'fixed';
+        elem = elem.parentElement;
+    } while ( elem !== null && maybeScrollLocked === false );
     if ( maybeScrollLocked ) {
         const doc = document;
         if ( getStyleValue(doc.body, 'overflowY') === 'hidden' ) {
@@ -1055,7 +1013,6 @@ const startPicker = function() {
     // Try using mouse position
     if (
         pickerBootArgs.mouse &&
-        vAPI.mouseClick instanceof Object &&
         typeof vAPI.mouseClick.x === 'number' &&
         vAPI.mouseClick.x > 0
     ) {
@@ -1084,28 +1041,14 @@ const startPicker = function() {
     const elems = document.getElementsByTagName(tagName);
     for ( const elem of elems  ) {
         if ( elem === pickerRoot ) { continue; }
-        const srcs = resourceURLsFromElement(elem);
-        if (
-            (srcs.length !== 0 && srcs.includes(url) === false) ||
-            (srcs.length === 0 && url !== 'about:blank')
-        ) {
+        const src = elem[attr];
+        if ( typeof src !== 'string' ) { continue; }
+        if ( (src !== url) && (src !== '' || url !== 'about:blank') ) {
             continue;
         }
+        elem.scrollIntoView({ behavior: 'smooth', block: 'start' });
         filtersFrom(elem);
-        if (
-            netFilterCandidates.length !== 0 ||
-            cosmeticFilterCandidates.length !== 0
-        ) {
-            if ( pickerBootArgs.mouse !== true ) {
-                elem.scrollIntoView({
-                    behavior: 'smooth',
-                    block: 'center',
-                    inline: 'center'
-                });
-            }
-            showDialog({ broad: true });
-        }
-        return;
+        return showDialog({ broad: true });
     }
 
     // A target was specified, but it wasn't found: abort.
@@ -1250,9 +1193,12 @@ const onConnectionMessage = function(msg) {
 }
 
 // The DOM filterer will not be present when cosmetic filtering is disabled.
-const noCosmeticFiltering =
-    vAPI.domFilterer instanceof Object === false ||
-    vAPI.noSpecificCosmeticFiltering === true;
+if (
+    pickerBootArgs.zap !== true &&
+    vAPI.domFilterer instanceof Object === false
+) {
+    return;
+}
 
 // https://github.com/gorhill/uBlock/issues/1529
 //   In addition to inline styles, harden the element picker styles by using

@@ -40,7 +40,7 @@
     "description": "appears as tab name in dashboard"
   },
   "whitelistPageName": {
-    "message": "నమ్మే సైట్లు",
+    "message": "నేను నమ్మే సైట్ల జాబితా",
     "description": "appears as tab name in dashboard"
   },
   "shortcutsPageName": {
@@ -53,10 +53,6 @@
   },
   "aboutPageName": {
     "message": "మా గురించి",
-    "description": "appears as tab name in dashboard"
-  },
-  "supportPageName": {
-    "message": "Support",
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
@@ -127,10 +123,6 @@
     "message": "అభ్యర్ధనల చిట్టా తెరువుము",
     "description": "Tooltip used for the logger icon in the panel"
   },
-  "popupTipReport": {
-    "message": "Report an issue on this website",
-    "description": "Tooltip used for the 'chat' icon in the panel"
-  },
   "popupTipNoPopups": {
     "message": "ఈ వెబ్సైట్ లో అన్ని పాప్అప్స్ ని నిషేధించు/అనుమతించు",
     "description": "Tooltip for the no-popups per-site switch"
@@ -196,7 +188,7 @@
     "description": "Caption for the no-large-media per-site switch"
   },
   "popupNoCosmeticFiltering_v2": {
-    "message": "నిశ్చలాత్మక వడపోత",
+    "message": "సౌందర్య వడపోత",
     "description": "Caption for the no-cosmetic-filtering per-site switch"
   },
   "popupNoRemoteFonts_v2": {
@@ -208,7 +200,7 @@
     "description": "Caption for the no-scripting per-site switch"
   },
   "popupMoreButton_v2": {
-    "message": "మరిన్ని",
+    "message": "ఎక్కువ",
     "description": "Label to be used to show popup panel sections"
   },
   "popupLessButton_v2": {
@@ -335,25 +327,17 @@
     "message": "వర్ణ అంధులకనుకూలమైన",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Appearance",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Theme",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Custom accent color",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "క్లౌడ్ లో పొందుపర్చడాన్న్ది అనుమతించు",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
-    "message": "మీరు నిపుణత కలిగిన వినియోగాదారులైతే (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>అవసరమైన సమాచారం</a>)",
-    "description": "Checkbox to let user access advanced, technical features"
+    "message": "మీరు నిపుణత కలిగిన వినియోగాదారులితే (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>ఇది తప్పనిసరిగా చదవాలి</a>)",
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "అధునాతన అమరికలు",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "అంశాలను ముందుగానే తీసుకురావడాన్ని నిషేధించు (ఎవైనా అవాంఛనీయ అనుసంధానాలను నివారించడానికి)",
@@ -399,18 +383,6 @@
     "message": "కానానికల్ పేర్లను తెరవండి",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Advanced",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Features suitable only for technical users",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "అధునాతన అమరికలు",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "గత పునరుద్ధారణ:",
     "description": "English: Last restore:"
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "<p>సాధారణ కాస్మెటిక్ ఫిల్టర్లు అన్ని సైట్లపై ఉపయోగించబడుతాయి.<p>వీటిని uBlock₀ సమర్థవంతంగా ఉపయోగించగలిగినా, కొన్ని భారీ లేదా దీర్ఘకాలికంగా వీక్షిస్తున్న పేజీలలో CPU ఇంకా RAM వాడుకను ఇవి పెంచగలవు.<p>ఈ ఎంపికను ఎంచుకోవడంవలన, సాధారణ కాస్మెటిక్ ఫిల్టర్లు కొరకు అదనపు CPU ఉపయోగాన్ని నివారిస్తుంది, పైగా uBlock₀ యొక్క RAM వాడుక తగ్గడానికి తోడ్పడుతుంది.<p>అల్పసామర్ధ్య పరికరాలలో దీన్ని ఎంచుకోవడం శ్రేయస్కరం.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Suspend network activity until all filter lists are loaded",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "నిరోధించబడిన చిరునామాల జాబితా",
@@ -520,7 +488,7 @@
     "description": "used as a tooltip for the clock icon beside a list"
   },
   "3pUpdating": {
-    "message": "నవీకరిస్తోంది...",
+    "message": "నవీకరిస్తున్నది...",
     "description": "used as a tooltip for the spinner icon beside a list"
   },
   "3pNetworkError": {
@@ -613,7 +581,7 @@
   },
   "whitelistPrompt": {
     "message": "uBlock Origin అచేతనబడించిన హోస్టూల జాబితా, ఇది మీరు కూర్చినది,. ఒక్కో పంక్తికి ఒక్కో నమోదు. చెల్లని నమోదులు మౌనంగా విస్మరించబడుతాయి.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "దిగుమతిచేసి పోడిగించుము",
@@ -879,133 +847,25 @@
     "message": "మార్క్డౌన్",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Open",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Create new report",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Find similar reports",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Documentation",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Read the documentation at <code>uBlock/wiki</code> to learn about all of uBlock Origin's features.",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Questions and support",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Answers to questions and other kinds of help support is provided on the subreddit <code>/r/uBlockOrigin</code>.",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Filter issues/website is broken",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Report filter issues with specific websites to the <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code> issue tracker</span>. <u>Requires a GitHub account.</u>",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Important:</b> Avoid using other similarly-purposed blockers along with uBlock Origin, as this may cause filter issues on specific websites.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Tips:</b> Be sure your filter lists are up to date. <span data-url=\"logger-ui.html#_\">The logger</span> is the primary tool to diagnose filter-related issues.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Bug report",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Report issues with uBlock Origin itself to the <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> issue tracker</span>. <u>Requires a GitHub account.</u>",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Troubleshooting Information",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Below is technical information that might be useful when volunteers are trying to help you solve a problem.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Important:</b> Potentially private or sensitive information is redacted by default. Redacted information may make it more difficult to solve a problem.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Report a filter issue",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "To avoid burdening volunteers with duplicate reports, please verify that the issue has not already been reported.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Address of the web page:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "The web page…",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Pick an entry --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Shows ads or ad leftovers",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Has overlays or other nuisances",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Detects uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Has privacy-related issues",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Malfunctions when uBlock Origin is enabled",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Opens unwanted tabs or windows",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "Label the web page as “NSFW” (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“Not Safe For Work”</a>)",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Redact",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Unredact",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
-    "message": "గోప్యతా విధానం",
+    "message": "Privacy policy",
     "description": "Link to privacy policy on GitHub (English)"
   },
   "aboutChangelog": {
     "message": "మార్పుల సంచిక",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "వికి",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "సహాయము",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "సమస్యా సంచిక",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "మూలం (GPLv3)",
@@ -1031,14 +891,6 @@
     "message": "బాహ్య ఆధారపడటం (GPLv3- అనుకూలమైనది):",
     "description": "Shown in the About pane"
   },
-  "aboutCDNs": {
-    "message": "uBO యొక్క సొంత ఫిల్టర్ జాబితాలు కింది వాటిలో ఉచితంగా హోస్ట్ చేయబడతాయి <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDNs</a>:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "ఫిల్టర్ జాబితాను అప్‌డేట్ చేయాల్సిన అవసరం వచ్చినప్పుడు యాదృచ్ఛికంగా ఎంచుకున్న CDN ఉపయోగించబడుతుంది",
-    "description": "Shown in the About pane"
-  },
   "aboutBackupDataButton": {
     "message": "ఫైల్ లో భద్రపరచు",
     "description": "Text for button to create a backup of all settings"
@@ -1052,7 +904,7 @@
     "description": "English: Restore from file..."
   },
   "aboutResetDataButton": {
-    "message": "సంస్థాపన అమరికలను పునరుద్దరించు...",
+    "message": "సంస్థాపన ఐచ్చికాలను పునరుద్దరించు...",
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
@@ -1164,7 +1016,7 @@
     "description": "tooltip"
   },
   "cloudNoData": {
-    "message": "…\n…",
+    "message": "...\n...",
     "description": ""
   },
   "cloudDeviceNamePrompt": {
@@ -1196,7 +1048,7 @@
     "description": "An entry in the browser's contextual menu"
   },
   "contextMenuSubscribeToList": {
-    "message": "ఫిల్టర్ జాబితాకు సభ్యత్వం పొందండి ...",
+    "message": "Subscribe to filter list...",
     "description": "An entry in the browser's contextual menu"
   },
   "contextMenuTemporarilyAllowLargeMediaElements": {
@@ -1215,17 +1067,13 @@
     "message": "క్లిప్‌బోర్డ్‌కు కాపీ చేయండి",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Select all",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Toggle cosmetic filtering",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "నిరోధించే ప్రొఫైల్‌ను టోగుల్ చేయండి",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "నిరోధించే మోడ్‌ను రిలాక్స్ చేయండి",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "ఉపయోగించిన నిల్వ: {{value}} {{unit}}",

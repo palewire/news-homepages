@@ -55,10 +55,6 @@
     "message": "Tentang",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "Dukungan",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ — Penampil aset",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Buka pencatat log",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "Laporkan masalah situs web ini",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Alihkan pemblokiran semua popup untuk situs ini",
@@ -312,7 +304,7 @@
     "description": "English: Click, Ctrl-click"
   },
   "pickerContextMenuEntry": {
-    "message": "Blokir elemen...",
+    "message": "Blok elemen...",
     "description": "An entry in the browser's contextual menu"
   },
   "settingsCollapseBlockedPrompt": {
@@ -335,25 +327,17 @@
     "message": "Ramah buta warna",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Tampilan",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Tema",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Warna aksen khusus",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Aktifkan dukungan penyimpanan awan",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
-    "message": "Saya pengguna tingkat lanjut",
-    "description": "Checkbox to let user access advanced, technical features"
+    "message": "Saya pengguna tingkat lanjut (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>bacaan wajib</a>)",
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "pengaturan lanjutan",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Nonaktifkan pra-ambil (untuk mencegah sambungan apapun untuk permintaan jaringan yang diblokir)",
@@ -399,18 +383,6 @@
     "message": "Ungkap nama kanonis",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Tingkat lanjut",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Fitur ditujukan untuk pengguna tingkat lanjut.",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "pengaturan lanjutan",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "Pemulihan terakhir:",
     "description": "English: Last restore:"
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "Filter tampilan generik adalah filter tampilan yang dibuat untuk diterapkan pada semua situs web. Mengaktifkan opsi ini akan menghilangkan peningkatan overhead memori ram dan CPU pada halaman web akibat diterapkannya filter tampilan generik.\n\nDirekomendasikan untuk mengaktifkan opsi ini pada perangkat dengan performa rendah.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Tunda aktivitas jaringan sampai semua daftar filter dimuat",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "Daftar host yang diblokir",
@@ -613,7 +581,7 @@
   },
   "whitelistPrompt": {
     "message": "Berisi domain atau halaman situs terpercaya, uBlock Origin akan dinonaktifkan. Satu entri per baris. Entri yang tidak valid akan diabaikan dan dijadikan komentar.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Impor dan tambahkan",
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Buka",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Buat laporan baru",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Temukan laporan serupa",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Dokumentasi",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Baca dokumentasi di <code>uBlock/wiki</code> untuk mempelajari semua fitur uBlock Origin.",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Pertanyaan dan dukungan",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Jawaban pertanyaan dan dukungan bantuan lainnya tersedia di subreddit <code>/r/uBlockOrigin</code>.",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Masalah filter/situs web rusak",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Laporkan masalah filter pada situs web ke <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">pelacak masalah <code>uBlockOrigin/uAssets</code></span>. <u>Membutuhkan akun GitHub.</u>",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Penting:</b> Hindari menggunakan pemblokir sejenis bersamaan dengan uBlock Origin, karena mungkin akan mengakibatkan terjadinya masalah filter pada situs web tertentu.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Tips:</b> Pastikan filter Anda selalu yang terbaru. <span data-url=\"logger-ui.html#_\">Pencatat log</span> adalah utilitas utama untuk mendiagnosis masalah yang terkait dengan filter.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Laporan bug",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Laporkan masalah ekstensi uBlock Origin ke <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\">pelacak masalah <code>uBlockOrigin/uBlock-issue</code></span>. <u>Membutuhkan akun GitHub.</u>",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Informasi penyelesaian masalah",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Di bawah ini adalah informasi teknis yang mungkin berguna saat sukarelawan berusaha membantu memecahkan masalah Anda.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Penting:</b> Informasi yang sifatnya privat dan sensitif disensor secara bawaan. Informasi yang disensor mungkin akan membuat proses memecahkan masalah semakin sulit.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Laporkan masalah filter",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "Untuk mengurangi beban relawan dengan laporan sama berulang, harap verifikasi bahwa masalah tersebut belum dilaporkan.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Alamat laman web:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "Laman web...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Pilih entri --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Menampilkan iklan atau sejenisnya",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Memiliki overlay atau gangguan lainnya",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Mendeteksi uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Memiliki masalah terkait privasi",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Rusak saat uBlock Origin aktif",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Membuka tab atau jendela yang tidak diinginkan",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "Beri label halaman web sebagai “TAUSB” (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“Tidak Aman Untuk Saat Bekerja”</a>)",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Sensor",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Batal sensor",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Kebijakan privasi",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Catatan perubahan",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Wiki",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Dukungan",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Pelacak masalah",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Kode sumber (GPLv3)",
@@ -1029,14 +889,6 @@
   },
   "aboutDependencies": {
     "message": "Dependensi eksternal (kompatibel GPLv3):",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNs": {
-    "message": "Daftar filter milik uBO dihosting secara bebas pada <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDN</a> berikut:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "CDN yang dipilih secara acak digunakan saat daftar filter perlu diperbarui",
     "description": "Shown in the About pane"
   },
   "aboutBackupDataButton": {
@@ -1215,17 +1067,13 @@
     "message": "Salin ke papan klip",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Pilih semua",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Aktif/Nonaktifkan filter tampilan",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Aktif/Nonaktifkan pemblokiran profil",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "Perlonggar mode pemblokiran",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Penyimpanan terpakai: {{value}} {{unit}}",

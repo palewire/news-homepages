@@ -21,7 +21,6 @@
 
 // https://www.reddit.com/r/uBlockOrigin/comments/ghjqph/
 // https://github.com/NanoMeow/QuickReports/issues/3717
-// https://www.reddit.com/r/uBlockOrigin/comments/qyx7en/
 
 (function() {
     'use strict';
@@ -31,7 +30,7 @@
     }.bind();
     const apstag = {
         fetchBids: function(a, b) {
-            if ( typeof b === 'function' ) {
+            if ( b instanceof Function ) {
                 b([]);
             }
         },

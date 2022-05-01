@@ -55,10 +55,6 @@
     "message": "Par",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "Atbalsts",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ — līdzekļu skatītājs",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Atvērt pieprasījumu žurnālu",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "Ziņot par nepilnību šajā vietnē",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Pārslēgt uznirstošo logu bloķēšanu šajā vietnē",
@@ -335,25 +327,17 @@
     "message": "Daltoniķiem draudzīgs",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Izskats",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Izskats",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Pielāgota izcēluma krāsa",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Aktivizēt mākoņdatu glabāšanas atbalstu",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
     "message": "Es esmu pieredzējis lietotājs (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>Vēlams izlasīt</a>)",
-    "description": "Checkbox to let user access advanced, technical features"
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "papildu iestatījumi",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Atslēgt pirmsielādi (lai novērstu bloķētus tīkla pieprasījumus)",
@@ -396,20 +380,8 @@
     "description": "background information: https://github.com/gorhill/uBlock/issues/3150"
   },
   "settingsUncloakCnamePrompt": {
-    "message": "Atslēpt kanoniskos nosaukumus",
+    "message": "Uncloak canonical names",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
-  },
-  "settingsAdvanced": {
-    "message": "Paplašināti",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Iespējas, kas piemērotas tikai tehniskiem lietotājiem.",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "papildu iestatījumi",
-    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsLastRestorePrompt": {
     "message": "Pēdējā atjaunošana veikta:",
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "<p>Vispārīgie kosmētikas filtri ir kosmētikas filtri, kurus paredzēts piemērot visās tīmekļvietnēs.<p>Lai gan uBlock ₀ darbojas efektīvi, vispārīgie kosmētikas filtri dažās tīmekļa lapās var ievērojami noslogot atmiņu un centrālo procesoru.<p>Šīs opcijas izmantošana samazinās vispārīgo kosmētikas filtru izmantotās atmiņas un procesora noslodzi kā arī samazinās paša uBlock₀ izmantoto atmiņu.<p>Ieteicams izmantot zemas veiktspējas ierīcēm.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Atlikt tīkla darbības, līdz visi aizturēšanas saraksti ir ielādēti.",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "Bloķēto hostu saraksti",
@@ -613,7 +581,7 @@
   },
   "whitelistPrompt": {
     "message": "Saraksts ar interneta resursiem, kuriem tiks atslēgts uBlock Origin. Viens ieraksts katrā rindiņā. Nederīgi interneta resursu nosaukumi tiks ignorēti bez brīdinājuma.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Importēt un pievienot",
@@ -680,7 +648,7 @@
     "description": "Tooltip for the eraser in the logger page; used to blank the content of the logger"
   },
   "loggerPauseTip": {
-    "message": "Apturēt žurnalēšanu (atmest visus ienākošos datus)",
+    "message": "Pause logger (discard all incoming data)",
     "description": "Tooltip for the pause button in the logger page"
   },
   "loggerUnpauseTip": {
@@ -748,11 +716,11 @@
     "description": "Label to identify a context field (typically a hostname)"
   },
   "loggerEntryDetailsRootContext": {
-    "message": "Saknes konteksts",
+    "message": "Root context",
     "description": "Label to identify a root context field (typically a hostname)"
   },
   "loggerEntryDetailsPartyness": {
-    "message": "Ballīte",
+    "message": "Partyness",
     "description": "Label to identify a field providing partyness information"
   },
   "loggerEntryDetailsType": {
@@ -820,11 +788,11 @@
     "description": "Below this sentence, the filter list(s) in which the filter was found"
   },
   "loggerStaticFilteringFinderSentence2": {
-    "message": "Nemainīgs aizturētājs netika atrasts nevienā no pašreiz iespējotajiem aizturēšanas sarakstiem",
+    "message": "Static filter could not be found in any of the currently enabled filter lists",
     "description": "Message to show when a filter cannot be found in any filter lists"
   },
   "loggerSettingDiscardPrompt": {
-    "message": "Žurnāla ieraksti, kas neatbilsts visiem trim zemāk esošajiem nosacījumiem, tiks atmesti:",
+    "message": "Logger entries which do not fulfill all three conditions below will be automatically discarded:",
     "description": "Logger setting: A sentence to describe the purpose of the settings below"
   },
   "loggerSettingPerEntryMaxAge": {
@@ -840,7 +808,7 @@
     "description": "A logger setting"
   },
   "loggerSettingPerEntryLineCount": {
-    "message": "Izmantot {{input}} rindas ierakstam stateniski izvērstā skatā",
+    "message": "Use {{input}} lines per entry in vertically expanded mode",
     "description": "A logger setting"
   },
   "loggerSettingHideColumnsPrompt": {
@@ -852,7 +820,7 @@
     "description": "A label for the time column"
   },
   "loggerSettingHideColumnFilter": {
-    "message": "{{input}} aizturētājs/nosacījums",
+    "message": "{{input}} Filter/rule",
     "description": "A label for the filter or rule column"
   },
   "loggerSettingHideColumnContext": {
@@ -860,7 +828,7 @@
     "description": "A label for the context column"
   },
   "loggerSettingHideColumnPartyness": {
-    "message": "{{input}} Ballīte",
+    "message": "{{input}} Partyness",
     "description": "A label for the partyness column"
   },
   "loggerExportFormatList": {
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Atvērt",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Izveidot jaunu ziņojumu",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Meklēt līdzīgus ziņojumus",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Dokumentācija",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Dokumentāciju var lasīt <code>uBlock/wiki</code>, lai uzzinātu par visām uBlock Origin iespējām.",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Jautājumi un atbalsts",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Atbildes uz jautājumiem un cita veida atbalsts tiek sniegts <code>/r/uBlockOrigin</code>.",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Aizturēšanas nepilnības/nedarbojas vietne",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Par aizturēšanas nepilnībām noteiktās vietnēs var ziņot nepilnību uzskaitē <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code></span>.",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Svarīgi:</b> ir jāizvairas no līdzīgu aizturētāju izmantošanas vienlaicīgi ar uBlock Origin, jo tas var radīt aizturēšanas kļūmes noteiktās vietnēs.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Ieteikums:</b> jāpārliecinās, ka aizturēšanas saraksti ir atjaunināti. <span data-url=\"logger-ui.html#_\">Žurnāls</span> ir galvenais rīks, lai noteiktu ar aizturēšanu saistītas kļūmes.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Nepilnību ziņojums",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Par uBlock Origin nepilnībām jāziņo <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code></span>.",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Kļūmju noteikšanas informācija",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Zemāk ir tehniskā informācija, kas var būt noderīga, kad brīvprātīgie mēģinās palīdzēt atrisināt sarežģījumus.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Svarīgi:</b> iespējami privāta vai sensitīva informācija pēc noklusējuma tiek izņemta. Aizvākta informācija var apgrūtināt sarežģījuma atrisināšanu.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Ziņot par aizturētāja nepilnībām",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "Lai izvairītos no brīvprātīgo noslogošanas ar ziņojumiem, kas atkārtojas, lūgums pārbaudīt, vai par šādu nepilnību jau ir ziņots.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Tīmekļa lapas adrese:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "Tīmekļa lapa...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Atlasīt ierakstu --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Rāda reklāmas vai to paliekas",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Ir pārklājumi vai citas neērtības",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Nosaka uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Ir ar privātumu saistītas nebūšanas",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Salūzt, kad uBlock Origin ir iespējots",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Atver nevēlamas cilnes vai logus",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "Iezīmēt tīmekļa lapu kā \"NSFW\" (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">\"Not Safe for Work</a> (nav droša darbam))",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Izņemt",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Atdarīt izņemšanu",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Privātuma nosacījumi",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Izmaiņu žurnāls",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Wiki",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Atbalsts",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Zināmās kļūdas",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Pirmkods (GPLv3)",
@@ -1028,15 +888,7 @@
     "description": "Link text to uBO's own filter lists repo"
   },
   "aboutDependencies": {
-    "message": "Ārējās atkarības (GPLv3 saderīgas):",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNs": {
-    "message": "uBO pašu aizturēšanas saraksti ir brīvi pieejami šajos <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">SPT (satura piegādes tīklos)</a>:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "Nejauši izvēlēts SPT tiks izmantots, kad būs jāatjaunina aizturēšanas saraksts.",
+    "message": "External dependencies (GPLv3-compatible):",
     "description": "Shown in the About pane"
   },
   "aboutBackupDataButton": {
@@ -1052,7 +904,7 @@
     "description": "English: Restore from file..."
   },
   "aboutResetDataButton": {
-    "message": "Atgriezt noklusējuma iestatījumus...",
+    "message": "Iestatīt noklusējuma iestatījumus...",
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
@@ -1215,17 +1067,13 @@
     "message": "Kopēt starpliktuvē",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Atlasīt visu",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Pārslēgt kosmētisko atlasi",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Pārslēgt aizturēšanas profilu",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
-    "message": "Atslābināt aizturēšanas stāvokli",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "message": "Relax blocking mode",
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Izmantotais krātuves lielums: {{value}} {{unit}}",

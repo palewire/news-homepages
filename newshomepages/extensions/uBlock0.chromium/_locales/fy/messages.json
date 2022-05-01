@@ -55,10 +55,6 @@
     "message": "Oer",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "Stipe",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ – Middelenviewer",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Lochboek iepenje",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "In probleem op dizze website melde",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Alle pop-ups foar dizze website yn-/útskeakelje",
@@ -335,25 +327,17 @@
     "message": "Kleureblynfreonlik",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Foarmjouwing",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Tema",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Oanpaste aksintkleur",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Stipe foar cloudûnthâld ynskeakelje",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
     "message": "Ik bin in betûfte brûker (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>Lês dit earst</a>)",
-    "description": "Checkbox to let user access advanced, technical features"
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "avansearre ynstellingen",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Pre-fetching útskeakelje (om eltse ferbining foar blokkearre netwurkfersiken foar te kommen)",
@@ -399,18 +383,6 @@
     "message": "Kanonike nammen toane",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Avansearre",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Allinnich foar technyske brûkers geskikte funksjes.",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "avansearre ynstellingen",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "Lêste werstel:",
     "description": "English: Last restore:"
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "Algemiene kosmetyske filters binne dy kosmetyske filters dy't bedoeld binne om op alle websites tapast te wurden. It ynskeakeljen fan dizze opsje eliminearret de oan websiden tafoege ûnthâld- en cpu-oerhead as gefolch fan it ferwurkjen fan algemiene kosmetyske filters.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Netwurkaktiviteit ûnderbrekke oant alle filterlisten laden binne",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "List fan blokkearre hosts",
@@ -612,8 +580,8 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "De fertroude-website-ynstruksjes skriuwe foar op hokker websiden uBlock Origin útskeakele wurde moat. Ien fermelding per rigel.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "message": "De whitelist-ynstruksjes skriuwe foar op hokker websiden uBlock Origin útskeakele wurde moat. Ien fermelding per rigel. Unjildige ynstruksjes wurde sûnder meidieling negearre en útskeakele.",
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Ymportearje en tafoegje",
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Iepenje",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Nije melding meitsje",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Soartgelikense meldingen sykje",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Dokumintaasje",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Lês de dokumintaasje op <code>uBlock/wiki</code> foar mear ynfo oer alle funksjes fan uBlock Origin.",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Fragen en stipe",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Antwurden op fragen en oare soarten stipe wurde levere op de subreddit <code>/r/uBlockOrigin</code>.",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Filterproblemen/website wurket net",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Meld filterproblemen mei spesifike websites op de <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"> probleemtracker</span>. Fereasket in GitHub-account.",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Wichtich:</b> mij it gebrûk fan oare adblockers foar itselde doel yn kombinaasje mei uBlock Origin, omdat dit op bepaalde websites problemen jaan kin.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Tips:</b> soargje derfoar dat jo filterlisten by-de-tiid binne. <span data-url=\"logger-ui.html#_\">De logger</span> is it primêre helpmiddel foar it analysearjen fan filterrelatearre problemen.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Bugmelding",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Meld problemen mei uBlock Origin sels by de <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"> probleemtracker</span>. Fereasket in GitHub-account.",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Probleemoplossingsynformaasje",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Hjirûnder stiet technyske ynformaasje dy't handich wêze kin wannear't frijwilligers jo probearje te helpen by it oplossen fan in probleem.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Wichtich:</b> mooglik gefoelige of priveegegevens wurde standert redigearre. Redigearre gegevens kinne it oplossen fan in probleem swierder meitsje.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "In filterprobleem melde",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "Kontrolearje oft it probleem net earder meld is om foar te kommen dat frijwilligers mei dûbele meldingen belêst wurde.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Adres fan de webside:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "De webside...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Meitsje in kar --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Toant advertinsjes of restanten",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Hat oerlapingen of oare ûngemakken",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Detektearret uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Hat privacy-relatearre problemen",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Wurket net as uBlock Origin ynskeakele is",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Iepenet net-winske ljepblêden of finsters",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "De webside labelje as ‘NSFW’ (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">‘Not Safe For Work’</a>)",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Redigearje",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Redigearje ûngedien meitsje",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Privacybelied",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Wizigingenlochboek",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Wiki",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Stipe",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Probleemfolger",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Boarnekoade (GPLv3)",
@@ -1029,14 +889,6 @@
   },
   "aboutDependencies": {
     "message": "Eksterne ôfhinklikheden (GPLv3-kompatibel):",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNs": {
-    "message": "uBO’s eigen filterlisten binne fergees beskikber op de folgjende <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDN’s</a>:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "As in filterlist bywurke wurde moat, wurdt samar in CDN brûkt",
     "description": "Shown in the About pane"
   },
   "aboutBackupDataButton": {
@@ -1215,17 +1067,13 @@
     "message": "Kopiearje nei klamboerd",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Alles selektearje",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Kosmetyske filters yn-/útskeakelje",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Blokkearringsprofyl omskeakelje",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "Blokkearringsmodus beheine",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Brûkte ûnthâldromte {{value}} {{unit}}",

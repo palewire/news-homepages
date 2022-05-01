@@ -19,13 +19,7 @@
     Home: https://github.com/gorhill/uBlock
 */
 
-/* globals CSSStyleSheet, document */
-
 'use strict';
-
-/******************************************************************************/
-
-import Regex from '../lib/regexanalyzer/regex.js';
 
 /*******************************************************************************
 
@@ -72,6 +66,9 @@ import Regex from '../lib/regexanalyzer/regex.js';
 
 **/
 
+{
+// >>>>> start of local scope
+
 /******************************************************************************/
 
 const Parser = class {
@@ -106,9 +103,9 @@ const Parser = class {
         this.extOptionsIterator = new ExtOptionsIterator(this);
         this.maxTokenLength = Number.MAX_SAFE_INTEGER;
         this.expertMode = options.expertMode !== false;
-        this.reIsLocalhostRedirect = /(?:0\.0\.0\.0|broadcasthost|local|localhost(?:\.localdomain)?|ip6-\w+)(?:[^\w.-]|$)/;
+        this.reIsLocalhostRedirect = /(?:0\.0\.0\.0|(?:broadcast|local)host|local|ip6-\w+)(?:[^\w.-]|$)/;
         this.reHostname = /^[^\x00-\x24\x26-\x29\x2B\x2C\x2F\x3A-\x40\x5B-\x5E\x60\x7B-\x7F]+/;
-        this.reHostsSink = /^[\w%.:\[\]-]+$/;
+        this.reHostsSink = /^[\w-.:\[\]]+$/;
         this.reHostsSource = /^[^\x00-\x24\x26-\x29\x2B\x2C\x2F\x3A-\x40\x5B-\x5E\x60\x7B-\x7F]+$/;
         this.reUnicodeChar = /[^\x00-\x7F]/;
         this.reUnicodeChars = /[^\x00-\x7F]/g;
@@ -116,10 +113,7 @@ const Parser = class {
         this.rePlainHostname = /^(?:[\w-]+\.)*[a-z]+$/;
         this.rePlainEntity = /^(?:[\w-]+\.)+\*$/;
         this.reEntity = /^[^*]+\.\*$/;
-        // https://github.com/uBlockOrigin/uBlock-issues/issues/1146
-        //   From https://codemirror.net/doc/manual.html#option_specialChars
-        this.reInvalidCharacters = /[\x00-\x1F\x7F-\x9F\xAD\u061C\u200B-\u200F\u2028\u2029\uFEFF\uFFF9-\uFFFC]/;
-        this.punycoder = new URL('https://ublock0.invalid/');
+        this.punycoder = new URL(self.location);
         // TODO: mind maxTokenLength
         this.reGoodRegexToken
             = /[^\x01%0-9A-Za-z][%0-9A-Za-z]{7,}|[^\x01%0-9A-Za-z][%0-9A-Za-z]{1,6}[^\x01%0-9A-Za-z]/;
@@ -129,6 +123,7 @@ const Parser = class {
             exception: false,
             raw: '',
             compiled: '',
+            pseudoclass: false,
         };
         this.reset();
     }
@@ -288,6 +283,7 @@ const Parser = class {
     analyzeExtPattern() {
         this.result.exception = this.isException();
         this.result.compiled = undefined;
+        this.result.pseudoclass = false;
 
         let selector = this.strFromSpan(this.patternSpan);
         if ( selector === '' ) {
@@ -324,22 +320,13 @@ const Parser = class {
             }
             this.flavorBits |= BITFlavorExtHTML;
             selector = selector.slice(1);
-            if ( (this.hasOptions() || this.isException()) === false ) {
-                this.flavorBits |= BITFlavorUnsupported;
-            }
         }
         // ##...
         else {
             this.flavorBits |= BITFlavorExtCosmetic;
         }
         this.result.raw = selector;
-        if (
-            this.selectorCompiler.compile(
-                selector,
-                hasBits(this.flavorBits, BITFlavorExtStrong | BITFlavorExtStyle),
-                this.result
-            ) === false
-        ) {
+        if ( this.selectorCompiler.compile(selector, this.result) === false ) {
             this.flavorBits |= BITFlavorUnsupported;
         }
     }
@@ -416,13 +403,6 @@ const Parser = class {
                 len === 3 && this.slices[i+2] > 2 ||
                 len > 3 && hasBits(this.slices[i+len-3], BITSlash)
             );
-            // https://github.com/uBlockOrigin/uBlock-issues/issues/1932
-            //   Resolve ambiguity with options ending with `/` by verifying
-            //   that when a `$` is present, what follows make sense regex-wise.
-            if ( patternIsRegex && hasBits(this.allBits, BITDollar) ) {
-                patternIsRegex =
-                    this.strFromSpan(this.patternSpan).search(/[^\\]\$[^/|)]/) === -1;
-            }
         }
 
         // If the pattern is not a regex, there might be options.
@@ -478,78 +458,76 @@ const Parser = class {
             }
         }
 
-        // Assume no anchors.
-        this.patternLeftAnchorSpan.i = this.patternSpan.i;
-        this.patternRightAnchorSpan.i = this.optionsAnchorSpan.i;
-
-        // Skip all else if pattern is a regex
+        // If the pattern is a regex, remember this.
         if ( patternIsRegex ) {
-            this.patternBits = this.bitsFromSpan(this.patternSpan);
             this.flavorBits |= BITFlavorNetRegex;
-            this.category = CATStaticNetFilter;
-            return;
         }
 
         // Refine by processing pattern anchors.
         //
+        // Assume no anchors.
+        this.patternLeftAnchorSpan.i = this.patternSpan.i;
+        this.patternRightAnchorSpan.i = this.optionsAnchorSpan.i;
         // Not a regex, there might be anchors.
-        // Left anchor?
-        //   `|`: anchor to start of URL
-        //   `||`: anchor to left of a hostname label
-        if (
-            this.patternSpan.len !== 0 &&
-            hasBits(this.slices[this.patternSpan.i], BITPipe)
-        ) {
-            this.patternLeftAnchorSpan.len = 3;
-            const len = this.slices[this.patternSpan.i+2];
-            // |||*, ...  =>  ||, |*, ...
-            if ( len > 2 ) {
-                this.splitSlot(this.patternSpan.i, 2);
-            } else {
-                this.patternSpan.len -= 3;
-            }
-            this.patternSpan.i += 3;
-            this.flavorBits |= len === 1
-                ? BITFlavorNetLeftURLAnchor
-                : BITFlavorNetLeftHnAnchor;
-        }
-        // Right anchor?
-        //   `|`: anchor to end of URL
-        //   `^`: anchor to end of hostname, when other conditions are
-        //        fulfilled:
-        //          the pattern is hostname-anchored on the left
-        //          the pattern is made only of hostname characters
-        if ( this.patternSpan.len !== 0 ) {
-            const lastPatternSlice = this.patternSpan.len > 3
-                ? this.patternRightAnchorSpan.i - 3
-                : this.patternSpan.i;
-            const bits = this.slices[lastPatternSlice];
-            if ( (bits & BITPipe) !== 0 ) {
-                this.patternRightAnchorSpan.i = lastPatternSlice;
-                this.patternRightAnchorSpan.len = 3;
-                const len = this.slices[this.patternRightAnchorSpan.i+2];
-                // ..., ||*  =>  ..., |*, |
-                if ( len > 1 ) {
-                    this.splitSlot(this.patternRightAnchorSpan.i, len - 1);
-                    this.patternRightAnchorSpan.i += 3;
+        if ( patternIsRegex === false ) {
+            // Left anchor?
+            //   `|`: anchor to start of URL
+            //   `||`: anchor to left of a hostname label
+            if (
+                this.patternSpan.len !== 0 &&
+                hasBits(this.slices[this.patternSpan.i], BITPipe)
+            ) {
+                this.patternLeftAnchorSpan.len = 3;
+                const len = this.slices[this.patternSpan.i+2];
+                // |||*, ...  =>  ||, |*, ...
+                if ( len > 2 ) {
+                    this.splitSlot(this.patternSpan.i, 2);
                 } else {
                     this.patternSpan.len -= 3;
                 }
-                this.flavorBits |= BITFlavorNetRightURLAnchor;
-            } else if (
-                hasBits(bits, BITCaret) &&
-                this.slices[lastPatternSlice+2] === 1 &&
-                hasBits(this.flavorBits, BITFlavorNetLeftHnAnchor) &&
-                this.skipUntilNot(
-                    this.patternSpan.i,
-                    lastPatternSlice,
-                    BITHostname
-                ) === lastPatternSlice
-            ) {
-                this.patternRightAnchorSpan.i = lastPatternSlice;
-                this.patternRightAnchorSpan.len = 3;
-                this.patternSpan.len -= 3;
-                this.flavorBits |= BITFlavorNetRightHnAnchor;
+                this.patternSpan.i += 3;
+                this.flavorBits |= len === 1
+                    ? BITFlavorNetLeftURLAnchor
+                    : BITFlavorNetLeftHnAnchor;
+            }
+            // Right anchor?
+            //   `|`: anchor to end of URL
+            //   `^`: anchor to end of hostname, when other conditions are
+            //        fulfilled:
+            //          the pattern is hostname-anchored on the left
+            //          the pattern is made only of hostname characters
+            if ( this.patternSpan.len !== 0 ) {
+                const lastPatternSlice = this.patternSpan.len > 3
+                    ? this.patternRightAnchorSpan.i - 3
+                    : this.patternSpan.i;
+                const bits = this.slices[lastPatternSlice];
+                if ( (bits & BITPipe) !== 0 ) {
+                    this.patternRightAnchorSpan.i = lastPatternSlice;
+                    this.patternRightAnchorSpan.len = 3;
+                    const len = this.slices[this.patternRightAnchorSpan.i+2];
+                    // ..., ||*  =>  ..., |*, |
+                    if ( len > 1 ) {
+                        this.splitSlot(this.patternRightAnchorSpan.i, len - 1);
+                        this.patternRightAnchorSpan.i += 3;
+                    } else {
+                        this.patternSpan.len -= 3;
+                    }
+                    this.flavorBits |= BITFlavorNetRightURLAnchor;
+                } else if (
+                    hasBits(bits, BITCaret) &&
+                    this.slices[lastPatternSlice+2] === 1 &&
+                    hasBits(this.flavorBits, BITFlavorNetLeftHnAnchor) &&
+                    this.skipUntilNot(
+                        this.patternSpan.i,
+                        lastPatternSlice,
+                        BITHostname
+                    ) === lastPatternSlice
+                ) {
+                    this.patternRightAnchorSpan.i = lastPatternSlice;
+                    this.patternRightAnchorSpan.len = 3;
+                    this.patternSpan.len -= 3;
+                    this.flavorBits |= BITFlavorNetRightHnAnchor;
+                }
             }
         }
 
@@ -562,16 +540,16 @@ const Parser = class {
         //   the part following the space character.
         // https://github.com/uBlockOrigin/uBlock-issues/issues/1118
         //   Patterns with more than one space are dubious.
-        if ( hasBits(this.allBits, BITSpace) ) {
+        {
             const { i, len } = this.patternSpan;
             const noOptionsAnchor = this.optionsAnchorSpan.len === 0;
             let j = len;
             for (;;) {
                 if ( j === 0 ) { break; }
                 j -= 3;
-                if ( noOptionsAnchor && hasBits(this.slices[i+j], BITSpace) ) {
-                    break;
-                }
+                const bits = this.slices[i+j];
+                if ( noOptionsAnchor && hasBits(bits, BITSpace) ) { break; }
+                this.patternBits |= bits;
             }
             if ( j !== 0 ) {
                 const sink = this.strFromSlices(this.patternSpan.i, j - 3);
@@ -596,87 +574,83 @@ const Parser = class {
             }
         }
 
-        // Pointless wildcards:
+        // Pointless wildcards and anchoring:
         // - Eliminate leading wildcard not followed by a pattern token slice
         // - Eliminate trailing wildcard not preceded by a pattern token slice
-        // - Eliminate pointless trailing asterisk-caret (`*^`)
+        // - Eliminate pattern anchoring when irrelevant
         //
         // Leading wildcard history:
         // https://github.com/gorhill/uBlock/issues/1669#issuecomment-224822448
         //   Remove pointless leading *.
-        if ( hasBits(this.allBits, BITAsterisk) ) {
-            let { i, len } = this.patternSpan;
-            let pattern = this.strFromSpan(this.patternSpan);
-            // Pointless leading wildcard
-            if ( /^\*+[^0-9a-z%]/.test(pattern) ) {
-                this.slices[i] |= BITIgnore;
-                this.patternSpan.i = (i += 3);
-                this.patternSpan.len = (len -= 3);
-                pattern = this.strFromSpan(this.patternSpan);
-            }
-            // Pointless trailing wildcard
-            if ( /([^0-9a-z%]|[0-9a-z%]{7,})\*+$/.test(pattern) ) {
-                this.patternSpan.len = (len -= 3);
-                pattern = this.strFromSpan(this.patternSpan);
-                // Ignore only if the pattern would not end up looking like
-                // a regex.
-                if ( /^\/.+\/$/.test(pattern) === false ) {
-                    this.slices[i+len] |= BITIgnore;
-                }
-                // We can ignore right-hand pattern anchor
-                if ( this.patternRightAnchorSpan.len !== 0 ) {
-                    this.slices[this.patternRightAnchorSpan.i] |= BITIgnore;
-                    this.flavorBits &= ~BITFlavorNetRightAnchor;
-                }
-            }
-            // Pointless trailing asterisk-caret: `..*^`,  `..*^|`
-            if ( hasBits(this.allBits, BITCaret) && /\*+\^$/.test(pattern) ) {
-                this.slices[i+len-3] |= BITIgnore;
-                this.slices[i+len-6] |= BITIgnore;
-                this.patternSpan.len = (len -= 6);
-                pattern = this.strFromSpan(this.patternSpan);
-                // We can ignore right-hand pattern anchor
-                if ( this.patternRightAnchorSpan.len !== 0 ) {
-                    this.slices[this.patternRightAnchorSpan.i] |= BITIgnore;
-                    this.flavorBits &= ~BITFlavorNetRightAnchor;
-                }
-            }
-        }
-
-        // Pointless left-hand pattern anchoring
-        //
-        // Leading wildcard history:
         // https://github.com/gorhill/uBlock/issues/3034
         //   We can remove anchoring if we need to match all at the start.
-        if ( hasBits(this.flavorBits, BITFlavorNetLeftAnchor) ) {
-            const i = this.patternLeftAnchorSpan.i;
-            if (
-                this.patternSpan.len === 0 ||
-                hasBits(this.slices[i+3], BITIgnore|BITAsterisk)
-            ) {
-                this.slices[i] |= BITIgnore;
-                this.flavorBits &= ~BITFlavorNetLeftAnchor;
-            }
-        }
-
-        // Pointless right-hand pattern anchoring
         //
         // Trailing wildcard history:
         // https://github.com/gorhill/uBlock/issues/3034
         //   We can remove anchoring if we need to match all at the end.
-        if ( hasBits(this.flavorBits, BITFlavorNetRightAnchor) ) {
-            const i = this.patternRightAnchorSpan.i;
+        {
+            let { i, len } = this.patternSpan;
+            // Pointless leading wildcard
             if (
-                this.patternSpan.len === 0 ||
-                hasBits(this.slices[i-3], BITIgnore|BITAsterisk)
+                len > 3 &&
+                hasBits(this.slices[i], BITAsterisk) &&
+                hasNoBits(this.slices[i+3], BITPatternToken)
             ) {
                 this.slices[i] |= BITIgnore;
+                i += 3; len -= 3;
+                this.patternSpan.i = i;
+                this.patternSpan.len = len;
+                // We can ignore left-hand pattern anchor
+                if ( this.patternLeftAnchorSpan.len !== 0 ) {
+                    this.slices[this.patternLeftAnchorSpan.i] |= BITIgnore;
+                    this.flavorBits &= ~BITFlavorNetLeftAnchor;
+                }
+            }
+            // Pointless trailing wildcard
+            if (
+                len > 3 &&
+                hasBits(this.slices[i+len-3], BITAsterisk) &&
+                hasNoBits(this.slices[i+len-6], BITPatternToken)
+            ) {
+                // Ignore only if the pattern would not end up looking like
+                // a regex.
+                if (
+                    hasNoBits(this.slices[i], BITSlash) ||
+                    hasNoBits(this.slices[i+len-6], BITSlash)
+                ) {
+                    this.slices[i+len-3] |= BITIgnore;
+                }
+                len -= 3;
+                this.patternSpan.len = len;
+                // We can ignore right-hand pattern anchor
+                if ( this.patternRightAnchorSpan.len !== 0 ) {
+                    this.slices[this.patternRightAnchorSpan.i] |= BITIgnore;
+                    this.flavorBits &= ~BITFlavorNetRightAnchor;
+                }
+            }
+            // Pointless left-hand pattern anchoring
+            if (
+                (
+                    len === 0 ||
+                    len !== 0 && hasBits(this.slices[i], BITAsterisk)
+                ) &&
+                hasBits(this.flavorBits, BITFlavorNetLeftAnchor)
+            ) {
+                this.slices[this.patternLeftAnchorSpan.i] |= BITIgnore;
+                this.flavorBits &= ~BITFlavorNetLeftAnchor;
+            }
+            // Pointless right-hand pattern anchoring
+            if (
+                (
+                    len === 0 ||
+                    len !== 0 && hasBits(this.slices[i+len-3], BITAsterisk)
+                ) &&
+                hasBits(this.flavorBits, BITFlavorNetRightAnchor)
+            ) {
+                this.slices[this.patternRightAnchorSpan.i] |= BITIgnore;
                 this.flavorBits &= ~BITFlavorNetRightAnchor;
             }
         }
-
-        // Collate effective pattern bits
-        this.patternBits = this.bitsFromSpan(this.patternSpan);
 
         this.category = CATStaticNetFilter;
     }
@@ -1152,7 +1126,6 @@ const Parser = class {
         if ( len === 0 ) { return true; }
         const patternIsRegex = this.patternIsRegex();
         let pattern = this.getNetPattern();
-        if ( this.reInvalidCharacters.test(pattern) ) { return false; }
         // Punycode hostname part of the pattern.
         if ( patternIsRegex === false ) {
             const match = this.reHostname.exec(pattern);
@@ -1185,15 +1158,6 @@ const Parser = class {
         const raw = this.raw.slice(0, beg) + pattern + this.raw.slice(end);
         this.analyze(raw);
         return true;
-    }
-
-    bitsFromSpan(span) {
-        const { i, len } = span;
-        let bits = 0;
-        for ( let j = 0; j < len; j += 3 ) {
-            bits |= this.slices[i+j];
-        }
-        return bits;
     }
 
     hasFlavor(bits) {
@@ -1330,37 +1294,19 @@ Parser.prototype.SelectorCompiler = class {
             [ 'matches-css-after', ':matches-css-after' ],
             [ 'matches-css-before', ':matches-css-before' ],
         ]);
-        this.reSimpleSelector = /^[#.]?[A-Za-z_][\w-]*$/;
-        // https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleSheet#browser_compatibility
-        //   Firefox does not support constructor for CSSStyleSheet
-        this.stylesheet = (( ) => {
-            if ( typeof document !== 'object' ) { return null; }
-            if ( document instanceof Object === false ) { return null; }
-            try {
-                return new CSSStyleSheet();
-            } catch(ex) {
-            }
-            const style = document.createElement('style');
-            document.body.append(style);
-            const stylesheet = style.sheet;
-            style.remove();
-            return stylesheet;
-        })();
-        this.div = (( ) => {
-            if ( typeof document !== 'object' ) { return null; }
-            if ( document instanceof Object === false ) { return null; }
-            return document.createElement('div');
-        })();
+        this.reSimpleSelector = /^[#.][A-Za-z_][\w-]*$/;
+        this.div = document.createElement('div');
+        this.rePseudoElement = /:(?::?after|:?before|:-?[a-z][a-z-]*[a-z])$/;
         this.reProceduralOperator = new RegExp([
             '^(?:',
-            Array.from(parser.proceduralOperatorTokens.keys()).join('|'),
+                Array.from(parser.proceduralOperatorTokens.keys()).join('|'),
             ')\\('
         ].join(''));
         this.reEatBackslashes = /\\([()])/g;
         this.reEscapeRegex = /[.*+?^${}()|[\]\\]/g;
-        this.reDropScope = /^\s*:scope\s*(?=[+>~])/;
+        this.reNeedScope = /^\s*>/;
         this.reIsDanglingSelector = /[+>~\s]\s*$/;
-        this.reIsCombinator = /^\s*[+>~]/;
+        this.reIsSiblingSelector = /^\s*[+~]/;
         this.regexToRawValue = new Map();
         // https://github.com/gorhill/uBlock/issues/2793
         this.normalizedOperators = new Map([
@@ -1376,7 +1322,7 @@ Parser.prototype.SelectorCompiler = class {
         ]);
     }
 
-    compile(raw, asProcedural, out) {
+    compile(raw, out) {
         // https://github.com/gorhill/uBlock/issues/952
         //   Find out whether we are dealing with an Adguard-specific cosmetic
         //   filter, and if so, translate it if supported, or discard it if not
@@ -1392,10 +1338,15 @@ Parser.prototype.SelectorCompiler = class {
             out.raw = raw;
         }
 
-        // Can be used in a declarative CSS rule?
-        if ( asProcedural === false && this.sheetSelectable(raw) ) {
-            out.compiled = raw;
-            return true;
+        let extendedSyntax = false;
+        const selectorType = this.cssSelectorType(raw);
+        if ( selectorType !== 0 ) {
+            extendedSyntax = this.reExtendedSyntax.test(raw);
+            if ( extendedSyntax === false ) {
+                out.pseudoclass = selectorType === 3;
+                out.compiled = raw;
+                return true;
+            }
         }
 
         // We  rarely reach this point -- majority of selectors are plain
@@ -1408,7 +1359,7 @@ Parser.prototype.SelectorCompiler = class {
         // Note: extended selector syntax has been deprecated in ABP, in
         // favor of the procedural one (i.e. `:operator(...)`).
         // See https://issues.adblockplus.org/ticket/5287
-        if ( asProcedural && this.reExtendedSyntax.test(raw) ) {
+        if ( extendedSyntax ) {
             let matches;
             while ( (matches = this.reExtendedSyntaxParser.exec(raw)) !== null ) {
                 const operator = this.normalizedExtendedSyntaxOperators.get(matches[1]);
@@ -1417,19 +1368,18 @@ Parser.prototype.SelectorCompiler = class {
                       operator + '(' + matches[3] + ')' +
                       raw.slice(matches.index + matches[0].length);
             }
-            return this.compile(raw, true, out);
+            return this.compile(raw, out);
         }
 
         // Procedural selector?
         const compiled = this.compileProceduralSelector(raw);
         if ( compiled === undefined ) { return false; }
 
-        out.compiled =
-            compiled.selector !== compiled.raw ||
-            this.sheetSelectable(compiled.selector) === false
-                ? JSON.stringify(compiled)
-                : compiled.selector;
+        if ( compiled.pseudo !== undefined ) {
+            out.pseudoclass = compiled.pseudo;
+        }
 
+        out.compiled = JSON.stringify(compiled);
         return true;
     }
 
@@ -1451,6 +1401,11 @@ Parser.prototype.SelectorCompiler = class {
             : `${selector}:style(${style})`;
     }
 
+    // Return value:
+    //   0b00 (0) = not a valid CSS selector
+    //   0b01 (1) = valid CSS selector, without pseudo-element
+    //   0b11 (3) = valid CSS selector, with pseudo element
+    //
     // Quick regex-based validation -- most cosmetic filters are of the
     // simple form and in such case a regex is much faster.
     // Keep in mind:
@@ -1459,40 +1414,24 @@ Parser.prototype.SelectorCompiler = class {
     // https://github.com/gorhill/uBlock/issues/3111
     //   Workaround until https://bugzilla.mozilla.org/show_bug.cgi?id=1406817
     //   is fixed.
-    // https://github.com/uBlockOrigin/uBlock-issues/issues/1751
-    //   Do not rely on matches() or querySelector() to test whether a
-    //   selector is declarative or not.
-    // https://github.com/uBlockOrigin/uBlock-issues/issues/1806#issuecomment-963278382
-    //   Forbid multiple and unexpected CSS style declarations.
-    sheetSelectable(s) {
-        if ( this.reSimpleSelector.test(s) ) { return true; }
-        if ( this.stylesheet === null ) { return true; }
-        try {
-            this.stylesheet.insertRule(`${s}{color:red}`);
-            if ( this.stylesheet.cssRules.length !== 1 ) { return false; }
-            const style = this.stylesheet.cssRules[0].style;
-            if ( style.length !== 1 ) { return false; }
-            if ( style.getPropertyValue('color') !== 'red' ) { return false; }
-            this.stylesheet.deleteRule(0);
-        } catch (ex) {
-            return false;
+    cssSelectorType(s) {
+        if ( this.reSimpleSelector.test(s) ) { return 1; }
+        const pos = this.cssPseudoElement(s);
+        if ( pos !== -1 ) {
+            return this.cssSelectorType(s.slice(0, pos)) === 1 ? 3 : 0;
         }
-        return true;
+        try {
+            this.div.matches(`${s}, ${s}:not(#foo)`);
+        } catch (ex) {
+            return 0;
+        }
+        return 1;
     }
 
-    // https://github.com/uBlockOrigin/uBlock-issues/issues/1806
-    //   Forbid instances of:
-    //   - opening comment `/*`
-    querySelectable(s) {
-        if ( this.reSimpleSelector.test(s) ) { return true; }
-        if ( this.div === null ) { return true; }
-        try {
-            this.div.querySelector(`${s},${s}:not(#foo)`);
-            if ( s.includes('/*') ) { return false; }
-        } catch (ex) {
-            return false;
-        }
-        return true;
+    cssPseudoElement(s) {
+        if ( s.lastIndexOf(':') === -1 ) { return -1; }
+        const match = this.rePseudoElement.exec(s);
+        return match !== null ? match.index : -1;
     }
 
     compileProceduralSelector(raw) {
@@ -1552,6 +1491,15 @@ Parser.prototype.SelectorCompiler = class {
         return { name: name, value: regexDetails };
     }
 
+    // https://github.com/AdguardTeam/ExtendedCss/issues/31#issuecomment-302391277
+    //   Prepend `:scope ` if needed.
+    compileConditionalSelector(s) {
+        if ( this.reNeedScope.test(s) ) {
+            s = `:scope ${s}`;
+        }
+        return this.compileProcedural(s);
+    }
+
     compileInteger(s, min = 0, max = 0x7FFFFFFF) {
         if ( /^\d+$/.test(s) === false ) { return; }
         const n = parseInt(s, 10);
@@ -1561,56 +1509,39 @@ Parser.prototype.SelectorCompiler = class {
 
     // https://github.com/uBlockOrigin/uBlock-issues/issues/341#issuecomment-447603588
     //   Reject instances of :not() filters for which the argument is
-    //   a valid CSS selector, otherwise we would be adversely changing the
-    //   behavior of CSS4's :not().
+    //   a valid CSS selector, otherwise we would be adversely
+    //   changing the behavior of CSS4's :not().
     compileNotSelector(s) {
-        if ( this.querySelectable(s) === false ) {
-            return this.compileProcedural(s);
+        if ( this.cssSelectorType(s) === 0 ) {
+            return this.compileConditionalSelector(s);
         }
     }
 
     compileUpwardArgument(s) {
         const i = this.compileInteger(s, 1, 256);
         if ( i !== undefined ) { return i; }
-        if ( this.querySelectable(s) ) { return s; }
+        if ( this.cssSelectorType(s) === 1 ) { return s; }
     }
 
-    compileNoArgument(s) {
+    compileRemoveSelector(s) {
         if ( s === '' ) { return s; }
     }
 
     // https://github.com/uBlockOrigin/uBlock-issues/issues/382#issuecomment-703725346
-    //   Prepend `:scope` only when it can be deemed implicit.
+    //   Prepend `*` only when it can be deemed implicit.
     compileSpathExpression(s) {
-        if ( this.querySelectable(/^\s*[+:>~]/.test(s) ? `:scope${s}` : s) ) {
+        if ( this.cssSelectorType(/^\s*[+:>~]/.test(s) ? '*' + s : s) === 1 ) {
             return s;
         }
     }
 
     // https://github.com/uBlockOrigin/uBlock-issues/issues/668
-    // https://github.com/uBlockOrigin/uBlock-issues/issues/1693
-    // https://github.com/uBlockOrigin/uBlock-issues/issues/1811
-    //   Forbid instances of:
-    //   - `image-set(`
-    //   - `url(`
-    //   - any instance of `//`
-    //   - backslashes `\`
-    //   - opening comment `/*`
     compileStyleProperties(s) {
-        if ( /image-set\(|url\(|\/\s*\/|\\|\/\*/i.test(s) ) { return; }
-        if ( this.stylesheet === null ) { return s; }
-        let valid = false;
-        try {
-            this.stylesheet.insertRule(`a{${s}}`);
-            const rules = this.stylesheet.cssRules;
-            valid = rules.length !== 0 && rules[0].style.cssText !== '';
-        } catch(ex) {
-            return;
-        }
-        if ( this.stylesheet.cssRules.length !== 0 ) {
-            this.stylesheet.deleteRule(0);
-        }
-        if ( valid ) { return s; }
+        if ( /url\(|\\/i.test(s) ) { return; }
+        this.div.style.cssText = s;
+        if ( this.div.style.cssText === '' ) { return; }
+        this.div.style.cssText = '';
+        return s;
     }
 
     compileAttrList(s) {
@@ -1651,7 +1582,6 @@ Parser.prototype.SelectorCompiler = class {
                 raw.push(`:has(${this.decompileProcedural(task[1])})`);
                 break;
             case ':has-text':
-            case ':matches-path':
                 if ( Array.isArray(task[1]) ) {
                     value = `/${task[1][0]}/${task[1][1]}`;
                 } else {
@@ -1660,7 +1590,7 @@ Parser.prototype.SelectorCompiler = class {
                         value = `/${task[1]}/`;
                     }
                 }
-                raw.push(`${task[0]}(${value})`);
+                raw.push(`:has-text(${value})`);
                 break;
             case ':matches-css':
             case ':matches-css-after':
@@ -1683,7 +1613,6 @@ Parser.prototype.SelectorCompiler = class {
                 raw.push(task[1]);
                 break;
             case ':min-text-length':
-            case ':others':
             case ':upward':
             case ':watch-attr':
             case ':xpath':
@@ -1745,7 +1674,9 @@ Parser.prototype.SelectorCompiler = class {
             // https://github.com/uBlockOrigin/uBlock-issues/issues/341#issuecomment-447603588
             //   Maybe that one operator is a valid CSS selector and if so,
             //   then consider it to be part of the prefix.
-            if ( this.querySelectable(raw.slice(opNameBeg, i)) ) { continue; }
+            if ( this.cssSelectorType(raw.slice(opNameBeg, i)) === 1 ) {
+                continue;
+            }
             // Extract and remember operator details.
             let operator = raw.slice(opNameBeg, opNameEnd);
             operator = this.normalizedOperators.get(operator) || operator;
@@ -1781,18 +1712,8 @@ Parser.prototype.SelectorCompiler = class {
 
         // No task found: then we have a CSS selector.
         // At least one task found: nothing should be left to parse.
-        if ( tasks.length === 0 ) {
-            if ( action === undefined ) {
-                prefix = raw;
-            }
-            if ( root && this.sheetSelectable(prefix) ) {
-                if ( action === undefined ) {
-                    return { selector: prefix };
-                } else if ( action[0] === ':style' ) {
-                    return { selector: prefix, action };
-                }
-            }
-
+        if ( tasks.length === 0 && action === undefined ) {
+            prefix = raw;
         } else if ( opPrefixBeg < n ) {
             if ( action !== undefined ) { return; }
             const spath = this.compileSpathExpression(raw.slice(opPrefixBeg));
@@ -1804,18 +1725,14 @@ Parser.prototype.SelectorCompiler = class {
         // https://www.reddit.com/r/uBlockOrigin/comments/c6iem5/
         //   Convert sibling-selector prefix into :spath operator, but
         //   only if context is not the root.
-        // https://github.com/uBlockOrigin/uBlock-issues/issues/1011#issuecomment-884806241
-        //   Drop explicit `:scope` in case of leading combinator, all such
-        //   cases are normalized to implicit `:scope`.
         if ( prefix !== '' ) {
             if ( this.reIsDanglingSelector.test(prefix) && tasks.length !== 0 ) {
                 prefix += ' *';
             }
-            prefix = prefix.replace(this.reDropScope, '');
-            if ( this.querySelectable(prefix) === false ) {
+            if ( this.cssSelectorType(prefix) === 0 ) {
                 if (
                     root ||
-                    this.reIsCombinator.test(prefix) === false ||
+                    this.reIsSiblingSelector.test(prefix) === false ||
                     this.compileSpathExpression(prefix) === undefined
                 ) {
                     return;
@@ -1836,35 +1753,42 @@ Parser.prototype.SelectorCompiler = class {
             out.action = action;
         }
 
+        // Pseudo elements are valid only when used in a root task list AND
+        // only when there are no procedural operators: pseudo elements can't
+        // be querySelectorAll-ed.
+        if ( prefix !== '' ) {
+            const pos = this.cssPseudoElement(prefix);
+            if ( pos !== -1 ) {
+                if ( root === false || tasks.length !== 0 ) { return; }
+                out.pseudo = pos;
+            }
+        }
+
         return out;
     }
 
     compileArgument(operator, args) {
         switch ( operator ) {
         case ':has':
-            return this.compileProcedural(args);
+            return this.compileConditionalSelector(args);
         case ':has-text':
             return this.compileText(args);
         case ':if':
-            return this.compileProcedural(args);
+            return this.compileConditionalSelector(args);
         case ':if-not':
-            return this.compileProcedural(args);
+            return this.compileConditionalSelector(args);
         case ':matches-css':
             return this.compileCSSDeclaration(args);
         case ':matches-css-after':
             return this.compileCSSDeclaration(args);
         case ':matches-css-before':
             return this.compileCSSDeclaration(args);
-        case ':matches-path':
-            return this.compileText(args);
         case ':min-text-length':
             return this.compileInteger(args);
         case ':not':
             return this.compileNotSelector(args);
-        case ':others':
-            return this.compileNoArgument(args);
         case ':remove':
-            return this.compileNoArgument(args);
+            return this.compileRemoveSelector(args);
         case ':spath':
             return this.compileSpathExpression(args);
         case ':style':
@@ -1881,9 +1805,6 @@ Parser.prototype.SelectorCompiler = class {
     }
 };
 
-// bit 0: can be used as auto-completion hint
-// bit 1: can not be used in HTML filtering
-//
 Parser.prototype.proceduralOperatorTokens = new Map([
     [ '-abp-contains', 0b00 ],
     [ '-abp-has', 0b00, ],
@@ -1895,11 +1816,9 @@ Parser.prototype.proceduralOperatorTokens = new Map([
     [ 'matches-css', 0b11 ],
     [ 'matches-css-after', 0b11 ],
     [ 'matches-css-before', 0b11 ],
-    [ 'matches-path', 0b01 ],
     [ 'min-text-length', 0b01 ],
     [ 'not', 0b01 ],
     [ 'nth-ancestor', 0b00 ],
-    [ 'others', 0b01 ],
     [ 'remove', 0b11 ],
     [ 'style', 0b11 ],
     [ 'upward', 0b01 ],
@@ -1948,9 +1867,9 @@ const BITUnderscore     = 1 << 22;
 const BITBrace          = 1 << 23;
 const BITPipe           = 1 << 24;
 const BITTilde          = 1 << 25;
-const BITOpening        = 1 << 26;
-const BITClosing        = 1 << 27;
-const BITUnicode        = 1 << 28;
+const BITOpening        = 1 << 27;
+const BITClosing        = 1 << 28;
+const BITUnicode        = 1 << 29;
 // TODO: separate from character bits into a new slice slot.
 const BITIgnore         = 1 << 30;
 const BITError          = 1 << 31;
@@ -2129,7 +2048,7 @@ const OPTTokenPopunder           = 31;
 const OPTTokenPopup              = 32;
 const OPTTokenRedirect           = 33;
 const OPTTokenRedirectRule       = 34;
-const OPTTokenRemoveparam        = 35;
+const OPTTokenQueryprune         = 35;
 const OPTTokenScript             = 36;
 const OPTTokenShide              = 37;
 const OPTTokenXhr                = 38;
@@ -2229,7 +2148,7 @@ Parser.prototype.OPTTokenOther = OPTTokenOther;
 Parser.prototype.OPTTokenPing = OPTTokenPing;
 Parser.prototype.OPTTokenPopunder = OPTTokenPopunder;
 Parser.prototype.OPTTokenPopup = OPTTokenPopup;
-Parser.prototype.OPTTokenRemoveparam = OPTTokenRemoveparam;
+Parser.prototype.OPTTokenQueryprune = OPTTokenQueryprune;
 Parser.prototype.OPTTokenRedirect = OPTTokenRedirect;
 Parser.prototype.OPTTokenRedirectRule = OPTTokenRedirectRule;
 Parser.prototype.OPTTokenScript = OPTTokenScript;
@@ -2254,30 +2173,30 @@ Parser.prototype.OPTNotSupported = OPTNotSupported;
 
 const netOptionTokenDescriptors = new Map([
     [ '1p', OPTToken1p | OPTCanNegate ],
-    /* synonym */ [ 'first-party', OPTToken1p | OPTCanNegate ],
+        [ 'first-party', OPTToken1p | OPTCanNegate ],
     [ 'strict1p', OPTToken1pStrict ],
     [ '3p', OPTToken3p | OPTCanNegate ],
-    /* synonym */ [ 'third-party', OPTToken3p | OPTCanNegate ],
+        [ 'third-party', OPTToken3p | OPTCanNegate ],
     [ 'strict3p', OPTToken3pStrict ],
     [ 'all', OPTTokenAll | OPTNetworkType | OPTNonCspableType ],
     [ 'badfilter', OPTTokenBadfilter ],
     [ 'cname', OPTTokenCname | OPTAllowOnly | OPTModifierType ],
     [ 'csp', OPTTokenCsp | OPTMustAssign | OPTAllowMayAssign | OPTModifierType ],
     [ 'css', OPTTokenCss | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
-    /* synonym */ [ 'stylesheet', OPTTokenCss | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
+        [ 'stylesheet', OPTTokenCss | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
     [ 'denyallow', OPTTokenDenyAllow | OPTMustAssign | OPTDomainList | OPTNeedDomainOpt | OPTNonCspableType ],
     [ 'doc', OPTTokenDoc | OPTNetworkType | OPTCanNegate | OPTModifiableType | OPTRedirectableType ],
-    /* synonym */ [ 'document', OPTTokenDoc | OPTNetworkType | OPTCanNegate | OPTModifiableType | OPTRedirectableType ],
+        [ 'document', OPTTokenDoc | OPTNetworkType | OPTCanNegate | OPTModifiableType | OPTRedirectableType ],
     [ 'domain', OPTTokenDomain | OPTMustAssign | OPTDomainList ],
     [ 'ehide', OPTTokenEhide | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
-    /* synonym */ [ 'elemhide', OPTTokenEhide | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
+        [ 'elemhide', OPTTokenEhide | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
     [ 'empty', OPTTokenEmpty | OPTBlockOnly | OPTModifierType ],
     [ 'frame', OPTTokenFrame | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType ],
-    /* synonym */ [ 'subdocument', OPTTokenFrame | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType ],
+        [ 'subdocument', OPTTokenFrame | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType ],
     [ 'font', OPTTokenFont | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTNonCspableType ],
     [ 'genericblock', OPTTokenGenericblock | OPTNotSupported ],
     [ 'ghide', OPTTokenGhide | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
-    /* synonym */ [ 'generichide', OPTTokenGhide | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
+        [ 'generichide', OPTTokenGhide | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
     [ 'header', OPTTokenHeader | OPTMustAssign | OPTAllowMayAssign | OPTNonCspableType | OPTNonRedirectableType ],
     [ 'image', OPTTokenImage | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
     [ 'important', OPTTokenImportant | OPTBlockOnly ],
@@ -2288,22 +2207,22 @@ const netOptionTokenDescriptors = new Map([
     [ 'mp4', OPTTokenMp4 | OPTNetworkType | OPTBlockOnly |  OPTModifierType ],
     [ '_', OPTTokenNoop ],
     [ 'object', OPTTokenObject | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
-    /* synonym */ [ 'object-subrequest', OPTTokenObject | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
+        [ 'object-subrequest', OPTTokenObject | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
     [ 'other', OPTTokenOther | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
     [ 'ping', OPTTokenPing | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTNonCspableType | OPTNonRedirectableType ],
-    /* synonym */ [ 'beacon', OPTTokenPing | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTNonCspableType | OPTNonRedirectableType ],
+        [ 'beacon', OPTTokenPing | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTNonCspableType | OPTNonRedirectableType ],
     [ 'popunder', OPTTokenPopunder | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
     [ 'popup', OPTTokenPopup | OPTNonNetworkType | OPTCanNegate | OPTNonCspableType | OPTNonRedirectableType ],
+    [ 'queryprune', OPTTokenQueryprune | OPTMayAssign | OPTModifierType | OPTNonCspableType | OPTNonRedirectableType ],
+        [ 'removeparam', OPTTokenQueryprune | OPTMayAssign | OPTModifierType | OPTNonCspableType | OPTNonRedirectableType ],
     [ 'redirect', OPTTokenRedirect | OPTMustAssign | OPTAllowMayAssign | OPTModifierType ],
-    /* synonym */ [ 'rewrite', OPTTokenRedirect | OPTMustAssign | OPTAllowMayAssign | OPTModifierType ],
+        [ 'rewrite', OPTTokenRedirect | OPTMustAssign | OPTAllowMayAssign | OPTModifierType ],
     [ 'redirect-rule', OPTTokenRedirectRule | OPTMustAssign | OPTAllowMayAssign | OPTModifierType | OPTNonCspableType ],
-    [ 'removeparam', OPTTokenRemoveparam | OPTMayAssign | OPTModifierType | OPTNonCspableType | OPTNonRedirectableType ],
-    /* synonym */ [ 'queryprune', OPTTokenRemoveparam | OPTMayAssign | OPTModifierType | OPTNonCspableType | OPTNonRedirectableType ],
     [ 'script', OPTTokenScript | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
     [ 'shide', OPTTokenShide | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
-    /* synonym */ [ 'specifichide', OPTTokenShide | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
+        [ 'specifichide', OPTTokenShide | OPTNonNetworkType | OPTNonCspableType | OPTNonRedirectableType ],
     [ 'xhr', OPTTokenXhr | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
-    /* synonym */ [ 'xmlhttprequest', OPTTokenXhr | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
+        [ 'xmlhttprequest', OPTTokenXhr | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTRedirectableType | OPTNonCspableType ],
     [ 'webrtc', OPTTokenWebrtc | OPTNotSupported ],
     [ 'websocket', OPTTokenWebsocket | OPTCanNegate | OPTNetworkType | OPTModifiableType | OPTNonCspableType | OPTNonRedirectableType ],
 ]);
@@ -2313,30 +2232,30 @@ Parser.prototype.netOptionTokenDescriptors =
 
 Parser.netOptionTokenIds = new Map([
     [ '1p', OPTToken1p ],
-    /* synonym */ [ 'first-party', OPTToken1p ],
+        [ 'first-party', OPTToken1p ],
     [ 'strict1p', OPTToken1pStrict ],
     [ '3p', OPTToken3p ],
-    /* synonym */ [ 'third-party', OPTToken3p ],
+        [ 'third-party', OPTToken3p ],
     [ 'strict3p', OPTToken3pStrict ],
     [ 'all', OPTTokenAll ],
     [ 'badfilter', OPTTokenBadfilter ],
     [ 'cname', OPTTokenCname ],
     [ 'csp', OPTTokenCsp ],
     [ 'css', OPTTokenCss ],
-    /* synonym */ [ 'stylesheet', OPTTokenCss ],
+        [ 'stylesheet', OPTTokenCss ],
     [ 'denyallow', OPTTokenDenyAllow ],
     [ 'doc', OPTTokenDoc ],
-    /* synonym */ [ 'document', OPTTokenDoc ],
+        [ 'document', OPTTokenDoc ],
     [ 'domain', OPTTokenDomain ],
     [ 'ehide', OPTTokenEhide ],
-    /* synonym */ [ 'elemhide', OPTTokenEhide ],
+        [ 'elemhide', OPTTokenEhide ],
     [ 'empty', OPTTokenEmpty ],
     [ 'frame', OPTTokenFrame ],
-    /* synonym */ [ 'subdocument', OPTTokenFrame ],
+        [ 'subdocument', OPTTokenFrame ],
     [ 'font', OPTTokenFont ],
     [ 'genericblock', OPTTokenGenericblock ],
     [ 'ghide', OPTTokenGhide ],
-    /* synonym */ [ 'generichide', OPTTokenGhide ],
+        [ 'generichide', OPTTokenGhide ],
     [ 'header', OPTTokenHeader ],
     [ 'image', OPTTokenImage ],
     [ 'important', OPTTokenImportant ],
@@ -2347,22 +2266,22 @@ Parser.netOptionTokenIds = new Map([
     [ 'mp4', OPTTokenMp4 ],
     [ '_', OPTTokenNoop ],
     [ 'object', OPTTokenObject ],
-    /* synonym */ [ 'object-subrequest', OPTTokenObject ],
+        [ 'object-subrequest', OPTTokenObject ],
     [ 'other', OPTTokenOther ],
     [ 'ping', OPTTokenPing ],
-    /* synonym */ [ 'beacon', OPTTokenPing ],
+        [ 'beacon', OPTTokenPing ],
     [ 'popunder', OPTTokenPopunder ],
     [ 'popup', OPTTokenPopup ],
+    [ 'queryprune', OPTTokenQueryprune ],
+        [ 'removeparam', OPTTokenQueryprune ],
     [ 'redirect', OPTTokenRedirect ],
-    /* synonym */ [ 'rewrite', OPTTokenRedirect ],
+        [ 'rewrite', OPTTokenRedirect ],
     [ 'redirect-rule', OPTTokenRedirectRule ],
-    [ 'removeparam', OPTTokenRemoveparam ],
-    /* synonym */ [ 'queryprune', OPTTokenRemoveparam ],
     [ 'script', OPTTokenScript ],
     [ 'shide', OPTTokenShide ],
-    /* synonym */ [ 'specifichide', OPTTokenShide ],
+        [ 'specifichide', OPTTokenShide ],
     [ 'xhr', OPTTokenXhr ],
-    /* synonym */ [ 'xmlhttprequest', OPTTokenXhr ],
+        [ 'xmlhttprequest', OPTTokenXhr ],
     [ 'webrtc', OPTTokenWebrtc ],
     [ 'websocket', OPTTokenWebsocket ],
 ]);
@@ -2400,7 +2319,7 @@ Parser.netOptionTokenNames = new Map([
     [ OPTTokenPing, 'ping' ],
     [ OPTTokenPopunder, 'popunder' ],
     [ OPTTokenPopup, 'popup' ],
-    [ OPTTokenRemoveparam, 'removeparam' ],
+    [ OPTTokenQueryprune, 'removeparam' ],
     [ OPTTokenRedirect, 'redirect' ],
     [ OPTTokenRedirectRule, 'redirect-rule' ],
     [ OPTTokenScript, 'script' ],
@@ -2422,9 +2341,6 @@ const Span = class {
 };
 
 /******************************************************************************/
-
-// https://github.com/uBlockOrigin/uBlock-issues/issues/760#issuecomment-951146371
-//   Quick fix: auto-escape commas.
 
 const NetOptionsIterator = class {
     constructor(parser) {
@@ -2493,14 +2409,13 @@ const NetOptionsIterator = class {
                 if ( hasBits(bits, BITComma) ) {
                     if ( this.interactive && (i === lopt || slices[i+2] > 1) ) {
                         slices[i] |= BITError;
-                    } else if ( /^,\d*?\}/.test(this.parser.raw.slice(slices[i+1])) === false ) {
-                        break;
                     }
+                    break;
                 }
                 if ( lval === 0 && hasBits(bits, BITEqual) ) { lval = i; }
                 i += 3;
             }
-            // Check for proper assignment
+            // Check for proper assignement
             let assigned = false;
             if ( good && lval !== 0 ) {
                 good = assigned = slices[lval+2] === 1 && lval + 3 !== i;
@@ -2512,7 +2427,22 @@ const NetOptionsIterator = class {
                 descriptor = netOptionTokenDescriptors.get(token);
             }
             // Validate option according to context
-            if ( !this.optionIsValidInContext(descriptor, ltok !== lopt, assigned) ) {
+            if (
+                descriptor === undefined ||
+                ltok !== lopt &&
+                    hasNoBits(descriptor, OPTCanNegate) ||
+                this.exception &&
+                    hasBits(descriptor, OPTBlockOnly) ||
+                this.exception === false &&
+                    hasBits(descriptor, OPTAllowOnly) ||
+                assigned &&
+                    hasNoBits(descriptor, OPTMayAssign | OPTMustAssign) ||
+                assigned === false &&
+                    hasBits(descriptor, OPTMustAssign) && (
+                        this.exception === false ||
+                        hasNoBits(descriptor, OPTAllowMayAssign)
+                    )
+            ) {
                 descriptor = OPTTokenInvalid;
             }
             // Keep track of which options are present: any given option can
@@ -2619,9 +2549,9 @@ const NetOptionsIterator = class {
                 }
             }
         }
-        // `removeparam=`:  only for network requests.
+        // `queryprune=`:  only for network requests.
         {
-            const i = this.tokenPos[OPTTokenRemoveparam];
+            const i = this.tokenPos[OPTTokenQueryprune];
             if ( i !== -1 ) {
                 if ( hasBits(allBits, OPTNonNetworkType) ) {
                     optSlices[i] = OPTTokenInvalid;
@@ -2724,30 +2654,6 @@ const NetOptionsIterator = class {
         }
         this.readPtr = i + 6;
         return this;
-    }
-
-    optionIsValidInContext(descriptor, negated, assigned) {
-        if ( descriptor === undefined ) {
-            return false;
-        }
-        if ( negated && hasNoBits(descriptor, OPTCanNegate) )  {
-            return false;
-        }
-        if ( this.exception && hasBits(descriptor, OPTBlockOnly) ) {
-            return false;
-        }
-        if ( this.exception === false && hasBits(descriptor, OPTAllowOnly) ) {
-            return false;
-        }
-        if ( assigned && hasNoBits(descriptor, OPTMayAssign | OPTMustAssign) ) {
-            return false;
-        }
-        if ( assigned === false && hasBits(descriptor, OPTMustAssign) ) {
-            if ( this.exception === false || hasNoBits(descriptor, OPTAllowMayAssign) ) {
-                return false;
-            }
-        }
-        return true;
     }
 };
 
@@ -2890,85 +2796,86 @@ Parser.regexUtils = Parser.prototype.regexUtils = (( ) => {
 
     const toTokenizableStr = node => {
         switch ( node.type ) {
-        case 1: /* T_SEQUENCE, 'Sequence' */ {
-            let s = '';
-            for ( let i = 0; i < node.val.length; i++ ) {
-                s += toTokenizableStr(node.val[i]);
-            }
-            return s;
-        }
-        case 2: /* T_ALTERNATION, 'Alternation' */
-        case 8: /* T_CHARGROUP, 'CharacterGroup' */ {
-            let firstChar = 0;
-            let lastChar = 0;
-            for ( let i = 0; i < node.val.length; i++ ) {
-                const s = toTokenizableStr(node.val[i]);
-                if ( firstChar === 0 && firstCharCodeClass(s) === 1 ) {
-                    firstChar = 1;
+            case 1: /* T_SEQUENCE, 'Sequence' */ {
+                let s = '';
+                for ( let i = 0; i < node.val.length; i++ ) {
+                    s += toTokenizableStr(node.val[i]);
                 }
-                if ( lastChar === 0 && lastCharCodeClass(s) === 1 ) {
-                    lastChar = 1;
-                }
-                if ( firstChar === 1 && lastChar === 1 ) { break; }
+                return s;
             }
-            return String.fromCharCode(firstChar, lastChar);
-        }
-        case 4: /* T_GROUP, 'Group' */ {
-            if ( node.flags.NegativeLookAhead === 1 ) { return '\x01'; }
-            if ( node.flags.NegativeLookBehind === 1 ) { return '\x01'; }
-            return toTokenizableStr(node.val);
-        }
-        case 16: /* T_QUANTIFIER, 'Quantifier' */ {
-            const s = toTokenizableStr(node.val);
-            const first = firstCharCodeClass(s);
-            const last = lastCharCodeClass(s);
-            if ( node.flags.min === 0 && first === 0 && last === 0 ) {
+            case 2: /* T_ALTERNATION, 'Alternation' */
+            case 8: /* T_CHARGROUP, 'CharacterGroup' */ {
+                let firstChar = 0;
+                let lastChar = 0;
+                for ( let i = 0; i < node.val.length; i++ ) {
+                    const s = toTokenizableStr(node.val[i]);
+                    if ( firstChar === 0 && firstCharCodeClass(s) === 1 ) {
+                        firstChar = 1;
+                    }
+                    if ( lastChar === 0 && lastCharCodeClass(s) === 1 ) {
+                        lastChar = 1;
+                    }
+                    if ( firstChar === 1 && lastChar === 1 ) { break; }
+                }
+                return String.fromCharCode(firstChar, lastChar);
+            }
+            case 4: /* T_GROUP, 'Group' */ {
+                if ( node.flags.NegativeLookAhead === 1 ) { return '\x01'; }
+                if ( node.flags.NegativeLookBehind === 1 ) { return '\x01'; }
+                return toTokenizableStr(node.val);
+            }
+            case 16: /* T_QUANTIFIER, 'Quantifier' */ {
+                const s = toTokenizableStr(node.val);
+                const first = firstCharCodeClass(s);
+                const last = lastCharCodeClass(s);
+                if ( node.flags.min === 0 && first === 0 && last === 0 ) {
+                    return '';
+                }
+                return String.fromCharCode(first, last);
+            }
+            case 64: /* T_HEXCHAR, 'HexChar' */ {
+                return String.fromCharCode(parseInt(node.val.slice(1), 16));
+            }
+            case 128: /* T_SPECIAL, 'Special' */ {
+                const flags = node.flags;
+                if (
+                    flags.EndCharGroup === 1 || // dangling `]`
+                    flags.EndGroup === 1 ||     // dangling `)`
+                    flags.EndRepeats === 1      // dangling `}`
+                ) {
+                    throw new Error('Unmatched bracket');
+                }
+                return flags.MatchEnd === 1 ||
+                       flags.MatchStart === 1 ||
+                       flags.MatchWordBoundary === 1
+                    ? '\x00'
+                    : '\x01';
+            }
+            case 256: /* T_CHARS, 'Characters' */ {
+                for ( let i = 0; i < node.val.length; i++ ) {
+                    if ( firstCharCodeClass(node.val[i]) === 1 ) {
+                        return '\x01';
+                    }
+                }
+                return '\x00';
+            }
+            // Ranges are assumed to always involve token-related characters.
+            case 512: /* T_CHARRANGE, 'CharacterRange' */ {
+                return '\x01';
+            }
+            case 1024: /* T_STRING, 'String' */ {
+                return node.val;
+            }
+            case 2048: /* T_COMMENT, 'Comment' */ {
                 return '';
             }
-            return String.fromCharCode(first, last);
-        }
-        case 64: /* T_HEXCHAR, 'HexChar' */ {
-            return String.fromCharCode(parseInt(node.val.slice(1), 16));
-        }
-        case 128: /* T_SPECIAL, 'Special' */ {
-            const flags = node.flags;
-            if (
-                flags.EndCharGroup === 1 || // dangling `]`
-                flags.EndGroup === 1 ||     // dangling `)`
-                flags.EndRepeats === 1      // dangling `}`
-            ) {
-                throw new Error('Unmatched bracket');
-            }
-            return flags.MatchEnd === 1 ||
-                   flags.MatchStart === 1 ||
-                   flags.MatchWordBoundary === 1
-                ? '\x00'
-                : '\x01';
-        }
-        case 256: /* T_CHARS, 'Characters' */ {
-            for ( let i = 0; i < node.val.length; i++ ) {
-                if ( firstCharCodeClass(node.val[i]) === 1 ) {
-                    return '\x01';
-                }
-            }
-            return '\x00';
-        }
-        // Ranges are assumed to always involve token-related characters.
-        case 512: /* T_CHARRANGE, 'CharacterRange' */ {
-            return '\x01';
-        }
-        case 1024: /* T_STRING, 'String' */ {
-            return node.val;
-        }
-        case 2048: /* T_COMMENT, 'Comment' */ {
-            return '';
-        }
-        default:
-            break;
+            default:
+                break;
         }
         return '\x01';
     };
 
+    const Regex = self.Regex;
     if (
         Regex instanceof Object === false ||
         Regex.Analyzer instanceof Object === false
@@ -3008,6 +2915,13 @@ Parser.regexUtils = Parser.prototype.regexUtils = (( ) => {
 
 /******************************************************************************/
 
-const StaticFilteringParser = Parser;
+if ( typeof vAPI === 'object' && vAPI !== null ) {
+    vAPI.StaticFilteringParser = Parser;
+} else {
+    self.StaticFilteringParser = Parser;
+}
 
-export { StaticFilteringParser };
+/******************************************************************************/
+
+// <<<<< end of local scope
+}

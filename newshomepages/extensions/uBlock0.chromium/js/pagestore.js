@@ -21,28 +21,6 @@
 
 'use strict';
 
-/******************************************************************************/
-
-import contextMenu from './contextmenu.js';
-import logger from './logger.js';
-import staticNetFilteringEngine from './static-net-filtering.js';
-import µb from './background.js';
-import webext from './webext.js';
-import { orphanizeString } from './text-utils.js';
-import { redirectEngine } from './redirect-engine.js';
-
-import {
-    sessionFirewall,
-    sessionSwitches,
-    sessionURLFiltering,
-} from './filtering-engines.js';
-
-import {
-    domainFromHostname,
-    hostnameFromURI,
-    isNetworkURI,
-} from './uri-utils.js';
-
 /*******************************************************************************
 
 A PageRequestStore object is used to store net requests in two ways:
@@ -51,6 +29,15 @@ To record distinct net requests
 To create a log of net requests
 
 **/
+
+{
+
+// start of private namespace
+// >>>>>
+
+/******************************************************************************/
+
+const µb = µBlock;
 
 /******************************************************************************/
 
@@ -201,13 +188,10 @@ const FrameStore = class {
         this.clickToLoad = false;
         this.rawURL = frameURL;
         if ( frameURL !== undefined ) {
-            this.hostname = hostnameFromURI(frameURL);
-            this.domain = domainFromHostname(this.hostname) || this.hostname;
+            this.hostname = vAPI.hostnameFromURI(frameURL);
+            this.domain =
+                vAPI.domainFromHostname(this.hostname) || this.hostname;
         }
-        // Evaluated on-demand
-        // - 0b01: specific cosmetic filtering
-        // - 0b10: generic cosmetic filtering
-        this._cosmeticFilteringBits = undefined;
         return this;
     }
 
@@ -217,70 +201,6 @@ const FrameStore = class {
             FrameStore.junkyard.push(this);
         }
         return null;
-    }
-
-    updateURL(url) {
-        if ( typeof url !== 'string' ) { return; }
-        this.rawURL = url;
-        this.hostname = hostnameFromURI(url);
-        this.domain = domainFromHostname(this.hostname) || this.hostname;
-        this._cosmeticFilteringBits = undefined;
-    }
-
-    getCosmeticFilteringBits(tabId) {
-        if ( this._cosmeticFilteringBits !== undefined ) {
-            return this._cosmeticFilteringBits;
-        }
-        this._cosmeticFilteringBits = 0b11;
-        {
-            const result = staticNetFilteringEngine.matchRequestReverse(
-                'specifichide',
-                this.rawURL
-            );
-            if ( result !== 0 && logger.enabled ) {
-                µb.filteringContext
-                    .duplicate()
-                    .fromTabId(tabId)
-                    .setURL(this.rawURL)
-                    .setDocOriginFromURL(this.rawURL)
-                    .setRealm('network')
-                    .setType('specifichide')
-                    .setFilter(staticNetFilteringEngine.toLogData())
-                    .toLogger();
-            }
-            if ( result === 2 ) {
-                this._cosmeticFilteringBits &= ~0b01;
-            }
-        }
-        {
-            const result = staticNetFilteringEngine.matchRequestReverse(
-                'generichide',
-                this.rawURL
-            );
-            if ( result !== 0 && logger.enabled ) {
-                µb.filteringContext
-                    .duplicate()
-                    .fromTabId(tabId)
-                    .setURL(this.rawURL)
-                    .setDocOriginFromURL(this.rawURL)
-                    .setRealm('network')
-                    .setType('generichide')
-                    .setFilter(staticNetFilteringEngine.toLogData())
-                    .toLogger();
-            }
-            if ( result === 2 ) {
-                this._cosmeticFilteringBits &= ~0b10;
-            }
-        }
-        return this._cosmeticFilteringBits;
-    }
-
-    shouldApplySpecificCosmeticFilters(tabId) {
-        return (this.getCosmeticFilteringBits(tabId) & 0b01) !== 0;
-    }
-
-    shouldApplyGenericCosmeticFilters(tabId) {
-        return (this.getCosmeticFilteringBits(tabId) & 0b10) !== 0;
     }
 
     static factory(frameURL, parentId = -1) {
@@ -350,7 +270,7 @@ const HostnameDetailsMap = class extends Map {
 /******************************************************************************/
 
 const PageStore = class {
-    constructor(tabId, details) {
+    constructor(tabId, context) {
         this.extraData = new Map();
         this.journal = [];
         this.journalTimer = undefined;
@@ -359,15 +279,15 @@ const PageStore = class {
         this.netFilteringCache = NetFilteringResultCache.factory();
         this.hostnameDetailsMap = new HostnameDetailsMap();
         this.counts = new CountDetails();
-        this.init(tabId, details);
+        this.init(tabId, context);
     }
 
-    static factory(tabId, details) {
+    static factory(tabId, context) {
         let entry = PageStore.junkyard.pop();
         if ( entry === undefined ) {
-            entry = new PageStore(tabId, details);
+            entry = new PageStore(tabId, context);
         } else {
-            entry.init(tabId, details);
+            entry.init(tabId, context);
         }
         return entry;
     }
@@ -376,7 +296,7 @@ const PageStore = class {
     //   The context is used to determine whether we report behavior change
     //   to the logger.
 
-    init(tabId, details) {
+    init(tabId, context) {
         const tabContext = µb.tabContextManager.mustLookup(tabId);
         this.tabId = tabId;
 
@@ -390,6 +310,7 @@ const PageStore = class {
         }
 
         this.tabHostname = tabContext.rootHostname;
+        this.title = tabContext.rawURL;
         this.rawURL = tabContext.rawURL;
         this.hostnameDetailsMap.reset();
         this.contentLastModified = 0;
@@ -406,17 +327,33 @@ const PageStore = class {
         this.frames = new Map();
         this.setFrameURL({ url: tabContext.rawURL });
 
-        if ( this.titleFromDetails(details) === false ) {
-            this.title = tabContext.rawURL;
-        }
+        // https://github.com/uBlockOrigin/uBlock-issues/issues/314
+        const masterSwitch = tabContext.getNetFilteringSwitch();
 
-        // Evaluated on-demand
-        this._noCosmeticFiltering = undefined;
+        this.noCosmeticFiltering = µb.sessionSwitches.evaluateZ(
+            'no-cosmetic-filtering',
+            tabContext.rootHostname
+        ) === true;
+        if (
+            masterSwitch &&
+            this.noCosmeticFiltering &&
+            µb.logger.enabled &&
+            context === 'tabCommitted'
+        ) {
+            µb.filteringContext
+                .duplicate()
+                .fromTabId(tabId)
+                .setURL(tabContext.rawURL)
+                .setRealm('cosmetic')
+                .setType('dom')
+                .setFilter(µb.sessionSwitches.toLogData())
+                .toLogger();
+        }
 
         return this;
     }
 
-    reuse(context, details) {
+    reuse(context) {
         // When force refreshing a page, the page store data needs to be reset.
 
         // If the hostname changes, we can't merely just update the context.
@@ -436,7 +373,6 @@ const PageStore = class {
             // URL changed, force a re-evaluation of filtering switch
             this.rawURL = tabContext.rawURL;
             this.setFrameURL({ url: this.rawURL });
-            this.titleFromDetails(details);
             return this;
         }
 
@@ -446,7 +382,7 @@ const PageStore = class {
             this.largeMediaTimer = null;
         }
         this.disposeFrameStores();
-        this.init(this.tabId, details);
+        this.init(this.tabId, context);
         return this;
     }
 
@@ -476,17 +412,6 @@ const PageStore = class {
         return null;
     }
 
-    titleFromDetails(details) {
-        if (
-            details instanceof Object === false ||
-            details.title === undefined
-        ) {
-            return false;
-        }
-        this.title = orphanizeString(details.title.slice(0, 128));
-        return true;
-    }
-
     disposeFrameStores() {
         for ( const frameStore of this.frames.values() ) {
             frameStore.dispose();
@@ -498,8 +423,6 @@ const PageStore = class {
         return this.frames.get(frameId) || null;
     }
 
-    // https://github.com/uBlockOrigin/uBlock-issues/issues/1858
-    //   Mind that setFrameURL() can be called from navigation event handlers.
     setFrameURL(details) {
         let { frameId, url, parentFrameId } = details;
         if ( frameId === undefined ) { frameId = 0; }
@@ -516,9 +439,6 @@ const PageStore = class {
         frameStore = FrameStore.factory(url, parentFrameId);
         this.frames.set(frameId, frameStore);
         this.frameAddCount += 1;
-        if ( url.startsWith('about:') ) {
-            frameStore.updateURL(this.getEffectiveFrameURL({ frameId }));
-        }
         if ( (this.frameAddCount & 0b111111) === 0 ) {
             this.pruneFrames();
         }
@@ -573,51 +493,13 @@ const PageStore = class {
                  .getNetFilteringSwitch();
     }
 
+    getSpecificCosmeticFilteringSwitch() {
+        return this.noCosmeticFiltering !== true;
+    }
+
     toggleNetFilteringSwitch(url, scope, state) {
         µb.toggleNetFilteringSwitch(url, scope, state);
         this.netFilteringCache.empty();
-    }
-
-    shouldApplyCosmeticFilters(frameId = 0) {
-        if ( this._noCosmeticFiltering === undefined ) {
-            this._noCosmeticFiltering = this.getNetFilteringSwitch() === false;
-            if ( this._noCosmeticFiltering === false ) {
-                this._noCosmeticFiltering = sessionSwitches.evaluateZ(
-                    'no-cosmetic-filtering',
-                    this.tabHostname
-                ) === true;
-                if ( this._noCosmeticFiltering && logger.enabled ) {
-                    µb.filteringContext
-                        .duplicate()
-                        .fromTabId(this.tabId)
-                        .setURL(this.rawURL)
-                        .setRealm('cosmetic')
-                        .setType('dom')
-                        .setFilter(sessionSwitches.toLogData())
-                        .toLogger();
-                }
-            }
-        }
-        if ( this._noCosmeticFiltering ) { return false; }
-        if ( frameId === -1 ) { return true; }
-        // Cosmetic filtering can be effectively disabled when both specific
-        // and generic cosmetic filters are disabled.
-        return this.shouldApplySpecificCosmeticFilters(frameId) ||
-               this.shouldApplyGenericCosmeticFilters(frameId);
-    }
-
-    shouldApplySpecificCosmeticFilters(frameId) {
-        if ( this.shouldApplyCosmeticFilters(-1) === false ) { return false; }
-        const frameStore = this.getFrameStore(frameId);
-        if ( frameStore === null ) { return false; }
-        return frameStore.shouldApplySpecificCosmeticFilters(this.tabId);
-    }
-
-    shouldApplyGenericCosmeticFilters(frameId) {
-        if ( this.shouldApplyCosmeticFilters(-1) === false ) { return false; }
-        const frameStore = this.getFrameStore(frameId);
-        if ( frameStore === null ) { return false; }
-        return frameStore.shouldApplyGenericCosmeticFilters(this.tabId);
     }
 
     // https://github.com/gorhill/uBlock/issues/2105
@@ -627,7 +509,7 @@ const PageStore = class {
     getAllHostnameDetails() {
         if (
             this.hostnameDetailsMap.has(this.tabHostname) === false &&
-            isNetworkURI(this.rawURL)
+            µb.URI.isNetworkURI(this.rawURL)
         ) {
             this.hostnameDetailsMap.set(
                 this.tabHostname,
@@ -643,22 +525,19 @@ const PageStore = class {
             allFrames: true,
             runAt: 'document_idle',
         });
-        contextMenu.update(this.tabId);
+        µb.contextMenu.update(this.tabId);
     }
 
     temporarilyAllowLargeMediaElements(state) {
         this.largeMediaCount = 0;
-        contextMenu.update(this.tabId);
+        µb.contextMenu.update(this.tabId);
         if ( state ) {
             this.allowLargeMediaElementsUntil = 0;
             this.allowLargeMediaElementsRegex = undefined;
         } else {
             this.allowLargeMediaElementsUntil = Date.now();
         }
-        vAPI.tabs.executeScript(this.tabId, {
-            file: '/js/scriptlets/load-large-media-all.js',
-            allFrames: true,
-        });
+        µb.scriptlets.injectDeep(this.tabId, 'load-large-media-all');
     }
 
     // https://github.com/gorhill/uBlock/issues/2053
@@ -681,12 +560,12 @@ const PageStore = class {
             if (
                 this.journalLastUncommitted !== -1 &&
                 this.journalLastUncommitted < this.journalLastCommitted &&
-                this.journalLastUncommittedOrigin === hostnameFromURI(url)
+                this.journalLastUncommittedOrigin === vAPI.hostnameFromURI(url)
             ) {
                 this.journalLastCommitted = this.journalLastUncommitted;
             }
         } else if ( type === 'uncommitted' ) {
-            const newOrigin = hostnameFromURI(url);
+            const newOrigin = vAPI.hostnameFromURI(url);
             if (
                 this.journalLastUncommitted === -1 ||
                 this.journalLastUncommittedOrigin !== newOrigin
@@ -810,34 +689,34 @@ const PageStore = class {
         }
 
         const requestType = fctxt.type;
-        const loggerEnabled = logger.enabled;
+        const loggerEnabled = µb.logger.enabled;
 
         // Dynamic URL filtering.
-        let result = sessionURLFiltering.evaluateZ(
+        let result = µb.sessionURLFiltering.evaluateZ(
             fctxt.getTabHostname(),
             fctxt.url,
             requestType
         );
         if ( result !== 0 && loggerEnabled ) {
-            fctxt.filter = sessionURLFiltering.toLogData();
+            fctxt.filter = µb.sessionURLFiltering.toLogData();
         }
 
         // Dynamic hostname/type filtering.
         if ( result === 0 && µb.userSettings.advancedUserEnabled ) {
-            result = sessionFirewall.evaluateCellZY(
+            result = µb.sessionFirewall.evaluateCellZY(
                 fctxt.getTabHostname(),
                 fctxt.getHostname(),
                 requestType
             );
             if ( result !== 0 && result !== 3 && loggerEnabled ) {
-                fctxt.filter = sessionFirewall.toLogData();
+                fctxt.filter = µb.sessionFirewall.toLogData();
             }
         }
 
         // Static filtering has lowest precedence.
-        const snfe = staticNetFilteringEngine;
+        const snfe = µb.staticNetFilteringEngine;
         if ( result === 0 || result === 3 ) {
-            result = snfe.matchRequest(fctxt);
+            result = snfe.matchString(fctxt);
             if ( result !== 0 ) {
                 if ( loggerEnabled ) {
                     fctxt.setFilter(snfe.toLogData());
@@ -899,19 +778,19 @@ const PageStore = class {
 
         if ( this.getNetFilteringSwitch(fctxt) === false ) { return 0; }
 
-        let result = staticNetFilteringEngine.matchHeaders(fctxt, headers);
+        let result = µb.staticNetFilteringEngine.matchHeaders(fctxt, headers);
         if ( result === 0 ) { return 0; }
 
-        const loggerEnabled = logger.enabled;
+        const loggerEnabled = µb.logger.enabled;
         if ( loggerEnabled ) {
-            fctxt.filter = staticNetFilteringEngine.toLogData();
+            fctxt.filter = µb.staticNetFilteringEngine.toLogData();
         }
 
         // Dynamic filtering allow rules
         // URL filtering
         if (
             result === 1 &&
-            sessionURLFiltering.evaluateZ(
+            µb.sessionURLFiltering.evaluateZ(
                 fctxt.getTabHostname(),
                 fctxt.url,
                 fctxt.type
@@ -919,14 +798,14 @@ const PageStore = class {
         ) {
             result = 2;
             if ( loggerEnabled ) {
-                fctxt.filter = sessionURLFiltering.toLogData();
+                fctxt.filter = µb.sessionURLFiltering.toLogData();
             }
         }
         // Hostname filtering
         if (
             result === 1 &&
             µb.userSettings.advancedUserEnabled &&
-            sessionFirewall.evaluateCellZY(
+            µb.sessionFirewall.evaluateCellZY(
                 fctxt.getTabHostname(),
                 fctxt.getHostname(),
                 fctxt.type
@@ -934,7 +813,7 @@ const PageStore = class {
         ) {
             result = 2;
             if ( loggerEnabled ) {
-                fctxt.filter = sessionFirewall.toLogData();
+                fctxt.filter = µb.sessionFirewall.toLogData();
             }
         }
 
@@ -942,24 +821,21 @@ const PageStore = class {
     }
 
     redirectBlockedRequest(fctxt) {
-        const directives = staticNetFilteringEngine.redirectRequest(
-            redirectEngine,
-            fctxt
-        );
+        const directives = µb.staticNetFilteringEngine.redirectRequest(fctxt);
         if ( directives === undefined ) { return; }
-        if ( logger.enabled !== true ) { return; }
+        if ( µb.logger.enabled !== true ) { return; }
         fctxt.pushFilters(directives.map(a => a.logData()));
         if ( fctxt.redirectURL === undefined ) { return; }
         fctxt.pushFilter({
             source: 'redirect',
-            raw: redirectEngine.resourceNameRegister
+            raw: µb.redirectEngine.resourceNameRegister
         });
     }
 
     redirectNonBlockedRequest(fctxt) {
-        const directives = staticNetFilteringEngine.filterQuery(fctxt);
+        const directives = µb.staticNetFilteringEngine.filterQuery(fctxt);
         if ( directives === undefined ) { return; }
-        if ( logger.enabled !== true ) { return; }
+        if ( µb.logger.enabled !== true ) { return; }
         fctxt.pushFilters(directives.map(a => a.logData()));
         if ( fctxt.redirectURL === undefined ) { return; }
         fctxt.pushFilter({
@@ -970,13 +846,13 @@ const PageStore = class {
 
     filterCSPReport(fctxt) {
         if (
-            sessionSwitches.evaluateZ(
+            µb.sessionSwitches.evaluateZ(
                 'no-csp-reports',
                 fctxt.getHostname()
             )
         ) {
-            if ( logger.enabled ) {
-                fctxt.filter = sessionSwitches.toLogData();
+            if ( µb.logger.enabled ) {
+                fctxt.filter = µb.sessionSwitches.toLogData();
             }
             return 1;
         }
@@ -988,13 +864,13 @@ const PageStore = class {
             this.remoteFontCount += 1;
         }
         if (
-            sessionSwitches.evaluateZ(
+            µb.sessionSwitches.evaluateZ(
                 'no-remote-fonts',
                 fctxt.getTabHostname()
             ) !== false
         ) {
-            if ( logger.enabled ) {
-                fctxt.filter = sessionSwitches.toLogData();
+            if ( µb.logger.enabled ) {
+                fctxt.filter = µb.sessionSwitches.toLogData();
             }
             return 1;
         }
@@ -1008,15 +884,15 @@ const PageStore = class {
         }
         if (
             netFiltering === false ||
-            sessionSwitches.evaluateZ(
+            µb.sessionSwitches.evaluateZ(
                 'no-scripting',
                 fctxt.getTabHostname()
             ) === false
         ) {
             return 0;
         }
-        if ( logger.enabled ) {
-            fctxt.filter = sessionSwitches.toLogData();
+        if ( µb.logger.enabled ) {
+            fctxt.filter = µb.sessionSwitches.toLogData();
         }
         return 1;
     }
@@ -1045,7 +921,7 @@ const PageStore = class {
             return 0;
         }
         if (
-            sessionSwitches.evaluateZ(
+            µb.sessionSwitches.evaluateZ(
                 'no-large-media',
                 fctxt.getTabHostname()
             ) !== true
@@ -1065,8 +941,8 @@ const PageStore = class {
             }, 500);
         }
 
-        if ( logger.enabled ) {
-            fctxt.filter = sessionSwitches.toLogData();
+        if ( µb.logger.enabled ) {
+            fctxt.filter = µb.sessionSwitches.toLogData();
         }
 
         return 1;
@@ -1095,14 +971,14 @@ const PageStore = class {
             }
         }
         if ( exceptCname === undefined ) {
-            const result = staticNetFilteringEngine.matchRequestReverse(
+            const result = µb.staticNetFilteringEngine.matchStringReverse(
                 'cname',
                 frameStore instanceof Object
                     ? frameStore.rawURL
                     : fctxt.getDocOrigin()
             );
             exceptCname = result === 2
-                ? staticNetFilteringEngine.toLogData()
+                ? µb.staticNetFilteringEngine.toLogData()
                 : false;
             if ( frameStore instanceof Object ) {
                 frameStore.exceptCname = exceptCname;
@@ -1116,7 +992,7 @@ const PageStore = class {
     }
 
     getBlockedResources(request, response) {
-        const normalURL = µb.normalizeTabURL(this.tabId, request.frameURL);
+        const normalURL = µb.normalizePageURL(this.tabId, request.frameURL);
         const resources = request.resources;
         const fctxt = µb.filteringContext;
         fctxt.fromTabId(this.tabId)
@@ -1154,6 +1030,11 @@ PageStore.prototype.collapsibleResources = new Set([
 PageStore.junkyard = [];
 PageStore.junkyardMax = 10;
 
+µb.PageStore = PageStore;
+
 /******************************************************************************/
 
-export { PageStore };
+// <<<<<
+// end of private namespace
+
+}

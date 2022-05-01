@@ -39,15 +39,35 @@
 //   No HTML entities are allowed, there is code to handle existing HTML
 //   entities already present in translation files until they are all gone.
 
-const allowedTags = new Set([
-    'a',
-    'b',
-    'code',
-    'em',
-    'i',
-    'span',
-    'u',
-]);
+const reSafeTags = /^([\s\S]*?)<(b|code|em|i|span)>(.+?)<\/\2>([\s\S]*)$/;
+const reSafeLink = /^([\s\S]*?)<(a href=['"]https:\/\/[^'" <>]+['"])>(.+?)<\/a>([\s\S]*)$/;
+const reLink = /^a href=(['"])(https:\/\/[^'"]+)\1$/;
+
+const safeTextToTagNode = function(text) {
+    if ( text.lastIndexOf('a ', 0) === 0 ) {
+        const matches = reLink.exec(text);
+        if ( matches === null ) { return null; }
+        const node = document.createElement('a');
+        node.setAttribute('href', matches[2]);
+        return node;
+    }
+    // Firefox extension validator warns if using a variable as argument for
+    // document.createElement().
+    switch ( text ) {
+    case 'b':
+        return document.createElement('b');
+    case 'code':
+        return document.createElement('code');
+    case 'em':
+        return document.createElement('em');
+    case 'i':
+        return document.createElement('i');
+    case 'span':
+        return document.createElement('span');
+    default:
+        break;
+    }
+};
 
 const expandHtmlEntities = (( ) => {
     const entities = new Map([
@@ -76,27 +96,13 @@ const safeTextToTextNode = function(text) {
     return document.createTextNode(expandHtmlEntities(text));
 };
 
-const sanitizeElement = function(node) {
-    if ( allowedTags.has(node.localName) === false ) { return null; }
-    node.removeAttribute('style');
-    let child = node.firstElementChild;
-    while ( child !== null ) {
-        const next = child.nextElementSibling;
-        if ( sanitizeElement(child) === null ) {
-            child.remove();
-        }
-        child = next;
-    }
-    return node;
-};
-
 const safeTextToDOM = function(text, parent) {
     if ( text === '' ) { return; }
 
     // Fast path (most common).
     if ( text.indexOf('<') === -1 ) {
         const toInsert = safeTextToTextNode(text);
-        let toReplace = parent.childCount !== 0
+        let toReplace = parent.childElementCount !== 0
             ? parent.firstChild
             : null;
         while ( toReplace !== null ) {
@@ -112,31 +118,27 @@ const safeTextToDOM = function(text, parent) {
         }
         return;
     }
-
     // Slow path.
     // `<p>` no longer allowed. Code below can be removed once all <p>'s are
     // gone from translation files.
     text = text.replace(/^<p>|<\/p>/g, '')
                .replace(/<p>/g, '\n\n');
     // Parse allowed HTML tags.
-    const domParser = new DOMParser();
-    const parsedDoc = domParser.parseFromString(text, 'text/html');
-    let node = parsedDoc.body.firstChild;
-    while ( node !== null ) {
-        const next = node.nextSibling;
-        switch ( node.nodeType ) {
-        case 1: // element
-            if ( sanitizeElement(node) === null ) { break; }
-            parent.appendChild(node);
-            break;
-        case 3: // text
-            parent.appendChild(node);
-            break;
-        default:
-            break;
+    let matches = reSafeTags.exec(text);
+    if ( matches === null ) {
+        matches = reSafeLink.exec(text);
+        if ( matches === null ) {
+            parent.appendChild(safeTextToTextNode(text));
+            return;
         }
-        node = next;
     }
+    const fragment = document.createDocumentFragment();
+    safeTextToDOM(matches[1], fragment);
+    let node = safeTextToTagNode(matches[2]);
+    safeTextToDOM(matches[3], node);
+    fragment.appendChild(node);
+    safeTextToDOM(matches[4], fragment);
+    parent.appendChild(fragment);
 };
 
 /******************************************************************************/

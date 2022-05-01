@@ -41,7 +41,15 @@ if ( document instanceof HTMLDocument === false ) { return; }
 // Maybe uBO has gone away meanwhile.
 if ( typeof vAPI !== 'object' || vAPI === null ) { return; }
 
-const onMaybeSubscriptionLinkClicked = function(target) {
+// https://github.com/easylist/EasyListHebrew/issues/89
+//   Ensure trusted events only.
+
+const onMaybeSubscriptionLinkClicked = function(ev) {
+    if ( ev.button !== 0 || ev.isTrusted === false ) { return; }
+
+    const target = ev.target.closest('a');
+    if ( target instanceof HTMLAnchorElement === false ) { return; }
+
     if ( vAPI instanceof Object === false ) {
         document.removeEventListener('click', onMaybeSubscriptionLinkClicked);
         return;
@@ -61,31 +69,19 @@ const onMaybeSubscriptionLinkClicked = function(target) {
         }
         const location = subscribeURL.searchParams.get('location') || '';
         const title = subscribeURL.searchParams.get('title') || '';
-        if ( location === '' || title === '' ) { return true; }
-        // https://github.com/uBlockOrigin/uBlock-issues/issues/1797
-        if ( /^(file|https?):\/\//.test(location) === false ) { return true; }
+        if ( location === '' || title === '' ) { return; }
         vAPI.messaging.send('scriptlets', {
             what: 'subscribeTo',
             location,
             title,
         });
-        return true;
+        ev.stopPropagation();
+        ev.preventDefault();
     } catch (_) {
     }
 };
 
-// https://github.com/easylist/EasyListHebrew/issues/89
-//   Ensure trusted events only.
-
-document.addEventListener('click', ev => {
-    if ( ev.button !== 0 || ev.isTrusted === false ) { return; }
-    const target = ev.target.closest('a');
-    if ( target instanceof HTMLAnchorElement === false ) { return; }
-    if ( onMaybeSubscriptionLinkClicked(target) === true ) {
-        ev.stopPropagation();
-        ev.preventDefault();
-    }
-});
+document.addEventListener('click', onMaybeSubscriptionLinkClicked);
 
 /******************************************************************************/
 

@@ -55,10 +55,6 @@
     "message": "О расширении",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "Поддержка",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ — Активы",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Открыть логгер",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "Сообщить о проблеме на данном сайте",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Вкл/Выкл блокировку всех всплывающих окон на этом сайте",
@@ -335,25 +327,17 @@
     "message": "Цветовая схема для дальтоников",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Настройки интерфейса",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Тема",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Выбрать акцент цветового оформления",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Включить поддержку облачного хранилища",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
-    "message": "Я - опытный пользователь",
-    "description": "Checkbox to let user access advanced, technical features"
+    "message": "Я опытный пользователь (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>Обязательно к прочтению</a>)",
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "расширенные настройки",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Отключить предзагрузку для предотвращения подключений для заблокированных запросов",
@@ -399,18 +383,6 @@
     "message": "Раскрывать CNAME записи",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Расширенные настройки",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Функции, предназначенные для технических пользователей",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "расширенные настройки",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "Последнее восстановление:",
     "description": "English: Last restore:"
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "Общие косметические фильтры — это те косметические фильтры, которые должны применяться на всех веб-сайтах. Включение этой опции снизит потребление памяти и избавит процессор от обработки общих косметических фильтров на веб-страницах.\n\nРекомендуется включить эту опцию на недостаточно мощных устройствах.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Приостановить сетевую активность, пока не запустятся все списки фильтров",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "Список заблокированных хостов",
@@ -520,7 +488,7 @@
     "description": "used as a tooltip for the clock icon beside a list"
   },
   "3pUpdating": {
-    "message": "Обновление...",
+    "message": "Обновляется...",
     "description": "used as a tooltip for the spinner icon beside a list"
   },
   "3pNetworkError": {
@@ -612,8 +580,8 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Записи доверенных сайтов указывают на каких веб-страницах uBlock Origin должен быть отключен. Одна запись на строку.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "message": "Записи доверенных сайтов указывают на каких веб-страницах uBlock Origin должен быть отключен. Одна запись на строку. Некорректные записи будут проигнорированы и закомментированы без предупреждений.",
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Импортировать и добавить",
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Открыть",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Создать новый отчет",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Найти похожие отчеты",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Документация",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Прочитайте документацию на <code>uBlock/wiki</code>, чтобы узнать обо всех возможностях uBlock Origin. ",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Вопросы и поддержка",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Ответы на вопросы и другая помощь доступны в разделе <code>/r/uBlockOrigin</code> на reddit.",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Проблемы фильтрации/сломанный сайт",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Сообщайте о проблемах фильтрации на конкретных сайтах в раздел трекера <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code></span>. <u>Требуется GitHub аккаунт.</u>",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Важно:</b> Избегайте использования других блокировщиков схожего назначения совместно с uBlock Origin , так как это может привести к проблемам с фильтрацией на определенных сайтах.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Подсказки:</b> Убедитесь, что ваши списки фильтров обновлены. <span data-url=\"logger-ui.html#_\">Логгер</span> - основной инструмент диагностики проблем, связанных с фильтрами.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Баг репорт",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Сообщайте о собственных ошибках дополнения uBlock Origin в раздел трекера <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code></span>. <u>Требуется GitHub аккаунт.</u>",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Диагностика неисправностей",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Ниже - техническая информация, которая может быть полезной волонтерам, помогающим вам решить проблему.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Важно:</b> Предположительно конфиденциальная информация редактируется по умолчанию. Отредактированная информация может усложнить диагностику проблемы.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Сообщить о проблемном фильтре",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "Чтобы не обременять волонтеров дублированными отчетами, пожалуйста, убедитесь, что о данной проблеме еще не сообщали",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Адрес веб-страницы:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "Веб-страница...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "--Выберите категорию--",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Показывается реклама или ее заполнители",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Всплывающие окна или другие помехи",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Обнаруживается uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Проблемы, связанные с приватностью",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Поломки, когда включен uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Открываются нежелательные вкладки или окна",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "Пометить веб-страницу как “NSFW” (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“Not Safe For Work”</a>)",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Редактировать",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Отменить редактирование",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Политика конфиденциальности",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Список изменений",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Вики",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Поддержка",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Известные проблемы",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Исходный код (GPLv3)",
@@ -1031,14 +891,6 @@
     "message": "Внешние зависимости (GPLv3-совместимые):",
     "description": "Shown in the About pane"
   },
-  "aboutCDNs": {
-    "message": "Собственные списки фильтров uBO's свободно размещены на следующих <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDN</a>:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "При обновлении списка фильтров используется выбранный случайным образом CDN",
-    "description": "Shown in the About pane"
-  },
   "aboutBackupDataButton": {
     "message": "Резервное копирование в файл...",
     "description": "Text for button to create a backup of all settings"
@@ -1048,7 +900,7 @@
     "description": "English: my-ublock-backup_{{datetime}}.txt"
   },
   "aboutRestoreDataButton": {
-    "message": "Восстановить из файла...",
+    "message": "Восстановление из файла...",
     "description": "English: Restore from file..."
   },
   "aboutResetDataButton": {
@@ -1196,7 +1048,7 @@
     "description": "An entry in the browser's contextual menu"
   },
   "contextMenuSubscribeToList": {
-    "message": "Установить список фильтров...",
+    "message": "Подписаться на список фильтров...",
     "description": "An entry in the browser's contextual menu"
   },
   "contextMenuTemporarilyAllowLargeMediaElements": {
@@ -1215,17 +1067,13 @@
     "message": "Скопировать в буфер",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Выбрать все",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Вкл/Выкл косметическую фильтрацию",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Переключение профиля блокировки",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "Ослабленный режим блокировки",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Размер хранилища: {{value}} {{unit}}",

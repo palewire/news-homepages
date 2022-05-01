@@ -27,10 +27,7 @@
 
 /******************************************************************************/
 
-if (
-    self.browser instanceof Object &&
-    self.browser instanceof Element === false
-) {
+if ( self.browser instanceof Object ) {
     self.chrome = self.browser;
 } else {
     self.browser = self.chrome;

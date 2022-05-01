@@ -34,21 +34,22 @@ def single(handle: str, output_dir: str):
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    with sync_playwright() as playwright:
-        extension_path = utils.EXTENSIONS_PATH / "uBlock0.chromium"
+    def run(playwright):
+        path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
         context = playwright.chromium.launch_persistent_context(
-            tempfile.mkdtemp(),
+            "./.chromium",
             headless=False,
             args=[
-                f"--disable-extensions-except={extension_path}",
-                f"--load-extension={extension_path}",
+                f"--disable-extensions-except={path_to_extension}",
+                f"--load-extension={path_to_extension}",
             ],
         )
-        print(context)
-        page = context.background_pages[0]
+        page = context.new_page()
         page.goto(site["url"])
-        # Test the background page as you would any other page.
         context.close()
+
+    with sync_playwright() as playwright:
+        run(playwright)
 
 
 #    # Shoot the shot

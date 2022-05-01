@@ -22,29 +22,6 @@
 'use strict';
 
 /******************************************************************************/
-
-import contextMenu from './contextmenu.js';
-import logger from './logger.js';
-import scriptletFilteringEngine from './scriptlet-filtering.js';
-import staticNetFilteringEngine from './static-net-filtering.js';
-import µb from './background.js';
-import webext from './webext.js';
-import { PageStore } from './pagestore.js';
-
-import {
-    sessionFirewall,
-    sessionSwitches,
-    sessionURLFiltering,
-} from './filtering-engines.js';
-
-import {
-    domainFromHostname,
-    hostnameFromURI,
-    isNetworkURI,
-    originFromURI,
-} from './uri-utils.js';
-
-/******************************************************************************/
 /******************************************************************************/
 
 // https://github.com/gorhill/httpswitchboard/issues/303
@@ -56,34 +33,26 @@ import {
 //   hostname. This way, for a specific scheme you can create scope with
 //   rules which will apply only to that scheme.
 
-µb.normalizeTabURL = (( ) => {
-    const tabURLNormalizer = new URL('about:blank');
+µBlock.normalizePageURL = function(tabId, pageURL) {
+    if ( tabId < 0 ) {
+        return 'http://behind-the-scene/';
+    }
+    const uri = this.URI.set(pageURL);
+    const scheme = uri.scheme;
+    if ( scheme === 'https' || scheme === 'http' ) {
+        return uri.normalizedURI();
+    }
 
-    return (tabId, tabURL) => {
-        if ( tabId < 0 ) {
-            return 'http://behind-the-scene/';
-        }
-        try {
-            tabURLNormalizer.href = tabURL;
-        } catch(ex) {
-            return tabURL;
-        }
-        const protocol = tabURLNormalizer.protocol.slice(0, -1);
-        if ( protocol === 'https' || protocol === 'http' ) {
-            return tabURLNormalizer.href;
-        }
+    let fakeHostname = scheme + '-scheme';
 
-        let fakeHostname = protocol + '-scheme';
+    if ( uri.hostname !== '' ) {
+        fakeHostname = uri.hostname + '.' + fakeHostname;
+    } else if ( scheme === 'about' && uri.path !== '' ) {
+        fakeHostname = uri.path + '.' + fakeHostname;
+    }
 
-        if ( tabURLNormalizer.hostname !== '' ) {
-            fakeHostname = tabURLNormalizer.hostname + '.' + fakeHostname;
-        } else if ( protocol === 'about' && protocol.pathname !== '' ) {
-            fakeHostname = tabURLNormalizer.pathname + '.' + fakeHostname;
-        }
-
-        return `http://${fakeHostname}/`;
-    };
-})();
+    return `http://${fakeHostname}/`;
+};
 
 /******************************************************************************/
 
@@ -109,7 +78,9 @@ import {
 // c: close opener
 // d: close target
 
-const onPopupUpdated = (( ) => {
+µBlock.onPopupUpdated = (( ) => {
+    const µb = µBlock;
+
     // https://github.com/gorhill/uBlock/commit/1d448b85b2931412508aa01bf899e0b6f0033626#commitcomment-14944764
     //   See if two URLs are different, disregarding scheme -- because the
     //   scheme can be unilaterally changed by the browser.
@@ -137,21 +108,11 @@ const onPopupUpdated = (( ) => {
         targetURL,
         popupType = 'popup'
     ) {
-        // https://github.com/chrisaljoudi/uBlock/issues/323
-        // https://github.com/chrisaljoudi/uBlock/issues/1142
-        // https://github.com/uBlockOrigin/uBlock-issues/issues/1616
-        //   Don't block if uBO is turned off in popup's context
-        if (
-            µb.getNetFilteringSwitch(targetURL) === false ||
-            µb.getNetFilteringSwitch(µb.normalizeTabURL(0, targetURL)) === false
-        ) {
-            return 0;
-        }
-
         fctxt.setTabOriginFromURL(rootOpenerURL)
              .setDocOriginFromURL(localOpenerURL || rootOpenerURL)
              .setURL(targetURL)
              .setType('popup');
+        let result;
 
         // https://github.com/gorhill/uBlock/issues/1735
         //   Do not bail out on `data:` URI, they are commonly used for popups.
@@ -176,13 +137,13 @@ const onPopupUpdated = (( ) => {
             //   popunders.
             if (
                 popupType === 'popup' &&
-                sessionSwitches.evaluateZ(
+                µb.sessionSwitches.evaluateZ(
                     'no-popups',
                     fctxt.getTabHostname()
                 )
             ) {
                 fctxt.filter = {
-                    raw: 'no-popups: ' + sessionSwitches.z + ' true',
+                    raw: 'no-popups: ' + µb.sessionSwitches.z + ' true',
                     result: 1,
                     source: 'switch'
                 };
@@ -192,16 +153,16 @@ const onPopupUpdated = (( ) => {
             // https://github.com/gorhill/uBlock/issues/581
             //   Take into account popup-specific rules in dynamic URL
             //   filtering, OR generic allow rules.
-            let result = sessionURLFiltering.evaluateZ(
+            result = µb.sessionURLFiltering.evaluateZ(
                 fctxt.getTabHostname(),
                 targetURL,
                 popupType
             );
             if (
-                result === 1 && sessionURLFiltering.type === popupType ||
+                result === 1 && µb.sessionURLFiltering.type === popupType ||
                 result === 2
             ) {
-                fctxt.filter = sessionURLFiltering.toLogData();
+                fctxt.filter = µb.sessionURLFiltering.toLogData();
                 return result;
             }
 
@@ -209,22 +170,27 @@ const onPopupUpdated = (( ) => {
             //   Take into account `allow` rules in dynamic filtering: `block`
             //   rules are ignored, as block rules are not meant to block
             //   specific types like `popup` (just like with static filters).
-            result = sessionFirewall.evaluateCellZY(
+            result = µb.sessionFirewall.evaluateCellZY(
                 fctxt.getTabHostname(),
                 fctxt.getHostname(),
                 popupType
             );
             if ( result === 2 ) {
-                fctxt.filter = sessionFirewall.toLogData();
+                fctxt.filter = µb.sessionFirewall.toLogData();
                 return 2;
             }
         }
 
-        fctxt.type = popupType;
-        const result = staticNetFilteringEngine.matchRequest(fctxt, 0b0001);
-        if ( result !== 0 ) {
-            fctxt.filter = staticNetFilteringEngine.toLogData();
-            return result;
+        // https://github.com/chrisaljoudi/uBlock/issues/323
+        // https://github.com/chrisaljoudi/uBlock/issues/1142
+        //   Don't block if uBlock is turned off in popup's context
+        if ( µb.getNetFilteringSwitch(targetURL) ) {
+            fctxt.type = popupType;
+            result = µb.staticNetFilteringEngine.matchString(fctxt, 0b0001);
+            if ( result !== 0 ) {
+                fctxt.filter = µb.staticNetFilteringEngine.toLogData();
+                return result;
+            }
         }
 
         return 0;
@@ -236,13 +202,14 @@ const onPopupUpdated = (( ) => {
         popunderHostname,
         result
     ) {
-        if ( fctxt.filter === undefined || fctxt.filter !== 'static' ) {
+        if (
+            fctxt.filter === undefined ||
+            fctxt.filter !== 'static' ||
+            fctxt.filter.token === µb.staticNetFilteringEngine.noTokenHash
+        ) {
             return 0;
         }
-        if ( fctxt.filter.isUntokenized() ) {
-            return 0;
-        }
-        if ( fctxt.filter.isPureHostname() ) {
+        if ( fctxt.filter.token === µb.staticNetFilteringEngine.dotTokenHash ) {
             return result;
         }
         const re = new RegExp(fctxt.filter.regex, 'i');
@@ -285,7 +252,7 @@ const onPopupUpdated = (( ) => {
         //   For now, a "broad" filter is one which does not touch any part of
         //   the hostname part of the opener URL.
         let popunderURL = rootOpenerURL,
-            popunderHostname = hostnameFromURI(popunderURL);
+            popunderHostname = µb.URI.hostnameFromURI(popunderURL);
         if ( popunderHostname === '' ) { return 0; }
 
         result = mapPopunderResult(
@@ -298,7 +265,7 @@ const onPopupUpdated = (( ) => {
 
         // https://github.com/gorhill/uBlock/issues/1598
         //   Try to find a match against origin part of the opener URL.
-        popunderURL = originFromURI(popunderURL);
+        popunderURL = µb.URI.originFromURI(popunderURL);
         if ( popunderURL === '' ) { return 0; }
 
         return mapPopunderResult(
@@ -333,7 +300,7 @@ const onPopupUpdated = (( ) => {
         // https://github.com/gorhill/uBlock/issues/1538
         if (
             µb.getNetFilteringSwitch(
-                µb.normalizeTabURL(openerTabId, rootOpenerURL)
+                µb.normalizePageURL(openerTabId, rootOpenerURL)
             ) === false
         ) {
             return;
@@ -355,14 +322,8 @@ const onPopupUpdated = (( ) => {
         let popupType = 'popup',
             result = 0;
         // https://github.com/gorhill/uBlock/issues/2919
-        //   If the target tab matches a clicked link, assume it's legit.
-        // https://github.com/uBlockOrigin/uBlock-issues/issues/1912
-        //   If the target also matches the last clicked link, assume it's
-        //   legit.
-        if (
-            areDifferentURLs(targetURL, openerDetails.trustedURL) &&
-            areDifferentURLs(targetURL, µb.maybeGoodPopup.url)
-        ) {
+        // - If the target tab matches a clicked link, assume it's legit.
+        if ( areDifferentURLs(targetURL, openerDetails.trustedURL) ) {
             result = popupMatch(fctxt, rootOpenerURL, localOpenerURL, targetURL);
         }
 
@@ -376,7 +337,7 @@ const onPopupUpdated = (( ) => {
 
         // Log only for when there was a hit against an actual filter (allow or block).
         // https://github.com/gorhill/uBlock/issues/2776
-        if ( logger.enabled ) {
+        if ( µb.logger.enabled ) {
             fctxt.setRealm('network').setType(popupType);
             if ( popupType === 'popup' ) {
                 fctxt.setURL(targetURL)
@@ -482,7 +443,8 @@ housekeep itself.
 
 */
 
-µb.tabContextManager = (( ) => {
+µBlock.tabContextManager = (( ) => {
+    const µb = µBlock;
     const tabContexts = new Map();
 
     // https://github.com/chrisaljoudi/uBlock/issues/1001
@@ -542,7 +504,7 @@ housekeep itself.
             if ( targetTabId === candidate.opener.tabId ) {
                 candidate.opener.popunder = true;
             }
-            const result = onPopupUpdated(tabId, candidate.opener);
+            const result = await µb.onPopupUpdated(tabId, candidate.opener);
             if ( result === true ) {
                 candidate.destroy();
             } else {
@@ -578,7 +540,6 @@ housekeep itself.
             if (
                 Array.isArray(openerDetails) === false ||
                 openerDetails.length !== 2 ||
-                openerDetails[1] === null ||
                 openerDetails[1].url === 'about:newtab'
             ) {
                 return;
@@ -695,11 +656,11 @@ housekeep itself.
         }
         const stackEntry = this.stack[this.stack.length - 1];
         this.rawURL = stackEntry.url;
-        this.normalURL = µb.normalizeTabURL(this.tabId, this.rawURL);
-        this.origin = originFromURI(this.normalURL);
-        this.rootHostname = hostnameFromURI(this.origin);
+        this.normalURL = µb.normalizePageURL(this.tabId, this.rawURL);
+        this.origin = µb.URI.originFromURI(this.normalURL);
+        this.rootHostname = µb.URI.hostnameFromURI(this.origin);
         this.rootDomain =
-            domainFromHostname(this.rootHostname) ||
+            µb.URI.domainFromHostname(this.rootHostname) ||
             this.rootHostname;
     };
 
@@ -827,10 +788,10 @@ housekeep itself.
         const entry = new TabContext(vAPI.noTabId);
         entry.stack.push(new StackEntry('', true));
         entry.rawURL = '';
-        entry.normalURL = µb.normalizeTabURL(entry.tabId);
-        entry.origin = originFromURI(entry.normalURL);
-        entry.rootHostname = hostnameFromURI(entry.origin);
-        entry.rootDomain = domainFromHostname(entry.rootHostname);
+        entry.normalURL = µb.normalizePageURL(entry.tabId);
+        entry.origin = µb.URI.originFromURI(entry.normalURL);
+        entry.rootHostname = µb.URI.hostnameFromURI(entry.origin);
+        entry.rootDomain = µb.URI.domainFromHostname(entry.rootHostname);
     }
 
     // Context object, typically to be used to feed filtering engines.
@@ -879,30 +840,23 @@ housekeep itself.
 
 vAPI.Tabs = class extends vAPI.Tabs {
     onActivated(details) {
-        const { tabId } = details;
-        if ( vAPI.isBehindTheSceneTabId(tabId) ) { return; }
-        // https://github.com/uBlockOrigin/uBlock-issues/issues/757
-        const pageStore = µb.pageStoreFromTabId(tabId);
-        if ( pageStore === null ) {
-            this.onNewTab(tabId);
-            return;
-        }
         super.onActivated(details);
+        if ( vAPI.isBehindTheSceneTabId(details.tabId) ) { return; }
         // https://github.com/uBlockOrigin/uBlock-issues/issues/680
-        µb.updateToolbarIcon(tabId);
-        contextMenu.update(tabId);
+        µBlock.updateToolbarIcon(details.tabId);
+        µBlock.contextMenu.update(details.tabId);
     }
 
     onClosed(tabId) {
         super.onClosed(tabId);
         if ( vAPI.isBehindTheSceneTabId(tabId) ) { return; }
-        µb.unbindTabFromPageStore(tabId);
-        contextMenu.update();
+        µBlock.unbindTabFromPageStore(tabId);
+        µBlock.contextMenu.update();
     }
 
     onCreated(details) {
         super.onCreated(details);
-        µb.tabContextManager.onTabCreated(details);
+        µBlock.tabContextManager.onTabCreated(details);
     }
 
     // When the DOM content of root frame is loaded, this means the tab
@@ -920,10 +874,11 @@ vAPI.Tabs = class extends vAPI.Tabs {
     //   is not available at this point.
     onNavigation(details) {
         super.onNavigation(details);
+        const µb = µBlock;
         const { frameId, tabId, url } = details;
         if ( frameId === 0 ) {
             µb.tabContextManager.commit(tabId, url);
-            const pageStore = µb.bindTabToPageStore(tabId, 'tabCommitted', details);
+            const pageStore = µb.bindTabToPageStore(tabId, 'tabCommitted');
             if ( pageStore !== null ) {
                 pageStore.journalAddRootFrame('committed', url);
             }
@@ -933,32 +888,23 @@ vAPI.Tabs = class extends vAPI.Tabs {
         pageStore.setFrameURL(details);
         if (
             µb.canInjectScriptletsNow &&
-            isNetworkURI(url) &&
+            µb.URI.isNetworkURI(url) &&
             pageStore.getNetFilteringSwitch()
         ) {
-            scriptletFilteringEngine.injectNow(details);
+            µb.scriptletFilteringEngine.injectNow(details);
         }
-    }
-
-    async onNewTab(tabId) {
-        const tab = await vAPI.tabs.get(tabId);
-        if ( tab === null ) { return; }
-        const { id, url = '' } = tab;
-        if ( url === '' ) { return; }
-        µb.tabContextManager.commit(id, url);
-        µb.bindTabToPageStore(id, 'tabUpdated', tab);
-        contextMenu.update(id);
     }
 
     // It may happen the URL in the tab changes, while the page's document
     // stays the same (for instance, Google Maps). Without this listener,
     // the extension icon won't be properly refreshed.
+
     onUpdated(tabId, changeInfo, tab) {
         super.onUpdated(tabId, changeInfo, tab);
         if ( !tab.url || tab.url === '' ) { return; }
         if ( !changeInfo.url ) { return; }
-        µb.tabContextManager.commit(tabId, changeInfo.url);
-        µb.bindTabToPageStore(tabId, 'tabUpdated', tab);
+        µBlock.tabContextManager.commit(tabId, changeInfo.url);
+        µBlock.bindTabToPageStore(tabId, 'tabUpdated');
     }
 };
 
@@ -969,7 +915,7 @@ vAPI.tabs = new vAPI.Tabs();
 
 // Create an entry for the tab if it doesn't exist.
 
-µb.bindTabToPageStore = function(tabId, context, details = undefined) {
+µBlock.bindTabToPageStore = function(tabId, context) {
     this.updateToolbarIcon(tabId, 0b111);
 
     // Do not create a page store for URLs which are of no interests
@@ -983,7 +929,8 @@ vAPI.tabs = new vAPI.Tabs();
 
     // Tab is not bound
     if ( pageStore === undefined ) {
-        pageStore = PageStore.factory(tabId, details);
+        this.updateTitle(tabId);
+        pageStore = this.PageStore.factory(tabId, context);
         this.pageStores.set(tabId, pageStore);
         this.pageStoresToken = Date.now();
         return pageStore;
@@ -1005,8 +952,9 @@ vAPI.tabs = new vAPI.Tabs();
     // Rebind according to context. We rebind even if the URL did not change,
     // as maybe the tab was force-reloaded, in which case the page stats must
     // be all reset.
-    pageStore.reuse(context, details);
+    pageStore.reuse(context);
 
+    this.updateTitle(tabId);
     this.pageStoresToken = Date.now();
 
     return pageStore;
@@ -1014,7 +962,7 @@ vAPI.tabs = new vAPI.Tabs();
 
 /******************************************************************************/
 
-µb.unbindTabFromPageStore = function(tabId) {
+µBlock.unbindTabFromPageStore = function(tabId) {
     const pageStore = this.pageStores.get(tabId);
     if ( pageStore === undefined ) { return; }
     pageStore.dispose();
@@ -1024,11 +972,11 @@ vAPI.tabs = new vAPI.Tabs();
 
 /******************************************************************************/
 
-µb.pageStoreFromTabId = function(tabId) {
+µBlock.pageStoreFromTabId = function(tabId) {
     return this.pageStores.get(tabId) || null;
 };
 
-µb.mustPageStoreFromTabId = function(tabId) {
+µBlock.mustPageStoreFromTabId = function(tabId) {
     return this.pageStores.get(tabId) || this.pageStores.get(vAPI.noTabId);
 };
 
@@ -1041,19 +989,19 @@ vAPI.tabs = new vAPI.Tabs();
 //   the document context (if present) of the network request.
 
 {
-    const NoPageStore = class extends PageStore {
+    const NoPageStore = class extends µBlock.PageStore {
         getNetFilteringSwitch(fctxt) {
-            if ( fctxt ) {
+            if ( fctxt && fctxt.docId === 0 ) {
                 const docOrigin = fctxt.getDocOrigin();
                 if ( docOrigin ) {
-                    return µb.getNetFilteringSwitch(docOrigin);
+                    return µBlock.getNetFilteringSwitch(docOrigin);
                 }
             }
             return super.getNetFilteringSwitch();
         }
     };
     const pageStore = new NoPageStore(vAPI.noTabId);
-    µb.pageStores.set(pageStore.tabId, pageStore);
+    µBlock.pageStores.set(pageStore.tabId, pageStore);
     pageStore.title = vAPI.i18n('logBehindTheScene');
 }
 
@@ -1061,7 +1009,8 @@ vAPI.tabs = new vAPI.Tabs();
 
 // Update visual of extension icon.
 
-µb.updateToolbarIcon = (( ) => {
+µBlock.updateToolbarIcon = (( ) => {
+    const µb = µBlock;
     const tabIdToDetails = new Map();
 
     const computeBadgeColor = (bits) => {
@@ -1139,6 +1088,58 @@ vAPI.tabs = new vAPI.Tabs();
 
 /******************************************************************************/
 
+µBlock.updateTitle = (( ) => {
+    const tabIdToCount = new Map();
+    const delay = 499;
+
+    const updateTitle = async function(tabId) {
+        let count = tabIdToCount.get(tabId);
+        if ( count === undefined ) { return; }
+        tabIdToCount.delete(tabId);
+        const tab = await vAPI.tabs.get(tabId);
+        if ( tab instanceof Object === false || tab.discarded === true ) {
+            return;
+        }
+        const µb = µBlock;
+        const pageStore = µb.pageStoreFromTabId(tabId);
+        if ( pageStore === null ) { return; }
+        // Firefox needs this: if you detach a tab, the new tab won't have
+        // its rawURL set. Concretely, this causes the logger to report an
+        // entry to itself in the logger's tab selector.
+        // TODO: Investigate for a fix vAPI-side.
+        pageStore.rawURL = tab.url;
+        µb.pageStoresToken = Date.now();
+        // https://github.com/gorhill/uMatrix/issues/225
+        //   Sometimes title changes while page is loading.
+        const settled =
+            typeof tab.title === 'string' &&
+            tab.title !== '' &&
+            tab.title === pageStore.title;
+        pageStore.title = tab.title || tab.url || '';
+        if ( settled ) { return; }
+        if ( tabIdToCount.has(tabId) ) { return; }
+        count -= 1;
+        if ( count === 0 ) { return; }
+        tabIdToCount.set(tabId, count);
+        updateTitleAsync(tabId);
+    };
+
+    const updateTitleAsync = function(tabId) {
+        vAPI.setTimeout(( ) => { updateTitle(tabId); }, delay);
+    };
+
+    return function(tabId) {
+        if ( vAPI.isBehindTheSceneTabId(tabId) ) { return; }
+        const count = tabIdToCount.get(tabId);
+        tabIdToCount.set(tabId, 5);
+        if ( count === undefined ) {
+            updateTitleAsync(tabId);
+        }
+    };
+})();
+
+/******************************************************************************/
+
 // https://github.com/chrisaljoudi/uBlock/issues/455
 //   Stale page store entries janitor
 
@@ -1150,11 +1151,11 @@ vAPI.tabs = new vAPI.Tabs();
     const checkTab = async tabId => {
         const tab = await vAPI.tabs.get(tabId);
         if ( tab instanceof Object && tab.discarded !== true ) { return; }
-        µb.unbindTabFromPageStore(tabId);
+        µBlock.unbindTabFromPageStore(tabId);
     };
 
     const pageStoreJanitor = function() {
-        const tabIds = Array.from(µb.pageStores.keys()).sort();
+        const tabIds = Array.from(µBlock.pageStores.keys()).sort();
         if ( pageStoreJanitorSampleAt >= tabIds.length ) {
             pageStoreJanitorSampleAt = 0;
         }

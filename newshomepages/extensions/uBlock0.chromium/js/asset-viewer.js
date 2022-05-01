@@ -25,10 +25,6 @@
 
 /******************************************************************************/
 
-import './codemirror/ubo-static-filtering.js';
-
-/******************************************************************************/
-
 (async ( ) => {
     const subscribeURL = new URL(document.location);
     const subscribeParams = subscribeURL.searchParams;

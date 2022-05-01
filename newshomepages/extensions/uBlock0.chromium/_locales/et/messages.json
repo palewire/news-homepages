@@ -55,10 +55,6 @@
     "message": "Teave",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "Tugi",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ — vara vaatur",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Ava logija",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "Teavita selle veebilehe probleemist",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Keela hüpikaknad sellel saidil",
@@ -335,25 +327,17 @@
     "message": "Värvipimeduse-sõbralik",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Välimus",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Teema",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Kohandatud rõhuvärv",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Luba pilves hoiustamise tugi",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
-    "message": "Olen kogenud kasutaja",
-    "description": "Checkbox to let user access advanced, technical features"
+    "message": "Olen kogenud kasutaja (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>Vajalik lugemus</a>)",
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "täpsemad seaded",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Keela eellaadimine (et vältida ühendusi blokeeritud võrgutaotlustele)",
@@ -399,18 +383,6 @@
     "message": "Kanooniliste nimede tuvastamine",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Täpsemad",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Funktsioonid, mis on sobilikud vaid tehnikas pädevatele kasutajatele.",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "täpsemad seaded",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "Viimane taastus:",
     "description": "English: Last restore:"
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "Üldised ilufiltrid on need ilufiltrid, mis töötavad kõikidel veebisaitidel. Selle valiku lubamine vähendab veebisaitidel üldiste ilufiltrite kasutamisest tulenevat mälu ja protsessori koormust.\n\nSelle valiku lubamine on soovitatav vähem võimekates seadmetes.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Peata võrguliiklus kõikide filtriloendite laadimiseni",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "Blokeeritud domeenide loendid",
@@ -612,8 +580,8 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Usaldatud saitide direktiivid määravad, millistel veebilehtedel peaks uBlock Origin keelatud olema. Üks kirje rea kohta.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "message": "Usaldatud saitide direktiivid määravad, millistel veebilehtedel peaks uBlock Origin keelatud olema. Üks kirje rea kohta. Sobimatuid direktiive vaikselt ignoreeritakse ja kommenteeritakse välja.",
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Impordi ja lisa",
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Ava",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Loo uus aruanne",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Leia sarnaseid aruandeid",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Dokumendid",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Loe dokumente kohas <code>uBlock/wiki</code>, et avastada kõik uBlock Origini võimalusi.",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Küsimused ja tugi",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Vastused küsimustele ja muud sorti kliendituge pakutakse subredditis <code>/r/uBlockOrigin</code>.",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Filtrivead/veebileht on katki",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Teata kindlate veebilehtede filtrivigadest <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code> veahalduris</span>. <u>Nõuab GitHubi kontot.</u>",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Oluline:</b> väldi teiste sarnaselt toimivate blokeerijate kasutamist koos uBlock Originiga, see võib põhjustada teatud lehtedel filtrivigu.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Nõuanne:</b> veendu, et filtrinimekirjad on ajakohased. <span data-url=\"logger-ui.html#_\">Logija</span> on peamine tööriist filtritega seotud vigade diagnoosimiseks.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Veast teatamine",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Teata uBlock Origini vigadest <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\">uBlockOrigin/uBlock-issue</code> veahalduris</span>. <u>Nõuab GitHubi kontot.</u>",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Tõrkeotsingu teave",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Allpool on tehniline info, mis võib olla kasulik, kui vabatahtlikud aitavad sul probleemi lahendada.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Oluline:</b> potentsiaalselt privaatne või tundlik info on vaikimisi kaetud. Kaetud info võib probleemi lahendamist raskendada.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Teavita filtri veast",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "Vabatahtlike koormuse vähendamiseks veendu, et probleemi pole juba teatatud.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Veebilehe aadress:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "Veebileht...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Vali kirje --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Kuvab reklaame või reklaami kohatäitjaid",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Omab ülekatteid või teisi nuhtlusi",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Tuvastab uBlock Origini",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Omab privaatsusega seonduvaid probleeme",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Läheb uBlock Origini olemasolul katki",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Avab soovimatuid kaarte või aknaid",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "Sildista veebileht kui „NSFW“ (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">&ldquo;tööks sobimatu&rdquo;</a>)",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Kata info",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Ära kata infot",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Privaatsusteatis",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Muudatuste logi",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Viki",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Tugi",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Vigade loend",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Lähtekood (GPLv3)",
@@ -1031,14 +891,6 @@
     "message": "Välised sõltuvused (ühilduvad GPLv3-ga):",
     "description": "Shown in the About pane"
   },
-  "aboutCDNs": {
-    "message": "uBO enda filtriloendid on vabalt hostitud järgnevates <a href=\"https://et.wikipedia.org/wiki/Sisuedastusv%C3%B5rk\">sisuedastusvõrkudes</a>:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "Filtriloendi uuendamiseks kasutatakse juhuslikult valitud sisuedastusvõrku",
-    "description": "Shown in the About pane"
-  },
   "aboutBackupDataButton": {
     "message": "Varunda faili",
     "description": "Text for button to create a backup of all settings"
@@ -1052,7 +904,7 @@
     "description": "English: Restore from file..."
   },
   "aboutResetDataButton": {
-    "message": "Alusta nullist...",
+    "message": "Taasta vaikeseadetele...",
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
@@ -1215,17 +1067,13 @@
     "message": "Kopeeri lõikelauale",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Vali kõik",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Lülita kosmeetilist filtreerimist",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Lülita blokeerimisprofiili",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "Rahulik blokeerimisrežiim",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Mahtu kasutatud: {{value}} {{unit}}",

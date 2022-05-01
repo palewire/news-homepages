@@ -40,7 +40,7 @@
     "description": "appears as tab name in dashboard"
   },
   "whitelistPageName": {
-    "message": "Доверени сайтове",
+    "message": "Изключения",
     "description": "appears as tab name in dashboard"
   },
   "shortcutsPageName": {
@@ -53,10 +53,6 @@
   },
   "aboutPageName": {
     "message": "Относно",
-    "description": "appears as tab name in dashboard"
-  },
-  "supportPageName": {
-    "message": "Поддръжка",
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Преглед на дневника със заявки",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "Докладване на проблем с този уебсайт",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Превключване блокирането на всички изскачащи прозорци за този сайт",
@@ -276,11 +268,11 @@
     "description": "Example of use: Version 1.26.4"
   },
   "popup3pScriptFilterTip": {
-    "message": "↑: Открояване на редовете, в които има скриптове на 3-ти страни",
+    "message": "↑: Подчертаване на редовете, които имат скриптове на 3-ти страни",
     "description": "Tooltip shown when hovering small filtering widget in '3rd-party scripts' cell"
   },
   "popup3pFrameFilterTip": {
-    "message": "↑: Открояване на редовете, в които има рамки на 3-ти страни",
+    "message": "↑: Подчертаване на редовете, които имат рамки на 3-ти страни",
     "description": "Tooltip shown when hovering small filtering widget in '3rd-party frames' cell"
   },
   "pickerCreate": {
@@ -312,7 +304,7 @@
     "description": "English: Click, Ctrl-click"
   },
   "pickerContextMenuEntry": {
-    "message": "Блокиране на елемент…",
+    "message": "Блокиране на елемент...",
     "description": "An entry in the browser's contextual menu"
   },
   "settingsCollapseBlockedPrompt": {
@@ -332,28 +324,20 @@
     "description": "English: Make use of context menu where appropriate"
   },
   "settingsColorBlindPrompt": {
-    "message": "Достъпност за хора с нарушено цветоусещане",
+    "message": "Достъпност за хора с цветна слепота",
     "description": "English: Color-blind friendly"
-  },
-  "settingsAppearance": {
-    "message": "Външен вид",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Тема",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Потребителски цвят на акцента",
-    "description": "Label for checkbox to pick an accent color"
   },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Включване на поддръжка за съхранение в облак",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
-    "message": "Аз съм опитен потребител",
-    "description": "Checkbox to let user access advanced, technical features"
+    "message": "Аз съм опитен потребител (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>Допълнително четиво</a>)",
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "разширени настройки",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Изключване на предварителното извличане (за избягване на всяка връзка за блокираните мрежови заявки)",
@@ -399,18 +383,6 @@
     "message": "Разкриване на каноничните имена",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Разширени",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Функции, подходящи само за технически грамотни потребители",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "разширени настройки",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "Последно възстановяване:",
     "description": "English: Last restore:"
@@ -444,7 +416,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "Козметичните филтри служат за скриване на елементи в уебстраницата, които се считат за визуално неприятни и които не могат да бъдат блокирани от механизмите за филтриране, базирани на мрежови заявки.",
+    "message": "<p>Настройката разрешава синтактично обособяване и налагане на <a href=\"https://adblockplus.org/en/faq_internal#elemhide\"> съвместими с Adblock Plus филтри за &ldquo;скриване на елементи&rdquo;</a>. Козметични по същество, филтрите скриват визуално неприятни елементи в страницата, които иначе не се блокират от системата за филтриране по мрежова заявка.</p><p>Разрешаването ѝ ще увеличи ползваната от uBlock₀ памет.</p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -452,12 +424,8 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "Общокозметични са филтрите, предназначени за прилагане във всички сайтове. Разрешаването на тази опция ще премахне натоварването на паметта и процесора, добавено към уеб страниците в резултат на обработката на общите козметични филтри.",
+    "message": "<p>Общокозметични са филтрите, предназначени за прилагане във всички сайтове.<p>И макар че се ползват ефективно в uBlock₀, те могат съществено да увеличат натоварването на паметта и процесора в определени страници, особено в такива обемисти и дългозареждащи се.<p>Разрешаването ѝ ще премахне натоварването им в тях, поради начина на боравене с общокозметични филтри, както и ще намали ползваната от uBlock₀ памет.<p>Ползването на настройката се препоръчва при по-слаби устройства.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Преустановяване на мрежовата дейност, докато се заредят всички списъци с филтри",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "Списъци на блокираните хостове",
@@ -528,7 +496,7 @@
     "description": "used as a tooltip for error icon beside a list"
   },
   "1pFormatHint": {
-    "message": "Един филтър на ред. Това може да бъде обикновен адрес или филтър, съвместим с EasyList. Редовете с представка <code>!</code> ще бъдат игнорирани.",
+    "message": "Един филтър на ред. Това може да бъде обикновен адрес или съвместим с Adblock Plus филтър. Редовете с представка &lsquo;!&rsquo; ще бъдат игнорирани.",
     "description": "Short information about how to create custom filters"
   },
   "1pImport": {
@@ -612,8 +580,8 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Указанията за доверени сайтове определят кои уеб страници трябва да бъдат изключени от uBlock Origin. По един запис на ред.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "message": "Списък на адресите, за които uBlock Origin ще бъде изключен. Един елемент на ред. Недействителните адреси ще бъдат пренебрегнати.",
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Внасяне от файл...",
@@ -624,7 +592,7 @@
     "description": "English: Export"
   },
   "whitelistExportFilename": {
-    "message": "ublock-доверени_сайтове_{{datetime}}.txt",
+    "message": "ublock-изключения_{{datetime}}.txt",
     "description": "The default filename to use for import/export purpose"
   },
   "whitelistApply": {
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Отваряне",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Нов доклад",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Намиране на подобни доклади",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Документация",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Прочетете документацията в <code>uBlock/wiki</code>, за да научите повече за всички функции на uBlock Origin.",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Въпроси и поддръжка",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Отговори на въпроси и други видове помощ се предоставят в Reddit <code>/r/uBlockOrigin</code>",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Проблеми с филтъра/уебсайтът е счупен",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Докладвайте за проблеми с филтрирането на конкретни уебсайтове в <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code> за проследяване на проблеми</span>. <u>Изисква се акаунт в GitHub.</u>",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Важно:</b> Избягвайте да използвате други блокери с подобно предназначение заедно с uBlock Origin, тъй като това може да доведе до проблеми с филтрирането на определени уебсайтове.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Съвети:</b> Уверете се, че списъците ви с филтри са актуални. <span data-url=\"logger-ui.html#_\">Дневникът</span> е основният инструмент за диагностициране на проблеми, свързани с филтрите.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Доклад за грешка",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Докладвайте за проблеми със самия uBlock Origin в <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> за проследяване на проблеми</span>. <u>Изисква се акаунт в GitHub.</u>",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Информация за отстраняване на неизправности",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "По-долу е представена техническа информация, която може да е полезна, когато доброволците се опитват да ви помогнат да разрешите даден проблем.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Важно:</b> Потенциално лична или чувствителна информация се редактира по подразбиране. Редактираната информация може да затрудни решаването на даден проблем.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Докладване на проблем с филтъра",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "За да се избегне натоварването на доброволците с дублиращи се доклади, моля, проверете дали проблемът все още не е докладван.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Адрес на уеб страницата:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "Уеб страницата...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Изберете запис --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Показва реклами или остатъци от реклами",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Има наслагвания или други неудобства",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Открива uBlock Origin",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Има проблеми, свързани с поверителността",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Функционира неправилно, когато uBlock Origin е активиран",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Отваря нежелани раздели или прозорци",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "Маркиране на уеб страницата като &ldquo;NSFW&rdquo; (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">&ldquo;не е безопасна за работа&rdquo;</a>)",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Редактиран вид",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Нередактиран вид",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Политика за поверителност",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Списък с промени",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Wiki",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Поддръжка",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Проследяване и докладване на проблеми",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Изходен код (GPLv3)",
@@ -1031,14 +891,6 @@
     "message": "Външни зависимости (съвместими с GPLv3):",
     "description": "Shown in the About pane"
   },
-  "aboutCDNs": {
-    "message": "Собствените списъци с филтри на uBO се хостват свободно на следните <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDN-и</a>:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "Ще бъде използван случайно избран CDN, когато трябва да се обнови списък с филтри",
-    "description": "Shown in the About pane"
-  },
   "aboutBackupDataButton": {
     "message": "Изнасяне във файл",
     "description": "Text for button to create a backup of all settings"
@@ -1048,7 +900,7 @@
     "description": "English: my-ublock-backup_{{datetime}}.txt"
   },
   "aboutRestoreDataButton": {
-    "message": "Възстановяване от файл...",
+    "message": "Внасяне от файл...",
     "description": "English: Restore from file..."
   },
   "aboutResetDataButton": {
@@ -1072,7 +924,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "Добавяне на следния адрес към списъците с потребителски филтри?\n\nИме: \"{{title}}\"\nURL адрес: {{url}}",
+    "message": "uBlock₀: Добавяне на следния адрес към потребителският списък с филтри?\n\nИме: \"{{title}}\"\nURL адрес: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1215,17 +1067,13 @@
     "message": "Копиране в клипборда",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Избиране на всичко",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Превключване на козметичното филтриране",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Превключване на профила за блокиране",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "Отпуснат режим на блокиране",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Използвано пространство: {{value}} {{unit}}",

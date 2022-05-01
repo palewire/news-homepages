@@ -19,29 +19,26 @@
     Home: https://github.com/gorhill/uBlock
 */
 
+/******************************************************************************/
+
 'use strict';
 
 /******************************************************************************/
 
-import µb from './background.js';
-import { hostnameFromURI } from './uri-utils.js';
-
-/******************************************************************************/
-
-µb.canUseShortcuts = vAPI.commands instanceof Object;
+µBlock.canUseShortcuts = vAPI.commands instanceof Object;
 
 // https://github.com/uBlockOrigin/uBlock-issues/issues/386
-//   Firefox 74 and above has complete shortcut assignment user interface.
-µb.canUpdateShortcuts = false;
-
-if (
-    µb.canUseShortcuts &&
+//   Firefox 74 and above has complete shotcut assignment user interface.
+µBlock.canUpdateShortcuts =
+    µBlock.canUseShortcuts &&
     vAPI.webextFlavor.soup.has('firefox') &&
-    typeof vAPI.commands.update === 'function'
-) {
+    typeof vAPI.commands.update === 'function';
+
+if ( µBlock.canUpdateShortcuts ) {
     self.addEventListener(
         'webextFlavor',
         ( ) => {
+            const µb = µBlock;
             µb.canUpdateShortcuts = vAPI.webextFlavor.major < 74;
             if ( µb.canUpdateShortcuts === false ) { return; }
             vAPI.storage.get('commandShortcuts').then(bin => {
@@ -65,7 +62,7 @@ if (
 // *****************************************************************************
 // start of local namespace
 
-if ( µb.canUseShortcuts === false ) { return; }
+if ( µBlock.canUseShortcuts === false ) { return; }
 
 const relaxBlockingMode = (( ) => {
     const reloadTimers = new Map();
@@ -73,11 +70,12 @@ const relaxBlockingMode = (( ) => {
     return function(tab) {
         if ( tab instanceof Object === false || tab.id <= 0 ) { return; }
 
-        const normalURL = µb.normalizeTabURL(tab.id, tab.url);
+        const µb = µBlock;
+        const normalURL = µb.normalizePageURL(tab.id, tab.url);
 
         if ( µb.getNetFilteringSwitch(normalURL) === false ) { return; }
 
-        const hn = hostnameFromURI(normalURL);
+        const hn = µb.URI.hostnameFromURI(normalURL);
         const curProfileBits = µb.blockingModeFromHostname(hn);
         let newProfileBits;
         for ( const profile of µb.liveBlockingProfiles ) {
@@ -160,21 +158,13 @@ const relaxBlockingMode = (( ) => {
 })();
 
 vAPI.commands.onCommand.addListener(async command => {
-    // Generic commands
-    if ( command === 'open-dashboard' ) {
-        µb.openNewTab({
-            url: 'dashboard.html',
-            select: true,
-            index: -1,
-        });
-        return;
-    }
-    // Tab-specific commands
-    const tab = await vAPI.tabs.getCurrent();
-    if ( tab instanceof Object === false ) { return; }
+    const µb = µBlock;
+
     switch ( command ) {
     case 'launch-element-picker':
     case 'launch-element-zapper': {
+        const tab = await vAPI.tabs.getCurrent();
+        if ( tab instanceof Object === false ) { return; }
         µb.epickerArgs.mouse = false;
         µb.elementPickerExec(
             tab.id,
@@ -185,6 +175,8 @@ vAPI.commands.onCommand.addListener(async command => {
         break;
     }
     case 'launch-logger': {
+        const tab = await vAPI.tabs.getCurrent();
+        if ( tab instanceof Object === false ) { return; }
         const hash = tab.url.startsWith(vAPI.getURL(''))
             ? ''
             : `#_+${tab.id}`;
@@ -195,14 +187,16 @@ vAPI.commands.onCommand.addListener(async command => {
         });
         break;
     }
-    case 'relax-blocking-mode':
-        relaxBlockingMode(tab);
-        break;
-    case 'toggle-cosmetic-filtering':
-        µb.toggleHostnameSwitch({
-            name: 'no-cosmetic-filtering',
-            hostname: hostnameFromURI(µb.normalizeTabURL(tab.id, tab.url)),
+    case 'open-dashboard': {
+        µb.openNewTab({
+            url: 'dashboard.html',
+            select: true,
+            index: -1,
         });
+        break;
+    }
+    case 'relax-blocking-mode':
+        relaxBlockingMode(await vAPI.tabs.getCurrent());
         break;
     default:
         break;

@@ -41,11 +41,10 @@ a {
     width: 100%;
     }
 #warningSign > a {
-    fill: rgb(var(--yellow-50));
+    fill: var(--yellow-50);
     font-size: 96px;
     }
 #theURL {
-    color: var(--ink-2);
     padding: 0;
     }
 #theURL > * {
@@ -55,36 +54,39 @@ a {
     position: relative;
     z-index: 10;
     }
-#theURL #toggleParse {
+#theURL > p > span:last-of-type {
     background-color: transparent;
     top: 100%;
     box-sizing: border-box;
-    color: var(--ink-3);
-        fill: var(--ink-3);
+    color: var(--fg-0-60);
     cursor: pointer;
+    fill: var(--fg-0-60);
     font-size: 1.2rem;
     padding: var(--default-gap-xxsmall);
     position: absolute;
     transform: translate(0, -50%);
     }
-#theURL:not(.collapsed) #toggleParse > span:first-of-type {
+#theURL:not(.collapsed) > p > span:last-of-type > span:first-of-type {
     display: none;
     }
-#theURL.collapsed #toggleParse > span:last-of-type {
+#theURL.collapsed > p > span:last-of-type > span:last-of-type {
     display: none;
     }
-body[dir="ltr"] #toggleParse {
+body[dir="ltr"] #theURL > p > span:last-of-type {
     right: 0;
     }
-body[dir="rtl"] #toggleParse {
+body[dir="rtl"] #theURL > p > span:last-of-type {
     left: 0;
     }
-#theURL > p:hover #toggleParse {
-    transform: translate(0, -50%) scale(1.15);
+#theURL > p:hover > span {
+    color: var(--default-ink);
+    fill: var(--default-ink);
     }
 #parsed {
-    background-color: var(--surface-1);
-    border: 4px solid var(--surface-2);
+    background-color: var(--bg-1);
+    border: 1px solid var(--bg-code);
+    border-top: none;
+    color: var(--fg-0-80);
     font-size: small;
     overflow-x: auto;
     padding: var(--default-gap-xxsmall);

@@ -23,11 +23,14 @@
 
 /******************************************************************************/
 
-import {
-    hostnameFromURI,
-    domainFromHostname,
-    originFromURI,
-} from './uri-utils.js';
+{
+// >>>>> start of local scope
+
+/******************************************************************************/
+
+const originFromURI = µBlock.URI.originFromURI;
+const hostnameFromURI = vAPI.hostnameFromURI;
+const domainFromHostname = vAPI.domainFromHostname;
 
 /******************************************************************************/
 
@@ -130,6 +133,68 @@ const FilteringContext = class {
         return (this.itype & FONT_ANY) !== 0;
     }
 
+    fromTabId(tabId) {
+        const tabContext = µBlock.tabContextManager.mustLookup(tabId);
+        this.tabOrigin = tabContext.origin;
+        this.tabHostname = tabContext.rootHostname;
+        this.tabDomain = tabContext.rootDomain;
+        this.tabId = tabContext.tabId;
+        return this;
+    }
+
+    // https://github.com/uBlockOrigin/uBlock-issues/issues/459
+    //   In case of a request for frame and if ever no context is specified,
+    //   assume the origin of the context is the same as the request itself.
+    fromWebrequestDetails(details) {
+        const tabId = details.tabId;
+        this.type = details.type;
+        if ( this.itype === MAIN_FRAME && tabId > 0 ) {
+            µBlock.tabContextManager.push(tabId, details.url);
+        }
+        this.fromTabId(tabId); // Must be called AFTER tab context management
+        this.realm = '';
+        this.id = details.requestId;
+        this.setURL(details.url);
+        this.aliasURL = details.aliasURL || undefined;
+        if ( this.itype !== SUB_FRAME ) {
+            this.docId = details.frameId;
+            this.frameId = -1;
+        } else {
+            this.docId = details.parentFrameId;
+            this.frameId = details.frameId;
+        }
+        if ( this.tabId > 0 ) {
+            if ( this.docId === 0 ) {
+                this.docOrigin = this.tabOrigin;
+                this.docHostname = this.tabHostname;
+                this.docDomain = this.tabDomain;
+            } else if ( details.documentUrl !== undefined ) {
+                this.setDocOriginFromURL(details.documentUrl);
+            } else {
+                const pageStore = µBlock.pageStoreFromTabId(this.tabId);
+                const docStore = pageStore && pageStore.getFrameStore(this.docId);
+                if ( docStore ) {
+                    this.setDocOriginFromURL(docStore.rawURL);
+                } else {
+                    this.setDocOrigin(this.tabOrigin);
+                }
+            }
+        } else if ( details.documentUrl !== undefined ) {
+            const origin = originFromURI(
+                µBlock.normalizePageURL(0, details.documentUrl)
+            );
+            this.setDocOrigin(origin).setTabOrigin(origin);
+        } else if ( this.docId === -1 || (this.itype & FRAME_ANY) !== 0 ) {
+            const origin = originFromURI(this.url);
+            this.setDocOrigin(origin).setTabOrigin(origin);
+        } else {
+            this.setDocOrigin(this.tabOrigin);
+        }
+        this.redirectURL = undefined;
+        this.filter = undefined;
+        return this;
+    }
+
     fromFilteringContext(other) {
         this.realm = other.realm;
         this.type = other.type;
@@ -147,13 +212,6 @@ const FilteringContext = class {
         this.tabDomain = other.tabDomain;
         this.redirectURL = other.redirectURL;
         this.filter = undefined;
-        return this;
-    }
-
-    fromDetails({ originURL, url, type }) {
-        this.setDocOriginFromURL(originURL)
-            .setURL(url)
-            .setType(type);
         return this;
     }
 
@@ -273,6 +331,12 @@ const FilteringContext = class {
     }
 
     getTabOrigin() {
+        if ( this.tabOrigin === undefined ) {
+            const tabContext = µBlock.tabContextManager.mustLookup(this.tabId);
+            this.tabOrigin = tabContext.origin;
+            this.tabHostname = tabContext.rootHostname;
+            this.tabDomain = tabContext.rootDomain;
+        }
         return this.tabOrigin;
     }
 
@@ -358,6 +422,29 @@ const FilteringContext = class {
         }
         return this;
     }
+
+    toLogger() {
+        this.tstamp = Date.now();
+        if ( this.domain === undefined ) {
+            void this.getDomain();
+        }
+        if ( this.docDomain === undefined ) {
+            void this.getDocDomain();
+        }
+        if ( this.tabDomain === undefined ) {
+            void this.getTabDomain();
+        }
+        const logger = µBlock.logger;
+        const filters = this.filter;
+        // Many filters may have been applied to the current context
+        if ( Array.isArray(filters) === false ) {
+            return logger.writeOne(this);
+        }
+        for ( const filter of filters ) {
+            this.filter = filter;
+            logger.writeOne(this);
+        }
+    }
 };
 
 /******************************************************************************/
@@ -388,4 +475,8 @@ FilteringContext.prototype.SCRIPT_ANY = FilteringContext.SCRIPT_ANY = SCRIPT_ANY
 
 /******************************************************************************/
 
-export { FilteringContext };
+µBlock.FilteringContext = FilteringContext;
+µBlock.filteringContext = new FilteringContext();
+
+// <<<<< end of local scope
+}

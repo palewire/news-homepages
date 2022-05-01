@@ -22,67 +22,70 @@
 'use strict';
 
 /******************************************************************************/
-
-let buffer = null;
-let lastReadTime = 0;
-let writePtr = 0;
-
-// After 30 seconds without being read, a buffer will be considered
-// unused, and thus removed from memory.
-const logBufferObsoleteAfter = 30 * 1000;
-
-const janitor = ( ) => {
-    if (
-        buffer !== null &&
-        lastReadTime < (Date.now() - logBufferObsoleteAfter)
-    ) {
-        logger.enabled = false;
-        buffer = null;
-        writePtr = 0;
-        logger.ownerId = undefined;
-        vAPI.messaging.broadcast({ what: 'loggerDisabled' });
-    }
-    if ( buffer !== null ) {
-        vAPI.setTimeout(janitor, logBufferObsoleteAfter);
-    }
-};
-
-const boxEntry = function(details) {
-    if ( details.tstamp === undefined ) {
-        details.tstamp = Date.now();
-    }
-    return JSON.stringify(details);
-};
-
-const logger = {
-    enabled: false,
-    ownerId: undefined,
-    writeOne: function(details) {
-        if ( buffer === null ) { return; }
-        const box = boxEntry(details);
-        if ( writePtr === buffer.length ) {
-            buffer.push(box);
-        } else {
-            buffer[writePtr] = box;
-        }
-        writePtr += 1;
-    },
-    readAll: function(ownerId) {
-        this.ownerId = ownerId;
-        if ( buffer === null ) {
-            this.enabled = true;
-            buffer = [];
-            vAPI.setTimeout(janitor, logBufferObsoleteAfter);
-        }
-        const out = buffer.slice(0, writePtr);
-        writePtr = 0;
-        lastReadTime = Date.now();
-        return out;
-    },
-};
-
 /******************************************************************************/
 
-export default logger;
+µBlock.logger = (function() {
+
+    let buffer = null;
+    let lastReadTime = 0;
+    let writePtr = 0;
+
+    // After 60 seconds without being read, a buffer will be considered
+    // unused, and thus removed from memory.
+    const logBufferObsoleteAfter = 30 * 1000;
+
+    const janitor = ( ) => {
+        if (
+            buffer !== null &&
+            lastReadTime < (Date.now() - logBufferObsoleteAfter)
+        ) {
+            api.enabled = false;
+            buffer = null;
+            writePtr = 0;
+            api.ownerId = undefined;
+            vAPI.messaging.broadcast({ what: 'loggerDisabled' });
+        }
+        if ( buffer !== null ) {
+            vAPI.setTimeout(janitor, logBufferObsoleteAfter);
+        }
+    };
+
+    const boxEntry = function(details) {
+        if ( details.tstamp === undefined ) {
+            details.tstamp = Date.now();
+        }
+        return JSON.stringify(details);
+    };
+
+    const api = {
+        enabled: false,
+        ownerId: undefined,
+        writeOne: function(details) {
+            if ( buffer === null ) { return; }
+            const box = boxEntry(details);
+            if ( writePtr === buffer.length ) {
+                buffer.push(box);
+            } else {
+                buffer[writePtr] = box;
+            }
+            writePtr += 1;
+        },
+        readAll: function(ownerId) {
+            this.ownerId = ownerId;
+            if ( buffer === null ) {
+                this.enabled = true;
+                buffer = [];
+                vAPI.setTimeout(janitor, logBufferObsoleteAfter);
+            }
+            const out = buffer.slice(0, writePtr);
+            writePtr = 0;
+            lastReadTime = Date.now();
+            return out;
+        },
+    };
+
+    return api;
+
+})();
 
 /******************************************************************************/

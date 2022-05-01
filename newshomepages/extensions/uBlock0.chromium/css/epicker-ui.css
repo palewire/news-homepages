@@ -1,7 +1,9 @@
 html#ublock0-epicker,
 #ublock0-epicker body {
     background: transparent;
+    color: var(--default-ink);
     cursor: not-allowed;
+    font: 12px sans-serif;
     height: 100vh;
     margin: 0;
     overflow: hidden;
@@ -11,8 +13,8 @@ html#ublock0-epicker,
     outline: none;
 }
 #ublock0-epicker aside {
-    background-color: var(--surface-1);
-    border: 1px solid var(--border-2);
+    background-color: var(--default-surface);
+    border: 1px solid var(--default-surface-border);
     bottom: 2px;
     box-sizing: border-box;
     cursor: default;
@@ -30,21 +32,42 @@ html#ublock0-epicker,
     display: block;
 }
 #ublock0-epicker #toolbar {
+    cursor: grab;
     display: flex;
 }
 #ublock0-epicker ul {
     margin: 0.25em 0 0 0;
+}
+#ublock0-epicker button {
+    background-color: var(--button-surface);
+    border: 0;
+    border-radius: 3px;
+    box-sizing: border-box;
+    box-shadow: none;
+    color: var(--button-ink);
+    cursor: pointer;
+    padding: 0.4em 0.8em;
+}
+#ublock0-epicker button:disabled {
+    color: var(--button-disabled-ink);
+    background-color: var(--button-disabled-surface);
+}
+#ublock0-epicker button:not(:disabled):hover {
+    background-color: var(--button-surface-hover);
+}
+#ublock0-epicker #create:not(:disabled) {
+    background-color: var(--button-important-surface);
+}
+#ublock0-epicker #create:not(:disabled):hover {
+    background-color: var(--button-important-surface-hover);
 }
 #ublock0-epicker.preview #preview {
     background-color: var(--button-preferred-surface);
     color: var(--button-preferred-ink);
 }
 #ublock0-epicker #move {
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAFElEQVQI12NgwAfKy8v/M5ANYLoBshgEyQo6H9UAAAAASUVORK5CYII=');
     cursor: grab;
     flex-grow: 1;
-    margin: 2px 4px;
-    opacity: 0.8;
     }
 #ublock0-epicker aside.moving #move {
     cursor: grabbing;
@@ -56,16 +79,17 @@ html#ublock0-epicker,
     width: 100%;
 }
 #ublock0-epicker section > div:first-child {
-    border: 1px solid var(--surface-3);
+    border: 1px solid var(--default-surface-border);
     margin: 0;
     position: relative;
 }
 #ublock0-epicker section.invalidFilter > div:first-child {
-    border-color: var(--error-surface);
+    border-color: red;
 }
 #ublock0-epicker section .codeMirrorContainer {
     border: none;
     box-sizing: border-box;
+    font: 11px monospace;
     height: 8em;
     max-height: 50vh;
     min-height: 1em;
@@ -79,8 +103,7 @@ html#ublock0-epicker,
 
 #ublock0-epicker section .resultsetWidgets {
     display: flex;
-    font-size: var(--font-size-smaller);
-    }
+}
 #resultsetModifiers {
     align-items: flex-end;
     display: inline-flex;
@@ -108,7 +131,7 @@ html#ublock0-epicker,
     }
 .resultsetModifier  > span > span:nth-of-type(1) {
     background-color: var(--checkbox-checked-ink);
-    border-inline-end: 1px solid var(--surface-3);
+    border-inline-end: 1px solid #aaa;
     display: inline-block;
     flex-shrink: 0;
     height: 6px;
@@ -129,8 +152,8 @@ html#ublock0-epicker,
     width: 16px;
     }
 .resultsetModifier  > span > span:nth-of-type(3) {
-    background-color: var(--surface-3);
-    border-inline-start: 1px solid var(--surface-3);
+    background-color: var(--checkbox-ink);
+    border-inline-start: 1px solid #aaa;
     display: inline-block;
     flex-grow: 1;
     height: 6px;
@@ -148,15 +171,14 @@ html#ublock0-epicker,
     }
 #resultsetCount {
     align-items: center;
-    background-color: var(--surface-3);
-    color: var(--ink-1);
+    background-color: #aaa;
+    color: white;
     display: inline-flex;
     justify-content: center;
     min-width: 2.2em;
     }
 #ublock0-epicker section.invalidFilter #resultsetCount {
-    background-color: var(--error-surface);
-    color: var(--ink-100);
+    background-color: red;
 }
 #ublock0-epicker section > div:first-child + div {
     direction: ltr;
@@ -193,14 +215,14 @@ html#ublock0-epicker,
     border: 1px solid transparent;
     cursor: pointer;
     direction: ltr;
-    font: 12px monospace;
+    font: 11px monospace;
     white-space: nowrap;
 }
 #ublock0-epicker #candidateFilters .changeFilter li.active {
-    border: 1px dotted rgb(var(--blue-50));
+    border: 1px dotted var(--blue-50);
     }
 #ublock0-epicker #candidateFilters .changeFilter li:hover {
-    background-color: var(--surface-2);
+    background-color: var(--default-surface-hover);
 }
 
 /**

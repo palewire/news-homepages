@@ -25,7 +25,7 @@
 
 /******************************************************************************/
 
-import { hostnameFromURI } from './uri-utils.js';
+(( ) => {
 
 /******************************************************************************/
 
@@ -344,7 +344,7 @@ const processLoggerEntries = function(response) {
 /******************************************************************************/
 
 const parseLogEntry = function(details) {
-    // Patch realm until changed all over codebase to make this unnecessary
+    // Patch realm until changed all over codebase to make this unecessary
     if ( details.realm === 'cosmetic' ) {
         details.realm = 'extended';
     }
@@ -490,7 +490,7 @@ const viewPort = (( ) => {
         vwContent.style.top = `${lastTopPix}px`;
     };
 
-    // Coalesce scroll events
+    // Coallesce scroll events
     const onScroll = function() {
         if ( scrollTimer !== undefined ) { return; }
         scrollTimer = setTimeout(
@@ -696,7 +696,7 @@ const viewPort = (( ) => {
             if ( filteringType === 'static' ) {
                 divcl.add('canLookup');
             } else if ( details.realm === 'extended' ) {
-                divcl.toggle('canLookup', /^#@?#/.test(filter.raw));
+                divcl.add('canLookup');
                 divcl.toggle('isException', filter.raw.startsWith('#@#'));
             }
             if ( filter.modifier === true ) {
@@ -1005,7 +1005,7 @@ const onLogBufferRead = function(response) {
     processLoggerEntries(response);
 
     // Synchronize DOM with sent logger data
-    document.documentElement.classList.toggle(
+    document.body.classList.toggle(
         'colorBlind',
         response.colorBlind === true
     );
@@ -1143,7 +1143,6 @@ const reloadTab = function(ev) {
         'css': 'stylesheet',
         'frame': 'subdocument',
         'object_subrequest': 'object',
-        'csp_report': 'other',
     };
     const createdStaticFilters = {};
 
@@ -1384,7 +1383,7 @@ const reloadTab = function(ev) {
             return;
         }
 
-        // Highlight corresponding element in target web page
+        // Hightlight corresponding element in target web page
         if ( tcl.contains('picker') ) {
             ev.stopPropagation();
             messaging.send('loggerUI', {
@@ -1677,8 +1676,8 @@ const reloadTab = function(ev) {
         const aliasURL = text ? aliasURLFromID(text) : '';
         if ( aliasURL !== '' ) {
             rows[8].children[1].textContent =
-                hostnameFromURI(aliasURL) + ' \u21d2\n\u2003' +
-                hostnameFromURI(canonicalURL);
+                vAPI.hostnameFromURI(aliasURL) + ' \u21d2\n\u2003' +
+                vAPI.hostnameFromURI(canonicalURL);
             rows[9].children[1].textContent = aliasURL;
         } else {
             rows[8].style.display = 'none';
@@ -1779,13 +1778,12 @@ const reloadTab = function(ev) {
                 nodes.push(select);
                 break;
 
-            case '{{type}}': {
-                const filterType = staticFilterTypes[targetType] || targetType;
+            case '{{type}}':
                 select = document.createElement('select');
                 select.className = 'static type';
                 option = document.createElement('option');
-                option.setAttribute('value', filterType);
-                option.textContent = vAPI.i18n('loggerStaticFilteringSentencePartType').replace('{{type}}', filterType);
+                option.setAttribute('value', targetType);
+                option.textContent = vAPI.i18n('loggerStaticFilteringSentencePartType').replace('{{type}}', targetType);
                 select.appendChild(option);
                 option = document.createElement('option');
                 option.setAttribute('value', '');
@@ -1793,7 +1791,7 @@ const reloadTab = function(ev) {
                 select.appendChild(option);
                 nodes.push(select);
                 break;
-            }
+
             case '{{url}}':
                 select = document.createElement('select');
                 select.className = 'static url';
@@ -2891,3 +2889,5 @@ if ( self.location.search.includes('popup=1') ) {
 }
 
 /******************************************************************************/
+
+})();

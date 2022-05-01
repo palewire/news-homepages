@@ -25,11 +25,11 @@
     <p class="vverbose"><span data-i18n="whitelistPrompt"></span> <a class="fa-icon info important" href="https://github.com/gorhill/uBlock/wiki/Dashboard:-Trusted-sites">info-circle</a>
     </p>
     <p>
-        <button id="whitelistApply" class="preferred iconified" type="button" disabled><span class="fa-icon">check</span><span data-i18n="whitelistApply">_</span><span class="hover"></span></button>
-        <button id="whitelistRevert" class="iconified" type="button" disabled><span class="fa-icon">undo</span><span data-i18n="genericRevert">_</span><span class="hover"></span></button>
+        <button id="whitelistApply" class="important iconifiable" type="button" disabled><span class="fa-icon">check</span><span data-i18n="whitelistApply"></span></button>
+        <button id="whitelistRevert" class="iconifiable" type="button" disabled><span class="fa-icon">undo</span><span data-i18n="genericRevert"></span></button>
         &emsp;&emsp;
-        <button id="importWhitelistFromFile" class="iconified" type="button"><span class="fa-icon">download-alt</span><span data-i18n="whitelistImport">_</span><span class="hover"></span></button>
-        <button id="exportWhitelistToFile" class="iconified" type="button"><span class="fa-icon">upload-alt</span><span data-i18n="whitelistExport">_</span><span class="hover"></span></button>
+        <button id="importWhitelistFromFile" class="iconifiable" type="button"><span class="fa-icon">download-alt</span><span data-i18n="whitelistImport"></span></button>
+        <button id="exportWhitelistToFile" class="iconifiable" type="button"><span class="fa-icon">upload-alt</span><span data-i18n="whitelistExport"></span></button>
     </p>
 </div>
 <div id="whitelist" class="codeMirrorContainer"></div>
@@ -43,7 +43,7 @@
 <script src="lib/codemirror/addon/scroll/annotatescrollbar.js"></script>
 <script src="lib/codemirror/addon/search/searchcursor.js"></script>
 <script src="lib/codemirror/addon/selection/active-line.js"></script>
-<script src="lib/hsluv/hsluv-0.1.0.min.js"></script>
+<script src="lib/punycode.js"></script>
 
 <script src="js/codemirror/search.js"></script>
 <script src="js/codemirror/search-thread.js"></script>

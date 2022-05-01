@@ -1,6 +1,11 @@
 body > div.body {
     padding: 0 0.5em;
     }
+@media screen and (max-device-width: 960px) {
+    body {
+        zoom: 1.4;
+        }
+    }
 h2, h3 {
     margin: 1em 0;
     }
@@ -14,23 +19,27 @@ a {
     text-decoration: none;
     }
 .fa-icon.info {
-    color: var(--info0-ink);
-        fill: var(--info0-ink);
+    color: var(--fg-icon-info-lvl-0-dimmed);
+    fill: var(--fg-icon-info-lvl-0-dimmed);
     font-size: 115%;
     }
 .fa-icon.info:hover {
-    transform: scale(1.25);
+    color: inherit;
+    fill: inherit;
     }
 .fa-icon.info.important {
-    color: var(--info2-ink);
-        fill: var(--info2-ink);
+    color: var(--fg-icon-info-lvl-3-dimmed);
+    fill: var(--fg-icon-info-lvl-3-dimmed);
     }
-.fa-icon.info.very-important {
-    color: var(--info3-ink);
-        fill: var(--info3-ink);
+.fa-icon.info.important:hover {
+    color: var(--fg-icon-info-lvl-3);
+    fill: var(--fg-icon-info-lvl-3);
     }
 input[type="number"] {
     width: 5em;
+    }
+input[type="checkbox"][disabled] + * {
+    color: var(--fg-0-50);
     }
 @media (max-height: 640px), (max-height: 800px) and (max-width: 480px) {
     .body > p,

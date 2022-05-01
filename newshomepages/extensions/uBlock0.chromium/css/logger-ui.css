@@ -12,7 +12,7 @@ textarea {
     width: 100%;
     }
 .permatoolbar {
-    background-color: var(--surface-1);
+    background-color: var(--default-surface);
     border: 0;
     box-sizing: border-box;
     display: flex;
@@ -25,21 +25,29 @@ textarea {
 .permatoolbar > div {
     display: flex;
     }
-.permatoolbar button.iconified {
-    padding-left: var(--default-gap-xsmall);
-    padding-right: var(--default-gap-xsmall);
+.permatoolbar .button {
+    cursor: pointer;
+    font-size: 150%;
+    padding: 0.25em;
     }
-.permatoolbar button.active {
-    fill: rgb(var(--primary-50));
+.permatoolbar .button.active {
+    fill: #5F9EA0;
     }
-.permatoolbar button > .fa-icon {
-    font-size: 180%;
+.permatoolbar .button:hover {
+    background-color: var(--default-surface-hover);
     }
 #pageSelector {
     min-width: 10em;
     padding: 0.25em 0;
     width: 50vw;
     }
+body[dir="ltr"] #pageSelector {
+    margin-right: 1em;
+    }
+body[dir="rtl"] #pageSelector {
+    margin-left: 1em;
+    }
+
 #showpopup {
     display: inline-flex;
     align-items: center;
@@ -72,15 +80,15 @@ textarea {
 .vscrollable {
     direction: ltr;
     flex-grow: 1;
-    font-size: var(--font-size-smaller);
+    font-size: small;
     overflow-x: hidden;
     overflow-y: auto;
 }
 
-.inspector:not(.vExpanded) button.vCompactToggler > .fa-icon {
+.inspector:not(.vExpanded) .vCompactToggler.button {
     transform: scaleY(-1)
     }
-.hCompact button.hCompactToggler > .fa-icon {
+.hCompact .hCompactToggler.button {
     transform: scaleX(-1)
     }
 
@@ -88,13 +96,13 @@ textarea {
     display: none;
     }
 
-#netInspector #pause > .fa-icon[data-i18n-title="loggerUnpauseTip"] {
+#netInspector #pause > span:last-of-type {
     display: none;
 }
-#netInspector.paused #pause > .fa-icon[data-i18n-title="loggerPauseTip"] {
+#netInspector.paused #pause > span:first-of-type {
     display: none;
 }
-#netInspector.paused #pause > .fa-icon[data-i18n-title="loggerUnpauseTip"] {
+#netInspector.paused #pause > span:last-of-type {
     display: inline-flex;
     fill: #5F9EA0;
 }
@@ -127,7 +135,7 @@ textarea {
     transform: scaleY(1);
     }
 #netInspector #filterExprPicker {
-    background-color: var(--surface-0);
+    background-color: var(--default-surface);
     border: 1px solid gray;
     display: none;
     position: absolute;
@@ -175,12 +183,12 @@ body[dir="rtl"] #netInspector #filterExprPicker {
     margin: 0;
     }
 #netInspector #filterExprPicker span[data-filtex]:hover {
-    background-color: rgb(var(--primary-70) / 25%);
-    border: 1px solid rgb(var(--primary-70));
+    background-color: aliceblue;
+    border: 1px solid lightblue;
     }
 #netInspector #filterExprPicker span.on[data-filtex] {
-    background-color: rgb(var(--primary-70) / 40%);
-    border: 1px solid rgb(var(--primary-70));
+    background-color: lightblue;
+    border: 1px solid lightblue;
     }
 
 #netInspector .vscrollable {
@@ -225,35 +233,43 @@ body[dir="rtl"] #netInspector #filterExprPicker {
     }
 #vwRenderer .logEntry > div[data-status="1"],
 #netFilteringDialog > .panes > .details > div[data-status="1"] {
-    background-color: rgb(var(--popup-cell-block-surface-rgb) / 50%);
+    background-color: var(--logger-blocked-surface);
     }
 #vwRenderer .logEntry > div[data-status="1"][data-modifier],
 #netFilteringDialog > .panes > .details > div[data-status="1"][data-modifier] {
     background-color: var(--logger-modified-surface);
     }
+body.colorBlind #vwRenderer .logEntry > div[data-status="1"],
+body.colorBlind #netFilteringDialog > .panes > .details > div[data-status="1"] {
+    background-color: rgba(0, 19, 110, 0.1);
+    }
 #vwRenderer .logEntry > div[data-status="3"] {
     background-color: rgba(108, 108, 108, 0.1);
     }
-:root.colorBlind #vwRenderer .logEntry > div[data-status="3"] {
+body.colorBlind #vwRenderer .logEntry > div[data-status="3"] {
     background-color: rgba(96, 96, 96, 0.1);
     }
 #vwRenderer .logEntry > div[data-status="2"],
 #netFilteringDialog > .panes > .details > div[data-status="2"] {
-    background-color: rgb(var(--popup-cell-allow-surface-rgb) / 50%);
+    background-color: var(--logger-allowed-surface);
+    }
+body.colorBlind #vwRenderer .logEntry > div[data-status="2"],
+body.colorBlind #netFilteringDialog > .panes > .details > div[data-status="2"] {
+    background-color: rgba(255, 194, 57, 0.1)
     }
 #vwRenderer .logEntry > div[data-tabid="-1"] {
     text-shadow: 0 0.2em 0.4em #aaa;
     }
 #vwRenderer .logEntry > div.extendedRealm,
 #vwRenderer .logEntry > div.redirect {
-    background-color: var(--logger-redirected-surface);
+    background-color: rgba(255, 255, 0, 0.1);
     }
-:root.colorBlind #vwRenderer .logEntry > div.extendedRealm,
-:root.colorBlind #vwRenderer .logEntry > div.redirect {
+body.colorBlind #vwRenderer .logEntry > div.extendedRealm,
+body.colorBlind #vwRenderer .logEntry > div.redirect {
     background-color: rgba(0, 19, 110, 0.1);
     }
 #vwRenderer .logEntry > div[data-aliasid] {
-    color: var(--popup-cell-cname-ink);
+    color: mediumblue;
     }
 #vwRenderer .logEntry > div[data-type="tabLoad"] {
     background-color: #666;
@@ -266,14 +282,14 @@ body[dir="rtl"] #netInspector #filterExprPicker {
     color: #008;
     }
 #vwRenderer .logEntry > div.voided {
-    opacity: 0.5;
+    opacity: 0.3;
     }
 #vwRenderer .logEntry > div.voided:hover {
     opacity: 0.7;
     }
 
 #vwRenderer .logEntry > div > span {
-    border: 1px dotted var(--border-1);
+    border: 1px solid #ccc;
     border-top: 0;
     border-right: 0;
     box-sizing: border-box;
@@ -368,21 +384,29 @@ body[dir="rtl"] #vwRenderer .logEntry > div > span:first-child {
     }
 #vwRenderer .logEntry > div[data-status="1"] > span:nth-of-type(7) b,
 #netFilteringDialog > .panes > .details > div[data-status="1"] b {
-    background-color: rgb(var(--popup-cell-block-surface-rgb) / 100%);
+    background-color: var(--logger-blocked-em-surface);
     }
 #vwRenderer .logEntry > div[data-status="1"][data-modifier] > span:nth-of-type(7) b,
 #netFilteringDialog > .panes > .details > div[data-status="1"][data-modifier] b {
     background-color: var(--logger-modified-em-surface);
     }
+body.colorBlind #vwRenderer .logEntry > div[data-status="1"] > span:nth-of-type(7) b,
+body.colorBlind #netFilteringDialog > .panes > .details > div[data-status="1"] b {
+    background-color: rgba(0, 19, 110, 0.2);
+    }
 #vwRenderer .logEntry > div[data-status="3"] > span:nth-of-type(7) b {
     background-color: rgba(108, 108, 108, 0.2);
     }
-:root.colorBlind #vwRenderer .logEntry > div[data-status="3"] > span:nth-of-type(7) b {
+body.colorBlind #vwRenderer .logEntry > div[data-status="3"] > span:nth-of-type(7) b {
     background-color: rgba(96, 96, 96, 0.2);
     }
 #vwRenderer .logEntry > div[data-status="2"] > span:nth-of-type(7) b,
 #netFilteringDialog > .panes > .details > div[data-status="2"] b {
-    background-color: rgb(var(--popup-cell-allow-surface-rgb) / 100%);
+    background-color: var(--logger-allowed-em-surface);
+    }
+body.colorBlind #vwRenderer .logEntry > div[data-status="2"] > span:nth-of-type(7) b,
+body.colorBlind #netFilteringDialog > .panes > .details > div[data-status="2"] b {
+    background-color: rgba(255, 194, 57, 0.2);
     }
 #vwRenderer .logEntry > div > span:nth-of-type(7) a {
     background-color: dimgray;
@@ -429,7 +453,7 @@ body[dir="rtl"] #vwRenderer .logEntry > div > span:first-child {
     }
 
 #popupContainer {
-    background-color: var(--surface-1);
+    background-color: var(--default-surface);
     border: 1px solid gray;
     bottom: 0;
     display: none;
@@ -465,7 +489,7 @@ body[dir="rtl"] #vwRenderer .logEntry > div > span:first-child {
     position: relative;
     }
 #modalOverlay > div > div:nth-of-type(1) {
-    background-color: var(--surface-1);
+    background-color: var(--default-surface);
     border: 0;
     box-sizing: border-box;
     padding: 1em;
@@ -474,13 +498,13 @@ body[dir="rtl"] #vwRenderer .logEntry > div > span:first-child {
     width: 90vw;
     }
 #modalOverlay > div > div:nth-of-type(2) {
-    stroke: var(--ink-1);
+    stroke: var(--default-ink);
     stroke-width: 3px;
     position: absolute;
     width: 1.6em;
     height: 1.6em;
     bottom: calc(100% + 2px);
-    background-color: var(--surface-1);
+    background-color: var(--default-surface);
     }
 body[dir="ltr"] #modalOverlay > div > div:nth-of-type(2) {
     right: 0;
@@ -489,7 +513,7 @@ body[dir="rtl"] #modalOverlay > div > div:nth-of-type(2) {
     left: 0;
     }
 #modalOverlay > div > div:nth-of-type(2):hover {
-    background-color: var(--surface-2);
+    background-color: var(--default-surface-hover);
     }
 #modalOverlay > div > div:nth-of-type(2) > * {
     pointer-events: none;
@@ -539,22 +563,23 @@ body[dir="rtl"] #modalOverlay > div > div:nth-of-type(2) {
     max-height: 20vh;
     }
 #netFilteringDialog > .preview > span {
-    background-color: var(--surface-3);
+    background-color: white;
     cursor: pointer;
-    padding: 1em;
+    padding: 0.5em;
     }
 
 #netFilteringDialog > .headers {
-    border-bottom: 1px solid var(--border-4);
+    border-bottom: 1px solid #888;
     line-height: 2;
     position: relative;
     }
 #netFilteringDialog > .headers > .header {
-    border: 1px solid var(--border-2);
-    border-bottom: 1px solid var(--border-4);
+    background-color: #eee;
+    border: 1px solid #aaa;
+    border-bottom: 1px solid #888;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
-    color: var(--border-2);
+    color: #888;
     cursor: pointer;
     display: inline-block;
     padding: 0 1em;
@@ -565,10 +590,10 @@ body[dir="rtl"] #modalOverlay > div > div:nth-of-type(2) {
 #netFilteringDialog[data-pane="details"] > .headers > [data-pane="details"],
 #netFilteringDialog[data-pane="dynamic"] > .headers > [data-pane="dynamic"],
 #netFilteringDialog[data-pane="static"] > .headers > [data-pane="static"] {
-    background-color: var(--surface-1);
-    border-color: var(--border-4);
-    border-bottom: 1px solid transparent;
-    color: var(--ink-1);
+    background-color: white;
+    border-color: #888;
+    border-bottom: 1px solid white;
+    color: black;
     }
 #netFilteringDialog > .headers > .tools {
     bottom: 0;
@@ -582,16 +607,13 @@ body[dir="rtl"] #netFilteringDialog > .headers > .tools {
     left: 0;
     }
 #netFilteringDialog > .headers > .tools > span {
-    color: var(--ink-4);
-        fill: var(--ink-4);
     cursor: pointer;
     font-size: 1.5em;
     padding: 0 0.25em;
     text-align: center;
     }
 #netFilteringDialog > .headers > .tools > span:hover {
-    color: var(--ink-1);
-        fill: var(--ink-1);
+    background-color: #eee;
     }
 #netFilteringDialog.extendedRealm > .headers > .dynamic,
 #netFilteringDialog.extendedRealm > .panes > .dynamic {
@@ -615,13 +637,12 @@ body[dir="rtl"] #netFilteringDialog > .headers > .tools {
 #netFilteringDialog[data-pane="static"] > .panes > [data-pane="static"] {
     display: flex;
     flex-direction: column;
-    padding: 0 var(--default-gap-xsmall);
     }
 #netFilteringDialog > .panes > .details > div {
     align-items: stretch;
-    background-color: var(--surface-2);
+    background-color: #e6e6e6;
     border: 0;
-    border-bottom: 1px solid var(--surface-0);
+    border-bottom: 1px solid white;
     display: flex;
     }
 #netFilteringDialog > .panes > .details > div > span {
@@ -635,10 +656,10 @@ body[dir="rtl"] #netFilteringDialog > .headers > .tools {
     width: 8em;
     }
 body[dir="ltr"] #netFilteringDialog > .panes > .details > div > span:nth-of-type(1) {
-    border-right: 1px solid var(--surface-0);
+    border-right: 1px solid white;
     }
 body[dir="rtl"] #netFilteringDialog > .panes > .details > div > span:nth-of-type(1) {
-    border-left: 1px solid var(--surface-0);
+    border-left: 1px solid white;
     }
 #netFilteringDialog > .panes > .details > div > span:nth-of-type(2) {
     flex-grow: 1;
@@ -659,7 +680,7 @@ body[dir="rtl"] #netFilteringDialog > .panes > .details > div > span:nth-of-type
     }
 #netFilteringDialog > .panes > .details .exceptor {
     align-items: center;
-    border-left: 1px solid var(--surface-0);
+    border-left: 1px solid white;
     cursor: pointer;
     display: inline-flex;
     font-family: monospace;
@@ -672,7 +693,7 @@ body[dir="rtl"] #netFilteringDialog > .panes > .details > div > span:nth-of-type
     text-decoration: line-through;
     }
 #netFilteringDialog > .panes > .details .exceptored .exceptor {
-    background-color: rgb(var(--primary-50) / 50%);
+    background-color: lightblue;
     }
 #netFilteringDialog > .panes > .details .exceptor::before {
     content: '#@#';
@@ -694,10 +715,10 @@ body[dir="rtl"] #netFilteringDialog > .panes > .details > div > span:nth-of-type
     width: 4.5em;
     }
 body[dir="ltr"] #netFilteringDialog > div.panes > .dynamic .row > span:nth-of-type(1) {
-    border-right: 1px solid var(--surface-0);
+    border-right: 1px solid white;
     }
 body[dir="rtl"] #netFilteringDialog > div.panes > .dynamic .row > span:nth-of-type(1) {
-    border-left: 1px solid var(--surface-0);
+    border-left: 1px solid white;
     }
 #netFilteringDialog > div.panes > .dynamic .row > span:nth-of-type(2) {
     align-self: center;
@@ -723,12 +744,12 @@ body.dirty #netFilteringDialog > div.panes > .dynamic > .toolbar #saveRules {
     display: none;
     }
 #netFilteringDialog > div.panes > .dynamic .entry {
-    background-color: var(--surface-2);
+    background-color: #e6e6e6;
     border: 0;
-    border-bottom: 1px solid var(--surface-0);
+    border-bottom: 1px solid white;
     }
 #netFilteringDialog > div.panes > .dynamic .entry:hover {
-    background-color: var(--surface-3);
+    background-color: #f0f0f0;
     }
 #netFilteringDialog > div.panes > .dynamic .entry > .action {
     background-color: transparent;
@@ -747,35 +768,35 @@ body.dirty #netFilteringDialog > div.panes > .dynamic > .toolbar #saveRules {
 #netFilteringDialog > div.panes > .dynamic .entry > .action.allow {
     background-color: rgba(0, 160, 0, 0.3);
     }
-:root.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.allow {
+body.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.allow {
     background-color: rgba(255, 194, 57, 0.4);
     }
 #netFilteringDialog > div.panes > .dynamic .entry > .action.noop {
     background-color: rgba(108, 108, 108, 0.3);
     }
-:root.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.noop {
+body.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.noop {
     background-color: rgba(96, 96, 96, 0.4);
     }
 #netFilteringDialog > div.panes > .dynamic .entry > .action.block {
     background-color: rgba(192, 0, 0, 0.3);
     }
-:root.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.block {
+body.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.block {
     background-color: rgba(0, 19, 110, 0.4);
     }
 #netFilteringDialog > div.panes > .dynamic .entry > .action.own.allow {
     background-color: rgba(0, 160, 0, 1);
     }
-:root.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.own.allow {
+body.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.own.allow {
     background-color: rgba(255, 194, 57, 1);
     }
 #netFilteringDialog > div.panes > .dynamic .entry > .action.own.noop,
-:root.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.own.noop {
+body.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.own.noop {
     background-color: rgba(108, 108, 108, 1);
     }
 #netFilteringDialog > div.panes > .dynamic .entry > .action.own.block {
     background-color: rgba(192, 0, 0, 1);
     }
-:root.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.own.block {
+body.colorBlind #netFilteringDialog > div.panes > .dynamic .entry > .action.own.block {
     background-color: rgba(0, 19, 110, 1);
     }
 #netFilteringDialog > div.panes > .dynamic .entry > .action:not(.own):hover > span {
@@ -788,7 +809,7 @@ body.dirty #netFilteringDialog > div.panes > .dynamic > .toolbar #saveRules {
 #netFilteringDialog > div.panes > .dynamic .entry > .action > .allow {
     background-color: rgb(0, 160, 0);
     }
-:root.colorBlind  #netFilteringDialog > div.panes > .dynamic .entry > .action > .allow {
+body.colorBlind  #netFilteringDialog > div.panes > .dynamic .entry > .action > .allow {
     background-color: rgb(255, 194, 57);
     }
 #netFilteringDialog > div.panes > .dynamic .entry > .action > .noop {
@@ -797,7 +818,7 @@ body.dirty #netFilteringDialog > div.panes > .dynamic > .toolbar #saveRules {
 #netFilteringDialog > div.panes > .dynamic .entry > .action > .block {
     background-color: rgb(192, 0, 0);
     }
-:root.colorBlind  #netFilteringDialog > div.panes > .dynamic .entry > .action > .block {
+body.colorBlind  #netFilteringDialog > div.panes > .dynamic .entry > .action > .block {
     background-color: rgb(0, 19, 110);
     }
 #netFilteringDialog > div.panes > .dynamic .entry > .url {
@@ -892,7 +913,7 @@ body.dirty #netFilteringDialog > div.panes > .dynamic > .toolbar #saveRules {
     display: inline-flex;
     }
 #loggerExportDialog .options span[data-i18n] {
-    border: 1px solid rgb(var(--primary-70));
+    border: 1px solid lightblue;
     cursor: pointer;
     font-size: 90%;
     margin: 0;
@@ -900,11 +921,11 @@ body.dirty #netFilteringDialog > div.panes > .dynamic > .toolbar #saveRules {
     white-space: nowrap;
     }
 #loggerExportDialog .options span[data-i18n]:hover {
-    background-color: rgb(var(--primary-70) / 40%);
+    background-color: aliceblue;
     }
 #loggerExportDialog .options span.on[data-i18n],
 #loggerExportDialog .options span.pushbutton:active {
-    background-color: rgb(var(--primary-70) / 40%);
+    background-color: lightblue;
     }
 #loggerExportDialog .output {
     font: smaller mono;

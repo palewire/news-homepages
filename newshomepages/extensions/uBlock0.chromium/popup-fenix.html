@@ -4,10 +4,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/themes/default.css">
-<link rel="stylesheet" href="css/common.css">
-<link rel="stylesheet" href="css/fa-icons.css">
-<link rel="stylesheet" href="css/popup-fenix.css">
+<link rel="stylesheet" type="text/css" href="css/themes/default.css">
+<link rel="stylesheet" href="css/common.css" type="text/css">
+<link rel="stylesheet" href="css/fa-icons.css" type="text/css">
+<link rel="stylesheet" href="css/popup-fenix.css" type="text/css">
 <title data-i18n="extName"></title>
 </head>
 
@@ -41,6 +41,7 @@
             </div>
             <div id="hostname"><span></span>&shy;<span></span></div>
         </div>
+        <hr data-more="d">
         <div id="extraTools" class="toolRibbon" data-more="d">
             <span id="no-popups" class="hnSwitch tool enabled" role="button" aria-label tabindex="0" title><span class="fa-icon fa-icon-badged">ph-popups<svg class="nope" viewBox="0 0 20 20"><path d="M1,1 19,19M1,19 19,1" /></svg></span><span class="caption" data-i18n="popupNoPopups_v2"></span></span>
             <span id="no-large-media" class="hnSwitch tool enabled" role="button" aria-label tabindex="0" title><span class="fa-icon fa-icon-badged">film<svg class="nope" viewBox="0 0 20 20"><path d="M1,1 19,19M1,19 19,1" /></svg></span><span class="caption" data-i18n="popupNoLargeMedia_v2"></span></span>
@@ -54,10 +55,10 @@
             <span data-i18n="popupDomainsConnected_v2"></span><span></span>
             <span data-i18n="popupBlockedSinceInstall_v2" data-more="b"></span><span data-more="b"></span>
         </div>
+        <hr data-more="c">
         <div id="basicTools" class="toolRibbon" data-more="c">
-            <span id="gotoZap" class="fa-icon tool enabled needPick" data-i18n-title="popupTipZapper">bolt<span class="caption" data-i18n="popupTipZapper"></span></span>
-            <span id="gotoPick" class="fa-icon tool enabled needPick" data-i18n-title="popupTipPicker">eye-dropper<span class="caption" data-i18n="popupTipPicker"></span></span>
-            <span id="gotoReport" class="fa-icon tool enabled needPick" data-i18n-title="popupTipReport">comment-alt<span class="caption" data-i18n="popupTipReport"></span></span>
+            <span id="gotoZap" class="fa-icon tool" data-i18n-title="popupTipZapper">bolt<span class="caption" data-i18n="popupTipZapper"></span></span>
+            <span id="gotoPick" class="fa-icon tool" data-i18n-title="popupTipPicker">eye-dropper<span class="caption" data-i18n="popupTipPicker"></span></span>
             <a href="logger-ui.html#_" class="fa-icon tool enabled" target="uBOLogger" tabindex="0" data-i18n-title="popupTipLog">list-alt<span class="caption" data-i18n="popupTipLog"></span></a>
             <a href="dashboard.html" class="fa-icon tool enabled" target="uBODashboard" tabindex="0" data-i18n-title="popupTipDashboard">cogs<span class="caption" data-i18n="popupTipDashboard"></span></a>
         </div>
@@ -65,8 +66,8 @@
         <div class="itemRibbon" data-more="f">
             <span data-i18n="popupVersion"></span><span id="version"></span>
         </div>
-        <hr data-more="g">
-        <div id="moreOrLess" class="">
+        <hr>
+        <div id="moreOrLess">
             <span id="moreButton">
                 <span data-i18n="popupMoreButton_v2"></span>&emsp;<span class="fa-icon">angle-up</span>
             </span>
@@ -84,25 +85,23 @@
         <div data-des="*" data-type="3p-script"><span><span class="filter" data-i18n-title="popup3pScriptFilterTip"></span><span data-i18n="popup3pScriptRulePrompt"></span></span><span data-src="/"> </span><span data-src="."> </span></div>
         <div data-des="*" data-type="3p-frame"><span><span class="filter" data-i18n-title="popup3pFrameFilterTip"></span><span data-i18n="popup3pFrameRulePrompt"></span></span><span data-src="/"> </span><span data-src="."> </span></div>
     </div>
-    <div id="firewall-vspacer"></div>
 </div>
 
 <div id="templates" style="display: none">
-    <div data-des="" data-type="*"><span><span><span></span></span><sub></sub></span><span data-src="/"></span><span data-src="."></span></div>
+    <div data-des="" data-type="*"><span><span></span><sub></sub></span><span data-src="/"></span><span data-src="."></span></div>
     <div id="actionSelector"><span id="dynaAllow"></span><span id="dynaNoop"></span><span id="dynaBlock"></span><span id="dynaCounts"></span></div>
     <div id="hotspotTip"></div>
     <div id="tooltip"></div>
 </div>
 
-<script src="lib/hsluv/hsluv-0.1.0.min.js"></script>
-
 <script src="js/fa-icons.js"></script>
+<script src="lib/punycode.js"></script>
 <script src="js/vapi.js"></script>
 <script src="js/vapi-common.js"></script>
 <script src="js/vapi-client.js"></script>
 <script src="js/udom.js"></script>
 <script src="js/i18n.js"></script>
-<script src="js/popup-fenix.js" type="module"></script>
+<script src="js/popup-fenix.js"></script>
 
 </body>
 

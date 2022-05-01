@@ -19,9 +19,14 @@
     Home: https://github.com/gorhill/uBlock
 */
 
-/* globals WebAssembly, vAPI */
+/* globals WebAssembly */
 
 'use strict';
+
+// *****************************************************************************
+// start of local namespace
+
+{
 
 /*******************************************************************************
 
@@ -125,7 +130,7 @@ const toSegmentInfo = (aL, l, r) => ((r - l) << 24) | (aL + l);
 const roundToPageSize = v => (v + PAGE_SIZE-1) & ~(PAGE_SIZE-1);
 
 
-class BidiTrieContainer {
+µBlock.BidiTrieContainer = class {
 
     constructor(extraHandler) {
         const len = PAGE_SIZE * 4;
@@ -177,19 +182,6 @@ class BidiTrieContainer {
         this.lastStoredLen = this.lastStoredIndex = 0;
     }
 
-    createTrie() {
-        // grow buffer if needed
-        if ( (this.buf32[CHAR0_SLOT] - this.buf32[TRIE1_SLOT]) < CELL_BYTE_LENGTH ) {
-            this.growBuf(CELL_BYTE_LENGTH, 0);
-        }
-        const iroot = this.buf32[TRIE1_SLOT] >>> 2;
-        this.buf32[TRIE1_SLOT] += CELL_BYTE_LENGTH;
-        this.buf32[iroot+CELL_OR] = 0;
-        this.buf32[iroot+CELL_AND] = 0;
-        this.buf32[iroot+SEGMENT_INFO] = 0;
-        return iroot;
-    }
-
     matches(icell, ai) {
         const buf32 = this.buf32;
         const buf8 = this.buf8;
@@ -236,7 +228,7 @@ class BidiTrieContainer {
             }
             if ( al === aR ) { return 0; }
         }
-        return 0; // eslint-disable-line no-unreachable
+        return 0;
     }
 
     matchesLeft(icell, ar, r) {
@@ -280,7 +272,7 @@ class BidiTrieContainer {
                 if ( icell === 0 ) { return 0; }
             }
         }
-        return 0; // eslint-disable-line no-unreachable
+        return 0;
     }
 
     matchesExtra(l, r, ix) {
@@ -297,9 +289,25 @@ class BidiTrieContainer {
         return 1;
     }
 
-    get $l() { return this.buf32[RESULT_L_SLOT] | 0; }
-    get $r() { return this.buf32[RESULT_R_SLOT] | 0; }
-    get $iu() { return this.buf32[RESULT_IU_SLOT] | 0; }
+    createOne(args) {
+        if ( Array.isArray(args) ) {
+            return new this.STrieRef(this, args[0], args[1]);
+        }
+        // grow buffer if needed
+        if ( (this.buf32[CHAR0_SLOT] - this.buf32[TRIE1_SLOT]) < CELL_BYTE_LENGTH ) {
+            this.growBuf(CELL_BYTE_LENGTH, 0);
+        }
+        const iroot = this.buf32[TRIE1_SLOT] >>> 2;
+        this.buf32[TRIE1_SLOT] += CELL_BYTE_LENGTH;
+        this.buf32[iroot+CELL_OR] = 0;
+        this.buf32[iroot+CELL_AND] = 0;
+        this.buf32[iroot+SEGMENT_INFO] = 0;
+        return new this.STrieRef(this, iroot, 0);
+    }
+
+    compileOne(trieRef) {
+        return [ trieRef.iroot, trieRef.size ];
+    }
 
     add(iroot, aL0, n, pivot = 0) {
         const aR = n;
@@ -510,7 +518,6 @@ class BidiTrieContainer {
                     }
                     // TODO: we should never reach here because there will
                     // always be a boundary cell.
-                    // eslint-disable-next-line no-debugger
                     debugger; // jshint ignore:line
                     // boundary cell + needle remainder
                     inext = this.addCell(0, 0, 0);
@@ -556,14 +563,6 @@ class BidiTrieContainer {
             }
             //debugger; // jshint ignore:line
         }
-    }
-
-    getExtra(iboundary) {
-        return this.buf32[iboundary+BCELL_EXTRA];
-    }
-
-    setExtra(iboundary, v) {
-        this.buf32[iboundary+BCELL_EXTRA] = v;
     }
 
     optimize(shrink = false) {
@@ -698,69 +697,10 @@ class BidiTrieContainer {
         return -1;
     }
 
-    dumpTrie(iroot) {
-        for ( const s of this.trieIterator(iroot) ) {
-            console.log(s);
-        }
-    }
-
-    trieIterator(iroot) {
-        return {
-            value: undefined,
-            done: false,
-            next() {
-                if ( this.icell === 0 ) {
-                    if ( this.forks.length === 0 ) {
-                        this.value = undefined;
-                        this.done = true;
-                        return this;
-                    }
-                    this.charPtr = this.forks.pop();
-                    this.icell = this.forks.pop();
-                }
-                for (;;) {
-                    const idown = this.container.buf32[this.icell+CELL_OR];
-                    if ( idown !== 0 ) {
-                        this.forks.push(idown, this.charPtr);
-                    }
-                    const v = this.container.buf32[this.icell+SEGMENT_INFO];
-                    let i0 = this.container.buf32[CHAR0_SLOT] + (v & 0x00FFFFFF);
-                    const i1 = i0 + (v >>> 24);
-                    while ( i0 < i1 ) {
-                        this.charBuf[this.charPtr] = this.container.buf8[i0];
-                        this.charPtr += 1;
-                        i0 += 1;
-                    }
-                    this.icell = this.container.buf32[this.icell+CELL_AND];
-                    if ( this.icell === 0 ) {
-                        return this.toPattern();
-                    }
-                    if ( this.container.buf32[this.icell+SEGMENT_INFO] === 0 ) {
-                        this.icell = this.container.buf32[this.icell+CELL_AND];
-                        return this.toPattern();
-                    }
-                }
-            },
-            toPattern() {
-                this.value = this.textDecoder.decode(
-                    new Uint8Array(this.charBuf.buffer, 0, this.charPtr)
-                );
-                return this;
-            },
-            container: this,
-            icell: iroot,
-            charBuf: new Uint8Array(256),
-            charPtr: 0,
-            forks: [],
-            textDecoder: new TextDecoder(),
-            [Symbol.iterator]() { return this; },
-        };
-    }
-
-    async enableWASM(wasmModuleFetcher, path) {
+    async enableWASM() {
         if ( typeof WebAssembly !== 'object' ) { return false; }
         if ( this.wasmMemory instanceof WebAssembly.Memory ) { return true; }
-        const module = await getWasmModule(wasmModuleFetcher, path);
+        const module = await getWasmModule();
         if ( module instanceof WebAssembly.Module === false ) { return false; }
         const memory = new WebAssembly.Memory({
             initial: roundToPageSize(this.buf8.length) >>> 16
@@ -790,13 +730,6 @@ class BidiTrieContainer {
         this.indexOf = instance.exports.indexOf;
         this.lastIndexOf = instance.exports.lastIndexOf;
         return true;
-    }
-
-    dumpInfo() {
-        return [
-            `Buffer size (Uint8Array): ${this.buf32[CHAR1_SLOT].toLocaleString('en')}`,
-            `WASM: ${this.wasmMemory === null ? 'disabled' : 'enabled'}`,
-        ].join('\n');
     }
 
     //--------------------------------------------------------------------------
@@ -887,7 +820,103 @@ class BidiTrieContainer {
             HAYSTACK_START + HAYSTACK_SIZE
         );
     }
-}
+};
+
+/*******************************************************************************
+
+    Class to hold reference to a specific trie
+
+*/
+
+µBlock.BidiTrieContainer.prototype.STrieRef = class {
+    constructor(container, iroot, size) {
+        this.container = container;
+        this.iroot = iroot;
+        this.size = size;
+    }
+
+    add(i, n, pivot = 0) {
+        const iboundary = this.container.add(this.iroot, i, n, pivot);
+        if ( iboundary !== 0 ) {
+            this.size += 1;
+        }
+        return iboundary;
+    }
+
+    getExtra(iboundary) {
+        return this.container.buf32[iboundary+BCELL_EXTRA];
+    }
+
+    setExtra(iboundary, v) {
+        this.container.buf32[iboundary+BCELL_EXTRA] = v;
+    }
+
+    matches(i) {
+        return this.container.matches(this.iroot, i);
+    }
+
+    dump() {
+        for ( const s of this ) {
+            console.log(s);
+        }
+    }
+
+    get $l() { return this.container.buf32[RESULT_L_SLOT] | 0; }
+    get $r() { return this.container.buf32[RESULT_R_SLOT] | 0; }
+    get $iu() { return this.container.buf32[RESULT_IU_SLOT] | 0; }
+
+    [Symbol.iterator]() {
+        return {
+            value: undefined,
+            done: false,
+            next: function() {
+                if ( this.icell === 0 ) {
+                    if ( this.forks.length === 0 ) {
+                        this.value = undefined;
+                        this.done = true;
+                        return this;
+                    }
+                    this.charPtr = this.forks.pop();
+                    this.icell = this.forks.pop();
+                }
+                for (;;) {
+                    const idown = this.container.buf32[this.icell+CELL_OR];
+                    if ( idown !== 0 ) {
+                        this.forks.push(idown, this.charPtr);
+                    }
+                    const v = this.container.buf32[this.icell+SEGMENT_INFO];
+                    let i0 = this.container.buf32[CHAR0_SLOT] + (v & 0x00FFFFFF);
+                    const i1 = i0 + (v >>> 24);
+                    while ( i0 < i1 ) {
+                        this.charBuf[this.charPtr] = this.container.buf8[i0];
+                        this.charPtr += 1;
+                        i0 += 1;
+                    }
+                    this.icell = this.container.buf32[this.icell+CELL_AND];
+                    if ( this.icell === 0 ) {
+                        return this.toPattern();
+                    }
+                    if ( this.container.buf32[this.icell+SEGMENT_INFO] === 0 ) {
+                        this.icell = this.container.buf32[this.icell+CELL_AND];
+                        return this.toPattern();
+                    }
+                }
+            },
+            toPattern: function() {
+                this.value = this.textDecoder.decode(
+                    new Uint8Array(this.charBuf.buffer, 0, this.charPtr)
+                );
+                return this;
+            },
+            container: this.container,
+            icell: this.iroot,
+            charBuf: new Uint8Array(256),
+            charPtr: 0,
+            forks: [],
+            textDecoder: new TextDecoder()
+        };
+    }
+};
 
 /******************************************************************************/
 
@@ -901,12 +930,30 @@ class BidiTrieContainer {
 const getWasmModule = (( ) => {
     let wasmModulePromise;
 
-    return async function(wasmModuleFetcher, path) {
+    // The directory from which the current script was fetched should also
+    // contain the related WASM file. The script is fetched from a trusted
+    // location, and consequently so will be the related WASM file.
+    let workingDir;
+    {
+        const url = new URL(document.currentScript.src);
+        const match = /[^\/]+$/.exec(url.pathname);
+        if ( match !== null ) {
+            url.pathname = url.pathname.slice(0, match.index);
+        }
+        workingDir = url.href;
+    }
+
+    return async function() {
         if ( wasmModulePromise instanceof Promise ) {
             return wasmModulePromise;
         }
 
-        if ( typeof WebAssembly !== 'object' ) { return; }
+        if (
+            typeof WebAssembly !== 'object' ||
+            typeof WebAssembly.compileStreaming !== 'function'
+        ) {
+            return;
+        }
 
         // Soft-dependency on vAPI so that the code here can be used outside of
         // uBO (i.e. tests, benchmarks)
@@ -919,14 +966,20 @@ const getWasmModule = (( ) => {
         uint32s[0] = 1;
         if ( uint8s[0] !== 1 ) { return; }
 
-        wasmModulePromise = wasmModuleFetcher(`${path}biditrie`).catch(reason => {
-            console.info(reason);
+        wasmModulePromise = fetch(
+            workingDir + 'wasm/biditrie.wasm',
+            { mode: 'same-origin' }
+        ).then(
+            WebAssembly.compileStreaming
+        ).catch(reason => {
+            log.info(reason);
         });
 
         return wasmModulePromise;
     };
 })();
 
-/******************************************************************************/
+// end of local namespace
+// *****************************************************************************
 
-export default BidiTrieContainer;
+}

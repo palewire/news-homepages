@@ -55,10 +55,6 @@
     "message": "Névjegy",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "Támogatás",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ - Eszköznézet",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Naplózott lekérések megtekintése",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "Az oldalon lévő probléma bejelentése",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Oldal összes felugró ablakának blokkolása/engedélyezése",
@@ -335,25 +327,17 @@
     "message": "Színvak-barát",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Kinézet",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Téma",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Custom accent color",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Felhőben tárolás bekapcsolása",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
     "message": "Haladó felhasználó vagyok (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>További tudnivalók</a>)",
-    "description": "Checkbox to let user access advanced, technical features"
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "haladó beállítások",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Előtöltés kikapcsolása (kapcsolódás megakadályozása blokkolt hálózati lekérésekhez)",
@@ -399,18 +383,6 @@
     "message": "Kanonikus nevek felfedése",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Advanced",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Features suitable only for technical users",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "haladó beállítások",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "Utolsó visszaállítás:",
     "description": "English: Last restore:"
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "<p>Az általános kozmetikai szűrők azok a kozmetikai szűrők, amelyek minden weboldalra érvényesek.<p>Ugyan a uBlock₀ hatékonyan kezeli őket, az általános kozmetikai szűrők mégis mérhetően magasabb memória és CPU használatot eredményezhetnek néhány weboldalon, főleg nagy, és régóta futóak esetében.<p>Ennek az opciónak a bekapcsolása kiküszöböli az általános kozmetikai szűrők kezeléséből a weboldalakon adódó memória és CPU használat többletet, továbbá csökkenti a uBlock₀ által foglalt memóriát is.<p>Ajánlott bekapcsolni ezt az opciót a gyengébb eszközökön.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Hálózati forgalom szüneteltetése, amíg a szűrőlisták be nem töltődtek",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "Blokkolt hostokat tartalmazó listák",
@@ -613,7 +581,7 @@
   },
   "whitelistPrompt": {
     "message": "Az alábbi listában felsorolt hostokon a kiegészítő nem fog működni. Soronként egy bejegyzés. Érvénytelen hostnevek figyelmen kívül maradnak.",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Importál és hozzáad",
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Megnyitás",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Hiba bejelentése",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Hasonló hibák keresése",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Dokumentáció",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Az uBlock Origin további funkcióihoz látogassa meg a dokumentációt itt: <code>uBlock/wiki</code>.",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Kérdések és támogatás",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "A felhasználói kérdésekre választ és további segítséget, támogatást az <code>/r/uBlockOrigin</code> subredditen nyújtunk.",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Szűrőhibák/a weboldal nem működik megfelelően",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Adott weboldalra vonatkozó szűrőhibákat jelentse a <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code> hibakövetőn</span>. GitHub-fiók szükséges.",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Fontos:</b> Ne használjon hasonló célú reklámblokkolókat az uBlock Originnal egyszerre, mert ez szűrőhibákat okozhat bizonyos weboldalakon.",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Tippek:</b> Bizonyosodjon meg arról, hogy a legfrissebb szűrőlistákat használja. <span data-url=\"logger-ui.html#_\">A napló<span> a legfontosabb eszköz a szűrőkkel kapcsolatos hibák diagnózisában.",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Hibajelentés",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Az uBlock Origin hibáit jelentse a <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> hibakövetőn</span>. GitHub-fiók szükséges.",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Hibakeresési információ",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Az alább található technikai információk segíthetnek önkénteseinknek megoldani a problémáját.",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Fontos:</b> Az esetlegesen személyes vagy érzékeny adatok alapértelmezésből rejtve vannak. Az elrejtett információk megnehezíthetik a probléma megoldását.",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Szűrőhibák bejelentése",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "Az önkéntesek terhelésének csökkentése érdekében győződjön meg róla, hogy a hiba még nem lett bejelentve.",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "A  weboldal címe:",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "A weboldal...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Válasszon egy opciót --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Hirdetéseket vagy hirdetés maradványokat jelenít meg",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Zavaró elemeket tartalmaz",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Érzékeli a uBlock Origin-t",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Adatvédelmi problémákat vet fel",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Hibásan működik, amikor az uBlock Origin be van kapcsolva",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Kéretlen lapokat vagy ablakokat nyit meg",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "A weboldal megjelölése felnőtt tartalomként",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Elrejtés",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Megjelenítés",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Adatvédelmi szabályzat",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Változások listája",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Wiki",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Támogatás",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Bugok és problémák",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Forráskód (GPLv3)",
@@ -1031,14 +891,6 @@
     "message": "Külső függőségek (GPLv3-kompatibilis):",
     "description": "Shown in the About pane"
   },
-  "aboutCDNs": {
-    "message": "Az uBO saját szűrőlistáit a következő ingyenes <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDN-ek (angol)</a> szolgáltatják:",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "A szűrőlisták frissítéséhez egy véletlenszerűen kiválasztott CDN-t használ a bővítmény",
-    "description": "Shown in the About pane"
-  },
   "aboutBackupDataButton": {
     "message": "Biztonsági mentés fájlba...",
     "description": "Text for button to create a backup of all settings"
@@ -1048,7 +900,7 @@
     "description": "English: my-ublock-backup_{{datetime}}.txt"
   },
   "aboutRestoreDataButton": {
-    "message": "Visszaállítás fájlból...",
+    "message": "Biztonsági mentés visszaállítása fájlból...",
     "description": "English: Restore from file..."
   },
   "aboutResetDataButton": {
@@ -1164,7 +1016,7 @@
     "description": "tooltip"
   },
   "cloudNoData": {
-    "message": "…\n…",
+    "message": "...\n...",
     "description": ""
   },
   "cloudDeviceNamePrompt": {
@@ -1215,17 +1067,13 @@
     "message": "Másolás a vágólapra",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Mindent kijelöl",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Toggle cosmetic filtering",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Profil blokkolás váltása",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "Relaxáló blokkolási mód",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Használt tárolás: {{value}} {{unit}}",

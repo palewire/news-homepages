@@ -40,7 +40,7 @@ if (
 
 vAPI.randomToken = function() {
     const n = Math.random();
-    return String.fromCharCode(n * 25 + 97) +
+    return String.fromCharCode(n * 26 + 97) +
         Math.floor(
             (0.25 + n * 0.75) * Number.MAX_SAFE_INTEGER
         ).toString(36).slice(-8);
@@ -97,12 +97,9 @@ vAPI.messaging = {
     //   as world-ending, i.e. stay around. Except for embedded frames.
 
     disconnectListener: function() {
-        void browser.runtime.lastError;
         this.port = null;
         if ( window !== window.top ) {
             vAPI.shutdown.exec();
-        } else {
-            this.destroyPort();
         }
     },
     disconnectListenerBound: null,
@@ -132,10 +129,11 @@ vAPI.messaging = {
     messageListenerBound: null,
 
     canDestroyPort: function() {
-        return this.pending.size === 0 && (
-            this.extensions.length === 0 ||
-            this.extensions.every(e => e.canDestroyPort())
-        );
+        return this.pending.size === 0 &&
+            (
+                this.extensions.length === 0 ||
+                this.extensions.every(e => e.canDestroyPort())
+            );
     },
 
     mustDestroyPort: function() {

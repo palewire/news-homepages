@@ -26,11 +26,13 @@
 
 /******************************************************************************/
 
-import webext from './webext.js';
-import { ubolog } from './console.js';
+{
+// >>>>> start of local scope
 
 /******************************************************************************/
+/******************************************************************************/
 
+const browser = self.browser;
 const manifest = browser.runtime.getManifest();
 
 vAPI.cantWebsocket =
@@ -40,10 +42,27 @@ vAPI.cantWebsocket =
 vAPI.canWASM = vAPI.webextFlavor.soup.has('chromium') === false;
 if ( vAPI.canWASM === false ) {
     const csp = manifest.content_security_policy;
-    vAPI.canWASM = csp !== undefined && csp.indexOf("'unsafe-eval'") !== -1;
+    vAPI.canWASM = csp !== undefined && csp.indexOf("'wasm-eval'") !== -1;
 }
 
 vAPI.supportsUserStylesheets = vAPI.webextFlavor.soup.has('user_stylesheet');
+
+// The real actual webextFlavor value may not be set in stone, so listen
+// for possible future changes.
+window.addEventListener('webextFlavor', function() {
+    vAPI.supportsUserStylesheets =
+        vAPI.webextFlavor.soup.has('user_stylesheet');
+}, { once: true });
+
+/******************************************************************************/
+
+vAPI.randomToken = function() {
+    const n = Math.random();
+    return String.fromCharCode(n * 26 + 97) +
+        Math.floor(
+            (0.25 + n * 0.75) * Number.MAX_SAFE_INTEGER
+        ).toString(36).slice(-8);
+};
 
 /******************************************************************************/
 
@@ -106,10 +125,82 @@ vAPI.browserSettings = (( ) => {
     if ( bp instanceof Object === false ) { return; }
 
     return {
-        // https://github.com/uBlockOrigin/uBlock-issues/issues/1723#issuecomment-919913361
-        canLeakLocalIPAddresses:
-            vAPI.webextFlavor.soup.has('firefox') &&
-            vAPI.webextFlavor.soup.has('mobile'),
+        // Whether the WebRTC-related privacy API is crashy is an open question
+        // only for Chromium proper (because it can be compiled without the
+        // WebRTC feature): hence avoid overhead of the evaluation (which uses
+        // an iframe) for platforms where it's a non-issue.
+        // https://github.com/uBlockOrigin/uBlock-issues/issues/9
+        //   Some Chromium builds are made to look like a Chrome build.
+        webRTCSupported: vAPI.webextFlavor.soup.has('chromium') === false || undefined,
+
+        // Calling with `true` means IP address leak is not prevented.
+        // https://github.com/gorhill/uBlock/issues/533
+        //   We must first check wether this Chromium-based browser was compiled
+        //   with WebRTC support. To do this, we use an iframe, this way the
+        //   empty RTCPeerConnection object we create to test for support will
+        //   be properly garbage collected. This prevents issues such as
+        //   a computer unable to enter into sleep mode, as reported in the
+        //   Chrome store:
+        // https://github.com/gorhill/uBlock/issues/533#issuecomment-167931681
+        setWebrtcIPAddress: function(setting) {
+            // We don't know yet whether this browser supports WebRTC: find out.
+            if ( this.webRTCSupported === undefined ) {
+                // If asked to leave WebRTC setting alone at this point in the
+                // code, this means we never grabbed the setting in the first
+                // place.
+                if ( setting ) { return; }
+                this.webRTCSupported = { setting: setting };
+                let iframe = document.createElement('iframe');
+                const messageHandler = ev => {
+                    if ( ev.origin !== self.location.origin ) { return; }
+                    window.removeEventListener('message', messageHandler);
+                    const setting = this.webRTCSupported.setting;
+                    this.webRTCSupported = ev.data === 'webRTCSupported';
+                    this.setWebrtcIPAddress(setting);
+                    iframe.parentNode.removeChild(iframe);
+                    iframe = null;
+                };
+                window.addEventListener('message', messageHandler);
+                iframe.src = 'is-webrtc-supported.html';
+                document.body.appendChild(iframe);
+                return;
+            }
+
+            // We are waiting for a response from our iframe. This makes the code
+            // safe to re-entrancy.
+            if ( typeof this.webRTCSupported === 'object' ) {
+                this.webRTCSupported.setting = setting;
+                return;
+            }
+
+            // https://github.com/gorhill/uBlock/issues/533
+            // WebRTC not supported: `webRTCMultipleRoutesEnabled` can NOT be
+            // safely accessed. Accessing the property will cause full browser
+            // crash.
+            if ( this.webRTCSupported !== true ) { return; }
+
+            const bpn = bp.network;
+
+            if ( setting ) {
+                bpn.webRTCIPHandlingPolicy.clear({
+                    scope: 'regular',
+                });
+            } else {
+                // https://github.com/uBlockOrigin/uAssets/issues/333#issuecomment-289426678
+                //   Leverage virtuous side-effect of strictest setting.
+                // https://github.com/gorhill/uBlock/issues/3009
+                //   Firefox currently works differently, use
+                //   `default_public_interface_only` for now.
+                // https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/network#Browser_compatibility
+                //   Firefox 70+ supports `disable_non_proxied_udp`
+                const value =
+                    vAPI.webextFlavor.soup.has('firefox') === false ||
+                    vAPI.webextFlavor.major < 70
+                        ? 'default_public_interface_only'
+                        : 'disable_non_proxied_udp';
+                bpn.webRTCIPHandlingPolicy.set({ value, scope: 'regular' });
+            }
+        },
 
         set: function(details) {
             for ( const setting in details ) {
@@ -145,36 +236,10 @@ vAPI.browserSettings = (( ) => {
                     }
                     break;
 
-                case 'webrtcIPAddress': {
-                    // https://github.com/uBlockOrigin/uBlock-issues/issues/1928
-                    // https://www.reddit.com/r/uBlockOrigin/comments/sl7p74/
-                    //   Hypothetical: some browsers _think_ uBO is still using
-                    //   the setting possibly based on cached state from the
-                    //   past, and making an explicit API call that uBO is not
-                    //   using the setting appears to solve those unexpected
-                    //   reported occurrences of uBO interfering despite never
-                    //   using the API.
-                    const mustEnable = !details[setting];
-                    if ( this.canLeakLocalIPAddresses === false ) {
-                        if ( mustEnable && vAPI.webextFlavor.soup.has('chromium') ) {
-                            bp.network.webRTCIPHandlingPolicy.clear({
-                                scope: 'regular',
-                            });
-                        }
-                        continue;
-                    }
-                    if ( mustEnable ) {
-                        bp.network.webRTCIPHandlingPolicy.set({
-                            value: 'default_public_interface_only',
-                            scope: 'regular'
-                        });
-                    } else {
-                        bp.network.webRTCIPHandlingPolicy.clear({
-                            scope: 'regular',
-                        });
-                    }
+                case 'webrtcIPAddress':
+                    this.setWebrtcIPAddress(!!details[setting]);
                     break;
-                }
+
                 default:
                     break;
                 }
@@ -206,26 +271,52 @@ const toTabId = function(tabId) {
 vAPI.Tabs = class {
     constructor() {
         browser.webNavigation.onCreatedNavigationTarget.addListener(details => {
-            this.onCreatedNavigationTargetHandler(details);
+            if ( typeof details.url !== 'string' ) {
+                details.url = '';
+            }
+            if ( /^https?:\/\//.test(details.url) === false ) {
+                details.frameId = 0;
+                details.url = this.sanitizeURL(details.url);
+                this.onNavigation(details);
+            }
+            this.onCreated(details);
         });
+
         browser.webNavigation.onCommitted.addListener(details => {
-            this.onCommittedHandler(details);
+            details.url = this.sanitizeURL(details.url);
+            this.onNavigation(details);
         });
+
+        // https://github.com/gorhill/uBlock/issues/3073
+        //   Fall back to `tab.url` when `changeInfo.url` is not set.
         browser.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
-            this.onUpdatedHandler(tabId, changeInfo, tab);
+            if ( typeof changeInfo.url !== 'string' ) {
+                changeInfo.url = tab && tab.url;
+            }
+            if ( changeInfo.url ) {
+                changeInfo.url = this.sanitizeURL(changeInfo.url);
+            }
+            this.onUpdated(tabId, changeInfo, tab);
         });
+
         browser.tabs.onActivated.addListener(details => {
             this.onActivated(details);
         });
+
         // https://github.com/uBlockOrigin/uBlock-issues/issues/151
         // https://github.com/uBlockOrigin/uBlock-issues/issues/680#issuecomment-515215220
         if ( browser.windows instanceof Object ) {
-            browser.windows.onFocusChanged.addListener(windowId => {
-                this.onFocusChangedHandler(windowId);
+            browser.windows.onFocusChanged.addListener(async windowId => {
+                if ( windowId === browser.windows.WINDOW_ID_NONE ) { return; }
+                const tabs = await vAPI.tabs.query({ active: true, windowId });
+                if ( tabs.length === 0 ) { return; }
+                const tab = tabs[0];
+                this.onActivated({ tabId: tab.id, windowId: tab.windowId });
             });
         }
+
         browser.tabs.onRemoved.addListener((tabId, details) => {
-            this.onRemovedHandler(tabId, details);
+            this.onClosed(tabId, details);
         });
      }
 
@@ -411,6 +502,16 @@ vAPI.Tabs = class {
             return;
         }
 
+        // https://github.com/gorhill/uBlock/issues/3053#issuecomment-332276818
+        //   Do not try to lookup uBO's own pages with FF 55 or less.
+        if (
+            vAPI.webextFlavor.soup.has('firefox') &&
+            vAPI.webextFlavor.major < 56
+        ) {
+            this.create(targetURL, details);
+            return;
+        }
+
         // https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/query#Parameters
         //   "Note that fragment identifiers are not matched."
         //   Fragment identifiers ARE matched -- we need to remove the fragment.
@@ -505,51 +606,6 @@ vAPI.Tabs = class {
         const s = url.slice(0, pos);
         if ( s.search(/\s/) === -1 ) { return url; }
         return s.replace(/\s+/, '') + url.slice(pos);
-    }
-
-    onCreatedNavigationTargetHandler(details) {
-        if ( typeof details.url !== 'string' ) {
-            details.url = '';
-        }
-        if ( /^https?:\/\//.test(details.url) === false ) {
-            details.frameId = 0;
-            details.url = this.sanitizeURL(details.url);
-            this.onNavigation(details);
-        }
-        this.onCreated(details);
-    }
-
-    onCommittedHandler(details) {
-        details.url = this.sanitizeURL(details.url);
-        this.onNavigation(details);
-    }
-
-    onUpdatedHandler(tabId, changeInfo, tab) {
-        // Ignore uninteresting update events
-        const { status = '', title = '', url = '' } = changeInfo;
-        if ( status === '' && title === '' && url === '' ) { return; }
-        // https://github.com/gorhill/uBlock/issues/3073
-        //   Fall back to `tab.url` when `changeInfo.url` is not set.
-        if ( url === '' ) {
-            changeInfo.url = tab && tab.url;
-        }
-        if ( changeInfo.url ) {
-            changeInfo.url = this.sanitizeURL(changeInfo.url);
-        }
-        this.onUpdated(tabId, changeInfo, tab);
-    }
-
-    onRemovedHandler(tabId, details) {
-        this.onClosed(tabId, details);
-    }
-
-    onFocusChangedHandler(windowId) {
-        if ( windowId === browser.windows.WINDOW_ID_NONE ) { return; }
-        vAPI.tabs.query({ active: true, windowId }).then(tabs => {
-            if ( tabs.length === 0 ) { return; }
-            const tab = tabs[0];
-            this.onActivated({ tabId: tab.id, windowId: tab.windowId });
-        });
     }
 
     onActivated(/* details */) {
@@ -824,18 +880,12 @@ browser.browserAction.onClicked.addListener(function(tab) {
 //   content scripts. Whether a message can trigger a privileged operation is
 //   decided based on whether the port from which a message is received is
 //   privileged, which is a status evaluated once, at port connection time.
-//
-// https://github.com/uBlockOrigin/uBlock-issues/issues/1992
-//   If present, use MessageSender.origin to determine whether the port is
-//   from a privileged page, otherwise use MessageSender.url.
-//   MessageSender.origin is more reliable as it is not spoofable by a
-//   compromised renderer.
 
 vAPI.messaging = {
     ports: new Map(),
     listeners: new Map(),
     defaultHandler: null,
-    PRIVILEGED_ORIGIN: vAPI.getURL('').slice(0, -1),
+    PRIVILEGED_URL: vAPI.getURL(''),
     NOOPFUNC: function(){},
     UNHANDLED: 'vAPI.messaging.notHandled',
 
@@ -861,12 +911,10 @@ vAPI.messaging = {
         );
         const portDetails = { port };
         const sender = port.sender;
-        const { origin, tab, url } = sender;
+        const { tab, url } = sender;
         portDetails.frameId = sender.frameId;
         portDetails.frameURL = url;
-        portDetails.privileged = origin !== undefined
-            ? origin === this.PRIVILEGED_ORIGIN
-            : url.startsWith(this.PRIVILEGED_ORIGIN);
+        portDetails.privileged = url.startsWith(this.PRIVILEGED_URL);
         if ( tab ) {
             portDetails.tabId = tab.id;
             portDetails.tabURL = tab.url;
@@ -1022,13 +1070,11 @@ vAPI.messaging = {
         }
         proxy(response) {
             // https://github.com/chrisaljoudi/uBlock/issues/383
-            try {
+            if ( this.messaging.ports.has(this.port.name) ) {
                 this.port.postMessage({
                     msgId: this.msgId,
                     msg: response !== undefined ? response : null,
                 });
-            } catch (ex) {
-                this.messaging.onPortDisconnect(this.port);
             }
             // Store for reuse
             this.port = null;
@@ -1079,7 +1125,7 @@ vAPI.messaging = {
         }
 
         // Auxiliary process to main process: no handler
-        ubolog(
+        log.info(
             `vAPI.messaging.onPortMessage > unhandled request: ${JSON.stringify(request.msg)}`,
             request
         );
@@ -1237,10 +1283,12 @@ vAPI.Net = class {
     }
     unsuspendAllRequests() {
     }
-    suspend() {
-        this.suspendDepth += 1;
+    suspend(force = false) {
+        if ( this.canSuspend() || force ) {
+            this.suspendDepth += 1;
+        }
     }
-    unsuspend({ all = false, discard = false } = {}) {
+    unsuspend(all = false) {
         if ( this.suspendDepth === 0 ) { return; }
         if ( all ) {
             this.suspendDepth = 0;
@@ -1248,10 +1296,54 @@ vAPI.Net = class {
             this.suspendDepth -= 1;
         }
         if ( this.suspendDepth !== 0 ) { return; }
-        this.unsuspendAllRequests(discard);
+        this.unsuspendAllRequests();
     }
-    static canSuspend() {
+    canSuspend() {
         return false;
+    }
+    async benchmark() {
+        if ( typeof µBlock !== 'object' ) { return; }
+        const requests = await µBlock.loadBenchmarkDataset();
+        if ( Array.isArray(requests) === false || requests.length === 0 ) {
+            console.info('No requests found to benchmark');
+            return;
+        }
+        const mappedTypes = new Map([
+            [ 'document', 'main_frame' ],
+            [ 'subdocument', 'sub_frame' ],
+        ]);
+        console.info('vAPI.net.onBeforeSuspendableRequest()...');
+        const t0 = self.performance.now();
+        const promises = [];
+        const details = {
+            documentUrl: '',
+            tabId: -1,
+            parentFrameId: -1,
+            frameId: 0,
+            type: '',
+            url: '',
+        };
+        for ( const request of requests ) {
+            details.documentUrl = request.frameUrl;
+            details.tabId = -1;
+            details.parentFrameId = -1;
+            details.frameId = 0;
+            details.type = mappedTypes.get(request.cpt) || request.cpt;
+            details.url = request.url;
+            if ( details.type === 'main_frame' ) { continue; }
+            promises.push(this.onBeforeSuspendableRequest(details));
+        }
+        return Promise.all(promises).then(results => {
+            let blockCount = 0;
+            for ( const r of results ) {
+                if ( r !== undefined ) { blockCount += 1; }
+            }
+            const t1 = self.performance.now();
+            const dur = t1 - t0;
+            console.info(`Evaluated ${requests.length} requests in ${dur.toFixed(0)} ms`);
+            console.info(`\tBlocked ${blockCount} requests`);
+            console.info(`\tAverage: ${(dur / requests.length).toFixed(3)} ms per request`);
+        });
     }
 };
 
@@ -1263,20 +1355,35 @@ vAPI.Net = class {
 
 vAPI.contextMenu = webext.menus && {
     _callback: null,
-    _hash: '',
+    _entries: [],
+    _createEntry: function(entry) {
+        webext.menus.create(JSON.parse(JSON.stringify(entry)));
+    },
     onMustUpdate: function() {},
     setEntries: function(entries, callback) {
         entries = entries || [];
-        const hash = entries.map(v => v.id).join();
-        if ( hash === this._hash ) { return; }
-        this._hash = hash;
-        webext.menus.removeAll();
-        for ( const entry of entries ) {
-            webext.menus.create(JSON.parse(JSON.stringify(entry)));
+        let n = Math.max(this._entries.length, entries.length);
+        for ( let i = 0; i < n; i++ ) {
+            const oldEntryId = this._entries[i];
+            const newEntry = entries[i];
+            if ( oldEntryId && newEntry ) {
+                if ( newEntry.id !== oldEntryId ) {
+                    webext.menus.remove(oldEntryId);
+                    this._createEntry(newEntry);
+                    this._entries[i] = newEntry.id;
+                }
+            } else if ( oldEntryId && !newEntry ) {
+                webext.menus.remove(oldEntryId);
+            } else if ( !oldEntryId && newEntry ) {
+                this._createEntry(newEntry);
+                this._entries[i] = newEntry.id;
+            }
         }
-        const n = entries.length;
+        n = this._entries.length = entries.length;
         callback = callback || null;
-        if ( callback === this._callback ) { return; }
+        if ( callback === this._callback ) {
+            return;
+        }
         if ( n !== 0 && callback !== null ) {
             webext.menus.onClicked.addListener(callback);
             this._callback = callback;
@@ -1607,5 +1714,11 @@ vAPI.cloud = (( ) => {
 
     return { push, pull, used, getOptions, setOptions };
 })();
+
+/******************************************************************************/
+/******************************************************************************/
+
+// <<<<< end of local scope
+}
 
 /******************************************************************************/

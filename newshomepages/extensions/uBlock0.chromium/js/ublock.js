@@ -22,25 +22,12 @@
 'use strict';
 
 /******************************************************************************/
-
-import contextMenu from './contextmenu.js';
-import cosmeticFilteringEngine from './cosmetic-filtering.js';
-import io from './assets.js';
-import µb from './background.js';
-import { hostnameFromURI } from './uri-utils.js';
-import { redirectEngine } from './redirect-engine.js';
-
-import {
-    permanentFirewall,
-    sessionFirewall,
-    permanentSwitches,
-    sessionSwitches,
-    permanentURLFiltering,
-    sessionURLFiltering,
-} from './filtering-engines.js';
-
 /******************************************************************************/
-/******************************************************************************/
+
+{
+
+// *****************************************************************************
+// start of local namespace
 
 // https://github.com/chrisaljoudi/uBlock/issues/405
 // Be more flexible with whitelist syntax
@@ -103,8 +90,8 @@ const matchBucket = function(url, hostname, bucket, start) {
 
 /******************************************************************************/
 
-µb.getNetFilteringSwitch = function(url) {
-    const hostname = hostnameFromURI(url);
+µBlock.getNetFilteringSwitch = function(url) {
+    const hostname = this.URI.hostnameFromURI(url);
     let key = hostname;
     for (;;) {
         if ( matchBucket(url, hostname, this.netWhitelist.get(key)) !== -1 ) {
@@ -122,7 +109,7 @@ const matchBucket = function(url, hostname, bucket, start) {
 
 /******************************************************************************/
 
-µb.toggleNetFilteringSwitch = function(url, scope, newState) {
+µBlock.toggleNetFilteringSwitch = function(url, scope, newState) {
     const currentState = this.getNetFilteringSwitch(url);
     if ( newState === undefined ) {
         newState = !currentState;
@@ -134,7 +121,7 @@ const matchBucket = function(url, hostname, bucket, start) {
     const netWhitelist = this.netWhitelist;
     const pos = url.indexOf('#');
     let targetURL = pos !== -1 ? url.slice(0, pos) : url;
-    const targetHostname = hostnameFromURI(targetURL);
+    const targetHostname = this.URI.hostnameFromURI(targetURL);
     let key = targetHostname;
     let directive = scope === 'page' ? targetURL : targetHostname;
 
@@ -192,7 +179,7 @@ const matchBucket = function(url, hostname, bucket, start) {
 
 /******************************************************************************/
 
-µb.arrayFromWhitelist = function(whitelist) {
+µBlock.arrayFromWhitelist = function(whitelist) {
     const out = new Set();
     for ( const bucket of whitelist.values() ) {
         for ( const directive of bucket ) {
@@ -202,13 +189,13 @@ const matchBucket = function(url, hostname, bucket, start) {
     return Array.from(out).sort((a, b) => a.localeCompare(b));
 };
 
-µb.stringFromWhitelist = function(whitelist) {
+µBlock.stringFromWhitelist = function(whitelist) {
     return this.arrayFromWhitelist(whitelist).join('\n');
 };
 
 /******************************************************************************/
 
-µb.whitelistFromArray = function(lines) {
+µBlock.whitelistFromArray = function(lines) {
     const whitelist = new Map();
 
     // Comment bucket must always be ready to be used.
@@ -286,27 +273,33 @@ const matchBucket = function(url, hostname, bucket, start) {
     return whitelist;
 };
 
-µb.whitelistFromString = function(s) {
+µBlock.whitelistFromString = function(s) {
     return this.whitelistFromArray(s.split('\n'));
 };
 
 // https://github.com/gorhill/uBlock/issues/3717
-µb.reWhitelistBadHostname = /[^a-z0-9.\-_\[\]:]/;
-µb.reWhitelistHostnameExtractor = /([a-z0-9.\-_\[\]]+)(?::[\d*]+)?\/(?:[^\x00-\x20\/]|$)[^\x00-\x20]*$/;
+µBlock.reWhitelistBadHostname = /[^a-z0-9.\-_\[\]:]/;
+µBlock.reWhitelistHostnameExtractor = /([a-z0-9.\-_\[\]]+)(?::[\d*]+)?\/(?:[^\x00-\x20\/]|$)[^\x00-\x20]*$/;
+
+// end of local namespace
+// *****************************************************************************
+
+}
 
 /******************************************************************************/
+/******************************************************************************/
 
-µb.changeUserSettings = function(name, value) {
+µBlock.changeUserSettings = function(name, value) {
     let us = this.userSettings;
 
     // Return all settings if none specified.
     if ( name === undefined ) {
         us = JSON.parse(JSON.stringify(us));
-        us.noCosmeticFiltering = sessionSwitches.evaluate('no-cosmetic-filtering', '*') === 1;
-        us.noLargeMedia = sessionSwitches.evaluate('no-large-media', '*') === 1;
-        us.noRemoteFonts = sessionSwitches.evaluate('no-remote-fonts', '*') === 1;
-        us.noScripting = sessionSwitches.evaluate('no-scripting', '*') === 1;
-        us.noCSPReports = sessionSwitches.evaluate('no-csp-reports', '*') === 1;
+        us.noCosmeticFiltering = this.sessionSwitches.evaluate('no-cosmetic-filtering', '*') === 1;
+        us.noLargeMedia = this.sessionSwitches.evaluate('no-large-media', '*') === 1;
+        us.noRemoteFonts = this.sessionSwitches.evaluate('no-remote-fonts', '*') === 1;
+        us.noScripting = this.sessionSwitches.evaluate('no-scripting', '*') === 1;
+        us.noCSPReports = this.sessionSwitches.evaluate('no-csp-reports', '*') === 1;
         return us;
     }
 
@@ -351,11 +344,11 @@ const matchBucket = function(url, hostname, bucket, start) {
         break;
     case 'collapseBlocked':
         if ( value === false ) {
-            cosmeticFilteringEngine.removeFromSelectorCache('*', 'net');
+            this.cosmeticFilteringEngine.removeFromSelectorCache('*', 'net');
         }
         break;
     case 'contextMenuEnabled':
-        contextMenu.update(null);
+        this.contextMenu.update(null);
         break;
     case 'hyperlinkAuditingDisabled':
         if ( this.privacySettingsSupported ) {
@@ -384,8 +377,8 @@ const matchBucket = function(url, hostname, bucket, start) {
         }
         if ( switchName === undefined ) { break; }
         let switchState = value ? 1 : 0;
-        sessionSwitches.toggle(switchName, '*', switchState);
-        if ( permanentSwitches.toggle(switchName, '*', switchState) ) {
+        this.sessionSwitches.toggle(switchName, '*', switchState);
+        if ( this.permanentSwitches.toggle(switchName, '*', switchState) ) {
             this.saveHostnameSwitches();
         }
         break;
@@ -412,13 +405,13 @@ const matchBucket = function(url, hostname, bucket, start) {
 
 // https://www.reddit.com/r/uBlockOrigin/comments/8524cf/my_custom_scriptlets_doesnt_work_what_am_i_doing/
 
-µb.changeHiddenSettings = function(hs) {
+µBlock.changeHiddenSettings = function(hs) {
     const mustReloadResources =
         hs.userResourcesLocation !== this.hiddenSettings.userResourcesLocation;
     this.hiddenSettings = hs;
     this.saveHiddenSettings();
     if ( mustReloadResources ) {
-        redirectEngine.invalidateResourcesSelfie(io);
+        this.redirectEngine.invalidateResourcesSelfie();
         this.loadRedirectResources();
     }
     this.fireDOMEvent('hiddenSettingsChanged');
@@ -426,7 +419,7 @@ const matchBucket = function(url, hostname, bucket, start) {
 
 /******************************************************************************/
 
-µb.elementPickerExec = async function(
+µBlock.elementPickerExec = async function(
     tabId,
     frameId,
     targetElement,
@@ -464,18 +457,18 @@ const matchBucket = function(url, hostname, bucket, start) {
 // Always set own rules, trying to be fancy to avoid setting seemingly
 // (but not really) redundant rules led to this issue.
 
-µb.toggleFirewallRule = function(details) {
+µBlock.toggleFirewallRule = function(details) {
     let { srcHostname, desHostname, requestType, action } = details;
 
     if ( action !== 0 ) {
-        sessionFirewall.setCell(
+        this.sessionFirewall.setCell(
             srcHostname,
             desHostname,
             requestType,
             action
         );
     } else {
-        sessionFirewall.unsetCell(
+        this.sessionFirewall.unsetCell(
             srcHostname,
             desHostname,
             requestType
@@ -485,14 +478,14 @@ const matchBucket = function(url, hostname, bucket, start) {
     // https://github.com/chrisaljoudi/uBlock/issues/731#issuecomment-73937469
     if ( details.persist ) {
         if ( action !== 0 ) {
-            permanentFirewall.setCell(
+            this.permanentFirewall.setCell(
                 srcHostname,
                 desHostname,
                 requestType,
                 action
             );
         } else {
-            permanentFirewall.unsetCell(
+            this.permanentFirewall.unsetCell(
                 srcHostname,
                 desHostname,
                 requestType,
@@ -519,7 +512,7 @@ const matchBucket = function(url, hostname, bucket, start) {
     }
 
     // https://github.com/chrisaljoudi/uBlock/issues/420
-    cosmeticFilteringEngine.removeFromSelectorCache(srcHostname, 'net');
+    this.cosmeticFilteringEngine.removeFromSelectorCache(srcHostname, 'net');
 
     if ( details.tabId === undefined ) { return; }
 
@@ -538,8 +531,8 @@ const matchBucket = function(url, hostname, bucket, start) {
 
 /******************************************************************************/
 
-µb.toggleURLFilteringRule = function(details) {
-    let changed = sessionURLFiltering.setRule(
+µBlock.toggleURLFilteringRule = function(details) {
+    let changed = this.sessionURLFiltering.setRule(
         details.context,
         details.url,
         details.type,
@@ -547,11 +540,11 @@ const matchBucket = function(url, hostname, bucket, start) {
     );
     if ( changed === false ) { return; }
 
-    cosmeticFilteringEngine.removeFromSelectorCache(details.context, 'net');
+    this.cosmeticFilteringEngine.removeFromSelectorCache(details.context, 'net');
 
     if ( details.persist !== true ) { return; }
 
-    changed = permanentURLFiltering.setRule(
+    changed = this.permanentURLFiltering.setRule(
         details.context,
         details.url,
         details.type,
@@ -565,15 +558,12 @@ const matchBucket = function(url, hostname, bucket, start) {
 
 /******************************************************************************/
 
-µb.toggleHostnameSwitch = function(details) {
-    const newState = typeof details.state === 'boolean'
-        ? details.state
-        : sessionSwitches.evaluateZ(details.name, details.hostname) === false;
-    let changed = sessionSwitches.toggleZ(
+µBlock.toggleHostnameSwitch = function(details) {
+    let changed = this.sessionSwitches.toggleZ(
         details.name,
         details.hostname,
         !!details.deep,
-        newState
+        details.state
     );
     if ( changed === false ) { return; }
 
@@ -582,29 +572,27 @@ const matchBucket = function(url, hostname, bucket, start) {
     case 'no-scripting':
         this.updateToolbarIcon(details.tabId, 0b100);
         break;
-    case 'no-cosmetic-filtering': {
-        const scriptlet = newState ? 'cosmetic-off' : 'cosmetic-on';
-        vAPI.tabs.executeScript(details.tabId, {
-            file: `/js/scriptlets/${scriptlet}.js`,
-            allFrames: true,
-        });
+    case 'no-cosmetic-filtering':
+        this.scriptlets.injectDeep(
+            details.tabId,
+            details.state ? 'cosmetic-off' : 'cosmetic-on'
+        );
         break;
-    }
     case 'no-large-media':
         const pageStore = this.pageStoreFromTabId(details.tabId);
         if ( pageStore !== null ) {
-            pageStore.temporarilyAllowLargeMediaElements(!newState);
+            pageStore.temporarilyAllowLargeMediaElements(!details.state);
         }
         break;
     }
 
     if ( details.persist !== true ) { return; }
 
-    changed = permanentSwitches.toggleZ(
+    changed = this.permanentSwitches.toggleZ(
         details.name,
         details.hostname,
         !!details.deep,
-        newState
+        details.state
     );
     if ( changed ) {
         this.saveHostnameSwitches();
@@ -613,28 +601,29 @@ const matchBucket = function(url, hostname, bucket, start) {
 
 /******************************************************************************/
 
-µb.blockingModeFromHostname = function(hn) {
+µBlock.blockingModeFromHostname = function(hn) {
     let bits = 0;
-    if ( sessionSwitches.evaluateZ('no-scripting', hn) ) {
+    if ( this.sessionSwitches.evaluateZ('no-scripting', hn) ) {
         bits |= 0b00000010;
     }
     if ( this.userSettings.advancedUserEnabled ) {
-        if ( sessionFirewall.evaluateCellZY(hn, '*', '3p') === 1 ) {
+        const fw = this.sessionFirewall;
+        if ( fw.evaluateCellZY(hn, '*', '3p') === 1 ) {
             bits |= 0b00000100;
         }
-        if ( sessionFirewall.evaluateCellZY(hn, '*', '3p-script') === 1 ) {
+        if ( fw.evaluateCellZY(hn, '*', '3p-script') === 1 ) {
             bits |= 0b00001000;
         }
-        if ( sessionFirewall.evaluateCellZY(hn, '*', '3p-frame') === 1 ) {
+        if ( fw.evaluateCellZY(hn, '*', '3p-frame') === 1 ) {
             bits |= 0b00010000;
         }
     }
     return bits;
 };
 
-{
+µBlock.parseBlockingProfiles = (( ) => {
     const parse = function() {
-        const s = µb.hiddenSettings.blockingProfiles;
+        const s = µBlock.hiddenSettings.blockingProfiles;
         const profiles = [];
         s.split(/\s+/).forEach(s => {
             let pos = s.indexOf('/');
@@ -646,13 +635,84 @@ const matchBucket = function(url, hostname, bucket, start) {
             const color = s.slice(pos + 1);
             profiles.push({ bits, color: color !== '' ? color : '#666' });
         });
-        µb.liveBlockingProfiles = profiles;
-        µb.blockingProfileColorCache.clear();
+        µBlock.liveBlockingProfiles = profiles;
+        µBlock.blockingProfileColorCache.clear();
     };
 
     parse();
 
     self.addEventListener('hiddenSettingsChanged', ( ) => { parse(); });
-}
+
+    return parse;
+})();
+
+/******************************************************************************/
+
+µBlock.scriptlets = (function() {
+    const pendingEntries = new Map();
+
+    const Entry = class {
+        constructor(tabId, scriptlet, callback) {
+            this.tabId = tabId;
+            this.scriptlet = scriptlet;
+            this.callback = callback;
+            this.timer = vAPI.setTimeout(this.service.bind(this), 1000);
+        }
+        service(response) {
+            if ( this.timer !== null ) {
+                clearTimeout(this.timer);
+                this.timer = null;
+            }
+            pendingEntries.delete(makeKey(this.tabId, this.scriptlet));
+            this.callback(response);
+        }
+    };
+
+    const makeKey = function(tabId, scriptlet) {
+        return tabId + ' ' + scriptlet;
+    };
+
+    const report = function(tabId, scriptlet, response) {
+        const key = makeKey(tabId, scriptlet);
+        const entry = pendingEntries.get(key);
+        if ( entry === undefined ) { return; }
+        entry.service(response);
+    };
+
+    const inject = function(tabId, scriptlet, callback) {
+        if ( typeof callback === 'function' ) {
+            if ( vAPI.isBehindTheSceneTabId(tabId) ) {
+                callback();
+                return;
+            }
+            const key = makeKey(tabId, scriptlet);
+            const entry = pendingEntries.get(key);
+            if ( entry !== undefined ) {
+                if ( callback !== entry.callback ) {
+                    callback();
+                }
+                return;
+            }
+            pendingEntries.set(key, new Entry(tabId, scriptlet, callback));
+        }
+        vAPI.tabs.executeScript(tabId, {
+            file: `/js/scriptlets/${scriptlet}.js`
+        });
+    };
+
+    // TODO: think about a callback mechanism.
+    const injectDeep = function(tabId, scriptlet) {
+        vAPI.tabs.executeScript(tabId, {
+            file: `/js/scriptlets/${scriptlet}.js`,
+            allFrames: true
+        });
+    };
+
+    return {
+        inject: inject,
+        injectDeep: injectDeep,
+        report: report
+    };
+})();
 
 /******************************************************************************/

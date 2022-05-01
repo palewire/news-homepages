@@ -19,20 +19,17 @@
     Home: https://github.com/gorhill/uMatrix
 */
 
-/* global CodeMirror, diff_match_patch, uDom, uBlockDashboard */
+/* global diff_match_patch, CodeMirror, uDom, uBlockDashboard */
 
 'use strict';
 
 /******************************************************************************/
 
-import publicSuffixList from '../lib/publicsuffixlist/publicsuffixlist.js';
-
-import { hostnameFromURI } from './uri-utils.js';
-
-import './codemirror/ubo-dynamic-filtering.js';
+(( ) => {
 
 /******************************************************************************/
 
+const psl = self.publicSuffixList;
 const hostnameToDomainMap = new Map();
 
 const mergeView = new CodeMirror.MergeView(
@@ -396,9 +393,7 @@ const onPresentationChanged = (( ) => {
     const sortNormalizeHn = function(hn) {
         let domain = hostnameToDomainMap.get(hn);
         if ( domain === undefined ) {
-            domain = /(\d|\])$/.test(hn)
-                ? hn
-                : publicSuffixList.getDomain(hn);
+            domain = /(\d|\])$/.test(hn) ? hn : psl.getDomain(hn);
             hostnameToDomainMap.set(hn, domain);
         }
         let normalized = domain || hn;
@@ -429,7 +424,7 @@ const onPresentationChanged = (( ) => {
         } else if ( (match = reUrlRule.exec(rule)) !== null ) {
             type = '\x10FFFF';
             srcHn = sortNormalizeHn(match[1]);
-            desHn = sortNormalizeHn(hostnameFromURI(match[2]));
+            desHn = sortNormalizeHn(vAPI.hostnameFromURI(match[2]));
             extra = match[3];
         }
         if ( sortType === 0 ) {
@@ -504,13 +499,13 @@ const onPresentationChanged = (( ) => {
             const mode = origPane.doc.getMode();
             mode.sortType = sortType;
             mode.setHostnameToDomainMap(hostnameToDomainMap);
-            mode.setPSL(publicSuffixList);
+            mode.setPSL(psl);
         }
         {
             const mode = editPane.doc.getMode();
             mode.sortType = sortType;
             mode.setHostnameToDomainMap(hostnameToDomainMap);
-            mode.setPSL(publicSuffixList);
+            mode.setPSL(psl);
         }
         sort(origPane.modified);
         sort(editPane.modified);
@@ -537,15 +532,10 @@ const onTextChanged = (( ) => {
             cleanEditToken = mergeView.editor().changeGeneration();
             isClean = true;
         }
-        const isDirty = mergeView.leftChunks().length !== 0;
         document.body.classList.toggle('editing', isClean === false);
-        diff.classList.toggle('dirty', isDirty);
-        uDom('#editSaveButton')
-            .toggleClass('disabled', isClean);
-        uDom('#exportButton,#importButton')
-            .toggleClass('disabled', isClean === false);
-        uDom('#revertButton,#commitButton')
-            .toggleClass('disabled', isClean === false || isDirty === false);
+        diff.classList.toggle('dirty', mergeView.leftChunks().length !== 0);
+        document.getElementById('editSaveButton')
+                .classList.toggle('disabled', isClean);
         const input = document.querySelector('#ruleFilter input');
         if ( isClean ) {
             input.removeAttribute('disabled');
@@ -653,7 +643,7 @@ vAPI.messaging.send('dashboard', {
 }).then(details => {
     thePanes.orig.original = details.permanentRules;
     thePanes.edit.original = details.sessionRules;
-    publicSuffixList.fromSelfie(details.pslSelfie);
+    psl.fromSelfie(details.pslSelfie);
     onPresentationChanged(true);
 });
 
@@ -677,3 +667,5 @@ uDom('#ruleFilter #diffCollapse').on('click', ev => {
 mergeView.editor().on('updateDiff', ( ) => { onTextChanged(); });
 
 /******************************************************************************/
+
+})();

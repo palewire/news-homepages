@@ -32,31 +32,20 @@
 
 
 
-/// abort-current-script.js
-/// alias acs.js
-/// alias abort-current-inline-script.js
+/// abort-current-inline-script.js
 /// alias acis.js
 (function() {
     const target = '{{1}}';
     if ( target === '' || target === '{{1}}' ) { return; }
-    const reRegexEscape = /[.*+?^${}()|[\]\\]/g;
     const needle = '{{2}}';
-    const reNeedle = (( ) => {
-        if ( needle === '' || needle === '{{2}}' ) { return /^/; }
-        if ( /^\/.+\/$/.test(needle) ) {
-            return new RegExp(needle.slice(1,-1));
-        }
-        return new RegExp(needle.replace(reRegexEscape, '\\$&'));
-    })();
-    const context = '{{3}}';
-    const reContext = (( ) => {
-        if ( context === '' || context === '{{3}}' ) { return /^$/; }
-        if ( /^\/.+\/$/.test(context) ) {
-            return new RegExp(context.slice(1,-1));
-        }
-        return new RegExp(context.replace(reRegexEscape, '\\$&'));
-    })();
+    let reText = '.?';
+    if ( needle !== '' && needle !== '{{2}}' ) {
+        reText = /^\/.+\/$/.test(needle)
+            ? needle.slice(1,-1)
+            : needle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
     const thisScript = document.currentScript;
+    const re = new RegExp(reText);
     const chain = target.split('.');
     let owner = window;
     let prop;
@@ -77,35 +66,16 @@
     }
     const magic = String.fromCharCode(Date.now() % 26 + 97) +
                   Math.floor(Math.random() * 982451653 + 982451653).toString(36);
-    const scriptTexts = new WeakMap();
-    const getScriptText = elem => {
-        let text = elem.textContent;
-        if ( text.trim() !== '' ) { return text; }
-        if ( scriptTexts.has(elem) ) { return scriptTexts.get(elem); }
-        const [ , mime, content ] =
-            /^data:([^,]*),(.+)$/.exec(elem.src.trim()) ||
-            [ '', '', '' ];
-        try {
-            switch ( true ) {
-            case mime.endsWith(';base64'):
-                text = self.atob(content);
-                break;
-            default:
-                text = self.decodeURIComponent(content);
-                break;
-            }
-        } catch(ex) {
-        }
-        scriptTexts.set(elem, text);
-        return text;
-    };
-    const validate = ( ) => {
+    const validate = function() {
         const e = document.currentScript;
-        if ( e instanceof HTMLScriptElement === false ) { return; }
-        if ( reContext.test(e.src) === false ) { return; }
-        if ( e === thisScript ) { return; }
-        if ( reNeedle.test(getScriptText(e)) === false ) { return; }
-        throw new ReferenceError(magic);
+        if (
+            e instanceof HTMLScriptElement &&
+            e.src === '' &&
+            e !== thisScript &&
+            re.test(e.textContent)
+        ) {
+            throw new ReferenceError(magic);
+        }
     };
     Object.defineProperty(owner, prop, {
         get: function() {
@@ -125,7 +95,7 @@
     });
     const oe = window.onerror;
     window.onerror = function(msg) {
-        if ( typeof msg === 'string' && msg.includes(magic) ) {
+        if ( typeof msg === 'string' && msg.indexOf(magic) !== -1 ) {
             return true;
         }
         if ( oe instanceof Function ) {
@@ -723,27 +693,6 @@
 })();
 
 
-/// refresh-defuser.js
-// https://www.reddit.com/r/uBlockOrigin/comments/q0frv0/while_reading_a_sports_article_i_was_redirected/hf7wo9v/
-(function() {
-    const arg1 = '{{1}}';
-    const defuse = ( ) => {
-        const meta = document.querySelector('meta[http-equiv="refresh" i][content]');
-        if ( meta === null ) { return; }
-        const s = arg1 === '' || arg1 === '{{1}}'
-            ? meta.getAttribute('content')
-            : arg1;
-        const ms = Math.max(parseFloat(s) || 0, 0) * 1000;
-        setTimeout(( ) => { window.stop(); }, ms);
-    };
-    if ( document.readyState === 'loading' ) {
-        document.addEventListener('DOMContentLoaded', defuse, { once: true });
-    } else {
-        defuse();
-    }
-})();
-
-
 /// remove-attr.js
 /// alias ra.js
 (function() {
@@ -782,13 +731,13 @@
             }
         }
         if ( skip ) { return; }
-        timer = self.requestIdleCallback(rmattr, { timeout: 17 });
+        timer = self.requestIdleCallback(rmattr, { timeout: 67 });
     };
     const start = ( ) => {
         rmattr();
         if ( /\bstay\b/.test(behavior) === false ) { return; }
         const observer = new MutationObserver(mutationHandler);
-        observer.observe(document, {
+        observer.observe(document.documentElement, {
             attributes: true,
             attributeFilter: tokens,
             childList: true,
@@ -797,10 +746,10 @@
     };
     if ( document.readyState !== 'complete' && /\bcomplete\b/.test(behavior) ) {
         self.addEventListener('load', start, { once: true });
-    } else if ( document.readyState !== 'loading' || /\basap\b/.test(behavior) ) {
-        start();
-    } else {
+    } else if ( document.readyState === 'loading' ) {
         self.addEventListener('DOMContentLoaded', start, { once: true });
+    } else {
+        start();
     }
 })();
 
@@ -847,7 +796,7 @@
         rmclass();
         if ( /\bstay\b/.test(behavior) === false ) { return; }
         const observer = new MutationObserver(mutationHandler);
-        observer.observe(document, {
+        observer.observe(document.documentElement, {
             attributes: true,
             attributeFilter: [ 'class' ],
             childList: true,
@@ -945,7 +894,7 @@
         const odesc = Object.getOwnPropertyDescriptor(owner, prop);
         let prevGetter, prevSetter;
         if ( odesc instanceof Object ) {
-            owner[prop] = cValue;
+            if ( odesc.configurable === false ) { return; }
             if ( odesc.get instanceof Function ) {
                 prevGetter = odesc.get;
             }
@@ -953,24 +902,21 @@
                 prevSetter = odesc.set;
             }
         }
-        try {
-            Object.defineProperty(owner, prop, {
-                configurable,
-                get() {
-                    if ( prevGetter !== undefined ) {
-                        prevGetter();
-                    }
-                    return handler.getter(); // cValue
-                },
-                set(a) {
-                    if ( prevSetter !== undefined ) {
-                        prevSetter(a);
-                    }
-                    handler.setter(a);
+        Object.defineProperty(owner, prop, {
+            configurable,
+            get() {
+                if ( prevGetter !== undefined ) {
+                    prevGetter();
                 }
-            });
-        } catch(ex) {
-        }
+                return handler.getter(); // cValue
+            },
+            set(a) {
+                if ( prevSetter !== undefined ) {
+                    prevSetter(a);
+                }
+                handler.setter(a);
+            }
+        });
     };
     const trapChain = function(owner, chain) {
         const pos = chain.indexOf('.');
@@ -1186,111 +1132,6 @@
                 return Reflect.construct(target, args);
             }
         });
-})();
-
-
-/// no-xhr-if.js
-(function() {
-    const xhrInstances = new WeakMap();
-    let arg1 = '{{1}}';
-    if ( arg1 === '{{1}}' ) { arg1 = ''; }
-    const needles = [];
-    for ( const condition of arg1.split(/\s+/) ) {
-        if ( condition === '' ) { continue; }
-        const pos = condition.indexOf(':');
-        let key, value;
-        if ( pos !== -1 ) {
-            key = condition.slice(0, pos);
-            value = condition.slice(pos + 1);
-        } else {
-            key = 'url';
-            value = condition;
-        }
-        if ( value === '' ) {
-            value = '^';
-        } else if ( value.startsWith('/') && value.endsWith('/') ) {
-            value = value.slice(1, -1);
-        } else {
-            value = value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        }
-        needles.push({ key, re: new RegExp(value) });
-    }
-    const log = needles.length === 0 ? console.log.bind(console) : undefined;
-    self.XMLHttpRequest = class extends self.XMLHttpRequest {
-        open(...args) {
-            if ( log !== undefined ) {
-                log(`uBO: xhr.open(${args.join(', ')})`);
-            } else {
-                const argNames = [ 'method', 'url' ];
-                const haystack = new Map();
-                for ( let i = 0; i < args.length && i < argNames.length; i++  ) {
-                    haystack.set(argNames[i], args[i]);
-                }
-                if ( haystack.size !== 0 ) {
-                    let matches = true;
-                    for ( const { key, re } of needles ) {
-                        matches = re.test(haystack.get(key) || '');
-                        if ( matches === false ) { break; }
-                    }
-                    if ( matches ) {
-                        xhrInstances.set(this, haystack);
-                    }
-                }
-            }
-            return super.open(...args);
-        }
-        send(...args) {
-            const haystack = xhrInstances.get(this);
-            if ( haystack === undefined ) {
-                return super.send(...args);
-            }
-            Object.defineProperties(this, {
-                readyState: { value: 4, writable: false },
-                response: { value: '', writable: false },
-                responseText: { value: '', writable: false },
-                responseURL: { value: haystack.get('url'), writable: false },
-                responseXML: { value: '', writable: false },
-                status: { value: 200, writable: false },
-                statusText: { value: 'OK', writable: false },
-            });
-            if ( this.onreadystatechange !== null ) {
-                setTimeout(( ) => {
-                    const ev = new Event('readystatechange');
-                    this.onreadystatechange.call(this, ev);
-                }, 1);
-            }
-            if ( this.onload !== null ) {
-                setTimeout(( ) => {
-                    const ev = new Event('load');
-                    this.onload.call(this, ev);
-                }, 1);
-            }
-        }
-    };
-})();
-
-
-// https://github.com/uBlockOrigin/uAssets/issues/10323#issuecomment-992312847
-// https://github.com/AdguardTeam/Scriptlets/issues/158
-/// window-close-if.js
-(function() {
-    const arg1 = '{{1}}';
-    let reStr;
-    if ( arg1 === '{{1}}' || arg1 === '' ) {
-        reStr = '^';
-    } else if ( arg1.startsWith('/') && arg1.endsWith('/') ) {
-        reStr = arg1.slice(1, -1);
-    } else {
-        reStr = arg1.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    }
-    try {
-        const re = new RegExp(reStr);
-        if ( re.test(`${window.location.pathname}${window.location.search}`) ) {
-            window.close();
-        }
-    } catch(ex) {
-        console.log(ex);
-    }
 })();
 
 
@@ -1558,62 +1399,63 @@
 
 /// damoh-defuser.js
 (function() {
-    const handled = new WeakSet();
-    let asyncTimer;
-    const cleanVideo = function() {
+    var handled = new WeakSet();
+    var asyncTimer;
+    var cleanVideo = function() {
         asyncTimer = undefined;
-        const v = document.querySelector('video');
+        var v = document.querySelector('video');
         if ( v === null ) { return; }
         if ( handled.has(v) ) { return; }
         handled.add(v);
         v.pause();
         v.controls = true;
-        let el = v.querySelector('meta[itemprop="contentURL"][content]');
+        var el = v.querySelector('meta[itemprop="contentURL"][content]');
         if ( el === null ) { return; }
         v.src = el.getAttribute('content');
         el = v.querySelector('meta[itemprop="thumbnailUrl"][content]');
         if ( el !== null ) { v.poster = el.getAttribute('content'); }
     };
-    const cleanVideoAsync = function() {
+    var cleanVideoAsync = function() {
         if ( asyncTimer !== undefined ) { return; }
         asyncTimer = window.requestAnimationFrame(cleanVideo);
     };
-    const observer = new MutationObserver(cleanVideoAsync);
-    observer.observe(document, { childList: true, subtree: true });
+    var observer = new MutationObserver(cleanVideoAsync);
+    observer.observe(document.documentElement, { childList: true, subtree: true });
 })();
 
 
-/// twitch-videoad.js
 // https://github.com/uBlockOrigin/uAssets/issues/5184
-// https://github.com/pixeltris/TwitchAdSolutions/commit/6be4c5313035
-// https://github.com/pixeltris/TwitchAdSolutions/commit/3d2883ea9e3a
-// https://github.com/pixeltris/TwitchAdSolutions/commit/7233b5fd2284
-// https://github.com/pixeltris/TwitchAdSolutions/commit/aad8946dab2b
+/// twitch-videoad.js
 (function() {
     if ( /(^|\.)twitch\.tv$/.test(document.location.hostname) === false ) { return; }
-    window.fetch = new Proxy(window.fetch, {
-        apply: function(target, thisArg, args) {
-            const [ url, init ] = args;
-            if (
-                typeof url === 'string' &&
-                url.includes('gql') &&
-                init instanceof Object &&
-                init.headers instanceof Object &&
-                typeof init.body === 'string' &&
-                init.body.includes('PlaybackAccessToken') &&
-                init.body.includes('"isVod":true') === false
-            ) {
-                const { headers } = init;
-                if ( typeof headers['X-Device-Id'] === 'string' ) {
-                    headers['X-Device-Id'] = 'twitch-web-wall-mason';
-                }
-                if ( typeof headers['Device-ID'] === 'string' ) {
-                    headers['Device-ID'] = 'twitch-web-wall-mason';
-                }
-            }
-            return Reflect.apply(target, thisArg, args);
+    var realFetch = window.fetch;
+    window.fetch = function(input) {
+        if ( arguments.length >= 2 && typeof input === 'string' && input.includes('/access_token') ) {
+            var url = new URL(arguments[0]);
+            url.searchParams.delete('platform');
+            arguments[0] = url.href;
         }
-    });
+        return realFetch.apply(this, arguments);
+    };
+})();
+
+
+// https://github.com/uBlockOrigin/uAssets/issues/2912
+/// fingerprint2.js
+(function() {
+    let browserId = '';
+    for ( let i = 0; i < 8; i++ ) {
+        browserId += (Math.random() * 0x10000 + 0x1000 | 0).toString(16).slice(-4);
+    }
+    const fp2 = function(){};
+    fp2.get = function(opts, cb) {
+        if ( !cb  ) { cb = opts; }
+        setTimeout(( ) => { cb(browserId, []); }, 1);
+    };
+    fp2.prototype = {
+        get: fp2.get
+    };
+    window.Fingerprint2 = fp2;
 })();
 
 

@@ -83,7 +83,7 @@ const loadDashboardPanel = function(pane, first) {
         uDom('.tabButton.selected').toggleClass('selected', false);
         tabButton.classList.add('selected');
         tabButton.scrollIntoView();
-        uDom.nodeFromId('iframe').contentWindow.location.replace(pane);
+        uDom.nodeFromId('iframe').setAttribute('src', pane);
         if ( pane !== 'no-dashboard.html' ) {
             vAPI.localStorage.setItem('dashboardLastVisitedPane', pane);
         }
@@ -118,7 +118,7 @@ if ( self.location.hash.slice(1) === 'no-dashboard.html' ) {
     ]);
 
     {
-        const details = results[0] || {};
+        const details = results[0];
         document.body.classList.toggle(
             'canUpdateShortcuts',
             details.canUpdateShortcuts === true
@@ -132,7 +132,7 @@ if ( self.location.hash.slice(1) === 'no-dashboard.html' ) {
     }
 
     {
-        let pane = results[1] || null;
+        let pane = results[1];
         if ( self.location.hash !== '' ) {
             pane = self.location.hash.slice(1) || null;
         }

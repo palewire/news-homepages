@@ -43,12 +43,6 @@ const largeMediaElementSelector =
 
 /******************************************************************************/
 
-const isMediaElement = function(elem) {
-    return /^(?:audio|img|picture|video)$/.test(elem.localName);
-};
-
-/******************************************************************************/
-
 const mediaNotLoaded = function(elem) {
     switch ( elem.localName ) {
     case 'audio':
@@ -237,9 +231,7 @@ document.addEventListener('loadeddata', onLoadedData);
 /******************************************************************************/
 
 const onLoad = function(ev) {
-    const elem = ev.target;
-    if ( isMediaElement(elem) === false ) { return; }
-    elem.removeAttribute(largeMediaElementAttribute);
+    ev.target.removeAttribute(largeMediaElementAttribute);
 };
 
 document.addEventListener('load', onLoad, true);
@@ -248,7 +240,6 @@ document.addEventListener('load', onLoad, true);
 
 const onLoadError = function(ev) {
     const elem = ev.target;
-    if ( isMediaElement(elem) === false ) { return; }
     if ( mediaNotLoaded(elem) ) {
         elem.setAttribute(largeMediaElementAttribute, '');
     }

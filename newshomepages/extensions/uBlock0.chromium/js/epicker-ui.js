@@ -24,13 +24,6 @@
 'use strict';
 
 /******************************************************************************/
-
-import './codemirror/ubo-static-filtering.js';
-
-import { hostnameFromURI } from './uri-utils.js';
-import { StaticFilteringParser } from './static-filtering-parser.js';
-
-/******************************************************************************/
 /******************************************************************************/
 
 (( ) => {
@@ -151,7 +144,7 @@ const renderRange = function(id, value, invert = false) {
 const userFilterFromCandidate = function(filter) {
     if ( filter === '' || filter === '!' ) { return; }
 
-    const hn = hostnameFromURI(docURL.href);
+    const hn = vAPI.hostnameFromURI(docURL.href);
 
     // Cosmetic filter?
     if ( reCosmeticAnchor.test(filter) ) {
@@ -458,6 +451,7 @@ const onCandidateChanged = function() {
     const filter = filterFromTextarea();
     const bad = filter === '!';
     $stor('section').classList.toggle('invalidFilter', bad);
+    $id('create').disabled = bad;
     if ( bad ) {
         $id('resultsetCount').textContent = 'E';
         $id('create').setAttribute('disabled', '');
@@ -766,7 +760,7 @@ const showDialog = function(details) {
 
     dialog.querySelector('ul').style.display =
         netFilters.length || cosmeticFilters.length ? '' : 'none';
-    $id('create').setAttribute('disabled', '');
+    dialog.querySelector('#create').disabled = true;
 
     // Auto-select a candidate filter
 
@@ -834,7 +828,7 @@ const startPicker = function() {
     $id('candidateFilters').addEventListener('click', onCandidateClicked);
     $stor('#resultsetDepth input').addEventListener('input', onDepthChanged);
     $stor('#resultsetSpecificity input').addEventListener('input', onSpecificityChanged);
-    staticFilteringParser = new StaticFilteringParser({ interactive: true });
+    staticFilteringParser = new vAPI.StaticFilteringParser({ interactive: true });
 };
 
 /******************************************************************************/

@@ -13,28 +13,25 @@
 <body>
 <div id="dashboard-nav">
     <span class="logo"><img data-i18n-title="extName" src="img/ublock.svg"></span><!--
- --><button class="tabButton" type="button" data-pane="settings.html" data-i18n="settingsPageName" tabindex="0"></button><!--
- --><button class="tabButton" type="button" data-pane="3p-filters.html" data-i18n="3pPageName" tabindex="0"></button><!--
- --><button class="tabButton" type="button" data-pane="1p-filters.html" data-i18n="1pPageName" tabindex="0"></button><!--
- --><button class="tabButton" type="button" data-pane="dyna-rules.html" data-i18n="rulesPageName" tabindex="0"></button><!--
- --><button class="tabButton" type="button" data-pane="whitelist.html" data-i18n="whitelistPageName" tabindex="0"></button><!--
- --><button class="tabButton" type="button" data-pane="shortcuts.html" data-i18n="shortcutsPageName" tabindex="0"></button><!--
- --><button class="tabButton" type="button" data-pane="support.html" data-i18n="supportPageName" tabindex="0"></button><!--
- --><button class="tabButton" type="button" data-pane="about.html" data-i18n="aboutPageName" tabindex="0"></button><!--
- --><button class="tabButton" type="button" data-pane="no-dashboard.html"></button>
+ --><span class="tabButton" data-pane="settings.html" data-i18n="settingsPageName"></span><!--
+ --><span class="tabButton" data-pane="3p-filters.html" data-i18n="3pPageName"></span><!--
+ --><span class="tabButton" data-pane="1p-filters.html" data-i18n="1pPageName"></span><!--
+ --><span class="tabButton" data-pane="dyna-rules.html" data-i18n="rulesPageName"></span><!--
+ --><span class="tabButton" data-pane="whitelist.html" data-i18n="whitelistPageName"></span><!--
+ --><span class="tabButton" data-pane="shortcuts.html" data-i18n="shortcutsPageName"></span><!--
+ --><span class="tabButton" data-pane="about.html" data-i18n="aboutPageName"></span><!--
+ --><span class="tabButton" data-pane="no-dashboard.html"></span>
 </div>
-<section id="unsavedWarning" class="notice">
+<div id="unsavedWarning">
     <div>
         <span data-i18n="dashboardUnsavedWarning"></span>&emsp;
-        <button type="button" data-i18n="dashboardUnsavedWarningStay">_<span class="hover"></span></button>&ensp;
-        <button type="button" data-i18n="dashboardUnsavedWarningIgnore">_<span class="hover"></span></button>
+        <button data-i18n="dashboardUnsavedWarningStay"></button>&emsp;
+        <button data-i18n="dashboardUnsavedWarningIgnore"></button>
     </div>
     <div></div>
-</section>
+</div>
 
 <iframe id="iframe" src=""></iframe>
-
-<script src="lib/hsluv/hsluv-0.1.0.min.js"></script>
 
 <script src="js/vapi.js"></script>
 <script src="js/vapi-common.js"></script>

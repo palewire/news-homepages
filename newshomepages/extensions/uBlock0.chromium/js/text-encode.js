@@ -23,17 +23,13 @@
 
 /******************************************************************************/
 
-import µb from './background.js';
+µBlock.textEncode = (function() {
 
-/******************************************************************************/
-
-const textEncode = (( ) => {
-
-    if ( µb.canFilterResponseData !== true ) { return; }
+    if ( µBlock.canFilterResponseData !== true ) { return; }
 
     // charset aliases extracted from:
     // https://github.com/inexorabletash/text-encoding/blob/b4e5bc26e26e51f56e3daa9f13138c79f49d3c34/lib/encoding.js#L342
-    const normalizedCharset = new Map([
+    var normalizedCharset = new Map([
         [ 'utf8', 'utf-8' ],
         [ 'unicode-1-1-utf-8', 'utf-8' ],
         [ 'utf-8', 'utf-8' ],
@@ -66,7 +62,7 @@ const textEncode = (( ) => {
     ]);
 
     // http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP1250.TXT
-    const cp1250_range0 = new Uint8Array([
+    var cp1250_range0 = new Uint8Array([
         /* 0x0100 */ 0x00, 0x00, 0xC3, 0xE3, 0xA5, 0xB9, 0xC6, 0xE6,
         /* 0x0108 */ 0x00, 0x00, 0x00, 0x00, 0xC8, 0xE8, 0xCF, 0xEF,
         /* 0x0110 */ 0xD0, 0xF0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
@@ -86,7 +82,7 @@ const textEncode = (( ) => {
     ]);
 
     // http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP1251.TXT
-    const cp1251_range0 = new Uint8Array([
+    var cp1251_range0 = new Uint8Array([
         /* 0x0400 */ 0x00, 0xA8, 0x80, 0x81, 0xAA, 0xBD, 0xB2, 0xAF,
         /* 0x0408 */ 0xA3, 0x8A, 0x8C, 0x8E, 0x8D, 0x00, 0xA1, 0x8F,
         /* 0x0410 */ 0xC0, 0xC1, 0xC2, 0xC3, 0xC4, 0xC5, 0xC6, 0xC7,
@@ -109,7 +105,7 @@ const textEncode = (( ) => {
     ]);
 
     // https://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP1252.TXT
-    const cp1252_range0 = new Uint8Array([
+    var cp1252_range0 = new Uint8Array([
         /* 0x0150 */ 0x00, 0x00, 0x8C, 0x9C, 0x00, 0x00, 0x00, 0x00,
         /* 0x0158 */ 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
         /* 0x0160 */ 0x8A, 0x9A, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
@@ -118,7 +114,7 @@ const textEncode = (( ) => {
         /* 0x0178 */ 0x9F, 0x00, 0x00, 0x00, 0x00, 0x8E, 0x9E, 0x00
     ]);
 
-    const cp125x_range0 = new Uint8Array([
+    var cp125x_range0 = new Uint8Array([
         /* 0x2010 */ 0x00, 0x00, 0x00, 0x96, 0x97, 0x00, 0x00, 0x00,
         /* 0x2018 */ 0x91, 0x92, 0x82, 0x00, 0x93, 0x94, 0x84, 0x00,
         /* 0x2020 */ 0x86, 0x87, 0x95, 0x00, 0x00, 0x00, 0x85, 0x00,
@@ -127,9 +123,9 @@ const textEncode = (( ) => {
         /* 0x2038 */ 0x00, 0x8B, 0x9B, 0x00, 0x00, 0x00, 0x00, 0x00
     ]);
 
-    const encoders = {
+    var encoders = {
         'windows-1250': function(buf) {
-            let i = 0, n = buf.byteLength, o = 0, c;
+            var i = 0, n = buf.byteLength, o = 0, c;
             while ( i < n ) {
                 c = buf[i++];
                 if ( c < 0x80 ) {
@@ -174,7 +170,7 @@ const textEncode = (( ) => {
             return buf.slice(0, o);
         },
         'windows-1251': function(buf) {
-            let i = 0, n = buf.byteLength, o = 0, c;
+            var i = 0, n = buf.byteLength, o = 0, c;
             while ( i < n ) {
                 c = buf[i++];
                 if ( c < 0x80 ) {
@@ -211,7 +207,7 @@ const textEncode = (( ) => {
             return buf.slice(0, o);
         },
         'windows-1252': function(buf) {
-            let i = 0, n = buf.byteLength, o = 0, c;
+            var i = 0, n = buf.byteLength, o = 0, c;
             while ( i < n ) {
                 c = buf[i++];
                 if ( c < 0x80 ) {
@@ -267,9 +263,3 @@ const textEncode = (( ) => {
         }
     };
 })();
-
-/******************************************************************************/
-
-export default textEncode;
-
-/******************************************************************************/

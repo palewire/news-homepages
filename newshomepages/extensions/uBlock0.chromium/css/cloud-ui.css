@@ -1,5 +1,5 @@
 #cloudWidget {
-    background-color: var(--surface-2);
+    background-color: var(--cloud-widget-surface);
     margin: 0.5em 0;
     min-width: max-content;
     position: relative;
@@ -29,7 +29,7 @@
     visibility: hidden;
     }
 #cloudToolbar button.error {
-    color: var(--info3-ink);
+    color: var(--fg-icon-info-lvl-4);
     }
 #cloudPullAndMerge {
     margin-left: 0.25em;
@@ -49,17 +49,17 @@
     white-space: pre-line;
     }
 #cloudCapacity {
-    background-color: var(--surface-3);
+    background-color: var(--light-gray-30);
     height: 4px;
     }
 #cloudCapacity > div {
-    background-color: var(--cloud-total-used-surface);
+    background-color: var(--light-gray-60);
     }
 #cloudCapacity > div > div {
-    background-color: var(--cloud-used-surface);
+    background-color: var(--violet-60);
     }
 #cloudError {
-    color: var(--info3-ink);
+    color: var(--fg-icon-info-lvl-4);
     flex-grow: 1;
     flex-shrink: 2;
     font-size: small;
@@ -69,9 +69,9 @@
     display: none;
     }
 #cloudCog {
-    color: var(--ink-3);
-        fill: var(--ink-3);
+    color: var(--fg-0-50);
     cursor: pointer;
+    fill: var(--fg-0-50);
     font-size: 110%;
     justify-content: flex-end;
     padding: 0.4em;
@@ -82,7 +82,8 @@
     }
 #cloudWidget #cloudOptions {
     align-items: center;
-    background-color: var(--surface-1);
+    background-color: var(--default-surface);
+    border: 1px solid var(--bg-1-border);
     bottom: 2px;
     display: none;
     font-size: small;

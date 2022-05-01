@@ -24,6 +24,9 @@
     // https://developers.google.com/analytics/devguides/collection/analyticsjs/
     const noopfn = function() {
     };
+    const noopnullfn = function() {
+        return null;
+    };
     //
     const Tracker = function() {
     };
@@ -61,11 +64,9 @@
     ga.create = function() {
         return new Tracker();
     };
-    ga.getByName = function() {
-        return new Tracker();
-    };
+    ga.getByName = noopnullfn;
     ga.getAll = function() {
-        return [new Tracker()];
+        return [];
     };
     ga.remove = noopfn;
     // https://github.com/uBlockOrigin/uAssets/issues/2107
@@ -76,34 +77,24 @@
     if ( dl instanceof Object ) {
         if ( dl.hide instanceof Object && typeof dl.hide.end === 'function' ) {
             dl.hide.end();
-            dl.hide.end = ()=>{};
         }
         if ( typeof dl.push === 'function' ) {
             const doCallback = function(item) {
                 if ( item instanceof Object === false ) { return; }
                 if ( typeof item.eventCallback !== 'function' ) { return; }
                 setTimeout(item.eventCallback, 1);
-                item.eventCallback = ()=>{};
             };
-            dl.push = new Proxy(dl.push, {
-                apply: function(target, thisArg, args) {
-                    doCallback(args[0]);
-                    return Reflect.apply(target, thisArg, args);
-                }
-            });
             if ( Array.isArray(dl) ) {
-                const q = dl.slice();
-                for ( const item of q ) {
+                for ( const item of dl ) {
                     doCallback(item);
                 }
             }
+            dl.push = item => doCallback(item);
         }
     }
     // empty ga queue
     if ( gaQueue instanceof Function && Array.isArray(gaQueue.q) ) {
-        const q = gaQueue.q.slice();
-        gaQueue.q.length = 0;
-        for ( const entry of q ) {
+        for ( const entry of gaQueue.q ) {
             ga(...entry);
         }
     }

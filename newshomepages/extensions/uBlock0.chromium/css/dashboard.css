@@ -8,8 +8,9 @@ html, body {
     width: 100vw;
     }
 #dashboard-nav {
+    background-color: var(--default-surface);
     border: 0;
-    border-bottom: 1px solid var(--border-1);
+    box-shadow: var(--dashboard-bar-shadow);
     display: flex;
     flex-shrink: 0;
     flex-wrap: wrap;
@@ -21,33 +22,23 @@ html, body {
     z-index: 10;
     }
 .tabButton {
-    background-color: transparent;
     border: 0;
-    border-bottom: 3px solid transparent;
-    border-radius: 0;
+    border-bottom: 3px solid var(--bg-1);
+    border-top: 3px solid transparent;
     color: var(--dashboard-tab-ink);
-        fill: var(--dashboard-tab-ink);
-    font-family: var(--font-family);
-    font-size: var(--font-size);
-    padding: 0.7em 1.4em calc(0.7em - 3px);
+    fill: var(--dashboard-tab-ink);
+    padding: 0.5em 1.4em calc(0.5em - 3px);
     text-decoration: none;
+    user-select: none;
     white-space: nowrap;
     }
 .tabButton:focus {
     outline: 0;
     }
-/*
- * TODO: support keyboard-driven navigation
- *
-.tabButton:not(:active):focus {
-    background-color: var(--dashboard-tab-focus-surface);
-    }
- */
 .tabButton.selected {
-    background-color: var(--dashboard-tab-active-surface);
     border-bottom: 3px solid var(--dashboard-tab-active-ink);
     color: var(--dashboard-tab-active-ink);
-        fill: var(--dashboard-tab-active-ink);
+    fill: var(--dashboard-tab-active-ink);
     }
 iframe {
     background-color: transparent;
@@ -58,6 +49,7 @@ iframe {
     width: 100%;
     }
 #unsavedWarning {
+    box-shadow: rgba(128,128,128,0.4) 0 4px 4px;
     display: none;
     left: 0;
     position: absolute;
@@ -68,6 +60,7 @@ iframe {
     display: initial;
     }
 #unsavedWarning > div:first-of-type {
+    background-color: var(--bg-transient-notice);
     padding: 0.5em;
     }
 #unsavedWarning > div:last-of-type {
@@ -101,8 +94,8 @@ body.noDashboard #dashboard-nav {
     cursor: pointer;
     }
 :root.desktop .tabButton:not(.selected):hover {
-    background-color: var(--dashboard-tab-hover-surface);
-    border-bottom-color: var(--dashboard-tab-hover-border);
+    background-color: var(--dashboard-tab-surface-hover);
+    border-bottom-color: var(--dashboard-tab-surface-hover);
     }
 
 /* touch-screen devices */

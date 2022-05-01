@@ -123,7 +123,6 @@ CodeMirror.defineMode('ubo-dynamic-filtering', ( ) => {
         const { sortType } = opts;
         const reNotToken = /^\s+/;
         const reToken = /^\S+/;
-        const tokens = [];
         // leading whitespaces
         let match = reNotToken.exec(string);
         if ( match !== null ) {
@@ -132,7 +131,6 @@ CodeMirror.defineMode('ubo-dynamic-filtering', ( ) => {
         // first token
         match = reToken.exec(string);
         if ( match === null ) { return; }
-        tokens.push(match[0]);
         // hostname or switch
         const isSwitchRule = validSwitches.has(match[0]);
         if ( isSwitchRule ) {
@@ -153,11 +151,14 @@ CodeMirror.defineMode('ubo-dynamic-filtering', ( ) => {
         // second token
         match = reToken.exec(string);
         if ( match === null ) { return; }
-        tokens.push(match[0]);
         // hostname or url
-        const isURLRule = isSwitchRule === false && match[0].indexOf('://') > 0;
+        const isURLRule = isSwitchRule === false && match[0].includes('://');
         if ( isURLRule ) {
-            string = addMatchSlice(match, sortType === 2 ? 'sortkey' : null);
+            if ( isSwitchRule ) {
+                string = addMatchSlice(match, 'error');
+            } else {
+                string = addMatchSlice(match, sortType === 2 ? 'sortkey' : null);
+            }
         } else if ( isValidHostname(match[0]) === false ) {
             string = addMatchSlice(match, 'error');
         } else if ( sortType === 1 && isSwitchRule || sortType === 2 ) {
@@ -172,7 +173,6 @@ CodeMirror.defineMode('ubo-dynamic-filtering', ( ) => {
         // third token
         match = reToken.exec(string);
         if ( match === null ) { return; }
-        tokens.push(match[0]);
         // rule type or switch state
         if ( isSwitchRule ) {
             string = validSwitcheStates.has(match[0])
@@ -182,12 +182,8 @@ CodeMirror.defineMode('ubo-dynamic-filtering', ( ) => {
             string = invalidURLRuleTypes.has(match[0])
                 ? addMatchSlice(match, 'error')
                 : addMatchSlice(match);
-        } else if ( tokens[1] === '*' ) {
-            string = validHnRuleTypes.has(match[0])
-                ? addMatchSlice(match)
-                : addMatchSlice(match, 'error');
         } else {
-            string = match[0] === '*'
+            string = validHnRuleTypes.has(match[0])
                 ? addMatchSlice(match)
                 : addMatchSlice(match, 'error');
         }
@@ -198,7 +194,6 @@ CodeMirror.defineMode('ubo-dynamic-filtering', ( ) => {
         // fourth token
         match = reToken.exec(string);
         if ( match === null ) { return; }
-        tokens.push(match[0]);
         string = isSwitchRule || validActions.has(match[0]) === false
             ? addMatchSlice(match, 'error')
             : addMatchSlice(match, `${match[0]}rule`);

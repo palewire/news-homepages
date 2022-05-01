@@ -55,10 +55,6 @@
     "message": "Ընդլայնման մասին",
     "description": "appears as tab name in dashboard"
   },
-  "supportPageName": {
-    "message": "Աջակցություն",
-    "description": "appears as tab name in dashboard"
-  },
   "assetViewerPageName": {
     "message": "uBlock₀ — Ակտիվների դիտակ",
     "description": "Title for the asset viewer page"
@@ -126,10 +122,6 @@
   "popupTipLog": {
     "message": "Բացել մատյանը",
     "description": "Tooltip used for the logger icon in the panel"
-  },
-  "popupTipReport": {
-    "message": "Հաղորդել կայքում առաջացած խնդրի մասին",
-    "description": "Tooltip used for the 'chat' icon in the panel"
   },
   "popupTipNoPopups": {
     "message": "Միաց./Անջ. այս կայքի բոլոր ելնող լուսամուտների արգելափակումը",
@@ -335,25 +327,17 @@
     "message": "Բարեհաճ գույներ գունակուրություն ունեցողների համար",
     "description": "English: Color-blind friendly"
   },
-  "settingsAppearance": {
-    "message": "Appearance",
-    "description": "Section for controlling user interface appearance"
-  },
-  "settingsThemeLabel": {
-    "message": "Theme",
-    "description": "Label for checkbox to enable a custom dark theme"
-  },
-  "settingsThemeAccent0Label": {
-    "message": "Custom accent color",
-    "description": "Label for checkbox to pick an accent color"
-  },
   "settingsCloudStorageEnabledPrompt": {
     "message": "Միացնել ամպային պահեստի աջակցոմը",
     "description": ""
   },
   "settingsAdvancedUserPrompt": {
-    "message": "Ես հմուտ օգտվող եմ (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>կարդալը պարտադիր է</a>)",
-    "description": "Checkbox to let user access advanced, technical features"
+    "message": "Ես հմուտ օգտվող եմ (<a href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'> կարդալը պարտադիր է</a>)",
+    "description": ""
+  },
+  "settingsAdvancedUserSettings": {
+    "message": "ընդլայնված կարգավորումներ",
+    "description": "For the tooltip of a link which gives access to advanced settings"
   },
   "settingsPrefetchingDisabledPrompt": {
     "message": "Անջատել նախաբեռնումը՝ արգելափակված ցանցային հայտերի համար միացումները կանխելու",
@@ -399,18 +383,6 @@
     "message": "Բանալ կանոնական անունները",
     "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
   },
-  "settingsAdvanced": {
-    "message": "Advanced",
-    "description": "Section for controlling advanced-user settings"
-  },
-  "settingsAdvancedSynopsis": {
-    "message": "Features suitable only for technical users",
-    "description": "Description of section controlling advanced-user settings"
-  },
-  "settingsAdvancedUserSettings": {
-    "message": "ընդլայնված կարգավորումներ",
-    "description": "For the tooltip of a link which gives access to advanced settings"
-  },
   "settingsLastRestorePrompt": {
     "message": "Վերջին վերականգնումը՝",
     "description": "English: Last restore:"
@@ -454,10 +426,6 @@
   "3pIgnoreGenericCosmeticFiltersInfo": {
     "message": "Ընդհանուր կոսմետիկ զտիչներն այն կոսմետիկ զտիչներն են, որոնք նախատեսված են կիրառվել բոլոր կայքերում։ Այս ընտրանքը միացնելը կվերացնի հիշողության և մշակիչի բեռնվածությունը, որը կայքեջերի մոտ ավելանում է ընդհանուր կոսմետիկ զտիչների մշակման արդյունքում։\n\nԽորհուրդ է տրվում միացնել այս ընտրանքը ոչ բավականաչափ հզոր սարքերում։",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
-  },
-  "3pSuspendUntilListsAreLoaded": {
-    "message": "Suspend network activity until all filter lists are loaded",
-    "description": "A checkbox in the 'Filter lists' pane"
   },
   "3pListsOfBlockedHostsHeader": {
     "message": "Lists of blocked hosts",
@@ -613,7 +581,7 @@
   },
   "whitelistPrompt": {
     "message": "Վստահված կայքերի ցուցակը սահմանում է, թե որ կայքերում uBlock Origin-ը պիտի անջատված լինի։ Մեկ տողում մեկ գրառում։ Անճիշտ կանոններն առանց նախազգուշացման անտեսվելու և մեկնաբանվելու են։",
-    "description": "A concise description of the 'Trusted sites' pane."
+    "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
     "message": "Ներմուծել և հավելել",
@@ -879,126 +847,6 @@
     "message": "Markdown",
     "description": "Label for radio-button to pick export text format"
   },
-  "supportOpenButton": {
-    "message": "Բացել",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportReportSpecificButton": {
-    "message": "Նոր զեկույց ստեղծել",
-    "description": "Text for button which open an external webpage in Support pane"
-  },
-  "supportFindSpecificButton": {
-    "message": "Գտնել նման զեկույցներ",
-    "description": "A clickable link in the filter issue reporter section"
-  },
-  "supportS1H": {
-    "message": "Փաստաթղթեր",
-    "description": "Header of 'Documentation' section in Support pane"
-  },
-  "supportS1P1": {
-    "message": "Կարդացեք փաստաթղթերը <code>uBlock/wiki</code>-ում՝ uBlock Origin-ի բոլոր հնարավորությունների մասին իմանալու։",
-    "description": "First paragraph of 'Documentation' section in Support pane"
-  },
-  "supportS2H": {
-    "message": "Հարցեր և աջակցություն",
-    "description": "Header of 'Questions and support' section in Support pane"
-  },
-  "supportS2P1": {
-    "message": "Հարցերի պատասխանները և օգնության այլ տեսակները մատչելի են Reddit-ի <code>/r/uBlockOrigin</code> բաժնում։",
-    "description": "First paragraph of 'Questions and support' section in Support pane"
-  },
-  "supportS3H": {
-    "message": "Զտիչի խնդիրներ/կայքը կոտրված է",
-    "description": "Header of 'Filter issues' section in Support pane"
-  },
-  "supportS3P1": {
-    "message": "Հաղորդեք որոշակի կայքերի հետ կապված զտիչի խնդիրների մասին <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets-ի</code> խնդիրների հետագծիչի բաժնում</span>։ <u>Պահանջվում է GitHub հաշիվ։</u>",
-    "description": "First paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P2": {
-    "message": "<b>Կարևոր է.</b> Խուսափեք uBlock Origin-ի հետ մեկտեղ նման այլ արգելափակիչներ օգտագործելուց, քանի որ դա կարող է որոշակի կայքերում զտիչի հետ կապված խնդիրներ առաջացնել:",
-    "description": "Second paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS3P3": {
-    "message": "<b>Խորհուրդներ.</b>Համոզվեք, որ Ձեր զտիչների ցուցակները թարմացված են: <span data-url=\"logger-ui.html#_\">Մատյանը</span> զտիչների հետ կապված խնդիրների ախտորոշման հիմնական գործիքն է։",
-    "description": "Third paragraph of 'Filter issues' section in Support pane"
-  },
-  "supportS4H": {
-    "message": "Զեկույց սխալի մասին",
-    "description": "Header of 'Bug report' section in Support pane"
-  },
-  "supportS4P1": {
-    "message": "Հաղորդեք uBlock Origin-ի սեփական սխալների մասին <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> խնդիրների հետագծիչի բաժնում</span>։ <u>Պահանջվում է GitHub հաշիվ։</u>",
-    "description": "First paragraph of 'Bug report' section in Support pane"
-  },
-  "supportS5H": {
-    "message": "Ախտորոշիչ տեղեկություն",
-    "description": "Header of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P1": {
-    "message": "Ցածում տեխնիկական տեղեկություն է, որը կարող է օգտակար լինել, երբ կամավորները փորձում են օգնել Ձեզ լուծել խնդիրը։",
-    "description": "First paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS5P2": {
-    "message": "<b>Կարևոր է.</b> Հնարավոր անձնական կամ զգայուն տեղեկությունները խմբագրվում է լռելյայնորեն։ Վերամշակված տեղեկություները կարող է ավելի բարդացնել խնդրի լուծումը:",
-    "description": "Second paragraph of 'Troubleshooting Information' section in Support pane"
-  },
-  "supportS6H": {
-    "message": "Հաղորդել զտիչի խնդրի մասին",
-    "description": "Header of 'Report a filter issue' section in Support pane"
-  },
-  "supportS6P1S1": {
-    "message": "Կամավորներին կրկնօրինակ զեկույցներով չծանրաբեռնելու համար խնդրում ենք ստուգել, որ խնդիրն արդեն հաղորդված չէ։",
-    "description": "A paragraph in the filter issue reporter section"
-  },
-  "supportS6URL": {
-    "message": "Վեբ էջի հասցեն՝",
-    "description": "Label for the URL of the page"
-  },
-  "supportS6Select1": {
-    "message": "Վեբ էջը...",
-    "description": "Label for widget to select type of issue"
-  },
-  "supportS6Select1Option0": {
-    "message": "-- Ընտրեք կատեգորիա --",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option1": {
-    "message": "Գովազդ է ցուցադրվում կամ դրա մնացորդներ",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option2": {
-    "message": "Վրածածկումներ կամ այլ խանգարումներ",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option3": {
-    "message": "Հայտնաբերվում է uBlock Origin-ը",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option4": {
-    "message": "Գաղտնիության հետ կապված խնդիրներ",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option5": {
-    "message": "Անսարքություններ, երբ uBlock Origin-ը միացված է",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Select1Option6": {
-    "message": "Բացում է անցանկալի ներդիրները կամ լուսամուտները",
-    "description": "An entry in the widget used to select the type of issue"
-  },
-  "supportS6Checkbox1": {
-    "message": "Նշել վեբ էջը որպես «NSFW» (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">«Աշխատանքի համար անվտանգ չէ»</a>)",
-    "description": "A checkbox to use for NSFW sites"
-  },
-  "supportRedact": {
-    "message": "Խմբագրել",
-    "description": "Text for 'Redact' button"
-  },
-  "supportUnredact": {
-    "message": "Չեղարկել խմբագրումը",
-    "description": "Text for 'Unredact' button"
-  },
   "aboutPrivacyPolicy": {
     "message": "Գաղտնիության քաղաքականություն",
     "description": "Link to privacy policy on GitHub (English)"
@@ -1006,6 +854,18 @@
   "aboutChangelog": {
     "message": "Փոփոխությունների մատյան",
     "description": ""
+  },
+  "aboutWiki": {
+    "message": "Վիքի",
+    "description": "English: project' wiki on GitHub"
+  },
+  "aboutSupport": {
+    "message": "Աջակցում",
+    "description": "A link for where to get support"
+  },
+  "aboutIssues": {
+    "message": "Խնդիրների հետագծում",
+    "description": "Text for a link to official issue tracker"
   },
   "aboutCode": {
     "message": "Աղբյուրի կոդ (GPLv3)",
@@ -1029,14 +889,6 @@
   },
   "aboutDependencies": {
     "message": "Արտաքին կախվածություններ (GPLv3-համատեղելի)՝",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNs": {
-    "message": "uBO-ի սեփական զտիչների ցանկերն ազատորեն տեղաբաշխված են հետևյալ <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">CDN-երում</a>.",
-    "description": "Shown in the About pane"
-  },
-  "aboutCDNsInfo": {
-    "message": "Զտիչների ցանկը թարմացնելիս օգտագործվում է պատահականորեն ընտրված CDN",
     "description": "Shown in the About pane"
   },
   "aboutBackupDataButton": {
@@ -1164,7 +1016,7 @@
     "description": "tooltip"
   },
   "cloudNoData": {
-    "message": "…\n…",
+    "message": "...\n...",
     "description": ""
   },
   "cloudDeviceNamePrompt": {
@@ -1215,17 +1067,13 @@
     "message": "Պատճենել առ սեղմատախտակ",
     "description": "Label for buttons used to copy something to the clipboard"
   },
-  "genericSelectAll": {
-    "message": "Ընտրել բոլորը",
-    "description": "Label for buttons used to select all text in editor"
-  },
-  "toggleCosmeticFiltering": {
-    "message": "Toggle cosmetic filtering",
-    "description": "Label for keyboard shortcut used to toggle cosmetic filtering"
+  "toggleBlockingProfile": {
+    "message": "Արգելափակման պրոֆիլի փոխանջատում",
+    "description": "Label for keyboard shortcut used to toggle blocking profile"
   },
   "relaxBlockingMode": {
     "message": "Արգելափակման թուլացված ռեժիմ",
-    "description": "Label for keyboard shortcut used to relax blocking mode"
+    "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')"
   },
   "storageUsed": {
     "message": "Պահեստի չափը՝ {{value}} {{unit}}",
