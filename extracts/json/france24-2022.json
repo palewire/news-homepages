@@ -1,5 +1,5 @@
 {
-  "created": 1651251439,
+  "created": 1651364547,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/5/items/france24-2022",
@@ -898,31 +898,73 @@
       "sha1": "482a3ccb9b6d36604cffd4d73c3c442d703f973f"
     },
     {
+      "name": "france24-2022-04-30T14:10:40.955809+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651320649",
+      "size": "26788",
+      "md5": "1f7ec450e555b7ac036e1ab0373cbef0",
+      "crc32": "add1b754",
+      "sha1": "d952e4b62906ee25cb45de9ab969ee4c600ab47e",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-04-30T14:10:40.955809+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651320650",
+      "size": "42659",
+      "md5": "55761ecab85582010204e4f6f13936c7",
+      "crc32": "78d7fb26",
+      "sha1": "40f2f340b0822948d246fe381e67eccad1dd47d5",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-04-30T14:10:40.955809+02:00.jpg",
+      "source": "original",
+      "mtime": "1651320647",
+      "size": "269976",
+      "md5": "f27d3cc4d0fc3aa16739e39ef68f385d",
+      "crc32": "0c6e2b54",
+      "sha1": "37dc3f14d5928822f920e076c9d5946ae3db0ea5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-04-30T14:10:40.955809+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-04-30T14:10:40.955809+02:00.jpg",
+      "mtime": "1651320733",
+      "size": "9106",
+      "md5": "9c93807d9d6e2d40eab6aa322dc44b2f",
+      "crc32": "10cc7992",
+      "sha1": "3320e19109c7ce2b96d2d29665d71edfbd837626"
+    },
+    {
       "name": "france24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dcee0be1f95f4fc8bb616be4379f3a123c4e0ce5",
-      "mtime": "1651235775",
-      "size": "19294",
-      "md5": "3e36352c733ab4c10a5ea49aa4df6c24",
-      "crc32": "d67534a6",
-      "sha1": "90031aac9c068602921b183294d96c8a3be3175b",
+      "btih": "f5c32e0db772a15c8fe4b71f68ce9ebaed9f55c4",
+      "mtime": "1651320739",
+      "size": "20143",
+      "md5": "21b72e7580d41f0935bbed0cd3a60015",
+      "crc32": "b2c39843",
+      "sha1": "6378b1e34fe06285755751660c82980582583a03",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ee3855ce3c1c0987dee31cbf105750aa",
+      "md5": "3a4bccdfd721b767017d9f40418e2d39",
       "summation": "md5"
     },
     {
       "name": "france24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651234190",
-      "size": "114688",
-      "md5": "5f0ab6a49dab2d3feac5b728382cdde2",
-      "crc32": "e5aa4985",
-      "sha1": "835e8459f2bc890a15b4267ebc3025fdd218aa12",
+      "mtime": "1651320654",
+      "size": "118784",
+      "md5": "26f1f9324eceaecec67abd5a2a985236",
+      "crc32": "95e4fab2",
+      "sha1": "235cce333723c916bbe0a34f60d2eac4b414d362",
       "format": "Metadata"
     },
     {
@@ -936,9 +978,727 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1651235775,
-  "item_size": 7244120,
+  "files_count": 93,
+  "france24-2022": [
+    {
+      "text": "Acc\u00e9der au contenu principal",
+      "url": "#main-content"
+    },
+    {
+      "text": "    France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct\n",
+      "url": "/fr/"
+    },
+    {
+      "text": "\n                \n                    \nEn Direct\n                \n            ",
+      "url": "/fr/direct"
+    },
+    {
+      "text": "Fran\u00e7ais",
+      "url": "/fr/"
+    },
+    {
+      "text": "English",
+      "url": "/en/"
+    },
+    {
+      "text": "Espa\u00f1ol",
+      "url": "/es/"
+    },
+    {
+      "text": "\u0639\u0631\u0628\u064a",
+      "url": "/ar/"
+    },
+    {
+      "text": "\u00c0 la Une",
+      "url": "/fr/"
+    },
+    {
+      "text": "France",
+      "url": "/fr/france/"
+    },
+    {
+      "text": "Afrique",
+      "url": "/fr/afrique/"
+    },
+    {
+      "text": "Moyen-Orient",
+      "url": "/fr/moyen-orient/"
+    },
+    {
+      "text": "Europe",
+      "url": "/fr/europe/"
+    },
+    {
+      "text": "Am\u00e9riques",
+      "url": "/fr/am%C3%A9riques/"
+    },
+    {
+      "text": "Asie-Pacifique",
+      "url": "/fr/asie-pacifique/"
+    },
+    {
+      "text": "Sports",
+      "url": "/fr/sports/"
+    },
+    {
+      "text": "\u00c9conomie / Technologie",
+      "url": "/fr/%C3%A9co-tech/"
+    },
+    {
+      "text": "Culture",
+      "url": "/fr/culture/"
+    },
+    {
+      "text": "Plan\u00e8te",
+      "url": "/fr/plan%C3%A8te/"
+    },
+    {
+      "text": "Webdocumentaires",
+      "url": "/fr/webdocumentaires/"
+    },
+    {
+      "text": "Stop l'infox",
+      "url": "/fr/stop-infox"
+    },
+    {
+      "text": "Les plus vus",
+      "url": "/fr/les-plus-vus"
+    },
+    {
+      "text": "Voyage",
+      "url": "/fr/voyage/"
+    },
+    {
+      "text": "La cha\u00eene en direct",
+      "url": "/fr/direct"
+    },
+    {
+      "text": "Le dernier journal",
+      "url": "/fr/vod/journal-info"
+    },
+    {
+      "text": "\u00c9missions de A \u00e0 Z",
+      "url": "/fr/%C3%A9missions/"
+    },
+    {
+      "text": "Le journal accessible sous-titr\u00e9",
+      "url": "/fr/actualit%C3%A9s-sous-titr%C3%A9es"
+    },
+    {
+      "text": "Grille des programmes",
+      "url": "/fr/grille-des-programmes"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/FBfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/TWfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/IGfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/YTfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/DMfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/SC"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://emailing.france24.com/fr/subscribe"
+    },
+    {
+      "text": "Recevoir France 24",
+      "url": "/fr/comment-recevoir-la-chaine"
+    },
+    {
+      "text": "Applications",
+      "url": "/fr/applications"
+    },
+    {
+      "text": "RSS",
+      "url": "/fr/flux-rss"
+    },
+    {
+      "text": "Qui sommes-nous ?",
+      "url": "/fr/a-propos"
+    },
+    {
+      "text": "Espace Presse",
+      "url": "/fr/tag/communique-presse/"
+    },
+    {
+      "text": "Contacter France 24",
+      "url": "https://www.francemediasmonde.com/fr/contact/?brand=f24"
+    },
+    {
+      "text": "Publicit\u00e9",
+      "url": "https://www.francetvpub.fr/nos-chaines/france-24/"
+    },
+    {
+      "text": "Nous rejoindre",
+      "url": "https://fmm.io/jobs"
+    },
+    {
+      "text": "Mentions l\u00e9gales",
+      "url": "https://www.francemediasmonde.com/fr/legal-notice"
+    },
+    {
+      "text": "Confidentialit\u00e9",
+      "url": "https://www.francemediasmonde.com/fr/privacy"
+    },
+    {
+      "text": "Cookies",
+      "url": "https://www.francemediasmonde.com/fr/cookies"
+    },
+    {
+      "text": "Centre de pr\u00e9f\u00e9rences",
+      "url": "#"
+    },
+    {
+      "text": "Gestion des notifications",
+      "url": "/fr/gestion-notifications"
+    },
+    {
+      "text": "Les Observateurs",
+      "url": "https://observers.france24.com/fr"
+    },
+    {
+      "text": "RFI",
+      "url": "https://www.rfi.fr/fr/"
+    },
+    {
+      "text": "RFI Savoirs",
+      "url": "https://savoirs.rfi.fr/"
+    },
+    {
+      "text": "RFI Musique",
+      "url": "https://musique.rfi.fr/"
+    },
+    {
+      "text": "RFI Instrumental",
+      "url": "https://www.rfi-instrumental.com/fr"
+    },
+    {
+      "text": "Mondoblog",
+      "url": "https://mondoblog.org/"
+    },
+    {
+      "text": "MCD",
+      "url": "https://www.mc-doualiya.com/"
+    },
+    {
+      "text": "InfoMigrants",
+      "url": "https://www.infomigrants.net/fr/"
+    },
+    {
+      "text": "CFI",
+      "url": "https://www.cfi.fr/fr"
+    },
+    {
+      "text": "Acad\u00e9mie",
+      "url": "https://academie.france24-mcd-rfi.com/fr/"
+    },
+    {
+      "text": "France M\u00e9dias Monde",
+      "url": "https://www.francemediasmonde.com/fr/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rfi.fr/fr/"
+    },
+    {
+      "text": "",
+      "url": "https://www.france24.com/fr/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mc-doualiya.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.francemediasmonde.com/fr/"
+    },
+    {
+      "text": "",
+      "url": "https://www.acpm.fr/Support-Numerique/site/france24-com"
+    },
+    {
+      "text": "\n",
+      "url": "/fr/"
+    },
+    {
+      "text": "#Guerre En Ukraine",
+      "url": "https://www.france24.com/fr/tag/ukraine/"
+    },
+    {
+      "text": "#Pr\u00e9sidentielle 2022",
+      "url": "https://www.france24.com/fr/%C3%A9lection-pr%C3%A9sidentielle-2022/"
+    },
+    {
+      "text": "France",
+      "url": "/fr/france/"
+    },
+    {
+      "text": "Afrique",
+      "url": "/fr/afrique/"
+    },
+    {
+      "text": "Reportages",
+      "url": "/fr/reportages/"
+    },
+    {
+      "text": "Emissions",
+      "url": "/fr/%C3%A9missions/derni%C3%A8res-%C3%A9missions/"
+    },
+    {
+      "text": "Stop l'infox",
+      "url": "/fr/stop-infox"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                HEURE EN HEURE\nEn direct : la Russie accentue la pression dans la r\u00e9gion de Kharkiv\n                                \n        ",
+      "url": "/fr/europe/20220430-en-direct-la-russie-accentue-la-pression-dans-la-r%C3%A9gion-de-kharkiv"
+    },
+    {
+      "text": "\n            \n                            \n\n                         L'offensive russe dans le Donbass a pris du retard, selon le Pentagone\n        ",
+      "url": "/fr/europe/20220429-en-direct-l-est-et-le-sud-de-l-ukraine-sous-les-bombes-russes"
+    },
+    {
+      "text": "\n            \n                            \n\n                         Gaz et p\u00e9trole : en pleine guerre en Ukraine, Moscou empoche le jackpot\n        ",
+      "url": "/fr/%C3%A9co-tech/20220428-gaz-et-p%C3%A9trole-en-pleine-guerre-en-ukraine-moscou-empoche-le-jackpot"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                APRES LA PR\u00c9SIDENTIELLE 2/3L\u00e9gislatives 2022 : la droite \u00e9parpill\u00e9e fa\u00e7on puzzle\n                            \n        ",
+      "url": "/fr/france/20220430-l%C3%A9gislatives-2022-la-droite-%C3%A9parpill%C3%A9e-fa%C3%A7on-puzzle"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Covid-19 : P\u00e9kin renforce ses mesures sanitaires face au variant Omicron\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220430-covid-19-p%C3%A9kin-renforce-ses-mesures-sanitaires-face-au-variant-omicron"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nEn Inde et au Pakistan, une canicule record et des coupures d'\u00e9lectricit\u00e9\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220430-en-inde-et-au-pakistan-une-canicule-record-et-des-coupures-d-%C3%A9lectricit%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                De nouveaux heurts \u00e0 J\u00e9rusalem et une attaque meurtri\u00e8re en Cisjordanie\n                            \n        ",
+      "url": "/fr/moyen-orient/20220430-de-nouveaux-heurts-%C3%A0-j%C3%A9rusalem-et-une-attaque-meurtri%C3%A8re-en-cisjordanie"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ANALYSE\nGuerre en Ukraine : les Occidentaux veulent inscrire leur soutien militaire dans le temps long\n                            \n        ",
+      "url": "/fr/europe/20220429-guerre-en-ukraine-les-occidentaux-veulent-inscrire-leur-soutien-militaire-dans-le-temps-long"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Cor\u00e9e du Nord : Kim Jong-un menace d'un recours \"pr\u00e9ventif\" \u00e0 l'arme nucl\u00e9aire\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220430-v"
+    },
+    {
+      "text": "\n        Chine: l'activit\u00e9 manufacturi\u00e8re au plus bas depuis deux ans\n        \n    ",
+      "url": "/fr/info-en-continu/20220430-chine-l-activit%C3%A9-manufacturi%C3%A8re-au-plus-bas-depuis-deux-ans"
+    },
+    {
+      "text": "\n        Pour le patron du Medef, l'inflation va durer\n        \n    ",
+      "url": "/fr/info-en-continu/20220430-pour-le-patron-du-medef-l-inflation-va-durer"
+    },
+    {
+      "text": "\n        De nouveaux heurts \u00e0 J\u00e9rusalem et une attaque meurtri\u00e8re en Cisjordanie\n        \n    ",
+      "url": "/fr/moyen-orient/20220430-de-nouveaux-heurts-%C3%A0-j%C3%A9rusalem-et-une-attaque-meurtri%C3%A8re-en-cisjordanie"
+    },
+    {
+      "text": "\n        \nEn Inde et au Pakistan, une canicule record et des coupures d'\u00e9lectricit\u00e9\n        \n    ",
+      "url": "/fr/asie-pacifique/20220430-en-inde-et-au-pakistan-une-canicule-record-et-des-coupures-d-%C3%A9lectricit%C3%A9"
+    },
+    {
+      "text": "\n        M\u00e9lenchon appelle ses partenaires de gauche \u00e0 sortir de la \"culture de la d\u00e9faite\"\n        \n    ",
+      "url": "/fr/info-en-continu/20220430-m%C3%A9lenchon-appelle-ses-partenaires-de-gauche-%C3%A0-sortir-de-la-culture-de-la-d%C3%A9faite"
+    },
+    {
+      "text": "\n                    Toute l'actualit\u00e9 en direct \n\n                ",
+      "url": "/fr/infocontinu"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                APR\u00c9S LA PR\u00c9SIDENTIELLE 1/3L\u00e9gislatives 2022\u00a0: r\u00e8glements de comptes \u00e0 l'extr\u00eame droite\n                                \n        ",
+      "url": "/fr/france/20220428-apr%C3%A8s-la-r%C3%A9%C3%A9lection-d-emmanuel-macron-1-3-r%C3%A8glement-de-comptes-%C3%A0-l-extr%C3%AAme-droite"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Apr\u00e8s la pr\u00e9sidentielleL\u00e9gislatives 2022 : le PS suspend les n\u00e9gociations avec les Insoumis, attendant des gages de LFI\n                            \n        ",
+      "url": "/fr/france/20220429-l%C3%A9gislatives-2022-le-ps-fait-un-pas-vers-un-accord-avec-les-insoumis"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                L\u00c9GISLATIVES 2022Comprendre les \u00e9lections l\u00e9gislatives fran\u00e7aises en six questions\n                            \n        ",
+      "url": "/fr/france/20220427-comprendre-les-%C3%A9lections-l%C3%A9gislatives-fran%C3%A7aises-en-six-questions"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                CARTOONING FOR PEACEL'actu en dessin : la r\u00e9\u00e9lection d\u2019Emmanuel Macron, vue de l\u2019\u00e9tranger\n                            \n        ",
+      "url": "/fr/europe/20220429-l-actu-en-dessin-la-r%C3%A9%C3%A9lection-d-emmanuel-macron-vue-de-l-%C3%A9tranger"
+    },
+    {
+      "text": "\n                    Lire plus sur l'\u00e9lection pr\u00e9sidentielle \n\n                ",
+      "url": "/fr/\u00e9lection-pr\u00e9sidentielle-2022/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                GUERRE DES PRIXIndon\u00e9sie : de la guerre en Ukraine... \u00e0 une interdiction de l'exportation d'huile de palme\n                            \n        ",
+      "url": "/fr/%C3%A9co-tech/20220429-indon%C3%A9sie-de-la-guerre-en-ukraine-%C3%A0-une-interdiction-de-l-exportation-d-huile-de-palme"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                REPORTAGEL\u00e9gislatives au Liban : Lina Hamdan, une voix chiite dissidente face au Hezbollah\n                            \n        ",
+      "url": "/fr/moyen-orient/20220429-l%C3%A9gislatives-au-liban-lina-hamdan-une-voix-chiite-dissidente-face-au-hezbollah"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                SUR LES OBSERVATEURS\"Des familles et des personnes souffrant de handicap\" parmi les migrants \u00e0 la fronti\u00e8re Bi\u00e9lorussie-Pologne\n                            \n        ",
+      "url": "https://observers.france24.com/fr/europe/20220429-pologne-bielorussie-familles-personnes-handicap-migrants-migration-europe-refoulement-frontiere-droit-asile"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FIL DU 29 AVRIL\nL'offensive russe dans le Donbass a pris du retard, selon le Pentagone\n                            \n        ",
+      "url": "/fr/europe/20220429-en-direct-l-est-et-le-sud-de-l-ukraine-sous-les-bombes-russes"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                29 avril 1992Racisme, violences polici\u00e8res, in\u00e9galit\u00e9s... Il y a 30 ans, les \u00e9meutes de Los Angeles\n                            \n        ",
+      "url": "/fr/am%C3%A9riques/20220429-racisme-violences-polici%C3%A8res-in%C3%A9galit%C3%A9s-il-y-a-30-ans-les-%C3%A9meutes-de-los-angeles"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                PAND\u00c9MIE\"Voices of April\", quand les habitants de Shanghai d\u00e9fient la censure chinoise\n                                \n        ",
+      "url": "/fr/%C3%A9co-tech/20220425-voices-of-april-quand-les-habitants-de-shanghai-d%C3%A9fient-la-censure-chinoise"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                M\u00c9DIAS\nElon Musk et Twitter\u00a0: la \"libert\u00e9 d'expression absolue\"\u2026 \u00e0 g\u00e9om\u00e9trie variable\n                            \n        ",
+      "url": "/fr/am%C3%A9riques/20220426-elon-musk-et-twitter-la-libert%C3%A9-d-expression-absolue-%C3%A0-g%C3%A9om%C3%A9trie-variable"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                CONFLIT OUBLI\u00c9La guerre en Ukraine, une carte \u00e0 jouer pour le gouvernement et les rebelles \u00e9thiopiens\n                            \n        ",
+      "url": "/fr/afrique/20220427-la-guerre-en-ukraine-une-carte-%C3%A0-jouer-pour-le-gouvernement-et-les-rebelles-%C3%A9thiopiens"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Mode d'emploiMali : comment continuer \u00e0 regarder France 24 et \u00e9couter RFI ?\n                            \n        ",
+      "url": "/fr/afrique/20220322-mali-comment-continuer-%C3%A0-regarder-france-24-et-%C3%A9couter-rfi"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                LIBERT\u00c9 D'INFORMER\nFrance M\u00e9dias Monde conteste la d\u00e9cision du Mali de suspendre d\u00e9finitivement France\u00a024 et RFI\n                            \n        ",
+      "url": "/fr/afrique/20220427-france-m%C3%A9dias-monde-conteste-la-d%C3%A9cision-du-mali-de-suspendre-d%C3%A9finitivement-france-24-et-rfi"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Alexanda Kotey, bourreau du groupe \u00c9tat islamique, condamn\u00e9 \u00e0 la perp\u00e9tuit\u00e9\n                            \n        ",
+      "url": "/fr/am%C3%A9riques/20220429-alexanda-kotey-bourreau-du-groupe-%C3%A9tat-islamique-condamn%C3%A9-%C3%A0-la-perp%C3%A9tuit%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                L'ex-tennisman Boris Becker condamn\u00e9 \u00e0 deux ans et demi de prison pour fraude\n                            \n        ",
+      "url": "/fr/europe/20220429-l-ex-tennisman-boris-becker-condamn%C3%A9-%C3%A0-deux-ans-et-demi-de-prison-pour-fraude"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Focus\nViols pendant la guerre d'Alg\u00e9rie, un scandale occult\u00e9\n                            \n        ",
+      "url": "/fr/%C3%A9missions/focus/20220429-viols-pendant-la-guerre-d-alg%C3%A9rie-un-scandale-occult%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                France : le Conseil d'\u00c9tat suspend la dissolution de deux associations pro-palestiniennes\n                            \n        ",
+      "url": "/fr/france/20220429-france-le-conseil-d-%C3%A9tat-suspend-la-dissolution-de-deux-associations-pro-palestiniennes"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                La Pologne doit mieux prot\u00e9ger les r\u00e9fugi\u00e9s ukrainiens face aux risques d'abus\n                            \n        ",
+      "url": "/fr/europe/20220429-la-pologne-doit-mieux-prot%C3%A9ger-les-r%C3%A9fugi%C3%A9s-ukrainiens-face-aux-risques-d-abus"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ELEMENT TERRE\n\nGaz russe\u00a0: le dilemme\n                                \n        ",
+      "url": "/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre/20220429-gaz-russe-le-dilemme"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ActuElles\nQuel espoir pour les Salvadoriennes en prison ?\n                            \n        ",
+      "url": "/fr/%C3%A9missions/actuelles/20220429-quel-espoir-pour-les-salvadoriennes-en-prison"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                L\u2019invit\u00e9 du jour\n\nG\u00e9n\u00e9ral Dominique Trinquand\u00a0: \"Vladimir Poutine ne peut plus conqu\u00e9rir l'ensemble de l'Ukraine\"\n                            \n        ",
+      "url": "/fr/%C3%A9missions/invit%C3%A9-du-jour/20220429-vladimir-poutine-ne-peut-plus-conqu%C3%A9rir-l-ensemble-de-l-ukraine"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Focus\nViols pendant la guerre d'Alg\u00e9rie, un scandale occult\u00e9\n                            \n        ",
+      "url": "/fr/%C3%A9missions/focus/20220429-viols-pendant-la-guerre-d-alg%C3%A9rie-un-scandale-occult%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Outre-Mer\nPr\u00e9sidentielle\u00a0: en Outre-mer, un vote \u00e0 contre-courant de l'Hexagone\n                            \n        ",
+      "url": "/fr/%C3%A9missions/outre-mer/20220429-pr%C3%A9sidentielle-en-outre-mer-un-vote-%C3%A0-contre-courant-de-l-hexagone"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Reporters\nSerbie : une mine de lithium qui s\u00e8me la discorde\n                            \n        ",
+      "url": "/fr/%C3%A9missions/reporters/20220225-serbie-une-mine-de-lithium-qui-s%C3%A8me-la-discorde"
+    },
+    {
+      "text": "\n                    Plus d'\u00e9missions \n\n                ",
+      "url": "/fr/\u00e9missions/derni\u00e8res-\u00e9missions/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                SUR INFOMIGRANTSEn Angleterre, l'\"hostilit\u00e9\" d'un syst\u00e8me d'accueil ultra verrouill\u00e9\n                            \n        ",
+      "url": "https://www.infomigrants.net/fr/post/40142/cest-impossible-de-penser-au-futur--en-angleterre-lhostilite-dun-systeme-daccueil-ultra-verrouille"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Apr\u00e8s deux incendies \u00e0 Paris, la RATP retire 149 bus \u00e9lectriques\n                            \n        ",
+      "url": "/fr/france/20220429-apr%C3%A8s-deux-incendies-%C3%A0-paris-la-ratp-retire-149-bus-%C3%A9lectriques"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                sur les observateursCe que l\u2019on sait des images du suppos\u00e9 complot n\u00e9onazi ukrainien contre un c\u00e9l\u00e8bre journaliste russe\n                            \n        ",
+      "url": "https://observers.france24.com/fr/europe/20220429-ce-que-l-on-sait-des-images-du-suppos\u00e9-complot-n\u00e9onazi-ukrainien-contre-un-c\u00e9l\u00e8bre-journaliste-russe"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                L'\u00c9gyptien Mohamed Salah \u00e9lu meilleur joueur de l'ann\u00e9e en Angleterre\n                            \n        ",
+      "url": "/fr/sports/20220429-l-%C3%A9gyptien-mohamed-salah-%C3%A9lu-meilleur-joueur-de-l-ann%C3%A9e-en-angleterre"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nL'Inde et le Pakistan en proie \u00e0 une vague de chaleur record\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220429-l-inde-et-le-pakistan-en-proie-%C3%A0-une-vague-de-chaleur-record"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Refoulements ill\u00e9gaux de migrants : le patron controvers\u00e9 de l'agence Frontex d\u00e9missionne\n                            \n        ",
+      "url": "/fr/europe/20220429-fabrice-leggeri-patron-controvers%C3%A9-de-l-agence-frontex-pr%C3%A9sente-sa-d%C3%A9mission"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nKiev d\u00e9molit un monument historique d\u00e9di\u00e9 \u00e0 l'amiti\u00e9 entre l\u2019Ukraine et la Russie\n                                \n        ",
+      "url": "/fr/vid%C3%A9o/20220427-kiev-d%C3%A9molit-un-monument-historique-d%C3%A9di%C3%A9-%C3%A0-l-amiti%C3%A9-entre-l-ukraine-et-la-russie"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nUkraine : des enfants \u00e0 Kharkiv, t\u00e9moins de la guerre\n                            \n        ",
+      "url": "/fr/vid%C3%A9o/20220426-ukraine-des-enfants-%C3%A0-kharkiv-t%C3%A9moins-de-la-guerre"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nR\u00e9\u00e9lection d'Emmanuel Macron\u00a0: r\u00e9actions en Guadeloupe, qui a vot\u00e9 massivement pour Marine Le Pen\n                            \n        ",
+      "url": "/fr/vid%C3%A9o/20220425-r%C3%A9%C3%A9lection-d-emmanuel-macron-r%C3%A9actions-en-guadeloupe-qui-a-vot%C3%A9-massivement-pour-marine-le-pen"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nGaz russe : l\u2019Italie veut s\u2019en d\u00e9faire et se tourne vers le continent africain\n                            \n        ",
+      "url": "/fr/vid%C3%A9o/20220423-gaz-russe-l-italie-veut-s-en-d%C3%A9faire-et-se-tourne-vers-le-continent-africain"
+    },
+    {
+      "text": "\n                    Regarder toute l'actualit\u00e9 en vid\u00e9os \n\n                ",
+      "url": "/fr/tag/vid\u00e9omobile/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nFact or fake : le locataire de l'\u00c9lys\u00e9e est-il \u00e0 la t\u00eate de l'Union Europ\u00e9enne\u00a0?\n                            \n        ",
+      "url": "/fr/%C3%A9missions/contre-faits/20220429-fact-or-fake-le-locataire-de-l-%C3%A9lys%C3%A9e-est-il-%C3%A0-la-t%C3%AAte-de-l-union-europ%C3%A9enne"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nMacron\u00a02\u00a0: une impulsion pour les Europ\u00e9ens ?\n                            \n        ",
+      "url": "/fr/%C3%A9missions/ici-l-europe/20220429-macron-2-une-impulsion-pour-les-europ%C3%A9ens"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nElles sont l'avenir de l'Europe\n                            \n        ",
+      "url": "/fr/%C3%A9missions/ici-l-europe/20220408-elles-sont-l-avenir-de-l-europe"
+    },
+    {
+      "text": "\n                    Lire plus d'actualit\u00e9s sur la pr\u00e9sidence fran\u00e7aise de l'UE \n\n                ",
+      "url": "/fr/tag/pr\u00e9sidence-fran\u00e7aise-de-l-ue/"
+    },
+    {
+      "text": "\n                        \n                \nErdogan en Arabie saoudite, plus de deux ans apr\u00e8s l'assassinat de Jamal Khashoggi\n                            \n        ",
+      "url": "/fr/moyen-orient/20220428-erdogan-en-arabie-saoudite-plus-de-deux-ans-apr%C3%A8s-l-assassinat-de-jamal-khashoggi"
+    },
+    {
+      "text": "\n                        \n                REPORTAGE\nDes \u00e9meutes \u00e0 l'\u00eele Maurice, symboles d'un malaise social profond\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220429-des-%C3%A9meutes-%C3%A0-l-%C3%AEle-maurice-symboles-d-un-malaise-social-profond"
+    },
+    {
+      "text": "\n                        \n                exportations d'hydrocarburesGaz et p\u00e9trole : en pleine guerre en Ukraine, Moscou empoche le jackpot\n                            \n        ",
+      "url": "/fr/%C3%A9co-tech/20220428-gaz-et-p%C3%A9trole-en-pleine-guerre-en-ukraine-moscou-empoche-le-jackpot"
+    },
+    {
+      "text": "\n                        \n                \n\"Charnier\" de Gossi : l'arm\u00e9e fran\u00e7aise d\u00e9ment les accusations de la junte malienne\n                            \n        ",
+      "url": "/fr/afrique/20220428-charnier-de-gossi-l-arm%C3%A9e-fran%C3%A7aise-d%C3%A9ment-les-accusations-de-la-junte-malienne"
+    },
+    {
+      "text": "\n                        \n                J\u00e9rusalem : une quarantaine de bless\u00e9s apr\u00e8s des accrochages sur l'esplanade des Mosqu\u00e9es\n                            \n        ",
+      "url": "/fr/moyen-orient/20220429-j%C3%A9rusalem-une-quarantaine-de-bless%C3%A9s-apr%C3%A8s-des-accrochages-sur-l-esplanades-des-mosqu%C3%A9es"
+    },
+    {
+      "text": "\n                        \n                Mode d'emploiMali : comment continuer \u00e0 regarder France 24 et \u00e9couter RFI ?\n                            \n        ",
+      "url": "/fr/afrique/20220322-mali-comment-continuer-%C3%A0-regarder-france-24-et-%C3%A9couter-rfi"
+    },
+    {
+      "text": "\n                        \n                Afghanistan : le groupe EI revendique deux attentats meurtriers \u00e0 Mazar-i-Sharif\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220429-afghanistan-le-groupe-ei-revendique-deux-attentats-meurtriers-%C3%A0-mazar-i-sharif"
+    },
+    {
+      "text": "\n                        \n                Ligue Europa Conf\u00e9rence : l'OM battu par Feyenoord mais encore en vie\n                            \n        ",
+      "url": "/fr/sports/20220428-ligue-europa-conf%C3%A9rence-l-om-battu-par-feyenoord-mais-encore-en-vie"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nL'Afrique particuli\u00e8rement touch\u00e9e par l'explosion des cas de rougeole\n                            \n        ",
+      "url": "/fr/%C3%A9missions/journal-de-l-afrique/20220429-l-afrique-particuli%C3%A8rement-touch%C3%A9e-par-l-explosion-des-cas-de-rougeole"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nViols pendant la guerre d'Alg\u00e9rie, un scandale occult\u00e9\n                            \n        ",
+      "url": "/fr/%C3%A9missions/focus/20220429-viols-pendant-la-guerre-d-alg%C3%A9rie-un-scandale-occult%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n\u00c9meutes \u00e0 Maurice : la population ne supporte plus les hausses de prix\n                            \n        ",
+      "url": "/fr/%C3%A9missions/journal-de-l-afrique/20220429-%C3%A9meutes-%C3%A0-maurice-la-population-ne-supporte-plus-les-hausses-de-prix"
+    },
+    {
+      "text": "\n                    Lire plus d'actualit\u00e9s africaines \n\n                ",
+      "url": "/fr/afrique/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nWeb, attention \u00e7a coupe\u00a0!\n                            \n        ",
+      "url": "/fr/%C3%A9missions/tech-24/20220429-web-attention-%C3%A7a-coupe"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nElon Musk et Twitter\u00a0: la \"libert\u00e9 d'expression absolue\"\u2026 \u00e0 g\u00e9om\u00e9trie variable\n                            \n        ",
+      "url": "/fr/am%C3%A9riques/20220426-elon-musk-et-twitter-la-libert%C3%A9-d-expression-absolue-%C3%A0-g%C3%A9om%C3%A9trie-variable"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \"Voices of April\", quand les habitants de Shanghai d\u00e9fient la censure chinoise\n                            \n        ",
+      "url": "/fr/%C3%A9co-tech/20220425-voices-of-april-quand-les-habitants-de-shanghai-d%C3%A9fient-la-censure-chinoise"
+    },
+    {
+      "text": "\n                    Lire plus d'articles sur les nouvelles technologies \n\n                ",
+      "url": "/fr/tag/tech/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                L'ex-tennisman Boris Becker condamn\u00e9 \u00e0 deux ans et demi de prison pour fraude\n                            \n        ",
+      "url": "/fr/europe/20220429-l-ex-tennisman-boris-becker-condamn%C3%A9-%C3%A0-deux-ans-et-demi-de-prison-pour-fraude"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Ligue Europa Conf\u00e9rence : l'OM battu par Feyenoord mais encore en vie\n                            \n        ",
+      "url": "/fr/sports/20220428-ligue-europa-conf%C3%A9rence-l-om-battu-par-feyenoord-mais-encore-en-vie"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Prix Marc-Vivien Fo\u00e9 2022\u00a0: Aguerd, Fofana, Traor\u00e9... La liste des trois finalistes est d\u00e9voil\u00e9e\n                            \n        ",
+      "url": "/fr/sports/20220428-prix-marc-vivien-fo%C3%A9-2022-aguerd-fofana-traor%C3%A9-la-liste-des-trois-finalistes-est-d%C3%A9voil%C3%A9e"
+    },
+    {
+      "text": "\n                    Lire plus d'infos et r\u00e9sultats sportifs \n\n                ",
+      "url": "/fr/sports/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nEn Inde et au Pakistan, une canicule record et des coupures d'\u00e9lectricit\u00e9\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220430-en-inde-et-au-pakistan-une-canicule-record-et-des-coupures-d-%C3%A9lectricit%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n\u00c9loi Laurent (OFCE) : \"Le Covid-19 vient directement de syst\u00e8mes \u00e9conomiques dysfonctionnels\"\n                            \n        ",
+      "url": "/fr/%C3%A9missions/l-invit%C3%A9-de-l-%C3%A9co/20220429-%C3%A9loi-laurent-ofce-le-covid-19-vient-directement-de-syst%C3%A8mes-%C3%A9conomiques-dysfonctionnels"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n\nGaz russe\u00a0: le dilemme\n                            \n        ",
+      "url": "/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre/20220429-gaz-russe-le-dilemme"
+    },
+    {
+      "text": "\n                    Lire plus d'articles sur l'environnement et la plan\u00e8te \n\n                ",
+      "url": "/fr/tag/environnement/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FEMUA 14\n                            \n        ",
+      "url": "http://femua.com/fr/accueil/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Nos langues fran\u00e7aises\n                            \n        ",
+      "url": "https://www.editions-du-patrimoine.fr/Librairie/Hors-collection/Nos-langues-francaises"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ONDES, Programme de r\u00e9sidences \u00e0 destination des artistes ultramarins\n                            \n        ",
+      "url": "https://www.citedesartsparis.net/fr/programme-ondes-automne-2022"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                URGENCE UKRAINE\n                            \n        ",
+      "url": "http://www.croix-rouge.fr"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                SOLIDARITE AVEC LES UKRAINIENS\n                            \n        ",
+      "url": "https://www.fondationdefrance.org/fr/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Exposition Emersions : archive vivante\n                            \n        ",
+      "url": "https://www.citedesartsparis.net/fr/exposition-emersions-archive-vivante-volet-1-la-cite-et-leurope"
+    },
+    {
+      "text": "\n                    Tous nos partenaires \n\n                ",
+      "url": "/fr/partenariats"
+    },
+    {
+      "text": "2022",
+      "url": "/fr/archives/2022/"
+    },
+    {
+      "text": "2021",
+      "url": "/fr/archives/2021/"
+    },
+    {
+      "text": "2020",
+      "url": "/fr/archives/2020/"
+    },
+    {
+      "text": "2019",
+      "url": "/fr/archives/2019/"
+    },
+    {
+      "text": "2018",
+      "url": "/fr/archives/2018/"
+    },
+    {
+      "text": "2017",
+      "url": "/fr/archives/2017/"
+    },
+    {
+      "text": "2016",
+      "url": "/fr/archives/2016/"
+    },
+    {
+      "text": "2015",
+      "url": "/fr/archives/2015/"
+    },
+    {
+      "text": "2014",
+      "url": "/fr/archives/2014/"
+    },
+    {
+      "text": "2013",
+      "url": "/fr/archives/2013/"
+    },
+    {
+      "text": "2012",
+      "url": "/fr/archives/2012/"
+    },
+    {
+      "text": "2011",
+      "url": "/fr/archives/2011/"
+    },
+    {
+      "text": "2010",
+      "url": "/fr/archives/2010/"
+    },
+    {
+      "text": "2009",
+      "url": "/fr/archives/2009/"
+    },
+    {
+      "text": "2008",
+      "url": "/fr/archives/2008/"
+    },
+    {
+      "text": "2007",
+      "url": "/fr/archives/2007/"
+    },
+    {
+      "text": "2006",
+      "url": "/fr/archives/2006/"
+    }
+  ],
+  "item_last_updated": 1651320739,
+  "item_size": 7597594,
   "metadata": {
     "identifier": "france24-2022",
     "collection": [
@@ -956,7 +1716,7 @@
     "addeddate": "2022-04-09 13:41:21"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1101295770,
+  "uniq": 588794197,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"
