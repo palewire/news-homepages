@@ -12,8 +12,8 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - id: install-apt-packages
-      name: Install apt packages
+    - id: install-extras
+      name: Install Ubuntu codecs and extras
       run: |
         sudo apt-get update
         sudo apt install -y ubuntu-restricted-extras ffmpeg libavcodec-extra
@@ -21,10 +21,7 @@ runs:
 
     - id: install-xvfb
       name: Install xvfb
-      run: |
-          sudo apt install -y xvfb
-          export DISPLAY=:99
-          Xvfb $DISPLAY -screen 0 1920x1080x24 &
+      run: sudo apt install -y xvfb
       shell: bash
 
     - id: cache-playwright
@@ -41,8 +38,12 @@ runs:
 
     - id: shoot
       name: Take screenshot
-      run: pipenv run python -m newshomepages.shoot ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: |
+          Xvfb $DISPLAY -screen 0 1920x1080x24 &
+          pipenv run python -m newshomepages.shoot ${{ inputs.command }} ${{ inputs.source }} -o _dist
       shell: bash
+      env:
+        DISPLAY: :99
 
     - id: save
       name: Save artifact
