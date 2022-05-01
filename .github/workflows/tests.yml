@@ -34,31 +34,22 @@ jobs:
         uses: ./.github/actions/install
 
       - id: cache-playwright
-        name: Cache Playwright browsers
+        name: Cache Playwright
         uses: actions/cache@v2
         with:
           path: ~/.cache/ms-playwright/
           key: ${{ runner.os }}-browsers
 
       - id: install-playwright
-        name: Install Playwright dependencies
+        name: Install Playwright
         run: |
             pipenv run python -m playwright install
             pipenv run python -m playwright install-deps
         shell: bash
 
-      - id: start-xvfb
-        name: Start xvfb
-        run: sh -e /etc/init.d/xvfb start
-        shell: bash
-        env:
-          DISPLAY: ":99.0"
-
       - id: test
         name: Run tests
         run: pipenv run xvfb-run pytest tests
-        env:
-          DISPLAY: ":99.0"
 
   static-type-check:
     name: Static type check
