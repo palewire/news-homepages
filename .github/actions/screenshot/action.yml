@@ -33,7 +33,7 @@ runs:
 
     - id: install-playwright
       name: Install Playwright dependencies
-      run: pipenv run shot-scraper install --browser=chrome
+      run: pipenv run playwright install --with-deps chromium
       shell: bash
 
     - id: shoot

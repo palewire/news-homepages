@@ -33,6 +33,18 @@ jobs:
         name: Install Python and dependencies
         uses: ./.github/actions/install
 
+      - id: cache-playwright
+        name: Cache Playwright browsers
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/ms-playwright/
+          key: ${{ runner.os }}-browsers
+
+      - id: install-playwright
+        name: Install Playwright dependencies
+        run: pipenv run playwright install --with-deps chromium
+        shell: bash
+
       - id: install-xvfb
         name: Install xvfb
         run: sudo apt install -y xvfb
