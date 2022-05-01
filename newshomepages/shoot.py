@@ -1,11 +1,11 @@
 import logging
-import subprocess
-import tempfile
+import time
+import typing
 from pathlib import Path
 
 import click
-import yaml
 from playwright.sync_api import sync_playwright
+from shot_scraper.cli import _evaluate_js
 
 from . import utils
 
@@ -27,55 +27,8 @@ def cli():
 @click.option("-o", "--output-dir", "output_dir", default="./")
 def single(handle: str, output_dir: str):
     """Screenshot a single source."""
-    # Get metadata
     site = utils.get_site(handle)
-
-    # Set the output path
-    output_path = Path(output_dir)
-    output_path.mkdir(parents=True, exist_ok=True)
-
-    def run(playwright):
-        path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
-        context = playwright.chromium.launch_persistent_context(
-            "./.chromium",
-            headless=False,
-            args=[
-                f"--disable-extensions-except={path_to_extension}",
-                f"--load-extension={path_to_extension}",
-            ],
-        )
-        page = context.new_page()
-        page.goto(site["url"])
-        context.close()
-
-    with sync_playwright() as playwright:
-        run(playwright)
-
-
-#    # Shoot the shot
-#    command_list: typing.List[typing.Any] = [
-#        "shot-scraper",
-#        site["url"],
-#        "-o",
-#        str(output_path / f"{site['handle'].lower()}.jpg"),
-#        "--quality",
-#        "80",
-#        "--width",
-#        site["width"] or DEFAULT_WIDTH,
-#        "--height",
-#        site["height"] or DEFAULT_HEIGHT,
-#        "--wait",
-#        site["wait"] or DEFAULT_WAIT,
-#        "--browser",
-#        "chrome",
-#        "--timeout",
-#        str(60 * 1000),
-#    ]
-#    javascript = utils.get_javascript(site["handle"])
-#    if javascript:
-#        command_list.extend(["--javascript", javascript])
-#    click.echo(f"Shooting {site['url']}")
-#    subprocess.run(command_list)
+    _shoot(site, output_dir)
 
 
 @cli.command()
@@ -83,48 +36,64 @@ def single(handle: str, output_dir: str):
 @click.option("-o", "--output-dir", "output_dir", default="./")
 def bundle(slug: str, output_dir: str):
     """Screenshot a bundle of sources."""
-    # Pull the source metadata
-    site_list = utils.get_sites_in_bundle(slug)
+    [_shoot(site, output_dir) for site in utils.get_sites_in_bundle(slug)]
+
+
+def _shoot(site: typing.Dict, output_dir: str):
+    """Shoot the provided site."""
+    click.echo(f"Shooting {site['url']}")
 
     # Set the output path
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    # Loop through the targets
-    options_list = []
-    for site in site_list:
-        # Set the options for each
-        site_options = dict(
-            url=site["url"],
-            output=str((output_path / f"{site['handle'].lower()}.jpg").absolute()),
-            width=int(site["width"] or DEFAULT_WIDTH),
-            height=int(site["height"] or DEFAULT_HEIGHT),
-            quality=80,
-            wait=int(site["wait"] or DEFAULT_WAIT),
+    with sync_playwright() as playwright:
+        # Boot up the browser with the ad blocker plugin installed
+        path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
+        context = playwright.chromium.launch_persistent_context(
+            "./.chromium",
+            channel="chrome",
+            headless=False,
+            args=[
+                f"--disable-extensions-except={path_to_extension}",
+                f"--load-extension={path_to_extension}",
+            ],
+            user_agent="News Homepages (http://homepages.news/)",
         )
+
+        # Set the timeout
+        context.set_default_timeout(60 * 1000)
+
+        # Create an empty tab and set the window size
+        page = context.new_page()
+        page.set_viewport_size(
+            {
+                "width": int(site["width"] or DEFAULT_WIDTH),
+                "height": int(site["height"] or DEFAULT_HEIGHT),
+            }
+        )
+
+        # Open the page
+        page.goto(site["url"])
+
+        # Give it a beat
+        time.sleep(int(site["wait"] or DEFAULT_WAIT) / 1000)
+
+        # If there's javascript run it
         javascript = utils.get_javascript(site["handle"])
         if javascript:
-            site_options["javascript"] = javascript
-        options_list.append(site_options)
+            _evaluate_js(page, javascript)
 
-    # Write out YAML config file
-    yaml_str = yaml.dump(options_list)
-    with tempfile.NamedTemporaryFile(suffix=".yml", delete=False) as fh:
-        fh.write(bytes(yaml_str, "utf-8"))
-        yaml_path = Path(fh.name)
+        # Take the screenshot
+        screenshot_args = {
+            "quality": 80,
+            "type": "jpeg",
+            "path": str(output_path / f"{site['handle'].lower()}.jpg"),
+        }
+        page.screenshot(**screenshot_args)
 
-    # Shoot
-    command_list = [
-        "shot-scraper",
-        "multi",
-        str(yaml_path),
-        "--browser",
-        "chrome",
-        "--timeout",
-        str(60 * 1000),
-    ]
-    click.echo(f"Shooting bundle with {yaml_path} configuration")
-    subprocess.run(command_list)
+        # Close it out
+        context.close()
 
 
 if __name__ == "__main__":

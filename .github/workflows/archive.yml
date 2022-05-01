@@ -1,0 +1,151 @@
+name: Archive
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sources:
+    name: Source list
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+    - id: set-matrix
+      run: |
+        echo "::set-output name=matrix::[\"latimes\",]"
+  jpg:
+    name: JPG
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    needs: sources
+    strategy:
+      matrix:
+        source: ${{fromJson(needs.sources.outputs.matrix)}}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: screenshot
+        name: Screenshot
+        uses: ./.github/actions/screenshot
+        with:
+          source: ${{ matrix.source }}
+          command: single
+
+  accessibility:
+    name: Accessibility tree
+    runs-on: ubuntu-latest
+    needs: sources
+    strategy:
+      matrix:
+        source: ${{fromJson(needs.sources.outputs.matrix)}}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: save-page
+        name: Save the accessibility tree
+        uses: ./.github/actions/accessibility
+        with:
+          source: ${{ matrix.source }}
+          command: single
+
+  hyperlinks:
+    name: Hyperlinks
+    runs-on: ubuntu-latest
+    needs: sources
+    strategy:
+      matrix:
+        source: ${{fromJson(needs.sources.outputs.matrix)}}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: save-page
+        name: Save hyperlinks
+        uses: ./.github/actions/hyperlinks
+        with:
+          source: ${{ matrix.source }}
+          command: single
+
+  wayback:
+    name: Wayback Machine
+    runs-on: ubuntu-latest
+    needs: sources
+    strategy:
+      matrix:
+        source: ${{fromJson(needs.sources.outputs.matrix)}}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: save-page
+        name: Save in Wayback Machine
+        uses: ./.github/actions/wayback
+        with:
+          source: ${{ matrix.source }}
+          command: single
+          access-key: ${{ secrets.ia-access-key }}
+          secret-key: ${{ secrets.ia-secret-key }}
+
+  archive:
+    name: Post to archive.org
+    needs: [jpg,accessibility,hyperlinks,sources]
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        source: ${{fromJson(needs.sources.outputs.matrix)}}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: archive
+        name: Post
+        uses: ./.github/actions/archive
+        with:
+          source: ${{ matrix.source }}
+          command: single
+          ia-access-key: ${{ secrets.IA_ACCESS_KEY }}
+          ia-secret-key: ${{ secrets.IA_SECRET_KEY }}
+          ia-collection: ${{ secrets.IA_COLLECTION }}
+
+  commit:
+    name: Commit to GitHub
+    runs-on: ubuntu-latest
+    needs: [sources,jpg]
+    strategy:
+      matrix:
+        source: ${{fromJson(needs.sources.outputs.matrix)}}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
