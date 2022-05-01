@@ -85,12 +85,11 @@ def _shoot(site: typing.Dict, output_dir: str):
             _evaluate_js(page, javascript)
 
         # Take the screenshot
-        screenshot_args = {
-            "quality": 80,
-            "type": "jpeg",
-            "path": str(output_path / f"{site['handle'].lower()}.jpg"),
-        }
-        page.screenshot(**screenshot_args)
+        page.screenshot(
+            quality=80,
+            type="jpeg",
+            path=str(output_path / f"{site['handle'].lower()}.jpg"),
+        )
 
         # Close it out
         context.close()

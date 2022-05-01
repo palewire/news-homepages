@@ -30,7 +30,7 @@ jobs:
         uses: actions/checkout@v2
 
       - id: install
-        name: Install
+        name: Install Python and dependencies
         uses: ./.github/actions/install
 
       - id: install-xvfb
@@ -42,7 +42,7 @@ jobs:
         shell: bash
 
       - id: test
-        name: Test
+        name: Run tests
         run: pipenv run pytest tests
 
   static-type-check:
