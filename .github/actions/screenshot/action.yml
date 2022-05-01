@@ -19,6 +19,14 @@ runs:
         sudo apt install -y ubuntu-restricted-extras ffmpeg libavcodec-extra
       shell: bash
 
+    - id: install-xvfb
+      name: Install xvfb
+      run: |
+          sudo apt install -y xvfb;
+          export DISPLAY=:99;
+          Xvfb $DISPLAY -screen 0 1920x1080x24 &;
+      shell: bash
+
     - id: cache-playwright
       name: Cache Playwright browsers
       uses: actions/cache@v2
