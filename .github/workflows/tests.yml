@@ -36,8 +36,8 @@ jobs:
       - id: install-xvfb
         name: Install xvfb
         run: |
-            sudo apt install -y xvfb;
-            export DISPLAY=:99;
+            sudo apt install -y xvfb
+            export DISPLAY=:99
             Xvfb $DISPLAY -screen 0 1920x1080x24 &
         shell: bash
 
