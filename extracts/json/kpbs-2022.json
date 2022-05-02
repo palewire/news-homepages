@@ -1,5 +1,5 @@
 {
-  "created": 1651364579,
+  "created": 1651412657,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/12/items/kpbs-2022",
@@ -2420,31 +2420,115 @@
       "sha1": "1f15ae61bbdd2a0d1f1858d76c742f63f737308b"
     },
     {
+      "name": "kpbs-2022-04-30T19:19:38.823343-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651371588",
+      "size": "22617",
+      "md5": "9c0d36069f4430aaea8c8b2136f94d0b",
+      "crc32": "f9d1020c",
+      "sha1": "785584920b18290c4c3257d6941412e714a2479e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-04-30T19:19:38.823343-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651371589",
+      "size": "38619",
+      "md5": "9d0ef98f67022fbff6625d3bc4baad4c",
+      "crc32": "02564b9f",
+      "sha1": "efb35dd345f3f1353cb99f3725373cea41cb9907",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-04-30T19:19:38.823343-07:00.jpg",
+      "source": "original",
+      "mtime": "1651371586",
+      "size": "314418",
+      "md5": "bd947300fae2ec8a4c017bfe1800575c",
+      "crc32": "820bb046",
+      "sha1": "fd57b685cc617b22a1555f804a363f5bd6e5c45b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-04-30T19:19:38.823343-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-04-30T19:19:38.823343-07:00.jpg",
+      "mtime": "1651371648",
+      "size": "9294",
+      "md5": "c48edcfe78b1a3d5cef42daf6abaf96b",
+      "crc32": "b44697fa",
+      "sha1": "e30307f70f505dfb8842def7031c16d8ac869585"
+    },
+    {
+      "name": "kpbs-2022-05-01T06:42:54.606649-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651412580",
+      "size": "22176",
+      "md5": "18708eea1b2737e3ea4272af3cfdaa2a",
+      "crc32": "b4f7d983",
+      "sha1": "ecc14966d23ef9d8f3575a28242f195c9434692c",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-01T06:42:54.606649-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651412581",
+      "size": "38492",
+      "md5": "7c9d9dc4a06f7cb7667138513e77a51c",
+      "crc32": "feb94f2a",
+      "sha1": "3b396f33793722050d565484ccb787ca126220ea",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-01T06:42:54.606649-07:00.jpg",
+      "source": "original",
+      "mtime": "1651412576",
+      "size": "382423",
+      "md5": "b4063aff07873499344e31b9e1b52e83",
+      "crc32": "2c652f0a",
+      "sha1": "222c5004dc9ae44d3d0485d15badd5639aff1616",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-05-01T06:42:54.606649-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-05-01T06:42:54.606649-07:00.jpg",
+      "mtime": "1651412639",
+      "size": "9453",
+      "md5": "a11c1475f57aab97c6bfebdc5c2cc20f",
+      "crc32": "3755393e",
+      "sha1": "d01341cd89a2a9760daf8fcff8f326e1ddef2984"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eaf52f463abc1159bc97540e24e4bd4e4f30dfbe",
-      "mtime": "1651326123",
-      "size": "48769",
-      "md5": "29431bce000ef0bb339d4f4ad3459f21",
-      "crc32": "016b4c1e",
-      "sha1": "5cf13791bf7f46c8a0f7df881223684312c69eb6",
+      "btih": "8553d5e363ef3ab10cfc9cb224826ae51e0306ad",
+      "mtime": "1651412645",
+      "size": "50436",
+      "md5": "692b1e05915734c5647cfcc3ed0667a7",
+      "crc32": "728f00af",
+      "sha1": "d23ac564869d19263f0aeec9a94d2efe40c12ebb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86c5837a96540735cad6a1d3454fe0a7",
+      "md5": "32c0d843f52e00dcfc616448b59b9789",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651326068",
-      "size": "274432",
-      "md5": "a4679c32894b2ab9c1abf5052651e460",
-      "crc32": "5ed9a9a5",
-      "sha1": "f26fd3e11aea09bbd6d33cd3b4275a3aeddffdd1",
+      "mtime": "1651412585",
+      "size": "286720",
+      "md5": "09fefc839452b238a4ec92d8d9fbc557",
+      "crc32": "03509c0d",
+      "sha1": "9c2a56124724bbdfe5fac662994cd0f35375d595",
       "format": "Metadata"
     },
     {
@@ -2458,1059 +2542,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1651326123,
-  "item_size": 24902525,
-  "kpbs-2022": [
-    {
-      "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
-      "url": "/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.kpbs.org/"
-    },
-    {
-      "text": "Local ",
-      "url": "https://www.kpbs.org/news/local"
-    },
-    {
-      "text": "National & World",
-      "url": "https://www.kpbs.org/national-and-world"
-    },
-    {
-      "text": "San Diego News Now Podcast",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now"
-    },
-    {
-      "text": "Tracking COVID-19",
-      "url": "https://www.kpbs.org/tags/coronavirus"
-    },
-    {
-      "text": "All News Sections",
-      "url": "https://www.kpbs.org/all-sections"
-    },
-    {
-      "text": "Local ",
-      "url": "https://www.kpbs.org/news/local"
-    },
-    {
-      "text": "National & World",
-      "url": "https://www.kpbs.org/national-and-world"
-    },
-    {
-      "text": "San Diego News Now Podcast",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now"
-    },
-    {
-      "text": "Tracking COVID-19",
-      "url": "https://www.kpbs.org/tags/coronavirus"
-    },
-    {
-      "text": "All News Sections",
-      "url": "https://www.kpbs.org/all-sections"
-    },
-    {
-      "text": "Arts & Culture",
-      "url": "https://www.kpbs.org/news/arts-culture"
-    },
-    {
-      "text": "Cinema Junkie",
-      "url": "https://www.kpbs.org/podcasts/cinema-junkie"
-    },
-    {
-      "text": "One Book, One San Diego",
-      "url": "https://www.kpbs.org/one-book-one-san-diego"
-    },
-    {
-      "text": "The Parker Edison Project Podcast",
-      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project"
-    },
-    {
-      "text": "Port of Entry Podcast",
-      "url": "https://www.kpbs.org/podcasts/port-of-entry"
-    },
-    {
-      "text": "Arts & Culture",
-      "url": "https://www.kpbs.org/news/arts-culture"
-    },
-    {
-      "text": "Cinema Junkie",
-      "url": "https://www.kpbs.org/podcasts/cinema-junkie"
-    },
-    {
-      "text": "One Book, One San Diego",
-      "url": "https://www.kpbs.org/one-book-one-san-diego"
-    },
-    {
-      "text": "The Parker Edison Project Podcast",
-      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project"
-    },
-    {
-      "text": "Port of Entry Podcast",
-      "url": "https://www.kpbs.org/podcasts/port-of-entry"
-    },
-    {
-      "text": "Classical San Diego Schedule",
-      "url": "https://www.kpbs.org/radio/shows/classical-san-diego"
-    },
-    {
-      "text": "KPBS Evening Edition",
-      "url": "https://www.kpbs.org/news/evening-edition"
-    },
-    {
-      "text": "KPBS Midday Edition",
-      "url": "https://www.kpbs.org/news/midday-edition"
-    },
-    {
-      "text": "KPBS News: This Week",
-      "url": "https://www.kpbs.org/news/this-week"
-    },
-    {
-      "text": "KPBS Roundtable",
-      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable"
-    },
-    {
-      "text": "Kids TV",
-      "url": "https://www.kpbs.org/kpbs-kids"
-    },
-    {
-      "text": "Passport On Demand",
-      "url": "https://www.kpbs.org/membership/passport/learn-more"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.kpbs.org/podcasts"
-    },
-    {
-      "text": "Radio Reading Service",
-      "url": "https://www.kpbs.org/radio/reading-service/"
-    },
-    {
-      "text": "Radio Shows",
-      "url": "https://www.kpbs.org/radio"
-    },
-    {
-      "text": "Radio 89.5 Schedule ",
-      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
-    },
-    {
-      "text": "TV Schedules",
-      "url": "https://www.kpbs.org/tv/schedule/"
-    },
-    {
-      "text": "TV Shows",
-      "url": "https://www.kpbs.org/tv/shows"
-    },
-    {
-      "text": "Classical San Diego Schedule",
-      "url": "https://www.kpbs.org/radio/shows/classical-san-diego"
-    },
-    {
-      "text": "KPBS Evening Edition",
-      "url": "https://www.kpbs.org/news/evening-edition"
-    },
-    {
-      "text": "KPBS Midday Edition",
-      "url": "https://www.kpbs.org/news/midday-edition"
-    },
-    {
-      "text": "KPBS News: This Week",
-      "url": "https://www.kpbs.org/news/this-week"
-    },
-    {
-      "text": "KPBS Roundtable",
-      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable"
-    },
-    {
-      "text": "Kids TV",
-      "url": "https://www.kpbs.org/kpbs-kids"
-    },
-    {
-      "text": "Passport On Demand",
-      "url": "https://www.kpbs.org/membership/passport/learn-more"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.kpbs.org/podcasts"
-    },
-    {
-      "text": "Radio Reading Service",
-      "url": "https://www.kpbs.org/radio/reading-service/"
-    },
-    {
-      "text": "Radio Shows",
-      "url": "https://www.kpbs.org/radio"
-    },
-    {
-      "text": "Radio 89.5 Schedule ",
-      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
-    },
-    {
-      "text": "TV Schedules",
-      "url": "https://www.kpbs.org/tv/schedule/"
-    },
-    {
-      "text": "TV Shows",
-      "url": "https://www.kpbs.org/tv/shows"
-    },
-    {
-      "text": "Membership Information",
-      "url": "https://www.kpbs.org/membership-information"
-    },
-    {
-      "text": "Directors Club",
-      "url": "https://www.kpbs.org/kpbs-directors-club"
-    },
-    {
-      "text": "Producers Club",
-      "url": "https://www.kpbs.org/pc/"
-    },
-    {
-      "text": "Major Giving",
-      "url": "https://www.kpbs.org/major-giving"
-    },
-    {
-      "text": "Vehicle Donation",
-      "url": "https://www.kpbs.org/give/car-donations"
-    },
-    {
-      "text": "Corporate Support",
-      "url": "https://www.kpbs.org/corporate-sponsorship"
-    },
-    {
-      "text": "Other Ways to Give",
-      "url": "https://www.kpbs.org/membership/other-ways-to-give"
-    },
-    {
-      "text": "Our Corporate Sponsors",
-      "url": "https://www.kpbs.org/corporate-sponsors"
-    },
-    {
-      "text": "Membership Information",
-      "url": "https://www.kpbs.org/membership-information"
-    },
-    {
-      "text": "Directors Club",
-      "url": "https://www.kpbs.org/kpbs-directors-club"
-    },
-    {
-      "text": "Producers Club",
-      "url": "https://www.kpbs.org/pc/"
-    },
-    {
-      "text": "Major Giving",
-      "url": "https://www.kpbs.org/major-giving"
-    },
-    {
-      "text": "Vehicle Donation",
-      "url": "https://www.kpbs.org/give/car-donations"
-    },
-    {
-      "text": "Corporate Support",
-      "url": "https://www.kpbs.org/corporate-sponsorship"
-    },
-    {
-      "text": "Other Ways to Give",
-      "url": "https://www.kpbs.org/membership/other-ways-to-give"
-    },
-    {
-      "text": "Our Corporate Sponsors",
-      "url": "https://www.kpbs.org/corporate-sponsors"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.kpbs.org/events/all"
-    },
-    {
-      "text": "Events Calendar",
-      "url": "https://www.kpbs.org/events/all"
-    },
-    {
-      "text": "Arts Calendar",
-      "url": "https://www.kpbs.org/events/arts"
-    },
-    {
-      "text": "Mother's Day Events",
-      "url": "https://www.kpbs.org/mothersday"
-    },
-    {
-      "text": "GI Film Fest",
-      "url": "https://www.kpbs.org/gifilmfest"
-    },
-    {
-      "text": "Submit an Event",
-      "url": "https://www.kpbs.org/events/submit/"
-    },
-    {
-      "text": "Events Calendar",
-      "url": "https://www.kpbs.org/events/all"
-    },
-    {
-      "text": "Arts Calendar",
-      "url": "https://www.kpbs.org/events/arts"
-    },
-    {
-      "text": "Mother's Day Events",
-      "url": "https://www.kpbs.org/mothersday"
-    },
-    {
-      "text": "GI Film Fest",
-      "url": "https://www.kpbs.org/gifilmfest"
-    },
-    {
-      "text": "Submit an Event",
-      "url": "https://www.kpbs.org/events/submit/"
-    },
-    {
-      "text": "Watch Live",
-      "url": "https://www.kpbs.org/watch-live"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.kpbs.org/newsletters"
-    },
-    {
-      "text": "Elections",
-      "url": "https://www.kpbs.org/tags/elections"
-    },
-    {
-      "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
-      "url": "/"
-    },
-    {
-      "text": "Give Now",
-      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
-    },
-    {
-      "text": "Weekend Edition Saturday  ",
-      "url": "http://www.npr.org/templates/story/story.php?storyId=7"
-    },
-    {
-      "text": "Wait Wait...Don't Tell Me!",
-      "url": "http://www.npr.org/programs/wait-wait-dont-tell-me/"
-    },
-    {
-      "text": "Full Schedule\n                            ",
-      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
-    },
-    {
-      "text": "News",
-      "url": "https://www.kpbs.org/"
-    },
-    {
-      "text": "Local ",
-      "url": "https://www.kpbs.org/news/local"
-    },
-    {
-      "text": "National & World",
-      "url": "https://www.kpbs.org/national-and-world"
-    },
-    {
-      "text": "San Diego News Now Podcast",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now"
-    },
-    {
-      "text": "Tracking COVID-19",
-      "url": "https://www.kpbs.org/tags/coronavirus"
-    },
-    {
-      "text": "All News Sections",
-      "url": "https://www.kpbs.org/all-sections"
-    },
-    {
-      "text": "Local ",
-      "url": "https://www.kpbs.org/news/local"
-    },
-    {
-      "text": "National & World",
-      "url": "https://www.kpbs.org/national-and-world"
-    },
-    {
-      "text": "San Diego News Now Podcast",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now"
-    },
-    {
-      "text": "Tracking COVID-19",
-      "url": "https://www.kpbs.org/tags/coronavirus"
-    },
-    {
-      "text": "All News Sections",
-      "url": "https://www.kpbs.org/all-sections"
-    },
-    {
-      "text": "Arts & Culture",
-      "url": "https://www.kpbs.org/news/arts-culture"
-    },
-    {
-      "text": "Cinema Junkie",
-      "url": "https://www.kpbs.org/podcasts/cinema-junkie"
-    },
-    {
-      "text": "One Book, One San Diego",
-      "url": "https://www.kpbs.org/one-book-one-san-diego"
-    },
-    {
-      "text": "The Parker Edison Project Podcast",
-      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project"
-    },
-    {
-      "text": "Port of Entry Podcast",
-      "url": "https://www.kpbs.org/podcasts/port-of-entry"
-    },
-    {
-      "text": "Arts & Culture",
-      "url": "https://www.kpbs.org/news/arts-culture"
-    },
-    {
-      "text": "Cinema Junkie",
-      "url": "https://www.kpbs.org/podcasts/cinema-junkie"
-    },
-    {
-      "text": "One Book, One San Diego",
-      "url": "https://www.kpbs.org/one-book-one-san-diego"
-    },
-    {
-      "text": "The Parker Edison Project Podcast",
-      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project"
-    },
-    {
-      "text": "Port of Entry Podcast",
-      "url": "https://www.kpbs.org/podcasts/port-of-entry"
-    },
-    {
-      "text": "Classical San Diego Schedule",
-      "url": "https://www.kpbs.org/radio/shows/classical-san-diego"
-    },
-    {
-      "text": "KPBS Evening Edition",
-      "url": "https://www.kpbs.org/news/evening-edition"
-    },
-    {
-      "text": "KPBS Midday Edition",
-      "url": "https://www.kpbs.org/news/midday-edition"
-    },
-    {
-      "text": "KPBS News: This Week",
-      "url": "https://www.kpbs.org/news/this-week"
-    },
-    {
-      "text": "KPBS Roundtable",
-      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable"
-    },
-    {
-      "text": "Kids TV",
-      "url": "https://www.kpbs.org/kpbs-kids"
-    },
-    {
-      "text": "Passport On Demand",
-      "url": "https://www.kpbs.org/membership/passport/learn-more"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.kpbs.org/podcasts"
-    },
-    {
-      "text": "Radio Reading Service",
-      "url": "https://www.kpbs.org/radio/reading-service/"
-    },
-    {
-      "text": "Radio Shows",
-      "url": "https://www.kpbs.org/radio"
-    },
-    {
-      "text": "Radio 89.5 Schedule ",
-      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
-    },
-    {
-      "text": "TV Schedules",
-      "url": "https://www.kpbs.org/tv/schedule/"
-    },
-    {
-      "text": "TV Shows",
-      "url": "https://www.kpbs.org/tv/shows"
-    },
-    {
-      "text": "Classical San Diego Schedule",
-      "url": "https://www.kpbs.org/radio/shows/classical-san-diego"
-    },
-    {
-      "text": "KPBS Evening Edition",
-      "url": "https://www.kpbs.org/news/evening-edition"
-    },
-    {
-      "text": "KPBS Midday Edition",
-      "url": "https://www.kpbs.org/news/midday-edition"
-    },
-    {
-      "text": "KPBS News: This Week",
-      "url": "https://www.kpbs.org/news/this-week"
-    },
-    {
-      "text": "KPBS Roundtable",
-      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable"
-    },
-    {
-      "text": "Kids TV",
-      "url": "https://www.kpbs.org/kpbs-kids"
-    },
-    {
-      "text": "Passport On Demand",
-      "url": "https://www.kpbs.org/membership/passport/learn-more"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.kpbs.org/podcasts"
-    },
-    {
-      "text": "Radio Reading Service",
-      "url": "https://www.kpbs.org/radio/reading-service/"
-    },
-    {
-      "text": "Radio Shows",
-      "url": "https://www.kpbs.org/radio"
-    },
-    {
-      "text": "Radio 89.5 Schedule ",
-      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
-    },
-    {
-      "text": "TV Schedules",
-      "url": "https://www.kpbs.org/tv/schedule/"
-    },
-    {
-      "text": "TV Shows",
-      "url": "https://www.kpbs.org/tv/shows"
-    },
-    {
-      "text": "Membership Information",
-      "url": "https://www.kpbs.org/membership-information"
-    },
-    {
-      "text": "Directors Club",
-      "url": "https://www.kpbs.org/kpbs-directors-club"
-    },
-    {
-      "text": "Producers Club",
-      "url": "https://www.kpbs.org/pc/"
-    },
-    {
-      "text": "Major Giving",
-      "url": "https://www.kpbs.org/major-giving"
-    },
-    {
-      "text": "Vehicle Donation",
-      "url": "https://www.kpbs.org/give/car-donations"
-    },
-    {
-      "text": "Corporate Support",
-      "url": "https://www.kpbs.org/corporate-sponsorship"
-    },
-    {
-      "text": "Other Ways to Give",
-      "url": "https://www.kpbs.org/membership/other-ways-to-give"
-    },
-    {
-      "text": "Our Corporate Sponsors",
-      "url": "https://www.kpbs.org/corporate-sponsors"
-    },
-    {
-      "text": "Membership Information",
-      "url": "https://www.kpbs.org/membership-information"
-    },
-    {
-      "text": "Directors Club",
-      "url": "https://www.kpbs.org/kpbs-directors-club"
-    },
-    {
-      "text": "Producers Club",
-      "url": "https://www.kpbs.org/pc/"
-    },
-    {
-      "text": "Major Giving",
-      "url": "https://www.kpbs.org/major-giving"
-    },
-    {
-      "text": "Vehicle Donation",
-      "url": "https://www.kpbs.org/give/car-donations"
-    },
-    {
-      "text": "Corporate Support",
-      "url": "https://www.kpbs.org/corporate-sponsorship"
-    },
-    {
-      "text": "Other Ways to Give",
-      "url": "https://www.kpbs.org/membership/other-ways-to-give"
-    },
-    {
-      "text": "Our Corporate Sponsors",
-      "url": "https://www.kpbs.org/corporate-sponsors"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.kpbs.org/events/all"
-    },
-    {
-      "text": "Events Calendar",
-      "url": "https://www.kpbs.org/events/all"
-    },
-    {
-      "text": "Arts Calendar",
-      "url": "https://www.kpbs.org/events/arts"
-    },
-    {
-      "text": "Mother's Day Events",
-      "url": "https://www.kpbs.org/mothersday"
-    },
-    {
-      "text": "GI Film Fest",
-      "url": "https://www.kpbs.org/gifilmfest"
-    },
-    {
-      "text": "Submit an Event",
-      "url": "https://www.kpbs.org/events/submit/"
-    },
-    {
-      "text": "Events Calendar",
-      "url": "https://www.kpbs.org/events/all"
-    },
-    {
-      "text": "Arts Calendar",
-      "url": "https://www.kpbs.org/events/arts"
-    },
-    {
-      "text": "Mother's Day Events",
-      "url": "https://www.kpbs.org/mothersday"
-    },
-    {
-      "text": "GI Film Fest",
-      "url": "https://www.kpbs.org/gifilmfest"
-    },
-    {
-      "text": "Submit an Event",
-      "url": "https://www.kpbs.org/events/submit/"
-    },
-    {
-      "text": "Watch Live",
-      "url": "https://www.kpbs.org/watch-live"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.kpbs.org/newsletters"
-    },
-    {
-      "text": "Elections",
-      "url": "https://www.kpbs.org/tags/elections"
-    },
-    {
-      "text": "Top Stories",
-      "url": "https://www.kpbs.org/news/national"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/international/2022/04/30/rape-has-reportedly-become-a-weapon-in-ukraine-finding-justice-may-be-difficult"
-    },
-    {
-      "text": "International",
-      "url": "https://www.kpbs.org/news/international"
-    },
-    {
-      "text": "Rape has reportedly become a weapon in Ukraine. Finding justice may be difficult",
-      "url": "https://www.kpbs.org/news/international/2022/04/30/rape-has-reportedly-become-a-weapon-in-ukraine-finding-justice-may-be-difficult"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/international/2022/04/30/what-is-may-day-for-the-most-part-the-opposite-of-capitalism"
-    },
-    {
-      "text": "International",
-      "url": "https://www.kpbs.org/news/international"
-    },
-    {
-      "text": "What is May Day? For the most part, the opposite of capitalism",
-      "url": "https://www.kpbs.org/news/international/2022/04/30/what-is-may-day-for-the-most-part-the-opposite-of-capitalism"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/international/2022/04/30/we-asked-you-answered-have-you-taught-your-children-to-run-errands-on-their-own"
-    },
-    {
-      "text": "International",
-      "url": "https://www.kpbs.org/news/international"
-    },
-    {
-      "text": "We asked, you answered: Have you taught your children to run errands on their own?",
-      "url": "https://www.kpbs.org/news/international/2022/04/30/we-asked-you-answered-have-you-taught-your-children-to-run-errands-on-their-own"
-    },
-    {
-      "text": "Featured Podcast",
-      "url": "https://www.kpbs.org/podcasts"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/in-photos-community-members-march-in-protest-following-alleged-hate-crime-in-lakeside"
-    },
-    {
-      "text": "In photos: Community members march in protest following alleged hate crime in Lakeside",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/in-photos-community-members-march-in-protest-following-alleged-hate-crime-in-lakeside"
-    },
-    {
-      "text": "Read More",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/in-photos-community-members-march-in-protest-following-alleged-hate-crime-in-lakeside"
-    },
-    {
-      "text": "Local",
-      "url": "https://www.kpbs.org/news/local"
-    },
-    {
-      "text": "KPBS investigations reveal abuse, negligence at San Diego area senior care facilities",
-      "url": "https://www.kpbs.org/news/local/2022/04/15/kpbs-investigates-inside-san-diego-nursing-homes"
-    },
-    {
-      "text": "Local News",
-      "url": "https://www.kpbs.org/news/local"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/san-diego-county-ushers-in-first-legal-aid-program-of-its-kind-to-help-detained-migrants"
-    },
-    {
-      "text": "San Diego County ushers in first legal aid program of its kind to help detained migrants",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/san-diego-county-ushers-in-first-legal-aid-program-of-its-kind-to-help-detained-migrants"
-    },
-    {
-      "text": "Kitty Alvarado",
-      "url": "https://www.kpbs.org/staff/kitty-alvarado"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/san-diego-book-crawl-returns-newcomer-libelula-books"
-    },
-    {
-      "text": "San Diego Book Crawl returns with newcomer Lib\u00e9lula Books",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/san-diego-book-crawl-returns-newcomer-libelula-books"
-    },
-    {
-      "text": "Julia Dixon Evans",
-      "url": "https://www.kpbs.org/staff/julia-dixon-evans"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/san-diegos-mostra-coffee-roasted-competition-us-coffee-championships"
-    },
-    {
-      "text": "San Diego's Mostra Coffee 'roasted' the competition at the US Coffee Championships",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/san-diegos-mostra-coffee-roasted-competition-us-coffee-championships"
-    },
-    {
-      "text": "Alexander Nguyen",
-      "url": "https://www.kpbs.org/staff/alexander-nguyen"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/education/2022/04/29/migrant-students-use-their-words-in-speech-competition"
-    },
-    {
-      "text": "Migrant students use their words in speech competition",
-      "url": "https://www.kpbs.org/news/education/2022/04/29/migrant-students-use-their-words-in-speech-competition"
-    },
-    {
-      "text": "M.G. Perez",
-      "url": "https://www.kpbs.org/staff/mg-perez"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/san-diego-transit-cashes-in-on-return-of-congressional-earmarks"
-    },
-    {
-      "text": "San Diego transit cashes in on return of congressional earmarks",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/san-diego-transit-cashes-in-on-return-of-congressional-earmarks"
-    },
-    {
-      "text": "Andrew Bowen",
-      "url": "https://www.kpbs.org/staff/andrew-bowen"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/with-deadline-looming-pausing-californias-gas-tax-may-fizzle-out"
-    },
-    {
-      "text": "With deadline looming, pausing California's gas tax may fizzle out",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/with-deadline-looming-pausing-californias-gas-tax-may-fizzle-out"
-    },
-    {
-      "text": "Alexander Nguyen",
-      "url": "https://www.kpbs.org/staff/alexander-nguyen"
-    },
-    {
-      "text": "Ukraine Tensions",
-      "url": "https://www.kpbs.org/news/politics"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/international/2022/04/29/russia-sharpens-warnings-as-the-u-s-and-europe-send-more-weapons-to-ukraine"
-    },
-    {
-      "text": "Russia sharpens warnings as the U.S. and Europe send more weapons to Ukraine",
-      "url": "https://www.kpbs.org/news/international/2022/04/29/russia-sharpens-warnings-as-the-u-s-and-europe-send-more-weapons-to-ukraine"
-    },
-    {
-      "text": "Why Russia's rocket attack on Kyiv is seen as an insult to the U.N.",
-      "url": "https://www.kpbs.org/news/international/2022/04/29/why-russias-rocket-attack-on-kyiv-is-seen-as-an-insult-to-the-u-n"
-    },
-    {
-      "text": "Canada's House backs a motion recognizing Russia's actions in Ukraine as genocide",
-      "url": "https://www.kpbs.org/news/international/2022/04/28/canadas-house-backs-a-motion-recognizing-russias-actions-in-ukraine-as-genocide"
-    },
-    {
-      "text": "TV Highlights",
-      "url": "https://www.kpbs.org/tags/tv-highlights"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/2022/04/28/christopher-kimballs-milk-street-television-souvlaki-and-flatbread"
-    },
-    {
-      "text": "CHRISTOPHER KIMBALL'S MILK STREET TELEVISION: Souvlaki and Flatbread",
-      "url": "https://www.kpbs.org/news/2022/04/28/christopher-kimballs-milk-street-television-souvlaki-and-flatbread"
-    },
-    {
-      "text": "SIMPLY MING: Ming Tsai with Guest Dr. William Li",
-      "url": "https://www.kpbs.org/news/2022/04/29/simply-ming-ming-tsai-with-guest-dr-william-li"
-    },
-    {
-      "text": "RICK STEVES\u2019 EUROPE: Austrian And Italian Alps ",
-      "url": "https://www.kpbs.org/news/arts-culture/2020/10/14/rick-steves-europe-austrian-and-italian-alps"
-    },
-    {
-      "text": "We Remember: Songs of Survivors",
-      "url": "https://www.kpbs.org/news/2022/04/21/we-remember-songs-of-survivors"
-    },
-    {
-      "text": "Linda Ronstadt: Live In Hollywood",
-      "url": "https://www.kpbs.org/news/arts-culture/2020/08/25/linda-ronstadt-live-hollywood"
-    },
-    {
-      "text": "RIDLEY ROAD On MASTERPIECE (New Series Premiere)",
-      "url": "https://www.kpbs.org/news/2022/04/22/ridley-road-on-masterpiece"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.kpbs.org/news/politics"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/anderson-wants-east-county-cities-to-work-together-to-solve-regional-issue-of-homelessness"
-    },
-    {
-      "text": "Anderson wants East County cities to work together to solve 'regional issue' of homelessness",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/anderson-wants-east-county-cities-to-work-together-to-solve-regional-issue-of-homelessness"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/california-to-increase-awards-in-medical-malpractice-cases"
-    },
-    {
-      "text": "California to increase awards in medical malpractice cases",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/california-to-increase-awards-in-medical-malpractice-cases"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/county-switches-vaccination-registry-as-it-pares-down-covid-19-information"
-    },
-    {
-      "text": "County switches vaccination registry as it pares down COVID-19 information",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/county-switches-vaccination-registry-as-it-pares-down-covid-19-information"
-    },
-    {
-      "text": "Public Safety",
-      "url": "https://www.kpbs.org/news/public-safety"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/search-missing-indigenous-woman-prompted-ap-story"
-    },
-    {
-      "text": "Search for missing Indigenous woman prompted by AP story",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/search-missing-indigenous-woman-prompted-ap-story"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/violent-arrest-in-national-city-raises-questions-about-police-brutality"
-    },
-    {
-      "text": "Violent arrest in National City raises questions about police brutality",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/violent-arrest-in-national-city-raises-questions-about-police-brutality"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/another-inmate-dies-in-custody-at-a-san-diego-county-jail"
-    },
-    {
-      "text": "Another inmate dies in custody at a San Diego County jail",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/another-inmate-dies-in-custody-at-a-san-diego-county-jail"
-    },
-    {
-      "text": "Arts & Culture",
-      "url": "https://www.kpbs.org/news/arts-culture"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/arts-culture/2022/04/29/hatching-offers-unique-coming-of-age-horror-film"
-    },
-    {
-      "text": "'Hatching' offers unique coming of age horror film",
-      "url": "https://www.kpbs.org/news/arts-culture/2022/04/29/hatching-offers-unique-coming-of-age-horror-film"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/city-heights-international-market-event-space-reopens-el-cajon-boulevard"
-    },
-    {
-      "text": "City Heights international market, event space reopens on El Cajon Boulevard",
-      "url": "https://www.kpbs.org/news/local/2022/04/29/city-heights-international-market-event-space-reopens-el-cajon-boulevard"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/san-diego-weekend-arts-events-bob-fosses-dancin-women-jazz"
-    },
-    {
-      "text": "San Diego weekend arts events: 'On the Move,' 'Bob Fosse's Dancin',' Women in Jazz and more",
-      "url": "https://www.kpbs.org/news/local/2022/04/28/san-diego-weekend-arts-events-bob-fosses-dancin-women-jazz"
-    },
-    {
-      "text": "Community Events",
-      "url": "https://www.kpbs.org/events/all"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/events/ongoing/38th-annual-mission-fed-artwalk"
-    },
-    {
-      "text": "38th Annual Mission Fed Artwalk",
-      "url": "https://www.kpbs.org/events/ongoing/38th-annual-mission-fed-artwalk"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/events/ongoing/tequila-taco-music-festival"
-    },
-    {
-      "text": "Tequila & Taco Music Festival",
-      "url": "https://www.kpbs.org/events/ongoing/tequila-taco-music-festival"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/events/ongoing/san-diego-book-crawl-and-independent-bookstore-day"
-    },
-    {
-      "text": "San Diego Book Crawl and Independent Bookstore Day",
-      "url": "https://www.kpbs.org/events/ongoing/san-diego-book-crawl-and-independent-bookstore-day"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n",
-      "url": "https://www.kpbs.org/events/2022/04/30/adams-avenue-unplugged"
-    },
-    {
-      "text": "Adams Avenue Unplugged",
-      "url": "https://www.kpbs.org/events/2022/04/30/adams-avenue-unplugged"
-    },
-    {
-      "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
-      "url": "/"
-    },
-    {
-      "text": "twitter",
-      "url": "https://twitter.com/kpbs"
-    },
-    {
-      "text": "instagram",
-      "url": "https://www.instagram.com/kpbs/"
-    },
-    {
-      "text": "youtube",
-      "url": "https://www.youtube.com/channel/UCP9Zo2a0-bS9oPd_8tl92rQ"
-    },
-    {
-      "text": "facebook",
-      "url": "https://www.facebook.com/KPBSSanDiego"
-    },
-    {
-      "text": "About Us & Mission",
-      "url": "https://www.kpbs.org/about-us"
-    },
-    {
-      "text": "Careers",
-      "url": "https://www.kpbs.org/about/careers/"
-    },
-    {
-      "text": "FCC & Financial ",
-      "url": "https://www.kpbs.org/fcc-financial-and-other-reports"
-    },
-    {
-      "text": "Mobile Apps",
-      "url": "https://www.kpbs.org/kpbs-on-the-go"
-    },
-    {
-      "text": "Press Releases",
-      "url": "https://www.kpbs.org/tags/press-releases"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.kpbs.org/privacy-policy"
-    },
-    {
-      "text": "Staff",
-      "url": "https://www.kpbs.org/staff/"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://www.kpbs.org/terms-of-service"
-    },
-    {
-      "text": "Audience and Member Services",
-      "url": "https://www.kpbs.org/kpbs-audience-and-member-services"
-    },
-    {
-      "text": "Closed Captioning",
-      "url": "https://www.kpbs.org/closed-captioning"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.kpbs.org/contact-us"
-    },
-    {
-      "text": "FAQs",
-      "url": "https://www.kpbs.org/faq"
-    },
-    {
-      "text": "How do I listen? ",
-      "url": "https://www.kpbs.org/radio/livestream#how-do-i-listen"
-    },
-    {
-      "text": "Corporate Support",
-      "url": "https://www.kpbs.org/corporate-sponsorship"
-    },
-    {
-      "text": "Donate ",
-      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&ref_medium=site-text-links&_ga=2.36619939.2060971585.1627846822-1201957814.1616689752&ref_campaign=membership-page#/home"
-    },
-    {
-      "text": "Membership Information",
-      "url": "https://www.kpbs.org/membership-information"
-    },
-    {
-      "text": "Other Ways to Give",
-      "url": "https://www.kpbs.org/membership/other-ways-to-give"
-    },
-    {
-      "text": "Tax ID",
-      "url": "https://www.kpbs.org/help/tax-id"
-    },
-    {
-      "text": "Vehicle Donation",
-      "url": "https://www.kpbs.org/give/car-donations"
-    }
-  ],
+  "files_count": 241,
+  "item_last_updated": 1651412645,
+  "item_size": 25753972,
   "metadata": {
     "identifier": "kpbs-2022",
     "collection": [
@@ -3528,7 +2562,7 @@
     "addeddate": "2022-03-24 02:06:19"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 413490084,
+  "uniq": 830931129,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"
