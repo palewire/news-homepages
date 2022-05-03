@@ -1,5 +1,5 @@
 {
-  "created": 1651450677,
+  "created": 1651537169,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/21/items/lemonde_en-2022",
@@ -982,31 +982,73 @@
       "sha1": "ceab0682113dbd48be50f32299cb48792645b9c4"
     },
     {
+      "name": "lemonde_en-2022-05-02T14:08:27.464732+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651493315",
+      "size": "27745",
+      "md5": "8bbe0df8aa8b60032ed64ed1872a69b2",
+      "crc32": "f490c8d1",
+      "sha1": "91e40d430cfc4a70e50092217a2b9fd1c63184c0",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-05-02T14:08:27.464732+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651493317",
+      "size": "46788",
+      "md5": "8fc472b6fbfc2ffb406ef63e106c7e0d",
+      "crc32": "8cc1eee7",
+      "sha1": "c1626864baa21e4351d03c47e0d07b29f3b2dd3d",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-05-02T14:08:27.464732+02:00.jpg",
+      "source": "original",
+      "mtime": "1651493312",
+      "size": "262599",
+      "md5": "0ca23d81c7cae6a25249e015f6485fb4",
+      "crc32": "ce2d2b0a",
+      "sha1": "21cf396a452e8e6a29f87d232246d78b609748f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-05-02T14:08:27.464732+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-05-02T14:08:27.464732+02:00.jpg",
+      "mtime": "1651493417",
+      "size": "9073",
+      "md5": "a590741e0c658f1fc23f4e4785e2cd4e",
+      "crc32": "199b8497",
+      "sha1": "9137c5a4fad9f44b5d5732c228e1710b07b9c39d"
+    },
+    {
       "name": "lemonde_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46af1f51c5369033733579863a8157836a8e1d2e",
-      "mtime": "1651407101",
-      "size": "21196",
-      "md5": "2ecc6eb2309cce03591dd2cadadf8c18",
-      "crc32": "1061f040",
-      "sha1": "327547a0d189437c6229b655e83c1bc9c0027e2e",
+      "btih": "034e89b018c85c5e3ccc4babbb84c017c64be6a3",
+      "mtime": "1651493448",
+      "size": "22053",
+      "md5": "3ab22cd66a74f5ab7c3d7ce3e8b1f676",
+      "crc32": "e5662caf",
+      "sha1": "1e1c82197dfb380ffad0f47094cac17ea50f6c8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemonde_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a5a1cf532eb6529dd4bea91d69c0603",
+      "md5": "8c55104e501e4adf7b9765ddeda28eea",
       "summation": "md5"
     },
     {
       "name": "lemonde_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651407051",
-      "size": "131072",
-      "md5": "02d141b1dfcea1633455ba407d15f201",
-      "crc32": "f4e10bdd",
-      "sha1": "433863ade0677a10dc1544e16f31c52deee2b651",
+      "mtime": "1651493338",
+      "size": "135168",
+      "md5": "68f77a1cd18c64f919f9ca2ce1c4fb3e",
+      "crc32": "c02f1068",
+      "sha1": "89f929b4c7b7dfb54b703f5e6d6f546622c7130e",
       "format": "Metadata"
     },
     {
@@ -1020,9 +1062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 97,
-  "item_last_updated": 1651407101,
-  "item_size": 8089592,
+  "files_count": 101,
+  "item_last_updated": 1651493448,
+  "item_size": 8440750,
   "lemonde_en-2022": [
     {
       "text": "Fran\u00e7ais",
@@ -1133,7 +1175,11 @@
       "url": "//www.lemonde.fr/en/fragments-de-france/"
     },
     {
-      "text": "           Politics In a small town in the Hautes-Pyr\u00e9n\u00e9es, Emmanuel Macron tries to suspend time  ",
+      "text": "           Politics Who is Alexis Kohler, Macron's discreet right-hand man?  ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/who-is-alexis-kohler-macron-s-discreet-right-hand-man_5982117_5.html"
+    },
+    {
+      "text": "           Politics Macron tries to stop time in a small town in the Hautes-Pyr\u00e9n\u00e9es  ",
       "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/from-a-small-town-in-the-hautes-pyrenees-emmanuel-macron-tries-to-slow-down-political-time_5982085_5.html"
     },
     {
@@ -1143,10 +1189,6 @@
     {
       "text": "           Politics Paralysis grips French conservatives over whether to join Macron  ",
       "url": "https://www.lemonde.fr/en/politics/article/2022/04/29/paralysis-grips-french-conservatives-over-whether-to-join-macron_5982007_5.html"
-    },
-    {
-      "text": "           Politics Macron expected to appoint a smaller government team before legislative elections  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/04/29/macron-expected-to-appoint-a-smaller-government-team-before-legislative-elections_5982006_5.html"
     },
     {
       "text": "Economy",
@@ -1173,20 +1215,20 @@
       "url": "//www.lemonde.fr/en/media/"
     },
     {
-      "text": "           Economy  Subscribers only NFTs: The two faces of crypto-art collectors  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/04/30/nfts-the-two-faces-of-crypto-art-collectors_5982080_19.html"
+      "text": "           Economy  Subscribers only The end of the Chinese dream in Bordeaux's wine estates  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/the-new-owners-are-anything-but-wine-lovers-the-end-of-the-chinese-dream-in-bordeaux-s-wine-estates_5982165_19.html"
     },
     {
-      "text": "           Economy  Subscribers only The European Commission is targeting gag procedures used to intimidate journalists and whistleblowers  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/01/the-european-commission-is-targeting-gag-procedures-used-to-intimidate-journalists-and-whistleblowers_5982113_19.html"
+      "text": "           Economy  Subscribers only Cyberspace specialist Julien Nocetti: 'The war in Ukraine is reinforcing the fragmentation of the internet'  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/cyberspace-specialist-julien-nocetti-the-war-in-ukraine-is-reinforcing-the-fragmentation-of-the-internet_5982192_19.html"
     },
     {
-      "text": "           Le Monde Afrique  Subscribers only IMF encourages African governments to support households in response to\u00a0inflation  ",
-      "url": "https://www.lemonde.fr/en/le-monde-afrique/article/2022/05/01/imf-encourages-african-governments-to-support-households-in-response-to-inflation_5982089_12.html"
+      "text": "           Economy  Subscribers only Airbnb: 'Few companies of that size have given as much freedom to their employees'  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/airbnb-few-companies-of-that-size-have-given-as-much-freedom-to-their-employees_5982185_19.html"
     },
     {
-      "text": "           Economy  Subscribers only Elon Musk, SpaceX CEO and builder of dreams  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/04/30/elon-musk-spacex-ceo-and-builder-of-dreams_5982050_19.html"
+      "text": "           Economy  Subscribers only Low-cost airlines put the pandemic behind them, but staff unrest looms  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/low-cost-airlines-put-the-pandemic-behind-them-but-staff-unrest-looms_5982180_19.html"
     },
     {
       "text": "Opinion",
@@ -1217,8 +1259,8 @@
       "url": "https://www.lemonde.fr/en/opinion/article/2022/04/29/presidential-election-the-warning-of-the-far-right-vote-in-france-s-overseas-territories_5981914_23.html"
     },
     {
-      "text": "           International  Subscribers only Political scientist Val\u00e9rie Niquet: 'China has sunk into a dangerous inefficiency'  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/political-scientist-valerie-niquet-china-has-sunk-into-a-dangerous-inefficiency_5982069_4.html"
+      "text": "           Opinion  Subscribers only 'Sweden offers a particularly interesting case of environmental planning'  ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/02/sweden-offers-a-particularly-interesting-case-of-environmental-planning_5982140_23.html"
     },
     {
       "text": "           Opinion 'Macron and Le Pen won in the first round by their ability to be \"catch-all\" candidates'  ",
@@ -1261,16 +1303,16 @@
       "url": "https://www.lemonde.fr/en/culture/article/2022/04/30/u-s-movie-theaters-are-reminding-netflix-that-their-doors-are-open_5982038_30.html"
     },
     {
-      "text": "           Books  Subscribers only 'We don't know if we Belarusians are still independent'  ",
-      "url": "https://www.lemonde.fr/en/books/article/2022/04/28/we-don-t-know-if-we-belarusians-are-still-independent_5981834_33.html"
+      "text": "           International  Subscribers only The Tennessee pastor who burns 'demonic' Harry Potter and Twilight books  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/the-tennessee-pastor-who-burns-demonic-harry-potter-and-twilight-books_5982146_4.html"
     },
     {
       "text": "           Opinion  Subscribers only Public broadcasting: 'The fate of democracies depends on quality information'  ",
       "url": "https://www.lemonde.fr/en/opinion/article/2022/04/18/public-broadcasting-the-fate-of-democracies-depends-on-quality-information_5980859_23.html"
     },
     {
-      "text": "           Culture Naomi Judd, of Grammy-winning duo The Judds, dies at 76  ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/05/01/naomi-judd-of-grammy-winning-duo-the-judds-dies-at-76_5982086_30.html"
+      "text": "           Culture R\u00e9gine, French disco pioneer and nightclub queen, dies at 92  ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/02/regine-french-disco-pioneer-and-nightclub-queen-dies-at-92_5982143_30.html"
     },
     {
       "text": "M le Mag",
@@ -1309,6 +1351,14 @@
       "url": "//www.lemonde.fr/en/recipes/"
     },
     {
+      "text": "           M Le Mag Philippe Olivier, the man behind Marine Le Pen's 'de-demonization' strategy  ",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/01/philippe-olivier-the-man-behind-marine-le-pen-s-de-demonization-strategy_5982133_117.html"
+    },
+    {
+      "text": "           M Le Mag  Subscribers only Chris Smalls, the man behind Amazon's first labor union  ",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/02/chris-smalls-the-man-behind-amazon-s-first-labor-union_5982173_117.html"
+    },
+    {
       "text": "           Campus  Subscribers only Driven by Instagram, tattoos are becoming more popular and more political  ",
       "url": "https://www.lemonde.fr/en/campus/article/2022/05/01/driven-by-instagram-tattoos-are-becoming-more-popular-and-more-political_5982111_11.html"
     },
@@ -1317,108 +1367,100 @@
       "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/04/30/venice-biennale-the-artful-history-of-italians-success-in-america_5982054_117.html"
     },
     {
-      "text": "           M Le Mag  Subscribers only 'A girl I knew was killed in Odesa with her 3-month-old daughter and her mother': The diary of two sisters separated by the war in Ukraine  ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/04/29/a-girl-i-knew-was-killed-in-odesa-with-her-3-month-old-daughter-and-her-mother-the-diary-of-two-sisters-separated-by-the-war-in-ukraine_5981943_117.html"
-    },
-    {
-      "text": "           M Le Mag  Subscribers only In Bordeaux, the vineyard of the future is being created  ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/04/28/in-bordeaux-the-vineyard-of-the-future-is-being-created_5981803_117.html"
-    },
-    {
       "text": " Recherche ",
       "url": "/recherche/"
     },
     {
-      "text": " In a small town in the Hautes-Pyr\u00e9n\u00e9es, Emmanuel Macron tries to suspend time                Faced with geopolitical emergencies and internal tensions within France, the French president has chosen to enter what he calls a 'decanting phase' before the appointment of his new government. ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/from-a-small-town-in-the-hautes-pyrenees-emmanuel-macron-tries-to-slow-down-political-time_5982085_5.html"
+      "text": " M\u00e9lenchon's party signs deal with Greens as French left progresses towards a coalition                Jean-Luc M\u00e9lenchon's La France Insoumise signed an agreement with the environmentalist party and talks are ongoing to add other parties to the alliance. ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/02/greens-sign-deal-with-melenchon-as-french-left-progresses-toward-coalition_5982169_5.html"
     },
     {
-      "text": "Emmanuel Macron shelved his 'revolution' to embody continuity ",
-      "url": "https://www.lemonde.fr/en/2022-presidential-election/article/2022/04/26/emmanuel-macron-shelved-his-revolution-to-embody-continuity_5981625_16.html"
+      "text": "Tension at May Day rallies in Europe as protesters call for more state aid to counter inflation ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/tension-at-may-day-rallies-in-europe-as-protesters-call-for-more-state-aid-to-counter-inflation_5982136_4.html"
     },
     {
-      "text": "What is Macron's initial program after his re-election? ",
-      "url": "https://www.lemonde.fr/en/2022-presidential-election/article/2022/04/26/what-is-macron-s-initial-program-after-his-re-election_5981632_16.html"
+      "text": "A new French left has been reborn from the ashes ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/04/29/a-new-french-left-has-been-reborn-from-the-ashes_5981947_5.html"
     },
     {
-      "text": "            Who is Alexis Kohler, Macron's discreet right-hand man?  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/who-is-alexis-kohler-macron-s-discreet-right-hand-man_5982117_5.html"
+      "text": "            Evacuees from besieged Mariupol arrive in Ukrainian-held territory  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/evacuees-from-besieged-mariupol-arrive-in-ukrainian-held-territory_5982200_4.html"
     },
     {
-      "text": "            Activists rally to save a feminist maternity hospital threatened with closure  ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/05/01/activists-attempt-to-save-feminist-les-lilas-maternity-hospital-threatened-with-closure_5982090_7.html"
+      "text": "            Subscribers onlyLow-cost airlines put the pandemic behind them, but staff unrest looms  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/low-cost-airlines-put-the-pandemic-behind-them-but-staff-unrest-looms_5982180_19.html"
     },
     {
-      "text": "            Pelosi visits Kyiv as residents are evacuated from Mariupol steel plant  Partial evacuations of the Azovstal steelworks have been carried out but thousands of people remain trapped in the southeastern city.  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/pelosi-visits-kyiv-as-residents-are-evacuated-from-mariupol-steel-plant_5982102_4.html"
+      "text": "            Spain says cellphones of prime minister, defense minister were targeted in spyware attack  The cellphones of members of Spain's government and those of people connected to Catalonia's separatist movement were infected with Pegasus spyware between 2017 and 2021.  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/spain-says-cellphones-of-prime-minister-defense-minister-were-targeted-in-spyware-attack_5982181_4.html"
     },
     {
-      "text": "            Subscribers onlyPolluting chemicals detected in eight high altitude lakes  in the French Pyr\u00e9n\u00e9es  Among the 151 chemical molecules detected, researchers found pesticides, fungicides, commonly used biocides and 60 miscellaneous compounds used in perfumes and cleaning products.  ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/05/01/chemical-pollutants-detected-in-eight-high-altitude-lakes-in-the-french-departments-of-ariege-hautes-pyrenees-and-pyrenees-atlantiques_5982091_114.html"
+      "text": "            Subscribers onlyCyberspace specialist Julien Nocetti: 'The war in Ukraine is reinforcing the fragmentation of the internet'  In an interview with 'Le Monde,' Julien Nocetti, researcher and cyberspace specialist, talked about how the conflict has intensified the United States' efforts to bring Europe back into its sphere of influence.  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/cyberspace-specialist-julien-nocetti-the-war-in-ukraine-is-reinforcing-the-fragmentation-of-the-internet_5982192_19.html"
     },
     {
-      "text": "            Subscribers onlyThe European Commission is targeting gag procedures used to intimidate journalists and whistleblowers  A draft European directive intends to limit the rise of a legal practice designed to intimidate people.  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/01/the-european-commission-is-targeting-gag-procedures-used-to-intimidate-journalists-and-whistleblowers_5982113_19.html"
+      "text": "            Subscribers onlyAirbnb: 'Few companies of that size have given as much freedom to their employees'  The housing rental platform will allow all its employees to work from wherever they want. According to our columnist, this flexibility attracts talents but bears the seeds of a deep redefinition of the nature of work.  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/airbnb-few-companies-of-that-size-have-given-as-much-freedom-to-their-employees_5982185_19.html"
     },
     {
-      "text": "             Feature   Flora Genoux Subscribers onlyIn Chile, the Mapuche Indians want to reclaim their land The historical disagreement over the restitution of the ancestral lands of the Mapuche indigenous population, which has been plagued by violence and illegal occupations, has reached a turning point as a leftist president, Gabriel Boric, is holding the reins.   8 min read   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/in-chile-the-mapuche-indians-want-to-reclaim-their-land_5982092_4.html"
+      "text": "             Investigation   Hubert Prolongeau Subscribers onlyThe end of the Chinese dream in Bordeaux's wine estates Since 2008, nearly 150 wineries in Bordeaux have been bought by Chinese investors. But the trend has petered out and, now that the elation of the early days is over, some of the wine estates are falling into financial ruin.   8 min read   ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/the-new-owners-are-anything-but-wine-lovers-the-end-of-the-chinese-dream-in-bordeaux-s-wine-estates_5982165_19.html"
     },
     {
       "text": " Newsletter LE MONDE IN ENGLISH Sign up to receive our daily selection of \"Le Monde\" articles translated into English.   Sign up  ",
       "url": "https://www.lemonde.fr/newsletters/le-monde-in-english/"
     },
     {
-      "text": "            Subscribers onlyPreparations for U.N. biodiversity conference grind to a halt  ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/04/30/talks-for-u-n-biodiversity-conference-grind-to-a-halt_5982066_23.html"
+      "text": "            Subscribers onlyFrench Council of State suspends dissolution of two pro-Palestinian organizations  ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/02/french-council-of-state-suspends-dissolution-of-two-pro-palestinian-organizations_5982163_7.html"
     },
     {
-      "text": "            Beijing ramps up Covid-19 restrictions as national holiday begins  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/beijing-ramps-up-covid-19-restrictions-as-national-holiday-begins_5982060_4.html"
+      "text": "            Nationalists poised to make historic gains in Northern Ireland regional elections  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/nationalists-poised-to-make-historic-gains-in-northern-ireland-regional-elections_5982174_4.html"
     },
     {
-      "text": "            Naomi Judd, of Grammy-winning duo The Judds, dies at 76  ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/05/01/naomi-judd-of-grammy-winning-duo-the-judds-dies-at-76_5982086_30.html"
+      "text": "            Subscribers onlyChris Smalls, the man behind Amazon's first labor union  ",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/02/chris-smalls-the-man-behind-amazon-s-first-labor-union_5982173_117.html"
     },
     {
-      "text": "            Subscribers onlyRamadan soap operas stir up controversy in Algeria  ",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/04/30/ramadan-soap-operas-stir-up-controversy-in-algeria_5982077_124.html"
+      "text": "            R\u00e9gine, French disco pioneer and nightclub queen, dies at 92  ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/02/regine-french-disco-pioneer-and-nightclub-queen-dies-at-92_5982143_30.html"
     },
     {
-      "text": " British MP resigns after being caught watching porn in House of Commons  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/british-mp-resigns-after-being-caught-watching-porn-in-house-of-commons_5982073_4.html"
+      "text": " Subscribers onlyThe return of inflation in Brazil: 'People buy less and less and suppliers sell at higher and higher prices'  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/people-buy-less-and-less-and-suppliers-sell-at-higher-and-higher-prices-the-return-of-inflation-in-brazil_5982141_4.html"
     },
     {
-      "text": " Climate, energy, biodiversity: What are the new French government's environmental priorities?  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/04/30/climate-energy-biodiversity-what-are-the-new-french-government-s-environmental-priorities_5982079_5.html"
+      "text": " Subscribers onlyThe Tennessee pastor who burns 'demonic' Harry Potter and Twilight books  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/the-tennessee-pastor-who-burns-demonic-harry-potter-and-twilight-books_5982146_4.html"
     },
     {
-      "text": " Subscribers onlyIMF encourages African governments to support households in response to\u00a0inflation  ",
-      "url": "https://www.lemonde.fr/en/le-monde-afrique/article/2022/05/01/imf-encourages-african-governments-to-support-households-in-response-to-inflation_5982089_12.html"
+      "text": " EU hits Apple with antitrust charge over Apple Pay  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/eu-hits-apple-with-antitrust-charge-over-apple-pay_5982198_4.html"
     },
     {
-      "text": " Subscribers onlyNFTs: The two faces of crypto-art collectors  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/04/30/nfts-the-two-faces-of-crypto-art-collectors_5982080_19.html"
+      "text": " Red Cross, U.N. confirm start of evacuation of civilians from bombarded steel plant in Mariupol  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/red-cross-u-n-confirm-that-evacuation-of-civilians-from-bombarded-steel-plant-in-mariupol-is-underway_5982130_4.html"
     },
     {
-      "text": "             Investigation   Jos\u00e9phine Lebard Subscribers onlyDriven by Instagram, tattoos are becoming more popular and more political Tattooing is booming among young people, especially thanks to social networks. Beyond the aesthetic appeal, some see it as a way to claim an identity or to 'make peace' with their body and their personal history.   6 min read   ",
-      "url": "https://www.lemonde.fr/en/campus/article/2022/05/01/driven-by-instagram-tattoos-are-becoming-more-popular-and-more-political_5982111_11.html"
+      "text": "             Profile   Philippe Pons Subscribers onlyHitomi Watanabe and Miyako Ishiuchi, two pioneering Japanese female photographers After discovering photography by chance in the 1970s, the two artists have made a name for themselves in a male-dominated environment.   4 min read   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/02/hitomi-watanabe-and-miyako-ishiuchi-two-pioneering-photographers-in-japan_5982142_30.html"
     },
     {
-      "text": "             Feature   Camille Labro 'No one understood that a good savory breakfast could be a thing of the future' Inspired by their travels in Vancouver and Melbourne, in 2013 Sarah Mouchot and Nicolas Alary opened the restaurant Holybelly in Paris. From the morning until 5:00 p.m., they serve consistent, high-quality cuisine in their two restaurants on the same street.   2 min read   ",
-      "url": "https://www.lemonde.fr/en/food/article/2022/05/01/no-one-understood-that-a-good-savory-breakfast-could-be-a-thing-of-the-future_5982104_119.html"
+      "text": "             In Depth   Alexandre Lemari\u00e9 Who is Alexis Kohler, Macron's discreet right-hand man? Emmanuel Macron's closest and most powerful associate in the Elys\u00e9e Palace, who has been at the president's side since 2017, is on track to stay in his role within the new government \u2212 despite a flurry of criticism.   8 min read   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/who-is-alexis-kohler-macron-s-discreet-right-hand-man_5982117_5.html"
     },
     {
-      "text": "             Feature   Emmanuel Grynszpan and  Laurence Geai Two weeks of war on the Donbas front Photographer Laurence Geai, special correspondent for 'Le Monde' in Ukraine with reporter Emmanuel Grynszpan, reports on daily life during the war in the Donetsk and Luhansk regions, where Russian forces are focusing most of the fighting.   2 min read   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/two-weeks-of-war-on-the-donbas-front_5982033_4.html"
+      "text": "             News   Claire Gatinois Macron tries to stop time in a small town in the Hautes-Pyr\u00e9n\u00e9es Faced with geopolitical emergencies and internal tensions within France, the French president has chosen to enter what he calls a 'decanting phase' before the appointment of his new government.   6 min read   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/from-a-small-town-in-the-hautes-pyrenees-emmanuel-macron-tries-to-slow-down-political-time_5982085_5.html"
     },
     {
       "text": "  Opinion  ",
       "url": "//www.lemonde.fr/en/opinion/"
     },
     {
-      "text": "  Op-Ed  Subscribers only Political scientist Val\u00e9rie Niquet: 'China has sunk into a dangerous inefficiency'      Val\u00e9rie Niquet     ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/political-scientist-valerie-niquet-china-has-sunk-into-a-dangerous-inefficiency_5982069_4.html"
+      "text": "  Op-Ed  Subscribers only 'Sweden offers a particularly interesting case of environmental planning'      Wojtek Kalinowski     ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/02/sweden-offers-a-particularly-interesting-case-of-environmental-planning_5982140_23.html"
     },
     {
       "text": "  Column  Subscribers only 'By targeting young people, South Korea has disrupted global pop culture'      Michel Guerrin     ",
@@ -1429,111 +1471,115 @@
       "url": "https://www.lemonde.fr/en/opinion/article/2022/04/30/macron-and-le-pen-won-in-the-first-round-by-their-ability-to-be-catch-all-candidates_5982021_23.html"
     },
     {
-      "text": "  British MP resigns after being caught watching porn in House of Commons ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/british-mp-resigns-after-being-caught-watching-porn-in-house-of-commons_5982073_4.html"
+      "text": "  Tension at May Day rallies in Europe as protesters call for more state aid to counter inflation ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/tension-at-may-day-rallies-in-europe-as-protesters-call-for-more-state-aid-to-counter-inflation_5982136_4.html"
     },
     {
-      "text": "  Climate, energy, biodiversity: What are the new French government's environmental priorities? ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/04/30/climate-energy-biodiversity-what-are-the-new-french-government-s-environmental-priorities_5982079_5.html"
+      "text": "  Who is Alexis Kohler, Macron's discreet right-hand man? ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/who-is-alexis-kohler-macron-s-discreet-right-hand-man_5982117_5.html"
     },
     {
-      "text": "  Political scientist Val\u00e9rie Niquet: 'China has sunk into a dangerous inefficiency' ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/political-scientist-valerie-niquet-china-has-sunk-into-a-dangerous-inefficiency_5982069_4.html"
+      "text": "  The story behind Frontex director Fabrice Leggeri's resignation ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/the-story-behind-frontex-director-fabrice-leggeri-s-resignation_5982123_4.html"
     },
     {
-      "text": "  'By targeting young people, South Korea has disrupted global pop culture' ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/04/30/by-targeting-young-people-south-korea-has-disrupted-global-pop-culture_5982082_23.html"
+      "text": "  R\u00e9gine, French disco pioneer and nightclub queen, dies at 92 ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/02/regine-french-disco-pioneer-and-nightclub-queen-dies-at-92_5982143_30.html"
     },
     {
-      "text": "  Ramadan soap operas stir up controversy in Algeria ",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/04/30/ramadan-soap-operas-stir-up-controversy-in-algeria_5982077_124.html"
+      "text": "  Philippe Olivier, the man behind Marine Le Pen's 'de-demonization' strategy ",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/01/philippe-olivier-the-man-behind-marine-le-pen-s-de-demonization-strategy_5982133_117.html"
     },
     {
-      "text": "  In a small town in the Hautes-Pyr\u00e9n\u00e9es, Emmanuel Macron tries to suspend time ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/from-a-small-town-in-the-hautes-pyrenees-emmanuel-macron-tries-to-slow-down-political-time_5982085_5.html"
+      "text": "  'Sweden offers a particularly interesting case of environmental planning' ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/02/sweden-offers-a-particularly-interesting-case-of-environmental-planning_5982140_23.html"
     },
     {
-      "text": "  NFTs: The two faces of crypto-art collectors ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/04/30/nfts-the-two-faces-of-crypto-art-collectors_5982080_19.html"
+      "text": "  Red Cross, U.N. confirm start of evacuation of civilians from bombarded steel plant in Mariupol ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/red-cross-u-n-confirm-that-evacuation-of-civilians-from-bombarded-steel-plant-in-mariupol-is-underway_5982130_4.html"
     },
     {
-      "text": "  War in Ukraine: In Kharkiv,  'No one was going to greet the Russians with flowers' ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/war-in-ukraine-in-kharkiv-no-one-was-going-to-greet-the-russians-with-flowers_5982070_4.html"
+      "text": "  M\u00e9lenchon's party signs deal with Greens as French left progresses towards a coalition ahead of June elections ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/02/greens-sign-deal-with-melenchon-as-french-left-progresses-toward-coalition_5982169_5.html"
     },
     {
-      "text": "  Beijing ramps up Covid-19 restrictions as national holiday begins ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/beijing-ramps-up-covid-19-restrictions-as-national-holiday-begins_5982060_4.html"
+      "text": "  The end of the Chinese dream in Bordeaux's wine estates ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/the-new-owners-are-anything-but-wine-lovers-the-end-of-the-chinese-dream-in-bordeaux-s-wine-estates_5982165_19.html"
     },
     {
       "text": "  2022 Presidential Election  ",
       "url": "//www.lemonde.fr/en/2022-presidential-election/"
     },
     {
-      "text": "           Quarrelling French far right struggles to unite for legislative elections ",
+      "text": "           Emmanuel Macron shelved his 'revolution' to embody continuity ",
+      "url": "https://www.lemonde.fr/en/2022-presidential-election/article/2022/04/26/emmanuel-macron-shelved-his-revolution-to-embody-continuity_5981625_16.html"
+    },
+    {
+      "text": "Quarrelling French far right struggles to unite for legislative elections   ",
       "url": "https://www.lemonde.fr/en/politics/article/2022/04/27/quarrelling-french-far-right-struggles-to-unite-for-legislative-elections_5981707_5.html"
     },
     {
-      "text": "French presidential election 2022: Runoff driven by opposition vote   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/04/26/french-presidential-election-2022-runoff-driven-by-opposition-vote_5981630_5.html"
+      "text": "Elected unequivocally but without enthusiasm, Macron will have to govern accordingly   ",
+      "url": "https://www.lemonde.fr/en/2022-presidential-election/article/2022/04/26/elected-unequivocally-but-without-enthusiasm-emmanuel-macron-will-have-to-govern-accordingly_5981621_16.html"
     },
     {
       "text": "Macron allies worry about the 'third round' against galvanized M\u00e9lenchon   ",
       "url": "https://www.lemonde.fr/en/politics/article/2022/04/26/macron-allies-worry-about-third-round-against-galvanized-melenchon_5981673_5.html"
     },
     {
-      "text": "French election results if abstentions, blank and invalid votes were included   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/04/25/french-election-results-if-abstentions-blank-and-invalid-votes-were-included_5981587_5.html"
-    },
-    {
       "text": "Five takeaways from Emmanuel Macron's victory   ",
       "url": "https://www.lemonde.fr/en/2022-presidential-election/article/2022/04/24/five-takeaways-from-emmanuel-macron-s-victory_5981515_16.html"
     },
     {
-      "text": "Emmanuel Macron shelved his 'revolution' to embody continuity   ",
-      "url": "https://www.lemonde.fr/en/2022-presidential-election/article/2022/04/26/emmanuel-macron-shelved-his-revolution-to-embody-continuity_5981625_16.html"
+      "text": "French presidential election 2022: Runoff driven by opposition vote   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/04/26/french-presidential-election-2022-runoff-driven-by-opposition-vote_5981630_5.html"
     },
     {
-      "text": "Emmanuel Macron's position strengthened on the European stage after his victory in the presidential election   ",
-      "url": "https://www.lemonde.fr/en/2022-presidential-election/article/2022/04/26/emmanuel-macron-s-position-strengthened-on-the-european-stage-after-his-victory-in-the-presidential-election_5981617_16.html"
+      "text": "French election results if abstentions, blank and invalid votes were included   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/04/25/french-election-results-if-abstentions-blank-and-invalid-votes-were-included_5981587_5.html"
     },
     {
       "text": "  International  ",
       "url": "//www.lemonde.fr/en/international/"
     },
     {
-      "text": "            Subscribers only The European Commission is targeting gag procedures used to intimidate journalists and whistleblowers ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/01/the-european-commission-is-targeting-gag-procedures-used-to-intimidate-journalists-and-whistleblowers_5982113_19.html"
+      "text": "           Evacuees from besieged Mariupol arrive in Ukrainian-held territory ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/evacuees-from-besieged-mariupol-arrive-in-ukrainian-held-territory_5982200_4.html"
     },
     {
-      "text": "Pelosi visits Kyiv as residents are evacuated from Mariupol steel plant   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/pelosi-visits-kyiv-as-residents-are-evacuated-from-mariupol-steel-plant_5982102_4.html"
+      "text": "EU hits Apple with antitrust charge over Apple Pay   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/eu-hits-apple-with-antitrust-charge-over-apple-pay_5982198_4.html"
     },
     {
-      "text": " Subscribers only In Chile, the Mapuche Indians want to reclaim their land   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/in-chile-the-mapuche-indians-want-to-reclaim-their-land_5982092_4.html"
+      "text": " Subscribers only Cyberspace specialist Julien Nocetti: 'The war in Ukraine is reinforcing the fragmentation of the internet'   ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/cyberspace-specialist-julien-nocetti-the-war-in-ukraine-is-reinforcing-the-fragmentation-of-the-internet_5982192_19.html"
     },
     {
-      "text": " Subscribers only 'By targeting young people, South Korea has disrupted global pop culture'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/04/30/by-targeting-young-people-south-korea-has-disrupted-global-pop-culture_5982082_23.html"
+      "text": "Spain says cellphones of prime minister, defense minister were targeted in spyware attack   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/spain-says-cellphones-of-prime-minister-defense-minister-were-targeted-in-spyware-attack_5982181_4.html"
     },
     {
-      "text": "Climate, energy, biodiversity: What are the new French government's environmental priorities?   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/04/30/climate-energy-biodiversity-what-are-the-new-french-government-s-environmental-priorities_5982079_5.html"
+      "text": "Nationalists poised to make historic gains in Northern Ireland regional elections   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/nationalists-poised-to-make-historic-gains-in-northern-ireland-regional-elections_5982174_4.html"
     },
     {
-      "text": " Subscribers only Ramadan soap operas stir up controversy in Algeria   ",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/04/30/ramadan-soap-operas-stir-up-controversy-in-algeria_5982077_124.html"
+      "text": " Subscribers only The end of the Chinese dream in Bordeaux's wine estates   ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/the-new-owners-are-anything-but-wine-lovers-the-end-of-the-chinese-dream-in-bordeaux-s-wine-estates_5982165_19.html"
     },
     {
-      "text": "British MP resigns after being caught watching porn in House of Commons   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/british-mp-resigns-after-being-caught-watching-porn-in-house-of-commons_5982073_4.html"
+      "text": " Subscribers only French Council of State suspends dissolution of two pro-Palestinian organizations   ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/02/french-council-of-state-suspends-dissolution-of-two-pro-palestinian-organizations_5982163_7.html"
     },
     {
       "text": "  Environment  ",
       "url": "//www.lemonde.fr/en/environment/"
     },
     {
-      "text": "            Subscribers only Polluting chemicals detected in eight high altitude lakes  in the French Pyr\u00e9n\u00e9es ",
+      "text": "            Subscribers only 'Sweden offers a particularly interesting case of environmental planning' ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/02/sweden-offers-a-particularly-interesting-case-of-environmental-planning_5982140_23.html"
+    },
+    {
+      "text": " Subscribers only Polluting chemicals detected in eight high altitude lakes  in the French Pyr\u00e9n\u00e9es   ",
       "url": "https://www.lemonde.fr/en/environment/article/2022/05/01/chemical-pollutants-detected-in-eight-high-altitude-lakes-in-the-french-departments-of-ariege-hautes-pyrenees-and-pyrenees-atlantiques_5982091_114.html"
     },
     {
@@ -1543,10 +1589,6 @@
     {
       "text": " Subscribers only Preparations for U.N. biodiversity conference grind to a halt   ",
       "url": "https://www.lemonde.fr/en/opinion/article/2022/04/30/talks-for-u-n-biodiversity-conference-grind-to-a-halt_5982066_23.html"
-    },
-    {
-      "text": " Subscribers only Near Barcelona, the second life of the Garraf dump   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/29/near-barcelona-the-second-life-of-the-garraf-dump_5981975_4.html"
     },
     {
       "text": "   ",
@@ -1589,7 +1631,23 @@
       "url": "//www.lemonde.fr/en/france/"
     },
     {
-      "text": "           Who is Alexis Kohler, Macron's discreet right-hand man? ",
+      "text": "            Subscribers only French Council of State suspends dissolution of two pro-Palestinian organizations ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/02/french-council-of-state-suspends-dissolution-of-two-pro-palestinian-organizations_5982163_7.html"
+    },
+    {
+      "text": "Tension at May Day rallies in Europe as protesters call for more state aid to counter inflation   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/tension-at-may-day-rallies-in-europe-as-protesters-call-for-more-state-aid-to-counter-inflation_5982136_4.html"
+    },
+    {
+      "text": "Philippe Olivier, the man behind Marine Le Pen's 'de-demonization' strategy   ",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/01/philippe-olivier-the-man-behind-marine-le-pen-s-de-demonization-strategy_5982133_117.html"
+    },
+    {
+      "text": " Subscribers only The story behind Frontex director Fabrice Leggeri's resignation   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/01/the-story-behind-frontex-director-fabrice-leggeri-s-resignation_5982123_4.html"
+    },
+    {
+      "text": "Who is Alexis Kohler, Macron's discreet right-hand man?   ",
       "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/who-is-alexis-kohler-macron-s-discreet-right-hand-man_5982117_5.html"
     },
     {
@@ -1599,22 +1657,6 @@
     {
       "text": " Subscribers only Polluting chemicals detected in eight high altitude lakes  in the French Pyr\u00e9n\u00e9es   ",
       "url": "https://www.lemonde.fr/en/environment/article/2022/05/01/chemical-pollutants-detected-in-eight-high-altitude-lakes-in-the-french-departments-of-ariege-hautes-pyrenees-and-pyrenees-atlantiques_5982091_114.html"
-    },
-    {
-      "text": "Activists rally to save a feminist maternity hospital threatened with closure   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/05/01/activists-attempt-to-save-feminist-les-lilas-maternity-hospital-threatened-with-closure_5982090_7.html"
-    },
-    {
-      "text": "In a small town in the Hautes-Pyr\u00e9n\u00e9es, Emmanuel Macron tries to suspend time   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/from-a-small-town-in-the-hautes-pyrenees-emmanuel-macron-tries-to-slow-down-political-time_5982085_5.html"
-    },
-    {
-      "text": " Subscribers only The mystery of needle spiking in nightclubs across France   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/04/30/in-nantes-rennes-beziers-or-grenoble-the-mystery-of-the-nightclub-needle-pricks_5982028_7.html"
-    },
-    {
-      "text": "French economy flatlines in first quarter   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/04/29/french-economy-flatlines-in-first-quarter_5981963_19.html"
     },
     {
       "text": "  Our Times  ",
@@ -1653,32 +1695,32 @@
       "url": "//www.lemonde.fr/en/economy/"
     },
     {
-      "text": "            Subscribers only The European Commission is targeting gag procedures used to intimidate journalists and whistleblowers ",
+      "text": "            Subscribers only Cyberspace specialist Julien Nocetti: 'The war in Ukraine is reinforcing the fragmentation of the internet' ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/cyberspace-specialist-julien-nocetti-the-war-in-ukraine-is-reinforcing-the-fragmentation-of-the-internet_5982192_19.html"
+    },
+    {
+      "text": " Subscribers only Airbnb: 'Few companies of that size have given as much freedom to their employees'   ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/airbnb-few-companies-of-that-size-have-given-as-much-freedom-to-their-employees_5982185_19.html"
+    },
+    {
+      "text": " Subscribers only Low-cost airlines put the pandemic behind them, but staff unrest looms   ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/low-cost-airlines-put-the-pandemic-behind-them-but-staff-unrest-looms_5982180_19.html"
+    },
+    {
+      "text": " Subscribers only Chris Smalls, the man behind Amazon's first labor union   ",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/02/chris-smalls-the-man-behind-amazon-s-first-labor-union_5982173_117.html"
+    },
+    {
+      "text": " Subscribers only The end of the Chinese dream in Bordeaux's wine estates   ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/the-new-owners-are-anything-but-wine-lovers-the-end-of-the-chinese-dream-in-bordeaux-s-wine-estates_5982165_19.html"
+    },
+    {
+      "text": " Subscribers only The return of inflation in Brazil: 'People buy less and less and suppliers sell at higher and higher prices'   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/people-buy-less-and-less-and-suppliers-sell-at-higher-and-higher-prices-the-return-of-inflation-in-brazil_5982141_4.html"
+    },
+    {
+      "text": " Subscribers only The European Commission targets gag procedures used to intimidate journalists and whistleblowers   ",
       "url": "https://www.lemonde.fr/en/economy/article/2022/05/01/the-european-commission-is-targeting-gag-procedures-used-to-intimidate-journalists-and-whistleblowers_5982113_19.html"
-    },
-    {
-      "text": " Subscribers only IMF encourages African governments to support households in response to\u00a0inflation   ",
-      "url": "https://www.lemonde.fr/en/le-monde-afrique/article/2022/05/01/imf-encourages-african-governments-to-support-households-in-response-to-inflation_5982089_12.html"
-    },
-    {
-      "text": " Subscribers only NFTs: The two faces of crypto-art collectors   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/04/30/nfts-the-two-faces-of-crypto-art-collectors_5982080_19.html"
-    },
-    {
-      "text": "Beijing ramps up Covid-19 restrictions as national holiday begins   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/beijing-ramps-up-covid-19-restrictions-as-national-holiday-begins_5982060_4.html"
-    },
-    {
-      "text": " Subscribers only Elon Musk, SpaceX CEO and builder of dreams   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/04/30/elon-musk-spacex-ceo-and-builder-of-dreams_5982050_19.html"
-    },
-    {
-      "text": "Crisis-hit Sri Lanka hikes medicine prices   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/crisis-hit-sri-lanka-hikes-medicine-prices_5982048_4.html"
-    },
-    {
-      "text": "Russia makes bond payment to avoid historic debt default   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/04/30/russia-makes-bond-payment-to-avoid-what-would-have-been-a-historic-default-of-debt_5982023_4.html"
     },
     {
       "text": "  Le Monde Africa  ",
@@ -1717,20 +1759,20 @@
       "url": "//www.lemonde.fr/en/m-le-mag/"
     },
     {
-      "text": "            Subscribers only Driven by Instagram, tattoos are becoming more popular and more political ",
+      "text": "            Subscribers only Chris Smalls, the man behind Amazon's first labor union ",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/02/chris-smalls-the-man-behind-amazon-s-first-labor-union_5982173_117.html"
+    },
+    {
+      "text": "Philippe Olivier, the man behind Marine Le Pen's 'de-demonization' strategy   ",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/01/philippe-olivier-the-man-behind-marine-le-pen-s-de-demonization-strategy_5982133_117.html"
+    },
+    {
+      "text": " Subscribers only Driven by Instagram, tattoos are becoming more popular and more political   ",
       "url": "https://www.lemonde.fr/en/campus/article/2022/05/01/driven-by-instagram-tattoos-are-becoming-more-popular-and-more-political_5982111_11.html"
     },
     {
       "text": "The art of success: How Italians conquered the U.S. art scene   ",
       "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/04/30/venice-biennale-the-artful-history-of-italians-success-in-america_5982054_117.html"
-    },
-    {
-      "text": " Subscribers only 'A girl I knew was killed in Odesa with her 3-month-old daughter and her mother': The diary of two sisters separated by the war in Ukraine   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/04/29/a-girl-i-knew-was-killed-in-odesa-with-her-3-month-old-daughter-and-her-mother-the-diary-of-two-sisters-separated-by-the-war-in-ukraine_5981943_117.html"
-    },
-    {
-      "text": " Subscribers only In Bordeaux, the vineyard of the future is being created   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/04/28/in-bordeaux-the-vineyard-of-the-future-is-being-created_5981803_117.html"
     },
     {
       "text": "  Les D\u00e9codeurs  ",
@@ -1769,7 +1811,19 @@
       "url": "//www.lemonde.fr/en/pixels/"
     },
     {
-      "text": "            Subscribers only NFTs: The two faces of crypto-art collectors ",
+      "text": "           EU hits Apple with antitrust charge over Apple Pay ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/02/eu-hits-apple-with-antitrust-charge-over-apple-pay_5982198_4.html"
+    },
+    {
+      "text": " Subscribers only Cyberspace specialist Julien Nocetti: 'The war in Ukraine is reinforcing the fragmentation of the internet'   ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/02/cyberspace-specialist-julien-nocetti-the-war-in-ukraine-is-reinforcing-the-fragmentation-of-the-internet_5982192_19.html"
+    },
+    {
+      "text": " Subscribers only 'Ghostwriter': The pro-Russian hackers crashing the war in Ukraine   ",
+      "url": "https://www.lemonde.fr/en/pixels/article/2022/05/01/ghostwriter-the-pro-russian-hackers-crashing-the-war-in-ukraine_5982121_13.html"
+    },
+    {
+      "text": " Subscribers only NFTs: The two faces of crypto-art collectors   ",
       "url": "https://www.lemonde.fr/en/economy/article/2022/04/30/nfts-the-two-faces-of-crypto-art-collectors_5982080_19.html"
     },
     {
@@ -1777,7 +1831,7 @@
       "url": "https://www.lemonde.fr/en/pixels/article/2022/04/30/internet-users-are-poisoning-their-personal-data-in-the-fight-against-online-surveillance_5982052_13.html"
     },
     {
-      "text": " Subscribers only Internet: The U.S. unite 60 countries against the 'rise of digital authoritarianism'   ",
+      "text": " Subscribers only The U.S. unites 60 countries against the 'rise of digital authoritarianism'   ",
       "url": "https://www.lemonde.fr/en/international/article/2022/04/29/internet-the-u-s-unite-60-countries-against-the-rise-of-digital-authoritarianism_5981989_4.html"
     },
     {
@@ -1785,48 +1839,36 @@
       "url": "https://www.lemonde.fr/en/economy/article/2022/04/29/elon-musk-sells-4-billion-worth-of-tesla-shares-likely-to-help-pay-for-his-twitter-deal_5981935_19.html"
     },
     {
-      "text": "Personal data: Google expands its policy for deleting certain private information   ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/04/29/personal-data-google-expands-its-policy-for-deleting-certain-private-information_5981908_13.html"
-    },
-    {
-      "text": " Subscribers only 'For Elon Musk, radically changing Twitter will be difficult'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/04/28/for-elon-musk-radically-changing-twitter-will-be-difficult_5981898_23.html"
-    },
-    {
-      "text": "Elon Musk's track record on 'freedom of speech' could worry Twitter users   ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/04/28/elon-musk-s-track-record-on-freedom-of-speech-could-worry-twitter-users_5981802_13.html"
-    },
-    {
       "text": "  Culture  ",
       "url": "//www.lemonde.fr/en/culture/"
     },
     {
-      "text": "           Naomi Judd, of Grammy-winning duo The Judds, dies at 76 ",
+      "text": "            Subscribers only What did the Incas believe in? ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/02/what-did-the-incas-believe-in_5982204_30.html"
+    },
+    {
+      "text": " Subscribers only Klaus Schulze, pioneer of cosmic music, dies at 74   ",
+      "url": "https://www.lemonde.fr/en/obituaries/article/2022/05/02/klaus-schulze-pioneer-of-cosmic-music-dies-at-74_5982197_15.html"
+    },
+    {
+      "text": "'Undone' Season 2 on Amazon Prime: The comeback of a series like no other   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/02/undone-season-2-on-amazon-prime-the-comeback-of-a-series-like-no-other_5982159_30.html"
+    },
+    {
+      "text": "R\u00e9gine, French disco pioneer and nightclub queen, dies at 92   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/02/regine-french-disco-pioneer-and-nightclub-queen-dies-at-92_5982143_30.html"
+    },
+    {
+      "text": " Subscribers only Hitomi Watanabe and Miyako Ishiuchi, two pioneering Japanese female photographers   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/02/hitomi-watanabe-and-miyako-ishiuchi-two-pioneering-photographers-in-japan_5982142_30.html"
+    },
+    {
+      "text": " Subscribers only 'The Body of the Soul': Lyudmila Ulitskaya, a writer of boundless tenderness   ",
+      "url": "https://www.lemonde.fr/en/books/article/2022/05/01/the-body-of-the-soul-ludmila-ulitskaya-a-writer-of-boundless-tenderness_5982128_33.html"
+    },
+    {
+      "text": "Naomi Judd, of Grammy-winning duo The Judds, dies at 76   ",
       "url": "https://www.lemonde.fr/en/culture/article/2022/05/01/naomi-judd-of-grammy-winning-duo-the-judds-dies-at-76_5982086_30.html"
-    },
-    {
-      "text": " Subscribers only 'By targeting young people, South Korea has disrupted global pop culture'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/04/30/by-targeting-young-people-south-korea-has-disrupted-global-pop-culture_5982082_23.html"
-    },
-    {
-      "text": " Subscribers only Ramadan soap operas stir up controversy in Algeria   ",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/04/30/ramadan-soap-operas-stir-up-controversy-in-algeria_5982077_124.html"
-    },
-    {
-      "text": "The art of success: How Italians conquered the U.S. art scene   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/04/30/venice-biennale-the-artful-history-of-italians-success-in-america_5982054_117.html"
-    },
-    {
-      "text": " Subscribers only U.S. movie theaters remind Netflix that their 'doors are open'   ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/04/30/u-s-movie-theaters-are-reminding-netflix-that-their-doors-are-open_5982038_30.html"
-    },
-    {
-      "text": "Theater, dance, opera: 12 unmissable shows to see in France before summer   ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/04/29/theater-dance-opera-12-unmissable-shows-to-see-in-france-before-summer_5982010_30.html"
-    },
-    {
-      "text": "'Carpool Karaoke' James Corden will leave CBS' 'The Late Late Show' in 2023   ",
-      "url": "https://www.lemonde.fr/en/television-radio/article/2022/04/29/carpool-karaoke-james-corden-will-leave-cbs-the-late-late-show-in-2023_5981923_100.html"
     },
     {
       "text": "Subscribe",
@@ -1997,10 +2039,10 @@
     "publicdate": "2022-04-09 13:40:13",
     "addeddate": "2022-04-09 13:40:13"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 2112169657,
+  "server": "ia601404.us.archive.org",
+  "uniq": 818574704,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }
