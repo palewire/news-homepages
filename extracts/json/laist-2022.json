@@ -1,5 +1,5 @@
 {
-  "created": 1651537147,
+  "created": 1651709887,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/34/items/laist-2022",
@@ -2654,31 +2654,199 @@
       "sha1": "d0ef835703d349a1ae4e0d1d1ca8bab5a768d84e"
     },
     {
+      "name": "laist-2022-05-02T19:18:00.069808-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651544283",
+      "size": "33945",
+      "md5": "f35708f9e8e272227cefc5726d11de6f",
+      "crc32": "48e7eed6",
+      "sha1": "8f1bff48fbb16ba0f45ce0f49447e923c4e30662",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-02T19:18:00.069808-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651544284",
+      "size": "35540",
+      "md5": "96144b6ae90ab82b92e36cfd59a9cc92",
+      "crc32": "6a24062d",
+      "sha1": "f5217562d796c0e1c0e4d655fa6b98097ba475ca",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-02T19:18:00.069808-07:00.jpg",
+      "source": "original",
+      "mtime": "1651544281",
+      "size": "323367",
+      "md5": "84c138b2f0b8eaac35fca975893e0dda",
+      "crc32": "dd5099c1",
+      "sha1": "72adb55a65fedac244e974595ab12ef5905dbf53",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-05-02T19:18:00.069808-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-05-02T19:18:00.069808-07:00.jpg",
+      "mtime": "1651544336",
+      "size": "10575",
+      "md5": "e3814fc3feafcfeb2863a08c48987434",
+      "crc32": "3ba278e9",
+      "sha1": "2aae1f55f8703c87cedbb88970bcb5abddaa4083"
+    },
+    {
+      "name": "laist-2022-05-03T06:50:34.238394-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651585838",
+      "size": "32792",
+      "md5": "9ef50dda83f0baf12d5f6049bb368ffa",
+      "crc32": "2f4f7c00",
+      "sha1": "1ea25f91af8dafde4ecebb6461d9ab3d8ba27870",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-03T06:50:34.238394-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651585840",
+      "size": "35227",
+      "md5": "36c079cd850b034fb731d4f6341a4342",
+      "crc32": "2b79ae02",
+      "sha1": "28a79c04425bbde28f75e64d3d0f2c8b2c41e2bb",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-03T06:50:34.238394-07:00.jpg",
+      "source": "original",
+      "mtime": "1651585837",
+      "size": "313078",
+      "md5": "a91e8c91d5eb12f8190eaa626604722e",
+      "crc32": "9f59b1c6",
+      "sha1": "b3fac95bc5168892ed51f5f7c2f100a5455e4d78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-05-03T06:50:34.238394-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-05-03T06:50:34.238394-07:00.jpg",
+      "mtime": "1651585894",
+      "size": "10424",
+      "md5": "1299dc8fc5bdc412a50bfa0d61bc2855",
+      "crc32": "b7367725",
+      "sha1": "37fc2a399452b105b1da3f19e9da976537a85697"
+    },
+    {
+      "name": "laist-2022-05-03T19:20:51.029062-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651630861",
+      "size": "34168",
+      "md5": "b7ff3fa65f8297e0d383232f1596f888",
+      "crc32": "ef5ad32a",
+      "sha1": "b123991747491138220932d1a2430ddaa5d634ce",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-03T19:20:51.029062-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651630863",
+      "size": "35300",
+      "md5": "eb5e2cbf93f691463c62efb8b6ff8a00",
+      "crc32": "25603580",
+      "sha1": "94daf6b4d50c6e34bdd001b92d5f39711d622d48",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-03T19:20:51.029062-07:00.jpg",
+      "source": "original",
+      "mtime": "1651630860",
+      "size": "322056",
+      "md5": "2f307f4fde8f36260031d0012a5d0f8a",
+      "crc32": "02cab5ed",
+      "sha1": "ff3db7b5fcb9ef98fb0d5d92427d1d4563cba290",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-05-03T19:20:51.029062-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-05-03T19:20:51.029062-07:00.jpg",
+      "mtime": "1651630944",
+      "size": "10433",
+      "md5": "a8a3979ab558f46dbb49947756e85c9d",
+      "crc32": "2793c20d",
+      "sha1": "9a022b5d64f5d876e806970bdfb0de3c6ea70a4e"
+    },
+    {
+      "name": "laist-2022-05-04T06:48:52.108678-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651672138",
+      "size": "34290",
+      "md5": "3a20481838c2aaff3888e33c7bb4533c",
+      "crc32": "7801b022",
+      "sha1": "8f7f36450664a1b5f8fe33aa806cbf3fefb29e6f",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-04T06:48:52.108678-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651672139",
+      "size": "35128",
+      "md5": "6dc097e4e7b7319a2232ca227d0df728",
+      "crc32": "2c1dee39",
+      "sha1": "806668d34aecebc4b65234e0563dc84324821ccf",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-04T06:48:52.108678-07:00.jpg",
+      "source": "original",
+      "mtime": "1651672136",
+      "size": "329121",
+      "md5": "a4498c0e7c51a31a85e387f54fa2196b",
+      "crc32": "bb0ba3ca",
+      "sha1": "7956a88f3ff906d9a516323ed37bd9986a70603f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-05-04T06:48:52.108678-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-05-04T06:48:52.108678-07:00.jpg",
+      "mtime": "1651676185",
+      "size": "10468",
+      "md5": "7596f4fe64d8c2822a5e81bdb6f33058",
+      "crc32": "3eecbb78",
+      "sha1": "a02c7d0cb3be1a98bb2f730e4ed9a8f03bedde65"
+    },
+    {
       "name": "laist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39a108798053b3182e6f3ec04f470b2eec6c0515",
-      "mtime": "1651499544",
-      "size": "53533",
-      "md5": "d12544c971dcb6d79693edb12fe9597f",
-      "crc32": "1eaa3a3c",
-      "sha1": "925edebd3a7a49dbeb8ff3ce935bcaa61ca67b8d",
+      "btih": "9e849e253d55b65b8150985231b4299d5609cce1",
+      "mtime": "1651676192",
+      "size": "56866",
+      "md5": "ca85751ccdcf95585b5d275d28e5b9e2",
+      "crc32": "fcd657f1",
+      "sha1": "bd1bc209e67965f5dfed0d72e63bbf82d2a7f87d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68bfe8e0e5bec0eabb0f09a444c88b25",
+      "md5": "cadb0db9cc7cc15010fe052de1ce87e6",
       "summation": "md5"
     },
     {
       "name": "laist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651499474",
-      "size": "299008",
-      "md5": "f9c0afe487043e21f12bac9f6422d3ca",
-      "crc32": "e8cd67e0",
-      "sha1": "21ddd3f06a78cc2de0292ff131189e0cdf0c3ed0",
+      "mtime": "1651672144",
+      "size": "315392",
+      "md5": "3e793df4b47ba3b55b31a924750677f2",
+      "crc32": "591bdac8",
+      "sha1": "8215614d925f8c1a3edd86a2cf359804820196b8",
       "format": "Metadata"
     },
     {
@@ -2692,9 +2860,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 255,
-  "item_last_updated": 1651499544,
-  "item_size": 25078268,
+  "files_count": 271,
+  "item_last_updated": 1651676192,
+  "item_size": 26703897,
   "laist-2022": [
     {
       "text": "Become a sponsor",
@@ -2861,48 +3029,80 @@
       "url": "https://support.laist.com/laistdefault?ms=nav"
     },
     {
-      "text": "Things To Do This Weekend",
-      "url": "https://laist.com/news/arts-and-entertainment/arts-and-entertainment-best-events-things-to-do-this-weekend-los-angeles-southern-california-april-29-may-1-2022"
+      "text": "Things To Do This Week",
+      "url": "https://laist.com/news/arts-and-entertainment/arts-and-entertainment-best-events-things-to-do-this-weekend-los-angeles-southern-california-may-2-may-5-2022"
+    },
+    {
+      "text": "Roe v. Wade",
+      "url": "https://laist.com/news/health/how-california-created-the-nations-easiest-abortion-access-and-why-its-poised-to-go-further"
     },
     {
       "text": "Voter Game Plan 2022",
       "url": "https://laist.com/news/politics/meet-the-candidates-a-virtual-event-series"
     },
     {
-      "text": "Gardening",
-      "url": "https://laist.com/tags/gardening"
-    },
-    {
       "text": "Water Restrictions",
-      "url": "https://laist.com/news/climate-environment/amid-unprecedented-drought-officials-cut-water-use-for-6-million-heres-what-you-need-to-know"
+      "url": "https://laist.com/news/climate-environment/in-the-face-of-new-water-restrictions-what-else-should-be-done"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/criminal-justice/some-california-police-are-biased-a-report-says-they-have-no-clear-plans-to-fix-that"
+      "url": "https://laist.com/news/housing-homelessness/la-county-moves-forward-with-plan-to-create-a-new-homelessness-department"
+    },
+    {
+      "text": "Housing and Homelessness",
+      "url": "https://laist.com/news/housing-homelessness"
+    },
+    {
+      "text": "LA County Moves Forward With Plan To Create A New Homelessness Department",
+      "url": "https://laist.com/news/housing-homelessness/la-county-moves-forward-with-plan-to-create-a-new-homelessness-department"
     },
     {
       "text": "Criminal Justice",
       "url": "https://laist.com/news/criminal-justice"
     },
     {
-      "text": "Some California Police Are Biased. A Report Says They Have No Clear Plans To Fix That",
-      "url": "https://laist.com/news/criminal-justice/some-california-police-are-biased-a-report-says-they-have-no-clear-plans-to-fix-that"
+      "text": "Criminal Justice",
+      "url": "https://laist.com/news/criminal-justice"
     },
     {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "What Is May Day? For The Most Part, The Opposite Of Capitalism",
-      "url": "https://laist.com/news/what-is-may-day-for-the-most-part-the-opposite-of-capitalism"
+      "text": "Medical Parole Got Them Out Of State Prison. Now They're In A Decertified Nursing Home",
+      "url": "https://laist.com/news/criminal-justice/medical-parole-state-prison-decertified-nursing-home"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/what-is-may-day-for-the-most-part-the-opposite-of-capitalism"
+      "url": "https://laist.com/news/criminal-justice/medical-parole-state-prison-decertified-nursing-home"
+    },
+    {
+      "text": "Criminal Justice",
+      "url": "https://laist.com/news/criminal-justice"
+    },
+    {
+      "text": "Criminal Justice",
+      "url": "https://laist.com/news/criminal-justice"
+    },
+    {
+      "text": "A Daily \u2018Human Rights Disaster\u2019: LA Jail Medical Staff Outraged By Jail Conditions And The Doctor In Charge",
+      "url": "https://laist.com/news/criminal-justice/los-angeles-county-jail-medical-staff-outraged-by-jail-conditions"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/criminal-justice/los-angeles-county-jail-medical-staff-outraged-by-jail-conditions"
+    },
+    {
+      "text": "Education",
+      "url": "https://laist.com/news/education"
+    },
+    {
+      "text": "Education",
+      "url": "https://laist.com/news/education"
+    },
+    {
+      "text": "LAUSD Will Pay For High Speed Internet In Every Student Household, For A Year",
+      "url": "https://laist.com/news/education/lausd-will-pay-for-high-speed-internet-in-every-student-household-for-a-year"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/education/lausd-will-pay-for-high-speed-internet-in-every-student-household-for-a-year"
     },
     {
       "text": "Arts and Entertainment",
@@ -2913,44 +3113,12 @@
       "url": "https://laist.com/news/arts-and-entertainment"
     },
     {
-      "text": "How To Tell A Captivating Story \u2014 From A Wedding Toast To A Job Interview",
-      "url": "https://laist.com/news/arts-and-entertainment/how-to-tell-a-captivating-story-from-a-wedding-toast-to-a-job-interview"
+      "text": "May 3 Is Now El D\u00eda De Los Bukis In LA",
+      "url": "https://laist.com/news/arts-and-entertainment/may-3-is-now-el-dia-de-los-bukis-in-la"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/how-to-tell-a-captivating-story-from-a-wedding-toast-to-a-job-interview"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "May Day Immigrant Rights Rallies Planned In SoCal",
-      "url": "https://laist.com/news/may-day-immigrant-rights-rallies-planned-in-socal"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/may-day-immigrant-rights-rallies-planned-in-socal"
-    },
-    {
-      "text": "Transportation and Mobility",
-      "url": "https://laist.com/news/transportation"
-    },
-    {
-      "text": "Transportation and Mobility",
-      "url": "https://laist.com/news/transportation"
-    },
-    {
-      "text": "After Years Of Rising Traffic Violence, LA Will Audit Its Vision Zero Program",
-      "url": "https://laist.com/news/transportation/traffic-violence-la-vision-zero-audit"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/transportation/traffic-violence-la-vision-zero-audit"
+      "url": "https://laist.com/news/arts-and-entertainment/may-3-is-now-el-dia-de-los-bukis-in-la"
     },
     {
       "text": "Think of them like coaches before, during, and after pregnancy. Here's what you should know",
@@ -2977,52 +3145,60 @@
       "url": "/the-brief"
     },
     {
-      "text": "As Landlords Intensify Tenant Background Checks, Some Lawmakers Want New Limits On Screening",
-      "url": "https://laist.com/news/housing-homelessness/los-angeles-la-renter-tenant-screening-credit-score-check-landlord-voucher-income-housing-apartments-bonin-ramn-city-council-rental-access-ordinance"
+      "text": "Morning Brief: LA Abortion 'Safe Haven,' Welcoming Ukrainians, And El D\u00eda De Los Bukis",
+      "url": "https://laist.com/news/morning-brief-la-abortion-safe-haven-welcoming-ukrainians-and-el-dia-de-los-bukis"
     },
     {
-      "text": "A Daily \u2018Human Rights Disaster\u2019 \u2014 L.A. Jail Medical Staff Outraged By Jail Conditions And The Doctor In Charge",
-      "url": "https://laist.com/news/criminal-justice/los-angeles-county-jail-medical-staff-outraged-by-jail-conditions"
+      "text": "There's Too Much TV To Keep Up. Have We Hit The Limit?",
+      "url": "https://laist.com/news/arts-and-entertainment/theres-too-much-tv-to-keep-up-have-we-hit-the-limit"
     },
     {
-      "text": "After A False Start And 13 Years, Pro Women's Soccer Returns To LA \u2014 In Heavenly Fashion",
-      "url": "https://laist.com/news/los-angeles-activities/after-a-false-start-and-13-years-pro-womens-soccer-returns-to-la-in-robust-fashion"
+      "text": "This Proposal Could Solve Health Insurance Problem For Part-time Community College Faculty",
+      "url": "https://laist.com/news/education/this-proposal-could-solve-health-insurance-problem-for-part-time-community-college-faculty"
     },
     {
-      "text": "After 2 Years Celebrating Ramadan At Home, Muslims In The Southland Have Been Reconnecting With The Community",
-      "url": "https://laist.com/news/after-2-years-celebrating-ramadan-at-home-muslims-in-the-southland-have-been-reconnecting-with-the-community"
+      "text": "Some California School Districts That Grew During The Pandemic Feel Shortchanged",
+      "url": "https://laist.com/news/education/some-california-school-districts-that-grew-during-the-pandemic-feel-shortchanged"
     },
     {
-      "text": "Survey: More Than Half Of LA Residents Believe Race Relations Are Worsening",
-      "url": "https://laist.com/news/survey-more-than-half-of-la-residents-believe-race-relations-are-worsening"
+      "text": "What Even Is A Draft Opinion? Here's How The Supreme Court's Process Works",
+      "url": "https://laist.com/news/politics/what-even-is-a-draft-opinion-heres-how-the-supreme-courts-process-works"
     },
     {
-      "text": "11 Decaying Bodies Discovered In Sun Valley Funeral Home",
-      "url": "https://laist.com/news/bodies-decaying-in-sun-valley-funeral-home"
+      "text": "Medicare Surprise: Drug Plan Prices Touted During Open Enrollment Can Rise Within A Month",
+      "url": "https://laist.com/news/health/medicare-surprise-drug-plan-prices-touted-during-open-enrollment-can-rise-within-a-month"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/sponsored/spring-has-sprung-find-a-bright-assortment-of-supplies-and-ideas-for-gardening-season"
+      "url": "https://laist.com/sponsored/we-rise-together-celebrate-the-power-of-community-healing"
     },
     {
-      "text": "Spring Has Sprung! Find A Bright Assortment Of Supplies And Ideas For Gardening Season",
-      "url": "https://laist.com/sponsored/spring-has-sprung-find-a-bright-assortment-of-supplies-and-ideas-for-gardening-season"
+      "text": "WE RISE TOGETHER: Celebrate The Power Of Community & Healing",
+      "url": "https://laist.com/sponsored/we-rise-together-celebrate-the-power-of-community-healing"
     },
     {
-      "text": "Brains On! LIVE - Your Brain is Magic ",
-      "url": "https://laist.com/events/brains-on-live-your-brain-is-magic"
-    },
-    {
-      "text": "More Info",
-      "url": "https://laist.com/events/brains-on-live-your-brain-is-magic"
-    },
-    {
-      "text": "Meet Gina Viola: A Virtual Event With An LA Mayoral Candidate",
-      "url": "https://laist.com/events/meet-gina-viola-a-virtual-event-with-an-la-mayoral-candidate"
+      "text": "Meet Joe Buscaino: A Virtual Event With An LA Mayoral Candidate",
+      "url": "https://laist.com/events/meet-joe-buscaino-a-virtual-event-with-an-la-mayoral-candidate"
     },
     {
       "text": "More Info",
-      "url": "https://laist.com/events/meet-gina-viola-a-virtual-event-with-an-la-mayoral-candidate"
+      "url": "https://laist.com/events/meet-joe-buscaino-a-virtual-event-with-an-la-mayoral-candidate"
+    },
+    {
+      "text": "Meet Mike Feuer: A Virtual Event With An LA Mayoral Candidate",
+      "url": "https://laist.com/events/meet-mike-feuer-a-virtual-event-with-an-la-mayoral-candidate"
+    },
+    {
+      "text": "More Info",
+      "url": "https://laist.com/events/meet-mike-feuer-a-virtual-event-with-an-la-mayoral-candidate"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/podcasts/snooze"
+    },
+    {
+      "text": "Snooze",
+      "url": "https://laist.com/podcasts/snooze"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
@@ -3039,14 +3215,6 @@
     {
       "text": "The L.A. Report",
       "url": "https://laist.com/podcasts/the-la-report"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/podcasts/imperfectparadise"
-    },
-    {
-      "text": "Imperfect Paradise",
-      "url": "https://laist.com/podcasts/imperfectparadise"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
@@ -3067,6 +3235,26 @@
     {
       "text": "\n                        View All Podcasts\n                        \n                    ",
       "url": "/podcasts/"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/hidden-curriculum"
+    },
+    {
+      "text": "You Can Succeed At College Once You Figure Out All The Little Things No One Tells You About",
+      "url": "https://laist.com/hidden-curriculum"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/education/a-place-for-every-person-how-the-uc-and-csu-systems-were-created-and-what-the-master-plan-got-wrong"
+    },
+    {
+      "text": "Education",
+      "url": "https://laist.com/news/education"
+    },
+    {
+      "text": "What's The Difference Between UC And CSU Schools? It Starts With A 'Master Plan'",
+      "url": "https://laist.com/news/education/a-place-for-every-person-how-the-uc-and-csu-systems-were-created-and-what-the-master-plan-got-wrong"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
@@ -3094,18 +3282,6 @@
     },
     {
       "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/politics/lafd-los-angeles-fire-department-women-firefighters-harassment-abuse-allegations"
-    },
-    {
-      "text": "Politics",
-      "url": "https://laist.com/news/politics"
-    },
-    {
-      "text": "Women At Los Angeles Fire Department Say Harassment And Retaliation Keep Them Quiet About Abuse",
-      "url": "https://laist.com/news/politics/lafd-los-angeles-fire-department-women-firefighters-harassment-abuse-allegations"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
       "url": "https://laist.com/news/transportation/los-angeles-traffic-violence-safety-improvements"
     },
     {
@@ -3118,27 +3294,15 @@
     },
     {
       "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/housing-homelessness/fullerton-homelessness-nimby-supportive-housing-imperfect-paradise"
+      "url": "https://laist.com/news/food/drinking-at-disneyland-heres-everything-boozy-you-can-have-at-the-park-and-at-california-adventure-and-downtown-disney-too"
     },
     {
-      "text": "Housing and Homelessness",
-      "url": "https://laist.com/news/housing-homelessness"
+      "text": "Food",
+      "url": "https://laist.com/news/food"
     },
     {
-      "text": "What The Shouting Down Of An Apartment Building For Unhoused People Means For Us All",
-      "url": "https://laist.com/news/housing-homelessness/fullerton-homelessness-nimby-supportive-housing-imperfect-paradise"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/criminal-justice/misdemeanors-can-haunt-a-person-for-life-why-las-da-stopped-charging-many-of-them"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "Misdemeanors 'Can Haunt A Person For Life': Why LA's DA Stopped Charging Many Of Them",
-      "url": "https://laist.com/news/criminal-justice/misdemeanors-can-haunt-a-person-for-life-why-las-da-stopped-charging-many-of-them"
+      "text": "Drinking At Disneyland? Here's Everything Boozy You Can Have At The Park \u2014 And At California Adventure And Downtown Disney, Too",
+      "url": "https://laist.com/news/food/drinking-at-disneyland-heres-everything-boozy-you-can-have-at-the-park-and-at-california-adventure-and-downtown-disney-too"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
@@ -3177,112 +3341,16 @@
       "url": "https://laist.com/news/food/community-composting-101-save-food-waste-los-angeles-southern-california-environment-climate-change-hevelynn-nealy"
     },
     {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/naomi-judd-country-music-matriarch-of-the-judds-is-dead-at-76"
-    },
-    {
-      "text": "Naomi Judd, Country Music Matriarch Of The Judds, Is Dead At 76",
-      "url": "https://laist.com/news/arts-and-entertainment/naomi-judd-country-music-matriarch-of-the-judds-is-dead-at-76"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/rodney-king-beating-30-latasha-harlins"
-    },
-    {
-      "text": "30 Years Ago Rodney King Asked LA To 'Get Along.' His Daughter Is Still Asking ",
-      "url": "https://laist.com/news/rodney-king-beating-30-latasha-harlins"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/criminal-justice/two-plead-guilty-in-organized-theft-of-1-million-worth-of-goods"
-    },
-    {
-      "text": "Two Plead Guilty In Organized Theft Of $1 Million Worth Of Goods",
-      "url": "https://laist.com/news/criminal-justice/two-plead-guilty-in-organized-theft-of-1-million-worth-of-goods"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/92-unrest-uprisings-radio-korea-koreatown"
-    },
-    {
-      "text": "30 Years Ago, He Talked Koreatown Through The Unrest Of \u201892",
-      "url": "https://laist.com/news/92-unrest-uprisings-radio-korea-koreatown"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/netflix-is-putting-fortune-feimster-in-everything-including-headlining-a-show-in-its-massive-la-comedy-festival"
-    },
-    {
-      "text": "Netflix Is Putting Fortune Feimster In Everything, Including Headlining A Show In Its Massive LA Comedy Festival",
-      "url": "https://laist.com/news/arts-and-entertainment/netflix-is-putting-fortune-feimster-in-everything-including-headlining-a-show-in-its-massive-la-comedy-festival"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/movie-theater-owners-were-not-dead-yet"
-    },
-    {
-      "text": "Movie Theater Owners:  We're Not Dead Yet!",
-      "url": "https://laist.com/news/arts-and-entertainment/movie-theater-owners-were-not-dead-yet"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/stained-glass-dragons-and-hand-painted-tigers-pasadenas-much-missed-showcase-house-tradition-is-finally-back"
-    },
-    {
-      "text": "Stained Glass Dragons And Hand-Painted Tigers: Pasadena\u2019s Much-Missed Showcase House Tradition Is Finally Back",
-      "url": "https://laist.com/news/arts-and-entertainment/stained-glass-dragons-and-hand-painted-tigers-pasadenas-much-missed-showcase-house-tradition-is-finally-back"
-    },
-    {
       "text": "Education",
       "url": "https://laist.com/news/education"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/education/a-years-long-struggle-to-unionize-a-charter-network-takes-to-the-streets"
+      "url": "https://laist.com/news/education/ukrainian-students-arriving-in-california-find-warm-welcome-at-schools"
     },
     {
-      "text": "A Years-Long Struggle To Unionize A Charter Network Takes To The Streets",
-      "url": "https://laist.com/news/education/a-years-long-struggle-to-unionize-a-charter-network-takes-to-the-streets"
-    },
-    {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/health/la-county-covid-cases-up-40-from-last-week-health-officials-point-to-variants"
-    },
-    {
-      "text": "LA County COVID Cases Up 40% From Last Week; Health Officials Point To Variants",
-      "url": "https://laist.com/news/health/la-county-covid-cases-up-40-from-last-week-health-officials-point-to-variants"
+      "text": "Ukrainian Students Arriving In California Find Warm Welcome At Schools",
+      "url": "https://laist.com/news/education/ukrainian-students-arriving-in-california-find-warm-welcome-at-schools"
     },
     {
       "text": "Politics",
@@ -3290,11 +3358,11 @@
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/politics/wheres-trump-a-campaign-fixture-in-some-states-his-name-is-nearly-absent-in-california"
+      "url": "https://laist.com/news/politics/biden-says-abortion-decision-would-be-radical-and-threaten-other-rights"
     },
     {
-      "text": "Where\u2019s Trump? A Campaign Fixture In Some States, His Name Is Nearly Absent In California",
-      "url": "https://laist.com/news/politics/wheres-trump-a-campaign-fixture-in-some-states-his-name-is-nearly-absent-in-california"
+      "text": "Biden Says Abortion Decision Would Be 'Radical' And Threaten Other Rights",
+      "url": "https://laist.com/news/politics/biden-says-abortion-decision-would-be-radical-and-threaten-other-rights"
     },
     {
       "text": "Health",
@@ -3302,11 +3370,35 @@
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/health/the-fda-is-proposing-a-ban-on-menthol-cigarettes"
+      "url": "https://laist.com/news/health/the-secret-home-abortion-movement-that-started-in-la-two-years-before-roe-v-wade"
     },
     {
-      "text": "The FDA Is Proposing A Ban On Menthol Cigarettes",
-      "url": "https://laist.com/news/health/the-fda-is-proposing-a-ban-on-menthol-cigarettes"
+      "text": "The Secret Home Abortion Movement That Started In LA Two Years Before Roe V. Wade",
+      "url": "https://laist.com/news/health/the-secret-home-abortion-movement-that-started-in-la-two-years-before-roe-v-wade"
+    },
+    {
+      "text": "Health",
+      "url": "https://laist.com/news/health"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/health/heres-what-could-happen-if-roe-v-wade-is-overturned"
+    },
+    {
+      "text": "Here's What Could Happen If Roe V. Wade Is Overturned",
+      "url": "https://laist.com/news/health/heres-what-could-happen-if-roe-v-wade-is-overturned"
+    },
+    {
+      "text": "Politics",
+      "url": "https://laist.com/news/politics"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/politics/the-senate-will-vote-on-a-bill-creating-a-federal-right-to-an-abortion-schumer-says"
+    },
+    {
+      "text": "The Senate Will Vote On A Bill Creating A Federal Right To An Abortion, Schumer Says",
+      "url": "https://laist.com/news/politics/the-senate-will-vote-on-a-bill-creating-a-federal-right-to-an-abortion-schumer-says"
     },
     {
       "text": "News",
@@ -3314,11 +3406,83 @@
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/disney-says-florida-would-have-to-pay-nearly-1-billion-to-dissolve-special-district"
+      "url": "https://laist.com/news/morning-brief-cracking-down-on-rent-screening-mental-health-awareness-and-dolly-parton"
     },
     {
-      "text": "Disney Says Florida Would Have To Pay Nearly $1 Billion To Dissolve Special District",
-      "url": "https://laist.com/news/disney-says-florida-would-have-to-pay-nearly-1-billion-to-dissolve-special-district"
+      "text": "Morning Brief: Cracking Down On Rent Screening, Mental Health Awareness, And Dolly Parton",
+      "url": "https://laist.com/news/morning-brief-cracking-down-on-rent-screening-mental-health-awareness-and-dolly-parton"
+    },
+    {
+      "text": "Health",
+      "url": "https://laist.com/news/health"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/health/la-county-is-poised-to-become-an-abortion-safe-haven-amid-worries-over-roe-v-wade"
+    },
+    {
+      "text": "LA County Is Poised To Become An Abortion 'Safe Haven' Amid Worries Over Roe V. Wade",
+      "url": "https://laist.com/news/health/la-county-is-poised-to-become-an-abortion-safe-haven-amid-worries-over-roe-v-wade"
+    },
+    {
+      "text": "Politics",
+      "url": "https://laist.com/news/politics"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/politics/black-lives-matter-la-leader-melina-abdullah-forcibly-removed-from-mayoral-debate"
+    },
+    {
+      "text": "Black Lives Matter LA Leader Melina Abdullah Forcibly Removed From Mayoral Debate ",
+      "url": "https://laist.com/news/politics/black-lives-matter-la-leader-melina-abdullah-forcibly-removed-from-mayoral-debate"
+    },
+    {
+      "text": "Play In LA",
+      "url": "https://laist.com/news/los-angeles-activities"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/los-angeles-activities/la-kings-return-to-playoffs-after-four-year-drought"
+    },
+    {
+      "text": " LA Kings Return To The Playoffs After Four-Year Drought\n",
+      "url": "https://laist.com/news/los-angeles-activities/la-kings-return-to-playoffs-after-four-year-drought"
+    },
+    {
+      "text": "Arts and Entertainment",
+      "url": "https://laist.com/news/arts-and-entertainment"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/arts-and-entertainment/arts-and-entertainment-best-events-things-to-do-this-weekend-los-angeles-southern-california-may-2-may-5-2022"
+    },
+    {
+      "text": "Best Things To Do This Week In Los Angeles And Southern California: May 2 - 5",
+      "url": "https://laist.com/news/arts-and-entertainment/arts-and-entertainment-best-events-things-to-do-this-weekend-los-angeles-southern-california-may-2-may-5-2022"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/were-traveling-more-in-california-but-numbers-are-still-not-at-pre-pandemic-levels"
+    },
+    {
+      "text": "We\u2019re Traveling More In California, But Numbers Are Still Not At Pre-Pandemic Levels\n",
+      "url": "https://laist.com/news/were-traveling-more-in-california-but-numbers-are-still-not-at-pre-pandemic-levels"
+    },
+    {
+      "text": "Housing and Homelessness",
+      "url": "https://laist.com/news/housing-homelessness"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/housing-homelessness/deaths-among-unhoused-latinos-increased-69-during-the-covid-19-pandemic"
+    },
+    {
+      "text": "Deaths Among Unhoused Latinos Increased 69% During The COVID-19 Pandemic\n",
+      "url": "https://laist.com/news/housing-homelessness/deaths-among-unhoused-latinos-increased-69-during-the-covid-19-pandemic"
     },
     {
       "text": "\n                        Load More\n                        \n                    ",
@@ -3333,7 +3497,7 @@
       "url": "https://laist.com/people/emily-elena-dugdale"
     },
     {
-      "text": "A Daily \u2018Human Rights Disaster\u2019 \u2014 L.A. Jail Medical Staff Outraged By Jail Conditions And The Doctor In Charge",
+      "text": "A Daily \u2018Human Rights Disaster\u2019: LA Jail Medical Staff Outraged By Jail Conditions And The Doctor In Charge",
       "url": "https://laist.com/news/criminal-justice/los-angeles-county-jail-medical-staff-outraged-by-jail-conditions"
     },
     {
@@ -3357,8 +3521,8 @@
       "url": "https://laist.com/people/ethan-ward"
     },
     {
-      "text": "Deaths Among Young Unhoused People Doubled During The COVID-19 Pandemic",
-      "url": "https://laist.com/news/housing-homelessness/deaths-among-young-unhoused-people-doubled-during-pandemic"
+      "text": "Deaths Among Unhoused Latinos Increased 69% During The COVID-19 Pandemic\n",
+      "url": "https://laist.com/news/housing-homelessness/deaths-among-unhoused-latinos-increased-69-during-the-covid-19-pandemic"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
@@ -3393,8 +3557,8 @@
       "url": "https://laist.com/people/kyle-stokes"
     },
     {
-      "text": "A Years-Long Struggle To Unionize A Charter Network Takes To The Streets",
-      "url": "https://laist.com/news/education/a-years-long-struggle-to-unionize-a-charter-network-takes-to-the-streets"
+      "text": "LAUSD Will Pay For High Speed Internet In Every Student Household, For A Year",
+      "url": "https://laist.com/news/education/lausd-will-pay-for-high-speed-internet-in-every-student-household-for-a-year"
     },
     {
       "text": "Become a sponsor",
@@ -3498,7 +3662,7 @@
     "addeddate": "2022-03-23 02:08:36"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 1699670789,
+  "uniq": 730985848,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

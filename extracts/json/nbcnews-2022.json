@@ -1,5 +1,5 @@
 {
-  "created": 1651537189,
+  "created": 1651709928,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/32/items/nbcnews-2022",
@@ -5834,31 +5834,367 @@
       "sha1": "b29a021780c9923bdb97b3009e0757fa90cdc7ca"
     },
     {
+      "name": "nbcnews-2022-05-02T20:23:28.669711-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651537418",
+      "size": "72280",
+      "md5": "b2f70df5141ef5b3fc8e93115c24daa4",
+      "crc32": "62658ba6",
+      "sha1": "3d86abdd7b60388e1063f318c62777b55429363c",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-02T20:23:28.669711-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651537421",
+      "size": "88564",
+      "md5": "d40f5220bf3a29c04847f67ed8c5f983",
+      "crc32": "e11e7416",
+      "sha1": "28070083f90736cee3e7e685442eeb8fa088e825",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-02T20:23:28.669711-04:00.jpg",
+      "source": "original",
+      "mtime": "1651537416",
+      "size": "319268",
+      "md5": "147d75b24343313369a5be3bc3c6a5da",
+      "crc32": "5459e87f",
+      "sha1": "a43726ca595d60c23df7886124e40ad451f4fbea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-05-02T20:23:28.669711-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-05-02T20:23:28.669711-04:00.jpg",
+      "mtime": "1651537572",
+      "size": "10199",
+      "md5": "221b5f6b2fb33f9a0804b53b4d22f88b",
+      "crc32": "f72eeace",
+      "sha1": "ae66152d10c7f82ab1190238e294d28ba4175f71"
+    },
+    {
+      "name": "nbcnews-2022-05-03T02:08:44.372836-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651558137",
+      "size": "71193",
+      "md5": "4146638b401af18b2859ece1a92580ed",
+      "crc32": "7722f77d",
+      "sha1": "5bea9d15b3591108a69b136fd989b4716c60832a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-03T02:08:44.372836-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651558139",
+      "size": "88978",
+      "md5": "5ce7349c42d233ae2fd34a728111932f",
+      "crc32": "3c6fe11c",
+      "sha1": "5251aa5000081ee405f57cb3a144a88f2af916d0",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-03T02:08:44.372836-04:00.jpg",
+      "source": "original",
+      "mtime": "1651558136",
+      "size": "309981",
+      "md5": "691482db260eb4e4f110c9c586aa4580",
+      "crc32": "915ee755",
+      "sha1": "f0943231388d11c3e7b6712a0fc6116c370100f7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-05-03T02:08:44.372836-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-05-03T02:08:44.372836-04:00.jpg",
+      "mtime": "1651558204",
+      "size": "10224",
+      "md5": "a11df7436fa67b3dd20716f9ac3f6208",
+      "crc32": "9c3cceda",
+      "sha1": "5b08f8d501e54852357a19e73f0ae3c0f9b27115"
+    },
+    {
+      "name": "nbcnews-2022-05-03T08:11:04.253774-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651579871",
+      "size": "78065",
+      "md5": "2fbac05a160625dc1280ef43db07552a",
+      "crc32": "cb32b032",
+      "sha1": "033cb7aaf3da3a431eb85f60f74a48ac9b774fb1",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-03T08:11:04.253774-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651579872",
+      "size": "83971",
+      "md5": "923f7638aaffdf59e6927fc1239bc5dc",
+      "crc32": "5f90616f",
+      "sha1": "929a70123fa54b7daa70d650dec55513b730f13d",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-03T08:11:04.253774-04:00.jpg",
+      "source": "original",
+      "mtime": "1651579869",
+      "size": "303740",
+      "md5": "373e25344feefcac9ecf7dd04ff64a7c",
+      "crc32": "bff86cfe",
+      "sha1": "c86bf138df575250fa890a0da6a80bf7bba6cee6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-05-03T08:11:04.253774-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-05-03T08:11:04.253774-04:00.jpg",
+      "mtime": "1651579935",
+      "size": "10258",
+      "md5": "652f9a50ef2517f48fdd2b1f8c511357",
+      "crc32": "b3afdf1a",
+      "sha1": "a279047d4bcd663e50d55a45b326c8e27ea68dd9"
+    },
+    {
+      "name": "nbcnews-2022-05-03T14:10:23.343497-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651601430",
+      "size": "72307",
+      "md5": "0641822f0881e779d6b985d8901c5a1c",
+      "crc32": "c6a1555c",
+      "sha1": "8b867d0537c1b5fbf63e7ac5d3c89b85711daff5",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-03T14:10:23.343497-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651601431",
+      "size": "88128",
+      "md5": "75c034ab41d1d5bc628d3b233a11dea9",
+      "crc32": "2653b239",
+      "sha1": "f9ca8a1709fedb0e880fde95bdca4d1bf1fbd93c",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-03T14:10:23.343497-04:00.jpg",
+      "source": "original",
+      "mtime": "1651601428",
+      "size": "342721",
+      "md5": "39adf78bd26d382426a1a27e3a6bd07a",
+      "crc32": "f1a496ec",
+      "sha1": "3f2560559ddd31eb61ec2ca72b5e2199dd313ac7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-05-03T14:10:23.343497-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-05-03T14:10:23.343497-04:00.jpg",
+      "mtime": "1651601498",
+      "size": "10354",
+      "md5": "9d13537af3ca5ef2260130507e4e851b",
+      "crc32": "6fd34231",
+      "sha1": "1c90c53945a8d35e041c82afb79a1b0562f8a2e3"
+    },
+    {
+      "name": "nbcnews-2022-05-03T20:22:13.339394-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651623738",
+      "size": "73154",
+      "md5": "695ab3d864fe3ffffc573b797838ba67",
+      "crc32": "34849ab7",
+      "sha1": "562669459026d23d7c1535af02d23d4e08fc1fd9",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-03T20:22:13.339394-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651623739",
+      "size": "89595",
+      "md5": "fa8ff0376ddf4e85dca27cb584fbb090",
+      "crc32": "bc4eca29",
+      "sha1": "c378a282f86819d51949cb56205c1023252de46c",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-03T20:22:13.339394-04:00.jpg",
+      "source": "original",
+      "mtime": "1651623735",
+      "size": "306969",
+      "md5": "8756f9b5d5c1c2ef51021eb04ffe52f5",
+      "crc32": "804ed927",
+      "sha1": "ebfd7a79258f121b28eff137fb0a297dacbcf2f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-05-03T20:22:13.339394-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-05-03T20:22:13.339394-04:00.jpg",
+      "mtime": "1651623824",
+      "size": "10163",
+      "md5": "954aef1aa35f6532bcc86fe49983bd13",
+      "crc32": "7da6022d",
+      "sha1": "9e2c87925c1c8b2399c121425019232394ec0795"
+    },
+    {
+      "name": "nbcnews-2022-05-04T02:09:27.141136-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651644575",
+      "size": "73756",
+      "md5": "c5ca27ee1eed4a388d8a5e0950fd11ca",
+      "crc32": "7eb4d054",
+      "sha1": "1fb2aa999cdb07bd3e8dc436ac2d6c8cf7de94d8",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-04T02:09:27.141136-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651644577",
+      "size": "89179",
+      "md5": "47933d3e707cfa8b9315e926f4ea6405",
+      "crc32": "d2f4e8fe",
+      "sha1": "8bff8748b860d4cb70e157062bfe20e1b45612eb",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-04T02:09:27.141136-04:00.jpg",
+      "source": "original",
+      "mtime": "1651644573",
+      "size": "317015",
+      "md5": "08dd8106f31790c3aa068ab2518ef6bf",
+      "crc32": "33210007",
+      "sha1": "e0efd8906e1820218b0fe1b77c508852337c18b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-05-04T02:09:27.141136-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-05-04T02:09:27.141136-04:00.jpg",
+      "mtime": "1651647819",
+      "size": "10233",
+      "md5": "5c4a234fb38462f713281637bec82e77",
+      "crc32": "2eabb55b",
+      "sha1": "faad904a75f358b93b73e97cfb534a0f7c4b3749"
+    },
+    {
+      "name": "nbcnews-2022-05-04T08:11:24.361835-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651666291",
+      "size": "74891",
+      "md5": "98ee376f00364517c7571fe4f9a5dcd5",
+      "crc32": "8d5e3a56",
+      "sha1": "6f32a89e2202da73b26bb776b0fbe756a69bb60d",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-04T08:11:24.361835-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651666293",
+      "size": "90049",
+      "md5": "0c4dd35d01954f1f283bd9497cdb6e08",
+      "crc32": "dcc775cd",
+      "sha1": "298aeb30bc72d065b6a736923febf713bc51f835",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-04T08:11:24.361835-04:00.jpg",
+      "source": "original",
+      "mtime": "1651666289",
+      "size": "321068",
+      "md5": "f2b705ec6efd116513e8518cebb91ad0",
+      "crc32": "f06ffa5c",
+      "sha1": "fd8bfdf9f2ddc065184ebd2e2595d59399cd7784",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-05-04T08:11:24.361835-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-05-04T08:11:24.361835-04:00.jpg",
+      "mtime": "1651670575",
+      "size": "10177",
+      "md5": "a3cdd65028a11294a340ca93c5c4554b",
+      "crc32": "cbec7096",
+      "sha1": "e3f42b8b0218a8b1b018a191f35f492a66badd32"
+    },
+    {
+      "name": "nbcnews-2022-05-04T14:09:23.999923-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651687775",
+      "size": "75312",
+      "md5": "051de92f31416114ae87c28e3e9972e1",
+      "crc32": "1ece00c4",
+      "sha1": "d8a00fb5222c792a6f88dca15c8070283f2d986c",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-04T14:09:23.999923-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651687777",
+      "size": "90064",
+      "md5": "417765e73f75fc42bf74febb8b05688c",
+      "crc32": "693a16b5",
+      "sha1": "74a7d041e7d554394c084785cc0258b3290781be",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-05-04T14:09:23.999923-04:00.jpg",
+      "source": "original",
+      "mtime": "1651687773",
+      "size": "291136",
+      "md5": "4b7aa936cebb2e5e84f63717d99e2bee",
+      "crc32": "a380d271",
+      "sha1": "fc8c6f85ecc4a893d7502f08fc88d7560f368330",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-05-04T14:09:23.999923-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-05-04T14:09:23.999923-04:00.jpg",
+      "mtime": "1651688425",
+      "size": "10344",
+      "md5": "8ead9f7aa17e88622205e8785a1ec00f",
+      "crc32": "6c3c5f5c",
+      "sha1": "f7277e9b5dce166cc497465e7217aedb7affb138"
+    },
+    {
       "name": "nbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f07235d06a12f938195644d0552726dc0f35cc85",
-      "mtime": "1651515169",
-      "size": "117902",
-      "md5": "b35b44adc44b78e9bc33942d702f373b",
-      "crc32": "d5893b2d",
-      "sha1": "be9cff578956aceac63d27f28e1cbf6aa1af031b",
+      "btih": "4b8a4bcae2f2985f5fcf7e4a58db8ff85a63a337",
+      "mtime": "1651688444",
+      "size": "124650",
+      "md5": "479bf0fd5b029d340248cc237703c027",
+      "crc32": "080023d2",
+      "sha1": "d06a99012eb3a97bdbc36cc9f6bd822bab805726",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aec0ddbfc40e52a0a08c4daf4d5affc1",
+      "md5": "982d0154782340662d90327739225e59",
       "summation": "md5"
     },
     {
       "name": "nbcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651515047",
-      "size": "634880",
-      "md5": "ca901f8cfb148a4f6d4468521b4bb9ff",
-      "crc32": "0f4281f4",
-      "sha1": "6c93efd898c689392c69bbd63dabab9649732b8f",
+      "mtime": "1651687781",
+      "size": "667648",
+      "md5": "ec9eda108d2ca2b3c8ff9cf0c14f2e24",
+      "crc32": "14237ff8",
+      "sha1": "7feb96ca71bdc91dadb1e3c49adb51f9c7fe9ad9",
       "format": "Metadata"
     },
     {
@@ -5872,9 +6208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 557,
-  "item_last_updated": 1651515169,
-  "item_size": 67404047,
+  "files_count": 589,
+  "item_last_updated": 1651688444,
+  "item_size": 71336899,
   "metadata": {
     "identifier": "nbcnews-2022",
     "collection": [
@@ -5893,24 +6229,32 @@
   },
   "nbcnews-2022": [
     {
+      "text": "BREAKING:\u00a0Federal Reserve raises interest rates by 0.5 percent in aggressive bid to slow inflation",
+      "url": "https://www.nbcnews.com/business/economy/federal-reserve-interest-rate-increase-inflation-rcna26982"
+    },
+    {
+      "text": "",
+      "url": "https://www.nbcnews.com/business/economy/federal-reserve-interest-rate-increase-inflation-rcna26982"
+    },
+    {
       "text": "NBC News Logo",
       "url": "https://www.nbcnews.com/?icid=nav_bar_logo"
     },
     {
-      "text": "Russia-Ukraine full coverage",
+      "text": "Russia-Ukraine conflict",
       "url": "https://www.nbcnews.com/world/russia-ukraine-news"
     },
     {
-      "text": "Live Updates",
-      "url": "https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-civilians-evacuated-mariupol-azovstal-rcna26863"
-    },
-    {
-      "text": "Plan Your Vote",
-      "url": "https://www.nbcnews.com/specials/plan-your-vote-2022-elections/index.html"
+      "text": "Abortion Rights",
+      "url": "https://www.nbcnews.com/politics/abortion-news"
     },
     {
       "text": "Politics",
       "url": "https://www.nbcnews.com/politics"
+    },
+    {
+      "text": "Plan Your Vote",
+      "url": "https://www.nbcnews.com/specials/plan-your-vote-2022-elections/index.html"
     },
     {
       "text": "Covid",
@@ -6185,788 +6529,128 @@
       "url": "https://id.nbcnews.com/email-preferences?brand=nbc-news"
     },
     {
-      "text": "Mo Abbas; Brendan Hoffman for NBC; AP; Getty",
-      "url": "https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-civilians-evacuated-mariupol-azovstal-rcna26863"
+      "text": "The biggest health risks women would face if Roe v. Wade is overturned",
+      "url": "https://www.nbcnews.com/health/health-news/health-risks-overturning-roe-v-wade-abortion-rcna27109"
     },
     {
-      "text": "Live updates",
-      "url": "https://www.nbcnews.com/world/russia-ukraine-news"
+      "text": "Scott Olson / Getty Images file",
+      "url": "https://www.nbcnews.com/health/health-news/health-risks-overturning-roe-v-wade-abortion-rcna27109"
     },
     {
-      "text": "Civilians evacuated from Mariupol steel plant after weeks under siege",
-      "url": "https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-civilians-evacuated-mariupol-azovstal-rcna26863"
+      "text": " ",
+      "url": "https://www.nbcnews.com/health/health-news/health-risks-overturning-roe-v-wade-abortion-rcna27109"
     },
     {
-      "text": "Odesa locks down over fears of Putin's saboteurs on painful anniversary",
-      "url": "https://www.nbcnews.com/news/world/odesa-fears-russian-saboteurs-may-2-euromaidan-protests-anniversary-rcna26865"
+      "text": "'There are going to be women that will die from pregnancy because of this decision, period,' one OBGYN said.",
+      "url": "https://www.nbcnews.com/health/health-news/health-risks-overturning-roe-v-wade-abortion-rcna27109"
     },
     {
-      "text": "'Unforgivable and scandalous': Israel lashes out at Russia over Lavrov remarks on Nazism",
-      "url": "https://www.nbcnews.com/news/world/israel-reacts-russia-lavrov-nazism-zelenskyy-hitler-jewish-rcna26872"
+      "text": "Live updates\u00a0/ Supreme Court decision leak ",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/-roe-v-wade-supreme-court-leaked-ruling-reactions-rcna27225"
     },
     {
-      "text": "Lane Turner / Boston Globe via Getty Images file",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-boston-was-wrong-refuse-christian-flag-rcna25585"
+      "text": "Just now1h agoHow has getting an abortion or lack of access changed your life?",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/-roe-v-wade-supreme-court-leaked-ruling-reactions-rcna27225#rcrd1447"
     },
     {
-      "text": "Supreme Court",
-      "url": "https://www.nbcnews.com/politics/supreme-court"
+      "text": "Just now2h agoSen. Rosen urges turnout in midterm elections to prevent 'nationwide abortion ban'",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/-roe-v-wade-supreme-court-leaked-ruling-reactions-rcna27225#rcrd1439"
     },
     {
-      "text": "Supreme Court says Boston was wrong to refuse Christian flag",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-boston-was-wrong-refuse-christian-flag-rcna25585"
+      "text": "Just now2h ago  About 500 pieces of abortion restriction legislation are pending or enacted in more than 40 states",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/-roe-v-wade-supreme-court-leaked-ruling-reactions-rcna27225#rcrd1443"
     },
     {
-      "text": "Supreme Court likely to rule for high school coach forced out for praying on the field",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hear-appeal-high-school-coach-lost-job-field-prayers-rcna24822"
+      "text": "Just now2h agoBiden warns draft abortion opinion has deeper implications than just abortion rights",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/-roe-v-wade-supreme-court-leaked-ruling-reactions-rcna27225#rcrd1441"
     },
     {
-      "text": "Dominique Charriau / WireImage file",
-      "url": "https://www.nbcnews.com/think/opinion/johnny-depp-amber-heard-trial-testimony-pushes-mutual-abuse-nonsense-rcna26709"
+      "text": "Bob Riha Jr / Getty Images file",
+      "url": "https://www.nbcnews.com/news/us-news/jane-roe-daughter-fears-supreme-court-abortion-decision-draft-take-us-rcna27173"
     },
     {
-      "text": "Opinion",
-      "url": "https://www.nbcnews.com/think/culture-lifestyle"
+      "text": "Abortion Rights",
+      "url": "https://www.nbcnews.com/news/us-news/jane-roe-daughter-fears-supreme-court-abortion-decision-draft-take-us-rcna27173"
     },
     {
-      "text": "The Johnny Depp-Amber Heard trial is spotlighting this harmful abuse theory",
-      "url": "https://www.nbcnews.com/think/opinion/johnny-depp-amber-heard-trial-testimony-pushes-mutual-abuse-nonsense-rcna26709"
+      "text": "'Jane Roe' daughter fears abortion decision draft 'could take us back 50 years'\u00a0",
+      "url": "https://www.nbcnews.com/news/us-news/jane-roe-daughter-fears-supreme-court-abortion-decision-draft-take-us-rcna27173"
     },
     {
-      "text": "Days before testimony against Johnny Depp, Amber Heard fires PR team",
-      "url": "https://www.nbcnews.com/pop-culture/celebrity/days-testimony-johnny-depp-amber-heard-fires-pr-team-rcna26856"
-    },
-    {
-      "text": "Johnny Depp and Amber Heard defamation trial: Summary and timeline",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/johnny-depp-amber-heard-defamation-trial-summary-timeline-rcna26136"
-    },
-    {
-      "text": "Lauderdale Sheriff's Office",
-      "url": "https://www.nbcnews.com/news/us-news/warrant-issued-alabama-corrections-officer-disappeared-inmate-rcna26937"
-    },
-    {
-      "text": "U.S. news",
-      "url": "https://www.nbcnews.com/us-news"
-    },
-    {
-      "text": "Warrant issued for corrections officer who disappeared with inmate on day she was set to retire",
-      "url": "https://www.nbcnews.com/news/us-news/warrant-issued-alabama-corrections-officer-disappeared-inmate-rcna26937"
-    },
-    {
-      "text": "Joe Raedle / Getty Images file",
-      "url": "https://www.nbcnews.com/politics/elections/desantis-eyes-big-florida-win-november-white-house-springboard-rcna26714"
-    },
-    {
-      "text": "Elections",
-      "url": "https://www.nbcnews.com/politics/elections/"
-    },
-    {
-      "text": "DeSantis looks to make 2024 statement with big Florida win this November",
-      "url": "https://www.nbcnews.com/politics/elections/desantis-eyes-big-florida-win-november-white-house-springboard-rcna26714"
-    },
-    {
-      "text": "Amr Alfiky / AP file",
-      "url": "https://www.nbcnews.com/health/health-news/us-pediatricians-group-moves-abandon-race-based-guidance-rcna26877"
-    },
-    {
-      "text": "Health news",
-      "url": "https://www.nbcnews.com/health/health-news"
-    },
-    {
-      "text": "U.S. pediatricians' group moves to abandon race-based guidance",
-      "url": "https://www.nbcnews.com/health/health-news/us-pediatricians-group-moves-abandon-race-based-guidance-rcna26877"
-    },
-    {
-      "text": "David Handschuh / AP",
-      "url": "https://www.nbcnews.com/news/us-news/kathy-boudin-weather-underground-radical-dies-78-rcna26870"
-    },
-    {
-      "text": "U.S. news",
-      "url": "https://www.nbcnews.com/us-news"
-    },
-    {
-      "text": "Kathy Boudin, Weather Underground radical, dies at 78",
-      "url": "https://www.nbcnews.com/news/us-news/kathy-boudin-weather-underground-radical-dies-78-rcna26870"
-    },
-    {
-      "text": "Whitney Curtis for NBC News",
-      "url": "https://www.nbcnews.com/news/sports/re-banned-olympic-sports-are-coaching-children-rcna25623"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.nbcnews.com/news/sports/"
-    },
-    {
-      "text": "They're banned from coaching Olympic sports. Why are they instructing children?",
-      "url": "https://www.nbcnews.com/news/sports/re-banned-olympic-sports-are-coaching-children-rcna25623"
-    },
-    {
-      "text": "NDZ / Star Max / GC Images / Getty Images",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-axes-pearl-animated-tv-series-meghan-duchess-sussex-rcna26894"
-    },
-    {
-      "text": "Culture Matters",
-      "url": "https://www.nbcnews.com/culture-matters"
-    },
-    {
-      "text": "Netflix axes \u2018Pearl,\u2019 animated TV series from Meghan, the Duchess of Sussex",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-axes-pearl-animated-tv-series-meghan-duchess-sussex-rcna26894"
-    },
-    {
-      "text": "Rick Rycroft / AP",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/sydney-man-admits-pushing-american-cliff-1988-gay-hate-crime-rcna26866"
-    },
-    {
-      "text": "OUT News",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/sydney-man-admits-pushing-american-cliff-1988-gay-hate-crime-rcna26866"
-    },
-    {
-      "text": "Sydney man admits to pushing American off cliff in 1988 gay hate crime",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/sydney-man-admits-pushing-american-cliff-1988-gay-hate-crime-rcna26866"
-    },
-    {
-      "text": "Man fatally stabbed after victim drops arcade prize at Dave & Buster's in Times Square",
-      "url": "https://www.nbcnews.com/news/us-news/man-fatally-stabbed-fight-breaks-dave-busters-square-rcna26864"
-    },
-    {
-      "text": "James Madison University cancels softball season after star player Lauren Bernett's death ",
-      "url": "https://www.nbcnews.com/news/us-news/james-madison-university-cancels-softball-season-star-player-lauren-be-rcna26895"
-    },
-    {
-      "text": "Man convicted of killing wife who looked up 'what to do if your husband is upset you are pregnant'",
-      "url": "https://www.nbcnews.com/news/us-news/missouri-man-convicted-killing-pregnant-wife-2019-rcna26884"
-    },
-    {
-      "text": "Body of Florida woman, 93, found in freezer in her garage, police say",
-      "url": "https://www.nbcnews.com/news/us-news/body-marie-hoskins-93-found-freezer-florida-garage-rcna26904"
-    },
-    {
-      "text": "Alabama woman killed by pack of dogs; owner charged with manslaughter",
-      "url": "https://www.nbcnews.com/news/alabama-woman-killed-pack-dogs-owner-charged-manslaughter-rcna26843"
-    },
-    {
-      "text": "A note to our readers",
-      "url": "https://www.nbcnews.com/news/note-readers-rcna26934"
-    },
-    {
-      "text": "See More",
-      "url": "https://www.nbcnews.com/think"
-    },
-    {
-      "text": "Petty Officer 2nd Class Joshua Scott / U.S. Navy",
-      "url": "https://www.nbcnews.com/think/opinion/russias-use-dolphins-guard-navy-ships-isnt-farfetched-rcna26523"
-    },
-    {
-      "text": "Why Russia is using dolphins to guard its navy ships. No, that\u2019s not a code name.",
-      "url": "https://www.nbcnews.com/think/opinion/russias-use-dolphins-guard-navy-ships-isnt-farfetched-rcna26523"
-    },
-    {
-      "text": "Alex Wong / Getty Images file",
-      "url": "https://www.nbcnews.com/think/opinion/s-understandable-kevin-mccarthy-leaked-audio-isnt-rcna26748"
-    },
-    {
-      "text": "Kevin McCarthy seems to be ashamed about the wrong thing",
-      "url": "https://www.nbcnews.com/think/opinion/s-understandable-kevin-mccarthy-leaked-audio-isnt-rcna26748"
-    },
-    {
-      "text": "Brendan Smialowski / AFP via Getty Images file",
-      "url": "https://www.nbcnews.com/think/opinion/elon-musks-twitter-meme-shows-touch-reality-rcna26669"
-    },
-    {
-      "text": "Elon Musk\u2019s no good, very bad meme shows how out of touch he is with political reality",
-      "url": "https://www.nbcnews.com/think/opinion/elon-musks-twitter-meme-shows-touch-reality-rcna26669"
-    },
-    {
-      "text": "Greg NAsh / Pool via Getty Images file",
-      "url": "https://www.nbcnews.com/think/opinion/dr-anthony-faucis-covid-19-comments-pandemic-are-confusing-unhelpful-rcna26519"
-    },
-    {
-      "text": "Fauci's mealymouthed Covid assessment gave Fox News what it wants",
-      "url": "https://www.nbcnews.com/think/opinion/dr-anthony-faucis-covid-19-comments-pandemic-are-confusing-unhelpful-rcna26519"
-    },
-    {
-      "text": "Courtesy Cory Bernaert",
-      "url": "https://www.nbcnews.com/think/opinion/teach-kindergarten-florida-now-called-groomer-rcna26625"
-    },
-    {
-      "text": "I teach kindergarten in Florida. Here's why I'm now also being called a 'groomer.'",
-      "url": "https://www.nbcnews.com/think/opinion/teach-kindergarten-florida-now-called-groomer-rcna26625"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.nbcnews.com/politics/"
-    },
-    {
-      "text": "Doug Mills / Pool/The New York Times via Getty Images file",
-      "url": "https://www.nbcnews.com/politics/congress/avalanche-leaks-risks-jan-6-committee-delivering-blockbuster-hearings-rcna26549"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.nbcnews.com/politics/congress"
-    },
-    {
-      "text": "Avalanche of leaks imperils Jan. 6 committee\u2019s delivering on blockbuster hearings",
-      "url": "https://www.nbcnews.com/politics/congress/avalanche-leaks-risks-jan-6-committee-delivering-blockbuster-hearings-rcna26549"
-    },
-    {
-      "text": "Brendan Smialowski / AFP via Getty Images",
-      "url": "https://www.nbcnews.com/politics/2020-election/trump-election-probe-special-grand-jury-seated-rcna26883"
-    },
-    {
-      "text": "2020 Election",
-      "url": "https://www.nbcnews.com/politics/2020-election"
-    },
-    {
-      "text": "Trump election probe special grand jury selected in Atlanta",
-      "url": "https://www.nbcnews.com/politics/2020-election/trump-election-probe-special-grand-jury-seated-rcna26883"
-    },
-    {
-      "text": "Department of Justice",
-      "url": "https://www.nbcnews.com/politics/justice-department/ex-nypd-officer-found-guilty-attacking-dc-cop-flag-pole-jan-6-rcna26710"
-    },
-    {
-      "text": "Justice Department",
-      "url": "https://www.nbcnews.com/politics/justice-department"
-    },
-    {
-      "text": "Ex-NYPD officer found guilty of attacking D.C. cop with flag pole on Jan. 6",
-      "url": "https://www.nbcnews.com/politics/justice-department/ex-nypd-officer-found-guilty-attacking-dc-cop-flag-pole-jan-6-rcna26710"
-    },
-    {
-      "text": "Bill O'Leary / Pool via Getty Images",
-      "url": "https://www.nbcnews.com/politics/congress/judge-rejects-rnc-effort-block-jan-6-panel-getting-email-fundraising-d-rcna26879"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.nbcnews.com/politics/congress"
-    },
-    {
-      "text": "Judge rejects RNC effort to block Jan. 6 panel from getting email, fundraising data",
-      "url": "https://www.nbcnews.com/politics/congress/judge-rejects-rnc-effort-block-jan-6-panel-getting-email-fundraising-d-rcna26879"
-    },
-    {
-      "text": "Politics News",
-      "url": "https://www.nbcnews.com/politics/politics-news/biden-calls-former-vp-walter-mondale-giant-political-history-rcna26860"
-    },
-    {
-      "text": "Biden calls former VP Walter Mondale a \u2018giant\u2019 of political history",
-      "url": "https://www.nbcnews.com/politics/politics-news/biden-calls-former-vp-walter-mondale-giant-political-history-rcna26860"
+      "text": "Valerie Plesch for NBC News",
+      "url": "https://www.nbcnews.com/politics/2022-election/democrats-energized-leaked-abortion-decision-jolts-midterms-rcna27038"
     },
     {
       "text": "2022 Election",
       "url": "https://www.nbcnews.com/politics/midterm-elections-2022"
     },
     {
-      "text": "These candidates say Trump won in 2020 \u2014 now they're running to oversee future elections",
-      "url": "https://www.nbcnews.com/politics/2022-election/candidates-say-trump-won-2020now-running-oversee-future-elections-rcna26241"
-    },
-    {
-      "text": "Economy",
-      "url": "https://www.nbcnews.com/business/economy"
-    },
-    {
-      "text": "Is a recession on the way? What data says about the economy",
-      "url": "https://www.nbcnews.com/business/economy/is-a-recession-coming-signs-inflation-economy-explained-rcna24994"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.nbcnews.com/health/coronavirus"
-    },
-    {
-      "text": "Emmanuel Serna / Sipa USA via AP",
-      "url": "https://www.nbcnews.com/news/world/hong-kong-domestic-workers-covid-rcna26197"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.nbcnews.com/health/coronavirus"
-    },
-    {
-      "text": "Fired and far from home: Covid diagnosis leaves Hong Kong's domestic workers in a bind",
-      "url": "https://www.nbcnews.com/news/world/hong-kong-domestic-workers-covid-rcna26197"
-    },
-    {
-      "text": "Francine Orr / Los Angeles Times via Getty Images file",
-      "url": "https://www.nbcnews.com/data-graphics/covid-collections-share-photo-or-image-nbc-news-n1294899"
-    },
-    {
-      "text": "callout",
-      "url": "https://www.nbcnews.com/data-graphics/covid-collections-share-photo-or-image-nbc-news-n1294899"
-    },
-    {
-      "text": "Covid collections: Sharing memories of all those we lost in the pandemic",
-      "url": "https://www.nbcnews.com/data-graphics/covid-collections-share-photo-or-image-nbc-news-n1294899"
-    },
-    {
-      "text": "Amy Harris / Invision/AP",
-      "url": "https://www.nbcnews.com/health/health-news/omicron-cases-spike-coachella-valley-music-festival-rcna26525"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.nbcnews.com/health/coronavirus"
-    },
-    {
-      "text": "Omicron cases spike in Coachella Valley after two-week music festival",
-      "url": "https://www.nbcnews.com/health/health-news/omicron-cases-spike-coachella-valley-music-festival-rcna26525"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.nbcnews.com/health/coronavirus"
-    },
-    {
-      "text": "Tears and chocolates as New Zealand eases Covid rules, welcomes back tourists",
-      "url": "https://www.nbcnews.com/news/world/new-zealand-opens-borders-60-countries-covid-restrictions-rcna26869"
-    },
-    {
-      "text": "The Data Point",
-      "url": "https://www.nbcnews.com/the-data-point"
-    },
-    {
-      "text": "Map: Kids under 5 could be eligible for a Covid vaccine. See where they live.",
-      "url": "https://www.nbcnews.com/data-graphics/map-nearly-20-million-kids-5-eligible-covid-vaccine-see-live-rcna26451"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.nbcnews.com/health/coronavirus"
-    },
-    {
-      "text": "Tears and chocolates as New Zealand eases Covid rules, welcomes back tourists",
-      "url": "https://www.nbcnews.com/news/world/new-zealand-opens-borders-60-countries-covid-restrictions-rcna26869"
-    },
-    {
-      "text": "The Data Point",
-      "url": "https://www.nbcnews.com/the-data-point"
-    },
-    {
-      "text": "Map: Kids under 5 could be eligible for a Covid vaccine. See where they live.",
-      "url": "https://www.nbcnews.com/data-graphics/map-nearly-20-million-kids-5-eligible-covid-vaccine-see-live-rcna26451"
-    },
-    {
-      "text": "Sophi Miyoko Gullbrants for NBC News",
-      "url": "https://www.nbcnews.com/specials/asian-americans-pacific-islanders-allies-fighting-hate/index.html"
-    },
-    {
-      "text": "special report",
-      "url": "https://www.nbcnews.com/news/asian-america/100-ways-asian-americans-pacific-islanders-allies-are-fighting-hate-n1295010"
-    },
-    {
-      "text": "100 ways Asian Americans, Pacific Islanders and allies are fighting hate and violence",
-      "url": "https://www.nbcnews.com/specials/asian-americans-pacific-islanders-allies-fighting-hate/index.html"
-    },
-    {
-      "text": "Jason Kempin / FilmMagic",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/naomi-judd-struggled-severe-depression-led-advocate-others-mental-heal-rcna26819"
-    },
-    {
-      "text": "Culture Matters",
-      "url": "https://www.nbcnews.com/culture-matters"
-    },
-    {
-      "text": "Naomi Judd struggled with severe depression. It led her to advocate for mental health issues.",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/naomi-judd-struggled-severe-depression-led-advocate-others-mental-heal-rcna26819"
-    },
-    {
-      "text": "The Judds inducted into Country Hall of Fame a day after Naomi Judd's death",
-      "url": "https://www.nbcnews.com/news/us-news/judds-inducted-country-hall-fame-day-naomi-judds-death-rcna26858"
-    },
-    {
-      "text": "Kay Tobin New York Public Library",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/-homosexual-psychiatrist-dr-anonymous-changed-history-rcna26836"
-    },
-    {
-      "text": "OUT News",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/-homosexual-psychiatrist-dr-anonymous-changed-history-rcna26836"
-    },
-    {
-      "text": "Homosexuality was considered a mental disorder \u2014 until one anonymous doctor came out",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/-homosexual-psychiatrist-dr-anonymous-changed-history-rcna26836"
-    },
-    {
-      "text": "\n         \n            \n               \n                 \n                  \n                  \n                  \n               \n               \n            \n            \n               \n                  \n                  \n                  \n                  \n               \n            \n         \n      ",
-      "url": "https://www.nbcnews.com/paid-content/paid-content/8-money-moves-make-you-retire-n1289265"
-    },
-    {
-      "text": "PAID CONTENT",
-      "url": "https://www.nbcnews.com/paid-content/paid-content/8-money-moves-make-you-retire-n1289265"
-    },
-    {
-      "text": "Do these 8 things before you retire",
-      "url": "https://www.nbcnews.com/paid-content/paid-content/8-money-moves-make-you-retire-n1289265"
-    },
-    {
-      "text": "Body of Florida woman, 93, found in freezer in her garage, police say",
-      "url": "https://www.nbcnews.com/news/us-news/body-florida-woman-93-found-freezer-garage-police-say-rcna26954"
-    },
-    {
-      "text": "White House to direct $3 billion to electric vehicle battery production",
-      "url": "https://www.nbcnews.com/politics/white-house/white-house-direct-3-billion-electric-vehicle-battery-production-rcna26953"
-    },
-    {
-      "text": "Former Philadelphia officer who fatally shot 12-year-old boy is charged with murder",
-      "url": "https://www.nbcnews.com/news/us-news/former-philadelphia-officer-fatally-shot-12-year-old-boy-charged-murde-rcna26914"
-    },
-    {
-      "text": "Retiring soon? Here are 8 things you need to do now",
-      "url": "https://www.nbcnews.com/paid-content/paid-content/8-money-moves-make-you-retire-n1289265"
-    },
-    {
-      "text": "Ex-NYPD officer found guilty of attacking D.C. cop with flag pole on Jan. 6",
-      "url": "https://www.nbcnews.com/politics/justice-department/ex-nypd-officer-found-guilty-attacking-dc-cop-flag-pole-jan-6-rcna26710"
-    },
-    {
-      "text": "Warrant issued for corrections officer who disappeared with inmate on day she was set to retire",
-      "url": "https://www.nbcnews.com/news/us-news/warrant-issued-alabama-corrections-officer-disappeared-inmate-rcna26937"
-    },
-    {
-      "text": "Shopping",
-      "url": "https://www.nbcnews.com/select"
-    },
-    {
-      "text": "AAPI-owned Everyday Humans launches new SPF primer",
-      "url": "https://www.nbcnews.com/select/shopping/new-notable-everyday-humans-petco-backcountry-ncna1295020"
-    },
-    {
-      "text": "James Madison University cancels softball season after star player Lauren Bernett's death ",
-      "url": "https://www.nbcnews.com/news/us-news/james-madison-university-cancels-softball-season-star-player-lauren-be-rcna26895"
-    },
-    {
-      "text": "Shopping",
-      "url": "https://www.nbcnews.com/select"
-    },
-    {
-      "text": "Mom-approved Mother's Day gift ideas",
-      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-mom-approved-ncna1295009"
-    },
-    {
-      "text": "'Bridgerton' star Golda Rosheuvel reveals a lesbian director once told her to stay in the closet",
-      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/bridgerton-star-golda-rosheuvel-reveals-lesbian-director-told-stay-clo-rcna26908"
-    },
-    {
-      "text": "Odesa locks down over fears of Putin's saboteurs on painful anniversary",
-      "url": "https://www.nbcnews.com/news/world/odesa-fears-russian-saboteurs-may-2-euromaidan-protests-anniversary-rcna26865"
-    },
-    {
-      "text": "Peter King's column: 95 minutes in Maryland",
-      "url": "https://profootballtalk.nbcsports.com/2022/05/02/baltimore-ravens-draft-room-nfl-fmia-peter-king/?cid=eref:nbcnews:text"
-    },
-    {
-      "text": "Tennessee pauses executions, will review lethal injections",
-      "url": "https://www.nbcnews.com/news/us-news/tennessee-pauses-executions-will-review-lethal-injections-rcna26920"
-    },
-    {
-      "text": "Man convicted of killing wife who looked up 'what to do if your husband is upset you are pregnant'",
-      "url": "https://www.nbcnews.com/news/us-news/missouri-man-convicted-killing-pregnant-wife-2019-rcna26884"
-    },
-    {
-      "text": "Netflix axes \u2018Pearl,\u2019 animated TV series from Meghan, the Duchess of Sussex",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-axes-pearl-animated-tv-series-meghan-duchess-sussex-rcna26894"
-    },
-    {
-      "text": "In Arizona and Colorado, Latino voters warn Democrats over inflation",
-      "url": "https://www.nbcnews.com/news/latino/arizona-colorado-latino-voters-warn-democrats-inflation-rcna26903"
-    },
-    {
-      "text": "2 shot during children's flag football game at Virginia middle school, police say",
-      "url": "https://www.nbcnews.com/news/us-news/2-shot-childrens-flag-football-game-virginia-middle-school-police-say-rcna26902"
-    },
-    {
-      "text": "Homosexuality was considered a mental disorder \u2014 until one anonymous doctor came out",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/-homosexual-psychiatrist-dr-anonymous-changed-history-rcna26836"
-    },
-    {
-      "text": "Body of Florida woman, 93, found in freezer in her garage, police say",
-      "url": "https://www.nbcnews.com/news/us-news/body-marie-hoskins-93-found-freezer-florida-garage-rcna26904"
-    },
-    {
-      "text": "Supreme Court says Boston was wrong to refuse Christian flag",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-boston-was-wrong-refuse-christian-flag-rcna25585"
-    },
-    {
-      "text": "100 ways Asian Americans, Pacific Islanders and allies are fighting hate and violence",
-      "url": "https://www.nbcnews.com/specials/asian-americans-pacific-islanders-allies-fighting-hate/index.html"
-    },
-    {
-      "text": "Judge rejects RNC effort to block Jan. 6 panel from getting email, fundraising data",
-      "url": "https://www.nbcnews.com/politics/congress/judge-rejects-rnc-effort-block-jan-6-panel-getting-email-fundraising-d-rcna26879"
-    },
-    {
-      "text": "Trump election probe special grand jury selected in Atlanta",
-      "url": "https://www.nbcnews.com/politics/2020-election/trump-election-probe-special-grand-jury-seated-rcna26883"
-    },
-    {
-      "text": "Kathy Boudin, Weather Underground radical, dies at 78",
-      "url": "https://www.nbcnews.com/news/us-news/kathy-boudin-weather-underground-radical-dies-78-rcna26870"
-    },
-    {
-      "text": "Jackie Robinson All-Star Game bat sells for $1.08 million",
-      "url": "https://www.nbcnews.com/news/sports/jackie-robinson-star-game-bat-sells-108-million-rcna26880"
-    },
-    {
-      "text": "U.S. pediatricians' group moves to abandon race-based guidance",
-      "url": "https://www.nbcnews.com/health/health-news/us-pediatricians-group-moves-abandon-race-based-guidance-rcna26877"
-    },
-    {
-      "text": "Spyware attack targeted prime minister\u2019s phone, Spain says",
-      "url": "https://www.nbcnews.com/tech/security/spyware-attack-targeted-prime-ministers-phone-spain-says-rcna26878"
-    },
-    {
-      "text": "'Unforgivable and scandalous': Israel lashes out at Russia over Lavrov remarks on Nazism",
-      "url": "https://www.nbcnews.com/news/world/israel-reacts-russia-lavrov-nazism-zelenskyy-hitler-jewish-rcna26872"
-    },
-    {
-      "text": "Sydney man admits to pushing American off cliff in 1988 gay hate crime",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/sydney-man-admits-pushing-american-cliff-1988-gay-hate-crime-rcna26866"
-    },
-    {
-      "text": "Tears and chocolates as New Zealand eases Covid rules, welcomes back tourists",
-      "url": "https://www.nbcnews.com/news/world/new-zealand-opens-borders-60-countries-covid-restrictions-rcna26869"
-    },
-    {
-      "text": "Fired and far from home: Covid diagnosis leaves Hong Kong's domestic workers in a bind",
-      "url": "https://www.nbcnews.com/news/world/hong-kong-domestic-workers-covid-rcna26197"
-    },
-    {
-      "text": "DeSantis looks to make 2024 statement with big Florida win this November",
-      "url": "https://www.nbcnews.com/politics/elections/desantis-eyes-big-florida-win-november-white-house-springboard-rcna26714"
-    },
-    {
-      "text": "They're banned from coaching Olympic sports. Why are they instructing children?",
-      "url": "https://www.nbcnews.com/news/sports/re-banned-olympic-sports-are-coaching-children-rcna25623"
-    },
-    {
-      "text": "Ukraine's city of refuge works to build new future with housing \u2014 and arms",
-      "url": "https://www.nbcnews.com/news/world/lviv-works-build-new-future-thousands-find-permanent-refuge-rcna25906"
-    },
-    {
-      "text": "Man fatally stabbed after victim drops arcade prize at Dave & Buster's in Times Square",
-      "url": "https://www.nbcnews.com/news/us-news/man-fatally-stabbed-fight-breaks-dave-busters-square-rcna26864"
-    },
-    {
-      "text": "Russia-Ukraine war live updates: Civilians evacuated from Mariupol steel plant; Pelosi meets Polish president",
-      "url": "https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-civilians-evacuated-mariupol-azovstal-rcna26863"
-    },
-    {
-      "text": "Biden calls former VP Walter Mondale a \u2018giant\u2019 of political history",
-      "url": "https://www.nbcnews.com/politics/politics-news/biden-calls-former-vp-walter-mondale-giant-political-history-rcna26860"
-    },
-    {
-      "text": "The Judds inducted into Country Hall of Fame a day after Naomi Judd's death",
-      "url": "https://www.nbcnews.com/news/us-news/judds-inducted-country-hall-fame-day-naomi-judds-death-rcna26858"
-    },
-    {
-      "text": "Alabama woman killed by pack of dogs; owner charged with manslaughter",
-      "url": "https://www.nbcnews.com/news/alabama-woman-killed-pack-dogs-owner-charged-manslaughter-rcna26843"
-    },
-    {
-      "text": "Georgia man charged with wife's murder after reports she died by suicide",
-      "url": "https://www.nbcnews.com/news/us-news/georgia-man-charged-wifes-murder-reports-died-suicide-rcna26841"
-    },
-    {
-      "text": "U.S. marshals offering $10,000 for missing Alabama inmate and officer",
-      "url": "https://www.nbcnews.com/news/us-marshals-offering-10000-missing-alabama-inmate-officer-rcna26830"
-    },
-    {
-      "text": "Naomi Judd struggled with severe depression. It led her to advocate for mental health issues.",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/naomi-judd-struggled-severe-depression-led-advocate-others-mental-heal-rcna26819"
-    },
-    {
-      "text": "A young Latina actor stars in new queer Hulu high school rom-com",
-      "url": "https://www.nbcnews.com/news/latino/crush-lgbtq-latina-actress-isabella-ferreira-rcna26323"
-    },
-    {
-      "text": "Woman avoids jail for voting dead mom\u2019s ballot in Arizona",
-      "url": "https://www.nbcnews.com/news/woman-avoids-jail-voting-dead-moms-ballot-arizona-rcna26823"
-    },
-    {
-      "text": "Ricardo Alarc\u00f3n, key player in Cuba-U.S. relations, dies at 84",
-      "url": "https://www.nbcnews.com/news/latino/ricardo-alarcon-key-player-cuba-us-relations-dies-84-rcna26822"
-    },
-    {
-      "text": "Woman rescued 50 hours after China building collapse",
-      "url": "https://www.nbcnews.com/news/woman-rescued-50-hours-china-building-collapse-rcna26820"
-    },
-    {
-      "text": "Evacuations underway in besieged Mariupol steel plant, U.N. confirms",
-      "url": "https://www.nbcnews.com/news/evacuations-underway-besieged-mariupol-steel-plant-un-confirms-rcna26818"
-    },
-    {
-      "text": "May Day rallies in Europe honor workers, protest governments",
-      "url": "https://www.nbcnews.com/news/may-day-rallies-europe-honor-workers-protest-governments-rcna26816"
-    },
-    {
-      "text": "\u2018I was terrified\u2019: Dance instructor becomes escape driver for Ukrainians trapped in Mariupol",
-      "url": "https://www.nbcnews.com/news/world/fleeing-mariupol-dance-instructor-became-escape-driver-helping-others-rcna26404"
-    },
-    {
-      "text": "Is it the end of Rub\u00e9n Blades' character Daniel Salazar in \u2018Fear the Walking Dead\u2019?\u00a0",
-      "url": "https://www.nbcnews.com/news/latino/walking-dead-ruben-blades-daniel-salazar-end-rcna26436"
-    },
-    {
-      "text": "Beijing tightens Covid curbs, but hard-hit Shanghai sees signs of life",
-      "url": "https://www.nbcnews.com/news/world/beijing-tightens-covid-curbs-hard-hit-shanghai-sees-signs-life-rcna26810"
-    },
-    {
-      "text": "See All",
-      "url": "/latest-stories/"
-    },
-    {
-      "text": "Everyday Humans ; Petco",
-      "url": "https://www.nbcnews.com/select/shopping/new-notable-everyday-humans-petco-backcountry-ncna1295020"
-    },
-    {
-      "text": "New & Notable",
-      "url": "https://www.nbcnews.com/select/shopping/new-notable-everyday-humans-petco-backcountry-ncna1295020"
-    },
-    {
-      "text": "AAPI-owned Everyday Humans launches new SPF primer",
-      "url": "https://www.nbcnews.com/select/shopping/new-notable-everyday-humans-petco-backcountry-ncna1295020"
-    },
-    {
-      "text": "Pura ; Bose ; Amazon ; Apple ; Baloo",
-      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-mom-approved-ncna1295009"
-    },
-    {
-      "text": "Gift Guides",
-      "url": "https://www.nbcnews.com/select/gift-guides"
-    },
-    {
-      "text": "Mom-approved Mother's Day gift ideas",
-      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-mom-approved-ncna1295009"
-    },
-    {
-      "text": "Amazon",
-      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-amazon-ncna1294929"
-    },
-    {
-      "text": "Gift Guides",
-      "url": "https://www.nbcnews.com/select/gift-guides"
-    },
-    {
-      "text": "Our favorite Mother's Day gifts on Amazon",
-      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-amazon-ncna1294929"
-    },
-    {
-      "text": "See more",
-      "url": "https://www.nbcnews.com/select"
+      "text": "'This has lit a fire': Prospect of losing abortion rights jolts Democrats, midterms",
+      "url": "https://www.nbcnews.com/politics/2022-election/democrats-energized-leaked-abortion-decision-jolts-midterms-rcna27038"
     },
     {
       "text": "",
-      "url": "https://www.nbcnews.com/video/watch-cat-rescued-from-bombed-out-building-in-ukraine-139104325674"
+      "url": "https://www.nbcnews.com/data-graphics/map-abortion-legislation-2022-rcna27089"
     },
     {
-      "text": "NBC News",
-      "url": "https://www.nbcnews.com/video/watch-cat-rescued-from-bombed-out-building-in-ukraine-139104325674"
+      "text": "Data Graphics",
+      "url": "https://www.nbcnews.com/datagraphics"
     },
     {
-      "text": "Cat rescued from bombed-out building in Ukraine",
-      "url": "https://www.nbcnews.com/video/watch-cat-rescued-from-bombed-out-building-in-ukraine-139104325674"
-    },
-    {
-      "text": "",
-      "url": "https://www.today.com/video/caught-on-camera-damaging-tornado-rips-through-central-kansas-139077701884"
-    },
-    {
-      "text": "TODAY",
-      "url": "https://www.today.com/video/caught-on-camera-damaging-tornado-rips-through-central-kansas-139077701884"
-    },
-    {
-      "text": "Caught on camera: Damaging tornado rips through central Kansas",
-      "url": "https://www.today.com/video/caught-on-camera-damaging-tornado-rips-through-central-kansas-139077701884"
+      "text": "Map: Abortion restriction bills pending in 40 states this year",
+      "url": "https://www.nbcnews.com/data-graphics/map-abortion-legislation-2022-rcna27089"
     },
     {
       "text": "",
-      "url": "https://www.today.com/video/remembering-country-music-legend-naomi-judd-139077701986"
-    },
-    {
-      "text": "TODAY",
-      "url": "https://www.today.com/video/remembering-country-music-legend-naomi-judd-139077701986"
-    },
-    {
-      "text": "Remembering country music legend Naomi Judd",
-      "url": "https://www.today.com/video/remembering-country-music-legend-naomi-judd-139077701986"
-    },
-    {
-      "text": "",
-      "url": "https://www.today.com/video/bill-murray-blames-difference-of-opinion-for-pause-on-latest-movie-139079749620"
-    },
-    {
-      "text": "TODAY",
-      "url": "https://www.today.com/video/bill-murray-blames-difference-of-opinion-for-pause-on-latest-movie-139079749620"
-    },
-    {
-      "text": "Bill Murray responds to complaints about his on-set behavior",
-      "url": "https://www.today.com/video/bill-murray-blames-difference-of-opinion-for-pause-on-latest-movie-139079749620"
-    },
-    {
-      "text": "Brendan Hoffman for NBC News",
-      "url": "https://www.nbcnews.com/news/world/lviv-works-build-new-future-thousands-find-permanent-refuge-rcna25906"
-    },
-    {
-      "text": "Russia-Ukraine Conflict",
-      "url": "https://www.nbcnews.com/world/russia-ukraine-news"
-    },
-    {
-      "text": "Ukraine's city of refuge works to build new future with housing \u2014 and arms",
-      "url": "https://www.nbcnews.com/news/world/lviv-works-build-new-future-thousands-find-permanent-refuge-rcna25906"
-    },
-    {
-      "text": "Rachel Mummey for NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/visible-music-college-rape-complaint-rcna26418"
-    },
-    {
-      "text": "U.S. news",
-      "url": "https://www.nbcnews.com/us-news"
-    },
-    {
-      "text": "She told her Christian college she was raped. Then she was banned from campus.",
-      "url": "https://www.nbcnews.com/news/us-news/visible-music-college-rape-complaint-rcna26418"
-    },
-    {
-      "text": "Lily Lambie-Kiernan for NBC News",
-      "url": "https://www.nbcnews.com/tech/internet/followers-cheaper-lips-young-influencers-detail-allure-cosmetic-proced-rcna14463"
-    },
-    {
-      "text": "exclusive",
-      "url": "https://www.nbcnews.com/tech/internet"
-    },
-    {
-      "text": "Young influencers are being offered cheap procedures in return for promotion. They say it\u2019s coming at a cost.",
-      "url": "https://www.nbcnews.com/tech/internet/followers-cheaper-lips-young-influencers-detail-allure-cosmetic-proced-rcna14463"
-    },
-    {
-      "text": "Elise Wrabetz / NBC News; UW; Stanford",
-      "url": "https://www.nbcnews.com/news/us-news/suicides-put-spotlight-hard-can-student-athletes-ask-help-rcna26266"
-    },
-    {
-      "text": "U.S. news",
-      "url": "https://www.nbcnews.com/us-news"
-    },
-    {
-      "text": "Suicides put spotlight on how hard it can be for student-athletes to ask for help\u00a0",
-      "url": "https://www.nbcnews.com/news/us-news/suicides-put-spotlight-hard-can-student-athletes-ask-help-rcna26266"
-    },
-    {
-      "text": "Dave Sanders / New York Times via Redux",
-      "url": "https://www.nbcnews.com/news/us-news/man-fatally-stabbed-fight-breaks-dave-busters-square-rcna26864"
-    },
-    {
-      "text": "U.S. news",
-      "url": "https://www.nbcnews.com/us-news"
-    },
-    {
-      "text": "Man fatally stabbed after victim drops arcade prize at Dave & Buster's in Times Square",
-      "url": "https://www.nbcnews.com/news/us-news/man-fatally-stabbed-fight-breaks-dave-busters-square-rcna26864"
-    },
-    {
-      "text": "Lane Turner / Boston Globe via Getty Images file",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-boston-was-wrong-refuse-christian-flag-rcna25585"
+      "url": "https://www.nbcnews.com/politics/supreme-court/tell-us-how-has-getting-abortion-or-lack-access-changed-n1295114"
     },
     {
       "text": "Supreme Court",
       "url": "https://www.nbcnews.com/politics/supreme-court"
     },
     {
-      "text": "Supreme Court says Boston was wrong to refuse Christian flag",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-boston-was-wrong-refuse-christian-flag-rcna25585"
+      "text": "Tell us: How has getting an abortion or lack of access changed your life?",
+      "url": "https://www.nbcnews.com/politics/supreme-court/tell-us-how-has-getting-abortion-or-lack-access-changed-n1295114"
+    },
+    {
+      "text": "Amber Heard testifies in defamation trial against Johnny Depp",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/johnny-depp-amber-heard-trial-live-updates-rcna26972"
+    },
+    {
+      "text": "",
+      "url": "https://www.nbcnews.com/video/watch-live-amber-heard-testifies-in-johnny-depp-defamation-trial-138027077800"
+    },
+    {
+      "text": "Live Blog\u00a0/ Amber Heard takes the stand",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/johnny-depp-amber-heard-trial-live-updates-rcna26972"
+    },
+    {
+      "text": "Just now19m agoCourt about to hear testimony from Amber Heard ",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/johnny-depp-amber-heard-trial-live-updates-rcna26972#rcrd1445"
+    },
+    {
+      "text": "Just now1h agoHeard expert witness acknowledges Depp experienced physical and verbal trauma ",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/johnny-depp-amber-heard-trial-live-updates-rcna26972#rcrd1446"
+    },
+    {
+      "text": "Just now1h agoHeard expert witness defends PTSD diagnosis",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/johnny-depp-amber-heard-trial-live-updates-rcna26972#rcrd1444"
+    },
+    {
+      "text": "Just now3h agoDepp's team cross-examines Heard's first witness",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/johnny-depp-amber-heard-trial-live-updates-rcna26972#rcrd1437"
+    },
+    {
+      "text": "NBC News / Getty Pool",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/johnny-depp-amber-heard-defamation-trial-summary-timeline-rcna26136"
+    },
+    {
+      "text": "Culture Matters",
+      "url": "https://www.nbcnews.com/culture-matters"
+    },
+    {
+      "text": "Johnny Depp and Amber Heard defamation trial: Summary and timeline",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/johnny-depp-amber-heard-defamation-trial-summary-timeline-rcna26136"
     },
     {
       "text": "Michael Reynolds / AP",
@@ -6981,16 +6665,744 @@
       "url": "https://www.nbcnews.com/pop-culture/celebrity/days-testimony-johnny-depp-amber-heard-fires-pr-team-rcna26856"
     },
     {
-      "text": "WAFF",
-      "url": "https://www.nbcnews.com/news/alabama-woman-killed-pack-dogs-owner-charged-manslaughter-rcna26843"
+      "text": "Alexey Kudenko / Sputnik via AP",
+      "url": "https://www.nbcnews.com/news/world/ukraine-loses-contact-troops-heavy-fighting-azovstal-steel-plant-rcna27249"
     },
     {
-      "text": "News",
-      "url": "https://www.nbcnews.com/"
+      "text": "Russia-Ukraine Conflict",
+      "url": "https://www.nbcnews.com/world/russia-ukraine-news"
     },
     {
-      "text": "Alabama woman killed by pack of dogs; owner charged with manslaughter",
-      "url": "https://www.nbcnews.com/news/alabama-woman-killed-pack-dogs-owner-charged-manslaughter-rcna26843"
+      "text": "Ukraine loses contact with troops amid 'heavy fighting' at Azovstal steel plant",
+      "url": "https://www.nbcnews.com/news/world/ukraine-loses-contact-troops-heavy-fighting-azovstal-steel-plant-rcna27249"
+    },
+    {
+      "text": "'We expected to die at any minute': Azovstal evacuees detail desperate situation inside Mariupol plant",
+      "url": "https://www.nbcnews.com/news/world/azovstal-evacuees-mariupol-urkaine-war-rcna27245"
+    },
+    {
+      "text": "LIVE UPDATES: E.U. proposes total ban on Russian oil",
+      "url": "https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-eu-proposes-russian-oil-ban-rcna27238"
+    },
+    {
+      "text": "Mathieu Bitton / Netflix",
+      "url": "https://www.nbcnews.com/news/us-news/dave-chappelle-attacked-onstage-performance-hollywood-bowl-rcna27239"
+    },
+    {
+      "text": "Culture Matters",
+      "url": "https://www.nbcnews.com/culture-matters"
+    },
+    {
+      "text": "Dave Chappelle attacked onstage during performance at Hollywood Bowl",
+      "url": "https://www.nbcnews.com/news/us-news/dave-chappelle-attacked-onstage-performance-hollywood-bowl-rcna27239"
+    },
+    {
+      "text": "T.J. Kirkpatrick / Bloomberg via Getty Images file",
+      "url": "https://www.nbcnews.com/business/economy/federal-reserve-interest-rate-increase-inflation-rcna26982"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.nbcnews.com/business/economy"
+    },
+    {
+      "text": "Federal Reserve lifts interest rates by 0.5 percent in bid to slow inflation",
+      "url": "https://www.nbcnews.com/business/economy/federal-reserve-interest-rate-increase-inflation-rcna26982"
+    },
+    {
+      "text": "Drew Angerer / Getty Images",
+      "url": "https://www.nbcnews.com/politics/2022-election/vances-ohio-win-showcases-trumps-endorsement-power-rcna26429"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://www.nbcnews.com/politics/midterm-elections-2022"
+    },
+    {
+      "text": "Vance's Ohio win showcases Trump's endorsement power",
+      "url": "https://www.nbcnews.com/politics/2022-election/vances-ohio-win-showcases-trumps-endorsement-power-rcna26429"
+    },
+    {
+      "text": "Alan Cressler / Antiquity Journal",
+      "url": "https://www.nbcnews.com/science/science-news/americas-largest-cave-figures-discovered-alabama-rcna26203"
+    },
+    {
+      "text": "Science News",
+      "url": "https://www.nbcnews.com/science/science-news"
+    },
+    {
+      "text": "In a secret Alabama cave, 1,000-year-old carvings thought to be largest discovered in U.S.",
+      "url": "https://www.nbcnews.com/science/science-news/americas-largest-cave-figures-discovered-alabama-rcna26203"
+    },
+    {
+      "text": "Marcy Posey Gatterman / via Facebook",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/family-toddlers-tiaras-star-kailia-posey-reveals-cause-death-rcna27311"
+    },
+    {
+      "text": "Culture Matters",
+      "url": "https://www.nbcnews.com/culture-matters"
+    },
+    {
+      "text": "Family of 'Toddlers & Tiaras' star Kailia Posey reveals her cause of death",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/family-toddlers-tiaras-star-kailia-posey-reveals-cause-death-rcna27311"
+    },
+    {
+      "text": "Manchester Police Department",
+      "url": "https://www.nbcnews.com/news/us-news/harmony-montgomery-case-missing-girls-safety-well-not-prioritized-repo-rcna27152"
+    },
+    {
+      "text": "U.S. news",
+      "url": "https://www.nbcnews.com/us-news"
+    },
+    {
+      "text": "Missing 7-year-old girl's safety and well-being 'were not prioritized,' report finds",
+      "url": "https://www.nbcnews.com/news/us-news/harmony-montgomery-case-missing-girls-safety-well-not-prioritized-repo-rcna27152"
+    },
+    {
+      "text": "Trans youths who socially transition are unlikely to 'detransition' later, study finds",
+      "url": "https://www.nbcnews.com/nbc-out/out-health-and-wellness/trans-youths-socially-transition-unlikely-detransition-later-rcna27253"
+    },
+    {
+      "text": "TurboTax owner to pay $141M to U.S. customers over misleading \u2018free\u2019 ads",
+      "url": "https://www.nbcnews.com/business/business-news/turbotax-owner-pay-141m-us-customers-misleading-free-ads-rcna27312"
+    },
+    {
+      "text": "Body of one of three children last seen entering the Mississippi River has been found",
+      "url": "https://www.nbcnews.com/news/us-news/body-one-three-children-last-seen-entering-mississippi-river-found-rcna27277"
+    },
+    {
+      "text": "Mother of Miss USA Cheslie Kryst reveals pageant queen had attempted suicide before",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/mother-miss-usa-cheslie-kryst-reveals-pageant-queen-attempted-suicide-rcna27272"
+    },
+    {
+      "text": "See More",
+      "url": "https://www.nbcnews.com/think"
+    },
+    {
+      "text": "Stefani Reynolds / Bloomberg via Getty Images file",
+      "url": "https://www.nbcnews.com/think/opinion/susan-collins-roe-abortion-stance-was-doomed-supreme-court-votes-rcna27227"
+    },
+    {
+      "text": "Susan Collins' statement on the leaked Roe draft is astounding",
+      "url": "https://www.nbcnews.com/think/opinion/susan-collins-roe-abortion-stance-was-doomed-supreme-court-votes-rcna27227"
+    },
+    {
+      "text": "Chip Somodevilla / Getty Images file",
+      "url": "https://www.nbcnews.com/think/opinion/roe-v-wade-overturned-supreme-court-abortion-draft-alitos-legal-analys-rcna27205"
+    },
+    {
+      "text": "A close reading of Alito's draft abortion ruling reveals these 8 problems",
+      "url": "https://www.nbcnews.com/think/opinion/roe-v-wade-overturned-supreme-court-abortion-draft-alitos-legal-analys-rcna27205"
+    },
+    {
+      "text": "Alexander Zemlianichenko / Pool via AFP - Getty Images",
+      "url": "https://www.nbcnews.com/think/opinion/russia-ukraine-hitler-jewish-lavrov-zelenskyy-antisemitism-rcna27156"
+    },
+    {
+      "text": "The disturbing reason why the myth that Hitler had Jewish roots endures",
+      "url": "https://www.nbcnews.com/think/opinion/russia-ukraine-hitler-jewish-lavrov-zelenskyy-antisemitism-rcna27156"
+    },
+    {
+      "text": "Joe Maiorana / AP",
+      "url": "https://www.nbcnews.com/think/opinion/jd-vance-written-appalachians-ohio-senate-campaign-rcna26933"
+    },
+    {
+      "text": "Appalachian voters shouldn't buy any of what J.D. Vance is selling",
+      "url": "https://www.nbcnews.com/think/opinion/jd-vance-written-appalachians-ohio-senate-campaign-rcna26933"
+    },
+    {
+      "text": "Paul Hennessy / SOPA Images/LightRocket via Getty Images file",
+      "url": "https://www.nbcnews.com/think/opinion/putin-ukraine-russia-war-russian-immigrants-paying-price-rcna26971"
+    },
+    {
+      "text": "Boycotts of Russian goods and people reveal an ugly prejudice",
+      "url": "https://www.nbcnews.com/think/opinion/putin-ukraine-russia-war-russian-immigrants-paying-price-rcna26971"
+    },
+    {
+      "text": "Dominique Charriau / WireImage file",
+      "url": "https://www.nbcnews.com/think/opinion/johnny-depp-amber-heard-trial-testimony-pushes-mutual-abuse-nonsense-rcna26709"
+    },
+    {
+      "text": "The Johnny Depp-Amber Heard trial is spotlighting this harmful abuse theory",
+      "url": "https://www.nbcnews.com/think/opinion/johnny-depp-amber-heard-trial-testimony-pushes-mutual-abuse-nonsense-rcna26709"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.nbcnews.com/politics/"
+    },
+    {
+      "text": "Valerie Plesch for NBC News / for NBC News",
+      "url": "https://www.nbcnews.com/politics/supreme-court/abortion-opinion-leak-unprecedented-not-supreme-court-first-rcna27130"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.nbcnews.com/politics/supreme-court"
+    },
+    {
+      "text": "Abortion opinion leak unprecedented but not a Supreme Court first",
+      "url": "https://www.nbcnews.com/politics/supreme-court/abortion-opinion-leak-unprecedented-not-supreme-court-first-rcna27130"
+    },
+    {
+      "text": "Kenneth Ferriera / Lincoln Journal Star via AP",
+      "url": "https://www.nbcnews.com/politics/donald-trump/new-york-judge-denies-trumps-request-suspend-10000-day-fine-rcna27263"
+    },
+    {
+      "text": "Donald Trump",
+      "url": "https://www.nbcnews.com/politics/donald-trump"
+    },
+    {
+      "text": "New York judge denies Trump's request to suspend $10,000-a-day fine",
+      "url": "https://www.nbcnews.com/politics/donald-trump/new-york-judge-denies-trumps-request-suspend-10000-day-fine-rcna27263"
+    },
+    {
+      "text": "Meg Vogel / The Cincinnati Enquirer via AP, Pool file",
+      "url": "https://www.nbcnews.com/politics/2022-election/former-dayton-mayor-whaley-wins-democratic-ohio-gubernatorial-primary-rcna26339"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://www.nbcnews.com/politics/midterm-elections-2022"
+    },
+    {
+      "text": "Former Dayton Mayor Whaley wins Democratic Ohio gubernatorial primary",
+      "url": "https://www.nbcnews.com/politics/2022-election/former-dayton-mayor-whaley-wins-democratic-ohio-gubernatorial-primary-rcna26339"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://www.nbcnews.com/politics/midterm-elections-2022"
+    },
+    {
+      "text": "Rep. Cuellar attacked on his anti-abortion stance by opponent Cisneros in Texas Democratic run-off",
+      "url": "https://www.nbcnews.com/politics/2022-election/rep-cuellar-attacked-anti-abortion-stance-opponent-cisneros-texas-demo-rcna27251"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://www.nbcnews.com/politics/midterm-elections-2022"
+    },
+    {
+      "text": "Republican Max Miller wins House primary in Ohio",
+      "url": "https://www.nbcnews.com/politics/2022-election/republican-max-miller-wins-house-primary-ohio-rcna26428"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://www.nbcnews.com/politics/midterm-elections-2022"
+    },
+    {
+      "text": "Rep. Cuellar attacked on his anti-abortion stance by opponent Cisneros in Texas Democratic run-off",
+      "url": "https://www.nbcnews.com/politics/2022-election/rep-cuellar-attacked-anti-abortion-stance-opponent-cisneros-texas-demo-rcna27251"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://www.nbcnews.com/politics/midterm-elections-2022"
+    },
+    {
+      "text": "Republican Max Miller wins House primary in Ohio",
+      "url": "https://www.nbcnews.com/politics/2022-election/republican-max-miller-wins-house-primary-ohio-rcna26428"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.nbcnews.com/health/coronavirus"
+    },
+    {
+      "text": "David Paul Morris / Bloomberg via Getty Images",
+      "url": "https://www.nbcnews.com/health/health-news/omicron-subvariants-mean-reinfection-risk-rcna26973"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.nbcnews.com/health/coronavirus"
+    },
+    {
+      "text": "What the latest omicron subvariants mean for reinfection risk",
+      "url": "https://www.nbcnews.com/health/health-news/omicron-subvariants-mean-reinfection-risk-rcna26973"
+    },
+    {
+      "text": "Michael M. Santiago / Getty Images file",
+      "url": "https://www.nbcnews.com/health/health-news/major-threat-pandemic-vaccine-hesitancy-rcna25460"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.nbcnews.com/health/coronavirus"
+    },
+    {
+      "text": "Another pandemic is inevitable, scientists say. Mass vaccination is not.",
+      "url": "https://www.nbcnews.com/health/health-news/major-threat-pandemic-vaccine-hesitancy-rcna25460"
+    },
+    {
+      "text": "Francine Orr / Los Angeles Times via Getty Images file",
+      "url": "https://www.nbcnews.com/data-graphics/covid-collections-share-photo-or-image-nbc-news-n1294899"
+    },
+    {
+      "text": "callout",
+      "url": "https://www.nbcnews.com/data-graphics/covid-collections-share-photo-or-image-nbc-news-n1294899"
+    },
+    {
+      "text": "Covid collections: Sharing memories of all those we lost in the pandemic",
+      "url": "https://www.nbcnews.com/data-graphics/covid-collections-share-photo-or-image-nbc-news-n1294899"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.nbcnews.com/health/coronavirus"
+    },
+    {
+      "text": "Fired and far from home: Covid diagnosis leaves Hong Kong's domestic workers in a bind",
+      "url": "https://www.nbcnews.com/news/world/hong-kong-domestic-workers-covid-rcna26197"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.nbcnews.com/health/coronavirus"
+    },
+    {
+      "text": "Tears and chocolates as New Zealand eases Covid rules, welcomes back tourists",
+      "url": "https://www.nbcnews.com/news/world/new-zealand-opens-borders-60-countries-covid-restrictions-rcna26869"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.nbcnews.com/health/coronavirus"
+    },
+    {
+      "text": "Fired and far from home: Covid diagnosis leaves Hong Kong's domestic workers in a bind",
+      "url": "https://www.nbcnews.com/news/world/hong-kong-domestic-workers-covid-rcna26197"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.nbcnews.com/health/coronavirus"
+    },
+    {
+      "text": "Tears and chocolates as New Zealand eases Covid rules, welcomes back tourists",
+      "url": "https://www.nbcnews.com/news/world/new-zealand-opens-borders-60-countries-covid-restrictions-rcna26869"
+    },
+    {
+      "text": "David Degner / Getty Images",
+      "url": "https://www.nbcnews.com/science/innovation/scientists-want-use-cosmic-rays-map-great-pyramid-gizas-secrets-rcna24839"
+    },
+    {
+      "text": "Innovation",
+      "url": "https://www.nbcnews.com/science/innovation/scientists-want-use-cosmic-rays-map-great-pyramid-gizas-secrets-rcna24839"
+    },
+    {
+      "text": "Scientists want to develop a telescope to 'see' inside Egypt's Great Pyramid of Giza",
+      "url": "https://www.nbcnews.com/science/innovation/scientists-want-use-cosmic-rays-map-great-pyramid-gizas-secrets-rcna24839"
+    },
+    {
+      "text": "NBC News; Getty Images",
+      "url": "https://www.nbcnews.com/news/us-news/texas-school-board-elections-race-sexuality-rcna26977"
+    },
+    {
+      "text": "U.S. news",
+      "url": "https://www.nbcnews.com/us-news"
+    },
+    {
+      "text": "Texas school board candidates adopt 'Southlake playbook,' targeting race and sexuality",
+      "url": "https://www.nbcnews.com/news/us-news/texas-school-board-elections-race-sexuality-rcna26977"
+    },
+    {
+      "text": "NBC News; Marvel Studios; Focus FeaturesMatt Nighswander / NBC News; Marvel Studios; Focus Features; CW",
+      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/mays-must-see-queer-movies-shows-doctor-strange-2-downton-abbey-rcna27074"
+    },
+    {
+      "text": "OUT Pop Culture",
+      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/mays-must-see-queer-movies-shows-doctor-strange-2-downton-abbey-rcna27074"
+    },
+    {
+      "text": "A buzzy new Marvel movie and film spinoffs of beloved series: Queer content coming in May",
+      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/mays-must-see-queer-movies-shows-doctor-strange-2-downton-abbey-rcna27074"
+    },
+    {
+      "text": "Trevor Reed family urges White House to bring Brittany Griner, Paul Whelan home from Russia\u00a0",
+      "url": "https://www.nbcnews.com/news/us-news/trevor-reed-family-urges-white-house-bring-brittany-griner-paul-whelan-rcna27316"
+    },
+    {
+      "text": "Judge overseeing Derek Chauvin civil rights case accepts plea deal",
+      "url": "https://www.nbcnews.com/news/us-news/judge-overseeing-derek-chauvin-civil-rights-case-accepts-plea-deal-rcna27346"
+    },
+    {
+      "text": "U.S. takes unprecedented steps to replenish Colorado River\u2019s Lake Powell",
+      "url": "https://www.nbcnews.com/science/environment/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-rcna27335"
+    },
+    {
+      "text": "Family of 'Toddlers & Tiaras' star Kailia Posey reveals her cause of death",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/family-toddlers-tiaras-star-kailia-posey-reveals-cause-death-rcna27311"
+    },
+    {
+      "text": "Trans youths who socially transition are unlikely to 'detransition' later, study finds",
+      "url": "https://www.nbcnews.com/nbc-out/out-health-and-wellness/trans-youths-socially-transition-unlikely-detransition-later-rcna27253"
+    },
+    {
+      "text": "Soccer legend Diego Maradona\u2019s \u2018Hand of God\u2019 shirt sets auction record",
+      "url": "https://www.nbcnews.com/news/latino/soccer-legend-diego-maradonas-hand-god-shirt-sets-auction-record-rcna27324"
+    },
+    {
+      "text": "Shopping",
+      "url": "https://www.nbcnews.com/select"
+    },
+    {
+      "text": "Last-minute Mother's Day gifts that should arrive on time",
+      "url": "https://www.nbcnews.com/select/shopping/last-minute-gifts-mom-ncna1295116"
+    },
+    {
+      "text": "Body of one of three children last seen entering the Mississippi River has been found",
+      "url": "https://www.nbcnews.com/news/us-news/body-one-three-children-last-seen-entering-mississippi-river-found-rcna27277"
+    },
+    {
+      "text": "Federal Reserve lifts interest rates by 0.5 percent in bid to slow inflation",
+      "url": "https://www.nbcnews.com/business/economy/federal-reserve-interest-rate-increase-inflation-rcna26982"
+    },
+    {
+      "text": "TurboTax owner to pay $141M to U.S. customers over misleading \u2018free\u2019 ads",
+      "url": "https://www.nbcnews.com/business/business-news/turbotax-owner-pay-141m-us-customers-misleading-free-ads-rcna27312"
+    },
+    {
+      "text": "'We expected to die at any minute': Azovstal evacuees detail desperate situation inside Mariupol plant",
+      "url": "https://www.nbcnews.com/news/world/azovstal-evacuees-mariupol-urkaine-war-rcna27245"
+    },
+    {
+      "text": "Shopping",
+      "url": "https://www.nbcnews.com/select"
+    },
+    {
+      "text": "Wild One launches puzzle toy for dogs",
+      "url": "https://www.nbcnews.com/select/shopping/new-notable-fiture-wild-one-ncna1295117"
+    },
+    {
+      "text": "Tell us: How has getting an abortion or lack of access changed your life?",
+      "url": "https://www.nbcnews.com/politics/supreme-court/tell-us-how-has-getting-abortion-or-lack-access-changed-n1295114"
+    },
+    {
+      "text": "Mother of Miss USA Cheslie Kryst reveals pageant queen had attempted suicide before",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/mother-miss-usa-cheslie-kryst-reveals-pageant-queen-attempted-suicide-rcna27272"
+    },
+    {
+      "text": "Map: Abortion restriction bills pending in 40 states this year",
+      "url": "https://www.nbcnews.com/data-graphics/map-abortion-legislation-2022-rcna27089"
+    },
+    {
+      "text": "Meg Ryan is returning to rom-coms",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/meg-ryan-returning-rom-coms-rcna27280"
+    },
+    {
+      "text": "New York judge denies Trump's request to suspend $10,000-a-day fine",
+      "url": "https://www.nbcnews.com/politics/donald-trump/new-york-judge-denies-trumps-request-suspend-10000-day-fine-rcna27263"
+    },
+    {
+      "text": "Missing 7-year-old girl's safety and well-being 'were not prioritized,' report finds",
+      "url": "https://www.nbcnews.com/news/us-news/harmony-montgomery-case-missing-girls-safety-well-not-prioritized-repo-rcna27152"
+    },
+    {
+      "text": "Ukraine loses contact with troops amid 'heavy fighting' at Azovstal steel plant",
+      "url": "https://www.nbcnews.com/news/world/ukraine-loses-contact-troops-heavy-fighting-azovstal-steel-plant-rcna27249"
+    },
+    {
+      "text": "California condors soar over northern coast redwoods for first time in more than a century",
+      "url": "https://www.nbcnews.com/news/animal-news/california-condors-soar-northern-coast-redwoods-first-time-century-rcna27256"
+    },
+    {
+      "text": "Rep. Cuellar attacked on his anti-abortion stance by opponent Cisneros in Texas Democratic run-off",
+      "url": "https://www.nbcnews.com/politics/2022-election/rep-cuellar-attacked-anti-abortion-stance-opponent-cisneros-texas-demo-rcna27251"
+    },
+    {
+      "text": "AP investigation suggests 600 died in Russian strike on Mariupol theater",
+      "url": "https://www.nbcnews.com/news/world/ap-investigation-suggests-600-died-russian-strike-mariupol-theater-rcna27260"
+    },
+    {
+      "text": "Shopping",
+      "url": "https://www.nbcnews.com/select"
+    },
+    {
+      "text": "This tote is my go-to commuting bag",
+      "url": "https://www.nbcnews.com/select/shopping/incase-city-market-tote-ncna1295091"
+    },
+    {
+      "text": "Dolly Parton inducted into Rock & Roll Hall of Fame after first rejecting nomination",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-parton-inducted-rock-roll-hall-fame-first-rejecting-nomination-rcna27267"
+    },
+    {
+      "text": "Dallas toddler mauled by coyote on front porch, hospitalized",
+      "url": "https://www.nbcnews.com/news/us-news/dallas-toddler-mauled-coyote-front-porch-hospitalized-rcna27259"
+    },
+    {
+      "text": "Amber Heard takes the stand in defamation trial against Johnny Depp",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/johnny-depp-amber-heard-trial-live-updates-rcna26972"
+    },
+    {
+      "text": "Mechanical failure behind deadly Navy helicopter crash, military says",
+      "url": "https://www.nbcnews.com/news/us-news/mechanical-failure-deadly-navy-helicopter-crash-military-says-rcna27252"
+    },
+    {
+      "text": "Phoebe Bridgers opens up about getting an abortion, says everyone deserves 'access'",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/phoebe-bridgers-opens-getting-abortion-says-everyone-deserves-access-rcna27242"
+    },
+    {
+      "text": "Amber Heard expected to defend herself on witness stand in Johnny Depp defamation trial",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/amber-heard-expected-defend-witness-stand-johnny-depp-defamation-trial-rcna26950"
+    },
+    {
+      "text": "Scientists want to develop a telescope to 'see' inside Egypt's Great Pyramid of Giza",
+      "url": "https://www.nbcnews.com/science/innovation/scientists-want-use-cosmic-rays-map-great-pyramid-gizas-secrets-rcna24839"
+    },
+    {
+      "text": "Dave Chappelle attacked onstage during performance at Hollywood Bowl",
+      "url": "https://www.nbcnews.com/news/us-news/dave-chappelle-attacked-onstage-performance-hollywood-bowl-rcna27239"
+    },
+    {
+      "text": "The biggest health risks women would face if Roe v. Wade is overturned",
+      "url": "https://www.nbcnews.com/health/health-news/health-risks-overturning-roe-v-wade-abortion-rcna27109"
+    },
+    {
+      "text": "Russia-Ukraine war live updates: E.U. proposes Russian oil ban",
+      "url": "https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-eu-proposes-russian-oil-ban-rcna27238"
+    },
+    {
+      "text": "Roe v. Wade live updates: Reactions to Supreme Court leaked abortion ruling",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/-roe-v-wade-supreme-court-leaked-ruling-reactions-rcna27225"
+    },
+    {
+      "text": "In a secret Alabama cave, 1,000-year-old carvings thought to be largest discovered in U.S.",
+      "url": "https://www.nbcnews.com/science/science-news/americas-largest-cave-figures-discovered-alabama-rcna26203"
+    },
+    {
+      "text": "North Korea fires ballistic missile amid rising tensions",
+      "url": "https://www.nbcnews.com/news/world/north-korea-launches-suspected-missile-sea-rcna27236"
+    },
+    {
+      "text": "Missouri man executed after death sentence is overturned three times",
+      "url": "https://www.nbcnews.com/news/us-news/missouri-man-executed-death-sentence-overturned-three-rcna27235"
+    },
+    {
+      "text": "Vance's Ohio win showcases Trump's endorsement power",
+      "url": "https://www.nbcnews.com/politics/2022-election/vances-ohio-win-showcases-trumps-endorsement-power-rcna26429"
+    },
+    {
+      "text": "Rep. Shontel Brown of Ohio beats Nina Turner in Democratic primary rematch",
+      "url": "https://www.nbcnews.com/politics/2022-election/rep-shontel-brown-ohio-beats-nina-turner-democratic-primary-rematch-rcna26427"
+    },
+    {
+      "text": "Three suspects charged with murder in California gunfight that left 6 dead",
+      "url": "https://www.nbcnews.com/news/us-news/three-suspects-charged-murder-california-gun-fight-left-6-dead-rcna27223"
+    },
+    {
+      "text": "Republican Max Miller wins House primary in Ohio",
+      "url": "https://www.nbcnews.com/politics/2022-election/republican-max-miller-wins-house-primary-ohio-rcna26428"
+    },
+    {
+      "text": "Former Dayton Mayor Whaley wins Democratic Ohio gubernatorial primary",
+      "url": "https://www.nbcnews.com/politics/2022-election/former-dayton-mayor-whaley-wins-democratic-ohio-gubernatorial-primary-rcna26339"
+    },
+    {
+      "text": "Yelp and Meta's Sandberg respond to draft opinion that would strike down Roe v. Wade",
+      "url": "https://www.nbcnews.com/business/consumer/roe-v-wade-abortion-tech-companies-respond-to-supreme-court-rcna27167"
+    },
+    {
+      "text": "\u2018Speak up. Don\u2019t be ashamed\u2019: Activists who fought for Roe urge younger generation to keep fighting",
+      "url": "https://www.nbcnews.com/news/us-news/speak-dont-ashamed-activists-fought-roe-urge-younger-generation-keep-f-rcna27153"
+    },
+    {
+      "text": "Ohio Gov. DeWine prevails in contentious GOP primary, NBC News projects",
+      "url": "https://www.nbcnews.com/politics/2022-election/ohio-gov-dewine-prevails-contentious-gop-primary-nbc-news-projects-rcna26338"
+    },
+    {
+      "text": "He\u2019s protested abortions outside Mississippi\u2019s sole clinic for years. Now he might retire.",
+      "url": "https://www.nbcnews.com/news/us-news/jackson-mississippi-abortion-clinic-protesters-rcna27192"
+    },
+    {
+      "text": "Democrats nominate Tim Ryan in Ohio\u2019s key Senate race, NBC News projects",
+      "url": "https://www.nbcnews.com/politics/2022-election/democrats-nominate-tim-ryan-ohios-key-senate-race-nbc-news-projects-rcna26337"
+    },
+    {
+      "text": "WebMD profile of Amber Heard expert witness flooded with negative reviews during trial",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/webmd-profile-amber-heard-expert-witness-flooded-negative-reviews-tria-rcna27197"
+    },
+    {
+      "text": "Emotions run high outside Supreme Court as demonstrators weigh future of abortion",
+      "url": "https://www.nbcnews.com/politics/supreme-court/emotions-run-high-supreme-court-demonstrators-weigh-future-abortion-rcna27199"
+    },
+    {
+      "text": "Vance wins Ohio GOP Senate primary after Trump endorsement, NBC News projects",
+      "url": "https://www.nbcnews.com/politics/2022-election/polls-close-ohio-gop-primaries-test-trumps-influence-rcna26336"
+    },
+    {
+      "text": "See All",
+      "url": "/latest-stories/"
+    },
+    {
+      "text": "Outdoor Voices ; Amazon",
+      "url": "https://www.nbcnews.com/select/shopping/last-minute-gifts-mom-ncna1295116"
+    },
+    {
+      "text": "Gift Guides",
+      "url": "https://www.nbcnews.com/select/gift-guides"
+    },
+    {
+      "text": "Last-minute Mother's Day gifts that should arrive on time",
+      "url": "https://www.nbcnews.com/select/shopping/last-minute-gifts-mom-ncna1295116"
+    },
+    {
+      "text": "Wild One ; FITURE",
+      "url": "https://www.nbcnews.com/select/shopping/new-notable-fiture-wild-one-ncna1295117"
+    },
+    {
+      "text": "New & Notable",
+      "url": "https://www.nbcnews.com/select/shopping/new-notable-fiture-wild-one-ncna1295117"
+    },
+    {
+      "text": "Wild One launches puzzle toy for dogs",
+      "url": "https://www.nbcnews.com/select/shopping/new-notable-fiture-wild-one-ncna1295117"
+    },
+    {
+      "text": "Kevin Cortez",
+      "url": "https://www.nbcnews.com/select/shopping/incase-city-market-tote-ncna1295091"
+    },
+    {
+      "text": "Apparel",
+      "url": "https://www.nbcnews.com/select/explore/apparel"
+    },
+    {
+      "text": "This tote is my go-to commuting bag",
+      "url": "https://www.nbcnews.com/select/shopping/incase-city-market-tote-ncna1295091"
+    },
+    {
+      "text": "See more",
+      "url": "https://www.nbcnews.com/select"
+    },
+    {
+      "text": "",
+      "url": "https://www.nbcnews.com/video/comedian-dave-chappelle-attacked-on-stage-at-hollywood-bowl-139247685505"
+    },
+    {
+      "text": "NBC News",
+      "url": "https://www.nbcnews.com/video/comedian-dave-chappelle-attacked-on-stage-at-hollywood-bowl-139247685505"
+    },
+    {
+      "text": "Dave Chappelle attacked on stage at Hollywood Bowl",
+      "url": "https://www.nbcnews.com/video/comedian-dave-chappelle-attacked-on-stage-at-hollywood-bowl-139247685505"
+    },
+    {
+      "text": "",
+      "url": "https://www.today.com/video/dave-chappelle-attacked-on-stage-during-stand-up-performance-139256389841"
+    },
+    {
+      "text": "TODAY",
+      "url": "https://www.today.com/video/dave-chappelle-attacked-on-stage-during-stand-up-performance-139256389841"
+    },
+    {
+      "text": "Dave Chappelle attacked on stage during stand-up performance",
+      "url": "https://www.today.com/video/dave-chappelle-attacked-on-stage-during-stand-up-performance-139256389841"
+    },
+    {
+      "text": "",
+      "url": "https://www.today.com/video/security-breach-at-queen-s-windsor-castle-under-investigation-139257413617"
+    },
+    {
+      "text": "TODAY",
+      "url": "https://www.today.com/video/security-breach-at-queen-s-windsor-castle-under-investigation-139257413617"
+    },
+    {
+      "text": "Security breach at Queen\u2019s Windsor Castle under investigation",
+      "url": "https://www.today.com/video/security-breach-at-queen-s-windsor-castle-under-investigation-139257413617"
+    },
+    {
+      "text": "",
+      "url": "https://www.today.com/video/new-video-shows-inmate-escape-alabama-prison-with-officer-139256389861"
+    },
+    {
+      "text": "TODAY",
+      "url": "https://www.today.com/video/new-video-shows-inmate-escape-alabama-prison-with-officer-139256389861"
+    },
+    {
+      "text": "Missing prison officer and escaped inmate had \u2018special relationship\u2019",
+      "url": "https://www.today.com/video/new-video-shows-inmate-escape-alabama-prison-with-officer-139256389861"
+    },
+    {
+      "text": "Evelyn Hockstein / Reuters via Alamy, file",
+      "url": "https://www.nbcnews.com/news/us-news/mississippi-abortion-clinic-director-roe-wade-rcna27096"
+    },
+    {
+      "text": "exclusive",
+      "url": "https://www.nbcnews.com/news/us-news/mississippi-abortion-clinic-director-roe-wade-rcna27096"
+    },
+    {
+      "text": "Abortion clinic at center of Supreme Court case may move out of Mississippi if Roe is overturned",
+      "url": "https://www.nbcnews.com/news/us-news/mississippi-abortion-clinic-director-roe-wade-rcna27096"
+    },
+    {
+      "text": "Leon Neal / Getty Images",
+      "url": "https://www.nbcnews.com/news/world/ukraine-admits-ghost-kyiv-isnt-real-wartime-myth-russia-rcna26867"
+    },
+    {
+      "text": "Russia-Ukraine Conflict",
+      "url": "https://www.nbcnews.com/world/russia-ukraine-news"
+    },
+    {
+      "text": "Ukraine admits the 'Ghost of Kyiv' isn't real, but the myth was potent for a reason",
+      "url": "https://www.nbcnews.com/news/world/ukraine-admits-ghost-kyiv-isnt-real-wartime-myth-russia-rcna26867"
+    },
+    {
+      "text": "Sophi Miyoko Gullbrants for NBC News",
+      "url": "https://www.nbcnews.com/specials/asian-americans-pacific-islanders-allies-fighting-hate/index.html"
+    },
+    {
+      "text": "special report",
+      "url": "https://www.nbcnews.com/news/asian-america/100-ways-asian-americans-pacific-islanders-allies-are-fighting-hate-n1295010"
+    },
+    {
+      "text": "100 ways Asian Americans, Pacific Islanders and allies are fighting hate and violence",
+      "url": "https://www.nbcnews.com/specials/asian-americans-pacific-islanders-allies-fighting-hate/index.html"
+    },
+    {
+      "text": "Elijah Nouvelage for NBC News",
+      "url": "https://www.nbcnews.com/news/investigations/secret-surveillance-mining-customer-data-retailers-help-bag-shopliftin-rcna22259"
+    },
+    {
+      "text": "Investigations",
+      "url": "https://www.nbcnews.com/news/investigations/secret-surveillance-mining-customer-data-retailers-help-bag-shopliftin-rcna22259"
+    },
+    {
+      "text": "Secret surveillance, mining customer data: How retailers help bag shoplifting kingpins",
+      "url": "https://www.nbcnews.com/news/investigations/secret-surveillance-mining-customer-data-retailers-help-bag-shopliftin-rcna22259"
+    },
+    {
+      "text": "Anna Moneymaker / Getty Images",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-draft-opinion-overturning-roe-v-wade-authentic-rcna27121"
+    },
+    {
+      "text": "Abortion Rights",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-draft-opinion-overturning-roe-v-wade-authentic-rcna27121"
+    },
+    {
+      "text": "Supreme Court says draft opinion that would overturn Roe v. Wade is 'authentic'",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-draft-opinion-overturning-roe-v-wade-authentic-rcna27121"
+    },
+    {
+      "text": "WCAU",
+      "url": "https://www.nbcnews.com/news/us-news/two-boys-9-13-life-support-mom-allegedly-shoots-rcna27023"
+    },
+    {
+      "text": "U.S. news",
+      "url": "https://www.nbcnews.com/us-news"
+    },
+    {
+      "text": "Two boys, 9 and 13, on life support after mom allegedly shoots them",
+      "url": "https://www.nbcnews.com/news/us-news/two-boys-9-13-life-support-mom-allegedly-shoots-rcna27023"
+    },
+    {
+      "text": "Marcy Posey Gatterman / via Facebook",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/kailia-posey-toddlers-tiaras-star-dies-16-rcna27149"
+    },
+    {
+      "text": "Culture Matters",
+      "url": "https://www.nbcnews.com/culture-matters"
+    },
+    {
+      "text": "Kailia Posey, 'Toddlers & Tiaras' star, dies at 16",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/kailia-posey-toddlers-tiaras-star-dies-16-rcna27149"
+    },
+    {
+      "text": "",
+      "url": "https://www.nbcnews.com/data-graphics/map-23-states-ban-abortion-post-roe-america-rcna27081"
+    },
+    {
+      "text": "Data Graphics",
+      "url": "https://www.nbcnews.com/datagraphics"
+    },
+    {
+      "text": "Map: See which states would ban, restrict or protect abortions if Roe is overturned",
+      "url": "https://www.nbcnews.com/data-graphics/map-23-states-ban-abortion-post-roe-america-rcna27081"
     },
     {
       "text": "Courtesy John Sandor",
@@ -7017,72 +7429,72 @@
       "url": "https://www.nbcnews.com/business"
     },
     {
-      "text": "John Thys / AP file",
-      "url": "https://www.nbcnews.com/tech/security/spyware-attack-targeted-prime-ministers-phone-spain-says-rcna26878"
-    },
-    {
-      "text": "Security",
-      "url": "https://www.nbcnews.com/tech/cyber-security"
-    },
-    {
-      "text": "Spyware attack targeted prime minister\u2019s phone, Spain says",
-      "url": "https://www.nbcnews.com/tech/security/spyware-attack-targeted-prime-ministers-phone-spain-says-rcna26878"
-    },
-    {
-      "text": "David Paul Morris / Bloomberg via Getty Images file",
-      "url": "https://www.nbcnews.com/business/economy/is-a-recession-coming-signs-inflation-economy-explained-rcna24994"
+      "text": "T.J. Kirkpatrick / Bloomberg via Getty Images file",
+      "url": "https://www.nbcnews.com/business/economy/federal-reserve-interest-rate-increase-inflation-rcna26982"
     },
     {
       "text": "Economy",
       "url": "https://www.nbcnews.com/business/economy"
     },
     {
-      "text": "Is a recession on the way? What data says about the economy",
-      "url": "https://www.nbcnews.com/business/economy/is-a-recession-coming-signs-inflation-economy-explained-rcna24994"
+      "text": "Federal Reserve lifts interest rates by 0.5 percent in bid to slow inflation",
+      "url": "https://www.nbcnews.com/business/economy/federal-reserve-interest-rate-increase-inflation-rcna26982"
     },
     {
-      "text": "Spencer Platt / Getty Images",
-      "url": "https://www.nbcnews.com/business/markets/dow-tumbles-900-points-nasdaq-drops-4-percent-close-brutal-month-rcna26720"
+      "text": "Peter Barreras / AP Images for Turbo Tax Via AP file",
+      "url": "https://www.nbcnews.com/business/business-news/turbotax-owner-pay-141m-us-customers-misleading-free-ads-rcna27312"
     },
     {
-      "text": "Markets",
-      "url": "https://www.nbcnews.com/business/markets"
+      "text": "Business News",
+      "url": "https://www.nbcnews.com/business/business-news"
     },
     {
-      "text": "Dow tumbles more than 900 points, Nasdaq drops 4 percent to close out brutal month",
-      "url": "https://www.nbcnews.com/business/markets/dow-tumbles-900-points-nasdaq-drops-4-percent-close-brutal-month-rcna26720"
+      "text": "TurboTax owner to pay $141M to U.S. customers over misleading \u2018free\u2019 ads",
+      "url": "https://www.nbcnews.com/business/business-news/turbotax-owner-pay-141m-us-customers-misleading-free-ads-rcna27312"
     },
     {
-      "text": "Internet",
-      "url": "https://www.nbcnews.com/tech/internet"
+      "text": "Andrew Harrer / Bloomberg via Getty Images file",
+      "url": "https://www.nbcnews.com/business/consumer/roe-v-wade-abortion-tech-companies-respond-to-supreme-court-rcna27167"
     },
     {
-      "text": "What a Joe Rogan Twitter meme says about Elon Musk and his appeal to conservatives",
-      "url": "https://www.nbcnews.com/tech/internet/elon-musk-twitter-meme-joe-rogan-vijaya-gadde-rcna26589"
+      "text": "Abortion Rights",
+      "url": "https://www.nbcnews.com/business/consumer/roe-v-wade-abortion-tech-companies-respond-to-supreme-court-rcna27167"
     },
     {
-      "text": "News",
-      "url": "https://www.nbcnews.com/"
+      "text": "Yelp and Meta's Sandberg respond to draft opinion that would strike down Roe v. Wade",
+      "url": "https://www.nbcnews.com/business/consumer/roe-v-wade-abortion-tech-companies-respond-to-supreme-court-rcna27167"
     },
     {
-      "text": "Experts, lawmakers and Jeff Bezos question Elon Musk's business ties to China",
-      "url": "https://www.nbcnews.com/tech/elon-musks-business-ties-china-draw-scrutiny-twitter-purchase-rcna26057"
+      "text": "Consumer",
+      "url": "https://www.nbcnews.com/business/consumer"
     },
     {
-      "text": "Internet",
-      "url": "https://www.nbcnews.com/tech/internet"
+      "text": "Are travel cards with high annual fees worth the money? ",
+      "url": "https://www.nbcnews.com/business/consumer/are-high-fee-travel-credit-cards-cost-perks-chase-amex-rcna27098"
     },
     {
-      "text": "What a Joe Rogan Twitter meme says about Elon Musk and his appeal to conservatives",
-      "url": "https://www.nbcnews.com/tech/internet/elon-musk-twitter-meme-joe-rogan-vijaya-gadde-rcna26589"
+      "text": "Business News",
+      "url": "https://www.nbcnews.com/business/business-news"
     },
     {
-      "text": "News",
-      "url": "https://www.nbcnews.com/"
+      "text": "Employers posted a record 11.5 million jobs in March",
+      "url": "https://www.nbcnews.com/business/business-news/job-openings-united-states-reach-record-numbers-march-2022-rcna27164"
     },
     {
-      "text": "Experts, lawmakers and Jeff Bezos question Elon Musk's business ties to China",
-      "url": "https://www.nbcnews.com/tech/elon-musks-business-ties-china-draw-scrutiny-twitter-purchase-rcna26057"
+      "text": "Consumer",
+      "url": "https://www.nbcnews.com/business/consumer"
+    },
+    {
+      "text": "Are travel cards with high annual fees worth the money? ",
+      "url": "https://www.nbcnews.com/business/consumer/are-high-fee-travel-credit-cards-cost-perks-chase-amex-rcna27098"
+    },
+    {
+      "text": "Business News",
+      "url": "https://www.nbcnews.com/business/business-news"
+    },
+    {
+      "text": "Employers posted a record 11.5 million jobs in March",
+      "url": "https://www.nbcnews.com/business/business-news/job-openings-united-states-reach-record-numbers-march-2022-rcna27164"
     },
     {
       "text": "",
@@ -7097,56 +7509,80 @@
       "url": "https://www.nbcnews.com/specials/plan-your-vote-2022-elections/index.html"
     },
     {
-      "text": "Liam Daniel / Netflix",
-      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/bridgerton-star-golda-rosheuvel-reveals-lesbian-director-told-stay-clo-rcna26908"
+      "text": "Eric Gay / AP file",
+      "url": "https://www.nbcnews.com/nbc-out/out-health-and-wellness/trans-youths-socially-transition-unlikely-detransition-later-rcna27253"
+    },
+    {
+      "text": "OUT Health and Wellness",
+      "url": "https://www.nbcnews.com/nbc-out/out-health-and-wellness/trans-youths-socially-transition-unlikely-detransition-later-rcna27253"
+    },
+    {
+      "text": "Trans youths who socially transition are unlikely to 'detransition' later, study finds",
+      "url": "https://www.nbcnews.com/nbc-out/out-health-and-wellness/trans-youths-socially-transition-unlikely-detransition-later-rcna27253"
+    },
+    {
+      "text": "Matt Nighswander / NBC News; Marvel Studios; Focus Features; CW",
+      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/mays-must-see-queer-movies-shows-doctor-strange-2-downton-abbey-rcna27074"
     },
     {
       "text": "OUT Pop Culture",
-      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/bridgerton-star-golda-rosheuvel-reveals-lesbian-director-told-stay-clo-rcna26908"
+      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/mays-must-see-queer-movies-shows-doctor-strange-2-downton-abbey-rcna27074"
     },
     {
-      "text": "'Bridgerton' star Golda Rosheuvel reveals a lesbian director once told her to stay in the closet",
-      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/bridgerton-star-golda-rosheuvel-reveals-lesbian-director-told-stay-clo-rcna26908"
+      "text": "A buzzy new Marvel movie and film spinoffs of beloved series: Queer content coming in May",
+      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/mays-must-see-queer-movies-shows-doctor-strange-2-downton-abbey-rcna27074"
     },
     {
-      "text": "Kay Tobin New York Public Library",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/-homosexual-psychiatrist-dr-anonymous-changed-history-rcna26836"
+      "text": "Rich Pedroncelli / AP",
+      "url": "https://www.nbcnews.com/feature/nbc-out/lawmakers-19-states-want-legal-refuge-transgender-youth-n1295068"
     },
     {
-      "text": "OUT News",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/-homosexual-psychiatrist-dr-anonymous-changed-history-rcna26836"
+      "text": "OUT Politics and Policy",
+      "url": "https://www.nbcnews.com/feature/nbc-out/lawmakers-19-states-want-legal-refuge-transgender-youth-n1295068"
     },
     {
-      "text": "Homosexuality was considered a mental disorder \u2014 until one anonymous doctor came out",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/-homosexual-psychiatrist-dr-anonymous-changed-history-rcna26836"
+      "text": "Lawmakers in 19 states want legal refuge for trans youth",
+      "url": "https://www.nbcnews.com/feature/nbc-out/lawmakers-19-states-want-legal-refuge-transgender-youth-n1295068"
     },
     {
       "text": "Rick Rycroft / AP",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/sydney-man-admits-pushing-american-cliff-1988-gay-hate-crime-rcna26866"
+      "url": "https://www.nbcnews.com/news/world/sydney-man-gets-12-years-murdering-gay-american-1988-rcna27047"
     },
     {
-      "text": "OUT News",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/sydney-man-admits-pushing-american-cliff-1988-gay-hate-crime-rcna26866"
+      "text": "World",
+      "url": "https://www.nbcnews.com/world"
     },
     {
-      "text": "Sydney man admits to pushing American off cliff in 1988 gay hate crime",
-      "url": "https://www.nbcnews.com/nbc-out/out-news/sydney-man-admits-pushing-american-cliff-1988-gay-hate-crime-rcna26866"
-    },
-    {
-      "text": "Brett Roedel / Hulu",
-      "url": "https://www.nbcnews.com/news/latino/crush-lgbtq-latina-actress-isabella-ferreira-rcna26323"
-    },
-    {
-      "text": "Culture Matters",
-      "url": "https://www.nbcnews.com/culture-matters"
-    },
-    {
-      "text": "A young Latina actor stars in new queer Hulu high school rom-com",
-      "url": "https://www.nbcnews.com/news/latino/crush-lgbtq-latina-actress-isabella-ferreira-rcna26323"
+      "text": "Sydney man sentenced to 12 years in prison for murdering gay American in 1988",
+      "url": "https://www.nbcnews.com/news/world/sydney-man-gets-12-years-murdering-gay-american-1988-rcna27047"
     },
     {
       "text": "Read More",
       "url": "https://www.nbcnews.com/out"
+    },
+    {
+      "text": "David McNew / Getty Images file",
+      "url": "https://www.nbcnews.com/news/us-news/norman-mineta-pioneering-asian-american-served-2-presidential-cabinets-rcna27211"
+    },
+    {
+      "text": "U.S. news",
+      "url": "https://www.nbcnews.com/us-news"
+    },
+    {
+      "text": "Norman Mineta, pioneering Asian American who served in 2 presidential Cabinets, dies at 90",
+      "url": "https://www.nbcnews.com/news/us-news/norman-mineta-pioneering-asian-american-served-2-presidential-cabinets-rcna27211"
+    },
+    {
+      "text": "Courtesy Greenwich Entertainment",
+      "url": "https://www.nbcnews.com/news/asian-america/film-aims-humanize-working-class-asian-americans-elite-college-dreams-rcna26969"
+    },
+    {
+      "text": "Asian America",
+      "url": "https://www.nbcnews.com/asian-america"
+    },
+    {
+      "text": "Film aims to humanize working-class Asian Americans with elite college dreams",
+      "url": "https://www.nbcnews.com/news/asian-america/film-aims-humanize-working-class-asian-americans-elite-college-dreams-rcna26969"
     },
     {
       "text": "Sophi Miyoko Gullbrants for NBC News",
@@ -7173,30 +7609,6 @@
       "url": "https://www.nbcnews.com/news/asian-america/korean-american-black-conflict-l-riots-was-overemphasized-media-expert-rcna26547"
     },
     {
-      "text": "John Lamparski / Getty Images file",
-      "url": "https://www.nbcnews.com/news/asian-america/asian-americans-overcounted-last-census-experts-say-fact-misleading-rcna26509"
-    },
-    {
-      "text": "Asian America",
-      "url": "https://www.nbcnews.com/asian-america"
-    },
-    {
-      "text": "Asian Americans were overcounted on the last census. Experts say that fact is misleading.",
-      "url": "https://www.nbcnews.com/news/asian-america/asian-americans-overcounted-last-census-experts-say-fact-misleading-rcna26509"
-    },
-    {
-      "text": "Google Maps",
-      "url": "https://www.nbcnews.com/news/asian-america/man-charged-hate-crime-hitting-asian-american-woman-pool-cue-rcna26277"
-    },
-    {
-      "text": "Asian America",
-      "url": "https://www.nbcnews.com/asian-america"
-    },
-    {
-      "text": "Man charged with hate crime after hitting Asian American woman with pool cue",
-      "url": "https://www.nbcnews.com/news/asian-america/man-charged-hate-crime-hitting-asian-american-woman-pool-cue-rcna26277"
-    },
-    {
       "text": "Read More",
       "url": "https://www.nbcnews.com/asianamerica"
     },
@@ -7213,16 +7625,16 @@
       "url": "https://www.nbcnews.com/news/latino/arizona-colorado-latino-voters-warn-democrats-inflation-rcna26903"
     },
     {
-      "text": "Netflix",
-      "url": "https://www.nbcnews.com/news/latino/alfonso-herrera-javi-ozark-final-season-rcna26027"
+      "text": "Courtesy of Planned Parenthood El Paso Health Center",
+      "url": "https://www.nbcnews.com/news/latino/latino-abortion-rights-advocates-warn-dark-roe-v-wade-reversed-rcna27080"
     },
     {
-      "text": "Culture Matters",
-      "url": "https://www.nbcnews.com/culture-matters"
+      "text": "Abortion Rights",
+      "url": "https://www.nbcnews.com/news/latino/latino-abortion-rights-advocates-warn-dark-roe-v-wade-reversed-rcna27080"
     },
     {
-      "text": "Alfonso Herrera, 'Javi' on 'Ozark,' reflects as final season debuts",
-      "url": "https://www.nbcnews.com/news/latino/alfonso-herrera-javi-ozark-final-season-rcna26027"
+      "text": "Latino abortion rights advocates warn of \u2018dark times\u2019 if Roe v. Wade is reversed",
+      "url": "https://www.nbcnews.com/news/latino/latino-abortion-rights-advocates-warn-dark-roe-v-wade-reversed-rcna27080"
     },
     {
       "text": "Brett Roedel / Hulu",
@@ -7253,52 +7665,52 @@
       "url": "https://www.nbcnews.com/latino"
     },
     {
-      "text": "Bettmann Archive / Getty Images",
-      "url": "https://www.nbcnews.com/news/sports/jackie-robinson-star-game-bat-sells-108-million-rcna26880"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.nbcnews.com/news/sports/"
-    },
-    {
-      "text": "Jackie Robinson All-Star Game bat sells for $1.08 million",
-      "url": "https://www.nbcnews.com/news/sports/jackie-robinson-star-game-bat-sells-108-million-rcna26880"
-    },
-    {
-      "text": "Amr Alfiky / AP file",
-      "url": "https://www.nbcnews.com/health/health-news/us-pediatricians-group-moves-abandon-race-based-guidance-rcna26877"
-    },
-    {
-      "text": "Health news",
-      "url": "https://www.nbcnews.com/health/health-news"
-    },
-    {
-      "text": "U.S. pediatricians' group moves to abandon race-based guidance",
-      "url": "https://www.nbcnews.com/health/health-news/us-pediatricians-group-moves-abandon-race-based-guidance-rcna26877"
-    },
-    {
-      "text": "Gary Reyes / Oakland Tribune via Getty Images file",
-      "url": "https://www.nbcnews.com/news/nbcblk/los-angeles-riots-30-years-impact-black-community-rcna26527"
+      "text": "Mike Stewart / AP file",
+      "url": "https://www.nbcnews.com/news/nbcblk/black-doctors-say-face-discrimination-based-race-rcna27085"
     },
     {
       "text": "NBCBLK",
       "url": "https://www.nbcnews.com/nbcblk"
     },
     {
-      "text": "L.A. riots were a 'tipping point' for Black Americans. Is another uprising inevitable?",
-      "url": "https://www.nbcnews.com/news/nbcblk/los-angeles-riots-30-years-impact-black-community-rcna26527"
+      "text": "Black doctors say they face discrimination based on race",
+      "url": "https://www.nbcnews.com/news/nbcblk/black-doctors-say-face-discrimination-based-race-rcna27085"
     },
     {
-      "text": "Photo by Rob Rabena for VISIT PHILLY",
-      "url": "https://www.nbcnews.com/news/us-news/bookstore-owner-working-make-harriet-tubman-day-reality-rcna26333"
+      "text": "Sergio Flores / AFP - Getty Images file",
+      "url": "https://www.nbcnews.com/news/nbcblk/misinformation-may-only-worsen-black-voters-lead-election-experts-warn-rcna26924"
+    },
+    {
+      "text": "NBCBLK",
+      "url": "https://www.nbcnews.com/nbcblk"
+    },
+    {
+      "text": "Misinformation may only worsen for Black voters in lead-up to election, experts warn",
+      "url": "https://www.nbcnews.com/news/nbcblk/misinformation-may-only-worsen-black-voters-lead-election-experts-warn-rcna26924"
+    },
+    {
+      "text": "Alexi Rosenfeld / Getty Images file",
+      "url": "https://www.nbcnews.com/news/nbcblk/black-churches-urged-fight-anti-lgbtq-state-laws-rcna26275"
+    },
+    {
+      "text": "NBCBLK",
+      "url": "https://www.nbcnews.com/nbcblk"
+    },
+    {
+      "text": "Black churches urged to fight anti-LGBTQ state laws",
+      "url": "https://www.nbcnews.com/news/nbcblk/black-churches-urged-fight-anti-lgbtq-state-laws-rcna26275"
+    },
+    {
+      "text": "Doug Hoke / The Oklahoman/USA Today file",
+      "url": "https://www.nbcnews.com/news/us-news/judge-lets-tulsa-race-massacre-reparations-lawsuit-proceed-rcna27041"
     },
     {
       "text": "U.S. news",
       "url": "https://www.nbcnews.com/us-news"
     },
     {
-      "text": "Why a bookstore owner is working to make Harriet Tubman Day a reality",
-      "url": "https://www.nbcnews.com/news/us-news/bookstore-owner-working-make-harriet-tubman-day-reality-rcna26333"
+      "text": "Judge lets Tulsa race massacre reparations lawsuit proceed",
+      "url": "https://www.nbcnews.com/news/us-news/judge-lets-tulsa-race-massacre-reparations-lawsuit-proceed-rcna27041"
     },
     {
       "text": "Read More",
@@ -7309,44 +7721,44 @@
       "url": "https://www.nbcnews.com/select"
     },
     {
-      "text": "PURPLE MARBLES / Alamy Stock Photo",
-      "url": "https://www.nbcnews.com/select/shopping/amazon-prime-benefits-cost-ncna1269672"
+      "text": "Urban Outfitters ; Courtesy Marshall",
+      "url": "https://www.nbcnews.com/select/shopping/new-notable-marshall-mario-badescu-ncna1295069"
     },
     {
-      "text": "What's included in an Amazon Prime membership?",
-      "url": "https://www.nbcnews.com/select/shopping/amazon-prime-benefits-cost-ncna1269672"
+      "text": "Marshall launches its smallest portable speaker",
+      "url": "https://www.nbcnews.com/select/shopping/new-notable-marshall-mario-badescu-ncna1295069"
     },
     {
-      "text": "Uncommon Goods ; Ruggable",
-      "url": "https://www.nbcnews.com/select/shopping/new-notable-ruggable-uncommon-goods-ncna1294913"
+      "text": "Amazon",
+      "url": "https://www.nbcnews.com/select/shopping/april-bestsellers-colgate-roc-best-choice-ncna1295088"
     },
     {
-      "text": "Ruggable launches Plush Rugs in new shapes and sizes",
-      "url": "https://www.nbcnews.com/select/shopping/new-notable-ruggable-uncommon-goods-ncna1294913"
+      "text": "Most purchased products we covered in April",
+      "url": "https://www.nbcnews.com/select/shopping/april-bestsellers-colgate-roc-best-choice-ncna1295088"
     },
     {
-      "text": "Moon ; Burts Bees ; Target",
-      "url": "https://www.nbcnews.com/select/shopping/best-whitening-toothpaste-ncna1294908"
+      "text": "NoDerog / Getty Images ; Super Arbor",
+      "url": "https://www.nbcnews.com/select/shopping/best-riding-lawn-mower-ncna1279728"
     },
     {
-      "text": "The best whitening toothpastes",
-      "url": "https://www.nbcnews.com/select/shopping/best-whitening-toothpaste-ncna1294908"
+      "text": "Is a riding lawn mower worth it?",
+      "url": "https://www.nbcnews.com/select/shopping/best-riding-lawn-mower-ncna1279728"
     },
     {
-      "text": "TommL / Getty Images",
-      "url": "https://www.nbcnews.com/select/shopping/best-weeding-tools-ncna1270810"
+      "text": "Anna Ostanina / EyeEm / Getty Images ; Nixplay ; Apple ; Amazon",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-mom-approved-ncna1295009"
     },
     {
-      "text": "Why gardeners weed \u2014 and the best tools for doing so",
-      "url": "https://www.nbcnews.com/select/shopping/best-weeding-tools-ncna1270810"
+      "text": "Mom-approved Mother's Day gift ideas",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-mom-approved-ncna1295009"
     },
     {
-      "text": "Anchiy / Getty Images",
-      "url": "https://www.nbcnews.com/select/shopping/amazon-prime-day-2022-ncna1294520"
+      "text": "Amazon",
+      "url": "https://www.nbcnews.com/select/shopping/april-favorites-most-purchased-ncna1265928"
     },
     {
-      "text": "What we know about Prime Day 2022 so far",
-      "url": "https://www.nbcnews.com/select/shopping/amazon-prime-day-2022-ncna1294520"
+      "text": "Most purchased products we covered in April",
+      "url": "https://www.nbcnews.com/select/shopping/april-favorites-most-purchased-ncna1265928"
     },
     {
       "text": "evgenyatamanenko / Getty Images",
@@ -7357,14 +7769,6 @@
       "url": "https://www.nbcnews.com/select/shopping/best-mothers-day-gifts-ncna1191186"
     },
     {
-      "text": "filadendron / Getty Images ; The Bouqs Co. ; Plants.com ; Bloomscape",
-      "url": "https://www.nbcnews.com/select/shopping/mothers-day-flowers-ncna1294595"
-    },
-    {
-      "text": "Best Mother's Day flower and plant arrangements ",
-      "url": "https://www.nbcnews.com/select/shopping/mothers-day-flowers-ncna1294595"
-    },
-    {
       "text": "Bearby ; Nixplay ; Hypervolt ; William Sonoma ; Amazon",
       "url": "https://www.nbcnews.com/select/shopping/unique-mothers-day-gifts-unique-moms-ncna1188026"
     },
@@ -7373,12 +7777,60 @@
       "url": "https://www.nbcnews.com/select/shopping/unique-mothers-day-gifts-unique-moms-ncna1188026"
     },
     {
-      "text": "Baggu ; Vitruvi ; Uncommon Goods ; Parachute",
-      "url": "https://www.nbcnews.com/select/shopping/best-mothers-day-gifts-grandma-ncna1294534"
+      "text": "Amazon",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-amazon-ncna1294929"
     },
     {
-      "text": "Mother's Day gifts for grandma",
-      "url": "https://www.nbcnews.com/select/shopping/best-mothers-day-gifts-grandma-ncna1294534"
+      "text": "Our favorite Mother's Day gifts on Amazon",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-amazon-ncna1294929"
+    },
+    {
+      "text": "Outdoor Voices ; Amazon",
+      "url": "https://www.nbcnews.com/select/shopping/last-minute-gifts-mom-ncna1294879"
+    },
+    {
+      "text": "Last-minute Mother's Day gifts that will arrive on time",
+      "url": "https://www.nbcnews.com/select/shopping/last-minute-gifts-mom-ncna1294879"
+    },
+    {
+      "text": "Hedley & Bennett ; Our Place ; Rifle Paper Co. ; Great Jones",
+      "url": "https://www.nbcnews.com/select/shopping/kitchen-cooking-gifts-mom-ncna1294776"
+    },
+    {
+      "text": "Best Mother's Day cooking gifts",
+      "url": "https://www.nbcnews.com/select/shopping/kitchen-cooking-gifts-mom-ncna1294776"
+    },
+    {
+      "text": "Amazon",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-amazon-ncna1264840"
+    },
+    {
+      "text": "Our favorite Mother's Day gifts on Amazon",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gifts-amazon-ncna1264840"
+    },
+    {
+      "text": "Earth Love ; Book of the Month",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-subscription-box-ncna1265475"
+    },
+    {
+      "text": "Subscription boxes for Mother's Day",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-subscription-box-ncna1265475"
+    },
+    {
+      "text": "Hickory Farms ; Food52",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gift-baskets-ncna1294694"
+    },
+    {
+      "text": "Best Mother's Day gift baskets",
+      "url": "https://www.nbcnews.com/select/shopping/mothers-day-gift-baskets-ncna1294694"
+    },
+    {
+      "text": "Brian Finke",
+      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-drip-coffee-makers-ncna1292619"
+    },
+    {
+      "text": "Best drip coffee makers, according to Consumer Reports",
+      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-drip-coffee-makers-ncna1292619"
     },
     {
       "text": "Getty Images",
@@ -7389,52 +7841,72 @@
       "url": "https://www.nbcnews.com/select/shopping/consumer-reports-foam-mattresses-ncna1291463"
     },
     {
-      "text": "Bose",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-soundbars-ncna1293099"
-    },
-    {
-      "text": "Best soundbars at every price, according to Consumer Reports",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-soundbars-ncna1293099"
-    },
-    {
-      "text": "Getty Images",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-dutch-ovens-ncna1291642"
-    },
-    {
-      "text": "The best dutch ovens, according to Consumer Reports",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-dutch-ovens-ncna1291642"
-    },
-    {
-      "text": "iStock",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-noise-canceling-headphones-ncna1292895"
-    },
-    {
-      "text": "Best noise-canceling headphones, according to Consumer Reports",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-noise-canceling-headphones-ncna1292895"
-    },
-    {
-      "text": "Getty Images",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-dishwasher-detergents-ncna1292609"
-    },
-    {
-      "text": "Consumer Reports: Best dishwasher detergents",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-dishwasher-detergents-ncna1292609"
-    },
-    {
-      "text": "iStock",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-coffee-makers-ncna1292902"
-    },
-    {
-      "text": "Consumer Reports: Best coffee makers of 2022",
-      "url": "https://www.nbcnews.com/select/shopping/consumer-reports-coffee-makers-ncna1292902"
-    },
-    {
       "text": "Science",
       "url": "https://www.nbcnews.com/science/"
     },
     {
-      "text": "",
-      "url": "https://www.nbcnews.com/news/us-news/earthship-homes-made-old-cans-bottles-tires-are-rediscovered-rcna26751"
+      "text": "RJ Sangosti / Denver Post via Getty Images file",
+      "url": "https://www.nbcnews.com/science/environment/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-rcna27335"
+    },
+    {
+      "text": "Climate in Crisis",
+      "url": "https://www.nbcnews.com/climate-in-crisis"
+    },
+    {
+      "text": "U.S. takes unprecedented steps to replenish Colorado River\u2019s Lake Powell",
+      "url": "https://www.nbcnews.com/science/environment/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-rcna27335"
+    },
+    {
+      "text": "David Degner / Getty Images",
+      "url": "https://www.nbcnews.com/science/innovation/scientists-want-use-cosmic-rays-map-great-pyramid-gizas-secrets-rcna24839"
+    },
+    {
+      "text": "Innovation",
+      "url": "https://www.nbcnews.com/science/innovation/scientists-want-use-cosmic-rays-map-great-pyramid-gizas-secrets-rcna24839"
+    },
+    {
+      "text": "Scientists want to develop a telescope to 'see' inside Egypt's Great Pyramid of Giza",
+      "url": "https://www.nbcnews.com/science/innovation/scientists-want-use-cosmic-rays-map-great-pyramid-gizas-secrets-rcna24839"
+    },
+    {
+      "text": "Alan Cressler / Antiquity Journal",
+      "url": "https://www.nbcnews.com/science/science-news/americas-largest-cave-figures-discovered-alabama-rcna26203"
+    },
+    {
+      "text": "Science News",
+      "url": "https://www.nbcnews.com/science/science-news"
+    },
+    {
+      "text": "In a secret Alabama cave, 1,000-year-old carvings thought to be largest discovered in U.S.",
+      "url": "https://www.nbcnews.com/science/science-news/americas-largest-cave-figures-discovered-alabama-rcna26203"
+    },
+    {
+      "text": "Manish Swarup / AP",
+      "url": "https://www.nbcnews.com/science/environment/india-heat-wave-sparks-blackouts-stokes-questions-coal-use-rcna27052"
+    },
+    {
+      "text": "Climate in Crisis",
+      "url": "https://www.nbcnews.com/climate-in-crisis"
+    },
+    {
+      "text": "Heat wave sparks blackouts, questions on India\u2019s coal usage",
+      "url": "https://www.nbcnews.com/science/environment/india-heat-wave-sparks-blackouts-stokes-questions-coal-use-rcna27052"
+    },
+    {
+      "text": "Space",
+      "url": "https://www.nbcnews.com/science/space"
+    },
+    {
+      "text": "New Zealand rocket caught but then dropped by helicopter",
+      "url": "https://www.nbcnews.com/science/space/new-zealand-rocket-caught-dropped-helicopter-rcna27051"
+    },
+    {
+      "text": "Russia-Ukraine Conflict",
+      "url": "https://www.nbcnews.com/world/russia-ukraine-news"
+    },
+    {
+      "text": "Watching from space, satellites collect evidence of war crimes",
+      "url": "https://www.nbcnews.com/science/science-news/ukraine-satellites-war-crimes-rcna26291"
     },
     {
       "text": "Climate in Crisis",
@@ -7445,296 +7917,176 @@
       "url": "https://www.nbcnews.com/news/us-news/earthship-homes-made-old-cans-bottles-tires-are-rediscovered-rcna26751"
     },
     {
-      "text": "",
-      "url": "https://www.nbcnews.com/news/us-news/earthship-homes-made-old-cans-bottles-tires-are-rediscovered-rcna26091"
-    },
-    {
-      "text": "Climate in Crisis",
-      "url": "https://www.nbcnews.com/climate-in-crisis"
-    },
-    {
-      "text": "'Earthship' homes made from old cans, bottles and tires are being rediscovered",
-      "url": "https://www.nbcnews.com/news/us-news/earthship-homes-made-old-cans-bottles-tires-are-rediscovered-rcna26091"
-    },
-    {
-      "text": "Reinhard Dirscherl / ullstein bild via Getty Images",
-      "url": "https://www.nbcnews.com/science/environment/sea-urchins-are-mysteriously-dying-caribbean-scientists-say-rcna25424"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.nbcnews.com/science/environment"
-    },
-    {
-      "text": "'It's extremely unusual': Scientists left puzzled as sea urchins die-off across the Caribbean",
-      "url": "https://www.nbcnews.com/science/environment/sea-urchins-are-mysteriously-dying-caribbean-scientists-say-rcna25424"
-    },
-    {
-      "text": "Rosi Roth / University of Zurich",
-      "url": "https://www.nbcnews.com/science/science-news/tooth-marine-reptile-found-alps-may-largest-kind-rcna26464"
-    },
-    {
-      "text": "Science News",
-      "url": "https://www.nbcnews.com/science/science-news"
-    },
-    {
-      "text": "Tooth from ancient marine reptile found in Swiss Alps may be largest of its kind",
-      "url": "https://www.nbcnews.com/science/science-news/tooth-marine-reptile-found-alps-may-largest-kind-rcna26464"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.nbcnews.com/science/environment"
-    },
-    {
-      "text": "Ocean life projected to die off in mass extinction if emissions remain high",
-      "url": "https://www.nbcnews.com/science/environment/ocean-life-mass-extinction-emissions-high-rcna26295"
-    },
-    {
-      "text": "Science News",
-      "url": "https://www.nbcnews.com/science/science-news"
-    },
-    {
-      "text": "Don't judge a dog by its cover: New research gives insight into canine behavior",
-      "url": "https://www.nbcnews.com/science/science-news/breed-not-good-predictor-individual-dog-behavior-study-finds-rcna25990"
-    },
-    {
-      "text": "Space",
-      "url": "https://www.nbcnews.com/science/space"
-    },
-    {
-      "text": "Could key ingredients for life have arrived from space? Scientists say yes",
-      "url": "https://www.nbcnews.com/science/space/key-ingredients-life-arrived-space-scientists-say-yes-rcna26400"
-    },
-    {
-      "text": "Taonga: The Island Farm",
-      "url": "https://taongafarm.com/en/landings/gp/28?ref=W_280422_US_Click_Image_WL&mng=VK&utm_source=taboola&utm_campaign=W_280422_US_Click_Image_WL&utm_term=1010748_nbcnews&utm_content=3370913735#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDJpEco9oHg5a-T8sGyAQ"
-    },
-    {
-      "text": "Taonga: The Island Farm / ",
-      "url": "https://taongafarm.com/en/landings/gp/28?ref=W_280422_US_Click_Image_WL&mng=VK&utm_source=taboola&utm_campaign=W_280422_US_Click_Image_WL&utm_term=1010748_nbcnews&utm_content=3370913735#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDJpEco9oHg5a-T8sGyAQ"
-    },
-    {
-      "text": "",
-      "url": "https://taongafarm.com/en/landings/gp/28?ref=W_280422_US_Click_Image_WL&mng=VK&utm_source=taboola&utm_campaign=W_280422_US_Click_Image_WL&utm_term=1010748_nbcnews&utm_content=3370913735#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDJpEco9oHg5a-T8sGyAQ"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
-    },
-    {
-      "text": "EYEBROW MICROBLADING PEN",
-      "url": "https://www.honners.com/products/eyebrow-microblading-pen%F0%9F%8C%B8buy-1-get-1-free%F0%9F%8C%B8?utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCXqlgogYXZkNWf3-RN#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCXqlgogYXZkNWf3-RN"
-    },
-    {
-      "text": "EYEBROW MICROBLADING PEN / ",
-      "url": "https://www.honners.com/products/eyebrow-microblading-pen%F0%9F%8C%B8buy-1-get-1-free%F0%9F%8C%B8?utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCXqlgogYXZkNWf3-RN#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCXqlgogYXZkNWf3-RN"
-    },
-    {
-      "text": "",
-      "url": "https://www.honners.com/products/eyebrow-microblading-pen%F0%9F%8C%B8buy-1-get-1-free%F0%9F%8C%B8?utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCXqlgogYXZkNWf3-RN#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCXqlgogYXZkNWf3-RN"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
-    },
-    {
-      "text": "Bombas",
-      "url": "https://bombas.com/collections/mickey-and-friends?utm_source=taboola&utm_medium=native&utm_campaign=cf_acq-bt_core-cp_sock-ca_core-disney-desktop&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCci0Ao9pf1tPfO05fCAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCci0Ao9pf1tPfO05fCAQ"
-    },
-    {
-      "text": "Bombas / ",
-      "url": "https://bombas.com/collections/mickey-and-friends?utm_source=taboola&utm_medium=native&utm_campaign=cf_acq-bt_core-cp_sock-ca_core-disney-desktop&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCci0Ao9pf1tPfO05fCAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCci0Ao9pf1tPfO05fCAQ"
-    },
-    {
-      "text": "",
-      "url": "https://bombas.com/collections/mickey-and-friends?utm_source=taboola&utm_medium=native&utm_campaign=cf_acq-bt_core-cp_sock-ca_core-disney-desktop&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCci0Ao9pf1tPfO05fCAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCci0Ao9pf1tPfO05fCAQ"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "SmileDirectClub ",
-      "url": "https://smiledirectclub.com/smile_assessment/?utm_source=taboola&utm_medium=native&utm_campaign=16874685&utm_term=See+Results+In+As+Little+As+60+Days&utm_content=nbcnews&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCrllIox-OVtK6U2f_1AQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCrllIox-OVtK6U2f_1AQ"
-    },
-    {
-      "text": "SmileDirectClub  / ",
-      "url": "https://smiledirectclub.com/smile_assessment/?utm_source=taboola&utm_medium=native&utm_campaign=16874685&utm_term=See+Results+In+As+Little+As+60+Days&utm_content=nbcnews&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCrllIox-OVtK6U2f_1AQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCrllIox-OVtK6U2f_1AQ"
-    },
-    {
-      "text": "",
-      "url": "https://smiledirectclub.com/smile_assessment/?utm_source=taboola&utm_medium=native&utm_campaign=16874685&utm_term=See+Results+In+As+Little+As+60+Days&utm_content=nbcnews&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCrllIox-OVtK6U2f_1AQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCrllIox-OVtK6U2f_1AQ"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "DailyDime",
-      "url": "https://go.dailydime.net/98e62d21-3cdc-448b-8519-4b5e8dd37a91?site=nbcnews&site_id=1010748&title=This+Dad+Zapped+10%2C000+Mosquitoes+Overnight+Using+This+Simple+Trick&platform=Desktop&campaign_id=18209873&campaign_item_id=3389256548&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3598ded97a30da86ee027ee165802d0d.png&click_id=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCf4lgoob_R9Mq-v_TFAQ&utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCf4lgoob_R9Mq-v_TFAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCf4lgoob_R9Mq-v_TFAQ"
-    },
-    {
-      "text": "DailyDime / ",
-      "url": "https://go.dailydime.net/98e62d21-3cdc-448b-8519-4b5e8dd37a91?site=nbcnews&site_id=1010748&title=This+Dad+Zapped+10%2C000+Mosquitoes+Overnight+Using+This+Simple+Trick&platform=Desktop&campaign_id=18209873&campaign_item_id=3389256548&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3598ded97a30da86ee027ee165802d0d.png&click_id=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCf4lgoob_R9Mq-v_TFAQ&utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCf4lgoob_R9Mq-v_TFAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCf4lgoob_R9Mq-v_TFAQ"
-    },
-    {
-      "text": "",
-      "url": "https://go.dailydime.net/98e62d21-3cdc-448b-8519-4b5e8dd37a91?site=nbcnews&site_id=1010748&title=This+Dad+Zapped+10%2C000+Mosquitoes+Overnight+Using+This+Simple+Trick&platform=Desktop&campaign_id=18209873&campaign_item_id=3389256548&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3598ded97a30da86ee027ee165802d0d.png&click_id=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCf4lgoob_R9Mq-v_TFAQ&utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCf4lgoob_R9Mq-v_TFAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCf4lgoob_R9Mq-v_TFAQ"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "Capital One Shopping",
-      "url": "https://capitaloneshopping.com/blog/before-you-renew-prime-read-this-1b5628d389b2?hno=true&utm_source=jaguar11&utm_campaign=11852372&utm_term=3052057252&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDR3kAo_eif0ZjNrot1#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDR3kAo_eif0ZjNrot1"
-    },
-    {
-      "text": "Capital One Shopping / ",
-      "url": "https://capitaloneshopping.com/blog/before-you-renew-prime-read-this-1b5628d389b2?hno=true&utm_source=jaguar11&utm_campaign=11852372&utm_term=3052057252&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDR3kAo_eif0ZjNrot1#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDR3kAo_eif0ZjNrot1"
-    },
-    {
-      "text": "",
-      "url": "https://capitaloneshopping.com/blog/before-you-renew-prime-read-this-1b5628d389b2?hno=true&utm_source=jaguar11&utm_campaign=11852372&utm_term=3052057252&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDR3kAo_eif0ZjNrot1#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDR3kAo_eif0ZjNrot1"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "2022 Toyota Highlander | Search Ads",
-      "url": "https://bestsearchnow.com/index.php?rgid=253740& gclid=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDClVgogI70uaW80LLHAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDClVgogI70uaW80LLHAQ"
-    },
-    {
-      "text": "2022 Toyota Highlander | Search Ads / ",
-      "url": "https://bestsearchnow.com/index.php?rgid=253740& gclid=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDClVgogI70uaW80LLHAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDClVgogI70uaW80LLHAQ"
-    },
-    {
-      "text": "",
-      "url": "https://bestsearchnow.com/index.php?rgid=253740& gclid=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDClVgogI70uaW80LLHAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDClVgogI70uaW80LLHAQ"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
-    },
-    {
-      "text": "Try Green Salt",
-      "url": "https://www.trygreensalt.com/?utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDD6lUooeLxyeyom5EU#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDD6lUooeLxyeyom5EU"
-    },
-    {
-      "text": "Try Green Salt / ",
-      "url": "https://www.trygreensalt.com/?utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDD6lUooeLxyeyom5EU#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDD6lUooeLxyeyom5EU"
-    },
-    {
-      "text": "",
-      "url": "https://www.trygreensalt.com/?utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDD6lUooeLxyeyom5EU#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDD6lUooeLxyeyom5EU"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
-    },
-    {
-      "text": "NewTech",
-      "url": "https://ac.2022gadgets.com/?site=nbcnews&site_id=1010748&title=Refrigerate+A+Room+in+2+Minutes&platform=Desktop&campaign_id=17540732&campaign_item_id=3219281858&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F798d6c284bdc52996f65becf96f920f6.png&click_id=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCtnFgomP33vLrD97IG&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCtnFgomP33vLrD97IG#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCtnFgomP33vLrD97IG"
-    },
-    {
-      "text": "NewTech / ",
-      "url": "https://ac.2022gadgets.com/?site=nbcnews&site_id=1010748&title=Refrigerate+A+Room+in+2+Minutes&platform=Desktop&campaign_id=17540732&campaign_item_id=3219281858&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F798d6c284bdc52996f65becf96f920f6.png&click_id=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCtnFgomP33vLrD97IG&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCtnFgomP33vLrD97IG#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCtnFgomP33vLrD97IG"
-    },
-    {
-      "text": "",
-      "url": "https://ac.2022gadgets.com/?site=nbcnews&site_id=1010748&title=Refrigerate+A+Room+in+2+Minutes&platform=Desktop&campaign_id=17540732&campaign_item_id=3219281858&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F798d6c284bdc52996f65becf96f920f6.png&click_id=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCtnFgomP33vLrD97IG&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCtnFgomP33vLrD97IG#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCtnFgomP33vLrD97IG"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
       "text": "Particle for Men",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcnews#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc4Ekow-rCsvzfsLF5"
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcnews#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCc4Eko0_2isqS92veYAQ"
     },
     {
       "text": "Particle for Men / ",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcnews#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc4Ekow-rCsvzfsLF5"
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcnews#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCc4Eko0_2isqS92veYAQ"
     },
     {
       "text": "",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcnews#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc4Ekow-rCsvzfsLF5"
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcnews#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCc4Eko0_2isqS92veYAQ"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
     },
     {
-      "text": "EarthBreeze",
-      "url": "https://www.earthbreeze.com/pages/try-it-for-free?utm_content=99af63&nb_platform=taboola&nb_sid=1010748&nb_cid=17595486&nb_ciid=3233924928&nb_device=Desktop&nb_cpc={cpc}&utm_source=taboola&utm_medium=nbcnews&utm_campaign=Taboola_Desktop_US_FreeTrial2\n&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCgxFIo5IyHv8Gt3c26AQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCgxFIo5IyHv8Gt3c26AQ"
+      "text": "thepennyhoarder.com",
+      "url": "https://partners.thepennyhoarder.com/when-money-is-tight-desktop/?aff_id=5&utm_source=taboola&utm_medium=paidnative&aff_sub3=when-money-is-tight-desktop&aff_unique1=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCPoj0oiPWFp_b2vI2BAQ&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCPoj0oiPWFp_b2vI2BAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCPoj0oiPWFp_b2vI2BAQ"
     },
     {
-      "text": "EarthBreeze / ",
-      "url": "https://www.earthbreeze.com/pages/try-it-for-free?utm_content=99af63&nb_platform=taboola&nb_sid=1010748&nb_cid=17595486&nb_ciid=3233924928&nb_device=Desktop&nb_cpc={cpc}&utm_source=taboola&utm_medium=nbcnews&utm_campaign=Taboola_Desktop_US_FreeTrial2\n&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCgxFIo5IyHv8Gt3c26AQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCgxFIo5IyHv8Gt3c26AQ"
+      "text": "thepennyhoarder.com / ",
+      "url": "https://partners.thepennyhoarder.com/when-money-is-tight-desktop/?aff_id=5&utm_source=taboola&utm_medium=paidnative&aff_sub3=when-money-is-tight-desktop&aff_unique1=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCPoj0oiPWFp_b2vI2BAQ&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCPoj0oiPWFp_b2vI2BAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCPoj0oiPWFp_b2vI2BAQ"
     },
     {
       "text": "",
-      "url": "https://www.earthbreeze.com/pages/try-it-for-free?utm_content=99af63&nb_platform=taboola&nb_sid=1010748&nb_cid=17595486&nb_ciid=3233924928&nb_device=Desktop&nb_cpc={cpc}&utm_source=taboola&utm_medium=nbcnews&utm_campaign=Taboola_Desktop_US_FreeTrial2\n&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCgxFIo5IyHv8Gt3c26AQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCgxFIo5IyHv8Gt3c26AQ"
+      "url": "https://partners.thepennyhoarder.com/when-money-is-tight-desktop/?aff_id=5&utm_source=taboola&utm_medium=paidnative&aff_sub3=when-money-is-tight-desktop&aff_unique1=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCPoj0oiPWFp_b2vI2BAQ&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCPoj0oiPWFp_b2vI2BAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCPoj0oiPWFp_b2vI2BAQ"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
+    },
+    {
+      "text": "Capital One Shopping",
+      "url": "https://capitaloneshopping.com/blog/before-you-renew-prime-read-this-1b5628d389b2?hno=true&utm_source=jaguar11&utm_campaign=11852372&utm_term=3052057223&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDR3kAoxtW4tIbcnuiUAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDR3kAoxtW4tIbcnuiUAQ"
+    },
+    {
+      "text": "Capital One Shopping / ",
+      "url": "https://capitaloneshopping.com/blog/before-you-renew-prime-read-this-1b5628d389b2?hno=true&utm_source=jaguar11&utm_campaign=11852372&utm_term=3052057223&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDR3kAoxtW4tIbcnuiUAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDR3kAoxtW4tIbcnuiUAQ"
+    },
+    {
+      "text": "",
+      "url": "https://capitaloneshopping.com/blog/before-you-renew-prime-read-this-1b5628d389b2?hno=true&utm_source=jaguar11&utm_campaign=11852372&utm_term=3052057223&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDR3kAoxtW4tIbcnuiUAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDR3kAoxtW4tIbcnuiUAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "NewTech",
+      "url": "https://ac.2022gadgets.com/?site=nbcnews&site_id=1010748&title=Refrigerate+A+Room+in+2+Minutes&platform=Desktop&campaign_id=17540732&campaign_item_id=3219281853&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fb8e441010a17e73a71da2ce13007f47b.jpg&click_id=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCtnFgovMyAs62O8o5d&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCtnFgovMyAs62O8o5d#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCtnFgovMyAs62O8o5d"
+    },
+    {
+      "text": "NewTech / ",
+      "url": "https://ac.2022gadgets.com/?site=nbcnews&site_id=1010748&title=Refrigerate+A+Room+in+2+Minutes&platform=Desktop&campaign_id=17540732&campaign_item_id=3219281853&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fb8e441010a17e73a71da2ce13007f47b.jpg&click_id=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCtnFgovMyAs62O8o5d&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCtnFgovMyAs62O8o5d#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCtnFgovMyAs62O8o5d"
+    },
+    {
+      "text": "",
+      "url": "https://ac.2022gadgets.com/?site=nbcnews&site_id=1010748&title=Refrigerate+A+Room+in+2+Minutes&platform=Desktop&campaign_id=17540732&campaign_item_id=3219281853&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fb8e441010a17e73a71da2ce13007f47b.jpg&click_id=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCtnFgovMyAs62O8o5d&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCtnFgovMyAs62O8o5d#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCtnFgovMyAs62O8o5d"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "grishay",
+      "url": "https://tick.busterry.com/2b4e59ce-04dc-409b-a00f-a029b52ba014?site=nbcnews&site_id=1010748&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&platform=Desktop&campaign_id=18038476&campaign_item_id=3360011253&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F809ef4c171300e4ad039ec28b567dbfc.jpg&campaign_name=best+seller_us_pc_20220422_devin_shopline&utm_campaign=best+seller_us_pc_20220422_devin_shopline&utm_medium=1010748&click_id=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCatVgo0rSXyOCbvsWTAQ&utm_source=taboola&utm_medium=1010748&utm_campaign=best+seller_us_pc_20220422_devin_shopline&utm_content=3360011253&utm_term=18038476&sitedomain=nbcnews.com&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCatVgo0rSXyOCbvsWTAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCatVgo0rSXyOCbvsWTAQ"
+    },
+    {
+      "text": "grishay / ",
+      "url": "https://tick.busterry.com/2b4e59ce-04dc-409b-a00f-a029b52ba014?site=nbcnews&site_id=1010748&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&platform=Desktop&campaign_id=18038476&campaign_item_id=3360011253&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F809ef4c171300e4ad039ec28b567dbfc.jpg&campaign_name=best+seller_us_pc_20220422_devin_shopline&utm_campaign=best+seller_us_pc_20220422_devin_shopline&utm_medium=1010748&click_id=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCatVgo0rSXyOCbvsWTAQ&utm_source=taboola&utm_medium=1010748&utm_campaign=best+seller_us_pc_20220422_devin_shopline&utm_content=3360011253&utm_term=18038476&sitedomain=nbcnews.com&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCatVgo0rSXyOCbvsWTAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCatVgo0rSXyOCbvsWTAQ"
+    },
+    {
+      "text": "",
+      "url": "https://tick.busterry.com/2b4e59ce-04dc-409b-a00f-a029b52ba014?site=nbcnews&site_id=1010748&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&platform=Desktop&campaign_id=18038476&campaign_item_id=3360011253&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F809ef4c171300e4ad039ec28b567dbfc.jpg&campaign_name=best+seller_us_pc_20220422_devin_shopline&utm_campaign=best+seller_us_pc_20220422_devin_shopline&utm_medium=1010748&click_id=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCatVgo0rSXyOCbvsWTAQ&utm_source=taboola&utm_medium=1010748&utm_campaign=best+seller_us_pc_20220422_devin_shopline&utm_content=3360011253&utm_term=18038476&sitedomain=nbcnews.com&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCatVgo0rSXyOCbvsWTAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCatVgo0rSXyOCbvsWTAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "Try Green Salt",
+      "url": "https://www.trygreensalt.com/?utm_source=taboola&utm_medium=referral&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDD6lUo_J_51pqV-JrhAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDD6lUo_J_51pqV-JrhAQ"
+    },
+    {
+      "text": "Try Green Salt / ",
+      "url": "https://www.trygreensalt.com/?utm_source=taboola&utm_medium=referral&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDD6lUo_J_51pqV-JrhAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDD6lUo_J_51pqV-JrhAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.trygreensalt.com/?utm_source=taboola&utm_medium=referral&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDD6lUo_J_51pqV-JrhAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDD6lUo_J_51pqV-JrhAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
     },
     {
       "text": "SUV Deals | Search Ads",
-      "url": "https://mysearches.net/index.php?rgid=184185&sub=nbcnews#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCjxUIoxOTIurnqr-tq"
+      "url": "https://mysearches.net/index.php?rgid=184185&sub=nbcnews#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCjxUIopIHi3Zzf2LCeAQ"
     },
     {
       "text": "SUV Deals | Search Ads / ",
-      "url": "https://mysearches.net/index.php?rgid=184185&sub=nbcnews#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCjxUIoxOTIurnqr-tq"
+      "url": "https://mysearches.net/index.php?rgid=184185&sub=nbcnews#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCjxUIopIHi3Zzf2LCeAQ"
     },
     {
       "text": "",
-      "url": "https://mysearches.net/index.php?rgid=184185&sub=nbcnews#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCjxUIoxOTIurnqr-tq"
+      "url": "https://mysearches.net/index.php?rgid=184185&sub=nbcnews#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCjxUIopIHi3Zzf2LCeAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "Apartments.com",
+      "url": "https://www.apartments.com/?utm_source=taboola&utm_medium=display&utm_campaign=native%20prospecting&utm_content=nbcnews.com&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDZslco_uLni-fegbsM#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDZslco_uLni-fegbsM"
+    },
+    {
+      "text": "Apartments.com / ",
+      "url": "https://www.apartments.com/?utm_source=taboola&utm_medium=display&utm_campaign=native%20prospecting&utm_content=nbcnews.com&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDZslco_uLni-fegbsM#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDZslco_uLni-fegbsM"
+    },
+    {
+      "text": "",
+      "url": "https://www.apartments.com/?utm_source=taboola&utm_medium=display&utm_campaign=native%20prospecting&utm_content=nbcnews.com&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDZslco_uLni-fegbsM#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDZslco_uLni-fegbsM"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "Antoniglobal",
+      "url": "https://www.antoniglobal.com/products/walking-shoes?utm_source=taboola&utm_medium=referral&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCxqlgoqJW-2Z3hyJEQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCxqlgoqJW-2Z3hyJEQ"
+    },
+    {
+      "text": "Antoniglobal / ",
+      "url": "https://www.antoniglobal.com/products/walking-shoes?utm_source=taboola&utm_medium=referral&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCxqlgoqJW-2Z3hyJEQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCxqlgoqJW-2Z3hyJEQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.antoniglobal.com/products/walking-shoes?utm_source=taboola&utm_medium=referral&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCxqlgoqJW-2Z3hyJEQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCxqlgoqJW-2Z3hyJEQ"
     },
     {
       "text": "SPONSORED",
@@ -7745,16 +8097,76 @@
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
     },
     {
-      "text": "Comparisons.org",
-      "url": "https://articles.comparisons.org/go/61fba8b0d0ad7a09a74ce1f3?aff=1169&sub=11_Auto_Insurance_Desk_TCPA&aux=Auto_Insurance&xcode=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc6T0o3_3c9YrEvaeTAQ&aff_unique3=7224453&pub=1010748_nbcnews&aff_unique5=3106205265&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc6T0o3_3c9YrEvaeTAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc6T0o3_3c9YrEvaeTAQ"
+      "text": "Used Car Deals | Search Ads",
+      "url": "https://mysearches.net/index.php?rgid=243521&sub=nbcnews#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCjxUIo5-2jwOXbk5Jc"
     },
     {
-      "text": "Comparisons.org / ",
-      "url": "https://articles.comparisons.org/go/61fba8b0d0ad7a09a74ce1f3?aff=1169&sub=11_Auto_Insurance_Desk_TCPA&aux=Auto_Insurance&xcode=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc6T0o3_3c9YrEvaeTAQ&aff_unique3=7224453&pub=1010748_nbcnews&aff_unique5=3106205265&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc6T0o3_3c9YrEvaeTAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc6T0o3_3c9YrEvaeTAQ"
+      "text": "Used Car Deals | Search Ads / ",
+      "url": "https://mysearches.net/index.php?rgid=243521&sub=nbcnews#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCjxUIo5-2jwOXbk5Jc"
     },
     {
       "text": "",
-      "url": "https://articles.comparisons.org/go/61fba8b0d0ad7a09a74ce1f3?aff=1169&sub=11_Auto_Insurance_Desk_TCPA&aux=Auto_Insurance&xcode=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc6T0o3_3c9YrEvaeTAQ&aff_unique3=7224453&pub=1010748_nbcnews&aff_unique5=3106205265&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc6T0o3_3c9YrEvaeTAQ#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyCc6T0o3_3c9YrEvaeTAQ"
+      "url": "https://mysearches.net/index.php?rgid=243521&sub=nbcnews#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCjxUIo5-2jwOXbk5Jc"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "2022 SUV Guide | Search Ads",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDO51cogvLxgevKmPoO#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDO51cogvLxgevKmPoO"
+    },
+    {
+      "text": "2022 SUV Guide | Search Ads / ",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDO51cogvLxgevKmPoO#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDO51cogvLxgevKmPoO"
+    },
+    {
+      "text": "",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDO51cogvLxgevKmPoO#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDO51cogvLxgevKmPoO"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "Stair Lifts | Search Ads",
+      "url": "https://social.pubiq.com/126eea0a-5f71-4b5c-ab84-16145a042cb8?subid1=nbcnews&subid2=17643541&subid3=3253713328&adtitle=Rethink+Mobility+with+New+Mobile+Stair+Lifts+-+No+Installation+Required%21&cid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDv5VQouIfmuMmwzv_sAQ&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDv5VQouIfmuMmwzv_sAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDv5VQouIfmuMmwzv_sAQ"
+    },
+    {
+      "text": "Stair Lifts | Search Ads / ",
+      "url": "https://social.pubiq.com/126eea0a-5f71-4b5c-ab84-16145a042cb8?subid1=nbcnews&subid2=17643541&subid3=3253713328&adtitle=Rethink+Mobility+with+New+Mobile+Stair+Lifts+-+No+Installation+Required%21&cid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDv5VQouIfmuMmwzv_sAQ&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDv5VQouIfmuMmwzv_sAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDv5VQouIfmuMmwzv_sAQ"
+    },
+    {
+      "text": "",
+      "url": "https://social.pubiq.com/126eea0a-5f71-4b5c-ab84-16145a042cb8?subid1=nbcnews&subid2=17643541&subid3=3253713328&adtitle=Rethink+Mobility+with+New+Mobile+Stair+Lifts+-+No+Installation+Required%21&cid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDv5VQouIfmuMmwzv_sAQ&tblci=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDv5VQouIfmuMmwzv_sAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDv5VQouIfmuMmwzv_sAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "2022 Toyota Highlander | Search Ads",
+      "url": "https://bestsearchnow.com/index.php?rgid=253740& gclid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDClVgogLWO54b0zNpZ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDClVgogLWO54b0zNpZ"
+    },
+    {
+      "text": "2022 Toyota Highlander | Search Ads / ",
+      "url": "https://bestsearchnow.com/index.php?rgid=253740& gclid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDClVgogLWO54b0zNpZ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDClVgogLWO54b0zNpZ"
+    },
+    {
+      "text": "",
+      "url": "https://bestsearchnow.com/index.php?rgid=253740& gclid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDClVgogLWO54b0zNpZ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCDClVgogLWO54b0zNpZ"
     },
     {
       "text": "SPONSORED",
@@ -7765,16 +8177,16 @@
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcnews&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 5:"
     },
     {
-      "text": "Biologytrainingaid\u00ae",
-      "url": "https://www.biologytrainingaid.com/products/unique-and-magical-windmill?utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDg7Vgotazi_sOa7o5N#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDg7Vgotazi_sOa7o5N"
+      "text": "Luxury SUV Savings",
+      "url": "https://popularsearches.net/index.php?rgid=179000&gclid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCM41Yo5r3o9f-B09qMAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCM41Yo5r3o9f-B09qMAQ"
     },
     {
-      "text": "Biologytrainingaid\u00ae / ",
-      "url": "https://www.biologytrainingaid.com/products/unique-and-magical-windmill?utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDg7Vgotazi_sOa7o5N#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDg7Vgotazi_sOa7o5N"
+      "text": "Luxury SUV Savings / ",
+      "url": "https://popularsearches.net/index.php?rgid=179000&gclid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCM41Yo5r3o9f-B09qMAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCM41Yo5r3o9f-B09qMAQ"
     },
     {
       "text": "",
-      "url": "https://www.biologytrainingaid.com/products/unique-and-magical-windmill?utm_source=taboola&utm_medium=referral&tblci=GiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDg7Vgotazi_sOa7o5N#tblciGiBoByIM4z2EtaMeKuxTCuFM-PqpgWaQQTGGeVB9cMUVDyDg7Vgotazi_sOa7o5N"
+      "url": "https://popularsearches.net/index.php?rgid=179000&gclid=GiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCM41Yo5r3o9f-B09qMAQ#tblciGiCpCzMCONHMsLPz6jARsY-hIg59NdB1fB2Ab2XQscmZQCCM41Yo5r3o9f-B09qMAQ"
     },
     {
       "text": "SPONSORED",
@@ -7853,10 +8265,10 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "server": "ia801403.us.archive.org",
-  "uniq": 1798742090,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1826024536,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

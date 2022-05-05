@@ -1,5 +1,5 @@
 {
-  "created": 1651537131,
+  "created": 1651709875,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/kpcc-2022",
@@ -2654,31 +2654,199 @@
       "sha1": "ac97941e7c17ced47f906535abe9825159ff05a2"
     },
     {
+      "name": "kpcc-2022-05-02T19:17:49.649732-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651544275",
+      "size": "21103",
+      "md5": "8f08c0a8f87ba860f57072ee3195f6e0",
+      "crc32": "cf914ca1",
+      "sha1": "d9accc17e9b550ca461dd30968d53ebb576cd901",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-05-02T19:17:49.649732-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651544276",
+      "size": "30289",
+      "md5": "a5e9b04e710f57662377ddfeca3ae2a6",
+      "crc32": "e5ea5664",
+      "sha1": "3d71820e985ddf1e37c517a83f521c328187cddb",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-05-02T19:17:49.649732-07:00.jpg",
+      "source": "original",
+      "mtime": "1651544273",
+      "size": "285716",
+      "md5": "4b323626ba629febc9566b6d763ec035",
+      "crc32": "88d17afa",
+      "sha1": "dc1477dfb60cd5d5b8698ddbfada8baa9a31ded1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-05-02T19:17:49.649732-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-05-02T19:17:49.649732-07:00.jpg",
+      "mtime": "1651544332",
+      "size": "9638",
+      "md5": "0da9bc79c1fc91ccaf94491a2b780c0c",
+      "crc32": "2f089866",
+      "sha1": "a72955765fd3a864d3d9eb5f136b74c696b85340"
+    },
+    {
+      "name": "kpcc-2022-05-03T06:50:18.928259-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651585829",
+      "size": "21170",
+      "md5": "6657309247edc1782db42144e7d3f5ea",
+      "crc32": "28f6ecfa",
+      "sha1": "10b3c7a6779d250f986ea8da6ad71c3402180df2",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-05-03T06:50:18.928259-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651585831",
+      "size": "30265",
+      "md5": "417a86170eb30f5371851958857b50ee",
+      "crc32": "b06db7fa",
+      "sha1": "e0f2a546ccb46b7f5c930054444a39f1ae97aa73",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-05-03T06:50:18.928259-07:00.jpg",
+      "source": "original",
+      "mtime": "1651585827",
+      "size": "287087",
+      "md5": "81d43ccc7adf3daab120bb477a521601",
+      "crc32": "bc6abb89",
+      "sha1": "b143c3d0ce5365e6a1b43f20c7311532b05c6193",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-05-03T06:50:18.928259-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-05-03T06:50:18.928259-07:00.jpg",
+      "mtime": "1651585880",
+      "size": "9660",
+      "md5": "c26eb8abfb98ddadc49336ec2e8c28f1",
+      "crc32": "854e2b04",
+      "sha1": "5e62f4e31ed074d7d7d2afb6db46fc7a8623cdc9"
+    },
+    {
+      "name": "kpcc-2022-05-03T19:20:41.866419-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651630846",
+      "size": "20922",
+      "md5": "bd375c33196a059d864f04919743c0c5",
+      "crc32": "f39ffac3",
+      "sha1": "21d4824e9652b8ac08f5843b4e365cf86753d7a3",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-05-03T19:20:41.866419-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651630848",
+      "size": "30441",
+      "md5": "d0eece072c743f43ba4fd3985dc92346",
+      "crc32": "1d95592f",
+      "sha1": "62e159fff11ac93926c7caec19d632e36867d2c2",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-05-03T19:20:41.866419-07:00.jpg",
+      "source": "original",
+      "mtime": "1651630844",
+      "size": "281738",
+      "md5": "9aafabdd57dce0fd79a5b0fdb470b719",
+      "crc32": "3a564e24",
+      "sha1": "203cd94279ef06ef91d43508bf107217529632da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-05-03T19:20:41.866419-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-05-03T19:20:41.866419-07:00.jpg",
+      "mtime": "1651630904",
+      "size": "9675",
+      "md5": "b4b77d7900612287b30260bbca755c8a",
+      "crc32": "36114338",
+      "sha1": "c306307202c908d67559764185e4466bbe15d9f7"
+    },
+    {
+      "name": "kpcc-2022-05-04T06:48:43.140216-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651672127",
+      "size": "20902",
+      "md5": "1a2619a602686cc17cbda71d9b1b0aab",
+      "crc32": "6536242f",
+      "sha1": "69893e76e76476a50865fb87d404942ad896de7e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-05-04T06:48:43.140216-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651672129",
+      "size": "30400",
+      "md5": "a279555b9812afea414744891a42d202",
+      "crc32": "042afd4e",
+      "sha1": "cdcb1d08c23af8f54b0a364326d30c44a9641efa",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-05-04T06:48:43.140216-07:00.jpg",
+      "source": "original",
+      "mtime": "1651672125",
+      "size": "282578",
+      "md5": "5ec7f170fe2cf3dd368cb3227a3c3f70",
+      "crc32": "99d5a819",
+      "sha1": "8d5b3d345bd5aea934d4451f25dd961ea17b5fa6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-05-04T06:48:43.140216-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-05-04T06:48:43.140216-07:00.jpg",
+      "mtime": "1651676158",
+      "size": "9700",
+      "md5": "5ace8f7a42b65f5c1056a9d5db4fb9d6",
+      "crc32": "2fa09600",
+      "sha1": "ce2d166a014ad4408669b04af7791b0885985b9a"
+    },
+    {
       "name": "kpcc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aaf1fdb8ad5a90446fe9c90e0b11d6b6e74cd74a",
-      "mtime": "1651499510",
-      "size": "53046",
-      "md5": "4b37634a37f94d788cebf68a46b187da",
-      "crc32": "2eb9a46f",
-      "sha1": "ef87e7a83ef05d7dfbaa1b6c6394b0439ef39372",
+      "btih": "b11f12313ea667e55daca02b4ba9ee83846bef29",
+      "mtime": "1651676166",
+      "size": "56358",
+      "md5": "36de868bd135bc0036a106b0239d9975",
+      "crc32": "941a195f",
+      "sha1": "22d902d934e3c1c58e90ab6c65b1cfd7a487e01c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "387590ed67a9f0cd681f22eaf19f91bd",
+      "md5": "42f8f4d25bb044e71daf85a3b25c2c48",
       "summation": "md5"
     },
     {
       "name": "kpcc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651499452",
-      "size": "299008",
-      "md5": "afe334d50e34d1ac8523a4b50b9e7bc7",
-      "crc32": "82968b58",
-      "sha1": "482580b97f82cb5e6f392608dd4f8a0372d6060f",
+      "mtime": "1651672133",
+      "size": "315392",
+      "md5": "d4a75982c78a0490394e6dda2e90b55c",
+      "crc32": "2c90e8f0",
+      "sha1": "02d3a75568b70051b930563b970976c15d904833",
       "format": "Metadata"
     },
     {
@@ -2692,9 +2860,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 255,
-  "item_last_updated": 1651499510,
-  "item_size": 20934477,
+  "files_count": 271,
+  "item_last_updated": 1651676166,
+  "item_size": 22335457,
   "kpcc-2022": [
     {
       "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                                \n                                \n                            \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
@@ -3122,11 +3290,11 @@
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpcc.org/show/airtalk/2022-04-29/food-disparity-in-south-la-before-and-after-the-la-uprising"
+      "url": "https://www.kpcc.org/show/airtalk/2022-05-03/scotus-leak-suggests-roe-v-wade-may-be-overturned"
     },
     {
-      "text": "Food Disparity in South LA Before And After The LA Uprising",
-      "url": "https://www.kpcc.org/show/airtalk/2022-04-29/food-disparity-in-south-la-before-and-after-the-la-uprising"
+      "text": "SCOTUS Leak Suggests Roe v. Wade May Be Overturned",
+      "url": "https://www.kpcc.org/show/airtalk/2022-05-03/scotus-leak-suggests-roe-v-wade-may-be-overturned"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
@@ -3163,6 +3331,14 @@
     {
       "text": "\n                        \n                         View Program Schedule \n                    ",
       "url": "https://www.kpcc.org/schedule"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/votergameplan"
+    },
+    {
+      "text": "Voter Game Plan 2022",
+      "url": "https://laist.com/votergameplan"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
@@ -3210,75 +3386,75 @@
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/housing-homelessness/los-angeles-la-renter-tenant-screening-credit-score-check-landlord-voucher-income-housing-apartments-bonin-ramn-city-council-rental-access-ordinance"
-    },
-    {
-      "text": "Housing and Homelessness",
-      "url": "https://laist.com/news/housing-homelessness"
-    },
-    {
-      "text": "As Landlords Intensify Tenant Background Checks, Some Lawmakers Want New Limits On Screening",
-      "url": "https://laist.com/news/housing-homelessness/los-angeles-la-renter-tenant-screening-credit-score-check-landlord-voucher-income-housing-apartments-bonin-ramn-city-council-rental-access-ordinance"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/criminal-justice/some-california-police-are-biased-a-report-says-they-have-no-clear-plans-to-fix-that"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "Some California Police Are Biased. A Report Says They Have No Clear Plans To Fix That",
-      "url": "https://laist.com/news/criminal-justice/some-california-police-are-biased-a-report-says-they-have-no-clear-plans-to-fix-that"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/arts-and-entertainment/how-to-tell-a-captivating-story-from-a-wedding-toast-to-a-job-interview"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "How To Tell A Captivating Story \u2014 From A Wedding Toast To A Job Interview",
-      "url": "https://laist.com/news/arts-and-entertainment/how-to-tell-a-captivating-story-from-a-wedding-toast-to-a-job-interview"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/what-is-may-day-for-the-most-part-the-opposite-of-capitalism"
+      "url": "https://laist.com/news/morning-brief-la-abortion-safe-haven-welcoming-ukrainians-and-el-dia-de-los-bukis"
     },
     {
       "text": "News",
       "url": "https://laist.com/news"
     },
     {
-      "text": "What Is May Day? For The Most Part, The Opposite Of Capitalism",
-      "url": "https://laist.com/news/what-is-may-day-for-the-most-part-the-opposite-of-capitalism"
+      "text": "Morning Brief: LA Abortion 'Safe Haven,' Welcoming Ukrainians, And El D\u00eda De Los Bukis",
+      "url": "https://laist.com/news/morning-brief-la-abortion-safe-haven-welcoming-ukrainians-and-el-dia-de-los-bukis"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/arts-and-entertainment/naomi-judd-country-music-matriarch-of-the-judds-is-dead-at-76"
+      "url": "https://laist.com/news/arts-and-entertainment/theres-too-much-tv-to-keep-up-have-we-hit-the-limit"
     },
     {
       "text": "Arts and Entertainment",
       "url": "https://laist.com/news/arts-and-entertainment"
     },
     {
-      "text": "Naomi Judd, Country Music Matriarch Of The Judds, Is Dead At 76",
-      "url": "https://laist.com/news/arts-and-entertainment/naomi-judd-country-music-matriarch-of-the-judds-is-dead-at-76"
+      "text": "There's Too Much TV To Keep Up. Have We Hit The Limit?",
+      "url": "https://laist.com/news/arts-and-entertainment/theres-too-much-tv-to-keep-up-have-we-hit-the-limit"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/los-angeles-activities/after-a-false-start-and-13-years-pro-womens-soccer-returns-to-la-in-robust-fashion"
+      "url": "https://laist.com/news/education/this-proposal-could-solve-health-insurance-problem-for-part-time-community-college-faculty"
     },
     {
-      "text": "Play In LA",
-      "url": "https://laist.com/news/los-angeles-activities"
+      "text": "Education",
+      "url": "https://laist.com/news/education"
     },
     {
-      "text": "After A False Start And 13 Years, Pro Women's Soccer Returns To LA \u2014 In Heavenly Fashion",
-      "url": "https://laist.com/news/los-angeles-activities/after-a-false-start-and-13-years-pro-womens-soccer-returns-to-la-in-robust-fashion"
+      "text": "This Proposal Could Solve Health Insurance Problem For Part-time Community College Faculty",
+      "url": "https://laist.com/news/education/this-proposal-could-solve-health-insurance-problem-for-part-time-community-college-faculty"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/education/some-california-school-districts-that-grew-during-the-pandemic-feel-shortchanged"
+    },
+    {
+      "text": "Education",
+      "url": "https://laist.com/news/education"
+    },
+    {
+      "text": "Some California School Districts That Grew During The Pandemic Feel Shortchanged",
+      "url": "https://laist.com/news/education/some-california-school-districts-that-grew-during-the-pandemic-feel-shortchanged"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/housing-homelessness/la-county-moves-forward-with-plan-to-create-a-new-homelessness-department"
+    },
+    {
+      "text": "Housing and Homelessness",
+      "url": "https://laist.com/news/housing-homelessness"
+    },
+    {
+      "text": "LA County Moves Forward With Plan To Create A New Homelessness Department",
+      "url": "https://laist.com/news/housing-homelessness/la-county-moves-forward-with-plan-to-create-a-new-homelessness-department"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/education/lausd-will-pay-for-high-speed-internet-in-every-student-household-for-a-year"
+    },
+    {
+      "text": "Education",
+      "url": "https://laist.com/news/education"
+    },
+    {
+      "text": "LAUSD Will Pay For High Speed Internet In Every Student Household, For A Year",
+      "url": "https://laist.com/news/education/lausd-will-pay-for-high-speed-internet-in-every-student-household-for-a-year"
     },
     {
       "text": "Become a KPCC Sponsor",
@@ -3357,24 +3533,24 @@
       "url": "https://sponsorship.scpr.org/"
     },
     {
-      "text": "Ukraine is the focus, but Russian troops are in several ex-Soviet republics",
-      "url": "https://www.kpcc.org/npr-news/2022-05-02/ukraine-is-the-focus-but-russian-troops-are-in-several-ex-soviet-republics"
+      "text": "On May the 4th, let's remember the time NPR had a 'Star Wars' radio drama ",
+      "url": "https://www.kpcc.org/npr-news/2022-05-04/on-may-the-4th-lets-remember-the-time-npr-had-a-star-wars-radio-drama"
     },
     {
-      "text": "Estonia hosts NATO-led cyber war games, with one eye on Russia",
-      "url": "https://www.kpcc.org/npr-news/2022-05-02/estonia-hosts-nato-led-cyber-war-games-with-one-eye-on-russia"
+      "text": "Eviction filings are up sharply as pandemic rental aid starts to run out ",
+      "url": "https://www.kpcc.org/npr-news/2022-05-04/eviction-filings-are-up-sharply-as-pandemic-rental-aid-starts-to-run-out"
     },
     {
-      "text": "Sydney man admits to pushing a gay American off a cliff in 1988",
-      "url": "https://www.kpcc.org/npr-news/2022-05-02/sydney-man-admits-to-pushing-a-gay-american-off-a-cliff-in-1988"
+      "text": "Dave Chappelle was physically attacked in the middle of his performance in LA ",
+      "url": "https://www.kpcc.org/npr-news/2022-05-04/dave-chappelle-was-physically-attacked-in-the-middle-of-his-performance-in-l-a"
     },
     {
-      "text": "The historical significance of Kyrie Irving's athletic dominance during Ramadan",
-      "url": "https://www.kpcc.org/npr-news/2022-05-02/the-historical-significance-of-kyrie-irvings-athletic-dominance-during-ramadan"
+      "text": "Even when IVF is covered by insurance, high bills, surprises and hassles abound ",
+      "url": "https://www.kpcc.org/npr-news/2022-05-04/even-when-ivf-is-covered-by-insurance-high-bills-surprises-and-hassles-abound"
     },
     {
-      "text": "The story behind Asian Pacific American Heritage, and why it's celebrated in May",
-      "url": "https://www.kpcc.org/npr-news/2022-05-02/the-story-behind-asian-pacific-american-heritage-and-why-its-celebrated-in-may"
+      "text": "85-year-old bassist Ron Carter has no plans on slowing down",
+      "url": "https://www.kpcc.org/npr-news/2022-05-04/85-year-old-bassist-ron-carter-has-no-plans-on-slowing-down"
     },
     {
       "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                            \n                        \n                    \n\n                    \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
@@ -3502,7 +3678,7 @@
     "addeddate": "2022-03-23 02:08:21"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1807799055,
+  "uniq": 1537836643,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

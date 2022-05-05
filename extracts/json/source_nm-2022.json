@@ -1,5 +1,5 @@
 {
-  "created": 1651537227,
+  "created": 1651709960,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/11/items/source_nm-2022",
@@ -1430,31 +1430,115 @@
       "sha1": "17eed53db0915673b4c83ba20538640c3473c81e"
     },
     {
+      "name": "source_nm-2022-05-03T09:03:12.144069-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651590203",
+      "size": "17884",
+      "md5": "47988d81940f61e5441b0c2766e7db00",
+      "crc32": "f17bd914",
+      "sha1": "5c3461ca084c82fd0641990e6bf81a800c2e37f7",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-05-03T09:03:12.144069-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651590206",
+      "size": "14004",
+      "md5": "a1c95fe98b7d5bdc123d0c0f8c4c2a9d",
+      "crc32": "1d8cec0a",
+      "sha1": "ed8754825f84ce876ed324a5ff28036bc889b9c4",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-05-03T09:03:12.144069-06:00.jpg",
+      "source": "original",
+      "mtime": "1651590202",
+      "size": "320788",
+      "md5": "f9515e7e940a2fef060357f0bc6a6c85",
+      "crc32": "80579b26",
+      "sha1": "2845e1cf59df6c90e1dac7fbd67c8bbc0fdd6d41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-05-03T09:03:12.144069-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-05-03T09:03:12.144069-06:00.jpg",
+      "mtime": "1651591336",
+      "size": "10287",
+      "md5": "dbcf0edc422a84c79007cb6f3ac5949d",
+      "crc32": "2d8fc524",
+      "sha1": "155ee52242f850e5cc196c2663a5e89cd63e8856"
+    },
+    {
+      "name": "source_nm-2022-05-04T09:03:26.676297-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651676609",
+      "size": "18468",
+      "md5": "ca114f9e25eb6b4b19a659702412452a",
+      "crc32": "7021f28b",
+      "sha1": "c79f69b459e7f051abcdd1f56ba62970287eadf6",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-05-04T09:03:26.676297-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651676611",
+      "size": "14297",
+      "md5": "3cd3e72e2646fe85bdf985339ca85b4b",
+      "crc32": "ca7d935d",
+      "sha1": "90a03a06d04e29842069188d3977c104815e6150",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-05-04T09:03:26.676297-06:00.jpg",
+      "source": "original",
+      "mtime": "1651676608",
+      "size": "295876",
+      "md5": "9c2ec6d5f312ff8c926e7e66d2dba759",
+      "crc32": "659240ef",
+      "sha1": "a7d0de19c39c4d8e5607e7480b8bc23361414859",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-05-04T09:03:26.676297-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-05-04T09:03:26.676297-06:00.jpg",
+      "mtime": "1651680253",
+      "size": "9972",
+      "md5": "a2baef8084efb77a3f822652f4f31f4e",
+      "crc32": "57b75206",
+      "sha1": "f0ee5fdc65b2662f6eee96eb42bccf78aa1a7f82"
+    },
+    {
       "name": "source_nm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7eec718ec815b8d0a3dc298c3647443369905293",
-      "mtime": "1651503957",
-      "size": "29970",
-      "md5": "12d5d377b9e8386e781105594ebdc387",
-      "crc32": "7c2d7d49",
-      "sha1": "914a284f27acbb7d35b9e460d52a3d25d1a611c0",
+      "btih": "02ce049dbd81ba546e944e4aeb5a6a7c18cb71c9",
+      "mtime": "1651680277",
+      "size": "31677",
+      "md5": "3e7db5e64373d86fb7063ea9700bd214",
+      "crc32": "d5b01525",
+      "sha1": "afdefc358cacc83b90ccd2aa89bafef23075e314",
       "format": "Archive BitTorrent"
     },
     {
       "name": "source_nm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f38cc5cc8e01eedc5f6bfa99d004e535",
+      "md5": "eec4c80cb5e642f01fc65764e4cedf53",
       "summation": "md5"
     },
     {
       "name": "source_nm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651503890",
-      "size": "172032",
-      "md5": "354aa8594d6ab5482cf2abe3dc717d86",
-      "crc32": "1f013f1a",
-      "sha1": "b8b9dfce38f2935dc38855b25db8767574ced6d8",
+      "mtime": "1651676615",
+      "size": "180224",
+      "md5": "8a6028a0280f5f87d715c059206ed78b",
+      "crc32": "286ab92a",
+      "sha1": "3c29e43e620b6b5f921ecaa22cdc21de1f85956a",
       "format": "Metadata"
     },
     {
@@ -1468,9 +1552,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 139,
-  "item_last_updated": 1651503957,
-  "item_size": 13030981,
+  "files_count": 147,
+  "item_last_updated": 1651680277,
+  "item_size": 13742456,
   "metadata": {
     "identifier": "source_nm-2022",
     "collection": [
@@ -1579,11 +1663,15 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/05/02/more-people-evacuated-from-near-two-largest-wildfires-burning-in-nm/"
+      "url": "https://sourcenm.com/2022/05/04/nm-reacts-to-leaked-opinion-showing-scotus-is-poised-to-end-federal-abortion-rights-protections/"
     },
     {
-      "text": " More people evacuated from near two largest wildfires burning in NM",
-      "url": "https://sourcenm.com/2022/05/02/more-people-evacuated-from-near-two-largest-wildfires-burning-in-nm/"
+      "text": " NM reacts to leaked opinion showing SCOTUS is poised to end federal abortion rights protections",
+      "url": "https://sourcenm.com/2022/05/04/nm-reacts-to-leaked-opinion-showing-scotus-is-poised-to-end-federal-abortion-rights-protections/"
+    },
+    {
+      "text": "Marisa Demarco",
+      "url": "https://sourcenm.com/author/marisademarco/"
     },
     {
       "text": "Austin Fisher",
@@ -1591,11 +1679,11 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/05/02/nm-republicans-inflate-curricula-fears-at-education-hearing/"
+      "url": "https://sourcenm.com/2022/05/04/cerro-pelado-fire-a-grim-reprise-tearing-through-the-las-conchas-burn-scar/"
     },
     {
-      "text": " NM Republicans inflate curricula fears at education hearing",
-      "url": "https://sourcenm.com/2022/05/02/nm-republicans-inflate-curricula-fears-at-education-hearing/"
+      "text": " Cerro Pelado fire a grim reprise, tearing through the Las Conchas burn scar",
+      "url": "https://sourcenm.com/2022/05/04/cerro-pelado-fire-a-grim-reprise-tearing-through-the-las-conchas-burn-scar/"
     },
     {
       "text": "Margaret Wright",
@@ -1603,59 +1691,63 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/05/02/covid-19-in-the-air-remains-elusive-disability-rights-issue-experts-say/"
+      "url": "https://sourcenm.com/2022/05/03/nm-governor-to-the-feds-stop-igniting-prescribed-burns-in-windy-dry-conditions/"
     },
     {
-      "text": " COVID-19 in the air remains elusive disability rights issue, experts say",
-      "url": "https://sourcenm.com/2022/05/02/covid-19-in-the-air-remains-elusive-disability-rights-issue-experts-say/"
+      "text": " NM governor to the feds: Stop igniting prescribed burns in windy, dry conditions",
+      "url": "https://sourcenm.com/2022/05/03/nm-governor-to-the-feds-stop-igniting-prescribed-burns-in-windy-dry-conditions/"
     },
     {
-      "text": "Austin Fisher",
-      "url": "https://sourcenm.com/author/austinfisher/"
+      "text": "Patrick Lohmann",
+      "url": "https://sourcenm.com/author/patricklohmann/"
     },
     {
-      "text": " Nine rare cancers tied to burn pit exposure added to VA benefits list",
-      "url": "https://sourcenm.com/2022/05/02/nine-rare-cancers-tied-to-burn-pit-exposure-added-to-va-benefits-list/"
+      "text": " Overturning Roe would hand power over abortion to states. Many would ban it.",
+      "url": "https://sourcenm.com/2022/05/03/overturning-roe-would-hand-power-over-abortion-to-states-many-would-ban-it/"
     },
     {
-      "text": "Jennifer Shutt",
-      "url": "https://sourcenm.com/author/jennifer-shutt/"
-    },
-    {
-      "text": " Democratic leaders in Congress want more power for regulators over high gasoline prices",
-      "url": "https://sourcenm.com/2022/05/02/democratic-leaders-in-congress-want-more-power-for-regulators-over-high-gasoline-prices/"
+      "text": "Jacob Fischler",
+      "url": "https://sourcenm.com/author/jacob-fischler/"
     },
     {
       "text": "Ariana Figueroa",
       "url": "https://sourcenm.com/author/ariana-figueroa/"
     },
     {
-      "text": " Leaders in tribal education center language preservation",
-      "url": "https://sourcenm.com/2022/04/29/leaders-in-tribal-education-center-language-preservation/"
-    },
-    {
-      "text": "Margaret Wright",
-      "url": "https://sourcenm.com/author/margaretwright/"
-    },
-    {
-      "text": " Health risks for families in military private housing probed by U.S. Senate panel",
-      "url": "https://sourcenm.com/2022/04/29/health-risks-for-families-in-military-private-housing-probed-by-u-s-senate-panel/"
-    },
-    {
-      "text": "Ariana Figueroa",
-      "url": "https://sourcenm.com/author/ariana-figueroa/"
-    },
-    {
-      "text": " U.S. to lend and lease military supplies to Ukraine under bill cleared by Congress",
-      "url": "https://sourcenm.com/2022/04/29/u-s-to-lend-and-lease-military-supplies-to-ukraine-under-bill-cleared-by-congress/"
+      "text": " U.S. Senate to try again on abortion rights after bombshell disclosure of draft opinion",
+      "url": "https://sourcenm.com/2022/05/03/u-s-senate-to-try-again-on-abortion-rights-after-bombshell-disclosure-of-draft-opinion/"
     },
     {
       "text": "Jennifer Shutt",
       "url": "https://sourcenm.com/author/jennifer-shutt/"
     },
     {
-      "text": " PED says school districts promised to follow COVID rules. So where\u2019s the proof?",
-      "url": "https://sourcenm.com/briefs/ped-says-school-districts-promised-to-follow-covid-rules-so-wheres-the-proof/"
+      "text": " Biden on leaked draft opinion on abortion: The \u2018right to choose is fundamental\u2019",
+      "url": "https://sourcenm.com/briefs/biden-on-leaked-draft-opinion-on-abortion-the-right-to-choose-is-fundamental/"
+    },
+    {
+      "text": "Ariana Figueroa",
+      "url": "https://sourcenm.com/author/ariana-figueroa/"
+    },
+    {
+      "text": " States rush to revise their abortion laws as a major U.S. Supreme Court decision nears",
+      "url": "https://sourcenm.com/2022/05/03/states-rush-to-revise-their-abortion-laws-as-a-major-u-s-supreme-court-decision-nears/"
+    },
+    {
+      "text": "Jennifer Shutt",
+      "url": "https://sourcenm.com/author/jennifer-shutt/"
+    },
+    {
+      "text": " People flee their homes as massive fire approaches in northern New Mexico",
+      "url": "https://sourcenm.com/2022/05/03/people-flee-their-homes-as-massive-fire-approaches-in-northern-new-mexico/"
+    },
+    {
+      "text": "Shaun Griswold",
+      "url": "https://sourcenm.com/author/shaungriswold/"
+    },
+    {
+      "text": " We have the tools to pull COVID out of the air in NM schools, but are we using them?",
+      "url": "https://sourcenm.com/2022/05/03/we-have-the-tools-to-pull-covid-out-of-the-air-in-nm-schools-but-are-we-using-them/"
     },
     {
       "text": "Austin Fisher",
@@ -1710,6 +1802,14 @@
       "url": "briefs"
     },
     {
+      "text": " PED says school districts promised to follow COVID rules. So where\u2019s the proof?",
+      "url": "https://sourcenm.com/briefs/ped-says-school-districts-promised-to-follow-covid-rules-so-wheres-the-proof/"
+    },
+    {
+      "text": "Austin Fisher",
+      "url": "https://sourcenm.com/author/austinfisher/"
+    },
+    {
       "text": " Congress expands Brown v. Board of Education historic site beyond Kansas",
       "url": "https://sourcenm.com/briefs/congress-expands-brown-v-board-of-education-historic-site-beyond-kansas/"
     },
@@ -1734,14 +1834,6 @@
       "url": "https://sourcenm.com/author/patricklohmann/"
     },
     {
-      "text": " Candidate fundraising reports show competitive primary races ahead",
-      "url": "https://sourcenm.com/briefs/candidate-fundraising-reports-show-competitive-primary-races-ahead/"
-    },
-    {
-      "text": "Patrick Lohmann",
-      "url": "https://sourcenm.com/author/patricklohmann/"
-    },
-    {
       "text": "READ MORE ",
       "url": "/briefs"
     },
@@ -1755,11 +1847,23 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/04/28/biden-asks-congress-for-33-billion-for-ukraine-aid-pleads-again-for-covid-funds/"
+      "url": "https://sourcenm.com/2022/05/03/climate-change-is-pushing-toxic-chemicals-into-drinking-wells/"
     },
     {
-      "text": " Biden asks Congress for $33 billion for Ukraine aid, pleads again for COVID funds",
-      "url": "https://sourcenm.com/2022/04/28/biden-asks-congress-for-33-billion-for-ukraine-aid-pleads-again-for-covid-funds/"
+      "text": " Climate Change is pushing toxic chemicals into drinking wells",
+      "url": "https://sourcenm.com/2022/05/03/climate-change-is-pushing-toxic-chemicals-into-drinking-wells/"
+    },
+    {
+      "text": "Erika Bolstad for Stateline",
+      "url": "https://sourcenm.com/author/erikabolstad/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/05/03/jan-6-panel-asks-three-gop-members-of-the-u-s-house-to-cooperate-in-probe/"
+    },
+    {
+      "text": " Jan. 6 panel asks three GOP members of the U.S. House to cooperate in probe",
+      "url": "https://sourcenm.com/2022/05/03/jan-6-panel-asks-three-gop-members-of-the-u-s-house-to-cooperate-in-probe/"
     },
     {
       "text": "Jennifer Shutt",
@@ -1767,35 +1871,11 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/04/28/state-risks-losing-federal-money-if-its-not-spent-soon/"
+      "url": "https://sourcenm.com/2022/05/02/more-people-evacuated-from-near-two-largest-wildfires-burning-in-nm/"
     },
     {
-      "text": " State risks losing federal money if it\u2019s not spent soon",
-      "url": "https://sourcenm.com/2022/04/28/state-risks-losing-federal-money-if-its-not-spent-soon/"
-    },
-    {
-      "text": "Andrew Beale",
-      "url": "https://sourcenm.com/author/andrewbeale/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/04/28/inside-the-evacuation-zone-people-protect-animals-homes-and-each-other/"
-    },
-    {
-      "text": " Inside the evacuation zone, people protect animals, homes and each other",
-      "url": "https://sourcenm.com/2022/04/28/inside-the-evacuation-zone-people-protect-animals-homes-and-each-other/"
-    },
-    {
-      "text": "Shaun Griswold",
-      "url": "https://sourcenm.com/author/shaungriswold/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/04/28/albuquerque-school-stays-ahead-of-the-curve-on-covid-protections/"
-    },
-    {
-      "text": " Albuquerque school stays ahead of the curve on COVID protections",
-      "url": "https://sourcenm.com/2022/04/28/albuquerque-school-stays-ahead-of-the-curve-on-covid-protections/"
+      "text": " More people evacuated from near two largest wildfires burning in NM",
+      "url": "https://sourcenm.com/2022/05/02/more-people-evacuated-from-near-two-largest-wildfires-burning-in-nm/"
     },
     {
       "text": "Austin Fisher",
@@ -1803,35 +1883,23 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/04/28/u-s-interior-secretary-to-promote-big-spending-jump-for-tribal-climate-programs/"
+      "url": "https://sourcenm.com/2022/05/02/nm-republicans-inflate-curricula-fears-at-education-hearing/"
     },
     {
-      "text": " U.S. Interior secretary to promote big spending jump for tribal, climate programs",
-      "url": "https://sourcenm.com/2022/04/28/u-s-interior-secretary-to-promote-big-spending-jump-for-tribal-climate-programs/"
+      "text": " NM Republicans inflate curricula fears at education hearing",
+      "url": "https://sourcenm.com/2022/05/02/nm-republicans-inflate-curricula-fears-at-education-hearing/"
     },
     {
-      "text": "Jacob Fischler",
-      "url": "https://sourcenm.com/author/jacob-fischler/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/04/27/poor-pay-and-benefits-deplete-u-s-firefighting-workforce/"
-    },
-    {
-      "text": " Poor pay and benefits deplete U.S. firefighting workforce",
-      "url": "https://sourcenm.com/2022/04/27/poor-pay-and-benefits-deplete-u-s-firefighting-workforce/"
-    },
-    {
-      "text": "Laura Paskus",
-      "url": "https://sourcenm.com/author/laurapaskus/"
+      "text": "Margaret Wright",
+      "url": "https://sourcenm.com/author/margaretwright/"
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/04/27/proposed-drilling-ban-around-chaco-canyon-gets-support-from-all-pueblo-council-of-governors/"
+      "url": "https://sourcenm.com/2022/05/02/covid-19-in-the-air-remains-elusive-disability-rights-issue-experts-say/"
     },
     {
-      "text": " Proposed drilling ban around Chaco Canyon gets support from All Pueblo Council of Governors",
-      "url": "https://sourcenm.com/2022/04/27/proposed-drilling-ban-around-chaco-canyon-gets-support-from-all-pueblo-council-of-governors/"
+      "text": " COVID-19 in the air remains elusive disability rights issue, experts say",
+      "url": "https://sourcenm.com/2022/05/02/covid-19-in-the-air-remains-elusive-disability-rights-issue-experts-say/"
     },
     {
       "text": "Austin Fisher",
@@ -1839,15 +1907,39 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/04/26/biden-issues-first-pardons-and-sentencing-commutations-of-his-presidency/"
+      "url": "https://sourcenm.com/2022/05/02/nine-rare-cancers-tied-to-burn-pit-exposure-added-to-va-benefits-list/"
     },
     {
-      "text": " Biden issues first pardons and sentencing commutations of his presidency",
-      "url": "https://sourcenm.com/2022/04/26/biden-issues-first-pardons-and-sentencing-commutations-of-his-presidency/"
+      "text": " Nine rare cancers tied to burn pit exposure added to VA benefits list",
+      "url": "https://sourcenm.com/2022/05/02/nine-rare-cancers-tied-to-burn-pit-exposure-added-to-va-benefits-list/"
+    },
+    {
+      "text": "Jennifer Shutt",
+      "url": "https://sourcenm.com/author/jennifer-shutt/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/05/02/democratic-leaders-in-congress-want-more-power-for-regulators-over-high-gasoline-prices/"
+    },
+    {
+      "text": " Democratic leaders in Congress want more power for regulators over high gasoline prices",
+      "url": "https://sourcenm.com/2022/05/02/democratic-leaders-in-congress-want-more-power-for-regulators-over-high-gasoline-prices/"
     },
     {
       "text": "Ariana Figueroa",
       "url": "https://sourcenm.com/author/ariana-figueroa/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/04/29/leaders-in-tribal-education-center-language-preservation/"
+    },
+    {
+      "text": " Leaders in tribal education center language preservation",
+      "url": "https://sourcenm.com/2022/04/29/leaders-in-tribal-education-center-language-preservation/"
+    },
+    {
+      "text": "Margaret Wright",
+      "url": "https://sourcenm.com/author/margaretwright/"
     },
     {
       "text": "READ MORE ",
@@ -1942,7 +2034,7 @@
       "url": "https://apple.news/Tv7k8sPIjSYWXut82PAi2PA"
     }
   ],
-  "uniq": 871349228,
+  "uniq": 444628200,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"
