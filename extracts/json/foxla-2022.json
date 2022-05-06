@@ -1,5 +1,5 @@
 {
-  "created": 1651709825,
+  "created": 1651796255,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/33/items/foxla-2022",
@@ -2844,31 +2844,115 @@
       "sha1": "290688590f86e077b3ba8d474eb4cf5898e75458"
     },
     {
+      "name": "foxla-2022-05-04T19:14:27.502879-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651716871",
+      "size": "43615",
+      "md5": "ac353116332fdf4b4bb62177e8397fef",
+      "crc32": "826ecec1",
+      "sha1": "eb8d106be111529d1c1fa1d6b78b1df3dcc9887d",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-05-04T19:14:27.502879-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651716872",
+      "size": "39156",
+      "md5": "e9c08147a8db854c1ef6b4e77c690bd8",
+      "crc32": "d19c1757",
+      "sha1": "416ec72cf95d9b5c29139127fc29dccfe89d81e4",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-05-04T19:14:27.502879-07:00.jpg",
+      "source": "original",
+      "mtime": "1651716869",
+      "size": "324436",
+      "md5": "671cfe84da869044f4a417780daf7dba",
+      "crc32": "779be56c",
+      "sha1": "96d524d7b69e35b60f8e280adebd116ffad16869",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-05-04T19:14:27.502879-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-05-04T19:14:27.502879-07:00.jpg",
+      "mtime": "1651716937",
+      "size": "10970",
+      "md5": "5b9d02488f1a7fe8181af51a5e51b6b4",
+      "crc32": "c9753224",
+      "sha1": "8a340246b3c8e0f2bc49d1e5e534abc961763261"
+    },
+    {
+      "name": "foxla-2022-05-05T06:46:19.982764-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651758388",
+      "size": "43198",
+      "md5": "71d1e93edf1571dd295fac1e4ed6bd05",
+      "crc32": "7b40187f",
+      "sha1": "fdb9c429b645fe4a2522f3ecddc24f3c27ed6967",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-05-05T06:46:19.982764-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651758390",
+      "size": "38985",
+      "md5": "8f1c685781ccca7c530a0efa6815efef",
+      "crc32": "37507221",
+      "sha1": "2e00849874ace5830456bfb6c47dcf289aa18d19",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-05-05T06:46:19.982764-07:00.jpg",
+      "source": "original",
+      "mtime": "1651758386",
+      "size": "329985",
+      "md5": "10eb87f7ef82e4a585e1a566e2e2bbdc",
+      "crc32": "ff9d5062",
+      "sha1": "abd51bef5026bbbc7beedbc2f227f66b1b568d1c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-05-05T06:46:19.982764-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-05-05T06:46:19.982764-07:00.jpg",
+      "mtime": "1651761270",
+      "size": "11302",
+      "md5": "a4879cb749c2a5276452800cb4635126",
+      "crc32": "6f6e5dcc",
+      "sha1": "05c2706ff67e0f360bbd43109bc061343c1f2280"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13e7281007f341464bcbbde0f2ce15c4a06b10be",
-      "mtime": "1651676125",
-      "size": "57388",
-      "md5": "6851390e5ebc5d84b942d84915fa5b9a",
-      "crc32": "9913aaa9",
-      "sha1": "5b51a60afd53e007a5b11f7cd2d3748f17c61edf",
+      "btih": "3b96d2b8a03b2a9f8de4f23f8f6d52aae16c8bef",
+      "mtime": "1651761281",
+      "size": "59064",
+      "md5": "6982b7959d92f9d266535ebbd3ff0092",
+      "crc32": "d2b80876",
+      "sha1": "13d5017b319b245ee6b8865dfc13cb0ee71d2bb4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03f6a5bee362d16f9dfc7960e51d5f39",
+      "md5": "5269c5141b6a06857b3e8ca47dbddf70",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651672094",
-      "size": "315392",
-      "md5": "40c7977718bc50daf32746bc38c8ff25",
-      "crc32": "604ba091",
-      "sha1": "d512a38280ae6ab95771df9953981a819840cda4",
+      "mtime": "1651758405",
+      "size": "323584",
+      "md5": "7fd2f393963ff1be0acae8bce1e9d372",
+      "crc32": "da014bcf",
+      "sha1": "7a4540398e608a243f06d7f17fbed08a4eb18707",
       "format": "Metadata"
     },
     {
@@ -2882,7 +2966,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 273,
+  "files_count": 281,
   "foxla-2022": [
     {
       "text": " ",
@@ -3318,6 +3402,62 @@
     },
     {
       "text": "  ",
+      "url": "/news/suspected-fentanyl-overdose-kills-3-men-in-downtown-los-angeles"
+    },
+    {
+      "text": "Suspected fentanyl overdose kills 3 men in downtown Los Angeles",
+      "url": "/news/suspected-fentanyl-overdose-kills-3-men-in-downtown-los-angeles"
+    },
+    {
+      "text": "  ",
+      "url": "/news/ukraine-russia-war-mariupol-azovstal-steel-plant-may-5-2022"
+    },
+    {
+      "text": "Mariupol steel plant battle rages as Ukraine repels Russian attacks",
+      "url": "/news/ukraine-russia-war-mariupol-azovstal-steel-plant-may-5-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/news/johnny-depp-trial-crowds-grow-outside-courtroom-as-amber-heard-expected-back-on-stand"
+    },
+    {
+      "text": "Johnny Depp Trial: Crowds grow outside courtroom as Amber Heard expected back on stand",
+      "url": "/news/johnny-depp-trial-crowds-grow-outside-courtroom-as-amber-heard-expected-back-on-stand"
+    },
+    {
+      "text": "  ",
+      "url": "/news/car-owner-who-left-jeep-at-dealership-gets-sued-after-worker-dies-during-oil-change"
+    },
+    {
+      "text": "Car owner who left Jeep at dealership gets sued after worker dies during oil change",
+      "url": "/news/car-owner-who-left-jeep-at-dealership-gets-sued-after-worker-dies-during-oil-change"
+    },
+    {
+      "text": "  ",
+      "url": "/news/man-found-dead-with-rifle-next-to-body-in-downtown-los-angeles"
+    },
+    {
+      "text": "Man found dead with rifle next to body near downtown LA gas station",
+      "url": "/news/man-found-dead-with-rifle-next-to-body-in-downtown-los-angeles"
+    },
+    {
+      "text": "  ",
+      "url": "/news/villanueva-lawsuit-leaked-jail-video-third-claim"
+    },
+    {
+      "text": "3rd whistleblower lawsuit accuses LA Sheriff Villanueva of coverup in leaked jail video",
+      "url": "/news/villanueva-lawsuit-leaked-jail-video-third-claim"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/la-kings-blown-out-by-oilers-series-even-at-1-1"
+    },
+    {
+      "text": "LA Kings blown out by Oilers, series even at 1-1",
+      "url": "/sports/la-kings-blown-out-by-oilers-series-even-at-1-1"
+    },
+    {
+      "text": "  ",
       "url": "/news/dave-chappelle-tackled-on-stage-by-armed-man-at-netflix-is-a-joke-fest-at-hollywood-bowl"
     },
     {
@@ -3326,99 +3466,43 @@
     },
     {
       "text": "  ",
-      "url": "/news/hundreds-rally-in-downtown-la-to-support-abortion-rights"
+      "url": "/news/105-freeway-in-paramount-shutdown-as-chp-investigates-shooting"
     },
     {
-      "text": "Hundreds rally in downtown LA to support abortion rights",
-      "url": "/news/hundreds-rally-in-downtown-la-to-support-abortion-rights"
-    },
-    {
-      "text": "  ",
-      "url": "/news/may-the-4th-be-with-you-star-wars-day-origins"
-    },
-    {
-      "text": "May the 4th be with you: How the date became a Star Wars fan phenomenon",
-      "url": "/news/may-the-4th-be-with-you-star-wars-day-origins"
+      "text": "105 Freeway shooting in Paramount ends with pedestrian dead",
+      "url": "/news/105-freeway-in-paramount-shutdown-as-chp-investigates-shooting"
     },
     {
       "text": "  ",
-      "url": "/news/leaked-supreme-court-draft-abortion-roe-wade-report"
+      "url": "/news/woman-shares-story-of-abortion-pill-reversal"
     },
     {
-      "text": "Supreme Court chief justice confirms authenticity of leaked Roe draft, orders investigation",
-      "url": "/news/leaked-supreme-court-draft-abortion-roe-wade-report"
-    },
-    {
-      "text": "  ",
-      "url": "/news/live-officers-in-pursuit-of-vehicle-in-la"
-    },
-    {
-      "text": "2 robbery suspects arrested after high-speed police chase ends in Torrance",
-      "url": "/news/live-officers-in-pursuit-of-vehicle-in-la"
+      "text": "Woman shares story of abortion pill reversal",
+      "url": "/news/woman-shares-story-of-abortion-pill-reversal"
     },
     {
       "text": "  ",
-      "url": "/news/lapd-officer-hurt-downtown-la"
+      "url": "/news/crunch-fitness-locker-room-stabbing-la-mirada"
     },
     {
-      "text": "LAPD Chief: Crowd threw rocks, bottles at police in downtown LA",
-      "url": "/news/lapd-officer-hurt-downtown-la"
-    },
-    {
-      "text": "  ",
-      "url": "/news/californias-population-falls-for-second-year"
-    },
-    {
-      "text": "California's population falls for 2nd straight year",
-      "url": "/news/californias-population-falls-for-second-year"
+      "text": "Man stabbed in shower at Crunch Fitness in La Mirada",
+      "url": "/news/crunch-fitness-locker-room-stabbing-la-mirada"
     },
     {
       "text": "  ",
-      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
+      "url": "/news/family-sues-rialto-pd-after-violent-feb-2022-arrest-of-teen-girl"
     },
     {
-      "text": "Roe v. Wade: What you need to know about a key abortion ruling that the Supreme Court looks poised to overturn",
-      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
-    },
-    {
-      "text": "  ",
-      "url": "/news/video-anti-abortion-activist-scales-60-floor-san-francisco-salesforce-tower"
-    },
-    {
-      "text": "Video: Anti-abortion activist scales 60-floor San Francisco Salesforce Tower",
-      "url": "/news/video-anti-abortion-activist-scales-60-floor-san-francisco-salesforce-tower"
+      "text": "Family sues Rialto PD after violent Feb. 2022 arrest of teen girl",
+      "url": "/news/family-sues-rialto-pd-after-violent-feb-2022-arrest-of-teen-girl"
     },
     {
       "text": "  ",
-      "url": "/news/orange-county-personal-trainer-convicted-in-2019-double-murder-of-wendi-miller-darren-partch"
+      "url": "/news/bomb-squad-responds-to-reports-of-suspicious-item-near-lax"
     },
     {
-      "text": "Orange County personal trainer convicted in 2019 double murder of Wendi Miller, Darren Partch",
-      "url": "/news/orange-county-personal-trainer-convicted-in-2019-double-murder-of-wendi-miller-darren-partch"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-conservatives-react-to-leak-of-supreme-court-memo-on-roe-v-wade"
-    },
-    {
-      "text": "California conservatives react to leak of Supreme Court memo on Roe v. Wade",
-      "url": "/news/california-conservatives-react-to-leak-of-supreme-court-memo-on-roe-v-wade"
-    },
-    {
-      "text": "  ",
-      "url": "/news/metro-theft-tips-to-keep-yourself-and-your-stuff-safe"
-    },
-    {
-      "text": "Metro theft: Tips to keep yourself and your stuff safe",
-      "url": "/news/metro-theft-tips-to-keep-yourself-and-your-stuff-safe"
-    },
-    {
-      "text": "  ",
-      "url": "/news/sacramento-shooting-3-alleged-gang-members-charged-with-murder"
-    },
-    {
-      "text": "Sacramento shooting: 3 alleged gang members charged with murder",
-      "url": "/news/sacramento-shooting-3-alleged-gang-members-charged-with-murder"
+      "text": "All clear given after bomb squad responds to reports of suspicious item near LAX",
+      "url": "/news/bomb-squad-responds-to-reports-of-suspicious-item-near-lax"
     },
     {
       "text": "Florence-Graham",
@@ -3426,51 +3510,51 @@
     },
     {
       "text": "  video",
-      "url": "/video/1065154"
+      "url": "/video/1065673"
     },
     {
-      "text": "3 hospitalized after gunshots ring out at South LA party",
-      "url": "/video/1065154"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1065131"
-    },
-    {
-      "text": "Armed man attacks Dave Chapelle on stage at Hollywood Bowl",
-      "url": "/video/1065131"
+      "text": "Man found dead with rifle next to body near DTLA gas station",
+      "url": "/video/1065673"
     },
     {
       "text": "  video",
-      "url": "/video/1065100"
+      "url": "/video/1065655"
     },
     {
-      "text": "LAPD: Homicides continue to rise, 36 reported in April",
-      "url": "/video/1065100"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1065099"
-    },
-    {
-      "text": "Man wanted for trying to abduct girl walking home from school in Simi Valley",
-      "url": "/video/1065099"
+      "text": "Fentanyl overdose kills 3 men in downtown Los Angeles",
+      "url": "/video/1065655"
     },
     {
       "text": "  video",
-      "url": "/video/1065097"
+      "url": "/video/1065611"
     },
     {
-      "text": "Anti-Semitic fliers distributed in Culver City",
-      "url": "/video/1065097"
+      "text": "Family sues Rialto PD after violent Feb. 2022 arrest of teen girl",
+      "url": "/video/1065611"
     },
     {
       "text": "  video",
-      "url": "/video/1065095"
+      "url": "/video/1065610"
     },
     {
-      "text": "Politicians react to SCOTUS leak hinting overturn of Roe v. Wade",
-      "url": "/video/1065095"
+      "text": "Loving Hands Community Care holds Mother's Day event for women who lost their child",
+      "url": "/video/1065610"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1065605"
+    },
+    {
+      "text": "Pedestrian shot and killed by CHP officer on 105 Freeway in Paramount",
+      "url": "/video/1065605"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1065602"
+    },
+    {
+      "text": "Attack on Dave Chappelle raises safety concerns for comedians",
+      "url": "/video/1065602"
     },
     {
       "text": "",
@@ -3486,27 +3570,27 @@
     },
     {
       "text": "  video",
+      "url": "/video/1065309"
+    },
+    {
+      "text": "Untraditional tradition for Mother's Day",
+      "url": "/video/1065309"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1065267"
+    },
+    {
+      "text": "Celebrating Mom Owned Businesses",
+      "url": "/video/1065267"
+    },
+    {
+      "text": "  video",
       "url": "/video/1064805"
     },
     {
       "text": "Tik Tok Tuesday with Retirement House and Amanda Salas",
       "url": "/video/1064805"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1064780"
-    },
-    {
-      "text": "Miles Teller interview: \u2018Top Gun: Maverick\u2019 hits theaters on Memorial Day Weekend",
-      "url": "/video/1064780"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1064763"
-    },
-    {
-      "text": "Google's Summer travel trends",
-      "url": "/video/1064763"
     },
     {
       "text": "Coronavirus",
@@ -3515,6 +3599,30 @@
     {
       "text": "View More",
       "url": "/tag/health/coronavirus"
+    },
+    {
+      "text": "  ",
+      "url": "/news/nearly-15-million-covid-19-deaths-world-health-organization"
+    },
+    {
+      "text": "Nearly 15M deaths associated with COVID-19, World Health Organization says",
+      "url": "/news/nearly-15-million-covid-19-deaths-world-health-organization"
+    },
+    {
+      "text": "  ",
+      "url": "/news/blinken-tests-positive-for-covid-19-state-department-says"
+    },
+    {
+      "text": "Blinken tests positive for COVID-19, State Department says",
+      "url": "/news/blinken-tests-positive-for-covid-19-state-department-says"
+    },
+    {
+      "text": "  ",
+      "url": "/news/new-variants-emerging-faster-as-covid-spread-continues-says-la-county-health-director"
+    },
+    {
+      "text": "New variants emerging faster as COVID spread continues, says LA County health director",
+      "url": "/news/new-variants-emerging-faster-as-covid-spread-continues-says-la-county-health-director"
     },
     {
       "text": "  ",
@@ -3541,36 +3649,28 @@
       "url": "/news/la-county-health-officials-urge-workplace-safety-as-covid-19-spread-continues"
     },
     {
-      "text": "  ",
-      "url": "/news/covid-19-omicron-sub-variants-dodge-immunity-from-past-infection-south-african-study-finds"
-    },
-    {
-      "text": "COVID-19 Omicron sub-variants dodge immunity from past infection, South African study finds",
-      "url": "/news/covid-19-omicron-sub-variants-dodge-immunity-from-past-infection-south-african-study-finds"
-    },
-    {
-      "text": "  ",
-      "url": "/news/covid-19-cases-still-high-in-la-county-with-yet-another-variant-growing"
-    },
-    {
-      "text": "COVID-19 cases still high in LA County, with yet another variant growing",
-      "url": "/news/covid-19-cases-still-high-in-la-county-with-yet-another-variant-growing"
-    },
-    {
-      "text": "  ",
-      "url": "/news/why-are-vaccines-still-important-if-so-many-kids-have-already-had-covid-19"
-    },
-    {
-      "text": "Why are vaccines still important if so many kids have already had COVID-19?",
-      "url": "/news/why-are-vaccines-still-important-if-so-many-kids-have-already-had-covid-19"
-    },
-    {
       "text": "Politics",
       "url": "/tag/politics"
     },
     {
       "text": "View More",
       "url": "/tag/politics"
+    },
+    {
+      "text": "  ",
+      "url": "/news/woman-shares-story-of-abortion-pill-reversal"
+    },
+    {
+      "text": "Woman shares story of abortion pill reversal",
+      "url": "/news/woman-shares-story-of-abortion-pill-reversal"
+    },
+    {
+      "text": "  ",
+      "url": "/news/california-exodus-crime-inflation-hochman"
+    },
+    {
+      "text": "American dream replaced by 'nightmares' for Californians, says AG candidate",
+      "url": "/news/california-exodus-crime-inflation-hochman"
     },
     {
       "text": "  ",
@@ -3605,22 +3705,6 @@
       "url": "/news/california-bill-mandating-4-day-work-week-stalled"
     },
     {
-      "text": "  ",
-      "url": "/news/map-where-abortion-will-likely-be-illegal-if-roe-v-wade-is-overturned"
-    },
-    {
-      "text": "This is where abortion will likely be illegal if Roe v. Wade is overturned",
-      "url": "/news/map-where-abortion-will-likely-be-illegal-if-roe-v-wade-is-overturned"
-    },
-    {
-      "text": "  ",
-      "url": "/news/leaked-supreme-court-draft-abortion-roe-wade-report"
-    },
-    {
-      "text": "Supreme Court chief justice confirms authenticity of leaked Roe draft, orders investigation",
-      "url": "/news/leaked-supreme-court-draft-abortion-roe-wade-report"
-    },
-    {
       "text": "California News",
       "url": "/tag/us/ca"
     },
@@ -3630,51 +3714,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/local-and-california-leaders-react-to-u-s-supreme-court-possibly-overturning-roe-v-wade"
+      "url": "/news/mechanical-failure-caused-deadly-navy-helicopter-crash-near-san-diego"
     },
     {
-      "text": "Local, California leaders react to U.S. Supreme Court possibly overturning Roe v. Wade",
-      "url": "/news/local-and-california-leaders-react-to-u-s-supreme-court-possibly-overturning-roe-v-wade"
-    },
-    {
-      "text": "  ",
-      "url": "/news/video-anti-abortion-activist-scales-60-floor-san-francisco-salesforce-tower"
-    },
-    {
-      "text": "Video: Anti-abortion activist scales 60-floor San Francisco Salesforce Tower",
-      "url": "/news/video-anti-abortion-activist-scales-60-floor-san-francisco-salesforce-tower"
+      "text": "Mechanical failure caused deadly Navy helicopter crash near San Diego",
+      "url": "/news/mechanical-failure-caused-deadly-navy-helicopter-crash-near-san-diego"
     },
     {
       "text": "  ",
-      "url": "/news/sacramento-shooting-3-alleged-gang-members-charged-with-murder"
+      "url": "/news/california-moves-to-embrace-cryptocurrency-and-regulate-it"
     },
     {
-      "text": "Sacramento shooting: 3 alleged gang members charged with murder",
-      "url": "/news/sacramento-shooting-3-alleged-gang-members-charged-with-murder"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-bill-mandating-4-day-work-week-stalled"
-    },
-    {
-      "text": "California bill mandating 4-day work week stalled",
-      "url": "/news/california-bill-mandating-4-day-work-week-stalled"
+      "text": "California moves to embrace cryptocurrency and regulate it",
+      "url": "/news/california-moves-to-embrace-cryptocurrency-and-regulate-it"
     },
     {
       "text": "  ",
-      "url": "/news/california-launches-new-program-for-first-time-homebuyers"
+      "url": "/news/california-exodus-crime-inflation-hochman"
     },
     {
-      "text": "California launches new program for first-time homebuyers",
-      "url": "/news/california-launches-new-program-for-first-time-homebuyers"
+      "text": "American dream replaced by 'nightmares' for Californians, says AG candidate",
+      "url": "/news/california-exodus-crime-inflation-hochman"
     },
     {
       "text": "  ",
-      "url": "/news/californias-population-falls-for-second-year"
+      "url": "/news/south-bay-woman-who-faked-cancer-for-donations-gets-5-years-in-prison"
     },
     {
-      "text": "California's population falls for 2nd straight year",
-      "url": "/news/californias-population-falls-for-second-year"
+      "text": "South Bay woman who faked cancer for donations gets 5 years in prison",
+      "url": "/news/south-bay-woman-who-faked-cancer-for-donations-gets-5-years-in-prison"
+    },
+    {
+      "text": "  ",
+      "url": "/news/autistic-artists-show-off-talents-skills-at-san-diego-exhibit"
+    },
+    {
+      "text": "Autistic artists show off talents, skills at San Diego exhibit",
+      "url": "/news/autistic-artists-show-off-talents-skills-at-san-diego-exhibit"
+    },
+    {
+      "text": "  ",
+      "url": "/news/california-leaders-vow-to-protect-abortion-rights"
+    },
+    {
+      "text": "California leaders vow to protect abortion rights: 'We're not going to be defeated'",
+      "url": "/news/california-leaders-vow-to-protect-abortion-rights"
     },
     {
       "text": "Crime & Public Safety",
@@ -3686,51 +3770,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/dave-chappelle-tackled-on-stage-by-armed-man-at-netflix-is-a-joke-fest-at-hollywood-bowl"
+      "url": "/news/man-found-dead-with-rifle-next-to-body-in-downtown-los-angeles"
     },
     {
-      "text": "Dave Chappelle tackled on stage by armed man at Netflix Is A Joke Fest at Hollywood Bowl",
-      "url": "/news/dave-chappelle-tackled-on-stage-by-armed-man-at-netflix-is-a-joke-fest-at-hollywood-bowl"
-    },
-    {
-      "text": "  ",
-      "url": "/news/lapd-homicides-continue-to-rise-36-reported-in-april"
-    },
-    {
-      "text": "LAPD: Homicides continue to rise, 36 reported in April",
-      "url": "/news/lapd-homicides-continue-to-rise-36-reported-in-april"
+      "text": "Man found dead with rifle next to body near downtown LA gas station",
+      "url": "/news/man-found-dead-with-rifle-next-to-body-in-downtown-los-angeles"
     },
     {
       "text": "  ",
-      "url": "/news/antisemitic-fliers-distributed-in-culver-city-police-investigating"
+      "url": "/news/family-sues-rialto-pd-after-violent-feb-2022-arrest-of-teen-girl"
     },
     {
-      "text": "Anti-Semitic fliers distributed in Culver City; police investigating",
-      "url": "/news/antisemitic-fliers-distributed-in-culver-city-police-investigating"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-with-autism-collecting-petition-signatures-attacked-in-lynwood"
-    },
-    {
-      "text": "Man with autism collecting petition signatures attacked in Lynwood",
-      "url": "/news/man-with-autism-collecting-petition-signatures-attacked-in-lynwood"
+      "text": "Family sues Rialto PD after violent Feb. 2022 arrest of teen girl",
+      "url": "/news/family-sues-rialto-pd-after-violent-feb-2022-arrest-of-teen-girl"
     },
     {
       "text": "  ",
-      "url": "/news/sacramento-shooting-3-alleged-gang-members-charged-with-murder"
+      "url": "/news/105-freeway-in-paramount-shutdown-as-chp-investigates-shooting"
     },
     {
-      "text": "Sacramento shooting: 3 alleged gang members charged with murder",
-      "url": "/news/sacramento-shooting-3-alleged-gang-members-charged-with-murder"
+      "text": "105 Freeway shooting in Paramount ends with pedestrian dead",
+      "url": "/news/105-freeway-in-paramount-shutdown-as-chp-investigates-shooting"
     },
     {
       "text": "  ",
-      "url": "/news/metro-theft-tips-to-keep-yourself-and-your-stuff-safe"
+      "url": "/news/2-arrested-for-beverly-hills-home-robbery"
     },
     {
-      "text": "Metro theft: Tips to keep yourself and your stuff safe",
-      "url": "/news/metro-theft-tips-to-keep-yourself-and-your-stuff-safe"
+      "text": "2 arrested for Beverly Hills home robbery",
+      "url": "/news/2-arrested-for-beverly-hills-home-robbery"
+    },
+    {
+      "text": "  ",
+      "url": "/news/crunch-fitness-locker-room-stabbing-la-mirada"
+    },
+    {
+      "text": "Man stabbed in shower at Crunch Fitness in La Mirada",
+      "url": "/news/crunch-fitness-locker-room-stabbing-la-mirada"
+    },
+    {
+      "text": "  ",
+      "url": "/news/oc-mother-sentenced-to-25-to-life-for-killing-7-month-old-son"
+    },
+    {
+      "text": "OC mother sentenced to 25-to-life for killing 7-month-old son",
+      "url": "/news/oc-mother-sentenced-to-25-to-life-for-killing-7-month-old-son"
     },
     {
       "text": "Consumer",
@@ -3739,6 +3823,38 @@
     {
       "text": "View More",
       "url": "/tag/consumer"
+    },
+    {
+      "text": "  ",
+      "url": "/news/how-the-recent-historic-fed-interest-hikes-will-impact-your-finances"
+    },
+    {
+      "text": "How the recent historic Fed interest hikes will impact your finances",
+      "url": "/news/how-the-recent-historic-fed-interest-hikes-will-impact-your-finances"
+    },
+    {
+      "text": "  ",
+      "url": "/news/baby-formula-shortage-brands-sold-out"
+    },
+    {
+      "text": "Baby formula shortage: 40% of major brands sold out across the U.S., analysts say",
+      "url": "/news/baby-formula-shortage-brands-sold-out"
+    },
+    {
+      "text": "  ",
+      "url": "/news/california-moves-to-embrace-cryptocurrency-and-regulate-it"
+    },
+    {
+      "text": "California moves to embrace cryptocurrency and regulate it",
+      "url": "/news/california-moves-to-embrace-cryptocurrency-and-regulate-it"
+    },
+    {
+      "text": "  ",
+      "url": "/news/scott-and-laci-petersons-modesto-home-sells"
+    },
+    {
+      "text": "Scott and Laci Peterson's Modesto home sells $50,000 over asking price",
+      "url": "/news/scott-and-laci-petersons-modesto-home-sells"
     },
     {
       "text": "  ",
@@ -3757,48 +3873,28 @@
       "url": "/news/moms-want-your-time-not-money-this-mothers-day-survey-says"
     },
     {
-      "text": "  ",
-      "url": "/news/california-launches-new-program-for-first-time-homebuyers"
-    },
-    {
-      "text": "California launches new program for first-time homebuyers",
-      "url": "/news/california-launches-new-program-for-first-time-homebuyers"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1064799"
-    },
-    {
-      "text": "",
-      "url": "/video/1064799"
-    },
-    {
-      "text": "California launches program for first-time homebuyers",
-      "url": "/video/1064799"
-    },
-    {
-      "text": "  ",
-      "url": "/news/scott-and-laci-petersons-modesto-home-sells"
-    },
-    {
-      "text": "Scott and Laci Peterson's Modesto home sells $50,000 over asking price",
-      "url": "/news/scott-and-laci-petersons-modesto-home-sells"
-    },
-    {
-      "text": "  ",
-      "url": "/news/hot-wheels-paralympic-athlete-aaron-wheelz-rc-toy"
-    },
-    {
-      "text": "Hot Wheels teams up with Paralympic athlete Aaron Wheelz for 1st wheelchair RC toy",
-      "url": "/news/hot-wheels-paralympic-athlete-aaron-wheelz-rc-toy"
-    },
-    {
       "text": "Sports",
       "url": "/tag/sports"
     },
     {
       "text": "View More",
       "url": "/tag/sports"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/la-kings-blown-out-by-oilers-series-even-at-1-1"
+    },
+    {
+      "text": "LA Kings blown out by Oilers, series even at 1-1",
+      "url": "/sports/la-kings-blown-out-by-oilers-series-even-at-1-1"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/phil-jackson-to-have-significant-influence-on-lakers-coaching-search"
+    },
+    {
+      "text": "Phil Jackson to have significant influence on Lakers head coach search: report",
+      "url": "/sports/phil-jackson-to-have-significant-influence-on-lakers-coaching-search"
     },
     {
       "text": "  ",
@@ -3837,22 +3933,6 @@
       "url": "/sports/wnba-to-honor-brittney-griner-with-league-wide-floor-decals"
     },
     {
-      "text": "  ",
-      "url": "/sports/la-kings-take-series-opener-at-edmonton"
-    },
-    {
-      "text": "LA Kings take series opener at Edmonton in Stanley Cup playoffs Round 1",
-      "url": "/sports/la-kings-take-series-opener-at-edmonton"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/nfl-allegations-cleveland-browns-paid-former-coach-to-lose-cannot-be-substantiated"
-    },
-    {
-      "text": "NFL: No evidence Cleveland Browns offered incentives for former coach to lose",
-      "url": "/sports/nfl-allegations-cleveland-browns-paid-former-coach-to-lose-cannot-be-substantiated"
-    },
-    {
       "text": "Unusual",
       "url": "/tag/unusual"
     },
@@ -3862,11 +3942,27 @@
     },
     {
       "text": "  ",
+      "url": "/news/stay-in-the-iconic-moulin-rouge-windmill-airbnb-for-just-1"
+    },
+    {
+      "text": "Moulin Rouge's iconic windmill available on Airbnb for $1",
+      "url": "/news/stay-in-the-iconic-moulin-rouge-windmill-airbnb-for-just-1"
+    },
+    {
+      "text": "  ",
       "url": "/news/the-thunder-rolls-garth-brooks-concert-registers-as-earthquake-in-louisiana"
     },
     {
       "text": "The thunder rolls: Garth Brooks concert registers as earthquake in Louisiana",
       "url": "/news/the-thunder-rolls-garth-brooks-concert-registers-as-earthquake-in-louisiana"
+    },
+    {
+      "text": "  ",
+      "url": "/news/police-wanted-man-hid-under-blanket-to-avoid-arrest"
+    },
+    {
+      "text": "Police: Wanted man hid under blanket to avoid arrest",
+      "url": "/news/police-wanted-man-hid-under-blanket-to-avoid-arrest"
     },
     {
       "text": "  ",
@@ -3893,22 +3989,6 @@
       "url": "/news/foul-smelling-toxic-foam-spewing-polluted-river-mosquera-bogota-colombia"
     },
     {
-      "text": "  ",
-      "url": "/news/tropicana-crunch-1st-ever-breakfast-cereal-made-to-pair-with-orange-juice-drops-in-may"
-    },
-    {
-      "text": "Tropicana Crunch: 1st-ever breakfast cereal made to pair with orange juice drops in May",
-      "url": "/news/tropicana-crunch-1st-ever-breakfast-cereal-made-to-pair-with-orange-juice-drops-in-may"
-    },
-    {
-      "text": "  ",
-      "url": "/news/san-francisco-using-contraceptive-to-control-thriving-rat-population"
-    },
-    {
-      "text": "San Francisco using contraceptive to control thriving rat population",
-      "url": "/news/san-francisco-using-contraceptive-to-control-thriving-rat-population"
-    },
-    {
       "text": "Local News",
       "url": "/local-news"
     },
@@ -3918,51 +3998,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/dave-chappelle-tackled-on-stage-by-armed-man-at-netflix-is-a-joke-fest-at-hollywood-bowl"
+      "url": "/news/man-found-dead-with-rifle-next-to-body-in-downtown-los-angeles"
     },
     {
-      "text": "Dave Chappelle tackled on stage by armed man at Netflix Is A Joke Fest at Hollywood Bowl",
-      "url": "/news/dave-chappelle-tackled-on-stage-by-armed-man-at-netflix-is-a-joke-fest-at-hollywood-bowl"
-    },
-    {
-      "text": "  ",
-      "url": "/news/lapd-homicides-continue-to-rise-36-reported-in-april"
-    },
-    {
-      "text": "LAPD: Homicides continue to rise, 36 reported in April",
-      "url": "/news/lapd-homicides-continue-to-rise-36-reported-in-april"
+      "text": "Man found dead with rifle next to body near downtown LA gas station",
+      "url": "/news/man-found-dead-with-rifle-next-to-body-in-downtown-los-angeles"
     },
     {
       "text": "  ",
-      "url": "/news/antisemitic-fliers-distributed-in-culver-city-police-investigating"
+      "url": "/news/suspected-fentanyl-overdose-kills-3-men-in-downtown-los-angeles"
     },
     {
-      "text": "Anti-Semitic fliers distributed in Culver City; police investigating",
-      "url": "/news/antisemitic-fliers-distributed-in-culver-city-police-investigating"
-    },
-    {
-      "text": "  ",
-      "url": "/news/lapd-officer-hurt-downtown-la"
-    },
-    {
-      "text": "LAPD Chief: Crowd threw rocks, bottles at police in downtown LA",
-      "url": "/news/lapd-officer-hurt-downtown-la"
+      "text": "Suspected fentanyl overdose kills 3 men in downtown Los Angeles",
+      "url": "/news/suspected-fentanyl-overdose-kills-3-men-in-downtown-los-angeles"
     },
     {
       "text": "  ",
-      "url": "/news/man-with-autism-collecting-petition-signatures-attacked-in-lynwood"
+      "url": "/news/family-sues-rialto-pd-after-violent-feb-2022-arrest-of-teen-girl"
     },
     {
-      "text": "Man with autism collecting petition signatures attacked in Lynwood",
-      "url": "/news/man-with-autism-collecting-petition-signatures-attacked-in-lynwood"
+      "text": "Family sues Rialto PD after violent Feb. 2022 arrest of teen girl",
+      "url": "/news/family-sues-rialto-pd-after-violent-feb-2022-arrest-of-teen-girl"
     },
     {
       "text": "  ",
-      "url": "/news/hundreds-rally-in-downtown-la-to-support-abortion-rights"
+      "url": "/news/loving-hands-community-care-holds-mothers-day-event-for-women-who-lost-a-child"
     },
     {
-      "text": "Hundreds rally in downtown LA to support abortion rights",
-      "url": "/news/hundreds-rally-in-downtown-la-to-support-abortion-rights"
+      "text": "Loving Hands Community Care holds Mother's Day event for women who lost a child",
+      "url": "/news/loving-hands-community-care-holds-mothers-day-event-for-women-who-lost-a-child"
+    },
+    {
+      "text": "  ",
+      "url": "/news/105-freeway-in-paramount-shutdown-as-chp-investigates-shooting"
+    },
+    {
+      "text": "105 Freeway shooting in Paramount ends with pedestrian dead",
+      "url": "/news/105-freeway-in-paramount-shutdown-as-chp-investigates-shooting"
+    },
+    {
+      "text": "  ",
+      "url": "/news/2-arrested-for-beverly-hills-home-robbery"
+    },
+    {
+      "text": "2 arrested for Beverly Hills home robbery",
+      "url": "/news/2-arrested-for-beverly-hills-home-robbery"
     },
     {
       "text": "National News",
@@ -3974,51 +4054,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/johnny-depp-trial-amber-heard-expected-to-testify-wednesday"
+      "url": "/news/johnny-depp-trial-crowds-grow-outside-courtroom-as-amber-heard-expected-back-on-stand"
     },
     {
-      "text": "Johnny Depp Trial: Amber Heard expected to testify Wednesday",
-      "url": "/news/johnny-depp-trial-amber-heard-expected-to-testify-wednesday"
-    },
-    {
-      "text": "  ",
-      "url": "/news/video-anti-abortion-activist-scales-60-floor-san-francisco-salesforce-tower"
-    },
-    {
-      "text": "Video: Anti-abortion activist scales 60-floor San Francisco Salesforce Tower",
-      "url": "/news/video-anti-abortion-activist-scales-60-floor-san-francisco-salesforce-tower"
+      "text": "Johnny Depp Trial: Crowds grow outside courtroom as Amber Heard expected back on stand",
+      "url": "/news/johnny-depp-trial-crowds-grow-outside-courtroom-as-amber-heard-expected-back-on-stand"
     },
     {
       "text": "  ",
-      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
+      "url": "/news/fallen-mcso-deputy-laid-to-rest-after-following-deadly-assault"
     },
     {
-      "text": "Roe v. Wade: What you need to know about a key abortion ruling that the Supreme Court looks poised to overturn",
-      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
-    },
-    {
-      "text": "  ",
-      "url": "/news/winning-powerball-ticket-sold-in-arizona-lottery-officials-say"
-    },
-    {
-      "text": "Couple claims winning $473M Powerball ticket sold in Arizona, lottery officials say",
-      "url": "/news/winning-powerball-ticket-sold-in-arizona-lottery-officials-say"
+      "text": "Suspect who allegedly attacked, killed Maricopa County Sheriff's deputy may face the death penalty",
+      "url": "/news/fallen-mcso-deputy-laid-to-rest-after-following-deadly-assault"
     },
     {
       "text": "  ",
-      "url": "/news/upper-makefield-township-police-searching-for-woman-wanted-for-attempted-homicide-da-says"
+      "url": "/news/snellville-baby-girl-dies-being-left-car-father-arrest"
     },
     {
-      "text": "DA: Mother charged with attempted homicide after shooting 2 sons at Pennsylvania home",
-      "url": "/news/upper-makefield-township-police-searching-for-woman-wanted-for-attempted-homicide-da-says"
+      "text": "8-month-old Snellville girl left in car for hours dies, father faces murder charge",
+      "url": "/news/snellville-baby-girl-dies-being-left-car-father-arrest"
     },
     {
       "text": "  ",
-      "url": "/news/rollercoaster-riders-get-stuck-at-n-c-amusement-park-for-30-minutes"
+      "url": "/news/how-the-recent-historic-fed-interest-hikes-will-impact-your-finances"
     },
     {
-      "text": "Roller coaster riders get stuck at N.C. amusement park for 30 minutes",
-      "url": "/news/rollercoaster-riders-get-stuck-at-n-c-amusement-park-for-30-minutes"
+      "text": "How the recent historic Fed interest hikes will impact your finances",
+      "url": "/news/how-the-recent-historic-fed-interest-hikes-will-impact-your-finances"
+    },
+    {
+      "text": "  ",
+      "url": "/news/amber-heard-testifies-she-was-assaulted-by-johnny-depp"
+    },
+    {
+      "text": "Amber Heard testifies she was assaulted by Johnny Depp",
+      "url": "/news/amber-heard-testifies-she-was-assaulted-by-johnny-depp"
+    },
+    {
+      "text": "  ",
+      "url": "/news/blinken-tests-positive-for-covid-19-state-department-says"
+    },
+    {
+      "text": "Blinken tests positive for COVID-19, State Department says",
+      "url": "/news/blinken-tests-positive-for-covid-19-state-department-says"
     },
     {
       "text": "Money",
@@ -4030,51 +4110,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/winning-powerball-ticket-sold-in-arizona-lottery-officials-say"
+      "url": "/news/how-the-recent-historic-fed-interest-hikes-will-impact-your-finances"
     },
     {
-      "text": "Couple claims winning $473M Powerball ticket sold in Arizona, lottery officials say",
-      "url": "/news/winning-powerball-ticket-sold-in-arizona-lottery-officials-say"
-    },
-    {
-      "text": "  ",
-      "url": "/money/mortgage-delinquency-rates-record-low-march"
-    },
-    {
-      "text": "Mortgage delinquency rates hit record low in March, data shows",
-      "url": "/money/mortgage-delinquency-rates-record-low-march"
+      "text": "How the recent historic Fed interest hikes will impact your finances",
+      "url": "/news/how-the-recent-historic-fed-interest-hikes-will-impact-your-finances"
     },
     {
       "text": "  ",
-      "url": "/news/california-bill-mandating-4-day-work-week-stalled"
+      "url": "/money/private-student-loan-rates-may-3-2022"
     },
     {
-      "text": "California bill mandating 4-day work week stalled",
-      "url": "/news/california-bill-mandating-4-day-work-week-stalled"
-    },
-    {
-      "text": "  ",
-      "url": "/money/todays-mortgage-rates-may-3-2022"
-    },
-    {
-      "text": "30-year mortgage rates rise, but still holding below 20-year rates | May 3, 2022",
-      "url": "/money/todays-mortgage-rates-may-3-2022"
+      "text": "Private student loan rates tumble",
+      "url": "/money/private-student-loan-rates-may-3-2022"
     },
     {
       "text": "  ",
-      "url": "/news/amazons-southern-california-expansion-to-bring-more-than-1000-jobs-to-santa-monica"
+      "url": "/money/biden-considers-canceling-some-student-debt"
     },
     {
-      "text": "Amazon's Southern California expansion to bring more than 1,000 jobs to Santa Monica",
-      "url": "/news/amazons-southern-california-expansion-to-bring-more-than-1000-jobs-to-santa-monica"
+      "text": "Biden says he\u2019s considering canceling some student debt, but not $50K",
+      "url": "/money/biden-considers-canceling-some-student-debt"
     },
     {
       "text": "  ",
-      "url": "/news/california-launches-new-program-for-first-time-homebuyers"
+      "url": "/news/california-moves-to-embrace-cryptocurrency-and-regulate-it"
     },
     {
-      "text": "California launches new program for first-time homebuyers",
-      "url": "/news/california-launches-new-program-for-first-time-homebuyers"
+      "text": "California moves to embrace cryptocurrency and regulate it",
+      "url": "/news/california-moves-to-embrace-cryptocurrency-and-regulate-it"
+    },
+    {
+      "text": "  ",
+      "url": "/money/todays-mortgage-refinance-rates-may-4-2022"
+    },
+    {
+      "text": "Today\u2019s best mortgage refinance deal? 15-year rates stick for 3rd day | May 4, 2022",
+      "url": "/money/todays-mortgage-refinance-rates-may-4-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/news/fed-raises-interest-rate-by-half-point-the-most-since-2000"
+    },
+    {
+      "text": "Fed raises interest rates by half-point, the most since 2000",
+      "url": "/news/fed-raises-interest-rate-by-half-point-the-most-since-2000"
     },
     {
       "text": "News",
@@ -4521,8 +4601,8 @@
       "url": "/contact-us"
     }
   ],
-  "item_last_updated": 1651676125,
-  "item_size": 29831902,
+  "item_last_updated": 1651761281,
+  "item_size": 30683417,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -4539,10 +4619,10 @@
     "publicdate": "2022-03-23 20:59:13",
     "addeddate": "2022-03-23 20:59:13"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 890931966,
+  "server": "ia801507.us.archive.org",
+  "uniq": 350492143,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }
