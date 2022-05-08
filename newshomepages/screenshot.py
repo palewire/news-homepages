@@ -63,7 +63,7 @@ def _shoot(site: typing.Dict, output_dir: str):
                 f"--disable-extensions-except={path_to_extension}",
                 f"--load-extension={path_to_extension}",
             ],
-            user_agent="News Homepages (http://homepages.news/)",
+            user_agent="News Homepages (https://homepages.news/)",
         )
 
         # Set the timeout
@@ -92,7 +92,7 @@ def _shoot(site: typing.Dict, output_dir: str):
         # If there's javascript run it
         javascript = utils.get_javascript(site["handle"])
         if javascript:
-            click.echo("Executing javascript")
+            click.echo("Executing custom javascript")
             try:
                 page.evaluate(javascript)
             except Error as error:
@@ -100,7 +100,7 @@ def _shoot(site: typing.Dict, output_dir: str):
 
         # Take the screenshot
         file_path = str(output_path / f"{site['handle'].lower()}.jpg")
-        click.echo(f"Saving to {file_path}")
+        click.echo(f"Saving image to {file_path}")
         page.screenshot(
             quality=80,
             type="jpeg",
