@@ -87,10 +87,12 @@ def _shoot(site: typing.Dict, output_dir: str):
                 raise click.ClickException(error.message)
 
         # Take the screenshot
+        file_path = str(output_path / f"{site['handle'].lower()}.jpg")
+        click.echo(f"Saving to {file_path}")
         page.screenshot(
             quality=80,
             type="jpeg",
-            path=str(output_path / f"{site['handle'].lower()}.jpg"),
+            path=file_path,
         )
 
         # Close it out

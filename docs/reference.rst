@@ -42,8 +42,8 @@ Commands
    :prog: rss
    :nested: full
 
-.. click:: newshomepages.shoot:cli
-   :prog: shoot
+.. click:: newshomepages.screenshot:cli
+   :prog: screenshot
    :nested: full
 
 .. click:: newshomepages.telegrammer:cli

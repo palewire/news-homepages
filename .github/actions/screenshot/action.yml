@@ -33,7 +33,7 @@ runs:
 
     - id: shoot
       name: Take screenshot
-      run: xvfb-run pipenv run python -m newshomepages.shoot ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: pipenv run xvfb-run python -m newshomepages.screenshot ${{ inputs.command }} ${{ inputs.source }} -o _dist
       shell: bash
 
     - id: save
