@@ -16,7 +16,7 @@ runs:
       name: Install Ubuntu codecs and extras
       run: |
         sudo apt-get update
-        sudo apt install -y ubuntu-restricted-extras ffmpeg libavcodec-extra libxcb-dri3-0 libxcb-dri3-dev
+        sudo apt install -y ubuntu-restricted-extras ffmpeg libavcodec-extra libxcb-dri3-dev
       shell: bash
 
     - id: cache-playwright
