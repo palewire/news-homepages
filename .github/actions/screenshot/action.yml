@@ -19,11 +19,6 @@ runs:
         sudo apt install -y ubuntu-restricted-extras ffmpeg libavcodec-extra
       shell: bash
 
-    - id: install-xvfb
-      name: Install xvfb
-      run: sudo apt install -y xvfb
-      shell: bash
-
     - id: cache-playwright
       name: Cache Playwright browsers
       uses: actions/cache@v2
@@ -38,12 +33,8 @@ runs:
 
     - id: shoot
       name: Take screenshot
-      run: |
-          Xvfb $DISPLAY -screen 0 1920x1080x24 &
-          pipenv run python -m newshomepages.shoot ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: xvfb-run pipenv run python -m newshomepages.shoot ${{ inputs.command }} ${{ inputs.source }} -o _dist
       shell: bash
-      env:
-        DISPLAY: :99
 
     - id: save
       name: Save artifact
