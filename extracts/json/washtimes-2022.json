@@ -1,8 +1,8 @@
 {
-  "created": 1651882756,
-  "d1": "ia601508.us.archive.org",
-  "d2": "ia801508.us.archive.org",
-  "dir": "/4/items/washtimes-2022",
+  "created": 1651969161,
+  "d1": "ia902505.us.archive.org",
+  "d2": "ia802505.us.archive.org",
+  "dir": "/23/items/washtimes-2022",
   "files": [
     {
       "name": "WashTimes-2022-03-25T14:44:54.456413-04:00.jpg",
@@ -1428,31 +1428,73 @@
       "sha1": "b0583e57e4f9678b175cd9689e752484fcac30e8"
     },
     {
+      "name": "washtimes-2022-05-07T14:42:03.117320-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651948928",
+      "size": "89186",
+      "md5": "6d7a105e1d3c7a4d96ae134cc92710ac",
+      "crc32": "0786110b",
+      "sha1": "90a4f7e241363362d29d7cf26ae952320bf30aa9",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-05-07T14:42:03.117320-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651948929",
+      "size": "55865",
+      "md5": "65f0b8ef890cc39bdfbaa0ed9ae44a4f",
+      "crc32": "7b67e846",
+      "sha1": "01ab62d25e543d3ac31b6b2b9259c8daab41cca1",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-05-07T14:42:03.117320-04:00.jpg",
+      "source": "original",
+      "mtime": "1651948926",
+      "size": "325598",
+      "md5": "cf67c9b8bc4eb280f18203c75261d311",
+      "crc32": "0f6558b0",
+      "sha1": "832609dff6863b63c3430ba54bfdfe9697a23d37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-05-07T14:42:03.117320-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-05-07T14:42:03.117320-04:00.jpg",
+      "mtime": "1651949386",
+      "size": "11035",
+      "md5": "edc0b76746b6f249d7a871a7b1800060",
+      "crc32": "35de93f5",
+      "sha1": "f9ece382459c426ba9390c17d4d736f5b7e508dd"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1aadbc253d8a9c7ecd26644298bcae57de0ca46",
-      "mtime": "1651862668",
-      "size": "30143",
-      "md5": "341c25c8811c930adec05b41d5bd66a0",
-      "crc32": "534d19f0",
-      "sha1": "b24dc338ffd56f6896c8257f734201f721637c9d",
+      "btih": "a1b956d7339cc73672cecc4d5b0379e682ccedc6",
+      "mtime": "1651949390",
+      "size": "31000",
+      "md5": "b2e94be22a53e9c4d18793b10e413509",
+      "crc32": "220d40dc",
+      "sha1": "33148f4e44dffa5f541a4b21ac7781033dd4af7a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b8b54de41cd64ef2885932e0ca5bd86",
+      "md5": "633a94378e388ab577990a84b38db6c9",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651862605",
-      "size": "172032",
-      "md5": "b11f0742b9559d78449ed2464845f535",
-      "crc32": "eda8e1c4",
-      "sha1": "466a6a217257f06de08c32929315aa929f9deb82",
+      "mtime": "1651949325",
+      "size": "176128",
+      "md5": "b31618288e34e6b0fab5fd2fa1409e0a",
+      "crc32": "7b4c5c9b",
+      "sha1": "df71349bfd1f8e31b7c6294167754460df5371bc",
       "format": "Metadata"
     },
     {
@@ -1466,9 +1508,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 139,
-  "item_last_updated": 1651862668,
-  "item_size": 16754770,
+  "files_count": 143,
+  "item_last_updated": 1651949390,
+  "item_size": 17241407,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -1485,8 +1527,8 @@
     "publicdate": "2022-03-25 18:45:19",
     "addeddate": "2022-03-25 18:45:19"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 269284928,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1795971133,
   "washtimes-2022": [
     {
       "text": "Skip to content",
@@ -1998,14 +2040,6 @@
     },
     {
       "text": "",
-      "url": "/specials/front-page-podcast/"
-    },
-    {
-      "text": "Front Page Podcast with George Gerbo",
-      "url": "/specials/front-page-podcast/"
-    },
-    {
-      "text": "",
       "url": "/specials/history-happens-podcast/"
     },
     {
@@ -2021,108 +2055,116 @@
       "url": "/specials/bold-blunt-podcast/"
     },
     {
-      "text": "Ukraine",
-      "url": "/topics/ukraine/"
+      "text": "",
+      "url": "/specials/capitol-hill-show-podcast/"
     },
     {
-      "text": "Supreme Court",
-      "url": "/topics/supreme-court/"
+      "text": "LISTEN: Priest weighs in on Supreme Court leak",
+      "url": "/specials/capitol-hill-show-podcast/"
     },
     {
       "text": "Russia",
       "url": "/topics/russia/"
     },
     {
+      "text": "Supreme Court",
+      "url": "/topics/supreme-court/"
+    },
+    {
+      "text": "Ukraine",
+      "url": "/topics/ukraine/"
+    },
+    {
+      "text": "Afghanistan",
+      "url": "/topics/afghanistan/"
+    },
+    {
+      "text": "China",
+      "url": "/topics/china/"
+    },
+    {
+      "text": "Donald Trump",
+      "url": "/topics/donald-trump/"
+    },
+    {
+      "text": "Emmanuel Macron",
+      "url": "/topics/emmanuel-macron/"
+    },
+    {
+      "text": "France",
+      "url": "/topics/france/"
+    },
+    {
+      "text": "Havana",
+      "url": "/topics/havana/"
+    },
+    {
       "text": "Israel",
       "url": "/topics/israel/"
     },
     {
-      "text": "Roe",
-      "url": "/topics/roe/"
+      "text": "",
+      "url": "/news/2022/may/7/pro-choice-catholic-church-protests-could-lead-hat/"
     },
     {
-      "text": "Wade",
-      "url": "/topics/wade/"
-    },
-    {
-      "text": "Kyiv",
-      "url": "/topics/kyiv/"
-    },
-    {
-      "text": "Moscow",
-      "url": "/topics/moscow/"
-    },
-    {
-      "text": "Senate",
-      "url": "/topics/senate/"
-    },
-    {
-      "text": "Washington",
-      "url": "/topics/washington/"
+      "text": "Pro-choice Catholic church protests could lead to hate crimes, observer warns",
+      "url": "/news/2022/may/7/pro-choice-catholic-church-protests-could-lead-hat/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/pelosi-lines-vote-allowing-house-staff-unionize/"
+      "url": "/news/2022/may/7/mehmet-ozs-opponents-drill-down-turkish-ties/"
     },
     {
-      "text": "Pelosi lines up a vote on allowing House staff to unionize",
-      "url": "/news/2022/may/6/pelosi-lines-vote-allowing-house-staff-unionize/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/6/biden-says-more-work-do-inflation-calls-republican/"
-    },
-    {
-      "text": "Biden says \u2018more work to do\u2019 on inflation, calls on Republicans in Congress to help",
-      "url": "/news/2022/may/6/biden-says-more-work-do-inflation-calls-republican/"
+      "text": "Mehmet Oz\u2019s opponents drill down on Turkish ties",
+      "url": "/news/2022/may/7/mehmet-ozs-opponents-drill-down-turkish-ties/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/5/abortion-pills-become-next-battleground-roe-v-wade/"
+      "url": "/news/2022/may/7/judge-tosses-trumps-lawsuit-reinstate-his-twitter-/"
     },
     {
-      "text": "Abortion pills become next battleground as Roe v. Wade hangs in the balance",
-      "url": "/news/2022/may/5/abortion-pills-become-next-battleground-roe-v-wade/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/6/michigan-state-police-probe-unauthorized-access-vo/"
-    },
-    {
-      "text": "Michigan state police probe unauthorized access to voting machines after 2020 election",
-      "url": "/news/2022/may/6/michigan-state-police-probe-unauthorized-access-vo/"
+      "text": "Judge tosses Trump\u2019s lawsuit to reinstate his Twitter account",
+      "url": "/news/2022/may/7/judge-tosses-trumps-lawsuit-reinstate-his-twitter-/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/new-white-house-press-secretary-lives-cnn-correspo/"
+      "url": "/news/2022/may/6/joe-biden-repeats-debunked-boast-hes-been-iraq-afg/"
     },
     {
-      "text": "New White House press secretary lives with CNN correspondent, raising conflict questions",
-      "url": "/news/2022/may/6/new-white-house-press-secretary-lives-cnn-correspo/"
+      "text": "Biden repeats debunked boast that he\u2019s been to Iraq, Afghanistan more than 50 times",
+      "url": "/news/2022/may/6/joe-biden-repeats-debunked-boast-hes-been-iraq-afg/"
     },
     {
       "text": "",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D4&id=id4&path=%2F&date=5%2F6%2F2022"
+      "url": "/news/2022/may/6/judge-marjorie-taylor-greene-is-qualified-for-reel/"
+    },
+    {
+      "text": "Rep. Marjorie Taylor Greene stays on ballot in Georgia, beats back legal challenge",
+      "url": "/news/2022/may/6/judge-marjorie-taylor-greene-is-qualified-for-reel/"
+    },
+    {
+      "text": "",
+      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D0&id=id0&path=%2F&date=5%2F7%2F2022"
     },
     {
       "text": "Doctor: \u201cDoing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)\u201d",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D4&id=id4&path=%2F&date=5%2F6%2F2022"
+      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D0&id=id0&path=%2F&date=5%2F7%2F2022"
     },
     {
-      "text": "Anti-missile radars not working on Russian ship Moskva when sunk by Ukrainian strike, experts say",
-      "url": "https://www.washingtontimes.com/news/2022/may/6/anti-missile-radars-not-working-russian-ship-moskv/"
+      "text": "Black Republicans rise up after 'The View' host Sunny Hostin calls them 'oxymoron'",
+      "url": "https://www.washingtontimes.com/news/2022/may/6/black-republicans-rise-after-view-host-sunny-hosti/"
     },
     {
-      "text": "'Ruth Sent Us' activists plan abortion protests at churches, Supreme Court justices' homes",
-      "url": "https://www.washingtontimes.com/news/2022/may/5/ruth-sent-us-activists-plan-abortion-protests-chur/"
+      "text": "New White House press secretary lives with CNN correspondent, raising conflict questions",
+      "url": "https://www.washingtontimes.com/news/2022/may/6/new-white-house-press-secretary-lives-cnn-correspo/"
     },
     {
-      "text": "Jen Psaki refuses to condemn abortion planned protests at churches, justices' homes",
-      "url": "https://www.washingtontimes.com/news/2022/may/5/jen-psaki-refuses-condemn-abortion-planned-protest/"
+      "text": "America has a stalker: The Democrats",
+      "url": "https://www.washingtontimes.com/news/2022/may/7/america-has-stalker-democrats/"
     },
     {
-      "text": "Pelosi sets minimum pay level for House staff at $45,000 per year",
-      "url": "https://www.washingtontimes.com/news/2022/may/6/nancy-pelosi-sets-minimum-pay-level-house-staff-45/"
+      "text": "Joe Biden repeats debunked boast that he's been to Iraq, Afghanistan more than 50 times",
+      "url": "https://www.washingtontimes.com/news/2022/may/6/joe-biden-repeats-debunked-boast-hes-been-iraq-afg/"
     },
     {
       "text": "Letter to the editor: '2000 Mules' based on hard facts",
@@ -2185,88 +2227,88 @@
       "url": "//www.washingtontimes.com/puzzles/sudoku/"
     },
     {
-      "text": "Anti-missile radars not working on Russian ship Moskva when sunk by Ukrainian strike, experts say",
-      "url": "/news/2022/may/6/anti-missile-radars-not-working-russian-ship-moskv/"
+      "text": "Liberal activists aim to flip at least one justice before Supreme Court rules on abortion case",
+      "url": "/news/2022/may/7/liberal-activists-determined-flip-conservative-sup/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/anti-missile-radars-not-working-russian-ship-moskv/"
-    },
-    {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
-    },
-    {
-      "text": " Russia assaults Mariupol steel plant for a second day",
-      "url": "/news/2022/may/6/russia-assaults-mariupol-steel-plan-second-day/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/5/jeffries-plays-inside-game-succeed-pelosi-top-hous/"
-    },
-    {
-      "text": "Jeffries running stealth campaign to succeed Pelosi as top House Dem",
-      "url": "/news/2022/may/5/jeffries-plays-inside-game-succeed-pelosi-top-hous/"
-    },
-    {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/5/democrats-muscle-gop-primaries-hopes-keeping-house/"
-    },
-    {
-      "text": "Democrats muscle into GOP primaries in hopes of keeping House majority",
-      "url": "/news/2022/may/5/democrats-muscle-gop-primaries-hopes-keeping-house/"
-    },
-    {
-      "text": "Haris Alic",
-      "url": "https://www.washingtontimes.com/staff/haris-alic/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/5/leak-draft-abortion-ruling-fuels-politicization-su/"
-    },
-    {
-      "text": "Leak of draft abortion ruling fuels politicization of Supreme Court: \u2018All bets are off\u2019",
-      "url": "/news/2022/may/5/leak-draft-abortion-ruling-fuels-politicization-su/"
+      "url": "/news/2022/may/7/liberal-activists-determined-flip-conservative-sup/"
     },
     {
       "text": "Susan Ferrechio",
       "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
     },
     {
-      "text": "",
-      "url": "/news/2022/may/5/for-woke-abortion-advocates-do-black-lives-really-/"
-    },
-    {
-      "text": "'Woke' White women's fealty to racial eugenics",
-      "url": "/news/2022/may/5/for-woke-abortion-advocates-do-black-lives-really-/"
+      "text": " Alito\u2019s legal reasoning for ending Roe rests on history, the right to life",
+      "url": "/news/2022/may/6/justice-samuel-alitos-legal-reasoning-ending-roe-r/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/5/democrats-blast-biden-over-looming-border-surge/"
+      "url": "/news/2022/may/7/justice-thomas-says-high-court-wont-be-bullied-ove/"
     },
     {
-      "text": "Democrats blast Biden over looming border surge",
-      "url": "/news/2022/may/5/democrats-blast-biden-over-looming-border-surge/"
+      "text": "Justice Thomas says high court won\u2019t be \u2018bullied\u2019 over Roe leak",
+      "url": "/news/2022/may/7/justice-thomas-says-high-court-wont-be-bullied-ove/"
     },
     {
-      "text": "",
-      "url": "/news/2022/may/5/judge-review-concealed-clinton-campaign-records-su/"
-    },
-    {
-      "text": "Judge sides against Clinton campaign, agrees to review concealed records in Sussmann case",
-      "url": "/news/2022/may/5/judge-review-concealed-clinton-campaign-records-su/"
+      "text": "Alex Swoyer",
+      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/5/republicans-ask-dhs-disinformation-chief-appear/"
+      "url": "/news/2022/may/6/catholics-urge-biden-defend-churches-bracing-pro-a/"
     },
     {
-      "text": "Republicans ask DHS disinformation chief to appear",
-      "url": "/news/2022/may/5/republicans-ask-dhs-disinformation-chief-appear/"
+      "text": "Catholics urge Biden to defend churches bracing for pro-abortion protests at Sunday Mass",
+      "url": "/news/2022/may/6/catholics-urge-biden-defend-churches-bracing-pro-a/"
+    },
+    {
+      "text": "Valerie Richardson",
+      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/rep-jordan-demands-briefing-fbi-director-retaliati/"
+    },
+    {
+      "text": "Jim Jordan demands briefing by FBI director on retaliation against agents at Jan. 6 protest",
+      "url": "/news/2022/may/6/rep-jordan-demands-briefing-fbi-director-retaliati/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/texas-bar-foundation-under-investigation-allegedly/"
+    },
+    {
+      "text": "Texas Bar Foundation under investigation for allegedly encouraging, financing illegal immigration",
+      "url": "/news/2022/may/6/texas-bar-foundation-under-investigation-allegedly/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/texas-gov-greg-abbott-time-revisit-requiring-publi/"
+    },
+    {
+      "text": "Texas Gov. Abbott: Time to revisit requiring public schools to educate illegal immigrants",
+      "url": "/news/2022/may/6/texas-gov-greg-abbott-time-revisit-requiring-publi/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/biden-reminisces-about-bipartisan-camaraderie-segr/"
+    },
+    {
+      "text": "Biden reminisces about bipartisan camaraderie with segregationists during Ohio swing",
+      "url": "/news/2022/may/6/biden-reminisces-about-bipartisan-camaraderie-segr/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/anti-missile-radars-not-working-russian-ship-moskv/"
+    },
+    {
+      "text": "Anti-missile radars not working on Russian ship Moskva when sunk by Ukrainian strike, experts say",
+      "url": "/news/2022/may/6/anti-missile-radars-not-working-russian-ship-moskv/"
     },
     {
       "text": "",
@@ -2286,15 +2328,27 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/nashville-library-campaigns-against-banned-books/"
+      "url": "/news/2022/may/7/pro-choice-catholic-church-protests-could-lead-hat/"
     },
     {
-      "text": "Nashville library campaigns against \u2018banned books\u2019",
-      "url": "/news/2022/may/6/nashville-library-campaigns-against-banned-books/"
+      "text": "Pro-choice Catholic church protests could lead to hate crimes, observer warns",
+      "url": "/news/2022/may/7/pro-choice-catholic-church-protests-could-lead-hat/"
     },
     {
-      "text": "Peter Santo",
-      "url": "https://www.washingtontimes.com/staff/peter-santo/"
+      "text": "Alex Swoyer",
+      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/black-republicans-rise-after-view-host-sunny-hosti/"
+    },
+    {
+      "text": "Black Republicans rise up after \u2018The View\u2019 host Sunny Hostin calls them \u2018oxymoron\u2019",
+      "url": "/news/2022/may/6/black-republicans-rise-after-view-host-sunny-hosti/"
+    },
+    {
+      "text": "Valerie Richardson",
+      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
     },
     {
       "text": "",
@@ -2310,23 +2364,15 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/5/nantucket-voters-ok-topless-women-beaches-measure-/"
+      "url": "/news/2022/may/6/most-americans-hide-their-politics-twitter-pew-sur/"
     },
     {
-      "text": "Nantucket voters OK topless women on beaches, measure goes to state attorney general",
-      "url": "/news/2022/may/5/nantucket-voters-ok-topless-women-beaches-measure-/"
+      "text": "Most Americans hide their politics on Twitter: Pew survey",
+      "url": "/news/2022/may/6/most-americans-hide-their-politics-twitter-pew-sur/"
     },
     {
-      "text": "Peter Santo",
-      "url": "https://www.washingtontimes.com/staff/peter-santo/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/5/isaiah-lee-facing-felony-charge-dave-chappelle-tac/"
-    },
-    {
-      "text": "DA: No felony charge for man who tackled Dave Chappelle on stage",
-      "url": "/news/2022/may/5/isaiah-lee-facing-felony-charge-dave-chappelle-tac/"
+      "text": "Sean Salai",
+      "url": "https://www.washingtontimes.com/staff/sean-salai/"
     },
     {
       "text": "White House Watch",
@@ -2338,11 +2384,23 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/biden-announce-3d-printing-initiative-boost-us-sup/"
+      "url": "/news/2022/may/7/jill-biden-hears-heartbreak-of-ukrainian-moms-now-/"
     },
     {
-      "text": "Biden to announce 3D printing initiative to boost U.S. supply chain",
-      "url": "/news/2022/may/6/biden-announce-3d-printing-initiative-boost-us-sup/"
+      "text": "First Lady meets with Ukrainian refugees in Romania",
+      "url": "/news/2022/may/7/jill-biden-hears-heartbreak-of-ukrainian-moms-now-/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/joe-biden-repeats-debunked-boast-hes-been-iraq-afg/"
+    },
+    {
+      "text": "Biden repeats debunked boast that he\u2019s been to Iraq, Afghanistan more than 50 times",
+      "url": "/news/2022/may/6/joe-biden-repeats-debunked-boast-hes-been-iraq-afg/"
     },
     {
       "text": "Jeff Mordock",
@@ -2362,27 +2420,15 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/5/new-doj-environmental-justice-police-crack-down-vi/"
+      "url": "/news/2022/may/6/catholics-urge-biden-defend-churches-bracing-pro-a/"
     },
     {
-      "text": "Biden administration unleashes new DOJ environmental justice police",
-      "url": "/news/2022/may/5/new-doj-environmental-justice-police-crack-down-vi/"
+      "text": "Catholics urge Biden to defend churches bracing for pro-abortion protests at Sunday Mass",
+      "url": "/news/2022/may/6/catholics-urge-biden-defend-churches-bracing-pro-a/"
     },
     {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/5/jen-psaki-refuses-condemn-abortion-planned-protest/"
-    },
-    {
-      "text": "Psaki refuses to condemn abortion planned protests at churches, justices\u2019 homes",
-      "url": "/news/2022/may/5/jen-psaki-refuses-condemn-abortion-planned-protest/"
-    },
-    {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
+      "text": "Valerie Richardson",
+      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
     },
     {
       "text": "Politics",
@@ -2394,47 +2440,55 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/pelosi-lines-vote-allowing-house-staff-unionize/"
+      "url": "/news/2022/may/7/liberal-activists-determined-flip-conservative-sup/"
     },
     {
-      "text": "Pelosi lines up a vote on allowing House staff to unionize",
-      "url": "/news/2022/may/6/pelosi-lines-vote-allowing-house-staff-unionize/"
+      "text": "Liberal activists aim to flip at least one justice before Supreme Court rules on abortion case",
+      "url": "/news/2022/may/7/liberal-activists-determined-flip-conservative-sup/"
     },
     {
-      "text": "Haris Alic",
-      "url": "https://www.washingtontimes.com/staff/haris-alic/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/6/biden-to-plug-manufacturing-initiative-at-ohio-met/"
-    },
-    {
-      "text": "Biden to plug manufacturing initiative at Ohio metal company",
-      "url": "/news/2022/may/6/biden-to-plug-manufacturing-initiative-at-ohio-met/"
+      "text": "Susan Ferrechio",
+      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/nancy-pelosi-sets-minimum-pay-level-house-staff-45/"
+      "url": "/news/2022/may/7/mehmet-ozs-opponents-drill-down-turkish-ties/"
     },
     {
-      "text": "Pelosi sets minimum pay level for House staff at $45,000 per year",
-      "url": "/news/2022/may/6/nancy-pelosi-sets-minimum-pay-level-house-staff-45/"
+      "text": "Mehmet Oz\u2019s opponents drill down on Turkish ties",
+      "url": "/news/2022/may/7/mehmet-ozs-opponents-drill-down-turkish-ties/"
     },
     {
-      "text": "Haris Alic",
-      "url": "https://www.washingtontimes.com/staff/haris-alic/"
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/biden-says-more-work-do-inflation-calls-republican/"
+      "url": "/news/2022/may/7/judge-tosses-trumps-lawsuit-reinstate-his-twitter-/"
     },
     {
-      "text": "Biden says \u2018more work to do\u2019 on inflation, calls on Republicans in Congress to help",
-      "url": "/news/2022/may/6/biden-says-more-work-do-inflation-calls-republican/"
+      "text": "Judge tosses Trump\u2019s lawsuit to reinstate his Twitter account",
+      "url": "/news/2022/may/7/judge-tosses-trumps-lawsuit-reinstate-his-twitter-/"
     },
     {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
+      "text": "Alex Swoyer",
+      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
+    },
+    {
+      "text": "Ryan Lovelace",
+      "url": "https://www.washingtontimes.com/staff/ryan-lovelace/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/rep-jordan-demands-briefing-fbi-director-retaliati/"
+    },
+    {
+      "text": "Jim Jordan demands briefing by FBI director on retaliation against agents at Jan. 6 protest",
+      "url": "/news/2022/may/6/rep-jordan-demands-briefing-fbi-director-retaliati/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "Dive Deeper",
@@ -2502,39 +2556,51 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/protective-order-against-lieutenant-gov-candidate-/"
+      "url": "/news/2022/may/7/pro-choice-catholic-church-protests-could-lead-hat/"
     },
     {
-      "text": "Protective order against lieutenant gov candidate tossed",
-      "url": "/news/2022/may/6/protective-order-against-lieutenant-gov-candidate-/"
+      "text": "Pro-choice Catholic church protests could lead to hate crimes, observer warns",
+      "url": "/news/2022/may/7/pro-choice-catholic-church-protests-could-lead-hat/"
     },
     {
-      "text": "",
-      "url": "/news/2022/may/6/nashville-library-campaigns-against-banned-books/"
-    },
-    {
-      "text": "Nashville library campaigns against \u2018banned books\u2019",
-      "url": "/news/2022/may/6/nashville-library-campaigns-against-banned-books/"
-    },
-    {
-      "text": "Peter Santo",
-      "url": "https://www.washingtontimes.com/staff/peter-santo/"
+      "text": "Alex Swoyer",
+      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/tennessee-south-carolina-extend-health-care-for-ne/"
+      "url": "/news/2022/may/7/justice-thomas-says-high-court-wont-be-bullied-ove/"
     },
     {
-      "text": "Tennessee, South Carolina extend health care for new moms",
-      "url": "/news/2022/may/6/tennessee-south-carolina-extend-health-care-for-ne/"
+      "text": "Justice Thomas says high court won\u2019t be \u2018bullied\u2019 over Roe leak",
+      "url": "/news/2022/may/7/justice-thomas-says-high-court-wont-be-bullied-ove/"
+    },
+    {
+      "text": "Alex Swoyer",
+      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/daunte-wrights-mother-detained-after-recording-tra/"
+      "url": "/news/2022/may/6/texas-gov-greg-abbott-time-revisit-requiring-publi/"
     },
     {
-      "text": "Daunte Wright\u2019s mother detained after recording traffic stop",
-      "url": "/news/2022/may/6/daunte-wrights-mother-detained-after-recording-tra/"
+      "text": "Texas Gov. Abbott: Time to revisit requiring public schools to educate illegal immigrants",
+      "url": "/news/2022/may/6/texas-gov-greg-abbott-time-revisit-requiring-publi/"
+    },
+    {
+      "text": "Tom Howell Jr.",
+      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/texas-bar-foundation-under-investigation-allegedly/"
+    },
+    {
+      "text": "Texas Bar Foundation under investigation for allegedly encouraging, financing illegal immigration",
+      "url": "/news/2022/may/6/texas-bar-foundation-under-investigation-allegedly/"
+    },
+    {
+      "text": "Stephen Dinan",
+      "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
     },
     {
       "text": "World",
@@ -2546,35 +2612,39 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/frances-left-agrees-to-largely-campaign-together-v/"
+      "url": "/news/2022/may/7/south-korea-north-korea-test-fired-missile-from-su/"
     },
     {
-      "text": "France\u2019s left agrees to largely campaign together vs. Macron",
-      "url": "/news/2022/may/6/frances-left-agrees-to-largely-campaign-together-v/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/6/explosion-damages-hotel-in-cuban-capital-4-deaths-/"
-    },
-    {
-      "text": "Explosion damages hotel in Cuban capital; 8 deaths reported",
-      "url": "/news/2022/may/6/explosion-damages-hotel-in-cuban-capital-4-deaths-/"
+      "text": "South Korea: North Korea test-fired missile from submarine",
+      "url": "/news/2022/may/7/south-korea-north-korea-test-fired-missile-from-su/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/israeli-minister-touts-plans-to-approve-4000-settl/"
+      "url": "/news/2022/may/6/russia-walks-back-loose-talk-nuclear-threats/"
     },
     {
-      "text": "Israeli minister touts plans to approve 4,000 settler homes",
-      "url": "/news/2022/may/6/israeli-minister-touts-plans-to-approve-4000-settl/"
+      "text": "Russia walks back loose talk on nuclear threats",
+      "url": "/news/2022/may/6/russia-walks-back-loose-talk-nuclear-threats/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/japans-okinawa-urges-government-to-reduce-china-te/"
+      "url": "/news/2022/may/7/al-qaeda-leader-ayman-al-zawahri-blames-us-for-ukr/"
     },
     {
-      "text": "Japan\u2019s Okinawa urges government to reduce China tensions",
-      "url": "/news/2022/may/6/japans-okinawa-urges-government-to-reduce-china-te/"
+      "text": "Al-Qaeda chief blames US for Ukraine invasion in new video",
+      "url": "/news/2022/may/7/al-qaeda-leader-ayman-al-zawahri-blames-us-for-ukr/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/7/afghanistans-taliban-order-women-to-cover-up-head-/"
+    },
+    {
+      "text": "Afghanistan\u2019s Taliban order women to cover up head to toe",
+      "url": "/news/2022/may/7/afghanistans-taliban-order-women-to-cover-up-head-/"
     },
     {
       "text": "Sports",
@@ -2586,11 +2656,23 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/6/carlos-alcaraz-overpowers-rafael-nadal-at-madrid-o/"
+      "url": "/news/2022/may/7/nadal-not-worried-after-madrid-exit-keeps-focus-on/"
     },
     {
-      "text": "Alcaraz overpowers Nadal at Madrid Open",
-      "url": "/news/2022/may/6/carlos-alcaraz-overpowers-rafael-nadal-at-madrid-o/"
+      "text": "Nadal not worried after Madrid exit, keeps focus on Paris",
+      "url": "/news/2022/may/7/nadal-not-worried-after-madrid-exit-keeps-focus-on/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/6/day-extends-lead-to-three-at-water-logged-wells-fa/"
+    },
+    {
+      "text": "Day extends lead to three at water-logged Wells Fargo",
+      "url": "/news/2022/may/6/day-extends-lead-to-three-at-water-logged-wells-fa/"
+    },
+    {
+      "text": "George Gerbo",
+      "url": "https://www.washingtontimes.com/staff/george-gerbo/"
     },
     {
       "text": "",
@@ -2602,27 +2684,11 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/5/jason-day-holds-one-shot-lead-after-first-round-of/"
+      "url": "/news/2022/may/7/mavs-get-defensive-top-suns-103-94-for-2-1-series-/"
     },
     {
-      "text": "Day holds one-shot lead after first round of Wells Fargo Championship",
-      "url": "/news/2022/may/5/jason-day-holds-one-shot-lead-after-first-round-of/"
-    },
-    {
-      "text": "George Gerbo",
-      "url": "https://www.washingtontimes.com/staff/george-gerbo/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/5/larry-lucchino-should-be-mix-nationals/"
-    },
-    {
-      "text": "LOVERRO: Lucchino, who works magic wherever he goes, should be in mix for Nationals",
-      "url": "/news/2022/may/5/larry-lucchino-should-be-mix-nationals/"
-    },
-    {
-      "text": "Thom Loverro",
-      "url": "https://www.washingtontimes.com/staff/thom-loverro/"
+      "text": "Mavs get defensive, top Suns 103-94 for 2-1 series deficit",
+      "url": "/news/2022/may/7/mavs-get-defensive-top-suns-103-94-for-2-1-series-/"
     },
     {
       "text": "Sponsored Content",
@@ -2693,28 +2759,28 @@
       "url": ""
     },
     {
+      "text": "Tom Basile",
+      "url": "/staff/tom-basile/"
+    },
+    {
+      "text": "Democratic outrage over Roe v. Wade has little to do with women\u2019s rights",
+      "url": "/news/2022/may/6/democratic-outrage-over-roe-has-little-to-do-with-/"
+    },
+    {
+      "text": "",
+      "url": ""
+    },
+    {
+      "text": "",
+      "url": ""
+    },
+    {
       "text": "Newt Gingrich",
       "url": "/staff/newt-gingrich/"
     },
     {
       "text": "An American majority, not a Republican majority: Part four",
       "url": "/news/2022/may/6/an-american-majority-not-a-republican-majority-par/"
-    },
-    {
-      "text": "",
-      "url": ""
-    },
-    {
-      "text": "",
-      "url": ""
-    },
-    {
-      "text": "Billy Hallowell",
-      "url": "/staff/billy-hallowell/"
-    },
-    {
-      "text": "Three things pro-lifers must do in a post-Roe America",
-      "url": "/news/2022/may/5/three-things-pro-lifers-must-do-post-roe-america/"
     },
     {
       "text": "MORE COLUMNISTS ",
@@ -2770,15 +2836,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/may/5/jen-psaki-quit-may-13-karine-jean-pierre-take-over/"
+      "url": "/news/2022/may/4/hunter-biden-laptop-repairman-sues-adam-schiff-new/"
     },
     {
-      "text": "Jen Psaki to quit May 13, Karine Jean-Pierre to take over at White House podium",
-      "url": "/news/2022/may/5/jen-psaki-quit-may-13-karine-jean-pierre-take-over/"
+      "text": "Hunter Biden laptop repairman sues Adam Schiff, news outlets for defamation",
+      "url": "/news/2022/may/4/hunter-biden-laptop-repairman-sues-adam-schiff-new/"
     },
     {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
@@ -2799,6 +2865,30 @@
     {
       "text": "Opinion",
       "url": "/opinion/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
+      "url": "/news/2022/may/7/america-has-stalker-democrats/"
+    },
+    {
+      "text": "America has a stalker: The Democrats",
+      "url": "/news/2022/may/7/america-has-stalker-democrats/"
+    },
+    {
+      "text": "Tim Constantine",
+      "url": "https://www.washingtontimes.com/staff/tim-constantine/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
+      "url": "/news/2022/may/6/democratic-outrage-over-roe-has-little-to-do-with-/"
+    },
+    {
+      "text": "Democratic outrage over Roe v. Wade has little to do with women\u2019s rights",
+      "url": "/news/2022/may/6/democratic-outrage-over-roe-has-little-to-do-with-/"
+    },
+    {
+      "text": "Tom Basile",
+      "url": "https://www.washingtontimes.com/staff/tom-basile/"
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
@@ -2833,30 +2923,6 @@
       "url": "/news/2022/may/6/wizard-oz-pay-no-attention-dictator-behind-senator/"
     },
     {
-      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/may/5/three-things-pro-lifers-must-do-post-roe-america/"
-    },
-    {
-      "text": "Three things pro-lifers must do in a post-Roe America",
-      "url": "/news/2022/may/5/three-things-pro-lifers-must-do-post-roe-america/"
-    },
-    {
-      "text": "Billy Hallowell",
-      "url": "https://www.washingtontimes.com/staff/billy-hallowell/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/may/5/st-samuel-slays-abortion-dragon/"
-    },
-    {
-      "text": "St. Alito slays abortion dragon",
-      "url": "/news/2022/may/5/st-samuel-slays-abortion-dragon/"
-    },
-    {
-      "text": "Charles Hurt",
-      "url": "https://www.washingtontimes.com/staff/charles-hurt/"
-    },
-    {
       "text": "Latest Cartoon",
       "url": "/cartoons/"
     },
@@ -2870,7 +2936,7 @@
     },
     {
       "text": "View results",
-      "url": "/polls/2022/may/3/if-roe-v-wade-overturned-who-gets-creditblame/results/"
+      "url": "/polls/2022/may/6/what-do-you-think-supreme-court-leaker-was-hoping-/results/"
     },
     {
       "text": "Washington Commanders team name and logo reveal from Fedex Field",
@@ -2965,16 +3031,16 @@
       "url": "/news/security/"
     },
     {
+      "text": "South Korea: North Korea test-fired missile from submarine",
+      "url": "/news/2022/may/7/south-korea-north-korea-test-fired-missile-from-su/"
+    },
+    {
       "text": "Anti-missile radars not working on Russian ship Moskva when sunk by Ukrainian strike, experts say",
       "url": "/news/2022/may/6/anti-missile-radars-not-working-russian-ship-moskv/"
     },
     {
       "text": "Stoltenberg says NATO will protect Sweden, Finland during application phase if they join alliance",
       "url": "/news/2022/may/6/stoltenberg-says-nato-will-protect-sweden-finland-/"
-    },
-    {
-      "text": "Russia assaults Mariupol steel plant for a second day",
-      "url": "/news/2022/may/6/russia-assaults-mariupol-steel-plan-second-day/"
     },
     {
       "text": "D.C. Local",
@@ -2997,64 +3063,64 @@
       "url": "/news/world/"
     },
     {
-      "text": "France\u2019s left agrees to largely campaign together vs. Macron",
-      "url": "/news/2022/may/6/frances-left-agrees-to-largely-campaign-together-v/"
+      "text": "South Korea: North Korea test-fired missile from submarine",
+      "url": "/news/2022/may/7/south-korea-north-korea-test-fired-missile-from-su/"
     },
     {
-      "text": "Explosion damages hotel in Cuban capital; 8 deaths reported",
-      "url": "/news/2022/may/6/explosion-damages-hotel-in-cuban-capital-4-deaths-/"
+      "text": "Russia walks back loose talk on nuclear threats",
+      "url": "/news/2022/may/6/russia-walks-back-loose-talk-nuclear-threats/"
     },
     {
-      "text": "Israeli minister touts plans to approve 4,000 settler homes",
-      "url": "/news/2022/may/6/israeli-minister-touts-plans-to-approve-4000-settl/"
+      "text": "Al-Qaeda chief blames US for Ukraine invasion in new video",
+      "url": "/news/2022/may/7/al-qaeda-leader-ayman-al-zawahri-blames-us-for-ukr/"
     },
     {
       "text": "Business & Economy",
       "url": "/news/business-economy/"
     },
     {
-      "text": "Taco Bell promotes LGBT advocacy in drag queen shows at its restaurants",
-      "url": "/news/2022/may/6/taco-bell-promotes-lgbt-advocacy-drag-queen-shows-/"
+      "text": "Biden plays up jobs gains but can\u2019t shake bigger economic woes",
+      "url": "/news/2022/may/6/biden-plays-jobs-gains-cant-shake-bigger-economic-/"
     },
     {
-      "text": "Tesla covers travel costs for workers seeking abortions",
-      "url": "/news/2022/may/6/tesla-covers-travel-costs-for-workers-seeking-abor/"
+      "text": "Kraft Heinz says its diversity hiring goals are \u2018not quotas\u2019",
+      "url": "/news/2022/may/6/kraft-heinz-says-its-diversity-hiring-goals-are-no/"
     },
     {
-      "text": "Pelosi sets minimum pay level for House staff at $45,000 per year",
-      "url": "/news/2022/may/6/nancy-pelosi-sets-minimum-pay-level-house-staff-45/"
+      "text": "Colgate shareholders reject proposal to stop donating to Al Sharpton",
+      "url": "/news/2022/may/6/colgate-shareholders-reject-proposal-stop-donating/"
     },
     {
       "text": "Faith & Family",
       "url": "/news/faith-family/"
     },
     {
-      "text": "Three new Christian colleges face federal Title IX probes over gay, transgender complaints",
-      "url": "/news/2022/may/6/three-new-christian-colleges-face-federal-title-ix/"
+      "text": "Pro-choice Catholic church protests could lead to hate crimes, observer warns",
+      "url": "/news/2022/may/7/pro-choice-catholic-church-protests-could-lead-hat/"
     },
     {
-      "text": "Louisiana GOP lawmakers advance stringent pro-life bill",
-      "url": "/news/2022/may/6/louisiana-gop-lawmakers-advance-stringent-pro-life/"
+      "text": "Faith-based abortion opponents to boost emphasis on pregnancy care, options if Roe overturned",
+      "url": "/news/2022/may/6/faith-based-abortion-opponents-boost-emphasis-preg/"
     },
     {
-      "text": "Pence: Leaked abortion draft opinion helps some \u201822 hopefuls",
-      "url": "/news/2022/may/5/mike-pence-leaked-abortion-draft-opinion-helps-som/"
+      "text": "Catholics urge Biden to defend churches bracing for pro-abortion protests at Sunday Mass",
+      "url": "/news/2022/may/6/catholics-urge-biden-defend-churches-bracing-pro-a/"
     },
     {
       "text": "Health",
       "url": "/culture/health/"
     },
     {
+      "text": "Alito\u2019s legal reasoning for ending Roe rests on history, the right to life",
+      "url": "/news/2022/may/6/justice-samuel-alitos-legal-reasoning-ending-roe-r/"
+    },
+    {
+      "text": "CDC scrambling to understand cause of over 100 hepatitis cases in kids",
+      "url": "/news/2022/may/6/cdc-scrambling-understand-cause-over-100-hepatitis/"
+    },
+    {
       "text": "Majority of Americans say abortion should be legal, but many support restrictions, Pew poll shows",
       "url": "/news/2022/may/6/majority-americans-say-abortion-should-be-legal-ma/"
-    },
-    {
-      "text": "Arizona lawsuit accuses school district of keeping \u2018opposition research\u2019 on parents",
-      "url": "/news/2022/may/5/arizona-lawsuit-accuses-school-district-keeping-op/"
-    },
-    {
-      "text": "Abortion pills become next battleground as Roe v. Wade hangs in the balance",
-      "url": "/news/2022/may/5/abortion-pills-become-next-battleground-roe-v-wade/"
     },
     {
       "text": "Entertainment",
@@ -3093,16 +3159,16 @@
       "url": "/culture/technology/"
     },
     {
+      "text": "Judge tosses Trump\u2019s lawsuit to reinstate his Twitter account",
+      "url": "/news/2022/may/7/judge-tosses-trumps-lawsuit-reinstate-his-twitter-/"
+    },
+    {
       "text": "\u2018Moonfall\u2019 4K Ultra HD movie review",
       "url": "/news/2022/apr/29/moonfall-4k-ultra-hd-movie-review/"
     },
     {
       "text": "Biden to announce 3D printing initiative to boost U.S. supply chain",
       "url": "/news/2022/may/6/biden-announce-3d-printing-initiative-boost-us-sup/"
-    },
-    {
-      "text": "SpaceX brings 4 astronauts home, then launches 53 satellites",
-      "url": "/news/2022/may/6/spacex-brings-4-astronauts-home-with-midnight-spla/"
     },
     {
       "text": "Energy & Environment",
@@ -3117,8 +3183,8 @@
       "url": "/specials/banking-finance/"
     },
     {
-      "text": "Stocks nosedive on recession fears, wiping out gains after Fed's move",
-      "url": "/news/2022/may/5/stocks-nosedive-recession-fears-wiping-out-gains-a/"
+      "text": "Colgate shareholders reject proposal to stop donating to Al Sharpton",
+      "url": "/news/2022/may/6/colgate-shareholders-reject-proposal-stop-donating/"
     },
     {
       "text": "Coronavirus (COVID-19) pandemic updates",
@@ -3141,8 +3207,8 @@
       "url": "/specials/immigration-reform/"
     },
     {
-      "text": "Democrats blast Biden over looming border surge",
-      "url": "/news/2022/may/5/democrats-blast-biden-over-looming-border-surge/"
+      "text": "Texas Bar Foundation under investigation for allegedly encouraging, financing illegal immigration",
+      "url": "/news/2022/may/6/texas-bar-foundation-under-investigation-allegedly/"
     },
     {
       "text": "Homeland & Cybersecurity",
@@ -3634,7 +3700,7 @@
     }
   ],
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1651882653,
+  "created": 1651969069,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/12/items/kpbs-2022",
@@ -2924,31 +2924,115 @@
       "sha1": "91599e0aba25b6c07445f033aa9910e98da1ca08"
     },
     {
+      "name": "kpbs-2022-05-06T19:09:34.850513-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651889378",
+      "size": "22518",
+      "md5": "1215e05698931d2da19a67f2aa7c0a32",
+      "crc32": "aebd4d0b",
+      "sha1": "2438cee2af329945b74475602cd8a7096f52ec44",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-06T19:09:34.850513-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651889381",
+      "size": "36924",
+      "md5": "f951c1b3e341b386825864628e496ebe",
+      "crc32": "49ca5137",
+      "sha1": "f63d820bf5142e156de1ce1196716287221fc631",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-06T19:09:34.850513-07:00.jpg",
+      "source": "original",
+      "mtime": "1651889376",
+      "size": "359247",
+      "md5": "ba7f6ef2d9a9e0739f34afce3eeed221",
+      "crc32": "b4294786",
+      "sha1": "c3a75d55d8b2ff6f13dd57b24a77fd2d833892aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-05-06T19:09:34.850513-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-05-06T19:09:34.850513-07:00.jpg",
+      "mtime": "1651889462",
+      "size": "9418",
+      "md5": "4986247182e5332e781d8a3e5ae26598",
+      "crc32": "267a0962",
+      "sha1": "5e56fee48af61cf48c5a99cd3c5ffc31948aaf8d"
+    },
+    {
+      "name": "kpbs-2022-05-07T06:41:58.289221-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651930927",
+      "size": "23603",
+      "md5": "1fe520fcfdf6be78bce7956016d73c8d",
+      "crc32": "de929187",
+      "sha1": "dc7fb823676bbad3ba33191304702a0761c60ccf",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-07T06:41:58.289221-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651930928",
+      "size": "37012",
+      "md5": "fced7f951711cbb9981cef2a58632c6a",
+      "crc32": "c3d04091",
+      "sha1": "d0cdbcfb8d8a787666100f31e9be2b45f55c8ceb",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-07T06:41:58.289221-07:00.jpg",
+      "source": "original",
+      "mtime": "1651930925",
+      "size": "302008",
+      "md5": "c07929d845386a8e2a5165f20291d7ad",
+      "crc32": "e0e2c30f",
+      "sha1": "b9d6f3b8669d041254d0892046e220f56475188b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-05-07T06:41:58.289221-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-05-07T06:41:58.289221-07:00.jpg",
+      "mtime": "1651930992",
+      "size": "9007",
+      "md5": "4453d8044020b0f72f04121799659f8c",
+      "crc32": "43e268f2",
+      "sha1": "636f81297aa19735d95d953761646c12d96e50b0"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "098eb26a21d25934539fb93f4e4f601be5d5d2a1",
-      "mtime": "1651846916",
-      "size": "58726",
-      "md5": "f38c2ec71e939dff608790257ce0a294",
-      "crc32": "e309e823",
-      "sha1": "71d179b9e1acfbf9896ce17a8fa6f7c2cd6822f8",
+      "btih": "25e54d911c47ac8701d2cb7f28c21674a4f7f403",
+      "mtime": "1651930998",
+      "size": "60372",
+      "md5": "4efc136061abe6857abcc70f07eaacb0",
+      "crc32": "b14415ca",
+      "sha1": "42bcc8a6574f90dc55e53a2560b58040a44a4234",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c12b0aa66e2d838f607b9957936f5f7",
+      "md5": "4a1b11f3add2aa725e74dc1ea7491249",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651844693",
-      "size": "327680",
-      "md5": "c95aa0e8be0f522c5c2471dc4720df40",
-      "crc32": "88d89f74",
-      "sha1": "dbdf9c4a51f021bad0457405dfe792173e871a4c",
+      "mtime": "1651930934",
+      "size": "335872",
+      "md5": "da9cc49b6878dfe3b6e459fab75c3bf0",
+      "crc32": "26b3241c",
+      "sha1": "856de6b218534923c1dd7332b7e7c162557791fa",
       "format": "Metadata"
     },
     {
@@ -2962,9 +3046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1651846916,
-  "item_size": 30060508,
+  "files_count": 289,
+  "item_last_updated": 1651930998,
+  "item_size": 30870083,
   "kpbs-2022": [
     {
       "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
@@ -3303,12 +3387,12 @@
       "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
     },
     {
-      "text": "Morning Edition",
-      "url": "http://www.npr.org/templates/rundowns/rundown.php?prgId=3"
+      "text": "Weekend Edition Saturday  ",
+      "url": "http://www.npr.org/templates/story/story.php?storyId=7"
     },
     {
-      "text": "Here and Now ",
-      "url": "http://hereandnow.wbur.org/"
+      "text": "Wait Wait...Don't Tell Me!",
+      "url": "http://www.npr.org/programs/wait-wait-dont-tell-me/"
     },
     {
       "text": "Full Schedule\n                            ",
@@ -3640,35 +3724,79 @@
     },
     {
       "text": "Top Stories",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/05/07/opinion-for-comedians-safety-is-a-growing-concern"
+    },
+    {
+      "text": "National",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "Opinion: For comedians, safety is a growing concern ",
+      "url": "https://www.kpbs.org/news/national/2022/05/07/opinion-for-comedians-safety-is-a-growing-concern"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/05/07/mamas-boy-is-a-flex-not-an-insult-for-a-new-generation-of-men"
+    },
+    {
+      "text": "National",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "'Mama's boy' is a flex, not an insult, for a new generation of men",
+      "url": "https://www.kpbs.org/news/national/2022/05/07/mamas-boy-is-a-flex-not-an-insult-for-a-new-generation-of-men"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/05/07/missouri-u-s-house-candidates-hit-the-campaign-trail-without-set-districts-or-voters"
+    },
+    {
+      "text": "National",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "Missouri U.S. House candidates hit the campaign trail without set districts or voters",
+      "url": "https://www.kpbs.org/news/national/2022/05/07/missouri-u-s-house-candidates-hit-the-campaign-trail-without-set-districts-or-voters"
+    },
+    {
+      "text": "Featured Podcast",
+      "url": "https://www.kpbs.org/podcasts"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/toni-atkins-vows-to-enshrine-a-womans-right-to-choose-in-california"
+    },
+    {
+      "text": "Toni Atkins vows to enshrine a woman\u2019s right to choose in California",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/toni-atkins-vows-to-enshrine-a-womans-right-to-choose-in-california"
+    },
+    {
+      "text": "Read More",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/toni-atkins-vows-to-enshrine-a-womans-right-to-choose-in-california"
+    },
+    {
+      "text": "Local News",
       "url": "https://www.kpbs.org/news/local"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/bill-allowing-minors-vaccines-without-parental-ok-advances"
+      "url": "https://www.kpbs.org/news/local/2022/05/04/san-diego-police-oversight-board-wants-community-input-on-leadership"
     },
     {
-      "text": "Local",
-      "url": "https://www.kpbs.org/news/local"
+      "text": "San Diego police oversight board wants community input on leadership",
+      "url": "https://www.kpbs.org/news/local/2022/05/04/san-diego-police-oversight-board-wants-community-input-on-leadership"
     },
     {
-      "text": "Bill allowing minors vaccines without parental OK advances",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/bill-allowing-minors-vaccines-without-parental-ok-advances"
-    },
-    {
-      "text": "Study shows the effects of the COVID-19 pandemic on San Diego refugee communities",
-      "url": "https://www.kpbs.org/news/midday-edition/2022/05/05/study-shows-the-effects-of-the-covid-19-pandemic-on-san-diego-refugee-communities"
-    },
-    {
-      "text": "San Diego COVID-19 cases grow by more than 1K over last week",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/san-diego-covid-19-cases-grow-more-than-1k-last-week"
+      "text": "Claire Trageser",
+      "url": "https://www.kpbs.org/staff/claire-trageser"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
       "url": "https://www.kpbs.org/news/local/2022/05/05/san-diego-researchers-new-way-gauge-ocean-life"
-    },
-    {
-      "text": "Local",
-      "url": "https://www.kpbs.org/news/local"
     },
     {
       "text": "San Diego researchers have new way to gauge ocean life",
@@ -3680,123 +3808,79 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/05/05/removing-federal-abortion-rights-protections-may-spark-new-legal-fights-between-states"
+      "url": "https://www.kpbs.org/news/midday-edition/2022/05/05/study-shows-the-effects-of-the-covid-19-pandemic-on-san-diego-refugee-communities"
     },
     {
-      "text": "National",
-      "url": "https://www.kpbs.org/news/national"
+      "text": "Study shows the effects of the COVID-19 pandemic on San Diego refugee communities",
+      "url": "https://www.kpbs.org/news/midday-edition/2022/05/05/study-shows-the-effects-of-the-covid-19-pandemic-on-san-diego-refugee-communities"
     },
     {
-      "text": "Removing federal abortion-rights protections may spark new legal fights between states",
-      "url": "https://www.kpbs.org/news/national/2022/05/05/removing-federal-abortion-rights-protections-may-spark-new-legal-fights-between-states"
+      "text": "Emilyn Mohebbi",
+      "url": "https://www.kpbs.org/staff/emilyn-mohebbi"
     },
     {
-      "text": "Featured Podcast",
-      "url": "https://www.kpbs.org/podcasts"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/california-lawmaker-on-abortion"
-    },
-    {
-      "text": "California lawmaker on abortion",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/california-lawmaker-on-abortion"
-    },
-    {
-      "text": "Read More",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/california-lawmaker-on-abortion"
-    },
-    {
-      "text": "Local News",
-      "url": "https://www.kpbs.org/news/local"
+      "text": "Maureen Cavanaugh",
+      "url": "https://www.kpbs.org/staff/maureen-cavanaugh"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/with-pandemic-restrictions-easing-san-diego-summer-camps-are-filling-up-fast"
+      "url": "https://www.kpbs.org/news/local/2022/05/06/more-california-students-eligible-for-expanded-transitional-kindergarten"
     },
     {
-      "text": "With pandemic restrictions easing, San Diego summer camps are filling up fast",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/with-pandemic-restrictions-easing-san-diego-summer-camps-are-filling-up-fast"
+      "text": "More California students eligible for expanded transitional kindergarten",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/more-california-students-eligible-for-expanded-transitional-kindergarten"
     },
     {
-      "text": "Alexander Nguyen",
-      "url": "https://www.kpbs.org/staff/alexander-nguyen"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/mayor-gloria-highlights-budget-increase-for-san-diego-police-department"
-    },
-    {
-      "text": "Mayor Gloria highlights budget increase for San Diego Police Department",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/mayor-gloria-highlights-budget-increase-for-san-diego-police-department"
-    },
-    {
-      "text": "City News Service",
-      "url": "https://www.kpbs.org/staff/city-news-service"
+      "text": "M.G. Perez",
+      "url": "https://www.kpbs.org/staff/mg-perez"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/san-diego-county-releases-7-15-billion-budget-with-focuses-on-mental-health-housing"
+      "url": "https://www.kpbs.org/news/local/2022/05/06/uc-san-diegos-park-market-opens-in-east-village"
     },
     {
-      "text": "San Diego County releases $7.15 billion budget, with focuses on mental health, housing",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/san-diego-county-releases-7-15-billion-budget-with-focuses-on-mental-health-housing"
+      "text": "UC San Diego's Park & Market opens in East Village",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/uc-san-diegos-park-market-opens-in-east-village"
     },
     {
-      "text": "City News Service",
-      "url": "https://www.kpbs.org/staff/city-news-service"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/how-is-the-high-cost-of-housing-affecting-you"
-    },
-    {
-      "text": "How is the high cost of housing affecting you?",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/how-is-the-high-cost-of-housing-affecting-you"
-    },
-    {
-      "text": "Thomas Fudge",
-      "url": "https://www.kpbs.org/staff/tom-fudge"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.kpbs.org/news/national"
+      "text": "John Carroll",
+      "url": "https://www.kpbs.org/staff/john-carroll"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/05/06/the-us-jobs-market-continues-its-strong-comeback-from-the-pandemic"
+      "url": "https://www.kpbs.org/news/public-safety/2022/05/06/pension-savings-make-room-for-raises-new-positions-in-san-diego-police-department"
     },
     {
-      "text": "National",
-      "url": "https://www.kpbs.org/news/national"
+      "text": "Pension savings make room for raises, new positions in San Diego Police Department",
+      "url": "https://www.kpbs.org/news/public-safety/2022/05/06/pension-savings-make-room-for-raises-new-positions-in-san-diego-police-department"
     },
     {
-      "text": "The US jobs market continues its strong comeback from the pandemic",
-      "url": "https://www.kpbs.org/news/national/2022/05/06/the-us-jobs-market-continues-its-strong-comeback-from-the-pandemic"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/05/06/7-persistent-claims-about-abortion-fact-checked"
-    },
-    {
-      "text": "International",
-      "url": "https://www.kpbs.org/news/international"
-    },
-    {
-      "text": "7 persistent claims about abortion, fact-checked",
-      "url": "https://www.kpbs.org/news/international/2022/05/06/7-persistent-claims-about-abortion-fact-checked"
+      "text": "Andrew Bowen",
+      "url": "https://www.kpbs.org/staff/andrew-bowen"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/05/06/russians-wreak-havoc-on-ukrainian-farms-mining-fields-and-stealing-equipment"
+      "url": "https://www.kpbs.org/news/local/2022/05/06/lowrider-cruise-nights-are-back-in-san-diegos-south-bay-after-30-years"
     },
     {
-      "text": "National",
-      "url": "https://www.kpbs.org/news/national"
+      "text": "Lowrider cruise nights are back in San Diego\u2019s South Bay after 30 years",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/lowrider-cruise-nights-are-back-in-san-diegos-south-bay-after-30-years"
     },
     {
-      "text": "Russians wreak havoc on Ukrainian farms, mining fields and stealing equipment ",
-      "url": "https://www.kpbs.org/news/international/2022/05/06/russians-wreak-havoc-on-ukrainian-farms-mining-fields-and-stealing-equipment"
+      "text": "Jacob Aere",
+      "url": "https://www.kpbs.org/staff/jacob-aere"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/if-i-get-something-from-you-i-could-die-some-immunocompromised-cal-state-students-feel-left-behind-as-covid-safeguards-loosen"
+    },
+    {
+      "text": "\u2018If I get something from you I could die\u2019: Some immunocompromised Cal State students feel left behind as COVID safeguards loosen",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/if-i-get-something-from-you-i-could-die-some-immunocompromised-cal-state-students-feel-left-behind-as-covid-safeguards-loosen"
+    },
+    {
+      "text": "Julian Mendoza / CalMatters",
+      "url": "https://calmatters.org/author/julian-mendoza/"
     },
     {
       "text": "Future of Roe v. Wade",
@@ -3804,23 +3888,23 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/05/05/how-the-reversal-of-roe-v-wade-could-impact-the-transgender-community"
+      "url": "https://www.kpbs.org/news/international/2022/05/06/7-persistent-claims-about-abortion-fact-checked"
+    },
+    {
+      "text": "7 persistent claims about abortion, fact-checked",
+      "url": "https://www.kpbs.org/news/international/2022/05/06/7-persistent-claims-about-abortion-fact-checked"
+    },
+    {
+      "text": "Roe established abortion rights. 20 years later, Casey paved the way for restrictions",
+      "url": "https://www.kpbs.org/news/national/2022/05/06/roe-established-abortion-rights-20-years-later-casey-paved-the-way-for-restrictions"
+    },
+    {
+      "text": "Removing federal abortion-rights protections may spark new legal fights between states",
+      "url": "https://www.kpbs.org/news/national/2022/05/05/removing-federal-abortion-rights-protections-may-spark-new-legal-fights-between-states"
     },
     {
       "text": "How the reversal of Roe v. Wade could impact the transgender community",
       "url": "https://www.kpbs.org/news/national/2022/05/05/how-the-reversal-of-roe-v-wade-could-impact-the-transgender-community"
-    },
-    {
-      "text": "What overturning Roe v. Wade could mean for the rest of the world ",
-      "url": "https://www.kpbs.org/news/international/2022/05/05/what-overturning-roe-v-wade-could-mean-for-the-rest-of-the-world"
-    },
-    {
-      "text": "Democrats promise votes on abortion rights despite vanishingly small odds of success",
-      "url": "https://www.kpbs.org/news/national/2022/05/05/democrats-promise-votes-on-abortion-rights-despite-vanishingly-small-odds-of-success"
-    },
-    {
-      "text": "\u2018When you don\u2019t know where to go, you come here:\u2019 California preps to be a haven for abortion rights",
-      "url": "https://www.kpbs.org/news/local/2022/05/04/when-you-dont-know-where-to-go-you-come-here-california-preps-to-be-a-haven-for-abortion-rights"
     },
     {
       "text": "TV Highlights",
@@ -3828,59 +3912,79 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/arts-culture/2009/08/04/washington-week-gwen-ifill-and-national-journal"
+      "url": "https://www.kpbs.org/news/2022/05/04/steven-raichlens-project-fire-influential-grilling"
     },
     {
-      "text": "WASHINGTON WEEK",
-      "url": "https://www.kpbs.org/news/arts-culture/2009/08/04/washington-week-gwen-ifill-and-national-journal"
+      "text": "STEVEN RAICHLEN'S PROJECT FIRE: Influential Grilling",
+      "url": "https://www.kpbs.org/news/2022/05/04/steven-raichlens-project-fire-influential-grilling"
     },
     {
-      "text": "Frank Ferrante's Groucho",
-      "url": "https://www.kpbs.org/news/2022/05/02/frank-ferrantes-groucho"
+      "text": "CHRISTOPHER KIMBALL'S MILK STREET TELEVISION: Flavors of Ethiopia",
+      "url": "https://www.kpbs.org/news/2022/05/05/christopher-kimballs-milk-street-television-flavors-of-ethiopia"
     },
     {
-      "text": "DEATH IN PARADISE: Season 11",
-      "url": "https://www.kpbs.org/news/2022/04/26/death-in-paradise-season-11"
+      "text": "AMERICA'S TEST KITCHEN: Shareable Spanish Fare",
+      "url": "https://www.kpbs.org/news/2022/05/05/americas-test-kitchen-shareable-spanish-fare"
     },
     {
-      "text": "LIVE AT THE BELLY UP: John Hiatt & The Jerry Douglas Band ",
-      "url": "https://www.kpbs.org/news/2022/05/03/live-at-the-belly-up-john-hiatt-the-jerry-douglas-band"
+      "text": "PATI'S MEXICAN TABLE: Street Food Favorites",
+      "url": "https://www.kpbs.org/news/2022/05/06/patis-mexican-table-street-food-favorites"
     },
     {
       "text": "Trinity: Classically Irish",
       "url": "https://www.kpbs.org/news/2022/05/05/trinity-classically-irish"
     },
     {
-      "text": "Health",
-      "url": "https://www.kpbs.org/news/health"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/05/05/olivia-rodrigo-voices-support-for-abortion-rights-onstage-during-her-concert-in-d-c"
-    },
-    {
-      "text": "Olivia Rodrigo voices support for abortion rights onstage during her concert in D.C.",
-      "url": "https://www.kpbs.org/news/national/2022/05/05/olivia-rodrigo-voices-support-for-abortion-rights-onstage-during-her-concert-in-d-c"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/05/05/lawsuit-says-a-black-patient-bled-to-death-because-of-a-hospitals-culture-of-racism"
-    },
-    {
-      "text": "Lawsuit says a Black patient bled to death because of a hospital's culture of racism",
-      "url": "https://www.kpbs.org/news/national/2022/05/05/lawsuit-says-a-black-patient-bled-to-death-because-of-a-hospitals-culture-of-racism"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/04/tech-savvy-study-aims-to-cut-maternal-and-infant-health-disparities"
-    },
-    {
-      "text": "Tech-savvy study aims to cut maternal and infant health disparities",
-      "url": "https://www.kpbs.org/news/local/2022/05/04/tech-savvy-study-aims-to-cut-maternal-and-infant-health-disparities"
+      "text": "AMERICA REFRAMED: Daughter of a Lost Bird ",
+      "url": "https://www.kpbs.org/news/2022/05/05/america-reframed-daughter-of-a-lost-bird"
     },
     {
       "text": "Politics",
       "url": "https://www.kpbs.org/news/politics"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/california-moves-to-embrace-cryptocurrency-and-regulate-it"
+    },
+    {
+      "text": "California moves to embrace cryptocurrency and regulate it",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/california-moves-to-embrace-cryptocurrency-and-regulate-it"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/midday-edition/2022/05/06/sen-toni-atkins-roe-v-wade-leaked-draft-opinion-is-a-call-to-action"
+    },
+    {
+      "text": "Sen. Toni Atkins: Roe v. Wade leaked draft opinion is 'a call to action'",
+      "url": "https://www.kpbs.org/news/midday-edition/2022/05/06/sen-toni-atkins-roe-v-wade-leaked-draft-opinion-is-a-call-to-action"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/05/bill-allowing-minors-vaccines-without-parental-ok-advances"
+    },
+    {
+      "text": "Bill allowing minors vaccines without parental OK advances",
+      "url": "https://www.kpbs.org/news/local/2022/05/05/bill-allowing-minors-vaccines-without-parental-ok-advances"
+    },
+    {
+      "text": "Public Safety",
+      "url": "https://www.kpbs.org/news/public-safety"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/escondido-man-charged-for-opening-door-walking-on-wing-as-jet-taxis"
+    },
+    {
+      "text": "Escondido man charged for opening door, walking on wing as jet taxis",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/escondido-man-charged-for-opening-door-walking-on-wing-as-jet-taxis"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/inmate-found-unresponsive-dies-san-diego-central-jail"
+    },
+    {
+      "text": "Inmate found unresponsive, dies in San Diego Central Jail",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/inmate-found-unresponsive-dies-san-diego-central-jail"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -3891,24 +3995,24 @@
       "url": "https://www.kpbs.org/news/local/2022/05/04/san-diego-councilmember-pushes-back-on-police-union-crime-claims"
     },
     {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/04/us-quietly-expands-asylum-pandemic-restrictions-while-preparing-to-end-them"
-    },
-    {
-      "text": "US quietly expands asylum pandemic restrictions while preparing to end them",
-      "url": "https://www.kpbs.org/news/local/2022/05/04/us-quietly-expands-asylum-pandemic-restrictions-while-preparing-to-end-them"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/04/newsom-democrats-need-counter-offensive-in-culture-wars"
-    },
-    {
-      "text": "Newsom: Democrats need 'counter-offensive' in culture wars",
-      "url": "https://www.kpbs.org/news/local/2022/05/04/newsom-democrats-need-counter-offensive-in-culture-wars"
-    },
-    {
       "text": "Arts & Culture",
       "url": "https://www.kpbs.org/news/arts-culture"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/arts-culture/2022/05/06/5-works-of-art-to-see-in-san-diego-in-may"
+    },
+    {
+      "text": "5 works of art to see in San Diego in May",
+      "url": "https://www.kpbs.org/news/arts-culture/2022/05/06/5-works-of-art-to-see-in-san-diego-in-may"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/digital-gym-cinema-reopens-with-memoria"
+    },
+    {
+      "text": "Digital Gym Cinema reopens with 'Memoria'",
+      "url": "https://www.kpbs.org/news/local/2022/05/06/digital-gym-cinema-reopens-with-memoria"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -3919,32 +4023,8 @@
       "url": "https://www.kpbs.org/news/arts-culture/2022/05/05/doctor-strange-marvel-sam-raimi"
     },
     {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/san-diego-weekend-arts-events-oceanside-music-so-much-photography-don-quixote-and-more"
-    },
-    {
-      "text": "San Diego weekend arts events: Oceanside music, so much photography, 'Don Quixote' and more",
-      "url": "https://www.kpbs.org/news/local/2022/05/05/san-diego-weekend-arts-events-oceanside-music-so-much-photography-don-quixote-and-more"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/04/the-navy-is-one-stop-of-top-gun-maverick-premiere"
-    },
-    {
-      "text": "The Navy is one-stop of 'Top Gun: Maverick' premiere",
-      "url": "https://www.kpbs.org/news/local/2022/05/04/the-navy-is-one-stop-of-top-gun-maverick-premiere"
-    },
-    {
       "text": "Community Events",
       "url": "https://www.kpbs.org/events/all"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/05/06/pulp-fiction-at-rooftop-cinema-club"
-    },
-    {
-      "text": "'Pulp Fiction' at Rooftop Cinema Club",
-      "url": "https://www.kpbs.org/events/2022/05/06/pulp-fiction-at-rooftop-cinema-club"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -3956,6 +4036,14 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/events/ongoing/butterfly-releases-2022-water-conservation-garden"
+    },
+    {
+      "text": "Butterfly Releases 2022 - Water Conservation Garden ",
+      "url": "https://www.kpbs.org/events/ongoing/butterfly-releases-2022-water-conservation-garden"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
       "url": "https://www.kpbs.org/events/ongoing/bernardo-winerys-45th-annual-spring-arts-crafts-fair"
     },
     {
@@ -3964,11 +4052,11 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/05/08/mothers-day-brunch-at-herb-wood"
+      "url": "https://www.kpbs.org/events/2022/05/08/the-shores-restaurant-to-host-special-mothers-day-buffet-featuring-new-brunch-items"
     },
     {
-      "text": "Mother\u2019s Day Brunch at Herb & Wood",
-      "url": "https://www.kpbs.org/events/2022/05/08/mothers-day-brunch-at-herb-wood"
+      "text": " The Shores Restaurant to Host Special Mother\u2019s Day Buffet Featuring New Brunch Items ",
+      "url": "https://www.kpbs.org/events/2022/05/08/the-shores-restaurant-to-host-special-mothers-day-buffet-featuring-new-brunch-items"
     },
     {
       "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
@@ -4083,10 +4171,10 @@
     "publicdate": "2022-03-24 02:06:19",
     "addeddate": "2022-03-24 02:06:19"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1126051635,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1560929101,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

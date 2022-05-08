@@ -1,8 +1,8 @@
 {
-  "created": 1651882733,
-  "d1": "ia601500.us.archive.org",
-  "d2": "ia801500.us.archive.org",
-  "dir": "/14/items/startribune-2022",
+  "created": 1651969135,
+  "d1": "ia902503.us.archive.org",
+  "d2": "ia802503.us.archive.org",
+  "dir": "/17/items/startribune-2022",
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -1486,31 +1486,73 @@
       "sha1": "050544bb7a92a41765777605e8818e463a677d66"
     },
     {
+      "name": "startribune-2022-05-07T10:05:02.698858-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651935907",
+      "size": "43264",
+      "md5": "15e4510590fa778ca293d35e282c06b4",
+      "crc32": "7017b4f6",
+      "sha1": "31ebd28030729f456ba4014b510f02f446e5e8bb",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-05-07T10:05:02.698858-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651935909",
+      "size": "61099",
+      "md5": "4531e44665ec5cff2e67e47abfdd84e3",
+      "crc32": "a231a91b",
+      "sha1": "272ce7c55cd6fcd0eb1157806bf62e28f14b5f8c",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-05-07T10:05:02.698858-05:00.jpg",
+      "source": "original",
+      "mtime": "1651935905",
+      "size": "262065",
+      "md5": "4d94ea77bbaf55489838b491b3797bd0",
+      "crc32": "53dda584",
+      "sha1": "c010db7eb638cb96a8d81d6cf9a55fc4b233c6dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startribune-2022-05-07T10:05:02.698858-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startribune-2022-05-07T10:05:02.698858-05:00.jpg",
+      "mtime": "1651935961",
+      "size": "8241",
+      "md5": "5be7424ba80287ebc2ee17aeb0fe24f8",
+      "crc32": "15f8f6f4",
+      "sha1": "c00094bd98102a4d7b0c262bc574e8304180ad8d"
+    },
+    {
       "name": "startribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b6689a71759a05b8059b44411a5d364b11f7971",
-      "mtime": "1651851748",
-      "size": "31590",
-      "md5": "c9136d51bff602f49a1a400eb102c2b4",
-      "crc32": "547bc6e2",
-      "sha1": "1117c1d5bd34652948adc5c7a9351dbae02a1377",
+      "btih": "787523e2a25a6735e05634c85877919ae4210b00",
+      "mtime": "1651935965",
+      "size": "32431",
+      "md5": "fa676cd3613ad02f87dcd7cff98a3ab2",
+      "crc32": "4077d044",
+      "sha1": "0f0d392e3312e37fe74962a7be5f5f3a007b9d97",
       "format": "Archive BitTorrent"
     },
     {
       "name": "startribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a044a3e0b5a3c1d7a6412e6119847fc2",
+      "md5": "2c5aa1e3f467804146111231ba59429c",
       "summation": "md5"
     },
     {
       "name": "startribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651849523",
-      "size": "184320",
-      "md5": "5bf1f676f89704741c1aec217bb43a25",
-      "crc32": "b207f77e",
-      "sha1": "43929365d1b8bc5d25ed19772fdefbfb5fc8d35e",
+      "mtime": "1651935913",
+      "size": "188416",
+      "md5": "e8e33020105a8464c9e704e06dee936e",
+      "crc32": "52e4db1d",
+      "sha1": "9517bb0eab74f3f46b150a97a9c2e00e559b76d5",
       "format": "Metadata"
     },
     {
@@ -1524,9 +1566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 145,
-  "item_last_updated": 1651851748,
-  "item_size": 13236052,
+  "files_count": 149,
+  "item_last_updated": 1651935965,
+  "item_size": 13615658,
   "metadata": {
     "identifier": "startribune-2022",
     "collection": [
@@ -1543,7 +1585,7 @@
     "publicdate": "2022-04-01 22:42:36",
     "addeddate": "2022-04-01 22:42:36"
   },
-  "server": "ia601500.us.archive.org",
+  "server": "ia802503.us.archive.org",
   "startribune-2022": [
     {
       "text": "\n                        All Sections\n                    ",
@@ -1587,14 +1629,14 @@
     },
     {
       "text": "\n                        Subscribe\n                    ",
-      "url": "https://checkout.startribune.com/placement/6/environment/3/grid-cta/start?offer=784"
+      "url": "https://www.startribune.com/subscribe/?intended=https://www.startribune.com/"
     },
     {
       "text": "\n            \n        ",
       "url": "https://www.startribune.com/weather/"
     },
     {
-      "text": "\n            59\u00b0\n        ",
+      "text": "\n            62\u00b0\n        ",
       "url": "https://www.startribune.com/weather/"
     },
     {
@@ -2186,160 +2228,168 @@
       "url": "https://startribunejobs-rs.madgexjb.com/"
     },
     {
+      "text": "21 Minnesota counties listed as moderate, high COVID-19 risks",
+      "url": "https://www.startribune.com/21-minnesota-counties-listed-by-cdc-as-moderate-high-covid-19-risks/600171068/"
+    },
+    {
+      "text": "Gov. Walz, Malcolm receive second COVID-19 boosters",
+      "url": "https://www.startribune.com/walz-malcolm-receive-second-covid-19-boosters/600170465/"
+    },
+    {
+      "text": "WHO: Nearly 15 million deaths associated with COVID-19",
+      "url": "https://www.startribune.com/who-nearly-15-million-deaths-associated-with-covid-19/600170681/"
+    },
+    {
+      "text": "\n        Local\n    ",
+      "url": "https://www.startribune.com/local/"
+    },
+    {
+      "text": "U president proposes 3.5% tuition hike for Twin Cities students",
+      "url": "https://www.startribune.com/university-of-minnesota-president-proposes-3-5-tuition-hike-for-twin-cities-students/600171132/"
+    },
+    {
+      "text": "156 comments",
+      "url": "https://www.startribune.com/university-of-minnesota-president-proposes-3-5-tuition-hike-for-twin-cities-students/600171132/#comments"
+    },
+    {
+      "text": "\n                    \n                                            \n                                        \n                ",
+      "url": "https://www.startribune.com/chippewa-falls-court-releases-criminal-complaint-in-lily-peters-death/600171095/"
+    },
+    {
+      "text": "Chippewa Falls court releases criminal complaint in Lily Peters death",
+      "url": "https://www.startribune.com/chippewa-falls-court-releases-criminal-complaint-in-lily-peters-death/600171095/"
+    },
+    {
+      "text": "Teen accused of killing Wis. girl had a chaotic start in life",
+      "url": "https://www.startribune.com/teen-accused-of-killing-wisconsin-girl-had-a-chaotic-start-in-life/600170853/"
+    },
+    {
+      "text": "\n        Local\n    ",
+      "url": "https://www.startribune.com/local/"
+    },
+    {
       "text": "Portions of 7 major Twin Cities highways closed this weekend",
       "url": "https://www.startribune.com/portions-of-7-major-twin-cities-highways-to-be-closed-this-weekend/600170791/"
     },
     {
-      "text": "62 comments",
-      "url": "https://www.startribune.com/portions-of-7-major-twin-cities-highways-to-be-closed-this-weekend/600170791/#comments"
+      "text": "\n        Business\n    ",
+      "url": "https://www.startribune.com/business/"
     },
     {
-      "text": "\n        Politics\n    ",
-      "url": "https://www.startribune.com/politics/"
-    },
-    {
-      "text": "Official: U.S. gave intel before Ukraine sank Russian warship",
-      "url": "https://www.startribune.com/official-us-gave-intel-before-ukraine-sank-russian-warship/600170924/"
-    },
-    {
-      "text": "Defenders inside Ukrainian steel mill refuse to surrender",
-      "url": "https://www.startribune.com/defenders-inside-ukrainian-steel-mill-refuse-to-surrender/600170915/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/mother-of-daunte-wright-has-run-in-with-brooklyn-center-officer/600170882/"
-    },
-    {
-      "text": "\n        Local\n    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "Mother of Daunte Wright has run-in with Brooklyn Center officer",
-      "url": "https://www.startribune.com/mother-of-daunte-wright-has-run-in-with-brooklyn-center-officer/600170882/"
-    },
-    {
-      "text": "\n        Local\n    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "Beloved Ely radio station to shut down",
-      "url": "https://www.startribune.com/beloved-ely-radio-station-to-shut-down/600170974/"
-    },
-    {
-      "text": "\n        Local\n    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "St. Cloud bar owner admits setting business on fire in $1.4M insurance scheme",
-      "url": "https://www.startribune.com/st-cloud-bar-owner-admits-setting-business-on-fire-in-1-4m-insurance-scheme/600170995/"
+      "text": "Minnesota parents still struggling to find infant formula amid shortages",
+      "url": "https://www.startribune.com/minnesota-parents-still-struggling-to-find-infant-formula-amid-shortages/600171301/"
     },
     {
       "text": "\n        More Top Headlines\n    ",
       "url": "#"
     },
     {
-      "text": "\n                    15-month sentence for onetime temp  agency owner who cheated feds out of $1M in taxes    \n\n                  29 minutes ago\n            \n                ",
-      "url": "https://www.startribune.com/15-month-sentence-for-onetime-temp-agency-owner-who-cheated-feds-out-of-1m-in-taxes/600171019/"
+      "text": "\n                    Lynx go cold in second half, lose season-opener 97-74 at Seattle    \n\n          12:54am\n      \n                ",
+      "url": "https://www.startribune.com/lynx-go-cold-in-second-half-lose-season-opener-97-74-at-seattle/600171243/"
     },
     {
-      "text": "\n                    US added 428,000 jobs in April despite surging inflation    \n\n                  24 minutes ago\n            \n                ",
-      "url": "https://www.startribune.com/us-added-428-000-jobs-in-april-despite-surging-inflation/600170909/"
+      "text": "\n                    Vacant Minneapolis school board seat draws 25 applicants    \n\n                  May 6\n            \n                ",
+      "url": "https://www.startribune.com/vacant-minneapolis-school-board-seat-draws-25-applicants/600171151/"
     },
     {
-      "text": "\n                    Motorcyclist dies after crashing twice in Minneapolis    \n\n          6:00am\n      \n                ",
-      "url": "https://www.startribune.com/motorcyclist-dies-after-crashing-twice-in-minneapolis/600170965/"
+      "text": "\n                    Beloved Ely radio station WELY to shut down    \n\n                  May 6\n            \n                ",
+      "url": "https://www.startribune.com/beloved-ely-radio-station-wely-to-shut-down/600170974/"
     },
     {
-      "text": "\n                    FDA restricts J&J's COVID-19 vaccine due to blood clot risk    \n\n                  May 5\n            \n                ",
-      "url": "https://www.startribune.com/fda-restricts-j-j-s-covid-19-vaccine-due-to-blood-clot-risk/600170824/"
-    },
-    {
-      "text": "\n                    How does it f-e-e-e-e-l? Bob Dylan museum opening in Tulsa    \n\n                  29 minutes ago\n            \n                ",
-      "url": "https://www.startribune.com/how-does-it-f-e-e-e-e-l-bob-dylan-museum-opening-in-tulsa/600170913/"
+      "text": "\n                    Rising mortgage rates help boost demand for Twin Cities apartments    \n\n                  May 6\n            \n                ",
+      "url": "https://www.startribune.com/rising-mortgage-rates-help-boost-demand-for-twin-cities-apartments/600171018/"
     },
     {
       "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/teen-accused-of-killing-wisconsin-girl-had-a-chaotic-start-in-life/600170853/"
+      "url": "https://www.startribune.com/for-many-minnesota-businesses-paycheck-protection-program-loans-were-saving-grace/600171303/"
     },
     {
-      "text": "Teen accused of killing Wisconsin girl had a chaotic start in life",
-      "url": "https://www.startribune.com/teen-accused-of-killing-wisconsin-girl-had-a-chaotic-start-in-life/600170853/"
+      "text": "For many Minnesota businesses, PPP loans were saving grace",
+      "url": "https://www.startribune.com/for-many-minnesota-businesses-paycheck-protection-program-loans-were-saving-grace/600171303/"
     },
     {
-      "text": "14-year-old returns to court for hearing in death of Wisconsin girl",
-      "url": "https://www.startribune.com/boy-returns-to-court-for-hearing-in-lily-peters-case/600170858/"
+      "text": "After an explosive decade, craft beer growth slows as industry matures",
+      "url": "https://www.startribune.com/after-an-explosive-decade-craft-beer-growth-slows-as-industry-matures/600170184/"
+    },
+    {
+      "text": "What you need to know about inflation in Minnesota",
+      "url": "https://www.startribune.com/what-you-need-to-know-about-inflation-in-minnesota/600143960/"
+    },
+    {
+      "text": "\n                    \n                                            \n                                        \n                ",
+      "url": "https://www.startribune.com/wild-takes-control-of-series-with-game-3-blowout-win-over-blues/600171251/"
+    },
+    {
+      "text": "\n        Sports\n    ",
+      "url": "https://www.startribune.com/sports/"
+    },
+    {
+      "text": "Wild takes control of series with Game 3 blowout win over Blues",
+      "url": "https://www.startribune.com/wild-takes-control-of-series-with-game-3-blowout-win-over-blues/600171251/"
+    },
+    {
+      "text": "64 comments",
+      "url": "https://www.startribune.com/wild-takes-control-of-series-with-game-3-blowout-win-over-blues/600171251/#comments"
+    },
+    {
+      "text": "Both teams staying with goaltenders in Wild-Blues series",
+      "url": "https://www.startribune.com/both-teams-staying-with-goaltenders-in-dead-even-wild-blues-series/600171219/"
+    },
+    {
+      "text": "\n                    \n                                            \n                                        \n                ",
+      "url": "https://www.startribune.com/twins-see-glimpse-of-the-future-top-oakland-to-open-series-at-target-field/600171237/"
+    },
+    {
+      "text": "\n        Sports\n    ",
+      "url": "https://www.startribune.com/sports/"
+    },
+    {
+      "text": "Twins see glimpse of the future, top A's to open series at Target Field",
+      "url": "https://www.startribune.com/twins-see-glimpse-of-the-future-top-oakland-to-open-series-at-target-field/600171237/"
+    },
+    {
+      "text": "Twins call up top prospect Lewis: 'Truly a blessing'",
+      "url": "https://www.startribune.com/twins-royce-lewis-top-prospect-mlb-draft-mlb-debut/600171149/"
     },
     {
       "text": "\n                \n            ",
-      "url": "https://www.startribune.com/license-plates-seven-years-replace-minnesota-law/600170978/"
+      "url": "https://www.startribune.com/historic-purcell-cutts-house-reopens-for-tours-in-minneapolis/600171065/"
     },
     {
-      "text": "Why does Minnesota require new license plates every seven years?",
-      "url": "https://www.startribune.com/license-plates-seven-years-replace-minnesota-law/600170978/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/carlos-correa-finger-twins-orioles-hit-by-two-pitches-royce-lewis/600170890/"
-    },
-    {
-      "text": "\n        Sports\n    ",
-      "url": "https://www.startribune.com/sports/"
-    },
-    {
-      "text": "Correa has apparent broken finger after getting hit twice in Twins loss to Orioles",
-      "url": "https://www.startribune.com/carlos-correa-finger-twins-orioles-hit-by-two-pitches-royce-lewis/600170890/"
-    },
-    {
-      "text": "70 comments",
-      "url": "https://www.startribune.com/carlos-correa-finger-twins-orioles-hit-by-two-pitches-royce-lewis/600170890/#comments"
-    },
-    {
-      "text": "Twins manager Baldelli, players Arraez, Bundy positive for COVID-19",
-      "url": "https://www.startribune.com/minnesota-twins-rocco-baldelli-positive-covid-test/600170796/"
+      "text": "Historic Purcell-Cutts house near Lake of the Isles in Mpls. reopens for tours",
+      "url": "https://www.startribune.com/historic-purcell-cutts-house-reopens-for-tours-in-minneapolis/600171065/"
     },
     {
       "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/wild-blues-playoffs-composure-skill-and-even-a-sense-of-humor-jim-souhan/600170960/"
-    },
-    {
-      "text": "\n        Sports\n    ",
-      "url": "https://www.startribune.com/sports/"
-    },
-    {
-      "text": "Souhan: Wild should put goonery aside in favor of skill \u2014 and humor",
-      "url": "https://www.startribune.com/wild-blues-playoffs-composure-skill-and-even-a-sense-of-humor-jim-souhan/600170960/"
-    },
-    {
-      "text": "Eriksson Ek's value always appreciated by his Wild teammates",
-      "url": "https://www.startribune.com/joel-eriksson-eks-value-always-appreciated-by-his-wild-teammates/600170886/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/the-5-best-things-we-ate-in-the-twin-cities-area-this-week/600170976/"
+      "url": "https://www.startribune.com/justice-at-last-for-justin-bieber-fans-at-his-covid-delayed-minneapolis-concert/600171252/"
     },
     {
       "text": "\n        Variety\n    ",
       "url": "https://www.startribune.com/variety/"
     },
     {
-      "text": "The 5 best things we ate in the Twin Cities area this week",
-      "url": "https://www.startribune.com/the-5-best-things-we-ate-in-the-twin-cities-area-this-week/600170976/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/twin-cities-pride-calls-up-carly-rae-jepsen-to-headline-june-25-concert-at-armory/600171023/"
-    },
-    {
-      "text": "\n        Variety\n    ",
-      "url": "https://www.startribune.com/variety/"
+      "text": "'Justice' at last for Justin Bieber fans at his COVID-delayed Minneapolis concert",
+      "url": "https://www.startribune.com/justice-at-last-for-justin-bieber-fans-at-his-covid-delayed-minneapolis-concert/600171252/"
     },
     {
       "text": "Twin Cities Pride calls up Carly Rae Jepsen to headline June 25 concert at Armory",
       "url": "https://www.startribune.com/twin-cities-pride-calls-up-carly-rae-jepsen-to-headline-june-25-concert-at-armory/600171023/"
     },
     {
-      "text": "The big gigs: 10 concerts to see in the Twin Cities this week",
-      "url": "https://www.startribune.com/10-concerts-twin-cities-justin-bieber-interpol-snoh-aalegrea-stewart-copeland-janiva-magness/600170378/"
+      "text": "\n                    \n                                            \n                                        \n                ",
+      "url": "https://www.startribune.com/this-kentucky-derby-sets-up-as-a-minnesota-spectacle-with-zandon-and-zozos/600171193/"
+    },
+    {
+      "text": "\n        Sports\n    ",
+      "url": "https://www.startribune.com/sports/"
+    },
+    {
+      "text": "This Kentucky Derby sets up as a Minnesota spectacle with Zandon and Zozos",
+      "url": "https://www.startribune.com/this-kentucky-derby-sets-up-as-a-minnesota-spectacle-with-zandon-and-zozos/600171193/"
+    },
+    {
+      "text": "Jay Lietzau's Kentucky Derby pick: It's all about hitting the Epicenter",
+      "url": "https://www.startribune.com/kentucky-derby-picks-epicenter-simplification-white-abarrio-zozos-jay-lietzau/600170879/"
     },
     {
       "text": "\n        Opinion\n    ",
@@ -2347,19 +2397,19 @@
     },
     {
       "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/hear-then-protect-teachers-of-color/600170848/"
+      "url": "https://www.startribune.com/the-death-of-roe-will-tear-america-apart/600171181/"
     },
     {
-      "text": "\n            Hear, then protect, teachers of color\n        ",
-      "url": "https://www.startribune.com/hear-then-protect-teachers-of-color/600170848/"
+      "text": "\n            The death of Roe will tear America apart\n        ",
+      "url": "https://www.startribune.com/the-death-of-roe-will-tear-america-apart/600171181/"
     },
     {
-      "text": "\n                        Ensure clean water for Minnesota's future\n                    ",
-      "url": "https://www.startribune.com/ensure-clean-water-for-minnesotas-future/600170850/"
+      "text": "\n                        How much for Minnesota schools?\n                    ",
+      "url": "https://www.startribune.com/how-much-for-minnesota-schools/600171182/"
     },
     {
-      "text": "\n                        Editorial cartoon: Bill Bramhall on COVID milestones\n                    ",
-      "url": "https://www.startribune.com/editorial-cartoon-bill-bramhall-on-covid-milestones/600170846/"
+      "text": "\n                        Post-Roe, many fears, many hopes, will not come true\n                    ",
+      "url": "https://www.startribune.com/post-roe-many-fears-many-hopes-will-not-come-true/600171180/"
     },
     {
       "text": "\n        Sports\n    ",
@@ -2367,19 +2417,19 @@
     },
     {
       "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/carlos-correa-finger-twins-orioles-hit-by-two-pitches-royce-lewis/600170890/"
+      "url": "https://www.startribune.com/wild-takes-control-of-series-with-game-3-blowout-win-over-blues/600171251/"
     },
     {
-      "text": "\n                        Correa has apparent broken finger after getting hit twice in Twins loss to Orioles\n                    ",
-      "url": "https://www.startribune.com/carlos-correa-finger-twins-orioles-hit-by-two-pitches-royce-lewis/600170890/"
+      "text": "\n                        Wild takes control of series with Game 3 blowout win over Blues\n                    ",
+      "url": "https://www.startribune.com/wild-takes-control-of-series-with-game-3-blowout-win-over-blues/600171251/"
     },
     {
-      "text": "\n                        Souhan: Wild should put goonery aside in favor of skill \u2014 and humor\n                    ",
-      "url": "https://www.startribune.com/wild-blues-playoffs-composure-skill-and-even-a-sense-of-humor-jim-souhan/600170960/"
+      "text": "\n                        Twins call up top prospect Lewis: 'Truly a blessing'\n                    ",
+      "url": "https://www.startribune.com/twins-royce-lewis-top-prospect-mlb-draft-mlb-debut/600171149/"
     },
     {
-      "text": "\n                        Anderson: Hooking anglers since 1975, Wayzata bait shop may have reached its limit\n                    ",
-      "url": "https://www.startribune.com/wayzata-bait-and-tackle-suburban-bait-shops-modern-fishing-dennis-anderson/600170959/"
+      "text": "\n                        This Kentucky Derby sets up as a Minnesota spectacle with Zandon and Zozos\n                    ",
+      "url": "https://www.startribune.com/this-kentucky-derby-sets-up-as-a-minnesota-spectacle-with-zandon-and-zozos/600171193/"
     },
     {
       "text": "\n        Local\n    ",
@@ -2387,19 +2437,19 @@
     },
     {
       "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/heeding-residents-edina-city-council-chooses-office-site-over-rosland-park-for-new-fire-station/600170765/"
-    },
-    {
-      "text": "\n                        Heeding residents, Edina City Council rejects Rosland Park for new fire station\n                    ",
-      "url": "https://www.startribune.com/heeding-residents-edina-city-council-chooses-office-site-over-rosland-park-for-new-fire-station/600170765/"
-    },
-    {
-      "text": "\n                        Minneapolis Public Schools names Rochelle Cox as interim superintendent candidate\n                    ",
-      "url": "https://www.startribune.com/minneapolis-public-schools-names-rochelle-cox-as-interim-superintendent-candidate/600170788/"
+      "url": "https://www.startribune.com/job-training-program-restores-historic-st-paul-home/600170958/"
     },
     {
       "text": "\n                        Job training program restores historic, tax-forfeited Dayton's Bluff residence\n                    ",
       "url": "https://www.startribune.com/job-training-program-restores-historic-st-paul-home/600170958/"
+    },
+    {
+      "text": "\n                        Special Olympics USA games coming to Twin Cities in 2026\n                    ",
+      "url": "https://www.startribune.com/special-olympics-usa-to-come-to-twin-cities-in-2026/600171055/"
+    },
+    {
+      "text": "\n                        Beloved Ely radio station WELY to shut down\n                    ",
+      "url": "https://www.startribune.com/beloved-ely-radio-station-to-shut-down/600170974/"
     },
     {
       "text": "\n        Business\n    ",
@@ -2407,19 +2457,19 @@
     },
     {
       "text": "\n                    \n                                            \n                                        \n                ",
+      "url": "https://www.startribune.com/minnesota-parents-still-struggling-to-find-infant-formula-amid-shortages/600171301/"
+    },
+    {
+      "text": "\n                        Minnesota parents still struggling to find infant formula amid shortages\n                    ",
+      "url": "https://www.startribune.com/minnesota-parents-still-struggling-to-find-infant-formula-amid-shortages/600171301/"
+    },
+    {
+      "text": "\n                        For many Minnesota businesses, PPP loans were saving grace\n                    ",
+      "url": "https://www.startribune.com/for-many-minnesota-businesses-paycheck-protection-program-loans-were-saving-grace/600171303/"
+    },
+    {
+      "text": "\n                        Rising mortgage rates boost demand for Twin Cities apartments, pushing up rents\n                    ",
       "url": "https://www.startribune.com/rising-mortgage-rates-help-boost-demand-for-twin-cities-apartments/600171018/"
-    },
-    {
-      "text": "\n                        Rising mortgage rates help boost demand for Twin Cities apartments\n                    ",
-      "url": "https://www.startribune.com/rising-mortgage-rates-help-boost-demand-for-twin-cities-apartments/600171018/"
-    },
-    {
-      "text": "\n                        Wall Street keeps tumbling on fears about rates, economy\n                    ",
-      "url": "https://www.startribune.com/wall-street-keeps-tumbling-on-fears-about-rates-economy/600170933/"
-    },
-    {
-      "text": "\n                        U.S. added 428,000 jobs in April despite surging inflation\n                    ",
-      "url": "https://www.startribune.com/us-added-428000-jobs-in-april-despite-surging-inflation/600170909/"
     },
     {
       "text": "\n        Variety\n    ",
@@ -2427,311 +2477,311 @@
     },
     {
       "text": "\n                    \n                                            \n                                        \n                ",
+      "url": "https://www.startribune.com/justice-at-last-for-justin-bieber-fans-at-his-covid-delayed-minneapolis-concert/600171252/"
+    },
+    {
+      "text": "\n                        'Justice' at last for Justin Bieber fans at his COVID-delayed Minneapolis concert\n                    ",
+      "url": "https://www.startribune.com/justice-at-last-for-justin-bieber-fans-at-his-covid-delayed-minneapolis-concert/600171252/"
+    },
+    {
+      "text": "\n                        The 5 best things we ate in the Twin Cities area this week\n                    ",
+      "url": "https://www.startribune.com/the-5-best-things-we-ate-in-the-twin-cities-area-this-week/600170976/"
+    },
+    {
+      "text": "A Minnesota woman lost her mom as a baby. A hometown helped her heal.",
       "url": "https://www.startribune.com/a-minnesota-woman-lost-her-mom-as-a-baby-a-hometown-helped-her-heal/600170999/"
-    },
-    {
-      "text": "\n                        A Minnesota woman lost her mom as a baby. A hometown helped her heal.\n                    ",
-      "url": "https://www.startribune.com/a-minnesota-woman-lost-her-mom-as-a-baby-a-hometown-helped-her-heal/600170999/"
-    },
-    {
-      "text": "\n                        Twin Cities Pride calls up Carly Rae Jepsen to headline June 25 concert at Armory\n                    ",
-      "url": "https://www.startribune.com/twin-cities-pride-calls-up-carly-rae-jepsen-to-headline-june-25-concert-at-armory/600171023/"
-    },
-    {
-      "text": "\n                        Choreographer Yuki Tokuda takes the extra step to merge music and movement\n                    ",
-      "url": "https://www.startribune.com/choreographer-yuki-tokuda-takes-the-extra-step-to-merge-music-and-movement/600170964/"
     },
     {
       "text": "\n        Today's Video\n    ",
       "url": "https://video.startribune.com/"
     },
     {
-      "text": "\n                Watch a Twin Cities artist create a 'Special' mural of Lizzo\n            ",
-      "url": "https://video.startribune.com/watch-a-twin-cities-artist-create-a-lizzo-mural/600168744/"
+      "text": "\n                Morning forecast: High of 74, mostly sunny\n            ",
+      "url": "https://video.startribune.com/morning-forecast-high-of-74-mostly-sunny/600171292/"
     },
     {
       "text": "\n            The Stream\n            News, updates from around the Web\n        ",
       "url": "https://live.startribune.com/Event/Trending_2"
     },
     {
-      "text": "set to leave the air June 1",
+      "text": "Kentucky Derby sets up a Minnesota spectacle",
+      "url": "https://www.startribune.com/this-kentucky-derby-sets-up-as-a-minnesota-spectacle-with-zandon-and-zozos/600171193/"
+    },
+    {
+      "text": "struggling to find infant formula amid shortages",
+      "url": "https://www.startribune.com/minnesota-parents-still-struggling-to-find-infant-formula-amid-shortages/600171301/"
+    },
+    {
+      "text": "sunny day with a high near 70",
+      "url": "https://www.startribune.com/today-is-the-day-weve-been-waiting-for/600171226/"
+    },
+    {
+      "text": " accusing Starbucks of unfair labor practices",
+      "url": "https://www.startribune.com/feds-accuse-starbucks-of-unfair-labor-practices-in-buffalo/600171207/"
+    },
+    {
+      "text": "Production-wise, the concert was truly divine, Chris Riemenschneider\u00a0says.\u00a0\u00a0",
+      "url": "https://www.startribune.com/justice-at-last-for-justin-bieber-fans-at-his-covid-delayed-minneapolis-concert/600171252/"
+    },
+    {
+      "text": "launched the Wild to a 5-1 win over St. Louis",
+      "url": "https://www.startribune.com/wild-takes-control-of-series-with-game-3-blowout-win-over-blues/600171251/"
+    },
+    {
+      "text": "beating Minnesota 97-74 in their WNBA opener.",
+      "url": "https://www.startribune.com/lynx-go-cold-in-second-half-lose-season-opener-97-74-at-seattle/600171243/"
+    },
+    {
+      "text": "waiting to hear whether they've gotten a coveted job to run the world's most remote post office",
+      "url": "https://www.startribune.com/the-post-office-at-the-end-of-the-world/600171141/"
+    },
+    {
+      "text": "California likely will have an energy shortfall ",
+      "url": "https://www.startribune.com/california-prepares-for-energy-shortfalls-in-hot-dry-summer/600171166/"
+    },
+    {
+      "text": "The National Labor Relations Board has found merit",
+      "url": "https://www.startribune.com/labor-agency-amazon-unions-meeting-complaints-have-merit/600171212/"
+    },
+    {
+      "text": "giving the Twins a 2-1 win over Oakland.",
+      "url": "https://www.startribune.com/twins-see-glimpse-of-the-future-top-oakland-to-open-series-at-target-field/600171237/"
+    },
+    {
+      "text": "this weekend's weather forecast.\u00a0",
+      "url": "https://video.startribune.com/evening-forecast-low-of-49-and-mostly-clear/600171191/"
+    },
+    {
+      "text": "Deforestation detected in the Brazilian Amazon broke all records for the month of April,",
+      "url": "https://www.startribune.com/brazils-amazon-deforestation-hits-record-for-month-of-april/600171085/"
+    },
+    {
+      "text": "A hit-and-run driver pleaded guilty",
+      "url": "https://www.startribune.com/driver-pleads-guilty-in-crash-that-killed-nicki-minajs-dad/600171174/"
+    },
+    {
+      "text": "to steal boxes of cards containing thousands of dollars",
+      "url": "https://www.startribune.com/ex-deputy-accused-of-posing-as-wedding-guest-to-steal-gifts/600171169/"
+    },
+    {
+      "text": "North Carolina's highest court\u00a0refused to hear the appeal",
+      "url": "https://www.startribune.com/nc-supreme-court-wont-hear-case-of-rev-barbers-conviction/600171106/"
+    },
+    {
+      "text": "A federal judge in San Francisco dismissed former President Donald Trump's lawsuit",
+      "url": "https://www.startribune.com/federal-judge-dismisses-donald-trumps-lawsuit-seeking-to-reinstate-his-twitter-account/600171214/"
+    },
+    {
+      "text": "detected in the Pacific Northwest in two backyard bird flocks in rural Oregon and Washington.",
+      "url": "https://www.startribune.com/avian-flu-confirmed-in-2-backyard-pacific-northwest-flocks/600171130/"
+    },
+    {
+      "text": "but the numbers used to prove it caused a public rift",
+      "url": "https://www.startribune.com/watchdog-group-questions-report-on-disparities-in-duluth-policing-and-gets-a-letter-from-a-lawyer/600171211/"
+    },
+    {
+      "text": "Crews searched waters off the coast of Georgia \u00a0for the pilot",
+      "url": "https://www.startribune.com/crews-search-for-pilot-after-small-plane-crashes-off-georgia/600171170/"
+    },
+    {
+      "text": "Two Dallas police officers and one from the Dallas suburb of Garland were indicted",
+      "url": "https://www.startribune.com/grand-jury-indicts-3-dallas-area-officers-in-2020-protests/600171168/"
+    },
+    {
+      "text": "This Kentucky Derby sets up as a Minnesota spectacle",
+      "url": "https://www.startribune.com/this-kentucky-derby-sets-up-as-a-minnesota-spectacle-with-zandon-and-zozos/600171193/"
+    },
+    {
+      "text": "died from drowning while under the influence of cocaine and alcohol.",
+      "url": "https://www.startribune.com/authorities-person-found-in-brooklyn-park-creek-in-march-drowned-under-influence-of-drugs-alcohol/600171186/"
+    },
+    {
+      "text": "celebrate nature, applaud diversity and protest racism, ",
+      "url": "https://www.startribune.com/picture-books-with-a-message/600171148/"
+    },
+    {
+      "text": "UPDATE: The death toll at a luxury hotel in Cuba rose to 18 people",
+      "url": "https://www.startribune.com/death-toll-in-havana-hotel-blast-reaches-18-including-child/600171059/"
+    },
+    {
+      "text": "died from a gunshot to the back of his head,",
+      "url": "https://www.startribune.com/autopsy-patrick-lyoya-killed-by-cops-shot-to-the-head/600171172/"
+    },
+    {
+      "text": "U.S. interior secretary touts urban park funding in St. Paul",
+      "url": "http://https://www.startribune.com/u-s-interior-secretary-touts-urban-park-funding-in-st-paul-visit/600171188/"
+    },
+    {
+      "text": "A U.S. Customs and Border Protection agent in Southwest Texas has been arrested",
+      "url": "https://www.startribune.com/border-patrol-agent-charged-in-assault-of-juvenile-in-texas/600171152/"
+    },
+    {
+      "text": "The Minneapolis school board has 25 candidates",
+      "url": "https://www.startribune.com/vacant-minneapolis-school-board-seat-draws-25-applicants/600171151/"
+    },
+    {
+      "text": "Texas Attorney General Ken Paxton said\u00a0the state bar association plans to sue him",
+      "url": "https://www.startribune.com/texas-ag-says-bar-is-suing-him-over-2020-election-challenge/600171080/"
+    },
+    {
+      "text": "Minnesota health officials are urging parents to watch for signs of liver inflammation",
+      "url": "https://www.startribune.com/minnesota-parents-should-watch-for-hepatitis-symptoms-in-children/600171164/"
+    },
+    {
+      "text": "was found in an impound lot in Tennessee, where it sat for nearly a week",
+      "url": "https://www.startribune.com/sheriff-car-linked-to-alabama-escapee-jail-worker-found/600171100/"
+    },
+    {
+      "text": "examining changes that would combine race and ethnicity questions ",
+      "url": "https://www.startribune.com/census-ready-to-study-combining-race-ethnicity-questions/600171129/"
+    },
+    {
+      "text": "the Rev. Jen Crow found healing in helping others.",
+      "url": "https://www.startribune.com/after-losing-everything-in-a-house-fire-the-rev-jen-crow-found-healing-in-helping-others/600171117/"
+    },
+    {
+      "text": "to help North Dakota combat springtime flooding",
+      "url": "https://www.startribune.com/minnesota-national-guard-helicopter-crew-from-st-cloud-join-flood-response-in-north-dakota/600171153/"
+    },
+    {
+      "text": "would pay nearly $500 more in tuition next academic year ",
+      "url": "https://www.startribune.com/university-of-minnesota-president-proposes-3-5-tuition-hike-for-twin-cities-students/600171132/"
+    },
+    {
+      "text": "Royce Lewis, the Twins' top prospect",
+      "url": "https://www.startribune.com/twins-royce-lewis-carlos-correa-top-prospect-mlb-draft/600171149/"
+    },
+    {
+      "text": " \"But what about my wife? She should be recognized too.\"\u00a0",
+      "url": "https://www.startribune.com/when-harry-met-kathy-husband-and-wife-score-double-honor-as-heroes-of-the-game/600170969/"
+    },
+    {
+      "text": "spring made an instant arrival Friday.",
+      "url": "https://www.startribune.com/minnesotans-soak-up-the-warmth-as-state-snaps-out-of-cold-spell/600171122/"
+    },
+    {
+      "text": "authorities say.",
+      "url": "https://www.startribune.com/authorities-id-man-shot-to-death-before-dawn-this-week-in-frogtown-neighborhood-of-st-paul/600171056/"
+    },
+    {
+      "text": "criminal complaint into Lily Peters' death",
+      "url": "https://www.startribune.com/chippewa-falls-court-releases-criminal-complaint-in-lily-peters-death/600171095/"
+    },
+    {
+      "text": "Let's hear from our handcapper.",
+      "url": "https://www.startribune.com/keutcky-derby-picks-epicenter-simplification-white-abarrio-zozos-jay-lietzau/600170879/"
+    },
+    {
+      "text": "The hidden electrical system that keeps our lights on",
+      "url": "https://www.startribune.com/curious-minnesota-podcast-electricity/600170764/"
+    },
+    {
+      "text": "Best Buy branching into skincare products",
+      "url": "http://strib.mn/3yjw5dP"
+    },
+    {
+      "text": "sentenced Friday to eight months in prison.",
+      "url": "https://www.startribune.com/man-who-stormed-capitol-in-caveman-costume-gets-prison/600171066/"
+    },
+    {
+      "text": "considered at least at moderate COVID-19 risk",
+      "url": "https://www.startribune.com/21-minnesota-counties-listed-by-cdc-as-moderate-high-covid-19-risks/600171068/"
+    },
+    {
+      "text": "headliner of the TC Pride concert",
+      "url": "https://www.startribune.com/twin-cities-pride-calls-up-carly-rae-jepsen-to-headline-june-25-concert-at-armory/600171023/"
+    },
+    {
+      "text": "rents increased slightly",
+      "url": "https://www.startribune.com/rising-mortgage-rates-help-boost-demand-for-twin-cities-apartments/600171018/"
+    },
+    {
+      "text": "coming to Twin Cities in 2026",
+      "url": "https://www.startribune.com/special-olympics-usa-to-come-to-twin-cities-in-2026/600171055/"
+    },
+    {
+      "text": "sentenced to 15 months in prison",
+      "url": "https://www.startribune.com/15-month-sentence-for-onetime-temp-agency-owner-who-cheated-feds-out-of-1m-in-taxes/600171019/"
+    },
+    {
+      "text": "\n                    Wild takes control of series with Game 3 blowout win over Blues\n                ",
+      "url": "https://www.startribune.com/wild-takes-control-of-series-with-game-3-blowout-win-over-blues/600171251/"
+    },
+    {
+      "text": "\n                        \u2022 Wild\n                    ",
+      "url": "https://www.startribune.com/sports/wild/"
+    },
+    {
+      "text": "\n                    Twins see glimpse of the future, top A's to open series at Target Field\n                ",
+      "url": "https://www.startribune.com/twins-see-glimpse-of-the-future-top-oakland-to-open-series-at-target-field/600171237/"
+    },
+    {
+      "text": "\n                        \u2022 Twins\n                    ",
+      "url": "https://www.startribune.com/sports/twins/"
+    },
+    {
+      "text": "\n                    21 Minnesota counties listed as moderate, high COVID-19 risks\n                ",
+      "url": "https://www.startribune.com/21-minnesota-counties-listed-by-cdc-as-moderate-high-covid-19-risks/600171068/"
+    },
+    {
+      "text": "\n                        \u2022 Coronavirus\n                    ",
+      "url": "https://www.startribune.com/local/coronavirus/"
+    },
+    {
+      "text": "\n                    The death of Roe will tear America apart\n                ",
+      "url": "https://www.startribune.com/the-death-of-roe-will-tear-america-apart/600171181/"
+    },
+    {
+      "text": "\n                        \u2022 Opinion Exchange\n                    ",
+      "url": "https://www.startribune.com/opinion/commentaries/"
+    },
+    {
+      "text": "\n                    Twins call up top prospect Lewis: 'Truly a blessing'\n                ",
+      "url": "https://www.startribune.com/twins-royce-lewis-top-prospect-mlb-draft-mlb-debut/600171149/"
+    },
+    {
+      "text": "\n                        \u2022 Twins\n                    ",
+      "url": "https://www.startribune.com/sports/twins/"
+    },
+    {
+      "text": "\n                    When Harry Met Kathy: Husband and wife score double honor as heroes of the game\n                ",
+      "url": "https://www.startribune.com/when-harry-met-kathy-husband-and-wife-score-double-honor-as-heroes-of-the-game/600170969/"
+    },
+    {
+      "text": "\n                        \u2022 Inspired\n                    ",
+      "url": "https://www.startribune.com/variety/inspired/"
+    },
+    {
+      "text": "\n                    This Kentucky Derby sets up as a Minnesota spectacle with Zandon and Zozos\n                ",
+      "url": "https://www.startribune.com/this-kentucky-derby-sets-up-as-a-minnesota-spectacle-with-zandon-and-zozos/600171193/"
+    },
+    {
+      "text": "\n                        \u2022 Sports\n                    ",
+      "url": "https://www.startribune.com/sports/"
+    },
+    {
+      "text": "\n                    The Police's drummer heads to Minneapolis to deliver a message in an oratorio\n                ",
+      "url": "https://www.startribune.com/the-police-stewart-copeland-minneapolis-oratorio-sting-vocalessence-mall-of-america-andy-summers/600170658/"
+    },
+    {
+      "text": "\n                        \u2022 Music\n                    ",
+      "url": "https://www.startribune.com/variety/music/"
+    },
+    {
+      "text": "\n                    Historic Purcell-Cutts house near Lake of the Isles in Mpls. reopens for tours\n                ",
+      "url": "https://www.startribune.com/historic-purcell-cutts-house-reopens-for-tours-in-minneapolis/600171065/"
+    },
+    {
+      "text": "\n                        \u2022 Home & Garden\n                    ",
+      "url": "https://www.startribune.com/variety/homegarden/"
+    },
+    {
+      "text": "\n                    Beloved Ely radio station WELY to shut down\n                ",
       "url": "https://www.startribune.com/beloved-ely-radio-station-to-shut-down/600170974/"
     },
     {
-      "text": "free, 12-week job training program in construction",
-      "url": "https://www.startribune.com/job-training-program-restores-historic-st-paul-home/600170958/"
-    },
-    {
-      "text": "the five things our Taste team loved this week",
-      "url": "https://www.startribune.com/the-5-best-things-we-ate-in-the-twin-cities-area-this-week/600170976/"
-    },
-    {
-      "text": "require us to get new license plates",
-      "url": "https://www.startribune.com/license-plates-seven-years-replace-minnesota-law/600170978/"
-    },
-    {
-      "text": "pleaded guilty to burning down his St. Cloud bar",
-      "url": "https://www.startribune.com/st-cloud-bar-owner-admits-setting-business-on-fire-in-1-4m-insurance-scheme/600170995/"
-    },
-    {
-      "text": "U.S. added 428,000 jobs in April",
-      "url": "https://www.startribune.com/us-futures-skid-on-recession-fears-ahead-of-jobs-report/600170933/"
-    },
-    {
-      "text": "First lady\u00a0Jill Biden to meet Ukrainian refugees",
-      "url": "https://www.startribune.com/jill-biden-to-meet-ukrainian-refugees-during-border-visit/600170917/"
-    },
-    {
-      "text": "\"I read banned books\" library cards",
-      "url": "https://www.startribune.com/nashville-library-offers-i-read-banned-books-library-cards/600170926/"
-    },
-    {
-      "text": "the second wreck leading to his death",
-      "url": "https://www.startribune.com/motorcyclist-dies-after-crashing-twice-in-minneapolis/600170965/"
-    },
-    {
-      "text": "SpaceX brings four astronauts home",
-      "url": "https://www.startribune.com/spacex-brings-4-astronauts-home-with-midnight-splashdown/600170921/"
-    },
-    {
-      "text": "mostly sunny and a high near 70",
-      "url": "https://www.startribune.com/risk-of-summer-next-week-remembering-1965-twin-cities-tornado-super-outbreak/600169951/"
-    },
-    {
-      "text": "urged the world to unite and end the war in Ukraine, ",
-      "url": "https://www.startribune.com/un-chief-urges-end-to-senseless-and-ruthless-war-in-ukraine/600170861/"
-    },
-    {
-      "text": "Another journalist was found dead in northern Mexico",
-      "url": "https://www.startribune.com/journalist-killed-in-northern-mexico-9th-so-far-this-year/600170862/"
-    },
-    {
-      "text": "A man opened an emergency exit of a United Airlines jet, ",
-      "url": "https://www.startribune.com/man-charged-for-opening-door-walking-on-wing-as-jet-taxis/600170841/"
-    },
-    {
-      "text": "A Las Vegas man pleaded not guilty\u00a0",
-      "url": "https://www.startribune.com/vegas-man-pleads-not-guilty-in-boys-body-in-freezer-case/600170840/"
-    },
-    {
-      "text": " an alert for a missing Australian woman ",
-      "url": "https://www.startribune.com/australian-woman-missing-in-mexico-after-child-found-alone/600170798/"
-    },
-    {
-      "text": "Chinese state media say 53 people died",
-      "url": "https://www.startribune.com/53-dead-in-china-building-collapse-search-for-trapped-ends/600170895/"
-    },
-    {
-      "text": "Joel\u00a0 Eriksson Ek's Game 2 performance drew raves",
-      "url": "https://www.startribune.com/joel-eriksson-eks-value-always-appreciated-by-his-wild-teammates/600170886/"
-    },
-    {
-      "text": "sentenced\u00a0to five years in prison.",
-      "url": "https://www.startribune.com/ex-cop-gets-5-years-for-rough-arrest-of-woman-with-dementia/600170864/"
-    },
-    {
-      "text": "met with union organizers, including from Amazon, at the White House",
-      "url": "https://www.startribune.com/amazon-union-head-others-meet-at-white-house-on-organizing/600170837/"
-    },
-    {
-      "text": "have discovered the organ harbored an animal virus",
-      "url": "https://www.startribune.com/virus-found-in-pig-heart-used-in-human-transplant/600170857/"
-    },
-    {
-      "text": "as the Orioles beat the Twins 5-3.",
-      "url": "https://www.startribune.com/byron-buxton-homers-but-baltimore-belts-five-solo-shots-to-beat-twins/600170890/"
-    },
-    {
-      "text": " is criticizing one of the department's officers for briefly detaining her",
-      "url": "https://www.startribune.com/mother-of-daunte-wright-has-run-in-with-brooklyn-center-officer/600170882/"
-    },
-    {
-      "text": "book by \"Hillbilly Elegy\" author and U.S. Senate candidate JD Vance that had been under contract with Harper has been called off",
-      "url": "https://www.startribune.com/a-second-jd-vance-book-falls-through-publisher-says/600170774/"
-    },
-    {
-      "text": "Another candidate announced a run for Hennepin County attorney",
-      "url": "https://www.startribune.com/hennepin-county-attorney-candidates-talk-child-protection-police-accountability-in-forum/600170880/"
-    },
-    {
-      "text": "The Vikings signed former Oklahoma kicker Gabe Brkic",
-      "url": "https://www.startribune.com/vikings-signing-kicker-roster-nfl-football-gabe-brkic/600170874/"
-    },
-    {
-      "text": "Lynx center Sylvia Fowles is excited for her final seaso",
-      "url": "https://www.startribune.com/sylvia-fowles-excited-for-final-season-not-so-happy-about-farewell-tour/600170843/"
-    },
-    {
-      "text": "a federal commission tasked with helping improve how the government addresses a decades-long crisis of missing and murdered Native Americans and Alaska Natives",
-      "url": "https://www.startribune.com/us-panel-to-focus-on-native-american-missing-slain-cases/600170839/"
-    },
-    {
-      "text": "Saying it's time to reinvest in fishing in Minnesota",
-      "url": "https://www.startribune.com/fishing-forum-minnesota-angling-natural-resources-hatcheries-boating/600170830/"
-    },
-    {
-      "text": "unfit for service because he tested positive for HIV.",
-      "url": "https://www.startribune.com/military-college-student-sues-armed-forces-over-hiv-policy/600170780/"
-    },
-    {
-      "text": "confirmed the choice of attorney for the 14-year-old Chippewa Falls boy ",
-      "url": "https://www.startribune.com/boy-returns-to-court-for-hearing-in-lily-peters-case/600170858/"
-    },
-    {
-      "text": " had a chaotic start to life.\u00a0",
-      "url": "https://www.startribune.com/teen-accused-of-killing-wisconsin-girl-had-a-chaotic-start-in-life/600170853/"
-    },
-    {
-      "text": "A Georgia high school student was arrested",
-      "url": "https://www.startribune.com/high-school-student-arrested-after-lockdown-at-school/600170739/"
-    },
-    {
-      "text": "Horse racing faces reckoning after high-profile positive drug tests",
-      "url": "https://www.startribune.com/horse-racings-reckoning/600170856/?"
-    },
-    {
-      "text": "The University of Missouri has proposed disciplinary sanctions against 13 students",
-      "url": "https://www.startribune.com/university-of-missouri-proposes-discipline-for-13-students/600170733/"
-    },
-    {
-      "text": "Chase Gasper trade \"right thing to do.\"",
-      "url": "https://www.startribune.com/minnesota-united-coach-adrian-heath-calls-chase-gasper-trade-right-thing-to-do/600170813/"
-    },
-    {
-      "text": "will chair the organization's board if City Council approves the nomination",
-      "url": "https://www.startribune.com/tom-hoch-nominated-to-chair-minneapolis-public-housing-authority-board/600170855/"
-    },
-    {
-      "text": "Karine Jean-Pierre to be the next White House press secretary,",
-      "url": "https://www.startribune.com/karine-jean-pierre-to-be-next-white-house-press-secretary/600170799/"
-    },
-    {
-      "text": "has\u00a0died\u00a0at age 91.",
-      "url": "https://www.startribune.com/bob-latz-former-assistant-attorney-general-with-a-commitment-to-democracy-dies-at-91/600170814/"
-    },
-    {
-      "text": "Federal money for COVID care of the uninsured is drying up",
-      "url": "https://www.startribune.com/covid-coverage-for-all-dries-up-even-as-hospital-costs-rise/600170738/"
-    },
-    {
-      "text": "\"It is a Minnesota thing\": ",
-      "url": "https://www.startribune.com/canoe-racing-minnesota-canada-paddlers-aquatennial-wenonah/600170835/"
-    },
-    {
-      "text": "Luis Arraez and last night's starter, Dylan Bundy, also tested positive",
-      "url": "https://www.startribune.com/minnesota-twins-rocco-baldelli-positive-covid-test/600170796/"
-    },
-    {
-      "text": "are kept secret from the public, listed as \"not available\"",
-      "url": "https://www.startribune.com/condition-of-some-us-dams-kept-secret-in-national-database/600170706/"
-    },
-    {
-      "text": "nine-time Grammy winner Sheryl Crow",
-      "url": "https://www.startribune.com/sheryl-crow-looks-back-on-her-winding-road-to-stardom-in-new-documentary/600170678/"
-    },
-    {
-      "text": "U.S. regulators limit the use of Johnson & Johnson's vaccine",
-      "url": "https://www.startribune.com/fda-restricts-j-js-covid-19-vaccine-due-to-blood-clot-risk/600170824/"
-    },
-    {
-      "text": "Abortion opponents say cross-border trips to get abortion pills",
-      "url": "http://strib.mn/3FkJeVC"
-    },
-    {
-      "text": "An Orono man was sentenced to a 7\u00a01\u20442-year term",
-      "url": "https://www.startribune.com/7-1-2-year-term-for-driver-who-killed-2-young-men-in-crash-on-lake-minnetonka-road/600170809/"
-    },
-    {
-      "text": "Rocco Baldelli will be sidelined",
-      "url": "https://www.startribune.com/minnesota-twins-rocco-baldelli-positive-covid-test/600170796/"
-    },
-    {
-      "text": "Stocks are closing sharply lower",
-      "url": "https://www.startribune.com/stocks-slump-3-as-worries-grow-over-higher-interest-rates/600170633/"
-    },
-    {
-      "text": "will be closed this weekend.\u00a0",
-      "url": "https://www.startribune.com/portions-of-7-major-twin-cities-highways-to-be-closed-this-weekend/600170791/"
-    },
-    {
-      "text": "\n                    Teen accused of killing Wisconsin girl had a chaotic start in life\n                ",
-      "url": "https://www.startribune.com/teen-accused-of-killing-wisconsin-girl-had-a-chaotic-start-in-life/600170853/"
-    },
-    {
-      "text": "\n                        \u2022 Local\n                    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "\n                    Portions of 7 major Twin Cities highways closed this weekend\n                ",
-      "url": "https://www.startribune.com/portions-of-7-major-twin-cities-highways-to-be-closed-this-weekend/600170791/"
-    },
-    {
-      "text": "\n                        \u2022 Traffic\n                    ",
-      "url": "https://www.startribune.com/local/traffic/"
-    },
-    {
-      "text": "\n                    Mother of Daunte Wright has run-in with Brooklyn Center officer\n                ",
-      "url": "https://www.startribune.com/mother-of-daunte-wright-has-run-in-with-brooklyn-center-officer/600170882/"
-    },
-    {
-      "text": "\n                        \u2022 North Metro\n                    ",
-      "url": "https://www.startribune.com/local/north/"
-    },
-    {
-      "text": "\n                    The 5 best things we ate in the Twin Cities area this week\n                ",
-      "url": "https://www.startribune.com/the-5-best-things-we-ate-in-the-twin-cities-area-this-week/600170976/"
-    },
-    {
-      "text": "\n                        \u2022 Eat & Drink\n                    ",
-      "url": "https://www.startribune.com/variety/dining/"
-    },
-    {
-      "text": "\n                    Why does Minnesota require new license plates every seven years?\n                ",
-      "url": "https://www.startribune.com/license-plates-seven-years-replace-minnesota-law/600170978/"
-    },
-    {
-      "text": "\n                        \u2022 Curious Minnesota\n                    ",
-      "url": "https://www.startribune.com/local/curiousminnesota/"
-    },
-    {
-      "text": "\n                    Portions of 7 major Twin Cities highways closed this weekend\n                ",
-      "url": "https://www.startribune.com/portions-of-7-major-twin-cities-highways-to-be-closed-this-weekend/600170791/"
-    },
-    {
-      "text": "\n                        \u2022 Traffic\n                    ",
-      "url": "https://www.startribune.com/local/traffic/"
-    },
-    {
-      "text": "\n                    Tom Hoch nominated to chair Minneapolis Public Housing Authority board\n                ",
-      "url": "https://www.startribune.com/tom-hoch-nominated-to-chair-minneapolis-public-housing-authority-board/600170855/"
-    },
-    {
-      "text": "\n                        \u2022 Minneapolis\n                    ",
-      "url": "https://www.startribune.com/local/minneapolis/"
-    },
-    {
-      "text": "\n                    Mother of Daunte Wright has run-in with Brooklyn Center officer\n                ",
-      "url": "https://www.startribune.com/mother-of-daunte-wright-has-run-in-with-brooklyn-center-officer/600170882/"
-    },
-    {
-      "text": "\n                        \u2022 North Metro\n                    ",
-      "url": "https://www.startribune.com/local/north/"
-    },
-    {
-      "text": "\n                    Prime Therapeutics paying $1.35 billion for Magellan Health's pharmacy business\n                ",
-      "url": "https://www.startribune.com/prime-therapeutics-paying-1-35-billion-for-magellan-healths-pharmacy-business/600170728/"
-    },
-    {
-      "text": "\n                        \u2022 Business\n                    ",
-      "url": "https://www.startribune.com/business/"
-    },
-    {
-      "text": "\n                    Anderson: Hooking anglers since 1975, Wayzata bait shop may have reached its limit\n                ",
-      "url": "https://www.startribune.com/wayzata-bait-and-tackle-suburban-bait-shops-modern-fishing-dennis-anderson/600170959/"
-    },
-    {
-      "text": "\n                        \u2022 Outdoors\n                    ",
-      "url": "https://www.startribune.com/sports/outdoors/"
+      "text": "\n                        \u2022 Duluth\n                    ",
+      "url": "https://www.startribune.com/local/duluth/"
     },
     {
       "text": "Facebook",
@@ -2888,19 +2938,11 @@
     {
       "text": "Advanced Search",
       "url": "#"
-    },
-    {
-      "text": "",
-      "url": ""
-    },
-    {
-      "text": "",
-      "url": "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssfGERFI3dgx7H2KYk2NV8FEylp01Pxm1wPKpn6rfnMBLukCh3uumaz1tljrcgV6mL3x3tetcXuxcMSZdk0ULerHKgq5uJ--B1TQY1J-xbPlqj_BEP3wWTUyMTOVl0f_A48PkS3GMYu5LBm5Y5EGTQMITIuc29Rii0x6a63QhV-hObDTNZTXWJX3u4Azz1fbbrX9YpqQ_eXGW-V6YnLZYOhLe3Gj3kvDkdllMH03XVzhKhmNNtDxMzha1fGkdUhcAicHe1_yl7XyHVDZz_uXP6AIdx519_jcuCgngVBpugdzLAOWFtH3U-g4CAh&sig=Cg0ArKJSzO9Pwq7SySxhEAE&fbs_aeid=[gw_fbsaeid]&urlfix=1&adurl=https://www.votemnbest.com/?utm_source=startribune&utm_medium=banner&utm_content=st&utm_campaign=overlay"
     }
   ],
-  "uniq": 1416545433,
+  "uniq": 466417323,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

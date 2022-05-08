@@ -1,5 +1,5 @@
 {
-  "created": 1651882639,
+  "created": 1651940456,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/27/items/kccinews-2022",
@@ -1598,31 +1598,73 @@
       "sha1": "0c725a5a58cd62377e1713c895345cb05e2c1fee"
     },
     {
+      "name": "kccinews-2022-05-07T11:10:13.421650-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651939827",
+      "size": "25942",
+      "md5": "5d996a43a1271723725c4917a10b0b67",
+      "crc32": "d41ded23",
+      "sha1": "7bd8d0677827aa22aae80bc17f19db7a92f64728",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-05-07T11:10:13.421650-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651939830",
+      "size": "24519",
+      "md5": "9fcf385eca716c0c4edaa101aff2997c",
+      "crc32": "71de5ff0",
+      "sha1": "c76591b598032c48b2ab01c77dfc6bee03799b83",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-05-07T11:10:13.421650-05:00.jpg",
+      "source": "original",
+      "mtime": "1651939826",
+      "size": "275267",
+      "md5": "9c05cb00a1b66ccad36ce17a96478400",
+      "crc32": "5312eefd",
+      "sha1": "f4bf8996dedfe5b92afb139956f9696c7ab472fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kccinews-2022-05-07T11:10:13.421650-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kccinews-2022-05-07T11:10:13.421650-05:00.jpg",
+      "mtime": "1651940436",
+      "size": "10246",
+      "md5": "c9c980672747628d3b8eedc85ce12422",
+      "crc32": "0f52e45b",
+      "sha1": "4c2fcb9db993eed0eb70ba10b17069ffa6491ef7"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cbbdb605e8b5ff709d772a452909fee2ed2f1730",
-      "mtime": "1651854803",
-      "size": "33243",
-      "md5": "a4fb323a2e6dfe6bbca6530db1077ac3",
-      "crc32": "fbe9244e",
-      "sha1": "488859ca23da326558ab40e2f755307525f86512",
+      "btih": "81b5398da150d5ebe451f39add46abb54b1745f6",
+      "mtime": "1651940440",
+      "size": "34093",
+      "md5": "94b4af3959bc8d18dfb6f3eaaec6b590",
+      "crc32": "d4ea3583",
+      "sha1": "52652cc3d6be1a07c37a467b65baf448dcf36aee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c052f4dfe75aa45c1cf36f072a5692f",
+      "md5": "a6e8eb67ce97cf5053c8a48cb62d4aa8",
       "summation": "md5"
     },
     {
       "name": "kccinews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651853342",
-      "size": "188416",
-      "md5": "b23b80ce3463992d702359b845014545",
-      "crc32": "375161cb",
-      "sha1": "3b6efdb097ca0dcb93b9a18137323c22164d2bdd",
+      "mtime": "1651940378",
+      "size": "196608",
+      "md5": "aed50fa2c0a068fdcae28a7f4c69f258",
+      "crc32": "68312d5e",
+      "sha1": "e33676ed4ace56d57e0e0b92fc975d158bb121e2",
       "format": "Metadata"
     },
     {
@@ -1636,659 +1678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 155,
-  "item_last_updated": 1651854803,
-  "item_size": 14940026,
-  "kccinews-2022": [
-    {
-      "text": "Skip to content",
-      "url": "#"
-    },
-    {
-      "text": "\n        \n            \n                NOWCAST\n                KCCI News at 6am Weekday Morning\n            \n            \n                \n                    \n                \n\n                \n                                            Watch on Demand\n                                    \n            \n        \n    ",
-      "url": "/nowcast"
-    },
-    {
-      "text": "Search",
-      "url": "/search"
-    },
-    {
-      "text": "Homepage",
-      "url": "/"
-    },
-    {
-      "text": "Local News",
-      "url": "/local-news"
-    },
-    {
-      "text": "National News",
-      "url": "/national-news"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/coronavirus"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics"
-    },
-    {
-      "text": "Matter of Fact",
-      "url": "/matter-of-fact"
-    },
-    {
-      "text": "Investigate",
-      "url": "/investigative"
-    },
-    {
-      "text": "Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "Radar",
-      "url": "/weather/radar"
-    },
-    {
-      "text": "Alerts",
-      "url": "/alerts"
-    },
-    {
-      "text": "Closings",
-      "url": "/weather/closings"
-    },
-    {
-      "text": "Skycams",
-      "url": "/skycams"
-    },
-    {
-      "text": "Local Radar",
-      "url": "/localradar"
-    },
-    {
-      "text": "8 Day Forecast",
-      "url": "/8-day"
-    },
-    {
-      "text": "Forecasting Our Future",
-      "url": "/forecasting-our-future"
-    },
-    {
-      "text": "Wx pics on ulocal",
-      "url": "/article/share-view-the-latest-weather-photos-on-kccis-u-local/5081790"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports"
-    },
-    {
-      "text": "High School Sports",
-      "url": "/high-school-sports"
-    },
-    {
-      "text": "Traffic",
-      "url": "/traffic"
-    },
-    {
-      "text": "ulocal",
-      "url": "/ulocal"
-    },
-    {
-      "text": "MeTV",
-      "url": "/getmoredesmoines"
-    },
-    {
-      "text": "My Des Moines",
-      "url": "/getmoredesmoines"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/entertainment"
-    },
-    {
-      "text": "This Is Iowa",
-      "url": "/this-is-iowa"
-    },
-    {
-      "text": "KCCI Archives",
-      "url": "/kcci-archives"
-    },
-    {
-      "text": "Gr8news",
-      "url": "/gr8news"
-    },
-    {
-      "text": "Close Up",
-      "url": "/close-up"
-    },
-    {
-      "text": "Editorials",
-      "url": "/editorials"
-    },
-    {
-      "text": "Stitch",
-      "url": "/vuz"
-    },
-    {
-      "text": "Upload",
-      "url": "/upload"
-    },
-    {
-      "text": "Obituaries",
-      "url": "https://kcci.tributes.com/national/home"
-    },
-    {
-      "text": "Gr8 Pros",
-      "url": "/gr8professionals"
-    },
-    {
-      "text": "Contests",
-      "url": "/contests"
-    },
-    {
-      "text": "Health",
-      "url": "/health"
-    },
-    {
-      "text": "Project CommUNITY",
-      "url": "/project-community"
-    },
-    {
-      "text": "News Team",
-      "url": "/news-team"
-    },
-    {
-      "text": "Contact",
-      "url": "/contact"
-    },
-    {
-      "text": "Advertise with KCCI",
-      "url": "https://advertise.kcci.com/"
-    },
-    {
-      "text": "Privacy Notice",
-      "url": "https://www.hearst.com/newsroom/tv-privacy-notice"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://www.hearst.com/newsroom/tv-terms-of-use"
-    },
-    {
-      "text": "\n                                    \n                            ",
-      "url": "/"
-    },
-    {
-      "text": "\n                                    \n                            ",
-      "url": "/"
-    },
-    {
-      "text": "57\u00b0Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "\n\t\t\t\t\tMORE\n\t\t\t\t\t\n\t\t\t\t",
-      "url": "/weather"
-    },
-    {
-      "text": "Sign Up to Get Future Alerts",
-      "url": "https://www.kcci.com/subscribe"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/iowa-teen-willard-miller-asks-judge-to-move-his-murder-trial-to-juvenile-court/39924881"
-    },
-    {
-      "text": "\n\t\t\tIowa teen asks judge to move his murder trial to juvenile court\n\t\t",
-      "url": "/article/iowa-teen-willard-miller-asks-judge-to-move-his-murder-trial-to-juvenile-court/39924881"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/article/iowa-teen-willard-miller-asks-judge-to-move-his-murder-trial-to-juvenile-court/39924881"
-    },
-    {
-      "text": "Des Moines, IA 50309",
-      "url": "/weather"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t57\n\t\t\t\t\t\t\u00b0\n\t\t\t\t\t\tF\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
-      "url": "/weather"
-    },
-    {
-      "text": "\n\t\t\t View Interactive Radar\n\t\t",
-      "url": "weather/radar"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tJason Sydejko\n\t\t\t\t",
-      "url": "/news-team/81542672-76ba-422e-8a06-e049c871094e"
-    },
-    {
-      "text": "\n\t\t\tSunshine returns ahead of weekend storms\n\t\t",
-      "url": "/article/west-des-moines-iowa-weather-forecast-may-6-2022/39924789"
-    },
-    {
-      "text": "Farmers markets become affordable option as grocery prices continue to soar",
-      "url": "/article/des-moines-iowa-downtown-farmers-market-opens-this-weekend/39926925"
-    },
-    {
-      "text": "Police identify woman killed in Des Moines house fire",
-      "url": "/article/des-moines-iowa-police-identify-woman-killed-in-house-fire/39925325"
-    },
-    {
-      "text": "Future of downtown Des Moines YMCA in question",
-      "url": "/article/future-of-downtown-des-moines-iowa-ymca-in-question/39925915"
-    },
-    {
-      "text": "Waukee School District investigating racist school project",
-      "url": "/article/iowa-waukee-school-district-investigating-racist-school-project/39921035"
-    },
-    {
-      "text": "FBI provides active shooter training for churches in the metro",
-      "url": "/article/urbandale-iowa-fbi-provides-training-for-churches-in-the-metro/39920917"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/passenger-custody-emergency-exit-wing-of-plane/39916938"
-    },
-    {
-      "text": "\n\t\t\tPassenger taken into custody after opening emergency exit and walking on wing of plane\n\t\t",
-      "url": "/article/passenger-custody-emergency-exit-wing-of-plane/39916938"
-    },
-    {
-      "text": "US added 428,000 jobs in April despite surging inflation",
-      "url": "/article/us-added-428-000-jobs-in-april/39925304"
-    },
-    {
-      "text": "'That was a great ride': SpaceX brings 4 astronauts home, then launches 53 satellites",
-      "url": "/article/spacex-brings-4-astronauts-home/39924911"
-    },
-    {
-      "text": "This 'Hero Dog' has a special knack for comforting other dogs",
-      "url": "/article/kansas-city-dog-up-for-hero-dog-award-for-comforting-other-dogs/39923254"
-    },
-    {
-      "text": "Former pilot's tips to get to your destination on time",
-      "url": "/article/former-pilots-tips-get-destination-time/39922290"
-    },
-    {
-      "text": "'You guys saved my life': Nearly 2 years later, woman thanks officers who helped her at rock bottom",
-      "url": "/article/woman-thanks-officers-who-saved-her-life/39920578"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/kcci-to-host-debate-with-democratic-candidates-for-us-senate/39826198"
-    },
-    {
-      "text": "\n\t\t\tKCCI to host debate with Democratic candidates for U.S. Senate \n\t\t",
-      "url": "/article/kcci-to-host-debate-with-democratic-candidates-for-us-senate/39826198"
-    },
-    {
-      "text": "\n\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\t",
-      "url": "https://www.kcci.com/article/iowa-primary-election-results-2022/39501498"
-    },
-    {
-      "text": "\n\t\t\tIowa Primary Election Guide\n\t\t",
-      "url": "https://www.kcci.com/article/iowa-primary-election-results-2022/39501498"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tNEWS \n\t\t\t\t\t",
-      "url": "https://www.cbsnews.com/videos/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tSHOWS \n\t\t\t\t\t",
-      "url": "https://www.cbs.com/watch"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/reviews-best-mattress/39863565"
-    },
-    {
-      "text": "\n\t\t\tThe best mattresses for your most restful, rejuvenating sleep yet\n\t\t",
-      "url": "/article/reviews-best-mattress/39863565"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/everything-need-fight-sunburns-premature-aging-skin-cancer-summer/39910776"
-    },
-    {
-      "text": "\n\t\t\tEverything you need to know to fight sunburns, premature aging and skin cancer this summer\n\t\t",
-      "url": "/article/everything-need-fight-sunburns-premature-aging-skin-cancer-summer/39910776"
-    },
-    {
-      "text": "\n\n\t\t\t\t\t\t\tMedicap Pharmacy Urbandale - Going Green with Solar\n\t\t\t\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\t\t\t\t\t\t    \t\t\t\t\t\t",
-      "url": "/article/medicap-pharmacy-urbandale-going-green-with-solar/38847784"
-    },
-    {
-      "text": "\n\n\t\t\t\t\t\t\tNorth Iowa continues to build on its uniqueness\n\t\t\t\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\t\t\t\t\t\t    \t\t\t\t\t\t",
-      "url": "/article/north-iowa-continues-to-build-on-it-s-uniqueness/34241702"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tRossen Reports: Venmo and PayPal increasing instant transfer fees\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/rossen-reports-venmo-and-paypal-increasing-instant-transfer-fees/39920283"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tSurprising facts about Cinco de Mayo!\n\t\n\n\n\t\t\t\n\n          \n                  HTV DIGITAL STUDIO\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/surprising-facts-about-cinco-de-mayo/20123966"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tHigh school prom cut short after racial slur yelled during 'clean' version of song\n\t\n\n\n\t\t\t\n\n          \n                  WCVB\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/high-school-prom-ends-early-after-racial-slur-yelled/39923727"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tWild video: North Carolina trooper uses car to stop wrong-way driver on interstate\n\t\n\n\n\t\t\t\n\n          \n                  WXII\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/north-carolina-trooper-uses-car-stop-wrong-way-driver/39918081"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tWhat the floods of 1993 taught Iowans about flooding\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/forecasting-our-future-what-the-floods-of-1993-taught-iowans-about-flooding/39849117"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tMother of Johnston stabbing victim demands justice for accused killer\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/mother-of-johnston-iowa-stabbing-victim-demands-justice-for-accused-killer/39512257"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\n\t\n\n\n\n\t\t\n\n\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\tWayfair's Way Day Sale Is Packed With Awesome Patio Furniture Deals \u2014 Here's What to Buy\n\t\n\n\n\t\t\t\n\n    \n      \n      \n    \n\n\t\t\n\t\t\t",
-      "url": "https://www.goodhousekeeping.com/life/money/a39839594/way-day-wayfair-outdoor-patio-furniture-sale-2022/?utm_source=kcci&utm_medium=referral&utm_campaign=htv-kcci-feed"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\n\t\n\n\n\n\t\t\n\n\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\tWayfair's Way Day 2022: All the Best Furniture Deals to Shop Right Now\n\t\n\n\n\t\t\t\n\n    \n      \n      \n    \n\n\t\t\n\t\t\t",
-      "url": "https://www.goodhousekeeping.com/life/money/a39772847/wayfair-way-day-sales-deals-2022/?utm_source=kcci&utm_medium=referral&utm_campaign=htv-kcci-feed"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\n\t\n\n\n\n\t\t\n\n\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\tBeats Studio Wireless, Noise-Canceling Earbuds Are On Sale On Amazon For Over 50% Off\n\t\n\n\n\t\t\t\n\n    \n      \n      \n    \n\n\t\t\n\t\t\t",
-      "url": "https://www.goodhousekeeping.com/life/money/a39788426/sale-beats-studio-earbuds-amazon/?utm_source=kcci&utm_medium=referral&utm_campaign=htv-kcci-feed"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\n\t\n\n\n\n\t\t\n\n\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\tAmazon\u2019s New Conscious Denim Is About to Be Your New Favorite\n\t\n\n\n\t\t\t\n\n    \n      \n      \n    \n\n\t\t\n\t\t\t",
-      "url": "https://www.goodhousekeeping.com/clothing/a39767079/amazon-aware-recycled-denim/?utm_source=kcci&utm_medium=referral&utm_campaign=htv-kcci-feed"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\n\t\n\n\n\n\t\t\n\n\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\tWe Just Found the Perfect Cooling Blanket for Summer and It's on Sale Right Now\n\t\n\n\n\t\t\t\n\n    \n      \n      \n    \n\n\t\t\n\t\t\t",
-      "url": "https://www.goodhousekeeping.com/life/money/a39729629/slumber-cloud-textured-blanket/?utm_source=kcci&utm_medium=referral&utm_campaign=htv-kcci-feed"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\n\t\n\n\n\n\t\t\n\n\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\tIs Nonstick Cookware Safe? Here's Everything You Need to Know, According to Experts\n\t\n\n\n\t\t\t\n\n    \n      \n      \n    \n\n\t\t\n\t\t\t",
-      "url": "https://www.goodhousekeeping.com/cooking-tools/cookware-reviews/a17426/nonstick-cookware-safety-facts/?utm_source=kcci&utm_medium=referral&utm_campaign=htv-kcci-feed"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/fda-limiting-johnson-and-johnson-covid-19-vaccine-due-to-blood-clot-risk/39919379"
-    },
-    {
-      "text": "\n\t\t\tFDA limiting use of Johnson & Johnson COVID-19 vaccine due to blood clot risk\n\t\t",
-      "url": "/article/fda-limiting-johnson-and-johnson-covid-19-vaccine-due-to-blood-clot-risk/39919379"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/karine-jean-pierre-white-house-press-secretary/39918742"
-    },
-    {
-      "text": "\n\t\t\tKarine Jean-Pierre makes history as next White House press secretary\n\t\t",
-      "url": "/article/karine-jean-pierre-white-house-press-secretary/39918742"
-    },
-    {
-      "text": "Nearly 15M deaths associated with COVID-19, World Health Organization says",
-      "url": "/article/nearly-15m-deaths-associated-with-covid-19-world-health-organization-says/39913989"
-    },
-    {
-      "text": "Official: US gave intel before Ukraine sank Russian warship",
-      "url": "/article/official-us-gave-intel-ukraine-sank-russian-warship/39920626"
-    },
-    {
-      "text": "This map shows what the COVID-19 community level is in your area ",
-      "url": "/article/cdc-covid-19-level-map/39272892"
-    },
-    {
-      "text": "Senate to vote next week on protecting abortion rights",
-      "url": "/article/senate-to-vote-on-codifying-abortion-rights-into-federal-law/39917690"
-    },
-    {
-      "text": "What's next in the investigation of the Supreme Court leak?",
-      "url": "/article/what-is-next-investigation-supreme-court-leak/39909498"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/hospital-costs-covid-19-coverage/39920024"
-    },
-    {
-      "text": "\n\t\t\tEven as hospital costs rise, COVID-19 coverage for all dries up\n\t\t",
-      "url": "/article/hospital-costs-covid-19-coverage/39920024"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/iowa-really-scary-covid-19-spikes-on-drake-university-campus/39908011"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tMarcus McIntosh\n\t\t\t\t",
-      "url": "/news-team/95817f52-d4a9-4e6a-b9cf-e6250897d71c"
-    },
-    {
-      "text": "\n\t\t\t'It's really scary': COVID-19 spikes on Drake University campus\n\t\t",
-      "url": "/article/iowa-really-scary-covid-19-spikes-on-drake-university-campus/39908011"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/covid-19-iowa-cases-increase-by-almost-40-since-last-week/39906699"
-    },
-    {
-      "text": "\n\t\t\tCOVID-19 cases increase by almost 40% in Iowa since last week\n\t\t",
-      "url": "/article/covid-19-iowa-cases-increase-by-almost-40-since-last-week/39906699"
-    },
-    {
-      "text": "Pfizer hopes to submit vaccine data for young children by early June",
-      "url": "/article/pfizer-hopes-to-submit-vaccine-data-for-young-children-by-early-june/39895731"
-    },
-    {
-      "text": "Will we need annual COVID-19 shots in the future? Here's what FDA officials say",
-      "url": "/article/will-we-need-annual-covid-19-shots-in-the-future-heres-what-fda-officials-say/39898401"
-    },
-    {
-      "text": "CDC restates recommendation for masks on planes, trains despite recent court ruling",
-      "url": "/article/cdc-restates-recommendation-for-masks-on-public-transit/39895941"
-    },
-    {
-      "text": "New treatment options for people suffering long-term COVID-19 effects ",
-      "url": "/article/new-treatment-options-available-for-long-term-covid-19-effects-in-iowa/39781661"
-    },
-    {
-      "text": "COVID-19 cases up, hospitalizations down in latest report",
-      "url": "/article/iowa-covid-19-cases-up-hospitalizations-down-in-latest-report/39773174"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\tJim Lo Scalzo\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/amber-heard-testimony-day-2/39915637"
-    },
-    {
-      "text": "\n\t\t\tAmber Heard accuses Johnny Depp's entourage of protecting him from consequences of substance abuse\n\t\t",
-      "url": "/article/amber-heard-testimony-day-2/39915637"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/article/amber-heard-testimony-day-2/39915637"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/ms-pac-man-world-video-game-hof/39916058"
-    },
-    {
-      "text": "\n\t\t\tMs. Pac-Man clears path to World Video Game Hall of Fame\n\t\t",
-      "url": "/article/ms-pac-man-world-video-game-hof/39916058"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/post-malone-to-be-a-father/39915547"
-    },
-    {
-      "text": "\n\t\t\tPost Malone says he's going to be a father for the first time \u2014 and he's very excited\n\t\t",
-      "url": "/article/post-malone-to-be-a-father/39915547"
-    },
-    {
-      "text": "15 recipes for a Cinco de Mayo fiesta at home",
-      "url": "/article/mexican-party-menu-recipes/20122901"
-    },
-    {
-      "text": "During first day on the stand, Amber Heard testified that she was assaulted by Johnny Depp",
-      "url": "/article/amber-heard-testimony-day-1/39904072"
-    },
-    {
-      "text": "Dolly Parton, Eminem, Lionel Richie get into the Rock & Roll Hall of Fame",
-      "url": "/article/dolly-parton-eminem-lionel-richie-rock-and-roll-hall-of-fame-2022/39904264"
-    },
-    {
-      "text": "Comedian Dave Chappelle tackled on stage at the Hollywood Bowl",
-      "url": "/article/dave-chappelle-attacked-on-stage/39901492"
-    },
-    {
-      "text": "Celebrate Star Wars Day: May the 4th be with you",
-      "url": "/article/star-wars-day/36324636"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/what-is-amazon-warehouse/39314147"
-    },
-    {
-      "text": "\n\t\t\tWhat is Amazon Warehouse? Everything you need to know about scoring the best deals\n\t\t",
-      "url": "/article/what-is-amazon-warehouse/39314147"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/the-pioneer-woman-outdoor-collection-walmart/39752428"
-    },
-    {
-      "text": "\n\t\t\tHere's a look at the first Pioneer Woman outdoor collection \n\t\t",
-      "url": "/article/the-pioneer-woman-outdoor-collection-walmart/39752428"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\t\t\t\t\t\t",
-      "url": "/article/iowa-december-2021-storm-damage-photos-from-kcci-viewers/38538858"
-    },
-    {
-      "text": "\n\t\t\tIowa storm damage photos from KCCI viewers\n\t\t",
-      "url": "/article/iowa-december-2021-storm-damage-photos-from-kcci-viewers/38538858"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/60-seconds-of-calm-watch-sunrises/27313636"
-    },
-    {
-      "text": "\n\t\t\t60 seconds of calm: Enjoy these sunrises\n\t\t",
-      "url": "/article/60-seconds-of-calm-watch-sunrises/27313636"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "https://woobox.com/7jh9f4"
-    },
-    {
-      "text": "\n\t\t\tWin 2 Fareway Club Tickets\n\t\t",
-      "url": "https://woobox.com/7jh9f4"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/service-legends-oldest-ac-contest-third-party-sponsored-contest/33903560"
-    },
-    {
-      "text": "\n\t\t\tService Legends Oldest AC Contest {Third-party Sponsored Contest}\n\t\t",
-      "url": "/article/service-legends-oldest-ac-contest-third-party-sponsored-contest/33903560"
-    },
-    {
-      "text": "\n                                                    \n                                            ",
-      "url": "https://www.hearst.com/broadcasting"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://www.facebook.com/kcci8"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://twitter.com/KCCINews"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://www.youtube.com/user/kccitv"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/contact"
-    },
-    {
-      "text": "News Team",
-      "url": "/news-team"
-    },
-    {
-      "text": "Apps & Social",
-      "url": "/apps"
-    },
-    {
-      "text": "Email Alerts",
-      "url": "/subscribe"
-    },
-    {
-      "text": "Careers",
-      "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6"
-    },
-    {
-      "text": "Internships",
-      "url": "/article/kcci-8-news-internship/8687330"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://advertise.kcci.com/"
-    },
-    {
-      "text": "Digital Advertising Terms & Conditions",
-      "url": "https://www.hearst.com/newsroom/hearst-television-digital-advertising-terms-conditions"
-    },
-    {
-      "text": "Broadcast Terms & Conditions",
-      "url": "https://www.hearst.com/newsroom/hearst-television-broadcast-terms-conditions"
-    },
-    {
-      "text": "RSS",
-      "url": "/rss"
-    },
-    {
-      "text": "EEO Reports",
-      "url": "/eeo"
-    },
-    {
-      "text": "Captioning Contacts",
-      "url": "/captioning-contacts"
-    },
-    {
-      "text": "Public Inspection File",
-      "url": "https://publicfiles.fcc.gov/tv-profile/KCCI"
-    },
-    {
-      "text": "Public File Assistance",
-      "url": "/contact#public-file-assistance"
-    },
-    {
-      "text": "FCC Applications",
-      "url": "/fccapplication"
-    },
-    {
-      "text": "News Policy Statements",
-      "url": "/article/hearst-television-news-policy-statements/14471973"
-    },
-    {
-      "text": "Privacy Notice",
-      "url": "https://www.hearst.com/newsroom/tv-privacy-notice"
-    },
-    {
-      "text": "Your California Privacy Rights",
-      "url": "https://www.hearst.com/newsroom/tv-privacy-notice#_ADDITIONAL_INFO"
-    },
-    {
-      "text": "Interest-Based Ads",
-      "url": "https://www.hearst.com/newsroom/tv-privacy-notice#_INTEREST_BASED"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://www.hearst.com/newsroom/tv-terms-of-use"
-    },
-    {
-      "text": "Site Map",
-      "url": "/sitemap"
-    }
-  ],
+  "files_count": 159,
+  "item_last_updated": 1651940440,
+  "item_size": 15285042,
   "metadata": {
     "identifier": "kccinews-2022",
     "collection": [
@@ -2306,7 +1698,7 @@
     "addeddate": "2022-03-25 03:36:10"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 1904475665,
+  "uniq": 397016779,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"
