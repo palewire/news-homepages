@@ -49,7 +49,7 @@ repos:
     rev: 'v0.931'  # Use the sha / tag you want to point at
     hooks:
     -   id: mypy
-        exclude: newshomepages/extensions/*
+        exclude: newshomepages/extensions
         additional_dependencies:
           - types-requests
           - types-python-slugify
