@@ -60,11 +60,11 @@ def _shoot(site: typing.Dict, output_dir: str):
             user_agent="News Homepages (http://homepages.news/)",
         )
 
+        # Set the timeout
+        context.set_default_timeout(60 * 1000)
+
         # Create an empty tab
         page = context.new_page()
-
-        # Set the timeout
-        page.set_default_timeout(60 * 1000)
 
         # Set the window size
         page.set_viewport_size(
