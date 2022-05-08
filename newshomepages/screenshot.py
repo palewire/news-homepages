@@ -45,7 +45,7 @@ def bundle(slug: str, output_dir: str):
 
 def _shoot(site: typing.Dict, output_dir: str):
     """Shoot the provided site."""
-    click.echo(f"Screenshotting {site['url']}")
+    click.echo(f"Screenshotting {site['name']}")
 
     # Set the output path
     output_path = Path(output_dir)
@@ -81,6 +81,7 @@ def _shoot(site: typing.Dict, output_dir: str):
         )
 
         # Open the page
+        click.echo(f"Opening {site['url']}")
         page.goto(site["url"])
 
         # Give it a beat
