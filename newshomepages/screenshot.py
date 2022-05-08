@@ -45,7 +45,7 @@ def bundle(slug: str, output_dir: str):
 
 def _shoot(site: typing.Dict, output_dir: str):
     """Shoot the provided site."""
-    click.echo(f"Shooting {site['url']}")
+    click.echo(f"Screenshotting {site['url']}")
 
     # Set the output path
     output_path = Path(output_dir)
@@ -53,6 +53,7 @@ def _shoot(site: typing.Dict, output_dir: str):
 
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
+        click.echo("Launching Chromium browser")
         path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
         context = playwright.chromium.launch_persistent_context(
             "./.chromium",
