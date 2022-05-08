@@ -78,13 +78,16 @@ def _shoot(site: typing.Dict, output_dir: str):
         page.goto(site["url"])
 
         # Give it a beat
-        time.sleep(int(site["wait"] or DEFAULT_WAIT) / 1000)
+        wait = int(site["wait"] or DEFAULT_WAIT) / 1000
+        click.echo(f"Waiting {wait} milliseconds")
+        time.sleep(wait)
 
         # If there's javascript run it
         javascript = utils.get_javascript(site["handle"])
         if javascript:
+            click.echo("Executing javascript")
             try:
-                return page.evaluate(javascript)
+                page.evaluate(javascript)
             except Error as error:
                 raise click.ClickException(error.message)
 
