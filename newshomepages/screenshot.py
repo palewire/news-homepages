@@ -5,6 +5,7 @@ from pathlib import Path
 
 import click
 from playwright.sync_api import Error, sync_playwright
+from xvfbwrapper import Xvfb
 
 from . import utils
 
@@ -27,7 +28,9 @@ def cli():
 def single(handle: str, output_dir: str):
     """Screenshot a single source."""
     site = utils.get_site(handle)
-    _shoot(site, output_dir)
+    with Xvfb() as xvfb:
+        assert xvfb
+        _shoot(site, output_dir)
 
 
 @cli.command()
@@ -35,7 +38,9 @@ def single(handle: str, output_dir: str):
 @click.option("-o", "--output-dir", "output_dir", default="./")
 def bundle(slug: str, output_dir: str):
     """Screenshot a bundle of sources."""
-    [_shoot(site, output_dir) for site in utils.get_sites_in_bundle(slug)]
+    with Xvfb() as xvfb:
+        assert xvfb
+        [_shoot(site, output_dir) for site in utils.get_sites_in_bundle(slug)]
 
 
 def _shoot(site: typing.Dict, output_dir: str):
@@ -79,7 +84,7 @@ def _shoot(site: typing.Dict, output_dir: str):
 
         # Give it a beat
         wait = int(site["wait"] or DEFAULT_WAIT) / 1000
-        click.echo(f"Waiting {wait} milliseconds")
+        click.echo(f"Waiting {wait} seconds")
         time.sleep(wait)
 
         # If there's javascript run it
