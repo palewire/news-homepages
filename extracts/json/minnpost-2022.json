@@ -1,5 +1,5 @@
 {
-  "created": 1651969094,
+  "created": 1652055514,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/17/items/minnpost-2022",
@@ -1528,31 +1528,73 @@
       "sha1": "8c525a712aa04b43883904144e979845b9379942"
     },
     {
+      "name": "minnpost-2022-05-08T10:05:13.309492-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652022317",
+      "size": "33154",
+      "md5": "ec91781cb1394bec54aa10e779572f8a",
+      "crc32": "b6695af1",
+      "sha1": "61fa067d2bd84c9256d50e6eea2621b035ea572a",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-05-08T10:05:13.309492-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652022319",
+      "size": "24088",
+      "md5": "4328f1abb2efe3f84e144c59d302d8a2",
+      "crc32": "45a6aac2",
+      "sha1": "d2d6b1c23d1165673f9a4cdce076e45d703bd4ab",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-05-08T10:05:13.309492-05:00.jpg",
+      "source": "original",
+      "mtime": "1652022315",
+      "size": "361066",
+      "md5": "76fc1f02496127e75abaf916692b3009",
+      "crc32": "4768019f",
+      "sha1": "34413e7f9e7d95991c7b3c999e33003a083772bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-05-08T10:05:13.309492-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-05-08T10:05:13.309492-05:00.jpg",
+      "mtime": "1652022377",
+      "size": "11090",
+      "md5": "a4728a8658438afd0af788b47a1f715a",
+      "crc32": "f790a44c",
+      "sha1": "8a065f041c933ed90c74911893340ed57093d7e0"
+    },
+    {
       "name": "minnpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13245bc98daaaec08e6b171b40d052a063a5e91d",
-      "mtime": "1651935993",
-      "size": "32068",
-      "md5": "03a5ac2d4f1310172da817f4d29b0e09",
-      "crc32": "f733e764",
-      "sha1": "7be28908885888e112f63985d7b63b5a7c932845",
+      "btih": "ec92922e5b14925fe22379059cf72c121cf5a7df",
+      "mtime": "1652022380",
+      "size": "32918",
+      "md5": "d026f38934d93023239ba08b3cba807b",
+      "crc32": "0627b79c",
+      "sha1": "d412f252476ad2a357c4d4c30d91814943613e48",
       "format": "Archive BitTorrent"
     },
     {
       "name": "minnpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f6b4e0b20179c5fa4dd905ff03ce48b",
+      "md5": "5789843a400a97402c397037b72d6b2f",
       "summation": "md5"
     },
     {
       "name": "minnpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651935936",
-      "size": "184320",
-      "md5": "7146f989e58e9bfa4e96dc3356e0a721",
-      "crc32": "07c14253",
-      "sha1": "34fd8e9a3389686d88f916a683cbaff4aec0c66f",
+      "mtime": "1652022329",
+      "size": "192512",
+      "md5": "be6f5c55801ef6c9e13118f1b8bf6f0a",
+      "crc32": "78558e4f",
+      "sha1": "9bfea762f0f2160ab736cacb9d0630f8a92c54e1",
       "format": "Metadata"
     },
     {
@@ -1566,9 +1608,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 149,
-  "item_last_updated": 1651935993,
-  "item_size": 15143402,
+  "files_count": 153,
+  "item_last_updated": 1652022380,
+  "item_size": 15581842,
   "metadata": {
     "identifier": "minnpost-2022",
     "collection": [
@@ -2043,12 +2085,12 @@
       "url": "https://www.minnpost.com/community-voices/2022/05/100-democracy-is-possible-can-minnesota-lead/"
     },
     {
-      "text": "A fight to break free of Moscow\u2019s grip",
-      "url": "https://www.minnpost.com/community-voices/2022/05/a-fight-to-break-free-of-moscows-grip/"
-    },
-    {
       "text": "Protecting Minnesotans after Roe",
       "url": "https://www.minnpost.com/community-voices/2022/05/protecting-minnesotans-after-roe/"
+    },
+    {
+      "text": "A fight to break free of Moscow\u2019s grip",
+      "url": "https://www.minnpost.com/community-voices/2022/05/a-fight-to-break-free-of-moscows-grip/"
     },
     {
       "text": "Environment",
@@ -2327,10 +2369,10 @@
       "url": "mailto:editors@minnpost.com"
     }
   ],
-  "server": "ia801507.us.archive.org",
-  "uniq": 1265752388,
+  "server": "ia601507.us.archive.org",
+  "uniq": 735039873,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }
