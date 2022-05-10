@@ -1,5 +1,5 @@
 {
-  "created": 1652055466,
+  "created": 1652141943,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/27/items/kccinews-2022",
@@ -1682,31 +1682,73 @@
       "sha1": "4707bf263618dbfe319005ddaacc401c1d26ed79"
     },
     {
+      "name": "kccinews-2022-05-09T11:09:12.416550-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652112556",
+      "size": "25844",
+      "md5": "4737499550c934bc65e88280701dce4e",
+      "crc32": "76f64de3",
+      "sha1": "d4872db850b40ed9577de13d84038a3199382400",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-05-09T11:09:12.416550-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652112558",
+      "size": "24455",
+      "md5": "2673e55b9280c2cc87862d63777182ca",
+      "crc32": "7dfd9cb8",
+      "sha1": "0310fed8ef8469c67ea1eb1197243adc90d27102",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-05-09T11:09:12.416550-05:00.jpg",
+      "source": "original",
+      "mtime": "1652112554",
+      "size": "338016",
+      "md5": "3be6d2c1c48499db6aebc6adf500586a",
+      "crc32": "f2a54323",
+      "sha1": "8010aa4027c39251257ce6566cd47c8b35218922",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kccinews-2022-05-09T11:09:12.416550-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kccinews-2022-05-09T11:09:12.416550-05:00.jpg",
+      "mtime": "1652112657",
+      "size": "10782",
+      "md5": "b3f12f97aa9fdd83f21c3fb454a5efc8",
+      "crc32": "da2fd0c6",
+      "sha1": "fffb29e107c1f8177a25f0b7d91ab8c772b07e5a"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d779925ec7975bd6c74206217ed8ceb3f51f4373",
-      "mtime": "1652026258",
-      "size": "34923",
-      "md5": "47d168e2fedf6dabd80462f0c73c13c4",
-      "crc32": "4434ad21",
-      "sha1": "9abe54a414a6c017e168bd90ea68d928a6d58c27",
+      "btih": "3c87839c71ede1d906b8bc600b5ead7c357062c4",
+      "mtime": "1652112665",
+      "size": "35773",
+      "md5": "b3ba26d78a9157a10bfd54be0614b6ff",
+      "crc32": "56de12ad",
+      "sha1": "6ba459bba5a425c770e93a8ef56ed5437ad21dba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56de1eb035e765fdc10295a9bb2fdc22",
+      "md5": "a1753ccc81d0fccff28bd9a9d06a61d3",
       "summation": "md5"
     },
     {
       "name": "kccinews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652026145",
-      "size": "200704",
-      "md5": "6ae7c11fe7367f82c72241c13be98e03",
-      "crc32": "35884b49",
-      "sha1": "1ea9a60e05eec250cf7f6f8151623cc041aef994",
+      "mtime": "1652112566",
+      "size": "204800",
+      "md5": "6a8d9cc9314800663748f7139acad517",
+      "crc32": "8343eadf",
+      "sha1": "995efe4f49993d0612b80d581ff17ec86836a1d4",
       "format": "Metadata"
     },
     {
@@ -1720,16 +1762,16 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 163,
-  "item_last_updated": 1652026258,
-  "item_size": 15639839,
+  "files_count": 167,
+  "item_last_updated": 1652112665,
+  "item_size": 16043882,
   "kccinews-2022": [
     {
       "text": "Skip to content",
       "url": "#"
     },
     {
-      "text": "\n        \n            \n                NOWCAST\n                KCCI News at 6am Sunday Morning\n            \n            \n                \n                    \n                \n\n                \n                                            Watch on Demand\n                                    \n            \n        \n    ",
+      "text": "\n        \n            \n                NOWCAST\n                KCCI News at 6am Weekday Morning\n            \n            \n                \n                    \n                \n\n                \n                                            Watch on Demand\n                                    \n            \n        \n    ",
       "url": "/nowcast"
     },
     {
@@ -1905,43 +1947,35 @@
       "url": "/"
     },
     {
-      "text": "60\u00b0Weather",
+      "text": "75\u00b0Weather",
       "url": "/weather"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tSevere Weather\n\t\t\t\t\t\t\n\t\t\t\t\t\tThere is currently 1 active weather alert\n\t\t\t\t\t",
-      "url": "/alerts"
     },
     {
       "text": "\n\t\t\t\t\tMORE\n\t\t\t\t\t\n\t\t\t\t",
       "url": "/weather"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\tStock\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/three-teens-shot-at-prom-after-party-in-des-moines/39936126"
+      "text": "Sign Up to Get Future Alerts",
+      "url": "https://www.kcci.com/subscribe"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tScott Carpenter\n\t\t\t\t",
-      "url": "/news-team/fff16d0d-1bf1-4f3a-b9fd-380d95bccd7f"
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
+      "url": "/article/ames-iowa-police-say-man-found-dead-with-multiple-gunshot-wounds/39943503"
     },
     {
-      "text": "\n\t\t\tThree teens shot at prom after-party in Des Moines\n\t\t",
-      "url": "/article/three-teens-shot-at-prom-after-party-in-des-moines/39936126"
+      "text": "\n\t\t\tAmes PD: Man found dead with multiple gunshot wounds\n\t\t",
+      "url": "/article/ames-iowa-police-say-man-found-dead-with-multiple-gunshot-wounds/39943503"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/article/three-teens-shot-at-prom-after-party-in-des-moines/39936126"
-    },
-    {
-      "text": "Weather Alerts (1)",
-      "url": "alerts"
+      "url": "/article/ames-iowa-police-say-man-found-dead-with-multiple-gunshot-wounds/39943503"
     },
     {
       "text": "Des Moines, IA 50309",
       "url": "/weather"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t60\n\t\t\t\t\t\t\u00b0\n\t\t\t\t\t\tF\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t75\n\t\t\t\t\t\t\u00b0\n\t\t\t\t\t\tF\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
       "url": "/weather"
     },
     {
@@ -1949,64 +1983,72 @@
       "url": "weather/radar"
     },
     {
-      "text": "\n\t\t\tRainy on Mother's day, summer like heat on the way\n\t\t",
-      "url": "/article/rainy-on-mothers-day-summer-like-heat-on-the-way/39936173"
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tJason Sydejko\n\t\t\t\t",
+      "url": "/news-team/81542672-76ba-422e-8a06-e049c871094e"
     },
     {
-      "text": "Go morel mushroom hunting with KCCI in 1993",
-      "url": "/article/kcci-archive-go-iowa-morel-mushroom-hunting-with-kcci-in-1993/39917891"
+      "text": "\n\t\t\tStrong storms possible as heat wave settles in\n\t\t",
+      "url": "/article/west-des-moines-iowa-weather-forecast-may-9-2022/39942302"
     },
     {
-      "text": "Democratic candidates for U.S. Senate face off in KCCI debate",
-      "url": "/article/des-moines-iowa-democratic-candidates-for-us-senate-face-off-in-kcci-debate/39935004"
+      "text": "Popular Iowa brewery looks to expand into Des Moines",
+      "url": "/article/iowa-brewery-single-speed-looks-to-expand-into-des-moines/39942737"
     },
     {
-      "text": "Sheriff's Office: One person missing after boat capsizes on Lake Red Rock",
-      "url": "/article/marion-county-sheriffs-office-one-person-missing-after-boat-capsizes-on-lake-red-rock-iowa/39934625"
+      "text": "Court decision gives beloved Des Moines restaurant temporary protection",
+      "url": "/article/court-decision-gives-des-moines-iowa-restaurant-temporary-protection/39942463"
     },
     {
-      "text": "Nation's biggest skatepark celebrates first anniversary in Iowa",
-      "url": "/article/des-moines-iowa-laurisden-skatepark-celebrates-first-anniversary-nation-biggest/39934539"
+      "text": "River search resumes for missing Iowa man",
+      "url": "/article/des-moines-river-search-resumes-for-missing-iowa-man-dustin-dittmer/39942961"
     },
     {
-      "text": "Court documents: Des Moines man set apartment complex on fire to get attention ",
-      "url": "/article/court-documents-des-moines-iowa-man-set-apartment-complex-on-fire-to-get-attention/39934864"
+      "text": "Murder trial for man accused of killing Iowa trooper begins Monday",
+      "url": "/article/murder-trial-for-michael-lang-accused-of-killing-iowa-trooper-jim-smith-begins/39942522"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/small-plane-crashed-backyard-houston-all-four-people-on-board-walked-away/39934270"
-    },
-    {
-      "text": "\n\t\t\tA small plane crashed into a backyard in Houston. All four people on board walked away\n\t\t",
-      "url": "/article/small-plane-crashed-backyard-houston-all-four-people-on-board-walked-away/39934270"
-    },
-    {
-      "text": "Deaths of 3 Americans at Sandals resort in the Bahamas are under investigation, officials say",
-      "url": "/article/deaths-of-3-americans-at-sandals-resort-in-the-bahamas-are-under-investigation-officials-say/39933845"
-    },
-    {
-      "text": "Russian shell hits Ukrainian school, dozens feared dead ",
-      "url": "/article/russian-shell-hits-ukrainian-school/39935578"
-    },
-    {
-      "text": "'That shed flew and hit the RV': dramatic video captures tornado hitting marijuana farm",
-      "url": "/article/that-shed-flew-and-hit-the-rv-dramatic-video-captures-tornado-hitting-marijuana-farm/39935164"
-    },
-    {
-      "text": "SpaceX launch produces incredible 'space jellyfish'",
-      "url": "/article/space-jellyfish/39934962"
-    },
-    {
-      "text": "Scam text messages are becoming more common",
-      "url": "/article/scam-text-messages-are-becoming-more-common/39935508"
+      "text": "Neighbors respond to shooting that injured 3 teens",
+      "url": "/article/des-moines-iowa-neighbors-respond-to-shooting-that-injured-3-teens/39937326"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/10-nurses-doctor-at-liberty-hospital-maternity-unit-expecting/39934449"
+      "url": "/article/mario-batali-waives-jury-trial/39943768"
     },
     {
-      "text": "\n\t\t\t10 nurses, doctor at maternity unit are pregnant at same time\n\t\t",
-      "url": "/article/10-nurses-doctor-at-liberty-hospital-maternity-unit-expecting/39934449"
+      "text": "\n\t\t\tLIVE: Celebrity chef Mario Batali waives jury trial in sexual misconduct case\n\t\t",
+      "url": "/article/mario-batali-waives-jury-trial/39943768"
+    },
+    {
+      "text": "How long will inflation last? The answer lies in the past",
+      "url": "/article/how-long-inflation-last-answer-lies-past/39938789"
+    },
+    {
+      "text": "Trial to start for driver who ran down Times Square tourists",
+      "url": "/article/trial-to-start-for-driver-times-square-tourists/39939395"
+    },
+    {
+      "text": "How a small baseball team became a TikTok sensation",
+      "url": "/article/meet-the-savannah-bananas-tiktok-s-favorite-baseball-team/39935989"
+    },
+    {
+      "text": "Famous cow with 2 noses, named Lucy, celebrates her 15th birthday",
+      "url": "/article/cow-2-noses-celebrates-15th/39940643"
+    },
+    {
+      "text": "Average US gasoline price jumps 15 cents to $4.38 per gallon",
+      "url": "/article/average-us-gasoline-price-jumps-15-cents-to-4-38-per-gallon/39936884"
+    },
+    {
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
+      "url": "/article/jefferson-iowa-high-school-artist-recreates-treasure-lost-in-tornado/39938059"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tAndrew Mollenbeck\n\t\t\t\t",
+      "url": "/news-team/72835fd5-127e-44da-89bd-f59d48cce257"
+    },
+    {
+      "text": "\n\t\t\tIowa High school artist recreates treasure lost in tornado\n\t\t",
+      "url": "/article/jefferson-iowa-high-school-artist-recreates-treasure-lost-in-tornado/39938059"
     },
     {
       "text": "\n\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\t",
@@ -2026,19 +2068,19 @@
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/pura-smart-home-fragrance-device-review/39908581"
+      "url": "/article/memorial-day-mattress-sales-2022/39945301"
     },
     {
-      "text": "\n\t\t\tThis smart home fragrance device effortlessly scents your space on your schedule\n\t\t",
-      "url": "/article/pura-smart-home-fragrance-device-review/39908581"
+      "text": "\n\t\t\tThe best Memorial Day mattress sales of 2022 you can shop now\n\t\t",
+      "url": "/article/memorial-day-mattress-sales-2022/39945301"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/wow-goodwill-find-in-texas-turns-out-to-be-ancient-roman-bust/39928105"
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
+      "url": "/article/forget-that-pumpkin-spice-flavored-latte-that-is-not-pumpkin-these-foods-are-1/34405529"
     },
     {
-      "text": "\n\t\t\tWow! Goodwill find in Texas turns out to be ancient Roman bust\n\t\t",
-      "url": "/article/wow-goodwill-find-in-texas-turns-out-to-be-ancient-roman-bust/39928105"
+      "text": "\n\t\t\tForget that pumpkin spice flavored latte. That is not pumpkin. These foods are\n\t\t",
+      "url": "/article/forget-that-pumpkin-spice-flavored-latte-that-is-not-pumpkin-these-foods-are-1/34405529"
     },
     {
       "text": "\n\n\t\t\t\t\t\t\tMedicap Pharmacy Urbandale - Going Green with Solar\n\t\t\t\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\t\t\t\t\t\t    \t\t\t\t\t\t",
@@ -2049,20 +2091,20 @@
       "url": "/article/north-iowa-continues-to-build-on-it-s-uniqueness/34241702"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tThese are the videos you're going to want to watch from the 2022 Kentucky Derby\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/videos-kentucky-derby-2022/39933889"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t'I just can't get that out of my soul': Korean War Navy vet searching for lost love he left in Japan\n\t\n\n\n\t\t\t\n\n          \n                  KETV\n              \n    \n              \n                      1 HR\n                  \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/korean-war-vet-searching-lost-love-japan/39943696"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tThe TikTok-famous AirFly bluetooth adapter will come in handy on your next long flight\n\t\n\n\n\t\t\t\n\n          \n                  BEST PRODUCTS\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/airfly-bluetooth-headphone-adapter/39929027"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tThis smart home fragrance device effortlessly scents your space on your schedule\n\t\n\n\n\t\t\t\n\n          \n                  BEST PRODUCTS\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/pura-smart-home-fragrance-device-review/39908581"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tSweet moments: Watch as these couples get engaged at Churchill Downs ahead of Kentucky Derby\n\t\n\n\n\t\t\t\n\n          \n                  WLKY\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/couples-engaged-kentucky-oaks-louisville-churchill-downs/39932369"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tCancer survivor reunites with his former nurse as he's on track to graduate nursing school\n\t\n\n\n\t\t\t\n\n          \n                  WESH\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/cancer-survivor-ucf-nursing/39937584"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tPolice recognize man for helping toddler he found wandering alone\n\t\n\n\n\t\t\t\n\n          \n                  WLWT\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/cincinnati-police-recognize-man-toddler-wandering-alone/39934806"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tScam text messages are becoming more common\n\t\n\n\n\t\t\t\n\n          \n                  WGAL\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/scam-text-messages-are-becoming-more-common/39935508"
     },
     {
       "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tWhat the floods of 1993 taught Iowans about flooding\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
@@ -2098,47 +2140,47 @@
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/alabama-inmate-former-corrections-officer-have-left-few-clues-for-investigators-on-their-trail/39935443"
+      "url": "/article/its-finally-time-to-start-spring-planting/39941785"
     },
     {
-      "text": "\n\t\t\t\ufeffAlabama inmate, former corrections officer have left few clues for investigators on their trail\n\t\t",
-      "url": "/article/alabama-inmate-former-corrections-officer-have-left-few-clues-for-investigators-on-their-trail/39935443"
+      "text": "\n\t\t\tIt's finally time to start spring planting\n\t\t",
+      "url": "/article/its-finally-time-to-start-spring-planting/39941785"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
+      "url": "/article/us-announces-sanctions-against-kremlin-controlled-media-companies/39936802"
+    },
+    {
+      "text": "\n\t\t\tUS announces sanctions against Kremlin-controlled media companies\n\t\t",
+      "url": "/article/us-announces-sanctions-against-kremlin-controlled-media-companies/39936802"
+    },
+    {
+      "text": "Coral reefs provide stunning images of a world under assault",
+      "url": "/article/coral-reefs-stunning-images-world-under-assault/39939641"
+    },
+    {
+      "text": "Kids and COVID-19: New breakthroughs, hurdles to overcome",
+      "url": "/article/kids-covid-19-new-breakthroughs-overcome/39938337"
+    },
+    {
+      "text": "Spring cleaning tips to help improve your sleep",
+      "url": "/article/spring-cleaning-tips-improve-sleep/39938220"
+    },
+    {
+      "text": "Jill Biden pays surprise visit to Ukraine, meets first lady ",
       "url": "/article/jill-biden-visit-to-ukraine-meets-first-lady/39936194"
-    },
-    {
-      "text": "\n\t\t\tJill Biden pays surprise visit to Ukraine, meets first lady \n\t\t",
-      "url": "/article/jill-biden-visit-to-ukraine-meets-first-lady/39936194"
-    },
-    {
-      "text": "With a rise in COVID-19 cases, what precautions should you take?",
-      "url": "/article/with-rise-in-coronavirus-cases-what-precautions-should-you-take/39935349"
-    },
-    {
-      "text": "Mickey Gilley, who helped inspire 'Urban Cowboy,' dies at 86",
-      "url": "/article/mickey-gilley-who-helped-inspire-urban-cowboy-dies/39935121"
-    },
-    {
-      "text": "Life-changing assault sends teenager on awareness mission",
-      "url": "/article/life-changing-assault-sends-teenager-on-awareness-mission/39934986"
     },
     {
       "text": "Taliban decree orders women in Afghanistan to cover their faces",
       "url": "/article/taliban-orders-women-in-afghanistan-to-cover-their-faces/39934634"
     },
     {
-      "text": "Jill Biden hears heartbreak of Ukrainian moms now in Romania",
-      "url": "/article/jill-biden-hears-heartbreak-of-ukrainian-moms-now-in-romania/39933320"
-    },
-    {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/coronavirus-wave-this-fall-and-winter-could-potentially-infect-100-million/39934234"
+      "url": "/article/with-rise-in-coronavirus-cases-what-precautions-should-you-take/39935349"
     },
     {
-      "text": "\n\t\t\tCoronavirus wave this fall and winter could potentially infect 100 million, White House warns\n\t\t",
-      "url": "/article/coronavirus-wave-this-fall-and-winter-could-potentially-infect-100-million/39934234"
+      "text": "\n\t\t\tWith a rise in COVID-19 cases, what precautions should you take?\n\t\t",
+      "url": "/article/with-rise-in-coronavirus-cases-what-precautions-should-you-take/39935349"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
@@ -2161,16 +2203,16 @@
       "url": "/article/covid-19-iowa-cases-increase-by-almost-40-since-last-week/39906699"
     },
     {
+      "text": "Coronavirus wave this fall and winter could potentially infect 100 million, White House warns",
+      "url": "/article/coronavirus-wave-this-fall-and-winter-could-potentially-infect-100-million/39934234"
+    },
+    {
       "text": "This map shows what the COVID-19 community level is in your area ",
       "url": "/article/cdc-covid-19-level-map/39272892"
     },
     {
       "text": "Even as hospital costs rise, COVID-19 coverage for all dries up",
       "url": "/article/hospital-costs-covid-19-coverage/39920024"
-    },
-    {
-      "text": "FDA limiting use of Johnson & Johnson COVID-19 vaccine due to blood clot risk",
-      "url": "/article/fda-limiting-johnson-and-johnson-covid-19-vaccine-due-to-blood-clot-risk/39919379"
     },
     {
       "text": "New treatment options for people suffering long-term COVID-19 effects ",
@@ -2181,27 +2223,43 @@
       "url": "/article/iowa-covid-19-cases-up-hospitalizations-down-in-latest-report/39773174"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\tFrom Hot Wheels\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/hot-wheels-launches-first-remote-controlled-wheelchair-toy-in-partnership-with-paralympian/39933350"
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\tPolk & Co. via AP, from left, Boneau/Bryan Brown via AP, O & M Co./DKC via AP\n\t\t\n\n\n\t\t\t\t\t\t",
+      "url": "/article/tony-award-nominations-2022/39944442"
     },
     {
-      "text": "\n\t\t\tHot Wheels launches first remote-controlled wheelchair toy in partnership with Paralympian\n\t\t",
-      "url": "/article/hot-wheels-launches-first-remote-controlled-wheelchair-toy-in-partnership-with-paralympian/39933350"
+      "text": "\n\t\t\t'A Strange Loop' earns a leading 11 Tony Award nominations\n\t\t",
+      "url": "/article/tony-award-nominations-2022/39944442"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/national-recording-archive-announces-2022-recordings-saved-some-may-surprise-you/39932870"
-    },
-    {
-      "text": "\n\t\t\tNational Recording Archive announces 2022 list of recordings saved. Some may surprise you\n\t\t",
-      "url": "/article/national-recording-archive-announces-2022-recordings-saved-some-may-surprise-you/39932870"
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+      "url": "/article/tony-award-nominations-2022/39944442"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/guardians-of-the-galaxy-rollercoaster/39932256"
+      "url": "/article/doctor-strange-2-biggest-opening-2022/39936676"
     },
     {
-      "text": "\n\t\t\tFIRST LOOK: Take a ride on the new Guardians of the Galaxy rollercoaster \n\t\t",
+      "text": "\n\t\t\t'Doctor Strange 2' conjures up biggest opening of 2022\n\t\t",
+      "url": "/article/doctor-strange-2-biggest-opening-2022/39936676"
+    },
+    {
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
+      "url": "/article/fred-savage-dropped-from-the-wonder-years/39937221"
+    },
+    {
+      "text": "\n\t\t\tFred Savage dropped from 'The Wonder Years' amid allegations of inappropriate conduct\n\t\t",
+      "url": "/article/fred-savage-dropped-from-the-wonder-years/39937221"
+    },
+    {
+      "text": "Hot Wheels launches first remote-controlled wheelchair toy in partnership with Paralympian",
+      "url": "/article/hot-wheels-launches-first-remote-controlled-wheelchair-toy-in-partnership-with-paralympian/39933350"
+    },
+    {
+      "text": "National Recording Archive announces 2022 list of recordings saved. Some may surprise you",
+      "url": "/article/national-recording-archive-announces-2022-recordings-saved-some-may-surprise-you/39932870"
+    },
+    {
+      "text": "FIRST LOOK: Take a ride on the new Guardians of the Galaxy rollercoaster ",
       "url": "/article/guardians-of-the-galaxy-rollercoaster/39932256"
     },
     {
@@ -2211,18 +2269,6 @@
     {
       "text": "Amber Heard testimony: Johnny Depp's team protected him from consequences of substance abuse",
       "url": "/article/amber-heard-testimony-day-2/39915637"
-    },
-    {
-      "text": "Zeus, a Great Dane from Texas, is the world's tallest dog",
-      "url": "/article/zeus-a-great-dane-from-texas-is-the-world-s-tallest-dog/39926727"
-    },
-    {
-      "text": "Ms. Pac-Man clears path to World Video Game Hall of Fame",
-      "url": "/article/ms-pac-man-world-video-game-hof/39916058"
-    },
-    {
-      "text": "Post Malone says he's going to be a father for the first time \u2014 and he's very excited",
-      "url": "/article/post-malone-to-be-a-father/39915547"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
@@ -2389,10 +2435,10 @@
     "publicdate": "2022-03-25 03:36:10",
     "addeddate": "2022-03-25 03:36:10"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 2146948009,
+  "server": "ia802501.us.archive.org",
+  "uniq": 285388047,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }
