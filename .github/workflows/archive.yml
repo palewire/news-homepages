@@ -17,7 +17,7 @@ jobs:
   jpg:
     name: JPG
     runs-on: windows-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     needs: sources
     strategy:
       matrix:
