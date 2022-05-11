@@ -1,5 +1,5 @@
 {
-  "created": 1652128808,
+  "created": 1652228231,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/18/items/france24_en-2022",
@@ -1318,31 +1318,73 @@
       "sha1": "f4f1720c0e014f8d32064067f123c945ff4fdae7"
     },
     {
+      "name": "france24_en-2022-05-10T14:08:30.388216+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652184515",
+      "size": "22910",
+      "md5": "91a357a11a535ec5905e31c459bda813",
+      "crc32": "3f6f74af",
+      "sha1": "9bae73a5938d822d1e443c4e26fbe4c6988f973d",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-05-10T14:08:30.388216+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652184517",
+      "size": "34947",
+      "md5": "c2488f08c47388e4e8d0730349f25020",
+      "crc32": "4a4ee144",
+      "sha1": "c80f7b978ed1c48cf3f42749ec136f4ae8d3f6ad",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-05-10T14:08:30.388216+02:00.jpg",
+      "source": "original",
+      "mtime": "1652184512",
+      "size": "261777",
+      "md5": "30502774c7f9fe201d8cbda1db1049fe",
+      "crc32": "895876bc",
+      "sha1": "c8dd403f51a31cd9faf32709084a9f5748a2e18c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24_en-2022-05-10T14:08:30.388216+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24_en-2022-05-10T14:08:30.388216+02:00.jpg",
+      "mtime": "1652184584",
+      "size": "9845",
+      "md5": "c09698e5b55e144fa6ded8d90eb7e92d",
+      "crc32": "a3b27d81",
+      "sha1": "2e596bde1fafd71c2f0009ae4119479d9023ff90"
+    },
+    {
       "name": "france24_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4c75bbbb98992ca6b3a91a0842ffbaf0963a7498",
-      "mtime": "1652098219",
-      "size": "28106",
-      "md5": "46eb099e54002ba50f7bdff2be90f57a",
-      "crc32": "3a1f06d8",
-      "sha1": "b983c9c7b0777334a100f1383e5f15968f9fb5ea",
+      "btih": "c57d5e19991186034462a9af83d0f429cbe3e43d",
+      "mtime": "1652184594",
+      "size": "28947",
+      "md5": "69c357acbd30541660c98e11c6e4282a",
+      "crc32": "b793d356",
+      "sha1": "5cf5ac73fd517db4e204784d532201abc7ace146",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "64f143b716c5c6f327bd144b69aa3257",
+      "md5": "471de3262f9a6e5da62f559c8f88d8a5",
       "summation": "md5"
     },
     {
       "name": "france24_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652098167",
-      "size": "163840",
-      "md5": "4abb2282e0878eb51bac0b33d282a542",
-      "crc32": "04c4546e",
-      "sha1": "d3b311dc32f47a944e963b2d39b7aab7eec4da01",
+      "mtime": "1652184522",
+      "size": "167936",
+      "md5": "bd53707cf14cdc0e4d2553f790c31cfa",
+      "crc32": "b93c1db5",
+      "sha1": "7938fa5304f04e60dd94fc5bf848ee9424c08543",
       "format": "Metadata"
     },
     {
@@ -1356,9 +1398,663 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 129,
-  "item_last_updated": 1652098219,
-  "item_size": 10131436,
+  "files_count": 133,
+  "france24_en-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#main-content"
+    },
+    {
+      "text": "    France 24 - International breaking news, top stories and headlines\n",
+      "url": "/en/"
+    },
+    {
+      "text": "\n                \n                    \nLive\n                \n            ",
+      "url": "/en/live"
+    },
+    {
+      "text": "Fran\u00e7ais",
+      "url": "/fr/"
+    },
+    {
+      "text": "English",
+      "url": "/en/"
+    },
+    {
+      "text": "Espa\u00f1ol",
+      "url": "/es/"
+    },
+    {
+      "text": "\u0639\u0631\u0628\u064a",
+      "url": "/ar/"
+    },
+    {
+      "text": "Live News",
+      "url": "/en/live-news/"
+    },
+    {
+      "text": "France",
+      "url": "/en/france/"
+    },
+    {
+      "text": "Africa",
+      "url": "/en/africa/"
+    },
+    {
+      "text": "Middle East",
+      "url": "/en/middle-east/"
+    },
+    {
+      "text": "Americas",
+      "url": "/en/americas/"
+    },
+    {
+      "text": "Europe",
+      "url": "/en/europe/"
+    },
+    {
+      "text": "Asia-Pacific",
+      "url": "/en/asia-pacific/"
+    },
+    {
+      "text": "Business / Tech",
+      "url": "/en/business-tech/"
+    },
+    {
+      "text": "Sport",
+      "url": "/en/sport/"
+    },
+    {
+      "text": "Culture",
+      "url": "/en/culture/"
+    },
+    {
+      "text": "Infographics",
+      "url": "/en/webdocumentaries/"
+    },
+    {
+      "text": "Travel",
+      "url": "/en/travel"
+    },
+    {
+      "text": "Fight the Fake",
+      "url": "/en/fight-the-fake"
+    },
+    {
+      "text": "France 24 live",
+      "url": "/en/live"
+    },
+    {
+      "text": "See all shows",
+      "url": "/en/tv-shows/"
+    },
+    {
+      "text": "News",
+      "url": "/en/vod/latest-news"
+    },
+    {
+      "text": "Accessibility",
+      "url": "/en/closed-caption-news"
+    },
+    {
+      "text": "TV guide",
+      "url": "/en/tv-guide"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/FBen"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/TWen"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/IGen"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/YTen"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/DMen"
+    },
+    {
+      "text": "\n",
+      "url": "https://f24.my/SC"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://emailing.france24.com/en/subscribe"
+    },
+    {
+      "text": "Watch France 24 on TV",
+      "url": "/en/how-to-watch-on-tv"
+    },
+    {
+      "text": "Apps",
+      "url": "/en/applications"
+    },
+    {
+      "text": "RSS feeds",
+      "url": "/en/rss-feeds"
+    },
+    {
+      "text": "Who are we?",
+      "url": "/en/about-us"
+    },
+    {
+      "text": "Press room",
+      "url": "/en/tag/press-release/"
+    },
+    {
+      "text": "Contact France 24",
+      "url": "https://www.francemediasmonde.com/en/contact?brand=f24"
+    },
+    {
+      "text": "Advertising",
+      "url": "https://www.francetvpub-international.com/media/france-24/"
+    },
+    {
+      "text": "Buy content",
+      "url": "https://www.francemediasmonde.com/en/contact?brand=f24&topic=vente_contenu"
+    },
+    {
+      "text": "Join us",
+      "url": "https://fmm.io/jobs"
+    },
+    {
+      "text": "Legal notice",
+      "url": "https://www.francemediasmonde.com/en/legal-notice"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.francemediasmonde.com/en/privacy"
+    },
+    {
+      "text": "Cookies",
+      "url": "https://www.francemediasmonde.com/en/cookies"
+    },
+    {
+      "text": "Preference Center",
+      "url": "#"
+    },
+    {
+      "text": "Manage news alerts",
+      "url": "https://www.france24.com/en/news-alerts-settings"
+    },
+    {
+      "text": "The Observers",
+      "url": "https://observers.france24.com/en/"
+    },
+    {
+      "text": "RFI",
+      "url": "https://www.rfi.fr/en/"
+    },
+    {
+      "text": "Learn French",
+      "url": "https://savoirs.rfi.fr/en"
+    },
+    {
+      "text": "RFI Music",
+      "url": "https://musique.rfi.fr/"
+    },
+    {
+      "text": "RFI Instrumental",
+      "url": "https://www.rfi-instrumental.com/en"
+    },
+    {
+      "text": "Mondoblog",
+      "url": "https://mondoblog.org/"
+    },
+    {
+      "text": "MCD",
+      "url": "https://www.mc-doualiya.com/"
+    },
+    {
+      "text": "InfoMigrants",
+      "url": "https://www.infomigrants.net/en/"
+    },
+    {
+      "text": "CFI",
+      "url": "https://www.cfi.fr/en"
+    },
+    {
+      "text": "Acad\u00e9mie",
+      "url": "https://academie.france24-mcd-rfi.com/en/"
+    },
+    {
+      "text": "France M\u00e9dias Monde",
+      "url": "https://www.francemediasmonde.com/en/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rfi.fr/en/"
+    },
+    {
+      "text": "",
+      "url": "https://www.france24.com/en/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mc-doualiya.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.francemediasmonde.com/en/"
+    },
+    {
+      "text": "",
+      "url": "https://www.acpm.fr/Support-Numerique/site/france24-com"
+    },
+    {
+      "text": "\n",
+      "url": "/en/"
+    },
+    {
+      "text": "#War in Ukraine",
+      "url": "https://www.france24.com/en/tag/ukraine/"
+    },
+    {
+      "text": "#2022FrenchElections",
+      "url": "https://www.france24.com/en/tag/french-legislative-elections-2022/"
+    },
+    {
+      "text": "France",
+      "url": "/en/france/"
+    },
+    {
+      "text": "Africa",
+      "url": "/en/africa/"
+    },
+    {
+      "text": "Culture",
+      "url": "/en/culture/"
+    },
+    {
+      "text": "Shows",
+      "url": "/en/tv-shows/latest-shows/"
+    },
+    {
+      "text": "Fight the Fake",
+      "url": "/en/fight-the-fake"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONS 2022Historic coalition marks paradigm shift for French left ahead of June legislative elections\n                                \n        ",
+      "url": "/en/france/20220510-historic-coalition-marks-paradigm-shift-for-french-left-ahead-of-june-legislative-elections"
+    },
+    {
+      "text": "\n            \n                            \n\n                         French Socialists approve 'leftist union' to challenge Macron in legislative elections\n        ",
+      "url": "/en/europe/20220506-french-socialist-party-ratifies-left-coalition-deal-to-challenge-macron-in-parliamentary-elections"
+    },
+    {
+      "text": "\n            \n                            \n\n                         French left strikes deal on broad alliance to take on Macron in parliamentary polls\n        ",
+      "url": "/en/europe/20220504-french-left-agrees-in-principle-on-broad-alliance-to-take-on-macron"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Live updates\nLive: German foreign minister vows 'justice' for Bucha on surprise Ukraine visit\n                            \n        ",
+      "url": "/en/europe/20220510-live-macron-says-would-take-decades-for-ukraine-to-join-eu"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                On The Ground\nIn Ukraine\u2019s Kherson region, civilians flee Russian-held territory on foot\n                            \n        ",
+      "url": "/en/europe/20220510-in-ukraine-s-kherson-region-civilians-flee-russian-held-territory-on-foot"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Standing in for queen, Prince Charles sets out UK government agenda\n                            \n        ",
+      "url": "/en/europe/20220510-watch-live-prince-charles-stands-in-for-queen-at-uk-parliament-opening"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nSri Lanka deploys troops to enforce curfew after day of deadly unrest\n                            \n        ",
+      "url": "/en/asia-pacific/20220510-sri-lanka-deploys-troops-to-enforce-curfew-after-day-of-deadly-unrest"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nFerdinand Marcos Jr wins landslide election victory in the Philippines\n                            \n        ",
+      "url": "/en/asia-pacific/20220509-ferdinand-marcos-jr-wins-landslide-election-victory-in-the-philippines"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Warhol's iconic 'Marilyn' portrait sells for record $195 million\n                            \n        ",
+      "url": "/en/americas/20220510-warhol-s-marilyn-portrait-sold-for-195-million-a-record-for-american-art"
+    },
+    {
+      "text": "\n        \nSri Lanka gives emergency powers to military and police following PM resignation\n        \n    ",
+      "url": "/en/video/20220510-sri-lanka-gives-emergency-powers-to-military-and-police-following-pm-resignation"
+    },
+    {
+      "text": "\n        Ex-England batsman Graham Thorpe 'seriously ill' in hospital\n        \n    ",
+      "url": "/en/live-news/20220510-ex-england-batsman-graham-thorpe-seriously-ill-in-hospital"
+    },
+    {
+      "text": "\n        \nReplay: Britain's Parliament opens new year-long session\n        \n    ",
+      "url": "/en/video/20220510-replay-britain-s-parliament-opens-new-year-long-session"
+    },
+    {
+      "text": "\n        \nBiden signs $40B \"lend-lease\" aid bill for Ukraine\n        \n    ",
+      "url": "/en/video/20220510-biden-signs-40b-lend-lease-aid-bill-for-ukraine"
+    },
+    {
+      "text": "\n        \nUkraine's Odesa douses fires after Russian Victory Day strikes\n        \n    ",
+      "url": "/en/video/20220510-ukraine-s-odesa-douses-fires-after-russian-victory-day-strikes"
+    },
+    {
+      "text": "\n        Historic coalition marks paradigm shift for French left ahead of June legislative elections\n        \n    ",
+      "url": "/en/france/20220510-historic-coalition-marks-paradigm-shift-for-french-left-ahead-of-june-legislative-elections"
+    },
+    {
+      "text": "\n                    Read the latest live news \n\n                ",
+      "url": "/en/live-news/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONS 2022\nFrench Socialists approve 'leftist union' to challenge Macron in legislative elections\n                                \n        ",
+      "url": "/en/europe/20220506-french-socialist-party-ratifies-left-coalition-deal-to-challenge-macron-in-parliamentary-elections"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONLe Pen, M\u00e9lenchon want \u2018third round\u2019 win \u2013 but Macron favoured to win parliamentary majority\n                            \n        ",
+      "url": "/en/france/20220426-le-pen-m%C3%A9lenchon-want-third-round-win-%E2%80%93-but-macron-favoured-to-win-parliamentary-majority"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONHow France\u2019s parliamentary elections play a crucial role in party funding\n                            \n        ",
+      "url": "/en/france/20220427-how-france-s-parliamentary-elections-play-a-crucial-role-in-party-funding"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONFrance\u2019s conservatives torn over Macron\u2019s \u2018siren call\u2019 before parliamentary polls\n                            \n        ",
+      "url": "/en/france/20220503-france-s-conservatives-torn-over-macron-s-siren-call-before-parliamentary-polls"
+    },
+    {
+      "text": "\n                    More about the French legislative elections \n\n                ",
+      "url": "https://www.france24.com/en/tag/french-legislative-elections-2022/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Who is South Korea's new president Yoon Suk-yeol?\n                            \n        ",
+      "url": "/en/asia-pacific/20220510-who-is-south-korea-s-new-president-yoon-suk-yeol"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Former Haitian senator extradited to US over assassination of President Moise\n                            \n        ",
+      "url": "/en/americas/20220509-former-haitian-senator-extradited-to-us-over-assassination-of-president-moise"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                AS IT HAPPENED\nMacron says would take 'decades' for Ukraine to join EU\n                            \n        ",
+      "url": "/en/europe/20220509-live-russia-readies-for-ww2-victory-parade-as-ukraine-decries-school-bombing"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Several dead in Colombia revenge attacks after drug lord is extradited to US\n                            \n        ",
+      "url": "/en/americas/20220510-eight-dead-in-revenge-attacks-in-colombia-after-drug-lord-is-extradited-to-us"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Dozens dead in Ecuador prison riot, more than 100 inmates escape\n                            \n        ",
+      "url": "/en/americas/20220509-dozens-dead-in-ecuador-prison-riot-more-than-100-inmates-escape"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                WAR IN UKRAINEHow \u2018Babushka Z\u2019 became the unlikely icon of Russian propaganda\n                                \n        ",
+      "url": "/en/europe/20220506-how-babushka-z-became-the-unlikely-icon-of-russian-propaganda"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nModi, Macron put Ukraine rift aside to take Indo-French ties to next level\n                            \n        ",
+      "url": "/en/asia-pacific/20220504-modi-macron-put-ukraine-rift-aside-to-take-indo-french-ties-to-next-level"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Rethinking the EU: The young Europeans reshaping a continent\n                            \n        ",
+      "url": "https://webdoc.france24.com/cofoe-citizens-future-of-europe-france-24-indepth-coverage/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                France: Low growth and inflation increase risk of stagflation\n                            \n        ",
+      "url": "/en/europe/20220501-france-low-growth-and-inflation-increase-risk-of-stagflation"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Clearview AI agrees to limit sales of facial recognition data after ACLU lawsuit\n                            \n        ",
+      "url": "/en/americas/20220510-clearview-ai-settles-suit-agrees-to-limit-sale-of-facial-recognition-database"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                War in Ukraine\nPutin uses anniversary of Europe's WWII victory to justify Ukraine invasion\n                            \n        ",
+      "url": "/en/europe/20220509-putin-uses-anniversary-of-europe-s-wwii-victory-to-justify-ukraine-war"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                French court upholds one-year sentence for ex-PM Fillon in \u2018fake jobs\u2019 scandal\n                            \n        ",
+      "url": "/en/live-news/20220509-former-french-pm-fillon-jailed-on-appeal-over-fake-jobs-scandal-involving-his-wife"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Pulitzer Prizes awarded to Washington Post, New York Times, LA Times\n                            \n        ",
+      "url": "/en/culture/20220509-pulitzer-prize-awarded-to-washington-post-for-us-capitol-siege-coverage"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nSri Lankan PM Mahinda Rajapaksa resigns amid mass protests\n                            \n        ",
+      "url": "/en/asia-pacific/20220509-sri-lankan-pm-mahinda-rajapaksa-resigns-amid-mass-protests"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                LEBANON VOTESOverseas Lebanese vote in key poll with high stakes for crises-hit country\n                            \n        ",
+      "url": "/en/middle-east/20220509-overseas-lebanese-vote-in-key-poll-with-high-stakes-for-crises-hit-country"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Access Asia\nPhilippine presidential election: Marcos clan returns to power\n                                \n        ",
+      "url": "/en/tv-shows/access-asia/20220510-philippine-presidential-election-marcos-clan-returns-to-power"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                The Debate\n\nVictory mania: Why the growing glorification of May 9 in Putin's Russia?\n                            \n        ",
+      "url": "/en/tv-shows/the-debate/20220510-victory-mania-why-the-growing-glorification-of-may-9-in-putin-s-russia"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Perspective\nFrance's national day of the abolition of slavery: 'No reparation has been done'\n                            \n        ",
+      "url": "/en/tv-shows/in-the-press/20220510-france-s-national-day-of-the-abolition-of-slavery-no-reparation-has-been-done"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Business Daily\nMeta Platforms opens first retail store in US\n                            \n        ",
+      "url": "/en/tv-shows/business-daily/20220510-meta-platforms-opens-first-retail-store-in-us"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Reporters\nRwanda: Tackling the challenge of overpopulation\n                            \n        ",
+      "url": "/en/tv-shows/reporters/20220506-rwanda-tackling-the-challenge-of-overpopulation"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                REVISITED\nThe painful legacy of Angola\u2019s civil war\n                            \n        ",
+      "url": "/en/tv-shows/revisited/20220506-the-painful-legacy-of-angola-s-civil-war"
+    },
+    {
+      "text": "\n                    See more shows \n\n                ",
+      "url": "/en/tv-shows/latest-shows/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                G7 countries pledge to stop Russia oil imports\n                            \n        ",
+      "url": "/en/europe/20220508-g7-countries-pledge-to-stop-russia-oil-imports"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ON THE OBSERVERSHow Russian oligarchs are sailing their yachts from Europe to Turkey to avoid sanctions\n                            \n        ",
+      "url": "https://observers.france24.com/en/europe/20220509-yachts-oligarchs-russian-sanctions-open-source-investigation-tracking"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nSon of former dictator Marcos looks set for victory in Philippines presidential election\n                            \n        ",
+      "url": "/en/asia-pacific/20220508-voting-underway-in-philippine-election-that-pits-dictator-s-son-against-rights-lawyer"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                French court to investigate deadly 2009 Yemenia Airways crash\n                            \n        ",
+      "url": "/en/france/20220509-french-court-to-investigate-deadly-2009-yemenia-airways-crash"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Europe dayRethinking the EU: The young Europeans reshaping a continent\n                            \n        ",
+      "url": "https://webdoc.france24.com/cofoe-citizens-future-of-europe-france-24-indepth-coverage/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nUkraine conflict overshadows France's World War II commemorations\n                            \n        ",
+      "url": "/en/france/20220508-ukraine-conflict-overshadows-france-s-second-world-war-commemorations"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Russia\n\u2018I am under threat\u2019: Decades after Putin's war, the anguish of Chechens still hunted by Russia\n                                \n        ",
+      "url": "/en/video/20220506-i-am-under-threat-decades-after-putin-s-war-the-anguish-of-chechens-still-hunted-by-russia"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nEmbedded with the Ukrainian soldiers facing the Russians across no man's land\n                            \n        ",
+      "url": "/en/video/20220505-embedded-with-the-ukrainian-soldiers-facing-the-russians-across-no-man-s-land"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nBolivia: Read a book, get out of jail\n                            \n        ",
+      "url": "/en/video/20220504-bolivia-read-a-book-get-out-of-jail"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n'Our windows have melted': Vast landfill fire still burning as India swelters\n                            \n        ",
+      "url": "/en/video/20220429-our-windows-have-melted-vast-landfill-fire-still-burning-as-india-swelters"
+    },
+    {
+      "text": "\n                    Watch more news videos \n\n                ",
+      "url": "/en/tag/mobile-video/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nDebunking claims that the French president is the head of the EU\n                            \n        ",
+      "url": "/en/tv-shows/fact-or-fake/20220429-debunking-claims-that-the-french-president-is-the-head-of-the-eu"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nPro-EU 'Monsieur Europe' Emmanuel Macron re-elected: Europe reacts\n                            \n        ",
+      "url": "/en/tv-shows/talking-europe/20220429-pro-eu-monsieur-europe-emmanuel-macron-re-elected-europe-reacts"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nRethinking the EU: The young Europeans reshaping a continent\n                            \n        ",
+      "url": "/en/tv-shows/talking-europe/20220411-rethinking-the-eu-the-young-europeans-reshaping-a-continent"
+    },
+    {
+      "text": "\n                    Read more about the French presidency of the EU \n\n                ",
+      "url": "/en/tag/french-presidency-of-the-eu/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                At least 35 killed in attack on DR Congo gold mine: local sources\n                            \n        ",
+      "url": "/en/africa/20220508-at-least-35-killed-in-attack-on-dr-congo-gold-mine-local-sources"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Dozens of migrants drown off Western Sahara, aid agency says\n                            \n        ",
+      "url": "/en/africa/20220508-dozens-of-migrants-drown-off-western-sahara-aid-agency"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Hundreds rally in support of Tunisian President Saied\n                            \n        ",
+      "url": "/en/africa/20220508-hundreds-rally-in-support-of-tunisian-president-saied"
+    },
+    {
+      "text": "\n                    Read more top stories about Africa \n\n                ",
+      "url": "/en/africa/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \nConference on the future of Europe: Macron to address EU Parliament\n                            \n        ",
+      "url": "/en/video/20220509-conference-on-the-future-of-europe-macron-to-address-eu-parliament"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Several killed in Siberia fires as high winds hamper rescue\n                            \n        ",
+      "url": "/en/europe/20220507-some-300-firefighters-battling-deadly-blazes-in-russia-s-siberia"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n\nCan Europe afford to wean itself off Russian gas?\n                            \n        ",
+      "url": "/en/tv-shows/down-to-earth/20220429-russian-gas-turning-the-taps-off"
+    },
+    {
+      "text": "\n                    Read more about the environment \n\n                ",
+      "url": "/en/tag/environment/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                World Press Freedom Day\n                            \n        ",
+      "url": "https://en.unesco.org/commemorations/worldpressfreedomday"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ONDES, Residency program for artists from the French overseas territories\n                            \n        ",
+      "url": "https://www.citedesartsparis.net/en/ondes-residency-program-fall-2022"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                CARTOONING FOR WOMEN\n                            \n        ",
+      "url": "https://www.cartooningforpeace.org/en/evenements/cartooning-for-women-international-womens-day/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                SOLIDARITY FOR UKRAINE\n                            \n        ",
+      "url": "https://www.fondationdefrance.org/en/homepage"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Emersions : a living archive\n                            \n        ",
+      "url": "https://www.citedesartsparis.net/en/exhibition-emersions-a-living-archive-part-1-the-cite-and-europe"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRANCE DUBAI\n                            \n        ",
+      "url": "https://www.francedubai2020.com/en"
+    },
+    {
+      "text": "\n                    Discover all our partners \n\n                ",
+      "url": "/en/partnership"
+    },
+    {
+      "text": "2022",
+      "url": "/en/archives/2022/"
+    },
+    {
+      "text": "2021",
+      "url": "/en/archives/2021/"
+    },
+    {
+      "text": "2020",
+      "url": "/en/archives/2020/"
+    },
+    {
+      "text": "2019",
+      "url": "/en/archives/2019/"
+    },
+    {
+      "text": "2018",
+      "url": "/en/archives/2018/"
+    },
+    {
+      "text": "2017",
+      "url": "/en/archives/2017/"
+    },
+    {
+      "text": "2016",
+      "url": "/en/archives/2016/"
+    },
+    {
+      "text": "2015",
+      "url": "/en/archives/2015/"
+    },
+    {
+      "text": "2014",
+      "url": "/en/archives/2014/"
+    },
+    {
+      "text": "2013",
+      "url": "/en/archives/2013/"
+    },
+    {
+      "text": "2012",
+      "url": "/en/archives/2012/"
+    },
+    {
+      "text": "2011",
+      "url": "/en/archives/2011/"
+    },
+    {
+      "text": "2010",
+      "url": "/en/archives/2010/"
+    },
+    {
+      "text": "2009",
+      "url": "/en/archives/2009/"
+    },
+    {
+      "text": "2008",
+      "url": "/en/archives/2008/"
+    },
+    {
+      "text": "2007",
+      "url": "/en/archives/2007/"
+    },
+    {
+      "text": "2006",
+      "url": "/en/archives/2006/"
+    }
+  ],
+  "item_last_updated": 1652184594,
+  "item_size": 10465852,
   "metadata": {
     "identifier": "france24_en-2022",
     "collection": [
@@ -1376,7 +2072,7 @@
     "addeddate": "2022-04-09 13:40:37"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 879151952,
+  "uniq": 1470182837,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"
