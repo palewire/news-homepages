@@ -16,7 +16,7 @@ jobs:
         echo "::set-output name=matrix::[\"latimes\",]"
   jpg:
     name: JPG
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     timeout-minutes: 5
     needs: sources
     strategy:
