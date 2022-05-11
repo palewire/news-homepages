@@ -12,12 +12,12 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - id: install-extras
-      name: Install Ubuntu codecs and extras
-      run: |
-        sudo apt-get update
-        sudo apt install -y ubuntu-restricted-extras ffmpeg libavcodec-extra xvfb libxcb-dri3-dev
-      shell: bash
+#    - id: install-extras
+#      name: Install Ubuntu codecs and extras
+#      run: |
+#        sudo apt-get update
+#        sudo apt install -y ubuntu-restricted-extras ffmpeg libavcodec-extra xvfb libxcb-dri3-dev
+#      shell: bash
 
     - id: cache-playwright
       name: Cache Playwright browsers
