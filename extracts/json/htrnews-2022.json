@@ -1,5 +1,5 @@
 {
-  "created": 1652314808,
+  "created": 1652397070,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/27/items/htrnews-2022",
@@ -1846,31 +1846,62 @@
       "sha1": "134ff220c88211a3ecee40069b549800c8207c04"
     },
     {
+      "name": "htrnews-2022-05-12T18:07:03.681973-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652396829",
+      "size": "23427",
+      "md5": "a4195a46a45eafe894c06f7f43b93061",
+      "crc32": "e1331af3",
+      "sha1": "1767eb2ae99418996a18bb1083c7ec2be779ea74",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-05-12T18:07:03.681973-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652396831",
+      "size": "42459",
+      "md5": "f099485e01d23d699394225c28c339cc",
+      "crc32": "689dcf72",
+      "sha1": "9697f0f8dea24542751594dfaf9da260d65ed496",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-05-12T18:07:03.681973-05:00.jpg",
+      "source": "original",
+      "mtime": "1652396827",
+      "size": "232095",
+      "md5": "c84390acaf392147861373f6eccb6dc1",
+      "crc32": "66da8ae2",
+      "sha1": "f30958716ef7f3de4aa52119c8c37210398af817",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
       "name": "htrnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "840fe0aa8fde1a7d029e3041447671461eb90d37",
-      "mtime": "1652224245",
-      "size": "38035",
-      "md5": "72e141590b4e841115c58ae90df54962",
-      "crc32": "8cd67233",
-      "sha1": "bbb78d777c353f88e51f4973843928f17096440b",
+      "btih": "712966fcbd81290ee4f985d4244591202daa0fff",
+      "mtime": "1652397055",
+      "size": "38677",
+      "md5": "6d856c4cd01b9bf85d1e2542b143d5d0",
+      "crc32": "76fdfa27",
+      "sha1": "b3220f4426f46e9b4544665af7d52156d28003ca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "htrnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "60f266fab6efac3d56f363f3c9436d15",
+      "md5": "d6384639e4f68b878389a4cff1429340",
       "summation": "md5"
     },
     {
       "name": "htrnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652224160",
-      "size": "217088",
-      "md5": "77590f3ae1ce91bc1bf6bc2f43795e75",
-      "crc32": "d31556af",
-      "sha1": "f11da7e5eeb520e10af650965eb09a284ebe7d3f",
+      "mtime": "1652397008",
+      "size": "221184",
+      "md5": "746d4df9930d98fa918a964bee90b87d",
+      "crc32": "104c0053",
+      "sha1": "93805adcf1dcc2d45950a8a134b4e7693a9382e7",
       "format": "Metadata"
     },
     {
@@ -1884,639 +1915,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "htrnews-2022": [
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.htrnews.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022SPRING&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.htrnews.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022SPRING&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
-    },
-    {
-      "text": "News",
-      "url": "/news/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "Packers",
-      "url": "/packers/"
-    },
-    {
-      "text": "Ideas Lab",
-      "url": "/opinion/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "https://www.htrnews.com/obituaries/"
-    },
-    {
-      "text": "E-Edition",
-      "url": "https://user.htrnews.com/user/enewspaper"
-    },
-    {
-      "text": "Legals",
-      "url": "https://www.htrnews.com/public-notices"
-    },
-    {
-      "text": "",
-      "url": "/search/"
-    },
-    {
-      "text": "",
-      "url": "/weather/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.htrnews.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022SPRING&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
-    },
-    {
-      "text": "",
-      "url": "https://login.htrnews.com/PMAC-GUP/authenticate?success-url=https%3A%2F%2Fwww.htrnews.com%2F&cancel-url=https%3A%2F%2Fwww.htrnews.com%2F"
-    },
-    {
-      "text": " Though COVID remains unpredictable, we appear close to limiting its severity",
-      "url": "/story/news/health/2022/05/09/vaccines-treatments-give-hope-covid-19-pandemics-next-chapter/9587130002/"
-    },
-    {
-      "text": "Gas prices in Milwaukee and Wisconsin reach their highest average price ever",
-      "url": "/story/money/business/2022/05/10/gas-prices-soar-highest-point-ever-u-s-wisconsin-and-milwaukee/9716357002/"
-    },
-    {
-      "text": "8 things to do in Ludington, Michigan, after a cruise on the SS Badger",
-      "url": "/story/life/2022/05/10/what-do-ludington-michigan-after-ss-badger-trip-manitowoc/9611842002/"
-    },
-    {
-      "text": "Is Seymour really the hamburger's birthplace? A streaming series episode investigates that question",
-      "url": "/story/entertainment/2022/05/10/seymour-home-hamburger-find-out-messy-history-show/9677772002/"
-    },
-    {
-      "text": " How an 1849 law could complicate decisions about\u2026",
-      "url": "/story/news/2022/05/10/doctors-say-wisconsin-abortion-laws-lifesaving-exception-vague-if-roe-v-wade-overturned/7402200001/"
-    },
-    {
-      "text": " Police seek suspects as Evers denounces attack on\u2026",
-      "url": "/story/news/crime/2022/05/10/gov-tony-evers-denounces-attack-wisconsin-family-action-offices/9718352002/"
-    },
-    {
-      "text": " Fact check: GOP AG hopeful Toney right that State Crime\u2026",
-      "url": "https://www.politifact.com/factchecks/2022/may/10/eric-toney/state-crime-lab-doing-less-testing-and-generally-t/"
-    },
-    {
-      "text": " Ramthun doubles down on election 'nullification,' says\u2026",
-      "url": "/story/news/politics/elections/2022/05/10/governor-candidate-ramthun-doubles-down-election-nullification/9674137002/"
-    },
-    {
-      "text": " U.S. Senate election updates: Democrats renew ad push\u2026",
-      "url": "/story/news/politics/elections/2022/04/29/wisconsin-united-states-senate-race-2022-updates-candidates-ron-johnson-seat/9571561002/"
-    },
-    {
-      "text": " How an 1849 law could complicate decisions about life-saving abortions in Wisconsin\u00a0",
-      "url": "/story/news/2022/05/10/doctors-say-wisconsin-abortion-laws-lifesaving-exception-vague-if-roe-v-wade-overturned/7402200001/"
-    },
-    {
-      "text": " Police seek suspects as Evers denounces attack on Wisconsin Family Action offices\u00a0",
-      "url": "/story/news/crime/2022/05/10/gov-tony-evers-denounces-attack-wisconsin-family-action-offices/9718352002/"
-    },
-    {
-      "text": " Fact check: GOP AG hopeful Toney right that State Crime Lab testing is lagging in most categories\u00a0",
-      "url": "https://www.politifact.com/factchecks/2022/may/10/eric-toney/state-crime-lab-doing-less-testing-and-generally-t/"
-    },
-    {
-      "text": "More in News",
-      "url": "/news/"
-    },
-    {
-      "text": " How this Valders grad went from unheralded recruit to NFL draft selection\u00a0",
-      "url": "/story/sports/nfl/2022/05/02/valders-graduate-luke-goedeke-sets-sights-tampa-bay-buccaneers-left-guard-spot/9614136002/"
-    },
-    {
-      "text": " Howards Grove's Eden Maranell takes aim at returning to state track meet\u00a0",
-      "url": "/story/sports/high-school/track/2022/05/05/howards-groves-eden-mark-maranell-enjoy-athlete-coach-relationship/9583858002/"
-    },
-    {
-      "text": " Mishicot's softball success builds from strong youth program\u00a0",
-      "url": "/story/sports/high-school/softball/2022/04/28/mishicot-softball-builds-mishicot-diamond-club-youth-program/7409101001/"
-    },
-    {
-      "text": "More in Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": " Gas prices in Milwaukee and Wisconsin reach their highest average price ever\u00a0",
-      "url": "/story/money/business/2022/05/10/gas-prices-soar-highest-point-ever-u-s-wisconsin-and-milwaukee/9716357002/"
-    },
-    {
-      "text": " Four times Wisconsin Zillow listings went viral\u00a0",
-      "url": "/story/money/business/2022/05/06/four-times-wisconsin-zillow-listings-went-viral-gone-wild/9632224002/"
-    },
-    {
-      "text": " Manitowoc, find out who bought and sold property in the city\u00a0",
-      "url": "/story/money/2022/05/06/manitowoc-homes-sold-and-real-estate-transfers-may-6-2022/9621141002/"
-    },
-    {
-      "text": "More in Business",
-      "url": "/business/"
-    },
-    {
-      "text": " Is Seymour really the hamburger's birthplace? A streaming series episode investigates that question\u00a0",
-      "url": "/story/entertainment/2022/05/10/seymour-home-hamburger-find-out-messy-history-show/9677772002/"
-    },
-    {
-      "text": " 'SNL' spoofs Kohler Co. toilets by touting the world's first reclining toilet\u00a0",
-      "url": "/story/entertainment/television/2022/05/09/snl-benedict-cumberbatch-spoof-wisconsins-kohler-co-toilets/9702712002/"
-    },
-    {
-      "text": "Are you ready to sing along with Kenny Chesney? Take our lyrics quiz\u00a0",
-      "url": "/picture-gallery/entertainment/music/2018/04/25/are-you-ready-to-sing-along-with-kenny-chesney-take-our-lyrics-quiz/34218885/"
-    },
-    {
-      "text": "More in Go 920!",
-      "url": "/go-920/"
-    },
-    {
-      "text": " Is Seymour really the hamburger's birthplace? A streaming series episode investigates that question\u00a0",
-      "url": "/story/entertainment/2022/05/10/seymour-home-hamburger-find-out-messy-history-show/9677772002/"
-    },
-    {
-      "text": " Be Wisconsin newsletter offers unique stories from around the Badger state\u00a0",
-      "url": "/story/life/2022/05/05/sign-up-be-wisconsin-newsletter-if-you-like-packers-aaron-rodgers-and-other-things-in-badger-state/9516120002/"
-    },
-    {
-      "text": " 8 things to do in Ludington, Michigan, after a cruise on the SS Badger\u00a0",
-      "url": "/story/life/2022/05/10/what-do-ludington-michigan-after-ss-badger-trip-manitowoc/9611842002/"
-    },
-    {
-      "text": "More in Life",
-      "url": "/life/"
-    },
-    {
-      "text": " Opinion: Overturning Roe v. Wade would be 'disastrous' for Wisconsin\u00a0Jenny Higgins, Laura Jacques, and Taryn Valley\u00a0",
-      "url": "/story/opinion/2022/05/03/overturning-roe-v-wade-would-disastrous-wisconsin/9616822002/"
-    },
-    {
-      "text": " Opinion: Roe v. Wade was mistaken in recognizing right to abortion\u00a0Rick Esenberg\u00a0",
-      "url": "/story/opinion/2022/05/03/roe-v-wade-incorrectly-decided-there-no-right-abortion/9617605002/"
-    },
-    {
-      "text": "Opinion: Wisconsin's August primary is barely three months away. Time to do your elections homework.\u00a0Kristin Brey\u00a0",
-      "url": "/videos/opinion/2022/05/03/opinion-who-you-voting-if-youre-like-many-people-you-dont-know-yet/9631094002/"
-    },
-    {
-      "text": "More in Ideas Lab",
-      "url": "/opinion/"
-    },
-    {
-      "text": "",
-      "url": "/picture-gallery/news/2022/05/09/ten-years-brewing-3-sheeps-brewery-through-years/9704058002/"
-    },
-    {
-      "text": "Enter to Win!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://postcrescent.secondstreetapp.com/Northeast-Wisconsin-Area-High-School-Sports-Awards-VIP-Sweepstakes/?itm_campaign=HSSA%20VIP%20Wisconsin&itm_medium=con&itm_source=secondStreet"
-    },
-    {
-      "text": "Hurry and Enter!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://usatoday.secondstreetapp.com/AIA-IGLOO-and-Beauty-Bundle/?itm_campaign=AIA%20May%202022&itm_medium=con&itm_source=secondStreet"
-    },
-    {
-      "text": "Contests\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "/contests?itm_campaign=Contests&itm_medium=con&itm_source=secondStreet"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "The Insurance Bulletin",
-      "url": "https://theinsurancebulletin.com/article/car-discounts-media?utm_source=taboola&utm_medium=referral&utm_campaignId=11677745&utm_itemId=3031001201&utm_siteId=1010948&clickId=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uoqu3O06bjjLexAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uoqu3O06bjjLexAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uoqu3O06bjjLexAQ"
-    },
-    {
-      "text": "Iowa Drivers: Check if Your Zip Code Qualifies You For an Insurance DiscountWe discovered 7 potential ways anyone can reduce their car insurance premiums. Including no tickets and other violations in the last ...The Insurance Bulletin|",
-      "url": "https://theinsurancebulletin.com/article/car-discounts-media?utm_source=taboola&utm_medium=referral&utm_campaignId=11677745&utm_itemId=3031001201&utm_siteId=1010948&clickId=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uoqu3O06bjjLexAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uoqu3O06bjjLexAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uoqu3O06bjjLexAQ"
-    },
-    {
-      "text": "",
-      "url": "https://theinsurancebulletin.com/article/car-discounts-media?utm_source=taboola&utm_medium=referral&utm_campaignId=11677745&utm_itemId=3031001201&utm_siteId=1010948&clickId=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uoqu3O06bjjLexAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uoqu3O06bjjLexAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uoqu3O06bjjLexAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "New Lincolns | search ads",
-      "url": "https://mysearches.net/index.php?rgid=180857&sub=gannettcompany-heraldtimesreporter#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCjxUIokNnU9KTOg4FR"
-    },
-    {
-      "text": "Lincoln's 2022 Lineup Will Leave You BreathlessNew Lincolns | search ads|",
-      "url": "https://mysearches.net/index.php?rgid=180857&sub=gannettcompany-heraldtimesreporter#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCjxUIokNnU9KTOg4FR"
-    },
-    {
-      "text": "",
-      "url": "https://mysearches.net/index.php?rgid=180857&sub=gannettcompany-heraldtimesreporter#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCjxUIokNnU9KTOg4FR"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "GoldCo",
-      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=gannettcompany-heraldtimesreporter&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1010948&click_id=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC4tlEoj6upsorDt6qnAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC4tlEoj6upsorDt6qnAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC4tlEoj6upsorDt6qnAQ"
-    },
-    {
-      "text": "This Secret IRS Loophole May Change Your LifeGoldCo|",
-      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=gannettcompany-heraldtimesreporter&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1010948&click_id=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC4tlEoj6upsorDt6qnAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC4tlEoj6upsorDt6qnAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC4tlEoj6upsorDt6qnAQ"
-    },
-    {
-      "text": "",
-      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=gannettcompany-heraldtimesreporter&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1010948&click_id=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC4tlEoj6upsorDt6qnAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC4tlEoj6upsorDt6qnAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC4tlEoj6upsorDt6qnAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Blissy",
-      "url": "https://in.blissy.com/reasons-why-you-need-blissy-1?utm_source=taboola&utm_campaign=Desktop_6697327&utm_term=1010948_gannettcompany-heraldtimesreporter&affId=2&c1=taboola&c2=Desktop_6697327&c3=6697327&c5=1010948&nb_platform=taboola&nb_sid=1010948&nb_cid=6697327&nb_ciid=3410925461&nb_device=Desktop&nb_cpc={cpc}&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCylUko1tCjntXjtLoo#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCylUko1tCjntXjtLoo"
-    },
-    {
-      "text": "This Pillowcase Is Quickly Becoming The Must-Have Gift Of 2022People usually want TVs, video games, the latest phones, and must-have electronics. But when waves of consumers started clamoring for our pillowcase, analysts everywhere were scratching their headsBlissy|",
-      "url": "https://in.blissy.com/reasons-why-you-need-blissy-1?utm_source=taboola&utm_campaign=Desktop_6697327&utm_term=1010948_gannettcompany-heraldtimesreporter&affId=2&c1=taboola&c2=Desktop_6697327&c3=6697327&c5=1010948&nb_platform=taboola&nb_sid=1010948&nb_cid=6697327&nb_ciid=3410925461&nb_device=Desktop&nb_cpc={cpc}&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCylUko1tCjntXjtLoo#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCylUko1tCjntXjtLoo"
-    },
-    {
-      "text": "",
-      "url": "https://in.blissy.com/reasons-why-you-need-blissy-1?utm_source=taboola&utm_campaign=Desktop_6697327&utm_term=1010948_gannettcompany-heraldtimesreporter&affId=2&c1=taboola&c2=Desktop_6697327&c3=6697327&c5=1010948&nb_platform=taboola&nb_sid=1010948&nb_cid=6697327&nb_ciid=3410925461&nb_device=Desktop&nb_cpc={cpc}&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCylUko1tCjntXjtLoo#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCylUko1tCjntXjtLoo"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Life Neuropathy",
-      "url": "https://go.lifeneuropathy.com/5cff3a75-d912-4c41-a791-aa9cdfb21e34?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Fighting+Neuropathy%3F+Try+This+Immediately&platform=Desktop&campaign_id=11604201&campaign_item_id=3016607509&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F08b8759388d4c041c83e44113c2d827e.jpeg&timestamp=2022-05-10+23%3A04%3A18&domain=htrnews.com&campaign_name=nerve+911&click_id=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCPglMoutmWkuDArYjuAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCPglMoutmWkuDArYjuAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCPglMoutmWkuDArYjuAQ"
-    },
-    {
-      "text": "Fighting Neuropathy? Try This ImmediatelySurgeon Reveals Simple Method For Fighting NeuropathyLife Neuropathy|",
-      "url": "https://go.lifeneuropathy.com/5cff3a75-d912-4c41-a791-aa9cdfb21e34?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Fighting+Neuropathy%3F+Try+This+Immediately&platform=Desktop&campaign_id=11604201&campaign_item_id=3016607509&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F08b8759388d4c041c83e44113c2d827e.jpeg&timestamp=2022-05-10+23%3A04%3A18&domain=htrnews.com&campaign_name=nerve+911&click_id=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCPglMoutmWkuDArYjuAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCPglMoutmWkuDArYjuAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCPglMoutmWkuDArYjuAQ"
-    },
-    {
-      "text": "",
-      "url": "https://go.lifeneuropathy.com/5cff3a75-d912-4c41-a791-aa9cdfb21e34?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Fighting+Neuropathy%3F+Try+This+Immediately&platform=Desktop&campaign_id=11604201&campaign_item_id=3016607509&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F08b8759388d4c041c83e44113c2d827e.jpeg&timestamp=2022-05-10+23%3A04%3A18&domain=htrnews.com&campaign_name=nerve+911&click_id=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCPglMoutmWkuDArYjuAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCPglMoutmWkuDArYjuAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCPglMoutmWkuDArYjuAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "ZWILLING",
-      "url": "https://www.zwilling.com/us/electrics/coffee/?utm_source=taboola&utm_medium=display&utm_campaign=Zwilling+Enfinigy_+Predictive+Desktop_New+Creative_April_May&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCw_04o39rh9Pu8r9CiAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCw_04o39rh9Pu8r9CiAQ"
-    },
-    {
-      "text": "Not The Same Old GrindZWILLING|",
-      "url": "https://www.zwilling.com/us/electrics/coffee/?utm_source=taboola&utm_medium=display&utm_campaign=Zwilling+Enfinigy_+Predictive+Desktop_New+Creative_April_May&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCw_04o39rh9Pu8r9CiAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCw_04o39rh9Pu8r9CiAQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.zwilling.com/us/electrics/coffee/?utm_source=taboola&utm_medium=display&utm_campaign=Zwilling+Enfinigy_+Predictive+Desktop_New+Creative_April_May&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCw_04o39rh9Pu8r9CiAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCw_04o39rh9Pu8r9CiAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "CarsGenius",
-      "url": "https://carsgenius.com/?view=compact&vw=body&hm=min&cond=used&hl=13&pre=10&post=6&hr=suv&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364029&s1cid=18086292&s1agid=cg-q2-sell-car-dt-hm-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC9oFMoyJL79rqB-aSzAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC9oFMoyJL79rqB-aSzAQ"
-    },
-    {
-      "text": "Dealers Fighting for Used Cars - See What Your Car is WorthSee What Cars Like Yours Are Selling For In Under 60 Seconds On CarsGeniusCarsGenius|",
-      "url": "https://carsgenius.com/?view=compact&vw=body&hm=min&cond=used&hl=13&pre=10&post=6&hr=suv&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364029&s1cid=18086292&s1agid=cg-q2-sell-car-dt-hm-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC9oFMoyJL79rqB-aSzAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC9oFMoyJL79rqB-aSzAQ"
-    },
-    {
-      "text": "",
-      "url": "https://carsgenius.com/?view=compact&vw=body&hm=min&cond=used&hl=13&pre=10&post=6&hr=suv&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364029&s1cid=18086292&s1agid=cg-q2-sell-car-dt-hm-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC9oFMoyJL79rqB-aSzAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC9oFMoyJL79rqB-aSzAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Get Offer",
-      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=9d079ec67c72f58c829af64ccd96c3da&sd=v2_8447c73e9e297f3080498993ef2962d9_e49544a0-c9a0-45d9-85d0-08683061b101-tuct97474f2_1652223858_1652223858_CIi3jgYQhNo9GNGt3YGLMCABKAEw4QE4kaQOQLzIDkjDzdkDUKcFWABgAGi3-820jvr_vzRwAQ&ui=e49544a0-c9a0-45d9-85d0-08683061b101-tuct97474f2&it=text&ii=~~V1~~3704904764105710234~~MedHo9ZyG1MwAAWIk_16c8aCNGCYfvtzzo9M5Ua7owjTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RIaeguCUIUpUqDP0NTbDeiCI0vCWl47S19TFiPKBzcZrfMm-K0unl7a4fCxR-icV7ZO2MigvFkbIkvmmUBJTIAKdzcz3D_IbgJYm8c7Bb7DPY6zhr_uog6GC70OqLAd6RE&pt=home&li=rbox-h2v&sig=9c8704bb54876046629ddba431a8af5b6c592dddadff&redir=https%3A%2F%2Fcarsgenius.com%2F%3Fview%3Dcompact%26vw%3Dbody%26hm%3Dmin%26cond%3Dused%26hl%3D13%26pre%3D10%26post%3D6%26hr%3Dsuv%26hd-mk%3D1%26%7Blpurl%7D%26segment%3Dbuycars2%26s1aid%3D1364029%26s1cid%3D18086292%26s1agid%3Dcg-q2-sell-car-dt-hm-RON%26s1kid%3Dgannettcompany-heraldtimesreporter%26utm_source%3Dtaboola%26tbclid%3DGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC9oFMoyJL79rqB-aSzAQ%23tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC9oFMoyJL79rqB-aSzAQ&vi=1652223858385&p=qool-carsgenius1-sc&r=97&lti=deflated&ppb=CPoD&cpb=EhIyMDIyMDUxMC0yLVJFTEVBU0UY3rfb0wYgnP__________ASoZY2gudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjODAxOTY4gNzkakCRpA5IvMgOUMPN2QNYpwVjCNcWENUfGCNkYwjcChCgEBgWZGMI0gMQ4AYYCGRjCJYUEJ8cGBhkYwjrJBDOMxgdZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
-    },
-    {
-      "text": "ProstaGenix",
-      "url": "https://vol.prostagenix.com/48997c7b-b147-430d-9089-cebc0001b6a4?cake-aff-id=10&utm_campaign=1974321&utm_medium=display&utm_term=gannettcompany-heraldtimesreporter-1010948&utm_content=188907423&platform=Desktop&title=How+To%3A+Boost+Prostate+Health+%28Do+This+Daily%29&image=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3689738d331a3894f8fd78d931942c37.jpg&cake-ad-id=15&utm_source=taboola&utm_medium=referral&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCTk0IogL3KruXuie2fAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCTk0IogL3KruXuie2fAQ"
-    },
-    {
-      "text": "How To: Boost Prostate Health (Do This Daily)ProstaGenix|",
-      "url": "https://vol.prostagenix.com/48997c7b-b147-430d-9089-cebc0001b6a4?cake-aff-id=10&utm_campaign=1974321&utm_medium=display&utm_term=gannettcompany-heraldtimesreporter-1010948&utm_content=188907423&platform=Desktop&title=How+To%3A+Boost+Prostate+Health+%28Do+This+Daily%29&image=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3689738d331a3894f8fd78d931942c37.jpg&cake-ad-id=15&utm_source=taboola&utm_medium=referral&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCTk0IogL3KruXuie2fAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCTk0IogL3KruXuie2fAQ"
-    },
-    {
-      "text": "",
-      "url": "https://vol.prostagenix.com/48997c7b-b147-430d-9089-cebc0001b6a4?cake-aff-id=10&utm_campaign=1974321&utm_medium=display&utm_term=gannettcompany-heraldtimesreporter-1010948&utm_content=188907423&platform=Desktop&title=How+To%3A+Boost+Prostate+Health+%28Do+This+Daily%29&image=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3689738d331a3894f8fd78d931942c37.jpg&cake-ad-id=15&utm_source=taboola&utm_medium=referral&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCTk0IogL3KruXuie2fAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCTk0IogL3KruXuie2fAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "CarsGeniusAdvertisement  ",
-      "url": "https://carsgenius.com?view=compact&hm=min&cond=certified&bdy=suv&hl=9&hr=suv&pre=5&post=5&vw=body&pr-mx=50000&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=13384179&s1agid=cg-q4-certified-suv-dt-hm-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC_oFMok6mFgImovMQl&sort=price_asc#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC_oFMok6mFgImovMQl"
-    },
-    {
-      "text": "Des Moines: Unsold SUVs As Cheap As $8kFind the Best Deals On CarsGenius In Under 60 SecondsCarsGenius|",
-      "url": "https://carsgenius.com?view=compact&hm=min&cond=certified&bdy=suv&hl=9&hr=suv&pre=5&post=5&vw=body&pr-mx=50000&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=13384179&s1agid=cg-q4-certified-suv-dt-hm-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC_oFMok6mFgImovMQl&sort=price_asc#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC_oFMok6mFgImovMQl"
-    },
-    {
-      "text": "",
-      "url": "https://carsgenius.com?view=compact&hm=min&cond=certified&bdy=suv&hl=9&hr=suv&pre=5&post=5&vw=body&pr-mx=50000&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=13384179&s1agid=cg-q4-certified-suv-dt-hm-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC_oFMok6mFgImovMQl&sort=price_asc#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC_oFMok6mFgImovMQl"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
-    },
-    {
-      "text": "Search Now",
-      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=9347d85c203a418d7448820fa581d8d6&sd=v2_8447c73e9e297f3080498993ef2962d9_e49544a0-c9a0-45d9-85d0-08683061b101-tuct97474f2_1652223858_1652223858_CIi3jgYQhNo9GNGt3YGLMCABKAEw4QE4kaQOQLzIDkjDzdkDUKcFWABgAGi3-820jvr_vzRwAQ&ui=e49544a0-c9a0-45d9-85d0-08683061b101-tuct97474f2&it=text&ii=~~V1~~7913582221175624872~~q64CgWCqrubSXnH5dce2ijahM226CXXU7masK5cojMnTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQZ4a6mmx10IQsd2kfeJTLN3WfGxmbeJhJlm5_iMRJ6h-1Z8vaKhNniPX6rih2PgN8Ol84x4GfYwZlIpgZ1O0KTqHHr5g9KW7tdnTR8LvKVS8RdbgwlJdnqyroTPEQNNEn9Hvmkh6I_1qlOnb_tb2MeE&pt=home&li=rbox-h2v&sig=24569eb6976fd063b6177aa0e3bafb2056dff6f9c1cf&redir=https%3A%2F%2Fcarsgenius.com%3Fview%3Dcompact%26hm%3Dmin%26cond%3Dcertified%26bdy%3Dsuv%26hl%3D9%26hr%3Dsuv%26pre%3D5%26post%3D5%26vw%3Dbody%26pr-mx%3D50000%26hd-mk%3D1%26%7Blpurl%7D%26segment%3Dbuycars2%26s1aid%3D1364031%26s1cid%3D13384179%26s1agid%3Dcg-q4-certified-suv-dt-hm-RON%26s1kid%3Dgannettcompany-heraldtimesreporter%26utm_source%3Dtaboola%26tbclid%3DGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC_oFMok6mFgImovMQl%26sort%3Dprice_asc%23tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCC_oFMok6mFgImovMQl&vi=1652223858385&p=qool-carsgenius3-sc&r=75&lti=deflated&ppb=CLMC&cpb=EhIyMDIyMDUxMC0yLVJFTEVBU0UY3rfb0wYgnP__________ASoZY2gudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjODAxOTY4gNzkakCRpA5IvMgOUMPN2QNYpwVjCNcWENUfGCNkYwjcChCgEBgWZGMI0gMQ4AYYCGRjCJYUEJ8cGBhkYwjrJBDOMxgdZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
-    },
-    {
-      "text": "EliteSingles",
-      "url": "https://dating.elitesingles.com/nat54f?utm_source=taboola&utm_medium=referral&CID=US_SEM_1235_4456177_3255143056_0_gannettcompany-heraldtimesreporter#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCDTuUAoxIbWht3J3e2XAQ"
-    },
-    {
-      "text": "This Is Where Educated Singles Meet in IowaEliteSingles|",
-      "url": "https://dating.elitesingles.com/nat54f?utm_source=taboola&utm_medium=referral&CID=US_SEM_1235_4456177_3255143056_0_gannettcompany-heraldtimesreporter#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCDTuUAoxIbWht3J3e2XAQ"
-    },
-    {
-      "text": "",
-      "url": "https://dating.elitesingles.com/nat54f?utm_source=taboola&utm_medium=referral&CID=US_SEM_1235_4456177_3255143056_0_gannettcompany-heraldtimesreporter#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCDTuUAoxIbWht3J3e2XAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
-    },
-    {
-      "text": "SS Badger's first sail to Manitowoc is Thursday. Here's how to join the festivities.",
-      "url": "/story/news/2022/05/09/ss-badger-lake-michigan-car-ferry-first-sail-manitowoc-ludington/9665440002/"
-    },
-    {
-      "text": "Manitowoc to mark Hmong American Day May 14. Here's how you can participate.",
-      "url": "/story/news/local/2022/05/09/manitowoc-hmong-american-day-2022-celebration-set-manitowoc-library/7095968001/"
-    },
-    {
-      "text": "Vote for the high school athlete of the week from May 2-7",
-      "url": "/story/sports/high-school/track/2022/05/10/poll-vote-manitowoc-sheboygan-high-school-athlete-week/9672525002/"
-    },
-    {
-      "text": "Judge finds lame-duck legislation that limited the AG is unconstitutional",
-      "url": "/story/news/politics/2022/05/10/wisconsin-lame-duck-law-legal-settlements-ruled-unconstitutional/9722240002/"
-    },
-    {
-      "text": "Get a six-month Herald Times Reporter subscription for $1",
-      "url": "/story/news/local/2018/02/06/herald-times-reporter-digital-subscription/1087736001/"
-    },
-    {
-      "text": "",
-      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Right-Rail"
-    },
-    {
-      "text": "The Insurance Bulletin",
-      "url": "https://theinsurancebulletin.com/article/car-discounts-media?utm_source=taboola&utm_medium=referral&utm_campaignId=11677745&utm_itemId=3031001201&utm_siteId=1010948&clickId=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ"
-    },
-    {
-      "text": "Iowa Drivers: Check if Your Zip Code Qualifies You For an Insurance DiscountThe Insurance Bulletin|",
-      "url": "https://theinsurancebulletin.com/article/car-discounts-media?utm_source=taboola&utm_medium=referral&utm_campaignId=11677745&utm_itemId=3031001201&utm_siteId=1010948&clickId=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ"
-    },
-    {
-      "text": "",
-      "url": "https://theinsurancebulletin.com/article/car-discounts-media?utm_source=taboola&utm_medium=referral&utm_campaignId=11677745&utm_itemId=3031001201&utm_siteId=1010948&clickId=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ&tblci=GiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ#tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
-    },
-    {
-      "text": "Read More",
-      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=8ad509b7690579e9f04071c92d7f613a&sd=v2_8447c73e9e297f3080498993ef2962d9_e49544a0-c9a0-45d9-85d0-08683061b101-tuct97474f2_1652223858_1652223858_CIi3jgYQhNo9GNGt3YGLMCABKAEw4QE4kaQOQLzIDkjDzdkDUKcFWABgAGi3-820jvr_vzRwAQ&ui=e49544a0-c9a0-45d9-85d0-08683061b101-tuct97474f2&it=text&ii=~~V1~~7943666056692916308~~vffp0_9U14WGSI3u2Sx0UTim8_ICrWG47N6DLU6EK3rTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RLOtKMa280InYUcARqAqbaCe9dafck0-IiHVlKAEWOAbaRjJlV1KvSqlr34tCxkEbaJfsIlx-Mg4WWBZoVdz448jxfAtsj75Zm6PzSBS4yNydvLk_3rifMxcl1xvYRQEr0&pt=home&li=rbox-h2m&sig=054ea434e59ad32ddeafdc0e13aa559e6832de1dc2c4&redir=https%3A%2F%2Ftheinsurancebulletin.com%2Farticle%2Fcar-discounts-media%3Futm_source%3Dtaboola%26utm_medium%3Dreferral%26utm_campaignId%3D11677745%26utm_itemId%3D3031001201%26utm_siteId%3D1010948%26clickId%3DGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ%26tblci%3DGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ%23tblciGiAs8Mmyi1DKSY8ZKfSzSyj8Tp2mZTD6V3CC7pID3VLclCCgq1Uokpb03KTjj-uMAQ&vi=1652223858385&p=venus-theinsurancebulletin-carinsurance&r=83&lti=deflated&ppb=CHA&cpb=EhIyMDIyMDUxMC0yLVJFTEVBU0UY3rfb0wYgnP__________ASoZY2gudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjODAxOTY4gNzkakCRpA5IvMgOUMPN2QNYpwVjCNcWENUfGCNkYwjcChCgEBgWZGMI0gMQ4AYYCGRjCJYUEJ8cGBhkYwjrJBDOMxgdZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
-    },
-    {
-      "text": "Staff Directory",
-      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
-    },
-    {
-      "text": "Careers",
-      "url": "https://www.gannett.com/careers/"
-    },
-    {
-      "text": "Accessibility Support",
-      "url": "https://cm.htrnews.com/accessibility"
-    },
-    {
-      "text": "Site Map",
-      "url": "/sitemap/"
-    },
-    {
-      "text": "Legals",
-      "url": "https://www.htrnews.com/public-notices"
-    },
-    {
-      "text": "Our Ethical Principles",
-      "url": "https://cm.htrnews.com/ethical-conduct"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://cm.htrnews.com/terms"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://cm.htrnews.com/privacy"
-    },
-    {
-      "text": "Your California Privacy Rights / Privacy Policy",
-      "url": "https://cm.htrnews.com/privacy-policy/"
-    },
-    {
-      "text": "About Us",
-      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
-    },
-    {
-      "text": "Support Local Businesses",
-      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=manitowoc"
-    },
-    {
-      "text": "Advertise Your Business",
-      "url": "https://localiq.com/markets/Wisconsin/"
-    },
-    {
-      "text": "Advertising Terms and Conditions",
-      "url": "https://cm.htrnews.com/advertising-terms-conditions"
-    },
-    {
-      "text": "Buy and Sell",
-      "url": "/placead/"
-    },
-    {
-      "text": "Licensing & Reprints",
-      "url": "https://imagn.com/licensing-reprints/"
-    },
-    {
-      "text": "Help Center",
-      "url": "https://help.htrnews.com/"
-    },
-    {
-      "text": "Subscriber Guide",
-      "url": "https://cm.htrnews.com/subscriberguide"
-    },
-    {
-      "text": "My Account",
-      "url": "https://account.htrnews.com/"
-    },
-    {
-      "text": "Feedback",
-      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Footer"
-    },
-    {
-      "text": "Subscribe Today",
-      "url": "https://subscribe.htrnews.com/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://profile.htrnews.com/newsletters/manage"
-    },
-    {
-      "text": "Mobile Apps",
-      "url": "https://www.htrnews.com/subscriberguide/apps/"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/HeraldTimesReporter"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/htrnews"
-    },
-    {
-      "text": "E-Edition",
-      "url": "https://user.htrnews.com/user/enewspaper"
-    },
-    {
-      "text": "Storytellers",
-      "url": "https://www.storytellersproject.com/"
-    },
-    {
-      "text": "Archives",
-      "url": "http://www.tkqlhce.com/click-8144810-11570746?url=http://archives.htrnews.com"
-    },
-    {
-      "text": "RSS Feeds",
-      "url": "http://static.htrnews.com/rss/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://www.htrnews.com/jobs/"
-    },
-    {
-      "text": "Cars",
-      "url": "/cars/"
-    },
-    {
-      "text": "Homes",
-      "url": "http://www.htrnews.com/marketplace/real-estate/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "http://classifieds.htrnews.com"
-    },
-    {
-      "text": "Education",
-      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Manitowoc+Herald+Times+Reporter"
-    },
-    {
-      "text": "Reviewed",
-      "url": "https://www.reviewed.com/"
-    },
-    {
-      "text": "10Best",
-      "url": "https://www.10best.com/"
-    },
-    {
-      "text": "USA TODAY Sports+",
-      "url": "https://www.usatodaysportsplus.com/"
-    },
-    {
-      "text": "Reach Local",
-      "url": "http://www.reachlocal.com/us/en"
-    }
-  ],
-  "item_last_updated": 1652224245,
-  "item_size": 15001839,
+  "files_count": 182,
+  "item_last_updated": 1652397055,
+  "item_size": 15304558,
   "metadata": {
     "identifier": "htrnews-2022",
     "collection": [
@@ -2533,10 +1934,21 @@
     "publicdate": "2022-03-27 23:07:58",
     "addeddate": "2022-03-27 23:07:58"
   },
+  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "uniq": 1117810542,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3262830636,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1221626599,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia902506.us.archive.org"
   ]
 }

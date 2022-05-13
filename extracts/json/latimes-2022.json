@@ -1,5 +1,5 @@
 {
-  "created": 1652314850,
+  "created": 1652401374,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/14/items/latimes-2022",
@@ -7598,31 +7598,157 @@
       "sha1": "118416a6aeef4ed6889dd6a0a02fc71c46a3dc0c"
     },
     {
+      "name": "latimes-2022-05-11T19:18:05.921428-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652321892",
+      "size": "41342",
+      "md5": "a95fc8cd2e7461605dce45512d4d5a2e",
+      "crc32": "a5768af4",
+      "sha1": "55190bf03beaf15c5fe3d9a4c6a62bde61498157",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-05-11T19:18:05.921428-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652321894",
+      "size": "50980",
+      "md5": "376f43cc23ca190816a64bca1b4ac401",
+      "crc32": "ef81bb66",
+      "sha1": "2832467b32a293901b3fa1cb7597195f2dc32f54",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-05-11T19:18:05.921428-07:00.jpg",
+      "source": "original",
+      "mtime": "1652321890",
+      "size": "388699",
+      "md5": "5038823fba783fea0c957fb6a7550535",
+      "crc32": "2580a39e",
+      "sha1": "27bd05d7d145512c3f7472fbb0da9e697e0bb9e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-05-11T19:18:05.921428-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-05-11T19:18:05.921428-07:00.jpg",
+      "mtime": "1652321964",
+      "size": "9104",
+      "md5": "24985f598d46806d998ac9e01502b2f0",
+      "crc32": "a323acf1",
+      "sha1": "0ccf9819022322f72f3cc72a951802ed8253f383"
+    },
+    {
+      "name": "latimes-2022-05-11T20:23:53.262690-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652325839",
+      "size": "40670",
+      "md5": "41cd1c63d0c1aa13747cbf8b9a24e927",
+      "crc32": "3db7ad0d",
+      "sha1": "2aff90a9ae6562122303b8b01e19681965fade61",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-05-11T20:23:53.262690-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652325841",
+      "size": "51262",
+      "md5": "82988a71b02d87cedc422c42498237f4",
+      "crc32": "a2ed238c",
+      "sha1": "17f448c8ac65182f687c9827d4abef9c7762b723",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-05-11T20:23:53.262690-07:00.jpg",
+      "source": "original",
+      "mtime": "1652325836",
+      "size": "390831",
+      "md5": "28c53807fde946a00f12b8715b7fcb64",
+      "crc32": "078a5820",
+      "sha1": "8a4394e3ca454cb8b0dd3119aae17f37395cc0bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-05-11T20:23:53.262690-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-05-11T20:23:53.262690-07:00.jpg",
+      "mtime": "1652325912",
+      "size": "8849",
+      "md5": "3cde690d46649704908f5b8e1a7078e9",
+      "crc32": "3b353078",
+      "sha1": "281e19f1244a15eec977aa0cbeac67782cc71228"
+    },
+    {
+      "name": "latimes-2022-05-12T06:17:29.718752-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652361456",
+      "size": "40507",
+      "md5": "34a40f5621975f6f6b87050ef28ea8cd",
+      "crc32": "03d346b4",
+      "sha1": "4de936955f03d3010da8393a3099e7ebf16b965d",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-05-12T06:17:29.718752-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652361458",
+      "size": "51381",
+      "md5": "6cf3a659765be458d98f6516fe9cc31c",
+      "crc32": "e582c236",
+      "sha1": "86978a546fedcf00b9fd54339d98db3e294a2519",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-05-12T06:17:29.718752-07:00.jpg",
+      "source": "original",
+      "mtime": "1652361454",
+      "size": "431484",
+      "md5": "ac01d2d5fa4ef1c8448d406f994ac1f3",
+      "crc32": "3aadb6de",
+      "sha1": "7185daa63b7ec85319ee727c5bc81696f4117768",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-05-12T06:17:29.718752-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-05-12T06:17:29.718752-07:00.jpg",
+      "mtime": "1652361569",
+      "size": "9128",
+      "md5": "863f476c72732ac405083a8f927ee14a",
+      "crc32": "3930ad56",
+      "sha1": "2d5fca2edc31ca3d30f05e39591fb88d8b600316"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "23042522f5384251b1d7bd2c25563782985f7e81",
-      "mtime": "1652275260",
-      "size": "152853",
-      "md5": "056d80229f6c0f09d9bec88ba18c1789",
-      "crc32": "7ea1939b",
-      "sha1": "8165c93b966821ae47288ebfdacc493fdcaa45f1",
+      "btih": "ba1f2b6888f9605a73359e64cf2ff5e3bb10549e",
+      "mtime": "1652361612",
+      "size": "155388",
+      "md5": "dd37e2a63aafb9baa0e211ff42246c11",
+      "crc32": "abee85c9",
+      "sha1": "b98f06e82a8664e36a4f0aad9e60b04dcadeeaf7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e96fdfd01655d98555be7a64839b1fa",
+      "md5": "90b0323a844cc08c7e815c93bfd3f251",
       "summation": "md5"
     },
     {
       "name": "latimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652275047",
-      "size": "815104",
-      "md5": "9095a6e5cdc6f8012789da99ed90cfda",
-      "crc32": "8a464ff2",
-      "sha1": "3abe4246f8090d61c1df65bfce387059b198cde6",
+      "mtime": "1652361476",
+      "size": "827392",
+      "md5": "c91130d6c6004331d2b18e2f4ae92571",
+      "crc32": "3113549d",
+      "sha1": "fa4f29ef9950b3f08ba347f554839f23b7fa6ab5",
       "format": "Metadata"
     },
     {
@@ -7636,9 +7762,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 724,
-  "item_last_updated": 1652275260,
-  "item_size": 86654718,
+  "files_count": 736,
+  "item_last_updated": 1652361612,
+  "item_size": 88183778,
   "latimes-2022": [
     {
       "text": "Business",
@@ -8149,15 +8275,11 @@
       "url": "#"
     },
     {
-      "text": "U.S. inflation hit 8.3% last month but slows from 40-year high",
-      "url": "https://www.latimes.com/business/story/2022-05-11/us-inflation-8-3-april-slows-from-40-year-high"
-    },
-    {
       "text": "",
       "url": "https://www.latimes.com/"
     },
     {
-      "text": "Weather\n      51\u00b0F",
+      "text": "Weather\n      54\u00b0F",
       "url": "https://www.accuweather.com/en/us/los-angeles/90012/current-weather/347625?lang=en-us&partner=web_latimes_news"
     },
     {
@@ -8189,52 +8311,84 @@
       "url": "https://www.latimes.com/opinion/story/2022-04-27/complete-list-of-los-angeles-times-elections-endorsements-2022"
     },
     {
+      "text": "        ",
+      "url": "https://www.latimes.com/california/story/2022-05-11/firefighters-battle-brush-fire-in-aliso-canyon"
+    },
+    {
+      "text": "Fire destroys at least 20 homes destroyed in Laguna Niguel amid drought conditions",
+      "url": "https://www.latimes.com/california/story/2022-05-11/firefighters-battle-brush-fire-in-aliso-canyon"
+    },
+    {
+      "text": "Evacuations, road closures, shelters ",
+      "url": "https://www.latimes.com/california/story/2022-05-11/coastal-fire-in-laguna-niguel-evacuations-road-closures-shelters"
+    },
+    {
+      "text": "What to pack if you might need to evacuate",
+      "url": "https://www.latimes.com/california/story/2021-09-30/what-to-pack-if-you-might-need-to-evacuate"
+    },
+    {
+      "text": "How to keep the air in your home clean when there\u2019s wildfire smoke outside",
+      "url": "https://www.latimes.com/california/story/2021-08-31/indoor-air-quality-how-to-protect-against-wildfire-smoke"
+    },
+    {
+      "text": "Laguna Niguel residents flee flames and wonder if their homes survived",
+      "url": "https://www.latimes.com/california/story/2022-05-11/laguna-niguel-coastal-fire-residents-evacuate"
+    },
+    {
+      "text": "\u2018I knew those houses were gone\u2019: What it was like as fire ravaged community",
+      "url": "https://www.latimes.com/california/story/2022-05-11/i-knew-those-houses-were-gone-what-it-was-like-as-fire-consumed-laguna-niguel-community"
+    },
+    {
+      "text": "How cold winds, a turbocharged fire and huge homes led to destruction",
+      "url": "https://www.latimes.com/california/story/2022-05-11/cold-winds-turbocharged-fire-destruction-laguna-niguel-coastal-fire"
+    },
+    {
       "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-05-11/glendale-unified-schools-lgbtq-curriculum"
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/ukraine-russia-war-finland-nato"
     },
     {
-      "text": "Glendale third-grade teacher showed gay pride videos. A year later, furious debate erupts ",
-      "url": "https://www.latimes.com/california/story/2022-05-11/glendale-unified-schools-lgbtq-curriculum"
+      "text": "Putin refuses to waver on east Ukraine; Finland\u2019s leaders endorse NATO bid",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/ukraine-russia-war-finland-nato"
     },
     {
-      "text": "Why California law requires teaching about LGBTQ Americans in public schools ",
-      "url": "https://www.latimes.com/california/story/2022-05-11/california-takes-opposite-path-of-florida-texas-on-inclusive-education"
+      "text": "Finland\u2019s leaders advocate NATO membership \u2018without delay\u2019",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/finland-leaders-support-applying-nato-membership"
     },
     {
-      "text": "           ",
-      "url": "https://www.latimes.com/world-nation/story/2022-05-11/ukraine-retakes-territory-east-war-russia"
-    },
-    {
-      "text": "Ukraine retakes territory in the east amid more Russian attacks",
-      "url": "https://www.latimes.com/world-nation/story/2022-05-11/ukraine-retakes-territory-east-war-russia"
-    },
-    {
-      "text": "Plucked from war flames, a beloved Ukrainian artist\u2019s legacy lives on",
-      "url": "https://www.latimes.com/world-nation/story/2022-05-10/ukraine-cultural-heritage-maria-prymachenko-paintings-saved"
-    },
-    {
-      "text": "House approves $40 billion in Ukraine aid, beefing up Biden\u2019s request",
-      "url": "https://www.latimes.com/politics/story/2022-05-10/house-approves-40b-in-ukraine-aid-beefing-up-biden-request"
+      "text": "Barabak: In Ukraine, using an anti-Trump playbook to go after Putin",
+      "url": "https://www.latimes.com/politics/story/2022-05-12/ukraine-putin-zelensky-lincoln-project-mike-madrid"
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-05-11/la-sheriff-alex-villanueva-wife-vivian-villanueva-unique-sway"
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon"
+    },
+    {
+      "text": "Welcome to Portugal, the new expat haven. Californians, please go home",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/these-californians-relocated-to-portugal-they-share-their-stories"
+    },
+    {
+      "text": "Why we moved to Portugal: Relocated Californians share their stories",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/these-californians-relocated-to-portugal-they-share-their-stories"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/business/story/2022-05-12/crypto-addiction-new-mental-health-issue"
     },
     {
       "text": "For Subscribers",
       "url": "https://www.latimes.com/topic/for-la-times-subscribers"
     },
     {
-      "text": "Vivian Villanueva holds sway in L.A. sheriff\u2019s department, staff say",
-      "url": "https://www.latimes.com/california/story/2022-05-11/la-sheriff-alex-villanueva-wife-vivian-villanueva-unique-sway"
+      "text": "Column One: Crypto addiction -- A growing mental health hazard for the very online",
+      "url": "https://www.latimes.com/business/story/2022-05-12/crypto-addiction-new-mental-health-issue"
     },
     {
-      "text": "           ",
-      "url": "https://www.latimes.com/business/story/2022-05-11/mickey-mouse-copyright-expiration-disney-under-attack-republicans"
-    },
-    {
-      "text": "Republicans are trying to exterminate Mickey Mouse. Does anyone care? ",
-      "url": "https://www.latimes.com/business/story/2022-05-11/mickey-mouse-copyright-expiration-disney-under-attack-republicans"
+      "text": "Hiltzik: Bitcoin, NFTs, SPACs, meme stocks \u2014 all those pandemic investment darlings are crashing",
+      "url": "https://www.latimes.com/business/story/2022-05-12/bitcoin-nfts-crypto-spacs-meme-stocks-struggling"
     },
     {
       "text": " Opinion",
@@ -8245,12 +8399,16 @@
       "url": "https://www.latimes.com/opinion/story/2022-04-27/complete-list-of-los-angeles-times-elections-endorsements-2022"
     },
     {
-      "text": "3 Good Things: Good dogs, a once-a-millennium thrift-store find and new life in Death Valley",
-      "url": "https://www.latimes.com/opinion/story/2022-05-10/dog-breed-predicting-behavior-roman-bust-texas-devils-hole-pupfish"
+      "text": "Column: The Supreme Court is coming for Latinos",
+      "url": "https://www.latimes.com/opinion/story/2022-05-12/supreme-court-latinos"
     },
     {
-      "text": "Endorsement: Erin Darling is the best candidate to represent Westside L.A. on the city council",
-      "url": "https://www.latimes.com/opinion/story/2022-05-11/editorial-erin-darling-is-best-candidate-to-represent-westside-l-a-on-city-council"
+      "text": "Granderson: The nation is still hung over from the Tea Party. Don\u2019t let 2022 midterms be a repeat",
+      "url": "https://www.latimes.com/opinion/story/2022-05-12/2022-midterms-republican-wave-tea-party-2010"
+    },
+    {
+      "text": "Endorsement: Vote twice for Tina McKinnor to put her in the Assembly and keep her there",
+      "url": "https://www.latimes.com/opinion/story/2022-05-12/tina-mckinnor-california-assembly-endorsement"
     },
     {
       "text": " California primary election",
@@ -8278,11 +8436,11 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/podcasts/story/2022-05-10/the-times-podcast-russia-syria-ukraine"
+      "url": "https://www.latimes.com/podcasts/story/2022-05-12/the-times-podcast-brittny-griner-russia"
     },
     {
-      "text": "The Times: Russia\u2019s Syria playbook in Ukraine",
-      "url": "https://www.latimes.com/podcasts/story/2022-05-10/the-times-podcast-russia-syria-ukraine"
+      "text": "The Times: Why U.S. women\u2019s sports stars play abroad",
+      "url": "https://www.latimes.com/podcasts/story/2022-05-12/the-times-podcast-brittny-griner-russia"
     },
     {
       "text": "Binge Sesh: The 1990s made the NBA a global phenomenon. The Showtime Lakers paved the way",
@@ -8290,119 +8448,127 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-05-11/academy-member-child-molestation-trial-hollywood-architect"
+      "url": "https://www.latimes.com/politics/story/2022-05-12/politicians-roe-wade-ads-abortion-draft-decision-leak"
     },
     {
-      "text": "Academy member on trial over child molestation charges draws scrutiny",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-05-11/academy-member-child-molestation-trial-hollywood-architect"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/tv/story/2022-05-11/real-housewives-of-beverly-hills-dorit-kemsley-robbery-context"
-    },
-    {
-      "text": "\u2018This is how I\u2019m going to die\u2019: Dorit Kemsley sheds light on L.A. follow-home robberies",
-      "url": "https://www.latimes.com/entertainment-arts/tv/story/2022-05-11/real-housewives-of-beverly-hills-dorit-kemsley-robbery-context"
+      "text": "With Roe vs. Wade in the balance, abortion takes center stage in political ads",
+      "url": "https://www.latimes.com/politics/story/2022-05-12/politicians-roe-wade-ads-abortion-draft-decision-leak"
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/sports/hockey/story/2022-05-10/column-kings-oilers-learning-path-to-stanley-cup-isnt-always-smooth"
+      "url": "https://www.latimes.com/entertainment-arts/story/2022-05-12/column-if-men-could-get-pregnant-abortion-would-be-federally-funded"
     },
     {
-      "text": "Elliott: Adrian Kempe\u2019s goal in OT lifts Kings to 3-2 series lead over Oilers",
-      "url": "https://www.latimes.com/sports/hockey/story/2022-05-10/column-kings-oilers-learning-path-to-stanley-cup-isnt-always-smooth"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-05-10/l-a-school-board-delays-student-covid-19-vaccine-mandate-without-any-discussion"
-    },
-    {
-      "text": "L.A. school board delays student COVID-19 vaccine mandate without any discussion",
-      "url": "https://www.latimes.com/california/story/2022-05-10/l-a-school-board-delays-student-covid-19-vaccine-mandate-without-any-discussion"
+      "text": "McNamara: If men could get pregnant, abortion and baby formula would be free",
+      "url": "https://www.latimes.com/entertainment-arts/story/2022-05-12/column-if-men-could-get-pregnant-abortion-would-be-federally-funded"
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/business/story/2022-05-11/us-inflation-8-3-april-slows-from-40-year-high"
+      "url": "https://www.latimes.com/entertainment-arts/movies/story/2022-05-12/top-gun-maverick-review-tom-cruise"
     },
     {
-      "text": "U.S. inflation hit 8.3% last month but slows from 40-year high",
-      "url": "https://www.latimes.com/business/story/2022-05-11/us-inflation-8-3-april-slows-from-40-year-high"
-    },
-    {
-      "text": "Inside the manhunt for an Alabama prison inmate and the jailer who helped him escape",
-      "url": "https://www.latimes.com/world-nation/story/2022-05-11/inside-manhunt-for-escaped-alabama-inmate-jailer"
-    },
-    {
-      "text": "\u2018Significant uptick\u2019 in California coronavirus outbreaks brings new warnings",
-      "url": "https://www.latimes.com/california/story/2022-05-10/significant-uptick-in-california-coronavirus-outbreaks-brings-new-warnings"
-    },
-    {
-      "text": "A woman was taken from her home. Hours later, her 3 kids were found dead inside",
-      "url": "https://www.latimes.com/california/story/2022-05-10/west-hills-mom-taken-from-home-hours-before-kids-found-dead"
-    },
-    {
-      "text": "Where Los Angeles mayoral candidates raise the most money",
-      "url": "https://www.latimes.com/projects/los-angeles-mayoral-election-maps-campaign-funding-primary-2022"
-    },
-    {
-      "text": "Bass campaign calls police union ad \u2018defamatory,\u2019 demands that TV stations stop airing it",
-      "url": "https://www.latimes.com/california/story/2022-05-10/rep-karen-bass-demands-that-tv-stations-take-down-police-union-ads-targeting-her"
-    },
-    {
-      "text": "Case dismissed against former D.A. Jackie Lacey\u2019s husband, who pointed gun at protesters outside home",
-      "url": "https://www.latimes.com/california/story/2022-05-10/la-county-da-jackie-lacey-husband-gun-case-dismissed"
+      "text": "Review: Tom Cruise flies high \u2014\u00a0again \u2014\u00a0in the exhilarating \u2018Top Gun: Maverick\u2019",
+      "url": "https://www.latimes.com/entertainment-arts/movies/story/2022-05-12/top-gun-maverick-review-tom-cruise"
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-05-10/no-confidence-vote-against-cal-state-la-president-passes"
-    },
-    {
-      "text": " Cal State L.A. president gets no-confidence vote after professor removed from debate",
-      "url": "https://www.latimes.com/california/story/2022-05-10/no-confidence-vote-against-cal-state-la-president-passes"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/food/story/2022-05-10/ihop-ramadan-halal-specials-become-permanent"
-    },
-    {
-      "text": "At two local IHOPs, Ramadan halal specials were so popular they\u2019re staying on the menu",
-      "url": "https://www.latimes.com/food/story/2022-05-10/ihop-ramadan-halal-specials-become-permanent"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/lifestyle/story/2022-05-06/best-gifts-for-grads"
-    },
-    {
-      "text": "The best graduation gifts, according to a soon-to-be grad",
-      "url": "https://www.latimes.com/lifestyle/story/2022-05-06/best-gifts-for-grads"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/sports/story/2022-05-10/rick-reilly-book-excerpt-speedgolf-sport-or-folly"
-    },
-    {
-      "text": "Speedgolf is an actual L.A. sport, part fitness craze, part just crazy",
-      "url": "https://www.latimes.com/sports/story/2022-05-10/rick-reilly-book-excerpt-speedgolf-sport-or-folly"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/travel/story/2022-05-04/sea-ranch-travel-sonoma-coast"
+      "url": "https://www.latimes.com/california/story/2022-05-12/firefighter-down-what-went-wrong"
     },
     {
       "text": "For Subscribers",
       "url": "https://www.latimes.com/topic/for-la-times-subscribers"
     },
     {
-      "text": "Why so many people in L.A. are heading to this hidden modern utopia by the sea ",
-      "url": "https://www.latimes.com/travel/story/2022-05-04/sea-ranch-travel-sonoma-coast"
+      "text": "\u2018Firefighter down\u2019: He walked into a burning house but was carried out. What happened?",
+      "url": "https://www.latimes.com/california/story/2022-05-12/firefighter-down-what-went-wrong"
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/sports/lakers/story/2022-05-10/jeanie-buss-lakers-change"
+      "url": "https://www.latimes.com/california/story/2022-05-12/wildfires-smoke-heat-waves-endanger-summer-camps"
     },
     {
-      "text": "Plaschke: Jeanie Buss says she isn\u2019t happy, vows \u2018I\u2019ve got to make it better\u2019",
-      "url": "https://www.latimes.com/sports/lakers/story/2022-05-10/jeanie-buss-lakers-change"
+      "text": "Infernos, smoke and heat waves threaten summer youth camps across the West",
+      "url": "https://www.latimes.com/california/story/2022-05-12/wildfires-smoke-heat-waves-endanger-summer-camps"
+    },
+    {
+      "text": "Is Paxlovid, the COVID-19 pill, reaching those most in need? The government won\u2019t say",
+      "url": "https://www.latimes.com/california/story/2022-05-12/officials-wont-say-if-paxlovid-covid-pill-gets-to-the-needy"
+    },
+    {
+      "text": "Teenage boy accused of murder along with mother after three children killed at Valley home",
+      "url": "https://www.latimes.com/california/story/2022-05-11/teenage-boy-oins-with-mom-in-facing-murder-charges-over-three-children-killed-in-west-hills"
+    },
+    {
+      "text": "Skelton: Newsom is smart to attack his fellow Democrats. Presidential run or not, it\u2019s good politics",
+      "url": "https://www.latimes.com/california/story/2022-05-12/skelton-newsom-national-ambitions"
+    },
+    {
+      "text": "U.S. appeals court overturns California ban on semiautomatic rifle sales to those under 21",
+      "url": "https://www.latimes.com/california/story/2022-05-11/federal-court-rules-california-ban-on-gun-sales-to-people-under-21-unconstitutional"
+    },
+    {
+      "text": "New California home buyers could soon get government cash for down payment",
+      "url": "https://www.latimes.com/california/story/2022-05-11/new-california-home-buyers-could-soon-get-government-cash-for-down-payment"
+    },
+    {
+      "text": "California would subsidize abortion services for uninsured, out-of-state patients under Newsom plan",
+      "url": "https://www.latimes.com/california/story/2022-05-11/california-could-subsidize-abortion-services-for-out-of-state-patients"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-05-11/landmark-theatres-to-close-pico-location-in-latest-blow"
+    },
+    {
+      "text": "Landmark Theatres to close Pico location in latest blow to L.A. cinephiles",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-05-11/landmark-theatres-to-close-pico-location-in-latest-blow"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/lifestyle/image/story/2022-05-11/poet-christopher-soto-imagines-what-freedom-abolition-defunding-the-police-in-los-angeles-would-look-like"
+    },
+    {
+      "text": "Carceral architecture is everywhere in L.A. What could the city look like without it?",
+      "url": "https://www.latimes.com/lifestyle/image/story/2022-05-11/poet-christopher-soto-imagines-what-freedom-abolition-defunding-the-police-in-los-angeles-would-look-like"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/lifestyle/newsletter/2022-05-05/la-tr-see-blood-moon-eclipse-the-wild"
+    },
+    {
+      "text": "Here\u2019s the best way to see the blood moon eclipse in L.A. on May 15",
+      "url": "https://www.latimes.com/lifestyle/newsletter/2022-05-05/la-tr-see-blood-moon-eclipse-the-wild"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/entertainment-arts/story/2022-05-11/review-backlog-pandemic-postponed-art-shows"
+    },
+    {
+      "text": "Review: Five pandemic-postponed art shows worth seeing right now",
+      "url": "https://www.latimes.com/entertainment-arts/story/2022-05-11/review-backlog-pandemic-postponed-art-shows"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/travel/list/national-parks-california-drive-los-angeles"
+    },
+    {
+      "text": "For Subscribers",
+      "url": "https://www.latimes.com/topic/for-la-times-subscribers"
+    },
+    {
+      "text": "Every national park you can drive to on a weekend trip from L.A.",
+      "url": "https://www.latimes.com/travel/list/national-parks-california-drive-los-angeles"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/california/story/2022-05-11/la-sheriff-alex-villanueva-wife-vivian-villanueva-unique-sway"
+    },
+    {
+      "text": "For Subscribers",
+      "url": "https://www.latimes.com/topic/for-la-times-subscribers"
+    },
+    {
+      "text": "Villanueva\u2019s wife holds sway in L.A. Sheriff\u2019s Department, officials say",
+      "url": "https://www.latimes.com/california/story/2022-05-11/la-sheriff-alex-villanueva-wife-vivian-villanueva-unique-sway"
     },
     {
       "text": " Entertainment & Arts",
@@ -8410,11 +8576,11 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2022-05-10/james-hong-star-hollywood-walk-of-fame-ceremony"
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2022-05-11/candy-hulu-jessica-biel-justin-timberlake"
     },
     {
-      "text": "At 93, beloved actor James Hong finally gets his star on Hollywood\u2019s Walk of Fame",
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2022-05-10/james-hong-star-hollywood-walk-of-fame-ceremony"
+      "text": "How Jessica Biel landed husband Justin Timberlake for a \u2018perfect\u2019 cameo in \u2018Candy\u2019",
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2022-05-11/candy-hulu-jessica-biel-justin-timberlake"
     },
     {
       "text": "           ",
@@ -8425,12 +8591,12 @@
       "url": "https://www.latimes.com/entertainment-arts/tv/story/2021-11-18/best-tv-shows-netflix-right-now-what-to-watch"
     },
     {
-      "text": "\u2018Rust\u2019 producers contest agency citation as Baldwin launches production company",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-05-10/rust-movie-producers-contest-new-mexico-osha-citation-and-findings-of-safety-violations"
+      "text": "How the pandemic pushed a comics legend to reinvent pulp fiction and 1980s L.A.",
+      "url": "https://www.latimes.com/entertainment-arts/books/story/2022-05-12/how-the-pandemic-pushed-a-comics-legend-to-reinvent-pulp-fiction-and-1980s-l-a"
     },
     {
-      "text": "Can Young Thug\u2019s lyrics be used against him? Prosecutors say yes in RICO case against rapper",
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2022-05-10/young-thug-rico-lyrics-gang-ysl"
+      "text": "In the \u2018cacophony\u2019 of the Americas, painter Eamon Ore-Giron finds elegant patterns",
+      "url": "https://www.latimes.com/entertainment-arts/story/2022-05-12/in-the-cacophony-of-the-americas-painter-eamon-ore-giron-finds-elegant-patterns"
     },
     {
       "text": " Sports",
@@ -8438,39 +8604,27 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/sports/story/2022-05-09/2022-nfl-schedule-release-may-how-they-make-it"
+      "url": "https://www.latimes.com/sports/story/2022-05-12/nfl-players-tv-broadcasters-tom-brady"
     },
     {
-      "text": "For Subscribers",
-      "url": "https://www.latimes.com/topic/for-la-times-subscribers"
-    },
-    {
-      "text": "Exclusive: Inside the NFL schedule war room \u2014 \u2018making everybody equally disappointed\u2019",
-      "url": "https://www.latimes.com/sports/story/2022-05-09/2022-nfl-schedule-release-may-how-they-make-it"
-    },
-    {
-      "text": "All signs point to Rams opening season at home against Buffalo Bills",
-      "url": "https://www.latimes.com/sports/rams/story/2022-05-10/rams-open-2022-season-home-buffalo-bills"
-    },
-    {
-      "text": "Rams will play Denver Broncos and Russell Wilson in Christmas matchup",
-      "url": "https://www.latimes.com/sports/rams/story/2022-05-10/rams-play-denver-broncos-christmas-day"
+      "text": "NFL players turned broadcasters have warnings for Tom Brady when he goes in TV booth",
+      "url": "https://www.latimes.com/sports/story/2022-05-12/nfl-players-tv-broadcasters-tom-brady"
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/sports/dodgers/story/2022-05-10/dodgers-beat-pittsburgh-pirates-season-high-runs-hits"
+      "url": "https://www.latimes.com/sports/story/2022-05-11/pac-12-other-conferences-must-create-enforce-own-rules-if-ncaa-wont-monitor-nils"
     },
     {
-      "text": "Dodgers come out swinging in 11-1 rout of the Pirates",
-      "url": "https://www.latimes.com/sports/dodgers/story/2022-05-10/dodgers-beat-pittsburgh-pirates-season-high-runs-hits"
+      "text": "Commentary: In college sports\u2019 new world of NIL pay, Pac-12 leaders sound old-fashioned",
+      "url": "https://www.latimes.com/sports/story/2022-05-11/pac-12-other-conferences-must-create-enforce-own-rules-if-ncaa-wont-monitor-nils"
     },
     {
-      "text": "Janelle McDonald hopes to rebuild UCLA gymnastics with passion, positivity",
-      "url": "https://www.latimes.com/sports/ucla/story/2022-05-10/ucla-gymnastics-janelle-mcdonald-rebuild-passion-positivity"
+      "text": "Shohei Ohtani sharp, but Angels fall to Rays in 10 innings",
+      "url": "https://www.latimes.com/sports/angels/story/2022-05-11/shohei-ohtani-sharp-but-angels-fall-to-rays-in-10-innings"
     },
     {
-      "text": "Mater Dei football players allegedly sexually assaulted teammate, police record says",
-      "url": "https://www.latimes.com/california/story/2022-05-09/mater-dei-football-alleged-sexual-assault-police-record"
+      "text": "Reid Detmers\u2019 no-hitter a case of killing them softly with off-speed pitches",
+      "url": "https://www.latimes.com/sports/angels/story/2022-05-11/reid-detmers-no-hitter-angels-case-of-killing-them-softly-with-off-speed-pitches"
     },
     {
       "text": " Latino Life",
@@ -8501,16 +8655,16 @@
       "url": "https://www.latimes.com/espanol/"
     },
     {
-      "text": "Video: Mensaje de Canelo \u00c1lvarez inspira a Brian Casta\u00f1o a romper el empate y la historia ante Jermell Charlo",
-      "url": "https://www.latimes.com/espanol/deportes/dfouqeqgt9k-123"
+      "text": "Chiquis regresa \u2018firme y sin temor\u2019, mientras endulza con su miel a los creen y a los que no",
+      "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2022-05-12/chiquis-regresa-firme-y-sin-temor-mientras-endulza-con-su-miel-a-los-creen-y-a-los-que-no"
     },
     {
-      "text": "La nueva Champions tendr\u00e1 8 fechas a partir de 2024",
-      "url": "https://www.latimes.com/espanol/deportes/articulo/2022-05-10/la-nueva-champions-tendra-8-fechas-a-partir-de-2024"
+      "text": "Exrival de Canelo, Kovalev, asegura que el mexicano se vio relajado y d\u00e9bil ante Bivol",
+      "url": "https://www.latimes.com/espanol/deportes/articulo/2022-05-12/exrival-de-canelo-alvarez-sergey-kovalev-asegura-que-el-mexicano-se-veia-relajado-y-debil"
     },
     {
-      "text": "Turner batea 3 de los 8 dobles de Dodgers en Pittsburgh",
-      "url": "https://www.latimes.com/espanol/deportes/articulo/2022-05-10/turner-batea-3-de-los-8-dobles-de-dodgers-en-pittsburgh"
+      "text": "OPINI\u00d3N: \u00bfPor qu\u00e9 Estados Unidos no le da dinero a AMLO?",
+      "url": "https://www.latimes.com/espanol/eeuu/articulo/2022-05-11/opinion-por-que-estados-unidos-no-le-da-dinero-a-amlo"
     },
     {
       "text": " Visual Storytelling",
@@ -8550,27 +8704,27 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/world-nation/story/2022-05-10/al-jazeera-reporter-killed-during-israeli-raid-in-west-bank"
+      "url": "https://www.latimes.com/world-nation/story/2022-05-11/victims-reach-nearly-one-billion-dollar-tentative-settlement-in-florida-condo-collapse"
+    },
+    {
+      "text": "Victims of Florida condo collapse reach nearly $1-billion tentative settlement",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-11/victims-reach-nearly-one-billion-dollar-tentative-settlement-in-florida-condo-collapse"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/north-korea-fires-suspected-ballistic-missile-toward-sea"
+    },
+    {
+      "text": "North Korea fires suspected ballistic missile toward sea",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/north-korea-fires-suspected-ballistic-missile-toward-sea"
     },
     {
       "text": "Al Jazeera reporter killed while covering Israeli raid in West Bank",
       "url": "https://www.latimes.com/world-nation/story/2022-05-10/al-jazeera-reporter-killed-during-israeli-raid-in-west-bank"
     },
     {
-      "text": "           ",
-      "url": "https://www.latimes.com/world-nation/story/2022-05-11/trump-candidate-loses-nebraska-governor-primary"
-    },
-    {
-      "text": "Trump-backed candidate loses Nebraska\u2019s gubernatorial primary",
-      "url": "https://www.latimes.com/world-nation/story/2022-05-11/trump-candidate-loses-nebraska-governor-primary"
-    },
-    {
-      "text": "First execution in nearly eight years in Arizona is scheduled for Wednesday",
-      "url": "https://www.latimes.com/world-nation/story/2022-05-11/arizona-first-execution-prisoner-nearly-8-years"
-    },
-    {
-      "text": "Senate approves Lisa Cook as first Black woman to join Federal Reserve board",
-      "url": "https://www.latimes.com/politics/story/2022-05-10/senate-approves-lisa-cook-as-first-black-woman-to-fed-post"
+      "text": "U.S. identifies Native American boarding schools, burial sites",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-11/us-identifies-native-american-boarding-schools-burial-sites"
     },
     {
       "text": " Food",
@@ -8578,19 +8732,19 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/food/story/2022-05-10/celebrity-chef-mario-batali-acquitted-of-sexual-misconduct-in-boston-trial-decided-by-judge-not-jury"
+      "url": "https://www.latimes.com/food/story/2022-05-11/this-week-in-la-restaurants-clark-street-opens-cocktail-bar-delicious-little-tokyo"
     },
     {
-      "text": "Chef Mario Batali acquitted of sexual misconduct in Boston trial decided by judge",
-      "url": "https://www.latimes.com/food/story/2022-05-10/celebrity-chef-mario-batali-acquitted-of-sexual-misconduct-in-boston-trial-decided-by-judge-not-jury"
+      "text": "This week in L.A. restaurants: Clark Street opens cocktail bar, Delicious Little Tokyo returns",
+      "url": "https://www.latimes.com/food/story/2022-05-11/this-week-in-la-restaurants-clark-street-opens-cocktail-bar-delicious-little-tokyo"
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/food/story/2022-05-09/potato-tacos-dumplings-champagne-cheese-dim-sum"
+      "url": "https://www.latimes.com/food/story/2022-05-11/appreciation-yening-lupe-liang-merged-three-cultures-forever-changing-chinatown"
     },
     {
-      "text": "What to eat now: Yes, bathe the cheese in Champagne",
-      "url": "https://www.latimes.com/food/story/2022-05-09/potato-tacos-dumplings-champagne-cheese-dim-sum"
+      "text": "Appreciation: Chef Lupe Liang and his trilingual menu embodied the spirit of Chinatown",
+      "url": "https://www.latimes.com/food/story/2022-05-11/appreciation-yening-lupe-liang-merged-three-cultures-forever-changing-chinatown"
     },
     {
       "text": "           ",
@@ -8609,28 +8763,32 @@
       "url": "https://membership.latimes.com/newsletters/"
     },
     {
-      "text": "Today\u2019s Headlines: Senate Democrats plan to vote on bill establishing federal right to abortion",
-      "url": "https://www.latimes.com/world-nation/newsletter/2022-05-11/federal-abortion-bill-senate-todays-headlines-newsletter-todays-headlines"
+      "text": "Far from Lake Powell, drought punishes another Western dam",
+      "url": "https://www.latimes.com/environment/newsletter/2022-05-12/far-from-lake-powell-drought-punishes-another-western-dam-boiling-point"
     },
     {
-      "text": "The Sports Report: Angels\u2019 Reid Detmers pitches no-hitter against Tampa Bay",
-      "url": "https://www.latimes.com/sports/newsletter/2022-05-11/angels-reid-detmers-no-hitter-sports-report"
+      "text": "The Sports Report: The Angels are SoCal\u2019s most fun team to watch",
+      "url": "https://www.latimes.com/sports/newsletter/2022-05-12/angels-fun-sports-report"
     },
     {
-      "text": "Coronavirus Today: Are there consequences for failing to mask up?",
-      "url": "https://www.latimes.com/science/newsletter/2022-05-10/coronavirus-today-lapd-mask-mandate-scofflaws-no-consequences-coronavirus-today"
+      "text": "Today\u2019s Headlines: Coastal fire destroys at least 20 homes in Laguna Niguel ",
+      "url": "https://www.latimes.com/world-nation/newsletter/2022-05-11/coastal-fire-laguna-niguel-homes-todays-headlines-newsletter-todays-headlines"
     },
     {
-      "text": "Where does student loan forgiveness stand? Borrowers wait anxiously on Biden",
-      "url": "https://www.latimes.com/politics/story/2022-05-10/student-loans-biden-debt-forgiveness-borrowers-wait-anxiously"
+      "text": "For Subscribers",
+      "url": "https://www.latimes.com/topic/for-la-times-subscribers"
     },
     {
-      "text": "Morrison: Sepulveda, Sherman, Tarzana: The most interesting stories behind the Valley\u2019s street names",
-      "url": "https://www.latimes.com/california/story/2022-05-10/landmarks-and-legends-place-names-san-fernando-valley-streets"
+      "text": "Vivian Villanueva \u2014 wife and confidant \u2014 holds sway in L.A. Sheriff\u2019s Department, officials say",
+      "url": "https://www.latimes.com/california/story/2022-05-11/la-sheriff-alex-villanueva-wife-vivian-villanueva-unique-sway"
     },
     {
-      "text": "Gun ownership data are often limited \u2014 and the NRA knows it stands in the way",
-      "url": "https://www.latimes.com/california/story/2022-05-10/the-nra-knows-its-impeding-research-even-if-it-claims-otherwise"
+      "text": "California gas rebates may not arrive until late summer. Or even later",
+      "url": "https://www.latimes.com/california/story/2022-05-11/california-gas-rebates-may-not-arrive-until-late-summer-or-later"
+    },
+    {
+      "text": "Republicans took away Disney\u2019s special status in Florida. Now they\u2019re gunning for Mickey himself",
+      "url": "https://www.latimes.com/business/story/2022-05-11/mickey-mouse-copyright-expiration-disney-under-attack-republicans"
     },
     {
       "text": "           ",
@@ -8726,15 +8884,15 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/story/2022-05-07/gustavo-dudamel-rite-of-spring-latin-american-music"
+      "url": "https://www.latimes.com/entertainment-arts/books/story/2022-05-11/letter-to-a-strange-pico-iyer-maggie-shipstead-book-club"
+    },
+    {
+      "text": "Powerful stories in \u2018Letter to a Stranger\u2019 will transport you around the world",
+      "url": "https://www.latimes.com/entertainment-arts/books/story/2022-05-11/letter-to-a-strange-pico-iyer-maggie-shipstead-book-club"
     },
     {
       "text": "Review: Gustavo Dudamel puts a remarkable \u2018Rite of Spring\u2019 in a revealing Latin American context  ",
       "url": "https://www.latimes.com/entertainment-arts/story/2022-05-07/gustavo-dudamel-rite-of-spring-latin-american-music"
-    },
-    {
-      "text": "Here\u2019s the best way to see the blood moon eclipse in L.A. on May 15",
-      "url": "https://www.latimes.com/lifestyle/newsletter/2022-05-05/la-tr-see-blood-moon-eclipse-the-wild"
     },
     {
       "text": "5 non-touristy ways to play tourist in L.A. ",
@@ -8750,23 +8908,23 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/politics/story/2022-05-11/its-just-lunch-but-its-the-key-to-relevancy-for-a-vice-president"
+      "url": "https://www.latimes.com/opinion/story/2022-05-12/endorsement-robert-garcia-congress-california-house"
     },
     {
-      "text": "Column One: It\u2019s not just a meal \u2014 Inside the nation\u2019s most secretive and exclusive power lunch",
-      "url": "https://www.latimes.com/politics/story/2022-05-11/its-just-lunch-but-its-the-key-to-relevancy-for-a-vice-president"
+      "text": "Endorsement: Robert Garcia for Congress",
+      "url": "https://www.latimes.com/opinion/story/2022-05-12/endorsement-robert-garcia-congress-california-house"
     },
     {
-      "text": "Declaring victory, Ferdinand Marcos Jr. faces calls to ensure democracy in Philippines",
-      "url": "https://www.latimes.com/world-nation/story/2022-05-11/ferdinand-marcos-jr-declares-victory-philippines"
+      "text": "Endorsement: Send Juan Carrillo to Sacramento to represent Antelope Valley in the state Assembly",
+      "url": "https://www.latimes.com/opinion/story/2022-05-12/endorsement-juan-carrillo-california-assembly"
     },
     {
-      "text": "Roe vs. Wade is doomed. A veteran feminist wonders what\u2019s next",
-      "url": "https://www.latimes.com/politics/story/2022-05-11/roe-v-wade-is-doomed-veteran-feminist-wonders-whos-next"
+      "text": "Column: In Ukraine, using an anti-Trump playbook to go after Putin",
+      "url": "https://www.latimes.com/politics/story/2022-05-12/ukraine-putin-zelensky-lincoln-project-mike-madrid"
     },
     {
-      "text": "California gas rebates may not arrive until late summer. Or even later",
-      "url": "https://www.latimes.com/california/story/2022-05-11/california-gas-rebates-may-not-arrive-until-late-summer-or-later"
+      "text": "Biden to co-host second global COVID summit as U.S. nears 1 million deaths",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-12/biden-co-host-2nd-global-summit-covid-pandemic"
     },
     {
       "text": " Business",
@@ -8774,23 +8932,23 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/business/story/2022-05-11/disney-star-wars-writers-of-royalties"
+      "url": "https://www.latimes.com/business/real-estate/story/2022-05-12/ellen-degeneres-quietly-flips-a-midcentury-gem-for-8-8-million"
     },
     {
-      "text": "Column: Disney allegedly has cheated hundreds of writers out of royalties for Star Wars and other properties",
-      "url": "https://www.latimes.com/business/story/2022-05-11/disney-star-wars-writers-of-royalties"
+      "text": "Ellen DeGeneres quietly flips a Midcentury gem for $8.8 million",
+      "url": "https://www.latimes.com/business/real-estate/story/2022-05-12/ellen-degeneres-quietly-flips-a-midcentury-gem-for-8-8-million"
     },
     {
-      "text": "Pence rips ESG investing as injecting left-wing politics into business",
-      "url": "https://www.latimes.com/business/story/2022-05-10/pence-rips-esg-investing"
+      "text": "Column: Bitcoin, NFTs, SPACs, meme stocks \u2014 all those pandemic investment darlings are crashing",
+      "url": "https://www.latimes.com/business/story/2022-05-12/bitcoin-nfts-crypto-spacs-meme-stocks-struggling"
     },
     {
-      "text": "Stocks are mixed on Wall Street a day after big sell-off",
-      "url": "https://www.latimes.com/business/story/2022-05-10/stocks-turn-mixed-on-wall-street-a-day-after-big-sell-off"
+      "text": "Tech sector leads stocks lower as inflation remains high",
+      "url": "https://www.latimes.com/business/story/2022-05-11/tech-sector-leads-stocks-lower-as-inflation-remains-high"
     },
     {
-      "text": "Alex Trebek\u2019s Studio City mansion sells for $6.45 million",
-      "url": "https://www.latimes.com/business/real-estate/story/2022-05-10/alex-trebeks-studio-city-mansion-sells-for-6-45-million"
+      "text": "California is now home to two unionized Starbucks stores",
+      "url": "https://www.latimes.com/business/story/2022-05-11/starbucks-union-california"
     },
     {
       "text": " Obituaries",
@@ -8821,20 +8979,24 @@
       "url": "https://www.latimes.com/topic/education"
     },
     {
-      "text": "Why California law requires teaching about LGBTQ Americans in public schools ",
+      "text": "           ",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-11/illinois-historically-black-college-lincoln-close-157-years"
+    },
+    {
+      "text": "Historically Black college in Illinois to close after 157 years",
+      "url": "https://www.latimes.com/world-nation/story/2022-05-11/illinois-historically-black-college-lincoln-close-157-years"
+    },
+    {
+      "text": "What California law requires in teaching about LGBTQ people in public schools ",
       "url": "https://www.latimes.com/california/story/2022-05-11/california-takes-opposite-path-of-florida-texas-on-inclusive-education"
     },
     {
-      "text": "Deaf education vote is the latest parents\u2019 rights battleground in L.A.",
-      "url": "https://www.latimes.com/california/story/2022-05-10/deaf-educators-want-asl-la-unified-bilingual-program"
+      "text": "Glendale third-grade teacher showed gay pride videos. A year later, furious debate erupts ",
+      "url": "https://www.latimes.com/california/story/2022-05-11/glendale-unified-schools-lgbtq-curriculum"
     },
     {
-      "text": "Noose found on Stanford University campus",
-      "url": "https://www.latimes.com/california/story/2022-05-09/noose-found-on-stanford-university-campus"
-    },
-    {
-      "text": "Sonoma State president \u2018should step down\u2019 amid sex harassment scandal, lawmakers say",
-      "url": "https://www.latimes.com/california/story/2022-05-09/sonoma-state-president-should-step-down-amid-sex-harassment-scandal-lawmakers-say"
+      "text": "L.A. school board delays student COVID-19 vaccine mandate without any discussion",
+      "url": "https://www.latimes.com/california/story/2022-05-10/l-a-school-board-delays-student-covid-19-vaccine-mandate-without-any-discussion"
     },
     {
       "text": " Investigations",
@@ -8842,7 +9004,15 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-05-04/sonoma-state-president-judy-sakaki-art-fire-sex-harassment-scandal"
+      "url": "https://www.latimes.com/california/story/2022-05-10/the-nra-knows-its-impeding-research-even-if-it-claims-otherwise"
+    },
+    {
+      "text": "Gun ownership data are often limited \u2014 and the NRA knows it stands in the way",
+      "url": "https://www.latimes.com/california/story/2022-05-10/the-nra-knows-its-impeding-research-even-if-it-claims-otherwise"
+    },
+    {
+      "text": "Sonoma State president \u2018should step down\u2019 amid sex harassment scandal, lawmakers say",
+      "url": "https://www.latimes.com/california/story/2022-05-09/sonoma-state-president-should-step-down-amid-sex-harassment-scandal-lawmakers-say"
     },
     {
       "text": "University artwork burned at Sonoma State president\u2019s home tied to sex harassment scandal",
@@ -8851,14 +9021,6 @@
     {
       "text": "Racial discrimination. Sex harassment. Retaliation. Inside So Cal\u2019s powerful water agency",
       "url": "https://www.latimes.com/california/story/2022-04-21/state-audit-cites-mwd-for-workplace-discrimination-harassment-unfair-hiring-decrepit-employee-housing"
-    },
-    {
-      "text": "Sonoma State president faulted CSU\u2019s sex harassment response. Now she has her own scandal",
-      "url": "https://www.latimes.com/california/story/2022-04-20/sonoma-state-president-csu-sexual-harassment-scandal"
-    },
-    {
-      "text": "Sonoma State president separates from husband amid sexual harassment, retaliation scandal",
-      "url": "https://www.latimes.com/california/story/2022-04-18/sonoma-state-president-separates-from-husband-amid-sexual-harassment-retaliation-scandal"
     },
     {
       "text": " L.A. Affairs",
@@ -8886,6 +9048,22 @@
     },
     {
       "text": "           ",
+      "url": "https://www.latimes.com/lifestyle/story/2022-05-11/familia-lets-talk-about-nuestra-salud-mental"
+    },
+    {
+      "text": "Familia, let\u2019s talk about nuestra salud mental ",
+      "url": "https://www.latimes.com/lifestyle/story/2022-05-11/familia-lets-talk-about-nuestra-salud-mental"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.latimes.com/entertainment-arts/music/story/2022-05-11/carla-morrison-renacimiento-mental-health"
+    },
+    {
+      "text": "Carla Morrison reclaims her mental health in song and on social media",
+      "url": "https://www.latimes.com/entertainment-arts/music/story/2022-05-11/carla-morrison-renacimiento-mental-health"
+    },
+    {
+      "text": "           ",
       "url": "https://www.latimes.com/business/technology/story/2022-05-10/looking-for-free-broadband-in-southern-california-heres-how-to-find-it"
     },
     {
@@ -8894,27 +9072,11 @@
     },
     {
       "text": "           ",
-      "url": "https://www.latimes.com/business/story/2022-05-08/estate-planning-how-trusts-differ-from-remainder-trusts"
+      "url": "https://www.latimes.com/california/story/2022-05-10/landmarks-and-legends-place-names-san-fernando-valley-streets"
     },
     {
-      "text": "Should this couple leave their estate to kids who don\u2019t share their values?",
-      "url": "https://www.latimes.com/business/story/2022-05-08/estate-planning-how-trusts-differ-from-remainder-trusts"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/environment/story/2022-05-06/how-are-you-conserving-water-during-californias-drought"
-    },
-    {
-      "text": "What\u2019s your drought plan, Southern California? Tell us how you\u2019re saving water",
-      "url": "https://www.latimes.com/environment/story/2022-05-06/how-are-you-conserving-water-during-californias-drought"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/science/story/2022-05-06/a-guide-to-help-you-keep-track-of-all-the-omicron-subvariants"
-    },
-    {
-      "text": "A guide to help you keep track of all the Omicron subvariants",
-      "url": "https://www.latimes.com/science/story/2022-05-06/a-guide-to-help-you-keep-track-of-all-the-omicron-subvariants"
+      "text": "Sepulveda, Sherman, Tarzana: The most interesting stories behind the Valley\u2019s street names",
+      "url": "https://www.latimes.com/california/story/2022-05-10/landmarks-and-legends-place-names-san-fernando-valley-streets"
     },
     {
       "text": "Subscribe for unlimited access",
@@ -9054,7 +9216,7 @@
     "addeddate": "2022-03-22 20:29:38"
   },
   "server": "ia601409.us.archive.org",
-  "uniq": 2673543,
+  "uniq": 1425188784,
   "workable_servers": [
     "ia601409.us.archive.org",
     "ia801409.us.archive.org"

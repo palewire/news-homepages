@@ -1,5 +1,5 @@
 {
-  "created": 1652314877,
+  "created": 1652401402,
   "d1": "ia601005.us.archive.org",
   "d2": "ia801005.us.archive.org",
   "dir": "/5/items/msnbc-2022",
@@ -7460,31 +7460,157 @@
       "sha1": "d29887973cc7c9ee4e856508032f32e3e65df266"
     },
     {
+      "name": "msnbc-2022-05-11T20:24:52.770476-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652315100",
+      "size": "64815",
+      "md5": "677eb0b6828d70f56b802132d8aa4393",
+      "crc32": "aa9ce5b4",
+      "sha1": "16a8d1d2513800955ca6482808591c0d6d2c1a5e",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-11T20:24:52.770476-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652315103",
+      "size": "81390",
+      "md5": "1ba0ff8415cc8e650ad2716c222abc31",
+      "crc32": "9a78186a",
+      "sha1": "a14de1fa937d8e32b494feba703edc0ce86a5114",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-11T20:24:52.770476-04:00.jpg",
+      "source": "original",
+      "mtime": "1652315095",
+      "size": "311789",
+      "md5": "b4fe16388e768d0574764467ef182d33",
+      "crc32": "1f41cfb6",
+      "sha1": "b1790953b1ef1538a41bc0d69567b4e3cddeb23d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-05-11T20:24:52.770476-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-05-11T20:24:52.770476-04:00.jpg",
+      "mtime": "1652315193",
+      "size": "10496",
+      "md5": "c9d039cfb7150f697e4d194195d7dd97",
+      "crc32": "9033bc4a",
+      "sha1": "a1e5e7e045cf4ffe2860e41c2f295ef722d02a46"
+    },
+    {
+      "name": "msnbc-2022-05-12T02:09:02.206857-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652335750",
+      "size": "64310",
+      "md5": "7b59cd9ee464fb957c798db673d2eb00",
+      "crc32": "3db8e183",
+      "sha1": "3db9d6190ad8087104e6dfd8cd07e805635c1f27",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-12T02:09:02.206857-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652335751",
+      "size": "78131",
+      "md5": "413acccc868f3cd99bb413de8dcb0550",
+      "crc32": "987f848c",
+      "sha1": "57ffd4d28eb25813e92c9d7137cb1ab53d97e66e",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-12T02:09:02.206857-04:00.jpg",
+      "source": "original",
+      "mtime": "1652335748",
+      "size": "302616",
+      "md5": "da978e4f959d0196651e8454dc5c9451",
+      "crc32": "efa34cd5",
+      "sha1": "98cbdd067a9b954cc6cc5f78e4154b8017d5f444",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-05-12T02:09:02.206857-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-05-12T02:09:02.206857-04:00.jpg",
+      "mtime": "1652335840",
+      "size": "10415",
+      "md5": "e62fd507735cc450e5129117eb7aae71",
+      "crc32": "77a5fbf8",
+      "sha1": "63d73fcb1e03c5ab1bca69392bdd240eeae00422"
+    },
+    {
+      "name": "msnbc-2022-05-12T08:11:48.848923-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652357514",
+      "size": "64680",
+      "md5": "fc224022f6b72fbb97331a57e6dd3261",
+      "crc32": "2901b7e3",
+      "sha1": "c51db66c2fb708cd9358fc638c918ff0d6ef932a",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-12T08:11:48.848923-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652357515",
+      "size": "77686",
+      "md5": "908477f5691a9e681f76d827a2fe81f5",
+      "crc32": "2c3e3deb",
+      "sha1": "5fdb0f45afd161a1a7108033babeae620fc77496",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-12T08:11:48.848923-04:00.jpg",
+      "source": "original",
+      "mtime": "1652357512",
+      "size": "304124",
+      "md5": "979155c6f3cd287a7a8e4aad7c0b2b03",
+      "crc32": "258f81fc",
+      "sha1": "40c3af693b54d8a2f80d9253bcd22eb69c2f7e43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-05-12T08:11:48.848923-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-05-12T08:11:48.848923-04:00.jpg",
+      "mtime": "1652357693",
+      "size": "10350",
+      "md5": "ba3b733d5fe12fab299c9d3bce9198f0",
+      "crc32": "8a7400c1",
+      "sha1": "752002f2822c8653b85edbe5d7896f3a48e25625"
+    },
+    {
       "name": "msnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b4928105398a6eefaec33b6c5cb32890132a94c",
-      "mtime": "1652249542",
-      "size": "148778",
-      "md5": "e28a4a15d6081a8228d0f83b1eef87dd",
-      "crc32": "a4a07c5b",
-      "sha1": "de28adaefa9e15144c8f8e6c072687e480796b07",
+      "btih": "74dc16bc82ba820972b43a8a0cc3ac34b41c1873",
+      "mtime": "1652357703",
+      "size": "151272",
+      "md5": "70f946c472e195209266a6fbf8bbebec",
+      "crc32": "a710493f",
+      "sha1": "565cd1a86ccaf819fcdb30ed19a5fe46c38f1400",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "117cf3dce2bd470e2b5ce175f1a3551d",
+      "md5": "7db4a0e3ed417413f8939e44d13c6fe2",
       "summation": "md5"
     },
     {
       "name": "msnbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652249439",
-      "size": "798720",
-      "md5": "18ab909258633ca4fc980da1adf7bbeb",
-      "crc32": "973098c0",
-      "sha1": "6a57428a17230594a9d8484a3a3d0e32b3a58b4e",
+      "mtime": "1652357524",
+      "size": "811008",
+      "md5": "618233e3a72d93f1c6b9ac1bcc6ebff1",
+      "crc32": "d2c7e526",
+      "sha1": "7da190746ce8cf77e6c566d9423c0d11a6e4f785",
       "format": "Metadata"
     },
     {
@@ -7498,9 +7624,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 711,
-  "item_last_updated": 1652249542,
-  "item_size": 82026720,
+  "files_count": 723,
+  "item_last_updated": 1652357703,
+  "item_size": 83422304,
   "metadata": {
     "identifier": "msnbc-2022",
     "collection": [
@@ -7791,144 +7917,192 @@
       "url": "https://www.linkedin.com/shareArticle?mini=true&url=null&title=&cid=article_share_linkedin"
     },
     {
-      "text": "MSNBC / Getty Images; AP file",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/republican-primaries-culture-wars-are-eclipsing-inflation-criticism-n1295325"
+      "text": "Jacquelyn Martin / AP",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/supreme-court-springs-brand-new-leak-roe-balance-rcna28290"
     },
     {
-      "text": "Republican primaries reveal an interesting Trumpian trend",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/republican-primaries-culture-wars-are-eclipsing-inflation-criticism-n1295325"
-    },
-    {
-      "text": "Zeeshan Aleem",
-      "url": "https://www.msnbc.com/author/zeeshan-aleem-ncpn1235332"
-    },
-    {
-      "text": "Trump-endorsed candidate accused of sexual assault loses primary race",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/herbster-nebraska-primary-trump-rcna28104"
-    },
-    {
-      "text": "Ja'han Jones",
-      "url": "https://www.msnbc.com/author/ja-jones-ncpn371241"
-    },
-    {
-      "text": "Americans don't get how inflation works. That's a problem for Biden.",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/why-biden-can-t-fix-his-poll-numbers-inflation-alone-n1295292"
-    },
-    {
-      "text": "Hayes Brown",
-      "url": "https://www.msnbc.com/author/hayes-brown-ncpn1243020"
-    },
-    {
-      "text": "Tom Williams / CQ-Roll Call via Getty Images",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/josh-hawley-introduced-new-anti-disney-legislation-rcna28122"
-    },
-    {
-      "text": "GOP retaliation against Disney moves to Congress",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/josh-hawley-introduced-new-anti-disney-legislation-rcna28122"
+      "text": "The Supreme Court is suddenly leaking like a sieve \u2014 and it's truly stunning",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/supreme-court-springs-brand-new-leak-roe-balance-rcna28290"
     },
     {
       "text": "Steve Benen",
       "url": "https://www.msnbc.com/author/steve-benen-ncpn433601"
     },
     {
-      "text": "Jabin Botsford / Pool via Getty Images file",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/protesting-outside-supreme-court-justices-homes-good-n1295298"
+      "text": "The Supreme Court can sense America's growing intolerance for its draconian rulings ",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/supreme-court-trust-poll-rcna28301"
     },
     {
-      "text": "The protest outside Brett Kavanaugh's house isn't the problem. Here's what is.",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/protesting-outside-supreme-court-justices-homes-good-n1295298"
+      "text": "Ja'han Jones",
+      "url": "https://www.msnbc.com/author/ja-jones-ncpn371241"
+    },
+    {
+      "text": "Kamala Harris slams GOP after vote to protect abortion rights fails in Senate",
+      "url": "https://www.msnbc.com/deadline-white-house/watch/kamala-harris-slams-gop-after-vote-to-protect-abortion-rights-fails-in-senate-139808325812"
+    },
+    {
+      "text": "Deadline White House",
+      "url": "https://www.msnbc.com/deadline-white-house"
+    },
+    {
+      "text": "MSNBC / Youtube",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/kendrick-lamar-s-new-album-heart-challenges-how-we-see-n1295357"
+    },
+    {
+      "text": "Kendrick Lamar makes us face the pain behind famous Black men's problematic actions",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/kendrick-lamar-s-new-album-heart-challenges-how-we-see-n1295357"
+    },
+    {
+      "text": "Evette Dionne",
+      "url": "https://www.msnbc.com/author/evette-dionne-ncpn1237804"
+    },
+    {
+      "text": "MSNBC / Getty Images; AP",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/how-trump-s-west-virginia-primary-win-punishes-david-mckinley-n1295356"
+    },
+    {
+      "text": "Trump's guy won in West Virginia \u2014 but wait, it gets worse",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/how-trump-s-west-virginia-primary-win-punishes-david-mckinley-n1295356"
     },
     {
       "text": "Zeeshan Aleem",
       "url": "https://www.msnbc.com/author/zeeshan-aleem-ncpn1235332"
     },
     {
-      "text": "Conservatives resort to double standard to stir outrage over Supreme Court protests",
-      "url": "https://www.msnbc.com/rachel-maddow/watch/conservatives-resort-to-double-standard-to-stir-outrage-over-supreme-court-protests-139750981596"
+      "text": "New York judge halts contempt order against Trump on certain conditions",
+      "url": "https://www.msnbc.com/hallie-jackson/watch/new-york-judge-halts-contempt-order-against-trump-on-certain-conditions-139800133952"
     },
     {
-      "text": "Rachel Maddow",
-      "url": "https://www.msnbc.com/rachel-maddow-show"
+      "text": "Hallie Jackson",
+      "url": "https://www.msnbc.com/msnbc-live-hallie-jackson"
     },
     {
-      "text": "Sen. Whitehouse on why he says \u2018Brett Kavanaugh was not properly vetted\u2019",
-      "url": "https://www.msnbc.com/the-reidout/watch/republican-operatives-plans-to-overturn-roe-v-wade-analyzed-by-sen-sheldon-whitehouse-139746373548"
-    },
-    {
-      "text": "The Reidout",
-      "url": "https://www.msnbc.com/the-reidout/watch/republican-operatives-plans-to-overturn-roe-v-wade-analyzed-by-sen-sheldon-whitehouse-139746373548"
-    },
-    {
-      "text": "Senate passes unusually bipartisan \u2014 and cowardly \u2014 Supreme Court bill ",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/supreme-court-protection-bill-rcna28106"
-    },
-    {
-      "text": "Ja'han Jones",
-      "url": "https://www.msnbc.com/author/ja-jones-ncpn371241"
-    },
-    {
-      "text": "Justice Alito's unusual sources start to generate closer scrutiny ",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/justice-alitos-unusual-sources-start-generate-closer-scrutiny-rcna28085"
+      "text": "Newly disclosed emails make notorious Trump lawyer look even worse",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/disclosed-emails-make-notorious-trump-lawyer-look-even-worse-rcna28348"
     },
     {
       "text": "Steve Benen",
       "url": "https://www.msnbc.com/author/steve-benen-ncpn433601"
     },
     {
-      "text": "Musk's plan for Trump's Twitter account is unsurprisingly toxic",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/elon-musk-trump-twitter-ban-rcna28188"
+      "text": "Pro-Trump network finally walks back bogus claims of voter fraud",
+      "url": "https://www.msnbc.com/morning-joe/watch/pro-trump-network-finally-walks-back-bogus-claims-of-voter-fraud-139774021724"
     },
     {
-      "text": "Ja'han Jones",
-      "url": "https://www.msnbc.com/author/ja-jones-ncpn371241"
+      "text": "Morning Joe",
+      "url": "https://www.msnbc.com/morning-joe"
     },
     {
-      "text": "Senate confirms Lisa Cook; first Black woman on Fed's board of governors",
-      "url": "https://www.msnbc.com/rachel-maddow/watch/senate-confirms-lisa-cook-first-black-woman-on-federal-reserve-s-board-of-governors-139741253778"
+      "text": "Eric Holder: An indictment of Trump should be seriously considered",
+      "url": "https://www.msnbc.com/deadline-white-house/watch/eric-holder-an-indictment-of-trump-should-be-seriously-considered-139806789923"
+    },
+    {
+      "text": "Deadline White House",
+      "url": "https://www.msnbc.com/deadline-white-house"
+    },
+    {
+      "text": "Pressure worsens for Russia's faltering invasion as effects of sanctions loom",
+      "url": "https://www.msnbc.com/rachel-maddow/watch/pressure-worsens-for-russia-s-faltering-invasion-as-effects-of-sanctions-loom-139831365988"
     },
     {
       "text": "Rachel Maddow",
       "url": "https://www.msnbc.com/rachel-maddow-show"
     },
     {
-      "text": "An ex-Wall Street exec is spearheading a scarily effective crusade against public health ",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/groups-fighting-vaccines-hypocritically-oppose-abortions-n1295319"
+      "text": "4 big takeaways that may make you rethink those trending 2022 poll numbers",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/west-virginia-nebraska-results-are-midterms-await-n1295326"
     },
     {
-      "text": "Dr. Kavita Patel",
-      "url": "https://www.msnbc.com/author/dr-kavita-patel-ncpn1241360"
+      "text": "Matthew Dowd",
+      "url": "https://www.msnbc.com/author/matthew-dowd-ncpn1289227"
     },
     {
-      "text": "Richard Haass: If Ukraine wins, Putin might 'be tempted to use chemical or nuclear weapons\u2019",
-      "url": "https://www.msnbc.com/andrea-mitchell-reports/watch/richard-haass-if-ukraine-wins-the-war-putin-might-actually-be-tempted-to-use-chemical-or-nuclear-weapons-139709509937"
+      "text": "'He went too far': Graham slams Trump, praises Biden in newly-released audio",
+      "url": "https://www.msnbc.com/morning-joe/watch/sen-graham-praises-biden-condemns-trump-in-newly-released-audio-139764293746"
     },
     {
-      "text": "Andrea Mitchell Reports",
-      "url": "https://www.msnbc.com/andrea-mitchell"
+      "text": "Morning Joe",
+      "url": "https://www.msnbc.com/morning-joe"
     },
     {
-      "text": "Eric Lee / Bloomberg via Getty Images",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/latest-polling-shows-broad-public-support-leaving-roe-intact-rcna28135"
+      "text": "Following sexual misconduct controversy, GOP congressman resigns",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/sexual-misconduct-controversy-gop-congressman-resigns-rcna28312"
     },
     {
-      "text": "Latest polling shows broad public support for leaving Roe intact",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/latest-polling-shows-broad-public-support-leaving-roe-intact-rcna28135"
+      "text": "Steve Benen",
+      "url": "https://www.msnbc.com/author/steve-benen-ncpn433601"
+    },
+    {
+      "text": "Corbis via Getty Images",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/indigenous-boarding-schools-report-rcna28307"
+    },
+    {
+      "text": "More than 500 Indigenous children killed in federal boarding schools, report finds ",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/indigenous-boarding-schools-report-rcna28307"
+    },
+    {
+      "text": "The ReidOut Blog",
+      "url": "https://www.msnbc.com/reidoutblog"
+    },
+    {
+      "text": "Bill Clark / Pool/AFP via Getty Images, file",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/lisa-cook-federal-reserve-confirmed-rcna28304"
+    },
+    {
+      "text": "The GOP waged a racist smear campaign against Lisa Cook. It failed.",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/lisa-cook-federal-reserve-confirmed-rcna28304"
+    },
+    {
+      "text": "The ReidOut Blog",
+      "url": "https://www.msnbc.com/reidoutblog"
+    },
+    {
+      "text": "Stefani Reynolds / AFP - Getty Images",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-filibuster-derails-bill-codify-roe-v-wade-protections-rcna28402"
+    },
+    {
+      "text": "GOP filibuster derails bill to codify Roe v. Wade protections",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-filibuster-derails-bill-codify-roe-v-wade-protections-rcna28402"
     },
     {
       "text": "Maddowblog",
       "url": "https://www.msnbc.com/maddowblog"
     },
     {
-      "text": "Aboubacar Kante / Bloomberg via Getty Images, file",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/oan-georgia-election-fraud-rcna28105"
+      "text": "Kevin Dietsch / Getty Images",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/scott-offers-ugly-response-biden-hits-plan-pinata-rcna28285"
     },
     {
-      "text": "Pro-Trump news channel finally admits there was no widespread election fraud in Georgia",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/oan-georgia-election-fraud-rcna28105"
+      "text": "Scott offers ugly response as Biden hits his plan like a pi\u00f1ata",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/scott-offers-ugly-response-biden-hits-plan-pinata-rcna28285"
     },
     {
-      "text": "The ReidOut Blog",
-      "url": "https://www.msnbc.com/reidoutblog"
+      "text": "Maddowblog",
+      "url": "https://www.msnbc.com/maddowblog"
+    },
+    {
+      "text": "Kenneth Ferriera / AP",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-voters-ignore-trump-defeat-accused-groper-key-primary-rcna28277"
+    },
+    {
+      "text": "GOP voters ignore Trump, defeat candidate accused of groping in key primary",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-voters-ignore-trump-defeat-accused-groper-key-primary-rcna28277"
+    },
+    {
+      "text": "Maddowblog",
+      "url": "https://www.msnbc.com/maddowblog"
+    },
+    {
+      "text": "Erin Schaff / Pool via AFP via Getty Images",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/justice-alitos-unusual-sources-start-generate-closer-scrutiny-rcna28085"
+    },
+    {
+      "text": "Justice Alito's unusual sources start to generate closer scrutiny ",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/justice-alitos-unusual-sources-start-generate-closer-scrutiny-rcna28085"
+    },
+    {
+      "text": "Maddowblog",
+      "url": "https://www.msnbc.com/maddowblog"
     },
     {
       "text": "Brendan Smialowski / AFP via Getty Images, file",
@@ -7943,64 +8117,16 @@
       "url": "https://www.msnbc.com/reidoutblog"
     },
     {
-      "text": "Mariam Zuhaib / AP",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-senators-want-warnings-tv-viewers-lgbtq-content-rcna28093"
+      "text": "Aboubacar Kante / Bloomberg via Getty Images, file",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/oan-georgia-election-fraud-rcna28105"
     },
     {
-      "text": "GOP senators want on-screen warnings for TV shows with this type of content",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-senators-want-warnings-tv-viewers-lgbtq-content-rcna28093"
-    },
-    {
-      "text": "Maddowblog",
-      "url": "https://www.msnbc.com/maddowblog"
-    },
-    {
-      "text": "Patrick Semansky / AP file",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/clarence-thomas-speaks-shows-profound-lack-self-awareness-rcna27896"
-    },
-    {
-      "text": "Clarence Thomas speaks, shows a profound lack of self-awareness",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/clarence-thomas-speaks-shows-profound-lack-self-awareness-rcna27896"
-    },
-    {
-      "text": "Maddowblog",
-      "url": "https://www.msnbc.com/maddowblog"
-    },
-    {
-      "text": "Jose Luis Magana / AFP via Getty Images",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/another-high-court-leak-suggests-roe-v-wade-deep-trouble-rcna27939"
-    },
-    {
-      "text": "Another Supreme Court leak suggests Roe v. Wade is in deep trouble",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/another-high-court-leak-suggests-roe-v-wade-deep-trouble-rcna27939"
-    },
-    {
-      "text": "Maddowblog",
-      "url": "https://www.msnbc.com/maddowblog"
-    },
-    {
-      "text": "MSNBC / Getty Images",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/desantis-math-textbooks-review-rcna27923"
-    },
-    {
-      "text": "Documents reveal what most reviewers actually said about Florida math textbooks",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/desantis-math-textbooks-review-rcna27923"
+      "text": "Pro-Trump news channel finally admits there was no widespread election fraud in Georgia",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/oan-georgia-election-fraud-rcna28105"
     },
     {
       "text": "The ReidOut Blog",
       "url": "https://www.msnbc.com/reidoutblog"
-    },
-    {
-      "text": "Graeme Sloan / Sipa USA via AP",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-eye-new-restrictions-state-abortions-rcna28076"
-    },
-    {
-      "text": "The GOP wants to restrict out-of-state abortions too. Here are 3 ways it might.",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-eye-new-restrictions-state-abortions-rcna28076"
-    },
-    {
-      "text": "Maddowblog",
-      "url": "https://www.msnbc.com/maddowblog"
     },
     {
       "text": "",
@@ -8009,6 +8135,70 @@
     {
       "text": "MSNBC Daily",
       "url": "https://www.msnbc.com/opinion/columnists"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/sex-education-belongs-schools-republicans-want-it-out-n1295332?icid=msd_topgrid"
+    },
+    {
+      "text": "moral panic",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/sex-education-belongs-schools-republicans-want-it-out-n1295332?icid=msd_topgrid"
+    },
+    {
+      "text": "Republicans want sex ed out of schools. That's a huge mistake.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/sex-education-belongs-schools-republicans-want-it-out-n1295332?icid=msd_topgrid"
+    },
+    {
+      "text": "Hayes Brown",
+      "url": "https://www.msnbc.com/author/hayes-brown-ncpn1243020"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/protesting-outside-supreme-court-justices-homes-good-n1295298?icid=msd_topgrid"
+    },
+    {
+      "text": "democracy at work",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/protesting-outside-supreme-court-justices-homes-good-n1295298?icid=msd_topgrid"
+    },
+    {
+      "text": "The protest outside Brett Kavanaugh's house isn't the problem. Here's what is.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/protesting-outside-supreme-court-justices-homes-good-n1295298?icid=msd_topgrid"
+    },
+    {
+      "text": "Zeeshan Aleem",
+      "url": "https://www.msnbc.com/author/zeeshan-aleem-ncpn1235332"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/why-biden-can-t-fix-his-poll-numbers-inflation-alone-n1295292?icid=msd_topgrid"
+    },
+    {
+      "text": "at what cost?",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/why-biden-can-t-fix-his-poll-numbers-inflation-alone-n1295292?icid=msd_topgrid"
+    },
+    {
+      "text": "Americans don't get how inflation works. That's a problem for Biden.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/why-biden-can-t-fix-his-poll-numbers-inflation-alone-n1295292?icid=msd_topgrid"
+    },
+    {
+      "text": "Hayes Brown",
+      "url": "https://www.msnbc.com/author/hayes-brown-ncpn1243020"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/groups-fighting-vaccines-hypocritically-oppose-abortions-n1295319?icid=msd_topgrid"
+    },
+    {
+      "text": "anti-mask crusade ",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/groups-fighting-vaccines-hypocritically-oppose-abortions-n1295319?icid=msd_topgrid"
+    },
+    {
+      "text": "An ex-Wall Street exec is spearheading a scarily effective crusade against public health ",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/groups-fighting-vaccines-hypocritically-oppose-abortions-n1295319?icid=msd_topgrid"
+    },
+    {
+      "text": "Dr. Kavita Patel",
+      "url": "https://www.msnbc.com/author/dr-kavita-patel-ncpn1241360"
     },
     {
       "text": "",
@@ -8123,240 +8313,172 @@
       "url": "https://www.msnbc.com/author/barbara-mcquade-ncpn1048426"
     },
     {
-      "text": "",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/end-roe-reveals-democrats-have-no-real-abortion-plan-n1295187?icid=msd_topgrid"
-    },
-    {
-      "text": "#Exposed",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/end-roe-reveals-democrats-have-no-real-abortion-plan-n1295187?icid=msd_topgrid"
-    },
-    {
-      "text": "Why everyone is so mad about Democratic Rep. Sean Patrick Maloney's abortion tweet",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/end-roe-reveals-democrats-have-no-real-abortion-plan-n1295187?icid=msd_topgrid"
-    },
-    {
-      "text": "Zeeshan Aleem",
-      "url": "https://www.msnbc.com/author/zeeshan-aleem-ncpn1235332"
-    },
-    {
-      "text": "",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/supreme-court-likely-made-quick-work-killing-roe-n1295129?icid=msd_topgrid"
-    },
-    {
-      "text": "Supreme Court's secret ",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/supreme-court-likely-made-quick-work-killing-roe-n1295129?icid=msd_topgrid"
-    },
-    {
-      "text": "What it means that Justice Alito is writing the decision killing Roe",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/supreme-court-likely-made-quick-work-killing-roe-n1295129?icid=msd_topgrid"
-    },
-    {
-      "text": "Jesse J. Holland",
-      "url": "https://www.msnbc.com/author/jesse-j-holland-ncpn1294300"
-    },
-    {
-      "text": "",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/why-supreme-court-leak-causing-republican-freakout-n1295123?icid=msd_topgrid"
-    },
-    {
-      "text": "GOP freak out ",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/why-supreme-court-leak-causing-republican-freakout-n1295123?icid=msd_topgrid"
-    },
-    {
-      "text": "The real reason the right is freaking out about the Supreme Court leak",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/why-supreme-court-leak-causing-republican-freakout-n1295123?icid=msd_topgrid"
-    },
-    {
-      "text": "Zeeshan Aleem",
-      "url": "https://www.msnbc.com/author/zeeshan-aleem-ncpn1235332"
-    },
-    {
-      "text": "",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/biden-s-dhs-failure-exposes-government-weak-spot-n1295188?icid=msd_topgrid"
-    },
-    {
-      "text": "Misinfo overload ",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/biden-s-dhs-failure-exposes-government-weak-spot-n1295188?icid=msd_topgrid"
-    },
-    {
-      "text": "The irony of Tucker Carlson's latest fearmongering misinfo campaign ",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/biden-s-dhs-failure-exposes-government-weak-spot-n1295188?icid=msd_topgrid"
-    },
-    {
-      "text": "Tiffany C. Li",
-      "url": "https://www.msnbc.com/author/tiffany-c-li-ncpn1243081"
-    },
-    {
       "text": "Subscribe to MSNBC Daily",
       "url": "https://www.msnbc.com/daily-subscribe"
     },
     {
-      "text": "",
-      "url": "https://www.msnbc.com/the-reidout/watch/ted-cruz-singled-out-for-lack-of-support-by-father-of-former-marine-released-from-russia-139747397603"
+      "text": "Al Jazeera via AP",
+      "url": "https://www.msnbc.com/all-in/watch/ayman-mohyeldin-on-the-killing-of-journalist-shireen-abu-akleh-her-humanity-was-unmatched-139824709798"
     },
     {
-      "text": "The Reidout",
-      "url": "https://www.msnbc.com/the-reidout/watch/ted-cruz-singled-out-for-lack-of-support-by-father-of-former-marine-released-from-russia-139747397603"
+      "text": "All In",
+      "url": "https://www.msnbc.com/all"
     },
     {
-      "text": "Ted Cruz slammed by father of former Marine released by Russia",
-      "url": "https://www.msnbc.com/the-reidout/watch/ted-cruz-singled-out-for-lack-of-support-by-father-of-former-marine-released-from-russia-139747397603"
-    },
-    {
-      "text": "",
-      "url": "https://www.msnbc.com/symone/watch/what-will-happen-now-that-covid-funding-has-run-out-139738693570"
-    },
-    {
-      "text": "Symone",
-      "url": "https://www.msnbc.com/symone/watch/what-will-happen-now-that-covid-funding-has-run-out-139738693570"
-    },
-    {
-      "text": "What will happen now that Covid funding has run out?",
-      "url": "https://www.msnbc.com/symone/watch/what-will-happen-now-that-covid-funding-has-run-out-139738693570"
+      "text": "Ayman Mohyeldin on the killing of journalist Shireen Abu Akleh: \u2018Her humanity was unmatched\u2019",
+      "url": "https://www.msnbc.com/all-in/watch/ayman-mohyeldin-on-the-killing-of-journalist-shireen-abu-akleh-her-humanity-was-unmatched-139824709798"
     },
     {
       "text": "",
-      "url": "https://www.msnbc.com/rachel-maddow/watch/as-putin-shows-weakness-u-s-steps-up-aid-to-ukraine-in-sign-of-recalibrated-u-s-role-139663941677"
+      "url": "https://www.msnbc.com/rachel-maddow/watch/alito-s-poorly-reasoned-draft-opinion-would-hurt-supreme-court-credibility-more-than-leaks-139834949534"
     },
     {
       "text": "Rachel Maddow",
       "url": "https://www.msnbc.com/rachel-maddow-show"
     },
     {
-      "text": "As Putin shows weakness, U.S. steps up aid to Ukraine",
-      "url": "https://www.msnbc.com/rachel-maddow/watch/as-putin-shows-weakness-u-s-steps-up-aid-to-ukraine-in-sign-of-recalibrated-u-s-role-139663941677"
+      "text": "Alito's poorly reasoned draft opinion would hurt Supreme Court credibility more than leaks",
+      "url": "https://www.msnbc.com/rachel-maddow/watch/alito-s-poorly-reasoned-draft-opinion-would-hurt-supreme-court-credibility-more-than-leaks-139834949534"
     },
     {
       "text": "",
-      "url": "https://www.msnbc.com/rachel-maddow/watch/gop-fields-candidates-of-questionable-character-as-attacks-on-abortion-rights-intensify-139663429825"
+      "url": "https://www.msnbc.com/zerlina/watch/baby-formula-shortage-leaves-parents-scrambling-139821125841"
     },
     {
-      "text": "Rachel Maddow",
-      "url": "https://www.msnbc.com/rachel-maddow-show"
+      "text": "Zerlina",
+      "url": "https://www.msnbc.com/zerlina/watch/baby-formula-shortage-leaves-parents-scrambling-139821125841"
     },
     {
-      "text": "GOP fields candidates of questionable character as attacks on abortion rights intensify",
-      "url": "https://www.msnbc.com/rachel-maddow/watch/gop-fields-candidates-of-questionable-character-as-attacks-on-abortion-rights-intensify-139663429825"
-    },
-    {
-      "text": "",
-      "url": "https://www.msnbc.com/the-reidout/watch/putin-defends-actions-in-ukraine-in-victory-day-speech-as-russian-donbas-progress-stalls-139657797797"
-    },
-    {
-      "text": "The Reidout",
-      "url": "https://www.msnbc.com/the-reidout/watch/putin-defends-actions-in-ukraine-in-victory-day-speech-as-russian-donbas-progress-stalls-139657797797"
-    },
-    {
-      "text": "Russia using fear, spewing disinformation to justify invasion, expert says ",
-      "url": "https://www.msnbc.com/the-reidout/watch/putin-defends-actions-in-ukraine-in-victory-day-speech-as-russian-donbas-progress-stalls-139657797797"
+      "text": "Parents forced to ration baby formula as shelves empty out ",
+      "url": "https://www.msnbc.com/zerlina/watch/baby-formula-shortage-leaves-parents-scrambling-139821125841"
     },
     {
       "text": "",
-      "url": "https://www.msnbc.com/morning-joe/watch/joe-america-won-t-get-a-sane-republican-party-back-anytime-soon-139673157927"
+      "url": "https://www.msnbc.com/andrea-mitchell-reports/watch/mark-murray-republican-primary-results-in-nebraska-west-virginia-show-how-trump-has-changed-this-party-139798085638"
+    },
+    {
+      "text": "Andrea Mitchell Reports",
+      "url": "https://www.msnbc.com/andrea-mitchell"
+    },
+    {
+      "text": "Mark Murray: GOP primary results show how Trump \u2018has changed this party\u2019 ",
+      "url": "https://www.msnbc.com/andrea-mitchell-reports/watch/mark-murray-republican-primary-results-in-nebraska-west-virginia-show-how-trump-has-changed-this-party-139798085638"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/mtp-daily/watch/arizona-gop-candidate-denies-gender-pay-gap-women-are-not-paid-less-in-america-than-men-139791941517"
+    },
+    {
+      "text": "MTP Daily",
+      "url": "https://www.msnbc.com/mtp-daily"
+    },
+    {
+      "text": "'Women are not paid less': Arizona GOP candidate denies gender pay gap",
+      "url": "https://www.msnbc.com/mtp-daily/watch/arizona-gop-candidate-denies-gender-pay-gap-women-are-not-paid-less-in-america-than-men-139791941517"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/morning-joe/watch/ted-cruz-says-supreme-court-protests-worse-than-january-6-139772485725"
     },
     {
       "text": "Morning Joe",
       "url": "https://www.msnbc.com/morning-joe"
     },
     {
-      "text": "Joe: Why America won't get a sane Republican Party back anytime soon",
-      "url": "https://www.msnbc.com/morning-joe/watch/joe-america-won-t-get-a-sane-republican-party-back-anytime-soon-139673157927"
+      "text": "Ted Cruz says Supreme Court protests worse than January 6",
+      "url": "https://www.msnbc.com/morning-joe/watch/ted-cruz-says-supreme-court-protests-worse-than-january-6-139772485725"
     },
     {
       "text": "",
-      "url": "https://www.msnbc.com/the-beat-with-ari/watch/exclusive-student-suing-maga-gov-desantis-over-don-t-say-gay-bill-speaks-out-139732549638"
+      "url": "https://www.msnbc.com/morning-joe/watch/pilot-suffers-emergency-mid-air-passenger-forced-to-land-plane-139782725537"
     },
     {
-      "text": "The Beat with Ari",
-      "url": "https://www.msnbc.com/the-beat-with-ari-melber"
+      "text": "Morning Joe",
+      "url": "https://www.msnbc.com/morning-joe"
     },
     {
-      "text": "Student suing DeSantis over so-called \u2018Don\u2019t Say Gay\u2019 bill speaks out",
-      "url": "https://www.msnbc.com/the-beat-with-ari/watch/exclusive-student-suing-maga-gov-desantis-over-don-t-say-gay-bill-speaks-out-139732549638"
+      "text": "Pilot suffers emergency mid-air; passenger forced to land plane",
+      "url": "https://www.msnbc.com/morning-joe/watch/pilot-suffers-emergency-mid-air-passenger-forced-to-land-plane-139782725537"
     },
     {
-      "text": "New Mexico wildfire surpasses 200,000 acres as weather worsens",
-      "url": "https://www.nbcnews.com/news/us-news/new-mexico-wildfire-surpasses-200000-acres-weather-worsens-rcna28258"
+      "text": "Police search for gunman who shot three Korean women at Texas hair salon",
+      "url": "https://www.nbcnews.com/news/us-news/police-search-gunman-shot-three-korean-women-texas-hair-salon-rcna28470"
     },
     {
-      "text": "House adopts resolution allowing congressional staffers to unionize",
-      "url": "https://www.nbcnews.com/politics/congress/house-adopts-resolution-allowing-staffers-unionize-rcna28254"
+      "text": "Army poised to revamp Alaska forces to prep for Arctic fight",
+      "url": "https://www.nbcnews.com/news/us-news/army-poised-revamp-alaska-forces-prep-arctic-fight-rcna28476"
     },
     {
-      "text": "Jurors convict Connecticut man of killing wife in \u2018Fitbit murder\u2019 case",
-      "url": "https://www.nbcnews.com/news/us-news/jurors-convict-connecticut-man-killing-wife-fitbit-murder-case-rcna28257"
+      "text": "Palestinians mourn slain Al Jazeera journalist, blame\u00a0Israel",
+      "url": "https://www.nbcnews.com/news/world/palestinians-mourn-slain-al-jazeera-journalist-shireen-abu-akleh-blame-rcna28475"
     },
     {
-      "text": "Vicky White, ex-corrections officer accused of helping Alabama inmate escape, died by suicide, coroner says",
-      "url": "https://www.nbcnews.com/news/us-news/vicky-white-ex-corrections-officer-accused-helping-alabama-inmate-esca-rcna28133"
+      "text": "German airline apologizes for excluding Jewish passengers over alleged mask dispute",
+      "url": "https://www.nbcnews.com/news/world/german-airline-apologizes-jewish-passengers-alleged-mask-dispute-rcna28472"
     },
     {
-      "text": "TSA Instagram post about airport security proposal gets mocked online",
-      "url": "https://www.nbcnews.com/pop-culture/viral/tsa-post-airport-security-proposal-viral-rcna28226"
+      "text": "'Get to work': Climate leaders push solutions and urgency at Miami conference",
+      "url": "https://www.nbcnews.com/science/environment/climate-leaders-push-solutions-urgency-miami-conference-rcna28216"
     },
     {
-      "text": "Trump-backed Rep. Mooney wins W.Va. Republican House primary ",
-      "url": "https://www.nbcnews.com/politics/2022-election/trump-backed-rep-mooney-wins-w-va-republican-house-primary-rcna27685"
+      "text": "Biden to call on world leaders to boost Covid efforts as U.S. funding dwindles",
+      "url": "https://www.nbcnews.com/politics/white-house/biden-call-world-leaders-boost-covid-efforts-us-funding-dwindles-rcna28411"
     },
     {
-      "text": "Arizona to execute first inmate in nearly 8 years after judge rejects arguments",
-      "url": "https://www.nbcnews.com/news/us-news/arizona-execute-first-inmate-nearly-8-years-judge-rejects-challenges-rcna28252"
+      "text": "North Korea fires suspected ballistic missile toward sea",
+      "url": "https://www.nbcnews.com/news/world/north-korea-fires-suspected-ballistic-missile-sea-rcna28468"
     },
     {
-      "text": "New details offer glimpse at how Vicky White, Casey White evaded capture for more than week",
-      "url": "https://www.nbcnews.com/news/us-news/new-details-offer-glimpse-vicky-white-casey-white-evaded-capture-week-rcna28247"
+      "text": "Biden marks 1 million U.S. Covid deaths, urges Americans not to \u2018grow numb\u2019",
+      "url": "https://www.nbcnews.com/politics/white-house/us-marks-1-million-covid-19-deaths-biden-urges-americans-not-grow-numb-rcna28464"
     },
     {
-      "text": "Vermont man accused of killing mom, grandfather to get millions in inheritance",
-      "url": "https://www.nbcnews.com/news/us-news/vermont-man-accused-killing-mom-grandfather-attempt-get-millions-inher-rcna28227"
+      "text": "Bitcoin plunges below $27,000, erases 2021 gains as crypto sell-off intensifies",
+      "url": "https://www.nbcnews.com/tech/crypto/bitcoin-plunges-27000-erases-2021-gains-crypto-sell-intensifies-rcna28467"
     },
     {
-      "text": "Many cities are putting hopes in violence interrupters, but few understand their challenges",
-      "url": "https://www.nbcnews.com/news/us-news/many-cities-are-putting-hopes-violence-interrupters-understand-challen-rcna28118"
+      "text": "Woman fatally shoots her 2 children, self in Gresham",
+      "url": "https://www.nbcnews.com/news/us-news/woman-fatally-shoots-2-children-self-gresham-rcna28463"
     },
     {
-      "text": "In California, campaigns ignore Latino voters who could tip Congress, poll finds",
-      "url": "https://www.nbcnews.com/news/latino/california-latinos-democrats-republicans-outreach-rcna28139"
+      "text": "Top Democrats jockey for 2024 presidential campaign position",
+      "url": "https://www.nbcnews.com/politics/elections/top-democrats-jockey-2024-presidential-campaign-position-rcna28300"
     },
     {
-      "text": "Senate confirms Lisa Cook as first Black woman on Federal Reserve Board",
-      "url": "https://www.nbcnews.com/politics/congress/senate-confirms-lisa-cook-first-black-woman-federal-reserve-board-rcna28223"
+      "text": "Doug Mastriano made his name denying Biden's win. Pennsylvania Republicans now worry he\u2019ll win the governor\u2019s primary.",
+      "url": "https://www.nbcnews.com/politics/2022-election/doug-mastrianos-far-right-path-front-runner-status-upends-pas-gop-prim-rcna28389"
     },
     {
-      "text": "Where are the bodies buried? Climate change is showing us",
-      "url": "https://www.nbcnews.com/news/us-news/are-bodies-buried-climate-change-showing-us-rcna28099"
+      "text": "Zelenskyy's rise: From 'Dancing with the Stars' and 'Paddington 2' to facing down Putin",
+      "url": "https://www.nbcnews.com/news/world/volodymyr-zelenskyy-become-global-phenomenon-rcna24355"
     },
     {
-      "text": "Haitian gang leader charged with kidnapping American missionaries",
-      "url": "https://www.nbcnews.com/politics/justice-department/haitian-gang-leader-charged-kidnapping-american-missionaries-rcna28244"
+      "text": "Russia-Ukraine war live updates: Finland's leaders back NATO bid",
+      "url": "https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-finland-nato-kharkiv-mariupol-rcna28462"
     },
     {
-      "text": "At 93, James Hong finally gets a star on the Hollywood Walk of Fame",
-      "url": "https://www.nbcnews.com/news/asian-america/93-james-hong-finally-gets-star-hollywood-walk-fame-rcna28237"
+      "text": "Finland's leaders urge NATO bid 'without delay'",
+      "url": "https://www.nbcnews.com/news/world/finland-leaders-support-join-nato-russia-ukraine-invasion-putin-rcna28094"
     },
     {
-      "text": "Judge orders New York congressional primary delayed until August",
-      "url": "https://www.nbcnews.com/politics/2022-election/judge-orders-new-york-congressional-primary-delayed-august-rcna28214"
+      "text": "Wind-driven Southern California wildfire destroys homes, burns 195 acres",
+      "url": "https://www.nbcnews.com/news/us-news/wind-driven-southern-california-wildfire-destroys-homes-burns-195-acre-rcna28461"
     },
     {
-      "text": "Black women's lacrosse team pulled over in Georgia, searched for drugs",
-      "url": "https://www.nbcnews.com/news/nbcblk/delaware-state-universitys-womens-lacrosse-team-pulled-georgia-searche-rcna28212"
+      "text": "Baby formula shortage has anxious parents stalking shelves nationwide",
+      "url": "https://www.nbcnews.com/news/us-news/baby-formula-shortage-anxious-parents-stalking-shelves-nationwide-rcna28460"
     },
     {
-      "text": "James Cromwell, 'Babe' and 'Succession' actor, glues self to NYC Starbucks counter in protest ",
-      "url": "https://www.nbcnews.com/news/us-news/james-cromwell-babe-succession-actor-glues-nyc-starbucks-counter-milk-rcna28224"
+      "text": "Man dies while burying woman he strangled, South Carolina officials say",
+      "url": "https://www.nbcnews.com/news/us-news/man-dies-burying-woman-strangled-south-carolina-authorities-say-rcna28459"
     },
     {
-      "text": "Shopping",
-      "url": "https://www.nbcnews.com/select"
+      "text": "Biden calls to congratulate Ferdinand Marcos Jr. after apparent win in Philippines",
+      "url": "https://www.nbcnews.com/news/world/joe-biden-ferdinand-marcos-jr-philippines-rcna28458"
     },
     {
-      "text": "Why we love Aerie's crossover leggings",
-      "url": "https://www.nbcnews.com/select/shopping/aerie-crossover-leggings-ncna1295275"
-    },
-    {
-      "text": "Tom Hiddleston says Loki coming out as bisexual was only a 'small step'",
-      "url": "https://www.nbcnews.com/nbc-out/out-pop-culture/tom-hiddleston-says-loki-coming-bisexual-was-only-small-step-rcna28182"
+      "text": "Hong Kong national security police arrest 90-year-old former archbishop, at least 3 others",
+      "url": "https://www.nbcnews.com/news/world/hong-kong-joseph-zen-denise-ho-arrested-rcna28455"
     },
     {
       "text": "See All",
@@ -8887,20 +9009,36 @@
       "url": "https://www.msnbc.com/the-last-word"
     },
     {
-      "text": "CCPA Notice",
-      "url": "https://ccparequest.taboola.com/"
+      "text": "The Farmer&#39;s Dog",
+      "url": "http://www.thefarmersdog.com/ad50taboola?utm_source=taboola-partner&utm_medium=p-cpc&utm_campaign=The+Farmer%27s+Dog+-+Desktop+No+Data+-+SC&utm_content=nbcuniversal-msnbc&utm_term=ad50taboola&utm_source=taboola&utm_medium=referral&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDi-k0osa26mu6LqYe0AQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDi-k0osa26mu6LqYe0AQ"
     },
     {
-      "text": "SKIMS",
-      "url": "https://skims.com/collections/shapewear?utm_medium=display&utm_source=taboola&utm_campaign=Shapewear+-+Predictive+-+Desktop&utm_content=msnbc.com&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDdgFYoxZi1lqipxNFO#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDdgFYoxZi1lqipxNFO"
-    },
-    {
-      "text": "SKIMS / ",
-      "url": "https://skims.com/collections/shapewear?utm_medium=display&utm_source=taboola&utm_campaign=Shapewear+-+Predictive+-+Desktop&utm_content=msnbc.com&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDdgFYoxZi1lqipxNFO#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDdgFYoxZi1lqipxNFO"
+      "text": "The Farmer's Dog / ",
+      "url": "http://www.thefarmersdog.com/ad50taboola?utm_source=taboola-partner&utm_medium=p-cpc&utm_campaign=The+Farmer%27s+Dog+-+Desktop+No+Data+-+SC&utm_content=nbcuniversal-msnbc&utm_term=ad50taboola&utm_source=taboola&utm_medium=referral&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDi-k0osa26mu6LqYe0AQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDi-k0osa26mu6LqYe0AQ"
     },
     {
       "text": "",
-      "url": "https://skims.com/collections/shapewear?utm_medium=display&utm_source=taboola&utm_campaign=Shapewear+-+Predictive+-+Desktop&utm_content=msnbc.com&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDdgFYoxZi1lqipxNFO#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDdgFYoxZi1lqipxNFO"
+      "url": "http://www.thefarmersdog.com/ad50taboola?utm_source=taboola-partner&utm_medium=p-cpc&utm_campaign=The+Farmer%27s+Dog+-+Desktop+No+Data+-+SC&utm_content=nbcuniversal-msnbc&utm_term=ad50taboola&utm_source=taboola&utm_medium=referral&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDi-k0osa26mu6LqYe0AQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDi-k0osa26mu6LqYe0AQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
+    },
+    {
+      "text": "The Legacy Report",
+      "url": "https://track.legacyclk.com/3b058580-5138-40c2-8225-56c547296440?site=nbcuniversal-msnbc&site_id=1012083&title=Renowned+PhD+Economist+who+called+the+2008+crash+makes+next+major+prediction%3A+%22Stranger+than+2020%22&platform=Desktop&campaign_id=18042595&campaign_item_id=3342376143&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F498ff04f3c2525f2eb8eabe409c20afa.jpg&click_id=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCi1T4oseT0u5i579tE#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCi1T4oseT0u5i579tE"
+    },
+    {
+      "text": "The Legacy Report / ",
+      "url": "https://track.legacyclk.com/3b058580-5138-40c2-8225-56c547296440?site=nbcuniversal-msnbc&site_id=1012083&title=Renowned+PhD+Economist+who+called+the+2008+crash+makes+next+major+prediction%3A+%22Stranger+than+2020%22&platform=Desktop&campaign_id=18042595&campaign_item_id=3342376143&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F498ff04f3c2525f2eb8eabe409c20afa.jpg&click_id=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCi1T4oseT0u5i579tE#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCi1T4oseT0u5i579tE"
+    },
+    {
+      "text": "",
+      "url": "https://track.legacyclk.com/3b058580-5138-40c2-8225-56c547296440?site=nbcuniversal-msnbc&site_id=1012083&title=Renowned+PhD+Economist+who+called+the+2008+crash+makes+next+major+prediction%3A+%22Stranger+than+2020%22&platform=Desktop&campaign_id=18042595&campaign_item_id=3342376143&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F498ff04f3c2525f2eb8eabe409c20afa.jpg&click_id=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCi1T4oseT0u5i579tE#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCi1T4oseT0u5i579tE"
     },
     {
       "text": "SPONSORED",
@@ -8912,35 +9050,35 @@
     },
     {
       "text": "GoldCo",
-      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=nbcuniversal-msnbc&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1012083&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC4tlEo2pPDxOKk0Ztw&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC4tlEo2pPDxOKk0Ztw#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC4tlEo2pPDxOKk0Ztw"
+      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=nbcuniversal-msnbc&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1012083&click_id=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC4tlEoi8SVt5rEo8mHAQ&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC4tlEoi8SVt5rEo8mHAQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC4tlEoi8SVt5rEo8mHAQ"
     },
     {
       "text": "GoldCo / ",
-      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=nbcuniversal-msnbc&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1012083&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC4tlEo2pPDxOKk0Ztw&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC4tlEo2pPDxOKk0Ztw#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC4tlEo2pPDxOKk0Ztw"
+      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=nbcuniversal-msnbc&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1012083&click_id=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC4tlEoi8SVt5rEo8mHAQ&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC4tlEoi8SVt5rEo8mHAQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC4tlEoi8SVt5rEo8mHAQ"
     },
     {
       "text": "",
-      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=nbcuniversal-msnbc&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1012083&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC4tlEo2pPDxOKk0Ztw&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC4tlEo2pPDxOKk0Ztw#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC4tlEo2pPDxOKk0Ztw"
+      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=nbcuniversal-msnbc&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1012083&click_id=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC4tlEoi8SVt5rEo8mHAQ&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC4tlEoi8SVt5rEo8mHAQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC4tlEoi8SVt5rEo8mHAQ"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
     },
     {
-      "text": "Capital One Shopping",
-      "url": "https://capitaloneshopping.com/blog/is-amazon-actually-giving-you-the-best-price-779e00e8958e?hno=true&utm_source=jaguar11&utm_campaign=18082371&utm_term=3355403863&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDR3kAo-6XwwPjwtqSaAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDR3kAo-6XwwPjwtqSaAQ"
+      "text": "hear.com",
+      "url": "https://www.hear.com/d/best_hearing_aids_dis02/?utm_content=3181951130&utm_publisher_ID=nbcuniversal-msnbc&mkt_tool_id=9965c1&act=ACT0000030098ACT&utm_source=taboola&utm_medium=display&utm_campaign=us_en_al_hea_display_taboola_horizon_secret_weapon_acq_desktop_hear-com-sc_ACT0000030098ACT&utm_creative_ID=3181951130&aud_adcopy=Dr.+Vietor+Confirms%3A+These+Are+The+Smartest+Hearing+Aids+Ever&tbclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC0gj8o9prpr5HnzZu6AQ&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC0gj8o9prpr5HnzZu6AQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC0gj8o9prpr5HnzZu6AQ"
     },
     {
-      "text": "Capital One Shopping / ",
-      "url": "https://capitaloneshopping.com/blog/is-amazon-actually-giving-you-the-best-price-779e00e8958e?hno=true&utm_source=jaguar11&utm_campaign=18082371&utm_term=3355403863&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDR3kAo-6XwwPjwtqSaAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDR3kAo-6XwwPjwtqSaAQ"
+      "text": "hear.com / ",
+      "url": "https://www.hear.com/d/best_hearing_aids_dis02/?utm_content=3181951130&utm_publisher_ID=nbcuniversal-msnbc&mkt_tool_id=9965c1&act=ACT0000030098ACT&utm_source=taboola&utm_medium=display&utm_campaign=us_en_al_hea_display_taboola_horizon_secret_weapon_acq_desktop_hear-com-sc_ACT0000030098ACT&utm_creative_ID=3181951130&aud_adcopy=Dr.+Vietor+Confirms%3A+These+Are+The+Smartest+Hearing+Aids+Ever&tbclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC0gj8o9prpr5HnzZu6AQ&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC0gj8o9prpr5HnzZu6AQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC0gj8o9prpr5HnzZu6AQ"
     },
     {
       "text": "",
-      "url": "https://capitaloneshopping.com/blog/is-amazon-actually-giving-you-the-best-price-779e00e8958e?hno=true&utm_source=jaguar11&utm_campaign=18082371&utm_term=3355403863&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDR3kAo-6XwwPjwtqSaAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDR3kAo-6XwwPjwtqSaAQ"
+      "url": "https://www.hear.com/d/best_hearing_aids_dis02/?utm_content=3181951130&utm_publisher_ID=nbcuniversal-msnbc&mkt_tool_id=9965c1&act=ACT0000030098ACT&utm_source=taboola&utm_medium=display&utm_campaign=us_en_al_hea_display_taboola_horizon_secret_weapon_acq_desktop_hear-com-sc_ACT0000030098ACT&utm_creative_ID=3181951130&aud_adcopy=Dr.+Vietor+Confirms%3A+These+Are+The+Smartest+Hearing+Aids+Ever&tbclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC0gj8o9prpr5HnzZu6AQ&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC0gj8o9prpr5HnzZu6AQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byC0gj8o9prpr5HnzZu6AQ"
     },
     {
       "text": "SPONSORED",
@@ -8951,16 +9089,16 @@
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
     },
     {
-      "text": "NewRetirement",
-      "url": "https://www.newretirement.com/retirement/new-reverse-mortgage-calculator-how-to-assess-your-suitability-for-these-loans/?nr_adgroup=acssuit4retire&nr_keyword=3181943397&nr_product=revmort&nr_a=Taboola&nr_placement=nbcuniversal-msnbc&nr_medium=contentmkt&nr_campaign=1559334&nr_creative=How+Much+Money+Do+You+Really+Get+from+a+Reverse+Mortgage%3F&nr_adtype=Desktop&nr_size=3181943397&utm_source=Taboola&utm_medium=contentmkt&utm_content=3181943397&utm_campaign=1559334#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDxtD0ogLqUttzH0-Et"
+      "text": "Antoniglobal",
+      "url": "https://www.antoniglobal.com/products/walking-shoes?utm_source=taboola&utm_medium=referral&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCxqlgojPu_ianqo8aTAQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCxqlgojPu_ianqo8aTAQ"
     },
     {
-      "text": "NewRetirement / ",
-      "url": "https://www.newretirement.com/retirement/new-reverse-mortgage-calculator-how-to-assess-your-suitability-for-these-loans/?nr_adgroup=acssuit4retire&nr_keyword=3181943397&nr_product=revmort&nr_a=Taboola&nr_placement=nbcuniversal-msnbc&nr_medium=contentmkt&nr_campaign=1559334&nr_creative=How+Much+Money+Do+You+Really+Get+from+a+Reverse+Mortgage%3F&nr_adtype=Desktop&nr_size=3181943397&utm_source=Taboola&utm_medium=contentmkt&utm_content=3181943397&utm_campaign=1559334#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDxtD0ogLqUttzH0-Et"
+      "text": "Antoniglobal / ",
+      "url": "https://www.antoniglobal.com/products/walking-shoes?utm_source=taboola&utm_medium=referral&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCxqlgojPu_ianqo8aTAQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCxqlgojPu_ianqo8aTAQ"
     },
     {
       "text": "",
-      "url": "https://www.newretirement.com/retirement/new-reverse-mortgage-calculator-how-to-assess-your-suitability-for-these-loans/?nr_adgroup=acssuit4retire&nr_keyword=3181943397&nr_product=revmort&nr_a=Taboola&nr_placement=nbcuniversal-msnbc&nr_medium=contentmkt&nr_campaign=1559334&nr_creative=How+Much+Money+Do+You+Really+Get+from+a+Reverse+Mortgage%3F&nr_adtype=Desktop&nr_size=3181943397&utm_source=Taboola&utm_medium=contentmkt&utm_content=3181943397&utm_campaign=1559334#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDxtD0ogLqUttzH0-Et"
+      "url": "https://www.antoniglobal.com/products/walking-shoes?utm_source=taboola&utm_medium=referral&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCxqlgojPu_ianqo8aTAQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCxqlgojPu_ianqo8aTAQ"
     },
     {
       "text": "SPONSORED",
@@ -8969,178 +9107,158 @@
     {
       "text": "SPONSORED",
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "Blinds | Search Ads",
+      "url": "https://websearchable.com/topic/23/F5XJ422/?utm_campaign=F5XJ422&ekw=VwKaN0WsRvcJF2SqbhJVOmJYYpbZ84RUv+bG3P6Ao/Y=&g_ci=18117769&g_ai=1012083&g_ai=1012083&g_cn=WS_Tab_Blinds_PB_20220426_3C_D&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQg_ci=18117769&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQ&g_ci=18117769&g_ai=1012083&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQ"
+    },
+    {
+      "text": "Blinds | Search Ads / ",
+      "url": "https://websearchable.com/topic/23/F5XJ422/?utm_campaign=F5XJ422&ekw=VwKaN0WsRvcJF2SqbhJVOmJYYpbZ84RUv+bG3P6Ao/Y=&g_ci=18117769&g_ai=1012083&g_ai=1012083&g_cn=WS_Tab_Blinds_PB_20220426_3C_D&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQg_ci=18117769&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQ&g_ci=18117769&g_ai=1012083&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQ"
+    },
+    {
+      "text": "",
+      "url": "https://websearchable.com/topic/23/F5XJ422/?utm_campaign=F5XJ422&ekw=VwKaN0WsRvcJF2SqbhJVOmJYYpbZ84RUv+bG3P6Ao/Y=&g_ci=18117769&g_ai=1012083&g_ai=1012083&g_cn=WS_Tab_Blinds_PB_20220426_3C_D&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQg_ci=18117769&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQ&g_ci=18117769&g_ai=1012083&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQ#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCc2Vco0Ne7vbe6kYLHAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "Yahoo! Search",
+      "url": "https://search.yahoo.com/yhs/search?hspart=yahoo&hsimp=yhs-mn27a&p=healthy+natural+dog+treats+online&type=%7C1.1012083%7COS26516&param1=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM8Esowd-j06jZx4xq&param2=bct_18159107_1012083&param3=bct_KcPRy49lbg==#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM8Esowd-j06jZx4xq"
+    },
+    {
+      "text": "Yahoo! Search / ",
+      "url": "https://search.yahoo.com/yhs/search?hspart=yahoo&hsimp=yhs-mn27a&p=healthy+natural+dog+treats+online&type=%7C1.1012083%7COS26516&param1=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM8Esowd-j06jZx4xq&param2=bct_18159107_1012083&param3=bct_KcPRy49lbg==#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM8Esowd-j06jZx4xq"
+    },
+    {
+      "text": "",
+      "url": "https://search.yahoo.com/yhs/search?hspart=yahoo&hsimp=yhs-mn27a&p=healthy+natural+dog+treats+online&type=%7C1.1012083%7COS26516&param1=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM8Esowd-j06jZx4xq&param2=bct_18159107_1012083&param3=bct_KcPRy49lbg==#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM8Esowd-j06jZx4xq"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "Auto Savings Center",
+      "url": "https://popularsearches.net/index.php?rgid=183196&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM41YozZ2a4_jqtdle#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM41YozZ2a4_jqtdle"
+    },
+    {
+      "text": "Auto Savings Center / ",
+      "url": "https://popularsearches.net/index.php?rgid=183196&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM41YozZ2a4_jqtdle#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM41YozZ2a4_jqtdle"
+    },
+    {
+      "text": "",
+      "url": "https://popularsearches.net/index.php?rgid=183196&gclid=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM41YozZ2a4_jqtdle#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCM41YozZ2a4_jqtdle"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "SUV Deals | Search Ads",
+      "url": "https://mysearches.net/index.php?rgid=184185&sub=nbcuniversal-msnbc#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCjxUIoq-uLgaPqxNR3"
+    },
+    {
+      "text": "SUV Deals | Search Ads / ",
+      "url": "https://mysearches.net/index.php?rgid=184185&sub=nbcuniversal-msnbc#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCjxUIoq-uLgaPqxNR3"
+    },
+    {
+      "text": "",
+      "url": "https://mysearches.net/index.php?rgid=184185&sub=nbcuniversal-msnbc#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCjxUIoq-uLgaPqxNR3"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "Alaska Cruise Deals | sponsored searches",
+      "url": "https://gosearches.net/index.php?rgid=134812&sub=nbcuniversal-msnbc#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCjoVIos579qonL7NI7"
+    },
+    {
+      "text": "Alaska Cruise Deals | sponsored searches / ",
+      "url": "https://gosearches.net/index.php?rgid=134812&sub=nbcuniversal-msnbc#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCjoVIos579qonL7NI7"
+    },
+    {
+      "text": "",
+      "url": "https://gosearches.net/index.php?rgid=134812&sub=nbcuniversal-msnbc#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCjoVIos579qonL7NI7"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
     },
     {
       "text": "Lifed",
-      "url": "https://collicts-unityprus.com/8e45afda-a9df-4b3e-b262-7206c486d1d1?utm_source=nbcuniversal-msnbc&utm_medium=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDQzE0ou5Hmrszjl-AC&utm_term=11+Beauty+Products+That+Will+Dominate+2022&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fcf445df288fe72480693bd4f26362d38.jpg&utm_campaign_item_id=3378793099&utm_campaign_id=18194333\n#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDQzE0ou5Hmrszjl-AC"
+      "url": "https://collicts-unityprus.com/8e45afda-a9df-4b3e-b262-7206c486d1d1?utm_source=nbcuniversal-msnbc&utm_medium=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDQzE0o0bvsn5bXz692&utm_term=Stunning+Grandma+Reveals+11+Favorite+Beauty+Tips%C2%A0&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F2f27d5120d1aef9eb7de43b813951230.jpg&utm_campaign_item_id=3378793135&utm_campaign_id=18194333\n#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDQzE0o0bvsn5bXz692"
     },
     {
       "text": "Lifed / ",
-      "url": "https://collicts-unityprus.com/8e45afda-a9df-4b3e-b262-7206c486d1d1?utm_source=nbcuniversal-msnbc&utm_medium=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDQzE0ou5Hmrszjl-AC&utm_term=11+Beauty+Products+That+Will+Dominate+2022&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fcf445df288fe72480693bd4f26362d38.jpg&utm_campaign_item_id=3378793099&utm_campaign_id=18194333\n#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDQzE0ou5Hmrszjl-AC"
+      "url": "https://collicts-unityprus.com/8e45afda-a9df-4b3e-b262-7206c486d1d1?utm_source=nbcuniversal-msnbc&utm_medium=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDQzE0o0bvsn5bXz692&utm_term=Stunning+Grandma+Reveals+11+Favorite+Beauty+Tips%C2%A0&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F2f27d5120d1aef9eb7de43b813951230.jpg&utm_campaign_item_id=3378793135&utm_campaign_id=18194333\n#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDQzE0o0bvsn5bXz692"
     },
     {
       "text": "",
-      "url": "https://collicts-unityprus.com/8e45afda-a9df-4b3e-b262-7206c486d1d1?utm_source=nbcuniversal-msnbc&utm_medium=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDQzE0ou5Hmrszjl-AC&utm_term=11+Beauty+Products+That+Will+Dominate+2022&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fcf445df288fe72480693bd4f26362d38.jpg&utm_campaign_item_id=3378793099&utm_campaign_id=18194333\n#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDQzE0ou5Hmrszjl-AC"
+      "url": "https://collicts-unityprus.com/8e45afda-a9df-4b3e-b262-7206c486d1d1?utm_source=nbcuniversal-msnbc&utm_medium=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDQzE0o0bvsn5bXz692&utm_term=Stunning+Grandma+Reveals+11+Favorite+Beauty+Tips%C2%A0&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F2f27d5120d1aef9eb7de43b813951230.jpg&utm_campaign_item_id=3378793135&utm_campaign_id=18194333\n#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDQzE0o0bvsn5bXz692"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "Macular Degeneration Treatment | Search Ads",
-      "url": "https://metasiss.wl.r.appspot.com/routing/click/12d92ab7-c803-4abf-b651-fd84bbaa5d6a?site=nbcuniversal-msnbc&site_id=1012083&title=Symptoms+of+Macular+Degeneration+-+Catching+It+Early+Matters&platform=Desktop&campaign_id=18221996&campaign_item_id=3393280080&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F68b3695a0a1c590b32e62a86657ab9f2.png&campaign_name=mabsut_g-us_v-macular-degeneration_so-tonic_d-02-05-2022_l-w_d-D_set-scale_roi_2022-05-02_s-fire-15169243_var-1&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCnuVYo3oextcbp6Kwn&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCnuVYo3oextcbp6Kwn#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCnuVYo3oextcbp6Kwn"
-    },
-    {
-      "text": "Macular Degeneration Treatment | Search Ads / ",
-      "url": "https://metasiss.wl.r.appspot.com/routing/click/12d92ab7-c803-4abf-b651-fd84bbaa5d6a?site=nbcuniversal-msnbc&site_id=1012083&title=Symptoms+of+Macular+Degeneration+-+Catching+It+Early+Matters&platform=Desktop&campaign_id=18221996&campaign_item_id=3393280080&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F68b3695a0a1c590b32e62a86657ab9f2.png&campaign_name=mabsut_g-us_v-macular-degeneration_so-tonic_d-02-05-2022_l-w_d-D_set-scale_roi_2022-05-02_s-fire-15169243_var-1&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCnuVYo3oextcbp6Kwn&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCnuVYo3oextcbp6Kwn#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCnuVYo3oextcbp6Kwn"
-    },
-    {
-      "text": "",
-      "url": "https://metasiss.wl.r.appspot.com/routing/click/12d92ab7-c803-4abf-b651-fd84bbaa5d6a?site=nbcuniversal-msnbc&site_id=1012083&title=Symptoms+of+Macular+Degeneration+-+Catching+It+Early+Matters&platform=Desktop&campaign_id=18221996&campaign_item_id=3393280080&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F68b3695a0a1c590b32e62a86657ab9f2.png&campaign_name=mabsut_g-us_v-macular-degeneration_so-tonic_d-02-05-2022_l-w_d-D_set-scale_roi_2022-05-02_s-fire-15169243_var-1&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCnuVYo3oextcbp6Kwn&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCnuVYo3oextcbp6Kwn#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCnuVYo3oextcbp6Kwn"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
     },
     {
       "text": "NewRetirement",
-      "url": "https://www.newretirement.com/retirement/new-reverse-mortgage-calculator-how-to-assess-your-suitability-for-these-loans/?nr_adgroup=acssuit4retire&nr_keyword=3233717767&nr_product=revmort&nr_a=Taboola&nr_placement=nbcuniversal-msnbc&nr_medium=contentmkt&nr_campaign=1559334&nr_creative=Get+The+Most+Out+of+Your+Reverse+Mortgage+Loan%21&nr_adtype=Desktop&nr_size=3233717767&utm_source=Taboola&utm_medium=contentmkt&utm_content=3233717767&utm_campaign=1559334#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDxtD0opc3_iK_QzZWuAQ"
+      "url": "https://www.newretirement.com/retirement/new-reverse-mortgage-calculator-assesses-suitability/?nr_adgroup=acssuit4retirev2&nr_keyword=3079798467&nr_product=revmort&nr_a=Taboola&nr_placement=nbcuniversal-msnbc&nr_medium=contentmkt&nr_campaign=514107&nr_creative=How+Much+Money+Do+You+Really+Get+from+a+Reverse+Mortgage%3F&nr_adtype=Desktop&nr_size=3079798467&utm_source=Taboola&utm_medium=contentmkt&utm_content=3079798467&utm_campaign=514107#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDxtD0ouc--huq4u65w"
     },
     {
       "text": "NewRetirement / ",
-      "url": "https://www.newretirement.com/retirement/new-reverse-mortgage-calculator-how-to-assess-your-suitability-for-these-loans/?nr_adgroup=acssuit4retire&nr_keyword=3233717767&nr_product=revmort&nr_a=Taboola&nr_placement=nbcuniversal-msnbc&nr_medium=contentmkt&nr_campaign=1559334&nr_creative=Get+The+Most+Out+of+Your+Reverse+Mortgage+Loan%21&nr_adtype=Desktop&nr_size=3233717767&utm_source=Taboola&utm_medium=contentmkt&utm_content=3233717767&utm_campaign=1559334#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDxtD0opc3_iK_QzZWuAQ"
+      "url": "https://www.newretirement.com/retirement/new-reverse-mortgage-calculator-assesses-suitability/?nr_adgroup=acssuit4retirev2&nr_keyword=3079798467&nr_product=revmort&nr_a=Taboola&nr_placement=nbcuniversal-msnbc&nr_medium=contentmkt&nr_campaign=514107&nr_creative=How+Much+Money+Do+You+Really+Get+from+a+Reverse+Mortgage%3F&nr_adtype=Desktop&nr_size=3079798467&utm_source=Taboola&utm_medium=contentmkt&utm_content=3079798467&utm_campaign=514107#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDxtD0ouc--huq4u65w"
     },
     {
       "text": "",
-      "url": "https://www.newretirement.com/retirement/new-reverse-mortgage-calculator-how-to-assess-your-suitability-for-these-loans/?nr_adgroup=acssuit4retire&nr_keyword=3233717767&nr_product=revmort&nr_a=Taboola&nr_placement=nbcuniversal-msnbc&nr_medium=contentmkt&nr_campaign=1559334&nr_creative=Get+The+Most+Out+of+Your+Reverse+Mortgage+Loan%21&nr_adtype=Desktop&nr_size=3233717767&utm_source=Taboola&utm_medium=contentmkt&utm_content=3233717767&utm_campaign=1559334#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDxtD0opc3_iK_QzZWuAQ"
+      "url": "https://www.newretirement.com/retirement/new-reverse-mortgage-calculator-assesses-suitability/?nr_adgroup=acssuit4retirev2&nr_keyword=3079798467&nr_product=revmort&nr_a=Taboola&nr_placement=nbcuniversal-msnbc&nr_medium=contentmkt&nr_campaign=514107&nr_creative=How+Much+Money+Do+You+Really+Get+from+a+Reverse+Mortgage%3F&nr_adtype=Desktop&nr_size=3079798467&utm_source=Taboola&utm_medium=contentmkt&utm_content=3079798467&utm_campaign=514107#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDxtD0ouc--huq4u65w"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
     },
     {
       "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
     },
     {
-      "text": "2022 SUV Guide | Search Ads",
-      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDO51co6uuvsseD5Kpr#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDO51co6uuvsseD5Kpr"
+      "text": "The Legacy Report",
+      "url": "https://track.legacyclk.com/2ff9fd72-bbd5-4d65-b4e5-efe0b0d27b4f?site=nbcuniversal-msnbc&site_id=1012083&title=Famous+Tech+Investor+Tells%3A+%22Put+%2425+Here+Before+Coinbase+Makes+Their+Next+Move%22&platform=Desktop&campaign_id=18271929&campaign_item_id=3408434056&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F03e290ea744663866250f3070be862bc.jpeg&click_id=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDRpEYo8-iEsKLJicxX&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDRpEYo8-iEsKLJicxX#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDRpEYo8-iEsKLJicxX"
     },
     {
-      "text": "2022 SUV Guide | Search Ads / ",
-      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDO51co6uuvsseD5Kpr#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDO51co6uuvsseD5Kpr"
+      "text": "The Legacy Report / ",
+      "url": "https://track.legacyclk.com/2ff9fd72-bbd5-4d65-b4e5-efe0b0d27b4f?site=nbcuniversal-msnbc&site_id=1012083&title=Famous+Tech+Investor+Tells%3A+%22Put+%2425+Here+Before+Coinbase+Makes+Their+Next+Move%22&platform=Desktop&campaign_id=18271929&campaign_item_id=3408434056&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F03e290ea744663866250f3070be862bc.jpeg&click_id=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDRpEYo8-iEsKLJicxX&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDRpEYo8-iEsKLJicxX#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDRpEYo8-iEsKLJicxX"
     },
     {
       "text": "",
-      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDO51co6uuvsseD5Kpr#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDO51co6uuvsseD5Kpr"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
-    },
-    {
-      "text": "ProstaGenix",
-      "url": "https://vol.prostagenix.com/48997c7b-b147-430d-9089-cebc0001b6a4?cake-aff-id=10&utm_campaign=1974321&utm_medium=display&utm_term=nbcuniversal-msnbc-1012083&utm_content=188907407&platform=Desktop&title=How+To%3A+Boost+Prostate+Health+%28Do+This+Daily%29&image=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3cff2a9fa65cfe095294f476f7562da9.jpg&cake-ad-id=15&utm_source=taboola&utm_medium=referral&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCTk0Iowe3N0-_p_s8s#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCTk0Iowe3N0-_p_s8s"
-    },
-    {
-      "text": "ProstaGenix / ",
-      "url": "https://vol.prostagenix.com/48997c7b-b147-430d-9089-cebc0001b6a4?cake-aff-id=10&utm_campaign=1974321&utm_medium=display&utm_term=nbcuniversal-msnbc-1012083&utm_content=188907407&platform=Desktop&title=How+To%3A+Boost+Prostate+Health+%28Do+This+Daily%29&image=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3cff2a9fa65cfe095294f476f7562da9.jpg&cake-ad-id=15&utm_source=taboola&utm_medium=referral&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCTk0Iowe3N0-_p_s8s#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCTk0Iowe3N0-_p_s8s"
-    },
-    {
-      "text": "",
-      "url": "https://vol.prostagenix.com/48997c7b-b147-430d-9089-cebc0001b6a4?cake-aff-id=10&utm_campaign=1974321&utm_medium=display&utm_term=nbcuniversal-msnbc-1012083&utm_content=188907407&platform=Desktop&title=How+To%3A+Boost+Prostate+Health+%28Do+This+Daily%29&image=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3cff2a9fa65cfe095294f476f7562da9.jpg&cake-ad-id=15&utm_source=taboola&utm_medium=referral&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCTk0Iowe3N0-_p_s8s#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCTk0Iowe3N0-_p_s8s"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
-      "text": "Diabetes  | Search Ads",
-      "url": "https://metasiss.wl.r.appspot.com/routing/click/ac85124c-0457-41f7-a7d8-cf07a76412ff?site=nbcuniversal-msnbc&site_id=1012083&title=Diabetes+Treatments+That+Your+Doctor+May+Not+Know+About&platform=Desktop&campaign_id=18064437&campaign_item_id=3351577048&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fdb751fd2176fd9b1b7dd826f3407ab4f.jpg&campaign_name=mabsut_g-us_v-diabetes-treatment_so-tonic_d-24-04-2022_l-w_d-D_set-+spy-v3_user-liron_var-1&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYo-YTlu7uA-d6SAQ&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYo-YTlu7uA-d6SAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYo-YTlu7uA-d6SAQ"
-    },
-    {
-      "text": "Diabetes  | Search Ads / ",
-      "url": "https://metasiss.wl.r.appspot.com/routing/click/ac85124c-0457-41f7-a7d8-cf07a76412ff?site=nbcuniversal-msnbc&site_id=1012083&title=Diabetes+Treatments+That+Your+Doctor+May+Not+Know+About&platform=Desktop&campaign_id=18064437&campaign_item_id=3351577048&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fdb751fd2176fd9b1b7dd826f3407ab4f.jpg&campaign_name=mabsut_g-us_v-diabetes-treatment_so-tonic_d-24-04-2022_l-w_d-D_set-+spy-v3_user-liron_var-1&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYo-YTlu7uA-d6SAQ&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYo-YTlu7uA-d6SAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYo-YTlu7uA-d6SAQ"
-    },
-    {
-      "text": "",
-      "url": "https://metasiss.wl.r.appspot.com/routing/click/ac85124c-0457-41f7-a7d8-cf07a76412ff?site=nbcuniversal-msnbc&site_id=1012083&title=Diabetes+Treatments+That+Your+Doctor+May+Not+Know+About&platform=Desktop&campaign_id=18064437&campaign_item_id=3351577048&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fdb751fd2176fd9b1b7dd826f3407ab4f.jpg&campaign_name=mabsut_g-us_v-diabetes-treatment_so-tonic_d-24-04-2022_l-w_d-D_set-+spy-v3_user-liron_var-1&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYo-YTlu7uA-d6SAQ&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYo-YTlu7uA-d6SAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYo-YTlu7uA-d6SAQ"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
-      "text": "vckopter",
-      "url": "https://www.vckopter.com/products/sora-bra-%EF%BF%BDc-front-closure-5d-shaping-push-up-bra-%EF%BF%BDc-seamless--beauty-back--comfy?utm_source=taboola&utm_medium=referral&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDqnlgokMqt4NSnj-flAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDqnlgokMqt4NSnj-flAQ"
-    },
-    {
-      "text": "vckopter / ",
-      "url": "https://www.vckopter.com/products/sora-bra-%EF%BF%BDc-front-closure-5d-shaping-push-up-bra-%EF%BF%BDc-seamless--beauty-back--comfy?utm_source=taboola&utm_medium=referral&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDqnlgokMqt4NSnj-flAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDqnlgokMqt4NSnj-flAQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.vckopter.com/products/sora-bra-%EF%BF%BDc-front-closure-5d-shaping-push-up-bra-%EF%BF%BDc-seamless--beauty-back--comfy?utm_source=taboola&utm_medium=referral&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDqnlgokMqt4NSnj-flAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDqnlgokMqt4NSnj-flAQ"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
-      "text": "Forge Of Empires",
-      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_us_us_wl_broad&external_param=3008480516&pid=nbcuniversal-msnbc&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDJqD8o0f2wobDv5dSDAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDJqD8o0f2wobDv5dSDAQ"
-    },
-    {
-      "text": "Forge Of Empires / ",
-      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_us_us_wl_broad&external_param=3008480516&pid=nbcuniversal-msnbc&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDJqD8o0f2wobDv5dSDAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDJqD8o0f2wobDv5dSDAQ"
-    },
-    {
-      "text": "",
-      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_us_us_wl_broad&external_param=3008480516&pid=nbcuniversal-msnbc&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDJqD8o0f2wobDv5dSDAQ#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiDJqD8o0f2wobDv5dSDAQ"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
-      "text": "SPONSORED",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
-    },
-    {
-      "text": "CarsGenius",
-      "url": "https://carsgenius.com/?view=compact&vw=body&hm=min&cond=used&hl=13&pre=10&post=6&hr=suv&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364029&s1cid=18086292&s1agid=cg-q2-sell-car-dt-hm-RON&s1kid=nbcuniversal-msnbc&utm_source=taboola&tbclid=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC9oFMogPWH_ZSniJsD#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC9oFMogPWH_ZSniJsD"
-    },
-    {
-      "text": "CarsGenius / ",
-      "url": "https://carsgenius.com/?view=compact&vw=body&hm=min&cond=used&hl=13&pre=10&post=6&hr=suv&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364029&s1cid=18086292&s1agid=cg-q2-sell-car-dt-hm-RON&s1kid=nbcuniversal-msnbc&utm_source=taboola&tbclid=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC9oFMogPWH_ZSniJsD#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC9oFMogPWH_ZSniJsD"
-    },
-    {
-      "text": "",
-      "url": "https://carsgenius.com/?view=compact&vw=body&hm=min&cond=used&hl=13&pre=10&post=6&hr=suv&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364029&s1cid=18086292&s1agid=cg-q2-sell-car-dt-hm-RON&s1kid=nbcuniversal-msnbc&utm_source=taboola&tbclid=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC9oFMogPWH_ZSniJsD#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiC9oFMogPWH_ZSniJsD"
+      "url": "https://track.legacyclk.com/2ff9fd72-bbd5-4d65-b4e5-efe0b0d27b4f?site=nbcuniversal-msnbc&site_id=1012083&title=Famous+Tech+Investor+Tells%3A+%22Put+%2425+Here+Before+Coinbase+Makes+Their+Next+Move%22&platform=Desktop&campaign_id=18271929&campaign_item_id=3408434056&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F03e290ea744663866250f3070be862bc.jpeg&click_id=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDRpEYo8-iEsKLJicxX&tblci=GiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDRpEYo8-iEsKLJicxX#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byDRpEYo8-iEsKLJicxX"
     },
     {
       "text": "SPONSORED",
@@ -9151,16 +9269,16 @@
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 5:"
     },
     {
-      "text": "Blood Sugar Level  | Search Ads",
-      "url": "https://metasiss.wl.r.appspot.com/routing/click/1b3fef7b-4855-4fff-96d0-01693c3530ea?site=nbcuniversal-msnbc&site_id=1012083&title=Indicators+of+High+Blood+Sugar+-+Some+May+Find+Concerning&platform=Desktop&campaign_id=18064430&campaign_item_id=3351573791&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F702580e1c77e6102225c3b38141f1969.jpg&campaign_name=mabsut_g-us_v-blood-sugar-level_so-tonic_d-24-04-2022_l-w_d-D_set-spy-v3_user-liron_var-1&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYok-e92Im9mMxg&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYok-e92Im9mMxg#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYok-e92Im9mMxg"
+      "text": "New E-Bikes | Search Ads",
+      "url": "https://searchthese.net/index.php?rgid=217339&sub=nbcuniversal-msnbc#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCO2Vcol9O9uouur-XDAQ"
     },
     {
-      "text": "Blood Sugar Level  | Search Ads / ",
-      "url": "https://metasiss.wl.r.appspot.com/routing/click/1b3fef7b-4855-4fff-96d0-01693c3530ea?site=nbcuniversal-msnbc&site_id=1012083&title=Indicators+of+High+Blood+Sugar+-+Some+May+Find+Concerning&platform=Desktop&campaign_id=18064430&campaign_item_id=3351573791&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F702580e1c77e6102225c3b38141f1969.jpg&campaign_name=mabsut_g-us_v-blood-sugar-level_so-tonic_d-24-04-2022_l-w_d-D_set-spy-v3_user-liron_var-1&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYok-e92Im9mMxg&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYok-e92Im9mMxg#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYok-e92Im9mMxg"
+      "text": "New E-Bikes | Search Ads / ",
+      "url": "https://searchthese.net/index.php?rgid=217339&sub=nbcuniversal-msnbc#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCO2Vcol9O9uouur-XDAQ"
     },
     {
       "text": "",
-      "url": "https://metasiss.wl.r.appspot.com/routing/click/1b3fef7b-4855-4fff-96d0-01693c3530ea?site=nbcuniversal-msnbc&site_id=1012083&title=Indicators+of+High+Blood+Sugar+-+Some+May+Find+Concerning&platform=Desktop&campaign_id=18064430&campaign_item_id=3351573791&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F702580e1c77e6102225c3b38141f1969.jpg&campaign_name=mabsut_g-us_v-blood-sugar-level_so-tonic_d-24-04-2022_l-w_d-D_set-spy-v3_user-liron_var-1&click_id=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYok-e92Im9mMxg&tblci=GiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYok-e92Im9mMxg#tblciGiDtF7tNpFCXxq8XXjDBjqmDyAC8zKsuqXvVEEtdbEktAiCquVYok-e92Im9mMxg"
+      "url": "https://searchthese.net/index.php?rgid=217339&sub=nbcuniversal-msnbc#tblciGiBJIKKklLkg9s8Y8yRqhuwBWcen-ahIQLWRunWq9zu8byCO2Vcol9O9uouur-XDAQ"
     },
     {
       "text": "SPONSORED",
@@ -9247,10 +9365,10 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "server": "ia801005.us.archive.org",
-  "uniq": 1787654732,
+  "server": "ia601005.us.archive.org",
+  "uniq": 849297888,
   "workable_servers": [
-    "ia801005.us.archive.org",
-    "ia601005.us.archive.org"
+    "ia601005.us.archive.org",
+    "ia801005.us.archive.org"
   ]
 }
