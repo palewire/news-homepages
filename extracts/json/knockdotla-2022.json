@@ -1,5 +1,5 @@
 {
-  "created": 1652401340,
+  "created": 1652487725,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/24/items/knockdotla-2022",
@@ -3368,31 +3368,73 @@
       "sha1": "4111280f26187ee73eb5d04568d19734e9e91253"
     },
     {
+      "name": "knockdotla-2022-05-13T06:50:14.550425-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652449820",
+      "size": "10962",
+      "md5": "93e1e8b187dc67ddedde6e84f542ea27",
+      "crc32": "b6e6ea65",
+      "sha1": "288af2e78b5b6675e32574329a21649d24916e7e",
+      "format": "JSON"
+    },
+    {
+      "name": "knockdotla-2022-05-13T06:50:14.550425-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652449822",
+      "size": "12661",
+      "md5": "5a1deb33223ea9fb6ac76247920552cd",
+      "crc32": "76b8318d",
+      "sha1": "2f31b67f744a2ce7990832a05fdd1cc3350607c9",
+      "format": "JSON"
+    },
+    {
+      "name": "knockdotla-2022-05-13T06:50:14.550425-07:00.jpg",
+      "source": "original",
+      "mtime": "1652449818",
+      "size": "234272",
+      "md5": "f369966b1a4220f6bd51716a1051da38",
+      "crc32": "5ffa435c",
+      "sha1": "0b4d5d3d7016dd6ece19be8f55f25b2f95ffd0cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knockdotla-2022-05-13T06:50:14.550425-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knockdotla-2022-05-13T06:50:14.550425-07:00.jpg",
+      "mtime": "1652460328",
+      "size": "8883",
+      "md5": "8cd1bfec806f1b71503797db2a9ad570",
+      "crc32": "f73948cb",
+      "sha1": "4111280f26187ee73eb5d04568d19734e9e91253"
+    },
+    {
       "name": "knockdotla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "194f8dac6f48763de80287b0bade730b657b7bf2",
-      "mtime": "1652322038",
-      "size": "68894",
-      "md5": "5fdef1b4ac01615c516e04b58ba7d4b2",
-      "crc32": "8057af60",
-      "sha1": "3ecc6750a008cfe002be12b46aa98bf23dd72706",
+      "btih": "259deb88a742afe4381de64d1b789a92455514be",
+      "mtime": "1652460385",
+      "size": "69751",
+      "md5": "b5bb6b55385545e90368243dfdfb851d",
+      "crc32": "e14928d0",
+      "sha1": "d17c002f7acdf71837d8d1fd43b3f878f3538f60",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knockdotla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "241992bc1fbde6bd97386f4210a53927",
+      "md5": "3353b185b97a42e873516e5f70142498",
       "summation": "md5"
     },
     {
       "name": "knockdotla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652321888",
-      "size": "376832",
-      "md5": "01a3327d25c4b69d5b72d9ecdb474d7c",
-      "crc32": "203041a3",
-      "sha1": "a3ab7bd4e53f899c9300b26ade0e7d62fdc7d013",
+      "mtime": "1652451539",
+      "size": "380928",
+      "md5": "7c024f6b4831bdaec64e72589269bc5e",
+      "crc32": "430a9538",
+      "sha1": "de476ab8e1c0a40999f1c9b243a6a6178714ffcd",
       "format": "Metadata"
     },
     {
@@ -3406,9 +3448,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 323,
-  "item_last_updated": 1652322038,
-  "item_size": 22437653,
+  "files_count": 327,
+  "item_last_updated": 1652460385,
+  "item_size": 22709384,
   "knockdotla-2022": [
     {
       "text": "News",
@@ -3744,9 +3786,9 @@
     "addeddate": "2022-03-23 02:08:17"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 2043572305,
+  "servers_unavailable": true,
+  "uniq": 1917915679,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia802507.us.archive.org"
   ]
 }
