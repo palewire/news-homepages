@@ -1,5 +1,5 @@
 {
-  "created": 1652487896,
+  "created": 1652574534,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -1722,31 +1722,73 @@
       "sha1": "bc14fc009f5faf662cbb4a10162a0d2ae656d8f8"
     },
     {
+      "name": "washtimes-2022-05-14T14:42:56.252552-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652553781",
+      "size": "90411",
+      "md5": "2ec85ec2502432d46a9e0a37174e97e9",
+      "crc32": "51c64025",
+      "sha1": "de9485913768cb7f33c1c18ad88c343db414d1e0",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-05-14T14:42:56.252552-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652553782",
+      "size": "55105",
+      "md5": "d57059bee0348efc6310da0e7c11ddd0",
+      "crc32": "bc01e6bd",
+      "sha1": "dcd244d3a44404b32f15b9a970d225df22a5d3e9",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-05-14T14:42:56.252552-04:00.jpg",
+      "source": "original",
+      "mtime": "1652553779",
+      "size": "318777",
+      "md5": "b3a1a121426afd519bbb01e2fae39bd1",
+      "crc32": "0ac89a16",
+      "sha1": "517ef10eead2246264a577ace640a54184209a48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-05-14T14:42:56.252552-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-05-14T14:42:56.252552-04:00.jpg",
+      "mtime": "1652554662",
+      "size": "10652",
+      "md5": "8471dceb4619178adc3f8446a107f215",
+      "crc32": "45f403c5",
+      "sha1": "8476006172e69efa7b81708e570a48d1358c1740"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f75c84d7848d3b508d9c1101e6cb5fb05756b57f",
-      "mtime": "1652474916",
-      "size": "36124",
-      "md5": "7c903fffe82eff72119c654993a06137",
-      "crc32": "b0edc4dd",
-      "sha1": "963ced80480f83c66a487a7917faa73230931175",
+      "btih": "bdad43598d968427fe592fde696df92519b75188",
+      "mtime": "1652554692",
+      "size": "36978",
+      "md5": "8af23444e015b371aaa55f05bfe74c6b",
+      "crc32": "777a6b28",
+      "sha1": "fc9201ceee9e4b61666559d3ebefa4e99e49db77",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dace8434c9b127e0a9e6ad497b827e1a",
+      "md5": "342b17fa2e912272a22d1e8909980fcc",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652467532",
-      "size": "204800",
-      "md5": "c3444e11a0a98bfe510d3bc3493af1df",
-      "crc32": "59620aad",
-      "sha1": "e8fae9412b971ef17bcc98f19ac66a290ea5fec7",
+      "mtime": "1652553816",
+      "size": "208896",
+      "md5": "1c13741e416af73bb083e0313657220c",
+      "crc32": "0ae1d365",
+      "sha1": "5a1efc245e52be8b127e23a3b25a2f9ccce4df04",
       "format": "Metadata"
     },
     {
@@ -1760,9 +1802,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 167,
-  "item_last_updated": 1652474916,
-  "item_size": 20193142,
+  "files_count": 171,
+  "item_last_updated": 1652554692,
+  "item_size": 20673037,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -1780,7 +1822,7 @@
     "addeddate": "2022-03-25 18:45:19"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 111383205,
+  "uniq": 1259040865,
   "washtimes-2022": [
     {
       "text": "Skip to content",
@@ -2311,20 +2353,24 @@
       "url": "/specials/capitol-hill-show-podcast/"
     },
     {
-      "text": "NEW: Tim Constantine\u2019s Capitol Hill Show",
+      "text": "Americans plod cluelessly toward EV disaster",
       "url": "/specials/capitol-hill-show-podcast/"
-    },
-    {
-      "text": "Ukraine",
-      "url": "/topics/ukraine/"
     },
     {
       "text": "Russia",
       "url": "/topics/russia/"
     },
     {
+      "text": "Ukraine",
+      "url": "/topics/ukraine/"
+    },
+    {
       "text": "Donald Trump",
       "url": "/topics/donald-trump/"
+    },
+    {
+      "text": "Elon Musk",
+      "url": "/topics/elon-musk/"
     },
     {
       "text": "Kyiv",
@@ -2335,48 +2381,52 @@
       "url": "/topics/north-atlantic-treaty-organization/"
     },
     {
-      "text": "Moscow",
-      "url": "/topics/moscow/"
+      "text": "Republican Party",
+      "url": "/topics/republican-party/"
     },
     {
-      "text": "Federal Bureau of Investigation",
-      "url": "/topics/federal-bureau-of-investigation/"
+      "text": "Twitter",
+      "url": "/topics/twitter/"
     },
     {
-      "text": "Finland",
-      "url": "/topics/finland/"
+      "text": "Australia",
+      "url": "/topics/australia/"
     },
     {
-      "text": "Senate",
-      "url": "/topics/senate/"
-    },
-    {
-      "text": "Washington",
-      "url": "/topics/washington/"
+      "text": "Brittney Griner",
+      "url": "/topics/brittney-griner/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/13/emotional-jen-psaki-bids-adieu-press-thanks-bidens/"
+      "url": "/news/2022/may/14/griners-extended-detention-disappointing-to-her-wn/"
     },
     {
-      "text": "Emotional Jen Psaki bids adieu to press, thanks Bidens",
-      "url": "/news/2022/may/13/emotional-jen-psaki-bids-adieu-press-thanks-bidens/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/13/us-defense-chief-talks-russian-counterpart/"
-    },
-    {
-      "text": "U.S. defense chief talks with Russian counterpart",
-      "url": "/news/2022/may/13/us-defense-chief-talks-russian-counterpart/"
+      "text": "Griner\u2019s extended detention disappointing to her WNBA family",
+      "url": "/news/2022/may/14/griners-extended-detention-disappointing-to-her-wn/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/13/nyc-mayor-eric-adams-faces-slipping-approval-rate-/"
+      "url": "/news/2022/may/14/israel-police-to-investigate-conduct-at-journalist/"
     },
     {
-      "text": "Mayor Adams enjoys celebrity status as man about town but can\u2019t shake NYC\u2019s woes",
-      "url": "/news/2022/may/13/nyc-mayor-eric-adams-faces-slipping-approval-rate-/"
+      "text": "Israeli police to investigate conduct at journalist funeral",
+      "url": "/news/2022/may/14/israel-police-to-investigate-conduct-at-journalist/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/14/finlands-president-to-putin-we-will-apply-to-join-/"
+    },
+    {
+      "text": "Finland\u2019s president to Putin: we will apply to join NATO",
+      "url": "/news/2022/may/14/finlands-president-to-putin-we-will-apply-to-join-/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/mickelson-decides-not-to-defend-title-at-pga-champ/"
+    },
+    {
+      "text": "Mickelson decides not to defend title at PGA Championship",
+      "url": "/news/2022/may/13/mickelson-decides-not-to-defend-title-at-pga-champ/"
     },
     {
       "text": "",
@@ -2388,39 +2438,31 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/13/elon-musk-says-twitter-deal-temporarily-on-hold/"
-    },
-    {
-      "text": "Elon Musk says Twitter deal \u2018temporarily on hold,\u2019 but he\u2019s still committed to the acquisition",
-      "url": "/news/2022/may/13/elon-musk-says-twitter-deal-temporarily-on-hold/"
-    },
-    {
-      "text": "",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=5%2F13%2F2022"
+      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D4&id=id4&path=%2F&date=5%2F14%2F2022"
     },
     {
       "text": "Doctor: \u201cDoing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)\u201d",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=5%2F13%2F2022"
+      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D4&id=id4&path=%2F&date=5%2F14%2F2022"
     },
     {
-      "text": "McConnell: Impact of Supreme Court's anticipated abortion ruling will be a 'wash' in midterms",
-      "url": "https://www.washingtontimes.com/news/2022/may/13/mitch-mcconnell-impact-of-supreme-courts-anticipat/"
+      "text": "Baby formula crisis punctuates steep decline in support for Biden, Dems, with suburban women voters",
+      "url": "https://www.washingtontimes.com/news/2022/may/14/baby-formula-crisis-punctuates-steep-decline-suppo/"
     },
     {
       "text": "Xi Jinping to step down, rumors suggest, amid harsh China COVID lockdowns",
       "url": "https://www.washingtontimes.com/news/2022/may/11/xi-jinping-step-down-rumors-suggest-amid-harsh-chi/"
     },
     {
-      "text": "FBI comes calling, terrifies mom of three who spoke out at school board meeting",
-      "url": "https://www.washingtontimes.com/news/2022/may/12/fbi-comes-calling-terrifies-mom-three-who-spoke-ou/"
+      "text": "Rift widens as conservative shareholders get short shrift from 'woke' companies",
+      "url": "https://www.washingtontimes.com/news/2022/may/13/rift-widen-conservative-shareholders-get-short-shr/"
     },
     {
       "text": "Russian battalion wiped out in failed river crossing in eastern Ukraine",
       "url": "https://www.washingtontimes.com/news/2022/may/13/russian-battalion-wiped-out-failed-river-crossing-/"
     },
     {
-      "text": "Fusion GPS ordered to turn over 22 emails to John Durham",
-      "url": "https://www.washingtontimes.com/news/2022/may/12/fusion-gps-ordered-turn-over-22-emails-john-durham/"
+      "text": "DIA: Intel suggests COVID virus was lab-engineered",
+      "url": "https://www.washingtontimes.com/news/2022/may/11/dia-intel-suggests-covid-virus-was-lab-engineered/"
     },
     {
       "text": "Inside The Beltway",
@@ -2479,16 +2521,76 @@
       "url": "//www.washingtontimes.com/puzzles/sudoku/"
     },
     {
-      "text": "Whistleblowers: FBI probed parents under counterterrorism \u2018threat tag\u2019 for protesting school boards",
-      "url": "/news/2022/may/12/whistleblowers-fbi-probed-parents-under-counterter/"
+      "text": "McConnell leads Senate Republicans in unannounced visit to Kyiv",
+      "url": "/news/2022/may/14/mcconnell-leads-senate-republicans-unannounced-vis/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/12/whistleblowers-fbi-probed-parents-under-counterter/"
+      "url": "/news/2022/may/14/mcconnell-leads-senate-republicans-unannounced-vis/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/14/baby-formula-crisis-punctuates-steep-decline-suppo/"
+    },
+    {
+      "text": "Baby formula crisis punctuates steep decline in support for Biden, Dems, with suburban moms",
+      "url": "/news/2022/may/14/baby-formula-crisis-punctuates-steep-decline-suppo/"
     },
     {
       "text": "Susan Ferrechio",
       "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
+    },
+    {
+      "text": "Mica Soellner",
+      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/mitch-mcconnell-impact-of-supreme-courts-anticipat/"
+    },
+    {
+      "text": "McConnell: Impact of Supreme Court\u2019s anticipated abortion ruling will be a \u2018wash\u2019 in midterms",
+      "url": "/news/2022/may/13/mitch-mcconnell-impact-of-supreme-courts-anticipat/"
+    },
+    {
+      "text": "Tom Howell Jr.",
+      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/14/trump-backs-doug-mastriano-pennsylvania-gop-govern/"
+    },
+    {
+      "text": "Trump backs Mastriano in Pa. GOP governor primary",
+      "url": "/news/2022/may/14/trump-backs-doug-mastriano-pennsylvania-gop-govern/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/congress-rallies-aid-ukraine-end-state-murky-some-/"
+    },
+    {
+      "text": "Congress rallies to aid Ukraine; end-state murky for some lawmakers",
+      "url": "/news/2022/may/13/congress-rallies-aid-ukraine-end-state-murky-some-/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/vulnerable-democrats-spend-heavily-dark-horse-repu/"
+    },
+    {
+      "text": "Vulnerable Democrats spend heavily on dark-horse Republicans they hope to beat in November",
+      "url": "/news/2022/may/13/vulnerable-democrats-spend-heavily-dark-horse-repu/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/house-dems-sound-alarm-inflation-fears-mount-about/"
+    },
+    {
+      "text": "House Dems sound alarm on inflation as fears mount about election losses in November",
+      "url": "/news/2022/may/13/house-dems-sound-alarm-inflation-fears-mount-about/"
     },
     {
       "text": "",
@@ -2497,70 +2599,6 @@
     {
       "text": "Turkish leader Erdogan pours cold water on NATO membership for Finland, Sweden",
       "url": "/news/2022/may/13/turkish-president-recep-tayyip-erdogan-pours-cold-/"
-    },
-    {
-      "text": "David R. Sands",
-      "url": "https://www.washingtontimes.com/staff/david-r-sands/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/how-putins-war-ukraine-has-backfired-spectacularly/"
-    },
-    {
-      "text": "How Putin\u2019s war in Ukraine has backfired spectacularly",
-      "url": "/news/2022/may/12/how-putins-war-ukraine-has-backfired-spectacularly/"
-    },
-    {
-      "text": "Ben Wolfgang",
-      "url": "https://www.washingtontimes.com/staff/ben-wolfgang/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/biden-scrambles-address-baby-formula-shortage-crit/"
-    },
-    {
-      "text": "Biden scrambles to address baby formula shortage as critics say he was caught flat-footed",
-      "url": "/news/2022/may/12/biden-scrambles-address-baby-formula-shortage-crit/"
-    },
-    {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
-    },
-    {
-      "text": "Kerry Picket",
-      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/13/mitch-mcconnell-impact-of-supreme-courts-anticipat/"
-    },
-    {
-      "text": "McConnell: Impact of Supreme Court's anticipated abortion ruling will be a 'wash' in midterms",
-      "url": "/news/2022/may/13/mitch-mcconnell-impact-of-supreme-courts-anticipat/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/jan-6-panel-subpoenas-mccarthy-four-other-gop-lawm/"
-    },
-    {
-      "text": "Jan. 6 panel subpoenas McCarthy, four other GOP lawmakers",
-      "url": "/news/2022/may/12/jan-6-panel-subpoenas-mccarthy-four-other-gop-lawm/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/joe-biden-cancels-massive-oil-and-gas-lease-sale-d/"
-    },
-    {
-      "text": "Biden cancels massive oil and gas lease sale, draws outrage from the energy sector",
-      "url": "/news/2022/may/12/joe-biden-cancels-massive-oil-and-gas-lease-sale-d/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/trump-warns-kathy-barnette-will-never-win-pa-senat/"
-    },
-    {
-      "text": "Trump warns that Republican Barnette 'will never' win Pa. Senate seat, redoubles support for Dr. Oz",
-      "url": "/news/2022/may/12/trump-warns-kathy-barnette-will-never-win-pa-senat/"
     },
     {
       "text": "",
@@ -2580,47 +2618,43 @@
     },
     {
       "text": "",
+      "url": "/news/2022/may/14/ukraine-favorite-to-win-eurovision-song-contest-am/"
+    },
+    {
+      "text": "Ukraine favorite to win Eurovision Song Contest amid war",
+      "url": "/news/2022/may/14/ukraine-favorite-to-win-eurovision-song-contest-am/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/bette-midler-slammed-after-telling-women-try-breas/"
+    },
+    {
+      "text": "Bette Midler slammed after telling women to \u2018try breastfeeding\u2019 amid baby formula shortage",
+      "url": "/news/2022/may/13/bette-midler-slammed-after-telling-women-try-breas/"
+    },
+    {
+      "text": "Valerie Richardson",
+      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/elon-musk-less-divisive-candidate-preferable-trump/"
+    },
+    {
+      "text": "Elon Musk: Less divisive candidate preferable to Trump in 2024, Biden misreading his mandate",
+      "url": "/news/2022/may/13/elon-musk-less-divisive-candidate-preferable-trump/"
+    },
+    {
+      "text": "Tom Howell Jr.",
+      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+    },
+    {
+      "text": "",
       "url": "/news/2022/may/13/pro-life-documentary-looks-abortion-after-roe/"
     },
     {
       "text": "Pro-life documentary looks at abortion after Roe",
       "url": "/news/2022/may/13/pro-life-documentary-looks-abortion-after-roe/"
-    },
-    {
-      "text": "Sean Salai",
-      "url": "https://www.washingtontimes.com/staff/sean-salai/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/protester-amy-coney-barrett-gave-birth-five-times-/"
-    },
-    {
-      "text": "Protester says Amy Coney Barrett, who gave birth five times, doesn\u2019t understand pregnancy",
-      "url": "/news/2022/may/12/protester-amy-coney-barrett-gave-birth-five-times-/"
-    },
-    {
-      "text": "Valerie Richardson",
-      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/most-battleground-voters-oppose-transgender-agenda/"
-    },
-    {
-      "text": "Most battleground voters oppose \u2018transgender agenda\u2019 on education, sports, medicine: poll",
-      "url": "/news/2022/may/12/most-battleground-voters-oppose-transgender-agenda/"
-    },
-    {
-      "text": "Valerie Richardson",
-      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/colorado-mom-school-pushed-transgenderism-12-year-/"
-    },
-    {
-      "text": "Colorado mom says school pushed transgenderism on her 12-year-old daughter",
-      "url": "/news/2022/may/12/colorado-mom-school-pushed-transgenderism-12-year-/"
     },
     {
       "text": "Sean Salai",
@@ -2633,62 +2667,6 @@
     {
       "text": "View all ",
       "url": "/news/white-house/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/13/biden-looks-nudge-asean-leaders-speak-out-russia/"
-    },
-    {
-      "text": "Biden looks to nudge ASEAN leaders to speak out on Russia",
-      "url": "/news/2022/may/13/biden-looks-nudge-asean-leaders-speak-out-russia/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/biden-scrambles-address-baby-formula-shortage-crit/"
-    },
-    {
-      "text": "Biden scrambles to address baby formula shortage as critics say he was caught flat-footed",
-      "url": "/news/2022/may/12/biden-scrambles-address-baby-formula-shortage-crit/"
-    },
-    {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
-    },
-    {
-      "text": "Kerry Picket",
-      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/joe-biden-cancels-massive-oil-and-gas-lease-sale-d/"
-    },
-    {
-      "text": "Biden cancels massive oil and gas lease sale, draws outrage from the energy sector",
-      "url": "/news/2022/may/12/joe-biden-cancels-massive-oil-and-gas-lease-sale-d/"
-    },
-    {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/12/biden-looks-overseas-baby-formula-address-monthslo/"
-    },
-    {
-      "text": "Biden looks overseas for baby formula to address the monthslong shortage in the U.S.",
-      "url": "/news/2022/may/12/biden-looks-overseas-baby-formula-address-monthslo/"
-    },
-    {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics/"
-    },
-    {
-      "text": "View all ",
-      "url": "/news/politics/"
     },
     {
       "text": "",
@@ -2708,39 +2686,91 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/13/nyc-mayor-eric-adams-faces-slipping-approval-rate-/"
+      "url": "/news/2022/may/13/biden-looks-nudge-asean-leaders-speak-out-russia/"
     },
     {
-      "text": "Mayor Adams enjoys celebrity status as man about town but can\u2019t shake NYC\u2019s woes",
-      "url": "/news/2022/may/13/nyc-mayor-eric-adams-faces-slipping-approval-rate-/"
+      "text": "Biden looks to nudge ASEAN leaders to speak out on Russia",
+      "url": "/news/2022/may/13/biden-looks-nudge-asean-leaders-speak-out-russia/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/12/joe-biden-cancels-massive-oil-and-gas-lease-sale-d/"
+    },
+    {
+      "text": "Biden cancels massive oil and gas lease sale, draws outrage from the energy sector",
+      "url": "/news/2022/may/12/joe-biden-cancels-massive-oil-and-gas-lease-sale-d/"
+    },
+    {
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/12/biden-tells-global-leaders-resist-covid-19-complac/"
+    },
+    {
+      "text": "Biden tells global leaders to resist COVID-19 complacency",
+      "url": "/news/2022/may/12/biden-tells-global-leaders-resist-covid-19-complac/"
     },
     {
       "text": "Tom Howell Jr.",
       "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
     },
     {
-      "text": "",
-      "url": "/news/2022/may/13/mike-pence-breaks-trump-campaign-brian-kemp-georgi/"
+      "text": "Politics",
+      "url": "/news/politics/"
     },
     {
-      "text": "Pence breaks with Trump to campaign for Kemp in Georgia\u2019s governor race",
-      "url": "/news/2022/may/13/mike-pence-breaks-trump-campaign-brian-kemp-georgi/"
+      "text": "View all ",
+      "url": "/news/politics/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/14/mcconnell-leads-senate-republicans-unannounced-vis/"
+    },
+    {
+      "text": "McConnell leads Senate Republicans in unannounced visit to Kyiv",
+      "url": "/news/2022/may/14/mcconnell-leads-senate-republicans-unannounced-vis/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/14/baby-formula-crisis-punctuates-steep-decline-suppo/"
+    },
+    {
+      "text": "Baby formula crisis punctuates steep decline in support for Biden, Dems, with suburban moms",
+      "url": "/news/2022/may/14/baby-formula-crisis-punctuates-steep-decline-suppo/"
     },
     {
       "text": "Susan Ferrechio",
       "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
     },
     {
+      "text": "Mica Soellner",
+      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
+    },
+    {
       "text": "",
-      "url": "/news/2022/may/13/elon-musk-less-divisive-candidate-preferable-trump/"
+      "url": "/news/2022/may/14/trump-backs-doug-mastriano-pennsylvania-gop-govern/"
     },
     {
-      "text": "Elon Musk: Less divisive candidate preferable to Trump in 2024, Biden misreading his mandate",
-      "url": "/news/2022/may/13/elon-musk-less-divisive-candidate-preferable-trump/"
+      "text": "Trump backs Mastriano in Pa. GOP governor primary",
+      "url": "/news/2022/may/14/trump-backs-doug-mastriano-pennsylvania-gop-govern/"
     },
     {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "",
+      "url": "/news/2022/may/13/congress-rallies-aid-ukraine-end-state-murky-some-/"
+    },
+    {
+      "text": "Congress rallies to aid Ukraine; end-state murky for some lawmakers",
+      "url": "/news/2022/may/13/congress-rallies-aid-ukraine-end-state-murky-some-/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "Dive Deeper",
@@ -2812,11 +2842,31 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/13/health-experts-time-kill-screens-and-send-kids-bac/"
+      "url": "/news/2022/may/14/20-injured-in-milwaukee-shootings-after-bucks-play/"
     },
     {
-      "text": "Health experts: Time to kill screens and send kids back to camp",
-      "url": "/news/2022/may/13/health-experts-time-kill-screens-and-send-kids-bac/"
+      "text": "20 injured in Milwaukee shootings after Bucks playoff game",
+      "url": "/news/2022/may/14/20-injured-in-milwaukee-shootings-after-bucks-play/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/dont-expect-high-gas-prices-decrease-anytime-soon-/"
+    },
+    {
+      "text": "Don\u2019t expect high gas prices to decrease anytime soon, oil executive warns",
+      "url": "/news/2022/may/13/dont-expect-high-gas-prices-decrease-anytime-soon-/"
+    },
+    {
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/rift-widen-conservative-shareholders-get-short-shr/"
+    },
+    {
+      "text": "Rift widens as conservative shareholders get short shrift from \u2018woke\u2019 companies",
+      "url": "/news/2022/may/13/rift-widen-conservative-shareholders-get-short-shr/"
     },
     {
       "text": "Sean Salai",
@@ -2824,27 +2874,15 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/13/us-grappling-with-native-american-boarding-school-/"
+      "url": "/news/2022/may/13/nyc-mayor-eric-adams-faces-slipping-approval-rate-/"
     },
     {
-      "text": "U.S. grappling with Native American boarding school history",
-      "url": "/news/2022/may/13/us-grappling-with-native-american-boarding-school-/"
+      "text": "Mayor Adams enjoys celebrity status as man about town but can\u2019t shake NYC\u2019s woes",
+      "url": "/news/2022/may/13/nyc-mayor-eric-adams-faces-slipping-approval-rate-/"
     },
     {
-      "text": "",
-      "url": "/news/2022/may/13/wisconsin-governor-asks-panel-to-reconsider-killer/"
-    },
-    {
-      "text": "Wisconsin governor asks panel to reconsider killer\u2019s parole",
-      "url": "/news/2022/may/13/wisconsin-governor-asks-panel-to-reconsider-killer/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/13/resigning-north-dakota-senator-led-lawmakers-in-tr/"
-    },
-    {
-      "text": "Resigning North Dakota senator led lawmakers in travel costs",
-      "url": "/news/2022/may/13/resigning-north-dakota-senator-led-lawmakers-in-tr/"
+      "text": "Tom Howell Jr.",
+      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
     },
     {
       "text": "World",
@@ -2856,31 +2894,19 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/13/us-defense-chief-talks-russian-counterpart/"
+      "url": "/news/2022/may/14/israel-police-to-investigate-conduct-at-journalist/"
     },
     {
-      "text": "U.S. defense chief talks with Russian counterpart",
-      "url": "/news/2022/may/13/us-defense-chief-talks-russian-counterpart/"
-    },
-    {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+      "text": "Israeli police to investigate conduct at journalist funeral",
+      "url": "/news/2022/may/14/israel-police-to-investigate-conduct-at-journalist/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/13/pope-to-visit-canada-to-apologize-for-indigenous-a/"
+      "url": "/news/2022/may/14/finlands-president-to-putin-we-will-apply-to-join-/"
     },
     {
-      "text": "Pope to visit Canada to apologize for Indigenous abuses",
-      "url": "/news/2022/may/13/pope-to-visit-canada-to-apologize-for-indigenous-a/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/13/unionists-block-new-n-ireland-govt-over-brexit-tra/"
-    },
-    {
-      "text": "Unionists block new N Ireland govt over Brexit trade rules",
-      "url": "/news/2022/may/13/unionists-block-new-n-ireland-govt-over-brexit-tra/"
+      "text": "Finland\u2019s president to Putin: we will apply to join NATO",
+      "url": "/news/2022/may/14/finlands-president-to-putin-we-will-apply-to-join-/"
     },
     {
       "text": "",
@@ -2895,6 +2921,14 @@
       "url": "https://www.washingtontimes.com/staff/david-r-sands/"
     },
     {
+      "text": "",
+      "url": "/news/2022/may/13/north-korea-confirms-21-new-deaths-as-it-battles-c/"
+    },
+    {
+      "text": "North Korea confirms 21 new deaths as it battles COVID-19",
+      "url": "/news/2022/may/13/north-korea-confirms-21-new-deaths-as-it-battles-c/"
+    },
+    {
       "text": "Sports",
       "url": "/sports/"
     },
@@ -2904,27 +2938,19 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/13/americans-bet-125b-on-sports-in-4-years-since-lega/"
+      "url": "/news/2022/may/13/mickelson-decides-not-to-defend-title-at-pga-champ/"
     },
     {
-      "text": "Americans bet $125B on sports in 4 years since legalization",
-      "url": "/news/2022/may/13/americans-bet-125b-on-sports-in-4-years-since-lega/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/13/detention-of-wnbas-griner-in-moscow-extended-for-1/"
-    },
-    {
-      "text": "Detention of WNBA\u2019s Griner in Moscow extended for 1 month",
-      "url": "/news/2022/may/13/detention-of-wnbas-griner-in-moscow-extended-for-1/"
+      "text": "Mickelson decides not to defend title at PGA Championship",
+      "url": "/news/2022/may/13/mickelson-decides-not-to-defend-title-at-pga-champ/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/12/commanders-open-season-against-jaguars-releases-20/"
+      "url": "/news/2022/may/14/capitals-core-hit-another-wall-tough-questions-eme/"
     },
     {
-      "text": "Commanders open season against Jaguars, full 2022 schedule released",
-      "url": "/news/2022/may/12/commanders-open-season-against-jaguars-releases-20/"
+      "text": "Capitals\u2019 core hits another wall as tough questions emerge",
+      "url": "/news/2022/may/14/capitals-core-hit-another-wall-tough-questions-eme/"
     },
     {
       "text": "Matthew Paras",
@@ -2932,15 +2958,23 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/12/rob-manfred-has-settle-orioles-nationals-fight/"
+      "url": "/news/2022/may/13/capitals-lose-game-6-panthers-ot-end-fourth-straig/"
     },
     {
-      "text": "LOVERRO: Time for Manfred to settle the MASN dispute between Orioles, Nationals",
-      "url": "/news/2022/may/12/rob-manfred-has-settle-orioles-nationals-fight/"
+      "text": "Capitals lose Game 6 to Panthers in OT, end fourth straight season with first-round playoff exit",
+      "url": "/news/2022/may/13/capitals-lose-game-6-panthers-ot-end-fourth-straig/"
     },
     {
-      "text": "Thom Loverro",
-      "url": "https://www.washingtontimes.com/staff/thom-loverro/"
+      "text": "Jacob Calvin Meyer",
+      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/13/astros-roll-past-nationals-in-dusty-bakers-return-/"
+    },
+    {
+      "text": "Astros roll past Nationals in Baker\u2019s return to District",
+      "url": "/news/2022/may/13/astros-roll-past-nationals-in-dusty-bakers-return-/"
     },
     {
       "text": "Sponsored Content",
@@ -3011,28 +3045,28 @@
       "url": ""
     },
     {
-      "text": "Tim Murtaugh",
-      "url": "/staff/tim-murtaugh/"
+      "text": "Tom Basile",
+      "url": "/staff/tom-basile/"
     },
     {
-      "text": "Media attack, distort and misrepresent draft Supreme Court ruling",
-      "url": "/news/2022/may/12/media-attack-distort-and-misrepresent-draft-suprem/"
-    },
-    {
-      "text": "",
-      "url": ""
+      "text": "The \u2018ultra-MAGA\u2019 monster mirage",
+      "url": "/news/2022/may/13/the-ultra-maga-monster-mirage/"
     },
     {
       "text": "",
       "url": ""
     },
     {
-      "text": "Scott Walker",
-      "url": "/staff/scott-walker/"
+      "text": "",
+      "url": ""
     },
     {
-      "text": "Don\u2019t hold your breath waiting for DOJ to protect pro-life groups",
-      "url": "/news/2022/may/12/dont-hold-your-breath-waiting-for-doj-to-protect-p/"
+      "text": "Michael McKenna",
+      "url": "/staff/michael-mckenna/"
+    },
+    {
+      "text": "Florida\u2019s Rick Scott is a man with a plan",
+      "url": "/news/2022/may/13/floridas-rick-scott-is-a-man-with-a-plan/"
     },
     {
       "text": "MORE COLUMNISTS ",
@@ -3108,6 +3142,30 @@
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
+      "url": "/news/2022/may/13/the-ultra-maga-monster-mirage/"
+    },
+    {
+      "text": "The \u2018ultra-MAGA\u2019 monster mirage",
+      "url": "/news/2022/may/13/the-ultra-maga-monster-mirage/"
+    },
+    {
+      "text": "Tom Basile",
+      "url": "https://www.washingtontimes.com/staff/tom-basile/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
+      "url": "/news/2022/may/13/floridas-rick-scott-is-a-man-with-a-plan/"
+    },
+    {
+      "text": "Florida\u2019s Rick Scott is a man with a plan",
+      "url": "/news/2022/may/13/floridas-rick-scott-is-a-man-with-a-plan/"
+    },
+    {
+      "text": "Michael McKenna",
+      "url": "https://www.washingtontimes.com/staff/michael-mckenna/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
       "url": "/news/2022/may/12/america-needs-a-fiscal-responsibility-amendment/"
     },
     {
@@ -3139,26 +3197,6 @@
       "url": "https://www.washingtontimes.com/staff/scott-walker/"
     },
     {
-      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/may/12/boycott-penalize-western-corporations-still-operat/"
-    },
-    {
-      "text": "Boycott, penalize Western corporations still operating in Russia",
-      "url": "/news/2022/may/12/boycott-penalize-western-corporations-still-operat/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/may/12/meet-janet-yellen-margaret-sanger-for-modern-ameri/"
-    },
-    {
-      "text": "Meet Janet Yellen: Margaret Sanger for modern America",
-      "url": "/news/2022/may/12/meet-janet-yellen-margaret-sanger-for-modern-ameri/"
-    },
-    {
-      "text": "Charles Hurt",
-      "url": "https://www.washingtontimes.com/staff/charles-hurt/"
-    },
-    {
       "text": "Latest Cartoon",
       "url": "/cartoons/"
     },
@@ -3172,7 +3210,7 @@
     },
     {
       "text": "View results",
-      "url": "/polls/2022/may/10/if-roe-v-wade-overturned-will-it-affect-other-soci/results/"
+      "url": "/polls/2022/may/13/who-or-what-responsible-baby-formula-shortage/results/"
     },
     {
       "text": "Washington Commanders team name and logo reveal from Fedex Field",
@@ -3267,20 +3305,24 @@
       "url": "/news/security/"
     },
     {
+      "text": "Finland\u2019s president to Putin: we will apply to join NATO",
+      "url": "/news/2022/may/14/finlands-president-to-putin-we-will-apply-to-join-/"
+    },
+    {
+      "text": "4 Air Force cadets may not graduate due to vaccine refusal",
+      "url": "/news/2022/may/14/4-air-force-cadets-may-not-graduate-due-to-vaccine/"
+    },
+    {
       "text": "Greece grants U.S. troops access to military bases",
       "url": "/news/2022/may/13/greece-grants-us-troops-access-military-bases/"
     },
     {
-      "text": "Biden looks to nudge ASEAN leaders to speak out on Russia",
-      "url": "/news/2022/may/13/biden-looks-nudge-asean-leaders-speak-out-russia/"
-    },
-    {
-      "text": "How Putin\u2019s war in Ukraine has backfired spectacularly",
-      "url": "/news/2022/may/12/how-putins-war-ukraine-has-backfired-spectacularly/"
-    },
-    {
       "text": "D.C. Local",
       "url": "/news/local/"
+    },
+    {
+      "text": "Ex-convict admits fraud, bogus tax returns for pro athletes",
+      "url": "/news/2022/may/13/ex-convict-admits-fraud-bogus-tax-returns-for-pro-/"
     },
     {
       "text": "Jimmy Lai, imprisoned Hong Kong activist, to receive honorary degree",
@@ -3291,44 +3333,44 @@
       "url": "/news/2022/may/12/frustration-builds-over-dojs-lackluster-response-p/"
     },
     {
-      "text": "Maryland governor signs bills to strengthen cybersecurity",
-      "url": "/news/2022/may/12/maryland-governor-signs-bills-to-strengthen-cybers/"
-    },
-    {
       "text": "World",
       "url": "/news/world/"
     },
     {
-      "text": "U.S. defense chief talks with Russian counterpart",
-      "url": "/news/2022/may/13/us-defense-chief-talks-russian-counterpart/"
+      "text": "Israeli police to investigate conduct at journalist funeral",
+      "url": "/news/2022/may/14/israel-police-to-investigate-conduct-at-journalist/"
     },
     {
-      "text": "Pope to visit Canada to apologize for Indigenous abuses",
-      "url": "/news/2022/may/13/pope-to-visit-canada-to-apologize-for-indigenous-a/"
+      "text": "Finland\u2019s president to Putin: we will apply to join NATO",
+      "url": "/news/2022/may/14/finlands-president-to-putin-we-will-apply-to-join-/"
     },
     {
-      "text": "Unionists block new N Ireland govt over Brexit trade rules",
-      "url": "/news/2022/may/13/unionists-block-new-n-ireland-govt-over-brexit-tra/"
+      "text": "Turkish leader Erdogan pours cold water on NATO membership for Finland, Sweden",
+      "url": "/news/2022/may/13/turkish-president-recep-tayyip-erdogan-pours-cold-/"
     },
     {
       "text": "Business & Economy",
       "url": "/news/business-economy/"
     },
     {
-      "text": "Americans bet $125B on sports in 4 years since legalization",
+      "text": "Don\u2019t expect high gas prices to decrease anytime soon, oil executive warns",
+      "url": "/news/2022/may/13/dont-expect-high-gas-prices-decrease-anytime-soon-/"
+    },
+    {
+      "text": "Bitcoin tumbles, a stablecoin plunges in wild week in crypto",
+      "url": "/news/2022/may/13/bitcoin-tumbles-a-stablecoin-plunges-in-wild-week-/"
+    },
+    {
+      "text": "Americans bet $125 billion on sports in four years since legalization",
       "url": "/news/2022/may/13/americans-bet-125b-on-sports-in-4-years-since-lega/"
-    },
-    {
-      "text": "Stocks rally on Wall Street but still face 6th weekly loss",
-      "url": "/news/2022/may/13/stocks-rally-on-wall-street-but-still-face-6th-wee/"
-    },
-    {
-      "text": "A timeline of billionaire Elon Musk\u2019s bid to control Twitter",
-      "url": "/news/2022/may/13/a-timeline-of-billionaire-elon-musks-bid-to-contro/"
     },
     {
       "text": "Faith & Family",
       "url": "/news/faith-family/"
+    },
+    {
+      "text": "Some Catholic abortion foes are uneasy about overturning Roe",
+      "url": "/news/2022/may/13/some-catholic-abortion-foes-are-uneasy-about-overt/"
     },
     {
       "text": "Pope to visit Canada to apologize for Indigenous abuses",
@@ -3339,40 +3381,36 @@
       "url": "/news/2022/may/13/jimmy-lai-imprisoned-hong-kong-activist-receive-ho/"
     },
     {
-      "text": "McConnell: Impact of Supreme Court\u2019s anticipated abortion ruling will be a \u2018wash\u2019 in midterms",
-      "url": "/news/2022/may/13/mitch-mcconnell-impact-of-supreme-courts-anticipat/"
-    },
-    {
       "text": "Health",
       "url": "/culture/health/"
     },
     {
-      "text": "Health experts: Time to kill screens and send kids back to camp",
-      "url": "/news/2022/may/13/health-experts-time-kill-screens-and-send-kids-bac/"
+      "text": "South Africa in new surge of COVID from versions of omicron",
+      "url": "/news/2022/may/14/south-africa-in-new-surge-of-covid-from-versions-o/"
     },
     {
-      "text": "Mayor Adams enjoys celebrity status as man about town but can\u2019t shake NYC\u2019s woes",
-      "url": "/news/2022/may/13/nyc-mayor-eric-adams-faces-slipping-approval-rate-/"
+      "text": "China cites pandemic and withdraws as host of 2023 Asian Cup",
+      "url": "/news/2022/may/14/china-cites-pandemic-and-withdraws-as-host-of-2023/"
     },
     {
-      "text": "Nurses protest Tennessee sentence for deadly medical mistake",
-      "url": "/news/2022/may/13/nurses-protest-tennessee-sentence-for-deadly-medic/"
+      "text": "Transgender medication law in Alabama blocked by judge",
+      "url": "/news/2022/may/14/transgender-medication-law-in-alabama-blocked-by-j/"
     },
     {
       "text": "Entertainment",
       "url": "/culture/entertainment/"
     },
     {
-      "text": "Americans bet $125B on sports in 4 years since legalization",
-      "url": "/news/2022/may/13/americans-bet-125b-on-sports-in-4-years-since-lega/"
+      "text": "Ukraine favorite to win Eurovision Song Contest amid war",
+      "url": "/news/2022/may/14/ukraine-favorite-to-win-eurovision-song-contest-am/"
     },
     {
-      "text": "Pro-life documentary looks at abortion after Roe",
-      "url": "/news/2022/may/13/pro-life-documentary-looks-abortion-after-roe/"
+      "text": "\u2018Chrisley Knows Best\u2019 stars to stand trial in Atlanta",
+      "url": "/news/2022/may/14/chrisley-knows-best-stars-to-stand-trial-in-atlant/"
     },
     {
-      "text": "Jesse Williams addresses leak of Broadway nude scene",
-      "url": "/news/2022/may/13/jesse-williams-addresses-leak-of-broadway-nude-sce/"
+      "text": "Bette Midler slammed after telling women to \u2018try breastfeeding\u2019 amid baby formula shortage",
+      "url": "/news/2022/may/13/bette-midler-slammed-after-telling-women-try-breas/"
     },
     {
       "text": "Travel",
@@ -3411,32 +3449,32 @@
       "url": "/specials/energy-environment-news/"
     },
     {
-      "text": "New Mexico wildfire grows; California fire destroys mansions",
-      "url": "/news/2022/may/12/new-mexico-wildfire-grows-california-fire-destroys/"
+      "text": "Don't expect high gas prices to decrease anytime soon, oil executive warns",
+      "url": "/news/2022/may/13/dont-expect-high-gas-prices-decrease-anytime-soon-/"
     },
     {
       "text": "Banking & Finance",
       "url": "/specials/banking-finance/"
     },
     {
-      "text": "Crypto comes to Washington. Will the millions buy influence?",
-      "url": "/news/2022/may/12/crypto-comes-to-washington-will-the-millions-buy-i/"
+      "text": "'Chrisley Knows Best' stars to stand trial in Atlanta",
+      "url": "/news/2022/may/14/chrisley-knows-best-stars-to-stand-trial-in-atlant/"
     },
     {
       "text": "Coronavirus (COVID-19) pandemic updates",
       "url": "/specials/coronavirus-covid-19-pandemic-updates/"
     },
     {
-      "text": "Mayor Adams enjoys celebrity status as man about town but can't shake NYC's woes",
-      "url": "/news/2022/may/13/nyc-mayor-eric-adams-faces-slipping-approval-rate-/"
+      "text": "South Africa in new surge of COVID from versions of omicron",
+      "url": "/news/2022/may/14/south-africa-in-new-surge-of-covid-from-versions-o/"
     },
     {
       "text": "Second Amendment & Gun Control",
       "url": "/specials/second-amendment-and-gun-control/"
     },
     {
-      "text": "Activists fight Tennessee proposal to make gun owners 'police'",
-      "url": "/news/2022/feb/24/activists-fight-tennessee-proposal-make-gun-owners/"
+      "text": "Trump expected to speak at NRA's annual meeting",
+      "url": "/news/2022/may/12/donald-trump-expected-speak-nras-annual-meeting/"
     },
     {
       "text": "Immigration Reform",
@@ -3459,8 +3497,8 @@
       "url": "/specials/defense-aerospace/"
     },
     {
-      "text": "Greece grants U.S. troops access to military bases",
-      "url": "/news/2022/may/13/greece-grants-us-troops-access-military-bases/"
+      "text": "McConnell leads Senate Republicans in unannounced visit to Kyiv",
+      "url": "/news/2022/may/14/mcconnell-leads-senate-republicans-unannounced-vis/"
     },
     {
       "text": "Taxes & Budget",

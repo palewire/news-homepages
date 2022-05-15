@@ -1,5 +1,5 @@
 {
-  "created": 1652487700,
+  "created": 1652570127,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/gbpressgazette-2022",
@@ -2018,31 +2018,73 @@
       "sha1": "c8ad23016e2ee8d9eb99b5af55b4892eb7137830"
     },
     {
+      "name": "gbpressgazette-2022-05-14T18:06:42.095203-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652569605",
+      "size": "21375",
+      "md5": "757e00610b4e45c854318e2a734e482d",
+      "crc32": "5a38e74d",
+      "sha1": "e91f84f3b96d82e37fc361a8a41f72b0a9b62188",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-05-14T18:06:42.095203-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652569607",
+      "size": "34535",
+      "md5": "a97a7d56c683dab166601f301ee6346c",
+      "crc32": "ada3c1e5",
+      "sha1": "cbac3c73940abfb80f591a0f535eb3f6e88761fb",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-05-14T18:06:42.095203-05:00.jpg",
+      "source": "original",
+      "mtime": "1652569603",
+      "size": "325726",
+      "md5": "138db5628dd229c1106d95c86d8777a0",
+      "crc32": "3a8f88ed",
+      "sha1": "c7ae711c25a997e1cb5f2284998f45e67feee049",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gbpressgazette-2022-05-14T18:06:42.095203-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gbpressgazette-2022-05-14T18:06:42.095203-05:00.jpg",
+      "mtime": "1652570044",
+      "size": "10225",
+      "md5": "5799189e244e7d29939d672147a8ee23",
+      "crc32": "8997f37c",
+      "sha1": "3f5dcfdb376b46997bc764fc8d507c812e00c19c"
+    },
+    {
       "name": "gbpressgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f7add1997bbdd2a9292fd3fbf4095a2de1bd7f4",
-      "mtime": "1652487617",
-      "size": "42786",
-      "md5": "eab73145d087bc6ebc79a0e07b29d6fe",
-      "crc32": "181b1a2f",
-      "sha1": "ef67cfd6eb296a058d7a6739ebd6c6971af50955",
+      "btih": "a14512b5350eb71b9992a41027b006ea9a7ac575",
+      "mtime": "1652570081",
+      "size": "43660",
+      "md5": "10dc246da1c5454c19eecef98c335b61",
+      "crc32": "9af85556",
+      "sha1": "cbf47a7e21f9cfca42f9eb9e4330d8bc6efee8d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gbpressgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "41d511aee66f1dbb7754b5a70cea3abe",
+      "md5": "ce71db8eca95a7e3ea9e07fc3c5d0acd",
       "summation": "md5"
     },
     {
       "name": "gbpressgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652483363",
-      "size": "237568",
-      "md5": "f184bf7ff2c9ebc763a121ed7221b054",
-      "crc32": "1d0c3694",
-      "sha1": "870c6c7421d31c3cb8f15207d569d02529f4271c",
+      "mtime": "1652569927",
+      "size": "241664",
+      "md5": "436e70afd84ce347367550b52ee7fc98",
+      "crc32": "dbb92884",
+      "sha1": "47191a925d450e6756ac8efb044bddafa67cf009",
       "format": "Metadata"
     },
     {
@@ -2056,9 +2098,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 195,
-  "item_last_updated": 1652487617,
-  "item_size": 17063370,
+  "files_count": 199,
+  "item_last_updated": 1652570081,
+  "item_size": 17460201,
   "metadata": {
     "identifier": "gbpressgazette-2022",
     "collection": [
@@ -2075,21 +2117,10 @@
     "publicdate": "2022-03-23 23:06:20",
     "addeddate": "2022-03-23 23:06:20"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3263865200,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 275401067,
+  "server": "ia802508.us.archive.org",
+  "uniq": 1359221899,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }
