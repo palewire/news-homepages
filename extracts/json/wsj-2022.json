@@ -1,5 +1,5 @@
 {
-  "created": 1652537960,
+  "created": 1652660842,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/13/items/wsj-2022",
@@ -3778,31 +3778,73 @@
       "sha1": "c0f4cfcbedbf9c45db4c14791086a0fe792bdc16"
     },
     {
+      "name": "wsj-2022-05-15T08:07:29.101801-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652616454",
+      "size": "61253",
+      "md5": "624ca9687705211230453b3caf7e232d",
+      "crc32": "65134353",
+      "sha1": "4afccd5948a94f84cc6afa146348ee6189d2fa50",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-05-15T08:07:29.101801-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652616455",
+      "size": "89783",
+      "md5": "1a42123f8cc30f9a38a210b6eadf4796",
+      "crc32": "160487fb",
+      "sha1": "f94f449ea4902cd4dbca98d2582591c518020cf4",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-05-15T08:07:29.101801-04:00.jpg",
+      "source": "original",
+      "mtime": "1652616452",
+      "size": "471866",
+      "md5": "f2a67704a583223ba970f5c508702e5d",
+      "crc32": "56b27ab5",
+      "sha1": "6438d118ad11ed54bb390a87df509734b6cec823",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsj-2022-05-15T08:07:29.101801-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsj-2022-05-15T08:07:29.101801-04:00.jpg",
+      "mtime": "1652616535",
+      "size": "9553",
+      "md5": "63b733155521d4be44fdfc17874aa388",
+      "crc32": "bd6283b3",
+      "sha1": "2efd892d82fe59e0c850cb2a088a20cb7696d781"
+    },
+    {
       "name": "wsj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed95e97b27da1a13b9d567509b189b55c575a5d0",
-      "mtime": "1652537857",
-      "size": "75820",
-      "md5": "ee42eb37f3f3e520a9be23bf9b24ec1e",
-      "crc32": "94181ac0",
-      "sha1": "c88b048303df729fb318525d4fd5a5947ecd0061",
+      "btih": "076509f147fa0ae1f794b53b622fcd84458fd25e",
+      "mtime": "1652616541",
+      "size": "76649",
+      "md5": "0b3ab346299ba61c638f133e98608fe7",
+      "crc32": "7380471d",
+      "sha1": "b4baed554c1cdc389c38ac3aca6f5062c2853428",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b35bba8c1e9daa569a62531f8383add3",
+      "md5": "956e7c18421db361330a5e98e21113bd",
       "summation": "md5"
     },
     {
       "name": "wsj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652530506",
-      "size": "413696",
-      "md5": "d885558e3f3639a59acc3b1926a33d31",
-      "crc32": "cce5d89c",
-      "sha1": "5e7db81bfe8a81199612442827a377431589a0ac",
+      "mtime": "1652616468",
+      "size": "417792",
+      "md5": "a84fa2042dc6be0adebd3714ae711142",
+      "crc32": "9c3ea7be",
+      "sha1": "c539e9406c6f9c8efa0767f8c90bd2b7814ec40b",
       "format": "Metadata"
     },
     {
@@ -3816,9 +3858,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 362,
-  "item_last_updated": 1652537857,
-  "item_size": 57589256,
+  "files_count": 366,
+  "item_last_updated": 1652616541,
+  "item_size": 58226636,
   "metadata": {
     "identifier": "wsj-2022",
     "collection": [
@@ -3835,10 +3877,2708 @@
     "publicdate": "2022-03-23 12:05:37",
     "addeddate": "2022-03-23 12:05:37"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 78032771,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1635699542,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
+  ],
+  "wsj-2022": [
+    {
+      "text": "About WSJ",
+      "url": "https://www.wsj.com/about-us?mod=wsjcorphat"
+    },
+    {
+      "text": "Barron's",
+      "url": "https://www.barrons.com"
+    },
+    {
+      "text": "BigCharts",
+      "url": "http://bigcharts.marketwatch.com"
+    },
+    {
+      "text": "Dow Jones Businesses",
+      "url": "https://newscorp.com/business/dow-jones/"
+    },
+    {
+      "text": "Dow Jones Newswires",
+      "url": "https://www.dowjones.com/"
+    },
+    {
+      "text": "Factiva",
+      "url": "https://global.factiva.com/factivalogin/login.asp?productname=global"
+    },
+    {
+      "text": "Financial News",
+      "url": "https://www.fnlondon.com/"
+    },
+    {
+      "text": "Mansion Global",
+      "url": "https://www.mansionglobal.com/"
+    },
+    {
+      "text": "MarketWatch",
+      "url": "https://www.marketwatch.com"
+    },
+    {
+      "text": "Newsmart",
+      "url": "https://www.getnewsmart.com/"
+    },
+    {
+      "text": "NewsPlus",
+      "url": "https://newsplus.wsj.com"
+    },
+    {
+      "text": "Risk & Compliance",
+      "url": "https://djlogin.dowjones.com/login.asp?productname=rnc"
+    },
+    {
+      "text": "WSJ Live",
+      "url": "https://conferences.wsj.com/"
+    },
+    {
+      "text": "WSJ Pro",
+      "url": "https://www.wsj.com/pro/centralbanking"
+    },
+    {
+      "text": "WSJ Video",
+      "url": "https://www.wsj.com/video/"
+    },
+    {
+      "text": "WSJ.com",
+      "url": "https://www.wsj.com"
+    },
+    {
+      "text": "Avail",
+      "url": "https://www.avail.co/"
+    },
+    {
+      "text": "Business Spectator",
+      "url": "https://www.theaustralian.com.au/business"
+    },
+    {
+      "text": "HarperCollins Publishers",
+      "url": "https://www.harpercollins.com/"
+    },
+    {
+      "text": "Housing",
+      "url": "https://housing.com/"
+    },
+    {
+      "text": "Makaan",
+      "url": "https://www.makaan.com/"
+    },
+    {
+      "text": "New York Post",
+      "url": "https://nypost.com/"
+    },
+    {
+      "text": "REA",
+      "url": "https://www.rea-group.com/"
+    },
+    {
+      "text": "realtor.com",
+      "url": "https://www.realtor.com"
+    },
+    {
+      "text": "Storyful",
+      "url": "https://storyful.com/"
+    },
+    {
+      "text": "The Australian",
+      "url": "https://www.theaustralian.com.au"
+    },
+    {
+      "text": "The Sun",
+      "url": "https://www.thesun.co.uk/"
+    },
+    {
+      "text": "The Times",
+      "url": "https://www.thetimes.co.uk"
+    },
+    {
+      "text": "DJIA32196.66 points with a1.47%\u25b2",
+      "url": "https://www.wsj.com/market-data/quotes/index/US/DJIA?mod=mdstrip"
+    },
+    {
+      "text": "Nasdaq11805.00 points with a3.82%\u25b2",
+      "url": "https://www.wsj.com/market-data/quotes/index/US/COMP?mod=mdstrip"
+    },
+    {
+      "text": "U.S. 10 Yr0/32  Yieldwith a2.932%\u25bc",
+      "url": "https://www.wsj.com/market-data/quotes/bond/BX/TMUBMUSD10Y?mod=mdstrip"
+    },
+    {
+      "text": "Crude Oil110.18 points with a3.82%\u25b2",
+      "url": "https://www.wsj.com/market-data/quotes/futures/US/Crude Oil - Electronic?mod=mdstrip"
+    },
+    {
+      "text": "Euro1.0413 points with a0.29%\u25b2",
+      "url": "https://www.wsj.com/market-data/quotes/fx/EURUSD?mod=mdstrip"
+    },
+    {
+      "text": "The Wall Street Journal",
+      "url": "https://www.wsj.com/?mod=wsjheader_logo"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://store.wsj.com/shop/us/us/wsjusnsswg217av3/?swg=true&fswg=true&inttrackingCode=aaqx8slj&icid=WSJ_ON_ALL_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&cx_campaign=WSJUSSwGNS&navSource=subscribeTextLink"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://accounts.wsj.com/login?target=https%3A%2F%2Fwww.wsj.com%2F"
+    },
+    {
+      "text": "\n      Special Offer: $8 per month\n    ",
+      "url": "https://store.wsj.com/shop/us/us/wsjusnsswg217av3/?swg=true&fswg=true&inttrackingCode=aaqx8slj&icid=WSJ_ON_ALL_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&cx_campaign=WSJUSSwGNS"
+    },
+    {
+      "text": "\n      View Membership Options\n      ",
+      "url": "https://store.wsj.com/shop/us/us/wsjusnsswg217av3/?swg=true&fswg=true&inttrackingCode=aaqx8slj&icid=WSJ_ON_ALL_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&cx_campaign=WSJUSSwGNS"
+    },
+    {
+      "text": "English",
+      "url": "#"
+    },
+    {
+      "text": "\u4e2d\u6587 (Chinese)",
+      "url": "#"
+    },
+    {
+      "text": "\u65e5\u672c\u8a9e (Japanese)",
+      "url": "#"
+    },
+    {
+      "text": "Print Edition",
+      "url": "https://www.wsj.com/digital-print-edition?mod=wsjheader"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.wsj.com/video?mod=wsjheader"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.wsj.com/podcasts?mod=wsjheader"
+    },
+    {
+      "text": "Latest Headlines",
+      "url": "https://www.wsj.com/news/latest-headlines?mod=wsjheader"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://store.wsj.com/shop/us/us/wsjusnsswg217av3/?swg=true&fswg=true&inttrackingCode=aaqx8slj&icid=WSJ_ON_ALL_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&cx_campaign=WSJUSSwGNS&navSource=subscribeTextLink"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://accounts.wsj.com/login?target=https%3A%2F%2Fwww.wsj.com%2F"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.wsj.com/?mod=nav_top_section"
+    },
+    {
+      "text": "World",
+      "url": "https://www.wsj.com/news/world?mod=nav_top_section"
+    },
+    {
+      "text": "Africa",
+      "url": "https://www.wsj.com/news/types/africa-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Asia",
+      "url": "https://www.wsj.com/news/types/asia-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Canada",
+      "url": "https://www.wsj.com/news/types/canada-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "China",
+      "url": "https://www.wsj.com/news/types/china-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Europe",
+      "url": "https://www.wsj.com/news/types/europe-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Latin America",
+      "url": "https://www.wsj.com/news/types/latin-america-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Middle East",
+      "url": "https://www.wsj.com/news/types/middle-east-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.wsj.com/news/economy?mod=nav_top_subsection"
+    },
+    {
+      "text": "World Video",
+      "url": "https://www.wsj.com/video/browse/news/world-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.wsj.com/news/us?mod=nav_top_section"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.wsj.com/news/economy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Law",
+      "url": "https://www.wsj.com/news/business/law-legal?mod=nav_top_subsection"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.wsj.com/news/politics?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ Noted.",
+      "url": "https://www.wsj.com/noted?mod=nav_top_subsection"
+    },
+    {
+      "text": "U.S. Video",
+      "url": "https://www.wsj.com/video/browse/news/us-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "What's News Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-whats-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.wsj.com/news/politics?mod=nav_top_section"
+    },
+    {
+      "text": "Capital Journal",
+      "url": "https://www.wsj.com/news/types/capital-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "Politics Video",
+      "url": "https://www.wsj.com/video/browse/news/politics-and-campaign?mod=nav_top_subsection"
+    },
+    {
+      "text": "Gerald Seib",
+      "url": "https://www.wsj.com/news/author/gerald-f-seib?mod=nav_top_subsection"
+    },
+    {
+      "text": "Washington Wire",
+      "url": "https://blogs.wsj.com/washwire/?mod=nav_top_subsection"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.wsj.com/news/economy?mod=nav_top_section"
+    },
+    {
+      "text": "Bankruptcy",
+      "url": "https://www.wsj.com/pro/bankruptcy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Central Banking",
+      "url": "https://www.wsj.com/pro/centralbanking?mod=nav_top_subsection"
+    },
+    {
+      "text": "Private Equity",
+      "url": "https://www.wsj.com/pro/privateequity?mod=nav_top_subsection"
+    },
+    {
+      "text": "Strategic Intelligence",
+      "url": "https://www.wsj.com/pro/strategic-intelligence?mod=nav_top_subsection"
+    },
+    {
+      "text": "Venture Capital",
+      "url": "https://www.wsj.com/pro/venturecapital?mod=nav_top_subsection"
+    },
+    {
+      "text": "Economic Forecasting Survey",
+      "url": "https://www.wsj.com/graphics/econsurvey/?mod=nav_top_subsection"
+    },
+    {
+      "text": "Economy Video",
+      "url": "https://www.wsj.com/video/browse/business/economy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Capital Account",
+      "url": "https://www.wsj.com/news/types/capital-account?mod=nav_top_subsection"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.wsj.com/news/business?mod=nav_top_section"
+    },
+    {
+      "text": "Management",
+      "url": "https://www.wsj.com/news/business/management?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Future of Everything",
+      "url": "https://www.wsj.com/news/tech/future-of-everything?mod=nav_top_subsection"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.wsj.com/news/types/obituaries?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tech/WSJ.D",
+      "url": "https://www.wsj.com/news/technology?mod=nav_top_subsection"
+    },
+    {
+      "text": "Aerospace & Defense",
+      "url": "https://www.wsj.com/news/business/defense-aerospace?mod=nav_top_subsection"
+    },
+    {
+      "text": "Autos & Transportation",
+      "url": "https://www.wsj.com/news/business/transportation?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commercial Real Estate",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial?mod=nav_top_subsection"
+    },
+    {
+      "text": "Consumer Products",
+      "url": "https://www.wsj.com/news/business/consumer-products?mod=nav_top_subsection"
+    },
+    {
+      "text": "Energy",
+      "url": "https://www.wsj.com/news/business/energy-oil-gas?mod=nav_top_subsection"
+    },
+    {
+      "text": "Entrepreneurship",
+      "url": "https://www.wsj.com/news/business/small-business-marketing?mod=nav_top_subsection"
+    },
+    {
+      "text": "Financial Services",
+      "url": "https://www.wsj.com/news/business/financial-services?mod=nav_top_subsection"
+    },
+    {
+      "text": "Food & Services",
+      "url": "https://www.wsj.com/news/business/food-tobacco?mod=nav_top_subsection"
+    },
+    {
+      "text": "Health Care",
+      "url": "https://www.wsj.com/news/business/health-industry?mod=nav_top_subsection"
+    },
+    {
+      "text": "Hospitality",
+      "url": "https://www.wsj.com/news/business/hotels-casinos?mod=nav_top_subsection"
+    },
+    {
+      "text": "Law",
+      "url": "https://www.wsj.com/news/business/law-legal?mod=nav_top_subsection"
+    },
+    {
+      "text": "Manufacturing",
+      "url": "https://www.wsj.com/news/business/industrial-services?mod=nav_top_subsection"
+    },
+    {
+      "text": "Media & Marketing",
+      "url": "https://www.wsj.com/news/business/media-marketing?mod=nav_top_subsection"
+    },
+    {
+      "text": "Natural Resources",
+      "url": "https://www.wsj.com/news/business/natural-resources?mod=nav_top_subsection"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.wsj.com/news/business/retail-industry?mod=nav_top_subsection"
+    },
+    {
+      "text": "CFO Journal",
+      "url": "https://www.wsj.com/news/cfo-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "CIO Journal",
+      "url": "https://www.wsj.com/news/cio-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "CMO Today",
+      "url": "https://www.wsj.com/news/cmo-today?mod=nav_top_subsection"
+    },
+    {
+      "text": "Logistics Report",
+      "url": "https://www.wsj.com/news/logistics-report?mod=nav_top_subsection"
+    },
+    {
+      "text": "Risk & Compliance",
+      "url": "https://www.wsj.com/news/risk-compliance-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Workplace Report",
+      "url": "https://www.wsj.com/news/workplace-report?mod=nav_top_subsection"
+    },
+    {
+      "text": "Heard on the Street",
+      "url": "https://www.wsj.com/news/heard-on-the-street?mod=nav_top_subsection"
+    },
+    {
+      "text": "Bankruptcy",
+      "url": "https://www.wsj.com/pro/bankruptcy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Central Banking",
+      "url": "https://www.wsj.com/pro/centralbanking?mod=nav_top_subsection"
+    },
+    {
+      "text": "Cybersecurity",
+      "url": "https://www.wsj.com/pro/cybersecurity?mod=nav_top_subsection"
+    },
+    {
+      "text": "Private Equity",
+      "url": "https://www.wsj.com/pro/privateequity?mod=nav_top_subsection"
+    },
+    {
+      "text": "Sustainable Business",
+      "url": "https://www.wsj.com/pro/sustainable-business?mod=nav_top_subsection"
+    },
+    {
+      "text": "Venture Capital",
+      "url": "https://www.wsj.com/pro/venturecapital?mod=nav_top_subsection"
+    },
+    {
+      "text": "Business Video",
+      "url": "https://www.wsj.com/video/browse/business?mod=nav_top_subsection"
+    },
+    {
+      "text": "Journal Report",
+      "url": "https://www.wsj.com/news/latest/journalreport?mod=nav_top_subsection"
+    },
+    {
+      "text": "Business Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-whats-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Space & Science",
+      "url": "https://www.wsj.com/news/science?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.wsj.com/news/technology?mod=nav_top_section"
+    },
+    {
+      "text": "CIO Journal",
+      "url": "https://www.wsj.com/news/cio-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Future of Everything",
+      "url": "https://www.wsj.com/news/tech/future-of-everything?mod=nav_top_subsection"
+    },
+    {
+      "text": "Personal Tech",
+      "url": "https://www.wsj.com/news/types/personal-technology-joanna-stern?mod=nav_top_subsection"
+    },
+    {
+      "text": "Christopher Mims",
+      "url": "https://www.wsj.com/news/author/christopher-mims?mod=nav_top_subsection"
+    },
+    {
+      "text": "Joanna Stern",
+      "url": "https://www.wsj.com/news/author/joanna-stern?mod=nav_top_subsection"
+    },
+    {
+      "text": "Julie Jargon",
+      "url": "https://www.wsj.com/news/author/julie-jargon?mod=nav_top_subsection"
+    },
+    {
+      "text": "Nicole Nguyen",
+      "url": "https://www.wsj.com/news/author/nicole-nguyen?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tech Video",
+      "url": "https://www.wsj.com/video/browse/tech?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tech Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-tech-news-briefing?mod=nav_top_subsection"
+    },
+    {
+      "text": "Markets",
+      "url": "https://www.wsj.com/news/markets?mod=nav_top_section"
+    },
+    {
+      "text": "Bonds",
+      "url": "https://www.wsj.com/news/markets/bonds?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commercial Real Estate",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commodities & Futures",
+      "url": "https://www.wsj.com/news/markets/oil-gold-commodities-futures?mod=nav_top_subsection"
+    },
+    {
+      "text": "Stocks",
+      "url": "https://www.wsj.com/news/markets/stocks?mod=nav_top_subsection"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.wsj.com/news/types/personal-finance?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ Money",
+      "url": "https://www.wsj.com/questions/money?mod=nav_top_subsection"
+    },
+    {
+      "text": "Streetwise",
+      "url": "https://www.wsj.com/news/types/streetwise?mod=nav_top_subsection"
+    },
+    {
+      "text": "Intelligent Investor",
+      "url": "https://www.wsj.com/news/types/the-intelligent-investor?mod=nav_top_subsection"
+    },
+    {
+      "text": "Heard on the Street",
+      "url": "https://www.wsj.com/news/heard-on-the-street?mod=nav_top_subsection"
+    },
+    {
+      "text": "Greg Ip",
+      "url": "https://www.wsj.com/news/author/greg-ip?mod=nav_top_subsection"
+    },
+    {
+      "text": "Jason Zweig",
+      "url": "https://www.wsj.com/news/author/jason-zweig?mod=nav_top_subsection"
+    },
+    {
+      "text": "Laura Saunders",
+      "url": "https://www.wsj.com/news/author/laura-saunders?mod=nav_top_subsection"
+    },
+    {
+      "text": "James Mackintosh",
+      "url": "https://www.wsj.com/news/author/james-mackintosh?page=23?mod=nav_top_subsection"
+    },
+    {
+      "text": "Market Data Home",
+      "url": "https://www.wsj.com/market-data?mod=nav_top_subsection"
+    },
+    {
+      "text": "U.S. Stocks",
+      "url": "https://www.wsj.com/market-data/stocks?mod=nav_top_subsection"
+    },
+    {
+      "text": "Currencies",
+      "url": "https://www.wsj.com/market-data/currencies?mod=nav_top_subsection"
+    },
+    {
+      "text": "Companies",
+      "url": "https://www.wsj.com/market-data/quotes/company-list/?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commodities",
+      "url": "https://www.wsj.com/market-data/commodities?mod=nav_top_subsection"
+    },
+    {
+      "text": "Bonds & Rates",
+      "url": "https://www.wsj.com/market-data/bonds?mod=nav_top_subsection"
+    },
+    {
+      "text": "Mutual Funds & ETFs",
+      "url": "https://www.wsj.com/market-data/mutualfunds-etfs?mod=nav_top_subsection"
+    },
+    {
+      "text": "CFO Journal",
+      "url": "https://www.wsj.com/news/cfo-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "Markets Video",
+      "url": "https://www.wsj.com/video/browse/business/markets?mod=nav_top_subsection"
+    },
+    {
+      "text": "Your Money Briefing Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-your-money-matters?mod=nav_top_subsection"
+    },
+    {
+      "text": "Secrets of Wealthy Women Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-secrets-of-wealthy-women?mod=nav_top_subsection"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.wsj.com/news/opinion?mod=nav_top_section"
+    },
+    {
+      "text": "Gerard Baker",
+      "url": "https://www.wsj.com/news/author/gerard-baker?mod=nav_top_subsection"
+    },
+    {
+      "text": "Sadanand Dhume",
+      "url": "https://www.wsj.com/news/author/sadanand-dhume?mod=nav_top_subsection"
+    },
+    {
+      "text": "James Freeman",
+      "url": "https://www.wsj.com/news/author/james-freeman?mod=nav_top_subsection"
+    },
+    {
+      "text": "William A. Galston",
+      "url": "https://www.wsj.com/news/author/william-a-galston?mod=nav_top_subsection"
+    },
+    {
+      "text": "Daniel Henninger",
+      "url": "https://www.wsj.com/news/author/daniel-henninger?mod=nav_top_subsection"
+    },
+    {
+      "text": "Holman W. Jenkins",
+      "url": "https://www.wsj.com/news/author/holman-w-jenkinsjr?mod=nav_top_subsection"
+    },
+    {
+      "text": "Andy Kessler",
+      "url": "https://www.wsj.com/news/author/andy-kessler?mod=nav_top_subsection"
+    },
+    {
+      "text": "William McGurn",
+      "url": "https://www.wsj.com/news/author/william-mcgurn?mod=nav_top_subsection"
+    },
+    {
+      "text": "Walter Russell Mead",
+      "url": "https://www.wsj.com/news/author/walter-russell-mead?mod=nav_top_subsection"
+    },
+    {
+      "text": "Peggy Noonan",
+      "url": "https://www.wsj.com/news/author/peggy-noonan?mod=nav_top_subsection"
+    },
+    {
+      "text": "Mary Anastasia O'Grady",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady?mod=nav_top_subsection"
+    },
+    {
+      "text": "Jason Riley",
+      "url": "https://www.wsj.com/news/author/jason-l-riley?mod=nav_top_subsection"
+    },
+    {
+      "text": "Joseph Sternberg",
+      "url": "https://www.wsj.com/news/author/joseph-c-sternberg?mod=nav_top_subsection"
+    },
+    {
+      "text": "Kimberley A. Strassel",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel?mod=nav_top_subsection"
+    },
+    {
+      "text": "Editorials",
+      "url": "https://www.wsj.com/news/types/review-outlook-u-s?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commentary",
+      "url": "https://www.wsj.com/news/types/commentary-u-s?mod=nav_top_subsection"
+    },
+    {
+      "text": "Future View",
+      "url": "https://www.wsj.com/news/types/future-view?mod=nav_top_subsection"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "https://www.wsj.com/news/types/letters?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Weekend Interview",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview?mod=nav_top_subsection"
+    },
+    {
+      "text": "Potomac Watch Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-opinion-potomac-watch?mod=nav_top_subsection"
+    },
+    {
+      "text": "Foreign Edition Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-opinion-foreign-edition?mod=nav_top_subsection"
+    },
+    {
+      "text": "Free Expression Podcast",
+      "url": "https://www.wsj.com/podcasts/opinion-free-expression?mod=nav_top_subsection"
+    },
+    {
+      "text": "Opinion Video",
+      "url": "https://www.wsj.com/video/browse/opinion?mod=nav_top_subsection"
+    },
+    {
+      "text": "Notable & Quotable",
+      "url": "https://www.wsj.com/news/types/notable-quotable?mod=nav_top_subsection"
+    },
+    {
+      "text": "Books & Arts",
+      "url": "https://www.wsj.com/news/books-arts?mod=nav_top_section"
+    },
+    {
+      "text": "Film",
+      "url": "https://www.wsj.com/news/types/film-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Television",
+      "url": "https://www.wsj.com/news/types/television-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Theater",
+      "url": "https://www.wsj.com/news/types/theater-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Masterpiece Series",
+      "url": "https://www.wsj.com/news/types/masterpiece?mod=nav_top_subsection"
+    },
+    {
+      "text": "Music",
+      "url": "https://www.wsj.com/news/types/music-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Dance",
+      "url": "https://www.wsj.com/news/types/dance-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Opera",
+      "url": "https://www.wsj.com/news/types/opera-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Exhibition",
+      "url": "https://www.wsj.com/news/types/exhibition-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Cultural Commentary",
+      "url": "https://www.wsj.com/news/types/cultural-commentary?mod=nav_top_subsection"
+    },
+    {
+      "text": "Arts",
+      "url": "https://www.wsj.com/news/books-arts/arts?mod=nav_top_subsection"
+    },
+    {
+      "text": "Books",
+      "url": "https://www.wsj.com/news/books-arts/books?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ Puzzles",
+      "url": "https://www.wsj.com/puzzles?mod=nav_top_subsection"
+    },
+    {
+      "text": "Life Video",
+      "url": "https://www.wsj.com/video/browse/life-culture?mod=nav_top_subsection"
+    },
+    {
+      "text": "Arts Video",
+      "url": "https://www.wsj.com/video/browse/life-culture/arts-and-entertainment?mod=nav_top_subsection"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.wsj.com/news/realestate?mod=nav_top_section"
+    },
+    {
+      "text": "Commercial Real Estate",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial?mod=nav_top_subsection"
+    },
+    {
+      "text": "Real Estate Video",
+      "url": "https://www.wsj.com/video/subject/mansion?mod=nav_top_subsection"
+    },
+    {
+      "text": "Life & Work",
+      "url": "https://www.wsj.com/news/life-work?mod=nav_top_section"
+    },
+    {
+      "text": "Cars",
+      "url": "https://www.wsj.com/news/life-work/automotive?mod=nav_top_subsection"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.wsj.com/news/types/management-careers?mod=nav_top_subsection"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.wsj.com/news/types/arts-entertainment?mod=nav_top_subsection"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.wsj.com/news/life-work/food-cooking-drink?mod=nav_top_subsection"
+    },
+    {
+      "text": "Home & Design",
+      "url": "https://www.wsj.com/news/magazine/art-design?mod=nav_top_subsection"
+    },
+    {
+      "text": "Ideas",
+      "url": "https://www.wsj.com/news/life-work/ideas?mod=nav_top_subsection"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.wsj.com/news/types/personal-finance?mod=nav_top_subsection"
+    },
+    {
+      "text": "Recipes",
+      "url": "https://www.wsj.com/recipes?mod=nav_top_subsection"
+    },
+    {
+      "text": "Style & Fashion",
+      "url": "https://www.wsj.com/news/life-work/fashion?mod=nav_top_subsection"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.wsj.com/news/life-work/travel?mod=nav_top_subsection"
+    },
+    {
+      "text": "Wellness",
+      "url": "https://www.wsj.com/news/life-work/health-wellness?mod=nav_top_subsection"
+    },
+    {
+      "text": "Your Health",
+      "url": "https://www.wsj.com/news/author/sumathi-reddy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Work & Life",
+      "url": "https://www.wsj.com/news/author/rachel-feintzeig?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Middle Seat",
+      "url": "https://www.wsj.com/news/author/scott-mccartney?mod=nav_top_subsection"
+    },
+    {
+      "text": "Bonds",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein?mod=nav_top_subsection"
+    },
+    {
+      "text": "At Work",
+      "url": "https://www.wsj.com/news/author/krithika-varagur?mod=nav_top_subsection"
+    },
+    {
+      "text": "Turning Points",
+      "url": "https://www.wsj.com/news/author/clare-ansberry?mod=nav_top_subsection"
+    },
+    {
+      "text": "Off Brand",
+      "url": "https://www.wsj.com/news/author/rory-satran?mod=nav_top_subsection"
+    },
+    {
+      "text": "On Trend",
+      "url": "https://www.wsj.com/news/author/jacob-gallagher?mod=nav_top_subsection"
+    },
+    {
+      "text": "On Wine",
+      "url": "https://www.wsj.com/news/author/lettie-teague?mod=nav_top_subsection"
+    },
+    {
+      "text": "On The Clock",
+      "url": "https://www.wsj.com/news/types/on-the-clock?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ Puzzles",
+      "url": "https://www.wsj.com/news/puzzle?mod=nav_top_subsection"
+    },
+    {
+      "text": "Space & Science",
+      "url": "https://www.wsj.com/news/science?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ. Magazine",
+      "url": "https://www.wsj.com/news/magazine?mod=nav_top_section"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://www.wsj.com/news/magazine/fashion?mod=nav_top_subsection"
+    },
+    {
+      "text": "Art & Design",
+      "url": "https://www.wsj.com/news/magazine/art-design?mod=nav_top_subsection"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.wsj.com/news/magazine/travel?mod=nav_top_subsection"
+    },
+    {
+      "text": "Food",
+      "url": "https://www.wsj.com/news/magazine/food?mod=nav_top_subsection"
+    },
+    {
+      "text": "Culture",
+      "url": "https://www.wsj.com/news/magazine/culture?mod=nav_top_subsection"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.wsj.com/news/sports?mod=nav_top_section"
+    },
+    {
+      "text": "Beijing 2022 Olympics",
+      "url": "https://www.wsj.com/news/types/olympics?mod=nav_top_subsection"
+    },
+    {
+      "text": "MLB",
+      "url": "https://www.wsj.com/news/types/mlb?mod=nav_top_subsection"
+    },
+    {
+      "text": "NBA",
+      "url": "https://www.wsj.com/news/types/nba?mod=nav_top_subsection"
+    },
+    {
+      "text": "NFL",
+      "url": "https://www.wsj.com/news/types/nfl?mod=nav_top_subsection"
+    },
+    {
+      "text": "Golf",
+      "url": "https://www.wsj.com/news/types/sports-golf?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tennis",
+      "url": "https://www.wsj.com/news/types/tennis?mod=nav_top_subsection"
+    },
+    {
+      "text": "Soccer",
+      "url": "https://www.wsj.com/news/types/soccer?mod=nav_top_subsection"
+    },
+    {
+      "text": "Jason Gay",
+      "url": "https://www.wsj.com/news/author/jason-gay?mod=nav_top_subsection"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.wsj.com/?mod=nav_top_section"
+    },
+    {
+      "text": "World",
+      "url": "https://www.wsj.com/news/world?mod=nav_top_section"
+    },
+    {
+      "text": "Africa",
+      "url": "https://www.wsj.com/news/types/africa-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Asia",
+      "url": "https://www.wsj.com/news/types/asia-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Canada",
+      "url": "https://www.wsj.com/news/types/canada-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "China",
+      "url": "https://www.wsj.com/news/types/china-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Europe",
+      "url": "https://www.wsj.com/news/types/europe-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Latin America",
+      "url": "https://www.wsj.com/news/types/latin-america-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Middle East",
+      "url": "https://www.wsj.com/news/types/middle-east-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.wsj.com/news/economy?mod=nav_top_subsection"
+    },
+    {
+      "text": "World Video",
+      "url": "https://www.wsj.com/video/browse/news/world-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.wsj.com/news/us?mod=nav_top_section"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.wsj.com/news/economy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Law",
+      "url": "https://www.wsj.com/news/business/law-legal?mod=nav_top_subsection"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.wsj.com/news/politics?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ Noted.",
+      "url": "https://www.wsj.com/noted?mod=nav_top_subsection"
+    },
+    {
+      "text": "U.S. Video",
+      "url": "https://www.wsj.com/video/browse/news/us-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "What's News Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-whats-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.wsj.com/news/politics?mod=nav_top_section"
+    },
+    {
+      "text": "Capital Journal",
+      "url": "https://www.wsj.com/news/types/capital-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "Politics Video",
+      "url": "https://www.wsj.com/video/browse/news/politics-and-campaign?mod=nav_top_subsection"
+    },
+    {
+      "text": "Gerald Seib",
+      "url": "https://www.wsj.com/news/author/gerald-f-seib?mod=nav_top_subsection"
+    },
+    {
+      "text": "Washington Wire",
+      "url": "https://blogs.wsj.com/washwire/?mod=nav_top_subsection"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.wsj.com/news/economy?mod=nav_top_section"
+    },
+    {
+      "text": "Bankruptcy",
+      "url": "https://www.wsj.com/pro/bankruptcy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Central Banking",
+      "url": "https://www.wsj.com/pro/centralbanking?mod=nav_top_subsection"
+    },
+    {
+      "text": "Private Equity",
+      "url": "https://www.wsj.com/pro/privateequity?mod=nav_top_subsection"
+    },
+    {
+      "text": "Strategic Intelligence",
+      "url": "https://www.wsj.com/pro/strategic-intelligence?mod=nav_top_subsection"
+    },
+    {
+      "text": "Venture Capital",
+      "url": "https://www.wsj.com/pro/venturecapital?mod=nav_top_subsection"
+    },
+    {
+      "text": "Economic Forecasting Survey",
+      "url": "https://www.wsj.com/graphics/econsurvey/?mod=nav_top_subsection"
+    },
+    {
+      "text": "Economy Video",
+      "url": "https://www.wsj.com/video/browse/business/economy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Capital Account",
+      "url": "https://www.wsj.com/news/types/capital-account?mod=nav_top_subsection"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.wsj.com/news/business?mod=nav_top_section"
+    },
+    {
+      "text": "Management",
+      "url": "https://www.wsj.com/news/business/management?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Future of Everything",
+      "url": "https://www.wsj.com/news/tech/future-of-everything?mod=nav_top_subsection"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.wsj.com/news/types/obituaries?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tech/WSJ.D",
+      "url": "https://www.wsj.com/news/technology?mod=nav_top_subsection"
+    },
+    {
+      "text": "Aerospace & Defense",
+      "url": "https://www.wsj.com/news/business/defense-aerospace?mod=nav_top_subsection"
+    },
+    {
+      "text": "Autos & Transportation",
+      "url": "https://www.wsj.com/news/business/transportation?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commercial Real Estate",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial?mod=nav_top_subsection"
+    },
+    {
+      "text": "Consumer Products",
+      "url": "https://www.wsj.com/news/business/consumer-products?mod=nav_top_subsection"
+    },
+    {
+      "text": "Energy",
+      "url": "https://www.wsj.com/news/business/energy-oil-gas?mod=nav_top_subsection"
+    },
+    {
+      "text": "Entrepreneurship",
+      "url": "https://www.wsj.com/news/business/small-business-marketing?mod=nav_top_subsection"
+    },
+    {
+      "text": "Financial Services",
+      "url": "https://www.wsj.com/news/business/financial-services?mod=nav_top_subsection"
+    },
+    {
+      "text": "Food & Services",
+      "url": "https://www.wsj.com/news/business/food-tobacco?mod=nav_top_subsection"
+    },
+    {
+      "text": "Health Care",
+      "url": "https://www.wsj.com/news/business/health-industry?mod=nav_top_subsection"
+    },
+    {
+      "text": "Hospitality",
+      "url": "https://www.wsj.com/news/business/hotels-casinos?mod=nav_top_subsection"
+    },
+    {
+      "text": "Law",
+      "url": "https://www.wsj.com/news/business/law-legal?mod=nav_top_subsection"
+    },
+    {
+      "text": "Manufacturing",
+      "url": "https://www.wsj.com/news/business/industrial-services?mod=nav_top_subsection"
+    },
+    {
+      "text": "Media & Marketing",
+      "url": "https://www.wsj.com/news/business/media-marketing?mod=nav_top_subsection"
+    },
+    {
+      "text": "Natural Resources",
+      "url": "https://www.wsj.com/news/business/natural-resources?mod=nav_top_subsection"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.wsj.com/news/business/retail-industry?mod=nav_top_subsection"
+    },
+    {
+      "text": "CFO Journal",
+      "url": "https://www.wsj.com/news/cfo-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "CIO Journal",
+      "url": "https://www.wsj.com/news/cio-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "CMO Today",
+      "url": "https://www.wsj.com/news/cmo-today?mod=nav_top_subsection"
+    },
+    {
+      "text": "Logistics Report",
+      "url": "https://www.wsj.com/news/logistics-report?mod=nav_top_subsection"
+    },
+    {
+      "text": "Risk & Compliance",
+      "url": "https://www.wsj.com/news/risk-compliance-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Workplace Report",
+      "url": "https://www.wsj.com/news/workplace-report?mod=nav_top_subsection"
+    },
+    {
+      "text": "Heard on the Street",
+      "url": "https://www.wsj.com/news/heard-on-the-street?mod=nav_top_subsection"
+    },
+    {
+      "text": "Bankruptcy",
+      "url": "https://www.wsj.com/pro/bankruptcy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Central Banking",
+      "url": "https://www.wsj.com/pro/centralbanking?mod=nav_top_subsection"
+    },
+    {
+      "text": "Cybersecurity",
+      "url": "https://www.wsj.com/pro/cybersecurity?mod=nav_top_subsection"
+    },
+    {
+      "text": "Private Equity",
+      "url": "https://www.wsj.com/pro/privateequity?mod=nav_top_subsection"
+    },
+    {
+      "text": "Sustainable Business",
+      "url": "https://www.wsj.com/pro/sustainable-business?mod=nav_top_subsection"
+    },
+    {
+      "text": "Venture Capital",
+      "url": "https://www.wsj.com/pro/venturecapital?mod=nav_top_subsection"
+    },
+    {
+      "text": "Business Video",
+      "url": "https://www.wsj.com/video/browse/business?mod=nav_top_subsection"
+    },
+    {
+      "text": "Journal Report",
+      "url": "https://www.wsj.com/news/latest/journalreport?mod=nav_top_subsection"
+    },
+    {
+      "text": "Business Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-whats-news?mod=nav_top_subsection"
+    },
+    {
+      "text": "Space & Science",
+      "url": "https://www.wsj.com/news/science?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.wsj.com/news/technology?mod=nav_top_section"
+    },
+    {
+      "text": "CIO Journal",
+      "url": "https://www.wsj.com/news/cio-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Future of Everything",
+      "url": "https://www.wsj.com/news/tech/future-of-everything?mod=nav_top_subsection"
+    },
+    {
+      "text": "Personal Tech",
+      "url": "https://www.wsj.com/news/types/personal-technology-joanna-stern?mod=nav_top_subsection"
+    },
+    {
+      "text": "Christopher Mims",
+      "url": "https://www.wsj.com/news/author/christopher-mims?mod=nav_top_subsection"
+    },
+    {
+      "text": "Joanna Stern",
+      "url": "https://www.wsj.com/news/author/joanna-stern?mod=nav_top_subsection"
+    },
+    {
+      "text": "Julie Jargon",
+      "url": "https://www.wsj.com/news/author/julie-jargon?mod=nav_top_subsection"
+    },
+    {
+      "text": "Nicole Nguyen",
+      "url": "https://www.wsj.com/news/author/nicole-nguyen?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tech Video",
+      "url": "https://www.wsj.com/video/browse/tech?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tech Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-tech-news-briefing?mod=nav_top_subsection"
+    },
+    {
+      "text": "Markets",
+      "url": "https://www.wsj.com/news/markets?mod=nav_top_section"
+    },
+    {
+      "text": "Bonds",
+      "url": "https://www.wsj.com/news/markets/bonds?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commercial Real Estate",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commodities & Futures",
+      "url": "https://www.wsj.com/news/markets/oil-gold-commodities-futures?mod=nav_top_subsection"
+    },
+    {
+      "text": "Stocks",
+      "url": "https://www.wsj.com/news/markets/stocks?mod=nav_top_subsection"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.wsj.com/news/types/personal-finance?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ Money",
+      "url": "https://www.wsj.com/questions/money?mod=nav_top_subsection"
+    },
+    {
+      "text": "Streetwise",
+      "url": "https://www.wsj.com/news/types/streetwise?mod=nav_top_subsection"
+    },
+    {
+      "text": "Intelligent Investor",
+      "url": "https://www.wsj.com/news/types/the-intelligent-investor?mod=nav_top_subsection"
+    },
+    {
+      "text": "Heard on the Street",
+      "url": "https://www.wsj.com/news/heard-on-the-street?mod=nav_top_subsection"
+    },
+    {
+      "text": "Greg Ip",
+      "url": "https://www.wsj.com/news/author/greg-ip?mod=nav_top_subsection"
+    },
+    {
+      "text": "Jason Zweig",
+      "url": "https://www.wsj.com/news/author/jason-zweig?mod=nav_top_subsection"
+    },
+    {
+      "text": "Laura Saunders",
+      "url": "https://www.wsj.com/news/author/laura-saunders?mod=nav_top_subsection"
+    },
+    {
+      "text": "James Mackintosh",
+      "url": "https://www.wsj.com/news/author/james-mackintosh?page=23?mod=nav_top_subsection"
+    },
+    {
+      "text": "Market Data Home",
+      "url": "https://www.wsj.com/market-data?mod=nav_top_subsection"
+    },
+    {
+      "text": "U.S. Stocks",
+      "url": "https://www.wsj.com/market-data/stocks?mod=nav_top_subsection"
+    },
+    {
+      "text": "Currencies",
+      "url": "https://www.wsj.com/market-data/currencies?mod=nav_top_subsection"
+    },
+    {
+      "text": "Companies",
+      "url": "https://www.wsj.com/market-data/quotes/company-list/?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commodities",
+      "url": "https://www.wsj.com/market-data/commodities?mod=nav_top_subsection"
+    },
+    {
+      "text": "Bonds & Rates",
+      "url": "https://www.wsj.com/market-data/bonds?mod=nav_top_subsection"
+    },
+    {
+      "text": "Mutual Funds & ETFs",
+      "url": "https://www.wsj.com/market-data/mutualfunds-etfs?mod=nav_top_subsection"
+    },
+    {
+      "text": "CFO Journal",
+      "url": "https://www.wsj.com/news/cfo-journal?mod=nav_top_subsection"
+    },
+    {
+      "text": "Markets Video",
+      "url": "https://www.wsj.com/video/browse/business/markets?mod=nav_top_subsection"
+    },
+    {
+      "text": "Your Money Briefing Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-your-money-matters?mod=nav_top_subsection"
+    },
+    {
+      "text": "Secrets of Wealthy Women Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-secrets-of-wealthy-women?mod=nav_top_subsection"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.wsj.com/news/opinion?mod=nav_top_section"
+    },
+    {
+      "text": "Gerard Baker",
+      "url": "https://www.wsj.com/news/author/gerard-baker?mod=nav_top_subsection"
+    },
+    {
+      "text": "Sadanand Dhume",
+      "url": "https://www.wsj.com/news/author/sadanand-dhume?mod=nav_top_subsection"
+    },
+    {
+      "text": "James Freeman",
+      "url": "https://www.wsj.com/news/author/james-freeman?mod=nav_top_subsection"
+    },
+    {
+      "text": "William A. Galston",
+      "url": "https://www.wsj.com/news/author/william-a-galston?mod=nav_top_subsection"
+    },
+    {
+      "text": "Daniel Henninger",
+      "url": "https://www.wsj.com/news/author/daniel-henninger?mod=nav_top_subsection"
+    },
+    {
+      "text": "Holman W. Jenkins",
+      "url": "https://www.wsj.com/news/author/holman-w-jenkinsjr?mod=nav_top_subsection"
+    },
+    {
+      "text": "Andy Kessler",
+      "url": "https://www.wsj.com/news/author/andy-kessler?mod=nav_top_subsection"
+    },
+    {
+      "text": "William McGurn",
+      "url": "https://www.wsj.com/news/author/william-mcgurn?mod=nav_top_subsection"
+    },
+    {
+      "text": "Walter Russell Mead",
+      "url": "https://www.wsj.com/news/author/walter-russell-mead?mod=nav_top_subsection"
+    },
+    {
+      "text": "Peggy Noonan",
+      "url": "https://www.wsj.com/news/author/peggy-noonan?mod=nav_top_subsection"
+    },
+    {
+      "text": "Mary Anastasia O'Grady",
+      "url": "https://www.wsj.com/news/author/mary-anastasia-ogrady?mod=nav_top_subsection"
+    },
+    {
+      "text": "Jason Riley",
+      "url": "https://www.wsj.com/news/author/jason-l-riley?mod=nav_top_subsection"
+    },
+    {
+      "text": "Joseph Sternberg",
+      "url": "https://www.wsj.com/news/author/joseph-c-sternberg?mod=nav_top_subsection"
+    },
+    {
+      "text": "Kimberley A. Strassel",
+      "url": "https://www.wsj.com/news/author/kimberley-a-strassel?mod=nav_top_subsection"
+    },
+    {
+      "text": "Editorials",
+      "url": "https://www.wsj.com/news/types/review-outlook-u-s?mod=nav_top_subsection"
+    },
+    {
+      "text": "Commentary",
+      "url": "https://www.wsj.com/news/types/commentary-u-s?mod=nav_top_subsection"
+    },
+    {
+      "text": "Future View",
+      "url": "https://www.wsj.com/news/types/future-view?mod=nav_top_subsection"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "https://www.wsj.com/news/types/letters?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Weekend Interview",
+      "url": "https://www.wsj.com/news/types/the-saturday-interview?mod=nav_top_subsection"
+    },
+    {
+      "text": "Potomac Watch Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-opinion-potomac-watch?mod=nav_top_subsection"
+    },
+    {
+      "text": "Foreign Edition Podcast",
+      "url": "https://www.wsj.com/podcasts/latest/wsj-opinion-foreign-edition?mod=nav_top_subsection"
+    },
+    {
+      "text": "Free Expression Podcast",
+      "url": "https://www.wsj.com/podcasts/opinion-free-expression?mod=nav_top_subsection"
+    },
+    {
+      "text": "Opinion Video",
+      "url": "https://www.wsj.com/video/browse/opinion?mod=nav_top_subsection"
+    },
+    {
+      "text": "Notable & Quotable",
+      "url": "https://www.wsj.com/news/types/notable-quotable?mod=nav_top_subsection"
+    },
+    {
+      "text": "Books & Arts",
+      "url": "https://www.wsj.com/news/books-arts?mod=nav_top_section"
+    },
+    {
+      "text": "Film",
+      "url": "https://www.wsj.com/news/types/film-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Television",
+      "url": "https://www.wsj.com/news/types/television-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Theater",
+      "url": "https://www.wsj.com/news/types/theater-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Masterpiece Series",
+      "url": "https://www.wsj.com/news/types/masterpiece?mod=nav_top_subsection"
+    },
+    {
+      "text": "Music",
+      "url": "https://www.wsj.com/news/types/music-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Dance",
+      "url": "https://www.wsj.com/news/types/dance-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Opera",
+      "url": "https://www.wsj.com/news/types/opera-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Exhibition",
+      "url": "https://www.wsj.com/news/types/exhibition-review?mod=nav_top_subsection"
+    },
+    {
+      "text": "Cultural Commentary",
+      "url": "https://www.wsj.com/news/types/cultural-commentary?mod=nav_top_subsection"
+    },
+    {
+      "text": "Arts",
+      "url": "https://www.wsj.com/news/books-arts/arts?mod=nav_top_subsection"
+    },
+    {
+      "text": "Books",
+      "url": "https://www.wsj.com/news/books-arts/books?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ Puzzles",
+      "url": "https://www.wsj.com/puzzles?mod=nav_top_subsection"
+    },
+    {
+      "text": "Life Video",
+      "url": "https://www.wsj.com/video/browse/life-culture?mod=nav_top_subsection"
+    },
+    {
+      "text": "Arts Video",
+      "url": "https://www.wsj.com/video/browse/life-culture/arts-and-entertainment?mod=nav_top_subsection"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.wsj.com/news/realestate?mod=nav_top_section"
+    },
+    {
+      "text": "Commercial Real Estate",
+      "url": "https://www.wsj.com/news/markets/real-estate-commercial?mod=nav_top_subsection"
+    },
+    {
+      "text": "Real Estate Video",
+      "url": "https://www.wsj.com/video/subject/mansion?mod=nav_top_subsection"
+    },
+    {
+      "text": "Life & Work",
+      "url": "https://www.wsj.com/news/life-work?mod=nav_top_section"
+    },
+    {
+      "text": "Cars",
+      "url": "https://www.wsj.com/news/life-work/automotive?mod=nav_top_subsection"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.wsj.com/news/types/management-careers?mod=nav_top_subsection"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.wsj.com/news/types/arts-entertainment?mod=nav_top_subsection"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.wsj.com/news/life-work/food-cooking-drink?mod=nav_top_subsection"
+    },
+    {
+      "text": "Home & Design",
+      "url": "https://www.wsj.com/news/magazine/art-design?mod=nav_top_subsection"
+    },
+    {
+      "text": "Ideas",
+      "url": "https://www.wsj.com/news/life-work/ideas?mod=nav_top_subsection"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.wsj.com/news/types/personal-finance?mod=nav_top_subsection"
+    },
+    {
+      "text": "Recipes",
+      "url": "https://www.wsj.com/recipes?mod=nav_top_subsection"
+    },
+    {
+      "text": "Style & Fashion",
+      "url": "https://www.wsj.com/news/life-work/fashion?mod=nav_top_subsection"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.wsj.com/news/life-work/travel?mod=nav_top_subsection"
+    },
+    {
+      "text": "Wellness",
+      "url": "https://www.wsj.com/news/life-work/health-wellness?mod=nav_top_subsection"
+    },
+    {
+      "text": "Your Health",
+      "url": "https://www.wsj.com/news/author/sumathi-reddy?mod=nav_top_subsection"
+    },
+    {
+      "text": "Work & Life",
+      "url": "https://www.wsj.com/news/author/rachel-feintzeig?mod=nav_top_subsection"
+    },
+    {
+      "text": "The Middle Seat",
+      "url": "https://www.wsj.com/news/author/scott-mccartney?mod=nav_top_subsection"
+    },
+    {
+      "text": "Bonds",
+      "url": "https://www.wsj.com/news/author/elizabeth-anne-bernstein?mod=nav_top_subsection"
+    },
+    {
+      "text": "At Work",
+      "url": "https://www.wsj.com/news/author/krithika-varagur?mod=nav_top_subsection"
+    },
+    {
+      "text": "Turning Points",
+      "url": "https://www.wsj.com/news/author/clare-ansberry?mod=nav_top_subsection"
+    },
+    {
+      "text": "Off Brand",
+      "url": "https://www.wsj.com/news/author/rory-satran?mod=nav_top_subsection"
+    },
+    {
+      "text": "On Trend",
+      "url": "https://www.wsj.com/news/author/jacob-gallagher?mod=nav_top_subsection"
+    },
+    {
+      "text": "On Wine",
+      "url": "https://www.wsj.com/news/author/lettie-teague?mod=nav_top_subsection"
+    },
+    {
+      "text": "On The Clock",
+      "url": "https://www.wsj.com/news/types/on-the-clock?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ Puzzles",
+      "url": "https://www.wsj.com/news/puzzle?mod=nav_top_subsection"
+    },
+    {
+      "text": "Space & Science",
+      "url": "https://www.wsj.com/news/science?mod=nav_top_subsection"
+    },
+    {
+      "text": "WSJ. Magazine",
+      "url": "https://www.wsj.com/news/magazine?mod=nav_top_section"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://www.wsj.com/news/magazine/fashion?mod=nav_top_subsection"
+    },
+    {
+      "text": "Art & Design",
+      "url": "https://www.wsj.com/news/magazine/art-design?mod=nav_top_subsection"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.wsj.com/news/magazine/travel?mod=nav_top_subsection"
+    },
+    {
+      "text": "Food",
+      "url": "https://www.wsj.com/news/magazine/food?mod=nav_top_subsection"
+    },
+    {
+      "text": "Culture",
+      "url": "https://www.wsj.com/news/magazine/culture?mod=nav_top_subsection"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.wsj.com/news/sports?mod=nav_top_section"
+    },
+    {
+      "text": "Beijing 2022 Olympics",
+      "url": "https://www.wsj.com/news/types/olympics?mod=nav_top_subsection"
+    },
+    {
+      "text": "MLB",
+      "url": "https://www.wsj.com/news/types/mlb?mod=nav_top_subsection"
+    },
+    {
+      "text": "NBA",
+      "url": "https://www.wsj.com/news/types/nba?mod=nav_top_subsection"
+    },
+    {
+      "text": "NFL",
+      "url": "https://www.wsj.com/news/types/nfl?mod=nav_top_subsection"
+    },
+    {
+      "text": "Golf",
+      "url": "https://www.wsj.com/news/types/sports-golf?mod=nav_top_subsection"
+    },
+    {
+      "text": "Tennis",
+      "url": "https://www.wsj.com/news/types/tennis?mod=nav_top_subsection"
+    },
+    {
+      "text": "Soccer",
+      "url": "https://www.wsj.com/news/types/soccer?mod=nav_top_subsection"
+    },
+    {
+      "text": "Jason Gay",
+      "url": "https://www.wsj.com/news/author/jason-gay?mod=nav_top_subsection"
+    },
+    {
+      "text": "Saudi Aramco Posts Record Quarterly Profit on Surging Oil Prices",
+      "url": "https://www.wsj.com/articles/saudi-aramco-posts-record-quarterly-profit-on-surging-oil-prices-11652608615?mod=hp_lead_pos1"
+    },
+    {
+      "text": "Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines",
+      "url": "https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731?mod=hp_lead_pos2"
+    },
+    {
+      "text": "795",
+      "url": "https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731?mod=hp_lead_pos2#comments_sector"
+    },
+    {
+      "text": "Latest Updates From the War",
+      "url": "https://wsj.com/livecoverage/latest-updates/russia-ukraine-latest-news"
+    },
+    {
+      "text": "Buffalo Supermarket Shooting Leaves at Least 10 Dead",
+      "url": "https://www.wsj.com/articles/multiple-people-shot-at-buffalo-supermarket-11652561758?mod=hp_lead_pos3"
+    },
+    {
+      "text": "Russian Invasion Intensifies Role of New U.S.-EU Tech Council",
+      "url": "https://www.wsj.com/articles/russian-invasion-intensifies-role-of-new-u-s-eu-tech-council-11652607001?mod=hp_lead_pos4"
+    },
+    {
+      "text": "Individual Investors Step Back From Options Bets",
+      "url": "https://www.wsj.com/articles/individual-investors-step-back-from-options-bets-11652549446?mod=hp_lead_pos5"
+    },
+    {
+      "text": "Barnette Scrambles Pennsylvania GOP Senate Primary",
+      "url": "https://www.wsj.com/articles/kathy-barnette-scrambles-pennsylvania-gop-senate-primary-drawing-trump-ire-11652533200?mod=hp_lead_pos6"
+    },
+    {
+      "text": "212",
+      "url": "https://www.wsj.com/articles/kathy-barnette-scrambles-pennsylvania-gop-senate-primary-drawing-trump-ire-11652533200?mod=hp_lead_pos6#comments_sector"
+    },
+    {
+      "text": "Political Hopefuls Turn to NFTs to Raise Funds for Midterm Elections",
+      "url": "https://www.wsj.com/articles/political-hopefuls-turn-to-nfts-to-raise-funds-for-midterm-elections-11652520603"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/ceo-pay-packages-rose-to-median-14-7-million-in-2021-a-new-high-11652607000?mod=hp_lead_pos7"
+    },
+    {
+      "text": "CEO Pay Packages Rose to Median $14.7 Million in 2021, a New High",
+      "url": "https://www.wsj.com/articles/ceo-pay-packages-rose-to-median-14-7-million-in-2021-a-new-high-11652607000?mod=hp_lead_pos7"
+    },
+    {
+      "text": "The Highest Paid CEOs in the S&P 500",
+      "url": "https://www.wsj.com/articles/highest-paid-ceos-top-salaries-2021-ranking-11652537876"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/nations-aim-to-secure-supply-chains-by-turning-offshoring-into-friend-shoring-11652612580?mod=hp_lead_pos8"
+    },
+    {
+      "text": "Nations Aim to Secure Supply Chains by Turning Offshoring Into \u2018Friend-Shoring\u2019",
+      "url": "https://www.wsj.com/articles/nations-aim-to-secure-supply-chains-by-turning-offshoring-into-friend-shoring-11652612580?mod=hp_lead_pos8"
+    },
+    {
+      "text": "7",
+      "url": "https://www.wsj.com/articles/nations-aim-to-secure-supply-chains-by-turning-offshoring-into-friend-shoring-11652612580?mod=hp_lead_pos8#comments_sector"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/behind-fake-account-issue-that-elon-musk-cited-in-pausing-twitter-deal-11652612403?mod=hp_lead_pos9"
+    },
+    {
+      "text": "Behind Fake-Account Issue Musk Cited in Pausing Twitter Deal",
+      "url": "https://www.wsj.com/articles/behind-fake-account-issue-that-elon-musk-cited-in-pausing-twitter-deal-11652612403?mod=hp_lead_pos9"
+    },
+    {
+      "text": "Yellen Seeks to Win European Support for a Tax Deal Congress Hasn\u2019t Approved",
+      "url": "https://www.wsj.com/articles/yellen-seeks-to-win-european-support-for-a-tax-deal-congress-hasnt-approved-11652536800?mod=hp_lead_pos10"
+    },
+    {
+      "text": "Borrowing Costs Balloon as Home Construction Gets Delayed",
+      "url": "https://www.wsj.com/articles/they-signed-contracts-for-their-dream-homes-last-year-now-their-borrowing-costs-are-ballooning-11652607001?mod=hp_lead_pos11"
+    },
+    {
+      "text": "17",
+      "url": "https://www.wsj.com/articles/they-signed-contracts-for-their-dream-homes-last-year-now-their-borrowing-costs-are-ballooning-11652607001?mod=hp_lead_pos11#comments_sector"
+    },
+    {
+      "text": "View more podcasts",
+      "url": "https://www.wsj.com/podcasts?mod=hp"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/podcasts/the-journal"
+    },
+    {
+      "text": "Why an Online Telehealth Startup Is Limiting Adderall",
+      "url": "https://www.wsj.com/podcasts/the-journal/why-an-online-telehealth-startup-is-limiting-adderall/F884ABC7-8B4D-43B0-837A-5E5ECE0E15F3"
+    },
+    {
+      "text": "Read Transcript",
+      "url": "https://www.wsj.com/podcasts/the-journal/why-an-online-telehealth-startup-is-limiting-adderall/F884ABC7-8B4D-43B0-837A-5E5ECE0E15F3"
+    },
+    {
+      "text": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/the-journal/id1469394914"
+    },
+    {
+      "text": "Spotify",
+      "url": "https://open.spotify.com/show/0KxdEdeY2Wb3zr28dMlQva"
+    },
+    {
+      "text": "Google Podcasts",
+      "url": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vV1NKNDY5MzM2NDk3Mz9saW1pdD0yMA"
+    },
+    {
+      "text": "TuneIn",
+      "url": "https://tunein.com/podcasts/The-Journal-p1230138/"
+    },
+    {
+      "text": "Stitcher",
+      "url": "https://www.stitcher.com/podcast/wall-street-journal/the-journal-2"
+    },
+    {
+      "text": "Amazon Alexa",
+      "url": "https://www.amazon.com/dp/B07TJJTJ7N"
+    },
+    {
+      "text": "iHeartRadio",
+      "url": "https://www.iheart.com/podcast/300-the-journal-46363342/"
+    },
+    {
+      "text": "RSS",
+      "url": "https://video-api.wsj.com/podcast/rss/wsj/the-journal"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/lunar-eclipse-2022-when-to-watch-blood-moon-11652533115?mod=hp_featst_pos3"
+    },
+    {
+      "text": "Lunar Eclipse 2022: When and How to Watch the Blood Moon2 min read",
+      "url": "https://www.wsj.com/articles/lunar-eclipse-2022-when-to-watch-blood-moon-11652533115?mod=hp_featst_pos3"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/story/this-miami-house-isnt-just-a-homeits-a-conversation-piece-9e00714b?mod=hp_featst_pos4"
+    },
+    {
+      "text": "This Miami House Isn\u2019t Just a Home\u2014It\u2019s a Conversation Piece",
+      "url": "https://www.wsj.com/story/this-miami-house-isnt-just-a-homeits-a-conversation-piece-9e00714b?mod=hp_featst_pos4"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/story/conversations-with-friends-star-joe-alwyn-enters-a-new-chapter-6a1d6ea2?mod=hp_featst_pos5"
+    },
+    {
+      "text": "\u2018Conversations With Friends\u2019 Star Joe Alwyn Enters a New Chapter",
+      "url": "https://www.wsj.com/story/conversations-with-friends-star-joe-alwyn-enters-a-new-chapter-6a1d6ea2?mod=hp_featst_pos5"
+    },
+    {
+      "text": "Columnists",
+      "url": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/the-biggest-problem-with-flying-cars-is-on-the-ground-11652500850?mod=wsjhp_columnists_pos1"
+    },
+    {
+      "text": "The Biggest Problem With Flying Cars Is on the Ground",
+      "url": "https://www.wsj.com/articles/the-biggest-problem-with-flying-cars-is-on-the-ground-11652500850?mod=wsjhp_columnists_pos1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/kim-kardashian-y2k-fashion-juicy-11652459457?mod=wsjhp_columnists_pos2"
+    },
+    {
+      "text": "The Latest Divisive \u2018Y2K\u2019 Trend? Sexy-Cozy Juicy Couture Tracksuits",
+      "url": "https://www.wsj.com/articles/kim-kardashian-y2k-fashion-juicy-11652459457?mod=wsjhp_columnists_pos2"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/the-not-terrible-news-about-videogames-and-your-kids-brain-11652460977?mod=wsjhp_columnists_pos3"
+    },
+    {
+      "text": "Videogames Don\u2019t Ruin Kids\u2019 Brains. They Might Even Help.",
+      "url": "https://www.wsj.com/articles/the-not-terrible-news-about-videogames-and-your-kids-brain-11652460977?mod=wsjhp_columnists_pos3"
+    },
+    {
+      "text": "\n    View Membership Options\n    ",
+      "url": "https://store.wsj.com/shop/us/us/wsjusnsswg217av3/?swg=true&fswg=true&inttrackingCode=aaqx8slk&icid=WSJ_ON_NA_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&cx_campaign=WSJUSSwGNS"
+    },
+    {
+      "text": "\n    View Membership Options\n    ",
+      "url": "https://store.wsj.com/shop/us/us/wsjusnsswg217av3/?swg=true&fswg=true&inttrackingCode=aaqx8slk&icid=WSJ_ON_NA_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&cx_campaign=WSJUSSwGNS"
+    },
+    {
+      "text": "Business & Finance",
+      "url": "https://www.wsj.com/news/business?mod=hp_lista_strap"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/ford-unloads-further-7-million-shares-in-electric-vehicle-startup-rivian-11652536603?mod=hp_lista_pos1"
+    },
+    {
+      "text": "Ford Unloads More Shares of Electric-Vehicle Startup Rivian",
+      "url": "https://www.wsj.com/articles/ford-unloads-further-7-million-shares-in-electric-vehicle-startup-rivian-11652536603?mod=hp_lista_pos1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/why-its-so-hard-to-keep-russian-diamonds-and-gold-out-of-the-u-s-despite-sanctions-11652526180?mod=hp_lista_pos2"
+    },
+    {
+      "text": "Why It\u2019s Hard to Keep Russian Diamonds, Gold Out of the U.S.",
+      "url": "https://www.wsj.com/articles/why-its-so-hard-to-keep-russian-diamonds-and-gold-out-of-the-u-s-despite-sanctions-11652526180?mod=hp_lista_pos2"
+    },
+    {
+      "text": "60",
+      "url": "https://www.wsj.com/articles/why-its-so-hard-to-keep-russian-diamonds-and-gold-out-of-the-u-s-despite-sanctions-11652526180?mod=hp_lista_pos2#comments_sector"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/remote-workers-dont-want-to-go-back-to-the-office-11652500810?mod=hp_lista_pos3"
+    },
+    {
+      "text": "At Tech Companies, the Rebellion Against the Return to the Office Is Getting Serious",
+      "url": "https://www.wsj.com/articles/remote-workers-dont-want-to-go-back-to-the-office-11652500810?mod=hp_lista_pos3"
+    },
+    {
+      "text": "357",
+      "url": "https://www.wsj.com/articles/remote-workers-dont-want-to-go-back-to-the-office-11652500810?mod=hp_lista_pos3#comments_sector"
+    },
+    {
+      "text": "Stocks Are Way Down. They\u2019re Still Expensive.",
+      "url": "https://www.wsj.com/articles/stocks-are-way-down-theyre-still-expensive-11652500809?mod=hp_lista_pos4"
+    },
+    {
+      "text": "232",
+      "url": "https://www.wsj.com/articles/stocks-are-way-down-theyre-still-expensive-11652500809?mod=hp_lista_pos4#comments_sector"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.wsj.com/news/types/obituaries?mod=lead_feature_below_a_strap"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/bass-fishing-entrepreneur-ray-scott-built-an-empire-11652290025?mod=lead_feature_below_a_pos1"
+    },
+    {
+      "text": "Bass-Fishing Entrepreneur Ray Scott Built an Empire",
+      "url": "https://www.wsj.com/articles/bass-fishing-entrepreneur-ray-scott-built-an-empire-11652290025?mod=lead_feature_below_a_pos1"
+    },
+    {
+      "text": "6",
+      "url": "https://www.wsj.com/articles/bass-fishing-entrepreneur-ray-scott-built-an-empire-11652290025?mod=lead_feature_below_a_pos1#comments_sector"
+    },
+    {
+      "text": "Doug McCormick Led TV Network and Websites Aimed at Women",
+      "url": "https://www.wsj.com/articles/doug-mccormick-led-tv-network-and-websites-aimed-at-women-11652452334?mod=lead_feature_below_a_pos1"
+    },
+    {
+      "text": "Earl Devaney Battled Government Waste and Fraud",
+      "url": "https://www.wsj.com/articles/earl-devaney-battled-government-waste-and-fraud-11652364354?mod=lead_feature_below_a_pos1"
+    },
+    {
+      "text": "World",
+      "url": "https://www.wsj.com/news/world?mod=hp_listb_strap"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820?mod=hp_listb_pos1"
+    },
+    {
+      "text": "Lebanon Holds First Election Since Economic Collapse",
+      "url": "https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820?mod=hp_listb_pos1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001?mod=hp_listb_pos2"
+    },
+    {
+      "text": "Mass Covid Testing Becomes China\u2019s New Normal",
+      "url": "https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001?mod=hp_listb_pos2"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782?mod=hp_listb_pos3"
+    },
+    {
+      "text": "Rising Food Prices Are Roiling the Developing World",
+      "url": "https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782?mod=hp_listb_pos3"
+    },
+    {
+      "text": "244",
+      "url": "https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782?mod=hp_listb_pos3#comments_sector"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400?mod=hp_listb_pos4"
+    },
+    {
+      "text": "El Salvador\u2019s President Went All In on Bitcoin. Then It Tanked.",
+      "url": "https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400?mod=hp_listb_pos4"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.wsj.com/news/types/science?mod=hp_listc_strap"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/cat-litter-could-be-antidote-for-climate-change-researchers-say-11652490018?mod=hp_listc_pos1"
+    },
+    {
+      "text": "Cat Litter Could Be Antidote for Climate Change, Researchers Say",
+      "url": "https://www.wsj.com/articles/cat-litter-could-be-antidote-for-climate-change-researchers-say-11652490018?mod=hp_listc_pos1"
+    },
+    {
+      "text": "127",
+      "url": "https://www.wsj.com/articles/cat-litter-could-be-antidote-for-climate-change-researchers-say-11652490018?mod=hp_listc_pos1#comments_sector"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.wsj.com/news/sports"
+    },
+    {
+      "text": "Baseball Is Trying to Get More Exciting\u2014But Hitting Is Near Historic Lows",
+      "url": "https://www.wsj.com/articles/baseball-hitting-historic-lows-11652480188?mod=hp_listc_pos2"
+    },
+    {
+      "text": "Sports Memories We Never Forget, From Carlton Fisk to King of the Mountain",
+      "url": "https://www.wsj.com/articles/sports-memories-we-never-forget-11652101200?mod=hp_listc_pos3"
+    },
+    {
+      "text": "41",
+      "url": "https://www.wsj.com/articles/sports-memories-we-never-forget-11652101200?mod=hp_listc_pos3#comments_sector"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.wsj.com/video?mod=hp_video_strap"
+    },
+    {
+      "text": "CMO",
+      "url": "https://www.wsj.com/news/cmo-today?mod=hp_minor_strap_1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/microsoft-expands-its-range-of-accessible-accessories-11652286742?mod=hp_minor_pos1"
+    },
+    {
+      "text": "Microsoft Expands Its Range of Accessible Accessories3 min read",
+      "url": "https://www.wsj.com/articles/microsoft-expands-its-range-of-accessible-accessories-11652286742?mod=hp_minor_pos1"
+    },
+    {
+      "text": "Why Many Brands Have Kept Their Voices Down on Roe v. Wade (So Far)4 min read",
+      "url": "https://www.wsj.com/articles/why-many-brands-have-kept-their-voices-down-on-roe-v-wade-so-far-11652140246?mod=hp_minor_pos2"
+    },
+    {
+      "text": "Average CMO Tenure Holds Steady at Lowest Level in Decade3 min read",
+      "url": "https://www.wsj.com/articles/average-cmo-tenure-holds-steady-at-lowest-level-in-decade-11651744800?mod=hp_minor_pos3"
+    },
+    {
+      "text": "CIO",
+      "url": "https://www.wsj.com/news/cio-journal?mod=hp_minor_strap_2"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=hp_minor_pos4"
+    },
+    {
+      "text": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations2 min read",
+      "url": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=hp_minor_pos4"
+    },
+    {
+      "text": "California\u2019s AI-Powered Wildfire Prevention Efforts Contend With Data Challenge4 min read",
+      "url": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803?mod=hp_minor_pos5"
+    },
+    {
+      "text": "Truist Financial Acquires Gamified Fintech Startup Long Game3 min read",
+      "url": "https://www.wsj.com/articles/truist-financial-acquires-gamified-fintech-startup-long-game-11652219591?mod=hp_minor_pos6"
+    },
+    {
+      "text": "CFO",
+      "url": "https://www.wsj.com/news/cfo-journal?mod=hp_minor_strap_3"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/how-molson-coors-slashed-its-debt-by-more-than-40-since-millercoors-deal-11652366505?mod=hp_minor_pos7"
+    },
+    {
+      "text": "How Molson Coors Slashed Its Debt by More Than 40% Since MillerCoors Deal4 min read",
+      "url": "https://www.wsj.com/articles/how-molson-coors-slashed-its-debt-by-more-than-40-since-millercoors-deal-11652366505?mod=hp_minor_pos7"
+    },
+    {
+      "text": "Hot Job Market, Strong Demand for CFOs Strain Due Diligence5 min read",
+      "url": "https://www.wsj.com/articles/hot-job-market-strong-demand-for-cfos-strain-due-diligence-11652317296?mod=hp_minor_pos8"
+    },
+    {
+      "text": "FASB to Consider Setting Rules on Companies\u2019 Crypto Accounting, Disclosure3 min read",
+      "url": "https://www.wsj.com/articles/fasb-to-consider-setting-rules-on-companies-crypto-accounting-disclosure-11652297711?mod=hp_minor_pos9"
+    },
+    {
+      "text": "Risk & Compliance",
+      "url": "https://www.wsj.com/news/risk-compliance-journal?mod=hp_minor_strap_4"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/treasury-outlines-strategy-for-tackling-illicit-finance-threats-11652464812?mod=hp_minor_pos10"
+    },
+    {
+      "text": "Treasury Targets Russia as Part of Plan to Combat Illicit Finance3 min read",
+      "url": "https://www.wsj.com/articles/treasury-outlines-strategy-for-tackling-illicit-finance-threats-11652464812?mod=hp_minor_pos10"
+    },
+    {
+      "text": "AI Hiring Tools Can Violate Disability Protections, Government Warns3 min read",
+      "url": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos11"
+    },
+    {
+      "text": "The Morning Risk Report1 min read",
+      "url": "https://createsend.com/t/d-FDF291A16EC377582540EF23F30FEDED?mod=hp_minor_pos12"
+    },
+    {
+      "text": "Logistics Report",
+      "url": "https://www.wsj.com/news/logistics-report?mod=hp_minor_strap_5"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/activist-investor-seeks-ryder-buyout-in-4-4-billion-deal-11652470071?mod=hp_minor_pos13"
+    },
+    {
+      "text": "Activist Investor Seeks Ryder Buyout in $4.4 Billion Deal2 min read",
+      "url": "https://www.wsj.com/articles/activist-investor-seeks-ryder-buyout-in-4-4-billion-deal-11652470071?mod=hp_minor_pos13"
+    },
+    {
+      "text": "Rising Diesel Costs Are Straining U.S. Truckers, Shipping Operations4 min read",
+      "url": "https://www.wsj.com/articles/rising-diesel-costs-are-straining-u-s-truckers-shipping-operations-11652376035?mod=hp_minor_pos14"
+    },
+    {
+      "text": "Today\u2019s Logistics Report: Fuel Costs are Soaring; China\u2019s Hobbled Factories; Selling off Russian Tankers1 min read",
+      "url": "https://createsend.com/t/d-70326E6D1F081D0F2540EF23F30FEDED?mod=hp_minor_pos15"
+    },
+    {
+      "text": "Sustainable Business",
+      "url": "https://www.wsj.com/pro/sustainable-business?mod=hp_minor_strap_6"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/human-behavior-is-the-other-puzzle-for-climate-change-modeling-11652349600?mod=hp_minor_pos16"
+    },
+    {
+      "text": "Human Behavior Is the Other Puzzle for Climate-Change Modeling5 min read",
+      "url": "https://www.wsj.com/articles/human-behavior-is-the-other-puzzle-for-climate-change-modeling-11652349600?mod=hp_minor_pos16"
+    },
+    {
+      "text": "Power Executives See Roadblocks to Decarbonization Efforts3 min read",
+      "url": "https://www.wsj.com/articles/power-executives-see-roadblocks-to-decarbonization-efforts-11652302439?mod=hp_minor_pos17"
+    },
+    {
+      "text": "The Solar Boom Will Create Millions of Tons of Junk Panels5 min read",
+      "url": "https://www.wsj.com/articles/the-solar-boom-will-create-millions-of-tons-of-junk-panels-11651658402?mod=hp_minor_pos18"
+    },
+    {
+      "text": "Heard on the Street",
+      "url": "https://www.wsj.com/news/heard-on-the-street?mod=hp_minor_strap_7"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/how-utility-stocks-have-kept-their-spark-11652536981?mod=hp_minor_pos19"
+    },
+    {
+      "text": "How Utility Stocks Have Kept Their Spark4 min read",
+      "url": "https://www.wsj.com/articles/how-utility-stocks-have-kept-their-spark-11652536981?mod=hp_minor_pos19"
+    },
+    {
+      "text": "Musk Ruffles Twitter\u2019s Feathers 3 min read",
+      "url": "https://www.wsj.com/articles/elon-musk-ruffles-twitters-feathers-11652457698?mod=hp_minor_pos20"
+    },
+    {
+      "text": "Heard on the Street: Crypto\u2019s Merry Band Comes Back To Robinhood 3 min read",
+      "url": "https://www.wsj.com/articles/cryptos-merry-band-comes-back-to-robinhood-11652461180?mod=hp_minor_pos21"
+    },
+    {
+      "text": "Barron\u2019s",
+      "url": "https://www.barrons.com?mod=hp_minor_strap_8"
+    },
+    {
+      "text": "",
+      "url": "https://www.barrons.com/articles/amc-stock-amd-block-netflix-51652216679?mod=hp_minor_pos22"
+    },
+    {
+      "text": "Largest U.S. Pension Bought AMC, AMD, and Block Stock. It Sold Netflix.3 min read",
+      "url": "https://www.barrons.com/articles/amc-stock-amd-block-netflix-51652216679?mod=hp_minor_pos22"
+    },
+    {
+      "text": "SPACs Have a Bad Rap. Why That Isn't Fair.4 min read",
+      "url": "https://www.barrons.com/articles/spac-ipo-performance-comparison-51652578265?mod=hp_minor_pos23"
+    },
+    {
+      "text": "Considering a Lump-Sum Pension Payout? Here's What to Know, and Why to Act Soon.6 min read",
+      "url": "https://www.barrons.com/articles/retirement-pension-lump-sum-51652480253?mod=hp_minor_pos24"
+    },
+    {
+      "text": "MarketWatch",
+      "url": "https://www.marketwatch.com?mod=hp_minor_strap_9"
+    },
+    {
+      "text": "",
+      "url": "https://www.marketwatch.com/story/dont-just-fear-the-market-lows-after-a-hard-drop-stocks-are-ripe-to-come-back-says-this-money-manager-11652440436?mod=hp_minor_pos25"
+    },
+    {
+      "text": "This portfolio manager's strategy uses just one ETF and his own 'crash indicator' to beat the market by 530%4 min read",
+      "url": "https://www.marketwatch.com/story/dont-just-fear-the-market-lows-after-a-hard-drop-stocks-are-ripe-to-come-back-says-this-money-manager-11652440436?mod=hp_minor_pos25"
+    },
+    {
+      "text": "I\u2019m 68, my husband is terminally ill, and his $3 million estate will go to his son. I want to spend the rest of my days traveling \u2014 will I have enough money?7 min read",
+      "url": "https://www.marketwatch.com/story/im-68-my-husband-is-terminally-ill-and-his-3-million-estate-will-go-to-his-son-i-want-to-spend-the-rest-of-my-days-traveling-will-i-have-enough-money-11641497503?mod=hp_minor_pos26"
+    },
+    {
+      "text": "Markets making you queasy? These simple, low-cost retirement portfolios are holding up well6 min read",
+      "url": "https://www.marketwatch.com/story/feeling-seasick-these-simple-low-cost-retirement-portfolios-are-holding-up-well-11652387274?mod=hp_minor_pos27"
+    },
+    {
+      "text": "Mansion Global",
+      "url": "https://www.mansionglobal.com?mod=hp_minor_strap_10"
+    },
+    {
+      "text": "",
+      "url": "https://www.mansionglobal.com/articles/even-with-fewer-foreign-buyers-in-new-york-city-billionaires-row-holds-its-own-01652614147?mod=hp_minor_pos28"
+    },
+    {
+      "text": "Even With Fewer Foreign Buyers in New York City, Billionaires\u2019 Row Holds Its Own6 min read",
+      "url": "https://www.mansionglobal.com/articles/even-with-fewer-foreign-buyers-in-new-york-city-billionaires-row-holds-its-own-01652614147?mod=hp_minor_pos28"
+    },
+    {
+      "text": "This Week in Celebrity Homes: Adam Levine, Lilly Ghalichi1 min read",
+      "url": "https://www.mansionglobal.com/articles/this-week-in-celebrity-homes-adam-levine-lilly-ghalichi-01652614043?mod=hp_minor_pos29"
+    },
+    {
+      "text": "Week in Review: Villas, Pied-\u00e0-Terres, and Compounds1 min read",
+      "url": "https://www.mansionglobal.com/articles/week-in-review-villas-pied-a-terres-and-compounds-153005?mod=hp_minor_pos30"
+    },
+    {
+      "text": "Penta",
+      "url": "https://www.barrons.com/penta?mod=hp_minor_strap_11"
+    },
+    {
+      "text": "",
+      "url": "https://www.barrons.com/articles/great-escapes-in-guanacaste-costa-rica-biodiversity-rustic-beauty-and-the-pura-vida-lifestyle-01652474238?mod=hp_minor_pos31"
+    },
+    {
+      "text": "Great Escapes: In Guanacaste, Costa Rica, Biodiversity, Rustic Beauty, and the Pura Vida Lifestyle5 min read",
+      "url": "https://www.barrons.com/articles/great-escapes-in-guanacaste-costa-rica-biodiversity-rustic-beauty-and-the-pura-vida-lifestyle-01652474238?mod=hp_minor_pos31"
+    },
+    {
+      "text": "Five High-Flying Travel Watches4 min read",
+      "url": "https://www.barrons.com/articles/five-high-flying-travel-watches-01652467622?mod=hp_minor_pos32"
+    },
+    {
+      "text": "Looking to the Past for the Present at Frieze New York5 min read",
+      "url": "https://www.barrons.com/articles/looking-to-the-past-for-the-present-at-frieze-new-york-01652456085?mod=hp_minor_pos33"
+    },
+    {
+      "text": "Weekend Reads",
+      "url": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582"
+    },
+    {
+      "text": "Three Friends Chatting: How the Steele Dossier Was Created",
+      "url": "https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.wsj.com/news/opinion?mod=hp_opin_strap"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/how-disagreement-became-disinformation-misinformation-nina-jankowicz-governance-board-czar-11652450632?mod=hp_opin_pos_1"
+    },
+    {
+      "text": "How Disagreement Became \u2018Disinformation\u2019",
+      "url": "https://www.wsj.com/articles/how-disagreement-became-disinformation-misinformation-nina-jankowicz-governance-board-czar-11652450632?mod=hp_opin_pos_1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/what-did-the-steele-hoax-cost-america-russia-clinton-trump-lies-intelligence-court-trial-dossier-politics-11652470728?mod=hp_opin_pos_2"
+    },
+    {
+      "text": " What Did the Steele Dossier Hoax Cost America?",
+      "url": "https://www.wsj.com/articles/what-did-the-steele-hoax-cost-america-russia-clinton-trump-lies-intelligence-court-trial-dossier-politics-11652470728?mod=hp_opin_pos_2"
+    },
+    {
+      "text": " New York Leads America off a Renewable-Energy Cliff",
+      "url": "https://www.wsj.com/articles/new-york-leads-america-off-an-energy-cliff-natural-gas-fossil-fuels-pipelines-shale-11652296744?mod=hp_opin_pos_3"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/the-democrats-abortion-pitfall-demand-activists-trimester-first-third-polling-voters-11652190689?mod=hp_opin_pos_4"
+    },
+    {
+      "text": " The Democrats\u2019 Roe v. Wade Pitfall",
+      "url": "https://www.wsj.com/articles/the-democrats-abortion-pitfall-demand-activists-trimester-first-third-polling-voters-11652190689?mod=hp_opin_pos_4"
+    },
+    {
+      "text": " The Arrest of Cardinal Zen Marks a New Low in Hong Kong",
+      "url": "https://www.wsj.com/articles/tiananmen-without-the-tanks-china-ccp-democracy-hong-kong-cardinal-joseph-zen-jail-activist-catholic-arrest-11652471162?mod=hp_opin_pos_5"
+    },
+    {
+      "text": " California Parents Say No to Anti-Semitic Ethnic Studies",
+      "url": "https://www.wsj.com/articles/california-parents-say-no-to-anti-semitic-ethnic-studies-public-school-children-classroom-israel-anti-semitic-11652389663?mod=hp_opin_pos_6"
+    },
+    {
+      "text": "Got a tip for us?Here\u2019s how to submit it.",
+      "url": "https://www.wsj.com/tips"
+    },
+    {
+      "text": "Most Popular News",
+      "url": ""
+    },
+    {
+      "text": "Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines ",
+      "url": "https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731?mod=hp_trending_now_article_pos1"
+    },
+    {
+      "text": "Stocks Are Way Down. They\u2019re Still Expensive.",
+      "url": "https://www.wsj.com/articles/stocks-are-way-down-theyre-still-expensive-11652500809?mod=hp_trending_now_article_pos2"
+    },
+    {
+      "text": "The American High Schooler Surpassing Usain Bolt",
+      "url": "https://www.wsj.com/articles/erriyon-knighton-usain-bolt-11652414124?mod=hp_trending_now_article_pos3"
+    },
+    {
+      "text": "Netflix to Employees: If You Don\u2019t Like Our Content, You Can Quit",
+      "url": "https://www.wsj.com/articles/netflix-to-employees-if-you-dont-like-our-content-you-can-quit-11652478092?mod=hp_trending_now_article_pos4"
+    },
+    {
+      "text": "At Tech Companies, the Rebellion Against the Return to the Office Is Getting Serious",
+      "url": "https://www.wsj.com/articles/remote-workers-dont-want-to-go-back-to-the-office-11652500810?mod=hp_trending_now_article_pos5"
+    },
+    {
+      "text": "Most Popular Opinion",
+      "url": ""
+    },
+    {
+      "text": "Opinion: What Caused the Baby Formula Shortage?",
+      "url": "https://www.wsj.com/articles/who-made-the-baby-formula-shortage-biden-administration-abbott-tariffs-nestle-11652480538?mod=hp_trending_now_opn_pos1"
+    },
+    {
+      "text": "Opinion: How Disagreement Became \u2018Disinformation\u2019 ",
+      "url": "https://www.wsj.com/articles/how-disagreement-became-disinformation-misinformation-nina-jankowicz-governance-board-czar-11652450632?mod=hp_trending_now_opn_pos2"
+    },
+    {
+      "text": "Opinion: Does Biden Want Higher Gas Prices?",
+      "url": "https://www.wsj.com/articles/does-joe-biden-want-higher-gas-prices-oil-leases-offshore-11652468751?mod=hp_trending_now_opn_pos3"
+    },
+    {
+      "text": "Opinion: What Did the Steele Hoax Cost America?",
+      "url": "https://www.wsj.com/articles/what-did-the-steele-hoax-cost-america-russia-clinton-trump-lies-intelligence-court-trial-dossier-politics-11652470728?mod=hp_trending_now_opn_pos4"
+    },
+    {
+      "text": "Opinion: An Abortion Miss for Politicized Science",
+      "url": "https://www.wsj.com/articles/another-miss-for-politicized-science-the-lancet-roe-v-wade-abortion-supreme-court-samuel-alito-11652480176?mod=hp_trending_now_opn_pos5"
+    },
+    {
+      "text": "Recommended Videos",
+      "url": ""
+    },
+    {
+      "text": "Ukraine \u2018Road of Death\u2019 Shows Russians Fired on Civilians: A Video Investigation05:57",
+      "url": "https://www.wsj.com/video/series/in-depth-features/ukraine-road-of-death-shows-russians-fired-on-civilians-a-video-investigation/23BCD65C-AF57-4316-8FE9-3F3FD0A3CD58?mod=hp_trending_now_video_pos1"
+    },
+    {
+      "text": "How Do Airports Keep Birds From Striking Planes? A Wildlife Expert Explains07:04",
+      "url": "https://www.wsj.com/video/series/travel-guides/how-do-airports-keep-birds-from-striking-planes-a-wildlife-expert-explains/D841B07B-3ACB-41B1-B5D5-EE1C9509CBE5?mod=hp_trending_now_video_pos2"
+    },
+    {
+      "text": "Watch: First War-Crime Trial of Russian Soldier Starts in Kyiv01:33",
+      "url": "https://www.wsj.com/video/watch-first-war-crime-trial-of-russian-soldier-starts-in-kyiv/3B3180E3-D2B3-4240-A8CE-4196BBCE4210.html?mod=hp_trending_now_video_pos3"
+    },
+    {
+      "text": "Why Cash Is King on Wall Street Right Now02:40",
+      "url": "https://www.wsj.com/video/series/dion-rabouin/why-cash-is-king-on-wall-street-right-now/D873DC56-0801-44B2-818A-2F76C47DED46?mod=hp_trending_now_video_pos4"
+    },
+    {
+      "text": "China Struggles to Contain Frustration From Shanghai Covid Lockdown04:57",
+      "url": "https://www.wsj.com/video/china-struggles-to-contain-frustration-from-shanghai-covid-lockdown/FEE5E499-E9D9-42D0-8C64-64B778D0BCD7.html?mod=hp_trending_now_video_pos5"
+    },
+    {
+      "text": "Journal Reports",
+      "url": "https://www.wsj.com/news/collection/personal-investing-report-870bcb30?mod=hp_jr_strap"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/olympics-changing-their-doping-policy-11652098966?mod=hp_jr_pos1"
+    },
+    {
+      "text": "Should the Olympics Change the Way It Handles Doping? Here Are Some Possibilities.",
+      "url": "https://www.wsj.com/articles/olympics-changing-their-doping-policy-11652098966?mod=hp_jr_pos1"
+    },
+    {
+      "text": "Has the Designated Hitter Been Good for Baseball? Tom Glavine vs. G. Scott Thomas.8 min read",
+      "url": "https://www.wsj.com/articles/designated-hitter-in-baseball-11652100967?mod=hp_jr_pos2"
+    },
+    {
+      "text": "How Are New NCAA Rules on Paying College Athletes Working Out?Long read",
+      "url": "https://www.wsj.com/articles/ncaa-paying-college-athletes-11652099564?mod=hp_jr_pos3"
+    },
+    {
+      "text": "Extra 15% off + free shipping at Wayfair",
+      "url": "https://www.wsj.com/coupons/wayfair"
+    },
+    {
+      "text": "Up to 60% off - Target Promo Code",
+      "url": "https://www.wsj.com/coupons/target"
+    },
+    {
+      "text": "Macy's coupon - Sign up to get 25% off next order",
+      "url": "https://www.wsj.com/coupons/macys"
+    },
+    {
+      "text": "Kohl's coupon - 30% off for Rewards members",
+      "url": "https://www.wsj.com/coupons/kohls"
+    },
+    {
+      "text": "$20 off sitewide + free shipping - Saks Fifth Avenue coupon",
+      "url": "https://www.wsj.com/coupons/saks-fifth-avenue"
+    },
+    {
+      "text": "Sign up for emails and get 20% off PrettyLittleThing discount code + $1 shipping",
+      "url": "https://www.wsj.com/coupons/prettylittlething"
+    },
+    {
+      "text": "The Wall Street Journal",
+      "url": "https://www.wsj.com"
+    },
+    {
+      "text": "English",
+      "url": "#"
+    },
+    {
+      "text": "\u4e2d\u6587 (Chinese)",
+      "url": "#"
+    },
+    {
+      "text": "\u65e5\u672c\u8a9e (Japanese)",
+      "url": "#"
+    },
+    {
+      "text": "Subscribe Now",
+      "url": "https://subscribe.wsj.com/hpfooterlink"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://accounts.wsj.com/login?target=https%3A%2F%2Fwww.wsj.com%2F"
+    },
+    {
+      "text": "WSJ+ Membership Benefits",
+      "url": "https://www.wsjplus.com/?mod=wsjfooter"
+    },
+    {
+      "text": "Subscription Options",
+      "url": "https://subscribe.wsj.com/membership"
+    },
+    {
+      "text": "Why Subscribe?",
+      "url": "https://subscription.wsj.com/wsj-com-wall-street-journal/?mod=wsjfooter"
+    },
+    {
+      "text": "Corporate Subscriptions",
+      "url": "https://corporate.wsj.com/?mod=djm_wsjfooter_44670&LS=Website&utm_source=Website&utm_campaign=wsjfooter"
+    },
+    {
+      "text": "Professor Journal",
+      "url": "https://education.wsj.com/?mod=wsjfooter"
+    },
+    {
+      "text": "Student Journal",
+      "url": "https://education.wsj.com/students/?mod=wsjfooter"
+    },
+    {
+      "text": "WSJ High School Program",
+      "url": "https://highschool.wsj.com/?mod=wsjfooter"
+    },
+    {
+      "text": "Public Library Program",
+      "url": "https://publiclibrary.wsj.com/?mod=wsjfooter"
+    },
+    {
+      "text": "WSJ Live",
+      "url": "https://conferences.wsj.com/?mod=wsjfooter"
+    },
+    {
+      "text": "Customer Center",
+      "url": "https://customercenter.wsj.com/home"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://customercenter.wsj.com/contact"
+    },
+    {
+      "text": "Newsletters & Alerts",
+      "url": "https://www.wsj.com/newsletters/?mod=wsjfooter"
+    },
+    {
+      "text": "Guides",
+      "url": "https://www.wsj.com/news/how-to-guides?mod=wsjfooter"
+    },
+    {
+      "text": "Topics",
+      "url": "https://www.wsj.com/topics?mod=wsjfooter"
+    },
+    {
+      "text": "My News",
+      "url": "https://www.wsj.com/watchlist/news?mod=wsjfooter"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "https://www.wsj.com/news/rss-news-and-feeds?mod=wsjfooter"
+    },
+    {
+      "text": "Video Center",
+      "url": "https://www.wsj.com/video?mod=wsjfooter"
+    },
+    {
+      "text": "Watchlist",
+      "url": "https://www.wsj.com/watchlist/?mod=wsjfooter"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.wsj.com/podcasts?mod=wsjfooter"
+    },
+    {
+      "text": "Visual Stories",
+      "url": "https://www.wsj.com/story?mod=wsjfooter"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://www.wsjmediakit.com"
+    },
+    {
+      "text": "Commercial Real Estate Ads",
+      "url": "https://classifieds.wsj.com/advertise/real-estate-commercial/"
+    },
+    {
+      "text": "Place a Classified Ad",
+      "url": "https://classifieds.wsj.com"
+    },
+    {
+      "text": "Sell Your Business",
+      "url": "https://classifieds.wsj.com/ad/Business-For-Sale-Ads"
+    },
+    {
+      "text": "Sell Your Home",
+      "url": "https://classifieds.wsj.com/advertise/real-estate-residential/"
+    },
+    {
+      "text": "Recruitment & Career Ads",
+      "url": "https://classifieds.wsj.com/advertise/careers/"
+    },
+    {
+      "text": "Coupons",
+      "url": "https://www.wsj.com/coupons"
+    },
+    {
+      "text": "Digital Self Service",
+      "url": "https://wsjbg-adsmanager.com/?action=login"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.wsj.com/about-us?mod=wsjfooter"
+    },
+    {
+      "text": "Commercial Partnerships",
+      "url": "https://commercialpartnerships.wsj.com/?mod=CP_PRT_BRD_FTR"
+    },
+    {
+      "text": "Content Partnerships",
+      "url": "https://wsj.com/partner"
+    },
+    {
+      "text": "Corrections",
+      "url": "https://www.wsj.com/news/column/Corrections?mod=wsjfooter"
+    },
+    {
+      "text": "Jobs at WSJ",
+      "url": "https://wsj.jobs"
+    },
+    {
+      "text": "News Archive",
+      "url": "https://www.wsj.com/news/archive/?mod=wsjfooter"
+    },
+    {
+      "text": "Register for Free",
+      "url": "https://customercenter.wsj.com/register"
+    },
+    {
+      "text": "Reprints & Licensing",
+      "url": "https://www.djreprints.com"
+    },
+    {
+      "text": "Buy Issues",
+      "url": "https://wsjshop.com/?mod=wsjfooter"
+    },
+    {
+      "text": "WSJ Shop",
+      "url": "https://wsjshop.com/collections/clothing?mod=wsjfooter"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/wsj"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/WSJ"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/wsj/"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/user/WSJDigitalNetwork"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.wsj.com/podcasts"
+    },
+    {
+      "text": "Snapchat",
+      "url": "https://www.snapchat.com/discover/Wall-Street-Journal/4806310285"
+    },
+    {
+      "text": "Google Play",
+      "url": "https://play.google.com/store/apps/details?id=wsj.reader_sp"
+    },
+    {
+      "text": "App Store",
+      "url": "https://apps.apple.com/us/app/the-wall-street-journal/id364387007?mt=8"
+    },
+    {
+      "text": "Barron's",
+      "url": "https://www.barrons.com"
+    },
+    {
+      "text": "BigCharts",
+      "url": "http://bigcharts.marketwatch.com"
+    },
+    {
+      "text": "Dow Jones Newswires",
+      "url": "https://www.dowjones.com/professional/newswires/"
+    },
+    {
+      "text": "Factiva",
+      "url": "https://www.dowjones.com/professional/factiva/"
+    },
+    {
+      "text": "Financial News",
+      "url": "https://www.fnlondon.com/"
+    },
+    {
+      "text": "Mansion Global",
+      "url": "https://mansionglobal.com/"
+    },
+    {
+      "text": "MarketWatch",
+      "url": "https://www.marketwatch.com"
+    },
+    {
+      "text": "Risk & Compliance",
+      "url": "https://www.dowjones.com/professional/risk/"
+    },
+    {
+      "text": "WSJ Pro",
+      "url": "https://wsjpro.com/private-equity/?trackingCode=aaqxz7x5&cid=PPE_EE_NA_SALE_SAL&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1?mod=djm_wsjfooter_44627&LS=Website&utm_source=Website&utm_campaign=wsjfooter"
+    },
+    {
+      "text": "WSJ Video",
+      "url": "https://www.wsj.com/video?mod=wsjfooter"
+    },
+    {
+      "text": "WSJ Wine",
+      "url": "https://www.wsjwine.com"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.dowjones.com/privacy-notice/?mod=WSJ"
+    },
+    {
+      "text": "Cookie Notice",
+      "url": "https://www.dowjones.com/cookie-notice/?mod=WSJ"
+    },
+    {
+      "text": "Copyright Policy",
+      "url": "https://www.wsj.com/policy/copyright-policy"
+    },
+    {
+      "text": "Data Policy",
+      "url": "https://www.wsj.com/policy/data-policy"
+    },
+    {
+      "text": "Subscriber Agreement & Terms of Use",
+      "url": "https://www.wsj.com/policy/subscriber-agreement"
+    },
+    {
+      "text": "Your Ad Choices",
+      "url": "https://dowjones.com/cookie-notice?mod=WSJ#cookies-advertising"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.dowjones.com/accessibility-statement/?mod=WSJ"
+    },
+    {
+      "text": "Dow Jones & Company",
+      "url": "https://www.dowjones.com"
+    },
+    {
+      "text": "View Options",
+      "url": "https://store.wsj.com/shop/us/us/wsjusnsswg217av3/?swg=true&fswg=true&inttrackingCode=aaqx8slm&icid=WSJ_ON_NA_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&cx_campaign=WSJUSSwGNS"
+    }
   ]
 }
