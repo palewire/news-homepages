@@ -1,5 +1,5 @@
 {
-  "created": 1652660490,
+  "created": 1652746728,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/foxla-2022",
@@ -3558,31 +3558,115 @@
       "sha1": "b1db780dd4139884183339f552153e0bd222e6d7"
     },
     {
+      "name": "foxla-2022-05-15T19:12:14.401329-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652667139",
+      "size": "44523",
+      "md5": "d9255b50c56afdb24fefca5acd851e52",
+      "crc32": "bada48ca",
+      "sha1": "1ee9102e70c84b5b9604f39a016635d2866fa6bd",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-05-15T19:12:14.401329-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652667142",
+      "size": "38833",
+      "md5": "6892d6927ba4e8e6dff328171b4c29be",
+      "crc32": "ea800330",
+      "sha1": "9811d95cb5c6eefefb42686559230cd454abc1a1",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-05-15T19:12:14.401329-07:00.jpg",
+      "source": "original",
+      "mtime": "1652667137",
+      "size": "309452",
+      "md5": "771a48a0b1bdc2d432db0dae208fa4e8",
+      "crc32": "c19a50d3",
+      "sha1": "92b5196bf1f2634a74c2e80f61b3be348e4dfca9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-05-15T19:12:14.401329-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-05-15T19:12:14.401329-07:00.jpg",
+      "mtime": "1652671080",
+      "size": "10863",
+      "md5": "71de55d593b19a892e757a419c2bc10e",
+      "crc32": "b3cc460f",
+      "sha1": "3141d59b6ee626bf5fa7f9f9c92f3a22c3c4183d"
+    },
+    {
+      "name": "foxla-2022-05-16T06:48:41.766925-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652708928",
+      "size": "44510",
+      "md5": "6bccf09464ac9fa4659cbb4a95bddb04",
+      "crc32": "eb2143db",
+      "sha1": "7904f45b2c30d0a65d605ce515084cea3a7fa1cb",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-05-16T06:48:41.766925-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652708929",
+      "size": "38959",
+      "md5": "f4895b6942e525731995b8056af1f121",
+      "crc32": "22b9a9b4",
+      "sha1": "804997efd1aa72f99b4edbb51821b7de8957b8f9",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-05-16T06:48:41.766925-07:00.jpg",
+      "source": "original",
+      "mtime": "1652708925",
+      "size": "315009",
+      "md5": "b0298391c3b5ef5c27b8e7fded5e013b",
+      "crc32": "1e27a97c",
+      "sha1": "33c4b605e9a4aef577a01f9232c0f9398c2c4a16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-05-16T06:48:41.766925-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-05-16T06:48:41.766925-07:00.jpg",
+      "mtime": "1652709026",
+      "size": "10738",
+      "md5": "3709a491075e38160bbb2ab66a3baa90",
+      "crc32": "a9b13359",
+      "sha1": "96b30cd18b5b413c7c40fd75211cd2cb22ea2f8d"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ab7cf7e89ae22def2c43515746c03fa2e7af35d",
-      "mtime": "1652581173",
-      "size": "71574",
-      "md5": "d7af06cca8d8197f54ac3afea45e74fa",
-      "crc32": "f88a442e",
-      "sha1": "2c538b9b189bb02a0c66fabaced2cf437acc35d4",
+      "btih": "0ef97af4ee42a56a9dfff8e747716d214c015b07",
+      "mtime": "1652709038",
+      "size": "73230",
+      "md5": "d2833649d9f521f41101b5ec13a6693b",
+      "crc32": "d037c55d",
+      "sha1": "a846c8f99ab1691e10950eb0431f1d71985b85e1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1fabf88f7a7e8fd17a562f5c30af5dca",
+      "md5": "952aa699c60daacdc156d1a8bce0a5d3",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652581048",
-      "size": "393216",
-      "md5": "fa97f1cbd20029c9c9f99f44d8cfdcde",
-      "crc32": "816e5101",
-      "sha1": "2726b5a96380b6d1e1b9891faf31d24c2840dc49",
+      "mtime": "1652708942",
+      "size": "401408",
+      "md5": "1351a76f6bb5d050a71c2491a6c16aad",
+      "crc32": "758a526b",
+      "sha1": "cd9f929cea48e4f882f79bb8adba70257639242f",
       "format": "Metadata"
     },
     {
@@ -3596,7 +3680,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 341,
+  "files_count": 349,
   "foxla-2022": [
     {
       "text": " ",
@@ -4036,107 +4120,107 @@
     },
     {
       "text": "   ",
-      "url": "/news/grand-central-market-shooting-los-angeles"
+      "url": "/news/california-church-shooting-churchgoers-restrained-hogtied-shooter-before-police-arrived"
     },
     {
-      "text": "Man shot at Grand Central Market; police search for suspect",
-      "url": "/news/grand-central-market-shooting-los-angeles"
-    },
-    {
-      "text": "  ",
-      "url": "/news/suspect-kills-10-at-buffalo-supermarket-mass-shooting-investigated-as-racially-motivated-violent-extremism"
-    },
-    {
-      "text": "Suspect kills 10 at Buffalo supermarket mass shooting; investigated as racially-motivated, violent extremism",
-      "url": "/news/suspect-kills-10-at-buffalo-supermarket-mass-shooting-investigated-as-racially-motivated-violent-extremism"
+      "text": "California church shooting: Churchgoers restrained, hogtied shooter before police arrived",
+      "url": "/news/california-church-shooting-churchgoers-restrained-hogtied-shooter-before-police-arrived"
     },
     {
       "text": "  ",
-      "url": "/news/thousands-to-march-for-abortion-rights-in-los-angeles-across-us"
+      "url": "/news/americas-violent-weekend-may-14-15-2022-deadly-mass-shootings-coast-to-coast"
     },
     {
-      "text": "Thousands to march for abortion rights in Los Angeles, across US",
-      "url": "/news/thousands-to-march-for-abortion-rights-in-los-angeles-across-us"
-    },
-    {
-      "text": "  ",
-      "url": "/news/glendale-evacuation-alert-was-just-a-drill-city-says"
-    },
-    {
-      "text": "Emergency evacuation alert sent to phones across LA County was just a drill, Glendale city says",
-      "url": "/news/glendale-evacuation-alert-was-just-a-drill-city-says"
+      "text": "America's violent weekend: Deadly mass shootings span coast-to-coast",
+      "url": "/news/americas-violent-weekend-may-14-15-2022-deadly-mass-shootings-coast-to-coast"
     },
     {
       "text": "  ",
-      "url": "/news/california-surplus-budget-proposal"
+      "url": "/news/johnny-depp-trial-amber-heard-cross-examination-expected-to-begin-monday-as-trial-resumes"
     },
     {
-      "text": "California governor: State has $97.5 billion budget surplus",
-      "url": "/news/california-surplus-budget-proposal"
-    },
-    {
-      "text": "  ",
-      "url": "/news/windsor-hills-crash-kills-one-knocks-down-live-wires"
-    },
-    {
-      "text": "Windsor Hills crash kills one, knocks down live wires",
-      "url": "/news/windsor-hills-crash-kills-one-knocks-down-live-wires"
+      "text": "Johnny Depp Trial: Amber Heard cross-examination expected to begin Monday as trial resumes",
+      "url": "/news/johnny-depp-trial-amber-heard-cross-examination-expected-to-begin-monday-as-trial-resumes"
     },
     {
       "text": "  ",
-      "url": "/news/state-urges-rejection-of-revised-angel-stadium-property-agreement"
+      "url": "/news/homeowner-shot-during-riverside-home-invasion"
     },
     {
-      "text": "State urges rejection of revised Angel Stadium property agreement",
-      "url": "/news/state-urges-rejection-of-revised-angel-stadium-property-agreement"
-    },
-    {
-      "text": "  ",
-      "url": "/news/child-woman-shot-south-la"
-    },
-    {
-      "text": "2-year-old child, woman shot in South LA",
-      "url": "/news/child-woman-shot-south-la"
+      "text": "Man shot by burglars during Riverside home invasion",
+      "url": "/news/homeowner-shot-during-riverside-home-invasion"
     },
     {
       "text": "  ",
-      "url": "/news/workers-die-fentanyl-exposure-dtla"
+      "url": "/news/brush-fire-in-chatsworth-visible-from-118-freeway"
     },
     {
-      "text": "2 maintenance workers die after fentanyl exposure at downtown LA apartment complex",
-      "url": "/news/workers-die-fentanyl-exposure-dtla"
-    },
-    {
-      "text": "  ",
-      "url": "/news/tax-cut-for-california-pot-industry-too-little-too-late"
-    },
-    {
-      "text": "Tax cut for California pot industry: Too little, too late?",
-      "url": "/news/tax-cut-for-california-pot-industry-too-little-too-late"
+      "text": "Brush fire in Chatsworth visible from 118 Freeway",
+      "url": "/news/brush-fire-in-chatsworth-visible-from-118-freeway"
     },
     {
       "text": "  ",
-      "url": "/news/ex-nurse-radonda-vaught-sentenced-to-probation-in-patient-medication-death"
+      "url": "/news/orange-county-laguna-woods-church-shooting"
     },
     {
-      "text": "Ex-nurse RaDonda Vaught sentenced to probation in patient medication death",
-      "url": "/news/ex-nurse-radonda-vaught-sentenced-to-probation-in-patient-medication-death"
-    },
-    {
-      "text": "  ",
-      "url": "/news/coastal-fire-oc-family-thanks-firefighters-for-saving-their-us-flag-before-their-home-got-destroyed"
-    },
-    {
-      "text": "Coastal Fire: OC family thanks firefighters for saving their US flag before their home got destroyed",
-      "url": "/news/coastal-fire-oc-family-thanks-firefighters-for-saving-their-us-flag-before-their-home-got-destroyed"
+      "text": "California church shooting: 1 dead, 5 injured in Orange County",
+      "url": "/news/orange-county-laguna-woods-church-shooting"
     },
     {
       "text": "  ",
-      "url": "/news/socal-man-sentenced-to-four-months-in-prison-for-participation-in-capitol-riot"
+      "url": "/news/average-la-county-gas-prices-tops-6-for-first-time-since-april-1"
     },
     {
-      "text": "SoCal man sentenced to four months in prison for participation in Capitol riot",
-      "url": "/news/socal-man-sentenced-to-four-months-in-prison-for-participation-in-capitol-riot"
+      "text": "Average LA County gas prices tops $6 for first time since April 1",
+      "url": "/news/average-la-county-gas-prices-tops-6-for-first-time-since-april-1"
+    },
+    {
+      "text": "  ",
+      "url": "/news/buffalo-mass-shooting"
+    },
+    {
+      "text": "Buffalo mass shooting: Alleged shooter targeted Black neighborhood, officials say",
+      "url": "/news/buffalo-mass-shooting"
+    },
+    {
+      "text": "  ",
+      "url": "/news/netflix-tells-employees-to-quit-if-theyre-offended-by-new-culture-memo"
+    },
+    {
+      "text": "Netflix tells employees to quit if they\u2019re offended by new culture memo",
+      "url": "/news/netflix-tells-employees-to-quit-if-theyre-offended-by-new-culture-memo"
+    },
+    {
+      "text": "  ",
+      "url": "/news/structure-fire-in-pacoima-triggers-evacuations"
+    },
+    {
+      "text": "Crews put out Pacoima fire",
+      "url": "/news/structure-fire-in-pacoima-triggers-evacuations"
+    },
+    {
+      "text": "  ",
+      "url": "/news/2nd-horse-dies-in-two-days-at-santa-anita-park"
+    },
+    {
+      "text": "2nd horse dies in two days at Santa Anita Park",
+      "url": "/news/2nd-horse-dies-in-two-days-at-santa-anita-park"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/nba-steph-curry-graduates-davidson-college"
+    },
+    {
+      "text": "Steph Curry earns degree from Davidson College 13 years after leaving for NBA",
+      "url": "/sports/nba-steph-curry-graduates-davidson-college"
+    },
+    {
+      "text": "  ",
+      "url": "/news/clashes-grow-between-activists-griffith-park-pony-ride-customers"
+    },
+    {
+      "text": "Griffith Park pony rides: Clashes grow between activists , customers",
+      "url": "/news/clashes-grow-between-activists-griffith-park-pony-ride-customers"
     },
     {
       "text": "Florence-Graham",
@@ -4144,51 +4228,51 @@
     },
     {
       "text": "  video",
-      "url": "/video/1069613"
+      "url": "/video/1069894"
     },
     {
-      "text": "LA County, OC gas prices see biggest spike since March",
-      "url": "/video/1069613"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1069612"
-    },
-    {
-      "text": "Protesters advocate for abortion rights at 'Bans Off Our Bodies' rally downtown",
-      "url": "/video/1069612"
+      "text": "1 dead, 5 wounded in Laguna Woods church shooting",
+      "url": "/video/1069894"
     },
     {
       "text": "  video",
-      "url": "/video/1069611"
+      "url": "/video/1069835"
     },
     {
-      "text": "10 dead in mass shooting at Buffalo supermarket",
-      "url": "/video/1069611"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1069610"
-    },
-    {
-      "text": "Officials apologize for erroneous emergency alert in Glendale",
-      "url": "/video/1069610"
+      "text": "Porter Fire breaks out in Chatsworth",
+      "url": "/video/1069835"
     },
     {
       "text": "  video",
-      "url": "/video/1069601"
+      "url": "/video/1069834"
     },
     {
-      "text": "Man shot at Grand Central Market",
-      "url": "/video/1069601"
+      "text": "Homeowner hospitalized after home invasion in Riverside",
+      "url": "/video/1069834"
     },
     {
       "text": "  video",
-      "url": "/video/1069550"
+      "url": "/video/1069833"
     },
     {
-      "text": "\u201cThe Issue Is\u201d: Sportscaster of the year Bob Costas",
-      "url": "/video/1069550"
+      "text": "Four hospitalized in critical condition after deadly Orange County church shooting",
+      "url": "/video/1069833"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1069832"
+    },
+    {
+      "text": "Police search for motive in deadly church shooting in Orange County",
+      "url": "/video/1069832"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1069767"
+    },
+    {
+      "text": "1 dead, 5 injured in shooting at Orange County church",
+      "url": "/video/1069767"
     },
     {
       "text": "Privacy Policy",
@@ -4356,6 +4440,38 @@
     },
     {
       "text": "  ",
+      "url": "/news/mark-zuckerberg-california-facebook-home-for-sale"
+    },
+    {
+      "text": "Mark Zuckerberg's California home where Facebook was created lists for $5.3 million",
+      "url": "/news/mark-zuckerberg-california-facebook-home-for-sale"
+    },
+    {
+      "text": "  ",
+      "url": "/news/how-to-watch-total-lunar-eclipse-socal"
+    },
+    {
+      "text": "How to watch the total lunar eclipse in SoCal",
+      "url": "/news/how-to-watch-total-lunar-eclipse-socal"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/nba-steph-curry-graduates-davidson-college"
+    },
+    {
+      "text": "Steph Curry earns degree from Davidson College 13 years after leaving for NBA",
+      "url": "/sports/nba-steph-curry-graduates-davidson-college"
+    },
+    {
+      "text": "  ",
+      "url": "/news/average-la-county-gas-prices-tops-6-for-first-time-since-april-1"
+    },
+    {
+      "text": "Average LA County gas prices tops $6 for first time since April 1",
+      "url": "/news/average-la-county-gas-prices-tops-6-for-first-time-since-april-1"
+    },
+    {
+      "text": "  ",
       "url": "/news/230m-settlement-reached-over-2015-california-oil-spill"
     },
     {
@@ -4364,43 +4480,11 @@
     },
     {
       "text": "  ",
-      "url": "/news/tax-cut-for-california-pot-industry-too-little-too-late"
+      "url": "/news/netflix-tells-employees-to-quit-if-theyre-offended-by-new-culture-memo"
     },
     {
-      "text": "Tax cut for California pot industry: Too little, too late?",
-      "url": "/news/tax-cut-for-california-pot-industry-too-little-too-late"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-surplus-budget-proposal"
-    },
-    {
-      "text": "California governor: State has $97.5 billion budget surplus",
-      "url": "/news/california-surplus-budget-proposal"
-    },
-    {
-      "text": "  ",
-      "url": "/news/disturbing-details-emerge-after-san-jose-police-officer-arrested-for-masturbating-at-familys-home"
-    },
-    {
-      "text": "Disturbing details emerge after San Jose police officer arrested for masturbating at family's home",
-      "url": "/news/disturbing-details-emerge-after-san-jose-police-officer-arrested-for-masturbating-at-familys-home"
-    },
-    {
-      "text": "  ",
-      "url": "/news/relatives-charged-after-3-year-old-died-at-san-jose-church-exorcism"
-    },
-    {
-      "text": "Relatives charged after 3-year-old died at San Jose church exorcism",
-      "url": "/news/relatives-charged-after-3-year-old-died-at-san-jose-church-exorcism"
-    },
-    {
-      "text": "  ",
-      "url": "/news/san-jose-police-officer-faces-charges-for-masturbating-during-disturbance-call-d-a"
-    },
-    {
-      "text": "San Jose police officer faces charges for masturbating during disturbance call: D.A.",
-      "url": "/news/san-jose-police-officer-faces-charges-for-masturbating-during-disturbance-call-d-a"
+      "text": "Netflix tells employees to quit if they\u2019re offended by new culture memo",
+      "url": "/news/netflix-tells-employees-to-quit-if-theyre-offended-by-new-culture-memo"
     },
     {
       "text": "Crime & Public Safety",
@@ -4411,52 +4495,52 @@
       "url": "/tag/crime-publicsafety"
     },
     {
-      "text": "  ",
-      "url": "/news/arbys-manager-admits-to-urinating-at-least-twice-in-milkshake-mix-police-say"
+      "text": "   ",
+      "url": "/news/deadly-houston-flea-market-shooting"
     },
     {
-      "text": "Arby\u2019s manager admits to urinating \u2018at least twice\u2019 in milkshake mix, police say",
-      "url": "/news/arbys-manager-admits-to-urinating-at-least-twice-in-milkshake-mix-police-say"
-    },
-    {
-      "text": "  ",
-      "url": "/news/grand-central-market-shooting-los-angeles"
-    },
-    {
-      "text": "Man shot at Grand Central Market; police search for suspect",
-      "url": "/news/grand-central-market-shooting-los-angeles"
+      "text": "Houston flea market shooting leaves 2 dead and at least 3 injured",
+      "url": "/news/deadly-houston-flea-market-shooting"
     },
     {
       "text": "  ",
-      "url": "/news/phoenix-police-arrest-man-strangled-woman-on-bus"
+      "url": "/news/americas-violent-weekend-may-14-15-2022-deadly-mass-shootings-coast-to-coast"
     },
     {
-      "text": "Phoenix Police arrest man accused of strangling woman to death on bus",
-      "url": "/news/phoenix-police-arrest-man-strangled-woman-on-bus"
-    },
-    {
-      "text": "  ",
-      "url": "/news/50000-reward-offered-to-find-texas-capital-murder-inmate-who-escaped-while-being-transported"
-    },
-    {
-      "text": "$50,000 reward offered to find Texas capital murder inmate who escaped while being transported",
-      "url": "/news/50000-reward-offered-to-find-texas-capital-murder-inmate-who-escaped-while-being-transported"
+      "text": "America's violent weekend: Deadly mass shootings span coast-to-coast",
+      "url": "/news/americas-violent-weekend-may-14-15-2022-deadly-mass-shootings-coast-to-coast"
     },
     {
       "text": "  ",
-      "url": "/news/ex-nurse-radonda-vaught-sentenced-to-probation-in-patient-medication-death"
+      "url": "/news/buffalo-mass-shooting"
     },
     {
-      "text": "Ex-nurse RaDonda Vaught sentenced to probation in patient medication death",
-      "url": "/news/ex-nurse-radonda-vaught-sentenced-to-probation-in-patient-medication-death"
+      "text": "Buffalo mass shooting: Alleged shooter targeted Black neighborhood, officials say",
+      "url": "/news/buffalo-mass-shooting"
     },
     {
       "text": "  ",
-      "url": "/news/la-county-chase-possible-dui-driver"
+      "url": "/news/homeowner-shot-during-riverside-home-invasion"
     },
     {
-      "text": "Police Chase: Suspect ditches car after leading LAPD on high-speed chase",
-      "url": "/news/la-county-chase-possible-dui-driver"
+      "text": "Man shot by burglars during Riverside home invasion",
+      "url": "/news/homeowner-shot-during-riverside-home-invasion"
+    },
+    {
+      "text": "  ",
+      "url": "/news/california-church-shooting-churchgoers-restrained-hogtied-shooter-before-police-arrived"
+    },
+    {
+      "text": "California church shooting: Churchgoers restrained, hogtied shooter before police arrived",
+      "url": "/news/california-church-shooting-churchgoers-restrained-hogtied-shooter-before-police-arrived"
+    },
+    {
+      "text": "  ",
+      "url": "/news/orange-county-laguna-woods-church-shooting"
+    },
+    {
+      "text": "California church shooting: 1 dead, 5 injured in Orange County",
+      "url": "/news/orange-county-laguna-woods-church-shooting"
     },
     {
       "text": "Consumer",
@@ -4467,7 +4551,43 @@
       "url": "/tag/consumer"
     },
     {
-      "text": "   ",
+      "text": "  ",
+      "url": "/news/mark-zuckerberg-california-facebook-home-for-sale"
+    },
+    {
+      "text": "Mark Zuckerberg's California home where Facebook was created lists for $5.3 million",
+      "url": "/news/mark-zuckerberg-california-facebook-home-for-sale"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1069742"
+    },
+    {
+      "text": "",
+      "url": "/video/1069742"
+    },
+    {
+      "text": "House where Facebook was created lists for $5 million",
+      "url": "/video/1069742"
+    },
+    {
+      "text": "  ",
+      "url": "/news/average-la-county-gas-prices-tops-6-for-first-time-since-april-1"
+    },
+    {
+      "text": "Average LA County gas prices tops $6 for first time since April 1",
+      "url": "/news/average-la-county-gas-prices-tops-6-for-first-time-since-april-1"
+    },
+    {
+      "text": "  ",
+      "url": "/news/recall-alert-skittles-starburst-life-savers-gummies-recalled-might-contain-metal-strands"
+    },
+    {
+      "text": "Recall Alert: Skittles, Starburst and Life Savers gummies recalled, might contain metal strands",
+      "url": "/news/recall-alert-skittles-starburst-life-savers-gummies-recalled-might-contain-metal-strands"
+    },
+    {
+      "text": "  ",
       "url": "/news/mercedes-recalls-over-292k-vehicles-tells-owners-not-to-drive-them"
     },
     {
@@ -4483,44 +4603,28 @@
       "url": "/news/fda-to-import-more-baby-formula-amid-shortage"
     },
     {
-      "text": "  ",
-      "url": "/news/baby-formula-shortage-which-foods-and-techniques-boost-breast-milk-production"
-    },
-    {
-      "text": "Baby formula shortage: Which foods and techniques boost breast milk production?",
-      "url": "/news/baby-formula-shortage-which-foods-and-techniques-boost-breast-milk-production"
-    },
-    {
-      "text": "  ",
-      "url": "/news/1st-ever-barbie-with-behind-the-ear-hearing-aids-unveiled-as-part-of-mattels-most-diverse-doll-line"
-    },
-    {
-      "text": "1st-ever Barbie with behind-the-ear hearing aids unveiled as part of Mattel\u2019s \u2018most diverse\u2019 doll line",
-      "url": "/news/1st-ever-barbie-with-behind-the-ear-hearing-aids-unveiled-as-part-of-mattels-most-diverse-doll-line"
-    },
-    {
-      "text": "  ",
-      "url": "/news/baby-formula-shortage-fda-works-with-abbott-to-resume-production"
-    },
-    {
-      "text": "Baby formula shortage: FDA works with Abbott to resume production",
-      "url": "/news/baby-formula-shortage-fda-works-with-abbott-to-resume-production"
-    },
-    {
-      "text": "  ",
-      "url": "/news/ohio-home-with-giant-dinosaur-sculpture-goes-up-for-sale-truly-unbelievable"
-    },
-    {
-      "text": "Ohio home with giant dinosaur sculpture goes up for sale: \u2018truly unbelievable\u2019",
-      "url": "/news/ohio-home-with-giant-dinosaur-sculpture-goes-up-for-sale-truly-unbelievable"
-    },
-    {
       "text": "Sports",
       "url": "/tag/sports"
     },
     {
       "text": "View More",
       "url": "/tag/sports"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/nba-steph-curry-graduates-davidson-college"
+    },
+    {
+      "text": "Steph Curry earns degree from Davidson College 13 years after leaving for NBA",
+      "url": "/sports/nba-steph-curry-graduates-davidson-college"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/kings-eliminated-from-stanley-cup-playoffs-fall-to-oilers-2-0-in-game-7"
+    },
+    {
+      "text": "Kings eliminated from Stanley Cup Playoffs, fall to Oilers 2-0 in Game 7",
+      "url": "/sports/kings-eliminated-from-stanley-cup-playoffs-fall-to-oilers-2-0-in-game-7"
     },
     {
       "text": "  ",
@@ -4559,22 +4663,6 @@
       "url": "/video/1069140"
     },
     {
-      "text": "  ",
-      "url": "/sports/la-kings-fail-to-close-series-in-game-6-loss-to-oilers-at-home"
-    },
-    {
-      "text": "LA Kings fail to close series in Game 6 loss to Oilers at home",
-      "url": "/sports/la-kings-fail-to-close-series-in-game-6-loss-to-oilers-at-home"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/la-rams-release-schedule-for-2022-nfl-regular-season"
-    },
-    {
-      "text": "LA Rams release schedule for 2022 NFL regular season, will play 5 games in prime time",
-      "url": "/sports/la-rams-release-schedule-for-2022-nfl-regular-season"
-    },
-    {
       "text": "Unusual",
       "url": "/tag/unusual"
     },
@@ -4589,6 +4677,14 @@
     {
       "text": "'Very unlucky' Indian couple sues son for $675,000 for not giving them grandchild",
       "url": "/news/indian-couple-sues-son-no-grandchildren"
+    },
+    {
+      "text": "  ",
+      "url": "/news/country-crock-buttery-smooth-cover-crop-whiskey-highlight-sustainable-farming"
+    },
+    {
+      "text": "Country Crock makes 'buttery smooth' whiskey to highlight sustainable farming practice",
+      "url": "/news/country-crock-buttery-smooth-cover-crop-whiskey-highlight-sustainable-farming"
     },
     {
       "text": "  ",
@@ -4623,14 +4719,6 @@
       "url": "/news/egg-sized-white-diamond-sold-for-over-21-million-plus-fees"
     },
     {
-      "text": "  ",
-      "url": "/news/ohio-home-with-giant-dinosaur-sculpture-goes-up-for-sale-truly-unbelievable"
-    },
-    {
-      "text": "Ohio home with giant dinosaur sculpture goes up for sale: \u2018truly unbelievable\u2019",
-      "url": "/news/ohio-home-with-giant-dinosaur-sculpture-goes-up-for-sale-truly-unbelievable"
-    },
-    {
       "text": "Local News",
       "url": "/local-news"
     },
@@ -4639,52 +4727,52 @@
       "url": "/local-news"
     },
     {
-      "text": "   ",
-      "url": "/news/glendale-evacuation-alert-was-just-a-drill-city-says"
+      "text": "  ",
+      "url": "/news/brush-fire-in-chatsworth-visible-from-118-freeway"
     },
     {
-      "text": "Emergency evacuation alert sent to phones across LA County was just a drill, Glendale city says",
-      "url": "/news/glendale-evacuation-alert-was-just-a-drill-city-says"
+      "text": "Brush fire in Chatsworth visible from 118 Freeway",
+      "url": "/news/brush-fire-in-chatsworth-visible-from-118-freeway"
     },
     {
       "text": "  ",
-      "url": "/news/thousands-to-march-for-abortion-rights-in-los-angeles-across-us"
+      "url": "/news/homeowner-shot-during-riverside-home-invasion"
     },
     {
-      "text": "Thousands to march for abortion rights in Los Angeles, across US",
-      "url": "/news/thousands-to-march-for-abortion-rights-in-los-angeles-across-us"
-    },
-    {
-      "text": "  ",
-      "url": "/news/grand-central-market-shooting-los-angeles"
-    },
-    {
-      "text": "Man shot at Grand Central Market; police search for suspect",
-      "url": "/news/grand-central-market-shooting-los-angeles"
+      "text": "Man shot by burglars during Riverside home invasion",
+      "url": "/news/homeowner-shot-during-riverside-home-invasion"
     },
     {
       "text": "  ",
-      "url": "/news/windsor-hills-crash-kills-one-knocks-down-live-wires"
+      "url": "/news/california-church-shooting-churchgoers-restrained-hogtied-shooter-before-police-arrived"
     },
     {
-      "text": "Windsor Hills crash kills one, knocks down live wires",
-      "url": "/news/windsor-hills-crash-kills-one-knocks-down-live-wires"
-    },
-    {
-      "text": "  ",
-      "url": "/news/state-urges-rejection-of-revised-angel-stadium-property-agreement"
-    },
-    {
-      "text": "State urges rejection of revised Angel Stadium property agreement",
-      "url": "/news/state-urges-rejection-of-revised-angel-stadium-property-agreement"
+      "text": "California church shooting: Churchgoers restrained, hogtied shooter before police arrived",
+      "url": "/news/california-church-shooting-churchgoers-restrained-hogtied-shooter-before-police-arrived"
     },
     {
       "text": "  ",
-      "url": "/news/sir-paul-mccartney-returns-to-los-angeles-for-got-back-tour"
+      "url": "/news/orange-county-laguna-woods-church-shooting"
     },
     {
-      "text": "Sir Paul McCartney returns to Los Angeles for 'Got Back' tour",
-      "url": "/news/sir-paul-mccartney-returns-to-los-angeles-for-got-back-tour"
+      "text": "California church shooting: 1 dead, 5 injured in Orange County",
+      "url": "/news/orange-county-laguna-woods-church-shooting"
+    },
+    {
+      "text": "  ",
+      "url": "/news/structure-fire-in-pacoima-triggers-evacuations"
+    },
+    {
+      "text": "Crews put out Pacoima fire",
+      "url": "/news/structure-fire-in-pacoima-triggers-evacuations"
+    },
+    {
+      "text": "  ",
+      "url": "/news/2nd-horse-dies-in-two-days-at-santa-anita-park"
+    },
+    {
+      "text": "2nd horse dies in two days at Santa Anita Park",
+      "url": "/news/2nd-horse-dies-in-two-days-at-santa-anita-park"
     },
     {
       "text": "National News",
@@ -4696,51 +4784,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/arbys-manager-admits-to-urinating-at-least-twice-in-milkshake-mix-police-say"
+      "url": "/news/johnny-depp-trial-amber-heard-cross-examination-expected-to-begin-monday-as-trial-resumes"
     },
     {
-      "text": "Arby\u2019s manager admits to urinating \u2018at least twice\u2019 in milkshake mix, police say",
-      "url": "/news/arbys-manager-admits-to-urinating-at-least-twice-in-milkshake-mix-police-say"
-    },
-    {
-      "text": "  ",
-      "url": "/news/suspect-kills-10-at-buffalo-supermarket-mass-shooting-investigated-as-racially-motivated-violent-extremism"
-    },
-    {
-      "text": "Suspect kills 10 at Buffalo supermarket mass shooting; investigated as racially-motivated, violent extremism",
-      "url": "/news/suspect-kills-10-at-buffalo-supermarket-mass-shooting-investigated-as-racially-motivated-violent-extremism"
+      "text": "Johnny Depp Trial: Amber Heard cross-examination expected to begin Monday as trial resumes",
+      "url": "/news/johnny-depp-trial-amber-heard-cross-examination-expected-to-begin-monday-as-trial-resumes"
     },
     {
       "text": "  ",
-      "url": "/news/phoenix-police-arrest-man-strangled-woman-on-bus"
+      "url": "/news/deadly-houston-flea-market-shooting"
     },
     {
-      "text": "Phoenix Police arrest man accused of strangling woman to death on bus",
-      "url": "/news/phoenix-police-arrest-man-strangled-woman-on-bus"
-    },
-    {
-      "text": "  ",
-      "url": "/news/50000-reward-offered-to-find-texas-capital-murder-inmate-who-escaped-while-being-transported"
-    },
-    {
-      "text": "$50,000 reward offered to find Texas capital murder inmate who escaped while being transported",
-      "url": "/news/50000-reward-offered-to-find-texas-capital-murder-inmate-who-escaped-while-being-transported"
+      "text": "Houston flea market shooting leaves 2 dead and at least 3 injured",
+      "url": "/news/deadly-houston-flea-market-shooting"
     },
     {
       "text": "  ",
-      "url": "/news/abortion-rights-marches-bans-off-our-bodies-us"
+      "url": "/news/americas-violent-weekend-may-14-15-2022-deadly-mass-shootings-coast-to-coast"
     },
     {
-      "text": "'Bans off our Bodies': Abortion rights supporters rally across the U.S.",
-      "url": "/news/abortion-rights-marches-bans-off-our-bodies-us"
+      "text": "America's violent weekend: Deadly mass shootings span coast-to-coast",
+      "url": "/news/americas-violent-weekend-may-14-15-2022-deadly-mass-shootings-coast-to-coast"
     },
     {
       "text": "  ",
-      "url": "/news/nashville-zoo-spotted-fanaloka-born-us"
+      "url": "/news/buffalo-mass-shooting"
     },
     {
-      "text": "Nashville Zoo welcomes 1st spotted fanaloka born in U.S.",
-      "url": "/news/nashville-zoo-spotted-fanaloka-born-us"
+      "text": "Buffalo mass shooting: Alleged shooter targeted Black neighborhood, officials say",
+      "url": "/news/buffalo-mass-shooting"
+    },
+    {
+      "text": "  ",
+      "url": "/news/buffalo-supermarket-shooting-whats-known-about-the-victims"
+    },
+    {
+      "text": "Buffalo supermarket shooting: What\u2019s known about the victims",
+      "url": "/news/buffalo-supermarket-shooting-whats-known-about-the-victims"
+    },
+    {
+      "text": "  ",
+      "url": "/news/animal-society-offers-5k-reward-after-puppy-shot-in-foot-cat-shot-in-spine"
+    },
+    {
+      "text": "Animal Society offers $5K reward after puppy shot in foot, cat shot in spine",
+      "url": "/news/animal-society-offers-5k-reward-after-puppy-shot-in-foot-cat-shot-in-spine"
     },
     {
       "text": "Money",
@@ -4749,6 +4837,30 @@
     {
       "text": "View More",
       "url": "/money"
+    },
+    {
+      "text": "   ",
+      "url": "/news/mark-zuckerberg-california-facebook-home-for-sale"
+    },
+    {
+      "text": "Mark Zuckerberg's California home where Facebook was created lists for $5.3 million",
+      "url": "/news/mark-zuckerberg-california-facebook-home-for-sale"
+    },
+    {
+      "text": "  ",
+      "url": "/news/average-la-county-gas-prices-tops-6-for-first-time-since-april-1"
+    },
+    {
+      "text": "Average LA County gas prices tops $6 for first time since April 1",
+      "url": "/news/average-la-county-gas-prices-tops-6-for-first-time-since-april-1"
+    },
+    {
+      "text": "  ",
+      "url": "/news/retiring-on-cruise-ships"
+    },
+    {
+      "text": "Retiring on high seas: More living out golden years aboard cruise ships",
+      "url": "/news/retiring-on-cruise-ships"
     },
     {
       "text": "  ",
@@ -4773,30 +4885,6 @@
     {
       "text": "How to improve bad credit in 10 ways",
       "url": "/money/steps-to-take-improve-bad-credit"
-    },
-    {
-      "text": "  ",
-      "url": "/money/todays-mortgage-rates-may-13-2022"
-    },
-    {
-      "text": "Today's best mortgage deal? Look to 15-year rates | May 13, 2022",
-      "url": "/money/todays-mortgage-rates-may-13-2022"
-    },
-    {
-      "text": "  ",
-      "url": "/money/todays-mortgage-refinance-rates-may-13-2022"
-    },
-    {
-      "text": "Today\u2019s mortgage refinance rates: 30-year rates hit 6-day low | May 13, 2022",
-      "url": "/money/todays-mortgage-refinance-rates-may-13-2022"
-    },
-    {
-      "text": "  ",
-      "url": "/news/inflation-erode-american-wages-april-2022"
-    },
-    {
-      "text": "Inflation gave most Americans a 2.6% wage cut in April",
-      "url": "/news/inflation-erode-american-wages-april-2022"
     },
     {
       "text": "News",
@@ -5247,8 +5335,8 @@
       "url": "/contact-us"
     }
   ],
-  "item_last_updated": 1652581173,
-  "item_size": 36961008,
+  "item_last_updated": 1652709038,
+  "item_size": 37783743,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -5265,10 +5353,10 @@
     "publicdate": "2022-03-23 20:59:13",
     "addeddate": "2022-03-23 20:59:13"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 1857995276,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1873708652,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }
