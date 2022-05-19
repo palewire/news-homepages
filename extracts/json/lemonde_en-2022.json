@@ -1,5 +1,5 @@
 {
-  "created": 1652833092,
+  "created": 1652919602,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/13/items/lemonde_en-2022",
@@ -1654,31 +1654,73 @@
       "sha1": "729be933a92d1faf2f6fa8d7be08196903b1ffbb"
     },
     {
+      "name": "lemonde_en-2022-05-18T14:08:30.448826+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652875714",
+      "size": "29331",
+      "md5": "3301c2161dd36818c6a99bde4a2acba5",
+      "crc32": "92c023c9",
+      "sha1": "d55edb6fdc08319ccf163e36d1c10320cfc9cf09",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-05-18T14:08:30.448826+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652875716",
+      "size": "48562",
+      "md5": "2e8fbf97031d2c2d17affc2acb3bacec",
+      "crc32": "6ffe1004",
+      "sha1": "c029373e4470db7c7bd40390a76db8f23e34abcc",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-05-18T14:08:30.448826+02:00.jpg",
+      "source": "original",
+      "mtime": "1652875712",
+      "size": "267057",
+      "md5": "2bd0d5d60feb518d9e58ee7601c1fb25",
+      "crc32": "f221c7bb",
+      "sha1": "d38ea0c73b6bea1b3b1c7f53b73df05f7812a161",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-05-18T14:08:30.448826+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-05-18T14:08:30.448826+02:00.jpg",
+      "mtime": "1652876431",
+      "size": "8803",
+      "md5": "ba98ed0240f7ba732c2722230b94e347",
+      "crc32": "586d5ee5",
+      "sha1": "9bef981bf65afcb2c906cf379cb8a4dab240f04c"
+    },
+    {
       "name": "lemonde_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c78c971f513dfbc996b4329e11fe2c4eb01939ef",
-      "mtime": "1652790501",
-      "size": "34788",
-      "md5": "b85375ce7db8ba8cac9f704a6120e514",
-      "crc32": "030bebee",
-      "sha1": "6753e2a241255614b1d3cc7a1fcaffe9eaaffee8",
+      "btih": "c500f7f2b1d78cc2dc4a27f284195d197deb94e9",
+      "mtime": "1652876986",
+      "size": "35645",
+      "md5": "25318a65441147407ae7f92606403e26",
+      "crc32": "b0f5ccff",
+      "sha1": "913d48bef8e19fd3fe31d0b458ecce7aeddfb8f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemonde_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "685267b0eaaf220c4374bf530a27d393",
+      "md5": "ca584bb50973897be8ff81d3d0a9821c",
       "summation": "md5"
     },
     {
       "name": "lemonde_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1652789887",
-      "size": "200704",
-      "md5": "e261b9e7977f98e61ff644ab81d5bab7",
-      "crc32": "4a4218d5",
-      "sha1": "8ad96682a41b0ca750cc9dbd8abb218a70e0bd62",
+      "mtime": "1652876082",
+      "size": "204800",
+      "md5": "98159a4e1f17b2797a3041db1e24ddf6",
+      "crc32": "eb824d50",
+      "sha1": "707f95aaff9a99561ffa71c1e8fb6905375858e0",
       "format": "Metadata"
     },
     {
@@ -1692,9 +1734,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1652790501,
-  "item_size": 13653397,
+  "files_count": 165,
+  "item_last_updated": 1652876986,
+  "item_size": 14012103,
   "lemonde_en-2022": [
     {
       "text": "Fran\u00e7ais",
@@ -1805,6 +1847,10 @@
       "url": "//www.lemonde.fr/en/fragments-de-france/"
     },
     {
+      "text": "           Les D\u00e9codeurs Why does M\u00e9lenchon speak of a 'third round' of the French presidential election?  ",
+      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/05/18/legislative-2022-why-does-jean-luc-melenchon-speak-of-a-third-round-of-the-french-presidential-election_5983867_8.html"
+    },
+    {
       "text": "           2022 Legislative Elections Emmanuel Macron, the HR director-in-chief  ",
       "url": "https://www.lemonde.fr/en/2022-legislative-elections/article/2022/05/15/emmanuel-macron-the-hr-director-in-chief_5983597_129.html"
     },
@@ -1815,10 +1861,6 @@
     {
       "text": "           Opinion  Subscribers only Alexis L\u00e9vrier: 'They may have failed in the polls, but Bollor\u00e9 and Zemmour won the media battle'  ",
       "url": "https://www.lemonde.fr/en/opinion/article/2022/05/13/alexis-levrier-they-may-have-failed-in-the-polls-but-bollore-and-zemmour-won-the-media-battle_5983346_23.html"
-    },
-    {
-      "text": "           Politics Val\u00e9rie P\u00e9cresse's life after defeat in the French election  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/12/valerie-pecresse-s-life-after-defeat-in-the-french-election_5983161_5.html"
     },
     {
       "text": "Economy",
@@ -1845,20 +1887,20 @@
       "url": "//www.lemonde.fr/en/media/"
     },
     {
-      "text": "           Economy  Subscribers only New era for Chelsea beckons after football club acquired by Todd Boehly  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/new-era-for-chelsea-beckons-after-football-club-acquired-by-american-billionaire_5983745_19.html"
+      "text": "           Economy  Subscribers only McDonald's announces complete exit from Russia  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/17/mcdonald-s-leaving-russia-altogether_5983800_19.html"
     },
     {
-      "text": "           Economy  Subscribers only 'For Russian industry, the worst of the crisis will come from the summer onwards'  ",
+      "text": "           Economy  Subscribers only In the United Kingdom, the fragile bet on offshore wind power  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/18/in-the-united-kingdom-the-fragile-bet-on-offshore-wind-power_5983873_19.html"
+    },
+    {
+      "text": "           France  Subscribers only Diversity is still absent at the leadership level of major French companies  ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/18/diversity-is-still-absent-at-the-leadership-level-of-major-french-companies_5983850_7.html"
+    },
+    {
+      "text": "           Economy  Subscribers only 'For Russian industry, the worst of the crisis will start from the summer onwards'  ",
       "url": "https://www.lemonde.fr/en/economy/article/2022/05/17/for-russian-industry-the-worst-of-the-crisis-will-come-from-the-summer-onwards_5983787_19.html"
-    },
-    {
-      "text": "           Economy  Subscribers only Raw materials: 'A cold wind is blowing over copper'  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/17/raw-materials-a-cold-wind-is-blowing-over-copper_5983757_19.html"
-    },
-    {
-      "text": "           Economy  Subscribers only Gas: Russia increases pressure on Europe  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/gas-russia-increases-pressure-on-europe_5983734_19.html"
     },
     {
       "text": "Opinion",
@@ -1885,16 +1927,16 @@
       "url": "//www.lemonde.fr/en/conversations/"
     },
     {
-      "text": "           Editorial America's far right, a deadly poisoning of the mind  ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/16/america-s-far-right-a-deadly-poisoning-of-the-mind_5983677_23.html"
+      "text": "           Editorial French swimming pools: The need for secularism without naivety or hostility  ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/french-swimming-pools-the-need-for-secularism-without-naivety-or-hostility_5983888_23.html"
     },
     {
-      "text": "           Le Monde Afrique 'By better managing agricultural potential, food crises could be avoided' in the Horn of Africa  ",
-      "url": "https://www.lemonde.fr/en/le-monde-afrique/article/2022/05/17/by-better-managing-agricultural-potential-food-crises-could-be-avoided-in-the-horn-of-africa_5983775_12.html"
+      "text": "           Opinion  Subscribers only J\u00e9zabel Couppey-Soubeyran: 'Let's not expect the environmental transition to always be profitable'  ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/jezabel-couppey-soubeyran-let-s-not-expect-the-environmental-transition-to-always-be-profitable_5983882_23.html"
     },
     {
-      "text": "           Economy  Subscribers only Raw materials: 'A cold wind is blowing over copper'  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/17/raw-materials-a-cold-wind-is-blowing-over-copper_5983757_19.html"
+      "text": "           Opinion  Subscribers only 'The development of autonomy granted to employees provides a false sense of freedom'  ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/the-development-of-autonomy-granted-to-employees-provides-a-false-sense-of-freedom_5983883_23.html"
     },
     {
       "text": "Culture",
@@ -1929,8 +1971,8 @@
       "url": "//www.lemonde.fr/en/performance-art/"
     },
     {
-      "text": "           M Le Mag  Subscribers only 'If I can win a C\u00e9sar, anyone can!': Jean-Pascal Zadi is determined to just be himself  ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/16/if-i-can-win-a-cesar-anyone-can-jean-pascal-zadi-is-determined-to-just-be-himself_5983721_117.html"
+      "text": "           Culture  Subscribers only Vincent Lindon, Cannes Festival jury president: 'I like movies telling something about the state of the world.'  ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/18/vincent-lindon-cannes-festival-jury-president-i-like-movies-telling-something-about-the-state-of-the-world_5983849_30.html"
     },
     {
       "text": "           Books 'City on Fire': Don Winslow is the Virgil of New England  ",
@@ -1941,8 +1983,8 @@
       "url": "https://www.lemonde.fr/en/opinion/article/2022/04/18/public-broadcasting-the-fate-of-democracies-depends-on-quality-information_5980859_23.html"
     },
     {
-      "text": "           Culture  Subscribers only Artist Ayman Baalbaki: 'In my work, there had to be that vandalism of today's Beirut'  ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/artist-ayman-baalbaki-in-my-work-there-had-to-be-that-vandalism-of-today-s-beirut_5983780_30.html"
+      "text": "           Culture Cannes Film Festival launches with live Zelensky video address  ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/cannes-film-festival-launches-with-live-zelensky-video-address_5983844_30.html"
     },
     {
       "text": "M le Mag",
@@ -1977,10 +2019,6 @@
       "url": "//www.lemonde.fr/en/fashion/"
     },
     {
-      "text": "           M Le Mag  Subscribers only The real life of actress Ad\u00e8le Exarchopoulos  ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/16/the-real-life-of-actress-adele-exarchopoulos_5983711_117.html"
-    },
-    {
       "text": "           Food Hashbrowns the Holybelly way: Sarah Mouchot and Nicolas Alary's recipe  ",
       "url": "https://www.lemonde.fr/en/food/article/2022/05/05/hashbrowns-the-holybelly-way-sarah-mouchot-and-nicolas-alary-s-recipe_5982533_119.html"
     },
@@ -1993,159 +2031,171 @@
       "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/17/the-auction-that-is-sending-oasis-fans-into-a-frenzy_5983753_117.html"
     },
     {
+      "text": "           M Le Mag  Subscribers only 'These buildings have no voice. We are their voice': Historic Miami threatened with extinction  ",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/16/these-buildings-have-no-voice-we-are-their-voice-historic-miami-threatened-with-extinction_5983726_117.html"
+    },
+    {
       "text": " Recherche ",
       "url": "/recherche/"
     },
     {
-      "text": " With Elisabeth Borne, Emmanuel Macron has found his 'Swiss Army knife'                This 61-year-old \u00c9cole Polytechnique graduate has been a member of the government since 2017 and now becomes the second female prime minister under the Fifth Republic. Her appointment indicates the president's resolve to demonstrate a desire for continuity. ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/with-elisabeth-borne-emmanuel-macron-has-found-his-swiss-army-knife_5983789_5.html"
+      "text": " Subscribers only'Ukraine needs its heroes to be alive:' Soldiers from Azovstal evacuated to Moscow-controlled territory                Kyiv announced the evacuation of 264 fighters, 53 of them seriously injured, out of the 1,000 soldiers entrenched in the factory in Mariupol. The partners of these soldiers are mobilizing to save them all. ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/ukraine-needs-its-heroes-to-be-alive-soldiers-from-azovstal-evacuated-to-moscow-controlled-territory_5983874_4.html"
     },
     {
-      "text": "Elisabeth Borne appointed France's new prime minister ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/05/16/elisabeth-borne-appointed-france-s-new-prime-minister_5983735_7.html"
+      "text": " Subscribers only 'The Donbas today is the Somme of 1916': Ukraine's battle of the shells ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/the-donbas-today-is-the-somme-of-1916-ukraine-s-battle-of-the-shells_5983875_4.html"
     },
     {
-      "text": "Emmanuel Macron's tricky quest for a new prime minister ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/04/28/emmanuel-macron-s-tricky-quest-for-a-new-prime-minister_5981900_5.html"
+      "text": "Nearly 1,000 Ukrainian soldiers in Mariupol steel plant have surrendered, says Russia ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/nearly-1-000-ukrainian-soldiers-in-mariupol-steel-plant-have-surrendered-says-russia_5983880_4.html"
     },
     {
-      "text": "            Subscribers onlyBudget constraints complicate Emmanuel Macron's second term  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/budget-emmanuel-macron-s-complicated-presidential-start_5983754_5.html"
+      "text": "            Subscribers onlyVincent Lindon, Cannes Festival jury president: 'I like movies telling something about the state of the world.'  ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/18/vincent-lindon-cannes-festival-jury-president-i-like-movies-telling-something-about-the-state-of-the-world_5983849_30.html"
     },
     {
-      "text": "            Subscribers onlyNew era for Chelsea beckons after football club acquired by Todd Boehly  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/new-era-for-chelsea-beckons-after-football-club-acquired-by-american-billionaire_5983745_19.html"
+      "text": "            Subscribers only'Mali's departure from the G5 Sahel signs de facto the organization's death warrant'  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/mali-s-departure-from-the-g5-sahel-signs-de-facto-the-organization-s-death-warrant_5983848_4.html"
     },
     {
-      "text": "            Subscribers only'These buildings have no voice. We are their voice': Historic Miami threatened with extinction  Like the Deauville Hotel, which is being demolished, many buildings in the famous Florida city are under threat. One advocacy group is fighting to stop real estate promoters who are tempted byy the popular seafront.  ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/16/these-buildings-have-no-voice-we-are-their-voice-historic-miami-threatened-with-extinction_5983726_117.html"
+      "text": "            Why does M\u00e9lenchon speak of a 'third round' of the French presidential election?  France's opposition parties are focusing on the upcoming legislative elections and are busy mapping out their strategy. What are the concrete stakes of the legislative elections, and can this election be a game-changer?  ",
+      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/05/18/legislative-2022-why-does-jean-luc-melenchon-speak-of-a-third-round-of-the-french-presidential-election_5983867_8.html"
     },
     {
-      "text": "            Subscribers onlyIn Syria, an unprecedented amnesty revives the trauma of families of prisoners and missing persons  For the first time since 2011, the amnesty decreed by the Assad regime involve Syrians detained on 'terrorism' charges. But no formal list of names has been published, making it difficult to assess the scope of the measure.  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/in-syria-an-unprecedented-amnesty-revives-the-trauma-of-families-of-prisoners-and-missing-persons_5983791_4.html"
+      "text": "            Subscribers onlyIn the United Kingdom, the fragile bet on offshore wind power  The world's second-largest producer of offshore wind power wants to increase its capacity fivefold within a decade. But this renewable energy's intermittency is a complicating factor.  ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/18/in-the-united-kingdom-the-fragile-bet-on-offshore-wind-power_5983873_19.html"
     },
     {
-      "text": "            Subscribers onlyUkraine's triumphant rhetoric faces limits on the ground  According to experts, foreign weapons deliveries are not enough to sustainably push back Russian forces in the Donbas and Southern Ukraine.  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/ukraine-s-triumphant-rhetoric-faces-limits-on-the-ground_5983768_4.html"
+      "text": "            Subscribers onlyOutgoing French transport minister causes controversy by joining luxury hydrogen car start-up  Jean-Baptiste Djebbari is expected to be appointed to the board of Hopium, a sort of French Tesla of hydrogen cars, at the company's general meeting on June 20.  ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/18/outgoing-french-transport-minister-causes-controversy-by-joining-luxury-hydrogen-car-start-up_5983869_5.html"
     },
     {
-      "text": "             Investigation   Gaspard Dhellemmes Subscribers onlyScams, crimes and deadly painkillers: The thousand lives of Alexandre Despalli\u00e8res The jet-setter accused of using drugs to poison the former mogul of Warner Music, Peter Ikin \u2013 perhaps others as well \u2013 died in January before revealing his secrets. From London to Sydney to Los Angeles, he never stopped lying to live off his benefactors.   16 min read   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/17/scams-crimes-and-deadly-painkillers-the-thousand-lives-of-alexandre-despallieres_5983774_117.html"
+      "text": "             Investigation   Jacques Follorou Subscribers onlyDeclassified documents prove France tried to assassinate one of its own citizens during Algerian War In 1957, French secret services orchestrated an attack against Dr. Louis Tonellot, considered too close to Algerian independence fighters. 'Le Monde' reveals the story behind the first known instance of the French government issuing a kill order against one of its own citizens.   14 min read   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/declassified-documents-prove-france-tried-to-assassinate-one-of-its-own-citizens-during-algerian-war_5983885_4.html"
     },
     {
       "text": " Newsletter LE MONDE IN ENGLISH Sign up to receive our daily selection of \"Le Monde\" articles translated into English.   Sign up  ",
       "url": "https://www.lemonde.fr/newsletters/le-monde-in-english/"
     },
     {
-      "text": "            Subscribers only'For Russian industry, the worst of the crisis will come from the summer onwards'  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/17/for-russian-industry-the-worst-of-the-crisis-will-come-from-the-summer-onwards_5983787_19.html"
+      "text": "            Kim slams North Korea's pandemic response  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/kim-slams-north-korea-s-pandemic-response_5983858_4.html"
     },
     {
-      "text": "            In Lebanon's parliamentary elections, Hezbollah and allies lose majority  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/in-lebanon-s-parliamentary-elections-hezbollah-and-allies-lose-majority_5983786_4.html"
+      "text": "            Cannes Film Festival launches with live Zelensky video address  ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/cannes-film-festival-launches-with-live-zelensky-video-address_5983844_30.html"
     },
     {
-      "text": "            Rescue mission to extract last defenders at Azovostal underway in Mariupol  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/rescue-mission-to-extract-last-defenders-at-azovostal-underway-in-mariupol_5983769_4.html"
+      "text": "            Subscribers onlyDiversity is still absent at the leadership level of major French companies  ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/18/diversity-is-still-absent-at-the-leadership-level-of-major-french-companies_5983850_7.html"
     },
     {
-      "text": "            With the Samsung Fold and Samsung Flip, foldable screens prove fragile  ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/05/17/with-the-samsung-fold-and-samsung-flip-foldable-screens-prove-fragile_5983784_13.html"
+      "text": "            Subscribers onlyFinland's and Sweden's candidacies are good news for NATO  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/finland-s-and-sweden-s-candidacies-are-good-news-for-nato_5983807_4.html"
     },
     {
-      "text": " Subscribers onlyIn Afghanistan, the Taliban 'want to restrict women's activities into oblivion'  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/in-afghanistan-the-taliban-want-to-restrict-women-s-activities-and-eliminate-them_5983755_4.html"
+      "text": " US is flooded with guns  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/us-is-flooded-with-guns_5983856_4.html"
     },
     {
-      "text": " Alexis Kohler keeps role as secretary general under Macron  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/01/who-is-alexis-kohler-macron-s-discreet-right-hand-man_5982117_5.html"
+      "text": " Subscribers onlyCannes 2022: How Iris Knobloch became the festival's first woman president  ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/cannes-2022-how-iris-knobloch-became-the-festival-s-first-woman-president_5983839_30.html"
     },
     {
-      "text": " Subscribers onlyNew electoral setback for the German Chancellor  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/16/new-electoral-setback-for-the-german-chancellor_5983741_4.html"
+      "text": " Subscribers onlyStreaming platforms continue to draw viewers away from movie theaters  ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/streaming-platforms-continue-to-draw-viewers-away-from-movie-theaters_5983820_30.html"
     },
     {
-      "text": " Subscribers only'The first year I've watered my wheat': Spring drought troubles farmers in Maine-et-Loire  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/the-first-year-i-ve-watered-my-wheat-spring-drought-troubles-farmers-in-maine-et-loire_5983727_19.html"
+      "text": " Subscribers onlyIn Iraq, desertification leads to multiple sandstorms  ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/in-iraq-desertification-leads-to-multiple-sandstorms_5983823_4.html"
     },
     {
-      "text": " Subscribers onlyFootball: 'The catastrophe that Saint-Etienne is heading toward is a collective effort'  ",
-      "url": "https://www.lemonde.fr/en/sports/article/2022/05/16/football-the-catastrophe-that-saint-etienne-is-heading-toward-is-a-collective-effort_5983749_9.html"
+      "text": "             In Depth   R\u00e9mi Barroux Elisabeth Borne, a long-awaited prime minister for the environment Emmanuel Macron declared during the inter-campaign period that his future head of government would be 'directly in charge of environmental planning.' Despite a stint as the head of the Ministry of the Environment, the new prime minister does not inspire much enthusiasm among NGOs.   4 min read   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/elisabeth-borne-a-much-awaited-prime-minister-for-the-environment_5983806_5.html"
     },
     {
-      "text": " The auction that is sending Oasis fans into a frenzy  ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/17/the-auction-that-is-sending-oasis-fans-into-a-frenzy_5983753_117.html"
+      "text": "             Review   Claire Guillot and  Harry Bellet Subscribers onlyNew Pompidou exhibit captures another side of 1920s Germany A fascinating exhibition at the Centre Pompidou in Paris looks back at the New Objectivity movement, focusing on photographer August Sander.   6 min read   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/18/new-pompidou-exhibit-captures-another-side-of-1920s-germany_5983868_30.html"
     },
     {
-      "text": "             Interview   Philippe Dagen Subscribers onlyArtist Ayman Baalbaki: 'In my work, there had to be that vandalism of today's Beirut' Known for his paintings, the artist is exhibiting a new kind of work at the Venice Biennale's Lebanese pavilion. In an interview with 'Le Monde,' he explains the genesis of this remarkable and enigmatic installation.   3 min read   ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/artist-ayman-baalbaki-in-my-work-there-had-to-be-that-vandalism-of-today-s-beirut_5983780_30.html"
-    },
-    {
-      "text": "             In Depth   Antoine Reverchon Subscribers onlyWhy globalization is becoming a problem after having been the solution The sudden return of conflicts between major powers shows the fragility of global production chains. Economic actors are reconsidering their strategies and supporting 'decoupling' to reduce interdependence, particularly with China.   10 min read   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/why-globalization-is-becoming-a-problem-after-having-been-the-solution_5983758_23.html"
-    },
-    {
-      "text": "             Investigation   Camille Stromboni and  Sol\u00e8ne Cordier Subscribers onlyTo report or not to report: General practitioners grapple with suspicions about incest Health professionals rarely report child abuse due to fears of legal reprisal from the families, but a government commission now recommends clarifying professionals' obligation to report, sparking debate.   6 min read   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/05/17/to-report-or-not-to-report-general-practitioners-grapple-with-suspicions-about-incest_5983772_7.html"
+      "text": "             Investigation   Elise Vincent and  Jean-Pierre Stroobants Subscribers onlyHow Vladimir Putin resurrected NATO While NATO had been deprived of its traditional enemies at the end of the Cold War, Russia's invasion of Ukraine restored its original purpose and unity.   13 min read   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/how-vladimir-putin-resurrected-nato_5983836_4.html"
     },
     {
       "text": "  Opinion  ",
       "url": "//www.lemonde.fr/en/opinion/"
     },
     {
-      "text": "  Interview 'By better managing agricultural potential, food crises could be avoided' in the Horn of Africa      Camille Lafrance     ",
-      "url": "https://www.lemonde.fr/en/le-monde-afrique/article/2022/05/17/by-better-managing-agricultural-potential-food-crises-could-be-avoided-in-the-horn-of-africa_5983775_12.html"
+      "text": "  Editorial French swimming pools: The need for secularism without naivety or hostility   ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/french-swimming-pools-the-need-for-secularism-without-naivety-or-hostility_5983888_23.html"
     },
     {
-      "text": "  Op-Ed  Subscribers only 'The goal of the anti-abortion movement is to create a desirable counteroffer to liberal democracy'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/the-goal-of-the-anti-abortion-movement-is-to-create-a-desirable-counteroffer-to-liberal-democracy_5983782_23.html"
+      "text": "  Column  Subscribers only 'Global warming highlights the vulnerability of nuclear power plants to rising temperatures'      St\u00e9phane Foucart     ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/global-warming-highlights-the-vulnerability-of-nuclear-power-plants-to-rising-temperatures_5983864_23.html"
     },
     {
-      "text": "  Column  Subscribers only Raw materials: 'A cold wind is blowing over copper'      Laurence Girard     ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/17/raw-materials-a-cold-wind-is-blowing-over-copper_5983757_19.html"
+      "text": "  Column  Subscribers only J\u00e9zabel Couppey-Soubeyran: 'Let's not expect the environmental transition to always be profitable'      J\u00e9zabel Couppey-Soubeyran associate professor of Economics at the Paris-I university and scientific advisor at the Veblen Institute    ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/jezabel-couppey-soubeyran-let-s-not-expect-the-environmental-transition-to-always-be-profitable_5983882_23.html"
     },
     {
-      "text": "  Turkey 'will not say yes' to Finland and Sweden's bid for NATO membership ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/16/turkey-will-not-say-yes-to-finland-and-sweden-s-bid-for-nato-membership_5983746_4.html"
+      "text": "  Cannes Film Festival launches with live Zelensky video address ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/cannes-film-festival-launches-with-live-zelensky-video-address_5983844_30.html"
     },
     {
-      "text": "  Elisabeth Borne appointed France's new prime minister ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/05/16/elisabeth-borne-appointed-france-s-new-prime-minister_5983735_7.html"
+      "text": "  Elisabeth Borne, a long-awaited prime minister for the environment ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/elisabeth-borne-a-much-awaited-prime-minister-for-the-environment_5983806_5.html"
     },
     {
-      "text": "  Sweden confirms its application for NATO membership ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/16/sweden-to-apply-for-nato-membership_5983715_4.html"
+      "text": "  Elisabeth Borne, a technocrat prime minister ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/elisabeth-borne-a-technocrat-prime-minister_5983794_5.html"
     },
     {
-      "text": "  The perilous path to Irish unity ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/16/the-perilous-path-to-irish-unity_5983712_23.html"
+      "text": "  'White supremacy is poison': Biden visits Buffalo following racist mass shooting ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/white-supremacy-is-poison-biden-visits-buffalo-following-racist-mass-shooting_5983838_4.html"
     },
     {
-      "text": "  Ukraine's triumphant rhetoric faces limits on the ground ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/ukraine-s-triumphant-rhetoric-faces-limits-on-the-ground_5983768_4.html"
+      "text": "  Grenoble approves wearing the burkini in public swimming pools after lengthy debate ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/17/grenoble-approves-wearing-the-burkini-in-public-swimming-pools-after-lengthy-debate_5983804_7.html"
     },
     {
-      "text": "  New era for Chelsea beckons after football club acquired by Todd Boehly ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/new-era-for-chelsea-beckons-after-football-club-acquired-by-american-billionaire_5983745_19.html"
+      "text": "  Carbon capture, geoengineering... A global climate commission focuses on the impact of exceeding 1.5\u00b0C ",
+      "url": "https://www.lemonde.fr/en/environment/article/2022/05/18/carbon-capture-geoengineering-a-global-climate-commission-focuses-on-the-impact-of-exceeding-1-5-c_5983851_114.html"
     },
     {
-      "text": "  Gas: Russia increases pressure on Europe ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/gas-russia-increases-pressure-on-europe_5983734_19.html"
+      "text": "  Finland's and Sweden's candidacies are good news for NATO ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/finland-s-and-sweden-s-candidacies-are-good-news-for-nato_5983807_4.html"
     },
     {
-      "text": "  The real life of actress Ad\u00e8le Exarchopoulos ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/16/the-real-life-of-actress-adele-exarchopoulos_5983711_117.html"
+      "text": "  Streaming platforms continue to draw viewers away from movie theaters ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/streaming-platforms-continue-to-draw-viewers-away-from-movie-theaters_5983820_30.html"
     },
     {
-      "text": "  Cost of France's public debt started rising again in 2021 ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/16/cost-of-france-s-public-debt-started-rising-again-in-2021_5983732_5.html"
+      "text": "  UK plans to radically overhaul Brexit deal with Northern Ireland ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/uk-plans-to-radically-overhaul-brexit-deal-with-northern-ireland_5983810_4.html"
     },
     {
       "text": "  2022 Legislative Elections  ",
       "url": "//www.lemonde.fr/en/2022-legislative-elections/"
     },
     {
-      "text": "           With Elisabeth Borne, Emmanuel Macron has found his 'Swiss Army knife' ",
+      "text": "           Why does M\u00e9lenchon speak of a 'third round' of the French presidential election? ",
+      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/05/18/legislative-2022-why-does-jean-luc-melenchon-speak-of-a-third-round-of-the-french-presidential-election_5983867_8.html"
+    },
+    {
+      "text": " Subscribers only 'The richer the voters, the greater importance of moral values'   ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/the-richer-the-voters-the-greater-importance-of-moral-values_5983814_23.html"
+    },
+    {
+      "text": "Elisabeth Borne, a long-awaited prime minister for the environment   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/elisabeth-borne-a-much-awaited-prime-minister-for-the-environment_5983806_5.html"
+    },
+    {
+      "text": "Elisabeth Borne, a technocrat prime minister   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/elisabeth-borne-a-technocrat-prime-minister_5983794_5.html"
+    },
+    {
+      "text": "With Elisabeth Borne, Emmanuel Macron has found his 'Swiss Army knife'   ",
       "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/with-elisabeth-borne-emmanuel-macron-has-found-his-swiss-army-knife_5983789_5.html"
     },
     {
@@ -2157,72 +2207,56 @@
       "url": "https://www.lemonde.fr/en/2022-legislative-elections/article/2022/05/15/emmanuel-macron-the-hr-director-in-chief_5983597_129.html"
     },
     {
-      "text": " Subscribers only Elections: 'It would be a mistake, once again, not to listen to the silence of the ballot box'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/15/elections-it-would-be-a-mistake-once-again-not-to-listen-to-the-silence-of-the-ballot-box_5983590_23.html"
-    },
-    {
-      "text": "Disillusion hits Zemmour supporters ahead of June elections   ",
-      "url": "https://www.lemonde.fr/en/2022-legislative-elections/article/2022/05/14/disillusioned-zemmour-supporters-ahead-of-june-elections_5983419_129.html"
-    },
-    {
-      "text": "Turmoil in M\u00e9lenchon's campaign after alleged sexual assault case   ",
-      "url": "https://www.lemonde.fr/en/2022-legislative-elections/article/2022/05/13/turmoil-in-melenchon-s-campaign-after-alleged-sexual-assault-case_5983392_129.html"
-    },
-    {
-      "text": "Legislative elections: Division is also slowly poisoning Macron's majority   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/13/legislative-election-division-is-also-slowly-poisoning-macron-s-majority_5983381_5.html"
-    },
-    {
       "text": "  International  ",
       "url": "//www.lemonde.fr/en/international/"
     },
     {
-      "text": "            Subscribers only In Syria, an unprecedented amnesty revives the trauma of families of prisoners and missing persons ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/in-syria-an-unprecedented-amnesty-revives-the-trauma-of-families-of-prisoners-and-missing-persons_5983791_4.html"
+      "text": "            Subscribers only Declassified documents prove France tried to assassinate one of its own citizens during Algerian War ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/declassified-documents-prove-france-tried-to-assassinate-one-of-its-own-citizens-during-algerian-war_5983885_4.html"
     },
     {
-      "text": " Subscribers only 'For Russian industry, the worst of the crisis will come from the summer onwards'   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/17/for-russian-industry-the-worst-of-the-crisis-will-come-from-the-summer-onwards_5983787_19.html"
+      "text": "Nearly 1,000 Ukrainian soldiers in Mariupol steel plant have surrendered, says Russia   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/nearly-1-000-ukrainian-soldiers-in-mariupol-steel-plant-have-surrendered-says-russia_5983880_4.html"
     },
     {
-      "text": "In Lebanon's parliamentary elections, Hezbollah and allies lose majority   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/in-lebanon-s-parliamentary-elections-hezbollah-and-allies-lose-majority_5983786_4.html"
+      "text": " Subscribers only 'The Donbas today is the Somme of 1916': Ukraine's battle of the shells   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/the-donbas-today-is-the-somme-of-1916-ukraine-s-battle-of-the-shells_5983875_4.html"
     },
     {
-      "text": " Subscribers only 'The goal of the anti-abortion movement is to create a desirable counteroffer to liberal democracy'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/the-goal-of-the-anti-abortion-movement-is-to-create-a-desirable-counteroffer-to-liberal-democracy_5983782_23.html"
+      "text": " Subscribers only 'Ukraine needs its heroes to be alive:' Soldiers from Azovstal evacuated to Moscow-controlled territory   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/ukraine-needs-its-heroes-to-be-alive-soldiers-from-azovstal-evacuated-to-moscow-controlled-territory_5983874_4.html"
     },
     {
-      "text": "Rescue mission to extract last defenders at Azovostal underway in Mariupol   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/rescue-mission-to-extract-last-defenders-at-azovostal-underway-in-mariupol_5983769_4.html"
+      "text": "Kim slams North Korea's pandemic response   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/kim-slams-north-korea-s-pandemic-response_5983858_4.html"
     },
     {
-      "text": " Subscribers only Ukraine's triumphant rhetoric faces limits on the ground   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/17/ukraine-s-triumphant-rhetoric-faces-limits-on-the-ground_5983768_4.html"
+      "text": "US is flooded with guns   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/us-is-flooded-with-guns_5983856_4.html"
     },
     {
-      "text": " Subscribers only In the U.S., 'people from ethnic minorities are most likely to feel the impact of an abortion ban.'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/in-the-u-s-people-from-ethnic-minorities-are-most-likely-to-feel-the-impact-of-an-abortion-ban_5983756_23.html"
+      "text": " Subscribers only 'Mali's departure from the G5 Sahel signs de facto the organization's death warrant'   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/mali-s-departure-from-the-g5-sahel-signs-de-facto-the-organization-s-death-warrant_5983848_4.html"
     },
     {
       "text": "  Environment  ",
       "url": "//www.lemonde.fr/en/environment/"
     },
     {
-      "text": "           'By better managing agricultural potential, food crises could be avoided' in the Horn of Africa ",
-      "url": "https://www.lemonde.fr/en/le-monde-afrique/article/2022/05/17/by-better-managing-agricultural-potential-food-crises-could-be-avoided-in-the-horn-of-africa_5983775_12.html"
+      "text": "            Subscribers only J\u00e9zabel Couppey-Soubeyran: 'Let's not expect the environmental transition to always be profitable' ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/jezabel-couppey-soubeyran-let-s-not-expect-the-environmental-transition-to-always-be-profitable_5983882_23.html"
     },
     {
-      "text": " Subscribers only Gas: Russia increases pressure on Europe   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/gas-russia-increases-pressure-on-europe_5983734_19.html"
+      "text": " Subscribers only In the United Kingdom, the fragile bet on offshore wind power   ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/18/in-the-united-kingdom-the-fragile-bet-on-offshore-wind-power_5983873_19.html"
     },
     {
-      "text": " Subscribers only 'The first year I've watered my wheat': Spring drought troubles farmers in Maine-et-Loire   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/the-first-year-i-ve-watered-my-wheat-spring-drought-troubles-farmers-in-maine-et-loire_5983727_19.html"
+      "text": " Subscribers only 'Global warming highlights the vulnerability of nuclear power plants to rising temperatures'   ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/global-warming-highlights-the-vulnerability-of-nuclear-power-plants-to-rising-temperatures_5983864_23.html"
     },
     {
-      "text": " Subscribers only French rail freight transport is slowly picking up steam   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/french-rail-freight-transport-is-slowly-picking-up-steam_5983687_19.html"
+      "text": " Subscribers only Carbon capture, geoengineering... A global climate commission focuses on the impact of exceeding 1.5\u00b0C   ",
+      "url": "https://www.lemonde.fr/en/environment/article/2022/05/18/carbon-capture-geoengineering-a-global-climate-commission-focuses-on-the-impact-of-exceeding-1-5-c_5983851_114.html"
     },
     {
       "text": "   ",
@@ -2233,32 +2267,32 @@
       "url": "//www.lemonde.fr/en/politics/"
     },
     {
-      "text": "           With Elisabeth Borne, Emmanuel Macron has found his 'Swiss Army knife' ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/with-elisabeth-borne-emmanuel-macron-has-found-his-swiss-army-knife_5983789_5.html"
+      "text": "           French swimming pools: The need for secularism without naivety or hostility ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/french-swimming-pools-the-need-for-secularism-without-naivety-or-hostility_5983888_23.html"
     },
     {
-      "text": " Subscribers only Budget constraints complicate Emmanuel Macron's second term   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/budget-emmanuel-macron-s-complicated-presidential-start_5983754_5.html"
+      "text": " Subscribers only Outgoing French transport minister causes controversy by joining luxury hydrogen car start-up   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/18/outgoing-french-transport-minister-causes-controversy-by-joining-luxury-hydrogen-car-start-up_5983869_5.html"
     },
     {
-      "text": " Subscribers only Mohammed bin Zayed's election to UAE president 'just a formality'   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/16/mohammed-bin-zayed-s-election-to-uae-president-just-a-formality_5983740_4.html"
+      "text": "Why does M\u00e9lenchon speak of a 'third round' of the French presidential election?   ",
+      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/05/18/legislative-2022-why-does-jean-luc-melenchon-speak-of-a-third-round-of-the-french-presidential-election_5983867_8.html"
     },
     {
-      "text": "Elisabeth Borne appointed France's new prime minister   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/05/16/elisabeth-borne-appointed-france-s-new-prime-minister_5983735_7.html"
+      "text": " Subscribers only Patrick Lefas: 'Madam prime minister, dare to be the guardian of the government's ethics'   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/18/patrick-lefas-madam-prime-minister-dare-to-be-the-guardian-of-the-government-s-ethics_5983852_5.html"
     },
     {
-      "text": " Subscribers only Cost of France's public debt started rising again in 2021   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/16/cost-of-france-s-public-debt-started-rising-again-in-2021_5983732_5.html"
+      "text": " Subscribers only 'The richer the voters, the greater importance of moral values'   ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/the-richer-the-voters-the-greater-importance-of-moral-values_5983814_23.html"
     },
     {
-      "text": "2022 legislative elections: Parisian conservatives fear the loss of their strongholds   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/15/2022-legislative-elections-parisian-conservatives-fear-the-loss-of-their-strongholds_5983598_5.html"
+      "text": "Elisabeth Borne, a long-awaited prime minister for the environment   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/17/elisabeth-borne-a-much-awaited-prime-minister-for-the-environment_5983806_5.html"
     },
     {
-      "text": "Emmanuel Macron, the HR director-in-chief   ",
-      "url": "https://www.lemonde.fr/en/2022-legislative-elections/article/2022/05/15/emmanuel-macron-the-hr-director-in-chief_5983597_129.html"
+      "text": " Subscribers only Grenoble approves wearing the burkini in public swimming pools after lengthy debate   ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/17/grenoble-approves-wearing-the-burkini-in-public-swimming-pools-after-lengthy-debate_5983804_7.html"
     },
     {
       "text": "  Science  ",
@@ -2297,39 +2331,43 @@
       "url": "//www.lemonde.fr/en/france/"
     },
     {
-      "text": "            Subscribers only Scams, crimes and deadly painkillers: The thousand lives of Alexandre Despalli\u00e8res ",
+      "text": "           French swimming pools: The need for secularism without naivety or hostility ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/french-swimming-pools-the-need-for-secularism-without-naivety-or-hostility_5983888_23.html"
+    },
+    {
+      "text": " Subscribers only Diversity is still absent at the leadership level of major French companies   ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/18/diversity-is-still-absent-at-the-leadership-level-of-major-french-companies_5983850_7.html"
+    },
+    {
+      "text": " Subscribers only 'The new French government will have to respond to the health and social emergencies in schools'   ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/17/the-new-french-government-will-have-to-respond-to-the-health-and-social-emergencies-in-schools_5983847_7.html"
+    },
+    {
+      "text": "Cannes Film Festival launches with live Zelensky video address   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/cannes-film-festival-launches-with-live-zelensky-video-address_5983844_30.html"
+    },
+    {
+      "text": " Subscribers only Grenoble approves wearing the burkini in public swimming pools after lengthy debate   ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/17/grenoble-approves-wearing-the-burkini-in-public-swimming-pools-after-lengthy-debate_5983804_7.html"
+    },
+    {
+      "text": " Subscribers only Homophobic violence in France increased again in 2021   ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/17/homophobic-violence-in-france-increased-again-in-2021_5983795_7.html"
+    },
+    {
+      "text": " Subscribers only Scams, crimes and deadly painkillers: The thousand lives of Alexandre Despalli\u00e8res   ",
       "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/17/scams-crimes-and-deadly-painkillers-the-thousand-lives-of-alexandre-despallieres_5983774_117.html"
-    },
-    {
-      "text": " Subscribers only To report or not to report: General practitioners grapple with suspicions about incest   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/05/17/to-report-or-not-to-report-general-practitioners-grapple-with-suspicions-about-incest_5983772_7.html"
-    },
-    {
-      "text": " Subscribers only Football: 'The catastrophe that Saint-Etienne is heading toward is a collective effort'   ",
-      "url": "https://www.lemonde.fr/en/sports/article/2022/05/16/football-the-catastrophe-that-saint-etienne-is-heading-toward-is-a-collective-effort_5983749_9.html"
-    },
-    {
-      "text": "Elisabeth Borne appointed France's new prime minister   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/05/16/elisabeth-borne-appointed-france-s-new-prime-minister_5983735_7.html"
-    },
-    {
-      "text": " Subscribers only Shining a spotlight on the underworld: Why crime inspires so many creators   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/16/shining-a-spotlight-on-the-underworld-why-crime-inspires-so-many-creators_5983733_4.html"
-    },
-    {
-      "text": " Subscribers only Cost of France's public debt started rising again in 2021   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/16/cost-of-france-s-public-debt-started-rising-again-in-2021_5983732_5.html"
-    },
-    {
-      "text": " Subscribers only Academic pressure: A major cause of burnout among high school students   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/05/16/academic-pressure-a-major-cause-of-burnout-among-high-school-students_5983671_7.html"
     },
     {
       "text": "  Our Times  ",
       "url": "//www.lemonde.fr/en/our-times/"
     },
     {
-      "text": "            Subscribers only In Brittany, sea living and coworking form an unexpected harmony ",
+      "text": "            Subscribers only An aperitif with Sami Bouajila: 'France struggles with its immigrant population' ",
+      "url": "https://www.lemonde.fr/en/our-times/article/2022/05/17/an-aperitif-with-sami-bouajila-france-has-trouble-with-its-immigrant-population_5983817_39.html"
+    },
+    {
+      "text": " Subscribers only In Brittany, sea living and coworking form an unexpected harmony   ",
       "url": "https://www.lemonde.fr/en/our-times/article/2022/05/14/in-brittany-sea-living-and-coworking-form-an-unexpected-harmony_5983423_39.html"
     },
     {
@@ -2353,47 +2391,51 @@
       "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/07/the-fun-makers-who-bring-children-s-crazy-ideas-to-life_5982725_117.html"
     },
     {
-      "text": " Subscribers only The French train drivers making high-speed jokes   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/06/the-french-train-drivers-making-high-speed-jokes_5982588_117.html"
-    },
-    {
       "text": "  Economy  ",
       "url": "//www.lemonde.fr/en/economy/"
     },
     {
-      "text": "            Subscribers only 'For Russian industry, the worst of the crisis will come from the summer onwards' ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/17/for-russian-industry-the-worst-of-the-crisis-will-come-from-the-summer-onwards_5983787_19.html"
+      "text": "            Subscribers only 'The development of autonomy granted to employees provides a false sense of freedom' ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/the-development-of-autonomy-granted-to-employees-provides-a-false-sense-of-freedom_5983883_23.html"
     },
     {
-      "text": " Subscribers only Why globalization is becoming a problem after having been the solution   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/why-globalization-is-becoming-a-problem-after-having-been-the-solution_5983758_23.html"
+      "text": " Subscribers only J\u00e9zabel Couppey-Soubeyran: 'Let's not expect the environmental transition to always be profitable'   ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/18/jezabel-couppey-soubeyran-let-s-not-expect-the-environmental-transition-to-always-be-profitable_5983882_23.html"
     },
     {
-      "text": " Subscribers only Raw materials: 'A cold wind is blowing over copper'   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/17/raw-materials-a-cold-wind-is-blowing-over-copper_5983757_19.html"
+      "text": " Subscribers only In the United Kingdom, the fragile bet on offshore wind power   ",
+      "url": "https://www.lemonde.fr/en/economy/article/2022/05/18/in-the-united-kingdom-the-fragile-bet-on-offshore-wind-power_5983873_19.html"
     },
     {
-      "text": "The auction that is sending Oasis fans into a frenzy   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/17/the-auction-that-is-sending-oasis-fans-into-a-frenzy_5983753_117.html"
+      "text": " Subscribers only Outgoing French transport minister causes controversy by joining luxury hydrogen car start-up   ",
+      "url": "https://www.lemonde.fr/en/politics/article/2022/05/18/outgoing-french-transport-minister-causes-controversy-by-joining-luxury-hydrogen-car-start-up_5983869_5.html"
     },
     {
-      "text": " Subscribers only New era for Chelsea beckons after football club acquired by Todd Boehly   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/new-era-for-chelsea-beckons-after-football-club-acquired-by-american-billionaire_5983745_19.html"
+      "text": " Subscribers only Diversity is still absent at the leadership level of major French companies   ",
+      "url": "https://www.lemonde.fr/en/france/article/2022/05/18/diversity-is-still-absent-at-the-leadership-level-of-major-french-companies_5983850_7.html"
     },
     {
-      "text": " Subscribers only Gas: Russia increases pressure on Europe   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/gas-russia-increases-pressure-on-europe_5983734_19.html"
+      "text": " Subscribers only 'The richer the voters, the greater importance of moral values'   ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/the-richer-the-voters-the-greater-importance-of-moral-values_5983814_23.html"
     },
     {
-      "text": " Subscribers only Cost of France's public debt started rising again in 2021   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/05/16/cost-of-france-s-public-debt-started-rising-again-in-2021_5983732_5.html"
+      "text": " Subscribers only History of a concept: Network, the web that links us to each other   ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/history-of-a-concept-network-the-web-that-links-us-to-each-other_5983813_23.html"
     },
     {
       "text": "  Le Monde Africa  ",
       "url": "//www.lemonde.fr/en/le-monde-africa/"
     },
     {
-      "text": "            Subscribers only Music: The African artists finding a global audience via TikTok ",
+      "text": "            Subscribers only Declassified documents prove France tried to assassinate one of its own citizens during Algerian War ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/declassified-documents-prove-france-tried-to-assassinate-one-of-its-own-citizens-during-algerian-war_5983885_4.html"
+    },
+    {
+      "text": " Subscribers only 'Mali's departure from the G5 Sahel signs de facto the organization's death warrant'   ",
+      "url": "https://www.lemonde.fr/en/international/article/2022/05/18/mali-s-departure-from-the-g5-sahel-signs-de-facto-the-organization-s-death-warrant_5983848_4.html"
+    },
+    {
+      "text": " Subscribers only Music: The African artists finding a global audience via TikTok   ",
       "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/05/15/music-the-african-artists-finding-a-global-audience-via-tiktok_5983614_124.html"
     },
     {
@@ -2411,14 +2453,6 @@
     {
       "text": " Subscribers only In C\u00f4te d'Ivoire, COP15 summit against desertification aims to 'make history'   ",
       "url": "https://www.lemonde.fr/en/environment/article/2022/05/12/in-cote-d-ivoire-cop15-summit-against-desertification-aims-to-make-history_5983177_114.html"
-    },
-    {
-      "text": " Subscribers only In C\u00f4te d'Ivoire, water is running out   ",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/05/12/in-cote-d-ivoire-water-is-running-out_5983144_124.html"
-    },
-    {
-      "text": " Subscribers only Why the food crisis in the Horn of Africa is likely to get worse   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/11/why-the-food-crisis-in-the-horn-of-africa-is-likely-to-get-worse_5983088_4.html"
     },
     {
       "text": "  M Le Mag  ",
@@ -2445,7 +2479,11 @@
       "url": "//www.lemonde.fr/en/les-decodeurs/"
     },
     {
-      "text": "           French presidential race results don't necessarily forecast upcoming legislative elections ",
+      "text": "           Why does M\u00e9lenchon speak of a 'third round' of the French presidential election? ",
+      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/05/18/legislative-2022-why-does-jean-luc-melenchon-speak-of-a-third-round-of-the-french-presidential-election_5983867_8.html"
+    },
+    {
+      "text": "French presidential race results don't necessarily forecast upcoming legislative elections   ",
       "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/05/13/french-presidential-race-results-don-t-necessarily-forecast-upcoming-legislative-elections_5983349_8.html"
     },
     {
@@ -2469,15 +2507,15 @@
       "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/04/25/presidential-results-2022-facing-le-pen-macron-loses-ground-across-the-country-compared-to-2017_5981588_8.html"
     },
     {
-      "text": "French election results if abstentions, blank and invalid votes were included   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/04/25/french-election-results-if-abstentions-blank-and-invalid-votes-were-included_5981587_5.html"
-    },
-    {
       "text": "  Pixels  ",
       "url": "//www.lemonde.fr/en/pixels/"
     },
     {
-      "text": "           With the Samsung Fold and Samsung Flip, foldable screens prove fragile ",
+      "text": "            Subscribers only History of a concept: Network, the web that links us to each other ",
+      "url": "https://www.lemonde.fr/en/opinion/article/2022/05/17/history-of-a-concept-network-the-web-that-links-us-to-each-other_5983813_23.html"
+    },
+    {
+      "text": "With the Samsung Fold and Samsung Flip, foldable screens prove fragile   ",
       "url": "https://www.lemonde.fr/en/pixels/article/2022/05/17/with-the-samsung-fold-and-samsung-flip-foldable-screens-prove-fragile_5983784_13.html"
     },
     {
@@ -2501,40 +2539,36 @@
       "url": "https://www.lemonde.fr/en/pixels/article/2022/05/12/google-i-o-conference-a-smartphone-a-watch-and-a-wave-of-software-improvements-announced_5983225_13.html"
     },
     {
-      "text": "In the Central African Republic, bitcoin and a war of influence   ",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/05/12/in-the-central-african-republic-bitcoin-and-a-war-of-influence_5983202_124.html"
-    },
-    {
       "text": "  Culture  ",
       "url": "//www.lemonde.fr/en/culture/"
     },
     {
-      "text": "            Subscribers only Artist Ayman Baalbaki: 'In my work, there had to be that vandalism of today's Beirut' ",
+      "text": "            Subscribers only New Pompidou exhibit captures another side of 1920s Germany ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/18/new-pompidou-exhibit-captures-another-side-of-1920s-germany_5983868_30.html"
+    },
+    {
+      "text": " Subscribers only Vincent Lindon, Cannes Festival jury president: 'I like movies telling something about the state of the world.'   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/18/vincent-lindon-cannes-festival-jury-president-i-like-movies-telling-something-about-the-state-of-the-world_5983849_30.html"
+    },
+    {
+      "text": "Cannes Film Festival launches with live Zelensky video address   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/cannes-film-festival-launches-with-live-zelensky-video-address_5983844_30.html"
+    },
+    {
+      "text": " Subscribers only Cannes 2022: How Iris Knobloch became the festival's first woman president   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/cannes-2022-how-iris-knobloch-became-the-festival-s-first-woman-president_5983839_30.html"
+    },
+    {
+      "text": " Subscribers only Streaming platforms continue to draw viewers away from movie theaters   ",
+      "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/streaming-platforms-continue-to-draw-viewers-away-from-movie-theaters_5983820_30.html"
+    },
+    {
+      "text": " Subscribers only An aperitif with Sami Bouajila: 'France struggles with its immigrant population'   ",
+      "url": "https://www.lemonde.fr/en/our-times/article/2022/05/17/an-aperitif-with-sami-bouajila-france-has-trouble-with-its-immigrant-population_5983817_39.html"
+    },
+    {
+      "text": " Subscribers only Artist Ayman Baalbaki: 'In my work, there had to be that vandalism of today's Beirut'   ",
       "url": "https://www.lemonde.fr/en/culture/article/2022/05/17/artist-ayman-baalbaki-in-my-work-there-had-to-be-that-vandalism-of-today-s-beirut_5983780_30.html"
-    },
-    {
-      "text": "The auction that is sending Oasis fans into a frenzy   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/17/the-auction-that-is-sending-oasis-fans-into-a-frenzy_5983753_117.html"
-    },
-    {
-      "text": " Subscribers only Shining a spotlight on the underworld: Why crime inspires so many creators   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/05/16/shining-a-spotlight-on-the-underworld-why-crime-inspires-so-many-creators_5983733_4.html"
-    },
-    {
-      "text": " Subscribers only 'These buildings have no voice. We are their voice': Historic Miami threatened with extinction   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/16/these-buildings-have-no-voice-we-are-their-voice-historic-miami-threatened-with-extinction_5983726_117.html"
-    },
-    {
-      "text": " Subscribers only 'If I can win a C\u00e9sar, anyone can!': Jean-Pascal Zadi is determined to just be himself   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/16/if-i-can-win-a-cesar-anyone-can-jean-pascal-zadi-is-determined-to-just-be-himself_5983721_117.html"
-    },
-    {
-      "text": " Subscribers only The real life of actress Ad\u00e8le Exarchopoulos   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/05/16/the-real-life-of-actress-adele-exarchopoulos_5983711_117.html"
-    },
-    {
-      "text": " Subscribers only Arthouse films struggle to find their audience in France   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/05/16/arthouse-films-struggle-to-find-their-audience-in-france_5983691_19.html"
     },
     {
       "text": "Subscribe",
@@ -2705,10 +2739,10 @@
     "publicdate": "2022-04-09 13:40:13",
     "addeddate": "2022-04-09 13:40:13"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 1318184857,
+  "server": "ia902506.us.archive.org",
+  "uniq": 598970199,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }
