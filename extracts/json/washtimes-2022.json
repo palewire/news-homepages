@@ -1,5 +1,5 @@
 {
-  "created": 1653092607,
+  "created": 1653178898,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -1974,31 +1974,73 @@
       "sha1": "159ec0c97ef6455a2a84e5293e08c685ec12a624"
     },
     {
+      "name": "washtimes-2022-05-21T14:42:27.051906-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653158550",
+      "size": "88186",
+      "md5": "338966b060432f11307f9f23b2c56093",
+      "crc32": "02ce85ce",
+      "sha1": "f3b012ecc0acb2f1bf4fc1f6d314d2f10c9d6a2e",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-05-21T14:42:27.051906-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653158552",
+      "size": "55103",
+      "md5": "f43c14b80befc6f1e43d9eda93a33ced",
+      "crc32": "5a635de0",
+      "sha1": "2058591e409604bc82d7c555832898640dc15e83",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-05-21T14:42:27.051906-04:00.jpg",
+      "source": "original",
+      "mtime": "1653158549",
+      "size": "324074",
+      "md5": "64287c06af21375f22f64a4498fa744d",
+      "crc32": "02fb4872",
+      "sha1": "e0896b868f480a91e70e76bff303b8f7978999e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-05-21T14:42:27.051906-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-05-21T14:42:27.051906-04:00.jpg",
+      "mtime": "1653158673",
+      "size": "10967",
+      "md5": "3e1ba601579999d584820cbab67971d9",
+      "crc32": "d6bff1b1",
+      "sha1": "bd96ff69e208bf7be9eebb1f99f0d8e510d4f13a"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b04314ff3137d0c7f973cd986629dcfbaec78815",
-      "mtime": "1653073204",
-      "size": "41248",
-      "md5": "5817b92caf2906752e0587abe1e51c91",
-      "crc32": "4fc83064",
-      "sha1": "aca497e011c7c7e8f1b4bc7dd7bafebd00f71496",
+      "btih": "2189b2787f2d79561a19ba5890e14e1f9bd57f6a",
+      "mtime": "1653158678",
+      "size": "42082",
+      "md5": "5cf54f288de462248e346e2912cdc522",
+      "crc32": "af253145",
+      "sha1": "4da469ff017c9de24acd34d4508b037068c8996b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14a69e17e75aa6f64455e6295b5cade8",
+      "md5": "095f8b31a6f9cf53e98cd87f734c0666",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653072243",
-      "size": "233472",
-      "md5": "7a8b7fbbdb37a74a91aebe2524394f43",
-      "crc32": "20349e9a",
-      "sha1": "d3bb3a072bde393f58a2f4671d600a5c49bbd985",
+      "mtime": "1653158555",
+      "size": "237568",
+      "md5": "4ed9a3aa2b4c01f07e3a07055683ebb0",
+      "crc32": "78e8661d",
+      "sha1": "a3c9f57ea6faca80d0c1f6afe13d3fe0cacf8e0b",
       "format": "Metadata"
     },
     {
@@ -2012,9 +2054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 191,
-  "item_last_updated": 1653073204,
-  "item_size": 23134444,
+  "files_count": 195,
+  "item_last_updated": 1653158678,
+  "item_size": 23617704,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -2032,7 +2074,7 @@
     "addeddate": "2022-03-25 18:45:19"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 597148972,
+  "uniq": 764450929,
   "washtimes-2022": [
     {
       "text": "Skip to content",
@@ -2551,7 +2593,7 @@
       "url": "/specials/front-page-podcast/"
     },
     {
-      "text": "Front Page Podcast w/ George Gerbo",
+      "text": "Front Page Podcast: Every weekday morning",
       "url": "/specials/front-page-podcast/"
     },
     {
@@ -2559,7 +2601,7 @@
       "url": "/specials/bold-blunt-podcast/"
     },
     {
-      "text": "NEW: Cheryl Chumley with Bill O\u2019Reilly",
+      "text": "LATEST: Bill O\u2019Reilly joins Bold & Blunt",
       "url": "/specials/bold-blunt-podcast/"
     },
     {
@@ -2567,7 +2609,7 @@
       "url": "/specials/history-happens-podcast/"
     },
     {
-      "text": "LISTEN: Life before Roe",
+      "text": "Weekend Listen: Life before Roe",
       "url": "/specials/history-happens-podcast/"
     },
     {
@@ -2579,10 +2621,6 @@
       "url": "/topics/russia/"
     },
     {
-      "text": "Donald Trump",
-      "url": "/topics/donald-trump/"
-    },
-    {
       "text": "South Korea",
       "url": "/topics/south-korea/"
     },
@@ -2591,92 +2629,96 @@
       "url": "/topics/china/"
     },
     {
-      "text": "North Atlantic Treaty Organization",
-      "url": "/topics/north-atlantic-treaty-organization/"
+      "text": "Congress",
+      "url": "/topics/congress/"
     },
     {
-      "text": "Twitter",
-      "url": "/topics/twitter/"
+      "text": "Donald Trump",
+      "url": "/topics/donald-trump/"
     },
     {
-      "text": "Beijing",
-      "url": "/topics/beijing/"
+      "text": "Mariupol",
+      "url": "/topics/mariupol/"
     },
     {
-      "text": "Finland",
-      "url": "/topics/finland/"
+      "text": "New York",
+      "url": "/topics/new-york/"
     },
     {
-      "text": "Hillary Clinton",
-      "url": "/topics/hillary-clinton/"
+      "text": "North Korea",
+      "url": "/topics/north-korea/"
     },
     {
-      "text": "",
-      "url": "/news/2022/may/20/bill-de-blasio-jumps-race-congress-says-hes-fighti/"
-    },
-    {
-      "text": "Bill de Blasio jumps into race for Congress, says he\u2019s fighting to save democracy",
-      "url": "/news/2022/may/20/bill-de-blasio-jumps-race-congress-says-hes-fighti/"
+      "text": "Republican Party",
+      "url": "/topics/republican-party/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/joe-biden-kicks-asia-trip-samsung-tour-south-korea/"
+      "url": "/news/2022/may/21/youngest-of-10-buffalo-shooting-victims-being-laid/"
     },
     {
-      "text": "Biden kicks off Asia trip with Samsung tour in South Korea to solidify trade ties",
-      "url": "/news/2022/may/20/joe-biden-kicks-asia-trip-samsung-tour-south-korea/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/20/least-1700-ukrainian-soldiers-have-surrendered-mar/"
-    },
-    {
-      "text": "At least 1,700 Ukrainian soldiers have surrendered in Mariupol, says U.K. intel",
-      "url": "/news/2022/may/20/least-1700-ukrainian-soldiers-have-surrendered-mar/"
+      "text": "Youngest of 10 Buffalo shooting victims laid to rest",
+      "url": "/news/2022/may/21/youngest-of-10-buffalo-shooting-victims-being-laid/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/nyc-reports-possible-case-monkeypox-amid-strange-c/"
+      "url": "/news/2022/may/21/bipartisan-bill-targets-near-total-control-online-/"
     },
     {
-      "text": "NYC reports a possible case of monkeypox amid strange clusters",
-      "url": "/news/2022/may/20/nyc-reports-possible-case-monkeypox-amid-strange-c/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/20/group-targeted-rep-madison-cawthorn-focus-rep-laur/"
-    },
-    {
-      "text": "Group that targeted Rep. Madison Cawthorn to focus on Rep. Lauren Boebert",
-      "url": "/news/2022/may/20/group-targeted-rep-madison-cawthorn-focus-rep-laur/"
+      "text": "Bipartisan bill targets near-total control of online advertising by Facebook, Google",
+      "url": "/news/2022/may/21/bipartisan-bill-targets-near-total-control-online-/"
     },
     {
       "text": "",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=5%2F20%2F2022"
+      "url": "/news/2022/may/21/biden-signs-40-billion-ukraine-aid-bill/"
+    },
+    {
+      "text": "Biden signs $40 billion Ukraine aid bill",
+      "url": "/news/2022/may/21/biden-signs-40-billion-ukraine-aid-bill/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/20/australian-prime-minister-concedes-election-defeat/"
+    },
+    {
+      "text": "Australian Labor topples conservatives, PM faces early tests",
+      "url": "/news/2022/may/20/australian-prime-minister-concedes-election-defeat/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/21/us-skorea-open-to-expanded-military-drills-to-dete/"
+    },
+    {
+      "text": "U.S. and South Korea open to expanded joint military drills to deter North",
+      "url": "/news/2022/may/21/us-skorea-open-to-expanded-military-drills-to-dete/"
+    },
+    {
+      "text": "",
+      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D4&id=id4&path=%2F&date=5%2F21%2F2022"
     },
     {
       "text": "Doctor: \u201cDoing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)\u201d",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=5%2F20%2F2022"
+      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D4&id=id4&path=%2F&date=5%2F21%2F2022"
     },
     {
-      "text": "Hillary Clinton approved sharing debunked Trump-Russia claims with media: Campaign manager",
-      "url": "https://www.washingtontimes.com/news/2022/may/20/hillary-clinton-approved-sharing-debunked-trump-ru/"
+      "text": "GOP blasts 'racist' tweet by Connecticut Democratic Party comparing Black Republican, Curious George",
+      "url": "https://www.washingtontimes.com/news/2022/may/20/gop-blasts-racist-tweet-connecticut-democratic-par/"
+    },
+    {
+      "text": "New York judge finalizes congressional map, opening door for Democratic chaos in primary race",
+      "url": "https://www.washingtontimes.com/news/2022/may/21/new-york-judge-finalizes-congressional-map-opening/"
+    },
+    {
+      "text": "Joe Biden approval rating hits lowest point since taking office",
+      "url": "https://www.washingtontimes.com/news/2022/may/20/joe-biden-approval-rating-hits-lowest-point-taking/"
     },
     {
       "text": "Steelworker sues for firing after calling gay rainbow symbol 'abomination'",
       "url": "https://www.washingtontimes.com/news/2022/may/20/steelworker-sues-firing-after-calling-gay-rainbow-/"
     },
     {
-      "text": "Frustration builds as Biden administration blows deadline on offshore drilling program",
-      "url": "https://www.washingtontimes.com/news/2022/may/19/frustration-builds-biden-administration-blows-dead/"
-    },
-    {
-      "text": "Ministry of disgraced Christian evangelical figure can be sued for donation refunds, court says",
-      "url": "https://www.washingtontimes.com/news/2022/may/19/ministry-disgraced-christian-evangelical-figure-ca/"
-    },
-    {
-      "text": "Group that targeted Rep. Madison Cawthorn to focus on Rep. Lauren Boebert",
-      "url": "https://www.washingtontimes.com/news/2022/may/20/group-targeted-rep-madison-cawthorn-focus-rep-laur/"
+      "text": "Moderate congressional Democrats sound the alarm about the party's far-left direction",
+      "url": "https://www.washingtontimes.com/news/2022/may/20/moderate-congressional-democrats-sound-alarm-about/"
     },
     {
       "text": "Inside The Beltway",
@@ -2735,36 +2777,48 @@
       "url": "//www.washingtontimes.com/puzzles/sudoku/"
     },
     {
-      "text": "Artillery leading the fight in Ukraine",
-      "url": "/news/2022/may/20/artillery-leading-fight-ukraine/"
+      "text": "Erdogan raises concerns on Finland, Sweden NATO membership in calls with countries\u2019 leaders",
+      "url": "/news/2022/may/21/erdogan-re-ups-concerns-over-finland-sweden-joinin/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/artillery-leading-fight-ukraine/"
+      "url": "/news/2022/may/21/erdogan-re-ups-concerns-over-finland-sweden-joinin/"
     },
     {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/19/agent-misconduct-revealed-to-be-recurring-theme-at/"
-    },
-    {
-      "text": "EXCLUSIVE: Agent misconduct revealed to be recurring theme at FBI; attempts at fixes fall short",
-      "url": "/news/2022/may/19/agent-misconduct-revealed-to-be-recurring-theme-at/"
-    },
-    {
-      "text": "Ryan Lovelace",
-      "url": "https://www.washingtontimes.com/staff/ryan-lovelace/"
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/hillary-clinton-approved-sharing-debunked-trump-ru/"
+      "url": "/news/2022/may/21/new-york-judge-finalizes-congressional-map-opening/"
     },
     {
-      "text": "Hillary Clinton approved sharing debunked Trump-Russia claims with media: Campaign manager",
-      "url": "/news/2022/may/20/hillary-clinton-approved-sharing-debunked-trump-ru/"
+      "text": "New York judge finalizes congressional map, opening door for Democratic chaos in primary race",
+      "url": "/news/2022/may/21/new-york-judge-finalizes-congressional-map-opening/"
+    },
+    {
+      "text": "Kerry Picket",
+      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/21/biden-open-talks-north-korea-kim-serious-curb-nuke/"
+    },
+    {
+      "text": "Biden open to talks with North Korea only if Kim \u2018serious\u2019 about curbing weapons programs",
+      "url": "/news/2022/may/21/biden-open-talks-north-korea-kim-serious-curb-nuke/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/20/clinton-campaign-lawyer-peddled-anti-trump-claims-/"
+    },
+    {
+      "text": "Clinton campaign lawyer peddled anti-Trump claims to CIA after the election, officials testify",
+      "url": "/news/2022/may/20/clinton-campaign-lawyer-peddled-anti-trump-claims-/"
     },
     {
       "text": "Jeff Mordock",
@@ -2772,47 +2826,35 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/19/china-north-korea-cast-shadow-over-biden-asia-miss/"
+      "url": "/news/2022/may/20/us-economy-projected-outpace-chinas-first-time-197/"
     },
     {
-      "text": "China, North Korea cast shadow over Biden Asia mission",
-      "url": "/news/2022/may/19/china-north-korea-cast-shadow-over-biden-asia-miss/"
-    },
-    {
-      "text": "Guy Taylor",
-      "url": "https://www.washingtontimes.com/staff/guy-taylor/"
+      "text": "U.S. economy projected to outpace China's for first time since 1976",
+      "url": "/news/2022/may/20/us-economy-projected-outpace-chinas-first-time-197/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/corporate-boards-rebuff-conservative-shareholder-a/"
+      "url": "/news/2022/may/20/federal-judge-blocks-biden-ending-title-42-pandemi/"
     },
     {
-      "text": "Corporate boards rebuff conservative shareholder activism",
-      "url": "/news/2022/may/20/corporate-boards-rebuff-conservative-shareholder-a/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/19/biden-admin-warns-about-north-korean-infiltrating-/"
-    },
-    {
-      "text": "North Koreans disguise as IT workers to infiltrate tech sector, aid Kim",
-      "url": "/news/2022/may/19/biden-admin-warns-about-north-korean-infiltrating-/"
+      "text": "Federal judge blocks Biden from ending Title 42 pandemic border shutdown",
+      "url": "/news/2022/may/20/federal-judge-blocks-biden-ending-title-42-pandemi/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/us-faces-elevated-risk-power-blackouts-summer-say-/"
+      "url": "/news/2022/may/20/artillery-leading-fight-ukraine/"
     },
     {
-      "text": "U.S. faces elevated risk of power blackouts this summer, say regulators",
-      "url": "/news/2022/may/20/us-faces-elevated-risk-power-blackouts-summer-say-/"
+      "text": "Artillery leading the fight in Ukraine",
+      "url": "/news/2022/may/20/artillery-leading-fight-ukraine/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/19/crime-wave-shapes-washingtons-mayoral-race-puts-bo/"
+      "url": "/news/2022/may/20/moderate-congressional-democrats-sound-alarm-about/"
     },
     {
-      "text": "Crime wave shapes D.C.'s mayoral race, puts Bowser on defense",
-      "url": "/news/2022/may/19/crime-wave-shapes-washingtons-mayoral-race-puts-bo/"
+      "text": "Moderate congressional Democrats sound the alarm about the party's far-left direction",
+      "url": "/news/2022/may/20/moderate-congressional-democrats-sound-alarm-about/"
     },
     {
       "text": "",
@@ -2832,11 +2874,11 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/marvel-comics-debut-transgender-mutant-superheroes/"
+      "url": "/news/2022/may/20/experts-see-spike-divorce-single-parenting-amid-co/"
     },
     {
-      "text": "Marvel Comics to debut \u2018transgender mutant superheroes\u2019",
-      "url": "/news/2022/may/20/marvel-comics-debut-transgender-mutant-superheroes/"
+      "text": "Experts see spike in divorce, single parenting amid COVID stress",
+      "url": "/news/2022/may/20/experts-see-spike-divorce-single-parenting-amid-co/"
     },
     {
       "text": "Sean Salai",
@@ -2856,27 +2898,27 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/19/nina-jankowicz-biden-disinformation-board-czar-bla/"
+      "url": "/news/2022/may/20/san-francisco-archbishop-bar-pelosi-holy-communion/"
     },
     {
-      "text": "Biden disinformation board czar blames disinformation for its demise",
-      "url": "/news/2022/may/19/nina-jankowicz-biden-disinformation-board-czar-bla/"
+      "text": "San Francisco archbishop bars pro-choice Pelosi from receiving Holy Communion",
+      "url": "/news/2022/may/20/san-francisco-archbishop-bar-pelosi-holy-communion/"
     },
     {
-      "text": "Victor Morton",
-      "url": "https://www.washingtontimes.com/staff/victor-morton/"
+      "text": "Mica Soellner",
+      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/19/alexandria-ocasio-cortez-engaged-riley-roberts-lon/"
+      "url": "/news/2022/may/20/marvel-comics-debut-transgender-mutant-superheroes/"
     },
     {
-      "text": "Rep. Alexandria Ocasio-Cortez announces engagement",
-      "url": "/news/2022/may/19/alexandria-ocasio-cortez-engaged-riley-roberts-lon/"
+      "text": "Marvel Comics to debut \u2018transgender mutant superheroes\u2019",
+      "url": "/news/2022/may/20/marvel-comics-debut-transgender-mutant-superheroes/"
     },
     {
-      "text": "Victor Morton",
-      "url": "https://www.washingtontimes.com/staff/victor-morton/"
+      "text": "Sean Salai",
+      "url": "https://www.washingtontimes.com/staff/sean-salai/"
     },
     {
       "text": "White House Watch",
@@ -2888,47 +2930,43 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/joe-biden-kicks-asia-trip-samsung-tour-south-korea/"
+      "url": "/news/2022/may/21/biden-open-talks-north-korea-kim-serious-curb-nuke/"
     },
     {
-      "text": "Biden kicks off Asia trip with Samsung tour in South Korea to solidify trade ties",
-      "url": "/news/2022/may/20/joe-biden-kicks-asia-trip-samsung-tour-south-korea/"
+      "text": "Biden open to talks with North Korea only if Kim \u2018serious\u2019 about curbing weapons programs",
+      "url": "/news/2022/may/21/biden-open-talks-north-korea-kim-serious-curb-nuke/"
     },
     {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/19/china-north-korea-cast-shadow-over-biden-asia-miss/"
-    },
-    {
-      "text": "China, North Korea cast shadow over Biden Asia mission",
-      "url": "/news/2022/may/19/china-north-korea-cast-shadow-over-biden-asia-miss/"
-    },
-    {
-      "text": "Guy Taylor",
-      "url": "https://www.washingtontimes.com/staff/guy-taylor/"
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/19/biden-admin-warns-about-north-korean-infiltrating-/"
+      "url": "/news/2022/may/21/biden-signs-40-billion-ukraine-aid-bill/"
     },
     {
-      "text": "North Koreans disguise as IT workers to infiltrate tech sector, aid Kim",
-      "url": "/news/2022/may/19/biden-admin-warns-about-north-korean-infiltrating-/"
+      "text": "Biden signs $40 billion Ukraine aid bill",
+      "url": "/news/2022/may/21/biden-signs-40-billion-ukraine-aid-bill/"
     },
     {
-      "text": "Ryan Lovelace",
-      "url": "https://www.washingtontimes.com/staff/ryan-lovelace/"
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/19/john-kirby-pentagon-spokesman-moving-white-house/"
+      "url": "/news/2022/may/21/us-skorea-open-to-expanded-military-drills-to-dete/"
     },
     {
-      "text": "Pentagon spokesman John Kirby to take White House role",
-      "url": "/news/2022/may/19/john-kirby-pentagon-spokesman-moving-white-house/"
+      "text": "U.S. and South Korea open to expanded joint military drills to deter North",
+      "url": "/news/2022/may/21/us-skorea-open-to-expanded-military-drills-to-dete/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/20/two-secret-service-agents-sent-home-alleged-drunke/"
+    },
+    {
+      "text": "Two Secret Service agents sent home for alleged drunken altercation ahead of Biden\u2019s first Asia trip",
+      "url": "/news/2022/may/20/two-secret-service-agents-sent-home-alleged-drunke/"
     },
     {
       "text": "Joseph Clark",
@@ -2944,19 +2982,23 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/lawmaker-calls-for-investigation-of-oregon-ballot-/"
+      "url": "/news/2022/may/21/bipartisan-bill-targets-near-total-control-online-/"
     },
     {
-      "text": "Lawmaker calls for investigation of Oregon ballot fiasco",
-      "url": "/news/2022/may/20/lawmaker-calls-for-investigation-of-oregon-ballot-/"
+      "text": "Bipartisan bill targets near-total control of online advertising by Facebook, Google",
+      "url": "/news/2022/may/21/bipartisan-bill-targets-near-total-control-online-/"
+    },
+    {
+      "text": "Susan Ferrechio",
+      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/bill-de-blasio-jumps-race-congress-says-hes-fighti/"
+      "url": "/news/2022/may/21/new-york-judge-finalizes-congressional-map-opening/"
     },
     {
-      "text": "Bill de Blasio jumps into race for Congress, says he\u2019s fighting to save democracy",
-      "url": "/news/2022/may/20/bill-de-blasio-jumps-race-congress-says-hes-fighti/"
+      "text": "New York judge finalizes congressional map, opening door for Democratic chaos in primary race",
+      "url": "/news/2022/may/21/new-york-judge-finalizes-congressional-map-opening/"
     },
     {
       "text": "Kerry Picket",
@@ -2964,27 +3006,23 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/hillary-clinton-approved-sharing-debunked-trump-ru/"
+      "url": "/news/2022/may/20/gop-blasts-racist-tweet-connecticut-democratic-par/"
     },
     {
-      "text": "Hillary Clinton approved sharing debunked Trump-Russia claims with media: Campaign manager",
-      "url": "/news/2022/may/20/hillary-clinton-approved-sharing-debunked-trump-ru/"
+      "text": "GOP blasts \u2018racist\u2019 tweet by Connecticut Democratic Party comparing Black Republican, Curious George",
+      "url": "/news/2022/may/20/gop-blasts-racist-tweet-connecticut-democratic-par/"
     },
     {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
+      "text": "Mica Soellner",
+      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/two-secret-service-agents-sent-home-alleged-drunke/"
+      "url": "/news/2022/may/21/wisconsin-republicans-gather-vote-endorsements/"
     },
     {
-      "text": "Two Secret Service agents sent home for alleged drunken altercation ahead of Biden\u2019s first Asia trip",
-      "url": "/news/2022/may/20/two-secret-service-agents-sent-home-alleged-drunke/"
-    },
-    {
-      "text": "Joseph Clark",
-      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+      "text": "Wisconsin Republicans gather to vote on endorsements",
+      "url": "/news/2022/may/21/wisconsin-republicans-gather-vote-endorsements/"
     },
     {
       "text": "Dive Deeper",
@@ -3052,39 +3090,47 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/trump-pays-110k-fine-must-submit-paperwork-to-end-/"
+      "url": "/news/2022/may/21/youngest-of-10-buffalo-shooting-victims-being-laid/"
     },
     {
-      "text": "Trump pays $110K fine, must submit paperwork to end contempt",
-      "url": "/news/2022/may/20/trump-pays-110k-fine-must-submit-paperwork-to-end-/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/20/nyc-reports-possible-case-monkeypox-amid-strange-c/"
-    },
-    {
-      "text": "NYC reports a possible case of monkeypox amid strange clusters",
-      "url": "/news/2022/may/20/nyc-reports-possible-case-monkeypox-amid-strange-c/"
-    },
-    {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Youngest of 10 Buffalo shooting victims laid to rest",
+      "url": "/news/2022/may/21/youngest-of-10-buffalo-shooting-victims-being-laid/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/jury-finds-man-not-guilty-of-murder-in-teachers-de/"
+      "url": "/news/2022/may/20/texas-activates-border-command-center-end-title-42/"
     },
     {
-      "text": "Jury finds man not guilty of murder in teacher\u2019s death",
-      "url": "/news/2022/may/20/jury-finds-man-not-guilty-of-murder-in-teachers-de/"
+      "text": "Texas activates border command center as end of Title 42 looms",
+      "url": "/news/2022/may/20/texas-activates-border-command-center-end-title-42/"
+    },
+    {
+      "text": "Stephen Dinan",
+      "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/georgias-senior-congressman-facing-toughest-race-s/"
+      "url": "/news/2022/may/20/corporate-boards-rebuff-conservative-shareholder-a/"
     },
     {
-      "text": "Georgia\u2019s senior congressman facing toughest race since 2010",
-      "url": "/news/2022/may/20/georgias-senior-congressman-facing-toughest-race-s/"
+      "text": "Corporate boards rebuff conservative shareholder activism",
+      "url": "/news/2022/may/20/corporate-boards-rebuff-conservative-shareholder-a/"
+    },
+    {
+      "text": "Sean Salai",
+      "url": "https://www.washingtontimes.com/staff/sean-salai/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/20/texas-high-school-ends-classes-early-after-destruc/"
+    },
+    {
+      "text": "Texas high school ends classes early after destructive \u2018senior prank\u2019",
+      "url": "/news/2022/may/20/texas-high-school-ends-classes-early-after-destruc/"
+    },
+    {
+      "text": "Sean Salai",
+      "url": "https://www.washingtontimes.com/staff/sean-salai/"
     },
     {
       "text": "World",
@@ -3096,39 +3142,47 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/west-rushes-more-aid-as-mariupol-teeters-and-fight/"
+      "url": "/news/2022/may/21/russia-cuts-gas-exports-finland/"
     },
     {
-      "text": "West rushes more aid as Mariupol teeters and fighting rages",
-      "url": "/news/2022/may/20/west-rushes-more-aid-as-mariupol-teeters-and-fight/"
+      "text": "Russia cuts gas exports to Finland",
+      "url": "/news/2022/may/21/russia-cuts-gas-exports-finland/"
     },
     {
-      "text": "",
-      "url": "/news/2022/may/20/artillery-leading-fight-ukraine/"
-    },
-    {
-      "text": "Artillery leading the fight in Ukraine",
-      "url": "/news/2022/may/20/artillery-leading-fight-ukraine/"
-    },
-    {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/deliberations-start-in-russian-soldiers-war-crimes/"
+      "url": "/news/2022/may/21/erdogan-re-ups-concerns-over-finland-sweden-joinin/"
     },
     {
-      "text": "Deliberations start in Russian soldier\u2019s war crimes trial",
-      "url": "/news/2022/may/20/deliberations-start-in-russian-soldiers-war-crimes/"
+      "text": "Erdogan raises concerns on Finland, Sweden NATO membership in calls with countries\u2019 leaders",
+      "url": "/news/2022/may/21/erdogan-re-ups-concerns-over-finland-sweden-joinin/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "",
-      "url": "/news/2022/may/20/mining-companies-back-away-from-brazils-indigenous/"
+      "url": "/news/2022/may/21/biden-open-talks-north-korea-kim-serious-curb-nuke/"
     },
     {
-      "text": "Mining companies back away from Brazil\u2019s Indigenous areas",
-      "url": "/news/2022/may/20/mining-companies-back-away-from-brazils-indigenous/"
+      "text": "Biden open to talks with North Korea only if Kim \u2018serious\u2019 about curbing weapons programs",
+      "url": "/news/2022/may/21/biden-open-talks-north-korea-kim-serious-curb-nuke/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/may/20/australian-prime-minister-concedes-election-defeat/"
+    },
+    {
+      "text": "Australian Labor topples conservatives, PM faces early tests",
+      "url": "/news/2022/may/20/australian-prime-minister-concedes-election-defeat/"
     },
     {
       "text": "Sports",
@@ -3140,15 +3194,19 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/19/josiah-grays-development-welcome-sight-nationals-s/"
+      "url": "/news/2022/may/21/orioles-call-up-top-prospect-adley-rutschman-to-ma/"
     },
     {
-      "text": "Josiah Gray\u2019s development a welcome sight for Nationals\u2019 sputtering rotation",
-      "url": "/news/2022/may/19/josiah-grays-development-welcome-sight-nationals-s/"
+      "text": "Orioles call up top prospect Adley Rutschman to majors",
+      "url": "/news/2022/may/21/orioles-call-up-top-prospect-adley-rutschman-to-ma/"
     },
     {
-      "text": "Jacob Calvin Meyer",
-      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
+      "text": "",
+      "url": "/news/2022/may/20/will-zalatoris-holds-one-shot-lead-at-pga-champion/"
+    },
+    {
+      "text": "Will Zalatoris holds one-shot lead at PGA Championship",
+      "url": "/news/2022/may/20/will-zalatoris-holds-one-shot-lead-at-pga-champion/"
     },
     {
       "text": "",
@@ -3164,19 +3222,11 @@
     },
     {
       "text": "",
-      "url": "/news/2022/may/19/rory-mcilroy-powers-to-a-65-for-early-lead-at-pga-/"
+      "url": "/news/2022/may/20/eric-lauer-brewers-beat-nationals-7-0-despite-trip/"
     },
     {
-      "text": "McIlroy powers to a 65 for early lead at PGA Championship",
-      "url": "/news/2022/may/19/rory-mcilroy-powers-to-a-65-for-early-lead-at-pga-/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/may/19/fenwick-follows-rich-strikes-huge-underdog-lead-50/"
-    },
-    {
-      "text": "Fenwick follows Rich Strike\u2019s huge underdog lead at 50-1 Preakness odds",
-      "url": "/news/2022/may/19/fenwick-follows-rich-strikes-huge-underdog-lead-50/"
+      "text": "Nationals turn triple play, but get shut out by Lauer, Brewers",
+      "url": "/news/2022/may/20/eric-lauer-brewers-beat-nationals-7-0-despite-trip/"
     },
     {
       "text": "Sponsored Content",
@@ -3511,20 +3561,24 @@
       "url": "/news/security/"
     },
     {
-      "text": "As Biden visits Asia, China launches South China Sea drills",
-      "url": "/news/2022/may/20/as-biden-visits-asia-china-launches-south-china-se/"
+      "text": "Who were Mariupol\u2019s last defenders?",
+      "url": "/news/2022/may/21/who-were-mariupols-last-defenders/"
     },
     {
-      "text": "New presidential Air Force One jets won\u2019t be ready for at least two years",
-      "url": "/news/2022/may/20/new-presidential-air-force-one-jets-wont-be-ready-/"
+      "text": "U.S. and South Korea open to expanded joint military drills to deter North",
+      "url": "/news/2022/may/21/us-skorea-open-to-expanded-military-drills-to-dete/"
     },
     {
-      "text": "Biden kicks off Asia trip with Samsung tour in South Korea to solidify trade ties",
-      "url": "/news/2022/may/20/joe-biden-kicks-asia-trip-samsung-tour-south-korea/"
+      "text": "In biggest victory yet, Russia claims to capture Mariupol",
+      "url": "/news/2022/may/21/in-biggest-victory-yet-russia-claims-to-capture-ma/"
     },
     {
       "text": "D.C. Local",
       "url": "/news/local/"
+    },
+    {
+      "text": "McLean Bible Church to vote on do-over after 2021 election roiled congregation",
+      "url": "/news/2022/may/20/mclean-bible-church-vote-do-over-after-2021-electi/"
     },
     {
       "text": "Kamala Harris, EPA unveil $500 million to ditch diesel school buses for electric models",
@@ -3535,88 +3589,84 @@
       "url": "/news/2022/may/19/state-report-slams-virginia-public-schools-deceivi/"
     },
     {
-      "text": "Crime wave shapes D.C.\u2019s mayoral race, puts Bowser on defense",
-      "url": "/news/2022/may/19/crime-wave-shapes-washingtons-mayoral-race-puts-bo/"
-    },
-    {
       "text": "World",
       "url": "/news/world/"
     },
     {
-      "text": "West rushes more aid as Mariupol teeters and fighting rages",
-      "url": "/news/2022/may/20/west-rushes-more-aid-as-mariupol-teeters-and-fight/"
+      "text": "Russia cuts gas exports to Finland",
+      "url": "/news/2022/may/21/russia-cuts-gas-exports-finland/"
     },
     {
-      "text": "Artillery leading the fight in Ukraine",
-      "url": "/news/2022/may/20/artillery-leading-fight-ukraine/"
+      "text": "Erdogan raises concerns on Finland, Sweden NATO membership in calls with countries\u2019 leaders",
+      "url": "/news/2022/may/21/erdogan-re-ups-concerns-over-finland-sweden-joinin/"
     },
     {
-      "text": "Deliberations start in Russian soldier\u2019s war crimes trial",
-      "url": "/news/2022/may/20/deliberations-start-in-russian-soldiers-war-crimes/"
+      "text": "Biden open to talks with North Korea only if Kim \u2018serious\u2019 about curbing weapons programs",
+      "url": "/news/2022/may/21/biden-open-talks-north-korea-kim-serious-curb-nuke/"
     },
     {
       "text": "Business & Economy",
       "url": "/news/business-economy/"
     },
     {
-      "text": "U.S. stocks edge higher at the end of another bruising week",
-      "url": "/news/2022/may/20/us-stocks-edge-higher-at-the-end-of-another-bruisi/"
+      "text": "Bipartisan bill targets near-total control of online advertising by Facebook, Google",
+      "url": "/news/2022/may/21/bipartisan-bill-targets-near-total-control-online-/"
     },
     {
-      "text": "Steelworker sues for firing after calling gay rainbow symbol \u2018abomination\u2019",
-      "url": "/news/2022/may/20/steelworker-sues-firing-after-calling-gay-rainbow-/"
+      "text": "US women\u2019s team has history of advocating for equal rights",
+      "url": "/news/2022/may/21/us-womens-team-has-history-of-advocating-for-equal/"
     },
     {
-      "text": "Union warns of \u2018labor disputes\u2019 if casino contracts expire",
-      "url": "/news/2022/may/20/union-warns-of-labor-disputes-if-casino-contracts-/"
+      "text": "U.S. economy projected to outpace China\u2019s for first time since 1976",
+      "url": "/news/2022/may/20/us-economy-projected-outpace-chinas-first-time-197/"
     },
     {
       "text": "Faith & Family",
       "url": "/news/faith-family/"
     },
     {
+      "text": "McLean Bible Church to vote on do-over after 2021 election roiled congregation",
+      "url": "/news/2022/may/20/mclean-bible-church-vote-do-over-after-2021-electi/"
+    },
+    {
+      "text": "San Francisco archbishop bars pro-choice Pelosi from receiving Holy Communion",
+      "url": "/news/2022/may/20/san-francisco-archbishop-bar-pelosi-holy-communion/"
+    },
+    {
       "text": "Steelworker sues for firing after calling gay rainbow symbol \u2018abomination\u2019",
       "url": "/news/2022/may/20/steelworker-sues-firing-after-calling-gay-rainbow-/"
-    },
-    {
-      "text": "Top Republicans say slow-acting FDA delayed formula plant reopening",
-      "url": "/news/2022/may/19/top-republicans-say-slow-acting-fda-delayed-formul/"
-    },
-    {
-      "text": "White House slams Oklahoma\u2019s \u2018ultra MAGA officials\u2019 over abortion bill",
-      "url": "/news/2022/may/19/white-house-slams-oklahomas-ultra-maga-officials-o/"
     },
     {
       "text": "Health",
       "url": "/culture/health/"
     },
     {
-      "text": "NYC reports a possible case of monkeypox amid strange clusters",
-      "url": "/news/2022/may/20/nyc-reports-possible-case-monkeypox-amid-strange-c/"
+      "text": "North Korea reports more fevers as Kim claims virus progress",
+      "url": "/news/2022/may/21/north-korea-reports-more-fevers-as-kim-claims-viru/"
     },
     {
-      "text": "Religious backers of abortion rights say God\u2019s on their side",
-      "url": "/news/2022/may/20/religious-backers-of-abortion-rights-say-gods-on-t/"
+      "text": "Monkeypox unlikely to become COVID-like crisis: experts",
+      "url": "/news/2022/may/19/monkeypox-unlikely-become-covid-crisis-experts/"
     },
     {
-      "text": "Top Republicans say slow-acting FDA delayed formula plant reopening",
-      "url": "/news/2022/may/19/top-republicans-say-slow-acting-fda-delayed-formul/"
+      "text": "Days before Oklahoma bans abortion, details still uncertain",
+      "url": "/news/2022/may/20/days-before-oklahoma-bans-abortion-details-still-u/"
     },
     {
       "text": "Entertainment",
       "url": "/culture/entertainment/"
     },
     {
+      "text": "US women\u2019s team has history of advocating for equal rights",
+      "url": "/news/2022/may/21/us-womens-team-has-history-of-advocating-for-equal/"
+    },
+    {
+      "text": "\u2018Armageddon Time,\u2019 portrait of white privilege, stirs Cannes",
+      "url": "/news/2022/may/21/armageddon-time-portrait-of-white-privilege-stirs-/"
+    },
+    {
       "text": "Protester crashes Cannes carpet at George Miller premiere",
       "url": "/news/2022/may/20/protester-crashes-cannes-carpet-at-george-miller-p/"
-    },
-    {
-      "text": "Broadcast TV\u2019s reduced role made clear in fall presentations",
-      "url": "/news/2022/may/20/broadcast-tvs-reduced-role-made-clear-in-fall-pres/"
-    },
-    {
-      "text": "George Carlin\u2019s comedic journey takes the stage in HBO doc",
-      "url": "/news/2022/may/20/george-carlins-comedic-journey-takes-the-stage-in-/"
     },
     {
       "text": "Travel",
@@ -3639,16 +3689,16 @@
       "url": "/culture/technology/"
     },
     {
+      "text": "Bipartisan bill targets near-total control of online advertising by Facebook, Google",
+      "url": "/news/2022/may/21/bipartisan-bill-targets-near-total-control-online-/"
+    },
+    {
       "text": "Biden kicks off Asia trip with Samsung tour in South Korea to solidify trade ties",
       "url": "/news/2022/may/20/joe-biden-kicks-asia-trip-samsung-tour-south-korea/"
     },
     {
       "text": "North Koreans disguise as IT workers to infiltrate tech sector, aid Kim",
       "url": "/news/2022/may/19/biden-admin-warns-about-north-korean-infiltrating-/"
-    },
-    {
-      "text": "Canada bans China\u2019s Huawei Technologies from 5G networks",
-      "url": "/news/2022/may/19/canada-bans-chinas-huawei-technologies-from-5g-net/"
     },
     {
       "text": "Energy & Environment",
@@ -3671,8 +3721,8 @@
       "url": "/specials/coronavirus-covid-19-pandemic-updates/"
     },
     {
-      "text": "Florida sees record tourism after return to pre-pandemic norms",
-      "url": "/news/2022/may/19/florida-sees-record-tourism-heels-gov-ron-desantis/"
+      "text": "North Korea reports more fevers as Kim claims virus progress",
+      "url": "/news/2022/may/21/north-korea-reports-more-fevers-as-kim-claims-viru/"
     },
     {
       "text": "Second Amendment & Gun Control",
@@ -3687,8 +3737,8 @@
       "url": "/specials/immigration-reform/"
     },
     {
-      "text": "Feds bust major cross-border drug tunnel",
-      "url": "/news/2022/may/16/feds-bust-major-cross-border-drug-tunnel/"
+      "text": "Texas activates border command center as end of Title 42 looms",
+      "url": "/news/2022/may/20/texas-activates-border-command-center-end-title-42/"
     },
     {
       "text": "Homeland & Cybersecurity",
@@ -3703,8 +3753,8 @@
       "url": "/specials/defense-aerospace/"
     },
     {
-      "text": "Artillery leading the fight in Ukraine",
-      "url": "/news/2022/may/20/artillery-leading-fight-ukraine/"
+      "text": "Erdogan raises concerns on Finland, Sweden NATO membership in calls with countries' leaders",
+      "url": "/news/2022/may/21/erdogan-re-ups-concerns-over-finland-sweden-joinin/"
     },
     {
       "text": "Taxes & Budget",
