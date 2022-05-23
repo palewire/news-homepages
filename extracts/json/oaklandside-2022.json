@@ -1,5 +1,5 @@
 {
-  "created": 1653178815,
+  "created": 1653265272,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -2346,31 +2346,73 @@
       "sha1": "95932aefb6f42b9d51bbb55e55106e16600d0757"
     },
     {
+      "name": "oaklandside-2022-05-22T06:40:02.059178-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653226805",
+      "size": "34673",
+      "md5": "e374610b412fd2b2c03864548fbebb6e",
+      "crc32": "1aefae56",
+      "sha1": "3f140eae18218178b9f517a2b7ed5af76c09ec6e",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-05-22T06:40:02.059178-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653226807",
+      "size": "26820",
+      "md5": "6884d34754e43dd7a905b29922b65bf5",
+      "crc32": "54735d39",
+      "sha1": "5e40f65396d20684f94d212711b521159bf209a3",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-05-22T06:40:02.059178-07:00.jpg",
+      "source": "original",
+      "mtime": "1653226804",
+      "size": "342621",
+      "md5": "4affacb9e024fa0b1e006f5c08adbcc3",
+      "crc32": "f95ec4c3",
+      "sha1": "e83c3349e3bc3f18dbc7f3229fcaba739f5149cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-05-22T06:40:02.059178-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-05-22T06:40:02.059178-07:00.jpg",
+      "mtime": "1653226865",
+      "size": "8980",
+      "md5": "e1561e36e6a7f8c7fbdb24651e75c751",
+      "crc32": "827a6234",
+      "sha1": "ce7ad96ebc24d01d0d4632f4b88472fefa5ade35"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5eaa5f82524c52a4e9e5a883a73231f329761edf",
-      "mtime": "1653140640",
-      "size": "49047",
-      "md5": "264f5c27ad2f2045f78f234fbbc88c3f",
-      "crc32": "778788c3",
-      "sha1": "bb819f5a0432eb27729bf3f162d9a74a202dad63",
+      "btih": "3a43f0b31ffbb96cfc331e8a3a77b59cf703c405",
+      "mtime": "1653226876",
+      "size": "49908",
+      "md5": "58db1ba8717cfdce92b1a51bba72c240",
+      "crc32": "f2706e33",
+      "sha1": "ee86abbc3f53701c4c0d56e83fbd9a19f2288ad0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7e018752eafee82505c0c324579b18c9",
+      "md5": "a12e3ef9c5cb33198e3f487499f8632d",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653140473",
-      "size": "270336",
-      "md5": "5d95093ea9ea0f9d4b98f3cd1596e7da",
-      "crc32": "dce9b507",
-      "sha1": "cc63cb023b7f7a5ec0ad8bb19327eb150c32d567",
+      "mtime": "1653226809",
+      "size": "274432",
+      "md5": "a06e469386487eb6c0a58e7f7825a262",
+      "crc32": "2c793d7c",
+      "sha1": "7008035d0b6a7e86a0fc34c011871108d398446a",
       "format": "Metadata"
     },
     {
@@ -2384,9 +2426,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 226,
-  "item_last_updated": 1653140640,
-  "item_size": 27165652,
+  "files_count": 230,
+  "item_last_updated": 1653226876,
+  "item_size": 27583703,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -3197,10 +3239,10 @@
       "url": "https://oaklandside.org/policies/"
     }
   ],
-  "server": "ia902503.us.archive.org",
-  "uniq": 1124877295,
+  "server": "ia802503.us.archive.org",
+  "uniq": 2028887731,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }
