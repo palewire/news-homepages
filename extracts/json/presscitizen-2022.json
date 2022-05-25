@@ -1,5 +1,5 @@
 {
-  "created": 1653351933,
+  "created": 1653438173,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/13/items/presscitizen-2022",
@@ -2038,31 +2038,73 @@
       "format": "JSON"
     },
     {
+      "name": "presscitizen-2022-05-24T11:09:08.457042-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653408553",
+      "size": "19753",
+      "md5": "6029be2be5bf1cc04b628f1b218e4f26",
+      "crc32": "d1fe7a18",
+      "sha1": "cf2d4c7c83492cb10e5501c25579bcf96a6bc6ed",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-05-24T11:09:08.457042-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653408556",
+      "size": "29501",
+      "md5": "3d49a46f56910cb35aa86d711601735d",
+      "crc32": "de1d25c1",
+      "sha1": "70fb20a09980c94f9062495a5fbcf40d03df5a3f",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-05-24T11:09:08.457042-05:00.jpg",
+      "source": "original",
+      "mtime": "1653408551",
+      "size": "294810",
+      "md5": "5cad0514940263beda9ff0a8f19f29d6",
+      "crc32": "d8d4b582",
+      "sha1": "9ab1782fa46dd83083ec44c4d35367edeceae712",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "presscitizen-2022-05-24T11:09:08.457042-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "presscitizen-2022-05-24T11:09:08.457042-05:00.jpg",
+      "mtime": "1653410234",
+      "size": "9797",
+      "md5": "38b3ba78d0f85c0d429a50c6d7ec07b0",
+      "crc32": "2afbcaa4",
+      "sha1": "0b522b6b9a4c748700ada476cd30c8ebfc71f361"
+    },
+    {
       "name": "presscitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "451ab449136ec853f33e31213044abec29163f30",
-      "mtime": "1653322132",
-      "size": "42804",
-      "md5": "8a3d0acac063c3e3a5fda48fcf38a4dd",
-      "crc32": "377807ff",
-      "sha1": "742bf17549cd3f1c92dcdfdbf18c307f55a1e337",
+      "btih": "14922b257110fcee699a2cd0dd0856c08ce8adc2",
+      "mtime": "1653410411",
+      "size": "43669",
+      "md5": "c21dbcf28c563f8a0771d2ea6d237840",
+      "crc32": "75b35376",
+      "sha1": "55bd156a61a874c74102d21f7c8982348bcb6881",
       "format": "Archive BitTorrent"
     },
     {
       "name": "presscitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e5d475046cd23cd7a2f0cc3d22b4cd6",
+      "md5": "e19b6bb8ca0295a939d07886f08955dd",
       "summation": "md5"
     },
     {
       "name": "presscitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653322098",
-      "size": "237568",
-      "md5": "486457e6349048f13e7f98acd34233c6",
-      "crc32": "c8c31689",
-      "sha1": "4850428046bed25648a4feb85eabf4791be60b34",
+      "mtime": "1653409835",
+      "size": "241664",
+      "md5": "eab480a29f7b8170d92672af89e2fa0e",
+      "crc32": "66416a52",
+      "sha1": "4a7c5c233e86bc491fd107ab60b1250bebf1e467",
       "format": "Metadata"
     },
     {
@@ -2076,9 +2118,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1653322132,
-  "item_size": 16563310,
+  "files_count": 201,
+  "item_last_updated": 1653410411,
+  "item_size": 16922132,
   "metadata": {
     "identifier": "presscitizen-2022",
     "collection": [
@@ -2157,72 +2199,76 @@
       "url": "https://login.press-citizen.com/PIOC-GUP/authenticate?success-url=https%3A%2F%2Fwww.press-citizen.com%2F&cancel-url=https%3A%2F%2Fwww.press-citizen.com%2F"
     },
     {
-      "text": " Iowa lawmakers won't pass Kim Reynolds' private school bill this year",
+      "text": " Parents of CCA Elementary student sue over alleged harassment",
+      "url": "/story/news/education/k-12/2022/05/24/parents-clear-creek-amana-elementary-student-say-daughter-mistreated-lawsuit/9891227002/"
+    },
+    {
+      "text": "Sheriff's office identifies 20-year-old who died in Scott County crash",
+      "url": "/story/news/2022/05/23/mantral-mcclary-identified-person-who-died-scott-county-crash/9901101002/"
+    },
+    {
+      "text": "Johnston headlines first high school baseball Super 10",
+      "url": "/story/sports/high-school/2022/05/24/introducing-first-iowa-high-school-baseball-super-10-2022-season-ihsaa-johnston-dowling-catholic/9889293002/"
+    },
+    {
+      "text": "Things to do this weekend in Johnson County include Renaissance fair",
+      "url": "/story/entertainment/2022/05/24/things-do-weekend-johnson-county-include-memorial-day-bbq-renaissance-festival-filmscene-in-the-park/9862280002/"
+    },
+    {
+      "text": " Iowa lawmakers won't pass Kim Reynolds' private school\u2026",
       "url": "/story/news/politics/2022/05/23/kim-reynolds-private-school-scholarship-bill-will-not-pass-iowa-legislature-pat-grassley-says/9795828002/"
     },
     {
-      "text": "Five years in, Iowa's only rabbit rescue relies entirely on volunteers",
-      "url": "/story/news/2022/05/21/iowa-city-animal-shelter-home-every-bunny-rabbit-adoption/9827494002/"
-    },
-    {
-      "text": "Seven Iowa City area spots not to miss if you're new or leaving",
-      "url": "/story/entertainment/2022/05/19/seven-iowa-city-area-gems-not-miss-lake-macbride-heyns-devonian-fossil-gorge/9651200002/"
-    },
-    {
-      "text": "Strategies available to buyers looking for help as mortgage rates rise",
+      "text": " Strategies available to buyers looking for help as\u2026",
       "url": "/story/money/2022/05/23/nervous-iowa-homebuyers-look-ways-keep-mortgages-affordable/9804903002/"
+    },
+    {
+      "text": " Iowa lawmakers are back in Des Moines. Here's what you\u2026",
+      "url": "/story/news/politics/2022/05/23/iowa-lawmakers-returns-work-kim-reynolds-education-bill-budget-limbo/9857149002/"
+    },
+    {
+      "text": " Fort Dodge, Assumption lead Iowa softball preseason\u2026",
+      "url": "/story/sports/high-school/2022/05/23/fort-dodge-assumption-lead-iowa-high-school-softball-2022-preseason-super-10-ighsau/9860641002/"
     },
     {
       "text": " POW held for 2,551 days, longest of any Iowan during\u2026",
       "url": "/story/news/2022/05/22/larry-spencer-iowan-held-prisoner-war-longest-during-vietnam-dies/9884834002/"
     },
     {
-      "text": " Iowa City fifth-graders explore the environment through\u2026",
-      "url": "/story/life/2022/05/22/iowa-youth-writing-projects-program-connects-students-environment-iowa-city-climate-change/9735562002/"
+      "text": " Iowa lawmakers just made these bonuses and feminine products tax-free\u00a0",
+      "url": "/story/news/politics/2022/05/24/iowa-bill-eliminates-tampon-tax-makes-teacher-police-covid-bonuses-diapers-tax-free/9901446002/"
     },
     {
-      "text": " Break a sweat with one of these outdoor activities found\u2026",
-      "url": "/story/entertainment/2022/05/22/ways-things-to-do-workout-outdoors-summer-iowa-2022-exercise-fitness-yoga-disc-golf-biking-ragbrai/9762945002/"
+      "text": " Visit some of these small towns on a day trip in Iowa this summer\u00a0",
+      "url": "/story/entertainment/2022/05/24/day-trips-near-me-iowa-things-to-do-amanas-leclaire-walnut-east-village-mason-city/9762998002/"
     },
     {
-      "text": " Olympian Shawn Johnson helps mothers share much-needed\u2026",
-      "url": "/story/entertainment/2022/05/22/olypmic-gymnast-shawn-johnson-andrew-east-helps-mothers-share-baby-formula-shortage/9879912002/"
-    },
-    {
-      "text": " Iowa's battle over education playing out in Republican\u2026",
-      "url": "/story/news/politics/2022/05/22/iowa-republican-primary-june-7-election-2022-education-abortion-lgbtq/9806479002/"
-    },
-    {
-      "text": " Iowa lawmakers won't pass Kim Reynolds' private school bill this year\u00a0",
-      "url": "/story/news/politics/2022/05/23/kim-reynolds-private-school-scholarship-bill-will-not-pass-iowa-legislature-pat-grassley-says/9795828002/"
-    },
-    {
-      "text": " 'Top Gun' movie could help increase the popularity of this name\u00a0",
-      "url": "/story/news/2022/05/22/iowa-baby-boy-name-2022-popular-top-gun-maverick/9860007002/"
-    },
-    {
-      "text": " Iowa lawmakers are back in Des Moines. Here's what you need to know\u00a0",
-      "url": "/story/news/politics/2022/05/23/iowa-lawmakers-returns-work-kim-reynolds-education-bill-budget-limbo/9857149002/"
+      "text": " Parents of CCA Elementary student sue over alleged harassment\u00a0",
+      "url": "/story/news/education/k-12/2022/05/24/parents-clear-creek-amana-elementary-student-say-daughter-mistreated-lawsuit/9891227002/"
     },
     {
       "text": "More in News",
       "url": "/news/"
     },
     {
-      "text": "USA Wrestling World Team Trials Challenge Tournament Day 2 at Xtream Arena in Coralville\u00a0",
-      "url": "/picture-gallery/sports/2022/05/22/world-team-trails-challenge-tournament-day-2-photos-xtream-arena-coralville-iowa/9847819002/"
+      "text": " Meet the Des Moines Register's preseason 2022 All-Iowa softball teams\u00a0",
+      "url": "/story/sports/high-school/2022/05/24/preseason-2022-all-iowa-softball-teams-des-moines-register/9860650002/"
     },
     {
-      "text": "Iowa baseball photos: Hawkeyes regular season finale vs. Indiana\u00a0",
-      "url": "/picture-gallery/sports/college/iowa/baseball/2022/05/22/iowa-hawkeyes-indiana-college-big-ten-baseball-game-3-photos/9847818002/"
+      "text": " Fort Dodge, Assumption lead Iowa softball preseason Super 10\u00a0",
+      "url": "/story/sports/high-school/2022/05/23/fort-dodge-assumption-lead-iowa-high-school-softball-2022-preseason-super-10-ighsau/9860641002/"
     },
     {
-      "text": " Dowling Catholic wins first-ever boys state, stuns Waukee NW girls\u00a0",
-      "url": "/story/sports/high-school/2022/05/21/2022-iowa-high-school-state-track-results-dowling-catholic-jackson-heidesch-ihsaa/9795187002/"
+      "text": " Why a former pitcher's family returned to an Iowa Cubs game to grieve\u00a0",
+      "url": "/story/sports/baseball/iowa-cubs/2022/05/24/iowa-cubs-mike-christl-family-chicago-cubs-minor-league-baseball-principal-park/9839174002/"
     },
     {
       "text": "More in Sports",
       "url": "/sports/"
+    },
+    {
+      "text": " Things to do this weekend in Johnson County include Renaissance fair\u00a0",
+      "url": "/story/entertainment/2022/05/24/things-do-weekend-johnson-county-include-memorial-day-bbq-renaissance-festival-filmscene-in-the-park/9862280002/"
     },
     {
       "text": " Seven Iowa City area spots not to miss if you're new or leaving\u00a0",
@@ -2231,10 +2277,6 @@
     {
       "text": " Andre Perry leads new office as Hancher Auditorium director\u00a0",
       "url": "/story/entertainment/2022/05/18/hancher-auditoriums-new-executive-director-andre-perry-discusses-role/9708984002/"
-    },
-    {
-      "text": " 5 things to do this weekend in Johnson County include free movie\u00a0",
-      "url": "/story/entertainment/2022/05/17/5-things-do-weekend-johnson-county-include-free-movie-janis-ian-englert-theatre/9750841002/"
     },
     {
       "text": "More in Go Iowa City",
@@ -2258,7 +2300,7 @@
     },
     {
       "text": "",
-      "url": "/picture-gallery/sports/college/iowa/baseball/2022/05/22/iowa-hawkeyes-indiana-college-big-ten-baseball-game-3-photos/9847818002/"
+      "url": "/picture-gallery/sports/2022/05/22/world-team-trails-challenge-tournament-day-2-photos-xtream-arena-coralville-iowa/9847819002/"
     },
     {
       "text": "Check Out The Winners!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
@@ -2285,36 +2327,16 @@
       "url": "https://popup.taboola.com/"
     },
     {
-      "text": "Geas Best",
-      "url": "https://geasbest.com/bathroom/?utm_source=AminaCat&utm_medium=18045231&utm_campaign=1008035&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCphk8ovoew9t6SmP0u#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCphk8ovoew9t6SmP0u"
+      "text": "Afternoon Edition",
+      "url": "https://afternoonedition.com/trending/oldest-living-celebs?utm_source=taboola&utm_medium=gannettcompany-iowacitypress-citizen&utm_campaign=18441943&utm_term=Kareem+Abdul-Jabbar+Is+Almost+66%2C+See+Him+Now&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F19b3de42a580658f354d827ab5f7b026.png&ts=2022-05-24+16%3A06%3A19&tbv=sO649vzf3Elb3X-MIBXx08uz8hs8eqHTlFapFzjzRlA=&pcl=1&br=1&utm_source=taboola&utm_medium=gannettcompany-iowacitypress-citizen&utm_campaign=18441943&utm_term=Kareem+Abdul-Jabbar+Is+Almost+66%2C+See+Him+Now&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F19b3de42a580658f354d827ab5f7b026.png&ts=2022-05-24+16%3A06%3A19&tbv=sO649vzf3Elb3X-MIBXx08uz8hs8eqHTlFapFzjzRlA=&pcl=1&br=1"
     },
     {
-      "text": "Top 18 Reasons Why Cats Follow Us to The BathroomGeas Best|",
-      "url": "https://geasbest.com/bathroom/?utm_source=AminaCat&utm_medium=18045231&utm_campaign=1008035&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCphk8ovoew9t6SmP0u#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCphk8ovoew9t6SmP0u"
-    },
-    {
-      "text": "",
-      "url": "https://geasbest.com/bathroom/?utm_source=AminaCat&utm_medium=18045231&utm_campaign=1008035&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCphk8ovoew9t6SmP0u#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCphk8ovoew9t6SmP0u"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Truck Driving Jobs Canada | Search ads",
-      "url": "https://gain-an-intl-big-rig-jobs-in-ca.zone/?ref=gannettcompany-iowacitypress-citizen.1008035&sub_id=boaTruckDrivingJobsCanada-DTM-WW.17782171&sub_id2=gannettcompany-iowacitypress-citizen.1008035&tbid=1448067&tbland=view&tbserp=search&rskey=Work+as+A+Truck+Driver+in+Canada+%28Visa+Sponsorships+Might+Be+Available%29&compkey=truck+driving+jobs+canada#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCDsVgo8YTtztCekZY9"
-    },
-    {
-      "text": "Work as A Truck Driver in Canada (Visa Sponsorships Might Be Available)Truck Driving Jobs Canada | Search ads|",
-      "url": "https://gain-an-intl-big-rig-jobs-in-ca.zone/?ref=gannettcompany-iowacitypress-citizen.1008035&sub_id=boaTruckDrivingJobsCanada-DTM-WW.17782171&sub_id2=gannettcompany-iowacitypress-citizen.1008035&tbid=1448067&tbland=view&tbserp=search&rskey=Work+as+A+Truck+Driver+in+Canada+%28Visa+Sponsorships+Might+Be+Available%29&compkey=truck+driving+jobs+canada#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCDsVgo8YTtztCekZY9"
+      "text": "Kareem Abdul-Jabbar Is Almost 66, See Him NowAfternoon Edition|",
+      "url": "https://afternoonedition.com/trending/oldest-living-celebs?utm_source=taboola&utm_medium=gannettcompany-iowacitypress-citizen&utm_campaign=18441943&utm_term=Kareem+Abdul-Jabbar+Is+Almost+66%2C+See+Him+Now&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F19b3de42a580658f354d827ab5f7b026.png&ts=2022-05-24+16%3A06%3A19&tbv=sO649vzf3Elb3X-MIBXx08uz8hs8eqHTlFapFzjzRlA=&pcl=1&br=1&utm_source=taboola&utm_medium=gannettcompany-iowacitypress-citizen&utm_campaign=18441943&utm_term=Kareem+Abdul-Jabbar+Is+Almost+66%2C+See+Him+Now&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F19b3de42a580658f354d827ab5f7b026.png&ts=2022-05-24+16%3A06%3A19&tbv=sO649vzf3Elb3X-MIBXx08uz8hs8eqHTlFapFzjzRlA=&pcl=1&br=1"
     },
     {
       "text": "",
-      "url": "https://gain-an-intl-big-rig-jobs-in-ca.zone/?ref=gannettcompany-iowacitypress-citizen.1008035&sub_id=boaTruckDrivingJobsCanada-DTM-WW.17782171&sub_id2=gannettcompany-iowacitypress-citizen.1008035&tbid=1448067&tbland=view&tbserp=search&rskey=Work+as+A+Truck+Driver+in+Canada+%28Visa+Sponsorships+Might+Be+Available%29&compkey=truck+driving+jobs+canada#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCDsVgo8YTtztCekZY9"
+      "url": "https://afternoonedition.com/trending/oldest-living-celebs?utm_source=taboola&utm_medium=gannettcompany-iowacitypress-citizen&utm_campaign=18441943&utm_term=Kareem+Abdul-Jabbar+Is+Almost+66%2C+See+Him+Now&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F19b3de42a580658f354d827ab5f7b026.png&ts=2022-05-24+16%3A06%3A19&tbv=sO649vzf3Elb3X-MIBXx08uz8hs8eqHTlFapFzjzRlA=&pcl=1&br=1&utm_source=taboola&utm_medium=gannettcompany-iowacitypress-citizen&utm_campaign=18441943&utm_term=Kareem+Abdul-Jabbar+Is+Almost+66%2C+See+Him+Now&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F19b3de42a580658f354d827ab5f7b026.png&ts=2022-05-24+16%3A06%3A19&tbv=sO649vzf3Elb3X-MIBXx08uz8hs8eqHTlFapFzjzRlA=&pcl=1&br=1"
     },
     {
       "text": "Ad",
@@ -2325,16 +2347,16 @@
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
     },
     {
-      "text": "BestWomensMag.com",
-      "url": "https://bestwomensmag.com/20-pairs-of-heels-perfect-for-an-outdoor-wedding/?utm_source=taboola_3316432&utm_term=gannettcompany-iowacitypress-citizen_1008035&utm_content=2855411707&utm_medium=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC64kUot9Gf-OPToIEo&utm_campaign=PerfectHeels-All-A-TB-BWM#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC64kUot9Gf-OPToIEo"
+      "text": "Highspeed for you",
+      "url": "http://internetproviderindex.net/?sub2=18342748%7Cgannettcompany-iowacitypress-citizen%7C3421436277&site=gannettcompany-iowacitypress-citizen&network=Taboola&adtitle=Phoenix%3A+Best+cable+providers+near+you&kw1=Cheap+Reliable+Internet+Providers&kw2=The+Cheapest+Internet+Provider&kw3=Best+Cheap+Broadband+Deals&kw4=Compare+Internet+Deals+2021&kw5=Quickest+Internet+Provider+In+My+Area&kw6=Cheapest+Internet+Provider+Without+Landline#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCSyVQo5szo0Y2a542jAQ"
     },
     {
-      "text": "20 Pairs of Heels Perfect for an Outdoor WeddingBestWomensMag.com|",
-      "url": "https://bestwomensmag.com/20-pairs-of-heels-perfect-for-an-outdoor-wedding/?utm_source=taboola_3316432&utm_term=gannettcompany-iowacitypress-citizen_1008035&utm_content=2855411707&utm_medium=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC64kUot9Gf-OPToIEo&utm_campaign=PerfectHeels-All-A-TB-BWM#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC64kUot9Gf-OPToIEo"
+      "text": "Phoenix: Best cable providers near youHighspeed for you|",
+      "url": "http://internetproviderindex.net/?sub2=18342748%7Cgannettcompany-iowacitypress-citizen%7C3421436277&site=gannettcompany-iowacitypress-citizen&network=Taboola&adtitle=Phoenix%3A+Best+cable+providers+near+you&kw1=Cheap+Reliable+Internet+Providers&kw2=The+Cheapest+Internet+Provider&kw3=Best+Cheap+Broadband+Deals&kw4=Compare+Internet+Deals+2021&kw5=Quickest+Internet+Provider+In+My+Area&kw6=Cheapest+Internet+Provider+Without+Landline#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCSyVQo5szo0Y2a542jAQ"
     },
     {
       "text": "",
-      "url": "https://bestwomensmag.com/20-pairs-of-heels-perfect-for-an-outdoor-wedding/?utm_source=taboola_3316432&utm_term=gannettcompany-iowacitypress-citizen_1008035&utm_content=2855411707&utm_medium=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC64kUot9Gf-OPToIEo&utm_campaign=PerfectHeels-All-A-TB-BWM#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC64kUot9Gf-OPToIEo"
+      "url": "http://internetproviderindex.net/?sub2=18342748%7Cgannettcompany-iowacitypress-citizen%7C3421436277&site=gannettcompany-iowacitypress-citizen&network=Taboola&adtitle=Phoenix%3A+Best+cable+providers+near+you&kw1=Cheap+Reliable+Internet+Providers&kw2=The+Cheapest+Internet+Provider&kw3=Best+Cheap+Broadband+Deals&kw4=Compare+Internet+Deals+2021&kw5=Quickest+Internet+Provider+In+My+Area&kw6=Cheapest+Internet+Provider+Without+Landline#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCSyVQo5szo0Y2a542jAQ"
     },
     {
       "text": "Ad",
@@ -2345,40 +2367,16 @@
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
     },
     {
-      "text": "dotmall",
-      "url": "https://tick.topchicdeals.com/2caac61b-9bb7-4c4b-bf04-60dc8ac7d354?site=gannettcompany-iowacitypress-citizen&site_id=1008035&title=Women%27s+Elegant+Low+Chunky+Heel+Comfy+Sandals+-+Now+70%25+Off%21&platform=Desktop&campaign_id=18473873&campaign_item_id=3423702714&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F30f1db51f9862ab2af3b486c2ce69692.jpg&campaign_name=sh00602_20220516_Cyrus&utm_campaign=sh00602_20220516_Cyrus&utm_medium=1008035&click_id=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l&utm_source=taboola&utm_medium=1008035&utm_campaign=sh00602_20220516_Cyrus&utm_content=3423702714&utm_term=18473873&sitedomain=press-citizen.com&title=Women%27s+Elegant+Low+Chunky+Heel+Comfy+Sandals+-+Now+70%25+Off%21&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l"
+      "text": "sondo9.com",
+      "url": "https://sondo9.com/todays-best-cryptocurrencies/?utm_source=taboola&utm_medium=18484880&utm_campaign=1008035#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCJkUwom_6I9bXk_7kP"
     },
     {
-      "text": "Women's Elegant Low Chunky Heel Comfy Sandals - Now 70% Off!dotmall|",
-      "url": "https://tick.topchicdeals.com/2caac61b-9bb7-4c4b-bf04-60dc8ac7d354?site=gannettcompany-iowacitypress-citizen&site_id=1008035&title=Women%27s+Elegant+Low+Chunky+Heel+Comfy+Sandals+-+Now+70%25+Off%21&platform=Desktop&campaign_id=18473873&campaign_item_id=3423702714&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F30f1db51f9862ab2af3b486c2ce69692.jpg&campaign_name=sh00602_20220516_Cyrus&utm_campaign=sh00602_20220516_Cyrus&utm_medium=1008035&click_id=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l&utm_source=taboola&utm_medium=1008035&utm_campaign=sh00602_20220516_Cyrus&utm_content=3423702714&utm_term=18473873&sitedomain=press-citizen.com&title=Women%27s+Elegant+Low+Chunky+Heel+Comfy+Sandals+-+Now+70%25+Off%21&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l"
+      "text": "Today\u2019s best Cryptocurrenciessondo9.com|",
+      "url": "https://sondo9.com/todays-best-cryptocurrencies/?utm_source=taboola&utm_medium=18484880&utm_campaign=1008035#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCJkUwom_6I9bXk_7kP"
     },
     {
       "text": "",
-      "url": "https://tick.topchicdeals.com/2caac61b-9bb7-4c4b-bf04-60dc8ac7d354?site=gannettcompany-iowacitypress-citizen&site_id=1008035&title=Women%27s+Elegant+Low+Chunky+Heel+Comfy+Sandals+-+Now+70%25+Off%21&platform=Desktop&campaign_id=18473873&campaign_item_id=3423702714&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F30f1db51f9862ab2af3b486c2ce69692.jpg&campaign_name=sh00602_20220516_Cyrus&utm_campaign=sh00602_20220516_Cyrus&utm_medium=1008035&click_id=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l&utm_source=taboola&utm_medium=1008035&utm_campaign=sh00602_20220516_Cyrus&utm_content=3423702714&utm_term=18473873&sitedomain=press-citizen.com&title=Women%27s+Elegant+Low+Chunky+Heel+Comfy+Sandals+-+Now+70%25+Off%21&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Shop Now",
-      "url": "https://trc.taboola.com/gannettcompany-iowacitypress-citizen/log/3/click?pi=%2F&ri=a49a480da8b1d7b2332a61dc7aed2af5&sd=v2_6d628a52811f13f691f62701cb49b954_aa58f9dc-7d2e-447b-ada1-5d3a542bf7f3-tuct985361e_1653321886_1653321886_CIi3jgYQo8M9GIfVp42PMCABKAEw4QE4kaQOQJiuDkjAy9kDUPEFWABgAGi3-820jvr_vzRwAQ&ui=aa58f9dc-7d2e-447b-ada1-5d3a542bf7f3-tuct985361e&it=text&ii=~~V1~~-2799685180704376279~~LW5TavEdMxHEJzgHSD8FGY2v44eBRSEr4KiKLGEV-PwndpXq_nTToVci-tV_1bYyPVPbFHdycXfyr1VxmozLcV7JbGFbjtizQN29Zpin8p1JlawpbYFtoRw_FVSAoDPy8yoVX_ZV1DUzrU9mgEqIxVpt34vkyVLCqQj-j_6Ik-WFwt9_72reDSrMsTKuuUo5FLbM-un5piuK6baaeciz8oQcaYsR0k6lHcB4qP6JCsDmyGoKkHuQH7XNqdRcjCVzUi6vo4lUv0JpFZ3B9oE2L9m1MX4p2hb0eaCETDXXtEfjv0bNnp6pOqc_l4h84-EoAHwxDkPBKvC6MFrH1rJZRg&pt=home&li=rbox-h2v&sig=0ec37107096ca6536ec553b7d235a9449be2198a7df7&redir=https%3A%2F%2Ftick.topchicdeals.com%2F2caac61b-9bb7-4c4b-bf04-60dc8ac7d354%3Fsite%3Dgannettcompany-iowacitypress-citizen%26site_id%3D1008035%26title%3DWomen%2527s%2BElegant%2BLow%2BChunky%2BHeel%2BComfy%2BSandals%2B-%2BNow%2B70%2525%2BOff%2521%26platform%3DDesktop%26campaign_id%3D18473873%26campaign_item_id%3D3423702714%26thumbnail%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252F30f1db51f9862ab2af3b486c2ce69692.jpg%26campaign_name%3Dsh00602_20220516_Cyrus%26utm_campaign%3Dsh00602_20220516_Cyrus%26utm_medium%3D1008035%26click_id%3DGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l%26utm_source%3Dtaboola%26utm_medium%3D1008035%26utm_campaign%3Dsh00602_20220516_Cyrus%26utm_content%3D3423702714%26utm_term%3D18473873%26sitedomain%3Dpress-citizen.com%26title%3DWomen%2527s%2BElegant%2BLow%2BChunky%2BHeel%2BComfy%2BSandals%2B-%2BNow%2B70%2525%2BOff%2521%26tblci%3DGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l%23tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyC-5VgopYOPsbDU071l&vi=1653321886343&p=surmobiinternational2022-joyhnny-sc&r=59&lti=deflated&ppb=CGc&cpb=EhIyMDIyMDUyMy04LVJFTEVBU0UY6bfb0wYgnP__________ASoZbGEudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMjAxOTY4gJSYoQFAkaQOSJiuDlDAy9kDWPEFYwje__________8BEN7__________wEYImRjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnxwYGGRjCPQUEJ4dGB9kYwikJxCDNRgvZHgBgAH___________8BiAH___________8B&cta=true"
-    },
-    {
-      "text": "Relationship",
-      "url": "https://cakehd.com/5-changes-that-will-happen-to-you-when-you-meet-your-person/?utm_source=taboola&utm_medium=6+balanced+%2F+7+countries+%2F+one+picture+v2+%2F+CakeHD+%2F+ADV10+%2F+Account+4+%2F+5+Changes+That+Will+Happen+to+You+When+you+Meet+Your+Person&utm_campaign=1008035&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyDyolMox9eh8OO_vrJH#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyDyolMox9eh8OO_vrJH"
-    },
-    {
-      "text": "5 Changes That Will Happen to You When you Meet Your Person.Relationship|",
-      "url": "https://cakehd.com/5-changes-that-will-happen-to-you-when-you-meet-your-person/?utm_source=taboola&utm_medium=6+balanced+%2F+7+countries+%2F+one+picture+v2+%2F+CakeHD+%2F+ADV10+%2F+Account+4+%2F+5+Changes+That+Will+Happen+to+You+When+you+Meet+Your+Person&utm_campaign=1008035&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyDyolMox9eh8OO_vrJH#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyDyolMox9eh8OO_vrJH"
-    },
-    {
-      "text": "",
-      "url": "https://cakehd.com/5-changes-that-will-happen-to-you-when-you-meet-your-person/?utm_source=taboola&utm_medium=6+balanced+%2F+7+countries+%2F+one+picture+v2+%2F+CakeHD+%2F+ADV10+%2F+Account+4+%2F+5+Changes+That+Will+Happen+to+You+When+you+Meet+Your+Person&utm_campaign=1008035&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyDyolMox9eh8OO_vrJH#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyDyolMox9eh8OO_vrJH"
+      "url": "https://sondo9.com/todays-best-cryptocurrencies/?utm_source=taboola&utm_medium=18484880&utm_campaign=1008035#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCJkUwom_6I9bXk_7kP"
     },
     {
       "text": "Ad",
@@ -2390,15 +2388,15 @@
     },
     {
       "text": "anymuscle.com",
-      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV196&utm_campaign=1008035&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCAqVIoi8eM_YDVrbEJ#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCAqVIoi8eM_YDVrbEJ"
+      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV128&utm_campaign=1008035&tblci=GiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCut1EosqK38qrD0KYq#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCut1EosqK38qrD0KYq"
     },
     {
-      "text": "5 Reasons You Need To Hire A Car Accident Lawyer After Your Accidentanymuscle.com|",
-      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV196&utm_campaign=1008035&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCAqVIoi8eM_YDVrbEJ#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCAqVIoi8eM_YDVrbEJ"
+      "text": "4 Signs You Should Hire a Car Accident Lawyeranymuscle.com|",
+      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV128&utm_campaign=1008035&tblci=GiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCut1EosqK38qrD0KYq#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCut1EosqK38qrD0KYq"
     },
     {
       "text": "",
-      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV196&utm_campaign=1008035&tblci=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCAqVIoi8eM_YDVrbEJ#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCAqVIoi8eM_YDVrbEJ"
+      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV128&utm_campaign=1008035&tblci=GiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCut1EosqK38qrD0KYq#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCut1EosqK38qrD0KYq"
     },
     {
       "text": "Ad",
@@ -2409,40 +2407,56 @@
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
     },
     {
-      "text": "Basement Repair | Search Ads",
-      "url": "http://fetch-structure.fyi/?ref=taboola-gannettcompany-iowacitypress-citizen&sub_id=host-belgium-str-may-dk&compkey=Crawl%20Space%20Repair%20%7B%7Bcity%7D%7D&tbid=1170574&tbland=Land&tbserp=Search&tbclick=Gadclick&sub_id2=18571825%7Cgannettcompany-iowacitypress-citizen%7C3425214600&rskey=Crawl+Space+Repair+Cost+In+Phoenix+May+Surprise+You#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCVuUcok5j62onNkqUB"
+      "text": "Home Foundation Repair | Search Ads",
+      "url": "http://fetch-structure.fyi/?ref=taboola-gannettcompany-iowacitypress-citizen&sub_id=inc-sc7-str-may-dk&compkey=Residential%20Foundation%20Repair%20%7B%7Bcity%7D%7D&tbid=1371543&tbland=Land&tbserp=Search&tbclick=Gadclick&sub_id2=18467005%7Cgannettcompany-iowacitypress-citizen%7C3423633455&rskey=Residential+Foundation+Repair+Cost+In+Phoenix+May+Surprise+You&tblci=GiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCX21MogYr9h-zCibx-#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCX21MogYr9h-zCibx-"
     },
     {
-      "text": "Crawl Space Repair Cost In Phoenix May Surprise YouBasement Repair | Search Ads|",
-      "url": "http://fetch-structure.fyi/?ref=taboola-gannettcompany-iowacitypress-citizen&sub_id=host-belgium-str-may-dk&compkey=Crawl%20Space%20Repair%20%7B%7Bcity%7D%7D&tbid=1170574&tbland=Land&tbserp=Search&tbclick=Gadclick&sub_id2=18571825%7Cgannettcompany-iowacitypress-citizen%7C3425214600&rskey=Crawl+Space+Repair+Cost+In+Phoenix+May+Surprise+You#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCVuUcok5j62onNkqUB"
-    },
-    {
-      "text": "",
-      "url": "http://fetch-structure.fyi/?ref=taboola-gannettcompany-iowacitypress-citizen&sub_id=host-belgium-str-may-dk&compkey=Crawl%20Space%20Repair%20%7B%7Bcity%7D%7D&tbid=1170574&tbland=Land&tbserp=Search&tbclick=Gadclick&sub_id2=18571825%7Cgannettcompany-iowacitypress-citizen%7C3425214600&rskey=Crawl+Space+Repair+Cost+In+Phoenix+May+Surprise+You#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCVuUcok5j62onNkqUB"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Get Offer",
-      "url": "https://trc.taboola.com/gannettcompany-iowacitypress-citizen/log/3/click?pi=%2F&ri=546e2c40e9c9058989e2e5cb0d59a9b0&sd=v2_6d628a52811f13f691f62701cb49b954_aa58f9dc-7d2e-447b-ada1-5d3a542bf7f3-tuct985361e_1653321886_1653321886_CIi3jgYQo8M9GIfVp42PMCABKAEw4QE4kaQOQJiuDkjAy9kDUPEFWABgAGi3-820jvr_vzRwAQ&ui=aa58f9dc-7d2e-447b-ada1-5d3a542bf7f3-tuct985361e&it=text&ii=~~V1~~-5100213350385402755~~8PjaLxVWtgaDk4WQnrfeHwOYY09kjL0XydnS-mYfY_LTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RIaeguCUIUpUqDP0NTbDeiCI0vCWl47S19TFiPKBzcZrVcIS0ZUbfulvJFYVjEYH05byH4B8IbKq1Qk70RvLxDGjxfAtsj75Zm6PzSBS4yNydTlNi-UfJc-XYFhLvfvEPU&pt=home&li=rbox-h2v&sig=e50f11e56ea23bbc14a9002a8867b90aa6ba7bb044c7&redir=http%3A%2F%2Ffetch-structure.fyi%2F%3Fref%3Dtaboola-gannettcompany-iowacitypress-citizen%26sub_id%3Dhost-belgium-str-may-dk%26compkey%3DCrawl%2520Space%2520Repair%2520%257B%257Bcity%257D%257D%26tbid%3D1170574%26tbland%3DLand%26tbserp%3DSearch%26tbclick%3DGadclick%26sub_id2%3D18571825%257Cgannettcompany-iowacitypress-citizen%257C3425214600%26rskey%3DCrawl%2BSpace%2BRepair%2BCost%2BIn%2BPhoenix%2BMay%2BSurprise%2BYou%23tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCVuUcok5j62onNkqUB&vi=1653321886343&p=turnihitech-cro-sc&r=96&lti=deflated&ppb=CK0B&cpb=EhIyMDIyMDUyMy04LVJFTEVBU0UY6bfb0wYgnP__________ASoZbGEudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMjAxOTY4gJSYoQFAkaQOSJiuDlDAy9kDWPEFYwje__________8BEN7__________wEYImRjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnxwYGGRjCPQUEJ4dGB9kYwikJxCDNRgvZHgBgAH___________8BiAH___________8B&cta=true"
-    },
-    {
-      "text": "Hepatitis C | Search Ads",
-      "url": "https://tracking.mb-trk.com/?flux_fts=tltptooalpqaaliqztcetzzoxpziixotzqollpcb38ad&tbl_cid=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCShlAo_euZtNSWxp4b&site=gannettcompany-iowacitypress-citizen&site_id=1008035&adtitle=What+Is+Hepatitis+C%3F+See+Symptoms+and+Treatments&platform=Desktop&campaign_id=18468129&adid=3423655624&creative=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe55fda82be1f4a366834e538ade0483e.jpg&campnm=Taboola_HepatitisTreatment_All_US_18468129L1_All_RONIR_TN&sitenm=press-citizen.com#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCShlAo_euZtNSWxp4b"
-    },
-    {
-      "text": "What Is Hepatitis C? See Symptoms and TreatmentsHepatitis C | Search Ads|",
-      "url": "https://tracking.mb-trk.com/?flux_fts=tltptooalpqaaliqztcetzzoxpziixotzqollpcb38ad&tbl_cid=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCShlAo_euZtNSWxp4b&site=gannettcompany-iowacitypress-citizen&site_id=1008035&adtitle=What+Is+Hepatitis+C%3F+See+Symptoms+and+Treatments&platform=Desktop&campaign_id=18468129&adid=3423655624&creative=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe55fda82be1f4a366834e538ade0483e.jpg&campnm=Taboola_HepatitisTreatment_All_US_18468129L1_All_RONIR_TN&sitenm=press-citizen.com#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCShlAo_euZtNSWxp4b"
+      "text": "Residential Foundation Repair Cost In Phoenix May Surprise YouHome Foundation Repair | Search Ads|",
+      "url": "http://fetch-structure.fyi/?ref=taboola-gannettcompany-iowacitypress-citizen&sub_id=inc-sc7-str-may-dk&compkey=Residential%20Foundation%20Repair%20%7B%7Bcity%7D%7D&tbid=1371543&tbland=Land&tbserp=Search&tbclick=Gadclick&sub_id2=18467005%7Cgannettcompany-iowacitypress-citizen%7C3423633455&rskey=Residential+Foundation+Repair+Cost+In+Phoenix+May+Surprise+You&tblci=GiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCX21MogYr9h-zCibx-#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCX21MogYr9h-zCibx-"
     },
     {
       "text": "",
-      "url": "https://tracking.mb-trk.com/?flux_fts=tltptooalpqaaliqztcetzzoxpziixotzqollpcb38ad&tbl_cid=GiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCShlAo_euZtNSWxp4b&site=gannettcompany-iowacitypress-citizen&site_id=1008035&adtitle=What+Is+Hepatitis+C%3F+See+Symptoms+and+Treatments&platform=Desktop&campaign_id=18468129&adid=3423655624&creative=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe55fda82be1f4a366834e538ade0483e.jpg&campnm=Taboola_HepatitisTreatment_All_US_18468129L1_All_RONIR_TN&sitenm=press-citizen.com#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCShlAo_euZtNSWxp4b"
+      "url": "http://fetch-structure.fyi/?ref=taboola-gannettcompany-iowacitypress-citizen&sub_id=inc-sc7-str-may-dk&compkey=Residential%20Foundation%20Repair%20%7B%7Bcity%7D%7D&tbid=1371543&tbland=Land&tbserp=Search&tbclick=Gadclick&sub_id2=18467005%7Cgannettcompany-iowacitypress-citizen%7C3423633455&rskey=Residential+Foundation+Repair+Cost+In+Phoenix+May+Surprise+You&tblci=GiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCX21MogYr9h-zCibx-#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCX21MogYr9h-zCibx-"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Structural Foundation | Search Ads",
+      "url": "http://fetch-structure.fyi/?ref=taboola-gannettcompany-iowacitypress-citizen&sub_id=v42-sc10-str-may-dk&compkey=Fix%20Leaking%20Basement%20Wall%20%7B%7Bcity%7D%7D&tbid=1165586&tbland=Land&tbserp=Search&tbclick=Gadclick&sub_id2=18468165%7Cgannettcompany-iowacitypress-citizen%7C3423656675&rskey=2022+Prices+For+Fixing+Leaking+Basement+Wall+could+be+cheaper+than+you+think#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCSkkcokIfV9p-Fv9FG"
+    },
+    {
+      "text": "2022 Prices For Fixing Leaking Basement Wall could be cheaper than you thinkStructural Foundation | Search Ads|",
+      "url": "http://fetch-structure.fyi/?ref=taboola-gannettcompany-iowacitypress-citizen&sub_id=v42-sc10-str-may-dk&compkey=Fix%20Leaking%20Basement%20Wall%20%7B%7Bcity%7D%7D&tbid=1165586&tbland=Land&tbserp=Search&tbclick=Gadclick&sub_id2=18468165%7Cgannettcompany-iowacitypress-citizen%7C3423656675&rskey=2022+Prices+For+Fixing+Leaking+Basement+Wall+could+be+cheaper+than+you+think#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCSkkcokIfV9p-Fv9FG"
+    },
+    {
+      "text": "",
+      "url": "http://fetch-structure.fyi/?ref=taboola-gannettcompany-iowacitypress-citizen&sub_id=v42-sc10-str-may-dk&compkey=Fix%20Leaking%20Basement%20Wall%20%7B%7Bcity%7D%7D&tbid=1165586&tbland=Land&tbserp=Search&tbclick=Gadclick&sub_id2=18468165%7Cgannettcompany-iowacitypress-citizen%7C3423656675&rskey=2022+Prices+For+Fixing+Leaking+Basement+Wall+could+be+cheaper+than+you+think#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCSkkcokIfV9p-Fv9FG"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Varicose Vein Treatment | Search Ads",
+      "url": "https://a3456a.dzbnxjgqptt.com?subid3=70936_Taboola_Tonic_VaricoseVeinTreatment_1424_US&subid1=gannettcompany-iowacitypress-citizen&subid2=taboola&network=taboola&site=gannettcompany-iowacitypress-citizen&event=GiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCYvUUogKeB_Jneo5hj&name=Click&adtitle=Varicose+Vein+Treatment+in+Phoenix#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCYvUUogKeB_Jneo5hj"
+    },
+    {
+      "text": "Varicose Vein Treatment in PhoenixVaricose Vein Treatment | Search Ads|",
+      "url": "https://a3456a.dzbnxjgqptt.com?subid3=70936_Taboola_Tonic_VaricoseVeinTreatment_1424_US&subid1=gannettcompany-iowacitypress-citizen&subid2=taboola&network=taboola&site=gannettcompany-iowacitypress-citizen&event=GiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCYvUUogKeB_Jneo5hj&name=Click&adtitle=Varicose+Vein+Treatment+in+Phoenix#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCYvUUogKeB_Jneo5hj"
+    },
+    {
+      "text": "",
+      "url": "https://a3456a.dzbnxjgqptt.com?subid3=70936_Taboola_Tonic_VaricoseVeinTreatment_1424_US&subid1=gannettcompany-iowacitypress-citizen&subid2=taboola&network=taboola&site=gannettcompany-iowacitypress-citizen&event=GiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCYvUUogKeB_Jneo5hj&name=Click&adtitle=Varicose+Vein+Treatment+in+Phoenix#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCYvUUogKeB_Jneo5hj"
     },
     {
       "text": "Ad",
@@ -2453,28 +2467,44 @@
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
     },
     {
-      "text": "Learn More",
-      "url": "https://trc.taboola.com/gannettcompany-iowacitypress-citizen/log/3/click?pi=%2F&ri=546e2c40e9c9058989e2e5cb0d59a9b0&sd=v2_6d628a52811f13f691f62701cb49b954_aa58f9dc-7d2e-447b-ada1-5d3a542bf7f3-tuct985361e_1653321886_1653321886_CIi3jgYQo8M9GIfVp42PMCABKAEw4QE4kaQOQJiuDkjAy9kDUPEFWABgAGi3-820jvr_vzRwAQ&ui=aa58f9dc-7d2e-447b-ada1-5d3a542bf7f3-tuct985361e&it=text&ii=~~V1~~-194636484467068695~~cX9ZcmtpPn4idsixasqgbr2mIiXdDtAqHrx5cq8mSBwndpXq_nTToVci-tV_1bYyPVPbFHdycXfyr1VxmozLcV7JbGFbjtizQN29Zpin8p1JlawpbYFtoRw_FVSAoDPy8yoVX_ZV1DUzrU9mgEqIxVpt34vkyVLCqQj-j_6Ik-WFwt9_72reDSrMsTKuuUo5v3KZnUas0Sb2xPlF_5OFwd1H4PVpHOL7HiNBPBogZobYSO1bUx8yDFFgktHvLq8KKgWCLQGjtoD3PNvSuSc4Cdxu8W177WB9TSFz8gP5vG7jv0bNnp6pOqc_l4h84-EoAHwxDkPBKvC6MFrH1rJZRg&pt=home&li=rbox-h2v&sig=3b35cdb687d0ca830854e0e1cf5b90536cf3634d586f&redir=https%3A%2F%2Ftracking.mb-trk.com%2F%3Fflux_fts%3Dtltptooalpqaaliqztcetzzoxpziixotzqollpcb38ad%26tbl_cid%3DGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCShlAo_euZtNSWxp4b%26site%3Dgannettcompany-iowacitypress-citizen%26site_id%3D1008035%26adtitle%3DWhat%2BIs%2BHepatitis%2BC%253F%2BSee%2BSymptoms%2Band%2BTreatments%26platform%3DDesktop%26campaign_id%3D18468129%26adid%3D3423655624%26creative%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252Fe55fda82be1f4a366834e538ade0483e.jpg%26campnm%3DTaboola_HepatitisTreatment_All_US_18468129L1_All_RONIR_TN%26sitenm%3Dpress-citizen.com%23tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCShlAo_euZtNSWxp4b&vi=1653321886343&p=perionclientconnect-schizophrenia-tonic-sc&r=98&lti=deflated&ppb=CK0B&cpb=EhIyMDIyMDUyMy04LVJFTEVBU0UY6bfb0wYgnP__________ASoZbGEudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMjAxOTY4gJSYoQFAkaQOSJiuDlDAy9kDWPEFYwje__________8BEN7__________wEYImRjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnxwYGGRjCPQUEJ4dGB9kYwikJxCDNRgvZHgBgAH___________8BiAH___________8B&cta=true"
+      "text": "Save With Coupons",
+      "url": "http://savewith.coupons/circulars-t/?utm_source=taboola&utm_medium=referral#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCc0E0on_2-5ZOYoNeqAQ"
     },
     {
-      "text": "Iowa lawmakers are back in Des Moines. Here's what you need to know",
-      "url": "/story/news/politics/2022/05/23/iowa-lawmakers-returns-work-kim-reynolds-education-bill-budget-limbo/9857149002/"
+      "text": "Save With Weekly Circulars from Top RetailersSave With Coupons|",
+      "url": "http://savewith.coupons/circulars-t/?utm_source=taboola&utm_medium=referral#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCc0E0on_2-5ZOYoNeqAQ"
     },
     {
-      "text": "President Bush to headline Hoover Foundation Banquet in Cedar Rapids",
-      "url": "/story/news/2022/05/23/president-george-bush-hoover-foundation-banquet-cedar-rapids-humanitarian-award/9864894002/"
+      "text": "",
+      "url": "http://savewith.coupons/circulars-t/?utm_source=taboola&utm_medium=referral#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCc0E0on_2-5ZOYoNeqAQ"
     },
     {
-      "text": "'Top Gun' movie could help increase the popularity of this name",
-      "url": "/story/news/2022/05/22/iowa-baby-boy-name-2022-popular-top-gun-maverick/9860007002/"
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
     },
     {
-      "text": "USA Wrestling World Team Trials Challenge Tournament Day 2 at Xtream Arena in Coralville\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "/picture-gallery/sports/2022/05/22/world-team-trails-challenge-tournament-day-2-photos-xtream-arena-coralville-iowa/9847819002/"
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-iowacitypress-citizen&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
     },
     {
-      "text": "Two Lone Tree council members resign to move out of of city limits",
-      "url": "/story/news/2022/05/23/dave-wageman-and-brad-pearson-resign-lone-tree-city-council/9829666002/"
+      "text": "Meet the Des Moines Register's preseason 2022 All-Iowa softball teams",
+      "url": "/story/sports/high-school/2022/05/24/preseason-2022-all-iowa-softball-teams-des-moines-register/9860650002/"
+    },
+    {
+      "text": "Iowa's bottle bill will be overhauled after decades of efforts",
+      "url": "/story/news/politics/2022/05/23/iowa-bottle-can-redemption-bill-goes-gov-kim-reynolds-after-senate-vote-lawmakers/9469337002/"
+    },
+    {
+      "text": "Seven Iowa City area spots not to miss if you're new or leaving",
+      "url": "/story/entertainment/2022/05/19/seven-iowa-city-area-gems-not-miss-lake-macbride-heyns-devonian-fossil-gorge/9651200002/"
+    },
+    {
+      "text": "Iowa Legislature votes to stop licensing new casinos for 2 years",
+      "url": "/story/news/politics/2022/05/23/iowa-casino-bill-limit-new-casinos-legislature-sent-kim-reynolds/9895557002/"
+    },
+    {
+      "text": "Five years in, Iowa's only rabbit rescue relies entirely on volunteers",
+      "url": "/story/news/2022/05/21/iowa-city-animal-shelter-home-every-bunny-rabbit-adoption/9827494002/"
     },
     {
       "text": "",
@@ -2482,15 +2512,15 @@
     },
     {
       "text": "5minstory.com",
-      "url": "https://5minstory.com/dogbehaviour/?utm_source=taboola&utm_term=gannettcompany-iowacitypress-citizen_1008035&utm_content=3033894048&utm_medium=referral&utm_campaign=DogBehaviourFB-ALL-DTM-5MS-TB-5MS#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCRtlQozaeZpbmYyMedAQ"
+      "url": "https://5minstory.com/dogbehaviour/?utm_source=taboola&utm_term=gannettcompany-iowacitypress-citizen_1008035&utm_content=3033894048&utm_medium=referral&utm_campaign=DogBehaviourFB-ALL-DTM-5MS-TB-5MS#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCRtlQozr-It__shNKcAQ"
     },
     {
       "text": "Important Facts About Dog Behaviour5minstory.com|",
-      "url": "https://5minstory.com/dogbehaviour/?utm_source=taboola&utm_term=gannettcompany-iowacitypress-citizen_1008035&utm_content=3033894048&utm_medium=referral&utm_campaign=DogBehaviourFB-ALL-DTM-5MS-TB-5MS#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCRtlQozaeZpbmYyMedAQ"
+      "url": "https://5minstory.com/dogbehaviour/?utm_source=taboola&utm_term=gannettcompany-iowacitypress-citizen_1008035&utm_content=3033894048&utm_medium=referral&utm_campaign=DogBehaviourFB-ALL-DTM-5MS-TB-5MS#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCRtlQozr-It__shNKcAQ"
     },
     {
       "text": "",
-      "url": "https://5minstory.com/dogbehaviour/?utm_source=taboola&utm_term=gannettcompany-iowacitypress-citizen_1008035&utm_content=3033894048&utm_medium=referral&utm_campaign=DogBehaviourFB-ALL-DTM-5MS-TB-5MS#tblciGiD38A4rQwIxc94KaVZCH9L6NsOCSjt-_Iq-Gtl_wrKuNyCRtlQozaeZpbmYyMedAQ"
+      "url": "https://5minstory.com/dogbehaviour/?utm_source=taboola&utm_term=gannettcompany-iowacitypress-citizen_1008035&utm_content=3033894048&utm_medium=referral&utm_campaign=DogBehaviourFB-ALL-DTM-5MS-TB-5MS#tblciGiCWEHSzPnsUbhC4IMBMva_nWJyifwhCJ2kdJEAmXvg2diCRtlQozr-It__shNKcAQ"
     },
     {
       "text": "Ad",
@@ -2653,10 +2683,10 @@
       "url": "https://www.usatodaysportsplus.com/"
     }
   ],
-  "server": "ia902507.us.archive.org",
-  "uniq": 613670653,
+  "server": "ia802507.us.archive.org",
+  "uniq": 548613902,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

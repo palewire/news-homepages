@@ -1,5 +1,5 @@
 {
-  "created": 1653316372,
+  "created": 1653438099,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/17/items/kyivindependent-2022",
@@ -4580,31 +4580,73 @@
       "sha1": "f8239cb5f0aaaa28d78c010b1b61d949f5ec72e6"
     },
     {
+      "name": "kyivindependent-2022-05-24T05:16:44.010906+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653358613",
+      "size": "845",
+      "md5": "4d6e47d6dd032aa070c5d625daf38478",
+      "crc32": "74dd54d9",
+      "sha1": "db59d906e8be320c303405225315b88d3cf88c53",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-05-24T05:16:44.010906+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653358616",
+      "size": "96",
+      "md5": "35d5985be9cf7135716a60d56cd673ee",
+      "crc32": "a043dd2d",
+      "sha1": "ad9d27c8f93fdc8c5f61849abc8811533ac45d4f",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-05-24T05:16:44.010906+03:00.jpg",
+      "source": "original",
+      "mtime": "1653358608",
+      "size": "45626",
+      "md5": "597545c794d43489aac43e648736c637",
+      "crc32": "c21f7811",
+      "sha1": "1c1c556cc1e18ff1e05cf5491b973b00bb13d5d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivindependent-2022-05-24T05:16:44.010906+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivindependent-2022-05-24T05:16:44.010906+03:00.jpg",
+      "mtime": "1653358764",
+      "size": "5287",
+      "md5": "ccde95ae619c4349a9f86a65d09665b7",
+      "crc32": "6efbf749",
+      "sha1": "a85494fa5952c91b3b5479ae92640558a4263def"
+    },
+    {
       "name": "kyivindependent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "928c325adf68fad10691958ff9aa97a6a1340997",
-      "mtime": "1653315331",
-      "size": "94450",
-      "md5": "79ec85711eec19937a0ff7615c302d35",
-      "crc32": "1c3136ed",
-      "sha1": "832d6755799b97dfe466c2d839087502456491ce",
+      "btih": "fd108a2d7abc9023259108d763f2bd7cf7c52039",
+      "mtime": "1653358808",
+      "size": "95301",
+      "md5": "d9afef22a33e326dfa772eada249adb4",
+      "crc32": "91214219",
+      "sha1": "7e41b024c0931223386dbef34b4bc3a0f63618e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivindependent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bee8774f5e2bcf986cbb8c45e1079b9c",
+      "md5": "9b9554c483d336df74057f2c3b8b6685",
       "summation": "md5"
     },
     {
       "name": "kyivindependent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653314444",
-      "size": "507904",
-      "md5": "9377d5c3f9bd89bc7644b47f058b7af2",
-      "crc32": "28974870",
-      "sha1": "965f2e2f1f1a69837efff3ba5531d27744b33abe",
+      "mtime": "1653358636",
+      "size": "512000",
+      "md5": "39c1fd751fd8f93b4c16f83eee0aea45",
+      "crc32": "dded6dc2",
+      "sha1": "ec54fc8250f97550da1023cf215232a873b0b72a",
       "format": "Metadata"
     },
     {
@@ -4618,9 +4660,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 438,
-  "item_last_updated": 1653315331,
-  "item_size": 17687357,
+  "files_count": 442,
+  "item_last_updated": 1653358808,
+  "item_size": 17744158,
+  "kyivindependent-2022": [
+    {
+      "text": "Cloudflare",
+      "url": "https://www.cloudflare.com/5xx-error-landing/"
+    }
+  ],
   "metadata": {
     "identifier": "kyivindependent-2022",
     "collection": [
@@ -4637,10 +4685,10 @@
     "publicdate": "2022-03-23 02:08:42",
     "addeddate": "2022-03-23 02:08:42"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 678471350,
+  "server": "ia902506.us.archive.org",
+  "uniq": 839534564,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }
