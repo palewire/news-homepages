@@ -75,6 +75,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[National Review](https://www.nationalreview.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nro.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nro.xml)|
 |[New York Times](https://www.nytimes.com)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
 |[One America News Network](https://www.oann.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oann.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oann.xml)|
+|[Onion](https://theonion.com)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theonion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml)|
 |[Orange County Register](https://www.ocregister.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ocregister.xml)|
 |[Quad City Times](https://qctimes.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/qctimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/qctimes.xml)|
 |[RIA Novosti](https://ria.ru/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rianru.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rianru.xml)|
@@ -92,7 +93,6 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[The Guardian](https://theguardian.com/uk)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/guardian.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/guardian.xml)|
 |[The Independent](https://www.independent.co.uk/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/independent.xml)|
 |[The Oaklandside](https://oaklandside.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oaklandside.xml)|
-|[The Onion](https://theonion.com)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theonion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml)|
 |[The Sun](https://www.thesun.co.uk/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thesun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thesun.xml)|
 |[The Telegraph](https://www.telegraph.co.uk/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegraph.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/telegraph.xml)|
 |[The Times](https://www.thetimes.co.uk/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetimes.xml)|
