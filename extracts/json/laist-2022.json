@@ -1,5 +1,5 @@
 {
-  "created": 1653438104,
+  "created": 1653524412,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/0/items/laist-2022",
@@ -4124,31 +4124,115 @@
       "sha1": "9c08c1258b5b23666446e9a5cbbabdb6c499ed43"
     },
     {
+      "name": "laist-2022-05-24T19:19:19.431158-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653445175",
+      "size": "33083",
+      "md5": "a16e8394e044633e9dc394add7f89505",
+      "crc32": "dfb40504",
+      "sha1": "c16d1d6510401b732e457e0f3b7c35ef0ac580cc",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-24T19:19:19.431158-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653445189",
+      "size": "34999",
+      "md5": "82282ed236ec0effd43af954858ee5cb",
+      "crc32": "5af5ef84",
+      "sha1": "c454dd5c05332a470d9746a820cb447904a37db7",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-24T19:19:19.431158-07:00.jpg",
+      "source": "original",
+      "mtime": "1653445168",
+      "size": "298401",
+      "md5": "33b9859f8a376d0174c74a6b80222f23",
+      "crc32": "cfbb002b",
+      "sha1": "b5d4f543dfdff28998993dc5cd14798d37e4a57d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-05-24T19:19:19.431158-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-05-24T19:19:19.431158-07:00.jpg",
+      "mtime": "1653445333",
+      "size": "10250",
+      "md5": "3aef55a4c4eeaa0d404abedc78726276",
+      "crc32": "39486dc9",
+      "sha1": "46dd49ad18bd3b0671eb55742afecb31542e4bc7"
+    },
+    {
+      "name": "laist-2022-05-25T06:54:11.845976-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653486874",
+      "size": "32761",
+      "md5": "e1810f3b9ea3480354abf8cac5ce407e",
+      "crc32": "564b23a3",
+      "sha1": "6d04a30f95b6619e50a7c38d3995e53ad61da722",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-25T06:54:11.845976-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653486887",
+      "size": "34829",
+      "md5": "94c33097bdbb237ea2f34473e307dd4d",
+      "crc32": "77917924",
+      "sha1": "d31a028332f980a4cee65cb8498b2f2d4f901f9b",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-05-25T06:54:11.845976-07:00.jpg",
+      "source": "original",
+      "mtime": "1653486867",
+      "size": "300214",
+      "md5": "b254c98418caf6fd8b414a9667c38f00",
+      "crc32": "f4b87365",
+      "sha1": "41e75a199221b5b0e2ce034d8d22ba6c4d7a94f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-05-25T06:54:11.845976-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-05-25T06:54:11.845976-07:00.jpg",
+      "mtime": "1653492427",
+      "size": "10191",
+      "md5": "e9e5104e3fc5266c9c6eeeebf33d090d",
+      "crc32": "d829a418",
+      "sha1": "a59af080cbbf309d334c9cd496c2ee1ae511a454"
+    },
+    {
       "name": "laist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83aeeba237b5eca1b6ac6f7d7ec7772b7e34c0e0",
-      "mtime": "1653402196",
-      "size": "82701",
-      "md5": "fe18cb3343e1a2c81440d37da028f934",
-      "crc32": "cf5ef18b",
-      "sha1": "138f43ed4783d6ba6d84ebdf0e2a935af596db49",
+      "btih": "80fd9e6a1d33a60a94ed95536bc72a68708f659f",
+      "mtime": "1653492614",
+      "size": "84357",
+      "md5": "e0bed34121496a80f8610f6c0a6a0e4f",
+      "crc32": "552526af",
+      "sha1": "5fa2b7b3f525f83a3b1b3eeee9aecbc7a9cb4448",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3334cbd88e077197afb23f6e47699de3",
+      "md5": "7b9fd59df9f2a14c572e48d33c2656d3",
       "summation": "md5"
     },
     {
       "name": "laist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653401968",
-      "size": "458752",
-      "md5": "873af96a83198c399f9c449276f71cb7",
-      "crc32": "cebe77a7",
-      "sha1": "6ce09daabc421cd9d7f122855d8cf9eed5eae70d",
+      "mtime": "1653491796",
+      "size": "466944",
+      "md5": "63460a02530c13a5284d55a71d108b33",
+      "crc32": "fa856e04",
+      "sha1": "3fee3e7f0d85d8a945df7027ab2f6539549721ab",
       "format": "Metadata"
     },
     {
@@ -4162,9 +4246,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 395,
-  "item_last_updated": 1653402196,
-  "item_size": 38992785,
+  "files_count": 403,
+  "item_last_updated": 1653492614,
+  "item_size": 39757361,
   "laist-2022": [
     {
       "text": "Become a sponsor",
@@ -4348,79 +4432,79 @@
     },
     {
       "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/politics/anaheim-mayor-resigns-amid-federal-corruption-probe"
+      "url": "https://laist.com/news/politics/anaheim-city-council-meeting-sidhu"
     },
     {
       "text": "Politics",
       "url": "https://laist.com/news/politics"
     },
     {
-      "text": "Anaheim Mayor Resigns Amid Federal Corruption Probe",
-      "url": "https://laist.com/news/politics/anaheim-mayor-resigns-amid-federal-corruption-probe"
+      "text": "Anaheim City Council Votes To Void Angel Stadium Deal",
+      "url": "https://laist.com/news/politics/anaheim-city-council-meeting-sidhu"
     },
     {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
+      "text": "Criminal Justice",
+      "url": "https://laist.com/news/criminal-justice"
     },
     {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
+      "text": "Criminal Justice",
+      "url": "https://laist.com/news/criminal-justice"
     },
     {
-      "text": "LA County Begins COVID Booster Shots For Children Ages 5 To 11",
-      "url": "https://laist.com/news/health/la-county-begins-covid-booster-shots-for-children-5-11"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/health/la-county-begins-covid-booster-shots-for-children-5-11"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "Artist Unveils Tapestry Designed To Represent LA's Diverse Cultures",
-      "url": "https://laist.com/news/arts-and-entertainment/artist-unveils-tapestry-designed-to-represent-las-diverse-cultures"
+      "text": "Tales Of A Coverup, A Shooting Celebration, And A Work Slowdown At Hearing On Deputy Gangs",
+      "url": "https://laist.com/news/criminal-justice/tales-of-a-coverup-a-shooting-celebration-and-a-work-slowdown-at-hearing-on-deputy-gangs"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/artist-unveils-tapestry-designed-to-represent-las-diverse-cultures"
+      "url": "https://laist.com/news/criminal-justice/tales-of-a-coverup-a-shooting-celebration-and-a-work-slowdown-at-hearing-on-deputy-gangs"
     },
     {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
+      "text": "Climate and Environment",
+      "url": "https://laist.com/news/climate-environment"
     },
     {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
+      "text": "Climate and Environment",
+      "url": "https://laist.com/news/climate-environment"
     },
     {
-      "text": "California Debates Opening Supervised Sites For People To Use Drugs",
-      "url": "https://laist.com/news/health/california-debates-opening-supervised-sites-for-people-to-use-drugs"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/health/california-debates-opening-supervised-sites-for-people-to-use-drugs"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "Best Things To Do This Week In Los Angeles And SoCal: May 23 - 26",
-      "url": "https://laist.com/news/arts-and-entertainment/best-events-things-to-do-this-week-los-angeles-southern-california-may-23-26-2022"
+      "text": "First Statewide Ban On Water Use \u2014 In Current Drought \u2014 Targets Decorative Lawns At Businesses",
+      "url": "https://laist.com/news/climate-environment/first-statewide-ban-on-water-use-in-current-drought-target-decorative-lawns"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/best-events-things-to-do-this-week-los-angeles-southern-california-may-23-26-2022"
+      "url": "https://laist.com/news/climate-environment/first-statewide-ban-on-water-use-in-current-drought-target-decorative-lawns"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "What To Say to Kids When The News Is Scary",
+      "url": "https://laist.com/news/what-to-say-to-kids-when-the-news-is-scary"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/what-to-say-to-kids-when-the-news-is-scary"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "27 School Shootings Have Taken Place So Far This Year",
+      "url": "https://laist.com/news/27-school-shootings-have-taken-place-so-far-this-year"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/27-school-shootings-have-taken-place-so-far-this-year"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
@@ -4471,28 +4555,28 @@
       "url": "/the-brief"
     },
     {
-      "text": "Morning Brief: The June 7 Primary, A Legal Place For Drug Use, And Virtual Workouts",
-      "url": "https://laist.com/news/morning-brief-the-june-7-primary-a-legal-place-for-drug-use-and-virtual-workouts"
+      "text": "Morning Brief: Tragedy In Texas, Monkeypox, And Pop-Up Magazine",
+      "url": "https://laist.com/news/morning-brief-tragedy-in-texas-monkeypox-and-pop-up-magazine"
     },
     {
-      "text": "Local Hero Of The Week: This Engineer is Propelling Kids Into New Heights Through Rocket Science",
-      "url": "https://laist.com/news/local-hero-of-the-week-this-engineer-is-propelling-kids-into-new-heights-through-rocket-science"
+      "text": "From Crony Capitalism To Gangster Graft: The Corrupt History Of Early LA Politics",
+      "url": "https://laist.com/news/la-history/from-crony-capitalism-to-gangster-graft-the-corrupt-history-of-early-la-politics"
     },
     {
-      "text": "New City Program Asks LA Residents To Help Decide How To Spend $9 Million",
-      "url": "https://laist.com/news/new-city-program-asks-residents-to-help-decide-how-to-spend-9-million"
+      "text": "University of California To Pay Another $374 Million To Women Who Accused UCLA Gynecologist Of Sex Abuse",
+      "url": "https://laist.com/news/criminal-justice/ucla-gynecologist-heaps-sex-abuse-victims-million-settlement"
     },
     {
-      "text": "Cal State System Needs To Increase Staff Pay, Study Says",
-      "url": "https://laist.com/news/education/study-cal-state-system-needs-to-increase-staff-pay"
+      "text": "After Mayor Resigns, Anaheim City Council To Debate Angel Stadium Deal \u2014 Here\u2019s What We Know So Far",
+      "url": "https://laist.com/news/politics/after-mayor-resigns-anaheim-city-council-to-debate-angels-stadium-deal-heres-what-we-know-so-far"
     },
     {
-      "text": "Biden Says The US Would Be Willing To Intervene Militarily To Defend Taiwan",
-      "url": "https://laist.com/news/politics/biden-says-the-us-would-be-willing-to-intervene-military-to-defend-taiwan"
+      "text": "Suspected Monkeypox Case Reported In Sacramento County\n",
+      "url": "https://laist.com/news/health/suspected-monkeypox-case-reported-in-sacramento-county"
     },
     {
-      "text": "Rosemary Radford Ruether, A Founding Mother Of Feminist Theology, Has Died At Age 85",
-      "url": "https://laist.com/news/rosemary-radford-ruether-a-founding-mother-of-feminist-theology-has-died-at-age-85"
+      "text": "Money Wars: Special Interests Spend Big In California Primary",
+      "url": "https://laist.com/news/politics/money-wars-special-interests-spend-big-in-california-primary"
     },
     {
       "text": "Ask All Your Questions! Pregnancy and Birth, the Real Deal - A Live AMA",
@@ -4659,76 +4743,136 @@
       "url": "https://laist.com/news/food/community-composting-101-save-food-waste-los-angeles-southern-california-environment-climate-change-hevelynn-nealy"
     },
     {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/hiker-killed-after-he-and-3-others-fell-off-a-palo-verdes-cliff-has-been-identified"
+    },
+    {
+      "text": "Hiker Killed In Fall Off Palo Verdes Cliff Has Been Identified, Three Others Also Injured",
+      "url": "https://laist.com/news/hiker-killed-after-he-and-3-others-fell-off-a-palo-verdes-cliff-has-been-identified"
+    },
+    {
+      "text": "Transportation and Mobility",
+      "url": "https://laist.com/news/transportation"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/transportation/going-electric-california-car-mandate-would-hit-mechanics-hard"
+    },
+    {
+      "text": "Going Electric: California Car Mandate Would Hit Mechanics Hard",
+      "url": "https://laist.com/news/transportation/going-electric-california-car-mandate-would-hit-mechanics-hard"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/morning-brief-the-june-7-primary-a-legal-place-for-drug-use-and-virtual-workouts"
+    },
+    {
+      "text": "Morning Brief: The June 7 Primary, A Legal Place For Drug Use, And Virtual Workouts",
+      "url": "https://laist.com/news/morning-brief-the-june-7-primary-a-legal-place-for-drug-use-and-virtual-workouts"
+    },
+    {
+      "text": "Politics",
+      "url": "https://laist.com/news/politics"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/politics/anaheim-mayor-resigns-amid-federal-corruption-probe"
+    },
+    {
+      "text": "Anaheim Mayor Resigns Amid Federal Corruption Probe",
+      "url": "https://laist.com/news/politics/anaheim-mayor-resigns-amid-federal-corruption-probe"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/local-hero-of-the-week-this-engineer-is-propelling-kids-into-new-heights-through-rocket-science"
+    },
+    {
+      "text": "Local Hero Of The Week: This Engineer is Propelling Kids Into New Heights Through Rocket Science",
+      "url": "https://laist.com/news/local-hero-of-the-week-this-engineer-is-propelling-kids-into-new-heights-through-rocket-science"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/new-city-program-asks-residents-to-help-decide-how-to-spend-9-million"
+    },
+    {
+      "text": "New City Program Asks LA Residents To Help Decide How To Spend $9 Million",
+      "url": "https://laist.com/news/new-city-program-asks-residents-to-help-decide-how-to-spend-9-million"
+    },
+    {
+      "text": "Arts and Entertainment",
+      "url": "https://laist.com/news/arts-and-entertainment"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/arts-and-entertainment/artist-unveils-tapestry-designed-to-represent-las-diverse-cultures"
+    },
+    {
+      "text": "Artist Unveils Tapestry Designed To Represent LA's Diverse Cultures",
+      "url": "https://laist.com/news/arts-and-entertainment/artist-unveils-tapestry-designed-to-represent-las-diverse-cultures"
+    },
+    {
+      "text": "Arts and Entertainment",
+      "url": "https://laist.com/news/arts-and-entertainment"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/arts-and-entertainment/best-events-things-to-do-this-week-los-angeles-southern-california-may-23-26-2022"
+    },
+    {
+      "text": "Best Things To Do This Week In Los Angeles And SoCal: May 23 - 26",
+      "url": "https://laist.com/news/arts-and-entertainment/best-events-things-to-do-this-week-los-angeles-southern-california-may-23-26-2022"
+    },
+    {
+      "text": "Education",
+      "url": "https://laist.com/news/education"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/education/study-cal-state-system-needs-to-increase-staff-pay"
+    },
+    {
+      "text": "Cal State System Needs To Increase Staff Pay, Study Says",
+      "url": "https://laist.com/news/education/study-cal-state-system-needs-to-increase-staff-pay"
+    },
+    {
       "text": "Health",
       "url": "https://laist.com/news/health"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/health/if-pfizers-data-pans-out-when-will-little-kids-get-the-covid-19-vaccine"
+      "url": "https://laist.com/news/health/la-county-begins-covid-booster-shots-for-children-5-11"
     },
     {
-      "text": "If Pfizer's Data Pans Out, When Will Little Kids Get The COVID-19 Vaccine? ",
-      "url": "https://laist.com/news/health/if-pfizers-data-pans-out-when-will-little-kids-get-the-covid-19-vaccine"
+      "text": "LA County Begins COVID Booster Shots For Children Ages 5 To 11",
+      "url": "https://laist.com/news/health/la-county-begins-covid-booster-shots-for-children-5-11"
     },
     {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/sex-abuse-suits-pouring-in-as-states-catholic-leaders-seek-relief-from-highest-court"
-    },
-    {
-      "text": "Sex Abuse Suits Pouring In As State\u2019s Catholic Leaders Seek Relief From Highest Court",
-      "url": "https://laist.com/news/sex-abuse-suits-pouring-in-as-states-catholic-leaders-seek-relief-from-highest-court"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
+      "text": "Health",
+      "url": "https://laist.com/news/health"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/morning-brief-shooting-in-san-bernardino-an-alleged-slumlord-and-angelyne"
+      "url": "https://laist.com/news/health/california-debates-opening-supervised-sites-for-people-to-use-drugs"
     },
     {
-      "text": "Morning Brief: Shooting In San Bernardino, An Alleged Slumlord, And Angelyne",
-      "url": "https://laist.com/news/morning-brief-shooting-in-san-bernardino-an-alleged-slumlord-and-angelyne"
-    },
-    {
-      "text": "Play In LA",
-      "url": "https://laist.com/news/los-angeles-activities"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/los-angeles-activities/virtual-workouts-spiked-during-the-pandemic-and-the-trend-is-sticking-around"
-    },
-    {
-      "text": "Virtual Workouts Spiked During The Pandemic \u2014 And The Trend Is Sticking Around",
-      "url": "https://laist.com/news/los-angeles-activities/virtual-workouts-spiked-during-the-pandemic-and-the-trend-is-sticking-around"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/tiktok-has-changed-music-and-the-industry-is-hustling-to-catch-up"
-    },
-    {
-      "text": "TikTok Has Changed Music \u2014 And The Industry Is Hustling To Catch Up",
-      "url": "https://laist.com/news/arts-and-entertainment/tiktok-has-changed-music-and-the-industry-is-hustling-to-catch-up"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/one-week-after-fatal-church-shooting-orange-county-taiwanese-american-community-stands-united-against-hate"
-    },
-    {
-      "text": "One Week After Fatal Church Shooting, Orange County Taiwanese American Community Stands \u2018United Against Hate\u2019",
-      "url": "https://laist.com/news/one-week-after-fatal-church-shooting-orange-county-taiwanese-american-community-stands-united-against-hate"
+      "text": "California Debates Opening Supervised Sites For People To Use Drugs",
+      "url": "https://laist.com/news/health/california-debates-opening-supervised-sites-for-people-to-use-drugs"
     },
     {
       "text": "Politics",
@@ -4736,71 +4880,11 @@
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/politics/an-archbishop-bars-pelosi-from-communion-over-her-support-for-abortion-rights"
+      "url": "https://laist.com/news/politics/biden-says-the-us-would-be-willing-to-intervene-military-to-defend-taiwan"
     },
     {
-      "text": "An Archbishop Bars Pelosi From Communion Over Her Support For Abortion Rights",
-      "url": "https://laist.com/news/politics/an-archbishop-bars-pelosi-from-communion-over-her-support-for-abortion-rights"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/shooting-at-party-in-san-bernardino-county-kills-1-person-and-wounds-8-others"
-    },
-    {
-      "text": "Shooting At Party In San Bernardino County Kills 1 Person And Wounds 8 Others",
-      "url": "https://laist.com/news/shooting-at-party-in-san-bernardino-county-kills-1-person-and-wounds-8-others"
-    },
-    {
-      "text": "Housing and Homelessness",
-      "url": "https://laist.com/news/housing-homelessness"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/housing-homelessness/chesapeake-apartments-mike-nijjar-pama-los-angeles-housing-city-attorney"
-    },
-    {
-      "text": "LA Tenants Say City Is Failing To Hold Mega-Landlord Mike Nijjar Accountable For Slum Housing Conditions",
-      "url": "https://laist.com/news/housing-homelessness/chesapeake-apartments-mike-nijjar-pama-los-angeles-housing-city-attorney"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/angelyne-peacock-nbc-emmy-rossum-tv-series"
-    },
-    {
-      "text": "Why Angelyne Embraced Her Peacock Bio-Series, Then Rejected It",
-      "url": "https://laist.com/news/arts-and-entertainment/angelyne-peacock-nbc-emmy-rossum-tv-series"
-    },
-    {
-      "text": "Politics",
-      "url": "https://laist.com/news/politics"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/politics/judge-rules-that-pandemic-border-restrictions-must-continue-a-win-for-gop-led-states"
-    },
-    {
-      "text": "Judge Rules That Pandemic Border Restrictions Must Continue, A Win For GOP-Led States",
-      "url": "https://laist.com/news/politics/judge-rules-that-pandemic-border-restrictions-must-continue-a-win-for-gop-led-states"
-    },
-    {
-      "text": "Politics",
-      "url": "https://laist.com/news/politics"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/politics/new-vote-centers-added-koreatown-chinatown"
-    },
-    {
-      "text": "After Public Outcry, LA County Registrar Adds 3 Vote Centers In Koreatown And Chinatown",
-      "url": "https://laist.com/news/politics/new-vote-centers-added-koreatown-chinatown"
+      "text": "Biden Says The US Would Be Willing To Intervene Militarily To Defend Taiwan",
+      "url": "https://laist.com/news/politics/biden-says-the-us-would-be-willing-to-intervene-military-to-defend-taiwan"
     },
     {
       "text": "\n                        Load More\n                        \n                    ",
@@ -4851,8 +4935,8 @@
       "url": "https://laist.com/people/jackie-fortier"
     },
     {
-      "text": "LA County Begins COVID Booster Shots For Children Ages 5 To 11",
-      "url": "https://laist.com/news/health/la-county-begins-covid-booster-shots-for-children-5-11"
+      "text": "Anaheim City Council Votes To Void Angel Stadium Deal",
+      "url": "https://laist.com/news/politics/anaheim-city-council-meeting-sidhu"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
@@ -4863,8 +4947,8 @@
       "url": "https://laist.com/people/robert-garrova"
     },
     {
-      "text": "Anaheim Mayor Resigns Amid Federal Corruption Probe",
-      "url": "https://laist.com/news/politics/anaheim-mayor-resigns-amid-federal-corruption-probe"
+      "text": "After Mayor Resigns, Anaheim City Council To Debate Angel Stadium Deal \u2014 Here\u2019s What We Know So Far",
+      "url": "https://laist.com/news/politics/after-mayor-resigns-anaheim-city-council-to-debate-angels-stadium-deal-heres-what-we-know-so-far"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n    \n    \n\n\n",
@@ -4984,7 +5068,7 @@
     "addeddate": "2022-03-23 02:08:36"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 602083680,
+  "uniq": 1602302940,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"
