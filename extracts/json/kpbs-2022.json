@@ -1,5 +1,5 @@
 {
-  "created": 1653524401,
+  "created": 1653610885,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/6/items/kpbs-2022",
@@ -4142,31 +4142,115 @@
       "sha1": "1415ffd0ad36446dca76786304c0f63501ab00bd"
     },
     {
+      "name": "kpbs-2022-05-25T19:19:51.309616-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653531594",
+      "size": "24507",
+      "md5": "78f53470386c0629040981c7967301e6",
+      "crc32": "94ebea55",
+      "sha1": "ec99482e4832c3973bbb09d9b8f9d22778e89da7",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-25T19:19:51.309616-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653531595",
+      "size": "37980",
+      "md5": "d7189db9e12555981ab5a59c8ad14130",
+      "crc32": "37de8798",
+      "sha1": "55efe00102809b5be7c6a7aa1e3f4b270549245c",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-25T19:19:51.309616-07:00.jpg",
+      "source": "original",
+      "mtime": "1653531592",
+      "size": "272417",
+      "md5": "b79d3db1da3a8a0697e1ab9453cb573a",
+      "crc32": "cc4f0fa5",
+      "sha1": "e4795edd9ac10c3f9f24ea4835f3999a28f6f4dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-05-25T19:19:51.309616-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-05-25T19:19:51.309616-07:00.jpg",
+      "mtime": "1653534904",
+      "size": "9062",
+      "md5": "36026f5246760cea7415f859e0d5270f",
+      "crc32": "bedcea05",
+      "sha1": "dd02f741dd95408ad6192e19e2b83a74b3aa5702"
+    },
+    {
+      "name": "kpbs-2022-05-26T06:47:14.494571-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653572846",
+      "size": "23989",
+      "md5": "03bfff919d8ed9c51351b50128effa42",
+      "crc32": "2661c7ee",
+      "sha1": "92af2fefc089a3367e0ff4fc07c6dd4eac6a3af5",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-26T06:47:14.494571-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653572847",
+      "size": "37534",
+      "md5": "6519903d920b437fef7681b734441873",
+      "crc32": "f4473914",
+      "sha1": "bb27e54cc74b27d0ae4839450ad4c3a900c696e9",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-05-26T06:47:14.494571-07:00.jpg",
+      "source": "original",
+      "mtime": "1653572844",
+      "size": "273857",
+      "md5": "485f54c1689879b8f86b7b21a4178263",
+      "crc32": "d150ea52",
+      "sha1": "36e3b93ced7c2f0c93a6c37f10f5d273174bdd3b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-05-26T06:47:14.494571-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-05-26T06:47:14.494571-07:00.jpg",
+      "mtime": "1653573329",
+      "size": "8970",
+      "md5": "811d56edc8ed06baefd9ebcce4a3342c",
+      "crc32": "a32fc08e",
+      "sha1": "63bc7e4c764471e8d92d50b463c13e0f65bcc4bd"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "86036acff2360ab0162e5b51c868c01e5a685d5f",
-      "mtime": "1653487104",
-      "size": "82740",
-      "md5": "bba10cc0d95c10d26db1bb383f376966",
-      "crc32": "bb385022",
-      "sha1": "97b25ca8f2453bd358d96cabe386e976e53694c7",
+      "btih": "9cbfaf28fb224e9aeb3e259a823a7071ef5121c7",
+      "mtime": "1653573358",
+      "size": "84406",
+      "md5": "d47b0f9b28c8c7a1bf0fccfa5c574add",
+      "crc32": "a84a2922",
+      "sha1": "8078ec0d85ec19b0d8018aa18ef8c5fbf3d3dd6f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4048f76942ac3030b424eb8b4b72235d",
+      "md5": "5a89b77f6fd0bea1e739d6546f7b0cad",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653487032",
-      "size": "462848",
-      "md5": "6700ead1e8b3f0ac40b67548ef49a73d",
-      "crc32": "6f11a9b7",
-      "sha1": "b99894045f35d86c1ca2d068ae4da4f319f87e40",
+      "mtime": "1653573179",
+      "size": "471040",
+      "md5": "722cebb8581e01e6af4e52a94fffa592",
+      "crc32": "7a7ef18f",
+      "sha1": "aa4ebde9c5dddc9f5ae9d835c900332d01271815",
       "format": "Metadata"
     },
     {
@@ -4180,9 +4264,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 397,
-  "item_last_updated": 1653487104,
-  "item_size": 41996544,
+  "files_count": 405,
+  "item_last_updated": 1653573358,
+  "item_size": 42694718,
   "kpbs-2022": [
     {
       "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
@@ -4870,35 +4954,43 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/05/24/2-people-were-killed-and-several-injured-in-a-shooting-at-a-texas-elementary-school"
-    },
-    {
-      "text": "National",
-      "url": "https://www.kpbs.org/news/national"
-    },
-    {
-      "text": "Texas community struggles with second-deadliest school shooting in U.S. history",
-      "url": "https://www.kpbs.org/news/national/2022/05/24/2-people-were-killed-and-several-injured-in-a-shooting-at-a-texas-elementary-school"
-    },
-    {
-      "text": "27 school shootings have taken place so far this year",
-      "url": "https://www.kpbs.org/news/national/2022/05/24/27-school-shootings-have-taken-place-so-far-this-year"
-    },
-    {
-      "text": "Days after Buffalo mass shooting, the House approves a bill to fight domestic terror ",
-      "url": "https://www.kpbs.org/news/national/2022/05/18/days-after-buffalo-mass-shooting-the-house-approves-a-bill-to-fight-domestic-terror"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/council-declares-san-diego-safe-city-for-reproductive-freedom"
+      "url": "https://www.kpbs.org/news/local/2022/05/25/ice-uses-cellphones-to-track-thousands-in-san-diego-imperial-counties"
     },
     {
       "text": "Local",
       "url": "https://www.kpbs.org/news/local"
     },
     {
-      "text": "Council declares San Diego 'safe city' for reproductive freedom",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/council-declares-san-diego-safe-city-for-reproductive-freedom"
+      "text": "ICE uses cellphones to track thousands in San Diego, Imperial counties",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/ice-uses-cellphones-to-track-thousands-in-san-diego-imperial-counties"
+    },
+    {
+      "text": "Sof\u00eda Mej\u00edas-Pascoe",
+      "url": "https://www.kpbs.org/staff/sofia-mejias-pascoe"
+    },
+    {
+      "text": "ICE's digital surveillance reaches far and wide, report finds",
+      "url": "https://www.kpbs.org/news/midday-edition/2022/05/17/ices-digital-surveillance-reaches-far-and-wide-report-finds"
+    },
+    {
+      "text": "California moves toward allowing lawsuits over illegal guns",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/california-moves-toward-allowing-lawsuits-over-illegal-guns"
+    },
+    {
+      "text": "Biden signs policing order on anniversary of Floyd's death",
+      "url": "https://www.kpbs.org/news/national/2022/05/25/biden-to-sign-policing-order-on-anniversary-of-floyds-death"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/flags-half-staff-county-administration-building-texas-school-shooting"
+    },
+    {
+      "text": "Local",
+      "url": "https://www.kpbs.org/news/local"
+    },
+    {
+      "text": "Flags lowered to half-staff at County Administration Building after Texas school shooting",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/flags-half-staff-county-administration-building-texas-school-shooting"
     },
     {
       "text": "City News Service",
@@ -4906,59 +4998,11 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/new-efforts-underway-to-help-sub-groups-within-san-diegos-homeless-population"
+      "url": "https://www.kpbs.org/news/local/2022/05/25/advocates-alarmed-by-use-of-private-messaging-app-by-san-diego-public-officials"
     },
     {
       "text": "Local",
       "url": "https://www.kpbs.org/news/local"
-    },
-    {
-      "text": "New efforts underway to help sub-groups within San Diego's homeless population",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/new-efforts-underway-to-help-sub-groups-within-san-diegos-homeless-population"
-    },
-    {
-      "text": "Maureen Cavanaugh",
-      "url": "https://www.kpbs.org/staff/maureen-cavanaugh"
-    },
-    {
-      "text": "Harrison Pati\u00f1o",
-      "url": "https://www.kpbs.org/staff/harrison-patino"
-    },
-    {
-      "text": "Featured Podcast",
-      "url": "https://www.kpbs.org/podcasts"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/circumventing-public-records-laws-with-phone-app"
-    },
-    {
-      "text": "Circumventing public records laws with phone app",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/circumventing-public-records-laws-with-phone-app"
-    },
-    {
-      "text": "Read More",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/circumventing-public-records-laws-with-phone-app"
-    },
-    {
-      "text": "Local News",
-      "url": "https://www.kpbs.org/news/local"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/25/chula-vista-community-members-say-they-were-misled-about-otay-landfill"
-    },
-    {
-      "text": "Chula Vista community members say they were misled about Otay Landfill ",
-      "url": "https://www.kpbs.org/news/local/2022/05/25/chula-vista-community-members-say-they-were-misled-about-otay-landfill"
-    },
-    {
-      "text": "Kitty Alvarado",
-      "url": "https://www.kpbs.org/staff/kitty-alvarado"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/25/advocates-alarmed-by-use-of-private-messaging-app-by-san-diego-public-officials"
     },
     {
       "text": " Advocates alarmed by use of private messaging app by San Diego public officials ",
@@ -4969,28 +5013,68 @@
       "url": "https://www.kpbs.org/staff/claire-trageser"
     },
     {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/new-report-shows-which-car-companies-are-sued-most-using-californias-lemon-law"
-    },
-    {
-      "text": "New report shows which car companies are sued most using California's Lemon Law",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/new-report-shows-which-car-companies-are-sued-most-using-californias-lemon-law"
-    },
-    {
-      "text": "John Carroll",
-      "url": "https://www.kpbs.org/staff/john-carroll"
+      "text": "Featured Podcast",
+      "url": "https://www.kpbs.org/podcasts"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/2022/05/24/millions-available-to-help-san-diego-cities-build-homeless-shelters"
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/fast-tracking-gun-control-in-california"
     },
     {
-      "text": "Millions available to help San Diego cities build homeless shelters",
-      "url": "https://www.kpbs.org/news/2022/05/24/millions-available-to-help-san-diego-cities-build-homeless-shelters"
+      "text": "Fast-tracking gun control in California",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/fast-tracking-gun-control-in-california"
     },
     {
-      "text": "Matt Hoffman",
-      "url": "https://www.kpbs.org/staff/matt-hoffman"
+      "text": "Read More",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/fast-tracking-gun-control-in-california"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.kpbs.org/news/local"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/26/cinco-retadores-buscan-desbancar-a-campbell-en-el-distrito-2-del-consejo-de-la-ciudad-de-san-diego"
+    },
+    {
+      "text": "Cinco retadores buscan desbancar a Campbell en el Distrito 2 del Consejo de la  Ciudad de San Diego ",
+      "url": "https://www.kpbs.org/news/local/2022/05/26/cinco-retadores-buscan-desbancar-a-campbell-en-el-distrito-2-del-consejo-de-la-ciudad-de-san-diego"
+    },
+    {
+      "text": "Andrew Bowen",
+      "url": "https://www.kpbs.org/staff/andrew-bowen"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/26/san-diego-electricity-rates-show-no-signs-of-coming-down"
+    },
+    {
+      "text": "San Diego electricity rates show no signs of coming down",
+      "url": "https://www.kpbs.org/news/local/2022/05/26/san-diego-electricity-rates-show-no-signs-of-coming-down"
+    },
+    {
+      "text": "Erik Anderson",
+      "url": "https://www.kpbs.org/staff/erik-anderson"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/two-plead-guilty-to-nationwide-racketeering-scam-targeting-the-elderly"
+    },
+    {
+      "text": " Two plead guilty to nationwide racketeering scam targeting the elderly",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/two-plead-guilty-to-nationwide-racketeering-scam-targeting-the-elderly"
+    },
+    {
+      "text": "City News Service",
+      "url": "https://www.kpbs.org/staff/city-news-service"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/angry-newsom-criticizes-texas-governor-us-judges-on-guns"
+    },
+    {
+      "text": "Angry Newsom criticizes Texas governor, US judges on guns",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/angry-newsom-criticizes-texas-governor-us-judges-on-guns"
     },
     {
       "text": "\n    \n        \n            \n                \n                    \n                        \n\n\n\n    \n\n\n\n                    \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -5010,39 +5094,39 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/05/25/in-the-10-years-since-sandy-hook-gun-laws-in-the-u-s-havent-changed-much"
+      "url": "https://www.kpbs.org/news/national/2022/05/26/oklahoma-governor-signs-the-nations-strictest-abortion-ban"
     },
     {
       "text": "National",
       "url": "https://www.kpbs.org/news/national"
     },
     {
-      "text": "In the 10 years since Sandy Hook, gun laws in the U.S. haven't changed much",
-      "url": "https://www.kpbs.org/news/national/2022/05/25/in-the-10-years-since-sandy-hook-gun-laws-in-the-u-s-havent-changed-much"
+      "text": "Oklahoma governor signs the nation's strictest abortion ban",
+      "url": "https://www.kpbs.org/news/national/2022/05/26/oklahoma-governor-signs-the-nations-strictest-abortion-ban"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/05/25/survivors-of-parkland-and-columbine-shootings-share-their-outrage-over-uvalde-tragedy"
+      "url": "https://www.kpbs.org/news/national/2022/05/26/more-details-and-reactions-emerge-about-the-texas-school-shooting-and-gunman"
     },
     {
       "text": "National",
       "url": "https://www.kpbs.org/news/national"
     },
     {
-      "text": "Survivors of Parkland and Columbine shootings share their outrage over Uvalde tragedy",
-      "url": "https://www.kpbs.org/news/national/2022/05/25/survivors-of-parkland-and-columbine-shootings-share-their-outrage-over-uvalde-tragedy"
+      "text": "More details and reactions emerge about the Texas school shooting and gunman",
+      "url": "https://www.kpbs.org/news/national/2022/05/26/more-details-and-reactions-emerge-about-the-texas-school-shooting-and-gunman"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/05/25/what-we-know-so-far-about-the-school-shooting-in-uvalde-texas"
+      "url": "https://www.kpbs.org/news/international/2022/05/26/western-countries-watch-as-chinas-foreign-minister-begins-south-pacific-tour"
     },
     {
-      "text": "National",
-      "url": "https://www.kpbs.org/news/national"
+      "text": "International",
+      "url": "https://www.kpbs.org/news/international"
     },
     {
-      "text": "What we know so far about the school shooting in Uvalde, Texas",
-      "url": "https://www.kpbs.org/news/national/2022/05/25/what-we-know-so-far-about-the-school-shooting-in-uvalde-texas"
+      "text": "Western countries watch as China's foreign minister begins South Pacific tour",
+      "url": "https://www.kpbs.org/news/international/2022/05/26/western-countries-watch-as-chinas-foreign-minister-begins-south-pacific-tour"
     },
     {
       "text": "Load More",
@@ -5054,27 +5138,27 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/arts-culture/2019/01/14/nature-equus-story-horse"
+      "url": "https://www.kpbs.org/news/2022/05/02/out-of-the-boondocks"
     },
     {
-      "text": "EQUUS: STORY OF THE HORSE On NATURE",
-      "url": "https://www.kpbs.org/news/arts-culture/2019/01/14/nature-equus-story-horse"
+      "text": "OUT OF THE BOONDOCKS",
+      "url": "https://www.kpbs.org/news/2022/05/02/out-of-the-boondocks"
     },
     {
-      "text": "NOVA: Ice Age Footprints ",
-      "url": "https://www.kpbs.org/news/2022/05/20/nova-ice-age-footprints"
+      "text": "CROSSING SOUTH: Pai Pai Zoo",
+      "url": "https://www.kpbs.org/news/2022/03/28/crossing-south-pai-pai-zoo"
     },
     {
-      "text": "COLOMBIA - WILD AND FREE",
-      "url": "https://www.kpbs.org/news/2022/05/13/colombia-wild-and-free"
+      "text": "PACIFIC HEARTBEAT: Loimata, The Sweetest Tears",
+      "url": "https://www.kpbs.org/news/2022/05/23/pacific-heartbeat-loimata-the-sweetest-tears"
     },
     {
       "text": "LIVE AT THE BELLY UP: Squirrel Nut Zippers",
       "url": "https://www.kpbs.org/news/2022/05/24/live-at-the-belly-up-squirrel-nut-zippers"
     },
     {
-      "text": "The Rolling Stones: A Bigger Bang: Live On Copacabana Beach",
-      "url": "https://www.kpbs.org/news/2022/05/24/the-rolling-stones-a-bigger-bang-live-on-copacabana-beach"
+      "text": "GREAT PERFORMANCES: Keeping Company with Sondheim",
+      "url": "https://www.kpbs.org/news/2022/05/24/great-performances-keeping-company-with-sondheim"
     },
     {
       "text": "June Primary Election ",
@@ -5106,27 +5190,27 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/new-scripps-health-program-to-expand-mental-health-services-for-expecting-mothers"
+      "url": "https://www.kpbs.org/news/local/2022/05/25/checking-in-on-covid-19-and-a-possible-return-to-masking-in-schools"
     },
     {
-      "text": "New Scripps Health program to expand mental health services for expecting mothers",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/new-scripps-health-program-to-expand-mental-health-services-for-expecting-mothers"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/san-diego-county-expanding-free-menstrual-product-program"
-    },
-    {
-      "text": " San Diego County expanding free menstrual product program",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/san-diego-county-expanding-free-menstrual-product-program"
+      "text": "Checking in on COVID-19 and a possible return to masking in schools ",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/checking-in-on-covid-19-and-a-possible-return-to-masking-in-schools"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/supervisors-approves-help-for-cities-youth-on-homeless-issue"
+      "url": "https://www.kpbs.org/news/local/2022/05/25/man-sentenced-for-harassing-women-in-grantville-shopping-center-parking-lot"
     },
     {
-      "text": "Supervisors approves help for cities, youth on homeless issue",
-      "url": "https://www.kpbs.org/news/local/2022/05/24/supervisors-approves-help-for-cities-youth-on-homeless-issue"
+      "text": " Man sentenced for harassing women in Grantville shopping center parking lot",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/man-sentenced-for-harassing-women-in-grantville-shopping-center-parking-lot"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/gun-ammo-found-in-2nd-graders-desk-at-california-school"
+    },
+    {
+      "text": "Gun, ammo found in 2nd grader's desk at California school",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/gun-ammo-found-in-2nd-graders-desk-at-california-school"
     },
     {
       "text": "Politics",
@@ -5134,31 +5218,39 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/05/24/three-months-of-war-russia-underachieves-ukraine-overachieves"
+      "url": "https://www.kpbs.org/news/local/2022/05/25/san-diego-remains-responsive-to-water-conservation-calls"
     },
     {
-      "text": "Three months of war: Russia underachieves, Ukraine overachieves",
-      "url": "https://www.kpbs.org/news/international/2022/05/24/three-months-of-war-russia-underachieves-ukraine-overachieves"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/2022/05/23/dc-sues-zuckerberg-over-cambridge-analytica-privacy-breach"
-    },
-    {
-      "text": "DC sues Zuckerberg over Cambridge Analytica privacy breach",
-      "url": "https://www.kpbs.org/news/2022/05/23/dc-sues-zuckerberg-over-cambridge-analytica-privacy-breach"
+      "text": "San Diego remains responsive to water conservation calls",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/san-diego-remains-responsive-to-water-conservation-calls"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/05/23/russia-ukraine-war-what-happened-today-may-23"
+      "url": "https://www.kpbs.org/news/national/2022/05/25/local-racial-justice-advocates-reflect-on-2-years-since-the-murder-of-george-floyd"
     },
     {
-      "text": "Russia-Ukraine war: What happened today (May 23)",
-      "url": "https://www.kpbs.org/news/international/2022/05/23/russia-ukraine-war-what-happened-today-may-23"
+      "text": "Local racial justice advocates reflect on 2 years since the murder of George Floyd",
+      "url": "https://www.kpbs.org/news/national/2022/05/25/local-racial-justice-advocates-reflect-on-2-years-since-the-murder-of-george-floyd"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/insurance-agent-arrested-for-allegedly-stealing-from-late-carlsbad-art-dealer"
+    },
+    {
+      "text": "Insurance agent arrested for allegedly stealing from late Carlsbad art dealer",
+      "url": "https://www.kpbs.org/news/local/2022/05/25/insurance-agent-arrested-for-allegedly-stealing-from-late-carlsbad-art-dealer"
     },
     {
       "text": "Arts & Culture",
       "url": "https://www.kpbs.org/news/arts-culture"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/arts-culture/2022/05/25/on-harrys-house-styles-faces-the-perils-of-pastiche"
+    },
+    {
+      "text": "On 'Harry's House,' Styles faces the perils of pastiche",
+      "url": "https://www.kpbs.org/news/arts-culture/2022/05/25/on-harrys-house-styles-faces-the-perils-of-pastiche"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -5175,14 +5267,6 @@
     {
       "text": "New 'Red Jasper' play shines light on cancer patients and survivors",
       "url": "https://www.kpbs.org/news/local/2022/05/23/new-red-jasper-play-shines-light-on-cancer-patients-and-survivors"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/arts-culture/2022/05/20/indie-films-offer-the-best-choices-this-weekend"
-    },
-    {
-      "text": "Indie films offer the best choices this weekend",
-      "url": "https://www.kpbs.org/news/arts-culture/2022/05/20/indie-films-offer-the-best-choices-this-weekend"
     },
     {
       "text": "Community Events",
@@ -5333,10 +5417,10 @@
     "publicdate": "2022-03-24 02:06:19",
     "addeddate": "2022-03-24 02:06:19"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 202156026,
+  "server": "ia802500.us.archive.org",
+  "uniq": 3766240,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }
