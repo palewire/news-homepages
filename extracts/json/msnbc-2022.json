@@ -1,5 +1,5 @@
 {
-  "created": 1653610972,
+  "created": 1653697218,
   "d1": "ia601005.us.archive.org",
   "d2": "ia801005.us.archive.org",
   "dir": "/5/items/msnbc-2022",
@@ -9560,31 +9560,199 @@
       "sha1": "d676047eba96d2e552b74ffe5aac2e28161a2e92"
     },
     {
+      "name": "msnbc-2022-05-26T20:31:34.402667-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653611498",
+      "size": "70624",
+      "md5": "1544515ee5a4133003112462887242fe",
+      "crc32": "966b91e5",
+      "sha1": "4d4a1329e1519322efc5275eb47db8a015e22ddb",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-26T20:31:34.402667-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653611500",
+      "size": "77254",
+      "md5": "a1310267108836defe5b827203071f91",
+      "crc32": "083589e0",
+      "sha1": "ebc8c27bc50d6830ccd2ecc45f6c57395260344e",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-26T20:31:34.402667-04:00.jpg",
+      "source": "original",
+      "mtime": "1653611496",
+      "size": "306167",
+      "md5": "366bc51eb7be086b214dfc236ec8d876",
+      "crc32": "5bd19034",
+      "sha1": "02fc19e61a6fbc54efa80873a7e94ae8cbff496b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-05-26T20:31:34.402667-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-05-26T20:31:34.402667-04:00.jpg",
+      "mtime": "1653611623",
+      "size": "10368",
+      "md5": "a71c113f393aea3d0d269e4a567e35ed",
+      "crc32": "c07de4a2",
+      "sha1": "d84014bda717c8acde2475028cc5ec04378fc43e"
+    },
+    {
+      "name": "msnbc-2022-05-27T02:12:14.241139-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653631948",
+      "size": "63914",
+      "md5": "f44c432000db05e598cdcfa09bf489a1",
+      "crc32": "0162adfa",
+      "sha1": "c10f098ae693a96b695db13f9cca330290d220bb",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-27T02:12:14.241139-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653631949",
+      "size": "86773",
+      "md5": "55fd18f66a312dd0fd2f02c2b9ea94d4",
+      "crc32": "d93841e5",
+      "sha1": "857f833093b2d68fa90588eab35d0e977c021e13",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-27T02:12:14.241139-04:00.jpg",
+      "source": "original",
+      "mtime": "1653631945",
+      "size": "304723",
+      "md5": "b82ca47e363776782beaf05b0e9f79bb",
+      "crc32": "ed4fbdee",
+      "sha1": "94c58ab3d64abe58ac353d416e60b6de05d3033f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-05-27T02:12:14.241139-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-05-27T02:12:14.241139-04:00.jpg",
+      "mtime": "1653632035",
+      "size": "10459",
+      "md5": "e79387c3ba03efb6f7c97881991449e9",
+      "crc32": "e14a1e71",
+      "sha1": "f859e536e3222a1c0253c101b01e687c3c78eef8"
+    },
+    {
+      "name": "msnbc-2022-05-27T08:10:36.446579-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653653448",
+      "size": "75242",
+      "md5": "5e91899cd7a04cef6ad070ac2ad2feaa",
+      "crc32": "d51749cd",
+      "sha1": "73556b91680fff62b6d33d24451c367b265fa001",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-27T08:10:36.446579-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653653450",
+      "size": "75570",
+      "md5": "89a88f560a5c40a1a694e5310fee7e75",
+      "crc32": "5e73227a",
+      "sha1": "eec664c879872df9ec9fcd8f8863e162cf35e49c",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-27T08:10:36.446579-04:00.jpg",
+      "source": "original",
+      "mtime": "1653653445",
+      "size": "122290",
+      "md5": "20b5b668427d548095769a6ad89339e2",
+      "crc32": "9d8f1c53",
+      "sha1": "2313ca50b7fee8071a8a708b731f535692d806a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-05-27T08:10:36.446579-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-05-27T08:10:36.446579-04:00.jpg",
+      "mtime": "1653653564",
+      "size": "11252",
+      "md5": "5f59b400a27d6857ab0a724938a3207f",
+      "crc32": "7f871ff8",
+      "sha1": "d676047eba96d2e552b74ffe5aac2e28161a2e92"
+    },
+    {
+      "name": "msnbc-2022-05-27T14:11:51.843360-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653675121",
+      "size": "63256",
+      "md5": "b4066b2926be63b4eb8dd85a243d57e4",
+      "crc32": "40ec53ed",
+      "sha1": "402a3211a1fa236264122671ed8ee629a100c2a2",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-27T14:11:51.843360-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653675125",
+      "size": "78173",
+      "md5": "c1bbba1df58581b837b3c5df303108a7",
+      "crc32": "4dc237c9",
+      "sha1": "862fa181f47326159db17503582b509a060434c6",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-05-27T14:11:51.843360-04:00.jpg",
+      "source": "original",
+      "mtime": "1653675117",
+      "size": "315874",
+      "md5": "4890d4e5c96425c3923625e1b063542e",
+      "crc32": "5299efb3",
+      "sha1": "8ec42cd89a86e2c3e59eff38cf85bb2d3569beba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-05-27T14:11:51.843360-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-05-27T14:11:51.843360-04:00.jpg",
+      "mtime": "1653677642",
+      "size": "10299",
+      "md5": "501e1afb1b11951278e4b65c170232f3",
+      "crc32": "3cc7c787",
+      "sha1": "08527e2e1cbc03a5719cd4219c1fd6a8efe5d7f8"
+    },
+    {
       "name": "msnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "433e3d8c62326065024eb3de2742a775e79356ce",
-      "mtime": "1653588796",
-      "size": "190475",
-      "md5": "2db54dbc0d2314f2d5cccb5e19f1d184",
-      "crc32": "172979ee",
-      "sha1": "d48fb4583c2bfa350638a40da330418bb6c59b3d",
+      "btih": "dd3885645e25a4f2bd46f77a25e87b00dcc0aaf0",
+      "mtime": "1653677659",
+      "size": "193807",
+      "md5": "2429e4853645b6cdfaf6bac94cdab7a1",
+      "crc32": "a5050b01",
+      "sha1": "12031bce08652b56581ed0c8fbaa1fb9b888d0f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fac71bca00cd788f6a5e68f901ec6e20",
+      "md5": "1dfcb357e5bf451401a1143a0c47d812",
       "summation": "md5"
     },
     {
       "name": "msnbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653588656",
-      "size": "1024000",
-      "md5": "ae426294ed8801e3f1cd0bef42fb9b92",
-      "crc32": "98b20d36",
-      "sha1": "625b9d62a4138785950d83680097408a582b00d3",
+      "mtime": "1653675129",
+      "size": "1044480",
+      "md5": "02b33bd1b887cdc3bb9262fd26a1d1a3",
+      "crc32": "50eef644",
+      "sha1": "a2c63369f94c45a508f9828946ce574c2fda9910",
       "format": "Metadata"
     },
     {
@@ -9598,9 +9766,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 911,
-  "item_last_updated": 1653588796,
-  "item_size": 103210920,
+  "files_count": 927,
+  "item_last_updated": 1653677659,
+  "item_size": 104916970,
   "metadata": {
     "identifier": "msnbc-2022",
     "collection": [
@@ -9664,19 +9832,23 @@
     },
     {
       "text": "",
-      "url": "javascript:void(0);"
+      "url": "https://www.msnbc.com/live?icid=tve-mini-tease"
     },
     {
       "text": "",
-      "url": "javascript:void(0);"
+      "url": "https://www.facebook.com/sharer/sharer.php?u=null&cid=article_share_facebook"
     },
     {
       "text": "",
-      "url": "javascript:void(0);"
+      "url": "https://twitter.com/intent/tweet?text=&via=msnbc&url=null&original_referer=URL&cid=article_share_twitter"
     },
     {
       "text": "",
-      "url": "javascript:void(0);"
+      "url": "mailto:?subject=&body=null"
+    },
+    {
+      "text": "",
+      "url": "sms:?body= via msnbc - null"
     },
     {
       "text": "Rachel MaddowWeeknights 9PM ET",
@@ -9844,99 +10016,59 @@
     },
     {
       "text": "Facebook",
-      "url": "javascript:void(0);"
+      "url": "https://www.facebook.com/sharer/sharer.php?u=null&cid=article_share_facebook"
     },
     {
       "text": "Twitter",
-      "url": "javascript:void(0);"
+      "url": "https://twitter.com/intent/tweet?text=&via=msnbc&url=null&original_referer=URL&cid=article_share_twitter"
     },
     {
       "text": "Email",
-      "url": "javascript:void(0);"
+      "url": "mailto:?subject=&body=null"
     },
     {
       "text": "SMS",
-      "url": "javascript:void(0);"
+      "url": "sms:?body= via msnbc - null"
     },
     {
       "text": "Print",
-      "url": "javascript:void(0);"
+      "url": "javascript:if(window.print)window.print()"
     },
     {
       "text": "Whatsapp",
-      "url": "javascript:void(0);"
+      "url": "https://api.whatsapp.com/send?phone=&text= null&cid=article_share_whatsapp"
     },
     {
       "text": "Reddit",
-      "url": "javascript:void(0);"
+      "url": "http://www.reddit.com/submit?url=null&title=&cid=article_share_reddit"
     },
     {
       "text": "Pocket",
-      "url": "javascript:void(0);"
+      "url": "https://getpocket.com/save?url=null&title=&cid=article_share_pocket"
     },
     {
       "text": "Flipboard",
-      "url": "javascript:void(0);"
+      "url": "https://share.flipboard.com/bookmarklet/popout?v=2&title=&url=null&cid=article_share_flipboard"
     },
     {
       "text": "Pinterest",
-      "url": "javascript:void(0);"
+      "url": "http://pinterest.com/pin/create/link/?url=null&cid=article_share_pinterest"
     },
     {
       "text": "Linkedin",
-      "url": "javascript:void(0);"
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=null&title=&cid=article_share_linkedin"
     },
     {
-      "text": "Eric Thayer / Bloomberg via Getty Images",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/texas-school-shooting-shows-why-arming-teachers-wouldn-t-have-n1295693"
+      "text": "Seth Herald / AFP via Getty Images, file",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/nra-convention-uvalde-texas-rcna30638"
     },
     {
-      "text": "How the Texas school shooting foiled one of the pro-gun GOP's favorite talking points ",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/texas-school-shooting-shows-why-arming-teachers-wouldn-t-have-n1295693"
-    },
-    {
-      "text": "Zeeshan Aleem",
-      "url": "https://www.msnbc.com/author/zeeshan-aleem-ncpn1235332"
-    },
-    {
-      "text": "Why Ted Cruz's new talking point after Uvalde shooting is total nonsense",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/latest-school-shooting-ted-cruz-focuses-doors-rcna30630"
-    },
-    {
-      "text": "Steve Benen",
-      "url": "https://www.msnbc.com/author/steve-benen-ncpn433601"
-    },
-    {
-      "text": "Just like that, Democrats punt on a vote on gun control ",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/after-texas-school-shooting-expect-congress-respond-inaction-n1295694"
-    },
-    {
-      "text": "Michael A. Cohen",
-      "url": "https://www.msnbc.com/author/michael-cohen-ncpn1272869"
-    },
-    {
-      "text": "Jabin Botsford / The Washington Post via Getty Images, file",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/court-overturns-cawthorn-eligibility-ruling-rcna30498"
-    },
-    {
-      "text": "Court ruling could spell trouble for Marjorie Taylor Greene, other MAGA-maniacs",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/court-overturns-cawthorn-eligibility-ruling-rcna30498"
+      "text": "Several performers, speakers pull out of NRA convention. Then there's these people.",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/nra-convention-uvalde-texas-rcna30638"
     },
     {
       "text": "Ja'han Jones",
       "url": "https://www.msnbc.com/author/ja-jones-ncpn371241"
-    },
-    {
-      "text": "New phase of fake electors probe should make Team Trump quite nervous",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/criminal-investigation-fake-trump-electors-reaches-new-level-rcna30529"
-    },
-    {
-      "text": "Steve Benen",
-      "url": "https://www.msnbc.com/author/steve-benen-ncpn433601"
-    },
-    {
-      "text": "Dario Lopez-Mills / AP",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/why-texas-school-shooting-won-t-stop-nra-convention-n1295702"
     },
     {
       "text": "Why Republicans are choosing the NRA over murdered children",
@@ -9947,100 +10079,168 @@
       "url": "https://www.msnbc.com/author/hayes-brown-ncpn1243020"
     },
     {
-      "text": "'This is on you': Beto O'Rourke confronts Gov. Abbott during Texas shooting press conference",
-      "url": "https://www.msnbc.com/msnbc/watch/watch-beto-o-rourke-confronts-texas-governor-at-shooting-news-conference-140810309550"
-    },
-    {
-      "text": "WATCH",
-      "url": "https://www.msnbc.com/msnbc/watch/watch-beto-o-rourke-confronts-texas-governor-at-shooting-news-conference-140810309550"
-    },
-    {
-      "text": "Abbott says Uvalde gunman 'incomprehensibly' shot up school. He's full of it.",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/texas-republicans-uvalde-shooting-rcna30497"
-    },
-    {
-      "text": "Ja'han Jones",
-      "url": "https://www.msnbc.com/author/ja-jones-ncpn371241"
-    },
-    {
-      "text": "Joe Scarborough: Doing nothing to stop this ongoing carnage is a sin ",
-      "url": "https://www.msnbc.com/morning-joe/watch/joe-scarborough-doing-nothing-to-stop-this-ongoing-carnage-is-a-sin-140860997623"
+      "text": "Despite Uvalde shooting, NRA convention to go on as planned in Houston",
+      "url": "https://www.msnbc.com/morning-joe/watch/despite-uvalde-shooting-nra-convention-to-go-on-as-planned-in-houston-140951109688"
     },
     {
       "text": "Morning Joe",
       "url": "https://www.msnbc.com/morning-joe"
     },
     {
-      "text": "Republicans press 'good guy with a gun' bromide despite fresh failures",
-      "url": "https://www.msnbc.com/msnbc-prime/watch/republicans-press-good-guy-with-a-gun-bromide-despite-fresh-failures-140851269786"
+      "text": "MSNBC / Getty Images; Bureau of Elections",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-s-michigan-election-fraud-claims-actually-proved-true-sort-n1295741"
     },
     {
-      "text": "MSNBC Prime",
-      "url": "https://www.msnbc.com/msnbc-prime/watch/republicans-press-good-guy-with-a-gun-bromide-despite-fresh-failures-140851269786"
+      "text": "A new Michigan voter fraud scandal could doom these Trump loyalists. Ah, karma.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-s-michigan-election-fraud-claims-actually-proved-true-sort-n1295741"
     },
     {
-      "text": "Mark Meadows reportedly used a White House fireplace to burn docs",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/mark-meadows-reportedly-used-white-house-fireplace-burn-docs-rcna30669"
+      "text": "Dean Obeidallah",
+      "url": "https://www.msnbc.com/author/dean-obeidallah-ncpn857856"
+    },
+    {
+      "text": "Eric Thayer / Bloomberg via Getty Images",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/texas-shooting-police-response-good-guy-rcna30637"
+    },
+    {
+      "text": "'Wrong decision': What happens when the so-called good guys with guns are afraid?",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/texas-shooting-police-response-good-guy-rcna30637"
+    },
+    {
+      "text": "Ja'han Jones",
+      "url": "https://www.msnbc.com/author/ja-jones-ncpn371241"
+    },
+    {
+      "text": "The police framed themselves as heroes in Uvalde. That's questionable now.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/uvalde-police-s-story-keeps-changing-worse-n1295758"
+    },
+    {
+      "text": "Hayes Brown",
+      "url": "https://www.msnbc.com/author/hayes-brown-ncpn1243020"
+    },
+    {
+      "text": "Texas official: Police made 'wrong decision' by waiting to breach classroom",
+      "url": "https://www.msnbc.com/msnbc/watch/texas-official-says-uvalde-police-made-wrong-decision-during-school-shooting-140974149767"
+    },
+    {
+      "text": "uvalde shooting",
+      "url": "https://www.msnbc.com/msnbc/watch/texas-official-says-uvalde-police-made-wrong-decision-during-school-shooting-140974149767"
+    },
+    {
+      "text": "Uvalde 'greatest failure in modern American law enforcement history' in active shooter situation ",
+      "url": "https://www.msnbc.com/msnbc/watch/uvalde-greatest-failure-in-modern-american-law-enforcement-history-during-active-shooter-situation-140976197678"
+    },
+    {
+      "text": "Tom Winter",
+      "url": "https://www.msnbc.com/msnbc/watch/uvalde-greatest-failure-in-modern-american-law-enforcement-history-during-active-shooter-situation-140976197678"
+    },
+    {
+      "text": "Questions surround 'confusing, conflicting' police response to Texas shooting",
+      "url": "https://www.msnbc.com/morning-joe/watch/questions-surround-confusing-conflicting-police-response-to-texas-shooting-140945989960"
+    },
+    {
+      "text": "Morning Joe",
+      "url": "https://www.msnbc.com/morning-joe"
+    },
+    {
+      "text": "We want an answer to the question, Ted Cruz",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/only-america-good-question-ted-cruz-walked-away-rcna30885"
     },
     {
       "text": "Steve Benen",
       "url": "https://www.msnbc.com/author/steve-benen-ncpn433601"
     },
     {
-      "text": "Why America's gun problem is worse than any other country, by the numbers",
-      "url": "https://www.msnbc.com/all-in/watch/why-america-s-gun-problem-is-worse-than-any-other-country-by-the-numbers-140837957712"
+      "text": "Survivors speak: Children of Uvalde share their account of the school shooting",
+      "url": "https://www.msnbc.com/morning-joe/watch/uvalde-students-speak-out-after-surviving-school-shooting-140955205960"
     },
     {
-      "text": "All In",
-      "url": "https://www.msnbc.com/all"
+      "text": "Morning Joe",
+      "url": "https://www.msnbc.com/morning-joe"
     },
     {
-      "text": "\u2018Hunting human beings\u2019: Outrage at GOP for blocking gun control after Texas school massacre",
-      "url": "https://www.msnbc.com/the-beat-with-ari/watch/-hunting-human-beings-outrage-at-gop-for-blocking-gun-control-after-texas-school-massacre-140832325630"
-    },
-    {
-      "text": "The Beat with Ari",
-      "url": "https://www.msnbc.com/the-beat-with-ari-melber"
-    },
-    {
-      "text": "On school shootings, Herschel Walker tries (and fails) again",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/school-shootings-herschel-walker-tries-fails-rcna30657"
+      "text": "With 9/11 comparison, Boebert accidentally makes a good point",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/911-comparison-boebert-accidentally-makes-good-point-rcna30829"
     },
     {
       "text": "Steve Benen",
       "url": "https://www.msnbc.com/author/steve-benen-ncpn433601"
-    },
-    {
-      "text": "Stefani Reynolds / Bloomberg via Getty Images file",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/jan-6-jim-jordan-abandons-nothing-hide-position-rcna30619"
     },
     {
       "text": "Sure seems like Jim Jordan suddenly has something to hide from the Jan. 6 committee",
       "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/jan-6-jim-jordan-abandons-nothing-hide-position-rcna30619"
     },
     {
+      "text": "Steve Benen",
+      "url": "https://www.msnbc.com/author/steve-benen-ncpn433601"
+    },
+    {
+      "text": "Sean Rayford / Getty Images, file",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/school-shootings-herschel-walker-tries-fails-rcna30657"
+    },
+    {
+      "text": "On school shootings, Herschel Walker tries (and fails) again",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/school-shootings-herschel-walker-tries-fails-rcna30657"
+    },
+    {
       "text": "Maddowblog",
       "url": "https://www.msnbc.com/maddowblog"
     },
     {
-      "text": "Drew Angerer / Getty Images, file",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/appeals-court-trump-cant-avoid-testifying-oath-civil-case-rcna30703"
+      "text": "J. Scott Applewhite / AP",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/senators-begin-new-gun-talks-will-time-different-rcna30823"
     },
     {
-      "text": "Appeals court: Trump can\u2019t avoid testifying under oath in civil case",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/appeals-court-trump-cant-avoid-testifying-oath-civil-case-rcna30703"
+      "text": "Why optimism is in short supply on new gun talks in Congress",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/senators-begin-new-gun-talks-will-time-different-rcna30823"
     },
     {
       "text": "Maddowblog",
       "url": "https://www.msnbc.com/maddowblog"
     },
     {
-      "text": "Andrew Caballero-Reynolds / AFP - Getty Images",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-reportedly-didnt-problem-hang-mike-pence-chants-rcna30624"
+      "text": "Oliver Contreras / Bloomberg via Getty Images file",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/details-emerge-meadows-alleged-use-white-house-fireplace-rcna30837"
     },
     {
-      "text": "Trump's reported reaction to 'hang Mike Pence' chants is a democratic nightmare",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-reportedly-didnt-problem-hang-mike-pence-chants-rcna30624"
+      "text": "Details emerge on Mark Meadows\u2019 alleged use of a White House fireplace to burn documents ",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/details-emerge-meadows-alleged-use-white-house-fireplace-rcna30837"
+    },
+    {
+      "text": "Maddowblog",
+      "url": "https://www.msnbc.com/maddowblog"
+    },
+    {
+      "text": "MSNBC / Getty Images",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/conservatives-guns-uvalde-texas-shooting-rcna30636"
+    },
+    {
+      "text": "Guns are integral to conservatives' white theocracy fantasy",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/conservatives-guns-uvalde-texas-shooting-rcna30636"
+    },
+    {
+      "text": "The ReidOut Blog",
+      "url": "https://www.msnbc.com/reidoutblog"
+    },
+    {
+      "text": "Todd Kirkland / Getty Images, file",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/steve-kerr-texas-shooting-rcna30543"
+    },
+    {
+      "text": "Why gun violence is so personal to Warriors coach Steve Kerr",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/steve-kerr-texas-shooting-rcna30543"
+    },
+    {
+      "text": "The ReidOut Blog",
+      "url": "https://www.msnbc.com/reidoutblog"
+    },
+    {
+      "text": "Kent Nishimura / Los Angeles Times via Getty Images",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/senate-republicans-derail-bill-address-domestic-terrorism-rcna30733"
+    },
+    {
+      "text": "The Domestic Terrorism Prevention Act should've had full support. Guess who stopped it?",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/senate-republicans-derail-bill-address-domestic-terrorism-rcna30733"
     },
     {
       "text": "Maddowblog",
@@ -10059,48 +10259,12 @@
       "url": "https://www.msnbc.com/maddowblog"
     },
     {
-      "text": "Todd Kirkland / Getty Images, file",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/steve-kerr-texas-shooting-rcna30543"
+      "text": "Andrew Caballero-Reynolds / AFP - Getty Images",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-reportedly-didnt-problem-hang-mike-pence-chants-rcna30624"
     },
     {
-      "text": "Why gun violence is so personal to Warriors coach Steve Kerr",
-      "url": "https://www.msnbc.com/the-reidout/reidout-blog/steve-kerr-texas-shooting-rcna30543"
-    },
-    {
-      "text": "The ReidOut Blog",
-      "url": "https://www.msnbc.com/reidoutblog"
-    },
-    {
-      "text": "Stefani Reynolds / AFP - Getty Images file",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/school-shooting-texas-ag-paxton-calls-armed-teachers-rcna30444"
-    },
-    {
-      "text": "Texas AG channels Trump with his 'best answer' for stopping school shootings ",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/school-shooting-texas-ag-paxton-calls-armed-teachers-rcna30444"
-    },
-    {
-      "text": "Maddowblog",
-      "url": "https://www.msnbc.com/maddowblog"
-    },
-    {
-      "text": "Bill Clark / CQ-Roll Call via Getty Images",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/accused-leading-pre-riot-tour-gop-reps-story-evolves-rcna30357"
-    },
-    {
-      "text": "Accused of leading pre-riot tour, GOP rep\u2019s story evolves (again)",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/accused-leading-pre-riot-tour-gop-reps-story-evolves-rcna30357"
-    },
-    {
-      "text": "Maddowblog",
-      "url": "https://www.msnbc.com/maddowblog"
-    },
-    {
-      "text": "Kevin Dietsch / Getty Images, file",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/manchin-supports-gun-reforms-not-changes-filibuster-rules-rcna30468"
-    },
-    {
-      "text": "Manchin says he'll do 'anything' to pass gun reform \u2014 but not this",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/manchin-supports-gun-reforms-not-changes-filibuster-rules-rcna30468"
+      "text": "Trump's reported reaction to 'hang Mike Pence' chants is a democratic nightmare",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-reportedly-didnt-problem-hang-mike-pence-chants-rcna30624"
     },
     {
       "text": "Maddowblog",
@@ -10113,6 +10277,54 @@
     {
       "text": "MSNBC Daily",
       "url": "https://www.msnbc.com/opinion/columnists"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/texas-school-shooting-victims-show-tragedy-gun-violence-n1295700?icid=msd_topgrid"
+    },
+    {
+      "text": "a better way ",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/texas-school-shooting-victims-show-tragedy-gun-violence-n1295700?icid=msd_topgrid"
+    },
+    {
+      "text": "I'm a trauma doctor. Here's all I think you need to know about gun violence.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/texas-school-shooting-victims-show-tragedy-gun-violence-n1295700?icid=msd_topgrid"
+    },
+    {
+      "text": "Dr. Esther Choo",
+      "url": "https://www.msnbc.com/author/dr-esther-choo-ncpn847146"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/texas-school-shooting-shows-why-arming-teachers-wouldn-t-have-n1295693?icid=msd_topgrid"
+    },
+    {
+      "text": "wrong answer ",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/texas-school-shooting-shows-why-arming-teachers-wouldn-t-have-n1295693?icid=msd_topgrid"
+    },
+    {
+      "text": "How the Texas school shooting foiled one of the pro-gun GOP's favorite talking points ",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/texas-school-shooting-shows-why-arming-teachers-wouldn-t-have-n1295693?icid=msd_topgrid"
+    },
+    {
+      "text": "Zeeshan Aleem",
+      "url": "https://www.msnbc.com/author/zeeshan-aleem-ncpn1235332"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/after-texas-school-shooting-expect-congress-respond-inaction-n1295694?icid=msd_topgrid"
+    },
+    {
+      "text": "Nothing changes",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/after-texas-school-shooting-expect-congress-respond-inaction-n1295694?icid=msd_topgrid"
+    },
+    {
+      "text": "Just like that, Democrats punt on a vote on gun control ",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/after-texas-school-shooting-expect-congress-respond-inaction-n1295694?icid=msd_topgrid"
+    },
+    {
+      "text": "Michael A. Cohen",
+      "url": "https://www.msnbc.com/author/michael-cohen-ncpn1272869"
     },
     {
       "text": "",
@@ -10145,6 +10357,22 @@
     {
       "text": "Ruth Ben-Ghiat",
       "url": "https://www.msnbc.com/author/ruth-ben-ghiat-ncpn816876"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/herschel-walker-wins-georgia-s-republican-vote-cynical-fashion-n1295683?icid=msd_topgrid"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/herschel-walker-wins-georgia-s-republican-vote-cynical-fashion-n1295683?icid=msd_topgrid"
+    },
+    {
+      "text": "Herschel Walker's celebrity GOP candidacy is as cynical as it gets",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/herschel-walker-wins-georgia-s-republican-vote-cynical-fashion-n1295683?icid=msd_topgrid"
+    },
+    {
+      "text": "Jesse J. Holland",
+      "url": "https://www.msnbc.com/author/jesse-j-holland-ncpn1294300"
     },
     {
       "text": "",
@@ -10227,84 +10455,56 @@
       "url": "https://www.msnbc.com/author/ryan-cooper-ncpn1286766"
     },
     {
-      "text": "",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/georgia-s-rico-act-just-facade-restrict-free-speech-black-n1295579?icid=msd_topgrid"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/georgia-s-rico-act-just-facade-restrict-free-speech-black-n1295579?icid=msd_topgrid"
-    },
-    {
-      "text": "This Georgia law is crossing dangerous territory for free speech and Black expression",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/georgia-s-rico-act-just-facade-restrict-free-speech-black-n1295579?icid=msd_topgrid"
-    },
-    {
-      "text": "Evette Dionne",
-      "url": "https://www.msnbc.com/author/evette-dionne-ncpn1237804"
-    },
-    {
-      "text": "",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/abortion-rights-are-line-all-not-lost-n1295576?icid=msd_topgrid"
-    },
-    {
-      "text": "Let's talk ",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/abortion-rights-are-line-all-not-lost-n1295576?icid=msd_topgrid"
-    },
-    {
-      "text": "Why 'My Body, My Choice' is not the best slogan for reproductive justice",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/abortion-rights-are-line-all-not-lost-n1295576?icid=msd_topgrid"
-    },
-    {
-      "text": "Dr. Esther Choo",
-      "url": "https://www.msnbc.com/author/dr-esther-choo-ncpn847146"
-    },
-    {
-      "text": "",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/russia-wrongfully-detaining-brittney-griner-warrants-more-outrage-n1295548?icid=msd_topgrid"
-    },
-    {
-      "text": "speak up",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/russia-wrongfully-detaining-brittney-griner-warrants-more-outrage-n1295548?icid=msd_topgrid"
-    },
-    {
-      "text": "The heartbreaking betrayal of Russian hostage Brittney Griner",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/russia-wrongfully-detaining-brittney-griner-warrants-more-outrage-n1295548?icid=msd_topgrid"
-    },
-    {
-      "text": "Dave Zirin",
-      "url": "https://www.msnbc.com/author/dave-zirin--ncpn1263008"
-    },
-    {
-      "text": "",
-      "url": "https://www.msnbc.com/opinion/opinion/how-dr-oz-s-pennsylvania-campaign-betrays-muslims-n1295511?icid=msd_topgrid"
-    },
-    {
-      "text": "trumpian tendencies  ",
-      "url": "https://www.msnbc.com/opinion/opinion/how-dr-oz-s-pennsylvania-campaign-betrays-muslims-n1295511?icid=msd_topgrid"
-    },
-    {
-      "text": "Trump's islamophobia was no problem for 'Dr. Oz,' so why is he speaking up now?",
-      "url": "https://www.msnbc.com/opinion/opinion/how-dr-oz-s-pennsylvania-campaign-betrays-muslims-n1295511?icid=msd_topgrid"
-    },
-    {
-      "text": "Dean Obeidallah",
-      "url": "https://www.msnbc.com/author/dean-obeidallah-ncpn857856"
-    },
-    {
       "text": "Subscribe to MSNBC Daily",
       "url": "https://www.msnbc.com/daily-subscribe"
     },
     {
       "text": "",
-      "url": "https://www.msnbc.com/msnbc/watch/biden-i-am-sick-and-tired-of-gun-violence-in-america-140819525894"
+      "url": "https://www.msnbc.com/craig-melvin/watch/tight-knit-latino-community-mourning-together-in-uvalde-140923461808"
     },
     {
-      "text": "msnbc",
-      "url": "https://www.msnbc.com/msnbc/watch/biden-i-am-sick-and-tired-of-gun-violence-in-america-140819525894"
+      "text": "Craig Melvin",
+      "url": "https://www.msnbc.com/craig-melvin"
     },
     {
-      "text": "Biden: \u2018The 2nd amendment is not absolute' ",
-      "url": "https://www.msnbc.com/msnbc/watch/biden-i-am-sick-and-tired-of-gun-violence-in-america-140819525894"
+      "text": "'They're family': Survivor's guilt, trauma wracks Uvalde's tight-knit Latino community",
+      "url": "https://www.msnbc.com/craig-melvin/watch/tight-knit-latino-community-mourning-together-in-uvalde-140923461808"
+    },
+    {
+      "text": "Jordan Vonderhaar / Getty Images",
+      "url": "https://www.msnbc.com/msnbc/watch/watch-beto-o-rourke-confronts-texas-governor-at-shooting-news-conference-140810309550"
+    },
+    {
+      "text": "WATCH",
+      "url": "https://www.msnbc.com/msnbc/watch/watch-beto-o-rourke-confronts-texas-governor-at-shooting-news-conference-140810309550"
+    },
+    {
+      "text": "'This is on you': Beto O'Rourke confronts Gov. Abbott during Texas shooting press conference",
+      "url": "https://www.msnbc.com/msnbc/watch/watch-beto-o-rourke-confronts-texas-governor-at-shooting-news-conference-140810309550"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/msnbc-prime/watch/republicans-press-good-guy-with-a-gun-bromide-despite-fresh-failures-140851269786"
+    },
+    {
+      "text": "MSNBC Prime",
+      "url": "https://www.msnbc.com/msnbc-prime/watch/republicans-press-good-guy-with-a-gun-bromide-despite-fresh-failures-140851269786"
+    },
+    {
+      "text": "Republicans press 'good guy with a gun' bromide despite fresh failures",
+      "url": "https://www.msnbc.com/msnbc-prime/watch/republicans-press-good-guy-with-a-gun-bromide-despite-fresh-failures-140851269786"
+    },
+    {
+      "text": "",
+      "url": "https://www.msnbc.com/zerlina/watch/uvalde-shooting-leads-to-false-conspiracy-theory-140921925613"
+    },
+    {
+      "text": "Zerlina",
+      "url": "https://www.msnbc.com/zerlina/watch/uvalde-shooting-leads-to-false-conspiracy-theory-140921925613"
+    },
+    {
+      "text": "Trans woman's photos used to spread lies about Uvalde shooter's identity ",
+      "url": "https://www.msnbc.com/zerlina/watch/uvalde-shooting-leads-to-false-conspiracy-theory-140921925613"
     },
     {
       "text": "NBC News",
@@ -10317,30 +10517,6 @@
     {
       "text": "Joe: 'Radical', 'immoral' GOP thinks kids being shot in school is the cost of freedom",
       "url": "https://www.msnbc.com/morning-joe/watch/joe-scarborough-it-is-time-to-take-our-country-back-peacefully-140776517952"
-    },
-    {
-      "text": "MSNBC",
-      "url": "https://www.msnbc.com/deadline-white-house/watch/parkland-father-reacts-to-texas-school-shooting-how-many-more-times-140744261584"
-    },
-    {
-      "text": "Deadline White House",
-      "url": "https://www.msnbc.com/deadline-white-house"
-    },
-    {
-      "text": "Dad of Parkland victim to Sen. Cruz: Try to fix this or 'get your a-- out of office' ",
-      "url": "https://www.msnbc.com/deadline-white-house/watch/parkland-father-reacts-to-texas-school-shooting-how-many-more-times-140744261584"
-    },
-    {
-      "text": "",
-      "url": "https://www.msnbc.com/deadline-white-house/watch/texas-community-clings-to-faith-hope-after-elementary-school-mass-shooting-140824133638"
-    },
-    {
-      "text": "Deadline White House",
-      "url": "https://www.msnbc.com/deadline-white-house"
-    },
-    {
-      "text": "Texas school shooting victims were recognized at ceremony in final hours",
-      "url": "https://www.msnbc.com/deadline-white-house/watch/texas-community-clings-to-faith-hope-after-elementary-school-mass-shooting-140824133638"
     },
     {
       "text": "",
@@ -10367,96 +10543,92 @@
       "url": "https://www.msnbc.com/jose-diaz-balart/watch/texas-state-sen-gutierrez-recalls-uncontrollable-crying-of-parents-of-school-shooting-victims-140801093865"
     },
     {
-      "text": "",
-      "url": "https://www.msnbc.com/the-last-word/watch/lawrence-being-murdered-in-school-is-a-uniquely-american-way-of-death-140763717576"
+      "text": "Shopping",
+      "url": "https://www.nbcnews.com/select"
     },
     {
-      "text": "The Last Word",
-      "url": "https://www.msnbc.com/the-last-word"
+      "text": "Where to save on mattresses this Memorial Day",
+      "url": "https://www.nbcnews.com/select/shopping/best-memorial-day-mattress-sales-ncna1295765"
     },
     {
-      "text": "Lawrence: Being murdered in school is a uniquely American way of death",
-      "url": "https://www.msnbc.com/the-last-word/watch/lawrence-being-murdered-in-school-is-a-uniquely-american-way-of-death-140763717576"
+      "text": "'The wrong decision': Police admit string of failures in response to Texas school massacre",
+      "url": "https://www.nbcnews.com/news/us-news/police-admit-driving-right-shooter-failures-responding-texas-school-ma-rcna30845"
     },
     {
-      "text": "Nine monkeypox cases identified in U.S.: What we know about each of them",
-      "url": "https://www.nbcnews.com/health/health-news/us-monkeypox-cases-identified-rcna30388"
+      "text": "Federal judge dismisses Trump's bid to block N.Y. attorney general's tax fraud probe",
+      "url": "https://www.nbcnews.com/politics/donald-trump/federal-judge-dismisses-trumps-bid-block-ny-attorney-generals-tax-frau-rcna30881"
     },
     {
-      "text": "Minneapolis renames intersection to honor George Floyd",
-      "url": "https://www.nbcnews.com/news/nbcblk/minneapolis-renames-intersection-honor-george-floyd-rcna30658"
+      "text": "Death toll in Pennsylvania house explosion rises to 5",
+      "url": "https://www.nbcnews.com/news/us-news/death-toll-pennsylvania-house-explosion-rises-5-rcna30876"
     },
     {
-      "text": "Texas shooting leaves Sandy Hook survivors with anger, grief and a personal sense of failure",
-      "url": "https://www.nbcnews.com/news/us-news/texas-shooting-leaves-sandy-hook-survivors-anger-grief-personal-sense-rcna30453"
+      "text": "'We live praying the rosary every day': At the Uvalde town square, a shared anguish",
+      "url": "https://www.nbcnews.com/news/latino/-live-praying-rosary-every-day-uvalde-town-square-shared-anguish-rcna30841"
     },
     {
-      "text": "Ray Liotta, 'Goodfellas' star and gifted character actor, dies at 67",
-      "url": "https://www.nbcnews.com/pop-culture/movies/ray-liotta-goodfellas-star-gifted-character-actor-dies-67-rcna30690"
+      "text": "Southern Texas school district cancels classes after police foil 'credible threat of violence'",
+      "url": "https://www.nbcnews.com/news/us-news/southern-texas-school-district-cancels-classes-police-foil-credible-th-rcna30840"
     },
     {
-      "text": "Police in Dallas suburb find pistol, replica AR-15 in teen\u2019s car at high school day after Uvalde shooting",
-      "url": "https://www.nbcnews.com/news/us-news/police-dallas-suburb-find-pistol-replica-ar-15-teens-car-high-school-d-rcna30645"
+      "text": "Jan. 6 defendant who once posed as Hitler tells jurors he's an 'idiot' who didn't know Congress met at Capitol",
+      "url": "https://www.nbcnews.com/politics/justice-department/jan-6-defendant-posed-hitler-tells-jurors-idiot-didnt-know-congress-me-rcna30743"
     },
     {
-      "text": "Trump and his children must testify under oath in New York investigation, court rules",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-children-must-testify-oath-new-york-investigation-court-rules-rcna30681"
+      "text": "Quinta Brunson explains why there won't be a shooting episode of \u2018Abbott Elementary\u2019",
+      "url": "https://www.nbcnews.com/news/nbcblk/quinta-brunson-explains-wont-shooting-episode-abbott-elementary-rcna30827"
     },
     {
-      "text": "U.S. not looking for new Cold War with China but will defend the international order, Blinken says",
-      "url": "https://www.nbcnews.com/politics/national-security/us-not-looking-new-cold-war-china-will-defend-international-order-blin-rcna30560"
+      "text": "Yara Shahidi is officially a Harvard graduate",
+      "url": "https://www.nbcnews.com/news/nbcblk/yara-shahidi-officially-harvard-graduate-rcna30831"
     },
     {
-      "text": "Carnival cruise ship catches fire in Grand Turk",
-      "url": "https://www.nbcnews.com/news/world/carnival-cruise-ship-catches-fire-grand-turk-rcna30660"
+      "text": "At least 7 injured in tourist boat 'incident' in Western Australia ",
+      "url": "https://www.nbcnews.com/news/world/least-7-injured-tourist-boat-incident-western-australia-rcna30862"
     },
     {
-      "text": "How do dolphins name themselves? A study on signature whistles offers clues",
-      "url": "https://www.nbcnews.com/science/science-news/dolphins-name-study-signature-whistles-offers-clues-rcna30114"
+      "text": "Shopping",
+      "url": "https://www.nbcnews.com/select"
     },
     {
-      "text": "Actor Kevin Spacey charged with sexually assaulting three men, U.K. prosecutors say",
-      "url": "https://www.nbcnews.com/news/world/actor-kevin-spacey-charged-sexually-assaulting-three-men-uk-prosecutor-rcna30661"
+      "text": "Where to find the best Memorial Day sales",
+      "url": "https://www.nbcnews.com/select/shopping/best-memorial-day-sales-ncna1295742"
     },
     {
-      "text": "Russian advances are making the battle for the Donbas a \u2018different story\u2019 to the start of the war",
-      "url": "https://www.nbcnews.com/news/world/russia-gains-donbas-encircling-luhansk-severodonetsk-lysyschansk-rcna30615"
+      "text": "Alan White, drummer for Yes and John Lennon's  Plastic Ono Band, dies at 72",
+      "url": "https://www.nbcnews.com/pop-culture/music/alan-white-drummer-yes-john-lennons-plastic-ono-band-dies-72-rcna30855"
     },
     {
-      "text": "El Salvador's congress allows anti-gang emergency decree for another month",
-      "url": "https://www.nbcnews.com/news/latino/el-salvadors-congress-allows-anti-gang-emergency-decree-another-month-rcna30649"
+      "text": "A 25-year-old got in a taxi outside an NYC gay bar. He was dead an hour later.",
+      "url": "https://www.nbcnews.com/nbc-out/out-news/25-year-old-got-taxi-nyc-gay-bar-was-dead-hour-later-rcna29844"
     },
     {
-      "text": "BTS headed to the White House to discuss anti-Asian hate",
-      "url": "https://www.nbcnews.com/news/asian-america/bts-headed-white-house-discuss-anti-asian-hate-rcna30641"
+      "text": "'Good night': Uvalde school shooting survivors describe gunman's words before opening fire",
+      "url": "https://www.nbcnews.com/news/us-news/goodnight-uvalde-school-shooting-survivors-describe-gunmans-words-open-rcna30825"
     },
     {
-      "text": "Inside the key allegations in the Johnny Depp-Amber Heard trial",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/key-allegations-johnny-depp-amber-heard-trial-rcna30147"
+      "text": "Parole recommended for Charles Manson follower Krenwinkel ",
+      "url": "https://www.nbcnews.com/news/us-news/parole-recommended-charles-manson-follower-krenwinkel-rcna30819"
     },
     {
-      "text": "'More could have been done': Witnesses question law enforcement response to Texas school shooting",
-      "url": "https://www.nbcnews.com/news/us-news/-done-witnesses-question-law-enforcement-response-texas-school-shootin-rcna30609"
+      "text": "Southern Baptist leaders release once-secret list of accused abusers",
+      "url": "https://www.nbcnews.com/news/us-news/southern-baptist-leaders-release-secret-list-accused-abusers-rcna30807"
     },
     {
-      "text": "Texas official, tasked with identifying Uvalde shooting victims, finds bodies of classmate, friends' kids",
-      "url": "https://www.nbcnews.com/news/us-news/texas-official-tasked-identifying-uvalde-shooting-victims-finds-bodies-rcna30632"
+      "text": "Depp-Heard trial live updates: Closing arguments and jury deliberations begin",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/depp-heard-trial-live-updates-rcna30783"
     },
     {
-      "text": "Guilt overshadows relief for parents of students who survived Uvalde shooting: 'You can\u2019t be happy'",
-      "url": "https://www.nbcnews.com/news/latino/relief-parents-children-survived-uvalde-school-shooting-gives-way-guil-rcna30599"
+      "text": "In remote U.S. territories, abortion hurdles mount without Roe",
+      "url": "https://www.nbcnews.com/news/us-news/remote-us-territories-abortion-hurdles-mount-roe-rcna30812"
     },
     {
-      "text": "Senate GOP blocks domestic terrorism bill that Democrats have tied to guns",
-      "url": "https://www.nbcnews.com/politics/congress/senate-republicans-set-block-domestic-terrorism-bill-democrats-tied-gu-rcna30621"
+      "text": "Disaffected, radicalized young men are not a uniquely American problem. Mass shootings are.",
+      "url": "https://www.nbcnews.com/news/world/uk-problem-radicalization-not-shootings-difference-gun-access-rcna30611"
     },
     {
-      "text": "'Everybody was scared': Students describe harrowing moments after gunman entered Texas school",
-      "url": "https://www.nbcnews.com/news/us-news/s-time-die-students-describe-harrowing-moment-gunman-entered-uvalde-te-rcna30617"
-    },
-    {
-      "text": "Woman who wrote essay on 'How to Murder Your Husband' convicted of murdering her husband",
-      "url": "https://www.nbcnews.com/news/us-news/woman-wrote-essay-murder-husband-convicted-murdering-husband-rcna30629"
+      "text": "Ukraine pushed Russia back from its second city. Missiles are still tearing lives apart.",
+      "url": "https://www.nbcnews.com/news/world/ukraine-pushed-russia-back-kharkiv-missile-strikes-destruction-dead-rcna30602"
     },
     {
       "text": "See All",
@@ -10567,6 +10739,22 @@
       "url": "https://www.msnbc.com/knowyourvalue"
     },
     {
+      "text": "John Lamparski / NurPhoto via AP",
+      "url": "https://www.msnbc.com/know-your-value/out-of-office/uvalde-texas-school-shooting-project-unloaded-has-plan-change-young-n1295759"
+    },
+    {
+      "text": "This non-profit has a plan to change young people's minds about guns",
+      "url": "https://www.msnbc.com/know-your-value/out-of-office/uvalde-texas-school-shooting-project-unloaded-has-plan-change-young-n1295759"
+    },
+    {
+      "text": "Alessandra Tarantino / AP",
+      "url": "https://www.msnbc.com/know-your-value/out-of-office/u-s-soccer-equal-pay-deal-was-historic-3-big-n1295756"
+    },
+    {
+      "text": "The U.S. Soccer equal pay deal was historic, but 3 big factors could undermine it",
+      "url": "https://www.msnbc.com/know-your-value/out-of-office/u-s-soccer-equal-pay-deal-was-historic-3-big-n1295756"
+    },
+    {
       "text": "Mike Byrne",
       "url": "https://www.msnbc.com/know-your-value/career-growth/dr-jo-varshney-verisim-life-challenges-working-stem-woman-color-n1295728"
     },
@@ -10605,22 +10793,6 @@
     {
       "text": "Why my cousin who died in the Buffalo mass shooting would forgive the shooter",
       "url": "https://www.msnbc.com/know-your-value/out-of-office/my-cousin-died-buffalo-shooting-why-she-would-ve-forgiven-n1295522"
-    },
-    {
-      "text": "Tal Campbell",
-      "url": "https://www.msnbc.com/know-your-value/career-growth/class-2022-youngest-black-law-graduate-haley-taylor-schlitz-shares-n1295502"
-    },
-    {
-      "text": "Meet the woman who just became the youngest Black law school graduate",
-      "url": "https://www.msnbc.com/know-your-value/career-growth/class-2022-youngest-black-law-graduate-haley-taylor-schlitz-shares-n1295502"
-    },
-    {
-      "text": "JGI/Tom Grill / Getty Images/Tetra images RF",
-      "url": "https://www.msnbc.com/know-your-value/business-culture/great-resignation-what-consider-quitting-your-job-according-therapist-n1295471"
-    },
-    {
-      "text": "What to consider before quitting your job, according to a therapist",
-      "url": "https://www.msnbc.com/know-your-value/business-culture/great-resignation-what-consider-quitting-your-job-according-therapist-n1295471"
     },
     {
       "text": "Courtesy of Cat Rakowski",
@@ -10983,6 +11155,286 @@
       "url": "https://www.msnbc.com/the-last-word"
     },
     {
+      "text": "Ear Today",
+      "url": "https://www.hearing-aid-advice.com/d/best_hearing_aids_dis02/?utm_content=3105174766&utm_publisher_ID=nbcuniversal-msnbc&mkt_tool_id=98aff4&act=ACT0000038458ACT&utm_source=taboola&utm_medium=display&utm_campaign=us_en_al_ear_today_display_taboola_hea_secret_weapon_mini_acq_desktop_tcpa_cw01_ear-today-com-sc_ACT0000038458ACT&utm_creative_ID=3105174766&aud_adcopy=Seniors+With+Hearing+Loss+in+Texas+Regret+Not+Knowing+This+Sooner&tbclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCClmkkoubvHzfOKiY0j&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCClmkkoubvHzfOKiY0j#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCClmkkoubvHzfOKiY0j"
+    },
+    {
+      "text": "Ear Today / ",
+      "url": "https://www.hearing-aid-advice.com/d/best_hearing_aids_dis02/?utm_content=3105174766&utm_publisher_ID=nbcuniversal-msnbc&mkt_tool_id=98aff4&act=ACT0000038458ACT&utm_source=taboola&utm_medium=display&utm_campaign=us_en_al_ear_today_display_taboola_hea_secret_weapon_mini_acq_desktop_tcpa_cw01_ear-today-com-sc_ACT0000038458ACT&utm_creative_ID=3105174766&aud_adcopy=Seniors+With+Hearing+Loss+in+Texas+Regret+Not+Knowing+This+Sooner&tbclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCClmkkoubvHzfOKiY0j&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCClmkkoubvHzfOKiY0j#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCClmkkoubvHzfOKiY0j"
+    },
+    {
+      "text": "",
+      "url": "https://www.hearing-aid-advice.com/d/best_hearing_aids_dis02/?utm_content=3105174766&utm_publisher_ID=nbcuniversal-msnbc&mkt_tool_id=98aff4&act=ACT0000038458ACT&utm_source=taboola&utm_medium=display&utm_campaign=us_en_al_ear_today_display_taboola_hea_secret_weapon_mini_acq_desktop_tcpa_cw01_ear-today-com-sc_ACT0000038458ACT&utm_creative_ID=3105174766&aud_adcopy=Seniors+With+Hearing+Loss+in+Texas+Regret+Not+Knowing+This+Sooner&tbclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCClmkkoubvHzfOKiY0j&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCClmkkoubvHzfOKiY0j#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCClmkkoubvHzfOKiY0j"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
+    },
+    {
+      "text": "Particle for Men",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcuniversal-msnbc#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCc4EkolLyu17P60vPOAQ"
+    },
+    {
+      "text": "Particle for Men / ",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcuniversal-msnbc#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCc4EkolLyu17P60vPOAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcuniversal-msnbc#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCc4EkolLyu17P60vPOAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 1:"
+    },
+    {
+      "text": "The Legacy Report",
+      "url": "https://track.legacyclk.com/3b058580-5138-40c2-8225-56c547296440?site=nbcuniversal-msnbc&site_id=1012083&title=Renowned+PhD+Economist+who+called+the+2008+crash+makes+next+major+prediction%3A+%22Stranger+than+2020%22&platform=Desktop&campaign_id=18042595&campaign_item_id=3342376143&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F498ff04f3c2525f2eb8eabe409c20afa.jpg&click_id=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCi1T4o9Pqu7tHM5teCAQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCi1T4o9Pqu7tHM5teCAQ"
+    },
+    {
+      "text": "The Legacy Report / ",
+      "url": "https://track.legacyclk.com/3b058580-5138-40c2-8225-56c547296440?site=nbcuniversal-msnbc&site_id=1012083&title=Renowned+PhD+Economist+who+called+the+2008+crash+makes+next+major+prediction%3A+%22Stranger+than+2020%22&platform=Desktop&campaign_id=18042595&campaign_item_id=3342376143&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F498ff04f3c2525f2eb8eabe409c20afa.jpg&click_id=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCi1T4o9Pqu7tHM5teCAQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCi1T4o9Pqu7tHM5teCAQ"
+    },
+    {
+      "text": "",
+      "url": "https://track.legacyclk.com/3b058580-5138-40c2-8225-56c547296440?site=nbcuniversal-msnbc&site_id=1012083&title=Renowned+PhD+Economist+who+called+the+2008+crash+makes+next+major+prediction%3A+%22Stranger+than+2020%22&platform=Desktop&campaign_id=18042595&campaign_item_id=3342376143&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F498ff04f3c2525f2eb8eabe409c20afa.jpg&click_id=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCi1T4o9Pqu7tHM5teCAQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCi1T4o9Pqu7tHM5teCAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "Luxury SUV Savings",
+      "url": "https://popularsearches.net/index.php?rgid=202111&gclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCM41YomIjJlevL2fc7#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCM41YomIjJlevL2fc7"
+    },
+    {
+      "text": "Luxury SUV Savings / ",
+      "url": "https://popularsearches.net/index.php?rgid=202111&gclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCM41YomIjJlevL2fc7#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCM41YomIjJlevL2fc7"
+    },
+    {
+      "text": "",
+      "url": "https://popularsearches.net/index.php?rgid=202111&gclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCM41YomIjJlevL2fc7#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCM41YomIjJlevL2fc7"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "Particle for Men",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcuniversal-msnbc#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCc4Eko9PPnq6KgpvaWAQ"
+    },
+    {
+      "text": "Particle for Men / ",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcuniversal-msnbc#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCc4Eko9PPnq6KgpvaWAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=nbcuniversal-msnbc#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCc4Eko9PPnq6KgpvaWAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "GoldCo",
+      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=nbcuniversal-msnbc&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1012083&click_id=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC4tlEomumDou2oiL50&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC4tlEomumDou2oiL50#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC4tlEomumDou2oiL50"
+    },
+    {
+      "text": "GoldCo / ",
+      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=nbcuniversal-msnbc&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1012083&click_id=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC4tlEomumDou2oiL50&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC4tlEomumDou2oiL50#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC4tlEomumDou2oiL50"
+    },
+    {
+      "text": "",
+      "url": "https://track.roinattrack.com/de6759fa-4020-4036-b895-e7bd81949126?site=nbcuniversal-msnbc&title=This+Secret+IRS+Loophole+May+Change+Your+Life&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F71bce0bb88fcb8e9abb76a60933777d2.jpg&campaign_item={campaign_item}&campid=16874357&campaign_item_id=3177816860&site_id=1012083&click_id=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC4tlEomumDou2oiL50&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC4tlEomumDou2oiL50#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC4tlEomumDou2oiL50"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 2:"
+    },
+    {
+      "text": "Capital One Shopping",
+      "url": "https://capitaloneshopping.com/blog/is-amazon-actually-giving-you-the-best-price-779e00e8958e?hno=true&utm_source=jaguar11&utm_campaign=18082371&utm_term=3355406691&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDR3kAo9cCW6Zq1turUAQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDR3kAo9cCW6Zq1turUAQ"
+    },
+    {
+      "text": "Capital One Shopping / ",
+      "url": "https://capitaloneshopping.com/blog/is-amazon-actually-giving-you-the-best-price-779e00e8958e?hno=true&utm_source=jaguar11&utm_campaign=18082371&utm_term=3355406691&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDR3kAo9cCW6Zq1turUAQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDR3kAo9cCW6Zq1turUAQ"
+    },
+    {
+      "text": "",
+      "url": "https://capitaloneshopping.com/blog/is-amazon-actually-giving-you-the-best-price-779e00e8958e?hno=true&utm_source=jaguar11&utm_campaign=18082371&utm_term=3355406691&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDR3kAo9cCW6Zq1turUAQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDR3kAo9cCW6Zq1turUAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "2022 SUV Guide | Search Ads",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDO51copdWijura1JNs#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDO51copdWijura1JNs"
+    },
+    {
+      "text": "2022 SUV Guide | Search Ads / ",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDO51copdWijura1JNs#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDO51copdWijura1JNs"
+    },
+    {
+      "text": "",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDO51copdWijura1JNs#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDO51copdWijura1JNs"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 3:"
+    },
+    {
+      "text": "Unify Health Labs",
+      "url": "https://www2.yourhealthygut.com/cid/7013w000002HEb9AAG?subid1=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEsomdfzr4356LH-AQ&utm_content=site_nbcuniversal-msnbc_campaign_id_3234274813_&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEsomdfzr4356LH-AQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEsomdfzr4356LH-AQ"
+    },
+    {
+      "text": "Unify Health Labs / ",
+      "url": "https://www2.yourhealthygut.com/cid/7013w000002HEb9AAG?subid1=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEsomdfzr4356LH-AQ&utm_content=site_nbcuniversal-msnbc_campaign_id_3234274813_&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEsomdfzr4356LH-AQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEsomdfzr4356LH-AQ"
+    },
+    {
+      "text": "",
+      "url": "https://www2.yourhealthygut.com/cid/7013w000002HEb9AAG?subid1=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEsomdfzr4356LH-AQ&utm_content=site_nbcuniversal-msnbc_campaign_id_3234274813_&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEsomdfzr4356LH-AQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEsomdfzr4356LH-AQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "StuffAnswered",
+      "url": "https://stuffanswered.com/results/?utm_medium=paid&utm_source=taboola&utm_campaign=us-tb2clkctaoptrav-yg-resort_offhrs-smrt-q53-web&campaign_id=18237851&adid=3399355970&utm_term=nbcuniversal-msnbc&placement=nbcuniversal-msnbc&imp=49036&campaign_id=18237851&utm_term=nbcuniversal-msnbc&ts=2022-05-27+18%3A06%3A24#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDgkE8olb7Byo_mgoTsAQ"
+    },
+    {
+      "text": "StuffAnswered / ",
+      "url": "https://stuffanswered.com/results/?utm_medium=paid&utm_source=taboola&utm_campaign=us-tb2clkctaoptrav-yg-resort_offhrs-smrt-q53-web&campaign_id=18237851&adid=3399355970&utm_term=nbcuniversal-msnbc&placement=nbcuniversal-msnbc&imp=49036&campaign_id=18237851&utm_term=nbcuniversal-msnbc&ts=2022-05-27+18%3A06%3A24#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDgkE8olb7Byo_mgoTsAQ"
+    },
+    {
+      "text": "",
+      "url": "https://stuffanswered.com/results/?utm_medium=paid&utm_source=taboola&utm_campaign=us-tb2clkctaoptrav-yg-resort_offhrs-smrt-q53-web&campaign_id=18237851&adid=3399355970&utm_term=nbcuniversal-msnbc&placement=nbcuniversal-msnbc&imp=49036&campaign_id=18237851&utm_term=nbcuniversal-msnbc&ts=2022-05-27+18%3A06%3A24#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDgkE8olb7Byo_mgoTsAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "Alaska Cruise Deals | sponsored searches",
+      "url": "https://gosearches.net/index.php?rgid=134812&sub=nbcuniversal-msnbc#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCjoVIo18nci52T5qG4AQ"
+    },
+    {
+      "text": "Alaska Cruise Deals | sponsored searches / ",
+      "url": "https://gosearches.net/index.php?rgid=134812&sub=nbcuniversal-msnbc#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCjoVIo18nci52T5qG4AQ"
+    },
+    {
+      "text": "",
+      "url": "https://gosearches.net/index.php?rgid=134812&sub=nbcuniversal-msnbc#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCCjoVIo18nci52T5qG4AQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "hear.com",
+      "url": "https://www.hear.com/d/best_hearing_aids_dis02/?utm_content=3181951130&utm_publisher_ID=nbcuniversal-msnbc&mkt_tool_id=9965c1&act=ACT0000030098ACT&utm_source=taboola&utm_medium=display&utm_campaign=us_en_al_hea_display_taboola_horizon_secret_weapon_acq_desktop_hear-com-sc_ACT0000030098ACT&utm_creative_ID=3181951130&aud_adcopy=Dr.+Vietor+Confirms%3A+These+Are+The+Smartest+Hearing+Aids+Ever&tbclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC0gj8o38bhyuKCoMkB&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC0gj8o38bhyuKCoMkB#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC0gj8o38bhyuKCoMkB"
+    },
+    {
+      "text": "hear.com / ",
+      "url": "https://www.hear.com/d/best_hearing_aids_dis02/?utm_content=3181951130&utm_publisher_ID=nbcuniversal-msnbc&mkt_tool_id=9965c1&act=ACT0000030098ACT&utm_source=taboola&utm_medium=display&utm_campaign=us_en_al_hea_display_taboola_horizon_secret_weapon_acq_desktop_hear-com-sc_ACT0000030098ACT&utm_creative_ID=3181951130&aud_adcopy=Dr.+Vietor+Confirms%3A+These+Are+The+Smartest+Hearing+Aids+Ever&tbclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC0gj8o38bhyuKCoMkB&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC0gj8o38bhyuKCoMkB#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC0gj8o38bhyuKCoMkB"
+    },
+    {
+      "text": "",
+      "url": "https://www.hear.com/d/best_hearing_aids_dis02/?utm_content=3181951130&utm_publisher_ID=nbcuniversal-msnbc&mkt_tool_id=9965c1&act=ACT0000030098ACT&utm_source=taboola&utm_medium=display&utm_campaign=us_en_al_hea_display_taboola_horizon_secret_weapon_acq_desktop_hear-com-sc_ACT0000030098ACT&utm_creative_ID=3181951130&aud_adcopy=Dr.+Vietor+Confirms%3A+These+Are+The+Smartest+Hearing+Aids+Ever&tbclid=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC0gj8o38bhyuKCoMkB&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC0gj8o38bhyuKCoMkB#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC0gj8o38bhyuKCoMkB"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-4x1:Below Homepage Thumbnails | Card 4:"
+    },
+    {
+      "text": "StuffAnswered",
+      "url": "https://stuffanswered.com/results/?utm_medium=paid&utm_source=taboola&utm_campaign=us-tb2clkctaopauto-yg-silev_offhrs-smrt-q53-web&campaign_id=18221417&adid=3392816823&utm_term=nbcuniversal-msnbc&placement=nbcuniversal-msnbc&imp=49033&campaign_id=18221417&utm_term=nbcuniversal-msnbc&ts=2022-05-27+18%3A06%3A24#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDckE8o_JTQ7-3gvZ8X"
+    },
+    {
+      "text": "StuffAnswered / ",
+      "url": "https://stuffanswered.com/results/?utm_medium=paid&utm_source=taboola&utm_campaign=us-tb2clkctaopauto-yg-silev_offhrs-smrt-q53-web&campaign_id=18221417&adid=3392816823&utm_term=nbcuniversal-msnbc&placement=nbcuniversal-msnbc&imp=49033&campaign_id=18221417&utm_term=nbcuniversal-msnbc&ts=2022-05-27+18%3A06%3A24#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDckE8o_JTQ7-3gvZ8X"
+    },
+    {
+      "text": "",
+      "url": "https://stuffanswered.com/results/?utm_medium=paid&utm_source=taboola&utm_campaign=us-tb2clkctaopauto-yg-silev_offhrs-smrt-q53-web&campaign_id=18221417&adid=3392816823&utm_term=nbcuniversal-msnbc&placement=nbcuniversal-msnbc&imp=49033&campaign_id=18221417&utm_term=nbcuniversal-msnbc&ts=2022-05-27+18%3A06%3A24#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCDckE8o_JTQ7-3gvZ8X"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 5:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 5:"
+    },
+    {
+      "text": "Unify Health Labs",
+      "url": "https://www2.yourhealthygut.com/cid/7013w000002HFJdAAO?subid1=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEso_-by0_HHyI6IAQ&utm_content=site_nbcuniversal-msnbc_campaign_id_3362742695_&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEso_-by0_HHyI6IAQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEso_-by0_HHyI6IAQ"
+    },
+    {
+      "text": "Unify Health Labs / ",
+      "url": "https://www2.yourhealthygut.com/cid/7013w000002HFJdAAO?subid1=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEso_-by0_HHyI6IAQ&utm_content=site_nbcuniversal-msnbc_campaign_id_3362742695_&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEso_-by0_HHyI6IAQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEso_-by0_HHyI6IAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www2.yourhealthygut.com/cid/7013w000002HFJdAAO?subid1=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEso_-by0_HHyI6IAQ&utm_content=site_nbcuniversal-msnbc_campaign_id_3362742695_&tblci=GiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEso_-by0_HHyI6IAQ#tblciGiBmKfMg2pj3_B8if8avHxQLyCMl-LXT9GjbE9tPFhzWBCC-pEso_-by0_HHyI6IAQ"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 5:"
+    },
+    {
+      "text": "SPONSORED",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=nbcuniversal-msnbc&utm_medium=referral&utm_content=thumbnails-feed-2x1:Below Homepage Thumbnails | Card 5:"
+    },
+    {
       "text": "",
       "url": "https://www.msnbc.com"
     },
@@ -11060,7 +11512,7 @@
     }
   ],
   "server": "ia601005.us.archive.org",
-  "uniq": 902426495,
+  "uniq": 472324806,
   "workable_servers": [
     "ia601005.us.archive.org",
     "ia801005.us.archive.org"

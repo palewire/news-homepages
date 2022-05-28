@@ -1,5 +1,5 @@
 {
-  "created": 1653611076,
+  "created": 1653697289,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/4/items/thelasentinel-2022",
@@ -4172,31 +4172,73 @@
       "sha1": "1bf1e0df79a280bc63a692f88abbae482063b420"
     },
     {
+      "name": "thelasentinel-2022-05-26T19:17:21.749030-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653617845",
+      "size": "38759",
+      "md5": "863386c254595db5d7bbc9e18b00647f",
+      "crc32": "5cd12ed0",
+      "sha1": "470e036643099a7195a49959f983a07f308fc984",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-05-26T19:17:21.749030-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653617848",
+      "size": "44591",
+      "md5": "0cc8ea49deb82c61f013abbded2990db",
+      "crc32": "b6ad4bf9",
+      "sha1": "5b6e10c1316740b6a9cad971f1371db1557f1c64",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-05-26T19:17:21.749030-07:00.jpg",
+      "source": "original",
+      "mtime": "1653617843",
+      "size": "354860",
+      "md5": "5255bbdd6827de917b1a4a417afc9b82",
+      "crc32": "4eed737f",
+      "sha1": "2d4a7ae14c6306da5d2663695acbde674cdab780",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-05-26T19:17:21.749030-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-05-26T19:17:21.749030-07:00.jpg",
+      "mtime": "1653619076",
+      "size": "9928",
+      "md5": "56c69fa3fc0222b523ac075a7a81f72b",
+      "crc32": "db898afc",
+      "sha1": "d0c777e6fad8978ad147b4fca4041df4f80921db"
+    },
+    {
       "name": "thelasentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a37de46593a6201f696dcad002d838d64223af75",
-      "mtime": "1653578470",
-      "size": "87542",
-      "md5": "4a034b24c17e27dd299d404520864a63",
-      "crc32": "19f34967",
-      "sha1": "fc0f8abab2913480d4110f9a822054bc48696512",
+      "btih": "eecf8553642e279208f15bdffe1eeef1acb0bd14",
+      "mtime": "1653619138",
+      "size": "88411",
+      "md5": "1ba7ac54c80e3b3d2be59be3de52a1f3",
+      "crc32": "546a2deb",
+      "sha1": "74e96bca0ebc124147fba14b8a129c998ad5b56e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelasentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "16cd7a744d8b565a73b7808627646161",
+      "md5": "c324be2139769903871bc229804174b3",
       "summation": "md5"
     },
     {
       "name": "thelasentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653577606",
-      "size": "466944",
-      "md5": "b39ef18b845f4c8519ef5fa903f55c93",
-      "crc32": "b0b501b2",
-      "sha1": "0a7f08081657e4743c41d3bf84c3a2f4ec5bd370",
+      "mtime": "1653618881",
+      "size": "475136",
+      "md5": "83d91ec84c6e9b1dfbe9bea4455a2c94",
+      "crc32": "27fd47d8",
+      "sha1": "ece668af32b47fc9974d9b71ea129b045d9ccf41",
       "format": "Metadata"
     },
     {
@@ -4210,9 +4252,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 400,
-  "item_last_updated": 1653578470,
-  "item_size": 53680643,
+  "files_count": 404,
+  "item_last_updated": 1653619138,
+  "item_size": 54137842,
   "metadata": {
     "identifier": "thelasentinel-2022",
     "collection": [
@@ -4248,7 +4290,7 @@
       "url": "/epaper"
     },
     {
-      "text": " Subscribe //<![CDATA[\n(function(){for(var g=\"function\"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError(\"ES3 does not support getters and setters.\");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h=\"undefined\"!=typeof window&&window===this?this:\"undefined\"!=typeof global&&null!=global?global:this,k=[\"String\",\"prototype\",\"repeat\"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError(\"The 'this' value for String.prototype.repeat must not be null or undefined\");c=this+\"\";if(0>b||1342177279<b)throw new RangeError(\"Invalid count value\");b|=0;for(var a=\"\";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split(\".\"),d=t;a[0]in d||!d.execScript||d.execScript(\"var \"+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener(\"load\",b,!1);else if(c.attachEvent)c.attachEvent(\"onload\",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute(\"data-pagespeed-url-hash\");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+(\"pageYOffset\"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+(\"pageXOffset\"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+\",\"+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u(\"pagespeed.CriticalImages.checkImageForCriticality\",function(b){x.checkImageForCriticality(b)});u(\"pagespeed.CriticalImages.checkCriticalImages\",function(){A(x)});function A(b){b.b={};for(var c=[\"IMG\",\"INPUT\"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a=\"oh=\"+b.l;b.f&&(a+=\"&n=\"+b.f);if(c=!!b.a.length)for(a+=\"&ci=\"+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=\",\"+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e=\"&rd=\"+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject(\"Msxml2.XMLHTTP\")}catch(r){try{f=new ActiveXObject(\"Microsoft.XMLHTTP\")}catch(D){}}f&&(f.open(\"POST\",d+(-1==d.indexOf(\"?\")?\"?\":\"&\")+\"url=\"+encodeURIComponent(b)),f.setRequestHeader(\"Content-Type\",\"application/x-www-form-urlencoded\"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName(\"IMG\");if(!c.length)return{};var a=c[0];if(!(\"naturalWidth\"in a&&\"naturalHeight\"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute(\"data-pagespeed-url-hash\");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C=\"\";u(\"pagespeed.CriticalImages.getBeaconData\",function(){return C});u(\"pagespeed.CriticalImages.Run\",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://lasentinel.net/','82dtZm2p5Q',true,false,'4HJJlxhnWKc');\n//]]>",
+      "text": " Subscribe ",
       "url": "/subscribe"
     },
     {
@@ -4812,20 +4854,20 @@
       "url": "https://lasentinel.net/royale-coalition-presents-on-the-line-offers-new-perspective-on-mental-health-in-the-black-community.html"
     },
     {
-      "text": "News (Entertainment)",
-      "url": "https://lasentinel.net/entertainment/news-entertainment"
-    },
-    {
-      "text": "Pink Pump Affair Raises $500k for Autistic and Special Needs Children",
-      "url": "https://lasentinel.net/pink-pump-affair-raises-500k-for-autistic-and-special-needs-children.html"
-    },
-    {
       "text": "Celebration of Life",
       "url": "https://lasentinel.net/news/celebration-of-life"
     },
     {
       "text": "Derf Reklaw, Renowned Jazz Musician, Succumbs",
       "url": "https://lasentinel.net/derf-reklaw-renowned-jazz-musician-succumbs.html"
+    },
+    {
+      "text": "News (Entertainment)",
+      "url": "https://lasentinel.net/entertainment/news-entertainment"
+    },
+    {
+      "text": "Pink Pump Affair Raises $500k for Autistic and Special Needs Children",
+      "url": "https://lasentinel.net/pink-pump-affair-raises-500k-for-autistic-and-special-needs-children.html"
     },
     {
       "text": "ASK DR. JEANETTE, SUCCESS ON THE WAY",
@@ -4892,20 +4934,20 @@
       "url": "https://lasentinel.net/royale-coalition-presents-on-the-line-offers-new-perspective-on-mental-health-in-the-black-community.html"
     },
     {
-      "text": "News (Entertainment)",
-      "url": "https://lasentinel.net/entertainment/news-entertainment"
-    },
-    {
-      "text": "Pink Pump Affair Raises $500k for Autistic and Special Needs Children",
-      "url": "https://lasentinel.net/pink-pump-affair-raises-500k-for-autistic-and-special-needs-children.html"
-    },
-    {
       "text": "Celebration of Life",
       "url": "https://lasentinel.net/news/celebration-of-life"
     },
     {
       "text": "Derf Reklaw, Renowned Jazz Musician, Succumbs",
       "url": "https://lasentinel.net/derf-reklaw-renowned-jazz-musician-succumbs.html"
+    },
+    {
+      "text": "News (Entertainment)",
+      "url": "https://lasentinel.net/entertainment/news-entertainment"
+    },
+    {
+      "text": "Pink Pump Affair Raises $500k for Autistic and Special Needs Children",
+      "url": "https://lasentinel.net/pink-pump-affair-raises-500k-for-autistic-and-special-needs-children.html"
     },
     {
       "text": "",
@@ -4918,14 +4960,6 @@
     {
       "text": "Read More \u00bb",
       "url": "https://lasentinel.net/sentinel-editorial-u-s-senator-alex-padilla-a-lifetime-of-serving-communities-of-color-fighting-for-those-left-out-of-the-american-dream.html"
-    },
-    {
-      "text": "",
-      "url": "https://lasentinel.net/celebrity-designer-and-opening-number-for-city-girls-big-chan-is-the-complete-package.html"
-    },
-    {
-      "text": "Celebrity Designer and Opening Number for City Girls, Big Chan is the Complete Package",
-      "url": "https://lasentinel.net/celebrity-designer-and-opening-number-for-city-girls-big-chan-is-the-complete-package.html"
     },
     {
       "text": "",
@@ -4945,6 +4979,14 @@
     },
     {
       "text": "",
+      "url": "https://lasentinel.net/smallwood-cuevas-dominates-in-race-for-california-state-senate.html"
+    },
+    {
+      "text": "Smallwood-Cuevas Dominates in Race for California State Senate\u00a0",
+      "url": "https://lasentinel.net/smallwood-cuevas-dominates-in-race-for-california-state-senate.html"
+    },
+    {
+      "text": "",
       "url": "https://lasentinel.net/rhambo-makes-deputy-gangs-a-cornerstone-of-his-campaign.html"
     },
     {
@@ -4953,11 +4995,11 @@
     },
     {
       "text": "",
-      "url": "https://lasentinel.net/smallwood-cuevas-dominates-in-race-for-california-state-senate.html"
+      "url": "https://lasentinel.net/celebrity-designer-and-opening-number-for-city-girls-big-chan-is-the-complete-package.html"
     },
     {
-      "text": "Smallwood-Cuevas Dominates in Race for California State Senate\u00a0",
-      "url": "https://lasentinel.net/smallwood-cuevas-dominates-in-race-for-california-state-senate.html"
+      "text": "Celebrity Designer and Opening Number for City Girls, Big Chan is the Complete Package",
+      "url": "https://lasentinel.net/celebrity-designer-and-opening-number-for-city-girls-big-chan-is-the-complete-package.html"
     },
     {
       "text": "Poor People\u2019s Campaign Holds Moral Monday March on L.A. City Hall\u00a0",
@@ -5022,6 +5064,14 @@
     {
       "text": "",
       "url": "https://lasentinel.net/california-college-students-can-apply-for-10000-stipend.html"
+    },
+    {
+      "text": "19 Children and Two Teachers Killed at Texas Elementary School",
+      "url": "https://lasentinel.net/19-children-and-two-teachers-killed-at-texas-elementary-school.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/19-children-and-two-teachers-killed-at-texas-elementary-school.html"
     },
     {
       "text": "ASK DR. JEANETTE, SUCCESS ON THE WAY",
@@ -5240,24 +5290,28 @@
       "url": "https://lasentinel.net/drawing-a-fine-line-for-black-art-with-visionary-artist-shantell-martin.html"
     },
     {
-      "text": "NEWS (ENTERTAINMENT)",
-      "url": "https://lasentinel.net/entertainment/news-entertainment"
+      "text": "CELEBRATION OF LIFE",
+      "url": "https://lasentinel.net/news/celebration-of-life"
     },
     {
-      "text": "Pink Pump Affair Raises $500k for Autistic and Special Needs Children",
-      "url": "https://lasentinel.net/pink-pump-affair-raises-500k-for-autistic-and-special-needs-children.html"
+      "text": "Derf Reklaw, Renowned Jazz Musician, Succumbs",
+      "url": "https://lasentinel.net/derf-reklaw-renowned-jazz-musician-succumbs.html"
     },
     {
       "text": "",
-      "url": "https://lasentinel.net/pink-pump-affair-raises-500k-for-autistic-and-special-needs-children.html"
+      "url": "https://lasentinel.net/derf-reklaw-renowned-jazz-musician-succumbs.html"
     },
     {
-      "text": "More News (Entertainment)",
-      "url": "https://lasentinel.net/entertainment/news-entertainment"
+      "text": "More Celebration of Life",
+      "url": "https://lasentinel.net/news/celebration-of-life"
     },
     {
-      "text": "Top 3 finalist Amira Unplugged from \u2018Becoming a Popstar\u2019",
-      "url": "https://lasentinel.net/top-3-finalist-amira-unplugged-from-becoming-a-popstar.html"
+      "text": "Burrell Communications Group Mourns One of Its Finest",
+      "url": "https://lasentinel.net/burrell-communications-group-mourns-one-of-its-finest.html"
+    },
+    {
+      "text": "We Speak Their Names:\u00a0 Honoring the Victims of the Buffalo Shooting\u00a0",
+      "url": "https://lasentinel.net/we-speak-their-names-honoring-the-victims-of-the-buffalo-shooting.html"
     },
     {
       "text": "WATCH: Black Money Matters Ep.1",
@@ -5684,7 +5738,7 @@
       "url": "http://tasteofsoul.org/"
     }
   ],
-  "uniq": 1484288580,
+  "uniq": 2076073040,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"
