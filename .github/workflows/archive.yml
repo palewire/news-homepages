@@ -27,7 +27,7 @@ jobs:
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - id: install
         name: Install Python dependencies
@@ -50,7 +50,7 @@ jobs:
 #    steps:
 #      - id: checkout
 #        name: Checkout
-#        uses: actions/checkout@v2
+#        uses: actions/checkout@v3
 
 #      - id: install
 #        name: Install
@@ -73,7 +73,7 @@ jobs:
 #    steps:
 #      - id: checkout
 #        name: Checkout
-#        uses: actions/checkout@v2
+#        uses: actions/checkout@v3
 
 #      - id: install
 #        name: Install
@@ -96,7 +96,7 @@ jobs:
 #    steps:
 #      - id: checkout
 #        name: Checkout
-#        uses: actions/checkout@v2
+#        uses: actions/checkout@v3
 
 #      - id: install
 #        name: Install
@@ -121,7 +121,7 @@ jobs:
 #    steps:
 #      - id: checkout
 #        name: Checkout
-#        uses: actions/checkout@v2
+#        uses: actions/checkout@v3
 
 #      - id: install
 #        name: Install
@@ -147,7 +147,7 @@ jobs:
 #    steps:
 #      - id: checkout
 #        name: Checkout
-#        uses: actions/checkout@v2
+#        uses: actions/checkout@v3
 
 #      - id: commit
 #        name: Commit
