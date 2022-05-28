@@ -12,14 +12,14 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - id: install-extras
-      name: Install Ubuntu codecs and extras
-      run: |
-        sudo apt-get update
-        sudo apt-get install xorg openbox xinit lightdm
-        sudo systemctl start lightdm
+#    - id: install-extras
+#      name: Install Ubuntu codecs and extras
+#      run: |
+#        sudo apt-get update
+#        sudo apt-get install xorg openbox xinit lightdm
+#        sudo systemctl start lightdm
 #        sudo apt install -y ubuntu-restricted-extras ffmpeg libavcodec-extra xvfb libxcb-dri3-dev
-      shell: bash
+#      shell: bash
 
     - id: cache-playwright
       name: Cache Playwright browsers
@@ -35,7 +35,7 @@ runs:
 
     - id: shoot
       name: Take screenshot
-      run: xvfb-run pipenv run python -m newshomepages.screenshot ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot ${{ inputs.command }} ${{ inputs.source }} -o _dist
       shell: bash
 
     - id: save
