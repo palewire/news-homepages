@@ -1,4 +1,5 @@
 import logging
+import tempfile
 import time
 import typing
 from pathlib import Path
@@ -51,7 +52,7 @@ def _shoot(site: typing.Dict, output_dir: str):
         click.echo("Launching Chromium browser")
         path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
         context = playwright.chromium.launch_persistent_context(
-            "./.chromium",
+            tempfile.mkdtemp(),
             channel="chrome",
             headless=False,
             args=[
