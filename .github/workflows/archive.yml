@@ -23,7 +23,7 @@ jobs:
 #    needs: sources
     strategy:
       matrix:
-        source: ["latimes",]
+        source: ["cnn",]
 #        source: ${{fromJson(needs.sources.outputs.matrix)}}
     steps:
       - id: checkout
