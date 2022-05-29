@@ -1,5 +1,5 @@
 {
-  "created": 1653697148,
+  "created": 1653783650,
   "d1": "ia601806.us.archive.org",
   "d2": "ia801806.us.archive.org",
   "dir": "/20/items/humanevents-2022",
@@ -2140,31 +2140,73 @@
       "sha1": "cfdb14a2ef061ac1914b7584159b71abea2eda88"
     },
     {
+      "name": "humanevents-2022-05-28T14:44:10.883392-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653763458",
+      "size": "15813",
+      "md5": "5f55570c6ab951795e64714e0c4c2898",
+      "crc32": "5a17dff4",
+      "sha1": "92fe148490273aacdbaa13a29da0d5f061ae1a09",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-05-28T14:44:10.883392-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653763460",
+      "size": "25092",
+      "md5": "16cc64a7fbc55a039c9ad20040348923",
+      "crc32": "9ff1d730",
+      "sha1": "82aab778ce813203928d03db6e391c421805a40c",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-05-28T14:44:10.883392-04:00.jpg",
+      "source": "original",
+      "mtime": "1653763454",
+      "size": "261459",
+      "md5": "0f8d5b0c38ec05d9f01389070c20cbc7",
+      "crc32": "b810af2e",
+      "sha1": "1128e6614b4744524e3928400297babf6d776dc5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-05-28T14:44:10.883392-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-05-28T14:44:10.883392-04:00.jpg",
+      "mtime": "1653764294",
+      "size": "10744",
+      "md5": "2cac237ad07651f91d37d6b760cb286f",
+      "crc32": "f536ba3c",
+      "sha1": "9005a80123e542170f662c25f1afcf1be19dce91"
+    },
+    {
       "name": "humanevents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9437c0ab2267b34d37c6d929decab52766065405",
-      "mtime": "1653678684",
-      "size": "44820",
-      "md5": "5b106bfe87bba1bd474e0a7262429582",
-      "crc32": "fda8e555",
-      "sha1": "af41c615625eada74809d2721a57fa692d69e54e",
+      "btih": "673da1a77a9f558a8b84f681c8d9734c58d8776b",
+      "mtime": "1653764304",
+      "size": "45682",
+      "md5": "f2290fae6ee4d1b859d8127f2bcdd493",
+      "crc32": "ee7e5461",
+      "sha1": "2fbdd1d453109607f1591952531bc50eca914a85",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humanevents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0645ed51321d27a1736e91320a80d6f6",
+      "md5": "f3d41200b597488ddc0532b59b545893",
       "summation": "md5"
     },
     {
       "name": "humanevents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653677117",
-      "size": "249856",
-      "md5": "f1cb58def3c2b4217dcadbebffd56bf6",
-      "crc32": "b493b698",
-      "sha1": "2e65d28196975015de57bdf03484c3a26140020e",
+      "mtime": "1653763465",
+      "size": "253952",
+      "md5": "d90b06259e9e0df6bc5cae545b287e9b",
+      "crc32": "674c92f6",
+      "sha1": "06a2000edc9c3d84162f6676c9e810ec185c3cfd",
       "format": "Metadata"
     },
     {
@@ -2178,7 +2220,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 207,
+  "files_count": 211,
   "humanevents-2022": [
     {
       "text": "Facebook",
@@ -2293,6 +2335,22 @@
       "url": "/author/charlie-kirk"
     },
     {
+      "text": "Jack Posobiec ",
+      "url": "/trending/jack-posobiec"
+    },
+    {
+      "text": "School shooting ",
+      "url": "/trending/school-shooting"
+    },
+    {
+      "text": "Uvalde ",
+      "url": "/trending/uvalde"
+    },
+    {
+      "text": "Texas ",
+      "url": "/trending/texas"
+    },
+    {
       "text": "DOJ ",
       "url": "/trending/doj"
     },
@@ -2319,22 +2377,6 @@
     {
       "text": "world economic forum ",
       "url": "/trending/world-economic-forum"
-    },
-    {
-      "text": "Biden ",
-      "url": "/trending/biden"
-    },
-    {
-      "text": "World Health Organization ",
-      "url": "/trending/world-health-organization"
-    },
-    {
-      "text": "Abbott ",
-      "url": "/trending/abbott"
-    },
-    {
-      "text": "Greg Abbott ",
-      "url": "/trending/greg-abbott"
     },
     {
       "text": "View All",
@@ -2401,24 +2443,32 @@
       "url": "/news/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHouse Republicans Call on Biden to Withdraw from World Health Organization\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/05/27/house-republicans-call-on-biden-to-withdraw-from-world-health-organization/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAmericans Demand Answers After Reports of Cops Standing Outside, Blocking Parents During Uvalde Shooting\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/26/americans-demand-answers-after-reports-of-cops-standing-outside-blocking-parents-during-ulvade-shooting/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Posobiec Says Uvalde Leaders Need to Resign and 'Beg for Forgiveness'\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/27/watch-posobiec-says-uvalde-leaders-need-to-resign-and-beg-for-forgiveness/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Posobiec calls on Soros to 'get out of the way,' stop funding 'pro-crime DAs'\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/26/watch-posobiec-calls-on-soros-to-get-out-of-the-way-stop-funding-pro-crime-das/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJudge Rules Trump Must Testify in NY Investigation\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/26/judge-rules-trump-must-testify-in-ny-investigation/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSenate Republicans Block Domestic Terrorism Bill\n\t\t\t\t\t\t\t\t",
       "url": "https://humanevents.com/2022/05/27/senate-republicans-block-domestic-terrorism-bill/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJustice Department Declines to Prosecute FBI Agents Who Mishandled Larry Nassar Case\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/05/27/justice-department-declines-to-prosecute-fbi-agents-who-mishandled-larry-nassar-case/"
-    },
-    {
       "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKIRK: Message to Americans: Go forth and multiply\u2013Quickly please!\n\t\t\t\t\t\t\t\t",
       "url": "https://humanevents.com/2022/05/27/kirk-message-to-americans-go-forth-and-multiply-quickly-please/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTexas Gov. Greg Abbott Cancels NRA Appearance Friday\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/05/27/texas-gov-greg-abbott-cancels-nra-appearance-friday/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTexas Officer Gives Timeline of School Shooting, Admits Mistakes Were Made\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/27/texas-officer-gives-timeline-of-school-shooting-admits-mistakes-were-made/"
     },
     {
       "text": "\n\t\t\t\t    \n\t\t\t\t      \n\n\n\n\n\t\t\t\t    \n\t\t\t\t  \n\t\t\t\t     Jeff Webb\n\t\t\t\t    Publisher\n\t\t\t\t  \n\t\t\t\t  \n\t\t\t\t",
@@ -2450,6 +2500,30 @@
     },
     {
       "text": "",
+      "url": "https://humanevents.com/2022/05/27/watch-posobiec-says-uvalde-leaders-need-to-resign-and-beg-for-forgiveness/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Posobiec Says Uvalde Leaders Need to Resign and 'Beg for Forgiveness'\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\n\nHuman Events Daily host Jack Posobiec expounded on...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    May 27, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/05/27/watch-posobiec-says-uvalde-leaders-need-to-resign-and-beg-for-forgiveness/"
+    },
+    {
+      "text": "",
+      "url": "https://humanevents.com/2022/05/27/texas-officer-gives-timeline-of-school-shooting-admits-mistakes-were-made/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tTexas Officer Gives Timeline of School Shooting, Admits Mistakes Were Made\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tTexas Department of Public Safety Director Steven McCraw...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    May 27, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/05/27/texas-officer-gives-timeline-of-school-shooting-admits-mistakes-were-made/"
+    },
+    {
+      "text": "",
       "url": "https://humanevents.com/2022/05/27/justice-department-declines-to-prosecute-fbi-agents-who-mishandled-larry-nassar-case/"
     },
     {
@@ -2473,30 +2547,6 @@
       "url": "https://humanevents.com/2022/05/27/house-republicans-call-on-biden-to-withdraw-from-world-health-organization/"
     },
     {
-      "text": "",
-      "url": "https://humanevents.com/2022/05/27/senate-republicans-block-domestic-terrorism-bill/"
-    },
-    {
-      "text": "NEWS & ANALYSIS",
-      "url": "/category/news-analysis"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tSenate Republicans Block Domestic Terrorism Bill\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSenate Republicans on Thursday blocked a\u00a0 bill that would...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Staff \n\t\t\t\t\t\t\t    May 27, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/05/27/senate-republicans-block-domestic-terrorism-bill/"
-    },
-    {
-      "text": "",
-      "url": "https://humanevents.com/2022/05/26/americans-demand-answers-after-reports-of-cops-standing-outside-blocking-parents-during-ulvade-shooting/"
-    },
-    {
-      "text": "NEWS & ANALYSIS",
-      "url": "/category/news-analysis"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tAmericans Demand Answers After Reports of Cops Standing Outside, Blocking Parents During Uvalde Shooting\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tIn the aftermath of the horrific elementary school shooting...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCeline Ryan Ciccio \n\t\t\t\t\t\t\t    May 26, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/05/26/americans-demand-answers-after-reports-of-cops-standing-outside-blocking-parents-during-ulvade-shooting/"
-    },
-    {
       "text": "View All",
       "url": "/news/"
     },
@@ -2505,24 +2555,32 @@
       "url": "/news/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHouse Republicans Call on Biden to Withdraw from World Health Organization\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/05/27/house-republicans-call-on-biden-to-withdraw-from-world-health-organization/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAmericans Demand Answers After Reports of Cops Standing Outside, Blocking Parents During Uvalde Shooting\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/26/americans-demand-answers-after-reports-of-cops-standing-outside-blocking-parents-during-ulvade-shooting/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Posobiec Says Uvalde Leaders Need to Resign and 'Beg for Forgiveness'\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/27/watch-posobiec-says-uvalde-leaders-need-to-resign-and-beg-for-forgiveness/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Posobiec calls on Soros to 'get out of the way,' stop funding 'pro-crime DAs'\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/26/watch-posobiec-calls-on-soros-to-get-out-of-the-way-stop-funding-pro-crime-das/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJudge Rules Trump Must Testify in NY Investigation\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/26/judge-rules-trump-must-testify-in-ny-investigation/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSenate Republicans Block Domestic Terrorism Bill\n\t\t\t\t\t\t\t\t",
       "url": "https://humanevents.com/2022/05/27/senate-republicans-block-domestic-terrorism-bill/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJustice Department Declines to Prosecute FBI Agents Who Mishandled Larry Nassar Case\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/05/27/justice-department-declines-to-prosecute-fbi-agents-who-mishandled-larry-nassar-case/"
-    },
-    {
       "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKIRK: Message to Americans: Go forth and multiply\u2013Quickly please!\n\t\t\t\t\t\t\t\t",
       "url": "https://humanevents.com/2022/05/27/kirk-message-to-americans-go-forth-and-multiply-quickly-please/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTexas Gov. Greg Abbott Cancels NRA Appearance Friday\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/05/27/texas-gov-greg-abbott-cancels-nra-appearance-friday/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTexas Officer Gives Timeline of School Shooting, Admits Mistakes Were Made\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/05/27/texas-officer-gives-timeline-of-school-shooting-admits-mistakes-were-made/"
     },
     {
       "text": "\n\t\t\n\t",
@@ -2531,6 +2589,42 @@
     {
       "text": "View All",
       "url": "/news/"
+    },
+    {
+      "text": "",
+      "url": "https://humanevents.com/2022/05/27/texas-gov-greg-abbott-cancels-nra-appearance-friday/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tTexas Gov. Greg Abbott Cancels NRA Appearance Friday\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRepublican Texas Gov. Greg Abbott canceled his Friday National Rifle Association appearance in Houston and...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Staff \n\t\t\t\t\t\t\t    May 27, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/05/27/texas-gov-greg-abbott-cancels-nra-appearance-friday/"
+    },
+    {
+      "text": "",
+      "url": "https://humanevents.com/2022/05/27/senate-republicans-block-domestic-terrorism-bill/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tSenate Republicans Block Domestic Terrorism Bill\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSenate Republicans on Thursday blocked a\u00a0 bill that would create domestic terrorism offices within federal...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Staff \n\t\t\t\t\t\t\t    May 27, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/05/27/senate-republicans-block-domestic-terrorism-bill/"
+    },
+    {
+      "text": "",
+      "url": "https://humanevents.com/2022/05/26/americans-demand-answers-after-reports-of-cops-standing-outside-blocking-parents-during-ulvade-shooting/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tAmericans Demand Answers After Reports of Cops Standing Outside, Blocking Parents During Uvalde Shooting\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tIn the aftermath of the horrific elementary school shooting in Uvalde, Texas on Tuesday that left 19 children...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCeline Ryan Ciccio \n\t\t\t\t\t\t\t    May 26, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/05/26/americans-demand-answers-after-reports-of-cops-standing-outside-blocking-parents-during-ulvade-shooting/"
     },
     {
       "text": "",
@@ -2641,42 +2735,6 @@
       "url": "https://humanevents.com/2022/05/26/dem-congressional-candidate-sued-for-campaign-ad-smearing-private-citizen-as-insurrectionist/"
     },
     {
-      "text": "",
-      "url": "https://humanevents.com/2022/05/25/human-events-jack-posobiec-fact-checked-by-reuters-politifact-over-wef-police-claim-following-detainment-by-wef-police/"
-    },
-    {
-      "text": "NEWS & ANALYSIS",
-      "url": "/category/news-analysis"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tHuman Events\u2019 Jack Posobiec \u2018Fact-Checked\u2019 by Reuters, Politifact Over \u2018WEF Police\u2019 Claim Following Detainment by WEF Police\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHuman Events Senior Editor Jack Posobiec was fact checked by Reuters over his WEF police claim after he was...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Staff \n\t\t\t\t\t\t\t    May 25, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/05/25/human-events-jack-posobiec-fact-checked-by-reuters-politifact-over-wef-police-claim-following-detainment-by-wef-police/"
-    },
-    {
-      "text": "",
-      "url": "https://humanevents.com/2022/05/25/breaking-beto-orourke-interrupts-gov-abbotts-press-conference-on-school-shooting-gets-removed-by-police/"
-    },
-    {
-      "text": "NEWS & ANALYSIS",
-      "url": "/category/news-analysis"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tBREAKING: Beto O\u2019Rourke Interrupts Gov. Abbott\u2019s Press Conference on School Shooting, Gets Removed by Police\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tFormer U.S. Representative and Texas gubernatorial candidate Beto O\u2019Rourke crashed Gov. Abbott\u2019s...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Staff \n\t\t\t\t\t\t\t    May 25, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/05/25/breaking-beto-orourke-interrupts-gov-abbotts-press-conference-on-school-shooting-gets-removed-by-police/"
-    },
-    {
-      "text": "",
-      "url": "https://humanevents.com/2022/05/25/indiana-republicans-override-governors-veto-enact-transgender-girls-sports-ban/"
-    },
-    {
-      "text": "NEWS & ANALYSIS",
-      "url": "/category/news-analysis"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tIndiana Republicans Override Governor\u2019s Veto, Protect Women's Sports\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tIndiana Republican lawmakers overrode a veto by Gov. Eric Holcomb, banning biological males from competing in...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Staff \n\t\t\t\t\t\t\t    May 25, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/05/25/indiana-republicans-override-governors-veto-enact-transgender-girls-sports-ban/"
-    },
-    {
       "text": "View All",
       "url": "/news/"
     },
@@ -2729,8 +2787,8 @@
       "url": "https://statcounter.com/"
     }
   ],
-  "item_last_updated": 1653678684,
-  "item_size": 18349376,
+  "item_last_updated": 1653764304,
+  "item_size": 18667442,
   "metadata": {
     "identifier": "humanevents-2022",
     "collection": [
@@ -2747,10 +2805,10 @@
     "publicdate": "2022-03-25 18:47:01",
     "addeddate": "2022-03-25 18:47:01"
   },
-  "server": "ia801806.us.archive.org",
-  "uniq": 1014477696,
+  "server": "ia601806.us.archive.org",
+  "uniq": 1710294300,
   "workable_servers": [
-    "ia801806.us.archive.org",
-    "ia601806.us.archive.org"
+    "ia601806.us.archive.org",
+    "ia801806.us.archive.org"
   ]
 }
