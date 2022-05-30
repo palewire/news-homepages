@@ -1,5 +1,5 @@
 {
-  "created": 1653783665,
+  "created": 1653870141,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/9/items/kcrg-2022",
@@ -2184,31 +2184,73 @@
       "sha1": "b8e73603085a9ebd56bbb78bb372b2562fc1df9b"
     },
     {
+      "name": "kcrg-2022-05-29T11:07:40.200882-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653840465",
+      "size": "32341",
+      "md5": "c45e06a7e72bfefe6c73e470ad562968",
+      "crc32": "9067f460",
+      "sha1": "b46145eca3de375ae3ac0f002366234655cf65db",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-05-29T11:07:40.200882-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653840466",
+      "size": "17953",
+      "md5": "d4c6d4d556dcdbd9d3c45c95aa37f3c7",
+      "crc32": "ef831f54",
+      "sha1": "5bc40ad4dc34171ea960cfb48d3a8ad16e1700d7",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-05-29T11:07:40.200882-05:00.jpg",
+      "source": "original",
+      "mtime": "1653840462",
+      "size": "348868",
+      "md5": "017cb592f48583d525293bbdfc26ea41",
+      "crc32": "2e50f190",
+      "sha1": "653e9fefd691ea5000a1c66b9cccd0aba7b36ed4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-05-29T11:07:40.200882-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-05-29T11:07:40.200882-05:00.jpg",
+      "mtime": "1653840541",
+      "size": "11452",
+      "md5": "07c0f19b67a43b830932ed582c95aa2a",
+      "crc32": "cd3020d9",
+      "sha1": "f9f254e9affa10f93ad27d938a72f57b5c34a7bf"
+    },
+    {
       "name": "kcrg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8831694a1309e576db0b9ae0de8eaad94aaa4c5c",
-      "mtime": "1653669879",
-      "size": "44298",
-      "md5": "02caea34dfe6f24ea7c24d0b6eab4b83",
-      "crc32": "8479870a",
-      "sha1": "895680285929d1d2c98ae09115cb6dbceeab5c0d",
+      "btih": "43e0e53cb32e6a0dfac17480e450ec9bfcd599e8",
+      "mtime": "1653840548",
+      "size": "45112",
+      "md5": "3d84af8d2bada784ae5af17a73b4866f",
+      "crc32": "8e3f1a9a",
+      "sha1": "8a15811e869018cff9361b6688521a1c9557482a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9f7d831ac1fd8adfd483e6badd38c498",
+      "md5": "819ab2b07b594d8a0c80c883bdea4507",
       "summation": "md5"
     },
     {
       "name": "kcrg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653669045",
-      "size": "253952",
-      "md5": "5b301a4600f5df139e780c4ceab636d9",
-      "crc32": "f24e76e7",
-      "sha1": "8fffbc723353810a182ce4db94a91df47af02314",
+      "mtime": "1653840469",
+      "size": "258048",
+      "md5": "091343dd766d9e7a39826a33ba7bb0e9",
+      "crc32": "f56ddff7",
+      "sha1": "edc53cfdf02f96261fbcadd92dd78dab42f2c309",
       "format": "Metadata"
     },
     {
@@ -2222,9 +2264,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 211,
-  "item_last_updated": 1653669879,
-  "item_size": 22069686,
+  "files_count": 215,
+  "item_last_updated": 1653840548,
+  "item_size": 22485210,
   "kcrg-2022": [
     {
       "text": "Skip to content",
@@ -2259,7 +2301,7 @@
       "url": "/"
     },
     {
-      "text": "62\u00b0Cedar Rapids, IA",
+      "text": "75\u00b0Cedar Rapids, IA",
       "url": "/weather/"
     },
     {
@@ -2471,12 +2513,12 @@
       "url": "https://www.graydc.com/"
     },
     {
-      "text": "Investigate TV",
-      "url": "https://www.investigatetv.com/"
-    },
-    {
       "text": "PowerNation",
       "url": "/powernation"
+    },
+    {
+      "text": "Investigate TV",
+      "url": "https://www.investigatetv.com/"
     },
     {
       "text": "Latest Newscasts",
@@ -2503,108 +2545,100 @@
       "url": "https://www.youtube.com/user/kcrgdotcom"
     },
     {
-      "text": " Center Point-Urbana won\u2019t reinstate former principal, will examine class size changesThe Center Point-Urbana School District says it will not reinstate the former principal of Center Point-Urbana Elementary, but will examine the plan to change class sizes she resigned over.",
-      "url": "/2022/05/27/center-point-urbana-wont-reinstate-former-principal-will-examine-class-size-changes/"
+      "text": "Special Weather Statement is in effect",
+      "url": "/weather/alerts/"
+    },
+    {
+      "text": " College enrollment drops as more students move toward trade jobsFour-year college enrollment has been slowly dropping since 2012, but a study conducted by the National Student Clearinghouse Research Center showed it plummeted over the last two years.",
+      "url": "/2022/05/29/college-enrollment-drops-more-students-move-toward-trade-jobs/"
     },
     {
       "text": "",
-      "url": "/2022/05/27/center-point-urbana-wont-reinstate-former-principal-will-examine-class-size-changes/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/27/police-investigate-attempted-atm-theft-cedar-rapids-credit-union/"
-    },
-    {
-      "text": "",
-      "url": "/2022/05/27/police-investigate-attempted-atm-theft-cedar-rapids-credit-union/"
-    },
-    {
-      "text": "Police investigate attempted ATM theft at Cedar Rapids credit union",
-      "url": "/2022/05/27/police-investigate-attempted-atm-theft-cedar-rapids-credit-union/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/27/second-person-dies-injuries-after-crash-i-74-pedestrian-bike-path/"
-    },
-    {
-      "text": "",
-      "url": "/2022/05/27/second-person-dies-injuries-after-crash-i-74-pedestrian-bike-path/"
-    },
-    {
-      "text": "Second person dies from injuries after crash on I-74 pedestrian bike path",
-      "url": "/2022/05/27/second-person-dies-injuries-after-crash-i-74-pedestrian-bike-path/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/27/black-bear-seen-roaming-northeast-iowa-town/"
-    },
-    {
-      "text": "",
-      "url": "/2022/05/27/black-bear-seen-roaming-northeast-iowa-town/"
-    },
-    {
-      "text": " Black bear seen roaming northeast Iowa town",
-      "url": "/2022/05/27/black-bear-seen-roaming-northeast-iowa-town/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/27/friday-marks-one-year-since-xavior-harrelson-disappeared-montezuma/"
-    },
-    {
-      "text": "",
-      "url": "/2022/05/27/friday-marks-one-year-since-xavior-harrelson-disappeared-montezuma/"
-    },
-    {
-      "text": " Friday marks one year since Xavior Harrelson disappeared from Montezuma",
-      "url": "/2022/05/27/friday-marks-one-year-since-xavior-harrelson-disappeared-montezuma/"
+      "url": "/2022/05/29/college-enrollment-drops-more-students-move-toward-trade-jobs/"
     },
     {
       "text": "News",
-      "url": "/2022/05/27/operation-quickfind-brayden-faas/"
+      "url": "/video/2022/05/29/south-district-diversity-market-kicks-off-season-iowa-city/"
     },
     {
       "text": "",
-      "url": "/2022/05/27/operation-quickfind-brayden-faas/"
+      "url": "/video/2022/05/29/south-district-diversity-market-kicks-off-season-iowa-city/"
     },
     {
-      "text": "Operation Quickfind canceled: Brayden Faas",
-      "url": "/2022/05/27/operation-quickfind-brayden-faas/"
+      "text": "South District Diversity Market kicks off season in Iowa City",
+      "url": "/video/2022/05/29/south-district-diversity-market-kicks-off-season-iowa-city/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/05/29/downtown-farmers-market-kicks-off-summer/"
+    },
+    {
+      "text": "",
+      "url": "/2022/05/29/downtown-farmers-market-kicks-off-summer/"
+    },
+    {
+      "text": " Downtown Farmers Market kicks off for the summer in Cedar Rapids",
+      "url": "/2022/05/29/downtown-farmers-market-kicks-off-summer/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/05/28/fire-causes-significant-damage-restaurant-shueyville/"
+    },
+    {
+      "text": "",
+      "url": "/2022/05/28/fire-causes-significant-damage-restaurant-shueyville/"
+    },
+    {
+      "text": " Fire causes significant damage to restaurant in Shueyville",
+      "url": "/2022/05/28/fire-causes-significant-damage-restaurant-shueyville/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/05/28/decorah-police-report-black-bear-sighting/"
+    },
+    {
+      "text": " Decorah Police report black bear sighting",
+      "url": "/2022/05/28/decorah-police-report-black-bear-sighting/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/05/29/state-lowered-charges-against-james-siegel/"
+    },
+    {
+      "text": " State lowered charges against James Siegel",
+      "url": "/2022/05/29/state-lowered-charges-against-james-siegel/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/05/29/iowa-organizations-call-citizens-help-uvalde-community/"
+    },
+    {
+      "text": "Iowa organizations call on citizens to help Uvalde community",
+      "url": "/2022/05/29/iowa-organizations-call-citizens-help-uvalde-community/"
     },
     {
       "text": "National",
-      "url": "/2022/05/27/11-year-old-covers-herself-classmates-blood-plays-dead/"
+      "url": "/2022/05/29/how-san-diego-secured-its-water-supply-cost/"
     },
     {
-      "text": "",
-      "url": "/2022/05/27/11-year-old-covers-herself-classmates-blood-plays-dead/"
+      "text": "How San Diego secured its water supply, at a cost",
+      "url": "/2022/05/29/how-san-diego-secured-its-water-supply-cost/"
     },
     {
-      "text": " 11-year-old covers herself in classmate\u2019s blood, plays dead",
-      "url": "/2022/05/27/11-year-old-covers-herself-classmates-blood-plays-dead/"
+      "text": "National",
+      "url": "/2022/05/29/pope-names-21-new-cardinals-india-mongolia-elsewhere/"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/05/27/probation-855-fine-former-dubuque-county-treasurer-charged-prostitution-sting/"
+      "text": "Pope names 21 new cardinals, from India, Mongolia, elsewhere",
+      "url": "/2022/05/29/pope-names-21-new-cardinals-india-mongolia-elsewhere/"
     },
     {
-      "text": " Probation, $855 fine for former Dubuque County Treasurer charged in prostitution sting",
-      "url": "/2022/05/27/probation-855-fine-former-dubuque-county-treasurer-charged-prostitution-sting/"
+      "text": "National",
+      "url": "/2022/05/29/1st-2022-hurricane-agatha-heads-mexico-tourist-towns/"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/05/27/cedar-rapids-downtown-farmers-market-returns-saturday/"
-    },
-    {
-      "text": " Cedar Rapids downtown farmers market returns Saturday",
-      "url": "/2022/05/27/cedar-rapids-downtown-farmers-market-returns-saturday/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/27/new-exhibit-opens-dubuque-river-museum-memorial-day-weekend/"
-    },
-    {
-      "text": " New exhibit opens at Dubuque River Museum for Memorial Day Weekend",
-      "url": "/2022/05/27/new-exhibit-opens-dubuque-river-museum-memorial-day-weekend/"
+      "text": "1st of 2022, Hurricane Agatha heads for Mexico tourist towns",
+      "url": "/2022/05/29/1st-2022-hurricane-agatha-heads-mexico-tourist-towns/"
     },
     {
       "text": "",
@@ -2616,35 +2650,135 @@
     },
     {
       "text": "News",
-      "url": "/video/2022/05/27/donutland-opens-its-second-cedar-rapids-location/"
+      "url": "/video/2022/05/29/warm-memorial-day-weekend-continues-storms-return-next-week/"
     },
     {
-      "text": "Donutland opens its second Cedar Rapids location",
-      "url": "/video/2022/05/27/donutland-opens-its-second-cedar-rapids-location/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/05/27/cedar-rapids-downtown-farmers-market-returns-saturday/"
-    },
-    {
-      "text": "Cedar Rapids downtown farmers market returns Saturday",
-      "url": "/video/2022/05/27/cedar-rapids-downtown-farmers-market-returns-saturday/"
+      "text": "The warm Memorial Day Weekend continues, but storms return next week",
+      "url": "/video/2022/05/29/warm-memorial-day-weekend-continues-storms-return-next-week/"
     },
     {
       "text": "News",
-      "url": "/video/2022/05/27/new-exhibit-opens-dubuque-river-museum-memorial-day-weekend/"
+      "url": "/video/2022/05/29/iowa-dnr-warns-that-area-waterways-still-chilly/"
     },
     {
-      "text": "New exhibit opens at Dubuque River Museum for Memorial Day Weekend",
-      "url": "/video/2022/05/27/new-exhibit-opens-dubuque-river-museum-memorial-day-weekend/"
+      "text": "Iowa DNR warns that area waterways still chilly",
+      "url": "/video/2022/05/29/iowa-dnr-warns-that-area-waterways-still-chilly/"
     },
     {
       "text": "News",
-      "url": "/video/2022/05/27/former-dubuque-county-treasurer-charged-prostitution-sting-receives-sentence/"
+      "url": "/video/2022/05/29/research-shows-more-seniors-choosing-options-other-than-four-year-college/"
     },
     {
-      "text": "Former Dubuque County Treasurer charged in prostitution sting receives sentence",
-      "url": "/video/2022/05/27/former-dubuque-county-treasurer-charged-prostitution-sting-receives-sentence/"
+      "text": "Research shows more seniors choosing options other than four-year college",
+      "url": "/video/2022/05/29/research-shows-more-seniors-choosing-options-other-than-four-year-college/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/05/29/south-district-diversity-market-kicks-off-season-iowa-city/"
+    },
+    {
+      "text": "South District Diversity Market kicks off season in Iowa City",
+      "url": "/video/2022/05/29/south-district-diversity-market-kicks-off-season-iowa-city/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "Forecast",
+      "url": "/2022/05/28/warm-windy-conditions-continue/"
+    },
+    {
+      "text": " Warm and windy conditions continue",
+      "url": "/2022/05/28/warm-windy-conditions-continue/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/05/28/96-year-old-cedar-falls-woman-be-recognized-wwii-civilian-service/"
+    },
+    {
+      "text": "96-year-old Cedar Falls woman to be recognized for WWII civilian service",
+      "url": "/2022/05/28/96-year-old-cedar-falls-woman-be-recognized-wwii-civilian-service/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/05/28/muscatine-little-league-baseball-team-hold-lemonade-stand-raise-money-uvalde-victims/"
+    },
+    {
+      "text": " Muscatine little league baseball team hold lemonade stand to raise money for Uvalde victims",
+      "url": "/2022/05/28/muscatine-little-league-baseball-team-hold-lemonade-stand-raise-money-uvalde-victims/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/05/28/more-americans-plan-travel-regardless-higher-prices/"
+    },
+    {
+      "text": " More Americans plan to travel, regardless of higher prices",
+      "url": "/2022/05/28/more-americans-plan-travel-regardless-higher-prices/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/05/27/dubuque-man-arrested-after-hitting-choking-pregnant-girlfriend/"
+    },
+    {
+      "text": "Dubuque man arrested after hitting, choking pregnant girlfriend",
+      "url": "/2022/05/27/dubuque-man-arrested-after-hitting-choking-pregnant-girlfriend/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/05/27/grassley-best-thing-we-can-do-stop-this-is-deal-with-mental-health-issues/"
+    },
+    {
+      "text": " Grassley: \u2018The best thing we can do to stop this is to deal with the mental health issues\u2019  ",
+      "url": "/2022/05/27/grassley-best-thing-we-can-do-stop-this-is-deal-with-mental-health-issues/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/05/27/fairfield-schools-placed-lockdown-due-dangerous-activity-near-pence-elementary/"
+    },
+    {
+      "text": "Fairfield Schools placed on lockdown after reports of armed man near Pence Elementary",
+      "url": "/2022/05/27/fairfield-schools-placed-lockdown-due-dangerous-activity-near-pence-elementary/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/05/28/marshalltown-cemetery-ready-memorial-day-following-derecho-damage/"
+    },
+    {
+      "text": "Marshalltown cemetery ready for Memorial Day following derecho damage",
+      "url": "/2022/05/28/marshalltown-cemetery-ready-memorial-day-following-derecho-damage/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/05/28/deaths-3-women-early-heat-wave-raise-questions-fears/"
+    },
+    {
+      "text": "Deaths of 3 women in early heat wave raise questions, fears",
+      "url": "/2022/05/28/deaths-3-women-early-heat-wave-raise-questions-fears/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/05/28/us-mourns-shootings-nra-turmoil-influence-remains-2/"
+    },
+    {
+      "text": "As US mourns shootings, NRA in turmoil but influence remains",
+      "url": "/2022/05/28/us-mourns-shootings-nra-turmoil-influence-remains-2/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/05/28/jurys-duty-depp-heard-trial-doesnt-track-public-debate/"
+    },
+    {
+      "text": "Jury\u2019s duty in Depp-Heard trial doesn\u2019t track public debate",
+      "url": "/2022/05/28/jurys-duty-depp-heard-trial-doesnt-track-public-debate/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/05/28/weathers-unwanted-guest-nasty-la-nina-keeps-popping-up/"
+    },
+    {
+      "text": "Weather\u2019s unwanted guest: Nasty La Nina keeps popping up",
+      "url": "/2022/05/28/weathers-unwanted-guest-nasty-la-nina-keeps-popping-up/"
     },
     {
       "text": "MORE NEWS",
@@ -2652,183 +2786,83 @@
     },
     {
       "text": "National",
-      "url": "/2022/05/27/biden-address-naval-grads-amid-texas-ukraine-backdrop/"
+      "url": "/2022/05/28/first-tropical-storm-forms-off-mexicos-pacific-coast/"
     },
     {
-      "text": " Biden to address Naval grads amid Texas, Ukraine backdrop",
-      "url": "/2022/05/27/biden-address-naval-grads-amid-texas-ukraine-backdrop/"
+      "text": "First tropical storm forms off Mexico\u2019s Pacific coast",
+      "url": "/2022/05/28/first-tropical-storm-forms-off-mexicos-pacific-coast/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/05/27/cedar-rapids-mayoral-candidate-amara-andrews-pac-fined-violating-campaign-finance-law/"
+    },
+    {
+      "text": "Cedar Rapids mayoral candidate Amara Andrews, PAC fined for violating campaign finance law",
+      "url": "/2022/05/27/cedar-rapids-mayoral-candidate-amara-andrews-pac-fined-violating-campaign-finance-law/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/05/28/johnson-county-sheriffs-office-increasing-traffic-patrols-memorial-day-weekend/"
+    },
+    {
+      "text": "Johnson County Sheriff\u2019s Office increasing traffic patrols Memorial Day weekend",
+      "url": "/2022/05/28/johnson-county-sheriffs-office-increasing-traffic-patrols-memorial-day-weekend/"
     },
     {
       "text": "National",
-      "url": "/2022/05/27/relentless-russia-squeezes-ukrainian-strongholds-east/"
+      "url": "/2022/05/27/questions-arise-over-police-delays-with-gunman-inside-school/"
     },
     {
-      "text": " \u2018Relentless\u2019: Russia squeezes Ukrainian strongholds in east",
-      "url": "/2022/05/27/relentless-russia-squeezes-ukrainian-strongholds-east/"
+      "text": " Official: Girl told 911 \u2018send the police now\u2019 as cops waited",
+      "url": "/2022/05/27/questions-arise-over-police-delays-with-gunman-inside-school/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/05/27/up-15000-expected-attend-downtown-cedar-rapids-farmers-market-saturday/"
+    },
+    {
+      "text": " Up to 15,000 expected to attend downtown Cedar Rapids farmers market Saturday",
+      "url": "/2022/05/27/up-15000-expected-attend-downtown-cedar-rapids-farmers-market-saturday/"
     },
     {
       "text": "Iowa",
-      "url": "/2022/05/27/planned-parenthood-workers-5-midwest-states-seek-union/"
+      "url": "/2022/05/27/hy-vee-donate-100000-impacted-families-uvalde-texas/"
     },
     {
-      "text": "Planned Parenthood workers in 5 Midwest states seek union",
-      "url": "/2022/05/27/planned-parenthood-workers-5-midwest-states-seek-union/"
+      "text": "Hy-Vee to Donate $100,000 to impacted families in Uvalde, Texas",
+      "url": "/2022/05/27/hy-vee-donate-100000-impacted-families-uvalde-texas/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/05/27/friday-marks-one-year-since-xavior-harrelson-disappeared-montezuma/"
+    },
+    {
+      "text": " Friday marks one year since Xavior Harrelson disappeared from Montezuma",
+      "url": "/2022/05/27/friday-marks-one-year-since-xavior-harrelson-disappeared-montezuma/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/05/27/iowa-city-man-guilty-selling-meth-near-riverside-casino-sentenced/"
+    },
+    {
+      "text": "Iowa City man guilty of selling meth near Riverside Casino sentenced",
+      "url": "/2022/05/27/iowa-city-man-guilty-selling-meth-near-riverside-casino-sentenced/"
+    },
+    {
+      "text": "Education",
+      "url": "/2022/05/27/center-point-urbana-wont-reinstate-former-principal-will-examine-class-size-changes/"
+    },
+    {
+      "text": " Center Point-Urbana won\u2019t reinstate former principal, will examine class size changes",
+      "url": "/2022/05/27/center-point-urbana-wont-reinstate-former-principal-will-examine-class-size-changes/"
     },
     {
       "text": "National",
-      "url": "/2022/05/26/police-face-questions-over-delays-storming-texas-school/"
+      "url": "/2022/05/27/memorial-day-weekend-travel-will-be-costly/"
     },
     {
-      "text": " Texas gunman\u2019s final 90 minutes fuel questions about police delays ",
-      "url": "/2022/05/26/police-face-questions-over-delays-storming-texas-school/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/05/27/global-shortage-ct-can-contrast-dye-affecting-eastern-iowa-family/"
-    },
-    {
-      "text": " Global shortage of CT scan contrast dye affecting Eastern Iowa family",
-      "url": "/2022/05/27/global-shortage-ct-can-contrast-dye-affecting-eastern-iowa-family/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/27/state-open-changing-venue-fairfield-teen-accused-killing-teacher/"
-    },
-    {
-      "text": "State open to changing venue for Fairfield teen accused of killing teacher",
-      "url": "/2022/05/27/state-open-changing-venue-fairfield-teen-accused-killing-teacher/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/05/26/parents-react-ulvade-shooting-elementary-school/"
-    },
-    {
-      "text": " Parents react to Ulvade shooting at elementary school",
-      "url": "/2022/05/26/parents-react-ulvade-shooting-elementary-school/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/26/clayton-county-road-cassvile-ferry-closed-due-flooding/"
-    },
-    {
-      "text": "Clayton County road to Cassvile Ferry closed due to flooding",
-      "url": "/2022/05/26/clayton-county-road-cassvile-ferry-closed-due-flooding/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/26/judge-denies-change-venue-cedar-rapids-man-accused-killing-family/"
-    },
-    {
-      "text": " Judge denies change of venue for Cedar Rapids man accused of killing family",
-      "url": "/2022/05/26/judge-denies-change-venue-cedar-rapids-man-accused-killing-family/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/05/26/drought-monitor-update-shows-no-change/"
-    },
-    {
-      "text": " Drought monitor update shows no change",
-      "url": "/2022/05/26/drought-monitor-update-shows-no-change/"
-    },
-    {
-      "text": "Cyclones",
-      "url": "/2022/05/26/iowa-state-coaches-campbell-otzelberger-say-theyre-not-too-concerned-about-chaotic-transfer-portal/"
-    },
-    {
-      "text": " Iowa State coaches Campbell and Otzelberger say they\u2019re not too concerned about the chaotic transfer portal",
-      "url": "/2022/05/26/iowa-state-coaches-campbell-otzelberger-say-theyre-not-too-concerned-about-chaotic-transfer-portal/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/26/ankeny-couple-has-triplets-second-time/"
-    },
-    {
-      "text": " Ankeny couple has triplets for the second time",
-      "url": "/2022/05/26/ankeny-couple-has-triplets-second-time/"
-    },
-    {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/05/26/taboo-nightclub-shooting-suspect-trial-date-is-set/"
-    },
-    {
-      "text": "Taboo Nightclub shooting suspect trial date is set",
-      "url": "/2022/05/26/taboo-nightclub-shooting-suspect-trial-date-is-set/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/26/siouxland-student-wins-iowas-doodle-google-contest/"
-    },
-    {
-      "text": "Siouxland student wins Iowa\u2019s \u2018Doodle for Google\u2019 contest",
-      "url": "/2022/05/26/siouxland-student-wins-iowas-doodle-google-contest/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/27/grain-bin-rescue-iowa-county/"
-    },
-    {
-      "text": "Grain bin rescue in Iowa County",
-      "url": "/2022/05/27/grain-bin-rescue-iowa-county/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/26/cedar-rapids-looking-city-transit-drivers-pays-2670-an-hour-after-two-years/"
-    },
-    {
-      "text": "Cedar Rapids looking for City Transit Drivers; pays $26.70 an hour after two years",
-      "url": "/2022/05/26/cedar-rapids-looking-city-transit-drivers-pays-2670-an-hour-after-two-years/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/05/26/actor-ray-liotta-dies-age-67-reports-say/"
-    },
-    {
-      "text": "Ray Liotta, \u2018Goodfellas\u2019 and \u2018Field of Dreams\u2019 star, dies",
-      "url": "/2022/05/26/actor-ray-liotta-dies-age-67-reports-say/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/05/26/questions-remain-whether-school-resource-officers-can-keep-schools-safe/"
-    },
-    {
-      "text": " Questions remain on whether school resource officers can keep schools safe",
-      "url": "/2022/05/26/questions-remain-whether-school-resource-officers-can-keep-schools-safe/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/26/dubuque-residents-should-stay-bear-aware-city-officials-say/"
-    },
-    {
-      "text": " Dubuque residents should stay \u2018bear aware\u2019 city officials say",
-      "url": "/2022/05/26/dubuque-residents-should-stay-bear-aware-city-officials-say/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/26/utv-atv-racing-cup-coming-iowa-state-fair/"
-    },
-    {
-      "text": "UTV & ATV Racing Cup coming to Iowa State Fair",
-      "url": "/2022/05/26/utv-atv-racing-cup-coming-iowa-state-fair/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/05/26/us-economy-shrank-by-15-q1-consumers-kept-spending/"
-    },
-    {
-      "text": " US economy shrank by 1.5% in Q1 but consumers kept spending",
-      "url": "/2022/05/26/us-economy-shrank-by-15-q1-consumers-kept-spending/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/05/26/single-vehicle-accident-i-380-northbound-causes-dog-run-away/"
-    },
-    {
-      "text": "Single vehicle accident on I-380 Northbound causes dog to run away",
-      "url": "/2022/05/26/single-vehicle-accident-i-380-northbound-causes-dog-run-away/"
+      "text": " Memorial Day weekend travel will be costly",
+      "url": "/2022/05/27/memorial-day-weekend-travel-will-be-costly/"
     },
     {
       "text": "News",
@@ -2927,10 +2961,10 @@
     "publicdate": "2022-03-25 03:35:21",
     "addeddate": "2022-03-25 03:35:21"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 1459629277,
+  "server": "ia902506.us.archive.org",
+  "uniq": 965189849,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

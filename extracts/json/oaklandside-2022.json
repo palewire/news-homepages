@@ -1,5 +1,5 @@
 {
-  "created": 1653783776,
+  "created": 1653870217,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -2598,31 +2598,73 @@
       "sha1": "37142e581a0313b6d431b7e0e296240968b8d500"
     },
     {
+      "name": "oaklandside-2022-05-29T06:40:18.475930-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653831623",
+      "size": "33999",
+      "md5": "420a5ec375ff4d1b22047a5790cf6b1c",
+      "crc32": "860f2c27",
+      "sha1": "cc9b234457cd4a25f70eed684f8ef5739dd6cdd2",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-05-29T06:40:18.475930-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653831624",
+      "size": "26457",
+      "md5": "f4f7efca15ddc6865e546d768c1681e4",
+      "crc32": "8a442f06",
+      "sha1": "00cbd7a2bdb44673bec6df51aba79382cac7ca00",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-05-29T06:40:18.475930-07:00.jpg",
+      "source": "original",
+      "mtime": "1653831621",
+      "size": "401321",
+      "md5": "44719ea431268c53b70bffc18977fa94",
+      "crc32": "2540bb98",
+      "sha1": "ab076aeba30ce2a8ddb66872f57ea54c3a56fb59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-05-29T06:40:18.475930-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-05-29T06:40:18.475930-07:00.jpg",
+      "mtime": "1653831674",
+      "size": "9691",
+      "md5": "9c763e0c5054347b1ed9b69dce2f4201",
+      "crc32": "d90582cf",
+      "sha1": "577c977050724b4d7107dbb2df5bf90ad6f502b9"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d135e231f80cabd65812250e2617ac2a005c1b3",
-      "mtime": "1653745617",
-      "size": "54193",
-      "md5": "915d2adce7abc149009ecc599a3c4b66",
-      "crc32": "3f9f6021",
-      "sha1": "672f185edcb2a41529f66b23e5ce2638efe53a58",
+      "btih": "d3bad07dcc5f1290db9d7d198643fa4ae9cb6873",
+      "mtime": "1653831677",
+      "size": "55054",
+      "md5": "1387882197fbd83e6a37d7ba266053f6",
+      "crc32": "ee13c0c3",
+      "sha1": "6dc581cf77b368dfaa557d6aaffa0bf2afd72a8f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e17c31eec70b042257decd4b2dfb92c7",
+      "md5": "e7df349d86702a4b8287f643c0bb49bb",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653745303",
-      "size": "294912",
-      "md5": "72e522fff2fe6f2809819de8a716f937",
-      "crc32": "4d268896",
-      "sha1": "f2fd459926e6ee0b13f11cbf3271ffeb9ee1627e",
+      "mtime": "1653831629",
+      "size": "299008",
+      "md5": "c9e357a7338fe95d56ea5367e8f36e70",
+      "crc32": "94f9fc16",
+      "sha1": "14ae7bf7967f116a9c73d2fb17b876bb9e9d8fde",
       "format": "Metadata"
     },
     {
@@ -2636,9 +2678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 250,
-  "item_last_updated": 1653745617,
-  "item_size": 29729808,
+  "files_count": 254,
+  "item_last_updated": 1653831677,
+  "item_size": 30206233,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -2656,10 +2698,6 @@
     "addeddate": "2022-03-23 02:09:27"
   },
   "oaklandside-2022": [
-    {
-      "text": "Donate now \u2794 ",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=oakland&campaign=7015a000000zZUyAAM"
-    },
     {
       "text": "Donate",
       "url": "https://checkout.fundjournalism.org/memberform?org_id=oakland&campaign=7010b0000014AXMAA2"
@@ -3453,10 +3491,10 @@
       "url": "https://oaklandside.org/policies/"
     }
   ],
-  "server": "ia902503.us.archive.org",
-  "uniq": 864559378,
+  "server": "ia802503.us.archive.org",
+  "uniq": 394507515,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }
