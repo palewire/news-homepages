@@ -62,7 +62,7 @@ def headful():
         click.echo("Launching Chromium browser")
         path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
         click.echo(path_to_extension.exists())
-        click.echo(path_to_extension.glob("**/*"))
+        click.echo(list(path_to_extension.glob("**/*")))
         context = playwright.chromium.launch_persistent_context(
             tempfile.mkdtemp(),
             channel="chrome",
