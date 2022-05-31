@@ -1,11 +1,8 @@
 import logging
 import tempfile
-import time
-import typing
-from pathlib import Path
 
 import click
-from playwright.sync_api import Error, sync_playwright
+from playwright.sync_api import sync_playwright
 
 from . import utils
 
@@ -23,30 +20,42 @@ def cli():
 
 
 @cli.command()
-@click.argument("handle")
-@click.option("-o", "--output-dir", "output_dir", default="./")
-def single(handle: str, output_dir: str):
-    """Screenshot a single source."""
-    site = utils.get_site(handle)
-    _shoot(site, output_dir)
+def headless():
+    """Shoot headlessly."""
+    with sync_playwright() as playwright:
+        # Boot up the browser with the ad blocker plugin installed
+        click.echo("Launching Chromium browser")
+        context = playwright.chromium.launch(
+            channel="chrome",
+            headless=True,
+        )
+        click.echo("Created context")
+
+        # Create an empty tab
+        page = context.new_page()
+        click.echo("New page opened")
+
+        # Open the page
+        page.goto("https://www.latimes.com")
+        click.echo("Opened page")
+
+        # Take the screenshot
+        file_path = "_dist/headless.jpg"
+        page.screenshot(
+            quality=80,
+            type="jpeg",
+            path=file_path,
+        )
+        click.echo("Saved image")
+
+        # Close it out
+        context.close()
+        click.echo("Closed context")
 
 
 @cli.command()
-@click.argument("slug")
-@click.option("-o", "--output-dir", "output_dir", default="./")
-def bundle(slug: str, output_dir: str):
-    """Screenshot a bundle of sources."""
-    [_shoot(site, output_dir) for site in utils.get_sites_in_bundle(slug)]
-
-
-def _shoot(site: typing.Dict, output_dir: str):
-    """Shoot the provided site."""
-    click.echo(f"Screenshotting {site['name']}")
-
-    # Set the output path
-    output_path = Path(output_dir)
-    output_path.mkdir(parents=True, exist_ok=True)
-
+def headful():
+    """Shoot headfully."""
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
@@ -60,52 +69,29 @@ def _shoot(site: typing.Dict, output_dir: str):
                 f"--load-extension={path_to_extension}",
                 "--disable-gpu",
             ],
-            user_agent="News Homepages (https://homepages.news/)",
         )
-
-        # Set the timeout
-        context.set_default_timeout(60 * 1000)
+        click.echo("Created context")
 
         # Create an empty tab
         page = context.new_page()
-
-        # Set the window size
-        page.set_viewport_size(
-            {
-                "width": int(site["width"] or DEFAULT_WIDTH),
-                "height": int(site["height"] or DEFAULT_HEIGHT),
-            }
-        )
+        click.echo("New page opened")
 
         # Open the page
-        click.echo(f"Opening {site['url']}")
-        page.goto(site["url"])
-
-        # Give it a beat
-        wait = int(site["wait"] or DEFAULT_WAIT) / 1000
-        click.echo(f"Waiting {wait} seconds")
-        time.sleep(wait)
-
-        # If there's javascript run it
-        javascript = utils.get_javascript(site["handle"])
-        if javascript:
-            click.echo("Executing custom javascript")
-            try:
-                page.evaluate(javascript)
-            except Error as error:
-                raise click.ClickException(error.message)
+        page.goto("https://www.latimes.com")
+        click.echo("Opened page")
 
         # Take the screenshot
-        file_path = str(output_path / f"{site['handle'].lower()}.jpg")
-        click.echo(f"Saving image to {file_path}")
+        file_path = "_dist/headful.jpg"
         page.screenshot(
             quality=80,
             type="jpeg",
             path=file_path,
         )
+        click.echo("Saved image")
 
         # Close it out
         context.close()
+        click.echo("Closed context")
 
 
 if __name__ == "__main__":
