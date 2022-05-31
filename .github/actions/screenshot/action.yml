@@ -36,7 +36,7 @@ runs:
       run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot headless
       shell: bash
 
-    - id: headless
+    - id: headful
       name: Take headful screenshot
       run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot headful
 
