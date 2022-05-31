@@ -5,7 +5,7 @@ import time
 import click
 from playwright.sync_api import sync_playwright
 
-from . import utils
+# from . import utils
 
 DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
@@ -28,8 +28,8 @@ def headless():
         click.echo("Launching Chromium browser")
         context = playwright.chromium.launch_persistent_context(
             tempfile.mkdtemp(),
-            channel="chrome",
             headless=True,
+            executable_path="/usr/bin/brave-browser",
         )
         click.echo("Created context")
 
@@ -61,17 +61,18 @@ def headful():
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
-        path_to_extension = utils.EXTENSIONS_PATH / "ublock"
+        # path_to_extension = utils.EXTENSIONS_PATH / "ublock"
         # path_to_extension = utils.EXTENSIONS_PATH / "simple-extension"
         context = playwright.chromium.launch_persistent_context(
             tempfile.mkdtemp(),
-            channel="chrome",
             headless=False,
-            args=[
-                f"--disable-extensions-except={path_to_extension}",
-                f"--load-extension={path_to_extension}",
-                # "--disable-gpu",
-            ],
+            executable_path="/usr/bin/brave-browser",
+            args=["--aggressive"],
+            # args=[
+            #     f"--disable-extensions-except={path_to_extension}",
+            #     f"--load-extension={path_to_extension}",
+            #     # "--disable-gpu",
+            # ],
         )
         click.echo("Created context")
 
@@ -82,7 +83,7 @@ def headful():
         # Open the page
         page.goto("https://www.latimes.com")
         click.echo("Opened page")
-        time.sleep(3)
+        time.sleep(10)
 
         # Take the screenshot
         file_path = "_dist/headful.jpg"
