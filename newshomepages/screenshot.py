@@ -60,18 +60,18 @@ def headful():
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
-        path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
+        path_to_extension = utils.EXTENSIONS_PATH / "simple-extension"
         click.echo(path_to_extension.exists())
         click.echo(list(path_to_extension.glob("**/*")))
         context = playwright.chromium.launch_persistent_context(
             tempfile.mkdtemp(),
             channel="chrome",
             headless=False,
-            #            args=[
-            #                f"--disable-extensions-except={path_to_extension}",
-            #                f"--load-extension={path_to_extension}",
-            #                "--disable-gpu",
-            #            ],
+            args=[
+                f"--disable-extensions-except={path_to_extension}",
+                f"--load-extension={path_to_extension}",
+                # "--disable-gpu",
+            ],
         )
         click.echo("Created context")
 
