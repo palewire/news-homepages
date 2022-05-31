@@ -25,7 +25,8 @@ def headless():
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
-        context = playwright.chromium.launch(
+        context = playwright.chromium.launch_persistent_context(
+            tempfile.mkdtemp(),
             channel="chrome",
             headless=True,
         )
