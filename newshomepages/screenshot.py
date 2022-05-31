@@ -4,7 +4,7 @@ import tempfile
 import click
 from playwright.sync_api import sync_playwright
 
-# from . import utils
+from . import utils
 
 DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
@@ -60,7 +60,9 @@ def headful():
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
-        # path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
+        path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
+        click.echo(path_to_extension.exists())
+        click.echo(path_to_extension.glob("**/*"))
         context = playwright.chromium.launch_persistent_context(
             tempfile.mkdtemp(),
             channel="chrome",
