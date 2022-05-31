@@ -5,8 +5,6 @@ import time
 import click
 from playwright.sync_api import sync_playwright
 
-# from . import utils
-
 DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
 DEFAULT_WAIT = "3000"
@@ -61,18 +59,8 @@ def headful():
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
-        # path_to_extension = utils.EXTENSIONS_PATH / "ublock"
-        # path_to_extension = utils.EXTENSIONS_PATH / "simple-extension"
-        context = playwright.chromium.launch_persistent_context(
-            tempfile.mkdtemp(),
-            headless=False,
-            executable_path="/usr/bin/brave-browser",
-            args=["--aggressive"],
-            # args=[
-            #     f"--disable-extensions-except={path_to_extension}",
-            #     f"--load-extension={path_to_extension}",
-            #     # "--disable-gpu",
-            # ],
+        context = playwright.chromium.launch(
+            headless=False, executable_path="/usr/bin/brave-browser", args=[]
         )
         click.echo("Created context")
 
