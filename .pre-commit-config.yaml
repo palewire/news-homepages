@@ -14,17 +14,20 @@ repos:
     -   id: check-case-conflict
     -   id: check-json
     -   id: mixed-line-ending
+    exclude: newshomepages/extensions/
 
 -   repo: https://github.com/psf/black
     rev: 22.3.0
     hooks:
     -   id: black
+    exclude: newshomepages/extensions/
 
 -   repo: https://github.com/asottile/blacken-docs
     rev: v1.12.1
     hooks:
     -   id: blacken-docs
         additional_dependencies: [black]
+    exclude: newshomepages/extensions/
 
 -   repo: https://github.com/timothycrosley/isort
     rev: 5.10.1
