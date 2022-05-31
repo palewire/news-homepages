@@ -40,7 +40,6 @@ runs:
         sudo apt update
         sudo apt install brave-browser
         which brave-browser
-        ls $HOME/.config/brave-browser
       shell: bash
 
     - id: headless
