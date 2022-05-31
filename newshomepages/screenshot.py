@@ -1,5 +1,6 @@
 import logging
 import tempfile
+import time
 
 import click
 from playwright.sync_api import sync_playwright
@@ -60,10 +61,8 @@ def headful():
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
-        path_to_extension = utils.EXTENSIONS_PATH / "uBlock0.chromium"
+        path_to_extension = utils.EXTENSIONS_PATH / "ublock"
         # path_to_extension = utils.EXTENSIONS_PATH / "simple-extension"
-        click.echo(path_to_extension.exists())
-        click.echo(list(path_to_extension.glob("**/*")))
         context = playwright.chromium.launch_persistent_context(
             tempfile.mkdtemp(),
             channel="chrome",
@@ -83,6 +82,7 @@ def headful():
         # Open the page
         page.goto("https://www.latimes.com")
         click.echo("Opened page")
+        time.sleep(3)
 
         # Take the screenshot
         file_path = "_dist/headful.jpg"
