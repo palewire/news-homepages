@@ -1,5 +1,5 @@
 {
-  "created": 1653956404,
+  "created": 1654042887,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/26/items/foxnews-2022",
@@ -10088,31 +10088,147 @@
       "sha1": "90b698f6e3bd1b36d54c9baf1e7a86cea3030254"
     },
     {
+      "name": "foxnews-2022-05-30T20:23:24.060322-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653956614",
+      "size": "79487",
+      "md5": "b461f4409ae38c06a24256a4145db70f",
+      "crc32": "abd70d37",
+      "sha1": "0bd650059618de7e0558122f190e5ecde2143dd5",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-05-30T20:23:24.060322-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653956619",
+      "size": "95717",
+      "md5": "4712215152876a80c668580d9fce2b9d",
+      "crc32": "1cfbad86",
+      "sha1": "c4109317269b0e00051df92882668864caf42cf1",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-05-30T20:23:24.060322-04:00.jpg",
+      "source": "original",
+      "mtime": "1653956608",
+      "size": "429106",
+      "md5": "8298712cd70e1ffe853240b312114823",
+      "crc32": "29a13103",
+      "sha1": "acba624ee72f7bbd4e1a853f28f876511dc0787a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-05-30T20:23:24.060322-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-05-30T20:23:24.060322-04:00.jpg",
+      "mtime": "1653957156",
+      "size": "12451",
+      "md5": "a61bb003ad0ef2a310481df1fa365dd9",
+      "crc32": "466b2882",
+      "sha1": "276bf399f5e632fd88eca203bc6ea090b30ebb62"
+    },
+    {
+      "name": "foxnews-2022-05-31T08:11:39.415080-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653999133",
+      "size": "79829",
+      "md5": "cc0fef5251fb02e2c412cf186c75f5dd",
+      "crc32": "2314d9bb",
+      "sha1": "e922c419f2d43c238e277c94254f15be0de459c9",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-05-31T08:11:39.415080-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653999136",
+      "size": "96293",
+      "md5": "91cbabad0e2cd723f3c172a4cce66d46",
+      "crc32": "041d1e01",
+      "sha1": "e477423fe1a89094408bdd045c4d566c0ea8f376",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-05-31T08:11:39.415080-04:00.jpg",
+      "source": "original",
+      "mtime": "1653999130",
+      "size": "409424",
+      "md5": "e9bb586ef389e1c981769b8f4ec7f6df",
+      "crc32": "3c740882",
+      "sha1": "323cfa585398dcd0873abbe40c418767b6709ff8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-05-31T08:11:39.415080-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-05-31T08:11:39.415080-04:00.jpg",
+      "mtime": "1654001486",
+      "size": "11867",
+      "md5": "6e8b343729ea210ea645e55c8f8ef5cd",
+      "crc32": "fb36d2aa",
+      "sha1": "78ced7aac5228110291327fb962137469a98b39d"
+    },
+    {
+      "name": "foxnews-2022-05-31T14:09:09.314282-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654020555",
+      "size": "94854",
+      "md5": "2d62ab5e581afe80097449b20eee1a91",
+      "crc32": "575e8985",
+      "sha1": "6d02177e15089f58520c5ace55979e89bc315c97",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-05-31T14:09:09.314282-04:00.jpg",
+      "source": "original",
+      "mtime": "1654020552",
+      "size": "408784",
+      "md5": "8044738470f92e5ce332019e8ffef022",
+      "crc32": "0c86d7b4",
+      "sha1": "3131214d72c852d1d8b57a44c8024ec45370fd56",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-05-31T14:09:09.314282-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-05-31T14:09:09.314282-04:00.jpg",
+      "mtime": "1654024851",
+      "size": "12131",
+      "md5": "ca4345293b4e55361ec64186d5076173",
+      "crc32": "19c7509d",
+      "sha1": "b9602e66f7de00aee514e3e73963b536999bcb86"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ec2a3965b021de5af30428d64752b090a958bbd",
-      "mtime": "1653936269",
-      "size": "203390",
-      "md5": "38c4edc7fad715c1a70c2ac9186629e6",
-      "crc32": "0a025cee",
-      "sha1": "06b9ba4f76b4b7e38df8dffce0ac323817759fb1",
+      "btih": "c56f971bb93520aa847c1931703597f94c3d45c9",
+      "mtime": "1654025587",
+      "size": "205735",
+      "md5": "fbf61dc122b4d211f5af8bea9ea4acd2",
+      "crc32": "7dae5ed4",
+      "sha1": "d7074a1f217a04008c1de3fb80baea0dc66017f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "970fa67fef2d513560d75cf0a44c1d6c",
+      "md5": "8c7cc3b8b8c95fad1f2826efa6497fda",
       "summation": "md5"
     },
     {
       "name": "foxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1653934355",
-      "size": "1081344",
-      "md5": "4b33cc48d549e5e2bdb9612ad09e33fd",
-      "crc32": "a5191881",
-      "sha1": "96f58b5e98dbc7365c04aa83ffcece653df19aeb",
+      "mtime": "1654021556",
+      "size": "1093632",
+      "md5": "09299c52ac1460dd062eb53b089033ae",
+      "crc32": "fd21a093",
+      "sha1": "a757dc58e2775e731859716fa92f404566293ac3",
       "format": "Metadata"
     },
     {
@@ -10126,9 +10242,3395 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 961,
-  "item_last_updated": 1653936269,
-  "item_size": 124966499,
+  "files_count": 972,
+  "foxnews-2022": [
+    {
+      "text": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.foxbusiness.com"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.foxnews.com/sports"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Weather",
+      "url": "https://www.foxweather.com"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Fox Nation",
+      "url": "https://www.foxnews.com/shows/fox-nation"
+    },
+    {
+      "text": "Listen",
+      "url": "https://radio.foxnews.com/podcast/"
+    },
+    {
+      "text": "More",
+      "url": "#"
+    },
+    {
+      "text": "Expand / Collapse search",
+      "url": "#"
+    },
+    {
+      "text": "Login",
+      "url": "#"
+    },
+    {
+      "text": "Watch TV",
+      "url": "https://video.foxnews.com/v/5614615980001/?#sp=watch-live"
+    },
+    {
+      "text": "Menu",
+      "url": "#"
+    },
+    {
+      "text": "TX SCHOOL SHOOTING",
+      "url": "https://www.foxnews.com/live-news/uvalde-texas-school-shooting"
+    },
+    {
+      "text": "S&P 500 +0.18%",
+      "url": "#"
+    },
+    {
+      "text": "NASDAQ +0.44%",
+      "url": "#"
+    },
+    {
+      "text": "DJIA +0.01%",
+      "url": "#"
+    },
+    {
+      "text": "More",
+      "url": "//www.foxbusiness.com/markets"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Crime",
+      "url": "https://www.foxnews.com/category/us/crime"
+    },
+    {
+      "text": "Military",
+      "url": "https://www.foxnews.com/category/us/military"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.foxnews.com/category/us/education"
+    },
+    {
+      "text": "Terror",
+      "url": "https://www.foxnews.com/category/us/terror"
+    },
+    {
+      "text": "Immigration",
+      "url": "https://www.foxnews.com/category/us/immigration"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.foxnews.com/category/us/economy"
+    },
+    {
+      "text": "Personal Freedoms",
+      "url": "https://www.foxnews.com/category/us/personal-freedoms"
+    },
+    {
+      "text": "Fox News Investigates",
+      "url": "https://www.foxnews.com/category/news-events/fox-news-investigates"
+    },
+    {
+      "text": "Digital Originals",
+      "url": "https://www.foxnews.com/category/us/digital-originals"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "U.N.",
+      "url": "https://www.foxnews.com/category/world/united-nations"
+    },
+    {
+      "text": "Conflicts",
+      "url": "https://www.foxnews.com/category/world/conflicts"
+    },
+    {
+      "text": "\nTerrorism",
+      "url": "https://www.foxnews.com/category/world/terrorism"
+    },
+    {
+      "text": "Disasters",
+      "url": "https://www.foxnews.com/category/world/disasters"
+    },
+    {
+      "text": "Global Economy",
+      "url": "https://www.foxnews.com/category/world/global-economy"
+    },
+    {
+      "text": "Environment",
+      "url": "https://www.foxnews.com/category/world/environment"
+    },
+    {
+      "text": "Religion",
+      "url": "https://www.foxnews.com/category/world/world-religion"
+    },
+    {
+      "text": "Scandals",
+      "url": "https://www.foxnews.com/category/world/scandals"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Executive",
+      "url": "https://www.foxnews.com/category/politics/executive"
+    },
+    {
+      "text": "Senate",
+      "url": "https://www.foxnews.com/category/politics/senate"
+    },
+    {
+      "text": "House",
+      "url": "https://www.foxnews.com/category/politics/house-of-representatives"
+    },
+    {
+      "text": "Judiciary",
+      "url": "https://www.foxnews.com/category/politics/judiciary"
+    },
+    {
+      "text": "Foreign Policy",
+      "url": "https://www.foxnews.com/category/politics/foreign-policy"
+    },
+    {
+      "text": "Polls",
+      "url": "https://www.foxnews.com/official-polls"
+    },
+    {
+      "text": "Elections",
+      "url": "https://www.foxnews.com/elections"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Celebrity News",
+      "url": "https://www.foxnews.com/category/entertainment/celebrity-news"
+    },
+    {
+      "text": "Movies",
+      "url": "https://www.foxnews.com/category/entertainment/movies"
+    },
+    {
+      "text": "TV News",
+      "url": "https://www.foxnews.com/category/entertainment/tv"
+    },
+    {
+      "text": "Music News",
+      "url": "https://www.foxnews.com/category/entertainment/music"
+    },
+    {
+      "text": "Style News",
+      "url": "https://www.foxnews.com/category/entertainment/style"
+    },
+    {
+      "text": "Entertainment Video",
+      "url": "https://video.foxnews.com/playlist/entertainment-latest-entertainment/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.foxbusiness.com/"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.foxbusiness.com/personal-finance"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.foxbusiness.com/economy"
+    },
+    {
+      "text": "Markets",
+      "url": "https://www.foxbusiness.com/markets"
+    },
+    {
+      "text": "Watchlist",
+      "url": "https://www.foxbusiness.com/watchlist"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxbusiness.com/lifestyle"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.foxbusiness.com/real-estate"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.foxbusiness.com/technology"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Food + Drink",
+      "url": "https://www.foxnews.com/food-drink"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "Travel + Outdoors",
+      "url": "https://www.foxnews.com/travel"
+    },
+    {
+      "text": "House + Home",
+      "url": "https://www.foxnews.com/category/real-estate"
+    },
+    {
+      "text": "Fitness + Well-being",
+      "url": "https://www.foxnews.com/category/fitness-and-wellbeing"
+    },
+    {
+      "text": "Style + Beauty",
+      "url": "https://www.foxnews.com/category/style-and-beauty"
+    },
+    {
+      "text": "Family",
+      "url": "https://www.foxnews.com/family"
+    },
+    {
+      "text": "Faith",
+      "url": "https://www.foxnews.com/category/faith-values/faith"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.foxnews.com/science"
+    },
+    {
+      "text": "Archaeology",
+      "url": "https://www.foxnews.com/category/science/archaeology"
+    },
+    {
+      "text": "Air & Space",
+      "url": "https://www.foxnews.com/category/science/air-and-space"
+    },
+    {
+      "text": "Planet Earth",
+      "url": "https://www.foxnews.com/category/science/planet-earth"
+    },
+    {
+      "text": "Wild Nature",
+      "url": "https://www.foxnews.com/category/science/wild-nature"
+    },
+    {
+      "text": "Natural Science",
+      "url": "https://www.foxnews.com/category/science/natural-science"
+    },
+    {
+      "text": "Dinosaurs",
+      "url": "https://www.foxnews.com/category/science/archaeology/dinosaurs"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.foxnews.com/tech"
+    },
+    {
+      "text": "Security",
+      "url": "https://www.foxnews.com/category/tech/topics/security"
+    },
+    {
+      "text": "Innovation",
+      "url": "https://www.foxnews.com/category/tech/topics/innovation"
+    },
+    {
+      "text": "\nDrones",
+      "url": "https://www.foxnews.com/category/tech/technologies/drones"
+    },
+    {
+      "text": "Computers",
+      "url": "https://www.foxnews.com/category/tech/topics/computers"
+    },
+    {
+      "text": "Video Games",
+      "url": "https://www.foxnews.com/category/tech/topics/video-games"
+    },
+    {
+      "text": "Military Tech",
+      "url": "https://www.foxnews.com/category/tech/topics/military-tech"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "Healthy Living",
+      "url": "https://www.foxnews.com/category/health/healthy-living"
+    },
+    {
+      "text": "Medical Research",
+      "url": "https://www.foxnews.com/category/health/medical-research"
+    },
+    {
+      "text": "Mental Health",
+      "url": "https://www.foxnews.com/category/health/mental-health"
+    },
+    {
+      "text": "Cancer",
+      "url": "https://www.foxnews.com/category/health/cancer"
+    },
+    {
+      "text": "Heart Health",
+      "url": "https://www.foxnews.com/category/health/heart-health"
+    },
+    {
+      "text": "Children's Health",
+      "url": "https://www.foxnews.com/category/health/healthy-living/childrens-health"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Shows",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Personalities",
+      "url": "https://www.foxnews.com/person/personalities"
+    },
+    {
+      "text": "Watch Live",
+      "url": "https://video.foxnews.com/v/5614615980001/?#sp=watch-live"
+    },
+    {
+      "text": "Full Episodes",
+      "url": "https://video.foxnews.com/playlist/episodic-most-recent-episodes/"
+    },
+    {
+      "text": "Show Clips",
+      "url": "https://video.foxnews.com/#sp=show-clips"
+    },
+    {
+      "text": "News Clips",
+      "url": "https://video.foxnews.com/#sp=news-clips"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.foxnews.com/contact"
+    },
+    {
+      "text": "Careers",
+      "url": "https://foxcareers.com/Search/SearchResults?brand=Fox%20News%20Careers"
+    },
+    {
+      "text": "Fox Around the World",
+      "url": "https://www.foxnews.com/foxaroundtheworld/"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "mailto:adsales@foxnews.com?subject=Advertising%20Inquiry"
+    },
+    {
+      "text": "Media Relations",
+      "url": "https://press.foxnews.com/media-contacts"
+    },
+    {
+      "text": "Corporate Information",
+      "url": "https://press.foxnews.com"
+    },
+    {
+      "text": "Compliance",
+      "url": "https://www.foxnews.com/compliance"
+    },
+    {
+      "text": "Supplier Diversity",
+      "url": "https://supplierdiversity.foxnews.com/"
+    },
+    {
+      "text": "Fox Weather",
+      "url": "https://www.foxweather.com"
+    },
+    {
+      "text": "Fox Nation",
+      "url": "https://www.foxnews.com/shows/fox-nation"
+    },
+    {
+      "text": "Fox News Shop",
+      "url": "https://shop.foxnews.com"
+    },
+    {
+      "text": "Fox News Go",
+      "url": "https://www.foxnews.com/go"
+    },
+    {
+      "text": "Fox News Radio",
+      "url": "https://radio.foxnews.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.foxnews.com/newsletters"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://radio.foxnews.com/podcast/"
+    },
+    {
+      "text": "\nApps & Products",
+      "url": "https://www.foxnews.com/apps-products"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/FoxNews"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/foxnews"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/foxnews"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.foxnews.com/about/rss/"
+    },
+    {
+      "text": "Email",
+      "url": "https://www.foxnews.com/newsletters"
+    },
+    {
+      "text": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "text": "New Terms of Use",
+      "url": "https://www.foxnews.com/terms-of-use"
+    },
+    {
+      "text": "New Privacy Policy",
+      "url": "https://www.foxnews.com/privacy-policy"
+    },
+    {
+      "text": "Do Not Sell my Personal Information",
+      "url": "https://www.foxnews.com/donotsell"
+    },
+    {
+      "text": "Closed Captioning Policy",
+      "url": "https://www.foxnews.com/closed-captioning"
+    },
+    {
+      "text": "Help",
+      "url": "https://help.foxnews.com"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.foxnews.com/contact"
+    },
+    {
+      "text": "Factset",
+      "url": "https://www.factset.com/"
+    },
+    {
+      "text": "FactSet Digital Solutions",
+      "url": "https://www.factset.com/solutions/business-needs/digital-solutions"
+    },
+    {
+      "text": "Legal Statement",
+      "url": "https://www.factset.com/privacy"
+    },
+    {
+      "text": "Refinitiv Lipper",
+      "url": "https://lipperalpha.refinitiv.com/"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/5614615980001/?#sp=watch-live"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/5614615980001/?#sp=watch-live"
+    },
+    {
+      "text": "On Now",
+      "url": "//video.foxnews.com/v/5614615980001/?#sp=watch-live"
+    },
+    {
+      "text": "America Reports",
+      "url": "https://www.foxnews.com/shows/america-reports"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307048789112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307048789112/"
+    },
+    {
+      "text": "faulkner focus",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "White House declines to talk gun control on Sunday shows",
+      "url": "https://video.foxnews.com/v/6307048789112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307046400112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307046400112/"
+    },
+    {
+      "text": "America's Newsroom",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Ted Williams: Law enforcement has to be 'proactive' on crime",
+      "url": "https://video.foxnews.com/v/6307046400112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307047770112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307047770112/"
+    },
+    {
+      "text": "America's Newsroom",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Biden's refusal to give Ukraine long-range rockets is 'quite telling': Dan Hoffman",
+      "url": "https://video.foxnews.com/v/6307047770112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307047351112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307047351112/"
+    },
+    {
+      "text": "America's Newsroom",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Former Clinton pollster says 'moving to the center' is the 'key to elections' as Texas runoff still not called",
+      "url": "https://video.foxnews.com/v/6307047351112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307043040112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307043040112/"
+    },
+    {
+      "text": "America's Newsroom",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "White House says inflation is in 'transition' as gas prices climb to another all-time high",
+      "url": "https://video.foxnews.com/v/6307043040112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307040741112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307040741112/"
+    },
+    {
+      "text": "\nFox & Friends",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Summer worker shortage hits pools, ice cream parlors, camps",
+      "url": "https://video.foxnews.com/v/6307040741112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307043918112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307043918112/"
+    },
+    {
+      "text": "Fox & Friends",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "How NASA astronaut Kjell Lindgren made his space dreams come true",
+      "url": "https://video.foxnews.com/v/6307043918112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307035682112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307035682112/"
+    },
+    {
+      "text": "Fox & Friends First",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Rep. Comer: No evidence gun control will result in less gun crime\n",
+      "url": "https://video.foxnews.com/v/6307035682112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307039043112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307039043112/"
+    },
+    {
+      "text": "Fox & Friends First",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Jack Brewer: We have a soft culture, we need to bring back discipline",
+      "url": "https://video.foxnews.com/v/6307039043112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307042066112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307042066112/"
+    },
+    {
+      "text": "Fox & Friends First",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Dr. Carol Swain: This is 'sad' for America, education in general",
+      "url": "https://video.foxnews.com/v/6307042066112/"
+    },
+    {
+      "text": "Show More",
+      "url": "#"
+    },
+    {
+      "text": "VERDICT IS IN",
+      "url": "https://www.foxnews.com/politics/michael-sussmann-not-guilty-special-prosecutor-john-durham"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Ex-Clinton campaign lawyer accused of lying to the FBI in Trump-Russia case learns his fate",
+      "url": "https://www.foxnews.com/politics/michael-sussmann-not-guilty-special-prosecutor-john-durham"
+    },
+    {
+      "text": "Durham's biggest problem in Sussmann trial is the jury, Andy McCarthy says",
+      "url": "https://www.foxnews.com/media/durhams-biggest-problem-in-sussmann-trial-is-the-jury-andy-mccarthy"
+    },
+    {
+      "text": "Hillary Clinton approved dissemination of Trump-Russian bank allegations to media, campaign manager testifies",
+      "url": "https://www.foxnews.com/politics/hillary-clinton-approved-trump-russian-bank-allegations-sussmann-trial"
+    },
+    {
+      "text": "'CALIBER OF CHOICE'",
+      "url": "https://www.foxnews.com/politics/biden-targeting-9mm-pistols-gop-lawmakers-react"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "GOP reacts to Biden's suggestion that 9mm handgun should be banned",
+      "url": "https://www.foxnews.com/politics/biden-targeting-9mm-pistols-gop-lawmakers-react"
+    },
+    {
+      "text": "Biden slammed for claiming there's 'no rational basis' for 9mm bullets",
+      "url": "https://www.foxnews.com/media/biden-9mm-bullets-second-amendment-banning-handguns"
+    },
+    {
+      "text": "'CLEAN-UP CAMPAIGN'",
+      "url": "https://www.foxnews.com/media/joe-biden-frustrated-white-house-aides-walking-back-statements-weak-report"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Biden reportedly growing frustrated WH aides keep walking back his statements",
+      "url": "https://www.foxnews.com/media/joe-biden-frustrated-white-house-aides-walking-back-statements-weak-report"
+    },
+    {
+      "text": "\nBiden contradicts WH assertion he 'was not discussing Putin\u2019s power in Russia' in Warsaw",
+      "url": "https://www.foxnews.com/politics/biden-contradicts-wh-assertion-he-was-not-discussing-putins-power-in-russia-in-warsaw"
+    },
+    {
+      "text": "YEARS OF \u2018GROOMING\u2019",
+      "url": "https://www.foxnews.com/us/indiana-pastor-sex-congregant-bobi-gephart-john-lowe-new-life-church-warsaw"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Woman whose pastor had sex with her at 16 reveals why she finally spoke out",
+      "url": "https://www.foxnews.com/us/indiana-pastor-sex-congregant-bobi-gephart-john-lowe-new-life-church-warsaw"
+    },
+    {
+      "text": "DIFFERENT STROKES",
+      "url": "https://www.foxnews.com/sports/penn-swimmer-lia-thomas-olympics-trans-women-not-threat-womens-sports"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.foxnews.com/sports"
+    },
+    {
+      "text": "Lia Thomas speaks out on trans athletes as she eyes the Olympics",
+      "url": "https://www.foxnews.com/sports/penn-swimmer-lia-thomas-olympics-trans-women-not-threat-womens-sports"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/5614615980001/?#sp=watch-live"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/5614615980001/?#sp=watch-live"
+    },
+    {
+      "text": "On Now",
+      "url": "//video.foxnews.com/v/5614615980001/?#sp=watch-live"
+    },
+    {
+      "text": "America Reports",
+      "url": "https://www.foxnews.com/shows/america-reports"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307048789112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307048789112/"
+    },
+    {
+      "text": "faulkner focus",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "White House declines to talk gun control on Sunday shows",
+      "url": "https://video.foxnews.com/v/6307048789112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307046400112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307046400112/"
+    },
+    {
+      "text": "America's Newsroom",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Ted Williams: Law enforcement has to be 'proactive' on crime",
+      "url": "https://video.foxnews.com/v/6307046400112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307047770112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307047770112/"
+    },
+    {
+      "text": "America's Newsroom",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Biden's refusal to give Ukraine long-range rockets is 'quite telling': Dan Hoffman",
+      "url": "https://video.foxnews.com/v/6307047770112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307047351112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307047351112/"
+    },
+    {
+      "text": "America's Newsroom",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Former Clinton pollster says 'moving to the center' is the 'key to elections' as Texas runoff still not called",
+      "url": "https://video.foxnews.com/v/6307047351112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307043040112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307043040112/"
+    },
+    {
+      "text": "America's Newsroom",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "White House says inflation is in 'transition' as gas prices climb to another all-time high",
+      "url": "https://video.foxnews.com/v/6307043040112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307040741112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307040741112/"
+    },
+    {
+      "text": "Fox & Friends",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Summer worker shortage hits pools, ice cream parlors, camps",
+      "url": "https://video.foxnews.com/v/6307040741112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307043918112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307043918112/"
+    },
+    {
+      "text": "Fox & Friends",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "How NASA astronaut Kjell Lindgren made his space dreams come true",
+      "url": "https://video.foxnews.com/v/6307043918112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307035682112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307035682112/"
+    },
+    {
+      "text": "Fox & Friends First",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Rep. Comer: No evidence gun control will result in less gun crime",
+      "url": "https://video.foxnews.com/v/6307035682112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307039043112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307039043112/"
+    },
+    {
+      "text": "Fox & Friends First",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Jack Brewer: We have a soft culture, we need to bring back discipline",
+      "url": "https://video.foxnews.com/v/6307039043112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307042066112/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307042066112/"
+    },
+    {
+      "text": "Fox & Friends First",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Dr. Carol Swain: This is 'sad' for America, education in general",
+      "url": "https://video.foxnews.com/v/6307042066112/"
+    },
+    {
+      "text": "Show More",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/live-news/johnny-depp-amber-heard-defamation-trial-court-case"
+    },
+    {
+      "text": "ENTERTAINMENT",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "VERDICT WATCH: Jury in Depp-Heard defamation trial deliberates",
+      "url": "https://www.foxnews.com/live-news/johnny-depp-amber-heard-defamation-trial-court-case"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/world/russian-lawmaker-kidnapping-nato-defense-minister-ukraine"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Russian lawmaker suggests kidnapping a NATO defense minister",
+      "url": "https://www.foxnews.com/world/russian-lawmaker-kidnapping-nato-defense-minister-ukraine"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/jim-jordan-sussmann-trial-hillary-clinton"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "New info learned about Hillary Clinton during Sussmann trial was 'huge', Rep. Jim Jordan says",
+      "url": "https://www.foxnews.com/media/jim-jordan-sussmann-trial-hillary-clinton"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/los-angeles-mayoral-candidate-police-watchdog-white-supremacy"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Mayoral candidate vows to eliminate city\u2019s police department",
+      "url": "https://www.foxnews.com/politics/los-angeles-mayoral-candidate-police-watchdog-white-supremacy"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/texas-school-shooting-robb-elementary-scene"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "'I TOOK OFF RUNNING': Border agent details 'chaos' in Uvalde after getting text from wife inside school",
+      "url": "https://www.foxnews.com/us/texas-school-shooting-robb-elementary-scene"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/flee-blue-cities-red-states-pandemic"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Americans flee blue cities for red states during the pandemic",
+      "url": "https://www.foxnews.com/us/flee-blue-cities-red-states-pandemic"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/florida-sheriff-10-year-old-arrested-school-shooting-threat"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Sheriff shares his 'zero tolerance' policy after 10-year-old arrested for school shooting threat",
+      "url": "https://www.foxnews.com/media/florida-sheriff-10-year-old-arrested-school-shooting-threat"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/us-memorial-day-weekend-shootings"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "US marks Memorial Day weekend with wave of shootings",
+      "url": "https://www.foxnews.com/us/us-memorial-day-weekend-shootings"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/texas-manhunt-gonzalo-lopez-tattoos-new-photos"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Marshals on the hunt for escaped killer",
+      "url": "https://www.foxnews.com/us/texas-manhunt-gonzalo-lopez-tattoos-new-photos"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/house-dems-gun-package-raise-age-limit-semi-automatic-rifle-purchases-ban-high-capacity-magazines"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "House committee to hold emergency meeting as Dems renew push for gun control measures",
+      "url": "https://www.foxnews.com/politics/house-dems-gun-package-raise-age-limit-semi-automatic-rifle-purchases-ban-high-capacity-magazines"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/senate-gun-control-negotiations-cornyn-murphy-texas-school-shooting"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Crucial week for possible gun control bill after decades without major federal action",
+      "url": "https://www.foxnews.com/politics/senate-gun-control-negotiations-cornyn-murphy-texas-school-shooting"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/the-view-whoopi-goldberg-ar-15"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Whoopi Goldberg says people can 'keep whatever' other gun they have besides popular AR-15 rifle",
+      "url": "https://www.foxnews.com/media/the-view-whoopi-goldberg-ar-15"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/nbc-cnn-excuse-biden-difficult-job-crises"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "NBC News, historian on CNN, others excuse Biden, highlight \u2018difficult job\u2019 as crises pile up",
+      "url": "https://www.foxnews.com/media/nbc-cnn-excuse-biden-difficult-job-crises"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/kirk-cameron-public-schools-grooming-kids-critical-race-theory-sexual-chaos-racial-confusion"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/kirk-cameron-public-schools-grooming-kids-critical-race-theory-sexual-chaos-racial-confusion"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "\u2018TEACH THEM AT HOME\u2019: Actor blasts America\u2019s public schools for pushing progressive agendas",
+      "url": "https://www.foxnews.com/media/kirk-cameron-public-schools-grooming-kids-critical-race-theory-sexual-chaos-racial-confusion"
+    },
+    {
+      "text": "\n",
+      "url": "https://www.foxnews.com/media/sussmann-trial-elaborate-conspiracy-verdict-hemingway"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "\u2018Elaborate conspiracy\u2019 to undermine electoral process clear despite verdict, Hemingway says",
+      "url": "https://www.foxnews.com/media/sussmann-trial-elaborate-conspiracy-verdict-hemingway"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/us-catholic-bishops-bar-nancy-pelosi-communion"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/us-catholic-bishops-bar-nancy-pelosi-communion"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "More US bishops support banning Pelosi from receiving Communion",
+      "url": "https://www.foxnews.com/us/us-catholic-bishops-bar-nancy-pelosi-communion"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/entertainment/danica-patrick-breast-implant-illness"
+    },
+    {
+      "text": "Entertainment\n",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "'I FEEL REALLY GOOD': Danica Patrick goes under knife again and hasn't looked back",
+      "url": "https://www.foxnews.com/entertainment/danica-patrick-breast-implant-illness"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/ranking-republicans-demand-answers-garland-covid-fraud"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Ranking Republicans demand answers from Garland on COVID fraud",
+      "url": "https://www.foxnews.com/politics/ranking-republicans-demand-answers-garland-covid-fraud"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/marco-rubio-school-shootings-threat-assessment"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Marco Rubio points out key issue leading to missed school shooting threats",
+      "url": "https://www.foxnews.com/media/marco-rubio-school-shootings-threat-assessment"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/texas-state-senator-uvalde-shooting-reaction"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Texas state senator says 'every agency' at Uvalde shooting scene should take 'heat'",
+      "url": "https://www.foxnews.com/us/texas-state-senator-uvalde-shooting-reaction"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/auto/delorean-unveiled-tesla-gullwing"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "BACK TO THE FUTURE: Texas company looks in rearview mirror, rebirths iconic DeLorean",
+      "url": "https://www.foxnews.com/auto/delorean-unveiled-tesla-gullwing"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/rove-rips-biden-inflation-plan-political-talking-point"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Biden's inflation strategy 'not a serious plan,' Karl Rove says",
+      "url": "https://www.foxnews.com/media/rove-rips-biden-inflation-plan-political-talking-point"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/chicago-homeless-man-fire-out-bail"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Chicago man who set homeless man on fire at Trump Tower was reportedly out on bail",
+      "url": "https://www.foxnews.com/us/chicago-homeless-man-fire-out-bail"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/opinion/ukraine-russia-free-world-putin-xi"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "Ukraine's leadership against Russian brutality shows the world how to fight Putin and Xi",
+      "url": "https://www.foxnews.com/opinion/ukraine-russia-free-world-putin-xi"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/sports/derek-jeter-joins-social-media-fans-take-it-easy-new-to-this"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.foxnews.com/sports"
+    },
+    {
+      "text": "Derek Jeter joins social media, asks fans to take it easy on him",
+      "url": "https://www.foxnews.com/sports/derek-jeter-joins-social-media-fans-take-it-easy-new-to-this"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/sen-roger-marshall-migrant-heat-exhaustion-dramatic-border-trip"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/sen-roger-marshall-migrant-heat-exhaustion-dramatic-border-trip"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "GOP senator forced to get hands-on during dramatic trip to border",
+      "url": "https://www.foxnews.com/politics/sen-roger-marshall-migrant-heat-exhaustion-dramatic-border-trip"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/lifestyle/nj-college-graduate-student-loans-book-business"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "How a college grad paid off $70K in student loans",
+      "url": "https://www.foxnews.com/lifestyle/nj-college-graduate-student-loans-book-business"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/lifestyle/fda-warns-against-avocado-hack-jar-water"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "FDA warns against viral avocado kitchen hack that can get you sick",
+      "url": "https://www.foxnews.com/lifestyle/fda-warns-against-avocado-hack-jar-water"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/cartoons-slideshow"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Best of political cartoons: Taking a bite out of the dollar",
+      "url": "https://www.foxnews.com/politics/cartoons-slideshow"
+    },
+    {
+      "text": "",
+      "url": "https://t2t.org/"
+    },
+    {
+      "text": "Close",
+      "url": "#"
+    },
+    {
+      "text": "Close",
+      "url": "#"
+    },
+    {
+      "text": "Show More",
+      "url": "#"
+    },
+    {
+      "text": "'The light will never go out': Uvalde community relying on faith to pull them through tragedy",
+      "url": "https://www.foxnews.com/us/uvalde-community-relying-faith-pull-through-tragedy"
+    },
+    {
+      "text": "Uvalde school police chief's swearing-in ceremony for city council called off following shooting: report",
+      "url": "https://www.foxnews.com/us/uvalde-school-police-chiefs-swearing-ceremony-city-council"
+    },
+    {
+      "text": "President Biden suggests razing Texas elementary school where 21 people were killed, state senator says",
+      "url": "https://www.foxnews.com/us/president-biden-suggests-razing-texas-elementary-school-uvalde"
+    },
+    {
+      "text": "Texas school shooting suspect's grandmother upgraded to 'fair condition'",
+      "url": "https://www.foxnews.com/us/texas-uvalde-school-shooting-suspects-grandmother-fair-condition"
+    },
+    {
+      "text": "Blaming Texas police for waiting during shooting is \u2018destructive, distracting, and unfair,\u2019 Sen. Cornyn says",
+      "url": "https://www.foxnews.com/politics/uvalde-texas-shooting-blaming-police-destructive-distracting-cornyn"
+    },
+    {
+      "text": "Your Money",
+      "url": "//www.foxbusiness.com/personal-finance"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxbusiness.com/personal-finance/mortgage-rates-drop-second-week"
+    },
+    {
+      "text": "Mortgage rates drop for second consecutive week",
+      "url": "https://www.foxbusiness.com/personal-finance/mortgage-rates-drop-second-week"
+    },
+    {
+      "text": "Show More",
+      "url": "#"
+    },
+    {
+      "text": "Memorial Day is a reminder freedom 'must be fought for and defended constantly'",
+      "url": "https://www.foxnews.com/opinion/memorial-day-reminder-freedom-fought-defended"
+    },
+    {
+      "text": "Newt Gingrich",
+      "url": "https://www.foxnews.com/person/g/newt-gingrich"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/opinion/memorial-day-reminder-freedom-fought-defended"
+    },
+    {
+      "text": "This Memorial Day, remember those who sacrificed everything for our country",
+      "url": "https://www.foxnews.com/opinion/memorial-day-remember-honor-country"
+    },
+    {
+      "text": "Michael Pompeo",
+      "url": "https://www.foxnews.com/person/p/michael-r-pompeo"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/opinion/memorial-day-remember-honor-country"
+    },
+    {
+      "text": "Biden's energy policies do nothing to increase supply as gas prices break records",
+      "url": "https://www.foxnews.com/opinion/biden-energy-policies-supply-gas-prices-records"
+    },
+    {
+      "text": "Sen. John Barrasso",
+      "url": "https://www.foxnews.com/person/b/sen-john-barrasso"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/opinion/biden-energy-policies-supply-gas-prices-records"
+    },
+    {
+      "text": "Show More",
+      "url": "#"
+    },
+    {
+      "text": "\n",
+      "url": "https://link.chtbl.com/rundown?sid=fnc.root"
+    },
+    {
+      "text": "Close",
+      "url": "#"
+    },
+    {
+      "text": "Close",
+      "url": "#"
+    },
+    {
+      "text": "New dog named OLDEST in world",
+      "url": "https://www.foxnews.com/lifestyle/south-carolina-dog-oldest-living-world"
+    },
+    {
+      "text": "Disney guest asked to LEAVE over this",
+      "url": "https://www.foxnews.com/lifestyle/disney-epcot-guest-leave-buy-shirt-dress-code"
+    },
+    {
+      "text": "Actor JAMS out as jury debates",
+      "url": "https://www.foxnews.com/entertainment/johnny-depp-surprise-performance-england-jury-debates-defamation-case"
+    },
+    {
+      "text": "'Top Gun' BREAKS Memorial Day record",
+      "url": "https://www.foxnews.com/entertainment/top-gun-maverick-memorial-day-box-office-tom-cruise-movie"
+    },
+    {
+      "text": "Wynonna Judd REFLECTS on mom\u2019s death",
+      "url": "https://www.foxnews.com/entertainment/wynonna-judd-reflects-naomi-judds-death-story"
+    },
+    {
+      "text": "\u2018RHOC\u2019 alum faces BACKLASH",
+      "url": "https://www.foxnews.com/entertainment/rhoc-alum-kelly-dodd-backlash-comparing-texas-shooting-9-11"
+    },
+    {
+      "text": "\nThe WORST cities to buy used cars in",
+      "url": "https://www.foxnews.com/auto/cheaper-used-car-state"
+    },
+    {
+      "text": "Bride reels in HUGE fish",
+      "url": "https://www.foxnews.com/great-outdoors/texas-bride-catches-huge-fish-wedding-night"
+    },
+    {
+      "text": "\nTRY IT: Oven-baked pork ribs",
+      "url": "https://www.foxnews.com/lifestyle/oven-baked-pork-ribs-tamarind-bbq-sauce-recipe"
+    },
+    {
+      "text": "BEST campgrounds in America",
+      "url": "https://www.foxnews.com/travel/best-campgrounds-across-united-states"
+    },
+    {
+      "text": "Honda TRUCKS up",
+      "url": "https://www.foxnews.com/auto/review-2022-honda-passport-trailsport"
+    },
+    {
+      "text": "Previous",
+      "url": "#"
+    },
+    {
+      "text": "Next",
+      "url": "#"
+    },
+    {
+      "text": "Digital Originals",
+      "url": "//www.foxnews.com/category/us/digital-originals"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/category/us/digital-originals"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/world/baby-formula-shortage-not-problem-mexico"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Baby formula shortage not a problem in Mexico, parents say",
+      "url": "//www.foxnews.com/world/baby-formula-shortage-not-problem-mexico"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Gas prices won't affect Memorial Day weekend travel plans, Americans say",
+      "url": "//www.foxnews.com/us/gas-prices-wont-affect-memorial-day-weekend-travel-plans-americans-say"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Uvalde, Texas, residents respond to revelation police waited to engage mass shooter",
+      "url": "//www.foxnews.com/us/uvalde-texas-residents-respond-revelation-police-waited-engage-shooter"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "Breast milk bought online amid baby formula shortage could harm infant health, pediatric dietitian warns",
+      "url": "//www.foxnews.com/health/breast-milk-bought-online-baby-formula-shortage-harms-infant-health"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Family of Texas shooting victims criticizes school for neglecting security",
+      "url": "//www.foxnews.com/us/texas-shooting-victims-family-criticize-school-neglecting-security"
+    },
+    {
+      "text": "Business",
+      "url": "//www.foxbusiness.com"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxbusiness.com"
+    },
+    {
+      "text": "",
+      "url": "//www.foxbusiness.com/economy/biden-inflation-plan-fed-reserve-congress"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.foxbusiness.com/category/economy"
+    },
+    {
+      "text": "Biden's inflation plan calls on the Fed, Congress to act, showing limits of executive response",
+      "url": "//www.foxbusiness.com/economy/biden-inflation-plan-fed-reserve-congress"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.foxbusiness.com/category/real-estate"
+    },
+    {
+      "text": "Real estate market enters \u2018murky territory\u2019 amid price drops: \u2018Million Dollar Listing\u2019 star",
+      "url": "//www.foxbusiness.com/real-estate/real-estate-murky-territory-price-drops-kirsten-jordan"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.foxbusiness.com/category/personal-finance"
+    },
+    {
+      "text": "Mortgage rates drop for second consecutive week",
+      "url": "//www.foxbusiness.com/personal-finance/mortgage-rates-drop-second-week"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.foxbusiness.com/category/economy"
+    },
+    {
+      "text": "Economist warns US backdrop a 'whipsaw'",
+      "url": "//www.foxbusiness.com/economy/economist-warns-us-backdrop-a-whipsaw"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.foxbusiness.com/category/economy"
+    },
+    {
+      "text": "US inflation won\u2019t slow for \u2018another 18 months,\u2019 economist Steve Moore says",
+      "url": "//www.foxbusiness.com/economy/us-inflation-record-highs-trump-economist-steve-moore"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "//www.foxnews.com/category/health/infectious-disease/coronavirus"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/category/health/infectious-disease/coronavirus"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/us/flee-blue-cities-red-states-pandemic"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Americans flee blue cities for red states during the pandemic: report",
+      "url": "//www.foxnews.com/us/flee-blue-cities-red-states-pandemic"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "5,000 flights cancelled over Memorial Day weekend: Industry expert blames worker and pilot shortages",
+      "url": "//www.foxnews.com/media/flight-cancellations-memorial-day-weekend-pilot-shortage"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Monkeypox presents moderate risk to global public health, WHO says",
+      "url": "//www.foxnews.com/world/monkeypox-moderate-risk-global-public-health-who"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Shanghai to lift lockdown restrictions on June 1",
+      "url": "//www.foxnews.com/world/shanghai-lift-lockdown-restrictions-june-1"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "North Korea moves to soften curbs amid doubts over COVID counts",
+      "url": "//www.foxnews.com/world/north-korea-doubts-covid-counts"
+    },
+    {
+      "text": "Fox News Flash",
+      "url": "//www.foxnews.com/category/media/fox-news-flash"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/category/media/fox-news-flash"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/media/jim-jordan-sussmann-trial-hillary-clinton"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "\nJim Jordan on Sussmann trial: What we learned about Hillary Clinton was \u2018huge\u2019",
+      "url": "//www.foxnews.com/media/jim-jordan-sussmann-trial-hillary-clinton"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Baby formula shortage: Mom running out of necessary medical-grade formula demands answers",
+      "url": "//www.foxnews.com/media/baby-formula-shortage-virginia-mom"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Marco Rubio calls for improved 'threat assessment process' to stop school shooters before they act",
+      "url": "//www.foxnews.com/media/marco-rubio-school-shootings-threat-assessment"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Gov. Hutchinson calls out Biden admin: 'Drug cartels are controlling the border'",
+      "url": "//www.foxnews.com/media/asa-hutchinson-biden-cartels-control-border"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Clay Travis on Lia Thomas competition controversy: 'This is steroids on an entirely different level'",
+      "url": "//www.foxnews.com/media/clay-travis-lia-thomas-competition-controversy-steroids"
+    },
+    {
+      "text": "Politics",
+      "url": "//www.foxnews.com/politics"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/politics"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/politics/senate-gun-control-negotiations-cornyn-murphy-texas-school-shooting"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Texas school shooting: Crucial week for possible gun control bill after decades without major federal action",
+      "url": "//www.foxnews.com/politics/senate-gun-control-negotiations-cornyn-murphy-texas-school-shooting"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Ranking Republicans demand answers from Garland on COVID fraud",
+      "url": "//www.foxnews.com/politics/ranking-republicans-demand-answers-garland-covid-fraud"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "GOP lawmakers torch Biden over suggested ban on 9mm pistols",
+      "url": "//www.foxnews.com/politics/biden-targeting-9mm-pistols-gop-lawmakers-react"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "\n4,000 illegal immigrants crossed border over Memorial Day weekend in Rio Grande Valley sector alone",
+      "url": "//www.foxnews.com/politics/4000-illegal-immigrants-border-memorial-day"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Group bankrolled by Netflix CEO's wife pours six figures into efforts to save far-left San Fran DA from recall",
+      "url": "//www.foxnews.com/politics/san-francisco-da-recall-netflix-ceo-wife"
+    },
+    {
+      "text": "U.S.",
+      "url": "//www.foxnews.com/us"
+    },
+    {
+      "text": "View All\n",
+      "url": "//www.foxnews.com/us"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/us/texas-state-senator-uvalde-shooting-reaction"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Texas state senator on Uvalde shooting: 'Every agency at that scene should be taking heat'",
+      "url": "//www.foxnews.com/us/texas-state-senator-uvalde-shooting-reaction"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Texas escaped killer Gonzalo Lopez tattoos seen in new photos; manhunt reaches Day 20",
+      "url": "//www.foxnews.com/us/texas-manhunt-gonzalo-lopez-tattoos-new-photos"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Chicago man who set homeless man on fire at Trump tower was out on bail: report",
+      "url": "//www.foxnews.com/us/chicago-homeless-man-fire-out-bail"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Fire in New Mexico: Crews make progress on state's largest blaze",
+      "url": "//www.foxnews.com/us/fire-new-new-mexico-crews-progress-states-largest-blaze"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Americans flee blue cities for red states during the pandemic: report",
+      "url": "//www.foxnews.com/us/flee-blue-cities-red-states-pandemic"
+    },
+    {
+      "text": "World",
+      "url": "//www.foxnews.com/world"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/world"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/world/russian-lawmaker-kidnapping-nato-defense-minister-ukraine"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Russian lawmaker suggests kidnapping a NATO defense minister",
+      "url": "//www.foxnews.com/world/russian-lawmaker-kidnapping-nato-defense-minister-ukraine"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Ukrainian troops hold back Russia from taking priority city in Donbas",
+      "url": "//www.foxnews.com/world/ukrainian-troops-russia-priority-city-in-donbas"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "\nTurkey's Erdogan: Sweden, Finland joining NATO poses 'risks' for 'organization's future'",
+      "url": "//www.foxnews.com/world/turkish-erdogan-sweden-finland-nato"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Two Young People Trespassing a Rail Bridge in Toronto Come Within Seconds Of Serious Injury",
+      "url": "//www.foxnews.com/world/people-trespassing-bridge-toronto-within-seconds-serious-injury"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Russia-Ukraine war: 15k probes into Russian war crimes, 'Cost of justice is small potatoes' says ICC head",
+      "url": "//www.foxnews.com/world/russia-ukraine-war-15k-probes-russian-war-crimes-cost-of-justice-small-potatoes-icc"
+    },
+    {
+      "text": "America Together",
+      "url": "https://www.foxnews.com/category/us/personal-freedoms/america-together"
+    },
+    {
+      "text": "View All",
+      "url": "https://www.foxnews.com/category/us/personal-freedoms/america-together"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/lifestyle/veteran-performs-military-honors-north-dakota"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Veteran performs hundreds of military honors in North Dakota: \u2018Something you\u2019ve got to do\u2019",
+      "url": "//www.foxnews.com/lifestyle/veteran-performs-military-honors-north-dakota"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Illinois philanthropist awards debt-free college scholarships to students and their parents",
+      "url": "//www.foxnews.com/us/hope-chicago-college-education-scholarships"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Retired Las Vegas officer who responded to Harvest Festival shooting reveals what's 'always' in his bag",
+      "url": "//www.foxnews.com/us/retired-las-vegas-officer-route-91-shooting-bag"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "\nNJ math teacher, wife build nation's first sports complex for people with special needs",
+      "url": "//www.foxnews.com/us/special-needs-sports-complex"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Utah sanitation worker stops to fold American flag found in trash: 'A lot of people died under that flag'",
+      "url": "//www.foxnews.com/media/utah-sanitation-worker-american-flag-trash-video"
+    },
+    {
+      "text": "Opinion",
+      "url": "//www.foxnews.com/opinion"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/opinion"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/opinion/biden-blinken-china-soft-taiwan"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "Team Biden's approach to China is so soft it's sinister",
+      "url": "//www.foxnews.com/opinion/biden-blinken-china-soft-taiwan"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "Texas school shooting reveals freedom's dark side",
+      "url": "//www.foxnews.com/opinion/texas-school-shooting-guns-freedom-constitution"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "Ukraine's courage against Russia shows free world how to stand up to Putin and Xi",
+      "url": "//www.foxnews.com/opinion/ukraine-russia-free-world-putin-xi"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "This Memorial Day, remember those who sacrificed everything for our country",
+      "url": "//www.foxnews.com/opinion/memorial-day-remember-honor-country"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "Memorial Day is a reminder freedom 'must be fought for and defended constantly'",
+      "url": "//www.foxnews.com/opinion/memorial-day-reminder-freedom-fought-defended"
+    },
+    {
+      "text": "What to Watch",
+      "url": "//video.foxnews.com"
+    },
+    {
+      "text": "View All",
+      "url": "//video.foxnews.com"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6306910172112"
+    },
+    {
+      "text": "129109",
+      "url": "https://video.foxnews.com/v/6306910172112"
+    },
+    {
+      "text": "Video",
+      "url": "//video.foxnews.com/"
+    },
+    {
+      "text": "Uvalde, Texas, residents respond to revelation police waited to engage mass shooter",
+      "url": "https://video.foxnews.com/v/6306910172112"
+    },
+    {
+      "text": "132203",
+      "url": "https://video.foxnews.com/v/6306901728112"
+    },
+    {
+      "text": "Review: 2022 Honda Passport TrailSport",
+      "url": "https://video.foxnews.com/v/6306901728112"
+    },
+    {
+      "text": "184405",
+      "url": "https://video.foxnews.com/v/6306886881112"
+    },
+    {
+      "text": "Breast milk bought online amid baby formula shortage could harm infant health, pediatric dietitian warns",
+      "url": "https://video.foxnews.com/v/6306886881112"
+    },
+    {
+      "text": "1098688",
+      "url": "https://video.foxnews.com/v/6306861286112"
+    },
+    {
+      "text": "ALL SECURE - Part 1",
+      "url": "https://video.foxnews.com/v/6306861286112"
+    },
+    {
+      "text": "88512",
+      "url": "https://video.foxnews.com/v/6306866063112"
+    },
+    {
+      "text": "Family of Texas shooting victims criticize school for neglecting security, say children died",
+      "url": "https://video.foxnews.com/v/6306866063112"
+    },
+    {
+      "text": "Proud American",
+      "url": "//www.foxnews.com/category/us/personal-freedoms/proud-american"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/category/us/personal-freedoms/proud-american"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/lifestyle/veteran-performs-military-honors-north-dakota"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Veteran performs hundreds of military honors in North Dakota: \u2018Something you\u2019ve got to do\u2019",
+      "url": "//www.foxnews.com/lifestyle/veteran-performs-military-honors-north-dakota"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "This Memorial Day, remember those who sacrificed everything for our country",
+      "url": "//www.foxnews.com/opinion/memorial-day-remember-honor-country"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Gold Star parents launch Operation 300 in honor of son whose life was lost in Afghanistan",
+      "url": "//www.foxnews.com/media/gold-star-families-operation-300-memorial-day"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "\nGrand Ole Opry celebrates America \u2014 and now it's coming back strong",
+      "url": "//www.foxnews.com/lifestyle/grand-ole-opry-america-strong"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "NASCAR introduces patriotic paint schemes for Coca-Cola 600",
+      "url": "//www.foxnews.com/auto/nascars-patriotic-paint-schemes-coca-cola"
+    },
+    {
+      "text": "Family",
+      "url": "https://www.foxnews.com/family"
+    },
+    {
+      "text": "View All",
+      "url": "https://www.foxnews.com/family"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/travel/best-campgrounds-across-united-states"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.foxnews.com/travel"
+    },
+    {
+      "text": "Best campgrounds across America",
+      "url": "//www.foxnews.com/travel/best-campgrounds-across-united-states"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.foxnews.com/travel"
+    },
+    {
+      "text": "Tips for road tripping with dogs, from people who live in a van year-round",
+      "url": "//www.foxnews.com/travel/road-tripping-with-dogs-tips-people-live-bus"
+    },
+    {
+      "text": "\nLifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Disney World guest says she was asked to leave park or buy shirt to match dress code",
+      "url": "//www.foxnews.com/lifestyle/disney-epcot-guest-leave-buy-shirt-dress-code"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Husband of teacher slain in Uvalde shooting suffers fatal heart attack: Reports",
+      "url": "//www.foxnews.com/us/husband-teacher-texas-shooting-heart-attack-garcia"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "GOP senator pins growing 'rampage violence' on fatherlessness, family breakdown",
+      "url": "//www.foxnews.com/us/lee-rampage-violence-fatherlessness-family-breakdown"
+    },
+    {
+      "text": "Entertainment",
+      "url": "//www.foxnews.com/entertainment"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/entertainment"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/entertainment/johnny-depp-ritz-dining-chicken-parm-bombshell-defamation-trial"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "\nJohnny Depp is staying at Ritz, dining on chicken parm during bombshell defamation trial",
+      "url": "//www.foxnews.com/entertainment/johnny-depp-ritz-dining-chicken-parm-bombshell-defamation-trial"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "A$AP Rocky welcomes baby with Rihanna, explains how he wants to raise his children",
+      "url": "//www.foxnews.com/entertainment/aap-rocky-baby-rihanna-raise-children"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "'Top Gun: Maverick' beats out third installment of 'Pirates of the Caribbean' in record box office numbers",
+      "url": "//www.foxnews.com/entertainment/top-gun-maverick-pirates-caribbean-record-box-office-numbers"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Netflix releases Norm Macdonald comedy special posthumously",
+      "url": "//www.foxnews.com/entertainment/netflix-norm-macdonald-comedy-special"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Lily-Rose Depp turns 23 amid Johnny Depp's ugly defamation trial against ex Amber Heard",
+      "url": "//www.foxnews.com/entertainment/lily-rose-depp-turns-23-fathers-defamation-trial-amber-heard"
+    },
+    {
+      "text": "Sports",
+      "url": "//www.foxnews.com/sports"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/sports"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/sports/derek-jeter-joins-social-media-fans-take-it-easy-new-to-this"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.foxnews.com/sports"
+    },
+    {
+      "text": "Derek Jeter joins social media, asks fans to take it easy on him: \u2018I\u2019m new to this\u2019",
+      "url": "//www.foxnews.com/sports/derek-jeter-joins-social-media-fans-take-it-easy-new-to-this"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.foxnews.com/sports"
+    },
+    {
+      "text": "Rams\u2019 Aaron Donald wants to recapture feeling of winning Super Bowl, discusses need for new contract",
+      "url": "//www.foxnews.com/sports/rams-aaron-donald-super-bowl-new-contract"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.foxnews.com/sports"
+    },
+    {
+      "text": "Eagles' Jalen Reagor mourns the loss of former TCU teammate Jeff Gladney: 'I just lost my best friend'",
+      "url": "//www.foxnews.com/sports/eagles-jalen-reagor-tcu-teammate-jeff-gladney-best-friend"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.foxnews.com/sports"
+    },
+    {
+      "text": "WNBA's Liz Cambage denies directing racial slur toward Nigerian players before Tokyo Olympics",
+      "url": "//www.foxnews.com/sports/wnbas-liz-cambage-denies-racial-slur-nigerian-players-tokyo-olympics"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.foxnews.com/sports"
+    },
+    {
+      "text": "Former Penn swimmer Lia Thomas has Olympic goals, says trans women 'not a threat to women's sports'",
+      "url": "//www.foxnews.com/sports/penn-swimmer-lia-thomas-olympics-trans-women-not-threat-womens-sports"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "//www.foxbusiness.com/category/personal-finance"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxbusiness.com/category/personal-finance"
+    },
+    {
+      "text": "",
+      "url": "//www.foxbusiness.com/personal-finance/mortgage-rates-drop-second-week"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.foxbusiness.com/category/personal-finance"
+    },
+    {
+      "text": "\nMortgage rates drop for second consecutive week",
+      "url": "//www.foxbusiness.com/personal-finance/mortgage-rates-drop-second-week"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.foxbusiness.com/category/personal-finance"
+    },
+    {
+      "text": "How can my son do a cash-out refinance on the house he got in a divorce settlement?",
+      "url": "//www.foxbusiness.com/personal-finance/credible-money-coach-cash-out-refinance-after-divorce"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.foxbusiness.com/category/personal-finance"
+    },
+    {
+      "text": "Savings window opens: 30- and 20-year rates dip further below 5% | May 31, 2022",
+      "url": "//www.foxbusiness.com/personal-finance/todays-mortgage-refinance-rates-may-31-2022"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.foxbusiness.com/category/personal-finance"
+    },
+    {
+      "text": "Still time to save: Today's mortgage rates hold steady across all terms | May 31, 2022",
+      "url": "//www.foxbusiness.com/personal-finance/todays-mortgage-rates-may-31-2022"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.foxbusiness.com/category/personal-finance"
+    },
+    {
+      "text": "How to stop inflation from squeezing your wallet",
+      "url": "//www.foxbusiness.com/personal-finance/stop-inflation-from-squeezing-your-wallet-us-economy"
+    },
+    {
+      "text": "Technology",
+      "url": "//www.foxnews.com/tech"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/tech"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/tech/free-tests-increase-traffic-website"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.foxnews.com/tech"
+    },
+    {
+      "text": "Free tests to increase traffic to your website",
+      "url": "//www.foxnews.com/tech/free-tests-increase-traffic-website"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.foxnews.com/tech"
+    },
+    {
+      "text": "Erase these private details Google knows about you",
+      "url": "//www.foxnews.com/tech/erase-private-details-google-knows-about-you"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.foxnews.com/tech"
+    },
+    {
+      "text": "\nMoney-saving secret your cable and internet provider doesn't want you to know",
+      "url": "//www.foxnews.com/tech/money-saving-secret-your-cable-internet-provider-doesnt-want-you-to-know"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.foxnews.com/tech"
+    },
+    {
+      "text": "Tech security: How to wipe your phone or computer if it\u2019s lost or stolen",
+      "url": "//www.foxnews.com/tech/tech-security-how-wipe-phone-or-computer-lost-stolen"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.foxnews.com/tech"
+    },
+    {
+      "text": "This one hidden Google shortcut will save you time every single day",
+      "url": "//www.foxnews.com/tech/hidden-google-shortcut-save-time-every-single-day"
+    },
+    {
+      "text": "Faith & Values",
+      "url": "//www.foxnews.com/faith-values"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/faith-values"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/us/north-carolina-suspect-video-molotov-cocktails-two-churches"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "NC suspect seen on video hurling Molotov cocktails at two churches; arrest announced",
+      "url": "//www.foxnews.com/us/north-carolina-suspect-video-molotov-cocktails-two-churches"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Texas school shooting, one week later: Faith leaders share anguish, hope for the future",
+      "url": "//www.foxnews.com/lifestyle/texas-school-shooting-week-faith-leaders-hope"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "This Memorial Day, Gary Sinise shares his 'personal life mission' to honor America's military",
+      "url": "//www.foxnews.com/lifestyle/memorial-day-gary-sinise-america-military"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "After Texas school shooting, chaplains from Billy Graham group head to Uvalde",
+      "url": "//www.foxnews.com/lifestyle/texas-school-shooting-chaplains-samaritans-purse-uvalde"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.foxnews.com/travel"
+    },
+    {
+      "text": "Tips for road tripping with dogs, from people who live in a van year-round",
+      "url": "//www.foxnews.com/travel/road-tripping-with-dogs-tips-people-live-bus"
+    },
+    {
+      "text": "Autos",
+      "url": "//www.foxnews.com/auto"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/auto"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/auto/toyota-rav4-hybrid-wilderness"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "Toyota Rav4 Hybrid Woodland Edition debuts with off-road chops",
+      "url": "//www.foxnews.com/auto/toyota-rav4-hybrid-wilderness"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "Car prices vary: it can be a lot cheaper to buy a used vehicle in another state",
+      "url": "//www.foxnews.com/auto/cheaper-used-car-state"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "Reborn DeLorean unveiled as Tesla Model S-rivaling gullwing coupe",
+      "url": "//www.foxnews.com/auto/delorean-unveiled-tesla-gullwing"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "Chris Buescher barrel-rolls out of NASCAR Coca-Cola 600",
+      "url": "//www.foxnews.com/auto/chris-buescher-rolls-nascar-coca-cola-600"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "Scott Dixon set this historic record at the Indy 500",
+      "url": "//www.foxnews.com/auto/scott-dixon-historic-record-indy"
+    },
+    {
+      "text": "Travel + Outdoors",
+      "url": "//www.foxnews.com/travel"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/travel"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/us/us-memorial-day-weekend-shootings"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "US marks Memorial Day weekend with wave of shootings",
+      "url": "//www.foxnews.com/us/us-memorial-day-weekend-shootings"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Bipartisan Senate group meeting to address gun violence",
+      "url": "//www.foxnews.com/politics/bipartisan-senate-group-gun-violence-meeting"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Yellowstone National Park: Stunning photos celebrate 150 years of nature and wildlife",
+      "url": "//www.foxnews.com/lifestyle/yellowstone-national-park-photos-150-years"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Biden calls 9mm \u2018high-caliber weapons,\u2019 suggests banning them",
+      "url": "//www.foxnews.com/politics/biden-9mm-guns-texas-uvalde-mass-shooting"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "\nMemorial Day weekend tragedy: 1 dead, 1 missing, 11 hospitalized after boat capsizes on Colorado lake",
+      "url": "//www.foxnews.com/us/memorial-day-weekend-tragedy-colorado-boat-capsizes"
+    },
+    {
+      "text": "Food + Drink",
+      "url": "//www.foxnews.com/food-drink"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/food-drink"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/food-drink/brown-butter-cinnamon-streusel-coffee-cake-recipe"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.foxnews.com/food-drink"
+    },
+    {
+      "text": "Brown butter cinnamon streusel coffee cake: Try the recipe",
+      "url": "//www.foxnews.com/food-drink/brown-butter-cinnamon-streusel-coffee-cake-recipe"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.foxnews.com/food-drink"
+    },
+    {
+      "text": "Cheesy, toasty baked egg cups with chives: Try the recipe",
+      "url": "//www.foxnews.com/food-drink/cheesy-baked-egg-cups-recipe"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.foxnews.com/food-drink"
+    },
+    {
+      "text": "Louisiana-inspired dirty rice: Try the Instant Pot recipe",
+      "url": "//www.foxnews.com/food-drink/louisiana-inspired-dirty-rice-instant-pot-recipe"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.foxnews.com/food-drink"
+    },
+    {
+      "text": "Grilled salmon skewers for summer barbecues: Try the recipe",
+      "url": "//www.foxnews.com/food-drink/grilled-salmon-skewers-recipe"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.foxnews.com/food-drink"
+    },
+    {
+      "text": "Go beyond the cob: 3 corn dip recipes to try this summer",
+      "url": "//www.foxnews.com/food-drink/3-corn-dip-recipes-summer"
+    },
+    {
+      "text": "Fitness + Well-being",
+      "url": "//www.foxnews.com/category/fitness-and-wellbeing"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/category/fitness-and-wellbeing"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/lifestyle/senegal-hospital-fire-newborns-killed"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "11 newborns killed in Senegal hospital fire: Report",
+      "url": "//www.foxnews.com/lifestyle/senegal-hospital-fire-newborns-killed"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "\nAmerican flag-carrying 'Old Glory Relay' for The World Games kicks off with veterans, military supporters",
+      "url": "//www.foxnews.com/lifestyle/us-flag-old-glory-relay-world-games-veterans-supporters"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Prediabetic young adults might have higher heart attack risk: Report",
+      "url": "//www.foxnews.com/lifestyle/prediabetic-young-adults-heart-attack-risk"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Can you use expired baby formula?",
+      "url": "//www.foxnews.com/lifestyle/can-you-use-expired-baby-formula"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Baby formula shortage: Which foods and techniques boost breast milk production?",
+      "url": "//www.foxnews.com/lifestyle/baby-formula-shortage-foods-breast-milk"
+    },
+    {
+      "text": "Style + Beauty",
+      "url": "//www.foxnews.com/category/style-and-beauty"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/category/style-and-beauty"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/great-outdoors/texas-bride-catches-huge-fish-wedding-night"
+    },
+    {
+      "text": "Great Outdoors",
+      "url": "https://www.foxnews.com/great-outdoors"
+    },
+    {
+      "text": "Texas bride reels in huge fish on wedding night: 'Biggest fish I\u2019ve ever caught'\n",
+      "url": "//www.foxnews.com/great-outdoors/texas-bride-catches-huge-fish-wedding-night"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Disney World guest says she was asked to leave park or buy shirt to match dress code",
+      "url": "//www.foxnews.com/lifestyle/disney-epcot-guest-leave-buy-shirt-dress-code"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "What will Kate Moss, Johnny Depp's ex, testify about at defamation trial?",
+      "url": "//www.foxnews.com/entertainment/johnny-depp-kate-moss-defamation-trial"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Sports Illustrated Swim Search finalist Gigi Robinson on posing with chronic illness: 'I'm embracing myself'",
+      "url": "//www.foxnews.com/entertainment/sports-illustrated-swim-search-finalist-gigi-robinson"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Sports Illustrated Swimsuit model Haley Kalil gets candid on personal health battle: \u2018I was in so much pain\u2019",
+      "url": "//www.foxnews.com/entertainment/sports-illustrated-swimsuit-model-haley-kalil-health"
+    },
+    {
+      "text": "Health",
+      "url": "//www.foxnews.com/health"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/health"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/health/who-monkeypox-pandemic-much-unknown"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "WHO: Monkeypox not expected to become pandemic, much remains unknown",
+      "url": "//www.foxnews.com/health/who-monkeypox-pandemic-much-unknown"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "US monkeypox cases climb, another reported in Colorado",
+      "url": "//www.foxnews.com/health/us-monkeypox-cases-climb-colorado"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "WHO: Nearly 200 cases of monkeypox virus across more than 20 countries",
+      "url": "//www.foxnews.com/health/who-nearly-200-cases-monkeypox-virus-more-than-20-countries"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "Breast milk bought online amid baby formula shortage could harm infant health, pediatric dietitian warns",
+      "url": "//www.foxnews.com/health/breast-milk-bought-online-baby-formula-shortage-harms-infant-health"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "Virginia has its first presumed monkeypox case: report",
+      "url": "//www.foxnews.com/health/virginia-first-presumed-monkeypox-case-report"
+    },
+    {
+      "text": "FOX Weather",
+      "url": "https://www.foxweather.com/"
+    },
+    {
+      "text": "View All",
+      "url": "https://www.foxweather.com/"
+    },
+    {
+      "text": "",
+      "url": "//www.foxweather.com/weather-news/severe-storms-tornadoes-plains-midwest-south-northeast-mid-atlantic"
+    },
+    {
+      "text": "WEATHER NEWS",
+      "url": "//www.foxweather.com"
+    },
+    {
+      "text": "Severe storm threat stretches from Great Lakes to Southern Plains on Tuesday",
+      "url": "//www.foxweather.com/weather-news/severe-storms-tornadoes-plains-midwest-south-northeast-mid-atlantic"
+    },
+    {
+      "text": "US",
+      "url": "//www.foxweather.com"
+    },
+    {
+      "text": "Tornadoes tear swath of damage across Minnesota on Monday in Midwest melee",
+      "url": "//www.foxweather.com/weather-news/severe-storms-tornadoes-minnesota-memorial-day"
+    },
+    {
+      "text": "MINNESOTA",
+      "url": "//www.foxweather.com"
+    },
+    {
+      "text": "Damage surveys underway after possible tornadoes sweep across Minnesota",
+      "url": "//www.foxweather.com/extreme-weather/nws-tornado-damage-surveys-minnesota"
+    },
+    {
+      "text": "WEATHER NEWS",
+      "url": "//www.foxweather.com"
+    },
+    {
+      "text": "Tropical development possible in Gulf of Mexico late week: Heavy rain, gusty winds expected to reach Florida",
+      "url": "//www.foxweather.com/weather-news/tropical-development-gulf-of-mexico-agatha-remnants"
+    },
+    {
+      "text": "WEATHER NEWS",
+      "url": "//www.foxweather.com"
+    },
+    {
+      "text": "Temperatures in Boston drop 20 degrees in 10 minutes thanks to backdoor cold front",
+      "url": "//www.foxweather.com/weather-news/backdoor-cold-front-boston-providence-hartford-temperatures"
+    },
+    {
+      "text": "Good News",
+      "url": "//www.foxnews.com/category/good-news"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/category/good-news"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/us/oklahoma-warden-rescue-man-drowning-vortex"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Oklahoma game warden hailed as hero after rescuing man sucked into water vortex",
+      "url": "//www.foxnews.com/us/oklahoma-warden-rescue-man-drowning-vortex"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Utah hiker rescued after slipping on ice, \u2018cliffing out\u2019: \u2018Lucky to be alive\u2019",
+      "url": "//www.foxnews.com/us/utah-hiker-rescued-slipping-ice-cliff"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "\nGeorgia hiker rescued after falling off waterfall while snapping photo: \u2018Absolutely a miracle\u2019",
+      "url": "//www.foxnews.com/us/georgia-hiker-rescued-waterfall-photo"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Seattle police rescue 2 men, toddler after rubber raft sinks",
+      "url": "//www.foxnews.com/us/seattle-police-rescue-men-toddler-raft-sinks"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "California chopper crew rescues man trapped on 500-foot cliff, video shows",
+      "url": "//www.foxnews.com/us/california-helicopter-cliff-rescue"
+    },
+    {
+      "text": "Full Episodes",
+      "url": "//video.foxnews.com/playlist/episodic-most-recent-episodes/"
+    },
+    {
+      "text": "View All",
+      "url": "//video.foxnews.com/playlist/episodic-most-recent-episodes/"
+    },
+    {
+      "text": "",
+      "url": "https://video.foxnews.com/v/6307031888112"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/6307031888112"
+    },
+    {
+      "text": "Video",
+      "url": "//video.foxnews.com/"
+    },
+    {
+      "text": "Gutfeld! - Monday, May 30",
+      "url": "//video.foxnews.com/v/6307031888112"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/6307032572112"
+    },
+    {
+      "text": "The Ingraham Angle - Monday, May 30",
+      "url": "//video.foxnews.com/v/6307032572112"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/6307029894112"
+    },
+    {
+      "text": "Hannity - Monday, May 30",
+      "url": "//video.foxnews.com/v/6307029894112"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/6307031691112"
+    },
+    {
+      "text": "Tucker Carlson Tonight - Monday, May 30",
+      "url": "//video.foxnews.com/v/6307031691112"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/6307023951112"
+    },
+    {
+      "text": "Jesse Watters Primetime - Monday, May 30",
+      "url": "//video.foxnews.com/v/6307023951112"
+    },
+    {
+      "text": "Crime",
+      "url": "//www.foxnews.com/category/us/crime"
+    },
+    {
+      "text": "View All",
+      "url": "//www.foxnews.com/category/us/crime"
+    },
+    {
+      "text": "",
+      "url": "//www.foxnews.com/us/texas-state-senator-uvalde-shooting-reaction"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Texas state senator on Uvalde shooting: 'Every agency at that scene should be taking heat'",
+      "url": "//www.foxnews.com/us/texas-state-senator-uvalde-shooting-reaction"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Johnny Depp is staying at Ritz, dining on chicken parm during bombshell defamation trial",
+      "url": "//www.foxnews.com/entertainment/johnny-depp-ritz-dining-chicken-parm-bombshell-defamation-trial"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Texas escaped killer Gonzalo Lopez tattoos seen in new photos; manhunt reaches Day 20",
+      "url": "//www.foxnews.com/us/texas-manhunt-gonzalo-lopez-tattoos-new-photos"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Marco Rubio calls for improved 'threat assessment process' to stop school shooters before they act",
+      "url": "//www.foxnews.com/media/marco-rubio-school-shootings-threat-assessment"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "'The View' co-host Whoopi Goldberg: 'I don't want all your guns, I want that AR-15'",
+      "url": "//www.foxnews.com/media/the-view-whoopi-goldberg-ar-15"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Crime",
+      "url": "https://www.foxnews.com/category/us/crime"
+    },
+    {
+      "text": "Military",
+      "url": "https://www.foxnews.com/category/us/military"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.foxnews.com/category/us/education"
+    },
+    {
+      "text": "Terror",
+      "url": "https://www.foxnews.com/category/us/terror"
+    },
+    {
+      "text": "Immigration",
+      "url": "https://www.foxnews.com/category/us/immigration"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.foxnews.com/category/us/economy"
+    },
+    {
+      "text": "Personal Freedoms",
+      "url": "https://www.foxnews.com/category/us/personal-freedoms"
+    },
+    {
+      "text": "Fox News Investigates",
+      "url": "https://www.foxnews.com/category/news-events/fox-news-investigates"
+    },
+    {
+      "text": "Digital Originals",
+      "url": "https://www.foxnews.com/category/us/digital-originals"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "U.N.",
+      "url": "https://www.foxnews.com/category/world/united-nations"
+    },
+    {
+      "text": "Conflicts",
+      "url": "https://www.foxnews.com/category/world/conflicts"
+    },
+    {
+      "text": "Terrorism",
+      "url": "https://www.foxnews.com/category/world/terrorism"
+    },
+    {
+      "text": "Disasters",
+      "url": "https://www.foxnews.com/category/world/disasters"
+    },
+    {
+      "text": "Global Economy",
+      "url": "https://www.foxnews.com/category/world/global-economy"
+    },
+    {
+      "text": "\nEnvironment",
+      "url": "https://www.foxnews.com/category/world/environment"
+    },
+    {
+      "text": "Religion",
+      "url": "https://www.foxnews.com/category/world/world-religion"
+    },
+    {
+      "text": "Scandals",
+      "url": "https://www.foxnews.com/category/world/scandals"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "Executive",
+      "url": "https://www.foxnews.com/category/politics/executive"
+    },
+    {
+      "text": "Senate",
+      "url": "https://www.foxnews.com/category/politics/senate"
+    },
+    {
+      "text": "House",
+      "url": "https://www.foxnews.com/category/politics/house-of-representatives"
+    },
+    {
+      "text": "Judiciary",
+      "url": "https://www.foxnews.com/category/politics/judiciary"
+    },
+    {
+      "text": "Foreign Policy",
+      "url": "https://www.foxnews.com/category/politics/foreign-policy"
+    },
+    {
+      "text": "Polls",
+      "url": "https://www.foxnews.com/official-polls"
+    },
+    {
+      "text": "Elections",
+      "url": "https://www.foxnews.com/elections"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Celebrity News",
+      "url": "https://www.foxnews.com/category/entertainment/celebrity-news"
+    },
+    {
+      "text": "Movies",
+      "url": "https://www.foxnews.com/category/entertainment/movies"
+    },
+    {
+      "text": "TV News",
+      "url": "https://www.foxnews.com/category/entertainment/tv"
+    },
+    {
+      "text": "Music News",
+      "url": "https://www.foxnews.com/category/entertainment/music"
+    },
+    {
+      "text": "Style News",
+      "url": "https://www.foxnews.com/category/entertainment/style"
+    },
+    {
+      "text": "Entertainment Video",
+      "url": "https://video.foxnews.com/playlist/entertainment-latest-entertainment/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.foxbusiness.com/"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.foxbusiness.com/personal-finance"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.foxbusiness.com/economy"
+    },
+    {
+      "text": "Markets",
+      "url": "https://www.foxbusiness.com/markets"
+    },
+    {
+      "text": "Watchlist",
+      "url": "https://www.foxbusiness.com/watchlist"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxbusiness.com/lifestyle"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.foxbusiness.com/real-estate"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.foxbusiness.com/technology"
+    },
+    {
+      "text": "\nLifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "Food + Drink",
+      "url": "https://www.foxnews.com/food-drink"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "Travel + Outdoors",
+      "url": "https://www.foxnews.com/travel"
+    },
+    {
+      "text": "House + Home",
+      "url": "https://www.foxnews.com/category/real-estate"
+    },
+    {
+      "text": "Fitness + Well-being",
+      "url": "https://www.foxnews.com/category/fitness-and-wellbeing"
+    },
+    {
+      "text": "Style + Beauty",
+      "url": "https://www.foxnews.com/category/style-and-beauty"
+    },
+    {
+      "text": "Family",
+      "url": "https://www.foxnews.com/family"
+    },
+    {
+      "text": "Faith",
+      "url": "https://www.foxnews.com/category/faith-values/faith"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.foxnews.com/science"
+    },
+    {
+      "text": "Archaeology",
+      "url": "https://www.foxnews.com/category/science/archaeology"
+    },
+    {
+      "text": "Air & Space",
+      "url": "https://www.foxnews.com/category/science/air-and-space"
+    },
+    {
+      "text": "Planet Earth",
+      "url": "https://www.foxnews.com/category/science/planet-earth"
+    },
+    {
+      "text": "Wild Nature",
+      "url": "https://www.foxnews.com/category/science/wild-nature"
+    },
+    {
+      "text": "Natural Science",
+      "url": "https://www.foxnews.com/category/science/natural-science"
+    },
+    {
+      "text": "Dinosaurs",
+      "url": "https://www.foxnews.com/category/science/archaeology/dinosaurs"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.foxnews.com/tech"
+    },
+    {
+      "text": "Security",
+      "url": "https://www.foxnews.com/category/tech/topics/security"
+    },
+    {
+      "text": "Innovation",
+      "url": "https://www.foxnews.com/category/tech/topics/innovation"
+    },
+    {
+      "text": "Drones",
+      "url": "https://www.foxnews.com/category/tech/technologies/drones"
+    },
+    {
+      "text": "Computers",
+      "url": "https://www.foxnews.com/category/tech/topics/computers"
+    },
+    {
+      "text": "Video Games",
+      "url": "https://www.foxnews.com/category/tech/topics/video-games"
+    },
+    {
+      "text": "Military Tech",
+      "url": "https://www.foxnews.com/category/tech/topics/military-tech"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.foxnews.com/category/health/infectious-disease/coronavirus"
+    },
+    {
+      "text": "Healthy Living",
+      "url": "https://www.foxnews.com/category/health/healthy-living"
+    },
+    {
+      "text": "Medical Research",
+      "url": "https://www.foxnews.com/category/health/medical-research"
+    },
+    {
+      "text": "Mental Health",
+      "url": "https://www.foxnews.com/category/health/mental-health"
+    },
+    {
+      "text": "Cancer",
+      "url": "https://www.foxnews.com/category/health/cancer"
+    },
+    {
+      "text": "Heart Health",
+      "url": "https://www.foxnews.com/category/health/heart-health"
+    },
+    {
+      "text": "Children's Health",
+      "url": "https://www.foxnews.com/category/health/healthy-living/childrens-health"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Shows",
+      "url": "https://www.foxnews.com/shows"
+    },
+    {
+      "text": "Personalities",
+      "url": "https://www.foxnews.com/person/personalities"
+    },
+    {
+      "text": "Watch Live",
+      "url": "https://video.foxnews.com/v/5614615980001/?#sp=watch-live"
+    },
+    {
+      "text": "Full Episodes",
+      "url": "https://video.foxnews.com/playlist/episodic-most-recent-episodes/"
+    },
+    {
+      "text": "Show Clips",
+      "url": "https://video.foxnews.com/#sp=show-clips"
+    },
+    {
+      "text": "News Clips",
+      "url": "https://video.foxnews.com/#sp=news-clips"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.foxnews.com/contact"
+    },
+    {
+      "text": "Careers",
+      "url": "https://foxcareers.com/Search/SearchResults?brand=Fox%20News%20Careers"
+    },
+    {
+      "text": "Fox Around the World",
+      "url": "https://www.foxnews.com/foxaroundtheworld/"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "mailto:adsales@foxnews.com?subject=Advertising%20Inquiry"
+    },
+    {
+      "text": "Media Relations",
+      "url": "https://press.foxnews.com/media-contacts"
+    },
+    {
+      "text": "Corporate Information",
+      "url": "https://press.foxnews.com"
+    },
+    {
+      "text": "Compliance",
+      "url": "https://www.foxnews.com/compliance"
+    },
+    {
+      "text": "Supplier Diversity",
+      "url": "https://supplierdiversity.foxnews.com/"
+    },
+    {
+      "text": "Fox Weather",
+      "url": "https://www.foxweather.com"
+    },
+    {
+      "text": "Fox Nation",
+      "url": "https://www.foxnews.com/shows/fox-nation"
+    },
+    {
+      "text": "Fox News Shop",
+      "url": "https://shop.foxnews.com"
+    },
+    {
+      "text": "Fox News Go",
+      "url": "https://www.foxnews.com/go"
+    },
+    {
+      "text": "Fox News Radio",
+      "url": "https://radio.foxnews.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.foxnews.com/newsletters"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://radio.foxnews.com/podcast/"
+    },
+    {
+      "text": "Apps & Products",
+      "url": "https://www.foxnews.com/apps-products"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/FoxNews"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/foxnews"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/foxnews"
+    },
+    {
+      "text": "Youtube",
+      "url": "https://www.youtube.com/FoxNewsChannel"
+    },
+    {
+      "text": "Flipboard",
+      "url": "https://flipboard.com/@FoxNews"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/fox-news-channel/"
+    },
+    {
+      "text": "Slack",
+      "url": "https://foxnews.slack.com/apps/A013AUF6VMG-fox-news"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.foxnews.com/about/rss/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.foxnews.com/newsletters"
+    },
+    {
+      "text": "Spotify",
+      "url": "https://open.spotify.com/show/7A4YfyFtNOZhqMV7F3kYVu"
+    },
+    {
+      "text": "iHeartRadio",
+      "url": "https://www.iheart.com/podcast/256-the-fox-news-rundown-31090295/"
+    },
+    {
+      "text": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "text": "New Terms of Use",
+      "url": "https://www.foxnews.com/terms-of-use"
+    },
+    {
+      "text": "New Privacy Policy",
+      "url": "https://www.foxnews.com/privacy-policy"
+    },
+    {
+      "text": "Do Not Sell my Personal Information",
+      "url": "https://www.foxnews.com/donotsell"
+    },
+    {
+      "text": "Closed Captioning Policy",
+      "url": "https://www.foxnews.com/closed-captioning"
+    },
+    {
+      "text": "Help",
+      "url": "https://help.foxnews.com"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.foxnews.com/contact"
+    },
+    {
+      "text": "Accessibility Statement",
+      "url": "https://www.foxnews.com/accessibility-statement"
+    },
+    {
+      "text": "Factset",
+      "url": "https://www.factset.com/"
+    },
+    {
+      "text": "FactSet Digital Solutions",
+      "url": "https://www.factset.com/solutions/business-needs/digital-solutions"
+    },
+    {
+      "text": "Legal Statement",
+      "url": "https://www.factset.com/privacy"
+    },
+    {
+      "text": "Refinitiv Lipper",
+      "url": "https://lipperalpha.refinitiv.com/"
+    }
+  ],
+  "item_last_updated": 1654025587,
+  "item_size": 126711075,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -10145,10 +13647,10 @@
     "publicdate": "2022-03-23 01:45:55",
     "addeddate": "2022-03-23 01:45:55"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 372929832,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1987257675,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }
