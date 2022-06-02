@@ -693,7 +693,7 @@
       "url": "https://newspack.pub/"
     }
   ],
-  "created": 1654042854,
+  "created": 1654129306,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/27/items/cpublicpress-2022",
@@ -3130,31 +3130,73 @@
       "sha1": "31797d1bd7fdcac1b0f3bd72273d3d1bb97c5df2"
     },
     {
+      "name": "cpublicpress-2022-06-01T10:19:39.027085-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654093189",
+      "size": "33272",
+      "md5": "855d518f585c2bdec6597b2609cbc9f2",
+      "crc32": "686c61a3",
+      "sha1": "c84a065190e0ea11474b1ccced40ae2e5c08b7e3",
+      "format": "JSON"
+    },
+    {
+      "name": "cpublicpress-2022-06-01T10:19:39.027085-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654093191",
+      "size": "23830",
+      "md5": "8a040110dc05a312815b280140c30040",
+      "crc32": "10dc46b8",
+      "sha1": "84d34cbd2eb9ad814503d78154095db25f32d445",
+      "format": "JSON"
+    },
+    {
+      "name": "cpublicpress-2022-06-01T10:19:39.027085-04:00.jpg",
+      "source": "original",
+      "mtime": "1654093187",
+      "size": "334873",
+      "md5": "c168284b16577530a217c307cc920056",
+      "crc32": "3c10fe81",
+      "sha1": "9bb9b0e71e126b00a8625a4bde3d23c950b13a93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cpublicpress-2022-06-01T10:19:39.027085-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cpublicpress-2022-06-01T10:19:39.027085-04:00.jpg",
+      "mtime": "1654097386",
+      "size": "9779",
+      "md5": "75113fe6aa9f46cd87f0f77700abf79f",
+      "crc32": "b9785537",
+      "sha1": "31797d1bd7fdcac1b0f3bd72273d3d1bb97c5df2"
+    },
+    {
       "name": "cpublicpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f869c0669d3267d5055618923af575def0dcbadf",
-      "mtime": "1654008037",
-      "size": "51053",
-      "md5": "fa2632c5c80bb0f6a7049bb4e8eee9bc",
-      "crc32": "94c1ab0a",
-      "sha1": "0ea888643f6b692264306d8b03b791c36eed2270",
+      "btih": "b7b83fc13c3796531cb0b5249639a1c484659463",
+      "mtime": "1654097552",
+      "size": "51918",
+      "md5": "0047d6f8f71551b4c1cf4f633bf078b4",
+      "crc32": "08871381",
+      "sha1": "1f2884a4c2a7cfbfa62b55f59191a31c20bcead1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cpublicpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c2748d80046c30f681ccabdf640de79",
+      "md5": "cf33d9365b91477a7468a0069c73b0a5",
       "summation": "md5"
     },
     {
       "name": "cpublicpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1654007973",
-      "size": "282624",
-      "md5": "844e11c8dacb17d105d76404b61f0f88",
-      "crc32": "96b67436",
-      "sha1": "7a1c5bf2035fe0f7168678df4e58dc13727059b7",
+      "mtime": "1654094569",
+      "size": "286720",
+      "md5": "3281c7258b353f8a03cef8b4d6a332b8",
+      "crc32": "ac8ba574",
+      "sha1": "b74bcc809349459a30e737a28c4bb4b040e55107",
       "format": "Metadata"
     },
     {
@@ -3168,9 +3210,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 235,
-  "item_last_updated": 1654008037,
-  "item_size": 21167891,
+  "files_count": 239,
+  "item_last_updated": 1654097552,
+  "item_size": 21574606,
   "metadata": {
     "identifier": "cpublicpress-2022",
     "collection": [
@@ -3187,10 +3229,10 @@
     "publicdate": "2022-03-26 14:57:22",
     "addeddate": "2022-03-26 14:57:22"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 963044968,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1422017518,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }
