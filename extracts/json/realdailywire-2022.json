@@ -1,5 +1,5 @@
 {
-  "created": 1654111788,
+  "created": 1654215638,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/5/items/realdailywire-2022",
@@ -2394,31 +2394,73 @@
       "sha1": "78ed8089ab206a849a24a216ff8f2fe003a26a2d"
     },
     {
+      "name": "realdailywire-2022-06-02T14:44:26.677010-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654195471",
+      "size": "18137",
+      "md5": "5b1acec96fc5390d997463bb698ebf53",
+      "crc32": "63f88725",
+      "sha1": "f65d8f8aea9bd420410b521466eca3df1627ad2d",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-06-02T14:44:26.677010-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654195474",
+      "size": "11949",
+      "md5": "7351e6bc8154fe91a894def114aef26f",
+      "crc32": "fb608c1e",
+      "sha1": "b4dc22bdd6bf386858e6473b6f2879f420b3af71",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-06-02T14:44:26.677010-04:00.jpg",
+      "source": "original",
+      "mtime": "1654195469",
+      "size": "291448",
+      "md5": "88d93132e49625e000c00c2a1cc116a1",
+      "crc32": "1b1b73eb",
+      "sha1": "ca826647c4804e54c186199009e7e595ca016f4e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realdailywire-2022-06-02T14:44:26.677010-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "realdailywire-2022-06-02T14:44:26.677010-04:00.jpg",
+      "mtime": "1654199910",
+      "size": "11106",
+      "md5": "22392ee4522bdd8cee021fdd85bc448c",
+      "crc32": "f111f37a",
+      "sha1": "3d6938c58da4047d9d7c6c91f140bae2f61fd9f4"
+    },
+    {
       "name": "realdailywire-2022_archive.torrent",
       "source": "metadata",
-      "btih": "44d2cff988e808f97be9c698e7cf8b113cda13fa",
-      "mtime": "1654111667",
-      "size": "50323",
-      "md5": "34e4e92dbda5f4b7498fde3d6ee1870e",
-      "crc32": "f43b6c57",
-      "sha1": "0b0bb5dbc741525c76769a4318560af1377e9248",
+      "btih": "8221c78b7ede313d5f231704695e3465d71e1ccc",
+      "mtime": "1654199925",
+      "size": "51193",
+      "md5": "46ca166435a08043a09746b0dc7e3b73",
+      "crc32": "b7fa1724",
+      "sha1": "6c0c3c6782d2831f5e4648cd3491a7f095b55f20",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realdailywire-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f8b08a5edd1d81db93b2004062e4043c",
+      "md5": "e64cde25cd2a63fb056fa120e99e8159",
       "summation": "md5"
     },
     {
       "name": "realdailywire-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1654109418",
-      "size": "278528",
-      "md5": "ef00f9fbab83ed2a90e1003dfee24b33",
-      "crc32": "22c79498",
-      "sha1": "10c30bd11e948ef366cc274a0b25a82749493021",
+      "mtime": "1654195489",
+      "size": "282624",
+      "md5": "12b1e14f93df3f22ab0df46d30a5f8db",
+      "crc32": "9aa966ff",
+      "sha1": "9fef03c31557951f846fa73e2827a38dd52e87f5",
       "format": "Metadata"
     },
     {
@@ -2432,9 +2474,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 231,
-  "item_last_updated": 1654111667,
-  "item_size": 18394748,
+  "files_count": 235,
+  "item_last_updated": 1654199925,
+  "item_size": 18732354,
   "metadata": {
     "identifier": "realdailywire-2022",
     "collection": [
@@ -2451,8 +2493,330 @@
     "publicdate": "2022-03-25 18:45:55",
     "addeddate": "2022-03-25 18:45:55"
   },
+  "realdailywire-2022": [
+    {
+      "text": "The Daily Wire",
+      "url": "/"
+    },
+    {
+      "text": "Read",
+      "url": "/read"
+    },
+    {
+      "text": "Listen",
+      "url": "/listen"
+    },
+    {
+      "text": "Watch",
+      "url": "/watch"
+    },
+    {
+      "text": "Discuss",
+      "url": "/discuss"
+    },
+    {
+      "text": "Shop",
+      "url": "/shop"
+    },
+    {
+      "text": "Search",
+      "url": "/search/news"
+    },
+    {
+      "text": "Login",
+      "url": "/login"
+    },
+    {
+      "text": "Join",
+      "url": "/subscribe"
+    },
+    {
+      "text": "How A Cyberattack Tried To Stop You From Watching Matt Walsh\u2019s \u2018What Is A Woman?\u2019By Ben Zeisloft",
+      "url": "/news/how-a-cyberattack-tried-to-stop-you-from-watching-matt-walshs-what-is-a-woman"
+    },
+    {
+      "text": "Uvalde School District Calls Police On Reporters Trying To Get Answers About ShootingBy Ryan Saavedra",
+      "url": "/news/uvalde-school-district-calls-police-on-reporters-trying-to-get-answers-about-shooting"
+    },
+    {
+      "text": "\u2018Disgraced Lawyer\u2019 Michael Avenatti Sentenced To Four Years In PrisonBy Dillon Burroughs",
+      "url": "/news/disgraced-lawyer-michael-avenatti-sentenced-to-four-years-in-prison"
+    },
+    {
+      "text": "\u2018This Was Not A Random Shooting\u2019: Tulsa Police Captain Explains Medical Center Shooter Had \u2018Specific Purpose\u2019By Ashe Schow",
+      "url": "/news/this-was-not-a-random-shooting-tulsa-police-captain-explains-medical-center-shooter-had-specific-purpose"
+    },
+    {
+      "text": "Amazon Employees Disrupt Pride Ceremony With \u2018Die In\u2019 Protest Over Matt Walsh\u2019s \u2018Johnny The Walrus\u2019, Other \u2018Anti-Trans\u2019 BooksBy Amanda Harding",
+      "url": "/news/amazon-employees-disrupt-pride-ceremony-with-die-in-protest-over-matt-walshs-johnny-the-walrus-other-anti-trans-books"
+    },
+    {
+      "text": "Ben Shapiro Joins To Talk NBA Finals and College Football - Ep. 68Crain & Company \u2022 Jun 2, 2022 at 7:00PM",
+      "url": "/episode/ben-shapiro-joins-to-talk-nba-finals-and-college-football-ep-68"
+    },
+    {
+      "text": "Ep. 1018 -\u00a0Brace Yourself, It's About To Get\u00a0Super Duper Gay\u00a0The Michael Knowles Show \u2022 Jun 2, 2022",
+      "url": "/episode/ep-1018-brace-yourself-it-s-about-to-get-super-duper-gay"
+    },
+    {
+      "text": "Ep. 1507 -\u00a0Johnny Depp Defeats Amber HeardThe Ben Shapiro Show \u2022 Jun 2, 2022",
+      "url": "/episode/ep-1507-johnny-depp-defeats-amber-heard-2"
+    },
+    {
+      "text": " Premiere of \u201cWhat is a Woman?\u201dDaily Wire Backstage \u2022 Jun 2, 2022",
+      "url": "/episode/backstage-what-is-a-woman"
+    },
+    {
+      "text": "Ep. 1506 - What Is A Woman? [Bonus Hour]The Ben Shapiro Show \u2022 Jun 1, 2022",
+      "url": "/episode/ep-1506-what-is-a-woman-bonus-hour-2"
+    },
+    {
+      "text": "Ep. 67 -\u00a0Is Aaron Donald's NFL Career Over?Crain & Company \u2022 Jun 1, 2022",
+      "url": "/episode/ep-67-is-aaron-donald-s-nfl-career-over-v2"
+    },
+    {
+      "text": "Ep. 963 - 'What Is A Woman' Arrives Just In Time For Pride MonthThe Matt Walsh Show \u2022 Jun 1, 2022",
+      "url": "/episode/ep-963-what-is-a-woman-arrives-just-in-time-for-pride-month"
+    },
+    {
+      "text": "Ep. 1506 - What Is A Woman?The Ben Shapiro Show \u2022 Jun 1, 2022",
+      "url": "/episode/ep-1506-what-is-a-woman-2"
+    },
+    {
+      "text": "Ep. 1017 -\u00a0Something In The Water Is Destroying Women's SportsThe Michael Knowles Show \u2022 Jun 1, 2022",
+      "url": "/episode/ep-1017-something-in-the-water-is-destroying-women-s-sports-2"
+    },
+    {
+      "text": "View All Shows\u00a0",
+      "url": "/watch"
+    },
+    {
+      "text": "As Abortion Decision Looms, Supreme Court Faces \u2018Historic Backlog\u2019 Not Seen In Over 70 YearsBy Zach Jewell",
+      "url": "/news/as-abortion-decision-looms-supreme-court-faces-historic-backlog-not-seen-in-over-70-years"
+    },
+    {
+      "text": "Supreme Court Expected To Issue Opinions Monday As Roe v. Wade Hangs In The BalanceBy Mary Margaret Olohan",
+      "url": "/news/supreme-court-expected-to-issue-opinions-monday-as-roe-v-wade-hangs-in-the-balance"
+    },
+    {
+      "text": "\u2018Unwavering Support\u2019: Team Of 48 GOP Senators Vows To Oppose Any Bill Allowing Taxpayer Funding\u2026By Dillon Burroughs",
+      "url": "/news/unwavering-support-team-of-48-gop-senators-vows-to-oppose-any-bill-allowing-taxpayer-funding-for-abortion"
+    },
+    {
+      "text": "Lil Nas X Blasts BET Awards For Not Nominating Him, Says Black Gay Artists \u2018Fight To Be Seen\u2019By Amanda Harding",
+      "url": "/news/lil-nas-x-blasts-bet-awards-for-not-nominating-him-says-black-gay-artists-fight-to-be-seen"
+    },
+    {
+      "text": "Ep. 410 - What Is A Woman?Jun 2, 2022 at 9:00PM",
+      "url": "/episode/ep-410-what-is-a-woman"
+    },
+    {
+      "text": "Ep. 409 - What Do You Meme?Jun 2, 2022",
+      "url": "/episode/ep-409-what-do-you-meme"
+    },
+    {
+      "text": "Ep. 408 - Michael Makes You ProudJun 1, 2022",
+      "url": "/episode/ep-408-michael-makes-you-proud"
+    },
+    {
+      "text": "Ep. 407 - Hang Out With Me!May 31, 2022",
+      "url": "/episode/ep-407-hang-out-with-me"
+    },
+    {
+      "text": "Ep. 406 - Gin Rummy Anyone?May 26, 2022",
+      "url": "/episode/ep-406-gin-rummy"
+    },
+    {
+      "text": "Ep. 405 - That'll Be $4.75, PleaseMay 25, 2022",
+      "url": "/episode/405-w-andrew"
+    },
+    {
+      "text": "Ep. 404 - Lunch With The Sultan Of SwarthMay 25, 2022",
+      "url": "/episode/404-w-michael"
+    },
+    {
+      "text": "Ep. 402 - Lunchtime HangMay 23, 2022",
+      "url": "/episode/403-w-brett-cooper"
+    },
+    {
+      "text": "Ep. 401 - Michael Bares AllMay 20, 2022",
+      "url": "/episode/401-w-michael"
+    },
+    {
+      "text": "Ep. 400 - Is Cone A Squirtle Guy?May 19, 2022",
+      "url": "/episode/400-w-crain-company"
+    },
+    {
+      "text": "Ep. 399 - Hellride of Unbearable HonestyMay 18, 2022",
+      "url": "/episode/399-w-andrew"
+    },
+    {
+      "text": "Ep. 393 - Promise I'm Not Asleep...May 18, 2022",
+      "url": "/episode/393-w-ben"
+    },
+    {
+      "text": "Did The Depp/Heard Trial Crush #MeToo? w/ Christian TotoChristian TotoENDEDMay 31, 2022 at 7:30PM",
+      "url": "/discussion/did-the-depp-heard-trial-crush-me-too-w-christian-toto"
+    },
+    {
+      "text": "5.25 Freeform Discussion w/ Frank CampFrank CampENDEDMay 25, 2022 at 6:00PM",
+      "url": "/discussion/5-25-freeform-discussion-w-frank-camp"
+    },
+    {
+      "text": "View All\u00a0",
+      "url": "/discuss"
+    },
+    {
+      "text": "U.S. Economy Sees Worst Month For Employment Growth Since April 2020, Small Businesses Hardest\u2026By Ben Zeisloft",
+      "url": "/news/u-s-economy-sees-worst-month-for-employment-growth-since-april-2020-small-businesses-hardest-hit-report"
+    },
+    {
+      "text": "Americans Who Attend Church Weekly Are \u2018The Final Holdouts\u2019 Opposing Same-Sex Marriage: PollBy Mary Margaret Olohan",
+      "url": "/news/americans-who-attend-church-weekly-are-the-final-holdouts-opposing-same-sex-marriage-poll"
+    },
+    {
+      "text": "Putin Has Advanced Cancer, U.S. Intelligence Report SaysBy Hank Berrien",
+      "url": "/news/putin-has-advanced-cancer-u-s-intelligence-report-says"
+    },
+    {
+      "text": "Leftist Slugfest: Mary Trump Calls Susan Sarandon \u2018Complete Idiot\u2019By Hank Berrien",
+      "url": "/news/leftist-slugfest-mary-trump-calls-susan-sarandon-complete-idiot"
+    },
+    {
+      "text": "Amber Heard Plans To Appeal Johnny Depp Defamation Case Verdict, Spox SaysBy Amanda Prestigiacomo",
+      "url": "/news/amber-heard-plans-to-appeal-johnny-depp-defamation-case-verdict-spox-says"
+    },
+    {
+      "text": "\u2018Senseless Act Of Violence And Hatred\u2019: Oklahoma Governor, Other Leaders, Condemn Tulsa Medical\u2026By Ashe Schow",
+      "url": "/news/senseless-act-of-violence-and-hatred-oklahoma-governor-other-leaders-condemn-tulsa-medical-center-shooting"
+    },
+    {
+      "text": "Biden\u2019s Education Department Issues Largest Single Student Debt Cancelation In Agency HistoryBy Ben Zeisloft",
+      "url": "/news/bidens-education-department-issues-largest-single-student-debt-cancelation-in-agency-history"
+    },
+    {
+      "text": "\u2018We\u2019ll See You In Court\u2019: Kristi Noem Vows To Defend Girls Sports As Biden Admin Threatens\u2026By Mary Margaret Olohan",
+      "url": "/news/well-see-you-in-court-kristi-noem-vows-to-defend-girls-sports-as-biden-admin-threatens-funding-for-schools"
+    },
+    {
+      "text": "School System May Have 4,000 Materials About \u2018Sex Work\u2019 \u2013 But Parents Will Have To Pay $20,000\u2026By Luke Rosiak",
+      "url": "/news/school-system-may-have-4000-materials-about-sex-work-but-parents-will-have-to-pay-20000-to-see-them"
+    },
+    {
+      "text": "Jason Momoa, Jennifer Aniston, Bella Hadid, And Other Celebs Show Support For Johnny Depp After\u2026By Amanda Prestigiacomo",
+      "url": "/news/jason-momoa-jennifer-aniston-bella-hadid-and-other-celebs-show-support-for-johnny-depp-after-win-in-defamation-trial"
+    },
+    {
+      "text": "\u2018No Way Back For Heard In Hollywood\u2019: Amber Heard Looking At Career End, Bankruptcy, Experts SayBy Joseph Curl",
+      "url": "/news/no-way-back-for-heard-in-hollywood-amber-heard-looking-at-career-end-bankruptcy-experts-say"
+    },
+    {
+      "text": "Jury Awards Johnny Depp $15 Million, But He\u2019ll Get Millions Less. Here\u2019s WhyBy Amanda Prestigiacomo",
+      "url": "/news/jury-awards-johnny-depp-15-million-but-hell-get-millions-less-heres-why"
+    },
+    {
+      "text": "Heard Blasted Over Statement: \u2018Doesn\u2019t Realize How Much Damage Her Lies Have Done\u2019 To \u2018Abuse\u2026By Daily Wire News",
+      "url": "/news/heard-blasted-over-statement-doesnt-realize-how-much-damage-her-lies-have-done-to-abuse-victims"
+    },
+    {
+      "text": "Media, Leftists Claim Police Shot Unarmed Pregnant Black Woman. Then Police Release Photo.By Ryan Saavedra",
+      "url": "/news/media-leftists-claim-police-shot-unarmed-pregnant-black-woman-then-police-release-photo"
+    },
+    {
+      "text": "The Daily Wire Comes Under \u2018Sustained DDoS Attack\u2019 Intended To \u2018Disrupt\u2019 Premiere Of \u2018What Is A\u2026By Daily Wire News",
+      "url": "/news/the-daily-wire-comes-under-sustained-ddos-attack-intended-to-disrupt-premiere-of-what-is-a-woman"
+    },
+    {
+      "text": "\u2018I Wish We Could Say We Invented That\u2019: Matt Walsh Confirms \u2018Over-The-Top\u2019 Interviews With\u2026By John Rigolizzo",
+      "url": "/news/i-wish-we-could-say-we-invented-that-matt-walsh-confirms-over-the-top-interviews-with-leftist-gender-experts-were-very-real"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "The Daily Wire",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Authors",
+      "url": "/authors"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "https://advertise.dailywire.com"
+    },
+    {
+      "text": "Book our Speakers",
+      "url": "/speakers"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://dailywire.zendesk.com/hc/en-us"
+    },
+    {
+      "text": "Do Not Sell My Personal Information",
+      "url": "https://privacy.dailywire.com/do-not-sell"
+    },
+    {
+      "text": "Standards & Policies",
+      "url": "/standards-policies"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/terms"
+    },
+    {
+      "text": "Shipping & Returns",
+      "url": "/shipping-returns-policy"
+    },
+    {
+      "text": "Careers",
+      "url": "https://bentkey-ventures.breezy.hr/"
+    },
+    {
+      "text": "Internships",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScQ6aeTzb1abhADbShsmokHKJoJbh4m7hbvklY0O_VZacPQpg/viewform?usp=sf_link"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/DailyWire"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/realDailyWire"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/realdailywire/"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/channel/UCaeO5vkdj5xOQHp4UmIN6dw"
+    },
+    {
+      "text": "RSS",
+      "url": "/rss.xml"
+    },
+    {
+      "text": "\n  \n  \n",
+      "url": "https://www.whatisawoman.com/"
+    }
+  ],
   "server": "ia802506.us.archive.org",
-  "uniq": 3857895,
+  "uniq": 1912286287,
   "workable_servers": [
     "ia802506.us.archive.org",
     "ia902506.us.archive.org"
