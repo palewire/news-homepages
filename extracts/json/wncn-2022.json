@@ -1,5 +1,5 @@
 {
-  "created": 1654302038,
+  "created": 1654388651,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/23/items/wncn-2022",
@@ -2313,31 +2313,84 @@
       "rotation": "0"
     },
     {
+      "name": "wncn-2022-06-03T10:06:14.721446-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-03T10:06:14.721446-04:00.jpg",
+      "mtime": "1654330097",
+      "size": "10183",
+      "md5": "199ae0602d015d7ef2d4e2ee8f9c0cdb",
+      "crc32": "6747d7c4",
+      "sha1": "7c67471c5ea774ceddd495f144bced5600399bfa"
+    },
+    {
+      "name": "wncn-2022-06-04T10:06:55.245408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654351618",
+      "size": "35272",
+      "md5": "46e32b2214f479884ec2132e1c9ed3a3",
+      "crc32": "2d9f8776",
+      "sha1": "0731cca9db870d8a445adaa74b8d3f5108c4df8c",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-04T10:06:55.245408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654351620",
+      "size": "80974",
+      "md5": "380d0bc2622bbd3f1259436ec24b0c48",
+      "crc32": "0ae43103",
+      "sha1": "99d541e1a6539458a658767632702f9aee2e6c4e",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-04T10:06:55.245408-04:00.jpg",
+      "source": "original",
+      "mtime": "1654351617",
+      "size": "277021",
+      "md5": "679d9209ffcc1bb146f06ba8548a3725",
+      "crc32": "6faec708",
+      "sha1": "ea13452f8fe7278e58b1a748061ff8a68cfb20aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-04T10:06:55.245408-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-04T10:06:55.245408-04:00.jpg",
+      "mtime": "1654351707",
+      "size": "10748",
+      "md5": "b389f4c98f805bc8ad3de9cbbd26dba2",
+      "crc32": "814af394",
+      "sha1": "60fa2e21709b1d4c73474078c819d335d310c92b"
+    },
+    {
       "name": "wncn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "441a46a6797978e37ac479868666f46c0a48ebd9",
-      "mtime": "1654267580",
-      "size": "47056",
-      "md5": "041095744d3b6055f6b2fc096dc1d6c6",
-      "crc32": "5e522389",
-      "sha1": "f2f44ab29f7cca2c6bb5294aa8a73ede49eee14f",
+      "btih": "de6ff9871814e46bbe6fd4d382ba6a303d7c257d",
+      "mtime": "1654351719",
+      "size": "48091",
+      "md5": "8d5a05dea8311e01253544fc0da3a63a",
+      "crc32": "b182302e",
+      "sha1": "2a5d5bdec5bac63e115a7541e9a61c3b35584015",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wncn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a253ad9e8aef6be44e15b19e9ea0788",
+      "md5": "ce3e7cc7a233ea0c3e67096bb14725e2",
       "summation": "md5"
     },
     {
       "name": "wncn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1654267561",
-      "size": "274432",
-      "md5": "8b60ce4e9e056bbe414aee66e228be84",
-      "crc32": "d40229c6",
-      "sha1": "b2557eb3d597d31cc1cc90e987c198c1dd34076f",
+      "mtime": "1654351646",
+      "size": "278528",
+      "md5": "751bfd4adc1f586910dbe85b466ac3e4",
+      "crc32": "2b8c066d",
+      "sha1": "f709383609a0ae46cbd93efd4664813d9a7f6944",
       "format": "Metadata"
     },
     {
@@ -2351,9 +2404,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1654267580,
-  "item_size": 23441006,
+  "files_count": 229,
+  "item_last_updated": 1654351719,
+  "item_size": 23860335,
   "metadata": {
     "identifier": "wncn-2022",
     "collection": [
@@ -2370,20 +2423,8 @@
     "publicdate": "2022-03-26 14:58:09",
     "addeddate": "2022-03-26 14:58:09"
   },
-  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3285441952,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1179057881,
+  "uniq": 634993253,
   "wncn-2022": [
     {
       "text": "Skip to content",
@@ -2394,7 +2435,7 @@
       "url": "https://www.cbs17.com/"
     },
     {
-      "text": "\n\t\t\tRaleigh\n\t\t\t\n\t\t\t\t78\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+      "text": "\n\t\t\tRaleigh\n\t\t\t\n\t\t\t\t75\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
       "url": "https://www.cbs17.com/weather/"
     },
     {
@@ -2406,7 +2447,7 @@
       "url": "https://www.cbs17.com/"
     },
     {
-      "text": "\n\t\t\tRaleigh\n\t\t\t\n\t\t\t\t78\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+      "text": "\n\t\t\tRaleigh\n\t\t\t\n\t\t\t\t75\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
       "url": "https://www.cbs17.com/weather/"
     },
     {
@@ -2507,51 +2548,51 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/bill-to-limit-cryptomining-passes-new-york-legislature/"
+      "url": "https://www.cbs17.com/news/south/1-dead-in-officer-involved-shooting-in-south-carolina/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tBill to limit cryptomining passes New York Legislature\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/bill-to-limit-cryptomining-passes-new-york-legislature/"
+      "text": "\n\t\t\t\n\t\t\t1 dead in officer-involved shooting in South Carolina\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/south/1-dead-in-officer-involved-shooting-in-south-carolina/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/bill-to-limit-cryptomining-passes-new-york-legislature/"
+      "url": "https://www.cbs17.com/news/south/1-dead-in-officer-involved-shooting-in-south-carolina/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/uncategorized/nigerian-police-seek-abductors-of-prelate-freed-after-ransom/"
+      "url": "https://www.cbs17.com/news/woman-buoyed-by-support-after-viral-pastor-confrontation/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tNigerian police seek abductors of prelate freed after\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/uncategorized/nigerian-police-seek-abductors-of-prelate-freed-after-ransom/"
+      "text": "\n\t\t\t\n\t\t\tWoman buoyed by support after viral pastor confrontation\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/woman-buoyed-by-support-after-viral-pastor-confrontation/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/uncategorized/nigerian-police-seek-abductors-of-prelate-freed-after-ransom/"
+      "url": "https://www.cbs17.com/news/woman-buoyed-by-support-after-viral-pastor-confrontation/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
+      "url": "https://www.cbs17.com/news/shootings-expose-divisions-on-gun-issue-in-faith-communities/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t13 NC counties now is CDC\u2019s orange zone. Is yours?\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
+      "text": "\n\t\t\t\n\t\t\tShootings expose divisions on gun issue in faith\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/shootings-expose-divisions-on-gun-issue-in-faith-communities/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
+      "url": "https://www.cbs17.com/news/shootings-expose-divisions-on-gun-issue-in-faith-communities/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/grain-supply-tops-putin-african-union-head-talks-agenda/"
+      "url": "https://www.cbs17.com/news/uvalde-10-year-olds-smart-funny-loving-animals-football/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tGrain supply tops Putin-African Union head talks\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/grain-supply-tops-putin-african-union-head-talks-agenda/"
+      "text": "\n\t\t\t\n\t\t\tUvalde 10-year-olds: Smart, funny, loving animals,\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/uvalde-10-year-olds-smart-funny-loving-animals-football/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/grain-supply-tops-putin-african-union-head-talks-agenda/"
+      "url": "https://www.cbs17.com/news/uvalde-10-year-olds-smart-funny-loving-animals-football/"
     },
     {
       "text": "COVID-19 in NC",
@@ -2570,7 +2611,7 @@
       "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t13 NC counties now is CDC\u2019s orange zone. Is yours?\n\t\t\t\t\t\t\t",
+      "text": "\n\t\t\t\n\t\t\t13 NC counties now in CDC\u2019s orange zone. Is yours?\n\t\t\t\t\t\t\t",
       "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
     },
     {
@@ -2579,15 +2620,15 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/wake-county-to-end-drive-thru-covid-testing-in-july/"
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/wake-county-to-end-drive-thru-covid-testing-in-july/"
     },
     {
       "text": "\n\t\t\t\n\t\t\tWake County to end drive-thru COVID testing in July\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/wake-county-to-end-drive-thru-covid-testing-in-july/"
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/wake-county-to-end-drive-thru-covid-testing-in-july/"
     },
     {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/wake-county-to-end-drive-thru-covid-testing-in-july/"
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/wake-county-to-end-drive-thru-covid-testing-in-july/"
     },
     {
       "text": "\n\t\t",
@@ -2763,75 +2804,75 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
+      "url": "https://www.cbs17.com/news/south/220-pounds-of-marijuana-seized-at-virginia-grocery-store/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tDurham Tech 911 Academy aims to close operator shortage\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t4th suspect arrested in Henderson gas station shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "text": "\n\t\t\t\n\t\t\t220+ lbs of marijuana seized at Virginia grocery\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/south/220-pounds-of-marijuana-seized-at-virginia-grocery-store/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "url": "https://www.cbs17.com/news/south/220-pounds-of-marijuana-seized-at-virginia-grocery-store/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/dad-who-lost-3-year-old-nc-daughter-in-deadly-shooting-speaks-out/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tPassing medical marijuana bill can help military:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
+      "text": "\n\t\t\t\n\t\t\tDad speaks out after NC toddler daughter fatally\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/dad-who-lost-3-year-old-nc-daughter-in-deadly-shooting-speaks-out/"
     },
     {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/watch-live-biden-gives-speech-about-gun-violence/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\u2018Enough!\u2019 Biden calls for action to combat gun violence\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/watch-live-biden-gives-speech-about-gun-violence/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/watch-live-biden-gives-speech-about-gun-violence/"
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/dad-who-lost-3-year-old-nc-daughter-in-deadly-shooting-speaks-out/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-county-pistol-permit-transactions-rose-by-300-in-2020-data-shows-city-hands-out-gun-locks-thursday/"
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tDurham pistol permit transactions up 300% in 2020:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-county-pistol-permit-transactions-rose-by-300-in-2020-data-shows-city-hands-out-gun-locks-thursday/"
+      "text": "\n\t\t\t\n\t\t\tRaleigh existing police, firefighters seek higher\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-county-pistol-permit-transactions-rose-by-300-in-2020-data-shows-city-hands-out-gun-locks-thursday/"
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/dispatcher-accused-of-hanging-up-on-buffalo-supermarket-shooting-call-is-fired/"
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/activists-community-members-oppose-shotspotter-ahead-of-durham-budget-presentation/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tFired 911 operator allegedly hung up over \u2018whispering\u2019\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/dispatcher-accused-of-hanging-up-on-buffalo-supermarket-shooting-call-is-fired/"
+      "text": "\n\t\t\t\n\t\t\tDurham activists, community members oppose ShotSpotter\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/activists-community-members-oppose-shotspotter-ahead-of-durham-budget-presentation/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/dispatcher-accused-of-hanging-up-on-buffalo-supermarket-shooting-call-is-fired/"
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/activists-community-members-oppose-shotspotter-ahead-of-durham-budget-presentation/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/video/universal-studios-nintendo-world-will-feature-augmented-reality-mario-kart-ride/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tUniversal to open \u2018Mario Kart\u2019 ride in 2023\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/video/universal-studios-nintendo-world-will-feature-augmented-reality-mario-kart-ride/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.cbs17.com/video/universal-studios-nintendo-world-will-feature-augmented-reality-mario-kart-ride/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/local-news/u-s-womens-open-in-southern-pines-to-have-up-to-25-million-economic-impact-official-says/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSouthern Pines to have up to $25M economic impact\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/u-s-womens-open-in-southern-pines-to-have-up-to-25-million-economic-impact-official-says/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/u-s-womens-open-in-southern-pines-to-have-up-to-25-million-economic-impact-official-says/"
     },
     {
       "text": "Sports",
@@ -2871,75 +2912,75 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/french-open-updates-gauff-pegula-move-into-doubles-final/"
+      "url": "https://www.cbs17.com/sports/french-open-updates-gauff-18-to-face-swiatek-for-title/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tFrench Open updates | Roof closed for Nadal vs. Zverev\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/french-open-updates-gauff-pegula-move-into-doubles-final/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/french-open-updates-gauff-pegula-move-into-doubles-final/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/billie-jean-king-receives-frances-legion-of-honor-award/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBillie Jean King receives France\u2019s Legion of Honor\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/billie-jean-king-receives-frances-legion-of-honor-award/"
+      "text": "\n\t\t\t\n\t\t\tFrench Open updates | Swiatek takes 1st set of final\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/sports/french-open-updates-gauff-18-to-face-swiatek-for-title/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/billie-jean-king-receives-frances-legion-of-honor-award/"
+      "url": "https://www.cbs17.com/sports/french-open-updates-gauff-18-to-face-swiatek-for-title/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/leading-off-angels-star-trout-set-to-draw-a-crowd-in-philly-2/"
+      "url": "https://www.cbs17.com/sports/leading-off-goldschmidt-turner-try-to-extend-hit-streaks/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tLEADING OFF: Angels star Trout set to draw a crowd\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/leading-off-angels-star-trout-set-to-draw-a-crowd-in-philly-2/"
+      "text": "\n\t\t\t\n\t\t\tLEADING OFF: Goldschmidt, Turner try to extend hit\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/sports/leading-off-goldschmidt-turner-try-to-extend-hit-streaks/"
     },
     {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/leading-off-angels-star-trout-set-to-draw-a-crowd-in-philly-2/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/gonsolin-sharp-again-dodgers-blank-mets-2-0-in-nl-showdown/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tGonsolin sharp again, Dodgers blank Mets 2-0 in NL\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/gonsolin-sharp-again-dodgers-blank-mets-2-0-in-nl-showdown/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/gonsolin-sharp-again-dodgers-blank-mets-2-0-in-nl-showdown/"
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/sports/leading-off-goldschmidt-turner-try-to-extend-hit-streaks/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/celtics-have-huge-4th-beat-warriors-in-game-1-of-nba-finals/"
+      "url": "https://www.cbs17.com/sports/manny-banuelos-finally-lives-out-yankees-dream/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tCeltics have huge 4th, beat Warriors in Game 1 of\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/celtics-have-huge-4th-beat-warriors-in-game-1-of-nba-finals/"
+      "text": "\n\t\t\t\n\t\t\tManny Ba\u00f1uelos finally lives out Yankees dream\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/sports/manny-banuelos-finally-lives-out-yankees-dream/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/celtics-have-huge-4th-beat-warriors-in-game-1-of-nba-finals/"
+      "url": "https://www.cbs17.com/sports/manny-banuelos-finally-lives-out-yankees-dream/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/warriors-collapse-in-4th-quarter-to-lose-game-1-of-finals/"
+      "url": "https://www.cbs17.com/sports/anderson-extends-shutout-streak-dodgers-defeat-mets-6-1/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tWarriors collapse in 4th quarter to lose Game 1 of\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/warriors-collapse-in-4th-quarter-to-lose-game-1-of-finals/"
+      "text": "\n\t\t\t\n\t\t\tAnderson extends shutout streak, Dodgers defeat Mets\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/sports/anderson-extends-shutout-streak-dodgers-defeat-mets-6-1/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/warriors-collapse-in-4th-quarter-to-lose-game-1-of-finals/"
+      "url": "https://www.cbs17.com/sports/anderson-extends-shutout-streak-dodgers-defeat-mets-6-1/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/sports/rangers-beat-lightning-3-2-in-game-2-for-2-0-series-lead/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tRangers beat Lightning 3-2 in Game 2 for 2-0 series\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/sports/rangers-beat-lightning-3-2-in-game-2-for-2-0-series-lead/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.cbs17.com/sports/rangers-beat-lightning-3-2-in-game-2-for-2-0-series-lead/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/sports/padres-musgrove-carrying-no-hitter-into-7th-inning-vs-brews/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tPadres\u2019 Musgrove loses no-hit bid with 2 out in 8th\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/sports/padres-musgrove-carrying-no-hitter-into-7th-inning-vs-brews/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.cbs17.com/sports/padres-musgrove-carrying-no-hitter-into-7th-inning-vs-brews/"
     },
     {
       "text": "Live",
@@ -3363,47 +3404,63 @@
     },
     {
       "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tTop Story\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/21-homes-6-businesses-and-community-center-hit-by-gunfire-in-durham-in-2022-reports-show/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/21-homes-6-businesses-and-community-center-hit-by-gunfire-in-durham-in-2022-reports-show/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t4th suspect arrested in Henderson gas station shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "text": "\n\t\t\t\n\t\t\t21 homes, 6 businesses hit by gunfire in Durham in\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/21-homes-6-businesses-and-community-center-hit-by-gunfire-in-durham-in-2022-reports-show/"
     },
     {
-      "text": "Local News",
-      "url": "https://www.cbs17.com/news/local-news/"
+      "text": "Durham County News",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/21-homes-6-businesses-and-community-center-hit-by-gunfire-in-durham-in-2022-reports-show/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/wake-county-to-end-drive-thru-covid-testing-in-july/"
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/1-teen-dead-another-critically-injured-in-goldsboro-daytime-shooting-police-say/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tWake County to end drive-thru COVID testing in July\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/wake-county-to-end-drive-thru-covid-testing-in-july/"
+      "text": "\n\t\t\t\n\t\t\t1 teen dead, another injured in Goldsboro shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/1-teen-dead-another-critically-injured-in-goldsboro-daytime-shooting-police-say/"
     },
     {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
+      "text": "Wayne County News",
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/wake-county-to-end-drive-thru-covid-testing-in-july/"
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/1-teen-dead-another-critically-injured-in-goldsboro-daytime-shooting-police-say/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-release-videos-of-molotov-cocktail-attack/"
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/nccu-school-of-law-dean-dies-unexpectedly-university-announces/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tRaleigh police release videos of molotov cocktail\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-release-videos-of-molotov-cocktail-attack/"
+      "text": "\n\t\t\t\n\t\t\tNC Central School of Law Dean dies unexpectedly,\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/nccu-school-of-law-dean-dies-unexpectedly-university-announces/"
+    },
+    {
+      "text": "Durham County News",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/nccu-school-of-law-dean-dies-unexpectedly-university-announces/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-investigate-shooting-at-optimist-park/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tRaleigh park shooting forced school into lockdown\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-investigate-shooting-at-optimist-park/"
     },
     {
       "text": "Wake County News",
@@ -3411,7 +3468,91 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-release-videos-of-molotov-cocktail-attack/"
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-investigate-shooting-at-optimist-park/"
+    },
+    {
+      "text": "\n\t\t\n\t\tMore Top Stories\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tPleasant & comfortable weekend\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
+    },
+    {
+      "text": "Weather",
+      "url": "https://www.cbs17.com/weather/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/2-cases-of-legionnaires-disease-possibly-linked-to-wake-forest-hotel-wake-county-officials-say/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tLegionnaires\u2019 disease possibly linked to Wake Forest\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/2-cases-of-legionnaires-disease-possibly-linked-to-wake-forest-hotel-wake-county-officials-say/"
+    },
+    {
+      "text": "Wake County News",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/2-cases-of-legionnaires-disease-possibly-linked-to-wake-forest-hotel-wake-county-officials-say/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tRaleigh existing police, firefighters seek higher\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
+    },
+    {
+      "text": "Wake County News",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-duo-among-4-busted-after-9-cars-broken-into-at-nc-coast-police-say/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tFayetteville duo among arrests at NC coast after\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-duo-among-4-busted-after-9-cars-broken-into-at-nc-coast-police-say/"
+    },
+    {
+      "text": "Cumberland County News",
+      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-duo-among-4-busted-after-9-cars-broken-into-at-nc-coast-police-say/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/activists-community-members-oppose-shotspotter-ahead-of-durham-budget-presentation/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tDurham activists, community members oppose ShotSpotter\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/activists-community-members-oppose-shotspotter-ahead-of-durham-budget-presentation/"
+    },
+    {
+      "text": "Durham County News",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/activists-community-members-oppose-shotspotter-ahead-of-durham-budget-presentation/"
     },
     {
       "text": "\n\t\t",
@@ -3426,108 +3567,8 @@
       "url": "https://www.cbs17.com/news/north-carolina-news/"
     },
     {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "text": "\n\t\n\t\n\n\t\t\t",
       "url": "https://www.cbs17.com/news/north-carolina-news/with-billions-in-surplus-money-could-nc-send-money-for-your-gas-tank/"
-    },
-    {
-      "text": "\n\t\t\n\t\tMore Top Stories\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t80s for Friday, cooler for the weekend\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
-    },
-    {
-      "text": "Weather",
-      "url": "https://www.cbs17.com/weather/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-residents-send-city-council-emails-of-support-some-opposition-for-shotspotter-to-combat-crime/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tDurham residents talk support, opposition for ShotSpotter\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-residents-send-city-council-emails-of-support-some-opposition-for-shotspotter-to-combat-crime/"
-    },
-    {
-      "text": "Durham County News",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-residents-send-city-council-emails-of-support-some-opposition-for-shotspotter-to-combat-crime/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/some-nc-students-fell-behind-by-a-year-during-covid-teacher-survey-says/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSurvey: NC students fell behind by a year during\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/some-nc-students-fell-behind-by-a-year-during-covid-teacher-survey-says/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/some-nc-students-fell-behind-by-a-year-during-covid-teacher-survey-says/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tDurham Tech 911 Academy aims to close operator shortage\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
-    },
-    {
-      "text": "Durham County News",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/escaped-murderer-linked-to-5-more-deaths-texas-officials-say/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tEscaped murderer connected with 5 more deaths\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/escaped-murderer-linked-to-5-more-deaths-texas-officials-say/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/escaped-murderer-linked-to-5-more-deaths-texas-officials-say/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/duke/australian-5-star-guard-tyrese-proctor-reclassifies-cleared-to-play-for-duke-in-2022/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNo. 1 nationally ranked freshman to play at Duke\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/duke/australian-5-star-guard-tyrese-proctor-reclassifies-cleared-to-play-for-duke-in-2022/"
-    },
-    {
-      "text": "Duke",
-      "url": "https://www.cbs17.com/sports/duke/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/duke/australian-5-star-guard-tyrese-proctor-reclassifies-cleared-to-play-for-duke-in-2022/"
     },
     {
       "text": "10-day forecast",
@@ -3559,43 +3600,43 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/wake-county-to-end-drive-thru-covid-testing-in-july/"
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/1-teen-dead-another-critically-injured-in-goldsboro-daytime-shooting-police-say/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tWake County to end drive-thru COVID testing in July\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/wake-county-to-end-drive-thru-covid-testing-in-july/"
+      "text": "\n\t\t\t\n\t\t\t1 teen dead, another injured in Goldsboro shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/1-teen-dead-another-critically-injured-in-goldsboro-daytime-shooting-police-say/"
     },
     {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/wake-county-to-end-drive-thru-covid-testing-in-july/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/duke/australian-5-star-guard-tyrese-proctor-reclassifies-cleared-to-play-for-duke-in-2022/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNo. 1 nationally ranked freshman to play at Duke\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/duke/australian-5-star-guard-tyrese-proctor-reclassifies-cleared-to-play-for-duke-in-2022/"
-    },
-    {
-      "text": "Duke",
-      "url": "https://www.cbs17.com/sports/duke/"
+      "text": "Wayne County News",
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/duke/australian-5-star-guard-tyrese-proctor-reclassifies-cleared-to-play-for-duke-in-2022/"
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/1-teen-dead-another-critically-injured-in-goldsboro-daytime-shooting-police-say/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tDurham Tech 911 Academy aims to close operator shortage\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
+      "text": "\n\t\t\t\n\t\t\tRaleigh existing police, firefighters seek higher\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
+    },
+    {
+      "text": "Wake County News",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/activists-community-members-oppose-shotspotter-ahead-of-durham-budget-presentation/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tDurham activists, community members oppose ShotSpotter\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/activists-community-members-oppose-shotspotter-ahead-of-durham-budget-presentation/"
     },
     {
       "text": "Durham County News",
@@ -3603,15 +3644,31 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/activists-community-members-oppose-shotspotter-ahead-of-durham-budget-presentation/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/nccu-school-of-law-dean-dies-unexpectedly-university-announces/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t4th suspect arrested in Henderson gas station shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "text": "\n\t\t\t\n\t\t\tNC Central School of Law Dean dies unexpectedly,\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/nccu-school-of-law-dean-dies-unexpectedly-university-announces/"
+    },
+    {
+      "text": "Durham County News",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/durham-county-news/nccu-school-of-law-dean-dies-unexpectedly-university-announces/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/local-news/u-s-womens-open-in-southern-pines-to-have-up-to-25-million-economic-impact-official-says/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSouthern Pines to have up to $25M economic impact\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/u-s-womens-open-in-southern-pines-to-have-up-to-25-million-economic-impact-official-says/"
     },
     {
       "text": "Local News",
@@ -3619,23 +3676,7 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tPassing medical marijuana bill can help military:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
-    },
-    {
-      "text": "Cumberland County News",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
+      "url": "https://www.cbs17.com/news/local-news/u-s-womens-open-in-southern-pines-to-have-up-to-25-million-economic-impact-official-says/"
     },
     {
       "text": "\n\t\t\t\tView All Local News\n\t\t\t\t\t\t\t",
@@ -3647,27 +3688,59 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/nc-mom-charged-in-drowning-death-of-toddler-son-is-caught-in-ny/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t13 NC counties now is CDC\u2019s orange zone. Is yours?\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
+      "text": "\n\t\t\t\n\t\t\tNC mom charged in toddler son\u2019s death is caught in\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/nc-mom-charged-in-drowning-death-of-toddler-son-is-caught-in-ny/"
     },
     {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
+      "text": "North Carolina news",
+      "url": "https://www.cbs17.com/news/north-carolina-news/"
     },
     {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/nc-mom-charged-in-drowning-death-of-toddler-son-is-caught-in-ny/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/new-nc-natural-area-protects-6000-acres-of-public-land/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/dad-who-lost-3-year-old-nc-daughter-in-deadly-shooting-speaks-out/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tNew NC natural area protects 6,000+ acres of public\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/new-nc-natural-area-protects-6000-acres-of-public-land/"
+      "text": "\n\t\t\t\n\t\t\tDad speaks out after NC toddler daughter fatally\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/dad-who-lost-3-year-old-nc-daughter-in-deadly-shooting-speaks-out/"
+    },
+    {
+      "text": "North Carolina news",
+      "url": "https://www.cbs17.com/news/north-carolina-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/dad-who-lost-3-year-old-nc-daughter-in-deadly-shooting-speaks-out/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/sports/college-sports/bryson-worrell-homers-twice-in-1-inning-as-ecu-wins-regional-opener-17-1-friday/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWorrell homers twiceas ECU wins regional opener 17-1\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/sports/college-sports/bryson-worrell-homers-twice-in-1-inning-as-ecu-wins-regional-opener-17-1-friday/"
+    },
+    {
+      "text": "College Sports",
+      "url": "https://www.cbs17.com/sports/college-sports/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/sports/college-sports/bryson-worrell-homers-twice-in-1-inning-as-ecu-wins-regional-opener-17-1-friday/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/2-taken-to-hospital-after-driver-smashes-car-through-nail-salon-at-nc-coast/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t2 taken to hospital; car smashes through NC nail\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/2-taken-to-hospital-after-driver-smashes-car-through-nail-salon-at-nc-coast/"
     },
     {
       "text": "North Carolina news",
@@ -3675,47 +3748,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/new-nc-natural-area-protects-6000-acres-of-public-land/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/2-taken-to-hospital-after-driver-smashes-car-through-nail-salon-at-nc-coast/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/wheelchair-packed-with-23-pounds-of-cocaine-found-at-north-carolina-airport/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tPassing medical marijuana bill can help military:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
-    },
-    {
-      "text": "Cumberland County News",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/some-nc-students-fell-behind-by-a-year-during-covid-teacher-survey-says/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSurvey: NC students fell behind by a year during\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/some-nc-students-fell-behind-by-a-year-during-covid-teacher-survey-says/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/some-nc-students-fell-behind-by-a-year-during-covid-teacher-survey-says/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/jacksonville-woman-gets-15-years-for-trafficking-200-grams-of-meth-heroin-out-of-hotel-room/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNC woman gets 15 years for hotel room drug trafficking\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/jacksonville-woman-gets-15-years-for-trafficking-200-grams-of-meth-heroin-out-of-hotel-room/"
+      "text": "\n\t\t\t\n\t\t\tWheelchair full of cocaine found at NC airport\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/wheelchair-packed-with-23-pounds-of-cocaine-found-at-north-carolina-airport/"
     },
     {
       "text": "North Carolina news",
@@ -3723,7 +3764,7 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/jacksonville-woman-gets-15-years-for-trafficking-200-grams-of-meth-heroin-out-of-hotel-room/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/wheelchair-packed-with-23-pounds-of-cocaine-found-at-north-carolina-airport/"
     },
     {
       "text": "\n\t\t\t\tView All North Carolina news\n\t\t\t\t\t\t\t",
@@ -3735,27 +3776,11 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/these-10-states-have-the-most-affordable-housing-markets-report-finds/"
+      "url": "https://www.cbs17.com/news/national-news/how-to-make-more-green-at-your-next-yard-sale/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tTop 10 states with cheapest housing markets: report\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/these-10-states-have-the-most-affordable-housing-markets-report-finds/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/these-10-states-have-the-most-affordable-housing-markets-report-finds/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/singing-is-helping-these-long-covid-patients-feel-better/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSinging helping \u2018long COVID\u2019 patients feel better\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/singing-is-helping-these-long-covid-patients-feel-better/"
+      "text": "\n\t\t\t\n\t\t\tHow to make more green at your next yard sale\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/national-news/how-to-make-more-green-at-your-next-yard-sale/"
     },
     {
       "text": "National News",
@@ -3763,15 +3788,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/singing-is-helping-these-long-covid-patients-feel-better/"
+      "url": "https://www.cbs17.com/news/national-news/how-to-make-more-green-at-your-next-yard-sale/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/seized-yacht-seen-on-modern-family-up-for-auction-in-california/"
+      "url": "https://www.cbs17.com/news/national-news/heres-why-facebook-users-block-their-own-family/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tSeized yacht seen on \u2018Modern Family\u2019 up for auction\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/seized-yacht-seen-on-modern-family-up-for-auction-in-california/"
+      "text": "\n\t\t\t\n\t\t\tHere\u2019s why Facebook users block their own family\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/national-news/heres-why-facebook-users-block-their-own-family/"
     },
     {
       "text": "National News",
@@ -3779,15 +3804,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/seized-yacht-seen-on-modern-family-up-for-auction-in-california/"
+      "url": "https://www.cbs17.com/news/national-news/heres-why-facebook-users-block-their-own-family/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/great-scott-this-is-the-new-delorean/"
+      "url": "https://www.cbs17.com/news/national-news/what-makes-smoky-charred-barbecue-taste-so-good-the-chemistry-of-cooking-over-an-open-flame/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tGreat Scott! This is the new DeLorean\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/great-scott-this-is-the-new-delorean/"
+      "text": "\n\t\t\t\n\t\t\tWhat makes smoky, charred barbecue taste so good?\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/national-news/what-makes-smoky-charred-barbecue-taste-so-good-the-chemistry-of-cooking-over-an-open-flame/"
     },
     {
       "text": "National News",
@@ -3795,15 +3820,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/great-scott-this-is-the-new-delorean/"
+      "url": "https://www.cbs17.com/news/national-news/what-makes-smoky-charred-barbecue-taste-so-good-the-chemistry-of-cooking-over-an-open-flame/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/national-doughnut-day-a-dozen-tasty-tidbits-you-never-knew-about-doughnuts/"
+      "url": "https://www.cbs17.com/news/national-news/see-the-top-5-most-searched-summer-travel-destinations-in-the-us/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tNational Doughnut Day: 12 little-known facts\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/national-doughnut-day-a-dozen-tasty-tidbits-you-never-knew-about-doughnuts/"
+      "text": "\n\t\t\t\n\t\t\tTop 5 most-searched summer destinations\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/national-news/see-the-top-5-most-searched-summer-travel-destinations-in-the-us/"
     },
     {
       "text": "National News",
@@ -3811,31 +3836,47 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/national-doughnut-day-a-dozen-tasty-tidbits-you-never-knew-about-doughnuts/"
+      "url": "https://www.cbs17.com/news/national-news/see-the-top-5-most-searched-summer-travel-destinations-in-the-us/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/which-cities-and-states-have-most-dog-attacks-on-usps-postal-workers/"
+      "url": "https://www.cbs17.com/news/what-was-the-last-movie-released-on-vhs/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tThe cities, states with most dog attacks on USPS\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/which-cities-and-states-have-most-dog-attacks-on-usps-postal-workers/"
+      "text": "\n\t\t\t\n\t\t\tWhat was the last movie released on VHS?\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/what-was-the-last-movie-released-on-vhs/"
     },
     {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
+      "text": "News",
+      "url": "https://www.cbs17.com/news/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/which-cities-and-states-have-most-dog-attacks-on-usps-postal-workers/"
+      "url": "https://www.cbs17.com/news/what-was-the-last-movie-released-on-vhs/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/graduation-surprise-entire-8th-grade-class-promised-free-college-tuition-in-michigan/"
+      "url": "https://www.cbs17.com/entertainment-news/talk-show-host-wendy-williams-placed-under-court-ordered-financial-guardianship/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tMich. 8th-grade class promised free college tuition\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/graduation-surprise-entire-8th-grade-class-promised-free-college-tuition-in-michigan/"
+      "text": "\n\t\t\t\n\t\t\tTalk show host placed under financial guardianship\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/entertainment-news/talk-show-host-wendy-williams-placed-under-court-ordered-financial-guardianship/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.cbs17.com/entertainment-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/entertainment-news/talk-show-host-wendy-williams-placed-under-court-ordered-financial-guardianship/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/national-news/watch-man-stops-car-thief-by-jumping-in-window/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWATCH: Man stops car thief by jumping in window\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/national-news/watch-man-stops-car-thief-by-jumping-in-window/"
     },
     {
       "text": "National News",
@@ -3843,7 +3884,7 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/graduation-surprise-entire-8th-grade-class-promised-free-college-tuition-in-michigan/"
+      "url": "https://www.cbs17.com/news/national-news/watch-man-stops-car-thief-by-jumping-in-window/"
     },
     {
       "text": "\n\t\t\n\t\tDigital stories\n\t\t\t\t\t",
@@ -3851,10 +3892,58 @@
     },
     {
       "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/local-news/triangle-restaurant-week-could-provide-much-needed-business-boost/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tTriangle Restaurant Week could provide much needed\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/triangle-restaurant-week-could-provide-much-needed-business-boost/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.cbs17.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/triangle-restaurant-week-could-provide-much-needed-business-boost/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/a-100000-powerball-ticket-from-december-still-hasnt-been-claimed-do-you-have-it/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tDo you have this unclaimed $100K Powerball ticket?\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/a-100000-powerball-ticket-from-december-still-hasnt-been-claimed-do-you-have-it/"
+    },
+    {
+      "text": "North Carolina news",
+      "url": "https://www.cbs17.com/news/north-carolina-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/a-100000-powerball-ticket-from-december-still-hasnt-been-claimed-do-you-have-it/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/fact-check-how-many-more-people-in-nc-would-expanding-medicaid-actually-affect/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tHow many people in NC would expanding Medicaid affect?\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/fact-check-how-many-more-people-in-nc-would-expanding-medicaid-actually-affect/"
+    },
+    {
+      "text": "North Carolina news",
+      "url": "https://www.cbs17.com/news/north-carolina-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/fact-check-how-many-more-people-in-nc-would-expanding-medicaid-actually-affect/"
+    },
+    {
+      "text": "\n\t\t",
       "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t13 NC counties now is CDC\u2019s orange zone. Is yours?\n\t\t\t\t\t\t\t",
+      "text": "\n\t\t\t\n\t\t\t13 NC counties now in CDC\u2019s orange zone. Is yours?\n\t\t\t\t\t\t\t",
       "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
     },
     {
@@ -3882,60 +3971,8 @@
       "url": "https://www.cbs17.com/news/some-nc-students-fell-behind-by-a-year-during-covid-teacher-survey-says/"
     },
     {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/ex-state-trooper-who-illegally-sold-guns-including-ar-15-gets-3-years-in-prison/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tEx-Trooper gets 3+ years for illegally selling guns\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/ex-state-trooper-who-illegally-sold-guns-including-ar-15-gets-3-years-in-prison/"
-    },
-    {
-      "text": "North Carolina news",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/ex-state-trooper-who-illegally-sold-guns-including-ar-15-gets-3-years-in-prison/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/free-treats-on-national-donut-day-heres-the-hole-truth-about-how-you-can-get-some/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHere\u2019s how to score free treats on National Donut\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/free-treats-on-national-donut-day-heres-the-hole-truth-about-how-you-can-get-some/"
-    },
-    {
-      "text": "Local News",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/free-treats-on-national-donut-day-heres-the-hole-truth-about-how-you-can-get-some/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/man-accused-of-shooting-at-fayetteville-police-officers-serving-high-risk-warrant/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tMan accused of shooting at Fayetteville police\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/man-accused-of-shooting-at-fayetteville-police-officers-serving-high-risk-warrant/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/man-accused-of-shooting-at-fayetteville-police-officers-serving-high-risk-warrant/"
-    },
-    {
       "text": "\n\t\t\t\tView All Digital stories\n\t\t\t\t\t\t\t",
       "url": "https://www.cbs17.com/digital-stories/"
-    },
-    {
-      "text": "  Countdown to Golf Coverage on CBS 17\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t June 04 2022 02:00 pm \n\t\t\t\t\t01Days03Hours55Minutes\n\t\t\t\t \n\t\t\t\n\t\t\t\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/ "
     },
     {
       "text": "\n\t\t\n\t\t\u00a0\n\t\t\t\t\t",
@@ -3951,31 +3988,31 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/us-news/southwest/texas-officials-say-bodies-found-near-where-inmate-escaped/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/southwest/family-of-texas-fugitives-victims-face-unimaginable-grief/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tEscaped Texas inmate Gonzalo Lopez shot, killed by\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/southwest/texas-officials-say-bodies-found-near-where-inmate-escaped/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "text": "\n\t\t\t\n\t\t\tFamily of Texas fugitive\u2019s victims face \u2018unimaginable\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/southwest/family-of-texas-fugitives-victims-face-unimaginable-grief/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/southwest/texas-officials-say-bodies-found-near-where-inmate-escaped/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/southwest/family-of-texas-fugitives-victims-face-unimaginable-grief/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tU.S.\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/"
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tSouthwest\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/southwest/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/us-news/coca-cola-company-phasing-out-one-of-its-longtime-beverages/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/southwest/texas-officials-say-bodies-found-near-where-inmate-escaped/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tCoca-Cola Company phasing out one of its longtime\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/coca-cola-company-phasing-out-one-of-its-longtime-beverages/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "text": "\n\t\t\t\n\t\t\tEscaped Texas inmate Gonzalo Lopez dead after killing\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/southwest/texas-officials-say-bodies-found-near-where-inmate-escaped/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/coca-cola-company-phasing-out-one-of-its-longtime-beverages/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/southwest/texas-officials-say-bodies-found-near-where-inmate-escaped/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
       "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tU.S.\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
@@ -4010,36 +4047,36 @@
       "url": "https://www.newsnationnow.com/us-news/speller-reinstated-into-national-spelling-bee-after-appeal/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tSoutheast\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/southeast/"
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tU.S.\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/us-news/southeast/alex-murdaugh-agrees-to-pay-4-million-to-housekeepers-estate/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/rush-hour-roundtable-this-district-has-armed-police-in-every-school/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tAlex Murdaugh agrees to pay $4.3 million to housekeeper\u2019s\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/southeast/alex-murdaugh-agrees-to-pay-4-million-to-housekeepers-estate/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "text": "\n\t\t\t\n\t\t\tThis district has armed police in every school\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/rush-hour-roundtable-this-district-has-armed-police-in-every-school/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/southeast/alex-murdaugh-agrees-to-pay-4-million-to-housekeepers-estate/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/rush-hour-roundtable-this-district-has-armed-police-in-every-school/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tWeather\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/weather/"
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tU.S.\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/weather/tropical-storm-alex-likely-to-form-friday-hit-florida-and-cuba/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/coca-cola-company-phasing-out-one-of-its-longtime-beverages/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tTropical Storm Alex likely to form Friday, hit Florida\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/weather/tropical-storm-alex-likely-to-form-friday-hit-florida-and-cuba/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "text": "\n\t\t\t\n\t\t\tCoca-Cola Company phasing out one of its longtime\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/coca-cola-company-phasing-out-one-of-its-longtime-beverages/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/weather/tropical-storm-alex-likely-to-form-friday-hit-florida-and-cuba/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/coca-cola-company-phasing-out-one-of-its-longtime-beverages/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
     },
     {
       "text": "\n\t\t\t\tFind out how you can watch\n\t\t\t\t\t\t\t",
@@ -4052,6 +4089,38 @@
     {
       "text": "\n\n\n\n",
       "url": "https://www.cbs17.com/my-carolina/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/my-carolina/sponsored-content-learn-about-the-education-department-at-william-peace-university/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSponsored Content: Learn About the Education Department\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/my-carolina/sponsored-content-learn-about-the-education-department-at-william-peace-university/"
+    },
+    {
+      "text": "My Carolina",
+      "url": "https://www.cbs17.com/my-carolina/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/my-carolina/sponsored-content-learn-about-the-education-department-at-william-peace-university/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/my-carolina/sponsored-content-check-out-the-cool-features-of-the-ford-bronco/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSponsored Content: Check Out the Cool Features of\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/my-carolina/sponsored-content-check-out-the-cool-features-of-the-ford-bronco/"
+    },
+    {
+      "text": "My Carolina",
+      "url": "https://www.cbs17.com/my-carolina/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/my-carolina/sponsored-content-check-out-the-cool-features-of-the-ford-bronco/"
     },
     {
       "text": "\n\t\t",
@@ -4102,38 +4171,6 @@
       "url": "https://www.cbs17.com/my-carolina/sponsored-content-looking-for-a-new-community-explore-fenton/"
     },
     {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/my-carolina/entertainment-headlines-with-g-105s-erica-delong/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tEntertainment headlines with G-105\u2019s Erica DeLong\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/entertainment-headlines-with-g-105s-erica-delong/"
-    },
-    {
-      "text": "My Carolina",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/entertainment-headlines-with-g-105s-erica-delong/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/my-carolina/my-carolina-videos/check-out-the-van-gogh-immersive-experience-open-in-raleigh/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tCheck out the Van Gogh Immersive Experience open\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/my-carolina-videos/check-out-the-van-gogh-immersive-experience-open-in-raleigh/"
-    },
-    {
-      "text": "My Carolina Videos",
-      "url": "https://www.cbs17.com/my-carolina/my-carolina-videos/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/my-carolina-videos/check-out-the-van-gogh-immersive-experience-open-in-raleigh/"
-    },
-    {
       "text": "\n\t\t\t\tView All My Carolina\n\t\t\t\t\t\t\t",
       "url": "https://www.cbs17.com/my-carolina/"
     },
@@ -4143,91 +4180,11 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/sports-fitness-br/fitness-gear-br/must-own-cyclist-gear-to-avoid-bicycle-shortage/"
+      "url": "https://www.cbs17.com/reviews/best-polk-soundbar/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tMust-own cyclist gear to avoid bicycle shortage\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/sports-fitness-br/fitness-gear-br/must-own-cyclist-gear-to-avoid-bicycle-shortage/"
-    },
-    {
-      "text": "Fitness Gear",
-      "url": "https://www.cbs17.com/reviews/br/sports-fitness-br/fitness-gear-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/sports-fitness-br/fitness-gear-br/must-own-cyclist-gear-to-avoid-bicycle-shortage/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/shoes-br/casual-br/best-nike-tennis-shoes/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBest Nike tennis shoes\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/shoes-br/casual-br/best-nike-tennis-shoes/"
-    },
-    {
-      "text": "Casual",
-      "url": "https://www.cbs17.com/reviews/br/shoes-br/casual-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/shoes-br/casual-br/best-nike-tennis-shoes/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cookware-br/which-all-clad-saucepan-should-i-buy/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWhich All-Clad saucepan should I buy?\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cookware-br/which-all-clad-saucepan-should-i-buy/"
-    },
-    {
-      "text": "Cookware",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cookware-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cookware-br/which-all-clad-saucepan-should-i-buy/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/patio-br/grilling-outdoor-cooking-br/natural-gas-grills-vs-propane-grills/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNatural gas grills vs. propane grills\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/patio-br/grilling-outdoor-cooking-br/natural-gas-grills-vs-propane-grills/"
-    },
-    {
-      "text": "Grilling & Outdoor Cooking",
-      "url": "https://www.cbs17.com/reviews/br/patio-br/grilling-outdoor-cooking-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/patio-br/grilling-outdoor-cooking-br/natural-gas-grills-vs-propane-grills/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/electronics-br/computer-accessories-peripherals-br/logitechs-new-gear-is-perfect-if-you-like-quiet-computer-accessories/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tLogitech\u2019s new gear is perfect if you like quiet\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/electronics-br/computer-accessories-peripherals-br/logitechs-new-gear-is-perfect-if-you-like-quiet-computer-accessories/"
-    },
-    {
-      "text": "Computer Accessories & Peripherals",
-      "url": "https://www.cbs17.com/reviews/br/electronics-br/computer-accessories-peripherals-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/electronics-br/computer-accessories-peripherals-br/logitechs-new-gear-is-perfect-if-you-like-quiet-computer-accessories/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/best-crocs-sandals/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBest Crocs sandals\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/best-crocs-sandals/"
+      "text": "\n\t\t\t\n\t\t\tBest Polk soundbar\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/best-polk-soundbar/"
     },
     {
       "text": "Reviews",
@@ -4235,7 +4192,87 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/best-crocs-sandals/"
+      "url": "https://www.cbs17.com/reviews/best-polk-soundbar/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cutlery-knife-accessories-br/best-cuisinart-knife-set/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBest Cuisinart knife set\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cutlery-knife-accessories-br/best-cuisinart-knife-set/"
+    },
+    {
+      "text": "Cutlery & Knife Accessories",
+      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cutlery-knife-accessories-br/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cutlery-knife-accessories-br/best-cuisinart-knife-set/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/reviews/best-on-running-shoes/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBest On running shoes\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/best-on-running-shoes/"
+    },
+    {
+      "text": "Reviews",
+      "url": "https://www.cbs17.com/reviews/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/best-on-running-shoes/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/reviews/br/toys-games-br/pretend-play-br/best-barn-toy/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBest barn toy\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/br/toys-games-br/pretend-play-br/best-barn-toy/"
+    },
+    {
+      "text": "Pretend Play",
+      "url": "https://www.cbs17.com/reviews/br/toys-games-br/pretend-play-br/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/br/toys-games-br/pretend-play-br/best-barn-toy/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/reviews/best-brooks-running-shoes-for-men/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBest Brooks running shoes for men\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/best-brooks-running-shoes-for-men/"
+    },
+    {
+      "text": "Reviews",
+      "url": "https://www.cbs17.com/reviews/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/best-brooks-running-shoes-for-men/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.cbs17.com/reviews/br/electronics-br/camera-photo-br/best-polaroid-instant-camera/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBest Polaroid instant camera\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/br/electronics-br/camera-photo-br/best-polaroid-instant-camera/"
+    },
+    {
+      "text": "Camera & Photo",
+      "url": "https://www.cbs17.com/reviews/br/electronics-br/camera-photo-br/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.cbs17.com/reviews/br/electronics-br/camera-photo-br/best-polaroid-instant-camera/"
     },
     {
       "text": "\n\t\t\t\tMore reviews\n\t\t\t\t\t\t\t",
@@ -4247,51 +4284,51 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
+      "url": "https://www.cbs17.com/news/south/220-pounds-of-marijuana-seized-at-virginia-grocery-store/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tDurham Tech 911 Academy aims to close operator shortage\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
+      "text": "\n\t\t\t\n\t\t\t220+ lbs of marijuana seized at Virginia grocery\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/south/220-pounds-of-marijuana-seized-at-virginia-grocery-store/"
     },
     {
-      "text": "Durham County News",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/"
+      "text": "Around the South",
+      "url": "https://www.cbs17.com/news/south/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-tech-911-academy-looks-to-close-operator-shortage/"
+      "url": "https://www.cbs17.com/news/south/220-pounds-of-marijuana-seized-at-virginia-grocery-store/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/dad-who-lost-3-year-old-nc-daughter-in-deadly-shooting-speaks-out/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t4th suspect arrested in Henderson gas station shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "text": "\n\t\t\t\n\t\t\tDad speaks out after NC toddler daughter fatally\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/dad-who-lost-3-year-old-nc-daughter-in-deadly-shooting-speaks-out/"
     },
     {
-      "text": "Local News",
-      "url": "https://www.cbs17.com/news/local-news/"
+      "text": "North Carolina news",
+      "url": "https://www.cbs17.com/news/north-carolina-news/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/dad-who-lost-3-year-old-nc-daughter-in-deadly-shooting-speaks-out/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tPassing medical marijuana bill can help military:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
+      "text": "\n\t\t\t\n\t\t\tRaleigh existing police, firefighters seek higher\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
     },
     {
-      "text": "Cumberland County News",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/"
+      "text": "Wake County News",
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-cbd-shop-owner-hopes-passing-medical-marijuana-bill-can-help-service-members/"
+      "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-police-firefighter-associations-seek-higher-pay-raises-for-existing-employees/"
     },
     {
       "text": "\n\t\t\t\tView All Video\n\t\t\t\t\t\t\t",
@@ -4331,87 +4368,87 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/virginia-county-doubles-down-on-confederate-symbols/"
+      "url": "https://www.cbs17.com/news/south/220-pounds-of-marijuana-seized-at-virginia-grocery-store/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tVirginia county doubles down on Confederate symbols\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/virginia-county-doubles-down-on-confederate-symbols/"
+      "text": "\n\t\t\t\n\t\t\t220+ lbs of marijuana seized at Virginia grocery\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/south/220-pounds-of-marijuana-seized-at-virginia-grocery-store/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/virginia-county-doubles-down-on-confederate-symbols/"
+      "url": "https://www.cbs17.com/news/south/220-pounds-of-marijuana-seized-at-virginia-grocery-store/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t4th suspect arrested in Henderson gas station shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "text": "\n\t\t\t\n\t\t\t13 NC counties now in CDC\u2019s orange zone. Is yours?\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/final-suspect-arrested-in-henderson-gas-station-shooting-police/"
+      "url": "https://www.cbs17.com/news/13-nc-counties-now-in-cdcs-orange-zone-with-highest-level-of-covid-spread-is-yours/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/2-dead-in-multi-vehicle-crash-in-raleigh/"
+      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-duo-among-4-busted-after-9-cars-broken-into-at-nc-coast-police-say/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t2 dead in multi-vehicle crash in Raleigh; driver\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/2-dead-in-multi-vehicle-crash-in-raleigh/"
+      "text": "\n\t\t\t\n\t\t\tFayetteville duo among arrests at NC coast after\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-duo-among-4-busted-after-9-cars-broken-into-at-nc-coast-police-say/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/2-dead-in-multi-vehicle-crash-in-raleigh/"
+      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/fayetteville-duo-among-4-busted-after-9-cars-broken-into-at-nc-coast-police-say/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-nurse-sentenced-after-stealing-using-hospital-drugs-on-herself/"
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/1-teen-dead-another-critically-injured-in-goldsboro-daytime-shooting-police-say/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tNC nurse sentenced for stealing, using drugs on self\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-nurse-sentenced-after-stealing-using-hospital-drugs-on-herself/"
+      "text": "\n\t\t\t\n\t\t\t1 teen dead, another injured in Goldsboro shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/1-teen-dead-another-critically-injured-in-goldsboro-daytime-shooting-police-say/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-nurse-sentenced-after-stealing-using-hospital-drugs-on-herself/"
+      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/1-teen-dead-another-critically-injured-in-goldsboro-daytime-shooting-police-say/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/caught-on-camera-raleigh-family-says-someone-stole-34-foot-camper/"
+      "url": "https://www.cbs17.com/news/south/30-animals-found-dead-in-animal-rescue-ceos-home-in-south-carolina/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tWATCH: 34-foot camper stolen on camera in Raleigh\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/caught-on-camera-raleigh-family-says-someone-stole-34-foot-camper/"
+      "text": "\n\t\t\t\n\t\t\t30 animals found dead in SC animal rescue CEO\u2019s home\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/south/30-animals-found-dead-in-animal-rescue-ceos-home-in-south-carolina/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/caught-on-camera-raleigh-family-says-someone-stole-34-foot-camper/"
+      "url": "https://www.cbs17.com/news/south/30-animals-found-dead-in-animal-rescue-ceos-home-in-south-carolina/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/video-shows-broad-daylight-shootout-at-henderson-gas-station/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/2-taken-to-hospital-after-driver-smashes-car-through-nail-salon-at-nc-coast/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tVideo shows broad-daylight shootout at Henderson\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/video-shows-broad-daylight-shootout-at-henderson-gas-station/"
+      "text": "\n\t\t\t\n\t\t\t2 taken to hospital; car smashes through NC nail\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/2-taken-to-hospital-after-driver-smashes-car-through-nail-salon-at-nc-coast/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/video-shows-broad-daylight-shootout-at-henderson-gas-station/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/2-taken-to-hospital-after-driver-smashes-car-through-nail-salon-at-nc-coast/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/jacksonville-woman-gets-15-years-for-trafficking-200-grams-of-meth-heroin-out-of-hotel-room/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/a-100000-powerball-ticket-from-december-still-hasnt-been-claimed-do-you-have-it/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tNC woman gets 15 years for hotel room drug trafficking\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/jacksonville-woman-gets-15-years-for-trafficking-200-grams-of-meth-heroin-out-of-hotel-room/"
+      "text": "\n\t\t\t\n\t\t\tDo you have this unclaimed $100K Powerball ticket?\n\t\t\t\t\t\t\t",
+      "url": "https://www.cbs17.com/news/north-carolina-news/a-100000-powerball-ticket-from-december-still-hasnt-been-claimed-do-you-have-it/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/jacksonville-woman-gets-15-years-for-trafficking-200-grams-of-meth-heroin-out-of-hotel-room/"
+      "url": "https://www.cbs17.com/news/north-carolina-news/a-100000-powerball-ticket-from-december-still-hasnt-been-claimed-do-you-have-it/"
     },
     {
       "text": "\n\t\t\t\tClick here for full list of trending stories\n\t\t\t\t\t\t\t",
@@ -4535,6 +4572,7 @@
     }
   ],
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }
