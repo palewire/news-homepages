@@ -1,5 +1,5 @@
 {
-  "created": 1654474601,
+  "created": 1654561168,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/27/items/kccinews-2022",
@@ -2522,31 +2522,73 @@
       "sha1": "49254101dcc94f668af7ec4590c58c809776f5f8"
     },
     {
+      "name": "kccinews-2022-06-06T11:10:49.609035-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654531852",
+      "size": "26130",
+      "md5": "0029b2c2762c74a6b765416d0ed59ddb",
+      "crc32": "2636e6c3",
+      "sha1": "4ec5b2ae13d3f26ba5b49b5bfefa3e11969eedd5",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-06-06T11:10:49.609035-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654531855",
+      "size": "24883",
+      "md5": "542de80e486d81ccf02c02d6b024cc43",
+      "crc32": "66842c2d",
+      "sha1": "c0c1fd6d40e22d744a40be34a16027ee5bcc01a2",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-06-06T11:10:49.609035-05:00.jpg",
+      "source": "original",
+      "mtime": "1654531851",
+      "size": "305342",
+      "md5": "9ce1042831269946f92cf6667dd84088",
+      "crc32": "9aea2844",
+      "sha1": "77a2be9d3d7ff6e0c1dd71bd9087d7a4fe4ab2da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kccinews-2022-06-06T11:10:49.609035-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kccinews-2022-06-06T11:10:49.609035-05:00.jpg",
+      "mtime": "1654531945",
+      "size": "10631",
+      "md5": "e0ef1cc8b956e301e9fa95329abf2992",
+      "crc32": "1bbc3d79",
+      "sha1": "1f9b7f74185b757d7f3862f35ee22276f800c38e"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c494d9c88a3ad65ac3d94f2b4e7a8184b619a866",
-      "mtime": "1654445533",
-      "size": "51803",
-      "md5": "0e7c480d1be71e168b7d881afae4d096",
-      "crc32": "d944d8ca",
-      "sha1": "c54cf7b049564c2c1544640eb81ded702fda29a7",
+      "btih": "7fe9dc99f19d791518a2b77fbac3f88c02e6ae8d",
+      "mtime": "1654531951",
+      "size": "52653",
+      "md5": "fa7f7651f7b8c10e72d97bb42e4fd46a",
+      "crc32": "92fc1bb5",
+      "sha1": "ee36293be2ee989471f20f104f95a1066a57b1b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ab998a31d892fc2d195be7f82dc7078",
+      "md5": "5a00d4433a2cbb162783494640975a28",
       "summation": "md5"
     },
     {
       "name": "kccinews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1654445456",
-      "size": "290816",
-      "md5": "bfe014cd02ac0962bec12b9b63ad8151",
-      "crc32": "b63471e0",
-      "sha1": "8199862417310377e87aae00d1cbaf4a971868e9",
+      "mtime": "1654531870",
+      "size": "294912",
+      "md5": "6e8712564a88cacdd5a1ecc9cda0683b",
+      "crc32": "f72ca9d6",
+      "sha1": "4a57ae92d7e7422cc396ea95f748bb7e0ea6c70f",
       "format": "Metadata"
     },
     {
@@ -2560,16 +2602,16 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 243,
-  "item_last_updated": 1654445533,
-  "item_size": 23035098,
+  "files_count": 247,
+  "item_last_updated": 1654531951,
+  "item_size": 23407030,
   "kccinews-2022": [
     {
       "text": "Skip to content",
       "url": "#"
     },
     {
-      "text": "\n        \n            \n                NOWCAST\n                KCCI News at 6am Sunday Morning\n            \n            \n                \n                    \n                \n\n                \n                                            Watch on Demand\n                                    \n            \n        \n    ",
+      "text": "\n        \n            \n                NOWCAST\n                KCCI News at 6am Weekday Morning\n            \n            \n                \n                    \n                \n\n                \n                                            Watch on Demand\n                                    \n            \n        \n    ",
       "url": "/nowcast"
     },
     {
@@ -2745,39 +2787,43 @@
       "url": "/"
     },
     {
-      "text": "76\u00b0Weather",
+      "text": "71\u00b0Weather",
       "url": "/weather"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tSevere Weather\n\t\t\t\t\t\t\n\t\t\t\t\t\tThere is currently 1 active weather alert\n\t\t\t\t\t",
+      "url": "/alerts"
     },
     {
       "text": "\n\t\t\t\t\tMORE\n\t\t\t\t\t\n\t\t\t\t",
       "url": "/weather"
     },
     {
-      "text": "Sign Up to Get Future Alerts",
-      "url": "https://www.kcci.com/subscribe"
-    },
-    {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/united-states-senator-grassleys-solution-to-gun-violence-a-bill-that-would-expand-secret-service-program/40196771"
+      "url": "/article/newton-iowa-offers-financial-incentives-to-lure-home-owners/40203747"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tAmanda Rooker\n\t\t\t\t",
-      "url": "/news-team/a9e865c9-9743-41a2-847a-737bd359629e"
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tNicole Tam\n\t\t\t\t",
+      "url": "/news-team/d13e6477-338c-4620-a02b-885d66828255"
     },
     {
-      "text": "\n\t\t\tSen. Grassley's solution to gun violence: A bill that would expand Secret Service program\n\t\t",
-      "url": "/article/united-states-senator-grassleys-solution-to-gun-violence-a-bill-that-would-expand-secret-service-program/40196771"
+      "text": "\n\t\t\tNewton offers financial incentives to lure new home owners\n\t\t",
+      "url": "/article/newton-iowa-offers-financial-incentives-to-lure-home-owners/40203747"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/article/united-states-senator-grassleys-solution-to-gun-violence-a-bill-that-would-expand-secret-service-program/40196771"
+      "url": "/article/newton-iowa-offers-financial-incentives-to-lure-home-owners/40203747"
+    },
+    {
+      "text": "Weather Alerts (1)",
+      "url": "alerts"
     },
     {
       "text": "Des Moines, IA 50309",
       "url": "/weather"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t76\n\t\t\t\t\t\t\u00b0\n\t\t\t\t\t\tF\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t71\n\t\t\t\t\t\t\u00b0\n\t\t\t\t\t\tF\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
       "url": "/weather"
     },
     {
@@ -2785,56 +2831,60 @@
       "url": "weather/radar"
     },
     {
-      "text": "\n\t\t\tDry Sunday morning with strong to severe storms this afternoon\n\t\t",
-      "url": "/article/dry-sunday-morning-with-strong-to-severe-storms-this-afternoon/40197819"
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tJason Sydejko\n\t\t\t\t",
+      "url": "/news-team/81542672-76ba-422e-8a06-e049c871094e"
     },
     {
-      "text": "Fly along with the Iowa Air National Guard in 1991",
-      "url": "/article/archive-fly-along-with-the-iowa-air-national-guard-in-1991/40176079"
+      "text": "\n\t\t\tMore storm chances arrive Monday afternoon\n\t\t",
+      "url": "/article/west-des-moines-iowa-weather-forecast-june-6-2022/40204279"
     },
     {
-      "text": "West Des Moines pedestrian bridge needs a boost from the public",
-      "url": "/article/west-des-moines-athene-pedestrian-bridge-needs-a-boost-from-the-public-eight-million/40195988"
+      "text": "Fire crews called back to home that was struck by lightning",
+      "url": "/article/windsor-heights-iowa-fire-crews-called-back-to-home-that-was-struck-by-lightning/40204890"
     },
     {
-      "text": "$1.5 million: Iowa youth organization to receive its single largest donation ever",
-      "url": "/article/million-dollar-iowa-youth-organization-to-receive-its-single-largest-donation-ever/40196062"
+      "text": "Important reminders for Iowa\u2019s Primary Election",
+      "url": "/article/iowas-primary-election-reminders-june-7-primary/40204380"
     },
     {
-      "text": "Iowa children set up lemonade stand to benefit local food pantry",
-      "url": "/article/granger-iowa-children-set-up-lemonade-stand-to-benefit-local-food-pantry/40195923"
+      "text": "Iowa Middle School students push for change at 'Wear Orange' rally",
+      "url": "/article/dubuque-iowa-kcrg-eastern-iowa-middle-school-students-push-for-change-at-wear-orange-rally/40200282"
     },
     {
-      "text": "Families release statements after shooting at Cornerstone Church in Ames",
-      "url": "/article/families-release-statements-after-shooting-at-cornerstone-church-in-ames/40194936"
+      "text": "State Title for dad: DCG's championship is extra special for one senior",
+      "url": "/article/state-title-for-dad-dallas-center-grimes-championship-is-extra-special-for-one-senior/40201186"
+    },
+    {
+      "text": "Candidates make final pitches to voters ahead of primary election this week",
+      "url": "/article/iowa-candidates-make-final-pitches-to-voters-ahead-of-primary-election-this-week/40199758"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/north-korea-test-fires-missile-amid-signs-of-nuclear-test/40196582"
+      "url": "/article/elon-musk-threatens-to-walk-away-twitter-deal/40205638"
     },
     {
-      "text": "\n\t\t\tNorth Korea test-fires missile amid signs of nuclear test\n\t\t",
-      "url": "/article/north-korea-test-fires-missile-amid-signs-of-nuclear-test/40196582"
+      "text": "\n\t\t\tElon Musk threatens to walk away from Twitter deal\n\t\t",
+      "url": "/article/elon-musk-threatens-to-walk-away-twitter-deal/40205638"
     },
     {
-      "text": "Russia hits Kyiv with missiles; Putin warns West on arms",
-      "url": "/article/russian-missiles-strike-kyiv/40197549"
+      "text": "A former judge was killed in his Wisconsin home in a targeted attack, officials say",
+      "url": "/article/wisconsin-former-judge-killed-in-targeted-attack/40195273"
     },
     {
-      "text": "Why do we sleep? Scientists try to answer the question",
-      "url": "/article/why-do-we-sleep/40196927"
+      "text": "Iowa Korean War veteran reunited with lost love after 70 years",
+      "url": "/article/iowa-korean-war-veteran-journey-lost-love-ends-with-reunion-duane-mann/40205362"
     },
     {
-      "text": "Teachers after Texas school shooting: 'None of us are built for this'",
-      "url": "/article/texas-school-shooting-teacher-says-none-of-us-are-built-for-this/40195551"
+      "text": "WWII soldiers to receive Congressional Gold Medal more than 70 years after the war",
+      "url": "/article/world-war-ii-soldiers-congressional-gold-medal-more-than-70-years-after-war/40202854"
     },
     {
-      "text": "There are more jobs available than people searching for one, forcing some businesses to close ",
-      "url": "/article/unemployment-there-are-more-jobs-available-than-people-searching-for-one-forcing-some-businesses-to-close/40177244"
+      "text": "British Prime Minister Boris Johnson to face no-confidence vote",
+      "url": "/article/british-prime-minister-boris-johnson-no-confidence-vote/40203092"
     },
     {
-      "text": "Champions crowned at State Soccer ",
-      "url": "/article/sports-champions-crowned-at-state-soccer-des-moines-iowa/40196832"
+      "text": "2022 midterms: What to watch in primaries in 7 states on Tuesday",
+      "url": "/article/what-to-watch-in-primaries-in-7-states-tuesday/40203411"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
@@ -2870,11 +2920,11 @@
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/mandy-moore-announces-she-is-pregnant-with-her-second-child/40197608"
+      "url": "/article/jennifer-lopez-spider-man-highlight-mtv-movie-and-tv-awards/40202381"
     },
     {
-      "text": "\n\t\t\t'Grateful and excited': Mandy Moore announces she is pregnant with her second child\n\t\t",
-      "url": "/article/mandy-moore-announces-she-is-pregnant-with-her-second-child/40197608"
+      "text": "\n\t\t\tJennifer Lopez, 'Spider-Man' highlight MTV Movie & TV Awards\n\t\t",
+      "url": "/article/jennifer-lopez-spider-man-highlight-mtv-movie-and-tv-awards/40202381"
     },
     {
       "text": "\n\n\t\t\t\t\t\t\tAnswers to Some of the Most Frequently Asked Questions About Eggs\n\t\t\t\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\t\t\t\t\t\t    \t\t\t\t\t\t",
@@ -2885,20 +2935,20 @@
       "url": "/article/north-iowa-continues-to-build-on-it-s-uniqueness/34241702"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tThis old Bank of America offer cost this woman thousands\n\t\n\n\n\t\t\t\n\n          \n                  WCVB\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/old-bank-of-america-offer-cost-massachusetts-woman-thousands/40195149"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tQueen Elizabeth II appears on Buckingham Palace balcony to cap off Platinum Jubilee\n\t\n\n\n\t\t\t\n\n          \n                  AP\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/colorful-pageant-street-parties-cap-queen-platinum-jubilee/40197732"
     },
     {
       "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t8 best wireless earbuds for under $100\n\t\n\n\n\t\t\t\n\n          \n                  BEST PRODUCTS\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
       "url": "/article/cheap-wireless-earbuds/40186379"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t'It\u2019s something special': Colorful pageant, street parties cap Queen Elizabeth's Platinum Jubilee\n\t\n\n\n\t\t\t\n\n          \n                  AP\n              \n    \n              \n                      28 MIN\n                  \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/colorful-pageant-street-parties-cap-queen-platinum-jubilee/40197732"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tRock band formed by moms during pandemic finds success, sells out shows\n\t\n\n\n\t\t\t\n\n          \n                  WCVB\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/the-lazy-susans-band-formed-by-massachusetts-moms-during-pandemic-finds-success/40199048"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tWoman born in 1920 gets Roaring Twenties celebration for 102nd birthday\n\t\n\n\n\t\t\t\n\n          \n                  KMBC\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/kansas-city-woman-born-in-1920-elouise-lyons-gets-roaring-twenties-birthday-celebration/40194149"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tThis old Bank of America offer cost this woman thousands\n\t\n\n\n\t\t\t\n\n          \n                  WCVB\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/old-bank-of-america-offer-cost-massachusetts-woman-thousands/40195149"
     },
     {
       "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tWhat the floods of 1993 taught Iowans about flooding\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
@@ -2934,47 +2984,47 @@
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
+      "url": "/article/crowds-honor-wwii-veterans-normandy-d-day-celebrations/40203840"
+    },
+    {
+      "text": "\n\t\t\tCrowds honor World War II veterans at Normandy D-Day celebrations\n\t\t",
+      "url": "/article/crowds-honor-wwii-veterans-normandy-d-day-celebrations/40203840"
+    },
+    {
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
+      "url": "/article/summit-of-the-americas-los-angeles-president-joe-biden/40199713"
+    },
+    {
+      "text": "\n\t\t\tBiden scrambles to avoid Summit of the Americas flop in Los Angeles \n\t\t",
+      "url": "/article/summit-of-the-americas-los-angeles-president-joe-biden/40199713"
+    },
+    {
+      "text": "Multiple people killed, 11 wounded in downtown Philadelphia shooting",
       "url": "/article/multiple-people-killed-in-downtown-philadelphia-shooting/40198095"
     },
     {
-      "text": "\n\t\t\tMultiple people killed, 11 wounded in downtown Philadelphia shooting\n\t\t",
-      "url": "/article/multiple-people-killed-in-downtown-philadelphia-shooting/40198095"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/american-spy-agencies-review-their-misses-on-ukraine-russia/40194511"
-    },
-    {
-      "text": "\n\t\t\tAmerican spy agencies review their misses on Ukraine, Russia\n\t\t",
-      "url": "/article/american-spy-agencies-review-their-misses-on-ukraine-russia/40194511"
-    },
-    {
-      "text": "Tropical Storm Alex forms in the Atlantic ",
+      "text": "Tropical Storm Alex heads for Bermuda area with wind, rain",
       "url": "/article/hurricane-season-alex/40197589"
     },
     {
-      "text": "Uvalde community pushes for answers in school shooting as families bury their children",
-      "url": "/article/uvalde-community-pushes-for-answers-in-school-shooting-as-families-bury-their-children/40198544"
+      "text": "How the Rainbow Flag Became the Global Symbol for LGBTQ Pride ",
+      "url": "/article/rainbow-flag-symbol-lgbtq-pride/36845665"
     },
     {
-      "text": "New variants will keep COVID-19 circulating at high levels throughout the summer, experts say",
-      "url": "/article/covid-19-summer-2022-outlook/40170037"
+      "text": "American spy agencies review their misses on Ukraine, Russia",
+      "url": "/article/american-spy-agencies-review-their-misses-on-ukraine-russia/40194511"
     },
     {
       "text": "Former White House aide Navarro indicted, Meadows won't be charged for defying Jan. 6 panel",
       "url": "/article/peter-navarro-indicted-on-contempt-of-congress-charges-for-defying-16-committee-subpoenas/40188516"
     },
     {
-      "text": "As recount continues, Dave McCormick concedes to Dr. Mehmet Oz in Pennsylvania GOP Senate primary",
-      "url": "/article/as-recount-continues-mccormick-concedes-to-oz-in-pennsylvania-gop-senate-primary/40192178"
-    },
-    {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/injection-helps-central-pennsylvania-woman-who-suffered-with-distorted-smell-after-covid/40194196"
+      "url": "/article/covid-19-summer-2022-outlook/40170037"
     },
     {
-      "text": "\n\t\t\tInjection helps woman left with distorted smell for nearly a year after COVID-19\n\t\t",
-      "url": "/article/injection-helps-central-pennsylvania-woman-who-suffered-with-distorted-smell-after-covid/40194196"
+      "text": "\n\t\t\tNew variants will keep COVID-19 circulating at high levels throughout the summer, experts say\n\t\t",
+      "url": "/article/covid-19-summer-2022-outlook/40170037"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
@@ -2993,16 +3043,16 @@
       "url": "/article/cdc-study-more-than-13-of-high-school-students-reported-poor-mental-health-during-pandemic/40081458"
     },
     {
+      "text": "Injection helps woman left with distorted smell for nearly a year after COVID-19",
+      "url": "/article/injection-helps-central-pennsylvania-woman-who-suffered-with-distorted-smell-after-covid/40194196"
+    },
+    {
       "text": "Health experts answer the question: Who needs a 2nd COVID-19 booster shot?",
       "url": "/article/health-experts-answer-who-needs-2nd-covid-19-booster-shot/40182372"
     },
     {
       "text": "Study finds vaccines have up to 90% efficacy against severe COVID-19 for up to 6 months",
       "url": "/article/study-finds-vaccines-are-90-percent-effective-against-severe-covid-19-for-up-to-six-months/40182157"
-    },
-    {
-      "text": "White House: 1st COVID-19 shots for kids under 5 possible by June 21",
-      "url": "/article/covid-19-shots-for-kids-under-5-possible-june-2022/40179677"
     },
     {
       "text": "The number of Iowans with COVID-19 increase, but at a slower rate",
@@ -3013,31 +3063,43 @@
       "url": "/article/iowa-hy-vee-to-offer-covid-19-booster-shots-for-children-5-11/40060688"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\tDominic Lipinski\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/queen-elizabeth-jubilee-concert/40194261"
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\tSilver Screen Collection\n\t\t\n\n\n\t\t\t\t\t\t",
+      "url": "/article/the-wizard-of-oz-in-theaters-again-judy-garland-100th-birthday/40205037"
     },
     {
-      "text": "\n\t\t\tPrince Charles pays tribute to 'mummy' at Jubilee concert\n\t\t",
-      "url": "/article/queen-elizabeth-jubilee-concert/40194261"
+      "text": "\n\t\t\tYou can see 'The Wizard of Oz' in theaters again for Judy Garland's 100th birthday\n\t\t",
+      "url": "/article/the-wizard-of-oz-in-theaters-again-judy-garland-100th-birthday/40205037"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+      "url": "/article/the-wizard-of-oz-in-theaters-again-judy-garland-100th-birthday/40205037"
+    },
+    {
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
+      "url": "/article/top-gun-maverick-continues-to-soar-with-dollar86m-in-its-2nd-weekend/40199460"
+    },
+    {
+      "text": "\n\t\t\t'Top Gun: Maverick' continues to soar with $86M in its 2nd weekend\n\t\t",
+      "url": "/article/top-gun-maverick-continues-to-soar-with-dollar86m-in-its-2nd-weekend/40199460"
+    },
+    {
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
+      "url": "/article/mandy-moore-announces-she-is-pregnant-with-her-second-child/40197608"
+    },
+    {
+      "text": "\n\t\t\t'Grateful and excited': Mandy Moore announces she is pregnant with her second child\n\t\t",
+      "url": "/article/mandy-moore-announces-she-is-pregnant-with-her-second-child/40197608"
+    },
+    {
+      "text": "Prince Charles pays tribute to 'mummy' at Jubilee concert",
       "url": "/article/queen-elizabeth-jubilee-concert/40194261"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
+      "text": "'Tiger King' star Doc Antle to face money laundering charges",
       "url": "/article/tiger-king-star-doc-antle-face-money-laundering-charges/40196045"
     },
     {
-      "text": "\n\t\t\t'Tiger King' star Doc Antle to face money laundering charges\n\t\t",
-      "url": "/article/tiger-king-star-doc-antle-face-money-laundering-charges/40196045"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/shakira-and-soccer-star-gerard-pique-confirm-split-madrid/40195839"
-    },
-    {
-      "text": "\n\t\t\tShakira and soccer star Gerard Piqu\u00e9 confirm split after 11 years\n\t\t",
+      "text": "Shakira and soccer star Gerard Piqu\u00e9 confirm split after 11 years",
       "url": "/article/shakira-and-soccer-star-gerard-pique-confirm-split-madrid/40195839"
     },
     {
@@ -3047,18 +3109,6 @@
     {
       "text": "Animal trainer featured in Netflix 'Tiger King' arrested in South Carolina",
       "url": "/article/animal-trainer-tiger-king-arrested-south-carolina/40193417"
-    },
-    {
-      "text": "Harini Logan is the 2022 Scripps National Spelling Bee champion after a historic spell-off",
-      "url": "/article/harini-logan-is-the-2022-scripps-national-spelling-bee-champion/40183304"
-    },
-    {
-      "text": "Queen's jubilee thanksgiving service goes ahead despite monarch pulling out",
-      "url": "/article/queens-jubilee-thanksgiving-service-june-3-2022/40185225"
-    },
-    {
-      "text": "Johnny Depp and Amber Heard face uncertain career prospects after trial",
-      "url": "/article/depp-heard-trial-uncertain-career-prospects/40175948"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
@@ -3094,19 +3144,19 @@
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
+      "url": "https://woobox.com/qyhodz"
+    },
+    {
+      "text": "\n\t\t\tWin Tickets to A Movie in June\n\t\t",
+      "url": "https://woobox.com/qyhodz"
+    },
+    {
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
       "url": "/article/service-legends-oldest-ac-contest-third-party-sponsored-contest/33903560"
     },
     {
       "text": "\n\t\t\tService Legends Oldest AC Contest {Third-party Sponsored Contest}\n\t\t",
       "url": "/article/service-legends-oldest-ac-contest-third-party-sponsored-contest/33903560"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "https://woobox.com/dk6hvb"
-    },
-    {
-      "text": "\n\t\t\tWIN a $200 Homemakers Gift Card\n\t\t",
-      "url": "https://woobox.com/dk6hvb"
     },
     {
       "text": "\n                                                    \n                                            ",
@@ -3225,10 +3275,10 @@
     "publicdate": "2022-03-25 03:36:10",
     "addeddate": "2022-03-25 03:36:10"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1982939103,
+  "server": "ia902501.us.archive.org",
+  "uniq": 601920945,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }
