@@ -1,5 +1,5 @@
 {
-  "created": 1654561326,
+  "created": 1654647856,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -2902,31 +2902,73 @@
       "sha1": "2c4e4d65849229d867e30f1ff6843a5dfe10deee"
     },
     {
+      "name": "sfchronicle-2022-06-07T06:44:28.504779-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654609476",
+      "size": "93108",
+      "md5": "b6cf03a2641f4a4d071311e67ef35366",
+      "crc32": "457c1b86",
+      "sha1": "9d6512b517a2ac70449013646a31b73401c27b26",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-06-07T06:44:28.504779-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654609478",
+      "size": "109319",
+      "md5": "8a8d6a3a0c7af367f489e0aff5f2da3a",
+      "crc32": "61476ad4",
+      "sha1": "8a51edcb7b2332fe73fcb1d0f37b8ddd61400a92",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-06-07T06:44:28.504779-07:00.jpg",
+      "source": "original",
+      "mtime": "1654609474",
+      "size": "332599",
+      "md5": "675ac2606da6996a9fcaf1311c8b8eaf",
+      "crc32": "287901ab",
+      "sha1": "41facb6855bf44c425335b8e366a3717fa14ee70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sfchronicle-2022-06-07T06:44:28.504779-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-06-07T06:44:28.504779-07:00.jpg",
+      "mtime": "1654609586",
+      "size": "9814",
+      "md5": "c9c0d9634803f7d12eacce5f2fc3246e",
+      "crc32": "a8b96f16",
+      "sha1": "75e26ed45c3f36fa5a65046ba3044021354d6b8d"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f38638ad35c5fe5dabb7ec201e31feae81d092f",
-      "mtime": "1654523263",
-      "size": "60640",
-      "md5": "e4ff3099bbd6bb73efbe9b1030a5b694",
-      "crc32": "97e54baa",
-      "sha1": "6a6b7016723eaa5d252efabc4fbf17eff0b1f4fe",
+      "btih": "3010378a2460ae8f9079f671bb9475540cc5979e",
+      "mtime": "1654609592",
+      "size": "61502",
+      "md5": "d1a4cf93bf358e289e4b8bf1811b6c19",
+      "crc32": "8a9debe2",
+      "sha1": "a7279d1e78fc324ddc6070d4c0821c9d50d932f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2876e42b51e03b2a410518a36bc519aa",
+      "md5": "aff2374d094bf399b094ec215e24a951",
       "summation": "md5"
     },
     {
       "name": "sfchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1654523195",
-      "size": "327680",
-      "md5": "0b41019162b5c320bb01f44b90122185",
-      "crc32": "e2b8dd7f",
-      "sha1": "6fe67c4dd3c37a4c28535c58ed1829d2c74c9d53",
+      "mtime": "1654609487",
+      "size": "331776",
+      "md5": "2c4f5ce13460ff0091450495478807d3",
+      "crc32": "b86dae9c",
+      "sha1": "fc0bfe0e394cc12ef3748aefa082298a239bffc0",
       "format": "Metadata"
     },
     {
@@ -2940,9 +2982,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 279,
-  "item_last_updated": 1654523263,
-  "item_size": 37035010,
+  "files_count": 283,
+  "item_last_updated": 1654609592,
+  "item_size": 37584808,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -4406,6 +4448,10 @@
       "url": "/projects/podcasts/its-all-political"
     },
     {
+      "text": "Election",
+      "url": "/election/"
+    },
+    {
       "text": "Bay Area",
       "url": "/bayarea/"
     },
@@ -4420,10 +4466,6 @@
     {
       "text": "COVID-19",
       "url": "/coronavirus/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics/"
     },
     {
       "text": "Data",
@@ -4462,132 +4504,164 @@
       "url": "/puzzles/"
     },
     {
-      "text": "How home price growth in the Bay Area compares to the country\u2019s biggest migration hot spots",
-      "url": "/realestate/article/Redfin-home-prices-Bay-Area-migration-17219166.php"
+      "text": "",
+      "url": "/election/article/live-updates-california-sf-bay-area-17220862.php"
     },
     {
-      "text": "Napa gets thrilling new cocktail bar, plus other Wine Country developments",
+      "text": "Election Live Updates: What polls look like for Chesa Boudin heading into election day",
+      "url": "/election/article/live-updates-california-sf-bay-area-17220862.php"
+    },
+    {
+      "text": "Voter Guide 2022: What S.F. Bay Area voters need to know",
+      "url": "https://www.sfchronicle.com/projects/2022/california-voter-guide-june/"
+    },
+    {
+      "text": "California election: What to know if you still haven\u2019t voted in June primary",
+      "url": "/politics/article/California-election-What-to-know-if-you-still-17223321.php"
+    },
+    {
+      "text": "How to follow California and Bay Area election results",
+      "url": "/election/article/California-SF-Bay-Area-Election-Results-Guide-17220731.php"
+    },
+    {
+      "text": "Vegetation fire near Dominican University in San Rafael causes evacuations",
+      "url": "/bayarea/article/Homes-evacuated-in-San-Rafael-as-vegetation-fire-17224031.php"
+    },
+    {
+      "text": "COVID in California: Latest updates on the coronavirus trends",
+      "url": "/bayarea/article/COVID-in-California-Latest-updates-on-the-17223671.php"
+    },
+    {
+      "text": "Opinion: Recalling Boudin will hurt S.F.\u2019s AAPI community even further",
+      "url": "/opinion/article/Recalling-Chesa-Boudin-is-only-going-to-hurt-17223462.php"
+    },
+    {
+      "text": "Five planets are aligning this month. Here's how to catch the rare sight",
+      "url": "/bayarea/article/Five-planets-are-aligning-this-month-here-s-17223944.php"
+    },
+    {
+      "text": "Sonoma State University president resigns amid sexual harassment scandal",
+      "url": "/bayarea/article/Sonoma-State-University-president-announces-17223630.php"
+    },
+    {
+      "text": "What Warriors can do to fix their Klay Thompson problem",
+      "url": "/sports/warriors/article/What-Warriors-can-do-to-fix-their-Klay-Thompson-17223741.php"
+    },
+    {
+      "text": "Barbara Boxer retired from politics \u2013 until her home redistricted",
+      "url": "/politics/article/Barbara-Boxer-retired-from-politics-Then-her-17218846.php"
+    },
+    {
+      "text": "Popular Bay Area bakery is \u2018reevaluating\u2019 mochi muffin trademark",
+      "url": "/food/article/Bay-Area-bakery-is-reevaluating-mochi-17222477.php"
+    },
+    {
+      "text": "I have a new rash. How do I know it's not monkeypox?",
+      "url": "/bayarea/article/Here-is-what-to-look-out-for-as-monkeypox-cases-17221272.php"
+    },
+    {
+      "text": "Napa gets a thrilling new cocktail bar, plus 9 other notable developments",
       "url": "/food/article/napa-new-cocktail-bar-17218894.php"
     },
     {
-      "text": "COVID in California: Latest updates on coronavirus trends in the Bay Area",
-      "url": "/bayarea/article/COVID-in-California-Latest-updates-about-17221409.php"
-    },
-    {
-      "text": "Listen: For gun safety, 'We are at the worst place ever'",
-      "url": "/podcasts/article/Listen-Is-a-federal-assault-weapons-ban-possible-17218712.php"
-    },
-    {
-      "text": "Safeway employee fatally shot in South Bay \u2014 gunman remains at large",
-      "url": "/crime/article/Safeway-employee-fatally-shot-in-South-Bay-17221335.php"
-    },
-    {
-      "text": "No charges in crash that killed former Chez Panisse wine director",
-      "url": "/bayarea/article/No-charges-in-crash-that-killed-former-Chez-17221118.php"
-    },
-    {
-      "text": "Man fatally shot in San Rafael",
-      "url": "/crime/article/Man-fatally-shot-in-San-Rafael-17221238.php"
-    },
-    {
-      "text": "Late spring rain dampens Bay Area. Here\u2019s how next few days look",
-      "url": "/bayarea/article/Late-spring-rain-arrives-in-Bay-Area-Here-s-17220876.php"
+      "text": "Northern California woman faces 5 years for selling fake COVID cards, pills",
+      "url": "/bayarea/article/Northern-California-woman-pleads-guilty-to-17223011.php"
     },
     {
       "text": "Two women were charged with murder after having stillbirths",
       "url": "/politics/article/roe-wade-central-california-17218901.php"
     },
     {
-      "text": "Marin gun buyback draws more people than expected as weapons debate swells",
-      "url": "/bayarea/article/Marin-gun-buyback-draws-more-people-than-expected-17219959.php"
+      "text": "\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                            \n                                                                                                                                        ",
+      "url": "/politics/article/California-primary-election-2022-17223548.php"
     },
     {
-      "text": "Bay Area family seeks $23 million from UCSF, saying it \u2018tore\u2019 son\u2019s heart",
-      "url": "/bayarea/article/Bay-Area-family-seeks-23-million-from-UCSF-17217988.php"
-    },
-    {
-      "text": "\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                            \n                                                                                                                                        ",
-      "url": "/sports/warriors/article/Warriors-overwhelm-Celtics-even-NBA-Finals-with-17221483.php"
-    },
-    {
-      "text": "NBA Finals",
-      "url": "https://www.sfchronicle.com/sports/"
-    },
-    {
-      "text": "                                Warriors overwhelm Celtics, even NBA Finals with Game 2 win\n                            ",
-      "url": "/sports/warriors/article/Warriors-overwhelm-Celtics-even-NBA-Finals-with-17221483.php"
-    },
-    {
-      "text": "                                    The Golden State Warriors made a statement with a third-quarter romp to put Game 2 beyond the Boston Celtics' reach in a 107-88 victory.\n                                ",
-      "url": "/sports/warriors/article/Warriors-overwhelm-Celtics-even-NBA-Finals-with-17221483.php"
-    },
-    {
-      "text": "                                                                Green raises his voice, inspires Warriors\u2019 defense to silence Celtics\n                            ",
-      "url": "/sports/warriors/article/Draymond-Green-raises-his-voice-inspires-17221593.php"
-    },
-    {
-      "text": "                                                                Ann Killion: Steph Curry, Warriors\u2019 \u2018breathtaking\u2019 engine, delivers again\n                            ",
-      "url": "/sports/annkillion/article/Steph-Curry-Warriors-breathtaking-17221588.php"
-    },
-    {
-      "text": "                                                                Scott Ostler: Gary Payton II, the ultimate disrupter, shakes up Celtics\n                            ",
-      "url": "/sports/ostler/article/Gary-Payton-II-Warriors-ultimate-disrupter-17221586.php"
-    },
-    {
-      "text": "                                                                In dazzling quarter, Warriors show why they should win NBA Finals\n                            ",
-      "url": "/sports/warriors/article/In-one-dazzling-quarter-Warriors-show-why-they-17221608.php"
-    },
-    {
-      "text": "\n                                                                                                                                                      \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/politics/article/Barbara-Boxer-retired-from-politics-Then-her-17218846.php"
-    },
-    {
-      "text": "Politics",
+      "text": "California Election",
       "url": "https://www.sfchronicle.com/politics/"
     },
     {
-      "text": "This retiree has become a power player in the bid to unseat a GOP congressman. It's Barbara Boxer",
-      "url": "/politics/article/Barbara-Boxer-retired-from-politics-Then-her-17218846.php"
+      "text": "                                California\u2019s primary election: 5 things to watch\n                            ",
+      "url": "/politics/article/California-primary-election-2022-17223548.php"
     },
     {
-      "text": "                                    The former senator has thrown herself into the campaign to unseat Rep. Ken Calvert \u2014 a race that Democrats in Riverside County say is a sleeper with the potential to be a pivotal pickup in a midterm year.\n                                ",
-      "url": "/politics/article/Barbara-Boxer-retired-from-politics-Then-her-17218846.php"
+      "text": "                                    From what we can learn about trends heading into November to what the results mean for independents as a political force, here\u2019s what our politics team is paying attention to on election night.\n                                ",
+      "url": "/politics/article/California-primary-election-2022-17223548.php"
     },
     {
-      "text": "                                                                Boudin recall supporters raised more than twice as much as anti-recall...\n                            ",
-      "url": "/politics/article/Groups-wanting-Chesa-Boudin-recalled-raise-more-17221264.php"
+      "text": "                                                                Opinion: Recalling Boudin will only hurt S.F.\u2019s AAPI community even further\n                            ",
+      "url": "/opinion/article/Recalling-Chesa-Boudin-is-only-going-to-hurt-17223462.php"
     },
     {
-      "text": "                                                                Boudin recall is in national spotlight. Voters could decide more than...\n                            ",
-      "url": "/politics/article/sf-voters-chesa-boudin-17218751.php"
+      "text": "                                                                How does The Chronicle decide when to call San Francisco elections?\n                            ",
+      "url": "/politics/article/How-does-The-Chronicle-decide-when-to-call-San-17223590.php"
     },
     {
-      "text": "                                                                Phillips: \u2018Democrats\u2019 used a Republican playbook to gin up recall support\n                            ",
-      "url": "/bayarea/justinphillips/article/democrats-republican-playbook-recall-17218804.php"
+      "text": "                                                                What Chesa Boudin is telling S.F. voters the day before recall vote\n                            ",
+      "url": "/politics/article/What-Chesa-Boudin-is-telling-San-Francisco-voters-17222891.php"
     },
     {
-      "text": "                                                                Voter Guide 2022: What S.F. Bay Area voters need to know\n                            ",
-      "url": "https://www.sfchronicle.com/projects/2022/california-voter-guide-june/"
-    },
-    {
-      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/bayarea/article/A-posh-S-F-housing-tower-is-evacuated-when-a-17221508.php"
+      "text": "\n                                                                                                                                                      \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
+      "url": "/sf/article/S-F-transgender-Lutheran-bishop-resigns-amid-17223465.php"
     },
     {
       "text": "San Francisco",
       "url": "https://www.sfchronicle.com/bayarea/"
     },
     {
-      "text": "                                Residents evacuated from housing tower don\u2019t know when they can return. Here\u2019s why\n                            ",
+      "text": "                                S.F. transgender Lutheran bishop resigns amid controversy over removal of pastor\n                            ",
+      "url": "/sf/article/S-F-transgender-Lutheran-bishop-resigns-amid-17223465.php"
+    },
+    {
+      "text": "                                    Rev. Megan Rohrer of San Francisco, who made history last year as the first openly transgender person to be elevated as bishop in the country\u2019s largest Lutheran denomination, resigns amid a controversy involving allegations of racism in the removal of a pastor.\n                                ",
+      "url": "/sf/article/S-F-transgender-Lutheran-bishop-resigns-amid-17223465.php"
+    },
+    {
+      "text": "                                                                Man acquitted in Kate Steinle killing will be transferred to Texas\n                            ",
+      "url": "/sf/article/Man-acquitted-in-Kate-Steinle-killing-to-be-sent-17223463.php"
+    },
+    {
+      "text": "                                                                S.F. inspectors investigating why broken pipe flooded posh housing tower\n                            ",
+      "url": "/sf/article/San-Francisco-building-inspectors-to-investigate-17222694.php"
+    },
+    {
+      "text": "                                                                Residents evacuated from housing tower don\u2019t know when they can return\n                            ",
       "url": "/bayarea/article/A-posh-S-F-housing-tower-is-evacuated-when-a-17221508.php"
     },
     {
-      "text": "                                    Several hundred residents of a San Francisco luxury apartment tower spent the weekend in two downtown hotels \u2014 and it wasn\u2019t a group staycation.\n                                ",
-      "url": "/bayarea/article/A-posh-S-F-housing-tower-is-evacuated-when-a-17221508.php"
+      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
+      "url": "/realestate/article/Redfin-home-prices-Bay-Area-migration-17219166.php"
+    },
+    {
+      "text": "                                Home prices still soaring in most migration hotspots \u2013 but not in this California city\n                            ",
+      "url": "/realestate/article/Redfin-home-prices-Bay-Area-migration-17219166.php"
+    },
+    {
+      "text": "                                    Redfin data analysis shows how home price increases in urban areas that have been migration magnets compare to places that are losing residents, like the Bay Area.\n                                ",
+      "url": "/realestate/article/Redfin-home-prices-Bay-Area-migration-17219166.php"
     },
     {
       "text": "\n                                                                                                                                                      \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
+      "url": "/politics/article/An-investigation-found-a-coworker-touched-her-17223175.php"
+    },
+    {
+      "text": "California",
+      "url": "https://www.sfchronicle.com/bayarea/"
+    },
+    {
+      "text": "                                Investigation found a coworker touched her inappropriately. He still works in the Capitol\n                            ",
+      "url": "/politics/article/An-investigation-found-a-coworker-touched-her-17223175.php"
+    },
+    {
+      "text": "                                    Faith Pulido says she left her job in the California Legislature because of a negative experience reporting alleged harassment to the Workplace Conduct Unit.\n                                ",
+      "url": "/politics/article/An-investigation-found-a-coworker-touched-her-17223175.php"
+    },
+    {
+      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
       "url": "/politics/article/bay-area-chef-conservative-smashburger-martins-17218869.php"
+    },
+    {
+      "text": "Food News",
+      "url": "https://www.sfchronicle.com/food/"
     },
     {
       "text": "                                Chefs are ditching their favorite burger buns over the maker\u2019s extreme right-wing politics\n                            ",
@@ -4598,40 +4672,24 @@
       "url": "/politics/article/bay-area-chef-conservative-smashburger-martins-17218869.php"
     },
     {
-      "text": "                                                                Bite Curious: If you go to Sweden, bring a sandwich\n                            ",
-      "url": "/food/article/If-you-go-to-Sweden-bring-a-sandwich-17219817.php"
+      "text": "                                                                Listen: Can the 'Iron Chef' of coffee embrace diversity?\n                            ",
+      "url": "/food/article/How-diversifying-the-coffee-industry-is-working-17218829.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/bayarea/article/Here-is-what-to-look-out-for-as-monkeypox-cases-17221272.php"
+      "url": "/bayarea/article/Oakland-law-requiring-landlords-to-pay-evicted-17223143.php"
     },
     {
-      "text": "Health News",
+      "text": "Oakland",
       "url": "https://www.sfchronicle.com/bayarea/"
     },
     {
-      "text": "                                Here's what to look out for as monkeypox cases crop up in California\n                            ",
-      "url": "/bayarea/article/Here-is-what-to-look-out-for-as-monkeypox-cases-17221272.php"
+      "text": "                                Law requiring landlords pay evictee relocation expenses survives Supreme Court review\n                            ",
+      "url": "/bayarea/article/Oakland-law-requiring-landlords-to-pay-evicted-17223143.php"
     },
     {
-      "text": "                                    As the still-rare monkeypox crops up around the world, including an S.F. case now among five in California, people on the alert for the symptoms may not always see the traditionally known pus blisters.\n                                ",
-      "url": "/bayarea/article/Here-is-what-to-look-out-for-as-monkeypox-cases-17221272.php"
-    },
-    {
-      "text": "                                                                Highly contagious coronavirus variant spreading in Northern California\n                            ",
-      "url": "/health/article/COVID-in-California-17216156.php"
-    },
-    {
-      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "https://www.sfchronicle.com/projects/2022/visuals/bay-bridge-opening"
-    },
-    {
-      "text": "                                The Bay Bridge opens in 1936, and a city's good people lose their minds\n                            ",
-      "url": "https://www.sfchronicle.com/projects/2022/visuals/bay-bridge-opening"
-    },
-    {
-      "text": "                                    When the Bay Bridge opened on Nov. 12, 1936, it sparked one of the biggest parties the Bay Area has seen \u2014 even bigger than the Golden Gate Bridge debut the next year.\n                                ",
-      "url": "https://www.sfchronicle.com/projects/2022/visuals/bay-bridge-opening"
+      "text": "                                    The Supreme Court rejected a property-rights challenge Monday to an Oakland ordinance granting relocation costs to tenants who are evicted through no fault of their own.\n                                ",
+      "url": "/bayarea/article/Oakland-law-requiring-landlords-to-pay-evicted-17223143.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -4667,19 +4725,19 @@
     },
     {
       "text": "\n                        \n                \n                    \n                    \n                \n            \n                    ",
-      "url": "https://www.sfchronicle.com/projects/earthquakes/"
+      "url": "https://www.sfchronicle.com/projects/2022/california-voter-guide-june/"
     },
     {
-      "text": "\n            The latest quakes in California and across the world        ",
-      "url": "https://www.sfchronicle.com/projects/earthquakes/"
+      "text": "\n            Voter Guide 2022: What S.F. Bay Area voters need to know        ",
+      "url": "https://www.sfchronicle.com/projects/2022/california-voter-guide-june/"
     },
     {
       "text": "\n                        \n                \n                    \n                    \n                \n            \n                    ",
-      "url": "https://www.sfchronicle.com/projects/california-fire-map/"
+      "url": "https://www.sfchronicle.com/projects/2022/california-voter-guide-june/endorsements/"
     },
     {
-      "text": "\n            Latest on wildfires across the state        ",
-      "url": "https://www.sfchronicle.com/projects/california-fire-map/"
+      "text": "\n            Chronicle endorsements for 2022 California election        ",
+      "url": "https://www.sfchronicle.com/projects/2022/california-voter-guide-june/endorsements/"
     },
     {
       "text": "LATEST IN OPINION",
@@ -4690,12 +4748,12 @@
       "url": "/opinion/openforum/article/As-a-doctor-I-have-to-watch-children-die-There-17219219.php"
     },
     {
-      "text": "Four ways California can keep the power on amid climate change. More...",
-      "url": "/opinion/openforum/article/california-climate-change-power-17218678.php"
-    },
-    {
       "text": "Democrats are squandering their hard-won gains with Asian Americans",
       "url": "/opinion/openforum/article/sf-democrats-asian-americans-17218618.php"
+    },
+    {
+      "text": "Four ways California can keep the power on amid climate change. More...",
+      "url": "/opinion/openforum/article/california-climate-change-power-17218678.php"
     },
     {
       "text": "Terms of use",
@@ -4706,32 +4764,20 @@
       "url": "https://www.sfchronicle.com/privacy_policy/"
     },
     {
-      "text": "Interactive Map",
-      "url": "https://projects.sfchronicle.com/2020/coronavirus-map/"
-    },
-    {
-      "text": "\n                        \n                \n                    \n                    \n                \n            \n                    ",
-      "url": "https://www.sfchronicle.com/projects/coronavirus-map/"
-    },
-    {
-      "text": "\n            Tracking COVID-19 cases across California        ",
-      "url": "https://www.sfchronicle.com/projects/coronavirus-map/"
-    },
-    {
       "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Heather Knight                    \n                        Heather Knight                        A girl fled her war-torn homeland, but found more trauma in San Francisco\n                                                    While San Francisco officials debate what to do about a crisis of homelessness, addiction and mental illness in the Tenderloin, no one talks much about reducing harm to the many families living in one of the last...\n\n                                                                            \n                                By Heather Knight\n                            \n                                            \n                \n            \n        ",
       "url": "/sf/bayarea/heatherknight/article/san-francisco-tenderloin-yemen-17210381.php"
     },
     {
       "text": "\n                \n                    \n                    \n                    \n                    \n                    \n                \n            ",
-      "url": "https://www.sfchronicle.com/projects/2022/pride-quiz/"
+      "url": "https://www.sfchronicle.com/projects/2022/visuals/bay-bridge-opening"
     },
     {
-      "text": "The Chronicle's LGBTQ Pride quiz 2022",
-      "url": "https://www.sfchronicle.com/projects/2022/pride-quiz/"
+      "text": "The Bay Bridge opens in 1936, and a city's good people lose their minds",
+      "url": "https://www.sfchronicle.com/projects/2022/visuals/bay-bridge-opening"
     },
     {
-      "text": "                Test your knowledge on queer history in the Bay Area and beyond, entertainment and more.\n            ",
-      "url": "https://www.sfchronicle.com/projects/2022/pride-quiz/"
+      "text": "                When the Bay Bridge opened on Nov. 12, 1936, it sparked one of the biggest parties the Bay Area has seen \u2014 even bigger than the Golden Gate Bridge debut the next year.\n            ",
+      "url": "https://www.sfchronicle.com/projects/2022/visuals/bay-bridge-opening"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -4798,48 +4844,64 @@
       "url": "/bayarea/article/Bay-Area-s-biggest-housing-project-once-again-17182817.php"
     },
     {
-      "text": "Two women were charged with murder after having stillbirths. The cases are rocking this conservative corner of California",
-      "url": "/politics/article/roe-wade-central-california-17218901.php"
-    },
-    {
-      "text": "Chesa Boudin\u2019s recall is in the national spotlight. S.F. voters could decide much more than his fate",
-      "url": "/politics/article/sf-voters-chesa-boudin-17218751.php"
-    },
-    {
-      "text": "How Klay Thompson\u2019s brother Mychel quietly joined Warriors\u2019 staff in unique role",
-      "url": "/sports/annkillion/article/warriors-klay-thompson-brother-17218632.php"
+      "text": "Bay Area chefs are ditching their favorite burger buns over the maker\u2019s extreme right-wing politics",
+      "url": "/politics/article/bay-area-chef-conservative-smashburger-martins-17218869.php"
     },
     {
       "text": "A posh S.F. housing tower gets flooded by a burst rooftop pipe. Residents don\u2019t know when they can return",
       "url": "/bayarea/article/A-posh-S-F-housing-tower-is-evacuated-when-a-17221508.php"
     },
     {
-      "text": "The 10-year-old\u2019s symptoms passed \u2014 but then worse ones set in. Her case shows how little we know about long COVID in kids",
-      "url": "/bayarea/article/long-covid-children-17217996.php"
+      "text": "Monkeypox symptoms and rash: What to look out for as cases crop up around world",
+      "url": "/bayarea/article/Here-is-what-to-look-out-for-as-monkeypox-cases-17221272.php"
     },
     {
-      "text": "He\u2019s 83. He just sailed alone from San Francisco to Japan",
-      "url": "/bayarea/article/He-s-83-He-just-sailed-alone-from-San-17219861.php"
+      "text": "S.F. transgender Lutheran bishop resigns amid controversy over removal of pastor",
+      "url": "/sf/article/S-F-transgender-Lutheran-bishop-resigns-amid-17223465.php"
     },
     {
-      "text": "Democrats are squandering their hard-won gains with Asian Americans",
-      "url": "/opinion/openforum/article/sf-democrats-asian-americans-17218618.php"
+      "text": "Redfin data shows home prices still skyrocketing in migration hotspots \u2013 but not in this California city",
+      "url": "/realestate/article/Redfin-home-prices-Bay-Area-migration-17219166.php"
     },
     {
-      "text": "COVID in California: Highly contagious omicron subvariants spreading fast in this Northern California county",
-      "url": "/health/article/COVID-in-California-17216156.php"
+      "text": "Popular Bay Area bakery is \u2018reevaluating\u2019 mochi muffin trademark after intense backlash",
+      "url": "/food/article/Bay-Area-bakery-is-reevaluating-mochi-17222477.php"
     },
     {
-      "text": "Bay Area bakery\u2019s mochi muffin trademark ignites outrage and calls to boycott",
-      "url": "/food/article/mochi-muffin-third-culture-17216293.php"
+      "text": "What Warriors can do to fix their Klay Thompson problem",
+      "url": "/sports/warriors/article/What-Warriors-can-do-to-fix-their-Klay-Thompson-17223741.php"
     },
     {
-      "text": "What national media is certain to get wrong if Chesa Boudin is recalled",
-      "url": "/politics/joegarofoli/article/chesa-boudin-recall-media-17218862.php"
+      "text": "Two women were charged with murder after having stillbirths. The cases are rocking this conservative corner of California",
+      "url": "/politics/article/roe-wade-central-california-17218901.php"
+    },
+    {
+      "text": "How Klay Thompson\u2019s brother Mychel quietly joined Warriors\u2019 staff in unique role",
+      "url": "/sports/annkillion/article/warriors-klay-thompson-brother-17218632.php"
+    },
+    {
+      "text": "Barbara Boxer retired from politics. Then her home got redistricted into a GOP seat",
+      "url": "/politics/article/Barbara-Boxer-retired-from-politics-Then-her-17218846.php"
     },
     {
       "text": "Warriors",
       "url": "https://www.sfchronicle.com/sports/"
+    },
+    {
+      "text": "",
+      "url": "/sports/warriors/article/In-one-dazzling-quarter-Warriors-show-why-they-17221608.php"
+    },
+    {
+      "text": "In one dazzling quarter, Warriors show why they should win NBA Finals",
+      "url": "/sports/warriors/article/In-one-dazzling-quarter-Warriors-show-why-they-17221608.php"
+    },
+    {
+      "text": "",
+      "url": "/sports/ostler/article/Gary-Payton-II-Warriors-ultimate-disrupter-17221586.php"
+    },
+    {
+      "text": "Gary Payton II, Warriors\u2019 ultimate disrupter, shakes up Celtics",
+      "url": "/sports/ostler/article/Gary-Payton-II-Warriors-ultimate-disrupter-17221586.php"
     },
     {
       "text": "",
@@ -4851,47 +4913,35 @@
     },
     {
       "text": "",
-      "url": "/sports/warriors/article/Will-Warriors-use-Gary-Payton-II-in-Game-2-vs-17220038.php"
+      "url": "/sports/warriors/article/How-a-former-Warriors-employee-is-giving-the-17220886.php"
     },
     {
-      "text": "Will Warriors use Gary Payton II in Game 2? Kerr explains Game 1 absence",
-      "url": "/sports/warriors/article/Will-Warriors-use-Gary-Payton-II-in-Game-2-vs-17220038.php"
-    },
-    {
-      "text": "",
-      "url": "/sports/warriors/article/Will-Warriors-Jordan-Poole-be-asset-or-17219900.php"
-    },
-    {
-      "text": "Will Jordan Poole be asset or liability in NBA Finals? Game 2 is key",
-      "url": "/sports/warriors/article/Will-Warriors-Jordan-Poole-be-asset-or-17219900.php"
+      "text": "How a former Warriors employee is giving the Celtics an edge",
+      "url": "/sports/warriors/article/How-a-former-Warriors-employee-is-giving-the-17220886.php"
     },
     {
       "text": "",
-      "url": "/sports/warriors/article/nba-finals-defense-celtics-17218722.php"
+      "url": "/sports/annkillion/article/warriors-klay-thompson-brother-17218632.php"
     },
     {
-      "text": "Warriors\u2019 mission in Game 2 is to slow the Celtics from 3-point land",
-      "url": "/sports/warriors/article/nba-finals-defense-celtics-17218722.php"
+      "text": "How Klay Thompson\u2019s brother Mychel quietly joined Warriors\u2019 staff",
+      "url": "/sports/annkillion/article/warriors-klay-thompson-brother-17218632.php"
     },
     {
-      "text": "",
-      "url": "/sports/annkillion/article/warriors-celtics-game-2-17216729.php"
+      "text": "Jimmy Garoppolo\u2019s excused absence from minicamp latest sign he\u2019s likely...",
+      "url": "/sports/49ers/article/Jimmy-Garoppolo-s-excused-absence-latest-sign-17222953.php"
     },
     {
-      "text": "\u2018Desperation\u2019 after collapse to Celtics alters NBA Finals equation",
-      "url": "/sports/annkillion/article/warriors-celtics-game-2-17216729.php"
+      "text": "                    The San Francisco 49ers have excused rehabbing, on-the-trade block quarterback Jimmy Garoppolo from their three-day mandatory minicamp, which begins Tuesday.\n                ",
+      "url": "/sports/49ers/article/Jimmy-Garoppolo-s-excused-absence-latest-sign-17222953.php"
+    },
+    {
+      "text": "\n                            \n                                \n                                \n                                \n                                \n                                \n                                \n                            \n                        ",
+      "url": "/sports/athletics/article/Echoes-of-inglorious-1979-A-s-fall-to-Red-Sox-17221234.php"
     },
     {
       "text": "Echoes of inglorious 1979: A\u2019s fall to Red Sox, skid reaches 6 games",
       "url": "/sports/athletics/article/Echoes-of-inglorious-1979-A-s-fall-to-Red-Sox-17221234.php"
-    },
-    {
-      "text": "                    There were echoes of the inglorious 1979 A\u2019s at the Coliseum on Sunday as the A\u2019s fell 5-2 to the Red Sox, Oakland\u2019s sixth straight loss.\n                ",
-      "url": "/sports/athletics/article/Echoes-of-inglorious-1979-A-s-fall-to-Red-Sox-17221234.php"
-    },
-    {
-      "text": "\n                            \n                                \n                                \n                                \n                                \n                                \n                                \n                            \n                        ",
-      "url": "/sports/athletics/article/At-A-s-1972-reunion-Mike-Epstein-reflects-on-17220087.php"
     },
     {
       "text": "At A\u2019s 1972 reunion, Mike Epstein reflects on how hitting has evolved",
@@ -4904,10 +4954,6 @@
     {
       "text": "Logan Webb pulled in 5th inning, Giants lose in 9th to Marlins",
       "url": "/sports/giants/article/Logan-Webb-pulled-in-5th-inning-Giants-lose-in-17220083.php"
-    },
-    {
-      "text": "Why Giants\u2019 Brebbia played Beethoven's F\u00fcr Elise before his 1st MLB start",
-      "url": "/sports/article/Why-Giants-John-Brebbia-played-Beethoven-s-17219654.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -4927,11 +4973,11 @@
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/sports/warriors/article/Warriors-Celtics-NBA-Finals-roundtable-17210791.php"
+      "url": "/bayarea/article/young-warriors-fans-17218421.php"
     },
     {
-      "text": "Finals roundtable: Predictions, surprises and keys to the series",
-      "url": "/sports/warriors/article/Warriors-Celtics-NBA-Finals-roundtable-17210791.php"
+      "text": "Young Warriors fans only know team\u2019s golden age. What they missed",
+      "url": "/bayarea/article/young-warriors-fans-17218421.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -5070,12 +5116,12 @@
       "url": "/author/soleil-ho/"
     },
     {
-      "text": "            If you go to Sweden, bring a sandwich\n        ",
-      "url": "/food/article/If-you-go-to-Sweden-bring-a-sandwich-17219817.php"
+      "text": "            Bay Area chefs are ditching their favorite burger buns over...\n        ",
+      "url": "/politics/article/bay-area-chef-conservative-smashburger-martins-17218869.php"
     },
     {
-      "text": "                                This week, we released an update on the Top Sandwiches list, with some great additions from my colleague Cesar Hernandez. One of my favorites has...\n            ",
-      "url": "/food/article/If-you-go-to-Sweden-bring-a-sandwich-17219817.php"
+      "text": "                                Potato rolls from Martin\u2019s Famous Pastry Shoppe have been the favorite of smashburger chefs. But the company\u2019s ties to Pennsylvania state Sen. Doug...\n            ",
+      "url": "/politics/article/bay-area-chef-conservative-smashburger-martins-17218869.php"
     },
     {
       "text": "Esther Mobley",
@@ -5095,19 +5141,27 @@
     },
     {
       "text": "",
+      "url": "/bayarea/article/Here-is-what-to-look-out-for-as-monkeypox-cases-17221272.php"
+    },
+    {
+      "text": "Here is what to look out for as monkeypox cases crop up in California",
+      "url": "/bayarea/article/Here-is-what-to-look-out-for-as-monkeypox-cases-17221272.php"
+    },
+    {
+      "text": "",
+      "url": "/bayarea/article/Bay-Area-family-seeks-23-million-from-UCSF-17217988.php"
+    },
+    {
+      "text": "Bay Area family seeks $23 million from UCSF, saying it tore son\u2019s heart",
+      "url": "/bayarea/article/Bay-Area-family-seeks-23-million-from-UCSF-17217988.php"
+    },
+    {
+      "text": "",
       "url": "/bayarea/article/california-reparations-report-17216426.php"
     },
     {
       "text": "Task force made case for reparations \u2013 and revealed Bay Area\u2019s racist past",
       "url": "/bayarea/article/california-reparations-report-17216426.php"
-    },
-    {
-      "text": "",
-      "url": "/bayarea/article/Four-suspects-arrested-in-three-S-F-homicides-17220239.php"
-    },
-    {
-      "text": "Four suspects arrested in three S.F. homicides, police say",
-      "url": "/bayarea/article/Four-suspects-arrested-in-three-S-F-homicides-17220239.php"
     },
     {
       "text": "",
@@ -5124,14 +5178,6 @@
     {
       "text": "Fire at dry cleaner displaces 5 residents in S.F.\u2019s Glen Park neighborhood",
       "url": "/bayarea/article/Fire-at-dry-cleaner-displaces-5-residents-in-17220366.php"
-    },
-    {
-      "text": "",
-      "url": "/bayarea/article/Man-who-allegedly-broke-into-S-F-home-robbed-17219084.php"
-    },
-    {
-      "text": "Man accused of robbing woman of $3M in S.F. home arrested in Taiwan",
-      "url": "/bayarea/article/Man-who-allegedly-broke-into-S-F-home-robbed-17219084.php"
     },
     {
       "text": "Nancy Pelosi and Gavin Newsom push back on what it means to be \u2018pro-life\u2019",
@@ -5339,6 +5385,22 @@
     },
     {
       "text": "",
+      "url": "/opinion/letterstotheeditor/article/Letters-How-to-choose-a-candidate-to-vote-for-in-17223493.php"
+    },
+    {
+      "text": "Letters: How to choose a candidate to vote for in a post-Trump political...",
+      "url": "/opinion/letterstotheeditor/article/Letters-How-to-choose-a-candidate-to-vote-for-in-17223493.php"
+    },
+    {
+      "text": "",
+      "url": "/opinion/article/Recalling-Chesa-Boudin-is-only-going-to-hurt-17223462.php"
+    },
+    {
+      "text": "Recalling Chesa Boudin is only going to hurt S.F.\u2019s AAPI community even...",
+      "url": "/opinion/article/Recalling-Chesa-Boudin-is-only-going-to-hurt-17223462.php"
+    },
+    {
+      "text": "",
       "url": "/opinion/openforum/article/As-a-doctor-I-have-to-watch-children-die-There-17219219.php"
     },
     {
@@ -5352,22 +5414,6 @@
     {
       "text": "Letters: Killers like Texas school shooter want their 15 minutes of...",
       "url": "/opinion/letterstotheeditor/article/Letters-Killers-like-Texas-school-shooter-want-17219207.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/letterstotheeditor/article/california-climate-change-solution-17218824.php"
-    },
-    {
-      "text": "Letters: What\u2019s the most economical climate change solution? Renewable...",
-      "url": "/opinion/letterstotheeditor/article/california-climate-change-solution-17218824.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/openforum/article/california-climate-change-power-17218678.php"
-    },
-    {
-      "text": "Four ways California can keep the power on amid climate change. More...",
-      "url": "/opinion/openforum/article/california-climate-change-power-17218678.php"
     },
     {
       "text": "",
@@ -5386,16 +5432,16 @@
       "url": "https://www.sfchronicle.com/projects/2022/california-legislation-bill-tracker/"
     },
     {
-      "text": "Joe Garofoli",
-      "url": "/author/joe-garofoli/"
+      "text": "Tal Kopan",
+      "url": "/author/tal-kopan/"
     },
     {
-      "text": "            What national media is certain to get wrong if Chesa Boudin is...\n        ",
-      "url": "/politics/joegarofoli/article/chesa-boudin-recall-media-17218862.php"
+      "text": "            California\u2019s primary election: 5 things to watch\n        ",
+      "url": "/politics/article/California-primary-election-2022-17223548.php"
     },
     {
-      "text": "                                Conservative media will draw a lot of conclusions if San Francisco voters recall District Attorney Chesa Boudin on Tuesday. Most of them will be...\n            ",
-      "url": "/politics/joegarofoli/article/chesa-boudin-recall-media-17218862.php"
+      "text": "                                From what we can learn about trends heading into November to what the results mean for independents as a political force, here\u2019s what our politics...\n            ",
+      "url": "/politics/article/California-primary-election-2022-17223548.php"
     },
     {
       "text": "\n                        \n                \n                    \n                    \n                \n            \n                    ",
@@ -5412,6 +5458,14 @@
     {
       "text": "Podcasts",
       "url": "https://www.sfchronicle.com/projects/podcasts/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/article/Listen-LET-S-MAKE-SOME-NOISE-with-Warriors-hype-17223592.php"
+    },
+    {
+      "text": "Listen: LET'S MAKE SOME NOISE! with Warriors hype man Franco Fin",
+      "url": "/podcasts/article/Listen-LET-S-MAKE-SOME-NOISE-with-Warriors-hype-17223592.php"
     },
     {
       "text": "",
@@ -5444,14 +5498,6 @@
     {
       "text": "Listen: The future of abortion in California after Roe",
       "url": "/podcasts/article/Listen-The-post-Roe-future-of-abortion-in-17210777.php"
-    },
-    {
-      "text": "",
-      "url": "/podcasts/article/Listen-Coffee-talk-and-surprise-day-drinking-17209189.php"
-    },
-    {
-      "text": "Listen: Coffee talk (and surprise day drinking) with Hunter and Lexi Pence",
-      "url": "/podcasts/article/Listen-Coffee-talk-and-surprise-day-drinking-17209189.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -5507,6 +5553,38 @@
     },
     {
       "text": "",
+      "url": "https://datebook.sfchronicle.com/music/review-s-f-opera-sets-a-muddled-don-giovanni-in-an-american-dystopia"
+    },
+    {
+      "text": "S.F. Opera sets a muddled 'Don Giovanni' in an American dystopia",
+      "url": "https://datebook.sfchronicle.com/music/review-s-f-opera-sets-a-muddled-don-giovanni-in-an-american-dystopia"
+    },
+    {
+      "text": "",
+      "url": "https://datebook.sfchronicle.com/art-exhibits/bag-designer-refashions-her-familys-seamstress-history-with-modokot"
+    },
+    {
+      "text": "Bag designer refashions her family\u2019s seamstress history with Modokot",
+      "url": "https://datebook.sfchronicle.com/art-exhibits/bag-designer-refashions-her-familys-seamstress-history-with-modokot"
+    },
+    {
+      "text": "",
+      "url": "https://datebook.sfchronicle.com/theater/anais-mitchell-encounters-compulsive-industrialism-finds-treasure-in-underworld-with-hadestown"
+    },
+    {
+      "text": "Ana\u00efs Mitchell encounters finds treasure in underworld with 'Hadestown'",
+      "url": "https://datebook.sfchronicle.com/theater/anais-mitchell-encounters-compulsive-industrialism-finds-treasure-in-underworld-with-hadestown"
+    },
+    {
+      "text": "",
+      "url": "https://datebook.sfchronicle.com/dance/odc-theater-festival-takes-dance-lovers-on-meaningful-journey-offering-ample-risks-rewards"
+    },
+    {
+      "text": "ODC Theater festival takes dance lovers on journey rich in risks, rewards",
+      "url": "https://datebook.sfchronicle.com/dance/odc-theater-festival-takes-dance-lovers-on-meaningful-journey-offering-ample-risks-rewards"
+    },
+    {
+      "text": "",
       "url": "https://datebook.sfchronicle.com/theater/review-the-sparks-and-danger-are-real-in-outdoor-oakland-variety-show-ruckus-and-rumpus-revival"
     },
     {
@@ -5514,72 +5592,44 @@
       "url": "https://datebook.sfchronicle.com/theater/review-the-sparks-and-danger-are-real-in-outdoor-oakland-variety-show-ruckus-and-rumpus-revival"
     },
     {
-      "text": "",
-      "url": "https://datebook.sfchronicle.com/music/review-s-f-symphony-premieres-a-blunt-boxy-concerto-from-mason-bates"
+      "text": "LGBTQ Pride: How Bay Area arts organizations plan to celebrate in 2022",
+      "url": "https://datebook.sfchronicle.com/guide/lgbtq-pride-how-s-f-bay-area-arts-organizations-plan-to-celebrate-in-2022"
     },
     {
-      "text": "S.F. Symphony premieres a blunt, boxy concerto from Mason Bates",
-      "url": "https://datebook.sfchronicle.com/music/review-s-f-symphony-premieres-a-blunt-boxy-concerto-from-mason-bates"
+      "text": "                    The Chronicle's guide to live music, art and more activities in honor of Pride Month includes the Fresh Meat Festival, Stern Grove Festival and more.\n                ",
+      "url": "https://datebook.sfchronicle.com/guide/lgbtq-pride-how-s-f-bay-area-arts-organizations-plan-to-celebrate-in-2022"
     },
     {
-      "text": "",
-      "url": "https://datebook.sfchronicle.com/movies-tv/joel-kim-booster-doesnt-mind-if-straight-people-dont-get-every-joke-on-fire-island"
+      "text": "\n                            \n                                \n                                \n                                \n                                \n                                \n                                \n                            \n                        ",
+      "url": "https://datebook.sfchronicle.com/music/s-f-gets-ready-to-step-out-for-judy-garlands-100th-birthday"
     },
     {
-      "text": "Joel Kim Booster doesn't mind if straight people don't get 'Fire Island'",
-      "url": "https://datebook.sfchronicle.com/movies-tv/joel-kim-booster-doesnt-mind-if-straight-people-dont-get-every-joke-on-fire-island"
+      "text": "S.F. gets ready to step out for Judy Garland's 100th birthday",
+      "url": "https://datebook.sfchronicle.com/music/s-f-gets-ready-to-step-out-for-judy-garlands-100th-birthday"
     },
     {
-      "text": "",
-      "url": "https://datebook.sfchronicle.com/music/san-francisco-pride-announces-perfomers-for-2022-parade-and-celebration"
-    },
-    {
-      "text": "'Jeopardy!' champ among celebrities announced for S.F. Pride parade",
-      "url": "https://datebook.sfchronicle.com/music/san-francisco-pride-announces-perfomers-for-2022-parade-and-celebration"
-    },
-    {
-      "text": "",
-      "url": "https://datebook.sfchronicle.com/theater/berkeley-rep-alum-comes-home-with-harrowing-tony-nominated-dana-h"
-    },
-    {
-      "text": "Berkeley Rep alum comes home with harrowing, Tony-nominated \u2018Dana H.\u2019",
-      "url": "https://datebook.sfchronicle.com/theater/berkeley-rep-alum-comes-home-with-harrowing-tony-nominated-dana-h"
+      "text": "Cal Shakes' bilingual 'Romeo y Juliet' reveals new discoveries in...",
+      "url": "https://datebook.sfchronicle.com/theater/review-cal-shakes-bilingual-romeo-y-juliet-reveals-new-discoveries-in-shakespeare"
     },
     {
       "text": "Here are the major LGBTQ Pride events happening in the S.F. Bay Area",
       "url": "https://datebook.sfchronicle.com/guide/here-are-the-major-lgbtq-pride-2022-events-happening-in-the-s-f-bay-area"
     },
     {
-      "text": "                    Take a look at The Chronicle's overview of regional events celebrating the Bay Area's queer community, leading up to the official Pride weekend June 25-26.\n                ",
-      "url": "https://datebook.sfchronicle.com/guide/here-are-the-major-lgbtq-pride-2022-events-happening-in-the-s-f-bay-area"
-    },
-    {
-      "text": "\n                            \n                                \n                                \n                                \n                                \n                                \n                                \n                            \n                        ",
-      "url": "https://datebook.sfchronicle.com/movies-tv/review-adam-sandler-searches-for-the-next-nba-star-in-netflixs-hustle"
-    },
-    {
       "text": "Adam Sandler searches for the next NBA star in Netflix\u2019s \u2018Hustle\u2019",
       "url": "https://datebook.sfchronicle.com/movies-tv/review-adam-sandler-searches-for-the-next-nba-star-in-netflixs-hustle"
     },
     {
-      "text": "Pride, prejudice, poppers and parties flood Hulu\u2019s \u2018Fire Island\u2019",
-      "url": "https://datebook.sfchronicle.com/movies-tv/review-pride-prejudice-poppers-and-parties-flood-hulus-fire-island"
+      "text": "Kevin Fisher-Paulson",
+      "url": "/author/kevin-fisher-paulson/"
     },
     {
-      "text": "In 'Benediction,' a real-life poet can't heal from the pain of war",
-      "url": "https://datebook.sfchronicle.com/movies-tv/review-in-terence-davies-benediction-a-real-life-poet-cant-heal-from-the-pain-of-war"
+      "text": "            Pride is not about the uniform you wear, it\u2019s who you are\n        ",
+      "url": "/fisher-paulson/article/Pride-is-not-about-the-uniform-you-wear-it-s-17224053.php"
     },
     {
-      "text": "Cronenberg at his most extreme in \u2018Crimes of the Future\u2019",
-      "url": "https://datebook.sfchronicle.com/movies-tv/review-cronenberg-at-his-most-extreme-and-his-most-boring-in-crimes-of-the-future"
-    },
-    {
-      "text": "            Bay Area authors share LGBTQ stories to read during Pride Month\n        ",
-      "url": "https://datebook.sfchronicle.com/books/bay-area-authors-share-lgbtq-stories-to-read-during-pride-month"
-    },
-    {
-      "text": "                                As Pride 2022 kicks off this June, Vanessa Hua asked Bay Area poets and writers to recommend their favorite queer books, old and new.\n            ",
-      "url": "https://datebook.sfchronicle.com/books/bay-area-authors-share-lgbtq-stories-to-read-during-pride-month"
+      "text": "                                Law enforcement officers like me are and should be proud of who they are, both LGBTQ and first responders.\n            ",
+      "url": "/fisher-paulson/article/Pride-is-not-about-the-uniform-you-wear-it-s-17224053.php"
     },
     {
       "text": "\n        Share Your Own\n\n      ",
@@ -5604,6 +5654,14 @@
     {
       "text": "Chronicle Vault",
       "url": "https://www.sfchronicle.com/vault/"
+    },
+    {
+      "text": "",
+      "url": "https://www.sfchronicle.com/projects/2022/visuals/bay-bridge-opening"
+    },
+    {
+      "text": "The Bay Bridge opens in 1936, and a city's good people lose their minds",
+      "url": "https://www.sfchronicle.com/projects/2022/visuals/bay-bridge-opening"
     },
     {
       "text": "",
@@ -5636,14 +5694,6 @@
     {
       "text": "Dramatic photos of the Bay Area's Mt. Diablo through the decades",
       "url": "https://www.sfchronicle.com/projects/2022/visuals/mount-diablo-through-the-decades"
-    },
-    {
-      "text": "",
-      "url": "/oursf/article/sf-sports-history-17185728.php"
-    },
-    {
-      "text": "What was the smallest crowd in Bay Area sports history? (The 2022 A\u2019s...",
-      "url": "/oursf/article/sf-sports-history-17185728.php"
     },
     {
       "text": "Sandy Kosman, S.F. designer who changed motorcycle drag racing forever,...",
@@ -5846,7 +5896,7 @@
       "url": "javascript:void(0)"
     }
   ],
-  "uniq": 1476783254,
+  "uniq": 618099978,
   "workable_servers": [
     "ia902504.us.archive.org",
     "ia802504.us.archive.org"
