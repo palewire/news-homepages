@@ -1,5 +1,6 @@
 {
-  "created": 1654647625,
+  "conflict": 1654733974,
+  "created": 1654733974,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/nytimes-2022",
@@ -23606,31 +23607,320 @@
       "sha1": "e50283a70a4108ecffa161766dbef69709cd8be1"
     },
     {
+      "name": "nytimes-2022-06-07T20:46:58.174302-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654649226",
+      "size": "24036",
+      "md5": "2941b72197f0f0716d8b3554c73250d1",
+      "crc32": "293fadb9",
+      "sha1": "fe91afa96894ed4831ff11cf0f0c6eb14fd802fb",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-07T20:46:58.174302-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654649228",
+      "size": "30563",
+      "md5": "ce1438f4600ea472fa1dee387e3903b9",
+      "crc32": "370b93ad",
+      "sha1": "e8a08cdc176a76da93ec447cfdea477b9ec99e22",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-07T20:46:58.174302-04:00.jpg",
+      "source": "original",
+      "mtime": "1654649220",
+      "size": "346192",
+      "md5": "17ebf464664029c69f4af264ac117fd5",
+      "crc32": "7fec551f",
+      "sha1": "151232b989d3e00fa646f09a66ad7055b453212b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-06-07T20:46:58.174302-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-06-07T20:46:58.174302-04:00.jpg",
+      "mtime": "1654649353",
+      "size": "10162",
+      "md5": "8fdd76872d58dcb150d8f47e58486a37",
+      "crc32": "e6468485",
+      "sha1": "c708a174b231b31f28a5faf5602a25a463da70f4"
+    },
+    {
+      "name": "nytimes-2022-06-08T00:41:28.533614-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654663333",
+      "size": "21853",
+      "md5": "e3b5d11447366a32e4ea412b434d7552",
+      "crc32": "d40d819e",
+      "sha1": "f33ed8db4dba5fdaf7f5fcbcd3c1e5d7eec347e6",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T00:41:28.533614-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654663335",
+      "size": "28183",
+      "md5": "0012eb3faaf87ef3e9af6b789a9f172f",
+      "crc32": "83a2a447",
+      "sha1": "19bb5b7ec5540e0e937245e220f28936f748f195",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T00:41:28.533614-04:00.jpg",
+      "source": "original",
+      "mtime": "1654663332",
+      "size": "334700",
+      "md5": "2cbe438203d8476404eb1ad5e7680de0",
+      "crc32": "a354fcbb",
+      "sha1": "3de47e74f4ca160cf3f467c09716bcfcd91bbade",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-06-08T00:41:28.533614-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-06-08T00:41:28.533614-04:00.jpg",
+      "mtime": "1654663464",
+      "size": "10095",
+      "md5": "4102adf982ac2b59e9eedd47d1c0f0cb",
+      "crc32": "d838f54a",
+      "sha1": "246c89e8c3e65990a0f968b66041743a3fc73ddf"
+    },
+    {
+      "name": "nytimes-2022-06-08T04:38:39.687634-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654677523",
+      "size": "22143",
+      "md5": "39ba78c5dbee51c0d8910371ebd2b187",
+      "crc32": "4bb73434",
+      "sha1": "7a559ac2212e33a263997dbc1b1c099ed697f5f3",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T04:38:39.687634-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654677525",
+      "size": "29630",
+      "md5": "30a82e5952c30ce94bb12fb390d5d189",
+      "crc32": "28f4a1e5",
+      "sha1": "b33554e2b55a0ce7c7f615754ba530156c594599",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T04:38:39.687634-04:00.jpg",
+      "source": "original",
+      "mtime": "1654677521",
+      "size": "341873",
+      "md5": "719c157a924c58496aefb57bd5ab7651",
+      "crc32": "88ae7f23",
+      "sha1": "05106373a7a74425f2a0a4060afe14b0f7f589b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-06-08T04:38:39.687634-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-06-08T04:38:39.687634-04:00.jpg",
+      "mtime": "1654677652",
+      "size": "10080",
+      "md5": "fbffc0d5236d52b5bd2ed33ec4b62301",
+      "crc32": "25426af5",
+      "sha1": "00778d6d025a71e122f4696f4bf56597e53727e1"
+    },
+    {
+      "name": "nytimes-2022-06-08T08:44:45.553022-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654692315",
+      "size": "23426",
+      "md5": "f04067a74c3c79ce2cb47fae4f8563fa",
+      "crc32": "3060728e",
+      "sha1": "6f0e5b6bb283f837d1525a882a1b7e66273517a4",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T08:44:45.553022-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654692317",
+      "size": "29542",
+      "md5": "12f6407393c0b750d9033117ba7de05b",
+      "crc32": "3ea24dfe",
+      "sha1": "ff99000077394c7c4e22edaf079365cbcef4edf0",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T08:44:45.553022-04:00.jpg",
+      "source": "original",
+      "mtime": "1654692313",
+      "size": "365080",
+      "md5": "b0f3dbd3e81afb15600973b04497066e",
+      "crc32": "81536cc7",
+      "sha1": "b3b6707c134e2873862b01fba49bf19704758327",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-06-08T08:44:45.553022-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-06-08T08:44:45.553022-04:00.jpg",
+      "mtime": "1654692477",
+      "size": "10343",
+      "md5": "10200dc368dbe38619b1013e13d19cf8",
+      "crc32": "dfac0a43",
+      "sha1": "434f59a95686d21451327c2ea5b30ca050bd0c8e"
+    },
+    {
+      "name": "nytimes-2022-06-08T12:40:51.378573-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654706463",
+      "size": "26497",
+      "md5": "2634caf413ba95b48a55cb34b905d0ef",
+      "crc32": "6db9aa29",
+      "sha1": "9b10a6770c4700845199113fa5f76548117338e7",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T12:40:51.378573-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654706466",
+      "size": "31511",
+      "md5": "ae749ca09c690544d77304c55883bdb3",
+      "crc32": "e9da780d",
+      "sha1": "e106e077c31aa3336af1b1bf57c5884f28c2c090",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T12:40:51.378573-04:00.jpg",
+      "source": "original",
+      "mtime": "1654706459",
+      "size": "335363",
+      "md5": "527684fd02d27ab47b691ba6839eb8f5",
+      "crc32": "80e1991d",
+      "sha1": "cfe6a889c5d56430e22aa9d18dd3227b4093135b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-06-08T12:40:51.378573-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-06-08T12:40:51.378573-04:00.jpg",
+      "mtime": "1654706582",
+      "size": "9664",
+      "md5": "c683e9c88faa556986df122d5c840540",
+      "crc32": "deba579c",
+      "sha1": "d5bebcfa59f6271b9d241fdc6f444a94024dc6ac"
+    },
+    {
+      "name": "nytimes-2022-06-08T16:34:43.335223-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654720514",
+      "size": "23969",
+      "md5": "315cc1cdae22cf8d604018246441ad04",
+      "crc32": "4757eeeb",
+      "sha1": "d112d175387d2f5f30554893a12d857d5231e45e",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T16:34:43.335223-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654720517",
+      "size": "31109",
+      "md5": "340c2f7a3a9724f8c7380fa6cc5df0ea",
+      "crc32": "2469cad4",
+      "sha1": "d4920176125d2c6e8b2dd7f1920f60fec2b66348",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T16:34:43.335223-04:00.jpg",
+      "source": "original",
+      "mtime": "1654720512",
+      "size": "376809",
+      "md5": "d09f5bc5ac73a6e5a0bfee57529bbd89",
+      "crc32": "587147ea",
+      "sha1": "7cb33ac8188fd6c3ef08055b726a9dfbbd38a386",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-06-08T16:34:43.335223-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-06-08T16:34:43.335223-04:00.jpg",
+      "mtime": "1654720675",
+      "size": "10176",
+      "md5": "e70905b2ccad41b8357b69e0d1f9fc49",
+      "crc32": "24b4913e",
+      "sha1": "ce223bdbda075f2db4969d4fde8f1102429efd82"
+    },
+    {
+      "name": "nytimes-2022-06-08T20:12:39.068768-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654733562",
+      "size": "22376",
+      "md5": "8dd02a9cb9b77e86cb0d3b29067609fe",
+      "crc32": "329eccd0",
+      "sha1": "2b42eb4cd949ad9c42eb19637d4c3b46b23744d5",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T20:12:39.068768-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654733563",
+      "size": "30818",
+      "md5": "2a9cb8654f1431e490f509e22a6dba5f",
+      "crc32": "2f00e51c",
+      "sha1": "1d2ca92767b67f92557964571e72b165463f0603",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-06-08T20:12:39.068768-04:00.jpg",
+      "source": "original",
+      "mtime": "1654733560",
+      "size": "366215",
+      "md5": "905886f24f3ffab4018317ac98cd4db2",
+      "crc32": "40977d99",
+      "sha1": "077800eab074bc1ec9e6ccc74ca4bcc18cd2cc40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-06-08T20:12:39.068768-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-06-08T20:12:39.068768-04:00.jpg"
+    },
+    {
       "name": "nytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "623066856fa8bc9cf15ae16a9a87833ebf52e8e0",
-      "mtime": "1654647367",
-      "size": "472581",
-      "md5": "7ebf3c69d7cf0e9a882e70683327fcc6",
-      "crc32": "ef53d9bb",
-      "sha1": "25b07fd08680c9715330df86bf4a514dab9e894c",
+      "btih": "069a005ada1d12fa35e5139c86013454c54da608",
+      "mtime": "1654733646",
+      "size": "478278",
+      "md5": "2ab672a28f6d10e3cc148846ef921c8a",
+      "crc32": "96d05c33",
+      "sha1": "fdca47aa376a4452edce79edaa737f3a758febcc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb824c36273113a5d276e8fec0563cdf",
+      "md5": "c35968bdadd7fbdd9a0c4f3181d29904",
       "summation": "md5"
     },
     {
       "name": "nytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1654647136",
-      "size": "2527232",
-      "md5": "a079146fadefff703d2d0245230827b9",
-      "crc32": "17a15c43",
-      "sha1": "9e27cb9d46c02558e22495ffc18142b9fde4fe7e",
+      "mtime": "1654733569",
+      "size": "2555904",
+      "md5": "4fe94409e92c9cc365e1746c61758964",
+      "crc32": "41d0255f",
+      "sha1": "503b93493c5d96adcee266527e700205addda097",
       "format": "Metadata"
     },
     {
@@ -23644,9 +23934,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2246,
-  "item_last_updated": 1654647367,
-  "item_size": 236181324,
+  "files_count": 2274,
+  "item_last_updated": 1654733646,
+  "item_size": 239118101,
   "metadata": {
     "identifier": "nytimes-2022",
     "collection": [
@@ -23663,10 +23953,21 @@
     "publicdate": "2022-03-23 00:46:07",
     "addeddate": "2022-03-23 00:46:07"
   },
+  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "uniq": 1641915199,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3292677526,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1871536387,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia902506.us.archive.org"
   ]
 }
