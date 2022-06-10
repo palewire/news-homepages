@@ -1,5 +1,5 @@
 {
-  "created": 1654734006,
+  "created": 1654820381,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/foxla-2022",
@@ -5218,31 +5218,115 @@
       "sha1": "5d0fd2e030509164fd83826dde386c562205356b"
     },
     {
+      "name": "foxla-2022-06-08T19:16:41.098512-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654741005",
+      "size": "44446",
+      "md5": "011311ff98ea579a6cec1ea92ec2a5cf",
+      "crc32": "a6d5aa90",
+      "sha1": "57f6fd15889cc7765b5065b977877adb7d71061c",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-08T19:16:41.098512-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654741007",
+      "size": "39473",
+      "md5": "888701fc39477c809c3d5b6fc0e408f7",
+      "crc32": "bbbc943a",
+      "sha1": "acbebab8fff5ada2f4c1e6f1d4977d9268be781a",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-08T19:16:41.098512-07:00.jpg",
+      "source": "original",
+      "mtime": "1654741004",
+      "size": "340301",
+      "md5": "03bc41fc34a04a7f05f8eec82ff45dc3",
+      "crc32": "a223d2e3",
+      "sha1": "855bbbd9bb141e25ee720caf0be9021572e09f53",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-08T19:16:41.098512-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-08T19:16:41.098512-07:00.jpg",
+      "mtime": "1654741092",
+      "size": "11197",
+      "md5": "1bdd9b68a65ff0153f84ee204fe3c519",
+      "crc32": "1ccd57b9",
+      "sha1": "9e72eafd342314e7d765256bc528c8801a9b1f2b"
+    },
+    {
+      "name": "foxla-2022-06-09T06:46:10.918140-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654782379",
+      "size": "44421",
+      "md5": "c48c995c37cda30c1ffa16b7ae938828",
+      "crc32": "a9258d74",
+      "sha1": "c00c8484f1f0abf45b677af0566cdbf8b45eefea",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-09T06:46:10.918140-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654782381",
+      "size": "39006",
+      "md5": "c00b6af9615e3d8bdeca28935d2fe122",
+      "crc32": "aab8ce33",
+      "sha1": "f706e8ab07d0a78a8b172e797a2c52c5ac0dcb0e",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-09T06:46:10.918140-07:00.jpg",
+      "source": "original",
+      "mtime": "1654782377",
+      "size": "358315",
+      "md5": "a34571bf5d7e865e4b81bc228fbfe204",
+      "crc32": "a8be3efc",
+      "sha1": "bcb40c9ddcca6d8758e530ce156e4b36a8c898ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-09T06:46:10.918140-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-09T06:46:10.918140-07:00.jpg",
+      "mtime": "1654782443",
+      "size": "11654",
+      "md5": "29922ce65eed7d061be6df5e9dcf778a",
+      "crc32": "ef24db49",
+      "sha1": "232d46c70158aedbd528cde6fc0e482267ae0413"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b10750d26cd6d442f8e3f82e6ae00f10b4e69551",
-      "mtime": "1654654658",
-      "size": "104535",
-      "md5": "5fcfdd6ae2ce90cbca1a3fa66046805f",
-      "crc32": "70d05f03",
-      "sha1": "0f88e0022f5424633cc6061c02a95401e5d9fe19",
+      "btih": "c110e412a58c26872574c7a6eb7cf1b9ef21b87e",
+      "mtime": "1654782453",
+      "size": "106191",
+      "md5": "651202fee5e5ce1f98c5dd55e987d007",
+      "crc32": "5b8e9c99",
+      "sha1": "5a31a1b1ea35eab60137008cde2f836c2a043289",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec34a72134e0e7565f959837d37b2765",
+      "md5": "0c203dcc724d88957dc8819ec6b958e7",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1654654596",
-      "size": "569344",
-      "md5": "1cb6c16eeb282e1e4b1004c2c66b5aae",
-      "crc32": "26b1e82d",
-      "sha1": "f974bdab6d9376e63231de8e0937387f2b810aa5",
+      "mtime": "1654782384",
+      "size": "577536",
+      "md5": "91e74d900db25fde25c8ea01757bb73c",
+      "crc32": "7c13f69e",
+      "sha1": "f6ce9174d4b2ead36a61eba4f647f45f294e5df2",
       "format": "Metadata"
     },
     {
@@ -5256,7 +5340,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 499,
+  "files_count": 507,
   "foxla-2022": [
     {
       "text": " ",
@@ -5703,140 +5787,112 @@
       "url": "/weather-alerts"
     },
     {
-      "text": "Excessive Heat Watch  from FRI 10:00 AM PDT until SAT 10:00 PM PDT, Antelope Valley, Los Angeles County Mountains excluding the Santa Monica Range, Ventura County Mountains",
+      "text": "Excessive Heat Warning  from FRI 10:00 AM PDT until SAT 10:00 PM PDT, Antelope Valley",
       "url": "/weather-alerts"
     },
     {
-      "text": "View More",
-      "url": "https://www.foxla.com/tag/politics/ca-politics"
-    },
-    {
-      "text": "Primary election day arrives in California",
-      "url": "/news/california-primary-day-2022"
-    },
-    {
-      "text": "California primary election June 7, 2022: What to know",
-      "url": "/news/california-primary-election-june-7-2022-what-to-know"
-    },
-    {
-      "text": "LA Mayoral Election 2022: 9 hopefuls vying for spot in likely November runoff",
-      "url": "/news/la-mayoral-election-2022-9-hopefuls-vying-for-spot-in-likely-november-runoff"
-    },
-    {
-      "text": "LA Sheriff's race: 8 candidates look to unseat Villanueva as LA County Sheriff",
-      "url": "/news/la-county-sheriff-election-june-7-primary"
-    },
-    {
-      "text": "2022 Primary Election: LA County Supervisor seat up for grabs",
-      "url": "/news/2022-primary-election-la-county-supervisor-seat-up-for-grabs"
-    },
-    {
-      "text": " Watch FOX 11 ",
-      "url": "https://www.foxla.com/live"
-    },
-    {
       "text": "   ",
-      "url": "/news/at-least-6-hospitalized-with-burn-injuries-after-incident-near-angeles-national-forest"
+      "url": "/news/demonstrator-tackled-amid-protests-at-summit-of-the-americas"
     },
     {
-      "text": "6 members of firefighting crew hospitalized after incident near Angeles National Forest",
-      "url": "/news/at-least-6-hospitalized-with-burn-injuries-after-incident-near-angeles-national-forest"
-    },
-    {
-      "text": "  ",
-      "url": "/news/chp-pursuit-vehicle-ventura-county"
-    },
-    {
-      "text": "Driver arrested after chase ends with PIT maneuver in Sherman Oaks",
-      "url": "/news/chp-pursuit-vehicle-ventura-county"
+      "text": "Protester approaching Biden motorcade taken down by police at Summit of the Americas in LA",
+      "url": "/news/demonstrator-tackled-amid-protests-at-summit-of-the-americas"
     },
     {
       "text": "  ",
-      "url": "/news/community-raises-concern-over-training-airport-after-plane-crashes-into-hemet-backyard"
+      "url": "/news/accused-killer-wants-plea-deal-before-gascon-recall-election"
     },
     {
-      "text": "Community raises concern over training airport after plane crashes into Hemet backyard",
-      "url": "/news/community-raises-concern-over-training-airport-after-plane-crashes-into-hemet-backyard"
-    },
-    {
-      "text": "  ",
-      "url": "/news/voting-drop-box-near-me"
-    },
-    {
-      "text": "Voting drop box near me: Southern California",
-      "url": "/news/voting-drop-box-near-me"
+      "text": "Accused killer wants plea deal before Gasc\u00f3n recall election",
+      "url": "/news/accused-killer-wants-plea-deal-before-gascon-recall-election"
     },
     {
       "text": "  ",
-      "url": "/news/encino-hospital-stabbing-suspect-charged-with-3-counts-of-murder"
+      "url": "/news/hollywood-burglar-arrested-failed-carjacking"
     },
     {
-      "text": "LA hospital stabbing: Ex-con faces 3 counts of attempted murder",
-      "url": "/news/encino-hospital-stabbing-suspect-charged-with-3-counts-of-murder"
-    },
-    {
-      "text": "  ",
-      "url": "/news/matthew-mcconaughey-calls-for-gun-responsibility-new-laws-following-uvalde-school-shooting"
-    },
-    {
-      "text": "Matthew McConaughey calls for 'gun responsibility,' new laws following Uvalde school shooting",
-      "url": "/news/matthew-mcconaughey-calls-for-gun-responsibility-new-laws-following-uvalde-school-shooting"
+      "text": "Suspected burglar arrested after running from LAPD, trying to carjack vehicle with locked doors",
+      "url": "/news/hollywood-burglar-arrested-failed-carjacking"
     },
     {
       "text": "  ",
-      "url": "/news/altadena-grandmother-promises-to-find-her-grandsons-killer"
+      "url": "/news/simi-valley-man-arrested-justice-kavanaugh"
     },
     {
-      "text": "After grandson's murder, California grandma vows to bring killer to justice",
-      "url": "/news/altadena-grandmother-promises-to-find-her-grandsons-killer"
-    },
-    {
-      "text": "  ",
-      "url": "/news/newsom-expected-to-cruise-to-victory-in-california-primary"
-    },
-    {
-      "text": "Newsom expected to cruise to victory in California primary",
-      "url": "/news/newsom-expected-to-cruise-to-victory-in-california-primary"
+      "text": "Armed Simi Valley man arrested, threatened to kill Justice Kavanaugh over Roe v. Wade",
+      "url": "/news/simi-valley-man-arrested-justice-kavanaugh"
     },
     {
       "text": "  ",
-      "url": "/news/baldwin-park-backyard-shooting"
+      "url": "/news/house-votes-to-set-minimum-age-of-21-for-buying-semi-automatic-weapons-in-response-to-recent-mass-shootings"
     },
     {
-      "text": "Mother, son killed in Baldwin Park backyard shooting identified",
-      "url": "/news/baldwin-park-backyard-shooting"
-    },
-    {
-      "text": "  ",
-      "url": "/news/list-13-california-counties-cdc-high-transmission-covid"
-    },
-    {
-      "text": "List: 13 California counties enter CDC's 'high' transmission COVID category",
-      "url": "/news/list-13-california-counties-cdc-high-transmission-covid"
+      "text": "House votes to set minimum age of 21 for buying semi-automatic weapons in response to recent mass shootings",
+      "url": "/news/house-votes-to-set-minimum-age-of-21-for-buying-semi-automatic-weapons-in-response-to-recent-mass-shootings"
     },
     {
       "text": "  ",
-      "url": "/news/california-primary-voter-turnout-near-historic-lows"
+      "url": "/news/military-aircraft-crash-california-imperial-county"
     },
     {
-      "text": "California Primary voter turnout near historic lows",
-      "url": "/news/california-primary-voter-turnout-near-historic-lows"
-    },
-    {
-      "text": "  ",
-      "url": "/news/dont-go-to-these-la-county-beaches-authorities-warn"
-    },
-    {
-      "text": "Don't go to these LA County beaches, authorities warn; here's why",
-      "url": "/news/dont-go-to-these-la-county-beaches-authorities-warn"
+      "text": "Military aircraft crashes in Imperial County, California",
+      "url": "/news/military-aircraft-crash-california-imperial-county"
     },
     {
       "text": "  ",
-      "url": "/news/first-lady-dr-jill-biden-to-give-commencement-address-for-los-angeles-city-college"
+      "url": "/news/president-biden-to-arrive-in-los-angeles-summit-of-the-americas"
     },
     {
-      "text": "First lady Dr. Jill Biden to give commencement address for Los Angeles City College",
-      "url": "/news/first-lady-dr-jill-biden-to-give-commencement-address-for-los-angeles-city-college"
+      "text": "President Biden arrives in LA for Summit of the Americas",
+      "url": "/news/president-biden-to-arrive-in-los-angeles-summit-of-the-americas"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-luz-del-mundo-megachurch-leader-naason-joaquin-garcia-sentenced"
+    },
+    {
+      "text": "La Luz del Mundo megachurch leader Naas\u00f3n Joaqu\u00edn Garc\u00eda sentenced",
+      "url": "/news/la-luz-del-mundo-megachurch-leader-naason-joaquin-garcia-sentenced"
+    },
+    {
+      "text": "  ",
+      "url": "/news/child-shot-in-compton-no-arrests-announced"
+    },
+    {
+      "text": "Baby shot in Compton, no arrests announced",
+      "url": "/news/child-shot-in-compton-no-arrests-announced"
+    },
+    {
+      "text": "  ",
+      "url": "/news/california-election-results-primary-2022-live"
+    },
+    {
+      "text": "2022 California Primary: Latest election results",
+      "url": "/news/california-election-results-primary-2022-live"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-county-reports-2nd-suspected-monkeypox-case"
+    },
+    {
+      "text": "LA County reports 2nd suspected monkeypox case",
+      "url": "/news/la-county-reports-2nd-suspected-monkeypox-case"
+    },
+    {
+      "text": "  ",
+      "url": "/news/teen-rammed-car-mother-venice-child-probation"
+    },
+    {
+      "text": "California teen who rammed car into mother and infant child was on probation at time of incident",
+      "url": "/news/teen-rammed-car-mother-venice-child-probation"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-county-sheriff-winner"
+    },
+    {
+      "text": "LA County Sheriff Race: Alex Villanueva, Robert Luna head to Nov. runoff",
+      "url": "/news/la-county-sheriff-winner"
     },
     {
       "text": "Florence-Graham",
@@ -5844,51 +5900,51 @@
     },
     {
       "text": "  video",
-      "url": "/video/1078912"
+      "url": "/video/1079516"
     },
     {
-      "text": "Weekly testing to end for LAUSD students, teachers",
-      "url": "/video/1078912"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1078910"
-    },
-    {
-      "text": "First Lady Jill Biden speaks at LA City College",
-      "url": "/video/1078910"
+      "text": "Children's book shares life experience of a child in foster care",
+      "url": "/video/1079516"
     },
     {
       "text": "  video",
-      "url": "/video/1078898"
+      "url": "/video/1079514"
     },
     {
-      "text": "Summit of the Americas comes to Los Angeles",
-      "url": "/video/1078898"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1078895"
-    },
-    {
-      "text": "LA County Sheriff Race: Alex Villanueva 'cautiously optimistic' in bid for re-election",
-      "url": "/video/1078895"
+      "text": "What to know ahead of Nov. 2022 runoff for LA County Sheriff",
+      "url": "/video/1079514"
     },
     {
       "text": "  video",
-      "url": "/video/1078894"
+      "url": "/video/1079513"
     },
     {
-      "text": "Primary Election: LA County voters rush to cast ballot",
-      "url": "/video/1078894"
+      "text": "Summit of the Americas met with protests in LA",
+      "url": "/video/1079513"
     },
     {
       "text": "  video",
-      "url": "/video/1078876"
+      "url": "/video/1079509"
     },
     {
-      "text": "Transformer explodes in Torrance",
-      "url": "/video/1078876"
+      "text": "Baby recovering at hospital after being shot in Compton",
+      "url": "/video/1079509"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1079507"
+    },
+    {
+      "text": "Suspected burglar arrested after running from LAPD, trying to carjack vehicle with locked doors",
+      "url": "/video/1079507"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1079404"
+    },
+    {
+      "text": "Baby shot in Compton",
+      "url": "/video/1079404"
     },
     {
       "text": "Privacy Policy",
@@ -5912,6 +5968,14 @@
     },
     {
       "text": "  video",
+      "url": "/video/1079088"
+    },
+    {
+      "text": "Must-read books of the Summer",
+      "url": "/video/1079088"
+    },
+    {
+      "text": "  video",
       "url": "/video/1078713"
     },
     {
@@ -5927,20 +5991,36 @@
       "url": "/video/1078693"
     },
     {
-      "text": "  video",
-      "url": "/video/1078682"
-    },
-    {
-      "text": "Everytable opens 6 new stores",
-      "url": "/video/1078682"
-    },
-    {
       "text": "Coronavirus",
       "url": "/tag/health/coronavirus"
     },
     {
       "text": "View More",
       "url": "/tag/health/coronavirus"
+    },
+    {
+      "text": "   ",
+      "url": "/news/annual-cost-for-child-care-up-41-percent"
+    },
+    {
+      "text": "Annual cost for child care up 41%: report",
+      "url": "/news/annual-cost-for-child-care-up-41-percent"
+    },
+    {
+      "text": "  ",
+      "url": "/news/moderna-covid-shot-omicron-protection"
+    },
+    {
+      "text": "Moderna says updated COVID shot boosts omicron protection",
+      "url": "/news/moderna-covid-shot-omicron-protection"
+    },
+    {
+      "text": "  ",
+      "url": "/news/us-has-wasted-more-than-82-million-covid-19-vaccine-doses-report"
+    },
+    {
+      "text": "US has wasted more than 82 million COVID-19 vaccine doses: report",
+      "url": "/news/us-has-wasted-more-than-82-million-covid-19-vaccine-doses-report"
     },
     {
       "text": "  ",
@@ -5967,30 +6047,6 @@
       "url": "/news/list-13-california-counties-cdc-high-transmission-covid"
     },
     {
-      "text": "  ",
-      "url": "/news/downtown-la-growing-despite-pandemic-report"
-    },
-    {
-      "text": "Downtown LA growing despite pandemic: report",
-      "url": "/news/downtown-la-growing-despite-pandemic-report"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-county-sees-another-increase-in-covid-hospitalizations"
-    },
-    {
-      "text": "LA County sees another increase in COVID hospitalizations",
-      "url": "/news/la-county-sees-another-increase-in-covid-hospitalizations"
-    },
-    {
-      "text": "  ",
-      "url": "/news/may-jobs-report-2022-us-hiring"
-    },
-    {
-      "text": "May jobs report: US added 390,000 jobs last month as hiring remained robust",
-      "url": "/news/may-jobs-report-2022-us-hiring"
-    },
-    {
       "text": "Politics",
       "url": "/tag/politics"
     },
@@ -6000,51 +6056,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/vice-president-kamala-harris-summit-of-the-americas"
+      "url": "/news/accused-killer-wants-plea-deal-before-gascon-recall-election"
     },
     {
-      "text": "Harris discusses attracting investments to Central America to tackle migration issues",
-      "url": "/news/vice-president-kamala-harris-summit-of-the-americas"
-    },
-    {
-      "text": "  ",
-      "url": "/news/matthew-mcconaughey-calls-for-gun-responsibility-in-emotional-plea-at-white-house"
-    },
-    {
-      "text": "Matthew McConaughey calls for \u2018gun responsibility\u2019 in emotional plea at White House",
-      "url": "/news/matthew-mcconaughey-calls-for-gun-responsibility-in-emotional-plea-at-white-house"
+      "text": "Accused killer wants plea deal before Gasc\u00f3n recall election",
+      "url": "/news/accused-killer-wants-plea-deal-before-gascon-recall-election"
     },
     {
       "text": "  ",
-      "url": "/news/la-mayoral-election-2022-9-hopefuls-vying-for-spot-in-likely-november-runoff"
+      "url": "/news/house-votes-to-set-minimum-age-of-21-for-buying-semi-automatic-weapons-in-response-to-recent-mass-shootings"
     },
     {
-      "text": "LA Mayoral Election 2022: 9 hopefuls vying for spot in likely November runoff",
-      "url": "/news/la-mayoral-election-2022-9-hopefuls-vying-for-spot-in-likely-november-runoff"
-    },
-    {
-      "text": "  ",
-      "url": "/news/voting-drop-box-near-me"
-    },
-    {
-      "text": "Voting drop box near me: Southern California",
-      "url": "/news/voting-drop-box-near-me"
+      "text": "House votes to set minimum age of 21 for buying semi-automatic weapons in response to recent mass shootings",
+      "url": "/news/house-votes-to-set-minimum-age-of-21-for-buying-semi-automatic-weapons-in-response-to-recent-mass-shootings"
     },
     {
       "text": "  ",
-      "url": "/news/california-primary-day-2022"
+      "url": "/news/orange-county-election-results-spitzer-reelected-as-da-supervisor-seat-headed-for-runoff"
     },
     {
-      "text": "Primary election day arrives in California",
-      "url": "/news/california-primary-day-2022"
+      "text": "Orange County election results: Spitzer reelected as DA, Supervisor seat headed for runoff",
+      "url": "/news/orange-county-election-results-spitzer-reelected-as-da-supervisor-seat-headed-for-runoff"
     },
     {
       "text": "  ",
-      "url": "/news/matthew-mcconaughey-calls-for-gun-responsibility-new-laws-following-uvalde-school-shooting"
+      "url": "/news/donald-trump-to-undergo-questioning-ny-civil-probe"
     },
     {
-      "text": "Matthew McConaughey calls for 'gun responsibility,' new laws following Uvalde school shooting",
-      "url": "/news/matthew-mcconaughey-calls-for-gun-responsibility-new-laws-following-uvalde-school-shooting"
+      "text": "Donald Trump set to undergo questioning in July for NY civil probe",
+      "url": "/news/donald-trump-to-undergo-questioning-ny-civil-probe"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-city-council-race"
+    },
+    {
+      "text": "LA City Council Race: Mitch O'Farrell appears to be headed for runoff",
+      "url": "/news/la-city-council-race"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-county-sheriff-winner"
+    },
+    {
+      "text": "LA County Sheriff Race: Alex Villanueva, Robert Luna head to Nov. runoff",
+      "url": "/news/la-county-sheriff-winner"
     },
     {
       "text": "California News",
@@ -6053,6 +6109,30 @@
     {
       "text": "View More",
       "url": "/tag/us/ca"
+    },
+    {
+      "text": "  ",
+      "url": "/news/dog-that-defended-california-owner-from-mountain-lion-dies"
+    },
+    {
+      "text": "Dog that defended California owner from mountain lion dies",
+      "url": "/news/dog-that-defended-california-owner-from-mountain-lion-dies"
+    },
+    {
+      "text": "  ",
+      "url": "/news/military-aircraft-crash-california-imperial-county"
+    },
+    {
+      "text": "Military aircraft crashes in Imperial County, California",
+      "url": "/news/military-aircraft-crash-california-imperial-county"
+    },
+    {
+      "text": "  ",
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
+    },
+    {
+      "text": "Bob Saget\u2019s LA home lists for nearly $8 million",
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
     },
     {
       "text": "  ",
@@ -6079,30 +6159,6 @@
       "url": "/news/california-spends-11-million-to-promote-red-flag-gun-law"
     },
     {
-      "text": "  ",
-      "url": "/news/california-court-rules-a-bumblebee-is-a-fish-under-environmental-law"
-    },
-    {
-      "text": "California court rules a bumblebee is a fish under environmental law",
-      "url": "/news/california-court-rules-a-bumblebee-is-a-fish-under-environmental-law"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-regulators-approve-states-1st-robotic-taxi-fleet"
-    },
-    {
-      "text": "California regulators approve state\u2019s 1st robotic taxi fleet",
-      "url": "/news/california-regulators-approve-states-1st-robotic-taxi-fleet"
-    },
-    {
-      "text": "  ",
-      "url": "/news/mountain-lion-weak-and-anemic-after-being-rescued-from-pescadero-high-classroom"
-    },
-    {
-      "text": "Mountain lion weak and anemic after being rescued from Pescadero High classroom",
-      "url": "/news/mountain-lion-weak-and-anemic-after-being-rescued-from-pescadero-high-classroom"
-    },
-    {
       "text": "Crime & Public Safety",
       "url": "/tag/crime-publicsafety"
     },
@@ -6111,52 +6167,52 @@
       "url": "/tag/crime-publicsafety"
     },
     {
-      "text": "   ",
-      "url": "/news/camarillo-man-charged-with-murdering-mother-dumping-body-in-dumpster"
+      "text": "  ",
+      "url": "/news/overnight-phoenix-shooting-leaves-multiple-victims-injured"
     },
     {
-      "text": "Camarillo man charged with murdering mother, dumping body in dumpster",
-      "url": "/news/camarillo-man-charged-with-murdering-mother-dumping-body-in-dumpster"
+      "text": "Teenage girl killed in shooting at Phoenix strip mall, 8 others injured",
+      "url": "/news/overnight-phoenix-shooting-leaves-multiple-victims-injured"
     },
     {
       "text": "  ",
-      "url": "/news/anaheim-man-charged-with-stealing-olympic-gold-medal-from-athletes-car"
+      "url": "/news/hollywood-burglar-arrested-failed-carjacking"
     },
     {
-      "text": "Anaheim man charged with stealing Olympic gold medal from athlete's car",
-      "url": "/news/anaheim-man-charged-with-stealing-olympic-gold-medal-from-athletes-car"
-    },
-    {
-      "text": "  ",
-      "url": "/news/chp-pursuit-vehicle-ventura-county"
-    },
-    {
-      "text": "Driver arrested after chase ends with PIT maneuver in Sherman Oaks",
-      "url": "/news/chp-pursuit-vehicle-ventura-county"
+      "text": "Suspected burglar arrested after running from LAPD, trying to carjack vehicle with locked doors",
+      "url": "/news/hollywood-burglar-arrested-failed-carjacking"
     },
     {
       "text": "  ",
-      "url": "/news/encino-hospital-stabbing-suspect-charged-with-3-counts-of-murder"
+      "url": "/news/armed-man-arrested-near-supreme-court-justice-brett-kavanaughs-maryland-home"
     },
     {
-      "text": "LA hospital stabbing: Ex-con faces 3 counts of attempted murder",
-      "url": "/news/encino-hospital-stabbing-suspect-charged-with-3-counts-of-murder"
-    },
-    {
-      "text": "  ",
-      "url": "/news/matthew-mcconaughey-calls-for-gun-responsibility-in-emotional-plea-at-white-house"
-    },
-    {
-      "text": "Matthew McConaughey calls for \u2018gun responsibility\u2019 in emotional plea at White House",
-      "url": "/news/matthew-mcconaughey-calls-for-gun-responsibility-in-emotional-plea-at-white-house"
+      "text": "Armed man arrested near Justice Kavanaugh's Maryland home after making violent threats",
+      "url": "/news/armed-man-arrested-near-supreme-court-justice-brett-kavanaughs-maryland-home"
     },
     {
       "text": "  ",
-      "url": "/news/it-was-a-kid-12-year-old-suspect-holds-up-michigan-gas-station-fires-gun"
+      "url": "/news/roswell-preschool-teachers-charged-with-cruelty-to-children"
     },
     {
-      "text": "\u2018It was a kid\u2019: 12-year-old suspect holds up Michigan gas station, fires gun",
-      "url": "/news/it-was-a-kid-12-year-old-suspect-holds-up-michigan-gas-station-fires-gun"
+      "text": "Roswell preschool teachers charged with cruelty to children",
+      "url": "/news/roswell-preschool-teachers-charged-with-cruelty-to-children"
+    },
+    {
+      "text": "  ",
+      "url": "/news/house-votes-to-set-minimum-age-of-21-for-buying-semi-automatic-weapons-in-response-to-recent-mass-shootings"
+    },
+    {
+      "text": "House votes to set minimum age of 21 for buying semi-automatic weapons in response to recent mass shootings",
+      "url": "/news/house-votes-to-set-minimum-age-of-21-for-buying-semi-automatic-weapons-in-response-to-recent-mass-shootings"
+    },
+    {
+      "text": "  ",
+      "url": "/news/child-shot-in-compton-no-arrests-announced"
+    },
+    {
+      "text": "Baby shot in Compton, no arrests announced",
+      "url": "/news/child-shot-in-compton-no-arrests-announced"
     },
     {
       "text": "Consumer",
@@ -6167,6 +6223,46 @@
       "url": "/tag/consumer"
     },
     {
+      "text": "   ",
+      "url": "/news/used-car-prices-are-going-up-again"
+    },
+    {
+      "text": "Used car prices are going up again",
+      "url": "/news/used-car-prices-are-going-up-again"
+    },
+    {
+      "text": "  ",
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
+    },
+    {
+      "text": "Bob Saget\u2019s LA home lists for nearly $8 million",
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
+    },
+    {
+      "text": "  ",
+      "url": "/news/you-need-to-work-this-many-hours-to-afford-rent-in-california"
+    },
+    {
+      "text": "You need to work this many hours to afford rent in California",
+      "url": "/news/you-need-to-work-this-many-hours-to-afford-rent-in-california"
+    },
+    {
+      "text": "  ",
+      "url": "/news/package-sizes-are-shrinking"
+    },
+    {
+      "text": "No, you're not imagining it \u2014 package sizes are shrinking, here's why",
+      "url": "/news/package-sizes-are-shrinking"
+    },
+    {
+      "text": "  ",
+      "url": "/news/amazon-reports-blocking-4-billion-counterfeit-listings-in-2021"
+    },
+    {
+      "text": "Amazon reports blocking 4 billion counterfeit listings in 2021",
+      "url": "/news/amazon-reports-blocking-4-billion-counterfeit-listings-in-2021"
+    },
+    {
       "text": "  ",
       "url": "/news/target-is-cutting-prices-to-get-rid-of-excess-inventory"
     },
@@ -6175,56 +6271,36 @@
       "url": "/news/target-is-cutting-prices-to-get-rid-of-excess-inventory"
     },
     {
-      "text": "  ",
-      "url": "/news/eu-common-charge-phones"
-    },
-    {
-      "text": "One plug and done: EU to require common way to charge phones",
-      "url": "/news/eu-common-charge-phones"
-    },
-    {
-      "text": "  ",
-      "url": "/news/lawsuit-man-claims-now-recalled-cpap-sleep-apnea-machine-gave-him-cancer"
-    },
-    {
-      "text": "Lawsuit: Man claims now-recalled CPAP sleep apnea machine gave him cancer",
-      "url": "/news/lawsuit-man-claims-now-recalled-cpap-sleep-apnea-machine-gave-him-cancer"
-    },
-    {
-      "text": "  ",
-      "url": "/news/how-much-house-400000-gets-you-in-socal"
-    },
-    {
-      "text": "How much house $400,000 gets you in SoCal",
-      "url": "/news/how-much-house-400000-gets-you-in-socal"
-    },
-    {
-      "text": "  ",
-      "url": "/news/downtown-la-growing-despite-pandemic-report"
-    },
-    {
-      "text": "Downtown LA growing despite pandemic: report",
-      "url": "/news/downtown-la-growing-despite-pandemic-report"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1078286"
-    },
-    {
-      "text": "",
-      "url": "/video/1078286"
-    },
-    {
-      "text": "How much space $400K buys you",
-      "url": "/video/1078286"
-    },
-    {
       "text": "Sports",
       "url": "/tag/sports"
     },
     {
       "text": "View More",
       "url": "/tag/sports"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/super-bowl-mvp-cooper-kupp-la-rams-agree-to-3-year-extension"
+    },
+    {
+      "text": "Super Bowl MVP Cooper Kupp, LA Rams agree to 3-year extension",
+      "url": "/sports/super-bowl-mvp-cooper-kupp-la-rams-agree-to-3-year-extension"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/clippers-intuit-dome-to-feature-massive-halo-board"
+    },
+    {
+      "text": "Clippers\u2019 Intuit Dome to feature massive \u2018Halo Board\u2019 video screen",
+      "url": "/sports/clippers-intuit-dome-to-feature-massive-halo-board"
+    },
+    {
+      "text": "  ",
+      "url": "/news/six-special-olympic-games-athletes-reported-missing-in-kissimmee-deputies-say"
+    },
+    {
+      "text": "6 Special Olympic Games participants from Haiti reported missing in Florida, deputies say",
+      "url": "/news/six-special-olympic-games-athletes-reported-missing-in-kissimmee-deputies-say"
     },
     {
       "text": "  ",
@@ -6251,40 +6327,20 @@
       "url": "/news/iditarod-dog-leon-found-missing-from-2022-race-checkpoint"
     },
     {
-      "text": "  ",
-      "url": "/news/aaron-donald-to-be-nfls-highest-paid-non-qb-ever-under-restructured-contract-reports"
-    },
-    {
-      "text": "Aaron Donald to be NFL's highest-paid non-QB ever under restructured contract: Reports",
-      "url": "/news/aaron-donald-to-be-nfls-highest-paid-non-qb-ever-under-restructured-contract-reports"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/lakers-introduce-head-coach-darvin-ham"
-    },
-    {
-      "text": "LA Lakers introduce head coach Darvin Ham: 'It's like coming back home'",
-      "url": "/sports/lakers-introduce-head-coach-darvin-ham"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1078319"
-    },
-    {
-      "text": "",
-      "url": "/video/1078319"
-    },
-    {
-      "text": "Darvin Ham discusses Russell Westbrook's role",
-      "url": "/video/1078319"
-    },
-    {
       "text": "Unusual",
       "url": "/tag/unusual"
     },
     {
       "text": "View More",
       "url": "/tag/unusual"
+    },
+    {
+      "text": "  ",
+      "url": "/news/velveeta-cheese-scented-nail-polish-stickers-nails-inc"
+    },
+    {
+      "text": "Velveeta launches nail polish that smells like cheese",
+      "url": "/news/velveeta-cheese-scented-nail-polish-stickers-nails-inc"
     },
     {
       "text": "  ",
@@ -6327,14 +6383,6 @@
       "url": "/news/overdue-library-book-returned-after-46-years"
     },
     {
-      "text": "  ",
-      "url": "/news/video-redmond-mom-grabs-toddler-chasing-bear-in-their-backyard"
-    },
-    {
-      "text": "VIDEO: Redmond mom grabs toddler chasing bear in their backyard",
-      "url": "/news/video-redmond-mom-grabs-toddler-chasing-bear-in-their-backyard"
-    },
-    {
       "text": "Local News",
       "url": "/local-news"
     },
@@ -6344,51 +6392,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/camarillo-man-charged-with-murdering-mother-dumping-body-in-dumpster"
+      "url": "/news/demonstrator-tackled-amid-protests-at-summit-of-the-americas"
     },
     {
-      "text": "Camarillo man charged with murdering mother, dumping body in dumpster",
-      "url": "/news/camarillo-man-charged-with-murdering-mother-dumping-body-in-dumpster"
-    },
-    {
-      "text": "  ",
-      "url": "/news/community-raises-concern-over-training-airport-after-plane-crashes-into-hemet-backyard"
-    },
-    {
-      "text": "Community raises concern over training airport after plane crashes into Hemet backyard",
-      "url": "/news/community-raises-concern-over-training-airport-after-plane-crashes-into-hemet-backyard"
+      "text": "Protester approaching Biden motorcade taken down by police at Summit of the Americas in LA",
+      "url": "/news/demonstrator-tackled-amid-protests-at-summit-of-the-americas"
     },
     {
       "text": "  ",
-      "url": "/news/more-than-5000-torrance-socal-edison-customers-without-power"
+      "url": "/news/hollywood-burglar-arrested-failed-carjacking"
     },
     {
-      "text": "More than 5,000 Torrance SoCal Edison customers without power",
-      "url": "/news/more-than-5000-torrance-socal-edison-customers-without-power"
-    },
-    {
-      "text": "  ",
-      "url": "/news/anaheim-man-charged-with-stealing-olympic-gold-medal-from-athletes-car"
-    },
-    {
-      "text": "Anaheim man charged with stealing Olympic gold medal from athlete's car",
-      "url": "/news/anaheim-man-charged-with-stealing-olympic-gold-medal-from-athletes-car"
+      "text": "Suspected burglar arrested after running from LAPD, trying to carjack vehicle with locked doors",
+      "url": "/news/hollywood-burglar-arrested-failed-carjacking"
     },
     {
       "text": "  ",
-      "url": "/news/california-dog-hot-car-105-degree"
+      "url": "/news/biden-harris-formally-open-summit-of-the-americas-in-la"
     },
     {
-      "text": "Dog left in hot car rescued in Riverside County",
-      "url": "/news/california-dog-hot-car-105-degree"
+      "text": "Biden, Harris formally open Summit of the Americas in LA",
+      "url": "/news/biden-harris-formally-open-summit-of-the-americas-in-la"
     },
     {
       "text": "  ",
-      "url": "/news/at-least-6-hospitalized-with-burn-injuries-after-incident-near-angeles-national-forest"
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
     },
     {
-      "text": "6 members of firefighting crew hospitalized after incident near Angeles National Forest",
-      "url": "/news/at-least-6-hospitalized-with-burn-injuries-after-incident-near-angeles-national-forest"
+      "text": "Bob Saget\u2019s LA home lists for nearly $8 million",
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
+    },
+    {
+      "text": "  ",
+      "url": "/news/accused-killer-wants-plea-deal-before-gascon-recall-election"
+    },
+    {
+      "text": "Accused killer wants plea deal before Gasc\u00f3n recall election",
+      "url": "/news/accused-killer-wants-plea-deal-before-gascon-recall-election"
+    },
+    {
+      "text": "  ",
+      "url": "/news/child-shot-in-compton-no-arrests-announced"
+    },
+    {
+      "text": "Baby shot in Compton, no arrests announced",
+      "url": "/news/child-shot-in-compton-no-arrests-announced"
     },
     {
       "text": "National News",
@@ -6399,52 +6447,52 @@
       "url": "/national-news"
     },
     {
-      "text": "   ",
-      "url": "/news/it-was-a-kid-12-year-old-suspect-holds-up-michigan-gas-station-fires-gun"
+      "text": "  ",
+      "url": "/news/dog-that-defended-california-owner-from-mountain-lion-dies"
     },
     {
-      "text": "\u2018It was a kid\u2019: 12-year-old suspect holds up Michigan gas station, fires gun",
-      "url": "/news/it-was-a-kid-12-year-old-suspect-holds-up-michigan-gas-station-fires-gun"
+      "text": "Dog that defended California owner from mountain lion dies",
+      "url": "/news/dog-that-defended-california-owner-from-mountain-lion-dies"
     },
     {
       "text": "  ",
-      "url": "/news/johnny-depp-joins-tiktok-thanks-loyal-fans-for-support-during-trial"
+      "url": "/news/used-car-prices-are-going-up-again"
     },
     {
-      "text": "Johnny Depp joins TikTok, thanks 'loyal' fans for support during trial",
-      "url": "/news/johnny-depp-joins-tiktok-thanks-loyal-fans-for-support-during-trial"
-    },
-    {
-      "text": "  ",
-      "url": "/news/woman-shoved-onto-subway-tracks-in-the-bronx"
-    },
-    {
-      "text": "Video:  Attacker shoves woman onto Bronx subway tracks",
-      "url": "/news/woman-shoved-onto-subway-tracks-in-the-bronx"
+      "text": "Used car prices are going up again",
+      "url": "/news/used-car-prices-are-going-up-again"
     },
     {
       "text": "  ",
-      "url": "/news/small-study-rectal-cancer-treatment-mmrd-mutation-every-single-patient-remission"
+      "url": "/news/overnight-phoenix-shooting-leaves-multiple-victims-injured"
     },
     {
-      "text": "Small study of rectal cancer treatment brings every single patient into remission",
-      "url": "/news/small-study-rectal-cancer-treatment-mmrd-mutation-every-single-patient-remission"
-    },
-    {
-      "text": "  ",
-      "url": "/news/abortion-activists-interrupt-joel-osteen-lakewood-church"
-    },
-    {
-      "text": "Pro-choice activists strip during Joel Osteen church service: 'Overturn Roe, hell no'",
-      "url": "/news/abortion-activists-interrupt-joel-osteen-lakewood-church"
+      "text": "Teenage girl killed in shooting at Phoenix strip mall, 8 others injured",
+      "url": "/news/overnight-phoenix-shooting-leaves-multiple-victims-injured"
     },
     {
       "text": "  ",
-      "url": "/news/target-is-cutting-prices-to-get-rid-of-excess-inventory"
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
     },
     {
-      "text": "Target is cutting prices to get rid of excess inventory",
-      "url": "/news/target-is-cutting-prices-to-get-rid-of-excess-inventory"
+      "text": "Bob Saget\u2019s LA home lists for nearly $8 million",
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
+    },
+    {
+      "text": "  ",
+      "url": "/news/armed-man-arrested-near-supreme-court-justice-brett-kavanaughs-maryland-home"
+    },
+    {
+      "text": "Armed man arrested near Justice Kavanaugh's Maryland home after making violent threats",
+      "url": "/news/armed-man-arrested-near-supreme-court-justice-brett-kavanaughs-maryland-home"
+    },
+    {
+      "text": "  ",
+      "url": "/news/roswell-preschool-teachers-charged-with-cruelty-to-children"
+    },
+    {
+      "text": "Roswell preschool teachers charged with cruelty to children",
+      "url": "/news/roswell-preschool-teachers-charged-with-cruelty-to-children"
     },
     {
       "text": "Money",
@@ -6455,52 +6503,52 @@
       "url": "/money"
     },
     {
-      "text": "  ",
-      "url": "/money/mortgage-rates-inch-down-slightly"
+      "text": "   ",
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
     },
     {
-      "text": "30-year mortgage rates inch down slightly for third consecutive week",
-      "url": "/money/mortgage-rates-inch-down-slightly"
-    },
-    {
-      "text": "  ",
-      "url": "/money/todays-mortgage-refinance-rates-june-7-2022"
-    },
-    {
-      "text": "20-year mortgage refinance rates edge down after upward bounce yesterday | June 7, 2022",
-      "url": "/money/todays-mortgage-refinance-rates-june-7-2022"
+      "text": "Bob Saget\u2019s LA home lists for nearly $8 million",
+      "url": "/news/bob-sagets-la-home-lists-for-nearly-8-million"
     },
     {
       "text": "  ",
-      "url": "/money/todays-mortgage-rates-june-7-2022"
+      "url": "/money/private-student-loan-rates-june-7-2022"
     },
     {
-      "text": "Today\u2019s mortgage rates: 15-year rates take the lead as the day\u2019s lowest | June 7, 2022",
-      "url": "/money/todays-mortgage-rates-june-7-2022"
-    },
-    {
-      "text": "  ",
-      "url": "/news/target-is-cutting-prices-to-get-rid-of-excess-inventory"
-    },
-    {
-      "text": "Target is cutting prices to get rid of excess inventory",
-      "url": "/news/target-is-cutting-prices-to-get-rid-of-excess-inventory"
+      "text": "5-year variable rate private student loans fall to 4-month low",
+      "url": "/money/private-student-loan-rates-june-7-2022"
     },
     {
       "text": "  ",
-      "url": "/money/student-loan-refinance-rates-june-6-2022"
+      "url": "/money/todays-mortgage-rates-june-8-2022"
     },
     {
-      "text": "Student loan refinance rates freefall for 5-year variable-rate loans",
-      "url": "/money/student-loan-refinance-rates-june-6-2022"
+      "text": "Savings window opens: 20-year mortgage rates tumble below 5% | June 8, 2022",
+      "url": "/money/todays-mortgage-rates-june-8-2022"
     },
     {
       "text": "  ",
-      "url": "/money/personal-loan-rates-6-6-2022"
+      "url": "/money/todays-mortgage-refinance-rates-june-8-2022"
     },
     {
-      "text": "Personal loan rates edge down for 5-year fixed-rate loans",
-      "url": "/money/personal-loan-rates-6-6-2022"
+      "text": "Today\u2019s mortgage refinance rates edge down for three key terms | June 8, 2022",
+      "url": "/money/todays-mortgage-refinance-rates-june-8-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/news/you-need-to-work-this-many-hours-to-afford-rent-in-california"
+    },
+    {
+      "text": "You need to work this many hours to afford rent in California",
+      "url": "/news/you-need-to-work-this-many-hours-to-afford-rent-in-california"
+    },
+    {
+      "text": "  ",
+      "url": "/news/teens-clueless-on-investing-basics-study"
+    },
+    {
+      "text": "Teens clueless on investing basics: study",
+      "url": "/news/teens-clueless-on-investing-basics-study"
     },
     {
       "text": "News",
@@ -6951,8 +6999,8 @@
       "url": "/contact-us"
     }
   ],
-  "item_last_updated": 1654654658,
-  "item_size": 54253758,
+  "item_last_updated": 1654782453,
+  "item_size": 55152419,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -6970,7 +7018,7 @@
     "addeddate": "2022-03-23 20:59:13"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 593640207,
+  "uniq": 1824710091,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1654734157,
+  "created": 1654820478,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/34/items/lemondefr-2022",
@@ -2536,31 +2536,73 @@
       "sha1": "346e3bf6ec2cad7357fa0132bbf25bf65a046e8a"
     },
     {
+      "name": "lemondefr-2022-06-09T14:08:51.985653+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654776540",
+      "size": "30204",
+      "md5": "0d38391f39e475f2c841f5b8706a45c8",
+      "crc32": "1d0f62cc",
+      "sha1": "38ebc5c761fdda72b508565606eee4bb36fa4737",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-06-09T14:08:51.985653+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654776541",
+      "size": "46807",
+      "md5": "ba0c58ff0ec4d0703f882f0acaa4f899",
+      "crc32": "9b021dc0",
+      "sha1": "8f0b33c700912050182fc186124637547414a0e2",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-06-09T14:08:51.985653+02:00.jpg",
+      "source": "original",
+      "mtime": "1654776533",
+      "size": "272816",
+      "md5": "417e933f85f3f4d9dae2965ab51bd191",
+      "crc32": "6110ab96",
+      "sha1": "de8ec414e92a7f882b934fd4099f79818930730c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemondefr-2022-06-09T14:08:51.985653+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemondefr-2022-06-09T14:08:51.985653+02:00.jpg",
+      "mtime": "1654776608",
+      "size": "9087",
+      "md5": "92878e43f0bc591a793c8663256d1274",
+      "crc32": "ab9d87b2",
+      "sha1": "6f46ab22f80a87f9c1075301781833957f657f2f"
+    },
+    {
       "name": "lemondefr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2a99abbd2642785df1a8e8936aa15697c14b2ce0",
-      "mtime": "1654690136",
-      "size": "52437",
-      "md5": "35a02c49fda606a73ff4bdb5defb0e1b",
-      "crc32": "53041188",
-      "sha1": "5d94fa2c9b976acb789bd53665f74e5b6deaeb3b",
+      "btih": "da8dbb7a7207d8b3a72e6bb68437ba982a7071ae",
+      "mtime": "1654776617",
+      "size": "53290",
+      "md5": "9be26a8d210339610941c5c2ed6b411a",
+      "crc32": "59a399a1",
+      "sha1": "4fd0d27f2fc27f6937f3c73e5375c613b9700d0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemondefr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f36f02cfb493196d9b97b28365d83301",
+      "md5": "1f867b17fc8b1c096a059ee26725c596",
       "summation": "md5"
     },
     {
       "name": "lemondefr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1654690077",
-      "size": "294912",
-      "md5": "c6db5ca7103bde215c20dbc9db745f8b",
-      "crc32": "9a66b362",
-      "sha1": "fbe6f7c7a8d09a2c3f0d95cfeec4d3a6f5dd2319",
+      "mtime": "1654776545",
+      "size": "299008",
+      "md5": "3ad8e93b0e5c6857e00eb6996bf1fd2c",
+      "crc32": "862d3b9e",
+      "sha1": "f4888ff91c42906eaded64f4dde6a9541a74769c",
       "format": "Metadata"
     },
     {
@@ -2574,9 +2616,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1654690136,
-  "item_size": 21980389,
+  "files_count": 249,
+  "item_last_updated": 1654776617,
+  "item_size": 22344252,
   "lemondefr-2022": [
     {
       "text": " Consulterle journal ",
@@ -2631,28 +2673,28 @@
       "url": "/elections-legislatives-2022/"
     },
     {
-      "text": "Parcoursup",
-      "url": "/apb/"
-    },
-    {
-      "text": "Roland-Garros 2022",
-      "url": "/roland-garros/"
-    },
-    {
-      "text": "Coronavirus et pand\u00e9mie de Covid-19",
-      "url": "/coronavirus-2019-ncov/"
+      "text": "Sant\u00e9",
+      "url": "/sante/"
     },
     {
       "text": "Climat",
       "url": "/climat/"
     },
     {
-      "text": "Gouvernement Borne",
-      "url": "/gouvernement-borne/"
+      "text": "Coronavirus et pand\u00e9mie de Covid-19",
+      "url": "/coronavirus-2019-ncov/"
     },
     {
       "text": "Proc\u00e8s des attentats du 13-Novembre",
       "url": "/proces-des-attentats-du-13-novembre/"
+    },
+    {
+      "text": "Bac",
+      "url": "/bac-lycee/"
+    },
+    {
+      "text": "Parcoursup",
+      "url": "/apb/"
     },
     {
       "text": "Royaume-Uni",
@@ -2743,20 +2785,20 @@
       "url": "/fragments-de-france/"
     },
     {
-      "text": "           Elections l\u00e9gislatives 2022 L\u00e9gislatives\u00a0: le processus d\u2019adh\u00e9sion du PS \u00e0 la Nupes invalid\u00e9 par la justice   ",
-      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/08/elections-legislatives-2022-revers-judiciaire-pour-la-nupes_6129366_6104324.html"
+      "text": "           Politique  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s L\u00e9gislatives\u00a0: deux gauches, deux ambiances dans le 20e\u00a0arrondissement de Paris  ",
+      "url": "https://www.lemonde.fr/politique/article/2022/06/09/elections-legislatives-deux-gauches-deux-ambiances-dans-le-20e-arrondissement-de-paris_6129530_823448.html"
     },
     {
-      "text": "           Elections l\u00e9gislatives 2022  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s L\u00e9gislatives 2022\u00a0: le Conseil d\u2019Etat d\u00e9savoue G\u00e9rald Darmanin  ",
-      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/08/legislatives-2022-le-conseil-d-etat-desavoue-gerald-darmanin_6129352_6104324.html"
+      "text": "                 Live  Article se d\u00e9roulant en direct  Emmanuel Macron dans le Tarn pour \u00e9changer sur la s\u00e9curit\u00e9 en milieu rural\u00a0: suivez l\u2019actualit\u00e9 politique en direct  ",
+      "url": "https://www.lemonde.fr/politique/live/2022/06/09/posez-vos-questions-a-jacques-de-maillard-sociologue-de-la-police-a-propos-du-clivage-gauche-droite-sur-le-maintien-de-l-ordre-et-la-critique-de-l-action-policiere_6129485_823448.html"
     },
     {
-      "text": "           Elections l\u00e9gislatives 2022 A cinq jours des l\u00e9gislatives, le Conseil d\u2019Etat donne raison \u00e0 la Nupes sur l\u2019attribution des nuances politiques  ",
-      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/07/elections-legislatives-2022-le-conseil-d-etat-donne-raison-a-la-nupes-sur-l-attribution-des-nuances-politiques_6129269_6104324.html"
+      "text": "           Elections l\u00e9gislatives 2022  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Le PS davantage fractur\u00e9 apr\u00e8s la d\u00e9cision de justice remettant en cause son processus d\u2019adh\u00e9sion \u00e0 la Nupes  ",
+      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/08/elections-legislatives-2022-une-decision-de-justice-fracture-davantage-le-parti-socialiste_6129427_6104324.html"
     },
     {
-      "text": "           Elections l\u00e9gislatives 2022  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s L\u00e9gislatives\u00a0: \u00e0 moins d\u2019une semaine du premier tour, l\u2019inqui\u00e9tude monte chez les macronistes  ",
-      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/07/elections-legislatives-2022-a-moins-d-une-semaine-du-premier-tour-l-inquietude-monte-chez-les-macronistes_6129166_6104324.html"
+      "text": "           Politique  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s A la Guadeloupe, la campagne \u00e0 hauts risques de la secr\u00e9taire d\u2019Etat Justine Benin  ",
+      "url": "https://www.lemonde.fr/politique/article/2022/06/09/a-la-guadeloupe-la-campagne-a-hauts-risques-de-la-secretaire-d-etat-justine-benin_6129512_823448.html"
     },
     {
       "text": "\u00c9conomie",
@@ -2799,20 +2841,20 @@
       "url": "/le-club-de-l-economie/"
     },
     {
-      "text": "           \u00c9conomie  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s La Banque mondiale avertit des risques de stagflation  ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/07/la-banque-mondiale-avertit-des-risques-de-stagflation_6129243_3234.html"
+      "text": "           \u00c9conomie  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s A l\u2019aube de l\u2019\u00e9t\u00e9, la grande d\u00e9sertion des saisonniers du tourisme en Europe  ",
+      "url": "https://www.lemonde.fr/economie/article/2022/06/09/a-l-aube-de-l-ete-la-grande-desertion-des-saisonniers-du-tourisme-en-europe_6129468_3234.html"
     },
     {
       "text": "           \u00c9conomie  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Apr\u00e8s une phase d\u2019euphorie, le monde de la tech est \u00e0 l\u2019heure des \u00e9conomies  ",
       "url": "https://www.lemonde.fr/economie/article/2022/06/02/apres-une-phase-d-euphorie-le-monde-de-la-tech-est-a-l-heure-des-economies_6128617_3234.html"
     },
     {
-      "text": "           Chronique  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s \u00ab\u00a0De la gloire \u00e0 la peine, la m\u00e9saventure de Cazoo est appel\u00e9e \u00e0 se reproduire dans le milieu des entreprises technologiques\u00a0\u00bb   Philippe Escande    ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/08/de-la-gloire-a-la-peine-la-mesaventure-de-cazoo-est-appelee-a-se-reproduire-dans-le-milieu-des-entreprises-technologiques_6129372_3234.html"
+      "text": "           Chronique  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Mode\u00a0: \u00ab\u00a0Zara, une figure qui semble inoxydable, domine dans un paysage en ruine\u00a0\u00bb   Philippe Escande    ",
+      "url": "https://www.lemonde.fr/economie/article/2022/06/09/mode-zara-une-figure-qui-semble-inoxydable-domine-dans-un-paysage-en-ruine_6129522_3234.html"
     },
     {
-      "text": "           Tribune  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s \u00ab\u00a0Le processus de r\u00e9am\u00e9nagement de dettes des pays en d\u00e9veloppement\u00a0repose sur un \u00e9quilibre d\u00e9licat\u00a0\u00bb   Pierre Cailleteau Associ\u00e9 de Lazard Fr\u00e8res   ",
-      "url": "https://www.lemonde.fr/idees/article/2022/06/08/le-processus-de-reamenagement-de-dettes-des-pays-en-developpement-repose-sur-un-equilibre-delicat_6129330_3232.html"
+      "text": "           Tribune  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Electricit\u00e9\u00a0: \u00ab\u00a0Les d\u00e9fenseurs du march\u00e9 se contentent de solutions parcellaires dont ils ne ma\u00eetrisent pas les cons\u00e9quences\u00a0\u00bb   Anne Debr\u00e9geas \u00e9conomiste de l\u2019\u00e9nergie, porte-parole du syndicat SUD-Energie   ",
+      "url": "https://www.lemonde.fr/idees/article/2022/06/09/electricite-les-defenseurs-du-marche-se-contentent-de-solutions-parcellaires-dont-ils-ne-maitrisent-pas-les-consequences_6129473_3232.html"
     },
     {
       "text": "Vid\u00e9os",
@@ -2843,12 +2885,12 @@
       "url": "https://www.lemonde.fr/societe/video/2022/06/03/stade-de-france-comment-l-organisation-de-la-finale-de-la-ligue-des-champions-a-vire-au-chaos_6128843_3224.html"
     },
     {
-      "text": "            08:48    Enqu\u00eate Comment le si\u00e8ge de Marioupol a entra\u00een\u00e9 de lourdes pertes civiles  ",
-      "url": "https://www.lemonde.fr/videos/video/2022/06/01/ukraine-comment-le-siege-de-marioupol-a-entraine-de-lourdes-pertes-civiles_6128507_1669088.html"
-    },
-    {
       "text": "            10:21    International Cinquante\u00a0ans de la \u00ab\u00a0petite fille au Napalm\u00a0\u00bb\u00a0: pourquoi cette photo mythique n\u2019a pas arr\u00eat\u00e9 la guerre du Vietnam  ",
       "url": "https://www.lemonde.fr/international/video/2022/06/06/cinquante-ans-de-la-petite-fille-au-napalm-pourquoi-cette-photo-mythique-n-a-pas-arrete-la-guerre-du-vietnam_6129088_3210.html"
+    },
+    {
+      "text": "            08:48    Enqu\u00eate Comment le si\u00e8ge de Marioupol a entra\u00een\u00e9 de lourdes pertes civiles  ",
+      "url": "https://www.lemonde.fr/videos/video/2022/06/01/ukraine-comment-le-siege-de-marioupol-a-entraine-de-lourdes-pertes-civiles_6128507_1669088.html"
     },
     {
       "text": "            09:11    Culture 400 ans de Moli\u00e8re\u00a0: pourquoi est-il aussi c\u00e9l\u00e8bre\u00a0?  ",
@@ -2891,20 +2933,20 @@
       "url": "/idees-tribunes/"
     },
     {
-      "text": "           \u00c9ditorial Sant\u00e9\u00a0: tout un syst\u00e8me \u00e0 revoir  ",
-      "url": "https://www.lemonde.fr/idees/article/2022/06/08/sante-tout-un-systeme-a-revoir_6129351_3232.html"
-    },
-    {
-      "text": "           Chronique  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s \u00ab\u00a0Les smart cities chinoises passent de l\u2019utopie \u00e0 la dystopie\u00a0\u00bb   Fr\u00e9d\u00e9ric Lema\u00eetre P\u00e9kin, correspondant   ",
-      "url": "https://www.lemonde.fr/idees/article/2022/06/07/les-smart-cities-chinoises-passent-de-l-utopie-a-la-dystopie_6129239_3232.html"
+      "text": "           \u00c9ditorial La fin du moteur thermique, un virage indispensable  ",
+      "url": "https://www.lemonde.fr/idees/article/2022/06/09/la-fin-du-moteur-thermique-un-virage-indispensable_6129521_3232.html"
     },
     {
       "text": "           Chronique  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s \u00ab\u00a0Ce que joue Macron est sa trace dans l\u2019histoire et celle-ci ne peut plus tourner exclusivement autour de sa personne\u00a0\u00bb   Fran\u00e7oise Fressoz Editorialiste au \u00ab\u00a0Monde\u00a0\u00bb   ",
       "url": "https://www.lemonde.fr/idees/article/2022/06/07/ce-que-joue-macron-est-sa-trace-dans-l-histoire-et-celle-ci-ne-peut-plus-tourner-exclusivement-autour-de-sa-personne_6129150_3232.html"
     },
     {
-      "text": "           Tribune  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s \u00ab\u00a0La r\u00e9forme de l\u2019encadrement sup\u00e9rieur de l\u2019Etat menace l\u2019attractivit\u00e9 m\u00eame de la fonction publique\u00a0\u00bb   Collectif    ",
-      "url": "https://www.lemonde.fr/idees/article/2022/06/08/la-reforme-de-l-encadrement-superieur-de-l-etat-menace-l-attractivite-meme-de-la-fonction-publique_6129367_3232.html"
+      "text": "           Chronique  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Pouvoir d\u2019achat\u00a0: le prochain budget sera politique   Audrey Tonnelier    ",
+      "url": "https://www.lemonde.fr/idees/article/2022/06/09/pouvoir-d-achat-le-prochain-budget-sera-politique_6129480_3232.html"
+    },
+    {
+      "text": "           Tribune  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s D\u00e9serts m\u00e9dicaux\u00a0: \u00ab\u00a0J\u2019accuse l\u2019ordre des m\u00e9decins\u00a0!\u00a0\u00bb   Michel Debout professeur \u00e9m\u00e9rite de m\u00e9decine l\u00e9gale et droit de la sant\u00e9   ",
+      "url": "https://www.lemonde.fr/idees/article/2022/06/09/deserts-medicaux-j-accuse-l-ordre-des-medecins_6129537_3232.html"
     },
     {
       "text": "Culture",
@@ -2939,20 +2981,20 @@
       "url": "/scenes/"
     },
     {
-      "text": "           Culture  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Cin\u00e9ma : \u00ab\u00a0La Maman et la Putain\u00a0\u00bb, l\u2019acte d\u2019amour de Jean Eustache  ",
-      "url": "https://www.lemonde.fr/culture/article/2022/06/08/cinema-la-maman-et-la-putain-l-acte-d-amour-de-jean-eustache_6129385_3246.html"
+      "text": "           Entretien  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Crist\u00e8le Alves Meira, r\u00e9alisatrice\u00a0: \u00ab\u00a0J\u2019ai toujours jou\u00e9 sur la fronti\u00e8re entre r\u00e9alit\u00e9 et fiction\u00a0\u00bb  ",
+      "url": "https://www.lemonde.fr/culture/article/2022/06/09/cristele-alves-meira-realisatrice-j-ai-toujours-joue-sur-la-frontiere-entre-realite-et-fiction_6129547_3246.html"
     },
     {
-      "text": "           Culture  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Litt\u00e9rature\u00a0: le festival Etonnants Voyageurs cherche un nouveau souffle pour s\u2019exporter  ",
-      "url": "https://www.lemonde.fr/culture/article/2022/06/06/litterature-le-festival-etonnants-voyageurs-cherche-un-nouveau-souffle-pour-s-exporter_6129135_3246.html"
+      "text": "           Chronique  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s \u00ab\u00a0e bient\u00f4t muet\u00a0\u00bb, de Bernard Chambaz\u00a0: le feuilleton litt\u00e9raire de Camille Laurens   Camille Laurens \u00e9crivaine   ",
+      "url": "https://www.lemonde.fr/livres/article/2022/06/09/e-bientot-muet-de-bernard-chambaz-le-feuilleton-litteraire-de-camille-laurens_6129535_3260.html"
     },
     {
-      "text": "           Culture \u00ab\u00a0La Cuisine des monast\u00e8res\u00a0\u00bb, sur KTO\u00a0: d\u2019un office \u00e0 l\u2019autre  ",
-      "url": "https://www.lemonde.fr/culture/article/2022/06/08/la-cuisine-des-monasteres-sur-kto-d-un-office-a-l-autre_6129386_3246.html"
+      "text": "           Culture \u00ab\u00a0Innommable. L\u2019affaire Dutroux\u00a0\u00bb, sur Arte\u00a0: le fait divers tragique qui a \u00e9branl\u00e9 la Belgique  ",
+      "url": "https://www.lemonde.fr/culture/article/2022/06/08/innommable-l-affaire-dutroux-sur-arte-le-fait-divers-tragique-qui-a-ebranle-la-belgique_6129436_3246.html"
     },
     {
-      "text": "           Culture  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Jacques Villegl\u00e9, affichiste et chroniqueur de la France contemporaine, est mort  ",
-      "url": "https://www.lemonde.fr/culture/article/2022/06/07/jacques-villegle-affichiste-et-chroniqueur-de-la-france-contemporaine-est-mort_6129285_3246.html"
+      "text": "           Culture  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Le minist\u00e8re de la culture et le Quai d\u2019Orsay m\u00e9nagent Jean-Luc Martinez malgr\u00e9 sa mise en examen  ",
+      "url": "https://www.lemonde.fr/culture/article/2022/06/09/le-ministere-de-la-culture-et-le-quai-d-orsay-menagent-jean-luc-martinez-malgre-sa-mise-en-examen_6129492_3246.html"
     },
     {
       "text": "M le mag",
@@ -2991,8 +3033,8 @@
       "url": "/les-recettes-du-monde/"
     },
     {
-      "text": "           M le mag  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s \u00ab\u00a0Kiev a encore \u00e9t\u00e9 bombard\u00e9e ce matin. Mon c\u0153ur est descendu dans mon ventre d\u2019un coup. J\u2019ai appel\u00e9 tout le monde. Ils vont bien\u00a0\u00bb  ",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2022/06/07/kiev-a-encore-ete-bombardee-ce-matin-mon-c-ur-est-descendu-dans-mon-ventre-d-un-coup-j-ai-appele-tout-le-monde-ils-vont-bien_6129282_4500055.html"
+      "text": "           M le mag  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s \u00ab\u00a0Les foyers pour enfants, c\u2019est comme les \u00e9oliennes, tout le monde est pour, mais personne n\u2019en veut pr\u00e8s de chez soi\u00a0\u00bb  ",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2022/06/08/a-euffigneix-les-enfants-de-la-protection-sociale-pries-d-aller-voir-ailleurs_6129409_4500055.html"
     },
     {
       "text": "           M le mag  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s En Bretagne, les corbeaux de la discorde  ",
@@ -3119,140 +3161,128 @@
       "url": "/recherche/"
     },
     {
-      "text": "          Live  Article se d\u00e9roulant en direct    13:34     Guerre en Ukraine\u00a0: suivez notre direct           ",
-      "url": "https://www.lemonde.fr/international/live/2022/06/08/guerre-en-ukraine-en-direct-kiev-ne-deminera-pas-le-port-d-odessa-pour-reprendre-les-exportations-de-cereales-de-peur-d-une-attaque-russe_6129320_3210.html"
+      "text": "    12:37     Covid\u00a0: Shangha\u00ef va reconfiner 2,7\u00a0M d\u2019habitants           ",
+      "url": "https://www.lemonde.fr/planete/article/2022/06/09/covid-19-shanghai-va-reconfiner-2-7-millions-d-habitants-pour-les-depister_6129542_3244.html"
     },
     {
-      "text": "    12:34       Chasse aux promotions, recours au cr\u00e9dit, d\u00e9brouille\u2026 voyage dans la France qui se serre la ceinture           ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/08/chasse-aux-promotions-recours-au-credit-debrouille-la-france-qui-se-serre-la-ceinture_6129303_3234.html"
+      "text": "          Live  Article se d\u00e9roulant en direct    11:02     Suivez en\u00a0direct l\u2019actualit\u00e9 politique           ",
+      "url": "https://www.lemonde.fr/politique/live/2022/06/09/posez-vos-questions-a-jacques-de-maillard-sociologue-de-la-police-a-propos-du-clivage-gauche-droite-sur-le-maintien-de-l-ordre-et-la-critique-de-l-action-policiere_6129485_823448.html"
     },
     {
-      "text": "    12:24     Roissy-CDG\u00a0: vols annul\u00e9s jeudi           ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/08/un-quart-des-vols-annules-a-l-aeroport-de-roissy-cdg-en-raison-d-une-greve_6129377_3234.html"
+      "text": "          Live  Article se d\u00e9roulant en direct    11:00     Guerre en Ukraine\u00a0: suivez notre direct           ",
+      "url": "https://www.lemonde.fr/international/live/2022/06/09/guerre-en-ukraine-en-direct-kiev-pourrait-reprendre-sievierodonetsk-en-deux-trois-jours-avec-des-armes-occidentales-de-longue-portee_6129474_3210.html"
     },
     {
-      "text": "    11:18     Perquisition au si\u00e8ge d\u2019Orpea           ",
-      "url": "https://www.lemonde.fr/societe/article/2022/06/08/orpea-le-siege-dans-les-hauts-de-seine-et-les-directions-regionales-du-groupe-perquisitionnes_6129365_3224.html"
+      "text": "    10:54       Incidents au Stade de France\u00a0: le pr\u00e9fet de police de Paris reconna\u00eet \u00ab\u00a0un \u00e9chec\u00a0\u00bb et regrette \u00ab\u00a0l\u2019image \u00e9branl\u00e9e\u00a0\u00bb de la France            ",
+      "url": "https://www.lemonde.fr/politique/article/2022/06/09/incidents-au-stade-de-france-au-tour-du-prefet-de-police-et-de-la-federation-de-football-de-s-expliquer-devant-le-senat_6129467_823448.html"
     },
     {
-      "text": "    10:08     Nucl\u00e9aire\u00a0: Engie veut faire payer la Belgique           ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/08/afin-de-prolonger-deux-de-ses-centrales-nucleaires-engie-veut-faire-payer-la-belgique_6129346_3234.html"
-    },
-    {
-      "text": " Voir plus  ",
-      "url": "/actualite-en-continu/"
+      "text": "    10:30     La p\u00e9nurie de saisonniers met la Paca sous tension           ",
+      "url": "https://www.lemonde.fr/economie/article/2022/06/09/a-nice-le-manque-de-saisonniers-dans-l-hotellerie-restauration-met-le-secteur-sous-tension_6129517_3234.html"
     },
     {
       "text": " Voir plus  ",
       "url": "/actualite-en-continu/"
     },
     {
-      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s\u00ab\u00a0Une lente polarisation touche d\u00e9sormais la France et se ressent dans la campagne l\u00e9gislative\u00a0\u00bb                Les discussions sur les politiques publiques n\u2019occupent plus la place qui structurait la comp\u00e9tition \u00e9lectorale. ",
-      "url": "https://www.lemonde.fr/politique/article/2022/06/08/legislatives-2022-une-polarisation-peu-favorable-au-debat-politique_6129343_823448.html"
+      "text": " Voir plus  ",
+      "url": "/actualite-en-continu/"
     },
     {
-      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Abstention, score de la gauche unie.... A quatre jours du premier tour des l\u00e9gislatives, un scrutin incertain ",
-      "url": "https://www.lemonde.fr/politique/article/2022/06/08/legislatives-2022-a-quatre-jours-du-vote-un-scrutin-a-l-issue-incertaine_6129325_823448.html"
+      "text": "            Live  Article se d\u00e9roulant en direct Emmanuel Macron dans le Tarn pour \u00e9changer sur la s\u00e9curit\u00e9 en milieu rural\u00a0: suivez l\u2019actualit\u00e9 politique en direct                A trois jours des \u00e9lections l\u00e9gislatives, le pr\u00e9sident de la R\u00e9publique est \u00e0 Gaillac, avant de se rendre \u00e0 Puycelsi o\u00f9 il \u00e9changera avec des habitants. ",
+      "url": "https://www.lemonde.fr/politique/live/2022/06/09/posez-vos-questions-a-jacques-de-maillard-sociologue-de-la-police-a-propos-du-clivage-gauche-droite-sur-le-maintien-de-l-ordre-et-la-critique-de-l-action-policiere_6129485_823448.html"
     },
     {
-      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Le risque du d\u00e9sint\u00e9r\u00eat des Fran\u00e7ais aux l\u00e9gislatives ",
-      "url": "https://www.lemonde.fr/politique/article/2022/06/08/elections-legislatives-2022-le-risque-du-desinteret_6129345_823448.html"
+      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s Carole Delga, la frondeuse socialiste face \u00e0 la Nupes ",
+      "url": "https://www.lemonde.fr/politique/article/2022/06/09/elections-legislatives-2022-carole-delga-la-frondeuse-socialiste-face-a-la-nupes_6129464_823448.html"
     },
     {
-      "text": "                   Live  Article se d\u00e9roulant en direct L\u2019Ukraine ne d\u00e9minera pas le port d\u2019Odessa, pour reprendre les exportations de c\u00e9r\u00e9ales, de peur d\u2019une attaque russe   ",
-      "url": "https://www.lemonde.fr/international/live/2022/06/08/guerre-en-ukraine-en-direct-kiev-ne-deminera-pas-le-port-d-odessa-pour-reprendre-les-exportations-de-cereales-de-peur-d-une-attaque-russe_6129320_3210.html"
+      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s L\u00e9gislatives\u00a0: deux gauches, deux ambiances dans le 20e\u00a0arrondissement de Paris ",
+      "url": "https://www.lemonde.fr/politique/article/2022/06/09/elections-legislatives-deux-gauches-deux-ambiances-dans-le-20e-arrondissement-de-paris_6129530_823448.html"
     },
     {
-      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sCrise de l\u2019h\u00f4pital\u00a0: face \u00e0 la catastrophe annonc\u00e9e, comment sauver les urgences\u00a0?   ",
-      "url": "https://www.lemonde.fr/societe/article/2022/06/08/crise-de-l-hopital-comment-sauver-les-urgences_6129298_3224.html"
+      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sL\u00e9gislatives\u00a0: ancr\u00e9 au nord, le Rassemblement national r\u00eave de circonscriptions aux quatre coins de la France   ",
+      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/09/legislatives-2022-le-rassemblement-national-penche-toujours-au-nord_6129465_6104324.html"
     },
     {
-      "text": "            L\u00e9gislatives\u00a0: le processus d\u2019adh\u00e9sion du PS \u00e0 la Nupes invalid\u00e9 par la justice   Le tribunal judiciaire de Cr\u00e9teil invalide les conditions de validation de l\u2019accord de\u00a0rassemblement vot\u00e9 par le Parti socialiste.   ",
-      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/08/elections-legislatives-2022-revers-judiciaire-pour-la-nupes_6129366_6104324.html"
+      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sPar un \u00ab\u00a0vote historique\u00a0\u00bb, le moteur \u00e0 explosion appel\u00e9 \u00e0 dispara\u00eetre en Europe   ",
+      "url": "https://www.lemonde.fr/economie/article/2022/06/09/par-un-vote-historique-le-moteur-a-explosion-appele-a-disparaitre-en-europe_6129538_3234.html"
     },
     {
-      "text": "            La propagation \u00ab\u00a0foment\u00e9e\u00a0\u00bb de la variole du singe\u00a0: les failles d\u2019une th\u00e9orie du complot  Depuis la mi-mai, un exercice fictif organis\u00e9 par la Nuclear Threat Initiative, est instrumentalis\u00e9 pour prouver que l\u2019\u00e9pid\u00e9mie serait orchestr\u00e9e. Comme souvent, le raisonnement est fragile.   ",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/06/08/la-propagation-fomentee-de-la-variole-du-singe-les-failles-d-une-theorie-du-complot_6129370_4355770.html"
+      "text": "                   Live  Article se d\u00e9roulant en direct Guerre en Ukraine en direct\u00a0: man\u0153uvres russes en mer Baltique, sur fond de tensions avec l\u2019OTAN  Plusieurs dizaines de navires russes prenaient part, jeudi, \u00e0 des exercices militaires en mer Baltique, sur fond de tensions croissantes autour de cette \u00e9tendue strat\u00e9gique, o\u00f9 l\u2019OTAN m\u00e8ne aussi des man\u0153uvres actuellement.   ",
+      "url": "https://www.lemonde.fr/international/live/2022/06/09/guerre-en-ukraine-en-direct-kiev-pourrait-reprendre-sievierodonetsk-en-deux-trois-jours-avec-des-armes-occidentales-de-longue-portee_6129474_3210.html"
     },
     {
-      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sA Liverpool, l\u2019immense col\u00e8re des supporteurs contre les autorit\u00e9s fran\u00e7aises  Dix jours apr\u00e8s les \u00e9v\u00e9nements au Stade du France, le club de football et les supporteurs demandent des excuses aux autorit\u00e9s fran\u00e7aises.   ",
-      "url": "https://www.lemonde.fr/societe/article/2022/06/08/a-liverpool-l-immense-colere-des-supporteurs-contre-les-autorites-francaises_6129333_3224.html"
+      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sNucl\u00e9aire\u00a0: l\u2019Iran somm\u00e9 de respecter ses obligations  Une r\u00e9solution, adopt\u00e9e par trente Etats si\u00e9geant \u00e0 l\u2019Agence internationale de l\u2019\u00e9nergie atomique, vise \u00e0 mettre la pression sur T\u00e9h\u00e9ran alors que les tractations engag\u00e9es pour relancer l\u2019accord sur ses activit\u00e9s nucl\u00e9aires patinent.   ",
+      "url": "https://www.lemonde.fr/international/article/2022/06/09/nucleaire-l-iran-somme-de-respecter-ses-obligations_6129541_3210.html"
     },
     {
-      "text": "         podcast    \u00c9pisode du 08 juin 2022      Finlande, Su\u00e8de\u00a0: la renaissance de l\u2019OTAN\u00a0?    \u00c9couter l'\u00e9pisode   ",
-      "url": "https://www.lemonde.fr/podcasts/article/2022/06/08/finlande-suede-la-renaissance-de-l-otan_6129307_5463015.html#origin=podcast_home"
+      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sHassan Ahmed, l\u2019homme qui sauve les coraux des Maldives  Le pr\u00e9sident de l\u2019ONG Save the Beach m\u00e8ne un programme de restauration des r\u00e9cifs, \u00e9cosyst\u00e8mes vitaux, menac\u00e9s par le changement climatique et l\u2019urbanisation rapide de l\u2019archipel.   ",
+      "url": "https://www.lemonde.fr/planete/article/2022/06/08/journee-mondiale-de-l-ocean-hassan-ahmed-l-homme-qui-sauve-les-coraux-des-maldives_6129382_3244.html"
     },
     {
-      "text": "             D\u00e9cryptages Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sChasse aux promotions, recours au cr\u00e9dit, d\u00e9brouille\u2026 Voyage dans la France qui se serre la ceinture Une s\u00e9rie d\u2019indicateurs permet de mesurer, au-del\u00e0 des statistiques officielles, comment la flamb\u00e9e des prix bouscule le quotidien des m\u00e9nages, du logement aux transports, en passant par les courses alimentaires et les habitudes culturelles.   10 min de lecture   ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/08/chasse-aux-promotions-recours-au-credit-debrouille-la-france-qui-se-serre-la-ceinture_6129303_3234.html"
+      "text": "         podcast    \u00c9pisode du 07 juin 2022      Charles Gardou\u00a0: \u00ab\u00a0Dans la soci\u00e9t\u00e9, il y a une hi\u00e9rarchisation des vies, entre valides et handicap\u00e9s\u00a0\u00bb (11/12)    \u00c9couter l'\u00e9pisode   ",
+      "url": "https://www.lemonde.fr/podcasts/article/2022/06/07/podcast-charles-gardou-dans-la-societe-il-y-a-une-hierarchisation-des-vies-entre-valides-et-handicapes-11-12_6129240_5463015.html#origin=podcast_home"
     },
     {
-      "text": "                   Live  Article se d\u00e9roulant en direct L\u2019actualit\u00e9 politique en direct\u00a0: le gouvernement d\u00e9fend les mesures pour le pouvoir d\u2019achat, attendues avant la fin de l\u2019ann\u00e9e   ",
-      "url": "https://www.lemonde.fr/politique/live/2022/06/08/legislatives-2022-en-direct-le-gouvernement-defend-les-mesures-pour-le-pouvoir-d-achat-attendues-avant-la-fin-de-l-annee_6129328_823448.html"
+      "text": "             Reportage   Cl\u00e9mence Apetogbor Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sA Nice, le manque de saisonniers dans l\u2019h\u00f4tellerie-restauration met le secteur sous tension Plagistes et restaurateurs peinent \u00e0 trouver des saisonniers pour compl\u00e9ter leurs \u00e9quipes, alors que la saison d\u00e9marre en fanfare.   2 min de lecture   ",
+      "url": "https://www.lemonde.fr/economie/article/2022/06/09/a-nice-le-manque-de-saisonniers-dans-l-hotellerie-restauration-met-le-secteur-sous-tension_6129517_3234.html"
     },
     {
-      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sEn France, le spectre d\u2019une r\u00e9cession sur fond d\u2019acc\u00e9l\u00e9ration de l\u2019inflation   ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/08/en-france-le-spectre-d-une-recession-sur-fond-d-acceleration-de-l-inflation_6129356_3234.html"
+      "text": "            Incidents au Stade de France\u00a0: le pr\u00e9fet de\u00a0police de Paris reconna\u00eet \u00ab\u00a0un \u00e9chec\u00a0\u00bb et\u00a0regrette \u00ab\u00a0l\u2019image \u00e9branl\u00e9e\u00a0\u00bb de\u00a0la France   ",
+      "url": "https://www.lemonde.fr/politique/article/2022/06/09/incidents-au-stade-de-france-au-tour-du-prefet-de-police-et-de-la-federation-de-football-de-s-expliquer-devant-le-senat_6129467_823448.html"
     },
     {
-      "text": "    Provence, Alpes, C\u00f4te d\u2019Azur\u00a0: 3 destinations pour toutes les saisons ",
-      "url": "https://www.lemonde.fr/onatousbesoindusud/article/2022/04/06/provence-alpes-cote-d-azur-3-destinations-pour-toutes-les-saisons_6120829_218.html"
+      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sDamien Abad, ministre en campagne, joue son va-tout aux l\u00e9gislatives dans l\u2019Ain   ",
+      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/09/damien-abad-ministre-en-campagne-joue-son-va-tout-aux-legislatives-dans-l-ain_6129505_6104324.html"
     },
     {
-      "text": "            Un quart des vols annul\u00e9s \u00e0 l\u2019a\u00e9roport de\u00a0Roissy\u00a0-\u00a0Charles-de-Gaulle, en\u00a0raison d\u2019une gr\u00e8ve   ",
+      "text": "    Pittsburgh d\u00e9voile un plan de mobilit\u00e9 sur cinquante ans avec l\u2019hyperloop - Vers la mobilit\u00e9 de demain ",
+      "url": "https://evenements.courrierinternational.com/vers-la-mobilite-de-demain/pittsburgh-devoile-un-plan-de-mobilite-sur-cinquante-ans-avec-lhyperloop/"
+    },
+    {
+      "text": "            Covid-19\u00a0: Shangha\u00ef va reconfiner 2,7\u00a0millions d\u2019habitants pour les d\u00e9pister   ",
+      "url": "https://www.lemonde.fr/planete/article/2022/06/09/covid-19-shanghai-va-reconfiner-2-7-millions-d-habitants-pour-les-depister_6129542_3244.html"
+    },
+    {
+      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sKorian vis\u00e9, apr\u00e8s Orpea, par des plaintes de famille   ",
+      "url": "https://www.lemonde.fr/societe/article/2022/06/09/apres-orpea-korian-vise-a-son-tour-par-des-plaintes-de-famille_6129509_3224.html"
+    },
+    {
+      "text": " Le Br\u00e9sil confront\u00e9 au retour de la faim   ",
+      "url": "https://www.lemonde.fr/economie/article/2022/06/09/le-bresil-confronte-au-retour-de-la-faim_6129499_3234.html"
+    },
+    {
+      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sPouvoir d\u2019achat\u00a0: le gouvernement n\u2019exclut pas de mettre \u00e0 contribution les entreprises   ",
+      "url": "https://www.lemonde.fr/politique/article/2022/06/09/pouvoir-d-achat-emmanuel-macron-pourrait-revenir-sur-ses-promesses-aux-entreprises_6129460_823448.html"
+    },
+    {
+      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sP\u00e9kin et Phnom Penh confirment leur coop\u00e9ration sur la base navale de Ream   ",
+      "url": "https://www.lemonde.fr/international/article/2022/06/09/pekin-et-phnom-penh-confirment-leur-cooperation-sur-la-base-navale-de-ream_6129540_3210.html"
+    },
+    {
+      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sLa justice s\u2019oppose au renseignement dans une affaire d\u2019espionnage en France au profit de la Cor\u00e9e du Nord   ",
+      "url": "https://www.lemonde.fr/international/article/2022/06/09/la-justice-s-oppose-au-renseignement-dans-une-affaire-d-espionnage-en-france-au-profit-de-la-coree-du-nord_6129497_3210.html"
+    },
+    {
+      "text": " Un quart des vols annul\u00e9s \u00e0 l\u2019a\u00e9roport de\u00a0Roissy\u00a0-\u00a0Charles-de-Gaulle, en\u00a0raison d\u2019une gr\u00e8ve   ",
       "url": "https://www.lemonde.fr/economie/article/2022/06/08/un-quart-des-vols-annules-a-l-aeroport-de-roissy-cdg-en-raison-d-une-greve_6129377_3234.html"
     },
     {
-      "text": "            Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sEngie veut faire payer la Belgique, afin de prolonger deux de ses centrales nucl\u00e9aires   ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/08/afin-de-prolonger-deux-de-ses-centrales-nucleaires-engie-veut-faire-payer-la-belgique_6129346_3234.html"
+      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sEn R\u00e9publique dominicaine, le ministre de l\u2019environnement abattu dans son bureau   ",
+      "url": "https://www.lemonde.fr/international/article/2022/06/09/en-republique-dominicaine-le-ministre-de-l-environnement-abattu-dans-son-bureau_6129515_3210.html"
     },
     {
-      "text": " Orpea\u00a0: le si\u00e8ge dans les Hauts-de-Seine et les directions r\u00e9gionales du groupe perquisitionn\u00e9s   ",
-      "url": "https://www.lemonde.fr/societe/article/2022/06/08/orpea-le-siege-dans-les-hauts-de-seine-et-les-directions-regionales-du-groupe-perquisitionnes_6129365_3224.html"
+      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sLogement\u00a0: \u00ab\u00a0En cas de p\u00e9ril, tout occupant de bonne foi doit \u00eatre relog\u00e9\u00a0\u00bb       ",
+      "url": "https://www.lemonde.fr/societe/article/2022/06/09/logement-en-cas-de-peril-tout-occupant-de-bonne-foi-doit-etre-reloge_6129534_3224.html"
     },
     {
-      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sGuerre en Ukraine\u00a0: menac\u00e9s d\u2019enlisement sur le terrain, Kiev et Moscou adaptent leur strat\u00e9gie   ",
-      "url": "https://www.lemonde.fr/international/article/2022/06/08/guerre-en-ukraine-menaces-d-enlisement-sur-le-terrain-kiev-et-moscou-adaptent-leur-strategie_6129347_3210.html"
-    },
-    {
-      "text": " En RDC, m\u00e9moire et travail de r\u00e9conciliation au deuxi\u00e8me jour de la visite du roi des Belges   ",
-      "url": "https://www.lemonde.fr/afrique/article/2022/06/08/en-rdc-memoire-et-travail-de-reconciliation-au-deuxieme-jour-de-la-visite-du-roi-des-belges_6129337_3212.html"
-    },
-    {
-      "text": " Selon une enqu\u00eate europ\u00e9enne, un jeune sur deux ach\u00e8te des produits contrefaits   ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/08/selon-une-enquete-europeenne-un-jeune-sur-deux-achete-des-produits-contrefaits_6129316_3234.html"
-    },
-    {
-      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sA Duba\u00ef, arrestation des fr\u00e8res Gupta\u00a0: au c\u0153ur du plus tentaculaire scandale de corruption en Afrique du Sud   ",
-      "url": "https://www.lemonde.fr/afrique/article/2022/06/08/a-dubai-arrestation-des-freres-gupta-au-c-ur-du-plus-tentaculaire-scandale-de-corruption-en-afrique-du-sud_6129357_3212.html"
-    },
-    {
-      "text": " Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sLe Conseil constitutionnel franchit le cap de la milli\u00e8me\u202fQPC   ",
-      "url": "https://www.lemonde.fr/societe/article/2022/06/07/le-conseil-constitutionnel-franchit-le-cap-de-la-1000e-qpc_6129277_3224.html"
-    },
-    {
-      "text": " Ehpad\u00a0: le groupe Korian vis\u00e9 par trente plaintes   ",
-      "url": "https://www.lemonde.fr/societe/article/2022/06/08/ehpad-le-groupe-korian-vise-par-trente-plaintes_6129297_3224.html"
-    },
-    {
-      "text": " Logiciel espion Pegasus\u00a0: une ex-ministre espagnole accuse le Maroc d\u2019avoir proc\u00e9d\u00e9 \u00e0 des \u00ab\u00a0\u00e9coutes\u00a0\u00bb   ",
-      "url": "https://www.lemonde.fr/afrique/article/2022/06/08/logiciel-espion-pegasus-une-ex-ministre-espagnole-accuse-le-maroc-d-avoir-procede-a-des-ecoutes_6129354_3212.html"
+      "text": " Mineurs disparus sous terre au Burkina\u00a0Faso\u00a0: un septi\u00e8me corps retrouv\u00e9   ",
+      "url": "https://www.lemonde.fr/afrique/article/2022/06/09/mineurs-disparus-sous-terre-au-burkina-faso-un-septieme-corps-retrouve_6129496_3212.html"
     },
     {
       "text": "Services",
       "url": "/services/"
-    },
-    {
-      "text": "Comparez et trouvez votre formation id\u00e9ale",
-      "url": "https://formation-professionnelle.lemonde.fr/"
-    },
-    {
-      "text": "D\u00e9veloppement personnel : d\u00e9couvrez nos formations d\u00e9di\u00e9es",
-      "url": "https://formation-professionnelle.lemonde.fr/recherche/formation-developpement-personnel"
-    },
-    {
-      "text": "Apprenez une nouvelle langue ou devenez bilingue",
-      "url": "https://formation-professionnelle.lemonde.fr/recherche/formation-langue"
     },
     {
       "text": "Instax ou Polaroid : les meilleurs appareils photo instantan\u00e9s",
@@ -3267,80 +3297,92 @@
       "url": "https://www.lemonde.fr/guides-d-achat/article/2022/01/17/les-meilleurs-pianos-numeriques-pas-chers-pour-debutants_6109833_5306571.html"
     },
     {
+      "text": "Code promo Asos valide sur les produits visage et corps: 25% de remise",
+      "url": "https://www.lemonde.fr/codespromo/asos"
+    },
+    {
       "text": "Remise anniversaire : 20\u20ac offerts en code promo Pandora",
       "url": "https://www.lemonde.fr/codespromo/pandora"
     },
     {
-      "text": "15\u20ac offerts avec ce code promotionnel Manomano Pro",
-      "url": "https://www.lemonde.fr/codespromo/manomano"
+      "text": "10% de r\u00e9duction \u00e9tudiant chez Foot Locker avec un code Unidays",
+      "url": "https://www.lemonde.fr/codespromo/foot-locker"
     },
     {
-      "text": "10% de remise minimum avec les ventes priv\u00e9es du jour",
-      "url": "https://www.lemonde.fr/codespromo/zalando-prive"
+      "text": "Comparez et trouvez votre formation id\u00e9ale",
+      "url": "https://formation-professionnelle.lemonde.fr/"
     },
     {
-      "text": "             Enqu\u00eate   Lorraine de Foucher  Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sA Paris, le proc\u00e8s d\u2019un p\u00e8re agresseur sexuel aux nombreuses victimes La cour d\u2019assises va juger, \u00e0 partir de mardi, un homme de 39\u00a0ans pour \u00ab\u00a0viol, tentative de viol et agression sexuelle\u00a0par ascendant \u00bb sur sa fille de 5 ans. Fait exceptionnel, le huis clos ne sera pas demand\u00e9.   9 min de lecture   ",
-      "url": "https://www.lemonde.fr/societe/article/2022/06/07/a-paris-le-proces-d-un-pere-agresseur-sexuel-aux-nombreuses-victimes_6129165_3224.html"
+      "text": "D\u00e9veloppement personnel : d\u00e9couvrez nos formations d\u00e9di\u00e9es",
+      "url": "https://formation-professionnelle.lemonde.fr/recherche/formation-developpement-personnel"
     },
     {
-      "text": "             Lettre de\u2026   Thomas Wieder Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sEn Allemagne, la vie sexuelle des soldats en d\u00e9bat Fin mai, le tribunal administratif f\u00e9d\u00e9ral a rejet\u00e9 le recours d\u00e9pos\u00e9 par une lieutenante-colonelle de la Bundeswehr contre un bl\u00e2me inflig\u00e9 \u00e0 cause de son profil Tinder. L\u2019affaire \u00e9meut dans les rangs politiques et associatifs.   4 min de lecture   ",
-      "url": "https://www.lemonde.fr/international/article/2022/06/08/en-allemagne-la-vie-sexuelle-des-soldats-en-debat_6129300_3210.html"
+      "text": "Apprenez une nouvelle langue ou devenez bilingue",
+      "url": "https://formation-professionnelle.lemonde.fr/recherche/formation-langue"
     },
     {
-      "text": "             D\u00e9cryptages   St\u00e9phane Mandard Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sEn France, l\u2019air du m\u00e9tro est trois fois plus pollu\u00e9 qu\u2019\u00e0 l\u2019ext\u00e9rieur, alertent les autorit\u00e9s sanitaires L\u2019Agence nationale de s\u00e9curit\u00e9 sanitaire publie mercredi un rapport d\u2019expertise sur la pollution de l\u2019air dans les enceintes ferroviaires souterraines et propose de nouveaux indicateurs avec des concentrations \u00e0 ne pas d\u00e9passer.   3 min de lecture   ",
-      "url": "https://www.lemonde.fr/planete/article/2022/06/08/en-france-l-air-du-metro-est-trois-fois-plus-pollue-qu-a-l-exterieur-alertent-les-autorites-sanitaires_6129294_3244.html"
+      "text": "             D\u00e9cryptages Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sA l\u2019aube de l\u2019\u00e9t\u00e9, la grande d\u00e9sertion des saisonniers du tourisme en Europe Italie, Gr\u00e8ce, France, Espagne\u00a0: toutes les destinations touristiques sont confront\u00e9es \u00e0 la m\u00eame disparition des serveurs, cuisiniers ou employ\u00e9s de m\u00e9nage, rebut\u00e9s par les bas salaires et un mode de vie d\u00e9s\u00e9quilibr\u00e9. Les employeurs cherchent la parade.   6 min de lecture   ",
+      "url": "https://www.lemonde.fr/economie/article/2022/06/09/a-l-aube-de-l-ete-la-grande-desertion-des-saisonniers-du-tourisme-en-europe_6129468_3234.html"
+    },
+    {
+      "text": "             D\u00e9cryptages   Camille Stromboni Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sCrise de l\u2019h\u00f4pital\u00a0: face \u00e0 la catastrophe annonc\u00e9e, comment sauver les urgences\u00a0? La ministre de la sant\u00e9, Brigitte Bourguignon, rencontre depuis dix jours les acteurs de la sant\u00e9, qui appellent \u00e0 agir sans attendre. Si certaines mesures font l\u2019unanimit\u00e9, comme la revalorisation du travail de nuit, d\u2019autres provoquent d\u00e9j\u00e0 de vifs d\u00e9bats.   7 min de lecture   ",
+      "url": "https://www.lemonde.fr/societe/article/2022/06/08/crise-de-l-hopital-comment-sauver-les-urgences_6129298_3224.html"
+    },
+    {
+      "text": "             R\u00e9cit   Sol\u00e8ne Cordier Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sDeux m\u00e8res au proc\u00e8s d\u2019un homme accus\u00e9 d\u2019inceste La cour d\u2019assises de Paris juge un homme de 39\u00a0ans pour \u00ab\u00a0viol, tentative de viol et agression sexuelle par ascendant\u00a0\u00bb sur sa fille, Louise, 5\u00a0ans au moment de la r\u00e9v\u00e9lation des faits. Mercredi, deux femmes ont t\u00e9moign\u00e9\u00a0: la m\u00e8re de l\u2019accus\u00e9 et celle de l\u2019enfant.   4 min de lecture   ",
+      "url": "https://www.lemonde.fr/societe/article/2022/06/09/deux-meres-au-proces-d-un-homme-accuse-d-inceste_6129456_3224.html"
     },
     {
       "text": "Id\u00e9es",
       "url": "/idees/"
     },
     {
-      "text": "  \u00c9ditorial Sant\u00e9\u00a0: tout un syst\u00e8me \u00e0 revoir   Le Monde  ",
-      "url": "https://www.lemonde.fr/idees/article/2022/06/08/sante-tout-un-systeme-a-revoir_6129351_3232.html"
+      "text": "  \u00c9ditorial La fin du moteur thermique, un virage indispensable   Le Monde  ",
+      "url": "https://www.lemonde.fr/idees/article/2022/06/09/la-fin-du-moteur-thermique-un-virage-indispensable_6129521_3232.html"
     },
     {
-      "text": "  Chronique Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s\u00ab\u00a0Ce que joue Macron est sa trace dans l\u2019histoire et celle-ci ne peut plus tourner exclusivement autour de sa personne\u00a0\u00bb        Fran\u00e7oise Fressoz Editorialiste au \u00ab\u00a0Monde\u00a0\u00bb    ",
-      "url": "https://www.lemonde.fr/idees/article/2022/06/07/ce-que-joue-macron-est-sa-trace-dans-l-histoire-et-celle-ci-ne-peut-plus-tourner-exclusivement-autour-de-sa-personne_6129150_3232.html"
+      "text": "  Chronique Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9sPouvoir d\u2019achat\u00a0: le prochain budget sera politique        Audrey Tonnelier     ",
+      "url": "https://www.lemonde.fr/idees/article/2022/06/09/pouvoir-d-achat-le-prochain-budget-sera-politique_6129480_3232.html"
     },
     {
-      "text": "  Chronique Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s\u00ab\u00a0De la gloire \u00e0 la peine, la m\u00e9saventure de Cazoo est appel\u00e9e \u00e0 se reproduire dans le milieu des entreprises technologiques\u00a0\u00bb        Philippe Escande     ",
-      "url": "https://www.lemonde.fr/economie/article/2022/06/08/de-la-gloire-a-la-peine-la-mesaventure-de-cazoo-est-appelee-a-se-reproduire-dans-le-milieu-des-entreprises-technologiques_6129372_3234.html"
+      "text": "  Analyse Article r\u00e9serv\u00e9 \u00e0 nos abonn\u00e9s\u00ab\u00a0Une lente polarisation touche d\u00e9sormais la France et se ressent dans la campagne l\u00e9gislative\u00a0\u00bb      Martial Foucault professeur \u00e0 Sciences Po et directeur du Cevipof    ",
+      "url": "https://www.lemonde.fr/politique/article/2022/06/08/legislatives-2022-une-polarisation-peu-favorable-au-debat-politique_6129343_823448.html"
     },
     {
-      "text": "  Guerre en Ukraine en direct\u00a0: Volodymyr Zelensky loue la \u00ab\u00a0d\u00e9fense absolument h\u00e9ro\u00efque\u00a0\u00bb du Donbass ",
-      "url": "https://www.lemonde.fr/international/live/2022/06/08/guerre-en-ukraine-en-direct-volodymyr-zelensky-loue-la-defense-absolument-heroique-du-donbass_6129173_3210.html"
+      "text": "  Guerre en Ukraine en direct\u00a0: la d\u00e9couverte de corps se poursuit \u00e0 Marioupol\u00a0; Sievierodonetsk en proie \u00e0 d\u2019intenses combats ",
+      "url": "https://www.lemonde.fr/international/live/2022/06/08/guerre-en-ukraine-en-direct-la-decouverte-de-corps-se-poursuit-a-marioupol-sievierodonetsk-en-proie-a-d-intenses-combats_6129320_3210.html"
     },
     {
-      "text": "  L\u00e9gislatives 2022\u00a0- Le Conseil d\u2019Etat consid\u00e8re la Nupes \u00ab\u00a0comme une nuance politique unique\u00a0\u00bb, Elisabeth Borne liste ses \u00ab\u00a0mesures d\u2019urgences\u00a0\u00bb\u00a0: revivez la journ\u00e9e politique du 7 juin ",
-      "url": "https://www.lemonde.fr/politique/live/2022/06/07/legislatives-2022-le-conseil-d-etat-demande-au-ministere-de-l-interieur-de-considerer-la-nupes-comme-une-nuance-politique-unique_6129178_823448.html"
+      "text": "  Plan climat de l\u2019Union europ\u00e9enne\u00a0: le Parlement vote pour l\u2019interdiction de la vente de voitures thermiques neuves \u00e0 partir de 2035 ",
+      "url": "https://www.lemonde.fr/planete/article/2022/06/08/climat-les-eurodeputes-s-opposent-a-un-texte-de-reforme-du-marche-carbone_6129406_3244.html"
     },
     {
-      "text": "  Ukraine\u00a0: des \u00e9trangers qui ont fui la guerre somm\u00e9s de quitter la France ",
-      "url": "https://www.lemonde.fr/afrique/article/2022/06/07/ukraine-des-etrangers-qui-ont-fui-la-guerre-sommes-de-quitter-la-france_6129293_3212.html"
+      "text": "  Duel normand entre Jean-Luc M\u00e9lenchon et Elisabeth Borne, Emmanuel Macron annonce des mesures pour le sport\u00a0: l\u2019actualit\u00e9 politique du 8\u00a0juin ",
+      "url": "https://www.lemonde.fr/politique/live/2022/06/08/legislatives-2022-emmanuel-macron-annonce-des-mesures-pour-le-sport-jean-luc-melenchon-dans-le-calvados_6129328_823448.html"
     },
     {
-      "text": "  A Moscou, Dmitri Medvedev contre les \u00ab\u00a0d\u00e9g\u00e9n\u00e9r\u00e9s\u00a0\u00bb de l\u2019Occident ",
-      "url": "https://www.lemonde.fr/international/article/2022/06/08/a-moscou-dmitri-medvedev-contre-les-degeneres-de-l-occident_6129299_3210.html"
+      "text": "  L\u00e9gislatives 2022\u00a0: le PS davantage fractur\u00e9 apr\u00e8s la d\u00e9cision de justice remettant en cause son processus d\u2019adh\u00e9sion \u00e0 la Nupes ",
+      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/08/elections-legislatives-2022-une-decision-de-justice-fracture-davantage-le-parti-socialiste_6129427_6104324.html"
     },
     {
-      "text": "  En Allemagne, la vie sexuelle des soldats en d\u00e9bat ",
-      "url": "https://www.lemonde.fr/international/article/2022/06/08/en-allemagne-la-vie-sexuelle-des-soldats-en-debat_6129300_3210.html"
+      "text": "  A l\u2019aube de l\u2019\u00e9t\u00e9, la grande d\u00e9sertion des saisonniers du tourisme en Europe ",
+      "url": "https://www.lemonde.fr/economie/article/2022/06/09/a-l-aube-de-l-ete-la-grande-desertion-des-saisonniers-du-tourisme-en-europe_6129468_3234.html"
     },
     {
-      "text": "  Comment des d\u00e9put\u00e9s trafiquent leur propre fiche Wikip\u00e9dia ",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/06/07/quand-les-deputes-trafiquent-leur-propre-fiche-wikipedia_6129268_4355770.html"
+      "text": "  \u00ab\u00a0Pour les Etats-Unis, il n\u2019est pas question de laisser Poutine les d\u00e9tourner de leur principal objectif strat\u00e9gique\u00a0: l\u2019endiguement de la Chine\u00a0\u00bb ",
+      "url": "https://www.lemonde.fr/idees/article/2022/06/08/l-echelle-des-priorites-des-etats-unis-est-bouleversee-par-l-invasion-russe-de-l-ukraine_6129388_3232.html"
     },
     {
-      "text": "  Guerre en Ukraine, en direct\u00a0: Kiev ne d\u00e9minera pas le port d\u2019Odessa, pour reprendre les exportations de c\u00e9r\u00e9ales, de peur d\u2019une attaque russe ",
-      "url": "https://www.lemonde.fr/international/live/2022/06/08/guerre-en-ukraine-en-direct-kiev-ne-deminera-pas-le-port-d-odessa-pour-reprendre-les-exportations-de-cereales-de-peur-d-une-attaque-russe_6129320_3210.html"
+      "text": "  Guerre en Ukraine en direct\u00a0: man\u0153uvres russes en mer Baltique, sur fond de tensions avec l\u2019OTAN ",
+      "url": "https://www.lemonde.fr/international/live/2022/06/09/guerre-en-ukraine-en-direct-kiev-pourrait-reprendre-sievierodonetsk-en-deux-trois-jours-avec-des-armes-occidentales-de-longue-portee_6129474_3210.html"
     },
     {
-      "text": "  Elections l\u00e9gislatives 2022\u00a0: le Conseil d\u2019Etat donne raison \u00e0 la Nupes sur l\u2019attribution des nuances politiques ",
-      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/07/elections-legislatives-2022-le-conseil-d-etat-donne-raison-a-la-nupes-sur-l-attribution-des-nuances-politiques_6129269_6104324.html"
+      "text": "  Le Qu\u00e9bec met les enfants au travail pour faire face \u00e0 la p\u00e9nurie de main-d\u2019\u0153uvre ",
+      "url": "https://www.lemonde.fr/economie/article/2022/06/09/le-quebec-met-les-enfants-au-travail-pour-faire-face-a-la-penurie-de-main-d-uvre_6129453_3234.html"
     },
     {
-      "text": "  Mobilisation pour les h\u00f4pitaux\u00a0: des soignants, inquiets et lass\u00e9s, manifestent avant des vacances d\u2019\u00e9t\u00e9 qui s\u2019annoncent compliqu\u00e9es ",
-      "url": "https://www.lemonde.fr/societe/live/2022/06/07/mobilisation-pour-les-hopitaux-on-plie-on-encaisse-mais-la-on-est-face-au-mur_6129184_3224.html"
+      "text": "  Le Parlement europ\u00e9en rejette une r\u00e9forme-cl\u00e9 pour atteindre la neutralit\u00e9 carbone ",
+      "url": "https://www.lemonde.fr/planete/article/2022/06/08/le-parlement-europeen-rejette-une-reforme-cle-pour-atteindre-la-neutralite-carbone_6129443_3244.html"
     },
     {
       "text": "Services",
@@ -3355,12 +3397,24 @@
       "url": "https://ateliers.lemonde.fr/#origin=Blocartsg"
     },
     {
-      "text": "  Codes Promo Pandora   ",
-      "url": "https://www.lemonde.fr/codespromo/pandora"
+      "text": "  Codes Promo Oscaro   ",
+      "url": "https://www.lemonde.fr/codespromo/oscaro"
     },
     {
       "text": "  Codes Promo Zalando Priv\u00e9   ",
       "url": "https://www.lemonde.fr/codespromo/zalando-prive"
+    },
+    {
+      "text": "  Codes Promo Maisons du Monde   ",
+      "url": "https://www.lemonde.fr/codespromo/maisons-du-monde"
+    },
+    {
+      "text": "  Codes Promo ASOS   ",
+      "url": "https://www.lemonde.fr/codespromo/asos"
+    },
+    {
+      "text": "  Codes Promo Boohoo   ",
+      "url": "https://www.lemonde.fr/codespromo/boohoo"
     },
     {
       "text": "  Codes Promo Autodoc   ",
@@ -3371,24 +3425,8 @@
       "url": "https://www.lemonde.fr/codespromo/foot-locker"
     },
     {
-      "text": "  Codes Promo ASOS   ",
-      "url": "https://www.lemonde.fr/codespromo/asos"
-    },
-    {
-      "text": "  Codes Promo Maisons du Monde   ",
-      "url": "https://www.lemonde.fr/codespromo/maisons-du-monde"
-    },
-    {
-      "text": "  Codes Promo Made.com   ",
-      "url": "https://www.lemonde.fr/codespromo/made-com"
-    },
-    {
       "text": "Tous les codes promo",
       "url": "https://www.lemonde.fr/codespromo/"
-    },
-    {
-      "text": "    Provence, Alpes, C\u00f4te d\u2019Azur\u00a0: 3 destinations pour toutes les saisons De la Provence \u00e0 la C\u00f4te d\u2019Azur en passant par les Alpes, la r\u00e9gion Sud rayonne toute l\u2019ann\u00e9e\u00a0! Ses sommets, son littoral, son arri\u00e8re-pays et ses villes attachantes\u2026 Les 3 territoires partagent le go\u00fbt de l\u2019aventure et un formidable patrimoine culturel et naturel. ",
-      "url": "https://www.lemonde.fr/onatousbesoindusud/article/2022/04/06/provence-alpes-cote-d-azur-3-destinations-pour-toutes-les-saisons_6120829_218.html"
     },
     {
       "text": "    Pittsburgh d\u00e9voile un plan de mobilit\u00e9 sur cinquante ans avec l\u2019hyperloop - Vers la mobilit\u00e9 de demain La ville de Pittsburgh a publi\u00e9 un plan de transport pour les cinquante prochaines ann\u00e9es, et il comprend plusieurs projets ambitieux, comme le transport fluvial et l\u2019hyperloop. Anaick Marchal, expatri\u00e9e \u00e0 Pittsburgh pendant deux ans, raconte les enjeux en mati\u00e8re de mobilit\u00e9. ",
@@ -3399,12 +3437,16 @@
       "url": "https://decouvrir-quebec.lemonde.fr/"
     },
     {
+      "text": "    Provence, Alpes, C\u00f4te d\u2019Azur\u00a0: 3 destinations pour toutes les saisons De la Provence \u00e0 la C\u00f4te d\u2019Azur en passant par les Alpes, la r\u00e9gion Sud rayonne toute l\u2019ann\u00e9e\u00a0! Ses sommets, son littoral, son arri\u00e8re-pays et ses villes attachantes\u2026 Les 3 territoires partagent le go\u00fbt de l\u2019aventure et un formidable patrimoine culturel et naturel. ",
+      "url": "https://www.lemonde.fr/onatousbesoindusud/article/2022/04/06/provence-alpes-cote-d-azur-3-destinations-pour-toutes-les-saisons_6120829_218.html"
+    },
+    {
       "text": "Services",
       "url": "/services/"
     },
     {
-      "text": " Le Monde M\u00e9morable Apprenez, comprenez, m\u00e9morisez   Le\u00e7on du jour  Giscard, un destin  Testez gratuitement   ",
-      "url": "https://www.lemonde.fr/memorable/inscription?a9epi=epi4d6a49324f5463344e7a67304d673d3d0a&rfextension=MK_PART"
+      "text": " Le Monde M\u00e9morable Apprenez, comprenez, m\u00e9morisez   Le\u00e7on du jour  Saint-Simon, philosophe de l\u2019industrie  Testez gratuitement   ",
+      "url": "https://www.lemonde.fr/memorable/inscription?a9epi=epi4d6a49324f5451324d7a457a4d673d3d0a&rfextension=MK_PART"
     },
     {
       "text": "   ",
@@ -3703,10 +3745,10 @@
     "publicdate": "2022-04-09 13:41:01",
     "addeddate": "2022-04-09 13:41:01"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 447732520,
+  "server": "ia902506.us.archive.org",
+  "uniq": 780428195,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }
