@@ -60,6 +60,7 @@ def _shoot(site: typing.Dict, output_dir: str):
                 f"--load-extension={path_to_extension}",
                 "--disable-gpu",
                 "--enable-logging=stderr",
+                "--log-level=0",
                 "--v=1",
             ],
             user_agent="News Homepages (https://homepages.news/)",
