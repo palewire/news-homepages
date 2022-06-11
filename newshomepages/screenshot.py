@@ -59,6 +59,8 @@ def _shoot(site: typing.Dict, output_dir: str):
                 f"--disable-extensions-except={path_to_extension}",
                 f"--load-extension={path_to_extension}",
                 "--disable-gpu",
+                "--enable-logging=stderr",
+                "--v=1",
             ],
             user_agent="News Homepages (https://homepages.news/)",
         )
