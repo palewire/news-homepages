@@ -1,5 +1,5 @@
 {
-  "created": 1654820091,
+  "created": 1654821000,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/27/items/usatoday-2022",
@@ -5733,21 +5733,32 @@
       "rotation": "0"
     },
     {
+      "name": "usatoday-2022-06-09T20:13:19.128079-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-06-09T20:13:19.128079-04:00.jpg",
+      "mtime": "1654820880",
+      "size": "8562",
+      "md5": "cc15d14d7bac8e1591f2a45772d73e09",
+      "crc32": "23a5d553",
+      "sha1": "cf9291e65f4e4f12c94401f072b2cdf77edbcc19"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d05c5b0c4bcbf5455649557ba3d8b431a9223bee",
-      "mtime": "1654820083",
-      "size": "116218",
-      "md5": "1ff241135b44f266cccd8fa0d6690077",
-      "crc32": "b0edfff5",
-      "sha1": "86a71580d4cc067a575d838d426f2719bb5c2b14",
+      "btih": "b53714f2104ea24125f9be969b1481cb0f769847",
+      "mtime": "1654820894",
+      "size": "116422",
+      "md5": "47b15d41653aca8c705ad73b79eb4eef",
+      "crc32": "4fd612da",
+      "sha1": "762ff3877d53f9df66a642d35a5e1698e61595bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c2586de31615fe00ac15b8f080ba9243",
+      "md5": "877680451e7934effd9d11e3d7ac89c1",
       "summation": "md5"
     },
     {
@@ -5771,9 +5782,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 548,
-  "item_last_updated": 1654820083,
-  "item_size": 58700125,
+  "files_count": 549,
+  "item_last_updated": 1654820894,
+  "item_size": 58708891,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -5790,21 +5801,10 @@
     "publicdate": "2022-03-23 12:05:23",
     "addeddate": "2022-03-23 12:05:23"
   },
-  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3294046774,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 324433534,
+  "uniq": 958560709,
   "workable_servers": [
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }
