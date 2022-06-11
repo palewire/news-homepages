@@ -50,7 +50,7 @@ def _shoot(site: typing.Dict, output_dir: str):
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
-        path_to_extension = utils.EXTENSIONS_PATH / "simple-extension"
+        path_to_extension = utils.EXTENSIONS_PATH / "uBlock"
         context = playwright.chromium.launch_persistent_context(
             tempfile.mkdtemp(),
             channel="chrome",
