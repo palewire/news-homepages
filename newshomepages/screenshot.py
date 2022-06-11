@@ -61,7 +61,7 @@ def _shoot(site: typing.Dict, output_dir: str):
                 "--disable-gpu",
                 "--disable-login-animations",
                 "--net-log-level=0",
-                "--enable-logging",
+                "--enable-logging=stderr",
                 "--v=1",
             ],
             user_agent="News Homepages (https://homepages.news/)",
