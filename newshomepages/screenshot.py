@@ -63,6 +63,7 @@ def _shoot(site: typing.Dict, output_dir: str):
                 "--net-log-level=0",
                 "--enable-logging=stderr",
                 "--v=1",
+                "--enable-extension-activity-logging",
             ],
             user_agent="News Homepages (https://homepages.news/)",
         )
