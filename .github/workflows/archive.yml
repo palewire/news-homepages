@@ -5,26 +5,25 @@ on:
   push:
 
 jobs:
-#  sources:
-#    name: Source list
-#    runs-on: ubuntu-latest
-#    outputs:
-#      matrix: ${{ steps.set-matrix.outputs.matrix }}
-#    steps:
-#    - id: set-matrix
-#      name: Set source matrix
-#      run: |
-#        echo "::set-output name=matrix::[\"latimes\",]"
-#      shell: bash
+  sources:
+    name: Source list
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+    - id: set-matrix
+      name: Set source matrix
+      run: |
+        echo "::set-output name=matrix::[\"latimes\", \"ft\",]"
+      shell: bash
   jpg:
     name: JPG
     runs-on: ubuntu-20.04
     timeout-minutes: 15
-#    needs: sources
+    needs: sources
     strategy:
       matrix:
-        source: ["cnn",]
-#        source: ${{fromJson(needs.sources.outputs.matrix)}}
+        source: ${{fromJson(needs.sources.outputs.matrix)}}
     steps:
       - id: checkout
         name: Checkout
