@@ -12,13 +12,6 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - id: install-extras
-      name: Install Ubuntu codecs and extras
-      run: |
-        sudo apt update
-        sudo apt install xvfb
-      shell: bash
-
     - id: cache-playwright
       name: Cache Playwright browsers
       uses: actions/cache@v2
