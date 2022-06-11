@@ -26,7 +26,7 @@ runs:
 
     - id: shoot
       name: Take screenshot
-      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: pipenv run python -m newshomepages.screenshot ${{ inputs.command }} ${{ inputs.source }} -o _dist
       shell: bash
       env:
         DEBUG: 'pw:api'
