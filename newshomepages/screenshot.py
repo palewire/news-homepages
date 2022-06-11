@@ -59,8 +59,6 @@ def _shoot(site: typing.Dict, output_dir: str):
                 f"--disable-extensions-except={path_to_extension}",
                 f"--load-extension={path_to_extension}",
                 "--disable-gpu",
-                "--disable-login-animations",
-                "--net-log-level=0",
                 "--enable-logging=stderr",
                 "--v=1",
             ],
