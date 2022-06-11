@@ -30,6 +30,7 @@ runs:
       shell: bash
       env:
         DEBUG: 'pw:api'
+        CHROME_IPC_LOGGING: 1
 
     - id: save
       name: Save artifact
