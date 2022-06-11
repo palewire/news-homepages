@@ -3,7 +3,7 @@ description: Snap a JPG of the provided site
 
 inputs:
   source:
-    description: "The site handle to screenshot"
+    description: “The site handle to screenshot”
     required: true
   command:
     description: "The screenshot.py command to run"
@@ -31,25 +31,9 @@ runs:
       run: pipenv run playwright install --with-deps chromium
       shell: bash
 
-    - id: install-brave
-      name: Install Brave browser
-      run: |
-        sudo apt install apt-transport-https curl
-        sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
-        echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
-        sudo apt update
-        sudo apt install brave-browser
-        which brave-browser
-      shell: bash
-
-    - id: headless
-      name: Take headless screenshot
-      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot headless
-      shell: bash
-
-    - id: headful
-      name: Take headful screenshot
-      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot headful
+    - id: shoot
+      name: Take screenshot
+      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot ${{ inputs.command }} ${{ inputs.source }} -o _dist
       shell: bash
 
     - id: save

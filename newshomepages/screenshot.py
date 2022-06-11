@@ -1,9 +1,13 @@
 import logging
 import tempfile
 import time
+import typing
+from pathlib import Path
 
 import click
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import Error, sync_playwright
+
+from . import utils
 
 DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
@@ -19,72 +23,89 @@ def cli():
 
 
 @cli.command()
-def headless():
-    """Shoot headlessly."""
-    with sync_playwright() as playwright:
-        # Boot up the browser with the ad blocker plugin installed
-        click.echo("Launching Chromium browser")
-        context = playwright.chromium.launch_persistent_context(
-            tempfile.mkdtemp(),
-            headless=True,
-            executable_path="/usr/bin/brave-browser",
-        )
-        click.echo("Created context")
-
-        # Create an empty tab
-        page = context.new_page()
-        click.echo("New page opened")
-
-        # Open the page
-        page.goto("https://www.latimes.com")
-        click.echo("Opened page")
-
-        # Take the screenshot
-        file_path = "_dist/headless.jpg"
-        page.screenshot(
-            quality=80,
-            type="jpeg",
-            path=file_path,
-        )
-        click.echo("Saved image")
-
-        # Close it out
-        context.close()
-        click.echo("Closed context")
+@click.argument("handle")
+@click.option("-o", "--output-dir", "output_dir", default="./")
+def single(handle: str, output_dir: str):
+    """Screenshot a single source."""
+    site = utils.get_site(handle)
+    _shoot(site, output_dir)
 
 
 @cli.command()
-def headful():
-    """Shoot headfully."""
+@click.argument("slug")
+@click.option("-o", "--output-dir", "output_dir", default="./")
+def bundle(slug: str, output_dir: str):
+    """Screenshot a bundle of sources."""
+    [_shoot(site, output_dir) for site in utils.get_sites_in_bundle(slug)]
+
+
+def _shoot(site: typing.Dict, output_dir: str):
+    """Shoot the provided site."""
+    click.echo(f"Screenshotting {site['name']}")
+
+    # Set the output path
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
-        context = playwright.chromium.launch(
-            headless=False, executable_path="/usr/bin/brave-browser", args=[]
+        path_to_extension = utils.EXTENSIONS_PATH / "simple-extension"
+        context = playwright.chromium.launch_persistent_context(
+            tempfile.mkdtemp(),
+            channel="chrome",
+            headless=False,
+            args=[
+                f"--disable-extensions-except={path_to_extension}",
+                f"--load-extension={path_to_extension}",
+                "--disable-gpu",
+            ],
+            user_agent="News Homepages (https://homepages.news/)",
         )
-        click.echo("Created context")
+
+        # Set the timeout
+        context.set_default_timeout(60 * 1000)
 
         # Create an empty tab
         page = context.new_page()
-        click.echo("New page opened")
+
+        # Set the window size
+        page.set_viewport_size(
+            {
+                "width": int(site["width"] or DEFAULT_WIDTH),
+                "height": int(site["height"] or DEFAULT_HEIGHT),
+            }
+        )
 
         # Open the page
-        page.goto("https://www.latimes.com")
-        click.echo("Opened page")
-        time.sleep(10)
+        click.echo(f"Opening {site['url']}")
+        page.goto(site["url"])
+
+        # Give it a beat
+        wait = int(site["wait"] or DEFAULT_WAIT) / 1000
+        click.echo(f"Waiting {wait} seconds")
+        time.sleep(wait)
+
+        # If there's javascript run it
+        javascript = utils.get_javascript(site["handle"])
+        if javascript:
+            click.echo("Executing custom javascript")
+            try:
+                page.evaluate(javascript)
+            except Error as error:
+                raise click.ClickException(error.message)
 
         # Take the screenshot
-        file_path = "_dist/headful.jpg"
+        file_path = str(output_path / f"{site['handle'].lower()}.jpg")
+        click.echo(f"Saving image to {file_path}")
         page.screenshot(
             quality=80,
             type="jpeg",
             path=file_path,
         )
-        click.echo("Saved image")
 
         # Close it out
         context.close()
-        click.echo("Closed context")
 
 
 if __name__ == "__main__":
