@@ -5,7 +5,7 @@ import typing
 from pathlib import Path
 
 import click
-from playwright.sync_api import Error, sync_playwright
+from playwright.sync_api import sync_playwright  # Error
 
 from . import utils
 
@@ -89,13 +89,13 @@ def _shoot(site: typing.Dict, output_dir: str):
         time.sleep(wait)
 
         # If there's javascript run it
-        javascript = utils.get_javascript(site["handle"])
-        if javascript:
-            click.echo("Executing custom javascript")
-            try:
-                page.evaluate(javascript)
-            except Error as error:
-                raise click.ClickException(error.message)
+        #        javascript = utils.get_javascript(site["handle"])
+        #        if javascript:
+        #            click.echo("Executing custom javascript")
+        #            try:
+        #                page.evaluate(javascript)
+        #            except Error as error:
+        #                raise click.ClickException(error.message)
 
         # Take the screenshot
         file_path = str(output_path / f"{site['handle'].lower()}.jpg")
