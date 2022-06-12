@@ -20,7 +20,7 @@ jobs:
     name: JPG
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    needs: sources
+#    needs: sources
 #    strategy:
 #      matrix:
 #        source: ${{fromJson(needs.sources.outputs.matrix)}}
