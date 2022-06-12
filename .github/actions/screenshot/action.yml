@@ -12,6 +12,10 @@ inputs:
 runs:
   using: "composite"
   steps:
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+
     - id: cache-playwright
       name: Cache Playwright browsers
       uses: actions/cache@v2
@@ -21,12 +25,14 @@ runs:
 
     - id: install-playwright
       name: Install Playwright dependencies
-      run: pipenv run playwright install --with-deps chromium
+      run: |
+        npm install
+        npx playwright install chrome
       shell: bash
 
     - id: shoot
       name: Take screenshot
-      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- node newshomepages/screenshot.js
       shell: bash
       env:
         DEBUG: 'pw:api'
@@ -37,5 +43,5 @@ runs:
       uses: actions/upload-artifact@v2
       with:
         name: screenshots
-        path: _dist
+        path: ./latimes.jpg
         if-no-files-found: error

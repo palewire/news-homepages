@@ -1,0 +1,27 @@
+{
+  "name": "news-homepages",
+  "version": "1.0.0",
+  "description": "An open-source archive that gathers, saves and shares news homepages",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palewire/news-homepages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palewire/news-homepages/issues"
+  },
+  "homepage": "https://github.com/palewire/news-homepages#readme",
+  "dependencies": {
+    "playwright": "^1.22.2"
+  }
+}
