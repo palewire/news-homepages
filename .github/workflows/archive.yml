@@ -5,29 +5,29 @@ on:
   push:
 
 jobs:
-  sources:
-    name: Source list
-    runs-on: ubuntu-latest
-    outputs:
-      matrix: ${{ steps.set-matrix.outputs.matrix }}
-    steps:
-    - id: set-matrix
-      name: Set source matrix
-      run: |
-        echo "::set-output name=matrix::[\"latimes\", \"ft\",]"
-      shell: bash
+#  sources:
+#    name: Source list
+#    runs-on: ubuntu-latest
+#    outputs:
+#      matrix: ${{ steps.set-matrix.outputs.matrix }}
+#    steps:
+#    - id: set-matrix
+#      name: Set source matrix
+#      run: |
+#        echo "::set-output name=matrix::[\"latimes\", \"ft\",]"
+#      shell: bash
   jpg:
     name: JPG
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: sources
-    strategy:
-      matrix:
-        source: ${{fromJson(needs.sources.outputs.matrix)}}
+#    strategy:
+#      matrix:
+#        source: ${{fromJson(needs.sources.outputs.matrix)}}
     steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
+#      - id: checkout
+#        name: Checkout
+#        uses: actions/checkout@v3
 
 #      - id: install
 #        name: Install Python dependencies
@@ -36,9 +36,9 @@ jobs:
       - id: screenshot
         name: Screenshot
         uses: ./.github/actions/screenshot
-        with:
-          source: ${{ matrix.source }}
-          command: single
+#        with:
+#          source: ${{ matrix.source }}
+#          command: single
 
 #  accessibility:
 #    name: a11y
