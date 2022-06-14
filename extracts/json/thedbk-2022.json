@@ -1,5 +1,5 @@
 {
-  "created": 1655079745,
+  "created": 1655166172,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/8/items/thedbk-2022",
@@ -2998,31 +2998,73 @@
       "sha1": "e7868524e568e9645ef21cdd772641f68f18e972"
     },
     {
+      "name": "thedbk-2022-06-13T09:16:55.328947-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655126225",
+      "size": "41151",
+      "md5": "65e0011052a426782996da70b6ffa043",
+      "crc32": "749f3610",
+      "sha1": "9cc3a99c89e6907c3767fbf2f8f23fcf6fc9c2af",
+      "format": "JSON"
+    },
+    {
+      "name": "thedbk-2022-06-13T09:16:55.328947-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655126227",
+      "size": "41633",
+      "md5": "50eb7807e40c119ad36bb047ef15b598",
+      "crc32": "11faa378",
+      "sha1": "300648457968bb5df2c79b65bbc4a7d9d17677c5",
+      "format": "JSON"
+    },
+    {
+      "name": "thedbk-2022-06-13T09:16:55.328947-04:00.jpg",
+      "source": "original",
+      "mtime": "1655126220",
+      "size": "324500",
+      "md5": "244904fe846b9af6342abe3fcf71e7b5",
+      "crc32": "61d9bdca",
+      "sha1": "769b33f9b7b1cf36f731958795d9c6c299f079db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedbk-2022-06-13T09:16:55.328947-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedbk-2022-06-13T09:16:55.328947-04:00.jpg",
+      "mtime": "1655126279",
+      "size": "10139",
+      "md5": "df1d14e2acd117c983f8f22dd10e329e",
+      "crc32": "d0e391c5",
+      "sha1": "2acaa2909ecbff6c3dfa911be64ff21f4bc2feb1"
+    },
+    {
       "name": "thedbk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ced0ab95e98fcfdeef4d1479916e07be3e77a341",
-      "mtime": "1655039457",
-      "size": "61069",
-      "md5": "54c1ffaa93b62bc0175c19b4f63146c4",
-      "crc32": "24e2b2cd",
-      "sha1": "8198db7d821deae680c8488b057503de2a6340be",
+      "btih": "1694750f8516c603fd88fe885a38556ff53da775",
+      "mtime": "1655126284",
+      "size": "61891",
+      "md5": "aa26c72723c90f23c1572cf4aced533b",
+      "crc32": "ea971585",
+      "sha1": "d310b41dc5e59820fd8134330fc9ca18d8f47304",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedbk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ee7e97d88c12eaaf262a2303bf142101",
+      "md5": "d636a28262966ff1ed48e9034bb9b980",
       "summation": "md5"
     },
     {
       "name": "thedbk-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655039407",
-      "size": "344064",
-      "md5": "d36c102ccac5695d734894edbb9c8726",
-      "crc32": "91fd6456",
-      "sha1": "4c9d6153ef6d4fea7cc2af79d2f39384d7625dd1",
+      "mtime": "1655126231",
+      "size": "348160",
+      "md5": "05de992c332425b77331209b536de905",
+      "crc32": "5add8093",
+      "sha1": "0917b4819caf7ab57138887ecd464f06e75d76b8",
       "format": "Metadata"
     },
     {
@@ -3036,9 +3078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 289,
-  "item_last_updated": 1655039457,
-  "item_size": 28944368,
+  "files_count": 293,
+  "item_last_updated": 1655126284,
+  "item_size": 29366709,
   "metadata": {
     "identifier": "thedbk-2022",
     "collection": [
@@ -4246,7 +4288,7 @@
       "url": "http://marylandmedia.org/"
     }
   ],
-  "uniq": 1676108767,
+  "uniq": 2105360597,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

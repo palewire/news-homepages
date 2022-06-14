@@ -1,5 +1,5 @@
 {
-  "created": 1655079661,
+  "created": 1655166120,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/21/items/le_parisien-2022",
@@ -2662,31 +2662,73 @@
       "sha1": "496975bd8d16c78ae7ffdd798b041a8ca675e377"
     },
     {
+      "name": "le_parisien-2022-06-13T14:10:13.454066+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655122217",
+      "size": "104471",
+      "md5": "a2b1120d537f18148a90ee20d849cbfd",
+      "crc32": "84356685",
+      "sha1": "d1f3bf1e5c6e9326b0ad115e659b8f62f1a2dbf7",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-13T14:10:13.454066+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655122219",
+      "size": "109378",
+      "md5": "2f472a6267047f64c67d61bf13526e09",
+      "crc32": "6800a87e",
+      "sha1": "96caf9a8c4ec824f5c29b640e03237ea6314c177",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-13T14:10:13.454066+02:00.jpg",
+      "source": "original",
+      "mtime": "1655122216",
+      "size": "254522",
+      "md5": "c1f14e3ea9fc9c19752e93397805eb0f",
+      "crc32": "877689d5",
+      "sha1": "9273d8e4499845b14ee4cc60120317c17f98effa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-06-13T14:10:13.454066+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-06-13T14:10:13.454066+02:00.jpg",
+      "mtime": "1655122266",
+      "size": "9564",
+      "md5": "eb2e7f8406a35a37fa822786e20c774c",
+      "crc32": "4435e60e",
+      "sha1": "64f367e626f1ece779007f57ee00f9e4212130bf"
+    },
+    {
       "name": "le_parisien-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d28894c044b2fa9110ed420b9f0b0a5d08048d3",
-      "mtime": "1655035766",
-      "size": "55853",
-      "md5": "d3c25d8c8b1d8dd19f1c0a8cf024a0de",
-      "crc32": "7ba0461f",
-      "sha1": "c0ea0a5fe266b873096a87a255be83e2a42ba61d",
+      "btih": "1d6e601530fc06e89ecd6bbad334c5a59f9d0acf",
+      "mtime": "1655122273",
+      "size": "56716",
+      "md5": "942762fbea2292d5cae9042d3f97d421",
+      "crc32": "a3cbe3da",
+      "sha1": "29f5fc508b4f34473595baa922929de6b3395945",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_parisien-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b59a4bb36a0a4ff23d0ab0ef4402d842",
+      "md5": "6cb66e091f18122be13eb4eaa22e5b53",
       "summation": "md5"
     },
     {
       "name": "le_parisien-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655035719",
-      "size": "307200",
-      "md5": "fbc2f446cacab82c147da44ca6898268",
-      "crc32": "c31e9df1",
-      "sha1": "48fb2408f4b58d6dade812bf328bdbdfb294e159",
+      "mtime": "1655122222",
+      "size": "315392",
+      "md5": "bb06c0e304514ab60349d443e22a7c17",
+      "crc32": "b440ff0d",
+      "sha1": "6730e884f30b93c27a1faa589c87862fa4a697b2",
       "format": "Metadata"
     },
     {
@@ -2700,9 +2742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1655035766,
-  "item_size": 30817867,
+  "files_count": 261,
+  "item_last_updated": 1655122273,
+  "item_size": 31304857,
   "le_parisien-2022": [
     {
       "text": "",
@@ -2749,7 +2791,7 @@
       "url": "/podcasts/"
     },
     {
-      "text": "R\u00e9sultats l\u00e9gislatives 2022",
+      "text": "R\u00e9sultats l\u00e9gislatives",
       "url": "https://www.leparisien.fr/resultats-elections/"
     },
     {
@@ -3017,6 +3059,10 @@
       "url": "/eure-et-loir-28/"
     },
     {
+      "text": "Finist\u00e8re",
+      "url": "/finistere-29/"
+    },
+    {
       "text": "Haute-Garonne",
       "url": "/haute-garonne-31/"
     },
@@ -3027,6 +3073,10 @@
     {
       "text": "Marne",
       "url": "/marne-51/"
+    },
+    {
+      "text": "Martinique",
+      "url": "/martinique-972/"
     },
     {
       "text": "Pyr\u00e9n\u00e9es-Orientales",
@@ -3157,16 +3207,12 @@
       "url": "/"
     },
     {
+      "text": "La bataille du second tour",
+      "url": "/elections/legislatives/legislatives-2022-et-maintenant-la-bataille-sans-merci-du-second-tour-13-06-2022-6G4VGXWQ6RFZ5LAW57FLQTDZ24.php"
+    },
+    {
       "text": "L\u00e9gislatives en direct",
-      "url": "/elections/legislatives/direct-legislatives-2022-suivez-la-journee-de-vote-du-premier-tour-12-06-2022-PPGVPS73VFDG3LL7BOSVH5Z65M.php"
-    },
-    {
-      "text": "Participation ",
-      "url": "/elections/legislatives/legislatives-la-participation-au-premier-tour-seleve-a-1843-a-midi-12-06-2022-SCDRZ6L55NBRNP7XS5U6KOIHEQ.php"
-    },
-    {
-      "text": "Les points chauds \u00e0 surveiller",
-      "url": "/elections/legislatives/legislatives-ministres-en-danger-deputes-sortants-menaces-voici-tous-les-points-chauds-a-surveiller-12-06-2022-THKRIW4LENELLLCZEDVFM4BHBU.php"
+      "url": "/politique/legislatives-bousculee-par-la-nupes-la-macronie-va-batailler-pour-conserver-sa-majorite-absolue-suivez-notre-direct-13-06-2022-A5NXGY4V4NAXDD2LM3QUW3MBGI.php"
     },
     {
       "text": "Guerre en Ukraine",
@@ -3177,12 +3223,16 @@
       "url": "/faits-divers/promeneurs-des-berges-du-rhone-cibles-linquietant-projet-dattentat-imminent-de-sofiane-e-lyceen-de-18-ans-12-06-2022-H7UGF6BWVJB5VDM7KLI3V7KJ44.php"
     },
     {
+      "text": "Covid-19 ",
+      "url": "/societe/sante/covid-19-annonces-pour-le-printemps-esperes-a-lautomne-ou-en-sont-les-vaccins-adaptes-a-omicron-12-06-2022-W24FDQPJAJECXJ72GT5ARRQ5FA.php"
+    },
+    {
       "text": "Programme TV",
       "url": "https://programme-tv.leparisien.fr/"
     },
     {
-      "text": "Guide Shopping",
-      "url": "https://www.leparisien.fr/guide-shopping/"
+      "text": "Soldes",
+      "url": "https://www.leparisien.fr/guide-shopping/soldes/manomano-operation-destockage-sur-tous-les-rayons-brico-deco-jardin-28-02-2021-8426367.php"
     },
     {
       "text": "Codes promo",
@@ -3201,424 +3251,444 @@
       "url": "/video/"
     },
     {
+      "text": "",
+      "url": "//www.leparisien.fr/politique/legislatives-bousculee-par-la-nupes-la-macronie-va-batailler-pour-conserver-sa-majorite-absolue-suivez-notre-direct-13-06-2022-A5NXGY4V4NAXDD2LM3QUW3MBGI.php"
+    },
+    {
+      "text": "DIRECT. L\u00e9gislatives : \u00abOn ne peut pas avoir des m\u0153urs de r\u00e9publique banani\u00e8re\u00bb, M\u00e9lenchon tacle Darmanin sur les r\u00e9sultatsBouscul\u00e9e par la Nupes qui compte 25,66% des voix, la Macronie repart ce lundi en campagne en vue du second tour, dimanche prochain, pour tenter de conserver la majorit\u00e9 absolue \u00e0 l\u2019Assembl\u00e9e nationale.",
+      "url": "//www.leparisien.fr/politique/legislatives-bousculee-par-la-nupes-la-macronie-va-batailler-pour-conserver-sa-majorite-absolue-suivez-notre-direct-13-06-2022-A5NXGY4V4NAXDD2LM3QUW3MBGI.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/economie/consommation/carburant-les-prix-augmentent-encore-le-gazole-repasse-au-dessus-des-2-euros-13-06-2022-SUNUJBGFKVHKTGD374HZGLOLOU.php"
+    },
+    {
+      "text": "Carburants : les prix augmentent encore, le gazole repasse au dessus des 2 euros",
+      "url": "//www.leparisien.fr/economie/consommation/carburant-les-prix-augmentent-encore-le-gazole-repasse-au-dessus-des-2-euros-13-06-2022-SUNUJBGFKVHKTGD374HZGLOLOU.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/economie/guerre-en-ukraine-nous-sommes-entres-dans-une-economie-de-guerre-estime-emmanuel-macron-13-06-2022-CM3VFASW4RH3BFYKAFN7KOWRBU.php"
+    },
+    {
+      "text": "Guerre en Ukraine : \u00abNous sommes entr\u00e9s dans une \u00e9conomie de guerre\u00bb, estime Emmanuel Macron",
+      "url": "//www.leparisien.fr/economie/guerre-en-ukraine-nous-sommes-entres-dans-une-economie-de-guerre-estime-emmanuel-macron-13-06-2022-CM3VFASW4RH3BFYKAFN7KOWRBU.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-critiques-par-jean-luc-melenchon-les-sondeurs-nont-cette-fois-pas-sous-estime-la-nupes-13-06-2022-T2GHHMGE6RDJHNFLI67YFR6PQI.php"
+    },
+    {
+      "text": "Abonn\u00e9sL\u00e9gislatives : critiqu\u00e9s par Jean-Luc M\u00e9lenchon, les sondeurs n\u2019ont cette fois pas sous-estim\u00e9 la Nupes",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-critiques-par-jean-luc-melenchon-les-sondeurs-nont-cette-fois-pas-sous-estime-la-nupes-13-06-2022-T2GHHMGE6RDJHNFLI67YFR6PQI.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-pourquoi-la-nupes-denonce-une-manipulation-dans-les-resultats-du-premier-tour-13-06-2022-7JG566KD3ZHVRC6LI2NGFIBURQ.php"
+    },
+    {
+      "text": "L\u00e9gislatives : pourquoi la Nupes d\u00e9nonce une \u00abmanipulation\u00bb des r\u00e9sultats du premier tour",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-pourquoi-la-nupes-denonce-une-manipulation-dans-les-resultats-du-premier-tour-13-06-2022-7JG566KD3ZHVRC6LI2NGFIBURQ.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/meteo/et-maintenant-la-canicule-printaniere-des-temperatures-de-dingue-nous-arrivent-du-sahara-12-06-2022-FUBXKT4EL5EP7A3V64RFVG77PM.php"
+    },
+    {
+      "text": "Abonn\u00e9s\u00abDes temp\u00e9ratures de dingue nous arrivent du Sahara\u00bb : une vague de chaleur attendue cette semaine",
+      "url": "//www.leparisien.fr/meteo/et-maintenant-la-canicule-printaniere-des-temperatures-de-dingue-nous-arrivent-du-sahara-12-06-2022-FUBXKT4EL5EP7A3V64RFVG77PM.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/faits-divers/incendie-a-strasbourg-quatre-morts-dont-deux-enfants-13-06-2022-TZAWNIGUWZHI7M4UJYDTPMPLFA.php"
+    },
+    {
+      "text": "Incendie \u00e0 Strasbourg : quatre morts, dont deux enfants",
+      "url": "//www.leparisien.fr/faits-divers/incendie-a-strasbourg-quatre-morts-dont-deux-enfants-13-06-2022-TZAWNIGUWZHI7M4UJYDTPMPLFA.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-eric-zemmour-et-reconquete-echec-et-mat-12-06-2022-2PLYZ67OKZDW7MLF7RWK2HXCZ4.php"
+    },
+    {
+      "text": "Abonn\u00e9s\u00c9ric Zemmour et Reconqu\u00eate, \u00e9chec et mat d\u00e8s le premier tour ",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-eric-zemmour-et-reconquete-echec-et-mat-12-06-2022-2PLYZ67OKZDW7MLF7RWK2HXCZ4.php"
+    },
+    {
+      "text": "VID\u00c9O. Londres : des cyclistes manifestent... compl\u00e8tement nus",
+      "url": "//www.leparisien.fr/video/video-londres-des-cyclistes-manifestent-completement-nus-13-06-2022-PI6BRI2NFFARZOXC7BHMI7GJYU.php"
+    },
+    {
+      "text": "L\u00e9gislatives : \u00abQuand M\u00e9lenchon pr\u00e9tend vouloir \u00eatre Premier ministre, c\u2019est surtout le premier menteur\u00bb, tacle Borne",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-quand-jean-luc-melenchon-pretend-vouloir-etre-premier-ministre-cest-surtout-le-premier-menteur-tacle-elisabeth-borne-13-06-2022-7LOC4I4HHJDIFCTTH3ABQLC6PM.php"
+    },
+    {
+      "text": "Abonn\u00e9sL\u00e9gislatives : l\u2019abstention des jeunes a-t-elle port\u00e9 pr\u00e9judice \u00e0 la Nupes ?",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-labstention-des-jeunes-a-t-elle-porte-prejudice-a-la-nupes-13-06-2022-5TWT5U4A5FANFLIL4N2MQGTPC4.php"
+    },
+    {
+      "text": "L\u00e9gislatives : ces huit circonscriptions avec des triangulaires au second tour",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-ces-huit-circonscriptions-avec-des-triangulaires-au-second-tour-13-06-2022-MVOG3WXCDBAC5KAVW4P7UIITSQ.php"
+    },
+    {
+      "text": "VID\u00c9O. Des ing\u00e9nieurs tunisiens inventent une machine pour transformer l\u2019air ambiant en eau potable",
+      "url": "//www.leparisien.fr/video/video-des-ingenieurs-tunisiens-inventent-une-machine-pour-transformer-lair-ambiant-en-eau-potable-13-06-2022-MJ5V4ZRCJ5GUJL2YGCINU5RGYQ.php"
+    },
+    {
+      "text": "L\u00e9gislatives en Seine-et-Marne : finalement, Ersilia Soudais et Didier Bernard privent Rodrigue Kokouendo de second tour",
+      "url": "//www.leparisien.fr/seine-et-marne-77/legislatives-en-seine-et-marne-finalement-ersilia-soudais-et-didier-bernard-privent-rodrigue-kokouendo-de-second-tour-13-06-2022-V5RMUY6N5BD27ABGI3AFJ6JDSQ.php"
+    },
+    {
+      "text": "Incendie dans une mosqu\u00e9e de Rennes, la police judiciaire saisie",
+      "url": "//www.leparisien.fr/faits-divers/incendie-dans-une-mosquee-de-rennes-la-police-judiciaire-saisie-13-06-2022-PLEYNNTUBVGOTL5L2OKBBNSHCA.php"
+    },
+    {
+      "text": "Carburants : les prix augmentent encore, le gazole repasse au dessus des 2 euros",
+      "url": "//www.leparisien.fr/economie/consommation/carburant-les-prix-augmentent-encore-le-gazole-repasse-au-dessus-des-2-euros-13-06-2022-SUNUJBGFKVHKTGD374HZGLOLOU.php"
+    },
+    {
+      "text": "Guerre en Ukraine : \u00abNous sommes entr\u00e9s dans une \u00e9conomie de guerre\u00bb, estime Emmanuel Macron",
+      "url": "//www.leparisien.fr/economie/guerre-en-ukraine-nous-sommes-entres-dans-une-economie-de-guerre-estime-emmanuel-macron-13-06-2022-CM3VFASW4RH3BFYKAFN7KOWRBU.php"
+    },
+    {
+      "text": "P\u00e9nurie d\u2019huile de tournesol : la chasse \u00e0 la palombe autoris\u00e9e dans le Lot-et-Garonne pour prot\u00e9ger les champs",
+      "url": "//www.leparisien.fr/lot-et-garonne-47/penurie-dhuile-de-tournesol-la-chasse-a-la-palombe-autorisee-dans-le-lot-et-garonne-pour-proteger-les-champs-13-06-2022-EHJE5SEW7JGDPB5KGIBVBZTYRM.php"
+    },
+    {
+      "text": "L\u00e9gislatives en Essonne : l\u2019effet M\u00e9lenchon propulse la Nupes dans la 10e circonscription",
+      "url": "//www.leparisien.fr/essonne-91/legislatives-en-essonne-leffet-melenchon-propulse-la-nupes-dans-la-10e-circonscription-13-06-2022-TNEP235LGVGO5FOCBCL6AGMTZI.php"
+    },
+    {
+      "text": "Abonn\u00e9sLe Blanc-Mesnil : \u00e0 peine ouvert, le nouveau centre ophtalmologique soup\u00e7onn\u00e9 de \u00abpratiques douteuses\u00bb",
+      "url": "//www.leparisien.fr/seine-saint-denis-93/le-blanc-mesnil-a-peine-ouvert-le-nouveau-centre-ophtalmologique-soupconne-de-pratiques-douteuses-13-06-2022-XBQXRWKOWFHJRG4J4NKW7BSFAE.php"
+    },
+    {
+      "text": "Abonn\u00e9sL\u00e9gislatives : critiqu\u00e9s par Jean-Luc M\u00e9lenchon, les sondeurs n\u2019ont cette fois pas sous-estim\u00e9 la Nupes",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-critiques-par-jean-luc-melenchon-les-sondeurs-nont-cette-fois-pas-sous-estime-la-nupes-13-06-2022-T2GHHMGE6RDJHNFLI67YFR6PQI.php"
+    },
+    {
+      "text": "L\u00e9gislatives en Seine-et-Marne : Elodie G\u00earome-Delgado et Jean-Louis Thi\u00e9riot s\u2019entra\u00eenent pour un classico gauche droite",
+      "url": "//www.leparisien.fr/seine-et-marne-77/legislatives-en-seine-et-marne-elodie-gerome-delgado-et-jean-louis-thieriot-sentrainent-pour-un-classico-gauche-droite-13-06-2022-KTNQC6VQ5FC2NFYFBPS6T45PHQ.php"
+    },
+    {
+      "text": "R\u00e9sultats contest\u00e9s des l\u00e9gislatives, incendie mortel \u00e0 Strasbourg et vague de chaleur : les infos \u00e0 retenir ce midi",
+      "url": "//www.leparisien.fr/societe/resultats-contestes-des-legislatives-incendie-mortel-a-strasbourg-et-vague-de-chaleur-les-infos-a-retenir-ce-midi-13-06-2022-3UTBDNMGR5BQ5P3SD5YXGUGSWU.php"
+    },
+    {
+      "text": "Premier tour des l\u00e9gislatives : abstention historique dans les Hauts-de-Seine",
+      "url": "//www.leparisien.fr/hauts-de-seine-92/premier-tour-des-legislatives-abstention-historique-dans-les-hauts-de-seine-13-06-2022-DAHUH23YURCRPKL2VGCWQMH6SM.php"
+    },
+    {
+      "text": "L\u00e9gislatives en Seine-et-Marne: l\u2019insoumis Pascal Novais lance un vrai d\u00e9fi \u00e0 la sortante macroniste Mich\u00e8le Peyron",
+      "url": "//www.leparisien.fr/seine-et-marne-77/legislatives-en-seine-et-marne-linsoumis-pascal-novais-lance-un-vrai-defi-a-la-sortante-macroniste-michele-peyron-13-06-2022-I4JFCYQRLFATTOLSHJ4KP2DWYA.php"
+    },
+    {
+      "text": "Abonn\u00e9sL\u00e9gislatives en Essonne : l\u2019ex-Marcheur devenu \u00e9colo C\u00e9dric Villani en route vers un 2e mandat",
+      "url": "//www.leparisien.fr/essonne-91/legislatives-en-essonne-lex-marcheur-devenu-ecolo-cedric-villani-en-route-vers-un-2e-mandat-13-06-2022-PU5RX44Q35BE5FBKJ2UM7XURSI.php"
+    },
+    {
+      "text": "L\u00e9gislatives en Seine-et-Marne: en t\u00eate, Maxime Laisney pr\u00e9pare sa revanche face \u00e0 St\u00e9phanie Do",
+      "url": "//www.leparisien.fr/seine-et-marne-77/legislatives-en-seine-et-marne-en-tete-maxime-laisney-prepare-sa-revanche-face-a-stephanie-do-13-06-2022-K3JRZMHOYFDUBIXGQFUP7LRVEU.php"
+    },
+    {
+      "text": "Marion Mar\u00e9chal Le Pen a accouch\u00e9 de son deuxi\u00e8me enfant ",
+      "url": "//www.leparisien.fr/politique/marion-marechal-le-pen-a-accouche-de-son-deuxieme-enfant-13-06-2022-C23RTFGUWZAJTP2HMKPR3O64RQ.php"
+    },
+    {
+      "text": "Abonn\u00e9sL\u00e9gislatives dans les Hauts-de-Seine : la gauche reprend (un peu) des couleurs",
+      "url": "//www.leparisien.fr/hauts-de-seine-92/legislatives-dans-les-hauts-de-seine-la-gauche-reprend-un-peu-des-couleurs-13-06-2022-WPKZUGMTEFAAVJOMXML7TW3NTI.php"
+    },
+    {
+      "text": "Covid-19 : Sanofi rapporte des r\u00e9sultats encourageants pour son vaccin de rappel",
+      "url": "//www.leparisien.fr/societe/sante/covid-19-sanofi-rapporte-des-resultats-encourageants-pour-son-vaccin-de-rappel-13-06-2022-O2DWMDTR6FHJBIH67C2XODVNEY.php"
+    },
+    {
+      "text": "Abonn\u00e9sMelun-S\u00e9nart-Brie : pour \u00eatre plus attractif, l\u2019h\u00f4pital va fonctionnariser les contractuels sur des postes en tension",
+      "url": "//www.leparisien.fr/seine-et-marne-77/melun-senart-brie-pour-etre-plus-attractif-lhopital-va-fonctionnariser-les-contractuels-sur-des-postes-en-tension-13-06-2022-DPBHU3MTTNCV5G2Q6YWFRST2JQ.php"
+    },
+    {
+      "text": "Abonn\u00e9sL\u00e9gislatives dans le Val-d\u2019Oise : la Nupes peut-elle r\u00e9aliser le Grand Chelem ?",
+      "url": "//www.leparisien.fr/val-d-oise-95/legislatives-dans-le-val-doise-la-nupes-peut-elle-realiser-le-grand-chelem-13-06-2022-6HLKHB62QBFZFONF4OP5J745TY.php"
+    },
+    {
+      "text": "L\u00e9gislatives : \u00e9limin\u00e9 dans le Loiret, Jean-Michel Blanquer veut d\u00e9poser un recours",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-elimine-dans-le-loiret-jean-michel-blanquer-veut-deposer-un-recours-13-06-2022-P6QNEEXJHJEPVPVU7Q3Q3OQZNI.php"
+    },
+    {
+      "text": "Cyclisme : Romain Bardet annonce qu\u2019il sera bien pr\u00e9sent sur le Tour de France 2022",
+      "url": "//www.leparisien.fr/sports/cyclisme/cyclisme-romain-bardet-annonce-quil-sera-bien-present-sur-le-tour-de-france-2022-13-06-2022-H3RFGKD5WFAUVAAUIYUSTI4STM.php"
+    },
+    {
+      "text": "Gard : appel \u00e0 t\u00e9moin apr\u00e8s la disparition d\u2019une adolescente, la piste parisienne envisag\u00e9e",
+      "url": "//www.leparisien.fr/faits-divers/gard-appel-a-temoin-apres-la-disparition-dune-adolescente-la-piste-parisienne-envisagee-13-06-2022-FMYJUXK2WBDZJEY5LL2EBVW7ME.php"
+    },
+    {
+      "text": "L\u00e9gislatives en Seine-et-Marne : l\u2019insoumis Arnaud Saint-Martin devance Aude Luquet d\u2019une courte t\u00eate",
+      "url": "//www.leparisien.fr/seine-et-marne-77/legislatives-en-seine-et-marne-linsoumis-arnaud-saint-martin-devance-aude-luquet-dune-courte-tete-13-06-2022-LN5TLOFC3NAFHL5CH5PMIM3LUU.php"
+    },
+    {
+      "text": "Guerre en Ukraine : l\u2019arm\u00e9e abandonne le centre de Severodonetsk aux Russes",
+      "url": "//www.leparisien.fr/international/guerre-en-ukraine-larmee-abandonne-le-centre-de-severodonetsk-aux-russes-13-06-2022-TESDLES7VNHHFJEI2F2FGAYWXA.php"
+    },
+    {
+      "text": "Le bitcoin au plus bas depuis fin 2020, la plateforme crypto Celsius menac\u00e9e ",
+      "url": "//www.leparisien.fr/economie/le-bitcoin-poursuit-sa-chute-et-degringole-a-son-plus-bas-niveau-depuis-fin-2020-13-06-2022-2N3EKN6YHNEL7OWZ7LUAHHSBKM.php"
+    },
+    {
+      "text": "Abonn\u00e9sProgramme TV du lundi 13 juin : \u00abLandscapers\u00bb, \u00abSecrets d\u2019histoire\u00bb, \u00abJ\u2019ai perdu mon corps\u00bb... notre s\u00e9lection",
+      "url": "//www.leparisien.fr/culture-loisirs/tv/programme-tv-du-lundi-13-juin-landscapers-secrets-dhistoire-jai-perdu-mon-corps-notre-selection-13-06-2022-HW356G4VXFHZHJGTLZOO3H57NY.php"
+    },
+    {
+      "text": "DIRECT. Chiellini en route pour les Etats-Unis, City officialise Haaland, suivez la 4e journ\u00e9e du mercato",
+      "url": "//www.leparisien.fr/sports/football/direct-giorgi-chiellini-en-route-pour-les-etats-unis-lac-milan-actif-suivez-la-quatrieme-journee-du-mercato-13-06-2022-O4WRBDTIUNAOFI6VFWQE5LGMP4.php"
+    },
+    {
+      "text": "Ligue des nations : insult\u00e9 par un supporter, Donnarumma voit rouge",
+      "url": "//www.leparisien.fr/sports/football/psg/psg-quand-donnarumma-voit-rouge-13-06-2022-HJKDVLXCLZCE5KG3647HFAXAQQ.php"
+    },
+    {
+      "text": "Abonn\u00e9sL\u00e9gislatives en Seine-Saint-Denis : \u00abLe retour d\u2019une gauche populaire\u00bb... carton plein pour les fid\u00e8les de Jean-Luc M\u00e9lenchon",
+      "url": "//www.leparisien.fr/seine-saint-denis-93/legislatives-en-seine-saint-denis-le-retour-dune-gauche-populaire-carton-plein-pour-les-fideles-de-melenchon-13-06-2022-V7663FPOB5HVPKJYB7G5IPXLRE.php"
+    },
+    {
+      "text": "Une chambre d\u2019h\u00f4tes perch\u00e9e sur pilotis dans la Marne: le coup de c\u0153ur des G\u00eetes de France",
+      "url": "//www.leparisien.fr/marne-51/une-chambre-dhotes-perchee-sur-pilotis-dans-la-marne-le-coup-de-coeur-des-gites-de-france-13-06-2022-LL4GAPRCANFOTBJ2JLVTWQET2Q.php"
+    },
+    {
+      "text": "Pr\u00e8s de Rouen, \u00able pays de Madame Bovary\u00bb esp\u00e8re sauver son dernier restaurant",
+      "url": "//www.leparisien.fr/seine-maritime-76/pres-de-rouen-le-pays-de-madame-bovary-espere-sauver-son-dernier-restaurant-13-06-2022-PDPOXCX5JJCURBUQQFH4YWAWEA.php"
+    },
+    {
+      "text": "A la Pointe du Hoc, les Am\u00e9ricains prot\u00e8gent la m\u00e9moire de leurs soldats",
+      "url": "//www.leparisien.fr/calvados-14/a-la-pointe-du-hoc-les-americains-protegent-la-memoire-de-leurs-soldats-13-06-2022-IBZUJEXRJFA5TLAZ55FJTYRGPA.php"
+    },
+    {
+      "text": "\u00abJe me suis mis le vestiaire \u00e0 dos\u00bb : r\u00e9cit d\u2019une victoire et d\u2019une semaine sous tension pour Bordeaux-B\u00e8gles",
+      "url": "//www.leparisien.fr/sports/rugby/je-me-suis-mis-le-vestiaire-a-dos-recit-dune-victoire-et-dune-semaine-sous-tension-pour-bordeaux-begles-13-06-2022-USSOAIEC5BGQXADCURPMWHZI6I.php"
+    },
+    {
+      "text": "Gaia, la mission qui montre la Voie lact\u00e9e sous un nouveau jour",
+      "url": "//www.leparisien.fr/sciences/gaia-la-mission-qui-montre-la-voie-lactee-sous-un-nouveau-jour-13-06-2022-X2HJO6XNJRCSHLTW2M4GDU7RLY.php"
+    },
+    {
+      "text": "Le premier fonds souverain r\u00e9gional cr\u00e9\u00e9 en Auvergne-Rh\u00f4ne-Alpes : \u00abL\u00e0, votre investissement a un sens\u00bb",
+      "url": "//www.leparisien.fr/rhone-69/le-premier-fond-souverain-regional-cree-en-auvergne-rhone-alpes-la-votre-investissement-a-un-sens-13-06-2022-3OLGFRG33BER3KKSS566XJJJS4.php"
+    },
+    {
+      "text": "Amnesty international accuse la Russie de crimes de guerre en Ukraine",
+      "url": "//www.leparisien.fr/international/amnesty-international-accuse-la-russie-de-crimes-de-guerre-en-ukraine-13-06-2022-MQH2K25K3NABJAD2CJFPIMYPIE.php"
+    },
+    {
+      "text": "Audiences TV : les soir\u00e9es \u00e9lectorales de France T\u00e9l\u00e9visions battues par les films de TF1 et M6",
+      "url": "//www.leparisien.fr/culture-loisirs/tv/audiences-tv-les-soirees-electorales-de-france-televisions-battues-par-les-films-de-tf1-et-m6-13-06-2022-NQD6V2EO55FPNNJDMIRLO5GRTA.php"
+    },
+    {
+      "text": "Foot : Darwin Nunez \u00e0 Liverpool, c\u2019est fait !",
+      "url": "//www.leparisien.fr/sports/football/foot-darwin-nunez-a-liverpool-cest-fait-13-06-2022-DTQVWNUL6NB7DGUGKOGBZNVER4.php"
+    },
+    {
+      "text": "Incendie \u00e0 Strasbourg : quatre morts, dont deux enfants",
+      "url": "//www.leparisien.fr/faits-divers/incendie-a-strasbourg-quatre-morts-dont-deux-enfants-13-06-2022-TZAWNIGUWZHI7M4UJYDTPMPLFA.php"
+    },
+    {
+      "text": "Les cigognes youtubeuses d\u2019Elsenheim : un live pour suivre leur quotidien",
+      "url": "//www.leparisien.fr/bas-rhin-67/les-cigognes-youtubeuses-delsenheim-un-live-pour-suivre-leur-quotidien-13-06-2022-TVEIJOWLLJF6LD6RHPYWCJEISU.php"
+    },
+    {
+      "text": "L\u00e9gislatives : pourquoi la Nupes d\u00e9nonce une \u00abmanipulation\u00bb des r\u00e9sultats du premier tour",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-pourquoi-la-nupes-denonce-une-manipulation-dans-les-resultats-du-premier-tour-13-06-2022-7JG566KD3ZHVRC6LI2NGFIBURQ.php"
+    },
+    {
+      "text": "Voile: un monocoque 100% recyclable, une premi\u00e8re mondiale \u00e0 La Rochelle",
+      "url": "//www.leparisien.fr/charente-maritime-17/voile-un-monocoque-100-recyclable-une-premiere-mondiale-a-la-rochelle-13-06-2022-KT6VHAZDNBCZRDVEDXWJ3O67UE.php"
+    },
+    {
+      "text": "C\u00f4tes du Roussillon : les vins des Aspres visent le premier cru",
+      "url": "//www.leparisien.fr/pyrenees-orientales-66/cotes-du-roussillon-les-vins-des-aspres-visent-le-premier-cru-13-06-2022-46RM6OO565C2NBTC6DS6N7SRFI.php"
+    },
+    {
+      "text": "Discrimination sexiste : Google paye 118 millions de dollars pour solder une plainte en nom collectif",
+      "url": "//www.leparisien.fr/high-tech/discrimination-sexiste-google-paye-118-millions-de-dollars-pour-solder-une-plainte-en-nom-collectif-13-06-2022-PFWFZGOHGRAP5IRNYXSED33PVM.php"
+    },
+    {
+      "text": "Made in France : Brandt compte sur les startups pour se rajeunir",
+      "url": "//www.leparisien.fr/loiret-45/made-in-france-brandt-compte-sur-les-startups-pour-se-rajeunir-13-06-2022-RE6C2W6W2VCR3O4L76VOS5NQ6Y.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-un-combat-electoral-tres-intense-sannonce-au-second-tour-prevoit-bruno-cautres-13-06-2022-4AVNAKDKKFFP7IIOS6VZRS7R3U.php"
+    },
+    {
+      "text": "Abonn\u00e9sL\u00e9gislatives : \u00abUn combat \u00e9lectoral tr\u00e8s intense s\u2019annonce\u00bb au second tour, pr\u00e9voit Bruno Cautr\u00e8s",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-un-combat-electoral-tres-intense-sannonce-au-second-tour-prevoit-bruno-cautres-13-06-2022-4AVNAKDKKFFP7IIOS6VZRS7R3U.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/environnement/alerte-au-scarabee-japonais-qui-devore-cereales-fruitiers-gazon-13-06-2022-ZXHIPIYJEFFUZJ7YZNTOCK4CZY.php"
+    },
+    {
+      "text": "Alerte au scarab\u00e9e japonais, qui d\u00e9vore c\u00e9r\u00e9ales, fruitiers, gazon\u2026",
+      "url": "//www.leparisien.fr/environnement/alerte-au-scarabee-japonais-qui-devore-cereales-fruitiers-gazon-13-06-2022-ZXHIPIYJEFFUZJ7YZNTOCK4CZY.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/sciences/gaia-la-mission-qui-montre-la-voie-lactee-sous-un-nouveau-jour-13-06-2022-X2HJO6XNJRCSHLTW2M4GDU7RLY.php"
+    },
+    {
+      "text": "Gaia, la mission qui montre la Voie lact\u00e9e sous un nouveau jour",
+      "url": "//www.leparisien.fr/sciences/gaia-la-mission-qui-montre-la-voie-lactee-sous-un-nouveau-jour-13-06-2022-X2HJO6XNJRCSHLTW2M4GDU7RLY.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/faits-divers/lancien-responsable-local-du-fn-devenu-dealer-de-cocaine-devant-la-justice-pour-tentative-dassassinat-13-06-2022-BUB5XWJDHRH53P26KYC3GY3FQQ.php"
+    },
+    {
+      "text": "Abonn\u00e9sL\u2019ancien responsable local du FN, devenu dealer de coca\u00efne, devant la justice pour tentative d\u2019assassinat",
+      "url": "//www.leparisien.fr/faits-divers/lancien-responsable-local-du-fn-devenu-dealer-de-cocaine-devant-la-justice-pour-tentative-dassassinat-13-06-2022-BUB5XWJDHRH53P26KYC3GY3FQQ.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/video/video-londres-des-cyclistes-manifestent-completement-nus-13-06-2022-PI6BRI2NFFARZOXC7BHMI7GJYU.php"
+    },
+    {
+      "text": "VID\u00c9O. Londres : des cyclistes manifestent... compl\u00e8tement nus",
+      "url": "//www.leparisien.fr/video/video-londres-des-cyclistes-manifestent-completement-nus-13-06-2022-PI6BRI2NFFARZOXC7BHMI7GJYU.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/video/video-des-ingenieurs-tunisiens-inventent-une-machine-pour-transformer-lair-ambiant-en-eau-potable-13-06-2022-MJ5V4ZRCJ5GUJL2YGCINU5RGYQ.php"
+    },
+    {
+      "text": "VID\u00c9O. Des ing\u00e9nieurs tunisiens inventent une machine pour transformer l\u2019air ambiant en eau potable",
+      "url": "//www.leparisien.fr/video/video-des-ingenieurs-tunisiens-inventent-une-machine-pour-transformer-lair-ambiant-en-eau-potable-13-06-2022-MJ5V4ZRCJ5GUJL2YGCINU5RGYQ.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/video/video-une-dynamique-incroyable-porteuse-despoir-au-qg-de-la-nupes-cest-lexplosion-de-joie-12-06-2022-SD5L5OMNH5BYDCPEKFHHWHBO3Y.php"
+    },
+    {
+      "text": "VID\u00c9O. Au QG de la Nupes, des militants transcend\u00e9s par \u00abune dynamique  porteuse d\u2019espoir\u00bb",
+      "url": "//www.leparisien.fr/video/video-une-dynamique-incroyable-porteuse-despoir-au-qg-de-la-nupes-cest-lexplosion-de-joie-12-06-2022-SD5L5OMNH5BYDCPEKFHHWHBO3Y.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-la-premiere-ministre-elisabeth-borne-largement-en-tete-dans-le-calvados-12-06-2022-22C4LBCJKVCH7E34AA2WCYW2GY.php"
+    },
+    {
+      "text": "L\u00e9gislatives : la Premi\u00e8re ministre \u00c9lisabeth Borne largement en t\u00eate dans le Calvados",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-la-premiere-ministre-elisabeth-borne-largement-en-tete-dans-le-calvados-12-06-2022-22C4LBCJKVCH7E34AA2WCYW2GY.php"
+    },
+    {
       "text": "Voir plus d'articles",
       "url": "/elections/legislatives/"
     },
     {
-      "text": "Trouvez votre circonscription",
-      "url": "https://www.leparisien.fr/elections/legislatives/legislatives-2022-quelle-est-votre-circonscription-electorale-la-reponse-dans-notre-moteur-de-recherche-03-05-2022-FUJV56DDGRFT5JYI5A63RONDSY.php"
+      "text": "",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-labstention-des-jeunes-a-t-elle-porte-prejudice-a-la-nupes-13-06-2022-5TWT5U4A5FANFLIL4N2MQGTPC4.php"
     },
     {
-      "text": "D\u00e9couvrez vos candidats",
-      "url": "https://www.leparisien.fr/elections/legislatives/legislatives-2022-qui-est-candidat-dans-votre-circonscription-11-05-2022-SPYQZFM3MBEY7ISO3N2RIRU6D4.php"
-    },
-    {
-      "text": "Lire l'article",
-      "url": "https://www.leparisien.fr/elections/legislatives/legislatives-dix-questions-pratiques-sur-un-scrutin-decisif-12-06-2022-3X4XZ7NNZFHO5A5FOSKJKWJQJI.php"
-    },
-    {
-      "text": "S'inscrire",
-      "url": "https://www.leparisien.fr/inscription-alertes-resultats/"
+      "text": "Abonn\u00e9sL\u00e9gislatives : l\u2019abstention des jeunes a-t-elle port\u00e9 pr\u00e9judice \u00e0 la Nupes ?Les jeunes \u00e9taient les plus susceptibles de voter pour la Nupes. C\u2019\u00e9tait \u00e9galement eux qui risquaient de s\u2019abstenir le plus. Pour autant, la campagne de la gauche vers cette cat\u00e9gorie d\u2019\u00e2ge n\u2019a pas \u00e9t\u00e9 totalement vaine. ",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-labstention-des-jeunes-a-t-elle-porte-prejudice-a-la-nupes-13-06-2022-5TWT5U4A5FANFLIL4N2MQGTPC4.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/elections/legislatives/direct-legislatives-2022-suivez-la-journee-de-vote-du-premier-tour-12-06-2022-PPGVPS73VFDG3LL7BOSVH5Z65M.php"
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-quand-jean-luc-melenchon-pretend-vouloir-etre-premier-ministre-cest-surtout-le-premier-menteur-tacle-elisabeth-borne-13-06-2022-7LOC4I4HHJDIFCTTH3ABQLC6PM.php"
     },
     {
-      "text": "DIRECT. L\u00e9gislatives : Emmanuel Macron et son \u00e9pouse Brigitte ont vot\u00e9 au TouquetAvant les r\u00e9sultats ce dimanche soir, plus de 45 millions d\u2019\u00e9lecteurs sont appel\u00e9s aux urnes pour d\u00e9signer les 577 d\u00e9put\u00e9s et quelle majorit\u00e9 ils veulent \u00e0 l\u2019Assembl\u00e9e nationale.",
-      "url": "//www.leparisien.fr/elections/legislatives/direct-legislatives-2022-suivez-la-journee-de-vote-du-premier-tour-12-06-2022-PPGVPS73VFDG3LL7BOSVH5Z65M.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-la-participation-au-premier-tour-seleve-a-1843-a-midi-12-06-2022-SCDRZ6L55NBRNP7XS5U6KOIHEQ.php"
-    },
-    {
-      "text": "L\u00e9gislatives : la participation au premier tour s\u2019\u00e9l\u00e8ve \u00e0 18,43% \u00e0 midi, en baisse par rapport \u00e0 2017",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-la-participation-au-premier-tour-seleve-a-1843-a-midi-12-06-2022-SCDRZ6L55NBRNP7XS5U6KOIHEQ.php"
+      "text": "L\u00e9gislatives : \u00abQuand M\u00e9lenchon pr\u00e9tend vouloir \u00eatre Premier ministre, c\u2019est surtout le premier menteur\u00bb, tacle Borne",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-quand-jean-luc-melenchon-pretend-vouloir-etre-premier-ministre-cest-surtout-le-premier-menteur-tacle-elisabeth-borne-13-06-2022-7LOC4I4HHJDIFCTTH3ABQLC6PM.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-dix-questions-pratiques-sur-un-scrutin-decisif-12-06-2022-3X4XZ7NNZFHO5A5FOSKJKWJQJI.php"
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-elimine-dans-le-loiret-jean-michel-blanquer-veut-deposer-un-recours-13-06-2022-P6QNEEXJHJEPVPVU7Q3Q3OQZNI.php"
     },
     {
-      "text": "Dix questions pratiques sur un scrutin d\u00e9cisif ",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-dix-questions-pratiques-sur-un-scrutin-decisif-12-06-2022-3X4XZ7NNZFHO5A5FOSKJKWJQJI.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-ministres-en-danger-deputes-sortants-menaces-voici-tous-les-points-chauds-a-surveiller-12-06-2022-THKRIW4LENELLLCZEDVFM4BHBU.php"
-    },
-    {
-      "text": "Abonn\u00e9sMinistres en danger, d\u00e9put\u00e9s sortants menac\u00e9s... voici tous les points chauds \u00e0 surveiller",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-ministres-en-danger-deputes-sortants-menaces-voici-tous-les-points-chauds-a-surveiller-12-06-2022-THKRIW4LENELLLCZEDVFM4BHBU.php"
+      "text": "L\u00e9gislatives : \u00e9limin\u00e9 dans le Loiret, Jean-Michel Blanquer veut d\u00e9poser un recours",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-elimine-dans-le-loiret-jean-michel-blanquer-veut-deposer-un-recours-13-06-2022-P6QNEEXJHJEPVPVU7Q3Q3OQZNI.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-et-deja-la-question-des-consignes-de-vote-au-second-tour-12-06-2022-5G4VKIQLC5GV3D7UABHGQPLTQU.php"
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-ces-huit-circonscriptions-avec-des-triangulaires-au-second-tour-13-06-2022-MVOG3WXCDBAC5KAVW4P7UIITSQ.php"
     },
     {
-      "text": "Abonn\u00e9sEt d\u00e9j\u00e0, la question des consignes de vote au second tour ",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-et-deja-la-question-des-consignes-de-vote-au-second-tour-12-06-2022-5G4VKIQLC5GV3D7UABHGQPLTQU.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/faits-divers/promeneurs-des-berges-du-rhone-cibles-linquietant-projet-dattentat-imminent-de-sofiane-e-lyceen-de-18-ans-12-06-2022-H7UGF6BWVJB5VDM7KLI3V7KJ44.php"
-    },
-    {
-      "text": "Abonn\u00e9sPromeneurs des berges du Rh\u00f4ne cibl\u00e9s : l\u2019inqui\u00e9tant projet d\u2019attentat imminent de Sofiane E., lyc\u00e9en de 18 ansINFO LE PARISIEN. Mis en examen et \u00e9crou\u00e9 le 24 mai, Sofiane E. projetait une attaque au couteau sur les berges du Rh\u00f4ne, dans la r\u00e9gion de Valence (Dr\u00f4me), et \u00e9tait sous l\u2019influence d\u2019un djihadiste localis\u00e9 en Syrie. Son p\u00e8re t\u00e9moigne de son incompr\u00e9hension.",
-      "url": "//www.leparisien.fr/faits-divers/promeneurs-des-berges-du-rhone-cibles-linquietant-projet-dattentat-imminent-de-sofiane-e-lyceen-de-18-ans-12-06-2022-H7UGF6BWVJB5VDM7KLI3V7KJ44.php"
+      "text": "L\u00e9gislatives : ces huit circonscriptions avec des triangulaires au second tour",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-ces-huit-circonscriptions-avec-des-triangulaires-au-second-tour-13-06-2022-MVOG3WXCDBAC5KAVW4P7UIITSQ.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-macron-joue-lavenir-de-son-quinquennat-12-06-2022-6XVAHGQSLVE4DA3JM4RDAZY7NI.php"
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-et-maintenant-la-bataille-sans-merci-du-second-tour-13-06-2022-6G4VGXWQ6RFZ5LAW57FLQTDZ24.php"
     },
     {
-      "text": "Abonn\u00e9sL\u00e9gislatives\u00a0: Macron joue l\u2019avenir de son quinquennat",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-macron-joue-lavenir-de-son-quinquennat-12-06-2022-6XVAHGQSLVE4DA3JM4RDAZY7NI.php"
+      "text": "L\u00e9gislatives 2022 : et maintenant, la bataille sans merci du second tour",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-et-maintenant-la-bataille-sans-merci-du-second-tour-13-06-2022-6G4VGXWQ6RFZ5LAW57FLQTDZ24.php"
     },
     {
-      "text": "",
-      "url": "//www.leparisien.fr/international/guerre-en-ukraine-les-anciens-mcdo-de-russie-rebaptises-vkousno-i-totchka-12-06-2022-44ISSCXYLNFCJCWDVPX4BNR3UU.php"
-    },
-    {
-      "text": "Guerre en Ukraine : les anciens McDo de Russie rebaptis\u00e9s \u00abVkousno i totchka\u00bb ",
-      "url": "//www.leparisien.fr/international/guerre-en-ukraine-les-anciens-mcdo-de-russie-rebaptises-vkousno-i-totchka-12-06-2022-44ISSCXYLNFCJCWDVPX4BNR3UU.php"
+      "text": "Voir tous les r\u00e9sultats",
+      "url": "/resultats-elections/"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/international/direct-guerre-en-ukraine-le-statut-de-candidat-a-lue-serait-un-point-de-depart-selon-zelensky-12-06-2022-AUYFOOO4ARAZNKIXYZ6ADE7PHY.php"
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-cinq-cartes-pour-comprendre-le-premier-tour-13-06-2022-6AYL67M6YNEEBH3EWHTVG2Y5UM.php"
     },
     {
-      "text": "DIRECT. Guerre en Ukraine : au moins 22 bless\u00e9s par une frappe russe sur la ville de Tchortkiv, dans l'ouest",
-      "url": "//www.leparisien.fr/international/direct-guerre-en-ukraine-le-statut-de-candidat-a-lue-serait-un-point-de-depart-selon-zelensky-12-06-2022-AUYFOOO4ARAZNKIXYZ6ADE7PHY.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/societe/sante/covid-19-annonces-pour-le-printemps-esperes-a-lautomne-ou-en-sont-les-vaccins-adaptes-a-omicron-12-06-2022-W24FDQPJAJECXJ72GT5ARRQ5FA.php"
-    },
-    {
-      "text": "Abonn\u00e9sCovid-19 : annonc\u00e9s pour le printemps, esp\u00e9r\u00e9s \u00e0 l\u2019automne... o\u00f9 en sont les vaccins adapt\u00e9s \u00e0 Omicron ?",
-      "url": "//www.leparisien.fr/societe/sante/covid-19-annonces-pour-le-printemps-esperes-a-lautomne-ou-en-sont-les-vaccins-adaptes-a-omicron-12-06-2022-W24FDQPJAJECXJ72GT5ARRQ5FA.php"
+      "text": "L\u00e9gislatives 2022 : cinq cartes pour comprendre le premier tour",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-cinq-cartes-pour-comprendre-le-premier-tour-13-06-2022-6AYL67M6YNEEBH3EWHTVG2Y5UM.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/culture-loisirs/musique/omar-sy-stromae-david-guetta-le-sacre-de-dj-snake-au-parc-des-princes-12-06-2022-KYA6Y3Q7QZFVND6LYBQXGTYGRI.php"
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-5-cartes-pour-comprendre-le-premier-tour-a-paris-13-06-2022-PJDX65IKRZGSPM4FXWAGZDJWVU.php"
     },
     {
-      "text": "David Guetta, Omar Sy, Stromae... Le sacre de DJ Snake au Parc des Princes",
-      "url": "//www.leparisien.fr/culture-loisirs/musique/omar-sy-stromae-david-guetta-le-sacre-de-dj-snake-au-parc-des-princes-12-06-2022-KYA6Y3Q7QZFVND6LYBQXGTYGRI.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/economie/impots/prelevement-a-la-source-mariage-naissance-retraite-promotion-declarez-les-pour-ne-pas-payer-trop-dimpots-12-06-2022-FABKQIANARGB5JVGHZ7GAATG6M.php"
-    },
-    {
-      "text": "Abonn\u00e9sPr\u00e9l\u00e8vement \u00e0 la source : mariage, naissance, retraite, promotion... d\u00e9clarez-les pour ne pas payer trop d\u2019imp\u00f4ts",
-      "url": "//www.leparisien.fr/economie/impots/prelevement-a-la-source-mariage-naissance-retraite-promotion-declarez-les-pour-ne-pas-payer-trop-dimpots-12-06-2022-FABKQIANARGB5JVGHZ7GAATG6M.php"
+      "text": "L\u00e9gislatives 2022 : cinq cartes pour comprendre le premier tour \u00e0 Paris",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-5-cartes-pour-comprendre-le-premier-tour-a-paris-13-06-2022-PJDX65IKRZGSPM4FXWAGZDJWVU.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/high-tech/ultra-connecte-autosuffisant-et-secret-bienvenue-a-lapple-park-12-06-2022-VJGAV3L3RVFP7EEORC5RBADMPU.php"
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-la-carte-des-territoires-conquis-par-le-rassemblement-national-en-tete-dans-110-circonscriptions-13-06-2022-Y36AKOMIJBDNLISLMCEN22STLA.php"
     },
     {
-      "text": "Ultra connect\u00e9, autosuffisant et secret : bienvenue \u00e0 l\u2019Apple Park",
-      "url": "//www.leparisien.fr/high-tech/ultra-connecte-autosuffisant-et-secret-bienvenue-a-lapple-park-12-06-2022-VJGAV3L3RVFP7EEORC5RBADMPU.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Tarbes : quand conna\u00eetra-t-on les r\u00e9sultats et les candidats qualifi\u00e9s pour le second tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-tarbes-quand-connaitra-t-on-les-resultats-et-les-candidats-qualifies-pour-le-second-tour-12-06-2022-2P73EOF2ERAYDANVYK5W2K2Q3I.php"
-    },
-    {
-      "text": "L\u00e9gislatives : pourquoi l\u2019entre-deux-tours ne dure-t-il qu\u2019une semaine ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-pourquoi-lentre-deux-tours-ne-dure-t-il-quune-semaine-12-06-2022-I2NDOCULGZDTFFJEBEMZ4PZMB4.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : o\u00f9 et quand consulter les r\u00e9sultats du premier tour \u00e0 Laval ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-ou-et-quand-consulter-les-resultats-du-premier-tour-a-laval-12-06-2022-4Y3ZBRF3O5CW7ICP63HV7NMZ2Q.php"
-    },
-    {
-      "text": "\u00abS\u2019il vous pla\u00eet, sauvez-le\u00bb : l\u2019appel des proches du Marocain condamn\u00e9 \u00e0 mort en Ukraine par les prorusses",
-      "url": "//www.leparisien.fr/international/sil-vous-plait-sauvez-le-lappel-des-proches-du-marocain-condamne-a-mort-en-ukraine-par-les-prorusses-12-06-2022-M3YPWFBU6JDSDO5VE3RTDNQSVY.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : o\u00f9 et quand consulter les r\u00e9sultats du premier tour \u00e0 La Roche-sur-Yon ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-ou-et-quand-consulter-les-resultats-du-premier-tour-a-la-roche-sur-yon-12-06-2022-HLDSKLV3LJDF5G5GZTFTO7JPVQ.php"
-    },
-    {
-      "text": "Beauvais : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/beauvais-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-J33QNJ3PT5B47AF2UNSKXSQ4MY.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Troyes : \u00e0 quelle heure consulter les r\u00e9sultats du premier tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-troyes-a-quelle-heure-consulter-les-resultats-du-premier-tour-12-06-2022-EOSTGW6SXNHBTAIUCK24GLDBNE.php"
-    },
-    {
-      "text": "Bourges : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/bourges-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-GFSCTQZACFGDLOCLR2CFKJWLOA.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Versailles : \u00e0 quelle heure consulter les r\u00e9sultats du premier tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-versailles-a-quelle-heure-consulter-les-resultats-du-premier-tour-12-06-2022-HFWM57BSQVBRHCB4HQG6AZEYTM.php"
-    },
-    {
-      "text": "Orages d\u00e9but juin : l\u2019\u00e9tat de catastrophe naturelle reconnu",
-      "url": "//www.leparisien.fr/societe/orages-debut-juin-letat-de-catastrophe-naturelle-reconnu-12-06-2022-WTXTTUPLAVBIZLO7ELVXGBXHM4.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Colombes : quand conna\u00eetra-t-on les r\u00e9sultats et les candidats qualifi\u00e9s pour le second tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-colombes-quand-connaitra-t-on-les-resultats-et-les-candidats-qualifies-pour-le-second-tour-12-06-2022-WCNYAF7ZDJGZHOQTDGGESDJFRM.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Poitiers : quand conna\u00eetra-t-on les r\u00e9sultats et les candidats qualifi\u00e9s pour le second tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-poitiers-quand-connaitra-t-on-les-resultats-et-les-candidats-qualifies-pour-le-second-tour-12-06-2022-BJFD77HEGVHY5PYAGBLZFNOVMU.php"
-    },
-    {
-      "text": "Cr\u00e9teil : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/creteil-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-3QEPRML7A5C2HN7VT2WIHUKMXM.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : quand les r\u00e9sultats du premier tour \u00e0 Vitry-sur-Seine seront-ils disponibles ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-quand-les-resultats-du-premier-tour-a-vitry-sur-seine-seront-ils-disponibles-12-06-2022-VMGPQQ62EFGP5O5NDM4GTCOF5Q.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Tourcoing : quand conna\u00eetra-t-on les r\u00e9sultats et les candidats qualifi\u00e9s pour le second tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-tourcoing-quand-connaitra-t-on-les-resultats-et-les-candidats-qualifies-pour-le-second-tour-12-06-2022-UGIFK5SG2NBJ3CLQ6LK4VUR4IM.php"
-    },
-    {
-      "text": "Roubaix : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/roubaix-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-KZ6PIUZTSZBMPILNDZVGICGJEM.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : o\u00f9 et quand consulter les r\u00e9sultats du premier tour \u00e0 Saint-Paul ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-ou-et-quand-consulter-les-resultats-du-premier-tour-a-saint-paul-12-06-2022-DKMEBZXGDRAO3DRYT4UB6Q2MRU.php"
-    },
-    {
-      "text": "Nancy : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/nancy-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-67DZCTT3EZGADDSDJXKXBCTQ7A.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Caen : \u00e0 quelle heure consulter les r\u00e9sultats du premier tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-caen-a-quelle-heure-consulter-les-resultats-du-premier-tour-12-06-2022-ERANASEXLRECNNRZVRK2DVKPOU.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Mulhouse : \u00e0 quelle heure consulter les r\u00e9sultats du premier tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-mulhouse-a-quelle-heure-consulter-les-resultats-du-premier-tour-12-06-2022-GQCLW2KFZZBIRAOH6EE6KURZFQ.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Rouen : \u00e0 quelle heure consulter les r\u00e9sultats du premier tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-rouen-a-quelle-heure-consulter-les-resultats-du-premier-tour-12-06-2022-MLQVNIIJ5JFP3DMLVTAMWA3WHQ.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Saint-Denis : \u00e0 quelle heure consulter les r\u00e9sultats du premier tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-saint-denis-a-quelle-heure-consulter-les-resultats-du-premier-tour-12-06-2022-YV4Q6FKXR5DWFAMZLBEUZEQGX4.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Orl\u00e9ans : \u00e0 quelle heure consulter les r\u00e9sultats du premier tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-orleans-a-quelle-heure-consulter-les-resultats-du-premier-tour-12-06-2022-LSD6EF3EZRF4PNUZBNYQ2C45CM.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Besan\u00e7on : quand conna\u00eetra-t-on les r\u00e9sultats et les candidats qualifi\u00e9s pour le second tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-besancon-quand-connaitra-t-on-les-resultats-et-les-candidats-qualifies-pour-le-second-tour-12-06-2022-LLMMJCPLR5APPJZODSO3WNCFNE.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Metz : quand conna\u00eetra-t-on les r\u00e9sultats et les candidats qualifi\u00e9s pour le second tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-metz-quand-connaitra-t-on-les-resultats-et-les-candidats-qualifies-pour-le-second-tour-12-06-2022-ADD2J4RBWRFS3BLYSAPAZWCSTM.php"
-    },
-    {
-      "text": "Perpignan : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/perpignan-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-Y4AB66SXBBFMHFMO5PKJE4ZE7Q.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Boulogne-Billancourt : \u00e0 quelle heure consulter les r\u00e9sultats du premier tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-boulogne-billancourt-a-quelle-heure-consulter-les-resultats-du-premier-tour-12-06-2022-6SY4ETSPTRDDFH64YMIEWI725A.php"
-    },
-    {
-      "text": "Coupe du monde : l\u2019Australie ou le P\u00e9rou pour les Bleus ?",
-      "url": "//www.leparisien.fr/sports/football/coupe-du-monde-laustralie-ou-le-perou-pour-les-bleus-12-06-2022-L4BVGWOSZRHJVM2FKUO2LOEKYI.php"
-    },
-    {
-      "text": "Annecy : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/annecy-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-MXVKEOJ5T5HBVGWSKXE5TGGLFU.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : o\u00f9 et quand consulter les r\u00e9sultats du premier tour \u00e0 Limoges ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-ou-et-quand-consulter-les-resultats-du-premier-tour-a-limoges-12-06-2022-7MSGVV6KPJE2VHIOZGU4MYNIE4.php"
-    },
-    {
-      "text": "Abonn\u00e9sPromeneurs des berges du Rh\u00f4ne cibl\u00e9s : l\u2019inqui\u00e9tant projet d\u2019attentat imminent de Sofiane E., lyc\u00e9en de 18 ans",
-      "url": "//www.leparisien.fr/faits-divers/promeneurs-des-berges-du-rhone-cibles-linquietant-projet-dattentat-imminent-de-sofiane-e-lyceen-de-18-ans-12-06-2022-H7UGF6BWVJB5VDM7KLI3V7KJ44.php"
-    },
-    {
-      "text": "Amiens : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/amiens-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-QHZLBCDCJZFRZJBH6YV5Z4ZAAY.php"
-    },
-    {
-      "text": "Tours : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/tours-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-K2QB7RKW6BGH3IZMIVN5HT3F3Q.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : quand les r\u00e9sultats du premier tour \u00e0 Brest seront-ils disponibles ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-quand-les-resultats-du-premier-tour-a-brest-seront-ils-disponibles-12-06-2022-R22XUE52OBA5NE73ONEM45UALU.php"
-    },
-    {
-      "text": "L\u00e9gislatives en Essonne : 12,77 % de participation \u00e0 12 heures, en baisse par rapport \u00e0 2017",
-      "url": "//www.leparisien.fr/essonne-91/legislatives-en-essonne-1277-de-participation-a-12-heures-en-baisse-par-rapport-a-2017-12-06-2022-CZG2FHDVNJAZRNMK7YL4OT3U44.php"
-    },
-    {
-      "text": "Ultra connect\u00e9, autosuffisant et secret : bienvenue \u00e0 l\u2019Apple Park",
-      "url": "//www.leparisien.fr/high-tech/ultra-connecte-autosuffisant-et-secret-bienvenue-a-lapple-park-12-06-2022-VJGAV3L3RVFP7EEORC5RBADMPU.php"
-    },
-    {
-      "text": "L\u00e9gislatives au Mans : quand conna\u00eetra-t-on les r\u00e9sultats et les candidats qualifi\u00e9s pour le second tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-au-mans-quand-connaitra-t-on-les-resultats-et-les-candidats-qualifies-pour-le-second-tour-12-06-2022-BCITXPS2QZGQ5OXRGFJ75XSFBU.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Aix-en-Provence : \u00e0 quelle heure consulter les r\u00e9sultats du premier tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-aix-en-provence-a-quelle-heure-consulter-les-resultats-du-premier-tour-12-06-2022-ZXODHO32BRDARLDPVG6Q73KR3Q.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Paris: \u00e0 midi, le taux de participation est de 12,26%, plus \u00e9lev\u00e9 qu\u2019en 2017",
-      "url": "//www.leparisien.fr/paris-75/legislatives-a-paris-a-midi-le-taux-de-participation-est-de-1226-plus-eleve-quen-2017-12-06-2022-QPQUZA7WOJELZEACCPQBWPACAU.php"
-    },
-    {
-      "text": "L\u00e9gislatives dans le Val-d\u2019Oise : la participation \u00e0 midi en net recul par rapport au premier tour de 2017",
-      "url": "//www.leparisien.fr/val-d-oise-95/legislatives-dans-le-val-doise-la-participation-a-midi-en-net-recul-par-rapport-au-premier-tour-de-2017-12-06-2022-CRJAUSU5Y5GBHM7NWHCYZDICEI.php"
-    },
-    {
-      "text": "L\u00e9gislatives en Seine-Saint-Denis : la participation s\u2019\u00e9tablit \u00e0 seulement 9,85% \u00e0 la mi-journ\u00e9e",
-      "url": "//www.leparisien.fr/seine-saint-denis-93/legislatives-en-seine-saint-denis-la-participation-setablit-a-seulement-985-a-la-mi-journee-12-06-2022-KXAA72EMTVCDFJM7R467YBOYGE.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : o\u00f9 et quand consulter les r\u00e9sultats du premier tour \u00e0 Clermont-Ferrand ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-ou-et-quand-consulter-les-resultats-du-premier-tour-a-clermont-ferrand-12-06-2022-CG52ZFFPYRERFK3MLI4V3WQMTA.php"
-    },
-    {
-      "text": "N\u00eemes : o\u00f9 et quand consulter les r\u00e9sultats du premier tour des \u00e9lections l\u00e9gislatives 2022 ?",
-      "url": "//www.leparisien.fr/elections/legislatives/nimes-ou-et-quand-consulter-les-resultats-du-premier-tour-des-elections-legislatives-2022-12-06-2022-XB2YKRVAMNB6ZEQ25XV4ZI3UK4.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Saint-Denis : quand conna\u00eetra-t-on les r\u00e9sultats et les candidats qualifi\u00e9s pour le second tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-a-saint-denis-quand-connaitra-t-on-les-resultats-et-les-candidats-qualifies-pour-le-second-tour-12-06-2022-3DFZB2YFEZD7XHQ7H2TX5CCRKU.php"
-    },
-    {
-      "text": "L\u00e9gislatives dans l\u2019Oise : la participation \u00e0 midi en l\u00e9ger recul par rapport au premier tour de 2017",
-      "url": "//www.leparisien.fr/oise-60/legislatives-dans-loise-la-participation-a-midi-en-leger-recul-par-rapport-au-premier-tour-de-2017-12-06-2022-MCFQKXG2XBCJ7AOEESRBE3WE5M.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : o\u00f9 et quand consulter les r\u00e9sultats du premier tour \u00e0 Angers ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-ou-et-quand-consulter-les-resultats-du-premier-tour-a-angers-12-06-2022-CHWFTPMTUNGJPLDT5USIOZVFII.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : quand les r\u00e9sultats du premier tour \u00e0 Dijon seront-ils disponibles ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-quand-les-resultats-du-premier-tour-a-dijon-seront-ils-disponibles-12-06-2022-LA7I7CA5GBG7BL6DV3MROII6IM.php"
-    },
-    {
-      "text": "L\u00e9gislatives 2022 : o\u00f9 et quand consulter les r\u00e9sultats du premier tour \u00e0 Grenoble ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-ou-et-quand-consulter-les-resultats-du-premier-tour-a-grenoble-12-06-2022-ZAY37YJP4JCB5DVDLKWPU46V4U.php"
-    },
-    {
-      "text": "L\u00e9gislatives en Seine-et-Marne : la participation \u00e0 midi en l\u00e9ger recul par rapport au premier tour de 2017",
-      "url": "//www.leparisien.fr/seine-et-marne-77/legislatives-en-seine-et-marne-la-participation-a-midi-en-leger-recul-par-rapport-au-premier-tour-de-2017-12-06-2022-XJNCKURZLNE2RAMNINJKEQNGAE.php"
-    },
-    {
-      "text": "L\u00e9gislatives au Havre : quand conna\u00eetra-t-on les r\u00e9sultats et les candidats qualifi\u00e9s pour le second tour ?",
-      "url": "//www.leparisien.fr/elections/legislatives/legislatives-au-havre-quand-connaitra-t-on-les-resultats-et-les-candidats-qualifies-pour-le-second-tour-12-06-2022-3RSGB3327JHJNCFE735F5FXI7A.php"
+      "text": "L\u00e9gislatives 2022 : la carte des territoires conquis par le Rassemblement national, en t\u00eate dans 110 circonscriptions",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-la-carte-des-territoires-conquis-par-le-rassemblement-national-en-tete-dans-110-circonscriptions-13-06-2022-Y36AKOMIJBDNLISLMCEN22STLA.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/faits-divers/la-pedopsychiatre-lediteur-de-bd-et-les-fantomes-dun-viol-en-1989-12-06-2022-ZKUHU7PANZE4BMBEO42RMDNFU4.php"
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-la-carte-dune-abstention-record-13-06-2022-6T4WQTMUBNCABN62S2PZYRKLGM.php"
     },
     {
-      "text": "Abonn\u00e9sLa p\u00e9dopsychiatre, l\u2019\u00e9diteur de BD et les fant\u00f4mes d\u2019un viol en 1989",
-      "url": "//www.leparisien.fr/faits-divers/la-pedopsychiatre-lediteur-de-bd-et-les-fantomes-dun-viol-en-1989-12-06-2022-ZKUHU7PANZE4BMBEO42RMDNFU4.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/culture-loisirs/musique/maintenant-je-peux-mourir-les-fans-delton-john-emus-par-son-concert-a-paris-la-defense-arena-12-06-2022-4FB5MAD3UVHKDBG6WI6RTKMBJI.php"
-    },
-    {
-      "text": "Abonn\u00e9s\u00abMaintenant, je peux mourir\u00bb : les fans d\u2019Elton John \u00e9mus par son concert \u00e0 Paris La D\u00e9fense Arena",
-      "url": "//www.leparisien.fr/culture-loisirs/musique/maintenant-je-peux-mourir-les-fans-delton-john-emus-par-son-concert-a-paris-la-defense-arena-12-06-2022-4FB5MAD3UVHKDBG6WI6RTKMBJI.php"
+      "text": "L\u00e9gislatives 2022 : la carte d\u2019une abstention record",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-la-carte-dune-abstention-record-13-06-2022-6T4WQTMUBNCABN62S2PZYRKLGM.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/culture-loisirs/musique/ils-nous-ont-permis-de-rever-marseille-si-fier-de-soprano-et-sa-bande-heros-dun-documentaire-evenement-12-06-2022-UVBNR2JFAVHHJLA75WHT5HSC2M.php"
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-5-cartes-pour-comprendre-le-premier-tour-a-paris-13-06-2022-PJDX65IKRZGSPM4FXWAGZDJWVU.php"
     },
     {
-      "text": "Abonn\u00e9s\u00abIls nous ont permis de r\u00eaver\u00bb\u00a0: Marseille si fier de Soprano et sa bande, h\u00e9ros d\u2019un documentaire \u00e9v\u00e9nement",
-      "url": "//www.leparisien.fr/culture-loisirs/musique/ils-nous-ont-permis-de-rever-marseille-si-fier-de-soprano-et-sa-bande-heros-dun-documentaire-evenement-12-06-2022-UVBNR2JFAVHHJLA75WHT5HSC2M.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/immobilier/les-rues-secretes-de-paris-les-maisons-so-british-de-la-villa-leandre-transportent-montmartre-a-londres-12-06-2022-3VTPCAXIY5BJREHTF4734FULHU.php"
-    },
-    {
-      "text": "Abonn\u00e9sLes rues secr\u00e8tes de Paris\u00a0: les maisons \u00abso british\u00bb de la villa L\u00e9andre transportent Montmartre \u00e0 Londres",
-      "url": "//www.leparisien.fr/immobilier/les-rues-secretes-de-paris-les-maisons-so-british-de-la-villa-leandre-transportent-montmartre-a-londres-12-06-2022-3VTPCAXIY5BJREHTF4734FULHU.php"
+      "text": "L\u00e9gislatives 2022 : cinq cartes pour comprendre le premier tour \u00e0 Paris",
+      "url": "//www.leparisien.fr/elections/legislatives/legislatives-2022-5-cartes-pour-comprendre-le-premier-tour-a-paris-13-06-2022-PJDX65IKRZGSPM4FXWAGZDJWVU.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/video/video-des-militants-ecolos-se-collent-la-main-au-bitume-avec-de-la-glu-sur-la-n13-des-automobilistes-tentent-de-les-deloger-11-06-2022-UWWMEEW7QZHQDK3AMK7PNZPX7U.php"
+      "url": "//www.leparisien.fr/essonne-91/legislatives-en-essonne-lex-marcheur-devenu-ecolo-cedric-villani-en-route-vers-un-2e-mandat-13-06-2022-PU5RX44Q35BE5FBKJ2UM7XURSI.php"
     },
     {
-      "text": "VID\u00c9O. Des militants \u00e9colos se collent la main au bitume avec de la glu sur la N13, des automobilistes tentent de les d\u00e9loger",
-      "url": "//www.leparisien.fr/video/video-des-militants-ecolos-se-collent-la-main-au-bitume-avec-de-la-glu-sur-la-n13-des-automobilistes-tentent-de-les-deloger-11-06-2022-UWWMEEW7QZHQDK3AMK7PNZPX7U.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/video/video-arnaque-au-faux-conseiller-bancaire-en-deux-heures-lescroc-a-vide-nos-comptes-11-06-2022-6JLGQFPXCJDONAQ4JQ6ZPWAAYY.php"
-    },
-    {
-      "text": "VID\u00c9O. Arnaque au faux conseiller bancaire : \u00abEn deux heures, l\u2019escroc a vid\u00e9 nos comptes\u00bb",
-      "url": "//www.leparisien.fr/video/video-arnaque-au-faux-conseiller-bancaire-en-deux-heures-lescroc-a-vide-nos-comptes-11-06-2022-6JLGQFPXCJDONAQ4JQ6ZPWAAYY.php"
+      "text": "Abonn\u00e9sL\u00e9gislatives en Essonne : l\u2019ex-Marcheur devenu \u00e9colo C\u00e9dric Villani en route vers un 2e mandat",
+      "url": "//www.leparisien.fr/essonne-91/legislatives-en-essonne-lex-marcheur-devenu-ecolo-cedric-villani-en-route-vers-un-2e-mandat-13-06-2022-PU5RX44Q35BE5FBKJ2UM7XURSI.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/culture-loisirs/musique/justin-bieber-annonce-souffrir-dune-paralysie-au-visage-et-annule-ses-prochains-concerts-11-06-2022-4R75O7ET4ZB3PFUWBKQQSJDG3I.php"
+      "url": "//www.leparisien.fr/val-d-oise-95/legislatives-dans-le-val-doise-la-nupes-peut-elle-realiser-le-grand-chelem-13-06-2022-6HLKHB62QBFZFONF4OP5J745TY.php"
     },
     {
-      "text": "Justin Bieber annonce souffrir d\u2019une paralysie au visage et annule ses prochains concerts",
-      "url": "//www.leparisien.fr/culture-loisirs/musique/justin-bieber-annonce-souffrir-dune-paralysie-au-visage-et-annule-ses-prochains-concerts-11-06-2022-4R75O7ET4ZB3PFUWBKQQSJDG3I.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/faits-divers/stade-de-france-une-nouvelle-enquete-ouverte-sur-les-violences-apres-la-suppression-de-certaines-images-de-videosurveillance-10-06-2022-UQ2U4NC5T5EI7KUECK3WRACHDE.php"
-    },
-    {
-      "text": "Stade de France : une nouvelle enqu\u00eate ouverte sur les violences... apr\u00e8s la suppression de certaines images de vid\u00e9osurveillance",
-      "url": "//www.leparisien.fr/faits-divers/stade-de-france-une-nouvelle-enquete-ouverte-sur-les-violences-apres-la-suppression-de-certaines-images-de-videosurveillance-10-06-2022-UQ2U4NC5T5EI7KUECK3WRACHDE.php"
+      "text": "Abonn\u00e9sL\u00e9gislatives dans le Val-d\u2019Oise : la Nupes peut-elle r\u00e9aliser le Grand Chelem ?",
+      "url": "//www.leparisien.fr/val-d-oise-95/legislatives-dans-le-val-doise-la-nupes-peut-elle-realiser-le-grand-chelem-13-06-2022-6HLKHB62QBFZFONF4OP5J745TY.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/paris-75/legislatives-a-paris-a-midi-le-taux-de-participation-est-de-1226-plus-eleve-quen-2017-12-06-2022-QPQUZA7WOJELZEACCPQBWPACAU.php"
+      "url": "//www.leparisien.fr/hauts-de-seine-92/legislatives-dans-les-hauts-de-seine-la-gauche-reprend-un-peu-des-couleurs-13-06-2022-WPKZUGMTEFAAVJOMXML7TW3NTI.php"
     },
     {
-      "text": "L\u00e9gislatives \u00e0 Paris: \u00e0 midi, le taux de participation est de 12,26%, plus \u00e9lev\u00e9 qu\u2019en 2017",
-      "url": "//www.leparisien.fr/paris-75/legislatives-a-paris-a-midi-le-taux-de-participation-est-de-1226-plus-eleve-quen-2017-12-06-2022-QPQUZA7WOJELZEACCPQBWPACAU.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/faits-divers/fourgon-vole-a-aubervilliers-le-convoyeur-et-ses-complices-juges-pour-le-vol-de-3-millions-deuros-12-06-2022-62ZV3IYUIZBTNCIT2UN34PZSSE.php"
-    },
-    {
-      "text": "Abonn\u00e9sFourgon vol\u00e9 \u00e0 Aubervilliers : le convoyeur et ses complices jug\u00e9s pour le vol de 3 millions d\u2019euros",
-      "url": "//www.leparisien.fr/faits-divers/fourgon-vole-a-aubervilliers-le-convoyeur-et-ses-complices-juges-pour-le-vol-de-3-millions-deuros-12-06-2022-62ZV3IYUIZBTNCIT2UN34PZSSE.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/paris-75/legislatives-a-paris-221-candidats-et-18-sieges-tous-les-enjeux-du-premier-tour-12-06-2022-A7H643RJQJC2HGLEMCOGNJAGYA.php"
-    },
-    {
-      "text": "L\u00e9gislatives \u00e0 Paris : 221 candidats et 18 si\u00e8ges, tous les enjeux du premier tour ",
-      "url": "//www.leparisien.fr/paris-75/legislatives-a-paris-221-candidats-et-18-sieges-tous-les-enjeux-du-premier-tour-12-06-2022-A7H643RJQJC2HGLEMCOGNJAGYA.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/seine-saint-denis-93/legislatives-en-seine-saint-denis-apres-la-percee-de-melenchon-a-la-presidentielle-la-gauche-transformera-t-elle-lessai-12-06-2022-UVKVWSQE6NBAJFL6KTUXRCRVMQ.php"
-    },
-    {
-      "text": "L\u00e9gislatives en Seine-Saint-Denis : apr\u00e8s la perc\u00e9e de M\u00e9lenchon, la gauche transformera-t-elle l\u2019essai ?",
-      "url": "//www.leparisien.fr/seine-saint-denis-93/legislatives-en-seine-saint-denis-apres-la-percee-de-melenchon-a-la-presidentielle-la-gauche-transformera-t-elle-lessai-12-06-2022-UVKVWSQE6NBAJFL6KTUXRCRVMQ.php"
+      "text": "Abonn\u00e9sL\u00e9gislatives dans les Hauts-de-Seine : la gauche reprend (un peu) des couleurs",
+      "url": "//www.leparisien.fr/hauts-de-seine-92/legislatives-dans-les-hauts-de-seine-la-gauche-reprend-un-peu-des-couleurs-13-06-2022-WPKZUGMTEFAAVJOMXML7TW3NTI.php"
     },
     {
       "text": "VOIR + D'ARTICLES",
@@ -3629,32 +3699,32 @@
       "url": "//www.leparisien.fr/international/direct-guerre-en-ukraine-le-statut-de-candidat-a-lue-serait-un-point-de-depart-selon-zelensky-12-06-2022-AUYFOOO4ARAZNKIXYZ6ADE7PHY.php"
     },
     {
-      "text": "DIRECT. Guerre en Ukraine : au moins 22 bless\u00e9s par une frappe russe sur la ville de Tchortkiv, dans l'ouest",
+      "text": "Guerre en Ukraine : \u00abL\u2019Europe est avec vous\u00bb, lance Ursula von der Leyen au lendemain de sa visite \u00e0 Kiev",
       "url": "//www.leparisien.fr/international/direct-guerre-en-ukraine-le-statut-de-candidat-a-lue-serait-un-point-de-depart-selon-zelensky-12-06-2022-AUYFOOO4ARAZNKIXYZ6ADE7PHY.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/international/guerre-en-ukraine-les-anciens-mcdo-de-russie-rebaptises-vkousno-i-totchka-12-06-2022-44ISSCXYLNFCJCWDVPX4BNR3UU.php"
+      "url": "//www.leparisien.fr/economie/guerre-en-ukraine-nous-sommes-entres-dans-une-economie-de-guerre-estime-emmanuel-macron-13-06-2022-CM3VFASW4RH3BFYKAFN7KOWRBU.php"
     },
     {
-      "text": "Guerre en Ukraine : les anciens McDo de Russie rebaptis\u00e9s \u00abVkousno i totchka\u00bb ",
-      "url": "//www.leparisien.fr/international/guerre-en-ukraine-les-anciens-mcdo-de-russie-rebaptises-vkousno-i-totchka-12-06-2022-44ISSCXYLNFCJCWDVPX4BNR3UU.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/international/guerre-en-ukraine-mines-inspection-des-bateaux-les-embuches-de-loperation-odessa-11-06-2022-D4NV5HBSK5DFDE3OVVUEGCYTTI.php"
-    },
-    {
-      "text": "Abonn\u00e9sGuerre en Ukraine : mines, inspection des bateaux... les emb\u00fbches de l\u2019\u00abop\u00e9ration\u00bb Odessa",
-      "url": "//www.leparisien.fr/international/guerre-en-ukraine-mines-inspection-des-bateaux-les-embuches-de-loperation-odessa-11-06-2022-D4NV5HBSK5DFDE3OVVUEGCYTTI.php"
+      "text": "Guerre en Ukraine : \u00abNous sommes entr\u00e9s dans une \u00e9conomie de guerre\u00bb, estime Emmanuel Macron",
+      "url": "//www.leparisien.fr/economie/guerre-en-ukraine-nous-sommes-entres-dans-une-economie-de-guerre-estime-emmanuel-macron-13-06-2022-CM3VFASW4RH3BFYKAFN7KOWRBU.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/international/guerre-en-ukraine-les-premiers-passeports-russes-remis-aux-habitants-du-sud-du-pays-11-06-2022-DNGPLM4U4RCX5CC23CBOZQ6U4U.php"
+      "url": "//www.leparisien.fr/international/amnesty-international-accuse-la-russie-de-crimes-de-guerre-en-ukraine-13-06-2022-MQH2K25K3NABJAD2CJFPIMYPIE.php"
     },
     {
-      "text": "Guerre en Ukraine : les premiers passeports russes remis aux habitants du sud du pays",
-      "url": "//www.leparisien.fr/international/guerre-en-ukraine-les-premiers-passeports-russes-remis-aux-habitants-du-sud-du-pays-11-06-2022-DNGPLM4U4RCX5CC23CBOZQ6U4U.php"
+      "text": "Amnesty international accuse la Russie de crimes de guerre en Ukraine",
+      "url": "//www.leparisien.fr/international/amnesty-international-accuse-la-russie-de-crimes-de-guerre-en-ukraine-13-06-2022-MQH2K25K3NABJAD2CJFPIMYPIE.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/international/direct-ukraine-situation-extremement-difficile-a-severodonetsk-offensive-russe-en-vue-13-06-2022-U2RSDKYW3BAEFAVPWDZYIJL5P4.php"
+    },
+    {
+      "text": "DIRECT. Guerre en Ukraine : plus de 7,3 millions d'Ukrainiens ont fui \u00e0 l'\u00e9tranger depuis le d\u00e9but du conflit, selon l'ONU",
+      "url": "//www.leparisien.fr/international/direct-ukraine-situation-extremement-difficile-a-severodonetsk-offensive-russe-en-vue-13-06-2022-U2RSDKYW3BAEFAVPWDZYIJL5P4.php"
     },
     {
       "text": "VOIR + D'ARTICLES",
@@ -3662,67 +3732,67 @@
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/faits-divers/promeneurs-des-berges-du-rhone-cibles-linquietant-projet-dattentat-imminent-de-sofiane-e-lyceen-de-18-ans-12-06-2022-H7UGF6BWVJB5VDM7KLI3V7KJ44.php"
+      "url": "//www.leparisien.fr/faits-divers/incendie-dans-une-mosquee-de-rennes-la-police-judiciaire-saisie-13-06-2022-PLEYNNTUBVGOTL5L2OKBBNSHCA.php"
     },
     {
-      "text": "Abonn\u00e9s Promeneurs des berges du Rh\u00f4ne cibl\u00e9s : l\u2019inqui\u00e9tant projet d\u2019attentat imminent de Sofiane E., lyc\u00e9en de 18 ans",
-      "url": "/faits-divers/promeneurs-des-berges-du-rhone-cibles-linquietant-projet-dattentat-imminent-de-sofiane-e-lyceen-de-18-ans-12-06-2022-H7UGF6BWVJB5VDM7KLI3V7KJ44.php"
+      "text": " Incendie dans une mosqu\u00e9e de Rennes, la police judiciaire saisie",
+      "url": "/faits-divers/incendie-dans-une-mosquee-de-rennes-la-police-judiciaire-saisie-13-06-2022-PLEYNNTUBVGOTL5L2OKBBNSHCA.php"
     },
     {
-      "text": " Colmar : la jeune miliaire touch\u00e9e par un tir de fusil d\u2019un voisin alcoolis\u00e9 est d\u00e9c\u00e9d\u00e9e ",
-      "url": "/faits-divers/colmar-la-jeune-miliaire-touchee-par-un-tir-de-fusil-dun-voisin-alcoolise-est-decedee-12-06-2022-BMEGFUWHSFG3XOQ3CEKSN7TG7I.php"
+      "text": " Gard : appel \u00e0 t\u00e9moin apr\u00e8s la disparition d\u2019une adolescente, la piste parisienne envisag\u00e9e",
+      "url": "/faits-divers/gard-appel-a-temoin-apres-la-disparition-dune-adolescente-la-piste-parisienne-envisagee-13-06-2022-FMYJUXK2WBDZJEY5LL2EBVW7ME.php"
     },
     {
-      "text": " Aveyron : deux parents d\u00e9c\u00e8dent dans un accident sur l\u2019autoroute, leurs enfants miracul\u00e9s",
-      "url": "/faits-divers/aveyron-deux-parents-decedent-dans-un-accident-sur-lautoroute-leurs-enfants-miracules-12-06-2022-VMKLCISPKRESROU3QSVLVONNVY.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/societe/orages-debut-juin-letat-de-catastrophe-naturelle-reconnu-12-06-2022-WTXTTUPLAVBIZLO7ELVXGBXHM4.php"
-    },
-    {
-      "text": " Orages d\u00e9but juin : l\u2019\u00e9tat de catastrophe naturelle reconnu",
-      "url": "/societe/orages-debut-juin-letat-de-catastrophe-naturelle-reconnu-12-06-2022-WTXTTUPLAVBIZLO7ELVXGBXHM4.php"
-    },
-    {
-      "text": " Ultra connect\u00e9, autosuffisant et secret : bienvenue \u00e0 l\u2019Apple Park",
-      "url": "/high-tech/ultra-connecte-autosuffisant-et-secret-bienvenue-a-lapple-park-12-06-2022-VJGAV3L3RVFP7EEORC5RBADMPU.php"
-    },
-    {
-      "text": "Abonn\u00e9s Covid-19 : annonc\u00e9s pour le printemps, esp\u00e9r\u00e9s \u00e0 l\u2019automne... o\u00f9 en sont les vaccins adapt\u00e9s \u00e0 Omicron ?",
-      "url": "/societe/sante/covid-19-annonces-pour-le-printemps-esperes-a-lautomne-ou-en-sont-les-vaccins-adaptes-a-omicron-12-06-2022-W24FDQPJAJECXJ72GT5ARRQ5FA.php"
+      "text": " Incendie \u00e0 Strasbourg : quatre morts, dont deux enfants",
+      "url": "/faits-divers/incendie-a-strasbourg-quatre-morts-dont-deux-enfants-13-06-2022-TZAWNIGUWZHI7M4UJYDTPMPLFA.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/high-tech/ultra-connecte-autosuffisant-et-secret-bienvenue-a-lapple-park-12-06-2022-VJGAV3L3RVFP7EEORC5RBADMPU.php"
+      "url": "//www.leparisien.fr/video/video-des-ingenieurs-tunisiens-inventent-une-machine-pour-transformer-lair-ambiant-en-eau-potable-13-06-2022-MJ5V4ZRCJ5GUJL2YGCINU5RGYQ.php"
     },
     {
-      "text": " Ultra connect\u00e9, autosuffisant et secret : bienvenue \u00e0 l\u2019Apple Park",
-      "url": "/high-tech/ultra-connecte-autosuffisant-et-secret-bienvenue-a-lapple-park-12-06-2022-VJGAV3L3RVFP7EEORC5RBADMPU.php"
+      "text": " VID\u00c9O. Des ing\u00e9nieurs tunisiens inventent une machine pour transformer l\u2019air ambiant en eau potable",
+      "url": "/video/video-des-ingenieurs-tunisiens-inventent-une-machine-pour-transformer-lair-ambiant-en-eau-potable-13-06-2022-MJ5V4ZRCJ5GUJL2YGCINU5RGYQ.php"
     },
     {
-      "text": " Guerre en Ukraine : les anciens McDo de Russie rebaptis\u00e9s \u00abVkousno i totchka\u00bb ",
-      "url": "/international/guerre-en-ukraine-les-anciens-mcdo-de-russie-rebaptises-vkousno-i-totchka-12-06-2022-44ISSCXYLNFCJCWDVPX4BNR3UU.php"
+      "text": " R\u00e9sultats contest\u00e9s des l\u00e9gislatives, incendie mortel \u00e0 Strasbourg et vague de chaleur : les infos \u00e0 retenir ce midi",
+      "url": "/societe/resultats-contestes-des-legislatives-incendie-mortel-a-strasbourg-et-vague-de-chaleur-les-infos-a-retenir-ce-midi-13-06-2022-3UTBDNMGR5BQ5P3SD5YXGUGSWU.php"
     },
     {
-      "text": "Abonn\u00e9s Pr\u00e9l\u00e8vement \u00e0 la source : mariage, naissance, retraite, promotion... d\u00e9clarez-les pour ne pas payer trop d\u2019imp\u00f4ts",
-      "url": "/economie/impots/prelevement-a-la-source-mariage-naissance-retraite-promotion-declarez-les-pour-ne-pas-payer-trop-dimpots-12-06-2022-FABKQIANARGB5JVGHZ7GAATG6M.php"
+      "text": " Covid-19 : Sanofi rapporte des r\u00e9sultats encourageants pour son vaccin de rappel",
+      "url": "/societe/sante/covid-19-sanofi-rapporte-des-resultats-encourageants-pour-son-vaccin-de-rappel-13-06-2022-O2DWMDTR6FHJBIH67C2XODVNEY.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/international/sil-vous-plait-sauvez-le-lappel-des-proches-du-marocain-condamne-a-mort-en-ukraine-par-les-prorusses-12-06-2022-M3YPWFBU6JDSDO5VE3RTDNQSVY.php"
+      "url": "//www.leparisien.fr/economie/consommation/carburant-les-prix-augmentent-encore-le-gazole-repasse-au-dessus-des-2-euros-13-06-2022-SUNUJBGFKVHKTGD374HZGLOLOU.php"
     },
     {
-      "text": " \u00abS\u2019il vous pla\u00eet, sauvez-le\u00bb : l\u2019appel des proches du Marocain condamn\u00e9 \u00e0 mort en Ukraine par les prorusses",
-      "url": "/international/sil-vous-plait-sauvez-le-lappel-des-proches-du-marocain-condamne-a-mort-en-ukraine-par-les-prorusses-12-06-2022-M3YPWFBU6JDSDO5VE3RTDNQSVY.php"
+      "text": " Carburants : les prix augmentent encore, le gazole repasse au dessus des 2 euros",
+      "url": "/economie/consommation/carburant-les-prix-augmentent-encore-le-gazole-repasse-au-dessus-des-2-euros-13-06-2022-SUNUJBGFKVHKTGD374HZGLOLOU.php"
     },
     {
-      "text": " Guerre en Ukraine : les anciens McDo de Russie rebaptis\u00e9s \u00abVkousno i totchka\u00bb ",
-      "url": "/international/guerre-en-ukraine-les-anciens-mcdo-de-russie-rebaptises-vkousno-i-totchka-12-06-2022-44ISSCXYLNFCJCWDVPX4BNR3UU.php"
+      "text": " Guerre en Ukraine : \u00abNous sommes entr\u00e9s dans une \u00e9conomie de guerre\u00bb, estime Emmanuel Macron",
+      "url": "/economie/guerre-en-ukraine-nous-sommes-entres-dans-une-economie-de-guerre-estime-emmanuel-macron-13-06-2022-CM3VFASW4RH3BFYKAFN7KOWRBU.php"
     },
     {
-      "text": " Le Maroc interdit \u00abLa Dame du Paradis\u00bb, un film contest\u00e9 dans le monde musulman sur la fille de Mahomet  ",
-      "url": "/international/le-maroc-interdit-la-dame-du-paradis-un-film-conteste-dans-le-monde-musulman-sur-la-fille-de-mahomet-12-06-2022-FVIHMFVHWJDKVOYNYK5RKKGRFM.php"
+      "text": " P\u00e9nurie d\u2019huile de tournesol : la chasse \u00e0 la palombe autoris\u00e9e dans le Lot-et-Garonne pour prot\u00e9ger les champs",
+      "url": "/lot-et-garonne-47/penurie-dhuile-de-tournesol-la-chasse-a-la-palombe-autorisee-dans-le-lot-et-garonne-pour-proteger-les-champs-13-06-2022-EHJE5SEW7JGDPB5KGIBVBZTYRM.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/economie/guerre-en-ukraine-nous-sommes-entres-dans-une-economie-de-guerre-estime-emmanuel-macron-13-06-2022-CM3VFASW4RH3BFYKAFN7KOWRBU.php"
+    },
+    {
+      "text": " Guerre en Ukraine : \u00abNous sommes entr\u00e9s dans une \u00e9conomie de guerre\u00bb, estime Emmanuel Macron",
+      "url": "/economie/guerre-en-ukraine-nous-sommes-entres-dans-une-economie-de-guerre-estime-emmanuel-macron-13-06-2022-CM3VFASW4RH3BFYKAFN7KOWRBU.php"
+    },
+    {
+      "text": " Guerre en Ukraine : l\u2019arm\u00e9e abandonne le centre de Severodonetsk aux Russes",
+      "url": "/international/guerre-en-ukraine-larmee-abandonne-le-centre-de-severodonetsk-aux-russes-13-06-2022-TESDLES7VNHHFJEI2F2FGAYWXA.php"
+    },
+    {
+      "text": " Amnesty international accuse la Russie de crimes de guerre en Ukraine",
+      "url": "/international/amnesty-international-accuse-la-russie-de-crimes-de-guerre-en-ukraine-13-06-2022-MQH2K25K3NABJAD2CJFPIMYPIE.php"
     },
     {
       "text": "Voir + d'articles",
@@ -3730,35 +3800,35 @@
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/environnement/un-village-de-lardeche-cree-sa-nappe-phreatique-artificielle-pour-lutter-contre-la-secheresse-10-06-2022-V522OMRGFJDF5DLQMXOIQ6ECEM.php"
+      "url": "//www.leparisien.fr/video/video-lidl-ou-carrefour-ou-vaut-il-mieux-acheter-son-poulet-08-04-2022-YAM72ASGKFAWNCA3ZV2IS3HO34.php"
     },
     {
-      "text": "Abonn\u00e9sUn village de l\u2019Ard\u00e8che cr\u00e9e sa \u00abnappe phr\u00e9atique artificielle\u00bb pour lutter contre la s\u00e9cheresse",
-      "url": "//www.leparisien.fr/environnement/un-village-de-lardeche-cree-sa-nappe-phreatique-artificielle-pour-lutter-contre-la-secheresse-10-06-2022-V522OMRGFJDF5DLQMXOIQ6ECEM.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/environnement/comment-fabriquer-son-deodorant-en-cinq-minutes-10-06-2022-7AAZKPUK4ZADVOZ5TOH3BL2QDI.php"
-    },
-    {
-      "text": "Abonn\u00e9sComment fabriquer son d\u00e9odorant en cinq minutes",
-      "url": "//www.leparisien.fr/environnement/comment-fabriquer-son-deodorant-en-cinq-minutes-10-06-2022-7AAZKPUK4ZADVOZ5TOH3BL2QDI.php"
+      "text": "VID\u00c9O. Lidl ou Carrefour : o\u00f9 vaut-il mieux acheter son poulet ?",
+      "url": "//www.leparisien.fr/video/video-lidl-ou-carrefour-ou-vaut-il-mieux-acheter-son-poulet-08-04-2022-YAM72ASGKFAWNCA3ZV2IS3HO34.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/environnement/panier-de-saison-en-juin-fraises-tomates-enfin-et-pasteque-11-06-2022-GI4L6WVLAVAVRLEVUNLQFPFY44.php"
+      "url": "//www.leparisien.fr/bien-manger/les-fibres-essentielles-a-une-alimentation-saine-nos-conseils-pour-profiter-de-leurs-bienfaits-10-06-2022-WKJ5CQSX2BCFHCV2CQFKZTJCCU.php"
     },
     {
-      "text": "Abonn\u00e9sPanier de saison : en juin, fraises, tomates (enfin !) et past\u00e8que",
-      "url": "//www.leparisien.fr/environnement/panier-de-saison-en-juin-fraises-tomates-enfin-et-pasteque-11-06-2022-GI4L6WVLAVAVRLEVUNLQFPFY44.php"
+      "text": "Abonn\u00e9sLes fibres essentielles \u00e0 une alimentation saine : nos conseils pour profiter de leurs bienfaits",
+      "url": "//www.leparisien.fr/bien-manger/les-fibres-essentielles-a-une-alimentation-saine-nos-conseils-pour-profiter-de-leurs-bienfaits-10-06-2022-WKJ5CQSX2BCFHCV2CQFKZTJCCU.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/environnement/boites-doeufs-eau-de-pluie-decoctions-de-purin-dortie-comment-jardiner-ecolo-08-06-2022-WK7BFACTYZGZVPUUHP44DTBA64.php"
+      "url": "//www.leparisien.fr/environnement/alerte-au-scarabee-japonais-qui-devore-cereales-fruitiers-gazon-13-06-2022-ZXHIPIYJEFFUZJ7YZNTOCK4CZY.php"
     },
     {
-      "text": "Abonn\u00e9sBo\u00eetes d\u2019\u0153ufs, eau de pluie, d\u00e9coctions de purin d\u2019ortie : comment jardiner \u00e9colo",
-      "url": "//www.leparisien.fr/environnement/boites-doeufs-eau-de-pluie-decoctions-de-purin-dortie-comment-jardiner-ecolo-08-06-2022-WK7BFACTYZGZVPUUHP44DTBA64.php"
+      "text": "Alerte au scarab\u00e9e japonais, qui d\u00e9vore c\u00e9r\u00e9ales, fruitiers, gazon\u2026",
+      "url": "//www.leparisien.fr/environnement/alerte-au-scarabee-japonais-qui-devore-cereales-fruitiers-gazon-13-06-2022-ZXHIPIYJEFFUZJ7YZNTOCK4CZY.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/environnement/tech-ces-innovations-qui-font-du-bien-a-la-planete-11-06-2022-YJFMC7KHXZDNFAEQZJ4KVYEOY4.php"
+    },
+    {
+      "text": "Abonn\u00e9sTech : ces innovations qui font du bien \u00e0 la plan\u00e8te",
+      "url": "//www.leparisien.fr/environnement/tech-ces-innovations-qui-font-du-bien-a-la-planete-11-06-2022-YJFMC7KHXZDNFAEQZJ4KVYEOY4.php"
     },
     {
       "text": "",
@@ -3775,6 +3845,14 @@
     {
       "text": "Voir + d'articles",
       "url": "https://www.leparisien.fr/coronavirus/"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/societe/sante/covid-19-sanofi-rapporte-des-resultats-encourageants-pour-son-vaccin-de-rappel-13-06-2022-O2DWMDTR6FHJBIH67C2XODVNEY.php"
+    },
+    {
+      "text": "Covid-19 : Sanofi rapporte des r\u00e9sultats encourageants pour son vaccin de rappel",
+      "url": "//www.leparisien.fr/societe/sante/covid-19-sanofi-rapporte-des-resultats-encourageants-pour-son-vaccin-de-rappel-13-06-2022-O2DWMDTR6FHJBIH67C2XODVNEY.php"
     },
     {
       "text": "",
@@ -3801,14 +3879,6 @@
       "url": "//www.leparisien.fr/societe/covid-19-pekin-reporte-la-reouverture-des-ecoles-apres-une-nouvelle-vague-de-cas-11-06-2022-XG6SODDAR5BDZP6I5DOHBIDUOI.php"
     },
     {
-      "text": "",
-      "url": "//www.leparisien.fr/societe/sante/vaccination-contre-le-covid-19-pourquoi-novavax-examine-aux-etats-unis-a-fait-un-flop-en-france-11-06-2022-62Z2UGD225E6XCJHHPPVSZ5STA.php"
-    },
-    {
-      "text": "Abonn\u00e9sVaccination contre le Covid-19 : pourquoi Novavax, examin\u00e9 aux Etats-Unis, \u00aba fait un flop\u00bb en France",
-      "url": "//www.leparisien.fr/societe/sante/vaccination-contre-le-covid-19-pourquoi-novavax-examine-aux-etats-unis-a-fait-un-flop-en-france-11-06-2022-62Z2UGD225E6XCJHHPPVSZ5STA.php"
-    },
-    {
       "text": "Voir + d'articles",
       "url": "https://www.leparisien.fr/coronavirus/"
     },
@@ -3830,123 +3900,123 @@
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/sports/football/psg/handball-la-saison-du-psg-est-reussie-a-80-promet-elohim-prandi-apres-avoir-remporte-la-coupe-de-france-12-06-2022-B33QEL46GFEULAXXRLRENAZYQU.php"
+      "url": "//www.leparisien.fr/sports/football/psg/psg-quand-donnarumma-voit-rouge-13-06-2022-HJKDVLXCLZCE5KG3647HFAXAQQ.php"
     },
     {
-      "text": "Handball : \u00abLa saison du PSG est r\u00e9ussie \u00e0 80%\u00bb, juge Elohim Prandi apr\u00e8s avoir remport\u00e9 la Coupe de France",
-      "url": "//www.leparisien.fr/sports/football/psg/handball-la-saison-du-psg-est-reussie-a-80-promet-elohim-prandi-apres-avoir-remporte-la-coupe-de-france-12-06-2022-B33QEL46GFEULAXXRLRENAZYQU.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/sports/football/psg/handball-invincible-le-psg-rafle-aussi-la-coupe-de-france-aux-depens-de-nantes-11-06-2022-A6HLYEYAVRF4HH7MUL5CI2NVEA.php"
-    },
-    {
-      "text": "Handball : invincible, le PSG rafle aussi la Coupe de France aux d\u00e9pens de  Nantes",
-      "url": "//www.leparisien.fr/sports/football/psg/handball-invincible-le-psg-rafle-aussi-la-coupe-de-france-aux-depens-de-nantes-11-06-2022-A6HLYEYAVRF4HH7MUL5CI2NVEA.php"
+      "text": "Ligue des nations : insult\u00e9 par un supporter, Donnarumma voit rouge",
+      "url": "//www.leparisien.fr/sports/football/psg/psg-quand-donnarumma-voit-rouge-13-06-2022-HJKDVLXCLZCE5KG3647HFAXAQQ.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/sports/football/psg/mercato-logc-nice-prepare-lapres-christophe-galtier-et-attend-un-signe-du-psg-10-06-2022-YQMUX66REFGQ5KAP3XNF6B6X5I.php"
+      "url": "//www.leparisien.fr/sports/football/psg/sans-ses-galactiques-le-psg-handball-sera-t-il-aussi-fort-13-06-2022-A7RD7MFYTBE6RHWB7CHVI5M6EA.php"
     },
     {
-      "text": "Abonn\u00e9sMercato : l\u2019OGC Nice pr\u00e9pare l\u2019apr\u00e8s Christophe Galtier et attend un signe du PSG",
-      "url": "//www.leparisien.fr/sports/football/psg/mercato-logc-nice-prepare-lapres-christophe-galtier-et-attend-un-signe-du-psg-10-06-2022-YQMUX66REFGQ5KAP3XNF6B6X5I.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/sports/football/psg/psg-luis-campos-officiellement-nomme-conseiller-football-10-06-2022-5RMIF6MJXNDFPECFPKAKVPAAYA.php"
-    },
-    {
-      "text": "PSG : Luis Campos officiellement nomm\u00e9 Conseiller football",
-      "url": "//www.leparisien.fr/sports/football/psg/psg-luis-campos-officiellement-nomme-conseiller-football-10-06-2022-5RMIF6MJXNDFPECFPKAKVPAAYA.php"
+      "text": "Abonn\u00e9sSans ses \u00abgalactiques\u00bb, le PSG handball sera-t-il aussi fort ?",
+      "url": "//www.leparisien.fr/sports/football/psg/sans-ses-galactiques-le-psg-handball-sera-t-il-aussi-fort-13-06-2022-A7RD7MFYTBE6RHWB7CHVI5M6EA.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/sports/football/coupe-du-monde-laustralie-ou-le-perou-pour-les-bleus-12-06-2022-L4BVGWOSZRHJVM2FKUO2LOEKYI.php"
+      "url": "//www.leparisien.fr/sports/football/psg/france-croatie-il-na-rien-perdu-il-na-rien-gagne-mais-il-est-la-avec-les-bleus-kimpembe-joue-serre-13-06-2022-K5NXJHRG75B5NE6TWWVZ2Q2JMA.php"
     },
     {
-      "text": "Coupe du monde : l\u2019Australie ou le P\u00e9rou pour les Bleus ?",
-      "url": "//www.leparisien.fr/sports/football/coupe-du-monde-laustralie-ou-le-perou-pour-les-bleus-12-06-2022-L4BVGWOSZRHJVM2FKUO2LOEKYI.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/sports/handball-cest-le-match-dune-vie-les-finales-de-coupes-de-france-unissent-de-nouveaux-stars-et-amateurs-12-06-2022-3USEHAJDEZB7VFBMT4SSX5P4AQ.php"
-    },
-    {
-      "text": "Abonn\u00e9sHandball : \u00abC\u2019est le match d\u2019une vie\u00bb... les finales de Coupes de France unissent de nouveaux stars et amateurs",
-      "url": "//www.leparisien.fr/sports/handball-cest-le-match-dune-vie-les-finales-de-coupes-de-france-unissent-de-nouveaux-stars-et-amateurs-12-06-2022-3USEHAJDEZB7VFBMT4SSX5P4AQ.php"
+      "text": "Abonn\u00e9sFrance-Croatie : \u00abIl n\u2019a rien perdu, il n\u2019a rien gagn\u00e9, mais il est l\u00e0\u00bb... avec les Bleus, Kimpembe joue serr\u00e9",
+      "url": "//www.leparisien.fr/sports/football/psg/france-croatie-il-na-rien-perdu-il-na-rien-gagne-mais-il-est-la-avec-les-bleus-kimpembe-joue-serre-13-06-2022-K5NXJHRG75B5NE6TWWVZ2Q2JMA.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/sports/football/direct-nunez-en-partance-pour-liverpool-cho-vers-lespagne-suivez-la-troisieme-journee-du-mercato-12-06-2022-EXURFIEMKVFL7GCCFH4BDAXHG4.php"
+      "url": "//www.leparisien.fr/sports/football/il-est-cense-faire-exploser-les-compteurs-kylian-mbappe-a-la-chasse-des-records-en-bleu-12-06-2022-BT7NAGLDHFABLB52MTG5XTTH2M.php"
     },
     {
-      "text": "DIRECT. Nunez en partance pour Liverpool, Cho vers l\u2019Espagne... Suivez la troisi\u00e8me journ\u00e9e du mercato",
-      "url": "//www.leparisien.fr/sports/football/direct-nunez-en-partance-pour-liverpool-cho-vers-lespagne-suivez-la-troisieme-journee-du-mercato-12-06-2022-EXURFIEMKVFL7GCCFH4BDAXHG4.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/sports/championne-handisport-antia-fatis-remarche-apres-dix-sept-ans-en-fauteuil-roulant-12-06-2022-5R43JBWDBFE65CP2FX6ALI6ZLY.php"
-    },
-    {
-      "text": "Abonn\u00e9sChampionne handisport, Antia Fatis remarche apr\u00e8s dix-sept ans en fauteuil roulant",
-      "url": "//www.leparisien.fr/sports/championne-handisport-antia-fatis-remarche-apres-dix-sept-ans-en-fauteuil-roulant-12-06-2022-5R43JBWDBFE65CP2FX6ALI6ZLY.php"
+      "text": "Abonn\u00e9s\u00abIl est cens\u00e9 faire exploser les compteurs\u00bb : Kylian Mbapp\u00e9, \u00e0 la chasse des records en bleu",
+      "url": "//www.leparisien.fr/sports/football/il-est-cense-faire-exploser-les-compteurs-kylian-mbappe-a-la-chasse-des-records-en-bleu-12-06-2022-BT7NAGLDHFABLB52MTG5XTTH2M.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/sports/football/un-tres-bon-meneur-dhommes-le-baroudeur-jean-guy-wallemme-pose-ses-valises-au-paris-13-atletico-12-06-2022-H37IQDONURBF3DCE3ZAIOIYXU4.php"
+      "url": "//www.leparisien.fr/sports/cyclisme/cyclisme-romain-bardet-annonce-quil-sera-bien-present-sur-le-tour-de-france-2022-13-06-2022-H3RFGKD5WFAUVAAUIYUSTI4STM.php"
     },
     {
-      "text": "Abonn\u00e9s\u00abUn tr\u00e8s bon meneur d\u2019hommes\u00bb : le baroudeur Jean-Guy Wallemme pose ses valises au Paris 13 Atletico ",
-      "url": "//www.leparisien.fr/sports/football/un-tres-bon-meneur-dhommes-le-baroudeur-jean-guy-wallemme-pose-ses-valises-au-paris-13-atletico-12-06-2022-H37IQDONURBF3DCE3ZAIOIYXU4.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/sports/rugby/mulet-amateur-de-cafe-et-super-bon-mec-anton-bresler-le-joker-medical-qui-a-fait-son-trou-au-racing-92-12-06-2022-PMJQ7E76FBEPBNMULROW7D5CCA.php"
-    },
-    {
-      "text": "Abonn\u00e9sMulet, amateur de caf\u00e9 et \u00absuper bon mec\u00bb... Anton Bresler, le joker m\u00e9dical qui a fait son trou au Racing 92",
-      "url": "//www.leparisien.fr/sports/rugby/mulet-amateur-de-cafe-et-super-bon-mec-anton-bresler-le-joker-medical-qui-a-fait-son-trou-au-racing-92-12-06-2022-PMJQ7E76FBEPBNMULROW7D5CCA.php"
+      "text": "Cyclisme : Romain Bardet annonce qu\u2019il sera bien pr\u00e9sent sur le Tour de France 2022",
+      "url": "//www.leparisien.fr/sports/cyclisme/cyclisme-romain-bardet-annonce-quil-sera-bien-present-sur-le-tour-de-france-2022-13-06-2022-H3RFGKD5WFAUVAAUIYUSTI4STM.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/sports/rugby/8-montees-en-8-ans-la-folle-ascension-du-club-suisse-de-geneve-dans-le-championnat-de-france-de-rugby-12-06-2022-DKAQS5E3JNEJ7KSYDQLXFV52UE.php"
+      "url": "//www.leparisien.fr/sports/football/direct-giorgi-chiellini-en-route-pour-les-etats-unis-lac-milan-actif-suivez-la-quatrieme-journee-du-mercato-13-06-2022-O4WRBDTIUNAOFI6VFWQE5LGMP4.php"
     },
     {
-      "text": "Abonn\u00e9s8 mont\u00e9es en 8 ans : la folle ascension du club suisse de Gen\u00e8ve dans le championnat de France de rugby",
-      "url": "//www.leparisien.fr/sports/rugby/8-montees-en-8-ans-la-folle-ascension-du-club-suisse-de-geneve-dans-le-championnat-de-france-de-rugby-12-06-2022-DKAQS5E3JNEJ7KSYDQLXFV52UE.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/sports/football/equipe-de-france-ngolo-kante-un-spectacle-par-intermittence-depuis-2018-12-06-2022-QXNJTBN365BUPINAJ4IGF3TQYA.php"
-    },
-    {
-      "text": "Equipe de France : N\u2019Golo Kant\u00e9, un spectacle par intermittence depuis 2018",
-      "url": "//www.leparisien.fr/sports/football/equipe-de-france-ngolo-kante-un-spectacle-par-intermittence-depuis-2018-12-06-2022-QXNJTBN365BUPINAJ4IGF3TQYA.php"
+      "text": "DIRECT. Chiellini en route pour les Etats-Unis, City officialise Haaland, suivez la 4e journ\u00e9e du mercato",
+      "url": "//www.leparisien.fr/sports/football/direct-giorgi-chiellini-en-route-pour-les-etats-unis-lac-milan-actif-suivez-la-quatrieme-journee-du-mercato-13-06-2022-O4WRBDTIUNAOFI6VFWQE5LGMP4.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/sports/rugby/top-14-un-toulouse-en-grande-forme-domine-la-rochelle-pour-filer-en-demi-finale-11-06-2022-35LWJ3OES5AURLK7PSZ7RDMZFU.php"
+      "url": "//www.leparisien.fr/sports/rugby/je-me-suis-mis-le-vestiaire-a-dos-recit-dune-victoire-et-dune-semaine-sous-tension-pour-bordeaux-begles-13-06-2022-USSOAIEC5BGQXADCURPMWHZI6I.php"
     },
     {
-      "text": "Top 14 : un Toulouse en grande forme domine La Rochelle pour filer en demi-finale",
-      "url": "//www.leparisien.fr/sports/rugby/top-14-un-toulouse-en-grande-forme-domine-la-rochelle-pour-filer-en-demi-finale-11-06-2022-35LWJ3OES5AURLK7PSZ7RDMZFU.php"
+      "text": "\u00abJe me suis mis le vestiaire \u00e0 dos\u00bb : r\u00e9cit d\u2019une victoire et d\u2019une semaine sous tension pour Bordeaux-B\u00e8gles",
+      "url": "//www.leparisien.fr/sports/rugby/je-me-suis-mis-le-vestiaire-a-dos-recit-dune-victoire-et-dune-semaine-sous-tension-pour-bordeaux-begles-13-06-2022-USSOAIEC5BGQXADCURPMWHZI6I.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/culture-loisirs/tv/programme-tv-du-dimanche-12-juin-la-mule-lenigme-de-jean-jacques-goldman-camping-notre-selection-12-06-2022-GHEIG7H2SBH2JDBTUEPADKWCXY.php"
+      "url": "//www.leparisien.fr/sports/football/foot-darwin-nunez-a-liverpool-cest-fait-13-06-2022-DTQVWNUL6NB7DGUGKOGBZNVER4.php"
     },
     {
-      "text": "Abonn\u00e9s Programme TV du dimanche 12\u00a0juin : \u00abLa Mule\u00bb, \u00abL\u2019\u00c9nigme de Jean-Jacques Goldman\u00bb, \u00abCamping\u00bb\u2026 notre s\u00e9lection",
-      "url": "/culture-loisirs/tv/programme-tv-du-dimanche-12-juin-la-mule-lenigme-de-jean-jacques-goldman-camping-notre-selection-12-06-2022-GHEIG7H2SBH2JDBTUEPADKWCXY.php"
+      "text": "Foot : Darwin Nunez \u00e0 Liverpool, c\u2019est fait !",
+      "url": "//www.leparisien.fr/sports/football/foot-darwin-nunez-a-liverpool-cest-fait-13-06-2022-DTQVWNUL6NB7DGUGKOGBZNVER4.php"
     },
     {
-      "text": "Abonn\u00e9s Pourquoi M6 arr\u00eate ses t\u00e9l\u00e9films de l\u2019apr\u00e8s-midi \u00e0 partir du 13 juin ",
-      "url": "/culture-loisirs/tv/pourquoi-m6-arrete-ses-telefilms-de-lapres-midi-a-partir-du-13-juin-12-06-2022-LCQFEOVD7BD2PBLC44EUUFEGSE.php"
+      "text": "",
+      "url": "//www.leparisien.fr/charente-maritime-17/voile-un-monocoque-100-recyclable-une-premiere-mondiale-a-la-rochelle-13-06-2022-KT6VHAZDNBCZRDVEDXWJ3O67UE.php"
     },
     {
-      "text": "Abonn\u00e9s Concerts, s\u00e9ries sur Snapchat, r\u00e9alit\u00e9 virtuelle\u2026 Comment Arte multiplie les p\u00e9pites",
-      "url": "/culture-loisirs/tv/concerts-series-sur-snapchat-realite-virtuelle-comment-arte-multiplie-les-pepites-12-06-2022-33AOIYCNGRFVVPHHS666OU45DM.php"
+      "text": "Voile: un monocoque 100% recyclable, une premi\u00e8re mondiale \u00e0 La Rochelle",
+      "url": "//www.leparisien.fr/charente-maritime-17/voile-un-monocoque-100-recyclable-une-premiere-mondiale-a-la-rochelle-13-06-2022-KT6VHAZDNBCZRDVEDXWJ3O67UE.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/sports/formule-1/formule-1-casse-moteur-erreurs-de-strategie-leclerc-et-ferrari-sont-ils-en-train-de-perdre-le-titre-mondial-13-06-2022-GPTLLQZJDJFT7CLWTJ5RVBUP3M.php"
+    },
+    {
+      "text": "Formule 1 : casse moteur, erreurs de strat\u00e9gie... Leclerc et Ferrari sont-ils en train de perdre le titre mondial ?",
+      "url": "//www.leparisien.fr/sports/formule-1/formule-1-casse-moteur-erreurs-de-strategie-leclerc-et-ferrari-sont-ils-en-train-de-perdre-le-titre-mondial-13-06-2022-GPTLLQZJDJFT7CLWTJ5RVBUP3M.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/sports/tennis/tennis-legitimite-notoriete-credibilite-sponsoriser-les-numeros-1-ca-peut-rapporter-gros-13-06-2022-BRNUM3DKXJFHLEEOCAKKFNC6LI.php"
+    },
+    {
+      "text": "Abonn\u00e9sTennis : l\u00e9gitimit\u00e9, notori\u00e9t\u00e9, cr\u00e9dibilit\u00e9... sponsoriser les num\u00e9ros 1, \u00e7a peut rapporter gros",
+      "url": "//www.leparisien.fr/sports/tennis/tennis-legitimite-notoriete-credibilite-sponsoriser-les-numeros-1-ca-peut-rapporter-gros-13-06-2022-BRNUM3DKXJFHLEEOCAKKFNC6LI.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/sports/rugby/la-saison-est-ratee-balayes-a-bordeaux-le-racing-boucle-encore-une-annee-sans-titre-13-06-2022-OILLAKPUWNBOJDIZQAEKRKNJ7A.php"
+    },
+    {
+      "text": "\u00abLa saison est rat\u00e9e\u00bb : balay\u00e9 \u00e0 Bordeaux, le Racing 92 boucle encore une ann\u00e9e sans titre",
+      "url": "//www.leparisien.fr/sports/rugby/la-saison-est-ratee-balayes-a-bordeaux-le-racing-boucle-encore-une-annee-sans-titre-13-06-2022-OILLAKPUWNBOJDIZQAEKRKNJ7A.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/sports/football/france-croatie-pour-les-bleus-cest-la-derniere-impression-qui-compte-13-06-2022-WU3K4Q7RHFGURICU5QYVQUFPQQ.php"
+    },
+    {
+      "text": "France-Croatie : pour les Bleus, c\u2019est la derni\u00e8re impression qui compte",
+      "url": "//www.leparisien.fr/sports/football/france-croatie-pour-les-bleus-cest-la-derniere-impression-qui-compte-13-06-2022-WU3K4Q7RHFGURICU5QYVQUFPQQ.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/culture-loisirs/tv/programme-tv-du-lundi-13-juin-landscapers-secrets-dhistoire-jai-perdu-mon-corps-notre-selection-13-06-2022-HW356G4VXFHZHJGTLZOO3H57NY.php"
+    },
+    {
+      "text": "Abonn\u00e9s Programme TV du lundi 13 juin : \u00abLandscapers\u00bb, \u00abSecrets d\u2019histoire\u00bb, \u00abJ\u2019ai perdu mon corps\u00bb... notre s\u00e9lection",
+      "url": "/culture-loisirs/tv/programme-tv-du-lundi-13-juin-landscapers-secrets-dhistoire-jai-perdu-mon-corps-notre-selection-13-06-2022-HW356G4VXFHZHJGTLZOO3H57NY.php"
+    },
+    {
+      "text": " Audiences TV : les soir\u00e9es \u00e9lectorales de France T\u00e9l\u00e9visions battues par les films de TF1 et M6",
+      "url": "/culture-loisirs/tv/audiences-tv-les-soirees-electorales-de-france-televisions-battues-par-les-films-de-tf1-et-m6-13-06-2022-NQD6V2EO55FPNNJDMIRLO5GRTA.php"
+    },
+    {
+      "text": "Abonn\u00e9s \u00abMari\u00e9s au premier regard\u00bb\u00a0: pourquoi l\u2019\u00e9mission de M6 fait un carton",
+      "url": "/culture-loisirs/tv/maries-au-premier-regard-pourquoi-lemission-de-m6-fait-un-carton-13-06-2022-572L7CUC5FBE5HEYGUZP2T7XO4.php"
     },
     {
       "text": "",
@@ -3997,6 +4067,158 @@
       "url": "/culture-loisirs/musique/soprano-et-ses-potes-ont-dit-oui-a-une-serie-sur-eux-si-nous-pouvons-donner-de-linspiration-aux-nouvelles-generations-12-06-2022-KDVMEEJH55AXJG57VMD2ZHKIL4.php"
     },
     {
+      "text": "75 - Paris75",
+      "url": "/paris-75/"
+    },
+    {
+      "text": "91 - Essonne91",
+      "url": "/essonne-91/"
+    },
+    {
+      "text": "92 - Hauts de Seine92",
+      "url": "/hauts-de-seine-92/"
+    },
+    {
+      "text": "93 - Seine Saint Denis93",
+      "url": "/seine-saint-denis-93/"
+    },
+    {
+      "text": "94 - Val de Marne94",
+      "url": "/val-de-marne-94/"
+    },
+    {
+      "text": "95 - Val d\u2019Oise95",
+      "url": "/val-d-oise-95/"
+    },
+    {
+      "text": "77 - Seine et Marne77",
+      "url": "/seine-et-marne-77/"
+    },
+    {
+      "text": "78 - Yvelines78",
+      "url": "/yvelines-78/"
+    },
+    {
+      "text": "60 - Oise60",
+      "url": "/oise-60/"
+    },
+    {
+      "text": "75 - Paris75",
+      "url": "/paris-75/"
+    },
+    {
+      "text": "91 - Essonne91",
+      "url": "/essonne-91/"
+    },
+    {
+      "text": "92 - Hauts de Seine92",
+      "url": "/hauts-de-seine-92/"
+    },
+    {
+      "text": "93 - Seine Saint Denis93",
+      "url": "/seine-saint-denis-93/"
+    },
+    {
+      "text": "94 - Val de Marne94",
+      "url": "/val-de-marne-94/"
+    },
+    {
+      "text": "95 - Val d\u2019Oise95",
+      "url": "/val-d-oise-95/"
+    },
+    {
+      "text": "77 - Seine et Marne77",
+      "url": "/seine-et-marne-77/"
+    },
+    {
+      "text": "78 - Yvelines78",
+      "url": "/yvelines-78/"
+    },
+    {
+      "text": "60 - Oise60",
+      "url": "/oise-60/"
+    },
+    {
+      "text": "75 - Paris",
+      "url": "/paris-75/"
+    },
+    {
+      "text": "L\u00e9gislatives 2022 : cinq cartes pour comprendre le premier tour \u00e0 Paris",
+      "url": "/elections/legislatives/legislatives-2022-5-cartes-pour-comprendre-le-premier-tour-a-paris-13-06-2022-PJDX65IKRZGSPM4FXWAGZDJWVU.php"
+    },
+    {
+      "text": "91 - Essonne",
+      "url": "/essonne-91/"
+    },
+    {
+      "text": "L\u00e9gislatives en Essonne : l\u2019effet M\u00e9lenchon propulse la Nupes dans la 10e circonscription",
+      "url": "/essonne-91/legislatives-en-essonne-leffet-melenchon-propulse-la-nupes-dans-la-10e-circonscription-13-06-2022-TNEP235LGVGO5FOCBCL6AGMTZI.php"
+    },
+    {
+      "text": "92 - Hauts de Seine",
+      "url": "/hauts-de-seine-92/"
+    },
+    {
+      "text": "Premier tour des l\u00e9gislatives : abstention historique dans les Hauts-de-Seine",
+      "url": "/hauts-de-seine-92/premier-tour-des-legislatives-abstention-historique-dans-les-hauts-de-seine-13-06-2022-DAHUH23YURCRPKL2VGCWQMH6SM.php"
+    },
+    {
+      "text": "93 - Seine Saint Denis",
+      "url": "/seine-saint-denis-93/"
+    },
+    {
+      "text": "Le Blanc-Mesnil : \u00e0 peine ouvert, le nouveau centre ophtalmologique soup\u00e7onn\u00e9 de...",
+      "url": "/seine-saint-denis-93/le-blanc-mesnil-a-peine-ouvert-le-nouveau-centre-ophtalmologique-soupconne-de-pratiques-douteuses-13-06-2022-XBQXRWKOWFHJRG4J4NKW7BSFAE.php"
+    },
+    {
+      "text": "94 - Val de Marne",
+      "url": "/val-de-marne-94/"
+    },
+    {
+      "text": "Gants bioniques, exosquelettes, chien-robot... la RATP teste les \u00aboutils du futur\u00bb",
+      "url": "/info-paris-ile-de-france-oise/transports/gants-bioniques-exosquelettes-chien-robot-la-ratp-teste-les-outils-du-futur-13-06-2022-R7O6OQYCGZAE7HQFLN3NE2MYZY.php"
+    },
+    {
+      "text": "95 - Val d\u2019Oise",
+      "url": "/val-d-oise-95/"
+    },
+    {
+      "text": "L\u00e9gislatives dans le Val-d\u2019Oise : la Nupes peut-elle r\u00e9aliser le Grand Chelem ?",
+      "url": "/val-d-oise-95/legislatives-dans-le-val-doise-la-nupes-peut-elle-realiser-le-grand-chelem-13-06-2022-6HLKHB62QBFZFONF4OP5J745TY.php"
+    },
+    {
+      "text": "77 - Seine et Marne",
+      "url": "/seine-et-marne-77/"
+    },
+    {
+      "text": "L\u00e9gislatives en Seine-et-Marne : finalement, Ersilia Soudais et Didier Bernard privent...",
+      "url": "/seine-et-marne-77/legislatives-en-seine-et-marne-finalement-ersilia-soudais-et-didier-bernard-privent-rodrigue-kokouendo-de-second-tour-13-06-2022-V5RMUY6N5BD27ABGI3AFJ6JDSQ.php"
+    },
+    {
+      "text": "78 - Yvelines",
+      "url": "/yvelines-78/"
+    },
+    {
+      "text": "L\u00e9gislatives dans les Yvelines : la majorit\u00e9 pr\u00e9sidentielle confirme son implantation...",
+      "url": "/yvelines-78/legislatives-dans-les-yvelines-la-majorite-presidentielle-confirme-son-implantation-mais-la-nupes-perce-13-06-2022-KKVHGQ2LZBE5DJAY5CAK4D76VQ.php"
+    },
+    {
+      "text": "60 - Oise",
+      "url": "/oise-60/"
+    },
+    {
+      "text": "Cour d\u2019assises de l\u2019Oise : une jeune femme accus\u00e9e d\u2019avoir poignard\u00e9 sa m\u00e8re dans son...",
+      "url": "/oise-60/cour-dassises-de-loise-une-jeune-femme-accusee-davoir-poignarde-sa-mere-dans-son-sommeil-13-06-2022-O3BIPZETXRGEBGK4GOAKBMFDH4.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/info-paris-ile-de-france-oise/transports/gants-bioniques-exosquelettes-chien-robot-la-ratp-teste-les-outils-du-futur-13-06-2022-R7O6OQYCGZAE7HQFLN3NE2MYZY.php"
+    },
+    {
+      "text": "Abonn\u00e9sGants bioniques, exosquelettes, chien-robot... la RATP teste les \u00aboutils du futur\u00bb",
+      "url": "//www.leparisien.fr/info-paris-ile-de-france-oise/transports/gants-bioniques-exosquelettes-chien-robot-la-ratp-teste-les-outils-du-futur-13-06-2022-R7O6OQYCGZAE7HQFLN3NE2MYZY.php"
+    },
+    {
       "text": "",
       "url": "//www.leparisien.fr/hauts-de-seine-92/un-cadavre-retrouve-dans-le-tunnel-de-la-ligne-13-a-asnieres-10-06-2022-NQAMANWJCBAG5P33ROKPDA2WIY.php"
     },
@@ -4019,14 +4241,6 @@
     {
       "text": "Transports en Ile-de-France: les perturbations du week-end des 11 et 12 juin 2022",
       "url": "//www.leparisien.fr/info-paris-ile-de-france-oise/transports/transports-en-ile-de-france-les-perturbations-du-week-end-des-11-et-12-juin-2022-10-06-2022-LRXFRGQ5QJD2LFFGXPN4NFDFCY.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/info-paris-ile-de-france-oise/transports/et-si-de-vraies-voitures-telecommandees-roulaient-dans-paris-10-06-2022-HFK3AKF3SVFO3GOBAGZ6GGXCPE.php"
-    },
-    {
-      "text": "Abonn\u00e9sEt si de vraies voitures t\u00e9l\u00e9command\u00e9es roulaient dans Paris ?",
-      "url": "//www.leparisien.fr/info-paris-ile-de-france-oise/transports/et-si-de-vraies-voitures-telecommandees-roulaient-dans-paris-10-06-2022-HFK3AKF3SVFO3GOBAGZ6GGXCPE.php"
     },
     {
       "text": "",
@@ -4059,46 +4273,6 @@
     {
       "text": "\u00abCapsule habitable\u00bb : la Nova House sauv\u00e9e \u00e0 Perpignan rena\u00eet au monde \u00e0 la Design Week de Milan",
       "url": "//www.leparisien.fr/pyrenees-orientales-66/capsule-habitable-la-nova-house-sauvee-a-perpignan-renait-au-monde-a-la-design-week-de-milan-09-06-2022-O5G5SJXQLNDJBHB5PBJSB2IZCE.php"
-    },
-    {
-      "text": "Voir + d'articles",
-      "url": "https://www.leparisien.fr/animaux/"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/sentinelles/a-la-maison-les-animaux-cest-encore-une-affaire-de-femmes-09-06-2022-P5VMWRGDXVCNBGAEVOAAFOCV4Y.php"
-    },
-    {
-      "text": "A la maison, les animaux, c\u2019est encore une affaire de femmes ",
-      "url": "//www.leparisien.fr/sentinelles/a-la-maison-les-animaux-cest-encore-une-affaire-de-femmes-09-06-2022-P5VMWRGDXVCNBGAEVOAAFOCV4Y.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/animaux/chats-perdus-pensez-a-equiper-votre-animal-dune-puce-10-06-2022-Q2TDJJSAUVEJTIBKUMOKPURHHI.php"
-    },
-    {
-      "text": "Abonn\u00e9sChats perdus\u00a0: pensez \u00e0 \u00e9quiper votre animal d\u2019une puce ",
-      "url": "//www.leparisien.fr/animaux/chats-perdus-pensez-a-equiper-votre-animal-dune-puce-10-06-2022-Q2TDJJSAUVEJTIBKUMOKPURHHI.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/animaux/faut-il-imposer-un-couvre-feu-aux-chats-pour-les-empecher-de-chasser-04-06-2022-T2O32K6IYVFBHCC53MQN4TJJ5Y.php"
-    },
-    {
-      "text": "Abonn\u00e9sFaut-il imposer un couvre-feu aux chats pour les emp\u00eacher de chasser ?",
-      "url": "//www.leparisien.fr/animaux/faut-il-imposer-un-couvre-feu-aux-chats-pour-les-empecher-de-chasser-04-06-2022-T2O32K6IYVFBHCC53MQN4TJJ5Y.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/animaux/les-emotions-sont-elles-contagieuses-entre-les-humains-et-les-animaux-02-06-2022-6RHVCPTHTBEL3HFY7YIULIM35M.php"
-    },
-    {
-      "text": "Les \u00e9motions sont-elles contagieuses entre les humains et les animaux ? ",
-      "url": "//www.leparisien.fr/animaux/les-emotions-sont-elles-contagieuses-entre-les-humains-et-les-animaux-02-06-2022-6RHVCPTHTBEL3HFY7YIULIM35M.php"
-    },
-    {
-      "text": "Voir + d'articles",
-      "url": "https://www.leparisien.fr/animaux/"
     },
     {
       "text": "",
@@ -4158,6 +4332,22 @@
     },
     {
       "text": "",
+      "url": "//www.leparisien.fr/high-tech/discrimination-sexiste-google-paye-118-millions-de-dollars-pour-solder-une-plainte-en-nom-collectif-13-06-2022-PFWFZGOHGRAP5IRNYXSED33PVM.php"
+    },
+    {
+      "text": "Discrimination sexiste : Google paye 118 millions de dollars pour solder une plainte en nom collectif",
+      "url": "//www.leparisien.fr/high-tech/discrimination-sexiste-google-paye-118-millions-de-dollars-pour-solder-une-plainte-en-nom-collectif-13-06-2022-PFWFZGOHGRAP5IRNYXSED33PVM.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/info-paris-ile-de-france-oise/transports/gants-bioniques-exosquelettes-chien-robot-la-ratp-teste-les-outils-du-futur-13-06-2022-R7O6OQYCGZAE7HQFLN3NE2MYZY.php"
+    },
+    {
+      "text": "Abonn\u00e9sGants bioniques, exosquelettes, chien-robot... la RATP teste les \u00aboutils du futur\u00bb",
+      "url": "//www.leparisien.fr/info-paris-ile-de-france-oise/transports/gants-bioniques-exosquelettes-chien-robot-la-ratp-teste-les-outils-du-futur-13-06-2022-R7O6OQYCGZAE7HQFLN3NE2MYZY.php"
+    },
+    {
+      "text": "",
       "url": "//www.leparisien.fr/high-tech/ultra-connecte-autosuffisant-et-secret-bienvenue-a-lapple-park-12-06-2022-VJGAV3L3RVFP7EEORC5RBADMPU.php"
     },
     {
@@ -4173,20 +4363,52 @@
       "url": "//www.leparisien.fr/environnement/tech-ces-innovations-qui-font-du-bien-a-la-planete-11-06-2022-YJFMC7KHXZDNFAEQZJ4KVYEOY4.php"
     },
     {
-      "text": "",
-      "url": "//www.leparisien.fr/environnement/recycler-son-vieux-smartphone-grace-a-une-borne-de-reprise-un-geste-ecolo-qui-peut-rapporter-gros-11-06-2022-F2CQZJ5CCNBPPN4TTSMZFOQOKY.php"
-    },
-    {
-      "text": "Abonn\u00e9sRecycler son vieux smartphone gr\u00e2ce \u00e0 une borne de reprise : un geste \u00e9colo qui peut rapporter gros",
-      "url": "//www.leparisien.fr/environnement/recycler-son-vieux-smartphone-grace-a-une-borne-de-reprise-un-geste-ecolo-qui-peut-rapporter-gros-11-06-2022-F2CQZJ5CCNBPPN4TTSMZFOQOKY.php"
+      "text": "Voir + d'articles",
+      "url": "https://www.leparisien.fr/animaux/"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/high-tech/cybersecurite-nous-aurons-beaucoup-a-apprendre-de-la-cyberinvasion-en-ukraine-10-06-2022-SSGJSJM3VVHTNC2ALKMXVWSPSA.php"
+      "url": "//www.leparisien.fr/animaux/chats-perdus-pensez-a-equiper-votre-animal-dune-puce-10-06-2022-Q2TDJJSAUVEJTIBKUMOKPURHHI.php"
     },
     {
-      "text": "Abonn\u00e9sCybers\u00e9curit\u00e9 : \u00abNous aurons beaucoup \u00e0 apprendre de la cyberinvasion en Ukraine\u00bb",
-      "url": "//www.leparisien.fr/high-tech/cybersecurite-nous-aurons-beaucoup-a-apprendre-de-la-cyberinvasion-en-ukraine-10-06-2022-SSGJSJM3VVHTNC2ALKMXVWSPSA.php"
+      "text": "Abonn\u00e9sChats perdus\u00a0: pensez \u00e0 \u00e9quiper votre animal d\u2019une puce ",
+      "url": "//www.leparisien.fr/animaux/chats-perdus-pensez-a-equiper-votre-animal-dune-puce-10-06-2022-Q2TDJJSAUVEJTIBKUMOKPURHHI.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/animaux/la-mode-des-hypertypes-un-fleau-pour-les-chiens-11-06-2022-TIB2I5FFUBE7JM4HIXSLQ7WN74.php"
+    },
+    {
+      "text": "Abonn\u00e9sLa mode des \u00abhypertypes\u00bb, un fl\u00e9au pour les chiens",
+      "url": "//www.leparisien.fr/animaux/la-mode-des-hypertypes-un-fleau-pour-les-chiens-11-06-2022-TIB2I5FFUBE7JM4HIXSLQ7WN74.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/environnement/le-pygargue-a-queue-blanche-reintroduit-dans-les-alpes-apres-130-ans-dabsence-11-06-2022-5MJTXQFQINF7HEI5XAZ6W2M2EY.php"
+    },
+    {
+      "text": "Abonn\u00e9sLe Pygargue \u00e0 queue blanche r\u00e9introduit dans les Alpes apr\u00e8s 130 ans d\u2019absence ",
+      "url": "//www.leparisien.fr/environnement/le-pygargue-a-queue-blanche-reintroduit-dans-les-alpes-apres-130-ans-dabsence-11-06-2022-5MJTXQFQINF7HEI5XAZ6W2M2EY.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/animaux/deuil-dun-animal-de-compagnie-et-si-on-instaurait-un-jour-de-conge-28-05-2022-BNMB3RQYINCPXNT53AJL6OIXPQ.php"
+    },
+    {
+      "text": "Abonn\u00e9sDeuil d\u2019un animal de compagnie : et si on instaurait un jour de cong\u00e9 ?",
+      "url": "//www.leparisien.fr/animaux/deuil-dun-animal-de-compagnie-et-si-on-instaurait-un-jour-de-conge-28-05-2022-BNMB3RQYINCPXNT53AJL6OIXPQ.php"
+    },
+    {
+      "text": "Voir + d'articles",
+      "url": "https://www.leparisien.fr/animaux/"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/sciences/gaia-la-mission-qui-montre-la-voie-lactee-sous-un-nouveau-jour-13-06-2022-X2HJO6XNJRCSHLTW2M4GDU7RLY.php"
+    },
+    {
+      "text": "Gaia, la mission qui montre la Voie lact\u00e9e sous un nouveau jour",
+      "url": "//www.leparisien.fr/sciences/gaia-la-mission-qui-montre-la-voie-lactee-sous-un-nouveau-jour-13-06-2022-X2HJO6XNJRCSHLTW2M4GDU7RLY.php"
     },
     {
       "text": "",
@@ -4214,11 +4436,11 @@
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/sciences/plus-gros-quun-t-rex-un-super-predateur-gigantesque-decouvert-sur-lile-de-wight-10-06-2022-FG4I7BTZTNFAXHEBA6YFNYO3UI.php"
+      "url": "//www.leparisien.fr/sentinelles/un-avortement-peut-provoquer-lindifference-ou-une-deflagration-livg-par-celles-qui-lont-vecu-12-06-2022-NHF6MX2VHBHGBHIZDO7HRXVBQA.php"
     },
     {
-      "text": "Plus gros qu\u2019un T-Rex? Un super-pr\u00e9dateur gigantesque d\u00e9couvert sur l\u2019\u00eele de Wight",
-      "url": "//www.leparisien.fr/sciences/plus-gros-quun-t-rex-un-super-predateur-gigantesque-decouvert-sur-lile-de-wight-10-06-2022-FG4I7BTZTNFAXHEBA6YFNYO3UI.php"
+      "text": "Abonn\u00e9s\u00abUn avortement peut provoquer l\u2019indiff\u00e9rence ou une d\u00e9flagration\u00bb : l\u2019IVG par celles qui l\u2019ont v\u00e9cu",
+      "url": "//www.leparisien.fr/sentinelles/un-avortement-peut-provoquer-lindifference-ou-une-deflagration-livg-par-celles-qui-lont-vecu-12-06-2022-NHF6MX2VHBHGBHIZDO7HRXVBQA.php"
     },
     {
       "text": "",
@@ -4246,11 +4468,11 @@
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/sentinelles/a-la-maison-les-animaux-cest-encore-une-affaire-de-femmes-09-06-2022-P5VMWRGDXVCNBGAEVOAAFOCV4Y.php"
+      "url": "//www.leparisien.fr/intime/en-fait-on-est-comme-des-colocataires-ces-couples-qui-ne-partagent-plus-grand-chose-12-06-2022-DJRHPVAETZGNPK4SDHH7EWIHCU.php"
     },
     {
-      "text": "A la maison, les animaux, c\u2019est encore une affaire de femmes ",
-      "url": "//www.leparisien.fr/sentinelles/a-la-maison-les-animaux-cest-encore-une-affaire-de-femmes-09-06-2022-P5VMWRGDXVCNBGAEVOAAFOCV4Y.php"
+      "text": "Abonn\u00e9s\u00abEn fait, on est comme des colocataires\u00bb : ces couples qui ne partagent plus grand-chose",
+      "url": "//www.leparisien.fr/intime/en-fait-on-est-comme-des-colocataires-ces-couples-qui-ne-partagent-plus-grand-chose-12-06-2022-DJRHPVAETZGNPK4SDHH7EWIHCU.php"
     },
     {
       "text": "",
@@ -4275,14 +4497,6 @@
     {
       "text": "Abonn\u00e9s\u00abPour moi, c\u2019est comme une pause clope\u00bb : quand la masturbation s\u2019invite dans la journ\u00e9e de (t\u00e9l\u00e9)travail ",
       "url": "//www.leparisien.fr/intime/pour-moi-cest-comme-une-pause-clope-quand-la-masturbation-sinvite-dans-la-journee-de-teletravail-25-05-2022-2A6ARULVYBET5NNVWUMLVK5J6M.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/intime/tout-est-possible-et-rien-nest-obligatoire-leurs-premiers-pas-a-quatre-dans-un-sauna-libertin-22-05-2022-HSSPF3RU2RF2FGRV6WNK2VIM4Y.php"
-    },
-    {
-      "text": "Abonn\u00e9s\u00abTout est possible et rien n\u2019est obligatoire\u00bb : leurs premiers pas \u00e0 quatre dans un sauna libertin ",
-      "url": "//www.leparisien.fr/intime/tout-est-possible-et-rien-nest-obligatoire-leurs-premiers-pas-a-quatre-dans-un-sauna-libertin-22-05-2022-HSSPF3RU2RF2FGRV6WNK2VIM4Y.php"
     },
     {
       "text": "\u00c9couter + de podcasts",
@@ -4326,35 +4540,35 @@
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/guide-shopping/loisirs-voyages/voyages/destination-de-vacances-pas-chere-direction-lespagne-avec-ces-3-bons-plans-12-06-2022-V2VKTQWJ6RH43LLRASPQFJ4ZZE.php"
+      "url": "//www.leparisien.fr/guide-shopping/bricolage-jardin/3-facons-damenager-son-jardin-avec-une-piscine-13-06-2022-IGS6SB7WMVHPPJAYKF2JCGI2RU.php"
     },
     {
-      "text": "Destination de vacances pas ch\u00e8re : direction l\u2019Espagne avec ces 3 bons plans",
-      "url": "//www.leparisien.fr/guide-shopping/loisirs-voyages/voyages/destination-de-vacances-pas-chere-direction-lespagne-avec-ces-3-bons-plans-12-06-2022-V2VKTQWJ6RH43LLRASPQFJ4ZZE.php"
-    },
-    {
-      "text": "",
-      "url": "//www.leparisien.fr/guide-shopping/high-tech/smartphones/red-by-sfr-jusqua-50-sur-les-smartphones-xiaomi-12-06-2022-QKUFPKBUMVEV7LGPKRXC3RJ4JU.php"
-    },
-    {
-      "text": "RED by SFR : Jusqu\u2019\u00e0 -50% sur les smartphones Xiaomi",
-      "url": "//www.leparisien.fr/guide-shopping/high-tech/smartphones/red-by-sfr-jusqua-50-sur-les-smartphones-xiaomi-12-06-2022-QKUFPKBUMVEV7LGPKRXC3RJ4JU.php"
+      "text": "3 fa\u00e7ons d\u2019am\u00e9nager son jardin avec une piscine",
+      "url": "//www.leparisien.fr/guide-shopping/bricolage-jardin/3-facons-damenager-son-jardin-avec-une-piscine-13-06-2022-IGS6SB7WMVHPPJAYKF2JCGI2RU.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/guide-shopping/high-tech/smartphones/un-smartphone-samsung-galaxy-reconditionne-affiche-un-tarif-jamais-vu-chez-cdiscount-12-06-2022-MEUNFYXHUNDKROPX7J7J6YIPSM.php"
+      "url": "//www.leparisien.fr/guide-shopping/en-ce-moment/liberia-maroc-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-en-direct-13-06-2022-DAVD2744GJF3BMEOMSQG5CJRZY.php"
     },
     {
-      "text": "Un smartphone Samsung Galaxy reconditionn\u00e9 affiche un tarif jamais vu chez Cdiscount",
-      "url": "//www.leparisien.fr/guide-shopping/high-tech/smartphones/un-smartphone-samsung-galaxy-reconditionne-affiche-un-tarif-jamais-vu-chez-cdiscount-12-06-2022-MEUNFYXHUNDKROPX7J7J6YIPSM.php"
+      "text": "Lib\u00e9ria \u2013 Maroc : \u00e0 quelle heure et sur quelle cha\u00eene voir le match en direct ?",
+      "url": "//www.leparisien.fr/guide-shopping/en-ce-moment/liberia-maroc-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-en-direct-13-06-2022-DAVD2744GJF3BMEOMSQG5CJRZY.php"
     },
     {
       "text": "",
-      "url": "//www.leparisien.fr/guide-shopping/maison/aspirateur-rowenta-ou-dyson-voici-loffre-qui-va-mettre-tout-le-monde-daccord-12-06-2022-YIUH5ARLOZC6DO4RAW4AL7RQ7M.php"
+      "url": "//www.leparisien.fr/guide-shopping/en-ce-moment/france-croatie-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-de-la-ligue-des-nations-13-06-2022-W2KMXPTASNADLLCWM2DQH6BVBY.php"
     },
     {
-      "text": "Aspirateur Rowenta ou Dyson : Voici l\u2019offre qui va mettre tout le monde d\u2019accord",
-      "url": "//www.leparisien.fr/guide-shopping/maison/aspirateur-rowenta-ou-dyson-voici-loffre-qui-va-mettre-tout-le-monde-daccord-12-06-2022-YIUH5ARLOZC6DO4RAW4AL7RQ7M.php"
+      "text": "France \u2013 Croatie : \u00e0 quelle heure et sur quelle cha\u00eene voir le match de la Ligue des Nations ?",
+      "url": "//www.leparisien.fr/guide-shopping/en-ce-moment/france-croatie-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-de-la-ligue-des-nations-13-06-2022-W2KMXPTASNADLLCWM2DQH6BVBY.php"
+    },
+    {
+      "text": "",
+      "url": "//www.leparisien.fr/guide-shopping/high-tech/jeux-video/affiche-a-moitie-prix-craquez-pour-le-casque-logitech-g432-sur-amazon-13-06-2022-LCN5RZI6HFB6ZDFEIA754JY6TQ.php"
+    },
+    {
+      "text": "Affich\u00e9 \u00e0 moiti\u00e9 prix, craquez pour le casque Logitech G432 sur Amazon",
+      "url": "//www.leparisien.fr/guide-shopping/high-tech/jeux-video/affiche-a-moitie-prix-craquez-pour-le-casque-logitech-g432-sur-amazon-13-06-2022-LCN5RZI6HFB6ZDFEIA754JY6TQ.php"
     },
     {
       "text": "",
@@ -4881,20 +5095,20 @@
       "url": "/resultats-elections/ile-de-france/yvelines/"
     },
     {
-      "text": "Destination de vacances pas ch\u00e8re : direction l\u2019Espagne avec ces 3 bons plans",
-      "url": "/guide-shopping/loisirs-voyages/voyages/destination-de-vacances-pas-chere-direction-lespagne-avec-ces-3-bons-plans-12-06-2022-V2VKTQWJ6RH43LLRASPQFJ4ZZE.php"
+      "text": "3 fa\u00e7ons d\u2019am\u00e9nager son jardin avec une piscine",
+      "url": "/guide-shopping/bricolage-jardin/3-facons-damenager-son-jardin-avec-une-piscine-13-06-2022-IGS6SB7WMVHPPJAYKF2JCGI2RU.php"
     },
     {
-      "text": "RED by SFR : Jusqu\u2019\u00e0 -50% sur les smartphones Xiaomi",
-      "url": "/guide-shopping/high-tech/smartphones/red-by-sfr-jusqua-50-sur-les-smartphones-xiaomi-12-06-2022-QKUFPKBUMVEV7LGPKRXC3RJ4JU.php"
+      "text": "Lib\u00e9ria \u2013 Maroc : \u00e0 quelle heure et sur quelle cha\u00eene voir le match en direct ?",
+      "url": "/guide-shopping/en-ce-moment/liberia-maroc-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-en-direct-13-06-2022-DAVD2744GJF3BMEOMSQG5CJRZY.php"
     },
     {
-      "text": "Un smartphone Samsung Galaxy reconditionn\u00e9 affiche un tarif jamais vu chez Cdiscount",
-      "url": "/guide-shopping/high-tech/smartphones/un-smartphone-samsung-galaxy-reconditionne-affiche-un-tarif-jamais-vu-chez-cdiscount-12-06-2022-MEUNFYXHUNDKROPX7J7J6YIPSM.php"
+      "text": "France \u2013 Croatie : \u00e0 quelle heure et sur quelle cha\u00eene voir le match de la Ligue des Nations ?",
+      "url": "/guide-shopping/en-ce-moment/france-croatie-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-de-la-ligue-des-nations-13-06-2022-W2KMXPTASNADLLCWM2DQH6BVBY.php"
     },
     {
-      "text": "Aspirateur Rowenta ou Dyson : Voici l\u2019offre qui va mettre tout le monde d\u2019accord",
-      "url": "/guide-shopping/maison/aspirateur-rowenta-ou-dyson-voici-loffre-qui-va-mettre-tout-le-monde-daccord-12-06-2022-YIUH5ARLOZC6DO4RAW4AL7RQ7M.php"
+      "text": "Affich\u00e9 \u00e0 moiti\u00e9 prix, craquez pour le casque Logitech G432 sur Amazon",
+      "url": "/guide-shopping/high-tech/jeux-video/affiche-a-moitie-prix-craquez-pour-le-casque-logitech-g432-sur-amazon-13-06-2022-LCN5RZI6HFB6ZDFEIA754JY6TQ.php"
     },
     {
       "text": "S\u00e9lection shopping",
@@ -4905,20 +5119,20 @@
       "url": "https://emploi.leparisien.fr/emplois/vendeurs-experts-running-trail-cdi-ou-cdd-h-f-18598136.html"
     },
     {
-      "text": "Gestionnaire de Paie H/FNibelisLevallois-Perret - 92",
-      "url": "https://emploi.leparisien.fr/emplois/21878375.html"
+      "text": "Business Developer - Sdr 0 \u00e0 Exp Paris H/FTwenty One TalentsParis - 75",
+      "url": "https://emploi.leparisien.fr/emplois/21879064.html"
     },
     {
-      "text": "Sales Development Representative H/FNibelisLevallois-Perret - 92",
-      "url": "https://emploi.leparisien.fr/emplois/21878376.html"
+      "text": "User Acquisition Manager Senior Paris H/FTwenty One TalentsParis - 75",
+      "url": "https://emploi.leparisien.fr/emplois/21879083.html"
     },
     {
-      "text": "Chef d'Equipe Ssiap2 Anglais H/FSeris SecurityLa Courneuve - 93",
-      "url": "https://emploi.leparisien.fr/emplois/chef-d-equipe-ssiap2-anglais-h-f-20879320.html"
+      "text": "Analyste Monn\u00e9tisation - Paris H/FTwenty One TalentsParis - 75",
+      "url": "https://emploi.leparisien.fr/emplois/21879085.html"
     },
     {
-      "text": "Charg\u00e9.e d'\u00c9tudes Propret\u00e9 H/FSamsic FacilityParis 6e - 75",
-      "url": "https://emploi.leparisien.fr/emplois/chargedote-d-etudes-proprete-h-f-19687097.html"
+      "text": "Graphic & Motion Designer Paris H/FTwenty One TalentsParis - 75",
+      "url": "https://emploi.leparisien.fr/emplois/21879063.html"
     },
     {
       "text": "Consulter nos offres d'emplois",
@@ -5129,10 +5343,10 @@
     "publicdate": "2022-04-09 13:42:51",
     "addeddate": "2022-04-09 13:42:51"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 232369678,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1069457056,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }
