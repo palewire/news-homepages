@@ -6,6 +6,9 @@ const timer = ms => new Promise( res => setTimeout(res, ms));
 (async () => {
   const pathToExtension = require('path').join(__dirname, 'extensions/uBlock');
   console.log(pathToExtension);
+  await fs.readdir(pathToExtension, function(err, items) {
+      console.log(items);
+  });
   const userDataDir = './.chromium';
   const context = await chromium.launchPersistentContext(userDataDir,{
     headless: false,
