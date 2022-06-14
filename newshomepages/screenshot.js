@@ -1,9 +1,11 @@
 const { chromium } = require('playwright');
+const fs = require('fs');
 
 const timer = ms => new Promise( res => setTimeout(res, ms));
 
 (async () => {
   const pathToExtension = require('path').join(__dirname, 'extensions/uBlock');
+  console.log(pathToExtension);
   const userDataDir = './.chromium';
   const context = await chromium.launchPersistentContext(userDataDir,{
     headless: false,
