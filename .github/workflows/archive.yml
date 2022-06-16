@@ -8,8 +8,6 @@ jobs:
   sources:
     name: Source list
     runs-on: ubuntu-latest
-    outputs:
-      matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - id: checkout
         name: Checkout
@@ -24,14 +22,10 @@ jobs:
         run: pipenv run python -m newshomepages.screenshot get-handle-json
         shell: bash
 
-      - name: get version
-        id: handles
-        uses: notiz-dev/github-action-json-property@release
-        with:
-           path: 'handles.json'
-           prop_path: 'handles'
-
-      - run: echo ${{steps.handles.outputs.prop}}
+      - id: set-matrix
+        run: echo "::set-output name=matrix::$(curl https://endoflife.date/api/nodejs.json | jq -c '[.[] | select(.eol > (now | strftime("%Y-%m-%d"))) | .cycle]')"
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
 
   jpg:
     name: JPG
@@ -40,7 +34,7 @@ jobs:
     needs: sources
     strategy:
       matrix:
-        source: ${{needs.sources.outputs.handles.prop}}
+        source: ${{ fromJson(needs.sources.outputs.matrix) }}
     steps:
       - id: checkout
         name: Checkout
