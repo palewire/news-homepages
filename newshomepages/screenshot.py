@@ -50,9 +50,11 @@ def _shoot(site: typing.Dict, output_dir: str):
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
         click.echo("Launching Chromium browser")
-        path_to_extension = utils.EXTENSIONS_PATH / "uBlock"
+        data_dir = tempfile.mkdtemp()
+        click.echo(f"Data directory created at {data_dir}")
+        path_to_extension = utils.EXTENSIONS_PATH / "adguard"
         context = playwright.chromium.launch_persistent_context(
-            tempfile.mkdtemp(),
+            data_dir,
             channel="chrome",
             headless=False,
             args=[
@@ -66,8 +68,9 @@ def _shoot(site: typing.Dict, output_dir: str):
             user_agent="News Homepages (https://homepages.news/)",
         )
 
-        # Set the timeout
-        context.set_default_timeout(60 * 1000)
+        # Wait for adguard filters to load
+        click.echo("Waiting 15 seconds for AdGuard filters to load")
+        time.sleep(15)
 
         # Create an empty tab
         page = context.new_page()
