@@ -128,44 +128,44 @@ jobs:
           access-key: ${{ secrets.ia-access-key }}
           secret-key: ${{ secrets.ia-secret-key }}
 
-#  archive:
-#    name: Post to archive.org
-#    needs: [jpg,accessibility,hyperlinks,sources]
-#    runs-on: ubuntu-latest
-#    strategy:
-#      matrix:
-#        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
-#    steps:
-#      - id: checkout
-#        name: Checkout
-#        uses: actions/checkout@v3
+  archive:
+    name: Post to archive.org
+    needs: [jpg,accessibility,hyperlinks,sources]
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
 
-#      - id: install
-#        name: Install
-#        uses: ./.github/actions/install
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
 
-#      - id: archive
-#        name: Post
-#        uses: ./.github/actions/archive
-#        with:
-#          source: ${{ matrix.source }}
-#          command: single
-#          ia-access-key: ${{ secrets.IA_ACCESS_KEY }}
-#          ia-secret-key: ${{ secrets.IA_SECRET_KEY }}
-#          ia-collection: ${{ secrets.IA_COLLECTION }}
+      - id: archive
+        name: Post
+        uses: ./.github/actions/archive
+        with:
+          source: ${{ matrix.source }}
+          command: single
+          ia-access-key: ${{ secrets.IA_ACCESS_KEY }}
+          ia-secret-key: ${{ secrets.IA_SECRET_KEY }}
+          ia-collection: ${{ secrets.IA_COLLECTION }}
 
-#  commit:
-#    name: Commit to GitHub
-#    runs-on: ubuntu-latest
-#    needs: [sources,jpg]
-#    strategy:
-#      matrix:
-#        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
-#    steps:
-#      - id: checkout
-#        name: Checkout
-#        uses: actions/checkout@v3
+  commit:
+    name: Commit to GitHub
+    runs-on: ubuntu-latest
+    needs: [sources,jpg]
+    strategy:
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
 
-#      - id: commit
-#        name: Commit
-#        uses: ./.github/actions/commit
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
