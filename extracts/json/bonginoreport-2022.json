@@ -9,7 +9,7 @@
       "url": "https://www.cloudflare.com/5xx-error-landing"
     }
   ],
-  "created": 1655252396,
+  "created": 1655338626,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/28/items/bonginoreport-2022",
@@ -2780,31 +2780,73 @@
       "sha1": "288391ab36a301541bbb2a7f1c2c7c2213313f38"
     },
     {
+      "name": "bonginoreport-2022-06-15T14:45:09.095867-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655318713",
+      "size": "17282",
+      "md5": "18dffe7fa292fff8129035ffeaaa808f",
+      "crc32": "7892bd30",
+      "sha1": "237b0592a1e0e4284cb1a5fd1d21fd3bdcaf4d4b",
+      "format": "JSON"
+    },
+    {
+      "name": "bonginoreport-2022-06-15T14:45:09.095867-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655318714",
+      "size": "237",
+      "md5": "6802090dcee2fab02e704f42fd33bc63",
+      "crc32": "c0cb055c",
+      "sha1": "de5af21bea794c2a8af6a904fd0ee7b466d18145",
+      "format": "JSON"
+    },
+    {
+      "name": "bonginoreport-2022-06-15T14:45:09.095867-04:00.jpg",
+      "source": "original",
+      "mtime": "1655318711",
+      "size": "276786",
+      "md5": "acb13cf829d63378fdf2a94b81737b7a",
+      "crc32": "a2dd3d8e",
+      "sha1": "a0ee9db6057b5dfa6afd37444d0b7da1922f0e5c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bonginoreport-2022-06-15T14:45:09.095867-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bonginoreport-2022-06-15T14:45:09.095867-04:00.jpg",
+      "mtime": "1655318785",
+      "size": "8467",
+      "md5": "d4b57c77eb48081b3911fe6f826f4dd7",
+      "crc32": "afc49c24",
+      "sha1": "6a65b5902a170ad9a4f45d3183cfe65f40e1304f"
+    },
+    {
       "name": "bonginoreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51cc1906bdddc2c7b6b4c014c0fb85c4764462fd",
-      "mtime": "1655232356",
-      "size": "58009",
-      "md5": "dc57d4506df5ccd68d8547e711866761",
-      "crc32": "3cbe0479",
-      "sha1": "9d1c7f50c0571b143c38fbd403b633ef38336375",
+      "btih": "b13941a8e818f6cd30d888c757e872e70dfddb6b",
+      "mtime": "1655318790",
+      "size": "58876",
+      "md5": "7d257f6376cd180c6e0ccdc75f94d64d",
+      "crc32": "e2607092",
+      "sha1": "e9bec6e504722a6f20322ac28a9e261b504cb10c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bonginoreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef744eeee7864d16db67e24cfd1aec42",
+      "md5": "51c4ad2c7a2b5cc924514825bc8f9d67",
       "summation": "md5"
     },
     {
       "name": "bonginoreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655232309",
-      "size": "319488",
-      "md5": "8ed27d557293f3b3ef46c8624f9170c9",
-      "crc32": "b62ec1c4",
-      "sha1": "f20101e0b775fb9d16772dfa6ac8a29c9981a7d1",
+      "mtime": "1655318718",
+      "size": "323584",
+      "md5": "26f83556c1e7e1c9de1b9243a7f4c041",
+      "crc32": "ac7fe42e",
+      "sha1": "336cf44431d45233d26de5fa0ee03428c557606d",
       "format": "Metadata"
     },
     {
@@ -2818,9 +2860,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 267,
-  "item_last_updated": 1655232356,
-  "item_size": 20488389,
+  "files_count": 271,
+  "item_last_updated": 1655318790,
+  "item_size": 20796124,
   "metadata": {
     "identifier": "bonginoreport-2022",
     "collection": [
@@ -2837,10 +2879,10 @@
     "publicdate": "2022-03-25 18:46:29",
     "addeddate": "2022-03-25 18:46:29"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 157122437,
+  "server": "ia902501.us.archive.org",
+  "uniq": 385036011,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }
