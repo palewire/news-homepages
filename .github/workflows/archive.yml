@@ -20,7 +20,7 @@ jobs:
       - id: create-sites-json
         name: Create sites JSON
         run:  |
-          npm install csvtojson
+          npm install -g csvtojson
           csvtojson newshomepages/sources/sites.csv > sites.json
         shell: bash
 
