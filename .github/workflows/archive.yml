@@ -35,7 +35,7 @@ jobs:
     needs: sources
     strategy:
       matrix:
-        source: ${{ needs.sources.outputs.handle_matrix }}
+        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
     steps:
       - id: checkout
         name: Checkout
