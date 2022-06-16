@@ -157,10 +157,7 @@ jobs:
   commit:
     name: Commit to GitHub
     runs-on: ubuntu-latest
-    needs: [sources,jpg]
-    strategy:
-      matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+    needs: [jpg]
     steps:
       - id: checkout
         name: Checkout
