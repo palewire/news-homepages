@@ -48,7 +48,9 @@ def get_handle_json():
     """
     site_list = utils.get_site_list()
     handle_list = [s["handle"] for s in site_list]
-    json.dump(handle_list, open("./handles.json", "w"), indent=2)
+    json_data = json.dumps(handle_list, indent=2)
+    with open("handles.json", "w") as f:
+        f.write(json.dumps(json_data))
 
 
 def _shoot(site: typing.Dict, output_dir: str):
