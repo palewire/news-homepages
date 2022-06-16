@@ -2,7 +2,8 @@ name: Archive
 
 on:
   workflow_dispatch:
-  push:
+  schedule:
+    - cron: "30 */4 * * *"
 
 jobs:
   sources:
@@ -17,13 +18,13 @@ jobs:
         name: Install Python dependencies
         uses: ./.github/actions/install
 
-
-      - id: create-sites-json
-        name: Create sites JSON
+      - id: create-handles-json
+        name: Create handles JSON
         run:  pipenv run python -m newshomepages.screenshot get-handle-json
         shell: bash
 
       - id: set-matrix
+        name: Export handles list
         run: echo "::set-output name=handle_matrix::$(cat handles.json | jq -c)"
     outputs:
       handle_matrix: ${{ steps.set-matrix.outputs.handle_matrix }}
@@ -133,7 +134,7 @@ jobs:
 #    runs-on: ubuntu-latest
 #    strategy:
 #      matrix:
-#        source: ${{fromJson(needs.sources.outputs.matrix)}}
+#        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
 #    steps:
 #      - id: checkout
 #        name: Checkout
@@ -159,7 +160,7 @@ jobs:
 #    needs: [sources,jpg]
 #    strategy:
 #      matrix:
-#        source: ${{fromJson(needs.sources.outputs.matrix)}}
+#        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
 #    steps:
 #      - id: checkout
 #        name: Checkout

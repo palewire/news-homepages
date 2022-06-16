@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 101 sites.
+The archiving routine is currently capturing 102 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -75,6 +75,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[National Review](https://www.nationalreview.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nro.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nro.xml)|
 |[New York Times](https://www.nytimes.com)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
 |[One America News Network](https://www.oann.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oann.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oann.xml)|
+|[Onion](https://theonion.com)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theonion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml)|
 |[Orange County Register](https://www.ocregister.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ocregister.xml)|
 |[Quad City Times](https://qctimes.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/qctimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/qctimes.xml)|
 |[RIA Novosti](https://ria.ru/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rianru.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rianru.xml)|

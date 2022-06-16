@@ -37,7 +37,7 @@ def single(handle: str, input_dir: str):
     now_local = now.astimezone(tz)
 
     # Create the headline
-    tweet = f"The {handle} homepage at {now_local.strftime('%-I:%M %p')} in {data['location']}"
+    tweet = f"The {data['name']} homepage at {now_local.strftime('%-I:%M %p')} in {data['location']}"
 
     # Get the image
     input_path = Path(input_dir)
@@ -98,7 +98,7 @@ def bundle(slug: str, input_dir: str):
     for i, site in enumerate(exists_list):
         # Get the list item
         emoji = utils.numoji(i + 1)
-        list_item = f"\n{emoji} {site['handle']}"
+        list_item = f"\n{emoji} {site['name']}"
 
         # Get the image
         image_path = input_path / f"{site['handle'].lower()}.jpg"
@@ -113,7 +113,7 @@ def bundle(slug: str, input_dir: str):
         site_local = site_now.astimezone(tz)
 
         # Add the alt text to the image
-        alt_text = f"The {site['handle']} homepage at {site_local.strftime('%-I:%M %p')} in {site['location']}"
+        alt_text = f"The {site['name']} homepage at {site_local.strftime('%-I:%M %p')} in {site['location']}"
         api.PostMediaMetadata(media_id, alt_text)
 
         # Add it to our list

@@ -1,8 +1,8 @@
 {
-  "created": 1651278036,
-  "d1": "ia601508.us.archive.org",
-  "d2": "ia801508.us.archive.org",
-  "dir": "/33/items/telegraphherald-2022",
+  "created": 1655338780,
+  "d1": "ia902501.us.archive.org",
+  "d2": "ia802501.us.archive.org",
+  "dir": "/12/items/telegraphherald-2022",
   "files": [
     {
       "name": "TelegraphHerald-2022-03-25T09:09:05.491355-05:00.jpg",
@@ -1282,31 +1282,1457 @@
       "sha1": "1d78d2b9957c7c9b0394266a0fea6491fdd81969"
     },
     {
+      "name": "telegraphherald-2022-04-30T11:08:59.427154-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651334950",
+      "size": "34411",
+      "md5": "1666448e61022e15349aeabd40bc2ef2",
+      "crc32": "93f34dd1",
+      "sha1": "7ad64e1bb5befc98b4f0b5c7e3e63698012a0caf",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-04-30T11:08:59.427154-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651334951",
+      "size": "47680",
+      "md5": "e6deba3d8172b13e9575e223d9f77a79",
+      "crc32": "c5ebe8bb",
+      "sha1": "7d5446b6a84fd722d1c857588016abe9ce516925",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-04-30T11:08:59.427154-05:00.jpg",
+      "source": "original",
+      "mtime": "1651334946",
+      "size": "303113",
+      "md5": "ddf5509c60d328fccdb6880dcc4cd5c6",
+      "crc32": "e454c18c",
+      "sha1": "a7bce9ecf250045770f3a17aa173e398ca4557fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-04-30T11:08:59.427154-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-04-30T11:08:59.427154-05:00.jpg",
+      "mtime": "1651335015",
+      "size": "10237",
+      "md5": "ca3a3a73bff3ce4ff5078e819154f320",
+      "crc32": "7c3e9e10",
+      "sha1": "7db14d87b3ba288292bba86de335466d7addd383"
+    },
+    {
+      "name": "telegraphherald-2022-05-01T11:09:37.682086-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651421385",
+      "size": "35627",
+      "md5": "90c13a3d2e37130a1b209ed465e586cf",
+      "crc32": "9c0b7ae4",
+      "sha1": "c84b267fd6938f167e7ca69491c5b1a580a9026a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-01T11:09:37.682086-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651421387",
+      "size": "49863",
+      "md5": "7b2d2b07f3d176c5d545787ff8ac8c82",
+      "crc32": "581039b7",
+      "sha1": "239762230889740c441e0439f68e786fafb5d016",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-01T11:09:37.682086-05:00.jpg",
+      "source": "original",
+      "mtime": "1651421384",
+      "size": "301223",
+      "md5": "46df1cd5581212986c5dc29539f464f4",
+      "crc32": "5e91bead",
+      "sha1": "83f93b9e8cae525a013317f351379cbce7f7a488",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-01T11:09:37.682086-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-01T11:09:37.682086-05:00.jpg",
+      "mtime": "1651421443",
+      "size": "10393",
+      "md5": "0b628c9c41c8b993db8b9478591a6e5b",
+      "crc32": "2e530dc1",
+      "sha1": "62b3fdfb4d72ac3e1da451607016d6f449b30033"
+    },
+    {
+      "name": "telegraphherald-2022-05-02T11:10:06.103603-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651507813",
+      "size": "35837",
+      "md5": "2f835e3cd7b07fbb0e8ba0faa58583b5",
+      "crc32": "adac5398",
+      "sha1": "c4f53e12dcc0748e736bec20d3a3a8a727bc7444",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-02T11:10:06.103603-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651507815",
+      "size": "49383",
+      "md5": "dd36598f0caf8235055d83d12eadeffc",
+      "crc32": "164bd102",
+      "sha1": "249033846f8bd501dbbc84597c2d279b06b070df",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-02T11:10:06.103603-05:00.jpg",
+      "source": "original",
+      "mtime": "1651507810",
+      "size": "304344",
+      "md5": "82cedc649c119eac1052edb42cf4205c",
+      "crc32": "ed0064df",
+      "sha1": "f9736cf95f666041343b8ab2154d27254704a16a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-02T11:10:06.103603-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-02T11:10:06.103603-05:00.jpg",
+      "mtime": "1651507892",
+      "size": "10339",
+      "md5": "3785c440f08cfa2c72f8c04e094d9d2a",
+      "crc32": "b462f745",
+      "sha1": "5a0aa195db0d4e399e67c9db943666663fac09d6"
+    },
+    {
+      "name": "telegraphherald-2022-05-03T11:09:41.402259-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651594186",
+      "size": "34867",
+      "md5": "41385f94b68033302a9de57492931492",
+      "crc32": "b2b47fbb",
+      "sha1": "0305ca01eb0158a61ec0f63288ef669ad09e6150",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-03T11:09:41.402259-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651594188",
+      "size": "48266",
+      "md5": "8c5e5e7ccb5632204021e44eb582d5ad",
+      "crc32": "6f65849b",
+      "sha1": "f8cf5df1d445d48283862c5bf013b14e7e10fc31",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-03T11:09:41.402259-05:00.jpg",
+      "source": "original",
+      "mtime": "1651594184",
+      "size": "307710",
+      "md5": "13680c3e13c28dc4027b4d6878679c5e",
+      "crc32": "4a8db4fa",
+      "sha1": "e7f44b902a3ea2985a8c88ea58096e8fbff219cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-03T11:09:41.402259-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-03T11:09:41.402259-05:00.jpg",
+      "mtime": "1651594244",
+      "size": "10019",
+      "md5": "536d654b544ae8a30b84a79851c57d76",
+      "crc32": "8b6d9acb",
+      "sha1": "0e3e23767d68dfe943c8c561e96160a9e6fc33db"
+    },
+    {
+      "name": "telegraphherald-2022-05-04T11:09:39.101048-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651680586",
+      "size": "35065",
+      "md5": "dd799ec646b2ab335df367d43240cc38",
+      "crc32": "560155c3",
+      "sha1": "8478721ff32334d79bba16cc8d9097550e0b5830",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-04T11:09:39.101048-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651680587",
+      "size": "48644",
+      "md5": "a1ce780d82f9f1374718fc54e8586d86",
+      "crc32": "20d775df",
+      "sha1": "e3e7476467aeebb1d45e38521e9513ed3cd75d4f",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-04T11:09:39.101048-05:00.jpg",
+      "source": "original",
+      "mtime": "1651680584",
+      "size": "299284",
+      "md5": "7750d82cee4be9b941e3cb27f78adc36",
+      "crc32": "fe03fc72",
+      "sha1": "270eebdf439fae4cbbe9534e5442be8ae69072e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-04T11:09:39.101048-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-04T11:09:39.101048-05:00.jpg",
+      "mtime": "1651683023",
+      "size": "10047",
+      "md5": "2bac964167265b7dd20ab6f71049e4b9",
+      "crc32": "4de27c97",
+      "sha1": "3a625997bfcf5ed64938067b1b70e5b9fdd089bc"
+    },
+    {
+      "name": "telegraphherald-2022-05-05T11:09:32.654195-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651766976",
+      "size": "35333",
+      "md5": "b8b3f2a207c68439e2811d90339f614d",
+      "crc32": "00cab92e",
+      "sha1": "aa22c07b3d4f4b3120f04bac4b53dd276935727f",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-05T11:09:32.654195-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651766979",
+      "size": "48481",
+      "md5": "11590c45841b2db218e1957a22fab715",
+      "crc32": "b2a006e1",
+      "sha1": "32b869e84e98c0eef2ea08ea5cf5d53cfcc1c951",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-05T11:09:32.654195-05:00.jpg",
+      "source": "original",
+      "mtime": "1651766974",
+      "size": "311458",
+      "md5": "9c92a6e0f1186d4be1373e7ccc0c45b8",
+      "crc32": "ce306e4a",
+      "sha1": "4fc3d87b3a944fc988fd1e22e27adfc46fdbf418",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-05T11:09:32.654195-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-05T11:09:32.654195-05:00.jpg",
+      "mtime": "1651769762",
+      "size": "10576",
+      "md5": "924d80eefad2c9108294c74b3910e997",
+      "crc32": "2c9e51a0",
+      "sha1": "5cba2b88f2e9faad44f9c339d1646d15f2db6fca"
+    },
+    {
+      "name": "telegraphherald-2022-05-06T11:09:14.563624-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651853359",
+      "size": "35167",
+      "md5": "85f2d90f1b5de199d1b4d0386781d029",
+      "crc32": "6c3a043b",
+      "sha1": "69c55946d221b55f5eb87b6d8dd637934504983b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-06T11:09:14.563624-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651853362",
+      "size": "48456",
+      "md5": "3ef5d8461d276b8b953a0aff772e82e7",
+      "crc32": "da36f82c",
+      "sha1": "7008dbf7788774a8da18dd6b7d312d520a4bc83d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-06T11:09:14.563624-05:00.jpg",
+      "source": "original",
+      "mtime": "1651853357",
+      "size": "290669",
+      "md5": "276d28149ed60671127c8eb684cc5391",
+      "crc32": "ca54633b",
+      "sha1": "4f9ae81a5851bd7de41da12c18095c70357774cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-06T11:09:14.563624-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-06T11:09:14.563624-05:00.jpg",
+      "mtime": "1651854906",
+      "size": "10564",
+      "md5": "9bbcb3c3c3ecd8af28ee105644d95ad2",
+      "crc32": "c228381f",
+      "sha1": "af19f4f8cc24f4ce09746a407c00b237730c687e"
+    },
+    {
+      "name": "telegraphherald-2022-05-07T11:10:40.853491-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1651939843",
+      "size": "35115",
+      "md5": "03b53701431f82d00db690057f90da39",
+      "crc32": "e0242f6a",
+      "sha1": "6873993bf86aece35716bc5881c123f2fb8c023b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-07T11:10:40.853491-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1651939845",
+      "size": "48479",
+      "md5": "a1c099f60b7eae7bd737bbb4ade0c6aa",
+      "crc32": "56a05a59",
+      "sha1": "7ddd49aaae90cee9fafc15506958c2ca41ab1abd",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-07T11:10:40.853491-05:00.jpg",
+      "source": "original",
+      "mtime": "1651939842",
+      "size": "300743",
+      "md5": "6cefb6d95793bc703c27f7f37e257f5b",
+      "crc32": "52f3e307",
+      "sha1": "13720ef5e7001f602bd056cc06e76ed96d9c9121",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-07T11:10:40.853491-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-07T11:10:40.853491-05:00.jpg",
+      "mtime": "1651939907",
+      "size": "10782",
+      "md5": "ec9ac6c4cfc8281c43e9e3f3b8d792cf",
+      "crc32": "cc44e470",
+      "sha1": "8f862206cdb946fa946af1555a9efde4ba8a83a8"
+    },
+    {
+      "name": "telegraphherald-2022-05-08T11:09:10.913067-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652026158",
+      "size": "35275",
+      "md5": "ec11da4fa9d253f69560771294a71cf6",
+      "crc32": "3ff5494c",
+      "sha1": "b0a5e915adf7a44e885ac7857cbc6e23843ba1be",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-08T11:09:10.913067-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652026159",
+      "size": "48465",
+      "md5": "ff44ccbede936f3729dc30dfdada57fa",
+      "crc32": "5701ede8",
+      "sha1": "c258e93b8de9ed106c25b7dff7ebab92591240b3",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-08T11:09:10.913067-05:00.jpg",
+      "source": "original",
+      "mtime": "1652026152",
+      "size": "292690",
+      "md5": "27faa27c1a2c0b251e604fcee7b6be67",
+      "crc32": "e4b1e02f",
+      "sha1": "c4096add7a0cdfaf0a4461ad2b5394d8f76f9e8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-08T11:09:10.913067-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-08T11:09:10.913067-05:00.jpg",
+      "mtime": "1652026211",
+      "size": "10646",
+      "md5": "f08e99a54ed1ceef4af9ae184e345eba",
+      "crc32": "a5bbd830",
+      "sha1": "f76e6f201db15f8e227c9a6efe5fe525a69bf606"
+    },
+    {
+      "name": "telegraphherald-2022-05-09T11:09:34.066077-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652112583",
+      "size": "35869",
+      "md5": "3a1352495b9143880c88d64df89d1e32",
+      "crc32": "d9083cf1",
+      "sha1": "71bfe9a255083b6fd08be1b7ae797334500bd09f",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-09T11:09:34.066077-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652112584",
+      "size": "47883",
+      "md5": "ac78ece83dc2bd1fa3e0bc76414550a2",
+      "crc32": "92ed64ae",
+      "sha1": "9f39af6102279990bd3ba04a1cb53fa8ec575673",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-09T11:09:34.066077-05:00.jpg",
+      "source": "original",
+      "mtime": "1652112576",
+      "size": "281835",
+      "md5": "c187626f4227a7c1561306c88d6bb9d5",
+      "crc32": "4e98b47b",
+      "sha1": "410b77562ab898231ad449912ba68fd65676fdaa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-09T11:09:34.066077-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-09T11:09:34.066077-05:00.jpg",
+      "mtime": "1652112708",
+      "size": "9903",
+      "md5": "a91f64915c84581e290ac52b913065d7",
+      "crc32": "4206a722",
+      "sha1": "966f0349a60599a387c1fcef75c6f081cd532318"
+    },
+    {
+      "name": "telegraphherald-2022-05-10T11:08:24.914663-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652198913",
+      "size": "34646",
+      "md5": "270a0e64ea6fe7fa817a0d0522d9beef",
+      "crc32": "05276388",
+      "sha1": "b2b56fe32fb0523fa3583076fe2dfbd2dd0d75e4",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-10T11:08:24.914663-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652198917",
+      "size": "48141",
+      "md5": "501ad46616cea6be1f8d7c95e120d79c",
+      "crc32": "9934cedd",
+      "sha1": "9be4a4ccdafbc4e652fe7bbf5503fec3172e9750",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-10T11:08:24.914663-05:00.jpg",
+      "source": "original",
+      "mtime": "1652198908",
+      "size": "278796",
+      "md5": "c67bfc52511e0affaaa591421ac9de38",
+      "crc32": "0db75e8c",
+      "sha1": "c7ce0683373f6b840f17d12b860e7e44a1797b7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-10T11:08:24.914663-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-10T11:08:24.914663-05:00.jpg",
+      "mtime": "1652199204",
+      "size": "9670",
+      "md5": "1991ded64146b77561340670e49318b2",
+      "crc32": "9aa5e2fd",
+      "sha1": "29898e92a306161998c5171786a60051bd21e5c0"
+    },
+    {
+      "name": "telegraphherald-2022-05-12T11:09:58.272799-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652371804",
+      "size": "34740",
+      "md5": "e483515779a90ccc87531b9478d9023e",
+      "crc32": "a3b48ce7",
+      "sha1": "86c2dde009c3940cfbed343a1207bf47d37fc929",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-12T11:09:58.272799-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652371809",
+      "size": "47842",
+      "md5": "3e10a6b6eeecaec8f6f2011fcf8e643e",
+      "crc32": "887f0462",
+      "sha1": "636751184ae0a6da92645f96afbb26148cb680a6",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-12T11:09:58.272799-05:00.jpg",
+      "source": "original",
+      "mtime": "1652371801",
+      "size": "287179",
+      "md5": "c60885d8c7f37d25d622543acb4b8a21",
+      "crc32": "583dc81a",
+      "sha1": "ca2088f9a142a0d785f61cd0e96565a3312b11b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-12T11:09:58.272799-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-12T11:09:58.272799-05:00.jpg",
+      "mtime": "1652373023",
+      "size": "10106",
+      "md5": "2f8e4ecc81dfa5b1678fbb4725254a12",
+      "crc32": "ceab9ca0",
+      "sha1": "54ffd3398ddddbcb26209cbb2f6985a776081040"
+    },
+    {
+      "name": "telegraphherald-2022-05-13T11:09:29.131403-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652458173",
+      "size": "35115",
+      "md5": "dab95e36a3a03cfe00151d898e0e5d34",
+      "crc32": "cdf9a45e",
+      "sha1": "a6f3b4c45c0db2418cb5df0f7b219d23ded2ce7b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-13T11:09:29.131403-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652458175",
+      "size": "47091",
+      "md5": "e793e536aa173b16e5d6951de34bc239",
+      "crc32": "ab628d09",
+      "sha1": "c9d9b932de7e96ac7329f80e9757558f891f0c97",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-13T11:09:29.131403-05:00.jpg",
+      "source": "original",
+      "mtime": "1652458170",
+      "size": "292375",
+      "md5": "c9a22f1a0a15cb8e2ece0a6a2c11caf3",
+      "crc32": "04585140",
+      "sha1": "35175d3ef3feec45bd05c6d09cff75aeb5d84055",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-13T11:09:29.131403-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-13T11:09:29.131403-05:00.jpg",
+      "mtime": "1652467814",
+      "size": "9993",
+      "md5": "8babcdf32306a823206348c6888cecd4",
+      "crc32": "0c3e04f3",
+      "sha1": "318fef0e09c78384fd4e6550764f8ee9c4d471d4"
+    },
+    {
+      "name": "telegraphherald-2022-05-14T11:10:08.871463-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652544613",
+      "size": "33777",
+      "md5": "aecdafa865aab6ab26a6af92c8b43e02",
+      "crc32": "873fecb3",
+      "sha1": "b6b03beeb800e7542268506f55f6ba48050c721b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-14T11:10:08.871463-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652544615",
+      "size": "46684",
+      "md5": "155989e6926b52608c4642ae1bf0c6b0",
+      "crc32": "4ab37150",
+      "sha1": "3d58f25b311c0d4db834b266bf4eef16f6a71bea",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-15T11:14:41.459917-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1652631283",
+      "size": "35027",
+      "md5": "0a829a0b66796e01a174e76234fb248c",
+      "crc32": "90acc6c6",
+      "sha1": "0e47206ce3c2e2dfe23d22bee1859ca487eedacb",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-15T11:14:41.459917-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1652631285",
+      "size": "47301",
+      "md5": "c93079282e22fc5648a254d96d858584",
+      "crc32": "34a14fdd",
+      "sha1": "bda2259365ef99c148c6f0d0b2051af57c1d0bce",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-21T11:08:54.752108-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653149339",
+      "size": "33944",
+      "md5": "d9e8148d1b1c541d368d26e71d59167b",
+      "crc32": "ef45bbcc",
+      "sha1": "38958c4b4b86788fb4265f4c64e1048b1314f5f7",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-21T11:08:54.752108-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653149341",
+      "size": "45587",
+      "md5": "a927063c775b27e15acfea5fc24bf86c",
+      "crc32": "26e3d31e",
+      "sha1": "ca7df919709b87f01e585f1dd9d9bbfc34aa5434",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-21T11:08:54.752108-05:00.jpg",
+      "source": "original",
+      "mtime": "1653149337",
+      "size": "271522",
+      "md5": "2f2197e86c5a5c3259df9a86ceec0034",
+      "crc32": "2f07e078",
+      "sha1": "7a74ede2a87bc4f9a89ab9ba777cc6412dba5c16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-21T11:08:54.752108-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-21T11:08:54.752108-05:00.jpg",
+      "mtime": "1653149431",
+      "size": "9392",
+      "md5": "bd4fdfb584d72779767a5f5bdb4b2021",
+      "crc32": "2a6e5afe",
+      "sha1": "ec8c7abf811ff9dcf7e8433bed506a101566334b"
+    },
+    {
+      "name": "telegraphherald-2022-05-22T11:08:37.569231-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653235722",
+      "size": "33934",
+      "md5": "3a1a2289997ac74bd0caed03eb064ba9",
+      "crc32": "8cadf0ce",
+      "sha1": "ecf39e7cac399dc4f23714a19e12d18d929d054c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-22T11:08:37.569231-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653235723",
+      "size": "46675",
+      "md5": "3bff52cf09f4350eb7e2163f5d267e1f",
+      "crc32": "3f00ae91",
+      "sha1": "36a762337792cc157ed764725de974c99258daac",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-22T11:08:37.569231-05:00.jpg",
+      "source": "original",
+      "mtime": "1653235720",
+      "size": "276602",
+      "md5": "e35bb7896feb7df643c403a4d9179382",
+      "crc32": "cde3d917",
+      "sha1": "bf9a7c76ad91de3d558188a7e2a3069cbb7fdd51",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-22T11:08:37.569231-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-22T11:08:37.569231-05:00.jpg",
+      "mtime": "1653235791",
+      "size": "9758",
+      "md5": "31ce1c1004b4a0e233b6b2a57a3d71ff",
+      "crc32": "e3c2c869",
+      "sha1": "3444c1b4428d989a2cd492203a81312c1e3a6373"
+    },
+    {
+      "name": "telegraphherald-2022-05-23T11:08:44.095013-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653322127",
+      "size": "34251",
+      "md5": "5e36f892acaab1c285d751157d342156",
+      "crc32": "c406cf64",
+      "sha1": "5f7ebdb76f0cc104e30e89d344ce03ffd740ffd6",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-23T11:08:44.095013-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653322128",
+      "size": "47766",
+      "md5": "0aeb0f544925980a2a359f8a6e9fc00f",
+      "crc32": "9ae01a76",
+      "sha1": "57b853d18abcbdfde2474d7dcf722dabdb66ecc1",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-23T11:08:44.095013-05:00.jpg",
+      "source": "original",
+      "mtime": "1653322125",
+      "size": "288893",
+      "md5": "edf9ce162d9a9b12bac272ce941d27e7",
+      "crc32": "479b528b",
+      "sha1": "6938ff35fe33b6b8ad8035f5ad0c84d99a292297",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-23T11:08:44.095013-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-23T11:08:44.095013-05:00.jpg",
+      "mtime": "1653322182",
+      "size": "10134",
+      "md5": "45a5226b6a1ca32de76562f46733c775",
+      "crc32": "2539fb28",
+      "sha1": "d9814128468fe7a8fe1057c39ab0bbc4b664edc2"
+    },
+    {
+      "name": "telegraphherald-2022-05-24T11:09:53.014030-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653408599",
+      "size": "34304",
+      "md5": "20250f8089391900a9881e0ac38c1197",
+      "crc32": "01935442",
+      "sha1": "7add6d323ff49da89b1fd22ce2dbedf4d5a21d6d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-24T11:09:53.014030-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653408602",
+      "size": "47208",
+      "md5": "896c0b32d60d62171dd48f745ae5dcc6",
+      "crc32": "b164ab92",
+      "sha1": "4afe09fb8e9dc0d72ea91aef3e52474b61bd1403",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-24T11:09:53.014030-05:00.jpg",
+      "source": "original",
+      "mtime": "1653408597",
+      "size": "263727",
+      "md5": "1b3590138a13bcc96b229e4c20d386b6",
+      "crc32": "33a569be",
+      "sha1": "ff5ef423190ce2748e13ab34cb9c688705a8e4f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-24T11:09:53.014030-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-24T11:09:53.014030-05:00.jpg",
+      "mtime": "1653409565",
+      "size": "10003",
+      "md5": "3c9054cd03ddc07826b1fa6946318ab2",
+      "crc32": "74f1f05e",
+      "sha1": "d7c32392af6404aa5895b709772968c722c6d9d4"
+    },
+    {
+      "name": "telegraphherald-2022-05-25T11:08:43.401813-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653494929",
+      "size": "34071",
+      "md5": "3e0df604f0cb50367c8904602ce49651",
+      "crc32": "bab54266",
+      "sha1": "0721cc23275eba79540885e9208cccab4eafbb0e",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-25T11:08:43.401813-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653494931",
+      "size": "47048",
+      "md5": "3a9bc4f651f50665022c96921e16250a",
+      "crc32": "a76e2c11",
+      "sha1": "4920fb34a2da01aed00604b88c23d8c4d7a0e124",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-25T11:08:43.401813-05:00.jpg",
+      "source": "original",
+      "mtime": "1653494927",
+      "size": "223254",
+      "md5": "4f796f5c77c36264907e75d128a8261c",
+      "crc32": "bdffd67c",
+      "sha1": "49d4059cfc1f9cf739050770c196794f964026b6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-25T11:08:43.401813-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-25T11:08:43.401813-05:00.jpg",
+      "mtime": "1653496924",
+      "size": "9368",
+      "md5": "dc1ad36d9d0797a2266bdcbd50f811d6",
+      "crc32": "c0a69c9b",
+      "sha1": "2cd48c1046825b784f1a461f43c596869b604d0c"
+    },
+    {
+      "name": "telegraphherald-2022-05-26T11:13:35.304826-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653581618",
+      "size": "34030",
+      "md5": "cb90a1c37c0bcebb2a7b1ac01c9332c9",
+      "crc32": "5931f864",
+      "sha1": "0d98b3a23f62a60987b8d90fa7ba7611d236a58d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-26T11:13:35.304826-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653581621",
+      "size": "47121",
+      "md5": "5ea8d35f51205e8b4ba338910735950e",
+      "crc32": "9a13a0a3",
+      "sha1": "cd604b5c36fdfdbd8eba805a22c0be80ac3f3fa0",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-26T11:13:35.304826-05:00.jpg",
+      "source": "original",
+      "mtime": "1653581617",
+      "size": "281689",
+      "md5": "4906a3b524f2e781bffb33052f87bdd9",
+      "crc32": "e4517c56",
+      "sha1": "bf689271d3b340bb9d7781b009c85934cd3dae46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-26T11:13:35.304826-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-26T11:13:35.304826-05:00.jpg",
+      "mtime": "1653582354",
+      "size": "9953",
+      "md5": "cd7baaa11de369fe9e6318d06be2315e",
+      "crc32": "ba4ee85d",
+      "sha1": "65625752c0d2be9ab7cec04f368ba1bbe9a9575b"
+    },
+    {
+      "name": "telegraphherald-2022-05-27T11:10:30.227378-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653667835",
+      "size": "33359",
+      "md5": "1c3c2eaf3f3a292c0a0804232de445c4",
+      "crc32": "aa2b0bcb",
+      "sha1": "f5445810a544a5fa23c69f022e252e8b530c95e0",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-27T11:10:30.227378-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653667838",
+      "size": "46206",
+      "md5": "bd3b6777966e49bee4ab80a3bfeae273",
+      "crc32": "a911341d",
+      "sha1": "0baedeebde568c99f8e7bb6a5a0a64d24b993062",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-27T11:10:30.227378-05:00.jpg",
+      "source": "original",
+      "mtime": "1653667832",
+      "size": "293758",
+      "md5": "4b8686ca06b89ff65377222a2552085b",
+      "crc32": "dc3f220d",
+      "sha1": "81a3c84720ceb65013538c7162598033d401a2aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-27T11:10:30.227378-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-27T11:10:30.227378-05:00.jpg",
+      "mtime": "1653669543",
+      "size": "10442",
+      "md5": "bc7fd483ee518701095766be57da5102",
+      "crc32": "4111ddbc",
+      "sha1": "df82afa5359ce67b8d30cf4879e6f89987b7b37b"
+    },
+    {
+      "name": "telegraphherald-2022-05-29T11:08:29.807168-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653840514",
+      "size": "33436",
+      "md5": "61daaf5720499db432b3503f63223255",
+      "crc32": "e6c5cadb",
+      "sha1": "bec71cbe83bd4e55b35837b5c7d167f3af9d6418",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-29T11:08:29.807168-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653840516",
+      "size": "46470",
+      "md5": "63a62b5351ccd65c385bfc3d6315377c",
+      "crc32": "ce0694a1",
+      "sha1": "6b32b340a294c244fe13779bb6e7c8f0eab9804a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-29T11:08:29.807168-05:00.jpg",
+      "source": "original",
+      "mtime": "1653840513",
+      "size": "293717",
+      "md5": "d80b67dbbef99a6de7a8f2ee6cc213f1",
+      "crc32": "9052d8fa",
+      "sha1": "c698f70c241215cdc63aacd3652efd77b1050569",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-29T11:08:29.807168-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-29T11:08:29.807168-05:00.jpg",
+      "mtime": "1653840569",
+      "size": "10062",
+      "md5": "5b8bc61e2ea844949d9fcc5783301ffc",
+      "crc32": "28f841f8",
+      "sha1": "5be4f857d15eeda92ca5b93ebc2cf3a5ab81bebe"
+    },
+    {
+      "name": "telegraphherald-2022-05-30T11:08:54.979514-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1653926943",
+      "size": "33563",
+      "md5": "2fc765c3dd9bf70176eaa46935ca6843",
+      "crc32": "cd527233",
+      "sha1": "6343ede540383530801eb731cec5a527d7699983",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-30T11:08:54.979514-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1653926946",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-30T11:08:54.979514-05:00.jpg",
+      "source": "original",
+      "mtime": "1653926941",
+      "size": "264183",
+      "md5": "b1ed28df6249ece8e25ff2e6f8f4a6d3",
+      "crc32": "df80c097",
+      "sha1": "84d3b3816f3b733076bb9848c980535225b2eff2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-30T11:08:54.979514-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-30T11:08:54.979514-05:00.jpg",
+      "mtime": "1653927209",
+      "size": "9563",
+      "md5": "faed32d0f625796a2076832503c7c2a3",
+      "crc32": "943fb365",
+      "sha1": "9b7e31c152e4b5fcbec98fbeb6e69755fdb15e48"
+    },
+    {
+      "name": "telegraphherald-2022-05-31T11:10:24.316453-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654013429",
+      "size": "34933",
+      "md5": "c5c4659fb9e3b2e4894d52acf6a172ad",
+      "crc32": "896b9f23",
+      "sha1": "aceb557865645ab97ee68648032ef703b3140f37",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-31T11:10:24.316453-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654013437",
+      "size": "48515",
+      "md5": "cf4329b5344a1669838c86022c64cd63",
+      "crc32": "6ed93f04",
+      "sha1": "a2bd13f42a1d36fbf0ee7385886bbd438c10789b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-05-31T11:10:24.316453-05:00.jpg",
+      "source": "original",
+      "mtime": "1654013426",
+      "size": "331484",
+      "md5": "8e5eaaf7e96cecaa75fd6541b2bf443b",
+      "crc32": "e5fdbd1d",
+      "sha1": "77364c50525929b3467659d841dd9511ac641bec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-05-31T11:10:24.316453-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-05-31T11:10:24.316453-05:00.jpg",
+      "mtime": "1654013733",
+      "size": "10403",
+      "md5": "9f5921d13daf5d664258ddf5e2bcecdf",
+      "crc32": "b2e50d85",
+      "sha1": "2231839878359bbe15f17f720e327ce06c3878fe"
+    },
+    {
+      "name": "telegraphherald-2022-06-01T11:10:21.509653-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654099832",
+      "size": "33335",
+      "md5": "77cb8ebe1b5fba4797fd9fbb0c6ef23b",
+      "crc32": "6609e4ca",
+      "sha1": "64495e531734d9df48c739d49902ba3883d10d6c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-01T11:10:21.509653-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654099833",
+      "size": "46227",
+      "md5": "8916c10e8a2a54c0da25a394df926f9c",
+      "crc32": "9a39c9ab",
+      "sha1": "0f5834cc8cb26283299f5486b8f1a017462a19d9",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-01T11:10:21.509653-05:00.jpg",
+      "source": "original",
+      "mtime": "1654099830",
+      "size": "282211",
+      "md5": "6f3ea12711c955264a2d27edcd8daf69",
+      "crc32": "d1517fd2",
+      "sha1": "55c10ba88f4575e91d6028a42cc78f4e5bf9ccd6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-01T11:10:21.509653-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-01T11:10:21.509653-05:00.jpg",
+      "mtime": "1654102748",
+      "size": "10052",
+      "md5": "5e07e8d11ca6ee4628fa16c40dff71de",
+      "crc32": "9f3036be",
+      "sha1": "b68f45799480aa94591645c71ca976ee410ba331"
+    },
+    {
+      "name": "telegraphherald-2022-06-02T11:08:08.360941-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654186093",
+      "size": "35199",
+      "md5": "a0159b821cfe6d9dc8b2ba1443d521d6",
+      "crc32": "351e321b",
+      "sha1": "312d21202c8377e0d9182aae16fd4330a8df46ab",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-02T11:08:08.360941-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654186096",
+      "size": "49208",
+      "md5": "295490b497c5f0278e9a449bddeeffa6",
+      "crc32": "2e83e3e4",
+      "sha1": "093b299c11acb1ab5090051561b3006eb2288022",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-02T11:08:08.360941-05:00.jpg",
+      "source": "original",
+      "mtime": "1654186090",
+      "size": "284151",
+      "md5": "79e7fd441a00d72a7e39c32478d481ba",
+      "crc32": "9b557cdd",
+      "sha1": "1d237e8cce00a521aa848f524bf64f3250315864",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-02T11:08:08.360941-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-02T11:08:08.360941-05:00.jpg",
+      "mtime": "1654187757",
+      "size": "10784",
+      "md5": "b69129a5a6a281f1366b6130ccd7a898",
+      "crc32": "f05152dd",
+      "sha1": "6e2d0331a123b51edb6eccaca729a44b3e49ef55"
+    },
+    {
+      "name": "telegraphherald-2022-06-04T11:08:34.685389-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654358917",
+      "size": "34948",
+      "md5": "f30611cb872c1ff354fe53507b56db54",
+      "crc32": "e44e00ab",
+      "sha1": "4092c1915947cda16a0256e2d336c14918cfd2c7",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-04T11:08:34.685389-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654358919",
+      "size": "48316",
+      "md5": "7d09c38e897c89157b439b20b96ad79e",
+      "crc32": "9c12575c",
+      "sha1": "109f71788ab4e7bea9a757b1c8f08dfc290ff423",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-04T11:08:34.685389-05:00.jpg",
+      "source": "original",
+      "mtime": "1654358915",
+      "size": "277274",
+      "md5": "dd9e879fa95b74b0996611a6c03ab087",
+      "crc32": "668b1ee5",
+      "sha1": "d56ed5ec7a28fd301d89fde60d7ee1e26d9abc53",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-04T11:08:34.685389-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-04T11:08:34.685389-05:00.jpg",
+      "mtime": "1654358973",
+      "size": "10269",
+      "md5": "893820f8518780409068848acef597bc",
+      "crc32": "a2012aa4",
+      "sha1": "55d5b56ea7f920f216e0c34da0143c9d3ad6dbdd"
+    },
+    {
+      "name": "telegraphherald-2022-06-05T11:09:27.932697-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654445373",
+      "size": "35692",
+      "md5": "f403e71be3856097fa233ad339351a40",
+      "crc32": "81a29467",
+      "sha1": "d7e785a551799036a151ce3584ba7d5697545ce7",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-05T11:09:27.932697-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654445374",
+      "size": "48835",
+      "md5": "48f33dbfd2b03c806b3214a905ee8f27",
+      "crc32": "453672ed",
+      "sha1": "9749a96fd47d26b9a81f5b0f6f92789d2e06e6be",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-05T11:09:27.932697-05:00.jpg",
+      "source": "original",
+      "mtime": "1654445371",
+      "size": "199270",
+      "md5": "2104575fc4d927fa7b7ad528ed60b6e0",
+      "crc32": "d4bc07e5",
+      "sha1": "b53cde7740180d32152599da8b86d93ea3c31125",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-05T11:09:27.932697-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-05T11:09:27.932697-05:00.jpg",
+      "mtime": "1654445543",
+      "size": "8358",
+      "md5": "6095eb70ae2651b5e4745e561ab2fe36",
+      "crc32": "e033aade",
+      "sha1": "50eedc3ac65b37fb4c3992f6a57a0d0bea0a296f"
+    },
+    {
+      "name": "telegraphherald-2022-06-06T11:11:07.635869-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654531874",
+      "size": "35939",
+      "md5": "0716ebc034cb3491dbc65a887afafa82",
+      "crc32": "6059251b",
+      "sha1": "82ff6195343b738d0d7534c3dfdd9733bb20a3c8",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-06T11:11:07.635869-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654531876",
+      "size": "49108",
+      "md5": "ca88747cd334b68a347625b19517a2ae",
+      "crc32": "2c7d9d5f",
+      "sha1": "600647690981a9ccfe42c03b7b1d70f5dc1de5de",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-06T11:11:07.635869-05:00.jpg",
+      "source": "original",
+      "mtime": "1654531873",
+      "size": "191494",
+      "md5": "17070923ecd3111c72bfdd08401d9d5f",
+      "crc32": "d83054f7",
+      "sha1": "696a721f2f00f84e07ae6bcf6bdc06a99b58e707",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-06T11:11:07.635869-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-06T11:11:07.635869-05:00.jpg",
+      "mtime": "1654532029",
+      "size": "8040",
+      "md5": "dd2038027be5d9bf48bd0191a77f15a0",
+      "crc32": "353eedad",
+      "sha1": "072a7f8e54269239c36ac53d72a75af9ebc11d0c"
+    },
+    {
+      "name": "telegraphherald-2022-06-07T11:14:23.379666-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654618468",
+      "size": "34340",
+      "md5": "31e18830a0e51ba58290f67123518d10",
+      "crc32": "94ac7153",
+      "sha1": "e32a1eb1d576dc89d293d0b545db895a2a1ad54c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-07T11:14:23.379666-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654618470",
+      "size": "47535",
+      "md5": "32c8d198c9edda0f28569ee0bacd70cc",
+      "crc32": "7c3f896d",
+      "sha1": "bb73d8ed9d9ebf6654fe78f04c189fe3292306d2",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-07T11:14:23.379666-05:00.jpg",
+      "source": "original",
+      "mtime": "1654618466",
+      "size": "284465",
+      "md5": "a10cc47dcb26d81093b0c476c8abf45a",
+      "crc32": "00818525",
+      "sha1": "52ec3ef793230a4c3e622b88f30f049b57384d98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-07T11:14:23.379666-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-07T11:14:23.379666-05:00.jpg",
+      "mtime": "1654618540",
+      "size": "10011",
+      "md5": "268167e1ff6150f7f03a12a2288025fa",
+      "crc32": "c94c3ad6",
+      "sha1": "f6587abaf1cd82a973e4250117755fd27d6d61de"
+    },
+    {
+      "name": "telegraphherald-2022-06-09T11:13:32.230826-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654791218",
+      "size": "34751",
+      "md5": "0b948afff248adfb40ce0459a8616292",
+      "crc32": "e09f1aea",
+      "sha1": "d04d67cf921c32a1204f96ba92191d97fbba7256",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-09T11:13:32.230826-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654791220",
+      "size": "47269",
+      "md5": "381c0d818eb9fbdf2a1a90635ddc1c95",
+      "crc32": "6667a36a",
+      "sha1": "f9d33f2922877ffe0aa8695d461f28d1b59688f7",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-09T11:13:32.230826-05:00.jpg",
+      "source": "original",
+      "mtime": "1654791215",
+      "size": "218788",
+      "md5": "ee70f14e4a11f77a9560b0a6bf44524a",
+      "crc32": "bdc1c5ea",
+      "sha1": "6f0b491a72794775bfcd43e0cd3c6bbf466d5ac2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-09T11:13:32.230826-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-09T11:13:32.230826-05:00.jpg",
+      "mtime": "1654791281",
+      "size": "8928",
+      "md5": "6cf315e80a970e82820249ce26afe76b",
+      "crc32": "2a031837",
+      "sha1": "961a697e1dc2e765ff2526ea009ad1626c0dd222"
+    },
+    {
+      "name": "telegraphherald-2022-06-11T11:08:15.730555-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1654963702",
+      "size": "34760",
+      "md5": "e19c71f676d40265f2d4f263d8ca4b5e",
+      "crc32": "5b3edc61",
+      "sha1": "6297f4077b571d11d58fac050182c2ffb65ae5dc",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-11T11:08:15.730555-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1654963703",
+      "size": "48719",
+      "md5": "cfefd4f908f90061f718097bb82c1bac",
+      "crc32": "71075f2a",
+      "sha1": "ce3d432da6fb4be9617f3719a080009e9184feb8",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-11T11:08:15.730555-05:00.jpg",
+      "source": "original",
+      "mtime": "1654963699",
+      "size": "308192",
+      "md5": "6381e60d2fb027ef330a22ce4bb82ca5",
+      "crc32": "48b07587",
+      "sha1": "10dd07a3d48d282226295dc6eeb721ce5c83e4df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-11T11:08:15.730555-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-11T11:08:15.730555-05:00.jpg",
+      "mtime": "1654963869",
+      "size": "10706",
+      "md5": "c9d672d2c0e6ab6edc4931eca7154513",
+      "crc32": "379d05a0",
+      "sha1": "e79e4cfbacb299fa74107a244f5dce57bb6874ef"
+    },
+    {
+      "name": "telegraphherald-2022-06-12T11:09:06.676944-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655050152",
+      "size": "35169",
+      "md5": "688eb9b611f05b5320e19c3c3bd70e9d",
+      "crc32": "6c04c4eb",
+      "sha1": "d7148a48f97ac079469746616d01b45a76e6f63b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-12T11:09:06.676944-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655050159",
+      "size": "47198",
+      "md5": "ac724239a518736cc626545674bdad90",
+      "crc32": "28b4d8c7",
+      "sha1": "b0291f1d687d627bd07675d44e9f61910187c34b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-12T11:09:06.676944-05:00.jpg",
+      "source": "original",
+      "mtime": "1655050150",
+      "size": "213552",
+      "md5": "52218942ef87e5c86fbe44018caed393",
+      "crc32": "e1c39adf",
+      "sha1": "9aa685526de810826c475024daaec50c178c72ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-12T11:09:06.676944-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-12T11:09:06.676944-05:00.jpg",
+      "mtime": "1655050210",
+      "size": "7910",
+      "md5": "e41003e36cd279935dc98065832a9465",
+      "crc32": "3a535f2c",
+      "sha1": "f5d9460ecdf28bc964b71e08cc24c5e3f8a4d068"
+    },
+    {
+      "name": "telegraphherald-2022-06-13T11:16:48.752173-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655137012",
+      "size": "35370",
+      "md5": "745ce2d875b72d732f2ec165583cd03b",
+      "crc32": "7effae92",
+      "sha1": "1bead90fdf28cea0212d70e91dfdab5e3ad02fa1",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-13T11:16:48.752173-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655137014",
+      "size": "47544",
+      "md5": "6531ff556c0184cd09a66e95591598aa",
+      "crc32": "91f235f0",
+      "sha1": "21ff78d1974c71180758ae9d65db1acc6cc3b891",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-06-13T11:16:48.752173-05:00.jpg",
+      "source": "original",
+      "mtime": "1655137010",
+      "size": "171958",
+      "md5": "9d73b569276c32f4158f3b82216e3719",
+      "crc32": "84253b69",
+      "sha1": "a42621cd36f13c8ea53cab59d783bf1298602c42",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-06-13T11:16:48.752173-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-06-13T11:16:48.752173-05:00.jpg",
+      "mtime": "1655137062",
+      "size": "7158",
+      "md5": "572b6b2fa9284eff0d590b38c8e81c62",
+      "crc32": "902dedc6",
+      "sha1": "675a985551a1bb6a7938cc42269b55b961886631"
+    },
+    {
       "name": "telegraphherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b70faca41d6fcb77a3f7526db5a4e0f6a04c6224",
-      "mtime": "1651248840",
-      "size": "27820",
-      "md5": "0d2bbed45cac0ff5cca55fed3aec1f2d",
-      "crc32": "7355db8a",
-      "sha1": "cdc7d6790b99fe90a8563f776d9c55982459705e",
+      "btih": "fbf7268ed9ae0d76d4c97003d13ffb02ac6d46b4",
+      "mtime": "1655137068",
+      "size": "57475",
+      "md5": "d9a06e4800b1d3d4662301ed15e4e4ab",
+      "crc32": "b91c6b81",
+      "sha1": "2fb46b94348542502965a4b17f3eab90f5d1d3c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraphherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7f9c065752348214b5d8049d1b60e11b",
+      "md5": "3265eff90ef591630f48f15fc358afa0",
       "summation": "md5"
     },
     {
       "name": "telegraphherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1651248684",
-      "size": "155648",
-      "md5": "25679b65b1bd5648d0032ea2fff991ca",
-      "crc32": "11d78386",
-      "sha1": "224809744e3f844cc7692ccc77896ba584da47bc",
+      "mtime": "1655137018",
+      "size": "315392",
+      "md5": "a40c83e24fee4f6d0776869e531a1a9e",
+      "crc32": "686aa561",
+      "sha1": "e8dfd13bbe3759b657f3e156c229e32a87f26c26",
       "format": "Metadata"
     },
     {
@@ -1320,9 +2746,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1651248840,
-  "item_size": 12439542,
+  "files_count": 261,
+  "item_last_updated": 1655137068,
+  "item_size": 24865528,
   "metadata": {
     "identifier": "telegraphherald-2022",
     "collection": [
@@ -1339,7 +2765,7 @@
     "publicdate": "2022-03-25 14:09:23",
     "addeddate": "2022-03-25 14:09:23"
   },
-  "server": "ia601508.us.archive.org",
+  "server": "ia802501.us.archive.org",
   "telegraphherald-2022": [
     {
       "text": "Skip to main content",
@@ -1746,7 +3172,7 @@
       "url": "/submit/"
     },
     {
-      "text": "\n                \n                    \n                    \n                \n                \n                    55\u00b0\n                    \n                        Cloudy \n                    \n                \n                \n            ",
+      "text": "\n                \n                    \n                        \n                    \n                    \n                \n                \n                    70\u00b0\n                    \n                        Rain \n                    \n                \n                \n            ",
       "url": "/weather/?weather_zip=52004"
     },
     {
@@ -1767,67 +3193,71 @@
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/tri-state/article_c521953e-a440-59cf-bc08-19a14d67495c.html"
+      "url": "/news/tri-state/article_cba1cdc5-efb1-5835-833c-ec9499e088bb.html"
     },
     {
-      "text": "\n        \n\n        \n            Dubuque construction expo sparks students' interest in trades careers",
-      "url": "/news/tri-state/article_c521953e-a440-59cf-bc08-19a14d67495c.html"
+      "text": "\n        \n\n        \n            Biz Buzz Monday: Dyersville accounting firm making move to former eatery",
+      "url": "/news/tri-state/article_cba1cdc5-efb1-5835-833c-ec9499e088bb.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/tri-state/article_79cf0463-4aea-5c10-aa8b-2507f4f354e8.html"
+    },
+    {
+      "text": "Tri-state News",
+      "url": "/news/tri-state"
+    },
+    {
+      "text": "\n        \n\n        \n            Love that Lasts: Married 57 years, love, laughter get couple through health challenges",
+      "url": "/news/tri-state/article_79cf0463-4aea-5c10-aa8b-2507f4f354e8.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/tri-state/article_a2a5c623-92de-5dcc-99be-3c0760f7a38d.html"
+    },
+    {
+      "text": "Tri-state News",
+      "url": "/news/tri-state"
+    },
+    {
+      "text": "\n        \n\n        \n            Person who makes a difference: Dubuque man pedals for community cause",
+      "url": "/news/tri-state/article_a2a5c623-92de-5dcc-99be-3c0760f7a38d.html"
+    },
+    {
+      "text": "Tri-state News",
+      "url": "/news/tri-state"
+    },
+    {
+      "text": "\n        \n\n        \n            Free meals for children offered at Manchester school",
+      "url": "/news/tri-state/article_8740865d-1c00-54e0-a2aa-0480929defec.html"
+    },
+    {
+      "text": "Tri-state News",
+      "url": "/news/tri-state"
+    },
+    {
+      "text": "\n        \n\n        \n            Authorities: Intoxicated man injured in ATV crash in Jo Daviess County",
+      "url": "/news/tri-state/article_539c24c1-03d8-5a5e-9211-39e6ee5e051b.html"
+    },
+    {
+      "text": "Tri-state News",
+      "url": "/news/tri-state"
+    },
+    {
+      "text": "\n        \n\n        \n            Patrol: Rural Cascade man dies following head-on crash in Jones County",
+      "url": "/news/tri-state/article_a1d2984a-7390-5a20-8557-291b7b3aba5d.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                ",
-      "url": "/news/tri-state/article_940e2a5f-cd20-529d-82f0-b2e8e52e501e.html"
+      "url": "/news/tri-state/article_8abe20ae-6b6b-5370-9b36-e41a1ddab779.html"
     },
     {
       "text": "Tri-state News",
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Clarke University president inaugurated over 2 years after taking position",
-      "url": "/news/tri-state/article_940e2a5f-cd20-529d-82f0-b2e8e52e501e.html"
-    },
-    {
-      "text": "Tri-state News",
-      "url": "/news/tri-state"
-    },
-    {
-      "text": "\n        \n\n        \n            Name of deceased staff member, additional information released in accident at Dubuque school",
-      "url": "/news/tri-state/article_f8a0813f-d5be-5c23-ac88-ea50a4cd9c81.html"
-    },
-    {
-      "text": "Tri-state News",
-      "url": "/news/tri-state"
-    },
-    {
-      "text": "\n        \n\n        \n            Construction work to restrict travel on Dubuque County roadway",
-      "url": "/news/tri-state/article_b8cec19f-a7c1-52f9-beab-e787c6d954f0.html"
-    },
-    {
-      "text": "Tri-state News",
-      "url": "/news/tri-state"
-    },
-    {
-      "text": "\n        \n\n        \n            Police: Assisted living facility employee stole cash, credit cards from resident",
-      "url": "/news/tri-state/article_8535b98a-20de-5876-a14d-5f3c1785f2a1.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                ",
-      "url": "/news/tri-state/article_ccb54766-7155-5a72-95fb-588a97cb04d5.html"
-    },
-    {
-      "text": "Tri-state News",
-      "url": "/news/tri-state"
-    },
-    {
-      "text": "\n        \n\n        \n            TH EXCLUSIVE: Dubuque city manager recommends hiring 1st female fire chief",
-      "url": "/news/tri-state/article_ccb54766-7155-5a72-95fb-588a97cb04d5.html"
-    },
-    {
-      "text": "Tri-state News",
-      "url": "/news/tri-state"
-    },
-    {
-      "text": "\n        \n\n        \n            Telegraph Herald named Iowa's Newspaper of the Year",
-      "url": "/news/tri-state/article_dfa5b043-6cc2-5be4-85ec-850066fe3829.html"
+      "text": "\n        \n\n        \n            After pandemic-related dip, child abuse reports rebound in Iowa",
+      "url": "/news/tri-state/article_8abe20ae-6b6b-5370-9b36-e41a1ddab779.html"
     },
     {
       "text": "\n                \n                Most Recent\n                \n                    ",
@@ -1838,52 +3268,48 @@
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Construction work to restrict travel on Dubuque County roadway",
-      "url": "/news/tri-state/article_b8cec19f-a7c1-52f9-beab-e787c6d954f0.html"
+      "text": "\n        \n\n        \n            Free meals for children offered at Manchester school",
+      "url": "/news/tri-state/article_8740865d-1c00-54e0-a2aa-0480929defec.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/magazine-websites/biztimes/ap_wire/article_f2488f60-160e-5f2c-beef-d50acc695ea6.html"
+      "url": "/news/national_world/article_f656df28-1a6c-5128-bbe9-57a1c22fa938.html"
     },
     {
-      "text": "Magazine-websites",
-      "url": "/magazine-websites"
+      "text": "National/World",
+      "url": "/news/national_world"
     },
     {
-      "text": "\n        \n\n        \n            FDA sets June meetings on COVID vaccines for youngest kids",
-      "url": "/magazine-websites/biztimes/ap_wire/article_f2488f60-160e-5f2c-beef-d50acc695ea6.html"
+      "text": "\n        \n\n        \n            Markets tumble worldwide, bear market growls on Wall Street",
+      "url": "/news/national_world/article_f656df28-1a6c-5128-bbe9-57a1c22fa938.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/national_world/article_f4baa75d-515a-5def-bf8a-299da1e6833f.html"
+    },
+    {
+      "text": "National/World",
+      "url": "/news/national_world"
+    },
+    {
+      "text": "\n        \n\n        \n            1/6 panel to hear Trump campaign manager, probe election lie",
+      "url": "/news/national_world/article_f4baa75d-515a-5def-bf8a-299da1e6833f.html"
     },
     {
       "text": "Tri-state News",
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Police: Assisted living facility employee stole cash, credit cards from resident",
-      "url": "/news/tri-state/article_8535b98a-20de-5876-a14d-5f3c1785f2a1.html"
+      "text": "\n        \n\n        \n            Authorities: Intoxicated man injured in ATV crash in Jo Daviess County",
+      "url": "/news/tri-state/article_539c24c1-03d8-5a5e-9211-39e6ee5e051b.html"
     },
     {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/national_world/article_e0530ffe-7f70-5382-9118-568a361653d9.html"
+      "text": "Tri-state News",
+      "url": "/news/tri-state"
     },
     {
-      "text": "National/World",
-      "url": "/news/national_world"
-    },
-    {
-      "text": "\n        \n\n        \n            Relatives: Former US Marine killed fighting in Ukraine",
-      "url": "/news/national_world/article_e0530ffe-7f70-5382-9118-568a361653d9.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/national_world/article_7f2cb09e-8e23-501a-b126-3644c2a1b5b6.html"
-    },
-    {
-      "text": "National/World",
-      "url": "/news/national_world"
-    },
-    {
-      "text": "\n        \n\n        \n            A key inflation gauge jumped 6.6% in March, most since 1982",
-      "url": "/news/national_world/article_7f2cb09e-8e23-501a-b126-3644c2a1b5b6.html"
+      "text": "\n        \n\n        \n            Patrol: Rural Cascade man dies following head-on crash in Jones County",
+      "url": "/news/tri-state/article_a1d2984a-7390-5a20-8557-291b7b3aba5d.html"
     },
     {
       "text": "More Most Recent",
@@ -1891,155 +3317,147 @@
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/tri-state/article_3278dc46-dfac-591f-8083-d683b1cb6b72.html"
+      "url": "/news/tri-state/article_a186de56-4c5f-5bfc-887d-7d6cfa61bf7e.html"
     },
     {
       "text": "Tri-state News",
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Report shows Grant County, Platteville faring better than state in economic recovery",
-      "url": "/news/tri-state/article_3278dc46-dfac-591f-8083-d683b1cb6b72.html"
+      "text": "\n        \n\n        \n            Grand River Center events increase in 2021, but attendance still lags",
+      "url": "/news/tri-state/article_a186de56-4c5f-5bfc-887d-7d6cfa61bf7e.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/tri-state/article_7f643d1b-fc45-5854-a86b-99844940d6ff.html"
+      "url": "/news/tri-state/article_fa162df8-fdc8-579a-b02e-6724e63a25a5.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/tri-state/article_fa162df8-fdc8-579a-b02e-6724e63a25a5.html"
     },
     {
       "text": "Tri-state News",
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Marine Corps, motherhood prepare UD grad for nursing career",
-      "url": "/news/tri-state/article_7f643d1b-fc45-5854-a86b-99844940d6ff.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                ",
-      "url": "/news/tri-state/article_04d3c5fe-6585-529d-986c-2637e779fc3c.html"
+      "text": "\n        \n\n        \n            Incumbent, Platteville council member to face off in Wisconsin Assembly race",
+      "url": "/news/tri-state/article_fa162df8-fdc8-579a-b02e-6724e63a25a5.html"
     },
     {
       "text": "Tri-state News",
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Authorities: Dubuque woman made $51,000 worth of unauthorized purchases with company credit cards",
-      "url": "/news/tri-state/article_04d3c5fe-6585-529d-986c-2637e779fc3c.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                ",
-      "url": "/news/tri-state/article_addfe1e4-97a0-513e-ad47-09dfc794ffb4.html"
+      "text": "\n        \n\n        \n            Elizabeth senior housing facility to reopen, offer independent living options",
+      "url": "/news/tri-state/article_1c338508-5867-563a-89ef-4f93192e9e60.html"
     },
     {
       "text": "Tri-state News",
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Flashback Friday: 'Mayhem on wheels' hit Dubuque as city hosted roller derby 50 years ago",
-      "url": "/news/tri-state/article_addfe1e4-97a0-513e-ad47-09dfc794ffb4.html"
+      "text": "\n        \n\n        \n            Dubuque County supervisors approve $570,000 for regenerative, small-scale ag program",
+      "url": "/news/tri-state/article_f9c1cf0e-8616-5df0-9541-548a85815f50.html"
     },
     {
       "text": "Tri-state News",
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Cascade City Council talks projects from libraries to baseball diamonds",
-      "url": "/news/tri-state/article_b6793a0b-1bd8-55be-bd01-f55c268d1d08.html"
+      "text": "\n        \n\n        \n            Dubuque neighborhood evacuated following discovery of suspected unexploded ordnance",
+      "url": "/news/tri-state/article_aebca479-48f9-5292-a728-72ec2eeca0ed.html"
     },
     {
       "text": "Tri-state News",
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Clayton County man accused of assaulting Manchester officer",
-      "url": "/news/tri-state/article_9e89a5c0-3b80-5250-956c-f9e92e14e019.html"
+      "text": "\n        \n\n        \n            Dubuque school board to consider contract for part of Senior renovations",
+      "url": "/news/tri-state/article_a7117e08-3b45-5e8c-b51c-3b7f707d02c6.html"
     },
     {
       "text": "Tri-state News",
       "url": "/news/tri-state"
     },
     {
-      "text": "\n        \n\n        \n            Authorities arrest 2 people, issue 18 citations during Dubuque County enforcement project",
-      "url": "/news/tri-state/article_cdbbb590-46e9-59dd-ab5a-387a5971e750.html"
+      "text": "\n        \n\n        \n            Authorities: Dubuque teen girl among 3 accused of stealing 2 vehicles in eastern Iowa",
+      "url": "/news/tri-state/article_42831e73-05a4-534b-865f-09aacdc64d38.html"
     },
     {
-      "text": "\n        \n\n        \n            Heather L.\u00a0Riley",
-      "url": "/obituaries/article_0dc7674a-857f-5b71-9b58-791bf0eae432.html"
+      "text": "\n        \n\n        \n            Biz Buzz Monday: Dyersville accounting firm making move to former eatery",
+      "url": "/news/tri-state/article_cba1cdc5-efb1-5835-833c-ec9499e088bb.html"
     },
     {
-      "text": "\n        \n\n        \n            TH EXCLUSIVE: Dubuque city manager recommends hiring 1st female fire chief",
-      "url": "/news/tri-state/article_ccb54766-7155-5a72-95fb-588a97cb04d5.html"
+      "text": "\n        \n\n        \n            UPDATE: Dubuque neighborhood evacuated following discovery of suspected unexploded ordnance",
+      "url": "/news/tri-state/article_6467a858-63ac-52ec-9348-2e691e225f37.html"
     },
     {
-      "text": "\n        \n\n        \n            Name of deceased staff member, additional information released in accident at Dubuque school",
-      "url": "/news/tri-state/article_f8a0813f-d5be-5c23-ac88-ea50a4cd9c81.html"
+      "text": "\n        \n\n        \n            Patrol: Rural Cascade man dies following head-on crash in Jones County",
+      "url": "/news/tri-state/article_a1d2984a-7390-5a20-8557-291b7b3aba5d.html"
     },
     {
-      "text": "\n        \n\n        \n            Levi\u00a0J. Edge",
-      "url": "/obituaries/article_0bdfe9c7-9b6e-5aef-af61-b04e012a417b.html"
+      "text": "\n        \n\n        \n            Local law enforcement reports",
+      "url": "/news/tri-state/article_dccf38eb-f173-5a9d-92ad-3396a3eb8475.html"
     },
     {
-      "text": "\n        \n\n        \n            Dennis\u00a0D. Duehr",
-      "url": "/obituaries/article_22cf8eb0-d6c7-521f-911b-d513e85fc25e.html"
+      "text": "\n        \n\n        \n            Love that Lasts: Married 57 years, love, laughter get couple through health challenges",
+      "url": "/news/tri-state/article_79cf0463-4aea-5c10-aa8b-2507f4f354e8.html"
     },
     {
       "text": "\n                \n                Sports\n                \n                    ",
       "url": "/sports"
     },
     {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/sports/local_sports/article_7402e33c-3a56-5566-bef7-3b84704a57be.html"
+    },
+    {
+      "text": "\n        \n\n        \n            College baseball: \u2018One-of-a kind feeling\u2019 for Harris to help OIe Miss make College World Series",
+      "url": "/sports/local_sports/article_7402e33c-3a56-5566-bef7-3b84704a57be.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/sports/local_sports/article_be960c41-8728-5d57-a76f-bb51fb425df6.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Prep baseball notebook: Cascade not surprised by early season success",
+      "url": "/sports/local_sports/article_be960c41-8728-5d57-a76f-bb51fb425df6.html"
+    },
+    {
       "text": "\n                \n                \n                \n                \n                ",
-      "url": "/sports/local_sports/article_c96965c1-24e4-5864-902c-9ac7631972a1.html"
+      "url": "/sports/local_sports/article_0ab3a2fb-5390-525e-bb5b-ecfd164d443a.html"
     },
     {
-      "text": "\n        \n\n        \n            Prep baseball: East Dubuque splits with rival Warren/Stockton",
-      "url": "/sports/local_sports/article_c96965c1-24e4-5864-902c-9ac7631972a1.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/sports/local_sports/article_b06278ea-ba65-573f-a963-254c86b894bd.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Drake Relays: Area athletes finish on the podium at Drake",
-      "url": "/sports/local_sports/article_b06278ea-ba65-573f-a963-254c86b894bd.html"
+      "text": "\n        \n\n        \n            Prep baseball: Cubans draw No. 4 seed for state tournament",
+      "url": "/sports/local_sports/article_0ab3a2fb-5390-525e-bb5b-ecfd164d443a.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/sports/local_sports/article_b430a8cd-b37c-56b7-84cf-a0d315bbcdda.html"
+      "url": "/sports/other_sports/article_1b8844ba-ef9b-534e-ba25-4f7db4e088a8.html"
     },
     {
-      "text": "\n        \n\n        \n            Prep softball: East Dubuque rallies closer to outright conference title",
-      "url": "/sports/local_sports/article_b430a8cd-b37c-56b7-84cf-a0d315bbcdda.html"
+      "text": "\n        \n\n        \n            Telegraph Herald Athlete of the Week finalists",
+      "url": "/sports/other_sports/article_1b8844ba-ef9b-534e-ba25-4f7db4e088a8.html"
     },
     {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/sports/local_sports/article_857c0890-bc96-5fc3-8ce6-7b8ac481e061.html"
-    },
-    {
-      "text": "\n        \n\n        \n            USHL: Fighting Saints set to face dangerous Lumberjacks in playoffs",
-      "url": "/sports/local_sports/article_857c0890-bc96-5fc3-8ce6-7b8ac481e061.html"
+      "text": "\n        \n\n        \n            Auto racing: Ryan takes Dubuque Late Model feature",
+      "url": "/sports/local_sports/article_3dda6017-7ed4-51fe-a759-26a46c990a2c.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/sports/local_sports/article_419daafc-1e8d-5fb4-b62c-72e95d69a3f7.html"
+      "url": "/sports/other_sports/article_33d3bdb3-5b80-5985-b73a-ddcc7fc5d2d9.html"
     },
     {
-      "text": "\n        \n\n        \n            Local & area roundup: Wahlert golfers swing to another win",
-      "url": "/sports/local_sports/article_419daafc-1e8d-5fb4-b62c-72e95d69a3f7.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/ap/sports/article_860b133b-59c0-5284-9c30-a3cc8f7e7be8.html"
-    },
-    {
-      "text": "\n        \n\n        \n            MLB roundup: McCutchen rallies Brewers past Pirates to complete sweep",
-      "url": "/ap/sports/article_860b133b-59c0-5284-9c30-a3cc8f7e7be8.html"
+      "text": "\n        \n\n        \n            Green looks to make impact for Warriors even without scoring",
+      "url": "/sports/other_sports/article_33d3bdb3-5b80-5985-b73a-ddcc7fc5d2d9.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/ap/sports/article_f6309879-9a9e-5196-9f15-a519950adb15.html"
+      "url": "/sports/other_sports/article_f7e6a24d-9159-583c-98a4-dd7d6002cb8a.html"
     },
     {
-      "text": "\n        \n\n        \n            NBA: DeRozan, Bulls looking to build on breakthrough season",
-      "url": "/ap/sports/article_f6309879-9a9e-5196-9f15-a519950adb15.html"
+      "text": "\n        \n\n        \n            Avalanche, Lightning set for anticipated Stanley Cup clash",
+      "url": "/sports/other_sports/article_f7e6a24d-9159-583c-98a4-dd7d6002cb8a.html"
     },
     {
       "text": "More Sports",
@@ -2050,44 +3468,48 @@
       "url": "/opinion"
     },
     {
-      "text": "\n        \n\n        \n            Our opinion: Southwestern teacher sets example even amid terminal cancer",
-      "url": "/news/opinion/article_72283c93-b068-568f-9c2a-2a6399d56436.html"
+      "text": "\n                \n                \n                \n                \n                ",
+      "url": "/news/opinion/article_e305ae96-3123-5f02-a6ac-f8778bf5a3ad.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Page: 'Extremism fatigue' in politics? Get used to it",
+      "url": "/news/opinion/article_e305ae96-3123-5f02-a6ac-f8778bf5a3ad.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                ",
-      "url": "/news/opinion/article_0998a3e9-7eb0-5f22-810f-eccb7dd66a52.html"
+      "url": "/news/opinion/article_47fc6e34-e58a-5c6f-a03c-b954cf65695e.html"
     },
     {
-      "text": "\n        \n\n        \n            Davis Hanson: How America became La La Land",
-      "url": "/news/opinion/article_0998a3e9-7eb0-5f22-810f-eccb7dd66a52.html"
+      "text": "\n        \n\n        \n            Jean Guerrero: Want to stop immigration? Empower immigrants in the US to help their families back home",
+      "url": "/news/opinion/article_47fc6e34-e58a-5c6f-a03c-b954cf65695e.html"
     },
     {
-      "text": "\n                \n                \n                \n                \n                ",
-      "url": "/news/opinion/article_e2ca65a0-3e3d-521c-acc4-8cba0d521630.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Trenkle: Pandemic illuminates importance of authentic friendships",
-      "url": "/news/opinion/article_e2ca65a0-3e3d-521c-acc4-8cba0d521630.html"
+      "text": "\n        \n\n        \n            Our opinion: Congress should pause ending free school lunches for all",
+      "url": "/news/opinion/article_727fd83e-6ce3-5d62-a5ef-dbbb6f9d56e6.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                ",
-      "url": "/ap/commentary/article_3aad6de3-8921-5218-8bc3-0b069f975875.html"
+      "url": "/news/public_announcements/article_da01be0d-5288-5eb3-bed0-5321e1cbc5a3.html"
     },
     {
-      "text": "\n        \n\n        \n            Rubin: Want to know how to stop Putin? Listen to leaders of Baltic states",
-      "url": "/ap/commentary/article_3aad6de3-8921-5218-8bc3-0b069f975875.html"
+      "text": "\n        \n\n        \n            Wee: We do life together; let's lift each other",
+      "url": "/news/public_announcements/article_da01be0d-5288-5eb3-bed0-5321e1cbc5a3.html"
     },
     {
-      "text": "\n        \n\n        \n            Letter: Read nutrition labels on cereal marketed for kids",
-      "url": "/news/opinion/article_44265d83-0caa-515b-9ed9-e078732dbac2.html"
+      "text": "\n                \n                \n                \n                \n                ",
+      "url": "/news/opinion/article_ba7208e3-9bea-5a50-ba72-03f3baed4ced.html"
     },
     {
-      "text": "\n        \n\n        \n            Letter: Voucher system would be devastating to public school system",
-      "url": "/news/opinion/article_e91fdf5b-7004-59c8-acbb-a2918721d0c9.html"
+      "text": "\n        \n\n        \n            Jones: America's addiction to violence prevents reasonable gun laws",
+      "url": "/news/opinion/article_ba7208e3-9bea-5a50-ba72-03f3baed4ced.html"
     },
     {
-      "text": "\n        \n\n        \n            Letter: Congress must act to address climate crisis",
-      "url": "/news/opinion/article_5cb1cdf0-ba1a-5b29-8dca-be05a84afef9.html"
+      "text": "\n        \n\n        \n            Letter: All citizens can help stop elder abuse",
+      "url": "/news/opinion/article_b5a77c15-2983-5453-80ec-fb965ebdbb56.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Letter: Gun rights prioritized over human rights",
+      "url": "/news/article_c60f1e23-bafd-5555-a3ff-c98ef3662e56.html"
     },
     {
       "text": "More Opinion",
@@ -2098,44 +3520,48 @@
       "url": "/news/features/"
     },
     {
+      "text": "\n                \n                \n                \n                \n                ",
+      "url": "/news/features/article_306fbc4a-2e4c-5553-ae88-f07952aa6291.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Keep golfer's elbow in mind when getting back into the swing of things",
+      "url": "/news/features/article_306fbc4a-2e4c-5553-ae88-f07952aa6291.html"
+    },
+    {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/features/article_e3ac494c-7104-5a7c-ad20-67b938551efd.html"
+      "url": "/news/features/article_8032de39-f9a2-5cc4-9a33-d64a7d0fef4b.html"
     },
     {
-      "text": "\n        \n\n        \n            Missouri's Katy Trail: Following historical footsteps",
-      "url": "/news/features/article_e3ac494c-7104-5a7c-ad20-67b938551efd.html"
+      "text": "\n        \n\n        \n            Mayo Clinic Minute: The importance of cancer screenings for LGBTQ community",
+      "url": "/news/features/article_8032de39-f9a2-5cc4-9a33-d64a7d0fef4b.html"
     },
     {
-      "text": "\n                \n                \n                \n                \n                ",
-      "url": "/news/features/article_3454a309-2282-5827-9e38-1daa87486577.html"
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/features/article_78fbe6fd-3b14-5527-a657-9960bbe991d9.html"
     },
     {
-      "text": "\n        \n\n        \n            Ask Amy: Future family visit is rapid-tested",
-      "url": "/news/features/article_3454a309-2282-5827-9e38-1daa87486577.html"
+      "text": "\n        \n\n        \n            Mayo Clinic Q&A: How are rotator cuff tears treated?",
+      "url": "/news/features/article_78fbe6fd-3b14-5527-a657-9960bbe991d9.html"
     },
     {
-      "text": "\n        \n\n        \n            Dr. Roizen: To tell the tele-truth",
-      "url": "/news/features/article_5bb01d06-2cdb-5907-bc6d-8428b058ebae.html"
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/features/article_2dc953db-ef14-5bf9-963b-349220be18d9.html"
     },
     {
-      "text": "\n                \n                \n                \n                \n                ",
-      "url": "/news/features/article_bf7cf1cf-b9d7-5553-83b6-7f5c5217ba34.html"
+      "text": "\n        \n\n        \n            Ask the Pediatrician: How often should babies eat?",
+      "url": "/news/features/article_2dc953db-ef14-5bf9-963b-349220be18d9.html"
     },
     {
-      "text": "\n        \n\n        \n            JDIFF: A few thoughts after the festival",
-      "url": "/news/features/article_bf7cf1cf-b9d7-5553-83b6-7f5c5217ba34.html"
+      "text": "\n        \n\n        \n            Mayo Clinic Minute: What is ulnar wrist pain?",
+      "url": "/news/features/article_e72ae91d-9229-5eac-8b6a-db9c2f894957.html"
     },
     {
-      "text": "\n        \n\n        \n            Television Q&A",
-      "url": "/news/features/article_4a806957-b375-5cd1-a107-c3c95b58fb7a.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Today\u2019s horoscope: April 29",
-      "url": "/news/features/article_638e75ce-78ed-5131-be4f-26ee6072bb7b.html"
+      "text": "\n        \n\n        \n            Today\u2019s horoscope: June 13",
+      "url": "/news/features/article_a0fedad8-b5f3-5290-809c-a104cb645d04.html"
     },
     {
       "text": "\n        \n\n        \n            Almanac",
-      "url": "/ap/national/article_82aece29-06d5-50e2-b584-3db00c519d9f.html"
+      "url": "/ap/national/article_aeb1697a-53c8-5713-b3cb-71bc4fc0a69e.html"
     },
     {
       "text": "More Lifestyle",
@@ -2146,48 +3572,40 @@
       "url": "/coronavirus/"
     },
     {
-      "text": "\n        \n\n        \n            No local COVID-19-related deaths, but hospitalizations increase",
-      "url": "/coronavirus/article_2e13c3a9-8c22-5d4c-8811-003953c06b0a.html"
+      "text": "\n        \n\n        \n            U.S. official says diplomatic push in Asia paying dividends",
+      "url": "/coronavirus/article_4cba7d7e-e8b7-11ec-8b11-7b2cc8c1eb6a.html"
     },
     {
-      "text": "\n        \n\n        \n            Dr. Roizen: COVID-19 update: How to stay out of hospital",
-      "url": "/coronavirus/article_b2e24cd0-54eb-5749-91db-deeb51cbc664.html"
+      "text": "\n        \n\n        \n            China calls COVID 'lab leak' theory a lie after WHO report",
+      "url": "/coronavirus/article_c1f88f46-e8b6-11ec-9043-7bf61ee2d29d.html"
     },
     {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/coronavirus/article_77ea52c8-04a5-5525-9484-ea8522744881.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Moderna seeks to be 1st with COVID shots for littlest kids",
-      "url": "/coronavirus/article_77ea52c8-04a5-5525-9484-ea8522744881.html"
+      "text": "\n        \n\n        \n            1 COVID-19-related death in Dubuque Co., as cases climb",
+      "url": "/coronavirus/article_6facde10-ee9c-5714-86a4-988cddaabc81.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/coronavirus/article_b96f3b0a-f28c-59bd-b5f7-d9ecfa458cbc.html"
+      "url": "/coronavirus/article_ca644c25-e9bf-5b1b-95dd-ccb97b1e5d23.html"
     },
     {
-      "text": "\n        \n\n        \n            Federal judge halts preparations for end of U.S. asylum limit",
-      "url": "/coronavirus/article_b96f3b0a-f28c-59bd-b5f7-d9ecfa458cbc.html"
+      "text": "\n        \n\n        \n            Moderna says updated COVID shot boosts omicron protection",
+      "url": "/coronavirus/article_ca644c25-e9bf-5b1b-95dd-ccb97b1e5d23.html"
     },
     {
-      "text": "\n        \n\n        \n            Administration expands availability of COVID antiviral pill",
-      "url": "/coronavirus/article_cb856196-cae4-570e-9dd4-76773dfe7332.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/coronavirus/article_af7e1c13-2ee7-5d5c-ba50-38a0296cbd12.html"
-    },
-    {
-      "text": "\n        \n\n        \n            CDC estimates 3 in 4 kids have had coronavirus infections",
-      "url": "/coronavirus/article_af7e1c13-2ee7-5d5c-ba50-38a0296cbd12.html"
+      "text": "\n        \n\n        \n            Wisconsin Supreme Court says COVID records can be released",
+      "url": "/coronavirus/article_65c2e458-ce9f-50a2-ac58-de428157addf.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/coronavirus/article_f39f010d-82ad-5fd1-9183-48fc1d9cf26e.html"
+      "url": "/coronavirus/article_3b43d955-e698-53ca-b8c3-e89f7d3ae43e.html"
     },
     {
-      "text": "\n        \n\n        \n            Harris positive for COVID-19, Biden not 'close contact'",
-      "url": "/coronavirus/article_f39f010d-82ad-5fd1-9183-48fc1d9cf26e.html"
+      "text": "\n        \n\n        \n            What's next for COVID-19 vaccines for youngest US children",
+      "url": "/coronavirus/article_3b43d955-e698-53ca-b8c3-e89f7d3ae43e.html"
+    },
+    {
+      "text": "\n        \n\n        \n            3 COVID-19-related deaths in Grant County; Jones County receives area's 1st 'high' community rating",
+      "url": "/coronavirus/article_62e3923c-8cdb-5031-88f1-7fd646c994f9.html"
     },
     {
       "text": "More Coronavirus",
@@ -2207,63 +3625,63 @@
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/public_announcements/video_9f57d186-8748-5dc9-8fa4-64ff054ef67d.html"
+      "url": "/magazine-websites/biztimes/galleries/video_75b6f7c5-a28d-546d-8801-7a03e2a467f5.html"
     },
     {
-      "text": "\n        \n\n        \n            VIDEO: Former Dubuque police chief laid to rest",
-      "url": "/news/public_announcements/video_9f57d186-8748-5dc9-8fa4-64ff054ef67d.html"
+      "text": "\n        \n\n        \n            Morrison Brothers Co.",
+      "url": "/magazine-websites/biztimes/galleries/video_75b6f7c5-a28d-546d-8801-7a03e2a467f5.html"
     },
     {
-      "text": "\n                    VIDEO: Former Dubuque police chief laid to rest\n                ",
-      "url": "/news/public_announcements/video_9f57d186-8748-5dc9-8fa4-64ff054ef67d.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/tri-state/video_c8041c25-e66f-5b79-ad8a-a0e88656d9a4.html"
-    },
-    {
-      "text": "\n        \n\n        \n            VIDEO: Passerby recounts quick action upon seeing Dubuque house fire",
-      "url": "/news/tri-state/video_c8041c25-e66f-5b79-ad8a-a0e88656d9a4.html"
-    },
-    {
-      "text": "\n                    VIDEO: Passerby recounts quick action upon seeing Dubuque house fire\n                ",
-      "url": "/news/tri-state/video_c8041c25-e66f-5b79-ad8a-a0e88656d9a4.html"
+      "text": "\n                    Morrison Brothers Co.\n                ",
+      "url": "/magazine-websites/biztimes/galleries/video_75b6f7c5-a28d-546d-8801-7a03e2a467f5.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/video/video_825c9920-bc0d-11ec-8dce-0bf74b703f4c.html"
+      "url": "/magazine-websites/biztimes/galleries/video_06127d95-c749-5429-9d25-6288c5a61153.html"
     },
     {
-      "text": "\n        \n\n        \n            Press Conference Unveiling Youth Baseball and Softball Tournament Complex at The Field of Dreams",
-      "url": "/video/video_825c9920-bc0d-11ec-8dce-0bf74b703f4c.html"
+      "text": "\n        \n\n        \n            Puttzin' Around Dubuque 2022",
+      "url": "/magazine-websites/biztimes/galleries/video_06127d95-c749-5429-9d25-6288c5a61153.html"
     },
     {
-      "text": "\n                    Press Conference Unveiling Youth Baseball and Softball Tournament Complex at The Field of Dreams\n                ",
-      "url": "/video/video_825c9920-bc0d-11ec-8dce-0bf74b703f4c.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/tri-state/video_56319c4d-7188-5fba-b001-eab0cf2e6778.html"
-    },
-    {
-      "text": "\n        \n\n        \n            VIDEO: Ernst visits Dubuque's Millwork District",
-      "url": "/news/tri-state/video_56319c4d-7188-5fba-b001-eab0cf2e6778.html"
-    },
-    {
-      "text": "\n                    VIDEO: Ernst visits Dubuque's Millwork District\n                ",
-      "url": "/news/tri-state/video_56319c4d-7188-5fba-b001-eab0cf2e6778.html"
+      "text": "\n                    Puttzin' Around Dubuque 2022\n                ",
+      "url": "/magazine-websites/biztimes/galleries/video_06127d95-c749-5429-9d25-6288c5a61153.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/video_8bb7ed41-e78b-5271-a603-f97e1a675b06.html"
+      "url": "/news/video_f2db460b-da1f-5486-a86e-7d540727499d.html"
     },
     {
-      "text": "\n        \n\n        \n            Chris Lane - \"Big, Big Plans\"",
-      "url": "/video_8bb7ed41-e78b-5271-a603-f97e1a675b06.html"
+      "text": "\n        \n\n        \n            Grandview Gallop 2022",
+      "url": "/news/video_f2db460b-da1f-5486-a86e-7d540727499d.html"
     },
     {
-      "text": "\n                    Chris Lane - \"Big, Big Plans\"\n                ",
-      "url": "/video_8bb7ed41-e78b-5271-a603-f97e1a675b06.html"
+      "text": "\n                    Grandview Gallop 2022\n                ",
+      "url": "/news/video_f2db460b-da1f-5486-a86e-7d540727499d.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/tri-state/video_2cd54126-a127-5553-9119-c14ea0b9941e.html"
+    },
+    {
+      "text": "\n        \n\n        \n            VIDEO: Honor Flight of Dubuque and the Tri-States",
+      "url": "/news/tri-state/video_2cd54126-a127-5553-9119-c14ea0b9941e.html"
+    },
+    {
+      "text": "\n                    VIDEO: Honor Flight of Dubuque and the Tri-States\n                ",
+      "url": "/news/tri-state/video_2cd54126-a127-5553-9119-c14ea0b9941e.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/sports/local_sports/video_86a0aaff-3957-58e1-a962-910e35619cdc.html"
+    },
+    {
+      "text": "\n        \n\n        \n            WATCH: Beckman players celebrate return to state soccer tournament",
+      "url": "/sports/local_sports/video_86a0aaff-3957-58e1-a962-910e35619cdc.html"
+    },
+    {
+      "text": "\n                    WATCH: Beckman players celebrate return to state soccer tournament\n                ",
+      "url": "/sports/local_sports/video_86a0aaff-3957-58e1-a962-910e35619cdc.html"
     },
     {
       "text": "Videos",
@@ -2279,147 +3697,147 @@
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/tri-state/image_cdc7212f-d7f8-5e7a-9da7-ba6809bb2c8f.html"
+      "url": "/upload_photos/image_484507bf-5910-5c20-9976-8c60fc810851.html"
     },
     {
-      "text": "\n        \n\n        \n            View From Above: Controlled burn in Dubuque",
-      "url": "/news/tri-state/image_cdc7212f-d7f8-5e7a-9da7-ba6809bb2c8f.html"
+      "text": "\n        \n\n        \n            Russia Ukraine War",
+      "url": "/upload_photos/image_484507bf-5910-5c20-9976-8c60fc810851.html"
     },
     {
-      "text": "\n                    View From Above: Controlled burn in Dubuque\n                ",
-      "url": "/news/tri-state/image_cdc7212f-d7f8-5e7a-9da7-ba6809bb2c8f.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/upload_photos/image_f9f9cf1c-52fc-588d-b31b-90f95963d76a.html"
-    },
-    {
-      "text": "\n        \n\n        \n            042822mp-Dubuque-Senior-long-jump-4",
-      "url": "/upload_photos/image_f9f9cf1c-52fc-588d-b31b-90f95963d76a.html"
-    },
-    {
-      "text": "\n                    042822mp-Dubuque-Senior-long-jump-4\n                ",
-      "url": "/upload_photos/image_f9f9cf1c-52fc-588d-b31b-90f95963d76a.html"
+      "text": "\n                    Russia Ukraine War\n                ",
+      "url": "/upload_photos/image_484507bf-5910-5c20-9976-8c60fc810851.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/upload_photos/image_d98b5d00-0d0d-5cda-a1cf-ec8f9c552236.html"
+      "url": "/upload_photos/image_e3f0d327-c042-5e2c-81e3-017d36dbf407.html"
     },
     {
-      "text": "\n        \n\n        \n            042822mp-Wahlert-Discus-2",
-      "url": "/upload_photos/image_d98b5d00-0d0d-5cda-a1cf-ec8f9c552236.html"
+      "text": "\n        \n\n        \n            Exchange Coffee Truck",
+      "url": "/upload_photos/image_e3f0d327-c042-5e2c-81e3-017d36dbf407.html"
     },
     {
-      "text": "\n                    042822mp-Wahlert-Discus-2\n                ",
-      "url": "/upload_photos/image_d98b5d00-0d0d-5cda-a1cf-ec8f9c552236.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/upload_photos/image_2acdbc4c-8784-590f-ba6f-e93c7915adb5.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Baseball",
-      "url": "/upload_photos/image_2acdbc4c-8784-590f-ba6f-e93c7915adb5.html"
-    },
-    {
-      "text": "\n                    Baseball\n                ",
-      "url": "/upload_photos/image_2acdbc4c-8784-590f-ba6f-e93c7915adb5.html"
+      "text": "\n                    Exchange Coffee Truck\n                ",
+      "url": "/upload_photos/image_e3f0d327-c042-5e2c-81e3-017d36dbf407.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/upload_photos/image_09f6aac2-7404-557e-b9d5-f4aa6c3ff415.html"
+      "url": "/upload_photos/image_7cd82dfd-d55a-5db6-a4df-045e7333d687.html"
     },
     {
-      "text": "\n        \n\n        \n            Thom Chesney Inauguration",
-      "url": "/upload_photos/image_09f6aac2-7404-557e-b9d5-f4aa6c3ff415.html"
+      "text": "\n        \n\n        \n            06112022-dubuquethrowsfestival3-sg",
+      "url": "/upload_photos/image_7cd82dfd-d55a-5db6-a4df-045e7333d687.html"
     },
     {
-      "text": "\n                    Thom Chesney Inauguration\n                ",
-      "url": "/upload_photos/image_09f6aac2-7404-557e-b9d5-f4aa6c3ff415.html"
+      "text": "\n                    06112022-dubuquethrowsfestival3-sg\n                ",
+      "url": "/upload_photos/image_7cd82dfd-d55a-5db6-a4df-045e7333d687.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/upload_photos/image_aa7043e9-d0fe-5221-a26e-55fcf1a656b5.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Dubuque Throws Festival",
+      "url": "/upload_photos/image_aa7043e9-d0fe-5221-a26e-55fcf1a656b5.html"
+    },
+    {
+      "text": "\n                    Dubuque Throws Festival\n                ",
+      "url": "/upload_photos/image_aa7043e9-d0fe-5221-a26e-55fcf1a656b5.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/upload_photos/image_1d5ea73c-c7a9-5c8d-acaf-0fbcedc5c058.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Dubuque Throws Festival",
+      "url": "/upload_photos/image_1d5ea73c-c7a9-5c8d-acaf-0fbcedc5c058.html"
+    },
+    {
+      "text": "\n                    Dubuque Throws Festival\n                ",
+      "url": "/upload_photos/image_1d5ea73c-c7a9-5c8d-acaf-0fbcedc5c058.html"
     },
     {
       "text": "\n                \n                Events\n                \n                    ",
       "url": "/events"
     },
     {
-      "text": "Fri, Apr 29 @12:00amVintage Torque FestDubuque County Fairgrounds ",
-      "url": "http://www.telegraphherald.com/events/#!/details/VINTAGE-TORQUE-FEST/9763535/2022-04-29T00"
+      "text": "Mon, Jun 13 @10:00amBuild! Create! Innovate!Putnam Museum ",
+      "url": "http://www.telegraphherald.com/events/#!/details/BUILD-CREATE-INNOVATE/10276609/2022-06-13T10"
     },
     {
-      "text": "Fri, Apr 29 Haunted Galena ConferenceDesoto House Hotel ",
-      "url": "http://www.telegraphherald.com/events/#!/details/HAUNTED-GALENA-CONFERENCE/10259064/2022-04-29T00"
+      "text": "Mon, Jun 13 @6:30pmSocial Connections for Singles EuchreDenny's Lux Club ",
+      "url": "http://www.telegraphherald.com/events/#!/details/SOCIAL-CONNECTIONS-FOR-SINGLES-EUCHRE/9081296/2022-06-13T18"
     },
     {
-      "text": "Fri, Apr 29 @8:00pmHow RudeQ Casino ",
-      "url": "http://www.telegraphherald.com/events/#!/details/HOW-RUDE/10200185/2022-04-29T20"
+      "text": "Mon, Jun 13 @6:00pmTri-State Singles Social Club EuchreDays Inn -- Spirits Bar ",
+      "url": "http://www.telegraphherald.com/events/#!/details/TRISTATE-SINGLES-SOCIAL-CLUB-EUCHRE/9762687/2022-06-13T18"
     },
     {
-      "text": "Fri, Apr 29 @8:00pmCatfish MurphyYardarm Riverfront Bar & Grill ",
-      "url": "http://www.telegraphherald.com/events/#!/details/CATFISH-MURPHY/10147887/2022-04-29T20"
+      "text": "Mon, Jun 13 @6:00pmYoga with Kaity AnneThe Smokestack ",
+      "url": "http://www.telegraphherald.com/events/#!/details/YOGA-WITH-KAITY-ANNE/9768630/2022-06-13T18"
     },
     {
-      "text": "Fri, Apr 29 @6:00pmMurder Mystery Dinner ShowAmelia's Under the Lamplight Dinner Theater ",
-      "url": "http://www.telegraphherald.com/events/#!/details/MURDER-MYSTERY-DINNER-SHOW/10255887/2022-04-29T18"
+      "text": "Mon, Jun 13 @9:00amBenton County 4-H Summer Science Discovery CampAtkins City Park ",
+      "url": "http://www.telegraphherald.com/events/#!/details/BENTON-COUNTY-4H-SUMMER-SCIENCE-DISCOVERY-CAMP/10242709/2022-06-13T09"
     },
     {
-      "text": "Fri, Apr 29 @10:00amMother Nature: Modern MusePutnam Museum ",
-      "url": "http://www.telegraphherald.com/events/#!/details/MOTHER-NATURE-MODERN-MUSE/9881243/2022-04-29T10"
+      "text": "Mon, Jun 13 Hannah outPublic Space One ",
+      "url": "http://www.telegraphherald.com/events/#!/details/HANNAH-OUT/10412298/2022-06-13T00"
     },
     {
-      "text": "Fri, Apr 29 Walk Through Black History: The Life of Belle da Costa GreeneVirtual ",
-      "url": "http://www.telegraphherald.com/events/#!/details/WALK-THROUGH-BLACK-HISTORY-THE-LIFE-OF-BELLE-DA-COSTA-GREENE/9923272/2022-04-29T00"
+      "text": "Mon, Jun 13 @10:15amMonday Move and Play!Meadowridge Library ",
+      "url": "http://www.telegraphherald.com/events/#!/details/MONDAY-MOVE-AND-PLAY/10324541/2022-06-13T10"
     },
     {
-      "text": "Fri, Apr 29 @5:00pmMeet & Greet Social Connections for SinglesShot Tower ",
-      "url": "http://www.telegraphherald.com/events/#!/details/MEET-GREET-SOCIAL-CONNECTIONS-FOR-SINGLES/9081294/2022-04-29T17"
+      "text": "Tue, Jun 14 @9:00amSacred Spaces: Frank Lloyd Wright x Andrew PielageFrank Lloyd Wright Visitor Center ",
+      "url": "http://www.telegraphherald.com/events/#!/details/SACRED-SPACES-FRANK-LLOYD-WRIGHT-X-ANDREW-PIELAGE/10324883/2022-06-14T09"
     },
     {
-      "text": "Fri, Apr 29 @8:00pmMolly BurchRaccoon Motel ",
-      "url": "http://www.telegraphherald.com/events/#!/details/MOLLY-BURCH/10032720/2022-04-29T20"
+      "text": "Tue, Jun 14 @7:30pmPub TriviaBackpocket Taproom ",
+      "url": "http://www.telegraphherald.com/events/#!/details/PUB-TRIVIA/10169610/2022-06-14T19"
     },
     {
-      "text": "Fri, Apr 29 @5:00pmWine Maker Tasting w/Jon Phillips from InspirationThe Grape Escape ",
-      "url": "http://www.telegraphherald.com/events/#!/details/WINE-MAKER-TASTING-WJON-PHILLIPS-FROM-INSPIRATION/10255851/2022-04-29T17"
+      "text": "Tue, Jun 14 @6:30pmQuad Cities River Bandits vs. South Bend CubsModern Woodmen Park ",
+      "url": "http://www.telegraphherald.com/events/#!/details/QUAD-CITIES-RIVER-BANDITS-VS-SOUTH-BEND-CUBS/10246282/2022-06-14T18"
     },
     {
-      "text": "Fri, Apr 29 @6:00pmSTEM Family Free NightThe Iowa Children's Museum ",
-      "url": "http://www.telegraphherald.com/events/#!/details/STEM-FAMILY-FREE-NIGHT/9867702/2022-04-29T18"
+      "text": "Tue, Jun 14 @4:00pmSoftball: Varsity DHHempstead High School ",
+      "url": "http://www.telegraphherald.com/events/#!/details/SOFTBALL-VARSITY-DH/9606916/2022-06-14T16"
     },
     {
-      "text": "Sat, Apr 30 DetourBurkey\u2019s Bar and Grill ",
-      "url": "http://www.telegraphherald.com/events/#!/details/DETOUR/9888035/2022-04-30T00"
+      "text": "Wed, Jun 15 @10:00amMarcus Theatres\u00ae Summer Kids Dream Family Film Series presented by American Family InsuranceMarcus Point Cinema ",
+      "url": "http://www.telegraphherald.com/events/#!/details/MARCUS-THEATRES-SUMMER-KIDS-DREAM-FAMILY-FILM-SERIES-PRESENTED-BY-AMERICAN-FAMILY-INSURANCE/10363306/2022-06-15T10"
     },
     {
-      "text": "Sat, Apr 30 @4:00pmMichael WinslowDiamond Jo Casino ",
-      "url": "http://www.telegraphherald.com/events/#!/details/MICHAEL-WINSLOW/9845471/2022-04-30T16"
+      "text": "Wed, Jun 15 @7:00amSunrise Marion Toastmasters Weekly MeetingLinn Area Credit Union ",
+      "url": "http://www.telegraphherald.com/events/#!/details/SUNRISE-MARION-TOASTMASTERS-WEEKLY-MEETING/9857362/2022-06-15T07"
     },
     {
-      "text": "Sat, Apr 30 @7:30pmResonate & Revolutionize - DSO Classics 3Five Flags Theater ",
-      "url": "http://www.telegraphherald.com/events/#!/details/RESONATE-REVOLUTIONIZE-DSO-CLASSICS-3/10259021/2022-04-30T19"
+      "text": "Fri, Jun 17 @10:30amDiscovery Center Funtime Friday and Funtime SaturdayThe Felix Adler Children's Discovery Center ",
+      "url": "http://www.telegraphherald.com/events/#!/details/DISCOVERY-CENTER-FUNTIME-FRIDAY-AND-FUNTIME-SATURDAY/5801790/2022-06-17T10"
     },
     {
-      "text": "Sat, Apr 30 @5:00pmJordan DanielsonOffshore Resort ",
-      "url": "http://www.telegraphherald.com/events/#!/details/JORDAN-DANIELSON/10133852/2022-04-30T17"
+      "text": "Fri, Jun 17 @8:00amDance Marathon Jeans DayLoras College ",
+      "url": "http://www.telegraphherald.com/events/#!/details/DANCE-MARATHON-JEANS-DAY/9923637/2022-06-17T08"
     },
     {
-      "text": "Sat, Apr 30 @2:00pmSpring Blossom Orchard Tours at The Cider FarmThe Cider Farm Orchard ",
-      "url": "http://www.telegraphherald.com/events/#!/details/SPRING-BLOSSOM-ORCHARD-TOURS-AT-THE-CIDER-FARM/10041730/2022-04-30T14"
+      "text": "Sat, Jun 18 @8:00pmLatin Night ft. DJ PapiThe Smokestack ",
+      "url": "http://www.telegraphherald.com/events/#!/details/LATIN-NIGHT-FT-DJ-PAPI/9893120/2022-06-18T20"
     },
     {
-      "text": "Sun, May 01 Gypsy LIVE at the Bird!Darkbird Taphouse ",
-      "url": "http://www.telegraphherald.com/events/#!/details/GYPSY-LIVE-AT-THE-BIRD/10259068/2022-05-01T00"
+      "text": "Sun, Jun 19 @6:30pmMusic in the GardensDubuque Arboretum & Botanical Gardens ",
+      "url": "http://www.telegraphherald.com/events/#!/details/MUSIC-IN-THE-GARDENS/10081518/2022-06-19T18"
     },
     {
-      "text": "Sun, May 01 @2:00pmWalking MollyHilltop at Menominee ",
-      "url": "http://www.telegraphherald.com/events/#!/details/WALKING-MOLLY/10243534/2022-05-01T14"
+      "text": "Mon, Jun 20 @5:00pmBaseball: Varsity DHHempstead High School ",
+      "url": "http://www.telegraphherald.com/events/#!/details/BASEBALL-VARSITY-DH/9606917/2022-06-20T17"
     },
     {
-      "text": "Sun, May 01 @2:00pmLive Music- Beau TimmermanPromiseLand Winery ",
-      "url": "http://www.telegraphherald.com/events/#!/details/LIVE-MUSIC-BEAU-TIMMERMAN/10259072/2022-05-01T14"
+      "text": "Fri, Jun 24 @6:00pmSTEM Family Free NightThe Iowa Children's Museum ",
+      "url": "http://www.telegraphherald.com/events/#!/details/STEM-FAMILY-FREE-NIGHT/9867702/2022-06-24T18"
     },
     {
-      "text": "Sun, May 01 @3:00pmThe ResistorsNorthside Bar ",
-      "url": "http://www.telegraphherald.com/events/#!/details/THE-RESISTORS/9965823/2022-05-01T15"
+      "text": "Sun, Jun 26 @3:00pmRockin' the RidgeSunset Ridge Winery ",
+      "url": "http://www.telegraphherald.com/events/#!/details/ROCKIN-THE-RIDGE/10329750/2022-06-26T15"
     },
     {
       "text": "See All Events",
@@ -2458,27 +3876,23 @@
       "url": "/classifieds/"
     },
     {
-      "text": "\n                        \n                            14\n                            \n                                \n                                Real Estate For Sale Or Rent\n                            \n                        \n                    ",
+      "text": "\n                        \n                            9\n                            \n                                \n                                Real Estate For Sale Or Rent\n                            \n                        \n                    ",
       "url": "/classifieds/housing/?l=25"
     },
     {
-      "text": "\n                            10\n                            Property For Rent\n                        ",
+      "text": "\n                            7\n                            Property For Rent\n                        ",
       "url": "/classifieds/housing/rent/?l=25"
     },
     {
-      "text": "\n                            4\n                            Real Estate\n                        ",
+      "text": "\n                            2\n                            Real Estate\n                        ",
       "url": "/classifieds/housing/sale/?l=25"
     },
     {
-      "text": "\n                        \n                            13\n                            \n                                \n                                Cars & Vehicles\n                            \n                        \n                    ",
+      "text": "\n                        \n                            10\n                            \n                                \n                                Cars & Vehicles\n                            \n                        \n                    ",
       "url": "/classifieds/vehicle/?l=25"
     },
     {
-      "text": "\n                            1\n                            Boats\n                        ",
-      "url": "/classifieds/vehicle/boat/?l=25"
-    },
-    {
-      "text": "\n                            9\n                            Cars\n                        ",
+      "text": "\n                            7\n                            Cars\n                        ",
       "url": "/classifieds/vehicle/car/?l=25"
     },
     {
@@ -2490,43 +3904,43 @@
       "url": "/classifieds/vehicle/rv/?l=25"
     },
     {
-      "text": "\n                        \n                            90\n                            \n                                \n                                Items For Sale\n                            \n                        \n                    ",
+      "text": "\n                        \n                            78\n                            \n                                \n                                Items For Sale\n                            \n                        \n                    ",
       "url": "/classifieds/sale/?l=25"
     },
     {
-      "text": "\n                            2\n                            Clothes & Accessories\n                        ",
+      "text": "\n                            1\n                            Clothes & Accessories\n                        ",
       "url": "/classifieds/sale/clothes/?l=25"
     },
     {
-      "text": "\n                            5\n                            Collectibles\n                        ",
-      "url": "/classifieds/sale/collectible/?l=25"
-    },
-    {
-      "text": "\n                            2\n                            Furniture\n                        ",
-      "url": "/classifieds/sale/furniture/?l=25"
-    },
-    {
-      "text": "\n                            3\n                            Home & Garden\n                        ",
+      "text": "\n                            6\n                            Home & Garden\n                        ",
       "url": "/classifieds/sale/home/?l=25"
     },
     {
-      "text": "\n                            1\n                            Livestock\n                        ",
+      "text": "\n                            1\n                            Baby & Kid Stuff\n                        ",
+      "url": "/classifieds/sale/kid/?l=25"
+    },
+    {
+      "text": "\n                            2\n                            Livestock\n                        ",
       "url": "/classifieds/sale/livestock/?l=25"
     },
     {
-      "text": "\n                            48\n                            Everything Else\n                        ",
+      "text": "\n                            1\n                            Musical Instruments\n                        ",
+      "url": "/classifieds/sale/music/?l=25"
+    },
+    {
+      "text": "\n                            42\n                            Everything Else\n                        ",
       "url": "/classifieds/sale/other/?l=25"
     },
     {
-      "text": "\n                            13\n                            Pets\n                        ",
+      "text": "\n                            20\n                            Pets\n                        ",
       "url": "/classifieds/sale/pet/?l=25"
     },
     {
-      "text": "\n                            12\n                            Auctions, Estate & Garage Sales\n                        ",
+      "text": "\n                            2\n                            Auctions, Estate & Garage Sales\n                        ",
       "url": "/classifieds/sale/sale/?l=25"
     },
     {
-      "text": "\n                            4\n                            Sporting Goods & Bicycles\n                        ",
+      "text": "\n                            3\n                            Sporting Goods & Bicycles\n                        ",
       "url": "/classifieds/sale/sport/?l=25"
     },
     {
@@ -2539,39 +3953,39 @@
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/online_features/health_and_wellness/article_389eff47-fe45-5d97-ad6e-d24b2134f91f.html"
-    },
-    {
-      "text": "Health & Wellness",
-      "url": "/online_features/health_and_wellness"
-    },
-    {
-      "text": "\n        \n\n        \n            New tools to detect cancer recurrence: What cancer patients need to know",
-      "url": "/online_features/health_and_wellness/article_389eff47-fe45-5d97-ad6e-d24b2134f91f.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/online_features/senior_living/article_7a9ef50e-26cc-5285-9592-b9d7e258cc74.html"
-    },
-    {
-      "text": "Senior Living",
-      "url": "/online_features/senior_living"
-    },
-    {
-      "text": "\n        \n\n        \n            What\u2019s for dinner? 5 tips for maximizing leftovers",
-      "url": "/online_features/senior_living/article_7a9ef50e-26cc-5285-9592-b9d7e258cc74.html"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/online_features/home_improvement/article_26a6b396-b558-5958-8cdb-795511849291.html"
+      "url": "/online_features/home_improvement/article_39469cac-a552-5520-82ca-43de8dbaba58.html"
     },
     {
       "text": "Home Improvement",
       "url": "/online_features/home_improvement"
     },
     {
-      "text": "\n        \n\n        \n            AI Comes Home With Smarter Robots",
-      "url": "/online_features/home_improvement/article_26a6b396-b558-5958-8cdb-795511849291.html"
+      "text": "\n        \n\n        \n            4 steps for simple concrete repair this summer",
+      "url": "/online_features/home_improvement/article_39469cac-a552-5520-82ca-43de8dbaba58.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/online_features/home_improvement/article_e48b200c-8347-54b5-ad6d-6d8332dd2ed0.html"
+    },
+    {
+      "text": "Home Improvement",
+      "url": "/online_features/home_improvement"
+    },
+    {
+      "text": "\n        \n\n        \n            5 tips to take care of water leaks during the dry days of summer",
+      "url": "/online_features/home_improvement/article_e48b200c-8347-54b5-ad6d-6d8332dd2ed0.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/online_features/community_cares/article_76dbe4c9-8d6e-5ef7-9a2e-610310053241.html"
+    },
+    {
+      "text": "Community Cares",
+      "url": "/online_features/community_cares"
+    },
+    {
+      "text": "\n        \n\n        \n            5 Black Service Members Shaping Contemporary Military History",
+      "url": "/online_features/community_cares/article_76dbe4c9-8d6e-5ef7-9a2e-610310053241.html"
     },
     {
       "text": "",
@@ -2670,9 +4084,9 @@
       "url": "https://townnews.com/"
     }
   ],
-  "uniq": 1745050224,
+  "uniq": 210780198,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }
