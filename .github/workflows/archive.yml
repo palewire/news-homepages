@@ -31,7 +31,7 @@ jobs:
            path: 'handles.json'
            prop_path: 'handles'
 
-      - run: echo ${{steps.handles.outputs.handles}}
+      - run: echo ${{steps.handles.outputs.prop}}
 
   jpg:
     name: JPG
@@ -40,7 +40,7 @@ jobs:
     needs: sources
     strategy:
       matrix:
-        source: ${{fromJson(needs.sources.outputs.handles)}}
+        source: ${{needs.sources.outputs.handles.prop}}
     steps:
       - id: checkout
         name: Checkout
