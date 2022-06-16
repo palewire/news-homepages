@@ -25,7 +25,7 @@ jobs:
         shell: bash
 
       - id: set-matrix
-        run: echo "::set-output name=matrix::$(cat sites.json | jq '.[] | .handle)"
+        run: echo "::set-output name=matrix::$(cat sites.json | jq '.[] | .handle')"
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
 
