@@ -24,7 +24,7 @@ jobs:
         shell: bash
 
       - id: set-matrix
-        run: echo "::set-output name=handle_matrix::$(cat handles.json | jq)"
+        run: echo "::set-output name=handle_matrix::$(cat handles.json | jq -c)"
     outputs:
       handle_matrix: ${{ steps.set-matrix.outputs.handle_matrix }}
 
