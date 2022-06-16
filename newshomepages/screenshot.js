@@ -15,7 +15,6 @@ const timer = ms => new Promise( res => setTimeout(res, ms));
       "--disable-gpu"
     ]
   });
-  await timer(10000);
   const page = await context.newPage();
   await page.setViewportSize({ width: 1300, height: 1600 });
   await page.goto('https://www.latimes.com/');
