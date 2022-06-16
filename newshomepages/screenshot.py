@@ -12,7 +12,7 @@ from . import utils
 
 DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
-DEFAULT_WAIT = "3000"
+DEFAULT_WAIT = "5000"
 
 logger = logging.getLogger(__name__)
 
@@ -82,7 +82,7 @@ def _shoot(site: typing.Dict, output_dir: str):
 
         # Wait for adguard filters to load
         click.echo("Waiting 15 seconds for AdGuard filters to load")
-        time.sleep(15)
+        time.sleep(20)
 
         # Create an empty tab
         page = context.new_page()
