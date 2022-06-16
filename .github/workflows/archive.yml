@@ -13,17 +13,19 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: install
-        name: Install Python dependencies
-        uses: ./.github/actions/install
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
 
-      - id: get-handle-json
-        name: Get handle JSON
-        run: pipenv run python -m newshomepages.screenshot get-handle-json
+      - id: create-sites-json
+        name: Create sites JSON
+        run:  |
+          npm install csvtojson
+          csvtojson newshomepages/sources/sites.csv > sites.json
         shell: bash
 
       - id: set-matrix
-        run: echo "::set-output name=matrix::$(curl https://endoflife.date/api/nodejs.json | jq -c '[.[] | select(.eol > (now | strftime("%Y-%m-%d"))) | .cycle]')"
+        run: echo "::set-output name=matrix::$(cat sites.json | jq '.[] | .handle)"
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
 
