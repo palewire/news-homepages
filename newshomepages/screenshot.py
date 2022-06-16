@@ -47,8 +47,7 @@ def get_handle_json():
     Used by out GitHub Action to set a matrix of all sites.
     """
     site_list = utils.get_site_list()
-    handle_list = [s["handle"] for s in site_list]
-    json.dump(handle_list, open("handles.json", "w"), indent=2)
+    json.dump(site_list, open("sites.json", "w"), indent=2)
 
 
 def _shoot(site: typing.Dict, output_dir: str):
