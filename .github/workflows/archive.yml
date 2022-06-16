@@ -11,11 +11,23 @@ jobs:
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
-    - id: set-matrix
-      name: Set source matrix
-      run: |
-        echo "::set-output name=matrix::[\"latimes\", \"ft\",]"
-      shell: bash
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
+      - id: get-handle-json
+        name: Get handle JSON
+        run: pipenv run python -m newshomepages.screenshot get-handle-json
+        shell: bash
+
+      - id: set-matrix
+        name: Set source matrix
+        run: echo "::set-output name=matrix::$( cat handles.json )"
+        shell: bash
   jpg:
     name: JPG
     runs-on: ubuntu-20.04
