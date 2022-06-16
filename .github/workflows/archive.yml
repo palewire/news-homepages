@@ -28,7 +28,7 @@ jobs:
         id: handles
         uses: notiz-dev/github-action-json-property@release
         with:
-           path: 'sites.json'
+           path: 'handles.json'
            prop_path: 'handle'
 
       - run: echo ${{steps.handles.outputs.handles}}
