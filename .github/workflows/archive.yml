@@ -24,10 +24,14 @@ jobs:
         run: pipenv run python -m newshomepages.screenshot get-handle-json
         shell: bash
 
-      - id: set-matrix
-        name: Set source matrix
-        run: echo "::set-output name=matrix::$( cat handles.json )"
-        shell: bash
+      - name: get version
+        id: handles
+        uses: notiz-dev/github-action-json-property@release
+        with:
+           path: 'handles.json'
+
+      - run: echo ${{steps.handles.outputs.handles}}
+
   jpg:
     name: JPG
     runs-on: ubuntu-20.04
@@ -35,7 +39,7 @@ jobs:
     needs: sources
     strategy:
       matrix:
-        source: ${{fromJson(needs.sources.outputs.matrix)}}
+        source: ${{fromJson(needs.sources.outputs.handles)}}
     steps:
       - id: checkout
         name: Checkout
