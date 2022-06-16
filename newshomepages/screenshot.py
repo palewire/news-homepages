@@ -1,3 +1,4 @@
+import json
 import logging
 import tempfile
 import time
@@ -37,6 +38,17 @@ def single(handle: str, output_dir: str):
 def bundle(slug: str, output_dir: str):
     """Screenshot a bundle of sources."""
     [_shoot(site, output_dir) for site in utils.get_sites_in_bundle(slug)]
+
+
+@cli.command()
+def get_handle_json():
+    """Write out a list of site handles as a JSON list.
+
+    Used by out GitHub Action to set a matrix of all sites.
+    """
+    site_list = utils.get_site_list()
+    handle_list = [s["handle"] for s in site_list]
+    json.dump(handle_list, open("handles.json", "w"), indent=2)
 
 
 def _shoot(site: typing.Dict, output_dir: str):

@@ -13,19 +13,18 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 16
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
 
       - id: create-sites-json
         name: Create sites JSON
-        run:  |
-          npm install -g csvtojson
-          csvtojson newshomepages/sources/sites.csv > sites.json
+        run:  pipenv run python -m newshomepages.screenshot get-handle-json
         shell: bash
 
       - id: set-matrix
-        run: echo "::set-output name=matrix::$(cat sites.json | jq '.[] | .handle')"
+        run: echo "::set-output name=matrix::$(cat handles.json | jq)"
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
 
