@@ -11,7 +11,8 @@ const timer = ms => new Promise( res => setTimeout(res, ms));
     channel: "chrome",
     args: [
       `--disable-extensions-except=${pathToExtension}`,
-      `--load-extension=${pathToExtension}`
+      `--load-extension=${pathToExtension}`,
+      "--disable-gpu"
     ]
   });
   await timer(10000);
