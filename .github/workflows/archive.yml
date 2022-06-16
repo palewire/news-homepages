@@ -24,9 +24,9 @@ jobs:
         shell: bash
 
       - id: set-matrix
-        run: echo "::set-output name=matrix::$(cat handles.json)"
+        run: echo "::set-output name=handle_matrix::$(cat handles.json | jq)"
     outputs:
-      matrix: ${{ steps.set-matrix.outputs.matrix }}
+      handle_matrix: ${{ steps.set-matrix.outputs.handle_matrix }}
 
   jpg:
     name: JPG
@@ -35,7 +35,7 @@ jobs:
     needs: sources
     strategy:
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
     steps:
       - id: checkout
         name: Checkout
