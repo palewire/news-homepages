@@ -81,7 +81,7 @@ def _shoot(site: typing.Dict, output_dir: str):
         )
 
         # Wait for adguard filters to load
-        click.echo("Waiting 15 seconds for AdGuard filters to load")
+        click.echo("Waiting 20 seconds for AdGuard filters to load")
         time.sleep(20)
 
         # Create an empty tab
