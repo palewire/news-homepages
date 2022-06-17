@@ -88,7 +88,7 @@ def _upload(data: dict, input_dir: str):
             mediatype="image",
             publisher=data["url"],
             date=now_local.strftime("%Y"),
-            contributor="https://github.com/palewire/news-homepages",
+            contributor="https://homepages.news",
         ),
         # Metadata about the image file
         files=file_dict,
