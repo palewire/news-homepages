@@ -97,7 +97,7 @@ def _shoot(site: typing.Dict, output_dir: str):
 
         # Open the page
         click.echo(f"Opening {site['url']}")
-        page.goto(site["url"])
+        page.goto(site["url"], timeout=60000)
 
         # Give it a beat
         wait = int(site["wait"] or DEFAULT_WAIT) / 1000
