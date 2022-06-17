@@ -137,6 +137,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
+        fail-fast: false
         source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
     steps:
       - id: checkout
