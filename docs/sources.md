@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 105 sites.
+The archiving routine is currently capturing 107 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -24,6 +24,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[CNN](https://www.cnn.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnn.xml)|
 |[Carolina Public Press](https://carolinapublicpress.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpublicpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cpublicpress.xml)|
 |[Cedar Rapids Gazette](https://www.thegazette.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazettedotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gazettedotcom.xml)|
+|[Center for Public Integrity](https://publicintegrity.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/publicintegrity.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/publicintegrity.xml)|
 |[Daily Caller](https://dailycaller.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycaller.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycaller.xml)|
 |[Daily Wire](https://www.dailywire.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/realdailywire.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/realdailywire.xml)|
 |[Des Moines Register](https://www.desmoinesregister.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dmregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dmregister.xml)|
@@ -41,6 +42,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Green Bay Press-Gazette](https://www.greenbaypressgazette.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gbpressgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gbpressgazette.xml)|
 |[Herald Times Reporter](https://www.htrnews.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/htrnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/htrnews.xml)|
 |[Human Events](https://humanevents.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humanevents.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humanevents.xml)|
+|[ICIJ](https://www.icij.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/icijorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/icijorg.xml)|
 |[Iowa City Press-Citizen](https://www.press-citizen.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/presscitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/presscitizen.xml)|
 |[Iowa Public Radio](https://www.iowapublicradio.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/iowapublicradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/iowapublicradio.xml)|
 |[KCAU](https://www.siouxlandproud.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcautv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcautv.xml)|
