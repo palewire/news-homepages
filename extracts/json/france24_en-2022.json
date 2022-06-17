@@ -1,5 +1,5 @@
 {
-  "created": 1655338662,
+  "created": 1655416103,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/11/items/france24_en-2022",
@@ -2746,31 +2746,73 @@
       "sha1": "231eb2e65de75f46c06b61e23d318535cb17558b"
     },
     {
+      "name": "france24_en-2022-06-16T14:08:14.484119+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655381298",
+      "size": "23103",
+      "md5": "949a087b18e4027f38f40b09ee4f95c5",
+      "crc32": "cfc203d4",
+      "sha1": "e6915f3a96d5a12769352da1bab42eba4a140073",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-06-16T14:08:14.484119+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655381300",
+      "size": "37662",
+      "md5": "3663102316b0b51e6acdd894db68339d",
+      "crc32": "af7b79df",
+      "sha1": "9048cb5ea4904b2747cd780dee54ae64a203a4de",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-06-16T14:08:14.484119+02:00.jpg",
+      "source": "original",
+      "mtime": "1655381296",
+      "size": "254779",
+      "md5": "b1d6d559598fcd96d739c7b9619cdb4f",
+      "crc32": "76cbee58",
+      "sha1": "b1759f76da2b15c5636f894cb1d19c14883b54ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24_en-2022-06-16T14:08:14.484119+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24_en-2022-06-16T14:08:14.484119+02:00.jpg",
+      "mtime": "1655381354",
+      "size": "9397",
+      "md5": "03bcb8db030ca50ed45cf0f816899c04",
+      "crc32": "d86153a6",
+      "sha1": "80f10d21a2564d8226aa724e09eba4351a0f0348"
+    },
+    {
       "name": "france24_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6010b7de76c13e2c2028207f53e002be20b27fe",
-      "mtime": "1655208576",
-      "size": "57120",
-      "md5": "e1cd457a2342efbe0676874bf706b421",
-      "crc32": "c2ae2743",
-      "sha1": "c5e37a26b0d4e35f1ca9b989f50758be9212e68e",
+      "btih": "f58b2f9445d99e4caf8c81c3db3bf553f157b926",
+      "mtime": "1655381362",
+      "size": "57961",
+      "md5": "2b41283b17ac55268e25afbe3e4d893a",
+      "crc32": "4213be5d",
+      "sha1": "96377a86e3bd858cf7e5de91f67f1e0e7cb78baf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa91b51b36b122810bb297529e42865f",
+      "md5": "98c673925c898480b95ffb2c6d167f74",
       "summation": "md5"
     },
     {
       "name": "france24_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655208521",
-      "size": "319488",
-      "md5": "3a379d52b28a2dd2b90868a2b9069bfe",
-      "crc32": "e6e8e162",
-      "sha1": "2c9292ae944beaf0342c1313a679471bc620d040",
+      "mtime": "1655381304",
+      "size": "323584",
+      "md5": "a7b77f6b61a54f5250e3efe3d0cabb98",
+      "crc32": "942c901f",
+      "sha1": "6eb99d5792bffe9fcc9298f624d26daf54fc39e2",
       "format": "Metadata"
     },
     {
@@ -2784,659 +2826,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 265,
-  "france24_en-2022": [
-    {
-      "text": "Skip to main content",
-      "url": "#main-content"
-    },
-    {
-      "text": "    France 24 - International breaking news, top stories and headlines\n",
-      "url": "/en/"
-    },
-    {
-      "text": "\n                \n                    \nLive\n                \n            ",
-      "url": "/en/live"
-    },
-    {
-      "text": "Fran\u00e7ais",
-      "url": "/fr/"
-    },
-    {
-      "text": "English",
-      "url": "/en/"
-    },
-    {
-      "text": "Espa\u00f1ol",
-      "url": "/es/"
-    },
-    {
-      "text": "\u0639\u0631\u0628\u064a",
-      "url": "/ar/"
-    },
-    {
-      "text": "Live News",
-      "url": "/en/live-news/"
-    },
-    {
-      "text": "France",
-      "url": "/en/france/"
-    },
-    {
-      "text": "Africa",
-      "url": "/en/africa/"
-    },
-    {
-      "text": "Middle East",
-      "url": "/en/middle-east/"
-    },
-    {
-      "text": "Americas",
-      "url": "/en/americas/"
-    },
-    {
-      "text": "Europe",
-      "url": "/en/europe/"
-    },
-    {
-      "text": "Asia-Pacific",
-      "url": "/en/asia-pacific/"
-    },
-    {
-      "text": "Business / Tech",
-      "url": "/en/business-tech/"
-    },
-    {
-      "text": "Sport",
-      "url": "/en/sport/"
-    },
-    {
-      "text": "Culture",
-      "url": "/en/culture/"
-    },
-    {
-      "text": "Infographics",
-      "url": "/en/webdocumentaries/"
-    },
-    {
-      "text": "Travel",
-      "url": "/en/travel"
-    },
-    {
-      "text": "Fight the Fake",
-      "url": "/en/fight-the-fake"
-    },
-    {
-      "text": "France 24 live",
-      "url": "/en/live"
-    },
-    {
-      "text": "See all shows",
-      "url": "/en/tv-shows/"
-    },
-    {
-      "text": "News",
-      "url": "/en/vod/latest-news"
-    },
-    {
-      "text": "Accessibility",
-      "url": "/en/closed-caption-news"
-    },
-    {
-      "text": "TV guide",
-      "url": "/en/tv-guide"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/FBen"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/TWen"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/IGen"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/YTen"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/DMen"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/SC"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://emailing.france24.com/en/subscribe"
-    },
-    {
-      "text": "Watch France 24 on TV",
-      "url": "/en/how-to-watch-on-tv"
-    },
-    {
-      "text": "Apps",
-      "url": "/en/applications"
-    },
-    {
-      "text": "RSS feeds",
-      "url": "/en/rss-feeds"
-    },
-    {
-      "text": "Who are we?",
-      "url": "/en/about-us"
-    },
-    {
-      "text": "Press room",
-      "url": "/en/tag/press-release/"
-    },
-    {
-      "text": "Contact France 24",
-      "url": "https://www.francemediasmonde.com/en/contact?brand=f24"
-    },
-    {
-      "text": "Advertising",
-      "url": "https://www.francetvpub-international.com/media/france-24/"
-    },
-    {
-      "text": "Buy content",
-      "url": "https://www.francemediasmonde.com/en/contact?brand=f24&topic=vente_contenu"
-    },
-    {
-      "text": "Join us",
-      "url": "https://fmm.io/jobs"
-    },
-    {
-      "text": "Legal notice",
-      "url": "https://www.francemediasmonde.com/en/legal-notice"
-    },
-    {
-      "text": "Privacy",
-      "url": "https://www.francemediasmonde.com/en/privacy"
-    },
-    {
-      "text": "Cookies",
-      "url": "https://www.francemediasmonde.com/en/cookies"
-    },
-    {
-      "text": "Preference Center",
-      "url": "#"
-    },
-    {
-      "text": "Manage news alerts",
-      "url": "https://www.france24.com/en/news-alerts-settings"
-    },
-    {
-      "text": "The Observers",
-      "url": "https://observers.france24.com/en/"
-    },
-    {
-      "text": "RFI",
-      "url": "https://www.rfi.fr/en/"
-    },
-    {
-      "text": "Learn French",
-      "url": "https://savoirs.rfi.fr/en"
-    },
-    {
-      "text": "RFI Music",
-      "url": "https://musique.rfi.fr/"
-    },
-    {
-      "text": "RFI Instrumental",
-      "url": "https://www.rfi-instrumental.com/en"
-    },
-    {
-      "text": "Mondoblog",
-      "url": "https://mondoblog.org/"
-    },
-    {
-      "text": "MCD",
-      "url": "https://www.mc-doualiya.com/"
-    },
-    {
-      "text": "InfoMigrants",
-      "url": "https://www.infomigrants.net/en/"
-    },
-    {
-      "text": "CFI",
-      "url": "https://www.cfi.fr/en"
-    },
-    {
-      "text": "Acad\u00e9mie",
-      "url": "https://academie.france24-mcd-rfi.com/en/"
-    },
-    {
-      "text": "France M\u00e9dias Monde",
-      "url": "https://www.francemediasmonde.com/en/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rfi.fr/en/"
-    },
-    {
-      "text": "",
-      "url": "https://www.france24.com/en/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mc-doualiya.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.francemediasmonde.com/en/"
-    },
-    {
-      "text": "",
-      "url": "https://www.acpm.fr/Support-Numerique/site/france24-com"
-    },
-    {
-      "text": "\n",
-      "url": "/en/"
-    },
-    {
-      "text": "#2022FrenchElections",
-      "url": "https://www.france24.com/en/tag/french-legislative-elections-2022/"
-    },
-    {
-      "text": "#War in Ukraine",
-      "url": "https://www.france24.com/en/tag/ukraine/"
-    },
-    {
-      "text": "France",
-      "url": "/en/france/"
-    },
-    {
-      "text": "Africa",
-      "url": "/en/africa/"
-    },
-    {
-      "text": "Culture",
-      "url": "/en/culture/"
-    },
-    {
-      "text": "Shows",
-      "url": "/en/tv-shows/latest-shows/"
-    },
-    {
-      "text": "Fight the Fake",
-      "url": "/en/fight-the-fake"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nUK to send first asylum seekers to Rwanda\n                                \n        ",
-      "url": "/en/europe/20220614-uk-to-send-first-asylum-seekers-to-rwanda"
-    },
-    {
-      "text": "\n            \n                            \n\n                         Boris Johnson\u2019s plan to send asylum seekers to Rwanda \u2018contravenes Geneva Convention'\n        ",
-      "url": "/en/europe/20220419-boris-johnson-s-plan-to-send-asylum-seekers-to-rwanda-contravenes-geneva-convention"
-    },
-    {
-      "text": "\n            \n                            \n\n                         UK judge rejects bid to block deportation of asylum seekers to Rwanda\n        ",
-      "url": "/en/africa/20220610-uk-judge-rejects-bid-to-block-deportation-of-asylum-seekers-to-rwanda"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                WAR IN UKRAINE\n                                                    \nLive: Nord Stream gas capacity restrained by repair delays, Gazprom says\n                            \n        ",
-      "url": "/en/europe/20220614-live-zelensky-pleads-for-more-arms-from-western-allies"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ON THE GROUND\n                                                    \nWar in Ukraine: FRANCE 24 report on new mass grave found near Bucha\n                            \n        ",
-      "url": "/en/video/20220614-war-in-ukraine-france-24-report-on-new-mass-grave-found-near-bucha"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    World Trade Organization seeks shot in the arm with Covid jab IP idea\n                            \n        ",
-      "url": "/en/europe/20220614-world-trade-organization-seeks-shot-in-the-arm-with-covid-jab-ip-idea"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    French porn site owner arrested over rape, pimping allegations\n                            \n        ",
-      "url": "/en/europe/20220614-french-porn-site-owner-arrested-over-rape-pimping-allegations"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nFormer US attorney general at Jan. 6 hearing: Trump was 'detached from reality'\n                            \n        ",
-      "url": "/en/americas/20220613-former-defense-secretary-at-jan-6-hearing-trump-was-detached-from-reality"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Top US, Chinese national security figures hold 'candid' discussions\n                            \n        ",
-      "url": "/en/americas/20220614-top-us-chinese-national-security-figures-hold-candid-discussions"
-    },
-    {
-      "text": "\n        Bloomberg News says 'encouraged' by reported bail for detained China staffer\n        \n    ",
-      "url": "/en/live-news/20220614-bloomberg-news-says-encouraged-by-reported-bail-for-detained-china-staffer"
-    },
-    {
-      "text": "\n        England set 299 to win second Test against New Zealand\n        \n    ",
-      "url": "/en/live-news/20220614-england-set-299-to-win-second-test-against-new-zealand"
-    },
-    {
-      "text": "\n        Facing gas 'blackmail' by Russia, EU turns to Israel\n        \n    ",
-      "url": "/en/live-news/20220614-facing-gas-blackmail-by-russia-eu-turns-to-israel-1"
-    },
-    {
-      "text": "\n        France vows cash for urban vegetation as heatwave hits\n        \n    ",
-      "url": "/en/live-news/20220614-france-vows-cash-for-urban-vegetation-as-heatwave-hits"
-    },
-    {
-      "text": "\n        Former Man City star Kompany appointed as Burnley boss\n        \n    ",
-      "url": "/en/live-news/20220614-former-man-city-star-kompany-appointed-as-burnley-boss"
-    },
-    {
-      "text": "\n        \nJanurary 6th hearing: Trump blasts riot probe as 'mockery of justice' \u2022 FRANCE 24 English\n        \n    ",
-      "url": "/en/video/20220614-janurary-6th-hearing-trump-blasts-riot-probe-as-mockery-of-justice-%E2%80%A2-france-24-english"
-    },
-    {
-      "text": "\n                    Read the latest live news \n\n                ",
-      "url": "/en/live-news/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONS\n                                                    Majority, hung parliament or \u2018cohabitation\u2019: Macron\u2019s prospects uncertain after tight election\n                                \n        ",
-      "url": "/en/france/20220613-majority-hung-parliament-or-cohabitation-macron-s-prospects-uncertain-after-tight-election"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONS\n                                                    Will \u2018drifting\u2019 Macron need conservatives to save his majority?\n                            \n        ",
-      "url": "/en/france/20220612-will-drifting-macron-need-conservatives-to-save-his-majority"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONS\n                                                    \nMacron coalition, leftwing bloc neck and neck in first round of French elections\n                            \n        ",
-      "url": "/en/france/20220612-live-follow-our-special-edition-coverage-of-the-first-round-of-the-french-legislative-elections"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONS 2022\n                                                    Explainer: How do France's legislative elections work?\n                            \n        ",
-      "url": "/en/france/20220511-explainer-how-do-france-s-legislative-elections-work"
-    },
-    {
-      "text": "\n                    More about the French legislative elections \n\n                ",
-      "url": "https://www.france24.com/en/tag/french-legislative-elections-2022/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Yellowstone closes for the first time in 34 years after record flooding\n                            \n        ",
-      "url": "/en/environment/20220614-yellowstone-closes-for-the-first-in-34-years-after-record-flooding"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Disney's animated film with same-sex couple will not be shown in 14 countries\n                            \n        ",
-      "url": "/en/culture/20220613-disney-s-animated-film-with-same-sex-couple-will-not-be-shown-in-14-countries"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Australia qualifies for 2022 World Cup after winning against Peru on penalties\n                            \n        ",
-      "url": "/en/asia-pacific/20220613-australia-qualifies-for-2022-world-cup-after-winning-against-peru-on-penalties"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    UK judges clear way for migrant deportations as UN agency slams \u2018catastrophic\u2019 plan\n                            \n        ",
-      "url": "/en/europe/20220613-uk-judges-clear-way-for-migrant-deportations-as-un-agency-slams-catastrophic-plan"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nUK sets up EU showdown with plan to change Northern Ireland trade rules\n                            \n        ",
-      "url": "/en/europe/20220613-uk-sets-up-eu-showdown-with-plan-to-change-northern-ireland-trade-rules"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                War in Ukraine\n                                                    Shipping movement continues in the Black Sea despite Ukraine war, sanctions\n                                \n        ",
-      "url": "/en/europe/20220605-maritime-trade-continues-in-the-black-sea-despite-ukraine-war-sanctions"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Russian speakers reject the 'language of the enemy' by learning Ukrainian\n                            \n        ",
-      "url": "/en/europe/20220530-russian-speakers-in-ukraine-reject-the-language-of-the-enemy-by-learning-ukrainian"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Population decline in Russia: \u2018Putin has no choice but to win\u2019 in Ukraine\n                            \n        ",
-      "url": "/en/europe/20220524-population-decline-in-russia-putin-has-no-other-choice-but-to-win-in-ukraine"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    After Queen Elizabeth, what future for the Commonwealth?\n                            \n        ",
-      "url": "/en/uk/20220604-after-queen-elizabeth-what-does-the-future-hold-for-the-commonwealth"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONS\n                                                    Majority, hung parliament or \u2018cohabitation\u2019: Macron\u2019s prospects uncertain after tight election\n                            \n        ",
-      "url": "/en/france/20220613-majority-hung-parliament-or-cohabitation-macron-s-prospects-uncertain-after-tight-election"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    At least 50 civilians killed in suspected jihadist raid on Burkina Faso village\n                            \n        ",
-      "url": "/en/africa/20220613-at-least-50-civilians-killed-in-suspected-jihadist-raid-on-burkina-faso-village"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                FRENCH LEGISLATIVE ELECTIONS\n                                                    Takeaways from the first round of France\u2019s parliamentary elections\n                            \n        ",
-      "url": "/en/france/20220613-takeaways-from-the-first-round-of-france-s-parliamentary-elections"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Macron calls for French budget defence boost in 'war economy'\n                            \n        ",
-      "url": "/en/france/20220613-macron-calls-for-french-budget-defence-boost-in-war-economy"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nBrazilian police deny bodies found in search for UK journalist, indigenous expert\n                            \n        ",
-      "url": "/en/americas/20220613-brazilian-police-find-belongings-of-journalist-expert-missing-in-amazon"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Bitcoin dips to lowest levels since 2020, tumbles under $25,000\n                            \n        ",
-      "url": "/en/europe/20220613-bitcoin-dips-to-lowest-levels-since-2020-tumbles-under-25-000"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                The Debate\n                                                    \nMacron's majority in doubt: Can a united left derail French centrists' lock on power?\n                                \n        ",
-      "url": "/en/tv-shows/the-debate/20220613-macron-s-majority-in-doubt-can-a-united-left-derrail-the-centrists-lock-on-power"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                EYE ON AFRICA\n                                                    \nDR Congo: M23 rebel group seizes key border town, DRC blames Rwanda\n                            \n        ",
-      "url": "/en/tv-shows/eye-on-africa/20220613-dr-congo-rebel-group-seizes-key-border-town-drc-blames-rwanda"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ENCORE!\n                                                    \nNew album from Hercules & Love Affair marks shift to darker yet hopeful horizons\n                            \n        ",
-      "url": "/en/tv-shows/encore/20220613-hercules-love-affair-new-album-marks-musical-shift-to-darker-yet-hopeful-horizons"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Focus\n                                                    \nDesperation mounts in Afghanistan as millions suffer from acute hunger\n                            \n        ",
-      "url": "/en/tv-shows/focus/20220613-desperation-mounts-in-afghanistan-as-millions-suffer-from-acute-hunger"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                The France 24 Interview\n                                                    \nAfrica 'already has shortage' of grain and fertiliser, AU head Sall warns\n                            \n        ",
-      "url": "/en/tv-shows/the-interview/20220610-africa-already-has-shortage-of-grain-and-fertiliser-au-head-sall-warns"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Reporters\n                                                    \nBetween Iraq and Saudi Arabia, a half-open border (1/4)\n                            \n        ",
-      "url": "/en/tv-shows/reporters/20220610-between-iraq-and-saudi-arabia-a-half-open-border-1-4"
-    },
-    {
-      "text": "\n                    See more shows \n\n                ",
-      "url": "/en/tv-shows/latest-shows/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    UN rights chief Michelle Bachelet will not seek second term\n                            \n        ",
-      "url": "/en/europe/20220613-un-rights-chief-michelle-bachelet-will-not-seek-second-term"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Pre-summer heatwave to hit France starting Wednesday\n                            \n        ",
-      "url": "/en/europe/20220613-pre-summer-heatwave-to-hit-france-starting-wednesday"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Two Iranian aerospace officials \u2018martyred while on mission\u2019\n                            \n        ",
-      "url": "/en/asia-pacific/20220613-two-iranian-aerospace-officials-martyred-while-on-mission"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                THE OBSERVERS\n                                                    War in Ukraine: The Congolese in the ranks of the pro-Russian militia in Luhansk\n                            \n        ",
-      "url": "https://observers.france24.com/en/europe/20220613-war-in-ukraine-the-congolese-in-the-ranks-of-the-pro-russian-militia-in-luhansk"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nUS senators announce bipartisan gun control deal\n                            \n        ",
-      "url": "/en/americas/20220612-us-senators-announce-bipartisan-gun-control-deal"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nMcDonald's reopens under new name in Russia\n                            \n        ",
-      "url": "/en/russia/20220612-mcdonald-s-reopens-under-new-name-in-russia"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Video\n                                                    \nScientists create robotic finger with 'living skin'\n                                \n        ",
-      "url": "/en/video/20220610-scientists-create-robotic-finger-with-living-skin"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \n'Filled with garbage': Kathmandu chokes as trash piles up\n                            \n        ",
-      "url": "/en/video/20220609-filled-with-garbage-kathmandu-chokes-as-trash-piles-up"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \n'A little bit of panic': Thai railway market makes post-pandemic comeback\n                            \n        ",
-      "url": "/en/video/20220608-a-little-bit-of-panic-thai-railway-market-makes-post-pandemic-comeback"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nA country 'worth defending': Finnish women learn defence skills amid Russia fears\n                            \n        ",
-      "url": "/en/video/20220607-a-country-worth-defending-finnish-women-learn-defence-skills-amid-russia-fears"
-    },
-    {
-      "text": "\n                    Watch more news videos \n\n                ",
-      "url": "/en/tag/mobile-video/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nDebunking claims that the French president is the head of the EU\n                            \n        ",
-      "url": "/en/tv-shows/fact-or-fake/20220429-debunking-claims-that-the-french-president-is-the-head-of-the-eu"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nPro-EU 'Monsieur Europe' Emmanuel Macron re-elected: Europe reacts\n                            \n        ",
-      "url": "/en/tv-shows/talking-europe/20220429-pro-eu-monsieur-europe-emmanuel-macron-re-elected-europe-reacts"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nRethinking the EU: The young Europeans reshaping a continent\n                            \n        ",
-      "url": "/en/tv-shows/talking-europe/20220411-rethinking-the-eu-the-young-europeans-reshaping-a-continent"
-    },
-    {
-      "text": "\n                    Read more about the French presidency of the EU \n\n                ",
-      "url": "/en/tag/french-presidency-of-the-eu/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nDR Congo: M23 rebel group seizes key border town, DRC blames Rwanda\n                            \n        ",
-      "url": "/en/tv-shows/eye-on-africa/20220613-dr-congo-rebel-group-seizes-key-border-town-drc-blames-rwanda"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    At least 50 civilians killed in suspected jihadist raid on Burkina Faso village\n                            \n        ",
-      "url": "/en/africa/20220613-at-least-50-civilians-killed-in-suspected-jihadist-raid-on-burkina-faso-village"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nDeportation flights to Rwanda can go ahead as planned, UK court rules\n                            \n        ",
-      "url": "/en/tv-shows/eye-on-africa/20220610-deportation-flights-to-rwanda-can-go-ahead-as-planned-uk-court-rules"
-    },
-    {
-      "text": "\n                    Read more top stories about Africa \n\n                ",
-      "url": "/en/africa/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nSpain swelters in hottest pre-summer heatwave for 20 years\n                            \n        ",
-      "url": "/en/video/20220612-spain-swelters-in-hottest-pre-summer-heatwave-for-20-years"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nSpirituality and ecological values: What remains of India's utopian city of Auroville?\n                            \n        ",
-      "url": "/en/tv-shows/revisited/20220610-spirituality-and-ecological-values-what-remains-of-india-s-utopian-city-of-auroville"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \n\nSand: Digging into a crisis?\n                            \n        ",
-      "url": "/en/tv-shows/down-to-earth/20220610-sand-digging-into-a-crisis"
-    },
-    {
-      "text": "\n                    Read more about the environment \n\n                ",
-      "url": "/en/tag/environment/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Africa Fashion Up\n                            \n        ",
-      "url": "https://www.africafashionup.com/en/participer"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    AFRICA IN THE EMERGING GLOBAL ECONOMIC ORDER\n                            \n        ",
-      "url": "https://www.oecd.org/development/africa-forum/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Festival Les Rencontres \u00e0 l'\u00e9chelle\n                            \n        ",
-      "url": "https://www.lesrencontresalechelle.com/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Moli\u00e8re worldwide, International event\n                            \n        ",
-      "url": "https://files.elfsightcdn.com/6eee1234-f00e-4248-9d90-7e1993b70b30/d3b30c08-1589-44bb-a4b7-f2c5c9a8b184/DP_MoisMoli--re_EN.pdf"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    SOLIDARITY FOR UKRAINE\n                            \n        ",
-      "url": "https://www.fondationdefrance.org/en/homepage"
-    },
-    {
-      "text": "\n                    Discover all our partners \n\n                ",
-      "url": "/en/partnership"
-    },
-    {
-      "text": "2022",
-      "url": "/en/archives/2022/"
-    },
-    {
-      "text": "2021",
-      "url": "/en/archives/2021/"
-    },
-    {
-      "text": "2020",
-      "url": "/en/archives/2020/"
-    },
-    {
-      "text": "2019",
-      "url": "/en/archives/2019/"
-    },
-    {
-      "text": "2018",
-      "url": "/en/archives/2018/"
-    },
-    {
-      "text": "2017",
-      "url": "/en/archives/2017/"
-    },
-    {
-      "text": "2016",
-      "url": "/en/archives/2016/"
-    },
-    {
-      "text": "2015",
-      "url": "/en/archives/2015/"
-    },
-    {
-      "text": "2014",
-      "url": "/en/archives/2014/"
-    },
-    {
-      "text": "2013",
-      "url": "/en/archives/2013/"
-    },
-    {
-      "text": "2012",
-      "url": "/en/archives/2012/"
-    },
-    {
-      "text": "2011",
-      "url": "/en/archives/2011/"
-    },
-    {
-      "text": "2010",
-      "url": "/en/archives/2010/"
-    },
-    {
-      "text": "2009",
-      "url": "/en/archives/2009/"
-    },
-    {
-      "text": "2008",
-      "url": "/en/archives/2008/"
-    },
-    {
-      "text": "2007",
-      "url": "/en/archives/2007/"
-    },
-    {
-      "text": "2006",
-      "url": "/en/archives/2006/"
-    }
-  ],
-  "item_last_updated": 1655208576,
-  "item_size": 21081041,
+  "files_count": 269,
+  "item_last_updated": 1655381362,
+  "item_size": 21410919,
   "metadata": {
     "identifier": "france24_en-2022",
     "collection": [
@@ -3454,7 +2846,7 @@
     "addeddate": "2022-04-09 13:40:37"
   },
   "server": "ia902501.us.archive.org",
-  "uniq": 1984945358,
+  "uniq": 1335944383,
   "workable_servers": [
     "ia902501.us.archive.org",
     "ia802501.us.archive.org"

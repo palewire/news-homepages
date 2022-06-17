@@ -1,5 +1,5 @@
 {
-  "created": 1655338755,
+  "created": 1655405214,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/23/items/oann-2022",
@@ -2636,31 +2636,73 @@
       "format": "JSON"
     },
     {
+      "name": "oann-2022-06-16T14:45:38.187979-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655405142",
+      "size": "18397",
+      "md5": "e498aa5f61c6b480877f219c3626ed28",
+      "crc32": "f5f76118",
+      "sha1": "1c0eda4988939c5207d7f2e2d4b2d9caf1231789",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-16T14:45:38.187979-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655405144",
+      "size": "13820",
+      "md5": "793591b0e6ed35f3c4da12dcf7c52e71",
+      "crc32": "9b99a673",
+      "sha1": "29f1fc9f80576ed86f01cbb60cd5c9945f3f8816",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-16T14:45:38.187979-04:00.jpg",
+      "source": "original",
+      "mtime": "1655405141",
+      "size": "168719",
+      "md5": "66f2500409437499e08e4f848db33255",
+      "crc32": "032cd8b6",
+      "sha1": "a3989af403cd02360d051f3601daf7f73ffda08e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-06-16T14:45:38.187979-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-06-16T14:45:38.187979-04:00.jpg",
+      "mtime": "1655405200",
+      "size": "8655",
+      "md5": "b350fc2148d29d6586874d0ec83208aa",
+      "crc32": "e77f2133",
+      "sha1": "e33ba4bffcc80fca34570fb9c223c8a29ce06500"
+    },
+    {
       "name": "oann-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f3a454f4e1d28b07ab728e3676e78e3a212610ee",
-      "mtime": "1655318778",
-      "size": "53070",
-      "md5": "7069e7c49a5b9a77ddbc2bbeb4a15bdf",
-      "crc32": "90297d23",
-      "sha1": "efa248caba18afd45734ca75acd31c473f582e2b",
+      "btih": "0166c889e5964d150248651844c7b83bdc3334c0",
+      "mtime": "1655405206",
+      "size": "53903",
+      "md5": "fa7f8b179bc7242dcc8405bdcd501780",
+      "crc32": "81e3dc2f",
+      "sha1": "6a634ce0109378566134709870f138d05b677bce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oann-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b4c2d6db8912a665060be98472fc32c",
+      "md5": "d20b764955513af4d3535ec9d476b80e",
       "summation": "md5"
     },
     {
       "name": "oann-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655318742",
-      "size": "303104",
-      "md5": "a57d2f2e989cc4efb8845276aa7c4817",
-      "crc32": "dce6f24a",
-      "sha1": "886527089fb5ece24be57b4746e61e4f38f697c1",
+      "mtime": "1655405147",
+      "size": "307200",
+      "md5": "72e234de00cee865680559de76bdc2fc",
+      "crc32": "56e42b0f",
+      "sha1": "5b71cfc6b770904c102ef72e34a6b9327278e070",
       "format": "Metadata"
     },
     {
@@ -2674,9 +2716,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 254,
-  "item_last_updated": 1655318778,
-  "item_size": 23616112,
+  "files_count": 258,
+  "item_last_updated": 1655405206,
+  "item_size": 23830632,
   "metadata": {
     "identifier": "oann-2022",
     "collection": [
@@ -2693,450 +2735,8 @@
     "publicdate": "2022-03-25 18:47:20",
     "addeddate": "2022-03-25 18:47:20"
   },
-  "oann-2022": [
-    {
-      "text": "Home",
-      "url": "https://www.oann.com"
-    },
-    {
-      "text": "About OAN",
-      "url": "https://www.oann.com/about/"
-    },
-    {
-      "text": "Affiliate Relations",
-      "url": "https://www.oann.com/affiliaterelations/"
-    },
-    {
-      "text": "Where to Watch",
-      "url": "https://www.oann.com/wheretowatch/"
-    },
-    {
-      "text": "Press Kit",
-      "url": "https://www.oann.com/presskit/"
-    },
-    {
-      "text": "Press Releases",
-      "url": "https://www.oann.com/category/press-release/"
-    },
-    {
-      "text": "Brand & ID",
-      "url": "https://www.oann.com/brand-id/"
-    },
-    {
-      "text": "Certifications",
-      "url": "https://www.oann.com/certifications/"
-    },
-    {
-      "text": "Shows",
-      "url": "https://www.oann.com/category/shows/"
-    },
-    {
-      "text": "Real America",
-      "url": "https://www.oann.com/realamerica/"
-    },
-    {
-      "text": "In Focus",
-      "url": "https://www.oann.com/infocus/"
-    },
-    {
-      "text": "Tipping Point",
-      "url": "https://www.oann.com/tippingpoint/"
-    },
-    {
-      "text": "Weekly Briefing",
-      "url": "https://www.oann.com/weeklybriefing/"
-    },
-    {
-      "text": "Shop",
-      "url": "http://store.oann.com"
-    },
-    {
-      "text": "Contact",
-      "url": "https://www.oann.com/contactus/"
-    },
-    {
-      "text": "Careers",
-      "url": "https://www.oann.com/careers/"
-    },
-    {
-      "text": "\n\n\n\n",
-      "url": "https://www.oann.com/"
-    },
-    {
-      "text": "",
-      "url": "https://live.oann.com"
-    },
-    {
-      "text": "MENU",
-      "url": "#"
-    },
-    {
-      "text": "Top News",
-      "url": "https://www.oann.com/category/newsroom/"
-    },
-    {
-      "text": "From DC",
-      "url": "https://www.oann.com/category/oan-contribution/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.oann.com/category/video/"
-    },
-    {
-      "text": "Pearson Sharp Reports",
-      "url": "https://www.oann.com/category/video/special-reports/"
-    },
-    {
-      "text": "Real America",
-      "url": "https://www.oann.com/category/shows/real-america/real-america-video/"
-    },
-    {
-      "text": "The Real Story",
-      "url": "https://www.oann.com/category/shows/the-real-story/real-story-video/"
-    },
-    {
-      "text": "After Hours",
-      "url": "https://www.oann.com/category/shows/after-hours/after-hours-video/"
-    },
-    {
-      "text": "In Focus",
-      "url": "https://www.oann.com/category/shows/in-focus/in-focus-video/"
-    },
-    {
-      "text": "Tipping Point",
-      "url": "https://www.oann.com/category/shows/tipping-point/tipping-point-video/"
-    },
-    {
-      "text": "Weekly Briefing",
-      "url": "https://www.oann.com/category/shows/weekly-briefing/weekly-briefing-video/"
-    },
-    {
-      "text": "Shop",
-      "url": "http://store.oann.com"
-    },
-    {
-      "text": "TV Schedule",
-      "url": "https://www.oann.com/schedule/"
-    },
-    {
-      "text": "Live",
-      "url": "https://live.oann.com"
-    },
-    {
-      "text": "Top News",
-      "url": "https://www.oann.com/category/newsroom/"
-    },
-    {
-      "text": "From DC",
-      "url": "https://www.oann.com/category/oan-contribution/"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.oann.com/category/video/"
-    },
-    {
-      "text": "Pearson Sharp Reports",
-      "url": "https://www.oann.com/category/video/special-reports/"
-    },
-    {
-      "text": "Real America",
-      "url": "https://www.oann.com/category/shows/real-america/real-america-video/"
-    },
-    {
-      "text": "The Real Story",
-      "url": "https://www.oann.com/category/shows/the-real-story/real-story-video/"
-    },
-    {
-      "text": "After Hours",
-      "url": "https://www.oann.com/category/shows/after-hours/after-hours-video/"
-    },
-    {
-      "text": "In Focus",
-      "url": "https://www.oann.com/category/shows/in-focus/in-focus-video/"
-    },
-    {
-      "text": "Tipping Point",
-      "url": "https://www.oann.com/category/shows/tipping-point/tipping-point-video/"
-    },
-    {
-      "text": "Weekly Briefing",
-      "url": "https://www.oann.com/category/shows/weekly-briefing/weekly-briefing-video/"
-    },
-    {
-      "text": "Shop",
-      "url": "http://store.oann.com"
-    },
-    {
-      "text": "TV Schedule",
-      "url": "https://www.oann.com/schedule/"
-    },
-    {
-      "text": "Live",
-      "url": "https://live.oann.com"
-    },
-    {
-      "text": "\n\t\t\t\t\tBiden touts economic performance while economists warn of recession\n\t\t\t\t",
-      "url": "https://www.oann.com/biden-touts-economic-performance-while-economists-warn-of-recession/"
-    },
-    {
-      "text": "\n\t\t\t\t\tTrump\u2019s picks win big in Nev., S.D., S.C. primaries\n\t\t\t\t",
-      "url": "https://www.oann.com/election-day-underway-in-maine-n-d-nev-s-c/"
-    },
-    {
-      "text": "\n\t\t\t\t\tRepublican flips blue House seat in Texas\n\t\t\t\t",
-      "url": "https://www.oann.com/republican-flips-blue-house-seat-in-texas/"
-    },
-    {
-      "text": "\n\t\t\t\t\tRep. Donalds: Biden has no idea how economy works\n\t\t\t\t",
-      "url": "https://www.oann.com/rep-donalds-biden-has-no-idea-how-economy-works/"
-    },
-    {
-      "text": "\n\t\t\t\t\tBiden urges oil companies to ramp up production, slams profit margins\n\t\t\t\t",
-      "url": "https://www.oann.com/biden-urges-oil-companies-to-ramp-up-production-slams-profit-margins/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/biden-touts-economic-performance-while-economists-warn-of-recession/"
-    },
-    {
-      "text": "Biden touts economic performance while economists warn of recession",
-      "url": "https://www.oann.com/biden-touts-economic-performance-while-economists-warn-of-recession/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/election-day-underway-in-maine-n-d-nev-s-c/"
-    },
-    {
-      "text": "Trump\u2019s picks win big in Nev., S.D., S.C. primaries",
-      "url": "https://www.oann.com/election-day-underway-in-maine-n-d-nev-s-c/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/republican-flips-blue-house-seat-in-texas/"
-    },
-    {
-      "text": "Republican flips blue House seat in Texas",
-      "url": "https://www.oann.com/republican-flips-blue-house-seat-in-texas/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/rep-donalds-biden-has-no-idea-how-economy-works/"
-    },
-    {
-      "text": "Rep. Donalds: Biden has no idea how economy works",
-      "url": "https://www.oann.com/rep-donalds-biden-has-no-idea-how-economy-works/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/biden-urges-oil-companies-to-ramp-up-production-slams-profit-margins/"
-    },
-    {
-      "text": "Biden urges oil companies to ramp up production, slams profit margins",
-      "url": "https://www.oann.com/biden-urges-oil-companies-to-ramp-up-production-slams-profit-margins/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/steve-forbes-biden-admin-waged-war-against-oil-gas-production-from-get-go/"
-    },
-    {
-      "text": "Steve Forbes: Biden admin. waged war against oil, gas production from get go",
-      "url": "https://www.oann.com/steve-forbes-biden-admin-waged-war-against-oil-gas-production-from-get-go/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/attorney-christina-bobb-discusses-delay-of-j6-hearing/"
-    },
-    {
-      "text": "Attorney Christina Bobb discusses delay of J6 Hearing",
-      "url": "https://www.oann.com/attorney-christina-bobb-discusses-delay-of-j6-hearing/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/ceo-and-founder-of-sound-income-strategies-david-scranton-talks-inflation/"
-    },
-    {
-      "text": "CEO and Founder of Sound Income Strategies, David Scranton talks inflation",
-      "url": "https://www.oann.com/ceo-and-founder-of-sound-income-strategies-david-scranton-talks-inflation/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/doj-indicts-suspect-on-gun-trafficking-charges/"
-    },
-    {
-      "text": "DOJ indicts suspect on gun trafficking charges",
-      "url": "https://www.oann.com/doj-indicts-suspect-on-gun-trafficking-charges/"
-    },
-    {
-      "text": "More from OAN",
-      "url": "https://www.oann.com/category/newsroom/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/sen-mcconnell-slams-democrats-for-inflation/"
-    },
-    {
-      "text": "Sen. McConnell slams Democrats for inflation",
-      "url": "https://www.oann.com/sen-mcconnell-slams-democrats-for-inflation/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/hunter-joe-biden-would-do-anything-i-want-him-to/"
-    },
-    {
-      "text": "Hunter: Joe Biden would do \u2018anything I want him to\u2019",
-      "url": "https://www.oann.com/hunter-joe-biden-would-do-anything-i-want-him-to/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/june-14-1777-the-continental-congress-adopts-stars-and-stripes-as-us-national-flag/"
-    },
-    {
-      "text": "June 14, 1777: The Continental Congress Adopts Stars and Stripes as US National Flag",
-      "url": "https://www.oann.com/june-14-1777-the-continental-congress-adopts-stars-and-stripes-as-us-national-flag/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/biden-admin-continues-to-engage-with-asian-leaders/"
-    },
-    {
-      "text": "Biden admin. continues to engage with Asian leaders",
-      "url": "https://www.oann.com/biden-admin-continues-to-engage-with-asian-leaders/"
-    },
-    {
-      "text": "OAN Special Reports",
-      "url": "https://www.oann.com/category/oan-contribution/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/steve-forbes-on-inflation-biden-has-undermined-the-dollar/"
-    },
-    {
-      "text": "Steve Forbes on Inflation: Biden has undermined the dollar",
-      "url": "https://www.oann.com/steve-forbes-on-inflation-biden-has-undermined-the-dollar/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/sen-paul-said-he-hopes-to-learn-more-about-royalties-fauci-may-have-earned-2/"
-    },
-    {
-      "text": "Sen. Paul said he hopes to learn more about royalties Fauci may have earned",
-      "url": "https://www.oann.com/sen-paul-said-he-hopes-to-learn-more-about-royalties-fauci-may-have-earned-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/graduation-day-celebration-or-censorship/"
-    },
-    {
-      "text": "Graduation Day: Celebration or Censorship?",
-      "url": "https://www.oann.com/graduation-day-celebration-or-censorship/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/russian-troops-set-to-establish-presence-in-central-america/"
-    },
-    {
-      "text": "Russian troops set to establish presence in Central America",
-      "url": "https://www.oann.com/russian-troops-set-to-establish-presence-in-central-america/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/category/pearsonsharpreports"
-    },
-    {
-      "text": "",
-      "url": "https://live.oann.com"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/newsletter-2"
-    },
-    {
-      "text": "\u20182000 Mules\u2019 reveals possible ballot trafficking scheme",
-      "url": "https://www.oann.com/2000-mules-offers-bold-claims-about-the-2020-election"
-    },
-    {
-      "text": "Concerning DirecTV",
-      "url": "https://www.oann.com/category/directv/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-united-states-senator-steve-daines-expresses-strong-concerns-to-directv/"
-    },
-    {
-      "text": "READ HERE: United States Senator Steve Daines Expresses Strong Concerns to DirecTV",
-      "url": "https://www.oann.com/read-here-united-states-senator-steve-daines-expresses-strong-concerns-to-directv/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-wv-ag-morrisey-and-oh-ag-yost-raise-concerns-with-directv-canceling-carriage-of-oan/"
-    },
-    {
-      "text": "READ HERE: WV AG Morrisey and OH AG Yost Raise Concerns with DirecTV Canceling Carriage of OAN",
-      "url": "https://www.oann.com/read-here-wv-ag-morrisey-and-oh-ag-yost-raise-concerns-with-directv-canceling-carriage-of-oan/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-texas-ag-ken-paxton-troubled-by-directvs-viewpoint-discrimination-against-oan/"
-    },
-    {
-      "text": "READ HERE: Texas AG Ken Paxton Troubled by DirecTV\u2019s Viewpoint Discrimination Against OAN",
-      "url": "https://www.oann.com/read-here-texas-ag-ken-paxton-troubled-by-directvs-viewpoint-discrimination-against-oan/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-oan-files-lawsuit-against-directv-att-and-att-chairman-william-kennard/"
-    },
-    {
-      "text": "READ HERE: OAN Files Lawsuit Against DirecTV, AT&T, And AT&T Chairman William Kennard",
-      "url": "https://www.oann.com/read-here-oan-files-lawsuit-against-directv-att-and-att-chairman-william-kennard/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-senator-mike-lee-and-senator-ted-cruz-raise-grave-concern-for-the-future-of-journalism-and-political-discourse/"
-    },
-    {
-      "text": "READ HERE: Senator Mike Lee and Senator Ted Cruz Raise Grave Concern for the Future of Journalism and Political Discourse",
-      "url": "https://www.oann.com/read-here-senator-mike-lee-and-senator-ted-cruz-raise-grave-concern-for-the-future-of-journalism-and-political-discourse/"
-    },
-    {
-      "text": "Contact",
-      "url": "https://www.oann.com/contactus/"
-    },
-    {
-      "text": "Where to Watch",
-      "url": "https://www.oann.com/wheretowatch/"
-    },
-    {
-      "text": "Affiliate Relations",
-      "url": "https://www.oann.com/affiliaterelations/"
-    },
-    {
-      "text": "Brand",
-      "url": "https://www.oann.com/brand-id/"
-    },
-    {
-      "text": "Careers",
-      "url": "https://www.oann.com/careers/"
-    },
-    {
-      "text": "Terms",
-      "url": "http://www.oann.com/terms.html"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.oann.com/app-privacy/"
-    },
-    {
-      "text": "Cookie Policy",
-      "url": "https://www.oann.com/cookie-policy/"
-    }
-  ],
   "server": "ia802506.us.archive.org",
-  "uniq": 1922899237,
+  "uniq": 781357251,
   "workable_servers": [
     "ia802506.us.archive.org",
     "ia902506.us.archive.org"
