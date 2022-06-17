@@ -33,11 +33,6 @@ runs:
       with:
         name: hyperlinks
 
-    - id: list
-      name: List
-      run: ls -alF
-      shell: bash
-
     - id: archive
       name: Archive
       run: pipenv run python -m newshomepages.archive ${{ inputs.command }} ${{ inputs.source }}
