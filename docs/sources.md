@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 109 sites.
+The archiving routine is currently capturing 110 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -16,6 +16,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Animal Político](https://www.animalpolitico.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pajaropolitico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pajaropolitico.xml)|
 |[Appleton Post Crescent](https://www.postcrescent.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/postcrescent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/postcrescent.xml)|
 |[BBC](https://www.bbc.com/news)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bbc.xml)|
+|[Baltimore Banner](https://www.thebaltimorebanner.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebanner.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimorebanner.xml)|
 |[Blaze](https://www.theblaze.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theblaze.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theblaze.xml)|
 |[Bongino Report](https://bonginoreport.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bonginoreport.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bonginoreport.xml)|
 |[Breitbart](https://www.breitbart.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breitbartnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews.xml)|
