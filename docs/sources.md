@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 110 sites.
+The archiving routine is currently capturing 111 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -84,6 +84,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Onion](https://theonion.com)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theonion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml)|
 |[Orange County Register](https://www.ocregister.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ocregister.xml)|
 |[ProPublica](https://www.propublica.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/propublica.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/propublica.xml)|
+|[Puck](https://puck.news/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pucknews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pucknews.xml)|
 |[Quad City Times](https://qctimes.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/qctimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/qctimes.xml)|
 |[RIA Novosti](https://ria.ru/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rianru.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rianru.xml)|
 |[Riverside Press-Enterprise](https://www.pe.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pressenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pressenterprise.xml)|
