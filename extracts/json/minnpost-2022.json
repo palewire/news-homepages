@@ -1,5 +1,5 @@
 {
-  "created": 1655425159,
+  "created": 1655511615,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/minnpost-2022",
@@ -3208,31 +3208,199 @@
       "sha1": "61f147c770c7c35eb7e452624c3caf9afccb3447"
     },
     {
+      "name": "minnpost-2022-06-17T07:54:59.556147-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655470506",
+      "size": "32498",
+      "md5": "cac3bf90c779356f69a06143e968e49f",
+      "crc32": "e64f3230",
+      "sha1": "89d3838c6007d070d53cbbd95cc5e6f057badbe2",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-06-17T07:54:59.556147-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655470508",
+      "size": "25008",
+      "md5": "3950503f3cb29278fe646a30f5055b06",
+      "crc32": "d0186775",
+      "sha1": "77b89feb101f4efb860f6aa0ceeda6d20d990927",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-06-17T07:54:59.556147-05:00.jpg",
+      "source": "original",
+      "mtime": "1655470505",
+      "size": "293504",
+      "md5": "09ce23d6ed3ea3c311c1feeb7adb760f",
+      "crc32": "9036fa92",
+      "sha1": "013c037450284f3c9ea3eb2a44443d6af83febd9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-06-17T07:54:59.556147-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-06-17T07:54:59.556147-05:00.jpg",
+      "mtime": "1655470586",
+      "size": "9602",
+      "md5": "682869685974543ab0972ff42f8ca261",
+      "crc32": "beb261ac",
+      "sha1": "606f34f5cc13ad039fcdb1a7b1accac38a9601da"
+    },
+    {
+      "name": "minnpost-2022-06-17T08:33:46.306718-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655472830",
+      "size": "32499",
+      "md5": "38e653e979813316bf8132471b4d5c3f",
+      "crc32": "f24d5c98",
+      "sha1": "5757e298c0458913729131e6428ff2a00b83e886",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-06-17T08:33:46.306718-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655472831",
+      "size": "25008",
+      "md5": "3950503f3cb29278fe646a30f5055b06",
+      "crc32": "d0186775",
+      "sha1": "77b89feb101f4efb860f6aa0ceeda6d20d990927",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-06-17T08:33:46.306718-05:00.jpg",
+      "source": "original",
+      "mtime": "1655472827",
+      "size": "293589",
+      "md5": "88a1239bbff850450d341577261eedc3",
+      "crc32": "2c0b5450",
+      "sha1": "6b173a3471154a0e4d5a113eee367691c984341e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-06-17T08:33:46.306718-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-06-17T08:33:46.306718-05:00.jpg",
+      "mtime": "1655472924",
+      "size": "9604",
+      "md5": "1bb0e59f3e6ae486de9ebddce589f75d",
+      "crc32": "187ecffc",
+      "sha1": "2da850cf1e74438d66021c93fc6547ef4c1d842d"
+    },
+    {
+      "name": "minnpost-2022-06-17T12:22:20.719480-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655486552",
+      "size": "32279",
+      "md5": "ef1b5dd614d6a365330a684176c8ab69",
+      "crc32": "e65434b9",
+      "sha1": "57934e9f60b3e7594e8be257c3d2b2dd522aed56",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-06-17T12:22:20.719480-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655486553",
+      "size": "25135",
+      "md5": "2692d60910836dedded5e79962d9188f",
+      "crc32": "109bc8fb",
+      "sha1": "0446ef488990812bf181d36fa2df0683fa803080",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-06-17T12:22:20.719480-05:00.jpg",
+      "source": "original",
+      "mtime": "1655486549",
+      "size": "293263",
+      "md5": "36baf36abaff727ea050c15730889cb3",
+      "crc32": "fb1f0570",
+      "sha1": "1e60c04e05fc4ffdfbf9eb2765b83a39b16a34eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-06-17T12:22:20.719480-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-06-17T12:22:20.719480-05:00.jpg",
+      "mtime": "1655486647",
+      "size": "9832",
+      "md5": "f038b2c2a882dd2eeee7acbf9536480c",
+      "crc32": "2d680f85",
+      "sha1": "642e32d74c3c433ae123c9842fac84e6f95cdbca"
+    },
+    {
+      "name": "minnpost-2022-06-17T16:02:26.441703-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655499753",
+      "size": "32207",
+      "md5": "acbf539317603fba113a736f8be9c14e",
+      "crc32": "9b015b7b",
+      "sha1": "46f49c972bc67ae4aabe043f09dd5a20b2d8964d",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-06-17T16:02:26.441703-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655499755",
+      "size": "25119",
+      "md5": "955e2c8757b98acd1faea752c470a8dc",
+      "crc32": "631b7fe4",
+      "sha1": "3c2b17451bff4a06df81b2f2ce4eca94f28c4d06",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-06-17T16:02:26.441703-05:00.jpg",
+      "source": "original",
+      "mtime": "1655499752",
+      "size": "288988",
+      "md5": "cf9eafdcb452e003140f9207d390f39b",
+      "crc32": "ca16d4a0",
+      "sha1": "cdbe2799fb05975ee8ca3532d994fc29bcaedb4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-06-17T16:02:26.441703-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-06-17T16:02:26.441703-05:00.jpg",
+      "mtime": "1655499896",
+      "size": "9831",
+      "md5": "eded3041731686ba0880daf2e83399d8",
+      "crc32": "5d11486b",
+      "sha1": "42813f4bf3262aaacbe85ee4c74e5eb25f1ec512"
+    },
+    {
       "name": "minnpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9cc64acb67cf328a8fc9e605bfca9ad780755661",
-      "mtime": "1655392028",
-      "size": "65909",
-      "md5": "3f8fec1214f56724ac0eb12e19907452",
-      "crc32": "4f3b6a37",
-      "sha1": "58e2ac205f524dfc0128bfbc80cf762850d4b697",
+      "btih": "d1b89b7a9d923697acb7aba90186385e257bcb65",
+      "mtime": "1655499902",
+      "size": "69285",
+      "md5": "4f653355f101468b4116428ab613b978",
+      "crc32": "92195018",
+      "sha1": "957a4dcd86c04f6e5f307ae969579b550ac15045",
       "format": "Archive BitTorrent"
     },
     {
       "name": "minnpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94579717118736070a2196e8b7574608",
+      "md5": "55d627d40e9e0dac7549b4065157c90e",
       "summation": "md5"
     },
     {
       "name": "minnpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655391974",
-      "size": "368640",
-      "md5": "04ea0db3be8364f43b752f1777247ccb",
-      "crc32": "c7ce9881",
-      "sha1": "debb7d736c58d71b251e6170e07687f1150d4270",
+      "mtime": "1655499836",
+      "size": "385024",
+      "md5": "9f959cb27d2180bc303f97c8a758635b",
+      "crc32": "84e74c1e",
+      "sha1": "618e6525be402f84e63b3b601e10bc75eba076d4",
       "format": "Metadata"
     },
     {
@@ -3246,9 +3414,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "item_last_updated": 1655392028,
-  "item_size": 31836618,
+  "files_count": 325,
+  "item_last_updated": 1655499902,
+  "item_size": 33294344,
   "metadata": {
     "identifier": "minnpost-2022",
     "collection": [
@@ -3379,6 +3547,54 @@
       "url": "https://www.minnpost.com/news/"
     },
     {
+      "text": "Greater Minnesota",
+      "url": "https://www.minnpost.com/greater-minnesota/"
+    },
+    {
+      "text": "Emerging Minnesota farmers get a boost in the form of down payment assistance",
+      "url": "https://www.minnpost.com/greater-minnesota/2022/06/emerging-minnesota-farmers-get-a-boost-in-the-form-of-down-payment-assistance/"
+    },
+    {
+      "text": "Walker Orenstein",
+      "url": "https://www.minnpost.com/author/walker-orenstein/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t",
+      "url": "https://www.minnpost.com/greater-minnesota/2022/06/emerging-minnesota-farmers-get-a-boost-in-the-form-of-down-payment-assistance/"
+    },
+    {
+      "text": "The Glean: Latest headlines from around Minnesota",
+      "url": "https://www.minnpost.com/glean/"
+    },
+    {
+      "text": "Minneapolis City Council settles three police misconduct lawsuits for $1 million",
+      "url": "https://www.minnpost.com/glean/2022/06/minneapolis-city-council-settles-three-police-misconduct-lawsuits-for-1-million/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.minnpost.com/news/"
+    },
+    {
+      "text": "D.C. Memo",
+      "url": "https://www.minnpost.com/dc-memo/"
+    },
+    {
+      "text": "D.C. Memo: Something is better than nothing",
+      "url": "https://www.minnpost.com/dc-memo/2022/06/d-c-memo-something-is-better-than-nothing/"
+    },
+    {
+      "text": "Ana Radelat",
+      "url": "https://www.minnpost.com/author/ana-radelat/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t",
+      "url": "https://www.minnpost.com/dc-memo/2022/06/d-c-memo-something-is-better-than-nothing/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.minnpost.com/news/"
+    },
+    {
       "text": "State Government",
       "url": "https://www.minnpost.com/state-government/"
     },
@@ -3395,12 +3611,24 @@
       "url": "https://www.minnpost.com/state-government/2022/06/even-minnesotas-state-economist-isnt-so-sure-about-the-economy-right-now/"
     },
     {
-      "text": "The Glean: Latest headlines from around Minnesota",
-      "url": "https://www.minnpost.com/glean/"
+      "text": "News",
+      "url": "https://www.minnpost.com/news/"
     },
     {
-      "text": "Judge halts implementation of Minneapolis\u2019 2040 plan",
-      "url": "https://www.minnpost.com/glean/2022/06/judge-halts-implementation-of-minneapolis-2040-plan/"
+      "text": "Elections",
+      "url": "https://www.minnpost.com/elections/"
+    },
+    {
+      "text": "DFL hopes its \u2018Democracy\u2019s North Star\u2019 pitch wins Minnesota an early presidential primary spot",
+      "url": "https://www.minnpost.com/elections/2022/06/dfl-hopes-its-democracys-north-star-pitch-wins-minnesota-an-early-presidential-primary-spot/"
+    },
+    {
+      "text": "Ana Radelat",
+      "url": "https://www.minnpost.com/author/ana-radelat/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t",
+      "url": "https://www.minnpost.com/elections/2022/06/dfl-hopes-its-democracys-north-star-pitch-wins-minnesota-an-early-presidential-primary-spot/"
     },
     {
       "text": "News",
@@ -3467,59 +3695,19 @@
       "url": "https://www.minnpost.com/greater-minnesota/2022/06/poll-voters-in-greater-minnesota-are-unhappy-with-democratic-leaders-but-open-to-gun-regulations-abortion-access/"
     },
     {
-      "text": "News",
-      "url": "https://www.minnpost.com/news/"
+      "text": "\n\t\t\t\t\t\t\t",
+      "url": "https://www.minnpost.com/state-government/2022/06/poll-walz-holds-slight-edge-over-republican-scott-jensen-among-minnesota-voters/"
     },
     {
-      "text": "Race & Health Equity",
-      "url": "https://www.minnpost.com/race-health-equity/"
-    },
-    {
-      "text": "Scams target Minnesota\u2019s\u00a0immigrant communities",
-      "url": "https://www.minnpost.com/race-health-equity/2022/06/scams-target-minnesotas-immigrant-communities/"
-    },
-    {
-      "text": "Ava Kian",
-      "url": "https://www.minnpost.com/author/ava-kian/"
+      "text": "Poll: Walz holds slight edge over Republican Scott Jensen among Minnesota voters",
+      "url": "https://www.minnpost.com/state-government/2022/06/poll-walz-holds-slight-edge-over-republican-scott-jensen-among-minnesota-voters/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t",
-      "url": "https://www.minnpost.com/race-health-equity/2022/06/scams-target-minnesotas-immigrant-communities/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.minnpost.com/news/"
-    },
-    {
-      "text": "Scarcity and increasingly higher prices for food may mean a windfall for Minnesota\u2019s wheat farmers",
-      "url": "https://www.minnpost.com/news/2022/06/scarcity-and-increasingly-higher-prices-for-food-may-mean-a-windfall-for-minnesotas-wheat-farmers/"
-    },
-    {
-      "text": "Ana Radelat",
-      "url": "https://www.minnpost.com/author/ana-radelat/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t",
-      "url": "https://www.minnpost.com/news/2022/06/scarcity-and-increasingly-higher-prices-for-food-may-mean-a-windfall-for-minnesotas-wheat-farmers/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.minnpost.com/news/"
-    },
-    {
-      "text": "Data & Maps",
-      "url": "https://www.minnpost.com/data/"
-    },
-    {
-      "text": "MinnPost poll reveals two-thirds of Minnesotans oppose ban on abortions",
       "url": "https://www.minnpost.com/data/2022/06/minnpost-poll-reveals-two-thirds-of-minnesotans-oppose-ban-on-abortions/"
     },
     {
-      "text": "Greta Kaul",
-      "url": "https://www.minnpost.com/author/greta-kaul/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t",
+      "text": "MinnPost poll reveals two-thirds of Minnesotans oppose ban on abortions",
       "url": "https://www.minnpost.com/data/2022/06/minnpost-poll-reveals-two-thirds-of-minnesotans-oppose-ban-on-abortions/"
     },
     {
@@ -3553,22 +3741,6 @@
     {
       "text": "Should Minnesota have a full-time Legislature?",
       "url": "https://www.minnpost.com/state-government/2022/04/should-minnesota-have-a-full-time-legislature/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t",
-      "url": "https://www.minnpost.com/health/2020/03/tracking-the-minnesota-covid-19-numbers/"
-    },
-    {
-      "text": "Tracking the Minnesota COVID-19 numbers",
-      "url": "https://www.minnpost.com/health/2020/03/tracking-the-minnesota-covid-19-numbers/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t",
-      "url": "https://www.minnpost.com/state-government/2022/05/minnesota-telecom-companies-are-seeking-to-block-a-controversial-broadband-developer-from-using-311-million-in-federal-grants/"
-    },
-    {
-      "text": "Minnesota telecom companies are seeking to block a controversial broadband developer from using $311 million in federal grants",
-      "url": "https://www.minnpost.com/state-government/2022/05/minnesota-telecom-companies-are-seeking-to-block-a-controversial-broadband-developer-from-using-311-million-in-federal-grants/"
     },
     {
       "text": "other free newsletter options",
@@ -3640,6 +3812,58 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t",
+      "url": "https://www.minnpost.com/macro-micro-minnesota/2022/06/is-the-fed-risking-a-recession/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.minnpost.com/opinion/"
+    },
+    {
+      "text": "Macro, Micro, Minnesota",
+      "url": "https://www.minnpost.com/macro-micro-minnesota/"
+    },
+    {
+      "text": "Is the Fed risking a recession?",
+      "url": "https://www.minnpost.com/macro-micro-minnesota/2022/06/is-the-fed-risking-a-recession/"
+    },
+    {
+      "text": "Louis D. Johnston",
+      "url": "https://www.minnpost.com/author/louis-d-johnston/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t",
+      "url": "https://www.minnpost.com/community-voices/2022/06/minnesota-use-your-sizable-surplus-to-strengthen-public-safety-and-invest-in-the-next-generation/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.minnpost.com/opinion/"
+    },
+    {
+      "text": "Community Voices",
+      "url": "https://www.minnpost.com/community-voices/"
+    },
+    {
+      "text": "Minnesota, use your sizable surplus to strengthen public safety and invest in the next generation",
+      "url": "https://www.minnpost.com/community-voices/2022/06/minnesota-use-your-sizable-surplus-to-strengthen-public-safety-and-invest-in-the-next-generation/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t",
+      "url": "https://www.minnpost.com/community-voices/2022/06/five-things-to-know-about-the-feds-big-interest-rate-increase-and-how-it-will-affect-you/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.minnpost.com/opinion/"
+    },
+    {
+      "text": "Community Voices",
+      "url": "https://www.minnpost.com/community-voices/"
+    },
+    {
+      "text": "Five things to know about the Fed\u2019s big interest rate increase and how it will affect you",
+      "url": "https://www.minnpost.com/community-voices/2022/06/five-things-to-know-about-the-feds-big-interest-rate-increase-and-how-it-will-affect-you/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t",
       "url": "https://www.minnpost.com/community-voices/2022/06/delayed-vote-on-minneapolis-city-coordinator-leaves-staffers-in-a-precarious-position/"
     },
     {
@@ -3655,76 +3879,24 @@
       "url": "https://www.minnpost.com/community-voices/2022/06/delayed-vote-on-minneapolis-city-coordinator-leaves-staffers-in-a-precarious-position/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t",
+      "text": "Minnesota's energy and climate needs absolutely require more nuclear power",
       "url": "https://www.minnpost.com/community-voices/2022/06/minnesotas-energy-and-climate-needs-absolutely-require-more-nuclear-power/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.minnpost.com/opinion/"
-    },
-    {
-      "text": "Community Voices",
-      "url": "https://www.minnpost.com/community-voices/"
-    },
-    {
-      "text": "Minnesota\u2019s energy and climate needs absolutely require more nuclear power",
-      "url": "https://www.minnpost.com/community-voices/2022/06/minnesotas-energy-and-climate-needs-absolutely-require-more-nuclear-power/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t",
-      "url": "https://www.minnpost.com/eric-black-ink/2022/06/the-jan-6-committee-plumbs-the-fragile-ego-that-fueled-the-capitol-attack/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.minnpost.com/opinion/"
-    },
-    {
-      "text": "Eric Black Ink",
-      "url": "https://www.minnpost.com/eric-black-ink/"
     },
     {
       "text": "The Jan. 6 committee plumbs the fragile ego that fueled the Capitol attack",
       "url": "https://www.minnpost.com/eric-black-ink/2022/06/the-jan-6-committee-plumbs-the-fragile-ego-that-fueled-the-capitol-attack/"
     },
     {
-      "text": "Eric Black",
-      "url": "https://www.minnpost.com/author/eric-black/"
+      "text": "Scarcity and increasingly higher prices for food may mean a windfall for Minnesota\u2019s wheat farmers",
+      "url": "https://www.minnpost.com/news/2022/06/scarcity-and-increasingly-higher-prices-for-food-may-mean-a-windfall-for-minnesotas-wheat-farmers/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t",
-      "url": "https://www.minnpost.com/community-voices/2022/06/forest-service-analysis-of-boundary-waters-mining-will-proceed-undeterred-by-disingenuity-from-stauber-and-friends/"
+      "text": "Poll: Voters in Greater Minnesota are unhappy with Democratic leaders, but open to gun regulations, abortion access",
+      "url": "https://www.minnpost.com/greater-minnesota/2022/06/poll-voters-in-greater-minnesota-are-unhappy-with-democratic-leaders-but-open-to-gun-regulations-abortion-access/"
     },
     {
-      "text": "Opinion",
-      "url": "https://www.minnpost.com/opinion/"
-    },
-    {
-      "text": "Community Voices",
-      "url": "https://www.minnpost.com/community-voices/"
-    },
-    {
-      "text": "Forest Service analysis of Boundary Waters mining will proceed, undeterred by disingenuity from Stauber and friends",
-      "url": "https://www.minnpost.com/community-voices/2022/06/forest-service-analysis-of-boundary-waters-mining-will-proceed-undeterred-by-disingenuity-from-stauber-and-friends/"
-    },
-    {
-      "text": "An impressive opening act for the Jan. 6 committee",
-      "url": "https://www.minnpost.com/eric-black-ink/2022/06/an-impressive-opening-act-for-the-jan-6-committee/"
-    },
-    {
-      "text": "Regardless of seditious conspiracy charges\u2019 outcome, extreme right-wing groups like Proud Boys seek to build a white nation",
-      "url": "https://www.minnpost.com/community-voices/2022/06/regardless-of-seditious-conspiracy-charges-outcome-extreme-right-wing-groups-like-proud-boys-seek-to-build-a-white-nation/"
-    },
-    {
-      "text": "St. Paul\u2019s oldest bike lane deserves an upgrade",
-      "url": "https://www.minnpost.com/cityscape/2022/06/st-pauls-oldest-bike-lane-deserves-an-upgrade/"
-    },
-    {
-      "text": "Minnesota's energy and climate needs absolutely require more nuclear power",
-      "url": "https://www.minnpost.com/community-voices/2022/06/minnesotas-energy-and-climate-needs-absolutely-require-more-nuclear-power/"
-    },
-    {
-      "text": "Poll: Walz holds slight edge over Republican Scott Jensen among Minnesota voters",
-      "url": "https://www.minnpost.com/state-government/2022/06/poll-walz-holds-slight-edge-over-republican-scott-jensen-among-minnesota-voters/"
+      "text": "New MinnPost poll shows majority support for stronger gun laws in the state following Uvalde massacre",
+      "url": "https://www.minnpost.com/news/2022/06/new-minnpost-poll-shows-majority-support-for-stronger-gun-laws-in-the-state-following-uvalde-massacre/"
     },
     {
       "text": "Environment",
@@ -4000,7 +4172,7 @@
     }
   ],
   "server": "ia902502.us.archive.org",
-  "uniq": 930603753,
+  "uniq": 436468683,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

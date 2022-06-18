@@ -1,5 +1,5 @@
 {
-  "created": 1655425179,
+  "created": 1655511629,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -3396,31 +3396,199 @@
       "sha1": "ce14f53658358fff5836fdb68fb6a69191386d53"
     },
     {
+      "name": "oaklandside-2022-06-17T05:55:45.919743-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655470550",
+      "size": "31562",
+      "md5": "2edb27607d3fdf15e685eba21dea255e",
+      "crc32": "f39cbf42",
+      "sha1": "8152a2b4f2072d6ba694342cbb75d2678dca3da8",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-17T05:55:45.919743-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655470552",
+      "size": "28798",
+      "md5": "576fa85aa332e864dbb819c33adcf629",
+      "crc32": "8961e775",
+      "sha1": "31e6515a20a34311231aec294d1c1fcab8faa0d4",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-17T05:55:45.919743-07:00.jpg",
+      "source": "original",
+      "mtime": "1655470548",
+      "size": "387252",
+      "md5": "6ff8a45ae4737a230272fd332956783b",
+      "crc32": "824952fd",
+      "sha1": "98a6eece1008f78429d40d79f2bbb69b21b57a5d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-06-17T05:55:45.919743-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-06-17T05:55:45.919743-07:00.jpg",
+      "mtime": "1655470598",
+      "size": "9529",
+      "md5": "b906771be333268ebc1eb1df0a55ce8c",
+      "crc32": "491b8c84",
+      "sha1": "1fecfcb302d646b389ce546336eaeaf6490a9141"
+    },
+    {
+      "name": "oaklandside-2022-06-17T06:34:03.192491-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655472846",
+      "size": "32177",
+      "md5": "8cedb62b87001df38beeb844c4c53512",
+      "crc32": "6937dee3",
+      "sha1": "54d3d40564d5b8124b4854954781a54b7d018c34",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-17T06:34:03.192491-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655472848",
+      "size": "28798",
+      "md5": "576fa85aa332e864dbb819c33adcf629",
+      "crc32": "8961e775",
+      "sha1": "31e6515a20a34311231aec294d1c1fcab8faa0d4",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-17T06:34:03.192491-07:00.jpg",
+      "source": "original",
+      "mtime": "1655472844",
+      "size": "387252",
+      "md5": "6ff8a45ae4737a230272fd332956783b",
+      "crc32": "824952fd",
+      "sha1": "98a6eece1008f78429d40d79f2bbb69b21b57a5d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-06-17T06:34:03.192491-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-06-17T06:34:03.192491-07:00.jpg",
+      "mtime": "1655472929",
+      "size": "9529",
+      "md5": "b906771be333268ebc1eb1df0a55ce8c",
+      "crc32": "491b8c84",
+      "sha1": "1fecfcb302d646b389ce546336eaeaf6490a9141"
+    },
+    {
+      "name": "oaklandside-2022-06-17T10:22:34.593631-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655486557",
+      "size": "31764",
+      "md5": "ad4e5fac85e2886c4eea7cc174dde959",
+      "crc32": "bb25bfab",
+      "sha1": "3e42a4508f1e3412611a4fcd5122702c4ac7b76f",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-17T10:22:34.593631-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655486559",
+      "size": "28798",
+      "md5": "576fa85aa332e864dbb819c33adcf629",
+      "crc32": "8961e775",
+      "sha1": "31e6515a20a34311231aec294d1c1fcab8faa0d4",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-17T10:22:34.593631-07:00.jpg",
+      "source": "original",
+      "mtime": "1655486556",
+      "size": "389810",
+      "md5": "d99d4081148ade861a01e770f1a5fa20",
+      "crc32": "42589d56",
+      "sha1": "baa1be25dc3d831f09dac3e82bb0cdc00ef2bd51",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-06-17T10:22:34.593631-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-06-17T10:22:34.593631-07:00.jpg",
+      "mtime": "1655486621",
+      "size": "9558",
+      "md5": "d39ccb48a036d6addc001931b67fcbba",
+      "crc32": "c7661911",
+      "sha1": "761715a381b85c5609fed5142b980a44799d549a"
+    },
+    {
+      "name": "oaklandside-2022-06-17T14:02:36.255317-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655499764",
+      "size": "31982",
+      "md5": "4a860e60abe628bd631da89468eb4c9d",
+      "crc32": "fc9958c8",
+      "sha1": "ec91c51e4e5bedd831fdbf9bee15ca66db45ffd2",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-17T14:02:36.255317-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655499765",
+      "size": "28844",
+      "md5": "76439c8a9f049c33102f9911ec2376ee",
+      "crc32": "49e46f58",
+      "sha1": "9c8676e97d673faf104cd5b1f83a1a83dff2bc20",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-17T14:02:36.255317-07:00.jpg",
+      "source": "original",
+      "mtime": "1655499761",
+      "size": "382816",
+      "md5": "47d34d4c619ac1a30de664743468631a",
+      "crc32": "6604fa97",
+      "sha1": "1c2d595f0d2778b039765a4f647384297414a9c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-06-17T14:02:36.255317-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-06-17T14:02:36.255317-07:00.jpg",
+      "mtime": "1655499882",
+      "size": "9481",
+      "md5": "edd09dd23f7d5b9f979d72219dea4636",
+      "crc32": "efa139cf",
+      "sha1": "766cbe8d7657a30d54bec303c8ceb632911734b1"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "560afc3769b56cbf11d6b135e50e2c58c71b2880",
-      "mtime": "1655387124",
-      "size": "70513",
-      "md5": "810be04a7fefefc538af984e26e462d2",
-      "crc32": "fbcd4860",
-      "sha1": "6a8452c35cea209da9f76c78b0a44a074d6e5d4a",
+      "btih": "73bc5a6b951b205a9647b5214c4364768c282a07",
+      "mtime": "1655499888",
+      "size": "73957",
+      "md5": "4cd1e4b58c85f03d84f2d2e6e6d48fd6",
+      "crc32": "6daae9ff",
+      "sha1": "c4c9dbeea0ab5a3f21eaf28dd86177a7baecc2d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "110369551d8bde8d45f5c8bbae25e159",
+      "md5": "7dc4313ddf9c8211f3cef8e60f05cc0b",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655387073",
-      "size": "380928",
-      "md5": "245f9171e2b39d25b435ca5ade588184",
-      "crc32": "70b70544",
-      "sha1": "2c9d7d8fd3cc4eeb9ff26c426755d34da8862dc0",
+      "mtime": "1655499819",
+      "size": "401408",
+      "md5": "944ece851bd00afdb2f6cda4ee8df12b",
+      "crc32": "c461ab84",
+      "sha1": "d0344e015ed4aea44c1263736309416391ff0ed8",
       "format": "Metadata"
     },
     {
@@ -3434,9 +3602,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 326,
-  "item_last_updated": 1655387124,
-  "item_size": 38765730,
+  "files_count": 342,
+  "item_last_updated": 1655499888,
+  "item_size": 40617604,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -3620,11 +3788,11 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/15/alysse-castro-wins-alameda-county-superintendent-race-against-incumbent-l-k-monroe/"
+      "url": "https://oaklandside.org/2022/06/17/gun-violence-curriculum-oakland-teachers-vision-quilt/"
     },
     {
-      "text": "Alysse Castro wins Alameda County superintendent race against incumbent L.K. Monroe",
-      "url": "https://oaklandside.org/2022/06/15/alysse-castro-wins-alameda-county-superintendent-race-against-incumbent-l-k-monroe/"
+      "text": "How can schools teach about gun violence? These Oakland teachers created an entire curriculum",
+      "url": "https://oaklandside.org/2022/06/17/gun-violence-curriculum-oakland-teachers-vision-quilt/"
     },
     {
       "text": "Ashley McBride",
@@ -3632,7 +3800,27 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/15/oakland-unified-school-board-district-six-appointment/"
+      "url": "https://oaklandside.org/2022/06/16/city-reduces-speed-limit-around-oakland-schools-to-15-mph/"
+    },
+    {
+      "text": "City reduces speed limit around Oakland schools to 15 mph",
+      "url": "https://oaklandside.org/2022/06/16/city-reduces-speed-limit-around-oakland-schools-to-15-mph/"
+    },
+    {
+      "text": "Jose Fermoso",
+      "url": "https://oaklandside.org/author/jose-fermoso/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://oaklandside.org/2022/06/16/the-oaklandsides-most-popular-stories-so-far/"
+    },
+    {
+      "text": "The Oaklandside is 2 today! Here are 10 stories you\u2019ve loved so far",
+      "url": "https://oaklandside.org/2022/06/16/the-oaklandsides-most-popular-stories-so-far/"
+    },
+    {
+      "text": "Tasneem Raja",
+      "url": "https://oaklandside.org/author/tasneem-raja/"
     },
     {
       "text": "The OUSD board has 2 weeks to appoint a D6 director. Meet the applicants",
@@ -3641,18 +3829,6 @@
     {
       "text": "Ashley McBride",
       "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/15/alameda-county-sheriff-race-results-pimary-election-2022/"
-    },
-    {
-      "text": "How Yesenia Sanchez toppled incumbent Alameda County Sheriff Greg Ahern",
-      "url": "https://oaklandside.org/2022/06/15/alameda-county-sheriff-race-results-pimary-election-2022/"
-    },
-    {
-      "text": "David DeBolt",
-      "url": "https://oaklandside.org/author/david-debolt/"
     },
     {
       "text": "Will the \u2018Emerald New Deal\u2019 make it onto Oakland\u2019s November ballot?",
@@ -3669,14 +3845,6 @@
     {
       "text": "Azucena Rasilla",
       "url": "https://oaklandside.org/author/azucena-rasilla/"
-    },
-    {
-      "text": "Meet Lance McGee/Unique Derique: a counselor and a clown who heals with humor",
-      "url": "https://oaklandside.org/2022/06/14/a-counselor-and-a-clown-who-heals-with-humor/"
-    },
-    {
-      "text": "C.J. Hirschfield",
-      "url": "https://oaklandside.org/author/c-j-hirschfield/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -3700,19 +3868,27 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://oaklandside.org/2022/06/15/alameda-county-sheriff-race-results-pimary-election-2022/"
+    },
+    {
+      "text": "How Yesenia Sanchez toppled incumbent Alameda County Sheriff Greg Ahern",
+      "url": "https://oaklandside.org/2022/06/15/alameda-county-sheriff-race-results-pimary-election-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://oaklandside.org/2022/06/15/alysse-castro-wins-alameda-county-superintendent-race-against-incumbent-l-k-monroe/"
+    },
+    {
+      "text": "Alysse Castro wins Alameda County superintendent race against incumbent L.K. Monroe",
+      "url": "https://oaklandside.org/2022/06/15/alysse-castro-wins-alameda-county-superintendent-race-against-incumbent-l-k-monroe/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://oaklandside.org/2022/06/07/alameda-county-supervisor-election-results-2022-district-3/"
     },
     {
       "text": "Alameda County Supervisor election results: Rebecca Kaplan leads in D3 race",
       "url": "https://oaklandside.org/2022/06/07/alameda-county-supervisor-election-results-2022-district-3/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/07/alameda-county-sheriff-primary-election-results-2022/"
-    },
-    {
-      "text": "Alameda County sheriff results: Yesenia Sanchez leads",
-      "url": "https://oaklandside.org/2022/06/07/alameda-county-sheriff-primary-election-results-2022/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -3723,16 +3899,20 @@
       "url": "https://oaklandside.org/2022/06/07/alameda-county-district-attorney-primary-election-results-2022/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/07/alameda-county-superintendent-of-schools-primary-election-results-2022/"
-    },
-    {
-      "text": "Alameda County election results:  Alysse Castro takes lead over L.K. Monroe in superintendent\u2019s race",
-      "url": "https://oaklandside.org/2022/06/07/alameda-county-superintendent-of-schools-primary-election-results-2022/"
-    },
-    {
       "text": "city hall & policing",
       "url": "/category/city-hall-policing/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://oaklandside.org/2022/06/16/oakland-to-close-lake-merritt-roads-for-juneteenth-fourth-of-july/"
+    },
+    {
+      "text": "Oakland to close Lake Merritt roads for Juneteenth, Fourth of July",
+      "url": "https://oaklandside.org/2022/06/16/oakland-to-close-lake-merritt-roads-for-juneteenth-fourth-of-july/"
+    },
+    {
+      "text": "Natalie Orenstein",
+      "url": "https://oaklandside.org/author/natalie-orenstein/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -3757,18 +3937,6 @@
     {
       "text": "Darwin BondGraham",
       "url": "https://oaklandside.org/author/darwin-bondgraham/"
-    },
-    {
-      "text": "David DeBolt",
-      "url": "https://oaklandside.org/author/david-debolt/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/06/city-council-this-week-rental-housing-registry-and-the-zoo-turns-100/"
-    },
-    {
-      "text": "City Council this week: Rental housing registry, and the zoo turns 100",
-      "url": "https://oaklandside.org/2022/06/06/city-council-this-week-rental-housing-registry-and-the-zoo-turns-100/"
     },
     {
       "text": "David DeBolt",
@@ -3860,7 +4028,15 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/03/fruitvale-students-lead-soil-contamination-poisoning/"
+      "url": "https://oaklandside.org/2022/06/07/alameda-county-superintendent-of-schools-primary-election-results-2022/"
+    },
+    {
+      "text": "Alameda County election results:  Alysse Castro takes lead over L.K. Monroe in superintendent\u2019s race",
+      "url": "https://oaklandside.org/2022/06/07/alameda-county-superintendent-of-schools-primary-election-results-2022/"
+    },
+    {
+      "text": "Ashley McBride",
+      "url": "https://oaklandside.org/author/ashley-mcbride/"
     },
     {
       "text": "Fruitvale students tested their soil and found lead contamination. Now they\u2019re campaigning to fix it",
@@ -3895,16 +4071,28 @@
       "url": "https://oaklandside.org/author/ashley-mcbride/"
     },
     {
-      "text": "New program puts Oakland high schoolers in the teachers\u2019 seat",
-      "url": "https://oaklandside.org/2022/05/24/new-program-puts-oakland-high-schoolers-in-the-teachers-seat/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
       "text": "Arts & Community",
       "url": "/category/arts-community/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://oaklandside.org/2022/06/16/icons-among-us-awards-go-to-oakland-innovators/"
+    },
+    {
+      "text": "\u2018Icons Among Us\u2019 awards go to Oakland innovators",
+      "url": "https://oaklandside.org/2022/06/16/icons-among-us-awards-go-to-oakland-innovators/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://oaklandside.org/2022/06/14/a-counselor-and-a-clown-who-heals-with-humor/"
+    },
+    {
+      "text": "Meet Lance McGee/Unique Derique: a counselor and a clown who heals with humor",
+      "url": "https://oaklandside.org/2022/06/14/a-counselor-and-a-clown-who-heals-with-humor/"
+    },
+    {
+      "text": "C.J. Hirschfield",
+      "url": "https://oaklandside.org/author/c-j-hirschfield/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -3929,30 +4117,6 @@
     {
       "text": "Azucena Rasilla",
       "url": "https://oaklandside.org/author/azucena-rasilla/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/10/frances-dinkelspiel-co-founder-of-cityside-and-berkeleyside-is-departing-the-organization/"
-    },
-    {
-      "text": "Frances Dinkelspiel, co-founder of Cityside and Berkeleyside, is departing the organization",
-      "url": "https://oaklandside.org/2022/06/10/frances-dinkelspiel-co-founder-of-cityside-and-berkeleyside-is-departing-the-organization/"
-    },
-    {
-      "text": "Berkeleyside staff",
-      "url": "https://oaklandside.org/author/berkeleyside-staff/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/10/zide-door-psycedelic-magic-mushroom-church-oakland/"
-    },
-    {
-      "text": "Oakland\u2019s psychedelic mushroom church makes a cautious return",
-      "url": "https://oaklandside.org/2022/06/10/zide-door-psycedelic-magic-mushroom-church-oakland/"
-    },
-    {
-      "text": "Jessica De La Torre",
-      "url": "https://oaklandside.org/author/jessica-de-la-torre/"
     },
     {
       "text": "Housing & Homelessness",
@@ -4316,7 +4480,7 @@
     }
   ],
   "server": "ia802503.us.archive.org",
-  "uniq": 504280765,
+  "uniq": 1499540075,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

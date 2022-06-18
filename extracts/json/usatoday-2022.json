@@ -1,5 +1,5 @@
 {
-  "created": 1655425250,
+  "created": 1655499953,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/27/items/usatoday-2022",
@@ -6206,31 +6206,199 @@
       "sha1": "3295feca388254a951b87a9e1e005a7f37318d6d"
     },
     {
+      "name": "usatoday-2022-06-17T08:56:37.211526-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655470608",
+      "size": "30654",
+      "md5": "e954b00ee755b48f354a4163c165c68d",
+      "crc32": "ff0f3440",
+      "sha1": "8a09ef87ad900b5936c5a05dacf06b11c6f741da",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-06-17T08:56:37.211526-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655470610",
+      "size": "35556",
+      "md5": "ab9c84d65d3d499094d12da3279bbc22",
+      "crc32": "76643745",
+      "sha1": "2942bbbc87b07ae9d913523418babd243154e571",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-06-17T08:56:37.211526-04:00.jpg",
+      "source": "original",
+      "mtime": "1655470606",
+      "size": "350083",
+      "md5": "b2f25de688f803493d1823f287b9d4ab",
+      "crc32": "f4674d64",
+      "sha1": "3ee17b83b5a1639f1aed3909c397135f9eddcb70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-06-17T08:56:37.211526-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-06-17T08:56:37.211526-04:00.jpg",
+      "mtime": "1655470725",
+      "size": "8659",
+      "md5": "525a4dffb1f515b5dc8dad6445061f08",
+      "crc32": "bdeb5d40",
+      "sha1": "023a8201b053319a5fac3347010dc7537d1d656a"
+    },
+    {
+      "name": "usatoday-2022-06-17T09:35:58.522670-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655472961",
+      "size": "30444",
+      "md5": "97b14683c98ff3b035bc6e5501e9ccef",
+      "crc32": "e153e707",
+      "sha1": "2f72966350b5c4bb0e848f3f3562bbf442f7a67d",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-06-17T09:35:58.522670-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655472963",
+      "size": "37650",
+      "md5": "61b88d7bbc08bc8646343667a548b359",
+      "crc32": "e50f49ec",
+      "sha1": "8628476f5378fb916c09384dc5a54dbdf67405fa",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-06-17T09:35:58.522670-04:00.jpg",
+      "source": "original",
+      "mtime": "1655472960",
+      "size": "353531",
+      "md5": "45cc1ae180f3056b43b18e3e8b647cc1",
+      "crc32": "c5ce4b81",
+      "sha1": "be3788c70b0791b3dfa94672117d45a28d9267ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-06-17T09:35:58.522670-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-06-17T09:35:58.522670-04:00.jpg",
+      "mtime": "1655473077",
+      "size": "8648",
+      "md5": "1e266042f4042822ce83202415cb311c",
+      "crc32": "edad1f60",
+      "sha1": "0e15d7b5c858759c2565d29be36cc13376863ddb"
+    },
+    {
+      "name": "usatoday-2022-06-17T13:26:21.247921-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655486791",
+      "size": "29857",
+      "md5": "ee20a5ed02668e497e4002db03fd1e27",
+      "crc32": "0390a213",
+      "sha1": "25efa034271a7142aa48a559c4f22c7728ffd6bf",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-06-17T13:26:21.247921-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655486793",
+      "size": "34497",
+      "md5": "3ca454c289347d949cefe95d6dc77f3c",
+      "crc32": "aa11bd2a",
+      "sha1": "d0095af87e5fb95b3c01a26bcd3ac731f69bf730",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-06-17T13:26:21.247921-04:00.jpg",
+      "source": "original",
+      "mtime": "1655486790",
+      "size": "347274",
+      "md5": "b6f0041e1643b424ddb632466788b70c",
+      "crc32": "1bc26b2a",
+      "sha1": "4c35e5725aea47329e78e653dedbcdddc7687733",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-06-17T13:26:21.247921-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-06-17T13:26:21.247921-04:00.jpg",
+      "mtime": "1655486892",
+      "size": "8746",
+      "md5": "680cb710dd4cd604b9382d3f4e6c5bc6",
+      "crc32": "b68aa05f",
+      "sha1": "45f75248a4dcb3295847fee6cad08b4b73c1cbd3"
+    },
+    {
+      "name": "usatoday-2022-06-17T17:04:17.310311-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655499859",
+      "size": "30477",
+      "md5": "643222a74f4d1e3d5fdb9bfce69b7596",
+      "crc32": "eeebb5d1",
+      "sha1": "91093cbb2faefb36f17b222140b5569205c084dd",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-06-17T17:04:17.310311-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655499861",
+      "size": "36641",
+      "md5": "4e94269ac2d3b4c21da61224fda7167f",
+      "crc32": "7c527246",
+      "sha1": "13fd9b764562f6603fd4b65cac9174008a3e9029",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-06-17T17:04:17.310311-04:00.jpg",
+      "source": "original",
+      "mtime": "1655499858",
+      "size": "341941",
+      "md5": "2f4eb69d646ec04a2a293fa395ebdc04",
+      "crc32": "6a056c66",
+      "sha1": "adbc2a1a98bc031fac2fe8aa715917422d886668",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-06-17T17:04:17.310311-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-06-17T17:04:17.310311-04:00.jpg",
+      "mtime": "1655499931",
+      "size": "8775",
+      "md5": "289c2090180490de849dca0a16c47460",
+      "crc32": "ce31d6c4",
+      "sha1": "7e346d33314a920afa669a71e83f45de585408dd"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f76f55f2016238f2159ff67f328d8eb9e04aa50f",
-      "mtime": "1655381295",
-      "size": "125721",
-      "md5": "dd5f8aa9853a88daf7bcb219021c52df",
-      "crc32": "eebb4787",
-      "sha1": "a79b19fad19eb2543b0c2d80fbd74b630ad5ef5b",
+      "btih": "850a350669470515007fae8e05a474666cd73b04",
+      "mtime": "1655499945",
+      "size": "129117",
+      "md5": "985afa2dd9dcb6746c74e491e9d5ac45",
+      "crc32": "50971c7f",
+      "sha1": "c067f0a2bedb8d1e79d876a4192011edab4818fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ab64ad743363803dc32c8ae778788cc",
+      "md5": "19dd34c80158a60ef93978904d4cc8da",
       "summation": "md5"
     },
     {
       "name": "usatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655381217",
-      "size": "679936",
-      "md5": "1e86c0c0168f4021a339af463b105733",
-      "crc32": "3a387997",
-      "sha1": "dc9f1e348d77855680fabeaa53110c36955a1ecf",
+      "mtime": "1655499872",
+      "size": "700416",
+      "md5": "d1d58b042b703d3830e7270a81fda0c7",
+      "crc32": "ad0bbd27",
+      "sha1": "dcd935f356d22d47d2e6e4b6f8bd501b7aed33c2",
       "format": "Metadata"
     },
     {
@@ -6244,9 +6412,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 593,
-  "item_last_updated": 1655381295,
-  "item_size": 63529310,
+  "files_count": 609,
+  "item_last_updated": 1655499945,
+  "item_size": 65246619,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -6264,797 +6432,7 @@
     "addeddate": "2022-03-23 12:05:23"
   },
   "server": "ia902509.us.archive.org",
-  "uniq": 1024325146,
-  "usatoday-2022": [
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "Get loan relief \ud83d\ude0c",
-      "url": "https://www.usatoday.com/story/money/2022/01/21/how-to-get-student-loan-forgiveness-federal-public-service-program/6609660001/"
-    },
-    {
-      "text": "Start the day smarter \u2600\ufe0f",
-      "url": "https://profile.usatoday.com/newsletters/daily-briefing/"
-    },
-    {
-      "text": "Arriving at airport \u2708\ufe0f",
-      "url": "https://www.usatoday.com/story/travel/airline-news/2022/05/13/when-arrive-airport-before-flight/9760951002/"
-    },
-    {
-      "text": "What research says",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2022/06/09/daily-coffee-can-increase-your-lifespan-new-research-says/7541812001/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.usatoday.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.usatoday.com%2F"
-    },
-    {
-      "text": "News",
-      "url": "/news/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/entertainment/"
-    },
-    {
-      "text": "Life",
-      "url": "/life/"
-    },
-    {
-      "text": "Money",
-      "url": "/money/"
-    },
-    {
-      "text": "Tech",
-      "url": "/tech/"
-    },
-    {
-      "text": "Travel",
-      "url": "/travel/"
-    },
-    {
-      "text": "Opinion",
-      "url": "/opinion/"
-    },
-    {
-      "text": "",
-      "url": "/search/"
-    },
-    {
-      "text": "",
-      "url": "/weather/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.usatoday.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.usatoday.com%2F"
-    },
-    {
-      "text": "",
-      "url": "https://login.usatoday.com/USAT-GUP/authenticate?success-url=https%3A%2F%2Fwww.usatoday.com%2F&cancel-url=https%3A%2F%2Fwww.usatoday.com%2F"
-    },
-    {
-      "text": "Fed hikes rates by largest amount in 28 years. What's the impact?",
-      "url": "/story/money/2022/06/15/fed-interest-rates-hike/7631195001/"
-    },
-    {
-      "text": "'1776 Returns' document in Proud Boys' Jan. 6 case called 'devastating'",
-      "url": "/story/news/politics/2022/06/15/1776-returns-proud-boys-enrique-tarrio-zachary-rehl/7640565001/"
-    },
-    {
-      "text": "Women still underrepresented in college sports 50 years after Title IX",
-      "url": "/in-depth/news/investigations/2022/06/03/title-ix-failures-50-years-colleges-women-lack-representation/9664260002/"
-    },
-    {
-      "text": " Trump raised millions to fight election fraud. Here's where that money went.",
-      "url": "/story/news/politics/2022/06/16/trump-pac-election-fraud-jan-6-spent-money/7622885001/"
-    },
-    {
-      "text": "Pence v. Trump: What to expect from the next Jan. 6 hearing Thursday",
-      "url": "/story/news/politics/2022/06/16/jan-6-hearing-what-to-expect/7635345001/"
-    },
-    {
-      "text": "New Beyonc\u00e9 music is coming: What we know about 'Renaissance'",
-      "url": "/story/entertainment/music/2022/06/16/beyonce-renaissance-new-album-2022/7644395001/"
-    },
-    {
-      "text": "2 Americans feared captured by Russian-backed separatists, families say: Ukraine updates",
-      "url": "/story/news/politics/2022/06/16/ukraine-live-updates-americans-feared-missing-near-russian-border/7643438001/"
-    },
-    {
-      "text": " Expert: Marilyn Monroe dress permanently damaged by Kim\u2026",
-      "url": "/story/entertainment/celebrities/2022/06/14/kim-kardashian-damaged-marilyn-monroe-dress-met-gala/7630101001/"
-    },
-    {
-      "text": " Woman used AirTag to track boyfriend, then killed him\u2026",
-      "url": "/story/news/nation/2022/06/15/woman-airtag-track-boyfriend-death/7632348001/"
-    },
-    {
-      "text": " Anthony Fauci, face of US pandemic response, tests\u2026",
-      "url": "/story/news/nation/2022/06/15/anthony-fauci-tests-positive-covid-19-experiencing-mild-symptoms/7638084001/"
-    },
-    {
-      "text": " Commentator blasts Mickelson, LIV Golf: 'Destroying the\u2026",
-      "url": "/story/sports/golf/2022/06/15/brandel-chamblee-golf-channel-phil-mickelson-liv-golf/50371801/"
-    },
-    {
-      "text": " Amazon Prime Day 2022 guide\u2014Early deals, what to expect\u2026",
-      "url": "/story/money/reviewed/2022/06/14/amazon-prime-day-sales-deals-2022/7622189001/"
-    },
-    {
-      "text": " EPA: No safe level for 2 toxic 'forever chemicals,'\u2026",
-      "url": "/story/news/2022/06/15/epa-no-safe-level-toxic-pfas-thousands-water-systems/7632524001/"
-    },
-    {
-      "text": " Amber Heard's sexuality was not a part of the trial. The\u2026",
-      "url": "/story/life/health-wellness/2022/06/15/amber-heard-johnny-depp-violence-bisexual-women/7621083001/"
-    },
-    {
-      "text": " How parents talk to children about Juneteenth and slavery",
-      "url": "/story/news/nation/2022/06/15/parents-teaching-children-juneteenth-slavery/7535475001/"
-    },
-    {
-      "text": " Ford recalls 2.9M vehicles for shifting problem\u2026",
-      "url": "/story/money/cars/2022/06/15/ford-recall-rollaway-escape-fusion-edge/7633818001/"
-    },
-    {
-      "text": " An assault on critical race theory is an assault on\u2026",
-      "url": "/story/opinion/contributors/2022/06/15/critical-race-theory-ibram-kendi-antiracist/7610968001/"
-    },
-    {
-      "text": " Stanley Cup Final: Avalanche down defending champs in OT\u2026",
-      "url": "/story/sports/nhl/2022/06/15/avalanche-beat-lightning-stanley-cup-final-game-1-andre-burakovsky/7642026001/"
-    },
-    {
-      "text": " Biden tells oil companies to cut gasoline costs for\u2026",
-      "url": "/story/news/politics/2022/06/15/biden-oil-execs-gas-prices-americans/7631953001/"
-    },
-    {
-      "text": " Ukraine before and after the war\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://www.usatoday.com/in-depth/graphics/2022/03/16/ukraine-before-and-after-war-images-show-ukraines-devastated-residential-areas/9430530002/"
-    },
-    {
-      "text": " Community heroes wanted!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://acommunitythrives.mightycause.com/giving-events/act22/home?gps-source=BRLMSVCPDGXXACTH&utm_source=usatl&utm_medium=onsite-discover&utm_campaign=acth-bnm-l&utm_content=static&utm_term=act1"
-    },
-    {
-      "text": " Impact of student loan payment pause\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://www.usatoday.com/in-depth/news/education/2022/03/29/student-loan-payment-pause-biden-forgiveness/6925296001/"
-    },
-    {
-      "text": "What to do if you think your kid is delayed from the pandemic ",
-      "url": "/in-depth/news/education/2022/06/15/worried-delays-your-kid-early-intervention-important/9660431002/"
-    },
-    {
-      "text": "Do school police officers reduce gun violence\u2026 ",
-      "url": "/in-depth/news/investigations/2022/06/09/resource-officer-uvalde-texas-shooting-police-school-prison-pipeline/7546136001/"
-    },
-    {
-      "text": "Now trending: How social media has influenced\u2026",
-      "url": "/in-depth/news/investigations/2022/06/07/social-media-influence-instagram-facebook-tiktok-adoptions-of-babies/9734980002/"
-    },
-    {
-      "text": "How adoptive parents fought for foster daughter\u2026",
-      "url": "/in-depth/news/investigations/2022/06/02/family-adoption-foster-care-mental-health-struggles/9258943002/"
-    },
-    {
-      "text": "Uvalde victim's father sends letter to Daniel\u2026",
-      "url": "/story/news/investigations/2022/06/03/uvalde-father-seeks-answers-gun-makers-marketing/7500069001/"
-    },
-    {
-      "text": "More in Investigations",
-      "url": "/news/investigations/"
-    },
-    {
-      "text": "The key to Celtics to forcing Game 7 vs. Warriors\u2026 ",
-      "url": "/story/sports/nba/2022/06/16/celtics-offense-key-success-game-six-nba-finals-warriors/7641174001/"
-    },
-    {
-      "text": "Reds OF opens up about Slap Heard 'Round\u2026",
-      "url": "/story/sports/mlb/columnist/bob-nightengale/2022/06/16/reds-tommy-pham-fantasy-football-joc-pederson/7633581001/"
-    },
-    {
-      "text": "Stanley Cup Final: Avalanche down defending\u2026",
-      "url": "/story/sports/nhl/2022/06/15/avalanche-beat-lightning-stanley-cup-final-game-1-andre-burakovsky/7642026001/"
-    },
-    {
-      "text": "Astros pitchers combine for feat that's never\u2026",
-      "url": "/story/sports/ftw/2022/06/15/astros-pitchers-luis-garcia-phil-maton-immaculate-inning-same-game/50376297/"
-    },
-    {
-      "text": "More in Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "US abortions increased for first time in 30 years\u2026 ",
-      "url": "/story/news/health/2022/06/15/us-abortion-rate-increased-guttmacher/7633229001/"
-    },
-    {
-      "text": "Many women, medical workers could face criminal\u2026",
-      "url": "/story/news/nation/2022/06/12/new-abortion-laws-could-see-many-women-doctors-face-criminal-charges/7571034001/"
-    },
-    {
-      "text": "NY Gov. Hochul signs abortion protection laws",
-      "url": "/videos/news/politics/2022/06/13/gov-kathy-hochul-signs-laws-protecting-new-yorkers-seeking-abortions/7615327001/"
-    },
-    {
-      "text": "Primary Tuesday: South Carolina, Donald Trump\u2026",
-      "url": "/story/news/politics/2022/06/13/primary-election-south-carolina-trump-nevada-abortion/7570288001/"
-    },
-    {
-      "text": "More in Abortion news",
-      "url": "/news/abortion/"
-    },
-    {
-      "text": "IBM, UBER and other top business leaders defend\u2026 ",
-      "url": "/story/news/nation/2022/06/15/businesses-support-daca-recipients-as-program-turns-ten/7632475001/"
-    },
-    {
-      "text": "Pence v. Trump: What to expect from the next\u2026",
-      "url": "/story/news/politics/2022/06/16/jan-6-hearing-what-to-expect/7635345001/"
-    },
-    {
-      "text": "2 Americans feared captured by Russian-backed\u2026",
-      "url": "/story/news/politics/2022/06/16/ukraine-live-updates-americans-feared-missing-near-russian-border/7643438001/"
-    },
-    {
-      "text": "What reparations for Black people could look\u2026",
-      "url": "/story/news/nation/2022/06/16/california-reparations-black-people-could-shape-federal-debate/7533504001/"
-    },
-    {
-      "text": "More in News",
-      "url": "/news/"
-    },
-    {
-      "text": "New Beyonc\u00e9 music is coming: What we know about\u2026 ",
-      "url": "/story/entertainment/music/2022/06/16/beyonce-renaissance-new-album-2022/7644395001/"
-    },
-    {
-      "text": "'Father of the Bride': Why Gloria Estefan's dog\u2026",
-      "url": "/story/entertainment/tv/2022/06/16/gloria-estefan-hbo-father-of-the-bride/7570606001/"
-    },
-    {
-      "text": "ShowBiz Minute: Spacey, Nipsey Hussle, Mo'Nique",
-      "url": "/videos/entertainment/2022/06/16/showbiz-minute-spacey-nipsey-hussle-monique/7644453001/"
-    },
-    {
-      "text": "Marvel movies in order of release. The complete\u2026",
-      "url": "/story/entertainment/movies/2022/06/16/marvel-movies-order-release-date/7616425001/"
-    },
-    {
-      "text": "More in Entertainment",
-      "url": "/entertainment/"
-    },
-    {
-      "text": "Why homebuyers should look at properties during\u2026 ",
-      "url": "/story/money/personalfinance/real-estate/2022/06/16/house-hunting-dont-wait-until-weekend-check-out-properties/50373397/"
-    },
-    {
-      "text": "Is it actually dangerous to use your phone while\u2026",
-      "url": "/story/news/nation/2022/06/16/phone-gas-station-explosion/7490115001/"
-    },
-    {
-      "text": "Fixing Social Security: This aggressive idea\u2026",
-      "url": "/story/money/personalfinance/retirement/2022/06/16/social-security-shortfall-need-based-distribution/50373103/"
-    },
-    {
-      "text": "Workers who refuse health screens might pay\u2026",
-      "url": "/story/news/health/2022/06/16/employees-fight-health-insurance-screenings-cost-some-workers/9825322002/"
-    },
-    {
-      "text": "More in Money",
-      "url": "/money/"
-    },
-    {
-      "text": "Viral trend has people drinking a gallon of water\u2026 ",
-      "url": "/story/life/health-wellness/2022/06/16/how-much-water-drink-per-day/7634830001/"
-    },
-    {
-      "text": "Prince William through the years: Photos",
-      "url": "/picture-gallery/life/entertainthis/2017/06/17/prince-william-photos-through-the-years/102945348/"
-    },
-    {
-      "text": "Keeping It Together: A newsletter to help you cope",
-      "url": "/story/life/2020/04/10/staying-apart-together-newsletter-help-us-cope-coronavirus/2953992001/"
-    },
-    {
-      "text": "Pride celebration evolves and grows",
-      "url": "https://usatodayspecial-va.newsmemory.com/?special=LGBTQ&date=20220604"
-    },
-    {
-      "text": "More in Life",
-      "url": "/life/"
-    },
-    {
-      "text": "Check your Gmail, Facebook, or Netflix accounts\u2026 ",
-      "url": "/story/tech/columnist/komando/2022/06/16/find-out-if-anyone-using-your-gmail-facebook-netflix-accounts/7586535001/"
-    },
-    {
-      "text": "The pros and cons \u2013 and costs \u2013 of owning an EV",
-      "url": "/story/money/cars/2022/06/15/electric-vehicles-pros-cons-costs/7620850001/"
-    },
-    {
-      "text": "'End of an era': Microsoft shuts down Internet\u2026",
-      "url": "/story/tech/2022/06/14/microsoft-shut-down-internet-explorer-wednesday/7626639001/"
-    },
-    {
-      "text": "Find your phone, lock the door and more with 5\u2026",
-      "url": "/story/tech/columnist/komando/2022/06/09/need-find-your-phone-lock-door-5-ways-use-echo-and-alexa/7490459001/"
-    },
-    {
-      "text": "More in Tech",
-      "url": "/tech/"
-    },
-    {
-      "text": "No kids? No problem: What it's like visiting\u2026 ",
-      "url": "/story/travel/experience/america/theme-parks/2022/06/16/disney-world-solo-travel-trip/7467491001/"
-    },
-    {
-      "text": "Layover or stopover? What's the difference\u2026",
-      "url": "/story/travel/airline-news/2022/06/16/booking-flight-layover-stopover/7459181001/"
-    },
-    {
-      "text": "Two major cruise lines requiring masks for\u2026",
-      "url": "/story/travel/2022/06/15/masks-required-select-holland-america-and-princess-voyages/7636664001/"
-    },
-    {
-      "text": "What to know if you planned (or want) to visit\u2026",
-      "url": "/story/travel/experience/national-parks/2022/06/15/yellowstone-national-park-flooding-damages-visitors-info/7632567001/"
-    },
-    {
-      "text": "More in Travel",
-      "url": "/travel/"
-    },
-    {
-      "text": "I've waited a long time to see Marvel\u2019s first\u2026 ",
-      "url": "/story/opinion/voices/2022/06/16/marvel-first-muslim-female-superhero/7580614001/"
-    },
-    {
-      "text": "Muslims and Jews need Supreme Court to back\u2026",
-      "url": "/story/opinion/contributors/2022/06/16/supreme-court-decision-coach-prayer-muslim-jew/7546645001/"
-    },
-    {
-      "text": "An assault on critical race theory is an\u2026",
-      "url": "/story/opinion/contributors/2022/06/15/critical-race-theory-ibram-kendi-antiracist/7610968001/"
-    },
-    {
-      "text": "Republicans, why does Trump still have\u2026",
-      "url": "/story/opinion/columnist/2022/06/15/primary-election-trump-endorsements/7574324001/"
-    },
-    {
-      "text": "More in Opinion",
-      "url": "/opinion/"
-    },
-    {
-      "text": "How to shop early deals at the Nordstrom\u2026 ",
-      "url": "/story/money/reviewed/2022/06/15/nordstrom-anniversary-sale-2022-deals/7555042001/"
-    },
-    {
-      "text": "Amazon Prime Day 2022 guide\u2014Early deals, what to\u2026",
-      "url": "/story/money/reviewed/2022/06/14/amazon-prime-day-sales-deals-2022/7622189001/"
-    },
-    {
-      "text": "The 45+ best Father's Day 2022 deals still\u2026",
-      "url": "/story/money/reviewed/2022/06/15/fathers-day-2022-best-deals/7634845001/"
-    },
-    {
-      "text": "Save an extra 25% at the Tory Burch Semi-Annual\u2026",
-      "url": "/story/money/reviewed/2022/06/14/tory-burch-semi-annual-sale-2022-deals/7613446001/"
-    },
-    {
-      "text": "More in Reviewed",
-      "url": "/tech/reviewedcom/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "Narcolepsy | Search Ads",
-      "url": "https://linkwords.io/?utm_source=taboola&utm_campaign=19071291&pxid=None&click_track_url=//trc.taboola.com/1070267/log/3/unip?en=Click&campaign_bid=0.5303&cn=tb-lan-narcolepsy-causes-dt-gg-aj-tcpa-al26&imp=49808&om_bs=HwMmLAlmHeZXTBkOvXu6Sh1NuUz1_iMxj_ErJmyRxGNLSHHAUsKdH25Fgz9bAC7hRY8KWolILdiH6LfWt3N8MwCZNp6A9gUQtj225_cqFTgaauDyjumdctGJV2qbAyn_O7xhdov0_8DwW5G8vFMJTLkfk-aA4UM0XlSqh37S&utm_medium=paid&utm_source=taboola&utm_campaign=19071291&placement=usatodaydemo&device=Desktop&utm_term=usatodaydemo&adid=3431893430&campaign_id=19071291&postback=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiDAulko_ZCt45qNlP-3AQ&campaign_bid=0.5303&rskey=What+Causes+Excessive+Daytime+Sleepiness%3F+Some+May+Wish+They+Realized+Sooner&sg_uid=bc2b7abcfdcd4b3d89940850407063a4#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiDAulko_ZCt45qNlP-3AQ"
-    },
-    {
-      "text": "What Causes Excessive Daytime Sleepiness? Some May Wish They Realized SoonerNarcolepsy | Search Ads|",
-      "url": "https://linkwords.io/?utm_source=taboola&utm_campaign=19071291&pxid=None&click_track_url=//trc.taboola.com/1070267/log/3/unip?en=Click&campaign_bid=0.5303&cn=tb-lan-narcolepsy-causes-dt-gg-aj-tcpa-al26&imp=49808&om_bs=HwMmLAlmHeZXTBkOvXu6Sh1NuUz1_iMxj_ErJmyRxGNLSHHAUsKdH25Fgz9bAC7hRY8KWolILdiH6LfWt3N8MwCZNp6A9gUQtj225_cqFTgaauDyjumdctGJV2qbAyn_O7xhdov0_8DwW5G8vFMJTLkfk-aA4UM0XlSqh37S&utm_medium=paid&utm_source=taboola&utm_campaign=19071291&placement=usatodaydemo&device=Desktop&utm_term=usatodaydemo&adid=3431893430&campaign_id=19071291&postback=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiDAulko_ZCt45qNlP-3AQ&campaign_bid=0.5303&rskey=What+Causes+Excessive+Daytime+Sleepiness%3F+Some+May+Wish+They+Realized+Sooner&sg_uid=bc2b7abcfdcd4b3d89940850407063a4#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiDAulko_ZCt45qNlP-3AQ"
-    },
-    {
-      "text": "",
-      "url": "https://linkwords.io/?utm_source=taboola&utm_campaign=19071291&pxid=None&click_track_url=//trc.taboola.com/1070267/log/3/unip?en=Click&campaign_bid=0.5303&cn=tb-lan-narcolepsy-causes-dt-gg-aj-tcpa-al26&imp=49808&om_bs=HwMmLAlmHeZXTBkOvXu6Sh1NuUz1_iMxj_ErJmyRxGNLSHHAUsKdH25Fgz9bAC7hRY8KWolILdiH6LfWt3N8MwCZNp6A9gUQtj225_cqFTgaauDyjumdctGJV2qbAyn_O7xhdov0_8DwW5G8vFMJTLkfk-aA4UM0XlSqh37S&utm_medium=paid&utm_source=taboola&utm_campaign=19071291&placement=usatodaydemo&device=Desktop&utm_term=usatodaydemo&adid=3431893430&campaign_id=19071291&postback=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiDAulko_ZCt45qNlP-3AQ&campaign_bid=0.5303&rskey=What+Causes+Excessive+Daytime+Sleepiness%3F+Some+May+Wish+They+Realized+Sooner&sg_uid=bc2b7abcfdcd4b3d89940850407063a4#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiDAulko_ZCt45qNlP-3AQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "NerdWallet NMLS ID# 1617539",
-      "url": "https://www.nerdwallet.com/ur/?utm_content=99b83f&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_032922_ron_d_tb&utm_term=usatodaydemo&mktg_link=3252011857#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCpiEEokr3S45qShdBO"
-    },
-    {
-      "text": "The First Step to Your Dream Home? Comparing lenders.NerdWallet NMLS ID# 1617539|",
-      "url": "https://www.nerdwallet.com/ur/?utm_content=99b83f&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_032922_ron_d_tb&utm_term=usatodaydemo&mktg_link=3252011857#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCpiEEokr3S45qShdBO"
-    },
-    {
-      "text": "",
-      "url": "https://www.nerdwallet.com/ur/?utm_content=99b83f&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_032922_ron_d_tb&utm_term=usatodaydemo&mktg_link=3252011857#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCpiEEokr3S45qShdBO"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Carvana",
-      "url": "https://270.trackingms.com/adServe/aff?oid=603242&pid=413137&subid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCVslkop_eN8uv828zAAQ&ap1=1168&dp1=1168&dp2=Carvana+Financing+-+DSK&tblci=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCVslkop_eN8uv828zAAQ#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCVslkop_eN8uv828zAAQ"
-    },
-    {
-      "text": "Good Car Loans: Thousands Of Cars Under $20,000 Available In\u00a0Ashburn!Carvana|",
-      "url": "https://270.trackingms.com/adServe/aff?oid=603242&pid=413137&subid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCVslkop_eN8uv828zAAQ&ap1=1168&dp1=1168&dp2=Carvana+Financing+-+DSK&tblci=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCVslkop_eN8uv828zAAQ#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCVslkop_eN8uv828zAAQ"
-    },
-    {
-      "text": "",
-      "url": "https://270.trackingms.com/adServe/aff?oid=603242&pid=413137&subid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCVslkop_eN8uv828zAAQ&ap1=1168&dp1=1168&dp2=Carvana+Financing+-+DSK&tblci=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCVslkop_eN8uv828zAAQ#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCVslkop_eN8uv828zAAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Easy Breathe CPAP Company",
-      "url": "https://blog.easybreathe.com/free-cpap-prescription-package-with-airsense/?utm_source=taboola&utm_medium=AirSenseCPAPRx_Product&utm_content=usatodaydemo_TB_AirSenseCPAPRx_Product&utm_keyword=usatodaydemo_TB_AirSenseCPAPRx_Product#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiDVjkAo9bT5maCE3dzUAQ"
-    },
-    {
-      "text": "Skip the Doctor - Upgrade to AirSense 10 Auto CPAP TodayEasy Breathe CPAP Company|",
-      "url": "https://blog.easybreathe.com/free-cpap-prescription-package-with-airsense/?utm_source=taboola&utm_medium=AirSenseCPAPRx_Product&utm_content=usatodaydemo_TB_AirSenseCPAPRx_Product&utm_keyword=usatodaydemo_TB_AirSenseCPAPRx_Product#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiDVjkAo9bT5maCE3dzUAQ"
-    },
-    {
-      "text": "",
-      "url": "https://blog.easybreathe.com/free-cpap-prescription-package-with-airsense/?utm_source=taboola&utm_medium=AirSenseCPAPRx_Product&utm_content=usatodaydemo_TB_AirSenseCPAPRx_Product&utm_keyword=usatodaydemo_TB_AirSenseCPAPRx_Product#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiDVjkAo9bT5maCE3dzUAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Auto Savings Center",
-      "url": "https://popularsearches.net/index.php?rgid=199833&gclid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCM41Yokf2ikKPUlcWMAQ#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCM41Yokf2ikKPUlcWMAQ"
-    },
-    {
-      "text": "Kia's Gorgeous New Lineup Might Leave You SpeechlessAuto Savings Center|",
-      "url": "https://popularsearches.net/index.php?rgid=199833&gclid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCM41Yokf2ikKPUlcWMAQ#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCM41Yokf2ikKPUlcWMAQ"
-    },
-    {
-      "text": "",
-      "url": "https://popularsearches.net/index.php?rgid=199833&gclid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCM41Yokf2ikKPUlcWMAQ#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCM41Yokf2ikKPUlcWMAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Online Bank Account | Search Ads",
-      "url": "https://myfirsttab.com/api/redirect-search?sid=21970&cid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCB500op43SxpHimOcU&subid=SUBID&title=High+Interest+Savings+Accounts+That+Could+Earn+You+A+Small+Fortune&campaign=18343729&site=usatodaydemo&gclid=3421452104&pubid=1168&utm_source=taboola&utm_medium=referral#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCB500op43SxpHimOcU"
-    },
-    {
-      "text": "High Interest Savings Accounts That Could Earn You A Small FortuneOnline Bank Account | Search Ads|",
-      "url": "https://myfirsttab.com/api/redirect-search?sid=21970&cid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCB500op43SxpHimOcU&subid=SUBID&title=High+Interest+Savings+Accounts+That+Could+Earn+You+A+Small+Fortune&campaign=18343729&site=usatodaydemo&gclid=3421452104&pubid=1168&utm_source=taboola&utm_medium=referral#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCB500op43SxpHimOcU"
-    },
-    {
-      "text": "",
-      "url": "https://myfirsttab.com/api/redirect-search?sid=21970&cid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCB500op43SxpHimOcU&subid=SUBID&title=High+Interest+Savings+Accounts+That+Could+Earn+You+A+Small+Fortune&campaign=18343729&site=usatodaydemo&gclid=3421452104&pubid=1168&utm_source=taboola&utm_medium=referral#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCB500op43SxpHimOcU"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "TopGadgetworld",
-      "url": "https://trk.greatdiscount.life/80383b69-8099-4d7e-a580-351949af4c09?campaignid=15465061&site=usatodaydemo&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F9d3d6ac3e5bd7e60ed8fdd668df795bf.png&title=Why+Is+Everyone+Talking+About+This+%2499+Drone%3F&item=3424981062&timestamp=2022-06-16+12%3A04%3A47&platform=Desktop&step={step}&taboolaclickid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCn8VUovvPouuvNiZUN&tblci=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCn8VUovvPouuvNiZUN#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCn8VUovvPouuvNiZUN"
-    },
-    {
-      "text": "Why Is Everyone Talking About This $99 Drone?TopGadgetworld|",
-      "url": "https://trk.greatdiscount.life/80383b69-8099-4d7e-a580-351949af4c09?campaignid=15465061&site=usatodaydemo&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F9d3d6ac3e5bd7e60ed8fdd668df795bf.png&title=Why+Is+Everyone+Talking+About+This+%2499+Drone%3F&item=3424981062&timestamp=2022-06-16+12%3A04%3A47&platform=Desktop&step={step}&taboolaclickid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCn8VUovvPouuvNiZUN&tblci=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCn8VUovvPouuvNiZUN#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCn8VUovvPouuvNiZUN"
-    },
-    {
-      "text": "",
-      "url": "https://trk.greatdiscount.life/80383b69-8099-4d7e-a580-351949af4c09?campaignid=15465061&site=usatodaydemo&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F9d3d6ac3e5bd7e60ed8fdd668df795bf.png&title=Why+Is+Everyone+Talking+About+This+%2499+Drone%3F&item=3424981062&timestamp=2022-06-16+12%3A04%3A47&platform=Desktop&step={step}&taboolaclickid=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCn8VUovvPouuvNiZUN&tblci=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCn8VUovvPouuvNiZUN#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCn8VUovvPouuvNiZUN"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-desktop-05:Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-desktop-05:Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Dexcom",
-      "url": "https://ad.doubleclick.net/ddm/trackclk/N7384.2069703TABOOLA3/B20578793.220278413;dc_trk_aid=418650468;dc_trk_cid=96678530;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?tblci=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCkuUMogM7J-a3c3spP#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCkuUMogM7J-a3c3spP"
-    },
-    {
-      "text": "Keep your glucose in range with Dexcom G6Do you know where your glucose is headed? You can with the Dexcom G6\u00ae CGM SystemDexcom|",
-      "url": "https://ad.doubleclick.net/ddm/trackclk/N7384.2069703TABOOLA3/B20578793.220278413;dc_trk_aid=418650468;dc_trk_cid=96678530;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?tblci=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCkuUMogM7J-a3c3spP#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCkuUMogM7J-a3c3spP"
-    },
-    {
-      "text": "",
-      "url": "https://ad.doubleclick.net/ddm/trackclk/N7384.2069703TABOOLA3/B20578793.220278413;dc_trk_aid=418650468;dc_trk_cid=96678530;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?tblci=GiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCkuUMogM7J-a3c3spP#tblciGiDzg73hkTwICj6zMVKQGZ0VpeViZ5PTuGOONQr2c0suRiCkuUMogM7J-a3c3spP"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-desktop-05:Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-desktop-05:Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "House panel: EPA should cancel popular Seresto collar over link to pet deaths",
-      "url": "/story/news/investigations/2022/06/15/congress-epa-must-cancel-seresto-collar-over-link-pet-deaths/7581966001/"
-    },
-    {
-      "text": "'A crushing blow:' LIV golfers disrespect 9/11 families with US Open involvement",
-      "url": "/story/sports/columnist/brennan/2022/06/15/us-open-liv-golfers-disrespect-9-11-families-playing-week/7640162001/"
-    },
-    {
-      "text": "Massachusetts diver recalls escape from whale",
-      "url": "/story/news/nation/2022/06/15/diver-recalls-whale-escape-one-year-later/7634676001/"
-    },
-    {
-      "text": "Many LGBTQ Ukrainians feel trapped by US immigration system",
-      "url": "/story/news/nation/2022/06/16/us-immigration-programs-not-easy-lgbtq-ukrainians-activists-say/9915485002/"
-    },
-    {
-      "text": "We're in a bear market \u2013 again. Here's what that means in 7 charts.",
-      "url": "/in-depth/graphics/2022/06/15/what-is-bear-market-history-great-depression/7609840001/"
-    },
-    {
-      "text": "Giant 'Sky Eye' telescope may have picked up alien signals, China says",
-      "url": "/story/news/world/2022/06/15/china-giant-sky-eye-telescope-aliens/7632759001/"
-    },
-    {
-      "text": "What reparations for Black people could look like in California",
-      "url": "/story/news/nation/2022/06/16/california-reparations-black-people-could-shape-federal-debate/7533504001/"
-    },
-    {
-      "text": "Tom Hanks says 'Philadelphia' role that won him Oscar couldn't happen today",
-      "url": "/story/entertainment/celebrities/2022/06/15/tom-hanks-philadelphia-role-couldnt-happen-today/7642974001/"
-    },
-    {
-      "text": "",
-      "url": "https://profile.usatoday.com/newsletters/Daily-Briefing/"
-    },
-    {
-      "text": "",
-      "url": "https://cm.usatoday.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.usatoday.com%2F&marketName=usatoday&cta=Right-Rail"
-    },
-    {
-      "text": "About Us",
-      "url": "https://marketing.usatoday.com/about/"
-    },
-    {
-      "text": "Newsroom Staff",
-      "url": "/contact/staff/"
-    },
-    {
-      "text": "Ethical Principles",
-      "url": "https://cm.usatoday.com/ethical-conduct/"
-    },
-    {
-      "text": "Corrections",
-      "url": "/story/news/2022/01/02/corrections-clarifications-2022/8883854002/"
-    },
-    {
-      "text": "Press Releases",
-      "url": "/pr/"
-    },
-    {
-      "text": "Accessibility",
-      "url": "https://cm.usatoday.com/accessibility/"
-    },
-    {
-      "text": "Sitemap",
-      "url": "/sitemap/"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://cm.usatoday.com/terms/"
-    },
-    {
-      "text": "Your California Privacy Rights/Privacy Policy",
-      "url": "https://cm.usatoday.com/privacy-policy"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://cm.usatoday.com/privacy"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://help.usatoday.com/contact-us"
-    },
-    {
-      "text": "Help Center",
-      "url": "https://help.usatoday.com/"
-    },
-    {
-      "text": "My Account",
-      "url": "https://account.usatoday.com/"
-    },
-    {
-      "text": "Give Feedback",
-      "url": "https://cm.usatoday.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.usatoday.com%2F&marketName=usatoday&cta=Footer"
-    },
-    {
-      "text": "Get Home Delivery",
-      "url": "https://offers.usatoday.com/FOOTERLINK?opm_position=footer&opm_creative=link&opm_name=get-home-delivery&opm_id=65&keycode=w6azn"
-    },
-    {
-      "text": "eNewspaper",
-      "url": "https://user.usatoday.com/user/enewspaper"
-    },
-    {
-      "text": "USA TODAY Shop",
-      "url": "https://usatodaystore.com/p/usa-today?gps-source=BRNMSVCPLPXXSTOR&utm_source=usat&utm_medium=onsite-footer"
-    },
-    {
-      "text": "USA TODAY Print Editions",
-      "url": "https://onlinestore.usatoday.com/storefront.aspx?utm_source=usat&utm_medium=onsite-footer&utm_term=usatp"
-    },
-    {
-      "text": "Licensing & Reprints",
-      "url": "https://imagn.com/licensing-reprints/"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://marketing.usatoday.com/programmatic-advertising/"
-    },
-    {
-      "text": "Careers",
-      "url": "http://www.gannett.com/careers/"
-    },
-    {
-      "text": "Internships",
-      "url": "http://internships.usatoday.com/"
-    },
-    {
-      "text": "Support Local Business",
-      "url": "https://supportlocal.usatoday.com/"
-    },
-    {
-      "text": "News Tips",
-      "url": "https://newstips.usatoday.com/"
-    },
-    {
-      "text": "Submitting letters to the editor",
-      "url": "/story/opinion/2019/12/04/submit-letters-columns-and-comment-social/2608825001/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/pages/interactives/podcasts/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://profile.usatoday.com/newsletters/manage/"
-    },
-    {
-      "text": "Mobile Apps",
-      "url": "http://static.usatoday.com/mobile-apps/"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/usatoday"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://www.twitter.com/usatoday"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://www.instagram.com/usatoday"
-    },
-    {
-      "text": "LinkedIn",
-      "url": "http://www.linkedin.com/company/usa-today"
-    },
-    {
-      "text": "Pinterest",
-      "url": "https://www.pinterest.com/usatoday/"
-    },
-    {
-      "text": "YouTube",
-      "url": "https://www.youtube.com/USATODAY"
-    },
-    {
-      "text": "Reddit",
-      "url": "https://www.reddit.com/user/usatoday"
-    },
-    {
-      "text": "Flipboard",
-      "url": "https://flipboard.com/@USAToday?utm_source=USAToday&utm_medium=follow&utm_campaign=publisher"
-    },
-    {
-      "text": "RSS",
-      "url": "https://feeds.feedblitz.com/usatoday-NewsTopStories"
-    },
-    {
-      "text": "10Best",
-      "url": "https://www.10best.com/"
-    },
-    {
-      "text": "Reviewed",
-      "url": "https://www.reviewed.com/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://www.usatoday.com/jobs/"
-    },
-    {
-      "text": "Moonlighting",
-      "url": "https://www.gomnlt.com/gci/usa-today/?utm_source=usa-today&utm_medium=navweblink&utm_campaign=GCI"
-    },
-    {
-      "text": "Sports Weekly",
-      "url": "https://cm.usatoday.com/sportsweekly"
-    },
-    {
-      "text": "Studio Gannett",
-      "url": "https://www.studiogci.com/"
-    },
-    {
-      "text": "USA TODAY Sports+",
-      "url": "https://www.usatodaysportsplus.com/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "http://classifieds.usatoday.com/"
-    },
-    {
-      "text": "Coupons",
-      "url": "https://coupons.usatoday.com/"
-    },
-    {
-      "text": "The City",
-      "url": "https://www.thecitypodcast.com/"
-    },
-    {
-      "text": "The Wall",
-      "url": "/border-wall/"
-    },
-    {
-      "text": "Storytellers",
-      "url": "https://www.storytellersproject.com/"
-    }
-  ],
+  "uniq": 1244937199,
   "workable_servers": [
     "ia902509.us.archive.org",
     "ia802509.us.archive.org"

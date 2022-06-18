@@ -1,5 +1,5 @@
 {
-  "created": 1655381426,
+  "created": 1655511606,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/5/items/libe-2022",
@@ -2766,31 +2766,199 @@
       "sha1": "8b7daa3c472e508a6606959f23b4953c95ee64f8"
     },
     {
+      "name": "libe-2022-06-17T14:54:58.378733+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655470502",
+      "size": "102399",
+      "md5": "ef4c6b802a3bb45955734acdeaf56806",
+      "crc32": "3a065b7e",
+      "sha1": "907344d24d67883c845ff3c4e1e899be37609ccf",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-17T14:54:58.378733+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655470505",
+      "size": "61106",
+      "md5": "0ea364b5879433d87ae057a8a912118a",
+      "crc32": "bb9a685a",
+      "sha1": "c4930da9bbba9ae1786ae7b798ef925bb0f80775",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-17T14:54:58.378733+02:00.jpg",
+      "source": "original",
+      "mtime": "1655470500",
+      "size": "337422",
+      "md5": "dd23015fb264f5afe32fbb692d6f7786",
+      "crc32": "6843991d",
+      "sha1": "7ca22b89ce9b1fd727ece2f1275452a5f60404ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-17T14:54:58.378733+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-17T14:54:58.378733+02:00.jpg",
+      "mtime": "1655470579",
+      "size": "9992",
+      "md5": "fe137bb60808a1e4d54373d38577616f",
+      "crc32": "75b52feb",
+      "sha1": "5edda6460f27a5a4b64b1e5560957529ef35c09e"
+    },
+    {
+      "name": "libe-2022-06-17T15:33:16.468843+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655472800",
+      "size": "101662",
+      "md5": "3cb45e190a8a094d18c2fb2821cb15c0",
+      "crc32": "c3b07597",
+      "sha1": "32b7a7fdcb6b3a3125ed299868b92891a6bb2677",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-17T15:33:16.468843+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655472802",
+      "size": "61982",
+      "md5": "9c88893212f245b5bcc5bf76e1ceea71",
+      "crc32": "afd3d97f",
+      "sha1": "17f01b5732fad69f384f839ba421775a6d3dab65",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-17T15:33:16.468843+02:00.jpg",
+      "source": "original",
+      "mtime": "1655472798",
+      "size": "343074",
+      "md5": "aa9062cf175710b5053ddc7e671da4c2",
+      "crc32": "0e0ce7bb",
+      "sha1": "728e822e52151df59a5541bfb71ccf045939b176",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-17T15:33:16.468843+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-17T15:33:16.468843+02:00.jpg",
+      "mtime": "1655472889",
+      "size": "9594",
+      "md5": "2e9bb6456be2cac6ab8dd14f8eded52f",
+      "crc32": "22ef6e04",
+      "sha1": "9ccdfaef800c8984cbc271dc9e0f3401cab81c0e"
+    },
+    {
+      "name": "libe-2022-06-17T19:21:39.157477+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655486502",
+      "size": "103387",
+      "md5": "3fad8ca3fc4c21df1ea3ee6539bb1d02",
+      "crc32": "d72c1efd",
+      "sha1": "0a7ac30b76bdbcc473cefb27e1c810cfd63d6f7c",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-17T19:21:39.157477+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655486504",
+      "size": "61308",
+      "md5": "5b6364bdc6d6d1fab89257a26a147db4",
+      "crc32": "7861de08",
+      "sha1": "babca1aaa5d7066084afe1d8b40910f08f9603e6",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-17T19:21:39.157477+02:00.jpg",
+      "source": "original",
+      "mtime": "1655486500",
+      "size": "368316",
+      "md5": "60e38e4335f3b8f54bc48a9df6e7f469",
+      "crc32": "e5b5febe",
+      "sha1": "291845dacd52bc54b38c3eafb6d3b899ad12691a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-17T19:21:39.157477+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-17T19:21:39.157477+02:00.jpg",
+      "mtime": "1655486614",
+      "size": "9822",
+      "md5": "91a8631a3a4544075fb4ca34436550af",
+      "crc32": "96131229",
+      "sha1": "9781b13a7dce81eb7fc681b426de7f35dbe3efe0"
+    },
+    {
+      "name": "libe-2022-06-17T23:01:53.567802+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655499716",
+      "size": "103429",
+      "md5": "9bb5d1b40b879b5282a4fc15bc2ce01f",
+      "crc32": "71fdc61e",
+      "sha1": "55af013cfffd5413dc6f4e1d3607ac4ba214b62e",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-17T23:01:53.567802+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655499718",
+      "size": "60825",
+      "md5": "c5ba88ab18549cdb4f94425e62673cd1",
+      "crc32": "61fbd59a",
+      "sha1": "270ff6827fc51eb42600c881ab91847ffd44a43c",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-17T23:01:53.567802+02:00.jpg",
+      "source": "original",
+      "mtime": "1655499715",
+      "size": "376389",
+      "md5": "3ce1e3ffa4f3ab924dd13e748734d933",
+      "crc32": "d5f54e14",
+      "sha1": "47c688edfb0cb63c2422513e4c3270e72bf83bb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-17T23:01:53.567802+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-17T23:01:53.567802+02:00.jpg",
+      "mtime": "1655499888",
+      "size": "9831",
+      "md5": "03994dee92300972f15e3c59b5fc83a3",
+      "crc32": "5751fb5b",
+      "sha1": "6ada8b82c35fd2020546f05fec2a698ce5e94ca2"
+    },
+    {
       "name": "libe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c5bfd51131dfa6eaa5d2645282e6eda9419606c",
-      "mtime": "1655381422",
-      "size": "56228",
-      "md5": "74c20bfc8647655f62d0feda7379b103",
-      "crc32": "c6a4664e",
-      "sha1": "7f7d61c0b2bd0e50afa4129f502f821b8cffd8da",
+      "btih": "824276a37f44ec7cab32be7532e9f596d3aae784",
+      "mtime": "1655499918",
+      "size": "59564",
+      "md5": "1cce59b6cb52ec20e27c756c8ec4532b",
+      "crc32": "ec3aca98",
+      "sha1": "89c3da6564d224d3e9a56322eef8314dfbdbc7d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "libe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af5b34e3167294904821e2033ee27587",
+      "md5": "888016553cb9cca31fbb23cd2bf5eeb6",
       "summation": "md5"
     },
     {
       "name": "libe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655381374",
-      "size": "319488",
-      "md5": "92acf60c31dc0405bc8c91879bfb7651",
-      "crc32": "01b49d1b",
-      "sha1": "2d8d892ea9ce35a7590f1952e63bb6dc878df46b",
+      "mtime": "1655499804",
+      "size": "335872",
+      "md5": "a72f834411127565a9f99d8facdfcaa8",
+      "crc32": "a3fad6e2",
+      "sha1": "2221689704deef111ad28acb389694815f04fa4d",
       "format": "Metadata"
     },
     {
@@ -2804,9 +2972,1683 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 267,
-  "item_last_updated": 1655381422,
-  "item_size": 34194938,
+  "files_count": 283,
+  "item_last_updated": 1655499918,
+  "item_size": 36335196,
+  "libe-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "L\u00e9gislatives(Opens in new window)",
+      "url": "https://www.liberation.fr/dossier/legislatives-2022/"
+    },
+    {
+      "text": "Politique",
+      "url": "/politique/"
+    },
+    {
+      "text": "International",
+      "url": "/international/"
+    },
+    {
+      "text": "CheckNews",
+      "url": "/checknews/"
+    },
+    {
+      "text": "Culture",
+      "url": "/culture/"
+    },
+    {
+      "text": "Id\u00e9es et D\u00e9bats",
+      "url": "/idees-et-debats/"
+    },
+    {
+      "text": "Soci\u00e9t\u00e9",
+      "url": "/societe/"
+    },
+    {
+      "text": "Environnement",
+      "url": "/environnement/"
+    },
+    {
+      "text": "Economie",
+      "url": "/economie/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": "Portraits",
+      "url": "/portraits/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Sciences",
+      "url": "/sciences/"
+    },
+    {
+      "text": "Se connecter",
+      "url": "https://connexion.liberation.fr/?referer=https://www.liberation.fr/"
+    },
+    {
+      "text": "S\u2019abonner \u00e0 Lib\u00e9ration",
+      "url": "https://abo.liberation.fr/?origin=AUTOPROMO&xtatc=INT-21-[1mois_1euro]"
+    },
+    {
+      "text": "Se connecter",
+      "url": "https://connexion.liberation.fr/?referer=https://www.liberation.fr/"
+    },
+    {
+      "text": "S\u2019abonner \u00e0 Lib\u00e9ration",
+      "url": "https://abo.liberation.fr/?origin=AUTOPROMO&xtatc=INT-21-[1mois_1euro]"
+    },
+    {
+      "text": "Accueil(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://www.liberation.fr/"
+    },
+    {
+      "text": "Politique",
+      "url": "/politique/"
+    },
+    {
+      "text": "Elections",
+      "url": "/politique/elections/"
+    },
+    {
+      "text": "L\u00e9gislatives(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://www.liberation.fr/dossier/legislatives-2022/"
+    },
+    {
+      "text": "Pr\u00e9sidentielle(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://www.liberation.fr/dossier/election-presidentielle-2022/"
+    },
+    {
+      "text": "International",
+      "url": "/international/"
+    },
+    {
+      "text": "Europe",
+      "url": "/international/europe/"
+    },
+    {
+      "text": "Am\u00e9rique",
+      "url": "/international/amerique/"
+    },
+    {
+      "text": "Afrique",
+      "url": "/international/afrique/"
+    },
+    {
+      "text": "Moyen-Orient",
+      "url": "/international/moyen-orient/"
+    },
+    {
+      "text": "Asie Pacifique",
+      "url": "/international/asie-pacifique/"
+    },
+    {
+      "text": "CheckNews",
+      "url": "/checknews/"
+    },
+    {
+      "text": "Culture",
+      "url": "/culture/"
+    },
+    {
+      "text": "Arts",
+      "url": "/culture/arts/"
+    },
+    {
+      "text": "Cin\u00e9ma",
+      "url": "/culture/cinema/"
+    },
+    {
+      "text": "Jeux vid\u00e9o",
+      "url": "/culture/jeux-video/"
+    },
+    {
+      "text": "Musique",
+      "url": "/culture/musique/"
+    },
+    {
+      "text": "Photographie",
+      "url": "/culture/photographie/"
+    },
+    {
+      "text": "Livres",
+      "url": "/culture/livres/"
+    },
+    {
+      "text": "BD",
+      "url": "/culture/bd/"
+    },
+    {
+      "text": "Sc\u00e8nes",
+      "url": "/culture/scenes/"
+    },
+    {
+      "text": "S\u00e9ries",
+      "url": "/culture/series/"
+    },
+    {
+      "text": "Id\u00e9es et D\u00e9bats",
+      "url": "/idees-et-debats/"
+    },
+    {
+      "text": "Opinions",
+      "url": "/idees-et-debats/opinions/"
+    },
+    {
+      "text": "Editorial",
+      "url": "/idees-et-debats/editorial/"
+    },
+    {
+      "text": "Tribunes",
+      "url": "/idees-et-debats/tribunes/"
+    },
+    {
+      "text": "Soci\u00e9t\u00e9",
+      "url": "/societe/"
+    },
+    {
+      "text": "Police / Justice",
+      "url": "/societe/police-justice/"
+    },
+    {
+      "text": "Droits des femmes",
+      "url": "/societe/droits-des-femmes/"
+    },
+    {
+      "text": "Education",
+      "url": "/societe/education/"
+    },
+    {
+      "text": "Familles",
+      "url": "/societe/familles/"
+    },
+    {
+      "text": "Logement",
+      "url": "/societe/logement/"
+    },
+    {
+      "text": "Religions",
+      "url": "/societe/religions/"
+    },
+    {
+      "text": "Sant\u00e9",
+      "url": "/societe/sante/"
+    },
+    {
+      "text": "Sexualit\u00e9s et genres",
+      "url": "/societe/sexualite-et-genres/"
+    },
+    {
+      "text": "Ville",
+      "url": "/societe/ville/"
+    },
+    {
+      "text": "Environnement",
+      "url": "/environnement/"
+    },
+    {
+      "text": "Agriculture",
+      "url": "/environnement/agriculture/"
+    },
+    {
+      "text": "Alimentation",
+      "url": "/environnement/alimentation/"
+    },
+    {
+      "text": "Biodiversit\u00e9",
+      "url": "/environnement/biodiversite/"
+    },
+    {
+      "text": "Climat",
+      "url": "/environnement/climat/"
+    },
+    {
+      "text": "Nucl\u00e9aire",
+      "url": "/environnement/nucleaire/"
+    },
+    {
+      "text": "Pollution",
+      "url": "/environnement/pollution/"
+    },
+    {
+      "text": "Economie",
+      "url": "/economie/"
+    },
+    {
+      "text": "Economie num\u00e9rique",
+      "url": "/economie/economie-numerique/"
+    },
+    {
+      "text": "M\u00e9dias",
+      "url": "/economie/medias/"
+    },
+    {
+      "text": "Social",
+      "url": "/economie/social/"
+    },
+    {
+      "text": "Transports",
+      "url": "/economie/transports/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": "Design",
+      "url": "/lifestyle/design/"
+    },
+    {
+      "text": "High tech",
+      "url": "/lifestyle/hightech/"
+    },
+    {
+      "text": "Mode",
+      "url": "/lifestyle/mode/"
+    },
+    {
+      "text": "Gastronomie",
+      "url": "/lifestyle/gastronomie/"
+    },
+    {
+      "text": "Voyages",
+      "url": "/lifestyle/voyages/"
+    },
+    {
+      "text": "En images(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://www.liberation.fr/en-images/"
+    },
+    {
+      "text": "Portraits",
+      "url": "/portraits/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Cyclisme",
+      "url": "/sports/cyclisme/"
+    },
+    {
+      "text": "Football",
+      "url": "/sports/football/"
+    },
+    {
+      "text": "Jeux Olympiques",
+      "url": "/sports/jeux-olympiques/"
+    },
+    {
+      "text": "Tennis",
+      "url": "/sports/tennis/"
+    },
+    {
+      "text": "Rugby",
+      "url": "/sports/rugby/"
+    },
+    {
+      "text": "Sports m\u00e9caniques",
+      "url": "/sports/sports-mecaniques/"
+    },
+    {
+      "text": "Sciences",
+      "url": "/sciences/"
+    },
+    {
+      "text": "Arch\u00e9ologie",
+      "url": "/sciences/archeologie/"
+    },
+    {
+      "text": "Astronomie",
+      "url": "/sciences/astronomie/"
+    },
+    {
+      "text": "Biologie",
+      "url": "/sciences/biologie/"
+    },
+    {
+      "text": "Espace",
+      "url": "/sciences/espace/"
+    },
+    {
+      "text": "Math\u00e9matiques",
+      "url": "/sciences/mathematiques/"
+    },
+    {
+      "text": "Physique",
+      "url": "/sciences/physique/"
+    },
+    {
+      "text": "Fil Info(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://www.liberation.fr/fil-info/"
+    },
+    {
+      "text": "Forums",
+      "url": "/forums/"
+    },
+    {
+      "text": "Agir pour le vivant(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://www.liberation.fr/dossier/agir-pour-le-vivant/"
+    },
+    {
+      "text": "Plus",
+      "url": "/plus/"
+    },
+    {
+      "text": "S\u00e9ries d'\u00e9t\u00e9",
+      "url": "/plus/speciaux-cahier-ete/"
+    },
+    {
+      "text": "Num\u00e9ros sp\u00e9ciaux",
+      "url": "/plus/numeros-speciaux/"
+    },
+    {
+      "text": "Archives",
+      "url": "/archives/"
+    },
+    {
+      "text": "Lire le journal(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://journal.liberation.fr/"
+    },
+    {
+      "text": "Les newsletters(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://www.liberation.fr/newsletters/"
+    },
+    {
+      "text": "Les Unes(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "http://unes.liberation.fr/"
+    },
+    {
+      "text": "La boutique(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://boutique.liberation.fr/"
+    },
+    {
+      "text": "Foire aux questions(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://liberation.zendesk.com/hc/fr/"
+    },
+    {
+      "text": "Contactez-nous(S'ouvre dans une nouvelle fen\u00eatre)",
+      "url": "https://www.liberation.fr/contact/"
+    },
+    {
+      "text": "",
+      "url": "/societe/sante/covid-19-vers-un-ete-sous-la-vague-20220617_X4Q4BT3EFNGLFBW3KOH4CE5SIQ/"
+    },
+    {
+      "text": "D\u00e9cryptage",
+      "url": "/societe/sante/covid-19-vers-un-ete-sous-la-vague-20220617_X4Q4BT3EFNGLFBW3KOH4CE5SIQ/"
+    },
+    {
+      "text": "Covid-19: vers un \u00e9t\u00e9 sous la vague?",
+      "url": "/societe/sante/covid-19-vers-un-ete-sous-la-vague-20220617_X4Q4BT3EFNGLFBW3KOH4CE5SIQ/"
+    },
+    {
+      "text": "",
+      "url": "/culture/cinema/mort-de-jean-louis-trintignant-lamour-dans-lame-20220617_R6E7MK7XFRA77OH5DKLMNBTQZ4/"
+    },
+    {
+      "text": "Disparition",
+      "url": "/culture/cinema/mort-de-jean-louis-trintignant-lamour-dans-lame-20220617_R6E7MK7XFRA77OH5DKLMNBTQZ4/"
+    },
+    {
+      "text": "Jean-Louis Trintignant, l\u2019amour dans l\u2019\u00e2me",
+      "url": "/culture/cinema/mort-de-jean-louis-trintignant-lamour-dans-lame-20220617_R6E7MK7XFRA77OH5DKLMNBTQZ4/"
+    },
+    {
+      "text": "Dans l\u2019entre-deux-tours, le macronisme en panne de sens",
+      "url": "/politique/legislatives-dans-lentre-deux-tours-le-macronisme-en-panne-de-sens-20220617_DVIGWM2YFFBMFJ5U4CZ67N7OWY/"
+    },
+    {
+      "text": "",
+      "url": "/politique/legislatives-dans-lentre-deux-tours-le-macronisme-en-panne-de-sens-20220617_DVIGWM2YFFBMFJ5U4CZ67N7OWY/"
+    },
+    {
+      "text": "Analyse",
+      "url": "/politique/legislatives-chez-la-nupes-des-lendemains-qui-changent-20220617_EVGL2GVLLVD75P4O5GLVAF27DQ/"
+    },
+    {
+      "text": "Chez la Nupes, des lendemains qui changent",
+      "url": "/politique/legislatives-chez-la-nupes-des-lendemains-qui-changent-20220617_EVGL2GVLLVD75P4O5GLVAF27DQ/"
+    },
+    {
+      "text": "",
+      "url": "/politique/legislatives-chez-la-nupes-des-lendemains-qui-changent-20220617_EVGL2GVLLVD75P4O5GLVAF27DQ/"
+    },
+    {
+      "text": "Analyse",
+      "url": "/politique/elections/legislatives-pour-la-macronie-la-fin-dun-hemicycle-20220617_Y6W3AGHXMNDXFHSKXYHQDB2BBM/"
+    },
+    {
+      "text": "Pour la macronie, la fin d\u2019un h\u00e9micycle",
+      "url": "/politique/elections/legislatives-pour-la-macronie-la-fin-dun-hemicycle-20220617_Y6W3AGHXMNDXFHSKXYHQDB2BBM/"
+    },
+    {
+      "text": "L\u00e9gislatives",
+      "url": "/politique/elections/dans-la-somme-le-rn-en-duel-frontal-face-a-francois-ruffin-et-ses-proches-20220617_QGGDQXXWTREI3FRPNFYDQYSU3Y/"
+    },
+    {
+      "text": "Dans la Somme, le RN en duel frontal face \u00e0 Fran\u00e7ois Ruffin et ses proches",
+      "url": "/politique/elections/dans-la-somme-le-rn-en-duel-frontal-face-a-francois-ruffin-et-ses-proches-20220617_QGGDQXXWTREI3FRPNFYDQYSU3Y/"
+    },
+    {
+      "text": "Analyse",
+      "url": "/politique/elections/pour-melenchon-lheure-du-duel-tant-attendu-face-a-macron-20220617_TE4OT3GULNGSFHURZCRVSWWDGI/"
+    },
+    {
+      "text": "Pour M\u00e9lenchon, l\u2019heure du duel tant attendu face \u00e0 Macron",
+      "url": "/politique/elections/pour-melenchon-lheure-du-duel-tant-attendu-face-a-macron-20220617_TE4OT3GULNGSFHURZCRVSWWDGI/"
+    },
+    {
+      "text": "",
+      "url": "/environnement/agriculture/en-plein-soleil-il-fait-50c-dans-lherault-des-maraichers-sadaptent-pour-sauver-leurs-cultures-20220617_QYYMJAHPLJDVXFO5J7GLQ5ZHJU/"
+    },
+    {
+      "text": "Reportage",
+      "url": "/environnement/agriculture/en-plein-soleil-il-fait-50c-dans-lherault-des-maraichers-sadaptent-pour-sauver-leurs-cultures-20220617_QYYMJAHPLJDVXFO5J7GLQ5ZHJU/"
+    },
+    {
+      "text": "\u00abEn plein soleil, il fait 50\u00b0C!\u00bb: dans l\u2019H\u00e9rault, des mara\u00eechers s\u2019adaptent pour sauver leurs cultures ",
+      "url": "/environnement/agriculture/en-plein-soleil-il-fait-50c-dans-lherault-des-maraichers-sadaptent-pour-sauver-leurs-cultures-20220617_QYYMJAHPLJDVXFO5J7GLQ5ZHJU/"
+    },
+    {
+      "text": "",
+      "url": "/environnement/biodiversite/en-elevages-sauvages-ou-marin-les-animaux-suffoquent-aussi-sous-la-chaleur-20220617_2AT2C5LU3JGXXBZNAJ2RUIOFKA/"
+    },
+    {
+      "text": "Fournaise",
+      "url": "/environnement/biodiversite/en-elevages-sauvages-ou-marin-les-animaux-suffoquent-aussi-sous-la-chaleur-20220617_2AT2C5LU3JGXXBZNAJ2RUIOFKA/"
+    },
+    {
+      "text": "En \u00e9levages, sauvages ou marins, les animaux suffoquent aussi sous la chaleur",
+      "url": "/environnement/biodiversite/en-elevages-sauvages-ou-marin-les-animaux-suffoquent-aussi-sous-la-chaleur-20220617_2AT2C5LU3JGXXBZNAJ2RUIOFKA/"
+    },
+    {
+      "text": "",
+      "url": "/international/pelerinage-a-la-mecque-la-grande-loterie-pour-les-pelerins-20220617_3ZVIFSIOSVFCREZF6IRXZOVB3U/"
+    },
+    {
+      "text": "Destin\u00e9e",
+      "url": "/international/pelerinage-a-la-mecque-la-grande-loterie-pour-les-pelerins-20220617_3ZVIFSIOSVFCREZF6IRXZOVB3U/"
+    },
+    {
+      "text": "P\u00e8lerinage \u00e0 la Mecque, la grande loterie pour les p\u00e8lerins",
+      "url": "/international/pelerinage-a-la-mecque-la-grande-loterie-pour-les-pelerins-20220617_3ZVIFSIOSVFCREZF6IRXZOVB3U/"
+    },
+    {
+      "text": "",
+      "url": "/societe/religions/violences-sexuelles-dans-leglise-il-faut-un-niveau-de-reparations-financieres-consistant-et-solide-20220617_Y2EDKID4NNFL3CPL3J5ABOJD5M/"
+    },
+    {
+      "text": "Interview",
+      "url": "/societe/religions/violences-sexuelles-dans-leglise-il-faut-un-niveau-de-reparations-financieres-consistant-et-solide-20220617_Y2EDKID4NNFL3CPL3J5ABOJD5M/"
+    },
+    {
+      "text": "Violences sexuelles dans l\u2019Eglise catholique: \u00abIl faut un niveau de r\u00e9parations financi\u00e8res consistant et solide\u00bb ",
+      "url": "/societe/religions/violences-sexuelles-dans-leglise-il-faut-un-niveau-de-reparations-financieres-consistant-et-solide-20220617_Y2EDKID4NNFL3CPL3J5ABOJD5M/"
+    },
+    {
+      "text": "",
+      "url": "/international/europe/guerre-en-ukraine-retrouvez-toutes-les-informations-sur-linvasion-russe-20220617_VCVIRWAL55B53B37AD4YDOJO7M/"
+    },
+    {
+      "text": "L'essentiel",
+      "url": "/international/europe/guerre-en-ukraine-retrouvez-toutes-les-informations-sur-linvasion-russe-20220617_VCVIRWAL55B53B37AD4YDOJO7M/"
+    },
+    {
+      "text": "Invasion russe: Bruxelles ouvre la porte \u00e0 l\u2019Ukraine, Johnson \u00e0 Kyiv, pol\u00e9mique sur l\u2019Eurovision... L\u2019actu de ce 17 juin ",
+      "url": "/international/europe/guerre-en-ukraine-retrouvez-toutes-les-informations-sur-linvasion-russe-20220617_VCVIRWAL55B53B37AD4YDOJO7M/"
+    },
+    {
+      "text": "",
+      "url": "/checknews/ministres-candidats-et-periode-de-reserve-ces-entorses-reperees-par-les-lecteurs-de-checknews-20220617_IOD4FBKDMJET3EMWW7VIPKAVZQ/"
+    },
+    {
+      "text": "CheckNews",
+      "url": "/checknews/ministres-candidats-et-periode-de-reserve-ces-entorses-reperees-par-les-lecteurs-de-checknews-20220617_IOD4FBKDMJET3EMWW7VIPKAVZQ/"
+    },
+    {
+      "text": "Ministres-candidats et p\u00e9riode de r\u00e9serve: ces entorses rep\u00e9r\u00e9es par les lecteurs de CheckNews",
+      "url": "/checknews/ministres-candidats-et-periode-de-reserve-ces-entorses-reperees-par-les-lecteurs-de-checknews-20220617_IOD4FBKDMJET3EMWW7VIPKAVZQ/"
+    },
+    {
+      "text": "",
+      "url": "/politique/elections/dans-le-lot-et-garonne-deux-triangulaires-provoquent-pleurs-trahison-et-peur-du-rn-20220617_ILTCIVK5EZASBFRHQSVJYUA4VQ/"
+    },
+    {
+      "text": "L\u00e9gislatives",
+      "url": "/politique/elections/dans-le-lot-et-garonne-deux-triangulaires-provoquent-pleurs-trahison-et-peur-du-rn-20220617_ILTCIVK5EZASBFRHQSVJYUA4VQ/"
+    },
+    {
+      "text": "Dans le Lot-et-Garonne, deux triangulaires provoquent pleurs, trahison et peur du RN",
+      "url": "/politique/elections/dans-le-lot-et-garonne-deux-triangulaires-provoquent-pleurs-trahison-et-peur-du-rn-20220617_ILTCIVK5EZASBFRHQSVJYUA4VQ/"
+    },
+    {
+      "text": "Voir tous les contenussponsoris\u00e9s \u2192",
+      "url": "/libeadvert/molotov-tv/"
+    },
+    {
+      "text": "",
+      "url": "/libeadvert/molotov-tv/festival-de-cannes-2022-comment-suivre-en-direct-en-replay-ou-enregistrer-sur-vos-ecrans-cette-edition-si-attendue-20220517_RG6LDAF2V5DOBH3QUHPQAUIVOI/"
+    },
+    {
+      "text": "Festival de Cannes 2022 : comment suivre en direct, en replay ou enregistrer sur vos \u00e9crans cette \u00e9dition si attendue ?Par Molotov TV",
+      "url": "/libeadvert/molotov-tv/festival-de-cannes-2022-comment-suivre-en-direct-en-replay-ou-enregistrer-sur-vos-ecrans-cette-edition-si-attendue-20220517_RG6LDAF2V5DOBH3QUHPQAUIVOI/"
+    },
+    {
+      "text": "Manifestation contre un centre de soin pour toxicomanes dans le XVIe \u00e0 Paris: \u00abIl faut les mettre \u00e0 la campagne\u00bb  ",
+      "url": "/societe/manifestation-contre-un-centre-de-soin-pour-toxicomanes-dans-le-xvie-il-faut-les-mettre-a-la-campagne-20220617_5VSDOB5635HPVLVIMUU5F7LTBI/"
+    },
+    {
+      "text": "Soci\u00e9t\u00e9",
+      "url": "/societe/"
+    },
+    {
+      "text": "Invasion russe: Bruxelles ouvre la porte \u00e0 l\u2019Ukraine, Johnson \u00e0 Kyiv, pol\u00e9mique sur l\u2019Eurovision... L\u2019actu de ce 17 juin ",
+      "url": "/international/europe/guerre-en-ukraine-retrouvez-toutes-les-informations-sur-linvasion-russe-20220617_VCVIRWAL55B53B37AD4YDOJO7M/"
+    },
+    {
+      "text": "Europe",
+      "url": "/international/europe/"
+    },
+    {
+      "text": "L\u00e9gislatives: M\u00e9lenchon sur son pont tournant, Edouard Philippe sur l\u2019Ile d\u2019Ol\u00e9ron, Ensemble sur la br\u00e8che... L\u2019actu de ce 17 juin ",
+      "url": "/politique/elections/en-direct-legislatives-suivez-ce-dernier-jour-de-campagne-tous-azimuts-avant-le-second-tour-20220617_4RS6W5DJL5CEJKR6UZS3SF5EUI/"
+    },
+    {
+      "text": "Elections",
+      "url": "/politique/elections/"
+    },
+    {
+      "text": "L\u00e9gislatives: douze circonscriptions \u00e0\u00a0suivre de pr\u00e8s",
+      "url": "/politique/legislatives-douze-circonscriptions-a-suivre-de-pres-20220617_76QUCCLUK5DCHCZHSJY4ZZK5LA/"
+    },
+    {
+      "text": "Politique",
+      "url": "/politique/"
+    },
+    {
+      "text": "Olivier Dussopt, le monsieur Retraite qui voudrait faire oublier la r\u00e9forme des 65 ans",
+      "url": "/politique/elections/olivier-dussopt-le-monsieur-retraite-qui-voudrait-faire-oublier-la-reforme-des-65-ans-20220617_KL4NR3RF2RHCLFCAZOVUBUVFHE/"
+    },
+    {
+      "text": "Elections",
+      "url": "/politique/elections/"
+    },
+    {
+      "text": "Mort de Trintignant, records de chaleur, rebond du Covid... L\u2019actu de ce vendredi",
+      "url": "/politique/mort-de-trintignant-records-de-chaleur-rebond-du-covid-lactu-de-ce-vendredi-20220617_RRK5TTIOGJFADFVIRO36WGBLUU/"
+    },
+    {
+      "text": "Politique",
+      "url": "/politique/"
+    },
+    {
+      "text": "Covid-19: en Europe, une acc\u00e9l\u00e9ration nette de la circulation virale",
+      "url": "/societe/sante/covid-19-en-europe-une-acceleration-nette-de-la-circulation-virale-20220617_HQWMJW42XFGLNNATFQVCC2VQ7U/"
+    },
+    {
+      "text": "Sant\u00e9",
+      "url": "/societe/sante/"
+    },
+    {
+      "text": "\u00abEn plein soleil, il fait 50\u00b0C!\u00bb: dans l\u2019H\u00e9rault, des mara\u00eechers s\u2019adaptent pour sauver leurs cultures ",
+      "url": "/environnement/agriculture/en-plein-soleil-il-fait-50c-dans-lherault-des-maraichers-sadaptent-pour-sauver-leurs-cultures-20220617_QYYMJAHPLJDVXFO5J7GLQ5ZHJU/"
+    },
+    {
+      "text": "Agriculture",
+      "url": "/environnement/agriculture/"
+    },
+    {
+      "text": "toute l\u2019actualit\u00e9 en direct",
+      "url": "/fil-info/"
+    },
+    {
+      "text": "",
+      "url": "/international/amerique/assaut-du-capitole-face-a-trump-le-calvaire-et-le-courage-de-mike-pence-20220617_P3MRT4EKHNHYTCT7LBCDHWOJNY/"
+    },
+    {
+      "text": "R\u00e9cit",
+      "url": "/international/amerique/assaut-du-capitole-face-a-trump-le-calvaire-et-le-courage-de-mike-pence-20220617_P3MRT4EKHNHYTCT7LBCDHWOJNY/"
+    },
+    {
+      "text": "Assaut du Capitole: face \u00e0 Trump, le calvaire et le courage de Mike Pence",
+      "url": "/international/amerique/assaut-du-capitole-face-a-trump-le-calvaire-et-le-courage-de-mike-pence-20220617_P3MRT4EKHNHYTCT7LBCDHWOJNY/"
+    },
+    {
+      "text": "",
+      "url": "/politique/elections/rachel-keke-represente-tous-ceux-qui-nosaient-pas-sexprimer-jusque-la-en-campagne-avec-la-candidate-nupes-aux-legislatives-20220617_OJNH7VNSTBDJJOTYP5REDE3IXM/"
+    },
+    {
+      "text": "Reportage",
+      "url": "/politique/elections/rachel-keke-represente-tous-ceux-qui-nosaient-pas-sexprimer-jusque-la-en-campagne-avec-la-candidate-nupes-aux-legislatives-20220617_OJNH7VNSTBDJJOTYP5REDE3IXM/"
+    },
+    {
+      "text": "\u00abElle deviendra une des vedettes de l\u2019Assembl\u00e9e\u00bb: Rachel Keke, de l\u2019h\u00f4tel Ibis des Batignolles aux l\u00e9gislatives",
+      "url": "/politique/elections/rachel-keke-represente-tous-ceux-qui-nosaient-pas-sexprimer-jusque-la-en-campagne-avec-la-candidate-nupes-aux-legislatives-20220617_OJNH7VNSTBDJJOTYP5REDE3IXM/"
+    },
+    {
+      "text": "",
+      "url": "/economie/medias/dans-les-medias-reacs-zemmour-ne-fait-plus-recette-20220617_J2V427P54JDSRJSMYSAAQXEORU/"
+    },
+    {
+      "text": "Chute libre",
+      "url": "/economie/medias/dans-les-medias-reacs-zemmour-ne-fait-plus-recette-20220617_J2V427P54JDSRJSMYSAAQXEORU/"
+    },
+    {
+      "text": "Dans les m\u00e9dias r\u00e9acs, Zemmour ne fait plus recette",
+      "url": "/economie/medias/dans-les-medias-reacs-zemmour-ne-fait-plus-recette-20220617_J2V427P54JDSRJSMYSAAQXEORU/"
+    },
+    {
+      "text": "",
+      "url": "/environnement/nucleaire/a-la-centrale-nucleaire-du-tricastin-les-sinistres-caches-dedf-20220616_4PAQ63ZUSRA6JG5QK7FH42DMSE/"
+    },
+    {
+      "text": "Incidents",
+      "url": "/environnement/nucleaire/a-la-centrale-nucleaire-du-tricastin-les-sinistres-caches-dedf-20220616_4PAQ63ZUSRA6JG5QK7FH42DMSE/"
+    },
+    {
+      "text": "A la centrale nucl\u00e9aire du Tricastin, les sinistres cach\u00e9s d\u2019EDF",
+      "url": "/environnement/nucleaire/a-la-centrale-nucleaire-du-tricastin-les-sinistres-caches-dedf-20220616_4PAQ63ZUSRA6JG5QK7FH42DMSE/"
+    },
+    {
+      "text": "\u00c9lections l\u00e9gislatives 2022: le troisi\u00e8me tour",
+      "url": "https://www.liberation.fr/dossier/legislatives-2022/"
+    },
+    {
+      "text": "",
+      "url": "/politique/legislatives-la-majorite-relative-redonne-la-main-au-parlement-20220617_SP4U2GKSXRHZFAJNSKUAZHELN4/"
+    },
+    {
+      "text": "L\u00e9gislatives: \u00abLa majorit\u00e9 relative redonne la main au Parlement\u00bb",
+      "url": "/politique/legislatives-la-majorite-relative-redonne-la-main-au-parlement-20220617_SP4U2GKSXRHZFAJNSKUAZHELN4/"
+    },
+    {
+      "text": "L\u00e9gislatives: M\u00e9lenchon sur son pont tournant, Edouard Philippe sur l\u2019Ile d\u2019Ol\u00e9ron, Ensemble sur la br\u00e8che... L\u2019actu de ce 17 juin ",
+      "url": "/politique/elections/en-direct-legislatives-suivez-ce-dernier-jour-de-campagne-tous-azimuts-avant-le-second-tour-20220617_4RS6W5DJL5CEJKR6UZS3SF5EUI/"
+    },
+    {
+      "text": "L\u00e9gislatives: \u00abPolitiquement, je suis tr\u00e8s d\u00e9\u00e7u. Macron \u00e9vite tout d\u00e9bat, surtout avec M\u00e9lenchon\u00bb",
+      "url": "/politique/elections/legislatives-politiquement-je-suis-tres-decu-macron-evite-tout-debat-surtout-avec-melenchon-20220617_Z7X6XQSUNFGCHERZSHXBJCJ7SQ/"
+    },
+    {
+      "text": "L\u00e9gislatives: douze circonscriptions \u00e0\u00a0suivre de pr\u00e8s",
+      "url": "/politique/legislatives-douze-circonscriptions-a-suivre-de-pres-20220617_76QUCCLUK5DCHCZHSJY4ZZK5LA/"
+    },
+    {
+      "text": "Aux l\u00e9gislatives, l\u2019\u00e9chec du \u00aben m\u00eame temps\u00bb macronien",
+      "url": "/politique/elections/aux-legislatives-lechec-du-en-meme-temps-macronien-20220617_PFWF6TEBZRES3LZAETJYKCYEI4/"
+    },
+    {
+      "text": "L\u00e9gislatives: pour la macronie, la fin d\u2019un h\u00e9micycle",
+      "url": "/politique/elections/legislatives-pour-la-macronie-la-fin-dun-hemicycle-20220617_Y6W3AGHXMNDXFHSKXYHQDB2BBM/"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/mode/mode-veepee-met-le-paquet-sur-lupcycling-20220617_RH46ZBVTZVAD7F56AC6P2SWOBA/"
+    },
+    {
+      "text": "Tendance",
+      "url": "/lifestyle/mode/mode-veepee-met-le-paquet-sur-lupcycling-20220617_RH46ZBVTZVAD7F56AC6P2SWOBA/"
+    },
+    {
+      "text": "Mode: Veepee met le paquet sur le recyclage \u00abpar le haut\u00bb",
+      "url": "/lifestyle/mode/mode-veepee-met-le-paquet-sur-lupcycling-20220617_RH46ZBVTZVAD7F56AC6P2SWOBA/"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/mode/pierre-francois-le-louet-avec-le-numerique-les-mecanismes-de-la-mode-sont-completement-differents-20220614_AG7DAFAZ4RBSJJWKNW4WFEJAPU/"
+    },
+    {
+      "text": "Interview",
+      "url": "/lifestyle/mode/pierre-francois-le-louet-avec-le-numerique-les-mecanismes-de-la-mode-sont-completement-differents-20220614_AG7DAFAZ4RBSJJWKNW4WFEJAPU/"
+    },
+    {
+      "text": "Pierre-Fran\u00e7ois Le Lou\u00ebt : \u00abAvec le num\u00e9rique, les m\u00e9canismes de\u00a0la mode sont compl\u00e8tement diff\u00e9rents\u00bb",
+      "url": "/lifestyle/mode/pierre-francois-le-louet-avec-le-numerique-les-mecanismes-de-la-mode-sont-completement-differents-20220614_AG7DAFAZ4RBSJJWKNW4WFEJAPU/"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/mode/semaine-solidaire-pour-certaines-cetait-un-reve-de-jeunesse-de-defiler-20220615_BWIRE3C7L5DVFKJXCOJXERVJ74/"
+    },
+    {
+      "text": "Reportage",
+      "url": "/lifestyle/mode/semaine-solidaire-pour-certaines-cetait-un-reve-de-jeunesse-de-defiler-20220615_BWIRE3C7L5DVFKJXCOJXERVJ74/"
+    },
+    {
+      "text": "Semaine solidaire : \u00abPour certaines, c\u2019\u00e9tait un r\u00eave de jeunesse de d\u00e9filer\u00bb",
+      "url": "/lifestyle/mode/semaine-solidaire-pour-certaines-cetait-un-reve-de-jeunesse-de-defiler-20220615_BWIRE3C7L5DVFKJXCOJXERVJ74/"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/gastronomie/la-canette-de-biere-tient-sa-revanche-20220615_QLWSLTYQXRBFJNYH5ZDKJ6A4JU/"
+    },
+    {
+      "text": "Chronique \u00abla Tireuse\u00bb",
+      "url": "/lifestyle/gastronomie/la-canette-de-biere-tient-sa-revanche-20220615_QLWSLTYQXRBFJNYH5ZDKJ6A4JU/"
+    },
+    {
+      "text": "La canette de bi\u00e8re tient sa revanche",
+      "url": "/lifestyle/gastronomie/la-canette-de-biere-tient-sa-revanche-20220615_QLWSLTYQXRBFJNYH5ZDKJ6A4JU/"
+    },
+    {
+      "text": "Ukraine, une guerre au c\u0153ur de l'Europe",
+      "url": "https://www.liberation.fr/dossier/ukraine-la-crise/"
+    },
+    {
+      "text": "",
+      "url": "/international/europe/guerre-en-ukraine-retrouvez-toutes-les-informations-sur-linvasion-russe-20220617_VCVIRWAL55B53B37AD4YDOJO7M/"
+    },
+    {
+      "text": "Invasion russe: Bruxelles ouvre la porte \u00e0 l\u2019Ukraine, Johnson \u00e0 Kyiv, pol\u00e9mique sur l\u2019Eurovision... L\u2019actu de ce 17 juin ",
+      "url": "/international/europe/guerre-en-ukraine-retrouvez-toutes-les-informations-sur-linvasion-russe-20220617_VCVIRWAL55B53B37AD4YDOJO7M/"
+    },
+    {
+      "text": "",
+      "url": "/international/asie-pacifique/le-fujian-un-porte-avions-dambitions-chinoises-face-a-taiwan-20220617_T36AL7RXLRD7XNG3GZNOZ6EYZU/"
+    },
+    {
+      "text": "Le \u00abFujian\u00bb, un porte-avions d\u2019ambitions chinoises face \u00e0 Taiwan",
+      "url": "/international/asie-pacifique/le-fujian-un-porte-avions-dambitions-chinoises-face-a-taiwan-20220617_T36AL7RXLRD7XNG3GZNOZ6EYZU/"
+    },
+    {
+      "text": "",
+      "url": "/international/en-direct-guerre-en-ukraine-emmanuel-macron-a-pris-le-train-pour-kyiv-20220616_WHDA3XB65BHHJLMXKRLDRMSTH4/"
+    },
+    {
+      "text": "Guerre en Ukraine: Macron avec Scholz et Draghi \u00e0 Kyiv, l\u2019Ukraine vers l\u2019UE, Medvedev tacle les Europ\u00e9ens... L\u2019actu de ce 16 juin",
+      "url": "/international/en-direct-guerre-en-ukraine-emmanuel-macron-a-pris-le-train-pour-kyiv-20220616_WHDA3XB65BHHJLMXKRLDRMSTH4/"
+    },
+    {
+      "text": "",
+      "url": "/idees-et-debats/editorial/macron-a-kyiv-mieux-vaut-tard-que-jamais-20220616_ZR7TM5MUXFCAZAB7RHVWTJC3FU/"
+    },
+    {
+      "text": "Macron \u00e0 Kyiv, mieux vaut tard que jamais",
+      "url": "/idees-et-debats/editorial/macron-a-kyiv-mieux-vaut-tard-que-jamais-20220616_ZR7TM5MUXFCAZAB7RHVWTJC3FU/"
+    },
+    {
+      "text": "",
+      "url": "/politique/legislatives-le-deplacement-de-macron-en-ukraine-cible-par-lopposition-20220616_S4ILUVTPIBABLL5NNCL74M36CI/"
+    },
+    {
+      "text": "L\u00e9gislatives: le d\u00e9placement de Macron en Ukraine cibl\u00e9 par l\u2019opposition ",
+      "url": "/politique/legislatives-le-deplacement-de-macron-en-ukraine-cible-par-lopposition-20220616_S4ILUVTPIBABLL5NNCL74M36CI/"
+    },
+    {
+      "text": "CheckNews",
+      "url": "https://www.liberation.fr/checknews/"
+    },
+    {
+      "text": "",
+      "url": "/checknews/ministres-candidats-et-periode-de-reserve-ces-entorses-reperees-par-les-lecteurs-de-checknews-20220617_IOD4FBKDMJET3EMWW7VIPKAVZQ/"
+    },
+    {
+      "text": "Ministres-candidats et p\u00e9riode de r\u00e9serve: ces entorses rep\u00e9r\u00e9es par les lecteurs de CheckNews",
+      "url": "/checknews/ministres-candidats-et-periode-de-reserve-ces-entorses-reperees-par-les-lecteurs-de-checknews-20220617_IOD4FBKDMJET3EMWW7VIPKAVZQ/"
+    },
+    {
+      "text": "",
+      "url": "/checknews/baisse-dimpots-pour-toute-personne-gagnant-au-plus-4-000-euros-lusine-a-gaz-de-la-revolution-fiscale-de-lfi-20220617_TUEIJCHREZHO7PNN6W6XNOZ36I/"
+    },
+    {
+      "text": "Baisse d\u2019imp\u00f4ts pour toute personne gagnant au plus 4\u00a0000 euros? L\u2019usine \u00e0 gaz de la r\u00e9volution fiscale de LFI ",
+      "url": "/checknews/baisse-dimpots-pour-toute-personne-gagnant-au-plus-4-000-euros-lusine-a-gaz-de-la-revolution-fiscale-de-lfi-20220617_TUEIJCHREZHO7PNN6W6XNOZ36I/"
+    },
+    {
+      "text": "",
+      "url": "/checknews/la-majorite-presidentielle-prevoit-elle-vraiment-80-milliards-deuros-deconomies-cachees-comme-laffirme-lfi-20220617_MQYU4ZTLWRB6XFOWKY25QG6N64/"
+    },
+    {
+      "text": "La majorit\u00e9 pr\u00e9sidentielle pr\u00e9voit-elle vraiment 80 milliards d\u2019euros d\u2019\u00e9conomies cach\u00e9es, comme l\u2019affirme LFI?",
+      "url": "/checknews/la-majorite-presidentielle-prevoit-elle-vraiment-80-milliards-deuros-deconomies-cachees-comme-laffirme-lfi-20220617_MQYU4ZTLWRB6XFOWKY25QG6N64/"
+    },
+    {
+      "text": "",
+      "url": "/checknews/pourquoi-libe-comme-dautres-journaux-illustre-encore-parfois-des-articles-sur-la-canicule-avec-des-photos-de-bronzette-20220617_JB62LZG4P5C75JJC4VDHFTSO3I/"
+    },
+    {
+      "text": "Pourquoi Lib\u00e9, comme d\u2019autres journaux, illustre encore parfois des articles sur la canicule avec des photos de bronzette?",
+      "url": "/checknews/pourquoi-libe-comme-dautres-journaux-illustre-encore-parfois-des-articles-sur-la-canicule-avec-des-photos-de-bronzette-20220617_JB62LZG4P5C75JJC4VDHFTSO3I/"
+    },
+    {
+      "text": "Les portraits de Lib\u00e9ration",
+      "url": "https://www.liberation.fr/portraits/"
+    },
+    {
+      "text": "Culture",
+      "url": "https://www.liberation.fr/culture/"
+    },
+    {
+      "text": "",
+      "url": "/culture/livres/table-ronde-le-chant-du-cycle-du-roi-arthur-20220617_N6DL5AZVSNHLDBR4KXXXVEUXAU/"
+    },
+    {
+      "text": "Litt\u00e9rature m\u00e9di\u00e9vale",
+      "url": "/culture/livres/table-ronde-le-chant-du-cycle-du-roi-arthur-20220617_N6DL5AZVSNHLDBR4KXXXVEUXAU/"
+    },
+    {
+      "text": "Table ronde: le chant du cycle du roi Arthur",
+      "url": "/culture/livres/table-ronde-le-chant-du-cycle-du-roi-arthur-20220617_N6DL5AZVSNHLDBR4KXXXVEUXAU/"
+    },
+    {
+      "text": "",
+      "url": "/culture/arts/tom-of-finland-des-bites-et-des-legs-20220617_VD2SM467VJG7JOOXOO3NQ5HENI/"
+    },
+    {
+      "text": "Crayon",
+      "url": "/culture/arts/tom-of-finland-des-bites-et-des-legs-20220617_VD2SM467VJG7JOOXOO3NQ5HENI/"
+    },
+    {
+      "text": "Tom of Finland, bites et l\u00e9gendes",
+      "url": "/culture/arts/tom-of-finland-des-bites-et-des-legs-20220617_VD2SM467VJG7JOOXOO3NQ5HENI/"
+    },
+    {
+      "text": "",
+      "url": "/culture/cinema/mort-de-jean-louis-trintignant-lamour-dans-lame-20220617_R6E7MK7XFRA77OH5DKLMNBTQZ4/"
+    },
+    {
+      "text": "Disparition",
+      "url": "/culture/cinema/mort-de-jean-louis-trintignant-lamour-dans-lame-20220617_R6E7MK7XFRA77OH5DKLMNBTQZ4/"
+    },
+    {
+      "text": "Mort de Jean-Louis Trintignant, l\u2019amour dans l\u2019\u00e2me",
+      "url": "/culture/cinema/mort-de-jean-louis-trintignant-lamour-dans-lame-20220617_R6E7MK7XFRA77OH5DKLMNBTQZ4/"
+    },
+    {
+      "text": "",
+      "url": "/culture/jeux-video/silence-on-joue-ceci-nest-pas-un-e3-neon-white-freshly-frosted-poinpy-20220617_TXDESIJYOFF7NBU7SAYUPEMCC4/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/culture/jeux-video/silence-on-joue-ceci-nest-pas-un-e3-neon-white-freshly-frosted-poinpy-20220617_TXDESIJYOFF7NBU7SAYUPEMCC4/"
+    },
+    {
+      "text": "Silence on joue! Ceci n\u2019est pas un E3, \u00abNeon White\u00bb, \u00abFreshly Frosted\u00bb, \u00abPoinpy\u00bb",
+      "url": "/culture/jeux-video/silence-on-joue-ceci-nest-pas-un-e3-neon-white-freshly-frosted-poinpy-20220617_TXDESIJYOFF7NBU7SAYUPEMCC4/"
+    },
+    {
+      "text": "",
+      "url": "/culture/musique/oo-lomepal-aitch-tristesse-contemporaine-la-playlist-du-cahier-musique-de-liberation-20220617_JUCIFFFW4NE3BJ2UKZM2MUUOEM/"
+    },
+    {
+      "text": "La d\u00e9couverte",
+      "url": "/culture/musique/oo-lomepal-aitch-tristesse-contemporaine-la-playlist-du-cahier-musique-de-liberation-20220617_JUCIFFFW4NE3BJ2UKZM2MUUOEM/"
+    },
+    {
+      "text": "O\u2019o, Lomepal, Aitch, Tristesse Contemporaine... la playlist du cahier musique de \u00abLib\u00e9ration\u00bb",
+      "url": "/culture/musique/oo-lomepal-aitch-tristesse-contemporaine-la-playlist-du-cahier-musique-de-liberation-20220617_JUCIFFFW4NE3BJ2UKZM2MUUOEM/"
+    },
+    {
+      "text": "Opinions",
+      "url": "https://www.liberation.fr/idees-et-debats/"
+    },
+    {
+      "text": "",
+      "url": "/plus/pourquoi-grimpez-vous-20220604_LV7UA7MCEZCOPKYNPN4CRNEXA4/"
+    },
+    {
+      "text": "Montagnes",
+      "url": "/plus/pourquoi-grimpez-vous-20220604_LV7UA7MCEZCOPKYNPN4CRNEXA4/"
+    },
+    {
+      "text": "Pourquoi grimpez-vous? ",
+      "url": "/plus/pourquoi-grimpez-vous-20220604_LV7UA7MCEZCOPKYNPN4CRNEXA4/"
+    },
+    {
+      "text": "",
+      "url": "/plus/sylvain-tesson-un-territoire-de-la-liberte-20220615_V6ZRT4HOYJF5PG4XXBRIIC55UM/"
+    },
+    {
+      "text": "Pourquoi grimpez-vous?",
+      "url": "/plus/sylvain-tesson-un-territoire-de-la-liberte-20220615_V6ZRT4HOYJF5PG4XXBRIIC55UM/"
+    },
+    {
+      "text": "Sylvain Tesson: \u00abUn territoire de la libert\u00e9\u00bb",
+      "url": "/plus/sylvain-tesson-un-territoire-de-la-liberte-20220615_V6ZRT4HOYJF5PG4XXBRIIC55UM/"
+    },
+    {
+      "text": "",
+      "url": "/plus/nadir-dendoune-leverest-pour-etre-vu-et-entendu-20220615_FHWWYK3GPVGQ7A226HKB24HESI/"
+    },
+    {
+      "text": "Pourquoi grimpez-vous?",
+      "url": "/plus/nadir-dendoune-leverest-pour-etre-vu-et-entendu-20220615_FHWWYK3GPVGQ7A226HKB24HESI/"
+    },
+    {
+      "text": "Nadir Dendoune: \u00abL\u2019Everest pour \u00eatre vu et entendu\u00bb",
+      "url": "/plus/nadir-dendoune-leverest-pour-etre-vu-et-entendu-20220615_FHWWYK3GPVGQ7A226HKB24HESI/"
+    },
+    {
+      "text": "",
+      "url": "/plus/cedric-gras-cette-idee-quon-est-plus-pres-du-ciel-20220615_XNUSCLBR2NAEPFBJZMQHPOTGLE/"
+    },
+    {
+      "text": "Pourquoi grimpez-vous?",
+      "url": "/plus/cedric-gras-cette-idee-quon-est-plus-pres-du-ciel-20220615_XNUSCLBR2NAEPFBJZMQHPOTGLE/"
+    },
+    {
+      "text": "C\u00e9dric Gras: \u00abCette id\u00e9e qu\u2019on est plus pr\u00e8s du ciel\u00bb",
+      "url": "/plus/cedric-gras-cette-idee-quon-est-plus-pres-du-ciel-20220615_XNUSCLBR2NAEPFBJZMQHPOTGLE/"
+    },
+    {
+      "text": "",
+      "url": "/plus/sophie-lavaud-ce-monde-totalement-a-part-20220615_OJSUOFSQNJF4XENTIQ5DLOOYKQ/"
+    },
+    {
+      "text": "Pourquoi grimpez-vous?",
+      "url": "/plus/sophie-lavaud-ce-monde-totalement-a-part-20220615_OJSUOFSQNJF4XENTIQ5DLOOYKQ/"
+    },
+    {
+      "text": "Sophie Lavaud: \u00abCe monde totalement \u00e0 part\u00bb",
+      "url": "/plus/sophie-lavaud-ce-monde-totalement-a-part-20220615_OJSUOFSQNJF4XENTIQ5DLOOYKQ/"
+    },
+    {
+      "text": "",
+      "url": "/politique/legislatives-la-majorite-relative-redonne-la-main-au-parlement-20220617_SP4U2GKSXRHZFAJNSKUAZHELN4/"
+    },
+    {
+      "text": "Interview",
+      "url": "/politique/legislatives-la-majorite-relative-redonne-la-main-au-parlement-20220617_SP4U2GKSXRHZFAJNSKUAZHELN4/"
+    },
+    {
+      "text": "L\u00e9gislatives: \u00abLa majorit\u00e9 relative redonne la main au Parlement\u00bb",
+      "url": "/politique/legislatives-la-majorite-relative-redonne-la-main-au-parlement-20220617_SP4U2GKSXRHZFAJNSKUAZHELN4/"
+    },
+    {
+      "text": "L\u00e9gislatives: M\u00e9lenchon sur son pont tournant, Edouard Philippe sur l\u2019Ile d\u2019Ol\u00e9ron, Ensemble sur la br\u00e8che... L\u2019actu de ce 17 juin ",
+      "url": "/politique/elections/en-direct-legislatives-suivez-ce-dernier-jour-de-campagne-tous-azimuts-avant-le-second-tour-20220617_4RS6W5DJL5CEJKR6UZS3SF5EUI/"
+    },
+    {
+      "text": "Elections",
+      "url": "/politique/elections/"
+    },
+    {
+      "text": "L\u00e9gislatives: \u00abPolitiquement, je suis tr\u00e8s d\u00e9\u00e7u. Macron \u00e9vite tout d\u00e9bat, surtout avec M\u00e9lenchon\u00bb",
+      "url": "/politique/elections/legislatives-politiquement-je-suis-tres-decu-macron-evite-tout-debat-surtout-avec-melenchon-20220617_Z7X6XQSUNFGCHERZSHXBJCJ7SQ/"
+    },
+    {
+      "text": "Elections",
+      "url": "/politique/elections/"
+    },
+    {
+      "text": "L\u00e9gislatives: douze circonscriptions \u00e0\u00a0suivre de pr\u00e8s",
+      "url": "/politique/legislatives-douze-circonscriptions-a-suivre-de-pres-20220617_76QUCCLUK5DCHCZHSJY4ZZK5LA/"
+    },
+    {
+      "text": "Politique",
+      "url": "/politique/"
+    },
+    {
+      "text": "",
+      "url": "/international/europe/guerre-en-ukraine-retrouvez-toutes-les-informations-sur-linvasion-russe-20220617_VCVIRWAL55B53B37AD4YDOJO7M/"
+    },
+    {
+      "text": "L'essentiel",
+      "url": "/international/europe/guerre-en-ukraine-retrouvez-toutes-les-informations-sur-linvasion-russe-20220617_VCVIRWAL55B53B37AD4YDOJO7M/"
+    },
+    {
+      "text": "Invasion russe: Bruxelles ouvre la porte \u00e0 l\u2019Ukraine, Johnson \u00e0 Kyiv, pol\u00e9mique sur l\u2019Eurovision... L\u2019actu de ce 17 juin ",
+      "url": "/international/europe/guerre-en-ukraine-retrouvez-toutes-les-informations-sur-linvasion-russe-20220617_VCVIRWAL55B53B37AD4YDOJO7M/"
+    },
+    {
+      "text": "Covid-19: en Europe, une acc\u00e9l\u00e9ration nette de la circulation virale",
+      "url": "/societe/sante/covid-19-en-europe-une-acceleration-nette-de-la-circulation-virale-20220617_HQWMJW42XFGLNNATFQVCC2VQ7U/"
+    },
+    {
+      "text": "Sant\u00e9",
+      "url": "/societe/sante/"
+    },
+    {
+      "text": "Le \u00abFujian\u00bb, un porte-avions d\u2019ambitions chinoises face \u00e0 Taiwan",
+      "url": "/international/asie-pacifique/le-fujian-un-porte-avions-dambitions-chinoises-face-a-taiwan-20220617_T36AL7RXLRD7XNG3GZNOZ6EYZU/"
+    },
+    {
+      "text": "Asie Pacifique",
+      "url": "/international/asie-pacifique/"
+    },
+    {
+      "text": "P\u00e8lerinage \u00e0 La Mecque: le num\u00e9rique dans la fleur de l\u2019Hajj",
+      "url": "/international/pelerinage-a-la-mecque-le-numerique-dans-la-fleur-de-lhajj-20220617_6KZURMYBU5DCJHP2UZXAAG4G74/"
+    },
+    {
+      "text": "International",
+      "url": "/international/"
+    },
+    {
+      "text": "",
+      "url": "/checknews/ministres-candidats-et-periode-de-reserve-ces-entorses-reperees-par-les-lecteurs-de-checknews-20220617_IOD4FBKDMJET3EMWW7VIPKAVZQ/"
+    },
+    {
+      "text": "CheckNews",
+      "url": "/checknews/ministres-candidats-et-periode-de-reserve-ces-entorses-reperees-par-les-lecteurs-de-checknews-20220617_IOD4FBKDMJET3EMWW7VIPKAVZQ/"
+    },
+    {
+      "text": "Ministres-candidats et p\u00e9riode de r\u00e9serve: ces entorses rep\u00e9r\u00e9es par les lecteurs de CheckNews",
+      "url": "/checknews/ministres-candidats-et-periode-de-reserve-ces-entorses-reperees-par-les-lecteurs-de-checknews-20220617_IOD4FBKDMJET3EMWW7VIPKAVZQ/"
+    },
+    {
+      "text": "Baisse d\u2019imp\u00f4ts pour toute personne gagnant au plus 4\u00a0000 euros? L\u2019usine \u00e0 gaz de la r\u00e9volution fiscale de LFI ",
+      "url": "/checknews/baisse-dimpots-pour-toute-personne-gagnant-au-plus-4-000-euros-lusine-a-gaz-de-la-revolution-fiscale-de-lfi-20220617_TUEIJCHREZHO7PNN6W6XNOZ36I/"
+    },
+    {
+      "text": "CheckNews",
+      "url": "/checknews/"
+    },
+    {
+      "text": "La majorit\u00e9 pr\u00e9sidentielle pr\u00e9voit-elle vraiment 80 milliards d\u2019euros d\u2019\u00e9conomies cach\u00e9es, comme l\u2019affirme LFI?",
+      "url": "/checknews/la-majorite-presidentielle-prevoit-elle-vraiment-80-milliards-deuros-deconomies-cachees-comme-laffirme-lfi-20220617_MQYU4ZTLWRB6XFOWKY25QG6N64/"
+    },
+    {
+      "text": "CheckNews",
+      "url": "/checknews/"
+    },
+    {
+      "text": "Pourquoi Lib\u00e9, comme d\u2019autres journaux, illustre encore parfois des articles sur la canicule avec des photos de bronzette?",
+      "url": "/checknews/pourquoi-libe-comme-dautres-journaux-illustre-encore-parfois-des-articles-sur-la-canicule-avec-des-photos-de-bronzette-20220617_JB62LZG4P5C75JJC4VDHFTSO3I/"
+    },
+    {
+      "text": "CheckNews",
+      "url": "/checknews/"
+    },
+    {
+      "text": "",
+      "url": "/culture/livres/table-ronde-le-chant-du-cycle-du-roi-arthur-20220617_N6DL5AZVSNHLDBR4KXXXVEUXAU/"
+    },
+    {
+      "text": "Litt\u00e9rature m\u00e9di\u00e9vale",
+      "url": "/culture/livres/table-ronde-le-chant-du-cycle-du-roi-arthur-20220617_N6DL5AZVSNHLDBR4KXXXVEUXAU/"
+    },
+    {
+      "text": "Table ronde: le chant du cycle du roi Arthur",
+      "url": "/culture/livres/table-ronde-le-chant-du-cycle-du-roi-arthur-20220617_N6DL5AZVSNHLDBR4KXXXVEUXAU/"
+    },
+    {
+      "text": "Tom of Finland, bites et l\u00e9gendes",
+      "url": "/culture/arts/tom-of-finland-des-bites-et-des-legs-20220617_VD2SM467VJG7JOOXOO3NQ5HENI/"
+    },
+    {
+      "text": "Arts",
+      "url": "/culture/arts/"
+    },
+    {
+      "text": "Mort de Jean-Louis Trintignant, l\u2019amour dans l\u2019\u00e2me",
+      "url": "/culture/cinema/mort-de-jean-louis-trintignant-lamour-dans-lame-20220617_R6E7MK7XFRA77OH5DKLMNBTQZ4/"
+    },
+    {
+      "text": "Cin\u00e9ma",
+      "url": "/culture/cinema/"
+    },
+    {
+      "text": "Silence on joue! Ceci n\u2019est pas un E3, \u00abNeon White\u00bb, \u00abFreshly Frosted\u00bb, \u00abPoinpy\u00bb",
+      "url": "/culture/jeux-video/silence-on-joue-ceci-nest-pas-un-e3-neon-white-freshly-frosted-poinpy-20220617_TXDESIJYOFF7NBU7SAYUPEMCC4/"
+    },
+    {
+      "text": "Jeux vid\u00e9o",
+      "url": "/culture/jeux-video/"
+    },
+    {
+      "text": "",
+      "url": "/idees-et-debats/opinions/legislatives-2022-police-et-lacrymo-travail-force-des-ouighours-coco-croque-lactu-20220613_IKMX6DACKZBTFIN2J2M5SDUBTQ/"
+    },
+    {
+      "text": "Compil'",
+      "url": "/idees-et-debats/opinions/legislatives-2022-police-et-lacrymo-travail-force-des-ouighours-coco-croque-lactu-20220613_IKMX6DACKZBTFIN2J2M5SDUBTQ/"
+    },
+    {
+      "text": "Macron en train-couchette, le bon et le mauvais r\u00e9publicain, les l\u00e9gislatives\u2026 Coco croque l\u2019actu",
+      "url": "/idees-et-debats/opinions/legislatives-2022-police-et-lacrymo-travail-force-des-ouighours-coco-croque-lactu-20220613_IKMX6DACKZBTFIN2J2M5SDUBTQ/"
+    },
+    {
+      "text": "Avraham B. Yehoshua par David Grossman ",
+      "url": "/idees-et-debats/tribunes/avraham-b-yehoshua-par-david-grossman-20220617_B7NFFGA3MFHZHITJEB3DMHKYVA/"
+    },
+    {
+      "text": "Tribunes",
+      "url": "/idees-et-debats/tribunes/"
+    },
+    {
+      "text": "L\u00e2chez les baskets de vos enfants",
+      "url": "/idees-et-debats/opinions/lachez-les-baskets-de-vos-enfants-20220617_M2R64SRWURAHBK24ZMCU4XUKGU/"
+    },
+    {
+      "text": "Opinions",
+      "url": "/idees-et-debats/opinions/"
+    },
+    {
+      "text": "Contre la canicule en ville, il y a... la neige",
+      "url": "/idees-et-debats/contre-la-canicule-en-ville-il-y-a-la-neige-20220616_3TUSPLA3UJALJKTV4B5QH3XGMI/"
+    },
+    {
+      "text": "Id\u00e9es et D\u00e9bats",
+      "url": "/idees-et-debats/"
+    },
+    {
+      "text": "",
+      "url": "/societe/manifestation-contre-un-centre-de-soin-pour-toxicomanes-dans-le-xvie-il-faut-les-mettre-a-la-campagne-20220617_5VSDOB5635HPVLVIMUU5F7LTBI/"
+    },
+    {
+      "text": "Reportage",
+      "url": "/societe/manifestation-contre-un-centre-de-soin-pour-toxicomanes-dans-le-xvie-il-faut-les-mettre-a-la-campagne-20220617_5VSDOB5635HPVLVIMUU5F7LTBI/"
+    },
+    {
+      "text": "Manifestation contre un centre de soin pour toxicomanes dans le XVIe \u00e0 Paris: \u00abIl faut les mettre \u00e0 la campagne\u00bb  ",
+      "url": "/societe/manifestation-contre-un-centre-de-soin-pour-toxicomanes-dans-le-xvie-il-faut-les-mettre-a-la-campagne-20220617_5VSDOB5635HPVLVIMUU5F7LTBI/"
+    },
+    {
+      "text": "Covid-19: en Europe, une acc\u00e9l\u00e9ration nette de la circulation virale",
+      "url": "/societe/sante/covid-19-en-europe-une-acceleration-nette-de-la-circulation-virale-20220617_HQWMJW42XFGLNNATFQVCC2VQ7U/"
+    },
+    {
+      "text": "Sant\u00e9",
+      "url": "/societe/sante/"
+    },
+    {
+      "text": "Covid-19: vers un \u00e9t\u00e9 sous la vague?",
+      "url": "/societe/sante/covid-19-vers-un-ete-sous-la-vague-20220617_X4Q4BT3EFNGLFBW3KOH4CE5SIQ/"
+    },
+    {
+      "text": "Sant\u00e9",
+      "url": "/societe/sante/"
+    },
+    {
+      "text": "P\u00e8lerinage \u00e0 La Mecque: le num\u00e9rique dans la fleur de l\u2019Hajj",
+      "url": "/international/pelerinage-a-la-mecque-le-numerique-dans-la-fleur-de-lhajj-20220617_6KZURMYBU5DCJHP2UZXAAG4G74/"
+    },
+    {
+      "text": "International",
+      "url": "/international/"
+    },
+    {
+      "text": "",
+      "url": "/environnement/agriculture/en-plein-soleil-il-fait-50c-dans-lherault-des-maraichers-sadaptent-pour-sauver-leurs-cultures-20220617_QYYMJAHPLJDVXFO5J7GLQ5ZHJU/"
+    },
+    {
+      "text": "Reportage",
+      "url": "/environnement/agriculture/en-plein-soleil-il-fait-50c-dans-lherault-des-maraichers-sadaptent-pour-sauver-leurs-cultures-20220617_QYYMJAHPLJDVXFO5J7GLQ5ZHJU/"
+    },
+    {
+      "text": "\u00abEn plein soleil, il fait 50\u00b0C!\u00bb: dans l\u2019H\u00e9rault, des mara\u00eechers s\u2019adaptent pour sauver leurs cultures ",
+      "url": "/environnement/agriculture/en-plein-soleil-il-fait-50c-dans-lherault-des-maraichers-sadaptent-pour-sauver-leurs-cultures-20220617_QYYMJAHPLJDVXFO5J7GLQ5ZHJU/"
+    },
+    {
+      "text": "Canicule: comment la climatisation r\u00e9chauffe la plan\u00e8te pour nous rafra\u00eechir",
+      "url": "/environnement/canicule-comment-la-climatisation-rechauffe-la-planete-pour-nous-rafraichir-20220617_TQFD2GY6ZRD25JQR5IA6AKXZLU/"
+    },
+    {
+      "text": "Environnement",
+      "url": "/environnement/"
+    },
+    {
+      "text": "Chaleur extr\u00eame en Espagne: des milliers d\u2019hectares de for\u00eat br\u00fbl\u00e9s ",
+      "url": "/environnement/climat/chaleur-extreme-en-espagne-des-milliers-dhectares-de-foret-brules-20220617_JOU7PK74AVDKVGRDDVMQFEF2GI/"
+    },
+    {
+      "text": "Climat",
+      "url": "/environnement/climat/"
+    },
+    {
+      "text": "Canicule: 14 d\u00e9partements d\u00e9sormais en alerte rouge et de premiers records battus",
+      "url": "/environnement/climat/canicule-14-departements-desormais-en-alerte-rouge-56-en-vigilance-orange-20220617_DQLHZOAUB5AUXHV652SJUM4Q7M/"
+    },
+    {
+      "text": "Climat",
+      "url": "/environnement/climat/"
+    },
+    {
+      "text": "",
+      "url": "/politique/elections/olivier-dussopt-le-monsieur-retraite-qui-voudrait-faire-oublier-la-reforme-des-65-ans-20220617_KL4NR3RF2RHCLFCAZOVUBUVFHE/"
+    },
+    {
+      "text": "L\u00e9gislatives 2022",
+      "url": "/politique/elections/olivier-dussopt-le-monsieur-retraite-qui-voudrait-faire-oublier-la-reforme-des-65-ans-20220617_KL4NR3RF2RHCLFCAZOVUBUVFHE/"
+    },
+    {
+      "text": "Olivier Dussopt, le monsieur Retraite qui voudrait faire oublier la r\u00e9forme des 65 ans",
+      "url": "/politique/elections/olivier-dussopt-le-monsieur-retraite-qui-voudrait-faire-oublier-la-reforme-des-65-ans-20220617_KL4NR3RF2RHCLFCAZOVUBUVFHE/"
+    },
+    {
+      "text": "Jean-Jacques Bourdin vir\u00e9 par BFM et RMC",
+      "url": "/economie/medias/jean-jacques-bourdin-vire-par-bfm-et-rmc-20220617_5SGMN42V6NGQBNWQHS62RURD7Y/"
+    },
+    {
+      "text": "M\u00e9dias",
+      "url": "/economie/medias/"
+    },
+    {
+      "text": "Brevets contre le Covid, p\u00eache durable\u2026 L\u2019OMC adopte \u00e0 l\u2019arrach\u00e9e un paquet de mesures \u00absans pr\u00e9c\u00e9dent\u00bb",
+      "url": "/economie/brevets-contre-le-covid-peche-durable-lomc-adopte-a-larrachee-un-paquet-de-mesures-sans-precedent-20220617_G4O5XQQM7BDBBECW7TQ6GY7BEQ/"
+    },
+    {
+      "text": "Economie",
+      "url": "/economie/"
+    },
+    {
+      "text": "La canicule, grande oubli\u00e9e du code du travail ?",
+      "url": "/economie/la-canicule-grande-oubliee-du-code-du-travail-20220615_V3ZPL5NFZBE7ROY5WU3TCW42F4/"
+    },
+    {
+      "text": "Economie",
+      "url": "/economie/"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/mode/mode-veepee-met-le-paquet-sur-lupcycling-20220617_RH46ZBVTZVAD7F56AC6P2SWOBA/"
+    },
+    {
+      "text": "Tendance",
+      "url": "/lifestyle/mode/mode-veepee-met-le-paquet-sur-lupcycling-20220617_RH46ZBVTZVAD7F56AC6P2SWOBA/"
+    },
+    {
+      "text": "Mode: Veepee met le paquet sur le recyclage \u00abpar le haut\u00bb",
+      "url": "/lifestyle/mode/mode-veepee-met-le-paquet-sur-lupcycling-20220617_RH46ZBVTZVAD7F56AC6P2SWOBA/"
+    },
+    {
+      "text": "Le burger est-il de droite ou de gauche?",
+      "url": "/lifestyle/gastronomie/le-burger-est-il-de-droite-ou-de-gauche-20220617_NPTYFSR2EBC37DEE2M5PI4QZ7I/"
+    },
+    {
+      "text": "Gastronomie",
+      "url": "/lifestyle/gastronomie/"
+    },
+    {
+      "text": "La soupe de poissons est-elle de droite ou de gauche\u00a0?",
+      "url": "/lifestyle/gastronomie/la-soupe-de-poissons-est-elle-de-droite-ou-de-gauche-20220616_NRGKV3Q2QJE73DTAPXUM3JSVSY/"
+    },
+    {
+      "text": "Gastronomie",
+      "url": "/lifestyle/gastronomie/"
+    },
+    {
+      "text": "La canette de bi\u00e8re tient sa revanche",
+      "url": "/lifestyle/gastronomie/la-canette-de-biere-tient-sa-revanche-20220615_QLWSLTYQXRBFJNYH5ZDKJ6A4JU/"
+    },
+    {
+      "text": "Gastronomie",
+      "url": "/lifestyle/gastronomie/"
+    },
+    {
+      "text": "",
+      "url": "/portraits/richard-gasquet-lenfant-qui-ne-voulait-pas-grandir-20220616_AYL7QZ2L4BGC7D3GPKQQWCIHS4/"
+    },
+    {
+      "text": "Le portrait",
+      "url": "/portraits/richard-gasquet-lenfant-qui-ne-voulait-pas-grandir-20220616_AYL7QZ2L4BGC7D3GPKQQWCIHS4/"
+    },
+    {
+      "text": "Richard Gasquet, l\u2019enfant qui ne voulait pas grandir",
+      "url": "/portraits/richard-gasquet-lenfant-qui-ne-voulait-pas-grandir-20220616_AYL7QZ2L4BGC7D3GPKQQWCIHS4/"
+    },
+    {
+      "text": "Audrey Fleurot, haut potentiel d\u2019intranquillit\u00e9",
+      "url": "/portraits/audrey-fleurot-haut-potentiel-dintranquillite-20220615_QBBNC6N2FVGBDGE4CBDQ2MADB4/"
+    },
+    {
+      "text": "Portraits",
+      "url": "/portraits/"
+    },
+    {
+      "text": "Thomas Klotz, le droit \u00e0 l\u2019image",
+      "url": "/portraits/thomas-klotz-le-droit-a-limage-20220614_5KRUAS54JNDRPJNVEZJ5J4K2VY/"
+    },
+    {
+      "text": "Portraits",
+      "url": "/portraits/"
+    },
+    {
+      "text": "Mathieu Gallet, radio gogo",
+      "url": "/portraits/mathieu-gallet-radio-gogo-20220613_SETIS7AZVRH7PBLPCYACNUDPZM/"
+    },
+    {
+      "text": "Portraits",
+      "url": "/portraits/"
+    },
+    {
+      "text": "",
+      "url": "/sports/nba-les-warriors-triomphent-stephen-curry-assaisonne-les-celtics-20220617_GKBNKIAQLJFXLJCX52BI6LD76I/"
+    },
+    {
+      "text": "Golden Age",
+      "url": "/sports/nba-les-warriors-triomphent-stephen-curry-assaisonne-les-celtics-20220617_GKBNKIAQLJFXLJCX52BI6LD76I/"
+    },
+    {
+      "text": "NBA: les Warriors triomphent, Stephen Curry assaisonne les Celtics",
+      "url": "/sports/nba-les-warriors-triomphent-stephen-curry-assaisonne-les-celtics-20220617_GKBNKIAQLJFXLJCX52BI6LD76I/"
+    },
+    {
+      "text": "Fiasco du Stade de France: les s\u00e9nateurs rel\u00e8vent le dogmatisme du pr\u00e9fet Lallement",
+      "url": "/sports/football/fiasco-du-stade-de-france-les-senateurs-relevent-le-dogmatisme-du-prefet-lallement-20220616_4VVRZ7T555F5NATAMT4XUNN4W4/"
+    },
+    {
+      "text": "Football",
+      "url": "/sports/football/"
+    },
+    {
+      "text": "Richard Gasquet, l\u2019enfant qui ne voulait pas grandir",
+      "url": "/portraits/richard-gasquet-lenfant-qui-ne-voulait-pas-grandir-20220616_AYL7QZ2L4BGC7D3GPKQQWCIHS4/"
+    },
+    {
+      "text": "Portraits",
+      "url": "/portraits/"
+    },
+    {
+      "text": "D\u00e9j\u00e0 r\u00e9trograd\u00e9 sportivement, Bordeaux rel\u00e9gu\u00e9 administrativement en troisi\u00e8me division",
+      "url": "/sports/football/deja-retrograde-sportivement-bordeaux-relegue-administrativement-en-troisieme-division-20220614_UMY2VXYA5JDSVJOVQO3OVRM7MQ/"
+    },
+    {
+      "text": "Football",
+      "url": "/sports/football/"
+    },
+    {
+      "text": "",
+      "url": "/sciences/biologie/sante-fragile-mort-precoce-la-vie-de-chien-des-bouledogues-anglais-20220615_CAJYCLWI6RFAHE5XCIVXVZW2SU/"
+    },
+    {
+      "text": "Etude",
+      "url": "/sciences/biologie/sante-fragile-mort-precoce-la-vie-de-chien-des-bouledogues-anglais-20220615_CAJYCLWI6RFAHE5XCIVXVZW2SU/"
+    },
+    {
+      "text": "Sant\u00e9 fragile, mort pr\u00e9coce\u2026 La vie de chien des bouledogues anglais",
+      "url": "/sciences/biologie/sante-fragile-mort-precoce-la-vie-de-chien-des-bouledogues-anglais-20220615_CAJYCLWI6RFAHE5XCIVXVZW2SU/"
+    },
+    {
+      "text": "Gaia, des \u00e9toiles plein les yeux",
+      "url": "/sciences/espace/gaia-des-etoiles-plein-les-yeux-20220613_5HZLQMQJPJCOLJAMGOQWRKAY74/"
+    },
+    {
+      "text": "Espace",
+      "url": "/sciences/espace/"
+    },
+    {
+      "text": "\u00abCapstone\u00bb, une orbite qui promet la Lune",
+      "url": "/sciences/espace/capstone-une-orbite-qui-promet-la-lune-20220613_KQYJU7OVTBE7LGHRDJ7O34LE3E/"
+    },
+    {
+      "text": "Espace",
+      "url": "/sciences/espace/"
+    },
+    {
+      "text": "Record du plus grand blob du monde: \u00abBiologiquement, \u00e7a serait impressionnant\u00bb ",
+      "url": "/sciences/biologie/record-du-plus-grand-blob-du-monde-biologiquement-ca-serait-impressionnant-20220603_XYQHI4TBA5A2FM3I22GQL7GVQU/"
+    },
+    {
+      "text": "Biologie",
+      "url": "/sciences/biologie/"
+    },
+    {
+      "text": "",
+      "url": "/culture/livres/table-ronde-le-chant-du-cycle-du-roi-arthur-20220617_N6DL5AZVSNHLDBR4KXXXVEUXAU/"
+    },
+    {
+      "text": "Litt\u00e9rature m\u00e9di\u00e9vale",
+      "url": "/culture/livres/table-ronde-le-chant-du-cycle-du-roi-arthur-20220617_N6DL5AZVSNHLDBR4KXXXVEUXAU/"
+    },
+    {
+      "text": "Table ronde: le chant du cycle du roi Arthur",
+      "url": "/culture/livres/table-ronde-le-chant-du-cycle-du-roi-arthur-20220617_N6DL5AZVSNHLDBR4KXXXVEUXAU/"
+    },
+    {
+      "text": "L\u2019homme est un hibou pour l\u2019homme",
+      "url": "/culture/livres/lhomme-est-un-hibou-pour-lhomme-20220616_INLGUD3P2BGAFHCOF5FOY4FFFY/"
+    },
+    {
+      "text": "Livres",
+      "url": "/culture/livres/"
+    },
+    {
+      "text": "Michel Winock, \u00abJournal\u00bb de la fin d\u2019un si\u00e8cle",
+      "url": "/culture/livres/michel-winock-journal-de-la-fin-dun-siecle-20220616_M7AYTGOJ6BBPVBRGWBGFAB3DGU/"
+    },
+    {
+      "text": "Livres",
+      "url": "/culture/livres/"
+    },
+    {
+      "text": "Huysmans, l\u2019agoraphobe-trotteur",
+      "url": "/culture/livres/huysmans-lagoraphobe-trotteur-20220616_BIQGSN2K4VHK3I5SIY45WS6JAQ/"
+    },
+    {
+      "text": "Livres",
+      "url": "/culture/livres/"
+    },
+    {
+      "text": "",
+      "url": "/economie/medias/jean-jacques-bourdin-vire-par-bfm-et-rmc-20220617_5SGMN42V6NGQBNWQHS62RURD7Y/"
+    },
+    {
+      "text": "#Metoo",
+      "url": "/economie/medias/jean-jacques-bourdin-vire-par-bfm-et-rmc-20220617_5SGMN42V6NGQBNWQHS62RURD7Y/"
+    },
+    {
+      "text": "Jean-Jacques Bourdin vir\u00e9 par BFM et RMC",
+      "url": "/economie/medias/jean-jacques-bourdin-vire-par-bfm-et-rmc-20220617_5SGMN42V6NGQBNWQHS62RURD7Y/"
+    },
+    {
+      "text": "Dans les m\u00e9dias r\u00e9acs, Zemmour ne fait plus recette",
+      "url": "/economie/medias/dans-les-medias-reacs-zemmour-ne-fait-plus-recette-20220617_J2V427P54JDSRJSMYSAAQXEORU/"
+    },
+    {
+      "text": "M\u00e9dias",
+      "url": "/economie/medias/"
+    },
+    {
+      "text": "Virgin Radio c\u2019est fini, revoil\u00e0 Europe 2",
+      "url": "/economie/medias/virgin-radio-cest-fini-revoila-europe-2-20220615_G7LUINIH7ZH67LTPSFDPNPCZV4/"
+    },
+    {
+      "text": "M\u00e9dias",
+      "url": "/economie/medias/"
+    },
+    {
+      "text": "Mathieu Gallet, radio gogo",
+      "url": "/portraits/mathieu-gallet-radio-gogo-20220613_SETIS7AZVRH7PBLPCYACNUDPZM/"
+    },
+    {
+      "text": "Portraits",
+      "url": "/portraits/"
+    },
+    {
+      "text": "",
+      "url": "/societe/police-justice/meurtres-de-deux-soignantes-a-pau-en-2004-romain-dupuy-reste-en-en-unite-pour-malades-difficiles-20220617_AUEDJ5HALJCL5H5FYRB7GLO2VA/"
+    },
+    {
+      "text": "Psychiatrie",
+      "url": "/societe/police-justice/meurtres-de-deux-soignantes-a-pau-en-2004-romain-dupuy-reste-en-en-unite-pour-malades-difficiles-20220617_AUEDJ5HALJCL5H5FYRB7GLO2VA/"
+    },
+    {
+      "text": "Meurtres de deux soignantes \u00e0 Pau en 2004: Romain Dupuy reste en unit\u00e9 pour malades difficiles",
+      "url": "/societe/police-justice/meurtres-de-deux-soignantes-a-pau-en-2004-romain-dupuy-reste-en-en-unite-pour-malades-difficiles-20220617_AUEDJ5HALJCL5H5FYRB7GLO2VA/"
+    },
+    {
+      "text": "Du cin\u00e9ma en\u00a0prison pour \u00abfaire bouger les\u00a0lignes\u00bb",
+      "url": "/societe/police-justice/du-cinema-en-prison-pour-faire-bouger-les-lignes-20220616_NR7ZPQUTVVGK5JI2VQUEAM3PJQ/"
+    },
+    {
+      "text": "Police / Justice",
+      "url": "/societe/police-justice/"
+    },
+    {
+      "text": "Pr\u00e8s de Nice, un fourgon force un barrage de police, un passager tu\u00e9 par balle",
+      "url": "/societe/police-justice/pres-de-nice-un-fourgon-force-un-barrage-de-police-un-passager-migrant-blesse-par-balle-20220615_DBYPYVZXGZF7DFNTIDEIZTCZQY/"
+    },
+    {
+      "text": "Police / Justice",
+      "url": "/societe/police-justice/"
+    },
+    {
+      "text": "Surpopulation carc\u00e9rale: la France somm\u00e9e d\u2019agir par l\u2019Observatoire international des prisons",
+      "url": "/societe/police-justice/surpopulation-carcerale-la-france-sommee-dagir-par-lobservatoire-international-des-prisons-20220616_JKTXTJMAUVE6VEK6M7MNVOP45I/"
+    },
+    {
+      "text": "Police / Justice",
+      "url": "/societe/police-justice/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Liberation/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/libe"
+    },
+    {
+      "text": "",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/collection/accueil-une/?outputType=xml"
+    },
+    {
+      "text": "Politique",
+      "url": "/politique/"
+    },
+    {
+      "text": "International",
+      "url": "/international/"
+    },
+    {
+      "text": "CheckNews",
+      "url": "/checknews/"
+    },
+    {
+      "text": "Culture",
+      "url": "/culture/"
+    },
+    {
+      "text": "Id\u00e9es et D\u00e9bats",
+      "url": "/idees-et-debats/"
+    },
+    {
+      "text": "Soci\u00e9t\u00e9",
+      "url": "/societe/"
+    },
+    {
+      "text": "Environnement",
+      "url": "/environnement/"
+    },
+    {
+      "text": "Economie",
+      "url": "/economie/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": "Portraits",
+      "url": "/portraits/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Sciences",
+      "url": "/sciences/"
+    },
+    {
+      "text": "Plus",
+      "url": "/plus/"
+    },
+    {
+      "text": "Forums",
+      "url": "/forums/"
+    },
+    {
+      "text": "Archives",
+      "url": "/archives/"
+    },
+    {
+      "text": "S'abonner(Opens in new window)",
+      "url": "http://abo.liberation.fr/"
+    },
+    {
+      "text": "Les Unes(Opens in new window)",
+      "url": "http://unes.liberation.fr/"
+    },
+    {
+      "text": "La boutique(Opens in new window)",
+      "url": "https://boutique.liberation.fr/"
+    },
+    {
+      "text": "Contactez-nous(Opens in new window)",
+      "url": "https://www.liberation.fr/contact/"
+    },
+    {
+      "text": "Donnez-nous votre avis(Opens in new window)",
+      "url": "https://libe-etudes.typeform.com/to/LZ9iwHae/"
+    },
+    {
+      "text": "Foire aux questions(Opens in new window)",
+      "url": "https://liberation.zendesk.com/hc/fr/"
+    },
+    {
+      "text": "Proposer une tribune(Opens in new window)",
+      "url": "https://www.liberation.fr/proposer-une-tribune/"
+    },
+    {
+      "text": "R\u00e9sultats l\u00e9gislatives 2022(Opens in new window)",
+      "url": "https://www.liberation.fr/resultats-elections/"
+    },
+    {
+      "text": "Mentions l\u00e9gales(Opens in new window)",
+      "url": "https://www.liberation.fr/mentions-legales/"
+    },
+    {
+      "text": "Charte \u00e9thique(Opens in new window)",
+      "url": "https://www.liberation.fr/charte-ethique/"
+    },
+    {
+      "text": "CGVU(Opens in new window)",
+      "url": "https://www.liberation.fr/cgvu/"
+    },
+    {
+      "text": "Protection des donn\u00e9es personnelles(Opens in new window)",
+      "url": "https://www.liberation.fr/protection-des-donnees-personnelles/"
+    },
+    {
+      "text": "Gestion des cookies(Opens in new window)",
+      "url": "https://www.liberation.fr/gestions-des-cookies/"
+    },
+    {
+      "text": "Licence(Opens in new window)",
+      "url": "https://www.liberation.fr/licence/"
+    },
+    {
+      "text": "Lire le journal(Opens in new window)",
+      "url": "https://journal.liberation.fr/"
+    },
+    {
+      "text": "Les newsletters(Opens in new window)",
+      "url": "https://www.liberation.fr/newsletters/"
+    },
+    {
+      "text": "Pr\u00e9sentation de l'application(Opens in new window)",
+      "url": "https://www.liberation.fr/application-mobile/"
+    },
+    {
+      "text": "Application sur Android(Opens in new window)",
+      "url": "https://play.google.com/store/apps/details?id=com.visuamobile.liberation&hl=fr&gl=US"
+    },
+    {
+      "text": "Application sur iPhone / iPad(Opens in new window)",
+      "url": "https://apps.apple.com/fr/app/lib%C3%A9ration-toute-lactualit%C3%A9/id336173383/"
+    },
+    {
+      "text": "search by queryly ",
+      "url": "https://www.queryly.com/"
+    },
+    {
+      "text": "Advanced Search",
+      "url": "#"
+    }
+  ],
   "metadata": {
     "identifier": "libe-2022",
     "collection": [
@@ -2823,10 +4665,10 @@
     "publicdate": "2022-04-09 13:43:11",
     "addeddate": "2022-04-09 13:43:11"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 613830719,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1339329221,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }
