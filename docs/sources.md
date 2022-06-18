@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 108 sites.
+The archiving routine is currently capturing 109 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -40,6 +40,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[France 24 English](https://www.france24.com/en/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24_en.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/france24_en.xml)|
 |[Frederick News-Post](https://www.fredericknewspost.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/frednewspost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/frednewspost.xml)|
 |[Green Bay Press-Gazette](https://www.greenbaypressgazette.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gbpressgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gbpressgazette.xml)|
+|[Grid](https://www.grid.news/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gridnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gridnews.xml)|
 |[Herald Times Reporter](https://www.htrnews.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/htrnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/htrnews.xml)|
 |[Human Events](https://humanevents.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humanevents.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humanevents.xml)|
 |[ICIJ](https://www.icij.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/icijorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/icijorg.xml)|
