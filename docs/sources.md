@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 111 sites.
+The archiving routine is currently capturing 112 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -110,6 +110,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Ukrinform](https://www.ukrinform.ua/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ukrinform.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ukrinform.xml)|
 |[Ventura County Star](https://www.vcstar.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vcstar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vcstar.xml)|
 |[Voice of San Diego](https://voiceofsandiego.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofsandiego.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voiceofsandiego.xml)|
+|[Votebeat](https://www.votebeat.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/votebeatus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/votebeatus.xml)|
 |[WRAL](https://www.wral.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wral.xml)|
 |[Wall Street Journal](https://www.wsj.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wsj.xml)|
 |[Washington Examiner](https://www.washingtonexaminer.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dcexaminer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dcexaminer.xml)|
