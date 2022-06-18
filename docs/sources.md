@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 112 sites.
+The archiving routine is currently capturing 113 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -77,6 +77,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[MinnPost](https://www.minnpost.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/minnpost.xml)|
 |[Minneapolis Star Tribune](https://www.startribune.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/startribune.xml)|
 |[Mother Jones](https://www.motherjones.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/motherjones.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones.xml)|
+|[Mountain State Spotlight](https://mountainstatespotlight.org/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtnstspotlight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtnstspotlight.xml)|
 |[NBC News](https://www.nbcnews.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml)|
 |[National Review](https://www.nationalreview.com/)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nro.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nro.xml)|
 |[New York Times](https://www.nytimes.com)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
