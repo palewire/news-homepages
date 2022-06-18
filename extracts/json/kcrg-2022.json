@@ -1,5 +1,5 @@
 {
-  "created": 1655425089,
+  "created": 1655511564,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/9/items/kcrg-2022",
@@ -2698,31 +2698,189 @@
       "sha1": "09deeccdfa946928923967011959c85a681368c9"
     },
     {
+      "name": "kcrg-2022-06-17T07:54:05.601330-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655470449",
+      "size": "34294",
+      "md5": "a31e5451b85a2690b00214144e138b07",
+      "crc32": "6dfd3c5a",
+      "sha1": "6a9ce162bea7cb56f4d512dd69a7cd2312b42ace",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-17T07:54:05.601330-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655470451",
+      "size": "17883",
+      "md5": "fc02dfbb74050ed35c4b3663df28ceee",
+      "crc32": "2be8f1c4",
+      "sha1": "00a0bbbd29f549f10b27253e6caa9659e92a3ac7",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-17T07:54:05.601330-05:00.jpg",
+      "source": "original",
+      "mtime": "1655470448",
+      "size": "335686",
+      "md5": "bd7fdea114a8bf37f749e3effaff2bc9",
+      "crc32": "1f43157a",
+      "sha1": "6c7bf4febd1f4f671d1395a97f10cc068eb85049",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-17T07:54:05.601330-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-17T07:54:05.601330-05:00.jpg",
+      "mtime": "1655470516",
+      "size": "10392",
+      "md5": "43736db15d8c0b5df32dbde808231bfe",
+      "crc32": "4ab3a8fc",
+      "sha1": "7768483ac6f2cc6949f539b57bf3f8868574e9ac"
+    },
+    {
+      "name": "kcrg-2022-06-17T08:32:08.455213-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655472737",
+      "size": "34573",
+      "md5": "29bec58332b6c4289cdd112003ba131b",
+      "crc32": "553422b8",
+      "sha1": "2f7ee8eeeed92a3eb294025c1301f3a6cc17542c",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-17T08:32:08.455213-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655472739",
+      "size": "17925",
+      "md5": "adda95fd245921000f0d218b30733a4a",
+      "crc32": "383ac646",
+      "sha1": "57133b5dbbc35b15961929400229d566259577dd",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-17T08:32:08.455213-05:00.jpg",
+      "source": "original",
+      "mtime": "1655472734",
+      "size": "334003",
+      "md5": "80b865b584e90274277cdc965889cb50",
+      "crc32": "c1fd4d4a",
+      "sha1": "f13b1ea9a156790c093b5e8e6d30b70fbd2d7c5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-17T08:32:08.455213-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-17T08:32:08.455213-05:00.jpg",
+      "mtime": "1655472815",
+      "size": "10310",
+      "md5": "1cdee75bc22e3a961e570ae1ca9df554",
+      "crc32": "ac373429",
+      "sha1": "85f21c5c0228ab82fa28be58395120af8d9ae5e5"
+    },
+    {
+      "name": "kcrg-2022-06-17T12:22:17.541285-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655486542",
+      "size": "17904",
+      "md5": "3516ce08adb67be563342a06a18dfcfd",
+      "crc32": "15b43ab9",
+      "sha1": "98f216db9e866ec424eff8f3634429ef007163f1",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-17T12:22:17.541285-05:00.jpg",
+      "source": "original",
+      "mtime": "1655486540",
+      "size": "314970",
+      "md5": "802751298e80f55c5df3b4a15ee209eb",
+      "crc32": "a0c6196c",
+      "sha1": "bf7d6afc9c59ad04c2e366589829a1ea2adb4f6c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-17T12:22:17.541285-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-17T12:22:17.541285-05:00.jpg",
+      "mtime": "1655486634",
+      "size": "10177",
+      "md5": "2a63ba1513bea11a04626acf2c63598f",
+      "crc32": "5277aabd",
+      "sha1": "cdf2459f1a1dcc7dd52b0dbf52fdf809edb51b07"
+    },
+    {
+      "name": "kcrg-2022-06-17T16:01:13.871159-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655499679",
+      "size": "33664",
+      "md5": "96a450392ddea5c2e65d6eeb66ae8f06",
+      "crc32": "c12546d7",
+      "sha1": "fa8417e2063df071e92666ed390033a9ab78d6c7",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-17T16:01:13.871159-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655499681",
+      "size": "17772",
+      "md5": "6df70d6497d051add32f177b7f73b5a7",
+      "crc32": "ca5d2ada",
+      "sha1": "2bc1933c6c81d8bac9d988535defca4a65c9646f",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-17T16:01:13.871159-05:00.jpg",
+      "source": "original",
+      "mtime": "1655499677",
+      "size": "328244",
+      "md5": "0ca1f6708350223afadcde405c85363d",
+      "crc32": "3a2b58f0",
+      "sha1": "c79d8578c72ec896befe87d948d3f2e26c95296b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-17T16:01:13.871159-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-17T16:01:13.871159-05:00.jpg",
+      "mtime": "1655499779",
+      "size": "10345",
+      "md5": "77f73ac285a422af8495ba1c2954e846",
+      "crc32": "d4ac566d",
+      "sha1": "9096339f3bbfa696db2682b4d1983a44494d154e"
+    },
+    {
       "name": "kcrg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1ab2ca4961ea54ee17ae2b85572aebfc498171f4",
-      "mtime": "1655137020",
-      "size": "54454",
-      "md5": "3906be851c49620bb0d411a7897de008",
-      "crc32": "f72ddd9d",
-      "sha1": "d15a2b377e5d53ee6a017e04d7f29bb4392d1ae8",
+      "btih": "b0c4c2f1d4547b62feb9436e0e132498c5f52ca8",
+      "mtime": "1655499783",
+      "size": "57560",
+      "md5": "7cda66b7e0dbcfa155e99e48c3547a7a",
+      "crc32": "5e125232",
+      "sha1": "32aad1aaaf4d0beec1d73e85a2a3f3d8acee134e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "10d6e1ba06c4ecb63f3c364cbae92ef7",
+      "md5": "76effe78994ffdf11d9e5e054dad01d8",
       "summation": "md5"
     },
     {
       "name": "kcrg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655136967",
-      "size": "307200",
-      "md5": "da261173ed37766db7113647bda73cbe",
-      "crc32": "dc97e24f",
-      "sha1": "639f8f8aa189e5403676ba8c4dee0fa0e39ae7f0",
+      "mtime": "1655499695",
+      "size": "323584",
+      "md5": "64b0bb45bae5bddef1fd361f307cbc4f",
+      "crc32": "49fd66e0",
+      "sha1": "27a2a231c8cef3b71b762d196ac3de6b58ffa7b1",
       "format": "Metadata"
     },
     {
@@ -2736,9 +2894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 260,
-  "item_last_updated": 1655137020,
-  "item_size": 26987296,
+  "files_count": 275,
+  "item_last_updated": 1655499783,
+  "item_size": 28534928,
   "kcrg-2022": [
     {
       "text": "Skip to content",
@@ -2773,7 +2931,7 @@
       "url": "/"
     },
     {
-      "text": "73\u00b0Cedar Rapids, IA",
+      "text": "86\u00b0Cedar Rapids, IA",
       "url": "/weather/"
     },
     {
@@ -3017,100 +3175,108 @@
       "url": "https://www.youtube.com/user/kcrgdotcom"
     },
     {
-      "text": "7 weather alerts in effect",
-      "url": "/weather/alerts/"
-    },
-    {
-      "text": " LIVE: Jan. 6 witnesses: We told Trump not to claim quick victory Stepien is a key witness as the panel delves deeper into what it calls the \u201cbig lie,\u201d the defeated Republican president\u2019s false claims of voter fraud that fueled efforts to overturn the 2020 election and provoked a mob to lay siege to the U.S. Capitol.",
-      "url": "/2022/06/13/16-panel-hear-trump-campaign-manager-probe-election-lie/"
+      "text": " Iowa Supreme Court says abortion not protected by state constitution, approves 24-hour waiting periodThe court concluded Friday that a 2018 decision was wrongly decided and should be overturned.",
+      "url": "/2022/06/17/iowa-court-abortion-not-protected-by-state-constitution/"
     },
     {
       "text": "",
-      "url": "/2022/06/13/16-panel-hear-trump-campaign-manager-probe-election-lie/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/06/13/navy-veteran-bob-feiereisen-continues-serve-fellow-veterans-his-community/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/13/navy-veteran-bob-feiereisen-continues-serve-fellow-veterans-his-community/"
-    },
-    {
-      "text": " Navy veteran Bob Feiereisen continues to serve fellow veterans and his community",
-      "url": "/2022/06/13/navy-veteran-bob-feiereisen-continues-serve-fellow-veterans-his-community/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/06/13/record-high-gas-prices-not-keeping-boaters-off-coralville-lake/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/13/record-high-gas-prices-not-keeping-boaters-off-coralville-lake/"
-    },
-    {
-      "text": " Record-high gas prices not keeping boaters off Coralville Lake",
-      "url": "/2022/06/13/record-high-gas-prices-not-keeping-boaters-off-coralville-lake/"
-    },
-    {
-      "text": "Sports",
-      "url": "/2022/06/13/iowa-cubs-give-little-leaguers-big-league-treatment/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/13/iowa-cubs-give-little-leaguers-big-league-treatment/"
-    },
-    {
-      "text": " Iowa Cubs give little leaguers the \u2018big league\u2019 treatment",
-      "url": "/2022/06/13/iowa-cubs-give-little-leaguers-big-league-treatment/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/06/13/dubuque-fire-department-dispatched-after-resident-found-wwii-era-bomb/"
-    },
-    {
-      "text": "Dubuque Fire Department dispatched after resident found WWII-era bomb",
-      "url": "/2022/06/13/dubuque-fire-department-dispatched-after-resident-found-wwii-era-bomb/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/06/13/golf-tournament-fundraiser-held-shellsburg/"
-    },
-    {
-      "text": " Golf tournament fundraiser held in Shellsburg",
-      "url": "/2022/06/13/golf-tournament-fundraiser-held-shellsburg/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/06/12/cedar-rapids-rally-pushes-stricter-gun-laws/"
-    },
-    {
-      "text": " Cedar Rapids rally pushes for stricter gun laws",
-      "url": "/2022/06/12/cedar-rapids-rally-pushes-stricter-gun-laws/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/06/12/statue-unveiled-corporal-harold-keller-who-helped-raise-flag-iwo-jima/"
-    },
-    {
-      "text": " Statue unveiled in Brooklyn for veteran who helped raise flag at Iwo Jima",
-      "url": "/2022/06/12/statue-unveiled-corporal-harold-keller-who-helped-raise-flag-iwo-jima/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/06/12/restorations-underway-update-park-victor/"
-    },
-    {
-      "text": " Restorations underway to update park in Victor",
-      "url": "/2022/06/12/restorations-underway-update-park-victor/"
+      "url": "/2022/06/17/iowa-court-abortion-not-protected-by-state-constitution/"
     },
     {
       "text": "Iowa",
-      "url": "/2022/06/11/iowa-justices-deny-appeals-by-2-men-serving-life-murder/"
+      "url": "/2022/06/17/drug-operation-seized-fayette-county/"
     },
     {
-      "text": "Iowa justices deny appeals by 2 men serving life for murder",
-      "url": "/2022/06/11/iowa-justices-deny-appeals-by-2-men-serving-life-murder/"
+      "text": "",
+      "url": "/2022/06/17/drug-operation-seized-fayette-county/"
+    },
+    {
+      "text": "Drug operation seized in Fayette County",
+      "url": "/2022/06/17/drug-operation-seized-fayette-county/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/17/sheriff-9-year-old-boy-fatally-hit-by-motorcycle-iowa/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/17/sheriff-9-year-old-boy-fatally-hit-by-motorcycle-iowa/"
+    },
+    {
+      "text": "Sheriff: 9-year-old boy fatally hit by motorcycle in Iowa",
+      "url": "/2022/06/17/sheriff-9-year-old-boy-fatally-hit-by-motorcycle-iowa/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/17/teen-injured-vehicle-totaled-fayette-county-crash/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/17/teen-injured-vehicle-totaled-fayette-county-crash/"
+    },
+    {
+      "text": "Teen injured, vehicle totaled in Fayette County crash",
+      "url": "/2022/06/17/teen-injured-vehicle-totaled-fayette-county-crash/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/17/wages-are-up-inflation-causes-pay-cut/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/17/wages-are-up-inflation-causes-pay-cut/"
+    },
+    {
+      "text": " Wages are up but inflation causes pay cut",
+      "url": "/2022/06/17/wages-are-up-inflation-causes-pay-cut/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/16/emaciated-dehydrated-puppies-rescued-des-moines/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/16/emaciated-dehydrated-puppies-rescued-des-moines/"
+    },
+    {
+      "text": "Emaciated and dehydrated puppies rescued in Des Moines, suspect arrested",
+      "url": "/2022/06/16/emaciated-dehydrated-puppies-rescued-des-moines/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/17/lost-island-theme-park-open-saturday-some-rides-not-ready/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/17/lost-island-theme-park-open-saturday-some-rides-not-ready/"
+    },
+    {
+      "text": "Lost Island Theme Park to open Saturday, some rides not ready",
+      "url": "/2022/06/17/lost-island-theme-park-open-saturday-some-rides-not-ready/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/17/fda-authorizes-1st-covid-19-shots-infants-preschoolers/"
+    },
+    {
+      "text": " FDA authorizes 1st COVID-19 shots for infants, preschoolers",
+      "url": "/2022/06/17/fda-authorizes-1st-covid-19-shots-infants-preschoolers/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/17/walgreens-kroger-recall-medications-not-meeting-child-safety-standards/"
+    },
+    {
+      "text": " Walgreens, Kroger recall medications for not meeting child safety standards",
+      "url": "/2022/06/17/walgreens-kroger-recall-medications-not-meeting-child-safety-standards/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/17/bird-flu-outbreak-waning-threat-virus-lingers/"
+    },
+    {
+      "text": "Bird flu outbreak waning but threat of virus lingers",
+      "url": "/2022/06/17/bird-flu-outbreak-waning-threat-virus-lingers/"
     },
     {
       "text": "",
@@ -3122,219 +3288,219 @@
     },
     {
       "text": "News",
-      "url": "/video/2022/06/13/iowa-irish-fest-tickets-go-sale-monday/"
+      "url": "/video/2022/06/17/master-gardener-explains-deadheading/"
     },
     {
-      "text": "Iowa Irish Fest tickets go on Sale Monday",
-      "url": "/video/2022/06/13/iowa-irish-fest-tickets-go-sale-monday/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/06/13/iowa-cubs-give-little-leaguers-big-league-treatment/"
-    },
-    {
-      "text": "Iowa Cubs give little leaguers the 'big league' treatment",
-      "url": "/video/2022/06/13/iowa-cubs-give-little-leaguers-big-league-treatment/"
+      "text": "Master gardener explains deadheading",
+      "url": "/video/2022/06/17/master-gardener-explains-deadheading/"
     },
     {
       "text": "News",
-      "url": "/video/2022/06/13/team-iowa-brings-home-medals-special-olympics-usa-games/"
+      "url": "/video/2022/06/17/iowa-court-abortion-not-protected-by-state-constitution/"
     },
     {
-      "text": "Team Iowa brings home medals from Special Olympics USA Games",
-      "url": "/video/2022/06/13/team-iowa-brings-home-medals-special-olympics-usa-games/"
+      "text": "Iowa court: Abortion not protected by state constitution",
+      "url": "/video/2022/06/17/iowa-court-abortion-not-protected-by-state-constitution/"
     },
     {
       "text": "News",
-      "url": "/video/2022/06/13/record-inflation-drives-high-gas-prices/"
+      "url": "/video/2022/06/17/last-person-talk-jodi-huisentruit-speaks/"
     },
     {
-      "text": "Record inflation drives high gas prices",
-      "url": "/video/2022/06/13/record-inflation-drives-high-gas-prices/"
+      "text": "Last person to talk to Jodi Huisentruit speaks",
+      "url": "/video/2022/06/17/last-person-talk-jodi-huisentruit-speaks/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/06/17/walgreens-kroger-recall-medications-not-meeting-child-safety-standards/"
+    },
+    {
+      "text": "Walgreens, Kroger recall medications for not meeting child safety standards",
+      "url": "/video/2022/06/17/walgreens-kroger-recall-medications-not-meeting-child-safety-standards/"
     },
     {
       "text": "MORE NEWS",
       "url": "/news/"
     },
     {
+      "text": "National",
+      "url": "/2022/06/17/biden-hosts-climate-meeting-amid-high-gas-price-pressure/"
+    },
+    {
+      "text": " Biden hosts climate meeting amid high gas price pressure",
+      "url": "/2022/06/17/biden-hosts-climate-meeting-amid-high-gas-price-pressure/"
+    },
+    {
       "text": "Local",
-      "url": "/2022/06/13/e-coli-found-several-eastern-iowa-beaches/"
+      "url": "/2022/06/17/organization-growing-keep-kids-off-street/"
     },
     {
-      "text": "E. coli found at several Eastern Iowa beaches",
-      "url": "/2022/06/13/e-coli-found-several-eastern-iowa-beaches/"
+      "text": " Organization growing to keep kids off the street",
+      "url": "/2022/06/17/organization-growing-keep-kids-off-street/"
     },
     {
-      "text": "National",
-      "url": "/2022/06/13/50-magnitude-earthquake-shakes-eastern-turkey/"
+      "text": "News",
+      "url": "/video/2022/06/17/upcoming-freedom-festival-activities/"
     },
     {
-      "text": "5.0 magnitude earthquake shakes eastern Turkey",
-      "url": "/2022/06/13/50-magnitude-earthquake-shakes-eastern-turkey/"
+      "text": "Upcoming Freedom Festival activities",
+      "url": "/video/2022/06/17/upcoming-freedom-festival-activities/"
     },
     {
-      "text": "National",
-      "url": "/2022/06/13/brazil-police-items-owned-by-missing-men-found-amazon/"
+      "text": "News",
+      "url": "/2022/06/17/local-real-estate-agent-talks-housing-market-with-rising-inflation/"
     },
     {
-      "text": "Brazil police: Items owned by missing men found in Amazon",
-      "url": "/2022/06/13/brazil-police-items-owned-by-missing-men-found-amazon/"
+      "text": " Local real estate agent talks housing market with rising inflation",
+      "url": "/2022/06/17/local-real-estate-agent-talks-housing-market-with-rising-inflation/"
     },
     {
-      "text": "National",
-      "url": "/2022/06/12/ukraines-teen-drone-hero-happy-that-we-destroyed-someone/"
+      "text": "Local",
+      "url": "/2022/06/17/crpd-justify-officers-middle-school-with-mass-shooting-studies-show-sros-dont-stop-shootings/"
     },
     {
-      "text": "Ukraine\u2019s teen drone hero \u2018happy that we destroyed someone\u2019",
-      "url": "/2022/06/12/ukraines-teen-drone-hero-happy-that-we-destroyed-someone/"
+      "text": " Cedar Rapids police justify officers in school following Texas school shooting",
+      "url": "/2022/06/17/crpd-justify-officers-middle-school-with-mass-shooting-studies-show-sros-dont-stop-shootings/"
     },
     {
-      "text": "National",
-      "url": "/2022/06/12/with-jurassic-world-3-dinosaurs-rule-again-box-office/"
+      "text": "News",
+      "url": "/2022/06/16/rioburittos-reopens-first-time-since-derecho/"
     },
     {
-      "text": "With \u2018Jurassic World 3,\u2019 dinosaurs rule again at box office",
-      "url": "/2022/06/12/with-jurassic-world-3-dinosaurs-rule-again-box-office/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/12/renaissance-synagogues-being-restored-venices-ghetto/"
-    },
-    {
-      "text": "Renaissance synagogues being restored in Venice\u2019s ghetto",
-      "url": "/2022/06/12/renaissance-synagogues-being-restored-venices-ghetto/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/12/cyprus-eyes-rebound-loss-russian-ukrainian-tourists/"
-    },
-    {
-      "text": "Cyprus eyes rebound from loss of Russian, Ukrainian tourists",
-      "url": "/2022/06/12/cyprus-eyes-rebound-loss-russian-ukrainian-tourists/"
-    },
-    {
-      "text": "Forecast",
-      "url": "/2022/06/11/few-storms-possible-heat-humidity-certain/"
-    },
-    {
-      "text": " A few storms possible, heat and humidity certain",
-      "url": "/2022/06/11/few-storms-possible-heat-humidity-certain/"
+      "text": " RioBurittos reopens for first time since derecho",
+      "url": "/2022/06/16/rioburittos-reopens-first-time-since-derecho/"
     },
     {
       "text": "Iowa",
-      "url": "/2022/06/11/karim-project-set-help-familes-whove-lost-child-always-remember-them/"
+      "url": "/2022/06/17/fallen-deputy-returned-his-iowa-community/"
     },
     {
-      "text": " \u2018Karim Project\u2019 set to help familes who\u2019ve lost a child, always remember them",
-      "url": "/2022/06/11/karim-project-set-help-familes-whove-lost-child-always-remember-them/"
+      "text": "Fallen deputy returned to his Iowa community",
+      "url": "/2022/06/17/fallen-deputy-returned-his-iowa-community/"
     },
     {
-      "text": "National",
-      "url": "/2022/06/11/thousands-rally-gun-reform-after-surge-mass-shootings/"
+      "text": "Iowa",
+      "url": "/2022/06/13/eastern-iowa-independence-day-fireworks-displays/"
     },
     {
-      "text": " \u2018Enough is enough\u2019: Thousands demand new gun safety laws",
-      "url": "/2022/06/11/thousands-rally-gun-reform-after-surge-mass-shootings/"
+      "text": "Eastern Iowa Independence Day fireworks displays",
+      "url": "/2022/06/13/eastern-iowa-independence-day-fireworks-displays/"
     },
     {
-      "text": "National",
-      "url": "/2022/06/11/5-gas-is-here-aaa-says-nationwide-average-hits-new-high/"
+      "text": "Iowa",
+      "url": "/2022/06/16/gov-reynolds-issues-disaster-proclamation-five-counties/"
     },
     {
-      "text": " $5 gas is here: AAA says nationwide average hits new high",
-      "url": "/2022/06/11/5-gas-is-here-aaa-says-nationwide-average-hits-new-high/"
+      "text": " Gov. Reynolds issues disaster proclamation for five counties",
+      "url": "/2022/06/16/gov-reynolds-issues-disaster-proclamation-five-counties/"
     },
     {
       "text": "Local",
-      "url": "/2022/06/10/students-feel-safer-with-fewer-arrests-after-school-resource-officer-changes-cedar-rapids-schools/"
+      "url": "/2022/06/16/theres-not-better-time-buy-what-local-car-dealerships-are-saying-about-increased-interest-rates/"
     },
     {
-      "text": " Students feel safer with fewer arrests after School Resource Officer changes in Cedar Rapids Schools",
-      "url": "/2022/06/10/students-feel-safer-with-fewer-arrests-after-school-resource-officer-changes-cedar-rapids-schools/"
+      "text": " \u201cThere\u2019s not a better time to buy.\u201d - what local car dealerships are saying about increased interest rates",
+      "url": "/2022/06/16/theres-not-better-time-buy-what-local-car-dealerships-are-saying-about-increased-interest-rates/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/16/limited-use-fireworks-allowed-unincorporated-linn-county/"
+    },
+    {
+      "text": "Limited use of fireworks allowed in unincorporated Linn County",
+      "url": "/2022/06/16/limited-use-fireworks-allowed-unincorporated-linn-county/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/16/76-year-old-tipton-woman-hospitalized-cedar-county-crash/"
+    },
+    {
+      "text": "76-year-old Tipton woman hospitalized in Cedar County crash",
+      "url": "/2022/06/16/76-year-old-tipton-woman-hospitalized-cedar-county-crash/"
     },
     {
       "text": "MORE NEWS",
       "url": "/news/"
     },
     {
+      "text": "Iowa",
+      "url": "/2022/06/16/man-accused-dubuque-murder-pleads-not-guilty-arraignment-set/"
+    },
+    {
+      "text": "Man accused in Dubuque murder pleads not guilty; arraignment set",
+      "url": "/2022/06/16/man-accused-dubuque-murder-pleads-not-guilty-arraignment-set/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/16/cedar-rapids-freedom-festivals-balloon-glow-returns-saturday-new-location/"
+    },
+    {
+      "text": " Cedar Rapids Freedom Festival\u2019s Balloon Glow returns Saturday at new location",
+      "url": "/2022/06/16/cedar-rapids-freedom-festivals-balloon-glow-returns-saturday-new-location/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/16/cedar-rapids-downtown-farmers-market-venue-changed-due-construction/"
+    },
+    {
+      "text": "Cedar Rapids Downtown Farmers Market venue changed due to construction",
+      "url": "/2022/06/16/cedar-rapids-downtown-farmers-market-venue-changed-due-construction/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/16/jan-6-panel-probes-trump-pressure-pence-reject-election/"
+    },
+    {
+      "text": " Panel sharpens focus on Trump\u2019s \u2018crazy\u2019 Jan. 6 plan ",
+      "url": "/2022/06/16/jan-6-panel-probes-trump-pressure-pence-reject-election/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/16/feds-aggressive-rate-hikes-raise-likelihood-recession/"
+    },
+    {
+      "text": " Fed\u2019s aggressive rate hikes raise likelihood of a recession",
+      "url": "/2022/06/16/feds-aggressive-rate-hikes-raise-likelihood-recession/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/16/live-cedar-rapids-linn-county-detail-round-2-arpa-funding/"
+    },
+    {
+      "text": "Cedar Rapids, Linn County detail round 2 ARPA funding",
+      "url": "/2022/06/16/live-cedar-rapids-linn-county-detail-round-2-arpa-funding/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/16/ten-years-after-2-evansdale-girls-go-missing-investigators-continue-receive-tips/"
+    },
+    {
+      "text": " Investigators still receiving tips 10 years after cousins abducted from Evansdale",
+      "url": "/2022/06/16/ten-years-after-2-evansdale-girls-go-missing-investigators-continue-receive-tips/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/16/far-left-group-says-it-plans-target-more-iowa-pregnancy-centers/"
+    },
+    {
+      "text": "Far-left group says it plans to target more Iowa pregnancy centers",
+      "url": "/2022/06/16/far-left-group-says-it-plans-target-more-iowa-pregnancy-centers/"
+    },
+    {
       "text": "News",
-      "url": "/2022/06/10/new-chapter-works-farley-public-library/"
+      "url": "/2022/06/16/women-veterans-invited-share-their-stories/"
     },
     {
-      "text": " A new chapter in the works for the Farley Public Library",
-      "url": "/2022/06/10/new-chapter-works-farley-public-library/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/10/four-armed-robbery-suspects-arrested-des-moines/"
-    },
-    {
-      "text": "Four armed robbery suspects arrested in Des Moines",
-      "url": "/2022/06/10/four-armed-robbery-suspects-arrested-des-moines/"
+      "text": " Women veterans invited to share their stories",
+      "url": "/2022/06/16/women-veterans-invited-share-their-stories/"
     },
     {
       "text": "Iowa",
-      "url": "/2022/06/10/teens-arrested-after-stealing-vehicles-bremer-black-hawk-county/"
+      "url": "/2022/06/16/structure-fire-damages-residence-north-liberty/"
     },
     {
-      "text": "Teens arrested after stealing vehicles in Bremer and Black Hawk County",
-      "url": "/2022/06/10/teens-arrested-after-stealing-vehicles-bremer-black-hawk-county/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/06/11/march-our-lives-event-held-cedar-rapids/"
-    },
-    {
-      "text": "March for our lives event held in Cedar Rapids",
-      "url": "/2022/06/11/march-our-lives-event-held-cedar-rapids/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/10/pleasant-valley-high-school-student-raises-money-send-medical-kits-ukraine/"
-    },
-    {
-      "text": "Pleasant Valley High School student raises money to send medical kits to Ukraine",
-      "url": "/2022/06/10/pleasant-valley-high-school-student-raises-money-send-medical-kits-ukraine/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/11/around-300000-iowan-meals-arrive-ukraine/"
-    },
-    {
-      "text": " Around 300,000 Iowan meals arrive in Ukraine",
-      "url": "/2022/06/11/around-300000-iowan-meals-arrive-ukraine/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/11/gov-reynolds-hopes-alleviate-iowas-teacher-shortage-with-45-million-apprenticeship-program/"
-    },
-    {
-      "text": "Gov. Reynolds hopes to alleviate Iowa\u2019s teacher shortage with $45 million apprenticeship program",
-      "url": "/2022/06/11/gov-reynolds-hopes-alleviate-iowas-teacher-shortage-with-45-million-apprenticeship-program/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/11/slain-uvalde-girl-remembered-caring-opinionated/"
-    },
-    {
-      "text": "Slain Uvalde girl remembered as caring and opinionated",
-      "url": "/2022/06/11/slain-uvalde-girl-remembered-caring-opinionated/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/11/war-guilt-last-kisses-deceptive-uneasy-calm-kyiv/"
-    },
-    {
-      "text": "War, guilt and last kisses: A deceptive, uneasy calm in Kyiv",
-      "url": "/2022/06/11/war-guilt-last-kisses-deceptive-uneasy-calm-kyiv/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/11/report-prince-charles-blasts-uks-rwanda-deportation-plan/"
-    },
-    {
-      "text": "Report: Prince Charles blasts UK\u2019s Rwanda deportation plan",
-      "url": "/2022/06/11/report-prince-charles-blasts-uks-rwanda-deportation-plan/"
+      "text": "Structure fire damages residence in North Liberty",
+      "url": "/2022/06/16/structure-fire-damages-residence-north-liberty/"
     },
     {
       "text": "News",
@@ -3415,6 +3581,14 @@
     {
       "text": "Advertising",
       "url": "/advertising/"
+    },
+    {
+      "text": "search by queryly ",
+      "url": "https://www.queryly.com/"
+    },
+    {
+      "text": "Advanced Search",
+      "url": "#"
     }
   ],
   "metadata": {
@@ -3434,7 +3608,7 @@
     "addeddate": "2022-03-25 03:35:21"
   },
   "server": "ia802506.us.archive.org",
-  "uniq": 1865944761,
+  "uniq": 184667842,
   "workable_servers": [
     "ia802506.us.archive.org",
     "ia902506.us.archive.org"

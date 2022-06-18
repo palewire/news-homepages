@@ -1,5 +1,5 @@
 {
-  "created": 1655425154,
+  "created": 1655511611,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -3396,31 +3396,199 @@
       "sha1": "15d54c4bc3b4b180ba51bb7ebe946d6b5eda0428"
     },
     {
+      "name": "mercnews-2022-06-17T05:55:00.908087-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655470506",
+      "size": "43892",
+      "md5": "c7a805d5f3a9199ae73ac0ca937de968",
+      "crc32": "2611b8a2",
+      "sha1": "0d57a25759b2be4c9c6ae97244937d4dc104736d",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-17T05:55:00.908087-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655470508",
+      "size": "57534",
+      "md5": "e928412c5a51d8fab856eae97f73f7bd",
+      "crc32": "2570bdfd",
+      "sha1": "a1cf7156287a8d3b54b3836341502a08cf04b3ba",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-17T05:55:00.908087-07:00.jpg",
+      "source": "original",
+      "mtime": "1655470505",
+      "size": "308615",
+      "md5": "3ea14a9307ac7ec3e0dcee3b2732e705",
+      "crc32": "4a354b8a",
+      "sha1": "f60f2cbfb07293037ca17db74488fbeb891099ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-17T05:55:00.908087-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-17T05:55:00.908087-07:00.jpg",
+      "mtime": "1655470564",
+      "size": "10127",
+      "md5": "2dd01315ff115a657a00be0e98bb0943",
+      "crc32": "363c8f1e",
+      "sha1": "9556890995f983dc26364443bd0f456a04750756"
+    },
+    {
+      "name": "mercnews-2022-06-17T06:33:39.225959-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655472822",
+      "size": "45167",
+      "md5": "3b3f73ff818781cf0b0954388eefaa4b",
+      "crc32": "e2206e02",
+      "sha1": "120f120661db4eeba356eaad5638d37972852334",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-17T06:33:39.225959-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655472824",
+      "size": "49789",
+      "md5": "92371806b27dea2a026dd83718ceff05",
+      "crc32": "cf77f74e",
+      "sha1": "5d8719cb6b523cb593e38f0aaf183c2f3311c590",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-17T06:33:39.225959-07:00.jpg",
+      "source": "original",
+      "mtime": "1655472820",
+      "size": "300797",
+      "md5": "1076b18bdaeaf6eec474d1f3cf2fc948",
+      "crc32": "29e2d91e",
+      "sha1": "99c5783821ae3045b8e9f8223191e3abdbe4be2d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-17T06:33:39.225959-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-17T06:33:39.225959-07:00.jpg",
+      "mtime": "1655472881",
+      "size": "10097",
+      "md5": "99bbf1342c0f213d764377928af3007f",
+      "crc32": "780b317b",
+      "sha1": "71f689c9d3ec6c3165e6ad87c742f43e814f6008"
+    },
+    {
+      "name": "mercnews-2022-06-17T10:22:09.823141-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655486535",
+      "size": "44236",
+      "md5": "31d3b30691a83b61c00bab84d2a87a52",
+      "crc32": "5456b88a",
+      "sha1": "df37cd5a3a057cd433d761d64b17b669c3a20949",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-17T10:22:09.823141-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655486537",
+      "size": "55157",
+      "md5": "56bb72d151a6a5bea2efc917ce930b30",
+      "crc32": "384dffbf",
+      "sha1": "cb0ff90915f82554d6463c99049170f139eef4dd",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-17T10:22:09.823141-07:00.jpg",
+      "source": "original",
+      "mtime": "1655486533",
+      "size": "310019",
+      "md5": "b646c42651551acfcdfd05deb7ef3ad2",
+      "crc32": "8f65a454",
+      "sha1": "01c7995c0e7a2e1c3c33cd8788e56383b29b26f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-17T10:22:09.823141-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-17T10:22:09.823141-07:00.jpg",
+      "mtime": "1655486629",
+      "size": "10010",
+      "md5": "6de0a2085e96243fd2cdade5ff634333",
+      "crc32": "b1ab3742",
+      "sha1": "3190b865063e6d9b41b2a57a1c2fe14ec10e6dd5"
+    },
+    {
+      "name": "mercnews-2022-06-17T14:02:23.477722-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655499750",
+      "size": "43440",
+      "md5": "18fe218a0ce55962505cb18ab492421d",
+      "crc32": "4d27af53",
+      "sha1": "965013b4b4baf2260a61e45aced441c4e88791f9",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-17T14:02:23.477722-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655499752",
+      "size": "49220",
+      "md5": "11d55f5eb727a16fb61cb3dcf1162cc0",
+      "crc32": "fd2344e7",
+      "sha1": "f9b2d249569e593c52370fd5a923ea051907fcec",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-17T14:02:23.477722-07:00.jpg",
+      "source": "original",
+      "mtime": "1655499747",
+      "size": "304937",
+      "md5": "a8e5cc787f36559d77dd400408559330",
+      "crc32": "1933acd5",
+      "sha1": "f2f5675c2701882009f2f6c4adab963a45083a66",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-17T14:02:23.477722-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-17T14:02:23.477722-07:00.jpg",
+      "mtime": "1655499870",
+      "size": "9860",
+      "md5": "af1d40015f259a652ccc3116180b1e70",
+      "crc32": "55855f2d",
+      "sha1": "279160ced0d6e79d474f4c20e63326ab0e065097"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5b12be696b8d6f2d181317d69cf90ea707e4b08",
-      "mtime": "1655387162",
-      "size": "69446",
-      "md5": "749ba1fbab325277d479cf89017c3dfb",
-      "crc32": "462533d3",
-      "sha1": "978e0adaed7f40edc9af2e617cb60da50554d306",
+      "btih": "7e000740e3677551bf99640a2d7d02b37f21f83a",
+      "mtime": "1655499874",
+      "size": "72825",
+      "md5": "876da64c283f6ffecb3ec0a91cca8976",
+      "crc32": "0db8a53f",
+      "sha1": "82e2a1bbb248a0b5cc3dad4d8e34be2718c8b2e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "285a6e2336d58685528da1bca2ebbff0",
+      "md5": "d2d2880bcb2cb449c4e00b1c18789855",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655387060",
-      "size": "380928",
-      "md5": "a8d1c3b9e0107f7b76664784352e8d5a",
-      "crc32": "491c38dd",
-      "sha1": "392e3de47a6aa0e3e0e9a7767a2dfced49f38413",
+      "mtime": "1655499815",
+      "size": "397312",
+      "md5": "933e9c207a2d95553b1220a68cbbc74e",
+      "crc32": "0a5f233d",
+      "sha1": "9c56eb4fac016856f593d7394d6adc4c5c3096b9",
       "format": "Metadata"
     },
     {
@@ -3434,9 +3602,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 326,
-  "item_last_updated": 1655387162,
-  "item_size": 34775246,
+  "files_count": 342,
+  "item_last_updated": 1655499874,
+  "item_size": 36447906,
   "mercnews-2022": [
     {
       "text": "Data Storage Policy",
@@ -3451,7 +3619,7 @@
       "url": "https://checkout.mercurynews.com/subscriptionmultiproduct?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
     },
     {
-      "text": "\n\t\t\t56\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t66\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
     },
     {
@@ -3819,7 +3987,7 @@
       "url": "https://www.mercurynews.com/login?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F"
     },
     {
-      "text": "\n\t\t\t56\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t66\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
     },
     {
@@ -3871,120 +4039,76 @@
       "url": "http://enewspaper.mercurynews.com"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors parade\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/warriors-announce-2022-championship-parade-details/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEataly Silicon Valley opening\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/eataly-silicon-valley-heres-what-you-need-to-know-for-opening-day-thursday/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Smart\u2019 water meters\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/california-drought-smart-water-meters-coming-to-san-jose-other-bay-area-cities-in-latest-effort-to-boost-conservation/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tNorm Mineta remembered\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/norm-mineta-lived-life-to-the-fullest-and-enjoyed-every-moment/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFake Klay Thompson\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/warriors-klay-thompson-impersonator-reaches-chase-center-floor-banned-for-life/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSF to SJ: $3 Billion\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/bay-areas-high-speed-rail-is-closer-than-ever-but-the-price-tag-is-exploding/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\t2026 FIFA World Cup\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/levis-stadium-selected-as-a-host-site-for-2026-fifa-world-cup/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMichelin\u2019s \u2018new discoveries\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/michelin-honors-17-bay-area-norcal-restaurants-as-new-discoveries/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tRemembering Erica Pantoja\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/15/she-died-trying-to-protect-her-children-sister-of-slain-san-jose-mother-of-six-speaks-out-after-double-murder-suicide/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t2 cops killed ID\u2019d\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/2-el-monte-police-officers-killed-in-motel-shooting-are-identified/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tTraffic tickets late fees\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/will-california-eliminate-late-fees-on-traffic-tickets/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCampbell standoff\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/campbell-five-arrested-after-man-barricades-himself-in-home-with-wife-against-her-will/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors prepare for \u2018hardest game\u2019 of the year \u2014 the potential clincher\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/nba-finals-warriors-prepare-for-hardest-game-of-the-year-the-potential-clincher/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFDA authorizes 1st COVID-19 shots for infants, preschoolers\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
     },
     {
       "text": "",
       "url": "#"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSmart\u201d water meters coming to San Jose, other Bay Area cities in latest effort to boost conservation\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/california-drought-smart-water-meters-coming-to-san-jose-other-bay-area-cities-in-latest-effort-to-boost-conservation/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors never forget: All the ways the NBA champs called out their naysayers\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/warriors-never-forget-all-the-ways-the-nba-champs-called-out-their-naysayers/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/california-drought-smart-water-meters-coming-to-san-jose-other-bay-area-cities-in-latest-effort-to-boost-conservation/"
+      "url": "https://www.mercurynews.com/2022/06/17/warriors-never-forget-all-the-ways-the-nba-champs-called-out-their-naysayers/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/california-drought-smart-water-meters-coming-to-san-jose-other-bay-area-cities-in-latest-effort-to-boost-conservation/"
+      "url": "https://www.mercurynews.com/2022/06/17/warriors-never-forget-all-the-ways-the-nba-champs-called-out-their-naysayers/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/10/california-water-use-climbs-despite-severe-drought-outlook/"
+      "url": "https://www.mercurynews.com/2022/06/17/kurtenbach-steve-kerr-turned-in-a-coaching-masterpiece-to-claim-the-warriors-a-fourth-title/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia water use continues to climb despite severe drought outlook\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/10/california-water-use-climbs-despite-severe-drought-outlook/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSteve Kerr turned in a coaching masterpiece to claim the Warriors a fourth title\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/kurtenbach-steve-kerr-turned-in-a-coaching-masterpiece-to-claim-the-warriors-a-fourth-title/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/06/california-lawmakers-mull-buying-out-farmers-to-save-water/"
+      "url": "https://www.mercurynews.com/2022/06/17/kurtenbach-warriors-bench-stars-jordan-poole-and-gary-payton-ii-flipped-the-script-of-the-nba-finals/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia drought: State lawmakers mull buying out farmers to save water\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/06/california-lawmakers-mull-buying-out-farmers-to-save-water/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors bench stars Jordan Poole and Gary Payton II flipped the script of the NBA Finals\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/kurtenbach-warriors-bench-stars-jordan-poole-and-gary-payton-ii-flipped-the-script-of-the-nba-finals/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/05/24/california-drought-water-wasters-could-face-fines-of-up-to-10000-in-santa-clara-county-under-new-rules/"
+      "url": "https://www.mercurynews.com/2022/06/17/first-time-nba-champions-relish-in-warriors-sweet-victory-man-it-feels-good/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWater wasters could face fines of up to $10,000 in Santa Clara County under new rules\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/05/24/california-drought-water-wasters-could-face-fines-of-up-to-10000-in-santa-clara-county-under-new-rules/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFirst-time NBA champions relish in Warriors\u2019 sweet victory: \u2018Man, it feels good\u2019\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/first-time-nba-champions-relish-in-warriors-sweet-victory-man-it-feels-good/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/california-drought-smart-water-meters-coming-to-san-jose-other-bay-area-cities-in-latest-effort-to-boost-conservation/"
+      "url": "https://www.mercurynews.com/2022/06/17/warriors-never-forget-all-the-ways-the-nba-champs-called-out-their-naysayers/"
     },
     {
       "text": "",
@@ -3992,151 +4116,107 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/she-died-trying-to-protect-her-children-sister-of-slain-san-jose-mother-of-six-speaks-out-after-double-murder-suicide/"
+      "url": "https://www.mercurynews.com/2022/06/17/fire-risk-across-bay-area-rising-and-spreading-how-to-protect-your-home/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/she-died-trying-to-protect-her-children-sister-of-slain-san-jose-mother-of-six-speaks-out-after-double-murder-suicide/"
+      "url": "https://www.mercurynews.com/2022/06/17/fire-risk-across-bay-area-rising-and-spreading-how-to-protect-your-home/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSan Jose woman \u2018died trying to protect her children,\u2019 sister says\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/she-died-trying-to-protect-her-children-sister-of-slain-san-jose-mother-of-six-speaks-out-after-double-murder-suicide/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFire risk across Bay Area rising and spreading: How should you protect your home?\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/fire-risk-across-bay-area-rising-and-spreading-how-to-protect-your-home/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/we-did-the-unthinkable-bay-area-elects-states-first-latina-sheriffs-in-alameda-san-mateo-county-upsets-i/"
+      "url": "https://www.mercurynews.com/2022/06/17/bay-area-california-gain-jobs-may-slowdown-tech-covid-hotel-economy/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/we-did-the-unthinkable-bay-area-elects-states-first-latina-sheriffs-in-alameda-san-mateo-county-upsets-i/"
+      "url": "https://www.mercurynews.com/2022/06/17/bay-area-california-gain-jobs-may-slowdown-tech-covid-hotel-economy/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018We did the unthinkable\u2019: Bay Area elects state\u2019s first Latina sheriffs in Alameda, San Mateo county upsets\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/we-did-the-unthinkable-bay-area-elects-states-first-latina-sheriffs-in-alameda-san-mateo-county-upsets-i/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTech job cuts trigger slower Bay Area employment growth\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/bay-area-california-gain-jobs-may-slowdown-tech-covid-hotel-economy/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/iconic-coyote-valley-fruit-stand-and-pumpkin-patch-finds-new-home-after-lease-termination/"
+      "url": "https://www.mercurynews.com/2022/06/17/two-very-different-tales-of-fastrak-transponders-and-toll-lanes-roadshow/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/iconic-coyote-valley-fruit-stand-and-pumpkin-patch-finds-new-home-after-lease-termination/"
+      "url": "https://www.mercurynews.com/2022/06/17/two-very-different-tales-of-fastrak-transponders-and-toll-lanes-roadshow/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tIconic Coyote Valley pumpkin patch and fruit stand finds new home after lease termination\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/iconic-coyote-valley-fruit-stand-and-pumpkin-patch-finds-new-home-after-lease-termination/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTwo tales of surprise toll lane fines \u2014 and how to get them dropped\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/two-very-different-tales-of-fastrak-transponders-and-toll-lanes-roadshow/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/kurtenbach-the-warriors-finally-found-the-right-five-man-combination-will-they-use-it-more-in-game-6/"
+      "url": "https://www.mercurynews.com/2022/06/17/game-changing-obama-portraits-arrive-in-sf/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/kurtenbach-the-warriors-finally-found-the-right-five-man-combination-will-they-use-it-more-in-game-6/"
+      "url": "https://www.mercurynews.com/2022/06/17/game-changing-obama-portraits-arrive-in-sf/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe Warriors finally found the right five-man lineup. Will they use it more in Game 6?\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/kurtenbach-the-warriors-finally-found-the-right-five-man-combination-will-they-use-it-more-in-game-6/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tGame-changing Obama Portraits arrive in SF\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/game-changing-obama-portraits-arrive-in-sf/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/five-years-after-fatal-fremont-police-shooting-of-teenage-girl-familys-civil-rights-trial-begins/"
+      "url": "https://www.mercurynews.com/2022/06/16/multiple-people-shot-at-downtown-oakland-bar/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFive years after fatal Fremont police shooting of teenage girl, family\u2019s civil rights trial begins\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/five-years-after-fatal-fremont-police-shooting-of-teenage-girl-familys-civil-rights-trial-begins/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOne dead, four wounded in shooting outside downtown Oakland bar\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/multiple-people-shot-at-downtown-oakland-bar/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/palo-alto-teacher-charged-with-sexually-assaulting-student-in-2001/"
+      "url": "https://www.mercurynews.com/2022/06/16/former-santa-clara-county-sheriff-candidate-charged-with-perjury/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPalo Alto teacher charged with sexually assaulting student in 2001\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/palo-alto-teacher-charged-with-sexually-assaulting-student-in-2001/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFormer Santa Clara County sheriff candidate charged with perjury\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/former-santa-clara-county-sheriff-candidate-charged-with-perjury/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/birds-build-precarious-nest-atop-san-jose-ladder/"
+      "url": "https://www.mercurynews.com/2022/06/17/former-longtime-councilman-joins-15-others-in-race-to-be-oakland-mayor/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBirds build flimsy nest precariously perched atop San Jose ladder\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/birds-build-precarious-nest-atop-san-jose-ladder/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFormer longtime councilman joins 15 others in race to be Oakland mayor\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/former-longtime-councilman-joins-15-others-in-race-to-be-oakland-mayor/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/7-amazing-bay-area-things-to-do-this-weekend-june-17-19/"
+      "url": "https://www.mercurynews.com/2022/06/17/did-the-warriors-fourth-title-and-steph-currys-finals-mvp-silence-doubters-well-not-all-of-them/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t7 amazing Bay Area things to do this weekend, June 17-19\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/7-amazing-bay-area-things-to-do-this-weekend-june-17-19/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tDid the Warriors\u2019 fourth title and Steph Curry\u2019s Finals MVP silence doubters? Well, not all of them.\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/did-the-warriors-fourth-title-and-steph-currys-finals-mvp-silence-doubters-well-not-all-of-them/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/san-rafael-dui-arrest-after-woman-standing-in-cul-de-sac-is-fatally-run-over/"
+      "url": "https://www.mercurynews.com/2022/06/17/montana-gov-under-fire-for-vacationing-during-disaster/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDUI arrest after woman standing in cul-de-sac is fatally run over\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/san-rafael-dui-arrest-after-woman-standing-in-cul-de-sac-is-fatally-run-over/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMontana gov. under fire for vacationing during disaster\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/montana-gov-under-fire-for-vacationing-during-disaster/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/some-right-turns-around-traffic-islands-can-be-confusing-roadshow/"
+      "url": "https://www.mercurynews.com/2022/06/17/italy-faces-food-energy-threat-as-its-biggest-river-dries-up/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWhen is it illegal to make a right turn around an island?\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/some-right-turns-around-traffic-islands-can-be-confusing-roadshow/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tItaly faces food, energy threat as its biggest river dries up\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/italy-faces-food-energy-threat-as-its-biggest-river-dries-up/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/alameda-unified-bond-measure-squeaks-ahead-with-a-narrow-margin-in-election/"
+      "url": "https://www.mercurynews.com/2022/06/17/sweetgreen-brings-its-salad-grain-bowls-to-walnut-creek/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAlameda Unified bond measure squeaks ahead with a narrow margin in election\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/alameda-unified-bond-measure-squeaks-ahead-with-a-narrow-margin-in-election/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSweetgreen brings its salad, grain bowls to Walnut Creek\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/sweetgreen-brings-its-salad-grain-bowls-to-walnut-creek/"
     },
     {
       "text": "\n\t\tSubscribe",
@@ -4159,44 +4239,44 @@
       "url": "https://www.mercurynews.com/feed/"
     },
     {
-      "text": "\n                Birds build flimsy nest precariously perched atop San Jose ladder\n            ",
-      "url": "https://www.mercurynews.com/2022/06/16/birds-build-precarious-nest-atop-san-jose-ladder/"
+      "text": "\n                Did the Warriors\u2019 fourth title and Steph Curry\u2019s Finals MVP silence doubters? Well, not all of them.\n            ",
+      "url": "https://www.mercurynews.com/2022/06/17/did-the-warriors-fourth-title-and-steph-currys-finals-mvp-silence-doubters-well-not-all-of-them/"
     },
     {
-      "text": "\n                ASK IRA: When LeBron James talks, should Heat, Pat Riley be listening?\n            ",
-      "url": "https://www.mercurynews.com/2022/06/16/ask-ira-when-lebron-james-talks-should-heat-pat-riley-be-listening-2/"
+      "text": "\n                Clay Holmes has been lights out all season no matter when he gets into the game\n            ",
+      "url": "https://www.mercurynews.com/2022/06/17/clay-holmes-has-been-lights-out-all-season-no-matter-when-he-gets-into-the-game/"
     },
     {
-      "text": "\n                Column: Chicago Cubs rookie Christopher Morel is taking a page out of Alfonso Soriano\u2019s playbook\n            ",
-      "url": "https://www.mercurynews.com/2022/06/16/column-chicago-cubs-rookie-christopher-morel-is-taking-a-page-out-of-alfonso-sorianos-playbook/"
+      "text": "\n                Sweetgreen brings its salad, grain bowls to Walnut Creek\n            ",
+      "url": "https://www.mercurynews.com/2022/06/17/sweetgreen-brings-its-salad-grain-bowls-to-walnut-creek/"
     },
     {
-      "text": "\n                7 amazing Bay Area things to do this weekend, June 17-19\n            ",
-      "url": "https://www.mercurynews.com/2022/06/16/7-amazing-bay-area-things-to-do-this-weekend-june-17-19/"
+      "text": "\n                Montana gov. under fire for vacationing during disaster\n            ",
+      "url": "https://www.mercurynews.com/2022/06/17/montana-gov-under-fire-for-vacationing-during-disaster/"
     },
     {
-      "text": "\n                Final toll of Heat\u2019s Kyle Lowry trade comes due in next week\u2019s NBA draft, when Heat won\u2019t take the second\n            ",
-      "url": "https://www.mercurynews.com/2022/06/16/final-toll-of-heats-kyle-lowry-trade-comes-due-in-next-weeks-nba-draft-when-heat-wont-take-the-second/"
+      "text": "\n                Italy faces food, energy threat as its biggest river dries up\n            ",
+      "url": "https://www.mercurynews.com/2022/06/17/italy-faces-food-energy-threat-as-its-biggest-river-dries-up/"
     },
     {
-      "text": "\n                Teen found dead in breakroom had shunned advances of co-worker now accused of killing her\n            ",
-      "url": "https://www.mercurynews.com/2022/06/15/teen-found-dead-in-breakroom-had-shunned-advances-of-co-worker-now-accused-of-killing-her/"
+      "text": "\n                Andrew Wiggins sacrificed for the Golden State Warriors. Now he\u2019s an NBA champion\n            ",
+      "url": "https://www.mercurynews.com/2022/06/17/andrew-wiggins-sacrificed-for-the-golden-state-warriors-now-hes-an-nba-champion/"
     },
     {
-      "text": "\n                Miss Manners: The woman I rejected is now my neighbor, and things are awkward\n            ",
-      "url": "https://www.mercurynews.com/2022/06/15/miss-manners-the-woman-i-rejected-is-now-my-neighbor-and-things-are-awkward/"
+      "text": "\n                What\u2019s with Jennifer Aniston dragging Monica Lewinsky?\n            ",
+      "url": "https://www.mercurynews.com/2022/06/16/whats-with-jennifer-aniston-dragging-monica-lewinsky-but-liking-johnny-depps-victory/"
     },
     {
-      "text": "\n                Michelin honors 17 Bay Area, NorCal restaurants as \u2018new discoveries\u2019\n            ",
-      "url": "https://www.mercurynews.com/2022/06/15/michelin-honors-17-bay-area-norcal-restaurants-as-new-discoveries/"
+      "text": "\n                2 men in custody, suspected of using flamethrower at California street takeover\n            ",
+      "url": "https://www.mercurynews.com/2022/06/16/2-men-in-custody-suspected-of-using-flamethrower-at-san-bernardino-street-takeover/"
     },
     {
-      "text": "\n                Klay Thompson reacts to impersonator who was banned from Chase Center after breaching security\n            ",
-      "url": "https://www.mercurynews.com/2022/06/15/warriors-klay-thompson-impersonator-reaches-chase-center-floor-banned-for-life/"
+      "text": "\n                Kurtenbach: Warriors bench stars Jordan Poole and Gary Payton II flipped the NBA Finals\n            ",
+      "url": "https://www.mercurynews.com/2022/06/17/kurtenbach-warriors-bench-stars-jordan-poole-and-gary-payton-ii-flipped-the-script-of-the-nba-finals/"
     },
     {
-      "text": "\n                Kurtenbach: The Warriors finally found the right five-man lineup. Will they use to beat the Celtics and claim the title?\n            ",
-      "url": "https://www.mercurynews.com/2022/06/15/kurtenbach-the-warriors-finally-found-the-right-five-man-combination-will-they-use-it-more-in-game-6/"
+      "text": "\n                Kurtenbach: Steph Curry\u2019s NBA Finals MVP was more than a decade in the making\n            ",
+      "url": "https://www.mercurynews.com/2022/06/16/kurtenbach-steph-currys-nba-finals-mvp-was-more-than-a-decade-in-the-making/"
     },
     {
       "text": "\n\t\t\t\tCrime and Public Safety\n\t\t\t",
@@ -4204,55 +4284,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/parole-considered-for-ex-pro-skateboarder-jailed-for-murder/"
+      "url": "https://www.mercurynews.com/2022/06/17/jan-6-to-watergate-thirst-for-power-is-the-common-thread/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/parole-considered-for-ex-pro-skateboarder-jailed-for-murder/"
+      "url": "https://www.mercurynews.com/2022/06/17/jan-6-to-watergate-thirst-for-power-is-the-common-thread/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tParole considered for ex-pro skateboarder jailed for 1991 California murder\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/parole-considered-for-ex-pro-skateboarder-jailed-for-murder/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJan. 6 to Watergate: Thirst for power is the common thread\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/jan-6-to-watergate-thirst-for-power-is-the-common-thread/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/body-found-in-burning-vehicle-in-rural-dixon/"
+      "url": "https://www.mercurynews.com/2022/06/17/motorcyclist-in-oakley-dies-following-collision-with-suv/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBody found in burning vehicle in rural Solano County\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/body-found-in-burning-vehicle-in-rural-dixon/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMotorcyclist in Oakley dies following collision with SUV\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/motorcyclist-in-oakley-dies-following-collision-with-suv/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/2-el-monte-police-officers-killed-in-motel-shooting-are-identified/"
+      "url": "https://www.mercurynews.com/2022/06/17/71-year-old-suspect-in-custody-after-alabama-church-killings/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t2 California police officers killed in motel shooting identified\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/2-el-monte-police-officers-killed-in-motel-shooting-are-identified/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\t71-year-old suspect in custody after Alabama church killings\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/71-year-old-suspect-in-custody-after-alabama-church-killings/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/surgery-resident-fabricated-story-about-or-sexual-assault-by-gun-toting-surgeon-la-county-says/"
+      "url": "https://www.mercurynews.com/2022/06/17/oakland-has-declared-racism-a-public-health-crisis-heres-what-happens-next/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSurgery resident fabricated story about sexual assault by gun-toting surgeon, LA County says\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/surgery-resident-fabricated-story-about-or-sexual-assault-by-gun-toting-surgeon-la-county-says/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOakland has declared racism a public health crisis. Here\u2019s what happens next\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/oakland-has-declared-racism-a-public-health-crisis-heres-what-happens-next/"
     },
     {
       "text": "\n\t\t\t\tSports\n\t\t\t",
@@ -4260,55 +4324,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/warriors-klay-thompson-impersonator-reaches-chase-center-floor-banned-for-life/"
+      "url": "https://www.mercurynews.com/2022/06/17/kurtenbach-steve-kerr-turned-in-a-coaching-masterpiece-to-claim-the-warriors-a-fourth-title/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/warriors-klay-thompson-impersonator-reaches-chase-center-floor-banned-for-life/"
+      "url": "https://www.mercurynews.com/2022/06/17/kurtenbach-steve-kerr-turned-in-a-coaching-masterpiece-to-claim-the-warriors-a-fourth-title/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tKlay Thompson reacts to impersonator who was banned from Chase Center after breaching security\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/warriors-klay-thompson-impersonator-reaches-chase-center-floor-banned-for-life/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSteve Kerr turned in a coaching masterpiece to claim the Warriors a fourth title\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/kurtenbach-steve-kerr-turned-in-a-coaching-masterpiece-to-claim-the-warriors-a-fourth-title/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/inside-the-49ers-is-aaron-banks-more-mysterious-2021-pick-than-trey-lance/"
+      "url": "https://www.mercurynews.com/2022/06/17/first-time-nba-champions-relish-in-warriors-sweet-victory-man-it-feels-good/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tInside the 49ers: Is Aaron Banks more mysterious 2021 pick than Trey Lance?\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/inside-the-49ers-is-aaron-banks-more-mysterious-2021-pick-than-trey-lance/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFirst-time NBA champions relish in Warriors\u2019 sweet victory: \u2018Man, it feels good\u2019\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/first-time-nba-champions-relish-in-warriors-sweet-victory-man-it-feels-good/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/punchless-sf-giants-see-win-streak-stopped-at-five-against-royals/"
+      "url": "https://www.mercurynews.com/2022/06/16/kurtenbach-the-warriors-won-their-fourth-title-because-they-have-something-that-cannot-be-bought-or-taught/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPunchless SF Giants see win streak stopped at five by Royals\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/punchless-sf-giants-see-win-streak-stopped-at-five-against-royals/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tThe Warriors won their fourth title because they have something that cannot be bought or taught\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/kurtenbach-the-warriors-won-their-fourth-title-because-they-have-something-that-cannot-be-bought-or-taught/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/nhl-exec-says-evander-kanes-grievance-with-sharks-wont-be-resolved-this-month/"
+      "url": "https://www.mercurynews.com/2022/06/17/surging-stanford-ready-for-start-of-college-world-series-saturday/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEvander Kane\u2019s grievance with San Jose Sharks hits a snag\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/nhl-exec-says-evander-kanes-grievance-with-sharks-wont-be-resolved-this-month/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSurging Stanford ready for start of College World Series Saturday\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/surging-stanford-ready-for-start-of-college-world-series-saturday/"
     },
     {
       "text": "\n\t\t\t\tReal Estate\n\t\t\t",
@@ -4316,55 +4364,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/san-jose-set-to-remove-parking-requirements-in-the-near-future/"
+      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/san-jose-set-to-remove-parking-requirements-in-the-near-future/"
+      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSan Jose set to remove parking requirements in the near future\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/san-jose-set-to-remove-parking-requirements-in-the-near-future/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFraud-linked Bay Area properties head into foreclosure\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/california-legislators-want-to-help-you-buy-a-house-with-down-payment-shared-equity/"
+      "url": "https://www.mercurynews.com/2022/06/17/bubble-watch-could-mortgage-rates-hit-10/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia legislators want to help you buy a house with down payment, \u2018shared equity\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/california-legislators-want-to-help-you-buy-a-house-with-down-payment-shared-equity/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCould mortgage rates hit 10%?\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/bubble-watch-could-mortgage-rates-hit-10/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/bay-area-churches-build-tiny-homes-for-their-homeless-neighbors/"
+      "url": "https://www.mercurynews.com/2022/06/16/historic-east-bay-shore-ford-point-buy-104-million-real-estate-develop/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBay Area churches build tiny homes for their homeless neighbors\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/bay-area-churches-build-tiny-homes-for-their-homeless-neighbors/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tHistoric East Bay waterside complex is bought for $100 million-plus\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/historic-east-bay-shore-ford-point-buy-104-million-real-estate-develop/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/real-estate-battle-erupt-oklahoma-land-rush-develop-office-home/"
+      "url": "https://www.mercurynews.com/2022/06/16/eikon-lease-millbrae-hayward-real-estate-tech-biotech-develop-office/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tReal estate battle erupts over \u2018Oklahoma land rush\u2019 in Bay Area city\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/real-estate-battle-erupt-oklahoma-land-rush-develop-office-home/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBiotech firm signs big Bay Area office lease\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/eikon-lease-millbrae-hayward-real-estate-tech-biotech-develop-office/"
     },
     {
       "text": "Photos",
@@ -4372,15 +4404,71 @@
     },
     {
       "text": "",
+      "url": "https://www.mercurynews.com/2022/06/17/photos-18-5-million-mansion-listing-breaks-record-in-piedmont/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/photos-18-5-million-mansion-listing-breaks-record-in-piedmont/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: $18.5 million mansion listing breaks record in Piedmont\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/photos-18-5-million-mansion-listing-breaks-record-in-piedmont/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/17/photos-dub-nation-celebrates-golden-state-warriors-nba-championship-title-over-boston-celtics/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/photos-dub-nation-celebrates-golden-state-warriors-nba-championship-title-over-boston-celtics/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Dub Nation celebrates Golden State Warriors NBA Championship title over Boston Celtics\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/photos-dub-nation-celebrates-golden-state-warriors-nba-championship-title-over-boston-celtics/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/16/photos-golden-state-warriors-defeat-boston-celtics-to-win-fourth-nba-championship/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/photos-golden-state-warriors-defeat-boston-celtics-to-win-fourth-nba-championship/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Golden State Warriors defeat Boston Celtics to win fourth NBA Championship\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/photos-golden-state-warriors-defeat-boston-celtics-to-win-fourth-nba-championship/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/16/norm-mineta-lived-life-to-the-fullest-and-enjoyed-every-moment/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/norm-mineta-lived-life-to-the-fullest-and-enjoyed-every-moment/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tNorm Mineta \u2018lived life to the fullest and enjoyed every moment\u2019\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/norm-mineta-lived-life-to-the-fullest-and-enjoyed-every-moment/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/16/game-on-bostons-ribbing-of-steph-currys-wife-ayesha-goes-viral/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/game-on-bostons-ribbing-of-steph-currys-wife-ayesha-goes-viral/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBoston sports bar goes viral for Ayesha Curry sign, Warriors star Steph responds\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/game-on-bostons-ribbing-of-steph-currys-wife-ayesha-goes-viral/"
+    },
+    {
+      "text": "",
       "url": "https://www.mercurynews.com/2022/06/15/what-to-watch-emma-thompson-stars-in-charming-sex-romp/"
     },
     {
       "text": "\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/15/what-to-watch-emma-thompson-stars-in-charming-sex-romp/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tWhat to watch: Emma Thompson stars in charming sex romp\t\t\n\n\t\t\t",
@@ -4395,10 +4483,6 @@
       "url": "https://www.mercurynews.com/2022/06/14/photos-strawberry-supermoon-marks-lowest-full-moon-of-year/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
       "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: \u201cStrawberry Supermoon\u201d marks lowest full moon of year\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/14/photos-strawberry-supermoon-marks-lowest-full-moon-of-year/"
     },
@@ -4409,10 +4493,6 @@
     {
       "text": "\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/14/two-el-monte-police-officers-shot-and-injured-suspect-down/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Heartbroken\u2019 \u2014 2 California police officers killed in shootout\t\t\n\n\t\t\t",
@@ -4427,10 +4507,6 @@
       "url": "https://www.mercurynews.com/2022/06/14/alameda-companys-market-niche-small-privately-operated-submarines/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
       "text": "\n\t\n\t\t\t\t\n\t\t\tAlameda company\u2019s market niche: Small, privately-operated submarines\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/14/alameda-companys-market-niche-small-privately-operated-submarines/"
     },
@@ -4441,10 +4517,6 @@
     {
       "text": "\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/14/we-want-our-fields-back-little-league-doubts-contamination-risks-will-fight-to-stay-at-reid-hillview/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018We want our fields back\u2019: Little League doubts contamination risks, will fight to stay at Reid-Hillview\t\t\n\n\t\t\t",
@@ -4459,10 +4531,6 @@
       "url": "https://www.mercurynews.com/2022/06/14/frameline-2022-10-films-you-should-catch-at-sfs-big-lgbtq-film-fest/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
       "text": "\n\t\n\t\t\t\t\n\t\t\tFrameline 2022: 10 films you should catch at SF\u2019s big LGBTQ film fest\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/14/frameline-2022-10-films-you-should-catch-at-sfs-big-lgbtq-film-fest/"
     },
@@ -4475,92 +4543,8 @@
       "url": "https://www.mercurynews.com/2022/06/14/soap-opera-general-hospital-reaches-15000th-episode-the-cast-talks-iconic-series/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
       "text": "\n\t\n\t\t\t\t\n\t\t\tSoap opera \u2018General Hospital\u2019 reaches 15,000th episode: Cast members talk iconic series\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/14/soap-opera-general-hospital-reaches-15000th-episode-the-cast-talks-iconic-series/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/northern-california-gas-station-fires-manager-for-setting-price-at-69-cents/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/northern-california-gas-station-fires-manager-for-setting-price-at-69-cents/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNorthern California gas station fires manager for setting price at 69 cents\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/northern-california-gas-station-fires-manager-for-setting-price-at-69-cents/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/photos-golden-state-warriors-win-game-5-over-boston-celtics-by-10/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/photos-golden-state-warriors-win-game-5-over-boston-celtics-by-10/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Golden State Warriors win Game 5 over Boston Celtics by 10\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/photos-golden-state-warriors-win-game-5-over-boston-celtics-by-10/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/13/buzz-lightyear-blasts-off-in-an-unusual-origin-story/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/13/buzz-lightyear-blasts-off-in-an-unusual-origin-story/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBuzz Lightyear blasts off in an unusual origin story\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/13/buzz-lightyear-blasts-off-in-an-unusual-origin-story/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/12/photos-mo-donegal-holds-off-filly-nest-to-win-belmont-stakes-in-new-york/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/12/photos-mo-donegal-holds-off-filly-nest-to-win-belmont-stakes-in-new-york/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Mo Donegal holds off filly Nest to win Belmont Stakes in New York\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/12/photos-mo-donegal-holds-off-filly-nest-to-win-belmont-stakes-in-new-york/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/12/photos-russian-mcdonalds-restaurants-rebranded-and-opened-after-branches-sold-after-ukraine-invasion/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/12/photos-russian-mcdonalds-restaurants-rebranded-and-opened-after-branches-sold-after-ukraine-invasion/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Russian McDonald\u2019s restaurants rebranded and opened after being sold due to Ukraine invasion\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/12/photos-russian-mcdonalds-restaurants-rebranded-and-opened-after-branches-sold-after-ukraine-invasion/"
     },
     {
       "text": "\n\t\t\t\tCoronavirus\n\t\t\t",
@@ -4568,55 +4552,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/fda-advisers-back-covid-vaccines-for-kids-under-5/"
+      "url": "https://www.mercurynews.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/fda-advisers-back-covid-vaccines-for-kids-under-5/"
+      "url": "https://www.mercurynews.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFDA advisers back COVID vaccines for kids under 5\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/fda-advisers-back-covid-vaccines-for-kids-under-5/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFDA authorizes 1st COVID-19 shots for infants, preschoolers\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/dr-fauci-tests-positive-for-covid-has-mild-symptoms/"
+      "url": "https://www.mercurynews.com/2022/06/17/vaccine-consent-age-raised-from-12-to-15-in-california-legislation/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDr. Fauci tests positive for COVID, has mild symptoms\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/dr-fauci-tests-positive-for-covid-has-mild-symptoms/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tVaccine consent age raised from 12 to 15 in California legislation\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/vaccine-consent-age-raised-from-12-to-15-in-california-legislation/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/fda-advisers-vote-in-favor-of-authorizing-moderna-covid-19-vaccine-for-ages-6-17/"
+      "url": "https://www.mercurynews.com/2022/06/16/president-biden-says-a-recession-is-not-inevitable/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFDA advisers vote in favor of authorizing Moderna COVID-19 vaccine for ages 6-17\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/fda-advisers-vote-in-favor-of-authorizing-moderna-covid-19-vaccine-for-ages-6-17/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPresident Biden says a recession is \u2018not inevitable\u2019\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/president-biden-says-a-recession-is-not-inevitable/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/lawmaker-us-failed-to-stop-covid-loan-program-fraud/"
+      "url": "https://www.mercurynews.com/2022/06/16/anti-vaccine-doctor-sentenced-to-prison-for-capitol-riot/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLawmaker: US failed to stop COVID loan program fraud\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/lawmaker-us-failed-to-stop-covid-loan-program-fraud/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAnti-vaccine California doctor sentenced to prison for Capitol riot\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/16/anti-vaccine-doctor-sentenced-to-prison-for-capitol-riot/"
     },
     {
       "text": "\n\t\t\t\tOpinion\n\t\t\t",
@@ -4624,15 +4592,19 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/borenstein-alameda-county-supervisor-remains-in-office-while-attorney-generals-office-stalls/"
+      "url": "https://www.mercurynews.com/2022/06/17/opinion-embracing-personal-ownership-of-data-will-boost-competitiveness/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/borenstein-alameda-county-supervisor-remains-in-office-while-attorney-generals-office-stalls/"
+      "url": "https://www.mercurynews.com/2022/06/17/opinion-embracing-personal-ownership-of-data-will-boost-competitiveness/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: Embracing personal ownership of data will boost competitiveness\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/opinion-embracing-personal-ownership-of-data-will-boost-competitiveness/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/16/borenstein-alameda-county-supervisor-remains-in-office-while-attorney-generals-office-stalls/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tBorenstein: Bay Area county supervisor still serving while Attorney General\u2019s Office stalls\t\t\n\n\t\t\t",
@@ -4640,39 +4612,19 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/opinion-california-supply-chain-needs-autonomous-trucks-jumpstart/"
+      "url": "https://www.mercurynews.com/2022/06/17/barabak-how-former-california-democrat-navarro-became-a-trump-henchman/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: California supply chain needs autonomous trucks jumpstart\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/opinion-california-supply-chain-needs-autonomous-trucks-jumpstart/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBarabak: How former California Democrat Navarro became a Trump henchman\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/barabak-how-former-california-democrat-navarro-became-a-trump-henchman/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/letters-868/"
+      "url": "https://www.mercurynews.com/2022/06/17/opinion-some-dads-just-want-to-parent-without-the-stereotypes/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: Water rights | Time for peace | Gas-price summit | Gun control | Golf sham\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/letters-868/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/opinion-ultimately-only-the-american-people-can-repudiate-trumps-big-lie/"
-    },
-    {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: Ultimately, only the American people can repudiate Trump\u2019s \u2018big lie\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/opinion-ultimately-only-the-american-people-can-repudiate-trumps-big-lie/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: Some dads just want to parent without the stereotypes\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/opinion-some-dads-just-want-to-parent-without-the-stereotypes/"
     },
     {
       "text": "\n\t\t\t\tThings To Do\n\t\t\t",
@@ -4680,55 +4632,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/pets-of-the-week-daisy-and-bago/"
+      "url": "https://www.mercurynews.com/2022/06/17/stranger-things-gets-a-real-life-explorable-experience-in-sf/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/pets-of-the-week-daisy-and-bago/"
+      "url": "https://www.mercurynews.com/2022/06/17/stranger-things-gets-a-real-life-explorable-experience-in-sf/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPets of the Week: Daisy and Bago\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/pets-of-the-week-daisy-and-bago/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Stranger Things\u2019 gets a real-life explorable experience in SF\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/stranger-things-gets-a-real-life-explorable-experience-in-sf/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/critter-corner-weighing-cat-care-options-for-vacations/"
+      "url": "https://www.mercurynews.com/2022/06/17/johnny-depps-pr-comeback-helped-by-ex-trump-aide-recommended-by-ivanka/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWeighing cat-care options for vacations\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/critter-corner-weighing-cat-care-options-for-vacations/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJohnny Depp\u2019s PR comeback helped by ex-Trump aide, recommended by Ivanka\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/johnny-depps-pr-comeback-helped-by-ex-trump-aide-recommended-by-ivanka/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/review-tmnt-shredders-revenge-is-a-brilliant-ode-to-the-franchises-peak-era/"
+      "url": "https://www.mercurynews.com/2022/06/17/chipotle-tests-mexican-cauliflower-rice-in-orange-county/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tReview: \u2018TMNT: Shredder\u2019s Revenge\u2019 is a brilliant ode to the franchise\u2019s peak era\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/review-tmnt-shredders-revenge-is-a-brilliant-ode-to-the-franchises-peak-era/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tChipotle tests Mexican Cauliflower Rice in California restaurants\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/chipotle-tests-mexican-cauliflower-rice-in-orange-county/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/ask-amy-his-request-made-everyone-at-the-garage-sale-uncomfortable/"
+      "url": "https://www.mercurynews.com/2022/06/17/while-prince-william-sent-jan-6-letter-ivanka-trump-allowed-bloodshed-says-partner-of-fallen-capitol-officer/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAsk Amy: His request made everyone at the garage sale uncomfortable\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/ask-amy-his-request-made-everyone-at-the-garage-sale-uncomfortable/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWhile Prince William sent touching Jan. 6 letter, Ivanka Trump allowed \u2018bloodshed,\u2019 says partner of fallen Capitol officer\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/while-prince-william-sent-jan-6-letter-ivanka-trump-allowed-bloodshed-says-partner-of-fallen-capitol-officer/"
     },
     {
       "text": "\n\t\t\t\tBusiness\n\t\t\t",
@@ -4736,75 +4672,59 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/disney-delays-moving-2000-jobs-to-orlando-amid-dont-say-gay-clash-with-desantis/"
+      "url": "https://www.mercurynews.com/2022/06/17/a-quarter-of-all-abortion-clinics-would-close-in-us-if-roe-is-overturned/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/disney-delays-moving-2000-jobs-to-orlando-amid-dont-say-gay-clash-with-desantis/"
+      "url": "https://www.mercurynews.com/2022/06/17/a-quarter-of-all-abortion-clinics-would-close-in-us-if-roe-is-overturned/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDisney delays moving 2,000 jobs from California to Florida amid \u2018don\u2019t say gay\u2019 clash with DeSantis\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/disney-delays-moving-2000-jobs-to-orlando-amid-dont-say-gay-clash-with-desantis/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tA quarter of all abortion clinics would close in US if Roe is overturned\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/a-quarter-of-all-abortion-clinics-would-close-in-us-if-roe-is-overturned/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/eataly-silicon-valley-heres-what-you-need-to-know-for-opening-day-thursday/"
+      "url": "https://www.mercurynews.com/2022/06/17/qa-with-greg-magofna-a-berkeley-housing-advocate-who-dropped-out-of-council-race-because-he-cant-afford-to-live-in-city/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEataly Silicon Valley: Here\u2019s what you need to know for Thursday\u2019s 5 p.m. opening\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/eataly-silicon-valley-heres-what-you-need-to-know-for-opening-day-thursday/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tA Berkeley housing advocate got priced out of the city. He says his plight should be a wake-up call.\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/qa-with-greg-magofna-a-berkeley-housing-advocate-who-dropped-out-of-council-race-because-he-cant-afford-to-live-in-city/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/will-california-eliminate-late-fees-on-traffic-tickets/"
+      "url": "https://www.mercurynews.com/2022/06/17/instagram-addiction-lawsuit-colorado-facebook-castle-rock/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWill California eliminate late fees on traffic tickets?\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/will-california-eliminate-late-fees-on-traffic-tickets/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tInstagram addiction: Colorado mother sues Facebook parent company over daughter\u2019s social media use\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/instagram-addiction-lawsuit-colorado-facebook-castle-rock/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/bill-gates-blasts-crypto-nfts-as-based-on-greater-fool-theory/"
+      "url": "https://www.mercurynews.com/2022/06/17/vince-mcmahon-steps-down-as-wwe-ceo-following-hush-money-allegations/"
     },
     {
-      "text": "Pets and Animals | ",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tVince McMahon steps down as WWE CEO following hush money allegations\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/vince-mcmahon-steps-down-as-wwe-ceo-following-hush-money-allegations/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBill Gates blasts crypto, NFTs as based on \u2018greater-fool\u2019 theory\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/bill-gates-blasts-crypto-nfts-as-based-on-greater-fool-theory/"
+      "text": "Another Florida homeowners insurance company goes under",
+      "url": "https://www.orlandosentinel.com/business/real-estate/os-bz-property-insurance-company-insolvent-20220615-k4ngz77dfvd3tdxp2vv3zv72l4-story.html?itm_source=parsely-api"
     },
     {
       "text": "Disney delays moving 2,000 jobs to Orlando amid \u2018don\u2019t say gay\u2019 clash with DeSantis",
       "url": "https://www.orlandosentinel.com/business/tourism/os-bz-disney-lake-nona-move-delayed-20220615-n6ohdk65z5gxxccpk3obsgzweu-story.html?itm_source=parsely-api"
     },
     {
-      "text": "2 El Monte police officers killed in motel shooting identified",
-      "url": "https://www.ocregister.com/2022/06/15/2-el-monte-police-officers-killed-in-motel-shooting-are-identified/?itm_source=parsely-api"
+      "text": "Lauren Boebert target of wild claims spreading despite lack of evidence",
+      "url": "https://www.denverpost.com/2022/06/15/lauren-boebert-allegations/?itm_source=parsely-api"
     },
     {
       "text": "Teenage Walgreens employee in Colorado Springs reported coworker before she was found dead in breakroom",
       "url": "https://www.denverpost.com/2022/06/15/joshua-johnson-murder-suspect-colorado-springs/?itm_source=parsely-api"
     },
     {
-      "text": "Lauren Boebert target of wild claims spreading despite lack of evidence",
-      "url": "https://www.denverpost.com/2022/06/15/lauren-boebert-allegations/?itm_source=parsely-api"
-    },
-    {
-      "text": "Caterpillar to move headquarters to Texas, marking second major corporate departure from Illinois in 6 weeks",
-      "url": "https://www.chicagotribune.com/business/ct-biz-caterpillar-deerfield-irving-texas-20220614-w5awirmjt5flnjttlco2wc6tse-story.html?itm_source=parsely-api"
+      "text": "Henry Winkler snaps back at Herschel Walker following criticism of celebrities",
+      "url": "https://www.nydailynews.com/snyde/ny-henry-winkler-herschel-walker-opinion-american-20220616-coa43wv2ezdf5m73hen77xwuaa-story.html?itm_source=parsely-api"
     },
     {
       "text": "",
@@ -5023,10 +4943,10 @@
     "publicdate": "2022-03-23 02:09:12",
     "addeddate": "2022-03-23 02:09:12"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 1423458124,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1286203436,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }
