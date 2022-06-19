@@ -44,7 +44,7 @@ def bundle(slug: str, output_dir: str):
 def get_handle_json():
     """Write out a list of site handles as a JSON list.
 
-    Used by out GitHub Action to set a matrix of all sites.
+    Used by our GitHub Action to set a matrix of all sites.
     """
     site_list = utils.get_site_list()
     handle_list = [s["handle"] for s in site_list]
