@@ -104,12 +104,21 @@ def _shoot(site: typing.Dict, output_dir: str):
         click.echo(f"Waiting {wait} seconds")
         time.sleep(wait)
 
-        # If there's javascript run it
-        javascript = utils.get_javascript(site["handle"])
-        if javascript:
-            click.echo("Executing custom javascript")
+        # Run common JavaScript for all sites
+        target_list = [".tp-modal", ".tp-backdrop"]
+        target_str = ",".join(target_list)
+        javascript = (
+            f"document.querySelectorAll('{target_str}').forEach(el => el.remove())"
+        )
+        click.echo("Executing common JavaScript")
+        page.evaluate(javascript)
+
+        # If there's custom javascript for this site, run it
+        custom_javascript = utils.get_javascript(site["handle"])
+        if custom_javascript:
+            click.echo("Executing custom JavaScript")
             try:
-                page.evaluate(javascript)
+                page.evaluate(custom_javascript)
             except Error as error:
                 raise click.ClickException(error.message)
 
