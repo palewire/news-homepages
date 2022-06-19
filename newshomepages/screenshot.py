@@ -105,7 +105,11 @@ def _shoot(site: typing.Dict, output_dir: str):
         time.sleep(wait)
 
         # Run common JavaScript for all sites
-        target_list = [".tp-modal", ".tp-backdrop"]
+        target_list = [
+            ".tp-modal",
+            ".tp-backdrop",
+            ".onesignal-slidedown-container",
+        ]
         target_str = ",".join(target_list)
         javascript = (
             f"document.querySelectorAll('{target_str}').forEach(el => el.remove())"
