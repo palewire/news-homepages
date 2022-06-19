@@ -1,5 +1,5 @@
 {
-  "created": 1655511645,
+  "created": 1655598022,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/pioneerpress-2022",
@@ -3334,31 +3334,283 @@
       "sha1": "683c8814ea9b8bfd41cae8dc797e3c454aa0b32b"
     },
     {
+      "name": "pioneerpress-2022-06-17T22:26:23.503196-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655522787",
+      "size": "39872",
+      "md5": "42c9b6841c83561012b773ed75255ce5",
+      "crc32": "4a234a6f",
+      "sha1": "5f3b78b500a619160870b28ab27418b282729e4d",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-17T22:26:23.503196-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655522789",
+      "size": "43795",
+      "md5": "a027ef4f937ab2a54449a0ce9ffb7706",
+      "crc32": "0eeb8799",
+      "sha1": "6ed328f16cdd2d3d2262cb48c4e18f51fa85fc77",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-17T22:26:23.503196-05:00.jpg",
+      "source": "original",
+      "mtime": "1655522786",
+      "size": "297041",
+      "md5": "426904789b52b5b2c635325ac695a7f2",
+      "crc32": "2f8262e6",
+      "sha1": "62c2b50dbcfdc828717eb347f974cbc349242b16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-17T22:26:23.503196-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-17T22:26:23.503196-05:00.jpg",
+      "mtime": "1655522863",
+      "size": "9511",
+      "md5": "7c777f2ce017bc964a63cb560bef6135",
+      "crc32": "6ef18d05",
+      "sha1": "b36a1883d0b8af9c9c6a2dcb5c224676a3ddeea3"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T00:06:13.439727-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655528777",
+      "size": "39658",
+      "md5": "99ce93c6a3bda876eb555f0e18e12b4b",
+      "crc32": "f1fa59d4",
+      "sha1": "635e98e17cd6d7239e1f41aac0deb63424056485",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T00:06:13.439727-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655528779",
+      "size": "50584",
+      "md5": "2bdaa494693e94f5daedf592995230cb",
+      "crc32": "dfd6a720",
+      "sha1": "d865e2960fe1f4bb7ad1a305ae9dcd198b850fe6",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T00:06:13.439727-05:00.jpg",
+      "source": "original",
+      "mtime": "1655528776",
+      "size": "298571",
+      "md5": "6e3c6549d5d96e9d5d17659a6d100915",
+      "crc32": "46c288f1",
+      "sha1": "1b51e6e5640cb500bf0b77125c534c92d0e28a66",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T00:06:13.439727-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-18T00:06:13.439727-05:00.jpg",
+      "mtime": "1655528847",
+      "size": "9484",
+      "md5": "daf01b4d26ad461ed59f8282730b4801",
+      "crc32": "7cc2745f",
+      "sha1": "d31033e42fd981cbc605fa86f530fae40128d4ea"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T04:08:28.154265-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655543313",
+      "size": "39740",
+      "md5": "2c0b927fa0c6d6719981b1e80c1f5682",
+      "crc32": "26059618",
+      "sha1": "16fd60e754ea716fb125b29e5a9cc50a2eff4ea7",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T04:08:28.154265-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655543316",
+      "size": "43925",
+      "md5": "8c1a3787b75fe31f82912e7de4f522cd",
+      "crc32": "2ac5430d",
+      "sha1": "53e6653a715c43fbe89de19c744629f259678f00",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T04:08:28.154265-05:00.jpg",
+      "source": "original",
+      "mtime": "1655543311",
+      "size": "298504",
+      "md5": "622279d69a18314efcc38ba4771d68a4",
+      "crc32": "9f1ad5a9",
+      "sha1": "3f3f78a569bbd5ca7186d5a298f766191695d36a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T04:08:28.154265-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-18T04:08:28.154265-05:00.jpg",
+      "mtime": "1655543367",
+      "size": "9468",
+      "md5": "d499f5ad1f41a94afe1c62be69dafa98",
+      "crc32": "e2b246ee",
+      "sha1": "1c5ce700c58c2151d0dd6429fed70df51e53d390"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T08:10:49.887267-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655557853",
+      "size": "39644",
+      "md5": "e5283dff2a5ce32ce9b2d88c4c5f2e78",
+      "crc32": "3181f83a",
+      "sha1": "ee60a1a0432005b019d7e6c139b875eb94020227",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T08:10:49.887267-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655557855",
+      "size": "43709",
+      "md5": "404843d77131e1228587c29390b5794c",
+      "crc32": "8cf9be19",
+      "sha1": "2d1a7b28c6a4ca6715fa10bf1136a0584b10cad3",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T08:10:49.887267-05:00.jpg",
+      "source": "original",
+      "mtime": "1655557851",
+      "size": "302937",
+      "md5": "31966cebcaa0c623af0c640f861a2c26",
+      "crc32": "fdfff96b",
+      "sha1": "42dca1ec0bb8895ed8b1c445ebe13805d4ece0f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T08:10:49.887267-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-18T08:10:49.887267-05:00.jpg",
+      "mtime": "1655557914",
+      "size": "9457",
+      "md5": "bde5311eaaaebfa58bf03a82e063cdd2",
+      "crc32": "26ccfcbf",
+      "sha1": "36ad9dc240cead9dc3a55863a11e4f9699cfe0e2"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T12:09:43.298145-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655572189",
+      "size": "40134",
+      "md5": "1d43551dc750f6874b148dfd3cf16086",
+      "crc32": "f30a1c00",
+      "sha1": "d0f6ef04f6c5e46aea5be00c6ee701d30e10a0ea",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T12:09:43.298145-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655572190",
+      "size": "43591",
+      "md5": "56f604d6b81e6b2796e5d199839cd133",
+      "crc32": "70a73bf7",
+      "sha1": "73d7c1baf1f4364467bbde72e63f248b23365270",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T12:09:43.298145-05:00.jpg",
+      "source": "original",
+      "mtime": "1655572186",
+      "size": "294474",
+      "md5": "9f7600cc54bd98523c4fb3a4595debfc",
+      "crc32": "a3367d81",
+      "sha1": "8954ceaf6309c50f104864b4a9477fa24fe6fe63",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T12:09:43.298145-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-18T12:09:43.298145-05:00.jpg",
+      "mtime": "1655572240",
+      "size": "9403",
+      "md5": "8f4638b511a65cbbf532471dcd86ead2",
+      "crc32": "2ffb7d41",
+      "sha1": "28ee7da66a8db00fa1903b815911b7f19d7aa5a3"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T16:03:08.694149-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655586192",
+      "size": "38767",
+      "md5": "52b1d7afdae160a4a80a241acb3e8dbc",
+      "crc32": "b2f1cdac",
+      "sha1": "3829910bf178a484833ddf5004ed640ce0534257",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T16:03:08.694149-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655586193",
+      "size": "47987",
+      "md5": "680a24d0880906c13dbe63850dc011ce",
+      "crc32": "5b11c81b",
+      "sha1": "0322d7da26d92bfa17e1ac18a380f8cd5dcaea95",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T16:03:08.694149-05:00.jpg",
+      "source": "original",
+      "mtime": "1655586190",
+      "size": "284571",
+      "md5": "777c6a68ed4434e134c5796244841c9a",
+      "crc32": "0b1fecf3",
+      "sha1": "77f5833a0ab308fc32ac97d0cf5138fc5b7777e6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T16:03:08.694149-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-18T16:03:08.694149-05:00.jpg",
+      "mtime": "1655586258",
+      "size": "9349",
+      "md5": "d0d3be692c55d05805a208688cd4a40b",
+      "crc32": "41d817de",
+      "sha1": "a04c914aeb7aedaab2585faed354bd09ce67c80a"
+    },
+    {
       "name": "pioneerpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67db981b48f071d54eedcf2be15e18f219eb4386",
-      "mtime": "1655499907",
-      "size": "69550",
-      "md5": "51de6d5cb214e53e6f1a077bcd23f93e",
-      "crc32": "acd325a9",
-      "sha1": "59907d4a8600f0309ee34f1a5fe08bf02c15218b",
+      "btih": "bcaf6f33c5ea821ef297f5bd19095afecc5262f8",
+      "mtime": "1655586264",
+      "size": "74720",
+      "md5": "c3b0880942efefb100d226115803a8bb",
+      "crc32": "bb71025d",
+      "sha1": "6bf6ea9ac86e25b702b75c655ee314476ab30444",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pioneerpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd8cca82356b579005ddbd109da07c02",
+      "md5": "4179075f947ec76af25fcdca294aa0e6",
       "summation": "md5"
     },
     {
       "name": "pioneerpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655499836",
-      "size": "380928",
-      "md5": "5c0a22b2da2a9c641b92a8c7b7bedf91",
-      "crc32": "5adbc8ab",
-      "sha1": "c3f91d8a33a746619dc27e2b4d59acc1d1fcdaf7",
+      "mtime": "1655586212",
+      "size": "413696",
+      "md5": "b11e3ba5b9df79e0cab4284f5e04aa00",
+      "crc32": "cad4fb98",
+      "sha1": "c6cd38e5f8b82f210974202daa12e281083118e0",
       "format": "Metadata"
     },
     {
@@ -3372,9 +3624,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 321,
-  "item_last_updated": 1655499907,
-  "item_size": 30415714,
+  "files_count": 345,
+  "item_last_updated": 1655586264,
+  "item_size": 32797828,
   "metadata": {
     "identifier": "pioneerpress-2022",
     "collection": [
@@ -3737,84 +3989,120 @@
       "url": "https://www.twincities.com/classifieds/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tJuneteenth events\t\t\n\n\t\t\t",
       "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tJan. 6 hearings\t\t\n\n\t\t\t",
       "url": "https://www.twincities.com/2022/06/17/jan-6-hearings-what-weve-learned-and-whats-next-2/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tMapping racial covenants\t\t\n\n\t\t\t",
       "url": "https://www.twincities.com/2022/06/15/local-nonprofit-mapping-prejudice-unveils-data-regarding-racial-covenants-in-ramsey-county/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tSpecial session unlikely\t\t\n\n\t\t\t",
       "url": "https://www.twincities.com/2022/06/17/special-session-unlikely-on-minnesota-budget-surplus/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t10% mortgage rates?\t\t\n\n\t\t\t",
       "url": "https://www.twincities.com/2022/06/17/bubble-watch-could-mortgage-rates-hit-10/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tNew MN liquor laws\t\t\n\n\t\t\t",
       "url": "https://www.twincities.com/2022/06/16/what-new-mn-liquor-laws-mean-for-businesses-and-consumers/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAs gas prices keep breaking records, how much relief can MN leaders provide?\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/as-gas-prices-keep-breaking-records-how-much-relief-can-mn-leaders-provide/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSt. Paul Public Schools struggles to measure what\u2019s working for students\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/as-gas-prices-keep-breaking-records-how-much-relief-can-mn-leaders-provide/"
+      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/as-gas-prices-keep-breaking-records-how-much-relief-can-mn-leaders-provide/"
+      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/special-session-unlikely-on-minnesota-budget-surplus/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSpecial session unlikely on Minnesota budget surplus\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/special-session-unlikely-on-minnesota-budget-surplus/"
+      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/as-gas-prices-keep-breaking-records-how-much-relief-can-mn-leaders-provide/"
+      "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
+    },
+    {
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBodies of 2 workers found in trench collapse at St. Paul work site\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
+    },
+    {
+      "text": "",
+      "url": "https://www.twincities.com/2022/06/17/st-paul-rent-control-federal-lawsuit/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/st-paul-rent-control-federal-lawsuit/"
+    },
+    {
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tProperty owners file federal lawsuit over St. Paul rent control\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/st-paul-rent-control-federal-lawsuit/"
+    },
+    {
+      "text": "",
+      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
+    },
+    {
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJuneteenth in the Twin Cities: What\u2019s open, what\u2019s closed and what\u2019s on tap\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
     },
     {
       "text": "",
@@ -3825,8 +4113,8 @@
       "url": "https://www.twincities.com/2022/06/17/republican-gubernatorial-candidate-scott-jensen-threatens-retaliation-against-medical-board/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tRepublican gubernatorial candidate Scott Jensen threatens retaliation against medical board\t\t\n\n\t\t\t",
@@ -3834,135 +4122,87 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/jan-6-hearings-what-weve-learned-and-whats-next-2/"
+      "url": "https://www.twincities.com/2022/06/18/us-opens-covid-vaccine-to-little-kids-shots-begin-next-week/"
     },
     {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/jan-6-hearings-what-weve-learned-and-whats-next-2/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJan. 6 hearings: What we\u2019ve learned, and what\u2019s next\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/jan-6-hearings-what-weve-learned-and-whats-next-2/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tUS opens COVID vaccine to little kids, shots begin next week\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/18/us-opens-covid-vaccine-to-little-kids-shots-begin-next-week/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
+      "url": "https://www.twincities.com/2022/06/18/soucheray-with-all-those-plaudits-would-new-top-gun-be-a-disappointment/"
     },
     {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFDA authorizes 1st COVID-19 shots for infants, preschoolers\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSoucheray: With all those plaudits, would new \u2018Top Gun\u2019 be a disappointment?\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/18/soucheray-with-all-those-plaudits-would-new-top-gun-be-a-disappointment/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/16/stillwater-chestnut-street-plaza-opening-2023-delays/"
+      "url": "https://www.twincities.com/2022/06/18/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
     },
     {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/stillwater-chestnut-street-plaza-opening-2023-delays/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBeset by delays, Stillwater\u2019s Chestnut Street Plaza now set to open in 2023\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/stillwater-chestnut-street-plaza-opening-2023-delays/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tYellowstone flooding rebuild could take years, cost billions\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/18/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
+      "url": "https://www.twincities.com/2022/06/17/special-session-unlikely-on-minnesota-budget-surplus/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t2 unaccounted for in trench collapse at St. Paul construction site\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/woman-sent-lewd-packages-to-superintendent-after-st-anthony-teachers-firing-harassment-charge-alleges/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWoman sent lewd packages to superintendent after St. Anthony teacher\u2019s firing, harassment charge alleges\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/woman-sent-lewd-packages-to-superintendent-after-st-anthony-teachers-firing-harassment-charge-alleges/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWith talks at impasse, special session of Legislature unlikely on Minnesota tax cuts, spending\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/special-session-unlikely-on-minnesota-budget-surplus/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/worker-cutting-a-tree-in-fridley-hits-power-line-and-dies/"
+      "url": "https://www.twincities.com/2022/06/17/man-charged-in-mondays-fatal-stabbing-at-st-paul-apartment/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWorker cutting a tree in Fridley hits power line and dies\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/worker-cutting-a-tree-in-fridley-hits-power-line-and-dies/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/minneapolis-area-house-flipper-pleads-guilty-to-fraud/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMinneapolis-area house-flipper pleads guilty to fraud\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/minneapolis-area-house-flipper-pleads-guilty-to-fraud/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMan charged in fatal stabbing at St. Paul apartment\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/man-charged-in-mondays-fatal-stabbing-at-st-paul-apartment/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/16/stillwater-prison-guard-inmate-indicted-on-meth-distribution-scheme/"
+      "url": "https://www.twincities.com/2022/06/17/3-injured-in-shooting-in-st-pauls-highland-park/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFormer Stillwater prison guard, inmate indicted on meth distribution scheme\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/stillwater-prison-guard-inmate-indicted-on-meth-distribution-scheme/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/15/a-maplewood-man-filed-for-a-northwestern-minnesota-state-senate-seat-chaos-has-ensued/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tA Maplewood man filed for a northwestern Minnesota state Senate seat. Chaos has ensued.\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/a-maplewood-man-filed-for-a-northwestern-minnesota-state-senate-seat-chaos-has-ensued/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\t3 injured in shooting in St. Paul\u2019s Highland Park\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/3-injured-in-shooting-in-st-pauls-highland-park/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/15/vehicle-hits-man-and-young-child-in-roseville-leaving-them-critically-injured/"
+      "url": "https://www.twincities.com/2022/06/17/for-purple-line-transit-committee-drops-downtown-white-bear-lake-considers-century-college/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGirl, 3, dies, and her father is critically injured after driver strikes them in Roseville\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/vehicle-hits-man-and-young-child-in-roseville-leaving-them-critically-injured/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPurple Line drops downtown White Bear Lake, considers Century College\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/for-purple-line-transit-committee-drops-downtown-white-bear-lake-considers-century-college/"
     },
     {
       "text": "\n\t\tSubscribe",
@@ -3985,36 +4225,36 @@
       "url": "https://www.twincities.com/feed/"
     },
     {
-      "text": "\n                Two suburban property owns file federal lawsuit against St. Paul over rent control\n            ",
-      "url": "https://www.twincities.com/2022/06/17/two-suburban-property-owns-file-federal-lawsuit-against-st-paul-over-rent-control/"
+      "text": "\n                Gunman kills 3 seniors over potluck dinner at Alabama church\n            ",
+      "url": "https://www.twincities.com/2022/06/17/gunman-kills-3-seniors-over-potluck-dinner-at-alabama-church/"
     },
     {
-      "text": "\n                A Maplewood man filed for a northwestern Minnesota state Senate seat. Chaos has ensued.\n            ",
-      "url": "https://www.twincities.com/2022/06/15/a-maplewood-man-filed-for-a-northwestern-minnesota-state-senate-seat-chaos-has-ensued/"
+      "text": "\n                Political commentator and columnist Mark Shields dies at 85\n            ",
+      "url": "https://www.twincities.com/2022/06/18/political-commentator-and-columnist-mark-shields-dies-at-85/"
     },
     {
-      "text": "\n                2 unaccounted for in trench collapse at St. Paul construction site\n            ",
+      "text": "\n                St. Paul Public Schools struggles to measure what\u2019s working for students\n            ",
+      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
+    },
+    {
+      "text": "\n                US opens COVID vaccine to little kids, shots begin next week\n            ",
+      "url": "https://www.twincities.com/2022/06/18/us-opens-covid-vaccine-to-little-kids-shots-begin-next-week/"
+    },
+    {
+      "text": "\n                Orioles GM Mike Elias says Angelos family lawsuit won\u2019t \u2018have any impact\u2019 on team\u2019s on-field plans\n            ",
+      "url": "https://www.twincities.com/2022/06/18/orioles-gm-mike-elias-says-angelos-family-lawsuit-wont-have-any-impact-on-teams-on-field-plans/"
+    },
+    {
+      "text": "\n                Yankees Notebook: Matt Carpenter back at the top of the lineup vs. Blue Jays\u2019 Alek Manoah\n            ",
+      "url": "https://www.twincities.com/2022/06/18/yankees-notebook-matt-carpenter-back-at-the-top-of-the-lineup-vs-blue-jays-alek-manoah/"
+    },
+    {
+      "text": "\n                Bodies of 2 workers found in trench collapse at St. Paul work site\n            ",
       "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
     },
     {
-      "text": "\n                Clay Holmes has been lights out all season no matter when he gets into the game\n            ",
-      "url": "https://www.twincities.com/2022/06/17/clay-holmes-has-been-lights-out-all-season-no-matter-when-he-gets-into-the-game/"
-    },
-    {
-      "text": "\n                Montana governor under fire for vacationing during flood\n            ",
-      "url": "https://www.twincities.com/2022/06/17/montana-governor-under-fire-for-vacationing-during-flood/"
-    },
-    {
-      "text": "\n                Didn\u2019t play in eighth grade. Told he wasn\u2019t good enough. Southland Prep graduate Tim Barnes keeps focus on NBA \u2014 and mental health issues. \u2018I\u2019m not giving up now.\u2019\n            ",
-      "url": "https://www.twincities.com/2022/06/17/didnt-play-in-eighth-grade-told-he-wasnt-good-enough-southland-prep-graduate-tim-barnes-keeps-focus-on-nba-and-mental-health-issues-im-not-giving-up-now-2/"
-    },
-    {
-      "text": "\n                Girl, 3, dies, and her father is critically injured after driver strikes them in Roseville\n            ",
-      "url": "https://www.twincities.com/2022/06/15/vehicle-hits-man-and-young-child-in-roseville-leaving-them-critically-injured/"
-    },
-    {
-      "text": "\n                Police: Motorcyclist and pedestrian die in collision in St. Paul\n            ",
-      "url": "https://www.twincities.com/2022/06/16/police-motorcyclist-and-pedestrian-die-in-collision-in-st-paul/"
+      "text": "\n                3 injured in shooting in St. Paul\u2019s Highland Park\n            ",
+      "url": "https://www.twincities.com/2022/06/17/3-injured-in-shooting-in-st-pauls-highland-park/"
     },
     {
       "text": "\n\t\t\t\tmore News\n\t\t\t",
@@ -4022,15 +4262,27 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/15/st-paul-city-council-revokes-ethiopian-bars-liquor-license-on-west-seventh-street/"
+      "url": "https://www.twincities.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
     },
     {
       "text": "\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
+    },
+    {
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFDA authorizes 1st COVID-19 shots for infants, preschoolers\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
+    },
+    {
+      "text": "",
       "url": "https://www.twincities.com/2022/06/15/st-paul-city-council-revokes-ethiopian-bars-liquor-license-on-west-seventh-street/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tSt. Paul City Council revokes Ethiopian bar\u2019s liquor license on West Seventh Street\t\t\n\n\t\t\t",
@@ -4038,39 +4290,27 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/police-3rd-victim-in-alabama-church-shooting-dies/"
+      "url": "https://www.twincities.com/2022/06/18/political-commentator-and-columnist-mark-shields-dies-at-85/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPolice: 3rd victim in Alabama church shooting dies\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/police-3rd-victim-in-alabama-church-shooting-dies/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/minnesota-says-state-unemployment-hit-record-low-2-in-may/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMinnesota says state unemployment hit record low 2% in May\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/minnesota-says-state-unemployment-hit-record-low-2-in-may/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPolitical commentator and columnist Mark Shields dies at 85\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/18/political-commentator-and-columnist-mark-shields-dies-at-85/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/15/local-nonprofit-mapping-prejudice-unveils-data-regarding-racial-covenants-in-ramsey-county/"
+      "url": "https://www.twincities.com/2022/06/17/gunman-kills-3-seniors-over-potluck-dinner-at-alabama-church/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNonprofit Mapping Prejudice unveils data regarding racial covenants in Ramsey County\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/local-nonprofit-mapping-prejudice-unveils-data-regarding-racial-covenants-in-ramsey-county/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tGunman kills 3 seniors over potluck dinner at Alabama church\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/gunman-kills-3-seniors-over-potluck-dinner-at-alabama-church/"
     },
     {
       "text": "\n\t\t\t\tmore Sports\n\t\t\t",
@@ -4078,27 +4318,39 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/loons-forward-luis-amarilla-continues-to-grind-for-goals/"
+      "url": "https://www.twincities.com/2022/06/17/class-4a-baseball-state-final-stillwater-8-farmington-1/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/loons-forward-luis-amarilla-continues-to-grind-for-goals/"
+      "url": "https://www.twincities.com/2022/06/17/class-4a-baseball-state-final-stillwater-8-farmington-1/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLoons forward Luis Amarilla continues to grind for goals\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/loons-forward-luis-amarilla-continues-to-grind-for-goals/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tClass 4A baseball state final: Stillwater 8, Farmington 1\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/class-4a-baseball-state-final-stillwater-8-farmington-1/"
+    },
+    {
+      "text": "",
+      "url": "https://www.twincities.com/2022/06/17/twins-miss-opportunities-early-play-shaky-defense-in-loss-to-diamondbacks/"
+    },
+    {
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTwins can\u2019t convert early, play shaky defense in loss to Diamondbacks\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/twins-miss-opportunities-early-play-shaky-defense-in-loss-to-diamondbacks/"
     },
     {
       "text": "",
       "url": "https://www.twincities.com/2022/06/17/class-1a-baseball-state-championship-randolph-2-hayfield-1/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tClass 1A baseball state championship: Randolph 2, Hayfield 1\t\t\n\n\t\t\t",
@@ -4106,27 +4358,15 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/16/alex-kirilloff-is-tearing-up-triple-a-when-will-he-return-to-the-twins/"
+      "url": "https://www.twincities.com/2022/06/17/jorge-polanco-lands-on-injured-list-for-first-time-twins-recall-alex-kirilloff/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAlex Kirilloff is tearing up Triple-A. When will he return to the Twins?\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/alex-kirilloff-is-tearing-up-triple-a-when-will-he-return-to-the-twins/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/clippers-turn-pitchers-duel-into-a-rout-in-10-1-victory-over-saints/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tClippers turn pitchers\u2019 duel into a rout in 10-1 victory over Saints\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/clippers-turn-pitchers-duel-into-a-rout-in-10-1-victory-over-saints/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJorge Polanco lands on injured list for first time; Twins recall Alex Kirilloff\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/jorge-polanco-lands-on-injured-list-for-first-time-twins-recall-alex-kirilloff/"
     },
     {
       "text": "\n\t\t\t\tmore Restaurants & Food\n\t\t\t",
@@ -4141,8 +4381,8 @@
       "url": "https://www.twincities.com/2022/06/16/what-new-mn-liquor-laws-mean-for-businesses-and-consumers/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tWhat new Minnesota liquor laws mean for businesses \u2014 and consumers\t\t\n\n\t\t\t",
@@ -4153,8 +4393,8 @@
       "url": "https://www.twincities.com/2022/06/15/little-tijuana-is-coming-back-with-the-same-name-but-asian-inspired-menu-and-craft-cocktails/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tLittle Tijuana returns with the same name but Asian-inspired menu and craft cocktails\t\t\n\n\t\t\t",
@@ -4165,8 +4405,8 @@
       "url": "https://www.twincities.com/2022/06/14/owamni-from-sioux-chef-takes-home-national-james-beard-award-for-best-new-restaurant/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tOwamni from Sioux Chef gets national James Beard Award for best new eatery\t\t\n\n\t\t\t",
@@ -4177,8 +4417,8 @@
       "url": "https://www.twincities.com/2022/06/16/joy-baking-group-ice-cream-cone-baker/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tMeet the company that makes cones for ice cream shops across America\t\t\n\n\t\t\t",
@@ -4190,6 +4430,22 @@
     },
     {
       "text": "",
+      "url": "https://www.twincities.com/2022/06/17/back-to-the-fifties-weekend-returns-to-mn-state-fairgrounds/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/back-to-the-fifties-weekend-returns-to-mn-state-fairgrounds/"
+    },
+    {
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBack to the Fifties weekend returns to MN State Fairgrounds\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/back-to-the-fifties-weekend-returns-to-mn-state-fairgrounds/"
+    },
+    {
+      "text": "",
       "url": "https://www.twincities.com/2022/06/16/gateway-towns-to-yellowstone-become-dead-ends-after-flood/"
     },
     {
@@ -4197,8 +4453,8 @@
       "url": "https://www.twincities.com/2022/06/16/gateway-towns-to-yellowstone-become-dead-ends-after-flood/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tGateway towns to Yellowstone become dead ends after flood\t\t\n\n\t\t\t",
@@ -4213,8 +4469,8 @@
       "url": "https://www.twincities.com/2022/06/16/class-4a-baseball-semifinal-stillwater-5-chanhassen-3/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tClass 4A baseball semifinal: Stillwater 5, Chanhassen 3\t\t\n\n\t\t\t",
@@ -4229,8 +4485,8 @@
       "url": "https://www.twincities.com/2022/06/16/boys-lacrosse-semifinal-prior-lake-20-centennial-7/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tBoys lacrosse semifinal: Prior Lake 20, Centennial 7\t\t\n\n\t\t\t",
@@ -4245,8 +4501,8 @@
       "url": "https://www.twincities.com/2022/06/16/class-4a-baseball-state-semifinal-no-1-farmington-7-no-3-maple-grove-5/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tClass 4A baseball semifinal: Farmington 7, Maple Grove 5\t\t\n\n\t\t\t",
@@ -4261,8 +4517,8 @@
       "url": "https://www.twincities.com/2022/06/16/boys-lacrosse-semifinal-benilde-st-margarets-15-stillwater-10/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tBoys lacrosse semifinal: Benilde-St. Margaret\u2019s 15, Stillwater 10\t\t\n\n\t\t\t",
@@ -4277,8 +4533,8 @@
       "url": "https://www.twincities.com/2022/06/15/ap-photos-supermoon-delights-skygazers-around-the-globe/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos and video: Supermoon delights skygazers around the globe\t\t\n\n\t\t\t",
@@ -4293,8 +4549,8 @@
       "url": "https://www.twincities.com/2022/06/16/hate-crime-probe-after-group-disrupts-drag-queen-story-hour/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tHate crime probe after group disrupts Drag Queen Story Hour\t\t\n\n\t\t\t",
@@ -4309,8 +4565,8 @@
       "url": "https://www.twincities.com/2022/06/16/leaders-pledge-arms-and-eu-path-for-ukraine-in-kyiv-visit/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tLeaders pledge arms and EU path for Ukraine in Kyiv visit\t\t\n\n\t\t\t",
@@ -4325,8 +4581,8 @@
       "url": "https://www.twincities.com/2022/06/15/class-3a-girls-golf-blaines-kathryn-vanarragon-holds-off-mccauley-sisters-for-state-title/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tClass 3A girls golf: Blaine\u2019s Kathryn VanArragon holds off McCauley sisters for state title\t\t\n\n\t\t\t",
@@ -4341,8 +4597,8 @@
       "url": "https://www.twincities.com/2022/06/15/fda-advisers-endorse-1st-covid-19-shots-for-kids-under-5/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tFDA advisers endorse 1st COVID-19 shots for kids under 5\t\t\n\n\t\t\t",
@@ -4357,28 +4613,12 @@
       "url": "https://www.twincities.com/2022/06/15/biden-seeks-to-counter-legislative-attacks-on-lgbtq-rights/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tBiden seeks to counter \u2018legislative attacks\u2019 on LGBTQ rights\t\t\n\n\t\t\t",
       "url": "https://www.twincities.com/2022/06/15/biden-seeks-to-counter-legislative-attacks-on-lgbtq-rights/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/15/us-report-nearly-400-crashes-of-automated-tech-vehicles/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/us-report-nearly-400-crashes-of-automated-tech-vehicles/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tUS report: Nearly 400 crashes of automated tech vehicles\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/us-report-nearly-400-crashes-of-automated-tech-vehicles/"
     },
     {
       "text": "\n\t\t\t\tmore Things to Do\n\t\t\t",
@@ -4386,27 +4626,39 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
+      "url": "https://www.twincities.com/2022/06/16/stillwater-river-siren-brewing-sunshine-fest-lifesource-fundraiser/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
+      "url": "https://www.twincities.com/2022/06/16/stillwater-river-siren-brewing-sunshine-fest-lifesource-fundraiser/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJuneteenth in the Twin Cities: What\u2019s open, what\u2019s closed and what\u2019s on tap\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tStillwater brewery launches festival fundraiser for organ donation\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/16/stillwater-river-siren-brewing-sunshine-fest-lifesource-fundraiser/"
+    },
+    {
+      "text": "",
+      "url": "https://www.twincities.com/2022/06/16/facebook-event-stillwater-food-truck-extravaganza/"
+    },
+    {
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tDespite Facebook glitch, Stillwater area\u2019s Food Truck Extravaganza is still on\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/16/facebook-event-stillwater-food-truck-extravaganza/"
     },
     {
       "text": "",
       "url": "https://www.twincities.com/2022/06/17/vince-mcmahon-will-step-down-during-wwe-misconduct-probe/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tVince McMahon will step down during WWE misconduct probe\t\t\n\n\t\t\t",
@@ -4417,24 +4669,12 @@
       "url": "https://www.twincities.com/2022/06/17/salvation-army-will-host-july-rappelling-event-to-raise-money-for-minnesotas-homeless/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tSalvation Army will host July rappelling event to raise money for Minnesota\u2019s homeless\t\t\n\n\t\t\t",
       "url": "https://www.twincities.com/2022/06/17/salvation-army-will-host-july-rappelling-event-to-raise-money-for-minnesotas-homeless/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/revlon-beauty-icon-in-crowded-market-files-for-bankruptcy/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tRevlon, beauty icon in crowded market, files for bankruptcy\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/revlon-beauty-icon-in-crowded-market-files-for-bankruptcy/"
     },
     {
       "text": "\n\t\t\t\tmore Crime & Public Safety\n\t\t\t",
@@ -4442,55 +4682,55 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/16/oakdale-man-pleads-guilty-for-his-role-in-health-care-insurance-fraud-scheme/"
+      "url": "https://www.twincities.com/2022/06/17/gregory-ulrich-sentenced-allina-clinic-shooting-buffalo-mn/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/oakdale-man-pleads-guilty-for-his-role-in-health-care-insurance-fraud-scheme/"
+      "url": "https://www.twincities.com/2022/06/17/gregory-ulrich-sentenced-allina-clinic-shooting-buffalo-mn/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOakdale man pleads guilty for his role in health care insurance fraud scheme\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/oakdale-man-pleads-guilty-for-his-role-in-health-care-insurance-fraud-scheme/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/police-motorcyclist-and-pedestrian-die-in-collision-in-st-paul/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPolice: Motorcyclist and pedestrian die in collision in St. Paul\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/police-motorcyclist-and-pedestrian-die-in-collision-in-st-paul/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tGregory Ulrich sentenced to life in prison for \u2018unthinkable\u2019 MN clinic shooting\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/gregory-ulrich-sentenced-allina-clinic-shooting-buffalo-mn/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/15/rochester-motorcyclist-goes-144-mph-in-65-mph-zone-tells-deputy-he-was-trying-to-cool-off/"
+      "url": "https://www.twincities.com/2022/06/17/st-paul-man-gets-36-years-for-2020-fatal-shooting-at-eagan-hotel/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tRochester motorcyclist goes 144 mph in 65-mph zone, tells deputy he was trying to cool off\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/rochester-motorcyclist-goes-144-mph-in-65-mph-zone-tells-deputy-he-was-trying-to-cool-off/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSt. Paul man gets 36 years for 2020 fatal shooting at Eagan hotel\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/st-paul-man-gets-36-years-for-2020-fatal-shooting-at-eagan-hotel/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/15/canadian-man-fatally-struck-while-bicycling-through-s-d-to-raise-funds-for-ill-granddaughter/"
+      "url": "https://www.twincities.com/2022/06/17/woman-sent-lewd-packages-to-superintendent-after-st-anthony-teachers-firing-harassment-charge-alleges/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCanadian man fatally struck while bicycling through S.D. to raise funds for ill granddaughter\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/canadian-man-fatally-struck-while-bicycling-through-s-d-to-raise-funds-for-ill-granddaughter/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWoman sent lewd packages after St. Anthony teacher\u2019s firing, harassment charge alleges\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/woman-sent-lewd-packages-to-superintendent-after-st-anthony-teachers-firing-harassment-charge-alleges/"
+    },
+    {
+      "text": "",
+      "url": "https://www.twincities.com/2022/06/16/minneapolis-area-house-flipper-pleads-guilty-to-fraud/"
+    },
+    {
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMinneapolis-area house-flipper pleads guilty to fraud\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/16/minneapolis-area-house-flipper-pleads-guilty-to-fraud/"
     },
     {
       "text": "\n\t\t\t\tmore Opinion\n\t\t\t",
@@ -4498,27 +4738,27 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/helene-gayle-reparations-is-another-word-for-investing-in-americas-future/"
+      "url": "https://www.twincities.com/2022/06/18/sainted-tainted-our-day-at-the-beach-was-saved/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/helene-gayle-reparations-is-another-word-for-investing-in-americas-future/"
+      "url": "https://www.twincities.com/2022/06/18/sainted-tainted-our-day-at-the-beach-was-saved/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHelene Gayle: \u2018Reparations\u2019 is another word for investing in America\u2019s future\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/helene-gayle-reparations-is-another-word-for-investing-in-americas-future/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSainted & Tainted: Our day at the beach was saved!\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/18/sainted-tainted-our-day-at-the-beach-was-saved/"
     },
     {
       "text": "",
       "url": "https://www.twincities.com/2022/06/17/bubble-watch-could-mortgage-rates-hit-10/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tBubble watch: Could mortgage rates hit 10%?\t\t\n\n\t\t\t",
@@ -4529,8 +4769,8 @@
       "url": "https://www.twincities.com/2022/06/17/tyler-d-michals-the-collisions-between-sports-and-politics-underscore-our-need-for-tolerance-of-dissent-2/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tTyler D. Michals: The collisions between sports and politics underscore our need for tolerance of dissent\t\t\n\n\t\t\t",
@@ -4538,15 +4778,15 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/15/letters-the-value-of-healthy-responsible-skepticism/"
+      "url": "https://www.twincities.com/2022/06/17/helene-gayle-reparations-is-another-word-for-investing-in-americas-future/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: The value of healthy, responsible skepticism\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/letters-the-value-of-healthy-responsible-skepticism/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tHelene Gayle: \u2018Reparations\u2019 is another word for investing in America\u2019s future\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/helene-gayle-reparations-is-another-word-for-investing-in-americas-future/"
     },
     {
       "text": "\n\t\t\t\tmore Government & Politics\n\t\t\t",
@@ -4554,55 +4794,55 @@
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/17/ukraine-gets-possible-path-to-eu-aid-pledges-from-britain/"
+      "url": "https://www.twincities.com/2022/06/18/bidens-optimism-collides-with-mounting-political-challenges/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/ukraine-gets-possible-path-to-eu-aid-pledges-from-britain/"
+      "url": "https://www.twincities.com/2022/06/18/bidens-optimism-collides-with-mounting-political-challenges/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tUkraine gets possible path to EU, aid pledges from Britain\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/ukraine-gets-possible-path-to-eu-aid-pledges-from-britain/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/jan-6-takeaways-heated-trump-pences-near-miss-with-mob/"
-    },
-    {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJan. 6 takeaways: \u2018Heated\u2019 Trump, Pence\u2019s near miss with mob\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/jan-6-takeaways-heated-trump-pences-near-miss-with-mob/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBiden\u2019s optimism collides with mounting political challenges\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/18/bidens-optimism-collides-with-mounting-political-challenges/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/15/st-pauls-reparations-committee-concludes-work-recommends-creation-of-long-term-commission/"
+      "url": "https://www.twincities.com/2022/06/17/as-gas-prices-keep-breaking-records-how-much-relief-can-mn-leaders-provide/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSt. Paul\u2019s reparations committee concludes work, recommends creation of long-term commission\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/st-pauls-reparations-committee-concludes-work-recommends-creation-of-long-term-commission/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAs gas prices keep breaking records, how much relief can MN leaders provide?\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/as-gas-prices-keep-breaking-records-how-much-relief-can-mn-leaders-provide/"
     },
     {
       "text": "",
-      "url": "https://www.twincities.com/2022/06/16/election-deniers-quiet-on-fraud-claims-after-primary-wins/"
+      "url": "https://www.twincities.com/2022/06/15/a-maplewood-man-filed-for-a-northwestern-minnesota-state-senate-seat-chaos-has-ensued/"
     },
     {
-      "text": "Local News | ",
-      "url": "https://www.twincities.com/local-news/"
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tElection deniers quiet on fraud claims after primary wins\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/election-deniers-quiet-on-fraud-claims-after-primary-wins/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tA Maplewood man filed for a northwestern Minnesota state Senate seat. Chaos has ensued.\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/15/a-maplewood-man-filed-for-a-northwestern-minnesota-state-senate-seat-chaos-has-ensued/"
+    },
+    {
+      "text": "",
+      "url": "https://www.twincities.com/2022/06/17/montana-governor-under-fire-for-vacationing-during-flood/"
+    },
+    {
+      "text": "Health | ",
+      "url": "https://www.twincities.com/news/health/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMontana governor under fire for vacationing during flood\t\t\n\n\t\t\t",
+      "url": "https://www.twincities.com/2022/06/17/montana-governor-under-fire-for-vacationing-during-flood/"
     },
     {
       "text": "Another Florida homeowners insurance company goes under",
@@ -4801,10 +5041,10 @@
       "url": "https://www.twincities.com/faqlogin/?returnUrl=https%3A%2F%2Fwww.twincities.com%2F%3FclearUserState%3Dtrue"
     }
   ],
-  "server": "ia902508.us.archive.org",
-  "uniq": 1060028861,
+  "server": "ia802508.us.archive.org",
+  "uniq": 65440781,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }
