@@ -1,5 +1,5 @@
 {
-  "created": 1655511637,
+  "created": 1655598003,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/ocregister-2022",
@@ -5846,31 +5846,283 @@
       "sha1": "b1a622fa624eb3e37a5e0950404b7e111da9721f"
     },
     {
+      "name": "ocregister-2022-06-17T20:26:24.923152-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655522790",
+      "size": "39188",
+      "md5": "9e19f38ca07be4636c613415fa9c8b72",
+      "crc32": "1caaa8d6",
+      "sha1": "e2802324f3c13e67ec093173cc5fb7457bef2f77",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-17T20:26:24.923152-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655522792",
+      "size": "47126",
+      "md5": "7d6f0e1e9659a3537c472b7426bce28d",
+      "crc32": "6d99fd9e",
+      "sha1": "56500aac9f9183ed227018eef2f1afd7c9c7d7f5",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-17T20:26:24.923152-07:00.jpg",
+      "source": "original",
+      "mtime": "1655522786",
+      "size": "330849",
+      "md5": "41b2d71131f6e3a3dec2ef86afc1323e",
+      "crc32": "b94857c8",
+      "sha1": "8b35a5985037eaa3d77c4abd14a272b31b00e6ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-17T20:26:24.923152-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-17T20:26:24.923152-07:00.jpg",
+      "mtime": "1655522858",
+      "size": "8588",
+      "md5": "beed0d6f63ceff77d8db22581d0ae502",
+      "crc32": "322c45a7",
+      "sha1": "9069597c6e9ab9e7de925d1056c563f5af017865"
+    },
+    {
+      "name": "ocregister-2022-06-17T22:06:14.437614-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655528777",
+      "size": "38873",
+      "md5": "ae6cc5b4d0b1a774fe259f50a2120d29",
+      "crc32": "a56de97e",
+      "sha1": "a6ac0d209216cdf56edde6b48d379afbc76a7b29",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-17T22:06:14.437614-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655528779",
+      "size": "47026",
+      "md5": "533b6531a8c2919376e669faf559ebaa",
+      "crc32": "b40ebd2a",
+      "sha1": "d5c7f18f0238ade7499b8340fc7c8ddc44067405",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-17T22:06:14.437614-07:00.jpg",
+      "source": "original",
+      "mtime": "1655528776",
+      "size": "331366",
+      "md5": "2e8352465cc20f668799994aa7300683",
+      "crc32": "e310f419",
+      "sha1": "e49fdba063eb2743ad037cf3dd43129843c31963",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-17T22:06:14.437614-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-17T22:06:14.437614-07:00.jpg",
+      "mtime": "1655528862",
+      "size": "8460",
+      "md5": "82214725a3aee759c145a9711c704147",
+      "crc32": "ab4674c3",
+      "sha1": "750e2f3266e709743b7f4d20620c47cb99d5809a"
+    },
+    {
+      "name": "ocregister-2022-06-18T02:05:49.123355-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655543156",
+      "size": "38886",
+      "md5": "2feb180a8c9551d04633caf7d31c74ce",
+      "crc32": "8655b26c",
+      "sha1": "5fccb88212f7aec9da09396fc7e26d35ca94141a",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T02:05:49.123355-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655543158",
+      "size": "46995",
+      "md5": "2c74fd79a07d319bb06867df33a27230",
+      "crc32": "13be68e2",
+      "sha1": "a2f214ffcc7a7442383e98b835eda7076ffcef0e",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T02:05:49.123355-07:00.jpg",
+      "source": "original",
+      "mtime": "1655543154",
+      "size": "327485",
+      "md5": "cc5c8da728653381c465590e9d66f52e",
+      "crc32": "05ac3880",
+      "sha1": "23757d9dc8c1b611dd1a2be2c0e4800846e726b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-18T02:05:49.123355-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-18T02:05:49.123355-07:00.jpg",
+      "mtime": "1655543231",
+      "size": "8360",
+      "md5": "db8b4ca84f6086b3a69c9056fe5321c2",
+      "crc32": "30a47208",
+      "sha1": "29dee9949b7230bf3c71c929effb801e5f6169b4"
+    },
+    {
+      "name": "ocregister-2022-06-18T06:10:29.986713-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655557836",
+      "size": "38844",
+      "md5": "c39b3f89c9161948a20584a3828c39e4",
+      "crc32": "2fe9b0a2",
+      "sha1": "2217ef1bfccb9fa466fb3ed3f3714bbaa606c714",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T06:10:29.986713-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655557839",
+      "size": "46223",
+      "md5": "8bfe5580e4dc410cb8e9f55ac14b5418",
+      "crc32": "2df96a60",
+      "sha1": "f8c585dbf5b15ba738a6d28575fa00750f7c2afb",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T06:10:29.986713-07:00.jpg",
+      "source": "original",
+      "mtime": "1655557834",
+      "size": "324600",
+      "md5": "48363c27352226fc22d6c3c8013e4702",
+      "crc32": "4009f5f7",
+      "sha1": "b414e16c2e2d53c4fc2a81c57f857ae6fe681ede",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-18T06:10:29.986713-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-18T06:10:29.986713-07:00.jpg",
+      "mtime": "1655557904",
+      "size": "8377",
+      "md5": "1a825fece46b3ed32f2ea73e73e26518",
+      "crc32": "f8debbec",
+      "sha1": "03cdda4a69851a79bd7d49a90ceb4f40f1b3bb0e"
+    },
+    {
+      "name": "ocregister-2022-06-18T10:09:32.509385-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655572176",
+      "size": "38754",
+      "md5": "1e141dc307a5b33516710a95432d280e",
+      "crc32": "407cde76",
+      "sha1": "d5075645a0148a5e45d69346520f9faf6869d34b",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T10:09:32.509385-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655572178",
+      "size": "47163",
+      "md5": "64b82360c0125714250c2f8f537a9298",
+      "crc32": "0fea0d7c",
+      "sha1": "49f2e323ace12713e10b64ec0c468e4b4c3bc3b9",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T10:09:32.509385-07:00.jpg",
+      "source": "original",
+      "mtime": "1655572174",
+      "size": "323938",
+      "md5": "35827b52191acbedd0767074534f75db",
+      "crc32": "0484d6cd",
+      "sha1": "36282a1fbf97095b5e79b24b5c963f53f2af6a8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-18T10:09:32.509385-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-18T10:09:32.509385-07:00.jpg",
+      "mtime": "1655572261",
+      "size": "8413",
+      "md5": "1ce27bb6c867c5848ebdc6eb4e7dcc7c",
+      "crc32": "0792a10a",
+      "sha1": "2a478ee6e59aead64d67aee236e2cfc362a1ff28"
+    },
+    {
+      "name": "ocregister-2022-06-18T14:03:33.085874-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655586218",
+      "size": "39077",
+      "md5": "d10dfb6addd326dfabbd125705d334eb",
+      "crc32": "6c637936",
+      "sha1": "a7035a619238a2d37eb90d97f6345a88c70791e0",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T14:03:33.085874-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655586220",
+      "size": "54035",
+      "md5": "6e45c5c223efd1fa5492b34404fc4a8a",
+      "crc32": "7d65b53a",
+      "sha1": "11b2669af2a794b51a2e2c9388e9e3284920cf61",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T14:03:33.085874-07:00.jpg",
+      "source": "original",
+      "mtime": "1655586216",
+      "size": "355398",
+      "md5": "9920838f75a7ef472a71670a50fb59ef",
+      "crc32": "8edf14cb",
+      "sha1": "63092e11c1200b42ebd6f84cbef19d7da644fc64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-18T14:03:33.085874-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-18T14:03:33.085874-07:00.jpg",
+      "mtime": "1655586326",
+      "size": "8586",
+      "md5": "8a30fc36ae8cc4e5921350a4c6d79e38",
+      "crc32": "abc8bb28",
+      "sha1": "70dc53fa00afb1c60907c0d61f0549100776e647"
+    },
+    {
       "name": "ocregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03ac0e6aaff7b8db4134f1cfcee2674f2f5a7f90",
-      "mtime": "1655499919",
-      "size": "120095",
-      "md5": "db049356f2dfad45ae1640500e9e0f4d",
-      "crc32": "e3d3c585",
-      "sha1": "5d561a65f9d94340a2e606922f0bdc836ac79164",
+      "btih": "9572d630e237d6a678b291ea39c5b44138280d30",
+      "mtime": "1655586336",
+      "size": "125217",
+      "md5": "41400a1253d6abd8f08e37d46a091a96",
+      "crc32": "0753d4fd",
+      "sha1": "8221897a09a0e2f6b0b1b5915034ab7b425435d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbf075b13375d9a148f573af4b5cefce",
+      "md5": "d749bb5104eba948cad84b8249b530ca",
       "summation": "md5"
     },
     {
       "name": "ocregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655499857",
-      "size": "643072",
-      "md5": "70cf3fc7b686440715b471bc5aaa5c65",
-      "crc32": "093bdd82",
-      "sha1": "a7b3027e74c2aaf5ba3c6fa1a85c8eaca2a92d47",
+      "mtime": "1655586250",
+      "size": "675840",
+      "md5": "3c2f7f848d6dcae0514847283d0fda5b",
+      "crc32": "0bbea679",
+      "sha1": "a8f5cea7a1c29d69f43d665d413595c37cb9a47b",
       "format": "Metadata"
     },
     {
@@ -5884,9 +6136,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 559,
-  "item_last_updated": 1655499919,
-  "item_size": 69873991,
+  "files_count": 583,
+  "item_last_updated": 1655586336,
+  "item_size": 72478491,
   "metadata": {
     "identifier": "ocregister-2022",
     "collection": [
@@ -5917,7 +6169,7 @@
       "url": "https://checkout.ocregister.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV&returnUrl=https%253A%252F%252Fwww.ocregister.com%252F"
     },
     {
-      "text": "\n\t\t\t73\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t74\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/santa-ana-ca/92701/weather-warnings/38830_pc?lang=en-us&partner=mng_1"
     },
     {
@@ -6317,7 +6569,7 @@
       "url": "https://www.ocregister.com/login?returnUrl=https%3A%2F%2Fwww.ocregister.com%2F"
     },
     {
-      "text": "\n\t\t\t73\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t74\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/santa-ana-ca/92701/weather-warnings/38830_pc?lang=en-us&partner=mng_1"
     },
     {
@@ -6357,100 +6609,80 @@
       "url": "https://www.ocregister.com/sponsored-content/the-tea/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tElection Results\t\t\n\n\t\t\t",
       "url": "https://www.ocregister.com/2022/06/08/election-results-3/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tFrumpy Mom columns\t\t\n\n\t\t\t",
       "url": "https://www.ocregister.com/2021/05/12/frumpy-middle-age-mom-columns/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t75 Best Restaurants\t\t\n\n\t\t\t",
       "url": "https://www.ocregister.com/2022/06/02/the-75-best-restaurants-in-orange-county-in-2022/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tDisneyland Resort Reporter\t\t\n\n\t\t\t",
       "url": "https://www.ocregister.com/2021/06/04/disneyland-resort-reporter/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tRestaurant reviews\t\t\n\n\t\t\t",
       "url": "https://www.ocregister.com/2021/12/09/restaurant-reviews-2/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe best graduation 2022 photos from Marina High\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-marina-high/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tHuntington Beach mobile home residents ask for relief as conglomerates buy up parks\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-marina-high/"
+      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-marina-high/"
+      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-esperanza-high/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe best graduation 2022 photos from Esperanza High\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-esperanza-high/"
+      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-edison-high/"
+      "url": "https://www.ocregister.com/2022/06/17/orange-county-restaurants-shut-down-by-health-inspectors-june-10-16/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/orange-county-restaurants-shut-down-by-health-inspectors-june-10-16/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe best graduation 2022 photos from Edison High\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-edison-high/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/the-best-graduation-2022-photos-from-westminster-high/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe best graduation 2022 photos from Westminster High\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/the-best-graduation-2022-photos-from-westminster-high/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-marina-high/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOrange County restaurants shut down by health inspectors (June 10-16)\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/orange-county-restaurants-shut-down-by-health-inspectors-june-10-16/"
     },
     {
       "text": "",
@@ -6461,8 +6693,8 @@
       "url": "https://www.ocregister.com/2022/06/17/disneyland-crime-reports-bomb-threat-animal-cruelty-and-vandalism/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tDisneyland crime reports: Bomb threat, animal cruelty and vandalism\t\t\n\n\t\t\t",
@@ -6470,51 +6702,35 @@
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/real-estate-news-affordable-apartment-complex-sells-for-11-million-in-yorba-linda/"
+      "url": "https://www.ocregister.com/2022/06/17/an-anti-asian-attack-in-the-drive-thru-at-mcdonalds-draws-a-crowd-urging-an-end-to-hate/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/real-estate-news-affordable-apartment-complex-sells-for-11-million-in-yorba-linda/"
+      "url": "https://www.ocregister.com/2022/06/17/an-anti-asian-attack-in-the-drive-thru-at-mcdonalds-draws-a-crowd-urging-an-end-to-hate/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tReal estate news: Affordable apartment complex sells for $11 million in Yorba Linda\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/real-estate-news-affordable-apartment-complex-sells-for-11-million-in-yorba-linda/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAn anti-Asian attack in the drive-thru at McDonalds draws a crowd urging an end to hate\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/an-anti-asian-attack-in-the-drive-thru-at-mcdonalds-draws-a-crowd-urging-an-end-to-hate/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/aliso-viejo-bombing-suspect-obsessed-over-ex-girlfriend-had-access-to-spa/"
+      "url": "https://www.ocregister.com/2022/06/18/these-beautiful-low-maintenance-plants-bring-movement-to-the-garden-by-blowing-in-the-breeze/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/aliso-viejo-bombing-suspect-obsessed-over-ex-girlfriend-had-access-to-spa/"
+      "url": "https://www.ocregister.com/2022/06/18/these-beautiful-low-maintenance-plants-bring-movement-to-the-garden-by-blowing-in-the-breeze/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAliso Viejo bombing suspect \u2018obsessed\u2019 over ex-girlfriend, had access to spa\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/aliso-viejo-bombing-suspect-obsessed-over-ex-girlfriend-had-access-to-spa/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/katie-lou-samuelson-finds-comfort-zone-with-sparks/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/katie-lou-samuelson-finds-comfort-zone-with-sparks/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tKatie Lou Samuelson finds comfort zone with Sparks\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/katie-lou-samuelson-finds-comfort-zone-with-sparks/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tThese beautiful low-maintenance plants bring movement to the garden by blowing in the breeze\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/these-beautiful-low-maintenance-plants-bring-movement-to-the-garden-by-blowing-in-the-breeze/"
     },
     {
       "text": "",
@@ -6522,87 +6738,87 @@
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/southern-california-unemployment-down-to-3-82-below-pre-pandemic-level/"
+      "url": "https://www.ocregister.com/2022/06/18/riversides-cheech-marin-museum-opens-to-cheers-cultural-celebration/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOC unemployment drops to 2.4%, 2nd lowest ever\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/southern-california-unemployment-down-to-3-82-below-pre-pandemic-level/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/peter-navarro-former-trump-adviser-pleads-not-guilty-to-contempt-of-congress-charges/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFormer UC Irvine professor pleads not guilty to contempt of Congress charges\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/peter-navarro-former-trump-adviser-pleads-not-guilty-to-contempt-of-congress-charges/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tRiverside\u2019s Cheech Marin museum opens to cheers, cultural celebration\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/riversides-cheech-marin-museum-opens-to-cheers-cultural-celebration/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/california-legislators-want-to-help-first-time-homebuyers-with-a-down-payment-shared-equity/"
+      "url": "https://www.ocregister.com/2022/06/18/lds-church-begins-construction-on-new-temple-in-yorba-linda-only-the-9th-in-california/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia legislators want to help first-time homebuyers with a down payment, \u2018shared equity\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/california-legislators-want-to-help-first-time-homebuyers-with-a-down-payment-shared-equity/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/angels-owner-asks-anaheim-for-5-million-to-cover-costs-of-defunct-stadium-sale/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAngels owner asks Anaheim for $5 million to cover costs of defunct stadium sale\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/angels-owner-asks-anaheim-for-5-million-to-cover-costs-of-defunct-stadium-sale/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLDS Church begins construction on new temple in Yorba Linda, only the 9th in California\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/lds-church-begins-construction-on-new-temple-in-yorba-linda-only-the-9th-in-california/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/2-arrested-in-deaths-of-couple-found-after-santa-ana-mobile-home-burns/"
+      "url": "https://www.ocregister.com/2022/06/18/suspect-who-fatally-shot-2-el-monte-officers-died-by-suicide-coroner-says/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t2 arrested in deaths of couple found after Santa Ana mobile home burns\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/2-arrested-in-deaths-of-couple-found-after-santa-ana-mobile-home-burns/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/walmart-hikes-pay-for-more-than-1600-california-pharmacy-techs/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWalmart hikes pay for more than 1,600 California pharmacy techs\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/walmart-hikes-pay-for-more-than-1600-california-pharmacy-techs/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMan accused of killing 2 El Monte officers died by suicide, coroner says\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/suspect-who-fatally-shot-2-el-monte-officers-died-by-suicide-coroner-says/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/spacex-fires-employees-over-letter-critical-of-ceo-musk/"
+      "url": "https://www.ocregister.com/2022/06/18/priests-vs-seminarians-basketball-game-returns-priest-pull-ahead-in-series/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSpaceX fires employees over letter critical of CEO Musk\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/spacex-fires-employees-over-letter-critical-of-ceo-musk/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPriests vs seminarians basketball game returns; priest pull ahead in series\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/priests-vs-seminarians-basketball-game-returns-priest-pull-ahead-in-series/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/18/culture-and-connection-juneteenth-production-celebrates-modern-and-traditional-african-american-performance/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCulture and connection \u2014 Juneteenth production celebrates modern and traditional African American performance\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/culture-and-connection-juneteenth-production-celebrates-modern-and-traditional-african-american-performance/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/18/1987-when-mortgage-rates-last-soared-this-much/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\t1987: When mortgage rates last soared this much\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/1987-when-mortgage-rates-last-soared-this-much/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/17/juneteenth-the-newest-federal-holiday-and-trans-atlantic-slaverys-rise-and-fall/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJuneteenth: The newest federal holiday and trans-Atlantic slavery\u2019s rise and fall\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/juneteenth-the-newest-federal-holiday-and-trans-atlantic-slaverys-rise-and-fall/"
     },
     {
       "text": "\n\t\tSubscribe",
@@ -6629,52 +6845,52 @@
       "url": "https://myaccount.ocregister.com/access.aspx?utm_source=adtila&utm_medium=website&utm_campaign=access"
     },
     {
-      "text": "\n                Man found dead in Death Valley may have run out of gas in dangerously hot weather\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/huntington-beach-man-found-dead-in-death-valley-may-have-ran-out-of-gas-in-dangerously-hot-weather/"
+      "text": "\n                Huntington Beach mobile home residents ask for relief as conglomerates buy up parks\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
+    },
+    {
+      "text": "\n                Orange County restaurants shut down by health inspectors (June 10-16)\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/orange-county-restaurants-shut-down-by-health-inspectors-june-10-16/"
+    },
+    {
+      "text": "\n                Disneyland crime reports: Bomb threat, animal cruelty and vandalism\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/disneyland-crime-reports-bomb-threat-animal-cruelty-and-vandalism/"
+    },
+    {
+      "text": "\n                Early developer behind Portola Center in Lake Forest fined $6.6 million for alleged runoff\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/early-developer-behind-portola-center-in-lake-forest-fined-6-6-million-for-alleged-runoff/"
+    },
+    {
+      "text": "\n                Sign on gravel truck doesn\u2019t trump the law\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/sign-on-gravel-truck-doesnt-trump-the-law/"
+    },
+    {
+      "text": "\n                SpaceX fires employees over letter critical of CEO Musk\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/spacex-fires-employees-over-letter-critical-of-ceo-musk/"
+    },
+    {
+      "text": "\n                Dodgers pitcher Andrew Heaney\u2019s \u2018business trip\u2019 home is over\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/dodgers-pitcher-andrew-heaneys-business-trip-home-is-over/"
+    },
+    {
+      "text": "\n                2 El Monte officers were fatally shot in head, coroner says\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/2-el-monte-officers-were-fatally-shot-in-head-coroner-says/"
+    },
+    {
+      "text": "\n                Coronavirus: Orange County reported 3,114 new cases and six more deaths, June 17\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/coronavirus-orange-county-reported-3114-new-cases-and-six-more-deaths-june-17/"
     },
     {
       "text": "\n                Aliso Viejo bombing suspect \u2018obsessed\u2019 over ex-girlfriend, had access to spa\n            ",
       "url": "https://www.ocregister.com/2022/06/16/aliso-viejo-bombing-suspect-obsessed-over-ex-girlfriend-had-access-to-spa/"
     },
     {
-      "text": "\n                Angels owner asks Anaheim for $5 million to cover costs of defunct stadium sale\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/angels-owner-asks-anaheim-for-5-million-to-cover-costs-of-defunct-stadium-sale/"
+      "text": "\n                Why Democrats are terrified of Donald Trump\n            ",
+      "url": "https://www.ocregister.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
     },
     {
-      "text": "\n                Beckie Gomez resigns from OC Board of Education\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/beckie-gomez-resigns-from-oc-board-of-ed/"
-    },
-    {
-      "text": "\n                2 arrested in deaths of couple found after Santa Ana mobile home burns\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/2-arrested-in-deaths-of-couple-found-after-santa-ana-mobile-home-burns/"
-    },
-    {
-      "text": "\n                Gray whale is swimming free after rescuers cut loose massive bundle of netting\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/gray-whale-is-swimming-free-after-rescuers-cut-loose-massive-bundle-of-netting/"
-    },
-    {
-      "text": "\n                Anti-vaccine Beverly Hills doctor sentenced to prison for Capitol riot\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/anti-vaccine-doctor-sentenced-to-prison-for-capitol-riot/"
-    },
-    {
-      "text": "\n                Children drink floor sealant that was served as milk at Alaska school\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/children-drink-floor-sealant-that-was-served-as-milk-at-alaska-school/"
-    },
-    {
-      "text": "\n                Marlins to introduce \u2018Bottomless Brunch\u2019 Sundays beginning June 26\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/marlins-to-introduce-bottomless-brunch-sundays-beginning-june-26/"
-    },
-    {
-      "text": "\n                Republican Georgia Senate nominee Herschel Walker has second secret son: report\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/republican-georgia-senate-nominee-herschel-walker-has-second-secret-son-report/"
-    },
-    {
-      "text": "\n                Suspected shooter accused of killing 3 inside Torrance bowling alley deliberately fired at rivals, prosecutor says\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/suspected-shooter-accused-of-killing-3-inside-torrance-bowling-alley-deliberately-fired-at-rivals-prosecutor-says/"
-    },
-    {
-      "text": "\n                This $7.9M Newport Beach estate once belonged to Irvine Barclay Theatre namesake\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/this-7-9m-newport-beach-estate-once-belonged-to-irvine-barclay-theatre-namesake/"
+      "text": "\n                Angels\u2019 patchwork lineup does little in loss to Mariners\n            ",
+      "url": "https://www.ocregister.com/2022/06/17/angels-patchwork-lineup-does-little-in-loss-to-mariners/"
     },
     {
       "text": "\n\t\t\t\tCrime and Public Safety\n\t\t\t",
@@ -6682,55 +6898,55 @@
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/fireworks-explosion-at-belmont-shore-apartment-injures-4-firefighters/"
+      "url": "https://www.ocregister.com/2022/06/17/mother-of-slain-el-monte-police-officer-blames-gascon-policies/"
     },
     {
       "text": "\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/mother-of-slain-el-monte-police-officer-blames-gascon-policies/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMother of slain El Monte police officer blames Gasc\u00f3n policies\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/mother-of-slain-el-monte-police-officer-blames-gascon-policies/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/17/el-monte-police-receive-prayers-and-emotional-support/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tEl Monte police receive prayers and emotional support\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/el-monte-police-receive-prayers-and-emotional-support/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/17/piper-is-a-heroic-bloodhound-in-lapds-k-9-unit-and-this-week-she-solved-a-shooting/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPiper is a heroic bloodhound in LAPD\u2019s K-9 unit, and she caught a shooting suspect\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/piper-is-a-heroic-bloodhound-in-lapds-k-9-unit-and-this-week-she-solved-a-shooting/"
+    },
+    {
+      "text": "",
       "url": "https://www.ocregister.com/2022/06/17/fireworks-explosion-at-belmont-shore-apartment-injures-4-firefighters/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tFireworks explosion at Belmont Shore apartment injures 4 firefighters\t\t\n\n\t\t\t",
       "url": "https://www.ocregister.com/2022/06/17/fireworks-explosion-at-belmont-shore-apartment-injures-4-firefighters/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/2-el-monte-officers-were-fatally-shot-in-head-coroner-says/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t2 El Monte officers were fatally shot in head, coroner says\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/2-el-monte-officers-were-fatally-shot-in-head-coroner-says/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/hate-crime-charges-added-against-accused-laguna-woods-church-shooter/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHate crime charges added against accused Laguna Woods church shooter\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/hate-crime-charges-added-against-accused-laguna-woods-church-shooter/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/sign-on-gravel-truck-doesnt-trump-the-law/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSign on gravel truck doesn\u2019t trump the law\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/sign-on-gravel-truck-doesnt-trump-the-law/"
     },
     {
       "text": "\n\t\t\t\tLocal News\n\t\t\t",
@@ -6738,55 +6954,55 @@
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/corky-lifeguards-get-much-deserved-attention-on-the-silver-screen/"
+      "url": "https://www.ocregister.com/2022/06/18/poodle-terrier-mix-gabe-has-overcome-many-obstacles/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/corky-lifeguards-get-much-deserved-attention-on-the-silver-screen/"
+      "url": "https://www.ocregister.com/2022/06/18/poodle-terrier-mix-gabe-has-overcome-many-obstacles/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCorky: Lifeguards get much deserved attention on the silver screen\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/corky-lifeguards-get-much-deserved-attention-on-the-silver-screen/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-valencia-high-in-placentia/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe best graduation 2022 photos from Valencia High in Placentia\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-valencia-high-in-placentia/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPoodle-terrier mix Gabe has overcome many obstacles\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/poodle-terrier-mix-gabe-has-overcome-many-obstacles/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-esperanza-high/"
+      "url": "https://www.ocregister.com/2022/06/18/staffordshire-terrier-mix-blossom-has-brains-and-beauty/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe best graduation 2022 photos from Esperanza High\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-esperanza-high/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tStaffordshire terrier mix Blossom has brains and beauty\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/staffordshire-terrier-mix-blossom-has-brains-and-beauty/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-edison-high/"
+      "url": "https://www.ocregister.com/2022/06/18/roundhouse-aquarium-sandcastle-competition-returns/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe best graduation 2022 photos from Edison High\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/the-best-graduation-2022-photos-from-edison-high/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tRoundhouse Aquarium sandcastle competition returns\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/roundhouse-aquarium-sandcastle-competition-returns/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/18/photos-show-inside-of-cheech-marins-new-museum-in-riverside/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos show inside of Cheech Marin\u2019s new museum in Riverside\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/photos-show-inside-of-cheech-marins-new-museum-in-riverside/"
     },
     {
       "text": "\n\t\t\t\tThings To Do\n\t\t\t",
@@ -6794,15 +7010,39 @@
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/casino-insider-tom-segura-talks-about-how-his-new-book-ahead-of-his-spotlight-29-casino-performance/"
+      "url": "https://www.ocregister.com/2022/06/18/senior-moments-giving-myself-the-gift-of-good-memories-on-fathers-day/"
     },
     {
       "text": "\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/senior-moments-giving-myself-the-gift-of-good-memories-on-fathers-day/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSenior Moments: Giving myself the gift of good memories on Father\u2019s Day\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/senior-moments-giving-myself-the-gift-of-good-memories-on-fathers-day/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/17/the-book-pages-what-the-audiobook-boom-means-to-libro-fm/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tThe Book Pages: What the audiobook boom means to Libro.fm\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/the-book-pages-what-the-audiobook-boom-means-to-libro-fm/"
+    },
+    {
+      "text": "",
       "url": "https://www.ocregister.com/2022/06/17/casino-insider-tom-segura-talks-about-how-his-new-book-ahead-of-his-spotlight-29-casino-performance/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tCasino Insider: Tom Segura talks about how his new book ahead of his Spotlight 29 Casino performance\t\t\n\n\t\t\t",
@@ -6813,36 +7053,12 @@
       "url": "https://www.ocregister.com/2022/06/17/chipotle-tests-mexican-cauliflower-rice-in-orange-county/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tChipotle tests Mexican Cauliflower Rice in OC and Long Beach\t\t\n\n\t\t\t",
       "url": "https://www.ocregister.com/2022/06/17/chipotle-tests-mexican-cauliflower-rice-in-orange-county/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/geraniums-leaf-lettuce-and-sunflowers-what-to-plant-in-the-garden-this-week/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGeraniums, leaf lettuce and sunflowers: What to plant in the garden this week\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/geraniums-leaf-lettuce-and-sunflowers-what-to-plant-in-the-garden-this-week/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/nutrition-protein-is-important-but-do-we-really-need-so-much-of-it/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNutrition: Protein is important, but do we really need so much of it?\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/nutrition-protein-is-important-but-do-we-really-need-so-much-of-it/"
     },
     {
       "text": "Photos",
@@ -6857,8 +7073,8 @@
       "url": "https://www.ocregister.com/2022/06/07/orange-county-graduations-have-been-memorable-so-far-check-out-these-photos-find-your-school/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tThousands more Orange County seniors graduate, check out these photos from all the ceremonies\t\t\n\n\t\t\t",
@@ -6873,8 +7089,8 @@
       "url": "https://www.ocregister.com/2022/06/04/30-amazing-wildlife-images-photographed-at-irvine-regional-park/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t30 amazing wildlife images photographed at Irvine Regional Park\t\t\n\n\t\t\t",
@@ -6889,8 +7105,8 @@
       "url": "https://www.ocregister.com/2022/05/25/graduation-2022-oxford-academy-celebrates/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tGraduation 2022: Oxford Academy celebrates\t\t\n\n\t\t\t",
@@ -6905,8 +7121,8 @@
       "url": "https://www.ocregister.com/2022/05/25/graduation-2022-western-high-celebrates/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tGraduation 2022: Western High celebrates\t\t\n\n\t\t\t",
@@ -6921,8 +7137,8 @@
       "url": "https://www.ocregister.com/2022/05/25/graduation-2022-tustin-high-celebrates-100th-year/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tGraduation 2022: Tustin High celebrates 100th year\t\t\n\n\t\t\t",
@@ -6937,8 +7153,8 @@
       "url": "https://www.ocregister.com/2022/05/24/graduation-2022-photos-celebrating-bright-futures-at-cal-state-fullerton/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tGraduation 2022 Photos: Celebrating bright futures at Cal State Fullerton\t\t\n\n\t\t\t",
@@ -6953,8 +7169,8 @@
       "url": "https://www.ocregister.com/2022/05/19/big-top-fun-with-circus-vargas-visit-to-laguna-hills/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tBig top fun with Circus Vargas visit to Laguna Hills\t\t\n\n\t\t\t",
@@ -6969,8 +7185,8 @@
       "url": "https://www.ocregister.com/2022/05/04/anaheim-parks-new-basketball-court-honors-kobe-and-gianna-bryant/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tAnaheim park\u2019s new basketball court honors Kobe and Gianna Bryant\t\t\n\n\t\t\t",
@@ -6985,8 +7201,8 @@
       "url": "https://www.ocregister.com/2022/05/03/stagecoach-2022-our-50-best-images-from-this-past-weekend/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tStagecoach 2022: Our 50 best images from this past weekend\t\t\n\n\t\t\t",
@@ -7001,8 +7217,8 @@
       "url": "https://www.ocregister.com/2022/05/03/video-check-out-our-oc-photographers-favorite-images-from-april-2022/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tVIDEO: Check out our OC photographers\u2019 favorite images from April 2022\t\t\n\n\t\t\t",
@@ -7017,8 +7233,8 @@
       "url": "https://www.ocregister.com/2022/04/28/la-riots-30th-anniversary-photos/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tLA Riots: 30th Anniversary photos\t\t\n\n\t\t\t",
@@ -7033,8 +7249,8 @@
       "url": "https://www.ocregister.com/2022/04/25/cruising-around-celebrity-homes-in-newport-harbor/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tCruising around celebrity homes in Newport Harbor\t\t\n\n\t\t\t",
@@ -7046,55 +7262,55 @@
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/mike-trout-hits-2-home-runs-shohei-ohtani-shines-on-mound-in-angels-win/"
+      "url": "https://www.ocregister.com/2022/06/18/angels-question-the-condition-of-the-baseballs-in-seattle/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/mike-trout-hits-2-home-runs-shohei-ohtani-shines-on-mound-in-angels-win/"
+      "url": "https://www.ocregister.com/2022/06/18/angels-question-the-condition-of-the-baseballs-in-seattle/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMike Trout hits 2 home runs, Shohei Ohtani shines on mound in Angels\u2019 win\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/mike-trout-hits-2-home-runs-shohei-ohtani-shines-on-mound-in-angels-win/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/angels-interim-manager-phil-nevin-satisfied-that-players-are-handling-frustration-the-right-way/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAngels interim manager Phil Nevin satisfied that players are handling frustration the right way\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/angels-interim-manager-phil-nevin-satisfied-that-players-are-handling-frustration-the-right-way/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAngels question the condition of the baseballs in Seattle\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/angels-question-the-condition-of-the-baseballs-in-seattle/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/sofi-stadium-among-2026-world-cup-host-venues/"
+      "url": "https://www.ocregister.com/2022/06/17/clayton-kershaw-makes-strong-return-dodgers-lose-in-extra-innings/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSoFi Stadium among 2026 World Cup host venues\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/sofi-stadium-among-2026-world-cup-host-venues/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tDodgers flop in the clutch, lose to Guardians in extra innings\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/clayton-kershaw-makes-strong-return-dodgers-lose-in-extra-innings/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/nba-finals-warriors-beat-celtics-in-game-6-for-4th-title-in-8-years/"
+      "url": "https://www.ocregister.com/2022/06/17/alexander-the-lakers-have-some-work-to-do/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSteph Curry, Warriors finish off Celtics for 4th NBA title in 8 years\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/nba-finals-warriors-beat-celtics-in-game-6-for-4th-title-in-8-years/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAlexander: The Lakers have some work to do\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/alexander-the-lakers-have-some-work-to-do/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/17/dodgers-pitcher-andrew-heaneys-business-trip-home-is-over/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tDodgers pitcher Andrew Heaney\u2019s \u2018business trip\u2019 home is over\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/dodgers-pitcher-andrew-heaneys-business-trip-home-is-over/"
     },
     {
       "text": "\n\t\t\t\t2022 Elections\n\t\t\t",
@@ -7109,8 +7325,8 @@
       "url": "https://www.ocregister.com/2022/06/15/elections-trump-pick-wins-senate-primary-in-nevada-plus-texas-south-carolina-results/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tElections: Trump pick wins Senate primary in Nevada; plus Texas, South Carolina results\t\t\n\n\t\t\t",
@@ -7121,8 +7337,8 @@
       "url": "https://www.ocregister.com/2022/06/13/race-tightens-in-bid-for-runoff-against-schools-chief-thurmond/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tGap widens in bid for runoff against schools chief Thurmond\t\t\n\n\t\t\t",
@@ -7133,8 +7349,8 @@
       "url": "https://www.ocregister.com/2022/06/13/sarah-palin-takes-lead-in-race-for-alaskas-house-seat/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tSarah Palin takes lead in race for Alaska\u2019s House seat\t\t\n\n\t\t\t",
@@ -7145,8 +7361,8 @@
       "url": "https://www.ocregister.com/2022/06/13/2022-elections-race-tightens-up-for-slot-in-state-schools-chief-runoff/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t2022 elections: Race tightens up for slot in state schools chief runoff\t\t\n\n\t\t\t",
@@ -7165,8 +7381,8 @@
       "url": "https://www.ocregister.com/2022/05/29/nominations-open-for-orange-countys-2022-top-workplaces/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tNominations open for Orange County\u2019s 2022 Top Workplaces\t\t\n\n\t\t\t",
@@ -7174,39 +7390,39 @@
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/robots-will-answer-your-tax-questions-in-irs-wait-time-call-fix/"
+      "url": "https://www.ocregister.com/2022/06/17/mobile-carriers-agree-to-delay-5g-rollout-near-airports/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGot IRS questions? \u2018Voice\u2019 robots will answer your tax calls in wait-time fix\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/robots-will-answer-your-tax-questions-in-irs-wait-time-call-fix/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/paid-leave-child-care-top-wish-list-for-working-women/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPaid leave, child care top wish list for working women\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/paid-leave-child-care-top-wish-list-for-working-women/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMobile carriers agree to delay 5G rollout near airports\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/mobile-carriers-agree-to-delay-5g-rollout-near-airports/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/hoa-homefront-does-your-community-have-a-policy-for-solar-installations/"
+      "url": "https://www.ocregister.com/2022/06/17/california-bill-would-cut-single-use-plastic-25/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHOA Homefront: Does your community have a policy for solar installations?\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/hoa-homefront-does-your-community-have-a-policy-for-solar-installations/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia bill would cut single-use plastic 25%\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/california-bill-would-cut-single-use-plastic-25/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/17/cruise-ships-adding-sports-betting-options-for-passengers/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSports betting coming to Carnival, Holland America and Princess cruise ships\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/cruise-ships-adding-sports-betting-options-for-passengers/"
     },
     {
       "text": "\n\t\t\t\tOpinion\n\t\t\t",
@@ -7214,55 +7430,55 @@
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/it-is-time-to-end-the-failed-war-on-drugs/"
+      "url": "https://www.ocregister.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/it-is-time-to-end-the-failed-war-on-drugs/"
+      "url": "https://www.ocregister.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tIt is time to end the failed War on Drugs\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/it-is-time-to-end-the-failed-war-on-drugs/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/its-hard-to-take-trumps-clown-coup-seriously/"
-    },
-    {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tIt\u2019s hard to take Trump\u2019s clown coup seriously\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/its-hard-to-take-trumps-clown-coup-seriously/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWhy Democrats are terrified of Donald Trump\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/wrong-approach-to-social-media/"
+      "url": "https://www.ocregister.com/2022/06/18/californias-water-supply-goes-beyond-the-current-drought/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s social media bill will do little to protect children online\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/wrong-approach-to-social-media/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s water supply goes beyond the current drought\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/californias-water-supply-goes-beyond-the-current-drought/"
     },
     {
       "text": "",
-      "url": "https://www.ocregister.com/2022/06/16/voting-in-the-u-s-letters/"
+      "url": "https://www.ocregister.com/2022/06/18/red-flag-laws-require-a-tricky-balance-due-process-rights-are-critical/"
     },
     {
-      "text": "Los Angeles Football Club | ",
-      "url": "https://www.ocregister.com/sports/soccer/los-angeles-football-club/"
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tVoting in the U.S.: Letters\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/16/voting-in-the-u-s-letters/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Red flag\u2019 laws require a tricky balance. Due process rights are critical.\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/18/red-flag-laws-require-a-tricky-balance-due-process-rights-are-critical/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ocregister.com/2022/06/17/edgier-group-grabs-control-of-libertarians/"
+    },
+    {
+      "text": "Los Angeles Angels | ",
+      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tEdgier group grabs control of Libertarians\t\t\n\n\t\t\t",
+      "url": "https://www.ocregister.com/2022/06/17/edgier-group-grabs-control-of-libertarians/"
     },
     {
       "text": "Another Florida homeowners insurance company goes under",
@@ -7481,10 +7697,10 @@
       "url": "https://www.ocregister.com/faqlogin/?returnUrl=https%3A%2F%2Fwww.ocregister.com%2F%3FclearUserState%3Dtrue"
     }
   ],
-  "server": "ia902502.us.archive.org",
-  "uniq": 83632301,
+  "server": "ia802502.us.archive.org",
+  "uniq": 2101597048,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }

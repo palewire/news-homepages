@@ -1,5 +1,5 @@
 {
-  "created": 1655499857,
+  "created": 1655597941,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/22/items/kcautv-2022",
@@ -2822,31 +2822,273 @@
       "format": "JSON"
     },
     {
+      "name": "kcautv-2022-06-17T22:24:51.272989-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655522698",
+      "size": "42457",
+      "md5": "f39aff0a4c494a42134b5bdefb924b44",
+      "crc32": "5d5862bd",
+      "sha1": "804d66a2c1c1552a05e5d48383ebeea73482dece",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-17T22:24:51.272989-05:00.jpg",
+      "source": "original",
+      "mtime": "1655522696",
+      "size": "314896",
+      "md5": "ccfd146042ff14bf944f0bcf0d8a683a",
+      "crc32": "98a64161",
+      "sha1": "08834009fb7bdc25f15cd517db31282735558868",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcautv-2022-06-17T22:24:51.272989-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcautv-2022-06-17T22:24:51.272989-05:00.jpg",
+      "mtime": "1655522753",
+      "size": "11043",
+      "md5": "6bb4d70df2ef90c8afc13f8f2d268fdb",
+      "crc32": "76763c36",
+      "sha1": "9454c4e77367da28af87fcff3b72719654fe4bab"
+    },
+    {
+      "name": "kcautv-2022-06-18T00:04:21.490293-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655528672",
+      "size": "42684",
+      "md5": "8cd0fea1ec9f85a7b852e9e9b332a0cc",
+      "crc32": "b44e222e",
+      "sha1": "c2542ad2443713eb6a84b83d7c2fe455f4997b4a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T00:04:21.490293-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655528673",
+      "size": "88408",
+      "md5": "3248cc74deca060e39c33156919b4293",
+      "crc32": "fb3b76a3",
+      "sha1": "59987221bac0f6251f00f4093632403a096af695",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T00:04:21.490293-05:00.jpg",
+      "source": "original",
+      "mtime": "1655528668",
+      "size": "321478",
+      "md5": "75e36d6dbce9388b98067fc554542430",
+      "crc32": "8b043131",
+      "sha1": "f78e21652ea6d41a204a6776e58d8ffac920b501",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcautv-2022-06-18T00:04:21.490293-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcautv-2022-06-18T00:04:21.490293-05:00.jpg",
+      "mtime": "1655528745",
+      "size": "11074",
+      "md5": "3483aa0fe476ab8b9b2acec1a49f8d25",
+      "crc32": "54cb387e",
+      "sha1": "afec254213f449f221c4344b6994d41a442e2fc5"
+    },
+    {
+      "name": "kcautv-2022-06-18T04:03:03.474384-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655542990",
+      "size": "42485",
+      "md5": "3e5ec8f7956ebcb185d3f9da2092f444",
+      "crc32": "43153c72",
+      "sha1": "7ce6796cf93e045a65c14a4b8810a3061bdcfab0",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T04:03:03.474384-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655542991",
+      "size": "88525",
+      "md5": "4a4ca29bcdd175ca666702d2f337962e",
+      "crc32": "a815c46d",
+      "sha1": "7d81818a50a47e811cec5d5bd9064d6bc1e99e84",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T04:03:03.474384-05:00.jpg",
+      "source": "original",
+      "mtime": "1655542988",
+      "size": "322965",
+      "md5": "98a2576beedd0ef2f7b276d88e37dad6",
+      "crc32": "9c4ce9a3",
+      "sha1": "b433288d53624a0f035cef59a6f819e814229e84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcautv-2022-06-18T04:03:03.474384-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcautv-2022-06-18T04:03:03.474384-05:00.jpg",
+      "mtime": "1655543066",
+      "size": "11091",
+      "md5": "ddf6f9ff9f67a2a66d69159d264f6d24",
+      "crc32": "3f16c751",
+      "sha1": "eaf55bd89c0fbc78f79d2b842f1ac3f98347f8f7"
+    },
+    {
+      "name": "kcautv-2022-06-18T08:08:53.601317-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655557741",
+      "size": "42333",
+      "md5": "32c69e1a8b543d2beaa83d61c5e4e61a",
+      "crc32": "18f9d892",
+      "sha1": "e48b3fb144cea7e5403e911b75f12d732d5727cb",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T08:08:53.601317-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655557744",
+      "size": "88283",
+      "md5": "23f592149e78d3f8ae8329172fbec793",
+      "crc32": "3c412c6d",
+      "sha1": "83534f613230df2390785dd5831cb8e4afe9e18d",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T08:08:53.601317-05:00.jpg",
+      "source": "original",
+      "mtime": "1655557739",
+      "size": "318758",
+      "md5": "04ce8623984db8d434c8cec44f9f82c2",
+      "crc32": "b15ab553",
+      "sha1": "8ebe7e14fb7bedde0a9928671b1098400870166d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcautv-2022-06-18T08:08:53.601317-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcautv-2022-06-18T08:08:53.601317-05:00.jpg",
+      "mtime": "1655557793",
+      "size": "11102",
+      "md5": "257ac35274a63321fe78af640efb9f61",
+      "crc32": "a7ddbe56",
+      "sha1": "95d9bebadca89898a132bc2ab360ac492e49209c"
+    },
+    {
+      "name": "kcautv-2022-06-18T12:08:44.830821-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655572135",
+      "size": "42461",
+      "md5": "5f6824daba8885de767396f706ee0c9c",
+      "crc32": "f1559c39",
+      "sha1": "63cef58cf9c03d7f62811d057e301b5204f79411",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T12:08:44.830821-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655572136",
+      "size": "88451",
+      "md5": "b108228d6516c59f50867e3893498171",
+      "crc32": "48565644",
+      "sha1": "403bd8c62c275b2a99d59f8ae8d84b63b35a91cd",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T12:08:44.830821-05:00.jpg",
+      "source": "original",
+      "mtime": "1655572133",
+      "size": "321189",
+      "md5": "a2b71183c1769a0da3f87409f2356d0f",
+      "crc32": "308ed36c",
+      "sha1": "1b9d95b0b647a3ce3c1f426c4e040f5783bf24fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcautv-2022-06-18T12:08:44.830821-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcautv-2022-06-18T12:08:44.830821-05:00.jpg",
+      "mtime": "1655572297",
+      "size": "11102",
+      "md5": "bfbd7abbbcd1c1e7503bad24bb4b71d3",
+      "crc32": "4723db9c",
+      "sha1": "3351909ab26c85e5cbd9f564177dd1803f7decd8"
+    },
+    {
+      "name": "kcautv-2022-06-18T16:01:26.610899-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655586092",
+      "size": "42353",
+      "md5": "d01e3ae06df34990605d0d4b1129e332",
+      "crc32": "e3ad2f04",
+      "sha1": "d728b532e5931e507474dd9d070f5ae600063b9d",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T16:01:26.610899-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655586095",
+      "size": "88352",
+      "md5": "4ea95feabebc0759bc6d2fec78598097",
+      "crc32": "2c96a52d",
+      "sha1": "501f2d88e462e52ae5d1edd37ff9b1a12425befc",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-06-18T16:01:26.610899-05:00.jpg",
+      "source": "original",
+      "mtime": "1655586090",
+      "size": "305213",
+      "md5": "c7f70e23a7c05ac72ec00c28c749ba46",
+      "crc32": "92c77a5b",
+      "sha1": "055c05d19bcc37637f002377d0a93dbe2e577764",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcautv-2022-06-18T16:01:26.610899-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcautv-2022-06-18T16:01:26.610899-05:00.jpg",
+      "mtime": "1655586215",
+      "size": "11131",
+      "md5": "296cb5dc3f6651bf82a0da3462eb2861",
+      "crc32": "ea033532",
+      "sha1": "47601c6a2101c3379175c98860f15c6d94a91302"
+    },
+    {
       "name": "kcautv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "62bddb848d17d2aac24584cf447d3cea7b4f7072",
-      "mtime": "1655499745",
-      "size": "57613",
-      "md5": "71ccc23c4e85a334f8caaedc38acb7fe",
-      "crc32": "42a3f95e",
-      "sha1": "20ac3bd3795ca7180d5764f7fe7800da6b6e19a5",
+      "btih": "afec583775ad1c9f213c566d2b3d90e3ead0e41e",
+      "mtime": "1655586222",
+      "size": "62436",
+      "md5": "72f466f52cf3edbd7f36f861bd44875b",
+      "crc32": "5b875760",
+      "sha1": "23f4aa5d4185bb100e31c9d750ae6c0d7d25aa6f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcautv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98c67b193f82c0f8fbab4fda9203a522",
+      "md5": "f198ed16b4d1d0c4801a15c734196117",
       "summation": "md5"
     },
     {
       "name": "kcautv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655499709",
-      "size": "323584",
-      "md5": "f0b711114b12837ffcccc8ad5b2d54de",
-      "crc32": "36c2276d",
-      "sha1": "c1427a63d555d30b61474149f7ade8168a4c9ffb",
+      "mtime": "1655586128",
+      "size": "348160",
+      "md5": "ab5e8b82d8fd0b4525b13696db035b41",
+      "crc32": "11995b05",
+      "sha1": "6460b62542797916730227656180adfaffd74119",
       "format": "Metadata"
     },
     {
@@ -2860,9 +3102,2347 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 272,
-  "item_last_updated": 1655499745,
-  "item_size": 30600808,
+  "files_count": 295,
+  "item_last_updated": 1655586222,
+  "item_size": 33298041,
+  "kcautv-2022": [
+    {
+      "text": "Skip to content",
+      "url": "#content"
+    },
+    {
+      "text": "SiouxlandProud | Sioux City, IA | News, Weather, and Sports",
+      "url": "https://www.siouxlandproud.com/"
+    },
+    {
+      "text": "\n\t\t\t7 Day Forecast\n\t\t\t\n\t\t\t\t95\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+      "url": "https://www.siouxlandproud.com/weather/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/"
+    },
+    {
+      "text": "\n\t\t\t7 Day Forecast\n\t\t\t\n\t\t\t\t95\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+      "url": "https://www.siouxlandproud.com/weather/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.siouxlandproud.com/news/local-news/"
+    },
+    {
+      "text": "Saturday in the Park",
+      "url": "https://www.siouxlandproud.com/news/saturday-in-the-park/"
+    },
+    {
+      "text": "Russia and Ukraine Conflict",
+      "url": "https://www.newsnationnow.com/world/ukraine-crisis/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/"
+    },
+    {
+      "text": "Featured Content",
+      "url": "https://www.siouxlandproud.com/featured-content/"
+    },
+    {
+      "text": "Siouxland Stories",
+      "url": "https://www.siouxlandproud.com/news/siouxland-stories/"
+    },
+    {
+      "text": "\u201cDishing\u201d Siouxland",
+      "url": "https://www.siouxlandproud.com/news/dishing-siouxland/"
+    },
+    {
+      "text": "Ag News",
+      "url": "https://www.siouxlandproud.com/news/agriculture/"
+    },
+    {
+      "text": "National News",
+      "url": "https://www.siouxlandproud.com/news/national-news/"
+    },
+    {
+      "text": "Washington DC Bureau",
+      "url": "https://www.siouxlandproud.com/washington/washington-dc/"
+    },
+    {
+      "text": "Your Local Election HQ",
+      "url": "https://www.siouxlandproud.com/news/your-local-election-hq/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.siouxlandproud.com/news/politics/"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.siouxlandproud.com/news/health/"
+    },
+    {
+      "text": "Border Report",
+      "url": "https://borderreport.com"
+    },
+    {
+      "text": "BestReviews",
+      "url": "https://www.siouxlandproud.com/reviews/br/"
+    },
+    {
+      "text": "BestReviews Daily Deals",
+      "url": "https://products.bestreviews.com/best-deals/"
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://www.siouxlandproud.com/business/press-releases/"
+    },
+    {
+      "text": "Automotive News",
+      "url": "/automotive"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/murph-the-nerf-mascot-is-dividing-opinion-on-social-media-new-eldritch-horror/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tMurph the Nerf mascot is dividing opinion on social\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/murph-the-nerf-mascot-is-dividing-opinion-on-social-media-new-eldritch-horror/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/murph-the-nerf-mascot-is-dividing-opinion-on-social-media-new-eldritch-horror/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/san-diego-zoo-welcomes-1st-aardvark-birth-in-years/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSan Diego Zoo welcomes 1st aardvark birth in years\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/san-diego-zoo-welcomes-1st-aardvark-birth-in-years/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/san-diego-zoo-welcomes-1st-aardvark-birth-in-years/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tYellowstone flooding rebuild could take years, cost\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/school-cant-fly-blm-lgbtq-flags-and-be-catholic-ma-bishop-says/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSchool can\u2019t fly BLM, LGBTQ+ flags and be Catholic,\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/school-cant-fly-blm-lgbtq-flags-and-be-catholic-ma-bishop-says/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/school-cant-fly-blm-lgbtq-flags-and-be-catholic-ma-bishop-says/"
+    },
+    {
+      "text": "Weather",
+      "url": "https://www.siouxlandproud.com/weather/"
+    },
+    {
+      "text": "Sioux City Weather Radar",
+      "url": "https://www.siouxlandproud.com/interactive-radar/"
+    },
+    {
+      "text": "Pronostico del Clima",
+      "url": "https://www.siouxlandproud.com/weather/pronostico-del-clima/"
+    },
+    {
+      "text": "Weather News",
+      "url": "https://www.siouxlandproud.com/weather/weather-news/"
+    },
+    {
+      "text": "Road Conditions",
+      "url": "https://www.siouxlandproud.com/weather/road-conditions/"
+    },
+    {
+      "text": "Guest Weather",
+      "url": "https://www.siouxlandproud.com/weather/guest-weather/"
+    },
+    {
+      "text": "Send Us Your Photos",
+      "url": "https://www.siouxlandproud.com/kcau-9-weather-photo/"
+    },
+    {
+      "text": "Closings",
+      "url": "https://www.siouxlandproud.com/weather/closings/"
+    },
+    {
+      "text": "Closings Login",
+      "url": "https://www.siouxlandproud.com/closings-and-delays/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-17th-pm-start-to-the-warm-holiday-weekend/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tJune 17th PM: Start to the warm holiday weekend\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-17th-pm-start-to-the-warm-holiday-weekend/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-17th-pm-start-to-the-warm-holiday-weekend/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/weather/weather-forecasts/june-17th-am-excessive-heat-watch-for-fathers-day-weekend/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tJune 17th AM: Excessive Heat Watch for Father\u2019s Day\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/weather-forecasts/june-17th-am-excessive-heat-watch-for-fathers-day-weekend/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/weather-forecasts/june-17th-am-excessive-heat-watch-for-fathers-day-weekend/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-16th-am-starting-to-get-warmer-again/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tJune 16th AM: Starting to get warmer again\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-16th-am-starting-to-get-warmer-again/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-16th-am-starting-to-get-warmer-again/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-15th-am-morning-showers-with-a-clearer-afternoon/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tJune 15th AM: Morning showers with a clearer afternoon\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-15th-am-morning-showers-with-a-clearer-afternoon/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-15th-am-morning-showers-with-a-clearer-afternoon/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-14th-am-slightly-cooler-hot-one-in-siouxland/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tJune 14th AM: slightly cooler hot one in Siouxland\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-14th-am-slightly-cooler-hot-one-in-siouxland/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/weather/june-14th-am-slightly-cooler-hot-one-in-siouxland/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/heat-advisory-in-effect-for-most-of-siouxland/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tHeat advisory in effect for most of Siouxland\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/heat-advisory-in-effect-for-most-of-siouxland/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/heat-advisory-in-effect-for-most-of-siouxland/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "Local Sports",
+      "url": "https://www.siouxlandproud.com/sports/local-sports/"
+    },
+    {
+      "text": "High School Sports",
+      "url": "https://www.siouxlandproud.com/sports/high-school-sports/"
+    },
+    {
+      "text": "College Sports",
+      "url": "https://www.siouxlandproud.com/sports/college-sports/"
+    },
+    {
+      "text": "Sports Spotlight",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/"
+    },
+    {
+      "text": "Hawkeye Headquarters",
+      "url": "https://www.siouxlandproud.com/sports/hawkeye-headquarters/"
+    },
+    {
+      "text": "Indy 500",
+      "url": "https://www.siouxlandproud.com/sports/indy-500/"
+    },
+    {
+      "text": "NFL Draft",
+      "url": "https://www.siouxlandproud.com/nfl/nfl-draft/"
+    },
+    {
+      "text": "Camera Network",
+      "url": "https://www.siouxlandproud.com/camera-network/"
+    },
+    {
+      "text": "Downtown Camera",
+      "url": "https://www.siouxlandproud.com/downtown-camera/"
+    },
+    {
+      "text": "Studio Camera",
+      "url": "https://www.siouxlandproud.com/studio-camera/"
+    },
+    {
+      "text": "Wayne Camera",
+      "url": "https://www.siouxlandproud.com/wayne-camera/"
+    },
+    {
+      "text": "Cherokee Camera",
+      "url": "https://www.siouxlandproud.com/cherokee-camera/"
+    },
+    {
+      "text": "Watch",
+      "url": "/video"
+    },
+    {
+      "text": "Newscasts",
+      "url": "https://www.siouxlandproud.com/newscasts/"
+    },
+    {
+      "text": "Digital Town Hall",
+      "url": "https://www.siouxlandproud.com/digital-town-hall/"
+    },
+    {
+      "text": "Good Day Pets",
+      "url": "https://www.siouxlandproud.com/news/good-day-pets/"
+    },
+    {
+      "text": "Enter Your Pet Picture",
+      "url": "https://www.siouxlandproud.com/good-day-pets-entry/"
+    },
+    {
+      "text": "News Nation",
+      "url": "https://wgnamerica.com/newsnation-update/"
+    },
+    {
+      "text": "The Insiders with Dave Price",
+      "url": "https://www.siouxlandproud.com/news/the-insiders-with-dave-price/"
+    },
+    {
+      "text": "Contests",
+      "url": "https://www.siouxlandproud.com/contests/"
+    },
+    {
+      "text": "The Ultimate Baseball Quiz!",
+      "url": "https://www.siouxlandproud.com/contests/the-ultimate-baseball-quiz-brought-to-you-by-your-sioux-city-explorers/"
+    },
+    {
+      "text": "a Dad a Day",
+      "url": "https://www.siouxlandproud.com/contests/a-dad-a-day/#//"
+    },
+    {
+      "text": "BBQ Forecast",
+      "url": "https://www.siouxlandproud.com/contests/kcau-9-bbq-forecast/#//"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.siouxcityjobs.com/"
+    },
+    {
+      "text": "Nexstar Careers",
+      "url": "https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar"
+    },
+    {
+      "text": "Sioux City Jobs",
+      "url": "https://www.siouxcityjobs.com/"
+    },
+    {
+      "text": "Community",
+      "url": "https://www.siouxlandproud.com/community/"
+    },
+    {
+      "text": "SiouxlandProud.com",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "Stray of the Day",
+      "url": "https://www.siouxlandproud.com/community/stray-of-the-day/"
+    },
+    {
+      "text": "Best of the Class",
+      "url": "https://www.siouxlandproud.com/best-of-the-class/"
+    },
+    {
+      "text": "Newsletter Sign-up",
+      "url": "http://nxslink.siouxlandproud.com/join/6sd/signup"
+    },
+    {
+      "text": "Calendar of Events",
+      "url": "https://www.siouxlandproud.com/calendar/"
+    },
+    {
+      "text": "Mr. Food",
+      "url": "https://www.siouxlandproud.com/mr-food/"
+    },
+    {
+      "text": "Recipe.TV",
+      "url": "https://www.siouxlandproud.com/recipe-tv/"
+    },
+    {
+      "text": "Melinda\u2019s Garden Moment",
+      "url": "https://www.siouxlandproud.com/melindas-garden-moment/"
+    },
+    {
+      "text": "Cooking with Fareway",
+      "url": "https://www.siouxlandproud.com/community/fareway-recipes/"
+    },
+    {
+      "text": "Local Events",
+      "url": "https://www.siouxlandproud.com/community/local-events/"
+    },
+    {
+      "text": "Lottery",
+      "url": "https://www.siouxlandproud.com/lottery-2/"
+    },
+    {
+      "text": "Horoscopes",
+      "url": "https://www.siouxlandproud.com/horoscopes-2/"
+    },
+    {
+      "text": "Virtual Home Show",
+      "url": "https://www.siouxlandproud.com/virtual-home-show/"
+    },
+    {
+      "text": "Sun Safety",
+      "url": "https://www.siouxlandproud.com/sun-safety/"
+    },
+    {
+      "text": "Simply Siouxland",
+      "url": "https://www.siouxlandproud.com/community/simply-siouxland/"
+    },
+    {
+      "text": "Businesses in the News",
+      "url": "https://www.siouxlandproud.com/community/businesses-in-the-news/"
+    },
+    {
+      "text": "Veterans Voices",
+      "url": "https://www.siouxlandproud.com/community/veterans-voices/"
+    },
+    {
+      "text": "Stuff the Stroller",
+      "url": "https://www.siouxlandproud.com/stuff-the-stroller/"
+    },
+    {
+      "text": "Pet of the Week",
+      "url": "https://www.siouxlandproud.com/community/pet-of-the-week/"
+    },
+    {
+      "text": "Akron-Westfield Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Akron-Westfield-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "Alta-Aurelia Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Alta-Aurelia-Graduates-2022/"
+    },
+    {
+      "text": "Cherokee Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Cherokee-Graduation-Salutes/rounds/1/gallery"
+    },
+    {
+      "text": "Gehlen Catholic Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Gehlen-Catholic-Graduation-Salutes/rounds/1/gallery"
+    },
+    {
+      "text": "Le Mars Community Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Le-Mars-Community-Graduation-Salutes/"
+    },
+    {
+      "text": "MMCRU Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/MMCRU-Graduation-Saluts/rounds/1/gallery"
+    },
+    {
+      "text": "MVAOCOU Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/MVAOCOU-Graduation-Salutes/"
+    },
+    {
+      "text": "OABCIG Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/OABCIG-Graduation-Salutes/rounds/1/gallery"
+    },
+    {
+      "text": "Remsen St. Mary\u2019s Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Remsen-St-Marys-Graduates-2022/"
+    },
+    {
+      "text": "Ridgeview Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Ridgeview-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "Sheldon Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Sheldon-Graduation-Salutes-2022/"
+    },
+    {
+      "text": "South O\u2019Brien Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/South-OBrien-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "Storm Lake Community Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Storm-Lake-Community-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "Storm Lake St. Mary\u2019s Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Storm-Lake-St-Marys-Graduates-2022/"
+    },
+    {
+      "text": "West Sioux Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/West-Sioux-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "News",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.siouxlandproud.com/news/local-news/"
+    },
+    {
+      "text": "Saturday in the Park",
+      "url": "https://www.siouxlandproud.com/news/saturday-in-the-park/"
+    },
+    {
+      "text": "Russia and Ukraine Conflict",
+      "url": "https://www.newsnationnow.com/world/ukraine-crisis/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/"
+    },
+    {
+      "text": "Featured Content",
+      "url": "https://www.siouxlandproud.com/featured-content/"
+    },
+    {
+      "text": "Siouxland Stories",
+      "url": "https://www.siouxlandproud.com/news/siouxland-stories/"
+    },
+    {
+      "text": "\u201cDishing\u201d Siouxland",
+      "url": "https://www.siouxlandproud.com/news/dishing-siouxland/"
+    },
+    {
+      "text": "Ag News",
+      "url": "https://www.siouxlandproud.com/news/agriculture/"
+    },
+    {
+      "text": "National News",
+      "url": "https://www.siouxlandproud.com/news/national-news/"
+    },
+    {
+      "text": "Washington DC Bureau",
+      "url": "https://www.siouxlandproud.com/washington/washington-dc/"
+    },
+    {
+      "text": "Your Local Election HQ",
+      "url": "https://www.siouxlandproud.com/news/your-local-election-hq/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.siouxlandproud.com/news/politics/"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.siouxlandproud.com/news/health/"
+    },
+    {
+      "text": "Border Report",
+      "url": "https://borderreport.com"
+    },
+    {
+      "text": "BestReviews",
+      "url": "https://www.siouxlandproud.com/reviews/br/"
+    },
+    {
+      "text": "BestReviews Daily Deals",
+      "url": "https://products.bestreviews.com/best-deals/"
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://www.siouxlandproud.com/business/press-releases/"
+    },
+    {
+      "text": "Automotive News",
+      "url": "/automotive"
+    },
+    {
+      "text": "Weather",
+      "url": "https://www.siouxlandproud.com/weather/"
+    },
+    {
+      "text": "Sioux City Weather Radar",
+      "url": "https://www.siouxlandproud.com/interactive-radar/"
+    },
+    {
+      "text": "Pronostico del Clima",
+      "url": "https://www.siouxlandproud.com/weather/pronostico-del-clima/"
+    },
+    {
+      "text": "Weather News",
+      "url": "https://www.siouxlandproud.com/weather/weather-news/"
+    },
+    {
+      "text": "Road Conditions",
+      "url": "https://www.siouxlandproud.com/weather/road-conditions/"
+    },
+    {
+      "text": "Guest Weather",
+      "url": "https://www.siouxlandproud.com/weather/guest-weather/"
+    },
+    {
+      "text": "Send Us Your Photos",
+      "url": "https://www.siouxlandproud.com/kcau-9-weather-photo/"
+    },
+    {
+      "text": "Closings",
+      "url": "https://www.siouxlandproud.com/weather/closings/"
+    },
+    {
+      "text": "Closings Login",
+      "url": "https://www.siouxlandproud.com/closings-and-delays/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "Local Sports",
+      "url": "https://www.siouxlandproud.com/sports/local-sports/"
+    },
+    {
+      "text": "High School Sports",
+      "url": "https://www.siouxlandproud.com/sports/high-school-sports/"
+    },
+    {
+      "text": "College Sports",
+      "url": "https://www.siouxlandproud.com/sports/college-sports/"
+    },
+    {
+      "text": "Sports Spotlight",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/"
+    },
+    {
+      "text": "Hawkeye Headquarters",
+      "url": "https://www.siouxlandproud.com/sports/hawkeye-headquarters/"
+    },
+    {
+      "text": "Indy 500",
+      "url": "https://www.siouxlandproud.com/sports/indy-500/"
+    },
+    {
+      "text": "NFL Draft",
+      "url": "https://www.siouxlandproud.com/nfl/nfl-draft/"
+    },
+    {
+      "text": "Camera Network",
+      "url": "https://www.siouxlandproud.com/camera-network/"
+    },
+    {
+      "text": "Downtown Camera",
+      "url": "https://www.siouxlandproud.com/downtown-camera/"
+    },
+    {
+      "text": "Studio Camera",
+      "url": "https://www.siouxlandproud.com/studio-camera/"
+    },
+    {
+      "text": "Wayne Camera",
+      "url": "https://www.siouxlandproud.com/wayne-camera/"
+    },
+    {
+      "text": "Cherokee Camera",
+      "url": "https://www.siouxlandproud.com/cherokee-camera/"
+    },
+    {
+      "text": "Watch",
+      "url": "/video"
+    },
+    {
+      "text": "Newscasts",
+      "url": "https://www.siouxlandproud.com/newscasts/"
+    },
+    {
+      "text": "Digital Town Hall",
+      "url": "https://www.siouxlandproud.com/digital-town-hall/"
+    },
+    {
+      "text": "Good Day Pets",
+      "url": "https://www.siouxlandproud.com/news/good-day-pets/"
+    },
+    {
+      "text": "Enter Your Pet Picture",
+      "url": "https://www.siouxlandproud.com/good-day-pets-entry/"
+    },
+    {
+      "text": "News Nation",
+      "url": "https://wgnamerica.com/newsnation-update/"
+    },
+    {
+      "text": "The Insiders with Dave Price",
+      "url": "https://www.siouxlandproud.com/news/the-insiders-with-dave-price/"
+    },
+    {
+      "text": "Contests",
+      "url": "https://www.siouxlandproud.com/contests/"
+    },
+    {
+      "text": "The Ultimate Baseball Quiz!",
+      "url": "https://www.siouxlandproud.com/contests/the-ultimate-baseball-quiz-brought-to-you-by-your-sioux-city-explorers/"
+    },
+    {
+      "text": "a Dad a Day",
+      "url": "https://www.siouxlandproud.com/contests/a-dad-a-day/#//"
+    },
+    {
+      "text": "BBQ Forecast",
+      "url": "https://www.siouxlandproud.com/contests/kcau-9-bbq-forecast/#//"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.siouxcityjobs.com/"
+    },
+    {
+      "text": "Nexstar Careers",
+      "url": "https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar"
+    },
+    {
+      "text": "Sioux City Jobs",
+      "url": "https://www.siouxcityjobs.com/"
+    },
+    {
+      "text": "Community",
+      "url": "https://www.siouxlandproud.com/community/"
+    },
+    {
+      "text": "SiouxlandProud.com",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "Stray of the Day",
+      "url": "https://www.siouxlandproud.com/community/stray-of-the-day/"
+    },
+    {
+      "text": "Best of the Class",
+      "url": "https://www.siouxlandproud.com/best-of-the-class/"
+    },
+    {
+      "text": "Newsletter Sign-up",
+      "url": "http://nxslink.siouxlandproud.com/join/6sd/signup"
+    },
+    {
+      "text": "Calendar of Events",
+      "url": "https://www.siouxlandproud.com/calendar/"
+    },
+    {
+      "text": "Mr. Food",
+      "url": "https://www.siouxlandproud.com/mr-food/"
+    },
+    {
+      "text": "Recipe.TV",
+      "url": "https://www.siouxlandproud.com/recipe-tv/"
+    },
+    {
+      "text": "Melinda\u2019s Garden Moment",
+      "url": "https://www.siouxlandproud.com/melindas-garden-moment/"
+    },
+    {
+      "text": "Cooking with Fareway",
+      "url": "https://www.siouxlandproud.com/community/fareway-recipes/"
+    },
+    {
+      "text": "Local Events",
+      "url": "https://www.siouxlandproud.com/community/local-events/"
+    },
+    {
+      "text": "Lottery",
+      "url": "https://www.siouxlandproud.com/lottery-2/"
+    },
+    {
+      "text": "Horoscopes",
+      "url": "https://www.siouxlandproud.com/horoscopes-2/"
+    },
+    {
+      "text": "Virtual Home Show",
+      "url": "https://www.siouxlandproud.com/virtual-home-show/"
+    },
+    {
+      "text": "Sun Safety",
+      "url": "https://www.siouxlandproud.com/sun-safety/"
+    },
+    {
+      "text": "Simply Siouxland",
+      "url": "https://www.siouxlandproud.com/community/simply-siouxland/"
+    },
+    {
+      "text": "Businesses in the News",
+      "url": "https://www.siouxlandproud.com/community/businesses-in-the-news/"
+    },
+    {
+      "text": "Veterans Voices",
+      "url": "https://www.siouxlandproud.com/community/veterans-voices/"
+    },
+    {
+      "text": "Stuff the Stroller",
+      "url": "https://www.siouxlandproud.com/stuff-the-stroller/"
+    },
+    {
+      "text": "Pet of the Week",
+      "url": "https://www.siouxlandproud.com/community/pet-of-the-week/"
+    },
+    {
+      "text": "Akron-Westfield Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Akron-Westfield-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "Alta-Aurelia Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Alta-Aurelia-Graduates-2022/"
+    },
+    {
+      "text": "Cherokee Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Cherokee-Graduation-Salutes/rounds/1/gallery"
+    },
+    {
+      "text": "Gehlen Catholic Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Gehlen-Catholic-Graduation-Salutes/rounds/1/gallery"
+    },
+    {
+      "text": "Le Mars Community Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Le-Mars-Community-Graduation-Salutes/"
+    },
+    {
+      "text": "MMCRU Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/MMCRU-Graduation-Saluts/rounds/1/gallery"
+    },
+    {
+      "text": "MVAOCOU Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/MVAOCOU-Graduation-Salutes/"
+    },
+    {
+      "text": "OABCIG Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/OABCIG-Graduation-Salutes/rounds/1/gallery"
+    },
+    {
+      "text": "Remsen St. Mary\u2019s Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Remsen-St-Marys-Graduates-2022/"
+    },
+    {
+      "text": "Ridgeview Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Ridgeview-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "Sheldon Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Sheldon-Graduation-Salutes-2022/"
+    },
+    {
+      "text": "South O\u2019Brien Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/South-OBrien-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "Storm Lake Community Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Storm-Lake-Community-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "Storm Lake St. Mary\u2019s Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/Storm-Lake-St-Marys-Graduates-2022/"
+    },
+    {
+      "text": "West Sioux Class of 2022",
+      "url": "https://siouxlandproud.secondstreetapp.com/West-Sioux-Graduates-2022/rounds/1/gallery"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.siouxlandproud.com/about-us/"
+    },
+    {
+      "text": "SiouxlandProud.com",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "TV Guide",
+      "url": "https://www.siouxlandproud.com/tv-guide/"
+    },
+    {
+      "text": "Meet the KCAU 9 Team",
+      "url": "https://www.siouxlandproud.com/meet-the-kcau-9-team/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.siouxlandproud.com/contact-us/"
+    },
+    {
+      "text": "KCAU 9 News app",
+      "url": "https://www.siouxlandproud.com/apps/"
+    },
+    {
+      "text": "Sales Team",
+      "url": "https://www.siouxlandproud.com/sales-team/"
+    },
+    {
+      "text": "Marketing Solutions",
+      "url": "https://www.kcaudigital.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "http://nxslink.siouxlandproud.com/join/6to/signup"
+    },
+    {
+      "text": "About BestReviews",
+      "url": "https://www.siouxlandproud.com/about-bestreviews/"
+    },
+    {
+      "text": "KCAU 9 Station History",
+      "url": "https://www.siouxlandproud.com/about-us/kcau9-station-history/"
+    },
+    {
+      "text": "Regional News Partners",
+      "url": "https://www.siouxlandproud.com/regional-news-partners/"
+    },
+    {
+      "text": "Digital Signal",
+      "url": "https://www.siouxlandproud.com/digital-signal/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.siouxlandproud.com/about-us/"
+    },
+    {
+      "text": "SiouxlandProud.com",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "TV Guide",
+      "url": "https://www.siouxlandproud.com/tv-guide/"
+    },
+    {
+      "text": "Meet the KCAU 9 Team",
+      "url": "https://www.siouxlandproud.com/meet-the-kcau-9-team/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.siouxlandproud.com/contact-us/"
+    },
+    {
+      "text": "KCAU 9 News app",
+      "url": "https://www.siouxlandproud.com/apps/"
+    },
+    {
+      "text": "Sales Team",
+      "url": "https://www.siouxlandproud.com/sales-team/"
+    },
+    {
+      "text": "Marketing Solutions",
+      "url": "https://www.kcaudigital.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "http://nxslink.siouxlandproud.com/join/6to/signup"
+    },
+    {
+      "text": "About BestReviews",
+      "url": "https://www.siouxlandproud.com/about-bestreviews/"
+    },
+    {
+      "text": "KCAU 9 Station History",
+      "url": "https://www.siouxlandproud.com/about-us/kcau9-station-history/"
+    },
+    {
+      "text": "Regional News Partners",
+      "url": "https://www.siouxlandproud.com/regional-news-partners/"
+    },
+    {
+      "text": "Digital Signal",
+      "url": "https://www.siouxlandproud.com/digital-signal/"
+    },
+    {
+      "text": "",
+      "url": "/weather/weather-alerts/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tTop Story\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tCDC recommends COVID shots for kids under 5\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
+    },
+    {
+      "text": "COVID-19 Vaccine",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/plymouth-county-concrete-project-to-begin-june-20/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tPlymouth County concrete project to begin June 20\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/plymouth-county-concrete-project-to-begin-june-20/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.siouxlandproud.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/plymouth-county-concrete-project-to-begin-june-20/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/murph-the-nerf-mascot-is-dividing-opinion-on-social-media-new-eldritch-horror/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tNightmare fuel? NERF unveils new mascot\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/murph-the-nerf-mascot-is-dividing-opinion-on-social-media-new-eldritch-horror/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/murph-the-nerf-mascot-is-dividing-opinion-on-social-media-new-eldritch-horror/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/official-in-election-standoff-avoids-prison-in-capitol-riot/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tOfficial in election standoff avoids prison in Capitol\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/official-in-election-standoff-avoids-prison-in-capitol-riot/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/official-in-election-standoff-avoids-prison-in-capitol-riot/"
+    },
+    {
+      "text": "\n\t\t\n\t\tMore Top Stories\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/1-4m-electrical-panels-recalled-due-to-thermal-fire-hazards/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t1.4M electrical panels recalled due to fire hazards\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/1-4m-electrical-panels-recalled-due-to-thermal-fire-hazards/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/1-4m-electrical-panels-recalled-due-to-thermal-fire-hazards/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/bill-puts-two-year-moratorium-on-new-iowa-casino-licenses/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBill puts 2 year moratorium on new Iowa casino licenses\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/bill-puts-two-year-moratorium-on-new-iowa-casino-licenses/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/bill-puts-two-year-moratorium-on-new-iowa-casino-licenses/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/how-to-stay-safe-in-the-heat/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tHow to stay safe in the heat as Summer hits Siouxland\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/how-to-stay-safe-in-the-heat/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.siouxlandproud.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/how-to-stay-safe-in-the-heat/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/tyson-employees-land-a-gloved-hand-to-support-the-miracle-league-of-siouxland/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tTyson employees help support Siouxland\u2019s Miracle\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/tyson-employees-land-a-gloved-hand-to-support-the-miracle-league-of-siouxland/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.siouxlandproud.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/tyson-employees-land-a-gloved-hand-to-support-the-miracle-league-of-siouxland/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/wildlife-officials-urging-people-to-avoid-missouri-river-sandbars/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWildlife officials urging people to avoid Missouri\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/wildlife-officials-urging-people-to-avoid-missouri-river-sandbars/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.siouxlandproud.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/wildlife-officials-urging-people-to-avoid-missouri-river-sandbars/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/ways-to-keep-your-animals-safe-in-recent-high-heat/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWays to keep your animals safe in recent high heat\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/ways-to-keep-your-animals-safe-in-recent-high-heat/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.siouxlandproud.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/ways-to-keep-your-animals-safe-in-recent-high-heat/"
+    },
+    {
+      "text": "",
+      "url": "https://nxslink.siouxlandproud.com/join/6sd/signup"
+    },
+    {
+      "text": "\n\t\t\n\t\tNational News\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/murph-the-nerf-mascot-is-dividing-opinion-on-social-media-new-eldritch-horror/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tNightmare fuel? NERF unveils new mascot\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/murph-the-nerf-mascot-is-dividing-opinion-on-social-media-new-eldritch-horror/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/murph-the-nerf-mascot-is-dividing-opinion-on-social-media-new-eldritch-horror/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/san-diego-zoo-welcomes-1st-aardvark-birth-in-years/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSan Diego Zoo welcomes 1st aardvark birth in years\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/san-diego-zoo-welcomes-1st-aardvark-birth-in-years/"
+    },
+    {
+      "text": "National News",
+      "url": "https://www.siouxlandproud.com/news/national-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/san-diego-zoo-welcomes-1st-aardvark-birth-in-years/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/tucker-carlson-colbert-production-crew-committed-insurrection/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tTucker Carlson: Colbert crew committed \u2018insurrection\u2019\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/tucker-carlson-colbert-production-crew-committed-insurrection/"
+    },
+    {
+      "text": "National News",
+      "url": "https://www.siouxlandproud.com/news/national-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/tucker-carlson-colbert-production-crew-committed-insurrection/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tYellowstone flooding rebuild could take years\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
+    },
+    {
+      "text": "National News",
+      "url": "https://www.siouxlandproud.com/news/national-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/2-actors-from-netflix-series-dead-after-van-carrying-cast-crew-crashes-in-mexico/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t2 actors from Netflix series dead after van crash\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/2-actors-from-netflix-series-dead-after-van-carrying-cast-crew-crashes-in-mexico/"
+    },
+    {
+      "text": "National News",
+      "url": "https://www.siouxlandproud.com/news/national-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/2-actors-from-netflix-series-dead-after-van-carrying-cast-crew-crashes-in-mexico/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/school-cant-fly-blm-lgbtq-flags-and-be-catholic-ma-bishop-says/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBishop says school can\u2019t fly BLM, LGBTQ+ flags\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/school-cant-fly-blm-lgbtq-flags-and-be-catholic-ma-bishop-says/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/school-cant-fly-blm-lgbtq-flags-and-be-catholic-ma-bishop-says/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/official-in-election-standoff-avoids-prison-in-capitol-riot/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tOfficial in election standoff avoids prison in Capitol\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/official-in-election-standoff-avoids-prison-in-capitol-riot/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/official-in-election-standoff-avoids-prison-in-capitol-riot/"
+    },
+    {
+      "text": "\n\t\t\t\tView All National News\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/national-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\tFeatured Content\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/featured-content/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/siouxland-stories/siouxland-stories-long-time-siouxland-athletics-official-honored-and-remembered/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSiouxland Stories: Long-time Siouxland athletics\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/siouxland-stories/siouxland-stories-long-time-siouxland-athletics-official-honored-and-remembered/"
+    },
+    {
+      "text": "Siouxland Stories",
+      "url": "https://www.siouxlandproud.com/news/siouxland-stories/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/siouxland-stories/siouxland-stories-long-time-siouxland-athletics-official-honored-and-remembered/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/dishing-siouxland/sioux-citys-super-secret-recipe-how-freds-place-became-el-fredos/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tHow Fred\u2019s place became El Fredo\u2019s\u00a0\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/dishing-siouxland/sioux-citys-super-secret-recipe-how-freds-place-became-el-fredos/"
+    },
+    {
+      "text": "\"Dishing\" Siouxland",
+      "url": "https://www.siouxlandproud.com/news/dishing-siouxland/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/dishing-siouxland/sioux-citys-super-secret-recipe-how-freds-place-became-el-fredos/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/sports-spotlight-former-norfolk-and-usd-standout-tyler-hagedorn-holds-camp-for-hometown-kids/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tFormer Norfolk, USD standout holds hometown camp\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/sports-spotlight-former-norfolk-and-usd-standout-tyler-hagedorn-holds-camp-for-hometown-kids/"
+    },
+    {
+      "text": "Sports Spotlight",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/sports-spotlight-former-norfolk-and-usd-standout-tyler-hagedorn-holds-camp-for-hometown-kids/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/community/veterans-voices/siouxland-veteran-channels-his-experience-into-helping-his-city-and-state/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSiouxland Veteran channels his experience into helping\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/community/veterans-voices/siouxland-veteran-channels-his-experience-into-helping-his-city-and-state/"
+    },
+    {
+      "text": "Veterans Voices",
+      "url": "https://www.siouxlandproud.com/community/veterans-voices/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/community/veterans-voices/siouxland-veteran-channels-his-experience-into-helping-his-city-and-state/"
+    },
+    {
+      "text": "\n\t\t\t\tView All Featured Content\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/featured-content/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": ""
+    },
+    {
+      "text": "\n\t\t",
+      "url": ""
+    },
+    {
+      "text": "\n\t\t",
+      "url": ""
+    },
+    {
+      "text": "\n\t\t",
+      "url": ""
+    },
+    {
+      "text": "\n\t\t",
+      "url": ""
+    },
+    {
+      "text": "\n\t\t",
+      "url": ""
+    },
+    {
+      "text": "\n\t\t\t\tMore Videos\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/video"
+    },
+    {
+      "text": "\n\t\t\n\t\tSports\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/sports/explorers-offense-stalls-in-game-one-loss-to-cleburne-3-1/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tExplorers offense stalls in game one loss to Cleburne\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/explorers-offense-stalls-in-game-one-loss-to-cleburne-3-1/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/explorers-offense-stalls-in-game-one-loss-to-cleburne-3-1/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/sports/iowa-high-school-softball-highlights-and-scores-6-17-22/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tIowa high school softball highlights and scores (6-17-22)\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/iowa-high-school-softball-highlights-and-scores-6-17-22/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/iowa-high-school-softball-highlights-and-scores-6-17-22/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/sports/iowa-high-school-softball-rankings-6-16-22/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tIowa high school softball rankings (6-16-22)\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/iowa-high-school-softball-rankings-6-16-22/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/iowa-high-school-softball-rankings-6-16-22/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/sports/xs-walk-off-in-extras-for-series-win-over-monarchs-7-6/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tX\u2019s walk off in extras for series win over Monarchs\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/xs-walk-off-in-extras-for-series-win-over-monarchs-7-6/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/xs-walk-off-in-extras-for-series-win-over-monarchs-7-6/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/sports-spotlight-former-norfolk-and-usd-standout-tyler-hagedorn-holds-camp-for-hometown-kids/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tFormer Norfolk, USD standout holds hometown camp\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/sports-spotlight-former-norfolk-and-usd-standout-tyler-hagedorn-holds-camp-for-hometown-kids/"
+    },
+    {
+      "text": "Sports Spotlight",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/sports-spotlight/sports-spotlight-former-norfolk-and-usd-standout-tyler-hagedorn-holds-camp-for-hometown-kids/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/sports/xs-bats-light-up-monarchs-in-series-opening-win/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tX\u2019s bats light up Monarchs in series-opening win\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/xs-bats-light-up-monarchs-in-series-opening-win/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/xs-bats-light-up-monarchs-in-series-opening-win/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/sports/iowa-high-school-baseball-and-softball-highlights-and-scores-6-13-22/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tIowa high school baseball and softball highlights\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/iowa-high-school-baseball-and-softball-highlights-and-scores-6-13-22/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/iowa-high-school-baseball-and-softball-highlights-and-scores-6-13-22/"
+    },
+    {
+      "text": "\n\t\t\t\tView All Sports\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/sports/"
+    },
+    {
+      "text": "\n\t\t\n\t\tIowa News\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/how-marriage-rates-have-changed-in-the-tri-state/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tHow marriage rates have changed in the tri-state\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/how-marriage-rates-have-changed-in-the-tri-state/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/how-marriage-rates-have-changed-in-the-tri-state/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/bill-puts-two-year-moratorium-on-new-iowa-casino-licenses/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBill puts 2 year moratorium on new Iowa casino licenses\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/bill-puts-two-year-moratorium-on-new-iowa-casino-licenses/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/bill-puts-two-year-moratorium-on-new-iowa-casino-licenses/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/iowa-woman-sees-the-world-through-new-eyes/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tIowa woman sees the world through new eyes\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/iowa-woman-sees-the-world-through-new-eyes/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/iowa-woman-sees-the-world-through-new-eyes/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/your-local-election-hq/eric-van-lancker-joins-deidre-dejear-as-running-mate/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tEric Van Lancker joins Deidre DeJear as running mate\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/your-local-election-hq/eric-van-lancker-joins-deidre-dejear-as-running-mate/"
+    },
+    {
+      "text": "Your Local Election HQ",
+      "url": "https://www.siouxlandproud.com/news/your-local-election-hq/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/your-local-election-hq/eric-van-lancker-joins-deidre-dejear-as-running-mate/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/9-year-old-boy-fatally-hit-by-motorcycle-in-iowa/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t9-year-old boy fatally hit by motorcycle in Iowa\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/9-year-old-boy-fatally-hit-by-motorcycle-in-iowa/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/9-year-old-boy-fatally-hit-by-motorcycle-in-iowa/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/starving-dogs-suffered-inhumane-treatment-iowa-man-arrested/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tStarving dogs suffered \u2018inhumane treatment,\u2019 Iowa\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/starving-dogs-suffered-inhumane-treatment-iowa-man-arrested/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/starving-dogs-suffered-inhumane-treatment-iowa-man-arrested/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/authorities-identify-man-who-drowned-in-iowa-lake/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tAuthorities identify man who drowned in Iowa lake\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/authorities-identify-man-who-drowned-in-iowa-lake/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/authorities-identify-man-who-drowned-in-iowa-lake/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/abortion-not-protected-by-state-constitution-iowa-supreme-court-rules/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tRuling: Abortion not protected by Iowa state constitution\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/abortion-not-protected-by-state-constitution-iowa-supreme-court-rules/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/abortion-not-protected-by-state-constitution-iowa-supreme-court-rules/"
+    },
+    {
+      "text": "\n\t\t\t\tView All Iowa News\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\tNebraska News\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/how-marriage-rates-have-changed-in-the-tri-state/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tHow marriage rates have changed in the tri-state\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/how-marriage-rates-have-changed-in-the-tri-state/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/how-marriage-rates-have-changed-in-the-tri-state/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/nebraska-man-pleads-guilty-to-threatening-election-official/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tNebraska man pleads guilty to threatening election\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/nebraska-man-pleads-guilty-to-threatening-election-official/"
+    },
+    {
+      "text": "Nebraska News",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/nebraska-man-pleads-guilty-to-threatening-election-official/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/chief-standing-bears-pipe-tomahawk-returned-to-ponca-tribe-of-nebraska/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tChief Standing Bear\u2019s pipe-tomahawk returned to Ponca\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/chief-standing-bears-pipe-tomahawk-returned-to-ponca-tribe-of-nebraska/"
+    },
+    {
+      "text": "Nebraska News",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/chief-standing-bears-pipe-tomahawk-returned-to-ponca-tribe-of-nebraska/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/gov-ricketts-tests-positive-for-covid-19/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tGov. Ricketts tests positive for COVID-19\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/gov-ricketts-tests-positive-for-covid-19/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/gov-ricketts-tests-positive-for-covid-19/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/railroad-talks-stall-so-biden-likely-to-pick-review-board/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tRailroad talks stall, so Biden likely to pick review\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/railroad-talks-stall-so-biden-likely-to-pick-review-board/"
+    },
+    {
+      "text": "Nebraska News",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/railroad-talks-stall-so-biden-likely-to-pick-review-board/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/judge-lifts-major-obstacle-for-nebraska-medical-pot-campaign/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tJudge lifts major obstacle for Nebraska medical pot\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/judge-lifts-major-obstacle-for-nebraska-medical-pot-campaign/"
+    },
+    {
+      "text": "Nebraska News",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/judge-lifts-major-obstacle-for-nebraska-medical-pot-campaign/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/nebraskas-capital-city-rescinds-lgbtq-fairness-ordinance/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tNebraska\u2019s capital city rescinds LGBTQ fairness ordinance\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/nebraskas-capital-city-rescinds-lgbtq-fairness-ordinance/"
+    },
+    {
+      "text": "Nebraska News",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/nebraskas-capital-city-rescinds-lgbtq-fairness-ordinance/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/norfolk-transit-adds-on-demand-ride-service/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tNorfolk transit adds on-demand ride service\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/norfolk-transit-adds-on-demand-ride-service/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.siouxlandproud.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/norfolk-transit-adds-on-demand-ride-service/"
+    },
+    {
+      "text": "\n\t\t\t\tView All Nebraska News\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/nebraska-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\tSouth Dakota News\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/how-marriage-rates-have-changed-in-the-tri-state/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tHow marriage rates have changed in the tri-state\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/how-marriage-rates-have-changed-in-the-tri-state/"
+    },
+    {
+      "text": "Iowa News",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/iowa-news/how-marriage-rates-have-changed-in-the-tri-state/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/woman-attacked-by-bison-in-custer-state-park/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWoman attacked by bison in South Dakota park\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/woman-attacked-by-bison-in-custer-state-park/"
+    },
+    {
+      "text": "South Dakota News",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/woman-attacked-by-bison-in-custer-state-park/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/cyclist-on-fundraising-trek-killed-in-south-dakota-crash/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tCyclist on fundraising trek killed in S. Dakota crash\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/cyclist-on-fundraising-trek-killed-in-south-dakota-crash/"
+    },
+    {
+      "text": "South Dakota News",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/cyclist-on-fundraising-trek-killed-in-south-dakota-crash/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/south-dakota-senators-silent-on-ag-impeachment-vote/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSouth Dakota senators silent on AG impeachment vote\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/south-dakota-senators-silent-on-ag-impeachment-vote/"
+    },
+    {
+      "text": "South Dakota News",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/south-dakota-senators-silent-on-ag-impeachment-vote/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/judge-sanford-affidavits-should-be-unsealed/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tJudge: Sanford affidavits should be unsealed\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/judge-sanford-affidavits-should-be-unsealed/"
+    },
+    {
+      "text": "South Dakota News",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/judge-sanford-affidavits-should-be-unsealed/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/pit-bulls-at-large-after-south-dakota-dog-attack/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tPit bulls at large after South Dakota dog attack\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/pit-bulls-at-large-after-south-dakota-dog-attack/"
+    },
+    {
+      "text": "South Dakota News",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/pit-bulls-at-large-after-south-dakota-dog-attack/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/1-hurt-in-2-vehicle-crash-near-yankton/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t1 hurt in 2-vehicle crash near Yankton\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/1-hurt-in-2-vehicle-crash-near-yankton/"
+    },
+    {
+      "text": "Local News",
+      "url": "https://www.siouxlandproud.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/1-hurt-in-2-vehicle-crash-near-yankton/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/abortions-paused-in-south-dakota/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tAbortions paused in South Dakota\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/abortions-paused-in-south-dakota/"
+    },
+    {
+      "text": "South Dakota News",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/abortions-paused-in-south-dakota/"
+    },
+    {
+      "text": "\n\t\t\t\tView All South Dakota News\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/south-dakota-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\tCoronavirus\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tCDC recommends COVID shots for kids under 5\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
+    },
+    {
+      "text": "COVID-19 Vaccine",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/florida-wont-provide-state-resources-for-giving-covid-shots-to-kids-under-5-desantis/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tFla. won\u2019t provide resources for young kids\u2019 COVID\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/florida-wont-provide-state-resources-for-giving-covid-shots-to-kids-under-5-desantis/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.siouxlandproud.com/news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/florida-wont-provide-state-resources-for-giving-covid-shots-to-kids-under-5-desantis/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/bird-flu-outbreak-waning-but-threat-of-virus-lingers/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBird flu outbreak waning but threat of virus lingers\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/bird-flu-outbreak-waning-but-threat-of-virus-lingers/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/bird-flu-outbreak-waning-but-threat-of-virus-lingers/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/us-authorizes-1st-covid-19-shots-for-kids-under-5/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tUS authorizes 1st COVID-19 shots for kids under 5\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/us-authorizes-1st-covid-19-shots-for-kids-under-5/"
+    },
+    {
+      "text": "COVID-19 Vaccine",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/covid-19-vaccine/us-authorizes-1st-covid-19-shots-for-kids-under-5/"
+    },
+    {
+      "text": "\n\t\t\t\tView All Coronavirus News\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/health/coronavirus/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\u00a0\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.newsnationnow.com/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tAmerican Hero\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/morninginamerica/americanhero/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.newsnationnow.com/morninginamerica/americanhero/american-hero-foster-dad-north-carolina/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tFoster dad adopts 13-year-old abandoned at hospital\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/morninginamerica/americanhero/american-hero-foster-dad-north-carolina/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/morninginamerica/americanhero/american-hero-foster-dad-north-carolina/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tBusiness\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/business/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.newsnationnow.com/business/sams-club-slashes-memberships-down-to-8-for-limited-time/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSam\u2019s Club slashes memberships down to $8 for limited\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/business/sams-club-slashes-memberships-down-to-8-for-limited-time/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/business/sams-club-slashes-memberships-down-to-8-for-limited-time/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tEducation\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/education/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tExperiment: Pay students to tackle learning loss\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tOn Balance with Leland Vittert\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/on-balance-with-leland-vittert/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.newsnationnow.com/on-balance-with-leland-vittert/fourth-generation-farmer-food-shortage-is-coming/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tFourth-generation farmer: \u2018Food shortage is coming\u2019\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/on-balance-with-leland-vittert/fourth-generation-farmer-food-shortage-is-coming/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/on-balance-with-leland-vittert/fourth-generation-farmer-food-shortage-is-coming/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tNortheast\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/northeast/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.newsnationnow.com/us-news/northeast/biden-falls-while-trying-to-get-off-bike-after-beach-ride/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBiden falls while trying to get off bike after beach\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/northeast/biden-falls-while-trying-to-get-off-bike-after-beach-ride/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/northeast/biden-falls-while-trying-to-get-off-bike-after-beach-ride/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tYour Money\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/business/your-money/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.newsnationnow.com/business/your-money/walmart-pulls-mypillow-products-from-stores/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWalmart pulls MyPillow products from stores\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/business/your-money/walmart-pulls-mypillow-products-from-stores/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/business/your-money/walmart-pulls-mypillow-products-from-stores/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\tFind out how you can watch\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/?utm_campaign=NewsNation-trending-now&utm_source=siouxlandmatters.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\tBestReviews\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/home-br/party-supplies-br/these-kid-safe-fireworks-alternatives-will-make-your-fourth-of-july-party-pop/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tThese kid-safe fireworks alternatives will make your\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/home-br/party-supplies-br/these-kid-safe-fireworks-alternatives-will-make-your-fourth-of-july-party-pop/"
+    },
+    {
+      "text": "Party Supplies",
+      "url": "https://www.siouxlandproud.com/reviews/br/home-br/party-supplies-br/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/home-br/party-supplies-br/these-kid-safe-fireworks-alternatives-will-make-your-fourth-of-july-party-pop/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/12-supergoop-skincare-products-that-protect-you-from-uv-rays-while-nourishing-your-skin/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t12 Supergoop! skincare products that protect you\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/12-supergoop-skincare-products-that-protect-you-from-uv-rays-while-nourishing-your-skin/"
+    },
+    {
+      "text": "Reviews",
+      "url": "https://www.siouxlandproud.com/reviews/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/12-supergoop-skincare-products-that-protect-you-from-uv-rays-while-nourishing-your-skin/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/office-br/furniture-br/hammocks-outdoor-lounge-chairs-and-cushions-to-make-relaxing-outdoors-even-better/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tHammocks, outdoor lounge chairs and cushions to make\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/office-br/furniture-br/hammocks-outdoor-lounge-chairs-and-cushions-to-make-relaxing-outdoors-even-better/"
+    },
+    {
+      "text": "Furniture",
+      "url": "https://www.siouxlandproud.com/reviews/br/office-br/furniture-br/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/office-br/furniture-br/hammocks-outdoor-lounge-chairs-and-cushions-to-make-relaxing-outdoors-even-better/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/the-best-kids-fitness-tracker/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tThe best kids\u2019 fitness tracker\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/the-best-kids-fitness-tracker/"
+    },
+    {
+      "text": "Reviews",
+      "url": "https://www.siouxlandproud.com/reviews/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/the-best-kids-fitness-tracker/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/home-br/furniture-accessories-br/best-recliners/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBest recliners\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/home-br/furniture-accessories-br/best-recliners/"
+    },
+    {
+      "text": "Furniture Accessories",
+      "url": "https://www.siouxlandproud.com/reviews/br/home-br/furniture-accessories-br/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/home-br/furniture-accessories-br/best-recliners/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/best-mold-test-kit/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBest mold test kit\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/best-mold-test-kit/"
+    },
+    {
+      "text": "Reviews",
+      "url": "https://www.siouxlandproud.com/reviews/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/best-mold-test-kit/"
+    },
+    {
+      "text": "\n\t\t\t\tMore reviews\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/reviews/br/"
+    },
+    {
+      "text": "Close",
+      "url": "#sailthru-signup-widget"
+    },
+    {
+      "text": "\n\t\t\n\t\t\tCurrent\n\t\t\t\n\t\t\t\t95\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tSunny\n\t\t\n\n\t\t\n\t\t\tTonight\n\t\t\t\n\t\t\t\t75\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tClear\n\t\t\t\n\t\t\t\tPrecip: 4%\t\t\t\n\t\t\n\n\t\t\n\t\t\tTomorrow\n\t\t\t\n\t\t\t\t99\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tSunny/Wind\n\t\t\t\n\t\t\t\tPrecip: 4%\t\t\t\n\t\t\n\t",
+      "url": "https://www.siouxlandproud.com/weather/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/watch-huge-whale-sharks-swim-up-to-boat-off-of-florida/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWATCH: Huge whale sharks swim up to boat off Fla.\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/watch-huge-whale-sharks-swim-up-to-boat-off-of-florida/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/watch-huge-whale-sharks-swim-up-to-boat-off-of-florida/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/wildlife-officials-urging-people-to-avoid-missouri-river-sandbars/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWildlife officials urging people to avoid Missouri\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/wildlife-officials-urging-people-to-avoid-missouri-river-sandbars/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/wildlife-officials-urging-people-to-avoid-missouri-river-sandbars/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/man-dies-after-getting-caught-between-nyc-subway-train-and-platform-police-say/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tMan dies after getting stuck between train, platform\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/man-dies-after-getting-caught-between-nyc-subway-train-and-platform-police-say/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/man-dies-after-getting-caught-between-nyc-subway-train-and-platform-police-say/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/this-could-be-my-dad-man-suspects-remains-exposed-at-lake-mead-might-be-father-based-on-photos-of-teeth/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tMan suspects remains at Lake Mead might be father\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/this-could-be-my-dad-man-suspects-remains-exposed-at-lake-mead-might-be-father-based-on-photos-of-teeth/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/this-could-be-my-dad-man-suspects-remains-exposed-at-lake-mead-might-be-father-based-on-photos-of-teeth/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/verdict-reached-in-lake-park-murder-trial-suspect/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tVerdict reached in Lake Park murder trial suspect\n\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/verdict-reached-in-lake-park-murder-trial-suspect/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://www.siouxlandproud.com/news/local-news/verdict-reached-in-lake-park-murder-trial-suspect/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\tCurrent\n\t\t\t\n\t\t\t\t95\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tSunny\n\t\t\n\n\t\t\n\t\t\tTonight\n\t\t\t\n\t\t\t\t75\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tClear\n\t\t\t\n\t\t\t\tPrecip: 4%\t\t\t\n\t\t\n\n\t\t\n\t\t\tTomorrow\n\t\t\t\n\t\t\t\t99\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tSunny/Wind\n\t\t\t\n\t\t\t\tPrecip: 4%\t\t\t\n\t\t\n\t",
+      "url": "https://www.siouxlandproud.com/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://products.bestreviews.com/best-deals/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
+      "url": "https://www.facebook.com/KCAU9News"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
+      "url": "https://twitter.com/kcautv"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
+      "url": "https://www.instagram.com/kcau9"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
+      "url": "https://www.youtube.com/user/dfeenstra1969"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
+      "url": "mailto:news@kcautv.com"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tGet the iOS app\n\t\t\t\t\t",
+      "url": "https://apps.apple.com/us/app/kcau-9-news-siouxlandproud/id419619698?ign-mpt=uo%3D4"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tGet the Android app from Google Play\n\t\t\t\t\t",
+      "url": "https://play.google.com/store/apps/details?id=com.newssynergy.kcau&hl=en_US"
+    },
+    {
+      "text": "EEO Report",
+      "url": "https://www.siouxlandproud.com/wp-content/uploads/sites/68/2021/09/KCAU-2021-EEO-Annual-Report.pdf"
+    },
+    {
+      "text": "KCAU FCC Public File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KCAU-TV"
+    },
+    {
+      "text": "Nexstar CC Certification",
+      "url": "https://www.siouxlandproud.com/wp-content/uploads/sites/68/2019/06/Nexstar-Certification_1519222836425_34830955_ver1.0.pdf"
+    },
+    {
+      "text": "Contest Rules",
+      "url": "https://www.siouxlandproud.com/contests/contest-rules/"
+    },
+    {
+      "text": "NewsNation Now",
+      "url": "https://www.newsnationnow.com/"
+    },
+    {
+      "text": "Video Center",
+      "url": "/video"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tPrivacy Policy\t\t\t\t\t\t\t",
+      "url": "https://www.nexstar.tv/privacy-policy/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tTerms Of Use\t\t\t\t\t\t\t",
+      "url": "https://www.nexstar.tv/terms-of-use/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tCovers\t\t\t\t\t\t\t",
+      "url": "https://www.covers.com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tBest Reviews\t\t\t\t\t\t\t",
+      "url": "https://bestreviews.com/"
+    },
+    {
+      "text": "Do Not Sell My Personal Information",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tFCC Applications\t\t\t\t\t\t\t",
+      "url": "https://www.nexstar.tv/fcc-applications/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tPublic File Assistance Contact\t\t\t\t\t\t\t",
+      "url": "https://www.siouxlandproud.com/contact-us"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://www.nexstar.tv"
+    }
+  ],
   "metadata": {
     "identifier": "kcautv-2022",
     "collection": [
@@ -2879,10 +5459,10 @@
     "publicdate": "2022-03-25 14:09:11",
     "addeddate": "2022-03-25 14:09:11"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 1714068242,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1169279729,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }
