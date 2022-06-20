@@ -1,5 +1,5 @@
 {
-  "created": 1655597909,
+  "created": 1655681154,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/26/items/france24-2022",
@@ -3208,31 +3208,325 @@
       "sha1": "0ca896bb75206acf915db11cac0e28ee093566b8"
     },
     {
+      "name": "france24-2022-06-19T03:16:03.669221+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655601367",
+      "size": "27709",
+      "md5": "0782d467e3423284ccfb61e9b6361abb",
+      "crc32": "659dfa6a",
+      "sha1": "25ff070b245cd30ee64d4d431336e7ae616449c3",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T03:16:03.669221+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655601368",
+      "size": "48603",
+      "md5": "838b489dd99dce2f77a8c049668b5157",
+      "crc32": "3bee7986",
+      "sha1": "a171f9852b58f1079f41c9dd104f6f93e14eee9e",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T03:16:03.669221+02:00.jpg",
+      "source": "original",
+      "mtime": "1655601365",
+      "size": "149637",
+      "md5": "82091a15a70f405d0e8910496e9a0e37",
+      "crc32": "30707f1c",
+      "sha1": "ff917cd66fbd2192209e90508447eb38e47dba55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-06-19T03:16:03.669221+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-06-19T03:16:03.669221+02:00.jpg",
+      "mtime": "1655601436",
+      "size": "8244",
+      "md5": "2ae4132476489444f2653e538315de0b",
+      "crc32": "f4ce58c1",
+      "sha1": "72f17685eb956dfcb1605602a956d0b5c2e1c80b"
+    },
+    {
+      "name": "france24-2022-06-19T07:08:10.072054+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655615294",
+      "size": "27765",
+      "md5": "051b9285b44bca01967c7df04434583c",
+      "crc32": "8d912917",
+      "sha1": "2948c412aa766dfaae128e4f3461bc9993308094",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T07:08:10.072054+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655615296",
+      "size": "48697",
+      "md5": "adcd2ba676023d9e76ffbf5c537ebb82",
+      "crc32": "03d6e272",
+      "sha1": "4d641883d04e0692e0084453004dca972147b5f1",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T07:08:10.072054+02:00.jpg",
+      "source": "original",
+      "mtime": "1655615292",
+      "size": "150085",
+      "md5": "414e837979ce061a0629f171cb6e6046",
+      "crc32": "c3c5bae0",
+      "sha1": "1b4f8a9507e5c23c872d4612542d730dff5050d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-06-19T07:08:10.072054+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-06-19T07:08:10.072054+02:00.jpg",
+      "mtime": "1655615344",
+      "size": "8270",
+      "md5": "e0256bfe2e8de5f73344a177d9d2e31b",
+      "crc32": "9524b237",
+      "sha1": "6600f6c191e071542f83b4d738e5dc0e80058300"
+    },
+    {
+      "name": "france24-2022-06-19T11:02:17.156953+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655629341",
+      "size": "27824",
+      "md5": "3ec08d4f26f8c5feffdc9b65b17d2fb6",
+      "crc32": "471e01c8",
+      "sha1": "1b291674360f834e8dd5b4e401d5145eaa6beafd",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T11:02:17.156953+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655629342",
+      "size": "48934",
+      "md5": "8cc3d57ca201912a8b49ee496a279866",
+      "crc32": "4ccaaee1",
+      "sha1": "afb115f43486ad22ad971b1330cfa37642659b51",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T11:02:17.156953+02:00.jpg",
+      "source": "original",
+      "mtime": "1655629339",
+      "size": "155919",
+      "md5": "625b421ea3f20b11a499d7798e330ddd",
+      "crc32": "5299124f",
+      "sha1": "40555c138cfa1417987188530d0075d7d582146b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-06-19T11:02:17.156953+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-06-19T11:02:17.156953+02:00.jpg",
+      "mtime": "1655629390",
+      "size": "8437",
+      "md5": "2981bbf2f3528b5d8285fb378707dfc4",
+      "crc32": "7b392489",
+      "sha1": "473eb536d20aa18ef0477bf2736344907b27ae35"
+    },
+    {
+      "name": "france24-2022-06-19T15:11:31.056069+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655644297",
+      "size": "28161",
+      "md5": "e4cc094e9536980de6218cd826632020",
+      "crc32": "f9434446",
+      "sha1": "f5d4e2a22ddc60d586cf26c8511972aed5ca14bc",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T15:11:31.056069+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655644300",
+      "size": "49056",
+      "md5": "4e1778fad6c659e6e044814c3f94b9d0",
+      "crc32": "166e3f31",
+      "sha1": "19901acc258c12193ba4effea1a8826468aa50cb",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T15:11:31.056069+02:00.jpg",
+      "source": "original",
+      "mtime": "1655644294",
+      "size": "154828",
+      "md5": "e8c5a5c1dea31139b751c515f60a0850",
+      "crc32": "3cbf5de2",
+      "sha1": "748f36340d9a24527c1e6b304cdc8e43d7777514",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-06-19T15:11:31.056069+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-06-19T15:11:31.056069+02:00.jpg",
+      "mtime": "1655644346",
+      "size": "8276",
+      "md5": "f06f98f2cafac00329fecaffc8a8700e",
+      "crc32": "fcf2b99d",
+      "sha1": "abe3d3c9727cafec2af3969124fe9c7ab1a83c54"
+    },
+    {
+      "name": "france24-2022-06-19T19:06:07.747847+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655658373",
+      "size": "27691",
+      "md5": "4c3e57214ef78b3abde73bef5771725d",
+      "crc32": "4c0146f8",
+      "sha1": "77009c21150b941b57a091786b58ff547fa01706",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T19:06:07.747847+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655658375",
+      "size": "48837",
+      "md5": "fb705cc2a71894b552be767ba24a0644",
+      "crc32": "ea7c30ca",
+      "sha1": "c013ae49897433473cd4921bff661d56ecd49a17",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T19:06:07.747847+02:00.jpg",
+      "source": "original",
+      "mtime": "1655658371",
+      "size": "156508",
+      "md5": "8140dc3fc5e91388cd53bb9baf2b90d4",
+      "crc32": "b1a773f4",
+      "sha1": "0b9088e308c4df0a347326c6103ee13c0db32f00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-06-19T19:06:07.747847+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-06-19T19:06:07.747847+02:00.jpg",
+      "mtime": "1655658434",
+      "size": "8381",
+      "md5": "52f2762c04a4d67495f5f9dc482169d0",
+      "crc32": "aa4d9051",
+      "sha1": "0d477f61aa02140a4fa103c981864b2477a18e25"
+    },
+    {
+      "name": "france24-2022-06-19T22:59:48.707218+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655672392",
+      "size": "27822",
+      "md5": "996bd2155136670288e5751888210326",
+      "crc32": "d4bc3f65",
+      "sha1": "54bca9a7cd6af9feb209813c6c0e742c7b41e379",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T22:59:48.707218+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655672394",
+      "size": "48844",
+      "md5": "9d55efa777aa90abb1b187889001682e",
+      "crc32": "90c989a2",
+      "sha1": "8ce327fda44f3c7597a159ee4346c22415810544",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-19T22:59:48.707218+02:00.jpg",
+      "source": "original",
+      "mtime": "1655672390",
+      "size": "151146",
+      "md5": "c32f3434a5c51da07cd218bf665a7371",
+      "crc32": "0936c853",
+      "sha1": "33396b30b045594901b2b77cded5219903610d96",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-06-19T22:59:48.707218+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-06-19T22:59:48.707218+02:00.jpg",
+      "mtime": "1655672443",
+      "size": "8282",
+      "md5": "b5fdcecaae39c1200c2a01c0547d510d",
+      "crc32": "a454452c",
+      "sha1": "318e4cf50b07dc2a61166e2fd956c2566237f4d7"
+    },
+    {
+      "name": "france24-2022-06-20T01:24:51.316157+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655681095",
+      "size": "27022",
+      "md5": "bd8bc98e138208349605b8ea275851da",
+      "crc32": "b6df7a7a",
+      "sha1": "be3577b5f8bea973a2285b43ea58b721de409252",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-20T01:24:51.316157+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655681097",
+      "size": "47918",
+      "md5": "c8baf3988ab9bbd2056730a93163b146",
+      "crc32": "0d01ad2d",
+      "sha1": "75fb7f83040bf053bc19ea07885a6dce2c00222d",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-06-20T01:24:51.316157+02:00.jpg",
+      "source": "original",
+      "mtime": "1655681093",
+      "size": "157842",
+      "md5": "d8e00cfcadbd9471fbc23ef52300b7d0",
+      "crc32": "960df073",
+      "sha1": "dd35687c4c21176b8ca8122d079307bb8c5308f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-06-20T01:24:51.316157+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-06-20T01:24:51.316157+02:00.jpg",
+      "mtime": "1655681144",
+      "size": "8434",
+      "md5": "bf01d81e43eab3acbe051d67d8216222",
+      "crc32": "73a54a82",
+      "sha1": "3858c47ab7b202ab621fd88cd99a74d966cba98f"
+    },
+    {
       "name": "france24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "262f7bba1426fffaff534a54eff57cee5173bbf5",
-      "mtime": "1655586168",
-      "size": "65572",
-      "md5": "6819992affb40862f187636b60e6dcc2",
-      "crc32": "afba7ec2",
-      "sha1": "3db732f6cb8b1326b65ccb2439de75170885a948",
+      "btih": "95bf4da5b54f97dc6a0195a7463c250b13f3a73a",
+      "mtime": "1655681148",
+      "size": "71436",
+      "md5": "2e7127a7a56b5bd8a91bd273c1ea186f",
+      "crc32": "910a6a92",
+      "sha1": "670e72a3168f3ab0bb049fbde6be5c5d3748b0e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b580baee98ebb1ff98ca0b7e717d3c24",
+      "md5": "0925569d4bc6aa57feceb90b023586d6",
       "summation": "md5"
     },
     {
       "name": "france24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655586067",
-      "size": "368640",
-      "md5": "d9774e478e755087eabaefd6b2a1cd9b",
-      "crc32": "10acc384",
-      "sha1": "6d84c80075697add235d0fa8a44e1a7e5ff14ac6",
+      "mtime": "1655681100",
+      "size": "397312",
+      "md5": "4e5e3b0fd0334b15c330f357560d8444",
+      "crc32": "7de8ab9c",
+      "sha1": "6f952a002f0c07f3c0d8d21f06026b06245dd058",
       "format": "Metadata"
     },
     {
@@ -3246,747 +3540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "france24-2022": [
-    {
-      "text": "Acc\u00e9der au contenu principal",
-      "url": "#main-content"
-    },
-    {
-      "text": "    France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct\n",
-      "url": "/fr/"
-    },
-    {
-      "text": "\n                \n                    \nEn Direct\n                \n            ",
-      "url": "/fr/direct"
-    },
-    {
-      "text": "Fran\u00e7ais",
-      "url": "/fr/"
-    },
-    {
-      "text": "English",
-      "url": "/en/"
-    },
-    {
-      "text": "Espa\u00f1ol",
-      "url": "/es/"
-    },
-    {
-      "text": "\u0639\u0631\u0628\u064a",
-      "url": "/ar/"
-    },
-    {
-      "text": "\u00c0 la Une",
-      "url": "/fr/"
-    },
-    {
-      "text": "France",
-      "url": "/fr/france/"
-    },
-    {
-      "text": "Afrique",
-      "url": "/fr/afrique/"
-    },
-    {
-      "text": "Moyen-Orient",
-      "url": "/fr/moyen-orient/"
-    },
-    {
-      "text": "Europe",
-      "url": "/fr/europe/"
-    },
-    {
-      "text": "Am\u00e9riques",
-      "url": "/fr/am%C3%A9riques/"
-    },
-    {
-      "text": "Asie-Pacifique",
-      "url": "/fr/asie-pacifique/"
-    },
-    {
-      "text": "Sports",
-      "url": "/fr/sports/"
-    },
-    {
-      "text": "\u00c9conomie / Technologie",
-      "url": "/fr/%C3%A9co-tech/"
-    },
-    {
-      "text": "Culture",
-      "url": "/fr/culture/"
-    },
-    {
-      "text": "Plan\u00e8te",
-      "url": "/fr/plan%C3%A8te/"
-    },
-    {
-      "text": "Webdocumentaires",
-      "url": "/fr/webdocumentaires/"
-    },
-    {
-      "text": "Stop l'infox",
-      "url": "/fr/stop-infox"
-    },
-    {
-      "text": "Les plus vus",
-      "url": "/fr/les-plus-vus"
-    },
-    {
-      "text": "Voyage",
-      "url": "/fr/voyage/"
-    },
-    {
-      "text": "Contenus partenaires",
-      "url": "/fr/contenus-partenaires"
-    },
-    {
-      "text": "La cha\u00eene en direct",
-      "url": "/fr/direct"
-    },
-    {
-      "text": "Le dernier journal",
-      "url": "/fr/vod/journal-info"
-    },
-    {
-      "text": "\u00c9missions de A \u00e0 Z",
-      "url": "/fr/%C3%A9missions/"
-    },
-    {
-      "text": "Le journal accessible sous-titr\u00e9",
-      "url": "/fr/actualit%C3%A9s-sous-titr%C3%A9es"
-    },
-    {
-      "text": "Grille des programmes",
-      "url": "/fr/grille-des-programmes"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/FBfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/TWfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/IGfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/YTfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/DMfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://f24.my/SC"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://emailing.france24.com/fr/subscribe"
-    },
-    {
-      "text": "Recevoir France 24",
-      "url": "/fr/comment-recevoir-la-chaine"
-    },
-    {
-      "text": "Applications",
-      "url": "/fr/applications"
-    },
-    {
-      "text": "RSS",
-      "url": "/fr/flux-rss"
-    },
-    {
-      "text": "Qui sommes-nous ?",
-      "url": "/fr/a-propos"
-    },
-    {
-      "text": "Espace Presse",
-      "url": "/fr/tag/communique-presse/"
-    },
-    {
-      "text": "Contacter France 24",
-      "url": "https://www.francemediasmonde.com/fr/contact/?brand=f24"
-    },
-    {
-      "text": "Publicit\u00e9",
-      "url": "https://www.francetvpub.fr/nos-chaines/france-24/"
-    },
-    {
-      "text": "Nous rejoindre",
-      "url": "https://fmm.io/jobs"
-    },
-    {
-      "text": "Mentions l\u00e9gales",
-      "url": "https://www.francemediasmonde.com/fr/legal-notice"
-    },
-    {
-      "text": "Confidentialit\u00e9",
-      "url": "https://www.francemediasmonde.com/fr/privacy"
-    },
-    {
-      "text": "Cookies",
-      "url": "https://www.francemediasmonde.com/fr/cookies"
-    },
-    {
-      "text": "Centre de pr\u00e9f\u00e9rences",
-      "url": "#"
-    },
-    {
-      "text": "Gestion des notifications",
-      "url": "/fr/gestion-notifications"
-    },
-    {
-      "text": "Les Observateurs",
-      "url": "https://observers.france24.com/fr"
-    },
-    {
-      "text": "RFI",
-      "url": "https://www.rfi.fr/fr/"
-    },
-    {
-      "text": "RFI Savoirs",
-      "url": "https://savoirs.rfi.fr/"
-    },
-    {
-      "text": "RFI Musique",
-      "url": "https://musique.rfi.fr/"
-    },
-    {
-      "text": "RFI Instrumental",
-      "url": "https://www.rfi-instrumental.com/fr"
-    },
-    {
-      "text": "Mondoblog",
-      "url": "https://mondoblog.org/"
-    },
-    {
-      "text": "MCD",
-      "url": "https://www.mc-doualiya.com/"
-    },
-    {
-      "text": "InfoMigrants",
-      "url": "https://www.infomigrants.net/fr/"
-    },
-    {
-      "text": "CFI",
-      "url": "https://www.cfi.fr/fr"
-    },
-    {
-      "text": "Acad\u00e9mie",
-      "url": "https://academie.france24-mcd-rfi.com/fr/"
-    },
-    {
-      "text": "France M\u00e9dias Monde",
-      "url": "https://www.francemediasmonde.com/fr/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rfi.fr/fr/"
-    },
-    {
-      "text": "",
-      "url": "https://www.france24.com/fr/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mc-doualiya.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.francemediasmonde.com/fr/"
-    },
-    {
-      "text": "",
-      "url": "https://www.acpm.fr/Support-Numerique/site/france24-com"
-    },
-    {
-      "text": "\n",
-      "url": "/fr/"
-    },
-    {
-      "text": "#Canicule",
-      "url": "https://www.france24.com/fr/tag/canicule/"
-    },
-    {
-      "text": "#Guerre en Ukraine",
-      "url": "https://www.france24.com/fr/tag/ukraine/"
-    },
-    {
-      "text": "#L\u00e9gislatives 2022",
-      "url": "https://www.france24.com/fr/tag/l%C3%A9gislatives-fran%C3%A7aises-2022/"
-    },
-    {
-      "text": "France",
-      "url": "/fr/france/"
-    },
-    {
-      "text": "Afrique",
-      "url": "/fr/afrique/"
-    },
-    {
-      "text": "Reportages",
-      "url": "/fr/reportages/"
-    },
-    {
-      "text": "Emissions",
-      "url": "/fr/%C3%A9missions/derni%C3%A8res-%C3%A9missions/"
-    },
-    {
-      "text": "Stop l'infox",
-      "url": "/fr/stop-infox"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \u00e9conomie\n                                                    Sant\u00e9, travail, agriculture... Les effets de la canicule\n                                \n        ",
-      "url": "/fr/plan%C3%A8te/20220618-avec-la-chaleur-l-%C3%A9conomie-%C3%A0-la-peine"
-    },
-    {
-      "text": "\n            \n                            \n\n                         Canicule : un co\u00fbt tr\u00e8s important aussi pour l'\u00e9conomie\n        ",
-      "url": "/fr/%C3%A9missions/info-%C3%A9co/20220617-canicule-un-co%C3%BBt-tr%C3%A8s-important-aussi-pour-l-%C3%A9conomie"
-    },
-    {
-      "text": "\n            \n                            \n\n                         La canicule s'amplifie en France, records de temp\u00e9rature attendus\n        ",
-      "url": "/fr/france/20220618-an"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                INTERVIEW\n                                                    L'\u00e9pid\u00e9mie de Covid-19, une \"paix arm\u00e9e qui exige toujours une vigilance constante\"\n                            \n        ",
-      "url": "/fr/europe/20220618-%C3%A9pid%C3%A9mie-de-covid-19-une-paix-arm%C3%A9e-qui-exige-toujours-une-vigilance-constante"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLa France passe le pic de la canicule, plus de 40\u00b0C relev\u00e9s dans le Sud-Ouest\n                            \n        ",
-      "url": "/fr/france/20220618-la-france-passe-le-pic-de-la-canicule-plus-de-40%C2%B0c-relev%C3%A9s-dans-le-sud-ouest"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                HEURE PAR HEURE\n                                                    \nUkraine : le pr\u00e9sident Zelensky en visite \u00e0 Mykola\u00efv, fun\u00e9railles d\u2019une figure du Ma\u00efdan \u00e0 l\u2019Est\n                            \n        ",
-      "url": "/fr/europe/20220618-ukraine-ue-volodymyr-zelensky-attend-un-r%C3%A9sultat-positif-au-prochain-sommet-europ%C3%A9en"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nEn Turquie, plus d'un millier d'enfants ukrainiens accueillis dans la r\u00e9gion d'Antalya\n                            \n        ",
-      "url": "/fr/europe/20220618-en-turquie-plus-d-un-millier-d-enfants-ukrainiens-accueillis-dans-la-r%C3%A9gion-d-antalya"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nS\u00e9n\u00e9gal : deux morts dans des tensions pr\u00e9-\u00e9lectorales, l'opposant Sonko d\u00e9fie le pouvoir\n                            \n        ",
-      "url": "/fr/afrique/20220618-s%C3%A9n%C3%A9gal-deux-morts-dans-des-tensions-pr%C3%A9-%C3%A9lectorales-l-opposant-sonko-d%C3%A9fie-le-pouvoir"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nReportage : le roi du TikTok au second tour de la pr\u00e9sidentielle en Colombie\n                            \n        ",
-      "url": "/fr/vid%C3%A9o/20220618-reportage-colombie"
-    },
-    {
-      "text": "\n        Athl\u00e9tisme: MPM \u00e0 la hauteur pour Mahuchikh et au 3.000 m steeple par Yavi\n        \n    ",
-      "url": "/fr/info-en-continu/20220618-athl%C3%A9tisme-mpm-%C3%A0-la-hauteur-pour-mahuchikh-et-au-3-000-m-steeple-par-yavi"
-    },
-    {
-      "text": "\n        Thibault Tricole, pionnier fran\u00e7ais dans le monde des fl\u00e9chettes pro\n        \n    ",
-      "url": "/fr/info-en-continu/20220618-thibault-tricole-pionnier-fran%C3%A7ais-dans-le-monde-des-fl%C3%A9chettes-pro"
-    },
-    {
-      "text": "\n        \nLa France passe le pic de la canicule, plus de 40\u00b0C relev\u00e9s dans le Sud-Ouest\n        \n    ",
-      "url": "/fr/france/20220618-la-france-passe-le-pic-de-la-canicule-plus-de-40%C2%B0c-relev%C3%A9s-dans-le-sud-ouest"
-    },
-    {
-      "text": "\n        Natation: premier titre mondial et temps canon pour L\u00e9on Marchand\n        \n    ",
-      "url": "/fr/info-en-continu/20220618-natation-premier-titre-mondial-et-temps-canon-pour-l%C3%A9on-marchand"
-    },
-    {
-      "text": "\n        La Fifa et la Fifpro pr\u00e9sentent un plan de lutte contre les insultes sur les r\u00e9seaux sociaux\n        \n    ",
-      "url": "/fr/info-en-continu/20220618-la-fifa-et-la-fifpro-pr%C3%A9sentent-un-plan-de-lutte-contre-les-insultes-sur-les-r%C3%A9seaux-sociaux"
-    },
-    {
-      "text": "\n                    Toute l'actualit\u00e9 en direct \n\n                ",
-      "url": "/fr/infocontinu"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                L\u00c9GISLATIVES 2022\n                                                    Quand le programme de la Nupes ravive la bataille entre \u00e9conomistes\n                                \n        ",
-      "url": "/fr/france/20220617-quand-le-programme-de-la-nupes-ravive-la-bataille-entre-%C3%A9conomistes"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                STRAT\u00c9GIE DE CAMPAGNE (2/2)\n                                                    L\u00e9gislatives : la Nupes esp\u00e8re mobiliser les jeunes et faire du scrutin un r\u00e9f\u00e9rendum anti-Macron\n                            \n        ",
-      "url": "/fr/france/20220616-l%C3%A9gislatives-la-nupes-esp%C3%A8re-mobiliser-les-jeunes-et-faire-du-scrutin-un-r%C3%A9f%C3%A9rendum-anti-macron"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ANALYSE\n                                                    \nL\u00e9gislatives : derri\u00e8re le duel Nupes-Ensemble, une perc\u00e9e historique pour le Rassemblement national\n                            \n        ",
-      "url": "/fr/france/20220613-l%C3%A9gislatives-derri%C3%A8re-le-duel-nupes-ensemble-une-perc%C3%A9e-historique-pour-le-rassemblement-national"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                STRAT\u00c9GIE DE CAMPAGNE (1/2)\n                                                    L\u00e9gislatives : Ensemble ! s'applique \u00e0 d\u00e9noncer le \"danger\" Nupes pour la R\u00e9publique\n                            \n        ",
-      "url": "/fr/france/20220615-strat%C3%A9gie-de-campagne-1-2-pour-ensemble-d%C3%A9noncer-le-danger-nupes-pour-la-r%C3%A9publique"
-    },
-    {
-      "text": "\n                    Toute l'actualit\u00e9 des l\u00e9gislatives \n\n                ",
-      "url": "https://www.france24.com/fr/tag/l%C3%A9gislatives-fran%C3%A7aises-2022/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                CLIMAT\n                                                    L\u2019arganier, un \"rempart contre la d\u00e9sertification\" et l\u2019\u00e9rosion au Maroc\n                            \n        ",
-      "url": "/fr/plan%C3%A8te/20220617-maroc-l-arganier-un-arbre-quasiment-irrempla%C3%A7able-dans-la-lutte-contre-l-%C3%A9rosion-des-sols"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                SUR ENTR\n                                                    \nComment les jeunes ukrainien(ne)s per\u00e7oivent leur pays d\u2019accueil\u00a0?\n                            \n        ",
-      "url": "/fr/vid%C3%A9o/20220617-ukraine-jeunesse-europe-%C3%A9tudiants-migrations"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Isra\u00ebl m\u00e8ne des frappes sur la bande de Gaza apr\u00e8s un tir de roquette du Hamas\n                            \n        ",
-      "url": "/fr/moyen-orient/20220618-isra%C3%ABl-m%C3%A8ne-des-frappes-sur-la-bande-de-gaza-apr%C3%A8s-un-tir-de-roquette-du-hamas"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nReportage : en Irak, les partisans de Moqtada Sadr ne croient pas au retrait de leur leader\n                            \n        ",
-      "url": "/fr/vid%C3%A9o/20220618-reportage-irak"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                DISPARITION\n                                                    \nJean-Louis Trintignant, une grande voix du cin\u00e9ma s'\u00e9teint\n                            \n        ",
-      "url": "/fr/culture/20220617-cin%C3%A9ma-jean-louis-trintignant-s-%C3%A9teint-%C3%A0-91-ans"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                D\u00e9cryptage\n                                                    Dans le nord de la Syrie, les Kurdes une nouvelle fois dans le viseur d\u2019Erdogan\n                                \n        ",
-      "url": "/fr/moyen-orient/20220614-dans-le-nord-de-la-syrie-les-kurdes-se-retrouvent-une-nouvelle-fois-dans-le-viseur-d-erdogan"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                INTELLIGENCE ARTIFICIELLE\n                                                    Science sans conscience n\u2019est que ruine de l\u2019IA\n                            \n        ",
-      "url": "/fr/%C3%A9co-tech/20220614-science-sans-conscience-n-est-que-ruine-de-l-ia"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                T\u00c9MOIGNAGES\n                                                    Interrogatoires, fouilles \u00e0 nu, brimades...  Le calvaire des \"camps de filtration\" russes en Ukraine\n                            \n        ",
-      "url": "/fr/europe/20220611-interrogatoires-fouilles-%C3%A0-nu-brimades-le-calvaire-des-camps-de-filtration-russes-en-ukraine"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                SECONDE GUERRE MONDIALE\n                                                    Il y a 80 ans, Anne Frank \u00e9crivait la premi\u00e8re page de son journal\n                            \n        ",
-      "url": "/fr/europe/20220612-il-y-a-80-ans-anne-frank-%C3%A9crivait-la-premi%C3%A8re-page-de-son-journal"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    L\u00e9gislatives : les \u00e9lecteurs d'Outre-mer aux urnes pour le second tour\n                            \n        ",
-      "url": "/fr/france/20220618-l%C3%A9gislatives-les-%C3%A9lecteurs-d-outre-mer-aux-urnes-pour-le-second-tour"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                SUR LES OBSERVATEURS\n                                                    Tensions entre la RD Congo et le Rwanda : attention, ces images ont \u00e9t\u00e9 d\u00e9tourn\u00e9es\n                            \n        ",
-      "url": "https://observers.france24.com/fr/afrique/20220616-tensions-entre-le-congo-et-le-rwanda-attention-ces-images-sont-manipulatoires"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nAu Bangladesh et en Inde, les pluies de mousson font des dizaines de morts\n                            \n        ",
-      "url": "/fr/asie-pacifique/20220618-au-bangladesh-les-pluies-de-mousson-font-des-dizaines-de-morts"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLe pr\u00e9sident de l'\u00c9quateur d\u00e9clare l'\u00e9tat d'urgence, les manifestations se poursuivent\n                            \n        ",
-      "url": "/fr/am%C3%A9riques/20220618-le-pr%C3%A9sident-de-l-%C3%A9quateur-d%C3%A9clare-l-%C3%A9tat-d-urgence-apr%C3%A8s-des-manifestations-violentes"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Br\u00e9sil : les restes du journaliste Dom Phillips formellement identifi\u00e9s\n                            \n        ",
-      "url": "/fr/am%C3%A9riques/20220617-au-br%C3%A9sil-indignation-apr%C3%A8s-le-meurtre-des-deux-disparus-d-amazonie"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                D\u00e9cryptage\n                                                    P\u00e8lerinage de La Mecque : les r\u00e8gles changent, pour le meilleur et pour le pire\u00a0?\n                            \n        ",
-      "url": "/fr/moyen-orient/20220617-p%C3%A8lerinage-de-la-mecque-les-r%C3%A8gles-changent-pour-le-meilleur-et-pour-le-pire"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                L'Entretien de France 24\n                                                    \nVincent Biruta : \"Le Rwanda veut une d\u00e9sescalade pour ne pas entrer en guerre avec la RD Congo\"\n                                \n        ",
-      "url": "/fr/%C3%A9missions/l-entretien/20220617-vincent-biruta-le-rwanda-veut-une-d%C3%A9sescalade-pour-ne-pas-entrer-en-guerre-avec-la-rd-congo"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Vu de Russie\n                                                    \nVladimir Poutine se revendique de Pierre le Grand pour b\u00e2tir un Empire\n                            \n        ",
-      "url": "/fr/%C3%A9missions/vu-de-russie/20220617-vladimir-poutine-se-revendique-de-pierre-le-grand-pour-b%C3%A2tir-un-empire"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ActuElles\n                                                    \nFootball f\u00e9minin et f\u00e9minisme : 150 ans d\u2019histoire commune\n                            \n        ",
-      "url": "/fr/%C3%A9missions/actuelles/20220617-football-f%C3%A9minin-et-f%C3%A9minisme-150-ans-d-histoire-commune"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \u00c0 L\u2019AFFICHE !\n                                                    \nL'artiste Blick Bassy invite musique, danse, conte et afro-futurisme au Quai Branly\n                            \n        ",
-      "url": "/fr/%C3%A9missions/%C3%A0-l-affiche/20220617-l-artiste-blick-bassy-invite-musique-danse-conte-et-afro-futurisme-au-quai-branly"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Reporters\n                                                    \nEntre la Guyane et le Br\u00e9sil, une fronti\u00e8re incontr\u00f4lable (2/4)\n                            \n        ",
-      "url": "/fr/%C3%A9missions/reporters/20220617-entre-la-guyane-et-le-br%C3%A9sil-une-fronti%C3%A8re-incontr%C3%B4lable-2-4"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                TECH 24\n                                                    \nIntelligence artificielle : si utile, si d\u00e9routante\n                            \n        ",
-      "url": "/fr/%C3%A9missions/tech-24/20220617-intelligence-artificielle-si-utile-si-d%C3%A9routante"
-    },
-    {
-      "text": "\n                    Plus d'\u00e9missions \n\n                ",
-      "url": "/fr/\u00e9missions/derni\u00e8res-\u00e9missions/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Vu de Russie\n                                                    \nVladimir Poutine se revendique de Pierre le Grand pour b\u00e2tir un Empire\n                            \n        ",
-      "url": "/fr/%C3%A9missions/vu-de-russie/20220617-vladimir-poutine-se-revendique-de-pierre-le-grand-pour-b%C3%A2tir-un-empire"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                L'Entretien de France 24\n                                                    \nVincent Biruta : \"Le Rwanda veut une d\u00e9sescalade pour ne pas entrer en guerre avec la RD Congo\"\n                            \n        ",
-      "url": "/fr/%C3%A9missions/l-entretien/20220617-vincent-biruta-le-rwanda-veut-une-d%C3%A9sescalade-pour-ne-pas-entrer-en-guerre-avec-la-rd-congo"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                LE FIL DU 17 JUIN\n                                                    \u00c0 Kiev, Boris Johnson propose un \"programme de formation des forces ukrainiennes\"\n                            \n        ",
-      "url": "/fr/europe/20220617-en-direct-l-ukraine-suspendue-au-verdict-sur-sa-candidature-%C3%A0-l-ue"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Guerre en Ukraine\n                                                    \n\u00c0 Saint-P\u00e9tersbourg, Vladimir Poutine critique des sanctions \"irr\u00e9fl\u00e9chies\" contre la Russie\n                            \n        ",
-      "url": "/fr/europe/20220617-guerre-en-ukraine-%C3%A0-saint-p%C3%A9tersbourg-vladimir-poutine-critique-des-sanctions-irr%C3%A9fl%C3%A9chies"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Sur les observateurs\n                                                    Non, cette vid\u00e9o ne montre pas un Ukrainien \u201cenr\u00f4l\u00e9 de force\u201d par l\u2019arm\u00e9e de son pays\n                            \n        ",
-      "url": "https://observers.france24.com/fr/europe/20220617-non-cette-vid\u00e9o-ne-montre-pas-un-ukrainien-enr\u00f4l\u00e9-de-force-par-l-arm\u00e9e-de-son-pays"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                INNOVATION\n                                                    VivaTech : les ambitions de la deeptech, technologie de pointe, vs l\u2019illusion du m\u00e9tavers\n                            \n        ",
-      "url": "/fr/%C3%A9co-tech/20220617-vivatech-les-ambitions-de-la-deeptech-vs-l-illusion-du-m%C3%A9tavers"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nVilles de demain : la grande mutation technologique\n                                \n        ",
-      "url": "/fr/vid%C3%A9o/20220617-villes-de-demain-la-grande-mutation-technologique"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nL\u2019intelligence artificielle, alli\u00e9e des soldats et espions\n                            \n        ",
-      "url": "/fr/vid%C3%A9o/20220616-l-intelligence-artificielle-alli%C3%A9e-des-soldats-et-espions"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nGenoskin : la sant\u00e9 dans la peau\n                            \n        ",
-      "url": "/fr/vid%C3%A9o/20220616-genoskin-la-sant%C3%A9-dans-la-peau"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nCanada : au Qu\u00e9bec, un jeune adolescent sur deux a un travail\n                            \n        ",
-      "url": "/fr/vid%C3%A9o/20220615-canada-au-qu%C3%A9bec-un-enfant-sur-deux-a-un-travail"
-    },
-    {
-      "text": "\n                    Regarder toute l'actualit\u00e9 en vid\u00e9os \n\n                ",
-      "url": "/fr/tag/vid\u00e9omobile/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nFact or fake : le locataire de l'\u00c9lys\u00e9e est-il \u00e0 la t\u00eate de l'Union Europ\u00e9enne\u00a0?\n                            \n        ",
-      "url": "/fr/%C3%A9missions/contre-faits/20220429-fact-or-fake-le-locataire-de-l-%C3%A9lys%C3%A9e-est-il-%C3%A0-la-t%C3%AAte-de-l-union-europ%C3%A9enne"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nMacron\u00a02\u00a0: une impulsion pour les Europ\u00e9ens ?\n                            \n        ",
-      "url": "/fr/%C3%A9missions/ici-l-europe/20220429-macron-2-une-impulsion-pour-les-europ%C3%A9ens"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nElles sont l'avenir de l'Europe\n                            \n        ",
-      "url": "/fr/%C3%A9missions/ici-l-europe/20220408-elles-sont-l-avenir-de-l-europe"
-    },
-    {
-      "text": "\n                    Lire plus d'actualit\u00e9s sur la pr\u00e9sidence fran\u00e7aise de l'UE \n\n                ",
-      "url": "/fr/tag/pr\u00e9sidence-fran\u00e7aise-de-l-ue/"
-    },
-    {
-      "text": "\n                        \n                L\u00c9GISLATIVES 2022\n                                                    Quand le programme de la Nupes ravive la bataille entre \u00e9conomistes\n                            \n        ",
-      "url": "/fr/france/20220617-quand-le-programme-de-la-nupes-ravive-la-bataille-entre-%C3%A9conomistes"
-    },
-    {
-      "text": "\n                        \n                \n                                                    \nUkraine : la Commission europ\u00e9enne donne un avis positif sur une candidature \u00e0 l'UE\n                            \n        ",
-      "url": "/fr/info-en-continu/20220617-ukraine-la-commission-europ%C3%A9enne-favorable-%C3%A0-un-statut-de-candidat-%C3%A0-l-ue"
-    },
-    {
-      "text": "\n                        \n                \n                                                    Le gouvernement britannique approuve l'extradition de Julian Assange vers les \u00c9tats-Unis\n                            \n        ",
-      "url": "/fr/info-en-continu/20220617-%F0%9F%94%B4-le-gouvernement-britannique-approuve-l-extradition-de-julian-assange-vers-les-%C3%A9tats-unis"
-    },
-    {
-      "text": "\n                        \n                Sur les observateurs\n                                                    Ukraine : des lyc\u00e9ens de Tchernihiv c\u00e9l\u00e8brent leur dipl\u00f4me dans les d\u00e9combres\n                            \n        ",
-      "url": "https://observers.france24.com/fr/europe/20220616-ukraine-des-lyc\u00e9ens-de-tchernihiv-f\u00eatent-leur-dipl\u00f4me-dans-les-d\u00e9combres"
-    },
-    {
-      "text": "\n                        \n                L'Entretien de France 24\n                                                    \nConseiller de Zelensky : \"Avec des armes lourdes, nous pouvons gagner la guerre en 3 \u00e0 6 mois\"\n                            \n        ",
-      "url": "/fr/%C3%A9missions/l-entretien/20220617-conseiller-de-zelensky-avec-des-armes-lourdes-la-guerre-en-ukraine-sera-gagn%C3%A9e-en-3-%C3%A0-6-mois"
-    },
-    {
-      "text": "\n                        \n                sur le terrain\n                                                    En C\u00f4te d\u2019Ivoire, une opposition en demi-teinte un an apr\u00e8s le retour de Laurent Gbagbo\n                            \n        ",
-      "url": "/fr/afrique/20220617-en-c%C3%B4te-d-ivoire-une-opposition-en-demi-teinte-un-an-apr%C3%A8s-le-retour-de-laurent-gbagbo"
-    },
-    {
-      "text": "\n                        \n                \n                                                    En France, la canicule pr\u00e9coce frappe de plein fouet un tiers du pays\n                            \n        ",
-      "url": "/fr/france/20220617-en-france-la-canicule-pr%C3%A9coce-frappe-de-plein-fouet-un-tiers-du-pays"
-    },
-    {
-      "text": "\n                        \n                La chronique de l\u2019\u00e9co\n                                                    \n\nCanicule : un co\u00fbt tr\u00e8s important aussi pour l'\u00e9conomie\n                            \n        ",
-      "url": "/fr/%C3%A9missions/info-%C3%A9co/20220617-canicule-un-co%C3%BBt-tr%C3%A8s-important-aussi-pour-l-%C3%A9conomie"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nS\u00e9n\u00e9gal : deux morts dans des tensions pr\u00e9-\u00e9lectorales, l'opposant Sonko d\u00e9fie le pouvoir\n                            \n        ",
-      "url": "/fr/afrique/20220618-s%C3%A9n%C3%A9gal-deux-morts-dans-des-tensions-pr%C3%A9-%C3%A9lectorales-l-opposant-sonko-d%C3%A9fie-le-pouvoir"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nTensions pr\u00e9\u00e9lectorales au S\u00e9n\u00e9gal : des heurts ont \u00e9clat\u00e9 entre des jeunes et la police \u00e0 Dakar\n                            \n        ",
-      "url": "/fr/%C3%A9missions/journal-de-l-afrique/20220617-tensions-pr%C3%A9%C3%A9lectorales-au-s%C3%A9n%C3%A9gal-des-heurts-ont-%C3%A9clat%C3%A9-entre-des-jeunes-et-la-police-%C3%A0-dakar"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nVincent Biruta : \"Le Rwanda veut une d\u00e9sescalade pour ne pas entrer en guerre avec la RD Congo\"\n                            \n        ",
-      "url": "/fr/%C3%A9missions/l-entretien/20220617-vincent-biruta-le-rwanda-veut-une-d%C3%A9sescalade-pour-ne-pas-entrer-en-guerre-avec-la-rd-congo"
-    },
-    {
-      "text": "\n                    Lire plus d'actualit\u00e9s africaines \n\n                ",
-      "url": "/fr/afrique/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    VivaTech : les ambitions de la deeptech, technologie de pointe, vs l\u2019illusion du m\u00e9tavers\n                            \n        ",
-      "url": "/fr/%C3%A9co-tech/20220617-vivatech-les-ambitions-de-la-deeptech-vs-l-illusion-du-m%C3%A9tavers"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \n\nLes banques centrales poursuivent la hausse des taux directeurs\n                            \n        ",
-      "url": "/fr/%C3%A9missions/info-%C3%A9co/20220616-banque-d-angleterre-taux-directeurs-eurogroupe-croatie-mcdonald-s-amende-australie-co2-vivatech-africatech"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nNavigation : un dessous des cartes de plus en plus strat\u00e9gique\n                            \n        ",
-      "url": "/fr/%C3%A9missions/tech-24/20220610-navigation-un-dessous-des-cartes-de-plus-en-plus-strat%C3%A9gique"
-    },
-    {
-      "text": "\n                    Lire plus d'articles sur les nouvelles technologies \n\n                ",
-      "url": "/fr/tag/tech/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Basket : les Warriors sacr\u00e9s champions NBA pour la 7e fois\n                            \n        ",
-      "url": "/fr/sports/20220617-basket-les-warriors-sacr%C3%A9s-champions-nba-pour-la-7e-fois"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Mondial-2026 : New York, Mexico et Vancouver parmi les 16 villes d'accueil\n                            \n        ",
-      "url": "/fr/am%C3%A9riques/20220617-mondial-2026-new-york-mexico-et-vancouver-parmi-les-16-villes-d-accueil"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Fairplay financier : la Ligue espagnole de football porte plainte contre le PSG et Manchester City\n                            \n        ",
-      "url": "/fr/sports/20220615-fairplay-financier-la-ligue-espagnole-de-football-porte-plainte-contre-le-psg-et-manchester-city"
-    },
-    {
-      "text": "\n                    Lire plus d'infos et r\u00e9sultats sportifs \n\n                ",
-      "url": "/fr/sports/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Sant\u00e9, travail, agriculture... Les effets de la canicule\n                            \n        ",
-      "url": "/fr/plan%C3%A8te/20220618-avec-la-chaleur-l-%C3%A9conomie-%C3%A0-la-peine"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nAu Bangladesh et en Inde, les pluies de mousson font des dizaines de morts\n                            \n        ",
-      "url": "/fr/asie-pacifique/20220618-au-bangladesh-les-pluies-de-mousson-font-des-dizaines-de-morts"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLa canicule s'amplifie en France, records de temp\u00e9rature attendus\n                            \n        ",
-      "url": "/fr/france/20220618-an"
-    },
-    {
-      "text": "\n                    Lire plus d'articles sur l'environnement et la plan\u00e8te \n\n                ",
-      "url": "/fr/tag/environnement/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                R\u00e9silience climatique\n                                                                                                            \n                            Pr\u00e9sent\u00e9 par                                \n                                    \n\n\n\n\n                                                    \n                                                            \nR\u00e9silience climatique et transition \u00e9nerg\u00e9tique \u00e9quitable : deux enjeux majeurs pour le continent africain\n                            \n        ",
-      "url": "/fr/contenus-partenaires/20220616-r%C3%A9silience-climatique-et-transition-%C3%A9nerg%C3%A9tique-%C3%A9quitable-deux-enjeux-majeurs-pour-le-continent-africain"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Economie\n                                                                                                            \n                            Pr\u00e9sent\u00e9 par                                \n                                    \n\n\n\n\n                                                    \n                                                            Vendre dans le nouveau monde du travail\n                            \n        ",
-      "url": "/fr/contenus-partenaires/20220523-vendre-dans-le-nouveau-monde-du-travail"
-    },
-    {
-      "text": "\n                    Tous les contenus partenaires \n\n                ",
-      "url": "/fr/contenus-partenaires"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Bikutsi 3000\n                            \n        ",
-      "url": "https://www.quaibranly.fr/fr/expositions-evenements/au-musee/spectacles-fetes-et-evenements/spectacles/details-de-levenement/e/bikutsi-3000-39123/?utm_source=rfi&utm_medium=banniere&utm_campaign=bikutsi3000"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    JAZZ KIF\n                            \n        ",
-      "url": "https://www.facebook.com/Jazzkif/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Festival de Marseille\n                            \n        ",
-      "url": "https://www.festivaldemarseille.com/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Op\u00e9ra poussi\u00e8re\n                            \n        ",
-      "url": "https://www.editionstheatrales.fr/livres/opera-poussiere-1654.html"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Festival Les Rencontres \u00e0 l'\u00e9chelle\n                            \n        ",
-      "url": "https://www.lesrencontresalechelle.com/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    SUR LA ROUTE DES CHEFFERIES\n                            \n        ",
-      "url": "https://www.quaibranly.fr/fr/expositions-evenements/au-musee/expositions/details-de-levenement/e/sur-la-route-des-chefferies-du-cameroun-39132/?utm_source=france24&utm_medium=site_web_400x225&utm_campaign=laroutedeschefferies"
-    },
-    {
-      "text": "\n                    Tous nos partenaires \n\n                ",
-      "url": "/fr/partenariats"
-    },
-    {
-      "text": "2022",
-      "url": "/fr/archives/2022/"
-    },
-    {
-      "text": "2021",
-      "url": "/fr/archives/2021/"
-    },
-    {
-      "text": "2020",
-      "url": "/fr/archives/2020/"
-    },
-    {
-      "text": "2019",
-      "url": "/fr/archives/2019/"
-    },
-    {
-      "text": "2018",
-      "url": "/fr/archives/2018/"
-    },
-    {
-      "text": "2017",
-      "url": "/fr/archives/2017/"
-    },
-    {
-      "text": "2016",
-      "url": "/fr/archives/2016/"
-    },
-    {
-      "text": "2015",
-      "url": "/fr/archives/2015/"
-    },
-    {
-      "text": "2014",
-      "url": "/fr/archives/2014/"
-    },
-    {
-      "text": "2013",
-      "url": "/fr/archives/2013/"
-    },
-    {
-      "text": "2012",
-      "url": "/fr/archives/2012/"
-    },
-    {
-      "text": "2011",
-      "url": "/fr/archives/2011/"
-    },
-    {
-      "text": "2010",
-      "url": "/fr/archives/2010/"
-    },
-    {
-      "text": "2009",
-      "url": "/fr/archives/2009/"
-    },
-    {
-      "text": "2008",
-      "url": "/fr/archives/2008/"
-    },
-    {
-      "text": "2007",
-      "url": "/fr/archives/2007/"
-    },
-    {
-      "text": "2006",
-      "url": "/fr/archives/2006/"
-    }
-  ],
-  "item_last_updated": 1655586168,
-  "item_size": 24982255,
+  "files_count": 337,
+  "item_last_updated": 1655681148,
+  "item_size": 26685963,
   "metadata": {
     "identifier": "france24-2022",
     "collection": [
@@ -4003,10 +3559,10 @@
     "publicdate": "2022-04-09 13:41:21",
     "addeddate": "2022-04-09 13:41:21"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 1604737268,
+  "server": "ia802500.us.archive.org",
+  "uniq": 934031759,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

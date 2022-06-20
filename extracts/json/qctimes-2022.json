@@ -1,5 +1,5 @@
 {
-  "created": 1655598030,
+  "created": 1655681306,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/17/items/qctimes-2022",
@@ -3164,31 +3164,303 @@
       "sha1": "a44823e9b374344ebf0c40b0bb4059a7544d007a"
     },
     {
+      "name": "qctimes-2022-06-18T20:18:33.840917-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655601517",
+      "size": "27765",
+      "md5": "14d1e9e9baffa5f4a82444d435116334",
+      "crc32": "23785d94",
+      "sha1": "b80609f031f5137635199666c39be739c16e4fc8",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-18T20:18:33.840917-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655601519",
+      "size": "77968",
+      "md5": "5ead377ec8f1bc7c4cdae0f2e1387891",
+      "crc32": "285e8183",
+      "sha1": "3bd89f1306819e549bfdee011af31b5ef1a4eabb",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-18T20:18:33.840917-05:00.jpg",
+      "source": "original",
+      "mtime": "1655601516",
+      "size": "290351",
+      "md5": "487870decaec65b20ee2aa9657b6d015",
+      "crc32": "084ccbc3",
+      "sha1": "c342b1650852ed9582a7232656864807e461b7a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qctimes-2022-06-18T20:18:33.840917-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qctimes-2022-06-18T20:18:33.840917-05:00.jpg",
+      "mtime": "1655601563",
+      "size": "12152",
+      "md5": "e6b32521824d72fab18e06e956c63654",
+      "crc32": "12372acf",
+      "sha1": "f9c588cd11cde4d46c0665888f9ba86e2e7bd098"
+    },
+    {
+      "name": "qctimes-2022-06-19T00:10:43.685598-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655615447",
+      "size": "26728",
+      "md5": "d6e68e21928dadb0b72a94da14c6f769",
+      "crc32": "364a5ea9",
+      "sha1": "0adcbded2872c26badaf12dee604a2965e7995ee",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T00:10:43.685598-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655615449",
+      "size": "78986",
+      "md5": "82482b614fc0ff5a3d9bb512c4a44c7c",
+      "crc32": "dfe8910d",
+      "sha1": "9408e92fd8b5db4e2a155131f9093b6f47fdae9c",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T00:10:43.685598-05:00.jpg",
+      "source": "original",
+      "mtime": "1655615445",
+      "size": "274814",
+      "md5": "2923adab9c8ddd685192dc1359867728",
+      "crc32": "04d881bf",
+      "sha1": "dc22eb36d047aa06d4f831586360f062d31205df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qctimes-2022-06-19T00:10:43.685598-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qctimes-2022-06-19T00:10:43.685598-05:00.jpg",
+      "mtime": "1655615496",
+      "size": "12028",
+      "md5": "8f58c4f39a68a0e255ecb7d3135f23df",
+      "crc32": "ae23ceb4",
+      "sha1": "cf0407180024c6eeb3d7bc521e1238dd0c8496ee"
+    },
+    {
+      "name": "qctimes-2022-06-19T04:04:58.995151-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655629501",
+      "size": "26569",
+      "md5": "a466e69ec29cb5fb0ae5595423271f1f",
+      "crc32": "f89bf7f6",
+      "sha1": "55abe434d13addb27f18aa68b9c9119b3dee55ee",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T04:04:58.995151-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655629502",
+      "size": "74734",
+      "md5": "268454d8819c480ca454c69a8f623b9e",
+      "crc32": "1165741f",
+      "sha1": "7c31a32ed7bd9b3263a128d46d6f7e0be5dc8473",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T04:04:58.995151-05:00.jpg",
+      "source": "original",
+      "mtime": "1655629499",
+      "size": "282420",
+      "md5": "3318c86bb537b8d33807436461096839",
+      "crc32": "7f1e6d66",
+      "sha1": "ef8332003e9a8d746d06763431bc3299cb642380",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qctimes-2022-06-19T04:04:58.995151-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qctimes-2022-06-19T04:04:58.995151-05:00.jpg",
+      "mtime": "1655629553",
+      "size": "11942",
+      "md5": "68a198f39507833fa05760ddd1dd36b7",
+      "crc32": "3341a050",
+      "sha1": "644e6e7122eec5d2944374c91adbe0bd21ee2f8c"
+    },
+    {
+      "name": "qctimes-2022-06-19T08:12:52.771648-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655644377",
+      "size": "26439",
+      "md5": "bcc6ab9602907d6f9ebea363039079a1",
+      "crc32": "acff8a11",
+      "sha1": "b41a87c6df5b0812c47e772192007e4043beaa39",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T08:12:52.771648-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655644379",
+      "size": "76030",
+      "md5": "b97b2e9694448d1c00d7bd8c626c022a",
+      "crc32": "8fc53b18",
+      "sha1": "ac69dd74c1474227591d9652c40247f6e558f0e3",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T08:12:52.771648-05:00.jpg",
+      "source": "original",
+      "mtime": "1655644375",
+      "size": "263032",
+      "md5": "445c2f4fd2afb8435ef9e19ee9725efe",
+      "crc32": "26dedd9c",
+      "sha1": "446e0dc9c4252b646ed1f18c437d796c983cec1c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qctimes-2022-06-19T08:12:52.771648-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qctimes-2022-06-19T08:12:52.771648-05:00.jpg",
+      "mtime": "1655644432",
+      "size": "11614",
+      "md5": "0010aa47bb0728819dd1d011703d9ba7",
+      "crc32": "30f36f72",
+      "sha1": "7c3e98d2b7d64ea55c0d29163b426af0ea9b90fd"
+    },
+    {
+      "name": "qctimes-2022-06-19T12:08:43.727963-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655658528",
+      "size": "26410",
+      "md5": "08c7cd3d574ba9d8dc005e80d630d7cc",
+      "crc32": "d1b8f1de",
+      "sha1": "1cc2f651ab98238cdd3886c5f6d38a036a95685b",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T12:08:43.727963-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655658530",
+      "size": "77478",
+      "md5": "6270c47fbbf8e658297023e80c8e1f79",
+      "crc32": "776eecd5",
+      "sha1": "b031c59bb8059d8397cc41d95c0f73edf56db364",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T12:08:43.727963-05:00.jpg",
+      "source": "original",
+      "mtime": "1655658527",
+      "size": "272754",
+      "md5": "1d6cf70fd0b1bed77b083368d0a9ed8e",
+      "crc32": "d5043468",
+      "sha1": "36d08bf5d243a468989bc237e2f2a6a89be0c682",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qctimes-2022-06-19T12:08:43.727963-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qctimes-2022-06-19T12:08:43.727963-05:00.jpg",
+      "mtime": "1655658577",
+      "size": "11665",
+      "md5": "de11f35e30e09660b1a8bef12e6f26b2",
+      "crc32": "fa2d44dc",
+      "sha1": "6d955bd268727469bd1713155ce1059cd0b28f23"
+    },
+    {
+      "name": "qctimes-2022-06-19T16:02:57.245744-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655672579",
+      "size": "26215",
+      "md5": "c206f41f496c9576d3da4ccc775b5062",
+      "crc32": "adc783a0",
+      "sha1": "7bd1cd1527acd3d77710ff7c5a040fc9e6505976",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T16:02:57.245744-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655672581",
+      "size": "77397",
+      "md5": "32fa8c37007c5e099dd13eca717f19bf",
+      "crc32": "a22de0d1",
+      "sha1": "03ead1161eeb4a71bf226284aef918c2de0ec0a1",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T16:02:57.245744-05:00.jpg",
+      "source": "original",
+      "mtime": "1655672578",
+      "size": "275138",
+      "md5": "a539fae063ab331db2f7347b7fb792ca",
+      "crc32": "9aaddd20",
+      "sha1": "a47b5574e26b174ca310b1d2c13893fe692bee05",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qctimes-2022-06-19T16:02:57.245744-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qctimes-2022-06-19T16:02:57.245744-05:00.jpg",
+      "mtime": "1655672713",
+      "size": "12130",
+      "md5": "2e5450472bb1580f79481e87e0fbadaf",
+      "crc32": "2e33c601",
+      "sha1": "10a4d961e88302cb24824ebef612f38d090e84c2"
+    },
+    {
+      "name": "qctimes-2022-06-19T18:27:31.829356-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655681252",
+      "size": "26842",
+      "md5": "fb35bd1a451837df5adfe4914ce7e751",
+      "crc32": "21deea43",
+      "sha1": "a20ba215ee3c1c06a745995a335d112ab21086c1",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-06-19T18:27:31.829356-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655681254",
+      "size": "77625",
+      "md5": "cae99d903b98aadc1e735cb597582573",
+      "crc32": "a4bc5e7b",
+      "sha1": "c957eb4c80d42e98b280946a6bf3fe8a6d3568c6",
+      "format": "JSON"
+    },
+    {
       "name": "qctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d582a1773aaf1f629ea665d4f0310e00554df01",
-      "mtime": "1655586290",
-      "size": "64477",
-      "md5": "58a4563df22370fa4901a99b3149eed2",
-      "crc32": "14d55e98",
-      "sha1": "0edb67a524d26bbfc0796120209dbad63793bdcf",
+      "btih": "488a9e0c31b10831ceda6e72709144d101815625",
+      "mtime": "1655681292",
+      "size": "69956",
+      "md5": "509fc0284b4229072738d31ea3718231",
+      "crc32": "8c15cef3",
+      "sha1": "af9513d7ab2d4587a143528de885817cd0df7851",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4f0412b3b92d12b62916a070fefae68d",
+      "md5": "412b49795338e0e84c2edb745ac3794e",
       "summation": "md5"
     },
     {
       "name": "qctimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655586232",
-      "size": "360448",
-      "md5": "a85fbd8e0517083d0008d0f3af17d94d",
-      "crc32": "c27042ae",
-      "sha1": "08acff74a98c490f56e08aeb27d15070c59a5183",
+      "mtime": "1655681256",
+      "size": "385024",
+      "md5": "4a2e0c68c7033eb7961626642813721a",
+      "crc32": "c2da867b",
+      "sha1": "363e31e38040aac2fcaa606171ea408e2677683b",
       "format": "Metadata"
     },
     {
@@ -3202,9 +3474,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 304,
-  "item_last_updated": 1655586290,
-  "item_size": 31939381,
+  "files_count": 330,
+  "item_last_updated": 1655681292,
+  "item_size": 34426662,
   "metadata": {
     "identifier": "qctimes-2022",
     "collection": [
@@ -3221,1304 +3493,10 @@
     "publicdate": "2022-03-25 03:35:53",
     "addeddate": "2022-03-25 03:35:53"
   },
-  "qctimes-2022": [
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy"
-    },
-    {
-      "text": "Skip to main content",
-      "url": "#main-page-container"
-    },
-    {
-      "text": "Skip to main content",
-      "url": "https://qctimes.com/#main-page-container"
-    },
-    {
-      "text": "",
-      "url": "https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjss_-HSKdx_dy74OvN4He1NfVgXnsOCtr9KNcnQQoH_OPS0MwWO2qr988aomDAvuCnpRe0tIYPpTbsWB8rdSz2YCIkTOMay6fQMv14NODY4fukT3mUSOYO-3lWrpuM_bBTBpuTx-CO6nIU4ai3JoeDixmqsheQPB_dcKcbzgWeSy8yhjVn0ncB3Y_izxDWO9_vfipYy-4Yyi0EdDkqGP_5uoC9FjCZ_9Yzdiz5_avKB4R9V3qVjOVmbMkoZtfHUItuO7L7uBysxIZCaYusuhHqgIUVapShnG8KRnEORVUoCv_4evenNk970%2526sai%253DAMfl-YTzHCA-E685EafbzraNwpe3WmbwLU7Q2yy39iQn3B32QSkdTUGfrmP8VDxZAOQudcoOhQG3WaGDcoIAWO2rKNfDvywR6xx2l8M6kIujtBAl1ZvulFNI1-jERJNiFLSqH9BW%2526sig%253DCg0ArKJSzMCG4jnK0cmIEAE%2526fbs_aeid%253D%255Bgw_fbsaeid%255D%2526urlfix%253D1%2526adurl%253Dhttps://greatplainsblindfactory.com/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "\n                    \n                        \n                    \n                    \n                        81\u00b0\n                    \n                    \n                ",
-      "url": "/weather/?weather_zip=52801"
-    },
-    {
-      "text": "\n                                        \n        \n        \n     Log In\n                                    ",
-      "url": "https://qctimes.com/users/login/?referer_url=https%3A%2F%2Fqctimes.com%2F"
-    },
-    {
-      "text": "Subscribe $5 for 5 months",
-      "url": "https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=qctimes.com&SubscriberLevel=DOP&Return=https%3A%2F%2Fqctimes.com%2F#tracking-source=header&ir=true"
-    },
-    {
-      "text": "\n                                        \n                                        Guest\n                                    ",
-      "url": "https://qctimes.com/users/admin/"
-    },
-    {
-      "text": "Read Today's E-edition",
-      "url": "/eedition/"
-    },
-    {
-      "text": "\n                    \n                        \n                    News\n                ",
-      "url": "https://qctimes.com/news#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Local\n                                ",
-      "url": "https://qctimes.com/news/local#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    COVID-19\n                                ",
-      "url": "https://qctimes.com/resources#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Crime\n                                ",
-      "url": "https://qctimes.com/news/local/crime-and-courts#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Iowa\n                                ",
-      "url": "https://qctimes.com/news/state-and-regional/iowa#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Illinois\n                                ",
-      "url": "https://qctimes.com/news/state-and-regional/illinois#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Politics\n                                ",
-      "url": "https://qctimes.com/news/local/govt-and-politics/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Business\n                                ",
-      "url": "https://qctimes.com/business/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Mugshots\n                                ",
-      "url": "https://qctimes.com/mugshots/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    National\n                                ",
-      "url": "https://qctimes.com/news/national#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    World\n                                ",
-      "url": "https://qctimes.com/news/world/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Multimedia\n                                ",
-      "url": "https://qctimes.com/multimedia/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    News Tip\n                                ",
-      "url": "https://qctimes.com/news-tip/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    \n                        \n                    Obituaries\n                ",
-      "url": "https://qctimes.com/obituaries/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Share a story\n                                ",
-      "url": "https://qctimes.com/place_an_ad/obituaries#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Recent Obituaries\n                                ",
-      "url": "https://www.legacy.com/obituaries/qctimes/"
-    },
-    {
-      "text": "\n                                    Find an Obituary\n                                ",
-      "url": "https://m.legacy.com/obituaries/qctimes/search-obituaries.aspx"
-    },
-    {
-      "text": "\n                                    Archives\n                                ",
-      "url": "https://qctimes.com/archives#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    \n                        \n                    Opinion\n                ",
-      "url": "https://qctimes.com/opinion#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Submit a letter\n                                ",
-      "url": "https://qctimes.com/forms/contact/letter_to_the_editor/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Letters\n                                ",
-      "url": "https://qctimes.com/opinion/letters#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Editorial\n                                ",
-      "url": "https://qctimes.com/opinion/editorial#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Guest/Columnists\n                                ",
-      "url": "https://qctimes.com/opinion/columnists#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    \n                        \n                    Sports\n                ",
-      "url": "https://qctimes.com/sports#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    High School\n                                ",
-      "url": "https://qctimes.com/sports/high-school#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    College\n                                ",
-      "url": "https://qctimes.com/sports/college/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Midwest League\n                                ",
-      "url": "https://qctimes.com/sports/baseball/professional/minor/midwest-league#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Minor Hockey\n                                ",
-      "url": "https://qctimes.com/sports/hockey/professional/minor#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Live scores\n                                ",
-      "url": "https://qctimes.com/livesports#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Professional\n                                ",
-      "url": "https://qctimes.com/sports/professional/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Betting\n                                ",
-      "url": "https://qctimes.com/sports/betting/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    \n                        \n                    Entertainment\n                ",
-      "url": "https://qctimes.com/entertainment#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Arts & Theatre\n                                ",
-      "url": "https://qctimes.com/entertainment/arts-and-theatre/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Event Calendar\n                                ",
-      "url": "https://qctimes.com/events/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Food & Dining\n                                ",
-      "url": "https://qctimes.com/entertainment/dining#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Music\n                                ",
-      "url": "https://qctimes.com/entertainment/music#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Movies\n                                ",
-      "url": "https://qctimes.com/entertainment/movies#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Television\n                                ",
-      "url": "https://qctimes.com/entertainment/television/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    TV Listings\n                                ",
-      "url": "https://qctimes.com/entertainment/television/listings/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Games\n                                ",
-      "url": "https://qctimes.com/games/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Contests\n                                ",
-      "url": "https://qctimes.com/contests/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    \n                        \n                    Lifestyles\n                ",
-      "url": "https://qctimes.com/lifestyles#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Food\n                                ",
-      "url": "https://qctimes.com/lifestyles/food-and-cooking#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Parenting\n                                ",
-      "url": "https://qctimes.com/lifestyles/parenting/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Health\n                                ",
-      "url": "https://qctimes.com/lifestyles/health-med-fit#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Home & Garden\n                                ",
-      "url": "https://qctimes.com/lifestyles/home-and-garden#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Fashion\n                                ",
-      "url": "https://qctimes.com/lifestyles/fashion-and-style/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    People\n                                ",
-      "url": "https://qctimes.com/people/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Pets\n                                ",
-      "url": "https://qctimes.com/lifestyles/pets#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Faith\n                                ",
-      "url": "https://qctimes.com/lifestyles/faith-and-values/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    \n                                        \n                                    Celebrate\n                                ",
-      "url": "https://qctimes.com/announcements/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    Weather: Live radar\n                ",
-      "url": "https://qctimes.com/weather/?mode=radar#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    News tip\n                                ",
-      "url": "https://qctimes.com/news-tip/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Share video\n                                ",
-      "url": "https://www.stringr.com/xl0GIkBedMc"
-    },
-    {
-      "text": "\n                                    Send a story\n                                ",
-      "url": "https://qctimes.com/users/admin/contribute/article/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Share a photo\n                                ",
-      "url": "https://qctimes.com/users/admin/contribute/image/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    \n                        \n                    Feast and Field\n                ",
-      "url": "https://qctimes.com/lifestyles/food-and-cooking/feast-and-field/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Partners\n                                ",
-      "url": "https://qctimes.com/lifestyles/food-and-cooking/feast-and-field/partners/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    Brand Ave. Studios\n                ",
-      "url": "https://qctimes.com/brandavestudios/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    \n                        \n                    Print Edition\n                ",
-      "url": "https://qctimes.com/eedition#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    E-Edition\n                                ",
-      "url": "https://qctimes.com/eedition#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    E-Edition Archives\n                                ",
-      "url": "https://qctimes.com/news/archives/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Coupons\n                                ",
-      "url": "https://qctimes.com/coupons/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Bettendorf News\n                                ",
-      "url": "https://qctimes.com/community/bettendorf/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Insight\n                                ",
-      "url": "https://qctimes.com/insight/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Special Sections\n                                ",
-      "url": "https://qctimes.com/special-section/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    \n                        \n                    Buy & Sell\n                ",
-      "url": "https://qctimes.com/ads#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Place an Ad\n                                ",
-      "url": "https://qctimes.com/place_an_ad#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Jobs\n                                ",
-      "url": "https://qctimes.com/jobs#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Homes\n                                ",
-      "url": "https://qctimes.com/homes#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Cars\n                                ",
-      "url": "https://autos.qctimes.com/"
-    },
-    {
-      "text": "\n                                    Classifieds\n                                ",
-      "url": "https://qctimes.com/ads#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Business Directory\n                                ",
-      "url": "https://qctimes.com/places#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    I Love A Deal\n                                ",
-      "url": "https://qctimes.com/deals/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Manage Subscription\n                                ",
-      "url": "https://qctimes.com/services#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Activate Digital Subscription\n                                ",
-      "url": "https://qctimes.com/activate/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Newsletter sign-up\n                                ",
-      "url": "https://qctimes.com/newsletters#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Subscribe\n                                ",
-      "url": "https://qctimes.com/subscribenow#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Contact us\n                                ",
-      "url": "https://qctimes.com/contact#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                                    Help Center\n                                ",
-      "url": "https://qctimes.com/helpcenter/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    Mobile Apps\n                ",
-      "url": "https://qctimes.com/apps/#tracking-source=menu-nav"
-    },
-    {
-      "text": "\n                    \n                    Facebook\n                ",
-      "url": "/facebook"
-    },
-    {
-      "text": "\n                    \n                    Twitter\n                ",
-      "url": "/twitter"
-    },
-    {
-      "text": "\n                    \n                    YouTube\n                ",
-      "url": "/youtube"
-    },
-    {
-      "text": "\n                    \n                    Pinterest\n                ",
-      "url": "/pinterest"
-    },
-    {
-      "text": "\n                    \n                    Instagram\n                ",
-      "url": "/instagram"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "/terms"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "Subscribe $5 for 5 months",
-      "url": "https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=qctimes.com&SubscriberLevel=DOP&Return=https%3A%2F%2Fqctimes.com%2F#tracking-source=header&ir=true"
-    },
-    {
-      "text": "Read Today's E-Edition",
-      "url": "/eedition/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "Join",
-      "url": "https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=qctimes.com&SubscriberLevel=DOP&Return=https%3A%2F%2Fqctimes.com%2F#tracking-source=header&ir=true"
-    },
-    {
-      "text": "\n                                                    \n                                                        \n        \n        \n    \n                                                    \n                                                    Log In\n                                                ",
-      "url": "https://qctimes.com/users/login/?referer_url=https%3A%2F%2Fqctimes.com%2F"
-    },
-    {
-      "text": "My Membership",
-      "url": "https://subscriberservices.lee.net/subscriberservices/Content/AccountStatus.aspx?Domain=qctimes.com"
-    },
-    {
-      "text": "Help Center",
-      "url": "/helpcenter/"
-    },
-    {
-      "text": " Dashboard",
-      "url": "https://qctimes.com/users/admin/"
-    },
-    {
-      "text": " Profile",
-      "url": ""
-    },
-    {
-      "text": " Saved items",
-      "url": "https://qctimes.com/users/admin/list/"
-    },
-    {
-      "text": "E-Edition\n                    \n                ",
-      "url": "https://qctimes.com/eedition/#tracking-source=main-nav"
-    },
-    {
-      "text": "News\n                    \n                ",
-      "url": "https://qctimes.com/news/#tracking-source=main-nav"
-    },
-    {
-      "text": "Obituaries\n                    \n                ",
-      "url": "https://qctimes.com/obituaries/#tracking-source=main-nav"
-    },
-    {
-      "text": "Opinion\n                    \n                ",
-      "url": "https://qctimes.com/opinion/#tracking-source=main-nav"
-    },
-    {
-      "text": "Sports\n                    \n                ",
-      "url": "https://qctimes.com/sports/#tracking-source=main-nav"
-    },
-    {
-      "text": "Entertainment\n                    \n                ",
-      "url": "https://qctimes.com/entertainment/#tracking-source=main-nav"
-    },
-    {
-      "text": "Lifestyles\n                    \n                ",
-      "url": "https://qctimes.com/lifestyles/#tracking-source=main-nav"
-    },
-    {
-      "text": "Hy-Vee\n                    \n                ",
-      "url": "https://qctimes.com/hy-vee/#tracking-source=main-nav"
-    },
-    {
-      "text": "Jobs\n                    \n                ",
-      "url": "https://qctimes.com/jobs/#tracking-source=main-nav"
-    },
-    {
-      "text": "\n                                                \n                                                    \n                                                    \n                                                \n                                                \n                                                    81\u00b0\n                                                    Sunny\n                                                \n                                                \n                                            ",
-      "url": "/weather/?weather_zip=52801"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/college/basketball/summer-a-season-of-growth-for-hawkeyes-sandfort/article_b7421a2e-61e3-556a-9dec-02ea789c6173.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Summer a season of growth for Hawkeyes' Sandfort",
-      "url": "https://qctimes.com/sports/college/basketball/summer-a-season-of-growth-for-hawkeyes-sandfort/article_b7421a2e-61e3-556a-9dec-02ea789c6173.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/state-and-regional/govt-and-politics/u-s-house-passes-bill-authorizing-year-round-e15-sales-amid-record-high-gas-prices/article_f146c130-6f72-5a26-b6ef-52cfd83d92a1.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            U.S. House passes bill authorizing year-round E15 sales amid record high gas prices",
-      "url": "https://qctimes.com/news/state-and-regional/govt-and-politics/u-s-house-passes-bill-authorizing-year-round-e15-sales-amid-record-high-gas-prices/article_f146c130-6f72-5a26-b6ef-52cfd83d92a1.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/national/cdc-recommends-covid-19-shots-for-children-under-5/article_47fba84f-fb16-5884-b9bf-544fad979c5a.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            CDC recommends COVID-19 shots for children under 5",
-      "url": "https://qctimes.com/news/national/cdc-recommends-covid-19-shots-for-children-under-5/article_47fba84f-fb16-5884-b9bf-544fad979c5a.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/during-the-civil-war-a-regiment-of-black-soldiers-guarded-confederate-prisoners-in-rock-island/article_04a506bb-ae66-540b-b533-27e9f20d6cd7.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            During the Civil War, a regiment of Black soldiers guarded confederate prisoners in Rock Island. One soldier's descendant helps keep the history alive.",
-      "url": "https://qctimes.com/news/local/during-the-civil-war-a-regiment-of-black-soldiers-guarded-confederate-prisoners-in-rock-island/article_04a506bb-ae66-540b-b533-27e9f20d6cd7.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/pregracke-first-bison-bridge-workshop-inspiring/article_1a2feabf-85cc-50da-b4f0-438218bf7606.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Pregracke: First Bison Bridge workshop, 'Inspiring'",
-      "url": "https://qctimes.com/news/local/pregracke-first-bison-bridge-workshop-inspiring/article_1a2feabf-85cc-50da-b4f0-438218bf7606.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/national/government-and-politics/bidens-optimism-collides-with-mounting-political-challenges/article_324b2f30-c264-529b-b0fa-2509f64caa99.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Biden's optimism collides with mounting political challenges",
-      "url": "https://qctimes.com/news/national/government-and-politics/bidens-optimism-collides-with-mounting-political-challenges/article_324b2f30-c264-529b-b0fa-2509f64caa99.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/crime-and-courts/rock-island-county-states-attorney-files-civil-contempt-against-states-dhs-director/article_02dcca6f-8458-519f-8e23-c305cbe0c9ad.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Rock Island County State's Attorney files civil contempt against state's DHS director",
-      "url": "https://qctimes.com/news/local/crime-and-courts/rock-island-county-states-attorney-files-civil-contempt-against-states-dhs-director/article_02dcca6f-8458-519f-8e23-c305cbe0c9ad.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/baseball/professional/minor/midwest-league/photos-river-bandits-fall-to-south-bend-cubs-14-7/collection_5124110f-f28c-5b91-ab3d-c4ef8d50474e.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Photos: River Bandits fall to South Bend Cubs, 14-7",
-      "url": "https://qctimes.com/sports/baseball/professional/minor/midwest-league/photos-river-bandits-fall-to-south-bend-cubs-14-7/collection_5124110f-f28c-5b91-ab3d-c4ef8d50474e.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/baseball/professional/minor/midwest-league/bandits-blow-out-ends-on-an-up-note/article_9d6da8bb-ce7e-547d-b488-e5396a451055.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Bandits blow out ends on an up note",
-      "url": "https://qctimes.com/sports/baseball/professional/minor/midwest-league/bandits-blow-out-ends-on-an-up-note/article_9d6da8bb-ce7e-547d-b488-e5396a451055.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/high-school/baseball/young-north-scott-offense-break-out-in-win-over-camanche/article_4b9ec6f2-e4a8-5266-a483-683fc7ef86f5.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Young, North Scott offense break out in win over Camanche",
-      "url": "https://qctimes.com/sports/high-school/baseball/young-north-scott-offense-break-out-in-win-over-camanche/article_4b9ec6f2-e4a8-5266-a483-683fc7ef86f5.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/football/professional/steamwheelers/ifl-wheelers-close-strong-to-complete-three-game-sweep-of-bucks/article_198467c8-1508-56ed-b458-920c8cd10d1b.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            IFL: Wheelers close strong to complete three-game sweep of Bucks",
-      "url": "https://qctimes.com/sports/football/professional/steamwheelers/ifl-wheelers-close-strong-to-complete-three-game-sweep-of-bucks/article_198467c8-1508-56ed-b458-920c8cd10d1b.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/hockey/professional/i-want-to-show-kids-they-can-chase-their-dream-toporowski-prepares-for-ahl-opportunity/article_35158460-108a-5f9f-845c-174ce65787d0.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            'I want to show kids they can chase their dream': Toporowski prepares for AHL opportunity",
-      "url": "https://qctimes.com/sports/hockey/professional/i-want-to-show-kids-they-can-chase-their-dream-toporowski-prepares-for-ahl-opportunity/article_35158460-108a-5f9f-845c-174ce65787d0.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/crime-and-courts/davenport-woman-sentenced-to-10-years-in-prison-for-beating-another-woman-with-tire-iron/article_955b353c-9977-58b4-b1a4-e5d19128b5f7.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Davenport woman sentenced to 10 years in prison for beating another woman with tire iron",
-      "url": "https://qctimes.com/news/local/crime-and-courts/davenport-woman-sentenced-to-10-years-in-prison-for-beating-another-woman-with-tire-iron/article_955b353c-9977-58b4-b1a4-e5d19128b5f7.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/govt-and-politics/future-of-drop-off-recycling-could-be-determined-tuesday-when-rock-island-county-waste-management/article_6b7fdb31-bd3d-5e5f-b01c-238687bdb2c0.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Future of drop-off recycling could be determined Tuesday when Rock Island County Waste Management Agency sets budget",
-      "url": "https://qctimes.com/news/local/govt-and-politics/future-of-drop-off-recycling-could-be-determined-tuesday-when-rock-island-county-waste-management/article_6b7fdb31-bd3d-5e5f-b01c-238687bdb2c0.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/crime-and-courts/riverdale-man-sentenced-to-10-years-in-iowa-prison/article_6c262ebe-f967-5535-b04d-c35ebfdb9cf5.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Riverdale man sentenced to 10 years in Iowa prison",
-      "url": "https://qctimes.com/news/local/crime-and-courts/riverdale-man-sentenced-to-10-years-in-iowa-prison/article_6c262ebe-f967-5535-b04d-c35ebfdb9cf5.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/crime-and-courts/riverdale-man-sentenced-to-10-years-in-iowa-prison/article_8689c648-6efd-5e49-b43c-d1af3a1f1016.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Riverdale man sentenced to 10 years in Iowa prison",
-      "url": "https://qctimes.com/news/local/crime-and-courts/riverdale-man-sentenced-to-10-years-in-iowa-prison/article_8689c648-6efd-5e49-b43c-d1af3a1f1016.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/govt-and-politics/moline-council-members-hoping-to-reinvest-in-illinois-route-92-corridor/article_88df6fc9-a769-55d7-a86c-8ef7c68d0e5f.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Moline Council members hoping to reinvest in Illinois Route 92 corridor",
-      "url": "https://qctimes.com/news/local/govt-and-politics/moline-council-members-hoping-to-reinvest-in-illinois-route-92-corridor/article_88df6fc9-a769-55d7-a86c-8ef7c68d0e5f.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/looking-for-a-job-iowaworks-is-hosting-a-weekly-job-fair-every-monday/article_db918572-acea-54e3-b896-74b35ab7d887.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Looking for a job? IowaWORKS is hosting a weekly job fair every Monday",
-      "url": "https://qctimes.com/news/looking-for-a-job-iowaworks-is-hosting-a-weekly-job-fair-every-monday/article_db918572-acea-54e3-b896-74b35ab7d887.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/crime-and-courts/rock-island-county-states-attorney-files-civil-contempt-against-states-dhs-director/article_be9481f6-9249-50a3-a5e0-7a767cd2b1ee.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Rock Island County State's Attorney files civil contempt against state's DHS director",
-      "url": "https://qctimes.com/news/local/crime-and-courts/rock-island-county-states-attorney-files-civil-contempt-against-states-dhs-director/article_be9481f6-9249-50a3-a5e0-7a767cd2b1ee.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/a-best-of-both-worlds-merger-griggs-music-in-davenport-and-west-music-in-moline/article_741d4fee-1cbf-597a-8004-291ab1a45c1c.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            A 'best of both worlds' merger: Griggs Music in Davenport and West Music in Moline to merge July 1",
-      "url": "https://qctimes.com/news/local/a-best-of-both-worlds-merger-griggs-music-in-davenport-and-west-music-in-moline/article_741d4fee-1cbf-597a-8004-291ab1a45c1c.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/a-best-of-both-worlds-merger-griggs-music-in-davenport-and-west-music-in-moline/article_49f31389-6347-5dfb-8786-086f466f914e.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            A 'best of both worlds' merger: Griggs Music in Davenport and West Music in Moline to merge July 1",
-      "url": "https://qctimes.com/news/local/a-best-of-both-worlds-merger-griggs-music-in-davenport-and-west-music-in-moline/article_49f31389-6347-5dfb-8786-086f466f914e.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/college/basketball/hawkeyes-ash-transfers-to-the-citadel/article_28e43cd9-e5f8-5d94-8c5c-aa652c7fce65.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Hawkeyes' Ash transfers to The Citadel",
-      "url": "https://qctimes.com/sports/college/basketball/hawkeyes-ash-transfers-to-the-citadel/article_28e43cd9-e5f8-5d94-8c5c-aa652c7fce65.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/state-and-regional/iowa/iowa-court-abortion-not-protected-by-state-constitution/article_6e12847f-2abd-5728-98d6-ad4e208ba916.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Iowa court: Abortion not protected by state constitution",
-      "url": "https://qctimes.com/news/state-and-regional/iowa/iowa-court-abortion-not-protected-by-state-constitution/article_6e12847f-2abd-5728-98d6-ad4e208ba916.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/lifestyles/john_marx/marx-id-buy-a-new-car-just-for-the-full-tank-of-gas/article_a01895cd-32d3-50ef-bf0f-51eed325b4e7.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            MARX: I'd buy a new car just for the full tank of gas",
-      "url": "https://qctimes.com/lifestyles/john_marx/marx-id-buy-a-new-car-just-for-the-full-tank-of-gas/article_a01895cd-32d3-50ef-bf0f-51eed325b4e7.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/high-school/baseball/blue-devils-sabers-split-marathon-doubleheader/article_8c5107a0-2453-5f54-81f0-1dc169ed45eb.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Blue Devils, Sabers split marathon doubleheader",
-      "url": "https://qctimes.com/sports/high-school/baseball/blue-devils-sabers-split-marathon-doubleheader/article_8c5107a0-2453-5f54-81f0-1dc169ed45eb.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/baseball/professional/minor/midwest-league/bandits-score-eight-runs-again-this-time-in-a-win/article_5b4d648c-d78e-5b5a-a459-8e67de109d92.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Bandits score eight runs again, this time in a win",
-      "url": "https://qctimes.com/sports/baseball/professional/minor/midwest-league/bandits-score-eight-runs-again-this-time-in-a-win/article_5b4d648c-d78e-5b5a-a459-8e67de109d92.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/high-school/baseball/spartans-sweep-their-way-into-mac-baseball-lead/article_fb403a7a-c23e-55a4-bc8b-0d6b83e6cc73.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Spartans sweep their way into MAC baseball lead",
-      "url": "https://qctimes.com/sports/high-school/baseball/spartans-sweep-their-way-into-mac-baseball-lead/article_fb403a7a-c23e-55a4-bc8b-0d6b83e6cc73.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/govt-and-politics/elections/in-a-county-election-determined-by-7-votes-42-mail-in-ballots-were-rejected-that/article_739f5cad-db06-501a-8105-bef6188997c0.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            In a county election determined by 7 votes, 42 mail-in ballots were rejected that would've counted under Iowa's prior election laws",
-      "url": "https://qctimes.com/news/local/govt-and-politics/elections/in-a-county-election-determined-by-7-votes-42-mail-in-ballots-were-rejected-that/article_739f5cad-db06-501a-8105-bef6188997c0.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                    Article-video\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/golf/watch-now-a-big-day-for-highland-springs-first-tee-programs/article_ad4a1245-c63b-5119-81b1-2100f0ec5936.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Watch now: A big day for Highland Springs, First Tee programs",
-      "url": "https://qctimes.com/sports/golf/watch-now-a-big-day-for-highland-springs-first-tee-programs/article_ad4a1245-c63b-5119-81b1-2100f0ec5936.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/crime-and-courts/police-locate-more-than-5-grams-of-meth-on-man-arrested-for-stealing-a-bicycle/article_076ebe19-6bd8-5350-9938-8f2b351b98cd.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n        \n        \n            Police locate more than 5 grams of meth on man arrested for stealing a bicycle",
-      "url": "https://qctimes.com/news/local/crime-and-courts/police-locate-more-than-5-grams-of-meth-on-man-arrested-for-stealing-a-bicycle/article_076ebe19-6bd8-5350-9938-8f2b351b98cd.html#tracking-source=home-top-story"
-    },
-    {
-      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/quad-cities-neighbors-obituaries-for-june-18/collection_63ad2b4f-e381-5835-b151-49981def8ca2.html#tracking-source=mp-homepage"
-    },
-    {
-      "text": "\n        \n        \n            Quad-Cities neighbors: Obituaries for June 18",
-      "url": "https://qctimes.com/news/local/quad-cities-neighbors-obituaries-for-june-18/collection_63ad2b4f-e381-5835-b151-49981def8ca2.html#tracking-source=mp-homepage"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/crime-and-courts/davenport-woman-sentenced-to-10-years-in-prison-for-beating-another-woman-with-tire-iron/article_955b353c-9977-58b4-b1a4-e5d19128b5f7.html#tracking-source=mp-homepage"
-    },
-    {
-      "text": "\n        \n        \n            Davenport woman sentenced to 10 years in prison for beating another woman with tire iron",
-      "url": "https://qctimes.com/news/local/crime-and-courts/davenport-woman-sentenced-to-10-years-in-prison-for-beating-another-woman-with-tire-iron/article_955b353c-9977-58b4-b1a4-e5d19128b5f7.html#tracking-source=mp-homepage"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/local/whiteys-ice-cream-presents-cones-for-kids/article_fd577019-2193-52a7-80eb-38e68a8395a5.html#tracking-source=mp-homepage"
-    },
-    {
-      "text": "\n        \n        \n            Whitey's Ice Cream presents Cones for Kids",
-      "url": "https://qctimes.com/news/local/whiteys-ice-cream-presents-cones-for-kids/article_fd577019-2193-52a7-80eb-38e68a8395a5.html#tracking-source=mp-homepage"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/state-and-regional/govt-and-politics/reynolds-ok-s-changes-to-iowa-s-recycling-law/article_6c025598-aa21-5062-a8be-e0046c6b78eb.html#tracking-source=home-the-latest"
-    },
-    {
-      "text": "\n        \n        \n            Reynolds OK\u2019s changes to Iowa\u2019s recycling law",
-      "url": "https://qctimes.com/news/state-and-regional/govt-and-politics/reynolds-ok-s-changes-to-iowa-s-recycling-law/article_6c025598-aa21-5062-a8be-e0046c6b78eb.html#tracking-source=home-the-latest"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/state-and-regional/crime-and-courts/california-pair-charged-with-smuggling-drugs-to-5-states/article_41f13204-b875-5fe0-a591-a1e89b6e6a81.html#tracking-source=home-the-latest"
-    },
-    {
-      "text": "\n        \n        \n            California pair charged with smuggling drugs to 5 states",
-      "url": "https://qctimes.com/news/state-and-regional/crime-and-courts/california-pair-charged-with-smuggling-drugs-to-5-states/article_41f13204-b875-5fe0-a591-a1e89b6e6a81.html#tracking-source=home-the-latest"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/state-and-regional/lifeguard-shortage-delays-chicago-pool-openings-until-july-5/article_bcf9a31d-333e-587f-9f60-a1f135256e76.html#tracking-source=home-the-latest"
-    },
-    {
-      "text": "\n        \n        \n            Lifeguard shortage delays Chicago pool openings until July 5",
-      "url": "https://qctimes.com/news/state-and-regional/lifeguard-shortage-delays-chicago-pool-openings-until-july-5/article_bcf9a31d-333e-587f-9f60-a1f135256e76.html#tracking-source=home-the-latest"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/state-and-regional/govt-and-politics/trump-factor-hangs-heavy-in-downstate-illinois-race-for-congress/article_9d159371-3dd2-5677-8ca5-68b26b04c7da.html#tracking-source=home-the-latest"
-    },
-    {
-      "text": "\n        \n        \n            Trump factor hangs heavy in downstate Illinois race for Congress",
-      "url": "https://qctimes.com/news/state-and-regional/govt-and-politics/trump-factor-hangs-heavy-in-downstate-illinois-race-for-congress/article_9d159371-3dd2-5677-8ca5-68b26b04c7da.html#tracking-source=home-the-latest"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/members/promo/subscriber/give-your-brain-a-boost-with-our-games-puzzles/article_da715831-8662-5046-abb1-d6e8fb417f51.html#tracking-source=home-promo"
-    },
-    {
-      "text": "\n        \n        \n            Give your brain a boost with our Games & Puzzles!",
-      "url": "https://qctimes.com/members/promo/subscriber/give-your-brain-a-boost-with-our-games-puzzles/article_da715831-8662-5046-abb1-d6e8fb417f51.html#tracking-source=home-promo"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/members/promo/email/get-something-adorable-in-your-inbox-every-week-with-our-pets-newsletter/article_04cc99c3-6e55-5050-83b2-f6a421d41537.html#tracking-source=home-promo"
-    },
-    {
-      "text": "\n        \n        \n            Get something adorable in your inbox every week with our Pets Newsletter!",
-      "url": "https://qctimes.com/members/promo/email/get-something-adorable-in-your-inbox-every-week-with-our-pets-newsletter/article_04cc99c3-6e55-5050-83b2-f6a421d41537.html#tracking-source=home-promo"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/members/promo/email/see-the-latest-local-crime-courts-news-weekly-with-our-newsletter-sign-up/article_b0dd4913-0138-5320-9862-c7b4a1b9a60e.html#tracking-source=home-promo"
-    },
-    {
-      "text": "\n        \n        \n            See the latest local crime & courts news weekly with our newsletter. Sign up:",
-      "url": "https://qctimes.com/members/promo/email/see-the-latest-local-crime-courts-news-weekly-with-our-newsletter-sign-up/article_b0dd4913-0138-5320-9862-c7b4a1b9a60e.html#tracking-source=home-promo"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/members/promo/email/we-deliver-to-email-get-the-latest-local-headlines-more/article_b5055ec5-016f-57db-b4c2-9bee16bbe446.html#tracking-source=home-promo"
-    },
-    {
-      "text": "\n        \n        \n            We deliver to email! Get the latest local headlines & more:",
-      "url": "https://qctimes.com/members/promo/email/we-deliver-to-email-get-the-latest-local-headlines-more/article_b5055ec5-016f-57db-b4c2-9bee16bbe446.html#tracking-source=home-promo"
-    },
-    {
-      "text": "\n                \n                Latest Video\n                \n                    ",
-      "url": "/video/"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "/news/national/biden-confident-about-future-despite-mounting-political-challenges/video_925fdd59-4c92-5617-9f1c-9f50cc69d9b0.html"
-    },
-    {
-      "text": "\n        \n        \n            Biden confident about future despite mounting political challenges",
-      "url": "/news/national/biden-confident-about-future-despite-mounting-political-challenges/video_925fdd59-4c92-5617-9f1c-9f50cc69d9b0.html"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "/news/national/biden-confident-about-future-despite-mounting-political-challenges/video_5421de94-240c-51a9-ad37-1eddea74c1c8.html"
-    },
-    {
-      "text": "\n        \n        \n            Biden confident about future despite mounting political challenges",
-      "url": "/news/national/biden-confident-about-future-despite-mounting-political-challenges/video_5421de94-240c-51a9-ad37-1eddea74c1c8.html"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "/news/national/wealthy-dad-acquitted-in-final-trial-of-college-admissions-bribery-scandal/video_85ca37c3-71f6-558e-b7d8-a549f9c532ef.html"
-    },
-    {
-      "text": "\n        \n        \n            Wealthy dad acquitted in final trial of college admissions bribery scandal",
-      "url": "/news/national/wealthy-dad-acquitted-in-final-trial-of-college-admissions-bribery-scandal/video_85ca37c3-71f6-558e-b7d8-a549f9c532ef.html"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "/entertainment/wwes-vince-mcmahon-steps-back-from-ceo-roles-amid-misconduct-probe/video_42731bdc-1feb-513c-8eb5-ce0e4ff42d74.html"
-    },
-    {
-      "text": "\n        \n        \n            WWE's Vince McMahon 'steps back' from CEO roles amid misconduct probe",
-      "url": "/entertainment/wwes-vince-mcmahon-steps-back-from-ceo-roles-amid-misconduct-probe/video_42731bdc-1feb-513c-8eb5-ce0e4ff42d74.html"
-    },
-    {
-      "text": "\n                \n                Sports\n                \n                    ",
-      "url": "https://qctimes.com/sports/#tracking-source=home-sports"
-    },
-    {
-      "text": "\n                \n                \n                    Article-video\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/college/illini/watch-now-initial-bad-fortune-sent-shauna-green-down-path-to-become-illinois-coach/article_25f1a5a4-43c7-557c-a993-d528ac302c2b.html#tracking-source=home-sports"
-    },
-    {
-      "text": "\n        \n        \n            Watch now: Initial bad fortune sent Shauna Green down path to become Illinois' coach",
-      "url": "https://qctimes.com/sports/college/illini/watch-now-initial-bad-fortune-sent-shauna-green-down-path-to-become-illinois-coach/article_25f1a5a4-43c7-557c-a993-d528ac302c2b.html#tracking-source=home-sports"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/betting/saturday-at-the-country-club-wagers-and-matches-to-watch-in-third-round-of-u/article_9c41e2f7-3e00-5635-8f33-1b83b4df707e.html#tracking-source=home-sports"
-    },
-    {
-      "text": "\n        \n        \n            Saturday at The Country Club: Wagers and matches to watch in third round of U.S. Open",
-      "url": "https://qctimes.com/sports/betting/saturday-at-the-country-club-wagers-and-matches-to-watch-in-third-round-of-u/article_9c41e2f7-3e00-5635-8f33-1b83b4df707e.html#tracking-source=home-sports"
-    },
-    {
-      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/football/professional/steamwheelers/photos-steamwheelers-outlast-bucks-46-36/collection_6c40222e-d2f1-5c70-860f-9f8baf5295b0.html#tracking-source=home-sports"
-    },
-    {
-      "text": "\n        \n        \n            Photos: Steamwheelers outlast Bucks, 46-36",
-      "url": "https://qctimes.com/sports/football/professional/steamwheelers/photos-steamwheelers-outlast-bucks-46-36/collection_6c40222e-d2f1-5c70-860f-9f8baf5295b0.html#tracking-source=home-sports"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/high-school/baseball/knights-finish-what-they-started-to-stay-tied-for-mac-lead/article_45511e99-4e1d-5a05-b5f6-c7b9f94926f5.html#tracking-source=home-sports"
-    },
-    {
-      "text": "\n        \n        \n            Knights finish what they started to stay tied for MAC lead",
-      "url": "https://qctimes.com/sports/high-school/baseball/knights-finish-what-they-started-to-stay-tied-for-mac-lead/article_45511e99-4e1d-5a05-b5f6-c7b9f94926f5.html#tracking-source=home-sports"
-    },
-    {
-      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/weather/listen-to-across-the-sky-podcast-episode10-coming-soon/article_2e48e9dc-a8e8-5a5c-86b4-7c22811cac42.html#tracking-source=home-audio"
-    },
-    {
-      "text": "\n        \n        \n            Listen to Across the Sky podcast; episode10 coming soon!",
-      "url": "https://qctimes.com/weather/listen-to-across-the-sky-podcast-episode10-coming-soon/article_2e48e9dc-a8e8-5a5c-86b4-7c22811cac42.html#tracking-source=home-audio"
-    },
-    {
-      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/need-extra-cash-this-summer-try-these-proven-yard-sale-tips-pennywise-podcast/article_50e6fb49-6f4a-5888-b435-92dcfeffbda3.html#tracking-source=home-audio"
-    },
-    {
-      "text": "\n        \n        \n            Need extra cash this summer? Try these proven yard sale tips | PennyWise podcast",
-      "url": "https://qctimes.com/need-extra-cash-this-summer-try-these-proven-yard-sale-tips-pennywise-podcast/article_50e6fb49-6f4a-5888-b435-92dcfeffbda3.html#tracking-source=home-audio"
-    },
-    {
-      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/why-dont-we-do-more-to-reduce-alcohol-related-deaths-the-ethical-life-podcast/article_9108a72e-120c-55ec-844c-8d940ce2bf08.html#tracking-source=home-audio"
-    },
-    {
-      "text": "\n        \n        \n            Why don't we do more to reduce alcohol-related deaths? | The Ethical Life podcast",
-      "url": "https://qctimes.com/why-dont-we-do-more-to-reduce-alcohol-related-deaths-the-ethical-life-podcast/article_9108a72e-120c-55ec-844c-8d940ce2bf08.html#tracking-source=home-audio"
-    },
-    {
-      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/jurassic-world-dinos-dominate-with-pixar-prequel-lightyear-in-the-wings-streamed-screened-podcast/article_1b4fc254-ff79-55e7-bec6-6a4c66716ad0.html#tracking-source=home-audio"
-    },
-    {
-      "text": "\n        \n        \n            'Jurassic World' dinos dominate with Pixar prequel 'Lightyear' in the wings | Streamed & Screened podcast",
-      "url": "https://qctimes.com/jurassic-world-dinos-dominate-with-pixar-prequel-lightyear-in-the-wings-streamed-screened-podcast/article_1b4fc254-ff79-55e7-bec6-6a4c66716ad0.html#tracking-source=home-audio"
-    },
-    {
-      "text": "\n                \n                Entertainment\n                \n                    ",
-      "url": "https://qctimes.com/entertainment/#tracking-source=home-entertainment"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/entertainment/wwes-vince-mcmahon-steps-back-from-ceo-roles-amid-misconduct-probe/video_42731bdc-1feb-513c-8eb5-ce0e4ff42d74.html#tracking-source=home-entertainment"
-    },
-    {
-      "text": "\n        \n        \n            WWE's Vince McMahon 'steps back' from CEO roles amid misconduct probe",
-      "url": "https://qctimes.com/entertainment/wwes-vince-mcmahon-steps-back-from-ceo-roles-amid-misconduct-probe/video_42731bdc-1feb-513c-8eb5-ce0e4ff42d74.html#tracking-source=home-entertainment"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/entertainment/television/kit-harington-set-to-star-in-a-game-of-thrones-spin-off-sequel/video_4ffff55f-f19a-57e2-8ad0-4886bb255188.html#tracking-source=home-entertainment"
-    },
-    {
-      "text": "\n        \n        \n            Kit Harington set to star in a 'Game of Thrones' spin-off sequel",
-      "url": "https://qctimes.com/entertainment/television/kit-harington-set-to-star-in-a-game-of-thrones-spin-off-sequel/video_4ffff55f-f19a-57e2-8ad0-4886bb255188.html#tracking-source=home-entertainment"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/entertainment/television/chris-rock-and-dwayne-the-rock-johnson-were-asked-to-host-the-2022-emmy-awards/video_25b61a33-3764-56b2-8173-18ed0c9919b5.html#tracking-source=home-entertainment"
-    },
-    {
-      "text": "\n        \n        \n            Chris Rock and Dwayne 'The Rock Johnson' were asked to host the 2022 Emmy Awards",
-      "url": "https://qctimes.com/entertainment/television/chris-rock-and-dwayne-the-rock-johnson-were-asked-to-host-the-2022-emmy-awards/video_25b61a33-3764-56b2-8173-18ed0c9919b5.html#tracking-source=home-entertainment"
-    },
-    {
-      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/entertainment/top-country-music-video-from-every-year-since-1984/collection_229c86f1-7c5d-5253-8e31-a03191f844a4.html#tracking-source=home-entertainment"
-    },
-    {
-      "text": "\n        \n        \n            Top country music video from every year since 1984",
-      "url": "https://qctimes.com/entertainment/top-country-music-video-from-every-year-since-1984/collection_229c86f1-7c5d-5253-8e31-a03191f844a4.html#tracking-source=home-entertainment"
-    },
-    {
-      "text": "\n                \n                Latest Galleries\n                \n                    ",
-      "url": "https://qctimes.com/gallery/#tracking-source=home-galleries"
-    },
-    {
-      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/archives/today-in-history-june-18/collection_a9e18102-50e9-5e8a-ab63-ea327bd2a7bc.html#tracking-source=home-galleries"
-    },
-    {
-      "text": "\n        \n        \n            Today in history: June 18",
-      "url": "https://qctimes.com/news/archives/today-in-history-june-18/collection_a9e18102-50e9-5e8a-ab63-ea327bd2a7bc.html#tracking-source=home-galleries"
-    },
-    {
-      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/archives/celebrity-birthdays-june-18/collection_35e8fa53-26b7-500b-85d2-c23dae6e1692.html#tracking-source=home-galleries"
-    },
-    {
-      "text": "\n        \n        \n            Celebrity Birthdays: June 18",
-      "url": "https://qctimes.com/news/archives/celebrity-birthdays-june-18/collection_35e8fa53-26b7-500b-85d2-c23dae6e1692.html#tracking-source=home-galleries"
-    },
-    {
-      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/news/archives/today-in-sports-history-june-18/collection_07af4156-5c6e-5d80-86fc-d6a30dcdb9be.html#tracking-source=home-galleries"
-    },
-    {
-      "text": "\n        \n        \n            Today in sports history: June 18",
-      "url": "https://qctimes.com/news/archives/today-in-sports-history-june-18/collection_07af4156-5c6e-5d80-86fc-d6a30dcdb9be.html#tracking-source=home-galleries"
-    },
-    {
-      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/sports/football/professional/steamwheelers/photos-steamwheelers-outlast-bucks-46-36/collection_6c40222e-d2f1-5c70-860f-9f8baf5295b0.html#tracking-source=home-galleries"
-    },
-    {
-      "text": "\n        \n        \n            Photos: Steamwheelers outlast Bucks, 46-36",
-      "url": "https://qctimes.com/sports/football/professional/steamwheelers/photos-steamwheelers-outlast-bucks-46-36/collection_6c40222e-d2f1-5c70-860f-9f8baf5295b0.html#tracking-source=home-galleries"
-    },
-    {
-      "text": "\n                \n                Local Businesses\n                \n                    ",
-      "url": "https://qctimes.com/places/#tracking-source=home-businesses"
-    },
-    {
-      "text": "\n        \n        \n            Schwarz Roofing & Gutters",
-      "url": "https://qctimes.com/places/schwarz-roofing-gutters/business_4000153445.html#tracking-source=home-businesses"
-    },
-    {
-      "text": "\n                                        2526 W 49TH ST., Davenport, IA 52806\n                                    ",
-      "url": "https://www.google.com/maps/dir//2526%20W%2049TH%20ST.%2BDavenport%2BIA%2B52806"
-    },
-    {
-      "text": "\n                    \n        \n                        \n    \n\n                        ",
-      "url": "https://qctimes.com/places/local_services/funeral_services_cemeteries/pape-funeral-home/business_1143120579.html#tracking-source=home-businesses"
-    },
-    {
-      "text": "\n        \n        \n            Pape Funeral Home",
-      "url": "https://qctimes.com/places/local_services/funeral_services_cemeteries/pape-funeral-home/business_1143120579.html#tracking-source=home-businesses"
-    },
-    {
-      "text": "\n                                        2308 Pershing Blvd, Clinton, IA 52732\n                                    ",
-      "url": "https://www.google.com/maps/dir//2308%20Pershing%20Blvd%2BClinton%2BIA%2B52732"
-    },
-    {
-      "text": "\n                             Website\n                        ",
-      "url": "http://www.papefh.com/"
-    },
-    {
-      "text": "\n        \n        \n            Martin Agency Insurance Services Inc",
-      "url": "https://qctimes.com/places/finance/insurance_carriers/miscellaneous_insurance_carriers/martin-agency-insurance-services-inc/business_3922001079.html#tracking-source=home-businesses"
-    },
-    {
-      "text": "\n                                        102 E 3rd St, West Liberty, IA 52776\n                                    ",
-      "url": "https://www.google.com/maps/dir//102%20E%203rd%20St%2BWest%20Liberty%2BIA%2B52776"
-    },
-    {
-      "text": "\n                             Website\n                        ",
-      "url": "http://martinagencyinsuranceservices.com"
-    },
-    {
-      "text": "\n                \n                Latest Local Offers\n                \n                    ",
-      "url": "https://qctimes.com/places/?ref=offers#tracking-source=local-offers"
-    },
-    {
-      "text": "\n        \n        \n            FREE Quotes for Quality Work at an Affordable Price. Call KK Construction for work Done Right the First Time.  5% OFF for Military Veterans!",
-      "url": "https://qctimes.com/ads/service/free-quotes-for-quality-work-at-an-affordable-price-call-kk-construction-for-work-done/ad_95b0b048-071e-11ea-8109-d339356a9d6a.html#tracking-source=local-offers"
-    },
-    {
-      "text": "\n        \n        \n            Easy-to-care for furniture from Hilltop Mini Buildings and Lawn Decor!",
-      "url": "https://qctimes.com/ads/service/easy-to-care-for-furniture-from-hilltop-mini-buildings-and-lawn-decor/ad_483023b2-071e-11ea-92f8-87247f627f22.html#tracking-source=local-offers"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/service/home/construction/john-deere-wage-training---ad-from-2022-06-12/pdfdisplayad_ea96a5d7-a28c-5390-8de3-f490d5ee0e89.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            John Deere Wage & Training - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/service/home/construction/john-deere-wage-training---ad-from-2022-06-12/pdfdisplayad_ea96a5d7-a28c-5390-8de3-f490d5ee0e89.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/sale/dillards---ad-from-2022-06-15/pdfdisplayad_832ee5d0-1451-505a-ab58-bbe562ed9ff6.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            DILLARDS - Ad from 2022-06-15",
-      "url": "https://qctimes.com/ads/sale/dillards---ad-from-2022-06-15/pdfdisplayad_832ee5d0-1451-505a-ab58-bbe562ed9ff6.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/housing/sale/remax-rivers-cities---bill-gluba---ad-from-2022-06-12/pdfdisplayad_574bc45d-7bd8-5eb7-ae3a-dbd69b802d35.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            Remax Rivers Cities - Bill Gluba - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/housing/sale/remax-rivers-cities---bill-gluba---ad-from-2022-06-12/pdfdisplayad_574bc45d-7bd8-5eb7-ae3a-dbd69b802d35.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/service/office/sullivan-auctioneers---ad-from-2022-06-12/pdfdisplayad_264ba69d-9e8b-5809-b435-ea3b9ba535f4.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            SULLIVAN AUCTIONEERS - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/service/office/sullivan-auctioneers---ad-from-2022-06-12/pdfdisplayad_264ba69d-9e8b-5809-b435-ea3b9ba535f4.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/housing/sale/edward-jones---tim-lane---ad-from-2022-06-12/pdfdisplayad_bdcc0fd0-0e58-5bc0-9095-4b5a49b211c4.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            EDWARD JONES - TIM LANE - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/housing/sale/edward-jones---tim-lane---ad-from-2022-06-12/pdfdisplayad_bdcc0fd0-0e58-5bc0-9095-4b5a49b211c4.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/other/hiland-toyota---ad-from-2022-06-18/pdfdisplayad_a6c8334b-d3db-5e86-8368-e5c51038c649.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            HILAND TOYOTA - Ad from 2022-06-18",
-      "url": "https://qctimes.com/ads/other/hiland-toyota---ad-from-2022-06-18/pdfdisplayad_a6c8334b-d3db-5e86-8368-e5c51038c649.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/service/office/community-action-of-eastern-ia---ad-from-2022-06-12/pdfdisplayad_691f6d2a-73c4-540b-ae22-99bb529126ef.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            COMMUNITY ACTION OF EASTERN IA - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/service/office/community-action-of-eastern-ia---ad-from-2022-06-12/pdfdisplayad_691f6d2a-73c4-540b-ae22-99bb529126ef.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/service/finance/accountant/cribbs-landscaping---ad-from-2022-06-16/pdfdisplayad_574f0ff4-7f42-5201-ad9f-48a0f9dd6720.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            CRIBBS LANDSCAPING - Ad from 2022-06-16",
-      "url": "https://qctimes.com/ads/service/finance/accountant/cribbs-landscaping---ad-from-2022-06-16/pdfdisplayad_574f0ff4-7f42-5201-ad9f-48a0f9dd6720.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/sale/tyson-foods---ad-from-2022-06-12/pdfdisplayad_a428dc36-e977-5fc3-8eef-7ecef019cab6.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            TYSON FOODS - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/sale/tyson-foods---ad-from-2022-06-12/pdfdisplayad_a428dc36-e977-5fc3-8eef-7ecef019cab6.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/other/treadmill-heroes---ad-from-2022-06-12/pdfdisplayad_91b065fc-8b85-58f8-ad72-c729acf58cb0.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            Treadmill Heroes - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/other/treadmill-heroes---ad-from-2022-06-12/pdfdisplayad_91b065fc-8b85-58f8-ad72-c729acf58cb0.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/service/home/construction/john-deere-wage-training---ad-from-2022-06-12/pdfdisplayad_ea96a5d7-a28c-5390-8de3-f490d5ee0e89.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            John Deere Wage & Training - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/service/home/construction/john-deere-wage-training---ad-from-2022-06-12/pdfdisplayad_ea96a5d7-a28c-5390-8de3-f490d5ee0e89.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/sale/dillards---ad-from-2022-06-15/pdfdisplayad_832ee5d0-1451-505a-ab58-bbe562ed9ff6.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            DILLARDS - Ad from 2022-06-15",
-      "url": "https://qctimes.com/ads/sale/dillards---ad-from-2022-06-15/pdfdisplayad_832ee5d0-1451-505a-ab58-bbe562ed9ff6.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/housing/sale/remax-rivers-cities---bill-gluba---ad-from-2022-06-12/pdfdisplayad_574bc45d-7bd8-5eb7-ae3a-dbd69b802d35.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            Remax Rivers Cities - Bill Gluba - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/housing/sale/remax-rivers-cities---bill-gluba---ad-from-2022-06-12/pdfdisplayad_574bc45d-7bd8-5eb7-ae3a-dbd69b802d35.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://qctimes.com/ads/service/office/sullivan-auctioneers---ad-from-2022-06-12/pdfdisplayad_264ba69d-9e8b-5809-b435-ea3b9ba535f4.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n        \n        \n            SULLIVAN AUCTIONEERS - Ad from 2022-06-12",
-      "url": "https://qctimes.com/ads/service/office/sullivan-auctioneers---ad-from-2022-06-12/pdfdisplayad_264ba69d-9e8b-5809-b435-ea3b9ba535f4.html#tracking-source=print-ads-carousel"
-    },
-    {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "https://go.qctimes.com/BestOf22"
-    },
-    {
-      "text": "\n        \n        \n            2022 Best of the Quad-Cities",
-      "url": "https://go.qctimes.com/BestOf22"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "\n                    \n                    Facebook\n                ",
-      "url": "/facebook"
-    },
-    {
-      "text": "\n                    \n                    Twitter\n                ",
-      "url": "/twitter"
-    },
-    {
-      "text": "\n                    \n                    YouTube\n                ",
-      "url": "/youtube"
-    },
-    {
-      "text": "\n                    \n                    Pinterest\n                ",
-      "url": "/pinterest"
-    },
-    {
-      "text": "\n                    \n                    Instagram\n                ",
-      "url": "/instagram"
-    },
-    {
-      "text": "Bettendorf News\n                    \n                ",
-      "url": "http://qctimes.com/news/local/bettendorf"
-    },
-    {
-      "text": "QCVarsity.com\n                    \n                ",
-      "url": "http://qcvarsity.com"
-    },
-    {
-      "text": "Plus 60\n                    \n                ",
-      "url": "https://qctplus60.com/"
-    },
-    {
-      "text": "E-Edition\n                    \n                ",
-      "url": "/eedition/"
-    },
-    {
-      "text": "Email Newsletters\n                    \n                ",
-      "url": "/newsletters/"
-    },
-    {
-      "text": "Quad-Cities Calendar\n                    \n                ",
-      "url": "/events/"
-    },
-    {
-      "text": "Obituaries\n                    \n                ",
-      "url": "/news/local/obituaries/"
-    },
-    {
-      "text": "Weather\n                    \n                ",
-      "url": "/weather/"
-    },
-    {
-      "text": "River Levels\n                    \n                ",
-      "url": "http://qctimes.com/app/special/river_levels/"
-    },
-    {
-      "text": "Online Features\n                    \n                ",
-      "url": "/online_features/"
-    },
-    {
-      "text": "Activate Full Access\n                    \n                ",
-      "url": "/activate/"
-    },
-    {
-      "text": "Advertise with Us\n                    \n                ",
-      "url": "http://qctimes.com/forms/contact/advertise"
-    },
-    {
-      "text": "Contact Us\n                    \n                ",
-      "url": "/contact/"
-    },
-    {
-      "text": "Job Search\n                    \n                ",
-      "url": "/jobs/"
-    },
-    {
-      "text": "Start a Subscription\n                    \n                ",
-      "url": "/subscribenow/"
-    },
-    {
-      "text": "Privacy Policy\n                    \n                ",
-      "url": "/privacy/"
-    },
-    {
-      "text": "Terms of Service\n                    \n                ",
-      "url": "/terms/"
-    },
-    {
-      "text": "Customer Service\n                    \n                ",
-      "url": "/services/"
-    },
-    {
-      "text": "Work here\n                    \n                ",
-      "url": "http://lee.net/careers/opportunities/?utm_source=newspaper&utm_medium=blox&utm_campaign=workhere"
-    },
-    {
-      "text": "Become a Carrier\n                    \n                ",
-      "url": "https://qctimes.com/forms/deliver_the_quadcity_times/"
-    },
-    {
-      "text": "The Quad-City Times\t",
-      "url": "/"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "/terms/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy/"
-    },
-    {
-      "text": "Do Not Sell My Info",
-      "url": "/privacy/#ccpa"
-    },
-    {
-      "text": "BLOX Content Management System",
-      "url": "https://bloxcms.com"
-    },
-    {
-      "text": "TownNews.com",
-      "url": "https://townnews.com/"
-    },
-    {
-      "text": "",
-      "url": "{{url}}"
-    },
-    {
-      "text": "Notifications",
-      "url": "#notify-panel-content"
-    },
-    {
-      "text": "Settings",
-      "url": "#notify-panel-settings"
-    }
-  ],
-  "server": "ia802500.us.archive.org",
-  "uniq": 151301890,
+  "server": "ia902500.us.archive.org",
+  "uniq": 323164976,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

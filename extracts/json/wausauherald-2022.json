@@ -1,5 +1,5 @@
 {
-  "created": 1655586405,
+  "created": 1655684331,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/3/items/wausauherald-2022",
@@ -3338,31 +3338,305 @@
       "sha1": "4e2fb85e61894b0fb32bdc13f9f1fcf922774165"
     },
     {
+      "name": "wausauherald-2022-06-18T20:19:39.816140-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655601582",
+      "size": "23643",
+      "md5": "e99fa59c096a72e629a4388742fb4be6",
+      "crc32": "7d2098e9",
+      "sha1": "f21a2bc2fc61aa046635b678e912686bf98f858e",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-18T20:19:39.816140-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655601584",
+      "size": "40949",
+      "md5": "8c0b95bc8a0ae5ce390964c18b5514b2",
+      "crc32": "f7a098e0",
+      "sha1": "1b029dfa1eb5af726bcdd220ea59e82a2a3084bd",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-18T20:19:39.816140-05:00.jpg",
+      "source": "original",
+      "mtime": "1655601580",
+      "size": "256560",
+      "md5": "821c6018c3d63240db78658a24648426",
+      "crc32": "a648d15e",
+      "sha1": "cb527cbd6eddd35fd29c246666c3081d918d193b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-06-18T20:19:39.816140-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-06-18T20:19:39.816140-05:00.jpg",
+      "mtime": "1655601634",
+      "size": "9462",
+      "md5": "e78ab1ffe0d2b28397d4a811508e86f5",
+      "crc32": "6faeb87e",
+      "sha1": "70f667a0a65f9cf507dc5f8569a50fdb89332102"
+    },
+    {
+      "name": "wausauherald-2022-06-19T00:11:56.167830-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655615520",
+      "size": "23910",
+      "md5": "cca70a86a14abd818d890450dc341eb3",
+      "crc32": "977473ef",
+      "sha1": "5243bf77625d714ebf34e080ff583cd0ebdbbd06",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T00:11:56.167830-05:00.jpg",
+      "source": "original",
+      "mtime": "1655615518",
+      "size": "257139",
+      "md5": "78e7933a70825cb5526e6d2fea18ea17",
+      "crc32": "60d10e2a",
+      "sha1": "471947484cd1b8be8fc9bf8a0c6da11ad230f248",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-06-19T00:11:56.167830-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-06-19T00:11:56.167830-05:00.jpg",
+      "mtime": "1655615569",
+      "size": "9443",
+      "md5": "51ff190c7ce4e997cfc8781c3c277e6a",
+      "crc32": "082ba6fc",
+      "sha1": "7bf8c6449a7308d60e5f58c3c1f2d1123e175dcd"
+    },
+    {
+      "name": "wausauherald-2022-06-19T04:06:03.150802-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655629567",
+      "size": "23932",
+      "md5": "9d0bac97d12702e3779d10d6e58667da",
+      "crc32": "e622f263",
+      "sha1": "b4a554f3d2920c264897c1ee715786e69e74dad4",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T04:06:03.150802-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655629568",
+      "size": "44428",
+      "md5": "91486fc00f025607ba290354a096e122",
+      "crc32": "60993eed",
+      "sha1": "36a6e46c5a30ae30492cd3c28d36a0ebffaee78f",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T04:06:03.150802-05:00.jpg",
+      "source": "original",
+      "mtime": "1655629565",
+      "size": "256035",
+      "md5": "9bea267ab0fb3a7bdcf4f8415884aef6",
+      "crc32": "e96c71c7",
+      "sha1": "9a7a0f14210fccb77e437c70356e204b79439f4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-06-19T04:06:03.150802-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-06-19T04:06:03.150802-05:00.jpg",
+      "mtime": "1655629617",
+      "size": "9442",
+      "md5": "be5373eeb9341f6960d0001b90b423a6",
+      "crc32": "6b748a3b",
+      "sha1": "567fdbce7a6de6926a0b577af45027260a1049e4"
+    },
+    {
+      "name": "wausauherald-2022-06-19T08:14:01.869087-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655644446",
+      "size": "23315",
+      "md5": "904c22b768c5be37938201eae945cec9",
+      "crc32": "13210663",
+      "sha1": "68b37ea24a1e91eb086c92c7d98422f78a6291ea",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T08:14:01.869087-05:00.jpg",
+      "source": "original",
+      "mtime": "1655644444",
+      "size": "256471",
+      "md5": "ac90ec9ca6949d4e6cb74f64a501fc36",
+      "crc32": "ab7c794f",
+      "sha1": "192931b43e9526d8a8dcd19f04730cc3e501052c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-06-19T08:14:01.869087-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-06-19T08:14:01.869087-05:00.jpg",
+      "mtime": "1655644494",
+      "size": "9344",
+      "md5": "e06b402e9645c51c65a619217af5912f",
+      "crc32": "f55c941b",
+      "sha1": "bdf8144d6b14caf520e4d2e913507bc898a885e3"
+    },
+    {
+      "name": "wausauherald-2022-06-19T12:09:43.971216-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655658595",
+      "size": "22285",
+      "md5": "2cbebfe927bed5852e55ba72c66c1fdc",
+      "crc32": "bdcca84b",
+      "sha1": "4a3eba55e3595c81f9c43d17aee060e4482da659",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T12:09:43.971216-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655658601",
+      "size": "42625",
+      "md5": "29283d2c7bb516b75647411e039b0a29",
+      "crc32": "08a394b6",
+      "sha1": "f84d266c4b2479585e7fdf8e3247a7eadf68e15e",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T12:09:43.971216-05:00.jpg",
+      "source": "original",
+      "mtime": "1655658589",
+      "size": "250633",
+      "md5": "e351011a17c4f6e150851479c983612c",
+      "crc32": "b81701f2",
+      "sha1": "1b43ba60a02893843e94a27381e7fc8e8640c4de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-06-19T12:09:43.971216-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-06-19T12:09:43.971216-05:00.jpg",
+      "mtime": "1655658650",
+      "size": "9330",
+      "md5": "5d1633f71157441c372c5f5a9c30da9a",
+      "crc32": "1be01a6d",
+      "sha1": "705b753e4bf1a5c33ad059e30e23af16b61fedb6"
+    },
+    {
+      "name": "wausauherald-2022-06-19T16:05:18.226909-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655672721",
+      "size": "23362",
+      "md5": "310c5504334d1922a31cfd3f03783cb6",
+      "crc32": "67b4775b",
+      "sha1": "d8d768083ee76718c1a984baff2dd10eadc1ac8c",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T16:05:18.226909-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655672722",
+      "size": "43742",
+      "md5": "8110693f3e46d2e774fe9005d693895c",
+      "crc32": "de02321a",
+      "sha1": "b615c73d3faf40c27b6731322cb8ba6849f1fa71",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T16:05:18.226909-05:00.jpg",
+      "source": "original",
+      "mtime": "1655672719",
+      "size": "264997",
+      "md5": "fe0aaa4bea59113fdfab7c8da517d353",
+      "crc32": "28702a62",
+      "sha1": "f0ca7fd2e1d60a80a4fef9cec2eda1a52f3c52dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-06-19T16:05:18.226909-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-06-19T16:05:18.226909-05:00.jpg",
+      "mtime": "1655672769",
+      "size": "9648",
+      "md5": "a7314341fc70040508228538c095bff7",
+      "crc32": "5448fe24",
+      "sha1": "8404e31c9ff3fea4dada0194bd3172a794c27721"
+    },
+    {
+      "name": "wausauherald-2022-06-19T18:29:27.735735-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655681372",
+      "size": "25030",
+      "md5": "8b035c28e9ca593d5eda71516e399e36",
+      "crc32": "2d65d3ca",
+      "sha1": "0f1eee791362cbbbeb9bda3abbc7d2c1cd4dc0b2",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T18:29:27.735735-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655681374",
+      "size": "44872",
+      "md5": "84787c56e96db66afa92295f644f2c8e",
+      "crc32": "a961f96b",
+      "sha1": "7f23947bdbd61b54f4da6a9c1f4116c51117f27a",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-06-19T18:29:27.735735-05:00.jpg",
+      "source": "original",
+      "mtime": "1655681370",
+      "size": "261561",
+      "md5": "ff5b4e7389c3a85065534601a28ca989",
+      "crc32": "43b30f32",
+      "sha1": "a98e8c90b26dc23965635ead07f261b7ff706fa1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-06-19T18:29:27.735735-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-06-19T18:29:27.735735-05:00.jpg",
+      "mtime": "1655681421",
+      "size": "9498",
+      "md5": "26f91466c4113e7bc770be3b3f7002d5",
+      "crc32": "b3b4049c",
+      "sha1": "6323738fb75e2514541afc1efa63de2385b82d20"
+    },
+    {
       "name": "wausauherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "007a48279d1d69adb1f35972348fcac4c9ee60a3",
-      "mtime": "1655586401",
-      "size": "69403",
-      "md5": "8fa25380678d0bedc8481c748a703c93",
-      "crc32": "4f9d0011",
-      "sha1": "4624cf2c245d0252087ba2538df334b699c151a3",
+      "btih": "8a1a5380e084d48e7d8cab639ae05f1958004c9c",
+      "mtime": "1655681426",
+      "size": "74968",
+      "md5": "de36cd4d3941d9307e7559e877af5e95",
+      "crc32": "2f4192f2",
+      "sha1": "b6c67901a6d7da6c429b59d7e75d2ab5e1023db9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wausauherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "095255c795bd4cf39e9c3144ac0929d6",
+      "md5": "83be81da54f37da96e95d6340973ce1b",
       "summation": "md5"
     },
     {
       "name": "wausauherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655586356",
-      "size": "380928",
-      "md5": "9d0ecc6aff87e8ba4d34b9ead043863b",
-      "crc32": "c1bc279f",
-      "sha1": "f50bda7cd98b3b9ec38342feb6334c8029294a87",
+      "mtime": "1655681377",
+      "size": "413696",
+      "md5": "1190359892429ec81b3e844a31ee0e39",
+      "crc32": "4b31637b",
+      "sha1": "8365a6366fb043100144a34ea1deedb2b1fb740b",
       "format": "Metadata"
     },
     {
@@ -3376,9 +3650,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 321,
-  "item_last_updated": 1655586401,
-  "item_size": 26592105,
+  "files_count": 347,
+  "item_last_updated": 1655681426,
+  "item_size": 28882094,
   "metadata": {
     "identifier": "wausauherald-2022",
     "collection": [
@@ -3396,7 +3670,629 @@
     "addeddate": "2022-03-23 23:07:49"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 113393915,
+  "uniq": 2088358221,
+  "wausauherald-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.wausaudailyherald.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022SUMFLASH2&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.wausaudailyherald.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.wausaudailyherald.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022SUMFLASH2&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.wausaudailyherald.com%2F"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Packers",
+      "url": "/packers/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Life",
+      "url": "/life/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.wausaudailyherald.com/obituaries/"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.wausaudailyherald.com/user/enewspaper"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.wausaudailyherald.com/public-notices"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.wausaudailyherald.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022SUMFLASH2&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.wausaudailyherald.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://login.wausaudailyherald.com/PWAU-GUP/authenticate?success-url=https%3A%2F%2Fwww.wausaudailyherald.com%2F&cancel-url=https%3A%2F%2Fwww.wausaudailyherald.com%2F"
+    },
+    {
+      "text": " Wausau Juneteenth will focus on building relationships, 'celebrating our successes'",
+      "url": "/story/entertainment/events/2022/06/13/wausau-juneteenth-return-june-18-whitewater-music-hall/7558003001/"
+    },
+    {
+      "text": "Why Juneteenth ranks with Fourth of July for many in the Black community",
+      "url": "/story/news/2022/06/15/black-organizers-celebrate-juneteenth-2022-green-bay-appleton/9680008002/"
+    },
+    {
+      "text": "Miss Badgerland Grace Stanke crowned Miss Wisconsin 2022",
+      "url": "/story/news/local/oshkosh/2022/06/18/miss-badgerland-grace-stanke-crowned-miss-wisconsin-2022/7627736001/"
+    },
+    {
+      "text": "This Father's Day, I'm thankful for how pandemic has changed my family",
+      "url": "/story/life/wisconsin-family/2022/06/16/pandemic-fathers-day-many-dads-celebrating-new-closeness/7545525001/"
+    },
+    {
+      "text": " He's a Midstate Tech leader, father of seven and, now\u2026",
+      "url": "/story/money/2022/06/17/wittenberg-entrepreneur-zachary-popp-perfects-hemp-building-material/7655901001/"
+    },
+    {
+      "text": " 'Heat index' could approach 100 on Tuesday across\u2026",
+      "url": "/story/news/2022/06/19/heat-index-could-approach-100-degrees-tuesday-after-95-100-monday/7677695001/"
+    },
+    {
+      "text": " 2 more tornadoes confirmed in Shawano Co. from\u2026",
+      "url": "/story/weather/2022/06/18/bowler-navarino-tornadoes-confirmed-shawano-county-storm/7671875001/"
+    },
+    {
+      "text": " Lorenzo Cain was designated for assignment. Here's what\u2026",
+      "url": "/story/sports/mlb/brewers/2022/06/18/what-does-designated-for-assignment-mean-major-league-baseball-news/7670607001/"
+    },
+    {
+      "text": " Missing Waupaca County man found dead near his residence",
+      "url": "/story/news/2022/06/17/missing-waupaca-county-man-brandon-colligan-found-dead-near-residence/7666711001/"
+    },
+    {
+      "text": " Miss Badgerland Grace Stanke crowned Miss Wisconsin 2022\u00a0",
+      "url": "/story/news/local/oshkosh/2022/06/18/miss-badgerland-grace-stanke-crowned-miss-wisconsin-2022/7627736001/"
+    },
+    {
+      "text": " DHS recommends children 6 months and older get COVID vaccine\u00a0",
+      "url": "/story/news/health/2022/06/18/wisconsin-recommends-children-6-months-and-older-get-covid-vaccine/7673424001/"
+    },
+    {
+      "text": " 2 more tornadoes confirmed in Shawano Co. from Wednesday's storms; 8 total in state\u00a0",
+      "url": "/story/weather/2022/06/18/bowler-navarino-tornadoes-confirmed-shawano-county-storm/7671875001/"
+    },
+    {
+      "text": "More in News",
+      "url": "/news/"
+    },
+    {
+      "text": " Assumption's girls soccer season ends in state semifinals\u00a0",
+      "url": "/story/sports/high-school/soccer/2022/06/17/assumption-girls-soccer-season-ends-loss-2022-wiaa-state-semifinal-lake-country-lutheran/7661800001/"
+    },
+    {
+      "text": " Mosinee baseball falls to Jefferson 6-5 in WIAA state semifinal\u00a0",
+      "url": "/story/sports/high-school/baseball/2022/06/16/mosinee-baseball-falls-jefferson-wiaa-division-3-state-semifinal/7648606001/"
+    },
+    {
+      "text": " Amherst falls to Cuba City in WIAA Division 3 state semifinal as bid for perfect season ends\u00a0",
+      "url": "/story/sports/high-school/baseball/2022/06/15/amherst-baseball-falls-cuba-city-wiaa-division-3-state-semifinal/7636198001/"
+    },
+    {
+      "text": "More in Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": " He's a Midstate Tech leader, father of seven and, now, he makes walls from hemp\u00a0",
+      "url": "/story/money/2022/06/17/wittenberg-entrepreneur-zachary-popp-perfects-hemp-building-material/7655901001/"
+    },
+    {
+      "text": " Outdoor recreation drives spike in tourism last year in Marathon County\u00a0",
+      "url": "/story/money/2022/06/16/marathon-county-tourism-spending-jumped-2021-due-outdoor-recreation-economy/7626232001/"
+    },
+    {
+      "text": " Wisconsin's largest solar farm could power every home from Stevens Point to Appleton and beyond\u00a0",
+      "url": "/story/news/2022/06/15/doral-renewables-proposing-8-500-acre-solar-farm-portage-county-dubbed-vista-sands-solar/7496383001/"
+    },
+    {
+      "text": "More in Business",
+      "url": "/business/"
+    },
+    {
+      "text": " Neenah native wins first challenge on 'MasterChef'\u00a0",
+      "url": "/story/entertainment/2022/06/16/emily-hallock-wins-first-masterchef-season-12-challenge-fox-rivalry-shanika-patterson-highlighted/7645071001/"
+    },
+    {
+      "text": " Contestants from Wausau, St. Francis lead way in first night of Miss Wisconsin\u00a0",
+      "url": "/story/news/local/oshkosh/2022/06/16/miss-wisconsin-2022-first-round-sees-wausau-st-francis-contestants-stand-out/7627725001/"
+    },
+    {
+      "text": " 15 Wisconsin places you have to visit in the summer\u00a0",
+      "url": "/story/travel/wisconsin/2017/09/14/15-wisconsin-places-you-have-visit-summer/647170001/"
+    },
+    {
+      "text": "More in Go 715!",
+      "url": "/go-715/"
+    },
+    {
+      "text": " Miss Wisconsin will be crowned in Oshkosh this weekend. Here is how to watch\u00a0",
+      "url": "/story/news/local/oshkosh/2022/06/15/how-watch-miss-wisconsin-2022-crowned-oshkosh-weekend/7625099001/"
+    },
+    {
+      "text": " Be Wisconsin newsletter offers unique stories from around the Badger state\u00a0",
+      "url": "/story/life/2022/05/05/sign-up-be-wisconsin-newsletter-if-you-like-packers-aaron-rodgers-and-other-things-in-badger-state/9516120002/"
+    },
+    {
+      "text": " Ice Age Trail thru-hiker will be first woman to hike all national scenic trails\u00a0",
+      "url": "/story/travel/wisconsin/2022/06/09/ice-age-trail-arlette-laan-thru-hike-first-woman-hike-all-national-scenic-trails/7529332001/"
+    },
+    {
+      "text": "More in Life",
+      "url": "/life/"
+    },
+    {
+      "text": "Opinion: I agree with the Republicans. The attempt to keep Michels off the ballot was frivolous\u00a0Kristin Brey\u00a0",
+      "url": "/videos/opinion/2022/06/17/opinion-agree-republicans-attempt-keep-michels-off-ballot-frivolous/7658800001/"
+    },
+    {
+      "text": "Opinion: Despite the headlines, there are still plenty of reasons for optimism in Wisconsin\u00a0Kristin Brey\u00a0",
+      "url": "/videos/opinion/2022/06/16/opinion-despite-headlines-there-still-plenty-reasons-optimism-wisconsin/7645980001/"
+    },
+    {
+      "text": " Opinion: How much human potential is locked up? It's a troubling question for Milwaukee.\u00a0David D. Haynes and James E. Causey\u00a0",
+      "url": "/story/opinion/2022/06/16/key-question-milwaukee-how-much-human-potential-locked-up-marlin-dixon-david-crowley-prison/7614329001/"
+    },
+    {
+      "text": "More in Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "",
+      "url": "/picture-gallery/sports/high-school/baseball/2022/06/16/mosinee-vs-jefferson-in-wiaa-division-2-state-high-school-baseball-photos/7622767001/"
+    },
+    {
+      "text": "Enter Every Day\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/AIA-Vanity-Glam-Mirror-Giveaway/?itm_campaign=AIA%20Glam%20Mirror%20Sweeps&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Enter Now!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/Bourbon-and-Beyond-VIP-Experience/?itm_campaign=Bourbon%20and%20Beyond%20VIP%20NON%20Louisville&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Enter Today!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/Platin-Audio-Fathers-Day-LG-TV/?itm_campaign=Platin%20TV%20Fathers%20Day&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "Life Neuropathy",
+      "url": "https://go.lifeneuropathy.com/5cff3a75-d912-4c41-a791-aa9cdfb21e34?site=gannettcompany-wausaudailyherald&site_id=1010941&title=Fighting+Neuropathy%3F+Try+This+Immediately&platform=Desktop&campaign_id=11604201&campaign_item_id=3016607510&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Ff0601061b5cf26fc7509104408cef849.jpeg&timestamp=2022-06-19+22%3A58%3A10&domain=wausaudailyherald.com&campaign_name=nerve+911&click_id=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCPglMo2Lr94pD7w94P&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCPglMo2Lr94pD7w94P#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCPglMo2Lr94pD7w94P"
+    },
+    {
+      "text": "Fighting Neuropathy? Try This ImmediatelySurgeon Reveals Simple Method For Fighting NeuropathyLife Neuropathy|",
+      "url": "https://go.lifeneuropathy.com/5cff3a75-d912-4c41-a791-aa9cdfb21e34?site=gannettcompany-wausaudailyherald&site_id=1010941&title=Fighting+Neuropathy%3F+Try+This+Immediately&platform=Desktop&campaign_id=11604201&campaign_item_id=3016607510&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Ff0601061b5cf26fc7509104408cef849.jpeg&timestamp=2022-06-19+22%3A58%3A10&domain=wausaudailyherald.com&campaign_name=nerve+911&click_id=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCPglMo2Lr94pD7w94P&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCPglMo2Lr94pD7w94P#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCPglMo2Lr94pD7w94P"
+    },
+    {
+      "text": "",
+      "url": "https://go.lifeneuropathy.com/5cff3a75-d912-4c41-a791-aa9cdfb21e34?site=gannettcompany-wausaudailyherald&site_id=1010941&title=Fighting+Neuropathy%3F+Try+This+Immediately&platform=Desktop&campaign_id=11604201&campaign_item_id=3016607510&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Ff0601061b5cf26fc7509104408cef849.jpeg&timestamp=2022-06-19+22%3A58%3A10&domain=wausaudailyherald.com&campaign_name=nerve+911&click_id=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCPglMo2Lr94pD7w94P&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCPglMo2Lr94pD7w94P#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCPglMo2Lr94pD7w94P"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "COMFY SHOES",
+      "url": "https://seasideqs.com/products/slip-shoes?utm_source=taboola&utm_medium=referral&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCHwFkotam4uY39n_wT#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCHwFkotam4uY39n_wT"
+    },
+    {
+      "text": "\u201c I Know These Shoes Will Last For Years.\u201d - Tom - Now 70% Off!COMFY SHOES|",
+      "url": "https://seasideqs.com/products/slip-shoes?utm_source=taboola&utm_medium=referral&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCHwFkotam4uY39n_wT#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCHwFkotam4uY39n_wT"
+    },
+    {
+      "text": "",
+      "url": "https://seasideqs.com/products/slip-shoes?utm_source=taboola&utm_medium=referral&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCHwFkotam4uY39n_wT#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCHwFkotam4uY39n_wT"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Shop Now",
+      "url": "https://trc.taboola.com/gannettcompany-wausaudailyherald/log/3/click?pi=%2F&ri=eb9dbbdb52fcaa4c96080439fe425ff1&sd=v2_73461cbf3b496e11c3679fcaa8822434_4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82_1655679490_1655679490_CIi3jgYQ_dk9GKq1wPGXMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82&it=text&ii=~~V1~~6063486337524451681~~umoOy34e8BMQqxaBZMmN0h-ssjyjmiUfX1KSaHDUKFMndpXq_nTToVci-tV_1bYyPVPbFHdycXfyr1VxmozLcV7JbGFbjtizQN29Zpin8p1JlawpbYFtoRw_FVSAoDPy8yoVX_ZV1DUzrU9mgEqIxVpt34vkyVLCqQj-j_6Ik-WFwt9_72reDSrMsTKuuUo5v3KZnUas0Sb2xPlF_5OFwYQcaYsR0k6lHcB4qP6JCsDLNDkj3XfI8TfsthmGbcH-coA0Vf_O0J9YwIJXxeN8OVi1jg0UQri2RU4jn_fBaAHjv0bNnp6pOqc_l4h84-EoAHwxDkPBKvC6MFrH1rJZRg&pt=home&li=rbox-h2v&sig=e13e8dcd4ea52453fb4937644c917e084bfb9e5c9b84&redir=https%3A%2F%2Fseasideqs.com%2Fproducts%2Fslip-shoes%3Futm_source%3Dtaboola%26utm_medium%3Dreferral%26tblci%3DGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCHwFkotam4uY39n_wT%23tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCHwFkotam4uY39n_wT&vi=1655679490730&p=baiduapp-gigulia-sc&r=66&lti=deflated&ppb=CIMH&cpb=EhIyMDIyMDYxOS0zLVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAzNTA4gLqAowFAkaQOSLDlD1Cky9kDWP8DYwje__________8BEN7__________wEYImRjCN3__________wEQ3f__________ARgjZGMI0gMQ4AYYCGRjCJYUEJgcGBhkYwjvAxCLBxgJZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "ThriveHealthLab",
+      "url": "https://go.thethrivehealthlab.com/6e7843d9-f1ba-4e0d-8911-fa481cd8bb88?site=gannettcompany-wausaudailyherald&site_id=1010941&title=Top+Doctor%3A+What+Hearing+Loss+And+Tinnitus+Do+To+The+Brain&platform=Desktop&campaign_id=12209238&campaign_item_id=3026365459&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F592e777649cf37d088d4b4378084bfb1.jpeg&timestamp=2022-06-19+22%3A58%3A10&domain=wausaudailyherald.com&campaign_name=thethrivehealthlab&click_id=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC1pU8o1r_X6JiFmOFO&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC1pU8o1r_X6JiFmOFO#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC1pU8o1r_X6JiFmOFO"
+    },
+    {
+      "text": "Top Doctor: What Hearing Loss And Tinnitus Do To The BrainFighting Tinnitus (Ear Ringing)? Try This ImmediatelyThriveHealthLab|",
+      "url": "https://go.thethrivehealthlab.com/6e7843d9-f1ba-4e0d-8911-fa481cd8bb88?site=gannettcompany-wausaudailyherald&site_id=1010941&title=Top+Doctor%3A+What+Hearing+Loss+And+Tinnitus+Do+To+The+Brain&platform=Desktop&campaign_id=12209238&campaign_item_id=3026365459&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F592e777649cf37d088d4b4378084bfb1.jpeg&timestamp=2022-06-19+22%3A58%3A10&domain=wausaudailyherald.com&campaign_name=thethrivehealthlab&click_id=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC1pU8o1r_X6JiFmOFO&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC1pU8o1r_X6JiFmOFO#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC1pU8o1r_X6JiFmOFO"
+    },
+    {
+      "text": "",
+      "url": "https://go.thethrivehealthlab.com/6e7843d9-f1ba-4e0d-8911-fa481cd8bb88?site=gannettcompany-wausaudailyherald&site_id=1010941&title=Top+Doctor%3A+What+Hearing+Loss+And+Tinnitus+Do+To+The+Brain&platform=Desktop&campaign_id=12209238&campaign_item_id=3026365459&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F592e777649cf37d088d4b4378084bfb1.jpeg&timestamp=2022-06-19+22%3A58%3A10&domain=wausaudailyherald.com&campaign_name=thethrivehealthlab&click_id=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC1pU8o1r_X6JiFmOFO&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC1pU8o1r_X6JiFmOFO#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC1pU8o1r_X6JiFmOFO"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Simplifi By Quicken",
+      "url": "https://www.quicken.com/simplifi/content/nyt-wirecutter-simplifi-best-app?utm_source=taboola&utm_medium=cpc&utm_campaign=prospecting&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Moiqa8oozzqt_EAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Moiqa8oozzqt_EAQ"
+    },
+    {
+      "text": "Named Best Budgeting App by NYTimes WirecutterSimplifi By Quicken|",
+      "url": "https://www.quicken.com/simplifi/content/nyt-wirecutter-simplifi-best-app?utm_source=taboola&utm_medium=cpc&utm_campaign=prospecting&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Moiqa8oozzqt_EAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Moiqa8oozzqt_EAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.quicken.com/simplifi/content/nyt-wirecutter-simplifi-best-app?utm_source=taboola&utm_medium=cpc&utm_campaign=prospecting&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Moiqa8oozzqt_EAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Moiqa8oozzqt_EAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "CarsGenius",
+      "url": "https://carsgenius.com/?view=compact&hm=min&cond=new&bdy=pickup&mk=ram&&hl=3&hr=ram2&pre=3&post=2&vw=body&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=18116384&s1agid=cg-q2-ram-pickup-dt-hm-RON-2&s1kid=gannettcompany-wausaudailyherald&utm_source=taboola&tbclid=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMo1qvByOLOx4pl#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMo1qvByOLOx4pl"
+    },
+    {
+      "text": "Unsold Ram Pickup Price Cuts: See DealsMake A Selection On The Next Page To See New Ram PricesCarsGenius|",
+      "url": "https://carsgenius.com/?view=compact&hm=min&cond=new&bdy=pickup&mk=ram&&hl=3&hr=ram2&pre=3&post=2&vw=body&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=18116384&s1agid=cg-q2-ram-pickup-dt-hm-RON-2&s1kid=gannettcompany-wausaudailyherald&utm_source=taboola&tbclid=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMo1qvByOLOx4pl#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMo1qvByOLOx4pl"
+    },
+    {
+      "text": "",
+      "url": "https://carsgenius.com/?view=compact&hm=min&cond=new&bdy=pickup&mk=ram&&hl=3&hr=ram2&pre=3&post=2&vw=body&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=18116384&s1agid=cg-q2-ram-pickup-dt-hm-RON-2&s1kid=gannettcompany-wausaudailyherald&utm_source=taboola&tbclid=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMo1qvByOLOx4pl#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMo1qvByOLOx4pl"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Search Now",
+      "url": "https://trc.taboola.com/gannettcompany-wausaudailyherald/log/3/click?pi=%2F&ri=eb9dbbdb52fcaa4c96080439fe425ff1&sd=v2_73461cbf3b496e11c3679fcaa8822434_4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82_1655679490_1655679490_CIi3jgYQ_dk9GKq1wPGXMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82&it=text&ii=~~V1~~-3830783222583273275~~dOkOhwb3E5WmEg87o3EJqJq1hBJRMsS5l_9c6PeF2nTTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RKV45FLatSkhYBOswYeS-KkzL5AXtnbZWDvo_ByXikRTlkw2uXIYCbLIZteM3PSl5NO2MigvFkbIkvmmUBJTIAKdzcz3D_IbgJYm8c7Bb7DPX3t45oB2VwtOBoBApvrqI0&pt=home&li=rbox-h2v&sig=fe96f6118990a33af085320f90073bebeb211f7a314a&redir=https%3A%2F%2Fcarsgenius.com%2F%3Fview%3Dcompact%26hm%3Dmin%26cond%3Dnew%26bdy%3Dpickup%26mk%3Dram%26%26hl%3D3%26hr%3Dram2%26pre%3D3%26post%3D2%26vw%3Dbody%26hd-mk%3D1%26%7Blpurl%7D%26segment%3Dbuycars2%26s1aid%3D1364031%26s1cid%3D18116384%26s1agid%3Dcg-q2-ram-pickup-dt-hm-RON-2%26s1kid%3Dgannettcompany-wausaudailyherald%26utm_source%3Dtaboola%26tbclid%3DGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMo1qvByOLOx4pl%23tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMo1qvByOLOx4pl&vi=1655679490730&p=qool-carsgenius3-sc&r=4&lti=deflated&ppb=CIMH&cpb=EhIyMDIyMDYxOS0zLVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAzNTA4gLqAowFAkaQOSLDlD1Cky9kDWP8DYwje__________8BEN7__________wEYImRjCN3__________wEQ3f__________ARgjZGMI0gMQ4AYYCGRjCJYUEJgcGBhkYwjvAxCLBxgJZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "Grishay",
+      "url": "https://tick.busterry.com/bcc0526f-2a0a-42f2-926c-b128fb09babd?site=gannettcompany-wausaudailyherald&site_id=1010941&title=The+Sandals+For+Standing+All+Day+Without+Discomfort.%C2%A0&platform=Desktop&campaign_id=18569762&campaign_item_id=3425187339&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F8bc348e718c9331d7883fae42e9f9198.jpg&campaign_name=women+shoes_20220519_PC_devin_1&utm_campaign=women+shoes_20220519_PC_devin_1&utm_medium=1010941&click_id=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ&utm_source=taboola&utm_medium=1010941&utm_campaign=women+shoes_20220519_PC_devin_1&utm_content=3425187339&utm_term=18569762&sitedomain=wausaudailyherald.com&timestamp=2022-06-19+22%3A58%3A10&title=The+Sandals+For+Standing+All+Day+Without+Discomfort.%C2%A0&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ"
+    },
+    {
+      "text": "The Sandals For Standing All Day Without Discomfort.\u00a0Grishay|",
+      "url": "https://tick.busterry.com/bcc0526f-2a0a-42f2-926c-b128fb09babd?site=gannettcompany-wausaudailyherald&site_id=1010941&title=The+Sandals+For+Standing+All+Day+Without+Discomfort.%C2%A0&platform=Desktop&campaign_id=18569762&campaign_item_id=3425187339&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F8bc348e718c9331d7883fae42e9f9198.jpg&campaign_name=women+shoes_20220519_PC_devin_1&utm_campaign=women+shoes_20220519_PC_devin_1&utm_medium=1010941&click_id=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ&utm_source=taboola&utm_medium=1010941&utm_campaign=women+shoes_20220519_PC_devin_1&utm_content=3425187339&utm_term=18569762&sitedomain=wausaudailyherald.com&timestamp=2022-06-19+22%3A58%3A10&title=The+Sandals+For+Standing+All+Day+Without+Discomfort.%C2%A0&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ"
+    },
+    {
+      "text": "",
+      "url": "https://tick.busterry.com/bcc0526f-2a0a-42f2-926c-b128fb09babd?site=gannettcompany-wausaudailyherald&site_id=1010941&title=The+Sandals+For+Standing+All+Day+Without+Discomfort.%C2%A0&platform=Desktop&campaign_id=18569762&campaign_item_id=3425187339&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F8bc348e718c9331d7883fae42e9f9198.jpg&campaign_name=women+shoes_20220519_PC_devin_1&utm_campaign=women+shoes_20220519_PC_devin_1&utm_medium=1010941&click_id=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ&utm_source=taboola&utm_medium=1010941&utm_campaign=women+shoes_20220519_PC_devin_1&utm_content=3425187339&utm_term=18569762&sitedomain=wausaudailyherald.com&timestamp=2022-06-19+22%3A58%3A10&title=The+Sandals+For+Standing+All+Day+Without+Discomfort.%C2%A0&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Read More",
+      "url": "https://trc.taboola.com/gannettcompany-wausaudailyherald/log/3/click?pi=%2F&ri=eb9dbbdb52fcaa4c96080439fe425ff1&sd=v2_73461cbf3b496e11c3679fcaa8822434_4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82_1655679490_1655679490_CIi3jgYQ_dk9GKq1wPGXMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82&it=text&ii=~~V1~~-119470184612724210~~VCfvujHzhKhA94vppOZtygQtvJb92iFGLDg-Zu2xsMP6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQIAs928HtiV1C6LrJ3wKzU99OqMbdY3B22Ui4VBEorMIz9tm0R8Wi5LhVzuxzsaaQgVLyqv5_ne8NuJBAwzKzbiBgCioF5FrmAGAKqmjK8b5lb_DL8YldXflgTjAn4xCH-OSNDKYo6GUlSBsVWsOOedX2Dta573uKdKgBDflS0G9E67cAkSwpP3vboj5gpr7CSrEFw53UNwXtlt0lmLzWBI6zhr_uog6GC70OqLAd6RE&pt=home&li=rbox-h2v&sig=9501c42761952e4a8bf9cba69750abee97110a77461c&redir=https%3A%2F%2Ftick.busterry.com%2Fbcc0526f-2a0a-42f2-926c-b128fb09babd%3Fsite%3Dgannettcompany-wausaudailyherald%26site_id%3D1010941%26title%3DThe%2BSandals%2BFor%2BStanding%2BAll%2BDay%2BWithout%2BDiscomfort.%25C2%25A0%26platform%3DDesktop%26campaign_id%3D18569762%26campaign_item_id%3D3425187339%26thumbnail%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252F8bc348e718c9331d7883fae42e9f9198.jpg%26campaign_name%3Dwomen%2Bshoes_20220519_PC_devin_1%26utm_campaign%3Dwomen%2Bshoes_20220519_PC_devin_1%26utm_medium%3D1010941%26click_id%3DGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ%26utm_source%3Dtaboola%26utm_medium%3D1010941%26utm_campaign%3Dwomen%2Bshoes_20220519_PC_devin_1%26utm_content%3D3425187339%26utm_term%3D18569762%26sitedomain%3Dwausaudailyherald.com%26timestamp%3D2022-06-19%2B22%253A58%253A10%26title%3DThe%2BSandals%2BFor%2BStanding%2BAll%2BDay%2BWithout%2BDiscomfort.%25C2%25A0%26tblci%3DGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ%23tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCD6FgourvZ45zMwc6KAQ&vi=1655679490730&p=surmobiinternational2022-grishay-sc&r=34&lti=deflated&ppb=CIMH&cpb=EhIyMDIyMDYxOS0zLVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAzNTA4gLqAowFAkaQOSLDlD1Cky9kDWP8DYwje__________8BEN7__________wEYImRjCN3__________wEQ3f__________ARgjZGMI0gMQ4AYYCGRjCJYUEJgcGBhkYwjvAxCLBxgJZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "Simplifi By Quicken",
+      "url": "https://quicken.outgrow.us/money-magnet-quiz-v2?utm_source=taboola&utm_medium=cpc&utm_campaign=prospecting&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Mo8srNkci44pLAAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Mo8srNkci44pLAAQ"
+    },
+    {
+      "text": "Are You a Money Magnet? Take the Quiz to Find Out!Simplifi By Quicken|",
+      "url": "https://quicken.outgrow.us/money-magnet-quiz-v2?utm_source=taboola&utm_medium=cpc&utm_campaign=prospecting&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Mo8srNkci44pLAAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Mo8srNkci44pLAAQ"
+    },
+    {
+      "text": "",
+      "url": "https://quicken.outgrow.us/money-magnet-quiz-v2?utm_source=taboola&utm_medium=cpc&utm_campaign=prospecting&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Mo8srNkci44pLAAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCzi1Mo8srNkci44pLAAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "The Insurance Bulletin",
+      "url": "https://theinsurancebulletin.com/article/best-insurance-companies-media?utm_source=taboola&utm_medium=referral&utm_campaignId=18723129&utm_itemId=3432592534&utm_siteId=1010941&clickId=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ"
+    },
+    {
+      "text": "Virginia: Top Car Insurance CompaniesCheap Car Insurance for Low-Mileage Drivers (Check if You Qualify)The Insurance Bulletin|",
+      "url": "https://theinsurancebulletin.com/article/best-insurance-companies-media?utm_source=taboola&utm_medium=referral&utm_campaignId=18723129&utm_itemId=3432592534&utm_siteId=1010941&clickId=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ"
+    },
+    {
+      "text": "",
+      "url": "https://theinsurancebulletin.com/article/best-insurance-companies-media?utm_source=taboola&utm_medium=referral&utm_campaignId=18723129&utm_itemId=3432592534&utm_siteId=1010941&clickId=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ&tblci=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Read More",
+      "url": "https://trc.taboola.com/gannettcompany-wausaudailyherald/log/3/click?pi=%2F&ri=72f65ae5e943a331de2488f942e9699a&sd=v2_73461cbf3b496e11c3679fcaa8822434_4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82_1655679490_1655679490_CIi3jgYQ_dk9GKq1wPGXMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82&it=text&ii=~~V1~~1047851560785361467~~QoENM6wu2Y5kGsmRpeXXyaxkVlZYCPGkJUzcfeB4YgX6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQIKiYZmEl3RMjJoyLcF9x2L7I5MK7B1QpyhF1wERuIDVo2Oq0RS2DNJwFtQu2bmIxurOygszEKnfPoVz8jrMGT7sVZ0we2WGwSJO9a6YYC5Ld8lH21J5XpULLLsFrZXFB0PSsmpzwJW5MgYsuzaXCeRe7Z1tdLC5vRLws_ty5TIpCd3vT9BTqsc3eu3LaT0CduEjIn6p3dLxd4EFkAMUwlg&pt=home&li=rbox-h2v&sig=72b8b59aec694a818acfc1342046584b1000365facea&redir=https%3A%2F%2Ftheinsurancebulletin.com%2Farticle%2Fbest-insurance-companies-media%3Futm_source%3Dtaboola%26utm_medium%3Dreferral%26utm_campaignId%3D18723129%26utm_itemId%3D3432592534%26utm_siteId%3D1010941%26clickId%3DGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ%26tblci%3DGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ%23tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyCgq1Uo6-fv5Nu3o77QAQ&vi=1655679490730&p=venus-theinsurancebulletin-carinsurance&r=47&lti=deflated&ppb=COkF&cpb=EhIyMDIyMDYxOS0zLVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAzNTA4gLqAowFAkaQOSLDlD1Cky9kDWP8DYwje__________8BEN7__________wEYImRjCN3__________wEQ3f__________ARgjZGMI0gMQ4AYYCGRjCJYUEJgcGBhkYwjvAxCLBxgJZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "The Easy Blog by EasyBreathe.com",
+      "url": "https://blog.easybreathe.com/new-worlds-most-advanced-cpap-arrives-in-2022/?utm_source=taboola&utm_medium=AirSense11New_Desktop-Smart&utm_content=gannettcompany-wausaudailyherald_TB_AirSense11New_Desktop-Smart&utm_campaign=3322428276_AirSense11New_Desktop-Smart&utm_keyword=gannettcompany-wausaudailyherald_TB_AirSense11New_Desktop-Smart&wausaudailyherald.com_&This+New+CPAP+Can+Do+What...#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyDVjkAo7PftrLzbyOmlAQ"
+    },
+    {
+      "text": "This New CPAP Can Do What...AirSense 11: The World's Newest And Most Advanced CPAPThe Easy Blog by EasyBreathe.com|",
+      "url": "https://blog.easybreathe.com/new-worlds-most-advanced-cpap-arrives-in-2022/?utm_source=taboola&utm_medium=AirSense11New_Desktop-Smart&utm_content=gannettcompany-wausaudailyherald_TB_AirSense11New_Desktop-Smart&utm_campaign=3322428276_AirSense11New_Desktop-Smart&utm_keyword=gannettcompany-wausaudailyherald_TB_AirSense11New_Desktop-Smart&wausaudailyherald.com_&This+New+CPAP+Can+Do+What...#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyDVjkAo7PftrLzbyOmlAQ"
+    },
+    {
+      "text": "",
+      "url": "https://blog.easybreathe.com/new-worlds-most-advanced-cpap-arrives-in-2022/?utm_source=taboola&utm_medium=AirSense11New_Desktop-Smart&utm_content=gannettcompany-wausaudailyherald_TB_AirSense11New_Desktop-Smart&utm_campaign=3322428276_AirSense11New_Desktop-Smart&utm_keyword=gannettcompany-wausaudailyherald_TB_AirSense11New_Desktop-Smart&wausaudailyherald.com_&This+New+CPAP+Can+Do+What...#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyDVjkAo7PftrLzbyOmlAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "CarsGeniusAdvertisement  ",
+      "url": "https://carsgenius.com?view=compact&hm=min&cond=certified&bdy=suv&hl=9&hr=suv&pre=5&post=5&vw=body&pr-mx=50000&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=13384179&s1agid=cg-q4-certified-suv-dt-hm-RON&s1kid=gannettcompany-wausaudailyherald&utm_source=taboola&tbclid=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMoz_jy3JHwkvgz&sort=price_asc#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMoz_jy3JHwkvgz"
+    },
+    {
+      "text": "Ashburn: Unsold SUVs As Cheap As $8kFind the Best Deals On CarsGenius In Under 60 SecondsCarsGenius|",
+      "url": "https://carsgenius.com?view=compact&hm=min&cond=certified&bdy=suv&hl=9&hr=suv&pre=5&post=5&vw=body&pr-mx=50000&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=13384179&s1agid=cg-q4-certified-suv-dt-hm-RON&s1kid=gannettcompany-wausaudailyherald&utm_source=taboola&tbclid=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMoz_jy3JHwkvgz&sort=price_asc#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMoz_jy3JHwkvgz"
+    },
+    {
+      "text": "",
+      "url": "https://carsgenius.com?view=compact&hm=min&cond=certified&bdy=suv&hl=9&hr=suv&pre=5&post=5&vw=body&pr-mx=50000&hd-mk=1&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=13384179&s1agid=cg-q4-certified-suv-dt-hm-RON&s1kid=gannettcompany-wausaudailyherald&utm_source=taboola&tbclid=GiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMoz_jy3JHwkvgz&sort=price_asc#tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMoz_jy3JHwkvgz"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-wausaudailyherald&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Search Now",
+      "url": "https://trc.taboola.com/gannettcompany-wausaudailyherald/log/3/click?pi=%2F&ri=8f675237845e77c527cab3c2842ce0d9&sd=v2_73461cbf3b496e11c3679fcaa8822434_4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82_1655679490_1655679490_CIi3jgYQ_dk9GKq1wPGXMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=4e2c6ec8-dd45-47b9-b259-9f1541c2c9e7-tuct9a92f82&it=text&ii=~~V1~~7913582221175624872~~u36Tqg7h-0gRTlc-05kqBjahM226CXXU7masK5cojMnTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQZ4a6mmx10IQsd2kfeJTLN1ez5hp1asUTqvRq5LaLE2R1Z8vaKhNniPX6rih2PgN8Ol84x4GfYwZlIpgZ1O0KTqHHr5g9KW7tdnTR8LvKVS8RdbgwlJdnqyroTPEQNNEn3cENVZXSmnKejOMArkCXLKRb_dedjYpQu418uFRKAt6&pt=home&li=rbox-h2v&sig=c784fa0c1eb7f3837c2d3a4f0471f807c7f12022cb1c&redir=https%3A%2F%2Fcarsgenius.com%3Fview%3Dcompact%26hm%3Dmin%26cond%3Dcertified%26bdy%3Dsuv%26hl%3D9%26hr%3Dsuv%26pre%3D5%26post%3D5%26vw%3Dbody%26pr-mx%3D50000%26hd-mk%3D1%26%7Blpurl%7D%26segment%3Dbuycars2%26s1aid%3D1364031%26s1cid%3D13384179%26s1agid%3Dcg-q4-certified-suv-dt-hm-RON%26s1kid%3Dgannettcompany-wausaudailyherald%26utm_source%3Dtaboola%26tbclid%3DGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMoz_jy3JHwkvgz%26sort%3Dprice_asc%23tblciGiCfE5TRb8VBAx1k50mUDvd7nwiVqqr4ZvUWP0p_MkTvJyC_oFMoz_jy3JHwkvgz&vi=1655679490730&p=qool-carsgenius3-sc&r=2&lti=deflated&ppb=CNAE&cpb=EhIyMDIyMDYxOS0zLVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAzNTA4gLqAowFAkaQOSLDlD1Cky9kDWP8DYwje__________8BEN7__________wEYImRjCN3__________wEQ3f__________ARgjZGMI0gMQ4AYYCGRjCJYUEJgcGBhkYwjvAxCLBxgJZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "DHS recommends children 6 months and older get COVID vaccine",
+      "url": "/story/news/health/2022/06/18/wisconsin-recommends-children-6-months-and-older-get-covid-vaccine/7673424001/"
+    },
+    {
+      "text": "Lorenzo Cain's career could be over after Brewers make roster move",
+      "url": "/story/sports/mlb/brewers/2022/06/18/milwaukee-brewers-designate-centerfielder-lorenzo-cain-assignment/7669626001/"
+    },
+    {
+      "text": "Wausau man gets 9 years in prison for strangling woman, stealing vehicle",
+      "url": "/story/news/crime/2022/06/17/wausau-man-gets-nine-years-prison-endangering-safety-stealing-vehicle/7658968001/"
+    },
+    {
+      "text": "Wisconsin native's email, plan for false electors under Jan. 6 committee scrutiny",
+      "url": "/story/news/politics/2022/06/17/jan-6-hearing-wisconsin-native-kenneth-chesebro-email-false-elector-under-house-committee-scrutiny/7649716001/"
+    },
+    {
+      "text": "Get a six-month Wausau Daily Herald subscription for $1",
+      "url": "/story/news/local/2018/02/06/wausau-daily-herald-digital-subscription/300829002/"
+    },
+    {
+      "text": "",
+      "url": "https://cm.wausaudailyherald.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.wausaudailyherald.com%2F&marketName=wausaudailyherald&cta=Right-Rail"
+    },
+    {
+      "text": "",
+      "url": "https://cm.wausaudailyherald.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.wausaudailyherald.com%2F&marketName=wausaudailyherald&cta=Right-Rail"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.wausaudailyherald.com/story/news/local/2022/01/21/how-contact-wausau-daily-herald-staff-and-customer-service/9047323002/"
+    },
+    {
+      "text": "Staff Directory",
+      "url": "https://www.wausaudailyherald.com/story/news/local/2022/01/21/how-contact-wausau-daily-herald-staff-and-customer-service/9047323002/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.gannett.com/careers/"
+    },
+    {
+      "text": "Accessibility Support",
+      "url": "https://cm.wausaudailyherald.com/accessibility"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.wausaudailyherald.com/public-notices"
+    },
+    {
+      "text": "Our Ethical Principles",
+      "url": "https://cm.wausaudailyherald.com/ethical-conduct"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://cm.wausaudailyherald.com/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://cm.wausaudailyherald.com/privacy"
+    },
+    {
+      "text": "Your California Privacy Rights / Privacy Policy",
+      "url": "https://cm.wausaudailyherald.com/privacy-policy/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.wausaudailyherald.com/story/news/local/2022/01/21/how-contact-wausau-daily-herald-staff-and-customer-service/9047323002/"
+    },
+    {
+      "text": "Support Local Businesses",
+      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=wausau"
+    },
+    {
+      "text": "Advertise Your Business",
+      "url": "https://localiq.com/markets/Wisconsin/"
+    },
+    {
+      "text": "Advertising Terms and Conditions",
+      "url": "https://cm.wausaudailyherald.com/advertising-terms-conditions"
+    },
+    {
+      "text": "Buy and Sell",
+      "url": "/placead/"
+    },
+    {
+      "text": "Licensing & Reprints",
+      "url": "https://imagn.com/licensing-reprints/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://help.wausaudailyherald.com/"
+    },
+    {
+      "text": "Subscriber Guide",
+      "url": "https://cm.wausaudailyherald.com/subscriberguide"
+    },
+    {
+      "text": "My Account",
+      "url": "https://account.wausaudailyherald.com/"
+    },
+    {
+      "text": "Give Feedback",
+      "url": "https://cm.wausaudailyherald.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.wausaudailyherald.com%2F&marketName=wausaudailyherald&cta=Footer"
+    },
+    {
+      "text": "Subscribe Today",
+      "url": "https://subscribe.wausaudailyherald.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://profile.wausaudailyherald.com/newsletters/manage"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.wausaudailyherald.com/subscriberguide/apps/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/wausaudailyherald"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/wausauherald"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.wausaudailyherald.com/user/enewspaper"
+    },
+    {
+      "text": "Storytellers",
+      "url": "https://www.storytellersproject.com/"
+    },
+    {
+      "text": "Archives",
+      "url": "http://www.tkqlhce.com/click-8144879-11570746?url=http://archives.wausaudailyherald.com"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "http://static.wausaudailyherald.com/rss/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.wausaudailyherald.com/jobs/"
+    },
+    {
+      "text": "Cars",
+      "url": "https://www.wausaudailyherald.com/cars/"
+    },
+    {
+      "text": "Homes",
+      "url": "http://www.wausaudailyherald.com/marketplace/real-estate/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://classifieds.wausaudailyherald.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Wausau+Daily+Herald"
+    },
+    {
+      "text": "Reviewed",
+      "url": "https://www.reviewed.com/"
+    },
+    {
+      "text": "10Best",
+      "url": "https://www.10best.com/"
+    },
+    {
+      "text": "USA TODAY Sports+",
+      "url": "https://www.usatodaysportsplus.com/"
+    },
+    {
+      "text": "Reach Local",
+      "url": "http://www.reachlocal.com/us/en"
+    }
+  ],
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

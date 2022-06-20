@@ -1,5 +1,5 @@
 {
-  "created": 1655598027,
+  "created": 1655684288,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/25/items/pressenterprise-2022",
@@ -6098,31 +6098,325 @@
       "sha1": "7e1032641fe8ad1b5776811063962c7242ff9a91"
     },
     {
+      "name": "pressenterprise-2022-06-18T18:18:46.226427-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655601528",
+      "size": "33599",
+      "md5": "9dba5d0e4e488f118bba33d49bd41283",
+      "crc32": "543ecffc",
+      "sha1": "c7a8eb99325048351ef749372547aeb7532029d9",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-18T18:18:46.226427-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655601530",
+      "size": "46706",
+      "md5": "6b1993dbcfc342fe586eeaa7df53ac61",
+      "crc32": "fdeeae52",
+      "sha1": "90b64a60dc0ece1995413cfe6ed354453843e2e2",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-18T18:18:46.226427-07:00.jpg",
+      "source": "original",
+      "mtime": "1655601527",
+      "size": "356130",
+      "md5": "d722946a354f83622a514c3863977cc5",
+      "crc32": "1f4841a2",
+      "sha1": "abf162701dac831fb0744859adb56fe237db6091",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-06-18T18:18:46.226427-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-06-18T18:18:46.226427-07:00.jpg",
+      "mtime": "1655601594",
+      "size": "8479",
+      "md5": "080c80bb798ae60cbf570e0fc77b7c12",
+      "crc32": "b97ee554",
+      "sha1": "14bd8e461ca34453b08429e4a4ea83e848da8b64"
+    },
+    {
+      "name": "pressenterprise-2022-06-18T22:10:43.982530-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655615449",
+      "size": "33304",
+      "md5": "6b9c56e58f77a7c3c36f488bc57af30d",
+      "crc32": "54c3a3fb",
+      "sha1": "2b9873d9b50c35a7915712a239dbc85d602079fa",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-18T22:10:43.982530-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655615450",
+      "size": "46111",
+      "md5": "769f8dfe60ac4ca9cf99005874957bbe",
+      "crc32": "88cefafe",
+      "sha1": "a995b3bcbcc7a0f4a9e45aedce0303e4588865b6",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-18T22:10:43.982530-07:00.jpg",
+      "source": "original",
+      "mtime": "1655615446",
+      "size": "343813",
+      "md5": "073cb56fe5548cfe935c751f39254c70",
+      "crc32": "f17bfe80",
+      "sha1": "7219da4f630c2c10d11a669b720d05aa050a8dc8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-06-18T22:10:43.982530-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-06-18T22:10:43.982530-07:00.jpg",
+      "mtime": "1655615506",
+      "size": "8416",
+      "md5": "09fcc06c42af2a7321b6d85df393b86d",
+      "crc32": "e23677dd",
+      "sha1": "fe2a7b80042c16992ddeaef4b54753346d04ce19"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T02:05:06.788786-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655629513",
+      "size": "33301",
+      "md5": "bd6f15eb4585f72d28deb7128279cf9d",
+      "crc32": "b3425b38",
+      "sha1": "a717b8b717c440ce261ba05130fd5c1867864ae8",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T02:05:06.788786-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655629515",
+      "size": "45873",
+      "md5": "dd68b8b815a9615d0d09b8db7299bcf7",
+      "crc32": "aab327e0",
+      "sha1": "757b473ec5b0e60c07a4c62d2255a56fe16ce831",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T02:05:06.788786-07:00.jpg",
+      "source": "original",
+      "mtime": "1655629512",
+      "size": "343359",
+      "md5": "36fc7bcf2c2fa3a283e722fbb986fa52",
+      "crc32": "7ef22da4",
+      "sha1": "8f7ef5fda36d28faf3104314dfeb827d1d63d069",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T02:05:06.788786-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-06-19T02:05:06.788786-07:00.jpg",
+      "mtime": "1655629575",
+      "size": "8420",
+      "md5": "143b0132fdb2eefae298ca6df0e07741",
+      "crc32": "1146d0db",
+      "sha1": "51d58eb82002f72259d3ad8eb6e9960ab2de818a"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T06:13:02.539199-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655644389",
+      "size": "33393",
+      "md5": "00f939f002083a8ce0f67ceb1430fa56",
+      "crc32": "e1d8481c",
+      "sha1": "3382e835dc2e94e559b8f65303ce98c1c83e87d3",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T06:13:02.539199-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655644390",
+      "size": "46410",
+      "md5": "4287c4023bb9d84323fa69a8566e3838",
+      "crc32": "1b34df0b",
+      "sha1": "c4d0fcc50e5950b9cc8d32e17292475f377860d5",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T06:13:02.539199-07:00.jpg",
+      "source": "original",
+      "mtime": "1655644386",
+      "size": "345193",
+      "md5": "6f2c6187d8def992d5d4231603614286",
+      "crc32": "fb7fc2ff",
+      "sha1": "69d2b9cc5e6e57f1308027f68212affee83976f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T06:13:02.539199-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-06-19T06:13:02.539199-07:00.jpg",
+      "mtime": "1655644445",
+      "size": "8402",
+      "md5": "125b4ed774d544fc6bf0b1fada497487",
+      "crc32": "d2aee13c",
+      "sha1": "2be6b927a38377938b2c818f911fa8b7048374dc"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T10:08:26.869676-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655658514",
+      "size": "33534",
+      "md5": "513d5a062880bd5edbdc112602b8c579",
+      "crc32": "a2cce5bf",
+      "sha1": "58dc231bcb5b84c665fe4125562d8ad7f87f9e3f",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T10:08:26.869676-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655658516",
+      "size": "46532",
+      "md5": "af9af91942da0906901e2e9419a98ac7",
+      "crc32": "163cf5cb",
+      "sha1": "2189043487d604452637c3885dd205a52efc5752",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T10:08:26.869676-07:00.jpg",
+      "source": "original",
+      "mtime": "1655658512",
+      "size": "343241",
+      "md5": "0ec0b1686f80b1f7c469e996b0ac6cf9",
+      "crc32": "105230c5",
+      "sha1": "b0e7ee6b1312ab2d1e96f360895e565139bcc714",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T10:08:26.869676-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-06-19T10:08:26.869676-07:00.jpg",
+      "mtime": "1655658581",
+      "size": "8381",
+      "md5": "3a62b9e1bcd56a7ca691cb2b9dd1cf66",
+      "crc32": "90a29fb3",
+      "sha1": "c33cd303af21037a42804938e7fd28812d253a23"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T14:02:32.294462-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655672558",
+      "size": "33538",
+      "md5": "39b599c7f6ef8b081bcc435b2d9fe093",
+      "crc32": "ec165a14",
+      "sha1": "8818c594be68dbf860b1bb3523649baff4201c17",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T14:02:32.294462-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655672560",
+      "size": "46365",
+      "md5": "dc1984a09ae18ffbc2e375e7a7652c2e",
+      "crc32": "81966e95",
+      "sha1": "b327364266a7fa391b9c22038d55a489a260b0eb",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T14:02:32.294462-07:00.jpg",
+      "source": "original",
+      "mtime": "1655672557",
+      "size": "348665",
+      "md5": "fa7e72c6369895abe3d2a9a449287c99",
+      "crc32": "09efa640",
+      "sha1": "d09319323a8643fd86a58fab7e30ae77338fb1fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T14:02:32.294462-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-06-19T14:02:32.294462-07:00.jpg",
+      "mtime": "1655672668",
+      "size": "8376",
+      "md5": "505a10cb41fa0a29e364cc0f9de3268f",
+      "crc32": "ae6f98d4",
+      "sha1": "8bd9e94764f8ccecbda3f6eef01b92d3f651d5ab"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T16:27:04.055356-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655681229",
+      "size": "33589",
+      "md5": "3185f427d0fd471dbeb61112ad07f2b6",
+      "crc32": "49e941d4",
+      "sha1": "f8aad0fb18160419fc74173e2c780ebd97d5dae1",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T16:27:04.055356-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655681230",
+      "size": "46599",
+      "md5": "4e364a8dcc5b66a6c936e4cadce6527d",
+      "crc32": "44c4b3b7",
+      "sha1": "8fa9be539b6f6ab60249e2275522988410087b3e",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T16:27:04.055356-07:00.jpg",
+      "source": "original",
+      "mtime": "1655681227",
+      "size": "346424",
+      "md5": "0afef6c22f85a1087b3fda048b608078",
+      "crc32": "ec569fb0",
+      "sha1": "61c1e8f4440fc85d304d40784ba0eba97962aac2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-06-19T16:27:04.055356-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-06-19T16:27:04.055356-07:00.jpg",
+      "mtime": "1655681292",
+      "size": "8368",
+      "md5": "3213c5ac7d87653313ac12777b9d59a1",
+      "crc32": "01a3f563",
+      "sha1": "89da808faf2e025da87ae8dce5c549ac832b4366"
+    },
+    {
       "name": "pressenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4303bb222bb82bd1112befdc0df5435823f4c054",
-      "mtime": "1655586276",
-      "size": "128056",
-      "md5": "238810862b189ad96f42fa5a3f8f9a59",
-      "crc32": "65200273",
-      "sha1": "bc6f72f4c80740d58b616876ec43cf45321470b1",
+      "btih": "4cbb1bcd1f759f2c1808ab9410d576391d5a6022",
+      "mtime": "1655681303",
+      "size": "134175",
+      "md5": "8f4c15301d687194a484f40d1f8d8ce6",
+      "crc32": "e34b110c",
+      "sha1": "0e50d78312f21a5f42f2cd6b1826a1798ed9bbb0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pressenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ed554f743ec5c9f6ad5a5433754e793",
+      "md5": "588975df3f6112ffc1ec87d59a6eb2c0",
       "summation": "md5"
     },
     {
       "name": "pressenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655586213",
-      "size": "675840",
-      "md5": "fa64a5ab60eec6f9d02a8fd65141e501",
-      "crc32": "a17aa166",
-      "sha1": "b2d75b2db3f22eb89d9f4715d8e031595f35ef03",
+      "mtime": "1655681234",
+      "size": "712704",
+      "md5": "ec874c81f7a91fb2d7fb701af615c792",
+      "crc32": "6e407831",
+      "sha1": "02b969f738e9f3859677101a8d2263924cec97db",
       "format": "Metadata"
     },
     {
@@ -6136,9 +6430,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 583,
-  "item_last_updated": 1655586276,
-  "item_size": 70239790,
+  "files_count": 611,
+  "item_last_updated": 1655681303,
+  "item_size": 73327294,
   "metadata": {
     "identifier": "pressenterprise-2022",
     "collection": [
@@ -6169,7 +6463,7 @@
       "url": "https://checkout.pe.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV&returnUrl=https%253A%252F%252Fwww.pe.com%252F"
     },
     {
-      "text": "\n\t\t\t75\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t82\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/riverside-ca/92506/weather-warnings/38709_pc?lang=en-us&partner=mng_2"
     },
     {
@@ -6481,7 +6775,7 @@
       "url": "https://www.pe.com/login?returnUrl=https%3A%2F%2Fwww.pe.com%2F"
     },
     {
-      "text": "\n\t\t\t75\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t82\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/riverside-ca/92506/weather-warnings/38709_pc?lang=en-us&partner=mng_2"
     },
     {
@@ -6521,51 +6815,51 @@
       "url": "https://www.pe.com/sponsored-content/the-tea/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNew Cheech museum\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/14/cheech-marin-talks-art-at-riverside-museum-i-bought-what-i-liked/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tThe Cheech\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/rpe-l-allcheech-0618/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tElection Results\t\t\n\n\t\t\t",
       "url": "https://www.pe.com/2022/06/08/election-results/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t2022 graduation schedule\t\t\n\n\t\t\t",
       "url": "https://www.pe.com/2022/05/16/graduation-2022-schedule-dates-times-for-riverside-county-schools/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tShare graduation photos\t\t\n\n\t\t\t",
       "url": "https://www.pe.com/2022/05/26/inland-empire-class-of-2022-share-your-graduation-photos/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAsk us a question!\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2021/12/16/ie-curious/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLatest weather news\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2021/12/14/latest-weather-news/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tRiverside\u2019s Cheech Marin museum opens to cheers, cultural celebration\t\t\n\n\t\t\t",
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCheech Marin museum opens to cheers, cultural celebration in Riverside\t\t\n\n\t\t\t",
       "url": "https://www.pe.com/2022/06/18/riversides-cheech-marin-museum-opens-to-cheers-cultural-celebration/"
     },
     {
@@ -6581,116 +6875,52 @@
       "url": "https://www.pe.com/2022/06/18/photos-show-inside-of-cheech-marins-new-museum-in-riverside/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos show inside of Cheech Marin\u2019s new museum in Riverside\t\t\n\n\t\t\t",
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos show inside Cheech Marin\u2019s new museum in Riverside\t\t\n\n\t\t\t",
       "url": "https://www.pe.com/2022/06/18/photos-show-inside-of-cheech-marins-new-museum-in-riverside/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/14/10-things-to-know-about-cheech-marins-museum-opening-june-18/"
+      "url": "https://www.pe.com/2022/06/18/at-opening-of-the-cheech-latino-culture-claims-the-spotlight/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t10 things to know about Cheech Marin\u2019s museum, opening June 18\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/14/10-things-to-know-about-cheech-marins-museum-opening-june-18/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAt opening of The Cheech, Latino culture claims the spotlight\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/at-opening-of-the-cheech-latino-culture-claims-the-spotlight/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/16/numbers-tell-story-of-riversides-cheech-marin-museum/"
+      "url": "https://www.pe.com/2022/06/18/rpe-l-allcheech-0618/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNumbers tell story of Riverside\u2019s Cheech Marin museum\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/16/numbers-tell-story-of-riversides-cheech-marin-museum/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tRead more about The Cheech\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/rpe-l-allcheech-0618/"
     },
     {
       "text": "",
       "url": "https://www.pe.com/2022/06/18/riversides-cheech-marin-museum-opens-to-cheers-cultural-celebration/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/18/small-brush-fire-in-jurupa-valley-injures-2/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/small-brush-fire-in-jurupa-valley-injures-2/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSmall brush fire in Jurupa Valley injures 2\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/small-brush-fire-in-jurupa-valley-injures-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/17/chp-pedestrian-killed-on-215-freeway-was-trying-to-cross-on-ramp/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/chp-pedestrian-killed-on-215-freeway-was-trying-to-cross-on-ramp/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCHP: Pedestrian killed on 215 Freeway was trying to cross on-ramp\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/chp-pedestrian-killed-on-215-freeway-was-trying-to-cross-on-ramp/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/17/man-who-sexually-assaulted-wildomar-girls-gets-40-years-to-life-in-prison/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/man-who-sexually-assaulted-wildomar-girls-gets-40-years-to-life-in-prison/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMan who sexually assaulted Wildomar girls gets 40 years to life in prison\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/man-who-sexually-assaulted-wildomar-girls-gets-40-years-to-life-in-prison/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/17/man-suspected-in-2-hemet-area-7-eleven-robberies-arrested/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/man-suspected-in-2-hemet-area-7-eleven-robberies-arrested/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMan suspected in 2 Hemet-area 7-Eleven robberies arrested\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/man-suspected-in-2-hemet-area-7-eleven-robberies-arrested/"
-    },
-    {
-      "text": "",
-      "url": "/riverside-county-coronavirus-tracker-cases-vaccines-maps-and-more/"
     },
     {
       "text": "",
       "url": "https://www.pe.com/2022/06/18/riverside-dance-instructor-arrested-on-suspicion-of-sexually-abusing-former-student/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/riverside-dance-instructor-arrested-on-suspicion-of-sexually-abusing-former-student/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tRiverside dance instructor arrested on suspicion of sexually abusing former student\t\t\n\n\t\t\t",
@@ -6698,11 +6928,99 @@
     },
     {
       "text": "",
+      "url": "https://www.pe.com/2022/06/19/moreno-valley-warehouse-larger-than-citys-mall-is-back-for-consideration/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/moreno-valley-warehouse-larger-than-citys-mall-is-back-for-consideration/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMoreno Valley warehouse \u2014 larger than city\u2019s mall \u2014 is back for consideration\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/moreno-valley-warehouse-larger-than-citys-mall-is-back-for-consideration/"
+    },
+    {
+      "text": "",
+      "url": "https://www.pe.com/2022/06/18/woman-found-slain-at-corona-business-man-arrested/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/woman-found-slain-at-corona-business-man-arrested/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWoman found slain at Corona business, man arrested\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/woman-found-slain-at-corona-business-man-arrested/"
+    },
+    {
+      "text": "",
+      "url": "https://www.pe.com/2022/06/18/menifees-steam-academy-opens-animatronics-wing-for-middle-school-students/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/menifees-steam-academy-opens-animatronics-wing-for-middle-school-students/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMenifee\u2019s STEAM Academy opens animatronics wing for middle school students\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/menifees-steam-academy-opens-animatronics-wing-for-middle-school-students/"
+    },
+    {
+      "text": "",
+      "url": "/riverside-county-coronavirus-tracker-cases-vaccines-maps-and-more/"
+    },
+    {
+      "text": "",
+      "url": "https://www.pe.com/2022/06/19/la-sierra-university-hosts-in-person-graduation-for-class-of-2022/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLa Sierra University hosts in-person graduation for Class of 2022\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/la-sierra-university-hosts-in-person-graduation-for-class-of-2022/"
+    },
+    {
+      "text": "",
+      "url": "https://www.pe.com/2022/06/19/successful-aging-why-you-might-want-to-learn-more-about-alzheimers-disease/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSuccessful Aging: Why you might want to learn more about Alzheimer\u2019s disease\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/successful-aging-why-you-might-want-to-learn-more-about-alzheimers-disease/"
+    },
+    {
+      "text": "",
+      "url": "https://www.pe.com/2022/06/18/at-opening-of-the-cheech-latino-culture-claims-the-spotlight/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAt opening of The Cheech, Latino culture claims the spotlight\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/at-opening-of-the-cheech-latino-culture-claims-the-spotlight/"
+    },
+    {
+      "text": "",
       "url": "https://www.pe.com/2022/06/18/suspect-who-fatally-shot-2-el-monte-officers-died-by-suicide-coroner-says/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tMan accused of killing 2 El Monte officers died by suicide, coroner says\t\t\n\n\t\t\t",
@@ -6713,8 +7031,8 @@
       "url": "https://www.pe.com/2022/06/18/these-beautiful-low-maintenance-plants-bring-movement-to-the-garden-by-blowing-in-the-breeze/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tThese beautiful low-maintenance plants bring movement to the garden by blowing in the breeze\t\t\n\n\t\t\t",
@@ -6722,23 +7040,11 @@
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/18/menifees-steam-academy-opens-animatronics-wing-for-middle-school-students/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMenifee\u2019s STEAM Academy opens animatronics wing for middle school students\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/menifees-steam-academy-opens-animatronics-wing-for-middle-school-students/"
-    },
-    {
-      "text": "",
       "url": "https://www.pe.com/2022/06/18/1987-when-mortgage-rates-last-soared-this-much/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t1987: When mortgage rates last soared this much\t\t\n\n\t\t\t",
@@ -6749,24 +7055,12 @@
       "url": "https://www.pe.com/2022/06/18/photos-show-inside-of-cheech-marins-new-museum-in-riverside/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos show inside of Cheech Marin\u2019s new museum in Riverside\t\t\n\n\t\t\t",
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos show inside Cheech Marin\u2019s new museum in Riverside\t\t\n\n\t\t\t",
       "url": "https://www.pe.com/2022/06/18/photos-show-inside-of-cheech-marins-new-museum-in-riverside/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/17/juneteenth-the-newest-federal-holiday-and-trans-atlantic-slaverys-rise-and-fall/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJuneteenth: The newest federal holiday and trans-Atlantic slavery\u2019s rise and fall\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/juneteenth-the-newest-federal-holiday-and-trans-atlantic-slaverys-rise-and-fall/"
     },
     {
       "text": "\n\t\tSubscribe",
@@ -6793,52 +7087,52 @@
       "url": "http://enewspaper.pe.com"
     },
     {
-      "text": "\n                CHP: Pedestrian killed on 215 Freeway was trying to cross on-ramp\n            ",
-      "url": "https://www.pe.com/2022/06/17/chp-pedestrian-killed-on-215-freeway-was-trying-to-cross-on-ramp/"
+      "text": "\n                Cheech Marin museum opens to cheers, cultural celebration in Riverside\n            ",
+      "url": "https://www.pe.com/2022/06/18/riversides-cheech-marin-museum-opens-to-cheers-cultural-celebration/"
     },
     {
-      "text": "\n                Sign on gravel truck doesn\u2019t trump the law\n            ",
-      "url": "https://www.pe.com/2022/06/17/sign-on-gravel-truck-doesnt-trump-the-law/"
+      "text": "\n                Riverside dance instructor arrested on suspicion of sexually abusing former student\n            ",
+      "url": "https://www.pe.com/2022/06/18/riverside-dance-instructor-arrested-on-suspicion-of-sexually-abusing-former-student/"
     },
     {
-      "text": "\n                Man who sexually assaulted Wildomar girls gets 40 years to life in prison\n            ",
-      "url": "https://www.pe.com/2022/06/17/man-who-sexually-assaulted-wildomar-girls-gets-40-years-to-life-in-prison/"
+      "text": "\n                Woman found slain at Corona business, man arrested\n            ",
+      "url": "https://www.pe.com/2022/06/18/woman-found-slain-at-corona-business-man-arrested/"
     },
     {
-      "text": "\n                Disneyland crime reports: Bomb threat, animal cruelty and vandalism\n            ",
-      "url": "https://www.pe.com/2022/06/17/disneyland-crime-reports-bomb-threat-animal-cruelty-and-vandalism/"
+      "text": "\n                Man dead, woman injured in 10 Freeway crash in Yucaipa\n            ",
+      "url": "https://www.pe.com/2022/06/19/man-dead-woman-injured-in-10-freeway-crash-in-yucaipa/"
     },
     {
-      "text": "\n                California legislators want to help first-time homebuyers with a down payment, \u2018shared equity\u2019\n            ",
-      "url": "https://www.pe.com/2022/06/16/california-legislators-want-to-help-first-time-homebuyers-with-a-down-payment-shared-equity/"
+      "text": "\n                Moreno Valley warehouse \u2014 larger than city\u2019s mall \u2014 is back for consideration\n            ",
+      "url": "https://www.pe.com/2022/06/19/moreno-valley-warehouse-larger-than-citys-mall-is-back-for-consideration/"
     },
     {
-      "text": "\n                2 El Monte officers were fatally shot in head, coroner says\n            ",
-      "url": "https://www.pe.com/2022/06/17/2-el-monte-officers-were-fatally-shot-in-head-coroner-says/"
-    },
-    {
-      "text": "\n                Man suspected in 2 Hemet-area 7-Eleven robberies arrested\n            ",
-      "url": "https://www.pe.com/2022/06/17/man-suspected-in-2-hemet-area-7-eleven-robberies-arrested/"
-    },
-    {
-      "text": "\n                Dodgers pitcher Andrew Heaney\u2019s \u2018business trip\u2019 home is over\n            ",
-      "url": "https://www.pe.com/2022/06/17/dodgers-pitcher-andrew-heaneys-business-trip-home-is-over/"
-    },
-    {
-      "text": "\n                Photos show inside of Cheech Marin\u2019s new museum in Riverside\n            ",
+      "text": "\n                Photos show inside Cheech Marin\u2019s new museum in Riverside\n            ",
       "url": "https://www.pe.com/2022/06/18/photos-show-inside-of-cheech-marins-new-museum-in-riverside/"
     },
     {
-      "text": "\n                Temecula\u2019s Pride Month proclamation blasted by Council Member Jessica Alexander\n            ",
-      "url": "https://www.pe.com/2022/06/16/temeculas-pride-month-proclamation-blasted-by-council-member-jessica-alexander/"
+      "text": "\n                At opening of The Cheech, Latino culture claims the spotlight\n            ",
+      "url": "https://www.pe.com/2022/06/18/at-opening-of-the-cheech-latino-culture-claims-the-spotlight/"
+    },
+    {
+      "text": "\n                Corona student chosen for softball Triple Crown International Challenge\n            ",
+      "url": "https://www.pe.com/2022/06/18/corona-student-chosen-for-softball-triple-crown-international-challenge/"
     },
     {
       "text": "\n                These beautiful low-maintenance plants bring movement to the garden by blowing in the breeze\n            ",
       "url": "https://www.pe.com/2022/06/18/these-beautiful-low-maintenance-plants-bring-movement-to-the-garden-by-blowing-in-the-breeze/"
     },
     {
-      "text": "\n                Memorial for victims of San Bernardino terror attack opens Monday, here\u2019s what it looks like\n            ",
-      "url": "https://www.pe.com/2022/06/17/memorial-for-victims-of-san-bernardino-terror-attack-opens-monday-heres-what-it-looks-like/"
+      "text": "\n                Fire rips through San Bernardino County Code Enforcement building\n            ",
+      "url": "https://www.pe.com/2022/06/19/fire-rips-through-san-bernardino-county-code-enforcement-building/"
+    },
+    {
+      "text": "\n                Small brush fire in Jurupa Valley injures 2\n            ",
+      "url": "https://www.pe.com/2022/06/18/small-brush-fire-in-jurupa-valley-injures-2/"
+    },
+    {
+      "text": "\n                Why Democrats are terrified of Donald Trump\n            ",
+      "url": "https://www.pe.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
     },
     {
       "text": "\n\t\t\t\tCrime and Public Safety\n\t\t\t",
@@ -6846,55 +7140,55 @@
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/17/mother-of-slain-el-monte-police-officer-blames-gascon-policies/"
+      "url": "https://www.pe.com/2022/06/19/man-dead-woman-injured-in-10-freeway-crash-in-yucaipa/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/mother-of-slain-el-monte-police-officer-blames-gascon-policies/"
+      "url": "https://www.pe.com/2022/06/19/man-dead-woman-injured-in-10-freeway-crash-in-yucaipa/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMother of slain El Monte police officer blames Gasc\u00f3n policies\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/mother-of-slain-el-monte-police-officer-blames-gascon-policies/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/17/el-monte-police-receive-prayers-and-emotional-support/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEl Monte police receive prayers and emotional support\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/el-monte-police-receive-prayers-and-emotional-support/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMan dead, woman injured in 10 Freeway crash in Yucaipa\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/man-dead-woman-injured-in-10-freeway-crash-in-yucaipa/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/17/felon-who-openly-fantasized-about-shooting-up-norco-college-gets-4-years-in-prison/"
+      "url": "https://www.pe.com/2022/06/19/fire-rips-through-san-bernardino-county-code-enforcement-building/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFelon who openly fantasized about shooting up Norco College gets 4 years in prison\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/felon-who-openly-fantasized-about-shooting-up-norco-college-gets-4-years-in-prison/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFire rips through San Bernardino County Code Enforcement building\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/fire-rips-through-san-bernardino-county-code-enforcement-building/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/17/2-el-monte-officers-were-fatally-shot-in-head-coroner-says/"
+      "url": "https://www.pe.com/2022/06/18/stanton-driver-arrested-after-deadly-hesperia-hit-and-run/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t2 El Monte officers were fatally shot in head, coroner says\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/2-el-monte-officers-were-fatally-shot-in-head-coroner-says/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tStanton driver arrested after deadly Hesperia hit-and-run\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/stanton-driver-arrested-after-deadly-hesperia-hit-and-run/"
+    },
+    {
+      "text": "",
+      "url": "https://www.pe.com/2022/06/18/crews-battle-fire-at-large-san-bernardino-pallet-yard/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCrews knock down fire at large San Bernardino pallet yard\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/crews-battle-fire-at-large-san-bernardino-pallet-yard/"
     },
     {
       "text": "\n\t\t\t\tLocal News\n\t\t\t",
@@ -6902,55 +7196,55 @@
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/18/board-oks-45-day-pause-on-san-bernardino-county-short-term-rentals/"
+      "url": "https://www.pe.com/2022/06/19/loma-linda-debates-spending-370000-on-1874-adobe-owned-by-developer/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/board-oks-45-day-pause-on-san-bernardino-county-short-term-rentals/"
+      "url": "https://www.pe.com/2022/06/19/loma-linda-debates-spending-370000-on-1874-adobe-owned-by-developer/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBoard OKs 45-day pause on San Bernardino County short-term rentals\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/board-oks-45-day-pause-on-san-bernardino-county-short-term-rentals/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/17/light-rail-to-pomona-halfway-there-but-proponents-of-extension-to-claremont-montclair-living-on-a-prayer/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLight rail to Pomona \u2018halfway there\u2019 but proponents of extension to Claremont, Montclair \u2018living on a prayer\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/light-rail-to-pomona-halfway-there-but-proponents-of-extension-to-claremont-montclair-living-on-a-prayer/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLoma Linda debates spending $370,000 on 1874 adobe owned by developer\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/loma-linda-debates-spending-370000-on-1874-adobe-owned-by-developer/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/17/lets-close-this-sad-chapter-san-bernardino-councilman-says-as-mayors-reelection-hopes-dim/"
+      "url": "https://www.pe.com/2022/06/18/2-fallen-el-monte-officers-honored-as-brave-men-at-vigil/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Let\u2019s close this sad chapter,\u2019 San Bernardino councilman says as mayor\u2019s reelection hopes dim\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/lets-close-this-sad-chapter-san-bernardino-councilman-says-as-mayors-reelection-hopes-dim/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\t2 fallen El Monte officers honored as \u2018brave men\u2019 at vigil\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/2-fallen-el-monte-officers-honored-as-brave-men-at-vigil/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/17/mountain-counseling-training-inc-offers-mental-health-support/"
+      "url": "https://www.pe.com/2022/06/18/rpe-l-allcheech-0618/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMountain Counseling & Training, Inc. offers mental health support\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/mountain-counseling-training-inc-offers-mental-health-support/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tRead more about The Cheech\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/rpe-l-allcheech-0618/"
+    },
+    {
+      "text": "",
+      "url": "https://www.pe.com/2022/06/18/soul-festival-celebrates-juneteenth-in-downtown-san-bernardino/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSoul festival celebrates Juneteenth in downtown San Bernardino\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/soul-festival-celebrates-juneteenth-in-downtown-san-bernardino/"
     },
     {
       "text": "\n\t\t\t\tThings To Do\n\t\t\t",
@@ -6965,8 +7259,8 @@
       "url": "https://www.pe.com/2022/06/18/senior-moments-giving-myself-the-gift-of-good-memories-on-fathers-day/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tSenior Moments: Giving myself the gift of good memories on Father\u2019s Day\t\t\n\n\t\t\t",
@@ -6974,11 +7268,23 @@
     },
     {
       "text": "",
+      "url": "https://www.pe.com/2022/06/17/juneteenth-the-newest-federal-holiday-and-trans-atlantic-slaverys-rise-and-fall/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJuneteenth: The newest federal holiday and trans-Atlantic slavery\u2019s rise and fall\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/17/juneteenth-the-newest-federal-holiday-and-trans-atlantic-slaverys-rise-and-fall/"
+    },
+    {
+      "text": "",
       "url": "https://www.pe.com/2022/06/17/the-book-pages-what-the-audiobook-boom-means-to-libro-fm/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tThe Book Pages: What the audiobook boom means to Libro.fm\t\t\n\n\t\t\t",
@@ -6989,24 +7295,12 @@
       "url": "https://www.pe.com/2022/06/17/casino-insider-tom-segura-talks-about-how-his-new-book-ahead-of-his-spotlight-29-casino-performance/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tCasino Insider: Tom Segura talks about how his new book ahead of his Spotlight 29 Casino performance\t\t\n\n\t\t\t",
       "url": "https://www.pe.com/2022/06/17/casino-insider-tom-segura-talks-about-how-his-new-book-ahead-of-his-spotlight-29-casino-performance/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/17/disneyland-crime-reports-bomb-threat-animal-cruelty-and-vandalism/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDisneyland crime reports: Bomb threat, animal cruelty and vandalism\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/disneyland-crime-reports-bomb-threat-animal-cruelty-and-vandalism/"
     },
     {
       "text": "Photos",
@@ -7021,8 +7315,8 @@
       "url": "https://www.pe.com/2022/06/02/95-years-later-san-bernardinos-enterprise-building-is-a-modern-day-time-capsule/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t95 years later, San Bernardino\u2019s Enterprise Building is a modern-day time capsule\t\t\n\n\t\t\t",
@@ -7037,8 +7331,8 @@
       "url": "https://www.pe.com/2022/05/26/riverside-county-gang-murder-investigation-snares-17-people-55-firearms/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tRiverside County gang murder investigation snares 17 people, 55 firearms\t\t\n\n\t\t\t",
@@ -7053,8 +7347,8 @@
       "url": "https://www.pe.com/2022/05/26/california-baptist-baseball-team-outslugs-uc-riverside-in-crosstown-series-opener/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia Baptist baseball team outslugs UC Riverside in crosstown series opener\t\t\n\n\t\t\t",
@@ -7069,8 +7363,8 @@
       "url": "https://www.pe.com/2022/05/21/comic-con-revolution-brings-superhero-fans-back-to-ontario/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tComic Con Revolution brings superhero fans back to Ontario\t\t\n\n\t\t\t",
@@ -7085,8 +7379,8 @@
       "url": "https://www.pe.com/2022/05/14/thousands-rally-march-for-abortion-rights-across-southern-california/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tThousands rally, march for abortion rights across Southern California\t\t\n\n\t\t\t",
@@ -7101,8 +7395,8 @@
       "url": "https://www.pe.com/2022/05/14/signs-of-the-times-what-protesters-are-carrying-at-saturdays-abortion-rights-rallies-in-southern-california/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tSigns of the times: What protesters are carrying at Saturday\u2019s abortion rights rallies in Southern California\t\t\n\n\t\t\t",
@@ -7117,8 +7411,8 @@
       "url": "https://www.pe.com/2022/05/13/crowded-animal-shelters-lead-to-free-adoptions-in-riverside-county/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tCrowded animal shelters lead to free adoptions in Riverside County\t\t\n\n\t\t\t",
@@ -7133,8 +7427,8 @@
       "url": "https://www.pe.com/2022/05/13/rams-bring-super-bowl-trophy-to-inland-empire/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tRams bring Super Bowl trophy to Inland Empire\t\t\n\n\t\t\t",
@@ -7149,8 +7443,8 @@
       "url": "https://www.pe.com/2022/05/11/fire-prompts-evacuation-at-laguna-beach-resort/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tCoastal fire burns 20 homes, forces evacuations in Laguna Niguel\t\t\n\n\t\t\t",
@@ -7165,8 +7459,8 @@
       "url": "https://www.pe.com/2022/05/11/meet-ginnie-san-bernardino-county-fires-newest-arson-k-9/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tMeet Ginnie, San Bernardino County Fire\u2019s newest arson K-9\t\t\n\n\t\t\t",
@@ -7181,8 +7475,8 @@
       "url": "https://www.pe.com/2022/05/11/menifee-residents-outraged-over-sex-offenders-possible-release-to-their-city/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tMenifee residents outraged over sex offender\u2019s possible release to their city\t\t\n\n\t\t\t",
@@ -7197,8 +7491,8 @@
       "url": "https://www.pe.com/2022/05/03/these-are-the-45-best-photos-from-april-chosen-by-our-photographers/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tThese are the 45 best photos from April chosen by our photographers\t\t\n\n\t\t\t",
@@ -7210,55 +7504,55 @@
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/18/angels-question-the-condition-of-the-baseballs-in-seattle/"
+      "url": "https://www.pe.com/2022/06/19/dodgers-mookie-betts-hopeful-he-can-return-quickly-from-rib-injury/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/angels-question-the-condition-of-the-baseballs-in-seattle/"
+      "url": "https://www.pe.com/2022/06/19/dodgers-mookie-betts-hopeful-he-can-return-quickly-from-rib-injury/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAngels question the condition of the baseballs in Seattle\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/angels-question-the-condition-of-the-baseballs-in-seattle/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/17/clayton-kershaw-makes-strong-return-dodgers-lose-in-extra-innings/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDodgers flop in the clutch, lose to Guardians in extra innings\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/clayton-kershaw-makes-strong-return-dodgers-lose-in-extra-innings/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tDodgers, Mookie Betts \u2018hopeful\u2019 he can return quickly from rib injury\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/dodgers-mookie-betts-hopeful-he-can-return-quickly-from-rib-injury/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/17/alexander-the-lakers-have-some-work-to-do/"
+      "url": "https://www.pe.com/2022/06/18/alexander-sandy-koufax-gets-his-statue-at-dodger-stadium/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAlexander: The Lakers have some work to do\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/alexander-the-lakers-have-some-work-to-do/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAlexander: Sandy Koufax gets his statue at Dodger Stadium\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/alexander-sandy-koufax-gets-his-statue-at-dodger-stadium/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/17/dodgers-pitcher-andrew-heaneys-business-trip-home-is-over/"
+      "url": "https://www.pe.com/2022/06/19/angels-veteran-starters-content-with-extra-rest-of-6-man-rotation/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDodgers pitcher Andrew Heaney\u2019s \u2018business trip\u2019 home is over\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/dodgers-pitcher-andrew-heaneys-business-trip-home-is-over/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAngels veteran starters content with extra rest of 6-man rotation\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/angels-veteran-starters-content-with-extra-rest-of-6-man-rotation/"
+    },
+    {
+      "text": "",
+      "url": "https://www.pe.com/2022/06/18/dejan-joveljic-helps-galaxy-secure-a-point-with-late-goal-in-draw-with-portland/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tDejan Jovelji\u0107 helps Galaxy secure a point with late goal in draw with Portland\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/18/dejan-joveljic-helps-galaxy-secure-a-point-with-late-goal-in-draw-with-portland/"
     },
     {
       "text": "\n\t\t\t\t2022 Elections\n\t\t\t",
@@ -7266,15 +7560,27 @@
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/16/3-san-bernardino-council-members-headed-toward-reelection-after-june-primary/"
+      "url": "https://www.pe.com/2022/06/17/lets-close-this-sad-chapter-san-bernardino-councilman-says-as-mayors-reelection-hopes-dim/"
     },
     {
       "text": "\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/17/lets-close-this-sad-chapter-san-bernardino-councilman-says-as-mayors-reelection-hopes-dim/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Let\u2019s close this sad chapter,\u2019 San Bernardino councilman says as mayor\u2019s reelection hopes dim\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/17/lets-close-this-sad-chapter-san-bernardino-councilman-says-as-mayors-reelection-hopes-dim/"
+    },
+    {
+      "text": "",
       "url": "https://www.pe.com/2022/06/16/3-san-bernardino-council-members-headed-toward-reelection-after-june-primary/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t3 San Bernardino council members headed toward reelection after June primary\t\t\n\n\t\t\t",
@@ -7285,8 +7591,8 @@
       "url": "https://www.pe.com/2022/06/16/with-mayor-defeated-san-bernardino-councils-spirits-soar/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tWith mayor defeated, San Bernardino council\u2019s spirits soar\t\t\n\n\t\t\t",
@@ -7297,24 +7603,12 @@
       "url": "https://www.pe.com/2022/06/15/elections-trump-pick-wins-senate-primary-in-nevada-plus-texas-south-carolina-results/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tElections: Trump pick wins Senate primary in Nevada; plus Texas, South Carolina results\t\t\n\n\t\t\t",
       "url": "https://www.pe.com/2022/06/15/elections-trump-pick-wins-senate-primary-in-nevada-plus-texas-south-carolina-results/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/13/sarah-palin-takes-lead-in-race-for-alaskas-house-seat/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSarah Palin takes lead in race for Alaska\u2019s House seat\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/13/sarah-palin-takes-lead-in-race-for-alaskas-house-seat/"
     },
     {
       "text": "\n\t\t\t\tOpinion\n\t\t\t",
@@ -7322,55 +7616,55 @@
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
+      "url": "https://www.pe.com/2022/06/19/the-states-approved-budget-is-a-scam/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
+      "url": "https://www.pe.com/2022/06/19/the-states-approved-budget-is-a-scam/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWhy Democrats are terrified of Donald Trump\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
-    },
-    {
-      "text": "",
-      "url": "https://www.pe.com/2022/06/18/californias-water-supply-goes-beyond-the-current-drought/"
-    },
-    {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s water supply goes beyond the current drought\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/californias-water-supply-goes-beyond-the-current-drought/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s budget is a scam\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/the-states-approved-budget-is-a-scam/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/18/red-flag-laws-require-a-tricky-balance-due-process-rights-are-critical/"
+      "url": "https://www.pe.com/2022/06/19/ten-southern-california-politicians-who-lost-big-this-election/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Red flag\u2019 laws require a tricky balance. Due process rights are critical.\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/18/red-flag-laws-require-a-tricky-balance-due-process-rights-are-critical/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTen Southern California politicians who lost big this election\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/ten-southern-california-politicians-who-lost-big-this-election/"
     },
     {
       "text": "",
-      "url": "https://www.pe.com/2022/06/17/edgier-group-grabs-control-of-libertarians/"
+      "url": "https://www.pe.com/2022/06/19/judges-shouldnt-be-able-to-give-words-in-statutes-new-meanings/"
     },
     {
-      "text": "Crime and Public Safety | ",
-      "url": "https://www.pe.com/news/crime-and-public-safety/"
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEdgier group grabs control of Libertarians\t\t\n\n\t\t\t",
-      "url": "https://www.pe.com/2022/06/17/edgier-group-grabs-control-of-libertarians/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJudges shouldn\u2019t be able to give words in statutes new meanings\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/judges-shouldnt-be-able-to-give-words-in-statutes-new-meanings/"
+    },
+    {
+      "text": "",
+      "url": "https://www.pe.com/2022/06/19/a-solution-that-wont-fix-californias-low-homeownership/"
+    },
+    {
+      "text": "Local News | ",
+      "url": "https://www.pe.com/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tA solution that won\u2019t fix California\u2019s low homeownership\t\t\n\n\t\t\t",
+      "url": "https://www.pe.com/2022/06/19/a-solution-that-wont-fix-californias-low-homeownership/"
     },
     {
       "text": "Another Florida homeowners insurance company goes under",
@@ -7585,10 +7879,10 @@
       "url": "https://www.pe.com/faqlogin/?returnUrl=https%3A%2F%2Fwww.pe.com%2F%3FclearUserState%3Dtrue"
     }
   ],
-  "server": "ia802504.us.archive.org",
-  "uniq": 1717449435,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1321855842,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

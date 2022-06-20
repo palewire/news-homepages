@@ -1,8 +1,8 @@
 {
-  "created": 1655597970,
-  "d1": "ia902506.us.archive.org",
-  "d2": "ia802506.us.archive.org",
-  "dir": "/13/items/lemonde_en-2022",
+  "created": 1655681224,
+  "d1": "ia601401.us.archive.org",
+  "d2": "ia801401.us.archive.org",
+  "dir": "/6/items/lemonde_en-2022",
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -3208,31 +3208,325 @@
       "sha1": "e74a2a0bd6f2fb50e47064a0643080b2df948c59"
     },
     {
+      "name": "lemonde_en-2022-06-19T03:17:23.668227+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655601448",
+      "size": "28899",
+      "md5": "74b38556e41c2a85db6aa8bb1a9b80f9",
+      "crc32": "8e512523",
+      "sha1": "77b35d95b1c30549bdba97bca9007f45ceab6b95",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T03:17:23.668227+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655601449",
+      "size": "48234",
+      "md5": "57dae097eefec1354129b7306de27ed1",
+      "crc32": "121e1f10",
+      "sha1": "60c2963afee74952e0fcc233de99b66290add6a9",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T03:17:23.668227+02:00.jpg",
+      "source": "original",
+      "mtime": "1655601446",
+      "size": "256465",
+      "md5": "2b32ab3db2374ba623de386332c66c0c",
+      "crc32": "35e200b5",
+      "sha1": "68408112891616f8ab859310fb5c17b776fc19fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T03:17:23.668227+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-06-19T03:17:23.668227+02:00.jpg",
+      "mtime": "1655601586",
+      "size": "8755",
+      "md5": "da78ef1adf134f028b131cd8590268a3",
+      "crc32": "e6571efc",
+      "sha1": "e08d45d5a90272aa9d1f9cfd11abb921849d2f0d"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T07:09:36.863968+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655615381",
+      "size": "28779",
+      "md5": "76579611cf543a8a041935c2c64fcda3",
+      "crc32": "67221c6b",
+      "sha1": "2cd7abdc5f4147daa46430a57f925169ece4c345",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T07:09:36.863968+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655615383",
+      "size": "47234",
+      "md5": "f1dcd5f898be7e468263e852b1309010",
+      "crc32": "fd2dd8bc",
+      "sha1": "26b1cc71ea38bc07ba3b7ca2d31d6297ac3e16d3",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T07:09:36.863968+02:00.jpg",
+      "source": "original",
+      "mtime": "1655615380",
+      "size": "274850",
+      "md5": "e57d829e33d00c475e40c757e7a764be",
+      "crc32": "76702a81",
+      "sha1": "6da73830efead0238fad2cfc792c9ace6dea722e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T07:09:36.863968+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-06-19T07:09:36.863968+02:00.jpg",
+      "mtime": "1655615429",
+      "size": "8847",
+      "md5": "e8573b3575257dce4960559f32d7e6a9",
+      "crc32": "260f4763",
+      "sha1": "60afb42ad2aa334372bbac72ab15b73d5a031b21"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T11:03:23.976396+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655629408",
+      "size": "28414",
+      "md5": "3daa6a0b5466c4ff45de442c8b9a1fc6",
+      "crc32": "ceb5cb44",
+      "sha1": "d12de762ac41e70d47f314752a313fc1e5cf7bf5",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T11:03:23.976396+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655629411",
+      "size": "46937",
+      "md5": "f5b2160f1f357de11c38b2e462ba1f60",
+      "crc32": "d13011c7",
+      "sha1": "21d8fe0a49fb54a6ada716a257adf4d10c2d3312",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T11:03:23.976396+02:00.jpg",
+      "source": "original",
+      "mtime": "1655629406",
+      "size": "272828",
+      "md5": "c305df466527286d8100be190d3fd5bd",
+      "crc32": "f1b791e0",
+      "sha1": "c45b45dd821d51d5f951d8127a81d40e149a4cb5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T11:03:23.976396+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-06-19T11:03:23.976396+02:00.jpg",
+      "mtime": "1655629458",
+      "size": "8919",
+      "md5": "cc6ca2d4f1ff76a2cb7266c10a4f9087",
+      "crc32": "0aa9d7e5",
+      "sha1": "3932d39a3e646b2af57db22029f2efdaa2b680d7"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T15:11:45.109547+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655644308",
+      "size": "29394",
+      "md5": "7ee38dcea47dd3bf53cbd592fbc7c672",
+      "crc32": "4b1bbac5",
+      "sha1": "1d0d314e9b0d1d5f7c85c57e642d2f929e0eaabb",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T15:11:45.109547+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655644310",
+      "size": "47624",
+      "md5": "5ef6f826c49ab691919b3d86505ba06a",
+      "crc32": "5b49ecf3",
+      "sha1": "bc852bfa9a8a6b5efbeb13e29bd906c6a0138b7c",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T15:11:45.109547+02:00.jpg",
+      "source": "original",
+      "mtime": "1655644307",
+      "size": "269797",
+      "md5": "4d66a90d6728a36e84babb8212c4b4f5",
+      "crc32": "4db1f916",
+      "sha1": "87240f0a830b57f50122c7f298b45b0d71d3f281",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T15:11:45.109547+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-06-19T15:11:45.109547+02:00.jpg",
+      "mtime": "1655644374",
+      "size": "8875",
+      "md5": "12bc523971709d236a9a961d2070f9c0",
+      "crc32": "8684ec0b",
+      "sha1": "7218ee1125ad3e936b76ea5029e601b684ff5569"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T19:07:30.501404+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655658456",
+      "size": "28256",
+      "md5": "42487c2c79186b70af2cdf964950cdb8",
+      "crc32": "3c673fde",
+      "sha1": "790ba9a732e166b2b2a0abb04af63297db988d10",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T19:07:30.501404+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655658458",
+      "size": "46215",
+      "md5": "f05d834c985dc4a3dd46209c95f8ffbf",
+      "crc32": "8c6f7ee4",
+      "sha1": "e4e504933013f2c9f59975d0bff467fcb6f06646",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T19:07:30.501404+02:00.jpg",
+      "source": "original",
+      "mtime": "1655658453",
+      "size": "268617",
+      "md5": "7b5dcacea14ee4b5241d887dd6106eae",
+      "crc32": "7960eb33",
+      "sha1": "30a2d859477e4a77048cdf0ae64c93cbe21c7151",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T19:07:30.501404+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-06-19T19:07:30.501404+02:00.jpg",
+      "mtime": "1655658507",
+      "size": "8953",
+      "md5": "fe98bf4bb1479674816a6477c0b8761e",
+      "crc32": "ae089011",
+      "sha1": "75ef2ad869db1cc49cd1d2a6fd83d33586be07d7"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T23:01:36.153542+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655672499",
+      "size": "28355",
+      "md5": "972a643e55a124c7491029afe67708b8",
+      "crc32": "47c5757e",
+      "sha1": "fc605324eb631ee1e1121148f337b93d151606c9",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T23:01:36.153542+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655672501",
+      "size": "47395",
+      "md5": "5d1ccb406a9e96e3164b70b6656b037b",
+      "crc32": "a190ee52",
+      "sha1": "20114ee813bd577450dda7f60cc7566043beace2",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T23:01:36.153542+02:00.jpg",
+      "source": "original",
+      "mtime": "1655672497",
+      "size": "255027",
+      "md5": "c541abbd7afa500af6d576be3689080d",
+      "crc32": "f82b9c63",
+      "sha1": "318e27bfaa6bef8c592d5239b5584c459d874525",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-06-19T23:01:36.153542+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-06-19T23:01:36.153542+02:00.jpg",
+      "mtime": "1655672638",
+      "size": "8979",
+      "md5": "d65591ce2f557d0996ace73d64f791bf",
+      "crc32": "6cbaa8dd",
+      "sha1": "3f8e6cdef6efd96f74d1f94f3c9c9492fb7c0c04"
+    },
+    {
+      "name": "lemonde_en-2022-06-20T01:26:04.881533+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655681167",
+      "size": "28419",
+      "md5": "372e27ee3ba007a6d2ad7781986efb11",
+      "crc32": "466a4ebf",
+      "sha1": "2292ea52498d1332420c170b28991289c43437cc",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-20T01:26:04.881533+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655681168",
+      "size": "47487",
+      "md5": "bd673b99f2d3207da16cdeaceec4e489",
+      "crc32": "59ce8295",
+      "sha1": "7b7b120dbbd74c6980e7eecc0dd5c168a58bbcd6",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-06-20T01:26:04.881533+02:00.jpg",
+      "source": "original",
+      "mtime": "1655681166",
+      "size": "249603",
+      "md5": "519d20b59244bd7c60926db980716190",
+      "crc32": "faf8102c",
+      "sha1": "39e47a36c8b090de2622631dd9776cf05cdbade2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-06-20T01:26:04.881533+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-06-20T01:26:04.881533+02:00.jpg",
+      "mtime": "1655681214",
+      "size": "8978",
+      "md5": "de0dcb00e7d208733fecfc1a6ecad18e",
+      "crc32": "17152f7f",
+      "sha1": "80d753a22932e6f612a860cda4b4b210eb29d5a3"
+    },
+    {
       "name": "lemonde_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77c7012dd62aa93fcaeb4936ad7980772b44dd51",
-      "mtime": "1655586253",
-      "size": "66258",
-      "md5": "3b3104b1446f3c21daaaf442b9f0143d",
-      "crc32": "d14c4f09",
-      "sha1": "a3b2933523abb19730430313d5118d2d8aaf998b",
+      "btih": "d549df8fbb520389999744084b2ae57bd7eb3f88",
+      "mtime": "1655681217",
+      "size": "72214",
+      "md5": "323691c6bc298886b259ac21beb7d8e8",
+      "crc32": "dffff5e7",
+      "sha1": "7f7ba332f98bef9dedcdf4afa2aa0c7b35721d83",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemonde_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f95578e521747887e07737858e3ef37a",
+      "md5": "5c92377299587ae1cda469a2ef7811a2",
       "summation": "md5"
     },
     {
       "name": "lemonde_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655586185",
-      "size": "368640",
-      "md5": "a04b5a69f13a5cee8d2edf16806a0cd2",
-      "crc32": "9edc4c77",
-      "sha1": "8615d1733dd9555df1bbefb2280fe5e56bca3e31",
+      "mtime": "1655681172",
+      "size": "397312",
+      "md5": "26317df2d684319d8723d88a641a9612",
+      "crc32": "e22e220d",
+      "sha1": "e0249110b6decd6f2485cac80655a3930fc00619",
       "format": "Metadata"
     },
     {
@@ -3246,995 +3540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "item_last_updated": 1655586253,
-  "item_size": 26783804,
-  "lemonde_en-2022": [
-    {
-      "text": "Fran\u00e7ais",
-      "url": "https://www.lemonde.fr/"
-    },
-    {
-      "text": "English",
-      "url": "https://www.lemonde.fr/en/"
-    },
-    {
-      "text": "  Go Back to the HomePage ",
-      "url": "//www.lemonde.fr/en/"
-    },
-    {
-      "text": "  Sign In  Sign In ",
-      "url": "https://secure.lemonde.fr/sfuser/connexion"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://abo.lemonde.fr/en/#xtor=CS1-711[CTA_LMEA]-[HEADER]-5-[Home]"
-    },
-    {
-      "text": "  Home Retour a\u0300 la page d\u2019accueil du Monde ",
-      "url": "//www.lemonde.fr/en/"
-    },
-    {
-      "text": "  Fran\u00e7ais ",
-      "url": "https://www.lemonde.fr/"
-    },
-    {
-      "text": "  English ",
-      "url": "https://www.lemonde.fr/en/"
-    },
-    {
-      "text": "News",
-      "url": "#"
-    },
-    {
-      "text": "International",
-      "url": "//www.lemonde.fr/en/international/"
-    },
-    {
-      "text": "Politics",
-      "url": "//www.lemonde.fr/en/politics/"
-    },
-    {
-      "text": "France",
-      "url": "//www.lemonde.fr/en/france/"
-    },
-    {
-      "text": "Les D\u00e9codeurs",
-      "url": "//www.lemonde.fr/en/les-decodeurs/"
-    },
-    {
-      "text": "Sports",
-      "url": "//www.lemonde.fr/en/sports/"
-    },
-    {
-      "text": "Environment",
-      "url": "//www.lemonde.fr/en/environment/"
-    },
-    {
-      "text": "Science",
-      "url": "//www.lemonde.fr/en/science/"
-    },
-    {
-      "text": "Campus",
-      "url": "//www.lemonde.fr/en/campus/"
-    },
-    {
-      "text": "Le Monde Africa",
-      "url": "//www.lemonde.fr/en/le-monde-africa/"
-    },
-    {
-      "text": "Pixels",
-      "url": "//www.lemonde.fr/en/pixels/"
-    },
-    {
-      "text": "Health",
-      "url": "//www.lemonde.fr/en/health/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "//www.lemonde.fr/en/obituaries/"
-    },
-    {
-      "text": "Archives",
-      "url": "//www.lemonde.fr/en/archives/"
-    },
-    {
-      "text": "About Us",
-      "url": "//www.lemonde.fr/en/about-us/"
-    },
-    {
-      "text": "2022 Legislative Elections",
-      "url": "#"
-    },
-    {
-      "text": "2022 Legislative Elections",
-      "url": "//www.lemonde.fr/en/2022-legislative-elections/"
-    },
-    {
-      "text": "Understanding the elections",
-      "url": "//www.lemonde.fr/en/understanding-the-election/"
-    },
-    {
-      "text": "Fragments de France",
-      "url": "//www.lemonde.fr/en/fragments-de-france/"
-    },
-    {
-      "text": "           Politics French legislative elections start as overseas citizens head to the polls on Saturday  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-legislative-elections-start-as-overseas-citizens-head-to-the-polls-on-saturday_5987239_5.html"
-    },
-    {
-      "text": "           Opinion France is stuck in a spiral of democratic fatigue  ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/france-is-stuck-in-a-spiral-of-democratic-fatigue_5987236_23.html"
-    },
-    {
-      "text": "           Politics  Subscribers only French government blocks drug treatment center in affluent Parisian district  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-government-blocks-drug-treatment-centre-in-affluent-parisian-district_5987234_5.html"
-    },
-    {
-      "text": "           Politics French legislative elections: Macron and M\u00e9lenchon square off at a distance  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/legislative-elections-2022-macron-and-melenchon-square-off-at-a-distance-blades-drawn_5987227_5.html"
-    },
-    {
-      "text": "Economy",
-      "url": "#"
-    },
-    {
-      "text": "Economy",
-      "url": "//www.lemonde.fr/en/economy/"
-    },
-    {
-      "text": "World Economy",
-      "url": "//www.lemonde.fr/en/world-economy/"
-    },
-    {
-      "text": "French Economy",
-      "url": "//www.lemonde.fr/en/french-economy/"
-    },
-    {
-      "text": "Employment",
-      "url": "//www.lemonde.fr/en/employment/"
-    },
-    {
-      "text": "Media",
-      "url": "//www.lemonde.fr/en/media/"
-    },
-    {
-      "text": "           Pixels  Subscribers only On Roblox, children are both grunt labor and target consumers of a video game giant  ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/06/18/on-roblox-children-are-both-grunt-labor-and-target-consumers-of-a-video-game-giant_5987226_13.html"
-    },
-    {
-      "text": "           International  Subscribers only Sales down, profits up: The paradox of the automotive industry  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/17/sales-down-profits-up-the-paradox-of-the-automotive-industry_5987182_4.html"
-    },
-    {
-      "text": "           Economy  Subscribers only Italy fears return of widening 'spread' from German bonds  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/06/17/italy-fears-return-of-widening-spread-from-german-bonds_5987170_19.html"
-    },
-    {
-      "text": "           Economy  Subscribers only UK experiences 'cost of living shock' from inflation  ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/06/17/cost-of-living-shock-in-uk_5987120_19.html"
-    },
-    {
-      "text": "Opinion",
-      "url": "#"
-    },
-    {
-      "text": "Opinion",
-      "url": "//www.lemonde.fr/en/opinion/"
-    },
-    {
-      "text": "Editorials",
-      "url": "//www.lemonde.fr/en/editorials/"
-    },
-    {
-      "text": "Columns",
-      "url": "//www.lemonde.fr/en/columns/"
-    },
-    {
-      "text": "Analysis",
-      "url": "//www.lemonde.fr/en/analysis/"
-    },
-    {
-      "text": "Conversations",
-      "url": "//www.lemonde.fr/en/conversations/"
-    },
-    {
-      "text": "           Editorial The world must stand firm on global tax reform  ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/the-world-must-stand-firm-on-global-tax-reform_5987245_23.html"
-    },
-    {
-      "text": "           Opinion  Subscribers only 'The East African Crude Oil Pipeline will generate a climate, environmental and human disaster'  ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/the-east-african-crude-oil-pipeline-will-generate-a-climate-environmental-and-human-disaster_5987279_23.html"
-    },
-    {
-      "text": "           Opinion France is stuck in a spiral of democratic fatigue  ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/france-is-stuck-in-a-spiral-of-democratic-fatigue_5987236_23.html"
-    },
-    {
-      "text": "Culture",
-      "url": "#"
-    },
-    {
-      "text": "Culture",
-      "url": "//www.lemonde.fr/en/culture/"
-    },
-    {
-      "text": "Cinema",
-      "url": "//www.lemonde.fr/en/cinema/"
-    },
-    {
-      "text": "TV shows",
-      "url": "//www.lemonde.fr/en/tv-shows/"
-    },
-    {
-      "text": "Books",
-      "url": "//www.lemonde.fr/en/books/"
-    },
-    {
-      "text": "Music",
-      "url": "//www.lemonde.fr/en/music/"
-    },
-    {
-      "text": "Arts",
-      "url": "//www.lemonde.fr/en/arts/"
-    },
-    {
-      "text": "Performance Art",
-      "url": "//www.lemonde.fr/en/performance-art/"
-    },
-    {
-      "text": "           Obituaries Actor Jean-Louis Trintignant dies aged 91  ",
-      "url": "https://www.lemonde.fr/en/obituaries/article/2022/06/17/actor-jean-louis-trintignant-dies-aged-91_5987198_15.html"
-    },
-    {
-      "text": "           Obituaries  Subscribers only Avraham B. Yehoshua, a writer with a unique voice committed to peace, has died  ",
-      "url": "https://www.lemonde.fr/en/obituaries/article/2022/06/16/avraham-b-yehoshua-a-writer-with-a-unique-voice-committed-to-peace-has-died_5986985_15.html"
-    },
-    {
-      "text": "           Culture  Subscribers only Alicia Vikander: Echoes of the actress's life in new HBO series Irma Vep  ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/06/15/alicia-vikander-echoes-of-the-actress-s-life-in-new-hbo-series-irma-vep_5986790_30.html"
-    },
-    {
-      "text": "           Culture  Subscribers only Jean-Louis Trintignant and his belated triumph on stage  ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/06/18/jean-louis-trintignant-and-his-belated-triumph-on-stage_5987215_30.html"
-    },
-    {
-      "text": "M le Mag",
-      "url": "#"
-    },
-    {
-      "text": "M le Mag",
-      "url": "//www.lemonde.fr/en/m-le-mag/"
-    },
-    {
-      "text": "News",
-      "url": "//www.lemonde.fr/en/news-m-le-mag/"
-    },
-    {
-      "text": "Our Times",
-      "url": "//www.lemonde.fr/en/our-times/"
-    },
-    {
-      "text": "Style",
-      "url": "//www.lemonde.fr/en/style/"
-    },
-    {
-      "text": "Food",
-      "url": "//www.lemonde.fr/en/food/"
-    },
-    {
-      "text": "Travel",
-      "url": "//www.lemonde.fr/en/travel/"
-    },
-    {
-      "text": "Fashion",
-      "url": "//www.lemonde.fr/en/fashion/"
-    },
-    {
-      "text": "           M Le Mag  Subscribers only 'Deep down, I feel more like a thing': Arthur Jafa, an artist in search of African-American identity  ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/18/deep-down-i-feel-more-like-a-thing-arthur-jafa-an-artist-in-search-of-african-american-identity_5987247_117.html"
-    },
-    {
-      "text": "           Food  Subscribers only Three breakfasts to start the day on the right foot  ",
-      "url": "https://www.lemonde.fr/en/food/article/2022/06/05/three-breakfasts-to-start-the-day-on-the-right-foot_5985732_119.html"
-    },
-    {
-      "text": "           M Le Mag In Paris, the LGBT+ bookshop Violette and Co will be reborn  ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/18/in-paris-the-lgbt-bookshop-violette-and-co-will-be-reborn_5987251_117.html"
-    },
-    {
-      "text": "           M Le Mag  Subscribers only 'The world is starting to forget about the war in Ukraine. Everyone is getting used to it:' The diary of two sisters separated by the war in Ukraine  ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/17/the-world-is-starting-to-forget-about-the-war-in-ukraine-everyone-is-getting-used-to-it-the-diary-of-two-sisters-separated-by-the-war-in-ukraine_5987159_117.html"
-    },
-    {
-      "text": " Recherche ",
-      "url": "/recherche/"
-    },
-    {
-      "text": " Subscribers onlyBig cities in the fight against overheating                Dense and heavily constructed metropolises must urgently adapt to global warming. ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/18/big-cities-in-the-fight-against-overheating_5987287_114.html"
-    },
-    {
-      "text": " Subscribers only Cities want to turn their schoolyards into 'oases' ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/18/cities-want-to-turn-their-schoolyards-into-oases_5987231_114.html"
-    },
-    {
-      "text": " Subscribers only 'We're going to have to live with climate change and France is sorely unprepared' ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/18/we-re-going-to-have-to-live-with-climate-change-and-france-is-sorely-unprepared_5987262_114.html"
-    },
-    {
-      "text": "            Brazil police arrest third suspect in deaths of Dom Phillips and Bruno Pereira  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/brazil-police-arrest-third-suspect-in-deaths-of-dom-phillips-and-bruno-pereira_5987274_4.html"
-    },
-    {
-      "text": "            France is stuck in a spiral of democratic fatigue  ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/france-is-stuck-in-a-spiral-of-democratic-fatigue_5987236_23.html"
-    },
-    {
-      "text": "            Subscribers onlyUkraine's entry into the EU: The Commission sets conditions  The EU executive has recommended to the 27 member states that Ukraine be granted candidate status for accession to the European Union. It is a highly symbolic decision that will not change anything in the immediate future for this country at war.  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/ukraine-s-entry-into-the-eu-the-commission-sets-conditions_5987269_4.html"
-    },
-    {
-      "text": "            Devastating floods hit Bangladesh, leaving scores dead and millions stranded  Relentless rain over the past week has led to huge floods that have seen entire villages submerged underwater. Experts say the extreme weather events are due to climate change.  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/devastating-floods-hit-bangladesh-leaving-scores-dead-and-millions-stranded_5987242_4.html"
-    },
-    {
-      "text": "            French legislative elections start as overseas citizens head to the polls on Saturday  The first overseas territory to be able to vote will be St-Pierre-et-Miquelon at 8:00 am (noon Paris time). French citizens in North and South America will also vote on Saturday.  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-legislative-elections-start-as-overseas-citizens-head-to-the-polls-on-saturday_5987239_5.html"
-    },
-    {
-      "text": "             Investigation   Laure Stephan Subscribers onlyHumanitarian aid in Syria is at the mercy of political powers In this country left in tatters by a decade of war, each of the different parties controlling a portion of the territory is trying to use humanitarian aid \u2013 vital because of growing food insecurity \u2013 to their advantage.   12 min read   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/humanitarian-aid-in-syria-is-at-the-mercy-of-political-powers_5987259_4.html"
-    },
-    {
-      "text": " Newsletter LE MONDE IN ENGLISH Sign up to receive our daily selection of \"Le Monde\" articles translated into English.   Sign up  ",
-      "url": "https://www.lemonde.fr/newsletters/le-monde-in-english/"
-    },
-    {
-      "text": "            Subscribers onlyA millionaire and a former guerrilla go head-to-head in Colombia's presidential election  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/in-colombia-s-presidential-election-tensions-are-running-high_5987281_4.html"
-    },
-    {
-      "text": "            Zelensky visits war-torn southern city of Mykolaiv in rare trip outside capital  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/zelensky-visits-war-torn-southern-city-of-mykolaiv-in-rare-trip-outside-capital_5987277_4.html"
-    },
-    {
-      "text": "            Subscribers onlyOn Roblox, children are both grunt labor and target consumers of a video game giant  ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/06/18/on-roblox-children-are-both-grunt-labor-and-target-consumers-of-a-video-game-giant_5987226_13.html"
-    },
-    {
-      "text": "            Actor Jean-Louis Trintignant dies aged 91  ",
-      "url": "https://www.lemonde.fr/en/obituaries/article/2022/06/17/actor-jean-louis-trintignant-dies-aged-91_5987198_15.html"
-    },
-    {
-      "text": " Subscribers onlyCorporate tax: Hungary blocks EU adoption of 15% minimum rate  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/corporate-tax-hungary-blocks-eu-adoption-of-15-minimum-rate_5987253_4.html"
-    },
-    {
-      "text": " Anti-vaxxers falsely link Justin Bieber's facial paralysis to Covid-19 vaccine  ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/18/anti-vaxxers-falsely-link-justin-bieber-s-facial-paralysis-to-covid-19-vaccine_5987256_8.html"
-    },
-    {
-      "text": " Monkeypox: How is it transmitted and what are the symptoms?  ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/18/monkeypox-how-is-it-transmitted-and-what-are-the-symptoms_5987238_8.html"
-    },
-    {
-      "text": " Subscribers onlyCourt in Mexico City permanently bans bullfighting in the capital  ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/court-in-mexico-city-permanently-bans-bullfighting-in-the-capital_5987284_4.html"
-    },
-    {
-      "text": " French legislative elections: Macron and M\u00e9lenchon square off at a distance  ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/legislative-elections-2022-macron-and-melenchon-square-off-at-a-distance-blades-drawn_5987227_5.html"
-    },
-    {
-      "text": " Subscribers onlyThe exploitation of Ukrainian cleaners in Paris goes before the courts  ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/06/18/in-paris-the-exploitation-of-ukrainian-cleaners-comes-before-the-courts_5987229_7.html"
-    },
-    {
-      "text": "             In Depth   Soazig Le Nev\u00e9 Subscribers onlyHeatwave: Tricks to lower the temperature at home without air conditioning Even if it is 40\u00b0C outside, you can stay cool without using air conditioning, which represents 10% of the world's electricity consumption.   5 min read   ",
-      "url": "https://www.lemonde.fr/en/solutions-for-the-planet/article/2022/06/17/heatwave-tricks-to-lower-the-temperature-at-home-without-air-conditioning_5987154_76.html"
-    },
-    {
-      "text": "             News   Brigitte Salino Subscribers onlyJean-Louis Trintignant and his belated triumph on stage Despite his velvety voice and unique presence, the actor, who died Friday at 91, only found success in theater in his final years, performing recitals.   3 min read   ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/06/18/jean-louis-trintignant-and-his-belated-triumph-on-stage_5987215_30.html"
-    },
-    {
-      "text": "             News   Camille Lafrance Subscribers onlyCities want to turn their schoolyards into 'oases' To adapt to climate change, cities are looking for spaces to green. Schoolyards are test sites within reach of municipalities and residents.   2 min read   ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/18/cities-want-to-turn-their-schoolyards-into-oases_5987231_114.html"
-    },
-    {
-      "text": "  Opinion  ",
-      "url": "//www.lemonde.fr/en/opinion/"
-    },
-    {
-      "text": "  Editorial The world must stand firm on global tax reform   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/the-world-must-stand-firm-on-global-tax-reform_5987245_23.html"
-    },
-    {
-      "text": "  Column France is stuck in a spiral of democratic fatigue        Gilles Paris Columnist    ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/france-is-stuck-in-a-spiral-of-democratic-fatigue_5987236_23.html"
-    },
-    {
-      "text": "  Op-Ed  Subscribers only 'The East African Crude Oil Pipeline will generate a climate, environmental and human disaster'      Group letter     ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/the-east-african-crude-oil-pipeline-will-generate-a-climate-environmental-and-human-disaster_5987279_23.html"
-    },
-    {
-      "text": "  French legislative elections: Macron and M\u00e9lenchon square off at a distance ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/legislative-elections-2022-macron-and-melenchon-square-off-at-a-distance-blades-drawn_5987227_5.html"
-    },
-    {
-      "text": "  YouTube pulls video posted by US Capitol insurrection committee because of Trump's false claims about 2020 elections ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/06/18/youtube-pulls-video-posted-by-u-s-capitol-riot-committee-because-of-trump-s-false-claims-about-2020-elections_5987222_13.html"
-    },
-    {
-      "text": "  France is stuck in a spiral of democratic fatigue ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/france-is-stuck-in-a-spiral-of-democratic-fatigue_5987236_23.html"
-    },
-    {
-      "text": "  War in Ukraine: Mario Draghi is clearly backing Kyiv's European bid ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/17/war-in-ukraine-mario-draghi-is-clearly-backing-kyiv-s-european-bid_5987209_4.html"
-    },
-    {
-      "text": "  The Japanese beetle, a killer 'hitchhiker' at the gates of France ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/17/the-japanese-beetle-a-killer-hitchhiker-at-the-gates-of-france_5987207_114.html"
-    },
-    {
-      "text": "  Anti-vaxxers falsely link Justin Bieber's facial paralysis to Covid-19 vaccine ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/18/anti-vaxxers-falsely-link-justin-bieber-s-facial-paralysis-to-covid-19-vaccine_5987256_8.html"
-    },
-    {
-      "text": "  Corporate tax: Hungary blocks EU adoption of 15% minimum rate ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/corporate-tax-hungary-blocks-eu-adoption-of-15-minimum-rate_5987253_4.html"
-    },
-    {
-      "text": "  French government blocks drug treatment center in affluent Parisian district ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-government-blocks-drug-treatment-centre-in-affluent-parisian-district_5987234_5.html"
-    },
-    {
-      "text": "  French legislative elections start as overseas citizens head to the polls on Saturday ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-legislative-elections-start-as-overseas-citizens-head-to-the-polls-on-saturday_5987239_5.html"
-    },
-    {
-      "text": "  2022 Legislative Elections  ",
-      "url": "//www.lemonde.fr/en/2022-legislative-elections/"
-    },
-    {
-      "text": "           French legislative elections start as overseas citizens head to the polls on Saturday ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-legislative-elections-start-as-overseas-citizens-head-to-the-polls-on-saturday_5987239_5.html"
-    },
-    {
-      "text": "France is stuck in a spiral of democratic fatigue   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/france-is-stuck-in-a-spiral-of-democratic-fatigue_5987236_23.html"
-    },
-    {
-      "text": " Subscribers only French government blocks drug treatment center in affluent Parisian district   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-government-blocks-drug-treatment-centre-in-affluent-parisian-district_5987234_5.html"
-    },
-    {
-      "text": "French legislative elections: Macron and M\u00e9lenchon square off at a distance   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/legislative-elections-2022-macron-and-melenchon-square-off-at-a-distance-blades-drawn_5987227_5.html"
-    },
-    {
-      "text": "French legislative elections: 'Although three forces of roughly equal strength are in the running, only two are assured of a high profile in the Assembl\u00e9e Nationale'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/17/french-legislative-elections-although-three-forces-of-roughly-equal-strength-are-in-the-running-only-two-are-assured-of-a-high-profile-in-the-assemblee-nationale_5987205_23.html"
-    },
-    {
-      "text": " Subscribers only 'Parachute' candidates, an old electoral practice of politics taking precedence over roots   ",
-      "url": "https://www.lemonde.fr/en/history/article/2022/06/17/history-of-a-concept-parachute-candidates-an-old-electoral-practice-of-politics-priming-over-roots_5987200_157.html"
-    },
-    {
-      "text": "French legislative elections: Why seat projections expect Ensemble! to beat NUPES   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/17/french-legislative-elections-why-seat-projections-expect-ensemble-to-beat-nupes_5987190_8.html"
-    },
-    {
-      "text": "  International  ",
-      "url": "//www.lemonde.fr/en/international/"
-    },
-    {
-      "text": "            Subscribers only Court in Mexico City permanently bans bullfighting in the capital ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/court-in-mexico-city-permanently-bans-bullfighting-in-the-capital_5987284_4.html"
-    },
-    {
-      "text": " Subscribers only A millionaire and a former guerrilla go head-to-head in Colombia's presidential election   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/in-colombia-s-presidential-election-tensions-are-running-high_5987281_4.html"
-    },
-    {
-      "text": "Zelensky visits war-torn southern city of Mykolaiv in rare trip outside capital   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/zelensky-visits-war-torn-southern-city-of-mykolaiv-in-rare-trip-outside-capital_5987277_4.html"
-    },
-    {
-      "text": "Brazil police arrest third suspect in deaths of Dom Phillips and Bruno Pereira   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/brazil-police-arrest-third-suspect-in-deaths-of-dom-phillips-and-bruno-pereira_5987274_4.html"
-    },
-    {
-      "text": " Subscribers only Ukraine's entry into the EU: The Commission sets conditions   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/ukraine-s-entry-into-the-eu-the-commission-sets-conditions_5987269_4.html"
-    },
-    {
-      "text": " Subscribers only Humanitarian aid in Syria is at the mercy of political powers   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/humanitarian-aid-in-syria-is-at-the-mercy-of-political-powers_5987259_4.html"
-    },
-    {
-      "text": "Anti-vaxxers falsely link Justin Bieber's facial paralysis to Covid-19 vaccine   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/18/anti-vaxxers-falsely-link-justin-bieber-s-facial-paralysis-to-covid-19-vaccine_5987256_8.html"
-    },
-    {
-      "text": "  Environment  ",
-      "url": "//www.lemonde.fr/en/environment/"
-    },
-    {
-      "text": "            Subscribers only Big cities in the fight against overheating ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/18/big-cities-in-the-fight-against-overheating_5987287_114.html"
-    },
-    {
-      "text": " Subscribers only Court in Mexico City permanently bans bullfighting in the capital   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/court-in-mexico-city-permanently-bans-bullfighting-in-the-capital_5987284_4.html"
-    },
-    {
-      "text": " Subscribers only 'The East African Crude Oil Pipeline will generate a climate, environmental and human disaster'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/the-east-african-crude-oil-pipeline-will-generate-a-climate-environmental-and-human-disaster_5987279_23.html"
-    },
-    {
-      "text": " Subscribers only 'We're going to have to live with climate change and France is sorely unprepared'   ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/18/we-re-going-to-have-to-live-with-climate-change-and-france-is-sorely-unprepared_5987262_114.html"
-    },
-    {
-      "text": "   ",
-      "url": "https://learn-french.lemonde.fr/"
-    },
-    {
-      "text": "  Politics  ",
-      "url": "//www.lemonde.fr/en/politics/"
-    },
-    {
-      "text": "           French legislative elections start as overseas citizens head to the polls on Saturday ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-legislative-elections-start-as-overseas-citizens-head-to-the-polls-on-saturday_5987239_5.html"
-    },
-    {
-      "text": "France is stuck in a spiral of democratic fatigue   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/france-is-stuck-in-a-spiral-of-democratic-fatigue_5987236_23.html"
-    },
-    {
-      "text": " Subscribers only French government blocks drug treatment center in affluent Parisian district   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-government-blocks-drug-treatment-centre-in-affluent-parisian-district_5987234_5.html"
-    },
-    {
-      "text": "French legislative elections: Macron and M\u00e9lenchon square off at a distance   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/legislative-elections-2022-macron-and-melenchon-square-off-at-a-distance-blades-drawn_5987227_5.html"
-    },
-    {
-      "text": "French legislative elections: 'Although three forces of roughly equal strength are in the running, only two are assured of a high profile in the Assembl\u00e9e Nationale'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/17/french-legislative-elections-although-three-forces-of-roughly-equal-strength-are-in-the-running-only-two-are-assured-of-a-high-profile-in-the-assemblee-nationale_5987205_23.html"
-    },
-    {
-      "text": " Subscribers only 'Parachute' candidates, an old electoral practice of politics taking precedence over roots   ",
-      "url": "https://www.lemonde.fr/en/history/article/2022/06/17/history-of-a-concept-parachute-candidates-an-old-electoral-practice-of-politics-priming-over-roots_5987200_157.html"
-    },
-    {
-      "text": "French legislative elections: Why seat projections expect Ensemble! to beat NUPES   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/17/french-legislative-elections-why-seat-projections-expect-ensemble-to-beat-nupes_5987190_8.html"
-    },
-    {
-      "text": "  Science  ",
-      "url": "//www.lemonde.fr/en/science/"
-    },
-    {
-      "text": "           Monkeypox: How is it transmitted and what are the symptoms? ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/18/monkeypox-how-is-it-transmitted-and-what-are-the-symptoms_5987238_8.html"
-    },
-    {
-      "text": " Subscribers only Jean-Jacques Camarra, the tireless bear researcher   ",
-      "url": "https://www.lemonde.fr/en/science/article/2022/06/16/jean-jacques-camarra-the-tireless-bear-researcher_5986958_10.html"
-    },
-    {
-      "text": " Subscribers only 'Wet-bulb temperature' and deadly summers   ",
-      "url": "https://www.lemonde.fr/en/science/article/2022/06/16/wet-bulb-temperature-and-deadly-summers_5986930_10.html"
-    },
-    {
-      "text": " Subscribers only A sanctuary discovered near Rennes speaks volumes about Gallo-Roman religious practices   ",
-      "url": "https://www.lemonde.fr/en/science/article/2022/06/15/a-sanctuary-discovered-near-rennes-speaks-volumes-about-gallo-roman-religious-practices_5986816_10.html"
-    },
-    {
-      "text": " Subscribers only How scientists work out if a heat wave is due to climate change   ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/15/how-scientists-work-out-if-a-heat-wave-is-due-to-climate-change_5986804_114.html"
-    },
-    {
-      "text": " Subscribers only The 'Warramaba virgo' grasshopper last had sex 250,000 years ago   ",
-      "url": "https://www.lemonde.fr/en/science/article/2022/06/14/the-warramaba-virgo-grasshopper-last-had-sex-250-000-years-ago_5986721_10.html"
-    },
-    {
-      "text": "Pre-Hispanic urban centers hidden under Bolivian forests   ",
-      "url": "https://www.lemonde.fr/en/science/article/2022/06/13/pre-hispanic-urban-centers-hidden-under-bolivian-forests_5986628_10.html"
-    },
-    {
-      "text": "  France  ",
-      "url": "//www.lemonde.fr/en/france/"
-    },
-    {
-      "text": "            Subscribers only Big cities in the fight against overheating ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/18/big-cities-in-the-fight-against-overheating_5987287_114.html"
-    },
-    {
-      "text": "In Paris, the LGBT+ bookshop Violette and Co will be reborn   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/18/in-paris-the-lgbt-bookshop-violette-and-co-will-be-reborn_5987251_117.html"
-    },
-    {
-      "text": "Monkeypox: How is it transmitted and what are the symptoms?   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/18/monkeypox-how-is-it-transmitted-and-what-are-the-symptoms_5987238_8.html"
-    },
-    {
-      "text": " Subscribers only French government blocks drug treatment center in affluent Parisian district   ",
-      "url": "https://www.lemonde.fr/en/politics/article/2022/06/18/french-government-blocks-drug-treatment-centre-in-affluent-parisian-district_5987234_5.html"
-    },
-    {
-      "text": " Subscribers only The exploitation of Ukrainian cleaners in Paris goes before the courts   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/06/18/in-paris-the-exploitation-of-ukrainian-cleaners-comes-before-the-courts_5987229_7.html"
-    },
-    {
-      "text": " Subscribers only Canada grants refugee status to French citizen harassed by Moroccan security services in France   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/canada-grants-refugee-status-to-french-citizen-harassed-by-moroccan-security-services-in-france_5987213_4.html"
-    },
-    {
-      "text": " Subscribers only The Japanese beetle, a killer 'hitchhiker' at the gates of France   ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/17/the-japanese-beetle-a-killer-hitchhiker-at-the-gates-of-france_5987207_114.html"
-    },
-    {
-      "text": "  Our Times  ",
-      "url": "//www.lemonde.fr/en/our-times/"
-    },
-    {
-      "text": "            Subscribers only Indoor axe throwing, a hobby that sends you into a spin ",
-      "url": "https://www.lemonde.fr/en/our-times/article/2022/06/15/indoor-axe-throwing-a-hobby-that-sends-you-into-a-spin_5986817_39.html"
-    },
-    {
-      "text": " Subscribers only Harry Potter's bedroom, the Hobbit's house... The flourishing niche market of French 'fantasy' tourism   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/09/harry-potter-s-bedroom-the-hobbit-s-house-the-flourishing-niche-market-of-french-fantasy-tourism_5986190_117.html"
-    },
-    {
-      "text": " Subscribers only Parentology: Why are our children living in the 1980s?   ",
-      "url": "https://www.lemonde.fr/en/our-times/article/2022/06/09/parentology-why-are-our-children-living-in-the-1980s_5986185_39.html"
-    },
-    {
-      "text": " Subscribers only How can anyone still be heterosexual?   ",
-      "url": "https://www.lemonde.fr/en/our-times/article/2022/06/07/how-can-anyone-still-be-heterosexual_5986001_39.html"
-    },
-    {
-      "text": " Subscribers only 'The day I became a gravedigger, my life began to make sense'   ",
-      "url": "https://www.lemonde.fr/en/our-times/article/2022/06/07/the-day-i-became-a-gravedigger-my-life-began-to-make-sense_5985993_39.html"
-    },
-    {
-      "text": " Subscribers only In and out of love: 'We went to the movies and restaurants, but he refused to hold hands in the street'   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/06/in-and-out-of-love-we-went-to-the-movies-and-restaurants-but-he-refused-to-hold-hands-in-the-street_5985869_117.html"
-    },
-    {
-      "text": " Subscribers only 'My dream is to buy a farmhouse. And to have the Loulou bag from Yves Saint Laurent'   ",
-      "url": "https://www.lemonde.fr/en/our-times/article/2022/05/31/my-dream-is-to-buy-a-farmhouse-and-to-have-the-loulou-bag-from-yves-saint-laurent_5985188_39.html"
-    },
-    {
-      "text": "  Economy  ",
-      "url": "//www.lemonde.fr/en/economy/"
-    },
-    {
-      "text": "            Subscribers only 'The East African Crude Oil Pipeline will generate a climate, environmental and human disaster' ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/the-east-african-crude-oil-pipeline-will-generate-a-climate-environmental-and-human-disaster_5987279_23.html"
-    },
-    {
-      "text": " Subscribers only Corporate tax: Hungary blocks EU adoption of 15% minimum rate   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/18/corporate-tax-hungary-blocks-eu-adoption-of-15-minimum-rate_5987253_4.html"
-    },
-    {
-      "text": "The world must stand firm on global tax reform   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/the-world-must-stand-firm-on-global-tax-reform_5987245_23.html"
-    },
-    {
-      "text": " Subscribers only Cities want to turn their schoolyards into 'oases'   ",
-      "url": "https://www.lemonde.fr/en/environment/article/2022/06/18/cities-want-to-turn-their-schoolyards-into-oases_5987231_114.html"
-    },
-    {
-      "text": " Subscribers only The exploitation of Ukrainian cleaners in Paris goes before the courts   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/06/18/in-paris-the-exploitation-of-ukrainian-cleaners-comes-before-the-courts_5987229_7.html"
-    },
-    {
-      "text": " Subscribers only On Roblox, children are both grunt labor and target consumers of a video game giant   ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/06/18/on-roblox-children-are-both-grunt-labor-and-target-consumers-of-a-video-game-giant_5987226_13.html"
-    },
-    {
-      "text": " Subscribers only Sales down, profits up: The paradox of the automotive industry   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/17/sales-down-profits-up-the-paradox-of-the-automotive-industry_5987182_4.html"
-    },
-    {
-      "text": "  Le Monde Africa  ",
-      "url": "//www.lemonde.fr/en/le-monde-africa/"
-    },
-    {
-      "text": "            Subscribers only 'The East African Crude Oil Pipeline will generate a climate, environmental and human disaster' ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/the-east-african-crude-oil-pipeline-will-generate-a-climate-environmental-and-human-disaster_5987279_23.html"
-    },
-    {
-      "text": " Subscribers only Laetitia Ky, natural hair sculptor and feminist icon   ",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/06/17/laetitia-ky-natural-hair-sculptor-and-feminist-icon_5987067_124.html"
-    },
-    {
-      "text": "'A real culture of newspaper cartooning is developing across the region': Kenyan politicians under Gado's fierce pen   ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/06/16/a-real-culture-of-newspaper-cartooning-is-developing-across-the-region-kenyan-politicians-under-gado-s-fierce-pen_5986925_30.html"
-    },
-    {
-      "text": " Subscribers only Can African gas be an alternative to Europe's Russian imports?   ",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/06/15/african-gas-an-alternative-to-russian-imports-for-europeans_5986894_124.html"
-    },
-    {
-      "text": "France captures Islamic State figure in Mali   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/15/france-captures-islamic-state-figure-in-mali_5986838_4.html"
-    },
-    {
-      "text": " Subscribers only UK government cancels first flight of asylum seekers to Rwanda due to lack of passengers   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/15/uk-government-cancels-first-flight-of-asylum-seekers-to-rwanda-due-to-lack-of-passengers_5986836_4.html"
-    },
-    {
-      "text": " Subscribers only South Sudan hit by rural conflicts: 'As herds grow bigger, tension increases'   ",
-      "url": "https://www.lemonde.fr/en/international/article/2022/06/14/south-sudan-hit-by-rural-conflicts-as-herds-grow-bigger-tension-increases_5986709_4.html"
-    },
-    {
-      "text": "  M Le Mag  ",
-      "url": "//www.lemonde.fr/en/m-le-mag/"
-    },
-    {
-      "text": "           In Paris, the LGBT+ bookshop Violette and Co will be reborn ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/18/in-paris-the-lgbt-bookshop-violette-and-co-will-be-reborn_5987251_117.html"
-    },
-    {
-      "text": " Subscribers only 'Deep down, I feel more like a thing': Arthur Jafa, an artist in search of African-American identity   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/18/deep-down-i-feel-more-like-a-thing-arthur-jafa-an-artist-in-search-of-african-american-identity_5987247_117.html"
-    },
-    {
-      "text": " Subscribers only 'The world is starting to forget about the war in Ukraine. Everyone is getting used to it:' The diary of two sisters separated by the war in Ukraine   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/17/the-world-is-starting-to-forget-about-the-war-in-ukraine-everyone-is-getting-used-to-it-the-diary-of-two-sisters-separated-by-the-war-in-ukraine_5987159_117.html"
-    },
-    {
-      "text": " Subscribers only How to choose between pinot gris and gewurztraminer?   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/16/how-to-choose-between-pinot-gris-and-gewurztraminer_5986965_117.html"
-    },
-    {
-      "text": "  Les D\u00e9codeurs  ",
-      "url": "//www.lemonde.fr/en/les-decodeurs/"
-    },
-    {
-      "text": "           Anti-vaxxers falsely link Justin Bieber's facial paralysis to Covid-19 vaccine ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/18/anti-vaxxers-falsely-link-justin-bieber-s-facial-paralysis-to-covid-19-vaccine_5987256_8.html"
-    },
-    {
-      "text": "Monkeypox: How is it transmitted and what are the symptoms?   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/18/monkeypox-how-is-it-transmitted-and-what-are-the-symptoms_5987238_8.html"
-    },
-    {
-      "text": "French legislative elections: Why seat projections expect Ensemble! to beat NUPES   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/17/french-legislative-elections-why-seat-projections-expect-ensemble-to-beat-nupes_5987190_8.html"
-    },
-    {
-      "text": "Why Jeremy Corbyn is at the heart of a French electoral campaign controversy   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/16/the-controversy-between-the-nupes-and-jeremy-corbyn-accused-of-complacency-with-anti-semitism_5987041_8.html"
-    },
-    {
-      "text": "How pollsters calculate first results   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/12/french-legislative-elections-how-polling-institutes-calculate-the-first-results_5986518_8.html"
-    },
-    {
-      "text": " Subscribers only French justice system prepares to seize first Russian oligarch-owned asset   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/09/war-in-ukraine-french-justice-system-prepares-to-seize-first-russian-oligarch-owned-asset_5986223_8.html"
-    },
-    {
-      "text": "French legislative elections: How does this post-presidential election work?   ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/05/30/french-legislative-elections-2022-how-does-this-post-presidential-election-work_5984994_8.html"
-    },
-    {
-      "text": "  Pixels  ",
-      "url": "//www.lemonde.fr/en/pixels/"
-    },
-    {
-      "text": "            Subscribers only 'The East African Crude Oil Pipeline will generate a climate, environmental and human disaster' ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/18/the-east-african-crude-oil-pipeline-will-generate-a-climate-environmental-and-human-disaster_5987279_23.html"
-    },
-    {
-      "text": " Subscribers only On Roblox, children are both grunt labor and target consumers of a video game giant   ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/06/18/on-roblox-children-are-both-grunt-labor-and-target-consumers-of-a-video-game-giant_5987226_13.html"
-    },
-    {
-      "text": "YouTube pulls video posted by US Capitol insurrection committee because of Trump's false claims about 2020 elections   ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/06/18/youtube-pulls-video-posted-by-u-s-capitol-riot-committee-because-of-trump-s-false-claims-about-2020-elections_5987222_13.html"
-    },
-    {
-      "text": " Subscribers only Metaverse becomes latest online arena of sexual assault   ",
-      "url": "https://www.lemonde.fr/en/pixels/article/2022/06/17/the-metaverse-is-the-latest-arena-for-sexual-assault-on-the-internet_5987153_13.html"
-    },
-    {
-      "text": " Subscribers only Google, Amazon and Facebook offer concessions after pressure from regulators   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/06/17/under-pressure-from-regulators-google-amazon-and-facebook-offer-concessions_5987069_19.html"
-    },
-    {
-      "text": " Subscribers only 'Russia is very often mentioned in tweets talking about cyber risk'   ",
-      "url": "https://www.lemonde.fr/en/opinion/article/2022/06/16/russia-is-very-often-mentioned-in-tweets-talking-about-cyber-risk_5986992_23.html"
-    },
-    {
-      "text": " Subscribers only Bitcoin nosedives because of inflation and fears of a recession   ",
-      "url": "https://www.lemonde.fr/en/economy/article/2022/06/15/bitcoin-nose-dives-on-the-stock-market_5986900_19.html"
-    },
-    {
-      "text": "  Culture  ",
-      "url": "//www.lemonde.fr/en/culture/"
-    },
-    {
-      "text": "           Anti-vaxxers falsely link Justin Bieber's facial paralysis to Covid-19 vaccine ",
-      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2022/06/18/anti-vaxxers-falsely-link-justin-bieber-s-facial-paralysis-to-covid-19-vaccine_5987256_8.html"
-    },
-    {
-      "text": " Subscribers only 'Deep down, I feel more like a thing': Arthur Jafa, an artist in search of African-American identity   ",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2022/06/18/deep-down-i-feel-more-like-a-thing-arthur-jafa-an-artist-in-search-of-african-american-identity_5987247_117.html"
-    },
-    {
-      "text": " Subscribers only Jean-Louis Trintignant and his belated triumph on stage   ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/06/18/jean-louis-trintignant-and-his-belated-triumph-on-stage_5987215_30.html"
-    },
-    {
-      "text": "Actor Jean-Louis Trintignant dies aged 91   ",
-      "url": "https://www.lemonde.fr/en/obituaries/article/2022/06/17/actor-jean-louis-trintignant-dies-aged-91_5987198_15.html"
-    },
-    {
-      "text": "French cinema giant Jean-Louis Trintignant dies aged 91   ",
-      "url": "https://www.lemonde.fr/en/france/article/2022/06/17/french-cinema-giant-jean-louis-trintignant-dies-aged-91_5987187_7.html"
-    },
-    {
-      "text": " Subscribers only The Louvre announces a Neapolitan season for 2023   ",
-      "url": "https://www.lemonde.fr/en/culture/article/2022/06/17/the-louvre-announces-a-neapolitan-season-for-2023_5987163_30.html"
-    },
-    {
-      "text": " Subscribers only Laetitia Ky, natural hair sculptor and feminist icon   ",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2022/06/17/laetitia-ky-natural-hair-sculptor-and-feminist-icon_5987067_124.html"
-    },
-    {
-      "text": "International",
-      "url": "//www.lemonde.fr/en/international/"
-    },
-    {
-      "text": "Politics",
-      "url": "//www.lemonde.fr/en/politics/"
-    },
-    {
-      "text": "France",
-      "url": "//www.lemonde.fr/en/france/"
-    },
-    {
-      "text": "Les D\u00e9codeurs",
-      "url": "//www.lemonde.fr/en/les-decodeurs/"
-    },
-    {
-      "text": "Sports",
-      "url": "//www.lemonde.fr/en/sports/"
-    },
-    {
-      "text": "Environment",
-      "url": "//www.lemonde.fr/en/environment/"
-    },
-    {
-      "text": "Science",
-      "url": "//www.lemonde.fr/en/science/"
-    },
-    {
-      "text": "Campus",
-      "url": "//www.lemonde.fr/en/campus/"
-    },
-    {
-      "text": "Le Monde Africa",
-      "url": "//www.lemonde.fr/en/le-monde-africa/"
-    },
-    {
-      "text": "Pixels",
-      "url": "//www.lemonde.fr/en/pixels/"
-    },
-    {
-      "text": "Health",
-      "url": "//www.lemonde.fr/en/health/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "//www.lemonde.fr/en/obituaries/"
-    },
-    {
-      "text": "Archives",
-      "url": "//www.lemonde.fr/en/archives/"
-    },
-    {
-      "text": "About Us",
-      "url": "//www.lemonde.fr/en/about-us/"
-    },
-    {
-      "text": "Understanding the elections",
-      "url": "//www.lemonde.fr/en/understanding-the-election/"
-    },
-    {
-      "text": "Fragments de France",
-      "url": "//www.lemonde.fr/en/fragments-de-france/"
-    },
-    {
-      "text": "Editorials",
-      "url": "//www.lemonde.fr/en/editorials/"
-    },
-    {
-      "text": "Columns",
-      "url": "//www.lemonde.fr/en/columns/"
-    },
-    {
-      "text": "Analysis",
-      "url": "//www.lemonde.fr/en/analysis/"
-    },
-    {
-      "text": "Conversations",
-      "url": "//www.lemonde.fr/en/conversations/"
-    },
-    {
-      "text": "     Sign up ",
-      "url": "https://abo.lemonde.fr/en/#xtor=CS1-711[CTA_LMEA]-[FOOTER]-5-[Home]"
-    },
-    {
-      "text": "     Sign In ",
-      "url": "https://secure.lemonde.fr/sfuser/connexion"
-    },
-    {
-      "text": "Sign up to receive our future daily selection of \"Le Monde\"  articles translated into English.",
-      "url": "https://www.lemonde.fr/newsletters/le-monde-in-english/"
-    },
-    {
-      "text": "  ",
-      "url": "https://www.lemonde.fr/newsletters/le-monde-in-english/"
-    },
-    {
-      "text": "Legal Information",
-      "url": "https://moncompte.lemonde.fr/legal-information"
-    },
-    {
-      "text": "Group Policy",
-      "url": "https://www.lemonde.fr/en/about-us/article/2022/04/06/groupe-le-monde-s-code-of-ethics-and-professional-conduct_5979823_115.html"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.lemonde.fr/en/privacy-policy/"
-    },
-    {
-      "text": "Cookie Preferences",
-      "url": "//www.lemonde.fr/en/#"
-    },
-    {
-      "text": "Terms & Conditions",
-      "url": "https://moncompte.lemonde.fr/cgv-en"
-    },
-    {
-      "text": "FAQ",
-      "url": "//www.lemonde.fr/en/faq/"
-    },
-    {
-      "text": " Facebook",
-      "url": "https://www.facebook.com/Le-Monde-in-English-108626768479797"
-    },
-    {
-      "text": " Youtube",
-      "url": "https://www.youtube.com/user/LeMonde"
-    },
-    {
-      "text": " Twitter",
-      "url": "https://twitter.com/LeMonde_EN"
-    },
-    {
-      "text": " Instagram",
-      "url": "https://www.instagram.com/lemondefr/?hl=fr"
-    },
-    {
-      "text": " Snapchat",
-      "url": "https://www.snapchat.com/discover/Le-Monde/8843708388"
-    },
-    {
-      "text": "privacy policy",
-      "url": "https://www.lemonde.fr/confidentialite/"
-    }
-  ],
+  "files_count": 337,
+  "item_last_updated": 1655681217,
+  "item_size": 29259567,
   "metadata": {
     "identifier": "lemonde_en-2022",
     "collection": [
@@ -4251,10 +3559,10 @@
     "publicdate": "2022-04-09 13:40:13",
     "addeddate": "2022-04-09 13:40:13"
   },
-  "server": "ia802506.us.archive.org",
-  "servers_unavailable": true,
-  "uniq": 2038636090,
+  "server": "ia801401.us.archive.org",
+  "uniq": 2059502934,
   "workable_servers": [
-    "ia802506.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1655598022,
+  "created": 1655681296,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/pioneerpress-2022",
@@ -3586,31 +3586,325 @@
       "sha1": "a04c914aeb7aedaab2585faed354bd09ce67c80a"
     },
     {
+      "name": "pioneerpress-2022-06-18T20:18:04.965748-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655601488",
+      "size": "38648",
+      "md5": "52aee24a06f532185064c270cc11f85c",
+      "crc32": "15df52e5",
+      "sha1": "4c70a95822bc86b659f0dadd57e1d04dd840035a",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T20:18:04.965748-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655601490",
+      "size": "49509",
+      "md5": "3670561c05eb3e8e50e5569315068e7b",
+      "crc32": "684673ba",
+      "sha1": "f9d54aca700cf0eae732e7963013395e95b6e723",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T20:18:04.965748-05:00.jpg",
+      "source": "original",
+      "mtime": "1655601486",
+      "size": "277845",
+      "md5": "2294c60632b7481a57aec0cdfad9d18e",
+      "crc32": "d2997e0b",
+      "sha1": "ffd14263b9243964c14a1bdb57aed2750f199bc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-18T20:18:04.965748-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-18T20:18:04.965748-05:00.jpg",
+      "mtime": "1655601537",
+      "size": "9459",
+      "md5": "2e4c7b965110e376f08bcafb596476ea",
+      "crc32": "6b9cfcd2",
+      "sha1": "9bc390214de559ae6b24c2c870966dd152892f1e"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T00:10:41.031085-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655615443",
+      "size": "39134",
+      "md5": "c426bf099d98dbaaf3d021e8bf1acc79",
+      "crc32": "aca8d0c1",
+      "sha1": "1140835293514bc89118645687272a9b407c9ee6",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T00:10:41.031085-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655615445",
+      "size": "43467",
+      "md5": "5bbf7d94554e65921cb0077db13301fd",
+      "crc32": "4f1b027f",
+      "sha1": "20cf468ddc27fb2172cc41509e8a54e0964c620a",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T00:10:41.031085-05:00.jpg",
+      "source": "original",
+      "mtime": "1655615442",
+      "size": "281820",
+      "md5": "4083283a85e769dd2a375d4f1da60441",
+      "crc32": "b11523d0",
+      "sha1": "834c70afa8abcb8c6d586f85fe5b527451acb830",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T00:10:41.031085-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-19T00:10:41.031085-05:00.jpg",
+      "mtime": "1655615520",
+      "size": "9506",
+      "md5": "c9d85ffab324d6711154cf99a83796aa",
+      "crc32": "d5dce9d5",
+      "sha1": "ea1f441ce3f27e307952f0c4d4151e3f6710da43"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T04:04:26.020295-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655629469",
+      "size": "39066",
+      "md5": "cd86c69ec3825721a86e3a7969d7b7f1",
+      "crc32": "d1e3c24a",
+      "sha1": "dbb5cf1b906e75144994a1c8684c811c8c2abcab",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T04:04:26.020295-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655629471",
+      "size": "48100",
+      "md5": "030c32544f7b40cdf815cabd082b8fa2",
+      "crc32": "e9a2d555",
+      "sha1": "f4602f4fc48787ec8ee8ceed883f9099d3807bd1",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T04:04:26.020295-05:00.jpg",
+      "source": "original",
+      "mtime": "1655629467",
+      "size": "281962",
+      "md5": "1212425cef54d3d1c8297f0e06567dcd",
+      "crc32": "b625a67b",
+      "sha1": "ce265c7fa607fcdaba4a21bea4480d86a8b86765",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T04:04:26.020295-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-19T04:04:26.020295-05:00.jpg",
+      "mtime": "1655629519",
+      "size": "9476",
+      "md5": "7f23e17e7a35f64fd392e1fe987f7dab",
+      "crc32": "716c540f",
+      "sha1": "74acfc4e361ba2ee10b4cbf81cbc530df16d1c07"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T08:12:29.815198-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655644353",
+      "size": "38996",
+      "md5": "2d400d50ac1fc18698dacac2d53ec254",
+      "crc32": "043396cc",
+      "sha1": "b328e4bc9ecbbadeefb2663fdfaa5146564a50c1",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T08:12:29.815198-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655644354",
+      "size": "48371",
+      "md5": "caa71e1aaeee96716cf994d337f9ba23",
+      "crc32": "8b5a76e1",
+      "sha1": "41af2a64ec4e7056dd70f45a808b239c4879ed40",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T08:12:29.815198-05:00.jpg",
+      "source": "original",
+      "mtime": "1655644351",
+      "size": "278266",
+      "md5": "2d3d1bebbc9f4b2c12c0daf0fc24b4af",
+      "crc32": "ba897a56",
+      "sha1": "ad959614878f5ffc2289f9289221d335f5150c00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T08:12:29.815198-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-19T08:12:29.815198-05:00.jpg",
+      "mtime": "1655644405",
+      "size": "9155",
+      "md5": "ae745881fc7de31c8c4aab4d6f0b0a3b",
+      "crc32": "facd7a36",
+      "sha1": "c8b65fcc76a55ed29ef4fc4166f393571e90ffb2"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T12:08:10.778028-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655658498",
+      "size": "40542",
+      "md5": "42cb364e9d5d54fa380a0773ed5b1f77",
+      "crc32": "4dd2c1fb",
+      "sha1": "fa1e7459b5b3aa99c3cfb4dc66e78f250ae6ee41",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T12:08:10.778028-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655658500",
+      "size": "48888",
+      "md5": "7e4bd33e2315fa8f0128e579787463ef",
+      "crc32": "f22e32ae",
+      "sha1": "190c1d1d234d4a598b4c8fa0e5e91530f0a18dac",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T12:08:10.778028-05:00.jpg",
+      "source": "original",
+      "mtime": "1655658496",
+      "size": "298614",
+      "md5": "9fe5d75a63d61a16fbcd75b46841c7b5",
+      "crc32": "e6d653c1",
+      "sha1": "099fcc196be6f77b180bcc0982350febdd1e3132",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T12:08:10.778028-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-19T12:08:10.778028-05:00.jpg",
+      "mtime": "1655658572",
+      "size": "9360",
+      "md5": "946c16732c6bb0b56c222ff8d8e875ed",
+      "crc32": "2e208cf0",
+      "sha1": "9cc8f0c2e855197aa2a8ef3f9fd971ea5c437972"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T16:02:10.242793-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655672537",
+      "size": "40599",
+      "md5": "c2a6b64bb0bacea72fca8cb3c47b1055",
+      "crc32": "7935a1bc",
+      "sha1": "30012afba81d4f48aa9fa3146c986ae6d34d0b95",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T16:02:10.242793-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655672539",
+      "size": "49273",
+      "md5": "f795db4858cc983d274525011e901b88",
+      "crc32": "e4d79b00",
+      "sha1": "2898ad9a98d0b709886e9940522d500bb2f7a675",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T16:02:10.242793-05:00.jpg",
+      "source": "original",
+      "mtime": "1655672534",
+      "size": "294345",
+      "md5": "f1572ccd4ad8daabced1f3ae826f238e",
+      "crc32": "7fa59611",
+      "sha1": "b368f5ae0c9bfe38d18de37338945e317878d75f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T16:02:10.242793-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-19T16:02:10.242793-05:00.jpg",
+      "mtime": "1655672635",
+      "size": "9321",
+      "md5": "b740da1b4579cc56c3808d7e1fa4873c",
+      "crc32": "e22382e2",
+      "sha1": "6aa00c1f580163bd104352b2963c916f22dd9cf7"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T18:27:02.153581-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655681227",
+      "size": "40484",
+      "md5": "7319e71f3ab97110de1d8c6d1ecb71dc",
+      "crc32": "d9e40772",
+      "sha1": "636f2ae14a2ac2668686867c6bd7bd24eedc498d",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T18:27:02.153581-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655681228",
+      "size": "43767",
+      "md5": "59fee00563d036c28a685c2f84633760",
+      "crc32": "f5ba5195",
+      "sha1": "d7cfd0db45949ea15d114e9e5518c958c0c3a938",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T18:27:02.153581-05:00.jpg",
+      "source": "original",
+      "mtime": "1655681225",
+      "size": "296367",
+      "md5": "ec550cc2c2ea666f5705b199ff02c234",
+      "crc32": "b93d15b3",
+      "sha1": "c15e4b64364501abe0b575be3ab063d5d267d6eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-06-19T18:27:02.153581-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-06-19T18:27:02.153581-05:00.jpg",
+      "mtime": "1655681283",
+      "size": "9367",
+      "md5": "8f4ffab6b485f2986a420f22741a88ef",
+      "crc32": "d0ed8720",
+      "sha1": "0ab57fb0d1e051c758e4c617d18cf646b83c5465"
+    },
+    {
       "name": "pioneerpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bcaf6f33c5ea821ef297f5bd19095afecc5262f8",
-      "mtime": "1655586264",
-      "size": "74720",
-      "md5": "c3b0880942efefb100d226115803a8bb",
-      "crc32": "bb71025d",
-      "sha1": "6bf6ea9ac86e25b702b75c655ee314476ab30444",
+      "btih": "d5817a78730488e432071d3ea833dc52afaf3406",
+      "mtime": "1655681287",
+      "size": "80735",
+      "md5": "db3f1df2562f9eeed67602141bfe747a",
+      "crc32": "6e870eb5",
+      "sha1": "875c2f0b36a21aed5677ffcab03125fa603bf2d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pioneerpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4179075f947ec76af25fcdca294aa0e6",
+      "md5": "af6435c66dcc52ff6a089f26886219f8",
       "summation": "md5"
     },
     {
       "name": "pioneerpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655586212",
-      "size": "413696",
-      "md5": "b11e3ba5b9df79e0cab4284f5e04aa00",
-      "crc32": "cad4fb98",
-      "sha1": "c6cd38e5f8b82f210974202daa12e281083118e0",
+      "mtime": "1655681232",
+      "size": "442368",
+      "md5": "cc7ea4631db28365bd20965b82e075d6",
+      "crc32": "9e3ca465",
+      "sha1": "36ce8f10e69bfc67255204f3c325f24b3ff14b3c",
       "format": "Metadata"
     },
     {
@@ -3624,9 +3918,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 345,
-  "item_last_updated": 1655586264,
-  "item_size": 32797828,
+  "files_count": 373,
+  "item_last_updated": 1655681287,
+  "item_size": 35516222,
   "metadata": {
     "identifier": "pioneerpress-2022",
     "collection": [
@@ -3643,1408 +3937,10 @@
     "publicdate": "2022-04-01 22:43:00",
     "addeddate": "2022-04-01 22:43:00"
   },
-  "pioneerpress-2022": [
-    {
-      "text": "Data Storage Policy",
-      "url": "https://www.medianewsgroup.com/privacy-policy/"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#content"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tSubscribe Now\t\t\t\t\t\t\t\t",
-      "url": "https://checkout.twincities.com/?g2i_source=website&g2i_medium=link&g2i_campaign=nav&g2i_or_o=Internet&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.twincities.com%252F"
-    },
-    {
-      "text": "\n\t\t\t81\u00b0F\n\t\t\t\n\t\t",
-      "url": "http://www.accuweather.com/en/us/saint-paul-mn/55102/weather-warnings/23960_pc?lang=en-us&partner=mng_51"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tToday's Paper\t\t\t\t\t\t\t\t\t",
-      "url": "https://enewspaper.twincities.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHome Page\n\t\t\t\t\t\t\t\t",
-      "url": "https://www.twincities.com"
-    },
-    {
-      "text": "News",
-      "url": "https://www.twincities.com/news/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.twincities.com/news/"
-    },
-    {
-      "text": "Business",
-      "url": "https://www.twincities.com/business/"
-    },
-    {
-      "text": "Crime & Public Safety",
-      "url": "https://www.twincities.com/news/crime-public-safety/"
-    },
-    {
-      "text": "Education",
-      "url": "https://www.twincities.com/news/education/"
-    },
-    {
-      "text": "Government & Politics",
-      "url": "https://www.twincities.com/tag/government-politics/"
-    },
-    {
-      "text": "Health",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.twincities.com/news/national/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://twincities.com/tag/coronavirus"
-    },
-    {
-      "text": "Local",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "St. Paul",
-      "url": "https://www.twincities.com/tag/st-paul/"
-    },
-    {
-      "text": "Ramsey County",
-      "url": "https://www.twincities.com/tag/ramsey-county/"
-    },
-    {
-      "text": "Anoka County",
-      "url": "https://www.twincities.com/tag/anoka-county/"
-    },
-    {
-      "text": "Washington County",
-      "url": "https://www.twincities.com/tag/washington-county/"
-    },
-    {
-      "text": "Dakota County",
-      "url": "https://www.twincities.com/tag/dakota-county/"
-    },
-    {
-      "text": "Minnesota",
-      "url": "https://www.twincities.com/tag/minnesota"
-    },
-    {
-      "text": "Wisconsin",
-      "url": "https://www.twincities.com/tag/wisconsin/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.twincities.com/sports/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.twincities.com/sports/"
-    },
-    {
-      "text": "Minnesota Vikings",
-      "url": "https://www.twincities.com/sports/nfl/minnesota-vikings/"
-    },
-    {
-      "text": "Minnesota Twins",
-      "url": "https://www.twincities.com/sports/mlb/minnesota-twins/"
-    },
-    {
-      "text": "Minnesota Wild",
-      "url": "https://www.twincities.com/sports/nhl/minnesota-wild/"
-    },
-    {
-      "text": "Minnesota Timberwolves",
-      "url": "https://www.twincities.com/sports/nba/minnesota-timberwolves/"
-    },
-    {
-      "text": "Minnesota Lynx",
-      "url": "https://www.twincities.com/sports/wnba/minnesota-lynx/"
-    },
-    {
-      "text": "Minnesota United FC",
-      "url": "https://www.twincities.com/sports/soccer/minnesota-united-fc/"
-    },
-    {
-      "text": "College Sports",
-      "url": "https://www.twincities.com/sports/college-sports/"
-    },
-    {
-      "text": "Gophers Football",
-      "url": "https://www.twincities.com/tag/gophers-football/"
-    },
-    {
-      "text": "St. Paul Saints",
-      "url": "https://www.twincities.com/tag/saints/"
-    },
-    {
-      "text": "Gophers Men\u2019s Basketball",
-      "url": "https://www.twincities.com/tag/gophers-basketball/"
-    },
-    {
-      "text": "High School Sports",
-      "url": "https://www.twincities.com/sports/high-school-sports/"
-    },
-    {
-      "text": "Outdoors",
-      "url": "https://www.twincities.com/things-to-do/outdoors/"
-    },
-    {
-      "text": "Food",
-      "url": "https://www.twincities.com/things-to-do/restaurants-food-drink/"
-    },
-    {
-      "text": "Restaurants, Food and Drink",
-      "url": "https://www.twincities.com/things-to-do/restaurants-food-drink/"
-    },
-    {
-      "text": "Restaurant news",
-      "url": "https://www.twincities.com/tag/restaurant-news/"
-    },
-    {
-      "text": "Restaurant reviews",
-      "url": "https://www.twincities.com/tag/restaurant-reviews/"
-    },
-    {
-      "text": "Restaurant lists",
-      "url": "https://www.twincities.com/tag/restaurant-lists/"
-    },
-    {
-      "text": "Recipes",
-      "url": "https://www.twincities.com/tag/recipes/"
-    },
-    {
-      "text": "Takeout",
-      "url": "https://www.twincities.com/tag/takeout-meals/"
-    },
-    {
-      "text": "Things to Do",
-      "url": "https://www.twincities.com/things-to-do/"
-    },
-    {
-      "text": "Things to Do",
-      "url": "https://www.twincities.com/things-to-do/"
-    },
-    {
-      "text": "Books",
-      "url": "https://www.twincities.com/things-to-do/books/"
-    },
-    {
-      "text": "Movies & TV",
-      "url": "https://www.twincities.com/things-to-do/movies-tv/"
-    },
-    {
-      "text": "Arts",
-      "url": "https://www.twincities.com/things-to-do/arts/"
-    },
-    {
-      "text": "Music and Concerts",
-      "url": "https://www.twincities.com/things-to-do/music-concerts/"
-    },
-    {
-      "text": "Restaurants, Food and Drink",
-      "url": "https://www.twincities.com/things-to-do/restaurants-food-drink/"
-    },
-    {
-      "text": "Theater",
-      "url": "https://www.twincities.com/things-to-do/theater/"
-    },
-    {
-      "text": "Travel",
-      "url": "https://www.twincities.com/things-to-do/travel/"
-    },
-    {
-      "text": "Treasure Hunt",
-      "url": "https://www.twincities.com/tag/treasure-hunt"
-    },
-    {
-      "text": "Winter Carnival",
-      "url": "https://www.twincities.com/winter-carnival"
-    },
-    {
-      "text": "State Fair",
-      "url": "https://www.twincities.com/tag/minnesota-state-fair"
-    },
-    {
-      "text": "Home & Garden",
-      "url": "https://www.twincities.com/tag/home-and-garden"
-    },
-    {
-      "text": "Local Events",
-      "url": "https://www.twincities.com/local-events/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.twincities.com/opinion/"
-    },
-    {
-      "text": "Editorials",
-      "url": "https://www.twincities.com/opinion/editorials/"
-    },
-    {
-      "text": "Letters to the Editor",
-      "url": "https://www.twincities.com/opinion/letters-to-the-editor/"
-    },
-    {
-      "text": "Opinion Columnists",
-      "url": "https://www.twincities.com/opinion/opinion-columnists/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "http://www.legacy.com/obituaries/twincities/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.twincities.com/?g2i_source=website&g2i_medium=link&g2i_campaign=nav&g2i_or_o=Internet&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.twincities.com%252F"
-    },
-    {
-      "text": "Log in",
-      "url": "https://www.twincities.com/login?returnUrl=https%3A%2F%2Fwww.twincities.com%2F"
-    },
-    {
-      "text": "Logout",
-      "url": "https://www.twincities.com/logout"
-    },
-    {
-      "text": "\n\t\t\t\tSign Up",
-      "url": "https://myaccount.twincities.com/ppst/preference"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.twincities.com/?g2i_source=website&g2i_medium=link&g2i_campaign=nav&g2i_or_o=Internet&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.twincities.com%252F"
-    },
-    {
-      "text": "Log in",
-      "url": "https://www.twincities.com/login?returnUrl=https%3A%2F%2Fwww.twincities.com%2F"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/contact-us"
-    },
-    {
-      "text": "Log Out",
-      "url": "/logout"
-    },
-    {
-      "text": "\n\t\t\t\tSign Up",
-      "url": "https://myaccount.twincities.com/ppst/preference"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.twincities.com/?g2i_source=website&g2i_medium=link&g2i_campaign=nav&g2i_or_o=Internet&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.twincities.com%252F"
-    },
-    {
-      "text": "Log in",
-      "url": "https://www.twincities.com/login?returnUrl=https%3A%2F%2Fwww.twincities.com%2F"
-    },
-    {
-      "text": "\n\t\t\t81\u00b0F\n\t\t\t\n\t\t",
-      "url": "http://www.accuweather.com/en/us/saint-paul-mn/55102/weather-warnings/23960_pc?lang=en-us&partner=mng_51"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tToday's Paper\t\t\t\t\t\t\t\t\t",
-      "url": "https://enewspaper.twincities.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com"
-    },
-    {
-      "text": "News",
-      "url": "https://www.twincities.com/news/"
-    },
-    {
-      "text": "Local",
-      "url": "https://www.twincities.com/local-news/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.twincities.com/sports/"
-    },
-    {
-      "text": "Food",
-      "url": "https://www.twincities.com/things-to-do/restaurants-food-drink/"
-    },
-    {
-      "text": "Things to Do",
-      "url": "https://www.twincities.com/things-to-do/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.twincities.com/opinion/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "http://www.legacy.com/obituaries/twincities/?_ga=2.226401306.1636879693.1647918327-597442366.1638289147"
-    },
-    {
-      "text": "Classifieds",
-      "url": "https://www.twincities.com/classifieds/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJuneteenth events\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJan. 6 hearings\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/jan-6-hearings-what-weve-learned-and-whats-next-2/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMapping racial covenants\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/local-nonprofit-mapping-prejudice-unveils-data-regarding-racial-covenants-in-ramsey-county/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSpecial session unlikely\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/special-session-unlikely-on-minnesota-budget-surplus/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t10% mortgage rates?\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/bubble-watch-could-mortgage-rates-hit-10/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNew MN liquor laws\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/what-new-mn-liquor-laws-mean-for-businesses-and-consumers/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSt. Paul Public Schools struggles to measure what\u2019s working for students\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBodies of 2 workers found in trench collapse at St. Paul work site\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/st-paul-rent-control-federal-lawsuit/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/st-paul-rent-control-federal-lawsuit/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tProperty owners file federal lawsuit over St. Paul rent control\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/st-paul-rent-control-federal-lawsuit/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJuneteenth in the Twin Cities: What\u2019s open, what\u2019s closed and what\u2019s on tap\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/juneteenth-st-paul-events-open-closed/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/republican-gubernatorial-candidate-scott-jensen-threatens-retaliation-against-medical-board/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/republican-gubernatorial-candidate-scott-jensen-threatens-retaliation-against-medical-board/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tRepublican gubernatorial candidate Scott Jensen threatens retaliation against medical board\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/republican-gubernatorial-candidate-scott-jensen-threatens-retaliation-against-medical-board/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/18/us-opens-covid-vaccine-to-little-kids-shots-begin-next-week/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tUS opens COVID vaccine to little kids, shots begin next week\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/us-opens-covid-vaccine-to-little-kids-shots-begin-next-week/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/18/soucheray-with-all-those-plaudits-would-new-top-gun-be-a-disappointment/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSoucheray: With all those plaudits, would new \u2018Top Gun\u2019 be a disappointment?\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/soucheray-with-all-those-plaudits-would-new-top-gun-be-a-disappointment/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/18/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tYellowstone flooding rebuild could take years, cost billions\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/yellowstone-flooding-rebuild-could-take-years-cost-billions/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/special-session-unlikely-on-minnesota-budget-surplus/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWith talks at impasse, special session of Legislature unlikely on Minnesota tax cuts, spending\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/special-session-unlikely-on-minnesota-budget-surplus/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/man-charged-in-mondays-fatal-stabbing-at-st-paul-apartment/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMan charged in fatal stabbing at St. Paul apartment\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/man-charged-in-mondays-fatal-stabbing-at-st-paul-apartment/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/3-injured-in-shooting-in-st-pauls-highland-park/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t3 injured in shooting in St. Paul\u2019s Highland Park\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/3-injured-in-shooting-in-st-pauls-highland-park/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/for-purple-line-transit-committee-drops-downtown-white-bear-lake-considers-century-college/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPurple Line drops downtown White Bear Lake, considers Century College\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/for-purple-line-transit-committee-drops-downtown-white-bear-lake-considers-century-college/"
-    },
-    {
-      "text": "\n\t\tSubscribe",
-      "url": "https://myaccount.twincities.com/ppst/preference"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
-      "url": "https://facebook.com/pioneerpress"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
-      "url": "https://twitter.com/pioneerpress"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
-      "url": "https://instagram.com/pioneerpress"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tRSS\n\t\t\t\t\t",
-      "url": "https://www.twincities.com/feed/"
-    },
-    {
-      "text": "\n                Gunman kills 3 seniors over potluck dinner at Alabama church\n            ",
-      "url": "https://www.twincities.com/2022/06/17/gunman-kills-3-seniors-over-potluck-dinner-at-alabama-church/"
-    },
-    {
-      "text": "\n                Political commentator and columnist Mark Shields dies at 85\n            ",
-      "url": "https://www.twincities.com/2022/06/18/political-commentator-and-columnist-mark-shields-dies-at-85/"
-    },
-    {
-      "text": "\n                St. Paul Public Schools struggles to measure what\u2019s working for students\n            ",
-      "url": "https://www.twincities.com/2022/06/18/st-paul-public-schools-struggles-to-measure-whats-working-for-students/"
-    },
-    {
-      "text": "\n                US opens COVID vaccine to little kids, shots begin next week\n            ",
-      "url": "https://www.twincities.com/2022/06/18/us-opens-covid-vaccine-to-little-kids-shots-begin-next-week/"
-    },
-    {
-      "text": "\n                Orioles GM Mike Elias says Angelos family lawsuit won\u2019t \u2018have any impact\u2019 on team\u2019s on-field plans\n            ",
-      "url": "https://www.twincities.com/2022/06/18/orioles-gm-mike-elias-says-angelos-family-lawsuit-wont-have-any-impact-on-teams-on-field-plans/"
-    },
-    {
-      "text": "\n                Yankees Notebook: Matt Carpenter back at the top of the lineup vs. Blue Jays\u2019 Alek Manoah\n            ",
-      "url": "https://www.twincities.com/2022/06/18/yankees-notebook-matt-carpenter-back-at-the-top-of-the-lineup-vs-blue-jays-alek-manoah/"
-    },
-    {
-      "text": "\n                Bodies of 2 workers found in trench collapse at St. Paul work site\n            ",
-      "url": "https://www.twincities.com/2022/06/17/2-people-unaccounted-for-in-trench-collapse-at-st-paul-construction-site/"
-    },
-    {
-      "text": "\n                3 injured in shooting in St. Paul\u2019s Highland Park\n            ",
-      "url": "https://www.twincities.com/2022/06/17/3-injured-in-shooting-in-st-pauls-highland-park/"
-    },
-    {
-      "text": "\n\t\t\t\tmore News\n\t\t\t",
-      "url": "https://www.twincities.com/news/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFDA authorizes 1st COVID-19 shots for infants, preschoolers\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/15/st-paul-city-council-revokes-ethiopian-bars-liquor-license-on-west-seventh-street/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSt. Paul City Council revokes Ethiopian bar\u2019s liquor license on West Seventh Street\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/st-paul-city-council-revokes-ethiopian-bars-liquor-license-on-west-seventh-street/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/18/political-commentator-and-columnist-mark-shields-dies-at-85/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPolitical commentator and columnist Mark Shields dies at 85\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/political-commentator-and-columnist-mark-shields-dies-at-85/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/gunman-kills-3-seniors-over-potluck-dinner-at-alabama-church/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGunman kills 3 seniors over potluck dinner at Alabama church\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/gunman-kills-3-seniors-over-potluck-dinner-at-alabama-church/"
-    },
-    {
-      "text": "\n\t\t\t\tmore Sports\n\t\t\t",
-      "url": "https://www.twincities.com/sports/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/class-4a-baseball-state-final-stillwater-8-farmington-1/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/class-4a-baseball-state-final-stillwater-8-farmington-1/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tClass 4A baseball state final: Stillwater 8, Farmington 1\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/class-4a-baseball-state-final-stillwater-8-farmington-1/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/twins-miss-opportunities-early-play-shaky-defense-in-loss-to-diamondbacks/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tTwins can\u2019t convert early, play shaky defense in loss to Diamondbacks\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/twins-miss-opportunities-early-play-shaky-defense-in-loss-to-diamondbacks/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/class-1a-baseball-state-championship-randolph-2-hayfield-1/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tClass 1A baseball state championship: Randolph 2, Hayfield 1\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/class-1a-baseball-state-championship-randolph-2-hayfield-1/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/jorge-polanco-lands-on-injured-list-for-first-time-twins-recall-alex-kirilloff/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJorge Polanco lands on injured list for first time; Twins recall Alex Kirilloff\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/jorge-polanco-lands-on-injured-list-for-first-time-twins-recall-alex-kirilloff/"
-    },
-    {
-      "text": "\n\t\t\t\tmore Restaurants & Food\n\t\t\t",
-      "url": "https://www.twincities.com/tag/restaurants-and-food/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/what-new-mn-liquor-laws-mean-for-businesses-and-consumers/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/what-new-mn-liquor-laws-mean-for-businesses-and-consumers/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWhat new Minnesota liquor laws mean for businesses \u2014 and consumers\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/what-new-mn-liquor-laws-mean-for-businesses-and-consumers/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/15/little-tijuana-is-coming-back-with-the-same-name-but-asian-inspired-menu-and-craft-cocktails/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLittle Tijuana returns with the same name but Asian-inspired menu and craft cocktails\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/little-tijuana-is-coming-back-with-the-same-name-but-asian-inspired-menu-and-craft-cocktails/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/14/owamni-from-sioux-chef-takes-home-national-james-beard-award-for-best-new-restaurant/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOwamni from Sioux Chef gets national James Beard Award for best new eatery\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/14/owamni-from-sioux-chef-takes-home-national-james-beard-award-for-best-new-restaurant/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/joy-baking-group-ice-cream-cone-baker/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMeet the company that makes cones for ice cream shops across America\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/joy-baking-group-ice-cream-cone-baker/"
-    },
-    {
-      "text": "Photos",
-      "url": "/tag/photos-and-videos/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/back-to-the-fifties-weekend-returns-to-mn-state-fairgrounds/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/back-to-the-fifties-weekend-returns-to-mn-state-fairgrounds/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBack to the Fifties weekend returns to MN State Fairgrounds\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/back-to-the-fifties-weekend-returns-to-mn-state-fairgrounds/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/gateway-towns-to-yellowstone-become-dead-ends-after-flood/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/gateway-towns-to-yellowstone-become-dead-ends-after-flood/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGateway towns to Yellowstone become dead ends after flood\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/gateway-towns-to-yellowstone-become-dead-ends-after-flood/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/class-4a-baseball-semifinal-stillwater-5-chanhassen-3/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/class-4a-baseball-semifinal-stillwater-5-chanhassen-3/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tClass 4A baseball semifinal: Stillwater 5, Chanhassen 3\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/class-4a-baseball-semifinal-stillwater-5-chanhassen-3/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/boys-lacrosse-semifinal-prior-lake-20-centennial-7/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/boys-lacrosse-semifinal-prior-lake-20-centennial-7/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBoys lacrosse semifinal: Prior Lake 20, Centennial 7\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/boys-lacrosse-semifinal-prior-lake-20-centennial-7/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/class-4a-baseball-state-semifinal-no-1-farmington-7-no-3-maple-grove-5/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/class-4a-baseball-state-semifinal-no-1-farmington-7-no-3-maple-grove-5/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tClass 4A baseball semifinal: Farmington 7, Maple Grove 5\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/class-4a-baseball-state-semifinal-no-1-farmington-7-no-3-maple-grove-5/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/boys-lacrosse-semifinal-benilde-st-margarets-15-stillwater-10/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/boys-lacrosse-semifinal-benilde-st-margarets-15-stillwater-10/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBoys lacrosse semifinal: Benilde-St. Margaret\u2019s 15, Stillwater 10\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/boys-lacrosse-semifinal-benilde-st-margarets-15-stillwater-10/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/15/ap-photos-supermoon-delights-skygazers-around-the-globe/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/ap-photos-supermoon-delights-skygazers-around-the-globe/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos and video: Supermoon delights skygazers around the globe\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/ap-photos-supermoon-delights-skygazers-around-the-globe/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/hate-crime-probe-after-group-disrupts-drag-queen-story-hour/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/hate-crime-probe-after-group-disrupts-drag-queen-story-hour/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHate crime probe after group disrupts Drag Queen Story Hour\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/hate-crime-probe-after-group-disrupts-drag-queen-story-hour/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/leaders-pledge-arms-and-eu-path-for-ukraine-in-kyiv-visit/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/leaders-pledge-arms-and-eu-path-for-ukraine-in-kyiv-visit/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLeaders pledge arms and EU path for Ukraine in Kyiv visit\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/leaders-pledge-arms-and-eu-path-for-ukraine-in-kyiv-visit/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/15/class-3a-girls-golf-blaines-kathryn-vanarragon-holds-off-mccauley-sisters-for-state-title/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/class-3a-girls-golf-blaines-kathryn-vanarragon-holds-off-mccauley-sisters-for-state-title/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tClass 3A girls golf: Blaine\u2019s Kathryn VanArragon holds off McCauley sisters for state title\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/class-3a-girls-golf-blaines-kathryn-vanarragon-holds-off-mccauley-sisters-for-state-title/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/15/fda-advisers-endorse-1st-covid-19-shots-for-kids-under-5/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/fda-advisers-endorse-1st-covid-19-shots-for-kids-under-5/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFDA advisers endorse 1st COVID-19 shots for kids under 5\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/fda-advisers-endorse-1st-covid-19-shots-for-kids-under-5/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/15/biden-seeks-to-counter-legislative-attacks-on-lgbtq-rights/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/biden-seeks-to-counter-legislative-attacks-on-lgbtq-rights/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBiden seeks to counter \u2018legislative attacks\u2019 on LGBTQ rights\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/biden-seeks-to-counter-legislative-attacks-on-lgbtq-rights/"
-    },
-    {
-      "text": "\n\t\t\t\tmore Things to Do\n\t\t\t",
-      "url": "https://www.twincities.com/things-to-do/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/stillwater-river-siren-brewing-sunshine-fest-lifesource-fundraiser/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/stillwater-river-siren-brewing-sunshine-fest-lifesource-fundraiser/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tStillwater brewery launches festival fundraiser for organ donation\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/stillwater-river-siren-brewing-sunshine-fest-lifesource-fundraiser/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/facebook-event-stillwater-food-truck-extravaganza/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDespite Facebook glitch, Stillwater area\u2019s Food Truck Extravaganza is still on\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/facebook-event-stillwater-food-truck-extravaganza/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/vince-mcmahon-will-step-down-during-wwe-misconduct-probe/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tVince McMahon will step down during WWE misconduct probe\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/vince-mcmahon-will-step-down-during-wwe-misconduct-probe/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/salvation-army-will-host-july-rappelling-event-to-raise-money-for-minnesotas-homeless/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSalvation Army will host July rappelling event to raise money for Minnesota\u2019s homeless\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/salvation-army-will-host-july-rappelling-event-to-raise-money-for-minnesotas-homeless/"
-    },
-    {
-      "text": "\n\t\t\t\tmore Crime & Public Safety\n\t\t\t",
-      "url": "https://www.twincities.com/news/crime-public-safety/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/gregory-ulrich-sentenced-allina-clinic-shooting-buffalo-mn/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/gregory-ulrich-sentenced-allina-clinic-shooting-buffalo-mn/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGregory Ulrich sentenced to life in prison for \u2018unthinkable\u2019 MN clinic shooting\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/gregory-ulrich-sentenced-allina-clinic-shooting-buffalo-mn/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/st-paul-man-gets-36-years-for-2020-fatal-shooting-at-eagan-hotel/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSt. Paul man gets 36 years for 2020 fatal shooting at Eagan hotel\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/st-paul-man-gets-36-years-for-2020-fatal-shooting-at-eagan-hotel/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/woman-sent-lewd-packages-to-superintendent-after-st-anthony-teachers-firing-harassment-charge-alleges/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWoman sent lewd packages after St. Anthony teacher\u2019s firing, harassment charge alleges\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/woman-sent-lewd-packages-to-superintendent-after-st-anthony-teachers-firing-harassment-charge-alleges/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/16/minneapolis-area-house-flipper-pleads-guilty-to-fraud/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMinneapolis-area house-flipper pleads guilty to fraud\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/16/minneapolis-area-house-flipper-pleads-guilty-to-fraud/"
-    },
-    {
-      "text": "\n\t\t\t\tmore Opinion\n\t\t\t",
-      "url": "https://www.twincities.com/opinion/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/18/sainted-tainted-our-day-at-the-beach-was-saved/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/sainted-tainted-our-day-at-the-beach-was-saved/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSainted & Tainted: Our day at the beach was saved!\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/sainted-tainted-our-day-at-the-beach-was-saved/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/bubble-watch-could-mortgage-rates-hit-10/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBubble watch: Could mortgage rates hit 10%?\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/bubble-watch-could-mortgage-rates-hit-10/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/tyler-d-michals-the-collisions-between-sports-and-politics-underscore-our-need-for-tolerance-of-dissent-2/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tTyler D. Michals: The collisions between sports and politics underscore our need for tolerance of dissent\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/tyler-d-michals-the-collisions-between-sports-and-politics-underscore-our-need-for-tolerance-of-dissent-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/helene-gayle-reparations-is-another-word-for-investing-in-americas-future/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHelene Gayle: \u2018Reparations\u2019 is another word for investing in America\u2019s future\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/helene-gayle-reparations-is-another-word-for-investing-in-americas-future/"
-    },
-    {
-      "text": "\n\t\t\t\tmore Government & Politics\n\t\t\t",
-      "url": "https://www.twincities.com/tag/government-politics/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/18/bidens-optimism-collides-with-mounting-political-challenges/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/bidens-optimism-collides-with-mounting-political-challenges/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBiden\u2019s optimism collides with mounting political challenges\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/18/bidens-optimism-collides-with-mounting-political-challenges/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/as-gas-prices-keep-breaking-records-how-much-relief-can-mn-leaders-provide/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAs gas prices keep breaking records, how much relief can MN leaders provide?\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/as-gas-prices-keep-breaking-records-how-much-relief-can-mn-leaders-provide/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/15/a-maplewood-man-filed-for-a-northwestern-minnesota-state-senate-seat-chaos-has-ensued/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tA Maplewood man filed for a northwestern Minnesota state Senate seat. Chaos has ensued.\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/15/a-maplewood-man-filed-for-a-northwestern-minnesota-state-senate-seat-chaos-has-ensued/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com/2022/06/17/montana-governor-under-fire-for-vacationing-during-flood/"
-    },
-    {
-      "text": "Health | ",
-      "url": "https://www.twincities.com/news/health/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMontana governor under fire for vacationing during flood\t\t\n\n\t\t\t",
-      "url": "https://www.twincities.com/2022/06/17/montana-governor-under-fire-for-vacationing-during-flood/"
-    },
-    {
-      "text": "Another Florida homeowners insurance company goes under",
-      "url": "https://www.orlandosentinel.com/business/real-estate/os-bz-property-insurance-company-insolvent-20220615-k4ngz77dfvd3tdxp2vv3zv72l4-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "Disney delays moving 2,000 jobs to Orlando amid \u2018don\u2019t say gay\u2019 clash with DeSantis",
-      "url": "https://www.orlandosentinel.com/business/tourism/os-bz-disney-lake-nona-move-delayed-20220615-n6ohdk65z5gxxccpk3obsgzweu-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "Lauren Boebert target of wild claims spreading despite lack of evidence",
-      "url": "https://www.denverpost.com/2022/06/15/lauren-boebert-allegations/?itm_source=parsely-api"
-    },
-    {
-      "text": "Teenage Walgreens employee in Colorado Springs reported coworker before she was found dead in breakroom",
-      "url": "https://www.denverpost.com/2022/06/15/joshua-johnson-murder-suspect-colorado-springs/?itm_source=parsely-api"
-    },
-    {
-      "text": "Henry Winkler snaps back at Herschel Walker following criticism of celebrities",
-      "url": "https://www.nydailynews.com/snyde/ny-henry-winkler-herschel-walker-opinion-american-20220616-coa43wv2ezdf5m73hen77xwuaa-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "",
-      "url": "https://www.twincities.com"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.twincities.com/?g2i_source=website&g2i_medium=link&g2i_campaign=footer&g2i_or_o=Internet&g2i_or_p=footer"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Today\u2019s Paper",
-      "url": "https://enewspaper.twincities.com/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "http://www.legacy.com/obituaries/twincities/?_ga=2.104521920.1545636678.1648572759-597442366.1638289147"
-    },
-    {
-      "text": "Comics",
-      "url": "https://comicskingdom.com/?utm_source=dfm"
-    },
-    {
-      "text": "Puzzles",
-      "url": "http://puzzles.comicskingdom.com/?utm_source=dfm"
-    },
-    {
-      "text": "Home",
-      "url": "http://twincities.com/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "News",
-      "url": "https://www.twincities.com/news/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.twincities.com/sports/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.twincities.com/opinion/"
-    },
-    {
-      "text": "Things to Do",
-      "url": "https://www.twincities.com/things-to-do/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.twincities.com/contactus/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Newsroom Contacts",
-      "url": "https://www.twincities.com/newsroomcontacts/"
-    },
-    {
-      "text": "Pioneer Press Store",
-      "url": "https://store.twincities.com/?utm_campaign=evergreen&utm_medium=referral&utm_source=edit-footer&utm_content=&utm_term="
-    },
-    {
-      "text": "Commenting rules",
-      "url": "http://www.twincities.com/2014/05/06/twincities-com-commenting-terms-of-use/"
-    },
-    {
-      "text": "Photo reprints",
-      "url": "https://www.twincities.com/photo-reprints/"
-    },
-    {
-      "text": "Customer service",
-      "url": "https://myaccount.twincities.com/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.medianewsgroup.com/privacy-policy/"
-    },
-    {
-      "text": "Accessibility",
-      "url": "https://www.medianewsgroup.com/accessibility-statement/"
-    },
-    {
-      "text": "Marketplace",
-      "url": "https://www.twincities.com/classifieds/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Autos",
-      "url": "http://minnesotadrives.com/"
-    },
-    {
-      "text": "Homes",
-      "url": "https://www.twincities.com/homes/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://www.twincities.com/jobs/"
-    },
-    {
-      "text": "Work With Us",
-      "url": "https://myworkdaycenter.wd5.myworkdayjobs.com/MNG"
-    },
-    {
-      "text": "Advertise with us",
-      "url": "https://www.twincities.com/advertise/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Network Advertising",
-      "url": "https://www.digitalfirstmedia.com/advertise-with-us/"
-    },
-    {
-      "text": "Special Advertising Sections",
-      "url": "https://www.twincities.com/special-advertising-sections/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
-      "url": "https://facebook.com/pioneerpress"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
-      "url": "https://twitter.com/pioneerpress"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
-      "url": "https://instagram.com/pioneerpress"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tRSS\n\t\t\t\t\t",
-      "url": "https://www.twincities.com/feed/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSubscribe Now\t\t\t\t",
-      "url": "https://checkout.twincities.com/?g2i_source=website&g2i_medium=link&g2i_campaign=nav&g2i_or_o=Internet&g2i_or_p=nav&returnUrl=https%3A%2F%2Fwww.twincities.com%2F"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://www.medianewsgroup.com/terms-of-use/"
-    },
-    {
-      "text": "Cookie Policy",
-      "url": "https://www.medianewsgroup.com/cookie-policy/"
-    },
-    {
-      "text": "Arbitration",
-      "url": "https://www.medianewsgroup.com/arbitration/"
-    },
-    {
-      "text": "Powered by WordPress.com VIP",
-      "url": "https://vip.wordpress.com/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Log in",
-      "url": "#"
-    },
-    {
-      "text": "Login help\ufeff",
-      "url": "https://www.twincities.com/faqlogin/?returnUrl=https%3A%2F%2Fwww.twincities.com%2F%3FclearUserState%3Dtrue"
-    }
-  ],
-  "server": "ia802508.us.archive.org",
-  "uniq": 65440781,
+  "server": "ia902508.us.archive.org",
+  "uniq": 1379400663,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

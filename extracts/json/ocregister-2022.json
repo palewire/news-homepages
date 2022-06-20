@@ -1,5 +1,5 @@
 {
-  "created": 1655598003,
+  "created": 1655681299,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/ocregister-2022",
@@ -6098,31 +6098,325 @@
       "sha1": "70dc53fa00afb1c60907c0d61f0549100776e647"
     },
     {
+      "name": "ocregister-2022-06-18T18:18:04.997975-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655601488",
+      "size": "39492",
+      "md5": "f843f912ba71f715be42ed61a2093a1b",
+      "crc32": "67842f46",
+      "sha1": "e14d1207269b201caa21344fc6fc68c2d0573d54",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T18:18:04.997975-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655601491",
+      "size": "47392",
+      "md5": "f5338c72e8c00851237f056ac07bbbd8",
+      "crc32": "b3182505",
+      "sha1": "165807a08f46fc472eaebedc592be61e2f3cf573",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T18:18:04.997975-07:00.jpg",
+      "source": "original",
+      "mtime": "1655601486",
+      "size": "361015",
+      "md5": "9fba35187500084d58df471ef437641a",
+      "crc32": "1eb57f45",
+      "sha1": "f3912399e63763620363fc82a5b1315256efafc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-18T18:18:04.997975-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-18T18:18:04.997975-07:00.jpg",
+      "mtime": "1655601540",
+      "size": "8693",
+      "md5": "af1dd8024463e8e69a6006146d644147",
+      "crc32": "01364e59",
+      "sha1": "a6ed5279627cef50d74cfb60b924db7a4733484e"
+    },
+    {
+      "name": "ocregister-2022-06-18T22:10:35.836310-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655615441",
+      "size": "39419",
+      "md5": "c0aa23528dd1d01e7ea5c8b3fcb70452",
+      "crc32": "e59660ce",
+      "sha1": "827e9903c4f499dd64cf5e59f1a99185b84285cf",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T22:10:35.836310-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655615442",
+      "size": "52573",
+      "md5": "77a3145c5873c7a78fd754844eb33729",
+      "crc32": "d621988e",
+      "sha1": "76559e24d1fae4d1b137690de4c56320472cb9a8",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-18T22:10:35.836310-07:00.jpg",
+      "source": "original",
+      "mtime": "1655615439",
+      "size": "365741",
+      "md5": "c2fe78450cfd54dee81ed59499a333d8",
+      "crc32": "c3ce9bdb",
+      "sha1": "15192597b3a08f0706037c3e750d48437a98fd43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-18T22:10:35.836310-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-18T22:10:35.836310-07:00.jpg",
+      "mtime": "1655615495",
+      "size": "8645",
+      "md5": "6221216b926a585b08d7a06ba6385f88",
+      "crc32": "9b774a57",
+      "sha1": "d02f9fb10dc44aa5478ef1a780ec163a7e403526"
+    },
+    {
+      "name": "ocregister-2022-06-19T02:04:21.342347-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655629468",
+      "size": "39483",
+      "md5": "fa45edbf76eda682045cd3fefe7c130f",
+      "crc32": "48aa807f",
+      "sha1": "817f4bbca323db8af5a1fdd8f69ccd372b353c6f",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T02:04:21.342347-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655629470",
+      "size": "52188",
+      "md5": "0f864ddda70ac96cabc94ad475564334",
+      "crc32": "cfa3dc22",
+      "sha1": "d64a986b44cb9ff29fe6f6a248ce4bf3d63e827e",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T02:04:21.342347-07:00.jpg",
+      "source": "original",
+      "mtime": "1655629465",
+      "size": "366048",
+      "md5": "d77288d83f326150bc2ae0394f262cc9",
+      "crc32": "d580e1d6",
+      "sha1": "8d33a2c55369fe354a3c5f06b9c1a84362cef91b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-19T02:04:21.342347-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-19T02:04:21.342347-07:00.jpg",
+      "mtime": "1655629530",
+      "size": "8649",
+      "md5": "7b70db644cb9ceb0198775f54b700426",
+      "crc32": "fc2ad988",
+      "sha1": "261049f3f9210d41f3b40c6e974177927b5f9ac5"
+    },
+    {
+      "name": "ocregister-2022-06-19T06:12:33.022601-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655644358",
+      "size": "39511",
+      "md5": "cd1ec73914fb7898d295edc239ef1aae",
+      "crc32": "64d58788",
+      "sha1": "f64df20c52d082b7258806fa78bfc943b78c1192",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T06:12:33.022601-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655644360",
+      "size": "52607",
+      "md5": "137811a595b9e33cba562ab8fbf18ee7",
+      "crc32": "40e9e075",
+      "sha1": "bd3d33171bb2ebceddfb37daeef8cddc686fe80f",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T06:12:33.022601-07:00.jpg",
+      "source": "original",
+      "mtime": "1655644356",
+      "size": "368784",
+      "md5": "8c60c75d11a456e2c476eb263f90b5f1",
+      "crc32": "2aea3881",
+      "sha1": "5d2f825701bc5a7c262902f7d1055cca3831d60e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-19T06:12:33.022601-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-19T06:12:33.022601-07:00.jpg",
+      "mtime": "1655644410",
+      "size": "8634",
+      "md5": "4cfe27cd46af9263a02224bcb3bf62e6",
+      "crc32": "9f3047ed",
+      "sha1": "ae25b2f67436f01ca8296c800b40fba45649b6f5"
+    },
+    {
+      "name": "ocregister-2022-06-19T10:08:21.724015-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655658512",
+      "size": "39716",
+      "md5": "1efeeca31132c40e30ab8ea6ad1480f1",
+      "crc32": "5e33c143",
+      "sha1": "088f7e09da61d17f44eca8f7ab008873d3148dd7",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T10:08:21.724015-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655658514",
+      "size": "47706",
+      "md5": "0ebef60463f2619825dbb10f9f81ceab",
+      "crc32": "acbf16d3",
+      "sha1": "f4203f0fddf166469140d0e1b7d5945405ff097f",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T10:08:21.724015-07:00.jpg",
+      "source": "original",
+      "mtime": "1655658507",
+      "size": "367277",
+      "md5": "786a17b27b8b75040b0ff0593f8e61ed",
+      "crc32": "2523884f",
+      "sha1": "cacb3d261df566cb51969d48f7f78b5297c6250b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-19T10:08:21.724015-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-19T10:08:21.724015-07:00.jpg",
+      "mtime": "1655658566",
+      "size": "8694",
+      "md5": "275b5b9fbedbafb81dc9a1e270ba4f49",
+      "crc32": "530c97ad",
+      "sha1": "2ae3432727f2ac5e4e29697190e0029ca35efaac"
+    },
+    {
+      "name": "ocregister-2022-06-19T14:03:04.909833-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655672589",
+      "size": "39516",
+      "md5": "8b7722f8a82038e4e6803c452e107a5d",
+      "crc32": "ce6f2b19",
+      "sha1": "5eebaae499e9965565878c6390cee4b1b3729817",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T14:03:04.909833-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655672590",
+      "size": "47670",
+      "md5": "063b6b9ace42878aa165accb22eb308a",
+      "crc32": "f2b58786",
+      "sha1": "e007a7a83c6ecd9b80cbbd097f9c57e8eeba7b4b",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T14:03:04.909833-07:00.jpg",
+      "source": "original",
+      "mtime": "1655672586",
+      "size": "368103",
+      "md5": "e4903b3a11595af72ccb0a50a0d45f38",
+      "crc32": "afcb51f6",
+      "sha1": "80512d721ca7447ff425775328eaca3f32651e41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-19T14:03:04.909833-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-19T14:03:04.909833-07:00.jpg",
+      "mtime": "1655672861",
+      "size": "8715",
+      "md5": "c80bfabe85a3e2a9a1ccdf013c7c87f2",
+      "crc32": "aba29d90",
+      "sha1": "cac0cb083515e52534c23b85c3ecea730a01c90f"
+    },
+    {
+      "name": "ocregister-2022-06-19T16:27:10.925412-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655681233",
+      "size": "39534",
+      "md5": "377f664e7aa01399f6be47116442ad96",
+      "crc32": "4eedb2a5",
+      "sha1": "c5911223094bcbc831b83d53b46948a1fb9cef2b",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T16:27:10.925412-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655681234",
+      "size": "47600",
+      "md5": "d5d2244cf4d0ffae66e6805acd3d8f8d",
+      "crc32": "ae94fd50",
+      "sha1": "e3454a3dc2d1980aaf1832b729e420a0747547eb",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-06-19T16:27:10.925412-07:00.jpg",
+      "source": "original",
+      "mtime": "1655681231",
+      "size": "367428",
+      "md5": "058729d304dcdde7163f27aa14d9fd7b",
+      "crc32": "fdf34279",
+      "sha1": "0d9d14157eb282e68693e7a37cdede7d926b23e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-06-19T16:27:10.925412-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-06-19T16:27:10.925412-07:00.jpg",
+      "mtime": "1655681288",
+      "size": "8690",
+      "md5": "077e8c26dbe3f92ad15966192c6f3351",
+      "crc32": "a19ea86a",
+      "sha1": "702b3da041375eae2c1e1bba6b55fb6075e80660"
+    },
+    {
       "name": "ocregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9572d630e237d6a678b291ea39c5b44138280d30",
-      "mtime": "1655586336",
-      "size": "125217",
-      "md5": "41400a1253d6abd8f08e37d46a091a96",
-      "crc32": "0753d4fd",
-      "sha1": "8221897a09a0e2f6b0b1b5915034ab7b425435d4",
+      "btih": "8b5d84ffd7fc3ea82322e163868797122db99636",
+      "mtime": "1655681294",
+      "size": "131196",
+      "md5": "ec14ebdf004a3d55c432a9d3532b4d41",
+      "crc32": "4ec58861",
+      "sha1": "dd4f804daa2e24d758601e61948c4e1d26a52cc8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d749bb5104eba948cad84b8249b530ca",
+      "md5": "be938ec02f6b008f206715b42100c94b",
       "summation": "md5"
     },
     {
       "name": "ocregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655586250",
-      "size": "675840",
-      "md5": "3c2f7f848d6dcae0514847283d0fda5b",
-      "crc32": "0bbea679",
-      "sha1": "a8f5cea7a1c29d69f43d665d413595c37cb9a47b",
+      "mtime": "1655681240",
+      "size": "704512",
+      "md5": "1c6b4d035a1ac74f1ebce9d39953d09b",
+      "crc32": "f47e89d8",
+      "sha1": "7fe9f98044ae7e072ef7b3613115cb9b24df40ff",
       "format": "Metadata"
     },
     {
@@ -6136,9 +6430,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 583,
-  "item_last_updated": 1655586336,
-  "item_size": 72478491,
+  "files_count": 611,
+  "item_last_updated": 1655681294,
+  "item_size": 75762665,
   "metadata": {
     "identifier": "ocregister-2022",
     "collection": [
@@ -6155,1552 +6449,10 @@
     "publicdate": "2022-03-23 02:09:14",
     "addeddate": "2022-03-23 02:09:14"
   },
-  "ocregister-2022": [
-    {
-      "text": "Data Storage Policy",
-      "url": "https://www.medianewsgroup.com/privacy-policy/"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#content"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tSubscribe Now\t\t\t\t\t\t\t\t",
-      "url": "https://checkout.ocregister.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV&returnUrl=https%253A%252F%252Fwww.ocregister.com%252F"
-    },
-    {
-      "text": "\n\t\t\t74\u00b0F\n\t\t\t\n\t\t",
-      "url": "http://www.accuweather.com/en/us/santa-ana-ca/92701/weather-warnings/38830_pc?lang=en-us&partner=mng_1"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tE-Edition\t\t\t\t\t\t\t\t\t",
-      "url": "https://enewspaper.ocregister.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHome Page\n\t\t\t\t\t\t\t\t",
-      "url": "https://www.ocregister.com"
-    },
-    {
-      "text": "News",
-      "url": "https://www.ocregister.com/news/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.ocregister.com/news/"
-    },
-    {
-      "text": "Crime and Public Safety",
-      "url": "https://www.ocregister.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "Investigative Reporting",
-      "url": "https://www.ocregister.com/tag/investigation"
-    },
-    {
-      "text": "Business",
-      "url": "https://www.ocregister.com/business/"
-    },
-    {
-      "text": "Housing",
-      "url": "https://www.ocregister.com/news/housing/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.ocregister.com/news/politics/"
-    },
-    {
-      "text": "Health",
-      "url": "https://www.ocregister.com/tag/health"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.ocregister.com/news/environment/"
-    },
-    {
-      "text": "Special Sections",
-      "url": "http://ocregister.ca.newsmemory.com/ssindex.php"
-    },
-    {
-      "text": "Orange County",
-      "url": "https://www.ocregister.com/location/california/orange-county/"
-    },
-    {
-      "text": "North OC",
-      "url": "https://www.ocregister.com/location/california/orange-county/"
-    },
-    {
-      "text": "Anaheim",
-      "url": "https://www.ocregister.com/location/california/orange-county/anaheim/"
-    },
-    {
-      "text": "Brea",
-      "url": "https://www.ocregister.com/location/california/orange-county/brea/"
-    },
-    {
-      "text": "Buena Park",
-      "url": "https://www.ocregister.com/location/california/orange-county/buena-park/"
-    },
-    {
-      "text": "Cypress",
-      "url": "https://www.ocregister.com/location/california/orange-county/cypress/"
-    },
-    {
-      "text": "Fullerton",
-      "url": "https://www.ocregister.com/location/california/orange-county/fullerton/"
-    },
-    {
-      "text": "Garden Grove",
-      "url": "https://www.ocregister.com/location/california/orange-county/garden-grove/"
-    },
-    {
-      "text": "La Habra",
-      "url": "https://www.ocregister.com/location/california/orange-county/la-habra/"
-    },
-    {
-      "text": "La Palma",
-      "url": "https://www.ocregister.com/location/california/orange-county/la-palma/"
-    },
-    {
-      "text": "Orange + Villa Park",
-      "url": "https://www.ocregister.com/location/california/orange-county/orange/"
-    },
-    {
-      "text": "Placentia",
-      "url": "https://www.ocregister.com/location/california/orange-county/placentia/"
-    },
-    {
-      "text": "Santa Ana",
-      "url": "https://www.ocregister.com/location/california/orange-county/santa-ana/"
-    },
-    {
-      "text": "Seal Beach+ Los Alamitos",
-      "url": "https://www.ocregister.com/location/california/orange-county/seal-beach/"
-    },
-    {
-      "text": "Stanton",
-      "url": "https://www.ocregister.com/location/california/orange-county/stanton/"
-    },
-    {
-      "text": "Tustin",
-      "url": "https://www.ocregister.com/location/california/orange-county/tustin/"
-    },
-    {
-      "text": "Westminster",
-      "url": "https://www.ocregister.com/location/california/orange-county/westminster/"
-    },
-    {
-      "text": "Yorba Linda",
-      "url": "https://www.ocregister.com/location/california/orange-county/yorba-linda/"
-    },
-    {
-      "text": "South OC",
-      "url": "https://www.ocregister.com/location/california/orange-county/"
-    },
-    {
-      "text": "Costa Mesa",
-      "url": "https://www.ocregister.com/location/california/orange-county/costa-mesa/"
-    },
-    {
-      "text": "Dana Point",
-      "url": "https://www.ocregister.com/location/california/orange-county/dana-point/"
-    },
-    {
-      "text": "Fountain Valley",
-      "url": "https://www.ocregister.com/location/california/orange-county/fountain-valley/"
-    },
-    {
-      "text": "Huntington Beach",
-      "url": "https://www.ocregister.com/location/california/orange-county/huntington-beach/"
-    },
-    {
-      "text": "Irvine",
-      "url": "https://www.ocregister.com/location/california/orange-county/irvine/"
-    },
-    {
-      "text": "Laguna Beach",
-      "url": "https://www.ocregister.com/location/california/orange-county/laguna-beach/"
-    },
-    {
-      "text": "Laguna Niguel + Aliso Viejo",
-      "url": "https://www.ocregister.com/location/california/orange-county/laguna-niguel/"
-    },
-    {
-      "text": "Laguna Hills",
-      "url": "https://www.ocregister.com/location/california/orange-county/laguna-hills/"
-    },
-    {
-      "text": "Ladera Ranch",
-      "url": "https://www.ocregister.com/location/california/orange-county/ladera-ranch/"
-    },
-    {
-      "text": "Lake Forest",
-      "url": "https://www.ocregister.com/location/california/orange-county/lake-forest/"
-    },
-    {
-      "text": "Laguna Woods",
-      "url": "https://www.ocregister.com/location/california/orange-county/laguna-woods/"
-    },
-    {
-      "text": "Mission Viejo",
-      "url": "https://www.ocregister.com/location/california/orange-county/mission-viejo/"
-    },
-    {
-      "text": "Newport Beach",
-      "url": "https://www.ocregister.com/location/california/orange-county/newport-beach/"
-    },
-    {
-      "text": "Rancho Santa Margarita",
-      "url": "https://www.ocregister.com/location/california/orange-county/rancho-santa-margarita/"
-    },
-    {
-      "text": "San Clemente",
-      "url": "https://www.ocregister.com/location/california/orange-county/san-clemente/"
-    },
-    {
-      "text": "San Juan Capistrano",
-      "url": "https://www.ocregister.com/location/california/orange-county/san-juan-capistrano/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.ocregister.com/sports/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.ocregister.com/sports/"
-    },
-    {
-      "text": "Angels",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "Dodgers",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-dodgers/"
-    },
-    {
-      "text": "Chargers",
-      "url": "https://www.ocregister.com/sports/nfl/los-angeles-chargers/"
-    },
-    {
-      "text": "Rams",
-      "url": "https://www.ocregister.com/sports/nfl/los-angeles-rams/"
-    },
-    {
-      "text": "Ducks",
-      "url": "https://www.ocregister.com/sports/nhl/anaheim-ducks/"
-    },
-    {
-      "text": "Kings",
-      "url": "https://www.ocregister.com/sports/nhl/los-angeles-kings/"
-    },
-    {
-      "text": "Lakers",
-      "url": "https://www.ocregister.com/sports/nba/lakers/"
-    },
-    {
-      "text": "High School Sports",
-      "url": "https://www.ocregister.com/sports/high-school-sports/"
-    },
-    {
-      "text": "Clippers",
-      "url": "https://www.ocregister.com/sports/nba/clippers/"
-    },
-    {
-      "text": "College Sports",
-      "url": "https://www.ocregister.com/sports/college-sports/"
-    },
-    {
-      "text": "UCLA Sports",
-      "url": "https://www.ocregister.com/tag/ucla-sports/"
-    },
-    {
-      "text": "USC Sports",
-      "url": "https://www.ocregister.com/tag/usc-sports/"
-    },
-    {
-      "text": "Boxing/MMA",
-      "url": "https://www.ocregister.com/sports/boxing-mma/"
-    },
-    {
-      "text": "Soccer",
-      "url": "https://www.ocregister.com/sports/soccer/"
-    },
-    {
-      "text": "Things To Do",
-      "url": "https://www.ocregister.com/things-to-do/"
-    },
-    {
-      "text": "Things To Do",
-      "url": "https://www.ocregister.com/things-to-do/"
-    },
-    {
-      "text": "Restaurants Food and Drink",
-      "url": "https://www.ocregister.com/things-to-do/restaurants-food-drink/"
-    },
-    {
-      "text": "Movies",
-      "url": "https://www.ocregister.com/things-to-do/movies/"
-    },
-    {
-      "text": "Music + Concerts",
-      "url": "https://www.ocregister.com/things-to-do/music-concerts/"
-    },
-    {
-      "text": "Amusement Parks + Disneyland",
-      "url": "https://www.ocregister.com/things-to-do/amusement-parks/"
-    },
-    {
-      "text": "Theater + Arts",
-      "url": "https://www.ocregister.com/things-to-do/theater/"
-    },
-    {
-      "text": "Casinos",
-      "url": "https://www.ocregister.com/things-to-do/casinos/"
-    },
-    {
-      "text": "TV and Streaming",
-      "url": "https://www.ocregister.com/things-to-do/tv-streaming/"
-    },
-    {
-      "text": "Home + Garden",
-      "url": "https://www.ocregister.com/things-to-do/home-garden/"
-    },
-    {
-      "text": "Travel",
-      "url": "https://www.ocregister.com/things-to-do/travel/"
-    },
-    {
-      "text": "Books",
-      "url": "https://www.ocregister.com/things-to-do/books/"
-    },
-    {
-      "text": "Comics",
-      "url": "https://comicskingdom.com/?utm_source=dfm"
-    },
-    {
-      "text": "Puzzles",
-      "url": "https://www.ocregister.com/puzzles/"
-    },
-    {
-      "text": "Best of Orange County",
-      "url": "https://www.ocregister.com/tag/best-of-orange-county/"
-    },
-    {
-      "text": "Orange County Register Store",
-      "url": "http://store.ocregister.com/?utm_campaign=evergreen&utm_medium=referral&utm_source=edit-nav&utm_content=&utm_term="
-    },
-    {
-      "text": "Local Events",
-      "url": "https://www.ocregister.com/local-events/"
-    },
-    {
-      "text": "Obits",
-      "url": "http://obits.ocregister.com/obituaries/orangecounty/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "http://obits.ocregister.com/obituaries/orangecounty/"
-    },
-    {
-      "text": "Place an Obituary",
-      "url": "https://adportal.ocregister.com/lang-adportal/ocr-obits/index.html"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.ocregister.com/opinion/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.ocregister.com/opinion/"
-    },
-    {
-      "text": "Endorsements",
-      "url": "https://www.ocregister.com/tag/endorsements/"
-    },
-    {
-      "text": "The T.E.A.",
-      "url": "https://www.ocregister.com/sponsored-content/the-tea/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.ocregister.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV&returnUrl=https%253A%252F%252Fwww.ocregister.com%252F"
-    },
-    {
-      "text": "Log in",
-      "url": "https://www.ocregister.com/login?returnUrl=https%3A%2F%2Fwww.ocregister.com%2F"
-    },
-    {
-      "text": "Logout",
-      "url": "/logout"
-    },
-    {
-      "text": "\n\t\t\t\tSign Up",
-      "url": "https://checkout.ocregister.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.ocregister.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV&returnUrl=https%253A%252F%252Fwww.ocregister.com%252F"
-    },
-    {
-      "text": "Log in",
-      "url": "https://www.ocregister.com/login?returnUrl=https%3A%2F%2Fwww.ocregister.com%2F"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/contact-us"
-    },
-    {
-      "text": "Log Out",
-      "url": "/logout"
-    },
-    {
-      "text": "\n\t\t\t\tSign Up",
-      "url": "https://checkout.ocregister.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.ocregister.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV&returnUrl=https%253A%252F%252Fwww.ocregister.com%252F"
-    },
-    {
-      "text": "Log in",
-      "url": "https://www.ocregister.com/login?returnUrl=https%3A%2F%2Fwww.ocregister.com%2F"
-    },
-    {
-      "text": "\n\t\t\t74\u00b0F\n\t\t\t\n\t\t",
-      "url": "http://www.accuweather.com/en/us/santa-ana-ca/92701/weather-warnings/38830_pc?lang=en-us&partner=mng_1"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tE-Edition\t\t\t\t\t\t\t\t\t",
-      "url": "https://enewspaper.ocregister.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com"
-    },
-    {
-      "text": "News",
-      "url": "https://www.ocregister.com/news/"
-    },
-    {
-      "text": "Orange County",
-      "url": "/location/california/orange-county/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.ocregister.com/sports/"
-    },
-    {
-      "text": "Things to Do",
-      "url": "https://www.ocregister.com/things-to-do/"
-    },
-    {
-      "text": "Obits",
-      "url": "https://obits.ocregister.com/obituaries/orangecounty/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.ocregister.com/opinion/"
-    },
-    {
-      "text": "The T.E.A.",
-      "url": "https://www.ocregister.com/sponsored-content/the-tea/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tElection Results\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/08/election-results-3/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFrumpy Mom columns\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2021/05/12/frumpy-middle-age-mom-columns/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t75 Best Restaurants\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/02/the-75-best-restaurants-in-orange-county-in-2022/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDisneyland Resort Reporter\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2021/06/04/disneyland-resort-reporter/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tRestaurant reviews\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2021/12/09/restaurant-reviews-2/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHuntington Beach mobile home residents ask for relief as conglomerates buy up parks\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/orange-county-restaurants-shut-down-by-health-inspectors-june-10-16/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/orange-county-restaurants-shut-down-by-health-inspectors-june-10-16/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOrange County restaurants shut down by health inspectors (June 10-16)\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/orange-county-restaurants-shut-down-by-health-inspectors-june-10-16/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/disneyland-crime-reports-bomb-threat-animal-cruelty-and-vandalism/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/disneyland-crime-reports-bomb-threat-animal-cruelty-and-vandalism/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDisneyland crime reports: Bomb threat, animal cruelty and vandalism\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/disneyland-crime-reports-bomb-threat-animal-cruelty-and-vandalism/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/an-anti-asian-attack-in-the-drive-thru-at-mcdonalds-draws-a-crowd-urging-an-end-to-hate/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/an-anti-asian-attack-in-the-drive-thru-at-mcdonalds-draws-a-crowd-urging-an-end-to-hate/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAn anti-Asian attack in the drive-thru at McDonalds draws a crowd urging an end to hate\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/an-anti-asian-attack-in-the-drive-thru-at-mcdonalds-draws-a-crowd-urging-an-end-to-hate/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/these-beautiful-low-maintenance-plants-bring-movement-to-the-garden-by-blowing-in-the-breeze/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/these-beautiful-low-maintenance-plants-bring-movement-to-the-garden-by-blowing-in-the-breeze/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThese beautiful low-maintenance plants bring movement to the garden by blowing in the breeze\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/these-beautiful-low-maintenance-plants-bring-movement-to-the-garden-by-blowing-in-the-breeze/"
-    },
-    {
-      "text": "",
-      "url": "/orange-county-coronavirus-tracker-cases-vaccines-maps-and-more/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/riversides-cheech-marin-museum-opens-to-cheers-cultural-celebration/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tRiverside\u2019s Cheech Marin museum opens to cheers, cultural celebration\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/riversides-cheech-marin-museum-opens-to-cheers-cultural-celebration/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/lds-church-begins-construction-on-new-temple-in-yorba-linda-only-the-9th-in-california/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLDS Church begins construction on new temple in Yorba Linda, only the 9th in California\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/lds-church-begins-construction-on-new-temple-in-yorba-linda-only-the-9th-in-california/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/suspect-who-fatally-shot-2-el-monte-officers-died-by-suicide-coroner-says/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMan accused of killing 2 El Monte officers died by suicide, coroner says\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/suspect-who-fatally-shot-2-el-monte-officers-died-by-suicide-coroner-says/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/priests-vs-seminarians-basketball-game-returns-priest-pull-ahead-in-series/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPriests vs seminarians basketball game returns; priest pull ahead in series\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/priests-vs-seminarians-basketball-game-returns-priest-pull-ahead-in-series/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/culture-and-connection-juneteenth-production-celebrates-modern-and-traditional-african-american-performance/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCulture and connection \u2014 Juneteenth production celebrates modern and traditional African American performance\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/culture-and-connection-juneteenth-production-celebrates-modern-and-traditional-african-american-performance/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/1987-when-mortgage-rates-last-soared-this-much/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t1987: When mortgage rates last soared this much\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/1987-when-mortgage-rates-last-soared-this-much/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/juneteenth-the-newest-federal-holiday-and-trans-atlantic-slaverys-rise-and-fall/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJuneteenth: The newest federal holiday and trans-Atlantic slavery\u2019s rise and fall\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/juneteenth-the-newest-federal-holiday-and-trans-atlantic-slaverys-rise-and-fall/"
-    },
-    {
-      "text": "\n\t\tSubscribe",
-      "url": "https://checkout.ocregister.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
-      "url": "https://facebook.com/ocregister"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
-      "url": "https://twitter.com/ocregister"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
-      "url": "https://instagram.com/ocregister"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tRSS\n\t\t\t\t\t",
-      "url": "https://www.ocregister.com/feed/"
-    },
-    {
-      "text": "",
-      "url": "https://myaccount.ocregister.com/access.aspx?utm_source=adtila&utm_medium=website&utm_campaign=access"
-    },
-    {
-      "text": "\n                Huntington Beach mobile home residents ask for relief as conglomerates buy up parks\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/huntington-beach-mobile-home-residents-ask-for-relief-as-conglomerates-buy-up-parks/"
-    },
-    {
-      "text": "\n                Orange County restaurants shut down by health inspectors (June 10-16)\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/orange-county-restaurants-shut-down-by-health-inspectors-june-10-16/"
-    },
-    {
-      "text": "\n                Disneyland crime reports: Bomb threat, animal cruelty and vandalism\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/disneyland-crime-reports-bomb-threat-animal-cruelty-and-vandalism/"
-    },
-    {
-      "text": "\n                Early developer behind Portola Center in Lake Forest fined $6.6 million for alleged runoff\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/early-developer-behind-portola-center-in-lake-forest-fined-6-6-million-for-alleged-runoff/"
-    },
-    {
-      "text": "\n                Sign on gravel truck doesn\u2019t trump the law\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/sign-on-gravel-truck-doesnt-trump-the-law/"
-    },
-    {
-      "text": "\n                SpaceX fires employees over letter critical of CEO Musk\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/spacex-fires-employees-over-letter-critical-of-ceo-musk/"
-    },
-    {
-      "text": "\n                Dodgers pitcher Andrew Heaney\u2019s \u2018business trip\u2019 home is over\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/dodgers-pitcher-andrew-heaneys-business-trip-home-is-over/"
-    },
-    {
-      "text": "\n                2 El Monte officers were fatally shot in head, coroner says\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/2-el-monte-officers-were-fatally-shot-in-head-coroner-says/"
-    },
-    {
-      "text": "\n                Coronavirus: Orange County reported 3,114 new cases and six more deaths, June 17\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/coronavirus-orange-county-reported-3114-new-cases-and-six-more-deaths-june-17/"
-    },
-    {
-      "text": "\n                Aliso Viejo bombing suspect \u2018obsessed\u2019 over ex-girlfriend, had access to spa\n            ",
-      "url": "https://www.ocregister.com/2022/06/16/aliso-viejo-bombing-suspect-obsessed-over-ex-girlfriend-had-access-to-spa/"
-    },
-    {
-      "text": "\n                Why Democrats are terrified of Donald Trump\n            ",
-      "url": "https://www.ocregister.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
-    },
-    {
-      "text": "\n                Angels\u2019 patchwork lineup does little in loss to Mariners\n            ",
-      "url": "https://www.ocregister.com/2022/06/17/angels-patchwork-lineup-does-little-in-loss-to-mariners/"
-    },
-    {
-      "text": "\n\t\t\t\tCrime and Public Safety\n\t\t\t",
-      "url": "https://www.ocregister.com/news/crime-and-public-safety/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/mother-of-slain-el-monte-police-officer-blames-gascon-policies/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/mother-of-slain-el-monte-police-officer-blames-gascon-policies/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMother of slain El Monte police officer blames Gasc\u00f3n policies\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/mother-of-slain-el-monte-police-officer-blames-gascon-policies/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/el-monte-police-receive-prayers-and-emotional-support/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEl Monte police receive prayers and emotional support\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/el-monte-police-receive-prayers-and-emotional-support/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/piper-is-a-heroic-bloodhound-in-lapds-k-9-unit-and-this-week-she-solved-a-shooting/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPiper is a heroic bloodhound in LAPD\u2019s K-9 unit, and she caught a shooting suspect\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/piper-is-a-heroic-bloodhound-in-lapds-k-9-unit-and-this-week-she-solved-a-shooting/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/fireworks-explosion-at-belmont-shore-apartment-injures-4-firefighters/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFireworks explosion at Belmont Shore apartment injures 4 firefighters\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/fireworks-explosion-at-belmont-shore-apartment-injures-4-firefighters/"
-    },
-    {
-      "text": "\n\t\t\t\tLocal News\n\t\t\t",
-      "url": "https://www.ocregister.com/local-news/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/poodle-terrier-mix-gabe-has-overcome-many-obstacles/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/poodle-terrier-mix-gabe-has-overcome-many-obstacles/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPoodle-terrier mix Gabe has overcome many obstacles\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/poodle-terrier-mix-gabe-has-overcome-many-obstacles/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/staffordshire-terrier-mix-blossom-has-brains-and-beauty/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tStaffordshire terrier mix Blossom has brains and beauty\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/staffordshire-terrier-mix-blossom-has-brains-and-beauty/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/roundhouse-aquarium-sandcastle-competition-returns/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tRoundhouse Aquarium sandcastle competition returns\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/roundhouse-aquarium-sandcastle-competition-returns/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/photos-show-inside-of-cheech-marins-new-museum-in-riverside/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos show inside of Cheech Marin\u2019s new museum in Riverside\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/photos-show-inside-of-cheech-marins-new-museum-in-riverside/"
-    },
-    {
-      "text": "\n\t\t\t\tThings To Do\n\t\t\t",
-      "url": "https://www.ocregister.com/things-to-do/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/senior-moments-giving-myself-the-gift-of-good-memories-on-fathers-day/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/senior-moments-giving-myself-the-gift-of-good-memories-on-fathers-day/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSenior Moments: Giving myself the gift of good memories on Father\u2019s Day\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/senior-moments-giving-myself-the-gift-of-good-memories-on-fathers-day/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/the-book-pages-what-the-audiobook-boom-means-to-libro-fm/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe Book Pages: What the audiobook boom means to Libro.fm\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/the-book-pages-what-the-audiobook-boom-means-to-libro-fm/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/casino-insider-tom-segura-talks-about-how-his-new-book-ahead-of-his-spotlight-29-casino-performance/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCasino Insider: Tom Segura talks about how his new book ahead of his Spotlight 29 Casino performance\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/casino-insider-tom-segura-talks-about-how-his-new-book-ahead-of-his-spotlight-29-casino-performance/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/chipotle-tests-mexican-cauliflower-rice-in-orange-county/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tChipotle tests Mexican Cauliflower Rice in OC and Long Beach\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/chipotle-tests-mexican-cauliflower-rice-in-orange-county/"
-    },
-    {
-      "text": "Photos",
-      "url": "/tag/photo-galleries-videos/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/07/orange-county-graduations-have-been-memorable-so-far-check-out-these-photos-find-your-school/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/07/orange-county-graduations-have-been-memorable-so-far-check-out-these-photos-find-your-school/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThousands more Orange County seniors graduate, check out these photos from all the ceremonies\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/07/orange-county-graduations-have-been-memorable-so-far-check-out-these-photos-find-your-school/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/04/30-amazing-wildlife-images-photographed-at-irvine-regional-park/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/04/30-amazing-wildlife-images-photographed-at-irvine-regional-park/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t30 amazing wildlife images photographed at Irvine Regional Park\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/04/30-amazing-wildlife-images-photographed-at-irvine-regional-park/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/05/25/graduation-2022-oxford-academy-celebrates/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/25/graduation-2022-oxford-academy-celebrates/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGraduation 2022: Oxford Academy celebrates\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/25/graduation-2022-oxford-academy-celebrates/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/05/25/graduation-2022-western-high-celebrates/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/25/graduation-2022-western-high-celebrates/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGraduation 2022: Western High celebrates\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/25/graduation-2022-western-high-celebrates/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/05/25/graduation-2022-tustin-high-celebrates-100th-year/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/25/graduation-2022-tustin-high-celebrates-100th-year/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGraduation 2022: Tustin High celebrates 100th year\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/25/graduation-2022-tustin-high-celebrates-100th-year/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/05/24/graduation-2022-photos-celebrating-bright-futures-at-cal-state-fullerton/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/24/graduation-2022-photos-celebrating-bright-futures-at-cal-state-fullerton/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGraduation 2022 Photos: Celebrating bright futures at Cal State Fullerton\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/24/graduation-2022-photos-celebrating-bright-futures-at-cal-state-fullerton/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/05/19/big-top-fun-with-circus-vargas-visit-to-laguna-hills/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/19/big-top-fun-with-circus-vargas-visit-to-laguna-hills/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBig top fun with Circus Vargas visit to Laguna Hills\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/19/big-top-fun-with-circus-vargas-visit-to-laguna-hills/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/05/04/anaheim-parks-new-basketball-court-honors-kobe-and-gianna-bryant/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/04/anaheim-parks-new-basketball-court-honors-kobe-and-gianna-bryant/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAnaheim park\u2019s new basketball court honors Kobe and Gianna Bryant\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/04/anaheim-parks-new-basketball-court-honors-kobe-and-gianna-bryant/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/05/03/stagecoach-2022-our-50-best-images-from-this-past-weekend/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/03/stagecoach-2022-our-50-best-images-from-this-past-weekend/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tStagecoach 2022: Our 50 best images from this past weekend\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/03/stagecoach-2022-our-50-best-images-from-this-past-weekend/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/05/03/video-check-out-our-oc-photographers-favorite-images-from-april-2022/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/03/video-check-out-our-oc-photographers-favorite-images-from-april-2022/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tVIDEO: Check out our OC photographers\u2019 favorite images from April 2022\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/03/video-check-out-our-oc-photographers-favorite-images-from-april-2022/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/04/28/la-riots-30th-anniversary-photos/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/04/28/la-riots-30th-anniversary-photos/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLA Riots: 30th Anniversary photos\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/04/28/la-riots-30th-anniversary-photos/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/04/25/cruising-around-celebrity-homes-in-newport-harbor/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/04/25/cruising-around-celebrity-homes-in-newport-harbor/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCruising around celebrity homes in Newport Harbor\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/04/25/cruising-around-celebrity-homes-in-newport-harbor/"
-    },
-    {
-      "text": "\n\t\t\t\tSports\n\t\t\t",
-      "url": "https://www.ocregister.com/sports/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/angels-question-the-condition-of-the-baseballs-in-seattle/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/angels-question-the-condition-of-the-baseballs-in-seattle/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAngels question the condition of the baseballs in Seattle\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/angels-question-the-condition-of-the-baseballs-in-seattle/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/clayton-kershaw-makes-strong-return-dodgers-lose-in-extra-innings/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDodgers flop in the clutch, lose to Guardians in extra innings\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/clayton-kershaw-makes-strong-return-dodgers-lose-in-extra-innings/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/alexander-the-lakers-have-some-work-to-do/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAlexander: The Lakers have some work to do\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/alexander-the-lakers-have-some-work-to-do/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/dodgers-pitcher-andrew-heaneys-business-trip-home-is-over/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDodgers pitcher Andrew Heaney\u2019s \u2018business trip\u2019 home is over\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/dodgers-pitcher-andrew-heaneys-business-trip-home-is-over/"
-    },
-    {
-      "text": "\n\t\t\t\t2022 Elections\n\t\t\t",
-      "url": "https://www.ocregister.com/tag/2022-elections/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/15/elections-trump-pick-wins-senate-primary-in-nevada-plus-texas-south-carolina-results/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/15/elections-trump-pick-wins-senate-primary-in-nevada-plus-texas-south-carolina-results/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tElections: Trump pick wins Senate primary in Nevada; plus Texas, South Carolina results\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/15/elections-trump-pick-wins-senate-primary-in-nevada-plus-texas-south-carolina-results/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/13/race-tightens-in-bid-for-runoff-against-schools-chief-thurmond/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGap widens in bid for runoff against schools chief Thurmond\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/13/race-tightens-in-bid-for-runoff-against-schools-chief-thurmond/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/13/sarah-palin-takes-lead-in-race-for-alaskas-house-seat/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSarah Palin takes lead in race for Alaska\u2019s House seat\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/13/sarah-palin-takes-lead-in-race-for-alaskas-house-seat/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/13/2022-elections-race-tightens-up-for-slot-in-state-schools-chief-runoff/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t2022 elections: Race tightens up for slot in state schools chief runoff\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/13/2022-elections-race-tightens-up-for-slot-in-state-schools-chief-runoff/"
-    },
-    {
-      "text": "\n\t\t\t\tBusiness\n\t\t\t",
-      "url": "https://www.ocregister.com/business/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/05/29/nominations-open-for-orange-countys-2022-top-workplaces/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/29/nominations-open-for-orange-countys-2022-top-workplaces/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNominations open for Orange County\u2019s 2022 Top Workplaces\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/05/29/nominations-open-for-orange-countys-2022-top-workplaces/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/mobile-carriers-agree-to-delay-5g-rollout-near-airports/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMobile carriers agree to delay 5G rollout near airports\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/mobile-carriers-agree-to-delay-5g-rollout-near-airports/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/california-bill-would-cut-single-use-plastic-25/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia bill would cut single-use plastic 25%\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/california-bill-would-cut-single-use-plastic-25/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/cruise-ships-adding-sports-betting-options-for-passengers/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSports betting coming to Carnival, Holland America and Princess cruise ships\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/cruise-ships-adding-sports-betting-options-for-passengers/"
-    },
-    {
-      "text": "\n\t\t\t\tOpinion\n\t\t\t",
-      "url": "https://www.ocregister.com/opinion/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWhy Democrats are terrified of Donald Trump\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/why-democrats-are-terrified-of-donald-trump/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/californias-water-supply-goes-beyond-the-current-drought/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s water supply goes beyond the current drought\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/californias-water-supply-goes-beyond-the-current-drought/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/18/red-flag-laws-require-a-tricky-balance-due-process-rights-are-critical/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Red flag\u2019 laws require a tricky balance. Due process rights are critical.\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/18/red-flag-laws-require-a-tricky-balance-due-process-rights-are-critical/"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com/2022/06/17/edgier-group-grabs-control-of-libertarians/"
-    },
-    {
-      "text": "Los Angeles Angels | ",
-      "url": "https://www.ocregister.com/sports/mlb/los-angeles-angels/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEdgier group grabs control of Libertarians\t\t\n\n\t\t\t",
-      "url": "https://www.ocregister.com/2022/06/17/edgier-group-grabs-control-of-libertarians/"
-    },
-    {
-      "text": "Another Florida homeowners insurance company goes under",
-      "url": "https://www.orlandosentinel.com/business/real-estate/os-bz-property-insurance-company-insolvent-20220615-k4ngz77dfvd3tdxp2vv3zv72l4-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "Disney delays moving 2,000 jobs to Orlando amid \u2018don\u2019t say gay\u2019 clash with DeSantis",
-      "url": "https://www.orlandosentinel.com/business/tourism/os-bz-disney-lake-nona-move-delayed-20220615-n6ohdk65z5gxxccpk3obsgzweu-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "Lauren Boebert target of wild claims spreading despite lack of evidence",
-      "url": "https://www.denverpost.com/2022/06/15/lauren-boebert-allegations/?itm_source=parsely-api"
-    },
-    {
-      "text": "Teenage Walgreens employee in Colorado Springs reported coworker before she was found dead in breakroom",
-      "url": "https://www.denverpost.com/2022/06/15/joshua-johnson-murder-suspect-colorado-springs/?itm_source=parsely-api"
-    },
-    {
-      "text": "Henry Winkler snaps back at Herschel Walker following criticism of celebrities",
-      "url": "https://www.nydailynews.com/snyde/ny-henry-winkler-herschel-walker-opinion-american-20220616-coa43wv2ezdf5m73hen77xwuaa-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "",
-      "url": "https://www.ocregister.com"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.ocregister.com/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Sign Up For Newsletters",
-      "url": "https://myaccount.ocregister.com/ocr/preference"
-    },
-    {
-      "text": "e-Edition",
-      "url": "https://enewspaper.ocregister.com/"
-    },
-    {
-      "text": "Breaking News",
-      "url": "https://myaccount.ocregister.com/ocr/preference"
-    },
-    {
-      "text": "About us",
-      "url": "https://www.ocregister.com/tag/about-us/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "SoCal News Group",
-      "url": "https://www.socalnewsgroup.com/about-scng-1/"
-    },
-    {
-      "text": "MediaNews Group",
-      "url": "http://www.medianewsgroup.com/"
-    },
-    {
-      "text": "Work With Us",
-      "url": "https://myworkdaycenter.wd5.myworkdayjobs.com/MNG"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.medianewsgroup.com/privacy-policy/"
-    },
-    {
-      "text": "Accessibility",
-      "url": "https://www.medianewsgroup.com/accessibility-statement/"
-    },
-    {
-      "text": "Classified",
-      "url": "https://marketplace.socaladsonline.com/scng"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Careers",
-      "url": "https://careers.socalnewsgroup.com/"
-    },
-    {
-      "text": "Legals",
-      "url": "https://scngorangecounty.column.us/place"
-    },
-    {
-      "text": "Obituary",
-      "url": "https://adportal.socaladsonline.com/scng-adportal/ocr-obits/index.html"
-    },
-    {
-      "text": "Place an Ad",
-      "url": "https://mediakit.scng.com/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Media Kits",
-      "url": "https://mediakit.scng.com/"
-    },
-    {
-      "text": "Advertising Contact Information",
-      "url": "https://mediakit.scng.com/"
-    },
-    {
-      "text": "Partners",
-      "url": "https://www.socalnewsgroup.com/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Live Traffic Map",
-      "url": "https://www.ocregister.com/traffic/"
-    },
-    {
-      "text": "Newspapers in Education",
-      "url": "https://www.socalnie.com/"
-    },
-    {
-      "text": "Sponsor a Student",
-      "url": "https://sponsor.medianewsgroup.com/a/?tag=socal"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.ocregister.com/contact-us/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Corrections",
-      "url": "https://www.ocregister.com/tag/corrections/"
-    },
-    {
-      "text": "OC Register Store",
-      "url": "https://store.ocregister.com/?utm_campaign=evergreen&utm_medium=referral&utm_source=edit-footer&utm_content=&utm_term="
-    },
-    {
-      "text": "Reader Rewards",
-      "url": "https://myaccount.ocregister.com/ocr/rewards"
-    },
-    {
-      "text": "Photo Reprints",
-      "url": "https://www.ocregister.com/photo-reprints/"
-    },
-    {
-      "text": "Sponsored Access",
-      "url": "https://access.medianewsgroup.com/d/socal"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
-      "url": "https://facebook.com/ocregister"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
-      "url": "https://twitter.com/ocregister"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
-      "url": "https://instagram.com/ocregister"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tRSS\n\t\t\t\t\t",
-      "url": "https://www.ocregister.com/feed/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSubscribe Now\t\t\t\t",
-      "url": "https://checkout.ocregister.com/?g2i_source=nav&g2i_medium=link&g2i_campaign=MG2NAV&g2i_or_o=Internt5&g2i_or_p=MG2NAV"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://www.medianewsgroup.com/terms-of-use/"
-    },
-    {
-      "text": "Cookie Policy",
-      "url": "https://www.medianewsgroup.com/cookie-policy/"
-    },
-    {
-      "text": "Arbitration",
-      "url": "https://www.medianewsgroup.com/arbitration/"
-    },
-    {
-      "text": "Powered by WordPress.com VIP",
-      "url": "http://vip.wordpress.com/"
-    },
-    {
-      "text": "Do Not Sell My Info",
-      "url": "https://www.medianewsgroup.com/california-consumer-privacy-act/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "http://www.socalnewsgroup.com"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "http://www.digitalfirstmedia.com"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Log in",
-      "url": "#"
-    },
-    {
-      "text": "Login help\ufeff",
-      "url": "https://www.ocregister.com/faqlogin/?returnUrl=https%3A%2F%2Fwww.ocregister.com%2F%3FclearUserState%3Dtrue"
-    }
-  ],
-  "server": "ia802502.us.archive.org",
-  "uniq": 2101597048,
+  "server": "ia902502.us.archive.org",
+  "uniq": 449990235,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

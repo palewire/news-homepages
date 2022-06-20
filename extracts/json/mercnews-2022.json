@@ -1,5 +1,5 @@
 {
-  "created": 1655597978,
+  "created": 1655681234,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -3816,31 +3816,325 @@
       "sha1": "cc0cdaf18ed1faaab42bd97e0d04fc2f68faafa2"
     },
     {
+      "name": "mercnews-2022-06-18T18:17:58.342404-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655601481",
+      "size": "42311",
+      "md5": "1049384a7d26b826ac7b9587cd4f4678",
+      "crc32": "8d194cfb",
+      "sha1": "45dd9ad33e2c23be5a3e6be6609e69f3e0da4a88",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-18T18:17:58.342404-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655601482",
+      "size": "56579",
+      "md5": "5d17d5790dd70bf2acb898d8996909bc",
+      "crc32": "d95bca20",
+      "sha1": "3df59be091680d15808f46fa77d207e5e555d0d8",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-18T18:17:58.342404-07:00.jpg",
+      "source": "original",
+      "mtime": "1655601479",
+      "size": "313667",
+      "md5": "cc600308d1bbf032f29e63a8ea8d6783",
+      "crc32": "3ddf88fc",
+      "sha1": "8d2430dfce523bb69589621f6bfba7d9409affc9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-18T18:17:58.342404-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-18T18:17:58.342404-07:00.jpg",
+      "mtime": "1655601571",
+      "size": "10085",
+      "md5": "f9c1a34377d81020486b22c84292b06c",
+      "crc32": "9732615a",
+      "sha1": "98ed6a4d84ef769cfae1fbbd37008d4c5c288575"
+    },
+    {
+      "name": "mercnews-2022-06-18T22:10:00.099217-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655615407",
+      "size": "43712",
+      "md5": "edd35af5b35c9bc9bacdf380f72e2348",
+      "crc32": "756be94b",
+      "sha1": "69032c684b04b4ef6986f691769f119f56e99034",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-18T22:10:00.099217-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655615408",
+      "size": "55000",
+      "md5": "d3a831a1db8d93f27082caf2f47f25f5",
+      "crc32": "b328eb30",
+      "sha1": "cb2118ebdbc4d757886514eb4d6ad021b88abb5b",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-18T22:10:00.099217-07:00.jpg",
+      "source": "original",
+      "mtime": "1655615404",
+      "size": "316908",
+      "md5": "d375164ab5a779be1edd65ef5abe48f9",
+      "crc32": "6b4ae31c",
+      "sha1": "a5d2bc0f8e01ea449092ae6c560defa02db054a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-18T22:10:00.099217-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-18T22:10:00.099217-07:00.jpg",
+      "mtime": "1655615454",
+      "size": "10173",
+      "md5": "d20e14d8c22b4b207e65c66b57b68c83",
+      "crc32": "ce9daf13",
+      "sha1": "26ebb8cfb03c1f33aa33ea944bc80fc0726bee4a"
+    },
+    {
+      "name": "mercnews-2022-06-19T02:03:44.270314-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655629429",
+      "size": "42259",
+      "md5": "3848ea3dae6b90751776ae836c71241f",
+      "crc32": "c28012d5",
+      "sha1": "c00f757f0464a0e3ad5d53bb88d8efa77961b215",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T02:03:44.270314-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655629431",
+      "size": "60926",
+      "md5": "ddd5afdd98cc042a69e758d84a7c202c",
+      "crc32": "ac536fe0",
+      "sha1": "5c0ee78596ea8485f8fbb9ade1e1434d29f4e929",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T02:03:44.270314-07:00.jpg",
+      "source": "original",
+      "mtime": "1655629428",
+      "size": "313719",
+      "md5": "e277a4093feec5b40d6f37f6e8778b9e",
+      "crc32": "b6cff421",
+      "sha1": "a7f399405a164c08a410e923e28e86f062ef47ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-19T02:03:44.270314-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-19T02:03:44.270314-07:00.jpg",
+      "mtime": "1655629481",
+      "size": "10098",
+      "md5": "06fe1fd3f80fad4c18529dae686e4f7e",
+      "crc32": "1f184dbc",
+      "sha1": "e469dfbb2f0a58e225e71de54db4af5f568961d4"
+    },
+    {
+      "name": "mercnews-2022-06-19T06:12:04.919715-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655644331",
+      "size": "41795",
+      "md5": "fc37d1e63b222175aba6d265d6ec6552",
+      "crc32": "0ccb3750",
+      "sha1": "998c03998474e3cc8f25a596a0c5e887a3e27480",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T06:12:04.919715-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655644333",
+      "size": "61829",
+      "md5": "8ac11848894a26cc1a902c42f7600f1c",
+      "crc32": "7c147de8",
+      "sha1": "a3503a5950e0d05c5574f1c70ede6bb81c96e345",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T06:12:04.919715-07:00.jpg",
+      "source": "original",
+      "mtime": "1655644328",
+      "size": "304619",
+      "md5": "a1819219653a5ca95c5be4b98926ecae",
+      "crc32": "90d894dd",
+      "sha1": "02d1255971e797d3e1e63591b436770b7e772b46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-19T06:12:04.919715-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-19T06:12:04.919715-07:00.jpg",
+      "mtime": "1655644381",
+      "size": "9896",
+      "md5": "3bec087a9c2734c90afec2b7705e26fb",
+      "crc32": "c5b6a5af",
+      "sha1": "af5a316817f08ee3f3c5ce7801cf8e7be95df17c"
+    },
+    {
+      "name": "mercnews-2022-06-19T10:07:48.833702-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655658474",
+      "size": "40503",
+      "md5": "201e1bb41003190c192d90bdd7f6ac79",
+      "crc32": "1b79bf51",
+      "sha1": "77cc0a682fc3a352ba7f54c997ffbc52f21b6cf7",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T10:07:48.833702-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655658476",
+      "size": "52293",
+      "md5": "12376170227a5c1d3e143e77bed53e78",
+      "crc32": "1c020a30",
+      "sha1": "add7a65ec239d537b032d6ad90c32731c94aa944",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T10:07:48.833702-07:00.jpg",
+      "source": "original",
+      "mtime": "1655658472",
+      "size": "307641",
+      "md5": "e54564229ecf48b2ef684e36a223732f",
+      "crc32": "3708e569",
+      "sha1": "05a6ed03af6cc1eb4747548ef5571590c3d4c019",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-19T10:07:48.833702-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-19T10:07:48.833702-07:00.jpg",
+      "mtime": "1655658524",
+      "size": "10120",
+      "md5": "ec4e0bd32e44c079080b4c2b80cb4cd7",
+      "crc32": "c92c1ca5",
+      "sha1": "5669f88d25415926c2430e6c4485cc6319c61080"
+    },
+    {
+      "name": "mercnews-2022-06-19T14:01:54.976229-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655672520",
+      "size": "41005",
+      "md5": "6a62f79145975dabfd101422e99fa609",
+      "crc32": "ef259f05",
+      "sha1": "3d1573cd7ff3ff23bcf6d9402690cebf020ce051",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T14:01:54.976229-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655672523",
+      "size": "61093",
+      "md5": "8e56fa3ae71c7598d2344311cded1cc7",
+      "crc32": "a7b19385",
+      "sha1": "7d777bddf51bc6cf0d8ddc197981bfc2b321a9f7",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T14:01:54.976229-07:00.jpg",
+      "source": "original",
+      "mtime": "1655672517",
+      "size": "310408",
+      "md5": "5017e89e1b9efbafa078eb7b0dbb3b60",
+      "crc32": "4c5e4edd",
+      "sha1": "44d2a7c24c387c7f43bfd73d5c2bf4b18f16a08b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-19T14:01:54.976229-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-19T14:01:54.976229-07:00.jpg",
+      "mtime": "1655672635",
+      "size": "10128",
+      "md5": "a492cd99474754f86003ba42a30b4125",
+      "crc32": "ac8d1bdc",
+      "sha1": "1302bc884c9a725cb6a85c244d1f73db064a673c"
+    },
+    {
+      "name": "mercnews-2022-06-19T16:26:00.977626-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655681166",
+      "size": "42853",
+      "md5": "1d733158647fa29b9bb3326ea7f39c3b",
+      "crc32": "0ebea332",
+      "sha1": "cab3697fc3e803772efbd5a7557ddcb06c13d4dd",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T16:26:00.977626-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655681168",
+      "size": "55610",
+      "md5": "771e467c5c47ddd3df17661f15b8394c",
+      "crc32": "14c62788",
+      "sha1": "5ec233513cd21f8253cd378314fc4235f7d1016a",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-19T16:26:00.977626-07:00.jpg",
+      "source": "original",
+      "mtime": "1655681164",
+      "size": "296737",
+      "md5": "b07ffe414873fd114a29d67e6c04f467",
+      "crc32": "8aa3ba3b",
+      "sha1": "e5b59bcd5ed6b94ba812a3e66e0d8d8a01fb756f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-19T16:26:00.977626-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-19T16:26:00.977626-07:00.jpg",
+      "mtime": "1655681220",
+      "size": "9792",
+      "md5": "97a8888b7d456044fe5aa9701d84487b",
+      "crc32": "adcff0e9",
+      "sha1": "d294fa53ec51a65fd8ccfeabd0005d5edd0ddcc4"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a7a5b42287a6c6156631c9ab51e8a21474426a8f",
-      "mtime": "1655586261",
-      "size": "77879",
-      "md5": "d918b21698b0521d4f8f2090d3b91a81",
-      "crc32": "2eb45f61",
-      "sha1": "6019bb0191269d76b968a57f5c78cd72cf132ca6",
+      "btih": "3faa7df8bff0665ebafbe8cde9bc3f59ea2f89d5",
+      "mtime": "1655681224",
+      "size": "83807",
+      "md5": "bd3157cd488dd5c3cfe35b0e273ebe7e",
+      "crc32": "90e7a100",
+      "sha1": "66c3a20893a11c0858d416831d6800e15d0746f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d2e03dce6eea8ef57c81f0e477b8f9b",
+      "md5": "6910c3ed3124649f733441026a3f9500",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655586204",
-      "size": "425984",
-      "md5": "9dda16e9dd929d4a801510601a9f8952",
-      "crc32": "78813a65",
-      "sha1": "827e317bbfa797719cbcd35cb81759986c19cefe",
+      "mtime": "1655681171",
+      "size": "458752",
+      "md5": "b55edfa368e69703de83bd1aef93e546",
+      "crc32": "e640c82d",
+      "sha1": "1d553c5d063f6c340e153bf00f8bfa174b9350ef",
       "format": "Metadata"
     },
     {
@@ -3854,1615 +4148,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 366,
-  "item_last_updated": 1655586261,
-  "item_size": 38853991,
-  "mercnews-2022": [
-    {
-      "text": "Data Storage Policy",
-      "url": "https://www.medianewsgroup.com/privacy-policy/"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#content"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tSubscribe Now\t\t\t\t\t\t\t\t",
-      "url": "https://checkout.mercurynews.com/subscriptionmultiproduct?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
-    },
-    {
-      "text": "\n\t\t\t67\u00b0F\n\t\t\t\n\t\t",
-      "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tToday's e-Edition\t\t\t\t\t\t\t\t\t",
-      "url": "http://enewspaper.mercurynews.com"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHome Page\n\t\t\t\t\t\t\t\t",
-      "url": "https://www.mercurynews.com"
-    },
-    {
-      "text": "News",
-      "url": "https://www.mercurynews.com/news/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.mercurynews.com/news/"
-    },
-    {
-      "text": "Latest Headlines",
-      "url": "https://www.mercurynews.com/latest-headlines/"
-    },
-    {
-      "text": "Crime and Public Safety",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/"
-    },
-    {
-      "text": "California News",
-      "url": "https://www.mercurynews.com/news/california-news/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.mercurynews.com/news/national-news/"
-    },
-    {
-      "text": "World News",
-      "url": "https://www.mercurynews.com/news/world-news/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.mercurynews.com/news/politics/"
-    },
-    {
-      "text": "Education",
-      "url": "https://www.mercurynews.com/news/education/"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.mercurynews.com/news/environment/"
-    },
-    {
-      "text": "Science",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "Health",
-      "url": "https://www.mercurynews.com/news/health/"
-    },
-    {
-      "text": "Mr. Roadshow",
-      "url": "https://www.mercurynews.com/tag/mr-roadshow/"
-    },
-    {
-      "text": "Transportation",
-      "url": "https://www.mercurynews.com/news/transportation/"
-    },
-    {
-      "text": "The Cannifornian",
-      "url": "http://thecannifornian.com"
-    },
-    {
-      "text": "Local",
-      "url": "/location/california/bay-area/"
-    },
-    {
-      "text": "Local News Map",
-      "url": "https://www.mercurynews.com/news-near-me-map/"
-    },
-    {
-      "text": "Bay Area",
-      "url": "/location/california/bay-area/"
-    },
-    {
-      "text": "San Jose",
-      "url": "https://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/"
-    },
-    {
-      "text": "Santa Clara County",
-      "url": "https://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/"
-    },
-    {
-      "text": "Peninsula",
-      "url": "/location/california/bay-area/peninsula/"
-    },
-    {
-      "text": "San Mateo County",
-      "url": "https://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/"
-    },
-    {
-      "text": "Alameda County",
-      "url": "https://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/"
-    },
-    {
-      "text": "Santa Cruz County",
-      "url": "https://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/"
-    },
-    {
-      "text": "Sal Pizarro",
-      "url": "https://www.mercurynews.com/tag/around-town/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "https://www.mercurynews.com/news/obituaries/"
-    },
-    {
-      "text": "Obituaries in the News",
-      "url": "https://www.mercurynews.com/news/obituaries/"
-    },
-    {
-      "text": "Local Obituaries",
-      "url": "https://www.legacy.com/obituaries/mercurynews/"
-    },
-    {
-      "text": "Place an Obituary",
-      "url": "https://bang.theadhawk.com/bang-adportal/obits/index.html"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.mercurynews.com/opinion/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.mercurynews.com/opinion/"
-    },
-    {
-      "text": "Editorials",
-      "url": "/opinion/editorials/"
-    },
-    {
-      "text": "Opinion Columnists",
-      "url": "/tag/opinion-columnists/"
-    },
-    {
-      "text": "Letters to the Editor",
-      "url": "/opinion/letters/"
-    },
-    {
-      "text": "Commentary",
-      "url": "https://www.mercurynews.com/opinion/commentary/"
-    },
-    {
-      "text": "Cartoons",
-      "url": "https://www.mercurynews.com/tag/cartoons/"
-    },
-    {
-      "text": "Election Endorsements",
-      "url": "https://www.mercurynews.com/opinion/endorsements/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.mercurynews.com/sports/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.mercurynews.com/sports/"
-    },
-    {
-      "text": "San Francisco 49ers",
-      "url": "https://www.mercurynews.com/sports/nfl/san-francisco-49ers/"
-    },
-    {
-      "text": "San Francisco Giants",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "Golden State Warriors",
-      "url": "https://www.mercurynews.com/sports/nba/golden-state-warriors/"
-    },
-    {
-      "text": "Raiders",
-      "url": "https://www.mercurynews.com/sports/nfl/raiders/"
-    },
-    {
-      "text": "Oakland Athletics",
-      "url": "https://www.mercurynews.com/sports/mlb/oakland-athletics/"
-    },
-    {
-      "text": "San Jose Sharks",
-      "url": "https://www.mercurynews.com/sports/nhl/san-jose-sharks/"
-    },
-    {
-      "text": "San Jose Earthquakes",
-      "url": "https://www.mercurynews.com/sports/soccer/san-jose-earthquakes/"
-    },
-    {
-      "text": "College Sports",
-      "url": "https://www.mercurynews.com/sports/college-sports/"
-    },
-    {
-      "text": "Pac-12 Hotline",
-      "url": "/tag/pac-12-hotline/"
-    },
-    {
-      "text": "High School Sports",
-      "url": "https://www.mercurynews.com/sports/high-school-sports/"
-    },
-    {
-      "text": "Other Sports",
-      "url": "https://www.mercurynews.com/sports/other-sports/"
-    },
-    {
-      "text": "Sports Columnists",
-      "url": "https://www.mercurynews.com/sports/columnists/"
-    },
-    {
-      "text": "Sports Blogs",
-      "url": "https://www.mercurynews.com/blogs/"
-    },
-    {
-      "text": "Things To Do",
-      "url": "https://www.mercurynews.com/things-to-do/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.mercurynews.com/things-to-do/entertainment/"
-    },
-    {
-      "text": "Things To Do",
-      "url": "https://www.mercurynews.com/things-to-do/"
-    },
-    {
-      "text": "Restaurants, Food and Drink",
-      "url": "https://www.mercurynews.com/things-to-do/restaurants-food-drink/"
-    },
-    {
-      "text": "Celebrities",
-      "url": "https://www.mercurynews.com/tag/celebrities/"
-    },
-    {
-      "text": "TV Streaming",
-      "url": "https://www.mercurynews.com/things-to-do/tv-streaming/"
-    },
-    {
-      "text": "Movies",
-      "url": "https://www.mercurynews.com/things-to-do/movies/"
-    },
-    {
-      "text": "Music",
-      "url": "https://www.mercurynews.com/things-to-do/music/"
-    },
-    {
-      "text": "Theater",
-      "url": "https://www.mercurynews.com/things-to-do/theater/"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "https://www.mercurynews.com/things-to-do/lifestyle/"
-    },
-    {
-      "text": "Advice",
-      "url": "https://www.mercurynews.com/advice/"
-    },
-    {
-      "text": "Travel",
-      "url": "https://www.mercurynews.com/things-to-do/travel/"
-    },
-    {
-      "text": "Pets and Animals",
-      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
-    },
-    {
-      "text": "Comics",
-      "url": "https://www.mercurynews.com/comics/"
-    },
-    {
-      "text": "Puzzles and Games",
-      "url": "https://www.mercurynews.com/puzzle-games/"
-    },
-    {
-      "text": "Horoscopes",
-      "url": "https://www.mercurynews.com/things-to-do/horoscopes/"
-    },
-    {
-      "text": "Local Events",
-      "url": "https://www.mercurynews.com/local-events/"
-    },
-    {
-      "text": "Business",
-      "url": "https://www.mercurynews.com/business/"
-    },
-    {
-      "text": "Business",
-      "url": "https://www.mercurynews.com/business/"
-    },
-    {
-      "text": "Housing",
-      "url": "https://www.mercurynews.com/news/housing/"
-    },
-    {
-      "text": "Economy",
-      "url": "https://www.mercurynews.com/business/economy/"
-    },
-    {
-      "text": "Technology",
-      "url": "https://www.mercurynews.com/business/technology/"
-    },
-    {
-      "text": "SiliconValley.com",
-      "url": "https://www.siliconvalley.com"
-    },
-    {
-      "text": "Real Estate",
-      "url": "https://www.mercurynews.com/business/real-estate/"
-    },
-    {
-      "text": "Marketplace",
-      "url": "https://www.mercurynews.com/sponsored-content/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.mercurynews.com/subscriptionmultiproduct?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
-    },
-    {
-      "text": "Log in",
-      "url": "https://www.mercurynews.com/login?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F"
-    },
-    {
-      "text": "Logout",
-      "url": "https://www.mercurynews.com/logout"
-    },
-    {
-      "text": "\n\t\t\t\tSign Up",
-      "url": "https://myaccount.mercurynews.com/merc/preference"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.mercurynews.com/subscriptionmultiproduct?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
-    },
-    {
-      "text": "Log in",
-      "url": "https://www.mercurynews.com/login?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/contact-us"
-    },
-    {
-      "text": "Log Out",
-      "url": "/logout"
-    },
-    {
-      "text": "\n\t\t\t\tSign Up",
-      "url": "https://myaccount.mercurynews.com/merc/preference"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.mercurynews.com/subscriptionmultiproduct?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
-    },
-    {
-      "text": "Log in",
-      "url": "https://www.mercurynews.com/login?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F"
-    },
-    {
-      "text": "\n\t\t\t67\u00b0F\n\t\t\t\n\t\t",
-      "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tToday's e-Edition\t\t\t\t\t\t\t\t\t",
-      "url": "http://enewspaper.mercurynews.com"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com"
-    },
-    {
-      "text": "News",
-      "url": "https://www.mercurynews.com/news/"
-    },
-    {
-      "text": "Local",
-      "url": "https://www.mercurynews.com/location/california/bay-area/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "https://www.legacy.com/obituaries/mercurynews/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.mercurynews.com/sports/"
-    },
-    {
-      "text": "Things to Do",
-      "url": "https://www.mercurynews.com/things-to-do/"
-    },
-    {
-      "text": "Business",
-      "url": "https://www.mercurynews.com/business/"
-    },
-    {
-      "text": "Real Estate",
-      "url": "https://www.mercurynews.com/business/real-estate/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.mercurynews.com/opinion/"
-    },
-    {
-      "text": "Marketplace",
-      "url": "https://www.mercurynews.com/sponsored-content/"
-    },
-    {
-      "text": "e-Edition",
-      "url": "http://enewspaper.mercurynews.com"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors parade\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/warriors-announce-2022-championship-parade-details/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Smart\u2019 water meters\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/california-drought-smart-water-meters-coming-to-san-jose-other-bay-area-cities-in-latest-effort-to-boost-conservation/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNorm Mineta remembered\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/norm-mineta-lived-life-to-the-fullest-and-enjoyed-every-moment/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSF to SJ: $3 Billion\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/bay-areas-high-speed-rail-is-closer-than-ever-but-the-price-tag-is-exploding/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t2026 FIFA World Cup\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/levis-stadium-selected-as-a-host-site-for-2026-fifa-world-cup/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tRemembering Erica Pantoja\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/she-died-trying-to-protect-her-children-sister-of-slain-san-jose-mother-of-six-speaks-out-after-double-murder-suicide/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t$9.63 a gallon: She sells the country\u2019s most expensive gas and doesn\u2019t \u2018give a diddle\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/9-63-a-gallon-she-sells-the-countrys-most-expensive-gas-and-doesnt-give-a-diddle/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/9-63-a-gallon-she-sells-the-countrys-most-expensive-gas-and-doesnt-give-a-diddle/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/9-63-a-gallon-she-sells-the-countrys-most-expensive-gas-and-doesnt-give-a-diddle/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/biden-hosts-climate-summit-as-gas-prices-boost-pressure/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBiden hosts climate summit as gas prices boost pressure\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/biden-hosts-climate-summit-as-gas-prices-boost-pressure/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/northern-california-gas-station-fires-manager-for-setting-price-at-69-cents/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNorthern California gas station fires manager for setting price at 69 cents\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/northern-california-gas-station-fires-manager-for-setting-price-at-69-cents/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/why-gas-prices-always-end-in-9-10-of-a-cent/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWhy gas prices always end in 9/10 of a cent\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/why-gas-prices-always-end-in-9-10-of-a-cent/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/9-63-a-gallon-she-sells-the-countrys-most-expensive-gas-and-doesnt-give-a-diddle/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/sports/nba/golden-state-warriors/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/santa-clara-county-traffic-civil-court-access-reduced-after-court-security-dispute/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/santa-clara-county-traffic-civil-court-access-reduced-after-court-security-dispute/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSanta Clara County traffic, civil court access reduced after court security dispute\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/santa-clara-county-traffic-civil-court-access-reduced-after-court-security-dispute/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/warriors-announce-2022-championship-parade-details/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/warriors-announce-2022-championship-parade-details/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors 2022 championship parade details, route extended, BART offers tips\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/warriors-announce-2022-championship-parade-details/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/country-radio-station-krty-signs-off-fm-and-rides-into-the-future/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/country-radio-station-krty-signs-off-fm-and-rides-into-the-future/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCountry radio station KRTY signs off FM and rides into \u2018the future\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/country-radio-station-krty-signs-off-fm-and-rides-into-the-future/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/east-palo-alto-arrests-made-in-killing-of-15-year-old-boy/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/east-palo-alto-arrests-made-in-killing-of-15-year-old-boy/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEast Palo Alto: Arrests made in killing of 15-year-old boy\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/east-palo-alto-arrests-made-in-killing-of-15-year-old-boy/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/editorial-calfire-report-and-pge/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEditorial: Cal Fire report blasts PG&E\u2019s role in Dixie Fire\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/editorial-calfire-report-and-pge/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/hungover-warriors-return-to-bask-in-california-sunshine-and-their-championship/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Hungover\u2019 Warriors return to bask in California sunshine \u2014 and their championship\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/hungover-warriors-return-to-bask-in-california-sunshine-and-their-championship/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/ahead-of-return-to-sf-giants-rotation-alex-cobb-speaks-out-against-longer-il-for-pitchers/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAhead of return to SF Giants rotation, Alex Cobb speaks out against longer IL for pitchers\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/ahead-of-return-to-sf-giants-rotation-alex-cobb-speaks-out-against-longer-il-for-pitchers/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/3-4-earthquake-felt-near-morgan-hill/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t3.4 earthquake felt near Morgan Hill\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/3-4-earthquake-felt-near-morgan-hill/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/new-as-infielder-opens-up-about-fifth-inning-gaffe-in-fridays-loss/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNew A\u2019s infielder opens up about fifth-inning gaffe in Friday\u2019s loss\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/new-as-infielder-opens-up-about-fifth-inning-gaffe-in-fridays-loss/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/report-kenny-atkinson-pulls-out-of-hornets-head-job-at-last-second-will-remain-warriors-assistant/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tKenny Atkinson pulls out of Hornets head job at last second, will remain Warriors assistant\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/report-kenny-atkinson-pulls-out-of-hornets-head-job-at-last-second-will-remain-warriors-assistant/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/sf-giants-pick-up-former-rookie-sensation-from-chicago-white-sox/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSF Giants pick up former rookie sensation from Chicago White Sox\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/sf-giants-pick-up-former-rookie-sensation-from-chicago-white-sox/"
-    },
-    {
-      "text": "\n\t\tSubscribe",
-      "url": "https://myaccount.mercurynews.com/merc/preference"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
-      "url": "https://facebook.com/mercurynews"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
-      "url": "https://twitter.com/mercnews"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
-      "url": "https://instagram.com/mercnews"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tRSS\n\t\t\t\t\t",
-      "url": "https://www.mercurynews.com/feed/"
-    },
-    {
-      "text": "\n                Ahead of return to SF Giants rotation, Alex Cobb speaks out against longer IL for pitchers\n            ",
-      "url": "https://www.mercurynews.com/2022/06/18/ahead-of-return-to-sf-giants-rotation-alex-cobb-speaks-out-against-longer-il-for-pitchers/"
-    },
-    {
-      "text": "\n                New A's infielder opens up about fifth-inning gaffe in Friday's loss\n            ",
-      "url": "https://www.mercurynews.com/2022/06/18/new-as-infielder-opens-up-about-fifth-inning-gaffe-in-fridays-loss/"
-    },
-    {
-      "text": "\n                Kenny Atkinson pulls out of Hornets head job at last second, will remain Warriors assistant\n            ",
-      "url": "https://www.mercurynews.com/2022/06/18/report-kenny-atkinson-pulls-out-of-hornets-head-job-at-last-second-will-remain-warriors-assistant/"
-    },
-    {
-      "text": "\n                3.4 earthquake felt near Morgan Hill\n            ",
-      "url": "https://www.mercurynews.com/2022/06/18/3-4-earthquake-felt-near-morgan-hill/"
-    },
-    {
-      "text": "\n                Orioles GM Mike Elias says Angelos family lawsuit won\u2019t \u2018have any impact\u2019 on team\u2019s on-field plans\n            ",
-      "url": "https://www.mercurynews.com/2022/06/18/orioles-gm-mike-elias-says-angelos-family-lawsuit-wont-have-any-impact-on-teams-on-field-plans/"
-    },
-    {
-      "text": "\n                Colorado hikers escape armed kidnapper who put leash around woman\u2019s neck\n            ",
-      "url": "https://www.mercurynews.com/2022/06/18/colorado-hikers-escape-armed-kidnapper-who-put-leash-around-womans-neck/"
-    },
-    {
-      "text": "\n                Three injured in attack at San Francisco International Airport\n            ",
-      "url": "https://www.mercurynews.com/2022/06/17/three-injured-in-attack-at-san-francisco-international-airport/"
-    },
-    {
-      "text": "\n                Lone acquittal in college admissions scandal: Dad\u2019s bag of money wasn\u2019t bribe, jury decides\n            ",
-      "url": "https://www.mercurynews.com/2022/06/17/lone-acquittal-in-college-admissions-scandal-bag-of-money-wasnt-bribe-jury-decides/"
-    },
-    {
-      "text": "\n                \u2018Hungover\u2019 Warriors return to bask in California sunshine \u2014 and their championship\n            ",
-      "url": "https://www.mercurynews.com/2022/06/17/hungover-warriors-return-to-bask-in-california-sunshine-and-their-championship/"
-    },
-    {
-      "text": "\n                Kurtenbach: Warriors bench stars Jordan Poole and Gary Payton II flipped the NBA Finals\n            ",
-      "url": "https://www.mercurynews.com/2022/06/17/kurtenbach-warriors-bench-stars-jordan-poole-and-gary-payton-ii-flipped-the-script-of-the-nba-finals/"
-    },
-    {
-      "text": "\n\t\t\t\tCrime and Public Safety\n\t\t\t",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/crash-closes-paseo-padre-parkway-in-fremont/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/crash-closes-paseo-padre-parkway-in-fremont/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCrash closes Paseo Padre Parkway in Fremont\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/crash-closes-paseo-padre-parkway-in-fremont/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/colorado-hikers-escape-armed-kidnapper-who-put-leash-around-womans-neck/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tColorado hikers escape armed kidnapper who put leash around woman\u2019s neck\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/colorado-hikers-escape-armed-kidnapper-who-put-leash-around-womans-neck/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/s-f-mayor-breed-proposes-increasing-services-funding-to-asian-victims-of-crime/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tS.F.: Mayor Breed proposes increasing services, funding to Asian victims of crime\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/s-f-mayor-breed-proposes-increasing-services-funding-to-asian-victims-of-crime/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/jury-convicts-2-king-city-gang-members-of-murder-in-2019-greenfield-shooting/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJury convicts 2 King City gang members of murder in 2019 Greenfield shooting\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/jury-convicts-2-king-city-gang-members-of-murder-in-2019-greenfield-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\tSports\n\t\t\t",
-      "url": "https://www.mercurynews.com/sports/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/joc-pederson-a-lifelong-warriors-fan-had-unbelievable-experience-sitting-courtside-for-latest-finals-win/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/joc-pederson-a-lifelong-warriors-fan-had-unbelievable-experience-sitting-courtside-for-latest-finals-win/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tJoc Pederson, a lifelong Warriors fan, had \u2018unbelievable experience\u2019 sitting courtside for latest Finals win\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/joc-pederson-a-lifelong-warriors-fan-had-unbelievable-experience-sitting-courtside-for-latest-finals-win/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/with-rodon-in-top-form-sf-giants-start-road-trip-with-win-over-pirates/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWith Rod\u00f3n in top form, SF Giants start road trip with win over Pirates\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/with-rodon-in-top-form-sf-giants-start-road-trip-with-win-over-pirates/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/moore-currys-finals-mvp-ends-the-dishonest-criticism-of-his-playoff-resume/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMoore: Curry\u2019s Finals MVP ends the dishonest criticism of his playoff resume\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/moore-currys-finals-mvp-ends-the-dishonest-criticism-of-his-playoff-resume/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/oakland-as-now-with-als-worst-defense-start-homestand-with-frustrating-loss/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOakland A\u2019s defensive woes continue as homestand starts with frustrating loss\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/oakland-as-now-with-als-worst-defense-start-homestand-with-frustrating-loss/"
-    },
-    {
-      "text": "\n\t\t\t\tReal Estate\n\t\t\t",
-      "url": "https://www.mercurynews.com/business/real-estate/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/1987-when-mortgage-rates-last-soared-this-much/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/1987-when-mortgage-rates-last-soared-this-much/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t1987: When mortgage rates last soared this much\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/1987-when-mortgage-rates-last-soared-this-much/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFraud-linked Bay Area properties head into foreclosure\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/bubble-watch-could-mortgage-rates-hit-10/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCould mortgage rates hit 10%?\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/bubble-watch-could-mortgage-rates-hit-10/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/historic-east-bay-shore-ford-point-buy-104-million-real-estate-develop/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHistoric East Bay waterside complex is bought for $100 million-plus\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/historic-east-bay-shore-ford-point-buy-104-million-real-estate-develop/"
-    },
-    {
-      "text": "Local News                                                                                                                                                                                                                                                                                                                    \n                \n            ",
-      "url": "/news-near-me-map/"
-    },
-    {
-      "text": "\n                            \n                                \n                            \n                        ",
-      "url": "https://www.mercurynews.com/news-near-me-map/"
-    },
-    {
-      "text": "\n                                    Seven days of news in the Bay Area                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \n                                        \n                                    \n                                ",
-      "url": "https://www.mercurynews.com/news-near-me-map/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/three-injured-in-attack-at-san-francisco-international-airport/"
-    },
-    {
-      "text": "\n                                \n                                    \n                                \n                            ",
-      "url": "https://www.mercurynews.com/2022/06/17/three-injured-in-attack-at-san-francisco-international-airport/"
-    },
-    {
-      "text": "\n                                        Three injured in attack at San Francisco International Airport                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    \n                                            33 miles away\n                                        \n                                    ",
-      "url": "https://www.mercurynews.com/2022/06/17/three-injured-in-attack-at-san-francisco-international-airport/?blm_medium=RecommendationList&blm_campaign=Geotagged"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/vta-worker-arrested-on-suspicion-of-threatening-gun-violence/"
-    },
-    {
-      "text": "\n                                \n                                    \n                                \n                            ",
-      "url": "https://www.mercurynews.com/2022/06/17/vta-worker-arrested-on-suspicion-of-threatening-gun-violence/"
-    },
-    {
-      "text": "\n                                        VTA worker arrested on suspicion of threatening gun violence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    \n                                            3 miles away\n                                        \n                                    ",
-      "url": "https://www.mercurynews.com/2022/06/17/vta-worker-arrested-on-suspicion-of-threatening-gun-violence/?blm_medium=RecommendationList&blm_campaign=Geotagged"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/"
-    },
-    {
-      "text": "\n                                \n                                    \n                                \n                            ",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/"
-    },
-    {
-      "text": "\n                                        Bay Area properties tied to fraud-linked builder head to foreclosure                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    \n                                            3 miles away\n                                        \n                                    ",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/?blm_medium=RecommendationList&blm_campaign=Geotagged"
-    },
-    {
-      "text": "Photos",
-      "url": "/tag/photo-galleries-videos/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/photos-18-5-million-mansion-listing-breaks-record-in-piedmont/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/photos-18-5-million-mansion-listing-breaks-record-in-piedmont/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: $18.5 million mansion listing breaks record in Piedmont\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/photos-18-5-million-mansion-listing-breaks-record-in-piedmont/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/photos-dub-nation-celebrates-golden-state-warriors-nba-championship-title-over-boston-celtics/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/photos-dub-nation-celebrates-golden-state-warriors-nba-championship-title-over-boston-celtics/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Dub Nation celebrates Golden State Warriors NBA Championship title over Boston Celtics\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/photos-dub-nation-celebrates-golden-state-warriors-nba-championship-title-over-boston-celtics/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/photos-golden-state-warriors-defeat-boston-celtics-to-win-fourth-nba-championship/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/photos-golden-state-warriors-defeat-boston-celtics-to-win-fourth-nba-championship/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Golden State Warriors defeat Boston Celtics to win fourth NBA Championship\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/photos-golden-state-warriors-defeat-boston-celtics-to-win-fourth-nba-championship/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/norm-mineta-lived-life-to-the-fullest-and-enjoyed-every-moment/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/norm-mineta-lived-life-to-the-fullest-and-enjoyed-every-moment/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNorm Mineta \u2018lived life to the fullest and enjoyed every moment\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/norm-mineta-lived-life-to-the-fullest-and-enjoyed-every-moment/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/game-on-bostons-ribbing-of-steph-currys-wife-ayesha-goes-viral/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/game-on-bostons-ribbing-of-steph-currys-wife-ayesha-goes-viral/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBoston sports bar goes viral for Ayesha Curry sign, Warriors star Steph responds\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/game-on-bostons-ribbing-of-steph-currys-wife-ayesha-goes-viral/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/15/what-to-watch-emma-thompson-stars-in-charming-sex-romp/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/what-to-watch-emma-thompson-stars-in-charming-sex-romp/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWhat to watch: Emma Thompson stars in charming sex romp\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/15/what-to-watch-emma-thompson-stars-in-charming-sex-romp/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/photos-strawberry-supermoon-marks-lowest-full-moon-of-year/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/photos-strawberry-supermoon-marks-lowest-full-moon-of-year/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: \u201cStrawberry Supermoon\u201d marks lowest full moon of year\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/photos-strawberry-supermoon-marks-lowest-full-moon-of-year/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/two-el-monte-police-officers-shot-and-injured-suspect-down/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/two-el-monte-police-officers-shot-and-injured-suspect-down/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Heartbroken\u2019 \u2014 2 California police officers killed in shootout\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/two-el-monte-police-officers-shot-and-injured-suspect-down/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/alameda-companys-market-niche-small-privately-operated-submarines/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/alameda-companys-market-niche-small-privately-operated-submarines/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAlameda company\u2019s market niche: Small, privately-operated submarines\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/alameda-companys-market-niche-small-privately-operated-submarines/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/we-want-our-fields-back-little-league-doubts-contamination-risks-will-fight-to-stay-at-reid-hillview/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/we-want-our-fields-back-little-league-doubts-contamination-risks-will-fight-to-stay-at-reid-hillview/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018We want our fields back\u2019: Little League doubts contamination risks, will fight to stay at Reid-Hillview\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/we-want-our-fields-back-little-league-doubts-contamination-risks-will-fight-to-stay-at-reid-hillview/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/frameline-2022-10-films-you-should-catch-at-sfs-big-lgbtq-film-fest/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/frameline-2022-10-films-you-should-catch-at-sfs-big-lgbtq-film-fest/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFrameline 2022: 10 films you should catch at SF\u2019s big LGBTQ film fest\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/frameline-2022-10-films-you-should-catch-at-sfs-big-lgbtq-film-fest/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/14/soap-opera-general-hospital-reaches-15000th-episode-the-cast-talks-iconic-series/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/soap-opera-general-hospital-reaches-15000th-episode-the-cast-talks-iconic-series/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSoap opera \u2018General Hospital\u2019 reaches 15,000th episode: Cast members talk iconic series\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/14/soap-opera-general-hospital-reaches-15000th-episode-the-cast-talks-iconic-series/"
-    },
-    {
-      "text": "\n\t\t\t\tCoronavirus\n\t\t\t",
-      "url": "https://www.mercurynews.com/tag/coronavirus/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/cdc-advisers-unanimously-recommend-vaccinations-of-young-children/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/cdc-advisers-unanimously-recommend-vaccinations-of-young-children/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCDC advisers unanimously recommend vaccinations of young children\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/cdc-advisers-unanimously-recommend-vaccinations-of-young-children/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-covid-cases-now-dropping-rapidly-after-long-plateau/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBay Area COVID cases now dropping rapidly after long plateau\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-covid-cases-now-dropping-rapidly-after-long-plateau/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFDA authorizes 1st COVID-19 shots for infants, preschoolers\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/fda-authorizes-1st-covid-19-shots-for-infants-preschoolers/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-california-gain-jobs-may-slowdown-tech-covid-hotel-economy/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tTech job cuts trigger slower Bay Area employment growth\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-california-gain-jobs-may-slowdown-tech-covid-hotel-economy/"
-    },
-    {
-      "text": "\n\t\t\t\tOpinion\n\t\t\t",
-      "url": "https://www.mercurynews.com/opinion/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/mathews-plans-to-bring-california-into-21st-century-depend-on-san-jose/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/mathews-plans-to-bring-california-into-21st-century-depend-on-san-jose/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMathews: Plans to bring California into 21st century depend on San Jose\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/mathews-plans-to-bring-california-into-21st-century-depend-on-san-jose/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/opinion-this-fathers-day-lets-have-the-talk-about-annual-health-screenings/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: This Father\u2019s Day, let\u2019s talk about annual health screenings\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/opinion-this-fathers-day-lets-have-the-talk-about-annual-health-screenings/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/letters-872/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: Benching baseball | Unionize Little League | Speak out | Climate change | Hollow nation | Public safety | Pence\u2019s conflict\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/letters-872/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/opinion-unlike-watergate-todays-republicans-are-failing-the-nation/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: Unlike Watergate, today\u2019s Republicans are failing the nation\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/opinion-unlike-watergate-todays-republicans-are-failing-the-nation/"
-    },
-    {
-      "text": "\n\t\t\t\tThings To Do\n\t\t\t",
-      "url": "https://www.mercurynews.com/things-to-do/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/mountain-lion-in-southern-california-study-killed-by-vehicle/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/mountain-lion-in-southern-california-study-killed-by-vehicle/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMountain lion in Southern California study killed by vehicle\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/mountain-lion-in-southern-california-study-killed-by-vehicle/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/not-just-for-the-birds-avian-influenza-is-also-felling-wild-mammals/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNot just for the birds: Avian influenza is also felling wild mammals\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/not-just-for-the-birds-avian-influenza-is-also-felling-wild-mammals/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/game-change-game-documentary-about-nba-in-lockdown-and-black-lives-matter-protests-premieres-at-tribeca-fest-2/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Game Change Game,\u2019 documentary about NBA in lockdown and Black Lives Matter protests, premieres at Tribeca Fest\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/game-change-game-documentary-about-nba-in-lockdown-and-black-lives-matter-protests-premieres-at-tribeca-fest-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/horoscopes-june-18-paul-mccartney-be-honest-with-yourself/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHoroscopes June 18: Paul McCartney, be honest with yourself\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/horoscopes-june-18-paul-mccartney-be-honest-with-yourself/"
-    },
-    {
-      "text": "\n\t\t\t\tBusiness\n\t\t\t",
-      "url": "https://www.mercurynews.com/business/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/spacex-reportedly-fired-employees-critical-of-ceo-musk/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/spacex-reportedly-fired-employees-critical-of-ceo-musk/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSpaceX reportedly fires employees critical of CEO Elon Musk\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/spacex-reportedly-fired-employees-critical-of-ceo-musk/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/mobile-carriers-agree-to-delay-5g-rollout-near-airports/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMobile carriers agree to delay 5G rollout near airports\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/mobile-carriers-agree-to-delay-5g-rollout-near-airports/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/california-bill-would-cut-single-use-plastic-25/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia bill would cut single-use plastic 25%\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/california-bill-would-cut-single-use-plastic-25/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/italy-faces-food-energy-threat-as-its-biggest-river-dries-up/"
-    },
-    {
-      "text": "San Francisco Giants | ",
-      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tItaly faces food, energy threat as its biggest river dries up\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/italy-faces-food-energy-threat-as-its-biggest-river-dries-up/"
-    },
-    {
-      "text": "Another Florida homeowners insurance company goes under",
-      "url": "https://www.orlandosentinel.com/business/real-estate/os-bz-property-insurance-company-insolvent-20220615-k4ngz77dfvd3tdxp2vv3zv72l4-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "Disney delays moving 2,000 jobs to Orlando amid \u2018don\u2019t say gay\u2019 clash with DeSantis",
-      "url": "https://www.orlandosentinel.com/business/tourism/os-bz-disney-lake-nona-move-delayed-20220615-n6ohdk65z5gxxccpk3obsgzweu-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "Lauren Boebert target of wild claims spreading despite lack of evidence",
-      "url": "https://www.denverpost.com/2022/06/15/lauren-boebert-allegations/?itm_source=parsely-api"
-    },
-    {
-      "text": "Teenage Walgreens employee in Colorado Springs reported coworker before she was found dead in breakroom",
-      "url": "https://www.denverpost.com/2022/06/15/joshua-johnson-murder-suspect-colorado-springs/?itm_source=parsely-api"
-    },
-    {
-      "text": "Henry Winkler snaps back at Herschel Walker following criticism of celebrities",
-      "url": "https://www.nydailynews.com/snyde/ny-henry-winkler-herschel-walker-opinion-american-20220616-coa43wv2ezdf5m73hen77xwuaa-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com"
-    },
-    {
-      "text": "News Alerts",
-      "url": "http://www.mercurynews.com/newsletters"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Email Newsletters",
-      "url": "http://www.mercurynews.com/newsletters"
-    },
-    {
-      "text": "Today\u2019s e-Edition",
-      "url": "http://enewspaper.mercurynews.com"
-    },
-    {
-      "text": "Mobile Apps",
-      "url": "https://www.mercurynews.com/mobile/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://checkout.mercurynews.com/subscriptionmultiproduct?g2i_source=Event&g2i_medium=link&g2i_campaign=footer&g2i_or_o=event&g2i_or_p=footer"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Member Services",
-      "url": "https://myaccount.mercurynews.com/"
-    },
-    {
-      "text": "Manage Subscriptions",
-      "url": "https://myaccount.mercurynews.com/"
-    },
-    {
-      "text": "Store",
-      "url": "https://store.mercurynews.com/?utm_campaign=evergreen&utm_medium=referral&utm_source=navigation-footer&utm_content=&utm_term="
-    },
-    {
-      "text": "Archive Search",
-      "url": "https://mercurynews.newsbank.com/"
-    },
-    {
-      "text": "Reprints",
-      "url": "https://www.mercurynews.com/reprints/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.mercurynews.com/contact-us/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Digital Access FAQ",
-      "url": "https://www.mercurynews.com/digital-access/"
-    },
-    {
-      "text": "Join our Team",
-      "url": "https://www.bayareanewsgroup.com/join-our-team"
-    },
-    {
-      "text": "Special Sections",
-      "url": "https://www.mercurynews.com/special-sections/"
-    },
-    {
-      "text": "Sponsor a Group",
-      "url": "https://sponsor.medianewsgroup.com/a/?tag=bayarea"
-    },
-    {
-      "text": "Get Sponsored Access",
-      "url": "https://access.medianewsgroup.com/d/bayarea"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.medianewsgroup.com/privacy-policy/"
-    },
-    {
-      "text": "Accessibility",
-      "url": "https://www.medianewsgroup.com/accessibility-statement/"
-    },
-    {
-      "text": "Marketplace",
-      "url": "https://www.mercurynews.com/sponsored-content/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Classifieds",
-      "url": "http://marketplace.bayareanewsgroup.com/marketplace/"
-    },
-    {
-      "text": "Place Obituary",
-      "url": "http://bang.theadhawk.com/bang-adportal/obits/index.html"
-    },
-    {
-      "text": "Place Legal Notice",
-      "url": "http://bang.theadhawk.com/bang-adportal/legals/index.html"
-    },
-    {
-      "text": "Real Estate",
-      "url": "http://homes.mercurynews.com/"
-    },
-    {
-      "text": "Lottery",
-      "url": "https://www.mercurynews.com/lottery/"
-    },
-    {
-      "text": "Advertise With Us",
-      "url": "https://www.mercurynews.com/advertise/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Network Advertising",
-      "url": "https://www.digitalfirstmedia.com/advertise-with-us/"
-    },
-    {
-      "text": "Daily Ads",
-      "url": "https://mercurynews-ca.newsmemory.com/?marketplace"
-    },
-    {
-      "text": "Public Notices",
-      "url": "http://capublicnotice.com/"
-    },
-    {
-      "text": "Top Workplaces",
-      "url": "https://topworkplaces.bayareanewsgroup.com/"
-    },
-    {
-      "text": "Monster.com",
-      "url": "https://www.mercurynews.com/jobs/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
-      "url": "https://facebook.com/mercurynews"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
-      "url": "https://twitter.com/mercnews"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
-      "url": "https://instagram.com/mercnews"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tRSS\n\t\t\t\t\t",
-      "url": "https://www.mercurynews.com/feed/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSubscribe Now\t\t\t\t",
-      "url": "https://checkout.mercurynews.com/subscriptionmultiproduct?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://www.medianewsgroup.com/terms-of-use/"
-    },
-    {
-      "text": "Cookie Policy",
-      "url": "https://www.medianewsgroup.com/cookie-policy/"
-    },
-    {
-      "text": "Arbitration",
-      "url": "https://www.medianewsgroup.com/arbitration/"
-    },
-    {
-      "text": "Powered by WordPress.com VIP",
-      "url": "https://vip.wordpress.com/"
-    },
-    {
-      "text": "Do Not Sell My Info",
-      "url": "https://www.medianewsgroup.com/california-consumer-privacy-act/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tBAY AREA'S HOME PAGE\t\t\t\t\t",
-      "url": "http://www.bayareanewsgroup.com"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Log in",
-      "url": "#"
-    },
-    {
-      "text": "Login help\ufeff",
-      "url": "https://www.mercurynews.com/faqlogin/?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F%3FclearUserState%3Dtrue"
-    }
-  ],
+  "files_count": 394,
+  "item_last_updated": 1655681224,
+  "item_size": 41824446,
   "metadata": {
     "identifier": "mercnews-2022",
     "collection": [
@@ -5480,7 +4168,7 @@
     "addeddate": "2022-03-23 02:09:12"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 41907489,
+  "uniq": 429535685,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

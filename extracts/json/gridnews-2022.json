@@ -1,5 +1,5 @@
 {
-  "created": 1655586209,
+  "created": 1655681196,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/gridnews-2022",
@@ -100,31 +100,325 @@
       "sha1": "763055f591c9852531210e694f5eeb378b6d3236"
     },
     {
+      "name": "gridnews-2022-06-18T21:16:06.947769-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655601370",
+      "size": "22329",
+      "md5": "6beec9617c95e32df08bb3c4cfd6c78b",
+      "crc32": "b86c06b9",
+      "sha1": "5c354c33386ea3c5aa1c27d2911e40f635646bd8",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-18T21:16:06.947769-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655601372",
+      "size": "10681",
+      "md5": "da53461c7e02457d6a4f9e5dc009ad8d",
+      "crc32": "aec1b43a",
+      "sha1": "07e86ba2030591438d8659acfb524801318f507d",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-18T21:16:06.947769-04:00.jpg",
+      "source": "original",
+      "mtime": "1655601368",
+      "size": "274808",
+      "md5": "63500c0545cf50ee9dd66a22e0045dc1",
+      "crc32": "d01eb756",
+      "sha1": "c3e745ba8b82fc7325ed38a58231950a2ca45709",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-18T21:16:06.947769-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-18T21:16:06.947769-04:00.jpg",
+      "mtime": "1655601418",
+      "size": "10239",
+      "md5": "036ba987d6a8216f2ee1c90e7516487d",
+      "crc32": "dc9e053c",
+      "sha1": "763055f591c9852531210e694f5eeb378b6d3236"
+    },
+    {
+      "name": "gridnews-2022-06-19T01:08:16.723378-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655615300",
+      "size": "22329",
+      "md5": "6beec9617c95e32df08bb3c4cfd6c78b",
+      "crc32": "b86c06b9",
+      "sha1": "5c354c33386ea3c5aa1c27d2911e40f635646bd8",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T01:08:16.723378-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655615302",
+      "size": "10497",
+      "md5": "464fbbd7d31f93859259c6c9e175812d",
+      "crc32": "68b59731",
+      "sha1": "1ee297f64dc02c605d01b6355f00b99a17942de5",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T01:08:16.723378-04:00.jpg",
+      "source": "original",
+      "mtime": "1655615298",
+      "size": "274808",
+      "md5": "63500c0545cf50ee9dd66a22e0045dc1",
+      "crc32": "d01eb756",
+      "sha1": "c3e745ba8b82fc7325ed38a58231950a2ca45709",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-19T01:08:16.723378-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-19T01:08:16.723378-04:00.jpg",
+      "mtime": "1655615385",
+      "size": "10239",
+      "md5": "036ba987d6a8216f2ee1c90e7516487d",
+      "crc32": "dc9e053c",
+      "sha1": "763055f591c9852531210e694f5eeb378b6d3236"
+    },
+    {
+      "name": "gridnews-2022-06-19T05:02:05.703203-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655629329",
+      "size": "22329",
+      "md5": "6beec9617c95e32df08bb3c4cfd6c78b",
+      "crc32": "b86c06b9",
+      "sha1": "5c354c33386ea3c5aa1c27d2911e40f635646bd8",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T05:02:05.703203-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655629332",
+      "size": "10497",
+      "md5": "464fbbd7d31f93859259c6c9e175812d",
+      "crc32": "68b59731",
+      "sha1": "1ee297f64dc02c605d01b6355f00b99a17942de5",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T05:02:05.703203-04:00.jpg",
+      "source": "original",
+      "mtime": "1655629327",
+      "size": "274808",
+      "md5": "63500c0545cf50ee9dd66a22e0045dc1",
+      "crc32": "d01eb756",
+      "sha1": "c3e745ba8b82fc7325ed38a58231950a2ca45709",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-19T05:02:05.703203-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-19T05:02:05.703203-04:00.jpg",
+      "mtime": "1655629385",
+      "size": "10239",
+      "md5": "036ba987d6a8216f2ee1c90e7516487d",
+      "crc32": "dc9e053c",
+      "sha1": "763055f591c9852531210e694f5eeb378b6d3236"
+    },
+    {
+      "name": "gridnews-2022-06-19T09:10:49.206941-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655644252",
+      "size": "22158",
+      "md5": "37224c56056b31e1e006c15ec64513a9",
+      "crc32": "8e05a233",
+      "sha1": "04e1dfaebf12ff62e9ad7b90362c97c3ec8c8e7e",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T09:10:49.206941-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655644253",
+      "size": "10348",
+      "md5": "1b593220ac7824d1894af82e5536aef9",
+      "crc32": "c7344103",
+      "sha1": "19efa888527441a6c841d031468a26010b1b3d6a",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T09:10:49.206941-04:00.jpg",
+      "source": "original",
+      "mtime": "1655644250",
+      "size": "290138",
+      "md5": "b82a01769b452a3bc421e254939070c3",
+      "crc32": "7971df5d",
+      "sha1": "b29348f3f4ca7562fc74ff027c62a2898b2c4ef9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-19T09:10:49.206941-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-19T09:10:49.206941-04:00.jpg",
+      "mtime": "1655644299",
+      "size": "10446",
+      "md5": "dc633f7c4e08cdc9a539298e97e601b6",
+      "crc32": "805be060",
+      "sha1": "030b006d97570f189b348d5d1b33cf1dabba5491"
+    },
+    {
+      "name": "gridnews-2022-06-19T13:06:16.199925-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655658380",
+      "size": "22079",
+      "md5": "0df775194308d73913febacd5cd66314",
+      "crc32": "ba8fb95f",
+      "sha1": "9563340508ed1a88a76ad7a697260ff2379a66a5",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T13:06:16.199925-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655658382",
+      "size": "10348",
+      "md5": "1b593220ac7824d1894af82e5536aef9",
+      "crc32": "c7344103",
+      "sha1": "19efa888527441a6c841d031468a26010b1b3d6a",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T13:06:16.199925-04:00.jpg",
+      "source": "original",
+      "mtime": "1655658378",
+      "size": "290138",
+      "md5": "b82a01769b452a3bc421e254939070c3",
+      "crc32": "7971df5d",
+      "sha1": "b29348f3f4ca7562fc74ff027c62a2898b2c4ef9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-19T13:06:16.199925-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-19T13:06:16.199925-04:00.jpg",
+      "mtime": "1655658425",
+      "size": "10446",
+      "md5": "dc633f7c4e08cdc9a539298e97e601b6",
+      "crc32": "805be060",
+      "sha1": "030b006d97570f189b348d5d1b33cf1dabba5491"
+    },
+    {
+      "name": "gridnews-2022-06-19T17:00:10.313430-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655672413",
+      "size": "22158",
+      "md5": "37224c56056b31e1e006c15ec64513a9",
+      "crc32": "8e05a233",
+      "sha1": "04e1dfaebf12ff62e9ad7b90362c97c3ec8c8e7e",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T17:00:10.313430-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655672415",
+      "size": "10348",
+      "md5": "1b593220ac7824d1894af82e5536aef9",
+      "crc32": "c7344103",
+      "sha1": "19efa888527441a6c841d031468a26010b1b3d6a",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T17:00:10.313430-04:00.jpg",
+      "source": "original",
+      "mtime": "1655672412",
+      "size": "290138",
+      "md5": "b82a01769b452a3bc421e254939070c3",
+      "crc32": "7971df5d",
+      "sha1": "b29348f3f4ca7562fc74ff027c62a2898b2c4ef9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-19T17:00:10.313430-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-19T17:00:10.313430-04:00.jpg",
+      "mtime": "1655672468",
+      "size": "10446",
+      "md5": "dc633f7c4e08cdc9a539298e97e601b6",
+      "crc32": "805be060",
+      "sha1": "030b006d97570f189b348d5d1b33cf1dabba5491"
+    },
+    {
+      "name": "gridnews-2022-06-19T19:25:05.409640-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655681108",
+      "size": "22158",
+      "md5": "37224c56056b31e1e006c15ec64513a9",
+      "crc32": "8e05a233",
+      "sha1": "04e1dfaebf12ff62e9ad7b90362c97c3ec8c8e7e",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T19:25:05.409640-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655681110",
+      "size": "10532",
+      "md5": "ce56f23a3d30804bd082068a9c94f3a0",
+      "crc32": "3dfe31a5",
+      "sha1": "de5df0002483351783cc6a1b73aa34d16be12b2d",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-19T19:25:05.409640-04:00.jpg",
+      "source": "original",
+      "mtime": "1655681107",
+      "size": "290138",
+      "md5": "b82a01769b452a3bc421e254939070c3",
+      "crc32": "7971df5d",
+      "sha1": "b29348f3f4ca7562fc74ff027c62a2898b2c4ef9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-19T19:25:05.409640-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-19T19:25:05.409640-04:00.jpg",
+      "mtime": "1655681165",
+      "size": "10446",
+      "md5": "dc633f7c4e08cdc9a539298e97e601b6",
+      "crc32": "805be060",
+      "sha1": "030b006d97570f189b348d5d1b33cf1dabba5491"
+    },
+    {
       "name": "gridnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13e34627a9392ba77a86eb2ae75d77e1550feb42",
-      "mtime": "1655586192",
-      "size": "3303",
-      "md5": "bde62d6af1237c21a03a08ec2723629c",
-      "crc32": "ab58cfa0",
-      "sha1": "0d12b29418d30184ac0b1ed597349790b48949b9",
+      "btih": "75e6da508a93dd2e46eca2ea733749183e447033",
+      "mtime": "1655681181",
+      "size": "9194",
+      "md5": "57732395abb17d4d7b8b3dbd07ff6215",
+      "crc32": "e2121c22",
+      "sha1": "2692f33dcba6480a233cb536fb57c8f8f6fa8381",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gridnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "306d010b2a305ec364329e620d3bd41b",
+      "md5": "a41f167b2c46d02abb499a660f707a10",
       "summation": "md5"
     },
     {
       "name": "gridnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655586117",
-      "size": "28672",
-      "md5": "f154fd5bf40789078b2542fa6167526d",
-      "crc32": "1329d04a",
-      "sha1": "5d89ba256c3abafbfb9ce0f33cc6ec202b21b8a8",
+      "mtime": "1655681113",
+      "size": "57344",
+      "md5": "8c98ff0dc0ff28441acaf429f8b9ab0c",
+      "crc32": "7b4dd4bc",
+      "sha1": "b3a904c00ea21a90204dfadd59cd130a979f7f0f",
       "format": "Metadata"
     },
     {
@@ -138,9 +432,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 13,
-  "item_last_updated": 1655586192,
-  "item_size": 686294,
+  "files_count": 41,
+  "item_last_updated": 1655681181,
+  "item_size": 3007125,
   "metadata": {
     "identifier": "gridnews-2022",
     "collection": [
@@ -158,7 +452,7 @@
     "addeddate": "2022-06-18 17:08:01"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 1690022552,
+  "uniq": 1359209115,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"
