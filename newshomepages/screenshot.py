@@ -64,14 +64,18 @@ def _shoot(site: typing.Dict, output_dir: str):
         click.echo("Launching Chromium browser")
         data_dir = tempfile.mkdtemp()
         click.echo(f"Data directory created at {data_dir}")
-        path_to_extension = utils.EXTENSIONS_PATH / "adguard"
+        extensions_list = [
+            utils.EXTENSIONS_PATH / "adguard",
+            utils.EXTENSIONS_PATH / "adguardextra",
+        ]
+        extensions_str = ",".join(map(str, extensions_list))
         context = playwright.chromium.launch_persistent_context(
             data_dir,
             channel="chrome",
             headless=False,
             args=[
-                f"--disable-extensions-except={path_to_extension}",
-                f"--load-extension={path_to_extension}",
+                f"--disable-extensions-except={extensions_str}",
+                f"--load-extension={extensions_str}",
                 "--disable-gpu",
                 "--enable-logging=stderr",
                 "--log-level=0",
