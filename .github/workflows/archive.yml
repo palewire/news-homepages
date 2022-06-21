@@ -3,7 +3,7 @@ name: Archive
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 */4 * * *"
+    - cron: "30 */8 * * *"
 
 jobs:
   sources:
