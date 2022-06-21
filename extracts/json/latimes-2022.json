@@ -1,5 +1,5 @@
 {
-  "created": 1655684261,
+  "created": 1655760843,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -13616,31 +13616,283 @@
       "sha1": "5c0002180f5349c45ffb00cd72f495f0094b2a0b"
     },
     {
+      "name": "latimes-2022-06-19T18:29:07.417592-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655688551",
+      "size": "39850",
+      "md5": "52b9acebc6e0b032c12baaf5bc3a6fa5",
+      "crc32": "7cf5fb34",
+      "sha1": "1fa3dafdaf7603739a3c08c04795ce1b31f36856",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-19T18:29:07.417592-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655688552",
+      "size": "51521",
+      "md5": "a53216669f0ac795835e35a37fb14a05",
+      "crc32": "b45f745d",
+      "sha1": "0b1233cbf2d39cb26ca66074d7063d74aec19339",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-19T18:29:07.417592-07:00.jpg",
+      "source": "original",
+      "mtime": "1655688549",
+      "size": "291388",
+      "md5": "02b69830303ecea81c6679d335b02d68",
+      "crc32": "c1093861",
+      "sha1": "02d845da92972222aefd1b20822874b3f2d93ea8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-06-19T18:29:07.417592-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-06-19T18:29:07.417592-07:00.jpg",
+      "mtime": "1655688634",
+      "size": "8305",
+      "md5": "042add136070cfa2e38268792b53f509",
+      "crc32": "e0f26076",
+      "sha1": "6ab960fded4a5b72482c890008c832ac95d5bb76"
+    },
+    {
+      "name": "latimes-2022-06-19T22:29:23.099923-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655702965",
+      "size": "40007",
+      "md5": "a1a865dac374af18f45c9e709483110e",
+      "crc32": "94ca2b71",
+      "sha1": "6adf5c16cc0d78eac30a932184684981ddf7a3aa",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-19T22:29:23.099923-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655702967",
+      "size": "51274",
+      "md5": "3303615aee6346a37d1694df2c98fb37",
+      "crc32": "09d9b109",
+      "sha1": "84936de31cadcf314f1c3f3c740ac63ab25d54eb",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-19T22:29:23.099923-07:00.jpg",
+      "source": "original",
+      "mtime": "1655702964",
+      "size": "288492",
+      "md5": "b10338c5a44b41731b0b0aae746be04e",
+      "crc32": "9356bdc4",
+      "sha1": "795e05e82c9afc40fc14a2112fa99e95e9101c64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-06-19T22:29:23.099923-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-06-19T22:29:23.099923-07:00.jpg",
+      "mtime": "1655703045",
+      "size": "8292",
+      "md5": "fb692fed69e4879407bcd30b76ca4fa0",
+      "crc32": "6cebe491",
+      "sha1": "33776ea199956a72b3df72edbf8c6df7c096d45d"
+    },
+    {
+      "name": "latimes-2022-06-20T02:44:14.007343-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655718258",
+      "size": "39855",
+      "md5": "4361239de12309e2449b384ffb3caca7",
+      "crc32": "b93f7ce3",
+      "sha1": "5afaa3b6270bfcaa2340c0b65eb5349a3b84e467",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-20T02:44:14.007343-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655718260",
+      "size": "50362",
+      "md5": "fdc93ddbf2ae250709075a0759062d98",
+      "crc32": "467a3c71",
+      "sha1": "4b8cd2bdc73d85079b027804d7a6fc6895a40e05",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-20T02:44:14.007343-07:00.jpg",
+      "source": "original",
+      "mtime": "1655718256",
+      "size": "305143",
+      "md5": "1c9bd3ab14d70be91f1c451f424f6cb1",
+      "crc32": "8f0f379d",
+      "sha1": "b130243320e7015fa2d7c718475d823c1f6b27af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-06-20T02:44:14.007343-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-06-20T02:44:14.007343-07:00.jpg",
+      "mtime": "1655718348",
+      "size": "8661",
+      "md5": "f03a536297ab31248e2ab8025c59be21",
+      "crc32": "68bd361e",
+      "sha1": "d3e176e250e2a52ac077e3d70bc40080e852c917"
+    },
+    {
+      "name": "latimes-2022-06-20T06:44:56.286091-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655732699",
+      "size": "39001",
+      "md5": "1fbb3c4d08d50a8421eb460241312229",
+      "crc32": "3a0c5aca",
+      "sha1": "d093c8697f281111ff646eb505e5b5dd5d8d8ee0",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-20T06:44:56.286091-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655732701",
+      "size": "49581",
+      "md5": "8cdcc0cf72813286c0ba8c0b1299010c",
+      "crc32": "3fa9371f",
+      "sha1": "3ac2bfcf8a5b47973e27738ce8b50abb9356cf5c",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-20T06:44:56.286091-07:00.jpg",
+      "source": "original",
+      "mtime": "1655732697",
+      "size": "326070",
+      "md5": "5ef1a02c95102ca8bdf277aea9394df4",
+      "crc32": "75d0526d",
+      "sha1": "18c2839806b56de483e670d1bd94a436bb3ed155",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-06-20T06:44:56.286091-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-06-20T06:44:56.286091-07:00.jpg",
+      "mtime": "1655732806",
+      "size": "8581",
+      "md5": "707bb55c017622f9752e7b58aeac7ea7",
+      "crc32": "0a4deb60",
+      "sha1": "435f436fcf45ee9832febfac9aeafbbb0785773e"
+    },
+    {
+      "name": "latimes-2022-06-20T10:28:45.941899-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655746130",
+      "size": "38700",
+      "md5": "826210034254a651284cdda248397ba5",
+      "crc32": "c02c1885",
+      "sha1": "1a3ae5e436213cd1eec7c1ecca06eb13e672f270",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-20T10:28:45.941899-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655746134",
+      "size": "49286",
+      "md5": "48827c547d343010846dcffdb4397c53",
+      "crc32": "ac4e099c",
+      "sha1": "eed1547b9b4103e48a5b4b80ccf5000c3750671c",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-20T10:28:45.941899-07:00.jpg",
+      "source": "original",
+      "mtime": "1655746128",
+      "size": "322992",
+      "md5": "f9af9c38b55e345e082a2b47749d5a1e",
+      "crc32": "8b8bd016",
+      "sha1": "e53cdad6843964752d3912b79658ccc243045d8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-06-20T10:28:45.941899-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-06-20T10:28:45.941899-07:00.jpg",
+      "mtime": "1655746219",
+      "size": "8437",
+      "md5": "f2594107dbdd0e380ca330049165bf6d",
+      "crc32": "ecd02ed6",
+      "sha1": "b12b81a753c2631f3131a9d2c1342fe091268d46"
+    },
+    {
+      "name": "latimes-2022-06-20T14:31:22.392610-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655760687",
+      "size": "39625",
+      "md5": "ec62b0afab951f88858454e84ee25ebe",
+      "crc32": "eb9640fa",
+      "sha1": "cbd415383e7ffa3a56d16669a5f41a2c31900968",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-20T14:31:22.392610-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655760689",
+      "size": "50469",
+      "md5": "dceb27c23541a21406a7e570506d7bca",
+      "crc32": "7d819e21",
+      "sha1": "68652c8755468f0e818254c54d2280ed54e5ee98",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-06-20T14:31:22.392610-07:00.jpg",
+      "source": "original",
+      "mtime": "1655760684",
+      "size": "333069",
+      "md5": "1ec27ce45edd7b799e3c8e7a0c584f33",
+      "crc32": "c30ff8b3",
+      "sha1": "a4585281f2bc95a0b342301e294b2ea2df5c6506",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-06-20T14:31:22.392610-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-06-20T14:31:22.392610-07:00.jpg",
+      "mtime": "1655760787",
+      "size": "8485",
+      "md5": "9ad984a5f782987531ead7c94945cae3",
+      "crc32": "7f78f686",
+      "sha1": "c08d43bf1817503bafc891e0041b1afbdef1a832"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "413c27ff2d101128b505f33fe5a01303f2a1a73b",
-      "mtime": "1655681245",
-      "size": "273641",
-      "md5": "99f83f7103c08775a96717e342fa5eb3",
-      "crc32": "53e2169a",
-      "sha1": "14b7b4b7a69b6a957bd8e3d0253b1d5cbcda7289",
+      "btih": "e1941cd9156cae963c83f7341b757f5c252eabdf",
+      "mtime": "1655760823",
+      "size": "278691",
+      "md5": "5c317cf0a09acce71b0d66a28f5c7be6",
+      "crc32": "07939780",
+      "sha1": "fd1076706197943a69ff5efee5a39d5d2bcf3e55",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e5c0db36b0eb7ab2499e8741191d0fe4",
+      "md5": "2f1e50d3410cf6e36ee59e30c724a479",
       "summation": "md5"
     },
     {
       "name": "latimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655681146",
-      "size": "1462272",
-      "md5": "05467d60921061490babf35d0250422e",
-      "crc32": "fd54a6f6",
-      "sha1": "a422f27452753cc3c39dcb3b991720d8feb631a7",
+      "mtime": "1655760694",
+      "size": "1486848",
+      "md5": "608aaf6f5e0481c02e1834667fd163ad",
+      "crc32": "a2ef9616",
+      "sha1": "591f99e1fe65444f4fa80aad213546131474bc0a",
       "format": "Metadata"
     },
     {
@@ -13654,1435 +13906,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1297,
-  "item_last_updated": 1655681245,
-  "item_size": 155204985,
-  "latimes-2022": [
-    {
-      "text": "Business",
-      "url": "https://www.latimes.com/business"
-    },
-    {
-      "text": "California",
-      "url": "https://www.latimes.com/california"
-    },
-    {
-      "text": "Climate & Environment",
-      "url": "https://www.latimes.com/environment"
-    },
-    {
-      "text": "Entertainment & Arts",
-      "url": "https://www.latimes.com/entertainment-arts"
-    },
-    {
-      "text": "En Espa\u00f1ol",
-      "url": "https://www.latimes.com/espanol/"
-    },
-    {
-      "text": "Food",
-      "url": "https://www.latimes.com/food"
-    },
-    {
-      "text": "Housing & Homelessness",
-      "url": "https://www.latimes.com/homeless-housing"
-    },
-    {
-      "text": "Image",
-      "url": "https://www.latimes.com/lifestyle/image"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "https://www.latimes.com/lifestyle"
-    },
-    {
-      "text": "Obituaries",
-      "url": "https://www.latimes.com/obituaries"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.latimes.com/opinion"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.latimes.com/politics"
-    },
-    {
-      "text": "Science",
-      "url": "https://www.latimes.com/science"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.latimes.com/sports"
-    },
-    {
-      "text": "Travel",
-      "url": "https://www.latimes.com/travel"
-    },
-    {
-      "text": "World & Nation",
-      "url": "https://www.latimes.com/world-nation"
-    },
-    {
-      "text": "All Sections",
-      "url": "https://www.latimes.com/sitemap"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://membership.latimes.com/newsletters/?_ga=2.251099398.1896328230.1613286933-114874840.1613286932"
-    },
-    {
-      "text": "Photography",
-      "url": "https://www.latimes.com/california/photography"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.latimes.com/podcasts"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.latimes.com/video"
-    },
-    {
-      "text": "About Us ",
-      "url": "https://www.latimes.com/about"
-    },
-    {
-      "text": "About Us",
-      "url": "https://www.latimes.com/about"
-    },
-    {
-      "text": "Archives",
-      "url": "https://www.latimes.com/archives"
-    },
-    {
-      "text": "Company News",
-      "url": "https://www.latimes.com/about/pressreleases"
-    },
-    {
-      "text": "eNewspaper",
-      "url": "https://enewspaper.latimes.com/desktop/latimes/default.aspx?pubid=50435180-e58e-48b5-8e0c-236bf740270e"
-    },
-    {
-      "text": "For the Record",
-      "url": "https://www.latimes.com/about/for-the-record/"
-    },
-    {
-      "text": "Got a Tip? ",
-      "url": "https://www.latimes.com/tips/"
-    },
-    {
-      "text": "L.A. Times Careers",
-      "url": "https://nantmedia.wd5.myworkdayjobs.com/LATimesCareers"
-    },
-    {
-      "text": "L.A. Times Store",
-      "url": "https://store.latimes.com/?utm_source=latimes&utm_medium=homepage&utm_campaign=homepage_subnav"
-    },
-    {
-      "text": "LA Times Studios",
-      "url": "https://www.latimes.com/about/studios"
-    },
-    {
-      "text": "News App: Apple IOS",
-      "url": "https://apps.apple.com/us/app/la-times/id373238146"
-    },
-    {
-      "text": "News App: Google Play",
-      "url": "https://play.google.com/store/apps/details?id=com.apptivateme.next.la&hl=en_US"
-    },
-    {
-      "text": "Newsroom Directory",
-      "url": "https://www.latimes.com/newsroom-directory"
-    },
-    {
-      "text": "Public Affairs",
-      "url": "https://www.latimes.com/about/public-affairs"
-    },
-    {
-      "text": "Rights, Clearance & Permissions",
-      "url": "https://www.latimes.com/about/how-to-obtain-rights-permissions"
-    },
-    {
-      "text": " Short Docs",
-      "url": "https://www.latimes.com/about/shortdocs"
-    },
-    {
-      "text": "About Us",
-      "url": "https://www.latimes.com/about"
-    },
-    {
-      "text": "Archives",
-      "url": "https://www.latimes.com/archives"
-    },
-    {
-      "text": "Company News",
-      "url": "https://www.latimes.com/about/pressreleases"
-    },
-    {
-      "text": "eNewspaper",
-      "url": "https://enewspaper.latimes.com/desktop/latimes/default.aspx?pubid=50435180-e58e-48b5-8e0c-236bf740270e"
-    },
-    {
-      "text": "For the Record",
-      "url": "https://www.latimes.com/about/for-the-record/"
-    },
-    {
-      "text": "Got a Tip? ",
-      "url": "https://www.latimes.com/tips/"
-    },
-    {
-      "text": "L.A. Times Careers",
-      "url": "https://nantmedia.wd5.myworkdayjobs.com/LATimesCareers"
-    },
-    {
-      "text": "L.A. Times Store",
-      "url": "https://store.latimes.com/?utm_source=latimes&utm_medium=homepage&utm_campaign=homepage_subnav"
-    },
-    {
-      "text": "LA Times Studios",
-      "url": "https://www.latimes.com/about/studios"
-    },
-    {
-      "text": "News App: Apple IOS",
-      "url": "https://apps.apple.com/us/app/la-times/id373238146"
-    },
-    {
-      "text": "News App: Google Play",
-      "url": "https://play.google.com/store/apps/details?id=com.apptivateme.next.la&hl=en_US"
-    },
-    {
-      "text": "Newsroom Directory",
-      "url": "https://www.latimes.com/newsroom-directory"
-    },
-    {
-      "text": "Public Affairs",
-      "url": "https://www.latimes.com/about/public-affairs"
-    },
-    {
-      "text": "Rights, Clearance & Permissions",
-      "url": "https://www.latimes.com/about/how-to-obtain-rights-permissions"
-    },
-    {
-      "text": " Short Docs",
-      "url": "https://www.latimes.com/about/shortdocs"
-    },
-    {
-      "text": "Advertising",
-      "url": "https://placeanad.latimes.com/"
-    },
-    {
-      "text": "Place an Ad",
-      "url": "https://placeanad.latimes.com/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "https://classifieds.latimes.com/"
-    },
-    {
-      "text": "Coupons",
-      "url": "https://www.latimes.com/coupon-codes#nt=navf0"
-    },
-    {
-      "text": "People on the Move",
-      "url": "https://peopleonthemove.latimes.com/"
-    },
-    {
-      "text": "Find/Post Jobs",
-      "url": "https://jobs.latimes.com/"
-    },
-    {
-      "text": "Local Ads Marketplace",
-      "url": "https://marketplace.latimes.com/"
-    },
-    {
-      "text": "Media Kit: Why the L.A. Times?",
-      "url": "https://mediakit.latimes.com/"
-    },
-    {
-      "text": "Hot Property Sections",
-      "url": "https://marketplace.latimes.com/places/types:23"
-    },
-    {
-      "text": "Place an Open House",
-      "url": "https://placeanad.latimes.com/open-house"
-    },
-    {
-      "text": "Sotheby\u2019s International Realty",
-      "url": "https://marketplace.latimes.com/places/categories:43"
-    },
-    {
-      "text": "Place an Ad",
-      "url": "https://placeanad.latimes.com/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "https://classifieds.latimes.com/"
-    },
-    {
-      "text": "Coupons",
-      "url": "https://www.latimes.com/coupon-codes#nt=navf0"
-    },
-    {
-      "text": "People on the Move",
-      "url": "https://peopleonthemove.latimes.com/"
-    },
-    {
-      "text": "Find/Post Jobs",
-      "url": "https://jobs.latimes.com/"
-    },
-    {
-      "text": "Local Ads Marketplace",
-      "url": "https://marketplace.latimes.com/"
-    },
-    {
-      "text": "Media Kit: Why the L.A. Times?",
-      "url": "https://mediakit.latimes.com/"
-    },
-    {
-      "text": "Hot Property Sections",
-      "url": "https://marketplace.latimes.com/places/types:23"
-    },
-    {
-      "text": "Place an Open House",
-      "url": "https://placeanad.latimes.com/open-house"
-    },
-    {
-      "text": "Sotheby\u2019s International Realty",
-      "url": "https://marketplace.latimes.com/places/categories:43"
-    },
-    {
-      "text": "Bestcovery",
-      "url": "https://www.latimes.com/bestcovery/?utm_source=on_site&utm_medium=flyout&utm_campaign=bestcovery"
-    },
-    {
-      "text": "B2B Publishing",
-      "url": "https://www.latimes.com/b2bpublishing"
-    },
-    {
-      "text": "Business Visionaries",
-      "url": "https://www.latimes.com/b2b/business-visionaries"
-    },
-    {
-      "text": "Hot Property",
-      "url": "https://www.latimes.com/brandpublishing/hotproperty"
-    },
-    {
-      "text": "Crossword & Games",
-      "url": "https://www.latimes.com/games"
-    },
-    {
-      "text": "L.A. Times Events",
-      "url": "https://www.latimes.com/events-los-angeles-times"
-    },
-    {
-      "text": "L.A. Times Store",
-      "url": "https://store.latimes.com/?utm_source=latimes&utm_medium=homepage&utm_campaign=homepage_nav"
-    },
-    {
-      "text": "Subscriptions",
-      "url": "https://www.latimes.com/flyoutsubscribe"
-    },
-    {
-      "text": "Manage Subscription",
-      "url": "https://membership.latimes.com/"
-    },
-    {
-      "text": "EZPAY",
-      "url": "https://membership.latimes.com/billing-info"
-    },
-    {
-      "text": "Delivery Issue",
-      "url": "https://membership.latimes.com/subscription-info"
-    },
-    {
-      "text": "eNewspaper",
-      "url": "https://enewspaper.latimes.com/"
-    },
-    {
-      "text": "Students & Educators",
-      "url": "https://www.latimes.com/about/marketing/los-angeles-times-for-students-and-educators"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://www.latimes.com/flyoutsubscribe"
-    },
-    {
-      "text": "Subscriber Terms",
-      "url": "https://www.latimes.com/subscriber-terms-and-conditions"
-    },
-    {
-      "text": "Gift Subscription Terms",
-      "url": "https://www.latimes.com/gift-subscription-terms"
-    },
-    {
-      "text": "Manage Subscription",
-      "url": "https://membership.latimes.com/"
-    },
-    {
-      "text": "EZPAY",
-      "url": "https://membership.latimes.com/billing-info"
-    },
-    {
-      "text": "Delivery Issue",
-      "url": "https://membership.latimes.com/subscription-info"
-    },
-    {
-      "text": "eNewspaper",
-      "url": "https://enewspaper.latimes.com/"
-    },
-    {
-      "text": "Students & Educators",
-      "url": "https://www.latimes.com/about/marketing/los-angeles-times-for-students-and-educators"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://www.latimes.com/flyoutsubscribe"
-    },
-    {
-      "text": "Subscriber Terms",
-      "url": "https://www.latimes.com/subscriber-terms-and-conditions"
-    },
-    {
-      "text": "Gift Subscription Terms",
-      "url": "https://www.latimes.com/gift-subscription-terms"
-    },
-    {
-      "text": "Special Supplements",
-      "url": "https://www.latimes.com/specialsupplements"
-    },
-    {
-      "text": "Best of the Southland",
-      "url": "https://www.latimes.com/bestofthesouthland"
-    },
-    {
-      "text": "Healthy Living",
-      "url": "https://www.latimes.com/seniorresources"
-    },
-    {
-      "text": "Las Vegas Guide",
-      "url": "https://www.latimes.com/vegasguide"
-    },
-    {
-      "text": "Best of the Southland",
-      "url": "https://www.latimes.com/bestofthesouthland"
-    },
-    {
-      "text": "Healthy Living",
-      "url": "https://www.latimes.com/seniorresources"
-    },
-    {
-      "text": "Las Vegas Guide",
-      "url": "https://www.latimes.com/vegasguide"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://www.latimes.com/terms-of-service"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.latimes.com/privacy-policy"
-    },
-    {
-      "text": "CA Notice of Collection",
-      "url": "https://www.latimes.com/privacy-policy#california-notice-of-collection"
-    },
-    {
-      "text": "Do Not Sell My Personal Information",
-      "url": "https://membership.latimes.com/privacy-settings"
-    },
-    {
-      "text": "",
-      "url": "https://www.latimes.com/"
-    },
-    {
-      "text": "California",
-      "url": "https://www.latimes.com/california"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.latimes.com/entertainment-arts"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.latimes.com/sports"
-    },
-    {
-      "text": "Food",
-      "url": "https://www.latimes.com/food"
-    },
-    {
-      "text": "Climate ",
-      "url": "https://www.latimes.com/environment"
-    },
-    {
-      "text": "Image",
-      "url": "https://www.latimes.com/lifestyle/image"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.latimes.com/opinion"
-    },
-    {
-      "text": "|",
-      "url": "#"
-    },
-    {
-      "text": "Bestcovery",
-      "url": "https://www.latimes.com/bestcovery/?utm_source=on_site&utm_medium=navigation_bar&utm_campaign=bestcovery"
-    },
-    {
-      "text": "Coupons",
-      "url": "https://www.latimes.com/coupon-codes"
-    },
-    {
-      "text": "Crossword",
-      "url": "https://www.latimes.com/games"
-    },
-    {
-      "text": "eNewspaper",
-      "url": "https://enewspaper.latimes.com/desktop/latimes/default.aspx?pubid=50435180-e58e-48b5-8e0c-236bf740270e"
-    },
-    {
-      "text": "Subscribe",
-      "url": "#"
-    },
-    {
-      "text": "Log In",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Profile",
-      "url": "#"
-    },
-    {
-      "text": "Newsletters",
-      "url": "#"
-    },
-    {
-      "text": "Sign Out",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://www.latimes.com/"
-    },
-    {
-      "text": "Weather\n      73\u00b0F",
-      "url": "https://www.accuweather.com/en/us/los-angeles/90012/current-weather/347625?lang=en-us&partner=web_latimes_news"
-    },
-    {
-      "text": "COVID-19",
-      "url": "https://www.latimes.com/topic/covid-19-pandemic"
-    },
-    {
-      "text": "For Subscribers",
-      "url": "https://www.latimes.com/topic/for-la-times-subscribers"
-    },
-    {
-      "text": "Drought",
-      "url": "https://www.latimes.com/topic/california-drought"
-    },
-    {
-      "text": "Jan. 6 hearings",
-      "url": "https://www.latimes.com/politics/story/2022-06-06/full-coverage-of-jan-6-committee-hearings"
-    },
-    {
-      "text": "Emmys",
-      "url": "https://www.latimes.com/topic/emmys"
-    },
-    {
-      "text": "All-Star game",
-      "url": "https://www.latimes.com/sports/dodgers/story/2022-06-19/mlb-all-star-game-2022-festivities-events-schedule"
-    },
-    {
-      "text": "            ",
-      "url": "https://www.latimes.com/projects/honoring-black-la-art-music-culture-activism-church/"
-    },
-    {
-      "text": "BEHOLD: Black Los Angeles in photographs",
-      "url": "https://www.latimes.com/projects/honoring-black-la-art-music-culture-activism-church/"
-    },
-    {
-      "text": "For many Black Angelenos, being seen is still half the fight",
-      "url": "https://www.latimes.com/entertainment-arts/story/2022-06-19/for-many-black-angelenos-being-seen-is-still-half-the-fight"
-    },
-    {
-      "text": "Healthy food is hard to come by in South L.A. These 3 activists are changing that",
-      "url": "https://www.latimes.com/california/story/2022-06-19/healthy-food-in-south-l-a"
-    },
-    {
-      "text": "Say it with your chest. Here are the 19 best Juneteenth T-shirts of the weekend ",
-      "url": "https://www.latimes.com/lifestyle/image/story/2022-06-19/say-it-with-your-chest-here-are-the-19-best-juneteenth-t-shirts-of-the-weekend"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-19/fathers-day-rock-music-little-richard"
-    },
-    {
-      "text": "Column One: A son\u2019s gift on Father\u2019s Day? The art of listening",
-      "url": "https://www.latimes.com/california/story/2022-06-19/fathers-day-rock-music-little-richard"
-    },
-    {
-      "text": "Last minute gifts for 7 different kinds of book-loving dads",
-      "url": "https://www.latimes.com/books/la-et-jc-father-day-gifts-books-20190611-story.html"
-    },
-    {
-      "text": "While you\u2019re grilling that steak for dad, grill the side dishes too",
-      "url": "https://www.latimes.com/recipe/list/grilling-fathers-day-grill-steak-side-dishes"
-    },
-    {
-      "text": "The 10 best houseplants for plant dads",
-      "url": "https://www.latimes.com/lifestyle/story/2021-06-15/fathers-day-gifts-10-houseplants-la-stores"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-19/community-remembers-el-monte-police-officers"
-    },
-    {
-      "text": "\u2018The best of us\u2019: Hundreds gather to honor slain El Monte officers",
-      "url": "https://www.latimes.com/california/story/2022-06-19/community-remembers-el-monte-police-officers"
-    },
-    {
-      "text": "Horrific details emerge about deadly ambush of officers",
-      "url": "https://www.latimes.com/california/story/2022-06-18/gunman-killed-el-monte-police-officers-seconds-after-they-entered-room"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/politics/story/2022-06-19/russia-and-the-west-are-in-a-battle-of-wills-over-ukraine-but-the-west-is-showing-signs-of-going-wobbly"
-    },
-    {
-      "text": "McManus: War in Ukraine is a battle of wills and economic pain \u2014 and the West is showing fatigue",
-      "url": "https://www.latimes.com/politics/story/2022-06-19/russia-and-the-west-are-in-a-battle-of-wills-over-ukraine-but-the-west-is-showing-signs-of-going-wobbly"
-    },
-    {
-      "text": "Ukraine mourns a young activist who sacrificed his best years ",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-18/ukraine-mourns-a-young-activist-who-sacrificed-his-best-years-in-the-cause-of-freedom"
-    },
-    {
-      "text": "Zelensky Father\u2019s Day post spotlights family ties amid war",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/zelensky-fathers-day-post-spotlights-family-ties-amid-war"
-    },
-    {
-      "text": " Opinion",
-      "url": "https://www.latimes.com/opinion"
-    },
-    {
-      "text": "Editorial: Pay attention to parents\u2019 dissatisfaction with California schools",
-      "url": "https://www.latimes.com/opinion/story/2022-06-19/editorial-tony-thurmond-dissatisfaction-california-schools"
-    },
-    {
-      "text": "Op-Ed: What my father carried in his secondhand briefcase told me everything ",
-      "url": "https://www.latimes.com/opinion/story/2022-06-19/fathers-day-relationship-son-ambition-writing-briefcase"
-    },
-    {
-      "text": "My family\u2019s story, starting with an African girl on a slave ship, was almost lost",
-      "url": "https://www.latimes.com/opinion/story/2022-06-19/african-american-family-oral-history"
-    },
-    {
-      "text": "Op-Ed: \u2018They\u2019 said they had my son. \u2018They\u2019 demanded money. So began the days of waiting and crying. ",
-      "url": "https://www.latimes.com/opinion/story/2022-06-19/homelessness-virtual-kidnapping-mental-illness-phone-scams-lapd-sidewalk-project"
-    },
-    {
-      "text": "Op-Ed: Being child-free lets me live my most authentic life",
-      "url": "https://www.latimes.com/opinion/story/2022-06-18/childfree-lonely-community-auntie-children"
-    },
-    {
-      "text": " Podcasts",
-      "url": "https://www.latimes.com/podcasts"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/podcasts/story/2022-06-17/the-times-podcast-lgbt-pride-singapore"
-    },
-    {
-      "text": "The Times: To be queer in Singapore\n",
-      "url": "https://www.latimes.com/podcasts/story/2022-06-17/the-times-podcast-lgbt-pride-singapore"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/awards/story/2021-12-07/jennifer-coolidge-white-lotus-american-pie-legally-blonde-envelope-podcast"
-    },
-    {
-      "text": "The Envelope: Jennifer Coolidge dreamed of being a dramatic actor. \u2018White Lotus\u2019 was her chance",
-      "url": "https://www.latimes.com/entertainment-arts/awards/story/2021-12-07/jennifer-coolidge-white-lotus-american-pie-legally-blonde-envelope-podcast"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-19/air-taxi-los-angeles-2028-olympics"
-    },
-    {
-      "text": "Look! Up in the sky! It\u2019s an air taxi. They\u2019re coming to Los Angeles ",
-      "url": "https://www.latimes.com/california/story/2022-06-19/air-taxi-los-angeles-2028-olympics"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-06-18/the-big-takeaways-from-datelines-exclusive-with-amber-heard"
-    },
-    {
-      "text": "Amber Heard doubles down on Depp verdict: \u2018Dateline\u2019 interview takeaways ",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-06-18/the-big-takeaways-from-datelines-exclusive-with-amber-heard"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california101"
-    },
-    {
-      "text": "For Subscribers",
-      "url": "https://www.latimes.com/topic/for-la-times-subscribers"
-    },
-    {
-      "text": "The 101 best California experiences",
-      "url": "https://www.latimes.com/california101"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/science/story/2022-06-18/cdc-advisors-endorse-covid-19-vaccines-for-children"
-    },
-    {
-      "text": "CDC recommends COVID-19 vaccines for children as young as 6 months",
-      "url": "https://www.latimes.com/science/story/2022-06-18/cdc-advisors-endorse-covid-19-vaccines-for-children"
-    },
-    {
-      "text": "Q&A: What parents should know about COVID-19 shots for the youngest children",
-      "url": "https://www.latimes.com/science/story/2022-06-18/what-parents-should-know-about-covid-19-shots-for-the-youngest-children"
-    },
-    {
-      "text": "COVID vaccines may soon be available for kids under 5. What Californians need to know",
-      "url": "https://www.latimes.com/california/story/2022-06-17/what-to-know-about-kids-under-5-getting-covid-vaccines"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-18/family-seeks-justice-after-anti-asian-attack-in-north-hollywood"
-    },
-    {
-      "text": "Filipino family seeks justice after anti-Asian attack at North Hollywood drive-through",
-      "url": "https://www.latimes.com/california/story/2022-06-18/family-seeks-justice-after-anti-asian-attack-in-north-hollywood"
-    },
-    {
-      "text": "More than 200 killed in Ethiopia ethnic attack, witnesses say",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/more-than-200-killed-in-ethiopia-ethnic-attack-witnesses-say"
-    },
-    {
-      "text": "Inflation taking a bite out of new infrastructure projects",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/inflation-taking-a-bite-out-of-new-infrastructure-projects"
-    },
-    {
-      "text": "Recession not \u2018inevitable,\u2019 Treasury secretary says",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/recession-not-inevitable-treasury-secretary-says"
-    },
-    {
-      "text": "\u2018Crash\u2019 writer, director Paul Haggis arrested in sexual assault case in Italy",
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2022-06-19/paul-haggis-arrested-sexual-assault-case-italy-crash"
-    },
-    {
-      "text": "World swimming policy, in effect, bans transgender athletes from women\u2019s events",
-      "url": "https://www.latimes.com/sports/story/2022-06-19/world-swimming-bans-transgender-athletes-womens-events"
-    },
-    {
-      "text": "Dodgers vs. Guardians live updates: Dodgers re-take the lead in the seventh",
-      "url": "https://www.latimes.com/sports/dodgers/liveblog/dodgers-cleveland-guardians-live-updates-score-start-time-mlb"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/story/2022-06-19/hannah-gadsby-body-of-work-ace-hotel-nanette-douglas"
-    },
-    {
-      "text": "McNulty: At Ace Hotel, being Hannah Gadsby has never been funnier",
-      "url": "https://www.latimes.com/entertainment-arts/story/2022-06-19/hannah-gadsby-body-of-work-ace-hotel-nanette-douglas"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/food/story/2022-06-16/la-in-a-jar-how-to-make-berry-jelly"
-    },
-    {
-      "text": "Seasons of Preserves: Berry jelly",
-      "url": "https://www.latimes.com/food/story/2022-06-16/la-in-a-jar-how-to-make-berry-jelly"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/lifestyle/list/best-hikes-for-dates-los-angeles"
-    },
-    {
-      "text": "8 date-worthy L.A. hikes that\u2019ll impress your next Tinder match",
-      "url": "https://www.latimes.com/lifestyle/list/best-hikes-for-dates-los-angeles"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/lifestyle/list/20-great-bars-celebrate-la-lgbtq-community-past-present-los-angeles"
-    },
-    {
-      "text": "20 great bars that celebrate L.A.'s LGBTQ community, past and present",
-      "url": "https://www.latimes.com/lifestyle/list/20-great-bars-celebrate-la-lgbtq-community-past-present-los-angeles"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/lifestyle/story/2022-06-17/la-affairs-anne-linstatter-los-angeles-single-sex-explore-bisexuality-marriage-relationship"
-    },
-    {
-      "text": "L.A. Affairs: At 73, I fantasize about bisexuality. But what about my 50-year marriage?",
-      "url": "https://www.latimes.com/lifestyle/story/2022-06-17/la-affairs-anne-linstatter-los-angeles-single-sex-explore-bisexuality-marriage-relationship"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-18/lopez-column-barber-dreamer-west-la-homeless-veterans"
-    },
-    {
-      "text": "Lopez: \u2018The Dreamer\u2019 dispenses haircuts and healing for homeless people and veterans",
-      "url": "https://www.latimes.com/california/story/2022-06-18/lopez-column-barber-dreamer-west-la-homeless-veterans"
-    },
-    {
-      "text": " Entertainment & Arts",
-      "url": "https://www.latimes.com/entertainment-arts"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-06-18/the-chosen-one-raymundo-netflix-actors-killed"
-    },
-    {
-      "text": "\u2018The Chosen One\u2019: What to know about the Netflix show with two actors killed in a Mexico crash ",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-06-18/the-chosen-one-raymundo-netflix-actors-killed"
-    },
-    {
-      "text": "Two Netflix series actors die in Mexico after van crashes",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-18/2-dead-in-mexico-after-netflix-series-cast-crew-van-crashes"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/awards/story/2022-06-17/lizzo-watch-out-for-big-grrls-brand-journey"
-    },
-    {
-      "text": "Lizzo\u2019s building a positivity empire with pop music, shapewear and now reality TV",
-      "url": "https://www.latimes.com/entertainment-arts/awards/story/2022-06-17/lizzo-watch-out-for-big-grrls-brand-journey"
-    },
-    {
-      "text": "A party scene while making Amazon\u2019s \u2018Expats\u2019 was followed by a COVID outbreak. Then things got complicated",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2022-06-18/a-covid-outbreak-on-amazon-series-expats"
-    },
-    {
-      "text": "Mark Shields, \u2018PBS NewsHour\u2019 political commentator and columnist, dies at 85",
-      "url": "https://www.latimes.com/obituaries/story/2022-06-18/political-commentator-and-columnist-mark-shields-dies-at-85"
-    },
-    {
-      "text": " Sports",
-      "url": "https://www.latimes.com/sports"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/sports/dodgers/story/2022-06-18/sandy-koufax-statue-unveiling-time-of-gratitude-inclusion"
-    },
-    {
-      "text": "Plaschke: Sandy Koufax statue unveiling ceremony a time of gratitude and inclusion",
-      "url": "https://www.latimes.com/sports/dodgers/story/2022-06-18/sandy-koufax-statue-unveiling-time-of-gratitude-inclusion"
-    },
-    {
-      "text": "What Sandy Koufax, Clayton Kershaw and Joe Torre said at statue unveiling",
-      "url": "https://www.latimes.com/sports/dodgers/story/2022-06-19/sandy-koufax-clayton-kershaw-joe-torre-statue-unveiling-dodger-stadium"
-    },
-    {
-      "text": "Julio Ur\u00edas ends personal skid as Dodgers rout Guardians",
-      "url": "https://www.latimes.com/sports/dodgers/story/2022-06-18/sandy-koufax-honored-julio-urias-ends-personal-skid-dodgers-beat-guardians"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/sports/dodgers/story/2022-06-19/mlb-all-star-game-2022-festivities-events-schedule"
-    },
-    {
-      "text": "Guide for attending the MLB All-Star game and related events in L.A.",
-      "url": "https://www.latimes.com/sports/dodgers/story/2022-06-19/mlb-all-star-game-2022-festivities-events-schedule"
-    },
-    {
-      "text": "Max Verstappen holds off Carlos Sainz to win in F1\u2019s return to Canada",
-      "url": "https://www.latimes.com/sports/story/2022-06-19/max-verstappen-holds-off-carlos-sainz-to-win-in-f1s-return-to-canada"
-    },
-    {
-      "text": "When will a woman pitch in Major League Baseball? It might be sooner than you think",
-      "url": "https://www.latimes.com/sports/story/2022-06-18/female-pitchers-in-mlb-coming-sooner-than-later"
-    },
-    {
-      "text": " Latino Life",
-      "url": "https://www.latimes.com/california/latino-life"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-17/mendota-the-california-city-that-became-little-el-salvador-struggles-with-the-pain-of-separation"
-    },
-    {
-      "text": "Column One: A California city that became Little El Salvador feels the pain of separation from its parent",
-      "url": "https://www.latimes.com/california/story/2022-06-17/mendota-the-california-city-that-became-little-el-salvador-struggles-with-the-pain-of-separation"
-    },
-    {
-      "text": "He\u2019s one of Guatemala\u2019s last independent judges. Will he be forced to flee too?",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-17/after-sending-soldiers-to-trial-for-civil-war-atrocities-a-guatemalan-judge-faces-threats"
-    },
-    {
-      "text": " L.A. Times en Espa\u00f1ol",
-      "url": "https://www.latimes.com/espanol/"
-    },
-    {
-      "text": "Muere Geoge Lamming, gigante de la literatura caribe\u00f1a",
-      "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2022-06-19/fallece-geoge-lamming-gigante-de-la-literatura-caribena"
-    },
-    {
-      "text": "\u2018Lightyear\u2019 no pudo con \u2018Jurassic World\u2019 que ahora se mantiene al tope de la taquilla una vez m\u00e1s",
-      "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2022-06-19/jurassic-world-se-mantiene-al-tope-de-la-taquilla"
-    },
-    {
-      "text": "Empleados de una tienda Apple en EEUU aprueban sindicato",
-      "url": "https://www.latimes.com/espanol/eeuu/articulo/2022-06-19/empleados-de-una-tienda-apple-en-eeuu-aprueban-sindicato"
-    },
-    {
-      "text": " Visual Storytelling",
-      "url": "https://www.latimes.com/california/photography"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/00000181-2b75-d4e3-a7fb-fff501fd0000-123"
-    },
-    {
-      "text": "\u2018Behold\u2019 portrait series tells stories of Black L.A. ",
-      "url": "https://www.latimes.com/california/00000181-2b75-d4e3-a7fb-fff501fd0000-123"
-    },
-    {
-      "text": "Juneteenth in Leimert Park \u2014 a time for celebration and reflection",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-18/juneteenth-in-leimert-park-a-time-for-celebration-and-reflection"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-08/the-cadence-of-war-and-its-human-toll-a-photojournalist-perspective"
-    },
-    {
-      "text": "The cadence of war and its human toll: A photojournalist\u2019s perspective",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-08/the-cadence-of-war-and-its-human-toll-a-photojournalist-perspective"
-    },
-    {
-      "text": "           ",
-      "url": "http://view.ceros.com/la-times-communication/visual-journey-along-the-colorado-river"
-    },
-    {
-      "text": "The Colorado River: Where the West quenches its thirst",
-      "url": "http://view.ceros.com/la-times-communication/visual-journey-along-the-colorado-river"
-    },
-    {
-      "text": " World & Nation",
-      "url": "https://www.latimes.com/world-nation"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/politics/story/2022-06-17/jan-6-behind-scenes-trump-election-maga-world-search-fraud"
-    },
-    {
-      "text": "Inside the MAGA world scramble to produce findings suggesting the 2020 election was stolen",
-      "url": "https://www.latimes.com/politics/story/2022-06-17/jan-6-behind-scenes-trump-election-maga-world-search-fraud"
-    },
-    {
-      "text": "Amid Jan. 6 testimony, Trump stalwarts jump aboard new conspiracy theories",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/jan-6-witnesses-push-trump-stalwarts-back-to-rabbit-hole"
-    },
-    {
-      "text": "Jan. 6 committee may seek testimony from Pence, Ginni Thomas",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/jan-6-committee-setting-its-sights-on-pence-ginni-thomas"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/ex-rebel-holds-slim-lead-in-colombias-presidential-runoff"
-    },
-    {
-      "text": "Ex-rebel holds slim lead in Colombia\u2019s presidential runoff",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/ex-rebel-holds-slim-lead-in-colombias-presidential-runoff"
-    },
-    {
-      "text": "Iowa doors swing open for Republicans eyeing White House run",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/iowa-doors-swing-open-for-republicans-eyeing-white-house-run"
-    },
-    {
-      "text": "Spain, Germany battle wildfires amid unusual heat wave",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/spain-germany-battle-wildfires-amid-unusual-heat-wave"
-    },
-    {
-      "text": " Food",
-      "url": "https://www.latimes.com/food"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-16/langers-deli-75th-anniversary-half-price"
-    },
-    {
-      "text": "Langer\u2019s Deli will celebrate its 75th anniversary with half-price sandwiches",
-      "url": "https://www.latimes.com/california/story/2022-06-16/langers-deli-75th-anniversary-half-price"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/food/story/2022-06-16/la-in-a-jar-how-to-make-berry-jelly"
-    },
-    {
-      "text": "Seasons of Preserves: Berry jelly",
-      "url": "https://www.latimes.com/food/story/2022-06-16/la-in-a-jar-how-to-make-berry-jelly"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/food/list/most-affordable-restaurants-from-the-times-101-best-restaurants-list"
-    },
-    {
-      "text": "The most affordable from The Times\u2019 list of 101 Best Restaurants in L.A.",
-      "url": "https://www.latimes.com/food/list/most-affordable-restaurants-from-the-times-101-best-restaurants-list"
-    },
-    {
-      "text": " Newsletters",
-      "url": "https://membership.latimes.com/newsletters/"
-    },
-    {
-      "text": "Berries and recipes that capture that summer smell of \u2018red\u2019",
-      "url": "https://www.latimes.com/food/newsletter/2022-06-19/recipes-berries-summer-markets-ben-mims-la-jar-cooking-editorial"
-    },
-    {
-      "text": "Why these photos of California\u2019s coast are not what they seem",
-      "url": "https://www.latimes.com/entertainment-arts/newsletter/2022-06-18/essential-arts-amir-zaki-pandemic-photography-essential-arts"
-    },
-    {
-      "text": "L.A. on the Record: The last-minute ballots swung left",
-      "url": "https://www.latimes.com/california/newsletter/2022-06-18/la-on-the-record-newsletter-late-ballots-swung-left-l-a-on-the-record"
-    },
-    {
-      "text": "The unforeseen cost of $0.69-a-gallon gas? One Shell station manager\u2019s job",
-      "url": "https://www.latimes.com/california/story/2022-06-18/gas-station-manager-fired-for-mistaken-price"
-    },
-    {
-      "text": "Q&A: What parents should know about COVID-19 shots for the youngest children",
-      "url": "https://www.latimes.com/science/story/2022-06-18/what-parents-should-know-about-covid-19-shots-for-the-youngest-children"
-    },
-    {
-      "text": "Buttigieg pressures airlines to reduce flight cancellations, improve customer service",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-18/buttigieg-us-may-act-against-airlines-on-consumers-behalf"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2021-04-19/the-times-podcast?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=the_times"
-    },
-    {
-      "text": "A daily news podcast from the L.A. Times",
-      "url": "https://www.latimes.com/california/story/2021-04-19/the-times-podcast?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=the_times"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.eatseehear.com/?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=eat_see_hear_2022"
-    },
-    {
-      "text": "Outdoor movie screenings all summer long",
-      "url": "https://www.eatseehear.com/?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=eat_see_hear_2022"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.sandiegouniontribune.com/bordercity?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=ut_border_city"
-    },
-    {
-      "text": "A story of beauty, violence and belonging in Tijuana",
-      "url": "https://www.sandiegouniontribune.com/bordercity?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=ut_border_city"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/books/story/2022-05-11/letter-to-a-strange-pico-iyer-maggie-shipstead-book-club?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=book_club_may"
-    },
-    {
-      "text": "L.A. Times Book Club",
-      "url": "https://www.latimes.com/entertainment-arts/books/story/2022-05-11/letter-to-a-strange-pico-iyer-maggie-shipstead-book-club?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=book_club_may"
-    },
-    {
-      "text": "           ",
-      "url": "https://lafoodbowl.com/?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=food_bowl_september_2022"
-    },
-    {
-      "text": "Mouth-watering events all throughout L.A.",
-      "url": "https://lafoodbowl.com/?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=food_bowl_september_2022"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/bestcovery/?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=bestcovery"
-    },
-    {
-      "text": "Discover the best of everything",
-      "url": "https://www.latimes.com/bestcovery/?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=bestcovery"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/about/shortdocs?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=short_docs"
-    },
-    {
-      "text": "Watch the L.A. Times Studios short documentary now. ",
-      "url": "https://www.latimes.com/about/shortdocs?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=short_docs"
-    },
-    {
-      "text": "           ",
-      "url": "https://timesrx.latimes.com/?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=times_rx"
-    },
-    {
-      "text": "Save up to 80% on prescription medications",
-      "url": "https://timesrx.latimes.com/?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=times_rx"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/about/virtual-events?utm_source=LATIMES&utm_medium=homepagebarker&utm_campaign=virtual_events"
-    },
-    {
-      "text": "Bringing L.A. Times to you",
-      "url": "https://www.latimes.com/about/virtual-events?utm_source=LATIMES&utm_medium=homepagebarker&utm_campaign=virtual_events"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/games/daily-crossword?utm_source=LATIMES&utm_medium=homepagebarker&utm_campaign=games"
-    },
-    {
-      "text": "Play for FREE today",
-      "url": "https://www.latimes.com/games/daily-crossword?utm_source=LATIMES&utm_medium=homepagebarker&utm_campaign=games"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimeswine.com/club?utm_source=latimes&utm_medium=partner&utm_campaign=digital-tile-840x560-july&utm_content=redcarpet-39.95"
-    },
-    {
-      "text": "6 award-winning wines for just $39.95 & FREE SHIPPING",
-      "url": "https://www.latimeswine.com/club?utm_source=latimes&utm_medium=partner&utm_campaign=digital-tile-840x560-july&utm_content=redcarpet-39.95"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/coupon-codes?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=coupon_codes"
-    },
-    {
-      "text": "Top promo codes, deals, and coupons",
-      "url": "https://www.latimes.com/coupon-codes?utm_source=on_site&utm_medium=homepagebarker&utm_campaign=coupon_codes"
-    },
-    {
-      "text": "           ",
-      "url": "https://store.latimes.com/?utm_source=latimes&utm_medium=homepage&utm_campaign=homepage"
-    },
-    {
-      "text": "Rep your city. Wear The Times",
-      "url": "https://store.latimes.com/?utm_source=latimes&utm_medium=homepage&utm_campaign=homepage"
-    },
-    {
-      "text": " Things to Do",
-      "url": "https://www.latimes.com/topic/things-to-do"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/entertainment-arts/books/newsletter/2022-06-18/book-club-newsletter-ibram-x-kendi-jennifer-grey-book-club"
-    },
-    {
-      "text": "Book Club: 4 things to know about \u2018How to Raise an Antiracist\u2019",
-      "url": "https://www.latimes.com/entertainment-arts/books/newsletter/2022-06-18/book-club-newsletter-ibram-x-kendi-jennifer-grey-book-club"
-    },
-    {
-      "text": "The actors in Pasadena\u2019s \u2018Uncle Vanya\u2019 ruminate, fulminate, kvetch \u2014 much like life ",
-      "url": "https://www.latimes.com/entertainment-arts/story/2022-06-17/pasadena-playhouse-uncle-vanya"
-    },
-    {
-      "text": "For the first time, an all-Black orchestra will play the Hollywood Bowl",
-      "url": "https://www.latimes.com/entertainment-arts/story/2022-06-17/rickey-pageot-black-orchestra-hollywood-bowl"
-    },
-    {
-      "text": "Classic movies in SoCal: \u2018The Empire Strikes Back,\u2019 \u2018Eraserhead,\u2019 \u2018Crooklyn\u2019 and more",
-      "url": "https://www.latimes.com/entertainment-arts/story/2022-06-16/things-to-do-la-oc-movies-star-wars-juneteenth-fathers-day"
-    },
-    {
-      "text": " World, Nation & Politics",
-      "url": "https://www.latimes.com/world-nation"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/zelensky-fathers-day-post-spotlights-family-ties-amid-war"
-    },
-    {
-      "text": "Zelensky Father\u2019s Day post spotlights family ties amid war",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/zelensky-fathers-day-post-spotlights-family-ties-amid-war"
-    },
-    {
-      "text": "Jan. 6 committee may seek testimony from Pence, Ginni Thomas",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/jan-6-committee-setting-its-sights-on-pence-ginni-thomas"
-    },
-    {
-      "text": "Macron alliance projected to lose parliamentary majority in France",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/macron-alliance-projected-to-lose-parliamentary-majority-in-france"
-    },
-    {
-      "text": "IS claims attack on Sikh temple in Afghan capital of Kabul",
-      "url": "https://www.latimes.com/world-nation/story/2022-06-19/is-claims-attack-on-sikh-temple-in-afghan-capital-of-kabul"
-    },
-    {
-      "text": " Business",
-      "url": "https://www.latimes.com/business"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/business/story/2022-06-19/ira-401k-retirement-account-contributions-differ-explainer"
-    },
-    {
-      "text": "Contribution rules on IRA and 401(k) accounts differ a lot. Here\u2019s a primer",
-      "url": "https://www.latimes.com/business/story/2022-06-19/ira-401k-retirement-account-contributions-differ-explainer"
-    },
-    {
-      "text": "The best sites for finding, or offering, child care and elder care",
-      "url": "https://www.latimes.com/business/story/2022-06-19/the-best-sites-for-finding-or-offering-child-care-and-elder-care"
-    },
-    {
-      "text": "Real Estate newsletter: A hot market starts to cool",
-      "url": "https://www.latimes.com/business/newsletter/2022-06-18/real-estate-newsletter-20220618-hot-property"
-    },
-    {
-      "text": "Bitcoin drops below $20,000 as crypto selloff quickens",
-      "url": "https://www.latimes.com/business/story/2022-06-18/bitcoin-drops-below-20-000-as-crypto-selloff-quickens"
-    },
-    {
-      "text": " Obituaries",
-      "url": "https://www.latimes.com/obituaries"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/obituaries/story/2022-06-14/harry-gesner-maverick-designer-who-created-malibus-crested-wave-house-dies-at-97"
-    },
-    {
-      "text": "Harry Gesner, designer who created Malibu\u2019s crested \u2018Wave House,\u2019 dies at 97",
-      "url": "https://www.latimes.com/obituaries/story/2022-06-14/harry-gesner-maverick-designer-who-created-malibus-crested-wave-house-dies-at-97"
-    },
-    {
-      "text": "A.B. Yehoshua, Israeli author and veteran peace activist, dies at 85",
-      "url": "https://www.latimes.com/obituaries/story/2022-06-14/a-b-yehoshua-israeli-author-peace-activist-dead"
-    },
-    {
-      "text": "From \u2018Seinfeld\u2019 to \u2018Magnolia,\u2019 journeyman character actor Philip Baker Hall dies at 90",
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2022-06-13/philip-baker-hall-dies-at-90"
-    },
-    {
-      "text": "Julee Cruise, \u2018Twin Peaks\u2019 singer and David Lynch collaborator, dies at 65",
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2022-06-10/julee-cruise-twin-peaks-david-lynch-falling-dies"
-    },
-    {
-      "text": " Education",
-      "url": "https://www.latimes.com/topic/education"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-17/after-uc-davis-commencement-halted-by-heat-students-seek-answers"
-    },
-    {
-      "text": "Disorganized and dangerous: Students want answers after UC Davis commencement halted by heat",
-      "url": "https://www.latimes.com/california/story/2022-06-17/after-uc-davis-commencement-halted-by-heat-students-seek-answers"
-    },
-    {
-      "text": "USC\u2019s trustees elect first woman as chair of the board as Rick Caruso formally steps down",
-      "url": "https://www.latimes.com/california/story/2022-06-16/uscs-trustees-elect-first-woman-as-chair-of-the-board-as-rick-caruso-formally-steps-down"
-    },
-    {
-      "text": "California Community Colleges chief to resign as student achievement rises, enrollment plummets ",
-      "url": "https://www.latimes.com/california/story/2022-06-16/california-community-colleges-chancellor-eloy-ortiz-oakley-to-resign"
-    },
-    {
-      "text": "California bill would give $1,000 a month in short-term guaranteed income to homeless high school seniors ",
-      "url": "https://www.latimes.com/california/story/2022-06-15/california-bill-homeless-students-monthly-guaranteed-income"
-    },
-    {
-      "text": " Investigations",
-      "url": "https://www.latimes.com/topic/times-investigations"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-06/sonoma-state-president-judy-sakaki-steps-down"
-    },
-    {
-      "text": "A sexual harassment scandal rocked Sonoma State. Now its president has resigned",
-      "url": "https://www.latimes.com/california/story/2022-06-06/sonoma-state-president-judy-sakaki-steps-down"
-    },
-    {
-      "text": "Claims that five San Diego State football players raped a girl were followed by months of silence",
-      "url": "https://www.latimes.com/california/story/2022-06-03/sdsu-san-diego-state-football-players-claim-rape-girl"
-    },
-    {
-      "text": "Secret retreats and a powerful \u2018cabal\u2019: Corruption probe reveals who really runs Anaheim",
-      "url": "https://www.latimes.com/california/story/2022-05-19/fbi-probe-mayor-unelected-people-run-anaheim-angel-stadium"
-    },
-    {
-      "text": "A CSU official was accused of harassment. Women question why he wasn\u2019t disciplined",
-      "url": "https://www.latimes.com/california/story/2022-05-18/sonoma-state-csu-cal-state-sawyer-sexual-harassment-discipline"
-    },
-    {
-      "text": " L.A. Affairs",
-      "url": "https://www.latimes.com/topic/la-affairs"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/lifestyle/story/2022-06-10/la-affairs-failed-relationships-real-los-angeles-liz-lopez"
-    },
-    {
-      "text": "L.A. Affairs: After a few failed relationships, was this one for real?",
-      "url": "https://www.latimes.com/lifestyle/story/2022-06-10/la-affairs-failed-relationships-real-los-angeles-liz-lopez"
-    },
-    {
-      "text": "L.A. Affairs: She\u2019s 35 and wants bitcoin. I\u2019m 74 and a widower. Is this really love?",
-      "url": "https://www.latimes.com/lifestyle/story/2022-06-03/la-affairs-ron-winters-bitcoin-widower-love-romance-yelp"
-    },
-    {
-      "text": "L.A. Affairs: I met a sexy lifeguard with a secret. Could we make this work?",
-      "url": "https://www.latimes.com/lifestyle/story/2022-05-27/la-affairs-sexy-lifeguard-secret-love-story-work-malibu"
-    },
-    {
-      "text": "L.A. Affairs: First came love, then the dog. Now we\u2019re a family",
-      "url": "https://www.latimes.com/lifestyle/story/2022-05-20/la-affairs-johnny-runnette-first-came-love-then-dog-adoption-now-we-are-a-family"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/homeless-housing/story/2022-06-16/help-is-now-available-for-more-californians-who-are-behind-on-their-mortgages"
-    },
-    {
-      "text": "Help is now available for more Californians who are behind on their mortgages",
-      "url": "https://www.latimes.com/homeless-housing/story/2022-06-16/help-is-now-available-for-more-californians-who-are-behind-on-their-mortgages"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/newsletter/2022-06-14/unshaken-the-one-year-quake-prep-checkup-unshaken"
-    },
-    {
-      "text": "Unshaken is turning 1. Here\u2019s a one-year quake prep checkup",
-      "url": "https://www.latimes.com/california/newsletter/2022-06-14/unshaken-the-one-year-quake-prep-checkup-unshaken"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/california/story/2022-06-14/does-l-a-have-an-addiction-to-cults-and-cultists-sure-seems-like-it"
-    },
-    {
-      "text": "Does L.A. have an \u2018addiction to cults and cultists\u2019? Sure seems like it",
-      "url": "https://www.latimes.com/california/story/2022-06-14/does-l-a-have-an-addiction-to-cults-and-cultists-sure-seems-like-it"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.latimes.com/politics/story/2022-06-13/what-is-the-tv-schedule-for-the-next-jan-6-committee-hearings"
-    },
-    {
-      "text": "What\u2019s the TV schedule for the next Jan. 6 committee hearings?",
-      "url": "https://www.latimes.com/politics/story/2022-06-13/what-is-the-tv-schedule-for-the-next-jan-6-committee-hearings"
-    },
-    {
-      "text": "Subscribe for unlimited access",
-      "url": "https://www.latimes.com/footersubscribe"
-    },
-    {
-      "text": "twitter",
-      "url": "https://twitter.com/latimes"
-    },
-    {
-      "text": "instagram",
-      "url": "https://www.instagram.com/latimes/"
-    },
-    {
-      "text": "youtube",
-      "url": "https://www.youtube.com/losangelestimes"
-    },
-    {
-      "text": "facebook",
-      "url": "https://www.facebook.com/latimes"
-    },
-    {
-      "text": "eNewspaper",
-      "url": "https://enewspaper.latimes.com"
-    },
-    {
-      "text": "Coupons",
-      "url": "https://www.latimes.com/coupon-codes"
-    },
-    {
-      "text": "Find/Post Jobs",
-      "url": "https://jobs.latimes.com"
-    },
-    {
-      "text": "Place an Ad",
-      "url": "https://placeanad.latimes.com"
-    },
-    {
-      "text": "Media Kit: Why the L. A. Times? ",
-      "url": "https://mediakit.latimes.com/"
-    },
-    {
-      "text": "Bestcovery",
-      "url": "https://www.latimes.com/bestcovery/?utm_source=on_site&utm_medium=footer&utm_campaign=bestcovery"
-    },
-    {
-      "text": "Crossword",
-      "url": "https://www.latimes.com/games/daily-crossword"
-    },
-    {
-      "text": "Sudoku",
-      "url": "https://www.latimes.com/games/sudoku"
-    },
-    {
-      "text": "Obituaries",
-      "url": "https://www.latimes.com/obituaries"
-    },
-    {
-      "text": "Recipes",
-      "url": "https://www.latimes.com/food/recipes"
-    },
-    {
-      "text": "L.A. Times Store",
-      "url": "https://store.latimes.com/"
-    },
-    {
-      "text": "Wine Club",
-      "url": "https://www.latimeswine.com/club"
-    },
-    {
-      "text": "About/Contact",
-      "url": "https://www.latimes.com/about"
-    },
-    {
-      "text": "For the Record",
-      "url": "https://www.latimes.com/about/for-the-record/"
-    },
-    {
-      "text": "L.A. Times Careers",
-      "url": "https://nantmedia.wd5.myworkdayjobs.com/LATimesCareers"
-    },
-    {
-      "text": "Manage Subscription",
-      "url": "https://membership.latimes.com/"
-    },
-    {
-      "text": "Reprints and Permissions",
-      "url": "https://www.latimes.com/about/how-to-obtain-rights-permissions"
-    },
-    {
-      "text": "Site Map",
-      "url": "https://www.latimes.com/sitemap"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://www.latimes.com/terms-of-service"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.latimes.com/privacy-policy"
-    },
-    {
-      "text": "CA Notice of Collection",
-      "url": "https://www.latimes.com/privacy-policy#california-notice-of-collection"
-    },
-    {
-      "text": "Do Not Sell My Personal Information",
-      "url": "https://membership.latimes.com/privacy-settings"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "//www.latimes.com/terms/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "//www.latimes.com/privacy/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "//www.latimes.com/privacy/"
-    }
-  ],
+  "files_count": 1321,
+  "item_last_updated": 1655760823,
+  "item_size": 157692057,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -15100,7 +13926,7 @@
     "addeddate": "2022-03-22 20:29:38"
   },
   "server": "ia903007.us.archive.org",
-  "uniq": 759463196,
+  "uniq": 1404662682,
   "workable_servers": [
     "ia903007.us.archive.org",
     "ia803007.us.archive.org"

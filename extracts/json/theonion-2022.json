@@ -1,5 +1,5 @@
 {
-  "created": 1655684318,
+  "created": 1655770892,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/theonion-2022",
@@ -1696,31 +1696,283 @@
       "sha1": "8eb8108240fc9726e20951557f960f3ae8ac42cc"
     },
     {
+      "name": "theonion-2022-06-19T20:33:18.037403-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655688800",
+      "size": "29351",
+      "md5": "066b50d853c4550d55382760576e70e1",
+      "crc32": "ff197072",
+      "sha1": "46ec8c31f959b0b7d306e5fb860be96980d4c89a",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-19T20:33:18.037403-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655688802",
+      "size": "17610",
+      "md5": "2ea2254c10ae468985dd8ef50b76c108",
+      "crc32": "5cd6995c",
+      "sha1": "5388955b88527801f2cdce9342d14c8e4c486d9f",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-19T20:33:18.037403-05:00.jpg",
+      "source": "original",
+      "mtime": "1655688799",
+      "size": "296270",
+      "md5": "9ba532381837ec5b96f249c5cdc0dc0f",
+      "crc32": "112d1d53",
+      "sha1": "7e981ba09c14f078ed5bc156d87ecf2d5044383f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-19T20:33:18.037403-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-19T20:33:18.037403-05:00.jpg",
+      "mtime": "1655688849",
+      "size": "10205",
+      "md5": "b4c7710af7a7eab4c439eda4f73c2dac",
+      "crc32": "e352b2d7",
+      "sha1": "ab43d992f4724a0c9ce51cbc02cfb38fdf4af0f8"
+    },
+    {
+      "name": "theonion-2022-06-20T00:32:20.929065-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655703146",
+      "size": "29351",
+      "md5": "066b50d853c4550d55382760576e70e1",
+      "crc32": "ff197072",
+      "sha1": "46ec8c31f959b0b7d306e5fb860be96980d4c89a",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T00:32:20.929065-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655703150",
+      "size": "21635",
+      "md5": "2eef559690e7890ec5572bd85cbe73e5",
+      "crc32": "911571c2",
+      "sha1": "2f6ff42beb1b3983028ad39a4efe197c0948e0ed",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T00:32:20.929065-05:00.jpg",
+      "source": "original",
+      "mtime": "1655703144",
+      "size": "296196",
+      "md5": "240b4e9b5e6a831d8d138346ef3b3dd1",
+      "crc32": "8e1bf266",
+      "sha1": "fa37fc50c9a95ce779c0a1e38b4757d2dd12191f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-20T00:32:20.929065-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-20T00:32:20.929065-05:00.jpg",
+      "mtime": "1655703201",
+      "size": "10210",
+      "md5": "7a3acd128def445c929641be64a439a2",
+      "crc32": "abeb3fd5",
+      "sha1": "b271153a4cbb4115beabc6601ed282c3923108c2"
+    },
+    {
+      "name": "theonion-2022-06-20T04:49:30.800512-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655718573",
+      "size": "29351",
+      "md5": "066b50d853c4550d55382760576e70e1",
+      "crc32": "ff197072",
+      "sha1": "46ec8c31f959b0b7d306e5fb860be96980d4c89a",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T04:49:30.800512-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655718574",
+      "size": "21635",
+      "md5": "2eef559690e7890ec5572bd85cbe73e5",
+      "crc32": "911571c2",
+      "sha1": "2f6ff42beb1b3983028ad39a4efe197c0948e0ed",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T04:49:30.800512-05:00.jpg",
+      "source": "original",
+      "mtime": "1655718571",
+      "size": "296457",
+      "md5": "9139aa129da62520190036694fb4a243",
+      "crc32": "6b6eef3a",
+      "sha1": "f17de6c97391e734b52975bda107caa88016a687",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-20T04:49:30.800512-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-20T04:49:30.800512-05:00.jpg",
+      "mtime": "1655718673",
+      "size": "10211",
+      "md5": "176c0ed580c45b2e47f8781259a0194b",
+      "crc32": "17124d65",
+      "sha1": "cc36648c67bd4a3fbaba023ca6cd00d070f43b27"
+    },
+    {
+      "name": "theonion-2022-06-20T08:47:26.378621-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655732850",
+      "size": "28816",
+      "md5": "67672e10a831207b006d45e825ab2c4a",
+      "crc32": "8fd547ae",
+      "sha1": "990cc9f0a5833544e471cd6a129938ba1859a7d7",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T08:47:26.378621-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655732851",
+      "size": "17346",
+      "md5": "53dff6447c11ae718a324b2270121ed3",
+      "crc32": "d7158fcb",
+      "sha1": "64818406f376e637bee02d17ae9d6da70237fe86",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T08:47:26.378621-05:00.jpg",
+      "source": "original",
+      "mtime": "1655732848",
+      "size": "286398",
+      "md5": "6510c4fb599d692eba19dfca9493fdfb",
+      "crc32": "1e138fed",
+      "sha1": "870d501d4d61179c0d1edb8c6824976bac210088",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-20T08:47:26.378621-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-20T08:47:26.378621-05:00.jpg",
+      "mtime": "1655732899",
+      "size": "10359",
+      "md5": "8377a3a10d80ca7f3b6a3e780a086a85",
+      "crc32": "92778c3c",
+      "sha1": "fa470c5427ac15af87610d90779be0956d1262ed"
+    },
+    {
+      "name": "theonion-2022-06-20T12:32:35.853592-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655746362",
+      "size": "28816",
+      "md5": "67672e10a831207b006d45e825ab2c4a",
+      "crc32": "8fd547ae",
+      "sha1": "990cc9f0a5833544e471cd6a129938ba1859a7d7",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T12:32:35.853592-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655746364",
+      "size": "17346",
+      "md5": "53dff6447c11ae718a324b2270121ed3",
+      "crc32": "d7158fcb",
+      "sha1": "64818406f376e637bee02d17ae9d6da70237fe86",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T12:32:35.853592-05:00.jpg",
+      "source": "original",
+      "mtime": "1655746358",
+      "size": "284193",
+      "md5": "726e565c33c63bb3395bc10e3bcf4ea0",
+      "crc32": "aad0bdd6",
+      "sha1": "859b5c3d19c558ee95510a1fb40072a0043ac91e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-20T12:32:35.853592-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-20T12:32:35.853592-05:00.jpg",
+      "mtime": "1655746429",
+      "size": "10333",
+      "md5": "29707bff08e23ec8b411e6436acce85e",
+      "crc32": "188c08d9",
+      "sha1": "9ae26e0b5758692060f7dc88876d03c8f2c10fc1"
+    },
+    {
+      "name": "theonion-2022-06-20T16:35:36.033306-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655760943",
+      "size": "28816",
+      "md5": "67672e10a831207b006d45e825ab2c4a",
+      "crc32": "8fd547ae",
+      "sha1": "990cc9f0a5833544e471cd6a129938ba1859a7d7",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T16:35:36.033306-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655760944",
+      "size": "21277",
+      "md5": "2fa575b6f2477a9d8fcdbd2e0565ced2",
+      "crc32": "5edeb6be",
+      "sha1": "603ae1ac8f9eadd8332c252ffef4c97caf28f7aa",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-20T16:35:36.033306-05:00.jpg",
+      "source": "original",
+      "mtime": "1655760937",
+      "size": "286155",
+      "md5": "e4945bfb7c74c01c6ecaede7f998bec2",
+      "crc32": "bf601cf7",
+      "sha1": "ebcc78e285da43aad5d59021df35f54c52467263",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-20T16:35:36.033306-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-20T16:35:36.033306-05:00.jpg",
+      "mtime": "1655761010",
+      "size": "10351",
+      "md5": "5ccfba30957e0654a9346323ad537aab",
+      "crc32": "dd48fd22",
+      "sha1": "5d55bcf2123291892981f8bcefc5459716f49afe"
+    },
+    {
       "name": "theonion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4121ca3a77e69ff4ad1fb356439e28276266b6ee",
-      "mtime": "1655681394",
-      "size": "35352",
-      "md5": "c7d781b9255f36b88264ed09d9164113",
-      "crc32": "b8689c6d",
-      "sha1": "6455c1d3bbe159cae9c2eabc22371573a9d840bf",
+      "btih": "05836edb77a4a97c075099e4dee26ea6a0d9cbfd",
+      "mtime": "1655761015",
+      "size": "40412",
+      "md5": "1cbe436ab1160bcd8e85b3d96ec3e71c",
+      "crc32": "8e9bca85",
+      "sha1": "4cbd178fa6513040cdad2ee7a9f8216499248af9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theonion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f201d77779cd21778d2d8d34e6aed28",
+      "md5": "0ab39a43d5282b2602dd54c04a1acc53",
       "summation": "md5"
     },
     {
       "name": "theonion-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655681334",
-      "size": "204800",
-      "md5": "bc0cce558681002999e0fc80670b7715",
-      "crc32": "b535b137",
-      "sha1": "00cb2ea16ed86f680b4adb188398fabc3ea51682",
+      "mtime": "1655760948",
+      "size": "233472",
+      "md5": "117498ad648cccadcbc5ee45d5238bfd",
+      "crc32": "16c9e1ba",
+      "sha1": "386805567ad50092f0fd54a08c205078b7a5984c",
       "format": "Metadata"
     },
     {
@@ -1734,9 +1986,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 165,
-  "item_last_updated": 1655681394,
-  "item_size": 14445173,
+  "files_count": 189,
+  "item_last_updated": 1655761015,
+  "item_size": 16577593,
   "metadata": {
     "identifier": "theonion-2022",
     "collection": [
@@ -1755,6 +2007,90 @@
   },
   "server": "ia601502.us.archive.org",
   "theonion-2022": [
+    {
+      "text": "",
+      "url": "https://www.theonion.com/biggest-revelations-from-the-jan-6-hearings-1849072102"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/breaking-news/slideshow"
+    },
+    {
+      "text": "Biggest Revelations From The Jan. 6 HearingsIn perhaps its most shocking takeaway, the Jan. 6 committee revealed the election was rigged.",
+      "url": "https://www.theonion.com/biggest-revelations-from-the-jan-6-hearings-1849072102"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/britney-spears-placed-under-conservatorship-again-after-1849072251"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/entertainment/news-in-brief"
+    },
+    {
+      "text": "Britney Spears Placed Under Conservatorship Again After Court Determines She\u2019s Having Too Much Fun",
+      "url": "https://www.theonion.com/britney-spears-placed-under-conservatorship-again-after-1849072251"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "Whole Conversation Wasted Getting To Know New Neighbors Who Were Just Airbnb GuestsPORTLAND, OR\u2014Feeling absolutely duped by the strangers in his building, local resident Edward Siede told reporters Monday that he wasted a whole conversation getting to know his new neighbors who turned out to just be Airbnb guests. \u201cI lost a full\u2026",
+      "url": "https://www.theonion.com/whole-conversation-wasted-getting-to-know-new-neighbors-1849022517"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "Christian Parents Encourage Child To Save Self For Church LeaderHOUSTON\u2014Drawing upon their own experience growing up in the church, local Christian married couple Jonathan and Rebecca Bell have encouraged their daughter to save herself for a church leader, sources confirmed Monday. \u201cWhether he\u2019s a minister,\u2026",
+      "url": "https://www.theonion.com/christian-parents-encourage-child-to-save-self-for-chur-1849023082"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "Employee Always Complaining About No Time Off Suddenly Upset About Getting FiredNEW YORK\u2014Noting the abrupt and dramatic shift in the man\u2019s attitude toward work, Lindwasser Insurance Group president Brad Lindwasser told reporters Monday that one of his employees who regularly complained about not having enough days off was\u2026",
+      "url": "https://www.theonion.com/employee-always-complaining-about-no-time-off-suddenly-1849022511"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/encouraging-report-finds-most-of-planet-will-still-be-h-1849022268"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/breaking-news/news-in-brief"
+    },
+    {
+      "text": "Encouraging Report Finds Most Of Planet Will Still Be Habitable In 2023",
+      "url": "https://www.theonion.com/encouraging-report-finds-most-of-planet-will-still-be-h-1849022268"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/new-black-wristbands-designated-for-visitors-condemned-1848989106"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "New Black Wristbands Designated For Visitors Condemned To Spend Eternity At Water Park",
+      "url": "https://www.theonion.com/new-black-wristbands-designated-for-visitors-condemned-1848989106"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/grandma-didn-t-exactly-live-in-6-countries-because-she-1848995007"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "Grandma Didn\u2019t Exactly Live In 6 Countries Because She Loved To Travel",
+      "url": "https://www.theonion.com/grandma-didn-t-exactly-live-in-6-countries-because-she-1848995007"
+    },
     {
       "text": "What Is The #KillYourDad Challenge?",
       "url": "https://www.theonion.com/what-is-the-killyourdad-challenge-1849071240"
@@ -1777,27 +2113,39 @@
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/most-frequent-google-search-in-every-state-1849055498"
+      "url": "https://www.theonion.com/jan-6-rioters-explain-why-they-stormed-the-capitol-1849059380"
     },
     {
       "text": "Slideshow",
-      "url": "https://www.theonion.com/breaking-news/slideshow"
+      "url": "https://www.theonion.com/opinion/slideshow"
     },
     {
-      "text": "Most Frequent Google Search In Every State",
-      "url": "https://www.theonion.com/most-frequent-google-search-in-every-state-1849055498"
+      "text": "Jan. 6 Rioters Explain Why They Stormed The Capitol",
+      "url": "https://www.theonion.com/jan-6-rioters-explain-why-they-stormed-the-capitol-1849059380"
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/two-m-m-factory-workers-rescued-after-falling-into-choc-1849061070"
+      "url": "https://www.theonion.com/china-says-it-may-have-detected-signals-from-alien-civi-1849078511"
     },
     {
       "text": "American Voices",
       "url": "https://www.theonion.com/opinion/american-voices"
     },
     {
-      "text": "Two M&M Factory Workers Rescued After Falling Into Chocolate-Filled Vat",
-      "url": "https://www.theonion.com/two-m-m-factory-workers-rescued-after-falling-into-choc-1849061070"
+      "text": "China Says It May Have Detected Signals From Alien Civilizations",
+      "url": "https://www.theonion.com/china-says-it-may-have-detected-signals-from-alien-civi-1849078511"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/old-dog-having-absolute-blast-on-car-ride-over-to-eutha-1849077668"
+    },
+    {
+      "text": "News In Photos",
+      "url": "https://www.theonion.com/local/news-in-photos"
+    },
+    {
+      "text": "Old Dog Having Absolute Blast On Car Ride Over To Euthanasia Appointment",
+      "url": "https://www.theonion.com/old-dog-having-absolute-blast-on-car-ride-over-to-eutha-1849077668"
     },
     {
       "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
@@ -1810,18 +2158,6 @@
     {
       "text": "FDA Warns Americans To Take That Out Of Their Mouth This Instant",
       "url": "https://www.theonion.com/fda-warns-americans-to-take-that-out-of-their-mouth-thi-1849065767"
-    },
-    {
-      "text": "",
-      "url": "https://www.theonion.com/black-woman-spends-out-of-body-experience-yelling-at-pa-1849073334"
-    },
-    {
-      "text": "News In Photos",
-      "url": "https://www.theonion.com/local/news-in-photos"
-    },
-    {
-      "text": "Black Woman Spends Out-Of-Body Experience Yelling At Paramedics To Actually Help Her",
-      "url": "https://www.theonion.com/black-woman-spends-out-of-body-experience-yelling-at-pa-1849073334"
     },
     {
       "text": "",
@@ -1849,51 +2185,51 @@
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/biggest-republican-talking-points-to-downplay-january-6-1849048460"
+      "url": "https://www.theonion.com/most-frequent-google-search-in-every-state-1849055498"
     },
     {
       "text": "Slideshow",
-      "url": "https://www.theonion.com/politics/slideshow"
+      "url": "https://www.theonion.com/breaking-news/slideshow"
     },
     {
-      "text": "Biggest Republican Talking Points To Downplay January 6",
-      "url": "https://www.theonion.com/biggest-republican-talking-points-to-downplay-january-6-1849048460"
+      "text": "Most Frequent Google Search In Every State",
+      "url": "https://www.theonion.com/most-frequent-google-search-in-every-state-1849055498"
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/study-links-postpartum-depression-to-baby-immediately-s-1848988856"
+      "url": "https://www.theonion.com/point-counterpoint-president-trump-went-too-far-on-jan-1849076212"
+    },
+    {
+      "text": "Commentary",
+      "url": "https://www.theonion.com/opinion/commentary"
+    },
+    {
+      "text": "Point/Counterpoint: President Trump Went Too Far On Jan. 6 vs. Mike Pence Was Wrong To Say President Trump Went Too Far On Jan. 6",
+      "url": "https://www.theonion.com/point-counterpoint-president-trump-went-too-far-on-jan-1849076212"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/fed-raises-interest-rates-in-effort-to-hey-pay-attenti-1849072556"
     },
     {
       "text": "News In Brief",
       "url": "https://www.theonion.com/breaking-news/news-in-brief"
     },
     {
-      "text": "Study Links Postpartum Depression To Baby Immediately Slapping, Flipping Off Mother After Birth",
-      "url": "https://www.theonion.com/study-links-postpartum-depression-to-baby-immediately-s-1848988856"
+      "text": "Fed Raises Interest Rates In Effort To\u2014Hey, Pay Attention, This Is Important!",
+      "url": "https://www.theonion.com/fed-raises-interest-rates-in-effort-to-hey-pay-attenti-1849072556"
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/top-experts-divided-on-whether-it-s-better-to-beat-the-1849072428"
+      "url": "https://www.theonion.com/kid-with-kitchen-play-set-in-bedroom-one-upped-by-poor-1848993710"
     },
     {
       "text": "News In Brief",
-      "url": "https://www.theonion.com/breaking-news/news-in-brief"
+      "url": "https://www.theonion.com/local/news-in-brief"
     },
     {
-      "text": "Top Experts Divided On Whether It\u2019s Better To Beat The Heat Or Have Fun In The Sun",
-      "url": "https://www.theonion.com/top-experts-divided-on-whether-it-s-better-to-beat-the-1849072428"
-    },
-    {
-      "text": "",
-      "url": "https://www.theonion.com/nasa-astronauts-prepare-for-mission-to-mars-by-spending-1848987907"
-    },
-    {
-      "text": "News In Brief",
-      "url": "https://www.theonion.com/breaking-news/news-in-brief"
-    },
-    {
-      "text": "NASA Astronauts Prepare For Mission To Mars By Spending Year Living In Simulated Colony On Venus",
-      "url": "https://www.theonion.com/nasa-astronauts-prepare-for-mission-to-mars-by-spending-1848987907"
+      "text": "Kid With Kitchen Play Set In Bedroom One-Upped By Poor Friend Who Sleeps Next To Real Stove",
+      "url": "https://www.theonion.com/kid-with-kitchen-play-set-in-bedroom-one-upped-by-poor-1848993710"
     },
     {
       "text": "Local",
@@ -1905,63 +2241,63 @@
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/kidnapper-surprised-pulling-out-hostage-s-fingernails-d-1848888578"
+      "url": "https://www.theonion.com/i-said-no-gifts-screams-mom-as-cloud-of-birthday-pre-1848893157"
     },
     {
       "text": "News In Brief",
       "url": "https://www.theonion.com/local/news-in-brief"
     },
     {
-      "text": "Kidnapper Surprised Pulling Out Hostage\u2019s Fingernails Didn\u2019t End Stockholm SyndromeAUGUSTA, ME\u2014Describing his astonishment after violently torturing his victim for hours on end Wednesday, a local kidnapper said he was shocked that pulling out his captive\u2019s fingernails had not ended the man\u2019s Stockholm syndrome. \u201cJeez, what do I\u2026",
-      "url": "https://www.theonion.com/kidnapper-surprised-pulling-out-hostage-s-fingernails-d-1848888578"
+      "text": "\u2018I Said No Gifts!\u2019 Screams Mom As Cloud Of Birthday Presents Begin To Violently Swirl Around RoomHUDSONVILLE, MI\u2014Glaring at the family members who had dared disrespect her wishes, local mother Clarissa Sandona reportedly screamed \u201cI said no gifts!\u201d Wednesday as a cloud of birthday presents began to violently swirl around the room. \u201cI told you I\u2026",
+      "url": "https://www.theonion.com/i-said-no-gifts-screams-mom-as-cloud-of-birthday-pre-1848893157"
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/montessori-sunday-school-encourages-kids-to-invent-thei-1848952155"
+      "url": "https://www.theonion.com/sacrificial-altar-comfier-than-expected-1848893051"
     },
     {
       "text": "News In Brief",
       "url": "https://www.theonion.com/local/news-in-brief"
     },
     {
-      "text": "Montessori Sunday School Encourages Kids To Invent Their Own Gods",
-      "url": "https://www.theonion.com/montessori-sunday-school-encourages-kids-to-invent-thei-1848952155"
+      "text": "Sacrificial Altar Comfier Than Expected",
+      "url": "https://www.theonion.com/sacrificial-altar-comfier-than-expected-1848893051"
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/6-hours-that-man-will-utterly-squander-after-work-fanta-1848952159"
+      "url": "https://www.theonion.com/pregnant-woman-playing-lots-of-mozart-in-hope-of-making-1848887086"
     },
     {
       "text": "News In Brief",
       "url": "https://www.theonion.com/local/news-in-brief"
     },
     {
-      "text": "6 Hours That Man Will Utterly Squander After Work Fantasized About For Entire Day",
-      "url": "https://www.theonion.com/6-hours-that-man-will-utterly-squander-after-work-fanta-1848952159"
+      "text": "Pregnant Woman Playing Lots Of Mozart In Hope Of Making Husband Smarter",
+      "url": "https://www.theonion.com/pregnant-woman-playing-lots-of-mozart-in-hope-of-making-1848887086"
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/ant-out-of-its-fucking-mind-if-it-thinks-it-getting-any-1848994326"
+      "url": "https://www.theonion.com/man-wastes-another-gorgeous-day-being-dead-1848923062"
     },
     {
       "text": "News In Brief",
       "url": "https://www.theonion.com/local/news-in-brief"
     },
     {
-      "text": "Ant Out Of Its Fucking Mind If It Thinks It Getting Any Of Man\u2019s Pie",
-      "url": "https://www.theonion.com/ant-out-of-its-fucking-mind-if-it-thinks-it-getting-any-1848994326"
+      "text": "Man Wastes Another Gorgeous Day Being Dead",
+      "url": "https://www.theonion.com/man-wastes-another-gorgeous-day-being-dead-1848923062"
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/prisoner-has-intricate-escape-plan-tattooed-on-back-1849024865"
+      "url": "https://www.theonion.com/report-dad-won-t-admit-he-feels-cute-in-new-hat-1848893058"
     },
     {
-      "text": "News In Photos",
-      "url": "https://www.theonion.com/local/news-in-photos"
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
     },
     {
-      "text": "Prisoner Has Intricate Escape Plan Tattooed On Back",
-      "url": "https://www.theonion.com/prisoner-has-intricate-escape-plan-tattooed-on-back-1849024865"
+      "text": "Report: Dad Won\u2019t Admit He Feels Cute In New Hat",
+      "url": "https://www.theonion.com/report-dad-won-t-admit-he-feels-cute-in-new-hat-1848893058"
     },
     {
       "text": "Politics",
@@ -1973,15 +2309,27 @@
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/new-law-safeguards-50-million-children-from-threats-of-1849040554"
+      "url": "https://www.theonion.com/biggest-republican-talking-points-to-downplay-january-6-1849048460"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/politics/slideshow"
+    },
+    {
+      "text": "Biggest Republican Talking Points To Downplay January 6As the House committee on the Jan. 6 insurrection continues its public hearings, Republicans are scrambling to shift the blame away from themselves. Here are the biggest talking points the GOP is using to downplay the Capitol riots.",
+      "url": "https://www.theonion.com/biggest-republican-talking-points-to-downplay-january-6-1849048460"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/president-biden-visits-school-ahead-of-its-deadly-mass-1849002693"
     },
     {
       "text": "News In Brief",
-      "url": "https://www.theonion.com/breaking-news/news-in-brief"
+      "url": "https://www.theonion.com/politics/news-in-brief"
     },
     {
-      "text": "New Law Safeguards 50 Million Children From Threats Of Gun Violence By Adding Them To Supreme CourtWASHINGTON\u2014In an effort to prevent further gun deaths among minors, Congress passed a new law Thursday safeguarding 50 million children from threats of gun violence by adding them to the Supreme Court. \u201cThis law will do the important work of\u2026",
-      "url": "https://www.theonion.com/new-law-safeguards-50-million-children-from-threats-of-1849040554"
+      "text": "President Biden Visits School Ahead Of Its Deadly Mass Shooting",
+      "url": "https://www.theonion.com/president-biden-visits-school-ahead-of-its-deadly-mass-1849002693"
     },
     {
       "text": "",
@@ -1997,15 +2345,15 @@
     },
     {
       "text": "",
-      "url": "https://www.theonion.com/politician-supports-right-of-protesters-to-assemble-any-1848923027"
+      "url": "https://www.theonion.com/new-law-safeguards-50-million-children-from-threats-of-1849040554"
     },
     {
       "text": "News In Brief",
-      "url": "https://www.theonion.com/politics/news-in-brief"
+      "url": "https://www.theonion.com/breaking-news/news-in-brief"
     },
     {
-      "text": "Politician Supports Right Of Protesters To Assemble Anywhere SUV Can Plow Through Them",
-      "url": "https://www.theonion.com/politician-supports-right-of-protesters-to-assemble-any-1848923027"
+      "text": "New Law Safeguards 50 Million Children From Threats Of Gun Violence By Adding Them To Supreme Court",
+      "url": "https://www.theonion.com/new-law-safeguards-50-million-children-from-threats-of-1849040554"
     },
     {
       "text": "",
@@ -2018,18 +2366,6 @@
     {
       "text": "Politicians Explain Why They Took Donations From The NRA",
       "url": "https://www.theonion.com/politicians-explain-why-they-took-donations-from-the-nr-1849023524"
-    },
-    {
-      "text": "",
-      "url": "https://www.theonion.com/president-biden-visits-school-ahead-of-its-deadly-mass-1849002693"
-    },
-    {
-      "text": "News In Brief",
-      "url": "https://www.theonion.com/politics/news-in-brief"
-    },
-    {
-      "text": "President Biden Visits School Ahead Of Its Deadly Mass Shooting",
-      "url": "https://www.theonion.com/president-biden-visits-school-ahead-of-its-deadly-mass-1849002693"
     },
     {
       "text": "In Case You Missed It",
@@ -2092,6 +2428,18 @@
       "url": "https://www.theonion.com/entertainment"
     },
     {
+      "text": "",
+      "url": "https://www.theonion.com/britney-spears-placed-under-conservatorship-again-after-1849072251"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/entertainment/news-in-brief"
+    },
+    {
+      "text": "Britney Spears Placed Under Conservatorship Again After Court Determines She\u2019s Having Too Much Fun",
+      "url": "https://www.theonion.com/britney-spears-placed-under-conservatorship-again-after-1849072251"
+    },
+    {
       "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
       "url": "https://www.theonion.com/onion-explains-the-totalitarian-state-of-north-korea-1849077048"
     },
@@ -2126,18 +2474,6 @@
     {
       "text": "FDA Warns Americans To Take That Out Of Their Mouth This Instant",
       "url": "https://www.theonion.com/fda-warns-americans-to-take-that-out-of-their-mouth-thi-1849065767"
-    },
-    {
-      "text": "",
-      "url": "https://www.theonion.com/conquering-mount-everest-why-would-anyone-want-to-do-t-1849061349"
-    },
-    {
-      "text": "Magazine",
-      "url": "https://www.theonion.com/entertainment/magazine"
-    },
-    {
-      "text": "Conquering Mount Everest: Why Would Anyone Want To Do That? Don\u2019t They Know It\u2019s Dangerous? It\u2019s So Expensive And You Could Literally Get Killed",
-      "url": "https://www.theonion.com/conquering-mount-everest-why-would-anyone-want-to-do-t-1849061349"
     },
     {
       "text": "Sports",
@@ -2252,7 +2588,7 @@
       "url": "https://www.theonion.com/thank-god-i-live-in-new-jersey-1848795884"
     }
   ],
-  "uniq": 1435162053,
+  "uniq": 812906298,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

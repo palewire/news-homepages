@@ -1,5 +1,5 @@
 {
-  "created": 1655681354,
+  "created": 1655770870,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/22/items/source_nm-2022",
@@ -3824,31 +3824,283 @@
       "sha1": "68a74f835ae9ce40aeb5617bf78b6271f46bfab8"
     },
     {
+      "name": "source_nm-2022-06-19T19:31:50.539464-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655688714",
+      "size": "15454",
+      "md5": "02e99a6556c2cf47ac32a63f95e08a6c",
+      "crc32": "bc1a3e4c",
+      "sha1": "5612c34574274d0f5cdeaaea8516543072b63056",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-19T19:31:50.539464-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655688716",
+      "size": "12795",
+      "md5": "bc317186e13dcb208266de61f8d6e803",
+      "crc32": "bfd82e3d",
+      "sha1": "cbe15cfb50df69a83c4996c5fea4110fd97aab8b",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-19T19:31:50.539464-06:00.jpg",
+      "source": "original",
+      "mtime": "1655688712",
+      "size": "330126",
+      "md5": "7af8224133b1dfa5fb63473636145800",
+      "crc32": "019439ed",
+      "sha1": "1040c76d9016e5052eb0e1de42003501c50a8bfd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-06-19T19:31:50.539464-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-06-19T19:31:50.539464-06:00.jpg",
+      "mtime": "1655688764",
+      "size": "10431",
+      "md5": "7890c9be1145bc1707a0cab7550316dd",
+      "crc32": "fef19693",
+      "sha1": "68a74f835ae9ce40aeb5617bf78b6271f46bfab8"
+    },
+    {
+      "name": "source_nm-2022-06-19T23:32:15.361831-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655703140",
+      "size": "15454",
+      "md5": "02e99a6556c2cf47ac32a63f95e08a6c",
+      "crc32": "bc1a3e4c",
+      "sha1": "5612c34574274d0f5cdeaaea8516543072b63056",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-19T23:32:15.361831-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655703141",
+      "size": "12795",
+      "md5": "bc317186e13dcb208266de61f8d6e803",
+      "crc32": "bfd82e3d",
+      "sha1": "cbe15cfb50df69a83c4996c5fea4110fd97aab8b",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-19T23:32:15.361831-06:00.jpg",
+      "source": "original",
+      "mtime": "1655703138",
+      "size": "330126",
+      "md5": "7af8224133b1dfa5fb63473636145800",
+      "crc32": "019439ed",
+      "sha1": "1040c76d9016e5052eb0e1de42003501c50a8bfd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-06-19T23:32:15.361831-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-06-19T23:32:15.361831-06:00.jpg",
+      "mtime": "1655703204",
+      "size": "10431",
+      "md5": "7890c9be1145bc1707a0cab7550316dd",
+      "crc32": "fef19693",
+      "sha1": "68a74f835ae9ce40aeb5617bf78b6271f46bfab8"
+    },
+    {
+      "name": "source_nm-2022-06-20T03:48:01.140392-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655718485",
+      "size": "15454",
+      "md5": "02e99a6556c2cf47ac32a63f95e08a6c",
+      "crc32": "bc1a3e4c",
+      "sha1": "5612c34574274d0f5cdeaaea8516543072b63056",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-20T03:48:01.140392-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655718487",
+      "size": "12795",
+      "md5": "bc317186e13dcb208266de61f8d6e803",
+      "crc32": "bfd82e3d",
+      "sha1": "cbe15cfb50df69a83c4996c5fea4110fd97aab8b",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-20T03:48:01.140392-06:00.jpg",
+      "source": "original",
+      "mtime": "1655718483",
+      "size": "330126",
+      "md5": "7af8224133b1dfa5fb63473636145800",
+      "crc32": "019439ed",
+      "sha1": "1040c76d9016e5052eb0e1de42003501c50a8bfd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-06-20T03:48:01.140392-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-06-20T03:48:01.140392-06:00.jpg",
+      "mtime": "1655718553",
+      "size": "10431",
+      "md5": "7890c9be1145bc1707a0cab7550316dd",
+      "crc32": "fef19693",
+      "sha1": "68a74f835ae9ce40aeb5617bf78b6271f46bfab8"
+    },
+    {
+      "name": "source_nm-2022-06-20T07:44:55.775474-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655732698",
+      "size": "15512",
+      "md5": "69f9886f2fa6eddbf569ef8bf40d8a91",
+      "crc32": "73f28f3b",
+      "sha1": "bc2f8cbef2ccaab209b79f027ef090088f74beca",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-20T07:44:55.775474-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655732700",
+      "size": "12708",
+      "md5": "17e3dc0c9c3794d14402a024d7e36185",
+      "crc32": "55b5fe7f",
+      "sha1": "905779da89a8ad4a3380559dfa2f4eb236add0d5",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-20T07:44:55.775474-06:00.jpg",
+      "source": "original",
+      "mtime": "1655732697",
+      "size": "382492",
+      "md5": "88c9b7d64917a17af07a0caa27238d08",
+      "crc32": "5b18bd7b",
+      "sha1": "e970085d44c3662554750b42c06a8ac610d5631e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-06-20T07:44:55.775474-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-06-20T07:44:55.775474-06:00.jpg",
+      "mtime": "1655732753",
+      "size": "10315",
+      "md5": "84f30c0e8db58a2d4c28d768bce98c71",
+      "crc32": "4bb26e32",
+      "sha1": "67a67da594da9d366bdc2356f79f6475fca779b1"
+    },
+    {
+      "name": "source_nm-2022-06-20T11:31:04.591231-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655746275",
+      "size": "15512",
+      "md5": "739babffae07033eea2fb7d58b3a0896",
+      "crc32": "7a1b7404",
+      "sha1": "d5baf1fcb2fd419a8a1e267a6680a19f03dcbd5d",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-20T11:31:04.591231-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655746278",
+      "size": "12708",
+      "md5": "5629682667acb5ed3aa82b9cae3d3f5f",
+      "crc32": "63a5f946",
+      "sha1": "7f81a3de7afd1df55d844b52a264236f02cbaab2",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-20T11:31:04.591231-06:00.jpg",
+      "source": "original",
+      "mtime": "1655746270",
+      "size": "323550",
+      "md5": "8446a3a5243280dcc3a0c2e7cff6ec0a",
+      "crc32": "b44876cf",
+      "sha1": "8461993070ac6b30ba2359e9b201da04bbf1a569",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-06-20T11:31:04.591231-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-06-20T11:31:04.591231-06:00.jpg",
+      "mtime": "1655746346",
+      "size": "10218",
+      "md5": "0e78dc3a7d8d51740c428a38b9625975",
+      "crc32": "0f20ee42",
+      "sha1": "53cc7b9b95b70e4df7a2df0ed1e00b8ce2950230"
+    },
+    {
+      "name": "source_nm-2022-06-20T15:34:22.862427-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655760867",
+      "size": "15512",
+      "md5": "739babffae07033eea2fb7d58b3a0896",
+      "crc32": "7a1b7404",
+      "sha1": "d5baf1fcb2fd419a8a1e267a6680a19f03dcbd5d",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-20T15:34:22.862427-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655760871",
+      "size": "12708",
+      "md5": "5629682667acb5ed3aa82b9cae3d3f5f",
+      "crc32": "63a5f946",
+      "sha1": "7f81a3de7afd1df55d844b52a264236f02cbaab2",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-20T15:34:22.862427-06:00.jpg",
+      "source": "original",
+      "mtime": "1655760866",
+      "size": "323550",
+      "md5": "8446a3a5243280dcc3a0c2e7cff6ec0a",
+      "crc32": "b44876cf",
+      "sha1": "8461993070ac6b30ba2359e9b201da04bbf1a569",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-06-20T15:34:22.862427-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-06-20T15:34:22.862427-06:00.jpg",
+      "mtime": "1655760921",
+      "size": "10218",
+      "md5": "0e78dc3a7d8d51740c428a38b9625975",
+      "crc32": "0f20ee42",
+      "sha1": "53cc7b9b95b70e4df7a2df0ed1e00b8ce2950230"
+    },
+    {
       "name": "source_nm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3cc2cee93cfab4ecfdaeb0eb4a67a227c0728cac",
-      "mtime": "1655681344",
-      "size": "78288",
-      "md5": "046ce9e665e05e77d964c18c46103cf0",
-      "crc32": "c9fff55c",
-      "sha1": "dbfc3070ee2e28c5ebbebbc47a670105846b9d0b",
+      "btih": "a7bc92989f52ce0a1c4bfd308438fd7f022c1f43",
+      "mtime": "1655760929",
+      "size": "83372",
+      "md5": "58ef657676d8d6eda7ac4da30229527c",
+      "crc32": "5ee9e72f",
+      "sha1": "7bbe4d5bdf256498570b639aec127a062e30db52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "source_nm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c7356db37d3b6a3aca7a28b2019f15e9",
+      "md5": "fe116ed097fd544244af916c3cd9b3d6",
       "summation": "md5"
     },
     {
       "name": "source_nm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655681279",
-      "size": "434176",
-      "md5": "ce793e7b59b5b4441cebaee8ed3d06c5",
-      "crc32": "13952623",
-      "sha1": "88bc4fa67f0741d2b1a999a8f2d601e3288b0143",
+      "mtime": "1655760875",
+      "size": "458752",
+      "md5": "b6394e02feacd8d5002823f59e6ed494",
+      "crc32": "4c87c9bc",
+      "sha1": "84f663e68b05fba54411ce620bb1537440ade4da",
       "format": "Metadata"
     },
     {
@@ -3862,9 +4114,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 367,
-  "item_last_updated": 1655681344,
-  "item_size": 33906601,
+  "files_count": 391,
+  "item_last_updated": 1655760929,
+  "item_size": 36187682,
   "metadata": {
     "identifier": "source_nm-2022",
     "collection": [
@@ -3882,7 +4134,429 @@
     "addeddate": "2022-03-25 03:48:20"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 381767564,
+  "source_nm-2022": [
+    {
+      "text": "\n                \n            ",
+      "url": "/"
+    },
+    {
+      "text": "HOME",
+      "url": "/"
+    },
+    {
+      "text": "NEWS",
+      "url": "/news"
+    },
+    {
+      "text": "Education",
+      "url": "https://sourcenm.com/category/education/"
+    },
+    {
+      "text": "Environment & Climate Change",
+      "url": "https://sourcenm.com/category/environment-climate-change/"
+    },
+    {
+      "text": "Police & Prison",
+      "url": "https://sourcenm.com/category/police-prison/"
+    },
+    {
+      "text": "Election 2022",
+      "url": "https://sourcenm.com/category/election-2022/"
+    },
+    {
+      "text": "Health",
+      "url": "https://sourcenm.com/category/health/"
+    },
+    {
+      "text": "Native America",
+      "url": "https://sourcenm.com/category/native-america/"
+    },
+    {
+      "text": "COMMENTARY",
+      "url": "/commentary"
+    },
+    {
+      "text": "ABOUT",
+      "url": "/about"
+    },
+    {
+      "text": "SUBSCRIBE",
+      "url": "/subscribe"
+    },
+    {
+      "text": "DONATE",
+      "url": "/donate"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/source_nm"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/sourcenm"
+    },
+    {
+      "text": "\n                    \n                ",
+      "url": "https://sourcenm.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://sourcenm.com/category/education/"
+    },
+    {
+      "text": "Environment & Climate Change",
+      "url": "https://sourcenm.com/category/environment-climate-change/"
+    },
+    {
+      "text": "Police & Prison",
+      "url": "https://sourcenm.com/category/police-prison/"
+    },
+    {
+      "text": "Election 2022",
+      "url": "https://sourcenm.com/category/election-2022/"
+    },
+    {
+      "text": "Health",
+      "url": "https://sourcenm.com/category/health/"
+    },
+    {
+      "text": "Native America",
+      "url": "https://sourcenm.com/category/native-america/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/20/nm-state-epidemiologist-leaving-next-month/"
+    },
+    {
+      "text": " NM state epidemiologist leaving next month",
+      "url": "https://sourcenm.com/2022/06/20/nm-state-epidemiologist-leaving-next-month/"
+    },
+    {
+      "text": "Austin Fisher",
+      "url": "https://sourcenm.com/author/austinfisher/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/20/electric-appliances-and-technology-could-help-mitigate-climate-change-but-are-costly/"
+    },
+    {
+      "text": " Electric appliances and technology could help mitigate climate change but are costly",
+      "url": "https://sourcenm.com/2022/06/20/electric-appliances-and-technology-could-help-mitigate-climate-change-but-are-costly/"
+    },
+    {
+      "text": "Megan Gleason",
+      "url": "https://sourcenm.com/author/mgleason/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/20/two-nm-tribal-leaders-appointed-to-new-interior-advisory-panel/"
+    },
+    {
+      "text": " Two NM tribal leaders appointed to new Interior advisory panel",
+      "url": "https://sourcenm.com/2022/06/20/two-nm-tribal-leaders-appointed-to-new-interior-advisory-panel/"
+    },
+    {
+      "text": "Shondiin Silversmith, AZ Mirror",
+      "url": "https://sourcenm.com/author/shondiinsilversmith/"
+    },
+    {
+      "text": " In a first, 2 rooms in U.S. Capitol named for women who served in the Senate",
+      "url": "https://sourcenm.com/2022/06/20/in-a-first-2-rooms-in-u-s-capitol-named-for-women-who-served-in-the-senate/"
+    },
+    {
+      "text": "Jennifer Shutt",
+      "url": "https://sourcenm.com/author/jennifer-shutt/"
+    },
+    {
+      "text": " Otero County Votes 2-1 to approve primary results",
+      "url": "https://sourcenm.com/2022/06/17/otero-county-votes-2-1-to-approve-primary-results/"
+    },
+    {
+      "text": "Andrew Beale",
+      "url": "https://sourcenm.com/author/andrewbeale/"
+    },
+    {
+      "text": " Meteorologists warn about flood risk intensifying over the weekend due to wildfires",
+      "url": "https://sourcenm.com/briefs/meteorologists-warn-about-flood-risk-intensifying-over-the-weekend-due-to-wildfires/"
+    },
+    {
+      "text": "Megan Gleason",
+      "url": "https://sourcenm.com/author/mgleason/"
+    },
+    {
+      "text": " Couy Griffin sentenced to time served, meaning no more jail time",
+      "url": "https://sourcenm.com/2022/06/17/couy-griffin-sentenced-to-time-served-meaning-no-more-jail-time/"
+    },
+    {
+      "text": "Andrew Beale",
+      "url": "https://sourcenm.com/author/andrewbeale/"
+    },
+    {
+      "text": " Interior to launch mental health program for wildland firefighters, boost wildfire spending",
+      "url": "https://sourcenm.com/2022/06/17/interior-to-launch-mental-health-program-for-wildland-firefighters-boost-wildfire-spending/"
+    },
+    {
+      "text": "Jacob Fischler",
+      "url": "https://sourcenm.com/author/jacob-fischler/"
+    },
+    {
+      "text": " FDA greenlights emergency use of COVID vaccines for kids under 5",
+      "url": "https://sourcenm.com/2022/06/17/fda-greenlights-emergency-use-of-covid-vaccines-for-kids-under-5/"
+    },
+    {
+      "text": "Jennifer Shutt",
+      "url": "https://sourcenm.com/author/jennifer-shutt/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/subscribe"
+    },
+    {
+      "text": "Commentary",
+      "url": "/commentary"
+    },
+    {
+      "text": " Juneteenth needs to be celebrated",
+      "url": "https://sourcenm.com/2022/06/16/juneteenth-needs-to-be-celebrated/"
+    },
+    {
+      "text": "Barbara Jordan",
+      "url": "https://sourcenm.com/author/barbara-jordan/"
+    },
+    {
+      "text": " A decade with DACA shows sensible immigration policy, we still deserve better",
+      "url": "https://sourcenm.com/2022/06/15/a-decade-with-daca-shows-sensible-immigration-policy-we-still-deserve-better/"
+    },
+    {
+      "text": "Allegra Love",
+      "url": "https://sourcenm.com/author/allegralove/"
+    },
+    {
+      "text": " If competition would kill Amazon Prime, maybe it\u2019s not that great",
+      "url": "https://sourcenm.com/2022/06/15/if-competition-would-kill-amazon-prime-maybe-its-not-that-great/"
+    },
+    {
+      "text": "Stacy Mitchell for the Minnesota Reformer",
+      "url": "https://sourcenm.com/author/stacymitchell/"
+    },
+    {
+      "text": " Election results hold both hope and hazard",
+      "url": "https://sourcenm.com/2022/06/13/election-results-hold-both-hope-and-hazard/"
+    },
+    {
+      "text": "Dede Feldman",
+      "url": "https://sourcenm.com/author/dedefeldman/"
+    },
+    {
+      "text": "READ MORE ",
+      "url": "/commentary"
+    },
+    {
+      "text": "Briefs",
+      "url": "briefs"
+    },
+    {
+      "text": " Feds award $7M for tribal language programs",
+      "url": "https://sourcenm.com/briefs/feds-award-7m-for-tribal-language-programs/"
+    },
+    {
+      "text": "Shaun Griswold",
+      "url": "https://sourcenm.com/author/shaungriswold/"
+    },
+    {
+      "text": " Citing dangerous conditions, public defenders pause visits with clients in New Mexico\u2019s largest jail",
+      "url": "https://sourcenm.com/briefs/citing-dangerous-conditions-public-defenders-pause-visits-with-clients-in-new-mexicos-largest-jail/"
+    },
+    {
+      "text": "Austin Fisher",
+      "url": "https://sourcenm.com/author/austinfisher/"
+    },
+    {
+      "text": " First Jan. 6 hearing to reveal new evidence of Trump conspiracy, panel aides say",
+      "url": "https://sourcenm.com/briefs/first-jan-6-hearing-to-reveal-new-evidence-of-trump-conspiracy-panel-aides-say/"
+    },
+    {
+      "text": "Jacob Fischler",
+      "url": "https://sourcenm.com/author/jacob-fischler/"
+    },
+    {
+      "text": " Fears of voter fraud through same-day registration unbased",
+      "url": "https://sourcenm.com/briefs/claims-of-voter-fraud-through-same-day-registration-unbased/"
+    },
+    {
+      "text": "Megan Gleason",
+      "url": "https://sourcenm.com/author/mgleason/"
+    },
+    {
+      "text": "READ MORE ",
+      "url": "/briefs"
+    },
+    {
+      "text": "DONATE",
+      "url": "/donate"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/17/pence-was-within-40-feet-of-mob-inflamed-by-trump-jan-6-committee-reveals/"
+    },
+    {
+      "text": " Pence was within 40 feet of mob inflamed by Trump, Jan. 6 committee reveals",
+      "url": "https://sourcenm.com/2022/06/17/pence-was-within-40-feet-of-mob-inflamed-by-trump-jan-6-committee-reveals/"
+    },
+    {
+      "text": "Jacob Fischler",
+      "url": "https://sourcenm.com/author/jacob-fischler/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/17/u-s-senate-passes-landmark-legislation-to-aid-veterans-exposed-to-burn-pits-agent-orange/"
+    },
+    {
+      "text": " U.S. Senate passes landmark legislation to aid veterans exposed to burn pits, Agent Orange",
+      "url": "https://sourcenm.com/2022/06/17/u-s-senate-passes-landmark-legislation-to-aid-veterans-exposed-to-burn-pits-agent-orange/"
+    },
+    {
+      "text": "Jennifer Shutt",
+      "url": "https://sourcenm.com/author/jennifer-shutt/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/17/biden-directs-federal-agencies-to-protect-lgbtqi-rights-under-attack-in-gop-led-states/"
+    },
+    {
+      "text": " Biden directs federal agencies to protect LGBTQI+ rights under attack in GOP-led states",
+      "url": "https://sourcenm.com/2022/06/17/biden-directs-federal-agencies-to-protect-lgbtqi-rights-under-attack-in-gop-led-states/"
+    },
+    {
+      "text": "Jacob Fischler",
+      "url": "https://sourcenm.com/author/jacob-fischler/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/17/to-deal-with-the-emergency-at-bernalillo-county-jail-is-releasing-people-on-the-table/"
+    },
+    {
+      "text": " To deal with the emergency at Bernalillo County jail, is releasing people on the table?",
+      "url": "https://sourcenm.com/2022/06/17/to-deal-with-the-emergency-at-bernalillo-county-jail-is-releasing-people-on-the-table/"
+    },
+    {
+      "text": "Austin Fisher",
+      "url": "https://sourcenm.com/author/austinfisher/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/17/epa-announces-toxic-forever-chemicals-are-far-more-dangerous-than-previously-thought/"
+    },
+    {
+      "text": " EPA announces toxic \u2018forever chemicals\u2019 are far more dangerous than previously thought",
+      "url": "https://sourcenm.com/2022/06/17/epa-announces-toxic-forever-chemicals-are-far-more-dangerous-than-previously-thought/"
+    },
+    {
+      "text": "Danielle Prokop, El Paso Matters",
+      "url": "https://sourcenm.com/author/danielle-prokop-el-paso-matters/"
+    },
+    {
+      "text": "READ MORE ",
+      "url": "/news"
+    },
+    {
+      "text": "Weigh in on redistricting",
+      "url": "https://portal.newmexico-mapping.org/"
+    },
+    {
+      "text": "Register to vote online",
+      "url": "https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx"
+    },
+    {
+      "text": "Request an absentee ballot",
+      "url": "https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx"
+    },
+    {
+      "text": "Hit up your state legislator",
+      "url": "https://www.nmlegis.gov/Members/Find_My_Legislator"
+    },
+    {
+      "text": "Look up a bill",
+      "url": "https://www.nmlegis.gov/Legislation/Bill_Finder"
+    },
+    {
+      "text": "Weigh in on redistricting",
+      "url": "https://portal.newmexico-mapping.org/"
+    },
+    {
+      "text": "Register to vote online",
+      "url": "https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx"
+    },
+    {
+      "text": "Request an absentee ballot",
+      "url": "https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx"
+    },
+    {
+      "text": "Hit up your state legislator",
+      "url": "https://www.nmlegis.gov/Members/Find_My_Legislator"
+    },
+    {
+      "text": "Look up a bill",
+      "url": "https://www.nmlegis.gov/Legislation/Bill_Finder"
+    },
+    {
+      "text": "",
+      "url": "mailto:info@sourcenm.com"
+    },
+    {
+      "text": "DEIJ Policy",
+      "url": "/deij-policy"
+    },
+    {
+      "text": "Ethics Policy",
+      "url": "/ethics-policy"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "\n                                \n                            ",
+      "url": "https://twitter.com/source_nm"
+    },
+    {
+      "text": "\n                                \n                            ",
+      "url": "https://www.facebook.com/sourcenm"
+    },
+    {
+      "text": "\n                                \n                            ",
+      "url": "https://apple.news/Tv7k8sPIjSYWXut82PAi2PA"
+    },
+    {
+      "text": "DEIJ Policy",
+      "url": "/deij-policy"
+    },
+    {
+      "text": "Ethics Policy",
+      "url": "/ethics-policy"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "mailto:info@sourcenm.com"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://twitter.com/source_nm"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://www.facebook.com/sourcenm"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://apple.news/Tv7k8sPIjSYWXut82PAi2PA"
+    }
+  ],
+  "uniq": 2035730600,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

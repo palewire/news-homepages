@@ -1,5 +1,5 @@
 {
-  "created": 1655684304,
+  "created": 1655760980,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/17/items/startribune-2022",
@@ -3922,31 +3922,283 @@
       "sha1": "ed496e9216ddb4792aa27530253433be0283b4de"
     },
     {
+      "name": "startribune-2022-06-19T20:32:02.499849-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655688726",
+      "size": "36852",
+      "md5": "fbf3e890690d5715c917a3314abfc096",
+      "crc32": "5996e6de",
+      "sha1": "8310dd9adccd2ad22660fb22b6c4cef82e62244a",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-19T20:32:02.499849-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655688728",
+      "size": "58306",
+      "md5": "ae23a9ae1c51e55f4b93db05404c64a1",
+      "crc32": "8b4556e6",
+      "sha1": "d6714843cc703669cfa2d559dbeded3c9d363d19",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-19T20:32:02.499849-05:00.jpg",
+      "source": "original",
+      "mtime": "1655688724",
+      "size": "309738",
+      "md5": "50fb911d68f4a95347be0e47977347f1",
+      "crc32": "fd91ec62",
+      "sha1": "23a4f7597d7de4f1416ad384f308879ccda29476",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startribune-2022-06-19T20:32:02.499849-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startribune-2022-06-19T20:32:02.499849-05:00.jpg",
+      "mtime": "1655688781",
+      "size": "8769",
+      "md5": "fac3a162a43f747122b7854df7e2645d",
+      "crc32": "d79646eb",
+      "sha1": "d4225eb7d1dcb5261bee52e70955e221afcc2647"
+    },
+    {
+      "name": "startribune-2022-06-20T00:32:15.540866-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655703144",
+      "size": "38640",
+      "md5": "2a1bc24855131f951424870c85f6b18a",
+      "crc32": "2012bd0e",
+      "sha1": "63c30097193a91876bdf335bcf442f83b014acf6",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T00:32:15.540866-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655703146",
+      "size": "57340",
+      "md5": "ee5a45e687fc353c176954ffab7b1c1d",
+      "crc32": "f7d403d0",
+      "sha1": "f56bb14fa69740fd8fb2587ae5591b1b71934e06",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T00:32:15.540866-05:00.jpg",
+      "source": "original",
+      "mtime": "1655703138",
+      "size": "297107",
+      "md5": "13d78bfcfe2e5d6c393eabedf517f596",
+      "crc32": "1d22bd13",
+      "sha1": "8fcbb7bee61064f8cd7c5d825a07d953b97dce8f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startribune-2022-06-20T00:32:15.540866-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startribune-2022-06-20T00:32:15.540866-05:00.jpg",
+      "mtime": "1655703195",
+      "size": "8689",
+      "md5": "8e84f5639d2e09ec2582964f9e735d7e",
+      "crc32": "7f9877f3",
+      "sha1": "3608f1826a5fcd2ac5cda345e7174640a77ed7e3"
+    },
+    {
+      "name": "startribune-2022-06-20T04:48:15.503802-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655718500",
+      "size": "38001",
+      "md5": "1b9425d2f4db40a0b046a56efef9915a",
+      "crc32": "a7a761b3",
+      "sha1": "c48d826232500da7a09e0c121f2c5fdef89eeb82",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T04:48:15.503802-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655718501",
+      "size": "57348",
+      "md5": "1d98e91bbf2f132c7a8d826f48609304",
+      "crc32": "897f8f0a",
+      "sha1": "39b8fca850aa396df240c5e75edb2c378df99860",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T04:48:15.503802-05:00.jpg",
+      "source": "original",
+      "mtime": "1655718498",
+      "size": "295914",
+      "md5": "f35c6877e21941b157382a8480e0012b",
+      "crc32": "b6a49521",
+      "sha1": "cc09fe2fbc09701b39979399eb8d91606eaa9a5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startribune-2022-06-20T04:48:15.503802-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startribune-2022-06-20T04:48:15.503802-05:00.jpg",
+      "mtime": "1655718547",
+      "size": "8693",
+      "md5": "b7e5f3fbb11d6e79c85e29c9baa37dac",
+      "crc32": "7e01a6fd",
+      "sha1": "c8d17b6ea9612e998703c10a93704d02aa193071"
+    },
+    {
+      "name": "startribune-2022-06-20T08:47:13.040457-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655732837",
+      "size": "42930",
+      "md5": "52cf49f15e76a6159f2331dc763d0753",
+      "crc32": "bde47d66",
+      "sha1": "a0fdd85eed18f4ec931695a82c601aec9e6a840a",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T08:47:13.040457-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655732839",
+      "size": "60015",
+      "md5": "22161844fca284429d27d85e69b11083",
+      "crc32": "21ef25e2",
+      "sha1": "b21d9aad3b16aee8bbf8047841ba4d4dd9632b0f",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T08:47:13.040457-05:00.jpg",
+      "source": "original",
+      "mtime": "1655732835",
+      "size": "299663",
+      "md5": "ce8fe965035c6f95288d3131c576e07a",
+      "crc32": "aec3cebe",
+      "sha1": "745373efaa748e8326d1a3db43cb7914eb63ae37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startribune-2022-06-20T08:47:13.040457-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startribune-2022-06-20T08:47:13.040457-05:00.jpg",
+      "mtime": "1655732885",
+      "size": "8730",
+      "md5": "57078d8276d448924644da572a8922b6",
+      "crc32": "1c1c2a6c",
+      "sha1": "67e16919ecf88b71896bb93b5975a98f08ba7051"
+    },
+    {
+      "name": "startribune-2022-06-20T12:31:07.390584-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655746275",
+      "size": "42861",
+      "md5": "02d898cd7c4938444a4f0334252f92e2",
+      "crc32": "f81bf525",
+      "sha1": "a7eafbea40bbfbffbbd52203696cddd5b8d01bd3",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T12:31:07.390584-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655746278",
+      "size": "60494",
+      "md5": "c2873c350acca97a23653648358d5184",
+      "crc32": "e8658d11",
+      "sha1": "0aedf4f3664cc44f8e2107a405e492027a1c1b18",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T12:31:07.390584-05:00.jpg",
+      "source": "original",
+      "mtime": "1655746272",
+      "size": "293527",
+      "md5": "61ec7e8bbeb5a6c753a6d7d912b62469",
+      "crc32": "a2decc74",
+      "sha1": "ba23f5f7ea879f3d043e2de3b7472d5759582d78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startribune-2022-06-20T12:31:07.390584-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startribune-2022-06-20T12:31:07.390584-05:00.jpg",
+      "mtime": "1655746348",
+      "size": "8748",
+      "md5": "021987c5428a99dcd92964a4e45c0424",
+      "crc32": "7c878fbf",
+      "sha1": "4de3ea5b29eaa5d00d945842ad823f6ec8ca4c50"
+    },
+    {
+      "name": "startribune-2022-06-20T16:34:30.720869-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655760875",
+      "size": "42759",
+      "md5": "51b5e6d385abf04ccc3a1f74216497c2",
+      "crc32": "8c38acd6",
+      "sha1": "e01e560016a4faab8153f8b465fdb751a063da66",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T16:34:30.720869-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655760877",
+      "size": "59739",
+      "md5": "e4b4947a45ff5654d20a2e7d67340301",
+      "crc32": "156b8e2d",
+      "sha1": "bc111bac7067f1e235288d7b9b761a4fc3c6300b",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-06-20T16:34:30.720869-05:00.jpg",
+      "source": "original",
+      "mtime": "1655760872",
+      "size": "299071",
+      "md5": "38b3e5c2402e367abcd0c2b822d7e4e1",
+      "crc32": "1817fe3a",
+      "sha1": "8a59865815f6c5474f9244381171cd5740cae417",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startribune-2022-06-20T16:34:30.720869-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startribune-2022-06-20T16:34:30.720869-05:00.jpg",
+      "mtime": "1655760950",
+      "size": "8679",
+      "md5": "cb62531c2bac2244894444dbec6af2e8",
+      "crc32": "a60b9047",
+      "sha1": "ab4d8cfbde952f733ca9d4cbd703e11fff20bc2a"
+    },
+    {
       "name": "startribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d45eea5ab95b0834cf24d22a35f525d7279169dd",
-      "mtime": "1655681340",
-      "size": "81229",
-      "md5": "7a6f25627023232570da9d382602056b",
-      "crc32": "aac5a947",
-      "sha1": "c5e926a17b96cbff45f29a12ccbfe39ef31ee3d2",
+      "btih": "b2d41ac64e7072ac9aaa7c6680f627fb6a94d8a2",
+      "mtime": "1655760956",
+      "size": "86375",
+      "md5": "ca019846b0b0761842084a71d03a0224",
+      "crc32": "5f1a2474",
+      "sha1": "5e48197c72fc840ed85da1f7a1c24439ad0a4571",
       "format": "Archive BitTorrent"
     },
     {
       "name": "startribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c42af116652489010186f6881a05e70b",
+      "md5": "f0a915b10ab3c980e27dcd42ce5e7276",
       "summation": "md5"
     },
     {
       "name": "startribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655681293",
-      "size": "446464",
-      "md5": "d22a12b2fb0f46f208490e43648fc2fc",
-      "crc32": "00e48f7f",
-      "sha1": "421fd491d75a6b9cf53e33d277e34a7e07dd0f30",
+      "mtime": "1655760881",
+      "size": "471040",
+      "md5": "ceaae06e2a0d1a9a95bbe23607c0ce15",
+      "crc32": "74122618",
+      "sha1": "734d87795b6065a5a084bc966c0d45137d3c89d9",
       "format": "Metadata"
     },
     {
@@ -3960,9 +4212,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 377,
-  "item_last_updated": 1655681340,
-  "item_size": 35912709,
+  "files_count": 401,
+  "item_last_updated": 1655760956,
+  "item_size": 38385044,
   "metadata": {
     "identifier": "startribune-2022",
     "collection": [
@@ -3980,1273 +4232,7 @@
     "addeddate": "2022-04-01 22:42:36"
   },
   "server": "ia802503.us.archive.org",
-  "startribune-2022": [
-    {
-      "text": "\n                        All Sections\n                    ",
-      "url": "#SECTION-PAGE"
-    },
-    {
-      "text": "\n        Log In\n    ",
-      "url": "https://www.startribune.com/login/"
-    },
-    {
-      "text": "",
-      "url": "https://users.startribune.com/member_center/"
-    },
-    {
-      "text": "\n                \n                Manage Account\n            ",
-      "url": "https://users.startribune.com/member_center/"
-    },
-    {
-      "text": "\n                \n                eEdition\n            ",
-      "url": "https://www.startribune.com/eedition/"
-    },
-    {
-      "text": "\n                \n                Support\n            ",
-      "url": "https://www.startribune.com/feedback/"
-    },
-    {
-      "text": "\n                \n                Subscribe\n            ",
-      "url": "https://www.startribune.com/subscribe/?intended=https://www.startribune.com/?intended=https://www.startribune.com/"
-    },
-    {
-      "text": "\n                Log Out\n            ",
-      "url": "https://www.startribune.com/logout/"
-    },
-    {
-      "text": "\n                        Support\n                    ",
-      "url": "https://www.startribune.com/feedback/"
-    },
-    {
-      "text": "\n                        eEdition\n                    ",
-      "url": "https://www.startribune.com/eedition/"
-    },
-    {
-      "text": "\n                        Subscribe\n                    ",
-      "url": "https://www.startribune.com/subscribe/?intended=https://www.startribune.com/"
-    },
-    {
-      "text": "\n            \n        ",
-      "url": "https://www.startribune.com/weather/"
-    },
-    {
-      "text": "\n            95\u00b0\n        ",
-      "url": "https://www.startribune.com/weather/"
-    },
-    {
-      "text": "\n        Forecast\n    ",
-      "url": "https://www.startribune.com/weather/"
-    },
-    {
-      "text": "\n        Traffic\n    ",
-      "url": "https://www.startribune.com/local/traffic/"
-    },
-    {
-      "text": "\n                        Star Tribune\n                    ",
-      "url": "https://www.startribune.com/"
-    },
-    {
-      "text": "\n                            Local\n                            \n                        ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "\n                            Sports\n                            \n                        ",
-      "url": "https://www.startribune.com/sports/"
-    },
-    {
-      "text": "\n                            Business\n                            \n                        ",
-      "url": "https://www.startribune.com/business/"
-    },
-    {
-      "text": "\n                            Opinion\n                            \n                        ",
-      "url": "https://www.startribune.com/opinion/"
-    },
-    {
-      "text": "\n                            Variety\n                            \n                        ",
-      "url": "https://www.startribune.com/variety/"
-    },
-    {
-      "text": "\n                        2021 Pulitzer Prize\n                        For Breaking News\n                    ",
-      "url": "/honors-for-bearing-witness-star-tribune-wins-pulitzer-for-george-floyd-reporting/600067279/"
-    },
-    {
-      "text": "\n                            Obituaries\n                            \n                        ",
-      "url": "https://www.startribune.com/obituaries/"
-    },
-    {
-      "text": "\n                            Classifieds\n                            \n                        ",
-      "url": "https://www.startribune.com/classifieds/"
-    },
-    {
-      "text": "\n                            Autos\n                            \n                        ",
-      "url": "https://www.startribune.com/autos/"
-    },
-    {
-      "text": "\n                            Housing\n                            \n                        ",
-      "url": "https://www.startribune.com/housing/"
-    },
-    {
-      "text": "\n                            Jobs\n                            \n                        ",
-      "url": "https://www.startribune.com/jobs/"
-    },
-    {
-      "text": "\n                            Home\n                        ",
-      "url": "https://www.startribune.com/"
-    },
-    {
-      "text": "\n                            All Sections\n                        ",
-      "url": "#SECTIONS-PAGE"
-    },
-    {
-      "text": "\n                StarTribune\n            ",
-      "url": "https://www.startribune.com/"
-    },
-    {
-      "text": "\n        Log In\n    ",
-      "url": "https://www.startribune.com/login/"
-    },
-    {
-      "text": "",
-      "url": "https://users.startribune.com/member_center/"
-    },
-    {
-      "text": "\n                \n                Manage Account\n            ",
-      "url": "https://users.startribune.com/member_center/"
-    },
-    {
-      "text": "\n                \n                eEdition\n            ",
-      "url": "https://www.startribune.com/eedition/"
-    },
-    {
-      "text": "\n                \n                Support\n            ",
-      "url": "https://www.startribune.com/feedback/"
-    },
-    {
-      "text": "\n                \n                Subscribe\n            ",
-      "url": "https://www.startribune.com/subscribe/"
-    },
-    {
-      "text": "\n                Log Out\n            ",
-      "url": "https://www.startribune.com/logout/"
-    },
-    {
-      "text": "\n                            Subscribe\n                        ",
-      "url": "https://www.startribune.com/subscribe/?intended=https://www.startribune.com/"
-    },
-    {
-      "text": "\n                                Home\n                            ",
-      "url": "https://www.startribune.com/home/"
-    },
-    {
-      "text": "\n                                Local\n                            ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "\n                                Sports\n                            ",
-      "url": "https://www.startribune.com/sports/"
-    },
-    {
-      "text": "\n                                Business\n                            ",
-      "url": "https://www.startribune.com/business/"
-    },
-    {
-      "text": "\n                                Opinion\n                            ",
-      "url": "https://www.startribune.com/opinion/"
-    },
-    {
-      "text": "\n                                Variety\n                            ",
-      "url": "https://www.startribune.com/variety/"
-    },
-    {
-      "text": "\n                                Politics\n                            ",
-      "url": "https://www.startribune.com/politics/"
-    },
-    {
-      "text": "\n                                Nation\n                            ",
-      "url": "https://www.startribune.com/nation/"
-    },
-    {
-      "text": "\n                                World\n                            ",
-      "url": "https://www.startribune.com/world/"
-    },
-    {
-      "text": "\n                                Science\n                            ",
-      "url": "https://www.startribune.com/science/"
-    },
-    {
-      "text": "\n                                Weather\n                            ",
-      "url": "https://www.startribune.com/weather/"
-    },
-    {
-      "text": "\n                                Traffic\n                            ",
-      "url": "https://www.startribune.com/local/traffic/"
-    },
-    {
-      "text": "\n                                Video\n                            ",
-      "url": "https://www.startribune.com/video/"
-    },
-    {
-      "text": "\n                                Photography\n                            ",
-      "url": "https://www.startribune.com/photography/"
-    },
-    {
-      "text": "\n                                Obituaries\n                            ",
-      "url": "https://www.startribune.com/obituaries/"
-    },
-    {
-      "text": "\n                                Archives: 150+ years\n                            ",
-      "url": "http://startribune.newspapers.com/"
-    },
-    {
-      "text": "\n                                Minnesota's Best\n                            ",
-      "url": "https://www.votedminnesotasbest.com/"
-    },
-    {
-      "text": "\n                                Classifieds\n                            ",
-      "url": "https://www.startribune.com/classifieds/"
-    },
-    {
-      "text": "\n                                Autos\n                            ",
-      "url": "https://www.startribune.com/autos/"
-    },
-    {
-      "text": "\n                                Housing\n                            ",
-      "url": "https://www.startribune.com/housing/"
-    },
-    {
-      "text": "\n                                Jobs\n                            ",
-      "url": "https://www.startribune.com/jobs/"
-    },
-    {
-      "text": "\n                                        Coronavirus\n                                    ",
-      "url": "https://www.startribune.com/local/coronavirus/"
-    },
-    {
-      "text": "\n                                        Minneapolis\n                                    ",
-      "url": "https://www.startribune.com/local/minneapolis/"
-    },
-    {
-      "text": "\n                                        St. Paul\n                                    ",
-      "url": "https://www.startribune.com/local/stpaul/"
-    },
-    {
-      "text": "\n                                        Duluth\n                                    ",
-      "url": "https://www.startribune.com/local/duluth/"
-    },
-    {
-      "text": "\n                                        St. Cloud\n                                    ",
-      "url": "https://www.startribune.com/local/stcloud/"
-    },
-    {
-      "text": "\n                                        Rochester\n                                    ",
-      "url": "https://www.startribune.com/local/rochester/"
-    },
-    {
-      "text": "\n                                        East Metro\n                                    ",
-      "url": "https://www.startribune.com/local/east/"
-    },
-    {
-      "text": "\n                                        North Metro\n                                    ",
-      "url": "https://www.startribune.com/local/north/"
-    },
-    {
-      "text": "\n                                        South Metro\n                                    ",
-      "url": "https://www.startribune.com/local/south/"
-    },
-    {
-      "text": "\n                                        West Metro\n                                    ",
-      "url": "https://www.startribune.com/local/west/"
-    },
-    {
-      "text": "\n                                                        James Lileks\n                                                    ",
-      "url": "https://www.startribune.com/james-lileks/6134704/"
-    },
-    {
-      "text": "\n                                                        Jennifer Brooks\n                                                    ",
-      "url": "https://www.startribune.com/jennifer-brooks/6134701/"
-    },
-    {
-      "text": "\n                                        State Fair\n                                    ",
-      "url": "https://www.startribune.com/local/fair/"
-    },
-    {
-      "text": "\n                                        Curious Minnesota\n                                    ",
-      "url": "https://www.startribune.com/local/curiousminnesota/"
-    },
-    {
-      "text": "\n                                        Twins\n                                    ",
-      "url": "https://www.startribune.com/sports/twins/"
-    },
-    {
-      "text": "\n                                        Vikings\n                                    ",
-      "url": "https://www.startribune.com/sports/vikings/"
-    },
-    {
-      "text": "\n                                        Wild\n                                    ",
-      "url": "https://www.startribune.com/sports/wild/"
-    },
-    {
-      "text": "\n                                        Wolves\n                                    ",
-      "url": "https://www.startribune.com/sports/wolves/"
-    },
-    {
-      "text": "\n                                        Loons\n                                    ",
-      "url": "https://www.startribune.com/sports/soccer/"
-    },
-    {
-      "text": "\n                                        Lynx\n                                    ",
-      "url": "https://www.startribune.com/sports/lynx/"
-    },
-    {
-      "text": "\n                                        Gophers\n                                    ",
-      "url": "https://www.startribune.com/sports/gophers/"
-    },
-    {
-      "text": "\n                                        Colleges\n                                    ",
-      "url": "https://www.startribune.com/sports/college/"
-    },
-    {
-      "text": "\n                                        Golf\n                                    ",
-      "url": "https://www.startribune.com/sports/golf/"
-    },
-    {
-      "text": "\n                                        Motorsports\n                                    ",
-      "url": "https://www.startribune.com/sports/motorsports/"
-    },
-    {
-      "text": "\n                                        Outdoors\n                                    ",
-      "url": "https://www.startribune.com/sports/outdoors/"
-    },
-    {
-      "text": "\n                                        High Schools\n                                    ",
-      "url": "https://www.startribune.com/sports/preps/"
-    },
-    {
-      "text": "\n                                        Puck Drop\n                                    ",
-      "url": "https://www.startribune.com/sports/puckdrop/"
-    },
-    {
-      "text": "\n                                                        Dennis Anderson\n                                                    ",
-      "url": "https://www.startribune.com/dennis-anderson/6370590/"
-    },
-    {
-      "text": "\n                                                        Sid Hartman\n                                                    ",
-      "url": "https://www.startribune.com/sid-hartman/6370534/"
-    },
-    {
-      "text": "\n                                                        Patrick Reusse\n                                                    ",
-      "url": "https://www.startribune.com/patrick-reusse/6370480/"
-    },
-    {
-      "text": "\n                                                        Chip Scoggins\n                                                    ",
-      "url": "https://www.startribune.com/chip-scoggins/6370598/"
-    },
-    {
-      "text": "\n                                                        Jim Souhan\n                                                    ",
-      "url": "https://www.startribune.com/jim-souhan/6134710/"
-    },
-    {
-      "text": "\n                                                        Access Vikings\n                                                    ",
-      "url": "https://www.startribune.com/sports/vikings/access-vikings/"
-    },
-    {
-      "text": "\n                                                        Gophers Basketball\n                                                    ",
-      "url": "https://www.startribune.com/sports/gophers/gophers-basketball/"
-    },
-    {
-      "text": "\n                                                        Gophers Football\n                                                    ",
-      "url": "https://www.startribune.com/sports/gophers/gophers-football/"
-    },
-    {
-      "text": "\n                                                        Gophers Hockey\n                                                    ",
-      "url": "https://www.startribune.com/sports/gophers/gophers-hockey/"
-    },
-    {
-      "text": "\n                                                        The Lynx Beat\n                                                    ",
-      "url": "https://www.startribune.com/sports/lynx/the-lynx-beat/"
-    },
-    {
-      "text": "\n                                                        Preps Insider\n                                                    ",
-      "url": "https://www.startribune.com/sports/preps/preps-insider/"
-    },
-    {
-      "text": "\n                                                        The Olympics\n                                                    ",
-      "url": "https://www.startribune.com/sports/olympics/olympics-blog/"
-    },
-    {
-      "text": "\n                                                        Randball\n                                                    ",
-      "url": "https://www.startribune.com/sports/randball/"
-    },
-    {
-      "text": "\n                                                        StribSports Upload\n                                                    ",
-      "url": "https://www.startribune.com/sports/stribsports-upload/"
-    },
-    {
-      "text": "\n                                                        The Twins Beat\n                                                    ",
-      "url": "https://www.startribune.com/sports/twins/the-twins-beat/"
-    },
-    {
-      "text": "\n                                                        The United Beat\n                                                    ",
-      "url": "https://www.startribune.com/sports/soccer/the-united-beat/"
-    },
-    {
-      "text": "\n                                                        The Wild Beat\n                                                    ",
-      "url": "https://www.startribune.com/sports/wild/the-wild-beat/"
-    },
-    {
-      "text": "\n                                                        The Wolves Beat\n                                                    ",
-      "url": "https://www.startribune.com/sports/wolves/the-wolves-beat/"
-    },
-    {
-      "text": "\n                                        Top Workplaces\n                                    ",
-      "url": "https://www.startribune.com/jobs/topworkplaces/"
-    },
-    {
-      "text": "\n                                        Agriculture\n                                    ",
-      "url": "https://www.startribune.com/business/agriculture/"
-    },
-    {
-      "text": "\n                                                        Lee Schafer\n                                                    ",
-      "url": "https://www.startribune.com/lee-schafer/6134703/"
-    },
-    {
-      "text": "\n                                                        Neal St. Anthony\n                                                    ",
-      "url": "https://www.startribune.com/neal-st-anthony/6370535/"
-    },
-    {
-      "text": "\n                                        Opinion Exchange\n                                    ",
-      "url": "https://www.startribune.com/opinion/commentaries/"
-    },
-    {
-      "text": "\n                                        Editorial\n                                    ",
-      "url": "https://www.startribune.com/opinion/editorials/"
-    },
-    {
-      "text": "\n                                        Steve Sack\n                                    ",
-      "url": "https://www.startribune.com/opinion/cartoons/"
-    },
-    {
-      "text": "\n                                        Letters\n                                    ",
-      "url": "https://www.startribune.com/opinion/letters/"
-    },
-    {
-      "text": "\n                                        Opinion/Election\n                                    ",
-      "url": "https://www.startribune.com/opinion/election/"
-    },
-    {
-      "text": "\n                                        New Voices\n                                    ",
-      "url": "https://www.startribune.com/opinion/newvoices/"
-    },
-    {
-      "text": "\n                                                        Playing Politics\n                                                    ",
-      "url": "https://www.startribune.com/podcasts/playing-politics/"
-    },
-    {
-      "text": "\n                                        Books\n                                    ",
-      "url": "https://www.startribune.com/variety/books/"
-    },
-    {
-      "text": "\n                                        Celebs\n                                    ",
-      "url": "https://www.startribune.com/variety/celebrities/"
-    },
-    {
-      "text": "\n                                        Comics & Games\n                                    ",
-      "url": "https://www.startribune.com/variety/comicgames/"
-    },
-    {
-      "text": "\n                                        Horoscopes\n                                    ",
-      "url": "https://www.startribune.com/horoscopes/"
-    },
-    {
-      "text": "\n                                        Eat & Drink\n                                    ",
-      "url": "https://www.startribune.com/variety/dining/"
-    },
-    {
-      "text": "\n                                        Movies\n                                    ",
-      "url": "https://www.startribune.com/variety/movies/"
-    },
-    {
-      "text": "\n                                        Music\n                                    ",
-      "url": "https://www.startribune.com/variety/music/"
-    },
-    {
-      "text": "\n                                        Stage & Arts\n                                    ",
-      "url": "https://www.startribune.com/variety/stageandarts/"
-    },
-    {
-      "text": "\n                                        TV & Media\n                                    ",
-      "url": "https://www.startribune.com/variety/tv/"
-    },
-    {
-      "text": "\n                                        Best of MN\n                                    ",
-      "url": "https://www.startribune.com/variety/bestofmn/"
-    },
-    {
-      "text": "\n                                        Health\n                                    ",
-      "url": "https://www.startribune.com/variety/health/"
-    },
-    {
-      "text": "\n                                        Home & Garden\n                                    ",
-      "url": "https://www.startribune.com/variety/homegarden/"
-    },
-    {
-      "text": "\n                                        Inspired\n                                    ",
-      "url": "https://www.startribune.com/variety/inspired/"
-    },
-    {
-      "text": "\n                                        Style\n                                    ",
-      "url": "https://www.startribune.com/variety/style/"
-    },
-    {
-      "text": "\n                                        Taste\n                                    ",
-      "url": "https://www.startribune.com/variety/taste/"
-    },
-    {
-      "text": "\n                                        The Good Life\n                                    ",
-      "url": "https://www.startribune.com/variety/goodlife/"
-    },
-    {
-      "text": "\n                                        Travel\n                                    ",
-      "url": "https://www.startribune.com/variety/travel/"
-    },
-    {
-      "text": "\n                                                        Gail Rosenblum\n                                                    ",
-      "url": "https://www.startribune.com/gail-rosenblum/6370567/"
-    },
-    {
-      "text": "\n                                                        C. J\n                                                    ",
-      "url": "https://www.startribune.com/c-j/6370483/"
-    },
-    {
-      "text": "\n                                        View all Obituaries\n                                    ",
-      "url": "https://www.startribune.com/obituaries/todays/"
-    },
-    {
-      "text": "\n                                        Place an Obituary Notice\n                                    ",
-      "url": "https://www.startribune.com/obituaries/place-an-obituary/"
-    },
-    {
-      "text": "\n                                        Winners\n                                    ",
-      "url": "https://www.votedminnesotasbest.com/"
-    },
-    {
-      "text": "\n                                        Nominations\n                                    ",
-      "url": "https://www.votedminnesotasbest.com/"
-    },
-    {
-      "text": "\n                                        Voting\n                                    ",
-      "url": "https://www.votedminnesotasbest.com/"
-    },
-    {
-      "text": "\n                                        About\n                                    ",
-      "url": "https://www.votedminnesotasbest.com/"
-    },
-    {
-      "text": "\n                                        Place an Ad\n                                    ",
-      "url": "http://startribune.adperfect.com/"
-    },
-    {
-      "text": "\n                                        Garage Sales\n                                    ",
-      "url": "http://classifieds.startribune.com/default/garage-sales/search/"
-    },
-    {
-      "text": "\n                                        Estate Sales\n                                    ",
-      "url": "http://classifieds.startribune.com/default/estate-sales/search/"
-    },
-    {
-      "text": "\n                                        Merchandise\n                                    ",
-      "url": "http://classifieds.startribune.com/default/merchandise/search/"
-    },
-    {
-      "text": "\n                                        Pets\n                                    ",
-      "url": "http://classifieds.startribune.com/default/pets/search/"
-    },
-    {
-      "text": "\n                                        Public Notices\n                                    ",
-      "url": "https://www.startribune.com/publicnotices/"
-    },
-    {
-      "text": "\n                                        Recreational Vehicles & Marina\n                                    ",
-      "url": "http://classifieds.startribune.com/default/recreational-vehicles/search/"
-    },
-    {
-      "text": "\n                                        Auctions\n                                    ",
-      "url": "https://apps.startribune.com/auctions/"
-    },
-    {
-      "text": "\n                                        Search Used Vehicles\n                                    ",
-      "url": "https://www.startribune.com/autos/"
-    },
-    {
-      "text": "\n                                        Sell your Vehicle\n                                    ",
-      "url": "http://startribune.adperfect.com/"
-    },
-    {
-      "text": "\n                                        Advertise\n                                    ",
-      "url": "https://www.startribune.com/housing/sell/"
-    },
-    {
-      "text": "\n                                        Rentals\n                                    ",
-      "url": "https://www.startribune.com/housing/rent/"
-    },
-    {
-      "text": "\n                                        Commercial\n                                    ",
-      "url": "http://classifieds.startribune.com/default/real-estate-business-ind-investment-property/search"
-    },
-    {
-      "text": "\n                                        Foreclosures\n                                    ",
-      "url": "https://www.startribune.com/housing/foreclosures/"
-    },
-    {
-      "text": "\n                                        Find a Job\n                                    ",
-      "url": "http://jobs.startribune.com/jobs/"
-    },
-    {
-      "text": "\n                                        Your Resume\n                                    ",
-      "url": "https://www.startribune.com/jobs/resume"
-    },
-    {
-      "text": "\n                                        Your Account\n                                    ",
-      "url": "http://jobs.startribune.com/logon/?PipelinedPage=%7E%2faccount%2f&PipelinedQueryString="
-    },
-    {
-      "text": "\n                                        Employer A-Z\n                                    ",
-      "url": "http://jobs.startribune.com/employers/"
-    },
-    {
-      "text": "\n                                        Top Workplaces\n                                    ",
-      "url": "https://www.startribune.com/jobs/topworkplaces/"
-    },
-    {
-      "text": "\n                                        Post a Job\n                                    ",
-      "url": "https://startribunejobs-rs.madgexjb.com/"
-    },
-    {
-      "text": "Four cities to test wells after audit raises pollution concerns",
-      "url": "https://www.startribune.com/four-cities-get-aid-to-test-wells-after-questions-raised-about-petroleum-cleanup-standards/600183498/"
-    },
-    {
-      "text": "EPA tightens the health standard for 'forever chemicals' in drinking water",
-      "url": "https://www.startribune.com/epa-tightens-the-health-standard-for-forever-chemicals-in-drinking-water/600182471/"
-    },
-    {
-      "text": "Dakota County residents will get financial help to treat contaminated private wells",
-      "url": "https://www.startribune.com/dakota-county-to-fund-water-treatment-for-some-low-income-residents-with-contaminated-private-wells/600169669/"
-    },
-    {
-      "text": "High levels of arsenic found in well water in northeast Minn. township",
-      "url": "https://www.startribune.com/high-levels-of-arsenic-found-in-greenwood-township-water-in-northeast-minnesota/600123115/"
-    },
-    {
-      "text": "\n        Weather\n    ",
-      "url": "https://www.startribune.com/weather/"
-    },
-    {
-      "text": "The heat is on: Mid to upper 90s forecast today and Monday",
-      "url": "https://www.startribune.com/the-heat-is-on-mid-to-upper-90s-forecast-today-and-monday/600183448/"
-    },
-    {
-      "text": "Heat stroke, heat exhaustion: How to recognize, what to do",
-      "url": "https://www.startribune.com/heat-stroke-heat-exhaustion-how-to-recognize-what-to-do/600183450/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/many-minnesota-churches-are-changing-their-names-to-appeal-to-millennials/600182960/"
-    },
-    {
-      "text": "\n        Local\n    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "Many Minnesota churches are putting their faith in new names",
-      "url": "https://www.startribune.com/many-minnesota-churches-are-changing-their-names-to-appeal-to-millennials/600182960/"
-    },
-    {
-      "text": "131 comments",
-      "url": "https://www.startribune.com/many-minnesota-churches-are-changing-their-names-to-appeal-to-millennials/600182960/#comments"
-    },
-    {
-      "text": "More Americans are losing their religion: 'How do we compete with secular culture?'",
-      "url": "https://www.startribune.com/fewer-than-half-of-americans-belong-to-a-church-gallup-finds/600060214/"
-    },
-    {
-      "text": "\n        Local\n    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "St. Paul fire crews recover bodies of two workers who died in 'dirt avalanche' in trench",
-      "url": "https://www.startribune.com/st-paul-fire-crews-recover-bodies-of-two-workers-who-died-in-dirt-avalanche-in-trench/600183317/"
-    },
-    {
-      "text": "\n        Local\n    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "More Twin Cities communities, schools celebrate Juneteenth",
-      "url": "https://www.startribune.com/more-twin-cities-metro-communities-schools-celebrate-juneteenth/600183488/"
-    },
-    {
-      "text": "Juneteenth celebrations emphasize ending racial disparities",
-      "url": "https://www.startribune.com/juneteenth-celebrations-emphasize-ending-racial-disparities/600183470/"
-    },
-    {
-      "text": "\n        More Top Headlines\n    ",
-      "url": "#"
-    },
-    {
-      "text": "\n                    Jan. 6 committee setting its sights on Pence, Ginni Thomas    \n\n          2:31pm\n      \n                ",
-      "url": "https://www.startribune.com/jan-6-committee-setting-its-sights-on-pence-ginni-thomas/600183469/"
-    },
-    {
-      "text": "\n                    World swimming bans transgender athletes from women's events    \n\n          3:42pm\n      \n                ",
-      "url": "https://www.startribune.com/world-swimming-bans-transgender-athletes-from-women-s-events/600183433/"
-    },
-    {
-      "text": "\n                    Reports: Paul Haggis detained in Italy in sex assault case    \n\n          4:47pm\n      \n                ",
-      "url": "https://www.startribune.com/reports-paul-haggis-detained-in-italy-in-sex-assault-case/600183447/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/study-homeless-and-incarcerated-minnesotans-struggled-to-get-covid-19-vaccines/600183499/"
-    },
-    {
-      "text": "Homeless Minnesotans struggle to get COVID-19 vaccine",
-      "url": "https://www.startribune.com/study-homeless-and-incarcerated-minnesotans-struggled-to-get-covid-19-vaccines/600183499/"
-    },
-    {
-      "text": "US opens COVID vaccine to little kids; shots begin this week",
-      "url": "https://www.startribune.com/us-opens-covid-vaccine-to-little-kids-shots-begin-this-week/600183277/"
-    },
-    {
-      "text": "Wastewater COVID-19 levels falling across Minnesota",
-      "url": "https://www.startribune.com/wastewater-covid-19-levels-falling-across-minnesota/600183040/"
-    },
-    {
-      "text": "'We saved lives': How isolating Minnesota's homeless kept them safe from COVID-19",
-      "url": "https://www.startribune.com/we-saved-lives-how-isolating-minnesota-s-homeless-kept-them-safe-from-covid-19/600034059/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/chet-holmgren-kendall-brown-and-david-roddy-look-to-represent-minnesota-in-the-2022-nba-draft/600183496/"
-    },
-    {
-      "text": "\n        Sports\n    ",
-      "url": "https://www.startribune.com/sports/"
-    },
-    {
-      "text": "Chet Holmgren, Kendall Brown and David Roddy look to represent Minnesota in the 2022 NBA draft",
-      "url": "https://www.startribune.com/chet-holmgren-kendall-brown-and-david-roddy-look-to-represent-minnesota-in-the-2022-nba-draft/600183496/"
-    },
-    {
-      "text": "Minnesota's trio of NBA draft hopefuls",
-      "url": "https://www.startribune.com/minnesotas-trio-of-nba-draft-hopefuls/600183493/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/live-at-3-10-p-m-twins-diamondbacks-series-finale-from-arizona/600183091/"
-    },
-    {
-      "text": "\n        Sports\n    ",
-      "url": "https://www.startribune.com/sports/"
-    },
-    {
-      "text": "Live: Twins-Diamondbacks series finale from Arizona",
-      "url": "https://www.startribune.com/live-at-3-10-p-m-twins-diamondbacks-series-finale-from-arizona/600183091/"
-    },
-    {
-      "text": "'Cheater! Cheater!' Correa still hears boos, taunts from Astros scandal",
-      "url": "https://www.startribune.com/carlos-correa-twins-shortstop-astros-scandal-boos-all-star/600183056/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/to-fight-climate-despair-this-christian-ecologist-says-science-isn-t-enough/600183381/"
-    },
-    {
-      "text": "\n        Science\n    ",
-      "url": "https://www.startribune.com/science/"
-    },
-    {
-      "text": "To fight climate despair, this Christian ecologist says science isn't enough",
-      "url": "https://www.startribune.com/to-fight-climate-despair-this-christian-ecologist-says-science-isn-t-enough/600183381/"
-    },
-    {
-      "text": "\n                \n            ",
-      "url": "https://www.startribune.com/home-cooling-tips-during-a-heat-wave/600182938/"
-    },
-    {
-      "text": "How to keep your home cool when it's hot outside",
-      "url": "https://www.startribune.com/home-cooling-tips-during-a-heat-wave/600182938/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/metro-transit-courts-students-with-summer-passes/600183476/"
-    },
-    {
-      "text": "\n        Local\n    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "Metro Transit courts students with summer passes",
-      "url": "https://www.startribune.com/metro-transit-courts-students-with-summer-passes/600183476/"
-    },
-    {
-      "text": "To regain riders, Metro Transit still must address safety fears",
-      "url": "https://www.startribune.com/crime-on-metro-transit-uneven-during-pandemic/600183289/"
-    },
-    {
-      "text": "\n        Opinion\n    ",
-      "url": "https://www.startribune.com/opinion/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/how-we-almost-lost-our-democracy/600183331/"
-    },
-    {
-      "text": "\n            How we almost lost our democracy\n        ",
-      "url": "https://www.startribune.com/how-we-almost-lost-our-democracy/600183331/"
-    },
-    {
-      "text": "\n                        Happy Father's Day to one and all\n                    ",
-      "url": "https://www.startribune.com/happy-fathers-day-to-one-and-all/600183330/"
-    },
-    {
-      "text": "\n                        Editorial cartoon: Dave Granlund on climate change\n                    ",
-      "url": "https://www.startribune.com/editorial-cartoon-dave-granlund-on-climate-change/600183332/"
-    },
-    {
-      "text": "\n        Sports\n    ",
-      "url": "https://www.startribune.com/sports/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/minnesota-is-national-leader-in-girls-high-school-sports-participation/600182377/"
-    },
-    {
-      "text": "\n                        Minnesota is national leader in girls' high school sports participation\n                    ",
-      "url": "https://www.startribune.com/minnesota-is-national-leader-in-girls-high-school-sports-participation/600182377/"
-    },
-    {
-      "text": "\n                        Chet Holmgren, Kendall Brown and David Roddy look to represent Minnesota in the 2022 NBA draft\n                    ",
-      "url": "https://www.startribune.com/chet-holmgren-kendall-brown-and-david-roddy-look-to-represent-minnesota-in-the-2022-nba-draft/600183496/"
-    },
-    {
-      "text": "\n                        MLB moving forward with long-delayed 13-pitcher limit\n                    ",
-      "url": "https://www.startribune.com/mlb-moving-forward-with-long-delayed-13-pitcher-limit/600183467/"
-    },
-    {
-      "text": "\n        Local\n    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/ten-years-after-catastrophic-flood-of-2012-is-duluth-ready-for-the-next-one/600183298/"
-    },
-    {
-      "text": "\n                        Ten years after catastrophic flood of 2012, is Duluth ready for the next one?\n                    ",
-      "url": "https://www.startribune.com/ten-years-after-catastrophic-flood-of-2012-is-duluth-ready-for-the-next-one/600183298/"
-    },
-    {
-      "text": "\n                        Robert Fisch, Minneapolis doctor, artist, author and Holocaust survivor, dies at 97\n                    ",
-      "url": "https://www.startribune.com/robert-fisch-minneapolis-doctor-artist-author-and-holocaust-survivor-dies-at-97/600183280/"
-    },
-    {
-      "text": "\n                        St. Paul fire crews recover bodies of two workers who died in 'dirt avalanche' in trench\n                    ",
-      "url": "https://www.startribune.com/st-paul-fire-crews-recover-bodies-of-two-workers-who-died-in-dirt-avalanche-in-trench/600183317/"
-    },
-    {
-      "text": "\n        Business\n    ",
-      "url": "https://www.startribune.com/business/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/how-to-decipher-your-electric-bill-in-minnesota/600183456/"
-    },
-    {
-      "text": "\n                        How to decipher your electric bill in Minnesota\n                    ",
-      "url": "https://www.startribune.com/how-to-decipher-your-electric-bill-in-minnesota/600183456/"
-    },
-    {
-      "text": "\n                        Have you thought of investing in a startup? Here's what you need to know\n                    ",
-      "url": "https://www.startribune.com/have-you-thought-of-investing-in-a-startup-heres-what-you-need-to-know/600183457/"
-    },
-    {
-      "text": "\n                        Singletary: Here are seven ways to prepare for recession\n                    ",
-      "url": "https://www.startribune.com/singletary-here-are-seven-ways-to-prepare-for-recession/600183454/"
-    },
-    {
-      "text": "\n        Variety\n    ",
-      "url": "https://www.startribune.com/variety/"
-    },
-    {
-      "text": "\n                    \n                                            \n                                        \n                ",
-      "url": "https://www.startribune.com/yuen-how-the-golden-girls-of-law-school-found-friendship-for-life/600182965/"
-    },
-    {
-      "text": "\n                        Yuen: How the 'Golden Girls' of law school found friendship for life\n                    ",
-      "url": "https://www.startribune.com/yuen-how-the-golden-girls-of-law-school-found-friendship-for-life/600182965/"
-    },
-    {
-      "text": "\n                        Rural Minnesota pitchman says small-town life sells itself. Millennials and GenXers are buying.\n                    ",
-      "url": "https://www.startribune.com/rural-minnesota-pitchman-says-small-town-life-sells-itself-millennials-and-genxers-are-buying/600182964/"
-    },
-    {
-      "text": "\n                        'Gay Pride was invented here': The origins of Pride in the Twin Cities\n                    ",
-      "url": "https://www.startribune.com/50-years-anniversary-twin-cities-gay-pride-parade-minneapolis-st-paul-lesbian-lgbt-lgbtq-history/600180582/"
-    },
-    {
-      "text": "\n        Today's Video\n    ",
-      "url": "https://video.startribune.com/"
-    },
-    {
-      "text": "\n                Evening forecast: Mostly clear; excessive heat warning continues\n            ",
-      "url": "https://video.startribune.com/evening-forecast-mostly-clear-excessive-heat-warning-continues/600183505/"
-    },
-    {
-      "text": "\n            The Stream\n            News, updates from around the Web\n        ",
-      "url": "https://live.startribune.com/Event/Trending_2"
-    },
-    {
-      "text": "only a third of homeless Minnesotans have gotten a COVID vaccine",
-      "url": "https://www.startribune.com/study-homeless-and-incarcerated-minnesotans-struggled-to-get-covid-19-vaccines/600183499/"
-    },
-    {
-      "text": "may subpoena former Vice President Mike Pence",
-      "url": "https://www.startribune.com/jan-6-committee-setting-its-sights-on-pence-ginni-thomas/600183469/"
-    },
-    {
-      "text": "effectively banned transgender women from competing",
-      "url": "https://www.startribune.com/world-swimming-bans-transgender-athletes-from-womens-events/600183433/"
-    },
-    {
-      "text": "allows Minneapolis Public Schools students to by a $30 pass for the summer",
-      "url": "https://www.startribune.com/metro-transit-courts-students-with-summer-passes/600183476/"
-    },
-    {
-      "text": "A year after President Joe Biden",
-      "url": "https://www.startribune.com/juneteenth-celebrations-emphasize-ending-racial-disparities/600183470/"
-    },
-    {
-      "text": "The Twins and Diamondbacks",
-      "url": "https://www.startribune.com/sports/twins/match/live/30772637/"
-    },
-    {
-      "text": "on our Gameview page.",
-      "url": "https://www.startribune.com/sports/twins/match/live/30772637/"
-    },
-    {
-      "text": "How to decipher your electric bill",
-      "url": "https://www.startribune.com/how-to-decipher-your-electric-bill-in-minnesota/600183456/"
-    },
-    {
-      "text": "Film director Paul Haggis",
-      "url": "https://www.startribune.com/reports-paul-haggis-detained-in-italy-in-sex-assault-case/600183447/"
-    },
-    {
-      "text": "more than 200 people have been killed",
-      "url": "https://www.startribune.com/witnesses-say-more-than-200-killed-in-ethiopia-ethnic-attack/600183436/"
-    },
-    {
-      "text": "Many Minnesota churches",
-      "url": "https://www.startribune.com/many-minnesota-churches-are-changing-their-names-to-appeal-to-millennials/600182960/"
-    },
-    {
-      "text": "How to keep your home cool",
-      "url": "https://www.startribune.com/home-cooling-tips-during-a-heat-wave/600182938/"
-    },
-    {
-      "text": "Inflation is taking a toll",
-      "url": "https://www.startribune.com/inflation-taking-bite-out-of-new-infrastructure-projects/600183419/"
-    },
-    {
-      "text": "Four months of brutal fighting",
-      "url": "https://www.startribune.com/morale-is-concern-as-nato-chief-warns-war-could-last-years/600183408/"
-    },
-    {
-      "text": "Fire crews in St. Paul",
-      "url": "https://www.startribune.com/st-paul-fire-crews-recover-bodies-of-two-workers-who-died-in-dirt-avalanche-in-trench/600183317/"
-    },
-    {
-      "text": "Dylan Bundy limited Arizona",
-      "url": "https://www.startribune.com/dylan-bundy-pitches-into-eighth-inning-as-twins-roll-to-11-1-win-in-arizona/600183389/"
-    },
-    {
-      "text": "Juneteenth events planned for today",
-      "url": "https://www.startribune.com/where-to-celebrate-juneteenth-in-the-twin-cities/600181605/"
-    },
-    {
-      "text": "Good morning: Heat and humidity",
-      "url": "https://www.startribune.com/excessive-heat-sunday-monday/600183364/"
-    },
-    {
-      "text": "faith is important to combatting climate despair",
-      "url": "https://www.startribune.com/to-fight-climate-despair-this-christian-ecologist-says-science-isn-t-enough/600183381/"
-    },
-    {
-      "text": "partially reopen at 8 a.m. Wednesday,",
-      "url": "https://www.startribune.com/yellowstone-national-park-to-partly-reopen-after-floods/600183355/"
-    },
-    {
-      "text": "make that plan highly unlikely",
-      "url": "https://www.startribune.com/wnba-draft-lottery-process-rules-out-lynx-tank/600183322/"
-    },
-    {
-      "text": "classic U.S. Open",
-      "url": "https://www.startribune.com/zalatoris-fitzpatrick-survive-beast-of-open-to-share-lead/600183350/"
-    },
-    {
-      "text": "controversy that keeps them laughing.",
-      "url": "http://Caught on camera: NFL Films is telling the tale of a Twin Cities showman, a long-resented #Vikings vanquisher and a controversy that keeps them laughing. It's column you've gotta read"
-    },
-    {
-      "text": "Political commentator and columnist Mark Shields, ",
-      "url": "https://www.startribune.com/political-commentator-and-columnist-mark-shields-dies-at-85/600183288/"
-    },
-    {
-      "text": "lived up to expectations at every step of his young career,",
-      "url": "https://www.startribune.com/chet-holmgren-gonzaga-minnesota-nba-draft-jaylen-suggs-orlando-timberwolves/600183338/"
-    },
-    {
-      "text": "tested positive on Saturday for COVID-19",
-      "url": "https://www.startribune.com/biden-adviser-jake-sullivan-tests-positive-for-covid-19/600183358/"
-    },
-    {
-      "text": "reconsidering their names\u00a0",
-      "url": "https://www.startribune.com/many-minnesota-churches-are-changing-their-names-to-appeal-to-millennials/600182960/"
-    },
-    {
-      "text": "few actual contests for sheriff or county attorney ",
-      "url": "https://www.startribune.com/unopposed-races-dominate-states-sheriff-county-attorney-contests/600183329/"
-    },
-    {
-      "text": "for the victim's families it's a lifetime sentence",
-      "url": "http://"
-    },
-    {
-      "text": "She won't be the last",
-      "url": "https://www.startribune.com/brooks-a-pipeline-from-prison-to-a-legal-career-in-minnesota/600183309/"
-    },
-    {
-      "text": "\n                    Rural Minnesota pitchman says small-town life sells itself. Millennials and GenXers are buying.\n                ",
-      "url": "https://www.startribune.com/rural-minnesota-pitchman-says-small-town-life-sells-itself-millennials-and-genxers-are-buying/600182964/"
-    },
-    {
-      "text": "\n                        \u2022 Variety\n                    ",
-      "url": "https://www.startribune.com/variety/"
-    },
-    {
-      "text": "\n                    Many Minnesota churches are putting their faith in new names\n                ",
-      "url": "https://www.startribune.com/many-minnesota-churches-are-changing-their-names-to-appeal-to-millennials/600182960/"
-    },
-    {
-      "text": "\n                        \u2022 West Metro\n                    ",
-      "url": "https://www.startribune.com/local/west/"
-    },
-    {
-      "text": "\n                    How to keep your home cool when it's hot outside\n                ",
-      "url": "https://www.startribune.com/home-cooling-tips-during-a-heat-wave/600182938/"
-    },
-    {
-      "text": "\n                        \u2022 Home & Garden\n                    ",
-      "url": "https://www.startribune.com/variety/homegarden/"
-    },
-    {
-      "text": "\n                    How we almost lost our democracy\n                ",
-      "url": "https://www.startribune.com/how-we-almost-lost-our-democracy/600183331/"
-    },
-    {
-      "text": "\n                        \u2022 Editorial\n                    ",
-      "url": "https://www.startribune.com/opinion/editorials/"
-    },
-    {
-      "text": "\n                    To regain riders, Metro Transit still must address safety fears\n                ",
-      "url": "https://www.startribune.com/crime-on-metro-transit-uneven-during-pandemic/600183289/"
-    },
-    {
-      "text": "\n                        \u2022 Local\n                    ",
-      "url": "https://www.startribune.com/local/"
-    },
-    {
-      "text": "\n                    After many twists over 25 years, a furniture store owner in the west metro decides to close\n                ",
-      "url": "https://www.startribune.com/after-many-twists-over-25-years-a-furniture-store-owner-in-the-west-metro-decides-to-close/600183245/"
-    },
-    {
-      "text": "\n                        \u2022 Business\n                    ",
-      "url": "https://www.startribune.com/business/"
-    },
-    {
-      "text": "\n                    Biden nominates Chauvin prosecutor for federal judge in Minnesota\n                ",
-      "url": "https://www.startribune.com/president-biden-nominates-jerry-blackwell-for-federal-judge-in-minnesota/600182301/"
-    },
-    {
-      "text": "\n                        \u2022 Politics\n                    ",
-      "url": "https://www.startribune.com/politics/"
-    },
-    {
-      "text": "\n                    Singletary: Here are seven ways to prepare for recession\n                ",
-      "url": "https://www.startribune.com/singletary-here-are-seven-ways-to-prepare-for-recession/600183454/"
-    },
-    {
-      "text": "\n                        \u2022 Business\n                    ",
-      "url": "https://www.startribune.com/business/"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/startribune/"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/StarTribune/"
-    },
-    {
-      "text": "Pinterest",
-      "url": "http://pinterest.com/startribune/"
-    },
-    {
-      "text": "Instagram",
-      "url": "http://www.instagram.com/startribune/"
-    },
-    {
-      "text": "\n                    StarTribune\n                ",
-      "url": "https://www.startribune.com/"
-    },
-    {
-      "text": "\n                            Facebook\n                        ",
-      "url": "https://www.facebook.com/startribune/"
-    },
-    {
-      "text": "\n                            Twitter\n                        ",
-      "url": "https://twitter.com/StarTribune/"
-    },
-    {
-      "text": "\n                            Pinterest\n                        ",
-      "url": "http://pinterest.com/startribune/"
-    },
-    {
-      "text": "\n                            Instagram\n                        ",
-      "url": "http://www.instagram.com/startribune/"
-    },
-    {
-      "text": "\n                    Subscribe today\n                ",
-      "url": "https://www.startribune.com/subscribe/?intended=https://www.startribune.com/"
-    },
-    {
-      "text": "\n                                            About the Star Tribune\n                                        ",
-      "url": "https://www.startribune.com/about/"
-    },
-    {
-      "text": "\n                                            Contact us\n                                        ",
-      "url": "https://www.startribune.com/contactus/"
-    },
-    {
-      "text": "\n                                            Work For Us\n                                        ",
-      "url": "https://www.startribune.com/workforus/"
-    },
-    {
-      "text": "\n                                            News in Education\n                                        ",
-      "url": "https://www.startribune.com/newspapersineducation/"
-    },
-    {
-      "text": "\n                                            Minnesota's Best\n                                        ",
-      "url": "https://www.votedminnesotasbest.com/"
-    },
-    {
-      "text": "\n                                            High school sports hubs\n                                        ",
-      "url": "https://www.startribune.com/sports/preps/"
-    },
-    {
-      "text": "\n                                            Mobile and tablet apps\n                                        ",
-      "url": "https://www.startribune.com/NewsApps/"
-    },
-    {
-      "text": "\n                                            Policies and Standards\n                                        ",
-      "url": "https://www.startribune.com/policies-and-standards/"
-    },
-    {
-      "text": "\n                                            Talk with a business consultant\n                                        ",
-      "url": "https://www.startribune.com/businessconsultant/"
-    },
-    {
-      "text": "\n                                            Media kit\n                                        ",
-      "url": "https://www.startribune.com/mediakit/"
-    },
-    {
-      "text": "\n                                            Classifieds\n                                        ",
-      "url": "https://www.startribune.com/classified/"
-    },
-    {
-      "text": "\n                                            Star Tribune Store\n                                        ",
-      "url": "https://www.startribune.com/store/"
-    },
-    {
-      "text": "\n                                            Photo Reprints\n                                        ",
-      "url": "https://www.startribune.com/photoreprints/"
-    },
-    {
-      "text": "\n                                            Full Page Archive: 150+ years\n                                        ",
-      "url": "https://www.startribune.com/fullpagearchives/"
-    },
-    {
-      "text": "\n                                            Back Copies\n                                        ",
-      "url": "https://www.startribune.com/backcopies/"
-    },
-    {
-      "text": "\n                                            Commercial reprints\n                                        ",
-      "url": "https://www.startribune.com/commercialreprints/"
-    },
-    {
-      "text": "\n                                            Licensing\n                                        ",
-      "url": "https://www.startribune.com/licensing/"
-    },
-    {
-      "text": "\n                                            Help and Feedback\n                                        ",
-      "url": "https://www.startribune.com/feedback/"
-    },
-    {
-      "text": "\n                                            Manage your account\n                                        ",
-      "url": "https://www.startribune.com/membercenter/"
-    },
-    {
-      "text": "\n                                            Newspaper subscription\n                                        ",
-      "url": "https://www.startribune.com/subscriptionservices/"
-    },
-    {
-      "text": "\n                                            Digital access\n                                        ",
-      "url": "https://www.startribune.com/digitalaccess/"
-    },
-    {
-      "text": "\n                                            eEdition\n                                        ",
-      "url": "https://www.startribune.com/eedition/"
-    },
-    {
-      "text": "\n                                            Vacation hold/billing\n                                        ",
-      "url": "https://www.startribune.com/subscriptionservices/"
-    },
-    {
-      "text": "\n                                            Terms of use\n                                        ",
-      "url": "https://www.startribune.com/termsofuse/"
-    },
-    {
-      "text": "\n                                            Privacy policy\n                                        ",
-      "url": "https://www.startribune.com/privacypolicy/"
-    },
-    {
-      "text": "\n                                            Site index\n                                        ",
-      "url": "https://www.startribune.com/siteindex/"
-    },
-    {
-      "text": "\n                                            RSS\n                                        ",
-      "url": "https://www.startribune.com/rssfeeds/"
-    },
-    {
-      "text": "search by queryly ",
-      "url": "https://www.queryly.com/"
-    },
-    {
-      "text": "Advanced Search",
-      "url": "#"
-    }
-  ],
-  "uniq": 1410684258,
+  "uniq": 476845051,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"
