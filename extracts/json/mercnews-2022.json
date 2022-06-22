@@ -1,5 +1,5 @@
 {
-  "created": 1655770803,
+  "created": 1655857382,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -4362,31 +4362,241 @@
       "sha1": "3ad0a907945c442c48762aa9d1a011dbae31b9d8"
     },
     {
+      "name": "mercnews-2022-06-20T18:33:39.511488-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775225",
+      "size": "43574",
+      "md5": "ca1774cb4fc1f932dbda51d13643b39e",
+      "crc32": "db0f8329",
+      "sha1": "210e4f43b9529b70a0c11c56ad443dac194542a0",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-20T18:33:39.511488-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775226",
+      "size": "56606",
+      "md5": "07b860cdbcfdba691519933ddba83d6e",
+      "crc32": "8952758a",
+      "sha1": "dccae9d10b9a0bdc87397c44de843a9dc4613347",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-20T18:33:39.511488-07:00.jpg",
+      "source": "original",
+      "mtime": "1655775223",
+      "size": "297838",
+      "md5": "76d4fbf7639ff24fe0ce8c74918080d5",
+      "crc32": "6a63efef",
+      "sha1": "2a39cccbae68a1b54db097fd587955a56f67143b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-20T18:33:39.511488-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-20T18:33:39.511488-07:00.jpg",
+      "mtime": "1655775363",
+      "size": "9832",
+      "md5": "7b65029772d36160a316d65fe357dd53",
+      "crc32": "47c29b61",
+      "sha1": "814acffa307c6b8fa7fc1a07e3351fe74e249052"
+    },
+    {
+      "name": "mercnews-2022-06-20T22:27:53.777711-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789278",
+      "size": "43829",
+      "md5": "0b37589fe67a70369230d2cc8525fa2d",
+      "crc32": "ffedc0f3",
+      "sha1": "c757a35fe3b41ebd11e3cb595953887336b1a8cd",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-20T22:27:53.777711-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789279",
+      "size": "49714",
+      "md5": "37fd9b16c72c75322fc9ca65403a3f38",
+      "crc32": "5017e6ae",
+      "sha1": "045336ccc654bb3284b088fa065009b1affd442b",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-20T22:27:53.777711-07:00.jpg",
+      "source": "original",
+      "mtime": "1655789276",
+      "size": "303659",
+      "md5": "47b51858b3cc2497249178d74c9792c6",
+      "crc32": "cbcadd5b",
+      "sha1": "1648a8cfb04d76c89984a4ca707c650880c97d4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-20T22:27:53.777711-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-20T22:27:53.777711-07:00.jpg",
+      "mtime": "1655789343",
+      "size": "9858",
+      "md5": "329a935bee6be622527f5e96c2e05280",
+      "crc32": "9686705e",
+      "sha1": "2d9ae5c4903e51d2b189a0f554b5f829ddad2c64"
+    },
+    {
+      "name": "mercnews-2022-06-21T05:29:22.286938-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814565",
+      "size": "43097",
+      "md5": "331c1a9592b6eb67e345a791a66f34f6",
+      "crc32": "3fc3afef",
+      "sha1": "37ed526be246469c2f2fb4e2bc7a0bd0e530f8bb",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-21T05:29:22.286938-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814567",
+      "size": "49023",
+      "md5": "49c11a59ab55c66bdb77b2e8afa85653",
+      "crc32": "fd56ccf5",
+      "sha1": "5ebce20f445a6f1e0609379fd07d544fe27bea93",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-21T05:29:22.286938-07:00.jpg",
+      "source": "original",
+      "mtime": "1655814564",
+      "size": "289526",
+      "md5": "b08e4183947d71e5e8642d86ffb0f1df",
+      "crc32": "353046b6",
+      "sha1": "a645c04a16c13498bb9af70f036c69bbc4f4aa4b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-21T05:29:22.286938-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-21T05:29:22.286938-07:00.jpg",
+      "mtime": "1655814638",
+      "size": "9772",
+      "md5": "5b452e41db9026cff9365b033f3f9282",
+      "crc32": "734ecff5",
+      "sha1": "37e4e48a9247b0414f883f3c4b4ef7d87fcdc93c"
+    },
+    {
+      "name": "mercnews-2022-06-21T06:53:42.243544-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819628",
+      "size": "44647",
+      "md5": "22bba391f60daa26a603fbad00f74a70",
+      "crc32": "28cd0c5c",
+      "sha1": "8b10106856a442ba27c1fca1847f67f789b64ff5",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-21T06:53:42.243544-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819631",
+      "size": "49667",
+      "md5": "c12ddd902a049af8832b7f308b012994",
+      "crc32": "819fa62e",
+      "sha1": "5fe3290cf936c21da7d73e0a90222e35cb678984",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-21T06:53:42.243544-07:00.jpg",
+      "source": "original",
+      "mtime": "1655819626",
+      "size": "286763",
+      "md5": "29b6b23f98d656a2bd879f066454cdbd",
+      "crc32": "fb918586",
+      "sha1": "748b6e7af9ea09dd7eccddd62fd59aae8215f4a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-21T06:53:42.243544-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-21T06:53:42.243544-07:00.jpg",
+      "mtime": "1655819713",
+      "size": "9764",
+      "md5": "2410de328ceea0704cde7a6ffd3e28f7",
+      "crc32": "152217ea",
+      "sha1": "3b3b8a03cbab0871ff67f5973f94b9520acbd795"
+    },
+    {
+      "name": "mercnews-2022-06-21T10:15:55.860272-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831764",
+      "size": "42262",
+      "md5": "35c890fee3c9a9846a7cb01d7303330f",
+      "crc32": "e8cca0de",
+      "sha1": "c613911f18117fa60552bd61b30f09089c4c906a",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-21T10:15:55.860272-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831766",
+      "size": "63251",
+      "md5": "d8a37dc69713854b4dc88285837ed38f",
+      "crc32": "600c76ca",
+      "sha1": "c15508b8f077b796845d2d6ea0ed3bfbd6c58c2f",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-06-21T10:15:55.860272-07:00.jpg",
+      "source": "original",
+      "mtime": "1655831762",
+      "size": "274394",
+      "md5": "63b372a736c31ec4c09b1290e6c4a6ee",
+      "crc32": "f2d6bac5",
+      "sha1": "5aeb27a2ab828f5401a952287bfe0919bd0bf0e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-06-21T10:15:55.860272-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-06-21T10:15:55.860272-07:00.jpg",
+      "mtime": "1655831908",
+      "size": "9644",
+      "md5": "88ab8254ce717aba94976bc9e36980c3",
+      "crc32": "7c0d85dd",
+      "sha1": "0b5ed636b806198f9ae77a36dc163fa49e59a2e4"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ae2c1afceda4cdbe4953ae1da6c812415e62f23",
-      "mtime": "1655760747",
-      "size": "88882",
-      "md5": "7c8679a7173d5daf3b13804f57c5a50b",
-      "crc32": "4f71ec67",
-      "sha1": "0f18c0b5670213443b520d19a11bf58aa23abdb7",
+      "btih": "7d049c45dfafcebbe6c4e2ff3872c5a944d2d21b",
+      "mtime": "1655831949",
+      "size": "93107",
+      "md5": "cddd2ec045e9c4b794748a75c4c68368",
+      "crc32": "a6d7f197",
+      "sha1": "d6333a54adfdc30d14af93b7b82770ba1a021d64",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6e867dbf90069c831e59303f45aae43f",
+      "md5": "caa60f7344168ebc4ffd92e32717527d",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760689",
-      "size": "483328",
-      "md5": "184b0b82a8281654b19802189310b8ef",
-      "crc32": "547645c5",
-      "sha1": "512c3446ddd6ebd26fc03c8fe5069d99317cf9db",
+      "mtime": "1655831769",
+      "size": "507904",
+      "md5": "a77194937e7416713481c68ea2d1047b",
+      "crc32": "3990a569",
+      "sha1": "7fb3c517344977d2aa3ed95ea4f90b3c5809b88b",
       "format": "Metadata"
     },
     {
@@ -4400,9 +4610,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 418,
-  "item_last_updated": 1655760747,
-  "item_size": 44335748,
+  "files_count": 438,
+  "item_last_updated": 1655831949,
+  "item_size": 46351269,
   "mercnews-2022": [
     {
       "text": "Data Storage Policy",
@@ -4417,7 +4627,7 @@
       "url": "https://checkout.mercurynews.com/subscriptionmultiproduct?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
     },
     {
-      "text": "\n\t\t\t82\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t73\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
     },
     {
@@ -4785,7 +4995,7 @@
       "url": "https://www.mercurynews.com/login?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F"
     },
     {
-      "text": "\n\t\t\t82\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t73\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
     },
     {
@@ -4837,224 +5047,256 @@
       "url": "http://enewspaper.mercurynews.com"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s red flag laws\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/19/red-flag-law-used-in-six-recent-bay-area-school-gun-threats/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Warriors parade\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/photos-warriors-host-nba-championship-parade-in-san-francisco/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors parade\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/19/heres-what-you-need-to-know-about-the-golden-state-warriors-championship-parade-on-monday/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t$9.63 a gallon\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/9-63-a-gallon-she-sells-the-countrys-most-expensive-gas-and-doesnt-give-a-diddle/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors free agents\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/19/payton-porter-and-looney-say-they-want-to-stay-can-the-warriors-keep-their-big-free-agents/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tKRTY signs off FM\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/country-radio-station-krty-signs-off-fm-and-rides-into-the-future/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tVegas fire: 100 evacuated\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/downtown-fire-is-las-vegas-biggest-in-25-years-100-people-evacuated/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors revel in their championship on parade day: \u2018I warned y\u2019all\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/warriors-revel-in-their-championship-on-parade-day-i-warned-yall/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/warriors-revel-in-their-championship-on-parade-day-i-warned-yall/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/warriors-revel-in-their-championship-on-parade-day-i-warned-yall/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/warriors-revel-in-their-championship-on-parade-day-i-warned-yall/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/sports/nba/golden-state-warriors/"
-    },
-    {
-      "text": "",
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCruising ban repeal\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/20/discriminatory-in-nature-san-jose-looks-to-repeal-decades-old-cruising-ban/"
     },
     {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/discriminatory-in-nature-san-jose-looks-to-repeal-decades-old-cruising-ban/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCOVID vaccines for kids\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/covid-vaccines-ready-for-littlest-arms-starting-tuesday/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Discriminatory in nature\u2019: San Jose looks to repeal decades-old cruising ban\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/discriminatory-in-nature-san-jose-looks-to-repeal-decades-old-cruising-ban/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/san-jose-historic-real-estate-revamp-restaurant-develop-japantown/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/san-jose-historic-real-estate-revamp-restaurant-develop-japantown/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSan Jose historic building may gain new life as restaurant\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/san-jose-historic-real-estate-revamp-restaurant-develop-japantown/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBay Area air travel soars with new routes but bottlenecks confront passengers\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/"
-    },
-    {
-      "text": "",
+      "text": "\n\t\n\t\t\t\t\n\t\t\tEataly: Asiago-to-ziti guide\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/20/eataly-your-asiago-to-ziti-guide-to-silicon-valleys-new-italian-dining-emporium/"
     },
     {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tHistoric SJ site\u2019s future\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/san-jose-historic-real-estate-revamp-restaurant-develop-japantown/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBay Area air travel soars\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAnother Bay Area heat wave promises scorching temperatures, poor air quality\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/another-bay-area-heat-wave-promises-scorching-temperatures-poor-air-quality/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTesla illegally fired thousands of workers and denied them pay, lawsuit claims\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/tesla-illegally-fired-hundreds-of-workers-and-denied-them-pay-lawsuit-claims/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/20/tesla-illegally-fired-hundreds-of-workers-and-denied-them-pay-lawsuit-claims/"
+    },
+    {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/eataly-your-asiago-to-ziti-guide-to-silicon-valleys-new-italian-dining-emporium/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEataly: Your asiago-to-ziti guide to Silicon Valley\u2019s new Italian dining emporium\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/eataly-your-asiago-to-ziti-guide-to-silicon-valleys-new-italian-dining-emporium/"
+      "url": "https://www.mercurynews.com/2022/06/20/tesla-illegally-fired-hundreds-of-workers-and-denied-them-pay-lawsuit-claims/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/scenes-from-the-golden-state-warriors-parade-in-san-francisco-2022/"
+      "url": "https://www.mercurynews.com/2022/06/21/elon-musk-says-tesla-job-cuts-will-reduce-workforce-by-3-5/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors hit San Francisco streets for NBA championship parade\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/scenes-from-the-golden-state-warriors-parade-in-san-francisco-2022/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/driver-killed-in-car-race-on-runway-at-sierra-nevada-airport/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDriver killed in car race on runway at Sierra Nevada airport\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/driver-killed-in-car-race-on-runway-at-sierra-nevada-airport/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tElon Musk says Tesla job cuts will reduce workforce by 3.5%\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/elon-musk-says-tesla-job-cuts-will-reduce-workforce-by-3-5/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/oaklands-popular-belly-restaurant-opens-new-location-in-rockridge/"
+      "url": "https://www.mercurynews.com/2022/06/17/musk-hit-with-tesla-investor-suit-over-toxic-work-culture/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOakland\u2019s popular Belly restaurant opens new location in Rockridge\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/oaklands-popular-belly-restaurant-opens-new-location-in-rockridge/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/students-demand-sri-lankan-government-resign-over-crisis/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tStudents demand Sri Lankan government resign over crisis\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/students-demand-sri-lankan-government-resign-over-crisis/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tElon Musk hit with Tesla investor suit over \u2018toxic\u2019 work culture\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/17/musk-hit-with-tesla-investor-suit-over-toxic-work-culture/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/feds-say-bay-area-child-porn-investigation-uncovered-plot-to-rape-and-murder-multiple-women/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFeds say Bay Area child porn investigation uncovered plot to \u2018rape and murder multiple women\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/feds-say-bay-area-child-porn-investigation-uncovered-plot-to-rape-and-murder-multiple-women/"
+      "url": "https://www.mercurynews.com/2022/06/20/tesla-illegally-fired-hundreds-of-workers-and-denied-them-pay-lawsuit-claims/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/greatest-summertime-band-of-all-time-provides-soundtrack-for-season/"
+      "url": "https://www.mercurynews.com/2022/06/20/covid-vaccines-ready-for-littlest-arms-starting-tuesday/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/covid-vaccines-ready-for-littlest-arms-starting-tuesday/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tGreatest summertime band of all time provides soundtrack for season\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/greatest-summertime-band-of-all-time-provides-soundtrack-for-season/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCOVID vaccines ready for youngest children starting Tuesday\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/covid-vaccines-ready-for-littlest-arms-starting-tuesday/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/was-meghan-markle-really-a-bully-palace-wont-say-with-buried-report/"
+      "url": "https://www.mercurynews.com/2022/06/21/kurtenbach-the-warriors-are-favorites-to-repeat-as-champions-these-three-teams-are-their-biggest-threats/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/kurtenbach-the-warriors-are-favorites-to-repeat-as-champions-these-three-teams-are-their-biggest-threats/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWas Meghan Markle really a bully? Palace won\u2019t say with \u2018buried\u2019 report\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/was-meghan-markle-really-a-bully-palace-wont-say-with-buried-report/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tThese three teams are the Warriors\u2019 biggest threats in 2023\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/kurtenbach-the-warriors-are-favorites-to-repeat-as-champions-these-three-teams-are-their-biggest-threats/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/20/california-lawmakers-promise-relief-with-new-select-committee-on-gas-price-gouging/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/california-lawmakers-promise-relief-with-new-select-committee-on-gas-price-gouging/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia lawmakers promise relief with probe into \u2018gas price gouging\u2019\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/california-lawmakers-promise-relief-with-new-select-committee-on-gas-price-gouging/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/tips-and-horror-stories-from-san-joses-upgraded-bart-parking-stations-roadshow/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/tips-and-horror-stories-from-san-joses-upgraded-bart-parking-stations-roadshow/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTips and horror stories from San Jose\u2019s BART parking lots: Roadshow\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/tips-and-horror-stories-from-san-joses-upgraded-bart-parking-stations-roadshow/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/texas-public-safety-director-says-police-response-to-uvalde-school-shooting-was-abject-failure/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTexas Public Safety director says police response to Uvalde school shooting was \u2018abject failure\u2019\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/texas-public-safety-director-says-police-response-to-uvalde-school-shooting-was-abject-failure/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/supreme-court-says-maine-cannot-exclude-religious-schools-from-tuition-assistance-programs/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSupreme Court says Maine cannot exclude religious schools from tuition assistance programs\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/supreme-court-says-maine-cannot-exclude-religious-schools-from-tuition-assistance-programs/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/back-at-triple-a-these-are-the-changes-sf-giants-believe-can-cut-down-joey-barts-strikeouts/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tHow the SF Giants are trying to fix Joey Bart\u2019s strikeout problem\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/back-at-triple-a-these-are-the-changes-sf-giants-believe-can-cut-down-joey-barts-strikeouts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/two-dead-after-murder-suicide-in-crockett/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTwo dead after murder-suicide in East Bay\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/two-dead-after-murder-suicide-in-crockett/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/jennifer-lopez-could-offer-elon-musk-a-lesson-in-kids-lgbtq-acceptance/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJennifer Lopez could offer Elon Musk a lesson in kids\u2019 LGBTQ acceptance\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/jennifer-lopez-could-offer-elon-musk-a-lesson-in-kids-lgbtq-acceptance/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/varsity-blues-moms-dads-jet-setting-again-except-one-who-once-claimed-cardiac-shock/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Varsity Blues\u2019 moms, dads jet-setting again \u2013 except for one California executive who once claimed \u2018cardiac\u2019 shock\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/varsity-blues-moms-dads-jet-setting-again-except-one-who-once-claimed-cardiac-shock/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/varsity-blues-parents-from-bay-area-win-home-arrest-reprieve-so-they-can-travel/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tVarsity Blues parents from Bay Area win house arrest reprieve so they can travel\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/varsity-blues-parents-from-bay-area-win-home-arrest-reprieve-so-they-can-travel/"
     },
     {
       "text": "\n\t\tSubscribe",
@@ -5077,44 +5319,44 @@
       "url": "https://www.mercurynews.com/feed/"
     },
     {
-      "text": "\n                Students demand Sri Lankan government resign over crisis\n            ",
-      "url": "https://www.mercurynews.com/2022/06/20/students-demand-sri-lankan-government-resign-over-crisis/"
+      "text": "\n                After dismal start, Aaron Hicks starting to heat up at the plate for the Yankees\n            ",
+      "url": "https://www.mercurynews.com/2022/06/21/after-dismal-start-aaron-hicks-starting-to-heat-up-at-the-plate-for-the-yankees/"
     },
     {
-      "text": "\n                Warriors revel in their championship on parade day: \u2018I warned y\u2019all\u2019\n            ",
-      "url": "https://www.mercurynews.com/2022/06/20/warriors-revel-in-their-championship-on-parade-day-i-warned-yall/"
+      "text": "\n                Quick Cook: Crunchy Cabbage & Quinoa Salad with Mango and Chimichurri\n            ",
+      "url": "https://www.mercurynews.com/2022/06/21/quick-cook-crunchy-cabbage-quinoa-salad-with-mango-and-chimichurri/"
     },
     {
-      "text": "\n                Greatest summertime band of all time provides soundtrack for season\n            ",
-      "url": "https://www.mercurynews.com/2022/06/20/greatest-summertime-band-of-all-time-provides-soundtrack-for-season/"
+      "text": "\n                Two dead after murder-suicide in Crockett\n            ",
+      "url": "https://www.mercurynews.com/2022/06/21/two-dead-after-murder-suicide-in-crockett/"
     },
     {
-      "text": "\n                Feds say Bay Area child porn investigation uncovered plot to \u2018rape and murder multiple women\u2019\n            ",
-      "url": "https://www.mercurynews.com/2022/06/20/feds-say-bay-area-child-porn-investigation-uncovered-plot-to-rape-and-murder-multiple-women/"
+      "text": "\n                Supreme Court says Maine cannot exclude religious schools from tuition assistance programs\n            ",
+      "url": "https://www.mercurynews.com/2022/06/21/supreme-court-says-maine-cannot-exclude-religious-schools-from-tuition-assistance-programs/"
     },
     {
-      "text": "\n                Heat\u2019s summer schedule in Las Vegas features familiar playoff feel\n            ",
-      "url": "https://www.mercurynews.com/2022/06/20/heats-summer-schedule-in-las-vegas-features-familiar-playoff-feel/"
+      "text": "\n                How the SF Giants are trying to fix Joey Bart\u2019s strikeout problem\n            ",
+      "url": "https://www.mercurynews.com/2022/06/21/back-at-triple-a-these-are-the-changes-sf-giants-believe-can-cut-down-joey-barts-strikeouts/"
     },
     {
-      "text": "\n                Marin lawyer arrested for hiding camera in bathroom during teen graduation party\n            ",
-      "url": "https://www.mercurynews.com/2022/06/20/marin-lawyer-arrested-in-camera-peeping-case/"
+      "text": "\n                Authorities in California seize $60,000 worth of meth hidden in child booster seats\n            ",
+      "url": "https://www.mercurynews.com/2022/06/20/authorities-in-california-seize-60000-worth-of-meth-hidden-in-child-booster-seats/"
     },
     {
-      "text": "\n                Dear Abby: I was planning to move in with her until I got this surprise news\n            ",
-      "url": "https://www.mercurynews.com/2022/06/19/dear-abby-i-was-planning-to-move-in-with-her-until-i-got-this-surprise-call/"
+      "text": "\n                Elon Musk\u2019s child tells court she no longer wants \u2018to be related\u2019 to her dad\n            ",
+      "url": "https://www.mercurynews.com/2022/06/21/elon-musks-child-tells-court-she-no-longer-wants-to-be-related-to-her-dad/"
     },
     {
-      "text": "\n                Ask Amy: My teenage vow about motherhood is getting hard for me to keep\n            ",
-      "url": "https://www.mercurynews.com/2022/06/20/ask-amy-my-teenage-vow-about-motherhood-is-getting-hard-for-me-to-keep/"
+      "text": "\n                Saratoga icon Betty Peck dies at age 100\n            ",
+      "url": "https://www.mercurynews.com/2022/06/21/saratoga-icon-betty-peck-dies-at-age-100/"
     },
     {
-      "text": "\n                Payton, Porter and Looney say they want to stay. Can the Warriors keep their big free agents?\n            ",
-      "url": "https://www.mercurynews.com/2022/06/19/payton-porter-and-looney-say-they-want-to-stay-can-the-warriors-keep-their-big-free-agents/"
+      "text": "\n                Tesla illegally fired thousands of workers and denied them pay, lawsuit claims\n            ",
+      "url": "https://www.mercurynews.com/2022/06/20/tesla-illegally-fired-hundreds-of-workers-and-denied-them-pay-lawsuit-claims/"
     },
     {
-      "text": "\n                Here\u2019s what you need to know about the Golden State Warriors\u2019 championship parade\n            ",
-      "url": "https://www.mercurynews.com/2022/06/19/heres-what-you-need-to-know-about-the-golden-state-warriors-championship-parade-on-monday/"
+      "text": "\n                Watch: Klay Thompson\u2019s hat flies off his head and into SF Bay on his boat commute to Warriors parade\n            ",
+      "url": "https://www.mercurynews.com/2022/06/20/watch-klay-thompsons-hat-flies-off-his-head-and-into-sf-bay-on-his-boat-commute-to-warriors-parade/"
     },
     {
       "text": "\n\t\t\t\tCrime and Public Safety\n\t\t\t",
@@ -5122,55 +5364,55 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/bill-cosby-civil-trial-jury-must-start-deliberations-over/"
+      "url": "https://www.mercurynews.com/2022/06/21/supreme-court-says-certain-gun-crimes-are-not-crimes-of-violence-under-federal-law/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/bill-cosby-civil-trial-jury-must-start-deliberations-over/"
+      "url": "https://www.mercurynews.com/2022/06/21/supreme-court-says-certain-gun-crimes-are-not-crimes-of-violence-under-federal-law/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBill Cosby civil trial jury must start deliberations over\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/bill-cosby-civil-trial-jury-must-start-deliberations-over/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/man-shot-and-killed-in-vallejo-by-solano-county-deputies-on-sunday-night/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMan shot and killed in Vallejo by Solano County deputies on Sunday\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/man-shot-and-killed-in-vallejo-by-solano-county-deputies-on-sunday-night/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tU.S. Supreme Court says certain gun crimes are not \u2018crimes of violence\u2019 under federal law\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/supreme-court-says-certain-gun-crimes-are-not-crimes-of-violence-under-federal-law/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/two-in-car-rally-killed-in-horrific-crash-sheriff-decries-reckless-behavior/"
+      "url": "https://www.mercurynews.com/2022/06/21/antioch-violent-crime-down-overall-reports-show/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tTwo in car rally killed in \u2018horrific\u2019 crash; sheriff decries reckless behavior\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/two-in-car-rally-killed-in-horrific-crash-sheriff-decries-reckless-behavior/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAntioch violent crime down overall, reports show\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/antioch-violent-crime-down-overall-reports-show/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/newly-accused-paul-haggis-suggested-past-rape-allegations-were-scientology-retaliation/"
+      "url": "https://www.mercurynews.com/2022/06/21/man-killed-in-highway-4-wreck-that-went-unnoticed-for-hours/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNewly accused Paul Haggis suggested past rape allegations were Scientology retaliation\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/newly-accused-paul-haggis-suggested-past-rape-allegations-were-scientology-retaliation/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMan killed in Highway 4 wreck that went unnoticed for hours\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/man-killed-in-highway-4-wreck-that-went-unnoticed-for-hours/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/bayer-rejected-by-us-supreme-court-in-bid-to-end-roundup-suits/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tUS Supreme Court rejects bid to end Roundup suits, leaves intact $25 million award to Bay Area man\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/bayer-rejected-by-us-supreme-court-in-bid-to-end-roundup-suits/"
     },
     {
       "text": "\n\t\t\t\tSports\n\t\t\t",
@@ -5178,55 +5420,55 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/19/heres-what-you-need-to-know-about-the-golden-state-warriors-championship-parade-on-monday/"
+      "url": "https://www.mercurynews.com/2022/06/20/i-was-on-a-parade-bus-with-draymond-green-and-juan-toscano-anderson-heres-how-it-went/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/19/heres-what-you-need-to-know-about-the-golden-state-warriors-championship-parade-on-monday/"
+      "url": "https://www.mercurynews.com/2022/06/20/i-was-on-a-parade-bus-with-draymond-green-and-juan-toscano-anderson-heres-how-it-went/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHere\u2019s what you need to know about the Golden State Warriors\u2019 championship parade\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/19/heres-what-you-need-to-know-about-the-golden-state-warriors-championship-parade-on-monday/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/19/payton-porter-and-looney-say-they-want-to-stay-can-the-warriors-keep-their-big-free-agents/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPayton, Porter and Looney say they want to stay. Can the Warriors keep their big free agents?\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/19/payton-porter-and-looney-say-they-want-to-stay-can-the-warriors-keep-their-big-free-agents/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors parade: On the bus with Draymond Green\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/i-was-on-a-parade-bus-with-draymond-green-and-juan-toscano-anderson-heres-how-it-went/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/pac-12-football-salaries-whittinghams-new-deal-and-our-look-at-the-most-overpaid-and-underpaid-coaches/"
+      "url": "https://www.mercurynews.com/2022/06/20/stymied-all-night-sf-giants-walked-off-by-braves-in-series-opener/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPac-12 football salaries: Who\u2019s overpaid, underpaid and fairly paid\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/pac-12-football-salaries-whittinghams-new-deal-and-our-look-at-the-most-overpaid-and-underpaid-coaches/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tStymied all night, SF Giants walked off by Braves in series opener\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/stymied-all-night-sf-giants-walked-off-by-braves-in-series-opener/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/sf-giants-minor-league-report/"
+      "url": "https://www.mercurynews.com/2022/06/20/college-world-series-stanford-eliminated-by-auburn/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSF Giants minor league report: Top prospects\u2019 promotions, a Joey Bart update and more\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/sf-giants-minor-league-report/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCollege World Series: Stanford eliminated by Auburn\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/college-world-series-stanford-eliminated-by-auburn/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/20/sf-giants-joc-pederson-and-his-pearls-receive-heros-welcome-in-return-to-atlanta/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSF Giants\u2019 Joc Pederson \u2014 and his pearls \u2014 receive hero\u2019s welcome in return to Atlanta\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/sf-giants-joc-pederson-and-his-pearls-receive-heros-welcome-in-return-to-atlanta/"
     },
     {
       "text": "\n\t\t\t\tReal Estate\n\t\t\t",
@@ -5234,15 +5476,27 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/morgan-hill-tech-industrial-park-buy-big-real-estate-invest-develop/"
+      "url": "https://www.mercurynews.com/2022/06/21/big-east-bay-retail-center-buy-develop-real-estate-home-office/"
     },
     {
       "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/big-east-bay-retail-center-buy-develop-real-estate-home-office/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPart of East Bay mall is bought by real estate investors\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/big-east-bay-retail-center-buy-develop-real-estate-home-office/"
+    },
+    {
+      "text": "",
       "url": "https://www.mercurynews.com/2022/06/20/morgan-hill-tech-industrial-park-buy-big-real-estate-invest-develop/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tBig Morgan Hill tech park lands buyer in $119 million deal\t\t\n\n\t\t\t",
@@ -5250,39 +5504,27 @@
     },
     {
       "text": "",
+      "url": "https://www.mercurynews.com/2022/06/20/san-jose-historic-real-estate-revamp-restaurant-develop-japantown/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSan Jose historic laundry site could be revamped into new restaurant\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/san-jose-historic-real-estate-revamp-restaurant-develop-japantown/"
+    },
+    {
+      "text": "",
       "url": "https://www.mercurynews.com/2022/06/19/berkeley-studying-empty-homes-tax-for-november-ballot/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tBerkeley studying \u2019empty homes\u2019 tax for November ballot\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/19/berkeley-studying-empty-homes-tax-for-november-ballot/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/19/housing-developer-abruptly-ditches-360-home-project-at-north-concord-bart-station-leaves-a-dent-in-citys-housing-plans/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHousing developer abruptly ditches 360-home project at North Concord BART Station, leaves a dent in city\u2019s housing plans\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/19/housing-developer-abruptly-ditches-360-home-project-at-north-concord-bart-station-leaves-a-dent-in-citys-housing-plans/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFraud-linked Bay Area properties head into foreclosure\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/bay-area-real-estate-sec-fraud-develop-foreclose-home-silicon-sage/"
     },
     {
       "text": "Local News                                                                                                                                                                                                                                                                                                                    \n                \n            ",
@@ -5310,18 +5552,6 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/"
-    },
-    {
-      "text": "\n                                \n                                    \n                                \n                            ",
-      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/"
-    },
-    {
-      "text": "\n                                        Bay Area air travel soars with new routes but bottlenecks confront passengers                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    \n                                            3 miles away\n                                        \n                                    ",
-      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/?blm_medium=RecommendationList&blm_campaign=Geotagged"
-    },
-    {
-      "text": "",
       "url": "https://www.mercurynews.com/2022/06/20/san-jose-historic-real-estate-revamp-restaurant-develop-japantown/"
     },
     {
@@ -5333,11 +5563,55 @@
       "url": "https://www.mercurynews.com/2022/06/20/san-jose-historic-real-estate-revamp-restaurant-develop-japantown/?blm_medium=RecommendationList&blm_campaign=Geotagged"
     },
     {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/20/feds-say-bay-area-child-porn-investigation-uncovered-plot-to-rape-and-murder-multiple-women/"
+    },
+    {
+      "text": "\n                                \n                                    \n                                \n                            ",
+      "url": "https://www.mercurynews.com/2022/06/20/feds-say-bay-area-child-porn-investigation-uncovered-plot-to-rape-and-murder-multiple-women/"
+    },
+    {
+      "text": "\n                                        Feds say Bay Area child porn investigation uncovered plot to \u2018rape and murder multiple women\u2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    \n                                            42 miles away\n                                        \n                                    ",
+      "url": "https://www.mercurynews.com/2022/06/20/feds-say-bay-area-child-porn-investigation-uncovered-plot-to-rape-and-murder-multiple-women/?blm_medium=RecommendationList&blm_campaign=Geotagged"
+    },
+    {
       "text": "Photos",
       "url": "/tag/photo-galleries-videos/"
     },
     {
       "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/when-to-watch-todays-january-6-hearing-focused-on-donald-trumps-pressure-to-overturn-2020-election/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/when-to-watch-todays-january-6-hearing-focused-on-donald-trumps-pressure-to-overturn-2020-election/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWhen to watch today\u2019s January 6 hearing focused on Donald Trump\u2019s pressure to overturn 2020 election\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/when-to-watch-todays-january-6-hearing-focused-on-donald-trumps-pressure-to-overturn-2020-election/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/20/how-a-goose-went-from-bad-news-to-a-beloved-neighborhood-mascot/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/how-a-goose-went-from-bad-news-to-a-beloved-neighborhood-mascot/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tHow a goose went from bad news to a beloved neighborhood mascot\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/how-a-goose-went-from-bad-news-to-a-beloved-neighborhood-mascot/"
+    },
+    {
+      "text": "",
       "url": "https://www.mercurynews.com/2022/06/20/photos-warriors-host-nba-championship-parade-in-san-francisco/"
     },
     {
@@ -5345,11 +5619,11 @@
       "url": "https://www.mercurynews.com/2022/06/20/photos-warriors-host-nba-championship-parade-in-san-francisco/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Warriors host NBA championship parade in San Francisco\t\t\n\n\t\t\t",
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Golden State Warriors host NBA championship parade in San Francisco\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/20/photos-warriors-host-nba-championship-parade-in-san-francisco/"
     },
     {
@@ -5361,8 +5635,8 @@
       "url": "https://www.mercurynews.com/2022/06/20/watch-klay-thompsons-hat-flies-off-his-head-and-into-sf-bay-on-his-boat-commute-to-warriors-parade/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tWatch: Klay Thompson\u2019s hat flies off his head and into SF Bay on his boat commute to Warriors parade\t\t\n\n\t\t\t",
@@ -5377,8 +5651,8 @@
       "url": "https://www.mercurynews.com/2022/06/20/eataly-your-asiago-to-ziti-guide-to-silicon-valleys-new-italian-dining-emporium/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tEataly: Your asiago-to-ziti guide to Silicon Valley\u2019s new Italian dining emporium\t\t\n\n\t\t\t",
@@ -5393,11 +5667,11 @@
       "url": "https://www.mercurynews.com/2022/06/20/scenes-from-the-golden-state-warriors-parade-in-san-francisco-2022/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors hit San Francisco streets for NBA championship parade\t\t\n\n\t\t\t",
+      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018I never thought I\u2019d see us be this good\u2019 \u2013 Warriors, fans celebrate the NBA championship\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/20/scenes-from-the-golden-state-warriors-parade-in-san-francisco-2022/"
     },
     {
@@ -5409,8 +5683,8 @@
       "url": "https://www.mercurynews.com/2022/06/20/discriminatory-in-nature-san-jose-looks-to-repeal-decades-old-cruising-ban/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Discriminatory in nature\u2019: San Jose looks to repeal decades-old cruising ban\t\t\n\n\t\t\t",
@@ -5425,8 +5699,8 @@
       "url": "https://www.mercurynews.com/2022/06/20/2-fallen-el-monte-officers-honored-as-brave-men-at-vigil/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\t2 fallen California police officers honored as \u2018brave men\u2019 at vigil\t\t\n\n\t\t\t",
@@ -5441,8 +5715,8 @@
       "url": "https://www.mercurynews.com/2022/06/19/photos-juneteenth-celebrations-in-the-bay-area-and-beyond/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Juneteenth celebrations in the Bay Area and beyond\t\t\n\n\t\t\t",
@@ -5457,8 +5731,8 @@
       "url": "https://www.mercurynews.com/2022/06/19/on-juneteenth-bay-area-celebrations-start-with-the-music/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tOn Juneteenth, Bay Area celebrations start with the music\t\t\n\n\t\t\t",
@@ -5473,8 +5747,8 @@
       "url": "https://www.mercurynews.com/2022/06/18/east-san-jose-community-takes-to-the-skies-rallying-behind-reid-hillview-airport/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tEast San Jose community takes to the skies, rallying behind Reid-Hillview Airport\t\t\n\n\t\t\t",
@@ -5489,44 +5763,12 @@
       "url": "https://www.mercurynews.com/2022/06/17/photos-18-5-million-mansion-listing-breaks-record-in-piedmont/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: $18.5 million mansion listing breaks record in Piedmont\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/06/17/photos-18-5-million-mansion-listing-breaks-record-in-piedmont/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/photos-dub-nation-celebrates-golden-state-warriors-nba-championship-title-over-boston-celtics/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/photos-dub-nation-celebrates-golden-state-warriors-nba-championship-title-over-boston-celtics/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Dub Nation celebrates Golden State Warriors NBA Championship title over Boston Celtics\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/photos-dub-nation-celebrates-golden-state-warriors-nba-championship-title-over-boston-celtics/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/16/photos-golden-state-warriors-defeat-boston-celtics-to-win-fourth-nba-championship/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/photos-golden-state-warriors-defeat-boston-celtics-to-win-fourth-nba-championship/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Golden State Warriors defeat Boston Celtics to win fourth NBA Championship\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/16/photos-golden-state-warriors-defeat-boston-celtics-to-win-fourth-nba-championship/"
     },
     {
       "text": "\n\t\t\t\tCoronavirus\n\t\t\t",
@@ -5534,27 +5776,27 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/walmart-hikes-pay-for-more-than-1600-california-pharmacy-techs/"
+      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/walmart-hikes-pay-for-more-than-1600-california-pharmacy-techs/"
+      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWalmart hikes pay for more than 1,600 California pharmacy techs\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/walmart-hikes-pay-for-more-than-1600-california-pharmacy-techs/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBay Area air travel soars with new routes but bottlenecks confront passengers\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/bay-area-air-travel-economy-airport-covid-airline-japan-london-hawaii/"
     },
     {
       "text": "",
       "url": "https://www.mercurynews.com/2022/06/19/what-you-need-to-know-about-covid-vaccines-for-kids-under-5/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tWhat you need to know about COVID vaccines for kids under 5, including in California\t\t\n\n\t\t\t",
@@ -5565,8 +5807,8 @@
       "url": "https://www.mercurynews.com/2022/06/19/vta-union-president-claims-vaccine-mandate-is-linked-to-recent-shooting-threat/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tVTA union president claims \u2018undue pressure\u2019 from vaccine mandate is linked to recent shooting threat\t\t\n\n\t\t\t",
@@ -5577,8 +5819,8 @@
       "url": "https://www.mercurynews.com/2022/06/18/cdc-advisers-unanimously-recommend-vaccinations-of-young-children/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tCDC recommends vaccinations for kids as young as 6 months\t\t\n\n\t\t\t",
@@ -5590,55 +5832,55 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/editorial-calfire-report-and-pge/"
+      "url": "https://www.mercurynews.com/2022/06/21/opinion-why-council-should-approve-west-san-jose-housing-project/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/editorial-calfire-report-and-pge/"
+      "url": "https://www.mercurynews.com/2022/06/21/opinion-why-council-should-approve-west-san-jose-housing-project/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEditorial: Cal Fire report blasts PG&E\u2019s role in Dixie Fire\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/editorial-calfire-report-and-pge/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/mathews-plans-to-bring-california-into-21st-century-depend-on-san-jose/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMathews: Plans to bring California into 21st century depend on San Jose\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/mathews-plans-to-bring-california-into-21st-century-depend-on-san-jose/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: Why council should approve West San Jose housing project\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/opinion-why-council-should-approve-west-san-jose-housing-project/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/18/opinion-this-fathers-day-lets-have-the-talk-about-annual-health-screenings/"
+      "url": "https://www.mercurynews.com/2022/06/21/opinion-why-we-should-be-troubled-by-sf-da-boudin-recall/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: This Father\u2019s Day, let\u2019s talk about annual health screenings\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/18/opinion-this-fathers-day-lets-have-the-talk-about-annual-health-screenings/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: Why ouster of San Francisco DA Boudin is troubling\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/opinion-why-we-should-be-troubled-by-sf-da-boudin-recall/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/17/letters-872/"
+      "url": "https://www.mercurynews.com/2022/06/20/letters-874/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: Benching baseball | Unionize Little League | Speak out | Climate change | Hollow nation | Public safety | Pence\u2019s conflict\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/17/letters-872/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: Stop HSR | Support families | Ballot measures | Placating Putin | Freedom under attack | Toward fascism\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/20/letters-874/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/skelton-in-california-election-day-has-become-election-month/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSkelton: In California, election day has become election month\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/skelton-in-california-election-day-has-become-election-month/"
     },
     {
       "text": "\n\t\t\t\tThings To Do\n\t\t\t",
@@ -5646,55 +5888,55 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/20-bay-area-fourth-of-july-fireworks-displays/"
+      "url": "https://www.mercurynews.com/2022/06/21/quick-cook-crunchy-cabbage-quinoa-salad-with-mango-and-chimichurri/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/20-bay-area-fourth-of-july-fireworks-displays/"
+      "url": "https://www.mercurynews.com/2022/06/21/quick-cook-crunchy-cabbage-quinoa-salad-with-mango-and-chimichurri/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t20+ Bay Area Fourth of July fireworks displays\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/20-bay-area-fourth-of-july-fireworks-displays/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/singer-tierney-sutton-has-more-paris-sessions-in-store-for-bay-area/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSinger Tierney Sutton has more \u2018Paris Sessions\u2019 in store for Bay Area\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/singer-tierney-sutton-has-more-paris-sessions-in-store-for-bay-area/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tQuick Cook: Crunchy Cabbage & Quinoa Salad with Mango and Chimichurri\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/quick-cook-crunchy-cabbage-quinoa-salad-with-mango-and-chimichurri/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/bhr-l-mind-0620/"
+      "url": "https://www.mercurynews.com/2022/06/21/hong-kongs-famous-floating-restaurant-sinks-at-sea/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tFilmmaker Nanfu Wang spotlights notorious 1985 crime in HBO series \u2018Mind Over Murder\u2019\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/bhr-l-mind-0620/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tHong Kong\u2019s famous floating restaurant sinks at sea\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/hong-kongs-famous-floating-restaurant-sinks-at-sea/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/mendocino-shipwrecks-lighthouses-and-the-ultimate-fish-and-chips/"
+      "url": "https://www.mercurynews.com/2022/06/21/shakespeare-meets-roaring-20s-in-musical-twelfth-night/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMendocino shipwrecks, lighthouses and the ultimate fish and chips\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/mendocino-shipwrecks-lighthouses-and-the-ultimate-fish-and-chips/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tShakespeare meets Roaring \u201920s in musical \u2018Twelfth Night\u2019\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/shakespeare-meets-roaring-20s-in-musical-twelfth-night/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/woman-who-drove-man-who-killed-rapper-nipsey-hussle-testifies/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWoman who drove man who killed rapper Nipsey Hussle testifies\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/woman-who-drove-man-who-killed-rapper-nipsey-hussle-testifies/"
     },
     {
       "text": "\n\t\t\t\tBusiness\n\t\t\t",
@@ -5702,75 +5944,75 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/biden-says-hes-proud-of-apple-workers-voting-to-unionize/"
+      "url": "https://www.mercurynews.com/2022/06/21/elon-musks-child-tells-court-she-no-longer-wants-to-be-related-to-her-dad/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/biden-says-hes-proud-of-apple-workers-voting-to-unionize/"
+      "url": "https://www.mercurynews.com/2022/06/21/elon-musks-child-tells-court-she-no-longer-wants-to-be-related-to-her-dad/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPresident Biden says he\u2019s \u2018proud\u2019 of Apple workers voting to unionize\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/biden-says-hes-proud-of-apple-workers-voting-to-unionize/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/travel-troubleshooter-club-med-wants-another-3000-for-a-vacation-i-already-paid-for/"
-    },
-    {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tTravel Troubleshooter: Club Med wants another $3,000 for a vacation I already paid for\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/travel-troubleshooter-club-med-wants-another-3000-for-a-vacation-i-already-paid-for/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tElon Musk\u2019s child tells court she no longer wants \u2018to be related\u2019 to her dad\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/elon-musks-child-tells-court-she-no-longer-wants-to-be-related-to-her-dad/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/how-much-for-gas-around-the-world-pain-is-felt-at-the-pump/"
+      "url": "https://www.mercurynews.com/2022/06/21/niles-disney-gets-caught-swimming-against-the-tide-in-florida-deal/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tIts not just the U.S.: Around the world, pain is felt at the pump\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/how-much-for-gas-around-the-world-pain-is-felt-at-the-pump/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tDisney gets caught swimming against the tide in Florida deal\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/niles-disney-gets-caught-swimming-against-the-tide-in-florida-deal/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/06/20/canadian-physician-alleges-27k-rolex-bait-and-switch-by-redondo-beach-auctioneer/"
+      "url": "https://www.mercurynews.com/2022/06/21/why-oregon-and-new-jersey-still-dont-let-you-pump-your-own-gas/"
     },
     {
-      "text": "Crashes and Disasters | ",
-      "url": "https://www.mercurynews.com/news/crime-public-safety/crashes-disasters/"
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCanadian physician alleges $27,000 Rolex bait-and-switch by California auctioneer\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/06/20/canadian-physician-alleges-27k-rolex-bait-and-switch-by-redondo-beach-auctioneer/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWhy Oregon and New Jersey still don\u2019t let you pump your own gas\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/why-oregon-and-new-jersey-still-dont-let-you-pump-your-own-gas/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/21/elon-musk-says-tesla-job-cuts-will-reduce-workforce-by-3-5/"
+    },
+    {
+      "text": "Crime and Public Safety | ",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tElon Musk says Tesla job cuts will reduce workforce by 3.5%\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/21/elon-musk-says-tesla-job-cuts-will-reduce-workforce-by-3-5/"
+    },
+    {
+      "text": "Tesla illegally fired thousands of workers and denied them pay, lawsuit claims",
+      "url": "https://www.mercurynews.com/2022/06/20/tesla-illegally-fired-hundreds-of-workers-and-denied-them-pay-lawsuit-claims/?itm_source=parsely-api"
+    },
+    {
+      "text": "Theo Epstein is leaving Chicago 2 years after leaving the Cubs. Here\u2019s how he spent his final weekend in the city.",
+      "url": "https://www.chicagotribune.com/sports/cubs/ct-chicago-cubs-theo-epstein-20220620-t3bohgnfrrh6zexuw77gu464sa-story.html?itm_source=parsely-api"
+    },
+    {
+      "text": "Boston \u2018city-wide warrant sweep\u2019 called for by politicians as Mass and Cass drug problems flare outward",
+      "url": "https://www.bostonherald.com/2022/06/19/boston-city-wide-warrant-sweep-called-for-by-politicians-as-mass-and-cass-drug-problems-flare-outward/?itm_source=parsely-api"
+    },
+    {
+      "text": "Source of claims against Lauren Boebert threatened, political group says; police investigating",
+      "url": "https://www.denverpost.com/2022/06/20/lauren-boebert-allegations-threats/?itm_source=parsely-api"
     },
     {
       "text": "$9.63 a gallon: She sells the country\u2019s most expensive gas and doesn\u2019t \u2018give a diddle\u2019",
       "url": "https://www.mercurynews.com/2022/06/18/9-63-a-gallon-she-sells-the-countrys-most-expensive-gas-and-doesnt-give-a-diddle/?itm_source=parsely-api"
-    },
-    {
-      "text": "Lia Thomas barred from competing in women\u2019s events after swimming body\u2019s transgender vote",
-      "url": "https://www.nydailynews.com/sports/more-sports/ny-fina-world-swimming-bans-transgender-athletes-elite-women-lia-thomas-20220619-hxjhhrmwaffapibcp3lnogy2hm-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "\u2018I\u2019ve never seen anyone walk out the NICU before\u2019: After being born with a rare condition, an 11-month old leaves the NICU for the first time",
-      "url": "https://www.chicagotribune.com/suburbs/park-ridge/ct-max-do-nicu-recovery-journey-20220607-6dj3lj7oajagxpgkq5h7y74tce-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "These beautiful low-maintenance plants bring movement to the garden by blowing in the breeze",
-      "url": "https://www.ocregister.com/2022/06/18/these-beautiful-low-maintenance-plants-bring-movement-to-the-garden-by-blowing-in-the-breeze/?itm_source=parsely-api"
-    },
-    {
-      "text": "Post about 'relentlessly gay' Baltimore-area yard is relentlessly viral",
-      "url": "https://www.baltimoresun.com/features/baltimore-insider/bs-md-ci-relentlessly-gay-20180927-story.html?itm_source=parsely-api"
     },
     {
       "text": "",
@@ -5989,10 +6231,10 @@
     "publicdate": "2022-03-23 02:09:12",
     "addeddate": "2022-03-23 02:09:12"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 438230806,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1950109075,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

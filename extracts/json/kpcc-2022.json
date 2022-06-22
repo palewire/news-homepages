@@ -1,5 +1,5 @@
 {
-  "created": 1655760634,
+  "created": 1655857342,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/kpcc-2022",
@@ -6644,31 +6644,241 @@
       "sha1": "e1a7532bd8d253982b2dc62e358ce9e4c9caa5e9"
     },
     {
+      "name": "kpcc-2022-06-20T18:32:49.637695-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775172",
+      "size": "20811",
+      "md5": "9a161841111840eb7a69f61f9ed33fb7",
+      "crc32": "9883d58f",
+      "sha1": "92ed72c41b4571090e99deb5ee50143b9798b190",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-20T18:32:49.637695-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775174",
+      "size": "30173",
+      "md5": "34efca2bd1f1732c860a48c2025b5d63",
+      "crc32": "802e5283",
+      "sha1": "b107ef9114baf7ae9ba166908fa73f600295101c",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-20T18:32:49.637695-07:00.jpg",
+      "source": "original",
+      "mtime": "1655775171",
+      "size": "250745",
+      "md5": "2afcc360b9cf4a4fa80118319d75c69c",
+      "crc32": "5e76d4e9",
+      "sha1": "9a26c8aa94a94d606ea4978355666e21e69f18cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-06-20T18:32:49.637695-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-06-20T18:32:49.637695-07:00.jpg",
+      "mtime": "1655775240",
+      "size": "9274",
+      "md5": "b266f5af9d139353d65447036c051f91",
+      "crc32": "c9069386",
+      "sha1": "b77d90abff63bc2f25e0137a820294cbca9d5286"
+    },
+    {
+      "name": "kpcc-2022-06-20T22:27:09.069027-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789233",
+      "size": "20849",
+      "md5": "078971d3a49909c2b19c9037d8424eed",
+      "crc32": "bbd285ce",
+      "sha1": "6f2edd8d6ea7b15e9ce84604fced009950e067e3",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-20T22:27:09.069027-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789235",
+      "size": "30165",
+      "md5": "951568d91c53a16eb7fc9e02d68ca5a6",
+      "crc32": "904a27c4",
+      "sha1": "efe1a829ec5c36ee77c14938e88f19d7d453c080",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-20T22:27:09.069027-07:00.jpg",
+      "source": "original",
+      "mtime": "1655789231",
+      "size": "249300",
+      "md5": "bd720ac187346a361d0f7975d9fc2cea",
+      "crc32": "15adf89d",
+      "sha1": "75fd92da59b27abd711b0537edb3d6358d200325",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-06-20T22:27:09.069027-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-06-20T22:27:09.069027-07:00.jpg",
+      "mtime": "1655789331",
+      "size": "9257",
+      "md5": "c893ccff770e2cff3ef870555f8110aa",
+      "crc32": "7425b7e6",
+      "sha1": "23c475da2b7d07b4654b8e3272a38a4ab250834e"
+    },
+    {
+      "name": "kpcc-2022-06-21T05:27:58.618129-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814484",
+      "size": "20874",
+      "md5": "b3b866c260eecad8e29aa06f25e62e76",
+      "crc32": "8858465e",
+      "sha1": "73f391d85f62077570e5b2ec9dc3fe617a933738",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-21T05:27:58.618129-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814486",
+      "size": "30190",
+      "md5": "946cf0d4dc4cb53145e8c17084056573",
+      "crc32": "d4e2b62c",
+      "sha1": "1a02da09779785d44fec1745a8f273fa059fb54a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-21T05:27:58.618129-07:00.jpg",
+      "source": "original",
+      "mtime": "1655814482",
+      "size": "250340",
+      "md5": "e78edc71a9ecc69e396c13d18735997a",
+      "crc32": "55d0fa05",
+      "sha1": "8645ecd2e368e3b14a7e8c2db458e2a7abffe9e6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-06-21T05:27:58.618129-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-06-21T05:27:58.618129-07:00.jpg",
+      "mtime": "1655814539",
+      "size": "9282",
+      "md5": "1b606afe6343c069a477bf24f34b40cf",
+      "crc32": "5e21e110",
+      "sha1": "68bbcf8664e1fb9db922c710185e2dca8b035cd8"
+    },
+    {
+      "name": "kpcc-2022-06-21T06:52:28.815073-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819554",
+      "size": "20893",
+      "md5": "102c24a176e8e51da2b731f3390e7001",
+      "crc32": "8156a4d8",
+      "sha1": "10ae3e2685a5b9828ea05b175e3253683c0f5a3c",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-21T06:52:28.815073-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819556",
+      "size": "30171",
+      "md5": "51078eaad8403732cd3d271771446c04",
+      "crc32": "bd8e325f",
+      "sha1": "15f1d798d9044ec423006b4a952cc78475415fbc",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-21T06:52:28.815073-07:00.jpg",
+      "source": "original",
+      "mtime": "1655819552",
+      "size": "250241",
+      "md5": "876224c6a11a4bea5d2e9703a4cb71fc",
+      "crc32": "e8344c5b",
+      "sha1": "b5657ae77340b87485677359431dc7cd3de8d694",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-06-21T06:52:28.815073-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-06-21T06:52:28.815073-07:00.jpg",
+      "mtime": "1655819613",
+      "size": "9280",
+      "md5": "f527e1acc9f024d054c0360531c68dd3",
+      "crc32": "55c4c199",
+      "sha1": "8c7c354f1f6523c10d8f50f24863d296b9e6905c"
+    },
+    {
+      "name": "kpcc-2022-06-21T10:14:47.116997-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831693",
+      "size": "20898",
+      "md5": "cddb7199f36d3c0871fd4640268fbb61",
+      "crc32": "6ccee25e",
+      "sha1": "d8a5f980dc9448fb4070dc23def4949f24c3aebb",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-21T10:14:47.116997-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831695",
+      "size": "30274",
+      "md5": "e181a86b57759ef91b91bfe6024fa75e",
+      "crc32": "3656517d",
+      "sha1": "1aed19529673d61656c5329d0b3334681231130e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-21T10:14:47.116997-07:00.jpg",
+      "source": "original",
+      "mtime": "1655831691",
+      "size": "250378",
+      "md5": "9f277bfe90e135298158373b973069fd",
+      "crc32": "5f1348f5",
+      "sha1": "5e569865b1575e177cf150ae818747c9996731fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-06-21T10:14:47.116997-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-06-21T10:14:47.116997-07:00.jpg",
+      "mtime": "1655831747",
+      "size": "9268",
+      "md5": "ea84f6553a2b3c7166b5c1c49735c5d0",
+      "crc32": "a05c70ae",
+      "sha1": "9c527b610b7656fea9e4df2ef93550bb1133e812"
+    },
+    {
       "name": "kpcc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae70e39a421ddfd3baa2d324b07ede3ebe8d475e",
-      "mtime": "1655760626",
-      "size": "131462",
-      "md5": "7be090943efffcecf3756bc58ddaec7c",
-      "crc32": "9fe26030",
-      "sha1": "ca7d73970460f90e5115b25bad4960268184f050",
+      "btih": "f7c5b171faf8ba7e2daee87d906675048f107801",
+      "mtime": "1655831754",
+      "size": "135587",
+      "md5": "8c6333f4943d94cae0cd267d303a94d0",
+      "crc32": "5356e409",
+      "sha1": "ddb16d3505a1e6a0cd88fb0c753222ce12220d0f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "67b7dffdb3ff19f07aa4c997ea9a8b18",
+      "md5": "7b6a9aec9972d186c212179c7b54d232",
       "summation": "md5"
     },
     {
       "name": "kpcc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760571",
-      "size": "724992",
-      "md5": "815238dc4053f2b8b78072352c645fe1",
-      "crc32": "7c4b2713",
-      "sha1": "02e97b26b2c668b30204cbb7b15647bfce0dfeaa",
+      "mtime": "1655831699",
+      "size": "749568",
+      "md5": "79ab5561e4cdc250084fff90ff3f0ee6",
+      "crc32": "316a9850",
+      "sha1": "62bb31905ac65e53f019df1592deff52202334cb",
       "format": "Metadata"
     },
     {
@@ -6682,9 +6892,803 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 635,
-  "item_last_updated": 1655760626,
-  "item_size": 51753017,
+  "files_count": 655,
+  "item_last_updated": 1655831754,
+  "item_size": 53334381,
+  "kpcc-2022": [
+    {
+      "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                                \n                                \n                            \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "Program Schedule",
+      "url": "https://www.kpcc.org/schedule"
+    },
+    {
+      "text": "AirTalk",
+      "url": "https://www.kpcc.org/show/airtalk"
+    },
+    {
+      "text": "FilmWeek",
+      "url": "https://www.kpcc.org/show/filmweek"
+    },
+    {
+      "text": "FilmWeek Marquee",
+      "url": "https://www.kpcc.org/show/filmweek-marquee"
+    },
+    {
+      "text": "Hollywood, The Sequel",
+      "url": "https://laist.com/podcasts/hollywood-the-sequel"
+    },
+    {
+      "text": "All Programs",
+      "url": "https://www.kpcc.org/shows"
+    },
+    {
+      "text": "Podcasts (LAist Studios)",
+      "url": "https://laist.com/podcasts"
+    },
+    {
+      "text": "Program Schedule",
+      "url": "https://www.kpcc.org/schedule"
+    },
+    {
+      "text": "AirTalk",
+      "url": "https://www.kpcc.org/show/airtalk"
+    },
+    {
+      "text": "FilmWeek",
+      "url": "https://www.kpcc.org/show/filmweek"
+    },
+    {
+      "text": "FilmWeek Marquee",
+      "url": "https://www.kpcc.org/show/filmweek-marquee"
+    },
+    {
+      "text": "Hollywood, The Sequel",
+      "url": "https://laist.com/podcasts/hollywood-the-sequel"
+    },
+    {
+      "text": "All Programs",
+      "url": "https://www.kpcc.org/shows"
+    },
+    {
+      "text": "Podcasts (LAist Studios)",
+      "url": "https://laist.com/podcasts"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.kpcc.org/kpcc-in-person"
+    },
+    {
+      "text": "Support Us",
+      "url": "https://www.kpcc.org/support"
+    },
+    {
+      "text": "Become a Sustainer",
+      "url": "https://support.kpcc.org/default?amount=15&recurs=monthly&ms=sustainer_button"
+    },
+    {
+      "text": "Make a One-Time Gift",
+      "url": "https://support.kpcc.org/default?amount=180&recurs=one-time&ms=one-time_button"
+    },
+    {
+      "text": "Update Your Credit Card",
+      "url": "https://support.kpcc.org/ccupdate"
+    },
+    {
+      "text": "Donate Your Vehicle",
+      "url": "https://www.kpcc.org/support/car-donation"
+    },
+    {
+      "text": "Make a Gift of Stock",
+      "url": "https://www.kpcc.org/support/stock-gifts"
+    },
+    {
+      "text": "Include KPCC in Your Will",
+      "url": "https://www.kpcc.org/support/planned-giving"
+    },
+    {
+      "text": "Member Benefits",
+      "url": "https://www.kpcc.org/support/member-benefits"
+    },
+    {
+      "text": "Annual Gala",
+      "url": "https://www.kpcc.org/gala"
+    },
+    {
+      "text": "Other Ways to Support",
+      "url": "https://www.kpcc.org/support"
+    },
+    {
+      "text": "Become a Sustainer",
+      "url": "https://support.kpcc.org/default?amount=15&recurs=monthly&ms=sustainer_button"
+    },
+    {
+      "text": "Make a One-Time Gift",
+      "url": "https://support.kpcc.org/default?amount=180&recurs=one-time&ms=one-time_button"
+    },
+    {
+      "text": "Update Your Credit Card",
+      "url": "https://support.kpcc.org/ccupdate"
+    },
+    {
+      "text": "Donate Your Vehicle",
+      "url": "https://www.kpcc.org/support/car-donation"
+    },
+    {
+      "text": "Make a Gift of Stock",
+      "url": "https://www.kpcc.org/support/stock-gifts"
+    },
+    {
+      "text": "Include KPCC in Your Will",
+      "url": "https://www.kpcc.org/support/planned-giving"
+    },
+    {
+      "text": "Member Benefits",
+      "url": "https://www.kpcc.org/support/member-benefits"
+    },
+    {
+      "text": "Annual Gala",
+      "url": "https://www.kpcc.org/gala"
+    },
+    {
+      "text": "Other Ways to Support",
+      "url": "https://www.kpcc.org/support"
+    },
+    {
+      "text": "About KPCC",
+      "url": "https://www.kpcc.org/about-kpcc"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.kpcc.org/contact"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://www.kpcc.org/about/people/leadership"
+    },
+    {
+      "text": "Board of Trustees",
+      "url": "https://www.kpcc.org/about/people/board"
+    },
+    {
+      "text": "Regional Advisory Council",
+      "url": "https://www.kpcc.org/about/people/council"
+    },
+    {
+      "text": "Careers",
+      "url": "https://recruiting2.ultipro.com/AME1098APMG/JobBoard/4b7ae4eb-a67b-4318-80fc-6d9467f9c542/?q=&o=distance&w=Pasadena%2C+California%2C+USA&wc=-118.14426802178644%2C34.14745229314706&we=-118.244269%2C34.247451999999996%7C-118.04426899999999%2C34.04745199999999&wpst=1"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.kpcc.org/contact"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://www.kpcc.org/about/people/leadership"
+    },
+    {
+      "text": "Board of Trustees",
+      "url": "https://www.kpcc.org/about/people/board"
+    },
+    {
+      "text": "Regional Advisory Council",
+      "url": "https://www.kpcc.org/about/people/council"
+    },
+    {
+      "text": "Careers",
+      "url": "https://recruiting2.ultipro.com/AME1098APMG/JobBoard/4b7ae4eb-a67b-4318-80fc-6d9467f9c542/?q=&o=distance&w=Pasadena%2C+California%2C+USA&wc=-118.14426802178644%2C34.14745229314706&we=-118.244269%2C34.247451999999996%7C-118.04426899999999%2C34.04745199999999&wpst=1"
+    },
+    {
+      "text": "KPCC News",
+      "url": "https://laist.com"
+    },
+    {
+      "text": "News at LAist.com",
+      "url": "https://laist.com"
+    },
+    {
+      "text": "KPCC News Archive Site",
+      "url": "https://archive.kpcc.org"
+    },
+    {
+      "text": "News at LAist.com",
+      "url": "https://laist.com"
+    },
+    {
+      "text": "KPCC News Archive Site",
+      "url": "https://archive.kpcc.org"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.kpcc.org/newsletters"
+    },
+    {
+      "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                                \n                                \n                            \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://support.kpcc.org/default?ms=kpccnav"
+    },
+    {
+      "text": "Program Schedule",
+      "url": "https://www.kpcc.org/schedule"
+    },
+    {
+      "text": "AirTalk",
+      "url": "https://www.kpcc.org/show/airtalk"
+    },
+    {
+      "text": "FilmWeek",
+      "url": "https://www.kpcc.org/show/filmweek"
+    },
+    {
+      "text": "FilmWeek Marquee",
+      "url": "https://www.kpcc.org/show/filmweek-marquee"
+    },
+    {
+      "text": "Hollywood, The Sequel",
+      "url": "https://laist.com/podcasts/hollywood-the-sequel"
+    },
+    {
+      "text": "All Programs",
+      "url": "https://www.kpcc.org/shows"
+    },
+    {
+      "text": "Podcasts (LAist Studios)",
+      "url": "https://laist.com/podcasts"
+    },
+    {
+      "text": "Program Schedule",
+      "url": "https://www.kpcc.org/schedule"
+    },
+    {
+      "text": "AirTalk",
+      "url": "https://www.kpcc.org/show/airtalk"
+    },
+    {
+      "text": "FilmWeek",
+      "url": "https://www.kpcc.org/show/filmweek"
+    },
+    {
+      "text": "FilmWeek Marquee",
+      "url": "https://www.kpcc.org/show/filmweek-marquee"
+    },
+    {
+      "text": "Hollywood, The Sequel",
+      "url": "https://laist.com/podcasts/hollywood-the-sequel"
+    },
+    {
+      "text": "All Programs",
+      "url": "https://www.kpcc.org/shows"
+    },
+    {
+      "text": "Podcasts (LAist Studios)",
+      "url": "https://laist.com/podcasts"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.kpcc.org/kpcc-in-person"
+    },
+    {
+      "text": "Support Us",
+      "url": "https://www.kpcc.org/support"
+    },
+    {
+      "text": "Become a Sustainer",
+      "url": "https://support.kpcc.org/default?amount=15&recurs=monthly&ms=sustainer_button"
+    },
+    {
+      "text": "Make a One-Time Gift",
+      "url": "https://support.kpcc.org/default?amount=180&recurs=one-time&ms=one-time_button"
+    },
+    {
+      "text": "Update Your Credit Card",
+      "url": "https://support.kpcc.org/ccupdate"
+    },
+    {
+      "text": "Donate Your Vehicle",
+      "url": "https://www.kpcc.org/support/car-donation"
+    },
+    {
+      "text": "Make a Gift of Stock",
+      "url": "https://www.kpcc.org/support/stock-gifts"
+    },
+    {
+      "text": "Include KPCC in Your Will",
+      "url": "https://www.kpcc.org/support/planned-giving"
+    },
+    {
+      "text": "Member Benefits",
+      "url": "https://www.kpcc.org/support/member-benefits"
+    },
+    {
+      "text": "Annual Gala",
+      "url": "https://www.kpcc.org/gala"
+    },
+    {
+      "text": "Other Ways to Support",
+      "url": "https://www.kpcc.org/support"
+    },
+    {
+      "text": "Become a Sustainer",
+      "url": "https://support.kpcc.org/default?amount=15&recurs=monthly&ms=sustainer_button"
+    },
+    {
+      "text": "Make a One-Time Gift",
+      "url": "https://support.kpcc.org/default?amount=180&recurs=one-time&ms=one-time_button"
+    },
+    {
+      "text": "Update Your Credit Card",
+      "url": "https://support.kpcc.org/ccupdate"
+    },
+    {
+      "text": "Donate Your Vehicle",
+      "url": "https://www.kpcc.org/support/car-donation"
+    },
+    {
+      "text": "Make a Gift of Stock",
+      "url": "https://www.kpcc.org/support/stock-gifts"
+    },
+    {
+      "text": "Include KPCC in Your Will",
+      "url": "https://www.kpcc.org/support/planned-giving"
+    },
+    {
+      "text": "Member Benefits",
+      "url": "https://www.kpcc.org/support/member-benefits"
+    },
+    {
+      "text": "Annual Gala",
+      "url": "https://www.kpcc.org/gala"
+    },
+    {
+      "text": "Other Ways to Support",
+      "url": "https://www.kpcc.org/support"
+    },
+    {
+      "text": "About KPCC",
+      "url": "https://www.kpcc.org/about-kpcc"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.kpcc.org/contact"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://www.kpcc.org/about/people/leadership"
+    },
+    {
+      "text": "Board of Trustees",
+      "url": "https://www.kpcc.org/about/people/board"
+    },
+    {
+      "text": "Regional Advisory Council",
+      "url": "https://www.kpcc.org/about/people/council"
+    },
+    {
+      "text": "Careers",
+      "url": "https://recruiting2.ultipro.com/AME1098APMG/JobBoard/4b7ae4eb-a67b-4318-80fc-6d9467f9c542/?q=&o=distance&w=Pasadena%2C+California%2C+USA&wc=-118.14426802178644%2C34.14745229314706&we=-118.244269%2C34.247451999999996%7C-118.04426899999999%2C34.04745199999999&wpst=1"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.kpcc.org/contact"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://www.kpcc.org/about/people/leadership"
+    },
+    {
+      "text": "Board of Trustees",
+      "url": "https://www.kpcc.org/about/people/board"
+    },
+    {
+      "text": "Regional Advisory Council",
+      "url": "https://www.kpcc.org/about/people/council"
+    },
+    {
+      "text": "Careers",
+      "url": "https://recruiting2.ultipro.com/AME1098APMG/JobBoard/4b7ae4eb-a67b-4318-80fc-6d9467f9c542/?q=&o=distance&w=Pasadena%2C+California%2C+USA&wc=-118.14426802178644%2C34.14745229314706&we=-118.244269%2C34.247451999999996%7C-118.04426899999999%2C34.04745199999999&wpst=1"
+    },
+    {
+      "text": "KPCC News",
+      "url": "https://laist.com"
+    },
+    {
+      "text": "News at LAist.com",
+      "url": "https://laist.com"
+    },
+    {
+      "text": "KPCC News Archive Site",
+      "url": "https://archive.kpcc.org"
+    },
+    {
+      "text": "News at LAist.com",
+      "url": "https://laist.com"
+    },
+    {
+      "text": "KPCC News Archive Site",
+      "url": "https://archive.kpcc.org"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.kpcc.org/newsletters"
+    },
+    {
+      "text": "Become a KPCC Sponsor",
+      "url": "https://sponsorship.scpr.org/"
+    },
+    {
+      "text": "LA And Statewide Returns From The 2022 California Primary",
+      "url": "https://laist.com/live-updates/2022-election-results-california-primary"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/airtalk/2022-06-15/major-water-cutbacks-are-necessary-as-colorado-river-continues-to-diminish"
+    },
+    {
+      "text": "Major Water Cutbacks Are Necessary As Colorado River Continues To Diminish",
+      "url": "https://www.kpcc.org/show/airtalk/2022-06-15/major-water-cutbacks-are-necessary-as-colorado-river-continues-to-diminish"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/filmweek/2022-06-17/filmweek-lightyear-father-of-the-bride-official-competition-and-more"
+    },
+    {
+      "text": "FilmWeek: \u2018Lightyear,\u2019 \u2018Father of the Bride,\u2019 \u2018Official Competition\u2019 And More",
+      "url": "https://www.kpcc.org/show/filmweek/2022-06-17/filmweek-lightyear-father-of-the-bride-official-competition-and-more"
+    },
+    {
+      "text": "Amy Nicholson",
+      "url": "https://twitter.com/TheAmyNicholson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "text": "Claudia Puig",
+      "url": "http://www.lafca.net/critics/Claudia_Puig.php"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/filmweek-marquee/2022-06-17/filmweek-marquee-lightyear-good-luck-to-you-leo-grande-official-competition-and-more"
+    },
+    {
+      "text": "FilmWeek Marquee: \u2018Lightyear,\u2019 \u2018Good Luck To You, Leo Grande,\u2019 \u2018Official Competition\u2019 And More",
+      "url": "https://www.kpcc.org/show/filmweek-marquee/2022-06-17/filmweek-marquee-lightyear-good-luck-to-you-leo-grande-official-competition-and-more"
+    },
+    {
+      "text": "Amy Nicholson",
+      "url": "https://twitter.com/TheAmyNicholson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "text": "Claudia Puig",
+      "url": "http://www.lafca.net/critics/Claudia_Puig.php"
+    },
+    {
+      "text": "\n                        \n                         View Program Schedule \n                    ",
+      "url": "https://www.kpcc.org/schedule"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/2021-03-22/southern-california-public-radio-statement-in-support-of-aapi-communities-1"
+    },
+    {
+      "text": "Southern California Public Radio Statement In Support of AAPI Communities",
+      "url": "https://www.kpcc.org/2021-03-22/southern-california-public-radio-statement-in-support-of-aapi-communities-1"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/2020-06-25/southern-california-public-radio-statement-on-black-lives-matter"
+    },
+    {
+      "text": "Southern California Public Radio Statement on Black Lives Matter",
+      "url": "https://www.kpcc.org/2020-06-25/southern-california-public-radio-statement-on-black-lives-matter"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/how-to-new-la"
+    },
+    {
+      "text": "How To (New) LA",
+      "url": "https://laist.com/how-to-new-la"
+    },
+    {
+      "text": "Read on LAist",
+      "url": "https://laist.com/how-to-new-la"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.scpr.org/support/car_donation/"
+    },
+    {
+      "text": "Donate Your Vehicle to KPCC",
+      "url": "https://www.scpr.org/support/car_donation/"
+    },
+    {
+      "text": "Give Today",
+      "url": "https://www.scpr.org/support/car_donation/"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/climate-environment/youve-likely-been-affected-by-climate-change-your-long-term-finances-might-be-too"
+    },
+    {
+      "text": "Climate and Environment",
+      "url": "https://laist.com/news/climate-environment"
+    },
+    {
+      "text": "You've Likely Been Affected By Climate Change. Your Long-Term Finances Might Be, Too",
+      "url": "https://laist.com/news/climate-environment/youve-likely-been-affected-by-climate-change-your-long-term-finances-might-be-too"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/californias-next-cannabis-battle-may-be-coming-to-a-city-near-you"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "California\u2019s Next Cannabis Battle May Be Coming To A City Near You",
+      "url": "https://laist.com/news/californias-next-cannabis-battle-may-be-coming-to-a-city-near-you"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/morning-brief-waiting-on-supreme-court-abortion-ruling-whats-at-stake"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "Morning Brief: Waiting on Supreme Court Abortion Ruling. What\u2019s at Stake? ",
+      "url": "https://laist.com/news/morning-brief-waiting-on-supreme-court-abortion-ruling-whats-at-stake"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/laguna-woods-shooting-taiwanese-american-second-generation"
+    },
+    {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "Why The Church Shooting Was A Wake-Up Call For Younger Taiwanese Americans To Reflect On Their History",
+      "url": "https://laist.com/news/laguna-woods-shooting-taiwanese-american-second-generation"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/health/covid-19-vaccine-available-for-la-county-infants-and-toddlers"
+    },
+    {
+      "text": "Health",
+      "url": "https://laist.com/news/health"
+    },
+    {
+      "text": "COVID-19 Vaccine Available For LA County Infants And Toddlers",
+      "url": "https://laist.com/news/health/covid-19-vaccine-available-for-la-county-infants-and-toddlers"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/arts-and-entertainment/were-book-activists-on-juneteenth-recognizing-the-role-of-las-black-owned-bookstores"
+    },
+    {
+      "text": "Arts and Entertainment",
+      "url": "https://laist.com/news/arts-and-entertainment"
+    },
+    {
+      "text": "'We\u2019re Book Activists\u2019: On Juneteenth, Recognizing The Role Of LA\u2019s Black-Owned Bookstores",
+      "url": "https://laist.com/news/arts-and-entertainment/were-book-activists-on-juneteenth-recognizing-the-role-of-las-black-owned-bookstores"
+    },
+    {
+      "text": "Become a KPCC Sponsor",
+      "url": "https://sponsorship.scpr.org/"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/morning-edition"
+    },
+    {
+      "text": "Morning Edition",
+      "url": "https://www.kpcc.org/show/morning-edition"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/all-things-considered"
+    },
+    {
+      "text": "All Things Considered",
+      "url": "https://www.kpcc.org/show/all-things-considered"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/weekend-edition-saturday"
+    },
+    {
+      "text": "Weekend Edition Saturday",
+      "url": "https://www.kpcc.org/show/weekend-edition-saturday"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/weekend-edition-sunday"
+    },
+    {
+      "text": "Weekend Edition Sunday",
+      "url": "https://www.kpcc.org/show/weekend-edition-sunday"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/wait-wait-dont-tell-me"
+    },
+    {
+      "text": "Wait Wait...Don't Tell Me!",
+      "url": "https://www.kpcc.org/show/wait-wait-dont-tell-me"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/1a"
+    },
+    {
+      "text": "1A",
+      "url": "https://www.kpcc.org/show/1a"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/airtalk"
+    },
+    {
+      "text": "AirTalk",
+      "url": "https://www.kpcc.org/show/airtalk"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://www.kpcc.org/show/america-are-we-ready"
+    },
+    {
+      "text": "America, Are We Ready?",
+      "url": "https://www.kpcc.org/show/america-are-we-ready"
+    },
+    {
+      "text": "\n                     SEE ALL SHOWS \n                ",
+      "url": "https://www.kpcc.org/shows"
+    },
+    {
+      "text": "Become a KPCC Sponsor",
+      "url": "https://sponsorship.scpr.org/"
+    },
+    {
+      "text": "Raising kids is 'Essential Labor.' It's also lonely, exhausting and expensive",
+      "url": "https://www.kpcc.org/npr-news/2022-06-21/raising-kids-is-essential-labor-its-also-lonely-exhausting-and-expensive"
+    },
+    {
+      "text": "Police could have stopped Uvalde shooting within 3 minutes, a Texas official says ",
+      "url": "https://www.kpcc.org/npr-news/2022-06-21/police-could-have-stopped-uvalde-shooting-within-3-minutes-a-texas-official-says"
+    },
+    {
+      "text": "The Jan. 6 committee holds its fourth hearing today. Here's what we know",
+      "url": "https://www.kpcc.org/npr-news/2022-06-21/the-jan-6-committee-holds-its-fourth-hearing-today-heres-what-we-know"
+    },
+    {
+      "text": "Allyson Felix launches a child care initiative for athlete moms",
+      "url": "https://www.kpcc.org/2022-06-21/allyson-felix-launches-child-care-initiative-for-athlete-moms"
+    },
+    {
+      "text": "You've likely been affected by climate change. Your long-term finances might be, too",
+      "url": "https://www.kpcc.org/npr-news/2022-06-21/youve-likely-been-affected-by-climate-change-your-long-term-finances-might-be-too"
+    },
+    {
+      "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                            \n                        \n                    \n\n                    \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "twitter",
+      "url": "https://twitter.com/KPCC"
+    },
+    {
+      "text": "facebook",
+      "url": "https://www.facebook.com/kpcc"
+    },
+    {
+      "text": "\n\n  \n      \n          \n              \n    \n        \n            \n\n                    \n                        \n                                \n                                \n                            \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n          \n      \n      \n      \n      \n       \n      \n      \n  \n",
+      "url": "https://laist.com/"
+    },
+    {
+      "text": "The Brief",
+      "url": "https://laist.com/the-brief"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://laist.com/podcasts"
+    },
+    {
+      "text": "Events",
+      "url": "https://laist.com/events/laist-events"
+    },
+    {
+      "text": "About KPCC",
+      "url": "https://www.kpcc.org/about-kpcc"
+    },
+    {
+      "text": "Program Schedule",
+      "url": "https://www.kpcc.org/schedule"
+    },
+    {
+      "text": "AirTalk",
+      "url": "https://www.kpcc.org/show/airtalk"
+    },
+    {
+      "text": "FilmWeek",
+      "url": "https://www.kpcc.org/show/filmweek"
+    },
+    {
+      "text": "FilmWeek Marquee",
+      "url": "https://www.kpcc.org/show/filmweek-marquee"
+    },
+    {
+      "text": "Hollywood, The Sequel",
+      "url": "https://laist.com/podcasts/hollywood-the-sequel"
+    },
+    {
+      "text": "KPCC In Person",
+      "url": "https://www.kpcc.org/kpcc-in-person"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.kpcc.org/contact"
+    },
+    {
+      "text": "KPCC Story Archive",
+      "url": "https://archive.kpcc.org"
+    },
+    {
+      "text": "Careers",
+      "url": "https://recruiting2.ultipro.com/AME1098APMG/JobBoard/4b7ae4eb-a67b-4318-80fc-6d9467f9c542/?q=&o=distance&w=Pasadena%2C+California%2C+USA&wc=-118.14426802178644%2C34.14745229314706&we=-118.244269%2C34.247451999999996%7C-118.04426899999999%2C34.04745199999999&wpst=1"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.kpcc.org/newsletters"
+    },
+    {
+      "text": "Donate Your Vehicle",
+      "url": "https://www.kpcc.org/support/car-donation"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.americanpublicmedia.org/terms/"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.americanpublicmedia.org/privacy/"
+    },
+    {
+      "text": "EEO Public Reports",
+      "url": "https://www.kpcc.org/about/public"
+    },
+    {
+      "text": "FCC Public Files KPCC-FM",
+      "url": "https://publicfiles.fcc.gov/fm-profile/kpcc"
+    },
+    {
+      "text": "FCC Public Files KUOR-FM",
+      "url": "https://publicfiles.fcc.gov/fm-profile/kuor"
+    },
+    {
+      "text": "FCC Public Files KVLA-FM",
+      "url": "https://publicfiles.fcc.gov/fm-profile/kvla"
+    },
+    {
+      "text": "FCC Public Files KJAI-FM",
+      "url": "https://publicfiles.fcc.gov/fm-profile/kjai"
+    },
+    {
+      "text": " FCC Applications Public Notices",
+      "url": "https://www.kpcc.org/about/public/fcc-applications-public-notices"
+    }
+  ],
   "metadata": {
     "identifier": "kpcc-2022",
     "collection": [
@@ -6701,10 +7705,10 @@
     "publicdate": "2022-03-23 02:08:21",
     "addeddate": "2022-03-23 02:08:21"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1672798335,
+  "server": "ia902503.us.archive.org",
+  "uniq": 308176229,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

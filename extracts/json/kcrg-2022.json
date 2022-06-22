@@ -1,5 +1,5 @@
 {
-  "created": 1655760697,
+  "created": 1655857337,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/28/items/kcrg-2022",
@@ -3624,31 +3624,221 @@
       "sha1": "153ee02ebfea690d11db6ae89b82755e9c245335"
     },
     {
+      "name": "kcrg-2022-06-20T20:32:16.166468-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775140",
+      "size": "34407",
+      "md5": "dfc78db870eb412c317613a395f5bcec",
+      "crc32": "1a25cd04",
+      "sha1": "33a3b0cbe3c723c64639572462a637b19b3e0731",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-20T20:32:16.166468-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775142",
+      "size": "17880",
+      "md5": "e4a2779ba1975ff8d592c4e5d187f879",
+      "crc32": "5d99ff23",
+      "sha1": "d7b0b8b37a1f540bdfbce762c578e5df14358b9e",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-20T20:32:16.166468-05:00.jpg",
+      "source": "original",
+      "mtime": "1655775138",
+      "size": "309602",
+      "md5": "c7f41c5e123b3ed62ac1044d02b7a2ed",
+      "crc32": "d93c2659",
+      "sha1": "b023fe146be838f225a150943fadbeb721eb1c75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-20T20:32:16.166468-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-20T20:32:16.166468-05:00.jpg",
+      "mtime": "1655775247",
+      "size": "10346",
+      "md5": "8d8868179c4f55a07142e5905c9b9990",
+      "crc32": "4036a465",
+      "sha1": "53d81fe0034a50367270d982f751306d10026bda"
+    },
+    {
+      "name": "kcrg-2022-06-21T00:26:09.576152-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789173",
+      "size": "34885",
+      "md5": "7259b32064c7a7e01b1fa78cbe595bc0",
+      "crc32": "90e2a463",
+      "sha1": "b7362bc1a634bc7fb6222bc830bf158e285501dd",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-21T00:26:09.576152-05:00.jpg",
+      "source": "original",
+      "mtime": "1655789171",
+      "size": "299745",
+      "md5": "77e63b185409fb89637a75ee09da5922",
+      "crc32": "fe01da89",
+      "sha1": "a8fe1d8ffd591e54534fbd4e5130139d1141827d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-21T00:26:09.576152-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-21T00:26:09.576152-05:00.jpg",
+      "mtime": "1655789234",
+      "size": "10044",
+      "md5": "0ed6ed994846f22f7da273c465b8e1a6",
+      "crc32": "8ad1a43c",
+      "sha1": "43b09db05dbe3b0f761bd20335525f7811774e50"
+    },
+    {
+      "name": "kcrg-2022-06-21T07:27:49.646050-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814479",
+      "size": "34772",
+      "md5": "149cc6922c02e85ebc3fd334bf07b202",
+      "crc32": "540a960f",
+      "sha1": "f29d2cabab5579d167f731bdd8312d6c8299e9f9",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-21T07:27:49.646050-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814480",
+      "size": "17874",
+      "md5": "c4f35468de8d73f3d96bbfbec685304b",
+      "crc32": "80f1fc73",
+      "sha1": "7ee898689d66e34bafd71373e8757821e1a70abb",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-21T07:27:49.646050-05:00.jpg",
+      "source": "original",
+      "mtime": "1655814477",
+      "size": "335022",
+      "md5": "733010750c7c0eb20b4b3a814e8146e5",
+      "crc32": "c65cd4c2",
+      "sha1": "1a086d65c45a60804faccf74c6f4c6d4bcd5c028",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-21T07:27:49.646050-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-21T07:27:49.646050-05:00.jpg",
+      "mtime": "1655814541",
+      "size": "10624",
+      "md5": "127620c58c6429ed921f52d0943213c7",
+      "crc32": "547136df",
+      "sha1": "88e937e85a0029b5b0c62f9e160825e245b2f058"
+    },
+    {
+      "name": "kcrg-2022-06-21T08:52:11.745522-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819542",
+      "size": "35097",
+      "md5": "98ee8cf252903b8f602a5aa8b7569e24",
+      "crc32": "605a4e11",
+      "sha1": "2f2c47a666f8a2bb846757e7cf79fb51ff1678d7",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-21T08:52:11.745522-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819544",
+      "size": "18054",
+      "md5": "14d0d1fd2c66338d2114012b710df559",
+      "crc32": "f41bab7c",
+      "sha1": "d9751af9e1564b89b2ec51ae344ee94d3d37b0b8",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-21T08:52:11.745522-05:00.jpg",
+      "source": "original",
+      "mtime": "1655819534",
+      "size": "336615",
+      "md5": "e0cc77f79185db2f74498912b4165191",
+      "crc32": "19ba292b",
+      "sha1": "22e8fcad0088a7cffde30d8b5cac7d6b4ea46306",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-21T08:52:11.745522-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-21T08:52:11.745522-05:00.jpg",
+      "mtime": "1655819623",
+      "size": "10522",
+      "md5": "c055af7ed7749c1f3d96dffffbc21d69",
+      "crc32": "50f31a05",
+      "sha1": "d444fd7f54ae28e7c2710617a4cc2a7a18dfeb8c"
+    },
+    {
+      "name": "kcrg-2022-06-21T12:14:57.152946-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831701",
+      "size": "34556",
+      "md5": "4ac0c5f110aa5ca8bb0fc75dcfc64008",
+      "crc32": "fabdd43c",
+      "sha1": "267ebb062645e2f5785fa90e7b74d518d547188c",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-21T12:14:57.152946-05:00.jpg",
+      "source": "original",
+      "mtime": "1655831700",
+      "size": "339995",
+      "md5": "9101b4fbb270bb2f85c28392345539e1",
+      "crc32": "efb84f6f",
+      "sha1": "4cf2a50bf466a8603ae9091aa030c83f2636040f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-21T12:14:57.152946-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-21T12:14:57.152946-05:00.jpg",
+      "mtime": "1655831750",
+      "size": "10672",
+      "md5": "4c847a4d40f79b96e7ef36c0231e6e74",
+      "crc32": "c7a72e7d",
+      "sha1": "72eccc59140e2aa705fb47e4b1796ae3b9856046"
+    },
+    {
       "name": "kcrg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e44a7a3e67ee7896552d105a4bdaadd467520dc3",
-      "mtime": "1655760665",
-      "size": "72685",
-      "md5": "92619c0e3ef613a30109bc34cfb006f1",
-      "crc32": "2f529574",
-      "sha1": "241160645fa69668e2e7b995b479428b9f46d72e",
+      "btih": "833ca368c88e03cdb55ef2f4ad4637a44ce08a1a",
+      "mtime": "1655831754",
+      "size": "76421",
+      "md5": "15cb97137e5db20fea4c81724d5af533",
+      "crc32": "5a03f6af",
+      "sha1": "e5285b3b8e283963a202af370b63280ad9b33dd8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6d253f548e9ded38972004776c691a9f",
+      "md5": "076f80789bc023b2bb58181302b50572",
       "summation": "md5"
     },
     {
       "name": "kcrg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760578",
-      "size": "405504",
-      "md5": "20fe75ba3e7449a5d2e6566fd44ca8de",
-      "crc32": "c9af3d3f",
-      "sha1": "3a15f3a83d0797bdee8ea70e70ffb47f3d226b1e",
+      "mtime": "1655831704",
+      "size": "421888",
+      "md5": "c3d0df46ccbfc83669e4eef4915bb6dc",
+      "crc32": "b9d39727",
+      "sha1": "298c16b06bc91395a63e58d81214e15f5818ec87",
       "format": "Metadata"
     },
     {
@@ -3662,9 +3852,1411 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 348,
-  "item_last_updated": 1655760665,
-  "item_size": 35922931,
+  "files_count": 366,
+  "item_last_updated": 1655831754,
+  "item_size": 37843763,
+  "kcrg-2022": {
+    "role": "WebArea",
+    "name": "KCRG | Cedar Rapids, Iowa City, Waterloo, Dubuque | News, Sports and Weather",
+    "children": [
+      {
+        "role": "link",
+        "name": "Skip to content"
+      },
+      {
+        "role": "link",
+        "name": "Show You Care"
+      },
+      {
+        "role": "link",
+        "name": "Shop Local"
+      },
+      {
+        "role": "link",
+        "name": "Student of the Month"
+      },
+      {
+        "role": "link",
+        "name": "Everyday Families"
+      },
+      {
+        "role": "link",
+        "name": "Working Iowa"
+      },
+      {
+        "role": "link",
+        "name": "Visit Iceland"
+      },
+      {
+        "role": "link",
+        "name": "Return to the Homepage"
+      },
+      {
+        "role": "link",
+        "name": "91\u00b0 Cedar Rapids, IA"
+      },
+      {
+        "role": "button",
+        "name": "Expand Side Navigation Panel"
+      },
+      {
+        "role": "link",
+        "name": "Video"
+      },
+      {
+        "role": "link",
+        "name": "News"
+      },
+      {
+        "role": "link",
+        "name": "Weather"
+      },
+      {
+        "role": "link",
+        "name": "Sports"
+      },
+      {
+        "role": "link",
+        "name": "KCRG 9.2"
+      },
+      {
+        "role": "link",
+        "name": "Watch Live"
+      },
+      {
+        "role": "link",
+        "name": "Connect"
+      },
+      {
+        "role": "link",
+        "name": "YouNews"
+      },
+      {
+        "role": "text",
+        "name": "\uf002"
+      },
+      {
+        "role": "link",
+        "name": "5 Weather Alerts In Effect"
+      },
+      {
+        "role": "button",
+        "name": "\uf00d Dismiss Weather Alerts Alerts Bar",
+        "description": "Dismiss Weather Alerts Alerts Bar"
+      },
+      {
+        "role": "link",
+        "name": "Muscatine police investigate stabbing that sent man to the hospital Police in Muscatine are investigating after a stabbing sent a man to the hospital Monday night."
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "Police walk near Robb Elementary School following a shooting, Tuesday, May 24, 2022, in Uvalde,..."
+      },
+      {
+        "role": "link",
+        "name": "\uf144Texas top cop: Uvalde police response an \u2018abject failure\u2019"
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Emergency water main break in Marion impacts traffic"
+      },
+      {
+        "role": "link",
+        "name": "CORONAVIRUS"
+      },
+      {
+        "role": "link",
+        "name": "A local woman's daughter is now eligible for the COVID-19 vaccine. She believes the vaccine..."
+      },
+      {
+        "role": "link",
+        "name": "\uf144Marion mom relieved to have COVID vaccine for toddler"
+      },
+      {
+        "role": "text",
+        "name": "ADVERTISEMENT"
+      },
+      {
+        "role": "heading",
+        "name": "TOP HEADLINES",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "North Liberty fire causes estimated $40K in damage, no one injured"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "12 minutes ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "Firefighters in North Liberty responded to a report of a building fire at 1440 Greyson Lane."
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Woman who fired gun in Iowa Hy-Vee may not face charges"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "6 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCCI"
+      },
+      {
+        "role": "text",
+        "name": "The woman who fired a gunshot in a Des Moines Hy-Vee on Sunday morning may not face criminal charges."
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Eastern Iowa gun shop owner has concerns over \u2018Red Flag Laws\u2019"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "5 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "Phil Reed"
+      },
+      {
+        "role": "text",
+        "name": "He believes it doesn't give gun owners due process. Some disagree with his opinion."
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf1441/6 panel to hear from Raffensperger, others Trump pressured"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "2 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "FARNOUSH AMIRI and LISA MASCARO"
+      },
+      {
+        "role": "text",
+        "name": "The House Jan. 6 committee is set to hear from local officials who fended off Donald Trump\u2019s pressure to overturn the 2020 presidential election."
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf144White House COVID-19 response team postpones briefing on vaccines for young children"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "3 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "Gray News staff"
+      },
+      {
+        "role": "text",
+        "name": "The FDA approved the Moderna and Pfizer vaccines for young children on Friday, with the CDC signing off on them on Saturday."
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf144\u2018Everything is on fire\u2019: Ukraine region weathers bombardment"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "44 minutes ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "YURAS KARMANAU, JOHN LEICESTER and DAVID KEYTON"
+      },
+      {
+        "role": "text",
+        "name": "Russia\u2019s war has caused alarm over food supplies from Ukraine to the rest of the world and gas supplies from Russia, as well as raising questions about security in Western Europe."
+      },
+      {
+        "role": "button",
+        "name": "Pinpoint Doppler Radar"
+      },
+      {
+        "role": "link",
+        "name": "Pinpoint Doppler Radar"
+      },
+      {
+        "role": "text",
+        "name": "ADVERTISEMENT"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "YouNews",
+        "level": 3
+      },
+      {
+        "role": "Iframe",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "LATEST VIDEO"
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Tuesday's Deep Dive: June 21st Edition"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "4 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "Meteorologist Kaj O'Mara looks at surface maps, wind shear and rainfall so far this month in the June 21st edition of Tuesday's Deep Dive."
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Cedar Rapids firefighters rescue kitten trapped in a pipe"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "4 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "Firefighters in Cedar Rapids rescued a kitten that had been caught in an eight-inch pipe on Saturday night."
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Iowa democrats hope changes to caucuses will keep 'first in the nation' status"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "4 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "Iowa Democrats hope the big changes they make to their caucuses will keep the state's \"first in the nation\" in the presidential selection process."
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Eastern Iowa gun shop owner has concerns over \u2018Red Flag Laws\u2019"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "6 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "The owner of an Eastern Iowa Gun shop has concerns about proposed Red Flag Laws."
+      },
+      {
+        "role": "link",
+        "name": "MORE NEWS"
+      },
+      {
+        "role": "Iframe",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Area call centers prep for launch of 988 hotline for mental health emergencies"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "20 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "Kristin Rogers"
+      },
+      {
+        "role": "text",
+        "name": "In less than a month people across the country will be able to dial 988 to seek help during a mental health crisis."
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Iowa\u2019s three public universities could see their tuition increase"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "19 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "Emily Schrad"
+      },
+      {
+        "role": "text",
+        "name": "While students said they recognized decisions like these from the board aren\u2019t made lightly, they still wanted to voice their concerns."
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "Eastern Iowa Independence Day fireworks displays"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "Jun. 13, 2022 at 5:27 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "Cities across Iowa will be hosting Independence Day fireworks displays."
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Uptown Marion redevelopment project hits new milestone"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "17 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "A years-long redevelopment of Uptown Marion hit a new milestone on Monday as crews put the final touches on 10th Street, just north of 7th Avenue."
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf144How Ukraine-Russian war will shape world\u2019s nuclear arsenals"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "7 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "The Associated Press"
+      },
+      {
+        "role": "text",
+        "name": "With the war between Russia and Ukraine remain ongoing, many question if nuclear warfare will be brought in the mix and how would the world respond?"
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Judge denies change of venue for trial for man accused of murder in Cedar Rapids"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "20 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "A judge has denied a change of venue request for the man accused of killing a woman with a wooden board at his Cedar Rapids home in April."
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "MidAmerican to conduct controlled natural gas flare Tuesday in Waterloo"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "20 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "MidAmerican Energy says it will conduct a controlled natural gas flare Tuesday morning."
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "\uf144\u2018Public Safety Awareness Day\u2019 in Coggon honors Linn County deputy shot one year ago"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "24 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "To mark the anniversary, Deputy Halverson is sharing his story."
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Despite Western arms, Ukraine is outgunned in the east"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "22 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "The Associated Press"
+      },
+      {
+        "role": "text",
+        "name": "Russia\u2019s initially botched offensive is focusing on Ukraine\u2019s eastern Donbas region."
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "Shots for tots: COVID vaccinations start for little US kids"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "23 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "The Associated Press"
+      },
+      {
+        "role": "text",
+        "name": "The nation\u2019s youngest children are getting their chance at vaccines for COVID-19."
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Biden says he\u2019s considering a gasoline tax holiday"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "20 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "AAMER MADHANI and JOSH BOAK"
+      },
+      {
+        "role": "text",
+        "name": "The administration is increasingly looking for ways to spare Americans from higher prices at the pump."
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Iowa CrossFit gym participates in workout in honor of teacher killed in Uvalde, Texas"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "22 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "Over the weekend, CrossFit gyms across the country, including in Iowa, participated in a workout in honor of one of the teachers killed in Uvalde, Texas."
+      },
+      {
+        "role": "link",
+        "name": "MORE NEWS"
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "Adventureland announces new Halloween themed event coming this fall"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "Jun. 20, 2022 at 4:26 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "Adventureland Park announced on Monday its new Halloween themed event coming later this year."
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Cedar Rapids firefighters rescue kitten trapped in a pipe"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "24 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "Firefighters in Cedar Rapids rescued a kitten that had been caught in an eight-inch pipe on Saturday night."
+      },
+      {
+        "role": "link",
+        "name": "IOWA"
+      },
+      {
+        "role": "link",
+        "name": "Mason City man gets prison for role in deadly shooting"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "23 hours ago"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "A Mason City man has been sentenced to 10 years in prison for his role in a February shooting that killed one man and left another with disabling injuries."
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Libertarian candidate for Iowa governor resumes active campaigning following arrest"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "Jun. 20, 2022 at 12:54 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "As Rick Stewart prepares for a trial in Washington, D.C. following his arrest, he\u2019s resuming active campaigning as he runs for Governor of Iowa as a Libertarian."
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Inflation taking bite out of new infrastructure projects"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "Jun. 20, 2022 at 4:03 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "The Associated Press"
+      },
+      {
+        "role": "text",
+        "name": "Inflation is taking a toll on infrastructure projects across the U.S."
+      },
+      {
+        "role": "link",
+        "name": "NATIONAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf144\u2018It\u2019s just hell there\u2019: Russia still pounds eastern Ukraine"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "Jun. 20, 2022 at 1:40 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "JOHN LEICESTER and DAVID KEYTON"
+      },
+      {
+        "role": "text",
+        "name": "In Ukraine\u2019s eastern Luhansk region, which in recent weeks has become the focal point of Moscow\u2019s attempt to impose its will on its neighbor, battles raged for the control of multiple villages, the local governor said."
+      },
+      {
+        "role": "link",
+        "name": "LOCAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Iowa mom walks over 300 miles across the state to raise awareness for mental health"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "Jun. 20, 2022 at 3:54 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "Libbie Randall"
+      },
+      {
+        "role": "text",
+        "name": "She\u2019s followed, virtually, by over 200 people between her facebook page where she posts updates on her journey, and the gofundme set up for a nonprofit. Smith says any funds donated will go to mental health crisis and awareness organizations such as CommUnity Crisis Services and Food Bank, I\u2019m Glad You Stayed Project, and This Is My Brave."
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "\u2018Let\u2019s go with the corn cob\u2019: Iowans take over Red Bull Soap Box Derby in Des Moines"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "Jun. 20, 2022 at 11:20 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "Beau Bowman"
+      },
+      {
+        "role": "text",
+        "name": "The long-awaited Red Bull Soap Box Derby took over Des Moines Saturday afternoon."
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Summer camps in Eastern Iowa work around staff shortages"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "Jun. 20, 2022 at 3:50 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "Mollie Swayne"
+      },
+      {
+        "role": "text",
+        "name": "Camp Courageous in Monticello is serving fewer campers this summer due to staff shortages."
+      },
+      {
+        "role": "link",
+        "name": "LOCAL"
+      },
+      {
+        "role": "link",
+        "name": "\uf144Cedar Rapids residence damaged following structure fire"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": ":"
+      },
+      {
+        "role": "text",
+        "name": "Jun. 20, 2022 at 12:32 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "text",
+        "name": "KCRG Staff"
+      },
+      {
+        "role": "text",
+        "name": "At 3:26 p.m. Sunday afternoon the Cedar Rapids Fire Department was sent to 1802 Hoover Trail Ct SW where a single story residence had caught fire."
+      },
+      {
+        "role": "button",
+        "name": "\uf057"
+      },
+      {
+        "role": "link",
+        "name": "News"
+      },
+      {
+        "role": "link",
+        "name": "First Alert Weather"
+      },
+      {
+        "role": "link",
+        "name": "Sports"
+      },
+      {
+        "role": "link",
+        "name": "Contact Us"
+      },
+      {
+        "role": "link",
+        "name": "YouNews"
+      },
+      {
+        "role": "link",
+        "name": "First Alert Pinpoint Radar"
+      },
+      {
+        "role": "link",
+        "name": "KCRG 9.2"
+      },
+      {
+        "role": "link",
+        "name": "Submit a News Story"
+      },
+      {
+        "role": "link",
+        "name": "Show You Care"
+      },
+      {
+        "role": "link",
+        "name": "Cancellations"
+      },
+      {
+        "role": "link",
+        "name": "Athlete Of The Week"
+      },
+      {
+        "role": "link",
+        "name": "Advertise with us"
+      },
+      {
+        "role": "link",
+        "name": "TV Listings"
+      },
+      {
+        "role": "text",
+        "name": "KCRG"
+      },
+      {
+        "role": "text",
+        "name": "501 2nd Ave SE"
+      },
+      {
+        "role": "text",
+        "name": "Cedar Rapids, IA 52401"
+      },
+      {
+        "role": "text",
+        "name": "(319) 399-5999"
+      },
+      {
+        "role": "link",
+        "name": "Public Inspection File"
+      },
+      {
+        "role": "link",
+        "name": "FCC Applications"
+      },
+      {
+        "role": "link",
+        "name": "programming@kcrg.com - (319) 399-5999"
+      },
+      {
+        "role": "link",
+        "name": "Terms of Service"
+      },
+      {
+        "role": "link",
+        "name": "Privacy Policy"
+      },
+      {
+        "role": "link",
+        "name": "EEO Statement"
+      },
+      {
+        "role": "link",
+        "name": "Advertising"
+      },
+      {
+        "role": "text",
+        "name": "A Gray Media Group, Inc. Station -"
+      },
+      {
+        "role": "text",
+        "name": "\u00a9"
+      },
+      {
+        "role": "text",
+        "name": "2002-2022 Gray Television, Inc."
+      }
+    ]
+  },
   "metadata": {
     "identifier": "kcrg-2022",
     "collection": [
@@ -3681,10 +5273,10 @@
     "publicdate": "2022-03-25 03:35:21",
     "addeddate": "2022-03-25 03:35:21"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1664182901,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1218686461,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }
