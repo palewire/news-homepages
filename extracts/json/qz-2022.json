@@ -1,5 +1,5 @@
 {
-  "created": 1655857462,
+  "created": 1655943559,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/qz-2022",
@@ -520,31 +520,157 @@
       "sha1": "82ee8ed40a69e982e4f450e0dce3dbf7d1e8a662"
     },
     {
+      "name": "qz-2022-06-21T21:25:33.080605-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861137",
+      "size": "13582",
+      "md5": "2976bacc1eed0b4fbcd8577c819bc821",
+      "crc32": "e5d533dd",
+      "sha1": "ec8cfe4f115c07244437d88d5780b18b65ac6db2",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-21T21:25:33.080605-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861139",
+      "size": "13579",
+      "md5": "ed86d903f1a878e2a40346e765ec2a11",
+      "crc32": "e4df561f",
+      "sha1": "eb559886ec5053367bc6d59388d8a8f4a8ec8043",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-21T21:25:33.080605-04:00.jpg",
+      "source": "original",
+      "mtime": "1655861134",
+      "size": "240187",
+      "md5": "44216fa2d720864204c8bff44db1032b",
+      "crc32": "9a203651",
+      "sha1": "6811c3714f531af740d5348418b4db1bf9555261",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-21T21:25:33.080605-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-21T21:25:33.080605-04:00.jpg",
+      "mtime": "1655861390",
+      "size": "8561",
+      "md5": "19fd693b5fa97b21c762cc6b0bc1922e",
+      "crc32": "28941870",
+      "sha1": "e8359d784dbb1ff387eecfa46eebdb3f93a350f9"
+    },
+    {
+      "name": "qz-2022-06-22T05:19:07.130069-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889549",
+      "size": "13620",
+      "md5": "d10d7bb455c1b6191917708be3094f8b",
+      "crc32": "0b19ebe6",
+      "sha1": "0244324ebecc6d4be0d4e01cee238af5b5abcd7c",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-22T05:19:07.130069-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889550",
+      "size": "13552",
+      "md5": "793d76c53b437a01048ec988c48b4161",
+      "crc32": "85ab815e",
+      "sha1": "4363004b6e7b48d084ad98f5cdec2153bd841379",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-22T05:19:07.130069-04:00.jpg",
+      "source": "original",
+      "mtime": "1655889548",
+      "size": "239449",
+      "md5": "01b546dd34399232903c8d253fd2a4f4",
+      "crc32": "4a3c2888",
+      "sha1": "02d4ec5c7e230305d4a8520e898d50066ee05e76",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-22T05:19:07.130069-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-22T05:19:07.130069-04:00.jpg",
+      "mtime": "1655889617",
+      "size": "8555",
+      "md5": "1f44171da5aafa8f300edb34d5703fb3",
+      "crc32": "d4b8a2de",
+      "sha1": "4e90ad0897e04667496af955c356b0b303034638"
+    },
+    {
+      "name": "qz-2022-06-22T13:32:26.637990-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919150",
+      "size": "14754",
+      "md5": "75f0159d2241208a747bb06b7694a87c",
+      "crc32": "a81968cd",
+      "sha1": "8d158e4ad7df34b3e1bc78eaaab0778755588a3a",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-22T13:32:26.637990-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919152",
+      "size": "14226",
+      "md5": "4545a992d046fb91b3fb5705cc1013bc",
+      "crc32": "bdaf02bc",
+      "sha1": "934066dd81f325c58f0fd36869d9718ab9352537",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-22T13:32:26.637990-04:00.jpg",
+      "source": "original",
+      "mtime": "1655919148",
+      "size": "244841",
+      "md5": "4fb46ecd4a82f712b357809f73da2356",
+      "crc32": "0edb020a",
+      "sha1": "45a7dd90cb9f1f9b1b9b7e622b7de08a0ee385c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-22T13:32:26.637990-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-22T13:32:26.637990-04:00.jpg",
+      "mtime": "1655919199",
+      "size": "8489",
+      "md5": "f1104189f7766c708afedfa484ad6ea1",
+      "crc32": "8ad13aed",
+      "sha1": "1c0682c3a406c39eb61dc4f1bf0ae19133c9946d"
+    },
+    {
       "name": "qz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c7c7fae4a288a30247a6e97e7ed03d0592556c11",
-      "mtime": "1655831906",
-      "size": "11351",
-      "md5": "5844090afc8dbc97af880b0462e13ead",
-      "crc32": "c8a1ebda",
-      "sha1": "8b92d681d42d5e6b3334ea9c469296bb517e67ac",
+      "btih": "743d3bf619f48d3b465c8cbb31b7cee942a167bf",
+      "mtime": "1655919203",
+      "size": "13806",
+      "md5": "67c1f5e7a95a6d6348421b0a9cedb68c",
+      "crc32": "60570f53",
+      "sha1": "4304062f1321ac9d5bc2cc343a7cdc71d9316963",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "376a193e862f4987a2be1ffe069fd1ff",
+      "md5": "9f2dc79b332963ab751929fb871914bc",
       "summation": "md5"
     },
     {
       "name": "qz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655831848",
-      "size": "69632",
-      "md5": "d5e11bc6abd967c8a40d354651bb3ac3",
-      "crc32": "56d15ab9",
-      "sha1": "3cbbc46227241ff379ac150e563ab5cc0571d19f",
+      "mtime": "1655919155",
+      "size": "81920",
+      "md5": "220341c4e806179868239987532be640",
+      "crc32": "62bac419",
+      "sha1": "07f4338465a8ec1cd494cd7499db1ae6309bfe81",
       "format": "Metadata"
     },
     {
@@ -558,9 +684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 53,
-  "item_last_updated": 1655831906,
-  "item_size": 3486701,
+  "files_count": 65,
+  "item_last_updated": 1655919203,
+  "item_size": 4334839,
   "metadata": {
     "identifier": "qz-2022",
     "collection": [
@@ -787,36 +913,44 @@
       "url": "/emails/daily-brief/"
     },
     {
-      "text": "to ease pain at the pump",
-      "url": "https://www.cnn.com/2022/06/20/politics/biden-gas-tax-holiday/index.html"
+      "text": "continued to climb",
+      "url": "https://www.wsj.com/articles/u-s-existing-home-sale-prices-hit-record-of-407-600-in-may-11655820516"
     },
     {
-      "text": "plans to hit the road",
-      "url": "https://www.reuters.com/world/us/record-number-travelers-hit-us-roads-july-4-weekend-aaa-2022-06-21/"
+      "text": "home sales declined",
+      "url": "https://apnews.com/article/economy-home-sales-prices-b9afc4e250784ddbfa7a8e125781badb"
     },
     {
-      "text": "violated federal law",
-      "url": "https://www.bloomberg.com/news/articles/2022-06-20/tesla-layoffs-violated-law-with-no-warning-to-workers-suit-says"
+      "text": "15-year low",
+      "url": "https://www.zillow.com/research/may-2022-market-report-31157/"
     },
     {
-      "text": "a $2.9 billion deal",
-      "url": "https://www.wsj.com/articles/mondelez-to-acquire-clif-bar-for-2-9-billion-11655760068?mod=hp_lead_pos5"
+      "text": "a specific segment",
+      "url": "https://qz.com/2180377/snacks-are-shaping-kelloggs-new-corporate-structure/"
     },
     {
-      "text": "strengthened",
-      "url": "https://www.marketwatch.com/story/jetblue-boosts-offer-to-buy-spirit-airlines-11655787352?mod=home-page"
+      "text": "$44 billion sale",
+      "url": "https://abcnews.go.com/Technology/wireStory/elon-musks-44-billion-twitter-deal-board-endorsement-85526749"
     },
     {
-      "text": "are investigating",
-      "url": "https://www.ft.com/content/19c27ae1-ae72-4668-b3a9-162adc27dffc"
+      "text": "$3.6 billion SPAC deal",
+      "url": "https://www.reuters.com/markets/deals/exclusive-blockchain-payment-company-roxe-nears-365-bln-spac-deal-sources-2022-06-21/"
     },
     {
-      "text": "killed Berta C\u00e1ceres",
-      "url": "https://www.bbc.co.uk/news/world-latin-america-61875394"
+      "text": "the controversial firm",
+      "url": "https://gizmodo.com/ceo-and-coo-of-pornhub-mindgeek-resign-non-consensual-v-1849089916"
     },
     {
-      "text": "will be barred",
-      "url": "https://www.theguardian.com/environment/2022/jun/20/canada-ban-single-use-plastics?ref=upstract.com&curator=upstract.com"
+      "text": "cut nicotine levels",
+      "url": "https://www.nytimes.com/2022/06/21/health/fda-nicotine-cigarettes.html"
+    },
+    {
+      "text": "tell \u201cempowering stories\u201d",
+      "url": "https://www.theroot.com/naomi-osaka-launches-new-media-company-in-partnership-w-1849090147"
+    },
+    {
+      "text": "left Spotify for Audible",
+      "url": "https://variety.com/2022/digital/news/obamas-audible-deal-spotify-1235299775/"
     },
     {
       "text": "Quartz Privacy Policy",
@@ -824,7 +958,7 @@
     },
     {
       "text": "Read full briefing",
-      "url": "/essentials/2180135/june-21-2022-briefing/"
+      "url": "/essentials/2180444/june-22-2022-briefing/"
     },
     {
       "text": "All",
@@ -843,32 +977,32 @@
       "url": "/africa/latest/"
     },
     {
-      "text": ".ArtDirection__53999 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__53999 { padding-bottom: 56.66666666666667%; } }Are Russian diamonds now conflict diamonds? Depends on who you askQuartz \u2022 16 minutes ago",
-      "url": "/2180213/are-russian-diamonds-now-conflict-diamonds/"
+      "text": ".ArtDirection__65563 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__65563 { padding-bottom: 56.66666666666667%; } }Amazon unveiled an autonomous robot that won\u2019t quit like its human workforceQuartz \u2022 57 minutes ago",
+      "url": "/2180918/amazon-has-a-new-robot-proteus-that-wont-quit-like-its-workers/"
     },
     {
-      "text": ".ArtDirection__55115 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__55115 { padding-bottom: 56.66666666666667%; } }Construction industry is fueling deforestation in the PhilippinesQuartz \u2022 2 hours ago",
-      "url": "/2168300/construction-industry-is-fueling-deforestation-in-the-philippines/"
+      "text": ".ArtDirection__59807 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__59807 { padding-bottom: 56.66666666666667%; } }Publishers discriminate against women and Black authors\u2014but readers don\u2019tQuartz \u2022 2 hours ago",
+      "url": "/2180458/do-readers-discriminate-against-books-by-women-and-black-authors/"
     },
     {
-      "text": ".ArtDirection__69047 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__69047 { padding-bottom: 56.66666666666667%; } }Bitcoin\u2019s crash is good for the climateQuartz \u2022 6 hours ago",
-      "url": "/2179947/the-bitcoin-price-crash-is-good-for-the-climate/"
+      "text": ".ArtDirection__68151 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__68151 { padding-bottom: 56.66666666666667%; } }Here\u2019s how much Biden\u2019s gas tax holiday could save driversQuartz \u2022 4 hours ago",
+      "url": "/2180837/heres-how-much-bidens-gas-tax-holiday-could-save-drivers/"
     },
     {
-      "text": ".ArtDirection__71843 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__71843 { padding-bottom: 56.66666666666667%; } }By flying asylum seekers to Rwanda, the UK is outsourcing yet another problem it helped createQuartz \u2022 6 hours ago",
-      "url": "/2179173/flying-asylum-seekers-to-rwanda-is-the-uk-is-outsourcing-a-problem-it-created/"
+      "text": ".ArtDirection__71239 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__71239 { padding-bottom: 56.66666666666667%; } }A muted Chinese shopping festival signals bleak times ahead for retailersQuartz \u2022 6 hours ago",
+      "url": "/2180183/a-muted-chinese-shopping-festival-signals-grim-times-for-retail/"
     },
     {
-      "text": ".ArtDirection__69555 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__69555 { padding-bottom: 56.66666666666667%; } }Nobody wants to pay for ultra-fast food deliveryQuartz \u2022 June 20, 2022",
-      "url": "/2179069/nobody-wants-to-pay-for-food-delivery/"
+      "text": ".ArtDirection__66679 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__66679 { padding-bottom: 56.66666666666667%; } }As the US debates China tariffs, Chinese economists can say \u201ctold you so\u201dQuartz \u2022 June 22, 2022",
+      "url": "/2178540/will-lifting-us-tariffs-on-chinese-goods-help-fight-inflation/"
     },
     {
-      "text": ".ArtDirection__68155 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__68155 { padding-bottom: 56.66666666666667%; } }Oracle finally won TikTok\u2019s US data storage businessQuartz \u2022 June 19, 2022",
-      "url": "/2179741/oracle-finally-won-tiktoks-us-data-storage-business/"
+      "text": ".ArtDirection__70079 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__70079 { padding-bottom: 56.66666666666667%; } }Kellogg\u2019s new corporate structure is shaped by the growing dominance of snacksQuartz \u2022 June 21, 2022",
+      "url": "/2180377/snacks-are-shaping-kelloggs-new-corporate-structure/"
     },
     {
-      "text": ".ArtDirection__69287 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__69287 { padding-bottom: 56.66666666666667%; } }What Colombia\u2019s presidential election means for its economyQuartz \u2022 June 19, 2022",
-      "url": "/2179734/what-colombias-election-means-for-its-economy/"
+      "text": ".ArtDirection__70427 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__70427 { padding-bottom: 56.66666666666667%; } }Is FTX the Federal Reserve of crypto?Quartz \u2022 June 21, 2022",
+      "url": "/2180293/is-ftx-the-federal-reserve-of-crypto/"
     },
     {
       "text": "More latest stories",
@@ -879,28 +1013,28 @@
       "url": "/india/2179080/shopifys-indian-rival-dukaan-is-going-global/"
     },
     {
+      "text": ".ArtDirection__39064 { padding-bottom: 100%; }Even Beyonc\u00e9 is burned outQuartz \u2022 June 21, 2022",
+      "url": "/2180290/beyonces-break-my-soul-lyrics-are-about-work-burnout/"
+    },
+    {
+      "text": ".ArtDirection__49618 { padding-bottom: 100%; }As the US debates China tariffs, Chinese economists can say \u201ctold you so\u201dQuartz \u2022 June 22, 2022",
+      "url": "/2178540/will-lifting-us-tariffs-on-chinese-goods-help-fight-inflation/"
+    },
+    {
       "text": ".ArtDirection__51775 { padding-bottom: 100%; }Nobody wants to pay for ultra-fast food deliveryQuartz \u2022 June 20, 2022",
       "url": "/2179069/nobody-wants-to-pay-for-food-delivery/"
     },
     {
-      "text": ".ArtDirection__49906 { padding-bottom: 100%; }India\u2019s developer community has a massive talent retention problem brewingQuartz India \u2022 June 14, 2022",
-      "url": "/india/2177222/why-indian-developers-keep-quitting-their-jobs/"
-    },
-    {
-      "text": ".ArtDirection__51523 { padding-bottom: 100%; }India\u2019s central bank has highlighted financial stress in many statesQuartz India \u2022 June 21, 2022",
-      "url": "/india/2180153/rbi-report-finds-punjab-rajasthan-bihar-in-poor-fiscal-health/"
-    },
-    {
-      "text": ".ArtDirection__40840 { padding-bottom: 100%; }A new generation of weight loss drugs makes bold promises, but who really wins?Quartz \u2022 June 19, 2022",
-      "url": "/2177688/a-new-generation-of-weight-loss-drugs-makes-bold-promises-but-who-really-wins/"
+      "text": ".ArtDirection__37270 { padding-bottom: 100%; }How one programmer broke the internet by deleting a tiny piece of codeQuartz \u2022 March 27, 2016",
+      "url": "/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/"
     },
     {
       "text": "More popular Quartz storiesMore popular Quartz stories",
       "url": "/popular/"
     },
     {
-      "text": "Vaccines for everyoneHow could the whole world get vaccines more quickly during the next pandemic?",
-      "url": "/se/vaccine-equity/"
+      "text": "The sustainable businessHow can sustainability and profitability work hand-in-hand to transform businesses?",
+      "url": "/se/the-sustainable-business"
     },
     {
       "text": "More featured projectsMore featured projects",
@@ -1156,7 +1290,7 @@
     }
   ],
   "server": "ia801405.us.archive.org",
-  "uniq": 1636010812,
+  "uniq": 2033407997,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

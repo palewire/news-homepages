@@ -1,5 +1,5 @@
 {
-  "created": 1655857305,
+  "created": 1655943397,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/foxla-2022",
@@ -6960,31 +6960,157 @@
       "sha1": "197c59bde00bb3fd9899ab90512887f1ae7d2778"
     },
     {
+      "name": "foxla-2022-06-21T18:22:53.268608-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655860977",
+      "size": "44784",
+      "md5": "a12b257dc1f1e80c8df1131ff517a644",
+      "crc32": "71333c7e",
+      "sha1": "5ded64f32eaa35e0a47350a91dec3e6bbe71a606",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-21T18:22:53.268608-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655860979",
+      "size": "39429",
+      "md5": "e9c50c9da6a1b99e5c43e3479443f306",
+      "crc32": "5374d5d7",
+      "sha1": "d01241847b26ae221be4f6c90b1c422baa86a18d",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-21T18:22:53.268608-07:00.jpg",
+      "source": "original",
+      "mtime": "1655860975",
+      "size": "301503",
+      "md5": "26725cb3d9b2adba1c3c34e46b92d568",
+      "crc32": "4a64dde3",
+      "sha1": "1884c8c34902830e84fb214c4a22dd8aca20e9d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-21T18:22:53.268608-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-21T18:22:53.268608-07:00.jpg",
+      "mtime": "1655861347",
+      "size": "10685",
+      "md5": "19fac82b92e418b8d9f5b1a46846a0e9",
+      "crc32": "c09051b9",
+      "sha1": "ab205a4ccd7c89655f87c1f856e2b0511456e2c5"
+    },
+    {
+      "name": "foxla-2022-06-22T02:14:54.967831-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889299",
+      "size": "45289",
+      "md5": "d3b6e0daf80a4e8aeeac2e90cf5ef615",
+      "crc32": "0ef86cab",
+      "sha1": "f03acbf4290fe83d7cde0589b846d2bc3f8e6260",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-22T02:14:54.967831-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889301",
+      "size": "39552",
+      "md5": "6bbc509b9b03e31c1589fc147cad5d4e",
+      "crc32": "27b2586f",
+      "sha1": "a8f1d71231e512f7785b4afdccca89b62ff6d568",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-22T02:14:54.967831-07:00.jpg",
+      "source": "original",
+      "mtime": "1655889298",
+      "size": "307694",
+      "md5": "24921f34ca4f916003a4a3000687b724",
+      "crc32": "b622e185",
+      "sha1": "3352994cf669d2d04000c50d727a107b3d157b73",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-22T02:14:54.967831-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-22T02:14:54.967831-07:00.jpg",
+      "mtime": "1655889362",
+      "size": "10585",
+      "md5": "42990d172a42c2f2767888eb71ed055f",
+      "crc32": "03a426ee",
+      "sha1": "aeb4959045d35cfd51e9ae070b457bdd0e4d97b2"
+    },
+    {
+      "name": "foxla-2022-06-22T10:23:10.854667-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655918597",
+      "size": "44621",
+      "md5": "cfbffcaa5789f0a1f855e26bd7146847",
+      "crc32": "21c42492",
+      "sha1": "7e6f5abf3b1f7f6374c7dff4071657dc83e800a9",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-22T10:23:10.854667-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655918599",
+      "size": "39230",
+      "md5": "66cc04a4f4a6b2e695ace9033d98c30b",
+      "crc32": "ef87f829",
+      "sha1": "429040236e29932bbec7b1027593b4172793764a",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-22T10:23:10.854667-07:00.jpg",
+      "source": "original",
+      "mtime": "1655918595",
+      "size": "303244",
+      "md5": "a09d14fba8ed77df7cd30cba4ce314ec",
+      "crc32": "1f4fd30d",
+      "sha1": "89bf552ed6ee996a3b55b43b10ae5f7ce31a81f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-22T10:23:10.854667-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-22T10:23:10.854667-07:00.jpg",
+      "mtime": "1655918693",
+      "size": "10395",
+      "md5": "6641e72ccffa09e15a2496bc1376db0e",
+      "crc32": "96182a55",
+      "sha1": "f920289ae641c8f11cbd54c507526f11d13f756b"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "046cda435d7be623971aac503d5e5b8772c4496f",
-      "mtime": "1655831722",
-      "size": "139152",
-      "md5": "371015e1ff1028d832e04a67fe8b5c2a",
-      "crc32": "e020f3f2",
-      "sha1": "1e5942e61711c2e53f8ccaade417102c442e18f2",
+      "btih": "89a612945cf93609d79d5796a695ee0723fa93c4",
+      "mtime": "1655918717",
+      "size": "141646",
+      "md5": "edac5accf12ca51668a67f8ce6b400f3",
+      "crc32": "812d8d23",
+      "sha1": "c611db81b12b8ea431d2147816fd48d41ee76472",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a716560ff61ded3f43c0109240049231",
+      "md5": "9cd9aed75ca9615bc290b4f4afa67999",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655831612",
-      "size": "757760",
-      "md5": "87dbb396fbad8bce50ac9050f8454521",
-      "crc32": "9d6c2894",
-      "sha1": "f68b9447de923baa2522199e068b781bd0410dcf",
+      "mtime": "1655918602",
+      "size": "770048",
+      "md5": "00ddc2a936fbfb65f971121e36e44ae4",
+      "crc32": "ec1e2066",
+      "sha1": "62e5f7ab72a7b98f1edfa07083675576cda63296",
       "format": "Metadata"
     },
     {
@@ -6998,7 +7124,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 665,
+  "files_count": 677,
   "foxla-2022": [
     {
       "text": " ",
@@ -7438,19 +7564,99 @@
     },
     {
       "text": "   ",
-      "url": "/news/covid-vaccine-doses-for-kids-come-to-la-county"
+      "url": "/news/thunderstorms-bring-lightning-to-parts-of-southern-california"
     },
     {
-      "text": "COVID vaccine doses for kids 5 and under arrive LA County",
-      "url": "/news/covid-vaccine-doses-for-kids-come-to-la-county"
+      "text": "Summer storm: Thunderstorms bring lightning to parts of Southern California",
+      "url": "/news/thunderstorms-bring-lightning-to-parts-of-southern-california"
     },
     {
       "text": "  ",
-      "url": "/news/californias-gas-tax-goes-up-july-1"
+      "url": "/news/biden-to-urge-congress-to-suspend-federal-gas-and-diesel-taxes-for-3-months"
     },
     {
-      "text": "California's gas tax goes up July 1: What you need to know",
-      "url": "/news/californias-gas-tax-goes-up-july-1"
+      "text": "Biden to urge Congress to suspend federal gas and diesel taxes for 3 months",
+      "url": "/news/biden-to-urge-congress-to-suspend-federal-gas-and-diesel-taxes-for-3-months"
+    },
+    {
+      "text": "  ",
+      "url": "/news/george-gascon-to-discuss-el-monte-shooting-that-killed-2-police-officers"
+    },
+    {
+      "text": "Gasc\u00f3n says El Monte suspect had 'no history of violence' before allegedly killing 2 cops",
+      "url": "/news/george-gascon-to-discuss-el-monte-shooting-that-killed-2-police-officers"
+    },
+    {
+      "text": "  ",
+      "url": "/news/officials-announce-beach-closures-amid-summer-storm"
+    },
+    {
+      "text": "Officials announce OC beach closures amid summer storm",
+      "url": "/news/officials-announce-beach-closures-amid-summer-storm"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-county-sheriff-alex-villanueva-tests-positive-for-covid-19"
+    },
+    {
+      "text": "LA County Sheriff Alex Villanueva tests positive for COVID-19",
+      "url": "/news/la-county-sheriff-alex-villanueva-tests-positive-for-covid-19"
+    },
+    {
+      "text": "  ",
+      "url": "/news/coyote-attacks-dog-huntington-beach"
+    },
+    {
+      "text": "VIDEO: Coyote attacks dog in Huntington Beach, family wants city to solve coyote problem",
+      "url": "/news/coyote-attacks-dog-huntington-beach"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-county-reports-12000-more-covid-cases-over-3-day-period"
+    },
+    {
+      "text": "LA County reports 12,000 more COVID cases over 3-day period",
+      "url": "/news/la-county-reports-12000-more-covid-cases-over-3-day-period"
+    },
+    {
+      "text": "  ",
+      "url": "/news/fontana-police-chase-ends-in-redlands"
+    },
+    {
+      "text": "Fontana police chase: 1 suspect dies, 1 suspect arrested after pursuit ends in Redlands",
+      "url": "/news/fontana-police-chase-ends-in-redlands"
+    },
+    {
+      "text": "  ",
+      "url": "/news/the-most-important-thing-ever-made-about-it-him-elvis-family-reacts-to-upcoming-biopic"
+    },
+    {
+      "text": "'The most important thing ever made about it him': Elvis' family reacts to upcoming biopic",
+      "url": "/news/the-most-important-thing-ever-made-about-it-him-elvis-family-reacts-to-upcoming-biopic"
+    },
+    {
+      "text": "  ",
+      "url": "/news/january-6-panel-hearing-june-21-georgia-brad-raffensperger-trump"
+    },
+    {
+      "text": "January 6 hearing: Local 'heroes' rebuffed Trump, then faced threats",
+      "url": "/news/january-6-panel-hearing-june-21-georgia-brad-raffensperger-trump"
+    },
+    {
+      "text": "  ",
+      "url": "/news/jurors-bill-cosby-civil-trial-reach-verdict"
+    },
+    {
+      "text": "Bill Cosby found liable in 1975 sexual assault of teen at Playboy Mansion",
+      "url": "/news/jurors-bill-cosby-civil-trial-reach-verdict"
+    },
+    {
+      "text": "  ",
+      "url": "/news/man-woman-found-fatally-shot-at-oxnard-train-station-identified"
+    },
+    {
+      "text": "Man, woman found fatally shot at Oxnard train station identified",
+      "url": "/news/man-woman-found-fatally-shot-at-oxnard-train-station-identified"
     },
     {
       "text": "  ",
@@ -7461,136 +7667,56 @@
       "url": "/news/summer-solstice-2022-what-time-significance-how-to-celebrate"
     },
     {
-      "text": "  ",
-      "url": "/news/deadly-motorcycle-crash-in-riverside"
-    },
-    {
-      "text": "Authorities investigating deadly motorcycle crash in Riverside",
-      "url": "/news/deadly-motorcycle-crash-in-riverside"
-    },
-    {
-      "text": "  ",
-      "url": "/news/coyote-fire-active-wildfire-burns-hollywood-hills-area"
-    },
-    {
-      "text": "Coyote Fire: Wildfire contained after burning part of Hollywood Hills",
-      "url": "/news/coyote-fire-active-wildfire-burns-hollywood-hills-area"
-    },
-    {
-      "text": "  ",
-      "url": "/news/january-6-panel-hearing-june-21-georgia-brad-raffensperger-trump"
-    },
-    {
-      "text": "4th January 6 hearing: Georgia's Raffensperger, others Trump pushed set to testify",
-      "url": "/news/january-6-panel-hearing-june-21-georgia-brad-raffensperger-trump"
-    },
-    {
-      "text": "  ",
-      "url": "/news/trial-for-2-former-officers-charged-in-george-floyds-murder-rescheduled-again"
-    },
-    {
-      "text": "Trial for 2 former officers charged in George Floyd's murder rescheduled again",
-      "url": "/news/trial-for-2-former-officers-charged-in-george-floyds-murder-rescheduled-again"
-    },
-    {
-      "text": "  ",
-      "url": "/news/michigan-based-kellogg-moving-hq-to-chicago-will-split-into-3-companies"
-    },
-    {
-      "text": "Michigan-based Kellogg moving HQ to Chicago; will split into 3 companies",
-      "url": "/news/michigan-based-kellogg-moving-hq-to-chicago-will-split-into-3-companies"
-    },
-    {
-      "text": "  ",
-      "url": "/news/mom-pleads-not-guilty-to-2021-murders-of-her-3-kids-in-reseda"
-    },
-    {
-      "text": "Mom pleads not guilty to 2021 murders of her 3 kids in Reseda",
-      "url": "/news/mom-pleads-not-guilty-to-2021-murders-of-her-3-kids-in-reseda"
-    },
-    {
-      "text": "  ",
-      "url": "/news/police-in-uvalde-had-rifles-earlier-than-known-report"
-    },
-    {
-      "text": "Report: Police in Uvalde had rifles earlier than known",
-      "url": "/news/police-in-uvalde-had-rifles-earlier-than-known-report"
-    },
-    {
-      "text": "  ",
-      "url": "/news/los-angeles-top-water-waste-complaints"
-    },
-    {
-      "text": "These neighborhoods are LA's top water waste offenders",
-      "url": "/news/los-angeles-top-water-waste-complaints"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-county-police-chase-ends-in-echo-park"
-    },
-    {
-      "text": "Police chase: Motorcyclist who led authorities on 2-county pursuit taken into custody",
-      "url": "/news/la-county-police-chase-ends-in-echo-park"
-    },
-    {
-      "text": "  ",
-      "url": "/news/juneteenth-where-to-celebrate-in-southern-california"
-    },
-    {
-      "text": "Juneteenth: Where to celebrate in Southern California",
-      "url": "/news/juneteenth-where-to-celebrate-in-southern-california"
-    },
-    {
       "text": "Florence-Graham",
       "url": "https://www.foxla.com/weather"
     },
     {
       "text": "  video",
-      "url": "/video/1083969"
+      "url": "/video/1084470"
     },
     {
-      "text": "Stretching Your Dollar: Side Gigs",
-      "url": "/video/1083969"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1083953"
-    },
-    {
-      "text": "Fatal motorcycle crash investigation underway",
-      "url": "/video/1083953"
+      "text": "Stretch your dollar: Apps for rewards and cashback",
+      "url": "/video/1084470"
     },
     {
       "text": "  video",
-      "url": "/video/1083945"
+      "url": "/video/1084462"
     },
     {
-      "text": "Summer Solstice 2022: Longest day of year kicks off season",
-      "url": "/video/1083945"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1083943"
-    },
-    {
-      "text": "Riverside PD seizes $1.5M in fentanyl in two weeks",
-      "url": "/video/1083943"
+      "text": "Navy veteran says he was sucker punched in Koreatown",
+      "url": "/video/1084462"
     },
     {
       "text": "  video",
-      "url": "/video/1083926"
+      "url": "/video/1084436"
     },
     {
-      "text": "Coyote Fire contained in Hollywood Hills area",
-      "url": "/video/1083926"
+      "text": "Man sucker punched in Koreatown",
+      "url": "/video/1084436"
     },
     {
       "text": "  video",
-      "url": "/video/1083903"
+      "url": "/video/1084421"
     },
     {
-      "text": "Man murdered in front of 7-year-old son on Father's Day",
-      "url": "/video/1083903"
+      "text": "Funeral to be held for LAPD Officer Houston Tipping",
+      "url": "/video/1084421"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1084377"
+    },
+    {
+      "text": "Summer storm brings thunderstorms to SoCal",
+      "url": "/video/1084377"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1084367"
+    },
+    {
+      "text": "Thunderstorms, lightning strike SoCal",
+      "url": "/video/1084367"
     },
     {
       "text": "Privacy Policy",
@@ -7614,6 +7740,14 @@
     },
     {
       "text": "  video",
+      "url": "/video/1084036"
+    },
+    {
+      "text": "Tik Tok Tuesday with Amanda Salas and Melanie Flowers",
+      "url": "/video/1084036"
+    },
+    {
+      "text": "  video",
       "url": "/video/1083560"
     },
     {
@@ -7629,14 +7763,6 @@
       "url": "/video/1082818"
     },
     {
-      "text": "  video",
-      "url": "/video/1082814"
-    },
-    {
-      "text": "Critic Kids review 'Jurassic World: Dominion'",
-      "url": "/video/1082814"
-    },
-    {
       "text": "Coronavirus",
       "url": "/tag/health/coronavirus"
     },
@@ -7645,11 +7771,27 @@
       "url": "/tag/health/coronavirus"
     },
     {
+      "text": "   ",
+      "url": "/news/kids-covid-vaccines-slowly-roll-out-in-southern-california"
+    },
+    {
+      "text": "Kids' COVID vaccines slowly roll out in Southern California",
+      "url": "/news/kids-covid-vaccines-slowly-roll-out-in-southern-california"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-county-reports-12000-more-covid-cases-over-3-day-period"
+    },
+    {
+      "text": "LA County reports 12,000 more COVID cases over 3-day period",
+      "url": "/news/la-county-reports-12000-more-covid-cases-over-3-day-period"
+    },
+    {
       "text": "  ",
       "url": "/news/covid-vaccine-doses-for-kids-come-to-la-county"
     },
     {
-      "text": "COVID vaccine doses for kids 5 and under arrive LA County",
+      "text": "COVID vaccines available for kids 5 and under in LA County",
       "url": "/news/covid-vaccine-doses-for-kids-come-to-la-county"
     },
     {
@@ -7677,28 +7819,28 @@
       "url": "/news/covid-vaccine-kids-under-5"
     },
     {
-      "text": "  ",
-      "url": "/news/la-county-on-track-for-high-transmission-by-late-june-would-bringing-back-indoor-masking"
-    },
-    {
-      "text": "LA County on track for 'high transmission' by late June, would mean return of indoor masking",
-      "url": "/news/la-county-on-track-for-high-transmission-by-late-june-would-bringing-back-indoor-masking"
-    },
-    {
-      "text": "  ",
-      "url": "/news/covid-19-vaccines-kids-under-5-authorized-fda-cdc-review-next"
-    },
-    {
-      "text": "COVID-19 vaccine: FDA authorizes 1st shots for kids under 5; CDC review next",
-      "url": "/news/covid-19-vaccines-kids-under-5-authorized-fda-cdc-review-next"
-    },
-    {
       "text": "Politics",
       "url": "/tag/politics"
     },
     {
       "text": "View More",
       "url": "/tag/politics"
+    },
+    {
+      "text": "  ",
+      "url": "/news/abortion-providers-brace-roe-v-wade-ruling"
+    },
+    {
+      "text": "'Heightened alert': Abortion providers brace for Roe v. Wade ruling",
+      "url": "/news/abortion-providers-brace-roe-v-wade-ruling"
+    },
+    {
+      "text": "  ",
+      "url": "/news/senators-have-agreement-on-gun-violence-bill-lead-dem-says"
+    },
+    {
+      "text": "Senators have agreement on gun violence bill, lead Dem says",
+      "url": "/news/senators-have-agreement-on-gun-violence-bill-lead-dem-says"
     },
     {
       "text": "  ",
@@ -7733,28 +7875,36 @@
       "url": "/news/ama-fda-over-the-counter-birth-control"
     },
     {
-      "text": "  ",
-      "url": "/news/lawmakers-ask-google-to-stop-steering-women-to-fake-abortion-clinics"
-    },
-    {
-      "text": "Lawmakers ask Google to stop steering women to \u2018fake\u2019 abortion clinics",
-      "url": "/news/lawmakers-ask-google-to-stop-steering-women-to-fake-abortion-clinics"
-    },
-    {
-      "text": "  ",
-      "url": "/the-issue-is/the-issue-is-inflation-insurrection-icons"
-    },
-    {
-      "text": "The Issue Is: Inflation, insurrection and icons",
-      "url": "/the-issue-is/the-issue-is-inflation-insurrection-icons"
-    },
-    {
       "text": "California News",
       "url": "/tag/us/ca"
     },
     {
       "text": "View More",
       "url": "/tag/us/ca"
+    },
+    {
+      "text": "   ",
+      "url": "/news/gas-station-that-fired-manager-who-accidentally-sold-gas-for-69-cents-wont-take-gofundme-money-report"
+    },
+    {
+      "text": "Gas station that fired manager who sold gas for 69 cents declining GoFundMe money: report",
+      "url": "/news/gas-station-that-fired-manager-who-accidentally-sold-gas-for-69-cents-wont-take-gofundme-money-report"
+    },
+    {
+      "text": "  ",
+      "url": "/news/infamous-alcatraz-prison-escapees-shown-in-new-age-progressed-photos"
+    },
+    {
+      "text": "Infamous Alcatraz prison escapees shown in new age-progressed photos",
+      "url": "/news/infamous-alcatraz-prison-escapees-shown-in-new-age-progressed-photos"
+    },
+    {
+      "text": "  ",
+      "url": "/news/free-fishing-day-california-2022"
+    },
+    {
+      "text": "Free Fishing Day: Fish license-free in California on July 2",
+      "url": "/news/free-fishing-day-california-2022"
     },
     {
       "text": "  ",
@@ -7781,30 +7931,6 @@
       "url": "/news/florida-man-ruled-potential-charles-manson-heir"
     },
     {
-      "text": "  ",
-      "url": "/news/california-exodus-remote-workers-move-to-mexico-due-to-sky-high-gas-and-housing-costs"
-    },
-    {
-      "text": "California exodus: Remote workers move to Mexico due to sky-high gas and housing costs",
-      "url": "/news/california-exodus-remote-workers-move-to-mexico-due-to-sky-high-gas-and-housing-costs"
-    },
-    {
-      "text": "  ",
-      "url": "/the-issue-is/the-issue-is-inflation-insurrection-icons"
-    },
-    {
-      "text": "The Issue Is: Inflation, insurrection and icons",
-      "url": "/the-issue-is/the-issue-is-inflation-insurrection-icons"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-bill-would-reduce-single-use-plastic-products-25"
-    },
-    {
-      "text": "California bill would reduce single-use plastic products 25%",
-      "url": "/news/california-bill-would-reduce-single-use-plastic-products-25"
-    },
-    {
       "text": "Crime & Public Safety",
       "url": "/tag/crime-publicsafety"
     },
@@ -7814,51 +7940,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/texas-police-commander-uvalde-school-shooting"
+      "url": "/news/navy-veteran-sucker-punched-attack-koreatown"
     },
     {
-      "text": "Texas police commander: Officers could have stopped the gunman in Uvalde school shooting within three minutes",
-      "url": "/news/texas-police-commander-uvalde-school-shooting"
-    },
-    {
-      "text": "  ",
-      "url": "/news/trial-for-2-former-officers-charged-in-george-floyds-murder-rescheduled-again"
-    },
-    {
-      "text": "Trial for 2 former officers charged in George Floyd's murder rescheduled again",
-      "url": "/news/trial-for-2-former-officers-charged-in-george-floyds-murder-rescheduled-again"
+      "text": "Navy veteran sucker punched in unprovoked attack in Koreatown",
+      "url": "/news/navy-veteran-sucker-punched-attack-koreatown"
     },
     {
       "text": "  ",
-      "url": "/news/long-beach-fathers-day-murder"
+      "url": "/news/fontana-police-chase-ends-in-redlands"
     },
     {
-      "text": "Man murdered in front of his son on Father\u2019s Day in Long Beach",
-      "url": "/news/long-beach-fathers-day-murder"
-    },
-    {
-      "text": "  ",
-      "url": "/news/report-police-officers-in-uvalde-had-rifles-earlier-than-known"
-    },
-    {
-      "text": "Report: Police officers in Uvalde had rifles earlier than known",
-      "url": "/news/report-police-officers-in-uvalde-had-rifles-earlier-than-known"
+      "text": "Fontana police chase: 1 suspect dies, 1 suspect arrested after pursuit ends in Redlands",
+      "url": "/news/fontana-police-chase-ends-in-redlands"
     },
     {
       "text": "  ",
-      "url": "/news/seal-beach-police-release-details-of-2016-arson-killing"
+      "url": "/news/george-gascon-to-discuss-el-monte-shooting-that-killed-2-police-officers"
     },
     {
-      "text": "Seal Beach Police release details of 2016 arson killing",
-      "url": "/news/seal-beach-police-release-details-of-2016-arson-killing"
+      "text": "Gasc\u00f3n says El Monte suspect had 'no history of violence' before allegedly killing 2 cops",
+      "url": "/news/george-gascon-to-discuss-el-monte-shooting-that-killed-2-police-officers"
     },
     {
       "text": "  ",
-      "url": "/news/nipsey-hussle-murder-trial-driver-didnt-think-holder-was-planning-shooting"
+      "url": "/news/uvalde-timeline-texas-dps"
     },
     {
-      "text": "Nipsey Hussle murder trial: Driver didn't think Holder was planning shooting",
-      "url": "/news/nipsey-hussle-murder-trial-driver-didnt-think-holder-was-planning-shooting"
+      "text": "Uvalde timeline: DPS releases activity log, police chatter as they waited outside classroom of massacre",
+      "url": "/news/uvalde-timeline-texas-dps"
+    },
+    {
+      "text": "  ",
+      "url": "/news/grandma-her-husband-accused-of-murder-as-arizona-investigators-detail-shocking-abuse-case"
+    },
+    {
+      "text": "Prosecutors seek death penalty for grandma, her husband in connection to shocking child abuse case",
+      "url": "/news/grandma-her-husband-accused-of-murder-as-arizona-investigators-detail-shocking-abuse-case"
+    },
+    {
+      "text": "  ",
+      "url": "/news/lawsuit-filed-by-gabby-petitos-family-will-head-to-court-for-the-first-time"
+    },
+    {
+      "text": "Lawsuit filed by Gabby Petito's family against Laundrie's parents will head to court for the first time",
+      "url": "/news/lawsuit-filed-by-gabby-petitos-family-will-head-to-court-for-the-first-time"
     },
     {
       "text": "Consumer",
@@ -7867,6 +7993,34 @@
     {
       "text": "View More",
       "url": "/tag/consumer"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1084470"
+    },
+    {
+      "text": "",
+      "url": "/video/1084470"
+    },
+    {
+      "text": "Stretch your dollar: Apps for rewards and cashback",
+      "url": "/video/1084470"
+    },
+    {
+      "text": "  ",
+      "url": "/news/biden-to-urge-congress-to-suspend-federal-gas-and-diesel-taxes-for-3-months"
+    },
+    {
+      "text": "Biden to urge Congress to suspend federal gas and diesel taxes for 3 months",
+      "url": "/news/biden-to-urge-congress-to-suspend-federal-gas-and-diesel-taxes-for-3-months"
+    },
+    {
+      "text": "  ",
+      "url": "/news/stretch-dollar-money-side-gigs"
+    },
+    {
+      "text": "Stretch your dollar with these money-making side gigs",
+      "url": "/news/stretch-dollar-money-side-gigs"
     },
     {
       "text": "  video",
@@ -7897,30 +8051,6 @@
       "url": "/news/ford-cfo-flags-increase-in-car-loan-delinquencies"
     },
     {
-      "text": "  ",
-      "url": "/news/californias-gas-tax-goes-up-july-1"
-    },
-    {
-      "text": "California's gas tax goes up July 1: What you need to know",
-      "url": "/news/californias-gas-tax-goes-up-july-1"
-    },
-    {
-      "text": "  ",
-      "url": "/news/biden-to-consider-a-gasoline-tax-holiday"
-    },
-    {
-      "text": "Biden to consider a gasoline tax holiday",
-      "url": "/news/biden-to-consider-a-gasoline-tax-holiday"
-    },
-    {
-      "text": "  ",
-      "url": "/news/gas-prices-in-la-orange-counties-continue-to-drop-slightly"
-    },
-    {
-      "text": "Gas prices in LA, Orange counties continue to drop slightly",
-      "url": "/news/gas-prices-in-la-orange-counties-continue-to-drop-slightly"
-    },
-    {
       "text": "Sports",
       "url": "/tag/sports"
     },
@@ -7929,12 +8059,44 @@
       "url": "/tag/sports"
     },
     {
-      "text": "   ",
+      "text": "  ",
+      "url": "/news/baltimore-ravens-linebacker-jaylon-ferguson-dead-at-26"
+    },
+    {
+      "text": "Baltimore Ravens linebacker Jaylon Ferguson dead at 26",
+      "url": "/news/baltimore-ravens-linebacker-jaylon-ferguson-dead-at-26"
+    },
+    {
+      "text": "  ",
+      "url": "/news/wednesdays-child-lluvia-is-a-smart-athletic-teen-hoping-to-join-a-forever-home-team"
+    },
+    {
+      "text": "Wednesday's Child: Lluvia is a smart, athletic teen hoping to join a forever home team",
+      "url": "/news/wednesdays-child-lluvia-is-a-smart-athletic-teen-hoping-to-join-a-forever-home-team"
+    },
+    {
+      "text": "  ",
       "url": "/news/brittney-griners-wife-says-scheduled-phone-call-with-russian-approval-never-happened"
     },
     {
-      "text": "Brittney Griner's wife says scheduled phone call with Russian approval never happened",
+      "text": "Phone call between Brittney Griner and wife rescheduled after 'unfortunate mistake'",
       "url": "/news/brittney-griners-wife-says-scheduled-phone-call-with-russian-approval-never-happened"
+    },
+    {
+      "text": "  ",
+      "url": "/news/deshaun-watson-lawsuits-settlement"
+    },
+    {
+      "text": "20 lawsuits against Deshaun Watson have been settled, accusers' attorney says",
+      "url": "/news/deshaun-watson-lawsuits-settlement"
+    },
+    {
+      "text": "  ",
+      "url": "/news/caleb-swanigan-former-purdue-standout-and-first-round-nba-draft-pick-dies-at-25"
+    },
+    {
+      "text": "Caleb Swanigan, former Purdue standout and first-round NBA draft pick, dies at 25",
+      "url": "/news/caleb-swanigan-former-purdue-standout-and-first-round-nba-draft-pick-dies-at-25"
     },
     {
       "text": "  ",
@@ -7943,38 +8105,6 @@
     {
       "text": "Gold blooded! Warriors celebrate NBA Finals win with San Francisco parade",
       "url": "/news/gold-blooded-warriors-celebrate-nba-finals-win-with-san-francisco-parade"
-    },
-    {
-      "text": "  ",
-      "url": "/news/everything-you-need-to-know-about-warriors-parade"
-    },
-    {
-      "text": "Everything you need to know about the Warriors NBA championship parade",
-      "url": "/news/everything-you-need-to-know-about-warriors-parade"
-    },
-    {
-      "text": "  ",
-      "url": "/news/world-swimming-bans-transgender-athletes-from-womens-events"
-    },
-    {
-      "text": "World swimming bans transgender athletes from women's events",
-      "url": "/news/world-swimming-bans-transgender-athletes-from-womens-events"
-    },
-    {
-      "text": "  ",
-      "url": "/news/longtime-wwe-referee-dave-hebner-dead-at-73"
-    },
-    {
-      "text": "Longtime WWE referee Dave Hebner dead at 73",
-      "url": "/news/longtime-wwe-referee-dave-hebner-dead-at-73"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/sandy-koufax-dodger-stadium-statue"
-    },
-    {
-      "text": "Sandy Koufax statue unveiled at Dodger Stadium",
-      "url": "/sports/sandy-koufax-dodger-stadium-statue"
     },
     {
       "text": "Unusual",
@@ -8042,51 +8172,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/deadly-motorcycle-crash-in-riverside"
+      "url": "/news/officials-announce-beach-closures-amid-summer-storm"
     },
     {
-      "text": "Authorities investigating deadly motorcycle crash in Riverside",
-      "url": "/news/deadly-motorcycle-crash-in-riverside"
-    },
-    {
-      "text": "  ",
-      "url": "/news/holly-robinson-peete-hollywood-walk-of-fame-star"
-    },
-    {
-      "text": "Holly Robinson Peete to be honored with Hollywood Walk of Fame star",
-      "url": "/news/holly-robinson-peete-hollywood-walk-of-fame-star"
+      "text": "Officials announce OC beach closures amid summer storm",
+      "url": "/news/officials-announce-beach-closures-amid-summer-storm"
     },
     {
       "text": "  ",
-      "url": "/news/la-county-reports-largest-gas-price-decline-since-april"
+      "url": "/news/navy-veteran-sucker-punched-attack-koreatown"
     },
     {
-      "text": "LA County reports largest gas price decline since April",
-      "url": "/news/la-county-reports-largest-gas-price-decline-since-april"
-    },
-    {
-      "text": "  ",
-      "url": "/news/crews-contain-brush-fire-near-hollywood-hills"
-    },
-    {
-      "text": "Crews contain brush fire near Hollywood Hills",
-      "url": "/news/crews-contain-brush-fire-near-hollywood-hills"
+      "text": "Navy veteran sucker punched in unprovoked attack in Koreatown",
+      "url": "/news/navy-veteran-sucker-punched-attack-koreatown"
     },
     {
       "text": "  ",
-      "url": "/news/los-angeles-top-water-waste-complaints"
+      "url": "/news/fontana-police-chase-ends-in-redlands"
     },
     {
-      "text": "These neighborhoods are LA's top water waste offenders",
-      "url": "/news/los-angeles-top-water-waste-complaints"
+      "text": "Fontana police chase: 1 suspect dies, 1 suspect arrested after pursuit ends in Redlands",
+      "url": "/news/fontana-police-chase-ends-in-redlands"
     },
     {
       "text": "  ",
-      "url": "/news/long-beach-fathers-day-murder"
+      "url": "/news/lapd-officer-houston-ryan-tipping-funeral"
     },
     {
-      "text": "Man murdered in front of his son on Father\u2019s Day in Long Beach",
-      "url": "/news/long-beach-fathers-day-murder"
+      "text": "Funeral to be held Wednesday for LAPD Officer Houston Ryan Tipping",
+      "url": "/news/lapd-officer-houston-ryan-tipping-funeral"
+    },
+    {
+      "text": "  ",
+      "url": "/news/slain-el-monte-police-officer-promoted-to-sergeant"
+    },
+    {
+      "text": "Slain El Monte police officer posthumously promoted to sergeant",
+      "url": "/news/slain-el-monte-police-officer-promoted-to-sergeant"
+    },
+    {
+      "text": "  ",
+      "url": "/news/thunderstorms-bring-lightning-to-parts-of-southern-california"
+    },
+    {
+      "text": "Summer storm: Thunderstorms bring lightning to parts of Southern California",
+      "url": "/news/thunderstorms-bring-lightning-to-parts-of-southern-california"
     },
     {
       "text": "National News",
@@ -8097,52 +8227,52 @@
       "url": "/national-news"
     },
     {
-      "text": "   ",
-      "url": "/news/january-6-panel-hearing-june-21-georgia-brad-raffensperger-trump"
+      "text": "  ",
+      "url": "/news/sharks-swimming-closer-to-urban-areas-university-of-miami-study"
     },
     {
-      "text": "4th January 6 hearing: Georgia's Raffensperger, others Trump pushed set to testify",
-      "url": "/news/january-6-panel-hearing-june-21-georgia-brad-raffensperger-trump"
+      "text": "Sharks swimming closer to crowded beaches than previously thought, study says",
+      "url": "/news/sharks-swimming-closer-to-urban-areas-university-of-miami-study"
     },
     {
       "text": "  ",
-      "url": "/news/summer-solstice-2022-longest-day-of-year-kicks-off-season"
+      "url": "/news/abortion-providers-brace-roe-v-wade-ruling"
     },
     {
-      "text": "Summer Solstice 2022: Longest day of year kicks off season",
-      "url": "/news/summer-solstice-2022-longest-day-of-year-kicks-off-season"
-    },
-    {
-      "text": "  ",
-      "url": "/news/supreme-court-maine-private-school-funding-decision"
-    },
-    {
-      "text": "Supreme Court rules religious schools can get Maine tuition aid",
-      "url": "/news/supreme-court-maine-private-school-funding-decision"
+      "text": "'Heightened alert': Abortion providers brace for Roe v. Wade ruling",
+      "url": "/news/abortion-providers-brace-roe-v-wade-ruling"
     },
     {
       "text": "  ",
-      "url": "/news/texas-police-commander-uvalde-school-shooting"
+      "url": "/news/los-alamos-county-ranked-healthiest-community-america-3rd-time"
     },
     {
-      "text": "Texas police commander: Officers could have stopped the gunman in Uvalde school shooting within three minutes",
-      "url": "/news/texas-police-commander-uvalde-school-shooting"
-    },
-    {
-      "text": "  ",
-      "url": "/news/trial-for-2-former-officers-charged-in-george-floyds-murder-rescheduled-again"
-    },
-    {
-      "text": "Trial for 2 former officers charged in George Floyd's murder rescheduled again",
-      "url": "/news/trial-for-2-former-officers-charged-in-george-floyds-murder-rescheduled-again"
+      "text": "This town was ranked the healthiest community in America for the 3rd time",
+      "url": "/news/los-alamos-county-ranked-healthiest-community-america-3rd-time"
     },
     {
       "text": "  ",
-      "url": "/news/biden-federal-wildland-firefighters-pay-raise-wildfire-season"
+      "url": "/news/baltimore-ravens-linebacker-jaylon-ferguson-dead-at-26"
     },
     {
-      "text": "Biden signs off on hefty pay raise for federal firefighters through 2023",
-      "url": "/news/biden-federal-wildland-firefighters-pay-raise-wildfire-season"
+      "text": "Baltimore Ravens linebacker Jaylon Ferguson dead at 26",
+      "url": "/news/baltimore-ravens-linebacker-jaylon-ferguson-dead-at-26"
+    },
+    {
+      "text": "  ",
+      "url": "/news/biden-to-urge-congress-to-suspend-federal-gas-and-diesel-taxes-for-3-months"
+    },
+    {
+      "text": "Biden to urge Congress to suspend federal gas and diesel taxes for 3 months",
+      "url": "/news/biden-to-urge-congress-to-suspend-federal-gas-and-diesel-taxes-for-3-months"
+    },
+    {
+      "text": "  ",
+      "url": "/news/dozens-of-illegal-motorcycles-crushed"
+    },
+    {
+      "text": "Bulldozed: Dozens of illegal motorcycles crushed in Brooklyn",
+      "url": "/news/dozens-of-illegal-motorcycles-crushed"
     },
     {
       "text": "Money",
@@ -8153,52 +8283,52 @@
       "url": "/money"
     },
     {
+      "text": "   ",
+      "url": "/news/biden-to-urge-congress-to-suspend-federal-gas-and-diesel-taxes-for-3-months"
+    },
+    {
+      "text": "Biden to urge Congress to suspend federal gas and diesel taxes for 3 months",
+      "url": "/news/biden-to-urge-congress-to-suspend-federal-gas-and-diesel-taxes-for-3-months"
+    },
+    {
+      "text": "  ",
+      "url": "/money/student-loan-refinance-rates-june-21-2022"
+    },
+    {
+      "text": "Student loan refinance rates creep higher following latest Fed rate hike",
+      "url": "/money/student-loan-refinance-rates-june-21-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/money/todays-mortgage-refinance-rates-june-21-2022"
+    },
+    {
+      "text": "Refinancing? Look to 15-, 10-year rates for savings | June 21, 2022",
+      "url": "/money/todays-mortgage-refinance-rates-june-21-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/money/todays-mortgage-rates-june-21-2022"
+    },
+    {
+      "text": "Today\u2019s mortgage rates: Largely stable since Friday | June 21, 2022",
+      "url": "/money/todays-mortgage-rates-june-21-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/news/stretch-dollar-money-side-gigs"
+    },
+    {
+      "text": "Stretch your dollar with these money-making side gigs",
+      "url": "/news/stretch-dollar-money-side-gigs"
+    },
+    {
       "text": "  ",
       "url": "/news/dmitry-muratov-nobel-peace-prize-medal-auction-ukraine"
     },
     {
       "text": "Nobel Peace Prize medal sells at auction for $103.5 million",
       "url": "/news/dmitry-muratov-nobel-peace-prize-medal-auction-ukraine"
-    },
-    {
-      "text": "  ",
-      "url": "/news/american-airlines-ending-service-in-three-cities-due-to-pilot-shortage"
-    },
-    {
-      "text": "American Airlines ending service in three cities due to pilot shortage",
-      "url": "/news/american-airlines-ending-service-in-three-cities-due-to-pilot-shortage"
-    },
-    {
-      "text": "  ",
-      "url": "/news/ford-cfo-flags-increase-in-car-loan-delinquencies"
-    },
-    {
-      "text": "Ford CFO flags increase in car loan delinquencies",
-      "url": "/news/ford-cfo-flags-increase-in-car-loan-delinquencies"
-    },
-    {
-      "text": "  ",
-      "url": "/money/refinance-mortgage-no-closing-costs"
-    },
-    {
-      "text": "How to refinance your mortgage without closing costs",
-      "url": "/money/refinance-mortgage-no-closing-costs"
-    },
-    {
-      "text": "  ",
-      "url": "/news/global-gas-prices-soar-russia-ukraine-war-news-rebound-from-covid-19"
-    },
-    {
-      "text": "Gas prices soar around the world amid Russia-Ukraine war, rebound from COVID-19",
-      "url": "/news/global-gas-prices-soar-russia-ukraine-war-news-rebound-from-covid-19"
-    },
-    {
-      "text": "  ",
-      "url": "/news/us-treasury-secretary-janet-yellen-says-recession-is-not-inevitable"
-    },
-    {
-      "text": "US Treasury Secretary Janet Yellen says recession is not inevitable",
-      "url": "/news/us-treasury-secretary-janet-yellen-says-recession-is-not-inevitable"
     },
     {
       "text": "News",
@@ -8649,8 +8779,8 @@
       "url": "/contact-us"
     }
   ],
-  "item_last_updated": 1655831722,
-  "item_size": 71508793,
+  "item_last_updated": 1655918717,
+  "item_size": 72720586,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -8667,10 +8797,10 @@
     "publicdate": "2022-03-23 20:59:13",
     "addeddate": "2022-03-23 20:59:13"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 549483340,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1660672627,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1655857437,
+  "created": 1655919288,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -4572,31 +4572,157 @@
       "sha1": "856479f545d522a069e9f14b5cea2ae754e93d0e"
     },
     {
+      "name": "oaklandside-2022-06-21T18:24:56.145623-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861100",
+      "size": "31992",
+      "md5": "2297949f538299541d1903a5b43eac9f",
+      "crc32": "ecad471f",
+      "sha1": "16ddb53d30941945fc5176b6ae1e043798246885",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-21T18:24:56.145623-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861102",
+      "size": "28688",
+      "md5": "acc36787d7b720eb0eb59584f20fd7bb",
+      "crc32": "9ecca889",
+      "sha1": "683c397cbcd98af34b60ea1b572e1c675d4ab153",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-21T18:24:56.145623-07:00.jpg",
+      "source": "original",
+      "mtime": "1655861098",
+      "size": "415537",
+      "md5": "d597f9acd82cbe9d40ebb49c188c1356",
+      "crc32": "818059ae",
+      "sha1": "1f5660457e9312fb5eb3af9d1edc39a844c10053",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-06-21T18:24:56.145623-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-06-21T18:24:56.145623-07:00.jpg",
+      "mtime": "1655861463",
+      "size": "9717",
+      "md5": "8a82e9f7661d86a91fa49176f311f0f2",
+      "crc32": "c56f063e",
+      "sha1": "754851508a2a7d4227a21269a7a7cb56488f6f4b"
+    },
+    {
+      "name": "oaklandside-2022-06-22T02:17:30.924988-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889455",
+      "size": "31992",
+      "md5": "b2c70ddcced2194964e61da3d439f1d7",
+      "crc32": "e30d5972",
+      "sha1": "4027b684332011bdab6945b7c85372054042dd6c",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-22T02:17:30.924988-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889457",
+      "size": "28688",
+      "md5": "acc36787d7b720eb0eb59584f20fd7bb",
+      "crc32": "9ecca889",
+      "sha1": "683c397cbcd98af34b60ea1b572e1c675d4ab153",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-22T02:17:30.924988-07:00.jpg",
+      "source": "original",
+      "mtime": "1655889453",
+      "size": "415537",
+      "md5": "d597f9acd82cbe9d40ebb49c188c1356",
+      "crc32": "818059ae",
+      "sha1": "1f5660457e9312fb5eb3af9d1edc39a844c10053",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-06-22T02:17:30.924988-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-06-22T02:17:30.924988-07:00.jpg",
+      "mtime": "1655889518",
+      "size": "9717",
+      "md5": "8a82e9f7661d86a91fa49176f311f0f2",
+      "crc32": "c56f063e",
+      "sha1": "754851508a2a7d4227a21269a7a7cb56488f6f4b"
+    },
+    {
+      "name": "oaklandside-2022-06-22T10:31:23.570175-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919086",
+      "size": "32139",
+      "md5": "b1ec13a91e9f8f15cc5307e760b9b8e2",
+      "crc32": "08965be9",
+      "sha1": "ce5a799ca5a80793610b6e741527f894fd317938",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-22T10:31:23.570175-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919088",
+      "size": "28661",
+      "md5": "04f247365a86e5aa03b0f76e3ddec052",
+      "crc32": "7855c26b",
+      "sha1": "7950a2eefd139c02c3f05728f71aaa7a212a7e20",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-06-22T10:31:23.570175-07:00.jpg",
+      "source": "original",
+      "mtime": "1655919085",
+      "size": "386068",
+      "md5": "3b7cf73b95bbacb147a59303b0798955",
+      "crc32": "87769ff7",
+      "sha1": "52002e0365cf4bb83af91c09db6f109246c0890c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-06-22T10:31:23.570175-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-06-22T10:31:23.570175-07:00.jpg",
+      "mtime": "1655919242",
+      "size": "9696",
+      "md5": "d7687b0d3cb27c4daa80c97310de8648",
+      "crc32": "5626e8ac",
+      "sha1": "bd83003c0f9db3f9fd6bbe4daa08dab20016b92f"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dcfa423026a6d5113e11c4f5311c91854c223ed8",
-      "mtime": "1655831877",
-      "size": "94541",
-      "md5": "2e9aea4a62faad879430e0603c4e61de",
-      "crc32": "5a9ab5d2",
-      "sha1": "6e21b5465365d4a102dfda60c6ffe7dbee8b53f4",
+      "btih": "894a368bda4b28a4b322f3cd1307bcd5f3cebfc8",
+      "mtime": "1655919259",
+      "size": "97124",
+      "md5": "afc8ef536c868b6a29ef08765a2f5936",
+      "crc32": "d0a3f11a",
+      "sha1": "0620ecd24b4fd316945efcce5274a05a537ed7a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1ef66d396b881b2a2f02f8acfd7bb2a",
+      "md5": "ef85b27586435caa19750b47833437ac",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655831805",
-      "size": "512000",
-      "md5": "b19d5a88bcaf00c5171df2fce307c260",
-      "crc32": "92fb0791",
-      "sha1": "fb8770c263953c06a3ffd61fe045ae571f841a0b",
+      "mtime": "1655919092",
+      "size": "524288",
+      "md5": "8f08ae87ace9832b44e701104d11ce06",
+      "crc32": "ed0c0efd",
+      "sha1": "6336b318603190103f040ee80fa05e9ff0ec0643",
       "format": "Metadata"
     },
     {
@@ -4610,9 +4736,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 438,
-  "item_last_updated": 1655831877,
-  "item_size": 51202900,
+  "files_count": 450,
+  "item_last_updated": 1655919259,
+  "item_size": 52646203,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -4629,868 +4755,10 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "oaklandside-2022": [
-    {
-      "text": "Donate",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=oakland&campaign=7010b0000014AXMAA2"
-    },
-    {
-      "text": "Latest News",
-      "url": "https://oaklandside.org/news/"
-    },
-    {
-      "text": "Arts & Community",
-      "url": "https://oaklandside.org/category/arts-community/"
-    },
-    {
-      "text": "Business",
-      "url": "https://oaklandside.org/category/business/"
-    },
-    {
-      "text": "City Hall & Policing",
-      "url": "https://oaklandside.org/category/city-hall-policing/"
-    },
-    {
-      "text": "Events",
-      "url": "https://oaklandside.org/events/"
-    },
-    {
-      "text": "Health",
-      "url": "https://oaklandside.org/category/health-environment/"
-    },
-    {
-      "text": "Housing",
-      "url": "https://oaklandside.org/category/housing-homelessness/"
-    },
-    {
-      "text": "Nosh",
-      "url": "https://oaklandside.org/category/nosh/"
-    },
-    {
-      "text": "Road Safety",
-      "url": "/tag/oaklands-dangerous-roadways/"
-    },
-    {
-      "text": "Schools",
-      "url": "https://oaklandside.org/category/education-equity/"
-    },
-    {
-      "text": "Berkeleyside",
-      "url": "https://www.berkeleyside.org/"
-    },
-    {
-      "text": "Get our Newsletter",
-      "url": "https://oaklandside.org/get-our-newsletter/"
-    },
-    {
-      "text": "Shop",
-      "url": "https://store.citysidejournalism.org/"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/oaklandside"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/theoaklandside/"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://www.instagram.com/theoaklandside/"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#main"
-    },
-    {
-      "text": "Get our Newsletter",
-      "url": "https://oaklandside.org/get-our-newsletter/"
-    },
-    {
-      "text": "Shop",
-      "url": "https://store.citysidejournalism.org/"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/oaklandside"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/theoaklandside/"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://www.instagram.com/theoaklandside/"
-    },
-    {
-      "text": "",
-      "url": "https://oaklandside.org/"
-    },
-    {
-      "text": "The Oaklandside",
-      "url": "https://oaklandside.org/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=oakland&campaign=7010b0000014AXMAA2"
-    },
-    {
-      "text": "Donate",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=oakland&campaign=7010b0000014AXMAA2"
-    },
-    {
-      "text": "Latest News",
-      "url": "https://oaklandside.org/news/"
-    },
-    {
-      "text": "Arts & Community",
-      "url": "https://oaklandside.org/category/arts-community/"
-    },
-    {
-      "text": "Business",
-      "url": "https://oaklandside.org/category/business/"
-    },
-    {
-      "text": "City Hall & Policing",
-      "url": "https://oaklandside.org/category/city-hall-policing/"
-    },
-    {
-      "text": "Events",
-      "url": "https://oaklandside.org/events/"
-    },
-    {
-      "text": "Health",
-      "url": "https://oaklandside.org/category/health-environment/"
-    },
-    {
-      "text": "Housing",
-      "url": "https://oaklandside.org/category/housing-homelessness/"
-    },
-    {
-      "text": "Nosh",
-      "url": "https://oaklandside.org/category/nosh/"
-    },
-    {
-      "text": "Road Safety",
-      "url": "/tag/oaklands-dangerous-roadways/"
-    },
-    {
-      "text": "Schools",
-      "url": "https://oaklandside.org/category/education-equity/"
-    },
-    {
-      "text": "Berkeleyside",
-      "url": "https://www.berkeleyside.org/"
-    },
-    {
-      "text": "June 7 primary election results",
-      "url": "https://oaklandside.org/2022/06/07/oakland-and-alameda-county-primary-election-results-2022/"
-    },
-    {
-      "text": "Celebrate Juneteenth",
-      "url": "https://oaklandside.org/tag/juneteenth-2022/"
-    },
-    {
-      "text": "Looking for a free COVID test?",
-      "url": "https://oaklandside.org/2020/06/18/where-to-get-a-free-covid-19-test-in-oakland-and-what-to-expect/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/21/remembering-barbara-newcombe-who-saved-the-cleveland-cascade/"
-    },
-    {
-      "text": "Remembering Barbara Newcombe, who saved the Cleveland Cascade",
-      "url": "https://oaklandside.org/2022/06/21/remembering-barbara-newcombe-who-saved-the-cleveland-cascade/"
-    },
-    {
-      "text": "Ellen McAmis",
-      "url": "https://oaklandside.org/author/ellen-mcamis/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/21/youll-never-wait-in-line-at-this-new-oakland-coffee-shop/"
-    },
-    {
-      "text": "You\u2019ll never wait in line at this new Oakland coffee shop",
-      "url": "https://oaklandside.org/2022/06/21/youll-never-wait-in-line-at-this-new-oakland-coffee-shop/"
-    },
-    {
-      "text": "Eve Batey",
-      "url": "https://oaklandside.org/author/eve-batey/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/17/juneteenth-black-oakland-creatives-sound-off-on-its-significance/"
-    },
-    {
-      "text": "Juneteenth: Black Oakland creatives sound off on its significance",
-      "url": "https://oaklandside.org/2022/06/17/juneteenth-black-oakland-creatives-sound-off-on-its-significance/"
-    },
-    {
-      "text": "Ricky Rodas",
-      "url": "https://oaklandside.org/author/ricky-rodas/"
-    },
-    {
-      "text": "Mapping Queer Oakland: preserving and honoring LGBTQ+ history",
-      "url": "https://oaklandside.org/2022/06/17/mapping-queer-oakland-preserves-lgbtq-history/"
-    },
-    {
-      "text": "Azucena Rasilla",
-      "url": "https://oaklandside.org/author/azucena-rasilla/"
-    },
-    {
-      "text": "How can schools teach about gun violence? These Oakland teachers created an entire curriculum",
-      "url": "https://oaklandside.org/2022/06/17/gun-violence-curriculum-oakland-teachers-vision-quilt/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "City reduces speed limit around Oakland schools to 15 mph",
-      "url": "https://oaklandside.org/2022/06/16/city-reduces-speed-limit-around-oakland-schools-to-15-mph/"
-    },
-    {
-      "text": "Jose Fermoso",
-      "url": "https://oaklandside.org/author/jose-fermoso/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/culture-makers/"
-    },
-    {
-      "text": "Culture Makers",
-      "url": "https://oaklandside.org/culture-makers/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/07/oakland-and-alameda-county-primary-election-results-2022/"
-    },
-    {
-      "text": "Oakland and Alameda County 2022 primary election results",
-      "url": "https://oaklandside.org/2022/06/07/oakland-and-alameda-county-primary-election-results-2022/"
-    },
-    {
-      "text": "The Oaklandside",
-      "url": "https://oaklandside.org/author/oaklandside-editors/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/15/alameda-county-sheriff-race-results-pimary-election-2022/"
-    },
-    {
-      "text": "How Yesenia Sanchez toppled incumbent Alameda County Sheriff Greg Ahern",
-      "url": "https://oaklandside.org/2022/06/15/alameda-county-sheriff-race-results-pimary-election-2022/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/15/alysse-castro-wins-alameda-county-superintendent-race-against-incumbent-l-k-monroe/"
-    },
-    {
-      "text": "Alysse Castro wins Alameda County superintendent race against incumbent L.K. Monroe",
-      "url": "https://oaklandside.org/2022/06/15/alysse-castro-wins-alameda-county-superintendent-race-against-incumbent-l-k-monroe/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/07/alameda-county-supervisor-election-results-2022-district-3/"
-    },
-    {
-      "text": "Alameda County Supervisor election results: Rebecca Kaplan leads in D3 race",
-      "url": "https://oaklandside.org/2022/06/07/alameda-county-supervisor-election-results-2022-district-3/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/07/alameda-county-district-attorney-primary-election-results-2022/"
-    },
-    {
-      "text": "Alameda County District Attorney election results: Pamela Price leads",
-      "url": "https://oaklandside.org/2022/06/07/alameda-county-district-attorney-primary-election-results-2022/"
-    },
-    {
-      "text": "city hall & policing",
-      "url": "/category/city-hall-policing/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/16/oakland-to-close-lake-merritt-roads-for-juneteenth-fourth-of-july/"
-    },
-    {
-      "text": "Oakland to close Lake Merritt roads for Juneteenth, Fourth of July",
-      "url": "https://oaklandside.org/2022/06/16/oakland-to-close-lake-merritt-roads-for-juneteenth-fourth-of-july/"
-    },
-    {
-      "text": "Natalie Orenstein",
-      "url": "https://oaklandside.org/author/natalie-orenstein/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/15/emerald-new-deal-oakland-november-ballot-cannabis/"
-    },
-    {
-      "text": "Will the \u2018Emerald New Deal\u2019 make it onto Oakland\u2019s November ballot?",
-      "url": "https://oaklandside.org/2022/06/15/emerald-new-deal-oakland-november-ballot-cannabis/"
-    },
-    {
-      "text": "Ricky Rodas",
-      "url": "https://oaklandside.org/author/ricky-rodas/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/08/east-bay-voters-showed-an-appetite-for-criminal-justice-reform/"
-    },
-    {
-      "text": "East Bay voters showed an appetite for criminal justice reform",
-      "url": "https://oaklandside.org/2022/06/08/east-bay-voters-showed-an-appetite-for-criminal-justice-reform/"
-    },
-    {
-      "text": "Darwin BondGraham",
-      "url": "https://oaklandside.org/author/darwin-bondgraham/"
-    },
-    {
-      "text": "David DeBolt",
-      "url": "https://oaklandside.org/author/david-debolt/"
-    },
-    {
-      "text": "Health & Environment",
-      "url": "/category/health-environment/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/05/20/baby-formula-shortage-an-oakland-maternity-nurse-shares-tips-and-resources/"
-    },
-    {
-      "text": "Baby formula shortage: An Oakland maternity nurse shares tips and resources",
-      "url": "https://oaklandside.org/2022/05/20/baby-formula-shortage-an-oakland-maternity-nurse-shares-tips-and-resources/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "COVID-19 resources",
-      "url": "https://oaklandside.org/tag/covid-19-resources/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/05/19/yes-its-a-surge-wastewater-tests-reveal-high-level-of-covid-19-in-east-bay/"
-    },
-    {
-      "text": "Yes, it\u2019s a surge: Wastewater tests reveal high level of COVID-19 in East Bay",
-      "url": "https://oaklandside.org/2022/05/19/yes-its-a-surge-wastewater-tests-reveal-high-level-of-covid-19-in-east-bay/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/03/03/why-you-still-need-a-mask-according-to-an-oakland-doctor/"
-    },
-    {
-      "text": "Why you still need a mask, according to a doctor on the frontlines of health care in Oakland",
-      "url": "https://oaklandside.org/2022/03/03/why-you-still-need-a-mask-according-to-an-oakland-doctor/"
-    },
-    {
-      "text": "Oakland drops COVID-19 vaccine requirement at indoor establishments",
-      "url": "https://oaklandside.org/2022/05/18/oakland-drops-covid-19-vaccine-requirement-at-indoor-establishments/"
-    },
-    {
-      "text": "David DeBolt",
-      "url": "https://oaklandside.org/author/david-debolt/"
-    },
-    {
-      "text": "City Council will declare Oakland a pro-choice sanctuary city",
-      "url": "https://oaklandside.org/2022/05/17/oakland-abortion-prochoice-sanctuary-city-roe-v-wade/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "Oakland pools are reopening at full capacity for the summer",
-      "url": "https://oaklandside.org/2022/05/10/oakland-pools-are-reopening-at-full-capacity-for-the-summer/"
-    },
-    {
-      "text": "Nick Lozito",
-      "url": "https://oaklandside.org/author/nick-lozito/"
-    },
-    {
-      "text": "Oakland\u2019s population is shrinking, after a decade of growth",
-      "url": "https://oaklandside.org/2022/05/04/oaklands-population-is-shrinking-after-a-decade-of-growth/"
-    },
-    {
-      "text": "Natalie Orenstein",
-      "url": "https://oaklandside.org/author/natalie-orenstein/"
-    },
-    {
-      "text": "Education equity",
-      "url": "/category/education-equity/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/15/oakland-unified-school-board-district-six-appointment/"
-    },
-    {
-      "text": "The OUSD board has 2 weeks to appoint a D6 director. Meet the applicants",
-      "url": "https://oaklandside.org/2022/06/15/oakland-unified-school-board-district-six-appointment/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/09/ousd-board-faces-demands-from-parker-elementary-protesters/"
-    },
-    {
-      "text": "OUSD board faces demands from Parker elementary protesters",
-      "url": "https://oaklandside.org/2022/06/09/ousd-board-faces-demands-from-parker-elementary-protesters/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "Alameda County election results:  Alysse Castro takes lead over L.K. Monroe in superintendent\u2019s race",
-      "url": "https://oaklandside.org/2022/06/07/alameda-county-superintendent-of-schools-primary-election-results-2022/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "Fruitvale students tested their soil and found lead contamination. Now they\u2019re campaigning to fix it",
-      "url": "https://oaklandside.org/2022/06/03/fruitvale-students-lead-soil-contamination-poisoning/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "Photos: Inside the community school started by families protesting the closure of Parker elementary",
-      "url": "https://oaklandside.org/2022/06/02/photos-inside-the-community-school-started-by-families-protesting-the-closure-of-parker-elementary/"
-    },
-    {
-      "text": "Amir Aziz",
-      "url": "https://oaklandside.org/author/amir-aziz/"
-    },
-    {
-      "text": "Parker elementary families don\u2019t want their school to close. So they\u2019ve taken it over",
-      "url": "https://oaklandside.org/2022/06/01/parker-elementary-occupation-protest-oakland-school-closures/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "Arts & Community",
-      "url": "/category/arts-community/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/16/icons-among-us-awards-go-to-oakland-innovators/"
-    },
-    {
-      "text": "\u2018Icons Among Us\u2019 awards go to Oakland innovators",
-      "url": "https://oaklandside.org/2022/06/16/icons-among-us-awards-go-to-oakland-innovators/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/14/black-liberation-walking-tour-moms-4-housing-mayoral-candidates-forum-fairyland-book-festival-2022/"
-    },
-    {
-      "text": "This week in Oakland: Black Liberation Walking Tour and \u2018Free the People\u2019 block party in West Oakland",
-      "url": "https://oaklandside.org/2022/06/14/black-liberation-walking-tour-moms-4-housing-mayoral-candidates-forum-fairyland-book-festival-2022/"
-    },
-    {
-      "text": "Azucena Rasilla",
-      "url": "https://oaklandside.org/author/azucena-rasilla/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/14/a-counselor-and-a-clown-who-heals-with-humor/"
-    },
-    {
-      "text": "Meet Lance McGee/Unique Derique: a counselor and a clown who heals with humor",
-      "url": "https://oaklandside.org/2022/06/14/a-counselor-and-a-clown-who-heals-with-humor/"
-    },
-    {
-      "text": "C.J. Hirschfield",
-      "url": "https://oaklandside.org/author/c-j-hirschfield/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/13/oakland-spiders-ultimate-frisbee-team-2022/"
-    },
-    {
-      "text": "Into the Spider-verse: Oakland\u2019s Ultimate Frisbee team makes a leap in its second year",
-      "url": "https://oaklandside.org/2022/06/13/oakland-spiders-ultimate-frisbee-team-2022/"
-    },
-    {
-      "text": "Luke Wrin Piper",
-      "url": "https://oaklandside.org/author/luke-wrin-piper/"
-    },
-    {
-      "text": "Housing & Homelessness",
-      "url": "/category/housing-homelessness/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/08/oakland-will-create-its-first-ever-rental-housing-registry/"
-    },
-    {
-      "text": "Oakland will create its first-ever rental housing registry",
-      "url": "https://oaklandside.org/2022/06/08/oakland-will-create-its-first-ever-rental-housing-registry/"
-    },
-    {
-      "text": "Natalie Orenstein",
-      "url": "https://oaklandside.org/author/natalie-orenstein/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/01/oakland-rent-control-increases-3/"
-    },
-    {
-      "text": "Landlords can\u2019t raise rents above 3%, Oakland City Council says",
-      "url": "https://oaklandside.org/2022/06/01/oakland-rent-control-increases-3/"
-    },
-    {
-      "text": "Natalie Orenstein",
-      "url": "https://oaklandside.org/author/natalie-orenstein/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/05/26/lake-merritt-bart-senior-housing-displacement/"
-    },
-    {
-      "text": "Lake Merritt BART project: Senior housing coming to site of past displacement",
-      "url": "https://oaklandside.org/2022/05/26/lake-merritt-bart-senior-housing-displacement/"
-    },
-    {
-      "text": "Natalie Orenstein",
-      "url": "https://oaklandside.org/author/natalie-orenstein/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/05/25/rental-registry-oakland/"
-    },
-    {
-      "text": "Your apartment could go in a registry of Oakland\u2019s rental housing",
-      "url": "https://oaklandside.org/2022/05/25/rental-registry-oakland/"
-    },
-    {
-      "text": "Natalie Orenstein",
-      "url": "https://oaklandside.org/author/natalie-orenstein/"
-    },
-    {
-      "text": "Read more",
-      "url": "https://oaklandside.org/tag/oaklands-dangerous-roadways/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/13/oakland-street-safety-improvements-protest-shattuck-bicyclist-death/"
-    },
-    {
-      "text": "Oakland residents call for street safety improvements",
-      "url": "https://oaklandside.org/2022/06/13/oakland-street-safety-improvements-protest-shattuck-bicyclist-death/"
-    },
-    {
-      "text": "Jose Fermoso",
-      "url": "https://oaklandside.org/author/jose-fermoso/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/05/19/lake-merritt-parking-meters-council-postpones-decision-to-june-21/"
-    },
-    {
-      "text": "Lake Merritt parking meters: council postpones decision to June 21",
-      "url": "https://oaklandside.org/2022/05/19/lake-merritt-parking-meters-council-postpones-decision-to-june-21/"
-    },
-    {
-      "text": "Jose Fermoso",
-      "url": "https://oaklandside.org/author/jose-fermoso/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/05/05/navigating-oaklands-dangerous-routes-to-school/"
-    },
-    {
-      "text": "Navigating Oakland\u2019s dangerous routes to school",
-      "url": "https://oaklandside.org/2022/05/05/navigating-oaklands-dangerous-routes-to-school/"
-    },
-    {
-      "text": "Jose Fermoso",
-      "url": "https://oaklandside.org/author/jose-fermoso/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/08/east-bay-voters-showed-an-appetite-for-criminal-justice-reform/"
-    },
-    {
-      "text": "East Bay voters showed an appetite for criminal justice reform",
-      "url": "https://oaklandside.org/2022/06/08/east-bay-voters-showed-an-appetite-for-criminal-justice-reform/"
-    },
-    {
-      "text": "Darwin BondGraham",
-      "url": "https://oaklandside.org/author/darwin-bondgraham/"
-    },
-    {
-      "text": "David DeBolt",
-      "url": "https://oaklandside.org/author/david-debolt/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/03/fruitvale-students-lead-soil-contamination-poisoning/"
-    },
-    {
-      "text": "Fruitvale students tested their soil and found lead contamination. Now they\u2019re campaigning to fix it",
-      "url": "https://oaklandside.org/2022/06/03/fruitvale-students-lead-soil-contamination-poisoning/"
-    },
-    {
-      "text": "Ashley McBride",
-      "url": "https://oaklandside.org/author/ashley-mcbride/"
-    },
-    {
-      "text": "Watch it all here \u2794",
-      "url": "https://oaklandside.org/the-oaklandside-live-ish-2021/"
-    },
-    {
-      "text": "Business",
-      "url": "/category/business/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/14/crown-act-protects-ethnic-hairstyles/"
-    },
-    {
-      "text": "CROWN Act protects ethnic hairstyles",
-      "url": "https://oaklandside.org/2022/06/14/crown-act-protects-ethnic-hairstyles/"
-    },
-    {
-      "text": "",
-      "url": "https://giccb.com/"
-    },
-    {
-      "text": "Gwilliam Ivary Chiosso Cavalli & Brewer",
-      "url": "https://giccb.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/02/small-businesses-can-get-free-website-design-from-hack-the-hood/"
-    },
-    {
-      "text": "Small businesses can get free website design from Hack the Hood",
-      "url": "https://oaklandside.org/2022/06/02/small-businesses-can-get-free-website-design-from-hack-the-hood/"
-    },
-    {
-      "text": "Ricky Rodas",
-      "url": "https://oaklandside.org/author/ricky-rodas/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/05/25/what-jun-did-here-will-not-disappear-community-members-mourn-beloved-restaurant-owner-and-call-for-justice/"
-    },
-    {
-      "text": "\u2018What Jun did here will not disappear\u2019: Community members mourn slain restaurant owner, call for justice",
-      "url": "https://oaklandside.org/2022/05/25/what-jun-did-here-will-not-disappear-community-members-mourn-beloved-restaurant-owner-and-call-for-justice/"
-    },
-    {
-      "text": "Ricky Rodas",
-      "url": "https://oaklandside.org/author/ricky-rodas/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/05/23/sagrada-a-north-oakland-spiritual-shop-looks-to-the-future/"
-    },
-    {
-      "text": "Sagrada, a North Oakland spiritual shop, looks to the future",
-      "url": "https://oaklandside.org/2022/05/23/sagrada-a-north-oakland-spiritual-shop-looks-to-the-future/"
-    },
-    {
-      "text": "Ricky Rodas",
-      "url": "https://oaklandside.org/author/ricky-rodas/"
-    },
-    {
-      "text": "NOSH",
-      "url": "/category/nosh/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/14/juneteenth-berkeley-oakland-food-celebration-2022/"
-    },
-    {
-      "text": "How to celebrate Juneteenth in the East Bay",
-      "url": "https://oaklandside.org/2022/06/14/juneteenth-berkeley-oakland-food-celebration-2022/"
-    },
-    {
-      "text": "Eve Batey",
-      "url": "https://oaklandside.org/author/eve-batey/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/13/east-bay-nosh-daily-subscribe/"
-    },
-    {
-      "text": "If you only read East Bay Nosh online, you\u2019re just getting half the story",
-      "url": "https://oaklandside.org/2022/06/13/east-bay-nosh-daily-subscribe/"
-    },
-    {
-      "text": "Eve Batey",
-      "url": "https://oaklandside.org/author/eve-batey/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/09/nigella-seeds-berkeley-oakland/"
-    },
-    {
-      "text": "Where to find nigella seeds in the East Bay",
-      "url": "https://oaklandside.org/2022/06/09/nigella-seeds-berkeley-oakland/"
-    },
-    {
-      "text": "Shirley Huey",
-      "url": "https://oaklandside.org/author/shirley-huey/"
-    },
-    {
-      "text": "",
-      "url": "https://oaklandside.org/about/"
-    },
-    {
-      "text": "We\u2019re journalists for Oakland. We amplify community voices, share information resources, and investigate systems, not just symptoms.",
-      "url": "https://oaklandside.org/about/"
-    },
-    {
-      "text": "DONATE TODAY",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=oakland"
-    },
-    {
-      "text": "HERE\u2019S WHAT WE HEARD FROM YOU",
-      "url": "https://oaklandside.org/2020/06/14/building-on-a-foundation-of-listening/"
-    },
-    {
-      "text": "HOW WE WORK",
-      "url": "https://oaklandside.org/category/how-we-work/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/2022/06/16/the-oaklandsides-most-popular-stories-so-far/"
-    },
-    {
-      "text": "The Oaklandside is 2 today! Here are 10 stories you\u2019ve loved so far",
-      "url": "https://oaklandside.org/2022/06/16/the-oaklandsides-most-popular-stories-so-far/"
-    },
-    {
-      "text": "Tasneem Raja",
-      "url": "https://oaklandside.org/author/tasneem-raja/"
-    },
-    {
-      "text": "Introducing The Oaklandside\u2019s inaugural cohort of community advisors",
-      "url": "https://oaklandside.org/2021/05/19/introducing-the-oaklansides-inaugural-cohort-of-community-advisors/"
-    },
-    {
-      "text": "Cole Goins",
-      "url": "https://oaklandside.org/author/cole-goins/"
-    },
-    {
-      "text": "From text messages to flyers, how we\u2019ve been helping Oaklanders get vaccinated",
-      "url": "https://oaklandside.org/2021/04/28/oaklandside-vaccine-information-equity-campaign/"
-    },
-    {
-      "text": "Brian Krans",
-      "url": "https://oaklandside.org/author/brian-krans/"
-    },
-    {
-      "text": "How is The Oaklandside living up to our values? Introducing Mission Metrics, our pilot program to keep learning from community",
-      "url": "https://oaklandside.org/2021/03/15/oaklandside-mission-metrics-values-impact-journalism/"
-    },
-    {
-      "text": "Tasneem Raja",
-      "url": "https://oaklandside.org/author/tasneem-raja/"
-    },
-    {
-      "text": "Cole Goins",
-      "url": "https://oaklandside.org/author/cole-goins/"
-    },
-    {
-      "text": "READ ABOUT OUR FOUNDING VALUES \u2192",
-      "url": "https://oaklandside.org/2020/06/14/our-founding-values/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t",
-      "url": "https://oaklandside.org/"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/oaklandside"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/theoaklandside/"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://www.instagram.com/theoaklandside/"
-    },
-    {
-      "text": "",
-      "url": "https://oaklandside.org"
-    },
-    {
-      "text": "",
-      "url": "https://www.citysidejournalism.org/"
-    },
-    {
-      "text": "About Oaklandside",
-      "url": "https://oaklandside.org/about/"
-    },
-    {
-      "text": "How We Work",
-      "url": "https://oaklandside.org/category/how-we-work/"
-    },
-    {
-      "text": "Contact us",
-      "url": "https://oaklandside.org/contact/"
-    },
-    {
-      "text": "Write for us",
-      "url": "https://oaklandside.org/2020/08/21/want-to-write-or-report-for-the-oaklandside-as-a-freelancer/"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://oaklandside.org/advertise/"
-    },
-    {
-      "text": "Get our newsletter",
-      "url": "https://oaklandside.org/get-our-newsletter/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=oakland&campaign=7010b0000014AXWAA2"
-    },
-    {
-      "text": "Twitter  \t\t\t\t\t\t\t",
-      "url": "https://twitter.com/oaklandside"
-    },
-    {
-      "text": "Facebook  \t\t\t\t\t\t\t",
-      "url": "https://www.facebook.com/theoaklandside/"
-    },
-    {
-      "text": "Instagram  \t\t\t\t\t\t\t",
-      "url": "https://www.instagram.com/theoaklandside/"
-    },
-    {
-      "text": "Learn more",
-      "url": "/about/"
-    },
-    {
-      "text": "\n\t\t\t\t\tProudly powered by Newspack by Automattic\t\t\t\t",
-      "url": "https://newspack.pub/"
-    },
-    {
-      "text": "Policies",
-      "url": "https://oaklandside.org/policies/"
-    }
-  ],
-  "server": "ia902503.us.archive.org",
-  "uniq": 160049444,
+  "server": "ia802503.us.archive.org",
+  "uniq": 470488674,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }
