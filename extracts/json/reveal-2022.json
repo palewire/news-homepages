@@ -1,5 +1,5 @@
 {
-  "created": 1656030181,
+  "created": 1656111699,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/3/items/reveal-2022",
@@ -750,31 +750,199 @@
       "sha1": "d463391d7b737dd51e703de94c276248c4a6f3b5"
     },
     {
+      "name": "reveal-2022-06-23T18:25:55.924367-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656033959",
+      "size": "19832",
+      "md5": "ff3d0859bbbcc2f375926a6195100187",
+      "crc32": "918923d3",
+      "sha1": "f97da68182b2ea156c61a6828807ea0a4b345c7c",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-23T18:25:55.924367-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656033960",
+      "size": "25067",
+      "md5": "f56eac97c176e9d62ad379f0cc46760d",
+      "crc32": "17b7de9f",
+      "sha1": "d954cc76c587ae7c5629c98142cf01b6a5bbd5d6",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-23T18:25:55.924367-07:00.jpg",
+      "source": "original",
+      "mtime": "1656033957",
+      "size": "249006",
+      "md5": "0659228b8d0b5077afe03133aff633fb",
+      "crc32": "ed837e6e",
+      "sha1": "4426cfd0b0faeec6d7adaf146d8cd0ccbd4d6e71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-23T18:25:55.924367-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-23T18:25:55.924367-07:00.jpg",
+      "mtime": "1656034017",
+      "size": "9935",
+      "md5": "dfd574bb14a2bac358798fd1836dc5c4",
+      "crc32": "92f3e0b4",
+      "sha1": "d463391d7b737dd51e703de94c276248c4a6f3b5"
+    },
+    {
+      "name": "reveal-2022-06-24T02:18:42.728858-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656062326",
+      "size": "20794",
+      "md5": "fdca339c7fc7bc865eb7ab3d0dd28eac",
+      "crc32": "18478d76",
+      "sha1": "82ef45c657c0f8398eb9c507d67c3db309cfd48d",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-24T02:18:42.728858-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656062328",
+      "size": "25067",
+      "md5": "f56eac97c176e9d62ad379f0cc46760d",
+      "crc32": "17b7de9f",
+      "sha1": "d954cc76c587ae7c5629c98142cf01b6a5bbd5d6",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-24T02:18:42.728858-07:00.jpg",
+      "source": "original",
+      "mtime": "1656062324",
+      "size": "249006",
+      "md5": "0659228b8d0b5077afe03133aff633fb",
+      "crc32": "ed837e6e",
+      "sha1": "4426cfd0b0faeec6d7adaf146d8cd0ccbd4d6e71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-24T02:18:42.728858-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-24T02:18:42.728858-07:00.jpg",
+      "mtime": "1656062370",
+      "size": "9935",
+      "md5": "dfd574bb14a2bac358798fd1836dc5c4",
+      "crc32": "92f3e0b4",
+      "sha1": "d463391d7b737dd51e703de94c276248c4a6f3b5"
+    },
+    {
+      "name": "reveal-2022-06-24T10:19:45.890246-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656091189",
+      "size": "21631",
+      "md5": "fdc0af559cd44d8bb395ceb58a8021c5",
+      "crc32": "805cbde5",
+      "sha1": "d92b2a3eba525020c074b5f1624a2857247f39bd",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-24T10:19:45.890246-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656091191",
+      "size": "25596",
+      "md5": "ebdafed8aeb7ae482ea6dbc65a96b811",
+      "crc32": "f477a70b",
+      "sha1": "dc05d8f704ab0ac55d743c94e3ef2c4d79b5b9cc",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-24T10:19:45.890246-07:00.jpg",
+      "source": "original",
+      "mtime": "1656091187",
+      "size": "248948",
+      "md5": "2fd6d8178251746911e94428dde444b9",
+      "crc32": "c38bee55",
+      "sha1": "cd82c7736d5fa067a3c8f759636113ef138b6066",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-24T10:19:45.890246-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-24T10:19:45.890246-07:00.jpg",
+      "mtime": "1656091238",
+      "size": "9932",
+      "md5": "4bfe96c39ec4fd4489708272748290c0",
+      "crc32": "f08aca12",
+      "sha1": "142391292196279583783dbc69deb713ebe6c1d8"
+    },
+    {
+      "name": "reveal-2022-06-24T16:00:14.550820-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656111617",
+      "size": "21631",
+      "md5": "fdc0af559cd44d8bb395ceb58a8021c5",
+      "crc32": "805cbde5",
+      "sha1": "d92b2a3eba525020c074b5f1624a2857247f39bd",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-24T16:00:14.550820-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656111619",
+      "size": "25596",
+      "md5": "ebdafed8aeb7ae482ea6dbc65a96b811",
+      "crc32": "f477a70b",
+      "sha1": "dc05d8f704ab0ac55d743c94e3ef2c4d79b5b9cc",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-24T16:00:14.550820-07:00.jpg",
+      "source": "original",
+      "mtime": "1656111616",
+      "size": "248948",
+      "md5": "2fd6d8178251746911e94428dde444b9",
+      "crc32": "c38bee55",
+      "sha1": "cd82c7736d5fa067a3c8f759636113ef138b6066",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-24T16:00:14.550820-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-24T16:00:14.550820-07:00.jpg",
+      "mtime": "1656111667",
+      "size": "9932",
+      "md5": "4bfe96c39ec4fd4489708272748290c0",
+      "crc32": "f08aca12",
+      "sha1": "142391292196279583783dbc69deb713ebe6c1d8"
+    },
+    {
       "name": "reveal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f4721b9cee2e43b2da73a7f3215e31929e06c28",
-      "mtime": "1656004873",
-      "size": "16144",
-      "md5": "2fe6d806029eb654b247531477b300e6",
-      "crc32": "e78e723b",
-      "sha1": "93a80f2831b27b4e9100004fca13a82c81778ac5",
+      "btih": "0f042e0ffdd9e6625421433d69e0eaede8e27bbb",
+      "mtime": "1656111678",
+      "size": "19469",
+      "md5": "e30b147113fd1c85cc091d7cc2c19054",
+      "crc32": "90f9973d",
+      "sha1": "cfd82e4be5c20c6180b6cb3726acda13592929ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reveal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "89f869755e4cafd753603da3d8eed603",
+      "md5": "f4406c4c58bbbf86ec09ee9479041b11",
       "summation": "md5"
     },
     {
       "name": "reveal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656004821",
-      "size": "94208",
-      "md5": "525717097301ff3596af3a287e0422ec",
-      "crc32": "997ce669",
-      "sha1": "dccb87c31769b79a5fb1261c42dcd4123865252a",
+      "mtime": "1656111622",
+      "size": "118784",
+      "md5": "d7ee46507f611e7575cdaf26d9ade8c2",
+      "crc32": "cb5555bf",
+      "sha1": "ab0674e19b50a580d97836409d3d53d2ed38b821",
       "format": "Metadata"
     },
     {
@@ -788,9 +956,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 75,
-  "item_last_updated": 1656004873,
-  "item_size": 4527633,
+  "files_count": 91,
+  "item_last_updated": 1656111678,
+  "item_size": 5776390,
   "metadata": {
     "identifier": "reveal-2022",
     "collection": [
@@ -807,948 +975,10 @@
     "publicdate": "2022-06-19 23:28:01",
     "addeddate": "2022-06-19 23:28:01"
   },
-  "reveal-2022": [
-    {
-      "text": "DONATE NOW",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=cir&amount=15&installmentPeriod=monthly&campaign=7015d0000025C10AAE"
-    },
-    {
-      "text": "SUPPORT OUR WORK NOW",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=cir&amount=15&installmentPeriod=monthly&campaign=7015d0000025C11AAE"
-    },
-    {
-      "text": "Apple Podcasts",
-      "url": "https://podcasts.apple.com/us/podcast/reveal/id886009669"
-    },
-    {
-      "text": "Spotify",
-      "url": "https://open.spotify.com/show/51CN011CgUdG7EUfm7cXF7?si=f2R4_yD_QAS0mpnf9XivlQ&nd=1"
-    },
-    {
-      "text": "Google Podcasts",
-      "url": "https://podcasts.google.com/search/reveal"
-    },
-    {
-      "text": "Stitcher",
-      "url": "https://app.stitcher.com/browse/feed/59279/episodes#/"
-    },
-    {
-      "text": "Pandora",
-      "url": "https://www.pandora.com/podcast/reveal/PC:506"
-    },
-    {
-      "text": "Amazon Music",
-      "url": "https://music.amazon.com/podcasts/0e0c9bb8-e79a-45ac-9b1e-7dd0f9f0359c/reveal"
-    },
-    {
-      "text": "About Us",
-      "url": "https://revealnews.org/about-us/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=cir&amount=15&installmentPeriod=monthly&campaign=7011Y000001myxcQAA"
-    },
-    {
-      "text": "Read",
-      "url": "#"
-    },
-    {
-      "text": "Accountability",
-      "url": "#"
-    },
-    {
-      "text": "#CitizenSleuth",
-      "url": "https://revealnews.org/topic/citizensleuth/"
-    },
-    {
-      "text": "America\u2019s Worst Charities",
-      "url": "https://revealnews.org/topic/accountability/charities/"
-    },
-    {
-      "text": "Behind the Smiles",
-      "url": "https://revealnews.org/topic/behind-the-smiles/"
-    },
-    {
-      "text": "Case Cleared",
-      "url": "https://revealnews.org/topic/case-cleared/"
-    },
-    {
-      "text": "Census",
-      "url": "https://revealnews.org/topic/census/"
-    },
-    {
-      "text": "Contract with Danger",
-      "url": "https://revealnews.org/topic/contract-with-danger/"
-    },
-    {
-      "text": "COVID-19",
-      "url": "https://revealnews.org/topic/covid-19/"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://revealnews.org/topic/criminal-justice/"
-    },
-    {
-      "text": "Day Care",
-      "url": "https://revealnews.org/topic/day-care/"
-    },
-    {
-      "text": "Education",
-      "url": "https://revealnews.org/topic/accountability/veterans/education/"
-    },
-    {
-      "text": "First Amendment",
-      "url": "https://revealnews.org/topic/first-amendment/"
-    },
-    {
-      "text": "Guns",
-      "url": "https://revealnews.org/topic/guns/"
-    },
-    {
-      "text": "Hate",
-      "url": "https://revealnews.org/topic/hate/"
-    },
-    {
-      "text": "Health Care",
-      "url": "https://revealnews.org/topic/accountability/healthcare/"
-    },
-    {
-      "text": "Impact",
-      "url": "https://revealnews.org/topic/impact/"
-    },
-    {
-      "text": "Inside the Newsroom",
-      "url": "https://revealnews.org/topic/inside-the-newsroom/"
-    },
-    {
-      "text": "Money and Politics",
-      "url": "https://revealnews.org/topic/money-and-politics/"
-    },
-    {
-      "text": "National Security",
-      "url": "https://revealnews.org/topic/accountability/national-security/"
-    },
-    {
-      "text": "Religion",
-      "url": "https://revealnews.org/topic/religion/"
-    },
-    {
-      "text": "Reporting Network",
-      "url": "https://revealnews.org/topic/reporting-network/"
-    },
-    {
-      "text": "Returning Home to Battle",
-      "url": "https://revealnews.org/topic/accountability/veterans/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://revealnews.org/topic/sports/"
-    },
-    {
-      "text": "State Secrets",
-      "url": "https://revealnews.org/topic/state-secrets/"
-    },
-    {
-      "text": "Surveillance and Privacy",
-      "url": "https://revealnews.org/topic/surveillance-privacy/"
-    },
-    {
-      "text": "The Hate Report",
-      "url": "https://revealnews.org/topic/the-hate-report/"
-    },
-    {
-      "text": "The Paradise Papers",
-      "url": "https://revealnews.org/topic/the-paradise-papers/"
-    },
-    {
-      "text": "The Trump Era",
-      "url": "https://revealnews.org/topic/the-trump-era/"
-    },
-    {
-      "text": "The Wall",
-      "url": "https://revealnews.org/topic/the-wall/"
-    },
-    {
-      "text": "Who Owns Silicon Valley?",
-      "url": "https://revealnews.org/topic/who-owns-silicon-valley/"
-    },
-    {
-      "text": "Inequality",
-      "url": "#"
-    },
-    {
-      "text": "All Work. No Pay.",
-      "url": "https://revealnews.org/topic/all-work-no-pay/"
-    },
-    {
-      "text": "And Justice for Some",
-      "url": "https://revealnews.org/topic/and-justice-for-some/"
-    },
-    {
-      "text": "Government Workers",
-      "url": "https://revealnews.org/topic/government-workers/"
-    },
-    {
-      "text": "Housing",
-      "url": "https://revealnews.org/topic/housing/"
-    },
-    {
-      "text": "Human Rights",
-      "url": "https://revealnews.org/topic/human-rights/"
-    },
-    {
-      "text": "Immigration",
-      "url": "https://revealnews.org/topic/immigration/"
-    },
-    {
-      "text": "Insult to Injury",
-      "url": "https://revealnews.org/topic/insult-to-injury/"
-    },
-    {
-      "text": "Kept Out",
-      "url": "https://revealnews.org/topic/kept-out/"
-    },
-    {
-      "text": "Kids on the Line",
-      "url": "https://revealnews.org/topic/kids-on-the-line/"
-    },
-    {
-      "text": "Labor",
-      "url": "https://revealnews.org/topic/labor/"
-    },
-    {
-      "text": "Rape in the Fields",
-      "url": "https://revealnews.org/topic/rape-in-the-fields/"
-    },
-    {
-      "text": "Rape on the Night Shift",
-      "url": "https://revealnews.org/topic/rape-on-the-night-shift/"
-    },
-    {
-      "text": "Silicon Valley Diversity",
-      "url": "https://revealnews.org/topic/silicon-valley-diversity/"
-    },
-    {
-      "text": "Subsidized Squalor",
-      "url": "https://revealnews.org/topic/inequality/public-housing/"
-    },
-    {
-      "text": "Techsploitation",
-      "url": "https://revealnews.org/topic/visa-fraud/"
-    },
-    {
-      "text": "Trimmigrants",
-      "url": "https://revealnews.org/topic/trimmigrants/"
-    },
-    {
-      "text": "Voting",
-      "url": "https://revealnews.org/topic/voting/"
-    },
-    {
-      "text": "Worked Over",
-      "url": "https://revealnews.org/topic/labor-and-employment/"
-    },
-    {
-      "text": "Workers\u2019 Rights",
-      "url": "https://revealnews.org/topic/workers-rights/"
-    },
-    {
-      "text": "Sustainability",
-      "url": "#"
-    },
-    {
-      "text": "America\u2019s Ring of Fire",
-      "url": "https://revealnews.org/topic/americas-ring-of-fire/"
-    },
-    {
-      "text": "Chasing Energy",
-      "url": "https://revealnews.org/topic/chasing-energy/"
-    },
-    {
-      "text": "Climate Change",
-      "url": "https://revealnews.org/topic/sustainability/climate-change/"
-    },
-    {
-      "text": "Environment",
-      "url": "https://revealnews.org/topic/environment/"
-    },
-    {
-      "text": "Flood thy Neighbor",
-      "url": "https://revealnews.org/topic/flood-thy-neighbor/"
-    },
-    {
-      "text": "Food for 9 Billion",
-      "url": "https://revealnews.org/topic/food-for-9-billion/"
-    },
-    {
-      "text": "Food Security",
-      "url": "https://revealnews.org/topic/food-security/"
-    },
-    {
-      "text": "Lords of Yesterday",
-      "url": "https://revealnews.org/topic/lords-of-yesterday/"
-    },
-    {
-      "text": "Oil and Mining",
-      "url": "https://revealnews.org/topic/oil-and-mining/"
-    },
-    {
-      "text": "Pesticides",
-      "url": "https://revealnews.org/topic/pesticides/"
-    },
-    {
-      "text": "The (Un)Scientific Method",
-      "url": "https://revealnews.org/topic/the-unscientific-method/"
-    },
-    {
-      "text": "The Secrets of the Drought",
-      "url": "https://revealnews.org/topic/the-secrets-of-the-drought/"
-    },
-    {
-      "text": "Listen",
-      "url": "/podcast"
-    },
-    {
-      "text": "Watch",
-      "url": "/watch-tv-films/"
-    },
-    {
-      "text": "Local",
-      "url": "/local"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/ThisIsReveal"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/reveal"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://www.instagram.com/revealnews/"
-    },
-    {
-      "text": "YouTube",
-      "url": "https://www.youtube.com/reveal"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#main"
-    },
-    {
-      "text": "Read",
-      "url": "#"
-    },
-    {
-      "text": "Accountability",
-      "url": "#"
-    },
-    {
-      "text": "#CitizenSleuth",
-      "url": "https://revealnews.org/topic/citizensleuth/"
-    },
-    {
-      "text": "America\u2019s Worst Charities",
-      "url": "https://revealnews.org/topic/accountability/charities/"
-    },
-    {
-      "text": "Behind the Smiles",
-      "url": "https://revealnews.org/topic/behind-the-smiles/"
-    },
-    {
-      "text": "Case Cleared",
-      "url": "https://revealnews.org/topic/case-cleared/"
-    },
-    {
-      "text": "Census",
-      "url": "https://revealnews.org/topic/census/"
-    },
-    {
-      "text": "Contract with Danger",
-      "url": "https://revealnews.org/topic/contract-with-danger/"
-    },
-    {
-      "text": "COVID-19",
-      "url": "https://revealnews.org/topic/covid-19/"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://revealnews.org/topic/criminal-justice/"
-    },
-    {
-      "text": "Day Care",
-      "url": "https://revealnews.org/topic/day-care/"
-    },
-    {
-      "text": "Education",
-      "url": "https://revealnews.org/topic/accountability/veterans/education/"
-    },
-    {
-      "text": "First Amendment",
-      "url": "https://revealnews.org/topic/first-amendment/"
-    },
-    {
-      "text": "Guns",
-      "url": "https://revealnews.org/topic/guns/"
-    },
-    {
-      "text": "Hate",
-      "url": "https://revealnews.org/topic/hate/"
-    },
-    {
-      "text": "Health Care",
-      "url": "https://revealnews.org/topic/accountability/healthcare/"
-    },
-    {
-      "text": "Impact",
-      "url": "https://revealnews.org/topic/impact/"
-    },
-    {
-      "text": "Inside the Newsroom",
-      "url": "https://revealnews.org/topic/inside-the-newsroom/"
-    },
-    {
-      "text": "Money and Politics",
-      "url": "https://revealnews.org/topic/money-and-politics/"
-    },
-    {
-      "text": "National Security",
-      "url": "https://revealnews.org/topic/accountability/national-security/"
-    },
-    {
-      "text": "Religion",
-      "url": "https://revealnews.org/topic/religion/"
-    },
-    {
-      "text": "Reporting Network",
-      "url": "https://revealnews.org/topic/reporting-network/"
-    },
-    {
-      "text": "Returning Home to Battle",
-      "url": "https://revealnews.org/topic/accountability/veterans/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://revealnews.org/topic/sports/"
-    },
-    {
-      "text": "State Secrets",
-      "url": "https://revealnews.org/topic/state-secrets/"
-    },
-    {
-      "text": "Surveillance and Privacy",
-      "url": "https://revealnews.org/topic/surveillance-privacy/"
-    },
-    {
-      "text": "The Hate Report",
-      "url": "https://revealnews.org/topic/the-hate-report/"
-    },
-    {
-      "text": "The Paradise Papers",
-      "url": "https://revealnews.org/topic/the-paradise-papers/"
-    },
-    {
-      "text": "The Trump Era",
-      "url": "https://revealnews.org/topic/the-trump-era/"
-    },
-    {
-      "text": "The Wall",
-      "url": "https://revealnews.org/topic/the-wall/"
-    },
-    {
-      "text": "Who Owns Silicon Valley?",
-      "url": "https://revealnews.org/topic/who-owns-silicon-valley/"
-    },
-    {
-      "text": "Inequality",
-      "url": "#"
-    },
-    {
-      "text": "All Work. No Pay.",
-      "url": "https://revealnews.org/topic/all-work-no-pay/"
-    },
-    {
-      "text": "And Justice for Some",
-      "url": "https://revealnews.org/topic/and-justice-for-some/"
-    },
-    {
-      "text": "Government Workers",
-      "url": "https://revealnews.org/topic/government-workers/"
-    },
-    {
-      "text": "Housing",
-      "url": "https://revealnews.org/topic/housing/"
-    },
-    {
-      "text": "Human Rights",
-      "url": "https://revealnews.org/topic/human-rights/"
-    },
-    {
-      "text": "Immigration",
-      "url": "https://revealnews.org/topic/immigration/"
-    },
-    {
-      "text": "Insult to Injury",
-      "url": "https://revealnews.org/topic/insult-to-injury/"
-    },
-    {
-      "text": "Kept Out",
-      "url": "https://revealnews.org/topic/kept-out/"
-    },
-    {
-      "text": "Kids on the Line",
-      "url": "https://revealnews.org/topic/kids-on-the-line/"
-    },
-    {
-      "text": "Labor",
-      "url": "https://revealnews.org/topic/labor/"
-    },
-    {
-      "text": "Rape in the Fields",
-      "url": "https://revealnews.org/topic/rape-in-the-fields/"
-    },
-    {
-      "text": "Rape on the Night Shift",
-      "url": "https://revealnews.org/topic/rape-on-the-night-shift/"
-    },
-    {
-      "text": "Silicon Valley Diversity",
-      "url": "https://revealnews.org/topic/silicon-valley-diversity/"
-    },
-    {
-      "text": "Subsidized Squalor",
-      "url": "https://revealnews.org/topic/inequality/public-housing/"
-    },
-    {
-      "text": "Techsploitation",
-      "url": "https://revealnews.org/topic/visa-fraud/"
-    },
-    {
-      "text": "Trimmigrants",
-      "url": "https://revealnews.org/topic/trimmigrants/"
-    },
-    {
-      "text": "Voting",
-      "url": "https://revealnews.org/topic/voting/"
-    },
-    {
-      "text": "Worked Over",
-      "url": "https://revealnews.org/topic/labor-and-employment/"
-    },
-    {
-      "text": "Workers\u2019 Rights",
-      "url": "https://revealnews.org/topic/workers-rights/"
-    },
-    {
-      "text": "Sustainability",
-      "url": "#"
-    },
-    {
-      "text": "America\u2019s Ring of Fire",
-      "url": "https://revealnews.org/topic/americas-ring-of-fire/"
-    },
-    {
-      "text": "Chasing Energy",
-      "url": "https://revealnews.org/topic/chasing-energy/"
-    },
-    {
-      "text": "Climate Change",
-      "url": "https://revealnews.org/topic/sustainability/climate-change/"
-    },
-    {
-      "text": "Environment",
-      "url": "https://revealnews.org/topic/environment/"
-    },
-    {
-      "text": "Flood thy Neighbor",
-      "url": "https://revealnews.org/topic/flood-thy-neighbor/"
-    },
-    {
-      "text": "Food for 9 Billion",
-      "url": "https://revealnews.org/topic/food-for-9-billion/"
-    },
-    {
-      "text": "Food Security",
-      "url": "https://revealnews.org/topic/food-security/"
-    },
-    {
-      "text": "Lords of Yesterday",
-      "url": "https://revealnews.org/topic/lords-of-yesterday/"
-    },
-    {
-      "text": "Oil and Mining",
-      "url": "https://revealnews.org/topic/oil-and-mining/"
-    },
-    {
-      "text": "Pesticides",
-      "url": "https://revealnews.org/topic/pesticides/"
-    },
-    {
-      "text": "The (Un)Scientific Method",
-      "url": "https://revealnews.org/topic/the-unscientific-method/"
-    },
-    {
-      "text": "The Secrets of the Drought",
-      "url": "https://revealnews.org/topic/the-secrets-of-the-drought/"
-    },
-    {
-      "text": "Listen",
-      "url": "/podcast"
-    },
-    {
-      "text": "Watch",
-      "url": "/watch-tv-films/"
-    },
-    {
-      "text": "Local",
-      "url": "/local"
-    },
-    {
-      "text": "",
-      "url": "https://revealnews.org/"
-    },
-    {
-      "text": "Reveal",
-      "url": "https://revealnews.org/"
-    },
-    {
-      "text": "About Us",
-      "url": "https://revealnews.org/about-us/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=cir&amount=15&installmentPeriod=monthly&campaign=7011Y000001myxcQAA"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/homeless-unhoused-police-arrests-west-coast-cities"
-    },
-    {
-      "text": "Police Know Arrests Won\u2019t Fix Homelessness. They Keep Making Them Anyway.",
-      "url": "https://revealnews.org/article/homeless-unhoused-police-arrests-west-coast-cities"
-    },
-    {
-      "text": "Melissa Lewis",
-      "url": "https://revealnews.org/author/melissa-lewis/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/migrant-children-suicide-thoughts-us-custody"
-    },
-    {
-      "text": "Scores of Migrant Children Considered or Attempted Suicide in US Custody, Records Show",
-      "url": "https://revealnews.org/article/migrant-children-suicide-thoughts-us-custody"
-    },
-    {
-      "text": "Aura Bogado",
-      "url": "https://revealnews.org/author/aura-bogado/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/podcast/abortion-in-the-crosshairs/"
-    },
-    {
-      "text": "Abortion in the Crosshairs",
-      "url": "https://revealnews.org/podcast/abortion-in-the-crosshairs/"
-    },
-    {
-      "text": "\n\t\t\t\t\tListen Now\t\t\t\t",
-      "url": "https://revealnews.org/podcast/abortion-in-the-crosshairs/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/facebook-data-abortion-crisis-pregnancy-center"
-    },
-    {
-      "text": "Facebook and Anti-Abortion Clinics Are Collecting Highly Sensitive Info on Would-Be Patients",
-      "url": "https://revealnews.org/article/facebook-data-abortion-crisis-pregnancy-center"
-    },
-    {
-      "text": "Grace Oldham",
-      "url": "https://revealnews.org/author/grace-oldham/"
-    },
-    {
-      "text": "Dhruv Mehrotra",
-      "url": "https://revealnews.org/author/dhruv-mehrotra/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/true-the-vote-big-lie-election-fraud"
-    },
-    {
-      "text": "She Helped Create the Big Lie. Records Suggest She Turned It Into a Big Grift.",
-      "url": "https://revealnews.org/article/true-the-vote-big-lie-election-fraud"
-    },
-    {
-      "text": "Cassandra Jaramillo",
-      "url": "https://revealnews.org/author/cassandra-jaramillo/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/behind-the-smiles-at-amazon/"
-    },
-    {
-      "text": "Behind the Smiles at Amazon",
-      "url": "https://revealnews.org/behind-the-smiles-at-amazon/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/after-ayotzinapa"
-    },
-    {
-      "text": "After Ayotzinapa",
-      "url": "https://revealnews.org/article/after-ayotzinapa"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/mississippi-goddam/"
-    },
-    {
-      "text": "Mississippi Goddam",
-      "url": "https://revealnews.org/mississippi-goddam/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/when-abusers-keep-their-guns/"
-    },
-    {
-      "text": "When Abusers Keep Their Guns",
-      "url": "https://revealnews.org/when-abusers-keep-their-guns/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/american-rehab/"
-    },
-    {
-      "text": "American Rehab",
-      "url": "https://revealnews.org/american-rehab/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/the-disappeared"
-    },
-    {
-      "text": "The Disappeared",
-      "url": "https://revealnews.org/article/the-disappeared"
-    },
-    {
-      "text": "DONATE TODAY",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=cir&amount=15&installmentPeriod=monthly&campaign=7015d00000256ECAAY"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/podcast/baseball-strikes-out-2022/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tAccountability\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/accountability/"
-    },
-    {
-      "text": "Baseball Strikes Out",
-      "url": "https://revealnews.org/podcast/baseball-strikes-out-2022/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/true-the-vote-donations-takeaways"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tVoting\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/voting/"
-    },
-    {
-      "text": "6 Takeaways From Our Investigation Into a Prominent Voter Fraud Nonprofit",
-      "url": "https://revealnews.org/article/true-the-vote-donations-takeaways"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/podcast/fighting-fire-with-fire-2022/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tClimate Change\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/climate-change/"
-    },
-    {
-      "text": "Fighting Fire with Fire",
-      "url": "https://revealnews.org/podcast/fighting-fire-with-fire-2022/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/border-patrol-provost-migrant-children-biden"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tImmigration\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/immigration/"
-    },
-    {
-      "text": "Migrant Children Died on Border Patrol Chief\u2019s Watch. Then She Ran an Emergency Shelter Under Biden.",
-      "url": "https://revealnews.org/article/border-patrol-provost-migrant-children-biden"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/our-drug-rehab-investigation-led-to-96-convictions-and-millions-in-restitution"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tRehabilitation\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/rehabilitation/"
-    },
-    {
-      "text": "Our Drug Rehab Investigation Led to 96 Convictions and Millions in Restitution",
-      "url": "https://revealnews.org/article/our-drug-rehab-investigation-led-to-96-convictions-and-millions-in-restitution"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/podcast/why-gun-reform-keeps-failing/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tGuns\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/guns/"
-    },
-    {
-      "text": "Shooting in the Dark: Why Gun Reform Keeps Failing",
-      "url": "https://revealnews.org/podcast/why-gun-reform-keeps-failing/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/podcast/a-family-divided-over-jan-6-traitors-get-shot/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tAccountability\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/accountability/"
-    },
-    {
-      "text": "A Family Divided Over Jan. 6: \u2018Traitors Get Shot\u2019",
-      "url": "https://revealnews.org/podcast/a-family-divided-over-jan-6-traitors-get-shot/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/amazons-warehouse-quotas-have-been-injuring-workers-for-years-now-officials-are-taking-action"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tBehind the Smiles\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/behind-the-smiles/"
-    },
-    {
-      "text": "Amazon\u2019s Warehouse Quotas Have Been Injuring Workers for Years. Now, Officials Are Taking Action.",
-      "url": "https://revealnews.org/article/amazons-warehouse-quotas-have-been-injuring-workers-for-years-now-officials-are-taking-action"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/podcast/a-reckoning-at-amazon/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tBehind the Smiles\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/behind-the-smiles/"
-    },
-    {
-      "text": "A Reckoning at Amazon",
-      "url": "https://revealnews.org/podcast/a-reckoning-at-amazon/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/takeaways-suspected-war-criminals-investigation"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tUncategorized\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/uncategorized/"
-    },
-    {
-      "text": "6 Takeaways from Our Investigation Into Suspected War Criminals in the US",
-      "url": "https://revealnews.org/article/takeaways-suspected-war-criminals-investigation"
-    },
-    {
-      "text": "Show More",
-      "url": "https://revealnews.org/archive/page/2/"
-    },
-    {
-      "text": "",
-      "url": "https://revealnews.org/"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/ThisIsReveal"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/reveal"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://www.instagram.com/revealnews/"
-    },
-    {
-      "text": "YouTube",
-      "url": "https://www.youtube.com/reveal"
-    },
-    {
-      "text": "About Us",
-      "url": "https://revealnews.org/about-us/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://revealnews.org/about-us/contact-us/"
-    },
-    {
-      "text": "Pitching Reveal",
-      "url": "https://revealnews.org/pitching-reveal/"
-    },
-    {
-      "text": "Republish Reveal\u2019s Content",
-      "url": "https://revealnews.org/republishing-guidelines/"
-    },
-    {
-      "text": "Brand Assets",
-      "url": "https://revealnews.org/about-us/brand-assets/"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://revealnews.org/terms-of-use/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://revealnews.org/privacy-policy/"
-    },
-    {
-      "text": "Corrections",
-      "url": "https://revealnews.org/corrections/"
-    },
-    {
-      "text": "Apple Podcasts",
-      "url": "https://itunes.apple.com/us/podcast/reveal/id886009669"
-    },
-    {
-      "text": "Where to Hear Reveal",
-      "url": "https://revealnews.org/where-to-hear-reveal/"
-    },
-    {
-      "text": "Audio RSS",
-      "url": "http://feeds.revealradio.org/revealpodcast"
-    },
-    {
-      "text": "RSS",
-      "url": "/feed"
-    },
-    {
-      "text": "Newsletter",
-      "url": "https://revealnews.org/newsletter/"
-    },
-    {
-      "text": "Inside the Newsroom",
-      "url": "https://revealnews.org/topic/inside-the-newsroom/"
-    },
-    {
-      "text": "Press Releases",
-      "url": "https://revealnews.org/press-releases/"
-    },
-    {
-      "text": "\n\t\t\t\t\tProudly powered by Newspack by Automattic\t\t\t\t",
-      "url": "https://newspack.pub/"
-    }
-  ],
-  "server": "ia802501.us.archive.org",
-  "uniq": 405683688,
+  "server": "ia902501.us.archive.org",
+  "uniq": 171755695,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

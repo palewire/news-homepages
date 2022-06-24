@@ -1,5 +1,5 @@
 {
-  "created": 1656030141,
+  "created": 1656111633,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/22/items/oann-2022",
@@ -3756,31 +3756,179 @@
       "sha1": "dabe233bbb4ac3473d88cf542894589d092baa2f"
     },
     {
+      "name": "oann-2022-06-23T21:24:46.013532-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656033888",
+      "size": "19971",
+      "md5": "f09f141016c86d60f6e3e35c82175a70",
+      "crc32": "4c1d0ef0",
+      "sha1": "1bba4c58f56fe8a7acecd11569046d744c5caf5a",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-23T21:24:46.013532-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656033889",
+      "size": "13325",
+      "md5": "72b102823513bf3423bdf3f74f4e7115",
+      "crc32": "1f170d19",
+      "sha1": "a0b4a02e55e68c9e11cc239f5bf94c099c059248",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-23T21:24:46.013532-04:00.jpg",
+      "source": "original",
+      "mtime": "1656033886",
+      "size": "306031",
+      "md5": "3f8ce1bc55f80c6c378b7337979202d1",
+      "crc32": "8778f690",
+      "sha1": "5e98459e554cd920c48145f4bd84d9b6e23aea9e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-06-23T21:24:46.013532-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-06-23T21:24:46.013532-04:00.jpg",
+      "mtime": "1656033969",
+      "size": "12184",
+      "md5": "e86f4e5b754c4ebbe29c4213cf0e331d",
+      "crc32": "ab49c42b",
+      "sha1": "5b402a64cdc70c8699356be390c6929d63cdea37"
+    },
+    {
+      "name": "oann-2022-06-24T05:17:51.394413-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656062274",
+      "size": "20201",
+      "md5": "64e03554ccf7d399aa96bb9d964fd012",
+      "crc32": "8bd764dd",
+      "sha1": "10cee033db78e79acb3949f193020e6b906b406b",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-24T05:17:51.394413-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656062276",
+      "size": "13316",
+      "md5": "6df8501d0b009aedf1f6844a327f8cb3",
+      "crc32": "94be0dbf",
+      "sha1": "2a4fd88f4225606fa07e2eb7ffd8785c4cc007d3",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-24T05:17:51.394413-04:00.jpg",
+      "source": "original",
+      "mtime": "1656062273",
+      "size": "305900",
+      "md5": "b034985f0cd69404c8e2a062dccb6145",
+      "crc32": "75b74c5e",
+      "sha1": "82bfd09f314b195192d37eddcb28b4726856bc8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-06-24T05:17:51.394413-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-06-24T05:17:51.394413-04:00.jpg",
+      "mtime": "1656062354",
+      "size": "12144",
+      "md5": "62ba11dc7ca7469021fcd02c3ca1d39b",
+      "crc32": "025e7649",
+      "sha1": "562f4125e6eb6eb9accd8debd078ec70dbf548f4"
+    },
+    {
+      "name": "oann-2022-06-24T13:18:10.975298-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656091103",
+      "size": "20246",
+      "md5": "d05c52f1baeb79e95a1da924d68d31ff",
+      "crc32": "d5b23368",
+      "sha1": "fba6cb942c564d7fa527baa09e232026b400ca4d",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-24T13:18:10.975298-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656091106",
+      "size": "13229",
+      "md5": "54e915a2facc9c1c091502a1ab22d662",
+      "crc32": "0699e00a",
+      "sha1": "e475bcf9ca4d1d9dc3bc77ed8ed61e0c2f05f631",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-24T13:18:10.975298-04:00.jpg",
+      "source": "original",
+      "mtime": "1656091098",
+      "size": "357046",
+      "md5": "0df2f3311f9eafc0db66135268672622",
+      "crc32": "e3fe46d6",
+      "sha1": "1f9204a9cbac79404a484f2b5cadb43aa9d64bf6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-06-24T13:18:10.975298-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-06-24T13:18:10.975298-04:00.jpg",
+      "mtime": "1656091159",
+      "size": "12650",
+      "md5": "48e2ff3383b75197fe6cd4c7e196ef90",
+      "crc32": "89b1b841",
+      "sha1": "0ac58a15b7510c734c02cc01e494369f85f34a6f"
+    },
+    {
+      "name": "oann-2022-06-24T18:58:47.246825-04:00.jpg",
+      "source": "original",
+      "mtime": "1656111528",
+      "size": "333918",
+      "md5": "4458704638b07f5494db90d083ee1e91",
+      "crc32": "cf0e8c4d",
+      "sha1": "d8952f6f398a286fbe3f3a06c4486cd33edfec6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-06-24T18:58:47.246825-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-06-24T18:58:47.246825-04:00.jpg",
+      "mtime": "1656111592",
+      "size": "12683",
+      "md5": "45284921f77e9859b12c12992c18ac60",
+      "crc32": "5fdd4946",
+      "sha1": "4ea2d96716cea8fde43a48a54eb8c1ccbef7c76b"
+    },
+    {
       "name": "oann-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f27d7dc8d1521137fda45788d5e2c53f15c0fa2c",
-      "mtime": "1656004799",
-      "size": "74704",
-      "md5": "b9ce46dd5b0c8dc97bf4f6632b2edfb0",
-      "crc32": "0349b984",
-      "sha1": "186bf659012ce9eed0bcf51f6480bd37bbbc47e3",
+      "btih": "c7fd24b92da353e3f4cc99f6382c1b657f308806",
+      "mtime": "1656111622",
+      "size": "77603",
+      "md5": "20f92c5e11c5fedbe2dc15e4677698c1",
+      "crc32": "74643068",
+      "sha1": "e5431ab9dbfe2939420693d046853a15523f288b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oann-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bcb1f8ecb7fb012f5d97b21e4448cd5f",
+      "md5": "2e4c6b4e50529fb250f61728aa17d5ba",
       "summation": "md5"
     },
     {
       "name": "oann-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656004735",
-      "size": "405504",
-      "md5": "96d932d2169e5de3a7eed4b26cb58bad",
-      "crc32": "5599f627",
-      "sha1": "443d1483089ef56b3684453a729f1f5a63e311b9",
+      "mtime": "1656111533",
+      "size": "417792",
+      "md5": "370e2f05fd31601b1e5183714f2d7dc1",
+      "crc32": "b9b33e6c",
+      "sha1": "1da9ef225c58357e8351e31648b67596ee04ad7c",
       "format": "Metadata"
     },
     {
@@ -3794,9 +3942,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 359,
-  "item_last_updated": 1656004799,
-  "item_size": 35174550,
+  "files_count": 373,
+  "item_last_updated": 1656111622,
+  "item_size": 36642581,
   "metadata": {
     "identifier": "oann-2022",
     "collection": [
@@ -3813,452 +3961,10 @@
     "publicdate": "2022-03-25 18:47:20",
     "addeddate": "2022-03-25 18:47:20"
   },
-  "oann-2022": [
-    {
-      "text": "Home",
-      "url": "https://www.oann.com"
-    },
-    {
-      "text": "About OAN",
-      "url": "https://www.oann.com/about/"
-    },
-    {
-      "text": "Affiliate Relations",
-      "url": "https://www.oann.com/affiliaterelations/"
-    },
-    {
-      "text": "Where to Watch",
-      "url": "https://www.oann.com/wheretowatch/"
-    },
-    {
-      "text": "Press Kit",
-      "url": "https://www.oann.com/presskit/"
-    },
-    {
-      "text": "Press Releases",
-      "url": "https://www.oann.com/category/press-release/"
-    },
-    {
-      "text": "Brand & ID",
-      "url": "https://www.oann.com/brand-id/"
-    },
-    {
-      "text": "Certifications",
-      "url": "https://www.oann.com/certifications/"
-    },
-    {
-      "text": "Shows",
-      "url": "https://www.oann.com/category/shows/"
-    },
-    {
-      "text": "Real America",
-      "url": "https://www.oann.com/realamerica/"
-    },
-    {
-      "text": "In Focus",
-      "url": "https://www.oann.com/infocus/"
-    },
-    {
-      "text": "Tipping Point",
-      "url": "https://www.oann.com/tippingpoint/"
-    },
-    {
-      "text": "Weekly Briefing",
-      "url": "https://www.oann.com/weeklybriefing/"
-    },
-    {
-      "text": "Shop",
-      "url": "http://store.oann.com"
-    },
-    {
-      "text": "Contact",
-      "url": "https://www.oann.com/contactus/"
-    },
-    {
-      "text": "Careers",
-      "url": "https://www.oann.com/careers/"
-    },
-    {
-      "text": "\n\n\n\n",
-      "url": "https://www.oann.com/"
-    },
-    {
-      "text": "",
-      "url": "https://live.oann.com"
-    },
-    {
-      "text": "MENU",
-      "url": "#"
-    },
-    {
-      "text": "Top News",
-      "url": "https://www.oann.com/category/newsroom/"
-    },
-    {
-      "text": "From DC",
-      "url": "https://www.oann.com/category/oan-contribution/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.oann.com/category/video/"
-    },
-    {
-      "text": "Pearson Sharp Reports",
-      "url": "https://www.oann.com/category/video/special-reports/"
-    },
-    {
-      "text": "Real America",
-      "url": "https://www.oann.com/category/shows/real-america/real-america-video/"
-    },
-    {
-      "text": "The Real Story",
-      "url": "https://www.oann.com/category/shows/the-real-story/real-story-video/"
-    },
-    {
-      "text": "After Hours",
-      "url": "https://www.oann.com/category/shows/after-hours/after-hours-video/"
-    },
-    {
-      "text": "In Focus",
-      "url": "https://www.oann.com/category/shows/in-focus/in-focus-video/"
-    },
-    {
-      "text": "Tipping Point",
-      "url": "https://www.oann.com/category/shows/tipping-point/tipping-point-video/"
-    },
-    {
-      "text": "Weekly Briefing",
-      "url": "https://www.oann.com/category/shows/weekly-briefing/weekly-briefing-video/"
-    },
-    {
-      "text": "Shop",
-      "url": "http://store.oann.com"
-    },
-    {
-      "text": "TV Schedule",
-      "url": "https://www.oann.com/schedule/"
-    },
-    {
-      "text": "Live",
-      "url": "https://live.oann.com"
-    },
-    {
-      "text": "Top News",
-      "url": "https://www.oann.com/category/newsroom/"
-    },
-    {
-      "text": "From DC",
-      "url": "https://www.oann.com/category/oan-contribution/"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.oann.com/category/video/"
-    },
-    {
-      "text": "Pearson Sharp Reports",
-      "url": "https://www.oann.com/category/video/special-reports/"
-    },
-    {
-      "text": "Real America",
-      "url": "https://www.oann.com/category/shows/real-america/real-america-video/"
-    },
-    {
-      "text": "The Real Story",
-      "url": "https://www.oann.com/category/shows/the-real-story/real-story-video/"
-    },
-    {
-      "text": "After Hours",
-      "url": "https://www.oann.com/category/shows/after-hours/after-hours-video/"
-    },
-    {
-      "text": "In Focus",
-      "url": "https://www.oann.com/category/shows/in-focus/in-focus-video/"
-    },
-    {
-      "text": "Tipping Point",
-      "url": "https://www.oann.com/category/shows/tipping-point/tipping-point-video/"
-    },
-    {
-      "text": "Weekly Briefing",
-      "url": "https://www.oann.com/category/shows/weekly-briefing/weekly-briefing-video/"
-    },
-    {
-      "text": "Shop",
-      "url": "http://store.oann.com"
-    },
-    {
-      "text": "TV Schedule",
-      "url": "https://www.oann.com/schedule/"
-    },
-    {
-      "text": "Live",
-      "url": "https://live.oann.com"
-    },
-    {
-      "text": "\n\t\t\t\t\t6 major cities note violent crime increases from record 2021 levels\n\t\t\t\t",
-      "url": "https://www.oann.com/6-major-cities-note-violent-crime-increases-from-record-2021-levels/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWAPO writer appears to \u2018inadvertently\u2019 write a heart-warming pro-life story\n\t\t\t\t",
-      "url": "https://www.oann.com/wapo-writer-appears-to-inadvertently-write-a-heart-warming-pro-life-story/"
-    },
-    {
-      "text": "\n\t\t\t\t\tDefense Production Act to address high gas prices\n\t\t\t\t",
-      "url": "https://www.oann.com/defense-production-act-to-address-high-gas-prices/"
-    },
-    {
-      "text": "\n\t\t\t\t\tPutin: New reserve currency proposed within BRICS\n\t\t\t\t",
-      "url": "https://www.oann.com/putin-new-reserve-currency-proposed-within-brics/"
-    },
-    {
-      "text": "\n\t\t\t\t\tElvis Presley\u2019s family get together for Hollywood ceremony\n\t\t\t\t",
-      "url": "https://www.oann.com/elvis-presleys-family-get-together-for-hollywood-ceremony/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/6-major-cities-note-violent-crime-increases-from-record-2021-levels/"
-    },
-    {
-      "text": "6 major cities note violent crime increases from record 2021 levels",
-      "url": "https://www.oann.com/6-major-cities-note-violent-crime-increases-from-record-2021-levels/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/wapo-writer-appears-to-inadvertently-write-a-heart-warming-pro-life-story/"
-    },
-    {
-      "text": "WAPO writer appears to \u2018inadvertently\u2019 write a heart-warming pro-life story",
-      "url": "https://www.oann.com/wapo-writer-appears-to-inadvertently-write-a-heart-warming-pro-life-story/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/defense-production-act-to-address-high-gas-prices/"
-    },
-    {
-      "text": "Defense Production Act to address high gas prices",
-      "url": "https://www.oann.com/defense-production-act-to-address-high-gas-prices/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/putin-new-reserve-currency-proposed-within-brics/"
-    },
-    {
-      "text": "Putin: New reserve currency proposed within BRICS",
-      "url": "https://www.oann.com/putin-new-reserve-currency-proposed-within-brics/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/elvis-presleys-family-get-together-for-hollywood-ceremony/"
-    },
-    {
-      "text": "Elvis Presley\u2019s family get together for Hollywood ceremony",
-      "url": "https://www.oann.com/elvis-presleys-family-get-together-for-hollywood-ceremony/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/watch-capitol-punishment-on-oan/"
-    },
-    {
-      "text": "Watch \u2018CAPITOL PUNISHMENT\u2019 on OAN",
-      "url": "https://www.oann.com/watch-capitol-punishment-on-oan/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/biden-admin-claims-no-recession-coming-despite-experts-saying-its-inevitable/"
-    },
-    {
-      "text": "Biden admin. claims \u2018no recession\u2019 coming, despite experts saying it\u2019s inevitable",
-      "url": "https://www.oann.com/biden-admin-claims-no-recession-coming-despite-experts-saying-its-inevitable/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/rep-mccarthy-its-a-wide-open-border/"
-    },
-    {
-      "text": "Rep. McCarthy: It\u2019s a wide open border",
-      "url": "https://www.oann.com/rep-mccarthy-its-a-wide-open-border/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/chad-wolf-us-has-reached-crisis-point-at-southern-border/"
-    },
-    {
-      "text": "Chad Wolf: US has reached \u2018crisis point\u2019 at southern border",
-      "url": "https://www.oann.com/chad-wolf-us-has-reached-crisis-point-at-southern-border/"
-    },
-    {
-      "text": "More from OAN",
-      "url": "https://www.oann.com/category/newsroom/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/biden-calls-on-congress-to-suspend-federal-gas-tax-for-3-months/"
-    },
-    {
-      "text": "Biden calls on Congress to suspend federal gas tax for 3 months",
-      "url": "https://www.oann.com/biden-calls-on-congress-to-suspend-federal-gas-tax-for-3-months/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/proposed-senate-gun-bill-expands-background-checks-mental-health-school-safety-programs/"
-    },
-    {
-      "text": "Proposed Senate gun bill expands background checks, mental health & school safety programs",
-      "url": "https://www.oann.com/proposed-senate-gun-bill-expands-background-checks-mental-health-school-safety-programs/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/election-day-in-d-c-ala-va-ark-ga/"
-    },
-    {
-      "text": "D.C., Ala., Va., Ark., Ga. release election results",
-      "url": "https://www.oann.com/election-day-in-d-c-ala-va-ark-ga/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/biden-warns-of-looming-pandemic-while-promoting-child-vaccinations/"
-    },
-    {
-      "text": "Biden warns of looming pandemic while promoting child vaccinations",
-      "url": "https://www.oann.com/biden-warns-of-looming-pandemic-while-promoting-child-vaccinations/"
-    },
-    {
-      "text": "OAN Special Reports",
-      "url": "https://www.oann.com/category/oan-contribution/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/one-on-one-with-former-phoenix-chief-of-police-daniel-garcia/"
-    },
-    {
-      "text": "One-on-One with Former Phoenix Chief of Police, Daniel Garcia",
-      "url": "https://www.oann.com/one-on-one-with-former-phoenix-chief-of-police-daniel-garcia/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/texas-gop-rejects-biden-win-in-2020-election/"
-    },
-    {
-      "text": "Texas GOP rejects Biden win in 2020 election",
-      "url": "https://www.oann.com/texas-gop-rejects-biden-win-in-2020-election/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/new-footage-raises-questions-about-uvalde-police-response-armed-officers-did-not-enter-classroom-for-58-minutes/"
-    },
-    {
-      "text": "New footage raises questions about Uvalde Police response",
-      "url": "https://www.oann.com/new-footage-raises-questions-about-uvalde-police-response-armed-officers-did-not-enter-classroom-for-58-minutes/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/vp-harris-faith-versus-abortion/"
-    },
-    {
-      "text": "VP Harris: Faith Versus Abortion",
-      "url": "https://www.oann.com/vp-harris-faith-versus-abortion/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/category/pearsonsharpreports"
-    },
-    {
-      "text": "",
-      "url": "https://live.oann.com"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/newsletter-2"
-    },
-    {
-      "text": "\u20182000 Mules\u2019 reveals possible ballot trafficking scheme",
-      "url": "https://www.oann.com/2000-mules-offers-bold-claims-about-the-2020-election"
-    },
-    {
-      "text": "Concerning DirecTV",
-      "url": "https://www.oann.com/category/directv/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-united-states-senator-steve-daines-expresses-strong-concerns-to-directv/"
-    },
-    {
-      "text": "READ HERE: United States Senator Steve Daines Expresses Strong Concerns to DirecTV",
-      "url": "https://www.oann.com/read-here-united-states-senator-steve-daines-expresses-strong-concerns-to-directv/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-wv-ag-morrisey-and-oh-ag-yost-raise-concerns-with-directv-canceling-carriage-of-oan/"
-    },
-    {
-      "text": "READ HERE: WV AG Morrisey and OH AG Yost Raise Concerns with DirecTV Canceling Carriage of OAN",
-      "url": "https://www.oann.com/read-here-wv-ag-morrisey-and-oh-ag-yost-raise-concerns-with-directv-canceling-carriage-of-oan/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-texas-ag-ken-paxton-troubled-by-directvs-viewpoint-discrimination-against-oan/"
-    },
-    {
-      "text": "READ HERE: Texas AG Ken Paxton Troubled by DirecTV\u2019s Viewpoint Discrimination Against OAN",
-      "url": "https://www.oann.com/read-here-texas-ag-ken-paxton-troubled-by-directvs-viewpoint-discrimination-against-oan/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-oan-files-lawsuit-against-directv-att-and-att-chairman-william-kennard/"
-    },
-    {
-      "text": "READ HERE: OAN Files Lawsuit Against DirecTV, AT&T, And AT&T Chairman William Kennard",
-      "url": "https://www.oann.com/read-here-oan-files-lawsuit-against-directv-att-and-att-chairman-william-kennard/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/read-here-senator-mike-lee-and-senator-ted-cruz-raise-grave-concern-for-the-future-of-journalism-and-political-discourse/"
-    },
-    {
-      "text": "READ HERE: Senator Mike Lee and Senator Ted Cruz Raise Grave Concern for the Future of Journalism and Political Discourse",
-      "url": "https://www.oann.com/read-here-senator-mike-lee-and-senator-ted-cruz-raise-grave-concern-for-the-future-of-journalism-and-political-discourse/"
-    },
-    {
-      "text": "Contact",
-      "url": "https://www.oann.com/contactus/"
-    },
-    {
-      "text": "Where to Watch",
-      "url": "https://www.oann.com/wheretowatch/"
-    },
-    {
-      "text": "Affiliate Relations",
-      "url": "https://www.oann.com/affiliaterelations/"
-    },
-    {
-      "text": "Brand",
-      "url": "https://www.oann.com/brand-id/"
-    },
-    {
-      "text": "Careers",
-      "url": "https://www.oann.com/careers/"
-    },
-    {
-      "text": "Terms",
-      "url": "http://www.oann.com/terms.html"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.oann.com/app-privacy/"
-    },
-    {
-      "text": "Cookie Policy",
-      "url": "https://www.oann.com/cookie-policy/"
-    }
-  ],
-  "server": "ia601507.us.archive.org",
-  "uniq": 2077750844,
+  "server": "ia801507.us.archive.org",
+  "uniq": 2114359234,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

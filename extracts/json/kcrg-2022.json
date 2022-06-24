@@ -1,5 +1,5 @@
 {
-  "created": 1656030006,
+  "created": 1656111474,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/28/items/kcrg-2022",
@@ -4024,31 +4024,199 @@
       "sha1": "7fff8932cdb493ef3e55dd9851d55a9a5cc6bbf7"
     },
     {
+      "name": "kcrg-2022-06-23T20:22:53.849555-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656033776",
+      "size": "34203",
+      "md5": "1bd0b87f252503b78d5459ef6528ca3e",
+      "crc32": "3f9d6048",
+      "sha1": "5aae2c2208c7fd003eb4b7cf3eba589471977855",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-23T20:22:53.849555-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656033778",
+      "size": "17940",
+      "md5": "26fbf9842b4f130f63281e70a60fc479",
+      "crc32": "3a671673",
+      "sha1": "948271fd72bea4d8521f4b6e5eff960c26d84b83",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-23T20:22:53.849555-05:00.jpg",
+      "source": "original",
+      "mtime": "1656033775",
+      "size": "340671",
+      "md5": "95f653c3f67132e8386f61c276ff4003",
+      "crc32": "c27c92ac",
+      "sha1": "41e4fc9d4c4f8d66f42d0fd0afbd5dd081475e67",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-23T20:22:53.849555-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-23T20:22:53.849555-05:00.jpg",
+      "mtime": "1656033833",
+      "size": "10413",
+      "md5": "25812bde3be356e6280f38292c48ae71",
+      "crc32": "1d5e04d7",
+      "sha1": "c1f9000da08991ca460fd686bb070253a1118e24"
+    },
+    {
+      "name": "kcrg-2022-06-24T04:16:35.580346-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656062199",
+      "size": "34297",
+      "md5": "66c0d50147a25d400a4873a32bf9ff22",
+      "crc32": "121e68e9",
+      "sha1": "ec775c99a74863af914ade5524613f6d38a5faeb",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-24T04:16:35.580346-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656062201",
+      "size": "17927",
+      "md5": "171691231d297e0d03e9a9012eebe04e",
+      "crc32": "5a875071",
+      "sha1": "1b409cd9ba7e263079a6bda0f063eef31d08ab7a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-24T04:16:35.580346-05:00.jpg",
+      "source": "original",
+      "mtime": "1656062197",
+      "size": "333070",
+      "md5": "4daea65a15d99ea8589dc144670184c3",
+      "crc32": "d2e8c699",
+      "sha1": "64f6f9454b372da105382471f3de0ec4ad39414e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-24T04:16:35.580346-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-24T04:16:35.580346-05:00.jpg",
+      "mtime": "1656062253",
+      "size": "10483",
+      "md5": "9738bc8a60a22bcbe89787755cbe46fb",
+      "crc32": "ed83dec5",
+      "sha1": "09ba55f152cfb1bd4f12dc70e77baf5300384638"
+    },
+    {
+      "name": "kcrg-2022-06-24T12:16:13.583886-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656090978",
+      "size": "34648",
+      "md5": "b38b643f74e019db0b10968fb2b1ecc2",
+      "crc32": "a1cada88",
+      "sha1": "03f556aa65c42c0d831e65699a4ad135a5777996",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-24T12:16:13.583886-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656090979",
+      "size": "18010",
+      "md5": "a5b01cb3cf49b941f3dbf18ebe548bff",
+      "crc32": "bbe21ac1",
+      "sha1": "5ab727cf3a02bb3e4c031ad19c32ec0b88769018",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-24T12:16:13.583886-05:00.jpg",
+      "source": "original",
+      "mtime": "1656090976",
+      "size": "331770",
+      "md5": "72bc17deea8632925906a8acb629cd74",
+      "crc32": "cd42c799",
+      "sha1": "a097d80e40b5771b41d1f31e69a4990094211334",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-24T12:16:13.583886-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-24T12:16:13.583886-05:00.jpg",
+      "mtime": "1656091034",
+      "size": "10506",
+      "md5": "1cce570a10c4d78ee44b0a30dc9cc1f3",
+      "crc32": "601892d5",
+      "sha1": "94a8d9d6df91a7a77524a3fb29773074a2ab0e41"
+    },
+    {
+      "name": "kcrg-2022-06-24T17:56:35.657050-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656111400",
+      "size": "34861",
+      "md5": "356554ac4a9801fd93869a2b1a20b90b",
+      "crc32": "8570d27b",
+      "sha1": "35064dd490657b4a4dbda45e6cb879414d364817",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-24T17:56:35.657050-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656111402",
+      "size": "18021",
+      "md5": "7204a15ca0ca2e3d1a6f4520048d9cad",
+      "crc32": "2a58be98",
+      "sha1": "b78edcdad4a0ee89418ab0f695801f6b86031184",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-24T17:56:35.657050-05:00.jpg",
+      "source": "original",
+      "mtime": "1656111398",
+      "size": "333114",
+      "md5": "c9ac9ab17acadd95a90e37917666f143",
+      "crc32": "f15ecfd4",
+      "sha1": "222bfde3e9d93068e4540a06a8f56af88ac9a3eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-24T17:56:35.657050-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-24T17:56:35.657050-05:00.jpg",
+      "mtime": "1656111454",
+      "size": "10219",
+      "md5": "fb2083e3e8cc021412dc6ce5869d445f",
+      "crc32": "673f0b05",
+      "sha1": "b867c3c4a8ea8c3ba2e798d71d99ee0daec826c4"
+    },
+    {
       "name": "kcrg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "31850d4cea1dce42adf329e082ebf1c6d41dd9fc",
-      "mtime": "1656004673",
-      "size": "80551",
-      "md5": "d570ff061b5739831b1d4a3c10b03177",
-      "crc32": "5aab21d8",
-      "sha1": "0dcbb70383638877cdb66640ed7cd6dca0d10fe7",
+      "btih": "9fd3e88d7a39845404d8ddcb55ac5e1da7ae3340",
+      "mtime": "1656111463",
+      "size": "83867",
+      "md5": "65d748ef4e4d7a49f637d09046dfbbc5",
+      "crc32": "2d16afed",
+      "sha1": "06f797de5f38e8497de984d7aa6f364cdcf6b05a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a646734bb81f1401dfd4d3fddefe6f0d",
+      "md5": "2dfb24e53cdc24f48f12546d20539dc0",
       "summation": "md5"
     },
     {
       "name": "kcrg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656004621",
-      "size": "446464",
-      "md5": "51d876cd7c1b919b703233c7f86511a7",
-      "crc32": "63c8fc33",
-      "sha1": "8013c8e503af0addc87b8c4fd2095827a08ea1b2",
+      "mtime": "1656111404",
+      "size": "466944",
+      "md5": "3c7ef46898b4c8bbeeb9e7b5e92a4fa9",
+      "crc32": "5b3a443e",
+      "sha1": "82e88c3a6d366588a0680ae1284f283856a7a33a",
       "format": "Metadata"
     },
     {
@@ -4062,703 +4230,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 386,
-  "item_last_updated": 1656004673,
-  "item_size": 39872314,
-  "kcrg-2022": [
-    {
-      "text": "Skip to content",
-      "url": "#main"
-    },
-    {
-      "text": "Show You Care",
-      "url": "/community"
-    },
-    {
-      "text": "Shop Local",
-      "url": "https://www.graytvlocal.com/market/eastern-iowa"
-    },
-    {
-      "text": "Student of the Month",
-      "url": "/news/education/student-of-the-month"
-    },
-    {
-      "text": "Everyday Families",
-      "url": "/everydayfamilies/"
-    },
-    {
-      "text": "Working Iowa",
-      "url": "/business"
-    },
-    {
-      "text": "Visit Iceland",
-      "url": "/page/iceland"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "85\u00b0Cedar Rapids, IA",
-      "url": "/weather/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "Video",
-      "url": "/video-gallery/news/"
-    },
-    {
-      "text": "News",
-      "url": "/news"
-    },
-    {
-      "text": "Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "Sports",
-      "url": "/content/sports/"
-    },
-    {
-      "text": "KCRG 9.2",
-      "url": "/9point2liveevents/"
-    },
-    {
-      "text": "Watch Live",
-      "url": "/livestream/"
-    },
-    {
-      "text": "Connect",
-      "url": "/about-us/contact-us/"
-    },
-    {
-      "text": "YouNews",
-      "url": "/community/user-content"
-    },
-    {
-      "text": "Home",
-      "url": "/homepage"
-    },
-    {
-      "text": "News",
-      "url": "/news"
-    },
-    {
-      "text": "Iowa",
-      "url": "/news/iowa"
-    },
-    {
-      "text": "National",
-      "url": "/news/national"
-    },
-    {
-      "text": "I9 Investigations",
-      "url": "/news/investigation"
-    },
-    {
-      "text": "Our Town",
-      "url": "/news/our-town/"
-    },
-    {
-      "text": "Working Iowa",
-      "url": "/business"
-    },
-    {
-      "text": "Watch Live",
-      "url": "/livestream/"
-    },
-    {
-      "text": "First Alert Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "First Alert Pinpoint Radar",
-      "url": "/weather/radar"
-    },
-    {
-      "text": "Cancellations",
-      "url": "/weather/closings"
-    },
-    {
-      "text": "Weather Radio",
-      "url": "https://www.kcrg.com/2021/04/15/kcrg-tv9-first-alert-storm-team-weather-radio-programming-events-in-2021/"
-    },
-    {
-      "text": "Severe Weather",
-      "url": "/weather/severeweather"
-    },
-    {
-      "text": "CityCAM Network",
-      "url": "/weather/cams"
-    },
-    {
-      "text": "Online Weather Academy",
-      "url": "/page/kcrg-online-weather-academy"
-    },
-    {
-      "text": "River Levels",
-      "url": "/page/river-levels/"
-    },
-    {
-      "text": "Map Room",
-      "url": "/weather/maproom"
-    },
-    {
-      "text": "WeatherCall",
-      "url": "/content/news/WeatherCall-339887552.html"
-    },
-    {
-      "text": "Freedom Festival",
-      "url": "/page/freedom-festival/"
-    },
-    {
-      "text": "Sports",
-      "url": "/content/sports/"
-    },
-    {
-      "text": "Hawkeyes",
-      "url": "/sports/college/iowa"
-    },
-    {
-      "text": "Cyclones",
-      "url": "/sports/college/iowa-state"
-    },
-    {
-      "text": "Panthers",
-      "url": "/sports/college/northern-iowa"
-    },
-    {
-      "text": "Athlete Of The Week",
-      "url": "/sports/athlete-of-the-week"
-    },
-    {
-      "text": "John's Big Ol' Fish",
-      "url": "/sports/fishing"
-    },
-    {
-      "text": "Scoreboard",
-      "url": "/sports/scoreboard"
-    },
-    {
-      "text": "Latest Videos",
-      "url": "/video-gallery/news/"
-    },
-    {
-      "text": "KCRG 9.2",
-      "url": "/9point2liveevents/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/about-us/contact-us"
-    },
-    {
-      "text": "Meet the Team",
-      "url": "/about-us/meet-the-team"
-    },
-    {
-      "text": "Advertise with us",
-      "url": "/page/advertise-with-us"
-    },
-    {
-      "text": "Submit a News Story",
-      "url": "/page/story-submission"
-    },
-    {
-      "text": "Jobs at KCRG",
-      "url": "https://gray.tv/careers#currentopenings"
-    },
-    {
-      "text": "KCRG-TV9 Daily Digest",
-      "url": "/newsletter/"
-    },
-    {
-      "text": "TV Listings",
-      "url": "/programming/schedule"
-    },
-    {
-      "text": "Show You Care",
-      "url": "/community"
-    },
-    {
-      "text": "Election Results",
-      "url": "/politics/election-results"
-    },
-    {
-      "text": "Everyday Families",
-      "url": "/everydayfamilies/"
-    },
-    {
-      "text": "YouNews",
-      "url": "/community/user-content"
-    },
-    {
-      "text": "Student of the Month",
-      "url": "/news/education/student-of-the-month"
-    },
-    {
-      "text": "Locals Love Us",
-      "url": "/page/locals-love-us/"
-    },
-    {
-      "text": "Circle - Country Music & Lifestyle",
-      "url": "http://www.circleallaccess.com/"
-    },
-    {
-      "text": "Gray DC Bureau",
-      "url": "https://www.graydc.com/"
-    },
-    {
-      "text": "PowerNation",
-      "url": "/powernation"
-    },
-    {
-      "text": "Investigate TV",
-      "url": "https://www.investigatetv.com/"
-    },
-    {
-      "text": "Latest Newscasts",
-      "url": "https://www.vuit.com/publishers/1/kcrg"
-    },
-    {
-      "text": "Press Releases",
-      "url": "/wires/press-releases"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/kcrgtv9"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/kcrgtv9"
-    },
-    {
-      "text": "",
-      "url": "https://www.twitter.com/KCRG"
-    },
-    {
-      "text": "",
-      "url": "https://www.youtube.com/user/kcrgdotcom"
-    },
-    {
-      "text": "FDA orders all Juul electronic cigarettes removed from US marketThe action is part of a sweeping effort by the Food and Drug Administration to bring scientific scrutiny to the multibillion-dollar vaping industry after years of regulatory delays.",
-      "url": "/2022/06/23/fda-orders-all-juul-electronic-cigarettes-removed-us-market/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/23/fda-orders-all-juul-electronic-cigarettes-removed-us-market/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/23/biden-administration-moves-expand-title-ix-protections/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/23/biden-administration-moves-expand-title-ix-protections/"
-    },
-    {
-      "text": "Biden administration moves to expand Title IX protections",
-      "url": "/2022/06/23/biden-administration-moves-expand-title-ix-protections/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/23/supreme-court-strikes-new-york-gun-law-major-ruling/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/23/supreme-court-strikes-new-york-gun-law-major-ruling/"
-    },
-    {
-      "text": " Supreme Court strikes New York gun law, expanding gun rights ",
-      "url": "/2022/06/23/supreme-court-strikes-new-york-gun-law-major-ruling/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/23/uvalde-mayor-calls-elementary-school-be-demolished/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/23/uvalde-mayor-calls-elementary-school-be-demolished/"
-    },
-    {
-      "text": " Uvalde mayor calls on elementary school to be demolished",
-      "url": "/2022/06/23/uvalde-mayor-calls-elementary-school-be-demolished/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/06/23/iowa-legal-aid-receives-14-million-federal-funding-help-people-impacted-by-derecho/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/23/iowa-legal-aid-receives-14-million-federal-funding-help-people-impacted-by-derecho/"
-    },
-    {
-      "text": " Iowa Legal Aid receives $1.4 million in federal funding to help people impacted by the derecho",
-      "url": "/2022/06/23/iowa-legal-aid-receives-14-million-federal-funding-help-people-impacted-by-derecho/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/2022/06/23/hy-vee-offering-covid-vaccines-kids/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/23/hy-vee-offering-covid-vaccines-kids/"
-    },
-    {
-      "text": "Hy-Vee Offering Covid Vaccines For Kids ",
-      "url": "/2022/06/23/hy-vee-offering-covid-vaccines-kids/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/06/23/eastern-iowa-food-banks-struggle-with-supply-demand-is-up/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/23/eastern-iowa-food-banks-struggle-with-supply-demand-is-up/"
-    },
-    {
-      "text": " Eastern Iowa food banks struggle with supply as demand is up",
-      "url": "/2022/06/23/eastern-iowa-food-banks-struggle-with-supply-demand-is-up/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/23/long-covid-can-affect-children-study-says/"
-    },
-    {
-      "text": " Long COVID can affect children, study says",
-      "url": "/2022/06/23/long-covid-can-affect-children-study-says/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/23/iowa-girl-wins-world-chess-championship/"
-    },
-    {
-      "text": " Iowa girl wins World Chess Championship",
-      "url": "/2022/06/23/iowa-girl-wins-world-chess-championship/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/22/crews-find-body-man-missing-under-collapsed-iowa-grain-silo/"
-    },
-    {
-      "text": " Crews find body of man missing under collapsed Iowa grain silo",
-      "url": "/2022/06/22/crews-find-body-man-missing-under-collapsed-iowa-grain-silo/"
-    },
-    {
-      "text": "",
-      "url": "/weather/radar/#click-through-url"
-    },
-    {
-      "text": "LATEST VIDEO",
-      "url": "/video/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/06/23/iowa-girl-wins-world-chess-championship/"
-    },
-    {
-      "text": "Iowa girl wins World Chess Championship",
-      "url": "/video/2022/06/23/iowa-girl-wins-world-chess-championship/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/06/23/univ-iowa-hospitals-clinics-urges-parents-vaccinate-kids-covid-/"
-    },
-    {
-      "text": "Univ. of Iowa Hospitals and Clinics urges parents to vaccinate kids for COVID-19",
-      "url": "/video/2022/06/23/univ-iowa-hospitals-clinics-urges-parents-vaccinate-kids-covid-/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/06/23/biden-meet-with-oil-companies-push-them-lower-costs/"
-    },
-    {
-      "text": "Biden to meet with oil companies to push them to lower costs",
-      "url": "/video/2022/06/23/biden-meet-with-oil-companies-push-them-lower-costs/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/06/23/luther-graduate-raising-money-children-ukraine-through-artwork-2/"
-    },
-    {
-      "text": "Luther graduate raising money for children in Ukraine through artwork",
-      "url": "/video/2022/06/23/luther-graduate-raising-money-children-ukraine-through-artwork-2/"
-    },
-    {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/23/iowa-democrats-push-keep-states-first-in-the-nation-caucus/"
-    },
-    {
-      "text": " Iowa Democrats push to keep state\u2019s first-in-the nation caucus",
-      "url": "/2022/06/23/iowa-democrats-push-keep-states-first-in-the-nation-caucus/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/06/22/more-data-we-have-more-easily-we-can-solve-any-problems-that-are-arising-iowa-schools-record-number-nonbinary-students/"
-    },
-    {
-      "text": " Iowa schools record number of nonbinary students",
-      "url": "/2022/06/22/more-data-we-have-more-easily-we-can-solve-any-problems-that-are-arising-iowa-schools-record-number-nonbinary-students/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/06/22/99-year-old-iowa-man-spreads-joy-online-one-joke-time/"
-    },
-    {
-      "text": " 99-year-old Iowa man spreads joy online one joke at a time",
-      "url": "/2022/06/22/99-year-old-iowa-man-spreads-joy-online-one-joke-time/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/06/23/luther-graduate-raising-money-children-ukraine-through-artwork/"
-    },
-    {
-      "text": " Luther graduate raising money for children in Ukraine through artwork",
-      "url": "/2022/06/23/luther-graduate-raising-money-children-ukraine-through-artwork/"
-    },
-    {
-      "text": "Our Town",
-      "url": "/2022/06/22/our-town-iowa-city-is-city-arts/"
-    },
-    {
-      "text": " Our Town: Iowa City is a city for the arts",
-      "url": "/2022/06/22/our-town-iowa-city-is-city-arts/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/06/23/oelwein-planning-tear-down-community-plaza/"
-    },
-    {
-      "text": " Oelwein planning to tear down Community Plaza",
-      "url": "/2022/06/23/oelwein-planning-tear-down-community-plaza/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/06/22/uihc-answers-questions-covid-vaccines-children-six-months-up/"
-    },
-    {
-      "text": " Univ. of Iowa Hospitals answers questions on COVID vaccines for children six months and up",
-      "url": "/2022/06/22/uihc-answers-questions-covid-vaccines-children-six-months-up/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/22/bystander-injured-des-moines-hy-vee-shooting-could-file-lawsuit/"
-    },
-    {
-      "text": " Bystander injured in Des Moines Hy-Vee shooting could file lawsuit",
-      "url": "/2022/06/22/bystander-injured-des-moines-hy-vee-shooting-could-file-lawsuit/"
-    },
-    {
-      "text": "Hawkeyes",
-      "url": "/2022/06/22/let-kids-decide-hawkeye-wave-music-selection-now-hands-kid-captains/"
-    },
-    {
-      "text": " \u2018Let the kids decide,\u2019 Hawkeye Wave music selection now in the hands of Kid Captains",
-      "url": "/2022/06/22/let-kids-decide-hawkeye-wave-music-selection-now-hands-kid-captains/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/22/suspect-pleads-not-guilty-killing-two-cedar-rapids-men/"
-    },
-    {
-      "text": "Suspect pleads not guilty to killing two Cedar Rapids men",
-      "url": "/2022/06/22/suspect-pleads-not-guilty-killing-two-cedar-rapids-men/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/22/city-dubuque-reminding-residents-that-consumer-fireworks-are-prohibited/"
-    },
-    {
-      "text": "City of Dubuque reminding residents that \u2018consumer fireworks\u2019 are prohibited",
-      "url": "/2022/06/22/city-dubuque-reminding-residents-that-consumer-fireworks-are-prohibited/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/22/woman-found-guilty-man-sentenced-prison-iowa-killing/"
-    },
-    {
-      "text": "Woman found guilty, man sentenced to prison for Iowa killing",
-      "url": "/2022/06/22/woman-found-guilty-man-sentenced-prison-iowa-killing/"
-    },
-    {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/22/uvalde-officer-husband-slain-teacher-detained-when-he-tried-save-wife-official-says/"
-    },
-    {
-      "text": " Uvalde officer and husband of slain teacher detained when he tried to save wife, official says",
-      "url": "/2022/06/22/uvalde-officer-husband-slain-teacher-detained-when-he-tried-save-wife-official-says/"
-    },
-    {
-      "text": "",
-      "url": "/2022/06/22/working-house-fire-grundy-county/"
-    },
-    {
-      "text": " Three displaced due to Grundy Center house fire",
-      "url": "/2022/06/22/working-house-fire-grundy-county/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/22/iowa-school-beauty-closing-ottumwa-campus/"
-    },
-    {
-      "text": "Iowa School of Beauty closing Ottumwa campus",
-      "url": "/2022/06/22/iowa-school-beauty-closing-ottumwa-campus/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/22/crews-continue-search-man-missing-under-collapsed-iowa-grain-silo/"
-    },
-    {
-      "text": " Crews continue search for man missing under collapsed Iowa grain silo",
-      "url": "/2022/06/22/crews-continue-search-man-missing-under-collapsed-iowa-grain-silo/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/06/22/field-dreams-tv-series-taking-applications-paid-extras/"
-    },
-    {
-      "text": "Field of Dreams TV series taking applications for paid extras",
-      "url": "/2022/06/22/field-dreams-tv-series-taking-applications-paid-extras/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/22/us-importing-baby-formula-mexico-ease-shortage/"
-    },
-    {
-      "text": " US importing baby formula from Mexico to ease shortage",
-      "url": "/2022/06/22/us-importing-baby-formula-mexico-ease-shortage/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/22/blaming-inflation-more-pet-owners-are-giving-up-their-pets/"
-    },
-    {
-      "text": " Blaming inflation, more pet owners are giving up their pets, shelter says",
-      "url": "/2022/06/22/blaming-inflation-more-pet-owners-are-giving-up-their-pets/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/22/biden-call-3-month-suspension-gas-diesel-taxes/"
-    },
-    {
-      "text": " Biden calls for 3-month suspension of gas and diesel taxes",
-      "url": "/2022/06/22/biden-call-3-month-suspension-gas-diesel-taxes/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/22/senators-reach-bipartisan-compromise-gun-violence-bill/"
-    },
-    {
-      "text": " Senators reach bipartisan compromise on gun violence bill",
-      "url": "/2022/06/22/senators-reach-bipartisan-compromise-gun-violence-bill/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/06/22/afghanistan-earthquake-kills-least-155-people/"
-    },
-    {
-      "text": " Afghanistan quake kills 1,000 people, deadliest in decades ",
-      "url": "/2022/06/22/afghanistan-earthquake-kills-least-155-people/"
-    },
-    {
-      "text": "News",
-      "url": "/news"
-    },
-    {
-      "text": "First Alert Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "Sports",
-      "url": "/content/sports/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/about-us/contact-us"
-    },
-    {
-      "text": "YouNews",
-      "url": "/community/user-content"
-    },
-    {
-      "text": "First Alert Pinpoint Radar",
-      "url": "/weather/radar"
-    },
-    {
-      "text": "KCRG 9.2",
-      "url": "/9point2liveevents/"
-    },
-    {
-      "text": "Submit a News Story",
-      "url": "/page/story-submission"
-    },
-    {
-      "text": "Show You Care",
-      "url": "/community"
-    },
-    {
-      "text": "Cancellations",
-      "url": "/weather/closings"
-    },
-    {
-      "text": "Athlete Of The Week",
-      "url": "/sports/athlete-of-the-week"
-    },
-    {
-      "text": "Advertise with us",
-      "url": "/page/advertise-with-us"
-    },
-    {
-      "text": "TV Listings",
-      "url": "/programming/schedule"
-    },
-    {
-      "text": "Public Inspection File",
-      "url": "https://publicfiles.fcc.gov/tv-profile/KCRG-TV"
-    },
-    {
-      "text": "FCC Applications",
-      "url": "https://webpubcontent.gray.tv/gdm/fcc/kcrg-fcc_applications.pdf"
-    },
-    {
-      "text": "programming@kcrg.com - (319) 399-5999",
-      "url": "mailto:programming@kcrg.com"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "/terms-of-service/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy-policy/"
-    },
-    {
-      "text": "EEO Statement",
-      "url": "https://publicfiles.fcc.gov/api/manager/download/3278d7da-297b-1522-bdd0-1a38f1a43ada/6ed99e44-9716-4a7f-8cd8-295e4554d8d8.pdf"
-    },
-    {
-      "text": "Advertising",
-      "url": "/advertising/"
-    },
-    {
-      "text": "search by queryly ",
-      "url": "https://www.queryly.com/"
-    },
-    {
-      "text": "Advanced Search",
-      "url": "#"
-    }
-  ],
+  "files_count": 402,
+  "item_last_updated": 1656111463,
+  "item_size": 41486263,
   "metadata": {
     "identifier": "kcrg-2022",
     "collection": [
@@ -4776,7 +4250,7 @@
     "addeddate": "2022-03-25 03:35:21"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 1996083237,
+  "uniq": 1896679943,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1656030250,
+  "created": 1656111909,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/9/items/vcstar-2022",
@@ -7022,31 +7022,199 @@
       "sha1": "6cdfa95446a536eec5e70079c9a2932b6dc94e78"
     },
     {
+      "name": "vcstar-2022-06-23T18:26:47.829733-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656034012",
+      "size": "19447",
+      "md5": "4a814ab7a3358237f0649074fcbb1f5a",
+      "crc32": "d2d32954",
+      "sha1": "ab9836cfec87e7be2d23af55dbc97227892b51c7",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-06-23T18:26:47.829733-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656034014",
+      "size": "32226",
+      "md5": "25b8843cea00bb2105a5f559e963f500",
+      "crc32": "b4c40b3c",
+      "sha1": "a58e25e5cf69e108a3d1790b9802eb26beff2258",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-06-23T18:26:47.829733-07:00.jpg",
+      "source": "original",
+      "mtime": "1656034009",
+      "size": "346692",
+      "md5": "3f3f0198884d6cf919df9e77e84a3a55",
+      "crc32": "4e9067c2",
+      "sha1": "75bd7eaeda97ab0ab85b87a025dcad4f5af53919",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vcstar-2022-06-23T18:26:47.829733-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vcstar-2022-06-23T18:26:47.829733-07:00.jpg",
+      "mtime": "1656034063",
+      "size": "8398",
+      "md5": "39caade9d1b0f16ca1ef984b3847bc24",
+      "crc32": "f3872d3c",
+      "sha1": "d0973b67f1e1d8261febe9c371375e1ecd748362"
+    },
+    {
+      "name": "vcstar-2022-06-24T02:20:33.449554-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656062436",
+      "size": "18901",
+      "md5": "58b4916fa2111495f785ce3e25877ada",
+      "crc32": "58cb21c7",
+      "sha1": "d62440c013f42bd99207be19140615644bf909a0",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-06-24T02:20:33.449554-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656062438",
+      "size": "27316",
+      "md5": "1ac02ea1b46fccb2dc95f3620078ca62",
+      "crc32": "312833c2",
+      "sha1": "661b63e4a91d216143685e321c2102eee9489860",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-06-24T02:20:33.449554-07:00.jpg",
+      "source": "original",
+      "mtime": "1656062435",
+      "size": "358196",
+      "md5": "1c6879cd13e74229c742940a74ee3418",
+      "crc32": "e2b1e0e2",
+      "sha1": "35142639b4e08a95145853be41ab86d0fe651957",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vcstar-2022-06-24T02:20:33.449554-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vcstar-2022-06-24T02:20:33.449554-07:00.jpg",
+      "mtime": "1656062541",
+      "size": "8664",
+      "md5": "9a011f3dfc8321447efc30d098a1ae9b",
+      "crc32": "d9cbddc6",
+      "sha1": "8916dd1f593c947c3cf49c9e5f4895ce3774181e"
+    },
+    {
+      "name": "vcstar-2022-06-24T10:21:09.668467-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656091275",
+      "size": "20328",
+      "md5": "182f616cf087483d45bd76a9e38d9255",
+      "crc32": "9fa4155d",
+      "sha1": "90c68e9b6514296156909ddb87eeffc4165354cb",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-06-24T10:21:09.668467-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656091277",
+      "size": "32217",
+      "md5": "ee9516e3bda2827f8a4e8e7d45dac39b",
+      "crc32": "6d03ae87",
+      "sha1": "aa39d118bcca6a5690437e148a986604976a338a",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-06-24T10:21:09.668467-07:00.jpg",
+      "source": "original",
+      "mtime": "1656091273",
+      "size": "350323",
+      "md5": "acf2a055042b108a0fb66083f5f1c355",
+      "crc32": "193a0c56",
+      "sha1": "d1370b281b6bc1363627aafadb908c415cbe6ae6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vcstar-2022-06-24T10:21:09.668467-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vcstar-2022-06-24T10:21:09.668467-07:00.jpg",
+      "mtime": "1656091341",
+      "size": "8909",
+      "md5": "622819cb1926b87398fd1914d7b66153",
+      "crc32": "74077d72",
+      "sha1": "428d46d7a6c88226db5b4cdf5ddb985d05ee3cf3"
+    },
+    {
+      "name": "vcstar-2022-06-24T16:03:05.631895-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656111795",
+      "size": "19828",
+      "md5": "f9e0a592e761a9d55e116ac2790525a4",
+      "crc32": "5dcdb934",
+      "sha1": "dc15fe03d768ab0093821deadded45767f9aaea0",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-06-24T16:03:05.631895-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656111797",
+      "size": "31562",
+      "md5": "7910a80b2d6cb1d48a77f057b83b1a6b",
+      "crc32": "e3a6615d",
+      "sha1": "d21bc752c3261b2fd3d1a3a48b0af39b63c81744",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-06-24T16:03:05.631895-07:00.jpg",
+      "source": "original",
+      "mtime": "1656111793",
+      "size": "291810",
+      "md5": "1abdf8a92610d208bfd6ae672680ad7d",
+      "crc32": "47e2e6b0",
+      "sha1": "025ee80eb19e34be20e0c157df81842fc3cb0c74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vcstar-2022-06-24T16:03:05.631895-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vcstar-2022-06-24T16:03:05.631895-07:00.jpg",
+      "mtime": "1656111884",
+      "size": "8540",
+      "md5": "d7a96c40af021cfd99e821c2f353dde1",
+      "crc32": "f5a687c9",
+      "sha1": "16f81ddc2d1b405bd5f7e11a304051c4756c6686"
+    },
+    {
       "name": "vcstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "76f0be9cbdb5844600bae0ec17c2d2af645f278b",
-      "mtime": "1656005012",
-      "size": "140542",
-      "md5": "5278b557530c1caf301dd8a579faed36",
-      "crc32": "f2e902af",
-      "sha1": "a4599ba1744e49d53c304dded7e10e8e5f00fdd4",
+      "btih": "397c1e43ba36fa5a2cd676ffe08010169df34efc",
+      "mtime": "1656111894",
+      "size": "143886",
+      "md5": "4cbf7757d490474734631ae08312f9f8",
+      "crc32": "73564920",
+      "sha1": "57298590dcbb17d2b19b3b103567c1486754b25d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vcstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a25c48a51fb31389a970eefcaf22971f",
+      "md5": "70d8afca4bac2bfe719b5d1192c54801",
       "summation": "md5"
     },
     {
       "name": "vcstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656004960",
-      "size": "765952",
-      "md5": "045413bed7a829096064e10f30553627",
-      "crc32": "9be9705a",
-      "sha1": "78785e54684f0fbde3301127c86542933c86fb24",
+      "mtime": "1656111801",
+      "size": "786432",
+      "md5": "e465884ca93758ccda54f6e3f95d51d4",
+      "crc32": "fb92d9b8",
+      "sha1": "0ba0ab3d2c0e0a5906ec6e89a001aedb8ff0038d",
       "format": "Metadata"
     },
     {
@@ -7060,9 +7228,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 671,
-  "item_last_updated": 1656005012,
-  "item_size": 62582938,
+  "files_count": 687,
+  "item_last_updated": 1656111894,
+  "item_size": 64190119,
   "metadata": {
     "identifier": "vcstar-2022",
     "collection": [
@@ -7079,600 +7247,10 @@
     "publicdate": "2022-03-23 02:10:28",
     "addeddate": "2022-03-23 02:10:28"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 401983622,
-  "vcstar-2022": [
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.vcstar.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.vcstar.com%2F"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.vcstar.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.vcstar.com%2F"
-    },
-    {
-      "text": "News",
-      "url": "/news/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "Opinion",
-      "url": "/opinion/"
-    },
-    {
-      "text": "Education",
-      "url": "https://www.vcstar.com/news/schoolwatch/"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/lifestyle/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "https://www.vcstar.com/obituaries"
-    },
-    {
-      "text": "E-Edition",
-      "url": "https://user.vcstar.com/user/enewspaper"
-    },
-    {
-      "text": "Legals",
-      "url": "http://classifieds.vcstar.com/"
-    },
-    {
-      "text": "",
-      "url": "/search/"
-    },
-    {
-      "text": "",
-      "url": "/weather/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.vcstar.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.vcstar.com%2F"
-    },
-    {
-      "text": "",
-      "url": "https://login.vcstar.com/PVCS-GUP/authenticate?success-url=https%3A%2F%2Fwww.vcstar.com%2F&cancel-url=https%3A%2F%2Fwww.vcstar.com%2F"
-    },
-    {
-      "text": " Historic Ventura home tied to E.P. Foster on market",
-      "url": "/story/news/local/communities/ventura/2022/06/23/historic-ventura-home-tied-e-p-foster-market/7642276001/"
-    },
-    {
-      "text": "State honors Moorpark College veteran animal trainer",
-      "url": "/story/news/2022/06/22/moorpark-college-zoo-veteran-honored-state-community-college-board/7624694001/"
-    },
-    {
-      "text": "Port Hueneme skirts Brown Act violation liability",
-      "url": "/story/news/2022/06/22/port-hueneme-skirts-brown-act-violation-liability/7689325001/"
-    },
-    {
-      "text": "Roundup: Child porn allegations in TO man's arrest, more",
-      "url": "/story/news/local/communities/county/2022/06/22/newbury-park-man-arrested-suspicion-child-porn-more-county-news/7703550001/"
-    },
-    {
-      "text": " Driver dead in fiery Thousand Oaks crash",
-      "url": "/story/news/local/communities/county/2022/06/21/man-dies-solo-vehicle-crash-thousand-oaks/7688841001/"
-    },
-    {
-      "text": " UPDATE: No motive for Oxnard Transportation Ctr\u2026",
-      "url": "/story/news/2022/06/19/2-dead-shooting-oxnard-transportation-center/7678263001/"
-    },
-    {
-      "text": " Election officials tell Jan. 6 hearing of threats\u2026",
-      "url": "/story/news/politics/2022/06/21/jan-6-hearing-day-4-live-updates/7658905001/"
-    },
-    {
-      "text": " Micaela Kastor is The Star's Softball Player of the Year",
-      "url": "/story/sports/high-school/softball/2022/06/21/micaela-kastor-stars-softball-player-year/7536185001/"
-    },
-    {
-      "text": " Agoura's Jake East is The Star's Boys Lacrosse Player of\u2026",
-      "url": "/story/sports/high-school/lacrosse/2022/06/22/agouras-jake-east-stars-boys-lacrosse-player-year/7466062001/"
-    },
-    {
-      "text": " Landmark Supreme Court ruling puts target on California gun laws\u00a0",
-      "url": "/story/news/nation/california/2022/06/23/2nd-amendment-supreme-court-ruling-new-york-target-california-gun-laws-ccw-concealed-guns-control/7712492001/"
-    },
-    {
-      "text": "See Ventura home with ties to E.P. Foster\u00a0",
-      "url": "/picture-gallery/news/2022/06/23/see-historic-ventura-home-ties-e-p-foster-thats-up-sale/7707484001/"
-    },
-    {
-      "text": " Historic Ventura home tied to E.P. Foster on market\u00a0",
-      "url": "/story/news/local/communities/ventura/2022/06/23/historic-ventura-home-tied-e-p-foster-market/7642276001/"
-    },
-    {
-      "text": "More in News",
-      "url": "/news/"
-    },
-    {
-      "text": " Agoura's Jake East is The Star's Boys Lacrosse Player of the Year\u00a0",
-      "url": "/story/sports/high-school/lacrosse/2022/06/22/agouras-jake-east-stars-boys-lacrosse-player-year/7466062001/"
-    },
-    {
-      "text": "The Star's All-County Boys Lacrosse First Team\u00a0",
-      "url": "/picture-gallery/sports/2022/06/22/stars-all-county-boys-lacrosse-first-team-2022-season/7690300001/"
-    },
-    {
-      "text": " Micaela Kastor is The Star's Softball Player of the Year\u00a0",
-      "url": "/story/sports/high-school/softball/2022/06/21/micaela-kastor-stars-softball-player-year/7536185001/"
-    },
-    {
-      "text": "More in Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": " Thousands Oaks art museum closes doors permanently\u00a0",
-      "url": "/story/news/2022/06/20/california-museum-of-art-thousand-oaks-permanently-closes/7665305001/"
-    },
-    {
-      "text": " Local college grads may have to move to find good jobs\u00a0",
-      "url": "/story/news/local/2022/06/16/bullish-bearish-jobs-market-local-college-grads-experts-differ/7456116001/"
-    },
-    {
-      "text": " T.O. pet shelter no longer lets some gun owners adopt\u00a0",
-      "url": "/story/news/local/communities/conejo-valley/2022/06/15/t-o-pet-shelter-no-longer-lets-some-gun-owners-adopt/7633647001/"
-    },
-    {
-      "text": "More in Business",
-      "url": "/business/"
-    },
-    {
-      "text": " Gas prices trigger Pavlovian political promises\u00a0Dan Walters\u00a0",
-      "url": "/story/opinion/columnists/2022/06/22/gas-prices-trigger-pavlovian-political-promises/7699934001/"
-    },
-    {
-      "text": " California Legislature ventures into entertainment industry snake pit\u00a0Dan Walters\u00a0",
-      "url": "/story/opinion/columnists/2022/06/21/california-legislature-ventures-into-entertainment-industry-snake-pit/7688928001/"
-    },
-    {
-      "text": " Should California tax housing speculators, flippers?\u00a0Tom Elias\u00a0",
-      "url": "/story/opinion/columnists/2022/06/20/affordability-answer-new-tax-housing-speculators/7681878001/"
-    },
-    {
-      "text": "More in Opinion",
-      "url": "/opinion/"
-    },
-    {
-      "text": " Four bands booked for Camarillo summer concert series\u00a0",
-      "url": "/story/news/2022/06/20/four-bands-booked-camarillo-summer-concert-series/7664537001/"
-    },
-    {
-      "text": " Conejo Valley Days wrangles its 66th edition\u00a0",
-      "url": "/story/news/local/communities/conejo-valley/2022/06/18/conejo-valley-days-66th-edition-thousand-oaks/7654082001/"
-    },
-    {
-      "text": " Hip-hop, country music, tequila in store for Surfer's Point\u00a0",
-      "url": "/story/news/local/communities/ventura/2022/06/12/lil-jon-sugar-ray-cole-swindell-set-headline-summer-festivals-ventura-county-fairgrounds/7581398001/"
-    },
-    {
-      "text": "More in Entertainment",
-      "url": "/entertainment/"
-    },
-    {
-      "text": " Eco-tip: Mattress recycling starts with retailers\u00a0",
-      "url": "/story/news/local/2022/06/19/eco-tip-mattress-recycling-options-start-retailers/7635296001/"
-    },
-    {
-      "text": " Eco-tip: Grass can survive watering restrictions\u00a0",
-      "url": "/story/news/2022/06/12/eco-tip-grass-can-survive-new-watering-restrictions/7593690001/"
-    },
-    {
-      "text": " Eco-tip: Water softening can be hard on the environment\u00a0",
-      "url": "/story/news/2022/06/05/eco-tip-water-softening-can-hard-environment/9975706002/"
-    },
-    {
-      "text": "More in Lifestyle",
-      "url": "/lifestyle/"
-    },
-    {
-      "text": "",
-      "url": "/picture-gallery/news/2022/06/22/roadside-memorial-oxnard-honors-port-hueneme-teen-daniel-llanez/7701577001/"
-    },
-    {
-      "text": "ENTER TODAY!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://usatoday.secondstreetapp.com/1000-MetaWomen-NFT/?itm_campaign=MetaWomen%20NFT&itm_medium=con&itm_source=secondStreet"
-    },
-    {
-      "text": "Enter Now!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://usatoday.secondstreetapp.com/Bourbon-and-Beyond-VIP-Experience/?itm_campaign=Bourbon%20and%20Beyond%20VIP%20NON%20Louisville&itm_medium=con&itm_source=secondStreet"
-    },
-    {
-      "text": "Enter Every Day\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://usatoday.secondstreetapp.com/AIA-Vanity-Glam-Mirror-Giveaway/?itm_campaign=AIA%20Glam%20Mirror%20Sweeps&itm_medium=con&itm_source=secondStreet"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "Babbel",
-      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=gannettcompany-vcstar&utm_content=1053396_8026037_3433080754&tcid=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4oupaa6KCUidiJAQ&tblci=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4oupaa6KCUidiJAQ#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4oupaa6KCUidiJAQ"
-    },
-    {
-      "text": "Want To Speak Spanish This Summer... Here's The AnswerBabbel|",
-      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=gannettcompany-vcstar&utm_content=1053396_8026037_3433080754&tcid=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4oupaa6KCUidiJAQ&tblci=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4oupaa6KCUidiJAQ#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4oupaa6KCUidiJAQ"
-    },
-    {
-      "text": "",
-      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=gannettcompany-vcstar&utm_content=1053396_8026037_3433080754&tcid=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4oupaa6KCUidiJAQ&tblci=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4oupaa6KCUidiJAQ#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4oupaa6KCUidiJAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Particle for Men",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCc4Ekozb6dw4mvjMAp"
-    },
-    {
-      "text": "Men Only - How to Tighten Eyebags (Do This Twice a Day)The 6-in-1 anti-aging cream for menParticle for Men|",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCc4Ekozb6dw4mvjMAp"
-    },
-    {
-      "text": "",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCc4Ekozb6dw4mvjMAp"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Capital One Shopping",
-      "url": "https://capitaloneshopping.com/blog/is-amazon-actually-giving-you-the-best-price-779e00e8958e?hno=true&utm_source=jaguar11&utm_campaign=6435587&utm_term=3434279574&tblci=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDR3kAolPmioe2DqvGMAQ#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDR3kAolPmioe2DqvGMAQ"
-    },
-    {
-      "text": "Prime Members: Stop Paying Full Price On Amazon [Here's How]Capital One Shopping|",
-      "url": "https://capitaloneshopping.com/blog/is-amazon-actually-giving-you-the-best-price-779e00e8958e?hno=true&utm_source=jaguar11&utm_campaign=6435587&utm_term=3434279574&tblci=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDR3kAolPmioe2DqvGMAQ#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDR3kAolPmioe2DqvGMAQ"
-    },
-    {
-      "text": "",
-      "url": "https://capitaloneshopping.com/blog/is-amazon-actually-giving-you-the-best-price-779e00e8958e?hno=true&utm_source=jaguar11&utm_campaign=6435587&utm_term=3434279574&tblci=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDR3kAolPmioe2DqvGMAQ#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDR3kAolPmioe2DqvGMAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "SUV Deals | Search Ads",
-      "url": "https://mysearches.net/index.php?rgid=184185&sub=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCjxUIo-qbqpYqqh88Z"
-    },
-    {
-      "text": "San Francisco: Unsold Never-Driven Cars Now Almost Being Given Away: See PricesSUV Deals | Search Ads|",
-      "url": "https://mysearches.net/index.php?rgid=184185&sub=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCjxUIo-qbqpYqqh88Z"
-    },
-    {
-      "text": "",
-      "url": "https://mysearches.net/index.php?rgid=184185&sub=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCjxUIo-qbqpYqqh88Z"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Cell Phone Deals | Sponsored Searches",
-      "url": "https://gosearches.net/index.php?rgid=175901&sub=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSD6wlUo7tea5pneoJhB"
-    },
-    {
-      "text": "San Francisco: Unsold Phones Are Almost Being Given AwayCell Phone Deals | Sponsored Searches|",
-      "url": "https://gosearches.net/index.php?rgid=175901&sub=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSD6wlUo7tea5pneoJhB"
-    },
-    {
-      "text": "",
-      "url": "https://gosearches.net/index.php?rgid=175901&sub=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSD6wlUo7tea5pneoJhB"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "NerdWallet NMLS ID# 1617539",
-      "url": "https://www.nerdwallet.com/ur/?utm_content=991b65&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=gannettcompany-vcstar&mktg_link=3136941431#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCpiEEoufqk_NrHp-fPAQ"
-    },
-    {
-      "text": "House Hunting in San Francisco? Try NerdWallet to CompareNerdWallet NMLS ID# 1617539|",
-      "url": "https://www.nerdwallet.com/ur/?utm_content=991b65&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=gannettcompany-vcstar&mktg_link=3136941431#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCpiEEoufqk_NrHp-fPAQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.nerdwallet.com/ur/?utm_content=991b65&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=gannettcompany-vcstar&mktg_link=3136941431#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCpiEEoufqk_NrHp-fPAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "NerdWallet NMLS ID# 1617539",
-      "url": "https://www.nerdwallet.com/ur/?utm_content=991b64&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=gannettcompany-vcstar&mktg_link=3136941428#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCpiEEox-iAnYLF78LtAQ"
-    },
-    {
-      "text": "San Francisco: Need More Space? Compare Mortgage LendersNerdWallet NMLS ID# 1617539|",
-      "url": "https://www.nerdwallet.com/ur/?utm_content=991b64&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=gannettcompany-vcstar&mktg_link=3136941428#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCpiEEox-iAnYLF78LtAQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.nerdwallet.com/ur/?utm_content=991b64&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=gannettcompany-vcstar&mktg_link=3136941428#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCpiEEox-iAnYLF78LtAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Alaska Cruise Deals | sponsored searches",
-      "url": "https://gosearches.net/index.php?rgid=134812&sub=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCjoVIo6fXFgLC-8r0S"
-    },
-    {
-      "text": "Unsold Alaska Cruise Cabins Huge Clearance SaleAlaska Cruise Deals | sponsored searches|",
-      "url": "https://gosearches.net/index.php?rgid=134812&sub=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCjoVIo6fXFgLC-8r0S"
-    },
-    {
-      "text": "",
-      "url": "https://gosearches.net/index.php?rgid=134812&sub=gannettcompany-vcstar#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSCjoVIo6fXFgLC-8r0S"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Crews battle brush fires outside Santa Paula, Fillmore",
-      "url": "/story/news/local/communities/fillmore/2022/06/22/toland-fire-burns-foothills-near-santa-paula-fillmore/7699797001/"
-    },
-    {
-      "text": "County spokeswoman arrested in suspected DUI hit-and-run",
-      "url": "/story/news/local/communities/ventura/2022/06/21/ventura-county-spokeswoman-ashley-bautista-arrested-dui-hit-and-run/7689023001/"
-    },
-    {
-      "text": "County budget up $147 million as staffing, liability costs grow",
-      "url": "/story/news/2022/06/22/county-budget-up-147-million-staffing-liability-costs-grow/7678609001/"
-    },
-    {
-      "text": "Channel Islands topic of Ventura community meeting",
-      "url": "/story/news/local/communities/ventura/2022/06/21/channel-islands-topic-ventura-community-meeting/7688134001/"
-    },
-    {
-      "text": "Apple's new operating system named after Ventura",
-      "url": "/story/news/local/communities/county/2022/06/21/macos-ventura-apple-operating-system-macbook-iphone-california/10004349002/"
-    },
-    {
-      "text": "",
-      "url": "https://cm.vcstar.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.vcstar.com%2F&marketName=vcstar&cta=Right-Rail"
-    },
-    {
-      "text": "Babbel",
-      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=gannettcompany-vcstar&utm_content=1053396_8026037_3433080754&tcid=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4o36_14Pqh-efWAQ&tblci=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4o36_14Pqh-efWAQ#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4o36_14Pqh-efWAQ"
-    },
-    {
-      "text": "Want To Speak Spanish This Summer... Here's The AnswerBabbel|",
-      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=gannettcompany-vcstar&utm_content=1053396_8026037_3433080754&tcid=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4o36_14Pqh-efWAQ&tblci=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4o36_14Pqh-efWAQ#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4o36_14Pqh-efWAQ"
-    },
-    {
-      "text": "",
-      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=gannettcompany-vcstar&utm_content=1053396_8026037_3433080754&tcid=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4o36_14Pqh-efWAQ&tblci=GiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4o36_14Pqh-efWAQ#tblciGiAUX2XYp1z8L6g-mabk8-fLQZKRw994Exm2530eQTF1VSDvpz4o36_14Pqh-efWAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
-    },
-    {
-      "text": "About Us",
-      "url": "https://marketing.usatoday.com/about-us/"
-    },
-    {
-      "text": "Staff Directory",
-      "url": "https://www.vcstar.com/contact/staff/"
-    },
-    {
-      "text": "Careers",
-      "url": "http://www.gannett.com/careers/"
-    },
-    {
-      "text": "Accessibility Support",
-      "url": "https://cm.vcstar.com/accessibility"
-    },
-    {
-      "text": "Site Map",
-      "url": "/sitemap/"
-    },
-    {
-      "text": "Legals",
-      "url": "http://classifieds.vcstar.com/"
-    },
-    {
-      "text": "Our Ethical Principles",
-      "url": "https://cm.vcstar.com/ethical-conduct"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://cm.vcstar.com/terms"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://cm.vcstar.com/privacy"
-    },
-    {
-      "text": "Your California Privacy Rights / Privacy Policy",
-      "url": "https://cm.vcstar.com/privacy-policy/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://help.vcstar.com/contact-us"
-    },
-    {
-      "text": "Support Local Businesses",
-      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=ventura"
-    },
-    {
-      "text": "Advertise Your Business",
-      "url": "https://localiq.com/markets/California/"
-    },
-    {
-      "text": "Advertising Terms and Conditions",
-      "url": "https://cm.vcstar.com/advertising-terms-conditions"
-    },
-    {
-      "text": "Buy and Sell",
-      "url": "/placead/"
-    },
-    {
-      "text": "Help Center",
-      "url": "https://help.vcstar.com/"
-    },
-    {
-      "text": "Subscriber Guide",
-      "url": "https://cm.vcstar.com/subscriberguide"
-    },
-    {
-      "text": "My Account",
-      "url": "https://account.vcstar.com/"
-    },
-    {
-      "text": "Give Feedback",
-      "url": "https://cm.vcstar.com/site-feedback/"
-    },
-    {
-      "text": "Licensing & Reprints",
-      "url": "https://imagn.com/licensing-reprints/"
-    },
-    {
-      "text": "Promote Your Event",
-      "url": "https://new.evvnt.com/?with_navbar&partner=VCSTAR&publisher_id=7836&partner_name=Ventura%20County%20Star"
-    },
-    {
-      "text": "Subscribe Today",
-      "url": "https://subscribe.vcstar.com/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://profile.vcstar.com/newsletters/manage"
-    },
-    {
-      "text": "Mobile Apps",
-      "url": "https://www.vcstar.com/subscriberguide/apps/"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/vcstar"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/vcstar"
-    },
-    {
-      "text": "E-Edition",
-      "url": "https://user.vcstar.com/user/enewspaper"
-    },
-    {
-      "text": "Storytellers",
-      "url": "https://www.storytellersproject.com/"
-    },
-    {
-      "text": "Archives",
-      "url": "https://www.tkqlhce.com/click-100489949-11570746?url=https://vcstar.newspapers.com/?xid=3885"
-    },
-    {
-      "text": "RSS Feeds",
-      "url": "http://static.vcstar.com/rss/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://www.vcstar.com/jobs/"
-    },
-    {
-      "text": "Cars",
-      "url": "https://www.vcstar.com/cars/"
-    },
-    {
-      "text": "Homes",
-      "url": "http://venturacounty.neighborhoodscope.com/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "http://classifieds.vcstar.com"
-    },
-    {
-      "text": "Education",
-      "url": "https://gannettmediaeducation.gannett.com/"
-    },
-    {
-      "text": "Events",
-      "url": "/things-to-do/events"
-    },
-    {
-      "text": "Reviewed",
-      "url": "https://www.reviewed.com/"
-    },
-    {
-      "text": "USA TODAY Sports+",
-      "url": "https://www.usatodaysportsplus.com/"
-    },
-    {
-      "text": "10Best",
-      "url": "https://www.10best.com/"
-    },
-    {
-      "text": "Reach Local",
-      "url": "http://www.reachlocal.com/us/en"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/ccpa-privacy/"
-    }
-  ],
+  "server": "ia902503.us.archive.org",
+  "uniq": 1807749905,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }
