@@ -1,5 +1,5 @@
 {
-  "created": 1655770805,
+  "created": 1656026712,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/motherjones-2022",
@@ -646,31 +646,493 @@
       "sha1": "e37f71e18b2e92437c195f24c6716656a9bed315"
     },
     {
+      "name": "motherjones-2022-06-20T18:33:49.053542-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775232",
+      "size": "34101",
+      "md5": "0fa6f9e35fc13c912a7974ad95311712",
+      "crc32": "e492a69c",
+      "sha1": "a61d4225dc12e98b0dc98748bfc893c23d8b0966",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-20T18:33:49.053542-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775233",
+      "size": "28633",
+      "md5": "6194d61ab6bf973c78de94061876dbf0",
+      "crc32": "b85a9a59",
+      "sha1": "63a275878d81b760c91f5fd550f2c25382c437b7",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-20T18:33:49.053542-07:00.jpg",
+      "source": "original",
+      "mtime": "1655775231",
+      "size": "283282",
+      "md5": "b1eb89e4ac7c784aff1e8ee950f89066",
+      "crc32": "ac1ceebb",
+      "sha1": "ef0458381ade968ae7872dbbdbc41545f149f152",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-20T18:33:49.053542-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-20T18:33:49.053542-07:00.jpg",
+      "mtime": "1655775315",
+      "size": "9768",
+      "md5": "0640f2531f2609ed06062f44195c78e3",
+      "crc32": "672b7344",
+      "sha1": "17354b838b0e85fad11f575392736a4ca21db71e"
+    },
+    {
+      "name": "motherjones-2022-06-20T22:27:55.573883-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789278",
+      "size": "34101",
+      "md5": "0fa6f9e35fc13c912a7974ad95311712",
+      "crc32": "e492a69c",
+      "sha1": "a61d4225dc12e98b0dc98748bfc893c23d8b0966",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-20T22:27:55.573883-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789279",
+      "size": "28633",
+      "md5": "6194d61ab6bf973c78de94061876dbf0",
+      "crc32": "b85a9a59",
+      "sha1": "63a275878d81b760c91f5fd550f2c25382c437b7",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-20T22:27:55.573883-07:00.jpg",
+      "source": "original",
+      "mtime": "1655789276",
+      "size": "283288",
+      "md5": "3bdf21fbd68135f96958907498492f2d",
+      "crc32": "25eb62de",
+      "sha1": "493e3b6050280e2bb97002858c12864fbfcc20e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-20T22:27:55.573883-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-20T22:27:55.573883-07:00.jpg",
+      "mtime": "1655789325",
+      "size": "9765",
+      "md5": "0220fc489ac6439f1f7610fe1da1642a",
+      "crc32": "d3d22bff",
+      "sha1": "53158698ba9efaa1cdaaca33713562f9cb65bc76"
+    },
+    {
+      "name": "motherjones-2022-06-21T05:34:54.490230-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814897",
+      "size": "34101",
+      "md5": "0fa6f9e35fc13c912a7974ad95311712",
+      "crc32": "e492a69c",
+      "sha1": "a61d4225dc12e98b0dc98748bfc893c23d8b0966",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-21T05:34:54.490230-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814899",
+      "size": "28633",
+      "md5": "6194d61ab6bf973c78de94061876dbf0",
+      "crc32": "b85a9a59",
+      "sha1": "63a275878d81b760c91f5fd550f2c25382c437b7",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-21T05:34:54.490230-07:00.jpg",
+      "source": "original",
+      "mtime": "1655814895",
+      "size": "283288",
+      "md5": "3bdf21fbd68135f96958907498492f2d",
+      "crc32": "25eb62de",
+      "sha1": "493e3b6050280e2bb97002858c12864fbfcc20e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-21T05:34:54.490230-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-21T05:34:54.490230-07:00.jpg",
+      "mtime": "1655814945",
+      "size": "9765",
+      "md5": "0220fc489ac6439f1f7610fe1da1642a",
+      "crc32": "d3d22bff",
+      "sha1": "53158698ba9efaa1cdaaca33713562f9cb65bc76"
+    },
+    {
+      "name": "motherjones-2022-06-21T06:53:52.191298-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819635",
+      "size": "34243",
+      "md5": "72f838a6923f8347ae589077566e05fa",
+      "crc32": "2e9d964f",
+      "sha1": "6ffb9e097a549c82f9b16f6a5f3b894983796631",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-21T06:53:52.191298-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819637",
+      "size": "28658",
+      "md5": "c7126b1c0b700d18ac5bffc400d1b6f6",
+      "crc32": "ab74ccdc",
+      "sha1": "2aa280da106a7342c159fb5d82ba9a1bc4d9a2e7",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-21T06:53:52.191298-07:00.jpg",
+      "source": "original",
+      "mtime": "1655819633",
+      "size": "314109",
+      "md5": "89f4ecee986cd06b83d1ca584d355d89",
+      "crc32": "13ccddb8",
+      "sha1": "c3fc03a40e4a60551411640de5b1536ca65e0d61",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-21T06:53:52.191298-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-21T06:53:52.191298-07:00.jpg",
+      "mtime": "1655819737",
+      "size": "10205",
+      "md5": "d7fb9816d44dbe456a8326f5306d0631",
+      "crc32": "c9842165",
+      "sha1": "f7f677c7dadc7bbf38b2c7f57fbd7432a66b126e"
+    },
+    {
+      "name": "motherjones-2022-06-21T10:15:54.411962-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831760",
+      "size": "34243",
+      "md5": "72f838a6923f8347ae589077566e05fa",
+      "crc32": "2e9d964f",
+      "sha1": "6ffb9e097a549c82f9b16f6a5f3b894983796631",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-21T10:15:54.411962-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831762",
+      "size": "28658",
+      "md5": "c7126b1c0b700d18ac5bffc400d1b6f6",
+      "crc32": "ab74ccdc",
+      "sha1": "2aa280da106a7342c159fb5d82ba9a1bc4d9a2e7",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-21T10:15:54.411962-07:00.jpg",
+      "source": "original",
+      "mtime": "1655831755",
+      "size": "314121",
+      "md5": "f56b02e435fe5bc9d7f0d1f3939cff34",
+      "crc32": "d3f93931",
+      "sha1": "ae60101568792bc5326d79e86ae3efef4b73ecb6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-21T10:15:54.411962-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-21T10:15:54.411962-07:00.jpg",
+      "mtime": "1655831811",
+      "size": "10206",
+      "md5": "bfedcbcf7f49808a7e46c0d1eb8086c8",
+      "crc32": "45c9705e",
+      "sha1": "d4b07ec44c8fd4f3d91f7ba78160d483a9f6643b"
+    },
+    {
+      "name": "motherjones-2022-06-21T18:24:22.990027-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861069",
+      "size": "34107",
+      "md5": "8e9327e7bfb15d975dacb6fd2b33848f",
+      "crc32": "ca363705",
+      "sha1": "5b783668e913b657633bb05fcf411457df32199f",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-21T18:24:22.990027-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861072",
+      "size": "29134",
+      "md5": "0ef43f3af2db17f9e140b51e029e8245",
+      "crc32": "78abe253",
+      "sha1": "7d0d396bfa3a3128af52d648d38d6ac0ba964fd7",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-21T18:24:22.990027-07:00.jpg",
+      "source": "original",
+      "mtime": "1655861066",
+      "size": "282918",
+      "md5": "762dbcc3f6d78153ba2645c6cff17a6d",
+      "crc32": "8a3f0250",
+      "sha1": "4249ccbd2f5f7fb19845a38da5f05afc38f968de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-21T18:24:22.990027-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-21T18:24:22.990027-07:00.jpg",
+      "mtime": "1655861332",
+      "size": "10125",
+      "md5": "6a6a67c0ce42fbb90e7eb9287d018ea0",
+      "crc32": "ca7affbc",
+      "sha1": "7ad3f033416def1b55cc84225e7401cace717d21"
+    },
+    {
+      "name": "motherjones-2022-06-22T02:17:18.208339-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889441",
+      "size": "34107",
+      "md5": "8e9327e7bfb15d975dacb6fd2b33848f",
+      "crc32": "ca363705",
+      "sha1": "5b783668e913b657633bb05fcf411457df32199f",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-22T02:17:18.208339-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889443",
+      "size": "29134",
+      "md5": "0ef43f3af2db17f9e140b51e029e8245",
+      "crc32": "78abe253",
+      "sha1": "7d0d396bfa3a3128af52d648d38d6ac0ba964fd7",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-22T02:17:18.208339-07:00.jpg",
+      "source": "original",
+      "mtime": "1655889439",
+      "size": "282938",
+      "md5": "7969a2256a96276d93a9cc9b1fa80887",
+      "crc32": "92153fab",
+      "sha1": "ffe65ac545bef31512b86e76a585eced1aa8c739",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-22T02:17:18.208339-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-22T02:17:18.208339-07:00.jpg",
+      "mtime": "1655889495",
+      "size": "10131",
+      "md5": "79d217fd4d87f4405c03176471ce98dd",
+      "crc32": "efcdf2f4",
+      "sha1": "64a12abad4b96939db065b2b980db8cca0fcad7f"
+    },
+    {
+      "name": "motherjones-2022-06-22T10:30:51.150840-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919054",
+      "size": "34002",
+      "md5": "b362cb67cdf9162485eb3ad9fb709701",
+      "crc32": "efe677f7",
+      "sha1": "3c7f9407caa88a959294ff7965f6e245ebdb86a3",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-22T10:30:51.150840-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919056",
+      "size": "28961",
+      "md5": "e9faf2c90183bca5589ec84fe47858ec",
+      "crc32": "60b71f7c",
+      "sha1": "a57df3afaa6d0e161b9d7d90664e0350bc3a6102",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-22T10:30:51.150840-07:00.jpg",
+      "source": "original",
+      "mtime": "1655919053",
+      "size": "283267",
+      "md5": "807b46f6ca40a7143e3674388d69fca7",
+      "crc32": "159ce4f2",
+      "sha1": "87aea2ae0359fb4d3a1cc8c5e2c87459e2ffdc5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-22T10:30:51.150840-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-22T10:30:51.150840-07:00.jpg",
+      "mtime": "1655919109",
+      "size": "9933",
+      "md5": "99df27bced8bea7a557f81d55801ad58",
+      "crc32": "c652417f",
+      "sha1": "c903dd1636a9723d373071fd10da69cf17e2d7ba"
+    },
+    {
+      "name": "motherjones-2022-06-22T18:26:52.815516-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947616",
+      "size": "33740",
+      "md5": "faa3ad00c061dcd43d30869d6c5b1238",
+      "crc32": "e1153eac",
+      "sha1": "0c21fbd6f47d990e5161cef2326c0d18611d795c",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-22T18:26:52.815516-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947618",
+      "size": "28788",
+      "md5": "7db0b44c838d098c4ebbb4d0b2ab02d8",
+      "crc32": "9921868b",
+      "sha1": "a781217d867ac385b8252c533837ad4564b6d1ba",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-22T18:26:52.815516-07:00.jpg",
+      "source": "original",
+      "mtime": "1655947614",
+      "size": "261999",
+      "md5": "237bb8d4e2aa2712fc4f7fe04a45aa5e",
+      "crc32": "459c2a41",
+      "sha1": "fbfefaad92f63f1d2a6127180aeed28bde912b25",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-22T18:26:52.815516-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-22T18:26:52.815516-07:00.jpg",
+      "mtime": "1655947662",
+      "size": "9950",
+      "md5": "4f729daebdccf9fb17852c99d38ce832",
+      "crc32": "3305c820",
+      "sha1": "5ce06237bbc39cc8ca0226c11e950f3cdab8df33"
+    },
+    {
+      "name": "motherjones-2022-06-23T02:19:11.233814-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655975955",
+      "size": "33740",
+      "md5": "faa3ad00c061dcd43d30869d6c5b1238",
+      "crc32": "e1153eac",
+      "sha1": "0c21fbd6f47d990e5161cef2326c0d18611d795c",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-23T02:19:11.233814-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655975956",
+      "size": "28788",
+      "md5": "7db0b44c838d098c4ebbb4d0b2ab02d8",
+      "crc32": "9921868b",
+      "sha1": "a781217d867ac385b8252c533837ad4564b6d1ba",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-23T02:19:11.233814-07:00.jpg",
+      "source": "original",
+      "mtime": "1655975954",
+      "size": "262025",
+      "md5": "46932e2e679f45ce8de96ee2eec278a4",
+      "crc32": "20f3c4fb",
+      "sha1": "8f3afce86040e601a991de87955c54c8ecfc5006",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-23T02:19:11.233814-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-23T02:19:11.233814-07:00.jpg",
+      "mtime": "1655976004",
+      "size": "9950",
+      "md5": "4f729daebdccf9fb17852c99d38ce832",
+      "crc32": "3305c820",
+      "sha1": "5ce06237bbc39cc8ca0226c11e950f3cdab8df33"
+    },
+    {
+      "name": "motherjones-2022-06-23T10:18:00.200531-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004684",
+      "size": "33555",
+      "md5": "ea641d38f4b82833d93ec396ef254a5f",
+      "crc32": "743fcf60",
+      "sha1": "ee341e59fc91deabb1582e8cf1c9e32552d951ca",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-23T10:18:00.200531-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004686",
+      "size": "28727",
+      "md5": "5dae9e8d1368efaa2223ef7c9849d813",
+      "crc32": "341ae9eb",
+      "sha1": "9c600ecfc42f5d4d366920594719d295c47cb7bb",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-06-23T10:18:00.200531-07:00.jpg",
+      "source": "original",
+      "mtime": "1656004682",
+      "size": "283906",
+      "md5": "83878d3f21fc52770e170efe3d95befc",
+      "crc32": "16b36886",
+      "sha1": "aa9f90e7ed43bc880968edf86b072d78c821ae3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-06-23T10:18:00.200531-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-06-23T10:18:00.200531-07:00.jpg",
+      "mtime": "1656004740",
+      "size": "9927",
+      "md5": "f6d86ff6bba9ec7d7732de05b7d64f2c",
+      "crc32": "14020498",
+      "sha1": "9c898cf4ccf388e3e1a2bd07814471d7715927b9"
+    },
+    {
       "name": "motherjones-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de7cb17562009c2367b40e5f91bc3d5f6d49c54b",
-      "mtime": "1655760761",
-      "size": "14467",
-      "md5": "c4fee7a56166505d89e058942eba5bdc",
-      "crc32": "40aade5b",
-      "sha1": "dd4fe67097fea0ef0d8f0ebcbd32b08b469740f7",
+      "btih": "be3d68d5b16dfb2dcf50fa442238e17f63e29981",
+      "mtime": "1656004745",
+      "size": "23863",
+      "md5": "d5c5eba3a2bb3cd592d52412c782ac76",
+      "crc32": "32ac031e",
+      "sha1": "f4706d1539a15b6efd6c06b10db0cdc24103ac4f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "motherjones-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "570e98eab9920caff388ea0281197010",
+      "md5": "bf77d887f89241a7bd841cc402403d95",
       "summation": "md5"
     },
     {
       "name": "motherjones-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760706",
-      "size": "81920",
-      "md5": "277b5dad6db847c7b08d07d58a58cb8e",
-      "crc32": "8138b636",
-      "sha1": "53f4b2029be106752ddbad9d44571821e10c7d28",
+      "mtime": "1656004691",
+      "size": "143360",
+      "md5": "5b6ddc9563c363bfcd8d2fea518cf394",
+      "crc32": "8fcf7cf5",
+      "sha1": "b1b3b2203e9c5b224211dd807304541bcd0a78a6",
       "format": "Metadata"
     },
     {
@@ -684,9 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1655760761,
-  "item_size": 5397602,
+  "files_count": 109,
+  "item_last_updated": 1656004745,
+  "item_size": 9404091,
   "metadata": {
     "identifier": "motherjones-2022",
     "collection": [
@@ -703,892 +1165,10 @@
     "publicdate": "2022-06-18 17:10:05",
     "addeddate": "2022-06-18 17:10:05"
   },
-  "motherjones-2022": [
-    {
-      "text": "Skip to main content",
-      "url": "#main"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\t\t\t",
-      "url": "/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP002|PEGP002"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP007|PEGP007"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYIP&c=SEGYIC&d=SEGYID&f=SEGYIF"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.motherjones.com/topics/coronavirus/"
-    },
-    {
-      "text": "Pride Month",
-      "url": "https://www.motherjones.com/politics/2022/06/supreme-court-alito-roe-obergefell-same-sex-marriage-family/"
-    },
-    {
-      "text": "January 6 Hearings",
-      "url": "https://www.motherjones.com/politics/2022/06/january-6-committee-hearing-trump-election/"
-    },
-    {
-      "text": "Tesla",
-      "url": "https://www.motherjones.com/food/2022/06/elon-musk-tesla-beyond-burger-silicon-valley-hype-climate-change/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.motherjones.com/./politics/"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.motherjones.com/./environment/"
-    },
-    {
-      "text": "Crime and Justice",
-      "url": "https://www.motherjones.com/./crime-justice/"
-    },
-    {
-      "text": "Food",
-      "url": "https://www.motherjones.com/./food/"
-    },
-    {
-      "text": "Media",
-      "url": "https://www.motherjones.com/./media/"
-    },
-    {
-      "text": "Investigations",
-      "url": "https://www.motherjones.com/topics/investigations/"
-    },
-    {
-      "text": "Photos",
-      "url": "https://www.motherjones.com/topics/photoessays/"
-    },
-    {
-      "text": "Magazine",
-      "url": "/magazine"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.motherjones.com/podcasts/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.motherjones.com/newsletters/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.motherjones.com/topics/coronavirus/"
-    },
-    {
-      "text": "Pride Month",
-      "url": "https://www.motherjones.com/politics/2022/06/supreme-court-alito-roe-obergefell-same-sex-marriage-family/"
-    },
-    {
-      "text": "January 6 Hearings",
-      "url": "https://www.motherjones.com/politics/2022/06/january-6-committee-hearing-trump-election/"
-    },
-    {
-      "text": "Tesla",
-      "url": "https://www.motherjones.com/food/2022/06/elon-musk-tesla-beyond-burger-silicon-valley-hype-climate-change/"
-    },
-    {
-      "text": "\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tSubscribe to our magazine\n\t\t\t",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYOP&c=SEGYOC&d=SEGYOD&f=SEGYOF"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
-      "url": "/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tDonate\n\t\t\t\t\t\n\t\t\t\t",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP001|PEGP001"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.motherjones.com/./politics/"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.motherjones.com/./environment/"
-    },
-    {
-      "text": "Crime and Justice",
-      "url": "https://www.motherjones.com/./crime-justice/"
-    },
-    {
-      "text": "Food",
-      "url": "https://www.motherjones.com/./food/"
-    },
-    {
-      "text": "Media",
-      "url": "https://www.motherjones.com/./media/"
-    },
-    {
-      "text": "Investigations",
-      "url": "https://www.motherjones.com/topics/investigations/"
-    },
-    {
-      "text": "Photos",
-      "url": "https://www.motherjones.com/topics/photoessays/"
-    },
-    {
-      "text": "Magazine",
-      "url": "/magazine"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.motherjones.com/podcasts/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPR32|PAHPR32"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPRMV|PAHPRMV"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/us-climate-action-save-millions-lives-study/"
-    },
-    {
-      "text": "US Climate Action Could Save Millions of Lives",
-      "url": "https://www.motherjones.com/politics/2022/06/us-climate-action-save-millions-lives-study/"
-    },
-    {
-      "text": "Oliver Milman",
-      "url": "https://www.motherjones.com/author/oliver-milman/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/media/2022/06/on-this-juneteenth-watch-toni-morrison-talk-about-the-meaning-of-freedom/"
-    },
-    {
-      "text": "On This Juneteenth, Watch Toni Morrison Talk About the Meaning of Freedom",
-      "url": "https://www.motherjones.com/media/2022/06/on-this-juneteenth-watch-toni-morrison-talk-about-the-meaning-of-freedom/"
-    },
-    {
-      "text": "Madison Pauly",
-      "url": "https://www.motherjones.com/author/madison-pauly/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/new-poll-finds-6-in-10-us-adults-support-for-prosecuting-trump-for-january-6-capitol-attack/"
-    },
-    {
-      "text": "New Poll Finds 6 in 10 US Adults Support Prosecuting Trump for January 6 Capitol Attack",
-      "url": "https://www.motherjones.com/politics/2022/06/new-poll-finds-6-in-10-us-adults-support-for-prosecuting-trump-for-january-6-capitol-attack/"
-    },
-    {
-      "text": "Madison Pauly",
-      "url": "https://www.motherjones.com/author/madison-pauly/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/texas-republican-party-enshrines-anti-lgbtq-hate-in-extreme-right-wing-party-platform/"
-    },
-    {
-      "text": "Texas Republican Party Enshrines Anti-LGBTQ Hate in Extreme Right-Wing Party Platform",
-      "url": "https://www.motherjones.com/politics/2022/06/texas-republican-party-enshrines-anti-lgbtq-hate-in-extreme-right-wing-party-platform/"
-    },
-    {
-      "text": "Madison Pauly",
-      "url": "https://www.motherjones.com/author/madison-pauly/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/yellowstone-national-park-flood-rainfall-snowmelt-anniversary/"
-    },
-    {
-      "text": "Yellowstone Turned 150 This Year. Now It\u2019s Being Inundated With Floodwater.",
-      "url": "https://www.motherjones.com/politics/2022/06/yellowstone-national-park-flood-rainfall-snowmelt-anniversary/"
-    },
-    {
-      "text": "Jackie Flynn Mogensen",
-      "url": "https://www.motherjones.com/author/jackie-flynn-mogensen/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/cdc-panel-covid-vaccine-children-under-five/"
-    },
-    {
-      "text": "The CDC Just Recommended the Covid Vaccine for Children Under Five",
-      "url": "https://www.motherjones.com/politics/2022/06/cdc-panel-covid-vaccine-children-under-five/"
-    },
-    {
-      "text": "Jackie Flynn Mogensen",
-      "url": "https://www.motherjones.com/author/jackie-flynn-mogensen/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/ron-desantis-florida-covid-vaccines-young-children-high-risk/"
-    },
-    {
-      "text": "90 Percent of Florida, the Only State to Not Order Vaccines for Young Kids, Is At \u201cHigh\u201d Covid Risk",
-      "url": "https://www.motherjones.com/politics/2022/06/ron-desantis-florida-covid-vaccines-young-children-high-risk/"
-    },
-    {
-      "text": "Jackie Flynn Mogensen",
-      "url": "https://www.motherjones.com/author/jackie-flynn-mogensen/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/sponsored/an-activist-athlete-elevates-the-game-rallying-for-self-care-and-protesting-banks-conduct/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tAn Activist-Athlete Elevates the Game, Rallying for Self-Care and Protesting Banks\u2019 Conduct\t\t\t\t\t\t",
-      "url": "https://www.motherjones.com/sponsored/an-activist-athlete-elevates-the-game-rallying-for-self-care-and-protesting-banks-conduct/"
-    },
-    {
-      "text": "Kyle Thiermann\u2019s journey from surfer to activist",
-      "url": "https://www.motherjones.com/sponsored/an-activist-athlete-elevates-the-game-rallying-for-self-care-and-protesting-banks-conduct/"
-    },
-    {
-      "text": "MUD\\WTR",
-      "url": "https://mudwtr.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/media/2022/06/january-6-committee-report-simon-schuster-skyhorse-darren-beattie/"
-    },
-    {
-      "text": "Simon & Schuster Will Distribute Jan. 6 Report With Forward by Conspiracy Theorist",
-      "url": "https://www.motherjones.com/media/2022/06/january-6-committee-report-simon-schuster-skyhorse-darren-beattie/"
-    },
-    {
-      "text": "Jeremy Fassler",
-      "url": "https://www.motherjones.com/author/jeremy-fassler/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/environment/2022/06/environmental-activist-zain-haq-save-old-growth-canada-deportation/"
-    },
-    {
-      "text": "Student Environmental Activist Fears Canada Seeks to Deport Him",
-      "url": "https://www.motherjones.com/environment/2022/06/environmental-activist-zain-haq-save-old-growth-canada-deportation/"
-    },
-    {
-      "text": "Rochelle Baker",
-      "url": "https://www.motherjones.com/author/rochelle-baker/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/environment/2022/06/un-chief-fossil-fuel-companies-have-humanity-by-the-throat/"
-    },
-    {
-      "text": "UN Chief: Fossil Fuel Companies \u201cHave Humanity by the Throat\u201d",
-      "url": "https://www.motherjones.com/environment/2022/06/un-chief-fossil-fuel-companies-have-humanity-by-the-throat/"
-    },
-    {
-      "text": "Fiona Harvey",
-      "url": "https://www.motherjones.com/author/fiona-harvey/"
-    },
-    {
-      "text": "Videos",
-      "url": "/topics/video/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/star-wars-nerds-black-actress-moses-ingram/"
-    },
-    {
-      "text": "Why Can\u2019t the Star Wars Nerds Imagine a World With Black People?",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/star-wars-nerds-black-actress-moses-ingram/"
-    },
-    {
-      "text": "Arianna Coghill",
-      "url": "https://www.motherjones.com/author/arianna-coghill/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/mojo-wire/2022/05/it-was-the-wrong-decision-period/"
-    },
-    {
-      "text": "\u201cIt Was The Wrong Decision. Period.\u201d",
-      "url": "https://www.motherjones.com/mojo-wire/2022/05/it-was-the-wrong-decision-period/"
-    },
-    {
-      "text": "Inae Oh",
-      "url": "https://www.motherjones.com/author/inae-oh/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/crime-justice/2022/05/beto-orourke-was-right/"
-    },
-    {
-      "text": "Beto O\u2019Rourke Was Right",
-      "url": "https://www.motherjones.com/crime-justice/2022/05/beto-orourke-was-right/"
-    },
-    {
-      "text": "Tim Murphy",
-      "url": "https://www.motherjones.com/author/tim-murphy/"
-    },
-    {
-      "text": "Staff Blog",
-      "url": "/blogs/mojo-wire/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t",
-      "url": "/blogs/mojo-wire/"
-    },
-    {
-      "text": "I\u2019ll Say It: Netflix\u2019s \u201cIs It Cake?\u201d Is a Fucking Delight",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/netflix-is-it-cake-so-good/"
-    },
-    {
-      "text": "Jackie Flynn Mogensen",
-      "url": "https://www.motherjones.com/author/jackie-flynn-mogensen/"
-    },
-    {
-      "text": "Stop Spreading Those Deeply Misogynistic Rumors About Lauren Boebert",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/lauren-boebert-sexism-abortion-rumors/"
-    },
-    {
-      "text": "Abigail Weinberg",
-      "url": "https://www.motherjones.com/author/abigail-weinberg/"
-    },
-    {
-      "text": "Is It Unethical for Nicholas Kristof to Do an Ad for His Cider as a Substack Post About the Ethics of His Cider?",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/kristof-cider-ethics-journalism-substack-ad/"
-    },
-    {
-      "text": "Jacob Rosenberg",
-      "url": "https://www.motherjones.com/author/jacob-rosenberg/"
-    },
-    {
-      "text": "Good News Blog",
-      "url": "/recharge/"
-    },
-    {
-      "text": "",
-      "url": "/recharge/"
-    },
-    {
-      "text": "Remembering George P\u00e9rez, a Superhero of Superhero Comics",
-      "url": "https://www.motherjones.com/recharge/2022/05/remembering-george-perez-a-superhero-of-superhero-comics/"
-    },
-    {
-      "text": "Dan Spinelli",
-      "url": "https://www.motherjones.com/author/dan-spinelli/"
-    },
-    {
-      "text": "Ukrainian and Russian Dancers Join Onstage (in Italy) to Fundraise for the Red Cross",
-      "url": "https://www.motherjones.com/recharge/2022/04/ukrainian-russian-antiwar-ballet-dancers-for-peace/"
-    },
-    {
-      "text": "Daniel King",
-      "url": "https://www.motherjones.com/author/daniel-king/"
-    },
-    {
-      "text": "Mass Shootings Persist, But a New Book Brings Hope and Science to Grappling With Their Prevention",
-      "url": "https://www.motherjones.com/recharge/2022/04/mass-shooting-prevention-trigger-points/"
-    },
-    {
-      "text": "Daniel King",
-      "url": "https://www.motherjones.com/author/daniel-king/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/january-6-committee-hearing-trump-election/"
-    },
-    {
-      "text": "\n\t\t\t\tThe January 6 Committee Doesn\u2019t Need New \u201cBombshells.\u201d We Already Know What Happened.\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/january-6-committee-hearing-trump-election/"
-    },
-    {
-      "text": "Dan Friedman",
-      "url": "https://www.motherjones.com/author/dan-friedman/"
-    },
-    {
-      "text": "Pema Levy",
-      "url": "https://www.motherjones.com/author/pema-levy/"
-    },
-    {
-      "text": "Close",
-      "url": "#sailthru-signup-widget"
-    },
-    {
-      "text": "privacy policy",
-      "url": "https://www.motherjones.com/about/privacy-policy/"
-    },
-    {
-      "text": "terms of use",
-      "url": "https://www.motherjones.com/about/terms/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/these-cities-decided-that-paying-to-host-the-world-cup-just-wasnt-worth-it/"
-    },
-    {
-      "text": "These Cities Decided That Paying to Host the World Cup Just Wasn\u2019t Worth It",
-      "url": "https://www.motherjones.com/politics/2022/06/these-cities-decided-that-paying-to-host-the-world-cup-just-wasnt-worth-it/"
-    },
-    {
-      "text": "Tim Murphy",
-      "url": "https://www.motherjones.com/author/tim-murphy/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/trump-sycophants-meadows-giuliani-eastman-miller-january-6-committee-illegal-coup/"
-    },
-    {
-      "text": "Trump Sycophants Advanced a Coup Plot They Knew Was Illegal",
-      "url": "https://www.motherjones.com/politics/2022/06/trump-sycophants-meadows-giuliani-eastman-miller-january-6-committee-illegal-coup/"
-    },
-    {
-      "text": "Dan Friedman",
-      "url": "https://www.motherjones.com/author/dan-friedman/"
-    },
-    {
-      "text": "Environment",
-      "url": "/environment"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/environment/2022/06/united-states-heatwave-wildfires-floods/"
-    },
-    {
-      "text": "Americans Grapple With a Week of Scorching Heat, Floods, and Wildfires",
-      "url": "https://www.motherjones.com/environment/2022/06/united-states-heatwave-wildfires-floods/"
-    },
-    {
-      "text": "Gloria Oladipo",
-      "url": "https://www.motherjones.com/author/gloria-oladipo/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/study-america-can-cut-emissions-half-2030-decarbonization/"
-    },
-    {
-      "text": "America Can Cut Emissions in Half by 2030\u2014if We Choose To",
-      "url": "https://www.motherjones.com/politics/2022/06/study-america-can-cut-emissions-half-2030-decarbonization/"
-    },
-    {
-      "text": "Matt Simon",
-      "url": "https://www.motherjones.com/author/matt-simon/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/topics/coronavirus"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/insurrectionist-anti-vaxx-doctor-simone-gold-was-just-sentenced-to-60-days-in-jail/"
-    },
-    {
-      "text": "Insurrectionist Anti-Vax Doctor Simone Gold Was Just Sentenced to 60 Days in Prison",
-      "url": "https://www.motherjones.com/politics/2022/06/insurrectionist-anti-vaxx-doctor-simone-gold-was-just-sentenced-to-60-days-in-jail/"
-    },
-    {
-      "text": "Stephanie Mencimer",
-      "url": "https://www.motherjones.com/author/stephanie-mencimer/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/simone-gold-insurrectionist-tells-judge-her-elite-credentials-should-keep-her-out-of-prison/"
-    },
-    {
-      "text": "Insurrectionist Tells Judge Her Elite Credentials Should Keep Her Out of Prison",
-      "url": "https://www.motherjones.com/politics/2022/06/simone-gold-insurrectionist-tells-judge-her-elite-credentials-should-keep-her-out-of-prison/"
-    },
-    {
-      "text": "Stephanie Mencimer",
-      "url": "https://www.motherjones.com/author/stephanie-mencimer/"
-    },
-    {
-      "text": "Food",
-      "url": "/food"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/food/2022/06/wheat-breeding-survive-global-warming-climate-crisis-hunger/"
-    },
-    {
-      "text": "Scientists Race to Create Wheat That Can Withstand Global Warming",
-      "url": "https://www.motherjones.com/food/2022/06/wheat-breeding-survive-global-warming-climate-crisis-hunger/"
-    },
-    {
-      "text": "Nina Lakhani",
-      "url": "https://www.motherjones.com/author/nina-lakhani/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/food/2022/06/elon-musk-tesla-beyond-burger-silicon-valley-hype-climate-change/"
-    },
-    {
-      "text": "How Tesla Is the Fake Meat of Cars",
-      "url": "https://www.motherjones.com/food/2022/06/elon-musk-tesla-beyond-burger-silicon-valley-hype-climate-change/"
-    },
-    {
-      "text": "Tom Philpott",
-      "url": "https://www.motherjones.com/author/tom-philpott/"
-    },
-    {
-      "text": "Crime & Justice",
-      "url": "/crime-justice"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/crime-justice/2022/06/an-uvalde-mom-reports-that-her-grieving-fourth-grader-nearly-suffered-cardiac-arrest/"
-    },
-    {
-      "text": "An Uvalde Mom Reports That Her Grieving Fourth Grader Nearly Suffered Cardiac Arrest",
-      "url": "https://www.motherjones.com/crime-justice/2022/06/an-uvalde-mom-reports-that-her-grieving-fourth-grader-nearly-suffered-cardiac-arrest/"
-    },
-    {
-      "text": "Samantha Michaels",
-      "url": "https://www.motherjones.com/author/samantha-michaels/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/crime-justice/2022/06/denver-deployed-mental-health-workers-instead-of-police-and-some-crimes-went-down/"
-    },
-    {
-      "text": "Denver Deployed Mental Health Workers Instead of Police\u2014and Some Crimes Went Down",
-      "url": "https://www.motherjones.com/crime-justice/2022/06/denver-deployed-mental-health-workers-instead-of-police-and-some-crimes-went-down/"
-    },
-    {
-      "text": "Samantha Michaels",
-      "url": "https://www.motherjones.com/author/samantha-michaels/"
-    },
-    {
-      "text": "Immigration",
-      "url": "/topics/immigration"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/first-roe-then-plyler-the-gops-40-year-fight-to-keep-undocumented-kids-out-of-public-school/"
-    },
-    {
-      "text": "First Roe, Then Plyler? The GOP\u2019s 40-Year Fight to Keep Undocumented Kids Out of Public School",
-      "url": "https://www.motherjones.com/politics/2022/06/first-roe-then-plyler-the-gops-40-year-fight-to-keep-undocumented-kids-out-of-public-school/"
-    },
-    {
-      "text": "Isabela Dias",
-      "url": "https://www.motherjones.com/author/isabela-dias/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/05/end-title-42-border-preparation-tucson-san-diego/"
-    },
-    {
-      "text": "\u201cThis Is Not Our First Rodeo\u201d: Key Border Cities Say They\u2019re Ready for the End of Title 42",
-      "url": "https://www.motherjones.com/politics/2022/05/end-title-42-border-preparation-tucson-san-diego/"
-    },
-    {
-      "text": "Fernanda Echavarri",
-      "url": "https://www.motherjones.com/author/fernanda-echavarri/"
-    },
-    {
-      "text": "The Big Feature",
-      "url": "/topics/the-big-feature/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/why-are-iuds-so-painful-treatment-contraception-roe-dobbs-supreme-court/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWhy Haven\u2019t We Figured Out How to Make IUDs Less Excruciating?\t\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/why-are-iuds-so-painful-treatment-contraception-roe-dobbs-supreme-court/"
-    },
-    {
-      "text": "Ruth Murai",
-      "url": "https://www.motherjones.com/author/ruth-murai/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/texas-clinics-abortion-ban-pivot-services-travel/"
-    },
-    {
-      "text": "\n\t\t\t\t\tThe Texas Abortion Ban Has Turned Clinics Into Travel Agencies\t\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/texas-clinics-abortion-ban-pivot-services-travel/"
-    },
-    {
-      "text": "Mary Tuma",
-      "url": "https://www.motherjones.com/author/mary-tuma/"
-    },
-    {
-      "text": "Investigations",
-      "url": "/topics/investigations/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/05/private-equity-apollo-blackstone-kkr-carlyle-carried-interest-loophole/"
-    },
-    {
-      "text": "\n\t\t\t\t\tHow Private Equity Looted America\t\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/05/private-equity-apollo-blackstone-kkr-carlyle-carried-interest-loophole/"
-    },
-    {
-      "text": "Mother Jones",
-      "url": "https://www.motherjones.com/author/mother-jones/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/04/hunter-biden-laptop-guo-wengui-bannon-giuliani/"
-    },
-    {
-      "text": "\n\t\t\t\t\tExclusive: Leaked Messages Reveal the Origins of the Most Vile Hunter Biden Smear\t\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/04/hunter-biden-laptop-guo-wengui-bannon-giuliani/"
-    },
-    {
-      "text": "Dan Friedman",
-      "url": "https://www.motherjones.com/author/dan-friedman/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYGP&c=SEGYGC&d=SEGYGD&f=SEGYGF"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/media/2021/07/january-6-insurrection-capitol-cnn-jake-tapper-podcast/"
-    },
-    {
-      "text": "January 6 Reckoning: CNN\u2019s Jake Tapper Says the Media Must Confront Republicans\u2019 Big Lie",
-      "url": "https://www.motherjones.com/media/2021/07/january-6-insurrection-capitol-cnn-jake-tapper-podcast/"
-    },
-    {
-      "text": "Abigail Weinberg",
-      "url": "https://www.motherjones.com/author/abigail-weinberg/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2021/06/podcast-january-6-qanon-history-whats-next/"
-    },
-    {
-      "text": "We Need to Understand How We Got to January 6 Before We Can Move Forward",
-      "url": "https://www.motherjones.com/politics/2021/06/podcast-january-6-qanon-history-whats-next/"
-    },
-    {
-      "text": "Fernanda Echavarri",
-      "url": "https://www.motherjones.com/author/fernanda-echavarri/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2021/05/vaccine-patents-biden-covid-india-dean-baker-pandemic/"
-    },
-    {
-      "text": "A Radical Idea for Forcing Vaccine Companies to Share Knowledge With the World",
-      "url": "https://www.motherjones.com/politics/2021/05/vaccine-patents-biden-covid-india-dean-baker-pandemic/"
-    },
-    {
-      "text": "Molly Schwartz",
-      "url": "https://www.motherjones.com/author/molly-schwartz/"
-    },
-    {
-      "text": "Jamilah King",
-      "url": "https://www.motherjones.com/author/jamilah-king/"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://podcasts.apple.com/us/podcast/the-mother-jones-podcast/id1386408605"
-    },
-    {
-      "text": "\n                            Subscribe to the Mother Jones Podcast and you'll never miss an episode.\n                        ",
-      "url": "https://podcasts.apple.com/us/podcast/the-mother-jones-podcast/id1386408605"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tPhotography\n\t\t\t\t\t\t",
-      "url": "https://www.motherjones.com/topics/photoessays/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/the-gruesome-attraction-of-prison-tourism-is-being-challenged-at-last/"
-    },
-    {
-      "text": "\n\t\t\t\tThe Gruesome Attraction of Prison Tourism Is Being Challenged at Last\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/the-gruesome-attraction-of-prison-tourism-is-being-challenged-at-last/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGPBA1|PEGPBA1"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYGP&c=SEGYGC&d=SEGYGD&f=SEGYGF"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t",
-      "url": "/mag/2022/07/toc/"
-    },
-    {
-      "text": "August 2022",
-      "url": "/mag/2022/07/toc"
-    },
-    {
-      "text": "",
-      "url": "/mag/2022/05/toc"
-    },
-    {
-      "text": "June 2022",
-      "url": "/mag/2022/05/toc"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t",
-      "url": "/mag/2022/03/toc/"
-    },
-    {
-      "text": "April 2022",
-      "url": "/mag/2022/03/toc"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t",
-      "url": "https://itunes.apple.com/us/podcast/the-mother-jones-podcast/id1386408605?mt=2"
-    },
-    {
-      "text": "Subscribe \u00bb",
-      "url": "https://itunes.apple.com/us/podcast/the-mother-jones-podcast/id1386408605?mt=2"
-    },
-    {
-      "text": "Close",
-      "url": "#sailthru-signup-widget"
-    },
-    {
-      "text": "privacy policy",
-      "url": "https://www.motherjones.com/about/privacy-policy/"
-    },
-    {
-      "text": "terms of use",
-      "url": "https://www.motherjones.com/about/terms/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\t\t\t",
-      "url": "/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.facebook.com/motherjones"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://twitter.com/motherjones"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.instagram.com/motherjonesmag/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "http://feeds.feedburner.com/motherjones/feed"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/newsletters"
-    },
-    {
-      "text": "About",
-      "url": "https://www.motherjones.com/about/"
-    },
-    {
-      "text": "Our Staff",
-      "url": "https://www.motherjones.com/about/staff/"
-    },
-    {
-      "text": "Financials",
-      "url": "https://www.motherjones.com/about/financials/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://www.motherjones.com/jobs/"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.motherjones.com/events/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.motherjones.com/contact/"
-    },
-    {
-      "text": "Support",
-      "url": "https://www.motherjones.com/support/"
-    },
-    {
-      "text": "Ways to Give",
-      "url": "https://www.motherjones.com/support/"
-    },
-    {
-      "text": "Advertise With Us",
-      "url": "https://www.motherjones.com/advertising/"
-    },
-    {
-      "text": "Licensing / Reprints",
-      "url": "https://www.motherjones.com/customer-service/permissions/"
-    },
-    {
-      "text": "Store",
-      "url": "http://store.motherjones.com/?utm_source=motherjones&utm_medium=footer&utm_content=orangefooterlink&utm_campaign=evergreen"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&c=SEGMOC&d=SEGMOD&f=SEGMOF"
-    },
-    {
-      "text": "Magazine Subscriptions",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&c=SEGMOC&d=SEGMOD&f=SEGMOF"
-    },
-    {
-      "text": "Give a Gift Subscription",
-      "url": "https://secure.motherjones.com/flex/mj/key/YGIFUP/"
-    },
-    {
-      "text": "Email Newsletters",
-      "url": "https://www.motherjones.com/newsletters/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.motherjones.com/podcasts/"
-    },
-    {
-      "text": "Customer Service",
-      "url": "https://www.motherjones.com/customer-service/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://policies.google.com/privacy"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://policies.google.com/terms"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://www.motherjones.com/about/terms/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.motherjones.com/about/privacy-policy/"
-    },
-    {
-      "text": "",
-      "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=www.motherjones.com"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tDonate\n\t\t\t\t\t",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGZS1A|PEGZS1A"
-    },
-    {
-      "text": "Close",
-      "url": "#sailthru-signup-widget"
-    }
-  ],
-  "server": "ia902500.us.archive.org",
-  "uniq": 297385585,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1330751164,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

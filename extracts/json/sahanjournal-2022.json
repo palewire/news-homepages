@@ -1,5 +1,5 @@
 {
-  "created": 1655770857,
+  "created": 1656030185,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/3/items/sahanjournal-2022",
@@ -4152,31 +4152,493 @@
       "sha1": "f67a5bfa4344d881de4d10d727262859d63f75b3"
     },
     {
+      "name": "sahanjournal-2022-06-20T20:35:10.047434-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775314",
+      "size": "28969",
+      "md5": "3cb19e58d09c7db03a9fa5a8e1eaa507",
+      "crc32": "fe995b19",
+      "sha1": "22b1b45a6d1ad4f2a34a5f0fb70f19212dcc0a38",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-20T20:35:10.047434-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775315",
+      "size": "25912",
+      "md5": "c0230109c7e8cc2517e6eda807f89e3e",
+      "crc32": "fe417474",
+      "sha1": "1be4174ef4159959d4d9e772108b2d1d22cb83b2",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-20T20:35:10.047434-05:00.jpg",
+      "source": "original",
+      "mtime": "1655775312",
+      "size": "258158",
+      "md5": "4ab4109563f09caf7d3dd59b29499864",
+      "crc32": "5f047c77",
+      "sha1": "946b67bed86215ed8e5fc6f59b6582de485b21f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-20T20:35:10.047434-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-20T20:35:10.047434-05:00.jpg",
+      "mtime": "1655775376",
+      "size": "10360",
+      "md5": "81deddc0973cb879547376463ff9c321",
+      "crc32": "24e5c81b",
+      "sha1": "f67a5bfa4344d881de4d10d727262859d63f75b3"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T00:29:07.000950-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789350",
+      "size": "28969",
+      "md5": "3cb19e58d09c7db03a9fa5a8e1eaa507",
+      "crc32": "fe995b19",
+      "sha1": "22b1b45a6d1ad4f2a34a5f0fb70f19212dcc0a38",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T00:29:07.000950-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789352",
+      "size": "25912",
+      "md5": "c0230109c7e8cc2517e6eda807f89e3e",
+      "crc32": "fe417474",
+      "sha1": "1be4174ef4159959d4d9e772108b2d1d22cb83b2",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T00:29:07.000950-05:00.jpg",
+      "source": "original",
+      "mtime": "1655789348",
+      "size": "258158",
+      "md5": "4ab4109563f09caf7d3dd59b29499864",
+      "crc32": "5f047c77",
+      "sha1": "946b67bed86215ed8e5fc6f59b6582de485b21f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T00:29:07.000950-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-21T00:29:07.000950-05:00.jpg",
+      "mtime": "1655789442",
+      "size": "10360",
+      "md5": "81deddc0973cb879547376463ff9c321",
+      "crc32": "24e5c81b",
+      "sha1": "f67a5bfa4344d881de4d10d727262859d63f75b3"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T07:36:09.969998-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814974",
+      "size": "28969",
+      "md5": "3cb19e58d09c7db03a9fa5a8e1eaa507",
+      "crc32": "fe995b19",
+      "sha1": "22b1b45a6d1ad4f2a34a5f0fb70f19212dcc0a38",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T07:36:09.969998-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814976",
+      "size": "25912",
+      "md5": "c0230109c7e8cc2517e6eda807f89e3e",
+      "crc32": "fe417474",
+      "sha1": "1be4174ef4159959d4d9e772108b2d1d22cb83b2",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T07:36:09.969998-05:00.jpg",
+      "source": "original",
+      "mtime": "1655814972",
+      "size": "258158",
+      "md5": "4ab4109563f09caf7d3dd59b29499864",
+      "crc32": "5f047c77",
+      "sha1": "946b67bed86215ed8e5fc6f59b6582de485b21f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T07:36:09.969998-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-21T07:36:09.969998-05:00.jpg",
+      "mtime": "1655815056",
+      "size": "10360",
+      "md5": "81deddc0973cb879547376463ff9c321",
+      "crc32": "24e5c81b",
+      "sha1": "f67a5bfa4344d881de4d10d727262859d63f75b3"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T08:55:37.916545-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819745",
+      "size": "28969",
+      "md5": "3cb19e58d09c7db03a9fa5a8e1eaa507",
+      "crc32": "fe995b19",
+      "sha1": "22b1b45a6d1ad4f2a34a5f0fb70f19212dcc0a38",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T08:55:37.916545-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819747",
+      "size": "25912",
+      "md5": "c0230109c7e8cc2517e6eda807f89e3e",
+      "crc32": "fe417474",
+      "sha1": "1be4174ef4159959d4d9e772108b2d1d22cb83b2",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T08:55:37.916545-05:00.jpg",
+      "source": "original",
+      "mtime": "1655819743",
+      "size": "258158",
+      "md5": "4ab4109563f09caf7d3dd59b29499864",
+      "crc32": "5f047c77",
+      "sha1": "946b67bed86215ed8e5fc6f59b6582de485b21f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T08:55:37.916545-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-21T08:55:37.916545-05:00.jpg",
+      "mtime": "1655819851",
+      "size": "10360",
+      "md5": "81deddc0973cb879547376463ff9c321",
+      "crc32": "24e5c81b",
+      "sha1": "f67a5bfa4344d881de4d10d727262859d63f75b3"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T12:17:33.299579-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831858",
+      "size": "28643",
+      "md5": "44b173dffab18e96ce8e5874b7a2c5fe",
+      "crc32": "2c0cd3b1",
+      "sha1": "aa088c423b8ffe12535f80f2f8688ef8e7950a7c",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T12:17:33.299579-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831861",
+      "size": "25804",
+      "md5": "cabcd7a7d2da4ad6919b0f227e6c8ec3",
+      "crc32": "78abc47c",
+      "sha1": "ce6f98e0033c23b31be1e4217a427236d168cff5",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T12:17:33.299579-05:00.jpg",
+      "source": "original",
+      "mtime": "1655831856",
+      "size": "320591",
+      "md5": "040b052f41014472a8fd04a088952c67",
+      "crc32": "4088434a",
+      "sha1": "f46ce7c6f6742ce96dc3a44501b3abf628391daa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T12:17:33.299579-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-21T12:17:33.299579-05:00.jpg",
+      "mtime": "1655831938",
+      "size": "11048",
+      "md5": "85a2f045862bc34ef8fb30508a8aa161",
+      "crc32": "bdd23e41",
+      "sha1": "46d7d0eb10779cd0c7cfb0aa91152b691011ebfa"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T20:26:02.266652-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861169",
+      "size": "33910",
+      "md5": "39256a7d897a045aa1cb37448bd792c1",
+      "crc32": "e307096f",
+      "sha1": "8f8c9251d30f518330a4b67abf637637a0da59ff",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T20:26:02.266652-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861171",
+      "size": "30340",
+      "md5": "615068105a0641229e169461fc977a70",
+      "crc32": "4fc41185",
+      "sha1": "154f061fbe5e697c08178386ced1e939cee50ddb",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T20:26:02.266652-05:00.jpg",
+      "source": "original",
+      "mtime": "1655861164",
+      "size": "280169",
+      "md5": "69fc6d260d187c9ac8fc6cbf64a3e352",
+      "crc32": "39b8234c",
+      "sha1": "942f2c24fa0fd84abed3b475b4406e17038da15b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-21T20:26:02.266652-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-21T20:26:02.266652-05:00.jpg",
+      "mtime": "1655861368",
+      "size": "10836",
+      "md5": "2666b1dacb34604e8a4a4c8b6e9eeca2",
+      "crc32": "bf940dc4",
+      "sha1": "38d6873ee1997699283464cff54acbf48e57f6d7"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T04:19:16.409069-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889560",
+      "size": "33910",
+      "md5": "39256a7d897a045aa1cb37448bd792c1",
+      "crc32": "e307096f",
+      "sha1": "8f8c9251d30f518330a4b67abf637637a0da59ff",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T04:19:16.409069-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889562",
+      "size": "30340",
+      "md5": "615068105a0641229e169461fc977a70",
+      "crc32": "4fc41185",
+      "sha1": "154f061fbe5e697c08178386ced1e939cee50ddb",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T04:19:16.409069-05:00.jpg",
+      "source": "original",
+      "mtime": "1655889559",
+      "size": "280126",
+      "md5": "d8cc6505ddb3a66b3d519c105a4d4767",
+      "crc32": "efa2f6f6",
+      "sha1": "ed58f7d080ae67ee43c4b2826bcf138dc5026cc5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T04:19:16.409069-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-22T04:19:16.409069-05:00.jpg",
+      "mtime": "1655889620",
+      "size": "10824",
+      "md5": "7b381b732bd930c5fb05851589d59e02",
+      "crc32": "21a82418",
+      "sha1": "967e184c5f5a09053f3a77ee8d0a83834ac05279"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T12:32:52.425003-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919177",
+      "size": "33818",
+      "md5": "7318e7c3f0259962927731aead749c47",
+      "crc32": "f01b416a",
+      "sha1": "df8a1b92564a531b9437736674c8a521db9566df",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T12:32:52.425003-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919178",
+      "size": "30230",
+      "md5": "19dbe313a77ffbc0b44ff3a941e38936",
+      "crc32": "9548acda",
+      "sha1": "23e6ff3ed100c08051edd98c21248b94dc693796",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T12:32:52.425003-05:00.jpg",
+      "source": "original",
+      "mtime": "1655919175",
+      "size": "280160",
+      "md5": "afb61e3e38830176d928e365add5b3bc",
+      "crc32": "68002bbc",
+      "sha1": "7deb980909865611c61cc92059ef15b6cba8ae85",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T12:32:52.425003-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-22T12:32:52.425003-05:00.jpg",
+      "mtime": "1655919242",
+      "size": "10823",
+      "md5": "005f40ee02bcee3977f23c24b35eff11",
+      "crc32": "81793ef2",
+      "sha1": "38cfa30577240ff57200c56d3fc0774756743c4f"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T20:28:10.877756-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947697",
+      "size": "33881",
+      "md5": "a3ef2fe66a0107734d360abb2f5727a3",
+      "crc32": "38e39b60",
+      "sha1": "49f05299afd357007d3176c6c0f22c5be0ceac16",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T20:28:10.877756-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947699",
+      "size": "30323",
+      "md5": "a249df5a15f14322725dcdf3a3c867e3",
+      "crc32": "31c7a64d",
+      "sha1": "bb3658b3bb7ab1fd827b019d1f14c786decf04ca",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T20:28:10.877756-05:00.jpg",
+      "source": "original",
+      "mtime": "1655947696",
+      "size": "292636",
+      "md5": "7ee07a8e9340fa8ae629ea9c2e889df8",
+      "crc32": "d7a296dc",
+      "sha1": "dffa143ae4c7de7cca45c9b80b6abccdb7254090",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-22T20:28:10.877756-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-22T20:28:10.877756-05:00.jpg",
+      "mtime": "1655947756",
+      "size": "10879",
+      "md5": "6fd22bcfab73e39e18978cfa6deb225c",
+      "crc32": "e63ad648",
+      "sha1": "7cdd087ad4577440bc4779347fc64407787c6959"
+    },
+    {
+      "name": "sahanjournal-2022-06-23T04:20:23.679612-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976028",
+      "size": "33881",
+      "md5": "a3ef2fe66a0107734d360abb2f5727a3",
+      "crc32": "38e39b60",
+      "sha1": "49f05299afd357007d3176c6c0f22c5be0ceac16",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-23T04:20:23.679612-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976030",
+      "size": "30323",
+      "md5": "a249df5a15f14322725dcdf3a3c867e3",
+      "crc32": "31c7a64d",
+      "sha1": "bb3658b3bb7ab1fd827b019d1f14c786decf04ca",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-23T04:20:23.679612-05:00.jpg",
+      "source": "original",
+      "mtime": "1655976027",
+      "size": "292638",
+      "md5": "d6b3b3f656f3eb708fd372bf38d6e50e",
+      "crc32": "926858b7",
+      "sha1": "a25b3539b781b8d1f2dcd6d63378785e34630f8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-23T04:20:23.679612-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-23T04:20:23.679612-05:00.jpg",
+      "mtime": "1655976085",
+      "size": "10870",
+      "md5": "78dec3d0229044688ae9f425ad3a01fa",
+      "crc32": "7055dea7",
+      "sha1": "3bfffcaab5a1b6c13ee31babeb2e9a8afbdc27a0"
+    },
+    {
+      "name": "sahanjournal-2022-06-23T12:19:51.611041-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004796",
+      "size": "33881",
+      "md5": "a3ef2fe66a0107734d360abb2f5727a3",
+      "crc32": "38e39b60",
+      "sha1": "49f05299afd357007d3176c6c0f22c5be0ceac16",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-23T12:19:51.611041-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004798",
+      "size": "30323",
+      "md5": "a249df5a15f14322725dcdf3a3c867e3",
+      "crc32": "31c7a64d",
+      "sha1": "bb3658b3bb7ab1fd827b019d1f14c786decf04ca",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-06-23T12:19:51.611041-05:00.jpg",
+      "source": "original",
+      "mtime": "1656004794",
+      "size": "292636",
+      "md5": "7ee07a8e9340fa8ae629ea9c2e889df8",
+      "crc32": "d7a296dc",
+      "sha1": "dffa143ae4c7de7cca45c9b80b6abccdb7254090",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-06-23T12:19:51.611041-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-06-23T12:19:51.611041-05:00.jpg",
+      "mtime": "1656004851",
+      "size": "10879",
+      "md5": "6fd22bcfab73e39e18978cfa6deb225c",
+      "crc32": "e63ad648",
+      "sha1": "7cdd087ad4577440bc4779347fc64407787c6959"
+    },
+    {
       "name": "sahanjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8772062d9b559a1d61538bed63747cbea442ac8c",
-      "mtime": "1655760955",
-      "size": "86383",
-      "md5": "63ff1498d13d2d61d5e86427ac6afc7c",
-      "crc32": "c61f6f13",
-      "sha1": "40ad43522475d7a0d53d10fa5fe9ef81507db1bd",
+      "btih": "c3ffa6f3b9a6d38fa298975a36c7f85a9c49b659",
+      "mtime": "1656004857",
+      "size": "95849",
+      "md5": "429d05f91b85b1dd8fc70b6315ae1d91",
+      "crc32": "6fbdf0f5",
+      "sha1": "f136f4473b16f92de4a7bba099a2642c38121821",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sahanjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8aa3cba5fdfc813d42cda09ee04d49b8",
+      "md5": "c853dff7bcd75b4b7c6b119b62a9c4d5",
       "summation": "md5"
     },
     {
       "name": "sahanjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760876",
-      "size": "471040",
-      "md5": "66f0c3d9d37d8ee5a05ff441f2b49ed0",
-      "crc32": "4f9967cf",
-      "sha1": "e7bc8a5bbfb717598e2bdf9067defc19af2d65da",
+      "mtime": "1656004800",
+      "size": "524288",
+      "md5": "8fd1441f3115f935a06402458b5254d1",
+      "crc32": "662b2636",
+      "sha1": "005df570a949fa9af13eb85aa8aad00706fd449a",
       "format": "Metadata"
     },
     {
@@ -4190,9 +4652,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 399,
-  "item_last_updated": 1655760955,
-  "item_size": 36566718,
+  "files_count": 443,
+  "item_last_updated": 1656004857,
+  "item_size": 40477750,
   "metadata": {
     "identifier": "sahanjournal-2022",
     "collection": [
@@ -4411,52 +4873,32 @@
       "url": "https://checkout.fundjournalism.org/memberform?&org_id=sahanjournal&campaign=7015w000001OugBAAS"
     },
     {
-      "text": "business & work",
-      "url": "https://sahanjournal.com/topics/business-work/"
+      "text": "climate & environment",
+      "url": "https://sahanjournal.com/topics/climate/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/business-work/amazon-shakopee-warehouse-workers-rights-muslim-eid/"
+      "url": "https://sahanjournal.com/climate/met-council-parks-and-recreation-diversity-equity/"
     },
     {
-      "text": "Amazon\u2019s Shakopee workers rally for better pay, criticize company for not giving Muslim employees vacation on Eid.",
-      "url": "https://sahanjournal.com/business-work/amazon-shakopee-warehouse-workers-rights-muslim-eid/"
+      "text": "Local parks host diverse programming thanks to Met Council grants aimed at inclusion.",
+      "url": "https://sahanjournal.com/climate/met-council-parks-and-recreation-diversity-equity/"
     },
     {
-      "text": "Matt Furber",
-      "url": "https://sahanjournal.com/author/matt-furber/"
+      "text": "Sheila Mulrooney Eldred",
+      "url": "https://sahanjournal.com/author/seldredsahanjournal-com/"
     },
     {
-      "text": "health",
-      "url": "https://sahanjournal.com/topics/health/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/health/substance-abuse-recovery-abdirahman-warsame-poetry/"
-    },
-    {
-      "text": "VIDEO: Abdirahman Warsame seeks to heal communities through his work as a substance abuse specialist and poet.",
-      "url": "https://sahanjournal.com/health/substance-abuse-recovery-abdirahman-warsame-poetry/"
-    },
-    {
-      "text": "",
-      "url": "https://sahanjournal.com/author/aabdullahi/"
-    },
-    {
-      "text": "Aala Abdullahi",
-      "url": "https://sahanjournal.com/author/aabdullahi/"
-    },
-    {
-      "text": "education",
-      "url": "https://sahanjournal.com/topics/education/"
+      "text": "culture & community",
+      "url": "https://sahanjournal.com/topics/culture-community/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/education/university-of-minnesota-juneteenth-holiday-slavery/"
+      "url": "https://sahanjournal.com/culture-community/birdwatching-birding-urban-bird-collective-monica-bryand/"
     },
     {
-      "text": "The University of Minnesota fails to deliver on making Juneteenth a university holiday.\ufffc",
-      "url": "https://sahanjournal.com/education/university-of-minnesota-juneteenth-holiday-slavery/"
+      "text": "People of color, LGBTQ birdwatchers find camaraderie at the Urban Bird Collective.",
+      "url": "https://sahanjournal.com/culture-community/birdwatching-birding-urban-bird-collective-monica-bryand/"
     },
     {
       "text": "",
@@ -4467,16 +4909,36 @@
       "url": "https://sahanjournal.com/author/noor-adwan/"
     },
     {
-      "text": "housing",
-      "url": "https://sahanjournal.com/topics/housing/"
+      "text": "coronavirus",
+      "url": "https://sahanjournal.com/topics/health/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/housing/afghan-refugee-resettlement-afghanistan-rent-housing-minnesota/"
+      "url": "https://sahanjournal.com/health/covid-vaccine-kids-under-5-minnesota/"
     },
     {
-      "text": "Minnesota\u2019s embrace of Afghan refugees has turned into a crisis: many are facing eviction because government rental assistance expires after six months.\ufffc",
-      "url": "https://sahanjournal.com/housing/afghan-refugee-resettlement-afghanistan-rent-housing-minnesota/"
+      "text": "How to get the COVID-19 vaccine for kids under 5 in Minnesota.",
+      "url": "https://sahanjournal.com/health/covid-vaccine-kids-under-5-minnesota/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/joey-peters/"
+    },
+    {
+      "text": "Joey Peters",
+      "url": "https://sahanjournal.com/author/joey-peters/"
+    },
+    {
+      "text": "democracy & politics",
+      "url": "https://sahanjournal.com/topics/democracy-politics/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/democracy-politics/shakopee-board-of-commissioners-school-board-ibrahim-mohamed/"
+    },
+    {
+      "text": "Shakopee school board member vies to be Minnesota\u2019s first Somali county commissioner.",
+      "url": "https://sahanjournal.com/democracy-politics/shakopee-board-of-commissioners-school-board-ibrahim-mohamed/"
     },
     {
       "text": "SPONSORED CONTENT",
@@ -4520,11 +4982,35 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/business-work/amazon-shakopee-warehouse-workers-rights-muslim-eid/"
+    },
+    {
+      "text": "Amazon\u2019s Shakopee workers rally for better pay, criticize company for not giving Muslim employees vacation on Eid.",
+      "url": "https://sahanjournal.com/business-work/amazon-shakopee-warehouse-workers-rights-muslim-eid/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://sahanjournal.com/business-work/workers-rights-abuse-undocumented-immigrant-construction/"
     },
     {
       "text": "Workers\u2019 rights group calls on Twin Cities developers to help stop worker abuse.",
       "url": "https://sahanjournal.com/business-work/workers-rights-abuse-undocumented-immigrant-construction/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/health/substance-abuse-recovery-abdirahman-warsame-poetry/"
+    },
+    {
+      "text": "VIDEO: Abdirahman Warsame seeks to heal communities through his work as a substance abuse specialist and poet.",
+      "url": "https://sahanjournal.com/health/substance-abuse-recovery-abdirahman-warsame-poetry/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/education/university-of-minnesota-juneteenth-holiday-slavery/"
+    },
+    {
+      "text": "The University of Minnesota fails to deliver on making Juneteenth a university holiday.\ufffc",
+      "url": "https://sahanjournal.com/education/university-of-minnesota-juneteenth-holiday-slavery/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -4535,12 +5021,28 @@
       "url": "https://sahanjournal.com/democracy-politics/omar-fateh-state-senator-ethics-investigation-dawson-kimyon/"
     },
     {
+      "text": "",
+      "url": "https://sahanjournal.com/author/becky-z-dernbach/"
+    },
+    {
+      "text": "Becky Z. Dernbach",
+      "url": "https://sahanjournal.com/author/becky-z-dernbach/"
+    },
+    {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://sahanjournal.com/housing/racial-covenants-st-paul-ramsey-county-mapping-prejudice-university-of-minnesota/"
     },
     {
       "text": "New research details historically racist housing practices in Ramsey County. The racial covenants were most common in middle-class neighborhoods.",
       "url": "https://sahanjournal.com/housing/racial-covenants-st-paul-ramsey-county-mapping-prejudice-university-of-minnesota/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/joey-peters/"
+    },
+    {
+      "text": "Joey Peters",
+      "url": "https://sahanjournal.com/author/joey-peters/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -4551,20 +5053,116 @@
       "url": "https://sahanjournal.com/faith/mecca-hajj-pilgrimage-islam-saudi-arabia-lottery-minnesota/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/culture-community/john-gebretatose-minneapolis-comedian-eritrean-food-berebere-fries/"
+      "text": "",
+      "url": "https://sahanjournal.com/author/hansari/"
     },
     {
-      "text": "As immigrants, John Gebretatose and his mother learned to make french fries with Eritrean dipping sauce. The experience, he recalls, helped him feel like a \u2018normal\u2019 American kid.",
-      "url": "https://sahanjournal.com/culture-community/john-gebretatose-minneapolis-comedian-eritrean-food-berebere-fries/"
+      "text": "Hibah Ansari",
+      "url": "https://sahanjournal.com/author/hansari/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/sponsored/peoples-center-clinics-services-continues-to-protect-the-community-from-covid-19/"
+    },
+    {
+      "text": "People\u2019s Center Clinics & Services continues to protect the community from COVID-19",
+      "url": "https://sahanjournal.com/sponsored/peoples-center-clinics-services-continues-to-protect-the-community-from-covid-19/"
     },
     {
       "text": "",
-      "url": "https://sahanjournal.com/author/mecca-bos/"
+      "url": "https://www.peoples-center.org/"
     },
     {
-      "text": "Mecca Bos",
-      "url": "https://sahanjournal.com/author/mecca-bos/"
+      "text": "People's Center Clinics & Services",
+      "url": "https://www.peoples-center.org/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/community-voices/world-war-ii-vet-minnesota-language-school-history/"
+    },
+    {
+      "text": "Laura Yuen: At 94, this vet preserves the history of World War II linguists secretly trained in Minnesota",
+      "url": "https://sahanjournal.com/community-voices/world-war-ii-vet-minnesota-language-school-history/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/laura-yuen/"
+    },
+    {
+      "text": "Laura Yuen",
+      "url": "https://sahanjournal.com/author/laura-yuen/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/housing/afghan-refugees-minnesota-housing-help/"
+    },
+    {
+      "text": "Many Afghan families in Minnesota face eviction as rental aid from the government ends. Here\u2019s how you can help.",
+      "url": "https://sahanjournal.com/housing/afghan-refugees-minnesota-housing-help/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/hansari/"
+    },
+    {
+      "text": "Hibah Ansari",
+      "url": "https://sahanjournal.com/author/hansari/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/housing/afghan-refugee-resettlement-afghanistan-rent-housing-minnesota/"
+    },
+    {
+      "text": "Minnesota\u2019s embrace of Afghan refugees has turned into a crisis: many are facing eviction because government rental assistance expires after six months.\ufffc",
+      "url": "https://sahanjournal.com/housing/afghan-refugee-resettlement-afghanistan-rent-housing-minnesota/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/hansari/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/hussain-ali-haidari/"
+    },
+    {
+      "text": "Hibah Ansari",
+      "url": "https://sahanjournal.com/author/hansari/"
+    },
+    {
+      "text": "Hussain Ali Haidari",
+      "url": "https://sahanjournal.com/author/hussain-ali-haidari/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/culture-community/owamni-wins-beard-award-for-best-new-restaurant/"
+    },
+    {
+      "text": "Owamni in Minneapolis wins James Beard award for Best New Restaurant",
+      "url": "https://sahanjournal.com/culture-community/owamni-wins-beard-award-for-best-new-restaurant/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/melissa-olson/"
+    },
+    {
+      "text": "Melissa Olson",
+      "url": "https://sahanjournal.com/author/melissa-olson/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/climate/air-quality-smog-minnesota-department-of-health-minnesota-pollution-control-agency/"
+    },
+    {
+      "text": "High temperatures and lower air quality will hit the Twin Cities this week. Learn how to track air quality reports and protect your health.",
+      "url": "https://sahanjournal.com/climate/air-quality-smog-minnesota-department-of-health-minnesota-pollution-control-agency/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/seldredsahanjournal-com/"
+    },
+    {
+      "text": "Sheila Mulrooney Eldred",
+      "url": "https://sahanjournal.com/author/seldredsahanjournal-com/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -4597,54 +5195,6 @@
     {
       "text": "Sahan Journal is hiring an operations manager\u00a0to join its staff.",
       "url": "https://sahanjournal.com/inside-sahan-journal/sahan-journal-is-hiring-an-operations-manager-to-join-its-staff/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/sponsored/peoples-center-clinics-services-continues-to-protect-the-community-from-covid-19/"
-    },
-    {
-      "text": "People\u2019s Center Clinics & Services continues to protect the community from COVID-19",
-      "url": "https://sahanjournal.com/sponsored/peoples-center-clinics-services-continues-to-protect-the-community-from-covid-19/"
-    },
-    {
-      "text": "",
-      "url": "https://www.peoples-center.org/"
-    },
-    {
-      "text": "People's Center Clinics & Services",
-      "url": "https://www.peoples-center.org/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/community-voices/world-war-ii-vet-minnesota-language-school-history/"
-    },
-    {
-      "text": "Laura Yuen: At 94, this vet preserves the history of World War II linguists secretly trained in Minnesota",
-      "url": "https://sahanjournal.com/community-voices/world-war-ii-vet-minnesota-language-school-history/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/housing/afghan-refugees-minnesota-housing-help/"
-    },
-    {
-      "text": "Many Afghan families in Minnesota face eviction as rental aid from the government ends. Here\u2019s how you can help.",
-      "url": "https://sahanjournal.com/housing/afghan-refugees-minnesota-housing-help/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/culture-community/owamni-wins-beard-award-for-best-new-restaurant/"
-    },
-    {
-      "text": "Owamni in Minneapolis wins James Beard award for Best New Restaurant",
-      "url": "https://sahanjournal.com/culture-community/owamni-wins-beard-award-for-best-new-restaurant/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sahanjournal.com/climate/air-quality-smog-minnesota-department-of-health-minnesota-pollution-control-agency/"
-    },
-    {
-      "text": "High temperatures and lower air quality will hit the Twin Cities this week. Learn how to track air quality reports and protect your health.",
-      "url": "https://sahanjournal.com/climate/air-quality-smog-minnesota-department-of-health-minnesota-pollution-control-agency/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -4695,28 +5245,12 @@
       "url": "https://sahanjournal.com/changing-minnesota/bois-forte-celebrates-historic-return-of-tribal-land/"
     },
     {
-      "text": "",
-      "url": "https://sahanjournal.com/author/jana-hollingsworth/"
-    },
-    {
-      "text": "Jana Hollingsworth",
-      "url": "https://sahanjournal.com/author/jana-hollingsworth/"
-    },
-    {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://sahanjournal.com/policing-justice/carjacking-minneapolis-abubakar-as-saddique-islamic-center/"
     },
     {
       "text": "Carjackings rattle south Minneapolis mosque. Leaders say many worshipers have stopped coming for nightly prayers. \u00a0",
       "url": "https://sahanjournal.com/policing-justice/carjacking-minneapolis-abubakar-as-saddique-islamic-center/"
-    },
-    {
-      "text": "",
-      "url": "https://sahanjournal.com/author/seldredsahanjournal-com/"
-    },
-    {
-      "text": "Sheila Mulrooney Eldred",
-      "url": "https://sahanjournal.com/author/seldredsahanjournal-com/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -4727,14 +5261,6 @@
       "url": "https://sahanjournal.com/education/minnesota-graduation-2022-first-generation/"
     },
     {
-      "text": "",
-      "url": "https://sahanjournal.com/author/becky-z-dernbach/"
-    },
-    {
-      "text": "Becky Z. Dernbach",
-      "url": "https://sahanjournal.com/author/becky-z-dernbach/"
-    },
-    {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://sahanjournal.com/democracy-politics/omar-fateh-ethics-complaint-somali-tv-minnesota-senate/"
     },
@@ -4743,28 +5269,12 @@
       "url": "https://sahanjournal.com/democracy-politics/omar-fateh-ethics-complaint-somali-tv-minnesota-senate/"
     },
     {
-      "text": "",
-      "url": "https://sahanjournal.com/author/joey-peters/"
-    },
-    {
-      "text": "Joey Peters",
-      "url": "https://sahanjournal.com/author/joey-peters/"
-    },
-    {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://sahanjournal.com/inside-sahan-journal/reporters-committee-freedom-of-the-press-awards-2022-sahan-journal/"
     },
     {
       "text": "Sahan Journal to be honored with Rising Star Award from Reporters Committee for Freedom of the Press.",
       "url": "https://sahanjournal.com/inside-sahan-journal/reporters-committee-freedom-of-the-press-awards-2022-sahan-journal/"
-    },
-    {
-      "text": "",
-      "url": "https://sahanjournal.com/author/sahanjournal/"
-    },
-    {
-      "text": "Sahan Journal",
-      "url": "https://sahanjournal.com/author/sahanjournal/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -4895,6 +5405,86 @@
       "url": "https://sahanjournal.com/author/joey-peters/"
     },
     {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/changing-minnesota/minnesota-has-long-welcomed-people-fleeing-disaster-in-their-home-countries/"
+    },
+    {
+      "text": "Minnesota has long welcomed people fleeing disaster in their home countries.",
+      "url": "https://sahanjournal.com/changing-minnesota/minnesota-has-long-welcomed-people-fleeing-disaster-in-their-home-countries/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/nina-moini/"
+    },
+    {
+      "text": "Nina Moini",
+      "url": "https://sahanjournal.com/author/nina-moini/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/health/autism-diagnosis-signs-symptoms-help-minnesota-somali-parents/"
+    },
+    {
+      "text": "Concerned about autism and your child? What are the signs and symptoms of autism? Here\u2019s where Somali families can go first for answers and help.",
+      "url": "https://sahanjournal.com/health/autism-diagnosis-signs-symptoms-help-minnesota-somali-parents/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/hansari/"
+    },
+    {
+      "text": "Hibah Ansari",
+      "url": "https://sahanjournal.com/author/hansari/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/sponsored/know-your-operator-abdulrzaq-ali/"
+    },
+    {
+      "text": "Know Your Operator: Abdulrzaq Ali",
+      "url": "https://sahanjournal.com/sponsored/know-your-operator-abdulrzaq-ali/"
+    },
+    {
+      "text": "",
+      "url": "https://www.metrotransit.org/"
+    },
+    {
+      "text": "Metro Transit",
+      "url": "https://www.metrotransit.org/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/sponsored/bush-fellowship-program-2022-celebrate-minnesota-leaders/"
+    },
+    {
+      "text": "Bush Foundation selects 24 extraordinary leaders for 2022 Fellowships",
+      "url": "https://sahanjournal.com/sponsored/bush-fellowship-program-2022-celebrate-minnesota-leaders/"
+    },
+    {
+      "text": "",
+      "url": "https://www.bushfoundation.org/"
+    },
+    {
+      "text": "The Bush Foundation",
+      "url": "https://www.bushfoundation.org/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sahanjournal.com/democracy-politics/shaun-laden-omar-fateh-minnesota-senate-elections/"
+    },
+    {
+      "text": "State Senator Omar Fateh\u2019s reelection bid is being challenged by a union leader. Shaun Laden is running against the embattled legislator, who faces an ethics investigation.",
+      "url": "https://sahanjournal.com/democracy-politics/shaun-laden-omar-fateh-minnesota-senate-elections/"
+    },
+    {
+      "text": "",
+      "url": "https://sahanjournal.com/author/becky-z-dernbach/"
+    },
+    {
+      "text": "Becky Z. Dernbach",
+      "url": "https://sahanjournal.com/author/becky-z-dernbach/"
+    },
+    {
       "text": "\n\t\t\t\t\t\t\t\t\t",
       "url": "https://sahanjournal.com/"
     },
@@ -4940,7 +5530,7 @@
     }
   ],
   "server": "ia801002.us.archive.org",
-  "uniq": 752016416,
+  "uniq": 1754047783,
   "workable_servers": [
     "ia801002.us.archive.org",
     "ia601002.us.archive.org"

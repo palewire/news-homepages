@@ -1,5 +1,5 @@
 {
-  "created": 1655770882,
+  "created": 1656030219,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/theblaze-2022",
@@ -3886,31 +3886,493 @@
       "sha1": "e0b0042d8f26311c43e18fe2d76292ee550cdb41"
     },
     {
+      "name": "theblaze-2022-06-20T21:36:05.926098-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775370",
+      "size": "46674",
+      "md5": "c9a0fd123946e1c8b15096bad52c4217",
+      "crc32": "adb2e3ab",
+      "sha1": "6868fd1fdb557e69580abfaa1361076454df4a4e",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-20T21:36:05.926098-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775374",
+      "size": "72708",
+      "md5": "bd4fba652a28c927c317bcde31bc3d40",
+      "crc32": "4534d971",
+      "sha1": "784ce59f3e479f40805d2d873e17f8d83aa1f48d",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-20T21:36:05.926098-04:00.jpg",
+      "source": "original",
+      "mtime": "1655775368",
+      "size": "290207",
+      "md5": "521b4e55e2a13a1c03fdd5cb7111a3ec",
+      "crc32": "9accccf0",
+      "sha1": "7f5138f1f501761e33fb38cf1466c24345d4d3e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-20T21:36:05.926098-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-20T21:36:05.926098-04:00.jpg",
+      "mtime": "1655775430",
+      "size": "10538",
+      "md5": "9f3810f00071cbfe4077f99052b0fa7a",
+      "crc32": "2bbe7a1c",
+      "sha1": "2777a227501b445009f5b173452bd70eb4f14f4d"
+    },
+    {
+      "name": "theblaze-2022-06-21T01:30:20.857710-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789428",
+      "size": "47773",
+      "md5": "121653d6188e573a8ce89bfdba9afebc",
+      "crc32": "2e0a3c3b",
+      "sha1": "dc574b08e6f8fd6bccbb4c67b76db3df883749bb",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T01:30:20.857710-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789430",
+      "size": "72484",
+      "md5": "59662527cebe05876ad2380198a3cebd",
+      "crc32": "5e261b3d",
+      "sha1": "4311d677e365463ed9a084842ae44867f6d4d486",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T01:30:20.857710-04:00.jpg",
+      "source": "original",
+      "mtime": "1655789427",
+      "size": "293580",
+      "md5": "f0a98bf7ba146d89eb02a74f3523637b",
+      "crc32": "c7b34d60",
+      "sha1": "d4f615a26ea7c9d5b4fdd4a1b463f93eff2a1929",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-21T01:30:20.857710-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-21T01:30:20.857710-04:00.jpg",
+      "mtime": "1655789512",
+      "size": "10606",
+      "md5": "4d8cf416a5b56407346fd557debd5189",
+      "crc32": "2da182d2",
+      "sha1": "dd90dfafd2d7eaac4aa685a0a6100225c6a99b3d"
+    },
+    {
+      "name": "theblaze-2022-06-21T08:32:22.576691-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814747",
+      "size": "46696",
+      "md5": "3292da9327207f781c9bd2304c2b7a4e",
+      "crc32": "df26fbdd",
+      "sha1": "cb266c8243a9ceb7ec99554bc67b9872e108bfcd",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T08:32:22.576691-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814750",
+      "size": "72484",
+      "md5": "59662527cebe05876ad2380198a3cebd",
+      "crc32": "5e261b3d",
+      "sha1": "4311d677e365463ed9a084842ae44867f6d4d486",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T08:32:22.576691-04:00.jpg",
+      "source": "original",
+      "mtime": "1655814745",
+      "size": "296059",
+      "md5": "9cc7900d9fd79bcc6aa61dd0d9ef142f",
+      "crc32": "a94dfc17",
+      "sha1": "a70a0e5f705a0a72cb83c17dd159e0c2dd545243",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-21T08:32:22.576691-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-21T08:32:22.576691-04:00.jpg",
+      "mtime": "1655814824",
+      "size": "10619",
+      "md5": "5f9315613df0a8beaaf053fc009579f6",
+      "crc32": "905fdf95",
+      "sha1": "dc0541ddc791e45392209527d9f6cbe774be5565"
+    },
+    {
+      "name": "theblaze-2022-06-21T09:57:22.122704-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819846",
+      "size": "46441",
+      "md5": "2de9d99e8906888a3c0c7d36a49adf7a",
+      "crc32": "6d5dce66",
+      "sha1": "1fd858bacc8cd56c34465ba97ff8d2a04a0ba8ba",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T09:57:22.122704-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819847",
+      "size": "72687",
+      "md5": "f0955a74b747c467db506609e5c0c37e",
+      "crc32": "446878a6",
+      "sha1": "261ffd02df1122f50291b1d2351eac087430d2ea",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T09:57:22.122704-04:00.jpg",
+      "source": "original",
+      "mtime": "1655819844",
+      "size": "282732",
+      "md5": "4d7a37f2768712ab241652922c206b3a",
+      "crc32": "d52a3a05",
+      "sha1": "720edf759182f0085c8fa31707694bd4fd871608",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-21T09:57:22.122704-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-21T09:57:22.122704-04:00.jpg",
+      "mtime": "1655819903",
+      "size": "10333",
+      "md5": "01a23c2471be3fe0d513dfca4a8db6ed",
+      "crc32": "de7345b8",
+      "sha1": "64f3b6bcdd0c07f34e41fda1aede2ed19296305c"
+    },
+    {
+      "name": "theblaze-2022-06-21T13:18:40.474053-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831924",
+      "size": "48046",
+      "md5": "5d28811859c2f93edf5aa8876a146352",
+      "crc32": "0e01e6ea",
+      "sha1": "b13546f224ff72e92df72ec0403ac0771e79fb33",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T13:18:40.474053-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831926",
+      "size": "72056",
+      "md5": "ab79ac585e1d17e3842ad75351a695d0",
+      "crc32": "ef508608",
+      "sha1": "13c5194ea70ecf9e8857744e1bad22ab98a58a78",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T13:18:40.474053-04:00.jpg",
+      "source": "original",
+      "mtime": "1655831922",
+      "size": "294712",
+      "md5": "60dc8d4e5de238ab07340776400ed5af",
+      "crc32": "49e4bfdf",
+      "sha1": "f816eaf373cf33c0225e7772e06b7f5bde5c84db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-21T13:18:40.474053-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-21T13:18:40.474053-04:00.jpg",
+      "mtime": "1655832031",
+      "size": "10541",
+      "md5": "6a024ebeb1f6119bdd4afac2008a30b0",
+      "crc32": "1ba1644e",
+      "sha1": "b7e8272e74718bfa58703af5c11d994124fa7a07"
+    },
+    {
+      "name": "theblaze-2022-06-21T21:26:54.607759-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861220",
+      "size": "46847",
+      "md5": "b2cedbad879bd333b33e45600e2cb67c",
+      "crc32": "e3f39d28",
+      "sha1": "740403267c0376071131ba5dc9bb4f92b02412cf",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T21:26:54.607759-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861225",
+      "size": "85694",
+      "md5": "d90bc2238c587f3f0427d515d2ceb133",
+      "crc32": "799ae403",
+      "sha1": "808c80a7c08bd1a62ec1ac68cd3606e1a4ab9351",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-21T21:26:54.607759-04:00.jpg",
+      "source": "original",
+      "mtime": "1655861216",
+      "size": "281066",
+      "md5": "589dde84e93d7d69ac367ee501125f3e",
+      "crc32": "ff4beaa2",
+      "sha1": "c0fc9562fcebedd39242625fbbdbc5ae32866e14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-21T21:26:54.607759-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-21T21:26:54.607759-04:00.jpg",
+      "mtime": "1655861400",
+      "size": "10227",
+      "md5": "36aca0d14da857f6382eb29c338be766",
+      "crc32": "47ed4e8d",
+      "sha1": "b64614962cc17bf5e14feb330ed278e4a5a477ea"
+    },
+    {
+      "name": "theblaze-2022-06-22T05:19:36.378763-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889580",
+      "size": "47092",
+      "md5": "d672263b5e12f1d9f5c8b14105a5ac99",
+      "crc32": "76b14b86",
+      "sha1": "7a173e9d80f97afc49ce2c14a88b3ef15568932d",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-22T05:19:36.378763-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889582",
+      "size": "84505",
+      "md5": "1b302448c72505d579db0b6be39f3e75",
+      "crc32": "5ff36b12",
+      "sha1": "e2e824badea863c57775e1de636a37be480e2bb3",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-22T05:19:36.378763-04:00.jpg",
+      "source": "original",
+      "mtime": "1655889579",
+      "size": "284154",
+      "md5": "5954db1bba2736aa43970439cde23d58",
+      "crc32": "ece988a2",
+      "sha1": "46b148b25defaf410ded3b375ae0d3d37362ca7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-22T05:19:36.378763-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-22T05:19:36.378763-04:00.jpg",
+      "mtime": "1655889642",
+      "size": "10245",
+      "md5": "b455c17773c366f249c357459f827473",
+      "crc32": "78a6c3f1",
+      "sha1": "0e36861938bf12e7792ae0d8436dbb94712b1e6d"
+    },
+    {
+      "name": "theblaze-2022-06-22T13:33:34.246386-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919217",
+      "size": "48406",
+      "md5": "93bef353d0a55b75b601acb1be6cc3c9",
+      "crc32": "c93a4cac",
+      "sha1": "fa03c10db78cbc589b3721a8ec315851133bcac1",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-22T13:33:34.246386-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919219",
+      "size": "80636",
+      "md5": "cc1045ba7f2f3541bf50908f1dbd7350",
+      "crc32": "1d44998c",
+      "sha1": "1fda2491f6d91b2663d05968633c63c760c05ea7",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-22T13:33:34.246386-04:00.jpg",
+      "source": "original",
+      "mtime": "1655919215",
+      "size": "289849",
+      "md5": "c6ff9e91dd3e13742c58decebddc0df4",
+      "crc32": "416337dc",
+      "sha1": "a0ed392357dacafbec3858c9f649697f5794cc34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-22T13:33:34.246386-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-22T13:33:34.246386-04:00.jpg",
+      "mtime": "1655919271",
+      "size": "10429",
+      "md5": "3159075497cda7520aff79457ea89859",
+      "crc32": "2007380b",
+      "sha1": "9061d540946cf3e76406e3c9d3f38dc4d9caa502"
+    },
+    {
+      "name": "theblaze-2022-06-22T21:28:59.716407-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947743",
+      "size": "47356",
+      "md5": "b2753d9c9efd2987b2d9005e5676ec94",
+      "crc32": "86dbf69e",
+      "sha1": "9e5e7709d80fda2dda9ace5a47a35a1ab9ccaa23",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-22T21:28:59.716407-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947744",
+      "size": "81057",
+      "md5": "1bf81c85b8de21afd895c6fc7e263735",
+      "crc32": "e44b8104",
+      "sha1": "c082bf18aedee0060b3e28eb3b92944b0ca4c3a9",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-22T21:28:59.716407-04:00.jpg",
+      "source": "original",
+      "mtime": "1655947741",
+      "size": "289609",
+      "md5": "46f1afa65835fb7da7bf52f50d45d9f2",
+      "crc32": "f9b18540",
+      "sha1": "780c0992c04768a1f1ee6f6caa90a7254ace53a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-22T21:28:59.716407-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-22T21:28:59.716407-04:00.jpg",
+      "mtime": "1655947791",
+      "size": "10508",
+      "md5": "19ccd2d297080828dd6e5fbdeb9a21d1",
+      "crc32": "345b0eb0",
+      "sha1": "05f3888673f0555db84ef9f0c6188c79114112bf"
+    },
+    {
+      "name": "theblaze-2022-06-23T05:21:14.597106-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976079",
+      "size": "47878",
+      "md5": "dd8bc9ff0d780a08034121957436b74a",
+      "crc32": "6dfc0f37",
+      "sha1": "a3f5972d6fdecf69f4bb8635cb377434c8f28f50",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-23T05:21:14.597106-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976081",
+      "size": "79973",
+      "md5": "359c9a27af0d33e3018686b06a6392b5",
+      "crc32": "06d33028",
+      "sha1": "ee11a280f98cfe4e0fe1c8650f76ec4d9e28190e",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-23T05:21:14.597106-04:00.jpg",
+      "source": "original",
+      "mtime": "1655976077",
+      "size": "295249",
+      "md5": "b13f1103108cac3d64673519a8f7b8dd",
+      "crc32": "8e26f2cd",
+      "sha1": "44b876761d7c7615ac44ba093ae9eaffaca019ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-23T05:21:14.597106-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-23T05:21:14.597106-04:00.jpg",
+      "mtime": "1655976131",
+      "size": "10265",
+      "md5": "d2f6ec32632c826dbbea8496717fce78",
+      "crc32": "7a25cf8f",
+      "sha1": "8b146e59379fcf98e4b9981c95e064f9c6048dd1"
+    },
+    {
+      "name": "theblaze-2022-06-23T13:20:51.123163-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004853",
+      "size": "48724",
+      "md5": "6a2b3a27a62995074d8132c9e50e607e",
+      "crc32": "d66969e6",
+      "sha1": "5b2bae34b3fc5d7a4f77f13e29ec1ce5d3935a11",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-23T13:20:51.123163-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004855",
+      "size": "73465",
+      "md5": "9295a9a05d0ec22545b535235c91ec41",
+      "crc32": "f51aa057",
+      "sha1": "cf6817d4306ea881a6a250da260f495fb79e877e",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-06-23T13:20:51.123163-04:00.jpg",
+      "source": "original",
+      "mtime": "1656004852",
+      "size": "285612",
+      "md5": "77f62417c7dcb535ccc284b71f87e994",
+      "crc32": "34cd2a85",
+      "sha1": "81de182133e52912d2702d2cee399295af56d727",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-06-23T13:20:51.123163-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-06-23T13:20:51.123163-04:00.jpg",
+      "mtime": "1656004915",
+      "size": "10360",
+      "md5": "c79cebad1efd5895c5a7aff9d5fe4e8c",
+      "crc32": "df7202be",
+      "sha1": "11563b0956c89f307a5912d242772ef3be9e2469"
+    },
+    {
       "name": "theblaze-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dfd688f3878076da78a307dc68b1faf396c5504a",
-      "mtime": "1655761265",
-      "size": "79429",
-      "md5": "ee2d1b3278d4b5afea7e4d23e8806ff8",
-      "crc32": "7575c3e4",
-      "sha1": "0dcbd30f551ff4bff51d64d569f89af3dc1cd931",
+      "btih": "ece0bf36ac987151b2eacbf02adfaafe4ad99833",
+      "mtime": "1656004920",
+      "size": "88739",
+      "md5": "821b6a0e8f189eed6932de69922e6329",
+      "crc32": "6ab12ddd",
+      "sha1": "b5fc424ae9e0aa4d3e13b32b192454e70aa4f047",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theblaze-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2729a579d0f2b882b70e9c201108eef1",
+      "md5": "1348a1ed8ff5e976852ffab62052fc9e",
       "summation": "md5"
     },
     {
       "name": "theblaze-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655761200",
-      "size": "438272",
-      "md5": "a1cb1fe2c4bc14edd94095300e703933",
-      "crc32": "cf14cbc4",
-      "sha1": "9b735817c2d3d2d14dacbb90ba71330e262b2bf6",
+      "mtime": "1656004858",
+      "size": "483328",
+      "md5": "ad8f3e3435bd548e7bbb02d75c99ff74",
+      "crc32": "17b7af82",
+      "sha1": "583f4fba0e5597ccc332cda331439c8b2f41e3fb",
       "format": "Metadata"
     },
     {
@@ -3924,9 +4386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 373,
-  "item_last_updated": 1655761265,
-  "item_size": 39792679,
+  "files_count": 417,
+  "item_last_updated": 1656004920,
+  "item_size": 44514227,
   "metadata": {
     "identifier": "theblaze-2022",
     "collection": [
@@ -4371,6 +4833,186 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/dems-are-losing-minority-voters"
+    },
+    {
+      "text": "The Rubin Report",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/"
+    },
+    {
+      "text": "\n        MSNBC analyst tells desperate Dems why they must 'SCARE THE HELL' out of minority voters\n    ",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/dems-are-losing-minority-voters"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/ready-we-are-live-from-the-supreme-court-dobbs-v-jackson-women-s-health"
+    },
+    {
+      "text": "Louder with Crowder",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/"
+    },
+    {
+      "text": "\n        We are LIVE from the SUPREME COURT: On the watch for Dobbs v. Jackson Women's Health\n    ",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/ready-we-are-live-from-the-supreme-court-dobbs-v-jackson-women-s-health"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/copy-edit-new-ev-has-solar-panels-built-into-the-chassis-what-could-go-wrong"
+    },
+    {
+      "text": "Pat Gray Unleashed",
+      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/"
+    },
+    {
+      "text": "\n        New EV has solar panels built into the chassis. What could go wrong?\n    ",
+      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/copy-edit-new-ev-has-solar-panels-built-into-the-chassis-what-could-go-wrong"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/glenn-tv/abolish-department-of-education"
+    },
+    {
+      "text": "Glenn TV",
+      "url": "https://www.theblaze.com/shows/glenn-tv/"
+    },
+    {
+      "text": "\n        Glenn Beck: Here's why we must ABOLISH the Department of Education NOW\n    ",
+      "url": "https://www.theblaze.com/shows/glenn-tv/abolish-department-of-education"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/video/ryan-grantham-trudeau"
+    },
+    {
+      "text": "\n        'Diary of a Wimpy Kid' actor who murdered his mom reportedly planned to kill Justin Trudeau\n    ",
+      "url": "https://www.theblaze.com/video/ryan-grantham-trudeau"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/jane-s-revenge"
+    },
+    {
+      "text": "The Glenn Beck Program",
+      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/"
+    },
+    {
+      "text": "\n        AP issues DIRE warning of pro-lifers wielding 'lawn chairs and a cooler' \u2014 ignores pro-choice attacks\n    ",
+      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/jane-s-revenge"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/video/project-veritas-demands-doj-answers-for-unfounded-stolen-ashley-biden-diary-investigation"
+    },
+    {
+      "text": "\n        Project Veritas DEMANDS  DOJ answers for unfounded 'stolen' Ashley Biden diary investigation\n    ",
+      "url": "https://www.theblaze.com/video/project-veritas-demands-doj-answers-for-unfounded-stolen-ashley-biden-diary-investigation"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/ready-uvalde-update-we-now-know-how-bad-police-botched-it"
+    },
+    {
+      "text": "Louder with Crowder",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/"
+    },
+    {
+      "text": "\n        UVALDE UPDATE: We now know how BAD police botched it\n    ",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/ready-uvalde-update-we-now-know-how-bad-police-botched-it"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/california-trans-santuary-bill"
+    },
+    {
+      "text": "The Rubin Report",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/"
+    },
+    {
+      "text": "\n        Parent of 'de-transitioned' child gives  HEARTBREAKING plea to stop trans sanctuary bill\n    ",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/california-trans-santuary-bill"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/fearless-with-jason-whitlock/juneteenth"
+    },
+    {
+      "text": "Fearless with Jason Whitlock",
+      "url": "https://www.theblaze.com/shows/fearless-with-jason-whitlock/"
+    },
+    {
+      "text": "\n        Challenging what you thought you knew about Juneteenth\n    ",
+      "url": "https://www.theblaze.com/shows/fearless-with-jason-whitlock/juneteenth"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/personality/stu-burguiere/kamala-harris-joy-reid"
+    },
+    {
+      "text": "Stu Burguiere",
+      "url": "https://www.theblaze.com/personality/stu-burguiere/"
+    },
+    {
+      "text": "\n        Kamala Harris gets stuck repeating the word 'joy' during painfully awkward interview with Joy Reid\n    ",
+      "url": "https://www.theblaze.com/personality/stu-burguiere/kamala-harris-joy-reid"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/video/watch-psycho-tiktoker-says-she-would-get-pregnant-just-to-kill-it"
+    },
+    {
+      "text": "\n        Unhinged TikToker goes on disgusting pro-abortion rant, says she'd 'get pregnant just to kill it'\n    ",
+      "url": "https://www.theblaze.com/video/watch-psycho-tiktoker-says-she-would-get-pregnant-just-to-kill-it"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/ready-elon-musk-s-kid-xavier-did-what-to-publicly-shame-her-dad"
+    },
+    {
+      "text": "Louder with Crowder",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/"
+    },
+    {
+      "text": "\n        Elon Musk's kid Xavier did WHAT to publicly shame HER dad?\n    ",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/ready-elon-musk-s-kid-xavier-did-what-to-publicly-shame-her-dad"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/lightyear-flops-and-disney-can-t-figure-out-why"
+    },
+    {
+      "text": "The Glenn Beck Program",
+      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/"
+    },
+    {
+      "text": "\n        Disney's 'Lightyear' FLOPS at box office and the left can't figure out WHY\n    ",
+      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/lightyear-flops-and-disney-can-t-figure-out-why"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/random-tiktokker-finally-admits-the-truth-about-neopronouns"
+    },
+    {
+      "text": "Louder with Crowder",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/"
+    },
+    {
+      "text": "\n        Random Tiktokker finally admits the TRUTH about 'neopronouns'\n    ",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/random-tiktokker-finally-admits-the-truth-about-neopronouns"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/anderson-cooper-harry-enten"
+    },
+    {
+      "text": "The Rubin Report",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/"
+    },
+    {
+      "text": "\n        Watch Anderson Cooper's head EXPLODE as data analyst predicts Dem blowout\n    ",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/anderson-cooper-harry-enten"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
       "url": "https://www.theblaze.com/shows/the-chad-prather-show/bill-maher-desantis-trump"
     },
     {
@@ -4470,228 +5112,24 @@
       "url": "https://www.theblaze.com/shows/the-glenn-beck-program/buttigieg-electric-vehicles"
     },
     {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/crowder-move-over-russia-china-is-going-to-f-k-taiwan"
-    },
-    {
-      "text": "Louder with Crowder",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/"
-    },
-    {
-      "text": "\n        CROWDER: Move over, Russia! China is going to F**K Taiwan!\n    ",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/crowder-move-over-russia-china-is-going-to-f-k-taiwan"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/glenn-tv/global-supply-crisis-explained"
-    },
-    {
-      "text": "Glenn TV",
-      "url": "https://www.theblaze.com/shows/glenn-tv/"
-    },
-    {
-      "text": "\n        'Pathway to servitude': The TRAITORS who created the global supply crisis\n    ",
-      "url": "https://www.theblaze.com/shows/glenn-tv/global-supply-crisis-explained"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/levintv/humble-hero-jumped-into-action-after-a-multi-car-crash-ejects-infant-into-deep-water-off-md-bridge"
-    },
-    {
-      "text": "LevinTV",
-      "url": "https://www.theblaze.com/shows/levintv/"
-    },
-    {
-      "text": "\n        Humble hero jumped into action after a multi-car crash ejected Infant into deep water off MD bridge\n    ",
-      "url": "https://www.theblaze.com/shows/levintv/humble-hero-jumped-into-action-after-a-multi-car-crash-ejects-infant-into-deep-water-off-md-bridge"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/the-chad-prather-show/copy-edit-lizzo-s-latest-scandal-proves-that-no-one-is-safe-from-social-justice-warriors"
-    },
-    {
-      "text": "The Chad Prather Show",
-      "url": "https://www.theblaze.com/shows/the-chad-prather-show/"
-    },
-    {
-      "text": "\n        Lizzo's latest scandal proves that NO ONE is safe from social justice warriors\n    ",
-      "url": "https://www.theblaze.com/shows/the-chad-prather-show/copy-edit-lizzo-s-latest-scandal-proves-that-no-one-is-safe-from-social-justice-warriors"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/the-rubin-report/desantis-responds-elon-musk?utm_campaign=post-teaser&utm_content=zsx1ec47"
-    },
-    {
-      "text": "The Rubin Report",
-      "url": "https://www.theblaze.com/shows/the-rubin-report/"
-    },
-    {
-      "text": "\n        Ron DeSantis' response to Elon Musk's likely support in 2024 has Leftist losing their minds\n    ",
-      "url": "https://www.theblaze.com/shows/the-rubin-report/desantis-responds-elon-musk?utm_campaign=post-teaser&utm_content=zsx1ec47"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/relatable/stop-playing-the-victim-amber-heard-dragged-over-insulting-interview-with-savannah-guthrie"
-    },
-    {
-      "text": "Relatable",
-      "url": "https://www.theblaze.com/shows/relatable/"
-    },
-    {
-      "text": "\n        'Stop playing the victim': Amber Heard DRAGGED over 'insulting' interview with Savannah Guthrie\n    ",
-      "url": "https://www.theblaze.com/shows/relatable/stop-playing-the-victim-amber-heard-dragged-over-insulting-interview-with-savannah-guthrie"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/copy-edit-here-s-why-elon-musk-texas-hispanics-went-full-republican-for-the-first-time"
-    },
-    {
-      "text": "Louder with Crowder",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/"
-    },
-    {
-      "text": "\n        Here's why Elon Musk & Texas Hispanics went FULL REPUBLICAN for the first time\n    ",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/copy-edit-here-s-why-elon-musk-texas-hispanics-went-full-republican-for-the-first-time"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/fearless-with-jason-whitlock/-2657509251"
-    },
-    {
-      "text": "Fearless with Jason Whitlock",
-      "url": "https://www.theblaze.com/shows/fearless-with-jason-whitlock/"
-    },
-    {
-      "text": "\n        Who's responsible for empowering swaths of society to groom your children?\n    ",
-      "url": "https://www.theblaze.com/shows/fearless-with-jason-whitlock/-2657509251"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/steve-deace-show/don-t-mess-with-texas-steve-deace-says-not-so-fast"
-    },
-    {
-      "text": "Steve Deace Show",
-      "url": "https://www.theblaze.com/shows/steve-deace-show/"
-    },
-    {
-      "text": "\n        'Dont mess with Texas?' Steve Deace says not so fast...\n    ",
-      "url": "https://www.theblaze.com/shows/steve-deace-show/don-t-mess-with-texas-steve-deace-says-not-so-fast"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/the-rubin-report/jake-paul-slams-biden-on-twitter?utm_campaign=post-teaser&utm_content=uoaks9hf"
-    },
-    {
-      "text": "The Rubin Report",
-      "url": "https://www.theblaze.com/shows/the-rubin-report/"
-    },
-    {
-      "text": "\n        Why Jake Paul PUMMELING Biden on Twitter is a bad omen for Democrats\n    ",
-      "url": "https://www.theblaze.com/shows/the-rubin-report/jake-paul-slams-biden-on-twitter?utm_campaign=post-teaser&utm_content=uoaks9hf"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/christina-aguilera-raunchy-pride-costumes"
-    },
-    {
-      "text": "Pat Gray Unleashed",
-      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/"
-    },
-    {
-      "text": "\n        EYE-BLEACH WARNING: Christina Aguilera's Pride costumes are too RAUNCHY for you \u2014 but you can bring the kids\n    ",
-      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/christina-aguilera-raunchy-pride-costumes"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/why-lizzo-is-being-canceled-by-disabled-activists"
-    },
-    {
-      "text": "Louder with Crowder",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/"
-    },
-    {
-      "text": "\n        Why Lizzo is being CANCELED by disabled activists\n    ",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/why-lizzo-is-being-canceled-by-disabled-activists"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/compasscare-pro-life-center-attack"
-    },
-    {
-      "text": "The Glenn Beck Program",
-      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/"
-    },
-    {
-      "text": "\n        CEO says unhinged attacks on pro-life pregnancy centers PROVE this movement is WINNING\n    ",
-      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/compasscare-pro-life-center-attack"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/nancy-pelosi-rupaul"
-    },
-    {
-      "text": "The Glenn Beck Program",
-      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/"
-    },
-    {
-      "text": "\n        Nancy Pelosi reaches AMAZING new level of pandering, tells drag queens why they're what 'America is all about'\n    ",
-      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/nancy-pelosi-rupaul"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/jurassic-world-dominion-is-everything-wrong-with-hollywood"
-    },
-    {
-      "text": "Louder with Crowder",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/"
-    },
-    {
-      "text": "\n        'Jurassic World: Dominion' is EVERYTHING wrong with Hollywood\n    ",
-      "url": "https://www.theblaze.com/shows/louder-with-crowder/jurassic-world-dominion-is-everything-wrong-with-hollywood"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/the-news-why-it-matters/left-wing-outlet-tries-to-shame-tucker-carlson-over-jan-6th-coverage-it-backfires-spectacularly"
-    },
-    {
-      "text": "The News & Why It Matters",
-      "url": "https://www.theblaze.com/shows/the-news-why-it-matters/"
-    },
-    {
-      "text": "\n        Left-wing outlet tries to shame Tucker Carlson over Jan 6th coverage \u2014 it backfires SPECTACULARLY\n    ",
-      "url": "https://www.theblaze.com/shows/the-news-why-it-matters/left-wing-outlet-tries-to-shame-tucker-carlson-over-jan-6th-coverage-it-backfires-spectacularly"
-    },
-    {
       "text": "All Videos",
       "url": "/shows"
     },
     {
-      "text": "\n        Voters that Democrats need most to win election are most severely impacted by inflation crisis: Report\n    ",
-      "url": "https://www.theblaze.com/news/voters-democrats-need-most-hurt-by-inflation-crisis"
+      "text": "\n        Whitlock: NFL owner Daniel Snyder crumbling beneath Washington\u2019s house of cards\n    ",
+      "url": "https://www.theblaze.com/fearless/oped/whitlock-nfl-dan-snyder-washington"
     },
     {
-      "text": "Chris Enloe",
-      "url": "https://www.theblaze.com/u/chrisenloe"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/voters-democrats-need-most-hurt-by-inflation-crisis"
-    },
-    {
-      "text": "\n        \u2018We\u2019re going RINO hunting\u2019: GOP candidate Eric Greitens\u2019 ad gets banned on Facebook and violates Twitter rules\n    ",
-      "url": "https://www.theblaze.com/news/were-going-rino-hunting-gop-candidate-eric-greitens-ad-gets-banned-on-facebook-and-violates-twitter-rules"
-    },
-    {
-      "text": "Chris Pandolfo",
-      "url": "https://www.theblaze.com/u/christopherpandolfo"
+      "text": "Jason Whitlock",
+      "url": "https://www.theblaze.com/u/jasonwhitlock"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/were-going-rino-hunting-gop-candidate-eric-greitens-ad-gets-banned-on-facebook-and-violates-twitter-rules"
+      "url": "https://www.theblaze.com/fearless/oped/whitlock-nfl-dan-snyder-washington"
     },
     {
-      "text": "\n        Caitlyn Jenner backs ban on transgender swimmers competing against biological women \u2014 'What's fair is fair!' \u2014 and leftists go nuts\n    ",
-      "url": "https://www.theblaze.com/news/caitlyn-jenner-backs-trans-ban"
+      "text": "\n        Disturbing video shows suspects punch, spit on NYC cops in reaction to arrest on Harlem street: 'Oh, she spit in his face!'\n    ",
+      "url": "https://www.theblaze.com/news/suspects-punch-spit-on-nypd"
     },
     {
       "text": "Dave Urbanski",
@@ -4699,27 +5137,99 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/caitlyn-jenner-backs-trans-ban"
+      "url": "https://www.theblaze.com/news/suspects-punch-spit-on-nypd"
+    },
+    {
+      "text": "\n        Dramatic photos capture the moment Team USA swimming coach heroically saves unconscious swimmer\n    ",
+      "url": "https://www.theblaze.com/news/us-swimming-coach-saves-passed-out-swimmer"
+    },
+    {
+      "text": "Paul Sacca",
+      "url": "https://www.theblaze.com/u/paulsacca"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/us-swimming-coach-saves-passed-out-swimmer"
+    },
+    {
+      "text": "\n        Think store shelves were empty during COVID? We haven\u2019t seen anything yet!\n    ",
+      "url": "https://bit.ly/3QJ1vRS"
+    },
+    {
+      "text": "My Patriot Supply",
+      "url": "https://www.theblaze.com/u/mypatriotsupply"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://bit.ly/3QJ1vRS"
     },
     {
       "text": "All Articles",
       "url": "https://www.theblaze.com/news/"
     },
     {
-      "text": "\n        Voters that Democrats need most to win election are most severely impacted by inflation crisis: Report\n    ",
-      "url": "https://www.theblaze.com/news/voters-democrats-need-most-hurt-by-inflation-crisis"
+      "text": "\n        Whitlock: NFL owner Daniel Snyder crumbling beneath Washington\u2019s house of cards\n    ",
+      "url": "https://www.theblaze.com/fearless/oped/whitlock-nfl-dan-snyder-washington"
     },
     {
-      "text": "Chris Enloe",
-      "url": "https://www.theblaze.com/u/chrisenloe"
+      "text": "Jason Whitlock",
+      "url": "https://www.theblaze.com/u/jasonwhitlock"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/voters-democrats-need-most-hurt-by-inflation-crisis"
+      "url": "https://www.theblaze.com/fearless/oped/whitlock-nfl-dan-snyder-washington"
     },
     {
-      "text": "\n        Heart surgeon: I avoid these 3 'warning signs' in any olive oil\n    ",
-      "url": "https://bit.ly/3OqJkyp"
+      "text": "\n        New terrifying law may cripple your retirement savings\n    ",
+      "url": "https://bit.ly/3znLv19"
+    },
+    {
+      "text": "Saving My Retirement",
+      "url": "https://www.theblaze.com/u/savingmyretirement"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://bit.ly/3znLv19"
+    },
+    {
+      "text": "\n        Disturbing video shows suspects punch, spit on NYC cops in reaction to arrest on Harlem street: 'Oh, she spit in his face!'\n    ",
+      "url": "https://www.theblaze.com/news/suspects-punch-spit-on-nypd"
+    },
+    {
+      "text": "Dave Urbanski",
+      "url": "https://www.theblaze.com/u/daveurbanski"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/suspects-punch-spit-on-nypd"
+    },
+    {
+      "text": "\n        MSNBC analyst tells desperate Dems why they must 'SCARE THE HELL' out of minority voters\n    ",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/dems-are-losing-minority-voters"
+    },
+    {
+      "text": "BlazeTV Staff",
+      "url": "https://www.theblaze.com/u/theblazestaff"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/the-rubin-report/dems-are-losing-minority-voters"
+    },
+    {
+      "text": "\n        Dramatic photos capture the moment Team USA swimming coach heroically saves unconscious swimmer\n    ",
+      "url": "https://www.theblaze.com/news/us-swimming-coach-saves-passed-out-swimmer"
+    },
+    {
+      "text": "Paul Sacca",
+      "url": "https://www.theblaze.com/u/paulsacca"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/us-swimming-coach-saves-passed-out-swimmer"
+    },
+    {
+      "text": "\n        'Stop using creams!' Doctor says looking younger after 40 comes from one thing\n    ",
+      "url": "https://bit.ly/3HvtMHo"
     },
     {
       "text": "Gundry Md",
@@ -4727,11 +5237,35 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://bit.ly/3OqJkyp"
+      "url": "https://bit.ly/3HvtMHo"
     },
     {
-      "text": "\n        QUIZ: Are greedy oil companies REALLY to blame for high gas prices?\n    ",
-      "url": "https://www.theblaze.com/quiz/quiz-are-greedy-oil-companies-really-to-blame-for-high-gas-prices"
+      "text": "\n        Far-left Michigan Gov. Gretchen Whitmer calls women 'menstruating people' \u2014 and her Republican challengers go off: 'Has the left gone insane?'\n    ",
+      "url": "https://www.theblaze.com/news/gretchen-whitmer-says-menstruating-people"
+    },
+    {
+      "text": "Dave Urbanski",
+      "url": "https://www.theblaze.com/u/daveurbanski"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/gretchen-whitmer-says-menstruating-people"
+    },
+    {
+      "text": "\n        Breaking: Supreme Court strikes down New York gun control law in major gun rights victory\n    ",
+      "url": "https://www.theblaze.com/news/breaking-supreme-court-strikes-down-new-york-gun-control-law-in-major-gun-rights-victory"
+    },
+    {
+      "text": "Chris Pandolfo",
+      "url": "https://www.theblaze.com/u/christopherpandolfo"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/breaking-supreme-court-strikes-down-new-york-gun-control-law-in-major-gun-rights-victory"
+    },
+    {
+      "text": "\n        We are LIVE from the SUPREME COURT: On the watch for Dobbs v. Jackson Women's Health\n    ",
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/ready-we-are-live-from-the-supreme-court-dobbs-v-jackson-women-s-health"
     },
     {
       "text": "BlazeTV Staff",
@@ -4739,35 +5273,11 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/quiz/quiz-are-greedy-oil-companies-really-to-blame-for-high-gas-prices"
+      "url": "https://www.theblaze.com/shows/louder-with-crowder/ready-we-are-live-from-the-supreme-court-dobbs-v-jackson-women-s-health"
     },
     {
-      "text": "\n        \u2018We\u2019re going RINO hunting\u2019: GOP candidate Eric Greitens\u2019 ad gets banned on Facebook and violates Twitter rules\n    ",
-      "url": "https://www.theblaze.com/news/were-going-rino-hunting-gop-candidate-eric-greitens-ad-gets-banned-on-facebook-and-violates-twitter-rules"
-    },
-    {
-      "text": "Chris Pandolfo",
-      "url": "https://www.theblaze.com/u/christopherpandolfo"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/were-going-rino-hunting-gop-candidate-eric-greitens-ad-gets-banned-on-facebook-and-violates-twitter-rules"
-    },
-    {
-      "text": "\n        Caitlyn Jenner backs ban on transgender swimmers competing against biological women \u2014 'What's fair is fair!' \u2014 and leftists go nuts\n    ",
-      "url": "https://www.theblaze.com/news/caitlyn-jenner-backs-trans-ban"
-    },
-    {
-      "text": "Dave Urbanski",
-      "url": "https://www.theblaze.com/u/daveurbanski"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/caitlyn-jenner-backs-trans-ban"
-    },
-    {
-      "text": "\n        Top Federal Reserve official predicts inflation will surge past target rate for 'couple of years': 'Recession risks are going up'\n    ",
-      "url": "https://www.theblaze.com/news/loretta-mester-inflation-crisis-couple-of-years"
+      "text": "\n        TSA gets brutally mocked after bragging about confiscating 'oversized' liquid containers: 'Not all heroes wear capes'\n    ",
+      "url": "https://www.theblaze.com/news/tsa-mocked-confiscating-liquids"
     },
     {
       "text": "Chris Enloe",
@@ -4775,95 +5285,11 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/loretta-mester-inflation-crisis-couple-of-years"
+      "url": "https://www.theblaze.com/news/tsa-mocked-confiscating-liquids"
     },
     {
-      "text": "\n        Roth: What the heck is going on with Bitcoin?\n    ",
-      "url": "https://www.theblaze.com/op-ed/roth-whats-going-on-with-bitcoin"
-    },
-    {
-      "text": "Carol Roth",
-      "url": "https://www.theblaze.com/u/carolroth"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/op-ed/roth-whats-going-on-with-bitcoin"
-    },
-    {
-      "text": "\n        Whitlock: We should scrap Juneteenth, aka George Floyd Day, for a holiday commemorating America\u2019s 1865 rebirth\n    ",
-      "url": "https://www.theblaze.com/fearless/oped/whitlock-scrap-juneteenth-for-1865"
-    },
-    {
-      "text": "Jason Whitlock",
-      "url": "https://www.theblaze.com/u/jasonwhitlock"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/fearless/oped/whitlock-scrap-juneteenth-for-1865"
-    },
-    {
-      "text": "\n        Doctors take on Biden administration for right to try ivermectin as COVID-19 treatment\n    ",
-      "url": "https://www.theblaze.com/doctors-take-on-biden-administration-for-right-to-try-ivermectin-as-covid-19-treatment"
-    },
-    {
-      "text": "Chris Pandolfo",
-      "url": "https://www.theblaze.com/u/christopherpandolfo"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/doctors-take-on-biden-administration-for-right-to-try-ivermectin-as-covid-19-treatment"
-    },
-    {
-      "text": "\n        Bill Nye slapped with history lesson after claiming Juneteenth marks day 'last slaves' were freed, America built on slave labor\n    ",
-      "url": "https://www.theblaze.com/news/bill-nye-history-lesson-juneteenth"
-    },
-    {
-      "text": "Chris Enloe",
-      "url": "https://www.theblaze.com/u/chrisenloe"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/bill-nye-history-lesson-juneteenth"
-    },
-    {
-      "text": "\n        Squires: Frederick Douglass pursued freedom so that black people could have dignity. Eric Adams fights so that black students have drag queens.\n    ",
-      "url": "https://www.theblaze.com/fearless/oped/squires-frederick-douglass-eric-adams"
-    },
-    {
-      "text": "Delano Squires",
-      "url": "https://www.theblaze.com/u/delano_squires"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/fearless/oped/squires-frederick-douglass-eric-adams"
-    },
-    {
-      "text": "\n        Male blood donor, 66, required to state on form if he's pregnant \u2014 part of new, woke UK policy. He's turned away from clinic when he refuses to answer.\n    ",
-      "url": "https://www.theblaze.com/news/man-asked-if-hes-pregnant"
-    },
-    {
-      "text": "Dave Urbanski",
-      "url": "https://www.theblaze.com/u/daveurbanski"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/man-asked-if-hes-pregnant"
-    },
-    {
-      "text": "\n        WHO director-general privately believes the COVID-19 lab-leak theory: Report\n    ",
-      "url": "https://www.theblaze.com/news/who-director-general-privately-believes-the-covid-19-lab-leak-theory-report"
-    },
-    {
-      "text": "Chris Pandolfo",
-      "url": "https://www.theblaze.com/u/christopherpandolfo"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/who-director-general-privately-believes-the-covid-19-lab-leak-theory-report"
-    },
-    {
-      "text": "\n        Bill Maher stuns leftist guest, says DeSantis would be a 'way better' president than Trump\n    ",
-      "url": "https://www.theblaze.com/shows/the-chad-prather-show/bill-maher-desantis-trump"
+      "text": "\n        New EV has solar panels built into the chassis. What could go wrong?\n    ",
+      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/copy-edit-new-ev-has-solar-panels-built-into-the-chassis-what-could-go-wrong"
     },
     {
       "text": "BlazeTV Staff",
@@ -4871,23 +5297,131 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/shows/the-chad-prather-show/bill-maher-desantis-trump"
+      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/copy-edit-new-ev-has-solar-panels-built-into-the-chassis-what-could-go-wrong"
     },
     {
-      "text": "\n        Two teens \u2014 15 and 16 \u2014 force their way into home, physically attack resident. But victim is armed with handgun and shoots intruders dead.\n    ",
-      "url": "https://www.theblaze.com/news/teens-shot-dead-after-attack"
+      "text": "\n        Failed 2018 Florida gubernatorial candidate Andrew Gillum gets indicted, pleads not guilty\n    ",
+      "url": "https://www.theblaze.com/news/gillum-indicted-pleads-not-guilty"
     },
     {
-      "text": "Dave Urbanski",
-      "url": "https://www.theblaze.com/u/daveurbanski"
+      "text": "Alex Nitzberg",
+      "url": "https://www.theblaze.com/u/alexnitzberg"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/teens-shot-dead-after-attack"
+      "url": "https://www.theblaze.com/news/gillum-indicted-pleads-not-guilty"
     },
     {
-      "text": "\n        CNN host grills Adam Schiff over motive for not hearing from witnesses who 'challenge' Jan. 6 narrative\n    ",
-      "url": "https://www.theblaze.com/news/dana-bash-grills-adam-schiff-witness-challenge-jan-6-narrative"
+      "text": "\n        Saira Rao says looking at the US flag makes her want to puke: 'This country is a racist transphobic homophobic xenophobic ableist classist Islamophobic misogynistic dumpster fire'\n    ",
+      "url": "https://www.theblaze.com/news/saira-rao-american-flag-vomit"
+    },
+    {
+      "text": "Alex Nitzberg",
+      "url": "https://www.theblaze.com/u/alexnitzberg"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/saira-rao-american-flag-vomit"
+    },
+    {
+      "text": "\n        Uvalde school district puts police chief Pete Arredondo on administrative leave after scathing DPS assessment\n    ",
+      "url": "https://www.theblaze.com/news/arredondo-leave-uvalde-dps"
+    },
+    {
+      "text": "Carlos Garcia",
+      "url": "https://www.theblaze.com/u/carlosgarcia"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/arredondo-leave-uvalde-dps"
+    },
+    {
+      "text": "\n        Glenn Beck: Here's why we must ABOLISH the Department of Education NOW\n    ",
+      "url": "https://www.theblaze.com/shows/glenn-tv/abolish-department-of-education"
+    },
+    {
+      "text": "BlazeTV Staff",
+      "url": "https://www.theblaze.com/u/theblazestaff"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/shows/glenn-tv/abolish-department-of-education"
+    },
+    {
+      "text": "\n        Poll finds DeSantis and Trump statistically tied among likely New Hampshire GOP primary voters\n    ",
+      "url": "https://www.theblaze.com/news/trump-desantis-new-hampshire-primary"
+    },
+    {
+      "text": "Alex Nitzberg",
+      "url": "https://www.theblaze.com/u/alexnitzberg"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/trump-desantis-new-hampshire-primary"
+    },
+    {
+      "text": "\n        MSNBC guest tells Americans to 'calm down and back off' about high gas prices\n    ",
+      "url": "https://www.theblaze.com/news/msnbc-haines-gas-back-off"
+    },
+    {
+      "text": "Carlos Garcia",
+      "url": "https://www.theblaze.com/u/carlosgarcia"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/msnbc-haines-gas-back-off"
+    },
+    {
+      "text": "\n        'Diary of a Wimpy Kid' actor who murdered his mom reportedly planned to kill Justin Trudeau\n    ",
+      "url": "https://www.theblaze.com/video/ryan-grantham-trudeau"
+    },
+    {
+      "text": "BlazeTV Staff",
+      "url": "https://www.theblaze.com/u/theblazestaff"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/video/ryan-grantham-trudeau"
+    },
+    {
+      "text": "\n        13-year-old student arrested for bringing loaded ghost gun to middle school, Maryland police say\n    ",
+      "url": "https://www.theblaze.com/news/13yrold-ghost-gun-middle-school"
+    },
+    {
+      "text": "Carlos Garcia",
+      "url": "https://www.theblaze.com/u/carlosgarcia"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/13yrold-ghost-gun-middle-school"
+    },
+    {
+      "text": "\n        Republican Sen. Kevin Cramer gets tip of pinky finger stitched back on after injury, but faces risk of infection and possible need for amputation\n    ",
+      "url": "https://www.theblaze.com/news/kevin-cramer-finger-possible-amputation"
+    },
+    {
+      "text": "Alex Nitzberg",
+      "url": "https://www.theblaze.com/u/alexnitzberg"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/kevin-cramer-finger-possible-amputation"
+    },
+    {
+      "text": "\n        Joe Manchin signals that he's going to spoil Biden's plan for a gas tax holiday\n    ",
+      "url": "https://www.theblaze.com/news/manchin-biden-gas-tax-holiday"
+    },
+    {
+      "text": "Carlos Garcia",
+      "url": "https://www.theblaze.com/u/carlosgarcia"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/manchin-biden-gas-tax-holiday"
+    },
+    {
+      "text": "\n        ExxonMobil CEO predicts oil market turbulence will go on for years: 'A lot of volatility and discontinuity'\n    ",
+      "url": "https://www.theblaze.com/news/exxon-mobil-ceo-predicts-years-of-turbulence-in-oil-markets"
     },
     {
       "text": "Chris Enloe",
@@ -4895,175 +5429,115 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/dana-bash-grills-adam-schiff-witness-challenge-jan-6-narrative"
+      "url": "https://www.theblaze.com/news/exxon-mobil-ceo-predicts-years-of-turbulence-in-oil-markets"
     },
     {
-      "text": "\n        Deace: Mom fights woke school district and the spirit of the age. Where are the dads?\n    ",
-      "url": "https://www.theblaze.com/op-ed/deace-mom-fights-woke-school"
+      "text": "\n        Texas gun store employee fatally shoots man who entered store with 'bladed object' and began stealing cash from register: \u200bPolice\n    ",
+      "url": "https://www.theblaze.com/news/gun-store-employee-kills-robber"
     },
     {
-      "text": "Steve Deace",
-      "url": "https://www.theblaze.com/u/stevedeace"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/op-ed/deace-mom-fights-woke-school"
-    },
-    {
-      "text": "\n        'We were planning her baby shower': Man decapitated 8-months pregnant ex-girlfriend, police say\n    ",
-      "url": "https://www.theblaze.com/news/liese-dodd-murder-deundrea-holloway"
-    },
-    {
-      "text": "Paul Sacca",
-      "url": "https://www.theblaze.com/u/paulsacca"
+      "text": "Dave Urbanski",
+      "url": "https://www.theblaze.com/u/daveurbanski"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/liese-dodd-murder-deundrea-holloway"
+      "url": "https://www.theblaze.com/news/gun-store-employee-kills-robber"
     },
     {
-      "text": "\n        New Orleans' Democratic mayor unveils giant hair pick to celebrate Juneteenth, promptly gets roasted: 'This is a joke'\n    ",
-      "url": "https://www.theblaze.com/news/hair-pick-statue-new-orleans"
+      "text": "\n        Federal Reserve chairman needs just one sentence to dismantle Biden's narrative on inflation crisis\n    ",
+      "url": "https://www.theblaze.com/news/federal-reserve-chairman-uses-one-sentence-to-dismantle-biden-s-narrative-on-inflation"
     },
     {
-      "text": "Paul Sacca",
-      "url": "https://www.theblaze.com/u/paulsacca"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/hair-pick-statue-new-orleans"
-    },
-    {
-      "text": "\n        Canadian professor mask-shames flight attendant but it backfires spectacularly as he suffers complete meltdown\n    ",
-      "url": "https://www.theblaze.com/news/canadian-professor-mask-shame-united"
-    },
-    {
-      "text": "Paul Sacca",
-      "url": "https://www.theblaze.com/u/paulsacca"
+      "text": "Chris Enloe",
+      "url": "https://www.theblaze.com/u/chrisenloe"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/canadian-professor-mask-shame-united"
+      "url": "https://www.theblaze.com/news/federal-reserve-chairman-uses-one-sentence-to-dismantle-biden-s-narrative-on-inflation"
     },
     {
-      "text": "\n        FINA bans transgender swimmers like Lia Thomas from competing against women in elite events: 'Biological sex is a key determinant of athletic performance'\n    ",
-      "url": "https://www.theblaze.com/news/fina-bans-transgender-athletes"
+      "text": "\n        Shot Uvalde teacher called police officer husband, told him she was dying. He tried to rescue her but was stopped, removed from scene \u2014 and his gun was taken.\n    ",
+      "url": "https://www.theblaze.com/news/uvalde-teacher-called-cop-husband"
     },
     {
-      "text": "Paul Sacca",
-      "url": "https://www.theblaze.com/u/paulsacca"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/fina-bans-transgender-athletes"
-    },
-    {
-      "text": "\n        Bill Maher ripped Biden for getting off fossil fuels without a replacement, says now the president is begging Saudi Arabia for oil\n    ",
-      "url": "https://www.theblaze.com/news/bill-maher-biden-oil-gas-prices"
-    },
-    {
-      "text": "Paul Sacca",
-      "url": "https://www.theblaze.com/u/paulsacca"
+      "text": "Dave Urbanski",
+      "url": "https://www.theblaze.com/u/daveurbanski"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/bill-maher-biden-oil-gas-prices"
+      "url": "https://www.theblaze.com/news/uvalde-teacher-called-cop-husband"
     },
     {
-      "text": "\n        12-year-old granted protection order against 'Flash' actor Ezra Miller after alleged arguments about cultural appropriation, vampires, and Parcheesi\n    ",
-      "url": "https://www.theblaze.com/news/ezra-miller-protection-order-child"
-    },
-    {
-      "text": "Paul Sacca",
-      "url": "https://www.theblaze.com/u/paulsacca"
+      "text": "\n        Far-left Michigan Gov. Gretchen Whitmer calls women 'menstruating people' \u2014 and her Republican challengers go off: 'Has the left gone insane?'\n    ",
+      "url": "https://www.theblaze.com/news/gretchen-whitmer-says-menstruating-people"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/ezra-miller-protection-order-child"
+      "url": "https://www.theblaze.com/news/gretchen-whitmer-says-menstruating-people"
     },
     {
-      "text": "\n        Fired art teacher defends allowing girls as young as 15 to model topless, strike 'simulated masturbation' pose\n    ",
-      "url": "https://www.theblaze.com/news/art-teacher-fired-topless-girls"
-    },
-    {
-      "text": "Paul Sacca",
-      "url": "https://www.theblaze.com/u/paulsacca"
+      "text": "\n        Breaking: Supreme Court strikes down New York gun control law in major gun rights victory\n    ",
+      "url": "https://www.theblaze.com/news/breaking-supreme-court-strikes-down-new-york-gun-control-law-in-major-gun-rights-victory"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/art-teacher-fired-topless-girls"
+      "url": "https://www.theblaze.com/news/breaking-supreme-court-strikes-down-new-york-gun-control-law-in-major-gun-rights-victory"
     },
     {
-      "text": "\n        QUIZ: Are greedy oil companies REALLY to blame for high gas prices?\n    ",
-      "url": "https://www.theblaze.com/quiz/quiz-are-greedy-oil-companies-really-to-blame-for-high-gas-prices"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/quiz/quiz-are-greedy-oil-companies-really-to-blame-for-high-gas-prices"
-    },
-    {
-      "text": "\n        Top Federal Reserve official predicts inflation will surge past target rate for 'couple of years': 'Recession risks are going up'\n    ",
-      "url": "https://www.theblaze.com/news/loretta-mester-inflation-crisis-couple-of-years"
+      "text": "\n        TSA gets brutally mocked after bragging about confiscating 'oversized' liquid containers: 'Not all heroes wear capes'\n    ",
+      "url": "https://www.theblaze.com/news/tsa-mocked-confiscating-liquids"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/loretta-mester-inflation-crisis-couple-of-years"
+      "url": "https://www.theblaze.com/news/tsa-mocked-confiscating-liquids"
     },
     {
-      "text": "\n        Roth: What the heck is going on with Bitcoin?\n    ",
-      "url": "https://www.theblaze.com/op-ed/roth-whats-going-on-with-bitcoin"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/op-ed/roth-whats-going-on-with-bitcoin"
-    },
-    {
-      "text": "\n        Whitlock: We should scrap Juneteenth, aka George Floyd Day, for a holiday commemorating America\u2019s 1865 rebirth\n    ",
-      "url": "https://www.theblaze.com/fearless/oped/whitlock-scrap-juneteenth-for-1865"
+      "text": "\n        Failed 2018 Florida gubernatorial candidate Andrew Gillum gets indicted, pleads not guilty\n    ",
+      "url": "https://www.theblaze.com/news/gillum-indicted-pleads-not-guilty"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/fearless/oped/whitlock-scrap-juneteenth-for-1865"
+      "url": "https://www.theblaze.com/news/gillum-indicted-pleads-not-guilty"
     },
     {
-      "text": "\n        Doctors take on Biden administration for right to try ivermectin as COVID-19 treatment\n    ",
-      "url": "https://www.theblaze.com/doctors-take-on-biden-administration-for-right-to-try-ivermectin-as-covid-19-treatment"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/doctors-take-on-biden-administration-for-right-to-try-ivermectin-as-covid-19-treatment"
-    },
-    {
-      "text": "\n        Bill Nye slapped with history lesson after claiming Juneteenth marks day 'last slaves' were freed, America built on slave labor\n    ",
-      "url": "https://www.theblaze.com/news/bill-nye-history-lesson-juneteenth"
+      "text": "\n        Saira Rao says looking at the US flag makes her want to puke: 'This country is a racist transphobic homophobic xenophobic ableist classist Islamophobic misogynistic dumpster fire'\n    ",
+      "url": "https://www.theblaze.com/news/saira-rao-american-flag-vomit"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/bill-nye-history-lesson-juneteenth"
+      "url": "https://www.theblaze.com/news/saira-rao-american-flag-vomit"
     },
     {
-      "text": "\n        Squires: Frederick Douglass pursued freedom so that black people could have dignity. Eric Adams fights so that black students have drag queens.\n    ",
-      "url": "https://www.theblaze.com/fearless/oped/squires-frederick-douglass-eric-adams"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/fearless/oped/squires-frederick-douglass-eric-adams"
-    },
-    {
-      "text": "\n        Male blood donor, 66, required to state on form if he's pregnant \u2014 part of new, woke UK policy. He's turned away from clinic when he refuses to answer.\n    ",
-      "url": "https://www.theblaze.com/news/man-asked-if-hes-pregnant"
+      "text": "\n        Uvalde school district puts police chief Pete Arredondo on administrative leave after scathing DPS assessment\n    ",
+      "url": "https://www.theblaze.com/news/arredondo-leave-uvalde-dps"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/man-asked-if-hes-pregnant"
+      "url": "https://www.theblaze.com/news/arredondo-leave-uvalde-dps"
     },
     {
-      "text": "\n        WHO director-general privately believes the COVID-19 lab-leak theory: Report\n    ",
-      "url": "https://www.theblaze.com/news/who-director-general-privately-believes-the-covid-19-lab-leak-theory-report"
+      "text": "\n        Poll finds DeSantis and Trump statistically tied among likely New Hampshire GOP primary voters\n    ",
+      "url": "https://www.theblaze.com/news/trump-desantis-new-hampshire-primary"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/who-director-general-privately-believes-the-covid-19-lab-leak-theory-report"
+      "url": "https://www.theblaze.com/news/trump-desantis-new-hampshire-primary"
+    },
+    {
+      "text": "\n        MSNBC guest tells Americans to 'calm down and back off' about high gas prices\n    ",
+      "url": "https://www.theblaze.com/news/msnbc-haines-gas-back-off"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/msnbc-haines-gas-back-off"
+    },
+    {
+      "text": "\n        13-year-old student arrested for bringing loaded ghost gun to middle school, Maryland police say\n    ",
+      "url": "https://www.theblaze.com/news/13yrold-ghost-gun-middle-school"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/13yrold-ghost-gun-middle-school"
     },
     {
       "text": "All Articles",
@@ -5071,23 +5545,23 @@
     },
     {
       "text": "",
-      "url": "https://www.theblaze.com/fearless/oped/whitlock-scrap-juneteenth-for-1865"
+      "url": "https://www.theblaze.com/news/breaking-supreme-court-strikes-down-new-york-gun-control-law-in-major-gun-rights-victory"
     },
     {
-      "text": "\n        Whitlock: We should scrap Juneteenth, aka George Floyd Day, for a holiday commemorating America\u2019s 1865 rebirth\n    ",
-      "url": "https://www.theblaze.com/fearless/oped/whitlock-scrap-juneteenth-for-1865"
+      "text": "\n        Breaking: Supreme Court strikes down New York gun control law in major gun rights victory\n    ",
+      "url": "https://www.theblaze.com/news/breaking-supreme-court-strikes-down-new-york-gun-control-law-in-major-gun-rights-victory"
     },
     {
-      "text": "Jason Whitlock",
-      "url": "https://www.theblaze.com/u/jasonwhitlock"
+      "text": "Chris Pandolfo",
+      "url": "https://www.theblaze.com/u/christopherpandolfo"
     },
     {
       "text": "",
-      "url": "https://www.theblaze.com/news/bill-nye-history-lesson-juneteenth"
+      "url": "https://www.theblaze.com/news/tsa-mocked-confiscating-liquids"
     },
     {
-      "text": "\n        Bill Nye slapped with history lesson after claiming Juneteenth marks day 'last slaves' were freed, America built on slave labor\n    ",
-      "url": "https://www.theblaze.com/news/bill-nye-history-lesson-juneteenth"
+      "text": "\n        TSA gets brutally mocked after bragging about confiscating 'oversized' liquid containers: 'Not all heroes wear capes'\n    ",
+      "url": "https://www.theblaze.com/news/tsa-mocked-confiscating-liquids"
     },
     {
       "text": "Chris Enloe",
@@ -5095,23 +5569,23 @@
     },
     {
       "text": "",
-      "url": "https://www.theblaze.com/news/dana-bash-grills-adam-schiff-witness-challenge-jan-6-narrative"
+      "url": "https://www.theblaze.com/news/saira-rao-american-flag-vomit"
     },
     {
-      "text": "\n        CNN host grills Adam Schiff over motive for not hearing from witnesses who 'challenge' Jan. 6 narrative\n    ",
-      "url": "https://www.theblaze.com/news/dana-bash-grills-adam-schiff-witness-challenge-jan-6-narrative"
+      "text": "\n        Saira Rao says looking at the US flag makes her want to puke: 'This country is a racist transphobic homophobic xenophobic ableist classist Islamophobic misogynistic dumpster fire'\n    ",
+      "url": "https://www.theblaze.com/news/saira-rao-american-flag-vomit"
     },
     {
-      "text": "Chris Enloe",
-      "url": "https://www.theblaze.com/u/chrisenloe"
+      "text": "Alex Nitzberg",
+      "url": "https://www.theblaze.com/u/alexnitzberg"
     },
     {
       "text": "",
-      "url": "https://www.theblaze.com/news/teens-shot-dead-after-attack"
+      "url": "https://www.theblaze.com/news/gun-store-employee-kills-robber"
     },
     {
-      "text": "\n        Two teens \u2014 15 and 16 \u2014 force their way into home, physically attack resident. But victim is armed with handgun and shoots intruders dead.\n    ",
-      "url": "https://www.theblaze.com/news/teens-shot-dead-after-attack"
+      "text": "\n        Texas gun store employee fatally shoots man who entered store with 'bladed object' and began stealing cash from register: \u200bPolice\n    ",
+      "url": "https://www.theblaze.com/news/gun-store-employee-kills-robber"
     },
     {
       "text": "Dave Urbanski",
@@ -5119,15 +5593,15 @@
     },
     {
       "text": "",
-      "url": "https://www.theblaze.com/news/liese-dodd-murder-deundrea-holloway"
+      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/copy-edit-new-ev-has-solar-panels-built-into-the-chassis-what-could-go-wrong"
     },
     {
-      "text": "\n        'We were planning her baby shower': Man decapitated 8-months pregnant ex-girlfriend, police say\n    ",
-      "url": "https://www.theblaze.com/news/liese-dodd-murder-deundrea-holloway"
+      "text": "\n        New EV has solar panels built into the chassis. What could go wrong?\n    ",
+      "url": "https://www.theblaze.com/shows/pat-gray-unleashed/copy-edit-new-ev-has-solar-panels-built-into-the-chassis-what-could-go-wrong"
     },
     {
-      "text": "Paul Sacca",
-      "url": "https://www.theblaze.com/u/paulsacca"
+      "text": "BlazeTV Staff",
+      "url": "https://www.theblaze.com/u/theblazestaff"
     },
     {
       "text": "All trending",
@@ -5174,68 +5648,68 @@
       "url": "https://bit.ly/3xE12HO"
     },
     {
-      "text": "\n        Canadian professor mask-shames flight attendant but it backfires spectacularly as he suffers complete meltdown\n    ",
-      "url": "https://www.theblaze.com/news/canadian-professor-mask-shame-united"
+      "text": "\n        Shot Uvalde teacher called police officer husband, told him she was dying. He tried to rescue her but was stopped, removed from scene \u2014 and his gun was taken.\n    ",
+      "url": "https://www.theblaze.com/news/uvalde-teacher-called-cop-husband"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/canadian-professor-mask-shame-united"
+      "url": "https://www.theblaze.com/news/uvalde-teacher-called-cop-husband"
     },
     {
-      "text": "\n        CNN host grills Adam Schiff over motive for not hearing from witnesses who 'challenge' Jan. 6 narrative\n    ",
-      "url": "https://www.theblaze.com/news/dana-bash-grills-adam-schiff-witness-challenge-jan-6-narrative"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/dana-bash-grills-adam-schiff-witness-challenge-jan-6-narrative"
-    },
-    {
-      "text": "\n        Two teens \u2014 15 and 16 \u2014 force their way into home, physically attack resident. But victim is armed with handgun and shoots intruders dead.\n    ",
-      "url": "https://www.theblaze.com/news/teens-shot-dead-after-attack"
+      "text": "\n        Federal Reserve chairman needs just one sentence to dismantle Biden's narrative on inflation crisis\n    ",
+      "url": "https://www.theblaze.com/news/federal-reserve-chairman-uses-one-sentence-to-dismantle-biden-s-narrative-on-inflation"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/teens-shot-dead-after-attack"
+      "url": "https://www.theblaze.com/news/federal-reserve-chairman-uses-one-sentence-to-dismantle-biden-s-narrative-on-inflation"
     },
     {
-      "text": "\n        'We were planning her baby shower': Man decapitated 8-months pregnant ex-girlfriend, police say\n    ",
-      "url": "https://www.theblaze.com/news/liese-dodd-murder-deundrea-holloway"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/liese-dodd-murder-deundrea-holloway"
-    },
-    {
-      "text": "\n        Bill Maher ripped Biden for getting off fossil fuels without a replacement, says now the president is begging Saudi Arabia for oil\n    ",
-      "url": "https://www.theblaze.com/news/bill-maher-biden-oil-gas-prices"
+      "text": "\n        Texas gun store employee fatally shoots man who entered store with 'bladed object' and began stealing cash from register: \u200bPolice\n    ",
+      "url": "https://www.theblaze.com/news/gun-store-employee-kills-robber"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/bill-maher-biden-oil-gas-prices"
+      "url": "https://www.theblaze.com/news/gun-store-employee-kills-robber"
     },
     {
-      "text": "\n        Fired art teacher defends allowing girls as young as 15 to model topless, strike 'simulated masturbation' pose\n    ",
-      "url": "https://www.theblaze.com/news/art-teacher-fired-topless-girls"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/art-teacher-fired-topless-girls"
-    },
-    {
-      "text": "\n        New Orleans' Democratic mayor unveils giant hair pick to celebrate Juneteenth, promptly gets roasted: 'This is a joke'\n    ",
-      "url": "https://www.theblaze.com/news/hair-pick-statue-new-orleans"
+      "text": "\n        Chevron CEO fires back at Biden over threatening letter \u2014 then Biden insults him: 'He's mildly sensitive'\n    ",
+      "url": "https://www.theblaze.com/news/chevron-ceo-responds-biden-letter"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/hair-pick-statue-new-orleans"
+      "url": "https://www.theblaze.com/news/chevron-ceo-responds-biden-letter"
     },
     {
-      "text": "\n        FINA bans transgender swimmers like Lia Thomas from competing against women in elite events: 'Biological sex is a key determinant of athletic performance'\n    ",
-      "url": "https://www.theblaze.com/news/fina-bans-transgender-athletes"
+      "text": "\n        Philly college student refuses to give his keys to armed carjackers, fights them, gets shot in knee, hit in head with gun. Crooks take off without victim's SUV.\n    ",
+      "url": "https://www.theblaze.com/news/philly-college-student-fights-carjackers"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/news/fina-bans-transgender-athletes"
+      "url": "https://www.theblaze.com/news/philly-college-student-fights-carjackers"
+    },
+    {
+      "text": "\n        Joe Manchin signals that he's going to spoil Biden's plan for a gas tax holiday\n    ",
+      "url": "https://www.theblaze.com/news/manchin-biden-gas-tax-holiday"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/manchin-biden-gas-tax-holiday"
+    },
+    {
+      "text": "\n        Mike Lee says media was provided with text of gun control bill before senators: 'This is the Senate operating at its worst'\n    ",
+      "url": "https://www.theblaze.com/news/mike-lee-stunned-because-no-one-read-the-gun-control-bill-before-vote-this-is-the-senate-operating-at-its-worst"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/mike-lee-stunned-because-no-one-read-the-gun-control-bill-before-vote-this-is-the-senate-operating-at-its-worst"
+    },
+    {
+      "text": "\n        Teenagers break into an $8 million Florida mansion and throw a massive party. Police say they posted video to social media.\n    ",
+      "url": "https://www.theblaze.com/news/teens-party-mansion-breakin-florida"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/news/teens-party-mansion-breakin-florida"
     },
     {
       "text": "All Articles",
@@ -5243,19 +5717,11 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.theblaze.com/podcasts/the-news-and-why-it-matters"
+      "url": "https://www.theblaze.com/podcasts/louder-with-crowder"
     },
     {
-      "text": "\n        Sara Gonzales and your favorite personalities sit down for a roundtable rundown of the top stories of the day.\n    ",
-      "url": "https://www.theblaze.com/podcasts/the-news-and-why-it-matters"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://theblaze.com/the-glenn-beck-program-2622091111.html"
-    },
-    {
-      "text": "\n        Storytelling, insight and compelling perspective on American culture and politics.\n    ",
-      "url": "https://theblaze.com/the-glenn-beck-program-2622091111.html"
+      "text": "\n        Steven Crowder brings you news, entertainment and politics with the most politically incorrect show on the web.\n    ",
+      "url": "https://www.theblaze.com/podcasts/louder-with-crowder"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
@@ -5264,6 +5730,14 @@
     {
       "text": "\n        Unique analysis, insight and fun. Pat Gray pulls no punches, restoring common sense to a senseless world.\n    ",
       "url": "https://theblaze.com/pat-gray-unleashed-2622091940.html"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.theblaze.com/podcasts/unashamed-with-phil-robertson"
+    },
+    {
+      "text": "\n        Phil, Al, Jase, and their special guests go beyond the four walls of the church to share God's Word and study the Bible with you.\n    ",
+      "url": "https://www.theblaze.com/podcasts/unashamed-with-phil-robertson"
     },
     {
       "text": "All podcasts",
@@ -5518,7 +5992,7 @@
       "url": "#"
     }
   ],
-  "uniq": 1590697404,
+  "uniq": 1651422789,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1655760847,
+  "created": 1656030103,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/8/items/mydesert-2022",
@@ -6534,31 +6534,493 @@
       "sha1": "d745a5160e2fd41d33e95bf8116ecff1ce6dbe70"
     },
     {
+      "name": "mydesert-2022-06-20T18:33:54.816011-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775239",
+      "size": "19674",
+      "md5": "c94b42fe9b54be17f265332e2bddc40f",
+      "crc32": "7adb6e04",
+      "sha1": "73604a1ecae15402308c56fc33722e6f7599434b",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-20T18:33:54.816011-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775240",
+      "size": "29725",
+      "md5": "69c09e546c441f37d2ae7a6ddf80fcc0",
+      "crc32": "b84ba90e",
+      "sha1": "6c164b17182eeb087d7f1b7606421fa7df72f853",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-20T18:33:54.816011-07:00.jpg",
+      "source": "original",
+      "mtime": "1655775237",
+      "size": "288264",
+      "md5": "ee07d833578e904a6b2f9e399b4c898f",
+      "crc32": "6e0a00ee",
+      "sha1": "f332153422cf28a25ea1f92dabb7cb2a9347306a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-20T18:33:54.816011-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-20T18:33:54.816011-07:00.jpg",
+      "mtime": "1655775296",
+      "size": "8441",
+      "md5": "cff6ddc991c1fce188f1936c4af5024d",
+      "crc32": "d39e9147",
+      "sha1": "1178373d130e14746e5c0ac9ec840154cae44384"
+    },
+    {
+      "name": "mydesert-2022-06-20T22:27:58.122038-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789282",
+      "size": "20384",
+      "md5": "baa6a3f926f5da260efaeff814b60580",
+      "crc32": "355a2b6f",
+      "sha1": "3dcf63faebf750c81b27bb2b01832dcdfe172c97",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-20T22:27:58.122038-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789284",
+      "size": "28374",
+      "md5": "e1a17a1d04e1816726548faaddd06fcd",
+      "crc32": "e9c280e6",
+      "sha1": "b7ed8ddaa26e2bb366200ba8e6a3baf3fc5d2aa6",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-20T22:27:58.122038-07:00.jpg",
+      "source": "original",
+      "mtime": "1655789280",
+      "size": "288985",
+      "md5": "a4410a45500ad08ae53b678bf9cf743e",
+      "crc32": "1c40be66",
+      "sha1": "8febdd2b9cd418f46aac8d2b1e1bcbda821f91f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-20T22:27:58.122038-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-20T22:27:58.122038-07:00.jpg",
+      "mtime": "1655789368",
+      "size": "8453",
+      "md5": "b56943ec1df40ebb79f0efcb6b06ae1c",
+      "crc32": "8bff76bf",
+      "sha1": "9e345ea23be7882fff6189dfe5e77db848113cb8"
+    },
+    {
+      "name": "mydesert-2022-06-21T05:29:48.439610-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814593",
+      "size": "20089",
+      "md5": "57bdb6b422fd04ec4e033709725603ed",
+      "crc32": "4e593252",
+      "sha1": "74c514b6939d40adecf332c0fde39a74c06135eb",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-21T05:29:48.439610-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814595",
+      "size": "27805",
+      "md5": "9cdc3ac1a0bf5de8b4231eac4c51f116",
+      "crc32": "394b2939",
+      "sha1": "66a4e55c70a61f98f0e338b851a6a1807c5e7d35",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-21T05:29:48.439610-07:00.jpg",
+      "source": "original",
+      "mtime": "1655814592",
+      "size": "312483",
+      "md5": "1eaf28c39b30387f49ef4e4bc3e974a5",
+      "crc32": "8b26ed41",
+      "sha1": "4f07c577069702c6391db47b0e8b320800e2aa03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-21T05:29:48.439610-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-21T05:29:48.439610-07:00.jpg",
+      "mtime": "1655814661",
+      "size": "8596",
+      "md5": "f8500df966719030a9d4c4978602841b",
+      "crc32": "e6b5464b",
+      "sha1": "8716313a26c26cdfede5b3bf7793d93e9e9ea6b2"
+    },
+    {
+      "name": "mydesert-2022-06-21T06:58:58.790191-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819942",
+      "size": "20231",
+      "md5": "00bf0c6c866b37370fce5fbab9d637a6",
+      "crc32": "6b504040",
+      "sha1": "3a17f381f7db51b04ed4b0941e75567ea80537b6",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-21T06:58:58.790191-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819944",
+      "size": "27819",
+      "md5": "6cf04a78d1842faf9edb03ef0833c6aa",
+      "crc32": "384e2561",
+      "sha1": "82fe3d04a6519ae2fb774d60fa420fae11167e4a",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-21T06:58:58.790191-07:00.jpg",
+      "source": "original",
+      "mtime": "1655819940",
+      "size": "324159",
+      "md5": "b2acc72f0f179a32e7e45bbf169a5c2a",
+      "crc32": "ca910ea4",
+      "sha1": "6ec10b22d0fdf1cbdb200d120a5b164828c16f2e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-21T06:58:58.790191-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-21T06:58:58.790191-07:00.jpg",
+      "mtime": "1655820001",
+      "size": "8746",
+      "md5": "fd090368cb063ea324139cec64e2c0a2",
+      "crc32": "c00dd157",
+      "sha1": "c72c439093d389ece6b69faf8655c55a8692bbbe"
+    },
+    {
+      "name": "mydesert-2022-06-21T10:16:00.090413-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831764",
+      "size": "19742",
+      "md5": "3be446b8e69cf9d90395e926b9fc412f",
+      "crc32": "a977af16",
+      "sha1": "b1dea1a196100341ee0390794f8eaf994db525ce",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-21T10:16:00.090413-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831766",
+      "size": "30466",
+      "md5": "a73497622d011e56e6038b24f03adcd9",
+      "crc32": "7bed4a24",
+      "sha1": "6499ab035105cd7fff68d6e21aa7320b1d32fb88",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-21T10:16:00.090413-07:00.jpg",
+      "source": "original",
+      "mtime": "1655831762",
+      "size": "296241",
+      "md5": "d4c37e3de877d7777cf711d8f1935911",
+      "crc32": "14512f73",
+      "sha1": "810e383c091fb367c40cd3c340a2e2ec747a0384",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-21T10:16:00.090413-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-21T10:16:00.090413-07:00.jpg",
+      "mtime": "1655831833",
+      "size": "8455",
+      "md5": "04219e0739946442797caeacfa57fada",
+      "crc32": "1fdb6a62",
+      "sha1": "1494cc40631d11c0aa66a40f65d25fc4ccbab494"
+    },
+    {
+      "name": "mydesert-2022-06-21T18:24:41.625020-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861085",
+      "size": "20730",
+      "md5": "4776c51abad6a5c1892801dbf11fea1f",
+      "crc32": "6c1538ce",
+      "sha1": "eccd1310b98dfeac754110d876c32861e8a2176c",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-21T18:24:41.625020-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861086",
+      "size": "29435",
+      "md5": "a662490f757cd42f9af275901d1412e1",
+      "crc32": "e78207bd",
+      "sha1": "717714d7962befffa022caca25777944f676c150",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-21T18:24:41.625020-07:00.jpg",
+      "source": "original",
+      "mtime": "1655861083",
+      "size": "298325",
+      "md5": "8985981380e39626dab18cc0066f0ff3",
+      "crc32": "2e28086a",
+      "sha1": "3783b9d50cdb019d8fc68f4b70edaa8feb55e89d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-21T18:24:41.625020-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-21T18:24:41.625020-07:00.jpg",
+      "mtime": "1655861357",
+      "size": "8129",
+      "md5": "34e815abaa803f2af258e52722349d92",
+      "crc32": "3a2944ae",
+      "sha1": "f4d1133a08945f9a234d615c15035135d32037ce"
+    },
+    {
+      "name": "mydesert-2022-06-22T02:17:22.503098-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889448",
+      "size": "19688",
+      "md5": "4b4da0f0252f2c475783175148b34f86",
+      "crc32": "3885d68b",
+      "sha1": "77e02343617ecc0f8273f10bae08b31cba3e0608",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-22T02:17:22.503098-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889451",
+      "size": "29108",
+      "md5": "733e76279c5b2c995b8c7929715de4e9",
+      "crc32": "cf8b6d87",
+      "sha1": "8e3c60da924003789319f3f2c55a976289084664",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-22T02:17:22.503098-07:00.jpg",
+      "source": "original",
+      "mtime": "1655889446",
+      "size": "294363",
+      "md5": "7b29159639efd64160b92d15423cebd7",
+      "crc32": "e4d08579",
+      "sha1": "ac9113076d6b925fa6135011a3500bc23d09539a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-22T02:17:22.503098-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-22T02:17:22.503098-07:00.jpg",
+      "mtime": "1655889500",
+      "size": "8159",
+      "md5": "62fa7a58b189c34131871f1c0aae6ecc",
+      "crc32": "14d50e50",
+      "sha1": "4ca6d148789e2ab0b924dd85168ea28e110e634b"
+    },
+    {
+      "name": "mydesert-2022-06-22T10:32:00.820165-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919127",
+      "size": "21074",
+      "md5": "ab1ea6d8d69aa5cb84d85fc5872ec541",
+      "crc32": "85909d03",
+      "sha1": "b77632166ed34368fd3abfbd295eafc760f1233d",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-22T10:32:00.820165-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919130",
+      "size": "27605",
+      "md5": "e367582f1f146bbc7263bab22af772ec",
+      "crc32": "90e95384",
+      "sha1": "942f016f5c661d8f9b2b7ad7f674793032dc75aa",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-22T10:32:00.820165-07:00.jpg",
+      "source": "original",
+      "mtime": "1655919125",
+      "size": "295413",
+      "md5": "3ccb47fd9082175a771efef87a4c2fbc",
+      "crc32": "133fdaf2",
+      "sha1": "d868ea51268fb5ce6dc33785571f40ba010147f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-22T10:32:00.820165-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-22T10:32:00.820165-07:00.jpg",
+      "mtime": "1655919183",
+      "size": "8173",
+      "md5": "035a1718e52f2b13de43e0032d84d087",
+      "crc32": "93741e48",
+      "sha1": "b11192b7074b1e94aff7581274092c4d531ea095"
+    },
+    {
+      "name": "mydesert-2022-06-22T18:27:27.096056-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947649",
+      "size": "19518",
+      "md5": "e6c065cc46b9b0d0925bfb83a1186564",
+      "crc32": "657f989f",
+      "sha1": "b3aa09f0b5367810a46d3c5e30b49297900fec2a",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-22T18:27:27.096056-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947651",
+      "size": "32049",
+      "md5": "7a403e6425437f70323d906aa2f8dbdf",
+      "crc32": "85e2caf3",
+      "sha1": "1a536fe411d2d10caba02cba44dd9b341b2f5828",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-22T18:27:27.096056-07:00.jpg",
+      "source": "original",
+      "mtime": "1655947648",
+      "size": "309654",
+      "md5": "e0def272cd1c24650570d8571fc569e2",
+      "crc32": "81c0c7a3",
+      "sha1": "3038d5b2d6029aa1ca72bb6472adb4b778dd8338",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-22T18:27:27.096056-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-22T18:27:27.096056-07:00.jpg",
+      "mtime": "1655947708",
+      "size": "8250",
+      "md5": "c0c85da25a49233590baf6a5364be395",
+      "crc32": "161c702f",
+      "sha1": "e8f3b4850bbed7cad4f63f08f219f3c590fc4a43"
+    },
+    {
+      "name": "mydesert-2022-06-23T02:19:30.367809-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655975975",
+      "size": "20026",
+      "md5": "dd0efc89832fd741645c8545eef677a5",
+      "crc32": "58203567",
+      "sha1": "3c5b5451c9dfac25aa0f402eabb99823266f9cd5",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-23T02:19:30.367809-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655975977",
+      "size": "30324",
+      "md5": "3298ae85b6b3b11c739648aab1a15695",
+      "crc32": "7ddbab82",
+      "sha1": "5f7078b08bd8ea8025317f14b40c2be0c88915ff",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-23T02:19:30.367809-07:00.jpg",
+      "source": "original",
+      "mtime": "1655975973",
+      "size": "309702",
+      "md5": "69bcb31822d466fdb91a7291798a8c47",
+      "crc32": "0895f67f",
+      "sha1": "514d36ed7b92833feecdde411762fb7bcfef2927",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-23T02:19:30.367809-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-23T02:19:30.367809-07:00.jpg",
+      "mtime": "1655976051",
+      "size": "8262",
+      "md5": "208464804f426ff588a1e24f92b38bec",
+      "crc32": "acd7eed3",
+      "sha1": "e3b6f9e51aa46d4047b7656dfac125362a6f59aa"
+    },
+    {
+      "name": "mydesert-2022-06-23T10:18:37.476561-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004723",
+      "size": "20242",
+      "md5": "8356fb8c99050cf5b939bc1b56df07d4",
+      "crc32": "cc76c7ee",
+      "sha1": "66a4f15a90de9c79071e79d2522e396a4cc5854d",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-23T10:18:37.476561-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004725",
+      "size": "29129",
+      "md5": "a68f7646f8a2b415e226d1f726463566",
+      "crc32": "993d69be",
+      "sha1": "702e4e4a76c60b5775c3c7d81172e363cc60124b",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-06-23T10:18:37.476561-07:00.jpg",
+      "source": "original",
+      "mtime": "1656004721",
+      "size": "315126",
+      "md5": "bd964569d2e8c70745a3556b19cf6941",
+      "crc32": "cc6723ac",
+      "sha1": "1de0583b0dfbc536e1c3e9c9fca9b831182177aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-06-23T10:18:37.476561-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-06-23T10:18:37.476561-07:00.jpg",
+      "mtime": "1656004813",
+      "size": "8418",
+      "md5": "ece4df42e90a47c079237a97654c6a9c",
+      "crc32": "8f0f146f",
+      "sha1": "55843177656619eb004d721615df7a069e78cc07"
+    },
+    {
       "name": "mydesert-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb2ee46ed23331353ea1338619b2a8d3221dca92",
-      "mtime": "1655760836",
-      "size": "132337",
-      "md5": "222028ca877e5f25e17620b5b5a9dbb4",
-      "crc32": "c134bfd3",
-      "sha1": "4accd6c00c641065275265fcc8fb18030eb17b87",
+      "btih": "2cb6fa9447440f3d50bf45efa31c21eb951d4f50",
+      "mtime": "1656004837",
+      "size": "141616",
+      "md5": "902fb97fdcdd5aa11a05575368f22fa3",
+      "crc32": "52f53ac2",
+      "sha1": "d2d4b40426e1304da7c1deff8c343ff9c3b45127",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mydesert-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34ce7194ac0a4a1e0a32ea7a746cb195",
+      "md5": "f1c4529f9e3fac7647c598c8406dd1de",
       "summation": "md5"
     },
     {
       "name": "mydesert-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760749",
-      "size": "720896",
-      "md5": "9e42354717323352856febb246cdcd7e",
-      "crc32": "f9b2dc8e",
-      "sha1": "a4750238d0478078a0c5e36c35045a1470420107",
+      "mtime": "1656004729",
+      "size": "774144",
+      "md5": "14866ccd39a332cd876e06ce3956ad7f",
+      "crc32": "d2382ecb",
+      "sha1": "7580f40aba92b2bdcee23eba1a8df55c297c5424",
       "format": "Metadata"
     },
     {
@@ -6572,9 +7034,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 625,
-  "item_last_updated": 1655760836,
-  "item_size": 60846838,
+  "files_count": 669,
+  "item_last_updated": 1656004837,
+  "item_size": 64877399,
   "metadata": {
     "identifier": "mydesert-2022",
     "collection": [
@@ -6591,8 +7053,586 @@
     "publicdate": "2022-03-23 02:08:56",
     "addeddate": "2022-03-23 02:08:56"
   },
+  "mydesert-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.desertsun.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.desertsun.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.desertsun.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.desertsun.com%2F"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Life",
+      "url": "/life/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Real Estate",
+      "url": "/marketplace/real-estate/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.desertsun.com/obituaries"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.desertsun.com/user/enewspaper"
+    },
+    {
+      "text": "Legals",
+      "url": "http://classifieds.desertsun.com/"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.desertsun.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.desertsun.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://login.desertsun.com/PPAS-GUP/authenticate?success-url=https%3A%2F%2Fwww.desertsun.com%2F&cancel-url=https%3A%2F%2Fwww.desertsun.com%2F"
+    },
+    {
+      "text": " County to receive $76M to build behavioral health campus in Coachella",
+      "url": "/story/news/2022/06/22/riverside-county-receive-76-m-build-behavioral-health-campus-coachella/7705527001/"
+    },
+    {
+      "text": "County OKs spending $7M of state funds for housing in Oasis",
+      "url": "/story/news/local/2022/06/21/riverside-county-oks-spending-7-m-state-funds-housing-oasis/7688881001/"
+    },
+    {
+      "text": "Early monsoon conditions bring rain, lightning strikes",
+      "url": "/story/news/2022/06/22/palm-springs-weather-early-monsoon-conditions-could-bring-afternoon-thunderstorms/7701298001/"
+    },
+    {
+      "text": "Title IX at 50: Gains have been made but there's still work to do",
+      "url": "/story/sports/2022/06/22/title-ix-50-billie-jean-king-ann-meyers-drysdale-weigh/7630163001/"
+    },
+    {
+      "text": "Subscribe to The Desert Sun for $2 for 2 months",
+      "url": "/story/news/2022/02/18/subscribe-desert-sun-1-6-months-limited-time/6833474001/"
+    },
+    {
+      "text": " DSUSD superintendent oversees last board meeting before\u2026",
+      "url": "/story/news/education/2022/06/21/dsusd-superintendent-oversees-last-board-meeting-before-retirement/7696220001/"
+    },
+    {
+      "text": " Desert Hot Springs approves residency requirement for\u2026",
+      "url": "/story/news/local/desert-hot-springs/2022/06/21/desert-hot-springs-approves-residency-requirement-council-candidates/7696169001/"
+    },
+    {
+      "text": " For this artist, Palm Springs is in the cards",
+      "url": "/story/news/2022/06/21/oregon-artist-aaron-trotter-makes-palm-springs-playing-cards/7564597001/"
+    },
+    {
+      "text": " DSUSD special election to be held in Nov.",
+      "url": "/story/news/education/2022/06/21/dsusd-special-election-held-november-general-election/7694471001/"
+    },
+    {
+      "text": " Candidacy announced for Palm Desert council",
+      "url": "/story/news/local/palm-desert/2022/06/21/carlos-garcia-announces-palm-desert-council-candidacy/7691690001/"
+    },
+    {
+      "text": " Title IX at 50: Gains have been made but there's still work to do\u00a0",
+      "url": "/story/sports/2022/06/22/title-ix-50-billie-jean-king-ann-meyers-drysdale-weigh/7630163001/"
+    },
+    {
+      "text": " Former LPGA golfer Nicole Castrale has seen evolution of Title IX\u00a0",
+      "url": "/story/sports/high-school/2022/06/22/title-ix-nicole-castrale-had-golf-boys-team-those-days-over/7624582001/"
+    },
+    {
+      "text": " Title IX should be introduced to high school athletes\u00a0",
+      "url": "/story/sports/high-school/2022/06/22/title-ix-and-its-impact-should-part-high-school-athletes-education/7474661001/"
+    },
+    {
+      "text": "More in Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": " La Quinta tea room, chocolate shop to add a tasting room\u00a0",
+      "url": "/story/news/local/la-quinta/2022/06/21/la-quinta-tea-room-chocolate-shop-cali-rosina-add-tasting-room/7499628001/"
+    },
+    {
+      "text": " County OKs spending $7M of state funds for housing in Oasis\u00a0",
+      "url": "/story/news/local/2022/06/21/riverside-county-oks-spending-7-m-state-funds-housing-oasis/7688881001/"
+    },
+    {
+      "text": " Soho House planned for Palm Springs' Colony 29 property\u00a0",
+      "url": "/story/money/business/2022/06/16/soho-house-planned-palm-springs-colony-29-property/7654169001/"
+    },
+    {
+      "text": "More in Business",
+      "url": "/business/"
+    },
+    {
+      "text": " 2 arrested in fatal shooting in Rancho Mirage\u00a0",
+      "url": "/story/news/local/rancho-mirage/2022/06/22/two-arrested-murder-alejandro-suarez-rancho-mirage/7706621001/"
+    },
+    {
+      "text": " Highway 74 above Palm Desert reopens after two-vehicle crash\u00a0",
+      "url": "/story/news/2022/06/22/highway-74-closed-above-palm-desert-after-two-vehicle-crash/7703176001/"
+    },
+    {
+      "text": " Palm Springs Tramway closes due to technical issues\u00a0",
+      "url": "/story/news/local/2022/06/22/palm-springs-tramway-closes-due-technical-issues/7704991001/"
+    },
+    {
+      "text": "More in News",
+      "url": "/news/"
+    },
+    {
+      "text": " HOT PICKS: W.I.T.C.H. tops this weekend's nightlife\u00a0",
+      "url": "/story/life/2022/06/20/hot-picks-w-i-t-c-h-tops-weekends-nightlife/7660971001/"
+    },
+    {
+      "text": " Queercore band Pansy Division to play The Alibi on June 30\u00a0",
+      "url": "/story/life/entertainment/music/2022/06/18/pansy-division-bring-green-day-approved-sound-alibi/7532845001/"
+    },
+    {
+      "text": " Desert Scene and philanthropy news\u00a0",
+      "url": "https://www.desertsun.com/life/desert-scene/"
+    },
+    {
+      "text": "More in Life",
+      "url": "/life/"
+    },
+    {
+      "text": " I'm alarmed that warehouses are spreading like viruses in the valley\u00a0Reader submissions\u00a0",
+      "url": "/story/opinion/readers/2022/06/23/coachella-valley-warehouses-spreading-like-virus-letters-editor/7683542001/"
+    },
+    {
+      "text": " California can find better ways of dealing with dying prisoners\u00a0Daniel Landsman\u00a0",
+      "url": "/story/opinion/2022/06/22/california-can-find-better-ways-dealing-dying-prisoners/7702791001/"
+    },
+    {
+      "text": " Let's divert Mississippi River water to the Colorado\u00a0Reader submissions\u00a0",
+      "url": "/story/opinion/2022/06/22/west-drought-solution-divert-mississippi-river-water-colorado/7683163001/"
+    },
+    {
+      "text": "More in Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "",
+      "url": "/picture-gallery/life/2022/06/22/photos-filmmakers-arrive-shortfest-2022-opening-night/7696490001/"
+    },
+    {
+      "text": "Enter for a chance to WIN!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://desertsun.secondstreetapp.com/Acuity-Optical-Ray-Ban-Sunglasses/?itm_campaign=Acuity%20Optical%20Ray%20Ban%20Sunglasses%20Giveaway&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Summer Membership Giveaway\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://desertsun.secondstreetapp.com/Boys--Girls-Club-of-Palm-Springs-Summer-Membership/?itm_campaign=Boys%20%26amp%3B%20Girls%20Club%20of%20Palm%20Springs%20Summer%20Membership%20Giveaway&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "ENTER TODAY!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/1000-MetaWomen-NFT/?itm_campaign=MetaWomen%20NFT&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "All Things Auto | Search Ads",
+      "url": "https://searchtopics.net/index.php?rgid=125425&gclid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCIrVQo7ufW782ms78U"
+    },
+    {
+      "text": "The 2021 Kia Lineup Is Turning HeadsAll Things Auto | Search Ads|",
+      "url": "https://searchtopics.net/index.php?rgid=125425&gclid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCIrVQo7ufW782ms78U"
+    },
+    {
+      "text": "",
+      "url": "https://searchtopics.net/index.php?rgid=125425&gclid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCIrVQo7ufW782ms78U"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "TheLuxeBlogger",
+      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_3weeks_luxeblogger_ps_contextual_bspwl-lp-3weeksluxeblog&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=tb_d_3weeks_luxeblogger_ps_contextual_bspwl&utm_term=gannettcompany-mydesert&utm_content=1003872_19005097_3436276589&tcid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDvpz4o1rrJ1r6h9eh4&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDvpz4o1rrJ1r6h9eh4#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDvpz4o1rrJ1r6h9eh4"
+    },
+    {
+      "text": "Babbel: At First I Was Skeptical, But Now I'm HookedWith Babbel Get A Free Trial Then Only $7 A Month!TheLuxeBlogger|",
+      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_3weeks_luxeblogger_ps_contextual_bspwl-lp-3weeksluxeblog&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=tb_d_3weeks_luxeblogger_ps_contextual_bspwl&utm_term=gannettcompany-mydesert&utm_content=1003872_19005097_3436276589&tcid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDvpz4o1rrJ1r6h9eh4&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDvpz4o1rrJ1r6h9eh4#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDvpz4o1rrJ1r6h9eh4"
+    },
+    {
+      "text": "",
+      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_3weeks_luxeblogger_ps_contextual_bspwl-lp-3weeksluxeblog&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=tb_d_3weeks_luxeblogger_ps_contextual_bspwl&utm_term=gannettcompany-mydesert&utm_content=1003872_19005097_3436276589&tcid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDvpz4o1rrJ1r6h9eh4&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDvpz4o1rrJ1r6h9eh4#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDvpz4o1rrJ1r6h9eh4"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Power Life",
+      "url": "https://www2.muscledefense.com/cid/7013w000002HIAtAAO?subid1=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDG9Uwo-Oeay__Y88_SAQ&utm_content=site_gannettcompany-mydesert_campaign_id_3425059985_&utm_source=taboola&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDG9Uwo-Oeay__Y88_SAQ#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDG9Uwo-Oeay__Y88_SAQ"
+    },
+    {
+      "text": "Mature Trainer: This Is What \"Ripped\" Old Guys Do Differently (Genius!)Power Life|",
+      "url": "https://www2.muscledefense.com/cid/7013w000002HIAtAAO?subid1=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDG9Uwo-Oeay__Y88_SAQ&utm_content=site_gannettcompany-mydesert_campaign_id_3425059985_&utm_source=taboola&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDG9Uwo-Oeay__Y88_SAQ#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDG9Uwo-Oeay__Y88_SAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www2.muscledefense.com/cid/7013w000002HIAtAAO?subid1=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDG9Uwo-Oeay__Y88_SAQ&utm_content=site_gannettcompany-mydesert_campaign_id_3425059985_&utm_source=taboola&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDG9Uwo-Oeay__Y88_SAQ#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDG9Uwo-Oeay__Y88_SAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Particle for Men",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=gannettcompany-mydesert#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCc4EkowcnYpIup6-Fw"
+    },
+    {
+      "text": "Men Only - How to Tighten Eyebags (Do This Twice a Day)The 6-in-1 anti-aging cream for menParticle for Men|",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=gannettcompany-mydesert#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCc4EkowcnYpIup6-Fw"
+    },
+    {
+      "text": "",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=gannettcompany-mydesert#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCc4EkowcnYpIup6-Fw"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "2022 SUV Guide | Search Ads",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDO51cozb7q5c2q2_gt#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDO51cozb7q5c2q2_gt"
+    },
+    {
+      "text": "The Future Of Hybrid & Electric SUVs Is Here, See 2022's Top Models2022 SUV Guide | Search Ads|",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDO51cozb7q5c2q2_gt#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDO51cozb7q5c2q2_gt"
+    },
+    {
+      "text": "",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDO51cozb7q5c2q2_gt#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yDO51cozb7q5c2q2_gt"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "TopgadgetWorld",
+      "url": "https://trk.greatdiscount.life/7100cf02-d394-4ae3-baf3-152e4ba1bca6?campaignid=15984494&site=gannettcompany-mydesert&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F4498ccc615d0acf14674b673967317cd.png&title=Seniors+Should+Stop+Overpaying+And+Buy+This+%2449+Smart+Watch%C2%A0&item=3428946418&timestamp=2022-06-23+17%3A04%3A26&platform=Desktop&step={step}&taboolaclickid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCf2Vcoz_-AktrS5sxe&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCf2Vcoz_-AktrS5sxe#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCf2Vcoz_-AktrS5sxe"
+    },
+    {
+      "text": "Seniors Should Stop Overpaying And Buy This $49 Smart Watch\u00a0TopgadgetWorld|",
+      "url": "https://trk.greatdiscount.life/7100cf02-d394-4ae3-baf3-152e4ba1bca6?campaignid=15984494&site=gannettcompany-mydesert&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F4498ccc615d0acf14674b673967317cd.png&title=Seniors+Should+Stop+Overpaying+And+Buy+This+%2449+Smart+Watch%C2%A0&item=3428946418&timestamp=2022-06-23+17%3A04%3A26&platform=Desktop&step={step}&taboolaclickid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCf2Vcoz_-AktrS5sxe&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCf2Vcoz_-AktrS5sxe#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCf2Vcoz_-AktrS5sxe"
+    },
+    {
+      "text": "",
+      "url": "https://trk.greatdiscount.life/7100cf02-d394-4ae3-baf3-152e4ba1bca6?campaignid=15984494&site=gannettcompany-mydesert&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F4498ccc615d0acf14674b673967317cd.png&title=Seniors+Should+Stop+Overpaying+And+Buy+This+%2449+Smart+Watch%C2%A0&item=3428946418&timestamp=2022-06-23+17%3A04%3A26&platform=Desktop&step={step}&taboolaclickid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCf2Vcoz_-AktrS5sxe&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCf2Vcoz_-AktrS5sxe#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCf2Vcoz_-AktrS5sxe"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Unify Health Labs",
+      "url": "https://www2.yourhealthygut.com/cid/7013w000002HEb9AAG?subid1=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yC-pEso_p-A-t_Rrcx7&utm_content=site_gannettcompany-mydesert_campaign_id_3234274813_&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yC-pEso_p-A-t_Rrcx7#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yC-pEso_p-A-t_Rrcx7"
+    },
+    {
+      "text": "Randy Jackson: This 3 Minute Routine Helps Empty My BowelsRandy Jackson and health experts agree \"Good Health Starts In The Gut\". A new blend has been designed to promote healthy digestion, improve weight management, and increase energy.Unify Health Labs|",
+      "url": "https://www2.yourhealthygut.com/cid/7013w000002HEb9AAG?subid1=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yC-pEso_p-A-t_Rrcx7&utm_content=site_gannettcompany-mydesert_campaign_id_3234274813_&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yC-pEso_p-A-t_Rrcx7#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yC-pEso_p-A-t_Rrcx7"
+    },
+    {
+      "text": "",
+      "url": "https://www2.yourhealthygut.com/cid/7013w000002HEb9AAG?subid1=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yC-pEso_p-A-t_Rrcx7&utm_content=site_gannettcompany-mydesert_campaign_id_3234274813_&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yC-pEso_p-A-t_Rrcx7#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yC-pEso_p-A-t_Rrcx7"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Bombas",
+      "url": "https://bombas.com/collections/mickey-and-friends?utm_source=taboola&utm_medium=native&utm_campaign=cf_acq-bt_core-cp_sock-ca_core-disney-desktop&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCci0Ao1fXZ3Lz0jpVU#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCci0Ao1fXZ3Lz0jpVU"
+    },
+    {
+      "text": "Everybody Wants the Newest (and Comfiest) Mickey Mouse SocksMickey Mouse and all his friends are now available in a collection of the comfiest socks ever, so you can take your favorite Disney friends with you everywhere you go. One Purchased = One Donated.Bombas|",
+      "url": "https://bombas.com/collections/mickey-and-friends?utm_source=taboola&utm_medium=native&utm_campaign=cf_acq-bt_core-cp_sock-ca_core-disney-desktop&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCci0Ao1fXZ3Lz0jpVU#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCci0Ao1fXZ3Lz0jpVU"
+    },
+    {
+      "text": "",
+      "url": "https://bombas.com/collections/mickey-and-friends?utm_source=taboola&utm_medium=native&utm_campaign=cf_acq-bt_core-cp_sock-ca_core-disney-desktop&tblci=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCci0Ao1fXZ3Lz0jpVU#tblciGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCci0Ao1fXZ3Lz0jpVU"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Federal grant to help migrant farmworkers stay in school at CSUSB",
+      "url": "/story/news/education/2022/06/22/federal-grant-help-migrant-farmworkers-stay-school-csusb/7704816001/"
+    },
+    {
+      "text": "Health officials report first probable monkeypox case in Riverside County",
+      "url": "/story/news/health/2022/06/22/riverside-county-health-officials-report-first-probable-monkeypox-case/7701920001/"
+    },
+    {
+      "text": "Palm Springs ShortFest 2022 opens with slate of comedy, drama, doc shorts",
+      "url": "/story/life/entertainment/movies/shortfest/2022/06/21/palm-springs-shortfest-2022-opens-slate-comedy-drama-documentary-shorts/7641555001/"
+    },
+    {
+      "text": "Desert Sands Trustee Wendy Jonathan to resign in August",
+      "url": "/story/news/education/2022/06/21/desert-sands-trustee-wendy-jonathan-resign-august/7696486001/"
+    },
+    {
+      "text": "2 ex-cops working as bounty hunters charged with kidnapping",
+      "url": "/story/news/crime_courts/2022/06/21/ex-orange-county-cops-working-bounty-hunters-indicted-kidnapping/7689359001/"
+    },
+    {
+      "text": "",
+      "url": "https://cm.desertsun.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.desertsun.com%2F&marketName=desertsun&cta=Right-Rail"
+    },
+    {
+      "text": "All Things Auto | Search Ads",
+      "url": "https://searchtopics.net/index.php?rgid=125425&gclid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCIrVQotd_iw57P69FN"
+    },
+    {
+      "text": "The 2021 Kia Lineup Is Turning HeadsAll Things Auto | Search Ads|",
+      "url": "https://searchtopics.net/index.php?rgid=125425&gclid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCIrVQotd_iw57P69FN"
+    },
+    {
+      "text": "",
+      "url": "https://searchtopics.net/index.php?rgid=125425&gclid=GiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCIrVQotd_iw57P69FN"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-mydesert&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://trc.taboola.com/gannettcompany-mydesert/log/3/click?pi=%2F&ri=26573a3ed2ce7537652b952d6e3bc198&sd=v2_fe503550f820f93c682f95f3ec329e25_cd6c5e51-3b18-46c6-934a-90467f04d8e1-tuct9ae229a_1656003866_1656003866_CIi3jgYQ4KI9GKXdloyZMCABKAEw4QE4kaQOQPzYD0iYzdkDUIEFWABgAGjL6tCfh4PQ0TtwAQ&ui=cd6c5e51-3b18-46c6-934a-90467f04d8e1-tuct9ae229a&it=text&ii=~~V1~~-6131969691175157293~~BkgGK8peR-k64bvv2lomVN3YcMXfc-9lXPqU3hnt2OvTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RLOtKMa280InYUcARqAqbaCe9dafck0-IiHVlKAEWOAbYL2odLfQBfWrMNgQhbZxGjhet2iWBXzd0qXl1yYYN3QjxfAtsj75Zm6PzSBS4yNyS_6DcE9mq_cisw6wd_y9Z4&pt=home&li=rbox-h2m&sig=06bef2996e575b5d7332b9cf0fce120729653e15093d&redir=https%3A%2F%2Fsearchtopics.net%2Findex.php%3Frgid%3D125425%26gclid%3DGiCeexpTnGSK7Y7EQ5cxL60MkZcRIQRyPXDuyokOnCFO3yCIrVQotd_iw57P69FN&vi=1656003866277&p=nimble5-searchtopicstbjpowers502-sc&r=22&tvi2=7830&lti=deflated&ppb=CLQF&cpb=EhIyMDIyMDYyMy0zLVJFTEVBU0UY-SMglpACKhl1cy50YWJvb2xhc3luZGljYXRpb24uY29tMgh0cmMxMDI3MjiAgNJqQJGkDkj82A9QmM3ZA1iBBWMI7C0Qlj0YAmRjCNcWENQfGCNkYwjc__________8BENz__________wEYJGRjCNIDEOAGGAhkYwiWFBCcHBgYZGMI9___________ARD3__________8BGAlkYwinLBCaOxgLZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "About Us",
+      "url": "https://static.desertsun.com/about/"
+    },
+    {
+      "text": "Corrections",
+      "url": "/story/news/2019/05/09/corrections-and-clarifications/1153202001/"
+    },
+    {
+      "text": "Staff Directory",
+      "url": "/contact/staff/"
+    },
+    {
+      "text": "Careers",
+      "url": "http://www.gannett.com/careers/"
+    },
+    {
+      "text": "Accessibility Support",
+      "url": "https://cm.desertsun.com/accessibility"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Legals",
+      "url": "http://classifieds.desertsun.com/"
+    },
+    {
+      "text": "Our Ethical Principles",
+      "url": "https://cm.desertsun.com/ethical-conduct"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://cm.desertsun.com/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://cm.desertsun.com/privacy"
+    },
+    {
+      "text": "Your California Privacy Rights / Privacy Policy",
+      "url": "https://cm.desertsun.com/privacy-policy/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://help.desertsun.com/contact-us"
+    },
+    {
+      "text": "Support Local Businesses",
+      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=palmsprings"
+    },
+    {
+      "text": "Advertise Your Business",
+      "url": "https://localiq.com/markets/California/"
+    },
+    {
+      "text": "Advertising Terms and Conditions",
+      "url": "https://cm.desertsun.com/advertising-terms-conditions"
+    },
+    {
+      "text": "Place An Ad",
+      "url": "/placead/"
+    },
+    {
+      "text": "Licensing & Reprints",
+      "url": "https://imagn.com/licensing-reprints/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://help.desertsun.com/"
+    },
+    {
+      "text": "Subscriber Guide",
+      "url": "https://cm.desertsun.com/subscriberguide"
+    },
+    {
+      "text": "My Account",
+      "url": "https://account.desertsun.com/"
+    },
+    {
+      "text": "Give Feedback",
+      "url": "https://cm.desertsun.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.desertsun.com%2F&marketName=desertsun&cta=Footer"
+    },
+    {
+      "text": "Subscribe Today",
+      "url": "https://subscribe.desertsun.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://profile.desertsun.com/newsletters/manage"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.desertsun.com/subscriberguide/apps/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/thedesertsun/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/mydesert"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.desertsun.com/user/enewspaper"
+    },
+    {
+      "text": "Storytellers",
+      "url": "https://www.storytellersproject.com/"
+    },
+    {
+      "text": "Archives",
+      "url": "http://www.tkqlhce.com/click-8144728-11570746?url=http://archives.desertsun.com"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "http://static.desertsun.com/rss/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.desertsun.com/jobs/"
+    },
+    {
+      "text": "Cars",
+      "url": "/cars/"
+    },
+    {
+      "text": "Homes",
+      "url": "/marketplace/real-estate/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://classifieds.desertsun.com/"
+    },
+    {
+      "text": "Education",
+      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Palm+Springs+Desert+Sun"
+    },
+    {
+      "text": "Reviewed",
+      "url": "https://www.reviewed.com"
+    },
+    {
+      "text": "10Best",
+      "url": "https://www.10best.com/"
+    },
+    {
+      "text": "Reach Local",
+      "url": "https://www.reachlocal.com/us/en"
+    },
+    {
+      "text": "USA TODAY Sports+",
+      "url": "https://www.usatodaysportsplus.com/"
+    }
+  ],
   "server": "ia902508.us.archive.org",
-  "uniq": 1205792356,
+  "uniq": 1144756776,
   "workable_servers": [
     "ia902508.us.archive.org",
     "ia802508.us.archive.org"

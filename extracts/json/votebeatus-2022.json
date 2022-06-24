@@ -1,5 +1,5 @@
 {
-  "created": 1655770909,
+  "created": 1656019131,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/5/items/votebeatus-2022",
@@ -646,31 +646,493 @@
       "sha1": "3b6eeff1998fff9ba350495353a21c91570f6464"
     },
     {
+      "name": "votebeatus-2022-06-20T21:37:01.419056-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775424",
+      "size": "45420",
+      "md5": "092189a1827191bf05071b5d955e8612",
+      "crc32": "48910ac4",
+      "sha1": "c398e9aad948556e5bdbd133f6393d7e9797c974",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-20T21:37:01.419056-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775426",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-20T21:37:01.419056-04:00.jpg",
+      "source": "original",
+      "mtime": "1655775423",
+      "size": "239897",
+      "md5": "210324c91068fe15222c685bc3b548da",
+      "crc32": "8b1939a2",
+      "sha1": "e95ec006efc69dda9a49d2bbbd923c796aa4b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-20T21:37:01.419056-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-20T21:37:01.419056-04:00.jpg",
+      "mtime": "1655775472",
+      "size": "9310",
+      "md5": "889d8ecaa406a7de771562ae33c9ddc5",
+      "crc32": "13bfd225",
+      "sha1": "817a2cfe84f28a7bbcc547fe414439044fcc36d6"
+    },
+    {
+      "name": "votebeatus-2022-06-21T01:31:24.324709-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789486",
+      "size": "45655",
+      "md5": "99840e6ba39e4f0097592645927b312c",
+      "crc32": "bfb70d42",
+      "sha1": "d9654c55244d7c54793f9714c4b02030a53f07af",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T01:31:24.324709-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789487",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T01:31:24.324709-04:00.jpg",
+      "source": "original",
+      "mtime": "1655789485",
+      "size": "239897",
+      "md5": "210324c91068fe15222c685bc3b548da",
+      "crc32": "8b1939a2",
+      "sha1": "e95ec006efc69dda9a49d2bbbd923c796aa4b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-21T01:31:24.324709-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-21T01:31:24.324709-04:00.jpg",
+      "mtime": "1655789531",
+      "size": "9310",
+      "md5": "889d8ecaa406a7de771562ae33c9ddc5",
+      "crc32": "13bfd225",
+      "sha1": "817a2cfe84f28a7bbcc547fe414439044fcc36d6"
+    },
+    {
+      "name": "votebeatus-2022-06-21T08:34:20.983016-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814870",
+      "size": "45655",
+      "md5": "99840e6ba39e4f0097592645927b312c",
+      "crc32": "bfb70d42",
+      "sha1": "d9654c55244d7c54793f9714c4b02030a53f07af",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T08:34:20.983016-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814872",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T08:34:20.983016-04:00.jpg",
+      "source": "original",
+      "mtime": "1655814866",
+      "size": "239897",
+      "md5": "210324c91068fe15222c685bc3b548da",
+      "crc32": "8b1939a2",
+      "sha1": "e95ec006efc69dda9a49d2bbbd923c796aa4b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-21T08:34:20.983016-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-21T08:34:20.983016-04:00.jpg",
+      "mtime": "1655814936",
+      "size": "9310",
+      "md5": "889d8ecaa406a7de771562ae33c9ddc5",
+      "crc32": "13bfd225",
+      "sha1": "817a2cfe84f28a7bbcc547fe414439044fcc36d6"
+    },
+    {
+      "name": "votebeatus-2022-06-21T09:59:38.268875-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819982",
+      "size": "45420",
+      "md5": "092189a1827191bf05071b5d955e8612",
+      "crc32": "48910ac4",
+      "sha1": "c398e9aad948556e5bdbd133f6393d7e9797c974",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T09:59:38.268875-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819984",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T09:59:38.268875-04:00.jpg",
+      "source": "original",
+      "mtime": "1655819980",
+      "size": "239897",
+      "md5": "210324c91068fe15222c685bc3b548da",
+      "crc32": "8b1939a2",
+      "sha1": "e95ec006efc69dda9a49d2bbbd923c796aa4b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-21T09:59:38.268875-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-21T09:59:38.268875-04:00.jpg",
+      "mtime": "1655820076",
+      "size": "9310",
+      "md5": "889d8ecaa406a7de771562ae33c9ddc5",
+      "crc32": "13bfd225",
+      "sha1": "817a2cfe84f28a7bbcc547fe414439044fcc36d6"
+    },
+    {
+      "name": "votebeatus-2022-06-21T13:19:15.777168-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831960",
+      "size": "45420",
+      "md5": "092189a1827191bf05071b5d955e8612",
+      "crc32": "48910ac4",
+      "sha1": "c398e9aad948556e5bdbd133f6393d7e9797c974",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T13:19:15.777168-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831962",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T13:19:15.777168-04:00.jpg",
+      "source": "original",
+      "mtime": "1655831958",
+      "size": "239897",
+      "md5": "210324c91068fe15222c685bc3b548da",
+      "crc32": "8b1939a2",
+      "sha1": "e95ec006efc69dda9a49d2bbbd923c796aa4b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-21T13:19:15.777168-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-21T13:19:15.777168-04:00.jpg",
+      "mtime": "1655832028",
+      "size": "9310",
+      "md5": "889d8ecaa406a7de771562ae33c9ddc5",
+      "crc32": "13bfd225",
+      "sha1": "817a2cfe84f28a7bbcc547fe414439044fcc36d6"
+    },
+    {
+      "name": "votebeatus-2022-06-21T21:28:08.999718-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861292",
+      "size": "45655",
+      "md5": "99840e6ba39e4f0097592645927b312c",
+      "crc32": "bfb70d42",
+      "sha1": "d9654c55244d7c54793f9714c4b02030a53f07af",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T21:28:08.999718-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861295",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-21T21:28:08.999718-04:00.jpg",
+      "source": "original",
+      "mtime": "1655861290",
+      "size": "239897",
+      "md5": "210324c91068fe15222c685bc3b548da",
+      "crc32": "8b1939a2",
+      "sha1": "e95ec006efc69dda9a49d2bbbd923c796aa4b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-21T21:28:08.999718-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-21T21:28:08.999718-04:00.jpg",
+      "mtime": "1655861435",
+      "size": "9310",
+      "md5": "889d8ecaa406a7de771562ae33c9ddc5",
+      "crc32": "13bfd225",
+      "sha1": "817a2cfe84f28a7bbcc547fe414439044fcc36d6"
+    },
+    {
+      "name": "votebeatus-2022-06-22T05:21:08.336552-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889671",
+      "size": "45420",
+      "md5": "092189a1827191bf05071b5d955e8612",
+      "crc32": "48910ac4",
+      "sha1": "c398e9aad948556e5bdbd133f6393d7e9797c974",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-22T05:21:08.336552-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889673",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-22T05:21:08.336552-04:00.jpg",
+      "source": "original",
+      "mtime": "1655889670",
+      "size": "239897",
+      "md5": "210324c91068fe15222c685bc3b548da",
+      "crc32": "8b1939a2",
+      "sha1": "e95ec006efc69dda9a49d2bbbd923c796aa4b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-22T05:21:08.336552-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-22T05:21:08.336552-04:00.jpg",
+      "mtime": "1655889719",
+      "size": "9310",
+      "md5": "889d8ecaa406a7de771562ae33c9ddc5",
+      "crc32": "13bfd225",
+      "sha1": "817a2cfe84f28a7bbcc547fe414439044fcc36d6"
+    },
+    {
+      "name": "votebeatus-2022-06-22T13:34:39.661972-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919283",
+      "size": "45655",
+      "md5": "99840e6ba39e4f0097592645927b312c",
+      "crc32": "bfb70d42",
+      "sha1": "d9654c55244d7c54793f9714c4b02030a53f07af",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-22T13:34:39.661972-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919285",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-22T13:34:39.661972-04:00.jpg",
+      "source": "original",
+      "mtime": "1655919281",
+      "size": "169610",
+      "md5": "5a202710a008623f6606db72ef84f239",
+      "crc32": "f6bac474",
+      "sha1": "a16ab354d4da9a3232c016e115704fa1e0c6fa7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-22T13:34:39.661972-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-22T13:34:39.661972-04:00.jpg",
+      "mtime": "1655919329",
+      "size": "7573",
+      "md5": "369029b57d441bee808c2f91b6dd3ba3",
+      "crc32": "24f21efd",
+      "sha1": "e2375273e57a3b907f8190afb1e4c9e07afe9669"
+    },
+    {
+      "name": "votebeatus-2022-06-22T21:30:00.812443-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947804",
+      "size": "45420",
+      "md5": "092189a1827191bf05071b5d955e8612",
+      "crc32": "48910ac4",
+      "sha1": "c398e9aad948556e5bdbd133f6393d7e9797c974",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-22T21:30:00.812443-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947806",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-22T21:30:00.812443-04:00.jpg",
+      "source": "original",
+      "mtime": "1655947803",
+      "size": "239897",
+      "md5": "210324c91068fe15222c685bc3b548da",
+      "crc32": "8b1939a2",
+      "sha1": "e95ec006efc69dda9a49d2bbbd923c796aa4b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-22T21:30:00.812443-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-22T21:30:00.812443-04:00.jpg",
+      "mtime": "1655947858",
+      "size": "9310",
+      "md5": "889d8ecaa406a7de771562ae33c9ddc5",
+      "crc32": "13bfd225",
+      "sha1": "817a2cfe84f28a7bbcc547fe414439044fcc36d6"
+    },
+    {
+      "name": "votebeatus-2022-06-23T05:22:08.267589-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976132",
+      "size": "45420",
+      "md5": "092189a1827191bf05071b5d955e8612",
+      "crc32": "48910ac4",
+      "sha1": "c398e9aad948556e5bdbd133f6393d7e9797c974",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-23T05:22:08.267589-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976134",
+      "size": "55640",
+      "md5": "52db2e7d70b2a09c58fed724e09747f5",
+      "crc32": "002520bd",
+      "sha1": "553b00e6f70f1aba15c19e7fb85ab836971b273f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-23T05:22:08.267589-04:00.jpg",
+      "source": "original",
+      "mtime": "1655976131",
+      "size": "239897",
+      "md5": "210324c91068fe15222c685bc3b548da",
+      "crc32": "8b1939a2",
+      "sha1": "e95ec006efc69dda9a49d2bbbd923c796aa4b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-23T05:22:08.267589-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-23T05:22:08.267589-04:00.jpg",
+      "mtime": "1655976186",
+      "size": "9310",
+      "md5": "889d8ecaa406a7de771562ae33c9ddc5",
+      "crc32": "13bfd225",
+      "sha1": "817a2cfe84f28a7bbcc547fe414439044fcc36d6"
+    },
+    {
+      "name": "votebeatus-2022-06-23T13:21:18.074567-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004883",
+      "size": "45358",
+      "md5": "ed54ba4e40ef6e72dda93f70b4f1534a",
+      "crc32": "59d3d55d",
+      "sha1": "e9c50db7b3b98c32265d3ca6f7ebd9fc3954d34f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-23T13:21:18.074567-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004885",
+      "size": "55482",
+      "md5": "42f0ff059a946f014ba57b7cde1426f8",
+      "crc32": "6ff717dd",
+      "sha1": "0e51e07e133c21f4f9b626fe92af927bae36a39f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-06-23T13:21:18.074567-04:00.jpg",
+      "source": "original",
+      "mtime": "1656004881",
+      "size": "224862",
+      "md5": "8e9ca0fd185741aa5f5e7a3b90b51986",
+      "crc32": "c7635b58",
+      "sha1": "fc324e52b3de20f3bbe8c27bd49f5216ef86fae9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-06-23T13:21:18.074567-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-06-23T13:21:18.074567-04:00.jpg",
+      "mtime": "1656004939",
+      "size": "9201",
+      "md5": "2f30a643353e568f11cdc99fa8c19e6b",
+      "crc32": "3b08d71a",
+      "sha1": "4c2d57f925401c257867dfa9f982195a0535a593"
+    },
+    {
       "name": "votebeatus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e396359372f82e6753d97fa2e52dc82bc2013a1",
-      "mtime": "1655761095",
-      "size": "14377",
-      "md5": "458e9935ccfdbcca57329563cc349316",
-      "crc32": "247eab55",
-      "sha1": "b742d96b42a0d6aba7bbfe6fbc23cb8eae5e8605",
+      "btih": "0bc6b572d511e28575c83a1a1fb10fd5e22839d9",
+      "mtime": "1656004943",
+      "size": "23745",
+      "md5": "5987736f6cd5910252109aaafc01e838",
+      "crc32": "840bf8e9",
+      "sha1": "c2169312f76682c42e1470f60c1224273bad4aac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "votebeatus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "df478a558c54910926ad74fa8e049b19",
+      "md5": "3af57488f6e1052eff1626ba406b55e4",
       "summation": "md5"
     },
     {
       "name": "votebeatus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655761050",
-      "size": "81920",
-      "md5": "ec4dad63c95316787592ccc6aff99b7e",
-      "crc32": "fa666397",
-      "sha1": "fd1d9c90ff40496f27afd7903e959dfb73e68c8e",
+      "mtime": "1656004889",
+      "size": "143360",
+      "md5": "5bc5fc29e3a95c6bb5de8c49337bf357",
+      "crc32": "12d23102",
+      "sha1": "693031426adf08186af284b03aac055ff3f3adc5",
       "format": "Metadata"
     },
     {
@@ -684,9 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1655761095,
-  "item_size": 5195463,
+  "files_count": 109,
+  "item_last_updated": 1656004943,
+  "item_size": 9032760,
   "metadata": {
     "identifier": "votebeatus-2022",
     "collection": [
@@ -704,1249 +1166,7 @@
     "addeddate": "2022-06-18 17:11:22"
   },
   "server": "ia802509.us.archive.org",
-  "uniq": 1926406634,
-  "votebeatus-2022": [
-    {
-      "text": "\n    \n        \n    \n    ",
-      "url": "/"
-    },
-    {
-      "text": "Arizona",
-      "url": "https://arizona.votebeat.org/"
-    },
-    {
-      "text": "Michigan",
-      "url": "https://michigan.votebeat.org/"
-    },
-    {
-      "text": "Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org/"
-    },
-    {
-      "text": "Texas",
-      "url": "https://texas.votebeat.org/"
-    },
-    {
-      "text": "National",
-      "url": "https://votebeat.org/"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://votebeat.org/voting-access"
-    },
-    {
-      "text": "Election Security",
-      "url": "https://votebeat.org/election-security"
-    },
-    {
-      "text": "Election Funding",
-      "url": "https://votebeat.org/election-funding"
-    },
-    {
-      "text": "Voter Registration",
-      "url": "https://votebeat.org/voter-registration"
-    },
-    {
-      "text": "Misinformation",
-      "url": "https://votebeat.org/election-misinformation"
-    },
-    {
-      "text": "Mail Voting",
-      "url": "https://votebeat.org/mail-voting"
-    },
-    {
-      "text": "Voting Legislation",
-      "url": "https://votebeat.org/voting-bills"
-    },
-    {
-      "text": "Election Laws",
-      "url": "https://votebeat.org/election-laws"
-    },
-    {
-      "text": "About Us",
-      "url": "https://www.votebeat.org/pages/about-votebeat"
-    },
-    {
-      "text": "Arizona",
-      "url": "https://arizona.votebeat.org/"
-    },
-    {
-      "text": "Michigan",
-      "url": "https://michigan.votebeat.org/"
-    },
-    {
-      "text": "Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org/"
-    },
-    {
-      "text": "Texas",
-      "url": "https://texas.votebeat.org/"
-    },
-    {
-      "text": "National",
-      "url": "https://votebeat.org/"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://votebeat.org/voting-access"
-    },
-    {
-      "text": "Election Security",
-      "url": "https://votebeat.org/election-security"
-    },
-    {
-      "text": "Election Funding",
-      "url": "https://votebeat.org/election-funding"
-    },
-    {
-      "text": "Voter Registration",
-      "url": "https://votebeat.org/voter-registration"
-    },
-    {
-      "text": "Misinformation",
-      "url": "https://votebeat.org/election-misinformation"
-    },
-    {
-      "text": "Mail Voting",
-      "url": "https://votebeat.org/mail-voting"
-    },
-    {
-      "text": "Voting Legislation",
-      "url": "https://votebeat.org/voting-bills"
-    },
-    {
-      "text": "Election Laws",
-      "url": "https://votebeat.org/election-laws"
-    },
-    {
-      "text": "About Us",
-      "url": "https://www.votebeat.org/pages/about-votebeat"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.votebeat.org/newsletters"
-    },
-    {
-      "text": "Donate",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=chalkbeat&campaign=7015A000001PuQv"
-    },
-    {
-      "text": "Become a Votebeat sponsor",
-      "url": "https://www.votebeat.org/pages/chalkbeat-media-kit"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/6/18/23172969/jan-6-hearings-false-allegations-elections"
-    },
-    {
-      "text": "What the Jan. 6 hearings tell us about the moment we\u2019re in",
-      "url": "https://www.votebeat.org/2022/6/18/23172969/jan-6-hearings-false-allegations-elections"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://arizona.votebeat.org/2022/6/9/23160377/arizona-mail-early-voting-republicans-support-ban"
-    },
-    {
-      "text": "FROM  Votebeat Arizona",
-      "url": "https://arizona.votebeat.org"
-    },
-    {
-      "text": "Mail Voting",
-      "url": "https://www.votebeat.org/mail-voting"
-    },
-    {
-      "text": "Republicans helped Arizona champion voting by mail. Now they want it gone.",
-      "url": "https://arizona.votebeat.org/2022/6/9/23160377/arizona-mail-early-voting-republicans-support-ban"
-    },
-    {
-      "text": "Jen Fifield\n",
-      "url": "https://www.votebeat.org/authors/jen-fifield"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/6/13/23163094/elections-grants-donations-zuckerberg-bans"
-    },
-    {
-      "text": "Election Funding",
-      "url": "https://www.votebeat.org/election-funding"
-    },
-    {
-      "text": "Election Funding",
-      "url": "https://www.votebeat.org/election-funding"
-    },
-    {
-      "text": "Bans on private election donations could produce unintended downsides",
-      "url": "https://www.votebeat.org/2022/6/13/23163094/elections-grants-donations-zuckerberg-bans"
-    },
-    {
-      "text": "Carrie Levine\n",
-      "url": "https://www.votebeat.org/authors/carrie-levine"
-    },
-    {
-      "text": "Privacy Notice",
-      "url": "https://www.votebeat.org/pages/privacy-policy"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://michigan.votebeat.org/2022/6/20/23172941/michigan-election-reporter-voting-rights-journalism"
-    },
-    {
-      "text": "FROM  Votebeat Michigan",
-      "url": "https://michigan.votebeat.org"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Voting coverage brings me full circle from my mother\u2019s voting rights activism",
-      "url": "https://michigan.votebeat.org/2022/6/20/23172941/michigan-election-reporter-voting-rights-journalism"
-    },
-    {
-      "text": "Oralandar Brand-Williams\n",
-      "url": "https://www.votebeat.org/authors/oralandar-brand-williams"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://texas.votebeat.org/2022/6/6/23153357/ken-paxton-texas-voting-rights-voter-fraud-prosecution"
-    },
-    {
-      "text": "FROM  Votebeat Texas",
-      "url": "https://texas.votebeat.org"
-    },
-    {
-      "text": "Everything is bigger in Texas, and Attorney General Ken Paxton looms large on voting rights",
-      "url": "https://texas.votebeat.org/2022/6/6/23153357/ken-paxton-texas-voting-rights-voter-fraud-prosecution"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://arizona.votebeat.org/2022/6/3/23153797/ballot-drop-boxes-yavapai-county-2000-mules"
-    },
-    {
-      "text": "FROM  Votebeat Arizona",
-      "url": "https://arizona.votebeat.org"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://www.votebeat.org/voting-access"
-    },
-    {
-      "text": "This Republican bastion of Arizona loves ballot drop boxes \u2014 the far right\u2019s latest target",
-      "url": "https://arizona.votebeat.org/2022/6/3/23153797/ballot-drop-boxes-yavapai-county-2000-mules"
-    },
-    {
-      "text": "Jen Fifield\n",
-      "url": "https://www.votebeat.org/authors/jen-fifield"
-    },
-    {
-      "text": "Become a Votebeat sponsor",
-      "url": "https://www.votebeat.org/pages/chalkbeat-media-kit"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://arizona.votebeat.org/2022/6/1/23150220/maricopa-county-phoenix-vote-centers-in-person-voting"
-    },
-    {
-      "text": "FROM  Votebeat Arizona",
-      "url": "https://arizona.votebeat.org"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://www.votebeat.org/voting-access"
-    },
-    {
-      "text": "Maricopa County to double voting locations, citing COVID and misinformation",
-      "url": "https://arizona.votebeat.org/2022/6/1/23150220/maricopa-county-phoenix-vote-centers-in-person-voting"
-    },
-    {
-      "text": "Jen Fifield\n",
-      "url": "https://www.votebeat.org/authors/jen-fifield"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/5/28/23144684/voting-laws-turnout-georgia-texas-obstacles"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://www.votebeat.org/voting-access"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://www.votebeat.org/voting-access"
-    },
-    {
-      "text": "Georgia\u2019s and Texas\u2019s successful elections don\u2019t mean voting is easy",
-      "url": "https://www.votebeat.org/2022/5/28/23144684/voting-laws-turnout-georgia-texas-obstacles"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/5/24/23139107/votebeat-nonpartisan-election-administration-journalism"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Misinformation is a threat to elections. Votebeat is here to report the truth.",
-      "url": "https://www.votebeat.org/2022/5/24/23139107/votebeat-nonpartisan-election-administration-journalism"
-    },
-    {
-      "text": "Chad Lorenz\n",
-      "url": "https://www.votebeat.org/authors/chad-lorenz"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2020/5/23/23137032/jessica-huseman-elections-journalist-voting-editorial-director"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "I landed in elections by accident. Now, my pursuit of this story is pure passion.",
-      "url": "https://www.votebeat.org/2020/5/23/23137032/jessica-huseman-elections-journalist-voting-editorial-director"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2020/5/23/23137040/lauren-aguirre-engagement-editor-audience-strategy"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "As Votebeat\u2019s engagement editor, I want to help strengthen democracy",
-      "url": "https://www.votebeat.org/2020/5/23/23137040/lauren-aguirre-engagement-editor-audience-strategy"
-    },
-    {
-      "text": "Lauren Aguirre\n",
-      "url": "https://www.votebeat.org/authors/lauren-aguirre"
-    },
-    {
-      "text": "Become a Votebeat sponsor",
-      "url": "https://www.votebeat.org/pages/chalkbeat-media-kit"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2020/5/23/23138337/pennsylvania-election-reporter-security-voting-rights-misinformation"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "I have a passion for making sure Pennsylvanians, and communities of color, know their votes count. Here\u2019s why.",
-      "url": "https://pennsylvania.votebeat.org/2020/5/23/23138337/pennsylvania-election-reporter-security-voting-rights-misinformation"
-    },
-    {
-      "text": "Denise Clay-Murray\n",
-      "url": "https://www.votebeat.org/authors/denise-clay-murray"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2020/5/23/23132794/carrie-levine-elections-reporting-campaign-finance"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Reporting on campaign finance and lobbying led me to elections. Here\u2019s why.",
-      "url": "https://www.votebeat.org/2020/5/23/23132794/carrie-levine-elections-reporting-campaign-finance"
-    },
-    {
-      "text": "Carrie Levine\n",
-      "url": "https://www.votebeat.org/authors/carrie-levine"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://arizona.votebeat.org/2020/5/23/23137027/arizona-elections-reporter-cyber-ninjas-audit"
-    },
-    {
-      "text": "FROM  Votebeat Arizona",
-      "url": "https://arizona.votebeat.org"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Arizona voters are worried about our elections. That\u2019s why I\u2019m here.",
-      "url": "https://arizona.votebeat.org/2020/5/23/23137027/arizona-elections-reporter-cyber-ninjas-audit"
-    },
-    {
-      "text": "Jen Fifield\n",
-      "url": "https://www.votebeat.org/authors/jen-fifield"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/23132732/questions-about-voting-elections-reader-survey"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "What do you want to know about voting where you live?",
-      "url": "https://www.votebeat.org/23132732/questions-about-voting-elections-reader-survey"
-    },
-    {
-      "text": "Lauren Aguirre\n",
-      "url": "https://www.votebeat.org/authors/lauren-aguirre"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/5/17/23100822/arizona-election-recounts-automatic-bill-proposal-legislature"
-    },
-    {
-      "text": "FROM  Votebeat Arizona",
-      "url": "https://arizona.votebeat.org"
-    },
-    {
-      "text": "Voting Legislation",
-      "url": "https://www.votebeat.org/voting-bills"
-    },
-    {
-      "text": "Arizona would likely see recounts after every election under new law",
-      "url": "https://www.votebeat.org/2022/5/17/23100822/arizona-election-recounts-automatic-bill-proposal-legislature"
-    },
-    {
-      "text": "Jen Fifield\n",
-      "url": "https://www.votebeat.org/authors/jen-fifield"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/5/23/23132753/pennsylvania-primary-election-delayed-results-lancaster-ballots"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://www.votebeat.org/voting-access"
-    },
-    {
-      "text": "A smooth primary, but Pennsylvania\u2019s rules meant waiting for results",
-      "url": "https://pennsylvania.votebeat.org/2022/5/23/23132753/pennsylvania-primary-election-delayed-results-lancaster-ballots"
-    },
-    {
-      "text": "Denise Clay-Murray\n",
-      "url": "https://www.votebeat.org/authors/denise-clay-murray"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/5/16/23071375/elections-trustworthy-voter-mistrust-fraud-allegations"
-    },
-    {
-      "text": "Election Security",
-      "url": "https://www.votebeat.org/election-security"
-    },
-    {
-      "text": "Election Security",
-      "url": "https://www.votebeat.org/election-security"
-    },
-    {
-      "text": "They say their elections are fair \u2014 but won\u2019t stand up for everyone else",
-      "url": "https://www.votebeat.org/2022/5/16/23071375/elections-trustworthy-voter-mistrust-fraud-allegations"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/5/12/23069219/pennsylvania-mail-ballot-counting-delayed-election-results"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Election Laws",
-      "url": "https://www.votebeat.org/election-laws"
-    },
-    {
-      "text": "Pennsylvania\u2019s mail ballot rules could slow down election results \u2014 again",
-      "url": "https://pennsylvania.votebeat.org/2022/5/12/23069219/pennsylvania-mail-ballot-counting-delayed-election-results"
-    },
-    {
-      "text": "Denise Clay-Murray\n",
-      "url": "https://www.votebeat.org/authors/denise-clay-murray"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/5/9/23058809/ohio-primaries-split-legislative-redistricting-maps-limbo"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Ohio\u2019s redistricting mess threatens a smooth election in November",
-      "url": "https://www.votebeat.org/2022/5/9/23058809/ohio-primaries-split-legislative-redistricting-maps-limbo"
-    },
-    {
-      "text": "Carrie Levine\n",
-      "url": "https://www.votebeat.org/authors/carrie-levine"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/5/2/23048935/trusted-source-election-information-voter-education-media"
-    },
-    {
-      "text": "Election Misinformation",
-      "url": "https://www.votebeat.org/election-misinformation"
-    },
-    {
-      "text": "Election Misinformation",
-      "url": "https://www.votebeat.org/election-misinformation"
-    },
-    {
-      "text": "Election administrators have an ally in the fight against misinformation",
-      "url": "https://www.votebeat.org/2022/5/2/23048935/trusted-source-election-information-voter-education-media"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "Become a Votebeat sponsor",
-      "url": "https://www.votebeat.org/pages/chalkbeat-media-kit"
-    },
-    {
-      "text": "Donate",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=chalkbeat&campaign=7015A000001PuQv"
-    },
-    {
-      "text": "Become a Votebeat sponsor",
-      "url": "https://www.votebeat.org/pages/chalkbeat-media-kit"
-    },
-    {
-      "text": "Become a Votebeat sponsor",
-      "url": "https://www.votebeat.org/pages/chalkbeat-media-kit"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/23045551/eric-electronic-registration-information-center-voter-roll-matching-program"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "The truth about ERIC, the voter roll program targeted by extremists",
-      "url": "https://www.votebeat.org/23045551/eric-electronic-registration-information-center-voter-roll-matching-program"
-    },
-    {
-      "text": "Jen Fifield\n",
-      "url": "https://www.votebeat.org/authors/jen-fifield"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/4/25/23040572/zuckerberg-ctcl-grants-arnold-schwarzenegger-election-funding"
-    },
-    {
-      "text": "Election Misinformation",
-      "url": "https://www.votebeat.org/election-misinformation"
-    },
-    {
-      "text": "Election Misinformation",
-      "url": "https://www.votebeat.org/election-misinformation"
-    },
-    {
-      "text": "The surprising exception to conspiracy theories about private election grants",
-      "url": "https://www.votebeat.org/2022/4/25/23040572/zuckerberg-ctcl-grants-arnold-schwarzenegger-election-funding"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/4/18/23031029/pennsylvania-redistricting-reform-changes-whats-next"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Pa. Republicans eye greater control over redistricting in response to new political maps",
-      "url": "https://pennsylvania.votebeat.org/2022/4/18/23031029/pennsylvania-redistricting-reform-changes-whats-next"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/4/11/23021197/private-election-grant-bans-ctcl-2020-outside-funding"
-    },
-    {
-      "text": "Election Funding",
-      "url": "https://www.votebeat.org/election-funding"
-    },
-    {
-      "text": "Election Funding",
-      "url": "https://www.votebeat.org/election-funding"
-    },
-    {
-      "text": "Legislators ban private grants for elections yet leave elections underfunded",
-      "url": "https://www.votebeat.org/2022/4/11/23021197/private-election-grant-bans-ctcl-2020-outside-funding"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://arizona.votebeat.org/2022/4/3/23003243/arizona-proof-of-citizenship-voting-law-supreme-court-kansas"
-    },
-    {
-      "text": "FROM  Votebeat Arizona",
-      "url": "https://arizona.votebeat.org"
-    },
-    {
-      "text": "Election Laws",
-      "url": "https://www.votebeat.org/election-laws"
-    },
-    {
-      "text": "What\u2019s likely to happen to Arizona\u2019s proof of citizenship law",
-      "url": "https://arizona.votebeat.org/2022/4/3/23003243/arizona-proof-of-citizenship-voting-law-supreme-court-kansas"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/3/28/22999811/ketanji-brown-jackson-supreme-court-voting-rights-election-law"
-    },
-    {
-      "text": "Election Laws",
-      "url": "https://www.votebeat.org/election-laws"
-    },
-    {
-      "text": "Election Laws",
-      "url": "https://www.votebeat.org/election-laws"
-    },
-    {
-      "text": "Ketanji Brown Jackson and the future of election law at SCOTUS",
-      "url": "https://www.votebeat.org/2022/3/28/22999811/ketanji-brown-jackson-supreme-court-voting-rights-election-law"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/3/24/22994069/pennsylvania-redistricting-what-makes-fair-political-map"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "What makes a political map fair? Lessons from Pa.\u2019s redistricting cycle.",
-      "url": "https://pennsylvania.votebeat.org/2022/3/24/22994069/pennsylvania-redistricting-what-makes-fair-political-map"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/3/21/22989365/eric-electronic-registration-information-center-republicans-democrats"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "The goals of the right and the left meet within ERIC",
-      "url": "https://www.votebeat.org/2022/3/21/22989365/eric-electronic-registration-information-center-republicans-democrats"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/3/18/22984836/pennsylvania-legislative-maps-constitutional-supreme-court-challenges"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Pa. Supreme Court rejects legal challenges to state\u2019s new legislative maps",
-      "url": "https://pennsylvania.votebeat.org/2022/3/18/22984836/pennsylvania-legislative-maps-constitutional-supreme-court-challenges"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/3/14/22977525/pennsylvania-redistricting-supreme-court-opinions-congressional-map"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "The 4 reasons the Pa. Supreme Court picked the winning congressional map",
-      "url": "https://pennsylvania.votebeat.org/2022/3/14/22977525/pennsylvania-redistricting-supreme-court-opinions-congressional-map"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/3/14/22971808/votebeat-reader-survey-audience-engagement-journalism"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "Inside Votebeat",
-      "url": "https://www.votebeat.org/inside-votebeat"
-    },
-    {
-      "text": "What stories should Votebeat cover?",
-      "url": "https://www.votebeat.org/2022/3/14/22971808/votebeat-reader-survey-audience-engagement-journalism"
-    },
-    {
-      "text": "Chad Lorenz\n",
-      "url": "https://www.votebeat.org/authors/chad-lorenz"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/3/14/22976936/eric-voter-registration-matching-states-data"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "Fewer states in ERIC makes ERIC\u2019s data weaker",
-      "url": "https://www.votebeat.org/2022/3/14/22976936/eric-voter-registration-matching-states-data"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://texas.votebeat.org/2022/3/8/22966047/what-went-wrong-with-harris-countys-primary-in-texas"
-    },
-    {
-      "text": "FROM  Votebeat Texas",
-      "url": "https://texas.votebeat.org"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://www.votebeat.org/voting-access"
-    },
-    {
-      "text": "What went wrong with Harris County\u2019s primary in Texas",
-      "url": "https://texas.votebeat.org/2022/3/8/22966047/what-went-wrong-with-harris-countys-primary-in-texas"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/3/2/22959221/alex-halderman-dominion-report-georgia-bmd-lawsuit"
-    },
-    {
-      "text": "Election Security",
-      "url": "https://www.votebeat.org/election-security"
-    },
-    {
-      "text": "Election Security",
-      "url": "https://www.votebeat.org/election-security"
-    },
-    {
-      "text": "Why the debate over a computer scientist\u2019s Dominion report is so heated",
-      "url": "https://www.votebeat.org/2022/3/2/22959221/alex-halderman-dominion-report-georgia-bmd-lawsuit"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/2/28/22954834/eric-voter-registration-program-member-states"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "Why other states don\u2019t share Louisiana\u2019s suspicion of ERIC",
-      "url": "https://www.votebeat.org/2022/2/28/22954834/eric-voter-registration-program-member-states"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/2/25/22950155/pennsylvania-redistricting-congressional-map-supreme-court-pick"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Congressional map picked by Pennsylvania Supreme Court unlikely to dramatically alter partisan balance",
-      "url": "https://pennsylvania.votebeat.org/2022/2/25/22950155/pennsylvania-redistricting-congressional-map-supreme-court-pick"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/2/21/22944474/pennsylvania-redistricting-congressional-map-supreme-court-hearing"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Pa. Supreme Court weighs what makes a fair congressional map as it prepares to pick new districts",
-      "url": "https://pennsylvania.votebeat.org/2022/2/21/22944474/pennsylvania-redistricting-congressional-map-supreme-court-hearing"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/2/21/22944460/eric-voter-rolls-louisiana-withdrawal-kyle-ardoin"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "Voter Registration & Rolls",
-      "url": "https://www.votebeat.org/voter-registration"
-    },
-    {
-      "text": "No clear explanation for Louisiana\u2019s decision to pull out of voter-roll program",
-      "url": "https://www.votebeat.org/2022/2/21/22944460/eric-voter-rolls-louisiana-withdrawal-kyle-ardoin"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://texas.votebeat.org/2022/2/21/22944418/dallas-county-vietnamese-bilingual-ballots-vra-language"
-    },
-    {
-      "text": "FROM  Votebeat Texas",
-      "url": "https://texas.votebeat.org"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://www.votebeat.org/voting-access"
-    },
-    {
-      "text": "To comply with federal law, Dallas County adds Vietnamese translations to elections materials",
-      "url": "https://texas.votebeat.org/2022/2/21/22944418/dallas-county-vietnamese-bilingual-ballots-vra-language"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "Charles Scudder\n",
-      "url": "https://www.votebeat.org/authors/charles-scudder"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/2/16/22937235/supreme-court-alabama-congressional-map-purcell-rule"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Is it really too late for the courts to change the congressional maps now?",
-      "url": "https://www.votebeat.org/2022/2/16/22937235/supreme-court-alabama-congressional-map-purcell-rule"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/2/8/22923776/pennsylvania-redistricting-final-state-house-map-analysis-score"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "See how the final Pennsylvania state House map scores in every key area",
-      "url": "https://pennsylvania.votebeat.org/2022/2/8/22923776/pennsylvania-redistricting-final-state-house-map-analysis-score"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/2/7/22922667/pennsylvania-redistricting-congressional-map-recommendation"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "A Pa. judge just sided with the GOP on a congressional map proposal. Here\u2019s what\u2019s next.",
-      "url": "https://pennsylvania.votebeat.org/2022/2/7/22922667/pennsylvania-redistricting-congressional-map-recommendation"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/2/7/22921910/electoral-count-act-reform-bipartisan-proposals-angus-king"
-    },
-    {
-      "text": "Voting Legislation",
-      "url": "https://www.votebeat.org/voting-bills"
-    },
-    {
-      "text": "Voting Legislation",
-      "url": "https://www.votebeat.org/voting-bills"
-    },
-    {
-      "text": "A bipartisan start to Electoral Count Act reform",
-      "url": "https://www.votebeat.org/2022/2/7/22921910/electoral-count-act-reform-bipartisan-proposals-angus-king"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/2/4/22923790/pennsylvania-redistricting-legislative-maps-final-vote"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Final Pa. legislative maps approved by redistricting panel, but legal challenges likely",
-      "url": "https://pennsylvania.votebeat.org/2022/2/4/22923790/pennsylvania-redistricting-legislative-maps-final-vote"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/1/27/22903634/pennsylvania-redistricting-gov-wolf-vetoes-congressional-map"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Pennsylvania governor vetoes Republicans\u2019 proposed congressional map",
-      "url": "https://pennsylvania.votebeat.org/2022/1/27/22903634/pennsylvania-redistricting-gov-wolf-vetoes-congressional-map"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/1/25/22901876/pennsylvania-primary-2022-redistricting-delays"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "What delayed redistricting maps could mean for Pennsylvania\u2019s May primary",
-      "url": "https://pennsylvania.votebeat.org/2022/1/25/22901876/pennsylvania-primary-2022-redistricting-delays"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://www.votebeat.org/2022/1/25/22901794/new-york-ballot-measures-vote-expansions-tompkins-county"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://www.votebeat.org/voting-access"
-    },
-    {
-      "text": "Voting Access",
-      "url": "https://www.votebeat.org/voting-access"
-    },
-    {
-      "text": "Why one New York county saw the highest support for 2021\u2019s three failed ballot measures",
-      "url": "https://www.votebeat.org/2022/1/25/22901794/new-york-ballot-measures-vote-expansions-tompkins-county"
-    },
-    {
-      "text": "Francois Barrilleaux\n",
-      "url": "https://www.votebeat.org/authors/francois-barrilleaux"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://texas.votebeat.org/2022/1/24/22899155/texas-absentee-ballot-application-rejections"
-    },
-    {
-      "text": "FROM  Votebeat Texas",
-      "url": "https://texas.votebeat.org"
-    },
-    {
-      "text": "Election Laws",
-      "url": "https://www.votebeat.org/election-laws"
-    },
-    {
-      "text": "Rejections of Texas absentee applications demonstrate a major flaw in voting law",
-      "url": "https://texas.votebeat.org/2022/1/24/22899155/texas-absentee-ballot-application-rejections"
-    },
-    {
-      "text": "Jessica Huseman\n",
-      "url": "https://www.votebeat.org/authors/jessica-huseman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/1/21/22895320/pennsylvania-redistricting-house-senate-maps-final-stretch"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Pennsylvania redistricting panel enters final stretch to complete House, Senate maps",
-      "url": "https://pennsylvania.votebeat.org/2022/1/21/22895320/pennsylvania-redistricting-house-senate-maps-final-stretch"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n            \n\n        \n    \n\n\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://pennsylvania.votebeat.org/2022/1/19/22895378/pennsylvania-redistricting-congressional-map-senate-vote-court-update"
-    },
-    {
-      "text": "FROM  Votebeat Pennsylvania",
-      "url": "https://pennsylvania.votebeat.org"
-    },
-    {
-      "text": "Redistricting",
-      "url": "https://www.votebeat.org/redistricting"
-    },
-    {
-      "text": "Proposed congressional map advances in Pa. legislature as Wolf, top lawmakers prepare for court battle",
-      "url": "https://pennsylvania.votebeat.org/2022/1/19/22895378/pennsylvania-redistricting-congressional-map-senate-vote-court-update"
-    },
-    {
-      "text": "Kate Huangpu\n",
-      "url": "https://www.votebeat.org/authors/kate-huangpu"
-    },
-    {
-      "text": "More Stories",
-      "url": "?p=2"
-    },
-    {
-      "text": "Become a Votebeat sponsor",
-      "url": "https://www.votebeat.org/pages/chalkbeat-media-kit"
-    },
-    {
-      "text": "Become a Votebeat sponsor",
-      "url": "https://www.votebeat.org/pages/chalkbeat-media-kit"
-    },
-    {
-      "text": "\n    \n        \n    \n    ",
-      "url": "/"
-    },
-    {
-      "text": "About Us",
-      "url": "https://www.votebeat.org/pages/about-votebeat"
-    },
-    {
-      "text": "Our Staff",
-      "url": "https://www.votebeat.org/pages/our-staff"
-    },
-    {
-      "text": "Careers at Votebeat",
-      "url": "https://www.votebeat.org/pages/careers"
-    },
-    {
-      "text": "Our Supporters",
-      "url": "https://www.votebeat.org/pages/supporters"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.votebeat.org/pages/contact-us"
-    },
-    {
-      "text": "Become a Sponsor",
-      "url": "https://www.votebeat.org/pages/votebeat-media-kit"
-    },
-    {
-      "text": "How to be a Source",
-      "url": "https://www.votebeat.org/pages/how-to-be-a-source-for-votebeat"
-    },
-    {
-      "text": "Code of Ethics",
-      "url": "https://www.votebeat.org/pages/code-of-ethics"
-    },
-    {
-      "text": "Republishing",
-      "url": "https://www.votebeat.org/pages/republishing"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://www.votebeat.org/pages/terms-of-use"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.votebeat.org/pages/privacy-policy"
-    },
-    {
-      "text": "Cookie Policy",
-      "url": "https://www.votebeat.org/pages/cookie-policy"
-    },
-    {
-      "text": "Do not sell my info",
-      "url": "https://www.votebeat.org/pages/contact-us"
-    },
-    {
-      "text": "Author Login",
-      "url": "#"
-    }
-  ],
+  "uniq": 270476152,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1655761094,
+  "created": 1656030265,
   "d1": "ia902902.us.archive.org",
   "d2": "ia802902.us.archive.org",
   "dir": "/0/items/wistatejournal-2022",
@@ -3724,31 +3724,493 @@
       "format": "JSON"
     },
     {
+      "name": "wistatejournal-2022-06-20T20:37:07.478645-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775431",
+      "size": "24799",
+      "md5": "92a5e2bdc8519cfd9ffbb3743b7dd958",
+      "crc32": "1c6f3bed",
+      "sha1": "e1bc019dfb8876d693db455e8a170ea3a467d629",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-20T20:37:07.478645-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775433",
+      "size": "72640",
+      "md5": "54428735355acf956cea751f3993f163",
+      "crc32": "3f3bbdd6",
+      "sha1": "4d2eab24fea3e922989207b04f698bc1183c5118",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-20T20:37:07.478645-05:00.jpg",
+      "source": "original",
+      "mtime": "1655775429",
+      "size": "319668",
+      "md5": "fb9c2a27b8e7c639479c0ba66ef7c1ef",
+      "crc32": "a19cdb23",
+      "sha1": "f13b1b7388fc735fbd3a5a740801dbe813e826c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-20T20:37:07.478645-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-20T20:37:07.478645-05:00.jpg",
+      "mtime": "1655775500",
+      "size": "12448",
+      "md5": "e0c9d13db5571e23aa380871625088ad",
+      "crc32": "521f9d89",
+      "sha1": "3cd8b5f412151198cc5a3c30f65b343b3e35f330"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T00:30:54.585341-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789462",
+      "size": "25125",
+      "md5": "cb65dbcfbe861d168b4bb6e4c485ffea",
+      "crc32": "a1524984",
+      "sha1": "7f0544a5c2f0a69db2e7b039ed192624c9a2085a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T00:30:54.585341-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789463",
+      "size": "72196",
+      "md5": "86bd444d4c381f47b16c8e64fc44373a",
+      "crc32": "2a3a3c0b",
+      "sha1": "862a9e0896c3a797ad4a5141d738b490b414572a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T00:30:54.585341-05:00.jpg",
+      "source": "original",
+      "mtime": "1655789456",
+      "size": "322965",
+      "md5": "54c33563e9e63f487ef09f490351caaf",
+      "crc32": "521ddf76",
+      "sha1": "24c5a76236ff6b37436f41c85badd93bb376c027",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T00:30:54.585341-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-21T00:30:54.585341-05:00.jpg",
+      "mtime": "1655789532",
+      "size": "12478",
+      "md5": "5fffeebcf38f77297621696826877ac5",
+      "crc32": "601096c8",
+      "sha1": "7cf7a0deac278903798cf05513a2ff6149bd80bc"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T07:34:37.581659-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814881",
+      "size": "26656",
+      "md5": "dd7eda848457056710bd10091bcb60ed",
+      "crc32": "fa5b6f21",
+      "sha1": "c531fc707131c6c2900e73fbbbbd9805ad0afc1a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T07:34:37.581659-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814883",
+      "size": "72349",
+      "md5": "c965c54a5a6b75ae73ba34c1a9698e2c",
+      "crc32": "a98362ef",
+      "sha1": "743c9ba7ef9517f17f0f83205d321b59cbfb42c1",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T07:34:37.581659-05:00.jpg",
+      "source": "original",
+      "mtime": "1655814879",
+      "size": "351589",
+      "md5": "00cfeeab1da51796136f01b564ac253a",
+      "crc32": "ac856ed5",
+      "sha1": "cd5ad5410a54778fd2c5b9da6f452dc74aececea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T07:34:37.581659-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-21T07:34:37.581659-05:00.jpg",
+      "mtime": "1655814958",
+      "size": "12386",
+      "md5": "0cf4f498865ac414b8437d0d36e6222b",
+      "crc32": "a0d66a4c",
+      "sha1": "fa8fdd6c37d7424ecad778dcf0008d44cb978b0a"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T08:59:47.237280-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819990",
+      "size": "26199",
+      "md5": "eb86e0a4db8cb13a8974412e61b4d3c6",
+      "crc32": "42b40c59",
+      "sha1": "26f5092d229d0ae4fc7cc140040a8e6407d09188",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T08:59:47.237280-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819992",
+      "size": "73037",
+      "md5": "b3626d31dd9fdfcf4501d1ec8825a2ce",
+      "crc32": "eba443ea",
+      "sha1": "14e7db511fbcb9bc48b8a7c1c6eed24439122921",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T08:59:47.237280-05:00.jpg",
+      "source": "original",
+      "mtime": "1655819988",
+      "size": "333101",
+      "md5": "d10f1e21617dbaf4a4f3eee0e3026014",
+      "crc32": "666d0404",
+      "sha1": "7a42ce07e731e074ccc45fc63eb321630e76865f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T08:59:47.237280-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-21T08:59:47.237280-05:00.jpg",
+      "mtime": "1655820051",
+      "size": "12530",
+      "md5": "a0cb5461a265b3f20e2163f55760f6c7",
+      "crc32": "8dcb6486",
+      "sha1": "862053a56c1249f1e4a80518ad1616051b4a5229"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T12:19:44.000101-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831992",
+      "size": "25036",
+      "md5": "06e3ae8d98aa4cbdb04b3b8ea761813b",
+      "crc32": "849ebcf3",
+      "sha1": "5a28b3d8e21de004bafa912c41b220f3ab72c7a5",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T12:19:44.000101-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831993",
+      "size": "72380",
+      "md5": "471ff7fa5c2e606275ce3340fa3ec0b0",
+      "crc32": "c14401fa",
+      "sha1": "bdd2a1e997ca5d726e688ff2a54792843f735cb0",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T12:19:44.000101-05:00.jpg",
+      "source": "original",
+      "mtime": "1655831990",
+      "size": "330052",
+      "md5": "8a6d10ace2bc38ac64c538034da924c8",
+      "crc32": "b00e4fca",
+      "sha1": "ef6ad9eaeb890f1551064fa0b15bab1f3d1a6863",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T12:19:44.000101-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-21T12:19:44.000101-05:00.jpg",
+      "mtime": "1655832091",
+      "size": "12650",
+      "md5": "97ea943f1fb9004e609961f146bc264c",
+      "crc32": "b7acedd2",
+      "sha1": "4ae78a803a73f30dad55aeacc59d23227b48b645"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T20:27:55.904899-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861281",
+      "size": "26389",
+      "md5": "046a536577cdbc1da2a15da0b0bbf90a",
+      "crc32": "d7cb95fa",
+      "sha1": "f5943b472abb4b81120f3fe2d29c0fd5ab3564db",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T20:27:55.904899-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861284",
+      "size": "73290",
+      "md5": "7138052610aa5d9dfecff0ea9927f016",
+      "crc32": "9aa82602",
+      "sha1": "aca9a334dde9cbd567dc8656c54465a51c078fc8",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T20:27:55.904899-05:00.jpg",
+      "source": "original",
+      "mtime": "1655861278",
+      "size": "340092",
+      "md5": "3234c85a3cd050147d718dbc07671b96",
+      "crc32": "31059e87",
+      "sha1": "9165eb7d631e0ad80e1275012e5e8d3175bf8c95",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-21T20:27:55.904899-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-21T20:27:55.904899-05:00.jpg",
+      "mtime": "1655861461",
+      "size": "12431",
+      "md5": "fd5a301c7b455d3c17ae1ff5a9bea1a7",
+      "crc32": "a043efc2",
+      "sha1": "a1ee5b2bbd5c60acaf7de64d37f7250eb2757a6e"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T04:21:17.065345-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889679",
+      "size": "25576",
+      "md5": "25dd5b228a2146102a001d8fe50ef482",
+      "crc32": "5ec5c5f3",
+      "sha1": "a20e9f554fc9e095a8a0594c91ca1db19682e3fa",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T04:21:17.065345-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889680",
+      "size": "71971",
+      "md5": "9dc7a3ba9225c00c473e599e225d7c5d",
+      "crc32": "0f176272",
+      "sha1": "9caef9dfac0ec830161d01ba399b4dfb5538fc13",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T04:21:17.065345-05:00.jpg",
+      "source": "original",
+      "mtime": "1655889678",
+      "size": "318107",
+      "md5": "14fc4d5b9ea7e093e5162591fd3c2b21",
+      "crc32": "4c7bb273",
+      "sha1": "ffbff03dbbc0340df1fb3f956abeb1b0a40795a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T04:21:17.065345-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-22T04:21:17.065345-05:00.jpg",
+      "mtime": "1655889771",
+      "size": "12308",
+      "md5": "8eedd34738ca9af9438578c4204eb69b",
+      "crc32": "5c0a2f49",
+      "sha1": "17ebb786029892e5e2b63e8af8c1fe93e786af12"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T12:35:28.125141-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919333",
+      "size": "25731",
+      "md5": "e13570e10439ba647a41905023c5323e",
+      "crc32": "464a5da9",
+      "sha1": "69b9907f016002f68ec6ed15ef27e0f0e6d5f44c",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T12:35:28.125141-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919334",
+      "size": "72987",
+      "md5": "b25edad776480c72a7724c60e47ad867",
+      "crc32": "ac5219a5",
+      "sha1": "6f00c9af9b98139040c798145b1c8b75412596b5",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T12:35:28.125141-05:00.jpg",
+      "source": "original",
+      "mtime": "1655919331",
+      "size": "307814",
+      "md5": "bb9a31727edeb23a243c0eb6ace14b06",
+      "crc32": "b6f3f40d",
+      "sha1": "26d5073fe9ca99d66280098715c879f1e67d88c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T12:35:28.125141-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-22T12:35:28.125141-05:00.jpg",
+      "mtime": "1655919393",
+      "size": "12404",
+      "md5": "7646a7121552a4d9dbca15e6bbd302c2",
+      "crc32": "4faaf6c4",
+      "sha1": "286fd109fba527ac2bfb54b3a30d2bc39fc34bb3"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T20:30:22.417382-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947825",
+      "size": "25033",
+      "md5": "3a01cba0ddcf82132d0ffabd4001683a",
+      "crc32": "3e18a896",
+      "sha1": "935a915d00fa38e7e47c09e18b443175930cb3c3",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T20:30:22.417382-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947827",
+      "size": "71930",
+      "md5": "4b1ca313883cdf4628014007b1cae136",
+      "crc32": "102ba01e",
+      "sha1": "d32bd87c6401674bf7d8f3e071a5615a3cd4376c",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T20:30:22.417382-05:00.jpg",
+      "source": "original",
+      "mtime": "1655947824",
+      "size": "332017",
+      "md5": "0da3fe646f06e700aacc8fdd9edc46d3",
+      "crc32": "1f55da5e",
+      "sha1": "9cbbac93197f8c2581755bb7de3b7d315615d614",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-22T20:30:22.417382-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-22T20:30:22.417382-05:00.jpg",
+      "mtime": "1655947880",
+      "size": "12485",
+      "md5": "7d280f060a85bb6f2ff582aea3c6fa60",
+      "crc32": "5fbd6881",
+      "sha1": "84495a7c761085df79664d748993209abbf6bcae"
+    },
+    {
+      "name": "wistatejournal-2022-06-23T04:22:35.332474-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976157",
+      "size": "25174",
+      "md5": "47d945361aebfca4587020eeccb2c6db",
+      "crc32": "a90a03ac",
+      "sha1": "a34c1b357d31d5834e2b17c79cfa9355772746cd",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-23T04:22:35.332474-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976159",
+      "size": "71623",
+      "md5": "d3a1c5afe262f32905eda6f60f32739f",
+      "crc32": "9d8fef18",
+      "sha1": "d466be727f621a791929a9687623b7ff2dbf05c5",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-23T04:22:35.332474-05:00.jpg",
+      "source": "original",
+      "mtime": "1655976156",
+      "size": "303558",
+      "md5": "84b07fa47a22bd312e69878be6456f24",
+      "crc32": "85fd6642",
+      "sha1": "0706453358eeaa3ee47f671f611a3004326fa84e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-23T04:22:35.332474-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-23T04:22:35.332474-05:00.jpg",
+      "mtime": "1655976209",
+      "size": "12027",
+      "md5": "d5748403a9450de1fbc6b0bed071669e",
+      "crc32": "ae953216",
+      "sha1": "0684224d98c47e00920205220fd921dc8b335ca8"
+    },
+    {
+      "name": "wistatejournal-2022-06-23T12:21:38.230799-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004903",
+      "size": "25847",
+      "md5": "54d16bf74648804a9232216b38816469",
+      "crc32": "46744caf",
+      "sha1": "f2aba3b85416b05f8f4db49592e3f51fe21ccc06",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-23T12:21:38.230799-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004905",
+      "size": "72087",
+      "md5": "18dff4dbd1f13cf84bc4cc1fe7f78749",
+      "crc32": "64aed9dc",
+      "sha1": "42a28d91d50dd7f8ea231f5a0b3a6aba3d870517",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-06-23T12:21:38.230799-05:00.jpg",
+      "source": "original",
+      "mtime": "1656004901",
+      "size": "337786",
+      "md5": "ff5de2c71076e90ca4396c2a24edbe08",
+      "crc32": "6ecaa6e6",
+      "sha1": "96bfef04463831c891505233dea1356ce52dabac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-06-23T12:21:38.230799-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-06-23T12:21:38.230799-05:00.jpg",
+      "mtime": "1656004954",
+      "size": "12245",
+      "md5": "49bde85aefa132ed3bf0eba20d160572",
+      "crc32": "6ae2920f",
+      "sha1": "d782e2e4541dcf817d1b4d9e3eb3651d6006abb2"
+    },
+    {
       "name": "wistatejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4c14bc1c189e72ca55fd280bdb159bf2fc4a60b1",
-      "mtime": "1655761073",
-      "size": "78549",
-      "md5": "84590e1cb9f4c96ad43b3ec71e1beb4b",
-      "crc32": "061c1f6b",
-      "sha1": "106ae1c8510712ff6c478bee395b24e34f9dee7f",
+      "btih": "457a008c6538b8806d53c754b74ceb932f77c911",
+      "mtime": "1656004958",
+      "size": "88123",
+      "md5": "caf7b8abde7a35eb167a602149b1e4b7",
+      "crc32": "bfd97bff",
+      "sha1": "3e620ea02d7397c2efcff543ba3af4405e8a8eca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wistatejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fac57218f222ab6093ef68fa87b8963c",
+      "md5": "8b3280dfd6448ae1d8b3f03a0148c84e",
       "summation": "md5"
     },
     {
       "name": "wistatejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655761035",
-      "size": "425984",
-      "md5": "e32bb9f0e5f2520e78c3ae1cf5248977",
-      "crc32": "f8828b16",
-      "sha1": "dd592460dec4722a88abaedc07685ed61dbd28e9",
+      "mtime": "1656004909",
+      "size": "479232",
+      "md5": "74ee41e8304a19063be62148c96e6e46",
+      "crc32": "b0fe1b98",
+      "sha1": "6d242b1e7197391f5c9b8ce7f6fd41fb2ab5e1e1",
       "format": "Metadata"
     },
     {
@@ -3762,9 +4224,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 358,
-  "item_last_updated": 1655761073,
-  "item_size": 40273634,
+  "files_count": 402,
+  "item_last_updated": 1656004958,
+  "item_size": 45147652,
   "metadata": {
     "identifier": "wistatejournal-2022",
     "collection": [
@@ -3782,7 +4244,1245 @@
     "addeddate": "2022-03-23 23:08:08"
   },
   "server": "ia802902.us.archive.org",
-  "uniq": 1559568541,
+  "uniq": 543236685,
+  "wistatejournal-2022": [
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "#main-page-container"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "https://madison.com/wsj/#main-page-container"
+    },
+    {
+      "text": "",
+      "url": "https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssFAIVHVl7xnsU4mIvWyZxLYh3xBQ6-IeBoqPlbMnTSz1w4jeR_AFT8o2YCz7n-tquScUcUnrYpLebFbIgQdrSUdsAhASjd5wPGAhHhholvsszhgyh3WbUxRG1a-rHIviISw-AmDOeeT36lp8UvWHBL8iWaTUB3UYVW1KM7YAsSfEap0jbuUCuHsaTJSAsnOUjlqCjfwLtn3eNJgvcfEiku47S55CqybOqdXowyorm_TrS4YnoRJAOfazyDOL85aa8ZT3dpm8VLTjJV0yzEGeDZho_SuNZH3CG-Xo7l_DAgIUGRIs_y5mMST4lmucq921M%2526sai%253DAMfl-YSOdJqbRUuT2ycPEOnciRIpwez6kDWNzlXRcgabvDbFD2_6m9FNLH2-1dNMYiYt0rh-2LcHIaHQG3Q1uPDnfPDLMfbpqNloXb6ZmoMkpeZk_dm0dH1iq51GRmkAsuE5%2526sig%253DCg0ArKJSzM1VBeneMSdeEAE%2526fbs_aeid%253D%255Bgw_fbsaeid%255D%2526urlfix%253D1%2526adurl%253Dhttp://www.midwestspineandnerve.com/MSNC_About.html?utm_source=Madison.com&utm_medium=Display"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "\n                    \n                        \n                    \n                    \n                        83\u00b0\n                    \n                    \n                ",
+      "url": "/weather/?weather_zip=53711"
+    },
+    {
+      "text": "\n                                        \n        \n        \n     Log In\n                                    ",
+      "url": "https://madison.com/users/login/?referer_url=https%3A%2F%2Fmadison.com%2Fwsj%2F"
+    },
+    {
+      "text": "Subscribe $5 for 5 months",
+      "url": "https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=madison.com&SubscriberLevel=DOP&Return=https%3A%2F%2Fmadison.com%2Fwsj%2F#tracking-source=header&ir=true"
+    },
+    {
+      "text": "\n                                        \n                                        Guest\n                                    ",
+      "url": "https://madison.com/users/admin/"
+    },
+    {
+      "text": "Read Today's E-edition",
+      "url": "/eedition/"
+    },
+    {
+      "text": "\n                                    Madison.com\n                                ",
+      "url": "https://madison.com/"
+    },
+    {
+      "text": "\n                                    Cap Times\n                                ",
+      "url": "https://captimes.com"
+    },
+    {
+      "text": "\n                                    Wisconsin State Journal\n                                ",
+      "url": "https://madison.com/wsj/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    WiscNews.com\n                                ",
+      "url": "https://wiscnews.com"
+    },
+    {
+      "text": "\n                    \n                        \n                    News\n                ",
+      "url": "https://madison.com/news/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Local\n                                ",
+      "url": "https://madison.com/news/local/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    COVID-19\n                                ",
+      "url": "https://madison.com/resources#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Crime\n                                ",
+      "url": "https://madison.com/news/local/crime-and-courts/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Politics\n                                ",
+      "url": "https://madison.com/news/local/govt-and-politics/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Education\n                                ",
+      "url": "https://madison.com/news/local/education/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    State & Regional\n                                ",
+      "url": "https://madison.com/news/state-and-regional/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    National\n                                ",
+      "url": "https://madison.com/news/national/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    World\n                                ",
+      "url": "https://madison.com/news/world/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Multimedia\n                                ",
+      "url": "https://madison.com/multimedia#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    News Tip\n                                ",
+      "url": "https://madison.com/news-tip/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Obituaries\n                ",
+      "url": "https://madison.com/news/local/obituaries/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Share a story\n                                ",
+      "url": "https://madison.com/place_an_ad/obituaries/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Recent Obituaries\n                                ",
+      "url": "https://madison.com/news/local/obituaries/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Find an Obituary\n                                ",
+      "url": "https://madison.com/news/local/obituaries/search/?c=news/local/obituaries*&t=article,collection#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Archives\n                                ",
+      "url": "https://madison.com/archives/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Opinion\n                ",
+      "url": "https://madison.com/opinion/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Letters\n                                ",
+      "url": "https://madison.com/opinion/letters/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Editorial\n                                ",
+      "url": "https://madison.com/opinion/editorial/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Columnists\n                                ",
+      "url": "https://madison.com/opinion/columnists/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Cartoon\n                                ",
+      "url": "https://madison.com/opinion/cartoon/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Sports\n                ",
+      "url": "https://madison.com/sports/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    High School\n                                ",
+      "url": "https://madison.com/sports/high-school/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Badgers\n                                ",
+      "url": "https://madison.com/sports/college/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Brewers\n                                ",
+      "url": "https://madison.com/sports/baseball/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Bucks\n                                ",
+      "url": "https://madison.com/sports/basketball/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Packers\n                                ",
+      "url": "https://madison.com/sports/football/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Professional\n                                ",
+      "url": "https://madison.com/sports/professional/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Entertainment\n                ",
+      "url": "https://madison.com/entertainment/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Arts & Theater\n                                ",
+      "url": "https://madison.com/entertainment/arts-and-theatre/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Events Calendar\n                                ",
+      "url": "https://madison.com/calendar/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Food & Dining\n                                ",
+      "url": "https://madison.com/entertainment/dining/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Music\n                                ",
+      "url": "https://madison.com/entertainment/music/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Movies & Film\n                                ",
+      "url": "https://madison.com/entertainment/movies/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Television\n                                ",
+      "url": "https://madison.com/entertainment/television/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    TV Guide\n                                ",
+      "url": "https://madison.com/entertainment/television/listings/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Games & Puzzles\n                                ",
+      "url": "https://madison.com/games/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Contests\n                                ",
+      "url": "https://madison.com/contests/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Lifestyles\n                ",
+      "url": "https://madison.com/lifestyles/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Buyer's Guides\n                                ",
+      "url": "https://reviews.madison.com/"
+    },
+    {
+      "text": "\n                                    Food & Cooking\n                                ",
+      "url": "https://madison.com/lifestyles/food-and-cooking/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Parenting\n                                ",
+      "url": "https://madison.com/lifestyles/parenting/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Health\n                                ",
+      "url": "https://madison.com/lifestyles/health-med-fit/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Home & Garden\n                                ",
+      "url": "https://madison.com/lifestyles/home-and-garden/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Fashion\n                                ",
+      "url": "https://madison.com/lifestyles/fashion_and_style/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    People\n                                ",
+      "url": "https://madison.com/people/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Pets\n                                ",
+      "url": "https://madison.com/lifestyles/pets/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Faith\n                                ",
+      "url": "https://madison.com/lifestyles/faith-and-values/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Celebrations\n                                ",
+      "url": "https://madison.com/announcements/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Business\n                ",
+      "url": "https://madison.com/business/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Achievements\n                                ",
+      "url": "https://madison.com/business/announcements/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Retail\n                                ",
+      "url": "https://madison.com/business/retail/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Technology\n                                ",
+      "url": "https://madison.com/business/technology/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Personal Finance\n                                ",
+      "url": "https://madison.com/business/investment/personal-finance/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    News tip\n                                ",
+      "url": "https://madison.com/news-tip/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Share video\n                                ",
+      "url": "https://www.stringr.com/xl53PjfObBL"
+    },
+    {
+      "text": "\n                                    Send a story\n                                ",
+      "url": "https://madison.com/users/admin/contribute/article/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Share a photo\n                                ",
+      "url": "https://madison.com/users/admin/contribute/image/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Feast and Field\n                ",
+      "url": "https://madison.com/lifestyles/food-and-cooking/feast-and-field/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Partners\n                                ",
+      "url": "https://madison.com/lifestyles/food-and-cooking/feast-and-field/partners/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Brand Ave. Studios\n                ",
+      "url": "https://madison.com/brandavestudios/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Print Edition\n                ",
+      "url": "http://wisconsinstatejournal.wi.newsmemory.com/"
+    },
+    {
+      "text": "\n                                    Cap Times E-Edition\n                                ",
+      "url": "http://madisoncaptimes.wi.newsmemory.com"
+    },
+    {
+      "text": "\n                                    Wisconsin State Journal E-Edition\n                                ",
+      "url": "http://wisconsinstatejournal.wi.newsmemory.com/"
+    },
+    {
+      "text": "\n                                    E-Edition Archives\n                                ",
+      "url": "https://madison.com/news/archives/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Display Ads\n                                ",
+      "url": "https://madison.com/ads/print_ads/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Circulars\n                                ",
+      "url": "http://circulars.madison.com/?utm_source=flipp&utm_medium=ham_menu"
+    },
+    {
+      "text": "\n                    \n                        \n                    Buy & Sell\n                ",
+      "url": "https://madison.com/ads/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Place an Ad\n                                ",
+      "url": "https://madison.com/place_an_ad/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Jobs\n                                ",
+      "url": "https://madison.com/jobs/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Homes for Sale\n                                ",
+      "url": "https://madison.com/homes/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Homes for Rent\n                                ",
+      "url": "https://madison.com/homes/rentals/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Deals\n                                ",
+      "url": "https://madison.com/deals/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Business Directory\n                                ",
+      "url": "https://madison.com/places/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Promotions\n                                ",
+      "url": "https://madison.com/promo/promotions/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Legal notices\n                                ",
+      "url": "https://madison.com/ads/legal-notices/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Classified Ads\n                                ",
+      "url": "https://madison.com/ads/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Display Ads\n                                ",
+      "url": "https://madison.com/ads/print_ads/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Wisconsin Public Notices\n                                ",
+      "url": "http://www.wisconsinpublicnotice.org/"
+    },
+    {
+      "text": "\n                                    Manage Subscription\n                                ",
+      "url": "https://madison.com/services/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Activate Digital Subscription\n                                ",
+      "url": "https://madison.com/activate/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Newsletter sign-up\n                                ",
+      "url": "https://madison.com/newsletters/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Become a Member\n                                ",
+      "url": "https://madison.com/members/join/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Contact Us\n                                ",
+      "url": "https://madison.com/contact/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Activate Full Access\n                                ",
+      "url": "https://madison.com/activate/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Help Center\n                                ",
+      "url": "https://madison.com/helpcenter/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Mobile Apps\n                ",
+      "url": "https://madison.com/apps/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Weather: Live Radar\n                ",
+      "url": "https://madison.com/weather/?mode=radar#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                    Facebook\n                ",
+      "url": "https://www.facebook.com/madison.com/"
+    },
+    {
+      "text": "\n                    \n                    Twitter\n                ",
+      "url": "https://twitter.com/madisondotcom"
+    },
+    {
+      "text": "\n                    \n                    YouTube\n                ",
+      "url": "https://www.youtube.com/channel/UCR_4ULlVeCtzmEGkqPCr6Pg"
+    },
+    {
+      "text": "\n                    \n                    Pinterest\n                ",
+      "url": "https://www.pinterest.com/madisondotcom/"
+    },
+    {
+      "text": "\n                    \n                    Instagram\n                ",
+      "url": "https://instagram.com/madisondotcom/"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Subscribe $5 for 5 months",
+      "url": "https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=madison.com&SubscriberLevel=DOP&Return=https%3A%2F%2Fmadison.com%2Fwsj%2F#tracking-source=header&ir=true"
+    },
+    {
+      "text": "Read Today's E-Edition",
+      "url": "/eedition/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Join",
+      "url": "https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=madison.com&SubscriberLevel=DOP&Return=https%3A%2F%2Fmadison.com%2Fwsj%2F#tracking-source=header&ir=true"
+    },
+    {
+      "text": "\n                                                    \n                                                        \n        \n        \n    \n                                                    \n                                                    Log In\n                                                ",
+      "url": "https://madison.com/users/login/?referer_url=https%3A%2F%2Fmadison.com%2Fwsj%2F"
+    },
+    {
+      "text": "My Membership",
+      "url": "https://subscriberservices.lee.net/subscriberservices/Content/AccountStatus.aspx?Domain=madison.com"
+    },
+    {
+      "text": "Help Center",
+      "url": "/helpcenter/"
+    },
+    {
+      "text": " Dashboard",
+      "url": "https://madison.com/users/admin/"
+    },
+    {
+      "text": " Profile",
+      "url": ""
+    },
+    {
+      "text": " Saved items",
+      "url": "https://madison.com/users/admin/list/"
+    },
+    {
+      "text": "E-Edition\n                    \n                ",
+      "url": "https://madison.com/eedition/#tracking-source=main-nav"
+    },
+    {
+      "text": "News\n                    \n                ",
+      "url": "https://madison.com/news/#tracking-source=main-nav"
+    },
+    {
+      "text": "Obituaries\n                    \n                ",
+      "url": "https://madison.com/news/local/obituaries/#tracking-source=main-nav"
+    },
+    {
+      "text": "Opinion\n                    \n                ",
+      "url": "https://madison.com/opinion/#tracking-source=main-nav"
+    },
+    {
+      "text": "Sports\n                    \n                ",
+      "url": "https://madison.com/sports/#tracking-source=main-nav"
+    },
+    {
+      "text": "Dining\n                    \n                ",
+      "url": "https://madison.com/entertainment/dining/#tracking-source=main-nav"
+    },
+    {
+      "text": "Cap Times\n                    \n                ",
+      "url": "https://captimes.com"
+    },
+    {
+      "text": "WiscNews\n                    \n                ",
+      "url": "https://wiscnews.com"
+    },
+    {
+      "text": "Jobs\n                    \n                ",
+      "url": "https://madison.com/jobs/#tracking-source=main-nav"
+    },
+    {
+      "text": "\n                                                \n                                                    \n                                                    \n                                                \n                                                \n                                                    83\u00b0\n                                                    Sunny\n                                                \n                                                \n                                            ",
+      "url": "/weather/?weather_zip=53711"
+    },
+    {
+      "text": "\n        \n        \n            Supreme Court strikes New York gun law in major ruling",
+      "url": "/news/national/supreme-court-strikes-new-york-gun-law-in-major-ruling/article_6a4c4ba0-4186-5b3e-a9a0-bf2070a05992.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/govt-and-politics/michael-gableman-deleted-records-worked-out-of-a-public-library-in-early-months-of-election/article_18fb00ea-b11b-5c6a-b0b0-d6cbd9545883.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Michael Gableman deleted records, worked out of a public library, in early months of election review",
+      "url": "https://madison.com/news/local/govt-and-politics/michael-gableman-deleted-records-worked-out-of-a-public-library-in-early-months-of-election/article_18fb00ea-b11b-5c6a-b0b0-d6cbd9545883.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/crime-and-courts/police-seeking-attempted-homicide-sex-assault-charges-against-deforest-man-facing-kidnapping-stalking-charges/article_8fc3665a-4fba-5993-84d2-b4c267d967e7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Police seeking attempted homicide, sex assault charges against DeForest man facing kidnapping, stalking charges",
+      "url": "https://madison.com/news/local/crime-and-courts/police-seeking-attempted-homicide-sex-assault-charges-against-deforest-man-facing-kidnapping-stalking-charges/article_8fc3665a-4fba-5993-84d2-b4c267d967e7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/sports/college/to-compete-in-the-1970s-wisconsin-womens-athletes-dealt-with-cramped-cars-and-uniform-sharing/article_fda57a48-4237-5423-9df0-705024f16a1d.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            To compete in the 1970s, Wisconsin women's athletes dealt with cramped cars and uniform sharing",
+      "url": "https://madison.com/sports/college/to-compete-in-the-1970s-wisconsin-womens-athletes-dealt-with-cramped-cars-and-uniform-sharing/article_fda57a48-4237-5423-9df0-705024f16a1d.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/sports/college/slow-progress-under-title-ix-dominated-early-years-of-womens-sports-at-wisconsin/article_236819ec-f062-54b7-bd16-368adb6d556d.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Slow progress under Title IX dominated early years of women's sports at Wisconsin",
+      "url": "https://madison.com/sports/college/slow-progress-under-title-ix-dominated-early-years-of-womens-sports-at-wisconsin/article_236819ec-f062-54b7-bd16-368adb6d556d.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/business/milliporesigma-unveils-65m-expanded-verona-space-to-meet-need-for-alternative-cancer-therapies/article_9b453bb3-13c1-5bfe-803d-257f8f5732a0.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            MilliporeSigma unveils $65M expanded Verona space to meet need for alternative cancer therapies",
+      "url": "https://madison.com/business/milliporesigma-unveils-65m-expanded-verona-space-to-meet-need-for-alternative-cancer-therapies/article_9b453bb3-13c1-5bfe-803d-257f8f5732a0.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/opinion/cartoon/hands-on-wisconsin-madison-diocese-drives-progressives-from-flock/article_525e9793-8176-5724-8c92-102705c1b7f0.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Hands on Wisconsin: Madison diocese drives progressives from flock",
+      "url": "https://madison.com/opinion/cartoon/hands-on-wisconsin-madison-diocese-drives-progressives-from-flock/article_525e9793-8176-5724-8c92-102705c1b7f0.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/entertainment/dining/reviews/back-for-seconds-a-look-back-at-some-recent-reviews-of-restaurants-with-outdoor-dining/article_2fffca18-dab5-558f-bac5-5cbc14d3705f.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Back for seconds: A look back at some recent reviews of restaurants with outdoor dining",
+      "url": "https://madison.com/entertainment/dining/reviews/back-for-seconds-a-look-back-at-some-recent-reviews-of-restaurants-with-outdoor-dining/article_2fffca18-dab5-558f-bac5-5cbc14d3705f.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/sports/college/basketball/men/from-la-crosse-to-wisconsin-johnny-davis-had-his-sights-set-on-the-nba-draft/article_8d8c9d30-d544-5756-86df-694a9e7d081a.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            From La Crosse to Wisconsin, Johnny Davis had his sights set on the NBA draft",
+      "url": "https://madison.com/sports/college/basketball/men/from-la-crosse-to-wisconsin-johnny-davis-had-his-sights-set-on-the-nba-draft/article_8d8c9d30-d544-5756-86df-694a9e7d081a.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/environment/wisconsin-coal-plants-to-keep-running-amid-reliability-supply-chain-concerns/article_c056bbff-f43f-5985-8f09-264d95a4a761.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Wisconsin coal plants to keep running amid reliability, supply-chain concerns",
+      "url": "https://madison.com/news/local/environment/wisconsin-coal-plants-to-keep-running-amid-reliability-supply-chain-concerns/article_c056bbff-f43f-5985-8f09-264d95a4a761.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/after-more-than-250-years-last-remnant-of-one-of-wisconsins-largest-white-oaks-is/article_0e205e87-0349-58d8-9ad9-1cc7a9d7f8e2.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            After more than 250 years, last remnant of one of Wisconsin's largest white oaks is no more",
+      "url": "https://madison.com/news/local/after-more-than-250-years-last-remnant-of-one-of-wisconsins-largest-white-oaks-is/article_0e205e87-0349-58d8-9ad9-1cc7a9d7f8e2.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/national/hot-off-the-wire-listen-to-todays-top-stories/article_d0e315e1-f602-5ba9-8fab-61e7662bbfcf.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Hot off the Wire: Listen to today's top stories",
+      "url": "https://madison.com/news/national/hot-off-the-wire-listen-to-todays-top-stories/article_d0e315e1-f602-5ba9-8fab-61e7662bbfcf.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/sports/basketball/professional/jim-polzin-why-the-nba-draft-is-a-banner-moment-for-both-johnny-davis-and/article_a71a600c-8252-5481-bef2-5f0d95e38c9c.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Jim Polzin: Why the NBA draft is a banner moment for both Johnny Davis and Wisconsin men's basketball",
+      "url": "https://madison.com/sports/basketball/professional/jim-polzin-why-the-nba-draft-is-a-banner-moment-for-both-johnny-davis-and/article_a71a600c-8252-5481-bef2-5f0d95e38c9c.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                    Article-video\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/weather/watch-now-temperatures-on-the-rise-across-wisconsin-small-rain-chances-return-thursday-night-and/article_ac30230a-f2d8-11ec-9d86-cfe3d374bbae.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Watch now: Temperatures on the rise across Wisconsin, small rain chances return Thursday night and Friday",
+      "url": "https://madison.com/weather/watch-now-temperatures-on-the-rise-across-wisconsin-small-rain-chances-return-thursday-night-and/article_ac30230a-f2d8-11ec-9d86-cfe3d374bbae.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                    Article-video\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/business/watch-now-organizations-seek-to-address-low-home-ownership-rates-for-people-of-color-in/article_8c228ff6-7cf4-52a8-81a9-7e0975f72474.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Watch now: Organizations seek to address low home ownership rates for people of color in Madison, state",
+      "url": "https://madison.com/business/watch-now-organizations-seek-to-address-low-home-ownership-rates-for-people-of-color-in/article_8c228ff6-7cf4-52a8-81a9-7e0975f72474.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/opinion/editorial/we-lost-a-great-man-and-colleague-in-wayne-strong/article_6f2af9d0-3269-53ef-b2b0-ec31934e8006.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            We lost a great man and colleague in Wayne Strong",
+      "url": "https://madison.com/opinion/editorial/we-lost-a-great-man-and-colleague-in-wayne-strong/article_6f2af9d0-3269-53ef-b2b0-ec31934e8006.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/govt-and-politics/ron-johnson-says-he-doesnt-back-bipartisan-gun-control-legislation-because-of-red-flag-law/article_4a38b4a1-766c-5e64-9154-c27ac7f2ddd7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Ron Johnson says he doesn't back bipartisan gun control legislation because of red flag law grants",
+      "url": "https://madison.com/news/local/govt-and-politics/ron-johnson-says-he-doesnt-back-bipartisan-gun-control-legislation-because-of-red-flag-law/article_4a38b4a1-766c-5e64-9154-c27ac7f2ddd7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/govt-and-politics/wisconsin-gop-lawmakers-ranked-2nd-most-conservative-in-nation-by-cpac/article_233c251b-f877-56c6-b776-48ba90f0c588.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Wisconsin GOP lawmakers ranked 2nd most conservative in nation by CPAC",
+      "url": "https://madison.com/news/local/govt-and-politics/wisconsin-gop-lawmakers-ranked-2nd-most-conservative-in-nation-by-cpac/article_233c251b-f877-56c6-b776-48ba90f0c588.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/govt-and-politics/poll-rebecca-kleefisch-and-tim-michels-poised-for-gop-gubernatorial-primary-matchup/article_5fd85c8e-fa36-5f69-a3ca-dedca9ed59d6.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Poll: Rebecca Kleefisch and Tim Michels poised for GOP gubernatorial primary matchup",
+      "url": "https://madison.com/news/local/govt-and-politics/poll-rebecca-kleefisch-and-tim-michels-poised-for-gop-gubernatorial-primary-matchup/article_5fd85c8e-fa36-5f69-a3ca-dedca9ed59d6.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/govt-and-politics/doctors-fear-incredibly-vague-abortion-ban-exception-as-republicans-reject-repealing-law/article_7b9fd362-75f2-5def-b216-41959eea9f94.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Doctors fear 'incredibly vague' abortion ban exception as Republicans reject repealing law",
+      "url": "https://madison.com/news/local/govt-and-politics/doctors-fear-incredibly-vague-abortion-ban-exception-as-republicans-reject-repealing-law/article_7b9fd362-75f2-5def-b216-41959eea9f94.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/sports/baseball/professional/cardinals-edge-brewers-5-4-to-take-sole-possession-of-first-in-nl-central/article_361d1181-9463-5838-9787-6b0ed7781fab.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Cardinals edge Brewers 5-4 to take sole possession of first in NL Central",
+      "url": "https://madison.com/sports/baseball/professional/cardinals-edge-brewers-5-4-to-take-sole-possession-of-first-in-nl-central/article_361d1181-9463-5838-9787-6b0ed7781fab.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/crime-and-courts/motorcyclist-suffers-significant-injuries-when-thrown-into-vehicle-in-crash-on-far-east-side-madison/article_0bedf65c-f1b0-50b6-9222-6aef7938c97b.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n        \n            Motorcyclist suffers significant injuries when thrown into vehicle in crash on Far East Side, Madison police say",
+      "url": "https://madison.com/news/local/crime-and-courts/motorcyclist-suffers-significant-injuries-when-thrown-into-vehicle-in-crash-on-far-east-side-madison/article_0bedf65c-f1b0-50b6-9222-6aef7938c97b.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/govt-and-politics/wiseye-morning-minute-mu-law-school-poll-june-2022-results/video_bb2ef376-bff5-565f-b847-8f14c5c6296c.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n        \n            WisEye Morning Minute: MU Law School Poll June 2022 Results",
+      "url": "https://madison.com/news/local/govt-and-politics/wiseye-morning-minute-mu-law-school-poll-june-2022-results/video_bb2ef376-bff5-565f-b847-8f14c5c6296c.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/crime-and-courts/motorcyclist-seriously-injured-in-crash-while-weaving-through-traffic-at-high-speed-madison-police-say/article_f782045f-da84-5284-8b1c-6eb962afb5df.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n        \n            Motorcyclist seriously injured in crash while weaving through traffic at high speed, Madison police say",
+      "url": "https://madison.com/news/local/crime-and-courts/motorcyclist-seriously-injured-in-crash-while-weaving-through-traffic-at-high-speed-madison-police-say/article_f782045f-da84-5284-8b1c-6eb962afb5df.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/local/crime-and-courts/teen-hospitalized-with-head-injury-after-attempted-armed-robbery-on-far-west-side-madison-police/article_225ae83d-d36e-5fd3-990f-99af5810913c.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n        \n            Teen hospitalized with head injury after attempted armed robbery on Far West Side, Madison police say",
+      "url": "https://madison.com/news/local/crime-and-courts/teen-hospitalized-with-head-injury-after-attempted-armed-robbery-on-far-west-side-madison-police/article_225ae83d-d36e-5fd3-990f-99af5810913c.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/members/promo/email/see-the-latest-local-crime-courts-news-weekly-with-our-newsletter-sign-up/article_842d60a8-abf2-563c-9bcb-e1501d33ee61.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n        \n        \n            See the latest local crime & courts news weekly with our newsletter. Sign up:",
+      "url": "https://madison.com/members/promo/email/see-the-latest-local-crime-courts-news-weekly-with-our-newsletter-sign-up/article_842d60a8-abf2-563c-9bcb-e1501d33ee61.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/members/promo/email/we-deliver-to-email-get-the-latest-local-headlines-more/article_84d2dbe6-2e66-5da2-8cef-678853b2ce50.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n        \n        \n            We deliver to email! Get the latest local headlines & more:",
+      "url": "https://madison.com/members/promo/email/we-deliver-to-email-get-the-latest-local-headlines-more/article_84d2dbe6-2e66-5da2-8cef-678853b2ce50.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/members/promo/subscriber/give-your-brain-a-boost-with-our-games-puzzles/article_35a7fc3f-e2aa-5506-a918-c4bb5fffca88.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n        \n        \n            Give your brain a boost with our Games & Puzzles!",
+      "url": "https://madison.com/members/promo/subscriber/give-your-brain-a-boost-with-our-games-puzzles/article_35a7fc3f-e2aa-5506-a918-c4bb5fffca88.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/members/promo/email/get-something-adorable-in-your-inbox-every-week-with-our-pets-newsletter/article_3f89f6ee-d5f2-5bc9-832e-706e09e0a604.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n        \n        \n            Get something adorable in your inbox every week with our Pets Newsletter!",
+      "url": "https://madison.com/members/promo/email/get-something-adorable-in-your-inbox-every-week-with-our-pets-newsletter/article_3f89f6ee-d5f2-5bc9-832e-706e09e0a604.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n                \n                Latest Video\n                \n                    ",
+      "url": "/video/"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/news/world/thousands-of-dutch-farmers-protest-against-emissions-targets/video_e89caa4f-644c-5738-9853-7abbc491c84d.html"
+    },
+    {
+      "text": "\n        \n        \n            Thousands of Dutch farmers protest against emissions targets",
+      "url": "/news/world/thousands-of-dutch-farmers-protest-against-emissions-targets/video_e89caa4f-644c-5738-9853-7abbc491c84d.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/entertainment/hailey-bieber-sued-for-trademark-infringement-over-new-skincare-line/video_17120dd4-5aa9-5298-844e-5ad60d9de639.html"
+    },
+    {
+      "text": "\n        \n        \n            Hailey Bieber sued for trademark infringement over new skincare line",
+      "url": "/entertainment/hailey-bieber-sued-for-trademark-infringement-over-new-skincare-line/video_17120dd4-5aa9-5298-844e-5ad60d9de639.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/news/world/rare-lemur-triplets-born-at-newquay-zoo-in-u-k/video_4e9fa184-5cb3-53ad-bf5a-3dd4f85fc6b9.html"
+    },
+    {
+      "text": "\n        \n        \n            Rare lemur triplets born at Newquay Zoo in U.K.",
+      "url": "/news/world/rare-lemur-triplets-born-at-newquay-zoo-in-u-k/video_4e9fa184-5cb3-53ad-bf5a-3dd4f85fc6b9.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/entertainment/television/reg--jean-page-denies-returning-for-third-season-of-bridgerton/video_f50199ba-6fff-51e0-b907-1d2a4856f203.html"
+    },
+    {
+      "text": "\n        \n        \n            Reg\u00e9-Jean Page denies returning for third season of Bridgerton",
+      "url": "/entertainment/television/reg--jean-page-denies-returning-for-third-season-of-bridgerton/video_f50199ba-6fff-51e0-b907-1d2a4856f203.html"
+    },
+    {
+      "text": "\n                \n                Sports\n                \n                    ",
+      "url": "https://madison.com/sports/#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/sports/college/title-ix-timeline-50-years-of-halting-progress-across-u-s/collection_7e52413d-ed53-506d-a4b8-13f4e1587eac.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n        \n            Title IX timeline: 50 years of halting progress across U.S.",
+      "url": "https://madison.com/sports/college/title-ix-timeline-50-years-of-halting-progress-across-u-s/collection_7e52413d-ed53-506d-a4b8-13f4e1587eac.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/sports/college/watch-now-title-ix-ensured-balanced-cutbacks-during-pandemic/video_48308d43-5a21-56c7-ba60-348593f75bba.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n        \n            Watch now: Title IX ensured balanced cutbacks during pandemic",
+      "url": "https://madison.com/sports/college/watch-now-title-ix-ensured-balanced-cutbacks-during-pandemic/video_48308d43-5a21-56c7-ba60-348593f75bba.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/sports/college/watch-now-title-ix-helps-female-athletes-abroad/video_4ea44dc0-2f79-5ce8-9a19-4d9f8d876944.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n        \n            Watch now: Title IX helps female athletes abroad",
+      "url": "https://madison.com/sports/college/watch-now-title-ix-helps-female-athletes-abroad/video_4ea44dc0-2f79-5ce8-9a19-4d9f8d876944.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/sports/college/watch-now-womens-basketball-players-coaches-reflect-as-title-ix-turns-50/video_cdc9d213-bc4d-578d-ad36-e5d59cf1bdd4.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n        \n            Watch now: Women's basketball players, coaches reflect as Title IX turns 50",
+      "url": "https://madison.com/sports/college/watch-now-womens-basketball-players-coaches-reflect-as-title-ix-turns-50/video_cdc9d213-bc4d-578d-ad36-e5d59cf1bdd4.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/opinion/columnists/why-is-gender-therapy-for-children-such-a-difficult-topic-the-ethical-life-podcast/article_c78fd79f-eb6d-5585-8fd0-6c1a039062d2.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n        \n            Why is gender therapy for children such a difficult topic? | The Ethical Life podcast",
+      "url": "https://madison.com/opinion/columnists/why-is-gender-therapy-for-children-such-a-difficult-topic-the-ethical-life-podcast/article_c78fd79f-eb6d-5585-8fd0-6c1a039062d2.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/podcast/center-stage-politics-are-infecting-our-courts-making-judges-more-of-a-target/article_68e8f156-700a-5645-af08-fc61709e6349.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n        \n            Center Stage: Politics are infecting our courts, making judges more of a target",
+      "url": "https://madison.com/podcast/center-stage-politics-are-infecting-our-courts-making-judges-more-of-a-target/article_68e8f156-700a-5645-af08-fc61709e6349.html#tracking-source=home-audio"
+    },
+    {
+      "text": "judge is dead",
+      "url": "https://madison.com/opinion/editorial/stop-bashing-the-judiciary-for-doing-its-job/article_bee507ef-2da3-56d1-9c27-df973553b5a4.html"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/weather/listen-to-across-the-sky-podcast-episode10-coming-soon/article_78a07f38-124f-5f2a-91e7-f81bbc6b2e4a.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n        \n            Listen to Across the Sky podcast; episode10 coming soon!",
+      "url": "https://madison.com/weather/listen-to-across-the-sky-podcast-episode10-coming-soon/article_78a07f38-124f-5f2a-91e7-f81bbc6b2e4a.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/business/investment/personal-finance/need-extra-cash-this-summer-try-these-proven-yard-sale-tips-pennywise-podcast/article_55e444eb-9b52-5df3-bb4f-819355fd373c.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n        \n            Need extra cash this summer? Try these proven yard sale tips | PennyWise podcast",
+      "url": "https://madison.com/business/investment/personal-finance/need-extra-cash-this-summer-try-these-proven-yard-sale-tips-pennywise-podcast/article_55e444eb-9b52-5df3-bb4f-819355fd373c.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                Entertainment\n                \n                    ",
+      "url": "https://madison.com/entertainment/#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/entertainment/hailey-bieber-sued-for-trademark-infringement-over-new-skincare-line/video_17120dd4-5aa9-5298-844e-5ad60d9de639.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n        \n            Hailey Bieber sued for trademark infringement over new skincare line",
+      "url": "https://madison.com/entertainment/hailey-bieber-sued-for-trademark-infringement-over-new-skincare-line/video_17120dd4-5aa9-5298-844e-5ad60d9de639.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/entertainment/movies/review-lightyear-isnt-as-buzzy-as-it-could-have-been/article_eba0ba15-7762-5ecc-a883-feff0eeb0402.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n        \n            REVIEW: 'Lightyear' isn't as buzzy as it could have been",
+      "url": "https://madison.com/entertainment/movies/review-lightyear-isnt-as-buzzy-as-it-could-have-been/article_eba0ba15-7762-5ecc-a883-feff0eeb0402.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/entertainment/television/reg--jean-page-denies-returning-for-third-season-of-bridgerton/video_f50199ba-6fff-51e0-b907-1d2a4856f203.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n        \n            Reg\u00e9-Jean Page denies returning for third season of Bridgerton",
+      "url": "https://madison.com/entertainment/television/reg--jean-page-denies-returning-for-third-season-of-bridgerton/video_f50199ba-6fff-51e0-b907-1d2a4856f203.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/entertainment/music/selena-gomez-says-she-s-ashamed-of-being-sexualized-earlier-in-her-career/video_3cd3bd83-edf9-5aec-8667-0339b7b30dcc.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n        \n            Selena Gomez says she\u2019s ashamed of being sexualized earlier in her career",
+      "url": "https://madison.com/entertainment/music/selena-gomez-says-she-s-ashamed-of-being-sexualized-earlier-in-her-career/video_3cd3bd83-edf9-5aec-8667-0339b7b30dcc.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                Latest Galleries\n                \n                    ",
+      "url": "https://madison.com/gallery/#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/employment-outlook-for-airline-industry-occupations/collection_ec2f0d4b-dda3-5e1c-a693-fbcbee60e8e8.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n        \n            Employment outlook for airline industry occupations",
+      "url": "https://madison.com/news/employment-outlook-for-airline-industry-occupations/collection_ec2f0d4b-dda3-5e1c-a693-fbcbee60e8e8.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/how-college-admissions-have-changed-over-the-past-75-years/collection_7155a325-cb23-55f8-a0fa-5e0b5ff87706.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n        \n            How college admissions have changed over the past 75 years",
+      "url": "https://madison.com/news/how-college-admissions-have-changed-over-the-past-75-years/collection_7155a325-cb23-55f8-a0fa-5e0b5ff87706.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/lifestyles/the-life-span-of-10-common-home-appliances/collection_a1a709c5-41b3-5904-9443-5b93ced41414.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n        \n            The life span of 10 common home appliances",
+      "url": "https://madison.com/lifestyles/the-life-span-of-10-common-home-appliances/collection_a1a709c5-41b3-5904-9443-5b93ced41414.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/news/national/ranking-the-2024-democratic-field/collection_1b279c4b-01c0-5ce6-b8a9-bd66d3b3e18b.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n        \n            Ranking the 2024 Democratic field",
+      "url": "https://madison.com/news/national/ranking-the-2024-democratic-field/collection_1b279c4b-01c0-5ce6-b8a9-bd66d3b3e18b.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                Local Businesses\n                \n                    ",
+      "url": "https://madison.com/places/#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n        \n        \n            Jane Schneider",
+      "url": "https://madison.com/places/jane-schneider/business_4000152161.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                                        1717 HELENA ST, Madison, WI 53704\n                                    ",
+      "url": "https://www.google.com/maps/dir//1717%20HELENA%20ST%2BMadison%2BWI%2B53704"
+    },
+    {
+      "text": "\n        \n        \n            American Transmission Co./Platypus",
+      "url": "https://madison.com/places/american-transmission-co-platypus/business_4000060036.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                                        Po Box 796, Pewaukee, WI 53072\n                                    ",
+      "url": "https://www.google.com/maps/dir//Po%20Box%20796%2BPewaukee%2BWI%2B53072"
+    },
+    {
+      "text": "\n                    \n        \n                        \n    \n\n                        ",
+      "url": "https://madison.com/places/agriculture/agricultural_crops_services/ornamental_nursery_products/capital-city-tree-experts-inc/business_1141279225.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n        \n        \n            Capital City Tree Experts, Inc.",
+      "url": "https://madison.com/places/agriculture/agricultural_crops_services/ornamental_nursery_products/capital-city-tree-experts-inc/business_1141279225.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                                        4702 Ellestad Drive, Madison, WI 53716\n                                    ",
+      "url": "https://www.google.com/maps/dir//4702%20Ellestad%20Drive%2BMadison%2BWI%2B53716"
+    },
+    {
+      "text": "\n                             Website\n                        ",
+      "url": "http://www.capcitytree.com"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/other/porta-bella---ad-from-2022-06-17/pdfdisplayad_d8c4d0a2-5115-56ff-a337-83ed19f9c397.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            PORTA BELLA - Ad from 2022-06-17",
+      "url": "https://madison.com/ads/other/porta-bella---ad-from-2022-06-17/pdfdisplayad_d8c4d0a2-5115-56ff-a337-83ed19f9c397.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/other/morgans-shoes---ad-from-2022-06-22/pdfdisplayad_4ca0e351-9e24-505d-8049-39bd03380153.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            MORGANS SHOES - Ad from 2022-06-22",
+      "url": "https://madison.com/ads/other/morgans-shoes---ad-from-2022-06-22/pdfdisplayad_4ca0e351-9e24-505d-8049-39bd03380153.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/other/paisans---ad-from-2022-06-17/pdfdisplayad_279e22cb-1ea0-5867-8ff1-43ba746b5276.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            Paisans - Ad from 2022-06-17",
+      "url": "https://madison.com/ads/other/paisans---ad-from-2022-06-17/pdfdisplayad_279e22cb-1ea0-5867-8ff1-43ba746b5276.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/sale/clothes/jewelry/studio-jewelers---ad-from-2022-06-18/pdfdisplayad_b52c61d9-d82d-5281-a6b7-46ac9ba5acb3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            STUDIO JEWELERS - Ad from 2022-06-18",
+      "url": "https://madison.com/ads/sale/clothes/jewelry/studio-jewelers---ad-from-2022-06-18/pdfdisplayad_b52c61d9-d82d-5281-a6b7-46ac9ba5acb3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/service/office/cambridge-winery---ad-from-2022-06-22/pdfdisplayad_158435cd-4101-5c9b-8e5d-ecfa88942960.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            CAMBRIDGE WINERY - Ad from 2022-06-22",
+      "url": "https://madison.com/ads/service/office/cambridge-winery---ad-from-2022-06-22/pdfdisplayad_158435cd-4101-5c9b-8e5d-ecfa88942960.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/service/capri-communities---ad-from-2022-06-19/pdfdisplayad_c690709e-17f0-54cb-8069-e1da9267d2e3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            CAPRI COMMUNITIES - Ad from 2022-06-19",
+      "url": "https://madison.com/ads/service/capri-communities---ad-from-2022-06-19/pdfdisplayad_c690709e-17f0-54cb-8069-e1da9267d2e3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/sale/home/food/festival-foods---ad-from-2022-06-22/pdfdisplayad_f71f40f8-8693-57d1-bdf0-67753bea5362.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            FESTIVAL FOODS - Ad from 2022-06-22",
+      "url": "https://madison.com/ads/sale/home/food/festival-foods---ad-from-2022-06-22/pdfdisplayad_f71f40f8-8693-57d1-bdf0-67753bea5362.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/sale/home/food/williamson-st-co-op---ad-from-2022-06-19/pdfdisplayad_451b0620-2e6c-5bdb-b502-02dd41d42e47.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            WILLIAMSON ST CO-OP - Ad from 2022-06-19",
+      "url": "https://madison.com/ads/sale/home/food/williamson-st-co-op---ad-from-2022-06-19/pdfdisplayad_451b0620-2e6c-5bdb-b502-02dd41d42e47.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/other/dmb-community-bank---ad-from-2022-06-19/pdfdisplayad_05964b3f-958c-5280-a439-daa24748c229.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            DMB COMMUNITY BANK - Ad from 2022-06-19",
+      "url": "https://madison.com/ads/other/dmb-community-bank---ad-from-2022-06-19/pdfdisplayad_05964b3f-958c-5280-a439-daa24748c229.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/other/wilsons-bar---ad-from-2022-06-17/pdfdisplayad_f2fbc2c8-866e-5f92-a53f-7e69bbf4e5a3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            WILSONS BAR - Ad from 2022-06-17",
+      "url": "https://madison.com/ads/other/wilsons-bar---ad-from-2022-06-17/pdfdisplayad_f2fbc2c8-866e-5f92-a53f-7e69bbf4e5a3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/other/porta-bella---ad-from-2022-06-17/pdfdisplayad_d8c4d0a2-5115-56ff-a337-83ed19f9c397.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            PORTA BELLA - Ad from 2022-06-17",
+      "url": "https://madison.com/ads/other/porta-bella---ad-from-2022-06-17/pdfdisplayad_d8c4d0a2-5115-56ff-a337-83ed19f9c397.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/other/morgans-shoes---ad-from-2022-06-22/pdfdisplayad_4ca0e351-9e24-505d-8049-39bd03380153.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            MORGANS SHOES - Ad from 2022-06-22",
+      "url": "https://madison.com/ads/other/morgans-shoes---ad-from-2022-06-22/pdfdisplayad_4ca0e351-9e24-505d-8049-39bd03380153.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/other/paisans---ad-from-2022-06-17/pdfdisplayad_279e22cb-1ea0-5867-8ff1-43ba746b5276.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            Paisans - Ad from 2022-06-17",
+      "url": "https://madison.com/ads/other/paisans---ad-from-2022-06-17/pdfdisplayad_279e22cb-1ea0-5867-8ff1-43ba746b5276.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://madison.com/ads/sale/clothes/jewelry/studio-jewelers---ad-from-2022-06-18/pdfdisplayad_b52c61d9-d82d-5281-a6b7-46ac9ba5acb3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            STUDIO JEWELERS - Ad from 2022-06-18",
+      "url": "https://madison.com/ads/sale/clothes/jewelry/studio-jewelers---ad-from-2022-06-18/pdfdisplayad_b52c61d9-d82d-5281-a6b7-46ac9ba5acb3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "\n                    \n                    Facebook\n                ",
+      "url": "https://www.facebook.com/madison.com/"
+    },
+    {
+      "text": "\n                    \n                    Twitter\n                ",
+      "url": "https://twitter.com/madisondotcom"
+    },
+    {
+      "text": "\n                    \n                    YouTube\n                ",
+      "url": "https://www.youtube.com/channel/UCR_4ULlVeCtzmEGkqPCr6Pg"
+    },
+    {
+      "text": "\n                    \n                    Pinterest\n                ",
+      "url": "https://www.pinterest.com/madisondotcom/"
+    },
+    {
+      "text": "\n                    \n                    Instagram\n                ",
+      "url": "https://instagram.com/madisondotcom/"
+    },
+    {
+      "text": "Calendar\n                    \n                ",
+      "url": "/calendar/"
+    },
+    {
+      "text": "Comics\n                    \n                ",
+      "url": "/comics/"
+    },
+    {
+      "text": "Obituaries\n                    \n                ",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "Search\n                    \n                ",
+      "url": "/search/"
+    },
+    {
+      "text": "Subscribe now\n                    \n                ",
+      "url": "/subscribenow/"
+    },
+    {
+      "text": "Madison.com\n                    \n                ",
+      "url": "https://madison.com"
+    },
+    {
+      "text": "Wisconsin State Journal\n                    \n                ",
+      "url": "/wsj/"
+    },
+    {
+      "text": "Cap Times\n                    \n                ",
+      "url": "https://captimes.com"
+    },
+    {
+      "text": "WiscNews\n                    \n                ",
+      "url": "https://www.wiscnews.com/"
+    },
+    {
+      "text": "Madison Media Partners\n                    \n                ",
+      "url": "https://madisonmediapartners.com/"
+    },
+    {
+      "text": "AmplifiedWisconsin\n                    \n                ",
+      "url": "https://amplifiedlocal.com/locations/madison-wi/"
+    },
+    {
+      "text": "ApplyMadison\n                    \n                ",
+      "url": "/jobs/"
+    },
+    {
+      "text": "Wingra Printing Group\n                    \n                ",
+      "url": "/wingraprintinggroup/"
+    },
+    {
+      "text": "Customer service: 800-362-8333\n                    \n                ",
+      "url": "https://subscriberservices.lee.net/subscriberservices/Content/AccountStatus.aspx?Domain=madison.com"
+    },
+    {
+      "text": "Manage your subscription\n                    \n                ",
+      "url": "/services/"
+    },
+    {
+      "text": "Place a classified ad\n                    \n                ",
+      "url": "/place_an_ad/"
+    },
+    {
+      "text": "Submit a Celebration\n                    \n                ",
+      "url": "/place_an_ad/celebrations/"
+    },
+    {
+      "text": "Contact Us\n                    \n                ",
+      "url": "/contact/"
+    },
+    {
+      "text": "Email Newsletters\n                    \n                ",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "Work here\n                    \n                ",
+      "url": "http://lee.net/careers/opportunities/?utm_source=newspaper&utm_medium=blox&utm_campaign=workhere"
+    },
+    {
+      "text": "Buy and Sell\n                    \n                ",
+      "url": "/ads/"
+    },
+    {
+      "text": "Jobs\n                    \n                ",
+      "url": "/jobs/"
+    },
+    {
+      "text": "Homes\n                    \n                ",
+      "url": "/homes"
+    },
+    {
+      "text": "Apartments\n                    \n                ",
+      "url": "/homes/rentals/"
+    },
+    {
+      "text": "Become a Carrier\n                    \n                ",
+      "url": "https://madison.com/forms/subscription_services/offer4/carrier_route_info__dig/"
+    },
+    {
+      "text": "Madison Media Partners Inc., madison.com ",
+      "url": "/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/terms/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy/"
+    },
+    {
+      "text": "Do Not Sell My Info",
+      "url": "/privacy/#ccpa"
+    },
+    {
+      "text": "BLOX Content Management System",
+      "url": "https://bloxcms.com"
+    },
+    {
+      "text": "TownNews.com",
+      "url": "https://townnews.com/"
+    },
+    {
+      "text": "",
+      "url": "{{url}}"
+    },
+    {
+      "text": "Notifications",
+      "url": "#notify-panel-content"
+    },
+    {
+      "text": "Settings",
+      "url": "#notify-panel-settings"
+    }
+  ],
   "workable_servers": [
     "ia802902.us.archive.org",
     "ia902902.us.archive.org"

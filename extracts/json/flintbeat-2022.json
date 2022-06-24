@@ -1,5 +1,5 @@
 {
-  "created": 1655770684,
+  "created": 1656029933,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/flintbeat-2022",
@@ -310,31 +310,483 @@
       "sha1": "7b6a07133b9bfb031a9cb14895849436423742ae"
     },
     {
+      "name": "flintbeat-2022-06-20T20:31:18.015397-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775080",
+      "size": "37649",
+      "md5": "6f93f74cb11330f7d6ad87bd66ac7d09",
+      "crc32": "2a501e20",
+      "sha1": "39aa7c114f5098a48e217944067cc6e4f74b4675",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-20T20:31:18.015397-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775082",
+      "size": "30923",
+      "md5": "f588bd7cee71c0e017497881b0e6be28",
+      "crc32": "a6cfa602",
+      "sha1": "0eace1a8b29f22c9f0928ead4af547cd4862c3ba",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-20T20:31:18.015397-05:00.jpg",
+      "source": "original",
+      "mtime": "1655775079",
+      "size": "183974",
+      "md5": "69183021f43bad175fcf1414913d515e",
+      "crc32": "281cc885",
+      "sha1": "b979659f658d5ca8cb38c1f763886eaf60fa8e84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-20T20:31:18.015397-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-20T20:31:18.015397-05:00.jpg",
+      "mtime": "1655775173",
+      "size": "8430",
+      "md5": "dae325add94ace7362fc71e89da608f1",
+      "crc32": "900b1583",
+      "sha1": "899300b34fddcf377138442b9959b08d9a9c6de4"
+    },
+    {
+      "name": "flintbeat-2022-06-21T00:24:48.274990-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789092",
+      "size": "35765",
+      "md5": "691538e41b0c34dfa409fa92d427e4c6",
+      "crc32": "d0a41a85",
+      "sha1": "522978833fe8b030585435bdf25d0b74ef199644",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-21T00:24:48.274990-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789094",
+      "size": "30923",
+      "md5": "f588bd7cee71c0e017497881b0e6be28",
+      "crc32": "a6cfa602",
+      "sha1": "0eace1a8b29f22c9f0928ead4af547cd4862c3ba",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-21T00:24:48.274990-05:00.jpg",
+      "source": "original",
+      "mtime": "1655789090",
+      "size": "184016",
+      "md5": "13f56bae71e2e99985d9f02abc55c8e3",
+      "crc32": "d3767e44",
+      "sha1": "78a2495f9f09c32fb54f2c1be686a5bb5eafa70e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-21T00:24:48.274990-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-21T00:24:48.274990-05:00.jpg",
+      "mtime": "1655789155",
+      "size": "8423",
+      "md5": "ea61e8a465b9cc5bb3e559c63d690f30",
+      "crc32": "0b226b4a",
+      "sha1": "8cfd1a2e7e290a1c2bc79e496360f129167fd7be"
+    },
+    {
+      "name": "flintbeat-2022-06-21T07:26:42.196175-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814406",
+      "size": "38357",
+      "md5": "0bcee5d85870b5a842329dcf96b8fbd0",
+      "crc32": "f64e7525",
+      "sha1": "df06eb81107d5dd6ee8547fba9d42229d42f0037",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-21T07:26:42.196175-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814408",
+      "size": "30923",
+      "md5": "f588bd7cee71c0e017497881b0e6be28",
+      "crc32": "a6cfa602",
+      "sha1": "0eace1a8b29f22c9f0928ead4af547cd4862c3ba",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-21T07:26:42.196175-05:00.jpg",
+      "source": "original",
+      "mtime": "1655814403",
+      "size": "183982",
+      "md5": "813529c440f5a6b441b21e25f6c13709",
+      "crc32": "77944320",
+      "sha1": "90296ba19e54fc047131afd8eb69cd42c38019dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-21T07:26:42.196175-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-21T07:26:42.196175-05:00.jpg",
+      "mtime": "1655814479",
+      "size": "8424",
+      "md5": "e4f4c191482465871385223e634dd1a2",
+      "crc32": "a4259678",
+      "sha1": "742e97d770efcad53ea69fef62ceb9de81129fd0"
+    },
+    {
+      "name": "flintbeat-2022-06-21T08:52:48.390448-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819572",
+      "size": "30603",
+      "md5": "8a955251ae63534adf64842180b7dad4",
+      "crc32": "99e6c147",
+      "sha1": "e7fcfe4be9f06445425efd388e93ac692a603577",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-21T08:52:48.390448-05:00.jpg",
+      "source": "original",
+      "mtime": "1655819570",
+      "size": "176150",
+      "md5": "622567f241b48c5b2595d60a3c1f1fed",
+      "crc32": "1af0d6ff",
+      "sha1": "87a4e56752b4a0d3a955d28f134cc0f1df6374bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-21T08:52:48.390448-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-21T08:52:48.390448-05:00.jpg",
+      "mtime": "1655819632",
+      "size": "8326",
+      "md5": "69921273567fea66ac9e6ff89ab984a7",
+      "crc32": "5ade35f7",
+      "sha1": "eba517133f2b0c9454257caec981ecdc5a51b626"
+    },
+    {
+      "name": "flintbeat-2022-06-21T12:13:27.153275-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831611",
+      "size": "38213",
+      "md5": "73d44fc9b8b2916aa0d8de7aa791a37a",
+      "crc32": "aecdc2ec",
+      "sha1": "0a99a0f836dc1f72ff1d4e5b8d7dd1ba2dcc66c8",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-21T12:13:27.153275-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831613",
+      "size": "30603",
+      "md5": "8a955251ae63534adf64842180b7dad4",
+      "crc32": "99e6c147",
+      "sha1": "e7fcfe4be9f06445425efd388e93ac692a603577",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-21T12:13:27.153275-05:00.jpg",
+      "source": "original",
+      "mtime": "1655831609",
+      "size": "176199",
+      "md5": "1b60aced884584aa48d3e60e7e964a10",
+      "crc32": "899a4ac1",
+      "sha1": "0a2e3238dce2d6fd73410598ecc37031e813799f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-21T12:13:27.153275-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-21T12:13:27.153275-05:00.jpg",
+      "mtime": "1655831686",
+      "size": "8320",
+      "md5": "3dcb674e2b053f77a8900df9fadbd87e",
+      "crc32": "3e7e7ddf",
+      "sha1": "4fe7fc166f80eb718072759b9061eaed541150ab"
+    },
+    {
+      "name": "flintbeat-2022-06-21T20:22:09.710636-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655860932",
+      "size": "38215",
+      "md5": "7434bce71d280eca800557cae5512534",
+      "crc32": "454965e9",
+      "sha1": "b0be583885b0fddfaf200b27d67477eb6d555577",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-21T20:22:09.710636-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655860935",
+      "size": "30603",
+      "md5": "8a955251ae63534adf64842180b7dad4",
+      "crc32": "99e6c147",
+      "sha1": "e7fcfe4be9f06445425efd388e93ac692a603577",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-21T20:22:09.710636-05:00.jpg",
+      "source": "original",
+      "mtime": "1655860931",
+      "size": "176360",
+      "md5": "e6505b928cec7cfe98d6800582ea7779",
+      "crc32": "6f966b97",
+      "sha1": "a0f1b8121d4928825ff0eefe7f0b86c09ecd0e86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-21T20:22:09.710636-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-21T20:22:09.710636-05:00.jpg",
+      "mtime": "1655861275",
+      "size": "8323",
+      "md5": "919c28335b8245941650ae71b6f55c23",
+      "crc32": "2d6d2a5c",
+      "sha1": "529a03173a784d375c0e15b9a82ac0d6d382b57f"
+    },
+    {
+      "name": "flintbeat-2022-06-22T04:14:25.831261-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889269",
+      "size": "38215",
+      "md5": "36429ac9dd76e2fcff90b0c11693df3b",
+      "crc32": "a03c8b3b",
+      "sha1": "d948f7e611090cf4397991ad67fdae0300e39358",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-22T04:14:25.831261-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889271",
+      "size": "30603",
+      "md5": "8a955251ae63534adf64842180b7dad4",
+      "crc32": "99e6c147",
+      "sha1": "e7fcfe4be9f06445425efd388e93ac692a603577",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-22T04:14:25.831261-05:00.jpg",
+      "source": "original",
+      "mtime": "1655889267",
+      "size": "176384",
+      "md5": "3390c03b31a356c6075bbd853f8b229a",
+      "crc32": "c7c39460",
+      "sha1": "46200a68dc4da83558850e199b5fc8b425ca2d77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-22T04:14:25.831261-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-22T04:14:25.831261-05:00.jpg",
+      "mtime": "1655889314",
+      "size": "8327",
+      "md5": "adf999fa9460dad975e671afdd118d3a",
+      "crc32": "03b168c5",
+      "sha1": "e74eb6e992f0ed1d10d11937184591c9a37c81cf"
+    },
+    {
+      "name": "flintbeat-2022-06-22T12:27:19.261227-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655918843",
+      "size": "37983",
+      "md5": "fcb1cbaf290760981e63535a71e07384",
+      "crc32": "e0f68e65",
+      "sha1": "1a30c870d99a4101b26fa01b7a96532f2a8f4afd",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-22T12:27:19.261227-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655918844",
+      "size": "30428",
+      "md5": "1eceafc07c7217194c52ba479bf74f9d",
+      "crc32": "182b10a6",
+      "sha1": "f2d4172f6f08bf46f00acf4ac91cc18d79a44c27",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-22T12:27:19.261227-05:00.jpg",
+      "source": "original",
+      "mtime": "1655918841",
+      "size": "169737",
+      "md5": "d89607aafdb3780560bd7982d62643f5",
+      "crc32": "bef4f34c",
+      "sha1": "e842566a5d3ac2c5b0293d9250679461e6f48f0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-22T12:27:19.261227-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-22T12:27:19.261227-05:00.jpg",
+      "mtime": "1655918892",
+      "size": "8201",
+      "md5": "45b65de27eee5d68eb1acf9fa01466f6",
+      "crc32": "8a357c1f",
+      "sha1": "ddf0ab617018e84038a3a78ccd56aa7bfa1c211d"
+    },
+    {
+      "name": "flintbeat-2022-06-22T20:24:18.917602-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947462",
+      "size": "35475",
+      "md5": "68b52e830eb3a722c5a46bb81a47512c",
+      "crc32": "5488e622",
+      "sha1": "47e34293884b091f1097c3e4316ed7543a7581cb",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-22T20:24:18.917602-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947464",
+      "size": "30542",
+      "md5": "2b34effa6d47eae380d1b87f44c3fa63",
+      "crc32": "4bb1656b",
+      "sha1": "848483f9d892efdb9c6611f4c018cc21a9a5d075",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-22T20:24:18.917602-05:00.jpg",
+      "source": "original",
+      "mtime": "1655947461",
+      "size": "179966",
+      "md5": "75e55d11d309209da7440afd6fbdf7a1",
+      "crc32": "7543f670",
+      "sha1": "03343283311f090af258760102140efffe99dbcd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-22T20:24:18.917602-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-22T20:24:18.917602-05:00.jpg",
+      "mtime": "1655947509",
+      "size": "7958",
+      "md5": "b41ae5e9cf6e5fcb397d117cc93530dc",
+      "crc32": "16ed61c6",
+      "sha1": "87a9f7421f9c4e9b6cb68567d05144f2336a0b99"
+    },
+    {
+      "name": "flintbeat-2022-06-23T04:16:17.517776-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655975780",
+      "size": "35476",
+      "md5": "306342fdf32bd36d33c131cf483a8555",
+      "crc32": "451e9ca8",
+      "sha1": "246b67b768d641e55ba486b6bdb52c77a214335d",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-23T04:16:17.517776-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655975782",
+      "size": "30542",
+      "md5": "2b34effa6d47eae380d1b87f44c3fa63",
+      "crc32": "4bb1656b",
+      "sha1": "848483f9d892efdb9c6611f4c018cc21a9a5d075",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-23T04:16:17.517776-05:00.jpg",
+      "source": "original",
+      "mtime": "1655975779",
+      "size": "180010",
+      "md5": "c763ae6fd2a9a2515f323558b4c4d63f",
+      "crc32": "58f7b318",
+      "sha1": "6fc1aeb534cb3b0b5fab5dbcb474dcc895ad7370",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-23T04:16:17.517776-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-23T04:16:17.517776-05:00.jpg",
+      "mtime": "1655975851",
+      "size": "7958",
+      "md5": "c33ee52eedbb36c2d195b7c5bddf3935",
+      "crc32": "91f86aec",
+      "sha1": "31b9609323f1c78f3ad7b51da0029a0055be0df5"
+    },
+    {
+      "name": "flintbeat-2022-06-23T12:15:33.874404-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004538",
+      "size": "35476",
+      "md5": "cd9fdd8fdf87cf15c0c924c82d7952d0",
+      "crc32": "9f0344fa",
+      "sha1": "e027898b152d6a421c98f731682b1f1a684def92",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-23T12:15:33.874404-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004540",
+      "size": "30734",
+      "md5": "a652a5610b261a48b96fe4e0f7c65f67",
+      "crc32": "0fc69d1a",
+      "sha1": "dadd27999fbfef151f715bdf87a6a48bfacf31f9",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-23T12:15:33.874404-05:00.jpg",
+      "source": "original",
+      "mtime": "1656004536",
+      "size": "178625",
+      "md5": "0498eb11736e025e812d9cbe447e12cb",
+      "crc32": "3496c99a",
+      "sha1": "3c1260f97ccb4a22490411e20398eee59bd6f1f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-23T12:15:33.874404-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-23T12:15:33.874404-05:00.jpg",
+      "mtime": "1656004588",
+      "size": "8164",
+      "md5": "5ed05ad0903b446592030451445060ec",
+      "crc32": "6d802717",
+      "sha1": "b0b317989293b97d2835ad0ff0720c3dadf5d087"
+    },
+    {
       "name": "flintbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91179d1152d09f74dd96d220626db1dd64dd8da6",
-      "mtime": "1655760513",
-      "size": "7526",
-      "md5": "1e0e2f718104f71c6e8f0494e8377059",
-      "crc32": "c3caee45",
-      "sha1": "e443c9bf194f0235b272b3c4db4e8ed0afae1c3b",
+      "btih": "bdcb65f272e9def44f01aede0fbee0125a59b3f0",
+      "mtime": "1656004592",
+      "size": "16595",
+      "md5": "6e2770e85b20b1ac88cb4c320f8c0353",
+      "crc32": "9c46a181",
+      "sha1": "3a6511a992aa083c990c935467fb316e6f086798",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flintbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e19b2feecd4e8ebefd4ac138cdc9c51a",
+      "md5": "f125cfc11d5547f2ea7f989e56a65025",
       "summation": "md5"
     },
     {
       "name": "flintbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760456",
-      "size": "49152",
-      "md5": "1c43f2bb16bdda7bfc5531690d86e944",
-      "crc32": "bc802c9e",
-      "sha1": "c4f5beb1cdf09485f801573d7ecf10135d801efe",
+      "mtime": "1656004543",
+      "size": "94208",
+      "md5": "0ac1c6f6751cfc1a9661b9cac9210366",
+      "crc32": "0c55ff10",
+      "sha1": "dc4ae80e32d609095fb9109813f7f0415c6ed206",
       "format": "Metadata"
     },
     {
@@ -348,7 +800,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
+  "files_count": 76,
   "flintbeat-2022": [
     {
       "text": "Donate",
@@ -536,7 +988,63 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/crossover-outreach-breaks-ground-on-new-building-in-flint-to-better-serve-residents/"
+      "url": "https://flintbeat.com/flints-smooth-steppers-invites-residents-to-come-out-and-dance/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tCommunity\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/community/"
+    },
+    {
+      "text": "Flint\u2019s Smooth Steppers invites residents to come out and dance",
+      "url": "https://flintbeat.com/flints-smooth-steppers-invites-residents-to-come-out-and-dance/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "Amy Diaz",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/two-nonprofits-partner-to-bring-walk-up-food-pantry-to-flints-west-side/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tCommunity\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/community/"
+    },
+    {
+      "text": "Two nonprofits partner to bring walk-up food pantry to Flint\u2019s west side",
+      "url": "https://flintbeat.com/two-nonprofits-partner-to-bring-walk-up-food-pantry-to-flints-west-side/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tFlint Briefs\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/flint-briefs/"
+    },
+    {
+      "text": "Job fair to be held in Flint on June 21",
+      "url": "https://flintbeat.com/job-fair-to-be-held-in-flint-on-june-21/"
+    },
+    {
+      "text": "Flint Beat",
+      "url": "https://flintbeat.com/author/flintbeat/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tCommunity\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/community/"
+    },
+    {
+      "text": "Flint\u2019s Juneteenth celebrations bring parades, music, parties across the city",
+      "url": "https://flintbeat.com/flints-juneteenth-celebrations-bring-parades-music-parties-across-the-city/"
+    },
+    {
+      "text": "Michael Indriolo",
+      "url": "https://flintbeat.com/author/mindriolo/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\tCommunity\t\t\t\t\t\t\t\t\t\t\t",
@@ -547,64 +1055,8 @@
       "url": "https://flintbeat.com/crossover-outreach-breaks-ground-on-new-building-in-flint-to-better-serve-residents/"
     },
     {
-      "text": "",
-      "url": "https://flintbeat.com/author/flintbeat/"
-    },
-    {
       "text": "Flint Beat",
       "url": "https://flintbeat.com/author/flintbeat/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/oil-based-substance-in-flint-river-now-nearing-3x-amount-collected-initially/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tHealth\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/category/health/"
-    },
-    {
-      "text": "Oil-based substance in Flint River now nearing 3x amount collected initially",
-      "url": "https://flintbeat.com/oil-based-substance-in-flint-river-now-nearing-3x-amount-collected-initially/"
-    },
-    {
-      "text": "Kate Stockrahm",
-      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tEconomic Development\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/category/economic-development/"
-    },
-    {
-      "text": "Flint Board of Ed. votes to sell 13 vacant school properties, potentially more",
-      "url": "https://flintbeat.com/flint-board-of-ed-votes-to-sell-13-vacant-school-properties-potentially-more/"
-    },
-    {
-      "text": "Kate Stockrahm",
-      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tCommunity\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/category/community/"
-    },
-    {
-      "text": "Flint-area residents cool off during summer heat wave",
-      "url": "https://flintbeat.com/flint-area-residents-cool-off-during-summer-heat-wave/"
-    },
-    {
-      "text": "Michael Indriolo",
-      "url": "https://flintbeat.com/author/mindriolo/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tFlint City Hall\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/category/flint-city-hall/"
-    },
-    {
-      "text": "\u2018Where are the details?\u2019 asks councilman of Flint Mayor\u2019s proposed draft to spend millions in ARPA funds",
-      "url": "https://flintbeat.com/where-are-the-details-asks-councilman-of-flint-mayors-proposed-draft-to-spend-millions-in-arpa-funds/"
-    },
-    {
-      "text": "Jiquanda Johnson",
-      "url": "https://flintbeat.com/author/editor/"
     },
     {
       "text": "Proposed resolution would require Flint City Council approval for COVID-19 relief spending",
@@ -637,6 +1089,10 @@
     {
       "text": "Flint Beat",
       "url": "https://flintbeat.com/author/flintbeat/"
+    },
+    {
+      "text": "Or make a one-time donation.",
+      "url": "https://pico.link/flintbeat?short_code=r7xr3m4r"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -735,10 +1191,6 @@
       "url": "https://flintbeat.com/flint-city-council-to-host-community-forum-to-discuss-covid-relief-march-19/"
     },
     {
-      "text": "View the autosave",
-      "url": "https://flintbeat.com/wp-admin/revision.php?revision=14012"
-    },
-    {
       "text": "",
       "url": "https://www.youtube.com/watch?v=Z7Vb1QaBaUM"
     },
@@ -749,6 +1201,70 @@
     {
       "text": "",
       "url": "https://www.youtube.com/watch?v=7M2jlKalI5A"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/oil-based-substance-in-flint-river-now-nearing-3x-amount-collected-initially/"
+    },
+    {
+      "text": "Oil-based substance in Flint River now nearing 3x amount collected initially",
+      "url": "https://flintbeat.com/oil-based-substance-in-flint-river-now-nearing-3x-amount-collected-initially/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-board-of-ed-votes-to-sell-13-vacant-school-properties-potentially-more/"
+    },
+    {
+      "text": "Flint Board of Ed. votes to sell 13 vacant school properties, potentially more",
+      "url": "https://flintbeat.com/flint-board-of-ed-votes-to-sell-13-vacant-school-properties-potentially-more/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-area-residents-cool-off-during-summer-heat-wave/"
+    },
+    {
+      "text": "Flint-area residents cool off during summer heat wave",
+      "url": "https://flintbeat.com/flint-area-residents-cool-off-during-summer-heat-wave/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/mindriolo/"
+    },
+    {
+      "text": "Michael Indriolo",
+      "url": "https://flintbeat.com/author/mindriolo/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/where-are-the-details-asks-councilman-of-flint-mayors-proposed-draft-to-spend-millions-in-arpa-funds/"
+    },
+    {
+      "text": "\u2018Where are the details?\u2019 asks councilman of Flint Mayor\u2019s proposed draft to spend millions in ARPA funds",
+      "url": "https://flintbeat.com/where-are-the-details-asks-councilman-of-flint-mayors-proposed-draft-to-spend-millions-in-arpa-funds/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/editor/"
+    },
+    {
+      "text": "Jiquanda Johnson",
+      "url": "https://flintbeat.com/author/editor/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -773,78 +1289,6 @@
     {
       "text": "Flint City Council, Mayor recognize June as \u2018LGBTQ+ Pride Month\u2019",
       "url": "https://flintbeat.com/flint-city-council-mayor-recognize-june-as-lgbtq-pride-month/"
-    },
-    {
-      "text": "",
-      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
-    },
-    {
-      "text": "Kate Stockrahm",
-      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/heres-a-round-up-of-flints-juneteenth-events/"
-    },
-    {
-      "text": "Here\u2019s a round-up of Flint\u2019s Juneteenth events",
-      "url": "https://flintbeat.com/heres-a-round-up-of-flints-juneteenth-events/"
-    },
-    {
-      "text": "",
-      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
-    },
-    {
-      "text": "Kate Stockrahm",
-      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/flint-mayor-collaborates-with-genesee-county-prosecutor-for-witness-protection-program/"
-    },
-    {
-      "text": "Flint Mayor collaborates with Genesee County Prosecutor for witness protection program",
-      "url": "https://flintbeat.com/flint-mayor-collaborates-with-genesee-county-prosecutor-for-witness-protection-program/"
-    },
-    {
-      "text": "",
-      "url": "https://flintbeat.com/author/amy-diaz/"
-    },
-    {
-      "text": "",
-      "url": "https://flintbeat.com/author/editor/"
-    },
-    {
-      "text": "Amy Diaz",
-      "url": "https://flintbeat.com/author/amy-diaz/"
-    },
-    {
-      "text": "Jiquanda Johnson",
-      "url": "https://flintbeat.com/author/editor/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/city-council-to-reconsider-resolution-recognizing-june-as-lgbtq-pride-month/"
-    },
-    {
-      "text": "Flint City Council to reconsider resolution recognizing June as \u2018LGBTQ+ Pride Month\u2019",
-      "url": "https://flintbeat.com/city-council-to-reconsider-resolution-recognizing-june-as-lgbtq-pride-month/"
-    },
-    {
-      "text": "",
-      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
-    },
-    {
-      "text": "Kate Stockrahm",
-      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://flintbeat.com/mta-receives-260k-for-study-to-improve-route-designs-in-flint-area/"
-    },
-    {
-      "text": "MTA receives $260k for study to improve route designs in Flint area",
-      "url": "https://flintbeat.com/mta-receives-260k-for-study-to-improve-route-designs-in-flint-area/"
     },
     {
       "text": "",
@@ -1231,6 +1675,10 @@
       "url": "https://flintbeat.com/first-friday-event-series-returns-to-downtown-flint-for-the-summer/"
     },
     {
+      "text": "Or make a one-time donation.",
+      "url": "https://pico.link/flintbeat?short_code=r7xr3m4r"
+    },
+    {
       "text": "",
       "url": "https://flintbeat.com/"
     },
@@ -1255,8 +1703,8 @@
       "url": "https://newspack.pub/"
     }
   ],
-  "item_last_updated": 1655760513,
-  "item_size": 1931034,
+  "item_last_updated": 1656004592,
+  "item_size": 4749667,
   "metadata": {
     "identifier": "flintbeat-2022",
     "collection": [
@@ -1273,10 +1721,10 @@
     "publicdate": "2022-06-19 23:24:22",
     "addeddate": "2022-06-19 23:24:22"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 904732791,
+  "server": "ia801509.us.archive.org",
+  "uniq": 880873926,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

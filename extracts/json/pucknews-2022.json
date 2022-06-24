@@ -1,5 +1,5 @@
 {
-  "created": 1655770845,
+  "created": 1656025027,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/pucknews-2022",
@@ -646,31 +646,493 @@
       "sha1": "6c0388a91a23c52f53c8fc4ec7c76356670481c4"
     },
     {
+      "name": "pucknews-2022-06-20T21:34:32.293196-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775275",
+      "size": "15290",
+      "md5": "dc2f49292cef269a95aefc4663923803",
+      "crc32": "09fe8121",
+      "sha1": "2dfd674cf49c8f55d81654aedfd453058adb0b4a",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-20T21:34:32.293196-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775277",
+      "size": "11845",
+      "md5": "600e8ca9242d2d566280680053664849",
+      "crc32": "76d29e69",
+      "sha1": "c7aad245d4cd938ae62c8fde41a3cd38acd26a88",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-20T21:34:32.293196-04:00.jpg",
+      "source": "original",
+      "mtime": "1655775273",
+      "size": "158285",
+      "md5": "a76cb7fd3bb8cac9321140ad03826532",
+      "crc32": "c030ccfd",
+      "sha1": "b4dd896d80dfda847e46ecc53f9ed30d2f5e1549",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-20T21:34:32.293196-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-20T21:34:32.293196-04:00.jpg",
+      "mtime": "1655775324",
+      "size": "7976",
+      "md5": "bbd9406e01690bc08133b9496e191257",
+      "crc32": "58483d84",
+      "sha1": "637ad96236ad2735227c2a520943df1f7c6cbdc7"
+    },
+    {
+      "name": "pucknews-2022-06-21T01:28:56.818045-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789339",
+      "size": "15290",
+      "md5": "dc2f49292cef269a95aefc4663923803",
+      "crc32": "09fe8121",
+      "sha1": "2dfd674cf49c8f55d81654aedfd453058adb0b4a",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T01:28:56.818045-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789341",
+      "size": "11845",
+      "md5": "600e8ca9242d2d566280680053664849",
+      "crc32": "76d29e69",
+      "sha1": "c7aad245d4cd938ae62c8fde41a3cd38acd26a88",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T01:28:56.818045-04:00.jpg",
+      "source": "original",
+      "mtime": "1655789338",
+      "size": "158285",
+      "md5": "a76cb7fd3bb8cac9321140ad03826532",
+      "crc32": "c030ccfd",
+      "sha1": "b4dd896d80dfda847e46ecc53f9ed30d2f5e1549",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-21T01:28:56.818045-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-21T01:28:56.818045-04:00.jpg",
+      "mtime": "1655789418",
+      "size": "7976",
+      "md5": "bbd9406e01690bc08133b9496e191257",
+      "crc32": "58483d84",
+      "sha1": "637ad96236ad2735227c2a520943df1f7c6cbdc7"
+    },
+    {
+      "name": "pucknews-2022-06-21T08:31:06.871352-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814669",
+      "size": "15290",
+      "md5": "dc2f49292cef269a95aefc4663923803",
+      "crc32": "09fe8121",
+      "sha1": "2dfd674cf49c8f55d81654aedfd453058adb0b4a",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T08:31:06.871352-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814671",
+      "size": "11845",
+      "md5": "600e8ca9242d2d566280680053664849",
+      "crc32": "76d29e69",
+      "sha1": "c7aad245d4cd938ae62c8fde41a3cd38acd26a88",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T08:31:06.871352-04:00.jpg",
+      "source": "original",
+      "mtime": "1655814668",
+      "size": "158285",
+      "md5": "a76cb7fd3bb8cac9321140ad03826532",
+      "crc32": "c030ccfd",
+      "sha1": "b4dd896d80dfda847e46ecc53f9ed30d2f5e1549",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-21T08:31:06.871352-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-21T08:31:06.871352-04:00.jpg",
+      "mtime": "1655814795",
+      "size": "7976",
+      "md5": "bbd9406e01690bc08133b9496e191257",
+      "crc32": "58483d84",
+      "sha1": "637ad96236ad2735227c2a520943df1f7c6cbdc7"
+    },
+    {
+      "name": "pucknews-2022-06-21T09:55:16.765821-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819720",
+      "size": "15290",
+      "md5": "dc2f49292cef269a95aefc4663923803",
+      "crc32": "09fe8121",
+      "sha1": "2dfd674cf49c8f55d81654aedfd453058adb0b4a",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T09:55:16.765821-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819721",
+      "size": "11845",
+      "md5": "600e8ca9242d2d566280680053664849",
+      "crc32": "76d29e69",
+      "sha1": "c7aad245d4cd938ae62c8fde41a3cd38acd26a88",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T09:55:16.765821-04:00.jpg",
+      "source": "original",
+      "mtime": "1655819718",
+      "size": "158285",
+      "md5": "a76cb7fd3bb8cac9321140ad03826532",
+      "crc32": "c030ccfd",
+      "sha1": "b4dd896d80dfda847e46ecc53f9ed30d2f5e1549",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-21T09:55:16.765821-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-21T09:55:16.765821-04:00.jpg",
+      "mtime": "1655819800",
+      "size": "7976",
+      "md5": "bbd9406e01690bc08133b9496e191257",
+      "crc32": "58483d84",
+      "sha1": "637ad96236ad2735227c2a520943df1f7c6cbdc7"
+    },
+    {
+      "name": "pucknews-2022-06-21T13:17:28.566841-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831852",
+      "size": "15306",
+      "md5": "d75ed9426a02960ee916a72e4e2cb64b",
+      "crc32": "c33cd7c9",
+      "sha1": "78acadeda4cd1fb2138626c155c53a37ad910022",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T13:17:28.566841-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831857",
+      "size": "11875",
+      "md5": "59cf15d944f986883737abc974c4d4fa",
+      "crc32": "8d32b300",
+      "sha1": "57590b9121b4eb500b441d5978d6f01dff224568",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T13:17:28.566841-04:00.jpg",
+      "source": "original",
+      "mtime": "1655831850",
+      "size": "159031",
+      "md5": "21e17cf472e0aa90fab6ab81135309bf",
+      "crc32": "aa5c8f4d",
+      "sha1": "2c31819087c5184cd0b8980db7ebecc7b3e29586",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-21T13:17:28.566841-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-21T13:17:28.566841-04:00.jpg",
+      "mtime": "1655831933",
+      "size": "7981",
+      "md5": "ddb50f7c09c6ec57cffce38eb93e89f5",
+      "crc32": "7373c3ef",
+      "sha1": "89fd0e30f233b2e0af6fdc3aa9ccdca0764aa376"
+    },
+    {
+      "name": "pucknews-2022-06-21T21:26:22.632885-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861186",
+      "size": "15101",
+      "md5": "dbdb070424841cd99bc02fe663061794",
+      "crc32": "0887a5e1",
+      "sha1": "ec28ed77dc66e4dedaf0f4023ad5454816e25b40",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T21:26:22.632885-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861188",
+      "size": "11833",
+      "md5": "d5ad1538d1a9f3f204e51e69e127879d",
+      "crc32": "599b1d3e",
+      "sha1": "f152480363dd02990925cc0742a108a0c205af65",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-21T21:26:22.632885-04:00.jpg",
+      "source": "original",
+      "mtime": "1655861184",
+      "size": "164857",
+      "md5": "9a197d6c59e75e4c8d41c968e0476714",
+      "crc32": "2a5b2500",
+      "sha1": "2b9066995f9650683e76d6309fcbd8359939e6b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-21T21:26:22.632885-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-21T21:26:22.632885-04:00.jpg",
+      "mtime": "1655861369",
+      "size": "8262",
+      "md5": "18ad0a9c837eb082f18787cd7b141496",
+      "crc32": "eb5c5b21",
+      "sha1": "4d482c016d73dfaa8768b66195ce5212a5c02a15"
+    },
+    {
+      "name": "pucknews-2022-06-22T05:18:17.099300-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889501",
+      "size": "15101",
+      "md5": "dbdb070424841cd99bc02fe663061794",
+      "crc32": "0887a5e1",
+      "sha1": "ec28ed77dc66e4dedaf0f4023ad5454816e25b40",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-22T05:18:17.099300-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889503",
+      "size": "11833",
+      "md5": "d5ad1538d1a9f3f204e51e69e127879d",
+      "crc32": "599b1d3e",
+      "sha1": "f152480363dd02990925cc0742a108a0c205af65",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-22T05:18:17.099300-04:00.jpg",
+      "source": "original",
+      "mtime": "1655889499",
+      "size": "163921",
+      "md5": "dbf68400a60b37922e558e9a9a46d271",
+      "crc32": "8e3083b8",
+      "sha1": "df5f5eb2a927b61d084760c09d0b96c68112fca1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-22T05:18:17.099300-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-22T05:18:17.099300-04:00.jpg",
+      "mtime": "1655889552",
+      "size": "8258",
+      "md5": "ea5757957c0b6efae0b5575cc01c3e72",
+      "crc32": "29b99254",
+      "sha1": "4766aaf76d69a821b8ca8cdff427b5cc1a20a2eb"
+    },
+    {
+      "name": "pucknews-2022-06-22T13:32:33.118047-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919157",
+      "size": "15102",
+      "md5": "c70768ae718ed485e37fc51e368a3f39",
+      "crc32": "4e91573b",
+      "sha1": "18aade3ae80b25d8c83314e6cf30792a16eda9b6",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-22T13:32:33.118047-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919159",
+      "size": "11840",
+      "md5": "d68ce053df90756aee52903e08c54e84",
+      "crc32": "a4b394c3",
+      "sha1": "e18798c1c6a79db8ceafc4ab1eef947d4a9d85e5",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-22T13:32:33.118047-04:00.jpg",
+      "source": "original",
+      "mtime": "1655919155",
+      "size": "164301",
+      "md5": "7fc5c1b93d39f1edb9e060bcbec52729",
+      "crc32": "66c05089",
+      "sha1": "c62f2313220fabdb340167478917c4a1ff89108f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-22T13:32:33.118047-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-22T13:32:33.118047-04:00.jpg",
+      "mtime": "1655919203",
+      "size": "8276",
+      "md5": "9c5f21c43375d6cd161e3a82fdb4c9d1",
+      "crc32": "52c17f5f",
+      "sha1": "edb1e1dbcbf8a874a3961177fa0edfe90605c57b"
+    },
+    {
+      "name": "pucknews-2022-06-22T21:27:42.018195-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947666",
+      "size": "15109",
+      "md5": "8a08e8e368332bbcaafa3e134c1cd530",
+      "crc32": "39624512",
+      "sha1": "372c3fa89aba6228994dfa108c64d3b0bc9c75d9",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-22T21:27:42.018195-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947669",
+      "size": "11852",
+      "md5": "782f17034c04bac2ba8a545ad399788f",
+      "crc32": "8810724d",
+      "sha1": "732ae33b5f60f961503899386347b8b9cd409fba",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-22T21:27:42.018195-04:00.jpg",
+      "source": "original",
+      "mtime": "1655947664",
+      "size": "165995",
+      "md5": "beaefdeb5814a27e8fca156132cf1884",
+      "crc32": "4540c339",
+      "sha1": "4e5b31b9dcba15af390b24a8079ffccb9bdc26af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-22T21:27:42.018195-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-22T21:27:42.018195-04:00.jpg",
+      "mtime": "1655947714",
+      "size": "8280",
+      "md5": "052c85db5377b051326cb87e6922fd62",
+      "crc32": "9e73d614",
+      "sha1": "c3c8e25c290e378f653f8e68e55cc628762b49b9"
+    },
+    {
+      "name": "pucknews-2022-06-23T05:20:28.035030-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976030",
+      "size": "15109",
+      "md5": "8a08e8e368332bbcaafa3e134c1cd530",
+      "crc32": "39624512",
+      "sha1": "372c3fa89aba6228994dfa108c64d3b0bc9c75d9",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-23T05:20:28.035030-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976031",
+      "size": "11778",
+      "md5": "341582f53b6f06b039a0f76fe00bc867",
+      "crc32": "30f7a57c",
+      "sha1": "9fd89e470a6cf958150f917e2ded1135fc5211f7",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-23T05:20:28.035030-04:00.jpg",
+      "source": "original",
+      "mtime": "1655976029",
+      "size": "165995",
+      "md5": "beaefdeb5814a27e8fca156132cf1884",
+      "crc32": "4540c339",
+      "sha1": "4e5b31b9dcba15af390b24a8079ffccb9bdc26af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-23T05:20:28.035030-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-23T05:20:28.035030-04:00.jpg",
+      "mtime": "1655976075",
+      "size": "8280",
+      "md5": "052c85db5377b051326cb87e6922fd62",
+      "crc32": "9e73d614",
+      "sha1": "c3c8e25c290e378f653f8e68e55cc628762b49b9"
+    },
+    {
+      "name": "pucknews-2022-06-23T13:19:38.762340-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004785",
+      "size": "15379",
+      "md5": "4a66017ec93a7fa4d1206d6af9b484a8",
+      "crc32": "1d8bbc5e",
+      "sha1": "ece752afb1cb14b8bd9c0a6bf896be58069b40aa",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-23T13:19:38.762340-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004786",
+      "size": "11978",
+      "md5": "2dfe2a405148ced3615de4c70d2c9118",
+      "crc32": "5a6104b3",
+      "sha1": "16d16d02ec0cf311b1ea1be9e254f232250791f0",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-06-23T13:19:38.762340-04:00.jpg",
+      "source": "original",
+      "mtime": "1656004780",
+      "size": "171338",
+      "md5": "28eedddbaf7e60bf6bae3530cc890289",
+      "crc32": "39424549",
+      "sha1": "09c09c6aea0d0f537f89caf557e9464ff3e3839f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-06-23T13:19:38.762340-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-06-23T13:19:38.762340-04:00.jpg",
+      "mtime": "1656004837",
+      "size": "8350",
+      "md5": "a852fd94c0937a3619c83e0407a7e5c0",
+      "crc32": "54bfe28a",
+      "sha1": "1a113f312160cc96fdd3f9b8b73ca114aaff787c"
+    },
+    {
       "name": "pucknews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5c8715a28d16a6b9d05f68d63b0d11f77346ffd",
-      "mtime": "1655760924",
-      "size": "14162",
-      "md5": "2f523da692c74d540d4908aec681d205",
-      "crc32": "fcd9942a",
-      "sha1": "00b7d2ca200673cb011efc24638b6d150c5ffc8b",
+      "btih": "4d7e46902a97b77e50564af5d7a14fe6e7de38da",
+      "mtime": "1656004842",
+      "size": "23382",
+      "md5": "2cda540c7545a499fcbed2c990a8470c",
+      "crc32": "24de317f",
+      "sha1": "0ab6b5d1b81c63f2a04c6ebbb0b8d22b5b0c43b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pucknews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7327873bb3cea05e2b40d612fd2ee3cf",
+      "md5": "46bc51a53a65752e6cb1006f23612f46",
       "summation": "md5"
     },
     {
       "name": "pucknews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760867",
-      "size": "81920",
-      "md5": "9a3947f78a0b69ac84bcbfa9805d9c3b",
-      "crc32": "efced677",
-      "sha1": "cb2db7f7950b963660ac2eb322f711008c875d03",
+      "mtime": "1656004791",
+      "size": "143360",
+      "md5": "526d3995e2952958029c8b64e3a74a2a",
+      "crc32": "13437747",
+      "sha1": "8b78cf81b182b1d81d9eb1c62e4aaa3bada5efb0",
       "format": "Metadata"
     },
     {
@@ -684,9 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1655760924,
-  "item_size": 3158545,
+  "files_count": 109,
+  "item_last_updated": 1656004842,
+  "item_size": 5405110,
   "metadata": {
     "identifier": "pucknews-2022",
     "collection": [
@@ -703,236 +1165,10 @@
     "publicdate": "2022-06-18 17:10:26",
     "addeddate": "2022-06-18 17:10:26"
   },
-  "pucknews-2022": [
-    {
-      "text": "HOLLYWOOD",
-      "url": "https://puck.news/category/hollywood/"
-    },
-    {
-      "text": "WALL STREET",
-      "url": "https://puck.news/category/wall-street/"
-    },
-    {
-      "text": "SILICON VALLEY",
-      "url": "https://puck.news/category/silicon-valley/"
-    },
-    {
-      "text": "WASHINGTON",
-      "url": "https://puck.news/category/washington/"
-    },
-    {
-      "text": "\n                      \n                      Eriq Gardner\n                    ",
-      "url": "https://puck.news/author/eriq-gardner/"
-    },
-    {
-      "text": "\n                      \n                      William D. Cohan\n                    ",
-      "url": "https://puck.news/author/william-cohan/"
-    },
-    {
-      "text": "\n                      \n                      Dylan Byers\n                    ",
-      "url": "https://puck.news/author/dylan-byers/"
-    },
-    {
-      "text": "Join Puck",
-      "url": "https://puck.news/subscribe/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://puck.news/newsletters/"
-    },
-    {
-      "text": "Authors",
-      "url": "https://puck.news/authors/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://puck.news/podcasts/"
-    },
-    {
-      "text": "\n                      ",
-      "url": "https://puck.news/"
-    },
-    {
-      "text": "\n                                ",
-      "url": "https://puck.news/"
-    },
-    {
-      "text": "Join Puck",
-      "url": "https://puck.news/subscribe/"
-    },
-    {
-      "text": "\n          \n            The Times vs. Twitter, Round Two\n          \n\n          \n            \n              \n                \n              \n            \n\n            \n              \n                                  \n                    \n                  \n                  \n                    Eriq Gardner\n                    \n                  \n                              \n\n              Some of America\u2019s most august media companies are struggling to get reporters off social media, where advocacy and backbiting have become a reputational risk. A series of legal tests could make that much harder. \n              READ FULL STORY\n            \n          \n        ",
-      "url": "https://puck.news/the-times-vs-twitter-round-two/"
-    },
-    {
-      "text": "\n                  \n                    David T. Friendly\n                                        \u2022\n                    June 19, 2022\n                  \n\n                  Hollywood Was Never This Rude\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      I first heard the term \u201cghosted\u201d when my kids started dating. Happily married for 30 years, I don\u2019t have to experience that indignity. But, in this business, it\u2019s been happening to me more frequently than I would like or expect\u2014and I know I\u2019m not alone.\u00a0\u00a0 Recently, I pitched a four-part docuseries on the rise and [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
-      "url": "https://puck.news/hollywood-was-never-this-rude/"
-    },
-    {
-      "text": "MORE HOLLYWOOD STORIES",
-      "url": "https://puck.news/category/hollywood/"
-    },
-    {
-      "text": "\n                  \n                    Theodore Schleifer\n                                        \u2022\n                    June 14, 2022\n                  \n\n                  S.B.F.\u2019s Media Dreams\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      Crypto winter has come for Silicon Valley. Bitcoin has fallen below $23,000, the lowest level since 2020, and crypto lender Celsius just froze withdrawals, citing \u201cextreme market conditions,\u201d shortly after another crypto ecosystem, Terra-Luna, also collapsed. Some $2 trillion in crypto market value has evaporated since last November. Coinbase C.E.O. Brian Armstrong is laying off [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
-      "url": "https://puck.news/s-b-f-s-media-dreams/"
-    },
-    {
-      "text": "MORE SILICON VALLEY STORIES",
-      "url": "https://puck.news/category/silicon-valley/"
-    },
-    {
-      "text": "\n                  \n                    William D. Cohan\n                                        \u2022\n                    June 19, 2022\n                  \n\n                  Elon Agonistes & the Bull Case for Crypto\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      On Thursday, Elon Musk convened Twitter employees for a virtual town hall to discuss his pending takeover of the company, which he agreed to purchase for $44 billion in April. Since then, of course, he has careened publicly through extreme optimism about Twitter\u2019s financial future, promising to triple ad revenue; extraordinary contempt for its employees [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
-      "url": "https://puck.news/elon-agonistes-the-bull-case-for-crypto/"
-    },
-    {
-      "text": "MORE WALL STREET STORIES",
-      "url": "https://puck.news/category/wall-street/"
-    },
-    {
-      "text": "\n                  \n                    Tara Palmeri\n                                        \u2022\n                    June 16, 2022\n                  \n\n                  The Biden Bubble\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      Earlier this month, Adam Schiff, the Democratic congressman and January 6 Commission supporting actor, offered some candid criticism of his big boss, Joe Biden. Schiff was attending a D.C.C.C. fundraiser in Charleston, hosted by Donna and Randy Friedman and Ned Brown, during another leg of his nation-wide tour that Punchbowl described as an attempt to [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
-      "url": "https://puck.news/the-biden-bubble/"
-    },
-    {
-      "text": "MORE WASHINGTON STORIES",
-      "url": "https://puck.news/category/washington/"
-    },
-    {
-      "text": "\n          \n            William D. Cohan\n          \n          \u2022\n          June 19, 2022\n          Bob & Shari\u2019s Sun Valley Winter\n        ",
-      "url": "https://puck.news/bob-sharis-sun-valley-winter/"
-    },
-    {
-      "text": "\n          \n            Tara Palmeri\n          \n          \u2022\n          June 16, 2022\n          The Biden Bubble\n        ",
-      "url": "https://puck.news/the-biden-bubble/"
-    },
-    {
-      "text": "\n          \n            Dylan Byers\n          \n          \u2022\n          June 17, 2022\n          Zaz & His Ax Man\n        ",
-      "url": "https://puck.news/zaz-his-ax-man/"
-    },
-    {
-      "text": "listen To Our Podcasts",
-      "url": "https://puck.news/podcasts/"
-    },
-    {
-      "text": "\n            Baratunde Thurston\n            A best-selling author, podcast and television host, and cultural critic focused on the intersection of race, tech, democracy, and climate change in America.\n          ",
-      "url": "https://puck.news/author/baratunde-thurston/"
-    },
-    {
-      "text": "\n            Dylan Byers\n            A veteran media reporter who has served at NBC News, CNN, and Politico, reporting on the business of media, technology, and entertainment.\n          ",
-      "url": "https://puck.news/author/dylan-byers/"
-    },
-    {
-      "text": "\n            Eriq Gardner\n            Former legal editor-at-large at The Hollywood Reporter; now Founding Partner and National Correspondent for Puck, reporting on the intersection of law, media, Hollywood, and Wall Street.\n          ",
-      "url": "https://puck.news/author/eriq-gardner/"
-    },
-    {
-      "text": "\n            Julia Ioffe\n            A veteran of The Atlantic, The New Yorker, and Politico reporting from Washington, D.C. on politics and media after Trump.\n          ",
-      "url": "https://puck.news/author/julia-ioffe/"
-    },
-    {
-      "text": "\n            Matthew Belloni\n            Formerly the editor of The Hollywood Reporter, and an entertainment lawyer, Belloni covers the inside conversation about money and power in Hollywood.\n          ",
-      "url": "https://puck.news/author/matthew-belloni/"
-    },
-    {
-      "text": "\n            Peter Hamby\n            Emmy award-winning journalist and host of Snapchat\u2019s Good Luck America, reporting on politics, media, and technology.\n          ",
-      "url": "https://puck.news/author/peter-hamby/"
-    },
-    {
-      "text": "\n            Tara Palmeri\n            A former Playbook lead author and ABC News White House Correspondent, now reporting on the convergence of Capitol Hill, K Street, the West Wing, and the D.C. media companies who cover it all.\n          ",
-      "url": "https://puck.news/author/tara-palmeri/"
-    },
-    {
-      "text": "\n            Theodore Schleifer\n            A former Recode and CNN reporter, now covering power, influence, and money in Silicon Valley.\n          ",
-      "url": "https://puck.news/author/theodore-schleifer/"
-    },
-    {
-      "text": "\n            Tina Nguyen\n            Formerly a political correspondent at Politico and Vanity Fair, chronicling the egos and intrigues inside Trumpworld.\n          ",
-      "url": "https://puck.news/author/tina-nguyen/"
-    },
-    {
-      "text": "\n            William D. Cohan\n            A bestselling author, financial journalist, and former M&A banker, covering what\u2019s really happening on Wall Street.\n          ",
-      "url": "https://puck.news/author/william-cohan/"
-    },
-    {
-      "text": "\n              ",
-      "url": "https://puck.news/"
-    },
-    {
-      "text": "Terms",
-      "url": "https://puck.news/terms/"
-    },
-    {
-      "text": "Privacy",
-      "url": "https://puck.news/privacy/"
-    },
-    {
-      "text": "Contact",
-      "url": "https://puck.news/contact/"
-    },
-    {
-      "text": "FAQ",
-      "url": "https://puck.news/faq"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/puckdotnews/"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/PuckNews"
-    },
-    {
-      "text": "\n\n\n\n\t\n\t\n\t\n\n",
-      "url": "https://www.instagram.com/puckdotnews/"
-    },
-    {
-      "text": "",
-      "url": "https://www.linkedin.com/company/pucknews"
-    },
-    {
-      "text": "I DID NOT RECEIVE A LINK",
-      "url": "mailto:fritz@puck.news"
-    },
-    {
-      "text": "try again",
-      "url": ""
-    },
-    {
-      "text": "fritz@puck.news",
-      "url": "mailto:fritz@puck.news"
-    },
-    {
-      "text": "\n                  \n                    \n                  \n                  Sign Up with Google\n                ",
-      "url": "/wp-login.php?redirect_to=%2F&connection=google-oauth2"
-    },
-    {
-      "text": "\n                  \n                    \n                  \n                  Sign Up with Apple\n                ",
-      "url": "/wp-login.php?redirect_to=%2F&connection=apple"
-    },
-    {
-      "text": "I DID NOT RECEIVE A LINK",
-      "url": "mailto:fritz@puck.news"
-    },
-    {
-      "text": "try again",
-      "url": ""
-    },
-    {
-      "text": "fritz@puck.news",
-      "url": "mailto:fritz@puck.news"
-    },
-    {
-      "text": "\n                      \n                        \n                      \n                      Sign in with Google\n                    ",
-      "url": "/wp-login.php?redirect_to=%2F&connection=google-oauth2"
-    },
-    {
-      "text": "\n                      \n                        \n                      \n                      Sign in with Apple\n                    ",
-      "url": "/wp-login.php?redirect_to=%2F&connection=apple"
-    }
-  ],
-  "server": "ia802501.us.archive.org",
-  "uniq": 478325909,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1882026626,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

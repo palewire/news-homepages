@@ -1,5 +1,5 @@
 {
-  "created": 1655761062,
+  "created": 1656030221,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/27/items/thecityny-2022",
@@ -310,31 +310,493 @@
       "sha1": "0bd5a477946c9a5a022de9940ca72c235b560ff1"
     },
     {
+      "name": "thecityny-2022-06-20T21:36:05.075357-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775369",
+      "size": "31020",
+      "md5": "3512e312c03860543bc418c0a7b8eb55",
+      "crc32": "6024a2cd",
+      "sha1": "add4659e8e9500c7989eff36639c2ae0f557eccd",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-20T21:36:05.075357-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775371",
+      "size": "38271",
+      "md5": "ea11aa4b558bf114dd987f3cdf151c3b",
+      "crc32": "90cdcec9",
+      "sha1": "680a191b5ccf5112fd98b34ec507dff271ed6e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-20T21:36:05.075357-04:00.jpg",
+      "source": "original",
+      "mtime": "1655775366",
+      "size": "246781",
+      "md5": "05fb183f895157ec4819a4ce7a7f088f",
+      "crc32": "aff6452d",
+      "sha1": "ead24d8bd4456984d6370d6be6bde1967234e504",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-20T21:36:05.075357-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-20T21:36:05.075357-04:00.jpg",
+      "mtime": "1655775458",
+      "size": "9046",
+      "md5": "6a11fb03b55f60da4fceab5d5a93c756",
+      "crc32": "471304f8",
+      "sha1": "0bd5a477946c9a5a022de9940ca72c235b560ff1"
+    },
+    {
+      "name": "thecityny-2022-06-21T01:30:44.845292-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789448",
+      "size": "31021",
+      "md5": "f67f40492458014aea4e6f2cf7d2bb70",
+      "crc32": "67aa5894",
+      "sha1": "a36a04be23395cd1bd100641501b9d405ff2e1be",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T01:30:44.845292-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789450",
+      "size": "38271",
+      "md5": "ea11aa4b558bf114dd987f3cdf151c3b",
+      "crc32": "90cdcec9",
+      "sha1": "680a191b5ccf5112fd98b34ec507dff271ed6e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T01:30:44.845292-04:00.jpg",
+      "source": "original",
+      "mtime": "1655789446",
+      "size": "246798",
+      "md5": "913442a1ce9b02935148f2028305e5f3",
+      "crc32": "28300f03",
+      "sha1": "03ee055ccef1e63ee0628d34c547cc9a5228c6d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-21T01:30:44.845292-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-21T01:30:44.845292-04:00.jpg",
+      "mtime": "1655789495",
+      "size": "9038",
+      "md5": "6bd591d37e2b4fa7c2b8574eb9255106",
+      "crc32": "499dedb8",
+      "sha1": "4479d535a6a6681478303577fa2aa844b06ce319"
+    },
+    {
+      "name": "thecityny-2022-06-21T08:37:03.371390-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655815026",
+      "size": "31021",
+      "md5": "f67f40492458014aea4e6f2cf7d2bb70",
+      "crc32": "67aa5894",
+      "sha1": "a36a04be23395cd1bd100641501b9d405ff2e1be",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T08:37:03.371390-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655815029",
+      "size": "38271",
+      "md5": "ea11aa4b558bf114dd987f3cdf151c3b",
+      "crc32": "90cdcec9",
+      "sha1": "680a191b5ccf5112fd98b34ec507dff271ed6e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T08:37:03.371390-04:00.jpg",
+      "source": "original",
+      "mtime": "1655815025",
+      "size": "246798",
+      "md5": "913442a1ce9b02935148f2028305e5f3",
+      "crc32": "28300f03",
+      "sha1": "03ee055ccef1e63ee0628d34c547cc9a5228c6d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-21T08:37:03.371390-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-21T08:37:03.371390-04:00.jpg",
+      "mtime": "1655815175",
+      "size": "9038",
+      "md5": "6bd591d37e2b4fa7c2b8574eb9255106",
+      "crc32": "499dedb8",
+      "sha1": "4479d535a6a6681478303577fa2aa844b06ce319"
+    },
+    {
+      "name": "thecityny-2022-06-21T09:58:10.190733-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819893",
+      "size": "31021",
+      "md5": "f67f40492458014aea4e6f2cf7d2bb70",
+      "crc32": "67aa5894",
+      "sha1": "a36a04be23395cd1bd100641501b9d405ff2e1be",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T09:58:10.190733-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819895",
+      "size": "38271",
+      "md5": "ea11aa4b558bf114dd987f3cdf151c3b",
+      "crc32": "90cdcec9",
+      "sha1": "680a191b5ccf5112fd98b34ec507dff271ed6e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T09:58:10.190733-04:00.jpg",
+      "source": "original",
+      "mtime": "1655819892",
+      "size": "246798",
+      "md5": "913442a1ce9b02935148f2028305e5f3",
+      "crc32": "28300f03",
+      "sha1": "03ee055ccef1e63ee0628d34c547cc9a5228c6d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-21T09:58:10.190733-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-21T09:58:10.190733-04:00.jpg",
+      "mtime": "1655819953",
+      "size": "9038",
+      "md5": "6bd591d37e2b4fa7c2b8574eb9255106",
+      "crc32": "499dedb8",
+      "sha1": "4479d535a6a6681478303577fa2aa844b06ce319"
+    },
+    {
+      "name": "thecityny-2022-06-21T13:18:39.268232-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831924",
+      "size": "31021",
+      "md5": "f67f40492458014aea4e6f2cf7d2bb70",
+      "crc32": "67aa5894",
+      "sha1": "a36a04be23395cd1bd100641501b9d405ff2e1be",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T13:18:39.268232-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831927",
+      "size": "38271",
+      "md5": "ea11aa4b558bf114dd987f3cdf151c3b",
+      "crc32": "90cdcec9",
+      "sha1": "680a191b5ccf5112fd98b34ec507dff271ed6e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T13:18:39.268232-04:00.jpg",
+      "source": "original",
+      "mtime": "1655831921",
+      "size": "246798",
+      "md5": "913442a1ce9b02935148f2028305e5f3",
+      "crc32": "28300f03",
+      "sha1": "03ee055ccef1e63ee0628d34c547cc9a5228c6d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-21T13:18:39.268232-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-21T13:18:39.268232-04:00.jpg",
+      "mtime": "1655831982",
+      "size": "9038",
+      "md5": "6bd591d37e2b4fa7c2b8574eb9255106",
+      "crc32": "499dedb8",
+      "sha1": "4479d535a6a6681478303577fa2aa844b06ce319"
+    },
+    {
+      "name": "thecityny-2022-06-21T21:26:59.440621-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861227",
+      "size": "31332",
+      "md5": "50e07486edd0d9bd3f130a91acf6fd69",
+      "crc32": "408323d7",
+      "sha1": "07e42f37c7a27fa63ce3bed809db6491e21d1c12",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T21:26:59.440621-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861230",
+      "size": "38219",
+      "md5": "b082da91dde107c978f3b14d58b7c645",
+      "crc32": "fe81e3dd",
+      "sha1": "4641590ffae778fc711f32fbf92d23818be73925",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-21T21:26:59.440621-04:00.jpg",
+      "source": "original",
+      "mtime": "1655861224",
+      "size": "229129",
+      "md5": "48d0fc300908cecc69f040d451ad552f",
+      "crc32": "a1587545",
+      "sha1": "c7f8ad1cc55b443c22b14b6dd7e13081363cb260",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-21T21:26:59.440621-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-21T21:26:59.440621-04:00.jpg",
+      "mtime": "1655861397",
+      "size": "9356",
+      "md5": "12c7ee528c369e467757ca8c52264cb8",
+      "crc32": "92f37af8",
+      "sha1": "54991ef2a193f5205be9ad728f689848b80cda04"
+    },
+    {
+      "name": "thecityny-2022-06-22T05:19:42.524853-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889590",
+      "size": "31170",
+      "md5": "d66943bf41a01bb6e6821b532f12bce4",
+      "crc32": "b6b5c529",
+      "sha1": "eac8d9259e5d05a54a2ed0d8e3b80b7eb0e81d86",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-22T05:19:42.524853-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889592",
+      "size": "38237",
+      "md5": "9101c531ebbab2d01adabcf65f52f562",
+      "crc32": "453cb5f7",
+      "sha1": "f3da624dceada5821c87f15ce15e001f8cf9123c",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-22T05:19:42.524853-04:00.jpg",
+      "source": "original",
+      "mtime": "1655889584",
+      "size": "232770",
+      "md5": "42c3a13d118c2cd23977bdfa02fc9a37",
+      "crc32": "f528e5e3",
+      "sha1": "197f33c8f3e2097489f84f1bef0446a45d9a40cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-22T05:19:42.524853-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-22T05:19:42.524853-04:00.jpg",
+      "mtime": "1655889643",
+      "size": "9291",
+      "md5": "1377e089127e8030e1dc1fde6e87132a",
+      "crc32": "08a3b4fd",
+      "sha1": "b4e1d7048e8ade2a585f2b9c6624f397ad8bd4a3"
+    },
+    {
+      "name": "thecityny-2022-06-22T13:33:51.737975-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919234",
+      "size": "31170",
+      "md5": "d66943bf41a01bb6e6821b532f12bce4",
+      "crc32": "b6b5c529",
+      "sha1": "eac8d9259e5d05a54a2ed0d8e3b80b7eb0e81d86",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-22T13:33:51.737975-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919236",
+      "size": "38237",
+      "md5": "9101c531ebbab2d01adabcf65f52f562",
+      "crc32": "453cb5f7",
+      "sha1": "f3da624dceada5821c87f15ce15e001f8cf9123c",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-22T13:33:51.737975-04:00.jpg",
+      "source": "original",
+      "mtime": "1655919233",
+      "size": "232770",
+      "md5": "42c3a13d118c2cd23977bdfa02fc9a37",
+      "crc32": "f528e5e3",
+      "sha1": "197f33c8f3e2097489f84f1bef0446a45d9a40cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-22T13:33:51.737975-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-22T13:33:51.737975-04:00.jpg",
+      "mtime": "1655919306",
+      "size": "9291",
+      "md5": "1377e089127e8030e1dc1fde6e87132a",
+      "crc32": "08a3b4fd",
+      "sha1": "b4e1d7048e8ade2a585f2b9c6624f397ad8bd4a3"
+    },
+    {
+      "name": "thecityny-2022-06-22T21:28:55.459811-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947739",
+      "size": "31515",
+      "md5": "e179e9e244477595bb47535779c9718a",
+      "crc32": "b37cc18d",
+      "sha1": "38acf02faf3b37702b1bba7a447a0d967fc9b061",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-22T21:28:55.459811-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947741",
+      "size": "38294",
+      "md5": "6b143534137a566d532dcfe8c97487a1",
+      "crc32": "26bd1fc6",
+      "sha1": "628460bc89a0ae4a39d75d45b52b8ffa239cdbf5",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-22T21:28:55.459811-04:00.jpg",
+      "source": "original",
+      "mtime": "1655947737",
+      "size": "224556",
+      "md5": "5fa091b6c9ac941455f9a609c8ae641f",
+      "crc32": "48d04354",
+      "sha1": "167f20bdffb84ac0cececc45332b4f41f6c63919",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-22T21:28:55.459811-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-22T21:28:55.459811-04:00.jpg",
+      "mtime": "1655947798",
+      "size": "8993",
+      "md5": "c90475953ca4322d5cfdc562b6dbd4d0",
+      "crc32": "ef62fe16",
+      "sha1": "f457413026209472e374ed5068bb74661020a922"
+    },
+    {
+      "name": "thecityny-2022-06-23T05:21:14.993291-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976078",
+      "size": "31510",
+      "md5": "9cd13a0fb82f65fca5401f45c09254a0",
+      "crc32": "7664e138",
+      "sha1": "db10a5f9a0785356c114125b4ca92b2f1ea67872",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-23T05:21:14.993291-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976080",
+      "size": "38153",
+      "md5": "00b03ffd12719a2a251f528e91134fe9",
+      "crc32": "02a4dd40",
+      "sha1": "48ec92e577ad01b1905a92c87e3ab20c2bf34c75",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-23T05:21:14.993291-04:00.jpg",
+      "source": "original",
+      "mtime": "1655976077",
+      "size": "231552",
+      "md5": "aea2aa43ae4502a083d38b47ef24c330",
+      "crc32": "6be1069b",
+      "sha1": "b9573b5ee6d507513e6ceae2803b7af5495e9189",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-23T05:21:14.993291-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-23T05:21:14.993291-04:00.jpg",
+      "mtime": "1655976129",
+      "size": "9236",
+      "md5": "40af8efb0bda982ac824deddcaf887ea",
+      "crc32": "7b886cba",
+      "sha1": "39754959d174ba3e7acb45d53a6c8313964d92c7"
+    },
+    {
+      "name": "thecityny-2022-06-23T13:20:45.269116-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004850",
+      "size": "31925",
+      "md5": "e6d25b1cf8ed0f54fa10efdc45fdb6ba",
+      "crc32": "27e28856",
+      "sha1": "bf6a651580c851cc13a26eb0a9c3553976a9d753",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-23T13:20:45.269116-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004851",
+      "size": "38222",
+      "md5": "affa0f103ec97c0b818e839f148a60b6",
+      "crc32": "80c08986",
+      "sha1": "8dfb4893c0affaa3673c00096587f135506d16b6",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-06-23T13:20:45.269116-04:00.jpg",
+      "source": "original",
+      "mtime": "1656004848",
+      "size": "209605",
+      "md5": "bc9274a2511a1ba8bdf18afb313f9808",
+      "crc32": "54648d23",
+      "sha1": "f3afebd9a66da8f84b9c4938fc5cb6e6b8fc0224",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-06-23T13:20:45.269116-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-06-23T13:20:45.269116-04:00.jpg",
+      "mtime": "1656004897",
+      "size": "8789",
+      "md5": "f4ab3e7005001f8570d9860eb3825e90",
+      "crc32": "852740df",
+      "sha1": "3f02d4a2ee3446506f4d4faadb93a8bdb64bf135"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7400c5cde408b7b8f8916aa330eec66440c5f358",
-      "mtime": "1655761054",
-      "size": "7547",
-      "md5": "941a2e7fd34d434df6a8109694ed3cce",
-      "crc32": "799dca47",
-      "sha1": "7f911837a37d8ad4a88fc99a82ac689145380dd1",
+      "btih": "63fa7aed1b2f906ca1699c03915a90acf1203bc4",
+      "mtime": "1656004901",
+      "size": "16851",
+      "md5": "30b84176bc3ce8a18fa343997630d742",
+      "crc32": "12c09e59",
+      "sha1": "001b73e9f64da478bda80d3c7bdb383653c13f22",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe776a13787385eb36169f3e28208805",
+      "md5": "9e5e741263eec0271778141148e4ecbf",
       "summation": "md5"
     },
     {
       "name": "thecityny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760985",
-      "size": "49152",
-      "md5": "c445df3545733ec10c4eff66be557710",
-      "crc32": "2c4ef7d4",
-      "sha1": "3011aa94f298cd21cdec8b791e297df6aac420bf",
+      "mtime": "1656004855",
+      "size": "102400",
+      "md5": "8473f9a370c51e469b83981ebe0c54b1",
+      "crc32": "747d9dd4",
+      "sha1": "f81bb6afe3c9aabf098895907993e8e192e51cb8",
       "format": "Metadata"
     },
     {
@@ -348,9 +810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
-  "item_last_updated": 1655761054,
-  "item_size": 2285725,
+  "files_count": 77,
+  "item_last_updated": 1656004901,
+  "item_size": 5807229,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -367,10 +829,912 @@
     "publicdate": "2022-06-19 23:28:39",
     "addeddate": "2022-06-19 23:28:39"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 325624740,
+  "server": "ia801400.us.archive.org",
+  "thecityny-2022": [
+    {
+      "text": "Donate",
+      "url": "http://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000VXUwQAO"
+    },
+    {
+      "text": "\n    \n        \n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.thecity.nyc/pages/about"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "https://www.thecity.nyc/pages/board-of-directors"
+    },
+    {
+      "text": "Republishing",
+      "url": "https://www.thecity.nyc/pages/republishing"
+    },
+    {
+      "text": "Donate",
+      "url": "https://checkout.fundjournalism.org/memberform?org_id=thecity&campaign=7011U000000VXwRQAW&HTLD=1"
+    },
+    {
+      "text": "Funders",
+      "url": "https://www.thecity.nyc/pages/funders"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.thecity.nyc/pages/contact"
+    },
+    {
+      "text": "Team",
+      "url": "https://www.thecity.nyc/pages/the-city-team"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.thecity.nyc/pages/the-citys-annual-reports-and-financial-reports"
+    },
+    {
+      "text": "Join Our Team",
+      "url": "https://www.thecity.nyc/pages/jobs-internships-opportunties-at-the-city"
+    },
+    {
+      "text": "Diversity",
+      "url": "https://www.thecity.nyc/pages/diversity-report-2021"
+    },
+    {
+      "text": "Ethics",
+      "url": "https://www.thecity.nyc/pages/ethics"
+    },
+    {
+      "text": "Press Room",
+      "url": "https://www.thecity.nyc/pages/latest-company-news-the-city-press-room"
+    },
+    {
+      "text": "Brooklyn",
+      "url": "https://www.thecity.nyc/brooklyn"
+    },
+    {
+      "text": "Queens",
+      "url": "https://www.thecity.nyc/queens"
+    },
+    {
+      "text": "The Bronx",
+      "url": "https://www.thecity.nyc/bronx"
+    },
+    {
+      "text": "Staten Island",
+      "url": "https://www.thecity.nyc/staten-island"
+    },
+    {
+      "text": "Manhattan",
+      "url": "https://www.thecity.nyc/manhattan"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.thecity.nyc/coronavirus"
+    },
+    {
+      "text": "Government",
+      "url": "https://www.thecity.nyc/government"
+    },
+    {
+      "text": "Life",
+      "url": "https://www.thecity.nyc/life"
+    },
+    {
+      "text": "Missing Them",
+      "url": "https://projects.thecity.nyc/covid-19-deaths/"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.thecity.nyc/health"
+    },
+    {
+      "text": "Public Safety",
+      "url": "https://www.thecity.nyc/public-safety"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.thecity.nyc/economy"
+    },
+    {
+      "text": "Housing",
+      "url": "https://www.thecity.nyc/housing"
+    },
+    {
+      "text": "Social Services",
+      "url": "https://www.thecity.nyc/services-safety-net"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.thecity.nyc/education"
+    },
+    {
+      "text": "Immigration",
+      "url": "https://www.thecity.nyc/immigration"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://www.thecity.nyc/transportation"
+    },
+    {
+      "text": "Elections",
+      "url": "https://www.thecity.nyc/elections"
+    },
+    {
+      "text": "Justice",
+      "url": "https://www.thecity.nyc/justice"
+    },
+    {
+      "text": "Work",
+      "url": "https://www.thecity.nyc/work"
+    },
+    {
+      "text": "Environment",
+      "url": "https://www.thecity.nyc/environment"
+    },
+    {
+      "text": "Civic Newsroom",
+      "url": "https://www.thecity.nyc/civic-newsroom"
+    },
+    {
+      "text": "Coronavirus Tracker",
+      "url": "https://projects.thecity.nyc/2020_03_covid-19-tracker/?_ga=2.161623355.684988644.1648478426-1211936103.1645032061"
+    },
+    {
+      "text": "The Daily Scoop",
+      "url": "https://nyc.us20.list-manage.com/subscribe?u=73d98c6dfc90032198ec7bdee&id=aa6c8f62b7"
+    },
+    {
+      "text": "The rent update",
+      "url": "https://www.thecity.nyc/2020/10/10/21510088/nyc-rent-employment-updates-email-text-covid"
+    },
+    {
+      "text": "The Worker Update",
+      "url": "https://www.thecity.nyc/2020/10/10/21510088/nyc-rent-employment-updates-email-text-covid"
+    },
+    {
+      "text": "The civic newsroom",
+      "url": "https://www.thecity.nyc/2021/2/14/22283013/civic-newsroom-election-information-new-york-city-voters"
+    },
+    {
+      "text": "MISSING THEM Memorial Project",
+      "url": "https://projects.thecity.nyc/covid-19-deaths/?_ga=2.208390549.684988644.1648478426-1211936103.1645032061"
+    },
+    {
+      "text": "Send News Tips",
+      "url": "https://www.thecity.nyc/pages/send-us-tips"
+    },
+    {
+      "text": "The Open Newsroom",
+      "url": "https://www.thecity.nyc/the-open-newsroom"
+    },
+    {
+      "text": "About",
+      "url": "https://www.thecity.nyc/pages/about"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "https://www.thecity.nyc/pages/board-of-directors"
+    },
+    {
+      "text": "Republishing",
+      "url": "https://www.thecity.nyc/pages/republishing"
+    },
+    {
+      "text": "Donate",
+      "url": "https://checkout.fundjournalism.org/memberform?org_id=thecity&campaign=7011U000000VXwRQAW&HTLD=1"
+    },
+    {
+      "text": "Funders",
+      "url": "https://www.thecity.nyc/pages/funders"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.thecity.nyc/pages/contact"
+    },
+    {
+      "text": "Team",
+      "url": "https://www.thecity.nyc/pages/the-city-team"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.thecity.nyc/pages/the-citys-annual-reports-and-financial-reports"
+    },
+    {
+      "text": "Join Our Team",
+      "url": "https://www.thecity.nyc/pages/jobs-internships-opportunties-at-the-city"
+    },
+    {
+      "text": "Diversity",
+      "url": "https://www.thecity.nyc/pages/diversity-report-2021"
+    },
+    {
+      "text": "Ethics",
+      "url": "https://www.thecity.nyc/pages/ethics"
+    },
+    {
+      "text": "Press Room",
+      "url": "https://www.thecity.nyc/pages/latest-company-news-the-city-press-room"
+    },
+    {
+      "text": "Brooklyn",
+      "url": "https://www.thecity.nyc/brooklyn"
+    },
+    {
+      "text": "Queens",
+      "url": "https://www.thecity.nyc/queens"
+    },
+    {
+      "text": "The Bronx",
+      "url": "https://www.thecity.nyc/bronx"
+    },
+    {
+      "text": "Staten Island",
+      "url": "https://www.thecity.nyc/staten-island"
+    },
+    {
+      "text": "Manhattan",
+      "url": "https://www.thecity.nyc/manhattan"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.thecity.nyc/coronavirus"
+    },
+    {
+      "text": "Government",
+      "url": "https://www.thecity.nyc/government"
+    },
+    {
+      "text": "Life",
+      "url": "https://www.thecity.nyc/life"
+    },
+    {
+      "text": "Missing Them",
+      "url": "https://projects.thecity.nyc/covid-19-deaths/"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.thecity.nyc/health"
+    },
+    {
+      "text": "Public Safety",
+      "url": "https://www.thecity.nyc/public-safety"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.thecity.nyc/economy"
+    },
+    {
+      "text": "Housing",
+      "url": "https://www.thecity.nyc/housing"
+    },
+    {
+      "text": "Social Services",
+      "url": "https://www.thecity.nyc/services-safety-net"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.thecity.nyc/education"
+    },
+    {
+      "text": "Immigration",
+      "url": "https://www.thecity.nyc/immigration"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://www.thecity.nyc/transportation"
+    },
+    {
+      "text": "Elections",
+      "url": "https://www.thecity.nyc/elections"
+    },
+    {
+      "text": "Justice",
+      "url": "https://www.thecity.nyc/justice"
+    },
+    {
+      "text": "Work",
+      "url": "https://www.thecity.nyc/work"
+    },
+    {
+      "text": "Environment",
+      "url": "https://www.thecity.nyc/environment"
+    },
+    {
+      "text": "Civic Newsroom",
+      "url": "https://www.thecity.nyc/civic-newsroom"
+    },
+    {
+      "text": "Coronavirus Tracker",
+      "url": "https://projects.thecity.nyc/2020_03_covid-19-tracker/?_ga=2.161623355.684988644.1648478426-1211936103.1645032061"
+    },
+    {
+      "text": "The Daily Scoop",
+      "url": "https://nyc.us20.list-manage.com/subscribe?u=73d98c6dfc90032198ec7bdee&id=aa6c8f62b7"
+    },
+    {
+      "text": "The rent update",
+      "url": "https://www.thecity.nyc/2020/10/10/21510088/nyc-rent-employment-updates-email-text-covid"
+    },
+    {
+      "text": "The Worker Update",
+      "url": "https://www.thecity.nyc/2020/10/10/21510088/nyc-rent-employment-updates-email-text-covid"
+    },
+    {
+      "text": "The civic newsroom",
+      "url": "https://www.thecity.nyc/2021/2/14/22283013/civic-newsroom-election-information-new-york-city-voters"
+    },
+    {
+      "text": "MISSING THEM Memorial Project",
+      "url": "https://projects.thecity.nyc/covid-19-deaths/?_ga=2.208390549.684988644.1648478426-1211936103.1645032061"
+    },
+    {
+      "text": "Send News Tips",
+      "url": "https://www.thecity.nyc/pages/send-us-tips"
+    },
+    {
+      "text": "The Open Newsroom",
+      "url": "https://www.thecity.nyc/the-open-newsroom"
+    },
+    {
+      "text": "\n    \n    twitter\n",
+      "url": "https://twitter.com/thecityny"
+    },
+    {
+      "text": "\n    \n    facebook\n",
+      "url": "https://www.facebook.com/thecityny"
+    },
+    {
+      "text": "\n    \n    instagram\n",
+      "url": "https://www.instagram.com/thecityny/"
+    },
+    {
+      "text": "\n    \n    rss\n",
+      "url": "https://www.thecity.nyc/rss/index.xml"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/22/23178948/eric-adams-brooklyn-real-estate"
+    },
+    {
+      "text": "Eric Adams Admits Owning the Brooklyn Real Estate He Claimed to Have Sold",
+      "url": "https://www.thecity.nyc/2022/6/22/23178948/eric-adams-brooklyn-real-estate"
+    },
+    {
+      "text": "Greg B. Smith",
+      "url": "https://www.thecity.nyc/authors/greg-b-smith"
+    },
+    {
+      "text": "Yoav Gonen",
+      "url": "https://www.thecity.nyc/authors/yoav-gonen"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/9/23161924/supreme-court-guns-new-york"
+    },
+    {
+      "text": "If Supreme Court Allows More Guns on NYC Streets, Will Anywhere Be Safe?",
+      "url": "https://www.thecity.nyc/2022/6/9/23161924/supreme-court-guns-new-york"
+    },
+    {
+      "text": "Greg B. Smith",
+      "url": "https://www.thecity.nyc/authors/greg-b-smith"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/economy/2022/6/22/23179304/return-to-office-nyc-panel"
+    },
+    {
+      "text": "Pleading Return to Office Isn\u2019t Getting Traction \u2014 But Mixing Where New Yorkers Live and Work Just Might",
+      "url": "https://www.thecity.nyc/economy/2022/6/22/23179304/return-to-office-nyc-panel"
+    },
+    {
+      "text": "Greg David",
+      "url": "https://www.thecity.nyc/authors/greg-david"
+    },
+    {
+      "text": "Become a Member",
+      "url": "http://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000VXVVQA4"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.thecity.nyc/economy"
+    },
+    {
+      "text": "How\u2019s New York City Doing?",
+      "url": "https://projects.thecity.nyc/hows-new-york-city-doing/index.html"
+    },
+    {
+      "text": "Suhail Bhat",
+      "url": "https://www.thecity.nyc/authors/suhail-bhat"
+    },
+    {
+      "text": "Will Welch",
+      "url": "https://www.thecity.nyc/authors/will-welch"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://projects.thecity.nyc/hows-new-york-city-doing/index.html"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/23/23180163/child-mental-health-letitia-james"
+    },
+    {
+      "text": "Mental Health",
+      "url": "https://www.thecity.nyc/mental-health"
+    },
+    {
+      "text": "\u2018We\u2019re at a Crisis Point\u2019: NY Attorney General Hearing Spotlights Child Mental Health Care Failures",
+      "url": "https://www.thecity.nyc/2022/6/23/23180163/child-mental-health-letitia-james"
+    },
+    {
+      "text": "Abigail Kramer",
+      "url": "https://www.thecity.nyc/authors/abigail-kramer"
+    },
+    {
+      "text": "Gabriel Poblete",
+      "url": "https://www.thecity.nyc/authors/gabriel-poblete"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/22/23179487/heres-how-to-get-a-covid-vaccine-for-your-baby-or-toddler-in-new-york-city"
+    },
+    {
+      "text": "Vaccinations",
+      "url": "https://www.thecity.nyc/vaccinations"
+    },
+    {
+      "text": "Here\u2019s How to Get a COVID Vaccine for Your Baby or Toddler in New York City",
+      "url": "https://www.thecity.nyc/2022/6/22/23179487/heres-how-to-get-a-covid-vaccine-for-your-baby-or-toddler-in-new-york-city"
+    },
+    {
+      "text": "Redistricting",
+      "url": "https://www.thecity.nyc/redistricting"
+    },
+    {
+      "text": "Have I Been Redistricted? Search Your Redrawn District and Who\u2019s Running in New York",
+      "url": "https://www.thecity.nyc/2022/5/21/23133080/have-i-been-redistricted-search-my-district-new-york"
+    },
+    {
+      "text": "Will Welch",
+      "url": "https://www.thecity.nyc/authors/will-welch"
+    },
+    {
+      "text": "Rachel Holliday Smith",
+      "url": "https://www.thecity.nyc/authors/rachel-holliday"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/5/21/23133080/have-i-been-redistricted-search-my-district-new-york"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/22/23179271/nyc-doc-keeping-shut-rikers-building"
+    },
+    {
+      "text": "Department of Correction",
+      "url": "https://www.thecity.nyc/department-of-correction"
+    },
+    {
+      "text": "City Jails Won\u2019t Turn Over Shuttered Rikers Building on Path to Green Island",
+      "url": "https://www.thecity.nyc/2022/6/22/23179271/nyc-doc-keeping-shut-rikers-building"
+    },
+    {
+      "text": "Samantha Maldonado",
+      "url": "https://www.thecity.nyc/authors/samantha-maldonado"
+    },
+    {
+      "text": "Members and sponsors make THE CITY possible.",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000zE4wQAE"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/housing/2022/6/21/23177932/rent-guidelines-board-increase"
+    },
+    {
+      "text": "Housing",
+      "url": "https://www.thecity.nyc/housing"
+    },
+    {
+      "text": "Rent Guidelines Board 3.25% Hike Is Biggest in Nearly a Decade",
+      "url": "https://www.thecity.nyc/housing/2022/6/21/23177932/rent-guidelines-board-increase"
+    },
+    {
+      "text": "Greg David",
+      "url": "https://www.thecity.nyc/authors/greg-david"
+    },
+    {
+      "text": "Rachel Holliday Smith",
+      "url": "https://www.thecity.nyc/authors/rachel-holliday"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/21/23177876/adams-floats-changing-lifeguard-policies"
+    },
+    {
+      "text": "Unions",
+      "url": "https://www.thecity.nyc/unions"
+    },
+    {
+      "text": "Adams Floats Possibility of Changing Lifeguard Policies to Boost Staffing Numbers",
+      "url": "https://www.thecity.nyc/2022/6/21/23177876/adams-floats-changing-lifeguard-policies"
+    },
+    {
+      "text": "Katie Honan",
+      "url": "https://www.thecity.nyc/authors/katie-honan"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/21/23177537/voter-turnout-assembly-candidates"
+    },
+    {
+      "text": "Campaign 2022",
+      "url": "https://www.thecity.nyc/campaign-2022"
+    },
+    {
+      "text": "Voter Apathy Energizes Longshot State Assembly Candidates",
+      "url": "https://www.thecity.nyc/2022/6/21/23177537/voter-turnout-assembly-candidates"
+    },
+    {
+      "text": "Gabriel Sandoval",
+      "url": "https://www.thecity.nyc/authors/gabriel-sandoval"
+    },
+    {
+      "text": "Josefa Velasquez",
+      "url": "https://www.thecity.nyc/authors/josefa-velasquez"
+    },
+    {
+      "text": "Members and sponsors make THE CITY possible.",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000zE4wQAE"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/transportation/2022/6/20/23176053/what-to-do-when-you-see-a-crumbling-city"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://www.thecity.nyc/transportation"
+    },
+    {
+      "text": "Is That Bridge Really Falling Down? What to Do When You See a Crumbling City",
+      "url": "https://www.thecity.nyc/transportation/2022/6/20/23176053/what-to-do-when-you-see-a-crumbling-city"
+    },
+    {
+      "text": "Candace Pedraza",
+      "url": "https://www.thecity.nyc/authors/candace-pedraza"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.thecity.nyc/legal/privacy-notice"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Members and sponsors make THE CITY possible.",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000zE4wQAE"
+    },
+    {
+      "text": "tips@thecity.nyc",
+      "url": "mailto:tips@thecity.nyc"
+    },
+    {
+      "text": "tips page",
+      "url": "https://www.thecity.nyc/pages/send-us-tips"
+    },
+    {
+      "text": "Members and sponsors make THE CITY possible.",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000zE4wQAE"
+    },
+    {
+      "text": "Members and sponsors make THE CITY possible.",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000zE4wQAE"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.thecity.nyc/legal/privacy-notice"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/20/23176001/new-988-national-mental-health-hotline"
+    },
+    {
+      "text": "Mental Health",
+      "url": "https://www.thecity.nyc/mental-health"
+    },
+    {
+      "text": "What\u2019s the 411 on 988? New National Mental Health Hotline Rebrands NYC Efforts",
+      "url": "https://www.thecity.nyc/2022/6/20/23176001/new-988-national-mental-health-hotline"
+    },
+    {
+      "text": "Samantha Maldonado",
+      "url": "https://www.thecity.nyc/authors/samantha-maldonado"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/17/23173208/nyc-lifeguards-city-hall-30-year-rule"
+    },
+    {
+      "text": "Parks Department",
+      "url": "https://www.thecity.nyc/parks-department"
+    },
+    {
+      "text": "NYC First Responders Are Ready to Work as Lifeguards, but City Hall Is Enforcing a 30-Year Old Rule That Won\u2019t Let Them",
+      "url": "https://www.thecity.nyc/2022/6/17/23173208/nyc-lifeguards-city-hall-30-year-rule"
+    },
+    {
+      "text": "Katie Honan",
+      "url": "https://www.thecity.nyc/authors/katie-honan"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/16/23171693/poll-workers-brooklyn-democratic-party"
+    },
+    {
+      "text": "Campaign 2022",
+      "url": "https://www.thecity.nyc/campaign-2022"
+    },
+    {
+      "text": "Poll Workers Become Pawns in Battle for Brooklyn\u2019s Democratic Party",
+      "url": "https://www.thecity.nyc/2022/6/16/23171693/poll-workers-brooklyn-democratic-party"
+    },
+    {
+      "text": "Yoav Gonen",
+      "url": "https://www.thecity.nyc/authors/yoav-gonen"
+    },
+    {
+      "text": "George Joseph",
+      "url": "https://www.thecity.nyc/authors/george-joseph"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/16/23171702/unemployed-nyc-long-term-jobs"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.thecity.nyc/economy"
+    },
+    {
+      "text": "One in Three Jobless Workers in NYC Are Long-Term Unemployed",
+      "url": "https://www.thecity.nyc/2022/6/16/23171702/unemployed-nyc-long-term-jobs"
+    },
+    {
+      "text": "Greg David",
+      "url": "https://www.thecity.nyc/authors/greg-david"
+    },
+    {
+      "text": "Suhail Bhat",
+      "url": "https://www.thecity.nyc/authors/suhail-bhat"
+    },
+    {
+      "text": "Members and sponsors make THE CITY possible.",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000zE4wQAE"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/brooklyn/2022/6/16/23171436/brooklyn-democrats-da-probe-demand"
+    },
+    {
+      "text": "Brooklyn",
+      "url": "https://www.thecity.nyc/brooklyn"
+    },
+    {
+      "text": "Good-Government Groups Ask DA To Launch New Probe Into Brooklyn Democratic Party",
+      "url": "https://www.thecity.nyc/brooklyn/2022/6/16/23171436/brooklyn-democrats-da-probe-demand"
+    },
+    {
+      "text": "George Joseph",
+      "url": "https://www.thecity.nyc/authors/george-joseph"
+    },
+    {
+      "text": "Yoav Gonen",
+      "url": "https://www.thecity.nyc/authors/yoav-gonen"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/15/23170298/new-york-republican-governor-economic-inflation"
+    },
+    {
+      "text": "GOP Governor Candidates Plot Path to Victory Via Voters\u2019 Economic Pain",
+      "url": "https://www.thecity.nyc/2022/6/15/23170298/new-york-republican-governor-economic-inflation"
+    },
+    {
+      "text": "Josefa Velasquez",
+      "url": "https://www.thecity.nyc/authors/josefa-velasquez"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/missing-them/2022/6/15/23170353/council-bill-acs-track-covid-toll-on-kids"
+    },
+    {
+      "text": "Missing Them",
+      "url": "https://www.thecity.nyc/missing-them"
+    },
+    {
+      "text": "Council Bill Would Make ACS Track COVID Toll on Kids Who Lost Family",
+      "url": "https://www.thecity.nyc/missing-them/2022/6/15/23170353/council-bill-acs-track-covid-toll-on-kids"
+    },
+    {
+      "text": "Katie Honan",
+      "url": "https://www.thecity.nyc/authors/katie-honan"
+    },
+    {
+      "text": "Members and sponsors make THE CITY possible.",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000zE4wQAE"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/15/23170278/judges-district-leaders-county-committee-surrogate-judicial-delegate-downballot-races-2022"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.thecity.nyc/politics"
+    },
+    {
+      "text": "Judges, District Leaders and the County Committees: What to Know About Downballot Races in 2022",
+      "url": "https://www.thecity.nyc/2022/6/15/23170278/judges-district-leaders-county-committee-surrogate-judicial-delegate-downballot-races-2022"
+    },
+    {
+      "text": "Rachel Holliday Smith",
+      "url": "https://www.thecity.nyc/authors/rachel-holliday"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/health/2022/6/15/23170008/city-employee-health-plan-ghi-emblemhealth-change"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.thecity.nyc/health"
+    },
+    {
+      "text": "City Employee Health Plan Could Switch to Lower-Cost Company Under New Proposal",
+      "url": "https://www.thecity.nyc/health/2022/6/15/23170008/city-employee-health-plan-ghi-emblemhealth-change"
+    },
+    {
+      "text": "Sam Mellins, New York Focus",
+      "url": "https://www.thecity.nyc/authors/sam-mellins"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n            \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n        \n    \n\n\n    \n    \n        \n            \n\n    \n\n\n        \n    \n\n    \n    \n        \n\n    \n        \n                \n\n        \n\n        \n            \n\n        \n    \n\n\n    \n    \n    \n        \n    \n\n\n\n\n",
+      "url": "https://www.thecity.nyc/2022/6/14/23168357/nyc-restaurants-wait-for-concrete-outdoor-dining-plan"
+    },
+    {
+      "text": "Restaurants",
+      "url": "https://www.thecity.nyc/restaurants"
+    },
+    {
+      "text": "Eyesores and Confusion as City Restaurateurs Wait for Concrete Outdoor Dining Plan",
+      "url": "https://www.thecity.nyc/2022/6/14/23168357/nyc-restaurants-wait-for-concrete-outdoor-dining-plan"
+    },
+    {
+      "text": "Jose Martinez",
+      "url": "https://www.thecity.nyc/authors/jose-martinez"
+    },
+    {
+      "text": "Suhail Bhat",
+      "url": "https://www.thecity.nyc/authors/suhail-bhat"
+    },
+    {
+      "text": "More Stories",
+      "url": "?p=2"
+    },
+    {
+      "text": "AOC-Backed Bronx Candidate Rebuffs \u2014 But Can\u2019t Stop \u2014 Wall Street Campaign Cash",
+      "url": "https://www.thecity.nyc/2022/6/14/23168363/jonathan-soto-aoc-donation-bronx"
+    },
+    {
+      "text": "New York Office Occupancy Hits Pandemic Era Milestone at More Than 40% Full",
+      "url": "https://www.thecity.nyc/economy/2022/6/14/23168266/new-york-office-occupancy-covid-milestone-40-percent-full"
+    },
+    {
+      "text": "Green Candidates Vow to Push Albany on Climate, But Is It Hot Air?",
+      "url": "https://www.thecity.nyc/environment/2022/6/13/23166683/environment-candidates-vow-to-push-albany-on-climate-change"
+    },
+    {
+      "text": "June Primary Voting Prep: Do You Know Where to Cast Your Ballot?",
+      "url": "https://www.thecity.nyc/2022/6/13/23166677/june-primary-early-voting-prep-where-cast-ballot-absentee"
+    },
+    {
+      "text": "Bronx Waterfront Neighborhood Welcomes Storm Protections a Decade After Sandy",
+      "url": "https://www.thecity.nyc/2022/6/13/23163329/bronx-edgewater-park-volunteer-firehouse-sandy"
+    },
+    {
+      "text": "Become a member",
+      "url": "http://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000VXVVQA4"
+    },
+    {
+      "text": "Members and sponsors make THE CITY possible.",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000zE4wQAE"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.thecity.nyc/legal/privacy-notice"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Members and sponsors make THE CITY possible.",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000zE4wQAE"
+    },
+    {
+      "text": "\n    \n        \n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.thecity.nyc/pages/about"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.thecity.nyc/pages/membership"
+    },
+    {
+      "text": "Team",
+      "url": "https://www.thecity.nyc/pages/the-city-team"
+    },
+    {
+      "text": "Funders",
+      "url": "https://www.thecity.nyc/pages/funders"
+    },
+    {
+      "text": "Ethics",
+      "url": "https://www.thecity.nyc/pages/ethics"
+    },
+    {
+      "text": "Republishing",
+      "url": "https://www.thecity.nyc/pages/republishing"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.thecity.nyc/pages/contact"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.thecity.nyc/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.thecity.nyc/legal/privacy-notice"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://www.thecity.nyc/legal/cookie-policy"
+    }
+  ],
+  "uniq": 2016812921,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1655770793,
+  "created": 1656004721,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/5/items/libe-2022",
@@ -3732,31 +3732,493 @@
       "sha1": "aed20e0d264af374ab88e008a7b7ca23364b0460"
     },
     {
+      "name": "libe-2022-06-21T03:33:41.512024+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775223",
+      "size": "106911",
+      "md5": "e1d8378316267ed48efb97c5a3c9275a",
+      "crc32": "d05f1c70",
+      "sha1": "6cf942873fcb2f437637b5cc090d6263e98375cc",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T03:33:41.512024+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775225",
+      "size": "62956",
+      "md5": "c70468fa26cb2b6d3522c076a1bac05c",
+      "crc32": "934a06b4",
+      "sha1": "691a5c34cab6312c5f000b6ed2c92ac8656421ed",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T03:33:41.512024+02:00.jpg",
+      "source": "original",
+      "mtime": "1655775222",
+      "size": "314520",
+      "md5": "64ff870cf5bfecffd2800d24c7145990",
+      "crc32": "9feed9f6",
+      "sha1": "b6c51be1c18d4617050f7aec3c48db58ee75ff8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-21T03:33:41.512024+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-21T03:33:41.512024+02:00.jpg",
+      "mtime": "1655775291",
+      "size": "9012",
+      "md5": "63c1b6d2a750e46a7bb9c4beea434caa",
+      "crc32": "b7aa6572",
+      "sha1": "7b482e386a18b0b84ff5b4b032636824e99aee85"
+    },
+    {
+      "name": "libe-2022-06-21T07:27:44.310300+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789266",
+      "size": "107475",
+      "md5": "635c8aec4c810f9f39892b4ec0928009",
+      "crc32": "4e14b16b",
+      "sha1": "ddd50419298fb2baa68a52bee03de2888d0dbac7",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T07:27:44.310300+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789268",
+      "size": "61832",
+      "md5": "9d53176ad4e56ef6d4228fa1ea59ccfb",
+      "crc32": "a0423f35",
+      "sha1": "6eab31ec4510587d31299b80bc6cb675e16011df",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T07:27:44.310300+02:00.jpg",
+      "source": "original",
+      "mtime": "1655789265",
+      "size": "314170",
+      "md5": "fd306b7e4bb5b72af7a2c38852edcab3",
+      "crc32": "dd552a42",
+      "sha1": "c0838ce3366ad7b24981fdfe25861e18405e077f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-21T07:27:44.310300+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-21T07:27:44.310300+02:00.jpg",
+      "mtime": "1655789323",
+      "size": "9014",
+      "md5": "68bb7871ce34cf7e267dcb524890a9d9",
+      "crc32": "a8660039",
+      "sha1": "a00fde8bafa7f4e9929be93e35dc5a2c1c9fb86f"
+    },
+    {
+      "name": "libe-2022-06-21T14:29:14.497236+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814557",
+      "size": "103975",
+      "md5": "26ae1983f824654d0194c4cf41cf37b6",
+      "crc32": "c7d225c6",
+      "sha1": "7924f9f064b12645e9ec7dce7cd48b93f903a5a0",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T14:29:14.497236+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814562",
+      "size": "62060",
+      "md5": "9dd59353a19896e505b3f6ad51223af7",
+      "crc32": "38d75790",
+      "sha1": "a3df0901de125732b679180bbfd6b47c37017eb5",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T14:29:14.497236+02:00.jpg",
+      "source": "original",
+      "mtime": "1655814555",
+      "size": "345854",
+      "md5": "e163f24b2f21e9914690666ed6916a02",
+      "crc32": "ad4573e9",
+      "sha1": "fd28f1cd93a394cb6686ed4290f1fd50b3f88144",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-21T14:29:14.497236+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-21T14:29:14.497236+02:00.jpg",
+      "mtime": "1655814652",
+      "size": "9666",
+      "md5": "fa3997fa066b725ce268c57246070ba0",
+      "crc32": "31a7e8cb",
+      "sha1": "62d761fb0d337019eb76b3255097ecfedeb22248"
+    },
+    {
+      "name": "libe-2022-06-21T15:53:53.455278+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819639",
+      "size": "101943",
+      "md5": "16feec0a71a5f3f9083e34a65fb0ea99",
+      "crc32": "bb782608",
+      "sha1": "cf73083e9d086a09d8ca9cfac8d60093d79c001f",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T15:53:53.455278+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819642",
+      "size": "61258",
+      "md5": "28623f7940248291dd47f772b44f68d0",
+      "crc32": "05bcf3ed",
+      "sha1": "9420c0bd53612db647e9b2d467c6fe529b14e1db",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T15:53:53.455278+02:00.jpg",
+      "source": "original",
+      "mtime": "1655819634",
+      "size": "351541",
+      "md5": "e6ae0a60a4a5e25b559be230123191cd",
+      "crc32": "96914c86",
+      "sha1": "f7815d851ef1bebef1623d57ec885ab1c2ee6a96",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-21T15:53:53.455278+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-21T15:53:53.455278+02:00.jpg",
+      "mtime": "1655819742",
+      "size": "9649",
+      "md5": "23c957f84a89105451d8ad2b0592a245",
+      "crc32": "a4d1651b",
+      "sha1": "29ae65c268be9a724c877dfb8c16ecaec7820b55"
+    },
+    {
+      "name": "libe-2022-06-21T19:15:50.198166+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831758",
+      "size": "102991",
+      "md5": "dbd02fcedb0786e7c4f67a1349d87387",
+      "crc32": "50c009b9",
+      "sha1": "a23a42791e9510550834970c6cf5d0048e78a893",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T19:15:50.198166+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831760",
+      "size": "61314",
+      "md5": "2ab734486338543ac0b1dbeb364e052e",
+      "crc32": "f32d5978",
+      "sha1": "1e436180f9cadee5d3ea7d08b01b76c0426da6ef",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-21T19:15:50.198166+02:00.jpg",
+      "source": "original",
+      "mtime": "1655831757",
+      "size": "339187",
+      "md5": "6292ce4cdd506e3458ff9b8e72df5d6f",
+      "crc32": "5ef9f852",
+      "sha1": "2206212cfae043739d7fe2d35f4089a6fbc5593a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-21T19:15:50.198166+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-21T19:15:50.198166+02:00.jpg",
+      "mtime": "1655831829",
+      "size": "9827",
+      "md5": "83ab71b3199fc7132f3aad87a9e1b7af",
+      "crc32": "1ed7db84",
+      "sha1": "dd2c4f5a159bd4ae99fa06b49d0918b99737b78f"
+    },
+    {
+      "name": "libe-2022-06-22T03:24:28.046754+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861072",
+      "size": "103058",
+      "md5": "bedccafee362e6e0c6e03a2d1d854454",
+      "crc32": "1ba1db41",
+      "sha1": "7aef2466238e913ff821b3f077d61d16e3b1a4c2",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-22T03:24:28.046754+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861075",
+      "size": "61296",
+      "md5": "d97315113135b637269b068a876e9aaa",
+      "crc32": "ea52cb5a",
+      "sha1": "b750f510a9fcc596c7de5bd87949ddd6260b86bb",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-22T03:24:28.046754+02:00.jpg",
+      "source": "original",
+      "mtime": "1655861069",
+      "size": "335387",
+      "md5": "7060b35259fd5a7c9532c388fe1dc941",
+      "crc32": "313f14a4",
+      "sha1": "543dc065bd5d17f8df096f4503bf7578bb7dd661",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-22T03:24:28.046754+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-22T03:24:28.046754+02:00.jpg",
+      "mtime": "1655861374",
+      "size": "9845",
+      "md5": "abdbe408f44330467b5a9cbfdbbc3a1c",
+      "crc32": "2f93fd1c",
+      "sha1": "480b7da1e5ee84c23253c55cd0232746cb91c764"
+    },
+    {
+      "name": "libe-2022-06-22T11:17:57.919378+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889480",
+      "size": "107194",
+      "md5": "19d194f82d8554e385b91a61924e01f1",
+      "crc32": "de3b8639",
+      "sha1": "f3a7f55494d8377b37b8b2c6b76359e335f64ccf",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-22T11:17:57.919378+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889482",
+      "size": "64331",
+      "md5": "33e49d5771dd87818e032bfdd8b34625",
+      "crc32": "32dcb193",
+      "sha1": "a82e8a33ed97313c19816ab367a4b880ea20b5c7",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-22T11:17:57.919378+02:00.jpg",
+      "source": "original",
+      "mtime": "1655889478",
+      "size": "360640",
+      "md5": "af61bdb9ca07d61d019928407cdc26d1",
+      "crc32": "3b2217db",
+      "sha1": "2f527f59102a591d95c240d8e9dfe29023102751",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-22T11:17:57.919378+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-22T11:17:57.919378+02:00.jpg",
+      "mtime": "1655889548",
+      "size": "9925",
+      "md5": "7439098a8710265a9f3969de44e0bfce",
+      "crc32": "68dc5ecb",
+      "sha1": "115a3668b0dbab56313a712e5a739b657c85cfa3"
+    },
+    {
+      "name": "libe-2022-06-22T19:31:15.023130+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919079",
+      "size": "103887",
+      "md5": "a899c0d5d3590b1f2619061298338dfd",
+      "crc32": "e55d94a5",
+      "sha1": "a2757345122a77184169a24327c1459d6bcf774d",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-22T19:31:15.023130+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919081",
+      "size": "63119",
+      "md5": "d6aceeb3e0a7ad7e06c5dc3943fe049c",
+      "crc32": "779744ac",
+      "sha1": "64d86a889f764ff2fa68bca04bede0e6b8a29d29",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-22T19:31:15.023130+02:00.jpg",
+      "source": "original",
+      "mtime": "1655919077",
+      "size": "317889",
+      "md5": "88e68432e1f1cef39c2a4401729b8111",
+      "crc32": "b94acf9f",
+      "sha1": "bf661e404278f6ccc4ac5da92a7219dcfca48819",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-22T19:31:15.023130+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-22T19:31:15.023130+02:00.jpg",
+      "mtime": "1655919167",
+      "size": "9362",
+      "md5": "f7165877894ff4d2c8f0c23949977a5b",
+      "crc32": "6fe0860c",
+      "sha1": "7a4f21e3d2b2e87c7a7192d396ff53e612848e61"
+    },
+    {
+      "name": "libe-2022-06-23T03:26:51.092213+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947614",
+      "size": "103787",
+      "md5": "4adec1aa0d21904c92bf9bbb51a2d36b",
+      "crc32": "468a4ae4",
+      "sha1": "f3b54b56e172375da425f0250ca556fafcf542fc",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-23T03:26:51.092213+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947615",
+      "size": "62525",
+      "md5": "c0a623a28c2e6145851dcd0e893d2c06",
+      "crc32": "e71ae9ba",
+      "sha1": "dca9b7e94e7d435c0d675d2d6d071c610cb0c001",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-23T03:26:51.092213+02:00.jpg",
+      "source": "original",
+      "mtime": "1655947612",
+      "size": "307159",
+      "md5": "7ea97d98a67d11e0a3d2d614a48766e2",
+      "crc32": "cba19bb6",
+      "sha1": "45479791b08bb331c0a7268cba9d5dc932a6171c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-23T03:26:51.092213+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-23T03:26:51.092213+02:00.jpg",
+      "mtime": "1655947666",
+      "size": "9382",
+      "md5": "5fcc5478aecc7937bc1557eba9be7f37",
+      "crc32": "dfe4f095",
+      "sha1": "57f99f5dc5e7fa3483324b76516b1ccbd09fdbb4"
+    },
+    {
+      "name": "libe-2022-06-23T11:19:00.031523+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655975944",
+      "size": "105859",
+      "md5": "10151ae91f3b4a725bdcdf2098af28c9",
+      "crc32": "3d3289b3",
+      "sha1": "91a4ed02f24daa978b4f09a4c905a024f0b06eb4",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-23T11:19:00.031523+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655975945",
+      "size": "63197",
+      "md5": "f237105423b7115dc0981312c4aeb026",
+      "crc32": "1d6957dd",
+      "sha1": "015e6f269287034d24e4dae49a73dcf1ef8d8845",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-23T11:19:00.031523+02:00.jpg",
+      "source": "original",
+      "mtime": "1655975942",
+      "size": "324186",
+      "md5": "d180b82da4560c28b03c71d6db63d179",
+      "crc32": "23760f00",
+      "sha1": "8d5d8b2886d2534bf515395f41ce466c30b886aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-23T11:19:00.031523+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-23T11:19:00.031523+02:00.jpg",
+      "mtime": "1655975996",
+      "size": "9446",
+      "md5": "c5b753f8797af4f9d79011efc8a10cc4",
+      "crc32": "ffdb01e6",
+      "sha1": "975e6988c546d7fe75018670ae819b6b7f081b54"
+    },
+    {
+      "name": "libe-2022-06-23T19:17:37.528739+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004662",
+      "size": "105179",
+      "md5": "7635af3f5fab9a0f3535ecafc578fc5d",
+      "crc32": "b9246771",
+      "sha1": "d44b92804cbabdfdea291f8f7bf3a8557801f005",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-23T19:17:37.528739+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004664",
+      "size": "63274",
+      "md5": "22c1ee69bd12c5df4939e13b9e2be60f",
+      "crc32": "5857566f",
+      "sha1": "7e97d93559ce9abb7689fbab7249005e40fbe4bd",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-06-23T19:17:37.528739+02:00.jpg",
+      "source": "original",
+      "mtime": "1656004660",
+      "size": "323964",
+      "md5": "e32b5ccfbaca1856aac6f6b7d96d1a7f",
+      "crc32": "3c7057b1",
+      "sha1": "f4c591a11055077e02af26ec8b6620a1d6ed3e78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-06-23T19:17:37.528739+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-06-23T19:17:37.528739+02:00.jpg",
+      "mtime": "1656004712",
+      "size": "9487",
+      "md5": "026caef28ebfe330b039e926c75f4cd9",
+      "crc32": "b38807c1",
+      "sha1": "4aa06763208f96a0b13d94954867a16e1e0c0266"
+    },
+    {
       "name": "libe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba257f423f5a11b5435355657eb88d45e28f7dba",
-      "mtime": "1655761727",
-      "size": "75364",
-      "md5": "cbcb1ae49eb2c9073c95747fe3c3bb0e",
-      "crc32": "a329568f",
-      "sha1": "4b589c3ed99b4f57d0a2fe401aeb39dc68c56f25",
+      "btih": "ba7ef03b338e0fcb23baad66a123c5e66bb9c098",
+      "mtime": "1656004716",
+      "size": "84538",
+      "md5": "ae243ba8ff6df2f4a826cf9219b8f0a8",
+      "crc32": "8cb4a7ec",
+      "sha1": "702f6646e3e8b84917d0e480c4a06aff9cd522e5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "libe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "acb51126732779fbfad58348d0cd7254",
+      "md5": "8d1918c67ec28dd405fcf01b843daa9a",
       "summation": "md5"
     },
     {
       "name": "libe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655761674",
-      "size": "421888",
-      "md5": "9b66fa596ab74df1a63037680fc3626f",
-      "crc32": "c729d4e8",
-      "sha1": "d93b3e553805455e991c1345b1ad1ed50a0e69d9",
+      "mtime": "1656004667",
+      "size": "475136",
+      "md5": "495bd907a8e660a43645aa800f98ccc1",
+      "crc32": "e5cee603",
+      "sha1": "89d5577f7abacd501726eae70c6d125aae5e5492",
       "format": "Metadata"
     },
     {
@@ -3770,1691 +4232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 359,
-  "item_last_updated": 1655761727,
-  "item_size": 45602764,
-  "libe-2022": [
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "L\u00e9gislatives(Opens in new window)",
-      "url": "https://www.liberation.fr/dossier/legislatives-2022/"
-    },
-    {
-      "text": "Politique",
-      "url": "/politique/"
-    },
-    {
-      "text": "International",
-      "url": "/international/"
-    },
-    {
-      "text": "CheckNews",
-      "url": "/checknews/"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture/"
-    },
-    {
-      "text": "Id\u00e9es et D\u00e9bats",
-      "url": "/idees-et-debats/"
-    },
-    {
-      "text": "Soci\u00e9t\u00e9",
-      "url": "/societe/"
-    },
-    {
-      "text": "Environnement",
-      "url": "/environnement/"
-    },
-    {
-      "text": "Economie",
-      "url": "/economie/"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/lifestyle/"
-    },
-    {
-      "text": "Portraits",
-      "url": "/portraits/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "Sciences",
-      "url": "/sciences/"
-    },
-    {
-      "text": "Se connecter",
-      "url": "https://connexion.liberation.fr/?referer=https://www.liberation.fr/"
-    },
-    {
-      "text": "S\u2019abonner \u00e0 Lib\u00e9ration",
-      "url": "https://abo.liberation.fr/?origin=AUTOPROMO&xtatc=INT-21-[1mois_1euro]"
-    },
-    {
-      "text": "Se connecter",
-      "url": "https://connexion.liberation.fr/?referer=https://www.liberation.fr/"
-    },
-    {
-      "text": "S\u2019abonner \u00e0 Lib\u00e9ration",
-      "url": "https://abo.liberation.fr/?origin=AUTOPROMO&xtatc=INT-21-[1mois_1euro]"
-    },
-    {
-      "text": "Accueil(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://www.liberation.fr/"
-    },
-    {
-      "text": "Politique",
-      "url": "/politique/"
-    },
-    {
-      "text": "Elections",
-      "url": "/politique/elections/"
-    },
-    {
-      "text": "L\u00e9gislatives(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://www.liberation.fr/dossier/legislatives-2022/"
-    },
-    {
-      "text": "Pr\u00e9sidentielle(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://www.liberation.fr/dossier/election-presidentielle-2022/"
-    },
-    {
-      "text": "International",
-      "url": "/international/"
-    },
-    {
-      "text": "Europe",
-      "url": "/international/europe/"
-    },
-    {
-      "text": "Am\u00e9rique",
-      "url": "/international/amerique/"
-    },
-    {
-      "text": "Afrique",
-      "url": "/international/afrique/"
-    },
-    {
-      "text": "Moyen-Orient",
-      "url": "/international/moyen-orient/"
-    },
-    {
-      "text": "Asie Pacifique",
-      "url": "/international/asie-pacifique/"
-    },
-    {
-      "text": "CheckNews",
-      "url": "/checknews/"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture/"
-    },
-    {
-      "text": "Arts",
-      "url": "/culture/arts/"
-    },
-    {
-      "text": "Cin\u00e9ma",
-      "url": "/culture/cinema/"
-    },
-    {
-      "text": "Jeux vid\u00e9o",
-      "url": "/culture/jeux-video/"
-    },
-    {
-      "text": "Musique",
-      "url": "/culture/musique/"
-    },
-    {
-      "text": "Photographie",
-      "url": "/culture/photographie/"
-    },
-    {
-      "text": "Livres",
-      "url": "/culture/livres/"
-    },
-    {
-      "text": "BD",
-      "url": "/culture/bd/"
-    },
-    {
-      "text": "Sc\u00e8nes",
-      "url": "/culture/scenes/"
-    },
-    {
-      "text": "S\u00e9ries",
-      "url": "/culture/series/"
-    },
-    {
-      "text": "Id\u00e9es et D\u00e9bats",
-      "url": "/idees-et-debats/"
-    },
-    {
-      "text": "Opinions",
-      "url": "/idees-et-debats/opinions/"
-    },
-    {
-      "text": "Editorial",
-      "url": "/idees-et-debats/editorial/"
-    },
-    {
-      "text": "Tribunes",
-      "url": "/idees-et-debats/tribunes/"
-    },
-    {
-      "text": "Soci\u00e9t\u00e9",
-      "url": "/societe/"
-    },
-    {
-      "text": "Police / Justice",
-      "url": "/societe/police-justice/"
-    },
-    {
-      "text": "Droits des femmes",
-      "url": "/societe/droits-des-femmes/"
-    },
-    {
-      "text": "Education",
-      "url": "/societe/education/"
-    },
-    {
-      "text": "Familles",
-      "url": "/societe/familles/"
-    },
-    {
-      "text": "Logement",
-      "url": "/societe/logement/"
-    },
-    {
-      "text": "Religions",
-      "url": "/societe/religions/"
-    },
-    {
-      "text": "Sant\u00e9",
-      "url": "/societe/sante/"
-    },
-    {
-      "text": "Sexualit\u00e9s et genres",
-      "url": "/societe/sexualite-et-genres/"
-    },
-    {
-      "text": "Ville",
-      "url": "/societe/ville/"
-    },
-    {
-      "text": "Environnement",
-      "url": "/environnement/"
-    },
-    {
-      "text": "Agriculture",
-      "url": "/environnement/agriculture/"
-    },
-    {
-      "text": "Alimentation",
-      "url": "/environnement/alimentation/"
-    },
-    {
-      "text": "Biodiversit\u00e9",
-      "url": "/environnement/biodiversite/"
-    },
-    {
-      "text": "Climat",
-      "url": "/environnement/climat/"
-    },
-    {
-      "text": "Nucl\u00e9aire",
-      "url": "/environnement/nucleaire/"
-    },
-    {
-      "text": "Pollution",
-      "url": "/environnement/pollution/"
-    },
-    {
-      "text": "Economie",
-      "url": "/economie/"
-    },
-    {
-      "text": "Economie num\u00e9rique",
-      "url": "/economie/economie-numerique/"
-    },
-    {
-      "text": "M\u00e9dias",
-      "url": "/economie/medias/"
-    },
-    {
-      "text": "Social",
-      "url": "/economie/social/"
-    },
-    {
-      "text": "Transports",
-      "url": "/economie/transports/"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/lifestyle/"
-    },
-    {
-      "text": "Design",
-      "url": "/lifestyle/design/"
-    },
-    {
-      "text": "High tech",
-      "url": "/lifestyle/hightech/"
-    },
-    {
-      "text": "Mode",
-      "url": "/lifestyle/mode/"
-    },
-    {
-      "text": "Gastronomie",
-      "url": "/lifestyle/gastronomie/"
-    },
-    {
-      "text": "Voyages",
-      "url": "/lifestyle/voyages/"
-    },
-    {
-      "text": "En images(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://www.liberation.fr/en-images/"
-    },
-    {
-      "text": "Portraits",
-      "url": "/portraits/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "Cyclisme",
-      "url": "/sports/cyclisme/"
-    },
-    {
-      "text": "Football",
-      "url": "/sports/football/"
-    },
-    {
-      "text": "Jeux Olympiques",
-      "url": "/sports/jeux-olympiques/"
-    },
-    {
-      "text": "Tennis",
-      "url": "/sports/tennis/"
-    },
-    {
-      "text": "Rugby",
-      "url": "/sports/rugby/"
-    },
-    {
-      "text": "Sports m\u00e9caniques",
-      "url": "/sports/sports-mecaniques/"
-    },
-    {
-      "text": "Sciences",
-      "url": "/sciences/"
-    },
-    {
-      "text": "Arch\u00e9ologie",
-      "url": "/sciences/archeologie/"
-    },
-    {
-      "text": "Astronomie",
-      "url": "/sciences/astronomie/"
-    },
-    {
-      "text": "Biologie",
-      "url": "/sciences/biologie/"
-    },
-    {
-      "text": "Espace",
-      "url": "/sciences/espace/"
-    },
-    {
-      "text": "Math\u00e9matiques",
-      "url": "/sciences/mathematiques/"
-    },
-    {
-      "text": "Physique",
-      "url": "/sciences/physique/"
-    },
-    {
-      "text": "Fil Info(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://www.liberation.fr/fil-info/"
-    },
-    {
-      "text": "Forums",
-      "url": "/forums/"
-    },
-    {
-      "text": "Agir pour le vivant(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://www.liberation.fr/dossier/agir-pour-le-vivant/"
-    },
-    {
-      "text": "Plus",
-      "url": "/plus/"
-    },
-    {
-      "text": "S\u00e9ries d'\u00e9t\u00e9",
-      "url": "/plus/speciaux-cahier-ete/"
-    },
-    {
-      "text": "Num\u00e9ros sp\u00e9ciaux",
-      "url": "/plus/numeros-speciaux/"
-    },
-    {
-      "text": "Archives",
-      "url": "/archives/"
-    },
-    {
-      "text": "Lire le journal(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://journal.liberation.fr/"
-    },
-    {
-      "text": "Les newsletters(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://www.liberation.fr/newsletters/"
-    },
-    {
-      "text": "Les Unes(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "http://unes.liberation.fr/"
-    },
-    {
-      "text": "La boutique(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://boutique.liberation.fr/"
-    },
-    {
-      "text": "Foire aux questions(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://liberation.zendesk.com/hc/fr/"
-    },
-    {
-      "text": "Contactez-nous(S'ouvre dans une nouvelle fen\u00eatre)",
-      "url": "https://www.liberation.fr/contact/"
-    },
-    {
-      "text": "",
-      "url": "/politique/elections/libelysee-episode-22-macron-peut-il-gouverner-sans-dissoudre-lassemblee-20220620_2Y5BCM22LBFOHLSGICIURXTK7E/"
-    },
-    {
-      "text": "Podcast",
-      "url": "/politique/elections/libelysee-episode-22-macron-peut-il-gouverner-sans-dissoudre-lassemblee-20220620_2Y5BCM22LBFOHLSGICIURXTK7E/"
-    },
-    {
-      "text": "\u00abLib\u00e9lys\u00e9e\u00bb \u00e9pisode 22: Macron peut-il gouverner sans dissoudre l\u2019Assembl\u00e9e?",
-      "url": "/politique/elections/libelysee-episode-22-macron-peut-il-gouverner-sans-dissoudre-lassemblee-20220620_2Y5BCM22LBFOHLSGICIURXTK7E/"
-    },
-    {
-      "text": "",
-      "url": "/politique/elections/dans-les-quartiers-populaires-le-nom-melenchon-a-facilite-le-dialogue-20220620_C5WQWF4RKNDNZKFXG62IESAKT4/"
-    },
-    {
-      "text": "L\u00e9gislatives",
-      "url": "/politique/elections/dans-les-quartiers-populaires-le-nom-melenchon-a-facilite-le-dialogue-20220620_C5WQWF4RKNDNZKFXG62IESAKT4/"
-    },
-    {
-      "text": "Dans les quartiers populaires, \u00able nom \u201cM\u00e9lenchon\u201d a facilit\u00e9 le dialogue\u00bb",
-      "url": "/politique/elections/dans-les-quartiers-populaires-le-nom-melenchon-a-facilite-le-dialogue-20220620_C5WQWF4RKNDNZKFXG62IESAKT4/"
-    },
-    {
-      "text": "Dans les salons de l\u2019Elys\u00e9e dimanche soir, ambiance fin de\u00a0r\u00e8gne et \u00abIVe\u00a0R\u00e9publique\u00bb",
-      "url": "/politique/a-lelysee-dimanche-soir-ambiance-fin-de-regne-et-ive-republique-20220620_B5Z2IXW7GBCANLRTEANW27FJ7Y/"
-    },
-    {
-      "text": "",
-      "url": "/politique/a-lelysee-dimanche-soir-ambiance-fin-de-regne-et-ive-republique-20220620_B5Z2IXW7GBCANLRTEANW27FJ7Y/"
-    },
-    {
-      "text": "Claque",
-      "url": "/politique/elections/assemblee-la-macronie-a-la-recherche-dune-majorite-introuvable-20220620_K3OZEJWK2ZAKBD56P64K7FM444/"
-    },
-    {
-      "text": "Assembl\u00e9e: la macronie \u00e0 la recherche d\u2019une majorit\u00e9 introuvable",
-      "url": "/politique/elections/assemblee-la-macronie-a-la-recherche-dune-majorite-introuvable-20220620_K3OZEJWK2ZAKBD56P64K7FM444/"
-    },
-    {
-      "text": "",
-      "url": "/politique/elections/assemblee-la-macronie-a-la-recherche-dune-majorite-introuvable-20220620_K3OZEJWK2ZAKBD56P64K7FM444/"
-    },
-    {
-      "text": "R\u00e9cit",
-      "url": "/politique/legislatives-surprise-par-lextreme-droite-la-nupes-cherche-la-bonne-formule-20220620_BJJ6FWU73FH7JC5V4YN6564AKY/"
-    },
-    {
-      "text": "L\u00e9gislatives: surprise par l\u2019extr\u00eame droite, la Nupes cherche la bonne formule",
-      "url": "/politique/legislatives-surprise-par-lextreme-droite-la-nupes-cherche-la-bonne-formule-20220620_BJJ6FWU73FH7JC5V4YN6564AKY/"
-    },
-    {
-      "text": "Reportage",
-      "url": "/societe/droits-des-femmes/abad-et-darmanin-au-gouvernement-comme-si-la-parole-dune-femme-valait-moins-que-le-homard-de-de-rugy-20220620_NICZ3FMPG5ECLMJCBBZQAL67LQ/"
-    },
-    {
-      "text": "Abad et Darmanin au gouvernement: \u00abComme si la parole d\u2019une femme valait moins que le homard de De Rugy!\u00bb ",
-      "url": "/societe/droits-des-femmes/abad-et-darmanin-au-gouvernement-comme-si-la-parole-dune-femme-valait-moins-que-le-homard-de-de-rugy-20220620_NICZ3FMPG5ECLMJCBBZQAL67LQ/"
-    },
-    {
-      "text": "Interview",
-      "url": "/politique/catherine-vautrin-ce-qui-minteresse-cest-de-sortir-le-pays-de-limmobilisme-20220620_OILQVDRTINDWHDCRPOFQEITWNI/"
-    },
-    {
-      "text": "Catherine Vautrin: \u00abJ\u2019appelle \u00e0 la signature d\u2019un pacte de gouvernement entre la majorit\u00e9 pr\u00e9sidentielle et LR\u00bb",
-      "url": "/politique/catherine-vautrin-ce-qui-minteresse-cest-de-sortir-le-pays-de-limmobilisme-20220620_OILQVDRTINDWHDCRPOFQEITWNI/"
-    },
-    {
-      "text": "",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "A la barre",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "Plaidoiries de la d\u00e9fense aux proc\u00e8s du 13 Novembre: \u00abOn oublie que Yassine Atar est pr\u00e9sum\u00e9 innocent\u00bb",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "",
-      "url": "/international/moyen-orient/de-la-syrie-a-lukraine-aiden-aslin-itineraire-dun-combattant-au-xxie-siecle-20220620_JWA3TZENZVC6LLKIEINNZEIHXU/"
-    },
-    {
-      "text": "Portrait",
-      "url": "/international/moyen-orient/de-la-syrie-a-lukraine-aiden-aslin-itineraire-dun-combattant-au-xxie-siecle-20220620_JWA3TZENZVC6LLKIEINNZEIHXU/"
-    },
-    {
-      "text": "De la Syrie \u00e0 la condamnation \u00e0 mort en Ukraine: Aiden Aslin, itin\u00e9raire d\u2019un combattant au XXIe si\u00e8cle",
-      "url": "/international/moyen-orient/de-la-syrie-a-lukraine-aiden-aslin-itineraire-dun-combattant-au-xxie-siecle-20220620_JWA3TZENZVC6LLKIEINNZEIHXU/"
-    },
-    {
-      "text": "",
-      "url": "/international/invasion-russe-zelensky-denonce-une-guerre-coloniale-et-tente-de-gagner-le-coeur-des-africains-20220620_NTFJ27UE6RBXLNNOWSETQD422U/"
-    },
-    {
-      "text": "Discours",
-      "url": "/international/invasion-russe-zelensky-denonce-une-guerre-coloniale-et-tente-de-gagner-le-coeur-des-africains-20220620_NTFJ27UE6RBXLNNOWSETQD422U/"
-    },
-    {
-      "text": "Invasion russe: Zelensky d\u00e9nonce une \u00abguerre coloniale\u00bb et tente de gagner le c\u0153ur des Africains",
-      "url": "/international/invasion-russe-zelensky-denonce-une-guerre-coloniale-et-tente-de-gagner-le-coeur-des-africains-20220620_NTFJ27UE6RBXLNNOWSETQD422U/"
-    },
-    {
-      "text": "",
-      "url": "/international/moyen-orient/israel-la-coalition-au-pouvoir-veut-dissoudre-le-parlement-et-provoquer-des-elections-20220620_IRIR5V7HP5BQDJ4E5EZ7D3JJIY/"
-    },
-    {
-      "text": "Instabilit\u00e9",
-      "url": "/international/moyen-orient/israel-la-coalition-au-pouvoir-veut-dissoudre-le-parlement-et-provoquer-des-elections-20220620_IRIR5V7HP5BQDJ4E5EZ7D3JJIY/"
-    },
-    {
-      "text": "Isra\u00ebl: la coalition au pouvoir veut dissoudre le Parlement et provoquer des \u00e9lections",
-      "url": "/international/moyen-orient/israel-la-coalition-au-pouvoir-veut-dissoudre-le-parlement-et-provoquer-des-elections-20220620_IRIR5V7HP5BQDJ4E5EZ7D3JJIY/"
-    },
-    {
-      "text": "",
-      "url": "/politique/elections/en-direct-legislatives-suivez-les-principales-informations-de-ce-lendemain-des-resultats-du-second-tour-20220620_W4JMZ7L2JZF6NBKM275RR7FBIY/"
-    },
-    {
-      "text": "Au fil de la journ\u00e9e",
-      "url": "/politique/elections/en-direct-legislatives-suivez-les-principales-informations-de-ce-lendemain-des-resultats-du-second-tour-20220620_W4JMZ7L2JZF6NBKM275RR7FBIY/"
-    },
-    {
-      "text": "L\u00e9gislatives: Macron convie les forces politiques mardi et mercredi, le PS, EE-LV et PCF refusent un groupe commun avec LFI, LR divis\u00e9 sur un accord avec la majorit\u00e9 pr\u00e9sidentielle... Retrouvez l\u2019actualit\u00e9 de ce 20 juin",
-      "url": "/politique/elections/en-direct-legislatives-suivez-les-principales-informations-de-ce-lendemain-des-resultats-du-second-tour-20220620_W4JMZ7L2JZF6NBKM275RR7FBIY/"
-    },
-    {
-      "text": "",
-      "url": "/economie/pouvoir-dachat-ce-que-mijote-le-gouvernement-dans-son-projet-de-loi-20220620_ST6LS4SIT5CQROVUXW2U4FJKC4/"
-    },
-    {
-      "text": "D\u00e9cryptage",
-      "url": "/economie/pouvoir-dachat-ce-que-mijote-le-gouvernement-dans-son-projet-de-loi-20220620_ST6LS4SIT5CQROVUXW2U4FJKC4/"
-    },
-    {
-      "text": "Pouvoir d\u2019achat: ce que mijote le gouvernement dans son projet de loi",
-      "url": "/economie/pouvoir-dachat-ce-que-mijote-le-gouvernement-dans-son-projet-de-loi-20220620_ST6LS4SIT5CQROVUXW2U4FJKC4/"
-    },
-    {
-      "text": "",
-      "url": "/politique/presidence-des-groupes-des-commissions-de-lassemblee-nationale-qui-choisit-et-comment-20220620_E3NB2JTJYZEIRMEDKHKDZ2WEQU/"
-    },
-    {
-      "text": "Merci de l'avoir pos\u00e9e",
-      "url": "/politique/presidence-des-groupes-des-commissions-de-lassemblee-nationale-qui-choisit-et-comment-20220620_E3NB2JTJYZEIRMEDKHKDZ2WEQU/"
-    },
-    {
-      "text": "Pr\u00e9sidence des groupes, des commissions, de l\u2019Assembl\u00e9e nationale\u2026 Qui choisit et comment?",
-      "url": "/politique/presidence-des-groupes-des-commissions-de-lassemblee-nationale-qui-choisit-et-comment-20220620_E3NB2JTJYZEIRMEDKHKDZ2WEQU/"
-    },
-    {
-      "text": "Voir tous les contenussponsoris\u00e9s \u2192",
-      "url": "/libeadvert/molotov-tv/"
-    },
-    {
-      "text": "",
-      "url": "/libeadvert/molotov-tv/fete-de-la-musique-et-festivals-dete-2022-comment-vivre-en-direct-en-replay-ou-enregistrer-cet-ete-culturel-sur-tous-vos-ecrans-20220617_XVLKXMA76JH55FLCB4YN3CXFGU/"
-    },
-    {
-      "text": "F\u00eate de la Musique et Festivals d\u2019Et\u00e9 2022 : comment vivre en direct, en replay ou enregistrer cet \u00e9t\u00e9 culturel sur tous vos \u00e9crans ?Par Molotov TV",
-      "url": "/libeadvert/molotov-tv/fete-de-la-musique-et-festivals-dete-2022-comment-vivre-en-direct-en-replay-ou-enregistrer-cet-ete-culturel-sur-tous-vos-ecrans-20220617_XVLKXMA76JH55FLCB4YN3CXFGU/"
-    },
-    {
-      "text": "",
-      "url": "/libeadvert/molotov-tv/festival-de-cannes-2022-comment-suivre-en-direct-en-replay-ou-enregistrer-sur-vos-ecrans-cette-edition-si-attendue-20220517_RG6LDAF2V5DOBH3QUHPQAUIVOI/"
-    },
-    {
-      "text": "Festival de Cannes 2022 : comment suivre en direct, en replay ou enregistrer sur vos \u00e9crans cette \u00e9dition si attendue ?Par Molotov TV",
-      "url": "/libeadvert/molotov-tv/festival-de-cannes-2022-comment-suivre-en-direct-en-replay-ou-enregistrer-sur-vos-ecrans-cette-edition-si-attendue-20220517_RG6LDAF2V5DOBH3QUHPQAUIVOI/"
-    },
-    {
-      "text": "Plaidoiries de la d\u00e9fense aux proc\u00e8s du 13 Novembre: \u00abOn oublie que Yassine Atar est pr\u00e9sum\u00e9 innocent\u00bb",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "Police / Justice",
-      "url": "/societe/police-justice/"
-    },
-    {
-      "text": "L\u00e9gislatives: Macron convie les forces politiques mardi et mercredi, le PS, EE-LV et PCF refusent un groupe commun avec LFI, LR divis\u00e9 sur un accord avec la majorit\u00e9 pr\u00e9sidentielle... Retrouvez l\u2019actualit\u00e9 de ce 20 juin",
-      "url": "/politique/elections/en-direct-legislatives-suivez-les-principales-informations-de-ce-lendemain-des-resultats-du-second-tour-20220620_W4JMZ7L2JZF6NBKM275RR7FBIY/"
-    },
-    {
-      "text": "Elections",
-      "url": "/politique/elections/"
-    },
-    {
-      "text": "Guerre en Ukraine: Zelensky et l\u2019Union Africaine sur le blocus des c\u00e9r\u00e9ales, n\u00e9gos \u00e0 l\u2019Otan entre la Su\u00e8de, la Finlande et la Turquie, explosions \u00e0 Odessa... retrouvez l\u2019actu de ce 20 juin",
-      "url": "/international/europe/en-direct-guerre-en-ukraine-retrouvez-les-dernieres-actualites-liees-a-linvasion-russe-20220620_4XUSS4KDHZB23HCY5ND62IDX5Y/"
-    },
-    {
-      "text": "Europe",
-      "url": "/international/europe/"
-    },
-    {
-      "text": "Abad et Darmanin au gouvernement: \u00abComme si la parole d\u2019une femme valait moins que le homard de De Rugy!\u00bb ",
-      "url": "/societe/droits-des-femmes/abad-et-darmanin-au-gouvernement-comme-si-la-parole-dune-femme-valait-moins-que-le-homard-de-de-rugy-20220620_NICZ3FMPG5ECLMJCBBZQAL67LQ/"
-    },
-    {
-      "text": "Droits des femmes",
-      "url": "/societe/droits-des-femmes/"
-    },
-    {
-      "text": "Isra\u00ebl: la coalition au pouvoir veut dissoudre le Parlement et provoquer des \u00e9lections",
-      "url": "/international/moyen-orient/israel-la-coalition-au-pouvoir-veut-dissoudre-le-parlement-et-provoquer-des-elections-20220620_IRIR5V7HP5BQDJ4E5EZ7D3JJIY/"
-    },
-    {
-      "text": "Moyen-Orient",
-      "url": "/international/moyen-orient/"
-    },
-    {
-      "text": "Invasion russe: Zelensky d\u00e9nonce une \u00abguerre coloniale\u00bb et tente de gagner le c\u0153ur des Africains",
-      "url": "/international/invasion-russe-zelensky-denonce-une-guerre-coloniale-et-tente-de-gagner-le-coeur-des-africains-20220620_NTFJ27UE6RBXLNNOWSETQD422U/"
-    },
-    {
-      "text": "International",
-      "url": "/international/"
-    },
-    {
-      "text": "Bal de rentr\u00e9e \u00e0 l\u2019Assembl\u00e9e et casse-t\u00eate \u00e0 l\u2019Elys\u00e9e, lancement du grand oral du bac, \u00abpetit break\u00bb pour Papadakis et Cizeron... l\u2019actu de ce lundi soir",
-      "url": "/politique/elections/bal-de-rentree-a-lassemblee-et-casse-tete-a-lelysee-lancement-du-grand-oral-du-bac-petit-break-pour-papadakis-et-cizeron-lactu-de-ce-lundi-soir-20220620_55PLF5733RALTCOYE5LC64K5U4/"
-    },
-    {
-      "text": "Elections",
-      "url": "/politique/elections/"
-    },
-    {
-      "text": "M\u00e9lenchon propose un groupe unique \u00e0 l\u2019Assembl\u00e9e, les autres composantes de la Nupes refusent",
-      "url": "/politique/elections/melenchon-propose-un-groupe-unique-a-lassemblee-les-autres-composantes-de-la-nupes-refusent-20220620_KEIPUPMCXBCZTDEKZLABELAUFE/"
-    },
-    {
-      "text": "Elections",
-      "url": "/politique/elections/"
-    },
-    {
-      "text": "toute l\u2019actualit\u00e9 en direct",
-      "url": "/fil-info/"
-    },
-    {
-      "text": "\u00c9lections l\u00e9gislatives 2022: le troisi\u00e8me tour",
-      "url": "https://www.liberation.fr/dossier/legislatives-2022/"
-    },
-    {
-      "text": "",
-      "url": "/politique/elections/en-direct-legislatives-suivez-les-principales-informations-de-ce-lendemain-des-resultats-du-second-tour-20220620_W4JMZ7L2JZF6NBKM275RR7FBIY/"
-    },
-    {
-      "text": "L\u00e9gislatives: Macron convie les forces politiques mardi et mercredi, le PS, EE-LV et PCF refusent un groupe commun avec LFI, LR divis\u00e9 sur un accord avec la majorit\u00e9 pr\u00e9sidentielle... Retrouvez l\u2019actualit\u00e9 de ce 20 juin",
-      "url": "/politique/elections/en-direct-legislatives-suivez-les-principales-informations-de-ce-lendemain-des-resultats-du-second-tour-20220620_W4JMZ7L2JZF6NBKM275RR7FBIY/"
-    },
-    {
-      "text": "Rassemblement national: la rupture du barrage r\u00e9publicain",
-      "url": "/politique/elections/rassemblement-national-la-rupture-du-barrage-republicain-20220620_3PUC2JXSBFDUTCBXRLXRT4SRDE/"
-    },
-    {
-      "text": "L\u00e9gislatives: pour Macron, la France \u00abingouvernable\u00bb bon gr\u00e9 mal gr\u00e9",
-      "url": "/idees-et-debats/editorial/legislatives-pour-macron-la-france-ingouvernable-bon-gre-mal-gre-20220620_YS6X3QDV4JA3TOHQ56DQAOVZE4/"
-    },
-    {
-      "text": "Assembl\u00e9e: la macronie \u00e0 la recherche d\u2019une majorit\u00e9 introuvable",
-      "url": "/politique/elections/assemblee-la-macronie-a-la-recherche-dune-majorite-introuvable-20220620_K3OZEJWK2ZAKBD56P64K7FM444/"
-    },
-    {
-      "text": "L\u00e9gislatives: surprise par l\u2019extr\u00eame droite, la Nupes cherche la bonne formule",
-      "url": "/politique/legislatives-surprise-par-lextreme-droite-la-nupes-cherche-la-bonne-formule-20220620_BJJ6FWU73FH7JC5V4YN6564AKY/"
-    },
-    {
-      "text": "M\u00e9lenchon propose un groupe unique \u00e0 l\u2019Assembl\u00e9e, les autres composantes de la Nupes refusent",
-      "url": "/politique/elections/melenchon-propose-un-groupe-unique-a-lassemblee-les-autres-composantes-de-la-nupes-refusent-20220620_KEIPUPMCXBCZTDEKZLABELAUFE/"
-    },
-    {
-      "text": "",
-      "url": "/societe/education/pour-le-grand-oral-du-bac-blanquer-une-saison-2-poussive-et-chaotique-20220619_3EOUACQGORA5NKG77WRFOZHGT4/"
-    },
-    {
-      "text": "Baccalaur\u00e9at",
-      "url": "/societe/education/pour-le-grand-oral-du-bac-blanquer-une-saison-2-poussive-et-chaotique-20220619_3EOUACQGORA5NKG77WRFOZHGT4/"
-    },
-    {
-      "text": "Pour le grand oral du bac Blanquer, une saison\u00a02 poussive et \u00abchaotique\u00bb",
-      "url": "/societe/education/pour-le-grand-oral-du-bac-blanquer-une-saison-2-poussive-et-chaotique-20220619_3EOUACQGORA5NKG77WRFOZHGT4/"
-    },
-    {
-      "text": "",
-      "url": "/societe/sante/dans-les-coulisses-du-depart-de-martin-hirsch-lap-hp-theatre-des-manoeuvres-politiques-20220619_ONFKDTUHFNGQ3FOKUM3H4WDNYY/"
-    },
-    {
-      "text": "Enqu\u00eate",
-      "url": "/societe/sante/dans-les-coulisses-du-depart-de-martin-hirsch-lap-hp-theatre-des-manoeuvres-politiques-20220619_ONFKDTUHFNGQ3FOKUM3H4WDNYY/"
-    },
-    {
-      "text": "AP-HP: dans les coulisses du d\u00e9part tr\u00e8s politique de Martin Hirsch",
-      "url": "/societe/sante/dans-les-coulisses-du-depart-de-martin-hirsch-lap-hp-theatre-des-manoeuvres-politiques-20220619_ONFKDTUHFNGQ3FOKUM3H4WDNYY/"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/developpement-personnel-ils-coachent-toutes-les-cases-20220618_OEIETCW5KRGBDC74YYIYKKH3MY/"
-    },
-    {
-      "text": "Coach qu'il en co\u00fbte",
-      "url": "/lifestyle/developpement-personnel-ils-coachent-toutes-les-cases-20220618_OEIETCW5KRGBDC74YYIYKKH3MY/"
-    },
-    {
-      "text": "D\u00e9veloppement personnel: ils coachent toutes les cases",
-      "url": "/lifestyle/developpement-personnel-ils-coachent-toutes-les-cases-20220618_OEIETCW5KRGBDC74YYIYKKH3MY/"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/gastronomie/ne-faites-pas-la-guerre-faites-du-pate-en-croute-20220620_7H2GHLKAMFCUZDU55JYL73YZZM/"
-    },
-    {
-      "text": "Epices and love",
-      "url": "/lifestyle/gastronomie/ne-faites-pas-la-guerre-faites-du-pate-en-croute-20220620_7H2GHLKAMFCUZDU55JYL73YZZM/"
-    },
-    {
-      "text": "Ne faites pas la guerre, faites du p\u00e2t\u00e9 en cro\u00fbte",
-      "url": "/lifestyle/gastronomie/ne-faites-pas-la-guerre-faites-du-pate-en-croute-20220620_7H2GHLKAMFCUZDU55JYL73YZZM/"
-    },
-    {
-      "text": "",
-      "url": "/culture/musique/steve-vai-deux-mains-et-un-autre-tour-20220619_MW44KGQQAJCYPNADFT5V35UFVU/"
-    },
-    {
-      "text": "Guitar hero",
-      "url": "/culture/musique/steve-vai-deux-mains-et-un-autre-tour-20220619_MW44KGQQAJCYPNADFT5V35UFVU/"
-    },
-    {
-      "text": "Steve Vai, deux mains et un autre tour",
-      "url": "/culture/musique/steve-vai-deux-mains-et-un-autre-tour-20220619_MW44KGQQAJCYPNADFT5V35UFVU/"
-    },
-    {
-      "text": "",
-      "url": "/culture/musique/festival-dathenes-et-depidaure-verdi-en-verve-a-lacropole-20220616_A4Z3W3PBIRAHZBEOLN5YTGZ4UI/"
-    },
-    {
-      "text": "Reportage",
-      "url": "/culture/musique/festival-dathenes-et-depidaure-verdi-en-verve-a-lacropole-20220616_A4Z3W3PBIRAHZBEOLN5YTGZ4UI/"
-    },
-    {
-      "text": "Festival d\u2019Ath\u00e8nes et d\u2019Epidaure: Verdi en verve \u00e0 l\u2019Acropole",
-      "url": "/culture/musique/festival-dathenes-et-depidaure-verdi-en-verve-a-lacropole-20220616_A4Z3W3PBIRAHZBEOLN5YTGZ4UI/"
-    },
-    {
-      "text": "",
-      "url": "/culture/musique/twarab-echo-des-comores-20220614_7UBKRPUIIBFUDBAF72VH3ZGMGY/"
-    },
-    {
-      "text": "Reportage",
-      "url": "/culture/musique/twarab-echo-des-comores-20220614_7UBKRPUIIBFUDBAF72VH3ZGMGY/"
-    },
-    {
-      "text": "Twarab, \u00e9cho des Comores",
-      "url": "/culture/musique/twarab-echo-des-comores-20220614_7UBKRPUIIBFUDBAF72VH3ZGMGY/"
-    },
-    {
-      "text": "",
-      "url": "/culture/musique/florent-marchet-epris-de-justesse-20220613_LT3XERF6CRAMJAG42KNMBVDERA/"
-    },
-    {
-      "text": "Chanson fran\u00e7aise",
-      "url": "/culture/musique/florent-marchet-epris-de-justesse-20220613_LT3XERF6CRAMJAG42KNMBVDERA/"
-    },
-    {
-      "text": "Florent Marchet, \u00e9pris de justesse",
-      "url": "/culture/musique/florent-marchet-epris-de-justesse-20220613_LT3XERF6CRAMJAG42KNMBVDERA/"
-    },
-    {
-      "text": "Ukraine, une guerre au c\u0153ur de l'Europe",
-      "url": "https://www.liberation.fr/dossier/ukraine-la-crise/"
-    },
-    {
-      "text": "",
-      "url": "/international/europe/en-direct-guerre-en-ukraine-retrouvez-les-dernieres-actualites-liees-a-linvasion-russe-20220620_4XUSS4KDHZB23HCY5ND62IDX5Y/"
-    },
-    {
-      "text": "Guerre en Ukraine: Zelensky et l\u2019Union Africaine sur le blocus des c\u00e9r\u00e9ales, n\u00e9gos \u00e0 l\u2019Otan entre la Su\u00e8de, la Finlande et la Turquie, explosions \u00e0 Odessa... retrouvez l\u2019actu de ce 20 juin",
-      "url": "/international/europe/en-direct-guerre-en-ukraine-retrouvez-les-dernieres-actualites-liees-a-linvasion-russe-20220620_4XUSS4KDHZB23HCY5ND62IDX5Y/"
-    },
-    {
-      "text": "",
-      "url": "/international/invasion-russe-zelensky-denonce-une-guerre-coloniale-et-tente-de-gagner-le-coeur-des-africains-20220620_NTFJ27UE6RBXLNNOWSETQD422U/"
-    },
-    {
-      "text": "Invasion russe: Zelensky d\u00e9nonce une \u00abguerre coloniale\u00bb et tente de gagner le c\u0153ur des Africains",
-      "url": "/international/invasion-russe-zelensky-denonce-une-guerre-coloniale-et-tente-de-gagner-le-coeur-des-africains-20220620_NTFJ27UE6RBXLNNOWSETQD422U/"
-    },
-    {
-      "text": "",
-      "url": "/idees-et-debats/tribunes/lurgence-construire-une-vraie-democratie-20220620_DUJTWSN46VDV3OKZYH5DLL3MLI/"
-    },
-    {
-      "text": "L\u2019urgence: construire une vraie d\u00e9mocratie",
-      "url": "/idees-et-debats/tribunes/lurgence-construire-une-vraie-democratie-20220620_DUJTWSN46VDV3OKZYH5DLL3MLI/"
-    },
-    {
-      "text": "",
-      "url": "/international/moyen-orient/de-la-syrie-a-lukraine-aiden-aslin-itineraire-dun-combattant-au-xxie-siecle-20220620_JWA3TZENZVC6LLKIEINNZEIHXU/"
-    },
-    {
-      "text": "De la Syrie \u00e0 la condamnation \u00e0 mort en Ukraine: Aiden Aslin, itin\u00e9raire d\u2019un combattant au XXIe si\u00e8cle",
-      "url": "/international/moyen-orient/de-la-syrie-a-lukraine-aiden-aslin-itineraire-dun-combattant-au-xxie-siecle-20220620_JWA3TZENZVC6LLKIEINNZEIHXU/"
-    },
-    {
-      "text": "",
-      "url": "/international/face-a-la-penurie-de-gaz-lallemagne-retourne-au-charbon-20220619_XQEBF32GBJCQBHHZOBHJYBTJ5I/"
-    },
-    {
-      "text": "Face \u00e0 la p\u00e9nurie de gaz, l\u2019Allemagne retourne au charbon",
-      "url": "/international/face-a-la-penurie-de-gaz-lallemagne-retourne-au-charbon-20220619_XQEBF32GBJCQBHHZOBHJYBTJ5I/"
-    },
-    {
-      "text": "CheckNews",
-      "url": "https://www.liberation.fr/checknews/"
-    },
-    {
-      "text": "",
-      "url": "/checknews/covid-est-il-vrai-que-93-des-morts-lies-au-sous-variant-ba5-au-portugal-ont-plus-de-80-ans-comme-la-declare-lepidemiologiste-antoine-flahault-20220620_SIXYVCBQT5F4BIL52XVDLHNSSE/"
-    },
-    {
-      "text": "Covid: est-il vrai que 93% des morts li\u00e9s au sous-variant BA.5 au Portugal ont plus de 80 ans, comme l\u2019a d\u00e9clar\u00e9 l\u2019\u00e9pid\u00e9miologiste Antoine Flahault?",
-      "url": "/checknews/covid-est-il-vrai-que-93-des-morts-lies-au-sous-variant-ba5-au-portugal-ont-plus-de-80-ans-comme-la-declare-lepidemiologiste-antoine-flahault-20220620_SIXYVCBQT5F4BIL52XVDLHNSSE/"
-    },
-    {
-      "text": "",
-      "url": "/checknews/assemblee-nationale-la-presidence-de-la-commission-des-finances-devra-t-elle-revenir-a-un-depute-rn-20220620_TSNBHRPM6RCN5CZMZIQRNB45CQ/"
-    },
-    {
-      "text": "Assembl\u00e9e nationale: la pr\u00e9sidence de la commission des finances devra-t-elle revenir \u00e0 un d\u00e9put\u00e9 RN?",
-      "url": "/checknews/assemblee-nationale-la-presidence-de-la-commission-des-finances-devra-t-elle-revenir-a-un-depute-rn-20220620_TSNBHRPM6RCN5CZMZIQRNB45CQ/"
-    },
-    {
-      "text": "",
-      "url": "/checknews/les-ministres-battues-aux-legislatives-vont-elles-recevoir-une-retraite-a-vie-20220620_FIE7ZLLSMFE3LKDHG6IK4QDPVM/"
-    },
-    {
-      "text": "Les ministres battues aux l\u00e9gislatives vont-elles recevoir une \u00abretraite \u00e0 vie\u00bb?",
-      "url": "/checknews/les-ministres-battues-aux-legislatives-vont-elles-recevoir-une-retraite-a-vie-20220620_FIE7ZLLSMFE3LKDHG6IK4QDPVM/"
-    },
-    {
-      "text": "",
-      "url": "/checknews/front-republicain-la-macronie-a-t-elle-eu-une-position-claire-face-au-rassemblement-national-comme-le-pretend-olivia-gregoire-20220620_EANUUI5YSVB45ACLKZ2FJKZAB4/"
-    },
-    {
-      "text": "Front r\u00e9publicain: la macronie a-t-elle eu une position \u00abclaire\u00bb face au Rassemblement national comme le pr\u00e9tend Olivia Gr\u00e9goire?",
-      "url": "/checknews/front-republicain-la-macronie-a-t-elle-eu-une-position-claire-face-au-rassemblement-national-comme-le-pretend-olivia-gregoire-20220620_EANUUI5YSVB45ACLKZ2FJKZAB4/"
-    },
-    {
-      "text": "Les portraits de Lib\u00e9ration",
-      "url": "https://www.liberation.fr/portraits/"
-    },
-    {
-      "text": "Culture",
-      "url": "https://www.liberation.fr/culture/"
-    },
-    {
-      "text": "",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Le portrait",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Anne Akrich, d\u00e9sir est ma\u00eetre",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "",
-      "url": "/culture/arts/art-contemporain/documenta-lor-du-commun-20220620_SHCV7NRDEVGC7MDL353RVEB4GY/"
-    },
-    {
-      "text": "Art contemporain",
-      "url": "/culture/arts/art-contemporain/documenta-lor-du-commun-20220620_SHCV7NRDEVGC7MDL353RVEB4GY/"
-    },
-    {
-      "text": "Documenta, l\u2019or du commun",
-      "url": "/culture/arts/art-contemporain/documenta-lor-du-commun-20220620_SHCV7NRDEVGC7MDL353RVEB4GY/"
-    },
-    {
-      "text": "",
-      "url": "/culture/livres/lundi-poesie-maud-thiria-disseque-les-violences-conjugales-20220620_24JQVKUTPBA6HGDM2QV3NXXNGI/"
-    },
-    {
-      "text": "Litt\u00e9rature",
-      "url": "/culture/livres/lundi-poesie-maud-thiria-disseque-les-violences-conjugales-20220620_24JQVKUTPBA6HGDM2QV3NXXNGI/"
-    },
-    {
-      "text": "Lundi po\u00e9sie: Maud Thiria diss\u00e8que les violences conjugales",
-      "url": "/culture/livres/lundi-poesie-maud-thiria-disseque-les-violences-conjugales-20220620_24JQVKUTPBA6HGDM2QV3NXXNGI/"
-    },
-    {
-      "text": "",
-      "url": "/culture/arts/art-contemporain/dominique-figarella-a-pied-doeuvres-20220620_VHTYHKUPOVF3LCJT746TK5LJ4M/"
-    },
-    {
-      "text": "Art contemporain",
-      "url": "/culture/arts/art-contemporain/dominique-figarella-a-pied-doeuvres-20220620_VHTYHKUPOVF3LCJT746TK5LJ4M/"
-    },
-    {
-      "text": "Dominique Figarella, \u00abA pied\u00bb d\u2019\u0153uvres",
-      "url": "/culture/arts/art-contemporain/dominique-figarella-a-pied-doeuvres-20220620_VHTYHKUPOVF3LCJT746TK5LJ4M/"
-    },
-    {
-      "text": "",
-      "url": "/culture/scenes/nosztalgia-express-de-marc-laine-la-cle-des-chants-20220619_3DWGQ4MR4FE4NM6XIGZBZF26JI/"
-    },
-    {
-      "text": "Th\u00e9\u00e2tre",
-      "url": "/culture/scenes/nosztalgia-express-de-marc-laine-la-cle-des-chants-20220619_3DWGQ4MR4FE4NM6XIGZBZF26JI/"
-    },
-    {
-      "text": "\u00abNosztalgia Express\u00bb de Marc Lain\u00e9, la cl\u00e9 des chants",
-      "url": "/culture/scenes/nosztalgia-express-de-marc-laine-la-cle-des-chants-20220619_3DWGQ4MR4FE4NM6XIGZBZF26JI/"
-    },
-    {
-      "text": "Opinions",
-      "url": "https://www.liberation.fr/idees-et-debats/"
-    },
-    {
-      "text": "",
-      "url": "/plus/pourquoi-grimpez-vous-20220604_LV7UA7MCEZCOPKYNPN4CRNEXA4/"
-    },
-    {
-      "text": "Montagnes",
-      "url": "/plus/pourquoi-grimpez-vous-20220604_LV7UA7MCEZCOPKYNPN4CRNEXA4/"
-    },
-    {
-      "text": "Pourquoi grimpez-vous? ",
-      "url": "/plus/pourquoi-grimpez-vous-20220604_LV7UA7MCEZCOPKYNPN4CRNEXA4/"
-    },
-    {
-      "text": "",
-      "url": "/plus/sylvain-tesson-un-territoire-de-la-liberte-20220615_V6ZRT4HOYJF5PG4XXBRIIC55UM/"
-    },
-    {
-      "text": "Pourquoi grimpez-vous?",
-      "url": "/plus/sylvain-tesson-un-territoire-de-la-liberte-20220615_V6ZRT4HOYJF5PG4XXBRIIC55UM/"
-    },
-    {
-      "text": "Sylvain Tesson: \u00abUn territoire de la libert\u00e9\u00bb",
-      "url": "/plus/sylvain-tesson-un-territoire-de-la-liberte-20220615_V6ZRT4HOYJF5PG4XXBRIIC55UM/"
-    },
-    {
-      "text": "",
-      "url": "/plus/nadir-dendoune-leverest-pour-etre-vu-et-entendu-20220615_FHWWYK3GPVGQ7A226HKB24HESI/"
-    },
-    {
-      "text": "Pourquoi grimpez-vous?",
-      "url": "/plus/nadir-dendoune-leverest-pour-etre-vu-et-entendu-20220615_FHWWYK3GPVGQ7A226HKB24HESI/"
-    },
-    {
-      "text": "Nadir Dendoune: \u00abL\u2019Everest pour \u00eatre vu et entendu\u00bb",
-      "url": "/plus/nadir-dendoune-leverest-pour-etre-vu-et-entendu-20220615_FHWWYK3GPVGQ7A226HKB24HESI/"
-    },
-    {
-      "text": "",
-      "url": "/plus/cedric-gras-cette-idee-quon-est-plus-pres-du-ciel-20220615_XNUSCLBR2NAEPFBJZMQHPOTGLE/"
-    },
-    {
-      "text": "Pourquoi grimpez-vous?",
-      "url": "/plus/cedric-gras-cette-idee-quon-est-plus-pres-du-ciel-20220615_XNUSCLBR2NAEPFBJZMQHPOTGLE/"
-    },
-    {
-      "text": "C\u00e9dric Gras: \u00abCette id\u00e9e qu\u2019on est plus pr\u00e8s du ciel\u00bb",
-      "url": "/plus/cedric-gras-cette-idee-quon-est-plus-pres-du-ciel-20220615_XNUSCLBR2NAEPFBJZMQHPOTGLE/"
-    },
-    {
-      "text": "",
-      "url": "/plus/sophie-lavaud-ce-monde-totalement-a-part-20220615_OJSUOFSQNJF4XENTIQ5DLOOYKQ/"
-    },
-    {
-      "text": "Pourquoi grimpez-vous?",
-      "url": "/plus/sophie-lavaud-ce-monde-totalement-a-part-20220615_OJSUOFSQNJF4XENTIQ5DLOOYKQ/"
-    },
-    {
-      "text": "Sophie Lavaud: \u00abCe monde totalement \u00e0 part\u00bb",
-      "url": "/plus/sophie-lavaud-ce-monde-totalement-a-part-20220615_OJSUOFSQNJF4XENTIQ5DLOOYKQ/"
-    },
-    {
-      "text": "",
-      "url": "/politique/elections/en-direct-legislatives-suivez-les-principales-informations-de-ce-lendemain-des-resultats-du-second-tour-20220620_W4JMZ7L2JZF6NBKM275RR7FBIY/"
-    },
-    {
-      "text": "Au fil de la journ\u00e9e",
-      "url": "/politique/elections/en-direct-legislatives-suivez-les-principales-informations-de-ce-lendemain-des-resultats-du-second-tour-20220620_W4JMZ7L2JZF6NBKM275RR7FBIY/"
-    },
-    {
-      "text": "L\u00e9gislatives: Macron convie les forces politiques mardi et mercredi, le PS, EE-LV et PCF refusent un groupe commun avec LFI, LR divis\u00e9 sur un accord avec la majorit\u00e9 pr\u00e9sidentielle... Retrouvez l\u2019actualit\u00e9 de ce 20 juin",
-      "url": "/politique/elections/en-direct-legislatives-suivez-les-principales-informations-de-ce-lendemain-des-resultats-du-second-tour-20220620_W4JMZ7L2JZF6NBKM275RR7FBIY/"
-    },
-    {
-      "text": "Rassemblement national: la rupture du barrage r\u00e9publicain",
-      "url": "/politique/elections/rassemblement-national-la-rupture-du-barrage-republicain-20220620_3PUC2JXSBFDUTCBXRLXRT4SRDE/"
-    },
-    {
-      "text": "Elections",
-      "url": "/politique/elections/"
-    },
-    {
-      "text": "L\u00e9gislatives: pour Macron, la France \u00abingouvernable\u00bb bon gr\u00e9 mal gr\u00e9",
-      "url": "/idees-et-debats/editorial/legislatives-pour-macron-la-france-ingouvernable-bon-gre-mal-gre-20220620_YS6X3QDV4JA3TOHQ56DQAOVZE4/"
-    },
-    {
-      "text": "Editorial",
-      "url": "/idees-et-debats/editorial/"
-    },
-    {
-      "text": "Assembl\u00e9e: la macronie \u00e0 la recherche d\u2019une majorit\u00e9 introuvable",
-      "url": "/politique/elections/assemblee-la-macronie-a-la-recherche-dune-majorite-introuvable-20220620_K3OZEJWK2ZAKBD56P64K7FM444/"
-    },
-    {
-      "text": "Elections",
-      "url": "/politique/elections/"
-    },
-    {
-      "text": "",
-      "url": "/international/europe/en-direct-guerre-en-ukraine-retrouvez-les-dernieres-actualites-liees-a-linvasion-russe-20220620_4XUSS4KDHZB23HCY5ND62IDX5Y/"
-    },
-    {
-      "text": "L'essentiel",
-      "url": "/international/europe/en-direct-guerre-en-ukraine-retrouvez-les-dernieres-actualites-liees-a-linvasion-russe-20220620_4XUSS4KDHZB23HCY5ND62IDX5Y/"
-    },
-    {
-      "text": "Guerre en Ukraine: Zelensky et l\u2019Union Africaine sur le blocus des c\u00e9r\u00e9ales, n\u00e9gos \u00e0 l\u2019Otan entre la Su\u00e8de, la Finlande et la Turquie, explosions \u00e0 Odessa... retrouvez l\u2019actu de ce 20 juin",
-      "url": "/international/europe/en-direct-guerre-en-ukraine-retrouvez-les-dernieres-actualites-liees-a-linvasion-russe-20220620_4XUSS4KDHZB23HCY5ND62IDX5Y/"
-    },
-    {
-      "text": "Isra\u00ebl: la coalition au pouvoir veut dissoudre le Parlement et provoquer des \u00e9lections",
-      "url": "/international/moyen-orient/israel-la-coalition-au-pouvoir-veut-dissoudre-le-parlement-et-provoquer-des-elections-20220620_IRIR5V7HP5BQDJ4E5EZ7D3JJIY/"
-    },
-    {
-      "text": "Moyen-Orient",
-      "url": "/international/moyen-orient/"
-    },
-    {
-      "text": "Invasion russe: Zelensky d\u00e9nonce une \u00abguerre coloniale\u00bb et tente de gagner le c\u0153ur des Africains",
-      "url": "/international/invasion-russe-zelensky-denonce-une-guerre-coloniale-et-tente-de-gagner-le-coeur-des-africains-20220620_NTFJ27UE6RBXLNNOWSETQD422U/"
-    },
-    {
-      "text": "International",
-      "url": "/international/"
-    },
-    {
-      "text": "Gr\u00e8ve g\u00e9ante dans les transports britanniques: paralysie en vue",
-      "url": "/international/europe/greve-geante-dans-les-transports-britanniques-paralysie-en-vue-20220620_ASUGQI4HVJCMJN7A343S4EFIAE/"
-    },
-    {
-      "text": "Europe",
-      "url": "/international/europe/"
-    },
-    {
-      "text": "",
-      "url": "/checknews/covid-est-il-vrai-que-93-des-morts-lies-au-sous-variant-ba5-au-portugal-ont-plus-de-80-ans-comme-la-declare-lepidemiologiste-antoine-flahault-20220620_SIXYVCBQT5F4BIL52XVDLHNSSE/"
-    },
-    {
-      "text": "CheckNews",
-      "url": "/checknews/covid-est-il-vrai-que-93-des-morts-lies-au-sous-variant-ba5-au-portugal-ont-plus-de-80-ans-comme-la-declare-lepidemiologiste-antoine-flahault-20220620_SIXYVCBQT5F4BIL52XVDLHNSSE/"
-    },
-    {
-      "text": "Covid: est-il vrai que 93% des morts li\u00e9s au sous-variant BA.5 au Portugal ont plus de 80 ans, comme l\u2019a d\u00e9clar\u00e9 l\u2019\u00e9pid\u00e9miologiste Antoine Flahault?",
-      "url": "/checknews/covid-est-il-vrai-que-93-des-morts-lies-au-sous-variant-ba5-au-portugal-ont-plus-de-80-ans-comme-la-declare-lepidemiologiste-antoine-flahault-20220620_SIXYVCBQT5F4BIL52XVDLHNSSE/"
-    },
-    {
-      "text": "Assembl\u00e9e nationale: la pr\u00e9sidence de la commission des finances devra-t-elle revenir \u00e0 un d\u00e9put\u00e9 RN?",
-      "url": "/checknews/assemblee-nationale-la-presidence-de-la-commission-des-finances-devra-t-elle-revenir-a-un-depute-rn-20220620_TSNBHRPM6RCN5CZMZIQRNB45CQ/"
-    },
-    {
-      "text": "CheckNews",
-      "url": "/checknews/"
-    },
-    {
-      "text": "Les ministres battues aux l\u00e9gislatives vont-elles recevoir une \u00abretraite \u00e0 vie\u00bb?",
-      "url": "/checknews/les-ministres-battues-aux-legislatives-vont-elles-recevoir-une-retraite-a-vie-20220620_FIE7ZLLSMFE3LKDHG6IK4QDPVM/"
-    },
-    {
-      "text": "CheckNews",
-      "url": "/checknews/"
-    },
-    {
-      "text": "Front r\u00e9publicain: la macronie a-t-elle eu une position \u00abclaire\u00bb face au Rassemblement national comme le pr\u00e9tend Olivia Gr\u00e9goire?",
-      "url": "/checknews/front-republicain-la-macronie-a-t-elle-eu-une-position-claire-face-au-rassemblement-national-comme-le-pretend-olivia-gregoire-20220620_EANUUI5YSVB45ACLKZ2FJKZAB4/"
-    },
-    {
-      "text": "CheckNews",
-      "url": "/checknews/"
-    },
-    {
-      "text": "",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Le portrait",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Anne Akrich, d\u00e9sir est ma\u00eetre",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Documenta, l\u2019or du commun",
-      "url": "/culture/arts/art-contemporain/documenta-lor-du-commun-20220620_SHCV7NRDEVGC7MDL353RVEB4GY/"
-    },
-    {
-      "text": "Art contemporain",
-      "url": "/culture/arts/art-contemporain/"
-    },
-    {
-      "text": "Lundi po\u00e9sie: Maud Thiria diss\u00e8que les violences conjugales",
-      "url": "/culture/livres/lundi-poesie-maud-thiria-disseque-les-violences-conjugales-20220620_24JQVKUTPBA6HGDM2QV3NXXNGI/"
-    },
-    {
-      "text": "Livres",
-      "url": "/culture/livres/"
-    },
-    {
-      "text": "Dominique Figarella, \u00abA pied\u00bb d\u2019\u0153uvres",
-      "url": "/culture/arts/art-contemporain/dominique-figarella-a-pied-doeuvres-20220620_VHTYHKUPOVF3LCJT746TK5LJ4M/"
-    },
-    {
-      "text": "Art contemporain",
-      "url": "/culture/arts/art-contemporain/"
-    },
-    {
-      "text": "",
-      "url": "/idees-et-debats/tribunes/lurgence-construire-une-vraie-democratie-20220620_DUJTWSN46VDV3OKZYH5DLL3MLI/"
-    },
-    {
-      "text": "L'apr\u00e8s-second tour",
-      "url": "/idees-et-debats/tribunes/lurgence-construire-une-vraie-democratie-20220620_DUJTWSN46VDV3OKZYH5DLL3MLI/"
-    },
-    {
-      "text": "L\u2019urgence: construire une vraie d\u00e9mocratie",
-      "url": "/idees-et-debats/tribunes/lurgence-construire-une-vraie-democratie-20220620_DUJTWSN46VDV3OKZYH5DLL3MLI/"
-    },
-    {
-      "text": "Les R\u00e9publicains, parti de gouvernement r\u00e9duit \u00e0 une force d\u2019appoint",
-      "url": "/idees-et-debats/tribunes/les-republicains-parti-de-gouvernement-reduit-a-une-force-dappoint-20220620_42ZRMLUR4ZF23NYWIW4U3ANDPY/"
-    },
-    {
-      "text": "Tribunes",
-      "url": "/idees-et-debats/tribunes/"
-    },
-    {
-      "text": "Assembl\u00e9e nationale: pas de majorit\u00e9 pr\u00e9sidentielle sans la droite",
-      "url": "/idees-et-debats/tribunes/pas-de-majorite-presidentielle-sans-la-droite-20220620_KD57GPFNCJG3BFD2UVKSVGJEBY/"
-    },
-    {
-      "text": "Tribunes",
-      "url": "/idees-et-debats/tribunes/"
-    },
-    {
-      "text": "Le RN en force \u00e0 l\u2019Assembl\u00e9e, Macron en train-couchette, le bon et le mauvais r\u00e9publicain\u2026 Coco croque l\u2019actu",
-      "url": "/idees-et-debats/opinions/le-rn-en-force-a-lassemble-macron-en-train-couchette-le-bon-et-le-mauvais-republicain-coco-croque-lactu-20220620_AWXAK5KSGFD2RMR3BCLR3V5XDQ/"
-    },
-    {
-      "text": "Opinions",
-      "url": "/idees-et-debats/opinions/"
-    },
-    {
-      "text": "",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "A la barre",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "Plaidoiries de la d\u00e9fense aux proc\u00e8s du 13 Novembre: \u00abOn oublie que Yassine Atar est pr\u00e9sum\u00e9 innocent\u00bb",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "Abad et Darmanin au gouvernement: \u00abComme si la parole d\u2019une femme valait moins que le homard de De Rugy!\u00bb ",
-      "url": "/societe/droits-des-femmes/abad-et-darmanin-au-gouvernement-comme-si-la-parole-dune-femme-valait-moins-que-le-homard-de-de-rugy-20220620_NICZ3FMPG5ECLMJCBBZQAL67LQ/"
-    },
-    {
-      "text": "Droits des femmes",
-      "url": "/societe/droits-des-femmes/"
-    },
-    {
-      "text": "Covid: est-il vrai que 93% des morts li\u00e9s au sous-variant BA.5 au Portugal ont plus de 80 ans, comme l\u2019a d\u00e9clar\u00e9 l\u2019\u00e9pid\u00e9miologiste Antoine Flahault?",
-      "url": "/checknews/covid-est-il-vrai-que-93-des-morts-lies-au-sous-variant-ba5-au-portugal-ont-plus-de-80-ans-comme-la-declare-lepidemiologiste-antoine-flahault-20220620_SIXYVCBQT5F4BIL52XVDLHNSSE/"
-    },
-    {
-      "text": "CheckNews",
-      "url": "/checknews/"
-    },
-    {
-      "text": "Le minist\u00e8re de la Sant\u00e9 sans pilote en pleine crise",
-      "url": "/societe/sante/le-ministere-de-la-sante-sans-pilote-en-pleine-crise-20220620_KARWTQNHU5FXVE7WCWAEUDDZCM/"
-    },
-    {
-      "text": "Sant\u00e9",
-      "url": "/societe/sante/"
-    },
-    {
-      "text": "",
-      "url": "/international/face-a-la-penurie-de-gaz-lallemagne-retourne-au-charbon-20220619_XQEBF32GBJCQBHHZOBHJYBTJ5I/"
-    },
-    {
-      "text": "Crise \u00e9nerg\u00e9tique",
-      "url": "/international/face-a-la-penurie-de-gaz-lallemagne-retourne-au-charbon-20220619_XQEBF32GBJCQBHHZOBHJYBTJ5I/"
-    },
-    {
-      "text": "Face \u00e0 la p\u00e9nurie de gaz, l\u2019Allemagne retourne au charbon",
-      "url": "/international/face-a-la-penurie-de-gaz-lallemagne-retourne-au-charbon-20220619_XQEBF32GBJCQBHHZOBHJYBTJ5I/"
-    },
-    {
-      "text": "Qu\u2019est-ce que la \u00abgalerne\u00bb, responsable de la chute brutale des temp\u00e9ratures au Pays basque? ",
-      "url": "/environnement/quest-ce-que-la-galerne-responsable-de-la-chute-brutale-des-temperatures-au-pays-basque-20220619_JIHC46BHNZFXPMUXMA2YKW266A/"
-    },
-    {
-      "text": "Environnement",
-      "url": "/environnement/"
-    },
-    {
-      "text": "Les allergies au pollen plus s\u00e9v\u00e8res cette ann\u00e9e, boost\u00e9es par le changement climatique",
-      "url": "/environnement/climat/les-allergies-au-pollen-plus-severes-cette-annee-boostees-par-le-changement-climatique-20220619_N7WKB4TPGJHPNMMDQ4HXXE4GCU/"
-    },
-    {
-      "text": "Climat",
-      "url": "/environnement/climat/"
-    },
-    {
-      "text": "La canicule se d\u00e9place vers l\u2019est, violents orages pr\u00e9vus dans la soir\u00e9e",
-      "url": "/environnement/climat/la-canicule-se-deplace-vers-lest-violents-orages-prevus-dans-la-soiree-20220619_YBZA6EHYFBHCTLLXN7DVY3VUVE/"
-    },
-    {
-      "text": "Climat",
-      "url": "/environnement/climat/"
-    },
-    {
-      "text": "",
-      "url": "/international/europe/greve-geante-dans-les-transports-britanniques-paralysie-en-vue-20220620_ASUGQI4HVJCMJN7A343S4EFIAE/"
-    },
-    {
-      "text": "Mobilisation",
-      "url": "/international/europe/greve-geante-dans-les-transports-britanniques-paralysie-en-vue-20220620_ASUGQI4HVJCMJN7A343S4EFIAE/"
-    },
-    {
-      "text": "Gr\u00e8ve g\u00e9ante dans les transports britanniques: paralysie en vue",
-      "url": "/international/europe/greve-geante-dans-les-transports-britanniques-paralysie-en-vue-20220620_ASUGQI4HVJCMJN7A343S4EFIAE/"
-    },
-    {
-      "text": "Etats-Unis : un premier syndicat voit le jour dans un magasin Apple ",
-      "url": "/economie/social/etats-unis-un-premier-syndicat-voit-le-jour-dans-un-magasin-apple-20220620_6P3TE7LEQJACRHI53JU63ZBCXY/"
-    },
-    {
-      "text": "Social",
-      "url": "/economie/social/"
-    },
-    {
-      "text": "Pouvoir d\u2019achat: ce que mijote le gouvernement dans son projet de loi",
-      "url": "/economie/pouvoir-dachat-ce-que-mijote-le-gouvernement-dans-son-projet-de-loi-20220620_ST6LS4SIT5CQROVUXW2U4FJKC4/"
-    },
-    {
-      "text": "Economie",
-      "url": "/economie/"
-    },
-    {
-      "text": "R\u00e9gulation des cryptomonnaies: quand les eurod\u00e9put\u00e9s se retrouvent sous la mitraille num\u00e9rique des \u00abcryptobros\u00bb",
-      "url": "/economie/economie-numerique/regulation-des-cryptomonnaies-quand-les-eurodeputes-se-retrouvent-sous-la-mitraille-numerique-des-cryptobros-20220618_BJC4ZLCVMJFVZP5UZ2TMYBPM34/"
-    },
-    {
-      "text": "Economie num\u00e9rique",
-      "url": "/economie/economie-numerique/"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/gastronomie/ne-faites-pas-la-guerre-faites-du-pate-en-croute-20220620_7H2GHLKAMFCUZDU55JYL73YZZM/"
-    },
-    {
-      "text": "Epices and love",
-      "url": "/lifestyle/gastronomie/ne-faites-pas-la-guerre-faites-du-pate-en-croute-20220620_7H2GHLKAMFCUZDU55JYL73YZZM/"
-    },
-    {
-      "text": "Ne faites pas la guerre, faites du p\u00e2t\u00e9 en cro\u00fbte",
-      "url": "/lifestyle/gastronomie/ne-faites-pas-la-guerre-faites-du-pate-en-croute-20220620_7H2GHLKAMFCUZDU55JYL73YZZM/"
-    },
-    {
-      "text": "Nika Lozovska, guerre et mets",
-      "url": "/portraits/nika-lozovska-guerre-et-mets-20220619_XKFCROY5PRH55LIRHOURO6GY7U/"
-    },
-    {
-      "text": "Portraits",
-      "url": "/portraits/"
-    },
-    {
-      "text": "La recette du dimanche: le tartare (de betteraves) en trompe-l\u2019\u0153il de Jean-Fran\u00e7ois Pi\u00e8ge",
-      "url": "/lifestyle/gastronomie/la-recette-du-dimanche-le-tartare-de-betteraves-en-trompe-loeil-de-jean-francois-piege-20220619_XDLW2T27TFEZNHCXBR7SGELVWM/"
-    },
-    {
-      "text": "Gastronomie",
-      "url": "/lifestyle/gastronomie/"
-    },
-    {
-      "text": "Jos\u00e9 Garcia et l\u2019app\u00e2t du vin",
-      "url": "/lifestyle/gastronomie/jose-garcia-et-lappat-du-vin-20220619_VLQF2FN7NZAAJHWJSHO2Q6KUTE/"
-    },
-    {
-      "text": "Gastronomie",
-      "url": "/lifestyle/gastronomie/"
-    },
-    {
-      "text": "",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Le portrait",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Anne Akrich, d\u00e9sir est ma\u00eetre",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Nika Lozovska, guerre et mets",
-      "url": "/portraits/nika-lozovska-guerre-et-mets-20220619_XKFCROY5PRH55LIRHOURO6GY7U/"
-    },
-    {
-      "text": "Portraits",
-      "url": "/portraits/"
-    },
-    {
-      "text": "Richard Gasquet, l\u2019enfant qui ne voulait pas grandir",
-      "url": "/portraits/richard-gasquet-lenfant-qui-ne-voulait-pas-grandir-20220616_AYL7QZ2L4BGC7D3GPKQQWCIHS4/"
-    },
-    {
-      "text": "Portraits",
-      "url": "/portraits/"
-    },
-    {
-      "text": "Audrey Fleurot, haut potentiel d\u2019intranquillit\u00e9",
-      "url": "/portraits/audrey-fleurot-haut-potentiel-dintranquillite-20220615_QBBNC6N2FVGBDGE4CBDQ2MADB4/"
-    },
-    {
-      "text": "Portraits",
-      "url": "/portraits/"
-    },
-    {
-      "text": "",
-      "url": "/sports/danse-sur-glace-apres-leur-razzia-de-medailles-papadakis-et-cizeron-prennent-un-petit-break-20220620_MX3ROGT3ERAFPLXO7P55PBDP6E/"
-    },
-    {
-      "text": "Glissade",
-      "url": "/sports/danse-sur-glace-apres-leur-razzia-de-medailles-papadakis-et-cizeron-prennent-un-petit-break-20220620_MX3ROGT3ERAFPLXO7P55PBDP6E/"
-    },
-    {
-      "text": "Danse sur glace: apr\u00e8s leur razzia de m\u00e9dailles, Papadakis et Cizeron prennent \u00abun petit break\u00bb ",
-      "url": "/sports/danse-sur-glace-apres-leur-razzia-de-medailles-papadakis-et-cizeron-prennent-un-petit-break-20220620_MX3ROGT3ERAFPLXO7P55PBDP6E/"
-    },
-    {
-      "text": "\u00abLui consid\u00e9rait qu\u2019il n\u2019y avait pas eu de racisme\u00bb: Mbapp\u00e9 recadre Le Gra\u00ebt sur l\u2019apr\u00e8s-Euro 2020",
-      "url": "/sports/football/equipe-de-france-mbappe-rappelle-le-graet-a-lordre-sur-le-racisme-20220619_4JI3V2NLXBFC7FJRWVX55BN5JQ/"
-    },
-    {
-      "text": "Football",
-      "url": "/sports/football/"
-    },
-    {
-      "text": "L\u00e9on Marchand, 20 ans, champion du monde sur 400 m 4 nages",
-      "url": "/sports/leon-marchand-20-ans-champion-du-monde-sur-400-m-4-nages-20220618_NL7G5LQBBVFNLNGJKUQMPZMB2M/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "NBA: les Warriors triomphent, Stephen Curry assaisonne les Celtics",
-      "url": "/sports/nba-les-warriors-triomphent-stephen-curry-assaisonne-les-celtics-20220617_GKBNKIAQLJFXLJCX52BI6LD76I/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "",
-      "url": "/culture/series/for-all-mankind-lemoi-de-mars-20220619_45WVYDNSZREM3DCVPTEX5PKI5Y/"
-    },
-    {
-      "text": "S\u00e9rie",
-      "url": "/culture/series/for-all-mankind-lemoi-de-mars-20220619_45WVYDNSZREM3DCVPTEX5PKI5Y/"
-    },
-    {
-      "text": "\u00abFor All Mankind\u00bb, l\u2019\u00e9moi de Mars",
-      "url": "/culture/series/for-all-mankind-lemoi-de-mars-20220619_45WVYDNSZREM3DCVPTEX5PKI5Y/"
-    },
-    {
-      "text": "Sant\u00e9 fragile, mort pr\u00e9coce\u2026 La vie de chien des bouledogues anglais",
-      "url": "/sciences/biologie/sante-fragile-mort-precoce-la-vie-de-chien-des-bouledogues-anglais-20220615_CAJYCLWI6RFAHE5XCIVXVZW2SU/"
-    },
-    {
-      "text": "Biologie",
-      "url": "/sciences/biologie/"
-    },
-    {
-      "text": "Gaia, des \u00e9toiles plein les yeux",
-      "url": "/sciences/espace/gaia-des-etoiles-plein-les-yeux-20220613_5HZLQMQJPJCOLJAMGOQWRKAY74/"
-    },
-    {
-      "text": "Espace",
-      "url": "/sciences/espace/"
-    },
-    {
-      "text": "\u00abCapstone\u00bb, une orbite qui promet la Lune",
-      "url": "/sciences/espace/capstone-une-orbite-qui-promet-la-lune-20220613_KQYJU7OVTBE7LGHRDJ7O34LE3E/"
-    },
-    {
-      "text": "Espace",
-      "url": "/sciences/espace/"
-    },
-    {
-      "text": "",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Le portrait",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Anne Akrich, d\u00e9sir est ma\u00eetre",
-      "url": "/portraits/anne-akrich-desir-est-maitre-20220620_AXUTSII5W5HRJN7Q2Q5S6BYHA4/"
-    },
-    {
-      "text": "Lundi po\u00e9sie: Maud Thiria diss\u00e8que les violences conjugales",
-      "url": "/culture/livres/lundi-poesie-maud-thiria-disseque-les-violences-conjugales-20220620_24JQVKUTPBA6HGDM2QV3NXXNGI/"
-    },
-    {
-      "text": "Livres",
-      "url": "/culture/livres/"
-    },
-    {
-      "text": "Antonythasan Jesuthasan, le bruit et le soufre",
-      "url": "/culture/livres/antonythasan-jesuthasan-le-bruit-et-le-soufre-20220619_EQL3LN272RH2RNKIYSSNHC7K2M/"
-    },
-    {
-      "text": "Livres",
-      "url": "/culture/livres/"
-    },
-    {
-      "text": "\u00abRabala\u00efre\u00bb d\u2019Alain Guiraudie, lu par Jean-Baptiste Viaud, d\u00e9l\u00e9gu\u00e9 g\u00e9n\u00e9ral d\u2019une association culturelle",
-      "url": "/culture/livres/rabalaire-dalain-guiraudie-lu-par-jean-baptiste-viaud-delegue-general-dune-association-culturelle-20220619_P7BGSSYPGVC4XFU33FVOCW6IME/"
-    },
-    {
-      "text": "Livres",
-      "url": "/culture/livres/"
-    },
-    {
-      "text": "",
-      "url": "/economie/medias/jean-jacques-bourdin-vire-par-bfm-et-rmc-20220617_5SGMN42V6NGQBNWQHS62RURD7Y/"
-    },
-    {
-      "text": "#Metoo",
-      "url": "/economie/medias/jean-jacques-bourdin-vire-par-bfm-et-rmc-20220617_5SGMN42V6NGQBNWQHS62RURD7Y/"
-    },
-    {
-      "text": "Jean-Jacques Bourdin vir\u00e9 par BFM et RMC",
-      "url": "/economie/medias/jean-jacques-bourdin-vire-par-bfm-et-rmc-20220617_5SGMN42V6NGQBNWQHS62RURD7Y/"
-    },
-    {
-      "text": "Dans les m\u00e9dias r\u00e9acs, Zemmour ne fait plus recette",
-      "url": "/economie/medias/dans-les-medias-reacs-zemmour-ne-fait-plus-recette-20220617_J2V427P54JDSRJSMYSAAQXEORU/"
-    },
-    {
-      "text": "M\u00e9dias",
-      "url": "/economie/medias/"
-    },
-    {
-      "text": "Virgin Radio c\u2019est fini, revoil\u00e0 Europe 2",
-      "url": "/economie/medias/virgin-radio-cest-fini-revoila-europe-2-20220615_G7LUINIH7ZH67LTPSFDPNPCZV4/"
-    },
-    {
-      "text": "M\u00e9dias",
-      "url": "/economie/medias/"
-    },
-    {
-      "text": "Mathieu Gallet, radio gogo",
-      "url": "/portraits/mathieu-gallet-radio-gogo-20220613_SETIS7AZVRH7PBLPCYACNUDPZM/"
-    },
-    {
-      "text": "Portraits",
-      "url": "/portraits/"
-    },
-    {
-      "text": "",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "A la barre",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "Plaidoiries de la d\u00e9fense aux proc\u00e8s du 13 Novembre: \u00abOn oublie que Yassine Atar est pr\u00e9sum\u00e9 innocent\u00bb",
-      "url": "/societe/police-justice/plaidoiries-de-la-defense-aux-proces-du-13-novembre-on-oublie-que-yassine-atar-est-presume-innocent-20220620_GLPT3DS3CZGMPJ2CIKNFDG5JQY/"
-    },
-    {
-      "text": "Une enqu\u00eate ouverte apr\u00e8s des menaces de mort visant la CPE d\u2019un lyc\u00e9e \u00e0 Paris",
-      "url": "/societe/police-justice/une-enquete-ouverte-apres-des-menaces-de-mort-visant-la-cpe-dun-lycee-a-paris-20220620_UNOV5JRUQ5EKNLIK5FR4KEXBCU/"
-    },
-    {
-      "text": "Police / Justice",
-      "url": "/societe/police-justice/"
-    },
-    {
-      "text": "A Besan\u00e7on, quatre militaires en civil vis\u00e9s par des coups de feu, un bless\u00e9 l\u00e9ger",
-      "url": "/societe/police-justice/a-besancon-quatre-militaires-en-civil-vises-par-des-coups-de-feu-un-blesse-leger-20220618_QD4UJSE7RZBG3GGALT4XJZFWXM/"
-    },
-    {
-      "text": "Police / Justice",
-      "url": "/societe/police-justice/"
-    },
-    {
-      "text": "De la France au Maroc, le multimillionnaire Jacques Bouthier vis\u00e9 par de multiples plaintes pour viols et agressions sexuelles",
-      "url": "/societe/police-justice/de-la-france-au-maroc-le-multimillionnaire-jacques-bouthier-vise-par-de-multiples-plaintes-pour-viols-et-agressions-sexuelles-20220618_JEB2VOX5FJHBXDJ2RMBF7GB4BA/"
-    },
-    {
-      "text": "Police / Justice",
-      "url": "/societe/police-justice/"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/Liberation/"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/libe"
-    },
-    {
-      "text": "",
-      "url": "https://www.liberation.fr/arc/outboundfeeds/collection/accueil-une/?outputType=xml"
-    },
-    {
-      "text": "Politique",
-      "url": "/politique/"
-    },
-    {
-      "text": "International",
-      "url": "/international/"
-    },
-    {
-      "text": "CheckNews",
-      "url": "/checknews/"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture/"
-    },
-    {
-      "text": "Id\u00e9es et D\u00e9bats",
-      "url": "/idees-et-debats/"
-    },
-    {
-      "text": "Soci\u00e9t\u00e9",
-      "url": "/societe/"
-    },
-    {
-      "text": "Environnement",
-      "url": "/environnement/"
-    },
-    {
-      "text": "Economie",
-      "url": "/economie/"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/lifestyle/"
-    },
-    {
-      "text": "Portraits",
-      "url": "/portraits/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "Sciences",
-      "url": "/sciences/"
-    },
-    {
-      "text": "Plus",
-      "url": "/plus/"
-    },
-    {
-      "text": "Forums",
-      "url": "/forums/"
-    },
-    {
-      "text": "Archives",
-      "url": "/archives/"
-    },
-    {
-      "text": "S'abonner(Opens in new window)",
-      "url": "http://abo.liberation.fr/"
-    },
-    {
-      "text": "Les Unes(Opens in new window)",
-      "url": "http://unes.liberation.fr/"
-    },
-    {
-      "text": "La boutique(Opens in new window)",
-      "url": "https://boutique.liberation.fr/"
-    },
-    {
-      "text": "Contactez-nous(Opens in new window)",
-      "url": "https://www.liberation.fr/contact/"
-    },
-    {
-      "text": "Donnez-nous votre avis(Opens in new window)",
-      "url": "https://libe-etudes.typeform.com/to/LZ9iwHae/"
-    },
-    {
-      "text": "Foire aux questions(Opens in new window)",
-      "url": "https://liberation.zendesk.com/hc/fr/"
-    },
-    {
-      "text": "Proposer une tribune(Opens in new window)",
-      "url": "https://www.liberation.fr/proposer-une-tribune/"
-    },
-    {
-      "text": "R\u00e9sultats l\u00e9gislatives 2022(Opens in new window)",
-      "url": "https://www.liberation.fr/resultats-elections/"
-    },
-    {
-      "text": "Mentions l\u00e9gales(Opens in new window)",
-      "url": "https://www.liberation.fr/mentions-legales/"
-    },
-    {
-      "text": "Charte \u00e9thique(Opens in new window)",
-      "url": "https://www.liberation.fr/charte-ethique/"
-    },
-    {
-      "text": "CGVU(Opens in new window)",
-      "url": "https://www.liberation.fr/cgvu/"
-    },
-    {
-      "text": "Protection des donn\u00e9es personnelles(Opens in new window)",
-      "url": "https://www.liberation.fr/protection-des-donnees-personnelles/"
-    },
-    {
-      "text": "Gestion des cookies(Opens in new window)",
-      "url": "https://www.liberation.fr/gestions-des-cookies/"
-    },
-    {
-      "text": "Licence(Opens in new window)",
-      "url": "https://www.liberation.fr/licence/"
-    },
-    {
-      "text": "Lire le journal(Opens in new window)",
-      "url": "https://journal.liberation.fr/"
-    },
-    {
-      "text": "Les newsletters(Opens in new window)",
-      "url": "https://www.liberation.fr/newsletters/"
-    },
-    {
-      "text": "Pr\u00e9sentation de l'application(Opens in new window)",
-      "url": "https://www.liberation.fr/application-mobile/"
-    },
-    {
-      "text": "Application sur Android(Opens in new window)",
-      "url": "https://play.google.com/store/apps/details?id=com.visuamobile.liberation&hl=fr&gl=US"
-    },
-    {
-      "text": "Application sur iPhone / iPad(Opens in new window)",
-      "url": "https://apps.apple.com/fr/app/lib%C3%A9ration-toute-lactualit%C3%A9/id336173383/"
-    },
-    {
-      "text": "search by queryly ",
-      "url": "https://www.queryly.com/"
-    },
-    {
-      "text": "Advanced Search",
-      "url": "#"
-    }
-  ],
+  "files_count": 403,
+  "item_last_updated": 1656004716,
+  "item_size": 51243719,
   "metadata": {
     "identifier": "libe-2022",
     "collection": [
@@ -5471,10 +4251,10 @@
     "publicdate": "2022-04-09 13:43:11",
     "addeddate": "2022-04-09 13:43:11"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 483966940,
+  "server": "ia902507.us.archive.org",
+  "uniq": 521819934,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

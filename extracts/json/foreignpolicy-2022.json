@@ -1,5 +1,5 @@
 {
-  "created": 1655770685,
+  "created": 1656004606,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/foreignpolicy-2022",
@@ -310,31 +310,473 @@
       "sha1": "fb4722040312ff0b825678f98ed0a683dba8658d"
     },
     {
+      "name": "foreignpolicy-2022-06-20T21:31:04.698603-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775069",
+      "size": "38943",
+      "md5": "47ccc7071c9aa27cc4f4fd892c4125aa",
+      "crc32": "bdad1c3d",
+      "sha1": "e84c56072a76a5a09deeb8dab8df9181dd259fa9",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-20T21:31:04.698603-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775071",
+      "size": "37572",
+      "md5": "ae31f87eb437a58c24b4f6159c73350e",
+      "crc32": "f6f249c5",
+      "sha1": "3bc49b194c47a4bd6fefc5d665ad6a43aaefe700",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-20T21:31:04.698603-04:00.jpg",
+      "source": "original",
+      "mtime": "1655775066",
+      "size": "367236",
+      "md5": "0ca25f474419966a8d3809c626ccec5c",
+      "crc32": "b59c7b4d",
+      "sha1": "4a4fefcd8d3630d515c2712646934c3907a77749",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-20T21:31:04.698603-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-20T21:31:04.698603-04:00.jpg",
+      "mtime": "1655775128",
+      "size": "10284",
+      "md5": "d07935c66a7b3d15b4c5d64b64ba4754",
+      "crc32": "feca8112",
+      "sha1": "fb4722040312ff0b825678f98ed0a683dba8658d"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T01:24:58.202894-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789100",
+      "size": "38758",
+      "md5": "9e9d91caff27e2d65e7e560a4b77d6f8",
+      "crc32": "53eab06e",
+      "sha1": "b2848e4692a0bd72e2e7be0eae07e6f534c6fe54",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T01:24:58.202894-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789103",
+      "size": "37856",
+      "md5": "d7ffecc5779cd947dce35e4b40995c5f",
+      "crc32": "f1f0f0ed",
+      "sha1": "5cad785a2ab795c63daf9a9486abc489e3a13686",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T01:24:58.202894-04:00.jpg",
+      "source": "original",
+      "mtime": "1655789099",
+      "size": "367236",
+      "md5": "0ca25f474419966a8d3809c626ccec5c",
+      "crc32": "b59c7b4d",
+      "sha1": "4a4fefcd8d3630d515c2712646934c3907a77749",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T01:24:58.202894-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-21T01:24:58.202894-04:00.jpg",
+      "mtime": "1655789173",
+      "size": "10284",
+      "md5": "d07935c66a7b3d15b4c5d64b64ba4754",
+      "crc32": "feca8112",
+      "sha1": "fb4722040312ff0b825678f98ed0a683dba8658d"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T08:25:57.952011-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814361",
+      "size": "38805",
+      "md5": "d982c25950ff4f4dd01527bd1ff1ef76",
+      "crc32": "b4676734",
+      "sha1": "7b9f5c1020ef808ebb0ce2b925565c01e14f3c2d",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T08:25:57.952011-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814363",
+      "size": "38007",
+      "md5": "03559b905c8d79a2836affb58bd815c3",
+      "crc32": "38e163d0",
+      "sha1": "604a85e5a3c83d2bedb261a1a6b866eb2d7d313b",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T08:25:57.952011-04:00.jpg",
+      "source": "original",
+      "mtime": "1655814359",
+      "size": "368501",
+      "md5": "b9699324d16da200428969aa21025bd6",
+      "crc32": "395b8b2f",
+      "sha1": "1b4583435c916c1aac039cb463fc3a211e323464",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T08:25:57.952011-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-21T08:25:57.952011-04:00.jpg",
+      "mtime": "1655814424",
+      "size": "10297",
+      "md5": "1c6c5b09d6bfac99bc11864695f6c9fe",
+      "crc32": "9ac0ce79",
+      "sha1": "b63d186a66f00cd6eb95cb1cbb2ba6f39b4e437d"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T09:49:13.736501-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819357",
+      "size": "38962",
+      "md5": "ff13307158daeae814cd93fdfe62af94",
+      "crc32": "8df9c65c",
+      "sha1": "dbf94ff283a294236661bf882b76ce59b1554fe8",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T09:49:13.736501-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819358",
+      "size": "38043",
+      "md5": "9d75b9074c1385bebf322deac8eedab2",
+      "crc32": "3dd85f3e",
+      "sha1": "e7e941a4760716acaecb43c33c47a5d22a16ac18",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T09:49:13.736501-04:00.jpg",
+      "source": "original",
+      "mtime": "1655819355",
+      "size": "375429",
+      "md5": "0e7eedc7edc3159d3d010811bee546b2",
+      "crc32": "59b425a3",
+      "sha1": "955ae409874f722bb131dd3a19000ff56cfe83b4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T09:49:13.736501-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-21T09:49:13.736501-04:00.jpg",
+      "mtime": "1655819406",
+      "size": "10405",
+      "md5": "732affce9a7b6e91536b5d84ea39afad",
+      "crc32": "63b0bc7c",
+      "sha1": "9c7759e29c43b70c1398dcb88224429977d185fc"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T13:13:28.529826-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831612",
+      "size": "38821",
+      "md5": "c0f037c28d641a21c678393600029d88",
+      "crc32": "326628ea",
+      "sha1": "c0e88464bb8b8e0b2fcf2a5cd8e020b0c14937cb",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T13:13:28.529826-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831614",
+      "size": "38749",
+      "md5": "006946167a90d72256e7c1da111d5449",
+      "crc32": "86d8995c",
+      "sha1": "c2203487c9532cf2674ef7822cca25766afb9ffc",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T13:13:28.529826-04:00.jpg",
+      "source": "original",
+      "mtime": "1655831610",
+      "size": "371957",
+      "md5": "6cd5e55cc1f199b5e80da77dd92e5fbf",
+      "crc32": "1a1a9392",
+      "sha1": "31a7e13ac370005df71e079407517fff793f7eeb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T13:13:28.529826-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-21T13:13:28.529826-04:00.jpg",
+      "mtime": "1655831692",
+      "size": "10388",
+      "md5": "932489bc2e012de15d43d605df1db94c",
+      "crc32": "b4c47d2c",
+      "sha1": "f537ab7f0d7f01bfc71c829af872f8aae35e187a"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T21:21:47.792640-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655860911",
+      "size": "38578",
+      "md5": "001cb0b1dbd20a254280d6c47e153cea",
+      "crc32": "449288d1",
+      "sha1": "7e8bd71efed1f489962bfe454825e93b5fce9a5a",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T21:21:47.792640-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655860915",
+      "size": "37778",
+      "md5": "458c508fa2e97d82f3a7e7237cceb690",
+      "crc32": "3c9902f1",
+      "sha1": "56259a77357aa2ec8553d53df0db17a4b466d389",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T21:21:47.792640-04:00.jpg",
+      "source": "original",
+      "mtime": "1655860909",
+      "size": "371785",
+      "md5": "8371450ef5ecd17aa9058b5bb9727a05",
+      "crc32": "a850d8b1",
+      "sha1": "72b4550cb1a44c8f61735acb6f24b5a0118e8026",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-21T21:21:47.792640-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-21T21:21:47.792640-04:00.jpg",
+      "mtime": "1655861292",
+      "size": "10197",
+      "md5": "adf1e9fab44ae831eeed5b2055f80c87",
+      "crc32": "c2fea0fe",
+      "sha1": "6900eca4dfce4dbbd8bc0f379760ff8ccb8398fd"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T05:14:57.120244-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889300",
+      "size": "38760",
+      "md5": "087a97eb5faaeeaea8d62522ba183160",
+      "crc32": "34c0a560",
+      "sha1": "d353da2336bde308d3c9bdb2c9559bcd8698de9e",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T05:14:57.120244-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889304",
+      "size": "38089",
+      "md5": "0c57a7194a51b6b4375cc3b388e558e2",
+      "crc32": "3d489d6a",
+      "sha1": "e295d594dd09bb57765f618022677392b8e271ef",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T05:14:57.120244-04:00.jpg",
+      "source": "original",
+      "mtime": "1655889298",
+      "size": "377468",
+      "md5": "e6ced710274e5b6854f62d9f65bf0e42",
+      "crc32": "9d33969f",
+      "sha1": "556701554480e9b82e92e8ad0b8f624094885741",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T05:14:57.120244-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-22T05:14:57.120244-04:00.jpg",
+      "mtime": "1655889350",
+      "size": "10226",
+      "md5": "234a0cbe6751e6c567e9895c8e7c6eb5",
+      "crc32": "c46afd28",
+      "sha1": "b57b38be022fbe4725ca05791c2bde082a34cbeb"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T13:22:26.676768-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655918552",
+      "size": "38803",
+      "md5": "55b6a4cd10dfec1b6f972bfa4b4cf314",
+      "crc32": "5dc1691a",
+      "sha1": "94884102780576c10afbbd31ef922ab7a0612224",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T13:22:26.676768-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655918557",
+      "size": "38415",
+      "md5": "7bbac9f140c9ce5786c854d7cea87a95",
+      "crc32": "e41f69a3",
+      "sha1": "2405b791f3467cf5bc7558f034ca02bf87fcc019",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T13:22:26.676768-04:00.jpg",
+      "source": "original",
+      "mtime": "1655918549",
+      "size": "350622",
+      "md5": "3a38306f2eb65dec44f4a11c5a1a7794",
+      "crc32": "9ea4fcca",
+      "sha1": "f2150fce42b6c4124945af1554847bdbe3914580",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T13:22:26.676768-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-22T13:22:26.676768-04:00.jpg",
+      "mtime": "1655918604",
+      "size": "10004",
+      "md5": "46278063885a5e4f866f6306d6f621fc",
+      "crc32": "eea340f4",
+      "sha1": "6dd1369ad515eada979d878c690aea2b67f3b61e"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T21:24:40.566496-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947483",
+      "size": "37353",
+      "md5": "0f1d84b5f5da43dfd13017da6f71d25e",
+      "crc32": "091be9c8",
+      "sha1": "60f9d5596415abc561e1f024b747affca4dac79b",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T21:24:40.566496-04:00.jpg",
+      "source": "original",
+      "mtime": "1655947482",
+      "size": "339113",
+      "md5": "d7cce3ad3868d2217339240f8645cb55",
+      "crc32": "2d8c11b7",
+      "sha1": "a379c58a45bd9c2f55e06fc6814505e4f0d56b1e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-22T21:24:40.566496-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-22T21:24:40.566496-04:00.jpg",
+      "mtime": "1655947525",
+      "size": "10069",
+      "md5": "e441a97fc242d10a7d518427e0e751fb",
+      "crc32": "7e10d4c3",
+      "sha1": "c68a238e00b57cf2bd6f901683a105e8b78b2cc9"
+    },
+    {
+      "name": "foreignpolicy-2022-06-23T05:16:37.481028-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655975800",
+      "size": "39059",
+      "md5": "8121a2f346d555456a1976ecc7f7570d",
+      "crc32": "f2e9a4e2",
+      "sha1": "348abd88535b4e39b5846753387d9c192bf0c932",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-23T05:16:37.481028-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655975802",
+      "size": "37322",
+      "md5": "251c92d046ed5ec7239c0ffb28888d18",
+      "crc32": "dfed0c30",
+      "sha1": "808f7befecbb220f138879341b19354e9866b450",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-23T05:16:37.481028-04:00.jpg",
+      "source": "original",
+      "mtime": "1655975799",
+      "size": "339150",
+      "md5": "65340e5b7fa78b78f030b4017f88da70",
+      "crc32": "9302c7f7",
+      "sha1": "fa41f92a16624a4410f5f3b67af46b07423bf968",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-23T05:16:37.481028-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-23T05:16:37.481028-04:00.jpg",
+      "mtime": "1655975848",
+      "size": "10065",
+      "md5": "60e9da4f04ec04e53126534c75d565c3",
+      "crc32": "d89138a9",
+      "sha1": "18738e8408010d8ff96050923c0f998d056e886a"
+    },
+    {
+      "name": "foreignpolicy-2022-06-23T13:15:48.223765-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004553",
+      "size": "38141",
+      "md5": "4f245f2598e750eff7e8c77840f2f73a",
+      "crc32": "ec48c12a",
+      "sha1": "073436414c0892054b01d78eabdf6996e58b9ee3",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-06-23T13:15:48.223765-04:00.jpg",
+      "source": "original",
+      "mtime": "1656004550",
+      "size": "362134",
+      "md5": "c76bf3359bb9bd3754cef4d724ee57fd",
+      "crc32": "019a2670",
+      "sha1": "98ffb57ee7125bb69238183b8bcbb3f9ee02060b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-06-23T13:15:48.223765-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-06-23T13:15:48.223765-04:00.jpg",
+      "mtime": "1656004598",
+      "size": "10444",
+      "md5": "f3d316850bfec242311afb3a37883473",
+      "crc32": "acd61d3b",
+      "sha1": "997276f567db9cc12496bd31a9e20da7138b2a23"
+    },
+    {
       "name": "foreignpolicy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac04ffc16d735ff635d0670c07826be0ff0a30c6",
-      "mtime": "1655760522",
-      "size": "7742",
-      "md5": "865c766e1668182fb1f8e381d3db99f2",
-      "crc32": "0403db49",
-      "sha1": "08a73f200b256a7e243b2e9b17fdc915407677b4",
+      "btih": "ef6229d191e2c17765a7f044b4b9efe24e17d58f",
+      "mtime": "1656004601",
+      "size": "16838",
+      "md5": "53b572595305fa0fd030d3ff21148e4a",
+      "crc32": "6c3f6d27",
+      "sha1": "b7cda0f9323b7641cefbf4cc2a372210ece83ff6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foreignpolicy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c58b63f16549b94f83ef65d2f3cf862",
+      "md5": "eeeb4e50824a702ca630fdd1c06073d5",
       "summation": "md5"
     },
     {
       "name": "foreignpolicy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760474",
-      "size": "49152",
-      "md5": "ea548454ebbbd6eb4dfe7ed0fa29be4e",
-      "crc32": "a922a12f",
-      "sha1": "673dafa2ea88720703b7a6524724797b6e530a4e",
+      "mtime": "1656004555",
+      "size": "102400",
+      "md5": "8cb5a8bbeb4d089da09ab627357001cc",
+      "crc32": "1cc74382",
+      "sha1": "e093fc35e5864e87e88d03ffb76b28d0e2cb56f1",
       "format": "Metadata"
     },
     {
@@ -348,1095 +790,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
-  "foreignpolicy-2022": [
-    {
-      "text": "Skip to main content",
-      "url": "#main"
-    },
-    {
-      "text": "\n    \n\tForeign Policy Magazine\n\t\n    Foreign Policy Magazine\n",
-      "url": "https://foreignpolicy.com/"
-    },
-    {
-      "text": "Sign In",
-      "url": "#"
-    },
-    {
-      "text": "\n                                        Give a Gift\n                                        Give a Gift\n                                    ",
-      "url": "/gift-subscriptions/?tpcc=navbar_gift"
-    },
-    {
-      "text": "\n                                        Subscribe\n                                        Subscribe\n                                    ",
-      "url": "/subscribe"
-    },
-    {
-      "text": "\n                                        Upgrade\n                                        Upgrade\n                                    ",
-      "url": "/subscribe"
-    },
-    {
-      "text": "Latest",
-      "url": "/category/latest/"
-    },
-    {
-      "text": "News",
-      "url": "/channel/news/"
-    },
-    {
-      "text": "Analysis",
-      "url": "/channel/analysis/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "The Magazine",
-      "url": "/the-magazine/"
-    },
-    {
-      "text": "Economics",
-      "url": "/channel/economics/"
-    },
-    {
-      "text": "Security",
-      "url": "/channel/security-2/"
-    },
-    {
-      "text": "Shadow Government",
-      "url": "/projects/shadow-government/"
-    },
-    {
-      "text": "Her Power",
-      "url": "/channel/her-power/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/newsletters/"
-    },
-    {
-      "text": "Events",
-      "url": "/events/"
-    },
-    {
-      "text": "FP Analytics",
-      "url": "https://fpanalytics.foreignpolicy.com/"
-    },
-    {
-      "text": "Your FP Insider Access:",
-      "url": "/fpinsider/"
-    },
-    {
-      "text": "Power Maps",
-      "url": "/power-maps"
-    },
-    {
-      "text": "Special Reports",
-      "url": "/special-reports"
-    },
-    {
-      "text": "Graphics Database",
-      "url": "/graphics-database"
-    },
-    {
-      "text": "\n    Foreign Policy\u2019s Summer Reading List\n",
-      "url": "https://foreignpolicy.com/2022/06/20/book-recommendations-reading-list-summer-international-relations-foreign-policy/"
-    },
-    {
-      "text": "\n        Review    ",
-      "url": "https://foreignpolicy.com/category/review/"
-    },
-    {
-      "text": "\n    FP Staff",
-      "url": "https://foreignpolicy.com/author/fp-staff/"
-    },
-    {
-      "text": "\n    FP Contributors",
-      "url": "https://foreignpolicy.com/author/fp-contributors/"
-    },
-    {
-      "text": "\n    Germany Confronts Its Nuclear Demons\n",
-      "url": "https://foreignpolicy.com/2022/06/20/germany-nuclear-power-energy-weapons-nato-russia-ukraine-war-energy-crisis-greens/"
-    },
-    {
-      "text": "\n        Deep Dive    ",
-      "url": "https://foreignpolicy.com/category/deep-dive/"
-    },
-    {
-      "text": "\n    Allison Meakem",
-      "url": "https://foreignpolicy.com/author/allison-meakem/"
-    },
-    {
-      "text": "\n    What the Fall of Empires Tells Us About the Ukraine War\n",
-      "url": "https://foreignpolicy.com/2022/06/20/russia-ukraine-war-putin-empire-imperialism-colonialism-conquest-collapse/"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Anatol Lieven",
-      "url": "https://foreignpolicy.com/author/anatol-lieven/"
-    },
-    {
-      "text": "\n    The Secrets of Modern Espionage\n",
-      "url": "https://foreignpolicy.com/2022/06/19/modern-spies-espionage-spycraft-intelligence/"
-    },
-    {
-      "text": "\n        Flash Points    ",
-      "url": "https://foreignpolicy.com/category/flash-points/"
-    },
-    {
-      "text": "\n    FP Contributors",
-      "url": "https://foreignpolicy.com/author/fp-contributors/"
-    },
-    {
-      "text": "See All Stories",
-      "url": "/category/latest/"
-    },
-    {
-      "text": "FP Events",
-      "url": "https://foreignpolicy.com/events"
-    },
-    {
-      "text": "FP Studios",
-      "url": "https://foreignpolicy.com/fp-studios/"
-    },
-    {
-      "text": "FP Analytics",
-      "url": "https://foreignpolicy.com/fp-analytics/"
-    },
-    {
-      "text": "FP PeaceGames",
-      "url": "https://foreignpolicy.com/fp-peacegames/"
-    },
-    {
-      "text": "Subscription Services",
-      "url": "https://foreignpolicy.com/subscription-services/"
-    },
-    {
-      "text": "Group Subscriptions",
-      "url": "https://foreignpolicy.com/group-subscriptions/"
-    },
-    {
-      "text": "Reprint Permissions",
-      "url": "https://foreignpolicy.com/reprint-permissions/"
-    },
-    {
-      "text": "Writer\u2019s Guidelines",
-      "url": "https://foreignpolicy.submittable.com/submit"
-    },
-    {
-      "text": "FP Guides \u2013 Graduate Education",
-      "url": "https://fpguide.foreignpolicy.com/2022-career/"
-    },
-    {
-      "text": "FP For Education",
-      "url": "https://foreignpolicy.com/fp-for-education/"
-    },
-    {
-      "text": "FP Archive",
-      "url": "/magazine"
-    },
-    {
-      "text": "Buy Back Issues",
-      "url": "https://foreignpolicy.com/buy-back-issues/"
-    },
-    {
-      "text": "Work At FP",
-      "url": "https://foreignpolicy.com/employment-opportunities/"
-    },
-    {
-      "text": "Meet the Staff",
-      "url": "https://foreignpolicy.com/staff/"
-    },
-    {
-      "text": "Advertising/Partnerships",
-      "url": "https://solutions.foreignpolicy.com/"
-    },
-    {
-      "text": "Sign In",
-      "url": "#"
-    },
-    {
-      "text": "\n                                    Give a Gift\n                                    Give a Gift\n                                ",
-      "url": "/gift-subscriptions/?tpcc=navbar_gift"
-    },
-    {
-      "text": "\n                                    Subscribe\n                                    Subscribe\n                                ",
-      "url": "/subscribe"
-    },
-    {
-      "text": "\n                                    Upgrade\n                                    Upgrade\n                                ",
-      "url": "/subscribe"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/19/why-russia-keeps-turning-to-mass-firepower/"
-    },
-    {
-      "text": "\n    Why Russia Keeps Turning to Mass Firepower\n",
-      "url": "https://foreignpolicy.com/2022/06/19/why-russia-keeps-turning-to-mass-firepower/"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Lucian Staiano-Daniels",
-      "url": "https://foreignpolicy.com/author/lucian-staiano-daniels/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/19/ian-morris-geography-destiny-review-britain-brexit-history/"
-    },
-    {
-      "text": "\n    Is Brexit a Swamp Creature From 10,000 Years Ago?\n",
-      "url": "https://foreignpolicy.com/2022/06/19/ian-morris-geography-destiny-review-britain-brexit-history/"
-    },
-    {
-      "text": "\n        Review    ",
-      "url": "https://foreignpolicy.com/category/review/"
-    },
-    {
-      "text": "\n    James Hawes",
-      "url": "https://foreignpolicy.com/author/james-hawes/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/19/petrostates-oil-production-weapon-foreign-policy-war-economy/"
-    },
-    {
-      "text": "\n    The Problem With Being a Petrostate\n",
-      "url": "https://foreignpolicy.com/2022/06/19/petrostates-oil-production-weapon-foreign-policy-war-economy/"
-    },
-    {
-      "text": "\n        Excerpt    ",
-      "url": "https://foreignpolicy.com/category/excerpt/"
-    },
-    {
-      "text": "\n    Emma Ashford",
-      "url": "https://foreignpolicy.com/author/emma-ashford/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/18/lazarus-heist-review-geoff-white-north-korea-cybercrime-cyberattacks/"
-    },
-    {
-      "text": "\n    \u2018The Lazarus Heist\u2019 Is the Gripping Story of North Korean Cybercrime\n",
-      "url": "https://foreignpolicy.com/2022/06/18/lazarus-heist-review-geoff-white-north-korea-cybercrime-cyberattacks/"
-    },
-    {
-      "text": "\n        Review    ",
-      "url": "https://foreignpolicy.com/category/review/"
-    },
-    {
-      "text": "\n    Anthony Ruggiero",
-      "url": "https://foreignpolicy.com/author/anthony-ruggiero/"
-    },
-    {
-      "text": "\n    Foreign Policy\u2019s Summer Reading List\n",
-      "url": "https://foreignpolicy.com/2022/06/20/book-recommendations-reading-list-summer-international-relations-foreign-policy/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "\n        Review    ",
-      "url": "https://foreignpolicy.com/category/review/"
-    },
-    {
-      "text": "\n    FP Staff",
-      "url": "https://foreignpolicy.com/author/fp-staff/"
-    },
-    {
-      "text": "\n    FP Contributors",
-      "url": "https://foreignpolicy.com/author/fp-contributors/"
-    },
-    {
-      "text": "\n    Germany Confronts Its Nuclear Demons\n",
-      "url": "https://foreignpolicy.com/2022/06/20/germany-nuclear-power-energy-weapons-nato-russia-ukraine-war-energy-crisis-greens/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "\n        Deep Dive    ",
-      "url": "https://foreignpolicy.com/category/deep-dive/"
-    },
-    {
-      "text": "\n    Allison Meakem",
-      "url": "https://foreignpolicy.com/author/allison-meakem/"
-    },
-    {
-      "text": "\n    What the Fall of Empires Tells Us About the Ukraine War\n",
-      "url": "https://foreignpolicy.com/2022/06/20/russia-ukraine-war-putin-empire-imperialism-colonialism-conquest-collapse/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Anatol Lieven",
-      "url": "https://foreignpolicy.com/author/anatol-lieven/"
-    },
-    {
-      "text": "\n    The Secrets of Modern Espionage\n",
-      "url": "https://foreignpolicy.com/2022/06/19/modern-spies-espionage-spycraft-intelligence/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "\n        Flash Points    ",
-      "url": "https://foreignpolicy.com/category/flash-points/"
-    },
-    {
-      "text": "\n    FP Contributors",
-      "url": "https://foreignpolicy.com/author/fp-contributors/"
-    },
-    {
-      "text": "\n    Christian Nationalism Is Tearing Ethiopia Apart\n",
-      "url": "https://foreignpolicy.com/2022/06/18/ethiopia-pentecostal-evangelical-abiy-ahmed-christian-nationalism/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Andrew DeCort",
-      "url": "https://foreignpolicy.com/author/andrew-decort/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tAsia\t\t\t\t\t\t",
-      "url": "/tag/asia/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/17/pakistan-abandoned-afghans-refugees-safety/"
-    },
-    {
-      "text": "\n    Leaning on Pakistan Can Get Abandoned Afghans to Safety\n",
-      "url": "https://foreignpolicy.com/2022/06/17/pakistan-abandoned-afghans-refugees-safety/"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Philip Caruso",
-      "url": "https://foreignpolicy.com/author/philip-caruso/"
-    },
-    {
-      "text": "\n    Washington Worries China Is Winning Over Thailand\n",
-      "url": "https://foreignpolicy.com/2022/06/17/china-thailand-submarines-military-influence/"
-    },
-    {
-      "text": "\n    Does South Asia Have a New Guard?\n",
-      "url": "https://foreignpolicy.com/2022/06/16/south-asia-politics-youth-new-guard-musharraf-zia/"
-    },
-    {
-      "text": "\n    Hun Sen Stands in the Way of His Own Succession Plan\n",
-      "url": "https://foreignpolicy.com/2022/06/15/cambodia-hun-sen-succession-hun-manet/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tChina\t\t\t\t\t\t",
-      "url": "/tag/china/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/16/china-economic-war-decoupling-united-states-containment/"
-    },
-    {
-      "text": "\n    China Is Hardening Itself for Economic War\n",
-      "url": "https://foreignpolicy.com/2022/06/16/china-economic-war-decoupling-united-states-containment/"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Zongyuan Zoe Liu",
-      "url": "https://foreignpolicy.com/author/zongyuan-zoe-liu/"
-    },
-    {
-      "text": "\n    A Brutal Attack Stirs Anger and Shame in China\n",
-      "url": "https://foreignpolicy.com/2022/06/15/china-tangshan-attack-gender-violence-anger/"
-    },
-    {
-      "text": "\n    Michelle Bachelet\u2019s Failed Xinjiang Trip Has Tainted Her Whole Legacy\n",
-      "url": "https://foreignpolicy.com/2022/06/13/michelle-bachelets-failed-xinjiang-trip-has-tainted-her-whole-legacy/"
-    },
-    {
-      "text": "\n    China\u2019s Crisis of Confidence\n",
-      "url": "https://foreignpolicy.com/2022/06/13/china-xi-jinping-economy-downturn-slowdown-decline-geopolitics-competition-united-states/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tMiddle East & Africa\t\t\t\t\t\t",
-      "url": "/tag/middle-east-and-north-africa/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/16/syrian-refugees-palestinians-lebanon-politics-elections-economic-crisis/"
-    },
-    {
-      "text": "\n    Syrian Refugees Find Little Hope in Lebanon\u2019s Election\n",
-      "url": "https://foreignpolicy.com/2022/06/16/syrian-refugees-palestinians-lebanon-politics-elections-economic-crisis/"
-    },
-    {
-      "text": "\n        Dispatch    ",
-      "url": "https://foreignpolicy.com/category/news/dispatch/"
-    },
-    {
-      "text": "\n    AJ Naddaff",
-      "url": "https://foreignpolicy.com/author/aj-naddaff/"
-    },
-    {
-      "text": "\n    The Houthis Still Have the Upper Hand in Yemen\n",
-      "url": "https://foreignpolicy.com/2022/06/15/yemen-civil-war-houthis-iran-saudi-arabia-uae-coalition-united-nations-truce/"
-    },
-    {
-      "text": "\n    Why Biden Is Trying to Keep Naftali Bennett Afloat\n",
-      "url": "https://foreignpolicy.com/2022/06/15/biden-middle-east-trip-israel-naftali-bennett-netanyahu/"
-    },
-    {
-      "text": "\n    Belgium Offers Regret\u2014but No Reparations\u2014to Congo\n",
-      "url": "https://foreignpolicy.com/2022/06/15/belgium-congo-king-philippe-colonialism-tshisekedi/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tEurope\t\t\t\t\t\t",
-      "url": "/tag/europe/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/17/war-crimes-trials-ukraine-russian-soldiers-shishimarin/"
-    },
-    {
-      "text": "\n    The Reckoning for War Crimes in Ukraine Has Begun\n",
-      "url": "https://foreignpolicy.com/2022/06/17/war-crimes-trials-ukraine-russian-soldiers-shishimarin/"
-    },
-    {
-      "text": "\n        Analysis    ",
-      "url": "https://foreignpolicy.com/channel/analysis/"
-    },
-    {
-      "text": "\n    Sergey Vasiliev",
-      "url": "https://foreignpolicy.com/author/sergey-vasiliev/"
-    },
-    {
-      "text": "\n    Germany\u2019s New Resolve on Russia Is Already Flagging\n",
-      "url": "https://foreignpolicy.com/2022/06/16/germany-scholz-zeitenwende-russia-ukraine-war-defense-security-bundeswehr-nato-military/"
-    },
-    {
-      "text": "\n    Ukraine Still Wants Heavy Metal\n",
-      "url": "https://foreignpolicy.com/2022/06/15/ukraine-russia-war-western-military-aid-heavy-weapons/"
-    },
-    {
-      "text": "\n    The U.S. Should Start Helping Ukraine Rebuild Now\n",
-      "url": "https://foreignpolicy.com/2022/06/15/ukraine-war-reconstruction-us-eu-assistance/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tAmericas\t\t\t\t\t\t",
-      "url": "/tag/south-america/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/17/us-miliitary-strategy-geopolitics-restraint-russia-china-ukraine-war/"
-    },
-    {
-      "text": "\n    U.S. Restraint Has Created an Unstable and Dangerous World\n",
-      "url": "https://foreignpolicy.com/2022/06/17/us-miliitary-strategy-geopolitics-restraint-russia-china-ukraine-war/"
-    },
-    {
-      "text": "\n        Shadow Government    ",
-      "url": "https://foreignpolicy.com/category/analysis/shadow-government/"
-    },
-    {
-      "text": "\n    H. R. McMaster",
-      "url": "https://foreignpolicy.com/author/h-r-mcmaster/"
-    },
-    {
-      "text": "\n    Gabriel Scheinmann",
-      "url": "https://foreignpolicy.com/author/gabriel-scheinmann/"
-    },
-    {
-      "text": "\n    A Far-Right Huddle in S\u00e3o Paulo\n",
-      "url": "https://foreignpolicy.com/2022/06/17/cpac-brazil-far-right-south-america-bolsonaro-kast-milei-trump/"
-    },
-    {
-      "text": "\n    America\u2019s Foreign Aid Is Shackled by Budgetary Obligations\n",
-      "url": "https://foreignpolicy.com/2022/06/16/america-foreign-aid-shackled-budgetary-obligations/"
-    },
-    {
-      "text": "\n    Why This Global Economic Crisis Is Different\n",
-      "url": "https://foreignpolicy.com/2022/06/14/inflation-stock-market-economic-crisis-trade-wto-ukraine-energy-food-shortages-fed-central-banks/"
-    },
-    {
-      "text": "Emma Ashford",
-      "url": "https://foreignpolicy.com/author/emma-ashford/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tGreat-Power Competition Is a Recipe for Disaster\t\t\t\t\t\t\t",
-      "url": "https://foreignpolicy.com/2021/04/01/china-usa-great-power-competition-recipe-for-disaster/"
-    },
-    {
-      "text": "Lynne O\u2019Donnell",
-      "url": "https://foreignpolicy.com/author/lynne-odonnell/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tAfghanistan\u2019s Warlords Prepare Their Comeback\t\t\t\t\t\t\t",
-      "url": "https://foreignpolicy.com/2022/06/14/afghanistan-warlords-taliban-authority-comeback/"
-    },
-    {
-      "text": "Elisabeth Braw",
-      "url": "https://foreignpolicy.com/author/elisabeth-braw/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tSwedengate Was a Lesson in How Easily Misinformation Spreads\t\t\t\t\t\t\t",
-      "url": "https://foreignpolicy.com/2022/06/14/swedengate-online-misinformation-racism-disinformation/"
-    },
-    {
-      "text": "Edward Alden",
-      "url": "https://foreignpolicy.com/author/edward-alden/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tThe Dangerous New Anti-Globalization Consensus\t\t\t\t\t\t\t",
-      "url": "https://foreignpolicy.com/2022/05/03/globalization-deglobalization-inflation-economy-trade-borders/"
-    },
-    {
-      "text": "in the magazine",
-      "url": "/the-magazine"
-    },
-    {
-      "text": "Archives",
-      "url": "/print-archive"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/04/14/us-china-biden-strategy-geopolitics/"
-    },
-    {
-      "text": "\n    What Exactly Is America\u2019s China Policy?\n",
-      "url": "https://foreignpolicy.com/2022/04/14/us-china-biden-strategy-geopolitics/"
-    },
-    {
-      "text": "\n        Essay    ",
-      "url": "https://foreignpolicy.com/category/essay/"
-    },
-    {
-      "text": "\n    Andrew J. Nathan",
-      "url": "https://foreignpolicy.com/author/andrew-j-nathan/"
-    },
-    {
-      "text": "\n    How Beijing Sees Biden\n",
-      "url": "https://foreignpolicy.com/2022/04/14/china-us-relations-biden-strategy/"
-    },
-    {
-      "text": "\n        Essay    ",
-      "url": "https://foreignpolicy.com/category/essay/"
-    },
-    {
-      "text": "\n    Melinda Liu",
-      "url": "https://foreignpolicy.com/author/melinda-liu/"
-    },
-    {
-      "text": "\n    The Dangers of China\u2019s Decline\n",
-      "url": "https://foreignpolicy.com/2022/04/14/china-decline-dangers/"
-    },
-    {
-      "text": "\n        Essay    ",
-      "url": "https://foreignpolicy.com/category/essay/"
-    },
-    {
-      "text": "\n    Hal Brands",
-      "url": "https://foreignpolicy.com/author/hal-brands/"
-    },
-    {
-      "text": "\n    Generation Snitch\n",
-      "url": "https://foreignpolicy.com/2022/04/14/china-youth-generation-snitch/"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Tracy Wen Liu",
-      "url": "https://foreignpolicy.com/author/tracy-wen-liu/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2020/06/19/why-race-matters-international-relations-ir/"
-    },
-    {
-      "text": "\n    Why Race Matters in International Relations\n",
-      "url": "https://foreignpolicy.com/2020/06/19/why-race-matters-international-relations-ir/"
-    },
-    {
-      "text": "\n    Kelebogile Zvobgo",
-      "url": "https://foreignpolicy.com/author/kelebogile-zvobgo/"
-    },
-    {
-      "text": "\n    Meredith Loken",
-      "url": "https://foreignpolicy.com/author/meredith-loken/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2020/11/05/what-south-africa-can-teach-the-united-states-about-repairing-a-divided-society/"
-    },
-    {
-      "text": "\n    What South Africa Can Teach the United States About Repairing a Divided Society\n",
-      "url": "https://foreignpolicy.com/2020/11/05/what-south-africa-can-teach-the-united-states-about-repairing-a-divided-society/"
-    },
-    {
-      "text": "\n    Eusebius McKaiser",
-      "url": "https://foreignpolicy.com/author/eusebius-mckaiser/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/02/01/black-history-foreign-policy-international-relations/"
-    },
-    {
-      "text": "\n    7 Books on Black History and Foreign Policy Everyone Should Read\n",
-      "url": "https://foreignpolicy.com/2022/02/01/black-history-foreign-policy-international-relations/"
-    },
-    {
-      "text": "\n    Jennifer Williams",
-      "url": "https://foreignpolicy.com/author/jennifer-williams/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/06/belgium-congo-colonialism-leopold-ii-commodities/"
-    },
-    {
-      "text": "\n    Confronting Belgium\u2019s Colonial Legacy\n",
-      "url": "https://foreignpolicy.com/2022/06/06/belgium-congo-colonialism-leopold-ii-commodities/"
-    },
-    {
-      "text": "\n    Howard W. French",
-      "url": "https://foreignpolicy.com/author/howard-w-french/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/11/us-nuclear-weapons-strategy-putin-ukraine-war-threat-china-arms-race-geopolitics/"
-    },
-    {
-      "text": "\n    Learning to Think Nuclearly Again\n",
-      "url": "https://foreignpolicy.com/2022/06/11/us-nuclear-weapons-strategy-putin-ukraine-war-threat-china-arms-race-geopolitics/"
-    },
-    {
-      "text": "\n    Michael Auslin",
-      "url": "https://foreignpolicy.com/author/michael-auslin/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/11/ghana-protocol-government-bureaucracy-youth-employment/"
-    },
-    {
-      "text": "\n    The Secret to Getting What You Need in Ghana\n",
-      "url": "https://foreignpolicy.com/2022/06/11/ghana-protocol-government-bureaucracy-youth-employment/"
-    },
-    {
-      "text": "\n    Anakwa Dwamena",
-      "url": "https://foreignpolicy.com/author/anakwa-dwamena/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/10/the-next-mediterranean-migration-crisis-will-be-worse/"
-    },
-    {
-      "text": "\n    The Next Mediterranean Migration Crisis Will Be Worse\n",
-      "url": "https://foreignpolicy.com/2022/06/10/the-next-mediterranean-migration-crisis-will-be-worse/"
-    },
-    {
-      "text": "\n    Rhoda Feng",
-      "url": "https://foreignpolicy.com/author/rhoda-feng/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/06/12/africa-ivory-trade-zimbabwe-elephant-poaching-conservation/"
-    },
-    {
-      "text": "\n    The Brewing Battle Over Africa\u2019s Ivory\n",
-      "url": "https://foreignpolicy.com/2022/06/12/africa-ivory-trade-zimbabwe-elephant-poaching-conservation/"
-    },
-    {
-      "text": "\n    Tendai Marima",
-      "url": "https://foreignpolicy.com/author/tendai-marima/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2019/04/27/the-spycraft-revolution-espionage-technology/"
-    },
-    {
-      "text": "\n    The Spycraft Revolution\n",
-      "url": "https://foreignpolicy.com/2019/04/27/the-spycraft-revolution-espionage-technology/"
-    },
-    {
-      "text": "\n        Feature    ",
-      "url": "https://foreignpolicy.com/category/feature/"
-    },
-    {
-      "text": "\n    Edward Lucas",
-      "url": "https://foreignpolicy.com/author/edward-lucas/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2020/12/26/what-spies-really-think-about-john-le-carre/"
-    },
-    {
-      "text": "\n    What Spies Really Think About John le Carr\u00e9\n",
-      "url": "https://foreignpolicy.com/2020/12/26/what-spies-really-think-about-john-le-carre/"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Calder Walton",
-      "url": "https://foreignpolicy.com/author/calder-walton/"
-    },
-    {
-      "text": "\n    Christopher Andrew",
-      "url": "https://foreignpolicy.com/author/christopher-andrew/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2020/09/28/china-lost-students-spies-michigan-florida-espionage-fears/"
-    },
-    {
-      "text": "\n    Were They Lost Students or Inept Spies for China?\n",
-      "url": "https://foreignpolicy.com/2020/09/28/china-lost-students-spies-michigan-florida-espionage-fears/"
-    },
-    {
-      "text": "\n        Report    ",
-      "url": "https://foreignpolicy.com/category/news/report/"
-    },
-    {
-      "text": "\n    Eric Fish",
-      "url": "https://foreignpolicy.com/author/eric-fish/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2019/06/14/how-to-take-care-of-an-ex-spy/"
-    },
-    {
-      "text": "\n    How to Take Care of an Ex-Spy\n",
-      "url": "https://foreignpolicy.com/2019/06/14/how-to-take-care-of-an-ex-spy/"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Philip Caruso",
-      "url": "https://foreignpolicy.com/author/philip-caruso/"
-    },
-    {
-      "text": "\n    \n    Data-driven reports and power maps from FP Analytics\n  ",
-      "url": "https://foreignpolicy.com/fpinsider/"
-    },
-    {
-      "text": "\n            Semiconductors and the U.S.-China Tech Race\n            Special Report: Examines semiconductors\u2019 key role in U.S-China strategic and economic competitiveness, critical risks to global supply chains, and the central role of Taiwan in global tech competition.\n          ",
-      "url": "/2021/02/16/semiconductors-us-china-taiwan-technology-innovation-competition/"
-    },
-    {
-      "text": "\n            The Future of Money\n            Power Map: In this 3-part series, Part I assesses emerging threats to U.S. dollar supremacy, Part II examines cryptocurrencies as vehicles for financial change, and Part III addresses institutional adoption and the rapidly evolving regulatory landscape.\n          ",
-      "url": "/2021/10/12/future-of-money-cbdc-digital-currency-dlt-libra-diem-tether-stablecoins-finance-regulation/"
-    },
-    {
-      "text": "\n            Climate & Systemic Risk\n            Special Report: Explores the financial sector\u2019s role in managing climate-related risks to the global economy and accelerating the transition to net-zero.\n          ",
-      "url": "/2021/11/29/global-finance-and-management-of-climate-related-risk/"
-    },
-    {
-      "text": "podcasts",
-      "url": "/podcasts"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/podcasts/ones-and-tooze/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tOnes and Tooze\n\t\t\t\t\t\t\tTwo data points that explain the world: Foreign Policy\u2019s weekly economics podcast with Adam Tooze.\n\t\t\t\t\t\t",
-      "url": "https://foreignpolicy.com/podcasts/ones-and-tooze/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/podcasts/the-catch/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tThe Catch\n\t\t\t\t\t\t\tForeign Policy\u2019s new six-part narrative series on global fishing: How squid explains the state of our oceans.\n\t\t\t\t\t\t",
-      "url": "https://foreignpolicy.com/podcasts/the-catch/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/podcasts/ispy/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tI Spy\n\t\t\t\t\t\t\tSpies don\u2019t talk\u2014it\u2019s the cardinal rule of the business. But here on I Spy, we get them to open up.\n\t\t\t\t\t\t",
-      "url": "https://foreignpolicy.com/podcasts/ispy/"
-    },
-    {
-      "text": "\n                    What the Fall of Empires Tells Us About the Ukraine War\n                ",
-      "url": "/2022/06/20/russia-ukraine-war-putin-empire-imperialism-colonialism-conquest-collapse/?tpcc=recirc_trending062921"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Anatol Lieven",
-      "url": "https://foreignpolicy.com/author/anatol-lieven/"
-    },
-    {
-      "text": "\n                    Why Russia Keeps Turning to Mass Firepower\n                ",
-      "url": "/2022/06/19/why-russia-keeps-turning-to-mass-firepower/?tpcc=recirc_trending062921"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Lucian Staiano-Daniels",
-      "url": "https://foreignpolicy.com/author/lucian-staiano-daniels/"
-    },
-    {
-      "text": "\n                    Christian Nationalism Is Tearing Ethiopia Apart\n                ",
-      "url": "/2022/06/18/ethiopia-pentecostal-evangelical-abiy-ahmed-christian-nationalism/?tpcc=recirc_trending062921"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Andrew DeCort",
-      "url": "https://foreignpolicy.com/author/andrew-decort/"
-    },
-    {
-      "text": "\n                    Foreign Policy\u2019s Summer Reading List\n                ",
-      "url": "/2022/06/20/book-recommendations-reading-list-summer-international-relations-foreign-policy/?tpcc=recirc_trending062921"
-    },
-    {
-      "text": "\n        Review    ",
-      "url": "https://foreignpolicy.com/category/review/"
-    },
-    {
-      "text": "\n    FP Staff",
-      "url": "https://foreignpolicy.com/author/fp-staff/"
-    },
-    {
-      "text": "\n    FP Contributors",
-      "url": "https://foreignpolicy.com/author/fp-contributors/"
-    },
-    {
-      "text": "\n                    NATO Must Prepare to Defend Its Weakest Point\u2014the Suwalki Corridor\n                ",
-      "url": "/2022/03/03/nato-must-prepare-to-defend-its-weakest-point-the-suwalki-corridor/?tpcc=recirc_trending062921"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    John R. Deni",
-      "url": "https://foreignpolicy.com/author/john-r-deni/"
-    },
-    {
-      "text": "\n                    Germany Confronts Its Nuclear Demons\n                ",
-      "url": "/2022/06/20/germany-nuclear-power-energy-weapons-nato-russia-ukraine-war-energy-crisis-greens/?tpcc=recirc_trending062921"
-    },
-    {
-      "text": "\n        Deep Dive    ",
-      "url": "https://foreignpolicy.com/category/deep-dive/"
-    },
-    {
-      "text": "\n    Allison Meakem",
-      "url": "https://foreignpolicy.com/author/allison-meakem/"
-    },
-    {
-      "text": "\n                    U.S. Restraint Has Created an Unstable and Dangerous World\n                ",
-      "url": "/2022/06/17/us-miliitary-strategy-geopolitics-restraint-russia-china-ukraine-war/?tpcc=recirc_trending062921"
-    },
-    {
-      "text": "\n        Shadow Government    ",
-      "url": "https://foreignpolicy.com/category/analysis/shadow-government/"
-    },
-    {
-      "text": "\n    H. R. McMaster",
-      "url": "https://foreignpolicy.com/author/h-r-mcmaster/"
-    },
-    {
-      "text": "\n    Gabriel Scheinmann",
-      "url": "https://foreignpolicy.com/author/gabriel-scheinmann/"
-    },
-    {
-      "text": "\n                    The Problem With Being a Petrostate\n                ",
-      "url": "/2022/06/19/petrostates-oil-production-weapon-foreign-policy-war-economy/?tpcc=recirc_trending062921"
-    },
-    {
-      "text": "\n        Excerpt    ",
-      "url": "https://foreignpolicy.com/category/excerpt/"
-    },
-    {
-      "text": "\n    Emma Ashford",
-      "url": "https://foreignpolicy.com/author/emma-ashford/"
-    },
-    {
-      "text": "\n                    Russia\u2019s War Is the End of Climate Policy as We Know It\n                ",
-      "url": "/2022/06/05/climate-policy-ukraine-russia-energy-security-emissions-cold-war-fossil-fuels/?tpcc=recirc_trending062921"
-    },
-    {
-      "text": "\n        Argument    ",
-      "url": "https://foreignpolicy.com/category/analysis/argument/"
-    },
-    {
-      "text": "\n    Ted Nordhaus",
-      "url": "https://foreignpolicy.com/author/ted-nordhaus/"
-    },
-    {
-      "text": "visual stories",
-      "url": "/category/photo-essay/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/slideshow/may-2022-best-world-photos/"
-    },
-    {
-      "text": "\n    The Month in World Photos\n",
-      "url": "https://foreignpolicy.com/slideshow/may-2022-best-world-photos/"
-    },
-    {
-      "text": "\n    Diana D'Abruzzo",
-      "url": "https://foreignpolicy.com/author/diana-dabruzzo/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/2022/04/23/india-lgbtqi-muslim-gender-identity-pets/"
-    },
-    {
-      "text": "\n    LGBTQI Muslims in India Find Solace in Their Pets\n",
-      "url": "https://foreignpolicy.com/2022/04/23/india-lgbtqi-muslim-gender-identity-pets/"
-    },
-    {
-      "text": "\n    Saqib Mugloo",
-      "url": "https://foreignpolicy.com/author/saqib-mugloo/"
-    },
-    {
-      "text": "\n    Shefali Rafiq",
-      "url": "https://foreignpolicy.com/author/shefali-rafiq/"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/foreign.policy.magazine"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/foreignpolicy"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/foreignpolicymag/"
-    },
-    {
-      "text": "",
-      "url": "https://www.linkedin.com/company/256075/"
-    },
-    {
-      "text": "\n    Foreign Policy\u2019s Summer Reading List\n",
-      "url": "https://foreignpolicy.com/2022/06/20/book-recommendations-reading-list-summer-international-relations-foreign-policy/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "\n    Germany Confronts Its Nuclear Demons\n",
-      "url": "https://foreignpolicy.com/2022/06/20/germany-nuclear-power-energy-weapons-nato-russia-ukraine-war-energy-crisis-greens/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "\n    What the Fall of Empires Tells Us About the Ukraine War\n",
-      "url": "https://foreignpolicy.com/2022/06/20/russia-ukraine-war-putin-empire-imperialism-colonialism-conquest-collapse/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "\n    The Secrets of Modern Espionage\n",
-      "url": "https://foreignpolicy.com/2022/06/19/modern-spies-espionage-spycraft-intelligence/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "\n    Why Russia Keeps Turning to Mass Firepower\n",
-      "url": "https://foreignpolicy.com/2022/06/19/why-russia-keeps-turning-to-mass-firepower/?tpcc=recirc_latest062921"
-    },
-    {
-      "text": "See All Stories",
-      "url": "/category/latest/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy/"
-    },
-    {
-      "text": "\n        \n        \n            \n        \n        ",
-      "url": "https://foreignpolicy.com/"
-    },
-    {
-      "text": "FP Events",
-      "url": "https://foreignpolicy.com/events"
-    },
-    {
-      "text": "FP Studios",
-      "url": "https://foreignpolicy.com/fp-studios/"
-    },
-    {
-      "text": "FP Analytics",
-      "url": "https://foreignpolicy.com/fp-analytics/"
-    },
-    {
-      "text": "FP PeaceGames",
-      "url": "https://foreignpolicy.com/fp-peacegames/"
-    },
-    {
-      "text": "Subscription Services",
-      "url": "https://foreignpolicy.com/subscription-services/"
-    },
-    {
-      "text": "Group Subscriptions",
-      "url": "https://foreignpolicy.com/group-subscriptions/"
-    },
-    {
-      "text": "Reprint Permissions",
-      "url": "https://foreignpolicy.com/reprint-permissions/"
-    },
-    {
-      "text": "Writer\u2019s Guidelines",
-      "url": "https://foreignpolicy.submittable.com/submit"
-    },
-    {
-      "text": "FP Guides \u2013 Graduate Education",
-      "url": "https://fpguide.foreignpolicy.com/2022-career/"
-    },
-    {
-      "text": "FP For Education",
-      "url": "https://foreignpolicy.com/fp-for-education/"
-    },
-    {
-      "text": "FP Archive",
-      "url": "/magazine"
-    },
-    {
-      "text": "Buy Back Issues",
-      "url": "https://foreignpolicy.com/buy-back-issues/"
-    },
-    {
-      "text": "Work At FP",
-      "url": "https://foreignpolicy.com/employment-opportunities/"
-    },
-    {
-      "text": "Meet the Staff",
-      "url": "https://foreignpolicy.com/staff/"
-    },
-    {
-      "text": "Advertising/Partnerships",
-      "url": "https://solutions.foreignpolicy.com/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://foreignpolicy.com/contact-us/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://foreignpolicy.com/privacy/"
-    },
-    {
-      "text": "WordPress VIP",
-      "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=foreignpolicy.com"
-    }
-  ],
-  "item_last_updated": 1655760522,
-  "item_size": 3305323,
+  "files_count": 75,
+  "item_last_updated": 1656004601,
+  "item_size": 8237775,
   "metadata": {
     "identifier": "foreignpolicy-2022",
     "collection": [
@@ -1453,10 +809,10 @@
     "publicdate": "2022-06-19 23:24:15",
     "addeddate": "2022-06-19 23:24:15"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 652761520,
+  "server": "ia801401.us.archive.org",
+  "uniq": 623213225,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

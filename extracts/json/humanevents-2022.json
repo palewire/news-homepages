@@ -1,5 +1,5 @@
 {
-  "created": 1655760815,
+  "created": 1656029994,
   "d1": "ia601806.us.archive.org",
   "d2": "ia801806.us.archive.org",
   "dir": "/20/items/humanevents-2022",
@@ -3820,31 +3820,493 @@
       "sha1": "4547c80d446c7ad9688c66069361e64dab4f9e32"
     },
     {
+      "name": "humanevents-2022-06-20T21:32:04.484894-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775128",
+      "size": "16985",
+      "md5": "4fa263af1bf79706faa85e7241737ecd",
+      "crc32": "1f96224a",
+      "sha1": "beb24d8b86fe0f294ab8faddce4230b0efa39bd9",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-20T21:32:04.484894-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775130",
+      "size": "24526",
+      "md5": "39f927cd244992204e4282065e49c59f",
+      "crc32": "d4b603f2",
+      "sha1": "f2832285eb83652348a8808c3870fcf949720db2",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-20T21:32:04.484894-04:00.jpg",
+      "source": "original",
+      "mtime": "1655775126",
+      "size": "353513",
+      "md5": "a44b2dcee15fece7439fc322ba787844",
+      "crc32": "c244f6c6",
+      "sha1": "259bb1cbdd94a752201c7b7de6c5059ab3d530e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-20T21:32:04.484894-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-20T21:32:04.484894-04:00.jpg",
+      "mtime": "1655775179",
+      "size": "10901",
+      "md5": "a4104bc31b513c93ff98cf295dfd29a6",
+      "crc32": "d1a4e305",
+      "sha1": "e1e82aa59c4276577b996fa0becf82245343faf6"
+    },
+    {
+      "name": "humanevents-2022-06-21T01:26:13.157668-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789179",
+      "size": "16985",
+      "md5": "4fa263af1bf79706faa85e7241737ecd",
+      "crc32": "1f96224a",
+      "sha1": "beb24d8b86fe0f294ab8faddce4230b0efa39bd9",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T01:26:13.157668-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789181",
+      "size": "24526",
+      "md5": "39f927cd244992204e4282065e49c59f",
+      "crc32": "d4b603f2",
+      "sha1": "f2832285eb83652348a8808c3870fcf949720db2",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T01:26:13.157668-04:00.jpg",
+      "source": "original",
+      "mtime": "1655789176",
+      "size": "353513",
+      "md5": "a44b2dcee15fece7439fc322ba787844",
+      "crc32": "c244f6c6",
+      "sha1": "259bb1cbdd94a752201c7b7de6c5059ab3d530e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-21T01:26:13.157668-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-21T01:26:13.157668-04:00.jpg",
+      "mtime": "1655789245",
+      "size": "10901",
+      "md5": "a4104bc31b513c93ff98cf295dfd29a6",
+      "crc32": "d1a4e305",
+      "sha1": "e1e82aa59c4276577b996fa0becf82245343faf6"
+    },
+    {
+      "name": "humanevents-2022-06-21T08:27:38.247100-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814463",
+      "size": "16985",
+      "md5": "4fa263af1bf79706faa85e7241737ecd",
+      "crc32": "1f96224a",
+      "sha1": "beb24d8b86fe0f294ab8faddce4230b0efa39bd9",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T08:27:38.247100-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814465",
+      "size": "24526",
+      "md5": "39f927cd244992204e4282065e49c59f",
+      "crc32": "d4b603f2",
+      "sha1": "f2832285eb83652348a8808c3870fcf949720db2",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T08:27:38.247100-04:00.jpg",
+      "source": "original",
+      "mtime": "1655814461",
+      "size": "353513",
+      "md5": "a44b2dcee15fece7439fc322ba787844",
+      "crc32": "c244f6c6",
+      "sha1": "259bb1cbdd94a752201c7b7de6c5059ab3d530e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-21T08:27:38.247100-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-21T08:27:38.247100-04:00.jpg",
+      "mtime": "1655814533",
+      "size": "10901",
+      "md5": "a4104bc31b513c93ff98cf295dfd29a6",
+      "crc32": "d1a4e305",
+      "sha1": "e1e82aa59c4276577b996fa0becf82245343faf6"
+    },
+    {
+      "name": "humanevents-2022-06-21T09:51:19.709197-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819483",
+      "size": "16985",
+      "md5": "4fa263af1bf79706faa85e7241737ecd",
+      "crc32": "1f96224a",
+      "sha1": "beb24d8b86fe0f294ab8faddce4230b0efa39bd9",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T09:51:19.709197-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819485",
+      "size": "24526",
+      "md5": "39f927cd244992204e4282065e49c59f",
+      "crc32": "d4b603f2",
+      "sha1": "f2832285eb83652348a8808c3870fcf949720db2",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T09:51:19.709197-04:00.jpg",
+      "source": "original",
+      "mtime": "1655819481",
+      "size": "353513",
+      "md5": "a44b2dcee15fece7439fc322ba787844",
+      "crc32": "c244f6c6",
+      "sha1": "259bb1cbdd94a752201c7b7de6c5059ab3d530e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-21T09:51:19.709197-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-21T09:51:19.709197-04:00.jpg",
+      "mtime": "1655819600",
+      "size": "10901",
+      "md5": "a4104bc31b513c93ff98cf295dfd29a6",
+      "crc32": "d1a4e305",
+      "sha1": "e1e82aa59c4276577b996fa0becf82245343faf6"
+    },
+    {
+      "name": "humanevents-2022-06-21T13:14:26.492847-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831672",
+      "size": "17075",
+      "md5": "2d5871018ea0b5c3f4cd7e3374256db9",
+      "crc32": "05fed74b",
+      "sha1": "e622105583b4eb317ef5a79e01180d1341fbc089",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T13:14:26.492847-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831673",
+      "size": "25215",
+      "md5": "0cd248a162004af68b6cd11be3027e54",
+      "crc32": "43a01892",
+      "sha1": "c064c01abc37229293a69826ec72c3985ba48376",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T13:14:26.492847-04:00.jpg",
+      "source": "original",
+      "mtime": "1655831670",
+      "size": "345304",
+      "md5": "4188055c674b548b894d0532468d2da3",
+      "crc32": "68fe406a",
+      "sha1": "112f42bbb1f6f15af192e77477d4dce7dc4914e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-21T13:14:26.492847-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-21T13:14:26.492847-04:00.jpg",
+      "mtime": "1655831733",
+      "size": "10854",
+      "md5": "74c255cde1690725b3f42c2f94abc1d5",
+      "crc32": "eb8ca87b",
+      "sha1": "406d2c88b82fed597679dbe74b8df146ac7346d9"
+    },
+    {
+      "name": "humanevents-2022-06-21T21:22:43.823348-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655860969",
+      "size": "17066",
+      "md5": "0a2c970d09211e59e14fb6fa89b33fc5",
+      "crc32": "ecfe8ccb",
+      "sha1": "b2f42f3e0cec42568a4e177721b699a21a52101c",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T21:22:43.823348-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655860971",
+      "size": "24874",
+      "md5": "a9f1ddee0ca5d029dc4ad9dc5bc235cd",
+      "crc32": "ba93c4c6",
+      "sha1": "4c00b9169a76ce0058c85a0920b34d47eb448fbf",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-21T21:22:43.823348-04:00.jpg",
+      "source": "original",
+      "mtime": "1655860966",
+      "size": "272115",
+      "md5": "337d43504916216e24ffa5d705ba5793",
+      "crc32": "9ef0cb18",
+      "sha1": "9d6af45f80e3225e038d87eec96d6369e7e75982",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-21T21:22:43.823348-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-21T21:22:43.823348-04:00.jpg",
+      "mtime": "1655861408",
+      "size": "10693",
+      "md5": "095171b3306ee449d1424df46a8add8f",
+      "crc32": "b7a41b8f",
+      "sha1": "7cd80b7240245421a8c395e9d162c5a103a366d8"
+    },
+    {
+      "name": "humanevents-2022-06-22T05:15:18.739657-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889325",
+      "size": "17066",
+      "md5": "c1326a5fe8cd77e51ece3d4c3168b176",
+      "crc32": "332f5a3a",
+      "sha1": "df2b203df16917edf82821ffe66f76be11bc95b7",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-22T05:15:18.739657-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889327",
+      "size": "24874",
+      "md5": "b58bcca599d36c2fce50b223d7532e17",
+      "crc32": "742e92e4",
+      "sha1": "b0a3e9574cac1d9ebe16abe1161b8a513c8fb962",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-22T05:15:18.739657-04:00.jpg",
+      "source": "original",
+      "mtime": "1655889323",
+      "size": "271952",
+      "md5": "b707018bd84a8805b7aae8548e0e3463",
+      "crc32": "e55e991c",
+      "sha1": "e69db6185e5dce98ea6c4e85151bc4d3ab3d1cf4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-22T05:15:18.739657-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-22T05:15:18.739657-04:00.jpg",
+      "mtime": "1655889379",
+      "size": "10684",
+      "md5": "c576f4667969728462e0f9425c371ddf",
+      "crc32": "f42a73d4",
+      "sha1": "633cfbf4e49229f1753f540dd5948393337d767d"
+    },
+    {
+      "name": "humanevents-2022-06-22T13:24:28.296801-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655918675",
+      "size": "17386",
+      "md5": "09c2f7b36422fb9ca35dcae41871b90a",
+      "crc32": "3531e0d4",
+      "sha1": "a8b4ab4eb4eb6718e313b26e6990db9631e2415a",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-22T13:24:28.296801-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655918677",
+      "size": "26113",
+      "md5": "bb00e3c42f491a6e165cc2879e0d2f23",
+      "crc32": "c3adb3d6",
+      "sha1": "63181b6d56e349c4eb159727b3109941f7315d63",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-22T13:24:28.296801-04:00.jpg",
+      "source": "original",
+      "mtime": "1655918673",
+      "size": "278482",
+      "md5": "5556afa00d5c701f2eaee01967afcf9f",
+      "crc32": "5270c847",
+      "sha1": "0743fe97a595ead556e27c5deda5349dac03b713",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-22T13:24:28.296801-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-22T13:24:28.296801-04:00.jpg",
+      "mtime": "1655918756",
+      "size": "10788",
+      "md5": "33f510fdd8b0e21fff7fced73b54f6fa",
+      "crc32": "6db3386d",
+      "sha1": "828d3694654eb35fc76e186304bb493ec388aff1"
+    },
+    {
+      "name": "humanevents-2022-06-22T21:25:17.866487-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947521",
+      "size": "16835",
+      "md5": "00fe95d226c79bc4a7916846ddfb7622",
+      "crc32": "6ae92dff",
+      "sha1": "e58c8a229ab9f6fe1ac2c7384a7cd5dfa354873d",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-22T21:25:17.866487-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947523",
+      "size": "24301",
+      "md5": "25a5ca732db3bd7e2d869ef565970ab0",
+      "crc32": "3223a850",
+      "sha1": "d0fe209916f10be0ab7d939997ff923da1b80f54",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-22T21:25:17.866487-04:00.jpg",
+      "source": "original",
+      "mtime": "1655947519",
+      "size": "273763",
+      "md5": "119568bad72b21c6c3b4ee042fdbc330",
+      "crc32": "699cea7a",
+      "sha1": "83ffbb95b0e28d8ffc062d730b8ae996b2703bd2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-22T21:25:17.866487-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-22T21:25:17.866487-04:00.jpg",
+      "mtime": "1655947580",
+      "size": "10610",
+      "md5": "bfa54a6a98da3768b68b9c38d224169c",
+      "crc32": "3639a85e",
+      "sha1": "d671ebebbe0b95aef4779ac26879c7a359c0a783"
+    },
+    {
+      "name": "humanevents-2022-06-23T05:17:17.230579-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655975842",
+      "size": "17273",
+      "md5": "e8a64ddea3799985428c3a79df8548e8",
+      "crc32": "b5c16e2c",
+      "sha1": "3be0c51ea18a31eb811b8d59a749d0ed637cbf87",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-23T05:17:17.230579-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655975844",
+      "size": "25947",
+      "md5": "2ce012c8bbc38df2eb2af02682dc1b51",
+      "crc32": "70127003",
+      "sha1": "492dadf84ece2d93c91458842bfc5429c5bae954",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-23T05:17:17.230579-04:00.jpg",
+      "source": "original",
+      "mtime": "1655975840",
+      "size": "280152",
+      "md5": "9cb57ddfd046f89a13e4ed20ed0a6d41",
+      "crc32": "ed877438",
+      "sha1": "8abf57d3d1ae107051078fb3f55ad774d1c83ecf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-23T05:17:17.230579-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-23T05:17:17.230579-04:00.jpg",
+      "mtime": "1655975910",
+      "size": "10660",
+      "md5": "ecb78cefeb1dccaf5d45968f114a2bdf",
+      "crc32": "414f11e0",
+      "sha1": "39a149447add80f48ce5dd14ea80597d537c3dc0"
+    },
+    {
+      "name": "humanevents-2022-06-23T13:16:11.060799-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004575",
+      "size": "17369",
+      "md5": "4c3fd12f1eb6e1a1373c1a72af3b2477",
+      "crc32": "d9c44070",
+      "sha1": "de0940bbfb7e22714cf32c772e96e9dee70df918",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-23T13:16:11.060799-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004577",
+      "size": "26188",
+      "md5": "ad359b6c5a081c0ae549449d9f0dead5",
+      "crc32": "e62b19e4",
+      "sha1": "cb1fb27e883d359c81bbbed614a3aa2412688909",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-06-23T13:16:11.060799-04:00.jpg",
+      "source": "original",
+      "mtime": "1656004573",
+      "size": "280874",
+      "md5": "199257e1e09fd7b25f53f2fa49cad21e",
+      "crc32": "16b24535",
+      "sha1": "3d68c205607a2759d4268b5cc5b9046f673149a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-06-23T13:16:11.060799-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-06-23T13:16:11.060799-04:00.jpg",
+      "mtime": "1656004654",
+      "size": "10635",
+      "md5": "a92974eb3c4d3f9317ad1452a05e5a2e",
+      "crc32": "ccc04249",
+      "sha1": "f1a91a169e66e87bb9d7341202dc6243d8a30db2"
+    },
+    {
       "name": "humanevents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cfb10054887fcfef2252b4884f0719f1d437f204",
-      "mtime": "1655760792",
-      "size": "78957",
-      "md5": "3ca47fabdead779e82770cb2e1196f63",
-      "crc32": "b8484e53",
-      "sha1": "2cfdcdc52b9e4429caadb5b4e0d1d6df5f5085e2",
+      "btih": "e752e1970f80a3ac07c6b671aa225d2537271fbe",
+      "mtime": "1656004660",
+      "size": "88379",
+      "md5": "6ed75608116b649a0f77395d0d59d8c0",
+      "crc32": "bd57ea90",
+      "sha1": "019466493b7ec090c7fd87086961fc44d6380dc7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humanevents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5cf779e5d95947a40dbf8b7735c5ab8",
+      "md5": "3dd64483b38632e1842c40bc4889bf8e",
       "summation": "md5"
     },
     {
       "name": "humanevents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760724",
-      "size": "434176",
-      "md5": "ba3413d3acde7b9acafd505e7c0b2259",
-      "crc32": "4869d139",
-      "sha1": "8793b01ba51a5c2337aec9adb1ec402d042d6a83",
+      "mtime": "1656004581",
+      "size": "483328",
+      "md5": "b7d93a4f992fb682bb3b32ccd338eb0f",
+      "crc32": "850a976b",
+      "sha1": "d65f43aef157c3319b1842665c5e2ba5f49277c3",
       "format": "Metadata"
     },
     {
@@ -3858,9 +4320,567 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 367,
-  "item_last_updated": 1655760792,
-  "item_size": 30772692,
+  "files_count": 411,
+  "humanevents-2022": [
+    {
+      "text": "Facebook",
+      "url": "https://facebook.com/humaneventsmedia"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://www.twitter.com/humanevents"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/humanevents"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://youtube.com/humanevents"
+    },
+    {
+      "text": "\n                                  \n                                 \n                               ",
+      "url": "https://humanevents.com"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "https://humanevents.com/category/news-analysis/"
+    },
+    {
+      "text": "To Tell the Truth",
+      "url": "https://humanevents.com/trending/to-tell-the-truth/"
+    },
+    {
+      "text": "Posobiec",
+      "url": "/daily/"
+    },
+    {
+      "text": "Podcast",
+      "url": "https://cms.megaphone.fm/channel/SHDI1049100038"
+    },
+    {
+      "text": "Opinion",
+      "url": "/editorials/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://humanevents.com/contact/"
+    },
+    {
+      "text": "Search",
+      "url": "#"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "https://humanevents.com/category/news-analysis/"
+    },
+    {
+      "text": "To Tell the Truth",
+      "url": "https://humanevents.com/trending/to-tell-the-truth/"
+    },
+    {
+      "text": "Posobiec",
+      "url": "/daily/"
+    },
+    {
+      "text": "Podcast",
+      "url": "https://cms.megaphone.fm/channel/SHDI1049100038"
+    },
+    {
+      "text": "Opinion",
+      "url": "/editorials/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://humanevents.com/contact/"
+    },
+    {
+      "text": "Search",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://humanevents.com/2022/06/22/red-flag-laws-are-ripe-for-abuse-americans-are-right-to-reject-them/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "By David Marcus",
+      "url": "/author/davidmarcus"
+    },
+    {
+      "text": "",
+      "url": "https://humanevents.com/2022/06/22/red-flag-laws-are-ripe-for-abuse-americans-are-right-to-reject-them/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "By David Marcus",
+      "url": "/author/davidmarcus"
+    },
+    {
+      "text": "",
+      "url": "https://humanevents.com/2022/06/22/red-flag-laws-are-ripe-for-abuse-americans-are-right-to-reject-them/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "By David Marcus",
+      "url": "/author/davidmarcus"
+    },
+    {
+      "text": "Jack Posobiec ",
+      "url": "/trending/jack-posobiec"
+    },
+    {
+      "text": "Lindsey Graham ",
+      "url": "/trending/lindsey-graham"
+    },
+    {
+      "text": "Mitch McConnell ",
+      "url": "/trending/mitch-mcconnell"
+    },
+    {
+      "text": "Mitt Romney ",
+      "url": "/trending/mitt-romney"
+    },
+    {
+      "text": "Gun control ",
+      "url": "/trending/gun-control"
+    },
+    {
+      "text": "Red Flag laws ",
+      "url": "/trending/red-flag-laws"
+    },
+    {
+      "text": "California ",
+      "url": "/trending/california"
+    },
+    {
+      "text": "crime ",
+      "url": "/trending/crime"
+    },
+    {
+      "text": "crime tourism ",
+      "url": "/trending/crime-tourism"
+    },
+    {
+      "text": "illegal immigration ",
+      "url": "/trending/illegal-immigration"
+    },
+    {
+      "text": "South America ",
+      "url": "/trending/south-america"
+    },
+    {
+      "text": "View All",
+      "url": "/editorials/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/23/krayden-lindsey-graham-the-rino-who-keeps-telling-you-hes-really-a-principled-conservative/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tKRAYDEN: Lindsey Graham: The RINO Who Keeps Telling You He\u2019s Really a Principled Conservative\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/23/krayden-lindsey-graham-the-rino-who-keeps-telling-you-hes-really-a-principled-conservative/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHow many times will Sen. Lindsey Graham (R-SC) convince us he\u2019s a conservative and then run off into the sunset like the RINO he is? He\u2019s done it again.\nGraham was re-elected for the fourth time...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDavid Krayden \n\t\t\t\t\t\t\t    June 23, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/23/krayden-lindsey-graham-the-rino-who-keeps-telling-you-hes-really-a-principled-conservative/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/new-mpg-rule-will-exacerbate-existing-car-shortage/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tNew MPG Rule Will Exacerbate Existing Car Shortage\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tIn April, the National Highway Traffic Safety Administration (NHTSA) announced the\u00a0new Corporate Average Fuel Economy (CAFE) standards\u00a0that automobile manufacturers must adhere to through 2026....\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tTim Benson \n\t\t\t\t\t\t\t    June 22, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/22/new-mpg-rule-will-exacerbate-existing-car-shortage/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/on-the-value-of-fatherhood/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tOn the Value of Fatherhood\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tWhen I was a child, my mother would have me participate in little league baseball like the other...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAdam Coleman \n\t\t\t\t\t\t\t    June 21, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/21/on-the-value-of-fatherhood/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/20/on-the-sidewalks-of-new-york-looking-for-new-yorks-mayra/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tOn the Sidewalks of New York: Looking for New York\u2019s Mayra\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOn the Sidewalks of New York is a weekly feature at Human Events wherein Jacqueline Toboroff, a...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJacqueline Toboroff \n\t\t\t\t\t\t\t    June 20, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/20/on-the-sidewalks-of-new-york-looking-for-new-yorks-mayra/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tEXCLUSIVE: Democrats Overwhelmingly Dismiss Potential Abuse of \u2018Red Flag\u2019 Gun Laws\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/exclusive-democrats-overwhelmingly-dismiss-potential-abuse-of-red-flag-gun-laws/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRed Flag Laws Are Ripe for Abuse. Americans Are Right to Reject Them.\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/red-flag-laws-are-ripe-for-abuse-americans-are-right-to-reject-them/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Dinesh D'Souza and Drew Hernandez on 'Biden's Guests' Pouring in Over Southern Border\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/watch-dinesh-dsouza-and-drew-hernandez-on-bidens-guests-pouring-in-over-southern-border/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tIllegal Immigrants Flood Through Gap in Southern Border Wall\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/illegal-immigrants-flood-through-gap-in-southern-border-wall/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Tom Fitton Joins Charlie Kirk to Reveal Cadets Are Being 'Force-Fed' CRT at West Point\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/watch-army-cadets-are-force-fed-crt-judicial-watch-ceo-reveals-on-charlie-kirk-show/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNew MPG Rule Will Exacerbate Existing Car Shortage\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/new-mpg-rule-will-exacerbate-existing-car-shortage/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Burglary Crews Are Flying to Los Angeles From South America for Crime Tourism\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/posobiec-burglary-crews-are-flying-to-los-angeles-from-south-america-for-crime-tourism/"
+    },
+    {
+      "text": "\n\t\t\t\t    \n\t\t\t\t      \n\n\n\n\n\t\t\t\t    \n\t\t\t\t  \n\t\t\t\t     Jeff Webb\n\t\t\t\t    Publisher\n\t\t\t\t  \n\t\t\t\t  \n\t\t\t\t",
+      "url": "/author/jeffwebb"
+    },
+    {
+      "text": "\n\t\t\t\t    \n\t\t\t\t      \n\t\t\t\t    \n\t\t\t\t  \n\t\t\t\t     Jack Posobiec\n\t\t\t\t    Senior Editor\n\t\t\t\t  \n\t\t\t\t  \n\t\t\t\t",
+      "url": "/author/jack-posobiec"
+    },
+    {
+      "text": "\n\t\t\t\t    \n\t\t\t\t      \n\n\n\n\n\t\t\t\t    \n\t\t\t\t  \n\t\t\t\t     Charlie Kirk\n\t\t\t\t    Senior Contributor\n\t\t\t\t  \n\t\t\t\t  \n\t\t\t\t",
+      "url": "/author/charlie-kirk"
+    },
+    {
+      "text": "\n\t\t\t\t    \n\t\t\t\t      \n\n\n\n\n\t\t\t\t    \n\t\t\t\t  \n\t\t\t\t     Brent Hamachek\n\t\t\t\t    Executive Editor\n\t\t\t\t  \n\t\t\t\t  \n\t\t\t\t",
+      "url": "/author/brenthamachek"
+    },
+    {
+      "text": "\n\t\t\t\t    \n\t\t\t\t      \n\t\t\t\t    \n\t\t\t\t  \n\t\t\t\t     Celine Ryan Ciccio\n\t\t\t\t    Managing Editor\n\t\t\t\t  \n\t\t\t\t  \n\t\t\t\t",
+      "url": "/author/celine-ryan"
+    },
+    {
+      "text": "\n\t\t\t\t    \n\t\t\t\t      \n\n\n\n\n\t\t\t\t    \n\t\t\t\t  \n\t\t\t\t     Chris Barron\n\t\t\t\t    Senior Contributor\n\t\t\t\t  \n\t\t\t\t  \n\t\t\t\t",
+      "url": "/author/christopherbarron"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/posobiec-burglary-crews-are-flying-to-los-angeles-from-south-america-for-crime-tourism/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Burglary Crews Are Flying to Los Angeles From South America for Crime Tourism\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHuman Events Daily host Jack Posobiec slammed California's...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tRoberto Wakerell-Cruz \n\t\t\t\t\t\t\t    June 22, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/22/posobiec-burglary-crews-are-flying-to-los-angeles-from-south-america-for-crime-tourism/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/watch-army-cadets-are-force-fed-crt-judicial-watch-ceo-reveals-on-charlie-kirk-show/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Tom Fitton Joins Charlie Kirk to Reveal Cadets Are Being 'Force-Fed' CRT at West Point\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOn the latest episode of The Charlie Kirk Show, Judicial...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tKatie Daviscourt \n\t\t\t\t\t\t\t    June 22, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/22/watch-army-cadets-are-force-fed-crt-judicial-watch-ceo-reveals-on-charlie-kirk-show/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/exclusive-democrats-overwhelmingly-dismiss-potential-abuse-of-red-flag-gun-laws/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tEXCLUSIVE: Democrats Overwhelmingly Dismiss Potential Abuse of \u2018Red Flag\u2019 Gun Laws\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tA nationwide survey conducted by the Trafalgar Group, in...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCeline Ryan Ciccio \n\t\t\t\t\t\t\t    June 21, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/21/exclusive-democrats-overwhelmingly-dismiss-potential-abuse-of-red-flag-gun-laws/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/watch-dinesh-dsouza-and-drew-hernandez-on-bidens-guests-pouring-in-over-southern-border/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Dinesh D'Souza and Drew Hernandez on 'Biden's Guests' Pouring in Over Southern Border\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tIn the latest episode of Dinesh D\u2019Souza\u2019s podcast...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHannah Nightingale \n\t\t\t\t\t\t\t    June 21, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/21/watch-dinesh-dsouza-and-drew-hernandez-on-bidens-guests-pouring-in-over-southern-border/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tEXCLUSIVE: Democrats Overwhelmingly Dismiss Potential Abuse of \u2018Red Flag\u2019 Gun Laws\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/exclusive-democrats-overwhelmingly-dismiss-potential-abuse-of-red-flag-gun-laws/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRed Flag Laws Are Ripe for Abuse. Americans Are Right to Reject Them.\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/red-flag-laws-are-ripe-for-abuse-americans-are-right-to-reject-them/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Dinesh D'Souza and Drew Hernandez on 'Biden's Guests' Pouring in Over Southern Border\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/watch-dinesh-dsouza-and-drew-hernandez-on-bidens-guests-pouring-in-over-southern-border/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tIllegal Immigrants Flood Through Gap in Southern Border Wall\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/illegal-immigrants-flood-through-gap-in-southern-border-wall/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Tom Fitton Joins Charlie Kirk to Reveal Cadets Are Being 'Force-Fed' CRT at West Point\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/watch-army-cadets-are-force-fed-crt-judicial-watch-ceo-reveals-on-charlie-kirk-show/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNew MPG Rule Will Exacerbate Existing Car Shortage\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/new-mpg-rule-will-exacerbate-existing-car-shortage/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Burglary Crews Are Flying to Los Angeles From South America for Crime Tourism\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/22/posobiec-burglary-crews-are-flying-to-los-angeles-from-south-america-for-crime-tourism/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/illegal-immigrants-flood-through-gap-in-southern-border-wall/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tIllegal Immigrants Flood Through Gap in Southern Border Wall\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\n\nIn the early hours of Tuesday morning, hundreds of illegal immigrants were seen flooding across the...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    June 21, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/21/illegal-immigrants-flood-through-gap-in-southern-border-wall/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/21/posobiec-crazy-neo-liberal-globalist-agenda-to-create-more-war-leads-us-foreign-policy/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: 'Crazy Neo-Liberal Globalist Agenda to Create More War' Leads US Foreign Policy\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHuman Events Daily host Jack Posobiec explained to viewers the situation in Syria following attacks on...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tRoberto Wakerell-Cruz \n\t\t\t\t\t\t\t    June 21, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/21/posobiec-crazy-neo-liberal-globalist-agenda-to-create-more-war-leads-us-foreign-policy/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/20/watch-charlie-kirk-blasts-the-woke-attempt-to-replace-july-4-with-race-baiting-blm-holiday-juneteenth/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Charlie Kirk Blasts the Woke Attempt to Replace July 4 with Race-Baiting 'BLM Holiday' Juneteenth\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOn Monday Charlie Kirk explained on his podcast that the efforts to celebrate Juneteenth as a national...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJoshua Young \n\t\t\t\t\t\t\t    June 20, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/20/watch-charlie-kirk-blasts-the-woke-attempt-to-replace-july-4-with-race-baiting-blm-holiday-juneteenth/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/20/half-of-americans-rate-the-state-of-moral-values-in-the-us-as-poor/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tHalf of Americans Rate the State of Moral Values in the US as 'Poor'\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\n\nAccording to a Gallup poll released on June 15, half of Americans rate the overall state of moral...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    June 20, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/20/half-of-americans-rate-the-state-of-moral-values-in-the-us-as-poor/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/17/there-was-an-insurrection-it-wasnt-on-january-6/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tThere Was an Insurrection. It Wasn't on January 6.\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLast Thursday, just before the January 6 hearings began on Capitol Hill in Washington D.C., news broke that...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAri Hoffman \n\t\t\t\t\t\t\t    June 17, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/17/there-was-an-insurrection-it-wasnt-on-january-6/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/17/britain-orders-julian-assange-to-be-extradited-to-us/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tBritain Orders Julian Assange to Be Extradited to US\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\n\nJulian Assange, founder of WikiLeaks, who has been in a London prison since 2019, has been ordered to...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    June 17, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/17/britain-orders-julian-assange-to-be-extradited-to-us/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/16/posobiec-leaked-messages-about-libs-of-tiktok-show-twitter-employees-want-to-shut-down-speech/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPosobiec: Leaked Messages About Libs of TikTok Show Twitter Employees 'Want to Shut Down Speech'\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHuman Events Daily host Jack Posobiec dug into the situation unfolding between Libs of TikTok, Elon Musk, and...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tRoberto Wakerell-Cruz \n\t\t\t\t\t\t\t    June 16, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/16/posobiec-leaked-messages-about-libs-of-tiktok-show-twitter-employees-want-to-shut-down-speech/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/16/academics-explain-communist-ideology-at-event-co-hosted-by-human-events/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tAcademics Explain Communist Ideology at Event Co-Hosted by Human Events\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\nThe Victims of Communism Memorial Foundation and\u00a0Human Events\u00a0co-hosted a Wednesday event on Marxist and...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Staff \n\t\t\t\t\t\t\t    June 16, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/16/academics-explain-communist-ideology-at-event-co-hosted-by-human-events/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/15/posobiec-they-lied-through-their-teeth-and-are-lying-still/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: 'They Lied Through Their Teeth and Are Lying Still'\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHuman Events Daily host Jack Pososbiec lambasted the Biden administration and economists for misleading the...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tRoberto Wakerell-Cruz \n\t\t\t\t\t\t\t    June 15, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/15/posobiec-they-lied-through-their-teeth-and-are-lying-still/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/15/posobiec-lebron-james-must-stand-up-and-demand-justice-for-ethan-liming/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: LeBron James Must 'Stand Up' and 'Demand Justice' for Ethan Liming\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHuman Events Daily host Jack Posobiec slammed NBA star LeBron James for not demanding justice in the death of...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    June 15, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/15/posobiec-lebron-james-must-stand-up-and-demand-justice-for-ethan-liming/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/15/elon-musk-says-he-would-vote-desantis-for-president/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tElon Musk Says He Would Vote DeSantis for President\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSpace X and Tesla CEO Elon Musk said in a tweet on Wednesday that he's leaning toward supporting Florida...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    June 15, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/15/elon-musk-says-he-would-vote-desantis-for-president/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/14/watch-libby-emmons-on-children-who-never-learn-what-it-means-to-have-a-soul/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Libby Emmons on Children Who Never Learn What it Means to Have a \u2018Soul\u2019\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tThe Post Millennial Editor in Chief Libby Emmons recently fielded a \u201cfascinating\u201d question from a young...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCeline Ryan Ciccio \n\t\t\t\t\t\t\t    June 14, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/06/14/watch-libby-emmons-on-children-who-never-learn-what-it-means-to-have-a-soul/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://humanevents.com/privacy-policy/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://facebook.com/humaneventsmedia"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://www.twitter.com/humanevents"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/humanevents"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://youtube.com/humanevents"
+    },
+    {
+      "text": "Archive",
+      "url": "https://archive.humanevents.com/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://humanevents.com/donate/"
+    },
+    {
+      "text": "About HE",
+      "url": "https://humanevents.com/about-human-events/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://humanevents.com/privacy-policy/"
+    },
+    {
+      "text": "Submit",
+      "url": "https://humanevents.com/submissions/"
+    },
+    {
+      "text": "",
+      "url": "https://statcounter.com/"
+    }
+  ],
+  "item_last_updated": 1656004660,
+  "item_size": 34830114,
   "metadata": {
     "identifier": "humanevents-2022",
     "collection": [
@@ -3878,7 +4898,7 @@
     "addeddate": "2022-03-25 18:47:01"
   },
   "server": "ia801806.us.archive.org",
-  "uniq": 1124339247,
+  "uniq": 123955415,
   "workable_servers": [
     "ia801806.us.archive.org",
     "ia601806.us.archive.org"

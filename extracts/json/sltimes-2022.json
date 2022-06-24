@@ -1,5 +1,5 @@
 {
-  "created": 1655770868,
+  "created": 1656030197,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/15/items/sltimes-2022",
@@ -310,31 +310,493 @@
       "sha1": "a8b0a34088d611cce2a82b99949f10761e32a00a"
     },
     {
+      "name": "sltimes-2022-06-20T20:35:25.921340-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775329",
+      "size": "27002",
+      "md5": "cf30bca6b1b97f33efeb4a4049442b60",
+      "crc32": "ea3ec945",
+      "sha1": "c3282ad6e5cb284a4884fcffe158f621e1621ec5",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-20T20:35:25.921340-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775330",
+      "size": "19451",
+      "md5": "9857293c5fbc3d9c982399d5fd77a3e2",
+      "crc32": "b99d2174",
+      "sha1": "187c56d655e2c69da1ef67e66c266e6848834294",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-20T20:35:25.921340-05:00.jpg",
+      "source": "original",
+      "mtime": "1655775327",
+      "size": "374917",
+      "md5": "05ea9c92bf4ccdb2e91f49e6da8f4fcf",
+      "crc32": "20b2fad4",
+      "sha1": "242ba8b0a5912e53d802f5c1a6318a5e2aa73067",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-20T20:35:25.921340-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-20T20:35:25.921340-05:00.jpg",
+      "mtime": "1655775383",
+      "size": "10374",
+      "md5": "ba12b5dc8adf24c3066f3e75564fdfc5",
+      "crc32": "5229a4a4",
+      "sha1": "e69aecb97a183a991d8d960699171ffa142afc96"
+    },
+    {
+      "name": "sltimes-2022-06-21T00:29:20.891729-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789364",
+      "size": "27037",
+      "md5": "c60a31e141f1845781c9efb020cfbd7d",
+      "crc32": "e4ab22d3",
+      "sha1": "75e819d83d21c176362fde1a4beba86ee1790331",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T00:29:20.891729-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789366",
+      "size": "19517",
+      "md5": "5ae4d6765f6480a5394c3c71ec012ff1",
+      "crc32": "89c4440a",
+      "sha1": "86e940de0396ad9aebf0b8d42a04e138ada5316a",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T00:29:20.891729-05:00.jpg",
+      "source": "original",
+      "mtime": "1655789362",
+      "size": "387814",
+      "md5": "dc935a93be1ca9b7794d26120e767f59",
+      "crc32": "c2a59887",
+      "sha1": "ef45b6825adcfa3933883064a43c4fb1199bb906",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-21T00:29:20.891729-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-21T00:29:20.891729-05:00.jpg",
+      "mtime": "1655789411",
+      "size": "10417",
+      "md5": "ed961f9c11cac1f5e6bdfea9b799d7e0",
+      "crc32": "9defb355",
+      "sha1": "333665a14d12b66df1c3592608b1af7098c72f25"
+    },
+    {
+      "name": "sltimes-2022-06-21T07:31:56.861565-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814720",
+      "size": "27006",
+      "md5": "e20fabbebae5b6f444c41045388626c0",
+      "crc32": "25c15c02",
+      "sha1": "08de9bd1ae9d0f51d5babe6ba93d2ceb3cf72b8e",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T07:31:56.861565-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814722",
+      "size": "19455",
+      "md5": "4b251f1e8607265680bfa74968f1c14e",
+      "crc32": "75cc8c05",
+      "sha1": "f2a596e413ef3852f8b87dded13426b6950ae281",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T07:31:56.861565-05:00.jpg",
+      "source": "original",
+      "mtime": "1655814719",
+      "size": "382101",
+      "md5": "a849cc75cb67be2b971fc187be0256bb",
+      "crc32": "eedad4c2",
+      "sha1": "b0f0b2d25630febfbf1b883aae347b1865ce9c9b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-21T07:31:56.861565-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-21T07:31:56.861565-05:00.jpg",
+      "mtime": "1655814774",
+      "size": "10433",
+      "md5": "15f0dfb433dcdadd92c335dfdf3f6353",
+      "crc32": "f55cf082",
+      "sha1": "77e186ea6dbeb6e1e68bfc58029dd26fe6e4a7ed"
+    },
+    {
+      "name": "sltimes-2022-06-21T08:57:00.281416-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819824",
+      "size": "27006",
+      "md5": "e20fabbebae5b6f444c41045388626c0",
+      "crc32": "25c15c02",
+      "sha1": "08de9bd1ae9d0f51d5babe6ba93d2ceb3cf72b8e",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T08:57:00.281416-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819826",
+      "size": "19455",
+      "md5": "83fc1e27d91cd4232c8efba13670ae53",
+      "crc32": "eb1b0e04",
+      "sha1": "5c7f04c39f895d64f8ffe8070d4b52bfa0661694",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T08:57:00.281416-05:00.jpg",
+      "source": "original",
+      "mtime": "1655819822",
+      "size": "385672",
+      "md5": "dc4ce722ad164495f753b92e49e500f9",
+      "crc32": "8e63daee",
+      "sha1": "2eba566d63152d93f37ad7e4d35e01d6d91194b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-21T08:57:00.281416-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-21T08:57:00.281416-05:00.jpg",
+      "mtime": "1655819904",
+      "size": "10352",
+      "md5": "ddc645d35872d78adbbe9f3131824588",
+      "crc32": "0a85f1f6",
+      "sha1": "c23d3ebac9d61674936095b78d5940d9c031adbc"
+    },
+    {
+      "name": "sltimes-2022-06-21T12:17:40.361501-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831863",
+      "size": "27190",
+      "md5": "5f186e04665d306e9294ae2f1f3a06bf",
+      "crc32": "0404ab30",
+      "sha1": "4353b32b792ae8cc1a0bc03b9818e142df2cbabf",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T12:17:40.361501-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831865",
+      "size": "19477",
+      "md5": "7ff4fd113336d269aee0ee24a1c7c669",
+      "crc32": "6ceecffe",
+      "sha1": "8444c2cb193c71580b4e337d79fedcd185082e33",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T12:17:40.361501-05:00.jpg",
+      "source": "original",
+      "mtime": "1655831861",
+      "size": "377046",
+      "md5": "0d74e8c85f2645ff028a17b5a0209ed9",
+      "crc32": "2afd67ed",
+      "sha1": "ce8af6249aa7d4cf67e54185cff8ec144a102f65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-21T12:17:40.361501-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-21T12:17:40.361501-05:00.jpg",
+      "mtime": "1655831988",
+      "size": "10222",
+      "md5": "a32642b64e14704c08148228c909c336",
+      "crc32": "5cca539a",
+      "sha1": "460b9ee12ff5a9c56b42ca12d716618b8218e928"
+    },
+    {
+      "name": "sltimes-2022-06-21T20:26:41.504007-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861204",
+      "size": "27005",
+      "md5": "d69315ae196d499cdd5e1015c8971cbf",
+      "crc32": "df630f56",
+      "sha1": "6510e043cdeb86b7f575d802770affd54a816f34",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T20:26:41.504007-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861206",
+      "size": "19495",
+      "md5": "4c7caada66f66878eaee87966cd1a90b",
+      "crc32": "27bab344",
+      "sha1": "7a129b3a46d6bb72624a55ac08ca3d668c257b53",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-21T20:26:41.504007-05:00.jpg",
+      "source": "original",
+      "mtime": "1655861202",
+      "size": "377907",
+      "md5": "9c7d10d69e8c692ce3eac843bf134077",
+      "crc32": "1f561172",
+      "sha1": "56cd05d295e7f6608b4ccbc15cc8685996531d4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-21T20:26:41.504007-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-21T20:26:41.504007-05:00.jpg",
+      "mtime": "1655861394",
+      "size": "10258",
+      "md5": "c48ac7b048d2af318ab0cd4a2376d4a4",
+      "crc32": "f322c08d",
+      "sha1": "6c11d57ba5090050a06577af3131f4a801f9259d"
+    },
+    {
+      "name": "sltimes-2022-06-22T04:19:09.683873-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889553",
+      "size": "27097",
+      "md5": "8b1031185d1eb1eb8911dd29b7b879e0",
+      "crc32": "3cee11aa",
+      "sha1": "ae3b5b3415ae1e12582c47c9ace3f7d8533a9b29",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-22T04:19:09.683873-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889554",
+      "size": "19495",
+      "md5": "e9bf304675cdbc8b2af23651ca21360b",
+      "crc32": "05270465",
+      "sha1": "22c2a55392683f12dc1d06c5700bb7e9c26a0afe",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-22T04:19:09.683873-05:00.jpg",
+      "source": "original",
+      "mtime": "1655889551",
+      "size": "372057",
+      "md5": "0e03dd91e05ac2aa4d8372caa7a923f3",
+      "crc32": "9a24c21f",
+      "sha1": "5b206e2c06c89b6c9a64d720e0df91c6464f42b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-22T04:19:09.683873-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-22T04:19:09.683873-05:00.jpg",
+      "mtime": "1655889600",
+      "size": "10213",
+      "md5": "3a39bafeff081bf89a1a7625bc21b84e",
+      "crc32": "ee5032b4",
+      "sha1": "26e5bc4acb563b218a6e06ec2eb7d8c3238de0e5"
+    },
+    {
+      "name": "sltimes-2022-06-22T12:33:39.776560-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919223",
+      "size": "26311",
+      "md5": "7a0bed6d6bce012099b83086af86de16",
+      "crc32": "4ae58a20",
+      "sha1": "28566510510b353fca72f928f3d0072d5dbca016",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-22T12:33:39.776560-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919225",
+      "size": "18906",
+      "md5": "bc1e45b7aefa9209c33b1ddd1fc27a9d",
+      "crc32": "ff08a6d8",
+      "sha1": "8c03c5b04adb4fd8edf8cea0e081d99567bbb9ae",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-22T12:33:39.776560-05:00.jpg",
+      "source": "original",
+      "mtime": "1655919222",
+      "size": "381836",
+      "md5": "8aa08342881f0d80554e579296ecedaa",
+      "crc32": "a38a1c6a",
+      "sha1": "e0af443d8d425eb687785f2a02dfdd3844eb71fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-22T12:33:39.776560-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-22T12:33:39.776560-05:00.jpg",
+      "mtime": "1655919283",
+      "size": "10222",
+      "md5": "a42bf7a27195226a3e6b03a34df574cd",
+      "crc32": "cf5da82e",
+      "sha1": "199baccc228509f3646ece795cad2f7f15d427a9"
+    },
+    {
+      "name": "sltimes-2022-06-22T20:28:45.600995-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947728",
+      "size": "26533",
+      "md5": "2f4b77217c0a75512c41bec510f40c74",
+      "crc32": "502c1256",
+      "sha1": "841341c63d4dd87095e372d4d32af4ff0578da49",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-22T20:28:45.600995-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947730",
+      "size": "19113",
+      "md5": "2ff578a64d6fdd1ec25160d74a035472",
+      "crc32": "65d0d07c",
+      "sha1": "32f70ad5928518409b68d433a29669258341be7d",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-22T20:28:45.600995-05:00.jpg",
+      "source": "original",
+      "mtime": "1655947726",
+      "size": "374044",
+      "md5": "6922783c9adbf73371b3f2eb41940d89",
+      "crc32": "7dffec77",
+      "sha1": "c8e6acdeb74dadf7d64799ab9c928242abfcfe25",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-22T20:28:45.600995-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-22T20:28:45.600995-05:00.jpg",
+      "mtime": "1655947788",
+      "size": "10251",
+      "md5": "0ca913e5bc26b46444762e54673a3ed8",
+      "crc32": "4f77e35c",
+      "sha1": "1109b1e7dbbcd5ba9bc75274b6bf37ed2683ae84"
+    },
+    {
+      "name": "sltimes-2022-06-23T04:20:58.547875-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976061",
+      "size": "26532",
+      "md5": "1a3b91498b3d331e3109087c7ecec388",
+      "crc32": "93cdf1e0",
+      "sha1": "99a50de81550d7afe84e8404bfe6716682c6b67b",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-23T04:20:58.547875-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976062",
+      "size": "19113",
+      "md5": "2e2a34efd152fbcaee26f32cb686a1d0",
+      "crc32": "7b652498",
+      "sha1": "d02b690056c7f13c862691d87350ebbab2828999",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-23T04:20:58.547875-05:00.jpg",
+      "source": "original",
+      "mtime": "1655976059",
+      "size": "376268",
+      "md5": "5ddf6563f048b7d9c9d52b3489e16b51",
+      "crc32": "dd890869",
+      "sha1": "a3554c748ec9f07e2b85c089959eab7f7d3fb23d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-23T04:20:58.547875-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-23T04:20:58.547875-05:00.jpg",
+      "mtime": "1655976119",
+      "size": "10206",
+      "md5": "85ff92b95fd24121f5aa4a68e1f19fe9",
+      "crc32": "d23d3d06",
+      "sha1": "2334c06be92ded3ff2db3cd5443846c21d14b943"
+    },
+    {
+      "name": "sltimes-2022-06-23T12:20:10.095909-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004813",
+      "size": "26553",
+      "md5": "431b53414c80126bd86792f21ab48e1b",
+      "crc32": "1fdf8fbc",
+      "sha1": "47e5023dac685ed1589b4190cff3395aa5f6aa42",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-23T12:20:10.095909-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004814",
+      "size": "19155",
+      "md5": "1877b77a5136e4a0967b531331082226",
+      "crc32": "ce52cb4e",
+      "sha1": "f9ed4c455f676ca223961b43ce4de20073814e5f",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-06-23T12:20:10.095909-05:00.jpg",
+      "source": "original",
+      "mtime": "1656004811",
+      "size": "379194",
+      "md5": "f8a11e93fc5245c5edd50e7c2402a179",
+      "crc32": "ce0f6e2f",
+      "sha1": "69bfd7c02ea2ffa631244a622bdbd9dc128c26f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-06-23T12:20:10.095909-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-06-23T12:20:10.095909-05:00.jpg",
+      "mtime": "1656004860",
+      "size": "10146",
+      "md5": "7ae0bee0ddc82a7540cedbc1350c935a",
+      "crc32": "1be7f4cc",
+      "sha1": "40699cc104a484a07c3612add0c497dfe3c7bb02"
+    },
+    {
       "name": "sltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30260c648ce9cdbdc593eb8e3d3042c73ae2fddb",
-      "mtime": "1655760977",
-      "size": "7500",
-      "md5": "188aa531772b32b21a888586ed23ba07",
-      "crc32": "91428938",
-      "sha1": "08e34ebd669a778620b9a046ba16d445889380c8",
+      "btih": "005803efcde5bdaf4ad6675a18565cce56d63d0f",
+      "mtime": "1656004863",
+      "size": "16786",
+      "md5": "49a79e5423558f83f3ef60fdd6b39946",
+      "crc32": "072833ca",
+      "sha1": "c9a4076e43ae95fcf5fae8217ea81916143de2bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "305fd3a527b691185ede2e07dd4ded93",
+      "md5": "7512a59e4cc202d0da6d7fd380a0a2f4",
       "summation": "md5"
     },
     {
       "name": "sltimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760895",
-      "size": "49152",
-      "md5": "7e0a2e3bb83c55b8363f8324aa529e24",
-      "crc32": "df015110",
-      "sha1": "3c2be385980675effe7f580c8f75ca7b38c39327",
+      "mtime": "1656004818",
+      "size": "94208",
+      "md5": "2b43568a0541637d9b64debb9056d764",
+      "crc32": "e961bc8f",
+      "sha1": "eda27e6199d49a51ade19660fbc7c3d39afef80a",
       "format": "Metadata"
     },
     {
@@ -348,9 +810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
-  "item_last_updated": 1655760977,
-  "item_size": 3041011,
+  "files_count": 77,
+  "item_last_updated": 1656004863,
+  "item_size": 7885207,
   "metadata": {
     "identifier": "sltimes-2022",
     "collection": [
@@ -367,7 +829,7 @@
     "publicdate": "2022-06-19 23:28:16",
     "addeddate": "2022-06-19 23:28:16"
   },
-  "server": "ia802501.us.archive.org",
+  "server": "ia902501.us.archive.org",
   "sltimes-2022": [
     {
       "text": "Subscribe",
@@ -502,20 +964,20 @@
       "url": "https://www.stormlake.com/category/featured-stories/"
     },
     {
-      "text": "BV supervisor nomination set for GOP special convention",
-      "url": "https://www.stormlake.com/articles/bv-supervisor-nomination-set-for-gop-special-convention/"
+      "text": "Storm Lake school bond vote Sept. 13",
+      "url": "https://www.stormlake.com/articles/storm-lake-school-bond-vote-sept-13/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/bv-supervisor-nomination-set-for-gop-special-convention/"
+      "url": "https://www.stormlake.com/articles/storm-lake-school-bond-vote-sept-13/"
     },
     {
-      "text": "Lake Creek celebrates a golden anniversary",
-      "url": "https://www.stormlake.com/articles/lake-creek-celebrates-a-golden-anniversary/"
+      "text": "Lake gets weed killer treatment this week",
+      "url": "https://www.stormlake.com/articles/lake-gets-weed-killer-treatment-this-week/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/lake-creek-celebrates-a-golden-anniversary/"
+      "url": "https://www.stormlake.com/articles/lake-gets-weed-killer-treatment-this-week/"
     },
     {
       "text": "Storm Lake school bond vote Sept. 13",
@@ -526,20 +988,12 @@
       "url": "https://www.stormlake.com/articles/storm-lake-school-bond-vote-sept-13/"
     },
     {
-      "text": "BV supervisor nomination set for GOP special convention",
-      "url": "https://www.stormlake.com/articles/bv-supervisor-nomination-set-for-gop-special-convention/"
+      "text": "Lake gets weed killer treatment this week",
+      "url": "https://www.stormlake.com/articles/lake-gets-weed-killer-treatment-this-week/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/bv-supervisor-nomination-set-for-gop-special-convention/"
-    },
-    {
-      "text": "Lake Creek celebrates a golden anniversary",
-      "url": "https://www.stormlake.com/articles/lake-creek-celebrates-a-golden-anniversary/"
-    },
-    {
-      "text": "...",
-      "url": "https://www.stormlake.com/articles/lake-creek-celebrates-a-golden-anniversary/"
+      "url": "https://www.stormlake.com/articles/lake-gets-weed-killer-treatment-this-week/"
     },
     {
       "text": "1",
@@ -547,10 +1001,6 @@
     },
     {
       "text": "2",
-      "url": ""
-    },
-    {
-      "text": "3",
       "url": ""
     },
     {
@@ -571,51 +1021,51 @@
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/alta-council-utilities-board-enmeshed-in-disagreement/"
+      "url": "https://www.stormlake.com/articles/council-snubs-builder-again/"
     },
     {
-      "text": "Alta council, utilities board enmeshed in disagreement",
-      "url": "https://www.stormlake.com/articles/alta-council-utilities-board-enmeshed-in-disagreement/"
+      "text": "Storm Lake City Council snubs builder again",
+      "url": "https://www.stormlake.com/articles/council-snubs-builder-again/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/alta-council-utilities-board-enmeshed-in-disagreement/"
+      "url": "https://www.stormlake.com/articles/council-snubs-builder-again/"
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/wind-tumbles-92000-pounds-of-rolling-gravel/"
+      "url": "https://www.stormlake.com/articles/pot-charge-dropped-on-faulty-search/"
     },
     {
-      "text": "Wind tumbles 92,000 pounds of rolling gravel",
-      "url": "https://www.stormlake.com/articles/wind-tumbles-92000-pounds-of-rolling-gravel/"
+      "text": "Pot charge dropped on faulty search",
+      "url": "https://www.stormlake.com/articles/pot-charge-dropped-on-faulty-search/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/wind-tumbles-92000-pounds-of-rolling-gravel/"
+      "url": "https://www.stormlake.com/articles/pot-charge-dropped-on-faulty-search/"
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/storm-lake-school-bond-vote-sept-13/"
+      "url": "https://www.stormlake.com/articles/lake-gets-weed-killer-treatment-this-week/"
     },
     {
-      "text": "Storm Lake school bond vote Sept. 13",
-      "url": "https://www.stormlake.com/articles/storm-lake-school-bond-vote-sept-13/"
+      "text": "Lake gets weed killer treatment this week",
+      "url": "https://www.stormlake.com/articles/lake-gets-weed-killer-treatment-this-week/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/storm-lake-school-bond-vote-sept-13/"
+      "url": "https://www.stormlake.com/articles/lake-gets-weed-killer-treatment-this-week/"
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/bv-supervisor-nomination-set-for-gop-special-convention/"
+      "url": "https://www.stormlake.com/articles/city-water-main-to-get-a-reroute/"
     },
     {
-      "text": "BV supervisor nomination set for GOP special convention",
-      "url": "https://www.stormlake.com/articles/bv-supervisor-nomination-set-for-gop-special-convention/"
+      "text": "City water main to get a reroute",
+      "url": "https://www.stormlake.com/articles/city-water-main-to-get-a-reroute/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/bv-supervisor-nomination-set-for-gop-special-convention/"
+      "url": "https://www.stormlake.com/articles/city-water-main-to-get-a-reroute/"
     },
     {
       "text": "Sports",
@@ -623,55 +1073,91 @@
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/elc-takes-key-lakes-battle-to-snap-storm-lakes-13-game-winning-streak/"
+      "url": "https://www.stormlake.com/articles/sl-beats-wc-in-final-game-as-lakes-counterparts/"
     },
     {
-      "text": "ELC takes key Lakes battle to snap Storm Lake\u2019s 13-game winning streak",
-      "url": "https://www.stormlake.com/articles/elc-takes-key-lakes-battle-to-snap-storm-lakes-13-game-winning-streak/"
+      "text": "SL beats WC in final game as Lakes counterparts",
+      "url": "https://www.stormlake.com/articles/sl-beats-wc-in-final-game-as-lakes-counterparts/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/elc-takes-key-lakes-battle-to-snap-storm-lakes-13-game-winning-streak/"
+      "url": "https://www.stormlake.com/articles/sl-beats-wc-in-final-game-as-lakes-counterparts/"
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/alta-aurelia-beats-sc-to-take-over-first-in-tlc/"
+      "url": "https://www.stormlake.com/articles/st-marys-falls-short-to-sv-in-twin-lakes-conference-play/"
     },
     {
-      "text": "Alta-Aurelia beats SC to take over first in TLC",
-      "url": "https://www.stormlake.com/articles/alta-aurelia-beats-sc-to-take-over-first-in-tlc/"
+      "text": "St. Mary\u2019s falls short to SV in Twin Lakes Conference play",
+      "url": "https://www.stormlake.com/articles/st-marys-falls-short-to-sv-in-twin-lakes-conference-play/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/alta-aurelia-beats-sc-to-take-over-first-in-tlc/"
+      "url": "https://www.stormlake.com/articles/st-marys-falls-short-to-sv-in-twin-lakes-conference-play/"
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/sioux-central-scores-early-often-to-beat-alta-aurelia/"
+      "url": "https://www.stormlake.com/articles/rv-too-much-for-alta-aurelia-n-f-takes-unbeaten-tlc-battle/"
     },
     {
-      "text": "Sioux Central scores early, often to beat Alta-Aurelia",
-      "url": "https://www.stormlake.com/articles/sioux-central-scores-early-often-to-beat-alta-aurelia/"
+      "text": "RV too much for Alta-Aurelia; N-F takes unbeaten TLC battle",
+      "url": "https://www.stormlake.com/articles/rv-too-much-for-alta-aurelia-n-f-takes-unbeaten-tlc-battle/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/sioux-central-scores-early-often-to-beat-alta-aurelia/"
+      "url": "https://www.stormlake.com/articles/rv-too-much-for-alta-aurelia-n-f-takes-unbeaten-tlc-battle/"
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/newell-fonda-uses-nine-run-first-inning-to-beat-ridge-view/"
+      "url": "https://www.stormlake.com/articles/storm-lake-drops-games-to-gehlen-sioux-center/"
     },
     {
-      "text": "Newell-Fonda uses nine-run first inning to beat Ridge View",
-      "url": "https://www.stormlake.com/articles/newell-fonda-uses-nine-run-first-inning-to-beat-ridge-view/"
+      "text": "Storm Lake drops games to Gehlen, Sioux Center",
+      "url": "https://www.stormlake.com/articles/storm-lake-drops-games-to-gehlen-sioux-center/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/newell-fonda-uses-nine-run-first-inning-to-beat-ridge-view/"
+      "url": "https://www.stormlake.com/articles/storm-lake-drops-games-to-gehlen-sioux-center/"
     },
     {
       "text": "Opinion",
       "url": "https://www.stormlake.com/category/opinion/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/local-news-is-in-a-stronger-position-now-than-a-few-months-ago/"
+    },
+    {
+      "text": "Local news is in a stronger position now than a few months ago",
+      "url": "https://www.stormlake.com/articles/local-news-is-in-a-stronger-position-now-than-a-few-months-ago/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/local-news-is-in-a-stronger-position-now-than-a-few-months-ago/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/editorial-politics-of-justice/"
+    },
+    {
+      "text": "Editorial: Politics of justice",
+      "url": "https://www.stormlake.com/articles/editorial-politics-of-justice/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/editorial-politics-of-justice/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/editorial-what-did-grassley-mean/"
+    },
+    {
+      "text": "Editorial: What did Grassley mean?",
+      "url": "https://www.stormlake.com/articles/editorial-what-did-grassley-mean/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/editorial-what-did-grassley-mean/"
     },
     {
       "text": "",
@@ -698,44 +1184,44 @@
       "url": "https://www.stormlake.com/articles/editorial-already-over-the-top/"
     },
     {
-      "text": "",
-      "url": "https://www.stormlake.com/articles/editorial-subsidizing-agribusiness/"
-    },
-    {
-      "text": "Editorial: Subsidizing agribusiness",
-      "url": "https://www.stormlake.com/articles/editorial-subsidizing-agribusiness/"
-    },
-    {
-      "text": "...",
-      "url": "https://www.stormlake.com/articles/editorial-subsidizing-agribusiness/"
-    },
-    {
-      "text": "",
-      "url": "https://www.stormlake.com/articles/letters-to-the-editor-68/"
-    },
-    {
-      "text": "Letters to the Editor",
-      "url": "https://www.stormlake.com/articles/letters-to-the-editor-68/"
-    },
-    {
-      "text": "...",
-      "url": "https://www.stormlake.com/articles/letters-to-the-editor-68/"
-    },
-    {
-      "text": "",
-      "url": "https://www.stormlake.com/articles/like-it-or-not-we-are-all-in-this-together/"
-    },
-    {
-      "text": "Like it or not, we are all in this together",
-      "url": "https://www.stormlake.com/articles/like-it-or-not-we-are-all-in-this-together/"
-    },
-    {
-      "text": "...",
-      "url": "https://www.stormlake.com/articles/like-it-or-not-we-are-all-in-this-together/"
-    },
-    {
       "text": "Obituaries",
       "url": "https://www.stormlake.com/category/obituaries/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/donna-jean-truelsen-obituary/"
+    },
+    {
+      "text": "Donna Jean Truelsen",
+      "url": "https://www.stormlake.com/articles/donna-jean-truelsen-obituary/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/donna-jean-truelsen-obituary/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/benjamin-kremenak-obituary/"
+    },
+    {
+      "text": "Benjamin Kremenak",
+      "url": "https://www.stormlake.com/articles/benjamin-kremenak-obituary/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/benjamin-kremenak-obituary/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/stanley-erickson-obituary/"
+    },
+    {
+      "text": "Stanley Erickson",
+      "url": "https://www.stormlake.com/articles/stanley-erickson-obituary/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/stanley-erickson-obituary/"
     },
     {
       "text": "",
@@ -762,80 +1248,48 @@
       "url": "https://www.stormlake.com/articles/ranae-knapton-obituary/"
     },
     {
-      "text": "",
-      "url": "https://www.stormlake.com/articles/margene-ballard-obituary/"
-    },
-    {
-      "text": "Margene Ballard",
-      "url": "https://www.stormlake.com/articles/margene-ballard-obituary/"
-    },
-    {
-      "text": "...",
-      "url": "https://www.stormlake.com/articles/margene-ballard-obituary/"
-    },
-    {
-      "text": "Linda White",
-      "url": "https://www.stormlake.com/articles/linda-white-obituary-2/"
-    },
-    {
-      "text": "...",
-      "url": "https://www.stormlake.com/articles/linda-white-obituary-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.stormlake.com/articles/eugene-geerdes-obituary/"
-    },
-    {
-      "text": "Eugene Geerdes",
-      "url": "https://www.stormlake.com/articles/eugene-geerdes-obituary/"
-    },
-    {
-      "text": "...",
-      "url": "https://www.stormlake.com/articles/eugene-geerdes-obituary/"
-    },
-    {
       "text": "Family & Friends",
       "url": "https://www.stormlake.com/category/family-friends/"
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/reflections-for-fathers-day-from-marjorie-holmes/"
+      "url": "https://www.stormlake.com/articles/summerfest/"
     },
     {
-      "text": "Reflections for Father\u2019s Day from Marjorie Holmes",
-      "url": "https://www.stormlake.com/articles/reflections-for-fathers-day-from-marjorie-holmes/"
-    },
-    {
-      "text": "...",
-      "url": "https://www.stormlake.com/articles/reflections-for-fathers-day-from-marjorie-holmes/"
+      "text": "Summerfest",
+      "url": "https://www.stormlake.com/articles/summerfest/"
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/lake-creek-celebrates-a-golden-anniversary/"
+      "url": "https://www.stormlake.com/articles/tulia-brings-puff-puff-stew-to-sl%e2%80%88melting-pot/"
     },
     {
-      "text": "Lake Creek celebrates a golden anniversary",
-      "url": "https://www.stormlake.com/articles/lake-creek-celebrates-a-golden-anniversary/"
+      "text": "Tulia brings Puff Puff, Stew to SL\u2008melting pot",
+      "url": "https://www.stormlake.com/articles/tulia-brings-puff-puff-stew-to-sl%e2%80%88melting-pot/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/lake-creek-celebrates-a-golden-anniversary/"
+      "url": "https://www.stormlake.com/articles/tulia-brings-puff-puff-stew-to-sl%e2%80%88melting-pot/"
     },
     {
       "text": "",
-      "url": "https://www.stormlake.com/articles/on-the-honor-flight-2/"
+      "url": "https://www.stormlake.com/articles/whatchamacallit-27/"
     },
     {
-      "text": "On the Honor Flight",
-      "url": "https://www.stormlake.com/articles/on-the-honor-flight-2/"
+      "text": "Whatchamacallit",
+      "url": "https://www.stormlake.com/articles/whatchamacallit-27/"
     },
     {
       "text": "...",
-      "url": "https://www.stormlake.com/articles/on-the-honor-flight-2/"
+      "url": "https://www.stormlake.com/articles/whatchamacallit-27/"
     },
     {
-      "text": "Storm Lake Times Pilot 6-1-2022",
-      "url": "https://www.stormlake.com/pageview/viewer/2022-06-01"
+      "text": "Storm Lake Times Pilot 6-3-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-06-03"
+    },
+    {
+      "text": "Storm Lake Times Pilot 6-22-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-06-22"
     },
     {
       "text": "Storm Lake Times Pilot 6-17-2022",
@@ -858,12 +1312,8 @@
       "url": "https://www.stormlake.com/pageview/viewer/2022-06-03"
     },
     {
-      "text": "Storm Lake Times Pilot 6-1-2022",
-      "url": "https://www.stormlake.com/pageview/viewer/2022-06-01"
-    },
-    {
-      "text": "Storm Lake Times Pilot 6-17-2022",
-      "url": "https://www.stormlake.com/pageview/viewer/2022-06-17"
+      "text": "Storm Lake Times Pilot 6-22-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-06-22"
     },
     {
       "text": "1",
@@ -899,19 +1349,27 @@
     },
     {
       "text": "",
-      "url": "https://www.weaverrealtors.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.hy-vee.com/stores/detail.aspx?s=163"
-    },
-    {
-      "text": "",
       "url": "https://citizensfnb.com/personal/mobile-banking"
     },
     {
       "text": "",
+      "url": "https://www.rightsize-storage.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.weaverrealtors.com/"
+    },
+    {
+      "text": "",
+      "url": "https://stormlake.us20.list-manage.com/subscribe?u=1e6c5ac8fb97154a9000d622b&id=d2ab728750"
+    },
+    {
+      "text": "",
       "url": "https://citizensfnb.com"
+    },
+    {
+      "text": "",
+      "url": "https://www.hy-vee.com/stores/detail.aspx?s=163"
     },
     {
       "text": "",
@@ -923,10 +1381,6 @@
     },
     {
       "text": "",
-      "url": "https://www.rightsize-storage.com/"
-    },
-    {
-      "text": "",
       "url": "https://www.securitybanksl.com/"
     },
     {
@@ -934,32 +1388,28 @@
       "url": "https://www.fratzkejensen.com/"
     },
     {
-      "text": "",
-      "url": "https://stormlake.us20.list-manage.com/subscribe?u=1e6c5ac8fb97154a9000d622b&id=d2ab728750"
-    },
-    {
       "text": "weather forecast",
       "url": "https://www.willyweather.com/ia/buena-vista-county/storm-lake.html"
     },
     {
-      "text": "1Editorial: Subsidizing agribusiness",
-      "url": "https://www.stormlake.com/articles/editorial-subsidizing-agribusiness/"
+      "text": "1City finds fiber optics buried at 18 inches",
+      "url": "https://www.stormlake.com/articles/city-finds-fiber-optics-buried-at-18-inches/"
     },
     {
-      "text": "2On the Honor Flight",
-      "url": "https://www.stormlake.com/articles/on-the-honor-flight-2/"
+      "text": "2Local news is in a stronger position now than a few months ago",
+      "url": "https://www.stormlake.com/articles/local-news-is-in-a-stronger-position-now-than-a-few-months-ago/"
     },
     {
-      "text": "3A burg is unmoved on a Thursday by a congressional hearing",
-      "url": "https://www.stormlake.com/articles/a-burg-is-unmoved-on-a-thursday-by-a-congressional-hearing/"
+      "text": "3Prominent marina excavated Okoboji lake without permit",
+      "url": "https://www.stormlake.com/articles/prominent-marina-excavated-okoboji-lake-without-permit/"
     },
     {
-      "text": "4Lake Creek Country Club turns 50",
-      "url": "https://www.stormlake.com/articles/lake-creek-country-club-turns-50/"
+      "text": "4Pot charge dropped on faulty search",
+      "url": "https://www.stormlake.com/articles/pot-charge-dropped-on-faulty-search/"
     },
     {
-      "text": "5Calming the inflation scare",
-      "url": "https://www.stormlake.com/articles/calming-the-inflation-scare/"
+      "text": "5Storm Lake City Council snubs builder again",
+      "url": "https://www.stormlake.com/articles/council-snubs-builder-again/"
     },
     {
       "text": "Tweets by SLTimes",
@@ -967,7 +1417,31 @@
     },
     {
       "text": "",
-      "url": "https://www.rightsize-storage.com/"
+      "url": "https://www.fratzkejensen.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.weaverrealtors.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.centralbankonline.com/"
+    },
+    {
+      "text": "",
+      "url": "https://stormlake.us20.list-manage.com/subscribe?u=1e6c5ac8fb97154a9000d622b&id=d2ab728750"
+    },
+    {
+      "text": "",
+      "url": "https://www.hy-vee.com/stores/detail.aspx?s=163"
+    },
+    {
+      "text": "",
+      "url": "https://www.securitybanksl.com/"
+    },
+    {
+      "text": "",
+      "url": "https://citizensfnb.com"
     },
     {
       "text": "",
@@ -979,31 +1453,7 @@
     },
     {
       "text": "",
-      "url": "https://www.weaverrealtors.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.fratzkejensen.com/"
-    },
-    {
-      "text": "",
-      "url": "https://citizensfnb.com"
-    },
-    {
-      "text": "",
-      "url": "https://www.securitybanksl.com/"
-    },
-    {
-      "text": "",
-      "url": "https://stormlake.us20.list-manage.com/subscribe?u=1e6c5ac8fb97154a9000d622b&id=d2ab728750"
-    },
-    {
-      "text": "",
-      "url": "https://www.centralbankonline.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.hy-vee.com/stores/detail.aspx?s=163"
+      "url": "https://www.rightsize-storage.com/"
     },
     {
       "text": "Classifieds",
@@ -1031,6 +1481,10 @@
     },
     {
       "text": "",
+      "url": "https://www.stormlakehomessite.com/"
+    },
+    {
+      "text": "",
       "url": "https://citizensfnb.com/personal/mobile-banking"
     },
     {
@@ -1039,15 +1493,23 @@
     },
     {
       "text": "",
-      "url": "https://stormlake.us20.list-manage.com/subscribe?u=1e6c5ac8fb97154a9000d622b&id=d2ab728750"
-    },
-    {
-      "text": "",
       "url": "https://www.securitybanksl.com/"
     },
     {
       "text": "",
+      "url": "https://www.hy-vee.com/stores/detail.aspx?s=163"
+    },
+    {
+      "text": "",
       "url": "https://www.centralbankonline.com/"
+    },
+    {
+      "text": "",
+      "url": "https://citizensfnb.com"
+    },
+    {
+      "text": "",
+      "url": "https://stormlake.us20.list-manage.com/subscribe?u=1e6c5ac8fb97154a9000d622b&id=d2ab728750"
     },
     {
       "text": "",
@@ -1056,18 +1518,6 @@
     {
       "text": "",
       "url": "https://www.fratzkejensen.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.stormlakehomessite.com/"
-    },
-    {
-      "text": "",
-      "url": "https://citizensfnb.com"
-    },
-    {
-      "text": "",
-      "url": "https://www.hy-vee.com/stores/detail.aspx?s=163"
     },
     {
       "text": "\n\t\t\t\n\t",
@@ -1150,9 +1600,9 @@
       "url": "/privacy-policy"
     }
   ],
-  "uniq": 638509719,
+  "uniq": 897030056,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

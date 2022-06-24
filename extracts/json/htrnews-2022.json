@@ -1,5 +1,5 @@
 {
-  "created": 1655760644,
+  "created": 1656029992,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/24/items/htrnews-2022",
@@ -3976,31 +3976,493 @@
       "sha1": "ff4ab4d7a4e602ec8262d69508a79e5d350b08d3"
     },
     {
+      "name": "htrnews-2022-06-20T20:32:31.136582-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775159",
+      "size": "22236",
+      "md5": "0501d5887edd96a1d05a8a2f13031743",
+      "crc32": "b513c05b",
+      "sha1": "1cb3f5a90e0cec585f3fd8542218b29087440ddc",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-20T20:32:31.136582-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775161",
+      "size": "33190",
+      "md5": "14c05089007ed62c86c3f3e3f96ac0b8",
+      "crc32": "f9c88014",
+      "sha1": "e0910647e1433604db690891a9a60f7ede98ed79",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-20T20:32:31.136582-05:00.jpg",
+      "source": "original",
+      "mtime": "1655775157",
+      "size": "286209",
+      "md5": "e8f1af61423640e17bfebfe813abb0d9",
+      "crc32": "c8884767",
+      "sha1": "fda11cb0a927ff56b34c41bd58d6f9329f60d908",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-20T20:32:31.136582-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-20T20:32:31.136582-05:00.jpg",
+      "mtime": "1655775217",
+      "size": "9386",
+      "md5": "c310e6000cde206ee8ed75e22b9fc955",
+      "crc32": "bc611528",
+      "sha1": "74be976a8a4fc634065c6fd66b18daebd09cbe00"
+    },
+    {
+      "name": "htrnews-2022-06-21T00:26:11.183710-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789176",
+      "size": "21956",
+      "md5": "ff65084f803602c2a481fcb8063e12f7",
+      "crc32": "2a0b164f",
+      "sha1": "2868d25914110d7a4bb7e710b14476c18799641b",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T00:26:11.183710-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789177",
+      "size": "33205",
+      "md5": "f37bafaf334693883f17aecd63042a22",
+      "crc32": "7225b3f6",
+      "sha1": "8c78e9ea8c79f7adae289d5744512ef956b01ae8",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T00:26:11.183710-05:00.jpg",
+      "source": "original",
+      "mtime": "1655789174",
+      "size": "282546",
+      "md5": "081423a26dcc5e0df093571515efc3be",
+      "crc32": "23effd75",
+      "sha1": "aee0bf405f53f93ab083edd368fb8f248492d4bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-21T00:26:11.183710-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-21T00:26:11.183710-05:00.jpg",
+      "mtime": "1655789251",
+      "size": "9345",
+      "md5": "975b6f42b0f8934992a36465508ac3f0",
+      "crc32": "8a636609",
+      "sha1": "183571e3c6d0cc2be79a5e1777965c6e5d32dcf4"
+    },
+    {
+      "name": "htrnews-2022-06-21T07:27:05.139843-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814431",
+      "size": "22294",
+      "md5": "2da617561b943883484ae479b0573eda",
+      "crc32": "529e5a24",
+      "sha1": "58515cad2b309c3cc53c178e0098d320363d5c74",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T07:27:05.139843-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814434",
+      "size": "33842",
+      "md5": "25d17e676154ca9caf9eae8bc1140302",
+      "crc32": "5f6aaf9f",
+      "sha1": "d6f87304d7d79c082269bd2e973cd0090492aa3a",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T07:27:05.139843-05:00.jpg",
+      "source": "original",
+      "mtime": "1655814429",
+      "size": "284009",
+      "md5": "4dc46419acb20ece4d98e95ddbc15a10",
+      "crc32": "b16cd9b4",
+      "sha1": "f76094e02a1d560b28290d6a529a874b47fa6c35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-21T07:27:05.139843-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-21T07:27:05.139843-05:00.jpg",
+      "mtime": "1655814492",
+      "size": "9343",
+      "md5": "828185b1384cacac5e7df226db516a87",
+      "crc32": "cfff1143",
+      "sha1": "19a335c1006e385eaab056176c0b57aa7667d705"
+    },
+    {
+      "name": "htrnews-2022-06-21T08:50:50.124790-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655819453",
+      "size": "22300",
+      "md5": "636adc3af94e83f610785f60b3caa4e0",
+      "crc32": "397d8c20",
+      "sha1": "8c698fbe9b64eefc3d54e8e84d91a46adfe8db09",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T08:50:50.124790-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655819454",
+      "size": "31625",
+      "md5": "d972725e0eed5c7c3d7b4b6786cdd8ce",
+      "crc32": "0d5ade44",
+      "sha1": "5c33acb33e8981e24edac5a077d2a054c78394a4",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T08:50:50.124790-05:00.jpg",
+      "source": "original",
+      "mtime": "1655819451",
+      "size": "277819",
+      "md5": "27847c7e4096438567cb0e4828485a7c",
+      "crc32": "a562158a",
+      "sha1": "866be6ce00d85325b438676a52ebe67da2e48b60",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-21T08:50:50.124790-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-21T08:50:50.124790-05:00.jpg",
+      "mtime": "1655819521",
+      "size": "9488",
+      "md5": "ad1a39c092e901fb47d3e40a852bc467",
+      "crc32": "816eb9ed",
+      "sha1": "47477fea8f8981696dd1c0fa06a5aa96e1db1d0c"
+    },
+    {
+      "name": "htrnews-2022-06-21T12:14:39.032428-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831683",
+      "size": "22002",
+      "md5": "5f77b4e6240dc36ba830b0712166197e",
+      "crc32": "6cf1ce29",
+      "sha1": "f684fc64963bb26308b8158ca812f60b220af8b8",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T12:14:39.032428-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831685",
+      "size": "32788",
+      "md5": "ac61e187f1fe8db3da92024a6a700d0c",
+      "crc32": "bee318d1",
+      "sha1": "e3194334a2ac8f4dae3524581e277e915d8a8782",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T12:14:39.032428-05:00.jpg",
+      "source": "original",
+      "mtime": "1655831680",
+      "size": "278042",
+      "md5": "27b4c24918598833202c1b127ea4b60f",
+      "crc32": "e1ee4da0",
+      "sha1": "85a570ea737ca4c1fe3558321242f814493c61b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-21T12:14:39.032428-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-21T12:14:39.032428-05:00.jpg",
+      "mtime": "1655831762",
+      "size": "9481",
+      "md5": "705cb786276adfc9e2f4de3fabbba5ab",
+      "crc32": "34b9029a",
+      "sha1": "91e9421953e5d5674e5fb8d4bdec2b6be5241c73"
+    },
+    {
+      "name": "htrnews-2022-06-21T20:22:43.818902-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655860969",
+      "size": "22494",
+      "md5": "540ed4ba2ee02a26bf341ae1598f6247",
+      "crc32": "f6f03eb2",
+      "sha1": "2ce2b23e298f7c4cd7350786aaa87e992a7bd947",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T20:22:43.818902-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655860971",
+      "size": "33900",
+      "md5": "f3b98b705d86f63112cd7fc6a70a360d",
+      "crc32": "25ef0b9a",
+      "sha1": "cb84872bb44bce9e6d6d6428e242ed3dfb30be5a",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-21T20:22:43.818902-05:00.jpg",
+      "source": "original",
+      "mtime": "1655860966",
+      "size": "261366",
+      "md5": "89630ce78523c1b6260f66738de51784",
+      "crc32": "bc020b7b",
+      "sha1": "93552f446c22bc9e853ea54f9d7954468237d3a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-21T20:22:43.818902-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-21T20:22:43.818902-05:00.jpg",
+      "mtime": "1655861339",
+      "size": "9056",
+      "md5": "fbbd4b5105357a46d54cc8cec28ccdd0",
+      "crc32": "a3c10875",
+      "sha1": "139c4f26210faa8b1f0925523ef601ce1a7e6678"
+    },
+    {
+      "name": "htrnews-2022-06-22T04:15:28.440113-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889334",
+      "size": "23218",
+      "md5": "87ce7ba3671c1a7c962c8b94e6b7ba24",
+      "crc32": "b8bea0d9",
+      "sha1": "7d0056edb02ca24f0be3ea6517214756ede558a8",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-22T04:15:28.440113-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889336",
+      "size": "38788",
+      "md5": "26bcbe29a5e9fca6ffc741bb914944e3",
+      "crc32": "a8a062d4",
+      "sha1": "da22938e5311ad10edc0996d60e711969c71d205",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-22T04:15:28.440113-05:00.jpg",
+      "source": "original",
+      "mtime": "1655889332",
+      "size": "259999",
+      "md5": "67a9a34317b7e641d1f548b27623b0aa",
+      "crc32": "5844749a",
+      "sha1": "41b43896dd70c7d72730adf465a8677b42c4f3a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-22T04:15:28.440113-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-22T04:15:28.440113-05:00.jpg",
+      "mtime": "1655889387",
+      "size": "9196",
+      "md5": "2db4328e84068c4dea0ac85322f5f203",
+      "crc32": "2b31c27e",
+      "sha1": "135130ee4b0030e8e7e9144fa0fca20d17e45cee"
+    },
+    {
+      "name": "htrnews-2022-06-22T12:29:09.394485-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655918954",
+      "size": "23993",
+      "md5": "cac7c10cbab67aaa0d290a9ac794ba7b",
+      "crc32": "be278d0c",
+      "sha1": "96c1606fb68fd682f236e4b4ef3dca30a79c45c9",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-22T12:29:09.394485-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655918956",
+      "size": "38507",
+      "md5": "c10eaffd24a2a8999872d631df141ea1",
+      "crc32": "badf229d",
+      "sha1": "82432a797a8a96e52f681f149472fb38d8a1384f",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-22T12:29:09.394485-05:00.jpg",
+      "source": "original",
+      "mtime": "1655918951",
+      "size": "271480",
+      "md5": "bef5d61e3e28aead0e16dab57f146723",
+      "crc32": "24ce95fe",
+      "sha1": "36c5cc3c22ed400b1166bd67cd74f5b19834b574",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-22T12:29:09.394485-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-22T12:29:09.394485-05:00.jpg",
+      "mtime": "1655919011",
+      "size": "9266",
+      "md5": "6053b0f1bf792215900a499faf3178d5",
+      "crc32": "f6adf5f1",
+      "sha1": "93883920e7a7f102d9c440721474da533fd6f41a"
+    },
+    {
+      "name": "htrnews-2022-06-22T20:25:25.949252-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947531",
+      "size": "22826",
+      "md5": "6f5b66129479912a49c30e1f7e95012b",
+      "crc32": "25b09410",
+      "sha1": "47988f7b302aaa1e8a4c9a4cb3124905a3898b4d",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-22T20:25:25.949252-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947532",
+      "size": "46956",
+      "md5": "c8b3fe59fda4a88ac406cb0c2c0537b6",
+      "crc32": "7bea84af",
+      "sha1": "056137009b9355222932655372c1ba7a6fb5e8ad",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-22T20:25:25.949252-05:00.jpg",
+      "source": "original",
+      "mtime": "1655947529",
+      "size": "282305",
+      "md5": "f0995a6efc8009d30e722a3df26d3dd0",
+      "crc32": "9691229d",
+      "sha1": "68c6d4805292ae65aae271998b9883906aa7dfe8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-22T20:25:25.949252-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-22T20:25:25.949252-05:00.jpg",
+      "mtime": "1655947590",
+      "size": "9465",
+      "md5": "606d0cea0ddd681328b077ff961c8134",
+      "crc32": "4c017477",
+      "sha1": "7e6b3b9430c1f843926038f02de1528dabb1f9ef"
+    },
+    {
+      "name": "htrnews-2022-06-23T04:17:35.688314-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655975858",
+      "size": "23532",
+      "md5": "037ab2dda01a47051ce7c1a0096e5f00",
+      "crc32": "90f92ef9",
+      "sha1": "cd8983b4e022885697556e6fc583f47ee36c5553",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-23T04:17:35.688314-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655975860",
+      "size": "43140",
+      "md5": "1410554abb6f1085b5cd4ee14c3a80ad",
+      "crc32": "6aca660e",
+      "sha1": "fbdce8eb10253d8c146679bfe34d33f8dc4bc83b",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-23T04:17:35.688314-05:00.jpg",
+      "source": "original",
+      "mtime": "1655975857",
+      "size": "295877",
+      "md5": "f17c64773f26910f2d713f68abbd4358",
+      "crc32": "36d51d00",
+      "sha1": "90aacc4aeea3106d0994d22a911470b5fa2f3588",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-23T04:17:35.688314-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-23T04:17:35.688314-05:00.jpg",
+      "mtime": "1655975912",
+      "size": "9576",
+      "md5": "fd58773310168aa191e6187c3ea24dfe",
+      "crc32": "b77dabd5",
+      "sha1": "6f02c378e7bd36bd6bc22c03ccb7e58966992856"
+    },
+    {
+      "name": "htrnews-2022-06-23T12:16:22.227005-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004587",
+      "size": "24161",
+      "md5": "69751a18395a3f859ecf20efac32fff7",
+      "crc32": "64247237",
+      "sha1": "5137037da93da02a3943368160968cf41c51f52d",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-23T12:16:22.227005-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004590",
+      "size": "47461",
+      "md5": "1b99ef7bcba8dc3bf97ce19393c305a9",
+      "crc32": "1a098fb4",
+      "sha1": "a572d86e8e72d8e01d4f7dbaf17d70274c377883",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-23T12:16:22.227005-05:00.jpg",
+      "source": "original",
+      "mtime": "1656004585",
+      "size": "300816",
+      "md5": "5b51776845e77fddca0e4c3fbd6a1ff9",
+      "crc32": "2de3bddc",
+      "sha1": "15843f330caa80439bf643c1bc987b8dbbc52513",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-23T12:16:22.227005-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-23T12:16:22.227005-05:00.jpg",
+      "mtime": "1656004644",
+      "size": "9657",
+      "md5": "7f7881938e8733b9ad6239afcc71feb7",
+      "crc32": "13b94830",
+      "sha1": "8dcf6554ada206b4a9186f70239b9cbd058cb13d"
+    },
+    {
       "name": "htrnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ddcb35d4f04c5af98fb8d3598dfc656843e8698",
-      "mtime": "1655760606",
-      "size": "80559",
-      "md5": "005bfdd5c9a70b225f5cce2c8ba489e1",
-      "crc32": "5475fe03",
-      "sha1": "7155ccb99e8e3b0ff0759e33764ad00317c8881f",
+      "btih": "23fc39029b42255a072aca3f855dc4321943524d",
+      "mtime": "1656004650",
+      "size": "89774",
+      "md5": "d3f15863309bbed0093968ca3c296750",
+      "crc32": "2712adde",
+      "sha1": "f28363473378d763d4de2c842d730ffd73b6043c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "htrnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "871ae9d019604b5bb238ca4b940894f1",
+      "md5": "ecaa46ac90904262f357fd283a557dec",
       "summation": "md5"
     },
     {
       "name": "htrnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760528",
-      "size": "450560",
-      "md5": "a6f0b9d44e93eb99feec282d26f64878",
-      "crc32": "cc98f172",
-      "sha1": "d73d0e95ebbb196e38d0656c9871f6ec73f3693b",
+      "mtime": "1656004594",
+      "size": "495616",
+      "md5": "ce3501c4137e86df56603bea639aea28",
+      "crc32": "2cd2d090",
+      "sha1": "139cd3d001d1a00ad46aa8da5d9cd02cfa785707",
       "format": "Metadata"
     },
     {
@@ -4014,9 +4476,655 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 382,
-  "item_last_updated": 1655760606,
-  "item_size": 31617095,
+  "files_count": 426,
+  "htrnews-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Packers",
+      "url": "/packers/"
+    },
+    {
+      "text": "Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.htrnews.com/obituaries/"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022JUNEBAU&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://login.htrnews.com/PMAC-GUP/authenticate?success-url=https%3A%2F%2Fwww.htrnews.com%2F&cancel-url=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": " Manitowoc County Jail stun gun incident: Officer, inmate disagree on how it started, records show",
+      "url": "/story/news/crime/2022/06/23/manitowoc-county-jail-inmate-shot-face-taser-sheriff-records-request/7476047001/"
+    },
+    {
+      "text": "This Manitowoc Lincoln sophomore throws 90 mph and is garnering interest from Power 5 schools",
+      "url": "/story/sports/high-school/baseball/2022/06/23/manitowoc-lincolns-noah-wech-has-interest-sec-acc-programs/7686274001/"
+    },
+    {
+      "text": "Summer of revenge travel continues as crowds pack popular Wisconsin spots",
+      "url": "/story/travel/wisconsin/2022/06/23/summer-revenge-travel-continues-visitors-pack-wisconsin-tourism-destinations/9948385002/"
+    },
+    {
+      "text": "Don't let foodborne illnesses wreck your barbecue or picnic. Food safety expert shares safety tips.",
+      "url": "/story/life/food/2022/06/23/summer-food-safety-avoid-foodborne-illness-barbecue-picnic-tips/7698180001/"
+    },
+    {
+      "text": " Cool City Classic Car Show & Cruise is this weekend\u2026",
+      "url": "/story/entertainment/2022/06/22/cool-city-classic-manitowoc-and-two-rivers-week-what-do/7687833001/"
+    },
+    {
+      "text": " West Bend man dies in fatal motorcycle crash on\u2026",
+      "url": "/story/news/2022/06/22/west-bend-man-dies-motorcycle-crash-interstate-43-sheboygan-county/7701345001/"
+    },
+    {
+      "text": " Opinion: Biden carried Cedarburg in 2020, unless your\u2026",
+      "url": "/story/opinion/2022/06/23/cedarburg-voted-biden-unless-your-own-friends-rigged-election/7682792001/"
+    },
+    {
+      "text": " Ariens built a center in Brillion to provide subsidized\u2026",
+      "url": "/story/news/education/2022/06/23/heres-how-ariens-brillion-helps-employees-daycare-costs/7501784001/"
+    },
+    {
+      "text": " School's gun T-shirt court case is back in play",
+      "url": "/story/news/2022/06/22/kettle-moraine-high-schools-gun-t-shirts-court-case-back-play-waukesha-county-neenah/7687738001/"
+    },
+    {
+      "text": " Fact check: Kleefisch campaign says Wisconsin had smallest margin in 2020 presidential election\u00a0",
+      "url": "https://www.politifact.com/factchecks/2022/jun/23/rebecca-kleefisch/kleefisch-campaign-wrong-wisconsin-had-smallest-ma/"
+    },
+    {
+      "text": " Manitowoc County Jail stun gun incident: Officer, inmate disagree on how it started, records show\u00a0",
+      "url": "/story/news/crime/2022/06/23/manitowoc-county-jail-inmate-shot-face-taser-sheriff-records-request/7476047001/"
+    },
+    {
+      "text": " Summer of revenge travel continues as crowds pack popular Wisconsin spots\u00a0",
+      "url": "/story/travel/wisconsin/2022/06/23/summer-revenge-travel-continues-visitors-pack-wisconsin-tourism-destinations/9948385002/"
+    },
+    {
+      "text": "More in News",
+      "url": "/news/"
+    },
+    {
+      "text": " This Manitowoc Lincoln sophomore throws 90 mph and is garnering interest from Power 5 schools\u00a0",
+      "url": "/story/sports/high-school/baseball/2022/06/23/manitowoc-lincolns-noah-wech-has-interest-sec-acc-programs/7686274001/"
+    },
+    {
+      "text": " Live this afternoon: Brewers vs. Cardinals at American Family Field\u00a0",
+      "url": "/story/sports/mlb/brewers/2022/06/23/milwaukee-brewers-vs-st-louis-cardinals-american-family-field-lineup-game-score-updates/7707938001/"
+    },
+    {
+      "text": " Why a plan to increase the size of the state basketball tournament failed\u00a0",
+      "url": "/story/sports/high-schools/2022/06/22/wiaa-high-school-boys-girls-state-basketball-tournament-expansion-proposal-failed/7696871001/"
+    },
+    {
+      "text": "More in Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": " Ariens built a center in Brillion to provide subsidized daycare to employees. It's working.\u00a0",
+      "url": "/story/news/education/2022/06/23/heres-how-ariens-brillion-helps-employees-daycare-costs/7501784001/"
+    },
+    {
+      "text": " Summer of revenge travel continues as crowds pack popular Wisconsin spots\u00a0",
+      "url": "/story/travel/wisconsin/2022/06/23/summer-revenge-travel-continues-visitors-pack-wisconsin-tourism-destinations/9948385002/"
+    },
+    {
+      "text": " Brillion-based Endries acquires Alabama business\u00a0",
+      "url": "/story/money/companies/2022/06/17/brillion-endries-international-acquires-store-room-fasteners/7663050001/"
+    },
+    {
+      "text": "More in Business",
+      "url": "/business/"
+    },
+    {
+      "text": " Cool City Classic Car Show & Cruise is this weekend. Here are 5 things to do in Manitowoc this week.\u00a0",
+      "url": "/story/entertainment/2022/06/22/cool-city-classic-manitowoc-and-two-rivers-week-what-do/7687833001/"
+    },
+    {
+      "text": " Fast Taco owners dream of taking their authentic Mexican restaurant chain nationwide\u00a0",
+      "url": "/story/entertainment/dining/2022/06/20/fast-taco-owners-want-their-wisconsin-restaurant-chain-go-national/9967365002/"
+    },
+    {
+      "text": " Door County theaters are back to full capacity. What other changes can you expect?\u00a0",
+      "url": "/story/news/local/door-co/2022/06/20/door-county-theaters-peninsula-players-northern-sky-door-shakespeare-full-capacity-other-changes/7652148001/"
+    },
+    {
+      "text": "More in Go 920!",
+      "url": "/go-920/"
+    },
+    {
+      "text": " Don't let foodborne illnesses wreck your barbecue or picnic. Food safety expert shares safety tips.\u00a0",
+      "url": "/story/life/food/2022/06/23/summer-food-safety-avoid-foodborne-illness-barbecue-picnic-tips/7698180001/"
+    },
+    {
+      "text": " 5 unusual things to see along the Ice Age Trail\u00a0",
+      "url": "/story/travel/wisconsin/outdoors/2022/06/23/ice-age-trail-in-wisconsin-unusual-things-from-hillbilly-hilton-to-stone-elephant-alligator-statue/7644663001/"
+    },
+    {
+      "text": " Wisconsin author Margot Peters dies at 89 as her last book goes on sale\u00a0",
+      "url": "/story/life/2022/06/20/wisconsin-author-margot-peters-enters-hospice-book-murder-among-friends-goes-sale/7581320001/"
+    },
+    {
+      "text": "More in Life",
+      "url": "/life/"
+    },
+    {
+      "text": " Opinion: Biden carried Cedarburg in 2020, unless your own friends and neighbors rigged the election\u00a0Chuck Melvin\u00a0",
+      "url": "/story/opinion/2022/06/23/cedarburg-voted-biden-unless-your-own-friends-rigged-election/7682792001/"
+    },
+    {
+      "text": " Opinion: Stuart Carlson was a master of his craft and a thorn in the side of Wisconsin politicians\u00a0Jerry Resler\u00a0",
+      "url": "/story/opinion/2022/06/22/stuart-carlson-cartoon-master-annoyance-wisconsin-politicians/7683108001/"
+    },
+    {
+      "text": " Opinion: Manitowoc's empty Visitor Center is hurting local tourism\u00a0Manitowoc Area Visitor & Convention Bureau volunteers\u00a0",
+      "url": "/story/opinion/2022/06/21/manitowoc-empty-visitor-center-hurting-local-tourism/7663720001/"
+    },
+    {
+      "text": "More in Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "",
+      "url": "/picture-gallery/sports/nfl/packers/2022/06/22/heres-how-need-grow-has-changed-look-lambeau/7694241001/"
+    },
+    {
+      "text": "Enter Every Day\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/AIA-Vanity-Glam-Mirror-Giveaway/?itm_campaign=AIA%20Glam%20Mirror%20Sweeps&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Enter Now!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/Bourbon-and-Beyond-VIP-Experience/?itm_campaign=Bourbon%20and%20Beyond%20VIP%20NON%20Louisville&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Contests\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "/contests?itm_campaign=Contests&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "CarsGenius",
+      "url": "http://carsgenius.com?view=compact&vw=body&hm=min&cond=new&bdy=pickup&hl=2&pre=1&post=5&hr=ram2&pr-mx=50000&hd-mk=1&sort=price_asc&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=17790338&s1agid=cg-q2-new-pickup-dt-kk-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMogu6I2aGRsdSvAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMogu6I2aGRsdSvAQ"
+    },
+    {
+      "text": "All-New 2022 Trucks Are Stunning And CheapMake A Selection On The Next Page To See PricesCarsGenius|",
+      "url": "http://carsgenius.com?view=compact&vw=body&hm=min&cond=new&bdy=pickup&hl=2&pre=1&post=5&hr=ram2&pr-mx=50000&hd-mk=1&sort=price_asc&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=17790338&s1agid=cg-q2-new-pickup-dt-kk-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMogu6I2aGRsdSvAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMogu6I2aGRsdSvAQ"
+    },
+    {
+      "text": "",
+      "url": "http://carsgenius.com?view=compact&vw=body&hm=min&cond=new&bdy=pickup&hl=2&pre=1&post=5&hr=ram2&pr-mx=50000&hd-mk=1&sort=price_asc&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=17790338&s1agid=cg-q2-new-pickup-dt-kk-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMogu6I2aGRsdSvAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMogu6I2aGRsdSvAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Search Now",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=5f888695e731361367c5015108abfcd3&sd=v2_3faf929c97d188e07474873385c17e3f_0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b_1656003771_1656003771_CIi3jgYQhNo9GPf4kIyZMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b&it=text&ii=~~V1~~-549588489331314016~~ohVSDxb2_x7iXNJlWTd4LzahM226CXXU7masK5cojMnTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQZ4a6mmx10IQsd2kfeJTLN3WfGxmbeJhJlm5_iMRJ6h-b3SZP-c09T28FDfYe976LkIwHXfQkM4GLNROX274eG7-gbvHxxdnVtbXqu03r4U4RdbgwlJdnqyroTPEQNNEn_5sPJs7rvVr5N2Mi5Ocirc&pt=home&li=rbox-h2v&sig=2c6fe98d5fd64a06ce9d7beae5cc9adfa7484310316b&redir=http%3A%2F%2Fcarsgenius.com%3Fview%3Dcompact%26vw%3Dbody%26hm%3Dmin%26cond%3Dnew%26bdy%3Dpickup%26hl%3D2%26pre%3D1%26post%3D5%26hr%3Dram2%26pr-mx%3D50000%26hd-mk%3D1%26sort%3Dprice_asc%26%7Blpurl%7D%26segment%3Dbuycars2%26s1aid%3D1364031%26s1cid%3D17790338%26s1agid%3Dcg-q2-new-pickup-dt-kk-RON%26s1kid%3Dgannettcompany-heraldtimesreporter%26utm_source%3Dtaboola%26tbclid%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMogu6I2aGRsdSvAQ%23tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMogu6I2aGRsdSvAQ&vi=1656003771511&p=qool-carsgenius3-sc&r=87&lti=motion_ads_timing_ctrl&ppb=CPQE&cpb=EhIyMDIyMDYyMi02LVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAyNTE4gLTwakCRpA5IsOUPUKTL2QNY_wNjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnBwYGGRjCO8DEIsHGAlkYwivLhDuPRgKZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "Wellnessfully",
+      "url": "https://wellnessfully.com/constipation/lp1/?click_id=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I&site=gannettcompany-heraldtimesreporter&site_id=1010948&title=If+Anyone+Have+Constipation+Try+This+Immediately&platform=Desktop&campaign_id=17828616&campaign_item_id=3295090776&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F388ab794b67299072b1823fd01497383.jpeg&timestamp=2022-06-23+17%3A02%3A51&domain=htrnews.com&campaign_name=digest&cpid=9055d5ee-41ae-4596-a475-fc162a1f70ac&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I"
+    },
+    {
+      "text": "If Anyone Have Constipation Try This ImmediatelyWellnessfully|",
+      "url": "https://wellnessfully.com/constipation/lp1/?click_id=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I&site=gannettcompany-heraldtimesreporter&site_id=1010948&title=If+Anyone+Have+Constipation+Try+This+Immediately&platform=Desktop&campaign_id=17828616&campaign_item_id=3295090776&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F388ab794b67299072b1823fd01497383.jpeg&timestamp=2022-06-23+17%3A02%3A51&domain=htrnews.com&campaign_name=digest&cpid=9055d5ee-41ae-4596-a475-fc162a1f70ac&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I"
+    },
+    {
+      "text": "",
+      "url": "https://wellnessfully.com/constipation/lp1/?click_id=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I&site=gannettcompany-heraldtimesreporter&site_id=1010948&title=If+Anyone+Have+Constipation+Try+This+Immediately&platform=Desktop&campaign_id=17828616&campaign_item_id=3295090776&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F388ab794b67299072b1823fd01497383.jpeg&timestamp=2022-06-23+17%3A02%3A51&domain=htrnews.com&campaign_name=digest&cpid=9055d5ee-41ae-4596-a475-fc162a1f70ac&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Try Now",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=5f888695e731361367c5015108abfcd3&sd=v2_3faf929c97d188e07474873385c17e3f_0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b_1656003771_1656003771_CIi3jgYQhNo9GPf4kIyZMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b&it=text&ii=~~V1~~-4881340870026944249~~d0uE4ocRZcqMYglJJeMMqzvixG_c-LXDKJGgH0iIBv36nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQIKiYZmEl3RMjJoyLcF9x2L7I5MK7B1QpyhF1wERuIDVo2Oq0RS2DNJwFtQu2bmIxurOygszEKnfPoVz8jrMGT1VV_zwnxrYOU3PVv6ZL2HMX5GrUlnKvxmeH5Ti1s1nUEMNNu_vz96qqspGv-oQqHt9-SclKaA0Frri4tfgzbgqQakdJbFqsQl4e3_AUNN_FLRb0_nhnYL0lEAGET9mZDg&pt=home&li=rbox-h2v&sig=a123350e36f91c3d8b1f29350349f37113ade76ad8a1&redir=https%3A%2F%2Fwellnessfully.com%2Fconstipation%2Flp1%2F%3Fclick_id%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I%26site%3Dgannettcompany-heraldtimesreporter%26site_id%3D1010948%26title%3DIf%2BAnyone%2BHave%2BConstipation%2BTry%2BThis%2BImmediately%26platform%3DDesktop%26campaign_id%3D17828616%26campaign_item_id%3D3295090776%26thumbnail%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252F388ab794b67299072b1823fd01497383.jpeg%26timestamp%3D2022-06-23%2B17%253A02%253A51%26domain%3Dhtrnews.com%26campaign_name%3Ddigest%26cpid%3D9055d5ee-41ae-4596-a475-fc162a1f70ac%26tblci%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I%23tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDj7U8osIKYruXZrr0I&vi=1656003771511&p=kenways-sc&r=37&lti=motion_ads_timing_ctrl&ppb=CPQE&cpb=EhIyMDIyMDYyMi02LVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAyNTE4gLTwakCRpA5IsOUPUKTL2QNY_wNjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnBwYGGRjCO8DEIsHGAlkYwivLhDuPRgKZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "Medical Sauna",
+      "url": "https://www.medicalsaunas.com/medicalsaunas.php?affid=UX8dj64sLc09efPSqMzKzHDnhR3I5pwu&utm_source=taboola&utm_campaign=Sauna_Test1Taboola&utm_medium=cpc%09&utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDmr1Eo0amqnejU3LPeAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDmr1Eo0amqnejU3LPeAQ"
+    },
+    {
+      "text": "Flash Sale: Over 50% Off Saunas and free shipping, Hurry Sale ends in 2 daysTake advantage of our yearly sale, with over 50% off and free shipping.Medical Sauna|",
+      "url": "https://www.medicalsaunas.com/medicalsaunas.php?affid=UX8dj64sLc09efPSqMzKzHDnhR3I5pwu&utm_source=taboola&utm_campaign=Sauna_Test1Taboola&utm_medium=cpc%09&utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDmr1Eo0amqnejU3LPeAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDmr1Eo0amqnejU3LPeAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.medicalsaunas.com/medicalsaunas.php?affid=UX8dj64sLc09efPSqMzKzHDnhR3I5pwu&utm_source=taboola&utm_campaign=Sauna_Test1Taboola&utm_medium=cpc%09&utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDmr1Eo0amqnejU3LPeAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDmr1Eo0amqnejU3LPeAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=5f888695e731361367c5015108abfcd3&sd=v2_3faf929c97d188e07474873385c17e3f_0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b_1656003771_1656003771_CIi3jgYQhNo9GPf4kIyZMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b&it=text&ii=~~V1~~8063916863848615662~~eSdhS6HGYMF67Ahss8igRfDC4TA9cWbXPXtiwQMiOLL6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQIKiYZmEl3RMjJoyLcF9x2L7I5MK7B1QpyhF1wERuIDVo2Oq0RS2DNJwFtQu2bmIxurOygszEKnfPoVz8jrMGTycuNFeZ3WMJKz-98OuO00WH3v3RiKBuAGvFQmWexMCuHtoP3If1d8onFYhPR5LRDP5eHjX3p5ZkaCWycbXs1VRCd3vT9BTqsc3eu3LaT0CduEjIn6p3dLxd4EFkAMUwlg&pt=home&li=rbox-h2v&sig=6a40b2def6182375b7c20da833a606b975651058f538&redir=https%3A%2F%2Fwww.medicalsaunas.com%2Fmedicalsaunas.php%3Faffid%3DUX8dj64sLc09efPSqMzKzHDnhR3I5pwu%26utm_source%3Dtaboola%26utm_campaign%3DSauna_Test1Taboola%26utm_medium%3Dcpc%2509%26utm_source%3Dtaboola%26utm_medium%3Dreferral%26tblci%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDmr1Eo0amqnejU3LPeAQ%23tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDmr1Eo0amqnejU3LPeAQ&vi=1656003771511&p=taboolaaccount-nativeadsmedicalbreakthroughcom&r=94&lti=motion_ads_timing_ctrl&ppb=CPQE&cpb=EhIyMDIyMDYyMi02LVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAyNTE4gLTwakCRpA5IsOUPUKTL2QNY_wNjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnBwYGGRjCO8DEIsHGAlkYwivLhDuPRgKZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "hiplatina",
+      "url": "https://hiplatina.com/gordon-ramsay-puerto-rican-pegao/?utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYowf_vpPaNhJAJ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYowf_vpPaNhJAJ"
+    },
+    {
+      "text": "Twitter Slams Celebrity Chef Gordon Ramsay for Take on 'Puerto Rican crispy rice'hiplatina|",
+      "url": "https://hiplatina.com/gordon-ramsay-puerto-rican-pegao/?utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYowf_vpPaNhJAJ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYowf_vpPaNhJAJ"
+    },
+    {
+      "text": "",
+      "url": "https://hiplatina.com/gordon-ramsay-puerto-rican-pegao/?utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYowf_vpPaNhJAJ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYowf_vpPaNhJAJ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Blissy",
+      "url": "https://info.blissy.com/my-perfect-gift-2?utm_source=taboola&utm_campaign=Desktop_6697327&utm_term=1010948_gannettcompany-heraldtimesreporter&affId=2&c1=taboola&c2=Desktop_6697327&c3=6697327&c5=1010948&nb_platform=taboola&nb_sid=1010948&nb_cid=6697327&nb_ciid=3423287125&nb_device=Desktop&nb_cpc={cpc}&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCylUkog9m2vujNnM2SAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCylUkog9m2vujNnM2SAQ"
+    },
+    {
+      "text": "This Pillowcase Is Quickly Becoming The Must-Have Gift Of 2022People usually want TVs, video games, the latest phones, and must-have electronics. But when waves of consumers started clamoring for our pillowcase, analysts everywhere were scratching their heads..Blissy|",
+      "url": "https://info.blissy.com/my-perfect-gift-2?utm_source=taboola&utm_campaign=Desktop_6697327&utm_term=1010948_gannettcompany-heraldtimesreporter&affId=2&c1=taboola&c2=Desktop_6697327&c3=6697327&c5=1010948&nb_platform=taboola&nb_sid=1010948&nb_cid=6697327&nb_ciid=3423287125&nb_device=Desktop&nb_cpc={cpc}&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCylUkog9m2vujNnM2SAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCylUkog9m2vujNnM2SAQ"
+    },
+    {
+      "text": "",
+      "url": "https://info.blissy.com/my-perfect-gift-2?utm_source=taboola&utm_campaign=Desktop_6697327&utm_term=1010948_gannettcompany-heraldtimesreporter&affId=2&c1=taboola&c2=Desktop_6697327&c3=6697327&c5=1010948&nb_platform=taboola&nb_sid=1010948&nb_cid=6697327&nb_ciid=3423287125&nb_device=Desktop&nb_cpc={cpc}&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCylUkog9m2vujNnM2SAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCylUkog9m2vujNnM2SAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "CoolTrending",
+      "url": "https://ac.techgadgetrend.com?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Refrigerate+A+Room+in+2+Minutes&platform=Desktop&campaign_id=18962128&campaign_item_id=3430529646&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F6255bc67e6090855e5793e03b1a72c5f.jpg&click_id=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ"
+    },
+    {
+      "text": "Refrigerate A Room in 2 MinutesDon't waste your money on other AC Unites. This Ultra Portable AC is Only $89CoolTrending|",
+      "url": "https://ac.techgadgetrend.com?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Refrigerate+A+Room+in+2+Minutes&platform=Desktop&campaign_id=18962128&campaign_item_id=3430529646&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F6255bc67e6090855e5793e03b1a72c5f.jpg&click_id=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ"
+    },
+    {
+      "text": "",
+      "url": "https://ac.techgadgetrend.com?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Refrigerate+A+Room+in+2+Minutes&platform=Desktop&campaign_id=18962128&campaign_item_id=3430529646&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F6255bc67e6090855e5793e03b1a72c5f.jpg&click_id=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Read More",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=5f888695e731361367c5015108abfcd3&sd=v2_3faf929c97d188e07474873385c17e3f_0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b_1656003771_1656003771_CIi3jgYQhNo9GPf4kIyZMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b&it=text&ii=~~V1~~-3672240643566679976~~FJXfrZroKEBlhhg2VZ01tCWA8YobPempyngLDjG1G-3TxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lI08Kbep-dmYGlGb2QJ5B4rcClTsQhvSWsXsfDqPOp466s7KCzMQqd8-hXPyOswZPSjhaNgQXFomiLGmdCl1rOUcR_wW_5V39Qqdziwn7-ZDn8Esooj1PNV7LIilnbV3NjzmN1T3DZ9xbUaenejWnZ0J3e9P0FOqxzd67ctpPQJ24SMifqnd0vF3gQWQAxTCW&pt=home&li=rbox-h2v&sig=0cee3987593c198fa6f45a6150357a9afa21881ef78a&redir=https%3A%2F%2Fac.techgadgetrend.com%3Fsite%3Dgannettcompany-heraldtimesreporter%26site_id%3D1010948%26title%3DRefrigerate%2BA%2BRoom%2Bin%2B2%2BMinutes%26platform%3DDesktop%26campaign_id%3D18962128%26campaign_item_id%3D3430529646%26thumbnail%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252F6255bc67e6090855e5793e03b1a72c5f.jpg%26click_id%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ%26tblci%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ%23tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCtzVgo44ae0vzNmaC5AQ&vi=1656003771511&p=pandamobonetwork-blastacinpw-sc&r=8&lti=motion_ads_timing_ctrl&ppb=CPQE&cpb=EhIyMDIyMDYyMi02LVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAyNTE4gLTwakCRpA5IsOUPUKTL2QNY_wNjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnBwYGGRjCO8DEIsHGAlkYwivLhDuPRgKZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "hiplatina",
+      "url": "https://hiplatina.com/el-chapo-emma-coronel-aispuro-arrested/?utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYor_nN3oPw97fAAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYor_nN3oPw97fAAQ"
+    },
+    {
+      "text": "El Chapo's Wife Emma Coronel Aispuro Sentenced to 3 Years in Prisonhiplatina|",
+      "url": "https://hiplatina.com/el-chapo-emma-coronel-aispuro-arrested/?utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYor_nN3oPw97fAAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYor_nN3oPw97fAAQ"
+    },
+    {
+      "text": "",
+      "url": "https://hiplatina.com/el-chapo-emma-coronel-aispuro-arrested/?utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYor_nN3oPw97fAAQ#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYor_nN3oPw97fAAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Read More",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=4978c663b40db5ef14f349b4f49c6103&sd=v2_3faf929c97d188e07474873385c17e3f_0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b_1656003771_1656003771_CIi3jgYQhNo9GPf4kIyZMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b&it=photo&ii=~~V1~~4153549493246134462~~yDMeALDKNOhR265jB0jpp-GT0teXkOSNIGksWCuh1djTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RIaeguCUIUpUqDP0NTbDeiCI0vCWl47S19TFiPKBzcZrd00YoCRDFQE21P__j7sFXCZd62-p79ajKtUF7XxvT4HKUJ2E9G5mN6ig3ohzFuY7-p2boS36fZSwdoI1Bp-njo&pt=home&li=rbox-h2v&sig=248ef59e6ad4b38b565e60c89a98b00330b8f26bd732&redir=https%3A%2F%2Fhiplatina.com%2Fel-chapo-emma-coronel-aispuro-arrested%2F%3Futm_source%3Dtaboola%26utm_medium%3Dreferral%26tblci%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYor_nN3oPw97fAAQ%23tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDs1kYor_nN3oPw97fAAQ&vi=1656003771511&p=taboolaaccount-hiplatinahcodemediacom&lti=motion_ads_timing_ctrl&ppb=CJwB&cpb=EhIyMDIyMDYyMi02LVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAyNTE4gLTwakCRpA5IsOUPUKTL2QNY_wNjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnBwYGGRjCO8DEIsHGAlkYwivLhDuPRgKZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "Cool Tech",
+      "url": "https://the.goodwaytrk.com/17f64212-09f1-43be-a295-a6440f5045fa?site=gannettcompany-heraldtimesreporter&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F52140178621e913721f78adb180c1f22.jpg&title=Don%27t+Bother+to+Buy+an+AC%2C+Try+This+Tiny+Box&timestamp=2022-06-23+17%3A02%3A51&platform=Desktop&campaign_id=18656993&campaign_item_id=3426523670&campaign_name=ChillWell+w+USA&tabclickid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO"
+    },
+    {
+      "text": "Don't Bother to Buy an AC, Try This Tiny BoxMust-have device for hot summer in 2022. Rapidly cool any space in your house without using costly AC!Cool Tech|",
+      "url": "https://the.goodwaytrk.com/17f64212-09f1-43be-a295-a6440f5045fa?site=gannettcompany-heraldtimesreporter&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F52140178621e913721f78adb180c1f22.jpg&title=Don%27t+Bother+to+Buy+an+AC%2C+Try+This+Tiny+Box&timestamp=2022-06-23+17%3A02%3A51&platform=Desktop&campaign_id=18656993&campaign_item_id=3426523670&campaign_name=ChillWell+w+USA&tabclickid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO"
+    },
+    {
+      "text": "",
+      "url": "https://the.goodwaytrk.com/17f64212-09f1-43be-a295-a6440f5045fa?site=gannettcompany-heraldtimesreporter&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F52140178621e913721f78adb180c1f22.jpg&title=Don%27t+Bother+to+Buy+an+AC%2C+Try+This+Tiny+Box&timestamp=2022-06-23+17%3A02%3A51&platform=Desktop&campaign_id=18656993&campaign_item_id=3426523670&campaign_name=ChillWell+w+USA&tabclickid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Get Offer",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=4978c663b40db5ef14f349b4f49c6103&sd=v2_3faf929c97d188e07474873385c17e3f_0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b_1656003771_1656003771_CIi3jgYQhNo9GPf4kIyZMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b&it=text&ii=~~V1~~7992061605311807099~~8-uVuGWOr81kx64akwdLsLlJl5sKobp0nAdYHa3TImrTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RLoD7zrDkiHhB8O3SWVzm_zI0vCWl47S19TFiPKBzcZrTo-SHmBzQNb4YX1u8THhxyNrXEd7-L2MAxNNQW-p1zBjxfAtsj75Zm6PzSBS4yNyep2boS36fZSwdoI1Bp-njo&pt=home&li=rbox-h2v&sig=201c5b9ef17962d09e9f1822d2f21f3d9505f925bb99&redir=https%3A%2F%2Fthe.goodwaytrk.com%2F17f64212-09f1-43be-a295-a6440f5045fa%3Fsite%3Dgannettcompany-heraldtimesreporter%26thumbnail%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252F52140178621e913721f78adb180c1f22.jpg%26title%3DDon%2527t%2BBother%2Bto%2BBuy%2Ban%2BAC%252C%2BTry%2BThis%2BTiny%2BBox%26timestamp%3D2022-06-23%2B17%253A02%253A51%26platform%3DDesktop%26campaign_id%3D18656993%26campaign_item_id%3D3426523670%26campaign_name%3DChillWell%2Bw%2BUSA%26tabclickid%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO%26tblci%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO%23tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSCDt0gonKmYqpqP2cNO&vi=1656003771511&p=adxmedia-sc&r=52&lti=motion_ads_timing_ctrl&ppb=CJwB&cpb=EhIyMDIyMDYyMi02LVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAyNTE4gLTwakCRpA5IsOUPUKTL2QNY_wNjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnBwYGGRjCO8DEIsHGAlkYwivLhDuPRgKZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "TeamPlanting",
+      "url": "https://teamplanting.com/blogs/gemstone-guides/the-best-chakra-stones-bracelet-in-2022?utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDQvFYo9qn39eO-iY8N#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDQvFYo9qn39eO-iY8N"
+    },
+    {
+      "text": "This Buddhist Bracelet Not Only Looks Beautiful, But It Also Plants TreesTeamPlanting|",
+      "url": "https://teamplanting.com/blogs/gemstone-guides/the-best-chakra-stones-bracelet-in-2022?utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDQvFYo9qn39eO-iY8N#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDQvFYo9qn39eO-iY8N"
+    },
+    {
+      "text": "",
+      "url": "https://teamplanting.com/blogs/gemstone-guides/the-best-chakra-stones-bracelet-in-2022?utm_source=taboola&utm_medium=referral&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDQvFYo9qn39eO-iY8N#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDQvFYo9qn39eO-iY8N"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "FungusDefend",
+      "url": "https://antifungusformula.com/preLP-TAB?s1=18556122&clickid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDG9Vgo3cS7lOuVmYII&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDG9Vgo3cS7lOuVmYII#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDG9Vgo3cS7lOuVmYII"
+    },
+    {
+      "text": "Toenail Fungus? Try This At Home Immediately\u00a0FungusDefend|",
+      "url": "https://antifungusformula.com/preLP-TAB?s1=18556122&clickid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDG9Vgo3cS7lOuVmYII&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDG9Vgo3cS7lOuVmYII#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDG9Vgo3cS7lOuVmYII"
+    },
+    {
+      "text": "",
+      "url": "https://antifungusformula.com/preLP-TAB?s1=18556122&clickid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDG9Vgo3cS7lOuVmYII&tblci=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDG9Vgo3cS7lOuVmYII#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSDG9Vgo3cS7lOuVmYII"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Second Amendment: Supreme Court strikes down New York handgun law",
+      "url": "/story/news/politics/2022/06/23/second-amendment-supreme-court-strikes-down-new-york-handgun-law/6982541001/"
+    },
+    {
+      "text": "Roncalli teacher accused of taking photos of girls at beach",
+      "url": "/story/news/crime/2022/06/21/manitowoc-roncalli-teacher-gregory-melin-charged-sheboygan-county-disorderly-conduct/7692636001/"
+    },
+    {
+      "text": "Fact check: Kleefisch campaign says Wisconsin had smallest margin in 2020 presidential election",
+      "url": "https://www.politifact.com/factchecks/2022/jun/23/rebecca-kleefisch/kleefisch-campaign-wrong-wisconsin-had-smallest-ma/"
+    },
+    {
+      "text": "Marquette Poll shows Ron Johnson, Tony Evers in close general election races",
+      "url": "/story/news/politics/elections/2022/06/22/marquette-poll-shows-tony-evers-ron-johnson-tight-races/7695043001/"
+    },
+    {
+      "text": "Get a six-month Herald Times Reporter subscription for $1",
+      "url": "/story/news/local/2018/02/06/herald-times-reporter-digital-subscription/1087736001/"
+    },
+    {
+      "text": "",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Right-Rail"
+    },
+    {
+      "text": "CarsGenius",
+      "url": "http://carsgenius.com?view=compact&vw=body&hm=min&cond=new&bdy=pickup&hl=2&pre=1&post=5&hr=ram2&pr-mx=50000&hd-mk=1&sort=price_asc&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=17790338&s1agid=cg-q2-new-pickup-dt-kk-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMooZqPr7inoLon#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMooZqPr7inoLon"
+    },
+    {
+      "text": "All-New 2022 Trucks Are Stunning And CheapCarsGenius|",
+      "url": "http://carsgenius.com?view=compact&vw=body&hm=min&cond=new&bdy=pickup&hl=2&pre=1&post=5&hr=ram2&pr-mx=50000&hd-mk=1&sort=price_asc&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=17790338&s1agid=cg-q2-new-pickup-dt-kk-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMooZqPr7inoLon#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMooZqPr7inoLon"
+    },
+    {
+      "text": "",
+      "url": "http://carsgenius.com?view=compact&vw=body&hm=min&cond=new&bdy=pickup&hl=2&pre=1&post=5&hr=ram2&pr-mx=50000&hd-mk=1&sort=price_asc&{lpurl}&segment=buycars2&s1aid=1364031&s1cid=17790338&s1agid=cg-q2-new-pickup-dt-kk-RON&s1kid=gannettcompany-heraldtimesreporter&utm_source=taboola&tbclid=GiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMooZqPr7inoLon#tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMooZqPr7inoLon"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Search Now",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=59f28975659e1759d1a851b8b2546373&sd=v2_3faf929c97d188e07474873385c17e3f_0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b_1656003771_1656003771_CIi3jgYQhNo9GPf4kIyZMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGjL6tCfh4PQ0TtwAQ&ui=0e7e8a21-862f-4c0b-9b2f-c994125e9a02-tuct9ae223b&it=text&ii=~~V1~~-549588489331314016~~ohVSDxb2_x7iXNJlWTd4LzahM226CXXU7masK5cojMnTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQZ4a6mmx10IQsd2kfeJTLN3WfGxmbeJhJlm5_iMRJ6h-q3_jxWJV1IJJ0j6G-phrGkIwHXfQkM4GLNROX274eG7-gbvHxxdnVtbXqu03r4U4RdbgwlJdnqyroTPEQNNEnw4qcqJk97TaWKFOHfNS3i8&pt=home&li=rbox-h2m&sig=31084669cadb47393051319cfaaa37eee6c588594cba&redir=http%3A%2F%2Fcarsgenius.com%3Fview%3Dcompact%26vw%3Dbody%26hm%3Dmin%26cond%3Dnew%26bdy%3Dpickup%26hl%3D2%26pre%3D1%26post%3D5%26hr%3Dram2%26pr-mx%3D50000%26hd-mk%3D1%26sort%3Dprice_asc%26%7Blpurl%7D%26segment%3Dbuycars2%26s1aid%3D1364031%26s1cid%3D17790338%26s1agid%3Dcg-q2-new-pickup-dt-kk-RON%26s1kid%3Dgannettcompany-heraldtimesreporter%26utm_source%3Dtaboola%26tbclid%3DGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMooZqPr7inoLon%23tblciGiA5WkEFnidnZeZJyMwlSbCuXxIGiY0P57JvdFb-kOt7NSC_oFMooZqPr7inoLon&vi=1656003771511&p=qool-carsgenius3-sc&r=55&lti=motion_ads_timing_ctrl&ppb=CNAG&cpb=EhIyMDIyMDYyMi02LVJFTEVBU0UY3rfb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAyNTE4gLTwakCRpA5IsOUPUKTL2QNY_wNjCNcWENUfGCNkYwjSAxDgBhgIZGMIlhQQnBwYGGRjCO8DEIsHGAlkYwivLhDuPRgKZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "Staff Directory",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.gannett.com/careers/"
+    },
+    {
+      "text": "Accessibility Support",
+      "url": "https://cm.htrnews.com/accessibility"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "Our Ethical Principles",
+      "url": "https://cm.htrnews.com/ethical-conduct"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://cm.htrnews.com/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy"
+    },
+    {
+      "text": "Your California Privacy Rights / Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy-policy/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Support Local Businesses",
+      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=manitowoc"
+    },
+    {
+      "text": "Advertise Your Business",
+      "url": "https://localiq.com/markets/Wisconsin/"
+    },
+    {
+      "text": "Advertising Terms and Conditions",
+      "url": "https://cm.htrnews.com/advertising-terms-conditions"
+    },
+    {
+      "text": "Buy and Sell",
+      "url": "/placead/"
+    },
+    {
+      "text": "Licensing & Reprints",
+      "url": "https://imagn.com/licensing-reprints/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://help.htrnews.com/"
+    },
+    {
+      "text": "Subscriber Guide",
+      "url": "https://cm.htrnews.com/subscriberguide"
+    },
+    {
+      "text": "My Account",
+      "url": "https://account.htrnews.com/"
+    },
+    {
+      "text": "Feedback",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Footer"
+    },
+    {
+      "text": "Subscribe Today",
+      "url": "https://subscribe.htrnews.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://profile.htrnews.com/newsletters/manage"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.htrnews.com/subscriberguide/apps/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/HeraldTimesReporter"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/htrnews"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Storytellers",
+      "url": "https://www.storytellersproject.com/"
+    },
+    {
+      "text": "Archives",
+      "url": "http://www.tkqlhce.com/click-8144810-11570746?url=http://archives.htrnews.com"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "http://static.htrnews.com/rss/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.htrnews.com/jobs/"
+    },
+    {
+      "text": "Cars",
+      "url": "/cars/"
+    },
+    {
+      "text": "Homes",
+      "url": "http://www.htrnews.com/marketplace/real-estate/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://classifieds.htrnews.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Manitowoc+Herald+Times+Reporter"
+    },
+    {
+      "text": "Reviewed",
+      "url": "https://www.reviewed.com/"
+    },
+    {
+      "text": "10Best",
+      "url": "https://www.10best.com/"
+    },
+    {
+      "text": "USA TODAY Sports+",
+      "url": "https://www.usatodaysportsplus.com/"
+    },
+    {
+      "text": "Reach Local",
+      "url": "http://www.reachlocal.com/us/en"
+    }
+  ],
+  "item_last_updated": 1656004650,
+  "item_size": 35519507,
   "metadata": {
     "identifier": "htrnews-2022",
     "collection": [
@@ -4033,10 +5141,10 @@
     "publicdate": "2022-03-27 23:07:58",
     "addeddate": "2022-03-27 23:07:58"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 22885642,
+  "server": "ia902504.us.archive.org",
+  "uniq": 153482938,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

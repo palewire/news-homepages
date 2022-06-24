@@ -1,5 +1,5 @@
 {
-  "created": 1655770920,
+  "created": 1656004995,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/23/items/wncn-2022",
@@ -3698,31 +3698,493 @@
       "sha1": "4a90fac2755f6341fc9612e9002fd57ac58fd5fd"
     },
     {
+      "name": "wncn-2022-06-20T21:37:35.622744-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775460",
+      "size": "34694",
+      "md5": "10d824461fa1a29c1d1f6cf06870f5e6",
+      "crc32": "32ffdb04",
+      "sha1": "d59171461fa439ca8bc6a009ebfce4c0586c819d",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-20T21:37:35.622744-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775462",
+      "size": "83731",
+      "md5": "3b58fd5c23b981e8e1426de2639d31b1",
+      "crc32": "9d238469",
+      "sha1": "f059fd8f6828b5babadc9f83c058b0e5aea9737b",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-20T21:37:35.622744-04:00.jpg",
+      "source": "original",
+      "mtime": "1655775459",
+      "size": "324029",
+      "md5": "309e387045e214bf5bf26ef913c0fa3e",
+      "crc32": "ebe0a934",
+      "sha1": "42bb7fa82ffef82a58646136a50dfdf4fd9f1495",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-20T21:37:35.622744-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-20T21:37:35.622744-04:00.jpg",
+      "mtime": "1655775535",
+      "size": "10747",
+      "md5": "cfe0d084562e225ea61774384946a628",
+      "crc32": "223485ce",
+      "sha1": "4cb3973f5128c035ae4f029dd1c7981ec71d39b7"
+    },
+    {
+      "name": "wncn-2022-06-21T01:31:15.377093-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789480",
+      "size": "35606",
+      "md5": "10b80e4314678d42e9daa6df3733b2ef",
+      "crc32": "7ee75c4c",
+      "sha1": "12ebef42bf83b6537d2e4fafc62a47f4d4d6866a",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T01:31:15.377093-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789482",
+      "size": "82136",
+      "md5": "8de64a7921dd09f56f61a53c9aa9b5fb",
+      "crc32": "1cc846f8",
+      "sha1": "8ac3e5ab2a470fcd9e12d021219c53c57da6da81",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T01:31:15.377093-04:00.jpg",
+      "source": "original",
+      "mtime": "1655789478",
+      "size": "336864",
+      "md5": "f954f5b381f8ab669b18f192d695ec48",
+      "crc32": "533da16e",
+      "sha1": "ff20021f348bfff652308ea48cbacf8c67724f01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-21T01:31:15.377093-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-21T01:31:15.377093-04:00.jpg",
+      "mtime": "1655789580",
+      "size": "10888",
+      "md5": "a90bdf96b3e3308a4f51b5a969797b95",
+      "crc32": "af7393b2",
+      "sha1": "49b9fbab3c12ce118bf52a3f2f5873da465b3340"
+    },
+    {
+      "name": "wncn-2022-06-21T08:34:53.885076-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814899",
+      "size": "35603",
+      "md5": "31135d4b948fbb826335edd14e38de4e",
+      "crc32": "7132c623",
+      "sha1": "9a264e1bfd036707052c8d916bfd6fee364460da",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T08:34:53.885076-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814901",
+      "size": "81649",
+      "md5": "eb9c0dc4d096084c0f7117de216d5a0a",
+      "crc32": "09696959",
+      "sha1": "3d1c2e7c4f3bc5185837981b95f52a96768ec02a",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T08:34:53.885076-04:00.jpg",
+      "source": "original",
+      "mtime": "1655814897",
+      "size": "312053",
+      "md5": "9c01cfdfbdf8a1b8d3b0f72900cfec44",
+      "crc32": "447bf2d6",
+      "sha1": "679e77d267989a4580c4bcea277fa29c6f875cd5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-21T08:34:53.885076-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-21T08:34:53.885076-04:00.jpg",
+      "mtime": "1655814951",
+      "size": "10744",
+      "md5": "2b1a60d56d50684b5f5e0d86fd8aae62",
+      "crc32": "28f47b11",
+      "sha1": "efbb7a8a9c99e8a26eb1c4dc53204fbee53dcf94"
+    },
+    {
+      "name": "wncn-2022-06-21T10:00:18.655701-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655820021",
+      "size": "34992",
+      "md5": "01d60f3369b9fa5ba73ced85b009bccb",
+      "crc32": "344f1f78",
+      "sha1": "95a867ed06c41ad14f3de08f94891ac8f6c4c3d8",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T10:00:18.655701-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655820024",
+      "size": "81318",
+      "md5": "a727ed66285b8f16b273ccc2e1512de5",
+      "crc32": "2dc0682b",
+      "sha1": "91f345412d6660f972b05cf5ecea243f4755f320",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T10:00:18.655701-04:00.jpg",
+      "source": "original",
+      "mtime": "1655820020",
+      "size": "315185",
+      "md5": "91a542b6a62522dbc62cd9121dba60e0",
+      "crc32": "3a38837e",
+      "sha1": "b05eb837a9e32e5f3621ea4d84b6eb2d6feadc1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-21T10:00:18.655701-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-21T10:00:18.655701-04:00.jpg",
+      "mtime": "1655820093",
+      "size": "10753",
+      "md5": "53e030e14e413c8c855ba6e587114a2c",
+      "crc32": "40a35ca7",
+      "sha1": "d79994bce8828da10bb75dc8f36f5f17a06c9481"
+    },
+    {
+      "name": "wncn-2022-06-21T13:19:50.360767-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831995",
+      "size": "35983",
+      "md5": "ad5b370afbbb1a2ac4318000babd0be1",
+      "crc32": "57701664",
+      "sha1": "64169cefcd4ac18a494a246998d904d14b742219",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T13:19:50.360767-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831998",
+      "size": "80366",
+      "md5": "5128daa380ae5a08d8c8273a6d0a7df7",
+      "crc32": "d0ac4469",
+      "sha1": "f4379d804e933e5588959b6d90156ee570106076",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T13:19:50.360767-04:00.jpg",
+      "source": "original",
+      "mtime": "1655831994",
+      "size": "310750",
+      "md5": "6d1633bf30c879ef85d4b52a0aad663d",
+      "crc32": "74b866dd",
+      "sha1": "e162655d3c7065771257edaeb2d6b65f78be204a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-21T13:19:50.360767-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-21T13:19:50.360767-04:00.jpg",
+      "mtime": "1655832044",
+      "size": "10685",
+      "md5": "73b1528cd2ce2e1e5ec6db6e9842054d",
+      "crc32": "b990b79b",
+      "sha1": "e91242e8ea9d4433f42e71f4d7f90e92543b2405"
+    },
+    {
+      "name": "wncn-2022-06-21T21:28:05.182289-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861292",
+      "size": "33907",
+      "md5": "4f0b9f7d6ae81cdbb063454806c37359",
+      "crc32": "fbfc4734",
+      "sha1": "043ae22a5eaf1bf0570d233284c88d8b43afdd25",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T21:28:05.182289-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861294",
+      "size": "80887",
+      "md5": "b48e3103b0b570d3819702cfe7900ecd",
+      "crc32": "cd17dd7c",
+      "sha1": "195008f583945cac765c085f6f38b983d0ecc614",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-21T21:28:05.182289-04:00.jpg",
+      "source": "original",
+      "mtime": "1655861287",
+      "size": "318868",
+      "md5": "ce5a2e6fe771de740fda509a416fa03d",
+      "crc32": "5d801843",
+      "sha1": "598aa84af22dbf8bedad1660604802ac643ce731",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-21T21:28:05.182289-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-21T21:28:05.182289-04:00.jpg",
+      "mtime": "1655861448",
+      "size": "10573",
+      "md5": "f48d76dcf9c5cf52d0a565885665f540",
+      "crc32": "d99bd17b",
+      "sha1": "fce971de76db464392a553c1675d8ed3f2cc5ed6"
+    },
+    {
+      "name": "wncn-2022-06-22T05:21:03.615979-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889669",
+      "size": "34871",
+      "md5": "1791d4f8f2623b3069cf5f84a1384676",
+      "crc32": "d60d57a2",
+      "sha1": "aafd6e0a1f5a02006dbaa1cfb49f6dc8ead5d9d8",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-22T05:21:03.615979-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889670",
+      "size": "81562",
+      "md5": "e280d7cf08d12c7d3cf63bb1be149059",
+      "crc32": "fd999a10",
+      "sha1": "48e3ec4bae7ec84808ce96d7f26945fbbf2af456",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-22T05:21:03.615979-04:00.jpg",
+      "source": "original",
+      "mtime": "1655889667",
+      "size": "320115",
+      "md5": "767b8b343a94907b5eea5507987f31da",
+      "crc32": "47b3115b",
+      "sha1": "d4c11bdf98259fa528de7296fab78e624a590e8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-22T05:21:03.615979-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-22T05:21:03.615979-04:00.jpg",
+      "mtime": "1655889757",
+      "size": "10586",
+      "md5": "c3f27a4c66046d76a8e15d64229612ca",
+      "crc32": "59e0c217",
+      "sha1": "d0c85c2c5f980fcf901580d370c742f50c7ed174"
+    },
+    {
+      "name": "wncn-2022-06-22T13:36:31.859168-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919397",
+      "size": "34869",
+      "md5": "347e8822d40bfb50a7c74404f810884d",
+      "crc32": "84fe9ff2",
+      "sha1": "82e71bd595ba7764b9eaa8dc5f7b5456edba8a87",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-22T13:36:31.859168-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919398",
+      "size": "81013",
+      "md5": "cd0bb65df94c02a2a70358031a8bb93b",
+      "crc32": "4ffc0699",
+      "sha1": "02682af5450dc7fb9757d1d368bbee7caf0e2c4d",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-22T13:36:31.859168-04:00.jpg",
+      "source": "original",
+      "mtime": "1655919395",
+      "size": "322067",
+      "md5": "453474bee64b045e65ddecae03de17dd",
+      "crc32": "50c1f9db",
+      "sha1": "95752983d9db12f8aad67f8b50d1a513711ce8eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-22T13:36:31.859168-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-22T13:36:31.859168-04:00.jpg",
+      "mtime": "1655919464",
+      "size": "10832",
+      "md5": "98008334f6d62b3ec02392f88d396521",
+      "crc32": "7efe5458",
+      "sha1": "d36415c5ebe927fad79f0b7c3b548cab2205d49f"
+    },
+    {
+      "name": "wncn-2022-06-22T21:30:40.223325-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947847",
+      "size": "35266",
+      "md5": "5a3a64f6ad286e5e0d5d566094283179",
+      "crc32": "0b159ec7",
+      "sha1": "476210d90fa87f9309c8cfb015413528fb9e225c",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-22T21:30:40.223325-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947849",
+      "size": "80347",
+      "md5": "5db310ab4f932a4043263757b07ce310",
+      "crc32": "e3f9eb48",
+      "sha1": "5346df34daf9f01e0090a2a60858cf6e4d36cd0d",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-22T21:30:40.223325-04:00.jpg",
+      "source": "original",
+      "mtime": "1655947846",
+      "size": "336825",
+      "md5": "88310e783564171e41a2bd1db9ab0719",
+      "crc32": "fa216629",
+      "sha1": "b684b4d2e6bfc869b4324f6936364e7d8d7c6327",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-22T21:30:40.223325-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-22T21:30:40.223325-04:00.jpg",
+      "mtime": "1655947921",
+      "size": "10898",
+      "md5": "7156a5eaf64f772841c13c8295098369",
+      "crc32": "89a91b3c",
+      "sha1": "976c7ed5544c4bdc46c4605b27ea8ba729322646"
+    },
+    {
+      "name": "wncn-2022-06-23T05:22:30.027622-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976155",
+      "size": "34761",
+      "md5": "a2eae06592ddbeea09cae8ff46b16633",
+      "crc32": "f97f7943",
+      "sha1": "1280f35ca2d79fea3d87af881342334f749dd765",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-23T05:22:30.027622-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976157",
+      "size": "79470",
+      "md5": "76cdd61227690153616d98ddbc04fc6e",
+      "crc32": "aaa7a3af",
+      "sha1": "d165c14581548657f41ba8fa22ecd5f9be063f75",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-23T05:22:30.027622-04:00.jpg",
+      "source": "original",
+      "mtime": "1655976154",
+      "size": "312840",
+      "md5": "1874af98761dcc5cd80cf07ba6161a17",
+      "crc32": "2cf1919b",
+      "sha1": "77e49abd0f71c88f5a7573fd378f91a861033759",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-23T05:22:30.027622-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-23T05:22:30.027622-04:00.jpg",
+      "mtime": "1655976210",
+      "size": "10587",
+      "md5": "71f77bf6cd249668e4b0980b4d5e1ba2",
+      "crc32": "e87be714",
+      "sha1": "ca035e4a72475fe52ece1b8b728ca9cc4352efc1"
+    },
+    {
+      "name": "wncn-2022-06-23T13:21:53.846129-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004919",
+      "size": "34713",
+      "md5": "b5d7d7fb463a49c9297b153936056c63",
+      "crc32": "36994bca",
+      "sha1": "89a40c1a57b577b6d9e7666d5dac29c2a219aebe",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-23T13:21:53.846129-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004920",
+      "size": "79569",
+      "md5": "bc477cde0c7cb588237b2144a89abb10",
+      "crc32": "9c80dff7",
+      "sha1": "d2e78379146c3a00e05828cc46cf1336d1cf380e",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-06-23T13:21:53.846129-04:00.jpg",
+      "source": "original",
+      "mtime": "1656004917",
+      "size": "300200",
+      "md5": "77397cfe7d23488c7793c29c63660ba7",
+      "crc32": "866acaa6",
+      "sha1": "5e75392280d57bd6e993ec4c3d8fbb6ccb7003cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-06-23T13:21:53.846129-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-06-23T13:21:53.846129-04:00.jpg",
+      "mtime": "1656004974",
+      "size": "10644",
+      "md5": "cbe3b3fc639fc5525a6f6fb2c496374d",
+      "crc32": "af21874a",
+      "sha1": "a57f64ecb4a7c8f76e99b647a4c3cfd5d7e0d82d"
+    },
+    {
       "name": "wncn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a2ad1e0c480dcb2e53bf15ec6e9325b4590dcc47",
-      "mtime": "1655761143",
-      "size": "74473",
-      "md5": "ef042f23b1daacc5e01d5685ec441064",
-      "crc32": "cf6b0123",
-      "sha1": "a1f75098e5f6d6a6091d56f16116653d4296525e",
+      "btih": "b4ed420b16bd906994ccfee657aea68d35ec1c90",
+      "mtime": "1656004984",
+      "size": "83607",
+      "md5": "77872d4456d7844239e1e8ae4fcaee69",
+      "crc32": "619ab4d0",
+      "sha1": "8063d7b38f5b53414091bff7404cbd0be0f585c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wncn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd0ae139ce74bac33f798fc5c66ad41c",
+      "md5": "033c5b96522f3f8ab6a8edc77b9bf98c",
       "summation": "md5"
     },
     {
       "name": "wncn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655761087",
-      "size": "421888",
-      "md5": "49dcc41a576b345b9c1df1191a97bf40",
-      "crc32": "dcbeb5c3",
-      "sha1": "4d0bd2982e4943e215ab9814d604704f73ac3501",
+      "mtime": "1656004924",
+      "size": "475136",
+      "md5": "40a45cf0e4330bac302e04145ffe9085",
+      "crc32": "db6b6a55",
+      "sha1": "68588c017dfc9b7805514a093cd66dd69cc87d98",
       "format": "Metadata"
     },
     {
@@ -3736,9 +4198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 356,
-  "item_last_updated": 1655761143,
-  "item_size": 37465438,
+  "files_count": 400,
+  "item_last_updated": 1656004984,
+  "item_size": 42432866,
   "metadata": {
     "identifier": "wncn-2022",
     "collection": [
@@ -3755,2156 +4217,10 @@
     "publicdate": "2022-03-26 14:58:09",
     "addeddate": "2022-03-26 14:58:09"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 21884110,
-  "wncn-2022": [
-    {
-      "text": "Skip to content",
-      "url": "#content"
-    },
-    {
-      "text": "CBS17.com",
-      "url": "https://www.cbs17.com/"
-    },
-    {
-      "text": "\n\t\t\tRaleigh\n\t\t\t\n\t\t\t\t78\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
-      "url": "https://www.cbs17.com/weather/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\n\n\t\n\t\n\n\t\t\t\t\n\t\t\t\t\tLIVE NOW\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tWatch the latest CBS 17 newscast\t\t\t\t\n\t\t\t\n\t\t",
-      "url": "https://cbs17.com/live/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/"
-    },
-    {
-      "text": "\n\t\t\tRaleigh\n\t\t\t\n\t\t\t\t78\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
-      "url": "https://www.cbs17.com/weather/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tLIVE\t\t\t\t\n\t\t\t\n\t\t",
-      "url": "https://cbs17.com/live/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "Remarkable Women Finalists",
-      "url": "https://www.cbs17.com/remarkable-women/"
-    },
-    {
-      "text": "Local News That Matters",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "Wake County News",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/"
-    },
-    {
-      "text": "North Carolina News",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "Around the South",
-      "url": "https://www.cbs17.com/news/south/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "Russia and Ukraine War",
-      "url": "https://www.newsnationnow.com/world/ukraine-crisis/"
-    },
-    {
-      "text": "BestReviews",
-      "url": "https://www.cbs17.com/reviews/br/"
-    },
-    {
-      "text": "BestReviews Daily Deals",
-      "url": "https://products.bestreviews.com/best-deals/"
-    },
-    {
-      "text": "Investigators",
-      "url": "https://www.cbs17.com/news/investigators/"
-    },
-    {
-      "text": "Local Matters",
-      "url": "https://www.cbs17.com/local-matters/"
-    },
-    {
-      "text": "Your Local Election HQ",
-      "url": "https://www.cbs17.com/news/your-local-election-hq/"
-    },
-    {
-      "text": "Washington Bureau",
-      "url": "https://www.cbs17.com/news/washington-dc/"
-    },
-    {
-      "text": "Capitol Report",
-      "url": "https://www.cbs17.com/capitol-report/"
-    },
-    {
-      "text": "Political News",
-      "url": "https://www.cbs17.com/news/political-news/"
-    },
-    {
-      "text": "CBS 17 News Political Pledge",
-      "url": "https://www.cbs17.com/cbs-17-news-political-pledge/"
-    },
-    {
-      "text": "Driving You Crazy",
-      "url": "https://www.cbs17.com/news/driving-you-crazy/"
-    },
-    {
-      "text": "Digital stories",
-      "url": "https://www.cbs17.com/digital-stories/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.cbs17.com/entertainment-news/"
-    },
-    {
-      "text": "Automotive News",
-      "url": "https://www.cbs17.com/automotive/"
-    },
-    {
-      "text": "Check This Out",
-      "url": "https://www.cbs17.com/news/check-this-out/"
-    },
-    {
-      "text": "Press Releases",
-      "url": "https://cbs17.com/business/press-releases/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/which-fireworks-are-legal-in-nc-and-can-i-bring-them-to-or-from-va-or-sc/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWhich fireworks are legal in North Carolina?\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/which-fireworks-are-legal-in-nc-and-can-i-bring-them-to-or-from-va-or-sc/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/which-fireworks-are-legal-in-nc-and-can-i-bring-them-to-or-from-va-or-sc/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/petro-faces-challenges-to-deliver-colombians-promised-change/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tPetro faces challenges to deliver Colombians promised\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/petro-faces-challenges-to-deliver-colombians-promised-change/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/petro-faces-challenges-to-deliver-colombians-promised-change/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/more-than-a-mortgage-raleigh-rent-prices-keep-increasing-wheres-the-relief/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tRaleigh rent prices keep increasing, where\u2019s the\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/more-than-a-mortgage-raleigh-rent-prices-keep-increasing-wheres-the-relief/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/more-than-a-mortgage-raleigh-rent-prices-keep-increasing-wheres-the-relief/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tFort Bragg soldier hit, killed by vehicle on I-95\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "COVID-19 in NC",
-      "url": "https://www.cbs17.com/community/health/coronavirus/"
-    },
-    {
-      "text": "COVID-19 and schools",
-      "url": "https://www.cbs17.com/covid-19-and-schools-2/"
-    },
-    {
-      "text": "Job Alert",
-      "url": "https://www.cbs17.com/job-alert/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/first-shipments-of-covid-vaccine-for-kids-6-months-reach-north-carolina/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tCOVID vaccine for kids 6 months+ reach NC\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/first-shipments-of-covid-vaccine-for-kids-6-months-reach-north-carolina/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/first-shipments-of-covid-vaccine-for-kids-6-months-reach-north-carolina/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/how-do-you-know-if-your-covid-vaccine-is-still-working-this-new-test-could-tell-you/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHow do you know if your COVID vaccine is still working?\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/how-do-you-know-if-your-covid-vaccine-is-still-working-this-new-test-could-tell-you/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/how-do-you-know-if-your-covid-vaccine-is-still-working-this-new-test-could-tell-you/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/governor-cooper-tests-positive-for-covid-19/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tGov. Cooper tests positive for COVID-19\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/governor-cooper-tests-positive-for-covid-19/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/governor-cooper-tests-positive-for-covid-19/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-children-5-and-under-can-get-covid-19-vaccines-starting-june-20/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tCOVID vaccines start Monday for NC kids 5 and under\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-children-5-and-under-can-get-covid-19-vaccines-starting-june-20/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-children-5-and-under-can-get-covid-19-vaccines-starting-june-20/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWhat to know as CDC gives OK to shots for kids under\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/cdc-officially-recommends-covid-19-shots-for-children-under-5-heres-what-to-know/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/fda-oks-covid-vaccines-for-children-ages-6-months-to-5-years-old/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tFDA OKs COVID-19 vaccines for nation\u2019s youngest\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/fda-oks-covid-vaccines-for-children-ages-6-months-to-5-years-old/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/fda-oks-covid-vaccines-for-children-ages-6-months-to-5-years-old/"
-    },
-    {
-      "text": "Weather",
-      "url": "https://www.cbs17.com/weather/"
-    },
-    {
-      "text": "Forecast",
-      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
-    },
-    {
-      "text": "Weather Beast",
-      "url": "https://www.cbs17.com/weather-beast/"
-    },
-    {
-      "text": "Interactive Radar",
-      "url": "https://www.cbs17.com/weather/radar/"
-    },
-    {
-      "text": "10-Day forecast",
-      "url": "https://www.cbs17.com/weather/10-day-forecast/"
-    },
-    {
-      "text": "Raleigh Weather Hourly Forecast",
-      "url": "https://www.cbs17.com/weather/hourly-forecast/"
-    },
-    {
-      "text": "CBS 17 Live Raleigh Weather Views",
-      "url": "https://www.cbs17.com/weather/live-views/"
-    },
-    {
-      "text": "Raleigh traffic & live coverage",
-      "url": "https://www.cbs17.com/traffic/"
-    },
-    {
-      "text": "Tracking the Tropics",
-      "url": "https://www.cbs17.com/weather/tracking-the-tropics-digital-show/"
-    },
-    {
-      "text": "Fur-cast videos",
-      "url": "https://www.cbs17.com/fur-cast-videos/"
-    },
-    {
-      "text": "School visits",
-      "url": "https://www.cbs17.com/cbs-17-storm-team-school-visits/"
-    },
-    {
-      "text": "3-Degree Guarantee",
-      "url": "https://www.cbs17.com/3-degree-guarantee/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/fallen-tree-knocks-out-power-for-garner-mini-mart-owner-worried-about-frozen-foods/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tGarner store owner worried for food after power out\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/fallen-tree-knocks-out-power-for-garner-mini-mart-owner-worried-about-frozen-foods/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/fallen-tree-knocks-out-power-for-garner-mini-mart-owner-worried-about-frozen-foods/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/i-85-south-near-durham-closed-by-obstruction-as-severe-storms-hit-triangle/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t1 dead, power outages linger after central NC storms\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/i-85-south-near-durham-closed-by-obstruction-as-severe-storms-hit-triangle/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/i-85-south-near-durham-closed-by-obstruction-as-severe-storms-hit-triangle/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/weather/severe-weather/severe-thunderstorm-warning-issued-for-5-central-nc-counties-including-durham-orange/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t6 central NC counties in severe storm warning\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/weather/severe-weather/severe-thunderstorm-warning-issued-for-5-central-nc-counties-including-durham-orange/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/weather/severe-weather/severe-thunderstorm-warning-issued-for-5-central-nc-counties-including-durham-orange/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/weather/severe-weather/severe-thunderstorm-warning-issued-for-parts-of-durham-orange-person-granville-counties/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tMost power restored in central NC after storms hit\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/weather/severe-weather/severe-thunderstorm-warning-issued-for-parts-of-durham-orange-person-granville-counties/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/weather/severe-weather/severe-thunderstorm-warning-issued-for-parts-of-durham-orange-person-granville-counties/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/weather/severe-weather/wake-durham-counties-part-of-severe-thunderstorm-watch-for-central-nc-areas/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tALERT DAY: Severe thunderstorm warnings, extreme\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/weather/severe-weather/wake-durham-counties-part-of-severe-thunderstorm-watch-for-central-nc-areas/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/weather/severe-weather/wake-durham-counties-part-of-severe-thunderstorm-watch-for-central-nc-areas/"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.cbs17.com/video/"
-    },
-    {
-      "text": "Live newscasts",
-      "url": "https://www.cbs17.com/live/"
-    },
-    {
-      "text": "Live Events",
-      "url": "https://www.cbs17.com/live-events/"
-    },
-    {
-      "text": "Latest Video",
-      "url": "https://www.cbs17.com/video/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/video/watch-dog-turns-on-stovetop-starts-fire-in-home/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWATCH: Dog turns on stovetop, starts house fire\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/video/watch-dog-turns-on-stovetop-starts-fire-in-home/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/video/watch-dog-turns-on-stovetop-starts-fire-in-home/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/triangle-teacher-and-family-of-holocaust-survivor-keep-his-message-alive/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHolocaust survivor\u2019s Raleigh family keeps message\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/triangle-teacher-and-family-of-holocaust-survivor-keep-his-message-alive/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\t\tVideo\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/triangle-teacher-and-family-of-holocaust-survivor-keep-his-message-alive/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/world-swimming-bans-transgender-athletes-from-womens-events/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWorld swimming bans trans athletes from events\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/world-swimming-bans-transgender-athletes-from-womens-events/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/world-swimming-bans-transgender-athletes-from-womens-events/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-man-crashes-motorcycle-during-chase-at-outer-banks-deputies-say/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tDurham man crashes motorcycle in Outer Banks chase:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-man-crashes-motorcycle-during-chase-at-outer-banks-deputies-say/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/durham-man-crashes-motorcycle-during-chase-at-outer-banks-deputies-say/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/raleigh-families-celebrate-fathers-day/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tRaleigh families celebrate Father\u2019s Day\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/raleigh-families-celebrate-fathers-day/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/raleigh-families-celebrate-fathers-day/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/same-driver-involved-in-crashes-that-killed-mom-of-4-and-er-doc-3-weeks-apart-officials-say/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t1 driver caused crashes that killed a mom and ER\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/same-driver-involved-in-crashes-that-killed-mom-of-4-and-er-doc-3-weeks-apart-officials-say/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/same-driver-involved-in-crashes-that-killed-mom-of-4-and-er-doc-3-weeks-apart-officials-say/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.cbs17.com/sports/"
-    },
-    {
-      "text": "Duke",
-      "url": "https://www.cbs17.com/sports/duke/"
-    },
-    {
-      "text": "NC State",
-      "url": "https://www.cbs17.com/sports/nc-state/"
-    },
-    {
-      "text": "UNC",
-      "url": "https://www.cbs17.com/sports/unc/"
-    },
-    {
-      "text": "Carolina Hurricanes",
-      "url": "https://www.cbs17.com/sports/carolina-hurricanes/"
-    },
-    {
-      "text": "Carolina Panthers",
-      "url": "https://www.cbs17.com/sports/carolina-panthers/"
-    },
-    {
-      "text": "Big Race \u2013 Indy",
-      "url": "https://www.cbs17.com/sports/big-race-indy/"
-    },
-    {
-      "text": "NFL Draft",
-      "url": "https://www.cbs17.com/sports/nfl-draft/"
-    },
-    {
-      "text": "The Blitz",
-      "url": "https://www.cbs17.com/sports/the-blitz/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/college-sports/college-basketball-player-shot-and-killed-in-new-york-city-8-others-wounded/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHouston Baptist basketball player fatally shot in\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/college-sports/college-basketball-player-shot-and-killed-in-new-york-city-8-others-wounded/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/college-sports/college-basketball-player-shot-and-killed-in-new-york-city-8-others-wounded/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/title-ix-wnba-owner-among-women-athletes-running-businesses/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tTitle IX: WNBA owner among women athletes running\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/title-ix-wnba-owner-among-women-athletes-running-businesses/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/title-ix-wnba-owner-among-women-athletes-running-businesses/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/ledecky-wins-1500-for-record-extending-17th-world-title/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tCeccon sets world record, Ledecky claims yet another\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/ledecky-wins-1500-for-record-extending-17th-world-title/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/ledecky-wins-1500-for-record-extending-17th-world-title/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/orlando-still-evaluating-all-options-with-no-1-draft-pick/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tOrlando still evaluating all options with No. 1 draft\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/orlando-still-evaluating-all-options-with-no-1-draft-pick/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/orlando-still-evaluating-all-options-with-no-1-draft-pick/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/on-golf-us-open-a-reminder-of-what-really-matters-in-golf/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tOn Golf: US Open a reminder of what really matters\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/on-golf-us-open-a-reminder-of-what-really-matters-in-golf/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/on-golf-us-open-a-reminder-of-what-really-matters-in-golf/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/hamiltons-raised-mercedes-bounces-champ-to-needed-podium/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHamilton\u2019s raised Mercedes bounces champ to needed\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/hamiltons-raised-mercedes-bounces-champ-to-needed-podium/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/sports/hamiltons-raised-mercedes-bounces-champ-to-needed-podium/"
-    },
-    {
-      "text": "Live",
-      "url": "https://www.cbs17.com/live/"
-    },
-    {
-      "text": "Live newscasts",
-      "url": "https://www.cbs17.com/live/"
-    },
-    {
-      "text": "Live Events",
-      "url": "https://www.cbs17.com/live-events/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://nxslink.cbs17.com/join/6sd/signup"
-    },
-    {
-      "text": "My Carolina",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "Highlighting COVID-19 Heroes",
-      "url": "https://www.cbs17.com/highlighting-heroes-north-carolina-workers-on-frontline-of-covid-19/"
-    },
-    {
-      "text": "CBS 17 Cares \u2013 First Responders",
-      "url": "https://www.cbs17.com/about-us/first-responders/"
-    },
-    {
-      "text": "Contests",
-      "url": "https://www.cbs17.com/contests/"
-    },
-    {
-      "text": "Carolina Business",
-      "url": "https://www.cbs17.com/my-carolina/carolina-business/"
-    },
-    {
-      "text": "Job Alert",
-      "url": "https://www.cbs17.com/jobs/"
-    },
-    {
-      "text": "Post a Job",
-      "url": "https://www.ziprecruiter.com/wncn"
-    },
-    {
-      "text": "About Us",
-      "url": "https://www.cbs17.com/about-us/"
-    },
-    {
-      "text": "Remarkable Women Finalists",
-      "url": "https://www.cbs17.com/remarkable-women/"
-    },
-    {
-      "text": "Newsletter email signup",
-      "url": "https://nxslink.cbs17.com/join/6sd/signup"
-    },
-    {
-      "text": "CBS 17 News app",
-      "url": "https://www.cbs17.com/apps"
-    },
-    {
-      "text": "Regional News Partners",
-      "url": "https://www.cbs17.com/regional-news-partners/"
-    },
-    {
-      "text": "Meet the CBS 17 team",
-      "url": "https://www.cbs17.com/meet-the-cbs-17-team/"
-    },
-    {
-      "text": "TV Schedule",
-      "url": "https://www.cbs17.com/tv-schedule/"
-    },
-    {
-      "text": "Rescan",
-      "url": "https://www.cbs17.com/rescan/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.cbs17.com/contact-us/"
-    },
-    {
-      "text": "Work With Us",
-      "url": "https://www.cbs17.com/work-for-us/"
-    },
-    {
-      "text": "Contests",
-      "url": "https://www.cbs17.com/cbs-17-contests/"
-    },
-    {
-      "text": "Viewer Feedback Panel",
-      "url": "https://www.cbs17.com/viewer-feedback-panel/"
-    },
-    {
-      "text": "Advertise with CBS 17",
-      "url": "https://www.cbs17.com/advertise-with-cbs-17/"
-    },
-    {
-      "text": "Got a tip?",
-      "url": "https://www.cbs17.com/got-a-tip/"
-    },
-    {
-      "text": "Do Not Sell My Personal Information",
-      "url": "#"
-    },
-    {
-      "text": "About BestReviews",
-      "url": "https://www.cbs17.com/about-bestreviews/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "Remarkable Women Finalists",
-      "url": "https://www.cbs17.com/remarkable-women/"
-    },
-    {
-      "text": "Local News That Matters",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "Wake County News",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/"
-    },
-    {
-      "text": "North Carolina News",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "Around the South",
-      "url": "https://www.cbs17.com/news/south/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "Russia and Ukraine War",
-      "url": "https://www.newsnationnow.com/world/ukraine-crisis/"
-    },
-    {
-      "text": "BestReviews",
-      "url": "https://www.cbs17.com/reviews/br/"
-    },
-    {
-      "text": "BestReviews Daily Deals",
-      "url": "https://products.bestreviews.com/best-deals/"
-    },
-    {
-      "text": "Investigators",
-      "url": "https://www.cbs17.com/news/investigators/"
-    },
-    {
-      "text": "Local Matters",
-      "url": "https://www.cbs17.com/local-matters/"
-    },
-    {
-      "text": "Your Local Election HQ",
-      "url": "https://www.cbs17.com/news/your-local-election-hq/"
-    },
-    {
-      "text": "Washington Bureau",
-      "url": "https://www.cbs17.com/news/washington-dc/"
-    },
-    {
-      "text": "Capitol Report",
-      "url": "https://www.cbs17.com/capitol-report/"
-    },
-    {
-      "text": "Political News",
-      "url": "https://www.cbs17.com/news/political-news/"
-    },
-    {
-      "text": "CBS 17 News Political Pledge",
-      "url": "https://www.cbs17.com/cbs-17-news-political-pledge/"
-    },
-    {
-      "text": "Driving You Crazy",
-      "url": "https://www.cbs17.com/news/driving-you-crazy/"
-    },
-    {
-      "text": "Digital stories",
-      "url": "https://www.cbs17.com/digital-stories/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.cbs17.com/entertainment-news/"
-    },
-    {
-      "text": "Automotive News",
-      "url": "https://www.cbs17.com/automotive/"
-    },
-    {
-      "text": "Check This Out",
-      "url": "https://www.cbs17.com/news/check-this-out/"
-    },
-    {
-      "text": "Press Releases",
-      "url": "https://cbs17.com/business/press-releases/"
-    },
-    {
-      "text": "COVID-19 in NC",
-      "url": "https://www.cbs17.com/community/health/coronavirus/"
-    },
-    {
-      "text": "COVID-19 and schools",
-      "url": "https://www.cbs17.com/covid-19-and-schools-2/"
-    },
-    {
-      "text": "Job Alert",
-      "url": "https://www.cbs17.com/job-alert/"
-    },
-    {
-      "text": "Weather",
-      "url": "https://www.cbs17.com/weather/"
-    },
-    {
-      "text": "Forecast",
-      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
-    },
-    {
-      "text": "Weather Beast",
-      "url": "https://www.cbs17.com/weather-beast/"
-    },
-    {
-      "text": "Interactive Radar",
-      "url": "https://www.cbs17.com/weather/radar/"
-    },
-    {
-      "text": "10-Day forecast",
-      "url": "https://www.cbs17.com/weather/10-day-forecast/"
-    },
-    {
-      "text": "Raleigh Weather Hourly Forecast",
-      "url": "https://www.cbs17.com/weather/hourly-forecast/"
-    },
-    {
-      "text": "CBS 17 Live Raleigh Weather Views",
-      "url": "https://www.cbs17.com/weather/live-views/"
-    },
-    {
-      "text": "Raleigh traffic & live coverage",
-      "url": "https://www.cbs17.com/traffic/"
-    },
-    {
-      "text": "Tracking the Tropics",
-      "url": "https://www.cbs17.com/weather/tracking-the-tropics-digital-show/"
-    },
-    {
-      "text": "Fur-cast videos",
-      "url": "https://www.cbs17.com/fur-cast-videos/"
-    },
-    {
-      "text": "School visits",
-      "url": "https://www.cbs17.com/cbs-17-storm-team-school-visits/"
-    },
-    {
-      "text": "3-Degree Guarantee",
-      "url": "https://www.cbs17.com/3-degree-guarantee/"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.cbs17.com/video/"
-    },
-    {
-      "text": "Live newscasts",
-      "url": "https://www.cbs17.com/live/"
-    },
-    {
-      "text": "Live Events",
-      "url": "https://www.cbs17.com/live-events/"
-    },
-    {
-      "text": "Latest Video",
-      "url": "https://www.cbs17.com/video/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.cbs17.com/sports/"
-    },
-    {
-      "text": "Duke",
-      "url": "https://www.cbs17.com/sports/duke/"
-    },
-    {
-      "text": "NC State",
-      "url": "https://www.cbs17.com/sports/nc-state/"
-    },
-    {
-      "text": "UNC",
-      "url": "https://www.cbs17.com/sports/unc/"
-    },
-    {
-      "text": "Carolina Hurricanes",
-      "url": "https://www.cbs17.com/sports/carolina-hurricanes/"
-    },
-    {
-      "text": "Carolina Panthers",
-      "url": "https://www.cbs17.com/sports/carolina-panthers/"
-    },
-    {
-      "text": "Big Race \u2013 Indy",
-      "url": "https://www.cbs17.com/sports/big-race-indy/"
-    },
-    {
-      "text": "NFL Draft",
-      "url": "https://www.cbs17.com/sports/nfl-draft/"
-    },
-    {
-      "text": "The Blitz",
-      "url": "https://www.cbs17.com/sports/the-blitz/"
-    },
-    {
-      "text": "Live",
-      "url": "https://www.cbs17.com/live/"
-    },
-    {
-      "text": "Live newscasts",
-      "url": "https://www.cbs17.com/live/"
-    },
-    {
-      "text": "Live Events",
-      "url": "https://www.cbs17.com/live-events/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://nxslink.cbs17.com/join/6sd/signup"
-    },
-    {
-      "text": "My Carolina",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "Highlighting COVID-19 Heroes",
-      "url": "https://www.cbs17.com/highlighting-heroes-north-carolina-workers-on-frontline-of-covid-19/"
-    },
-    {
-      "text": "CBS 17 Cares \u2013 First Responders",
-      "url": "https://www.cbs17.com/about-us/first-responders/"
-    },
-    {
-      "text": "Contests",
-      "url": "https://www.cbs17.com/contests/"
-    },
-    {
-      "text": "Carolina Business",
-      "url": "https://www.cbs17.com/my-carolina/carolina-business/"
-    },
-    {
-      "text": "Job Alert",
-      "url": "https://www.cbs17.com/jobs/"
-    },
-    {
-      "text": "Post a Job",
-      "url": "https://www.ziprecruiter.com/wncn"
-    },
-    {
-      "text": "About Us",
-      "url": "https://www.cbs17.com/about-us/"
-    },
-    {
-      "text": "Remarkable Women Finalists",
-      "url": "https://www.cbs17.com/remarkable-women/"
-    },
-    {
-      "text": "Newsletter email signup",
-      "url": "https://nxslink.cbs17.com/join/6sd/signup"
-    },
-    {
-      "text": "CBS 17 News app",
-      "url": "https://www.cbs17.com/apps"
-    },
-    {
-      "text": "Regional News Partners",
-      "url": "https://www.cbs17.com/regional-news-partners/"
-    },
-    {
-      "text": "Meet the CBS 17 team",
-      "url": "https://www.cbs17.com/meet-the-cbs-17-team/"
-    },
-    {
-      "text": "TV Schedule",
-      "url": "https://www.cbs17.com/tv-schedule/"
-    },
-    {
-      "text": "Rescan",
-      "url": "https://www.cbs17.com/rescan/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.cbs17.com/contact-us/"
-    },
-    {
-      "text": "Work With Us",
-      "url": "https://www.cbs17.com/work-for-us/"
-    },
-    {
-      "text": "Contests",
-      "url": "https://www.cbs17.com/cbs-17-contests/"
-    },
-    {
-      "text": "Viewer Feedback Panel",
-      "url": "https://www.cbs17.com/viewer-feedback-panel/"
-    },
-    {
-      "text": "Advertise with CBS 17",
-      "url": "https://www.cbs17.com/advertise-with-cbs-17/"
-    },
-    {
-      "text": "Got a tip?",
-      "url": "https://www.cbs17.com/got-a-tip/"
-    },
-    {
-      "text": "Do Not Sell My Personal Information",
-      "url": "#"
-    },
-    {
-      "text": "About BestReviews",
-      "url": "https://www.cbs17.com/about-bestreviews/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tTop Story\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tFort Bragg soldier hit, killed by vehicle on I-95\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/1-person-severely-injured-after-goldsboro-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t1 person severely injured after Goldsboro shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/1-person-severely-injured-after-goldsboro-shooting/"
-    },
-    {
-      "text": "Local News",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/1-person-severely-injured-after-goldsboro-shooting/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/governor-cooper-tests-positive-for-covid-19/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tGov. Cooper tests positive for COVID-19\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/governor-cooper-tests-positive-for-covid-19/"
-    },
-    {
-      "text": "North Carolina news",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/governor-cooper-tests-positive-for-covid-19/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-children-5-and-under-can-get-covid-19-vaccines-starting-june-20/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tCOVID vaccines start Monday for NC kids 5 and under\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-children-5-and-under-can-get-covid-19-vaccines-starting-june-20/"
-    },
-    {
-      "text": "North Carolina news",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-children-5-and-under-can-get-covid-19-vaccines-starting-june-20/"
-    },
-    {
-      "text": "\n\t\t\n\t\tMore Top Stories\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/franklin-co-cancels-4th-of-july-fireworks-impacted-by-deadly-lenoir-co-fire/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tFranklin Co. cancels 4th of July fireworks; impacted\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/franklin-co-cancels-4th-of-july-fireworks-impacted-by-deadly-lenoir-co-fire/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/franklin-co-cancels-4th-of-july-fireworks-impacted-by-deadly-lenoir-co-fire/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/crime-tracker/woman-arrested-charged-for-goldsboro-car-theft-police/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWoman arrested, charged for Goldsboro car theft:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/crime-tracker/woman-arrested-charged-for-goldsboro-car-theft-police/"
-    },
-    {
-      "text": "Crime tracker",
-      "url": "https://www.cbs17.com/crime-tracker/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/crime-tracker/woman-arrested-charged-for-goldsboro-car-theft-police/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/man-killed-in-deadly-fayetteville-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWoman detained; police ID man killed in Fayetteville\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/man-killed-in-deadly-fayetteville-shooting/"
-    },
-    {
-      "text": "Cumberland County News",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/man-killed-in-deadly-fayetteville-shooting/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tTurning up the heat after today\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
-    },
-    {
-      "text": "Weather",
-      "url": "https://www.cbs17.com/weather/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/weather/cbs17-storm-team-forecast/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/woman-critically-injured-in-2nd-front-porch-shooting-in-goldsboro-in-2-days-man-also-injured-police-say/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t2nd woman shot while on a front porch in Goldsboro:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/woman-critically-injured-in-2nd-front-porch-shooting-in-goldsboro-in-2-days-man-also-injured-police-say/"
-    },
-    {
-      "text": "Wayne County News",
-      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wayne-county-news/woman-critically-injured-in-2nd-front-porch-shooting-in-goldsboro-in-2-days-man-also-injured-police-say/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/2-women-stabbed-during-altercation-between-women-in-durham-police-say/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t2 women stabbed during \u2018altercation\u2019 in Durham: police\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/2-women-stabbed-during-altercation-between-women-in-durham-police-say/"
-    },
-    {
-      "text": "Durham County News",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/durham-county-news/2-women-stabbed-during-altercation-between-women-in-durham-police-say/"
-    },
-    {
-      "text": "10-day forecast",
-      "url": "https://www.cbs17.com/weather/10-day-forecast/"
-    },
-    {
-      "text": "Watch latest newscast",
-      "url": "https://www.cbs17.com/live/"
-    },
-    {
-      "text": "Newsletter signup",
-      "url": "https://nxslink.cbs17.com/join/6sd/signup"
-    },
-    {
-      "text": "Links and mentions",
-      "url": "https://www.cbs17.com/as-seen-on-tv-links-and-mentions/"
-    },
-    {
-      "text": "Close",
-      "url": "#sailthru-signup-widget"
-    },
-    {
-      "text": "",
-      "url": "https://www.cbs17.com/cbs-17-votes/"
-    },
-    {
-      "text": "\n\t\t\n\t\tLocal News\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/more-than-a-mortgage-raleigh-rent-prices-keep-increasing-wheres-the-relief/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tRaleigh rent prices keep increasing, where\u2019s the\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/more-than-a-mortgage-raleigh-rent-prices-keep-increasing-wheres-the-relief/"
-    },
-    {
-      "text": "Wake County News",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/more-than-a-mortgage-raleigh-rent-prices-keep-increasing-wheres-the-relief/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tFort Bragg soldier hit, killed by vehicle on I-95\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/fayetteville-state-library-using-20k-grant-to-create-technology-lending-program/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tFSU library using $20K grant to create new program\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/fayetteville-state-library-using-20k-grant-to-create-technology-lending-program/"
-    },
-    {
-      "text": "Local News",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/fayetteville-state-library-using-20k-grant-to-create-technology-lending-program/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/chapel-hill-transit-renames-headquarters-after-former-mayor-wife/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tChapel Hill Transit renames headquarters after former\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/chapel-hill-transit-renames-headquarters-after-former-mayor-wife/"
-    },
-    {
-      "text": "Local News",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/chapel-hill-transit-renames-headquarters-after-former-mayor-wife/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/1-person-severely-injured-after-goldsboro-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t1 person severely injured after Goldsboro shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/1-person-severely-injured-after-goldsboro-shooting/"
-    },
-    {
-      "text": "Local News",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/1-person-severely-injured-after-goldsboro-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\tView All Local News\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\tNorth Carolina news\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/which-fireworks-are-legal-in-nc-and-can-i-bring-them-to-or-from-va-or-sc/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWhich fireworks are legal in North Carolina?\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/which-fireworks-are-legal-in-nc-and-can-i-bring-them-to-or-from-va-or-sc/"
-    },
-    {
-      "text": "North Carolina news",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/which-fireworks-are-legal-in-nc-and-can-i-bring-them-to-or-from-va-or-sc/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/9-arrested-24-lbs-of-meth-seized-in-nc-drug-trafficking-operation/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t9 arrested, 24 pounds of meth seized in NC\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/9-arrested-24-lbs-of-meth-seized-in-nc-drug-trafficking-operation/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/9-arrested-24-lbs-of-meth-seized-in-nc-drug-trafficking-operation/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/top-republican-shows-support-for-slashing-income-tax-rate-polling-on-bills-stalled-in-state-house/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tTop Republican shows support for slashing income\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/top-republican-shows-support-for-slashing-income-tax-rate-polling-on-bills-stalled-in-state-house/"
-    },
-    {
-      "text": "North Carolina news",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/top-republican-shows-support-for-slashing-income-tax-rate-polling-on-bills-stalled-in-state-house/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/first-shipments-of-covid-vaccine-for-kids-6-months-reach-north-carolina/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tCOVID vaccine for kids 6 months+ reach NC\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/first-shipments-of-covid-vaccine-for-kids-6-months-reach-north-carolina/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/first-shipments-of-covid-vaccine-for-kids-6-months-reach-north-carolina/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/how-do-you-know-if-your-covid-vaccine-is-still-working-this-new-test-could-tell-you/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHow do you know if your COVID vaccine is still working?\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/how-do-you-know-if-your-covid-vaccine-is-still-working-this-new-test-could-tell-you/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.cbs17.com/community/health/coronavirus/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/how-do-you-know-if-your-covid-vaccine-is-still-working-this-new-test-could-tell-you/"
-    },
-    {
-      "text": "\n\t\t\t\tView All North Carolina news\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\tNational News\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/explainer-what-is-title-ix-and-what-impact-has-it-had/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tEXPLAINER: What is Title IX and what impact has it\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/explainer-what-is-title-ix-and-what-impact-has-it-had/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/explainer-what-is-title-ix-and-what-impact-has-it-had/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/trump-lawyer-john-eastman-no-longer-member-of-american-political-science-association/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tTrump lawyer no longer member of national org.\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/trump-lawyer-john-eastman-no-longer-member-of-american-political-science-association/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/trump-lawyer-john-eastman-no-longer-member-of-american-political-science-association/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/massive-heat-dome-to-bring-extra-hot-weather-to-nearly-every-state/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tMassive heat dome to take over US\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/massive-heat-dome-to-bring-extra-hot-weather-to-nearly-every-state/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/massive-heat-dome-to-bring-extra-hot-weather-to-nearly-every-state/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/john-cena-grants-record-650-wishes-with-make-a-wish/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tThis celebrity holds Make-A-Wish record\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/john-cena-grants-record-650-wishes-with-make-a-wish/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/john-cena-grants-record-650-wishes-with-make-a-wish/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/sports/college-sports/college-basketball-player-shot-and-killed-in-new-york-city-8-others-wounded/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHouston Baptist basketball player fatally shot in\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/college-sports/college-basketball-player-shot-and-killed-in-new-york-city-8-others-wounded/"
-    },
-    {
-      "text": "College Sports",
-      "url": "https://www.cbs17.com/sports/college-sports/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/sports/college-sports/college-basketball-player-shot-and-killed-in-new-york-city-8-others-wounded/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/covid-vaccinations-start-for-youngest-us-kids/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tCOVID vaccinations start for youngest US kids\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/covid-vaccinations-start-for-youngest-us-kids/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/covid-vaccinations-start-for-youngest-us-kids/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/national-news/worlds-largest-recorded-freshwater-fish-caught-in-cambodia/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tFish is world\u2019s largest recorded freshwater catch\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/worlds-largest-recorded-freshwater-fish-caught-in-cambodia/"
-    },
-    {
-      "text": "National News",
-      "url": "https://www.cbs17.com/news/national-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/national-news/worlds-largest-recorded-freshwater-fish-caught-in-cambodia/"
-    },
-    {
-      "text": "\n\t\t\n\t\tDigital stories\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/digital-stories/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/how-do-you-know-if-your-covid-vaccine-is-still-working-this-new-test-could-tell-you/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHow do you know if your COVID vaccine is still working?\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/how-do-you-know-if-your-covid-vaccine-is-still-working-this-new-test-could-tell-you/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.cbs17.com/community/health/coronavirus/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/community/health/coronavirus/how-do-you-know-if-your-covid-vaccine-is-still-working-this-new-test-could-tell-you/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/digital-stories/most-common-side-effects-for-covid-19-vaccines-in-younger-kids/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tMost common side effects for COVID-19 vaccines in\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/digital-stories/most-common-side-effects-for-covid-19-vaccines-in-younger-kids/"
-    },
-    {
-      "text": "Digital stories",
-      "url": "https://www.cbs17.com/digital-stories/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/digital-stories/most-common-side-effects-for-covid-19-vaccines-in-younger-kids/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-couple-headed-to-hawaii-after-winning-330k-lottery-prize/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNC couple turns $1 lottery ticket into Hawaii trip\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-couple-headed-to-hawaii-after-winning-330k-lottery-prize/"
-    },
-    {
-      "text": "North Carolina news",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-couple-headed-to-hawaii-after-winning-330k-lottery-prize/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/mortgage-rates-up-but-triangle-housing-market-has-bigger-issue/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNC home supply a bigger issue than mortgage rate\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/mortgage-rates-up-but-triangle-housing-market-has-bigger-issue/"
-    },
-    {
-      "text": "Local News",
-      "url": "https://www.cbs17.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/mortgage-rates-up-but-triangle-housing-market-has-bigger-issue/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/are-you-ready-to-catch-covid-again-1-in-9-cases-in-june-is-a-reinfection/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tAre you ready to catch COVID a second time?\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/are-you-ready-to-catch-covid-again-1-in-9-cases-in-june-is-a-reinfection/"
-    },
-    {
-      "text": "North Carolina news",
-      "url": "https://www.cbs17.com/news/north-carolina-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/are-you-ready-to-catch-covid-again-1-in-9-cases-in-june-is-a-reinfection/"
-    },
-    {
-      "text": "\n\t\t\t\tView All Digital stories\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/digital-stories/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\u00a0\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.newsnationnow.com/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tBusiness\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/business/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/business/sams-club-slashes-memberships-down-to-8-for-limited-time/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSam\u2019s Club slashes memberships down to $8 for limited\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/business/sams-club-slashes-memberships-down-to-8-for-limited-time/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/business/sams-club-slashes-memberships-down-to-8-for-limited-time/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tMidwest\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/midwest/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/us-news/midwest/men-charged-after-missouri-house-explosion-kills-4/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tMen charged after Missouri house explosion kills\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/midwest/men-charged-after-missouri-house-explosion-kills-4/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/midwest/men-charged-after-missouri-house-explosion-kills-4/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tMorning In America\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/morninginamerica/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/morninginamerica/mother-remembers-slain-el-monte-officer-blames-da/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tMother remembers slain California officer, blames\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/morninginamerica/mother-remembers-slain-el-monte-officer-blames-da/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/morninginamerica/mother-remembers-slain-el-monte-officer-blames-da/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tU.S.\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/us-news/fbi-seeking-disguise-master-in-womans-disappearance/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tFBI seeking disguise master in woman\u2019s disappearance\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/fbi-seeking-disguise-master-in-womans-disappearance/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/fbi-seeking-disguise-master-in-womans-disappearance/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tMorning In America\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/morninginamerica/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/morninginamerica/scotus-security-heightened-ahead-of-roe-v-wade-decision/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSCOTUS security heightened ahead of Roe v. Wade decision\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/morninginamerica/scotus-security-heightened-ahead-of-roe-v-wade-decision/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/morninginamerica/scotus-security-heightened-ahead-of-roe-v-wade-decision/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tMid-South\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/mid-south/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/us-news/mid-south/2-former-mizzou-fraternity-members-charged-in-hazing-case/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t2 former Mizzou fraternity members charged in hazing\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/mid-south/2-former-mizzou-fraternity-members-charged-in-hazing-case/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/mid-south/2-former-mizzou-fraternity-members-charged-in-hazing-case/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\tFind out how you can watch\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/?utm_campaign=NewsNation-trending-now&utm_source=cbs17.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "",
-      "url": "https://www.cbs17.com/news/cbs-17-adds-4-p-m-newscast-young-restless-to-air-earlier/"
-    },
-    {
-      "text": "\n\n\n\n",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-mens-health-support-at-pine-lake-medical-clinic-2/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSponsored Content: Men\u2019s Health Support at Pine Lake\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-mens-health-support-at-pine-lake-medical-clinic-2/"
-    },
-    {
-      "text": "My Carolina",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-mens-health-support-at-pine-lake-medical-clinic-2/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-check-out-the-ford-bronco-test-drive-at-crossroads-ford-wake-forest/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSponsored Content: Check out the Ford Bronco! Test\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-check-out-the-ford-bronco-test-drive-at-crossroads-ford-wake-forest/"
-    },
-    {
-      "text": "My Carolina",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-check-out-the-ford-bronco-test-drive-at-crossroads-ford-wake-forest/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-neighborly-connecting-homeowners-to-the-best-services/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSponsored Content: Neighborly, Connecting Homeowners\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-neighborly-connecting-homeowners-to-the-best-services/"
-    },
-    {
-      "text": "My Carolina",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-neighborly-connecting-homeowners-to-the-best-services/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-spruce-up-your-home-with-the-coley-group/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSponsored Content: The Real Estate Rundown with the\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-spruce-up-your-home-with-the-coley-group/"
-    },
-    {
-      "text": "My Carolina",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-spruce-up-your-home-with-the-coley-group/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-summer-fun-at-the-h2o-bx-waterpark/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSponsored Content: Summer Fun at the H2O BX Waterpark\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-summer-fun-at-the-h2o-bx-waterpark/"
-    },
-    {
-      "text": "My Carolina",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/sponsored-content-summer-fun-at-the-h2o-bx-waterpark/"
-    },
-    {
-      "text": "\n\t\t\t\tView All My Carolina\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/my-carolina/"
-    },
-    {
-      "text": "\n\t\t\n\t\tBestReviews\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/electronics-br/computer-accessories-peripherals-br/best-logitech-wireless-keyboard/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBest Logitech wireless keyboard\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/electronics-br/computer-accessories-peripherals-br/best-logitech-wireless-keyboard/"
-    },
-    {
-      "text": "Computer Accessories & Peripherals",
-      "url": "https://www.cbs17.com/reviews/br/electronics-br/computer-accessories-peripherals-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/electronics-br/computer-accessories-peripherals-br/best-logitech-wireless-keyboard/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/how-to-choose-the-best-pool-toys-for-kids/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHow to choose the best pool toys for kids\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/how-to-choose-the-best-pool-toys-for-kids/"
-    },
-    {
-      "text": "Reviews",
-      "url": "https://www.cbs17.com/reviews/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/how-to-choose-the-best-pool-toys-for-kids/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/entertaining-br/best-stoneware-dinner-set/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBest stoneware dinner set\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/entertaining-br/best-stoneware-dinner-set/"
-    },
-    {
-      "text": "Entertaining",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/entertaining-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/entertaining-br/best-stoneware-dinner-set/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/shoes-br/casual-br/best-white-nike-shoes/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBest white Nike shoes\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/shoes-br/casual-br/best-white-nike-shoes/"
-    },
-    {
-      "text": "Casual",
-      "url": "https://www.cbs17.com/reviews/br/shoes-br/casual-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/shoes-br/casual-br/best-white-nike-shoes/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/sports-fitness-br/golf-br/best-under-armour-golf-pants/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBest Under Armour golf pants\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/sports-fitness-br/golf-br/best-under-armour-golf-pants/"
-    },
-    {
-      "text": "Golf",
-      "url": "https://www.cbs17.com/reviews/br/sports-fitness-br/golf-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/sports-fitness-br/golf-br/best-under-armour-golf-pants/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cookware-br/best-electric-roasting-pan/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBest electric roasting pan\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cookware-br/best-electric-roasting-pan/"
-    },
-    {
-      "text": "Cookware",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cookware-br/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/kitchen-br/cookware-br/best-electric-roasting-pan/"
-    },
-    {
-      "text": "\n\t\t\t\tMore reviews\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/reviews/br/"
-    },
-    {
-      "text": "\n\t\t\n\t\tLatest video\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/video/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/video/watch-dog-turns-on-stovetop-starts-fire-in-home/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWATCH: Dog turns on stovetop, starts house fire\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/video/watch-dog-turns-on-stovetop-starts-fire-in-home/"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.cbs17.com/video/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/video/watch-dog-turns-on-stovetop-starts-fire-in-home/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/triangle-teacher-and-family-of-holocaust-survivor-keep-his-message-alive/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tHolocaust survivor\u2019s Raleigh family keeps message\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/triangle-teacher-and-family-of-holocaust-survivor-keep-his-message-alive/"
-    },
-    {
-      "text": "Wake County News",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/triangle-teacher-and-family-of-holocaust-survivor-keep-his-message-alive/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/world-swimming-bans-transgender-athletes-from-womens-events/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWorld swimming bans trans athletes from events\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/world-swimming-bans-transgender-athletes-from-womens-events/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/world-swimming-bans-transgender-athletes-from-womens-events/"
-    },
-    {
-      "text": "\n\t\t\t\tView All Video\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/video/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t\t\tMore Videos\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/video"
-    },
-    {
-      "text": "\n\t\t\n\t\tTrending Stories\n\t\t\t\t\t",
-      "url": "https://www.cbs17.com/whats-trending-on-cbs17-com/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tFort Bragg soldier hit, killed by vehicle on I-95\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/fort-bragg-soldier-hit-killed-by-vehicle-on-i-95/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-driver-wrecks-after-gunshots-fired-into-car-along-i-40-in-broad-daylight/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNC driver wrecks on I-40 as gunshots fired into car\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-driver-wrecks-after-gunshots-fired-into-car-along-i-40-in-broad-daylight/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-driver-wrecks-after-gunshots-fired-into-car-along-i-40-in-broad-daylight/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/crime-tracker/woman-arrested-charged-for-goldsboro-car-theft-police/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWoman arrested, charged for Goldsboro car theft:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/crime-tracker/woman-arrested-charged-for-goldsboro-car-theft-police/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/crime-tracker/woman-arrested-charged-for-goldsboro-car-theft-police/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-pizza-chain-paid-workers-1-19-an-hour-dol/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNC pizza chain paid workers just $1.19 an hour: officials\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-pizza-chain-paid-workers-1-19-an-hour-dol/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/nc-pizza-chain-paid-workers-1-19-an-hour-dol/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/more-than-a-mortgage-raleigh-rent-prices-keep-increasing-wheres-the-relief/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tRaleigh rent prices keep increasing, where\u2019s the\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/more-than-a-mortgage-raleigh-rent-prices-keep-increasing-wheres-the-relief/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/wake-county-news/more-than-a-mortgage-raleigh-rent-prices-keep-increasing-wheres-the-relief/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/top-republican-shows-support-for-slashing-income-tax-rate-polling-on-bills-stalled-in-state-house/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tTop Republican shows support for slashing income\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/top-republican-shows-support-for-slashing-income-tax-rate-polling-on-bills-stalled-in-state-house/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/north-carolina-news/top-republican-shows-support-for-slashing-income-tax-rate-polling-on-bills-stalled-in-state-house/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.cbs17.com/news/local-news/1-person-severely-injured-after-goldsboro-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t1 person severely injured after Goldsboro shooting:\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/1-person-severely-injured-after-goldsboro-shooting/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://www.cbs17.com/news/local-news/1-person-severely-injured-after-goldsboro-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\tClick here for full list of trending stories\n\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/whats-trending-on-cbs17-com/"
-    },
-    {
-      "text": "",
-      "url": "https://products.bestreviews.com/best-deals/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t",
-      "url": "https://www.cbs17.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
-      "url": "https://www.facebook.com/WNCNTV/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
-      "url": "https://www.twitter.com/wncn/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
-      "url": "https://www.instagram.com/wncntv/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
-      "url": "https://www.youtube.com/channel/UC1dVGItBqV4w-4xQHoX1UDg"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
-      "url": "https://www.cbs17.com/app-feed/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
-      "url": "mailto:NewsDesk-WNCN@nexstar.tv"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tGet the iOS app\n\t\t\t\t\t",
-      "url": "https://apps.apple.com/us/app/wncn-news-raleigh-durham/id425414520"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tGet the Android app from Google Play\n\t\t\t\t\t",
-      "url": "https://play.google.com/store/apps/details?id=com.nexstar.id3569new"
-    },
-    {
-      "text": "News",
-      "url": "https://www.cbs17.com/news/"
-    },
-    {
-      "text": "Weather",
-      "url": "https://www.cbs17.com/weather/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.cbs17.com/sports/"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.cbs17.com/video/"
-    },
-    {
-      "text": "NewsNation Now",
-      "url": "https://newsnationnow.com"
-    },
-    {
-      "text": "Meet the CBS 17 team",
-      "url": "https://www.cbs17.com/meet-the-cbs-17-team/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tContact Us\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/contact-us/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tFCC Public File\t\t\t\t\t\t\t",
-      "url": "https://publicfiles.fcc.gov/tv-profile/WNCN"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tNexstar CC Certification\t\t\t\t\t\t\t",
-      "url": "https://media.cbs17.com/nxsglobal/global/theme/NexstarCCCertification.pdf"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tEEO Report\t\t\t\t\t\t\t",
-      "url": "https://publicfiles.fcc.gov/tv-profile/WNCN/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/3ce6644e-d12c-b6a2-b563-5fb4c1a2f568/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tChildren's programming\t\t\t\t\t\t\t",
-      "url": "https://publicfiles.fcc.gov/tv-profile/WNCN"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tPrivacy Policy\t\t\t\t\t\t\t",
-      "url": "https://www.nexstar.tv/privacy-policy/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tTerms Of Use\t\t\t\t\t\t\t",
-      "url": "https://www.nexstar.tv/terms-of-use/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tCovers\t\t\t\t\t\t\t",
-      "url": "https://www.covers.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tBest Reviews\t\t\t\t\t\t\t",
-      "url": "https://bestreviews.com/"
-    },
-    {
-      "text": "Do Not Sell My Personal Information",
-      "url": "#"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tFCC Applications\t\t\t\t\t\t\t",
-      "url": "https://www.nexstar.tv/fcc-applications/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tPublic File Assistance Contact\t\t\t\t\t\t\t",
-      "url": "https://www.cbs17.com/contact-us"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.nexstar.tv"
-    }
-  ],
+  "server": "ia802503.us.archive.org",
+  "uniq": 924819074,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

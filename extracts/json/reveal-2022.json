@@ -1,5 +1,5 @@
 {
-  "created": 1655770853,
+  "created": 1656030181,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/3/items/reveal-2022",
@@ -310,31 +310,471 @@
       "sha1": "5062188213e0555616432cad763e7fe951daae65"
     },
     {
+      "name": "reveal-2022-06-20T18:37:01.149732-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655775424",
+      "size": "20952",
+      "md5": "31272527d20d25e503e9471d6654b206",
+      "crc32": "44c6e3f7",
+      "sha1": "a7f9fc20e11604246b4f63f07d4f9153d04ee1f1",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-20T18:37:01.149732-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655775427",
+      "size": "25110",
+      "md5": "84e575701ea14eece3bb7a027abc47fa",
+      "crc32": "7106cc66",
+      "sha1": "dea309f23dbd238e127f20ff03542cbb49ca9771",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-20T18:37:01.149732-07:00.jpg",
+      "source": "original",
+      "mtime": "1655775422",
+      "size": "190636",
+      "md5": "1295cf82014b7cda32ee1a7bea1aeb65",
+      "crc32": "45e40244",
+      "sha1": "e882572faead88cff8591e142643e4a5c9bf360f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-20T18:37:01.149732-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-20T18:37:01.149732-07:00.jpg",
+      "mtime": "1655775480",
+      "size": "9459",
+      "md5": "14416730904c2ebb64a0780485ead332",
+      "crc32": "2e0583c0",
+      "sha1": "5062188213e0555616432cad763e7fe951daae65"
+    },
+    {
+      "name": "reveal-2022-06-20T22:28:58.102712-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655789342",
+      "size": "20952",
+      "md5": "31272527d20d25e503e9471d6654b206",
+      "crc32": "44c6e3f7",
+      "sha1": "a7f9fc20e11604246b4f63f07d4f9153d04ee1f1",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-20T22:28:58.102712-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655789344",
+      "size": "25110",
+      "md5": "84e575701ea14eece3bb7a027abc47fa",
+      "crc32": "7106cc66",
+      "sha1": "dea309f23dbd238e127f20ff03542cbb49ca9771",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-20T22:28:58.102712-07:00.jpg",
+      "source": "original",
+      "mtime": "1655789340",
+      "size": "190636",
+      "md5": "1295cf82014b7cda32ee1a7bea1aeb65",
+      "crc32": "45e40244",
+      "sha1": "e882572faead88cff8591e142643e4a5c9bf360f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-20T22:28:58.102712-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-20T22:28:58.102712-07:00.jpg",
+      "mtime": "1655789412",
+      "size": "9459",
+      "md5": "14416730904c2ebb64a0780485ead332",
+      "crc32": "2e0583c0",
+      "sha1": "5062188213e0555616432cad763e7fe951daae65"
+    },
+    {
+      "name": "reveal-2022-06-21T05:31:16.934301-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655814680",
+      "size": "20952",
+      "md5": "31272527d20d25e503e9471d6654b206",
+      "crc32": "44c6e3f7",
+      "sha1": "a7f9fc20e11604246b4f63f07d4f9153d04ee1f1",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-21T05:31:16.934301-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655814682",
+      "size": "25110",
+      "md5": "84e575701ea14eece3bb7a027abc47fa",
+      "crc32": "7106cc66",
+      "sha1": "dea309f23dbd238e127f20ff03542cbb49ca9771",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-21T05:31:16.934301-07:00.jpg",
+      "source": "original",
+      "mtime": "1655814678",
+      "size": "190636",
+      "md5": "1295cf82014b7cda32ee1a7bea1aeb65",
+      "crc32": "45e40244",
+      "sha1": "e882572faead88cff8591e142643e4a5c9bf360f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-21T05:31:16.934301-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-21T05:31:16.934301-07:00.jpg",
+      "mtime": "1655814739",
+      "size": "9459",
+      "md5": "14416730904c2ebb64a0780485ead332",
+      "crc32": "2e0583c0",
+      "sha1": "5062188213e0555616432cad763e7fe951daae65"
+    },
+    {
+      "name": "reveal-2022-06-21T07:00:35.623523-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655820038",
+      "size": "20952",
+      "md5": "31272527d20d25e503e9471d6654b206",
+      "crc32": "44c6e3f7",
+      "sha1": "a7f9fc20e11604246b4f63f07d4f9153d04ee1f1",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-21T07:00:35.623523-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655820040",
+      "size": "25110",
+      "md5": "84e575701ea14eece3bb7a027abc47fa",
+      "crc32": "7106cc66",
+      "sha1": "dea309f23dbd238e127f20ff03542cbb49ca9771",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-21T07:00:35.623523-07:00.jpg",
+      "source": "original",
+      "mtime": "1655820037",
+      "size": "190636",
+      "md5": "1295cf82014b7cda32ee1a7bea1aeb65",
+      "crc32": "45e40244",
+      "sha1": "e882572faead88cff8591e142643e4a5c9bf360f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-21T07:00:35.623523-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-21T07:00:35.623523-07:00.jpg",
+      "mtime": "1655820125",
+      "size": "9459",
+      "md5": "14416730904c2ebb64a0780485ead332",
+      "crc32": "2e0583c0",
+      "sha1": "5062188213e0555616432cad763e7fe951daae65"
+    },
+    {
+      "name": "reveal-2022-06-21T10:17:42.199778-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655831871",
+      "size": "20952",
+      "md5": "31272527d20d25e503e9471d6654b206",
+      "crc32": "44c6e3f7",
+      "sha1": "a7f9fc20e11604246b4f63f07d4f9153d04ee1f1",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-21T10:17:42.199778-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655831873",
+      "size": "25110",
+      "md5": "84e575701ea14eece3bb7a027abc47fa",
+      "crc32": "7106cc66",
+      "sha1": "dea309f23dbd238e127f20ff03542cbb49ca9771",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-21T10:17:42.199778-07:00.jpg",
+      "source": "original",
+      "mtime": "1655831869",
+      "size": "190636",
+      "md5": "1295cf82014b7cda32ee1a7bea1aeb65",
+      "crc32": "45e40244",
+      "sha1": "e882572faead88cff8591e142643e4a5c9bf360f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-21T10:17:42.199778-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-21T10:17:42.199778-07:00.jpg",
+      "mtime": "1655831941",
+      "size": "9459",
+      "md5": "14416730904c2ebb64a0780485ead332",
+      "crc32": "2e0583c0",
+      "sha1": "5062188213e0555616432cad763e7fe951daae65"
+    },
+    {
+      "name": "reveal-2022-06-21T18:25:55.638496-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655861159",
+      "size": "20952",
+      "md5": "31272527d20d25e503e9471d6654b206",
+      "crc32": "44c6e3f7",
+      "sha1": "a7f9fc20e11604246b4f63f07d4f9153d04ee1f1",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-21T18:25:55.638496-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655861162",
+      "size": "25110",
+      "md5": "84e575701ea14eece3bb7a027abc47fa",
+      "crc32": "7106cc66",
+      "sha1": "dea309f23dbd238e127f20ff03542cbb49ca9771",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-21T18:25:55.638496-07:00.jpg",
+      "source": "original",
+      "mtime": "1655861157",
+      "size": "215010",
+      "md5": "d2ce51b2cf68a90542eeedad03d70f89",
+      "crc32": "a86e4361",
+      "sha1": "f8547dd0c9fb9b1131d4c8137dd836055188d811",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-21T18:25:55.638496-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-21T18:25:55.638496-07:00.jpg",
+      "mtime": "1655861335",
+      "size": "9692",
+      "md5": "644c7c80c4b595429dd368de7ca72274",
+      "crc32": "e1f5fea6",
+      "sha1": "5e911cd095e1ff8634388efc82406344a1f01b96"
+    },
+    {
+      "name": "reveal-2022-06-22T02:18:42.317989-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655889525",
+      "size": "19990",
+      "md5": "e7c1bf6e3ef14fd9819410fefea0bfc1",
+      "crc32": "87565fdb",
+      "sha1": "5fd07ecc72b81c41702d224b1aaf2426d4e51dc6",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-22T02:18:42.317989-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655889527",
+      "size": "25110",
+      "md5": "84e575701ea14eece3bb7a027abc47fa",
+      "crc32": "7106cc66",
+      "sha1": "dea309f23dbd238e127f20ff03542cbb49ca9771",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-22T02:18:42.317989-07:00.jpg",
+      "source": "original",
+      "mtime": "1655889523",
+      "size": "215010",
+      "md5": "d2ce51b2cf68a90542eeedad03d70f89",
+      "crc32": "a86e4361",
+      "sha1": "f8547dd0c9fb9b1131d4c8137dd836055188d811",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-22T02:18:42.317989-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-22T02:18:42.317989-07:00.jpg",
+      "mtime": "1655889577",
+      "size": "9692",
+      "md5": "644c7c80c4b595429dd368de7ca72274",
+      "crc32": "e1f5fea6",
+      "sha1": "5e911cd095e1ff8634388efc82406344a1f01b96"
+    },
+    {
+      "name": "reveal-2022-06-22T10:32:44.515099-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655919166",
+      "size": "20760",
+      "md5": "c03b5e31e85f5c50e0624402f9a9ce9a",
+      "crc32": "62366781",
+      "sha1": "c0ce309108efcf3ce63cb74b0c15d23e714f7b54",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-22T10:32:44.515099-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655919167",
+      "size": "25023",
+      "md5": "3d57cbaca193cb9e20b60d7e5a1bfc75",
+      "crc32": "0d42d6d4",
+      "sha1": "72ad9359dbe9fad2a0fac12bf63beade3617453d",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-22T18:28:30.873824-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947713",
+      "size": "20760",
+      "md5": "c03b5e31e85f5c50e0624402f9a9ce9a",
+      "crc32": "62366781",
+      "sha1": "c0ce309108efcf3ce63cb74b0c15d23e714f7b54",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-22T18:28:30.873824-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947715",
+      "size": "25023",
+      "md5": "3d57cbaca193cb9e20b60d7e5a1bfc75",
+      "crc32": "0d42d6d4",
+      "sha1": "72ad9359dbe9fad2a0fac12bf63beade3617453d",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-22T18:28:30.873824-07:00.jpg",
+      "source": "original",
+      "mtime": "1655947712",
+      "size": "227999",
+      "md5": "94057e0045d79c697ccb3f052f5d2a6f",
+      "crc32": "913cf078",
+      "sha1": "a0dd24abfa33840e71b1aa56da5418f2d1ad50c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-22T18:28:30.873824-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-22T18:28:30.873824-07:00.jpg",
+      "mtime": "1655947757",
+      "size": "9768",
+      "md5": "8b231245de0291bb724da40a7d841f29",
+      "crc32": "718fb757",
+      "sha1": "f9a8a71b32a0b98804fae126da38431f9c97975a"
+    },
+    {
+      "name": "reveal-2022-06-23T02:20:40.597152-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976044",
+      "size": "20773",
+      "md5": "ea83441d1abebea9877c32fb8040d26e",
+      "crc32": "57a93c6f",
+      "sha1": "069b7474302bc263cfac81235edac20ec693cb87",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-23T02:20:40.597152-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976045",
+      "size": "25049",
+      "md5": "fcdefcf79b28d9f9e06a2f69715b1d71",
+      "crc32": "8bafe7b6",
+      "sha1": "dc5b1c29e3feb04b72cec2753873d8f1c2a2b991",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-23T02:20:40.597152-07:00.jpg",
+      "source": "original",
+      "mtime": "1655976042",
+      "size": "218211",
+      "md5": "7aa2f572a44810ef53bc9b9cf1473f4a",
+      "crc32": "dd4c5d21",
+      "sha1": "dbe3444eb376b53e6111bbbbfaaa3ef6e2f057b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-23T02:20:40.597152-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-23T02:20:40.597152-07:00.jpg",
+      "mtime": "1655976114",
+      "size": "9600",
+      "md5": "834abbf67119a9424f9aa2d9abb0eea1",
+      "crc32": "a536408b",
+      "sha1": "095c5d8fb21cee917783df47dd8cbdcdfb6eb7fb"
+    },
+    {
+      "name": "reveal-2022-06-23T10:20:12.682119-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004816",
+      "size": "20794",
+      "md5": "fdca339c7fc7bc865eb7ab3d0dd28eac",
+      "crc32": "18478d76",
+      "sha1": "82ef45c657c0f8398eb9c507d67c3db309cfd48d",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-23T10:20:12.682119-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004818",
+      "size": "25067",
+      "md5": "f56eac97c176e9d62ad379f0cc46760d",
+      "crc32": "17b7de9f",
+      "sha1": "d954cc76c587ae7c5629c98142cf01b6a5bbd5d6",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-06-23T10:20:12.682119-07:00.jpg",
+      "source": "original",
+      "mtime": "1656004815",
+      "size": "249006",
+      "md5": "0659228b8d0b5077afe03133aff633fb",
+      "crc32": "ed837e6e",
+      "sha1": "4426cfd0b0faeec6d7adaf146d8cd0ccbd4d6e71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-06-23T10:20:12.682119-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-06-23T10:20:12.682119-07:00.jpg",
+      "mtime": "1656004870",
+      "size": "9935",
+      "md5": "dfd574bb14a2bac358798fd1836dc5c4",
+      "crc32": "92f3e0b4",
+      "sha1": "d463391d7b737dd51e703de94c276248c4a6f3b5"
+    },
+    {
       "name": "reveal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "792d1898e215130070c44e5d84c674542b430743",
-      "mtime": "1655760901",
-      "size": "7412",
-      "md5": "cf09c5a921a4ce0eb8a474278d33caac",
-      "crc32": "f73571a9",
-      "sha1": "1e4d22e6584fcf234dbb14f30e5bf7852e21c7d8",
+      "btih": "2f4721b9cee2e43b2da73a7f3215e31929e06c28",
+      "mtime": "1656004873",
+      "size": "16144",
+      "md5": "2fe6d806029eb654b247531477b300e6",
+      "crc32": "e78e723b",
+      "sha1": "93a80f2831b27b4e9100004fca13a82c81778ac5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reveal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "708fd777a44ca473f79a8cff7238adce",
+      "md5": "89f869755e4cafd753603da3d8eed603",
       "summation": "md5"
     },
     {
       "name": "reveal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655760854",
-      "size": "49152",
-      "md5": "ab602d59143830e173cf3efcea3e2674",
-      "crc32": "2cb7c7b3",
-      "sha1": "d8a429239c7a082e6975636d5e2ff18893ae14f7",
+      "mtime": "1656004821",
+      "size": "94208",
+      "md5": "525717097301ff3596af3a287e0422ec",
+      "crc32": "997ce669",
+      "sha1": "dccb87c31769b79a5fb1261c42dcd4123865252a",
       "format": "Metadata"
     },
     {
@@ -348,9 +788,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
-  "item_last_updated": 1655760901,
-  "item_size": 1794726,
+  "files_count": 75,
+  "item_last_updated": 1656004873,
+  "item_size": 4527633,
   "metadata": {
     "identifier": "reveal-2022",
     "collection": [
@@ -369,8 +809,8 @@
   },
   "reveal-2022": [
     {
-      "text": "DONATE",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=cir&amount=15&installmentPeriod=monthly&campaign=7015d000001wCAbAAM"
+      "text": "DONATE NOW",
+      "url": "https://checkout.fundjournalism.org/memberform?org_id=cir&amount=15&installmentPeriod=monthly&campaign=7015d0000025C10AAE"
     },
     {
       "text": "SUPPORT OUR WORK NOW",
@@ -982,6 +1422,42 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://revealnews.org/article/homeless-unhoused-police-arrests-west-coast-cities"
+    },
+    {
+      "text": "Police Know Arrests Won\u2019t Fix Homelessness. They Keep Making Them Anyway.",
+      "url": "https://revealnews.org/article/homeless-unhoused-police-arrests-west-coast-cities"
+    },
+    {
+      "text": "Melissa Lewis",
+      "url": "https://revealnews.org/author/melissa-lewis/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://revealnews.org/article/migrant-children-suicide-thoughts-us-custody"
+    },
+    {
+      "text": "Scores of Migrant Children Considered or Attempted Suicide in US Custody, Records Show",
+      "url": "https://revealnews.org/article/migrant-children-suicide-thoughts-us-custody"
+    },
+    {
+      "text": "Aura Bogado",
+      "url": "https://revealnews.org/author/aura-bogado/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://revealnews.org/podcast/abortion-in-the-crosshairs/"
+    },
+    {
+      "text": "Abortion in the Crosshairs",
+      "url": "https://revealnews.org/podcast/abortion-in-the-crosshairs/"
+    },
+    {
+      "text": "\n\t\t\t\t\tListen Now\t\t\t\t",
+      "url": "https://revealnews.org/podcast/abortion-in-the-crosshairs/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://revealnews.org/article/facebook-data-abortion-crisis-pregnancy-center"
     },
     {
@@ -1007,46 +1483,6 @@
     {
       "text": "Cassandra Jaramillo",
       "url": "https://revealnews.org/author/cassandra-jaramillo/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/podcast/abortion-in-the-crosshairs/"
-    },
-    {
-      "text": "Abortion in the Crosshairs",
-      "url": "https://revealnews.org/podcast/abortion-in-the-crosshairs/"
-    },
-    {
-      "text": "\n\t\t\t\t\tListen Now\t\t\t\t",
-      "url": "https://revealnews.org/podcast/abortion-in-the-crosshairs/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/abortion-violence-roe-wade-florida"
-    },
-    {
-      "text": "Abortion\u2019s Last Stand in the South: A Post-Roe Future Is Already Happening in Florida",
-      "url": "https://revealnews.org/article/abortion-violence-roe-wade-florida"
-    },
-    {
-      "text": "Laura C. Morel",
-      "url": "https://revealnews.org/author/laura-morel/"
-    },
-    {
-      "text": "Mohamed Al Elew",
-      "url": "https://revealnews.org/author/mohamed-al-elew/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/article/border-patrol-provost-migrant-children-biden"
-    },
-    {
-      "text": "Migrant Children Died on Border Patrol Chief\u2019s Watch. Then She Ran an Emergency Shelter Under Biden.",
-      "url": "https://revealnews.org/article/border-patrol-provost-migrant-children-biden"
-    },
-    {
-      "text": "Aura Bogado",
-      "url": "https://revealnews.org/author/aura-bogado/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -1138,6 +1574,18 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://revealnews.org/article/border-patrol-provost-migrant-children-biden"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tImmigration\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://revealnews.org/topic/immigration/"
+    },
+    {
+      "text": "Migrant Children Died on Border Patrol Chief\u2019s Watch. Then She Ran an Emergency Shelter Under Biden.",
+      "url": "https://revealnews.org/article/border-patrol-provost-migrant-children-biden"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://revealnews.org/article/our-drug-rehab-investigation-led-to-96-convictions-and-millions-in-restitution"
     },
     {
@@ -1207,18 +1655,6 @@
     {
       "text": "6 Takeaways from Our Investigation Into Suspected War Criminals in the US",
       "url": "https://revealnews.org/article/takeaways-suspected-war-criminals-investigation"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/podcast/crossing-the-line-the-fight-over-roe/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\tReproductive Rights\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://revealnews.org/topic/healthcare/reproductive-rights/"
-    },
-    {
-      "text": "Crossing the Line: The Fight Over Roe",
-      "url": "https://revealnews.org/podcast/crossing-the-line-the-fight-over-roe/"
     },
     {
       "text": "Show More",
@@ -1310,7 +1746,7 @@
     }
   ],
   "server": "ia802501.us.archive.org",
-  "uniq": 2006235415,
+  "uniq": 405683688,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"
