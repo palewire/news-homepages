@@ -1,5 +1,5 @@
 {
-  "created": 1655943579,
+  "created": 1656030201,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/22/items/source_nm-2022",
@@ -4412,31 +4412,157 @@
       "sha1": "0b619ed6a7f7f622ae31d3aeea6bae8a572f47ec"
     },
     {
+      "name": "source_nm-2022-06-22T19:28:50.178055-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947732",
+      "size": "15418",
+      "md5": "1ffd480746e1f701191a365e734017a6",
+      "crc32": "5f94a1e4",
+      "sha1": "e540549e48b8111b521b868c082233f16a877207",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-22T19:28:50.178055-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947734",
+      "size": "12633",
+      "md5": "13e57919f31abd4cd4e9e63fd642ba3e",
+      "crc32": "bc002617",
+      "sha1": "f8101596cb4d506b7a310317317170a921ba1d60",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-22T19:28:50.178055-06:00.jpg",
+      "source": "original",
+      "mtime": "1655947731",
+      "size": "334098",
+      "md5": "b0e22cb85d0d485d85ec5a842c2e19f2",
+      "crc32": "5af48cdd",
+      "sha1": "f021994bcb030b6e6d70e91d49e9a549244d126d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-06-22T19:28:50.178055-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-06-22T19:28:50.178055-06:00.jpg",
+      "mtime": "1655947783",
+      "size": "10287",
+      "md5": "a1b7ae0771049d31b5377700130040fe",
+      "crc32": "ad9cd815",
+      "sha1": "f17e084051be94aa7fbf6908ce7ec9a67f33ea88"
+    },
+    {
+      "name": "source_nm-2022-06-23T03:20:58.597965-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655976062",
+      "size": "15418",
+      "md5": "1ffd480746e1f701191a365e734017a6",
+      "crc32": "5f94a1e4",
+      "sha1": "e540549e48b8111b521b868c082233f16a877207",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-23T03:20:58.597965-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655976064",
+      "size": "12633",
+      "md5": "13e57919f31abd4cd4e9e63fd642ba3e",
+      "crc32": "bc002617",
+      "sha1": "f8101596cb4d506b7a310317317170a921ba1d60",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-23T03:20:58.597965-06:00.jpg",
+      "source": "original",
+      "mtime": "1655976061",
+      "size": "334098",
+      "md5": "b0e22cb85d0d485d85ec5a842c2e19f2",
+      "crc32": "5af48cdd",
+      "sha1": "f021994bcb030b6e6d70e91d49e9a549244d126d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-06-23T03:20:58.597965-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-06-23T03:20:58.597965-06:00.jpg",
+      "mtime": "1655976116",
+      "size": "10287",
+      "md5": "a1b7ae0771049d31b5377700130040fe",
+      "crc32": "ad9cd815",
+      "sha1": "f17e084051be94aa7fbf6908ce7ec9a67f33ea88"
+    },
+    {
+      "name": "source_nm-2022-06-23T11:20:29.143791-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004834",
+      "size": "15353",
+      "md5": "8e2096e5fb75788015c5b99633a9993b",
+      "crc32": "a7506afe",
+      "sha1": "966ec05fd6c94dc01f10a8e04af18586d82f63cc",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-23T11:20:29.143791-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004835",
+      "size": "12520",
+      "md5": "033703049834c7545a0bcb14438b6ec7",
+      "crc32": "a3394bf0",
+      "sha1": "43eaed7852fc68841515c929ed7aa81336748558",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-06-23T11:20:29.143791-06:00.jpg",
+      "source": "original",
+      "mtime": "1656004832",
+      "size": "294930",
+      "md5": "64f6776f26819f3153c21afaf014da69",
+      "crc32": "98a7fe15",
+      "sha1": "cad190fef6d10bc4b444617f1c41766492dae278",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-06-23T11:20:29.143791-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-06-23T11:20:29.143791-06:00.jpg",
+      "mtime": "1656004907",
+      "size": "10223",
+      "md5": "769713a3210e97589bb41fdb80ad5806",
+      "crc32": "6d3ab5da",
+      "sha1": "f6f5d4ace0590798349620b11f2bda014a8f1cd2"
+    },
+    {
       "name": "source_nm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec71cba7efa17c51425325751a4a6d1952427e92",
-      "mtime": "1655919265",
-      "size": "90162",
-      "md5": "9a5b73091d04e8d1c0a1b8ccd15bd04f",
-      "crc32": "4ad12aff",
-      "sha1": "b998e6ff8d1d573cdb931d732dd1af60882dc071",
+      "btih": "6e1e13cb8047cfde227afba02bb0d0575dc550e4",
+      "mtime": "1656004912",
+      "size": "92704",
+      "md5": "b073ec6ea052f8c3907c12602f4b7d2a",
+      "crc32": "790f0dc7",
+      "sha1": "72b8b496f84537ca98d6ac47c8dff7cdcedf857d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "source_nm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "828cebd9e7f6a04affbddf3bfc696e8c",
+      "md5": "53a315e475589c1852dce8e7a573d2b9",
       "summation": "md5"
     },
     {
       "name": "source_nm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655919198",
-      "size": "491520",
-      "md5": "c14332683c065166c4e1ab6e17e472d0",
-      "crc32": "58a9b56f",
-      "sha1": "8a0b2a2303d2c499eee3ef68c1099e148b2feae9",
+      "mtime": "1656004838",
+      "size": "512000",
+      "md5": "ee1bab72a3f433a1bcf85288d331e845",
+      "crc32": "53167d5f",
+      "sha1": "d8a71e42c999ecfeff1ce050a937b796296140cf",
       "format": "Metadata"
     },
     {
@@ -4450,9 +4576,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 423,
-  "item_last_updated": 1655919265,
-  "item_size": 39062509,
+  "files_count": 435,
+  "item_last_updated": 1656004912,
+  "item_size": 40163429,
   "metadata": {
     "identifier": "source_nm-2022",
     "collection": [
@@ -4469,7 +4595,7 @@
     "publicdate": "2022-03-25 03:48:20",
     "addeddate": "2022-03-25 03:48:20"
   },
-  "server": "ia902508.us.archive.org",
+  "server": "ia802508.us.archive.org",
   "source_nm-2022": [
     {
       "text": "\n                \n            ",
@@ -4561,11 +4687,23 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/06/21/major-mistakes-the-forest-service-made-in-starting-biggest-fire-in-new-mexico-history/"
+      "url": "https://sourcenm.com/2022/06/23/senate-committee-hears-testimony-in-support-of-boarding-school-commission/"
     },
     {
-      "text": " Major mistakes the Forest Service made in starting biggest fire in New Mexico history",
-      "url": "https://sourcenm.com/2022/06/21/major-mistakes-the-forest-service-made-in-starting-biggest-fire-in-new-mexico-history/"
+      "text": " Senate committee hears testimony in support of boarding school commission",
+      "url": "https://sourcenm.com/2022/06/23/senate-committee-hears-testimony-in-support-of-boarding-school-commission/"
+    },
+    {
+      "text": "Shaun Griswold",
+      "url": "https://sourcenm.com/author/shaungriswold/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/23/a-prescription-for-disaster/"
+    },
+    {
+      "text": " A prescription for disaster",
+      "url": "https://sourcenm.com/2022/06/23/a-prescription-for-disaster/"
     },
     {
       "text": "Patrick Lohmann",
@@ -4573,27 +4711,31 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/06/21/white-house-announces-increased-wages-support-for-firefighters/"
+      "url": "https://sourcenm.com/2022/06/23/more-people-stuck-in-nm-prisons-beyond-their-release-dates-in-recent-months-lfc-report-shows/"
     },
     {
-      "text": " White House announces increased wages, support for firefighters",
-      "url": "https://sourcenm.com/2022/06/21/white-house-announces-increased-wages-support-for-firefighters/"
+      "text": " More people stuck in NM prisons beyond their release dates in recent months, LFC report shows",
+      "url": "https://sourcenm.com/2022/06/23/more-people-stuck-in-nm-prisons-beyond-their-release-dates-in-recent-months-lfc-report-shows/"
     },
     {
-      "text": "Megan Gleason",
-      "url": "https://sourcenm.com/author/mgleason/"
+      "text": "Austin Fisher",
+      "url": "https://sourcenm.com/author/austinfisher/"
     },
     {
-      "text": "",
-      "url": "https://sourcenm.com/2022/06/21/leger-fernandez-forest-service-undervalued-nm-region-where-prescribed-burn-was-ignited/"
+      "text": " Biden pitches a summer gas tax holiday as price hovers around $5 a gallon",
+      "url": "https://sourcenm.com/2022/06/23/biden-pitches-a-summer-gas-tax-holiday-as-price-hovers-around-5-a-gallon/"
     },
     {
-      "text": " Leger Fernandez: Forest Service \u2018undervalued\u2019 NM region where prescribed burn was ignited",
-      "url": "https://sourcenm.com/2022/06/21/leger-fernandez-forest-service-undervalued-nm-region-where-prescribed-burn-was-ignited/"
+      "text": "Jennifer Shutt",
+      "url": "https://sourcenm.com/author/jennifer-shutt/"
     },
     {
-      "text": "Patrick Lohmann",
-      "url": "https://sourcenm.com/author/patricklohmann/"
+      "text": " U.S. Senate moves forward on gun safety legislation",
+      "url": "https://sourcenm.com/2022/06/22/u-s-senate-moves-forward-on-gun-safety-legislation/"
+    },
+    {
+      "text": "Ariana Figueroa",
+      "url": "https://sourcenm.com/author/ariana-figueroa/"
     },
     {
       "text": " Trump led pressure campaign on state election officials, Jan. 6 panel says",
@@ -4604,44 +4746,28 @@
       "url": "https://sourcenm.com/author/jacob-fischler/"
     },
     {
-      "text": " Will it be Maryland or Virginia? Feds near a verdict on new FBI headquarters",
-      "url": "https://sourcenm.com/2022/06/21/will-it-be-maryland-or-virginia-feds-near-a-verdict-on-new-fbi-headquarters/"
+      "text": " Major mistakes the Forest Service made in starting biggest fire in New Mexico history",
+      "url": "https://sourcenm.com/2022/06/21/major-mistakes-the-forest-service-made-in-starting-biggest-fire-in-new-mexico-history/"
     },
     {
-      "text": "Jennifer Shutt",
-      "url": "https://sourcenm.com/author/jennifer-shutt/"
+      "text": "Patrick Lohmann",
+      "url": "https://sourcenm.com/author/patricklohmann/"
     },
     {
-      "text": " Georgia, Arizona GOP officials to testify before Jan. 6 panel",
-      "url": "https://sourcenm.com/2022/06/21/georgia-arizona-gop-officials-to-testify-before-jan-6-panel/"
-    },
-    {
-      "text": "Jacob Fischler",
-      "url": "https://sourcenm.com/author/jacob-fischler/"
-    },
-    {
-      "text": " Five tribes sign historic agreement to preserve Bears Ears National Monument",
-      "url": "https://sourcenm.com/2022/06/21/five-tribes-sign-historic-agreement-to-preserve-bears-ears-national-monument/"
-    },
-    {
-      "text": "Shaun Griswold",
-      "url": "https://sourcenm.com/author/shaungriswold/"
-    },
-    {
-      "text": " Long COVID affects one in five people who contract the virus, CDC study shows",
-      "url": "https://sourcenm.com/2022/06/21/long-covid-affects-one-in-five-people-who-contract-the-virus/"
-    },
-    {
-      "text": "Austin Fisher",
-      "url": "https://sourcenm.com/author/austinfisher/"
-    },
-    {
-      "text": " No floods reported over weekend, but they\u2019re expected soon in the burn zones",
-      "url": "https://sourcenm.com/2022/06/20/no-floods-reported-over-weekend-but-theyre-expected-soon-in-the-burn-zones/"
+      "text": " White House announces increased wages, support for firefighters",
+      "url": "https://sourcenm.com/2022/06/21/white-house-announces-increased-wages-support-for-firefighters/"
     },
     {
       "text": "Megan Gleason",
       "url": "https://sourcenm.com/author/mgleason/"
+    },
+    {
+      "text": " Leger Fernandez: Forest Service \u2018undervalued\u2019 NM region where prescribed burn was ignited",
+      "url": "https://sourcenm.com/2022/06/21/leger-fernandez-forest-service-undervalued-nm-region-where-prescribed-burn-was-ignited/"
+    },
+    {
+      "text": "Patrick Lohmann",
+      "url": "https://sourcenm.com/author/patricklohmann/"
     },
     {
       "text": "Subscribe",
@@ -4650,6 +4776,14 @@
     {
       "text": "Commentary",
       "url": "/commentary"
+    },
+    {
+      "text": " Trumpism is fascism, American-style",
+      "url": "https://sourcenm.com/2022/06/23/trumpism-is-fascism-american-style/"
+    },
+    {
+      "text": "John L. Micek, Pennsylvania Capital-Star",
+      "url": "https://sourcenm.com/author/johnmicek/"
     },
     {
       "text": " Looking back a couple of decades to shades of a post-Roe world",
@@ -4674,14 +4808,6 @@
     {
       "text": "Allegra Love",
       "url": "https://sourcenm.com/author/allegralove/"
-    },
-    {
-      "text": " If competition would kill Amazon Prime, maybe it\u2019s not that great",
-      "url": "https://sourcenm.com/2022/06/15/if-competition-would-kill-amazon-prime-maybe-its-not-that-great/"
-    },
-    {
-      "text": "Stacy Mitchell for the Minnesota Reformer",
-      "url": "https://sourcenm.com/author/stacymitchell/"
     },
     {
       "text": "READ MORE ",
@@ -4733,47 +4859,11 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/06/20/nm-state-epidemiologist-leaving-next-month/"
+      "url": "https://sourcenm.com/2022/06/21/will-it-be-maryland-or-virginia-feds-near-a-verdict-on-new-fbi-headquarters/"
     },
     {
-      "text": " NM state epidemiologist leaving next month",
-      "url": "https://sourcenm.com/2022/06/20/nm-state-epidemiologist-leaving-next-month/"
-    },
-    {
-      "text": "Austin Fisher",
-      "url": "https://sourcenm.com/author/austinfisher/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/06/20/electric-appliances-and-technology-could-help-mitigate-climate-change-but-are-costly/"
-    },
-    {
-      "text": " Electric appliances and technology could help mitigate climate change but are costly",
-      "url": "https://sourcenm.com/2022/06/20/electric-appliances-and-technology-could-help-mitigate-climate-change-but-are-costly/"
-    },
-    {
-      "text": "Megan Gleason",
-      "url": "https://sourcenm.com/author/mgleason/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/06/20/two-nm-tribal-leaders-appointed-to-new-interior-advisory-panel/"
-    },
-    {
-      "text": " Two NM tribal leaders appointed to new Interior advisory panel",
-      "url": "https://sourcenm.com/2022/06/20/two-nm-tribal-leaders-appointed-to-new-interior-advisory-panel/"
-    },
-    {
-      "text": "Shondiin Silversmith, AZ Mirror",
-      "url": "https://sourcenm.com/author/shondiinsilversmith/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/06/20/in-a-first-2-rooms-in-u-s-capitol-named-for-women-who-served-in-the-senate/"
-    },
-    {
-      "text": " In a first, 2 rooms in U.S. Capitol named for women who served in the Senate",
-      "url": "https://sourcenm.com/2022/06/20/in-a-first-2-rooms-in-u-s-capitol-named-for-women-who-served-in-the-senate/"
+      "text": " Will it be Maryland or Virginia? Feds near a verdict on new FBI headquarters",
+      "url": "https://sourcenm.com/2022/06/21/will-it-be-maryland-or-virginia-feds-near-a-verdict-on-new-fbi-headquarters/"
     },
     {
       "text": "Jennifer Shutt",
@@ -4781,15 +4871,51 @@
     },
     {
       "text": "",
-      "url": "https://sourcenm.com/2022/06/17/otero-county-votes-2-1-to-approve-primary-results/"
+      "url": "https://sourcenm.com/2022/06/21/georgia-arizona-gop-officials-to-testify-before-jan-6-panel/"
     },
     {
-      "text": " Otero County votes 2-1 to approve primary results",
-      "url": "https://sourcenm.com/2022/06/17/otero-county-votes-2-1-to-approve-primary-results/"
+      "text": " Georgia, Arizona GOP officials to testify before Jan. 6 panel",
+      "url": "https://sourcenm.com/2022/06/21/georgia-arizona-gop-officials-to-testify-before-jan-6-panel/"
     },
     {
-      "text": "Andrew Beale",
-      "url": "https://sourcenm.com/author/andrewbeale/"
+      "text": "Jacob Fischler",
+      "url": "https://sourcenm.com/author/jacob-fischler/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/21/five-tribes-sign-historic-agreement-to-preserve-bears-ears-national-monument/"
+    },
+    {
+      "text": " Five tribes sign historic agreement to preserve Bears Ears National Monument",
+      "url": "https://sourcenm.com/2022/06/21/five-tribes-sign-historic-agreement-to-preserve-bears-ears-national-monument/"
+    },
+    {
+      "text": "Shaun Griswold",
+      "url": "https://sourcenm.com/author/shaungriswold/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/21/long-covid-affects-one-in-five-people-who-contract-the-virus/"
+    },
+    {
+      "text": " Long COVID affects one in five people who contract the virus, CDC study shows",
+      "url": "https://sourcenm.com/2022/06/21/long-covid-affects-one-in-five-people-who-contract-the-virus/"
+    },
+    {
+      "text": "Austin Fisher",
+      "url": "https://sourcenm.com/author/austinfisher/"
+    },
+    {
+      "text": "",
+      "url": "https://sourcenm.com/2022/06/20/no-floods-reported-over-weekend-but-theyre-expected-soon-in-the-burn-zones/"
+    },
+    {
+      "text": " No floods reported over weekend, but they\u2019re expected soon in the burn zones",
+      "url": "https://sourcenm.com/2022/06/20/no-floods-reported-over-weekend-but-theyre-expected-soon-in-the-burn-zones/"
+    },
+    {
+      "text": "Megan Gleason",
+      "url": "https://sourcenm.com/author/mgleason/"
     },
     {
       "text": "READ MORE ",
@@ -4892,9 +5018,9 @@
       "url": "https://apple.news/Tv7k8sPIjSYWXut82PAi2PA"
     }
   ],
-  "uniq": 838240319,
+  "uniq": 1658239049,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

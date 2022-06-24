@@ -1,5 +1,5 @@
 {
-  "created": 1655943534,
+  "created": 1656030141,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/22/items/oann-2022",
@@ -3630,31 +3630,157 @@
       "sha1": "3ba416c76185ce268a9923d0c227808f47f2a93f"
     },
     {
+      "name": "oann-2022-06-22T21:27:25.956156-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655947650",
+      "size": "20119",
+      "md5": "4a4f0621304aa9dcf316a5e55f738362",
+      "crc32": "95f59f36",
+      "sha1": "8f8917a3788a7021496f2fffd8bda18b27b2cdfd",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-22T21:27:25.956156-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655947652",
+      "size": "13688",
+      "md5": "6ed18617c662b04a89297f12b19c1a6d",
+      "crc32": "76a320e4",
+      "sha1": "d69b5f147337c5c9dae692fb5f617916682e9e46",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-22T21:27:25.956156-04:00.jpg",
+      "source": "original",
+      "mtime": "1655947649",
+      "size": "289650",
+      "md5": "9327219b02fb4d5a1c84e83a1b58b529",
+      "crc32": "6a0f574c",
+      "sha1": "79f111f22863b2500af801b26b3a22a7b4e6fe86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-06-22T21:27:25.956156-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-06-22T21:27:25.956156-04:00.jpg",
+      "mtime": "1655947698",
+      "size": "12176",
+      "md5": "86a5faf36059915a5f1c1b6b9174353e",
+      "crc32": "52cbd9e7",
+      "sha1": "bd9c9ec0032c982a134cb0f29562c1662b38e69e"
+    },
+    {
+      "name": "oann-2022-06-23T05:19:39.513107-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1655975983",
+      "size": "20118",
+      "md5": "4c94dfc6fd684c3bf997c2871652dc1d",
+      "crc32": "8378ad8e",
+      "sha1": "1b40ffc687cb1d790e404c079c1c4a59f9250620",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-23T05:19:39.513107-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1655975984",
+      "size": "13688",
+      "md5": "6ed18617c662b04a89297f12b19c1a6d",
+      "crc32": "76a320e4",
+      "sha1": "d69b5f147337c5c9dae692fb5f617916682e9e46",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-23T05:19:39.513107-04:00.jpg",
+      "source": "original",
+      "mtime": "1655975981",
+      "size": "289442",
+      "md5": "0565b95ef348d9e9704078d572dec08a",
+      "crc32": "2c97e419",
+      "sha1": "78df9616ff989d44ab5dcce231a237b71723ab70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-06-23T05:19:39.513107-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-06-23T05:19:39.513107-04:00.jpg",
+      "mtime": "1655976034",
+      "size": "12182",
+      "md5": "52e9a2bf7787972f5d76a6bbfcdc263c",
+      "crc32": "bd60a60c",
+      "sha1": "45052e8aeef1e8f476656f2104be4e03ad7f1b81"
+    },
+    {
+      "name": "oann-2022-06-23T13:18:41.086295-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656004729",
+      "size": "20120",
+      "md5": "70fe49055501657400632202e74fdc7f",
+      "crc32": "99cb07b7",
+      "sha1": "2ebb588b6c131536bf15987f81520d5620d1b5f2",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-23T13:18:41.086295-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656004730",
+      "size": "13549",
+      "md5": "6b0a9185f037bc5e972f42510c32081f",
+      "crc32": "9e5d590b",
+      "sha1": "6e5e9e1313834d1dbe3c8f61a75a42833fd5e05e",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-06-23T13:18:41.086295-04:00.jpg",
+      "source": "original",
+      "mtime": "1656004727",
+      "size": "330234",
+      "md5": "3e8a790aeeb10e11a7437a1ea8175dfe",
+      "crc32": "855ab4e2",
+      "sha1": "912cf79c550ce92ba2d67c94a5bb0f770262cbf4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-06-23T13:18:41.086295-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-06-23T13:18:41.086295-04:00.jpg",
+      "mtime": "1656004795",
+      "size": "12301",
+      "md5": "bc39e2195f1638dde2216aabcf6bfb8d",
+      "crc32": "2ba4e40a",
+      "sha1": "dabe233bbb4ac3473d88cf542894589d092baa2f"
+    },
+    {
       "name": "oann-2022_archive.torrent",
       "source": "metadata",
-      "btih": "328209d12fe4030dfa63b561cb26ea91b9721ce6",
-      "mtime": "1655919193",
-      "size": "72222",
-      "md5": "5d6db618786763b86dbba42ba050c103",
-      "crc32": "a45ac31b",
-      "sha1": "4bb373fdd171ba51d3d1f7b7f221956df0e06be9",
+      "btih": "f27d7dc8d1521137fda45788d5e2c53f15c0fa2c",
+      "mtime": "1656004799",
+      "size": "74704",
+      "md5": "b9ce46dd5b0c8dc97bf4f6632b2edfb0",
+      "crc32": "0349b984",
+      "sha1": "186bf659012ce9eed0bcf51f6480bd37bbbc47e3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oann-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fda816adda01f70aaddd036b845e7da7",
+      "md5": "bcb1f8ecb7fb012f5d97b21e4448cd5f",
       "summation": "md5"
     },
     {
       "name": "oann-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1655919147",
-      "size": "393216",
-      "md5": "c4d575abe02894865f74ebe6c4bb41e8",
-      "crc32": "826f21aa",
-      "sha1": "af8632b788d5f3186a3c75245eca73a874d076f1",
+      "mtime": "1656004735",
+      "size": "405504",
+      "md5": "96d932d2169e5de3a7eed4b26cb58bad",
+      "crc32": "5599f627",
+      "sha1": "443d1483089ef56b3684453a729f1f5a63e311b9",
       "format": "Metadata"
     },
     {
@@ -3668,9 +3794,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1655919193,
-  "item_size": 34112513,
+  "files_count": 359,
+  "item_last_updated": 1656004799,
+  "item_size": 35174550,
   "metadata": {
     "identifier": "oann-2022",
     "collection": [
@@ -3873,24 +3999,124 @@
       "url": "https://live.oann.com"
     },
     {
-      "text": "\n\t\t\t\t\tBiden warns of looming pandemic while promoting child vaccinations\n\t\t\t\t",
-      "url": "https://www.oann.com/biden-warns-of-looming-pandemic-while-promoting-child-vaccinations/"
+      "text": "\n\t\t\t\t\t6 major cities note violent crime increases from record 2021 levels\n\t\t\t\t",
+      "url": "https://www.oann.com/6-major-cities-note-violent-crime-increases-from-record-2021-levels/"
     },
     {
-      "text": "\n\t\t\t\t\tTreasury Secy. Yellen says Fed is responsible for addressing inflation\n\t\t\t\t",
-      "url": "https://www.oann.com/treasury-secy-yellen-says-fed-is-responsible-for-addressing-inflation/"
+      "text": "\n\t\t\t\t\tWAPO writer appears to \u2018inadvertently\u2019 write a heart-warming pro-life story\n\t\t\t\t",
+      "url": "https://www.oann.com/wapo-writer-appears-to-inadvertently-write-a-heart-warming-pro-life-story/"
     },
     {
-      "text": "\n\t\t\t\t\tMayra Flores becomes First Mexican born female in Congress\n\t\t\t\t",
-      "url": "https://www.oann.com/mayra-flores-becomes-first-mexican-born-female-in-congress/"
+      "text": "\n\t\t\t\t\tDefense Production Act to address high gas prices\n\t\t\t\t",
+      "url": "https://www.oann.com/defense-production-act-to-address-high-gas-prices/"
     },
     {
-      "text": "\n\t\t\t\t\tSenate GOP: Biden & Dems are useless amid deepening crises\n\t\t\t\t",
-      "url": "https://www.oann.com/senate-gop-biden-dems-are-useless-amid-deepening-crises/"
+      "text": "\n\t\t\t\t\tPutin: New reserve currency proposed within BRICS\n\t\t\t\t",
+      "url": "https://www.oann.com/putin-new-reserve-currency-proposed-within-brics/"
     },
     {
-      "text": "\n\t\t\t\t\tBiden\u2019s old age has Democrats worried for 2024\n\t\t\t\t",
-      "url": "https://www.oann.com/bidens-old-age-has-democrats-worried-for-2024/"
+      "text": "\n\t\t\t\t\tElvis Presley\u2019s family get together for Hollywood ceremony\n\t\t\t\t",
+      "url": "https://www.oann.com/elvis-presleys-family-get-together-for-hollywood-ceremony/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/6-major-cities-note-violent-crime-increases-from-record-2021-levels/"
+    },
+    {
+      "text": "6 major cities note violent crime increases from record 2021 levels",
+      "url": "https://www.oann.com/6-major-cities-note-violent-crime-increases-from-record-2021-levels/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/wapo-writer-appears-to-inadvertently-write-a-heart-warming-pro-life-story/"
+    },
+    {
+      "text": "WAPO writer appears to \u2018inadvertently\u2019 write a heart-warming pro-life story",
+      "url": "https://www.oann.com/wapo-writer-appears-to-inadvertently-write-a-heart-warming-pro-life-story/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/defense-production-act-to-address-high-gas-prices/"
+    },
+    {
+      "text": "Defense Production Act to address high gas prices",
+      "url": "https://www.oann.com/defense-production-act-to-address-high-gas-prices/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/putin-new-reserve-currency-proposed-within-brics/"
+    },
+    {
+      "text": "Putin: New reserve currency proposed within BRICS",
+      "url": "https://www.oann.com/putin-new-reserve-currency-proposed-within-brics/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/elvis-presleys-family-get-together-for-hollywood-ceremony/"
+    },
+    {
+      "text": "Elvis Presley\u2019s family get together for Hollywood ceremony",
+      "url": "https://www.oann.com/elvis-presleys-family-get-together-for-hollywood-ceremony/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/watch-capitol-punishment-on-oan/"
+    },
+    {
+      "text": "Watch \u2018CAPITOL PUNISHMENT\u2019 on OAN",
+      "url": "https://www.oann.com/watch-capitol-punishment-on-oan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/biden-admin-claims-no-recession-coming-despite-experts-saying-its-inevitable/"
+    },
+    {
+      "text": "Biden admin. claims \u2018no recession\u2019 coming, despite experts saying it\u2019s inevitable",
+      "url": "https://www.oann.com/biden-admin-claims-no-recession-coming-despite-experts-saying-its-inevitable/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/rep-mccarthy-its-a-wide-open-border/"
+    },
+    {
+      "text": "Rep. McCarthy: It\u2019s a wide open border",
+      "url": "https://www.oann.com/rep-mccarthy-its-a-wide-open-border/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/chad-wolf-us-has-reached-crisis-point-at-southern-border/"
+    },
+    {
+      "text": "Chad Wolf: US has reached \u2018crisis point\u2019 at southern border",
+      "url": "https://www.oann.com/chad-wolf-us-has-reached-crisis-point-at-southern-border/"
+    },
+    {
+      "text": "More from OAN",
+      "url": "https://www.oann.com/category/newsroom/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/biden-calls-on-congress-to-suspend-federal-gas-tax-for-3-months/"
+    },
+    {
+      "text": "Biden calls on Congress to suspend federal gas tax for 3 months",
+      "url": "https://www.oann.com/biden-calls-on-congress-to-suspend-federal-gas-tax-for-3-months/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/proposed-senate-gun-bill-expands-background-checks-mental-health-school-safety-programs/"
+    },
+    {
+      "text": "Proposed Senate gun bill expands background checks, mental health & school safety programs",
+      "url": "https://www.oann.com/proposed-senate-gun-bill-expands-background-checks-mental-health-school-safety-programs/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/election-day-in-d-c-ala-va-ark-ga/"
+    },
+    {
+      "text": "D.C., Ala., Va., Ark., Ga. release election results",
+      "url": "https://www.oann.com/election-day-in-d-c-ala-va-ark-ga/"
     },
     {
       "text": "",
@@ -3901,36 +4127,32 @@
       "url": "https://www.oann.com/biden-warns-of-looming-pandemic-while-promoting-child-vaccinations/"
     },
     {
-      "text": "",
-      "url": "https://www.oann.com/treasury-secy-yellen-says-fed-is-responsible-for-addressing-inflation/"
-    },
-    {
-      "text": "Treasury Secy. Yellen says Fed is responsible for addressing inflation",
-      "url": "https://www.oann.com/treasury-secy-yellen-says-fed-is-responsible-for-addressing-inflation/"
+      "text": "OAN Special Reports",
+      "url": "https://www.oann.com/category/oan-contribution/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/mayra-flores-becomes-first-mexican-born-female-in-congress/"
+      "url": "https://www.oann.com/one-on-one-with-former-phoenix-chief-of-police-daniel-garcia/"
     },
     {
-      "text": "Mayra Flores becomes First Mexican born female in Congress",
-      "url": "https://www.oann.com/mayra-flores-becomes-first-mexican-born-female-in-congress/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/senate-gop-biden-dems-are-useless-amid-deepening-crises/"
-    },
-    {
-      "text": "Senate GOP: Biden & Dems are useless amid deepening crises",
-      "url": "https://www.oann.com/senate-gop-biden-dems-are-useless-amid-deepening-crises/"
+      "text": "One-on-One with Former Phoenix Chief of Police, Daniel Garcia",
+      "url": "https://www.oann.com/one-on-one-with-former-phoenix-chief-of-police-daniel-garcia/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/bidens-old-age-has-democrats-worried-for-2024/"
+      "url": "https://www.oann.com/texas-gop-rejects-biden-win-in-2020-election/"
     },
     {
-      "text": "Biden\u2019s old age has Democrats worried for 2024",
-      "url": "https://www.oann.com/bidens-old-age-has-democrats-worried-for-2024/"
+      "text": "Texas GOP rejects Biden win in 2020 election",
+      "url": "https://www.oann.com/texas-gop-rejects-biden-win-in-2020-election/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/new-footage-raises-questions-about-uvalde-police-response-armed-officers-did-not-enter-classroom-for-58-minutes/"
+    },
+    {
+      "text": "New footage raises questions about Uvalde Police response",
+      "url": "https://www.oann.com/new-footage-raises-questions-about-uvalde-police-response-armed-officers-did-not-enter-classroom-for-58-minutes/"
     },
     {
       "text": "",
@@ -3939,102 +4161,6 @@
     {
       "text": "VP Harris: Faith Versus Abortion",
       "url": "https://www.oann.com/vp-harris-faith-versus-abortion/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/veteran-details-journey-on-navigating-in-business-world/"
-    },
-    {
-      "text": "Veteran Details Journey on Navigating in Business World",
-      "url": "https://www.oann.com/veteran-details-journey-on-navigating-in-business-world/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/pence-delivers-speech-on-economy-amid-record-high-inflation/"
-    },
-    {
-      "text": "Pence delivers speech on economy amid record high inflation",
-      "url": "https://www.oann.com/pence-delivers-speech-on-economy-amid-record-high-inflation/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/republican-stefano-forte-running-for-n-y-state-senate-district-11/"
-    },
-    {
-      "text": "Republican Stefano Forte Running for N.Y. State Senate District 11",
-      "url": "https://www.oann.com/republican-stefano-forte-running-for-n-y-state-senate-district-11/"
-    },
-    {
-      "text": "More from OAN",
-      "url": "https://www.oann.com/category/newsroom/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/election-day-in-d-c-ala-va-ark-ga/"
-    },
-    {
-      "text": "Election Day in D.C., Ala., Va., Ark., Ga.",
-      "url": "https://www.oann.com/election-day-in-d-c-ala-va-ark-ga/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/biden-high-gas-prices-good-opportunity-for-renewable-energy/"
-    },
-    {
-      "text": "Biden: High gas prices \u2018good opportunity\u2019 for renewable energy",
-      "url": "https://www.oann.com/biden-high-gas-prices-good-opportunity-for-renewable-energy/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/australian-prime-minister-refuses-to-demand-us-drop-prosecution-of-wikileaks-founder-assange/"
-    },
-    {
-      "text": "Australian prime minister refuses to demand US drop prosecution of WikiLeaks founder Assange",
-      "url": "https://www.oann.com/australian-prime-minister-refuses-to-demand-us-drop-prosecution-of-wikileaks-founder-assange/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/mo-senate-candidate-greitens-urges-supporters-to-order-their-rino-hunting-permit-in-campaign-ad/"
-    },
-    {
-      "text": "Mo. Senate candidate Greitens urges supporters to order their \u2018RINO hunting permit\u2019 in campaign ad",
-      "url": "https://www.oann.com/mo-senate-candidate-greitens-urges-supporters-to-order-their-rino-hunting-permit-in-campaign-ad/"
-    },
-    {
-      "text": "OAN Special Reports",
-      "url": "https://www.oann.com/category/oan-contribution/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/dr-john-lott-biden-using-student-loan-forgiveness-to-outright-buy-votes/"
-    },
-    {
-      "text": "Dr. John Lott: Biden using student loan forgiveness to \u2018outright buy votes\u2019",
-      "url": "https://www.oann.com/dr-john-lott-biden-using-student-loan-forgiveness-to-outright-buy-votes/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/va-gop-candidate-looks-to-win-primary-unseat-rep-spanberger/"
-    },
-    {
-      "text": "Va. GOP Candidate Looks to Win Primary, Unseat Rep. Spanberger",
-      "url": "https://www.oann.com/va-gop-candidate-looks-to-win-primary-unseat-rep-spanberger/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/migrant-children-crossings-rising-at-southern-border-2/"
-    },
-    {
-      "text": "Migrant children crossings rising at southern border",
-      "url": "https://www.oann.com/migrant-children-crossings-rising-at-southern-border-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/congress-drafting-legislation-to-address-mineral-shortage/"
-    },
-    {
-      "text": "Congress drafting legislation to address mineral shortage",
-      "url": "https://www.oann.com/congress-drafting-legislation-to-address-mineral-shortage/"
     },
     {
       "text": "",
@@ -4129,10 +4255,10 @@
       "url": "https://www.oann.com/cookie-policy/"
     }
   ],
-  "server": "ia801507.us.archive.org",
-  "uniq": 483724365,
+  "server": "ia601507.us.archive.org",
+  "uniq": 2077750844,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }
