@@ -12,11 +12,6 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - name: Setup Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: 16
-
     - id: cache-playwright
       name: Cache Playwright browsers
       uses: actions/cache@v2
@@ -31,12 +26,8 @@ runs:
 
     - id: parse-a11y
       name: Parse accessibility tree JSON
-      uses: nick-fields/retry@v2
-      with:
-        timeout_minutes: 10
-        max_attempts: 3
-        shell: bash
-        command: pipenv run python -m newshomepages.accessibility ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: pipenv run python -m newshomepages.accessibility ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      shell: bash
 
     - id: save
       name: Save artifact
