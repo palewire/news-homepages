@@ -140,8 +140,7 @@ def _shoot(site: typing.Dict, output_dir: str):
 
         # Hide the scrollbars
         click.echo("Hiding scrollbars with CSS")
-        css = """var sheet = window.document.styleSheets[0];
-        sheet.insertRule('body { overflow: hidden; }', sheet.cssRules.length);"""
+        css = """document.body.style.overflow = 'hidden';"""
         page.evaluate(css)
 
         # Give it another beat
