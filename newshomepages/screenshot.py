@@ -80,6 +80,7 @@ def _shoot(site: typing.Dict, output_dir: str):
                 "--enable-logging=stderr",
                 "--log-level=0",
                 "--v=1",
+                "--hide-scrollbars",
             ],
             user_agent="News Homepages (https://homepages.news/)",
         )
@@ -136,6 +137,12 @@ def _shoot(site: typing.Dict, output_dir: str):
                 page.evaluate(custom_javascript)
             except Error as error:
                 raise click.ClickException(error.message)
+
+        # Hide the scrollbars
+        click.echo("Hiding scrollbars with CSS")
+        css = """var sheet = window.document.styleSheets[0];
+        sheet.insertRule('body { overflow: hidden; }', sheet.cssRules.length);"""
+        page.evaluate(css)
 
         # Give it another beat
         wait = int(site["wait"] or DEFAULT_WAIT) / 1000
