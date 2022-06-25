@@ -190,6 +190,6 @@ jobs:
         name: Install
         uses: ./.github/actions/install
 
-      - id: commit
-        name: Commit
+      - id: mosaic
+        name: Mosaic
         uses: ./.github/actions/mosaic

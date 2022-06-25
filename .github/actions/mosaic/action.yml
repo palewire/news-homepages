@@ -9,8 +9,8 @@ runs:
         name: screenshots
         path: ./input
 
-    - id: tweet
-      name: Tweet
+    - id: mosaic
+      name: Mosaic
       run: pipenv run python -m newshomepages.mosaic -i ./input -o ./_dist
       shell: bash
 
