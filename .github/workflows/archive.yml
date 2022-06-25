@@ -175,3 +175,21 @@ jobs:
       - id: commit
         name: Commit
         uses: ./.github/actions/commit
+
+  mosaic:
+    name: Create image mosaics
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [jpg]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/mosaic

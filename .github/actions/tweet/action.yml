@@ -24,11 +24,6 @@ runs:
       with:
         name: screenshots
 
-    - id: list
-      name: List
-      run: ls -alF
-      shell: bash
-
     - id: tweet
       name: Tweet
       run: pipenv run python -m newshomepages.tweet ${{ inputs.command }} ${{ inputs.source }}

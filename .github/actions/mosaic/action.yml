@@ -1,0 +1,23 @@
+name: Mosaic
+description: Create image mosaics from the latest screenshots
+
+runs:
+  using: "composite"
+  steps:
+    - uses: actions/download-artifact@v3
+      with:
+        name: screenshots
+        path: ./input
+
+    - id: tweet
+      name: Tweet
+      run: pipenv run python -m newshomepages.mosaic -i ./input -o ./_dist
+      shell: bash
+
+    - id: save
+      name: Save artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: mosaics
+        path: _dist
+        if-no-files-found: error
