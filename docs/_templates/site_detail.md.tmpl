@@ -1,0 +1,22 @@
+```{include} ../_templates/nav.html
+```
+
+# {{ site.name }}
+
+![{{ site.name }}](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ site.handle|lower }}.jpg)
+
+| Attribute      | Value                                                                           |
+| :------------- | :------------------------------------------------------------------------------ |
+| Site           | [{{ site.url }}]({{ site.url }})                                                |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ site.handle.lower() }}) |
+| Twitter handle | [@{{ site.handle }}](https://www.twitter.com/{{ site.handle }})                 |
+| Location       | {{ site.location }}                                                             |
+| Timezone       | {{ site.timezone }}                                                             |
+
+The archiving routine has captured {{ screenshots|length }} screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
+{% for obj in items -%}
+|[{{ obj.identifier }}]({{ obj.url }})|
+{% endfor %}

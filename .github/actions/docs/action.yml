@@ -9,6 +9,11 @@ runs:
       run: pipenv run python -m newshomepages.docs source-list;
       shell: bash
 
+    - id: site-detail
+      name: Update site detail
+      run: pipenv run python -m newshomepages.docs site-detail;
+      shell: bash
+
     - id: commit
       name: Commit
       run: |
