@@ -20,11 +20,11 @@ def cli(input_dir: str, output_dir: str):
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    n = 5
+    n = 4
     for i in range(4):
         random.shuffle(image_paths)
         image_array = []
-        for _x in range(n):
+        for _x in range(n * n):
             image_array.append(image_paths.pop())
 
         size = (1300, 1300)
