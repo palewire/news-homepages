@@ -113,6 +113,14 @@ def _shoot(site: typing.Dict, output_dir: str):
             ".tp-modal",
             ".tp-backdrop",
             ".onesignal-slidedown-container",
+            ".pb-curated",
+            "#regiwall-overlay",
+            ".regiwall",
+            ".bxc",
+            ".met-footer-toast",
+            ".grecaptcha-badge",
+            ".fEy1Z2XT",
+            "#didomi-host",
         ]
         target_str = ",".join(target_list)
         javascript = (
@@ -129,6 +137,11 @@ def _shoot(site: typing.Dict, output_dir: str):
                 page.evaluate(custom_javascript)
             except Error as error:
                 raise click.ClickException(error.message)
+
+        # Give it another beat
+        wait = int(site["wait"] or DEFAULT_WAIT) / 1000
+        click.echo(f"Waiting {wait} seconds")
+        time.sleep(wait)
 
         # Take the screenshot
         file_path = str(output_path / f"{site['handle'].lower()}.jpg")
