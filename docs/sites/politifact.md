@@ -1,3 +1,7 @@
+---
+orphan: true
+---
+
 ```{include} ../_templates/nav.html
 ```
 
