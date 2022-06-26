@@ -118,6 +118,8 @@ def _shoot(site: typing.Dict, output_dir: str):
             "#regiwall-overlay",
             ".regiwall",
             ".bxc",
+            ".bx-slab",
+            ".bx-base",
             ".met-footer-toast",
             ".grecaptcha-badge",
             ".fEy1Z2XT",
