@@ -125,6 +125,7 @@ def _shoot(site: typing.Dict, output_dir: str):
             ".popup_wrapper",
             ".pw-subscribe-popup",
             ".ThirdPartySlot-container",
+            ".newspack-lightbox",
         ]
         target_str = ",".join(target_list)
         javascript = (
