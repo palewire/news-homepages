@@ -1,5 +1,5 @@
 {
-  "created": 1656116340,
+  "created": 1656197244,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/gridnews-2022",
@@ -1276,31 +1276,199 @@
       "sha1": "53db349d0b760abac689c532fa6f04d7fc6b2a0e"
     },
     {
+      "name": "gridnews-2022-06-24T21:36:41.502072-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656121003",
+      "size": "23280",
+      "md5": "650f70f41c3e8a351407351654cf3af2",
+      "crc32": "fa5c40af",
+      "sha1": "f006a46a64549d219a079dfcdb3da16337c4c2a9",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-24T21:36:41.502072-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656121004",
+      "size": "11291",
+      "md5": "c2aabee6fe9f4d887423fe60e8394596",
+      "crc32": "f4c85375",
+      "sha1": "9151ddfe98c1ff0225ea4478e9b51596cfbf7bfe",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-24T21:36:41.502072-04:00.jpg",
+      "source": "original",
+      "mtime": "1656121002",
+      "size": "290270",
+      "md5": "6b24b61342dfd759532d0d16257fd249",
+      "crc32": "7e26c3c5",
+      "sha1": "b983c1347034b94d2fde9f964352a7be69668585",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-24T21:36:41.502072-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-24T21:36:41.502072-04:00.jpg",
+      "mtime": "1656121096",
+      "size": "10397",
+      "md5": "1646b2806ffd791ad3586e82027ffdf8",
+      "crc32": "ba702c56",
+      "sha1": "a69dc3bb9c0bc8482333719bd513296ad40f50d4"
+    },
+    {
+      "name": "gridnews-2022-06-25T05:27:14.277743-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656149237",
+      "size": "24742",
+      "md5": "1bb785e62fcece1403aa6d71d169e3bc",
+      "crc32": "e29000d5",
+      "sha1": "6574ed8f40363cbe61eb918dc056a17751627a3e",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-25T05:27:14.277743-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656149239",
+      "size": "11291",
+      "md5": "c2aabee6fe9f4d887423fe60e8394596",
+      "crc32": "f4c85375",
+      "sha1": "9151ddfe98c1ff0225ea4478e9b51596cfbf7bfe",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-25T05:27:14.277743-04:00.jpg",
+      "source": "original",
+      "mtime": "1656149236",
+      "size": "290270",
+      "md5": "6b24b61342dfd759532d0d16257fd249",
+      "crc32": "7e26c3c5",
+      "sha1": "b983c1347034b94d2fde9f964352a7be69668585",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-25T05:27:14.277743-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-25T05:27:14.277743-04:00.jpg",
+      "mtime": "1656149304",
+      "size": "10397",
+      "md5": "1646b2806ffd791ad3586e82027ffdf8",
+      "crc32": "ba702c56",
+      "sha1": "a69dc3bb9c0bc8482333719bd513296ad40f50d4"
+    },
+    {
+      "name": "gridnews-2022-06-25T13:34:00.977450-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656178444",
+      "size": "23000",
+      "md5": "d19b827e94359659266af34af3637c83",
+      "crc32": "e3807c83",
+      "sha1": "6076a149463aac452c483e607af4e82339e01be0",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-25T13:34:00.977450-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656178445",
+      "size": "11126",
+      "md5": "a61c0ec47b49445c55f47df0764d538a",
+      "crc32": "c927b336",
+      "sha1": "965c07db83415a0bb51e1fe94738c42dd7611bc6",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-25T13:34:00.977450-04:00.jpg",
+      "source": "original",
+      "mtime": "1656178442",
+      "size": "275106",
+      "md5": "fc52c2e2cccb70097dd8ba02088ed9a1",
+      "crc32": "c19e1e36",
+      "sha1": "c4686f6c59e6085f9933ff76358f485cebce3094",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-25T13:34:00.977450-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-25T13:34:00.977450-04:00.jpg",
+      "mtime": "1656178507",
+      "size": "10182",
+      "md5": "fdd406b9a6160eb66284d590d90fc293",
+      "crc32": "2f2af2a7",
+      "sha1": "22083bf1ff2f506c7dbcd0b4096ca36cc5258328"
+    },
+    {
+      "name": "gridnews-2022-06-25T18:46:29.740961-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656197192",
+      "size": "23000",
+      "md5": "d19b827e94359659266af34af3637c83",
+      "crc32": "e3807c83",
+      "sha1": "6076a149463aac452c483e607af4e82339e01be0",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-25T18:46:29.740961-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656197193",
+      "size": "11126",
+      "md5": "a61c0ec47b49445c55f47df0764d538a",
+      "crc32": "c927b336",
+      "sha1": "965c07db83415a0bb51e1fe94738c42dd7611bc6",
+      "format": "JSON"
+    },
+    {
+      "name": "gridnews-2022-06-25T18:46:29.740961-04:00.jpg",
+      "source": "original",
+      "mtime": "1656197190",
+      "size": "275106",
+      "md5": "fc52c2e2cccb70097dd8ba02088ed9a1",
+      "crc32": "c19e1e36",
+      "sha1": "c4686f6c59e6085f9933ff76358f485cebce3094",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gridnews-2022-06-25T18:46:29.740961-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gridnews-2022-06-25T18:46:29.740961-04:00.jpg",
+      "mtime": "1656197237",
+      "size": "10182",
+      "md5": "fdd406b9a6160eb66284d590d90fc293",
+      "crc32": "2f2af2a7",
+      "sha1": "22083bf1ff2f506c7dbcd0b4096ca36cc5258328"
+    },
+    {
       "name": "gridnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2d332ae7350b2f06559f5f0fbcd08c76143b515",
-      "mtime": "1656111390",
-      "size": "26902",
-      "md5": "55114a17985768cf272afbee50af07a0",
-      "crc32": "0b6168e4",
-      "sha1": "fe3da309ab4b759dd09f5924a43e5ca094e8f65f",
+      "btih": "ebbfaa849ea5a570bafcaf572dfbbb35f423df3e",
+      "mtime": "1656197239",
+      "size": "30262",
+      "md5": "c365c254b146ace1a7f1ca16653ea8b3",
+      "crc32": "abd64919",
+      "sha1": "a7001bd00d6d791461fafc6e80e1e3c174ce4474",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gridnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aaaa6034886362e72fa189575fedcda1",
+      "md5": "659ef8b766afaf7c4168f22d0f355257",
       "summation": "md5"
     },
     {
       "name": "gridnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656111327",
-      "size": "159744",
-      "md5": "50f7cf966772603c9e53ae386a24449f",
-      "crc32": "c8015220",
-      "sha1": "7fe3a717f186da2ea23ae26485c5f8688fd43bd0",
+      "mtime": "1656197197",
+      "size": "176128",
+      "md5": "547ed3a68747e785b81d0755a6c396f0",
+      "crc32": "7232e90f",
+      "sha1": "c930997ee061ae4fb88510adc7fa864c4435e138",
       "format": "Metadata"
     },
     {
@@ -1314,471 +1482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "gridnews-2022": [
-    {
-      "text": "Learn more",
-      "url": "/about-us"
-    },
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
-      "text": "360",
-      "url": "/360/"
-    },
-    {
-      "text": "War in Ukraine",
-      "url": "/ukraine-russia/"
-    },
-    {
-      "text": "Global",
-      "url": "/global/"
-    },
-    {
-      "text": "Economy",
-      "url": "/economy/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics/"
-    },
-    {
-      "text": "Climate",
-      "url": "/climate/"
-    },
-    {
-      "text": "Science",
-      "url": "/science/"
-    },
-    {
-      "text": "Technology",
-      "url": "/technology/"
-    },
-    {
-      "text": "Misinformation",
-      "url": "/misinformation/"
-    },
-    {
-      "text": "Newsletter",
-      "url": "/newsletter"
-    },
-    {
-      "text": "About Us",
-      "url": "/about-us"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/gridnews"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/griddotnews"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/gridnews/"
-    },
-    {
-      "text": "",
-      "url": "https://www.linkedin.com/company/gridnews"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/gridnews"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/griddotnews"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/gridnews/"
-    },
-    {
-      "text": "",
-      "url": "https://www.linkedin.com/company/gridnews"
-    },
-    {
-      "text": "Sign in",
-      "url": "/signin"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "360",
-      "url": "/360/"
-    },
-    {
-      "text": "War in Ukraine",
-      "url": "/ukraine-russia/"
-    },
-    {
-      "text": "Global",
-      "url": "/global/"
-    },
-    {
-      "text": "Economy",
-      "url": "/economy/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics/"
-    },
-    {
-      "text": "Climate",
-      "url": "/climate/"
-    },
-    {
-      "text": "Science",
-      "url": "/science/"
-    },
-    {
-      "text": "Technology",
-      "url": "/technology/"
-    },
-    {
-      "text": "Misinformation",
-      "url": "/misinformation/"
-    },
-    {
-      "text": "Newsletter",
-      "url": "/newsletter"
-    },
-    {
-      "text": "",
-      "url": "/story/politics/2022/06/24/is-abortion-legal-what-the-supreme-court-overturning-of-roe-v-wade-means/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics/"
-    },
-    {
-      "text": "Is abortion legal? What the Supreme Court overturning of Roe v. Wade means",
-      "url": "/story/politics/2022/06/24/is-abortion-legal-what-the-supreme-court-overturning-of-roe-v-wade-means/"
-    },
-    {
-      "text": "Maggie Severns",
-      "url": "/author/maggie-severns/"
-    },
-    {
-      "text": "Alex Leeds Matthews",
-      "url": "/author/alex-leeds-matthews/"
-    },
-    {
-      "text": "Dan Vergano",
-      "url": "/author/dan-vergano/"
-    },
-    {
-      "text": "Jonathan Lambert",
-      "url": "/author/jonathan-lambert/"
-    },
-    {
-      "text": "Kaila Philo",
-      "url": "/author/kaila-philo/"
-    },
-    {
-      "text": "",
-      "url": "/story/politics/2022/06/24/the-supreme-court-just-made-it-a-whole-lot-easier-to-conceal-carry-a-gun/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics/"
-    },
-    {
-      "text": "The Supreme Court just made it a whole lot easier to conceal-carry a gun.",
-      "url": "/story/politics/2022/06/24/the-supreme-court-just-made-it-a-whole-lot-easier-to-conceal-carry-a-gun/"
-    },
-    {
-      "text": "Kaila Philo",
-      "url": "/author/kaila-philo/"
-    },
-    {
-      "text": "",
-      "url": "/story/science/2022/06/24/a-new-legal-battle-post-roe-can-states-ban-fda-approved-abortion-pills/"
-    },
-    {
-      "text": "Science",
-      "url": "/science/"
-    },
-    {
-      "text": "A new legal battle post-Roe: Can states ban FDA-approved abortion pills?",
-      "url": "/story/science/2022/06/24/a-new-legal-battle-post-roe-can-states-ban-fda-approved-abortion-pills/"
-    },
-    {
-      "text": "Jonathan Lambert",
-      "url": "/author/jonathan-lambert/"
-    },
-    {
-      "text": "",
-      "url": "/story/politics/2022/06/24/the-supreme-courts-gun-ruling-sets-a-disturbing-new-precedent-ignoring-scientific-evidence/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics/"
-    },
-    {
-      "text": "The Supreme Court\u2019s gun ruling sets a disturbing new precedent: Ignoring scientific evidence",
-      "url": "/story/politics/2022/06/24/the-supreme-courts-gun-ruling-sets-a-disturbing-new-precedent-ignoring-scientific-evidence/"
-    },
-    {
-      "text": "Dan Vergano",
-      "url": "/author/dan-vergano/"
-    },
-    {
-      "text": "",
-      "url": "/story/climate/2022/06/24/welcome-to-the-summer-from-hell-2022-is-shaping-up-to-be-a-season-of-disaster-and-a-preview-of-our-future/"
-    },
-    {
-      "text": "Climate",
-      "url": "/climate/"
-    },
-    {
-      "text": "Welcome to the summer from hell: 2022 is shaping up to be a season of disaster \u2014 and a preview of our future",
-      "url": "/story/climate/2022/06/24/welcome-to-the-summer-from-hell-2022-is-shaping-up-to-be-a-season-of-disaster-and-a-preview-of-our-future/"
-    },
-    {
-      "text": "Dave Levitan",
-      "url": "/author/dave-levitan/"
-    },
-    {
-      "text": "",
-      "url": "/story/politics/2022/06/23/a-letter-reveals-20-republican-senators-defended-a-machine-gun-loophole-months-before-the-uvalde-shooter-used-it/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics/"
-    },
-    {
-      "text": "A letter reveals 20 Republican senators defended a machine gun loophole months before the Uvalde shooter used it",
-      "url": "/story/politics/2022/06/23/a-letter-reveals-20-republican-senators-defended-a-machine-gun-loophole-months-before-the-uvalde-shooter-used-it/"
-    },
-    {
-      "text": "Jason Paladino",
-      "url": "/author/jason-paladino/"
-    },
-    {
-      "text": "Kaila Philo",
-      "url": "/author/kaila-philo/"
-    },
-    {
-      "text": "",
-      "url": "/story/politics/2022/06/14/new-york-wants-to-curb-gun-violence-but-the-supreme-court-may-loosen-conceal-carry-gun-laws/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics/"
-    },
-    {
-      "text": "New York wants to curb gun violence, but the Supreme Court just loosened conceal-carry gun laws",
-      "url": "/story/politics/2022/06/14/new-york-wants-to-curb-gun-violence-but-the-supreme-court-may-loosen-conceal-carry-gun-laws/"
-    },
-    {
-      "text": "Kaila Philo",
-      "url": "/author/kaila-philo/"
-    },
-    {
-      "text": "",
-      "url": "/story/politics/2022/06/14/new-york-wants-to-curb-gun-violence-but-the-supreme-court-may-loosen-conceal-carry-gun-laws/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics/"
-    },
-    {
-      "text": "New York wants to curb gun violence, but the Supreme Court just loosened conceal-carry gun laws",
-      "url": "/story/politics/2022/06/14/new-york-wants-to-curb-gun-violence-but-the-supreme-court-may-loosen-conceal-carry-gun-laws/"
-    },
-    {
-      "text": "Kaila Philo",
-      "url": "/author/kaila-philo/"
-    },
-    {
-      "text": "",
-      "url": "/story/science/2022/06/23/children-face-a-mental-health-crisis-here-are-the-solutions/"
-    },
-    {
-      "text": "Science",
-      "url": "/science/"
-    },
-    {
-      "text": "The gun bill is really a children\u2019s mental health bill ",
-      "url": "/story/science/2022/06/23/children-face-a-mental-health-crisis-here-are-the-solutions/"
-    },
-    {
-      "text": "Dan Vergano",
-      "url": "/author/dan-vergano/"
-    },
-    {
-      "text": "Alex Leeds Matthews",
-      "url": "/author/alex-leeds-matthews/"
-    },
-    {
-      "text": "",
-      "url": "/story/global/2022/06/23/how-a-human-rights-law-targeting-forced-labor-in-xinjiang-is-shaking-up-the-us-china-supply-chain/"
-    },
-    {
-      "text": "Global",
-      "url": "/global/"
-    },
-    {
-      "text": "How a human rights law targeting forced labor in Xinjiang is shaking up the U.S.-China supply chain",
-      "url": "/story/global/2022/06/23/how-a-human-rights-law-targeting-forced-labor-in-xinjiang-is-shaking-up-the-us-china-supply-chain/"
-    },
-    {
-      "text": "Lili Pike",
-      "url": "/author/lili-pike/"
-    },
-    {
-      "text": "",
-      "url": "/story/global/2022/06/23/russia-created-a-global-food-crisis-by-invading-ukraine-heres-what-can-be-done-to-stop-millions-from-starving/"
-    },
-    {
-      "text": "Global",
-      "url": "/global/"
-    },
-    {
-      "text": "Russia created a global food crisis by invading Ukraine. Here\u2019s what can be done to stop millions from starving.  ",
-      "url": "/story/global/2022/06/23/russia-created-a-global-food-crisis-by-invading-ukraine-heres-what-can-be-done-to-stop-millions-from-starving/"
-    },
-    {
-      "text": "Nikhil Kumar",
-      "url": "/author/nikhil-kumar/"
-    },
-    {
-      "text": "",
-      "url": "/story/global/2022/06/23/the-ukraine-war-in-data-16000-alleged-war-crimes-and-counting/"
-    },
-    {
-      "text": "Global",
-      "url": "/global/"
-    },
-    {
-      "text": "The Ukraine War in data: 16,000 alleged war crimes, and counting",
-      "url": "/story/global/2022/06/23/the-ukraine-war-in-data-16000-alleged-war-crimes-and-counting/"
-    },
-    {
-      "text": "Alex Leeds Matthews",
-      "url": "/author/alex-leeds-matthews/"
-    },
-    {
-      "text": "Matt Stiles",
-      "url": "/author/matt-stiles/"
-    },
-    {
-      "text": "Tom Nagorski",
-      "url": "/author/tom-nagorski/"
-    },
-    {
-      "text": "Justin Rood",
-      "url": "/author/justin-rood/"
-    },
-    {
-      "text": "",
-      "url": "/story/global/2022/06/22/ukraine-war-in-photos-the-farewells/"
-    },
-    {
-      "text": "Global",
-      "url": "/global/"
-    },
-    {
-      "text": "Ukraine war in photos: The farewells",
-      "url": "/story/global/2022/06/22/ukraine-war-in-photos-the-farewells/"
-    },
-    {
-      "text": "Tom Nagorski",
-      "url": "/author/tom-nagorski/"
-    },
-    {
-      "text": "Jackie Padilla",
-      "url": "/author/jackie-padilla/"
-    },
-    {
-      "text": "Jake Garcia",
-      "url": "/author/jake-garcia/"
-    },
-    {
-      "text": "Back to top ",
-      "url": "#"
-    },
-    {
-      "text": " Twitter",
-      "url": "https://twitter.com/gridnews"
-    },
-    {
-      "text": " Facebook",
-      "url": "https://www.facebook.com/GridDotNews"
-    },
-    {
-      "text": " Instagram",
-      "url": "https://www.instagram.com/gridnews/"
-    },
-    {
-      "text": " LinkedIn",
-      "url": "https://www.linkedin.com/company/gridnews/"
-    },
-    {
-      "text": "Apple News",
-      "url": "https://apple.news/ThkiPJ1F4Tn2LgbQz2zzCng"
-    },
-    {
-      "text": "Flipboard",
-      "url": "https://flipboard.com/@GridNews"
-    },
-    {
-      "text": "iOS app",
-      "url": "https://apps.apple.com/us/app/grid-news/id1593920798"
-    },
-    {
-      "text": "Android app",
-      "url": "https://play.google.com/store/apps/details?id=news.illo.app&hl=en_US&gl=US"
-    },
-    {
-      "text": "About us",
-      "url": "/about-us"
-    },
-    {
-      "text": "We're hiring",
-      "url": "https://boards.greenhouse.io/gridnews"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "/terms-of-service/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy-policy/"
-    },
-    {
-      "text": "Cookie Policy",
-      "url": "/cookie-policy/"
-    },
-    {
-      "text": "Do Not Sell My Personal Info",
-      "url": "https://privacyportal.onetrust.com/webform/e186b9e3-0ef1-4cea-9525-0fe3df77b7be/53b8f51e-110c-431c-97bc-b4b62b91dbb8"
-    },
-    {
-      "text": "search by queryly ",
-      "url": "https://www.queryly.com/"
-    },
-    {
-      "text": "Advanced Search",
-      "url": "#"
-    },
-    {
-      "text": "More information",
-      "url": "https://cookiepedia.co.uk/giving-consent-to-cookies"
-    },
-    {
-      "text": "",
-      "url": "https://www.onetrust.com/products/cookie-consent/"
-    }
-  ],
-  "item_last_updated": 1656111390,
-  "item_size": 9991190,
+  "files_count": 141,
+  "item_last_updated": 1656197239,
+  "item_size": 11321700,
   "metadata": {
     "identifier": "gridnews-2022",
     "collection": [
@@ -1796,7 +1502,7 @@
     "addeddate": "2022-06-18 17:08:01"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 2068569556,
+  "uniq": 574788605,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"
