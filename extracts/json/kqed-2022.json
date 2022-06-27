@@ -1,5 +1,5 @@
 {
-  "created": 1656197285,
+  "created": 1656289320,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/kqed-2022",
@@ -182,31 +182,157 @@
       "format": "JSON"
     },
     {
+      "name": "kqed-2022-06-25T18:40:21.727563-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656207624",
+      "size": "28608",
+      "md5": "f4a8f9833285792171a74a4d7530589b",
+      "crc32": "484eb26a",
+      "sha1": "fb3490d29a7adf8d88e9f00c2bb07b39de7d89fb",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-25T18:40:21.727563-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656207625",
+      "size": "18437",
+      "md5": "98580f773fd6ee7e7f4cb0b1c3fab2dd",
+      "crc32": "937e072a",
+      "sha1": "ec041845948202ee4f82a58844330c0d3174d89a",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-25T18:40:21.727563-07:00.jpg",
+      "source": "original",
+      "mtime": "1656207622",
+      "size": "225471",
+      "md5": "52f20795d001b5fa2dc0ecf02c2e0fc1",
+      "crc32": "fb3e0516",
+      "sha1": "e7e1fbfc2e336d826d52007dd3a111cae7768f13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-06-25T18:40:21.727563-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-06-25T18:40:21.727563-07:00.jpg",
+      "mtime": "1656207681",
+      "size": "9572",
+      "md5": "283e7fe5c26cf3e251aada8ec0a2704b",
+      "crc32": "19ec108c",
+      "sha1": "f4e2bc99d07cc95568d44b3d4f4eab32c2bcb07e"
+    },
+    {
+      "name": "kqed-2022-06-26T02:29:28.272195-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656235771",
+      "size": "28789",
+      "md5": "d02c51bc7eceaae409cda748e69b23b5",
+      "crc32": "f3d397f1",
+      "sha1": "8232d5fc779b263467dcdb9d901c3be4e9d9a225",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-26T02:29:28.272195-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656235773",
+      "size": "18935",
+      "md5": "28f190f80d5efcedc7b7a2b7ecb3ee0b",
+      "crc32": "51a2004d",
+      "sha1": "53746da617364a2dab594681056d774fca6a238b",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-26T02:29:28.272195-07:00.jpg",
+      "source": "original",
+      "mtime": "1656235770",
+      "size": "225253",
+      "md5": "b8516202662ef1ec544f55bc205a347c",
+      "crc32": "3e6fa952",
+      "sha1": "b4be6b760f089e75257d111cb76b60d3e5441e5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-06-26T02:29:28.272195-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-06-26T02:29:28.272195-07:00.jpg",
+      "mtime": "1656235817",
+      "size": "9571",
+      "md5": "85f069d355fa11ba951e0f846b8c4509",
+      "crc32": "07016b45",
+      "sha1": "3e338b1dfe4f9497f828b998c9d2376ff9ed0b11"
+    },
+    {
+      "name": "kqed-2022-06-26T10:33:15.405969-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656264798",
+      "size": "28367",
+      "md5": "ca7122076d4bf5325735473c4e0a09c9",
+      "crc32": "fad39bc3",
+      "sha1": "9ab4378a8fac56f2ed6e91c75693a8cdb41fa80d",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-26T10:33:15.405969-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656264799",
+      "size": "18415",
+      "md5": "322dfc5c9a91dad15f70648300d04645",
+      "crc32": "3a1859d6",
+      "sha1": "ae6385d6358ac62dd31c6a97b9ae155fee37148b",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-26T10:33:15.405969-07:00.jpg",
+      "source": "original",
+      "mtime": "1656264796",
+      "size": "226051",
+      "md5": "fd4dc7d83e26cb5cc67699a49a12d894",
+      "crc32": "5453c6c7",
+      "sha1": "9594748ddff3c1994e4dc677698102e6bfb8f8b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-06-26T10:33:15.405969-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-06-26T10:33:15.405969-07:00.jpg",
+      "mtime": "1656264844",
+      "size": "9428",
+      "md5": "f4dffb953f70307196b463f87bf78bf5",
+      "crc32": "8efca2e0",
+      "sha1": "886300d6262d3a6cc27d445fbc83611728745406"
+    },
+    {
       "name": "kqed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af4916cb8292d038e85df832271ce435a10decf2",
-      "mtime": "1656197272",
-      "size": "4881",
-      "md5": "e125f9044c10353857ad7fdface00d97",
-      "crc32": "f69564b4",
-      "sha1": "d8d3881f8b1862edd6ba26afdaef86028100432b",
+      "btih": "f637be17a25c89eb2c2ca4d5ae7ce50599bfcadc",
+      "mtime": "1656264848",
+      "size": "7360",
+      "md5": "8691b260e1c74443f0475ab7694dafc0",
+      "crc32": "17e27db8",
+      "sha1": "b43cd712557a2a3b123fff8e59268143d95ef952",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kqed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87f7698c7d1021b4bcab9cf6b273dba0",
+      "md5": "cac9603c445e755b1d4934a449ab21b8",
       "summation": "md5"
     },
     {
       "name": "kqed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656197236",
-      "size": "40960",
-      "md5": "8880bf4e99510204beaa535724cdcc9d",
-      "crc32": "10113acf",
-      "sha1": "3d544910837eb1aca0b31932eca6d3e082ea2024",
+      "mtime": "1656264803",
+      "size": "53248",
+      "md5": "818d385d9732560edfe82ec8114ad236",
+      "crc32": "fd96d866",
+      "sha1": "09d5e2fb999fd405b80b9a58e002d8ee173c93ae",
       "format": "Metadata"
     },
     {
@@ -220,9 +346,1015 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 21,
-  "item_last_updated": 1656197272,
-  "item_size": 962497,
+  "files_count": 33,
+  "item_last_updated": 1656264848,
+  "item_size": 1824161,
+  "kqed-2022": [
+    {
+      "text": "Skip to Nav",
+      "url": "#navBar"
+    },
+    {
+      "text": "Skip to Main",
+      "url": "#main-content"
+    },
+    {
+      "text": "Skip to Footer",
+      "url": "#footer"
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.kqed.org/givetoday"
+    },
+    {
+      "text": "News",
+      "url": "/"
+    },
+    {
+      "text": "Politics",
+      "url": "/politics"
+    },
+    {
+      "text": "Science",
+      "url": "/science"
+    },
+    {
+      "text": "Education",
+      "url": "/educationnews"
+    },
+    {
+      "text": "Housing",
+      "url": "/housing"
+    },
+    {
+      "text": "Immigration",
+      "url": "/immigration"
+    },
+    {
+      "text": "Criminal Justice",
+      "url": "/criminaljustice"
+    },
+    {
+      "text": "Silicon Valley",
+      "url": "/siliconvalley"
+    },
+    {
+      "text": "Forum",
+      "url": "/forum"
+    },
+    {
+      "text": "The California Report",
+      "url": "/californiareport"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "/arts"
+    },
+    {
+      "text": "Critics\u2019 Picks",
+      "url": "/thedolist"
+    },
+    {
+      "text": "Affordability",
+      "url": "/thehustle"
+    },
+    {
+      "text": "Cultural Commentary",
+      "url": "/artscommentary"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "/food"
+    },
+    {
+      "text": "Arts Video",
+      "url": "/artsvideos"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "Bay Curious",
+      "url": "/podcasts/baycurious"
+    },
+    {
+      "text": "Rightnowish",
+      "url": "/podcasts/rightnowish"
+    },
+    {
+      "text": "The Bay",
+      "url": "/podcasts/thebay"
+    },
+    {
+      "text": "On Our Watch",
+      "url": "/podcasts/onourwatch"
+    },
+    {
+      "text": "Mindshift",
+      "url": "/podcasts/mindshift"
+    },
+    {
+      "text": "Consider This",
+      "url": "/podcasts/considerthis"
+    },
+    {
+      "text": "Political Breakdown",
+      "url": "/podcasts/politicalbreakdown"
+    },
+    {
+      "text": "Live Radio",
+      "url": "/radio"
+    },
+    {
+      "text": "TV",
+      "url": "/tv"
+    },
+    {
+      "text": "Events",
+      "url": "/events"
+    },
+    {
+      "text": "For Educators",
+      "url": "/education"
+    },
+    {
+      "text": "Support KQED",
+      "url": "/support"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://kqed-helpcenter.kqed.org/s/"
+    },
+    {
+      "text": "KQED",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/"
+    },
+    {
+      "text": "Politics",
+      "url": "/politics"
+    },
+    {
+      "text": "Science",
+      "url": "/science"
+    },
+    {
+      "text": "Education",
+      "url": "/educationnews"
+    },
+    {
+      "text": "Housing",
+      "url": "/housing"
+    },
+    {
+      "text": "Immigration",
+      "url": "/immigration"
+    },
+    {
+      "text": "Criminal Justice",
+      "url": "/criminaljustice"
+    },
+    {
+      "text": "Silicon Valley",
+      "url": "/siliconvalley"
+    },
+    {
+      "text": "Forum",
+      "url": "/forum"
+    },
+    {
+      "text": "The California Report",
+      "url": "/californiareport"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "/arts"
+    },
+    {
+      "text": "Critics\u2019 Picks",
+      "url": "/thedolist"
+    },
+    {
+      "text": "Affordability",
+      "url": "/thehustle"
+    },
+    {
+      "text": "Cultural Commentary",
+      "url": "/artscommentary"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "/food"
+    },
+    {
+      "text": "Arts Video",
+      "url": "/artsvideos"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "Bay Curious",
+      "url": "/podcasts/baycurious"
+    },
+    {
+      "text": "Rightnowish",
+      "url": "/podcasts/rightnowish"
+    },
+    {
+      "text": "The Bay",
+      "url": "/podcasts/thebay"
+    },
+    {
+      "text": "On Our Watch",
+      "url": "/podcasts/onourwatch"
+    },
+    {
+      "text": "MindShift",
+      "url": "/podcasts/mindshift"
+    },
+    {
+      "text": "Consider This",
+      "url": "/podcasts/considerthis"
+    },
+    {
+      "text": "Political Breakdown",
+      "url": "/podcasts/politicalbreakdown"
+    },
+    {
+      "text": "Events",
+      "url": "/events"
+    },
+    {
+      "text": "KQED Live",
+      "url": "/events"
+    },
+    {
+      "text": "Past Events",
+      "url": "/events/archive"
+    },
+    {
+      "text": "PRX Podcast Garage",
+      "url": "/podcastgarage"
+    },
+    {
+      "text": "For Educators",
+      "url": "https://kqed.teachable.com/p/events"
+    },
+    {
+      "text": "Community Art",
+      "url": "/about/communityart"
+    },
+    {
+      "text": "Plan Your Visit",
+      "url": "/about/visit"
+    },
+    {
+      "text": "TV",
+      "url": "/tv"
+    },
+    {
+      "text": "Live TV \u2013 KQED 9",
+      "url": "/livetv"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/tv/schedules/daily"
+    },
+    {
+      "text": "On KQED Magazine",
+      "url": "/support/membership/onq"
+    },
+    {
+      "text": "Film School Shorts",
+      "url": "/filmschoolshorts"
+    },
+    {
+      "text": "Check, Please! Bay Area",
+      "url": "/checkplease"
+    },
+    {
+      "text": "Truly CA",
+      "url": "/trulyca"
+    },
+    {
+      "text": "KQED Newsroom",
+      "url": "/kqednewsroom"
+    },
+    {
+      "text": "Support KQED",
+      "url": "/support"
+    },
+    {
+      "text": "Membership",
+      "url": "/support/membership"
+    },
+    {
+      "text": "Gift Planning",
+      "url": "/support/giftplanning"
+    },
+    {
+      "text": "Car Donation",
+      "url": "https://kqed.careasy.org/HOME.html"
+    },
+    {
+      "text": "Donor Portal",
+      "url": "https://my.kqed.org/user"
+    },
+    {
+      "text": "Volunteer",
+      "url": "/support/volunteer"
+    },
+    {
+      "text": "Campaign 21",
+      "url": "/campaign21"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/intent/tweet?url="
+    },
+    {
+      "text": "Email",
+      "url": "mailto:?subject=Check%20out%20this%20article%20from%20KQED&body="
+    },
+    {
+      "text": "News",
+      "url": "/"
+    },
+    {
+      "text": "Politics",
+      "url": "/politics"
+    },
+    {
+      "text": "Science",
+      "url": "/science"
+    },
+    {
+      "text": "Education",
+      "url": "/educationnews"
+    },
+    {
+      "text": "Housing",
+      "url": "/housing"
+    },
+    {
+      "text": "Immigration",
+      "url": "/immigration"
+    },
+    {
+      "text": "Criminal Justice",
+      "url": "/criminaljustice"
+    },
+    {
+      "text": "Silicon Valley",
+      "url": "/siliconvalley"
+    },
+    {
+      "text": "Forum",
+      "url": "/forum"
+    },
+    {
+      "text": "The California Report",
+      "url": "/californiareport"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "/arts"
+    },
+    {
+      "text": "Critics\u2019 Picks",
+      "url": "/thedolist"
+    },
+    {
+      "text": "Affordability",
+      "url": "/thehustle"
+    },
+    {
+      "text": "Cultural Commentary",
+      "url": "/artscommentary"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "/food"
+    },
+    {
+      "text": "Arts Video",
+      "url": "/artsvideos"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "Bay Curious",
+      "url": "/podcasts/baycurious"
+    },
+    {
+      "text": "Rightnowish",
+      "url": "/podcasts/rightnowish"
+    },
+    {
+      "text": "The Bay",
+      "url": "/podcasts/thebay"
+    },
+    {
+      "text": "On Our Watch",
+      "url": "/podcasts/onourwatch"
+    },
+    {
+      "text": "MindShift",
+      "url": "/podcasts/mindshift"
+    },
+    {
+      "text": "Consider This",
+      "url": "/podcasts/considerthis"
+    },
+    {
+      "text": "Political Breakdown",
+      "url": "/podcasts/politicalbreakdown"
+    },
+    {
+      "text": "Events",
+      "url": "/events"
+    },
+    {
+      "text": "KQED Live",
+      "url": "/events"
+    },
+    {
+      "text": "Past Events",
+      "url": "/events/archive"
+    },
+    {
+      "text": "PRX Podcast Garage",
+      "url": "/podcastgarage"
+    },
+    {
+      "text": "For Educators",
+      "url": "https://kqed.teachable.com/p/events"
+    },
+    {
+      "text": "Community Art",
+      "url": "/about/communityart"
+    },
+    {
+      "text": "Plan Your Visit",
+      "url": "/about/visit"
+    },
+    {
+      "text": "TV",
+      "url": "/tv"
+    },
+    {
+      "text": "Live TV \u2013 KQED 9",
+      "url": "/livetv"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/tv/schedules/daily"
+    },
+    {
+      "text": "On KQED Magazine",
+      "url": "/support/membership/onq"
+    },
+    {
+      "text": "Film School Shorts",
+      "url": "/filmschoolshorts"
+    },
+    {
+      "text": "Check, Please! Bay Area",
+      "url": "/checkplease"
+    },
+    {
+      "text": "Truly CA",
+      "url": "/trulyca"
+    },
+    {
+      "text": "KQED Newsroom",
+      "url": "/kqednewsroom"
+    },
+    {
+      "text": "Support KQED",
+      "url": "/support"
+    },
+    {
+      "text": "Membership",
+      "url": "/support/membership"
+    },
+    {
+      "text": "Gift Planning",
+      "url": "/support/giftplanning"
+    },
+    {
+      "text": "Car Donation",
+      "url": "https://kqed.careasy.org/HOME.html"
+    },
+    {
+      "text": "Donor Portal",
+      "url": "https://my.kqed.org/user"
+    },
+    {
+      "text": "Volunteer",
+      "url": "/support/volunteer"
+    },
+    {
+      "text": "Campaign 21",
+      "url": "/campaign21"
+    },
+    {
+      "text": "Wait Wait... Don't Tell Me!",
+      "url": "/radio/program/wait-wait-dont-tell-me"
+    },
+    {
+      "text": "Wait Wait... Don't Tell Me! is NPR's weekly hour-long quiz program. Each week on the radio you can test your knowledge against some of the best and brightest in the news and entertainment world while figuring out what's real news and what's made up. On the Web, you can play along too.",
+      "url": "/radio"
+    },
+    {
+      "text": "see more",
+      "url": "/radio"
+    },
+    {
+      "text": "Radio Schedule",
+      "url": "/radio/schedule"
+    },
+    {
+      "text": "Wait Wait... Don't Tell Me!",
+      "url": "/radio/program/wait-wait-dont-tell-me"
+    },
+    {
+      "text": "Wait Wait... Don't Tell Me! is NPR's weekly hour-long quiz program. Each week on the radio you can test your knowledge against some of the best and brightest in the news and entertainment world while figuring out what's real news and what's made up. On the Web, you can play along too.",
+      "url": "/radio"
+    },
+    {
+      "text": "see more",
+      "url": "/radio"
+    },
+    {
+      "text": "Radio Schedule",
+      "url": "/radio/schedule"
+    },
+    {
+      "text": "",
+      "url": "/news/11917710/sfpd-officers-to-march-in-pride-amid-complicated-feelings-uniform-compromise"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917975/with-roe-v-wade-overturned-whats-next-for-our-constitutional-rights"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917958/abortion-reactions-pride-this-week-in-ca-news"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917624/how-a-young-gay-man-survived-one-of-the-darkest-eras-in-california-queer-history"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/arts/13915231/as-roe-falls-criminal-defense-lawyers-sound-the-alarm-about-mass-incarceration"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917866/what-to-consider-about-contraception-and-pregnancy-after-roe-v-wade-is-overturned"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "Science",
+      "url": "/science"
+    },
+    {
+      "text": "Science",
+      "url": "/science"
+    },
+    {
+      "text": "",
+      "url": "/news/11917541/californians-ready-to-help-people-from-out-of-state-receive-abortion-care-state-may-offer-money-for-travel-child-care"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/science/1979560/cal-fire-fumbles-key-responsibilities-to-prevent-catastrophic-wildfires-despite-historic-budget"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/science/1979526/how-to-see-five-planets-all-in-a-row-in-the-early-dawn-sky"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "More Science",
+      "url": "/science"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "/arts"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "/arts"
+    },
+    {
+      "text": "",
+      "url": "/arts/13915231/as-roe-falls-criminal-defense-lawyers-sound-the-alarm-about-mass-incarceration"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/arts/13915217/gabby-giffords-documentary-arrives-as-gun-debates-stay-center-stage"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/arts/13915069/searching-for-a-kiki-the-next-generation-of-black-and-queer-bars"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "More Arts & Culture",
+      "url": "/arts"
+    },
+    {
+      "text": "",
+      "url": "/reparations"
+    },
+    {
+      "text": "Read the Series",
+      "url": "/reparations"
+    },
+    {
+      "text": "",
+      "url": "/pge"
+    },
+    {
+      "text": "Read the Series",
+      "url": "/pge"
+    },
+    {
+      "text": "",
+      "url": "/rebelgirls"
+    },
+    {
+      "text": "Read the Series",
+      "url": "/rebelgirls"
+    },
+    {
+      "text": "",
+      "url": "https://learn.kqed.org/challenges/submission/NjI4ODcyOGIwNzQ5ODEwODI3ZDNjMmE2"
+    },
+    {
+      "text": "",
+      "url": "https://learn.kqed.org/challenges/submission/NjI0MzQxNGZiZjU3N2U0OGYxMzkwMWQz"
+    },
+    {
+      "text": "",
+      "url": "https://learn.kqed.org/challenges/submission/NjFkMmI5MGFkZmJjNjkxODE1MjhiYWFi"
+    },
+    {
+      "text": "More Youth Media",
+      "url": "https://learn.kqed.org/challenges/"
+    },
+    {
+      "text": "",
+      "url": "/news/11917071/more-california-cities-are-outlawing-harassment-by-landlords"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11916729/my-roots-are-at-the-flea-market-as-la-pulga-closure-looms-over-vendors-one-san-jose-family-weighs-the-future"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11914873/newsoms-care-court-faces-foe-shortage-of-treatment-beds-housing"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11914765/your-biggest-ideas-on-how-to-solve-the-housing-crisis"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "More Housing Affordability",
+      "url": "/housing"
+    },
+    {
+      "text": "",
+      "url": "/news/11917687/we-are-all-very-devastated-bay-area-afghans-scramble-to-contact-family-after-earthquake"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917597/immigrant-detainees-strike-over-working-conditions-california-regulators-investigate"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917125/bay-area-daca-recipients-have-mixed-emotions-on-10-year-anniversary"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11914800/newsom-wants-to-expand-medi-cal-to-all-undocumented-immigrants-by-2024-advocates-say-they-need-it-sooner"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "More Immigration",
+      "url": "/immigration"
+    },
+    {
+      "text": "KQED Original Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "KQED Original Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/baycurious"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/truthbetold"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/thebay"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/rightnowish"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/mindshift"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/soldout"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/considerthis"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/onourwatch"
+    },
+    {
+      "text": "",
+      "url": "/news/11917710/sfpd-officers-to-march-in-pride-amid-complicated-feelings-uniform-compromise"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917975/with-roe-v-wade-overturned-whats-next-for-our-constitutional-rights"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917958/abortion-reactions-pride-this-week-in-ca-news"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917624/how-a-young-gay-man-survived-one-of-the-darkest-eras-in-california-queer-history"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/arts/13915231/as-roe-falls-criminal-defense-lawyers-sound-the-alarm-about-mass-incarceration"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917866/what-to-consider-about-contraception-and-pregnancy-after-roe-v-wade-is-overturned"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11917796/california-oregon-and-washington-create-coalition-to-increase-abortion-access-for-those-in-other-states"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "Ki Sung",
+      "url": "/author/ksung"
+    },
+    {
+      "text": "Devin Katayama",
+      "url": "/author/dkatayama"
+    },
+    {
+      "text": "Pendarvis Harshaw",
+      "url": "/author/ogpenn"
+    },
+    {
+      "text": "Kevin Stark",
+      "url": "/author/kevinstark"
+    },
+    {
+      "text": "Gabe Meline",
+      "url": "/author/gmeline"
+    },
+    {
+      "text": "Mina Kim",
+      "url": "/author/minakim"
+    },
+    {
+      "text": "Sarah Hotchkiss",
+      "url": "/author/shotchkiss"
+    },
+    {
+      "text": "Nastia Voynovskaya",
+      "url": "/author/nvoynovskaya"
+    },
+    {
+      "text": "Sasha Khokha",
+      "url": "/author/sasha-khokha"
+    },
+    {
+      "text": "TV",
+      "url": "/tv"
+    },
+    {
+      "text": "Radio",
+      "url": "/radio"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "Events",
+      "url": "/events"
+    },
+    {
+      "text": "For Educators",
+      "url": "/education"
+    },
+    {
+      "text": "News",
+      "url": "/"
+    },
+    {
+      "text": "Science",
+      "url": "/science"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "/arts"
+    },
+    {
+      "text": "Donate",
+      "url": "/support"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://kqed-helpcenter.kqed.org/s/"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": " Staff DEI Report ",
+      "url": "/about/dei"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers"
+    },
+    {
+      "text": "Corporate Sponsorship",
+      "url": "/corporate-sponsorship"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://kqed-helpcenter.kqed.org/s/contactsupport"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/KQED"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/KQED"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/kqed"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/about/terms-service"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/about/privacy-policy"
+    },
+    {
+      "text": "Contest Rules",
+      "url": "/support/contest-rules"
+    },
+    {
+      "text": "FCC Public Files",
+      "url": "/about/report-to-the-community/fcc-public-inspection-files"
+    }
+  ],
   "metadata": {
     "identifier": "kqed-2022",
     "collection": [
@@ -240,7 +1372,7 @@
     "addeddate": "2022-06-24 22:56:44"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 1609619563,
+  "uniq": 519164007,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

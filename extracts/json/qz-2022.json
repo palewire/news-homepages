@@ -1,5 +1,5 @@
 {
-  "created": 1656203053,
+  "created": 1656289448,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/qz-2022",
@@ -1108,31 +1108,157 @@
       "sha1": "310a04775c54e6d057dd9397e0e9e7af4dc9b765"
     },
     {
+      "name": "qz-2022-06-25T21:43:48.684243-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656207832",
+      "size": "12790",
+      "md5": "e531e675df845ec9c512ba3ad90306bc",
+      "crc32": "386f73dc",
+      "sha1": "6626cc0d94dae5ab4e98cde1cebe2ee259930bd7",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-25T21:43:48.684243-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656207833",
+      "size": "13969",
+      "md5": "94a73c7d5c8f4cf19d990c582970bb1c",
+      "crc32": "5855df3b",
+      "sha1": "ae03cfffd83aa8f0c9a94a4beefdb077c7713766",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-25T21:43:48.684243-04:00.jpg",
+      "source": "original",
+      "mtime": "1656207830",
+      "size": "230112",
+      "md5": "bbe8b0aca164f01540a5a152e5d849e6",
+      "crc32": "10ced6e5",
+      "sha1": "ab8f47e654641e1b82e13525bc8dd9e1344f7b17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-25T21:43:48.684243-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-25T21:43:48.684243-04:00.jpg",
+      "mtime": "1656207878",
+      "size": "8499",
+      "md5": "7b42d28b600f979411a6327009592aad",
+      "crc32": "d2f3df6e",
+      "sha1": "c9a97175271584c80f9c1df7cac9be8e04487452"
+    },
+    {
+      "name": "qz-2022-06-26T05:33:23.987553-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656236007",
+      "size": "12762",
+      "md5": "e9ba1188bda6c401b3f4eebbd37898ec",
+      "crc32": "7d260086",
+      "sha1": "b0aab5c25f2e225b637659911ac3dd6783a8be4c",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-26T05:33:23.987553-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656236008",
+      "size": "13955",
+      "md5": "ff4df9406b64510a9a4934d8cb30e886",
+      "crc32": "47d379b6",
+      "sha1": "d2f14d28757f169ef783ab9f0c8cbd7479ff4f98",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-26T05:33:23.987553-04:00.jpg",
+      "source": "original",
+      "mtime": "1656236005",
+      "size": "227432",
+      "md5": "4e74035a6077ec5c06515030b011c983",
+      "crc32": "966c6303",
+      "sha1": "714495e24cf8a97dcf0605d6ef7929bdf5f40551",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-26T05:33:23.987553-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-26T05:33:23.987553-04:00.jpg",
+      "mtime": "1656236052",
+      "size": "8551",
+      "md5": "5d4fc2c085c2cdcc42e880b86753ba4c",
+      "crc32": "c9ebf763",
+      "sha1": "0da34599216b2d6fceec09df2feeb28db6b191a8"
+    },
+    {
+      "name": "qz-2022-06-26T13:36:28.603812-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656264992",
+      "size": "12767",
+      "md5": "e050bc68be169820bdf2e86f633d81c3",
+      "crc32": "06db3e84",
+      "sha1": "999ba6baac46e322e83685f0040b3c4a7213891e",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-26T13:36:28.603812-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656264994",
+      "size": "13954",
+      "md5": "9dbac5603ec236037914dc85ef3f599a",
+      "crc32": "4e33393c",
+      "sha1": "8083b87eb23a3ddfdba88082ffd6ed7d8e165af3",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-26T13:36:28.603812-04:00.jpg",
+      "source": "original",
+      "mtime": "1656264990",
+      "size": "227981",
+      "md5": "bff596e7aa01516ef1b00ee8b6942b95",
+      "crc32": "51105015",
+      "sha1": "e11fc28d9ad7665414ae1be364f6761a6b5c1538",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-26T13:36:28.603812-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-26T13:36:28.603812-04:00.jpg",
+      "mtime": "1656265039",
+      "size": "8555",
+      "md5": "6836b1c5ec87a3aaf801be441c139f09",
+      "crc32": "4486b497",
+      "sha1": "b706edae216d3fe63bc9113d6c920cbe5eeb6234"
+    },
+    {
       "name": "qz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a42347739e24e8afdf424847a51924070fc20359",
-      "mtime": "1656197487",
-      "size": "22782",
-      "md5": "adb05b71358110c8f1fc1e0c95e08cb3",
-      "crc32": "63b34812",
-      "sha1": "fdcd92c0cddfb355c272b1d40b773df1d48b8b4f",
+      "btih": "09f589465c3f113e8d6231e411f9f9535a03224b",
+      "mtime": "1656265042",
+      "size": "25217",
+      "md5": "7f85b931f7da193a610c7ebeb999b387",
+      "crc32": "761761cf",
+      "sha1": "297d65807c15e7f0b86a2399d65ba21f845d1093",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e648bb8cc359352bb9d70a805038e46e",
+      "md5": "139f7f5df9d770f3afe0f561768e048a",
       "summation": "md5"
     },
     {
       "name": "qz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656197441",
-      "size": "143360",
-      "md5": "63e43e87fedd6e0dd564d4fd3a0f175f",
-      "crc32": "64b7165e",
-      "sha1": "2ffc8a555c5900e07892ffe4082473b25bb9d3aa",
+      "mtime": "1656264998",
+      "size": "155648",
+      "md5": "7fa8d4d2d1692e0c98573308ca153006",
+      "crc32": "2cf7a959",
+      "sha1": "ceeeedd1fe983031a00fa161a77403e2f9983a05",
       "format": "Metadata"
     },
     {
@@ -1146,9 +1272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 109,
-  "item_last_updated": 1656197487,
-  "item_size": 7368804,
+  "files_count": 121,
+  "item_last_updated": 1656265042,
+  "item_size": 8174854,
   "metadata": {
     "identifier": "qz-2022",
     "collection": [
@@ -1319,7 +1445,19 @@
       "url": "/subscribe/"
     },
     {
-      "text": ".ArtDirection__22557 { padding-bottom: 61.194029850746276%; }@media (min-width: 26.5625em) { .ArtDirection__22557 { padding-bottom: 56.11940298507463%; } }",
+      "text": ".ArtDirection__27787 { padding-bottom: 61.194029850746276%; }@media (min-width: 26.5625em) { .ArtDirection__27787 { padding-bottom: 56.11940298507463%; } }",
+      "url": "/emails/quartz-forecast/2181575/the-end-of-globalization-has-been-greatly-exaggerated/"
+    },
+    {
+      "text": "The Forecast",
+      "url": "/emails/quartz-forecast/archive/"
+    },
+    {
+      "text": "\u2726 Where globalization goes nextJune 26, 2022",
+      "url": "/emails/quartz-forecast/2181575/the-end-of-globalization-has-been-greatly-exaggerated/"
+    },
+    {
+      "text": ".ArtDirection__22351 { padding-bottom: 100%; }",
       "url": "/emails/quartz-weekend-brief/2181932/did-the-us-waste-the-era-of-low-interest-rates/"
     },
     {
@@ -1329,18 +1467,6 @@
     {
       "text": "\u2726 Did we waste the era of low interest rates?June 25, 2022",
       "url": "/emails/quartz-weekend-brief/2181932/did-the-us-waste-the-era-of-low-interest-rates/"
-    },
-    {
-      "text": ".ArtDirection__25125 { padding-bottom: 100%; }",
-      "url": "/emails/quartz-forecast/2178920/leaded-aviation-gasoline-is-poisoning-a-new-generation/"
-    },
-    {
-      "text": "The Forecast",
-      "url": "/emails/quartz-forecast/archive/"
-    },
-    {
-      "text": "\u2726 The fuel poisoning a new generationJune 19, 2022",
-      "url": "/emails/quartz-forecast/2178920/leaded-aviation-gasoline-is-poisoning-a-new-generation/"
     },
     {
       "text": ".ArtDirection__23337 { padding-bottom: 100%; }",
@@ -1475,8 +1601,8 @@
       "url": "/2181213/were-the-2010s-a-wasted-decade-for-us-economic-policy/"
     },
     {
-      "text": ".ArtDirection__50890 { padding-bottom: 100%; }What will abortion access look like in the US now?Quartz \u2022 June 24, 2022",
-      "url": "/2176050/where-is-abortion-legal-in-the-us/"
+      "text": ".ArtDirection__47521 { padding-bottom: 100%; }How the three dissenting justices argued against overturning Roe v. WadeQuartz \u2022 June 24, 2022",
+      "url": "/2182099/powerful-quotes-from-the-dissenting-opinion-to-overturning-roe-v-wade/"
     },
     {
       "text": "More popular Quartz storiesMore popular Quartz stories",
@@ -1739,10 +1865,10 @@
       "url": "https://www.linkedin.com/company/quartzmedia/"
     }
   ],
-  "server": "ia601405.us.archive.org",
-  "uniq": 1766961280,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1191146362,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

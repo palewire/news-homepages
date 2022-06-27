@@ -1,5 +1,5 @@
 {
-  "created": 1656197339,
+  "created": 1656289310,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/28/items/kcrg-2022",
@@ -4316,31 +4316,157 @@
       "format": "JSON"
     },
     {
+      "name": "kcrg-2022-06-25T20:39:56.075151-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656207599",
+      "size": "34492",
+      "md5": "6f3eecdd09c4dab2b6052da293bdf949",
+      "crc32": "5d05e753",
+      "sha1": "15aa176cfa3c968e3774917820107bb410f0f4d7",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-25T20:39:56.075151-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656207600",
+      "size": "17608",
+      "md5": "5cb1bf3b68228486bd6ce464137b64dc",
+      "crc32": "ed5ac022",
+      "sha1": "82cabeb8bfd8370503c5a8788f74a66d01b31238",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-25T20:39:56.075151-05:00.jpg",
+      "source": "original",
+      "mtime": "1656207597",
+      "size": "328166",
+      "md5": "975e7c890c6c2a5b9cac52d4c1e81481",
+      "crc32": "a7c2f822",
+      "sha1": "2bb49582583b9beeb102d9464c80718c4a3d66d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-25T20:39:56.075151-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-25T20:39:56.075151-05:00.jpg",
+      "mtime": "1656207651",
+      "size": "10415",
+      "md5": "bf69d4a27f33719aed119fbfd6170f62",
+      "crc32": "41dccb3b",
+      "sha1": "810844e9c5c06193292a840c1d907eabc1a0b207"
+    },
+    {
+      "name": "kcrg-2022-06-26T04:29:37.560821-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656235782",
+      "size": "34763",
+      "md5": "a59f93917a14c1b5cb183feaffd1f800",
+      "crc32": "3f61e5f9",
+      "sha1": "0986f8f86ae5e28cef6e197e46598b8dffdda330",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-26T04:29:37.560821-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656235783",
+      "size": "17541",
+      "md5": "9181eea71401408c7ea84216615f7063",
+      "crc32": "d028e60c",
+      "sha1": "1ed6966980d18be7c85db225b252d52cd7f718c6",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-26T04:29:37.560821-05:00.jpg",
+      "source": "original",
+      "mtime": "1656235780",
+      "size": "312650",
+      "md5": "5616e3ad9aa050efb1f5d14ad0bacff1",
+      "crc32": "03bd8188",
+      "sha1": "836d5c14716d965ee720b9008c6d4d0837694802",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-26T04:29:37.560821-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-26T04:29:37.560821-05:00.jpg",
+      "mtime": "1656235836",
+      "size": "10147",
+      "md5": "748752d81d7da798fad27cd9bc7528a1",
+      "crc32": "7bf4baa0",
+      "sha1": "d1ff10ebc55b249deef3d604e194ce60f1478773"
+    },
+    {
+      "name": "kcrg-2022-06-26T12:33:14.967839-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656264800",
+      "size": "34647",
+      "md5": "8f63bfa5e8769b93f5759a5f58f7c482",
+      "crc32": "c69ef942",
+      "sha1": "b4813a53cf3601a6002ea59de3d32c58d6021c1c",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-26T12:33:14.967839-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656264802",
+      "size": "17334",
+      "md5": "5e2a08ba83b9727d2c70947da2803c42",
+      "crc32": "2fd8d23a",
+      "sha1": "50b2bf00a7035239552403dad10998ed41f1e495",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-06-26T12:33:14.967839-05:00.jpg",
+      "source": "original",
+      "mtime": "1656264798",
+      "size": "326696",
+      "md5": "6f7646348189f4fc94e579cf9feabfdc",
+      "crc32": "9d340c7c",
+      "sha1": "363697a8a447d55e2670d8b9f609615ea0944a80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-06-26T12:33:14.967839-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-06-26T12:33:14.967839-05:00.jpg",
+      "mtime": "1656264849",
+      "size": "10487",
+      "md5": "6b3092288d014d4efe10dde3088dd2c0",
+      "crc32": "37b0ad0e",
+      "sha1": "61697b9e0f7a07dbf6825281c21404c02e67b3d0"
+    },
+    {
       "name": "kcrg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f51429445a99ae0441f416155bd81cdf91852285",
-      "mtime": "1656197238",
-      "size": "86369",
-      "md5": "a02bfff01bb3c261c845f7a651b8c29c",
-      "crc32": "f44ae9b4",
-      "sha1": "9a899eaef1fe741fd24fe74e936fce64fe8616e8",
+      "btih": "a848fb09ae11c8c438064342b8b75a54b93ac66c",
+      "mtime": "1656264853",
+      "size": "88851",
+      "md5": "847ea585c2752adc314d4ecb2b3bb56c",
+      "crc32": "943463e1",
+      "sha1": "a2a0b8136eab6ab3776e14dd950df99a4f8ada33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4be4748217090b8f8df5f5004667fccf",
+      "md5": "97cdb1e08cc0077921836d826be683c0",
       "summation": "md5"
     },
     {
       "name": "kcrg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656197201",
-      "size": "483328",
-      "md5": "6c210639fb87123430c9d1664ac153ee",
-      "crc32": "810affa5",
-      "sha1": "cca685afeb5f8c0b471c2f442084d66a418b5f3c",
+      "mtime": "1656264805",
+      "size": "495616",
+      "md5": "110f60e604cb1080c54a892e1dd8d8cf",
+      "crc32": "343a503e",
+      "sha1": "29c8213b3950209e96edea10379fd5074afbdb74",
       "format": "Metadata"
     },
     {
@@ -4354,9 +4480,703 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 414,
-  "item_last_updated": 1656197238,
-  "item_size": 42386563,
+  "files_count": 426,
+  "item_last_updated": 1656264853,
+  "item_size": 43556279,
+  "kcrg-2022": [
+    {
+      "text": "Skip to content",
+      "url": "#main"
+    },
+    {
+      "text": "Show You Care",
+      "url": "/community"
+    },
+    {
+      "text": "Shop Local",
+      "url": "https://www.graytvlocal.com/market/eastern-iowa"
+    },
+    {
+      "text": "Student of the Month",
+      "url": "/news/education/student-of-the-month"
+    },
+    {
+      "text": "Everyday Families",
+      "url": "/everydayfamilies/"
+    },
+    {
+      "text": "Working Iowa",
+      "url": "/business"
+    },
+    {
+      "text": "Visit Iceland",
+      "url": "/page/iceland"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "72\u00b0Cedar Rapids, IA",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Video",
+      "url": "/video-gallery/news/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Sports",
+      "url": "/content/sports/"
+    },
+    {
+      "text": "KCRG 9.2",
+      "url": "/9point2liveevents/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/livestream/"
+    },
+    {
+      "text": "Connect",
+      "url": "/about-us/contact-us/"
+    },
+    {
+      "text": "YouNews",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "Home",
+      "url": "/homepage"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Iowa",
+      "url": "/news/iowa"
+    },
+    {
+      "text": "National",
+      "url": "/news/national"
+    },
+    {
+      "text": "I9 Investigations",
+      "url": "/news/investigation"
+    },
+    {
+      "text": "Our Town",
+      "url": "/news/our-town/"
+    },
+    {
+      "text": "Working Iowa",
+      "url": "/business"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/livestream/"
+    },
+    {
+      "text": "First Alert Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "First Alert Pinpoint Radar",
+      "url": "/weather/radar"
+    },
+    {
+      "text": "Cancellations",
+      "url": "/weather/closings"
+    },
+    {
+      "text": "Weather Radio",
+      "url": "https://www.kcrg.com/2021/04/15/kcrg-tv9-first-alert-storm-team-weather-radio-programming-events-in-2021/"
+    },
+    {
+      "text": "Severe Weather",
+      "url": "/weather/severeweather"
+    },
+    {
+      "text": "CityCAM Network",
+      "url": "/weather/cams"
+    },
+    {
+      "text": "Online Weather Academy",
+      "url": "/page/kcrg-online-weather-academy"
+    },
+    {
+      "text": "River Levels",
+      "url": "/page/river-levels/"
+    },
+    {
+      "text": "Map Room",
+      "url": "/weather/maproom"
+    },
+    {
+      "text": "WeatherCall",
+      "url": "/content/news/WeatherCall-339887552.html"
+    },
+    {
+      "text": "Freedom Festival",
+      "url": "/page/freedom-festival/"
+    },
+    {
+      "text": "Sports",
+      "url": "/content/sports/"
+    },
+    {
+      "text": "Hawkeyes",
+      "url": "/sports/college/iowa"
+    },
+    {
+      "text": "Cyclones",
+      "url": "/sports/college/iowa-state"
+    },
+    {
+      "text": "Panthers",
+      "url": "/sports/college/northern-iowa"
+    },
+    {
+      "text": "Athlete Of The Week",
+      "url": "/sports/athlete-of-the-week"
+    },
+    {
+      "text": "John's Big Ol' Fish",
+      "url": "/sports/fishing"
+    },
+    {
+      "text": "Scoreboard",
+      "url": "/sports/scoreboard"
+    },
+    {
+      "text": "Latest Videos",
+      "url": "/video-gallery/news/"
+    },
+    {
+      "text": "KCRG 9.2",
+      "url": "/9point2liveevents/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/about-us/contact-us"
+    },
+    {
+      "text": "Meet the Team",
+      "url": "/about-us/meet-the-team"
+    },
+    {
+      "text": "Advertise with us",
+      "url": "/page/advertise-with-us"
+    },
+    {
+      "text": "Submit a News Story",
+      "url": "/page/story-submission"
+    },
+    {
+      "text": "Jobs at KCRG",
+      "url": "https://gray.tv/careers#currentopenings"
+    },
+    {
+      "text": "KCRG-TV9 Daily Digest",
+      "url": "/newsletter/"
+    },
+    {
+      "text": "TV Listings",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Show You Care",
+      "url": "/community"
+    },
+    {
+      "text": "Election Results",
+      "url": "/politics/election-results"
+    },
+    {
+      "text": "Everyday Families",
+      "url": "/everydayfamilies/"
+    },
+    {
+      "text": "YouNews",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "Student of the Month",
+      "url": "/news/education/student-of-the-month"
+    },
+    {
+      "text": "Locals Love Us",
+      "url": "/page/locals-love-us/"
+    },
+    {
+      "text": "Circle - Country Music & Lifestyle",
+      "url": "http://www.circleallaccess.com/"
+    },
+    {
+      "text": "Gray DC Bureau",
+      "url": "https://www.graydc.com/"
+    },
+    {
+      "text": "Investigate TV",
+      "url": "https://www.investigatetv.com/"
+    },
+    {
+      "text": "PowerNation",
+      "url": "/powernation"
+    },
+    {
+      "text": "Latest Newscasts",
+      "url": "https://www.vuit.com/publishers/1/kcrg"
+    },
+    {
+      "text": "Press Releases",
+      "url": "/wires/press-releases"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/kcrgtv9"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/kcrgtv9"
+    },
+    {
+      "text": "",
+      "url": "https://www.twitter.com/KCRG"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/user/kcrgdotcom"
+    },
+    {
+      "text": " One injured in shooting in Cedar RapidsOfficers responded to St. Luke\u2019s Hospital for a person with a non-life threatening gunshot wound just after 9pm on Saturday. That person has been treated and released from the hospital.",
+      "url": "/2022/06/26/one-injured-shooting-cedar-rapids/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/26/one-injured-shooting-cedar-rapids/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/26/lawyer-weighs-protester-struck-by-truck-during-protest/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/26/lawyer-weighs-protester-struck-by-truck-during-protest/"
+    },
+    {
+      "text": " Lawyer weighs in on protester struck by truck during protest",
+      "url": "/2022/06/26/lawyer-weighs-protester-struck-by-truck-during-protest/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/26/37th-trek-fest-held-riverside/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/26/37th-trek-fest-held-riverside/"
+    },
+    {
+      "text": " 37th Trek Fest held in Riverside",
+      "url": "/2022/06/26/37th-trek-fest-held-riverside/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/25/eastside-church-iowa-city-destroyed-morning-fire/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/25/eastside-church-iowa-city-destroyed-morning-fire/"
+    },
+    {
+      "text": " Eastside church in Iowa City destroyed in morning fire",
+      "url": "/2022/06/25/eastside-church-iowa-city-destroyed-morning-fire/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/26/man-sustains-non-life-threatening-injury-linn-county-accident/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/26/man-sustains-non-life-threatening-injury-linn-county-accident/"
+    },
+    {
+      "text": "Man sustains non-life threatening injury in Linn County Accident",
+      "url": "/2022/06/26/man-sustains-non-life-threatening-injury-linn-county-accident/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/26/dubuque-man-arrested-saturday-evening/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/26/dubuque-man-arrested-saturday-evening/"
+    },
+    {
+      "text": " Dubuque County man arrested Saturday evening",
+      "url": "/2022/06/26/dubuque-man-arrested-saturday-evening/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/26/langs-sentencing-new-trial-hearing-scheduled-monday/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/26/langs-sentencing-new-trial-hearing-scheduled-monday/"
+    },
+    {
+      "text": " Lang\u2019s sentencing and new trial hearing scheduled for Monday",
+      "url": "/2022/06/26/langs-sentencing-new-trial-hearing-scheduled-monday/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/26/operation-quickfind-naylan-marea-hines/"
+    },
+    {
+      "text": "Operation Quickfind canceled: Naylani Marea Hines",
+      "url": "/2022/06/26/operation-quickfind-naylan-marea-hines/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/25/truck-strikes-protestor-cedar-rapids/"
+    },
+    {
+      "text": " WATCH: Truck strikes protestor in Cedar Rapids",
+      "url": "/2022/06/25/truck-strikes-protestor-cedar-rapids/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/06/24/iowans-react-supreme-court-ruling-abortion/"
+    },
+    {
+      "text": " Iowans react to Supreme Court ruling on abortion",
+      "url": "/2022/06/24/iowans-react-supreme-court-ruling-abortion/"
+    },
+    {
+      "text": "",
+      "url": "/weather/radar/#click-through-url"
+    },
+    {
+      "text": "LATEST VIDEO",
+      "url": "/video/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/06/26/beautifully-sunny-cooler-end-weekend/"
+    },
+    {
+      "text": "A beautifully sunny and cooler end to the weekend",
+      "url": "/video/2022/06/26/beautifully-sunny-cooler-end-weekend/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/06/26/keegan-murray-officially-introduced-sacramento-king/"
+    },
+    {
+      "text": "Keegan Murray officially introduced as a Sacramento King",
+      "url": "/video/2022/06/26/keegan-murray-officially-introduced-sacramento-king/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/06/26/attorney-weighs-protestor-hit-by-truck-driver/"
+    },
+    {
+      "text": "Attorney weighs in on protestor hit by truck driver",
+      "url": "/video/2022/06/26/attorney-weighs-protestor-hit-by-truck-driver/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/06/26/iowa-city-boxing-club-unveils-muhammed-ali-mural/"
+    },
+    {
+      "text": "Iowa City boxing club unveils Muhammed Ali mural",
+      "url": "/video/2022/06/26/iowa-city-boxing-club-unveils-muhammed-ali-mural/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/24/supreme-court-overturns-roe-v-wade-allowing-states-ban-abortions/"
+    },
+    {
+      "text": " Supreme Court overturns Roe v. Wade; states can ban abortion",
+      "url": "/2022/06/24/supreme-court-overturns-roe-v-wade-allowing-states-ban-abortions/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/26/italian-nun-slain-haiti-is-hailed-by-pope-martyr/"
+    },
+    {
+      "text": "Italian nun slain in Haiti is hailed by pope as martyr",
+      "url": "/2022/06/26/italian-nun-slain-haiti-is-hailed-by-pope-martyr/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/26/paul-mccartney-wows-glastonbury-with-dave-grohl-boss/"
+    },
+    {
+      "text": "Paul McCartney wows Glastonbury with Dave Grohl and The Boss",
+      "url": "/2022/06/26/paul-mccartney-wows-glastonbury-with-dave-grohl-boss/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/26/carpe-diem-ukraine-war-turning-love-into-marriages/"
+    },
+    {
+      "text": "Carpe Diem: In Ukraine, war turning love into marriages",
+      "url": "/2022/06/26/carpe-diem-ukraine-war-turning-love-into-marriages/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/26/explorers-find-wwii-navy-destroyer-deepest-wreck-discovered/"
+    },
+    {
+      "text": "Explorers find WWII Navy destroyer, deepest wreck discovered",
+      "url": "/2022/06/26/explorers-find-wwii-navy-destroyer-deepest-wreck-discovered/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/26/dolphins-lisbon-river-show-benefits-protecting-nature/"
+    },
+    {
+      "text": "Dolphins in Lisbon river show benefits of protecting nature",
+      "url": "/2022/06/26/dolphins-lisbon-river-show-benefits-protecting-nature/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/25/body-dubuque-man-missing-mississippi-river-found/"
+    },
+    {
+      "text": "Body of Dubuque man missing on Mississippi River found",
+      "url": "/2022/06/25/body-dubuque-man-missing-mississippi-river-found/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/24/central-iowa-vapors-parents-against-vaping-e-cigarettes-vape-react-fda-order/"
+    },
+    {
+      "text": " Central Iowa Vapors & Parents Against Vaping E-Cigarettes (VAPE) react to FDA order",
+      "url": "/2022/06/24/central-iowa-vapors-parents-against-vaping-e-cigarettes-vape-react-fda-order/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/06/25/watch-volta-youth-music-arts-festival/"
+    },
+    {
+      "text": " Watch: The Volta Youth Music and Arts Festival",
+      "url": "/2022/06/25/watch-volta-youth-music-arts-festival/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/25/some-defenders-gun-ruling-could-right-racial-wrong/"
+    },
+    {
+      "text": "To some defenders, gun ruling could right a racial wrong",
+      "url": "/2022/06/25/some-defenders-gun-ruling-could-right-racial-wrong/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/25/bidens-mission-europe-shore-up-alliance-against-russia/"
+    },
+    {
+      "text": "Biden\u2019s mission in Europe: Shore up alliance against Russia",
+      "url": "/2022/06/25/bidens-mission-europe-shore-up-alliance-against-russia/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/25/roof-over-their-head-churches-use-tiny-homes-homeless/"
+    },
+    {
+      "text": "A roof over their head: Churches use tiny homes for homeless",
+      "url": "/2022/06/25/roof-over-their-head-churches-use-tiny-homes-homeless/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/25/groups-spain-morocco-push-border-deaths-inquiry/"
+    },
+    {
+      "text": "Groups in Spain and Morocco push for border deaths inquiry",
+      "url": "/2022/06/25/groups-spain-morocco-push-border-deaths-inquiry/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/25/vatican-start-monthly-newspaper-by-with-poor/"
+    },
+    {
+      "text": "Vatican to start monthly newspaper by and with the poor",
+      "url": "/2022/06/25/vatican-start-monthly-newspaper-by-with-poor/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/25/queen-politicians-inaugurate-refugee-museum-denmark/"
+    },
+    {
+      "text": "Queen, politicians to inaugurate refugee museum in Denmark",
+      "url": "/2022/06/25/queen-politicians-inaugurate-refugee-museum-denmark/"
+    },
+    {
+      "text": "Sports",
+      "url": "/2022/06/25/keegan-murray-ready-get-work/"
+    },
+    {
+      "text": " Keegan Murray ready to get to work",
+      "url": "/2022/06/25/keegan-murray-ready-get-work/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/06/24/galena-man-shot-with-crossbow-runs-attacker-finds-help/"
+    },
+    {
+      "text": "Galena man shot with crossbow, runs from attacker and finds help",
+      "url": "/2022/06/24/galena-man-shot-with-crossbow-runs-attacker-finds-help/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/24/setting-gridlock-aside-congress-set-ok-gun-violence-bill/"
+    },
+    {
+      "text": " Congress sends landmark gun violence compromise to Biden",
+      "url": "/2022/06/24/setting-gridlock-aside-congress-set-ok-gun-violence-bill/"
+    },
+    {
+      "text": "Politics",
+      "url": "/2022/06/24/iowa-politicians-organizations-respond-us-supreme-courts-roe-v-wade-ruling/"
+    },
+    {
+      "text": " Iowa politicians, organizations respond to US Supreme Court\u2019s Roe V. Wade ruling",
+      "url": "/2022/06/24/iowa-politicians-organizations-respond-us-supreme-courts-roe-v-wade-ruling/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/06/24/deputies-identify-man-found-dead-after-silo-collapsed-yarmouth-tuesday/"
+    },
+    {
+      "text": " Deputies identify man found dead after silo collapsed Yarmouth Tuesday",
+      "url": "/2022/06/24/deputies-identify-man-found-dead-after-silo-collapsed-yarmouth-tuesday/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/06/24/how-us-states-have-banned-limited-or-protected-abortion/"
+    },
+    {
+      "text": " How US states have banned, limited or protected abortion",
+      "url": "/2022/06/24/how-us-states-have-banned-limited-or-protected-abortion/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/06/24/highway-100-marion-blocked-due-crash-west-highway-13/"
+    },
+    {
+      "text": " Highway 100 in Marion blocked due to \u2018serious\u2019 crash; now reopened",
+      "url": "/2022/06/24/highway-100-marion-blocked-due-crash-west-highway-13/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "First Alert Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Sports",
+      "url": "/content/sports/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/about-us/contact-us"
+    },
+    {
+      "text": "YouNews",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "First Alert Pinpoint Radar",
+      "url": "/weather/radar"
+    },
+    {
+      "text": "KCRG 9.2",
+      "url": "/9point2liveevents/"
+    },
+    {
+      "text": "Submit a News Story",
+      "url": "/page/story-submission"
+    },
+    {
+      "text": "Show You Care",
+      "url": "/community"
+    },
+    {
+      "text": "Cancellations",
+      "url": "/weather/closings"
+    },
+    {
+      "text": "Athlete Of The Week",
+      "url": "/sports/athlete-of-the-week"
+    },
+    {
+      "text": "Advertise with us",
+      "url": "/page/advertise-with-us"
+    },
+    {
+      "text": "TV Listings",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Public Inspection File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KCRG-TV"
+    },
+    {
+      "text": "FCC Applications",
+      "url": "https://webpubcontent.gray.tv/gdm/fcc/kcrg-fcc_applications.pdf"
+    },
+    {
+      "text": "programming@kcrg.com - (319) 399-5999",
+      "url": "mailto:programming@kcrg.com"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/terms-of-service/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy/"
+    },
+    {
+      "text": "EEO Statement",
+      "url": "https://publicfiles.fcc.gov/api/manager/download/3278d7da-297b-1522-bdd0-1a38f1a43ada/6ed99e44-9716-4a7f-8cd8-295e4554d8d8.pdf"
+    },
+    {
+      "text": "Advertising",
+      "url": "/advertising/"
+    },
+    {
+      "text": "search by queryly ",
+      "url": "https://www.queryly.com/"
+    },
+    {
+      "text": "Advanced Search",
+      "url": "#"
+    }
+  ],
   "metadata": {
     "identifier": "kcrg-2022",
     "collection": [
@@ -4373,10 +5193,10 @@
     "publicdate": "2022-03-25 03:35:21",
     "addeddate": "2022-03-25 03:35:21"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 1418461283,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1662640860,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

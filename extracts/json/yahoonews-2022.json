@@ -1,5 +1,5 @@
 {
-  "created": 1656203111,
+  "created": 1656289563,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -182,31 +182,157 @@
       "format": "JSON"
     },
     {
+      "name": "yahoonews-2022-06-25T21:47:35.335186-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656208058",
+      "size": "38900",
+      "md5": "ca8de7031058b655e42ba2f4f5f35d91",
+      "crc32": "c2797595",
+      "sha1": "b5b9300cf0f67d6d27ad6fb2ff2844a426e82a48",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-06-25T21:47:35.335186-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656208060",
+      "size": "14219",
+      "md5": "cd6818cde8c13cfb22b601f90be70e72",
+      "crc32": "7b4a15f7",
+      "sha1": "140884a3516d7fc0195fb28d4fb700332771ab7e",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-06-25T21:47:35.335186-04:00.jpg",
+      "source": "original",
+      "mtime": "1656208056",
+      "size": "310131",
+      "md5": "0869fbe64a1617f3a9674c6050ba6e32",
+      "crc32": "a96e34b1",
+      "sha1": "d4385041f8f09bbf99b84e16be6eca988a543409",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-06-25T21:47:35.335186-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-06-25T21:47:35.335186-04:00.jpg",
+      "mtime": "1656208107",
+      "size": "9934",
+      "md5": "67bdc45aa87f97fc04bd6c2fd479737b",
+      "crc32": "d7956a96",
+      "sha1": "ea4fce57865c5e913aad23d496e09941714300f2"
+    },
+    {
+      "name": "yahoonews-2022-06-26T05:37:09.440369-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656236232",
+      "size": "39586",
+      "md5": "0b5be7d7c8d55a4765552f645efb3798",
+      "crc32": "8bce3a38",
+      "sha1": "bcdc43c02f30a95c7a27696edfb1cfdc18f502c2",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-06-26T05:37:09.440369-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656236234",
+      "size": "13322",
+      "md5": "00e49f8b7ae292a3e0ec2cd65725faa5",
+      "crc32": "1bde5177",
+      "sha1": "ec2d68a1e2e843ed7345a0de9821aa9ec0beb913",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-06-26T05:37:09.440369-04:00.jpg",
+      "source": "original",
+      "mtime": "1656236230",
+      "size": "321146",
+      "md5": "6bea218e0f92178c2b0e365257d778be",
+      "crc32": "831062d2",
+      "sha1": "74c1d6bf574b236fd7ea0632b0e744042ebdc916",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-06-26T05:37:09.440369-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-06-26T05:37:09.440369-04:00.jpg",
+      "mtime": "1656236289",
+      "size": "10145",
+      "md5": "fceb52ab875a4ce9a3b3a23ae25c1bb3",
+      "crc32": "8579f32d",
+      "sha1": "e80409a80eef0f960e15418fa3012c1e3be06089"
+    },
+    {
+      "name": "yahoonews-2022-06-26T13:40:15.442526-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656265219",
+      "size": "39975",
+      "md5": "571ef28c18838188be5bb084fe536fb7",
+      "crc32": "5f110f27",
+      "sha1": "8d839b5b3518a52c3173fa32b675c0b49c0a5de9",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-06-26T13:40:15.442526-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656265220",
+      "size": "13742",
+      "md5": "3bbd39d713355d0cfa6f3fb2d73a1942",
+      "crc32": "ce01b19f",
+      "sha1": "8c365357793f8b0cddcc9498d160082c3c31209d",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-06-26T13:40:15.442526-04:00.jpg",
+      "source": "original",
+      "mtime": "1656265217",
+      "size": "318418",
+      "md5": "cc1cab05ca782d77223aa161073e72fa",
+      "crc32": "fab6467b",
+      "sha1": "cf7f8d7b547b3afc47413278161be584e027d65a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-06-26T13:40:15.442526-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-06-26T13:40:15.442526-04:00.jpg",
+      "mtime": "1656265264",
+      "size": "9952",
+      "md5": "81d0b11d0e7aa557b77fd1a2a58b489b",
+      "crc32": "b41af202",
+      "sha1": "3ae3d5b944b43b28da19a53147ee44ec8ee6c652"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1514b183e86773ddb463e23d26597c70a275004",
-      "mtime": "1656197671",
-      "size": "5030",
-      "md5": "a1e48bf223cba4b5fcafa9a4c183f778",
-      "crc32": "172bcd45",
-      "sha1": "c4ba7ee0cda3ad6279b981415b1b37cc5c21705f",
+      "btih": "32e1d7fa47db1ee15573d0ad25eabfbb7df16f01",
+      "mtime": "1656265267",
+      "size": "7571",
+      "md5": "87810fb62e14546e52ca5496b82683d4",
+      "crc32": "54a8afa8",
+      "sha1": "11cf748d419ebeb0b720707f34e0d8f342a20c13",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c91f2d336367e2c0c18d0f903220adec",
+      "md5": "c9b82b3014af396834d2af9c2cc43fea",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656197637",
-      "size": "40960",
-      "md5": "081616561337815faf3dabc4030a1218",
-      "crc32": "1b40f828",
-      "sha1": "ca684bb8b53b094d415c418ccb6c25882d79877a",
+      "mtime": "1656265223",
+      "size": "53248",
+      "md5": "5c8ef867ff8400408c129f87ecb90b19",
+      "crc32": "5113ba27",
+      "sha1": "df7fbbaef7046f9d6a0c26fb7262d35e118e2756",
       "format": "Metadata"
     },
     {
@@ -220,9 +346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 21,
-  "item_last_updated": 1656197671,
-  "item_size": 1286802,
+  "files_count": 33,
+  "item_last_updated": 1656265267,
+  "item_size": 2441101,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -240,7 +366,7 @@
     "addeddate": "2022-06-24 23:04:11"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 607349205,
+  "uniq": 1605530811,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"
@@ -363,128 +489,76 @@
       "url": "https://yahoo.uservoice.com/forums/204992-us-news"
     },
     {
-      "text": "Cruz's message to Garland after Roe is overturnedSen. Ted Cruz, R-Texas, called for Attorney General Merrick Garland to \"be on watch to stop any radicals threatening mob violence\" after Friday's  decision on abortion. What the senator also told Fox News \u00bb",
-      "url": "https://www.yahoo.com/entertainment/ted-cruz-calls-ag-merrick-012312214.html"
+      "text": "A turning point for Chief Justice John RobertsSupreme Court Chief Justice John Roberts is now in many ways a marginal figure. The five other conservatives are impatient and ambitious, and they do not need his vote.'It leaves one to wonder' \u00bb",
+      "url": "/june-24-2022-day-chief-141223397.html"
     },
     {
-      "text": "Laundrie: 'I ended her life. I thought it was merciful'",
-      "url": "/pages-brian-laundries-notebook-show-191518315.html"
+      "text": "Rep. Miller thanks Trump for 'victory for white life'",
+      "url": "/rep-miller-thanks-trump-victory-040856101.html"
     },
     {
-      "text": "1 state emerges as epicenter in abortion fight",
-      "url": "/florida-emerges-key-battleground-state-155557004.html"
+      "text": "Emma Thompson talks difficult nude scene",
+      "url": "https://www.yahoo.com/entertainment/emma-thompson-leo-grande-nude-scene-intimacy-without-romance-223305773.html"
     },
     {
-      "text": "'I'm still in shock': Truck rams pro-choice protesters",
-      "url": "/pickup-truck-driver-iowa-ploughing-100653951.html"
+      "text": "Mass shooting at Wash. rave leaves at least 8 injured",
+      "url": "https://www.yahoo.com/gma/least-8-people-shot-rave-141300397.html"
     },
     {
-      "text": "City's pride marred by mass shooting at historic gay club",
-      "url": "/two-dead-several-wounded-norway-000041958.html"
+      "text": "Deportation order puts Biden in a bind",
+      "url": "/agents-blocked-using-discretion-deportation-151147948.html"
     },
     {
-      "text": "'Catastrophic blow': SCOTUS sparks outrage worldwide",
-      "url": "/world-shocked-outraged-saddened-overturning-185031296.html"
+      "text": "Discovery of sunken WWII Navy destroyer sets record",
+      "url": "/explorers-wwii-navy-destroyer-deepest-094849346.html"
     },
     {
-      "text": "Prosecutors seek 15 years for former 'Cheer' star Harris",
-      "url": "/prosecutors-seek-15-years-former-232214329.html"
+      "text": "Leaders at G7 mock bare-chested horseback rider Putin",
+      "url": "/leaders-g7-mock-bare-chested-162218796.html"
     },
     {
-      "text": "Prosecutors Seeking 15 Years For Former \u2018Cheer\u2019 Star Jerry HarrisHuffPost",
-      "url": "/prosecutors-seeking-15-years-former-235506764.html"
+      "text": "\u2018Let\u2019s show our pecs!\u2019 Boris Johnson and Trudeau mock Putin\u2019s topless horse ridingThe Independent",
+      "url": "/let-show-pecs-boris-johnson-140124022.html"
     },
     {
-      "text": "Feds seek 15-year prison term for former \"Cheer\" star Jerry Harris in sex crimes caseCBS-Chicago",
-      "url": "/feds-seek-15-prison-term-231100896.html"
+      "text": "Johnson and Trudeau Mock Putin's 'Tough' Persona at G7 MeetingStoryful",
+      "url": "/johnson-trudeau-mock-putins-tough-135811194.html"
     },
     {
-      "text": "Supreme Court Justice Clarence Thomas told his law clerks in the '90s that he wanted to serve for 43 years to make liberals' lives 'miserable'",
-      "url": "/supreme-court-justice-clarence-thomas-051733128.html"
+      "text": "Clarence Thomas says American citizens are seemingly 'more interested in their iPhones' than 'their Constitution': book",
+      "url": "/clarence-thomas-says-american-citizens-160307314.html"
     },
     {
-      "text": "Former law clerk to Justice Thomas, Kavanaugh speaks on abortion rulingNBC",
-      "url": "/former-law-clerk-justice-thomas-113922634.html"
+      "text": "Robert Kiyosaki says that hot inflation will 'wipe out 50% of the US population' \u2014 here's what he means by that and how to protect yourself",
+      "url": "/robert-kiyosaki-says-hot-inflation-130000247.html"
     },
     {
-      "text": "Justice Clarence Thomas suggests Supreme Court could rethink decisions on contraceptives, same-sex marriageCBS-Boston",
-      "url": "/justice-clarence-thomas-suggests-supreme-124500708.html"
+      "text": "Jim Rogers warns of the \u2018worst bear market\u2019 in his lifetime \u2013 these are the 2 \u2018least dangerous\u2019 assets to own todayMoneyWise",
+      "url": "/jim-rogers-warns-worst-bear-150000961.html"
     },
     {
-      "text": "Lauren Boebert Baffled by \u2018Bricks\u2019 Belonging to a Construction Site",
-      "url": "/lauren-boebert-baffled-bricks-belonging-032837758.html"
-    },
-    {
-      "text": "Trump supporters faced with facts from Jan. 6 hearings struggle to accept the truth",
-      "url": "https://www.yahoo.com/entertainment/trump-supporters-faced-with-facts-from-jan-6-hearings-struggle-to-accept-the-truth-080338877.html"
-    },
-    {
-      "text": "Trump fan pushes wild theory Ivanka Trump who appeared at Jan 6 hearing was \u2018a clone\u2019The Independent",
-      "url": "/trump-fan-pushes-wild-theory-214944913.html"
-    },
-    {
-      "text": "Jan. 6 House Committee member on Day 5 of the hearingsCBS News Videos",
-      "url": "/jan-6-house-committee-member-005125758.html"
-    },
-    {
-      "text": "Social Security Checks Could Soar in 2023: Here's How Much Extra Seniors Might Receive",
-      "url": "/m/1ab530b8-0880-3a81-82fd-a8d141ca8450/social-security-checks-could.html"
-    },
-    {
-      "text": "Louisiana woman posts viral TikTok video after citation for wearing shorts and crop top",
-      "url": "/louisiana-woman-posts-viral-tiktok-222429418.html"
-    },
-    {
-      "text": "Senator in 2010 deposition: 13-year-olds can consent to sex",
-      "url": "/senator-2010-deposition-13-olds-152104735.html"
-    },
-    {
-      "text": "Ginni Thomas left a voicemail for Anita Hill asking her to apologize for accusing Clarence Thomas of sexual harassment",
-      "url": "/ginni-thomas-left-voicemail-anita-054403248.html"
-    },
-    {
-      "text": "It\u2019s a terrible day in America, and you can thank Kentucky\u2019s own Mitch McConnell for it.",
-      "url": "/terrible-day-america-thank-kentucky-150813903.html"
-    },
-    {
-      "text": "How Mitch McConnell helped engineer the fall of Roe v. Wade and cement his abortion legacyThe Courier Journal",
-      "url": "/mitch-mcconnell-helped-engineer-fall-130815058.html"
-    },
-    {
-      "text": "Abortion ends in Kentucky as Supreme Court strikes down Roe v. Wade due to trigger lawThe Courier Journal",
-      "url": "/abortion-ends-kentucky-supreme-court-144620899.html"
+      "text": "Warren Buffett bought about $2.5 billion worth of Citigroup. If you're looking for a low-risk approach to 'buy the dip,' this big banking bet is worth copyingMoneyWise",
+      "url": "/warren-buffett-bought-2-5-160000935.html"
     },
     {
       "text": "'Mitt Romney Republican' is now a potent GOP primary attack",
       "url": "/mitt-romney-republican-now-potent-161724455.html"
     },
     {
-      "text": "\u2018I felt something sharp.\u2019 Woman takes off pants to uncover unwanted visitor in Florida",
-      "url": "/felt-something-sharp-woman-takes-184747330.html"
+      "text": "Sen. Josh Hawley predicts the overturning of Roe v. Wade will cause a 'major sorting out across the country' and allow the GOP to 'extend their strength in the Electoral College'",
+      "url": "/sen-josh-hawley-predicts-overturning-195254563.html"
     },
     {
-      "text": "Biden accidentally flashed a cue card telling him exactly where to go and what to do at a White House event",
-      "url": "/biden-accidentally-flashed-cue-card-104115491.html"
+      "text": "Trump privately called a Roe v. Wade reversal 'bad' for the Republican PartyYahoo News Video",
+      "url": "/trump-privately-called-roe-v-220218546.html"
     },
     {
-      "text": "Filipina wins transgender pageant in Thailand",
-      "url": "/filipina-wins-transgender-pageant-thailand-171919957.html"
+      "text": "Harry Styles says the overturning of Roe v. Wade marks a 'dark day for America'Yahoo Celebrity",
+      "url": "/harry-styles-abortion-roe-v-wade-overturn-153052817.html"
     },
     {
-      "text": "A YouTuber asked a random New Yorker for his thoughts on abortion. The stranger turned out to be the former president of Planned Parenthood.",
-      "url": "/youtuber-asked-random-yorker-thoughts-175812527.html"
-    },
-    {
-      "text": "YouTuber unknowingly asks former Planned Parenthood president and grandson of founder about abortion accessThe Independent",
-      "url": "https://www.independent.co.uk/life-style/planned-parenthood-roe-v-wade-alexander-sanger-b2109059.html"
-    },
-    {
-      "text": "'We are going to fight:' Planned Parenthood prepares for Tennessee abortion trigger lawsWTVF - Nashville Scripps",
-      "url": "/going-fight-planned-parenthood-prepares-003538120.html"
-    },
-    {
-      "text": "Footage Shows Dad Of Murdered Toddler Pummeling Alleged Killer In Court",
-      "url": "/footage-shows-dad-murdered-toddler-202859091.html"
+      "text": "Navy SEALs 'Hell Week' autopsy reveals cause of death of Manalapan man four months later",
+      "url": "/navy-seals-hell-week-autopsy-090034460.html"
     },
     {
       "text": "Pro-life is not just opposing abortion, Vatican says after U.S. ruling",
@@ -499,72 +573,108 @@
       "url": "/ca-abortion-rights-activists-organize-204344533.html"
     },
     {
-      "text": "Trump supporters befuddled when confronted by facts from Jan. 6 hearings",
-      "url": "/trump-supporters-befuddled-confronted-facts-075345658.html"
+      "text": "My Daughter Almost Died At Summer Camp. Here's What I Wish I Told Her Before She Went.",
+      "url": "/daughter-almost-died-summer-camp-130010519.html"
     },
     {
-      "text": "Ultrawealthy Americans are flocking to get \u2018golden visas\u2019 in Europe amid political turmoil. Here are the top 2 places they\u2019re going.",
-      "url": "/ultra-wealthy-abandoning-american-dream-130000271.html"
+      "text": "NASA says the cockroaches and Apollo 11 moon dust being sold at a Boston auction for $400,000 belong to the agency and are not for sale",
+      "url": "/nasa-says-cockroaches-apollo-11-150138030.html"
     },
     {
-      "text": "Filmmaker who documented Trump family says Jan. 6 committee is focusing on Ivanka Trump's inconsistent statements",
-      "url": "https://www.yahoo.com/entertainment/filmmaker-documented-trump-family-jan-6-committee-focusing-ivanka-trumps-inconsistent-statements-072009494.html"
+      "text": "At least 22 young people die in South African tavern",
+      "url": "/south-africa-police-investigating-17-073302278.html"
     },
     {
-      "text": "Filmmaker Alex Holder: Trump saw violence on Jan 6. as an \"inevitability\"CBS News",
-      "url": "/filmmaker-alex-holder-trump-saw-232434721.html"
+      "text": "South African nightclub deaths: At least 22 young people found dead as police investigate cause - OLDThe Independent",
+      "url": "/south-african-nightclub-deaths-least-084851407.html"
     },
     {
-      "text": "Trump saw Jan 6 violence as \u2018inevitable\u2019 and was \u2018jovial\u2019 after Capitol riot, British filmmaker saysThe Independent",
-      "url": "/trump-saw-jan-6-violence-235510741.html"
+      "text": "South African Police Investigate Deaths of 22 Youngsters in Township TavernThe Wall Street Journal",
+      "url": "/m/da5960d4-ac13-3ee6-b7c4-3653140c583a/south-african-police.html"
     },
     {
-      "text": "Tucker Carlson says corporations are helping their employees get an out-of-state abortion because those 'without families are much cheaper for the company'",
-      "url": "/tucker-carlson-says-corporations-helping-151955813.html"
+      "text": "Carvana Sought to Disrupt Auto Sales. It Delivered Undriveable Cars.",
+      "url": "/m/2b928dcf-7265-384b-aefd-537fc73754e5/carvana-sought-to-disrupt.html"
     },
     {
-      "text": "These companies will cover abortion travel costs for employeesThe Hill",
-      "url": "/companies-cover-abortion-travel-costs-162348995.html"
+      "text": "MAGA Voters Send a $50 Million GOP Plan Off the Rails in Illinois",
+      "url": "/maga-voters-send-50-million-152821829.html"
     },
     {
-      "text": "California companies announce financial help for employee abortion costsKTVU",
-      "url": "/california-companies-announce-financial-help-181735286.html"
+      "text": "Analysis-Russia's grinding battlefield gains seen driven by new tactics",
+      "url": "/analysis-russias-grinding-battlefield-gains-174951828.html"
     },
     {
-      "text": "Obergefell, the plaintiff in the SCOTUS same-sex marriage ruling, said it's 'quite telling' Clarence Thomas omitted the case that legalized interracial marriage after saying the courts should go after other right to privacy cases",
-      "url": "/obergefell-plaintiff-scotus-same-sex-055445239.html"
+      "text": "SCOTUS, abortion, and rewriting Americans' rights",
+      "url": "/scotus-abortion-rewriting-americans-rights-130800959.html"
+    },
+    {
+      "text": "A group of Ukrainian women is selling their nudes to fundraise for the country's forces. They've raised over $700,000 in 3 months.",
+      "url": "/group-ukrainian-women-selling-nudes-100000631.html"
+    },
+    {
+      "text": "Pope hails families, blasts 'culture of waste' after Roe",
+      "url": "/pope-hails-families-blasts-culture-182258760.html"
+    },
+    {
+      "text": "Outcry at the Supreme Court after Roe rulingReuters Videos",
+      "url": "/outcry-supreme-court-roe-ruling-151726305.html"
+    },
+    {
+      "text": "Roe v Wade: US Supreme Court ends constitutional right to abortionBBC",
+      "url": "/roe-v-wade-us-supreme-141617447.html"
+    },
+    {
+      "text": "Samuel Jackson Rips 'Uncle Clarence' Thomas For Risking Interracial Marriage In Roe Reversal",
+      "url": "/samuel-jackson-rips-uncle-clarence-224051398.html"
     },
     {
       "text": "Harris warns other rights could be in jeopardy after SCOTUS abortion rulingYahoo News Video",
-      "url": "/harris-warns-other-rights-could-202213897.html"
+      "url": "/harris-warns-other-rights-could-202921039.html"
     },
     {
-      "text": "What the Supreme Court\u2019s abortion ruling means on a state levelYahoo Finance Video",
-      "url": "/supreme-court-abortion-ruling-means-192052316.html"
+      "text": "Trump privately called a Roe v. Wade reversal 'bad' for the Republican PartyYahoo News Video",
+      "url": "/trump-privately-called-roe-v-220218546.html"
     },
     {
-      "text": "Maria Shriver, a Catholic, calls out overturning of Roe v. Wade: 'This is about controlling women'",
-      "url": "/maria-shriver-roe-v-wade-abortion-message-172341311.html"
+      "text": "Mystery rocket crashes into Moon and leaves baffling \u2018double crater,\u2019 NASA says",
+      "url": "/mystery-rocket-crashes-moon-leaves-133818137.html"
     },
     {
-      "text": "Angry Trump Again Demands The Impossible From Jan. 6 Panel After Riveting Hearing",
-      "url": "/angry-trump-again-demands-impossible-015138572.html"
+      "text": "Ukraine accuses U.S.-sanctioned lawmaker of working for Russia",
+      "url": "/ukraine-accuses-u-sanctioned-lawmaker-183822559.html"
     },
     {
-      "text": "Jan. 6 hearing: Key takeaways from Thursday's hearing featuring former DOJ officialsYahoo News",
-      "url": "/jan-6-hearing-key-takeaways-from-thursdays-hearing-featuring-former-doj-officials-223204195.html"
+      "text": "Former Marine Resigns as July 4 Parade Grand Marshal After Right-Wing Texas Radio Host Targeted Her Family",
+      "url": "/former-marine-steps-down-july-013753093.html"
     },
     {
-      "text": "1/6 panel hears of Trump's pressure on DOJAssociated Press Videos",
-      "url": "/1-6-panel-hears-trumps-233955454.html"
+      "text": "Georgia Democratic nominee for governor Stacey Abrams explains the change in her position on abortion: There is 'no place in that medical decision for ideology or for politicians'",
+      "url": "/georgia-democratic-nominee-governor-stacey-024354606.html"
     },
     {
-      "text": "Japanese man loses USB drive containing personal info of 460,000 residents after drunken night out",
-      "url": "/japanese-man-loses-usb-drive-231544016.html"
+      "text": "Abrams says it is \u2018very dangerous\u2019 for women in Georgia following abortion rulingThe Hill",
+      "url": "/abrams-says-very-dangerous-women-135426122.html"
     },
     {
-      "text": "Ukraine's Sievierodonetsk falls to Russia",
-      "url": "/ukraines-sievierodonetsk-falls-russia-214604571.html"
+      "text": "Georgia Democratic gubernatorial nominee Stacey Abrams says she's 'appalled' by the Supreme Court decision to overturn Roe v. WadeINSIDER",
+      "url": "/georgia-democratic-gubernatorial-nominee-stacey-220203067.html"
+    },
+    {
+      "text": "U.S. Army private admits plotting attack on military unit",
+      "url": "/u-army-private-admits-plotting-210603417.html"
+    },
+    {
+      "text": "Woman's 'indecent exposure' citation over shorts, crop top goes viral: What we know",
+      "url": "/womans-indecent-exposure-citation-over-193222997.html"
+    },
+    {
+      "text": "Ginni Thomas left a voicemail for Anita Hill asking her to apologize for accusing Clarence Thomas of sexual harassment",
+      "url": "/ginni-thomas-left-voicemail-anita-054403248.html"
+    },
+    {
+      "text": "LAPD officer who died was beaten in training, mother claims",
+      "url": "/lapd-officer-died-beaten-training-180724191.html"
     },
     {
       "text": "Can red flag laws prevent gun deaths?",
@@ -575,76 +685,44 @@
       "url": "https://news.yahoo.com/can-red-flag-laws-prevent-mass-shootings-192759003.html"
     },
     {
-      "text": "",
-      "url": "https://weather.yahoo.com/united-states/san-antonio/san-antonio-2487796"
+      "text": "Over 200 cyclists turn out for Milwaukee\u2019s second annual World Naked Bike Ride 2022",
+      "url": "/over-200-cyclists-turn-milwaukee-002451965.html"
     },
     {
-      "text": "Help",
-      "url": "https://help.yahoo.com/kb/helpcentral"
-    },
-    {
-      "text": "Privacy (Updated)",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/index.html"
-    },
-    {
-      "text": "Privacy Dashboard",
-      "url": "https://guce.yahoo.com/privacy-dashboard?locale=en-US"
-    },
-    {
-      "text": "Suggestions",
-      "url": "https://yahoo.uservoice.com/forums/204992-us-news"
-    },
-    {
-      "text": "About our Ads",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "Terms (Updated)",
-      "url": "https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html"
-    },
-    {
-      "text": "Sitemap",
-      "url": "https://news.yahoo.com/sitemap"
+      "text": "Valerie Bertinelli Stuns Fans After She Gives Brutally Honest Response to a Comment",
+      "url": "/valerie-bertinelli-stuns-fans-she-150000128.html"
     },
     {
       "text": "Supreme Court Justice Clarence Thomas told his law clerks in the '90s that he wanted to serve for 43 years to make liberals' lives 'miserable'",
       "url": "/supreme-court-justice-clarence-thomas-051733128.html"
     },
     {
-      "text": "Pages from Brian Laundrie's notebook show he wrote 'I ended her life, I thought it was merciful'",
-      "url": "/pages-brian-laundries-notebook-show-191518315.html"
+      "text": "Samuel Jackson Rips 'Uncle Clarence' Thomas For Risking Interracial Marriage In Roe Reversal",
+      "url": "/samuel-jackson-rips-uncle-clarence-224051398.html"
     },
     {
-      "text": "Anderson Cooper Reveals How Richard Gere Helped Him Realize He's Gay: 'I Couldn't Speak'",
-      "url": "/anderson-cooper-reveals-richard-gere-020226935.html"
+      "text": "My Daughter Almost Died At Summer Camp. Here's What I Wish I Told Her Before She Went.",
+      "url": "/daughter-almost-died-summer-camp-130010519.html"
     },
     {
-      "text": "Selena Gomez Is So Strong While Modeling A Bikini For Her Friend's Line",
-      "url": "/selena-gomez-strong-while-modeling-110000845.html"
+      "text": "Sen. Josh Hawley predicts the overturning of Roe v. Wade will cause a 'major sorting out across the country' and allow the GOP to 'extend their strength in the Electoral College'",
+      "url": "/sen-josh-hawley-predicts-overturning-195254563.html"
     },
     {
-      "text": "Angry Trump Again Demands The Impossible From Jan. 6 Panel After Riveting Hearing",
-      "url": "/angry-trump-again-demands-impossible-015138572.html"
+      "text": "Al Franken erupts after Clarence Thomas says what Supreme Court should do after Roe v. Wade abortion decision",
+      "url": "/al-franken-erupts-clarence-thomas-054818701.html"
     },
     {
-      "text": "Jason Kokrak DQed from Travelers Championship; Could it be an epic walkout from PGA Tour life?",
-      "url": "/jason-kokrak-dqed-travelers-championship-143454803.html"
+      "text": "Trump Pauses Self-Obsession To Acknowledge His Role in Taking Rights from Millions of Women",
+      "url": "/trump-pauses-self-obsession-acknowledge-020115969.html"
     },
     {
       "text": "Obergefell, the plaintiff in the SCOTUS same-sex marriage ruling, said it's 'quite telling' Clarence Thomas omitted the case that legalized interracial marriage after saying the courts should go after other right to privacy cases",
       "url": "/obergefell-plaintiff-scotus-same-sex-055445239.html"
     },
     {
-      "text": "Jack White Blasts Trump for \u201cAll the Abortions You Secretly Paid For\u201d After Roe v. Wade Overturned",
-      "url": "/jack-white-blasts-trump-abortions-182957879.html"
-    },
-    {
-      "text": "$9B gas refund: Gavin Newsom, California lawmakers tentatively agree on deal",
-      "url": "/9b-gas-refund-gavin-newsom-013605671.html"
-    },
-    {
-      "text": "Sen. Josh Hawley predicts the overturning of Roe v. Wade will cause a 'major sorting out across the country' and allow the GOP to 'extend their strength in the Electoral College'",
-      "url": "/sen-josh-hawley-predicts-overturning-195254563.html"
+      "text": "Navy SEALs 'Hell Week' autopsy reveals cause of death of Manalapan man four months later",
+      "url": "/navy-seals-hell-week-autopsy-090034460.html"
     }
   ]
 }

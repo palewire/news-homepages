@@ -1,5 +1,5 @@
 {
-  "created": 1656203006,
+  "created": 1656289338,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/0/items/laist-2022",
@@ -7400,31 +7400,157 @@
       "sha1": "4839449088d20d41493db6372423f1c3194ca029"
     },
     {
+      "name": "laist-2022-06-25T18:41:40.530970-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656207704",
+      "size": "32491",
+      "md5": "c6ecc4c95abe102e1d65eaa302a113a0",
+      "crc32": "5537ac6c",
+      "sha1": "ec54fc40918ccbec126759c716f4a9f98ae9d344",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-25T18:41:40.530970-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656207705",
+      "size": "35811",
+      "md5": "4f6d80a96d77b3da826e499d1dda8cdf",
+      "crc32": "1096f1f1",
+      "sha1": "4939d7d855f37368b7f81410fef4674b3fe819ac",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-25T18:41:40.530970-07:00.jpg",
+      "source": "original",
+      "mtime": "1656207702",
+      "size": "287617",
+      "md5": "9620c5b02d0130e572df338e2d23975e",
+      "crc32": "070cb09f",
+      "sha1": "ab75f5147d1535dab9eda1d1279426b75f7d3555",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-06-25T18:41:40.530970-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-06-25T18:41:40.530970-07:00.jpg",
+      "mtime": "1656207814",
+      "size": "10252",
+      "md5": "b5d9b13b3179d659a0d38f05c75f9a7f",
+      "crc32": "47634bff",
+      "sha1": "d257bd087f1c348e170da857de8b8022f80ab51e"
+    },
+    {
+      "name": "laist-2022-06-26T02:29:53.508994-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656235798",
+      "size": "32282",
+      "md5": "3013cc9da3ee73025f6b5b2264ae040e",
+      "crc32": "4747244d",
+      "sha1": "78c49e1af2e0c396364b4f67d723441e79bf01f1",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-26T02:29:53.508994-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656235800",
+      "size": "35780",
+      "md5": "27f50a6b792475cfde424fdced8f348e",
+      "crc32": "aa084a0a",
+      "sha1": "40c4f357412b3f1d14fb91fe1d7e38526dd22d5d",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-26T02:29:53.508994-07:00.jpg",
+      "source": "original",
+      "mtime": "1656235797",
+      "size": "287577",
+      "md5": "d4d509c07484e321a302095d88651fda",
+      "crc32": "3ebf27e7",
+      "sha1": "84de954494c1949eb282f372a93cd7d37ffe21cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-06-26T02:29:53.508994-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-06-26T02:29:53.508994-07:00.jpg",
+      "mtime": "1656235853",
+      "size": "10253",
+      "md5": "bc57fbb8c19b50296006e0bb29726907",
+      "crc32": "9bdff5da",
+      "sha1": "8498ea01f7b346d539cb7536b54efe4a4a247f26"
+    },
+    {
+      "name": "laist-2022-06-26T10:33:55.115395-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656264841",
+      "size": "32283",
+      "md5": "a33311be1dfd8275a0a3286f3385f9fa",
+      "crc32": "6904c522",
+      "sha1": "605868b7634a356cc83e907c6771316a966b1892",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-26T10:33:55.115395-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656264843",
+      "size": "35780",
+      "md5": "27f50a6b792475cfde424fdced8f348e",
+      "crc32": "aa084a0a",
+      "sha1": "40c4f357412b3f1d14fb91fe1d7e38526dd22d5d",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-26T10:33:55.115395-07:00.jpg",
+      "source": "original",
+      "mtime": "1656264839",
+      "size": "287577",
+      "md5": "d4d509c07484e321a302095d88651fda",
+      "crc32": "3ebf27e7",
+      "sha1": "84de954494c1949eb282f372a93cd7d37ffe21cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-06-26T10:33:55.115395-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-06-26T10:33:55.115395-07:00.jpg",
+      "mtime": "1656264894",
+      "size": "10253",
+      "md5": "bc57fbb8c19b50296006e0bb29726907",
+      "crc32": "9bdff5da",
+      "sha1": "8498ea01f7b346d539cb7536b54efe4a4a247f26"
+    },
+    {
       "name": "laist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f0dbb36315e9b34718e8c23dba33bdc9c3e8ae4",
-      "mtime": "1656197326",
-      "size": "147618",
-      "md5": "a2cd0825478ef977e8c9ecba58fb3d39",
-      "crc32": "aa7e44d4",
-      "sha1": "0286a626849facabad5a9f34ecc015953db958d0",
+      "btih": "0ac1d800c3103fc7332a0a4e1edf5502d993dc88",
+      "mtime": "1656264907",
+      "size": "150112",
+      "md5": "4c822f9fe397074d164a80000a601105",
+      "crc32": "a7430faf",
+      "sha1": "51ae5c42702f097fe6ddb8b4d953cd1577007791",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d8a5b0ed7cadc1230afc08aee3c2c14e",
+      "md5": "af873f153c46fd4eda8ecaafb8d0ef99",
       "summation": "md5"
     },
     {
       "name": "laist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656197267",
-      "size": "806912",
-      "md5": "841523cba32409a7eab5891ce57a22b0",
-      "crc32": "02eb5afd",
-      "sha1": "e6fee42ed0a18ec3dd9437fb1687a2eda7868500",
+      "mtime": "1656264847",
+      "size": "823296",
+      "md5": "b8c4b4e964af93bd5fa0ee47cda9b979",
+      "crc32": "74ed7bbc",
+      "sha1": "6a399193308422d1458b0bff3fb5131960ccce8c",
       "format": "Metadata"
     },
     {
@@ -7438,9 +7564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 707,
-  "item_last_updated": 1656197326,
-  "item_size": 68701500,
+  "files_count": 719,
+  "item_last_updated": 1656264907,
+  "item_size": 69818334,
   "laist-2022": [
     {
       "text": "Become a sponsor",
@@ -7624,15 +7750,31 @@
     },
     {
       "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/live-updates/roe-v-wade-overturned-la-reacts"
+      "url": "https://laist.com/news/health/for-doctors-abortion-restrictions-create-an-impossible-choice-when-providing-care"
     },
     {
       "text": "Health",
       "url": "https://laist.com/news/health"
     },
     {
-      "text": "Supreme Court Overturns Roe V. Wade, And LA Reacts",
-      "url": "https://laist.com/live-updates/roe-v-wade-overturned-la-reacts"
+      "text": "For Doctors, Abortion Restrictions Create An 'Impossible Choice' When Providing Care",
+      "url": "https://laist.com/news/health/for-doctors-abortion-restrictions-create-an-impossible-choice-when-providing-care"
+    },
+    {
+      "text": "Politics",
+      "url": "https://laist.com/news/politics"
+    },
+    {
+      "text": "Politics",
+      "url": "https://laist.com/news/politics"
+    },
+    {
+      "text": "California Tax Relief: A Tentative Deal Calls For Refunds As High as $1,050",
+      "url": "https://laist.com/news/politics/california-tax-relief-whats-in-the-tentative-deal"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/politics/california-tax-relief-whats-in-the-tentative-deal"
     },
     {
       "text": "Health",
@@ -7665,22 +7807,6 @@
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
       "url": "https://laist.com/news/criminal-justice/gun-laws-second-amendment-california-concealed-carry-ccw-handgun-bruen"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "How Well Have You Been Following The News? Take Our Quiz To Find Out",
-      "url": "https://laist.com/news/the-laist-news-quiz"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/the-laist-news-quiz"
     },
     {
       "text": "Arts and Entertainment",
@@ -7723,6 +7849,10 @@
       "url": "/the-brief"
     },
     {
+      "text": "LAUSD Students Open Day 2 Of Hollywood Bowl Jazz Festival",
+      "url": "https://laist.com/news/arts-and-entertainment/lausd-students-open-day-2-of-hollywood-bowl-jazz-festival"
+    },
+    {
       "text": "How Can The Supreme Court Overturn Of Roe V. Wade Affect Mental Health?",
       "url": "https://laist.com/news/health/how-can-the-supreme-court-overturn-of-roe-v-wade-affect-mental-health"
     },
@@ -7741,10 +7871,6 @@
     {
       "text": "Supreme Court Overturns Roe V. Wade Ending Right To Abortion Upheld For Decades",
       "url": "https://laist.com/news/health/supreme-court-overturns-roe-v-wade"
-    },
-    {
-      "text": "Morning Brief: SCOTUS Gun Ruling, Miranda Rights, Kitchen Abuelas ",
-      "url": "https://laist.com/news/morning-brief-scotus-gun-ruling-miranda-rights-kitchen-abuelas"
     },
     {
       "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
@@ -7923,6 +8049,18 @@
       "url": "https://laist.com/news/climate-environment/your-a-z-guide-to-drought-friendly-aloes-and-agaves"
     },
     {
+      "text": "News",
+      "url": "https://laist.com/news"
+    },
+    {
+      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
+      "url": "https://laist.com/news/morning-brief-scotus-gun-ruling-miranda-rights-kitchen-abuelas"
+    },
+    {
+      "text": "Morning Brief: SCOTUS Gun Ruling, Miranda Rights, Kitchen Abuelas ",
+      "url": "https://laist.com/news/morning-brief-scotus-gun-ruling-miranda-rights-kitchen-abuelas"
+    },
+    {
       "text": "Housing and Homelessness",
       "url": "https://laist.com/news/housing-homelessness"
     },
@@ -8053,18 +8191,6 @@
     {
       "text": "LA\u2019s City Council Asks: Is It Time To Phase Out COVID-19 Renter Protections? ",
       "url": "https://laist.com/news/housing-homelessness/los-angeles-city-council-tenant-landlord-protections-eviction-moratorium-rent-increases"
-    },
-    {
-      "text": "Education",
-      "url": "https://laist.com/news/education"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/education/tutoring-options-in-los-angeles-unified-leave-families-frustrated"
-    },
-    {
-      "text": "Tutoring Options In Los Angeles Unified Leave Families Frustrated",
-      "url": "https://laist.com/news/education/tutoring-options-in-los-angeles-unified-leave-families-frustrated"
     },
     {
       "text": "\n                        Load More\n                        \n                    ",
@@ -8247,10 +8373,10 @@
     "publicdate": "2022-03-23 02:08:36",
     "addeddate": "2022-03-23 02:08:36"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 1932611070,
+  "server": "ia802503.us.archive.org",
+  "uniq": 2058316825,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1656197496,
+  "created": 1656289459,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/5/items/scotusblog-2022",
@@ -182,31 +182,157 @@
       "format": "JSON"
     },
     {
+      "name": "scotusblog-2022-06-25T21:44:30.651855-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656207873",
+      "size": "51252",
+      "md5": "d41d3aca2359ab20dd66b14fb1fc51cc",
+      "crc32": "9b926bc2",
+      "sha1": "8961c306b051d2d72f07d0cd3ca1d08ad6b7511c",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-06-25T21:44:30.651855-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656207874",
+      "size": "26584",
+      "md5": "b367120f84506649f37761736e186a69",
+      "crc32": "70972248",
+      "sha1": "c05005b49572a9553355df50d6d207c48b3b598b",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-06-25T21:44:30.651855-04:00.jpg",
+      "source": "original",
+      "mtime": "1656207871",
+      "size": "327572",
+      "md5": "32cde84c2ec47508087b878bb230da12",
+      "crc32": "f37b099c",
+      "sha1": "c00b026a62fd2b1eba37902a3a65f919867b56e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotusblog-2022-06-25T21:44:30.651855-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotusblog-2022-06-25T21:44:30.651855-04:00.jpg",
+      "mtime": "1656207917",
+      "size": "10224",
+      "md5": "0870d43922c21fa8089cf837a74fbf65",
+      "crc32": "9276a639",
+      "sha1": "f515887cc4835a41f21e4af17d0ef86773214b93"
+    },
+    {
+      "name": "scotusblog-2022-06-26T05:34:05.504890-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656236049",
+      "size": "24803",
+      "md5": "ffcf4e2e5e8924f70dfc9ab6c8d0a223",
+      "crc32": "0fba41a6",
+      "sha1": "36d3754a99bd9fbd1d0d140649023d7406773cd5",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-06-26T05:34:05.504890-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656236050",
+      "size": "24747",
+      "md5": "a9d95f701069bb02cfcd9e7561d02cc2",
+      "crc32": "dd686966",
+      "sha1": "defc1db7e61b87b22271c7ba971aaa7aa2634cfc",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-06-26T05:34:05.504890-04:00.jpg",
+      "source": "original",
+      "mtime": "1656236047",
+      "size": "326157",
+      "md5": "573a5bf72026f3954e34ebf17a518dd6",
+      "crc32": "61e2b10f",
+      "sha1": "af11a6619e888868cd4794e39c306ccf5952f78f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotusblog-2022-06-26T05:34:05.504890-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotusblog-2022-06-26T05:34:05.504890-04:00.jpg",
+      "mtime": "1656236093",
+      "size": "10156",
+      "md5": "24d3d9425784b862410f0d6297f865aa",
+      "crc32": "1020faaa",
+      "sha1": "037086e3be5d0cb57b9055f39ee34aef369d55f3"
+    },
+    {
+      "name": "scotusblog-2022-06-26T13:37:34.093302-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656265057",
+      "size": "52031",
+      "md5": "0e77e6da6752726ef2f06fc7211c1b21",
+      "crc32": "26f19f2f",
+      "sha1": "768cd4b9160195273e145be465feab74f598a8f7",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-06-26T13:37:34.093302-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656265058",
+      "size": "26003",
+      "md5": "59b2ba354b01e2d8eff4612761ce565e",
+      "crc32": "47ed1d61",
+      "sha1": "018b683df33330c3b070ecea728de4c18c1efee5",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-06-26T13:37:34.093302-04:00.jpg",
+      "source": "original",
+      "mtime": "1656265055",
+      "size": "326157",
+      "md5": "573a5bf72026f3954e34ebf17a518dd6",
+      "crc32": "61e2b10f",
+      "sha1": "af11a6619e888868cd4794e39c306ccf5952f78f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotusblog-2022-06-26T13:37:34.093302-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotusblog-2022-06-26T13:37:34.093302-04:00.jpg",
+      "mtime": "1656265100",
+      "size": "10156",
+      "md5": "24d3d9425784b862410f0d6297f865aa",
+      "crc32": "1020faaa",
+      "sha1": "037086e3be5d0cb57b9055f39ee34aef369d55f3"
+    },
+    {
       "name": "scotusblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ceeb85c6a21fa273828dcdfd843f5063ddd9ef4",
-      "mtime": "1656197479",
-      "size": "5053",
-      "md5": "2b49817c44b20f9c2aae53370efd2f2c",
-      "crc32": "3e92a50e",
-      "sha1": "a60bd9451f18369033c2305a9707834f51c801c6",
+      "btih": "e0d3fda4f1df871ef828f7711439ab83fe5a299d",
+      "mtime": "1656265102",
+      "size": "7628",
+      "md5": "fd009c8ee10d78567075a3db8c10b097",
+      "crc32": "556fc226",
+      "sha1": "0199cd22d53abeba52f173b103cac25623e54a63",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotusblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8528e3aba30d79364e6e06bd9058e8e4",
+      "md5": "47eb0492e42df2c0bd3e547f23f0a5ac",
       "summation": "md5"
     },
     {
       "name": "scotusblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656197445",
-      "size": "40960",
-      "md5": "955abaa3f47dd9b81ce44d26ecbbd5f0",
-      "crc32": "7922343c",
-      "sha1": "5497629aebcc9639e17cf47f2e72fd04dbdd879e",
+      "mtime": "1656265061",
+      "size": "53248",
+      "md5": "246ed5c3a8b7801b5d90aa255fba7ecf",
+      "crc32": "1e30ac13",
+      "sha1": "943c656a88775b2803c439ed247c7d18e0421e4c",
       "format": "Metadata"
     },
     {
@@ -220,9 +346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 21,
-  "item_last_updated": 1656197479,
-  "item_size": 1451841,
+  "files_count": 33,
+  "item_last_updated": 1656265102,
+  "item_size": 2682546,
   "metadata": {
     "identifier": "scotusblog-2022",
     "collection": [
@@ -239,10 +365,944 @@
     "publicdate": "2022-06-24 23:01:00",
     "addeddate": "2022-06-24 23:01:00"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 443334460,
+  "scotusblog-2022": [
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t                        ",
+      "url": "javascript:void(0)"
+    },
+    {
+      "text": "\n              \t\t\t  \t\t\t  \t\t\t  \t\t\t  \t\t\t\t\t",
+      "url": "https://www.scotusblog.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.scotusblog.com/"
+    },
+    {
+      "text": "Cases",
+      "url": "https://www.scotusblog.com/case-files/terms/"
+    },
+    {
+      "text": "October Term 2022",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2022/"
+    },
+    {
+      "text": "October Term 2021",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2021/"
+    },
+    {
+      "text": "October Term 2020",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2020/"
+    },
+    {
+      "text": "October Term 2019",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2019/"
+    },
+    {
+      "text": "October Term 2018",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2018/"
+    },
+    {
+      "text": "Term Archive",
+      "url": "https://www.scotusblog.com/case-files/terms/"
+    },
+    {
+      "text": "Petitions",
+      "url": "https://www.scotusblog.com/case-files/petitions-were-watching/"
+    },
+    {
+      "text": "Statistics",
+      "url": "https://www.scotusblog.com/statistics/"
+    },
+    {
+      "text": "Newsfeed",
+      "url": "https://www.scotusblog.com/blog/"
+    },
+    {
+      "text": "Categories",
+      "url": "#"
+    },
+    {
+      "text": "Academic Round-up",
+      "url": "https://www.scotusblog.com/category/academic-round-up/"
+    },
+    {
+      "text": "Book reviews/Ask the author",
+      "url": "https://www.scotusblog.com/category/book-reviews/"
+    },
+    {
+      "text": "Capital cases",
+      "url": "https://www.scotusblog.com/category/emergency-appeals-and-applications/capital-cases/"
+    },
+    {
+      "text": "Cases in the Pipeline",
+      "url": "https://www.scotusblog.com/category/in-the-pipeline/"
+    },
+    {
+      "text": "Emergency appeals and applications",
+      "url": "https://www.scotusblog.com/category/emergency-appeals-and-applications/"
+    },
+    {
+      "text": "Live",
+      "url": "https://www.scotusblog.com/category/live/"
+    },
+    {
+      "text": "Merits Cases",
+      "url": "https://www.scotusblog.com/category/merits-cases/"
+    },
+    {
+      "text": "SCOTUStalk",
+      "url": "https://www.scotusblog.com/category/scotustalk/"
+    },
+    {
+      "text": "Special Features",
+      "url": "https://www.scotusblog.com/special-features/all-special-features/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.scotusblog.com/about/"
+    },
+    {
+      "text": "Who We Are",
+      "url": "https://www.scotusblog.com/about/"
+    },
+    {
+      "text": "Case Authors",
+      "url": "https://www.scotusblog.com/case-authors/"
+    },
+    {
+      "text": "Resources",
+      "url": "/resources"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact-us/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/SCOTUSblog"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/SCOTUSblog/"
+    },
+    {
+      "text": "",
+      "url": "https://www.tiktok.com/@scotusblog"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "javascript:void(0)"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.scotusblog.com/"
+    },
+    {
+      "text": "Cases",
+      "url": "https://www.scotusblog.com/case-files/terms/"
+    },
+    {
+      "text": "October Term 2022",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2022/"
+    },
+    {
+      "text": "October Term 2021",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2021/"
+    },
+    {
+      "text": "October Term 2020",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2020/"
+    },
+    {
+      "text": "October Term 2019",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2019/"
+    },
+    {
+      "text": "October Term 2018",
+      "url": "https://www.scotusblog.com/case-files/terms/ot2018/"
+    },
+    {
+      "text": "Term Archive",
+      "url": "https://www.scotusblog.com/case-files/term-archive/"
+    },
+    {
+      "text": "Petitions",
+      "url": "https://www.scotusblog.com/case-files/petitions-were-watching/"
+    },
+    {
+      "text": "Statistics",
+      "url": "https://www.scotusblog.com/statistics/"
+    },
+    {
+      "text": "Newsfeed",
+      "url": "https://www.scotusblog.com/blog/"
+    },
+    {
+      "text": "Categories",
+      "url": "#"
+    },
+    {
+      "text": "Academic Round-up",
+      "url": "https://www.scotusblog.com/category/academic-round-up/"
+    },
+    {
+      "text": "Book reviews/Ask the author",
+      "url": "https://www.scotusblog.com/category/book-reviews/"
+    },
+    {
+      "text": "Capital cases",
+      "url": "https://www.scotusblog.com/category/emergency-appeals-and-applications/capital-cases/"
+    },
+    {
+      "text": "Cases in the Pipeline",
+      "url": "https://www.scotusblog.com/category/in-the-pipeline/"
+    },
+    {
+      "text": "Emergency appeals and applications",
+      "url": "https://www.scotusblog.com/category/emergency-appeals-and-applications/"
+    },
+    {
+      "text": "Live",
+      "url": "https://www.scotusblog.com/category/live/"
+    },
+    {
+      "text": "Merits Cases",
+      "url": "https://www.scotusblog.com/category/merits-cases/"
+    },
+    {
+      "text": "SCOTUStalk",
+      "url": "https://www.scotusblog.com/category/scotustalk/"
+    },
+    {
+      "text": "Special Features",
+      "url": "https://www.scotusblog.com/special-features/all-special-features/"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Who We Are",
+      "url": "https://www.scotusblog.com/about/"
+    },
+    {
+      "text": "Case Authors",
+      "url": "https://www.scotusblog.com/case-authors/"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.scotusblog.com/resources/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.scotusblog.com/contact-us/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/SCOTUSblog"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/SCOTUSblog/"
+    },
+    {
+      "text": "",
+      "url": "https://www.tiktok.com/@scotusblog"
+    },
+    {
+      "text": "\n        \n                    \n\t",
+      "url": "#"
+    },
+    {
+      "text": "SUPREME COURT ENDS CONSTITUTIONAL RIGHT TO ABORTION",
+      "url": "https://www.scotusblog.com/2022/06/supreme-court-overturns-constitutional-right-to-abortion/"
+    },
+    {
+      "text": "Amy Howe",
+      "url": "https://www.scotusblog.com/author/amy-howe/"
+    },
+    {
+      "text": "Demonstrators converge outside Supreme Court after\u00a0Dobbs\u00a0decision",
+      "url": "https://www.scotusblog.com/2022/06/demonstrators-converge-outside-supreme-court-after-dobbs-decision/"
+    },
+    {
+      "text": "SCOTUSblog",
+      "url": "https://www.scotusblog.com/author/scotusblog/"
+    },
+    {
+      "text": "In 6-3 ruling, court strikes down New York\u2019s concealed-carry law",
+      "url": "https://www.scotusblog.com/2022/06/in-6-3-ruling-court-strikes-down-new-yorks-concealed-carry-law/"
+    },
+    {
+      "text": "Amy Howe",
+      "url": "https://www.scotusblog.com/author/amy-howe/"
+    },
+    {
+      "text": "North Carolina GOP lawmakers can intervene to defend state\u2019s voter-ID law",
+      "url": "https://www.scotusblog.com/2022/06/north-carolina-republican-lawmakers-win-right-to-intervene-in-court-and-defend-states-voter-id-law/"
+    },
+    {
+      "text": "Amy Howe",
+      "url": "https://www.scotusblog.com/author/amy-howe/"
+    },
+    {
+      "text": "A small, procedural win for prisoners challenging a state\u2019s method of execution",
+      "url": "https://www.scotusblog.com/2022/06/a-small-procedural-win-for-prisoners-challenging-a-states-method-of-execution/"
+    },
+    {
+      "text": "Lee Kovarsky",
+      "url": "https://www.scotusblog.com/author/lee-kovarsky/"
+    },
+    {
+      "text": "SCOTUStalk",
+      "url": "https://www.scotusblog.com/2022/06/the-supreme-court-overturns-roe-v-wade/"
+    },
+    {
+      "text": "FIND MORE EPISODES",
+      "url": "/category/scotustalk"
+    },
+    {
+      "text": "Another gun case waits in the wings",
+      "url": "https://www.scotusblog.com/2022/06/another-gun-case-waits-in-the-wings/"
+    },
+    {
+      "text": "Kalvis Golde",
+      "url": "https://www.scotusblog.com/author/kal-golde/"
+    },
+    {
+      "text": "cert petitions",
+      "url": "https://www.scotusblog.com/faqs-announcements-of-orders-and-opinions/#cert_petitions_explained"
+    },
+    {
+      "text": "here",
+      "url": "about:blank"
+    },
+    {
+      "text": "first major ruling on the Second Amendment in over a decade",
+      "url": "https://www.scotusblog.com/2022/06/in-6-3-ruling-court-strikes-down-new-yorks-concealed-carry-law/"
+    },
+    {
+      "text": "District of Columbia v. Heller",
+      "url": "https://casetext.com/case/dist-of-columbia-v-heller-3"
+    },
+    {
+      "text": "Continue Reading",
+      "url": "https://www.scotusblog.com/2022/06/another-gun-case-waits-in-the-wings/"
+    },
+    {
+      "text": "A ruling that curtails the All Writs Act in habeas proceedings will be felt by state prisoners and federal courts",
+      "url": "https://www.scotusblog.com/2022/06/a-ruling-that-curtails-the-all-writs-act-in-habeas-proceedings-will-be-felt-by-state-prisoners-and-federal-courts/"
+    },
+    {
+      "text": "Mridula Raman",
+      "url": "https://www.scotusblog.com/author/mridula-raman/"
+    },
+    {
+      "text": "Shoop v. Twyford",
+      "url": "https://www.scotusblog.com/case-files/cases/shoop-v-twyford/"
+    },
+    {
+      "text": "5-4 decision",
+      "url": "https://www.supremecourt.gov/opinions/21pdf/21-511_o75p.pdf"
+    },
+    {
+      "text": "All Writs Act",
+      "url": "https://casetext.com/statute/united-states-code/title-28-judiciary-and-judicial-procedure/part-v-procedure/chapter-111-general-provisions/section-1651-writs"
+    },
+    {
+      "text": "Continue Reading",
+      "url": "https://www.scotusblog.com/2022/06/a-ruling-that-curtails-the-all-writs-act-in-habeas-proceedings-will-be-felt-by-state-prisoners-and-federal-courts/"
+    },
+    {
+      "text": "The morning read for Friday, June 24",
+      "url": "https://www.scotusblog.com/2022/06/the-morning-read-for-friday-june-24/"
+    },
+    {
+      "text": "James Romoser",
+      "url": "https://www.scotusblog.com/author/james-romoser/"
+    },
+    {
+      "text": "roundup@scotusblog.com",
+      "url": "mailto:roundup@scotusblog.com"
+    },
+    {
+      "text": "Confidence in U.S. Supreme Court Sinks to Historic Low",
+      "url": "https://news.gallup.com/poll/394103/confidence-supreme-court-sinks-historic-low.aspx"
+    },
+    {
+      "text": "Supreme Court nears end of term amid conflict and discord",
+      "url": "https://www.abajournal.com/web/article/supreme-court-nears-end-of-term-amid-conflict-and-discord"
+    },
+    {
+      "text": "What the Supreme Court\u2019s new gun rights ruling means",
+      "url": "https://www.cnn.com/2022/06/23/politics/second-amendment-gun-rights-supreme-court-new-york-test/index.html"
+    },
+    {
+      "text": "A Good Week for Religious Freedom",
+      "url": "https://www.wsj.com/articles/supreme-court-carson-v-makin-maine-religious-freedom-private-public-schools-john-roberts-stephen-breyer-discrimination-11656021547"
+    },
+    {
+      "text": "Maine\u2019s End Run Around the Supreme Court Offers States a Blueprint on Guns",
+      "url": "https://www.nytimes.com/2022/06/23/opinion/supreme-court-guns-religion.html"
+    },
+    {
+      "text": "Announcement of opinions for Friday, June 24 (complete)",
+      "url": "https://www.scotusblog.com/2022/06/announcement-of-opinions-for-friday-june-24/"
+    },
+    {
+      "text": "Angie Gou",
+      "url": "https://www.scotusblog.com/author/angiegou/"
+    },
+    {
+      "text": "Becerra v. Empire Health Foundation",
+      "url": "https://www.supremecourt.gov/opinions/21pdf/20-1312_j42l.pdf"
+    },
+    {
+      "text": "Dobbs v. Jackson Women\u2019s Health Organization",
+      "url": "https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf"
+    },
+    {
+      "text": "here",
+      "url": "https://www.scotusblog.com/faqs-announcements-of-orders-and-opinions/"
+    },
+    {
+      "text": "Continue Reading",
+      "url": "https://www.scotusblog.com/2022/06/announcement-of-opinions-for-friday-june-24/"
+    },
+    {
+      "text": "The independent state legislature theory and more on jurisdiction",
+      "url": "https://www.scotusblog.com/2022/06/the-independent-state-legislature-theory-and-more-on-jurisdiction/"
+    },
+    {
+      "text": "John Elwood",
+      "url": "https://www.scotusblog.com/author/john-elwood/"
+    },
+    {
+      "text": "here",
+      "url": "https://www.scotusblog.com/faqs-announcements-of-orders-and-opinions/#relists_explained"
+    },
+    {
+      "text": "leave town",
+      "url": "https://c.tenor.com/7r3px9kJbYoAAAAM/run-meme.gif"
+    },
+    {
+      "text": "overwhelmingly",
+      "url": "https://www.scotusblog.com/2017/06/relist-watch-retirement-watch-edition/"
+    },
+    {
+      "text": "happened",
+      "url": "https://www.scotusblog.com/2016/06/relist-watch-87/"
+    },
+    {
+      "text": "last",
+      "url": "https://www.scotusblog.com/2015/06/relist-watch-68/"
+    },
+    {
+      "text": "Monday",
+      "url": "https://www.scotusblog.com/2014/06/relist-watch-42/"
+    },
+    {
+      "text": "released",
+      "url": "https://www.supremecourt.gov/orders/courtorders/062717zr_6537.pdf#page=2"
+    },
+    {
+      "text": "the",
+      "url": "https://www.supremecourt.gov/orders/courtorders/062816zr_29m1.pdf#page=4"
+    },
+    {
+      "text": "following",
+      "url": "https://www.supremecourt.gov/orders/courtorders/063015zr_pnk0.pdf#page=13"
+    },
+    {
+      "text": "day",
+      "url": "https://www.supremecourt.gov/orders/courtorders/070114zr_eeam.pdf#page=3"
+    },
+    {
+      "text": "Continue Reading",
+      "url": "https://www.scotusblog.com/2022/06/the-independent-state-legislature-theory-and-more-on-jurisdiction/"
+    },
+    {
+      "text": "MORE POSTS",
+      "url": "/blog/"
+    },
+    {
+      "text": "Calendar",
+      "url": "/events/"
+    },
+    {
+      "text": "October 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "June 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/060121zor_e1p3.pdf"
+    },
+    {
+      "text": "Garland v. Dai",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1155_1a7d.pdf"
+    },
+    {
+      "text": "United States v. Cooley",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1414_8m58.pdf"
+    },
+    {
+      "text": "Van Buren v. United States",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/060721zor_6537.pdf"
+    },
+    {
+      "text": "Sanchez v. Mayorkas",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-315_q713.pdf"
+    },
+    {
+      "text": "Borden v. United States",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-5410_8nj9.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/061421zor_6j36.pdf"
+    },
+    {
+      "text": "Greer v. United States",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-8709_n7io.pdf"
+    },
+    {
+      "text": "Terry v. United States",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-5904_i4dk.pdf"
+    },
+    {
+      "text": "California v. Texas",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-840_6jfm.pdf"
+    },
+    {
+      "text": "Fulton v. Philadelphia",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-123_g3bi.pdf"
+    },
+    {
+      "text": "Nestl\u00e9 USA Inc. v. Doe",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-416_i4dj.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/062121zor_4f14.pdf"
+    },
+    {
+      "text": "NCAA v. Alston",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf"
+    },
+    {
+      "text": "United States v. Arthrex",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1434_ancf.pdf"
+    },
+    {
+      "text": "Goldman Sachs v. Arkansas Teacher Retirement System",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-222_2c83.pdf"
+    },
+    {
+      "text": "Mahanoy Area School District v. B. L.",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-255_g3bi.pdf"
+    },
+    {
+      "text": "Cedar Point Nursery v. Hassid",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-107_ihdj.pdf"
+    },
+    {
+      "text": "Lange v. California",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-18_cb7d.pdf"
+    },
+    {
+      "text": "Collins v. Yellen",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-422_k537.pdf"
+    },
+    {
+      "text": "TransUnion v. Ramirez",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-297_4g25.pdf"
+    },
+    {
+      "text": "HollyFrontier Refining v. Renewable Fuels Association",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-472_0pm1.pdf"
+    },
+    {
+      "text": "Yellen v. Confederated Tribes of the Chehalis Reservation",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-543_3e04.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/062821zor_6j37.pdf"
+    },
+    {
+      "text": "two",
+      "url": "https://www.scotusblog.com/case-files/cases/patel-v-garland/"
+    },
+    {
+      "text": "cases",
+      "url": "https://www.scotusblog.com/case-files/cases/city-of-austin-texas-v-reagan-national-advertising-of-texas-inc/"
+    },
+    {
+      "text": "Lombardo v. St. Louis",
+      "url": "https://www.scotusblog.com/case-files/cases/lombardo-v-city-of-st-louis-missouri/"
+    },
+    {
+      "text": "Pakdel v. San Francisco",
+      "url": "https://www.supremecourt.gov/orders/courtorders/062821zor_6j37.pdf"
+    },
+    {
+      "text": "Minerva Surgical v. Hologic",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-440_9ol1.pdf"
+    },
+    {
+      "text": "Johnson v. Guzman Chavez",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-897_c07d.pdf"
+    },
+    {
+      "text": "PennEast Pipeline Co. v. New Jersey",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1039_8n5a.pdf"
+    },
+    {
+      "text": "Brnovich v. Democratic National Committee",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1257_g204.pdf"
+    },
+    {
+      "text": "Americans for Prosperity Foundation v. Bonta",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-251_p86b.pdf"
+    },
+    {
+      "text": "July 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "Brnovich v. Democratic National Committee",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1257_g204.pdf"
+    },
+    {
+      "text": "Americans for Prosperity Foundation v. Bonta",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-251_p86b.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/070221zor_4gc5.pdf"
+    },
+    {
+      "text": "August 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "September 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "October 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "November 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "December 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "January 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "February 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "March 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "April 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "May 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "June 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "July 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "August 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "September 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "October 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "June 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/060121zor_e1p3.pdf"
+    },
+    {
+      "text": "Garland v. Dai",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1155_1a7d.pdf"
+    },
+    {
+      "text": "United States v. Cooley",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1414_8m58.pdf"
+    },
+    {
+      "text": "Van Buren v. United States",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/060721zor_6537.pdf"
+    },
+    {
+      "text": "Sanchez v. Mayorkas",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-315_q713.pdf"
+    },
+    {
+      "text": "Borden v. United States",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-5410_8nj9.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/061421zor_6j36.pdf"
+    },
+    {
+      "text": "Greer v. United States",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-8709_n7io.pdf"
+    },
+    {
+      "text": "Terry v. United States",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-5904_i4dk.pdf"
+    },
+    {
+      "text": "California v. Texas",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-840_6jfm.pdf"
+    },
+    {
+      "text": "Fulton v. Philadelphia",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-123_g3bi.pdf"
+    },
+    {
+      "text": "Nestl\u00e9 USA Inc. v. Doe",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-416_i4dj.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/062121zor_4f14.pdf"
+    },
+    {
+      "text": "NCAA v. Alston",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf"
+    },
+    {
+      "text": "United States v. Arthrex",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1434_ancf.pdf"
+    },
+    {
+      "text": "Goldman Sachs v. Arkansas Teacher Retirement System",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-222_2c83.pdf"
+    },
+    {
+      "text": "Mahanoy Area School District v. B. L.",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-255_g3bi.pdf"
+    },
+    {
+      "text": "Cedar Point Nursery v. Hassid",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-107_ihdj.pdf"
+    },
+    {
+      "text": "Lange v. California",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-18_cb7d.pdf"
+    },
+    {
+      "text": "Collins v. Yellen",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-422_k537.pdf"
+    },
+    {
+      "text": "TransUnion v. Ramirez",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-297_4g25.pdf"
+    },
+    {
+      "text": "HollyFrontier Refining v. Renewable Fuels Association",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-472_0pm1.pdf"
+    },
+    {
+      "text": "Yellen v. Confederated Tribes of the Chehalis Reservation",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-543_3e04.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/062821zor_6j37.pdf"
+    },
+    {
+      "text": "two",
+      "url": "https://www.scotusblog.com/case-files/cases/patel-v-garland/"
+    },
+    {
+      "text": "cases",
+      "url": "https://www.scotusblog.com/case-files/cases/city-of-austin-texas-v-reagan-national-advertising-of-texas-inc/"
+    },
+    {
+      "text": "Lombardo v. St. Louis",
+      "url": "https://www.scotusblog.com/case-files/cases/lombardo-v-city-of-st-louis-missouri/"
+    },
+    {
+      "text": "Pakdel v. San Francisco",
+      "url": "https://www.supremecourt.gov/orders/courtorders/062821zor_6j37.pdf"
+    },
+    {
+      "text": "Minerva Surgical v. Hologic",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/20-440_9ol1.pdf"
+    },
+    {
+      "text": "Johnson v. Guzman Chavez",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-897_c07d.pdf"
+    },
+    {
+      "text": "PennEast Pipeline Co. v. New Jersey",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1039_8n5a.pdf"
+    },
+    {
+      "text": "Brnovich v. Democratic National Committee",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1257_g204.pdf"
+    },
+    {
+      "text": "Americans for Prosperity Foundation v. Bonta",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-251_p86b.pdf"
+    },
+    {
+      "text": "July 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "Brnovich v. Democratic National Committee",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-1257_g204.pdf"
+    },
+    {
+      "text": "Americans for Prosperity Foundation v. Bonta",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-251_p86b.pdf"
+    },
+    {
+      "text": "orders",
+      "url": "https://www.supremecourt.gov/orders/courtorders/070221zor_4gc5.pdf"
+    },
+    {
+      "text": "August 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "September 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "October 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "November 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "December 2021",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "January 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "February 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "March 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "April 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "May 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "June 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "July 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "August 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "September 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "October 2022",
+      "url": "https://www.scotusblog.com/events/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/SCOTUSblog"
+    },
+    {
+      "text": "ABOUT",
+      "url": "/about/"
+    },
+    {
+      "text": "RESOURCES",
+      "url": "/resources/"
+    },
+    {
+      "text": "JOB POSTINGS",
+      "url": "/job-postings/"
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "url": "/privacy-policy/"
+    },
+    {
+      "text": "CONTACT US",
+      "url": "/contact-us/"
+    },
+    {
+      "text": "Read More",
+      "url": "/privacy-policy/"
+    }
+  ],
+  "server": "ia802503.us.archive.org",
+  "uniq": 472667794,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

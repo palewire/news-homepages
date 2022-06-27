@@ -1,5 +1,5 @@
 {
-  "created": 1656202961,
+  "created": 1656289254,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/foxla-2022",
@@ -7538,31 +7538,157 @@
       "sha1": "d5a78d42ba614455e518ce8a0d77f29188928ab8"
     },
     {
+      "name": "foxla-2022-06-25T18:38:44.999925-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656207528",
+      "size": "45050",
+      "md5": "9dac24f4ac75dc123ca7e4d38027cb45",
+      "crc32": "82d537d2",
+      "sha1": "02e6d1d396326013d151bc1a8689686365d4c2ae",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-25T18:38:44.999925-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656207529",
+      "size": "40040",
+      "md5": "c29b5bc81a364df7c06db944878e4900",
+      "crc32": "a8416b6d",
+      "sha1": "504173b272103d1e5808c4d038ea742e305707b0",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-25T18:38:44.999925-07:00.jpg",
+      "source": "original",
+      "mtime": "1656207526",
+      "size": "311645",
+      "md5": "ca3289da8a5bcc941fdcfa08c0c82d77",
+      "crc32": "dd50bf35",
+      "sha1": "cfe5da3902921de351bce3f9f6248d9d0c68317a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-25T18:38:44.999925-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-25T18:38:44.999925-07:00.jpg",
+      "mtime": "1656207584",
+      "size": "10473",
+      "md5": "866ca5bc5cb08b618b77fed1bdd7c019",
+      "crc32": "faf17124",
+      "sha1": "07201cf2ab38c475a0019fcc8c86e5cbfdb64817"
+    },
+    {
+      "name": "foxla-2022-06-26T02:28:19.784333-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656235705",
+      "size": "45055",
+      "md5": "92bb74980ffd6be6f603f7fd9fadfe58",
+      "crc32": "b1947792",
+      "sha1": "1d64a7237b812c4bed428fb6f802efee23a9d12f",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-26T02:28:19.784333-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656235707",
+      "size": "40018",
+      "md5": "f1c65403e6e0cacbd5e154c2c729169e",
+      "crc32": "f692cc87",
+      "sha1": "a4e6fb74ef63fb6de987721e6b240c072cc8f3c9",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-26T02:28:19.784333-07:00.jpg",
+      "source": "original",
+      "mtime": "1656235704",
+      "size": "315177",
+      "md5": "94728b4bc08bc9c17b94df7ccb19491a",
+      "crc32": "fce485ec",
+      "sha1": "ff7b8e6fc1388c078ac550cb2eea0adb4dc3b7dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-26T02:28:19.784333-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-26T02:28:19.784333-07:00.jpg",
+      "mtime": "1656235758",
+      "size": "10532",
+      "md5": "cc458a7981c7e3f5099b966f7268eabd",
+      "crc32": "a715dc9c",
+      "sha1": "248be88424a59e96cf5dd47df57cbd2ef144c9fc"
+    },
+    {
+      "name": "foxla-2022-06-26T10:31:32.126325-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656264699",
+      "size": "43960",
+      "md5": "2af06797af2d357579a2d25114e1cc2d",
+      "crc32": "0cc87f2f",
+      "sha1": "b0b61c0954008fbfd2523e2bc04b41fe54a40a3a",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-26T10:31:32.126325-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656264700",
+      "size": "38850",
+      "md5": "799b630388966b64cff9b41e6ab9bc1a",
+      "crc32": "9da2e401",
+      "sha1": "d21581b576cb36988ac742a0d3f768cba229ed7f",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-26T10:31:32.126325-07:00.jpg",
+      "source": "original",
+      "mtime": "1656264697",
+      "size": "304776",
+      "md5": "c03e1f0379d3fc68e8749cab6998dc04",
+      "crc32": "54973693",
+      "sha1": "49bd93ec9eaef26b4e94d84c0900d68f2dedf456",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-26T10:31:32.126325-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-26T10:31:32.126325-07:00.jpg",
+      "mtime": "1656264757",
+      "size": "10599",
+      "md5": "5a8c382df858f08e1cf2b76d783745a2",
+      "crc32": "395d81d6",
+      "sha1": "5827b604c1f4fd0ce9c70ee7ec92a8d59b25bf7e"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d07aa8f9ad381db7a32a3451b76344974cf58b2",
-      "mtime": "1656197155",
-      "size": "150616",
-      "md5": "2b436958369c5e21c5444d7f3e7161d7",
-      "crc32": "d85f171b",
-      "sha1": "4ec28245cdec1129d3dac1a33e7f2360d18c8db4",
+      "btih": "8cf1c8ed92b0c627f7a567658835c100e6c382b1",
+      "mtime": "1656264763",
+      "size": "153110",
+      "md5": "e2a72f6c4226fb8bccdd22400131fc70",
+      "crc32": "c50c22db",
+      "sha1": "71431b7831dec154aee23b1684a3af1955737b66",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d40e510f2e2583c71c62ea2d24fe997c",
+      "md5": "d9fa63642177786c02fcf45e26fa79f8",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656197100",
-      "size": "823296",
-      "md5": "683d95eae3b6690bee3a2d5ae701c46d",
-      "crc32": "7b12c574",
-      "sha1": "6018034699c743918e992a84f0814005b84284d0",
+      "mtime": "1656264705",
+      "size": "835584",
+      "md5": "735b045100cf3e4041298d85ae0b8b7a",
+      "crc32": "dd4c0a1f",
+      "sha1": "d10cb86674f4123b60a73a3a5b4137174763e7e4",
       "format": "Metadata"
     },
     {
@@ -7576,7 +7702,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 720,
+  "files_count": 732,
   "foxla-2022": [
     {
       "text": " ",
@@ -8015,6 +8141,86 @@
       "url": "/contact"
     },
     {
+      "text": "   ",
+      "url": "/news/arrests-made-in-downtown-la-as-abortion-rights-protests-continue-for-a-3rd-day"
+    },
+    {
+      "text": "Arrests made in downtown LA as abortion rights protests continue for a 3rd day",
+      "url": "/news/arrests-made-in-downtown-la-as-abortion-rights-protests-continue-for-a-3rd-day"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-heat-wave-heres-how-hot-its-going-to-get"
+    },
+    {
+      "text": "LA heat wave: Here's how hot it's going to get",
+      "url": "/news/la-heat-wave-heres-how-hot-its-going-to-get"
+    },
+    {
+      "text": "  ",
+      "url": "/news/union-fire-jurupa-valley-riverside-county"
+    },
+    {
+      "text": "Union Fire forces mandatory evacuations in Jurupa Valley",
+      "url": "/news/union-fire-jurupa-valley-riverside-county"
+    },
+    {
+      "text": "  ",
+      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
+    },
+    {
+      "text": "Pride parades march on with new urgency after abortion ruling",
+      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
+    },
+    {
+      "text": "  ",
+      "url": "/news/street-takeovers-reported-across-south-la"
+    },
+    {
+      "text": "Street takeovers reported across South LA",
+      "url": "/news/street-takeovers-reported-across-south-la"
+    },
+    {
+      "text": "  ",
+      "url": "/news/in-depth-future-of-food"
+    },
+    {
+      "text": "In Depth: The Future of Food",
+      "url": "/news/in-depth-future-of-food"
+    },
+    {
+      "text": "  ",
+      "url": "/news/police-searching-for-manhattan-beach-smash-and-grab-suspects"
+    },
+    {
+      "text": "VIDEO: Smash-and-grab robbers hit Manhattan Beach jewelry store",
+      "url": "/news/police-searching-for-manhattan-beach-smash-and-grab-suspects"
+    },
+    {
+      "text": "  ",
+      "url": "/news/6-injured-in-sawtelle-crash-with-3-cars-multiple-pedestrians"
+    },
+    {
+      "text": "6 injured in Sawtelle crash with 3 cars, multiple pedestrians",
+      "url": "/news/6-injured-in-sawtelle-crash-with-3-cars-multiple-pedestrians"
+    },
+    {
+      "text": "  ",
+      "url": "/news/man-found-dead-in-rosemead-hotel"
+    },
+    {
+      "text": "Man found dead in Rosemead hotel",
+      "url": "/news/man-found-dead-in-rosemead-hotel"
+    },
+    {
+      "text": "  ",
+      "url": "/news/monkeypox-who-global-health-emergency-world-health-organization"
+    },
+    {
+      "text": "Monkeypox not a global emergency 'at this stage,' WHO panel says",
+      "url": "/news/monkeypox-who-global-health-emergency-world-health-organization"
+    },
+    {
       "text": "  ",
       "url": "/news/biden-signs-bipartisan-gun-violence-bill"
     },
@@ -8039,136 +8245,56 @@
       "url": "/news/lapd-officer-who-died-in-training-was-beaten-mom-claims"
     },
     {
-      "text": "  ",
-      "url": "/news/9b-gas-refund-newsom-california-lawmakers-tentatively-agree-on-deal"
-    },
-    {
-      "text": "Californians could get up to $350 in gas refund: tentative deal with Newsom, lawmakers say",
-      "url": "/news/9b-gas-refund-newsom-california-lawmakers-tentatively-agree-on-deal"
-    },
-    {
-      "text": "  ",
-      "url": "/news/supreme-court-overturns-roe-v-wade"
-    },
-    {
-      "text": "Supreme Court overturns Roe v. Wade; abortion bans anticipated in several states",
-      "url": "/news/supreme-court-overturns-roe-v-wade"
-    },
-    {
-      "text": "  ",
-      "url": "/news/norway-mass-shooting-terror-alert-pride-festival-oslo"
-    },
-    {
-      "text": "Norway mass shooting: Terror alert raised after 2 killed, 10 seriously wounded at Pride event",
-      "url": "/news/norway-mass-shooting-terror-alert-pride-festival-oslo"
-    },
-    {
-      "text": "  ",
-      "url": "/news/summer-heat-valleys-mountains-could-see-low-100s-on-monday"
-    },
-    {
-      "text": "Summer heat: Valleys, mountains could see temps in low-100s Monday",
-      "url": "/news/summer-heat-valleys-mountains-could-see-low-100s-on-monday"
-    },
-    {
-      "text": "  ",
-      "url": "/news/airlines-flight-delays-cancellations-faa"
-    },
-    {
-      "text": "Airlines blame FAA for widespread flight delays, cancellations",
-      "url": "/news/airlines-flight-delays-cancellations-faa"
-    },
-    {
-      "text": "  ",
-      "url": "/news/juul-e-cigarettes-fda-ban"
-    },
-    {
-      "text": "Juul e-cigarettes can stay on the market for now, judge rules",
-      "url": "/news/juul-e-cigarettes-fda-ban"
-    },
-    {
-      "text": "  ",
-      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
-    },
-    {
-      "text": "Roe v. Wade: What to know about the now-overturned abortion ruling, and what's next for Arizona",
-      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
-    },
-    {
-      "text": "  ",
-      "url": "/news/gabby-petito-murder-brian-laundries-notebook-confession-revealed-i-ended-her-life"
-    },
-    {
-      "text": "Gabby Petito murder: Brian Laundrie\u2019s notebook confession revealed, 'I ended her life'",
-      "url": "/news/gabby-petito-murder-brian-laundries-notebook-confession-revealed-i-ended-her-life"
-    },
-    {
-      "text": "  ",
-      "url": "/news/fullerton-man-charged-with-possessing-enough-fentanyl-to-kill-12-million-people"
-    },
-    {
-      "text": "Fullerton man charged with possessing enough fentanyl to kill 12 million people",
-      "url": "/news/fullerton-man-charged-with-possessing-enough-fentanyl-to-kill-12-million-people"
-    },
-    {
-      "text": "  ",
-      "url": "/news/dui-driver-who-killed-couple-injured-their-3-young-children-pleads-guilty-to-murder"
-    },
-    {
-      "text": "DUI driver who killed couple, injured their 3 young children pleads guilty to murder",
-      "url": "/news/dui-driver-who-killed-couple-injured-their-3-young-children-pleads-guilty-to-murder"
-    },
-    {
       "text": "Florence-Graham",
       "url": "https://www.foxla.com/weather"
     },
     {
       "text": "  video",
-      "url": "/video/1085686"
+      "url": "/video/1085873"
     },
     {
-      "text": "Californians could get up to $350 in gas refund: tentative deal with Newsom, lawmakers",
-      "url": "/video/1085686"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1085677"
-    },
-    {
-      "text": "The Issue Is: Supreme Court overturns Roe v. Wade",
-      "url": "/video/1085677"
+      "text": "In Depth: The Future of Food",
+      "url": "/video/1085873"
     },
     {
       "text": "  video",
-      "url": "/video/1085682"
+      "url": "/video/1085868"
     },
     {
-      "text": "Roe v. Wade: Big turnout at Hollywood protests ends with no arrests",
-      "url": "/video/1085682"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1085680"
-    },
-    {
-      "text": "Downtown LA gatherings, protests take explosive turn",
-      "url": "/video/1085680"
+      "text": "FOX 11's Christine Devine awarded President's Award for impact on media",
+      "url": "/video/1085868"
     },
     {
       "text": "  video",
-      "url": "/video/1085669"
+      "url": "/video/1085866"
     },
     {
-      "text": "Authorities rush group in downtown LA after dispersal order",
-      "url": "/video/1085669"
+      "text": "Frank Gehry Design Center opens in Watts",
+      "url": "/video/1085866"
     },
     {
       "text": "  video",
-      "url": "/video/1085641"
+      "url": "/video/1085864"
     },
     {
-      "text": "Roe v. Wade: Gloria Allred, Jonathan Keller react, debate on SCOTUS ruling",
-      "url": "/video/1085641"
+      "text": "6 injured in Sawtelle crash",
+      "url": "/video/1085864"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1085863"
+    },
+    {
+      "text": "South LA street takeovers",
+      "url": "/video/1085863"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1085861"
+    },
+    {
+      "text": "LAPD officer who died in training was beaten, mom claims",
+      "url": "/video/1085861"
     },
     {
       "text": "Privacy Policy",
@@ -8279,12 +8405,20 @@
       "url": "/tag/politics"
     },
     {
-      "text": "   ",
-      "url": "/news/confidence-in-supreme-court-hit-historic-low-ahead-of-abortion-ruling-gallup-poll-shows"
+      "text": "  ",
+      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
     },
     {
-      "text": "Confidence in Supreme Court hit historic low ahead of abortion ruling, Gallup poll shows",
-      "url": "/news/confidence-in-supreme-court-hit-historic-low-ahead-of-abortion-ruling-gallup-poll-shows"
+      "text": "Pride parades march on with new urgency after abortion ruling",
+      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
+    },
+    {
+      "text": "  ",
+      "url": "/news/arrests-made-in-downtown-la-as-abortion-rights-protests-continue-for-a-3rd-day"
+    },
+    {
+      "text": "Arrests made in downtown LA as abortion rights protests continue for a 3rd day",
+      "url": "/news/arrests-made-in-downtown-la-as-abortion-rights-protests-continue-for-a-3rd-day"
     },
     {
       "text": "  ",
@@ -8296,35 +8430,27 @@
     },
     {
       "text": "  ",
+      "url": "/news/confidence-in-supreme-court-hit-historic-low-ahead-of-abortion-ruling-gallup-poll-shows"
+    },
+    {
+      "text": "Confidence in Supreme Court hit historic low ahead of abortion ruling, Gallup poll shows",
+      "url": "/news/confidence-in-supreme-court-hit-historic-low-ahead-of-abortion-ruling-gallup-poll-shows"
+    },
+    {
+      "text": "  ",
+      "url": "/news/pope-francis-hails-families-blasts-culture-of-waste-after-roe-v-wade-ruling"
+    },
+    {
+      "text": "Pope Francis hails families, blasts \u2018culture of waste\u2019 after Roe v. Wade ruling",
+      "url": "/news/pope-francis-hails-families-blasts-culture-of-waste-after-roe-v-wade-ruling"
+    },
+    {
+      "text": "  ",
       "url": "/news/billie-eilish-phoebe-bridgers-condemn-scotus-ruling-glastonbury"
     },
     {
       "text": "Billie Eilish and Phoebe Bridgers condemn SCOTUS ruling at Glastonbury",
       "url": "/news/billie-eilish-phoebe-bridgers-condemn-scotus-ruling-glastonbury"
-    },
-    {
-      "text": "  ",
-      "url": "/news/supreme-court-rulings-protecting-same-sex-relationships-could-face-challenge-supreme-court-obergefell-lawrence-griswold-dobs"
-    },
-    {
-      "text": "Same-sex relationships, marriage and contraception rulings could be impacted by Dobbs V. Jackson",
-      "url": "/news/supreme-court-rulings-protecting-same-sex-relationships-could-face-challenge-supreme-court-obergefell-lawrence-griswold-dobs"
-    },
-    {
-      "text": "  ",
-      "url": "/news/amazon-tesla-others-to-cover-travel-costs-for-workers-seeking-reproductive-care"
-    },
-    {
-      "text": "Amazon, Tesla, others to cover travel costs for workers seeking abortions",
-      "url": "/news/amazon-tesla-others-to-cover-travel-costs-for-workers-seeking-reproductive-care"
-    },
-    {
-      "text": "  ",
-      "url": "/news/biden-signs-bipartisan-gun-violence-bill"
-    },
-    {
-      "text": "Biden signs landmark, bipartisan gun violence bill: 'Lives will be saved'",
-      "url": "/news/biden-signs-bipartisan-gun-violence-bill"
     },
     {
       "text": "California News",
@@ -8335,7 +8461,7 @@
       "url": "/tag/us/ca"
     },
     {
-      "text": "  ",
+      "text": "   ",
       "url": "/news/9b-gas-refund-newsom-california-lawmakers-tentatively-agree-on-deal"
     },
     {
@@ -8392,6 +8518,38 @@
     },
     {
       "text": "  ",
+      "url": "/news/street-takeovers-reported-across-south-la"
+    },
+    {
+      "text": "Street takeovers reported across South LA",
+      "url": "/news/street-takeovers-reported-across-south-la"
+    },
+    {
+      "text": "  ",
+      "url": "/news/ghislaine-maxwell-sentencing-suicide-watch-jeffrey-epstein"
+    },
+    {
+      "text": "Ghislaine Maxwell placed on suicide watch ahead of sentencing",
+      "url": "/news/ghislaine-maxwell-sentencing-suicide-watch-jeffrey-epstein"
+    },
+    {
+      "text": "  ",
+      "url": "/news/police-searching-for-manhattan-beach-smash-and-grab-suspects"
+    },
+    {
+      "text": "VIDEO: Smash-and-grab robbers hit Manhattan Beach jewelry store",
+      "url": "/news/police-searching-for-manhattan-beach-smash-and-grab-suspects"
+    },
+    {
+      "text": "  ",
+      "url": "/news/mother-admits-to-killing-slashing-throat-of-infant-to-hide-pregnancy-30-years-ago"
+    },
+    {
+      "text": "Mother admits to killing, slashing throat of infant to hide pregnancy nearly 30 years ago",
+      "url": "/news/mother-admits-to-killing-slashing-throat-of-infant-to-hide-pregnancy-30-years-ago"
+    },
+    {
+      "text": "  ",
       "url": "/news/biden-signs-bipartisan-gun-violence-bill"
     },
     {
@@ -8405,38 +8563,6 @@
     {
       "text": "Man accused of sexually abusing kids ages 5-14; San Bernardino Co. deputies fear there may be more victims",
       "url": "/news/man-accused-of-sexually-abusing-kids-ages-5-14-san-bernardino-co-deputies-fear-there-may-be-more-victims"
-    },
-    {
-      "text": "  ",
-      "url": "/news/fullerton-man-charged-with-possessing-enough-fentanyl-to-kill-12-million-people"
-    },
-    {
-      "text": "Fullerton man charged with possessing enough fentanyl to kill 12 million people",
-      "url": "/news/fullerton-man-charged-with-possessing-enough-fentanyl-to-kill-12-million-people"
-    },
-    {
-      "text": "  ",
-      "url": "/news/dui-driver-who-killed-couple-injured-their-3-young-children-pleads-guilty-to-murder"
-    },
-    {
-      "text": "DUI driver who killed couple, injured their 3 young children pleads guilty to murder",
-      "url": "/news/dui-driver-who-killed-couple-injured-their-3-young-children-pleads-guilty-to-murder"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-shot-to-death-near-luxury-hotel-in-hollywood"
-    },
-    {
-      "text": "Arrest made in deadly shooting near luxury hotel in Hollywood",
-      "url": "/news/man-shot-to-death-near-luxury-hotel-in-hollywood"
-    },
-    {
-      "text": "  ",
-      "url": "/news/3-year-old-boy-found-dead-in-freezer-on-detroits-west-side-police-say"
-    },
-    {
-      "text": "3-year-old boy found dead in freezer on Detroit's west side, police say",
-      "url": "/news/3-year-old-boy-found-dead-in-freezer-on-detroits-west-side-police-say"
     },
     {
       "text": "Consumer",
@@ -8620,11 +8746,19 @@
     },
     {
       "text": "  ",
-      "url": "/news/coyote-that-attacked-2-year-old-in-orange-county-captured"
+      "url": "/news/la-heat-wave-heres-how-hot-its-going-to-get"
     },
     {
-      "text": "Coyote that attacked 2-year-old in Orange County captured",
-      "url": "/news/coyote-that-attacked-2-year-old-in-orange-county-captured"
+      "text": "LA heat wave: Here's how hot it's going to get",
+      "url": "/news/la-heat-wave-heres-how-hot-its-going-to-get"
+    },
+    {
+      "text": "  ",
+      "url": "/news/street-takeovers-reported-across-south-la"
+    },
+    {
+      "text": "Street takeovers reported across South LA",
+      "url": "/news/street-takeovers-reported-across-south-la"
     },
     {
       "text": "  ",
@@ -8636,35 +8770,27 @@
     },
     {
       "text": "  ",
-      "url": "/news/1-dead-1-hurt-in-crash-on-5-freeway-off-ramp-in-castaic"
+      "url": "/news/union-fire-jurupa-valley-riverside-county"
     },
     {
-      "text": "1 dead, 1 hurt in crash on 5 Freeway off-ramp in Castaic",
-      "url": "/news/1-dead-1-hurt-in-crash-on-5-freeway-off-ramp-in-castaic"
-    },
-    {
-      "text": "  ",
-      "url": "/news/roe-v-wade-protests-demonstrations-continue-throughout-la-orange-counties"
-    },
-    {
-      "text": "Roe v. Wade protests: Demonstrations continue throughout LA, Orange counties",
-      "url": "/news/roe-v-wade-protests-demonstrations-continue-throughout-la-orange-counties"
+      "text": "Union Fire forces mandatory evacuations in Jurupa Valley",
+      "url": "/news/union-fire-jurupa-valley-riverside-county"
     },
     {
       "text": "  ",
-      "url": "/news/la-orange-county-gas-prices-drop-for-12th-time-in-13-days"
+      "url": "/news/man-found-dead-in-rosemead-hotel"
     },
     {
-      "text": "LA, Orange County gas prices drop for 12th time in 13 days",
-      "url": "/news/la-orange-county-gas-prices-drop-for-12th-time-in-13-days"
+      "text": "Man found dead in Rosemead hotel",
+      "url": "/news/man-found-dead-in-rosemead-hotel"
     },
     {
       "text": "  ",
-      "url": "/news/demonstrators-march-on-110-freeway-by-downtown-la-after-overturning-of-roe-v-wade"
+      "url": "/news/6-injured-in-sawtelle-crash-with-3-cars-multiple-pedestrians"
     },
     {
-      "text": "Demonstrators march on 110 Freeway by downtown LA after overturning of Roe v. Wade",
-      "url": "/news/demonstrators-march-on-110-freeway-by-downtown-la-after-overturning-of-roe-v-wade"
+      "text": "6 injured in Sawtelle crash with 3 cars, multiple pedestrians",
+      "url": "/news/6-injured-in-sawtelle-crash-with-3-cars-multiple-pedestrians"
     },
     {
       "text": "National News",
@@ -8676,35 +8802,27 @@
     },
     {
       "text": "  ",
-      "url": "/news/flight-instructor-student-killed-in-utah-plane-crash"
+      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
     },
     {
-      "text": "Flight instructor, student killed in Utah plane crash",
-      "url": "/news/flight-instructor-student-killed-in-utah-plane-crash"
-    },
-    {
-      "text": "  ",
-      "url": "/news/watch-florida-driver-uses-sidewalk-to-avoid-rush-hour-traffic-deputies-say"
-    },
-    {
-      "text": "WATCH: Florida driver uses sidewalk to avoid rush hour traffic, deputies say",
-      "url": "/news/watch-florida-driver-uses-sidewalk-to-avoid-rush-hour-traffic-deputies-say"
+      "text": "Pride parades march on with new urgency after abortion ruling",
+      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
     },
     {
       "text": "  ",
-      "url": "/news/supreme-court-rulings-protecting-same-sex-relationships-could-face-challenge-supreme-court-obergefell-lawrence-griswold-dobs"
+      "url": "/news/ghislaine-maxwell-sentencing-suicide-watch-jeffrey-epstein"
     },
     {
-      "text": "Same-sex relationships, marriage and contraception rulings could be impacted by Dobbs V. Jackson",
-      "url": "/news/supreme-court-rulings-protecting-same-sex-relationships-could-face-challenge-supreme-court-obergefell-lawrence-griswold-dobs"
+      "text": "Ghislaine Maxwell placed on suicide watch ahead of sentencing",
+      "url": "/news/ghislaine-maxwell-sentencing-suicide-watch-jeffrey-epstein"
     },
     {
       "text": "  ",
-      "url": "/news/amazon-tesla-others-to-cover-travel-costs-for-workers-seeking-reproductive-care"
+      "url": "/news/alligator-attack-myrtle-beach-yacht-club"
     },
     {
-      "text": "Amazon, Tesla, others to cover travel costs for workers seeking abortions",
-      "url": "/news/amazon-tesla-others-to-cover-travel-costs-for-workers-seeking-reproductive-care"
+      "text": "11-foot alligator kills man in Myrtle Beach yacht club community",
+      "url": "/news/alligator-attack-myrtle-beach-yacht-club"
     },
     {
       "text": "  ",
@@ -8716,11 +8834,19 @@
     },
     {
       "text": "  ",
-      "url": "/news/house-moves-to-send-bipartisan-gun-violence-measure-to-biden"
+      "url": "/news/mother-admits-to-killing-slashing-throat-of-infant-to-hide-pregnancy-30-years-ago"
     },
     {
-      "text": "House greenlights landmark bipartisan gun violence bill, sends to Biden",
-      "url": "/news/house-moves-to-send-bipartisan-gun-violence-measure-to-biden"
+      "text": "Mother admits to killing, slashing throat of infant to hide pregnancy nearly 30 years ago",
+      "url": "/news/mother-admits-to-killing-slashing-throat-of-infant-to-hide-pregnancy-30-years-ago"
+    },
+    {
+      "text": "  ",
+      "url": "/news/video-boys-father-attacks-murder-suspect-in-ohio-courtroom"
+    },
+    {
+      "text": "Video: Boy\u2019s father attacks murder suspect in Ohio courtroom",
+      "url": "/news/video-boys-father-attacks-murder-suspect-in-ohio-courtroom"
     },
     {
       "text": "Money",
@@ -9227,8 +9353,8 @@
       "url": "/contact-us"
     }
   ],
-  "item_last_updated": 1656197155,
-  "item_size": 77262986,
+  "item_last_updated": 1656264763,
+  "item_size": 78493943,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -9246,7 +9372,7 @@
     "addeddate": "2022-03-23 20:59:13"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 832309645,
+  "uniq": 863818263,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

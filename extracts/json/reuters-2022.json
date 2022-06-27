@@ -1,5 +1,5 @@
 {
-  "created": 1656203055,
+  "created": 1656289451,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -226,31 +226,157 @@
       "sha1": "ffbd43dcccbaa25f04d8687f74830df12c4e2fa3"
     },
     {
+      "name": "reuters-2022-06-25T21:43:55.826134-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656207838",
+      "size": "37919",
+      "md5": "dc5e23c9806d8f3672858b555180e0db",
+      "crc32": "a3cec2a0",
+      "sha1": "01cde8842502e6a614c4813a1909153ef70c5676",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-25T21:43:55.826134-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656207840",
+      "size": "25788",
+      "md5": "fbfb58c672c81101b11566dfa7813f0d",
+      "crc32": "d4f8e03c",
+      "sha1": "b095d236a38cc31b9a72ea1b7606880f71af5e41",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-25T21:43:55.826134-04:00.jpg",
+      "source": "original",
+      "mtime": "1656207837",
+      "size": "223336",
+      "md5": "e5a5a11bb36d01d9138a22fa3e9a262b",
+      "crc32": "b4dec322",
+      "sha1": "5f9322f15a72b7acbe9c0ed884309f19fddc0090",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-25T21:43:55.826134-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-25T21:43:55.826134-04:00.jpg",
+      "mtime": "1656207884",
+      "size": "8207",
+      "md5": "71739e9c937f8de81fc3359c084886ff",
+      "crc32": "904eda92",
+      "sha1": "72312178a7f3aef3de24d7301d7e5801de319755"
+    },
+    {
+      "name": "reuters-2022-06-26T05:33:19.815162-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656236003",
+      "size": "33991",
+      "md5": "7bb59c487b62298efed74a40e1021d6b",
+      "crc32": "49d0d0c0",
+      "sha1": "dfb64e2fc6be5de2d67781ce1234ab1dd55821d3",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-26T05:33:19.815162-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656236005",
+      "size": "26040",
+      "md5": "6b5c28ed1fe00d5663d843bdb20504ad",
+      "crc32": "108ee3eb",
+      "sha1": "2d00721c078387957a0539f437549a2d9b28c448",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-26T05:33:19.815162-04:00.jpg",
+      "source": "original",
+      "mtime": "1656236002",
+      "size": "227833",
+      "md5": "283dcb94978eda800e1206c06d760b37",
+      "crc32": "632c153e",
+      "sha1": "f6cd8d80475b7aa61730fa73404563b0b82fc53f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-26T05:33:19.815162-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-26T05:33:19.815162-04:00.jpg",
+      "mtime": "1656236050",
+      "size": "8218",
+      "md5": "de9cea95b6a5162d47cda09f0ae7ef17",
+      "crc32": "6dced7fa",
+      "sha1": "81be63411e4cbb8788b22c94f607d25742cddd21"
+    },
+    {
+      "name": "reuters-2022-06-26T13:36:31.265292-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656264995",
+      "size": "38443",
+      "md5": "61c2996081cdc82fabfb1fd4633926a3",
+      "crc32": "db8634cf",
+      "sha1": "a8033b8b341e601150aa877f1347462f5a59a187",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-26T13:36:31.265292-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656264997",
+      "size": "24928",
+      "md5": "f15945dbaa5e3bd31f534d1386488252",
+      "crc32": "ee0f6073",
+      "sha1": "c16c31f40245a30370f339ab57f0b3630635ca51",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-26T13:36:31.265292-04:00.jpg",
+      "source": "original",
+      "mtime": "1656264993",
+      "size": "212921",
+      "md5": "c444e842fa94155378c4f5cf8122aaf7",
+      "crc32": "2e7fc3c8",
+      "sha1": "bcb75343805249c2ebcf3fa81fb4ddd54374bd41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-26T13:36:31.265292-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-26T13:36:31.265292-04:00.jpg",
+      "mtime": "1656265039",
+      "size": "8191",
+      "md5": "e5e3f821aba9cfee8c353e1ec880c14b",
+      "crc32": "a64e3d60",
+      "sha1": "10f6620c5b346eeef9bb758888528d16a8b096d2"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e18c2b8a83244a4b4c99239cabc6459ee3e2eaca",
-      "mtime": "1656197457",
-      "size": "5779",
-      "md5": "69b2831f854f8f8ce42a8c3da69a6add",
-      "crc32": "f2dcbf99",
-      "sha1": "8e9ac175a03815001705d40f00033b3104da4cc6",
+      "btih": "278f3e00524701bbb12805e59c3c5ee0e8b04840",
+      "mtime": "1656265042",
+      "size": "8295",
+      "md5": "193520fc90aa9a87cb128b9da76c627e",
+      "crc32": "d7c32455",
+      "sha1": "406ac10815541a9e2bcbc09c4c1600b79ae859d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57e4117aa3244487048fe8f021464b2f",
+      "md5": "c549869908e055f0898c0c17d6bd487f",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656197413",
-      "size": "40960",
-      "md5": "8cb3c3e0159e493e53a57fc153274a68",
-      "crc32": "5a7fe58d",
-      "sha1": "b8624377886ab0b31e19b06c672679c10359b531",
+      "mtime": "1656265000",
+      "size": "53248",
+      "md5": "b7c5c632d4a2411045f0c23d45bb8c95",
+      "crc32": "eba3fa89",
+      "sha1": "d10765a09c0c0b4cd802dbd49c27e3e161ebda6d",
       "format": "Metadata"
     },
     {
@@ -264,9 +390,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 25,
-  "item_last_updated": 1656197457,
-  "item_size": 1563602,
+  "files_count": 37,
+  "item_last_updated": 1656265042,
+  "item_size": 2454221,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -349,8 +475,16 @@
       "url": "/world/"
     },
     {
-      "text": "Biden 'respects' Supreme Court despite abortion ruling, White House says",
-      "url": "/world/us/biden-looking-solutions-after-supreme-court-abortion-ruling-white-house-2022-06-25/"
+      "text": "Abortion ruling greeted with silence by large U.S. law firms",
+      "url": "/world/us/large-us-law-firms-mostly-quiet-abortion-ruling-are-walking-tightrope-2022-06-26/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Abortion protests hit Washington, New York after Supreme Court's Roe v. Wade ruling",
+      "url": "/world/us/abortion-rights-activists-face-first-day-post-roe-v-wade-american-life-2022-06-25/"
     },
     {
       "text": "World",
@@ -381,8 +515,8 @@
       "url": "/world/"
     },
     {
-      "text": "Abortion ruling raises stakes in key U.S. governor's races",
-      "url": "/world/us/abortion-ruling-raises-stakes-key-us-governors-races-2022-06-25/"
+      "text": "Planned Parenthood of Utah sues to block abortion ban after Supreme Court ruling",
+      "url": "/world/us/planned-parenthood-utah-sues-block-abortion-ban-after-supreme-court-ruling-2022-06-26/"
     },
     {
       "text": "World",
@@ -397,88 +531,76 @@
       "url": "/world/"
     },
     {
-      "text": "Abortion providers seek licenses across state lines in a post-Roe v. Wade United States",
-      "url": "/world/us/post-roe-us-abortion-providers-seek-licenses-across-state-lines-2022-06-25/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Protesters at U.S. Supreme Court decry abortion ruling overturning Roe v. Wade, article with gallery",
-      "url": "/world/us/abortion-rights-activists-face-first-day-post-roe-v-wade-american-life-2022-06-25/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us/abortion-rights-activists-face-first-day-post-roe-v-wade-american-life-2022-06-25/"
-    },
-    {
-      "text": "Photos from abortion-rights protests after the Roe v. Wade ruling",
-      "url": "/world/inside-besieged-mariupol-left-ruins-after-russian-bombardment-2022-03-24/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Gunman goes on deadly rampage at Oslo gay bar",
-      "url": "/world/europe/two-dead-several-wounded-norway-nightclub-shooting-police-say-2022-06-25/"
+      "text": "Russia steps up missile strikes on Ukraine as G7 leaders gather, article with video",
+      "url": "/world/ukraine-suffers-major-setback-after-fall-sievierodonetsk-2022-06-26/"
     },
     {
       "text": "Video",
-      "url": "/world/us/biden-signs-bipartisan-gun-safety-bill-into-law-2022-06-25/"
+      "url": "/world/ukraine-suffers-major-setback-after-fall-sievierodonetsk-2022-06-26/"
     },
     {
       "text": "World",
       "url": "/world/"
     },
     {
-      "text": "Biden takes a swipe at the Supreme Court as he signs gun-safety bill, article with video",
-      "url": "/world/us/biden-signs-bipartisan-gun-safety-bill-into-law-2022-06-25/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/europe/ukraine-forces-ordered-withdraw-key-battleground-city-2022-06-25/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Key Ukraine city falls to Russia after one of the war's bloodiest fights, article with video",
-      "url": "/world/europe/ukraine-forces-ordered-withdraw-key-battleground-city-2022-06-25/"
+      "text": "U.S. aims to raise $200 billion as part of G7 rival to China's Belt & Road",
+      "url": "/world/refile-us-aims-raise-200-bln-part-g7-rival-chinas-belt-road-2022-06-26/"
     },
     {
       "text": "Gallery",
-      "url": "/world/europe/russia-will-supply-belarus-with-iskander-m-missile-systems-putin-2022-06-25/"
+      "url": "/world/americas/family-bids-farewell-british-journalist-murdered-amazon-2022-06-26/"
     },
     {
       "text": "World",
       "url": "/world/"
     },
     {
-      "text": "Putin promises Belarus nuclear-capable missiles to counter 'aggressive' West, article with gallery",
-      "url": "/world/europe/russia-will-supply-belarus-with-iskander-m-missile-systems-putin-2022-06-25/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Boris Johnson seeks to stay in power until the mid-2030s",
-      "url": "/world/uk/uk-pm-johnson-vows-lead-conservatives-next-election-2022-06-25/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Monkeypox is not yet a health emergency, World Health Organization says, article with image",
-      "url": "/business/healthcare-pharmaceuticals/who-says-monkeypox-is-not-yet-health-emergency-2022-06-25/"
+      "text": "Family bids farewell to British journalist murdered in the Amazon, article with gallery",
+      "url": "/world/americas/family-bids-farewell-british-journalist-murdered-amazon-2022-06-26/"
     },
     {
       "text": "",
-      "url": "/business/healthcare-pharmaceuticals/who-says-monkeypox-is-not-yet-health-emergency-2022-06-25/"
+      "url": "/world/us/legal-clashes-await-us-companies-covering-workers-abortion-costs-2022-06-26/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Legal clashes await U.S. companies covering workers' abortion costs, article with image",
+      "url": "/world/us/legal-clashes-await-us-companies-covering-workers-abortion-costs-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "/world/europe/russias-putin-make-first-foreign-trip-since-launching-ukraine-war-2022-06-26/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Putin to make first foreign trip since launching Ukraine war, article with image",
+      "url": "/world/europe/russias-putin-make-first-foreign-trip-since-launching-ukraine-war-2022-06-26/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "At least 22 young people die in South African tavern",
+      "url": "/world/africa/south-africa-police-investigating-17-deaths-east-london-tavern-2022-06-26/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Turkish police prevent Istanbul Pride from going ahead, article with gallery",
+      "url": "/world/middle-east/turkish-police-prevent-istanbul-pride-going-ahead-2022-06-26/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/middle-east/turkish-police-prevent-istanbul-pride-going-ahead-2022-06-26/"
     },
     {
       "text": "In Pictures: Celebrating Pride worldwide",
@@ -490,183 +612,171 @@
     },
     {
       "text": "Video",
-      "url": "/world/europe/ukraine-forces-ordered-withdraw-key-battleground-city-2022-06-25/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Key Ukraine city falls to Russia after one of the war's bloodiest fights, article with video",
-      "url": "/world/europe/ukraine-forces-ordered-withdraw-key-battleground-city-2022-06-25/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/uk/uk-pm-johnson-vows-lead-conservatives-next-election-2022-06-25/"
+      "url": "/world/uk/uk-france-agree-give-more-support-ukraine-uk-says-2022-06-26/"
     },
     {
       "text": "United Kingdom",
       "url": "/world/uk/"
     },
     {
-      "text": "Boris Johnson seeks to stay in power until the mid-2030s, article with gallery",
-      "url": "/world/uk/uk-pm-johnson-vows-lead-conservatives-next-election-2022-06-25/"
+      "text": "Smiles - and no talk of Brexit - as Macron and Johnson warm up at G7, article with video",
+      "url": "/world/uk/uk-france-agree-give-more-support-ukraine-uk-says-2022-06-26/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/americas/family-bids-farewell-british-journalist-murdered-amazon-2022-06-26/"
+    },
+    {
+      "text": "Americas",
+      "url": "/world/americas/"
+    },
+    {
+      "text": "Family bids farewell to British journalist murdered in the Amazon, article with gallery",
+      "url": "/world/americas/family-bids-farewell-british-journalist-murdered-amazon-2022-06-26/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/europe/leaders-g7-mock-bare-chested-horseback-rider-putin-2022-06-26/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Leaders at G7 mock bare-chested horseback rider Putin, article with gallery",
+      "url": "/world/europe/leaders-g7-mock-bare-chested-horseback-rider-putin-2022-06-26/"
     },
     {
       "text": "Video",
-      "url": "/world/europe/two-dead-several-wounded-norway-nightclub-shooting-police-say-2022-06-25/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Horror on Oslo Pride day as gunman goes on deadly rampage at gay bar, article with video",
-      "url": "/world/europe/two-dead-several-wounded-norway-nightclub-shooting-police-say-2022-06-25/"
-    },
-    {
-      "text": "",
-      "url": "/world/europe/zelenskiy-says-ukraine-will-win-back-lost-cities-admits-war-is-tough-bear-2022-06-25/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Zelenskiy says Ukraine will win back lost cities, admits war is tough to bear, article with image",
-      "url": "/world/europe/zelenskiy-says-ukraine-will-win-back-lost-cities-admits-war-is-tough-bear-2022-06-25/"
-    },
-    {
-      "text": "",
-      "url": "/world/europe/frances-macron-asks-prime-minister-propose-new-government-be-named-july-2022-06-25/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "France's Macron seeks to name new government in early July, article with image",
-      "url": "/world/europe/frances-macron-asks-prime-minister-propose-new-government-be-named-july-2022-06-25/"
-    },
-    {
-      "text": "",
-      "url": "/world/dozens-migrants-piled-ground-melilla-disaster-rights-group-says-2022-06-25/"
+      "url": "/world/ukraine-suffers-major-setback-after-fall-sievierodonetsk-2022-06-26/"
     },
     {
       "text": "World",
       "url": "/world/"
     },
     {
-      "text": "Dozens of migrants piled together at Melilla border fence, article with image",
-      "url": "/world/dozens-migrants-piled-ground-melilla-disaster-rights-group-says-2022-06-25/"
+      "text": "Russia steps up missile strikes on Ukraine as G7 leaders gather, article with video",
+      "url": "/world/ukraine-suffers-major-setback-after-fall-sievierodonetsk-2022-06-26/"
     },
     {
       "text": "Gallery",
-      "url": "/world/europe/russia-will-supply-belarus-with-iskander-m-missile-systems-putin-2022-06-25/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Putin promises Belarus nuclear-capable missiles to counter 'aggressive' West, article with gallery",
-      "url": "/world/europe/russia-will-supply-belarus-with-iskander-m-missile-systems-putin-2022-06-25/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/africa/commonwealth-ends-summit-with-call-action-climate-change-trade-2022-06-25/"
-    },
-    {
-      "text": "Africa",
-      "url": "/world/africa/"
-    },
-    {
-      "text": "Commonwealth ends summit with call for action on climate change, trade, article with gallery",
-      "url": "/world/africa/commonwealth-ends-summit-with-call-action-climate-change-trade-2022-06-25/"
-    },
-    {
-      "text": "",
-      "url": "/world/europe/ukraine-fight-higher-ground-lysychansk-spy-chief-2022-06-25/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Ukraine will fight on from higher ground after pullback, spy chief says, article with image",
-      "url": "/world/europe/ukraine-fight-higher-ground-lysychansk-spy-chief-2022-06-25/"
-    },
-    {
-      "text": "",
-      "url": "/world/inside-besieged-mariupol-left-ruins-after-russian-bombardment-2022-03-24/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Photos from abortion-rights protests after the Roe v. Wade ruling, article with image",
-      "url": "/world/inside-besieged-mariupol-left-ruins-after-russian-bombardment-2022-03-24/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/middle-east/iran-nuclear-talks-with-us-resume-soon-tehran-eu-say-2022-06-25/"
+      "url": "/world/middle-east/turkish-police-prevent-istanbul-pride-going-ahead-2022-06-26/"
     },
     {
       "text": "Middle East",
       "url": "/world/middle-east/"
     },
     {
-      "text": "Iran-U.S. nuclear talks to resume 'in coming days', Tehran and EU say, article with gallery",
-      "url": "/world/middle-east/iran-nuclear-talks-with-us-resume-soon-tehran-eu-say-2022-06-25/"
+      "text": "Turkish police prevent Istanbul Pride from going ahead, article with gallery",
+      "url": "/world/middle-east/turkish-police-prevent-istanbul-pride-going-ahead-2022-06-26/"
     },
     {
-      "text": "Gallery",
-      "url": "/world/asia-pacific/filipina-wins-transgender-pageant-thailand-2022-06-25/"
-    },
-    {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "Filipina wins transgender pageant in Thailand, article with gallery",
-      "url": "/world/asia-pacific/filipina-wins-transgender-pageant-thailand-2022-06-25/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/europe/thousands-march-munich-demand-g7-action-poverty-climate-2022-06-25/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Thousands march in Munich to demand G7 action on poverty and climate, article with gallery",
-      "url": "/world/europe/thousands-march-munich-demand-g7-action-poverty-climate-2022-06-25/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us-treasurys-adeyemo-discussed-russia-sanctions-implementation-turkey-visit-2022-06-25/"
+      "text": "Video",
+      "url": "/world/g7-summit-kicks-off-under-shadow-ukraine-war-stagflation-risk-2022-06-25/"
     },
     {
       "text": "World",
       "url": "/world/"
     },
     {
-      "text": "U.S. Treasury's Adeyemo discussed Russia sanctions implementation in Turkey visit, article with gallery",
-      "url": "/world/us-treasurys-adeyemo-discussed-russia-sanctions-implementation-turkey-visit-2022-06-25/"
-    },
-    {
-      "text": "",
-      "url": "/world/europe/russian-military-says-it-has-full-control-over-sievierodonetsk-2022-06-25/"
+      "text": "Biden urges G7 to stay together as leaders target Russian gold, article with video",
+      "url": "/world/g7-summit-kicks-off-under-shadow-ukraine-war-stagflation-risk-2022-06-25/"
     },
     {
       "text": "Europe",
       "url": "/world/europe/"
     },
     {
-      "text": "Russian military says it has full control over Sievierodonetsk, article with image",
-      "url": "/world/europe/russian-military-says-it-has-full-control-over-sievierodonetsk-2022-06-25/"
+      "text": "Ukraine attacks Crimean oil-drilling platform for second time in a week, Tass reports",
+      "url": "/world/europe/ukraine-attacks-crimean-oil-drilling-platform-second-time-week-tass-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "/world/europe/italys-draghi-backs-large-investments-gas-infrastructure-developing-countries-2022-06-26/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Italy's Draghi backs large investments in gas infrastructure in developing countries, article with image",
+      "url": "/world/europe/italys-draghi-backs-large-investments-gas-infrastructure-developing-countries-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "/world/kindred-spirits-biden-scholz-work-heal-us-german-ties-2022-06-26/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "'Kindred spirits' Biden, Scholz work to heal U.S.-German ties, article with image",
+      "url": "/world/kindred-spirits-biden-scholz-work-heal-us-german-ties-2022-06-26/"
+    },
+    {
+      "text": "Africa",
+      "url": "/world/africa/"
+    },
+    {
+      "text": "Two police officers killed in north Benin attack",
+      "url": "/world/africa/two-police-officers-killed-north-benin-attack-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "/world/americas/canada-has-path-soft-landing-finance-minister-freeland-says-cbc-2022-06-26/"
+    },
+    {
+      "text": "Americas",
+      "url": "/world/americas/"
+    },
+    {
+      "text": "Canada has a path to \"soft landing,\" finance minister says, article with image",
+      "url": "/world/americas/canada-has-path-soft-landing-finance-minister-freeland-says-cbc-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "/world/refile-us-aims-raise-200-bln-part-g7-rival-chinas-belt-road-2022-06-26/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "U.S. aims to raise $200 billion as part of G7 rival to China's Belt & Road, article with image",
+      "url": "/world/refile-us-aims-raise-200-bln-part-g7-rival-chinas-belt-road-2022-06-26/"
+    },
+    {
+      "text": "Middle East",
+      "url": "/world/middle-east/"
+    },
+    {
+      "text": "Lebanon\u2019s top Christian cleric urges politicians to form government",
+      "url": "/world/middle-east/lebanons-top-christian-cleric-urges-politicians-form-government-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "/world/uk/prince-charles-followed-rules-charity-donations-his-office-says-2022-06-26/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Prince Charles followed rules on charity donations, his office says, article with image",
+      "url": "/world/uk/prince-charles-followed-rules-charity-donations-his-office-says-2022-06-26/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/europe/thousands-protest-madrid-against-nato-summit-2022-06-26/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Thousands protest in Madrid against NATO summit, article with gallery",
+      "url": "/world/europe/thousands-protest-madrid-against-nato-summit-2022-06-26/"
     },
     {
       "text": "See all videos",
@@ -686,19 +796,31 @@
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/business/aerospace-defense/british-airways-staff-londons-heathrow-vote-strike-2022-06-23/?utm_source=homepage&utm_medium=icymi"
+      "url": "https://www.reuters.com/world/g7-summit-kicks-off-under-shadow-ukraine-war-stagflation-risk-2022-06-25/"
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/technology/amazon-has-plan-make-alexa-mimic-anyones-voice-2022-06-22/?utm_source=homepage&utm_medium=icymi"
+      "url": "https://www.reuters.com/world/europe/leaders-g7-mock-bare-chested-horseback-rider-putin-2022-06-26/"
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/business/retail-consumer/toblerone-loses-swiss-exclusivity-production-shifts-east-2022-06-23/?utm_source=homepage&utm_medium=icymi"
+      "url": "https://www.reuters.com/world/kindred-spirits-biden-scholz-work-heal-us-german-ties-2022-06-26/"
     },
     {
       "text": "United States",
       "url": "/world/us/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/us/biden-signs-bipartisan-gun-safety-bill-into-law-2022-06-25/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Biden signs gun safety bill into law, takes swipe at Supreme Court, article with video",
+      "url": "/world/us/biden-signs-bipartisan-gun-safety-bill-into-law-2022-06-25/"
     },
     {
       "text": "",
@@ -714,15 +836,15 @@
     },
     {
       "text": "Gallery",
-      "url": "/world/us/protesters-stand-against-abortion-ban-texas-first-enact-laws-2022-06-25/"
+      "url": "/world/uk/ghislaine-maxwell-put-suicide-watch-may-seek-sentencing-delay-lawyer-says-2022-06-26/"
     },
     {
-      "text": "United States",
-      "url": "/world/us/"
+      "text": "United Kingdom",
+      "url": "/world/uk/"
     },
     {
-      "text": "Protesters stand against abortion ban in Texas, first to enact laws, article with gallery",
-      "url": "/world/us/protesters-stand-against-abortion-ban-texas-first-enact-laws-2022-06-25/"
+      "text": "Ghislaine Maxwell put on suicide watch, may seek sentencing delay, lawyer says, article with gallery",
+      "url": "/world/uk/ghislaine-maxwell-put-suicide-watch-may-seek-sentencing-delay-lawyer-says-2022-06-26/"
     },
     {
       "text": "",
@@ -737,72 +859,148 @@
       "url": "/world/us/us-court-upholds-arizona-land-swap-deal-rio-tinto-copper-mine-2022-06-25/"
     },
     {
-      "text": "",
-      "url": "/world/us/us-screened-245-million-air-passengers-friday-highest-since-early-2020-2022-06-25/"
+      "text": "Europe",
+      "url": "/world/europe/"
     },
     {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "U.S. screened 2.45 million air passengers Friday, highest since early 2020, article with image",
-      "url": "/world/us/us-screened-245-million-air-passengers-friday-highest-since-early-2020-2022-06-25/"
+      "text": "Gallery",
+      "url": "/world/europe/oslo-gay-bar-shooting-wont-stop-fight-equal-rights-norway-pm-2022-06-26/"
     },
     {
       "text": "Europe",
       "url": "/world/europe/"
     },
     {
+      "text": "Oslo gay bar shooting won't stop fight for equal rights, Norway's prime minister says, article with gallery",
+      "url": "/world/europe/oslo-gay-bar-shooting-wont-stop-fight-equal-rights-norway-pm-2022-06-26/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/uk/uk-france-agree-give-more-support-ukraine-uk-says-2022-06-26/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Smiles - and no talk of Brexit - as Macron and Johnson warm up at G7, article with video",
+      "url": "/world/uk/uk-france-agree-give-more-support-ukraine-uk-says-2022-06-26/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/europe/thousands-protest-madrid-against-nato-summit-2022-06-26/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Thousands protest in Madrid against NATO summit, article with gallery",
+      "url": "/world/europe/thousands-protest-madrid-against-nato-summit-2022-06-26/"
+    },
+    {
       "text": "",
-      "url": "/world/dozens-migrants-piled-ground-melilla-disaster-rights-group-says-2022-06-25/"
+      "url": "/world/europe/italys-draghi-backs-large-investments-gas-infrastructure-developing-countries-2022-06-26/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Italy's Draghi backs large investments in gas infrastructure in developing countries, article with image",
+      "url": "/world/europe/italys-draghi-backs-large-investments-gas-infrastructure-developing-countries-2022-06-26/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/business/healthcare-pharmaceuticals/afghan-health-official-warns-disease-outbreak-among-earthquake-survivors-2022-06-26/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Afghan health official warns of disease outbreak among earthquake survivors, article with gallery",
+      "url": "/business/healthcare-pharmaceuticals/afghan-health-official-warns-disease-outbreak-among-earthquake-survivors-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "/world/asia-pacific/sri-lanka-struggling-secure-fresh-fuel-supplies-minister-2022-06-26/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Sri Lanka struggling to secure fresh fuel supplies, minister says, article with image",
+      "url": "/world/asia-pacific/sri-lanka-struggling-secure-fresh-fuel-supplies-minister-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "/business/energy/japan-issues-warning-over-possible-power-crunch-monday-2022-06-26/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Japan issues warning over possible power crunch on Monday, article with image",
+      "url": "/business/energy/japan-issues-warning-over-possible-power-crunch-monday-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "/world/skoreas-yoon-meet-us-japan-leaders-spain-during-nato-summit-2022-06-26/"
     },
     {
       "text": "World",
       "url": "/world/"
     },
     {
-      "text": "Dozens of migrants piled together at Melilla border fence, article with image",
-      "url": "/world/dozens-migrants-piled-ground-melilla-disaster-rights-group-says-2022-06-25/"
+      "text": "South Korea's Yoon to meet U.S., Japan leaders in Spain during NATO summit, article with image",
+      "url": "/world/skoreas-yoon-meet-us-japan-leaders-spain-during-nato-summit-2022-06-26/"
     },
     {
-      "text": "Gallery",
-      "url": "/world/europe/thousands-march-munich-demand-g7-action-poverty-climate-2022-06-25/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Thousands march in Munich to demand G7 action on poverty and climate, article with gallery",
-      "url": "/world/europe/thousands-march-munich-demand-g7-action-poverty-climate-2022-06-25/"
+      "text": "Business",
+      "url": "/business/"
     },
     {
       "text": "",
-      "url": "/markets/europe/spain-approves-95-bln-aid-package-vulnerable-families-2022-06-25/"
+      "url": "/markets/us/exclusive-copper-giant-codelco-sees-very-firm-copper-price-ahead-despite-recent-2022-06-26/"
     },
     {
       "text": "Markets",
       "url": "/markets/"
     },
     {
-      "text": "Spain approves $9.5 billion aid package for vulnerable families, article with image",
-      "url": "/markets/europe/spain-approves-95-bln-aid-package-vulnerable-families-2022-06-25/"
+      "text": "Exclusive: Copper giant Codelco sees 'very firm' copper price ahead despite recent drop, chairman says, article with image",
+      "url": "/markets/us/exclusive-copper-giant-codelco-sees-very-firm-copper-price-ahead-despite-recent-2022-06-26/"
     },
     {
       "text": "",
-      "url": "/world/europe/frances-macron-asks-prime-minister-propose-new-government-be-named-july-2022-06-25/"
+      "url": "/markets/europe/russia-slides-towards-default-payment-deadline-expires-2022-06-26/"
     },
     {
-      "text": "Europe",
-      "url": "/world/europe/"
+      "text": "Markets",
+      "url": "/markets/"
     },
     {
-      "text": "France's Macron seeks to name new government in early July, article with image",
-      "url": "/world/europe/frances-macron-asks-prime-minister-propose-new-government-be-named-july-2022-06-25/"
+      "text": "Russia slides towards default as payment deadline expires, article with image",
+      "url": "/markets/europe/russia-slides-towards-default-payment-deadline-expires-2022-06-26/"
     },
     {
-      "text": "Business",
-      "url": "/business/"
+      "text": "",
+      "url": "/markets/commodities/incoming-petrobras-ceo-tells-committee-he-has-no-govt-guidance-pricing-policy-2022-06-25/"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets/"
+    },
+    {
+      "text": "Incoming Petrobras CEO tells committee he has no government guidance on pricing policy, article with image",
+      "url": "/markets/commodities/incoming-petrobras-ceo-tells-committee-he-has-no-govt-guidance-pricing-policy-2022-06-25/"
     },
     {
       "text": "Gallery",
@@ -817,132 +1015,44 @@
       "url": "/markets/deals/global-ma-braces-dry-spell-boardrooms-put-expansion-hold-2022-06-24/"
     },
     {
-      "text": "",
-      "url": "/business/retail-consumer/mondelez-reopen-war-damaged-potato-chip-plant-outside-kyiv-2022-06-25/"
-    },
-    {
-      "text": "Retail & Consumer",
-      "url": "/business/retail-consumer/"
-    },
-    {
-      "text": "Mondelez to reopen war-damaged potato-chip plant outside Kyiv, article with image",
-      "url": "/business/retail-consumer/mondelez-reopen-war-damaged-potato-chip-plant-outside-kyiv-2022-06-25/"
-    },
-    {
-      "text": "Video",
-      "url": "/technology/us-crypto-firm-harmony-hit-by-100-million-heist-2022-06-24/"
-    },
-    {
-      "text": "Technology",
-      "url": "/technology/"
-    },
-    {
-      "text": "U.S. crypto firm Harmony hit by $100 million heist, article with video",
-      "url": "/technology/us-crypto-firm-harmony-hit-by-100-million-heist-2022-06-24/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/legal/litigation/juul-appeals-block-fda-ban-e-cigarettes-2022-06-24/"
-    },
-    {
-      "text": "Legal",
-      "url": "/legal/"
-    },
-    {
-      "text": "Federal appeals court puts FDA ban on Juul e-cigarette sales on hold, article with gallery",
-      "url": "/legal/litigation/juul-appeals-block-fda-ban-e-cigarettes-2022-06-24/"
-    },
-    {
-      "text": "Retail and Consumer",
-      "url": "/business/retail-consumer/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/business/apple-will-not-challenge-maryland-store-unionization-vote-2022-06-24/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Apple ready to bargain with its first U.S. store to unionize: source, article with gallery",
-      "url": "/business/apple-will-not-challenge-maryland-store-unionization-vote-2022-06-24/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/legal/litigation/kosher-cert-group-accuses-jetblue-selling-food-with-fake-kosher-label-2022-06-23/"
-    },
-    {
-      "text": "Legal",
-      "url": "/legal/"
-    },
-    {
-      "text": "Kosher cert group accuses JetBlue of selling food with fake kosher label, article with gallery",
-      "url": "/legal/litigation/kosher-cert-group-accuses-jetblue-selling-food-with-fake-kosher-label-2022-06-23/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/legal/litigation/walgreens-reaches-105-mln-settlement-with-shareholders-2022-06-24/"
-    },
-    {
-      "text": "Legal",
-      "url": "/legal/"
-    },
-    {
-      "text": "Walgreens reaches $105 million settlement with shareholders, article with gallery",
-      "url": "/legal/litigation/walgreens-reaches-105-mln-settlement-with-shareholders-2022-06-24/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/business/carnival-corp-misses-quarterly-revenue-estimates-weakening-cruise-demand-2022-06-24/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Carnival expects to cruise to core profit as strong demand blunts high costs, article with gallery",
-      "url": "/business/carnival-corp-misses-quarterly-revenue-estimates-weakening-cruise-demand-2022-06-24/"
-    },
-    {
       "text": "Sports",
       "url": "/lifestyle/sports/"
     },
     {
       "text": "Gallery",
-      "url": "/lifestyle/sports/american-armstrong-takes-50m-backstroke-gold-after-ress-disqualification-2022-06-25/"
+      "url": "/lifestyle/sports/mitchell-blundell-frustrate-england-again-new-zealand-build-lead-2022-06-26/"
     },
     {
-      "text": "American Ress wins 50m backstroke gold after review, McIntosh takes 400m medley, article with gallery",
-      "url": "/lifestyle/sports/american-armstrong-takes-50m-backstroke-gold-after-ress-disqualification-2022-06-25/"
+      "text": "England finally end Mitchell-Blundell stand, need 296 for victory, article with gallery",
+      "url": "/lifestyle/sports/mitchell-blundell-frustrate-england-again-new-zealand-build-lead-2022-06-26/"
     },
     {
-      "text": "",
-      "url": "/lifestyle/sports/tsitsipas-delighted-with-breakthrough-title-win-grass-2022-06-25/"
+      "text": "Gallery",
+      "url": "/lifestyle/sports/all-five-kenyan-world-champions-defend-titles-eugene-2022-06-26/"
     },
     {
-      "text": "Tsitsipas delighted with breakthrough title win on grass, article with image",
-      "url": "/lifestyle/sports/tsitsipas-delighted-with-breakthrough-title-win-grass-2022-06-25/"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/sports/american-sydney-mclaughlin-breaks-own-womens-400m-hurdles-world-record-2022-06-25/"
-    },
-    {
-      "text": "American Sydney McLaughlin breaks own women's 400m hurdles world record, article with image",
-      "url": "/lifestyle/sports/american-sydney-mclaughlin-breaks-own-womens-400m-hurdles-world-record-2022-06-25/"
+      "text": "All five Kenyan world champions to defend titles in Eugene, article with gallery",
+      "url": "/lifestyle/sports/all-five-kenyan-world-champions-defend-titles-eugene-2022-06-26/"
     },
     {
       "text": "",
-      "url": "/lifestyle/sports/reigning-world-champion-lyles-tokyo-medallist-thomas-advance-200-metres-2022-06-25/"
+      "url": "/lifestyle/sports/wimbledon-doesnt-care-what-looks-cool-says-kyrgios-strict-dress-code-2022-06-26/"
     },
     {
-      "text": "Reigning world champion Lyles, Tokyo medallist Thomas advance in 200 metres, article with image",
-      "url": "/lifestyle/sports/reigning-world-champion-lyles-tokyo-medallist-thomas-advance-200-metres-2022-06-25/"
+      "text": "Wimbledon doesn't care what looks cool, says Kyrgios on strict dress code, article with image",
+      "url": "/lifestyle/sports/wimbledon-doesnt-care-what-looks-cool-says-kyrgios-strict-dress-code-2022-06-26/"
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/lifestyle/david-harbour-stranger-things-season-finale-youll-be-blown-away-2022-06-24/"
+      "url": "/lifestyle/sports/tsitsipas-says-he-proved-doubters-wrong-with-first-grasscourt-crown-2022-06-26/"
+    },
+    {
+      "text": "Tsitsipas says he proved doubters wrong with first grasscourt crown, article with image",
+      "url": "/lifestyle/sports/tsitsipas-says-he-proved-doubters-wrong-with-first-grasscourt-crown-2022-06-26/"
+    },
+    {
+      "text": "",
+      "url": "https://www.reuters.com/lifestyle/box-office-elvis-top-gun-maverick-battle-no-1-with-305-million-each-2022-06-26/"
     },
     {
       "text": "",
@@ -950,7 +1060,7 @@
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/lifestyle/fans-thrilled-long-winding-road-leads-mccartney-glastonbury-2022-06-25/"
+      "url": "https://www.reuters.com/lifestyle/off-screen-aquamans-jason-momoa-fights-worlds-oceans-2022-06-26/"
     },
     {
       "text": "Learn more",
@@ -1150,7 +1260,7 @@
     }
   ],
   "server": "ia802504.us.archive.org",
-  "uniq": 1174629354,
+  "uniq": 1727829827,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

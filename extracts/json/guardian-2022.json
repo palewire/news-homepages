@@ -1,5 +1,5 @@
 {
-  "created": 1656197247,
+  "created": 1656288392,
   "d1": "ia902206.us.archive.org",
   "d2": "ia802206.us.archive.org",
   "dir": "/20/items/guardian-2022",
@@ -8314,31 +8314,157 @@
       "sha1": "24b07f01e8caf2171836c7bd2e0bfe541a68ee95"
     },
     {
+      "name": "guardian-2022-06-26T02:39:13.167137+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656207556",
+      "size": "45857",
+      "md5": "e97fbf34b7e3854ac3904667bcca73aa",
+      "crc32": "43e95d47",
+      "sha1": "864feac31f3b0c6a0917acdbba0b96c6d2f7e7a7",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-06-26T02:39:13.167137+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656207558",
+      "size": "97344",
+      "md5": "c5ea3bd1d0759eb501af9a5a582ec884",
+      "crc32": "707e8cd4",
+      "sha1": "0d491794c5a2dfd3a3dc9b3d88c04e0ef95478f2",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-06-26T02:39:13.167137+01:00.jpg",
+      "source": "original",
+      "mtime": "1656207555",
+      "size": "361138",
+      "md5": "7f4e47275ba4502c271f11e6ec520a3c",
+      "crc32": "a87bd5b9",
+      "sha1": "50597f9d30eb2b8704aac5b7e2bf26e840fb29db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-06-26T02:39:13.167137+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-06-26T02:39:13.167137+01:00.jpg",
+      "mtime": "1656207628",
+      "size": "10497",
+      "md5": "fdb2ef5eb1a80c44c002911eca0957b1",
+      "crc32": "cea860ec",
+      "sha1": "18c9db629997528776e890cc523e2cb4ef39c8df"
+    },
+    {
+      "name": "guardian-2022-06-26T10:28:30.289610+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656235713",
+      "size": "44096",
+      "md5": "efd5f2806af1494296ea1c07c6c673ba",
+      "crc32": "bd1188bb",
+      "sha1": "8422fe2b8ca2e66835d9c7f3f70a364577fe0725",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-06-26T10:28:30.289610+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656235715",
+      "size": "94741",
+      "md5": "51fa3908b38b94b4a8084d69099fc39b",
+      "crc32": "344aa6d9",
+      "sha1": "67d8c8faf82480c03790c890a409bc9fd51d67db",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-06-26T10:28:30.289610+01:00.jpg",
+      "source": "original",
+      "mtime": "1656235712",
+      "size": "325508",
+      "md5": "cd104c2a8bc652274dbcf565fedb257d",
+      "crc32": "e68c8d18",
+      "sha1": "154a8367dfad9b6b49da97cbcb36aff105f4a3e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-06-26T10:28:30.289610+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-06-26T10:28:30.289610+01:00.jpg",
+      "mtime": "1656235768",
+      "size": "10023",
+      "md5": "7ee79fadff61445b13c0237832bb3ec6",
+      "crc32": "af18af31",
+      "sha1": "2a12bfbc18e8493f38e217b4b1e97c2b163b38e8"
+    },
+    {
+      "name": "guardian-2022-06-26T18:32:15.991556+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656264740",
+      "size": "45228",
+      "md5": "1e92cc7899d4717f8a5e40598959e4aa",
+      "crc32": "d9cbda2e",
+      "sha1": "235124aabb18797fdc91a69b9cb7822227b45a4e",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-06-26T18:32:15.991556+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656264742",
+      "size": "96561",
+      "md5": "fb3c68f97c99a2651e0fa79832a920cb",
+      "crc32": "f5b06b0a",
+      "sha1": "c798e8c65a374e753dfdebd29ba7239189baae5f",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-06-26T18:32:15.991556+01:00.jpg",
+      "source": "original",
+      "mtime": "1656264738",
+      "size": "335514",
+      "md5": "7dbde92789bcca8be2e7347b4cde348d",
+      "crc32": "1b64e116",
+      "sha1": "140b2b5d9b467a807a0917ed7ce2dbad6648647d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-06-26T18:32:15.991556+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-06-26T18:32:15.991556+01:00.jpg",
+      "mtime": "1656264799",
+      "size": "10429",
+      "md5": "607af72537f7dddc09b78ae5a61e1935",
+      "crc32": "24c9a466",
+      "sha1": "b654223a151b45873e0fdbe9f836c4309344d7ca"
+    },
+    {
       "name": "guardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ace98cc6cfea111094c1169ef50f1c57b5042416",
-      "mtime": "1656197239",
-      "size": "169285",
-      "md5": "6c4f5a7dd151fc255653d8241bfc6b1d",
-      "crc32": "49636589",
-      "sha1": "5e014238b78ac90bf86d1502ed40c76a4fdc08a6",
+      "btih": "74f5f0d308fba81bc93a8df18c1772c33a59f784",
+      "mtime": "1656264807",
+      "size": "171835",
+      "md5": "25ca4f4362d197484d37331117656e72",
+      "crc32": "1ac0d979",
+      "sha1": "ba642f7ca7338f9b537b1bc49a22a5a1fbe7b8ea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "guardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "22a04057cb0246aed6808e6dc0385ff5",
+      "md5": "5a28758fd3eb09da2d20868726066181",
       "summation": "md5"
     },
     {
       "name": "guardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656197178",
-      "size": "905216",
-      "md5": "aea25e587bb7aa56142785abc78ce0d8",
-      "crc32": "917b4dd6",
-      "sha1": "c143a8df07014ab8ba150ff97aa2606ee5d54267",
+      "mtime": "1656264745",
+      "size": "921600",
+      "md5": "14eced66aab920fe33e6304e070251c8",
+      "crc32": "4ebd9f70",
+      "sha1": "2a8d264cb3ae9d5e67a3a5fb90d9fe34f2e3e167",
       "format": "Metadata"
     },
     {
@@ -8352,9 +8478,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 794,
-  "item_last_updated": 1656197239,
-  "item_size": 104989205,
+  "files_count": 806,
+  "item_last_updated": 1656264807,
+  "item_size": 106485075,
   "metadata": {
     "identifier": "guardian-2022",
     "collection": [
@@ -8372,7 +8498,7 @@
     "addeddate": "2022-03-23 08:03:23"
   },
   "server": "ia802206.us.archive.org",
-  "uniq": 245799892,
+  "uniq": 1714812052,
   "workable_servers": [
     "ia802206.us.archive.org",
     "ia902206.us.archive.org"
