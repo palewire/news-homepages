@@ -123,12 +123,15 @@ def _shoot(site: typing.Dict, output_dir: str):
             ".met-footer-toast",
             ".grecaptcha-badge",
             ".fEy1Z2XT",
+            ".dgEhJe6g",
+            ".notification-soft-optin",
             ".popup_background",
             ".popup_wrapper",
             ".pw-subscribe-popup",
             ".ThirdPartySlot-container",
             ".newspack-lightbox",
             ".pbs_loc",
+            "#onetrust-consent-sdk",
         ]
         target_str = ",".join(target_list)
         javascript = (
