@@ -135,6 +135,7 @@ def _shoot(site: typing.Dict, output_dir: str):
             ".gdpr-huffpost-cookiewall",
             "#header-cts",
             ".pum-overlay",
+            "#pico_prompt",
         ]
         target_str = ",".join(target_list)
         javascript = (
