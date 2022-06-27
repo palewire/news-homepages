@@ -132,6 +132,7 @@ def _shoot(site: typing.Dict, output_dir: str):
             ".newspack-lightbox",
             ".pbs_loc",
             "#onetrust-consent-sdk",
+            ".gdpr-huffpost-cookiewall",
         ]
         target_str = ",".join(target_list)
         javascript = (
