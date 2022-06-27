@@ -12,7 +12,7 @@ from . import utils
 
 DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
-DEFAULT_WAIT = "5000"
+DEFAULT_WAIT = "15000"
 
 logger = logging.getLogger(__name__)
 
@@ -111,30 +111,27 @@ def _shoot(site: typing.Dict, output_dir: str):
 
         # Run common JavaScript for all sites
         target_list = [
-            ".tp-modal",
+            ".tp-modal",  # Common popover ad
             ".tp-backdrop",
-            ".onesignal-slidedown-container",
-            ".pb-curated",
+            ".onesignal-slidedown-container",  # Common slidedown ad
             "#regiwall-overlay",
             ".regiwall",
-            ".bxc",
-            ".bx-slab",
-            ".bx-base",
-            ".met-footer-toast",
+            ".bxc",  # Common takeover ad
+            ".met-footer-toast",  # Common toaster at the bottom
             ".grecaptcha-badge",
-            ".fEy1Z2XT",
+            ".fEy1Z2XT",  # Common ad blocker popup
             ".dgEhJe6g",
-            ".notification-soft-optin",
+            ".notification-soft-optin",  # Common notification popup
             ".popup_background",
             ".popup_wrapper",
             ".pw-subscribe-popup",
             ".ThirdPartySlot-container",
-            ".newspack-lightbox",
-            ".pbs_loc",
+            ".newspack-lightbox",  # Common takover ad
+            ".pbs_loc",  # PBS site location picker
             "#onetrust-consent-sdk",
             ".gdpr-huffpost-cookiewall",
             "#header-cts",
-            ".pum-overlay",
+            ".pum-overlay",  # Common takeover ad
             "#pico_prompt",
         ]
         target_str = ",".join(target_list)
