@@ -21,11 +21,12 @@ def cli(input_dir: str, output_dir: str):
     output_path.mkdir(parents=True, exist_ok=True)
 
     n = 4
-    for i in range(4):
+    slide_list = []
+    for i in range(12):
         random.shuffle(image_paths)
-        image_array = []
+        random_images = []
         for _x in range(n * n):
-            image_array.append(image_paths.pop())
+            random_images.append(image_paths.pop())
 
         size = (1300, 1300)
         shape = (n, n)
@@ -34,7 +35,7 @@ def cli(input_dir: str, output_dir: str):
         width, height = size
         images = [
             ImageOps.fit(image, size, Image.Resampling.LANCZOS, centering=(0.5, 0))
-            for image in map(Image.open, image_array)
+            for image in map(Image.open, random_images)
         ]
 
         # Create canvas for the final image with total size
@@ -49,9 +50,26 @@ def cli(input_dir: str, output_dir: str):
                 idx = row * shape[1] + col
                 image.paste(images[idx], offset)
 
+        # Size down the image
+        smaller_image = image.resize((1000, 1000))
+
         # Save an output
         click.echo(f"Writing mosiac {i+1} to {output_path}")
-        image.save(output_path / f"mosaic-{i+1}.jpg", "JPEG")
+        smaller_image.save(output_path / f"mosaic-{i+1}.jpg", "JPEG")
+
+        # Add to our master last
+        slide_list.append(smaller_image)
+
+    # Combine slides into a GIF
+    click.echo(f"Writing GIF to {output_path / 'mosaic.gif'}")
+    slide_list[0].save(
+        output_path / "mosaic.gif",
+        save_all=True,
+        append_images=slide_list[1:],
+        optimize=True,
+        duration=1000,
+        loop=0,
+    )
 
 
 if __name__ == "__main__":
