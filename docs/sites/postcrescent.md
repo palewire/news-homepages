@@ -17,7 +17,7 @@ orphan: true
 | Location       | Appleton                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 118 screenshots stored at the Internet Archive.
+The archiving routine has captured 121 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
