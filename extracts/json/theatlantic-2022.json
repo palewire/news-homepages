@@ -1,5 +1,5 @@
 {
-  "created": 1656289487,
+  "created": 1656354199,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/17/items/theatlantic-2022",
@@ -308,31 +308,157 @@
       "sha1": "4d4ab0a6fd792380758fee544ae621162b850e88"
     },
     {
+      "name": "theatlantic-2022-06-26T21:45:47.235460-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656294350",
+      "size": "25229",
+      "md5": "f110fc3d57cae5254377c24b64bc974f",
+      "crc32": "949681e2",
+      "sha1": "14c40dd47a04c4f9010104fff47689de87c3bdfb",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-26T21:45:47.235460-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656294351",
+      "size": "28877",
+      "md5": "b42dd5186d93ff35f35b70a51ade7c20",
+      "crc32": "58bcdd2d",
+      "sha1": "7dfeaf47056cc48d10ee4f1957d57fa144d75524",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-26T21:45:47.235460-04:00.jpg",
+      "source": "original",
+      "mtime": "1656294348",
+      "size": "240045",
+      "md5": "db39e2411baf69b887574cf2e32be8c4",
+      "crc32": "a05d9831",
+      "sha1": "ec8ec586005c9bcf7575b891c53958c4ee950b14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-26T21:45:47.235460-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-26T21:45:47.235460-04:00.jpg",
+      "mtime": "1656294394",
+      "size": "9604",
+      "md5": "9c0a11ad5121ac84e8b5be0c934ea06d",
+      "crc32": "f019f919",
+      "sha1": "4e0eba46c3001210d086f4c9b0fdcf252367c742"
+    },
+    {
+      "name": "theatlantic-2022-06-27T05:40:22.550019-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656322826",
+      "size": "25229",
+      "md5": "79ded538e403f04ec4f6e7a3e24c79cb",
+      "crc32": "e28565d9",
+      "sha1": "6eac5f30405d2a8dc59645ce0d9d35e49efd74d0",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-27T05:40:22.550019-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656322828",
+      "size": "29043",
+      "md5": "f5aff7cfa602031dcf151d440cb4a0eb",
+      "crc32": "23d57287",
+      "sha1": "56cd35d205036c66a1e1dfab654d6213f549f126",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-27T05:40:22.550019-04:00.jpg",
+      "source": "original",
+      "mtime": "1656322824",
+      "size": "240045",
+      "md5": "db39e2411baf69b887574cf2e32be8c4",
+      "crc32": "a05d9831",
+      "sha1": "ec8ec586005c9bcf7575b891c53958c4ee950b14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-27T05:40:22.550019-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-27T05:40:22.550019-04:00.jpg",
+      "mtime": "1656322874",
+      "size": "9604",
+      "md5": "9c0a11ad5121ac84e8b5be0c934ea06d",
+      "crc32": "f019f919",
+      "sha1": "4e0eba46c3001210d086f4c9b0fdcf252367c742"
+    },
+    {
+      "name": "theatlantic-2022-06-27T14:11:37.427173-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656353501",
+      "size": "26192",
+      "md5": "09ce21bb24cba302fd1d90aaf648d2c9",
+      "crc32": "3d97519e",
+      "sha1": "285f0c3214c89bf3ced518d2abc8783ad0d004fc",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-27T14:11:37.427173-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656353503",
+      "size": "28847",
+      "md5": "31016f8763bc4efa7765653fbd08c411",
+      "crc32": "c03e0a10",
+      "sha1": "625b740ec26a81af5dead45598155093305633d8",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-27T14:11:37.427173-04:00.jpg",
+      "source": "original",
+      "mtime": "1656353499",
+      "size": "302995",
+      "md5": "5af017311d63bfe10f31005d0056e47a",
+      "crc32": "ae9b46cd",
+      "sha1": "5068aba652a43625bc67991def786b83fd9c1fd5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-27T14:11:37.427173-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-27T14:11:37.427173-04:00.jpg",
+      "mtime": "1656354183",
+      "size": "9908",
+      "md5": "0fb8fc8d150fd663e7bc5dff03c1aa80",
+      "crc32": "0bb72bf8",
+      "sha1": "f9f2cc95dd77e2628869014c5fb9be11c26a119c"
+    },
+    {
       "name": "theatlantic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "597a8120f7c5cc0d5ef183a7ec397c97cdba9944",
-      "mtime": "1656265185",
-      "size": "7642",
-      "md5": "c3523212ef15ff32fd3a6440e52059c3",
-      "crc32": "649ae77f",
-      "sha1": "a58cfd6f6a7565831c65c90f1abcf4e809868935",
+      "btih": "02c68e3c41bf6b7984702084461cd5f8b1bf041a",
+      "mtime": "1656354186",
+      "size": "10205",
+      "md5": "d3ef398457b16f0fc2263421ad178189",
+      "crc32": "8fcaced4",
+      "sha1": "b0752647b2262e0f6a82831524d9f5189f510409",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theatlantic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "21b2dfc9a57070f55c24f46162c96b79",
+      "md5": "b9c318d3680c0db92d1b0588e37f32e3",
       "summation": "md5"
     },
     {
       "name": "theatlantic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656265142",
-      "size": "53248",
-      "md5": "33c77e9addd7b216e95043364374cf55",
-      "crc32": "6a48b6b9",
-      "sha1": "158108cd6cba24813dc39f415d0f019129da143f",
+      "mtime": "1656353513",
+      "size": "65536",
+      "md5": "5bbd5ab897a0d3ab79a8385c8dd2260c",
+      "crc32": "0435dfac",
+      "sha1": "a0019e8baeae28aacd689ef44587a81c88bc2d9e",
       "format": "Metadata"
     },
     {
@@ -346,9 +472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
-  "item_last_updated": 1656265185,
-  "item_size": 2370504,
+  "files_count": 45,
+  "item_last_updated": 1656354186,
+  "item_size": 3360973,
   "metadata": {
     "identifier": "theatlantic-2022",
     "collection": [
@@ -365,920 +491,10 @@
     "publicdate": "2022-06-24 23:01:58",
     "addeddate": "2022-06-24 23:01:58"
   },
-  "server": "ia801407.us.archive.org",
-  "theatlantic-2022": [
-    {
-      "text": "Skip to content",
-      "url": "#main-content"
-    },
-    {
-      "text": "The Atlantic",
-      "url": "https://www.theatlantic.com"
-    },
-    {
-      "text": "Popular",
-      "url": "https://www.theatlantic.com/most-popular/"
-    },
-    {
-      "text": "Latest",
-      "url": "https://www.theatlantic.com/latest/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.theatlantic.com/politics/"
-    },
-    {
-      "text": "Ideas",
-      "url": "https://www.theatlantic.com/ideas/"
-    },
-    {
-      "text": "Fiction",
-      "url": "https://www.theatlantic.com/category/fiction/"
-    },
-    {
-      "text": "Technology",
-      "url": "https://www.theatlantic.com/technology/"
-    },
-    {
-      "text": "Science",
-      "url": "https://www.theatlantic.com/science/"
-    },
-    {
-      "text": "Photo",
-      "url": "https://www.theatlantic.com/photo/"
-    },
-    {
-      "text": "Business",
-      "url": "https://www.theatlantic.com/business/"
-    },
-    {
-      "text": "Culture",
-      "url": "https://www.theatlantic.com/culture/"
-    },
-    {
-      "text": "Planet",
-      "url": "https://www.theatlantic.com/planet/"
-    },
-    {
-      "text": "Global",
-      "url": "https://www.theatlantic.com/international/"
-    },
-    {
-      "text": "Books",
-      "url": "https://www.theatlantic.com/books/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.theatlantic.com/podcasts/"
-    },
-    {
-      "text": "Health",
-      "url": "https://www.theatlantic.com/health/"
-    },
-    {
-      "text": "Education",
-      "url": "https://www.theatlantic.com/education/"
-    },
-    {
-      "text": "Projects",
-      "url": "https://www.theatlantic.com/projects/"
-    },
-    {
-      "text": "America In Person",
-      "url": "https://www.theatlantic.com/projects/america-in-person/"
-    },
-    {
-      "text": "Family",
-      "url": "https://www.theatlantic.com/family/"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.theatlantic.com/events/"
-    },
-    {
-      "text": "Shadowland",
-      "url": "https://www.theatlantic.com/shadowland/"
-    },
-    {
-      "text": "Progress",
-      "url": "https://www.theatlantic.com/progress/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.theatlantic.com/follow-the-atlantic/"
-    },
-    {
-      "text": "Play Crossword",
-      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/magazine/"
-    },
-    {
-      "text": "Latest Issue",
-      "url": "https://www.theatlantic.com/magazine/"
-    },
-    {
-      "text": "Past Issues",
-      "url": "https://www.theatlantic.com/magazine/backissues/"
-    },
-    {
-      "text": "Give a Gift",
-      "url": "https://accounts.theatlantic.com/products/gift"
-    },
-    {
-      "text": "Dear Therapist",
-      "url": "https://www.theatlantic.com/category/dear-therapist/"
-    },
-    {
-      "text": "Crossword Puzzle",
-      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
-    },
-    {
-      "text": "Manage Subscription",
-      "url": "https://accounts.theatlantic.com/"
-    },
-    {
-      "text": "Popular",
-      "url": "https://www.theatlantic.com/most-popular/"
-    },
-    {
-      "text": "Latest",
-      "url": "https://www.theatlantic.com/latest/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com"
-    },
-    {
-      "text": "Sign In",
-      "url": "https://accounts.theatlantic.com/login/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://www.theatlantic.com/subscribe/navbar/"
-    },
-    {
-      "text": "The Supreme Court has overturned Roe v. Wade. Read The Atlantic\u2019s full coverage of the abortion debate.",
-      "url": "https://www.theatlantic.com/category/abortion/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/"
-    },
-    {
-      "text": "The Constitution Is Whatever the Right Wing Says It Is",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/"
-    },
-    {
-      "text": "Adam Serwer",
-      "url": "https://www.theatlantic.com/author/adam-serwer/"
-    },
-    {
-      "text": "America Is About to See Just How Pro-Life Republicans Actually Are",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/anti-abortion-movement-dobbs-roe-overturned/661393/"
-    },
-    {
-      "text": "Elaine Godfrey",
-      "url": "https://www.theatlantic.com/author/elaine-godfrey/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/anti-abortion-movement-dobbs-roe-overturned/661393/"
-    },
-    {
-      "text": "America Is Growing Apart, Possibly for Good",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
-    },
-    {
-      "text": "Ronald Brownstein",
-      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
-    },
-    {
-      "text": "Air Travel Is a Disaster Right Now. Here\u2019s Why.",
-      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/summer-air-travel-flights-cancelled/661385/"
-    },
-    {
-      "text": "Derek Thompson",
-      "url": "https://www.theatlantic.com/author/derek-thompson/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/summer-air-travel-flights-cancelled/661385/"
-    },
-    {
-      "text": "Fashion Has Abandoned Human Taste",
-      "url": "https://www.theatlantic.com/technology/archive/2022/06/fast-fashion-trends-industry-mass-market-consumption/661371/"
-    },
-    {
-      "text": "Amanda Mull",
-      "url": "https://www.theatlantic.com/author/amanda-mull/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/technology/archive/2022/06/fast-fashion-trends-industry-mass-market-consumption/661371/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/us-economy-suffering-infrastructure-energy-housing/661389/"
-    },
-    {
-      "text": "America Wasted Its Chance to Push the Economy Forward",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/us-economy-suffering-infrastructure-energy-housing/661389/"
-    },
-    {
-      "text": "Annie Lowrey",
-      "url": "https://www.theatlantic.com/author/annie-lowrey/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/photo/2022/06/photos-protests-against-overturning-roe/661399/"
-    },
-    {
-      "text": "Photos: Protests Against the Overturning of Roe",
-      "url": "https://www.theatlantic.com/photo/2022/06/photos-protests-against-overturning-roe/661399/"
-    },
-    {
-      "text": "Alan Taylor",
-      "url": "https://www.theatlantic.com/author/alan-taylor/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/"
-    },
-    {
-      "text": "Have the Crypto Bosses Learned Anything At All?",
-      "url": "https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/"
-    },
-    {
-      "text": "Will Gottsegen",
-      "url": "https://www.theatlantic.com/author/will-gottsegen/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/inflation-economy-midterm-elections-2022/661354/"
-    },
-    {
-      "text": "It Feels Like 1979 Again",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/inflation-economy-midterm-elections-2022/661354/"
-    },
-    {
-      "text": "Tom Nichols",
-      "url": "https://www.theatlantic.com/author/tom-nichols/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/poem-tiana-clark-considering-roe-v-wade-letters-black-body/661397/"
-    },
-    {
-      "text": "Considering Roe v. Wade, Letters to the Black Body",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/poem-tiana-clark-considering-roe-v-wade-letters-black-body/661397/"
-    },
-    {
-      "text": "Tiana Clark",
-      "url": "https://www.theatlantic.com/author/tiana-clark/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/group-biographies-book-recommendations/661388/"
-    },
-    {
-      "text": "History Is Never Only One Person\u2019s Story",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/group-biographies-book-recommendations/661388/"
-    },
-    {
-      "text": "Talya Zax",
-      "url": "https://www.theatlantic.com/author/talya-zax/"
-    },
-    {
-      "text": "One Woman\u2019s Abortion",
-      "url": "https://www.theatlantic.com/magazine/archive/1965/08/one-womans-abortion/304930/"
-    },
-    {
-      "text": "Mrs. X",
-      "url": "https://www.theatlantic.com/author/mrs-x/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/magazine/archive/1965/08/one-womans-abortion/304930/"
-    },
-    {
-      "text": "Five COVID Numbers That Don\u2019t Make Sense Anymore",
-      "url": "https://www.theatlantic.com/health/archive/2022/06/covid-numbers-outdated-two-doses-six-feet/661366/"
-    },
-    {
-      "text": "Katherine J. Wu",
-      "url": "https://www.theatlantic.com/author/katherine-j-wu/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/health/archive/2022/06/covid-numbers-outdated-two-doses-six-feet/661366/"
-    },
-    {
-      "text": "Full-Bodied With Notes of Band-Aid and Medicine",
-      "url": "https://www.theatlantic.com/science/archive/2022/06/glass-fire-climate-change-impact-wine/661396/"
-    },
-    {
-      "text": "Ula Chrobak",
-      "url": "https://www.theatlantic.com/author/ula-chrobak/"
-    },
-    {
-      "text": "Katarina Zimmer",
-      "url": "https://www.theatlantic.com/author/katarina-zimmer/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/science/archive/2022/06/glass-fire-climate-change-impact-wine/661396/"
-    },
-    {
-      "text": "The Sociopolitical Significance of One Very Clumsy Soccer Match",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/writers-league-soccer-game-brexit/661390/"
-    },
-    {
-      "text": "Joe Dunthorne",
-      "url": "https://www.theatlantic.com/author/joe-dunthorne/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/writers-league-soccer-game-brexit/661390/"
-    },
-    {
-      "text": "Explore Newsletters",
-      "url": "https://www.theatlantic.com/subscriber-newsletters/"
-    },
-    {
-      "text": "Writers",
-      "url": "https://www.theatlantic.com/writers/"
-    },
-    {
-      "text": "see all",
-      "url": "https://www.theatlantic.com/writers/"
-    },
-    {
-      "text": "Alan Taylor",
-      "url": "https://www.theatlantic.com/author/alan-taylor/"
-    },
-    {
-      "text": "Photos: Protests Against the Overturning of Roe",
-      "url": "https://www.theatlantic.com/photo/2022/06/photos-protests-against-overturning-roe/661399/"
-    },
-    {
-      "text": "Derek Thompson",
-      "url": "https://www.theatlantic.com/author/derek-thompson/"
-    },
-    {
-      "text": "Air Travel Is a Disaster Right Now. Here\u2019s Why.",
-      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/summer-air-travel-flights-cancelled/661385/"
-    },
-    {
-      "text": "Annie Lowrey",
-      "url": "https://www.theatlantic.com/author/annie-lowrey/"
-    },
-    {
-      "text": "America Wasted Its Chance to Push the Economy Forward",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/us-economy-suffering-infrastructure-energy-housing/661389/"
-    },
-    {
-      "text": "Elaine Godfrey",
-      "url": "https://www.theatlantic.com/author/elaine-godfrey/"
-    },
-    {
-      "text": "America Is About to See Just How Pro-life Republicans Actually Are",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/anti-abortion-movement-dobbs-roe-overturned/661393/"
-    },
-    {
-      "text": "Adam Serwer",
-      "url": "https://www.theatlantic.com/author/adam-serwer/"
-    },
-    {
-      "text": "The Constitution Is Whatever the Right Wing Says It Is",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/"
-    },
-    {
-      "text": "David Sims",
-      "url": "https://www.theatlantic.com/author/david-sims/"
-    },
-    {
-      "text": "Elvis Is Utterly Disorienting. That\u2019s the Point.",
-      "url": "https://www.theatlantic.com/culture/archive/2022/06/baz-luhrmann-elvis-presley-movie-review/661383/"
-    },
-    {
-      "text": "Shirley Li",
-      "url": "https://www.theatlantic.com/author/shirley-li/"
-    },
-    {
-      "text": "J. Lo\u2019s Tragic Fame Cycle",
-      "url": "https://www.theatlantic.com/culture/archive/2022/06/jennifer-lopez-halftime-netflix/661376/"
-    },
-    {
-      "text": "Russell Berman",
-      "url": "https://www.theatlantic.com/author/russell-berman/"
-    },
-    {
-      "text": "The Surprising Voice Missing From Gun-Control Talks",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/mark-kelly-absent-senate-gun-control-negotiations/661373/"
-    },
-    {
-      "text": "Ronald Brownstein",
-      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
-    },
-    {
-      "text": "America Is Growing Apart, Possibly for Good",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
-    },
-    {
-      "text": "Amanda Mull",
-      "url": "https://www.theatlantic.com/author/amanda-mull/"
-    },
-    {
-      "text": "Fashion Has Abandoned Human Taste",
-      "url": "https://www.theatlantic.com/technology/archive/2022/06/fast-fashion-trends-industry-mass-market-consumption/661371/"
-    },
-    {
-      "text": "Sophie Gilbert",
-      "url": "https://www.theatlantic.com/author/sophie-gilbert/"
-    },
-    {
-      "text": "What This Is Going to Hurt Leaves Out",
-      "url": "https://www.theatlantic.com/culture/archive/2022/06/this-is-going-to-hurt-amc-tv-series-review/661368/"
-    },
-    {
-      "text": "Katherine J. Wu",
-      "url": "https://www.theatlantic.com/author/katherine-j-wu/"
-    },
-    {
-      "text": "Five COVID Numbers That Don\u2019t Make Sense Anymore",
-      "url": "https://www.theatlantic.com/health/archive/2022/06/covid-numbers-outdated-two-doses-six-feet/661366/"
-    },
-    {
-      "text": "Magazine",
-      "url": "https://www.theatlantic.com/magazine/backissues/"
-    },
-    {
-      "text": "past issues",
-      "url": "https://www.theatlantic.com/magazine/backissues/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/subscribe/magazinemodule1/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://www.theatlantic.com/subscribe/magazinemodule1/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "see all",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "",
-      "url": "/podcasts/experiment/"
-    },
-    {
-      "text": "Stories From an Unfinished Country",
-      "url": "/podcasts/experiment/"
-    },
-    {
-      "text": "",
-      "url": "/podcasts/floodlines/"
-    },
-    {
-      "text": "The Story of an Unnatural Disaster",
-      "url": "/podcasts/floodlines/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/health/archive/2021/06/is-it-over/619174/"
-    },
-    {
-      "text": "Is It Over?",
-      "url": "https://www.theatlantic.com/health/archive/2021/06/is-it-over/619174/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/podcasts/archive/2022/06/marriage-divorce-break-up-advice/661334/"
-    },
-    {
-      "text": "When Can a Marriage Be Saved?",
-      "url": "https://www.theatlantic.com/podcasts/archive/2022/06/marriage-divorce-break-up-advice/661334/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/podcasts/archive/2022/05/top-gun/629897/"
-    },
-    {
-      "text": "Top Gun",
-      "url": "https://www.theatlantic.com/podcasts/archive/2022/05/top-gun/629897/"
-    },
-    {
-      "text": "Latest",
-      "url": "https://www.theatlantic.com/latest/"
-    },
-    {
-      "text": "see all",
-      "url": "https://www.theatlantic.com/latest/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/photo/2022/06/photos-protests-against-overturning-roe/661399/"
-    },
-    {
-      "text": "Photos: Protests Against the Overturning of Roe",
-      "url": "https://www.theatlantic.com/photo/2022/06/photos-protests-against-overturning-roe/661399/"
-    },
-    {
-      "text": "Alan Taylor",
-      "url": "https://www.theatlantic.com/author/alan-taylor/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/summer-air-travel-flights-cancelled/661385/"
-    },
-    {
-      "text": "Air Travel Is a Disaster Right Now. Here\u2019s Why.",
-      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/summer-air-travel-flights-cancelled/661385/"
-    },
-    {
-      "text": "Derek Thompson",
-      "url": "https://www.theatlantic.com/author/derek-thompson/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/"
-    },
-    {
-      "text": "Have the Crypto Bosses Learned Anything At All?",
-      "url": "https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/"
-    },
-    {
-      "text": "Will Gottsegen",
-      "url": "https://www.theatlantic.com/author/will-gottsegen/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/science/archive/2022/06/glass-fire-climate-change-impact-wine/661396/"
-    },
-    {
-      "text": "Full-Bodied With Notes of Band-Aid and Medicine",
-      "url": "https://www.theatlantic.com/science/archive/2022/06/glass-fire-climate-change-impact-wine/661396/"
-    },
-    {
-      "text": "Ula Chrobak",
-      "url": "https://www.theatlantic.com/author/ula-chrobak/"
-    },
-    {
-      "text": "Katarina Zimmer",
-      "url": "https://www.theatlantic.com/author/katarina-zimmer/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/writers-league-soccer-game-brexit/661390/"
-    },
-    {
-      "text": "The Sociopolitical Significance of One Very Clumsy Soccer Match",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/writers-league-soccer-game-brexit/661390/"
-    },
-    {
-      "text": "Joe Dunthorne",
-      "url": "https://www.theatlantic.com/author/joe-dunthorne/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/group-biographies-book-recommendations/661388/"
-    },
-    {
-      "text": "History Is Never Only One Person\u2019s Story",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/group-biographies-book-recommendations/661388/"
-    },
-    {
-      "text": "Talya Zax",
-      "url": "https://www.theatlantic.com/author/talya-zax/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/us-economy-suffering-infrastructure-energy-housing/661389/"
-    },
-    {
-      "text": "America Wasted Its Chance to Push the Economy Forward",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/us-economy-suffering-infrastructure-energy-housing/661389/"
-    },
-    {
-      "text": "Annie Lowrey",
-      "url": "https://www.theatlantic.com/author/annie-lowrey/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/anti-abortion-movement-dobbs-roe-overturned/661393/"
-    },
-    {
-      "text": "America Is About to See Just How Pro-life Republicans Actually Are",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/anti-abortion-movement-dobbs-roe-overturned/661393/"
-    },
-    {
-      "text": "Elaine Godfrey",
-      "url": "https://www.theatlantic.com/author/elaine-godfrey/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/poem-tiana-clark-considering-roe-v-wade-letters-black-body/661397/"
-    },
-    {
-      "text": "Considering Roe v. Wade, Letters to the Black Body",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/poem-tiana-clark-considering-roe-v-wade-letters-black-body/661397/"
-    },
-    {
-      "text": "Tiana Clark",
-      "url": "https://www.theatlantic.com/author/tiana-clark/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/science/archive/2022/06/milky-seas-effect-ocean-bioluminescence/661384/"
-    },
-    {
-      "text": "I Witnessed One of the Ocean\u2019s Rarest Phenomena",
-      "url": "https://www.theatlantic.com/science/archive/2022/06/milky-seas-effect-ocean-bioluminescence/661384/"
-    },
-    {
-      "text": "Sam Keck Scott",
-      "url": "https://www.theatlantic.com/author/sam-keck-scott/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/inflation-economy-midterm-elections-2022/661354/"
-    },
-    {
-      "text": "It Feels Like 1979 Again",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/inflation-economy-midterm-elections-2022/661354/"
-    },
-    {
-      "text": "Tom Nichols",
-      "url": "https://www.theatlantic.com/author/tom-nichols/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/"
-    },
-    {
-      "text": "The Constitution Is Whatever the Right Wing Says It Is",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/"
-    },
-    {
-      "text": "Adam Serwer",
-      "url": "https://www.theatlantic.com/author/adam-serwer/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/the-revenge-of-the-court-conservatives/661395/"
-    },
-    {
-      "text": "They Really Did It",
-      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/the-revenge-of-the-court-conservatives/661395/"
-    },
-    {
-      "text": "Tom Nichols",
-      "url": "https://www.theatlantic.com/author/tom-nichols/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/pro-life-dobbs-roe-culture-of-life/661394/"
-    },
-    {
-      "text": "The Pro-life Movement\u2019s Work Is Just Beginning",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/pro-life-dobbs-roe-culture-of-life/661394/"
-    },
-    {
-      "text": "David French",
-      "url": "https://www.theatlantic.com/author/david-french/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/culture/archive/2022/06/baz-luhrmann-elvis-presley-movie-review/661383/"
-    },
-    {
-      "text": "Elvis Is Utterly Disorienting. That\u2019s the Point.",
-      "url": "https://www.theatlantic.com/culture/archive/2022/06/baz-luhrmann-elvis-presley-movie-review/661383/"
-    },
-    {
-      "text": "David Sims",
-      "url": "https://www.theatlantic.com/author/david-sims/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-dobbs-abortion-supreme-court/661363/"
-    },
-    {
-      "text": "If the Supreme Court Can Reverse Roe, It Can Reverse Anything",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-dobbs-abortion-supreme-court/661363/"
-    },
-    {
-      "text": "Mary Ziegler",
-      "url": "https://www.theatlantic.com/author/mary-ziegler/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/poem-dana-levin-without-choice/661382/"
-    },
-    {
-      "text": "Without Choice",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/poem-dana-levin-without-choice/661382/"
-    },
-    {
-      "text": "Dana Levin",
-      "url": "https://www.theatlantic.com/author/dana-levin/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/books-briefing-geraldine-brooks-mieko-kawakami/661359/"
-    },
-    {
-      "text": "Empathy Isn\u2019t Enough",
-      "url": "https://www.theatlantic.com/books/archive/2022/06/books-briefing-geraldine-brooks-mieko-kawakami/661359/"
-    },
-    {
-      "text": "Maya Chung",
-      "url": "https://www.theatlantic.com/author/maya-chung/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/family/archive/2022/06/strangers-can-become-family-adoption/661370/"
-    },
-    {
-      "text": "Adopting My Son Changed My Understanding of Family",
-      "url": "https://www.theatlantic.com/family/archive/2022/06/strangers-can-become-family-adoption/661370/"
-    },
-    {
-      "text": "Sarah Sentilles",
-      "url": "https://www.theatlantic.com/author/sarah-sentilles/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/culture/archive/2022/06/jennifer-lopez-halftime-netflix/661376/"
-    },
-    {
-      "text": "J. Lo\u2019s Tragic Fame Cycle",
-      "url": "https://www.theatlantic.com/culture/archive/2022/06/jennifer-lopez-halftime-netflix/661376/"
-    },
-    {
-      "text": "Shirley Li",
-      "url": "https://www.theatlantic.com/author/shirley-li/"
-    },
-    {
-      "text": "Popular",
-      "url": "https://www.theatlantic.com/most-popular/"
-    },
-    {
-      "text": "see all",
-      "url": "https://www.theatlantic.com/most-popular/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
-    },
-    {
-      "text": "America Is Growing Apart, Possibly for Good",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
-    },
-    {
-      "text": "Ronald Brownstein",
-      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/anti-abortion-movement-dobbs-roe-overturned/661393/"
-    },
-    {
-      "text": "America Is About to See Just How Pro-life Republicans Actually Are",
-      "url": "https://www.theatlantic.com/politics/archive/2022/06/anti-abortion-movement-dobbs-roe-overturned/661393/"
-    },
-    {
-      "text": "Elaine Godfrey",
-      "url": "https://www.theatlantic.com/author/elaine-godfrey/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/summer-air-travel-flights-cancelled/661385/"
-    },
-    {
-      "text": "Air Travel Is a Disaster Right Now. Here\u2019s Why.",
-      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/summer-air-travel-flights-cancelled/661385/"
-    },
-    {
-      "text": "Derek Thompson",
-      "url": "https://www.theatlantic.com/author/derek-thompson/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/"
-    },
-    {
-      "text": "The Constitution Is Whatever the Right Wing Says It Is",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturned-supreme-court-samuel-alito-opinion/661386/"
-    },
-    {
-      "text": "Adam Serwer",
-      "url": "https://www.theatlantic.com/author/adam-serwer/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/inflation-economy-midterm-elections-2022/661354/"
-    },
-    {
-      "text": "It Feels Like 1979 Again",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/inflation-economy-midterm-elections-2022/661354/"
-    },
-    {
-      "text": "Tom Nichols",
-      "url": "https://www.theatlantic.com/author/tom-nichols/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/technology/archive/2022/06/fast-fashion-trends-industry-mass-market-consumption/661371/"
-    },
-    {
-      "text": "Fashion Has Abandoned Human Taste",
-      "url": "https://www.theatlantic.com/technology/archive/2022/06/fast-fashion-trends-industry-mass-market-consumption/661371/"
-    },
-    {
-      "text": "Amanda Mull",
-      "url": "https://www.theatlantic.com/author/amanda-mull/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/us-economy-suffering-infrastructure-energy-housing/661389/"
-    },
-    {
-      "text": "America Wasted Its Chance to Push the Economy Forward",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/06/us-economy-suffering-infrastructure-energy-housing/661389/"
-    },
-    {
-      "text": "Annie Lowrey",
-      "url": "https://www.theatlantic.com/author/annie-lowrey/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/"
-    },
-    {
-      "text": "A Mystery That Took 13,200 Years to Crack",
-      "url": "https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/"
-    },
-    {
-      "text": "Peter Brannen",
-      "url": "https://www.theatlantic.com/author/peter-brannen/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/"
-    },
-    {
-      "text": "Why the Past 10 Years of American Life Have Been Uniquely Stupid",
-      "url": "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/"
-    },
-    {
-      "text": "Jonathan Haidt",
-      "url": "https://www.theatlantic.com/author/jonathan-haidt/"
-    },
-    {
-      "text": "",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/05/supreme-court-roe-handmaids-tale-abortion-margaret-atwood/629833/"
-    },
-    {
-      "text": "I Invented Gilead. The Supreme Court Is Making It Real.",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/05/supreme-court-roe-handmaids-tale-abortion-margaret-atwood/629833/"
-    },
-    {
-      "text": "Margaret Atwood",
-      "url": "https://www.theatlantic.com/author/margaret-atwood/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.theatlantic.com/newsletters/"
-    },
-    {
-      "text": "See All",
-      "url": "https://www.theatlantic.com/newsletters/"
-    },
-    {
-      "text": "Crossword",
-      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
-    },
-    {
-      "text": "Play Crossword",
-      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
-    }
-  ],
-  "uniq": 1532569201,
+  "server": "ia601407.us.archive.org",
+  "uniq": 224969561,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1656289320,
+  "created": 1656366572,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/kqed-2022",
@@ -308,31 +308,157 @@
       "sha1": "886300d6262d3a6cc27d445fbc83611728745406"
     },
     {
+      "name": "kqed-2022-06-26T18:40:55.665494-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656294058",
+      "size": "28546",
+      "md5": "4683392c69428b66092c3c40dbe877d2",
+      "crc32": "cf5c1427",
+      "sha1": "6754c4aba6cbefcaa706e2a23f88145faf73d737",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-26T18:40:55.665494-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656294060",
+      "size": "18745",
+      "md5": "daee2207ffd052380edc866ffd756f3b",
+      "crc32": "d334bb11",
+      "sha1": "f61058a8f25c8c13bf7aa47dbba6e73472fcf891",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-26T18:40:55.665494-07:00.jpg",
+      "source": "original",
+      "mtime": "1656294057",
+      "size": "226297",
+      "md5": "a984584d7724cf35ee5e3aff547557b8",
+      "crc32": "f825995a",
+      "sha1": "7e10eb886fa714dfb6e21bb89ec716fdf480cfcd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-06-26T18:40:55.665494-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-06-26T18:40:55.665494-07:00.jpg",
+      "mtime": "1656294108",
+      "size": "9425",
+      "md5": "0946ffb3ade1b7baf187eb2c5f6cf15d",
+      "crc32": "2c049e82",
+      "sha1": "742400ed8851b77308c9f881ba004758fef76d5d"
+    },
+    {
+      "name": "kqed-2022-06-27T02:35:45.162587-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656322551",
+      "size": "28672",
+      "md5": "5f3b945491927d510e2ca804d527b924",
+      "crc32": "63074283",
+      "sha1": "7c0ef9247dc2436e6ccafc734ce1d62086849603",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-27T02:35:45.162587-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656322555",
+      "size": "18325",
+      "md5": "5dc4d9f7e5a393eebcf4534d97fe5cc2",
+      "crc32": "22165d96",
+      "sha1": "521330ad00408308914794a238b47bf2f81c43b5",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-27T02:35:45.162587-07:00.jpg",
+      "source": "original",
+      "mtime": "1656322546",
+      "size": "225322",
+      "md5": "06aa4cee91cd19d4efcd7b6c632386d4",
+      "crc32": "91017ab9",
+      "sha1": "1f2d6f192849e7a3b8122a048829ac7a9638c392",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-06-27T02:35:45.162587-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-06-27T02:35:45.162587-07:00.jpg",
+      "mtime": "1656322599",
+      "size": "9411",
+      "md5": "522e47f0c93cea026623dd14160d6627",
+      "crc32": "d1704c1a",
+      "sha1": "0f0ba09f20d439ad09c1d49ef3e6c6d4896092b9"
+    },
+    {
+      "name": "kqed-2022-06-27T11:05:01.766786-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656353105",
+      "size": "28127",
+      "md5": "051175f11a491914b8c79ac206d7c6bf",
+      "crc32": "36adf3a1",
+      "sha1": "9f6db4400b0c1203590ba3a14213363cb083e60c",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-27T11:05:01.766786-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656353106",
+      "size": "19011",
+      "md5": "32eb72cc3ce7c99f3e911a796ba49db9",
+      "crc32": "a204cef7",
+      "sha1": "f303d3c11aa16c2b032ee278e576f4073de5df4c",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-27T11:05:01.766786-07:00.jpg",
+      "source": "original",
+      "mtime": "1656353103",
+      "size": "232435",
+      "md5": "c5b9d069c53dc2ee4825057781f793a9",
+      "crc32": "9e7dd6da",
+      "sha1": "26f002dc7b56a16908769f0af9a4179eb3acfbcc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-06-27T11:05:01.766786-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-06-27T11:05:01.766786-07:00.jpg",
+      "mtime": "1656353842",
+      "size": "9475",
+      "md5": "6f2e582eddbd64f5cb1ae0cd3a614f12",
+      "crc32": "aea01320",
+      "sha1": "25f18764d4146479802f74b6b7f2878026517f69"
+    },
+    {
       "name": "kqed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f637be17a25c89eb2c2ca4d5ae7ce50599bfcadc",
-      "mtime": "1656264848",
-      "size": "7360",
-      "md5": "8691b260e1c74443f0475ab7694dafc0",
-      "crc32": "17e27db8",
-      "sha1": "b43cd712557a2a3b123fff8e59268143d95ef952",
+      "btih": "9edfaef6b5c16d3511f9e0f0fe251f375a6e95c6",
+      "mtime": "1656353848",
+      "size": "9840",
+      "md5": "bae586fd5cae5b3a1594155efd0398b3",
+      "crc32": "fed459b4",
+      "sha1": "c420b6ccf496dd1d58a71def2005deca121f9899",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kqed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cac9603c445e755b1d4934a449ab21b8",
+      "md5": "3249cb16d122ad79526ff92b5988181c",
       "summation": "md5"
     },
     {
       "name": "kqed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656264803",
-      "size": "53248",
-      "md5": "818d385d9732560edfe82ec8114ad236",
-      "crc32": "fd96d866",
-      "sha1": "09d5e2fb999fd405b80b9a58e002d8ee173c93ae",
+      "mtime": "1656353109",
+      "size": "65536",
+      "md5": "7be125f98dea64af2115745f62b55584",
+      "crc32": "d96213c0",
+      "sha1": "9b4248d6b61d39d4fd87a5e86a1327416db2ed4b",
       "format": "Metadata"
     },
     {
@@ -346,9 +472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
-  "item_last_updated": 1656264848,
-  "item_size": 1824161,
+  "files_count": 45,
+  "item_last_updated": 1656353848,
+  "item_size": 2692720,
   "kqed-2022": [
     {
       "text": "Skip to Nav",
@@ -871,11 +997,11 @@
       "url": "/campaign21"
     },
     {
-      "text": "Wait Wait... Don't Tell Me!",
-      "url": "/radio/program/wait-wait-dont-tell-me"
+      "text": "Forum",
+      "url": "/forum"
     },
     {
-      "text": "Wait Wait... Don't Tell Me! is NPR's weekly hour-long quiz program. Each week on the radio you can test your knowledge against some of the best and brightest in the news and entertainment world while figuring out what's real news and what's made up. On the Web, you can play along too.",
+      "text": "Author Ben Tarnoff thinks the internet is broken: It is rife with misinformation and vitriolic hate speech. It potentially invades privacy rights. In the United States, it costs way too much to access compared with prices in other countries. And, it\u2019s no surprise that it doesn\u2019t work for consumers, Tarnoff says, because the internet was built by companies focused on power and profit. In his new book, \u201cInternet for the People: The Fight for Our Digital Future,\u201d Tarnoff offers a vision for a better internet that centers on public ownership of internet service providers and companies. We\u2019ll talk to Tarnoff about his hopes for a more utopian internet.",
       "url": "/radio"
     },
     {
@@ -887,11 +1013,11 @@
       "url": "/radio/schedule"
     },
     {
-      "text": "Wait Wait... Don't Tell Me!",
-      "url": "/radio/program/wait-wait-dont-tell-me"
+      "text": "Forum",
+      "url": "/forum"
     },
     {
-      "text": "Wait Wait... Don't Tell Me! is NPR's weekly hour-long quiz program. Each week on the radio you can test your knowledge against some of the best and brightest in the news and entertainment world while figuring out what's real news and what's made up. On the Web, you can play along too.",
+      "text": "Author Ben Tarnoff thinks the internet is broken: It is rife with misinformation and vitriolic hate speech. It potentially invades privacy rights. In the United States, it costs way too much to access compared with prices in other countries. And, it\u2019s no surprise that it doesn\u2019t work for consumers, Tarnoff says, because the internet was built by companies focused on power and profit. In his new book, \u201cInternet for the People: The Fight for Our Digital Future,\u201d Tarnoff offers a vision for a better internet that centers on public ownership of internet service providers and companies. We\u2019ll talk to Tarnoff about his hopes for a more utopian internet.",
       "url": "/radio"
     },
     {
@@ -905,6 +1031,14 @@
     {
       "text": "",
       "url": "/news/11917710/sfpd-officers-to-march-in-pride-amid-complicated-feelings-uniform-compromise"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11918017/i-knew-it-was-coming-but-i-still-cant-believe-it"
     },
     {
       "text": "Save Article",
@@ -937,14 +1071,6 @@
     {
       "text": "",
       "url": "/arts/13915231/as-roe-falls-criminal-defense-lawyers-sound-the-alarm-about-mass-incarceration"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11917866/what-to-consider-about-contraception-and-pregnancy-after-roe-v-wade-is-overturned"
     },
     {
       "text": "Save Article",
@@ -1176,6 +1302,14 @@
     },
     {
       "text": "",
+      "url": "/news/11918017/i-knew-it-was-coming-but-i-still-cant-believe-it"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
       "url": "/news/11917710/sfpd-officers-to-march-in-pride-amid-complicated-feelings-uniform-compromise"
     },
     {
@@ -1217,14 +1351,6 @@
     {
       "text": "",
       "url": "/news/11917866/what-to-consider-about-contraception-and-pregnancy-after-roe-v-wade-is-overturned"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11917796/california-oregon-and-washington-create-coalition-to-increase-abortion-access-for-those-in-other-states"
     },
     {
       "text": "Save Article",
@@ -1371,10 +1497,10 @@
     "publicdate": "2022-06-24 22:56:44",
     "addeddate": "2022-06-24 22:56:44"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 519164007,
+  "server": "ia601505.us.archive.org",
+  "uniq": 421264431,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1656289562,
+  "created": 1656354317,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/wttw-2022",
@@ -352,31 +352,157 @@
       "sha1": "09ba1c56497f3b1297a9f93fff8ce51666bd1d22"
     },
     {
+      "name": "wttw-2022-06-26T20:47:59.307821-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656294482",
+      "size": "17611",
+      "md5": "ab6ded0ec485beea8f957f5cc16955de",
+      "crc32": "4eb0ad30",
+      "sha1": "0e92d84b6517a4b87bd00c529f3db5d7c4317179",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-26T20:47:59.307821-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656294484",
+      "size": "20694",
+      "md5": "4551553abee781a8be04f06f1968b2fb",
+      "crc32": "27bca899",
+      "sha1": "3b925e120a6a2a30d50bb84ce72946198a649c91",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-26T20:47:59.307821-05:00.jpg",
+      "source": "original",
+      "mtime": "1656294481",
+      "size": "344946",
+      "md5": "749d45c565362c081483572e4faab5c9",
+      "crc32": "48502e91",
+      "sha1": "536b459bf40f9dee85474e3f41faa5ef2dbeaaa3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-26T20:47:59.307821-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-26T20:47:59.307821-05:00.jpg",
+      "mtime": "1656294541",
+      "size": "10418",
+      "md5": "4407a8abf5d8df4cedc5d668335f2603",
+      "crc32": "1492fcff",
+      "sha1": "8d89f6de5073d2a1f49cfd4b0012b77c4221d2e3"
+    },
+    {
+      "name": "wttw-2022-06-27T04:42:56.622524-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656322982",
+      "size": "18046",
+      "md5": "bd04ee75aa4864cc697d1a4f7e39276b",
+      "crc32": "adf0deef",
+      "sha1": "9fd53d54f33bfe083757cea0c2f6f268045d24e4",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-27T04:42:56.622524-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656322983",
+      "size": "21164",
+      "md5": "e4fcfe1396b945cdc57db8458e24d75a",
+      "crc32": "5ee7588d",
+      "sha1": "0cbdfc4669ce2d78e155eb237900ee22b6e1ed90",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-27T04:42:56.622524-05:00.jpg",
+      "source": "original",
+      "mtime": "1656322977",
+      "size": "342861",
+      "md5": "2749d00b04b9103cc9aa0a5330177be5",
+      "crc32": "181454ff",
+      "sha1": "2247d5bcbc896e7064d431229138e42e7c3e460d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-27T04:42:56.622524-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-27T04:42:56.622524-05:00.jpg",
+      "mtime": "1656323035",
+      "size": "10532",
+      "md5": "9682a8c538b99352be80808678aac94e",
+      "crc32": "bd120d4e",
+      "sha1": "9534b6d23432dcc95fe19ede40bcbacead3cd322"
+    },
+    {
+      "name": "wttw-2022-06-27T13:14:15.263062-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656353659",
+      "size": "18319",
+      "md5": "9ebd84fbc2d7e2a49e00b7d70fd81f51",
+      "crc32": "a451b2a9",
+      "sha1": "180700b340eaa5341075d6b87dfbb4c272b8f5ab",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-27T13:14:15.263062-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656353661",
+      "size": "22312",
+      "md5": "5a77d59d6f21428171cbc754b85e7bce",
+      "crc32": "754f91a5",
+      "sha1": "cfa3e5d529015092582ed41fd75cab271304a002",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-27T13:14:15.263062-05:00.jpg",
+      "source": "original",
+      "mtime": "1656353658",
+      "size": "350434",
+      "md5": "c715b0804e2421742717632debed5fc9",
+      "crc32": "a791d1bb",
+      "sha1": "fb032246a6e5fcd6b1a5d1b647e0d9ac1c9410fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-27T13:14:15.263062-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-27T13:14:15.263062-05:00.jpg",
+      "mtime": "1656354284",
+      "size": "10319",
+      "md5": "0ae09e98eeab3bf539ba3f6a384a2e52",
+      "crc32": "580bceb2",
+      "sha1": "14589d78799720246680e713e56820f5f4391417"
+    },
+    {
       "name": "wttw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4878388086a7f7c6aca409d1daf276c808d6d9eb",
-      "mtime": "1656265286",
-      "size": "8150",
-      "md5": "2cc41e9021a594f6c6ab1aa0cbf1ef37",
-      "crc32": "7625b728",
-      "sha1": "a481c6689e762b27e439d3ca64429a96062dcc6d",
+      "btih": "23551019d796d2c29846d2ae98bf1b50ad406296",
+      "mtime": "1656354295",
+      "size": "10633",
+      "md5": "21ec4c73ce505d9b9b40d1dac52e5b1d",
+      "crc32": "0cdafb05",
+      "sha1": "708fb0cc0b86ad7ddc95ac4fc7aa4abdee55278f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wttw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "719204a6883fd07be648e906077af449",
+      "md5": "253a6a98b6f0b2c98b12204a5218e005",
       "summation": "md5"
     },
     {
       "name": "wttw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656265244",
-      "size": "53248",
-      "md5": "7b76a846928dccab91fc5b8b5c18311c",
-      "crc32": "0290ab61",
-      "sha1": "23dfac2513d6e55ccef6ba7ede6c19a42786f8c8",
+      "mtime": "1656353665",
+      "size": "65536",
+      "md5": "ecbce856c190e7cce298092c385ad68d",
+      "crc32": "ab24d03a",
+      "sha1": "403aa862e8e3e31baf14ec9262b0021f39b711bd",
       "format": "Metadata"
     },
     {
@@ -390,9 +516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 37,
-  "item_last_updated": 1656265286,
-  "item_size": 1950718,
+  "files_count": 49,
+  "item_last_updated": 1656354295,
+  "item_size": 3153145,
   "metadata": {
     "identifier": "wttw-2022",
     "collection": [
@@ -409,832 +535,10 @@
     "publicdate": "2022-06-24 23:05:07",
     "addeddate": "2022-06-24 23:05:07"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1300869829,
+  "server": "ia801409.us.archive.org",
+  "uniq": 800561433,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
-  ],
-  "wttw-2022": [
-    {
-      "text": "Skip to main content",
-      "url": "#main-content"
-    },
-    {
-      "text": "",
-      "url": "https://www.wttw.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/wttw11/"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/wttw"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/wttwchicago/"
-    },
-    {
-      "text": "",
-      "url": "https://www.youtube.com/wttwchicago"
-    },
-    {
-      "text": "News",
-      "url": "https://news.wttw.com"
-    },
-    {
-      "text": "Food",
-      "url": "https://interactive.wttw.com/food"
-    },
-    {
-      "text": "Neighborhoods",
-      "url": "https://www.wttw.com/geoffreybaer"
-    },
-    {
-      "text": "Kids",
-      "url": "https://www.wttw.com/kids"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.wttw.com"
-    },
-    {
-      "text": "Live TV",
-      "url": "https://interactive.wttw.com/wttw-live-stream"
-    },
-    {
-      "text": "Schedule",
-      "url": "https://www.wttw.com/schedule"
-    },
-    {
-      "text": "Watch",
-      "url": "https://video.wttw.com"
-    },
-    {
-      "text": "Programs",
-      "url": "https://www.wttw.com/programs"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.wttw.com/events"
-    },
-    {
-      "text": "About",
-      "url": "https://www.wttw.com/about"
-    },
-    {
-      "text": "Support",
-      "url": "https://www.wttw.com/support"
-    },
-    {
-      "text": "WTTW Passport",
-      "url": "https://interactive.wttw.com/passport"
-    },
-    {
-      "text": "Shop",
-      "url": "https://secure.wttw.com/catalog"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.wttw.com"
-    },
-    {
-      "text": "News",
-      "url": "https://news.wttw.com"
-    },
-    {
-      "text": "Food",
-      "url": "https://interactive.wttw.com/food"
-    },
-    {
-      "text": "Neighborhoods",
-      "url": "https://www.wttw.com/geoffreybaer"
-    },
-    {
-      "text": "Kids",
-      "url": "https://www.wttw.com/kids"
-    },
-    {
-      "text": "Schedule",
-      "url": "https://www.wttw.com/schedule"
-    },
-    {
-      "text": "Watch",
-      "url": "https://video.wttw.com"
-    },
-    {
-      "text": "Live TV",
-      "url": "https://interactive.wttw.com/wttw-live-stream"
-    },
-    {
-      "text": "10 That Changed America",
-      "url": "https://interactive.wttw.com/ten"
-    },
-    {
-      "text": "Art & Design in Chicago",
-      "url": "https://interactive.wttw.com/art-design-chicago"
-    },
-    {
-      "text": "Beyond Chicago from the Air with Geoffrey Baer",
-      "url": "https://interactive.wttw.com/beyond-chicago-from-the-air"
-    },
-    {
-      "text": "Black Voices",
-      "url": "https://news.wttw.com/voices"
-    },
-    {
-      "text": "Check, Please!",
-      "url": "https://checkplease.wttw.com"
-    },
-    {
-      "text": "Chicago by 'L' with Geoffrey Baer",
-      "url": "https://interactive.wttw.com/chicago-by-l"
-    },
-    {
-      "text": "Chicago from the Air with Geoffrey Baer",
-      "url": "https://interactive.wttw.com/chicago-from-the-air/watch"
-    },
-    {
-      "text": "Chicago Tonight",
-      "url": "https://news.wttw.com"
-    },
-    {
-      "text": "Chicago Tonight: Voices",
-      "url": "https://news.wttw.com/voices"
-    },
-    {
-      "text": "Firsthand: Coronavirus",
-      "url": "https://interactive.wttw.com/firsthand/coronavirus"
-    },
-    {
-      "text": "Firsthand: Gun Violence",
-      "url": "https://interactive.wttw.com/firsthand/gun-violence"
-    },
-    {
-      "text": "Firsthand: Living in Poverty",
-      "url": "https://interactive.wttw.com/firsthand/living-in-poverty-coming-soon"
-    },
-    {
-      "text": "The Great Chicago Fire: A Chicago Stories Special",
-      "url": "https://interactive.wttw.com/chicago-stories/chicago-fire"
-    },
-    {
-      "text": "The Great Chicago Quiz Show",
-      "url": "https://interactive.wttw.com/great-chicago-quiz-show"
-    },
-    {
-      "text": "Ida B. Wells: A Chicago Stories Special",
-      "url": "https://interactive.wttw.com/chicago-stories/ida-b-wells"
-    },
-    {
-      "text": "Latino Voices",
-      "url": "https://news.wttw.com/voices"
-    },
-    {
-      "text": "Prehistoric Road Trip",
-      "url": "https://interactive.wttw.com/prehistoric-road-trip"
-    },
-    {
-      "text": "Urban Nature",
-      "url": "https://interactive.wttw.com/urbannature#!/"
-    },
-    {
-      "text": "All Shows",
-      "url": "https://video.wttw.com"
-    },
-    {
-      "text": "Programs",
-      "url": "https://www.wttw.com/programs"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.wttw.com/events"
-    },
-    {
-      "text": "About",
-      "url": "https://www.wttw.com/about"
-    },
-    {
-      "text": "Support",
-      "url": "https://www.wttw.com/support"
-    },
-    {
-      "text": "Live TV",
-      "url": "https://interactive.wttw.com/wttw-live-stream"
-    },
-    {
-      "text": "Passport",
-      "url": "https://interactive.wttw.com/passport"
-    },
-    {
-      "text": "Shop",
-      "url": "https://secure.wttw.com/catalog"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.wttw.com"
-    },
-    {
-      "text": "Live TV",
-      "url": "https://interactive.wttw.com/wttw-live-stream"
-    },
-    {
-      "text": "Passport",
-      "url": "https://interactive.wttw.com/passport"
-    },
-    {
-      "text": "Shop",
-      "url": "https://secure.wttw.com/catalog"
-    },
-    {
-      "text": "",
-      "url": "https://news.wttw.com/2022/06/25/biden-signs-landmark-gun-measure-says-lives-will-be-saved"
-    },
-    {
-      "text": "Biden Signs Landmark Gun Measure, Says \u2018Lives Will Be Saved\u2019",
-      "url": "https://news.wttw.com/2022/06/25/biden-signs-landmark-gun-measure-says-lives-will-be-saved"
-    },
-    {
-      "text": "Read More",
-      "url": "https://news.wttw.com/2022/06/25/biden-signs-landmark-gun-measure-says-lives-will-be-saved"
-    },
-    {
-      "text": "",
-      "url": "https://news.wttw.com/2022/06/24/supreme-court-overturns-roe-v-wade-states-can-ban-abortion"
-    },
-    {
-      "text": "Supreme Court Overturns Roe v. Wade; States Can Ban Abortion",
-      "url": "https://news.wttw.com/2022/06/24/supreme-court-overturns-roe-v-wade-states-can-ban-abortion"
-    },
-    {
-      "text": "Read More",
-      "url": "https://news.wttw.com/2022/06/24/supreme-court-overturns-roe-v-wade-states-can-ban-abortion"
-    },
-    {
-      "text": "",
-      "url": "https://schedule.wttw.com/episodes/575573/Hotel-Portofino/Lessons/"
-    },
-    {
-      "text": "",
-      "url": "/content/hotel-portofino-lessons"
-    },
-    {
-      "text": "Hotel Portofino: Lessons",
-      "url": "https://schedule.wttw.com/episodes/575573/Hotel-Portofino/Lessons/"
-    },
-    {
-      "text": "Watch Preview",
-      "url": "https://schedule.wttw.com/episodes/575573/Hotel-Portofino/Lessons/?tp=ccebb0e2-b43b-4003-98d0-0c0f4fc865f8"
-    },
-    {
-      "text": "Hotel Portofino: First Impressions",
-      "url": "https://video.wttw.com/video/first-impressions-t3buit/"
-    },
-    {
-      "text": "",
-      "url": "https://video.wttw.com/video/first-impressions-t3buit/"
-    },
-    {
-      "text": "Enter the Treasure Hunt!",
-      "url": "https://interactive.wttw.com/sweepstakes-2022"
-    },
-    {
-      "text": "",
-      "url": "https://interactive.wttw.com/sweepstakes-2022"
-    },
-    {
-      "text": "Exploring The Great American Recipe",
-      "url": "https://video.wttw.com/video/exploring-great-american-recipe-tnjx2k/"
-    },
-    {
-      "text": "",
-      "url": "https://video.wttw.com/video/exploring-great-american-recipe-tnjx2k/"
-    },
-    {
-      "text": "13 Children\u2019s Books About Race and Diversity",
-      "url": "https://www.pbs.org/parents/thrive/childrens-books-about-race-and-diversity"
-    },
-    {
-      "text": "",
-      "url": "https://www.pbs.org/parents/thrive/childrens-books-about-race-and-diversity"
-    },
-    {
-      "text": "",
-      "url": "https://news.wttw.com/2022/06/23/chicago-tonight-your-neighborhood-pride-parade-returns-northalsted"
-    },
-    {
-      "text": "\u2018Chicago Tonight\u2019 in Your Neighborhood: Pride Parade Returns in Northalsted",
-      "url": "https://news.wttw.com/2022/06/23/chicago-tonight-your-neighborhood-pride-parade-returns-northalsted"
-    },
-    {
-      "text": "",
-      "url": "https://interactive.wttw.com/playlist/2022/05/23/great-american-recipe-interview-graham-elliot"
-    },
-    {
-      "text": "Chef Graham Elliot on a New PBS Cooking Competition Show",
-      "url": "https://interactive.wttw.com/playlist/2022/05/23/great-american-recipe-interview-graham-elliot"
-    },
-    {
-      "text": "",
-      "url": "https://interactive.wttw.com/newsletter"
-    },
-    {
-      "text": "A New Food Newsletter",
-      "url": "https://interactive.wttw.com/newsletter"
-    },
-    {
-      "text": "",
-      "url": "https://news.wttw.com/2022/06/23/amazing-5-planet-alignment-putting-lengthy-show-here-are-viewing-tips"
-    },
-    {
-      "text": "Amazing 5-Planet Alignment Putting on Lengthy Show. Here Are Viewing Tips",
-      "url": "https://news.wttw.com/2022/06/23/amazing-5-planet-alignment-putting-lengthy-show-here-are-viewing-tips"
-    },
-    {
-      "text": "",
-      "url": "https://www.pbs.org/parents/thrive/how-to-talk-to-your-child-about-vaccines"
-    },
-    {
-      "text": "How to Talk to Your Child About Vaccines",
-      "url": "https://www.pbs.org/parents/thrive/how-to-talk-to-your-child-about-vaccines"
-    },
-    {
-      "text": "",
-      "url": "https://interactive.wttw.com/sweepstakes"
-    },
-    {
-      "text": "Grand Prize: 2023 Subaru Crosstrek",
-      "url": "https://interactive.wttw.com/sweepstakes"
-    },
-    {
-      "text": "Learn more",
-      "url": "http://interactive.wttw.com/support/corporate-support"
-    },
-    {
-      "text": "Full Schedule >",
-      "url": "https://schedule.wttw.com/"
-    },
-    {
-      "text": "Great Performances at the Met",
-      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
-    },
-    {
-      "text": "Rigoletto",
-      "url": "//schedule.wttw.com/episodes/574812/Great-Performances-at-the-Met/Rigoletto"
-    },
-    {
-      "text": "Go Figure: The Randy Gardner Story",
-      "url": "//schedule.wttw.com/series/34253/Go-Figure:-The-Randy-Gardner-Story"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/564273/Go-Figure:-The-Randy-Gardner-Story/"
-    },
-    {
-      "text": "Out In Rural America",
-      "url": "//schedule.wttw.com/series/31535/Out-In-Rural-America"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/517690/Out-In-Rural-America/"
-    },
-    {
-      "text": "Prideland",
-      "url": "//schedule.wttw.com/series/30992/Prideland"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/507135/Prideland/"
-    },
-    {
-      "text": "PBS Newshour Weekend",
-      "url": "//schedule.wttw.com/series/20076/PBS-Newshour-Weekend"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/533181/PBS-Newshour-Weekend/"
-    },
-    {
-      "text": "Great Performances at the Met",
-      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
-    },
-    {
-      "text": "Rigoletto",
-      "url": "//schedule.wttw.com/episodes/574812/Great-Performances-at-the-Met/Rigoletto"
-    },
-    {
-      "text": "Go Figure: The Randy Gardner Story",
-      "url": "//schedule.wttw.com/series/34253/Go-Figure:-The-Randy-Gardner-Story"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/564273/Go-Figure:-The-Randy-Gardner-Story/"
-    },
-    {
-      "text": "Out In Rural America",
-      "url": "//schedule.wttw.com/series/31535/Out-In-Rural-America"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/517690/Out-In-Rural-America/"
-    },
-    {
-      "text": "Prideland",
-      "url": "//schedule.wttw.com/series/30992/Prideland"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/507135/Prideland/"
-    },
-    {
-      "text": "PBS Newshour Weekend",
-      "url": "//schedule.wttw.com/series/20076/PBS-Newshour-Weekend"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/533181/PBS-Newshour-Weekend/"
-    },
-    {
-      "text": "Great Performances at the Met",
-      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
-    },
-    {
-      "text": "Rigoletto",
-      "url": "//schedule.wttw.com/episodes/574812/Great-Performances-at-the-Met/Rigoletto"
-    },
-    {
-      "text": "Go Figure: The Randy Gardner Story",
-      "url": "//schedule.wttw.com/series/34253/Go-Figure:-The-Randy-Gardner-Story"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/564273/Go-Figure:-The-Randy-Gardner-Story/"
-    },
-    {
-      "text": "Out In Rural America",
-      "url": "//schedule.wttw.com/series/31535/Out-In-Rural-America"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/517690/Out-In-Rural-America/"
-    },
-    {
-      "text": "Prideland",
-      "url": "//schedule.wttw.com/series/30992/Prideland"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/507135/Prideland/"
-    },
-    {
-      "text": "PBS Newshour Weekend",
-      "url": "//schedule.wttw.com/series/20076/PBS-Newshour-Weekend"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/533181/PBS-Newshour-Weekend/"
-    },
-    {
-      "text": "Great Performances at the Met",
-      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
-    },
-    {
-      "text": "Rigoletto",
-      "url": "//schedule.wttw.com/episodes/574812/Great-Performances-at-the-Met/Rigoletto"
-    },
-    {
-      "text": "Go Figure: The Randy Gardner Story",
-      "url": "//schedule.wttw.com/series/34253/Go-Figure:-The-Randy-Gardner-Story"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/564273/Go-Figure:-The-Randy-Gardner-Story/"
-    },
-    {
-      "text": "Out In Rural America",
-      "url": "//schedule.wttw.com/series/31535/Out-In-Rural-America"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/517690/Out-In-Rural-America/"
-    },
-    {
-      "text": "Prideland",
-      "url": "//schedule.wttw.com/series/30992/Prideland"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/507135/Prideland/"
-    },
-    {
-      "text": "PBS Newshour Weekend",
-      "url": "//schedule.wttw.com/series/20076/PBS-Newshour-Weekend"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/533181/PBS-Newshour-Weekend/"
-    },
-    {
-      "text": "Great Performances at the Met",
-      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
-    },
-    {
-      "text": "Rigoletto",
-      "url": "//schedule.wttw.com/episodes/574812/Great-Performances-at-the-Met/Rigoletto"
-    },
-    {
-      "text": "Go Figure: The Randy Gardner Story",
-      "url": "//schedule.wttw.com/series/34253/Go-Figure:-The-Randy-Gardner-Story"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/564273/Go-Figure:-The-Randy-Gardner-Story/"
-    },
-    {
-      "text": "Out In Rural America",
-      "url": "//schedule.wttw.com/series/31535/Out-In-Rural-America"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/517690/Out-In-Rural-America/"
-    },
-    {
-      "text": "Prideland",
-      "url": "//schedule.wttw.com/series/30992/Prideland"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/507135/Prideland/"
-    },
-    {
-      "text": "PBS Newshour Weekend",
-      "url": "//schedule.wttw.com/series/20076/PBS-Newshour-Weekend"
-    },
-    {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/533181/PBS-Newshour-Weekend/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://interactive.wttw.com/newsletter"
-    },
-    {
-      "text": "WTTW News",
-      "url": "https://news.wttw.com"
-    },
-    {
-      "text": "Main",
-      "url": "https://news.wttw.com"
-    },
-    {
-      "text": "Video",
-      "url": "https://news.wttw.com/video"
-    },
-    {
-      "text": "Archive",
-      "url": "https://news.wttw.com/archive"
-    },
-    {
-      "text": "Politics",
-      "url": "https://news.wttw.com/politics"
-    },
-    {
-      "text": "Education",
-      "url": "https://news.wttw.com/education"
-    },
-    {
-      "text": "Business",
-      "url": "https://news.wttw.com/business"
-    },
-    {
-      "text": "Culture",
-      "url": "https://news.wttw.com/culture"
-    },
-    {
-      "text": "Science/Technology",
-      "url": "https://news.wttw.com/science-technology"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://news.wttw.com/contact"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://news.wttw.com/content/wttw-business-partners"
-    },
-    {
-      "text": "About Us",
-      "url": "https://news.wttw.com/about"
-    },
-    {
-      "text": "Internships",
-      "url": "https://interactive.wttw.com/about/employment/internship-program-information"
-    },
-    {
-      "text": "Send Us a Tip",
-      "url": "https://news.wttw.com/contact"
-    },
-    {
-      "text": "Schedule",
-      "url": "https://schedule.wttw.com"
-    },
-    {
-      "text": "WTTW",
-      "url": "https://schedule.wttw.com/"
-    },
-    {
-      "text": "WTTW Prime",
-      "url": "https://schedule.wttw.com/"
-    },
-    {
-      "text": "WTTW Create",
-      "url": "https://schedule.wttw.com/"
-    },
-    {
-      "text": "WTTW/PBS Kids",
-      "url": "https://www.wttw.com/kids"
-    },
-    {
-      "text": "WTTW World",
-      "url": "https://schedule.wttw.com/"
-    },
-    {
-      "text": "Program Guide",
-      "url": "https://www.wttw.com/sites/default/files/WTTWWFMTGuide_June_2022.pdf"
-    },
-    {
-      "text": "Watch",
-      "url": "https://video.wttw.com"
-    },
-    {
-      "text": "All Video",
-      "url": "https://video.wttw.com"
-    },
-    {
-      "text": "Kids Video",
-      "url": "https://www.wttw.com/kids"
-    },
-    {
-      "text": "Live Stream",
-      "url": "https://interactive.wttw.com/wttw-live-stream"
-    },
-    {
-      "text": "Programs",
-      "url": "https://www.wttw.com/programs"
-    },
-    {
-      "text": "Programs A-Z",
-      "url": "https://www.wttw.com/programs"
-    },
-    {
-      "text": "Playlist",
-      "url": "https://interactive.wttw.com/playlist"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.wttw.com/events"
-    },
-    {
-      "text": "Event Calendar",
-      "url": "https://www.wttw.com/events"
-    },
-    {
-      "text": "About",
-      "url": "https://interactive.wttw.com/about/mission"
-    },
-    {
-      "text": "Our Mission",
-      "url": "https://interactive.wttw.com/about/mission"
-    },
-    {
-      "text": "Our History",
-      "url": "https://interactive.wttw.com/about/history"
-    },
-    {
-      "text": "Our Sponsors",
-      "url": "https://interactive.wttw.com/about/sponsors"
-    },
-    {
-      "text": "Chicago Production Center",
-      "url": "https://cpc.wttw.com/"
-    },
-    {
-      "text": "Local Productions",
-      "url": "https://interactive.wttw.com/about/productions/wttw-local-productions"
-    },
-    {
-      "text": "National Syndication",
-      "url": "https://interactive.wttw.com/about/productions/wttw-national-productions"
-    },
-    {
-      "text": "Pressroom",
-      "url": "https://interactive.wttw.com/about/pressroom"
-    },
-    {
-      "text": "Management & Board",
-      "url": "https://interactive.wttw.com/about/management-board"
-    },
-    {
-      "text": "Advisory Board",
-      "url": "https://interactive.wttw.com/about/community-advisory-board"
-    },
-    {
-      "text": "Financial Information",
-      "url": "https://interactive.wttw.com/about/financial-information"
-    },
-    {
-      "text": "Employment",
-      "url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/jobSearch?org=WWCI&cws=40"
-    },
-    {
-      "text": "Volunteer",
-      "url": "https://interactive.wttw.com/volunteer"
-    },
-    {
-      "text": "Directions",
-      "url": "https://interactive.wttw.com/about/location"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://interactive.wttw.com/about/contact-us"
-    },
-    {
-      "text": "Support",
-      "url": "https://interactive.wttw.com/support"
-    },
-    {
-      "text": "Support WTTW",
-      "url": "https://interactive.wttw.com/support"
-    },
-    {
-      "text": "Join/Renew - Pledge",
-      "url": "https://secure.wttw.com/"
-    },
-    {
-      "text": "Offers & Contests",
-      "url": "https://interactive.wttw.com/support/contests"
-    },
-    {
-      "text": "Member Perks",
-      "url": "https://interactive.wttw.com/support/membership/member-perks"
-    },
-    {
-      "text": "Membership",
-      "url": "https://interactive.wttw.com/support/membership"
-    },
-    {
-      "text": "Family Membership",
-      "url": "https://interactive.wttw.com/support/membership/kidsclub"
-    },
-    {
-      "text": "Corporate/Foundation Gifts",
-      "url": "https://interactive.wttw.com/support/corporate-support"
-    },
-    {
-      "text": "Major/Planned Gifts",
-      "url": "https://wttw.giftplans.org/"
-    },
-    {
-      "text": "Vehicle Donation",
-      "url": "https://interactive.wttw.com/support/vehicle-donation"
-    },
-    {
-      "text": "Volunteer",
-      "url": "https://interactive.wttw.com/volunteer"
-    },
-    {
-      "text": "Membership FAQs",
-      "url": "https://interactive.wttw.com/support/membership"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://interactive.wttw.com/about/contact-us"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://interactive.wttw.com/wwci-privacy-policy"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://interactive.wttw.com/terms-of-use"
-    },
-    {
-      "text": "Public File",
-      "url": "https://publicfiles.fcc.gov/tv-profile/wttw"
-    },
-    {
-      "text": "WWCI",
-      "url": "https://interactive.wttw.com/about/mission"
-    },
-    {
-      "text": "",
-      "url": "https://www.wfmt.com"
-    },
-    {
-      "text": "",
-      "url": "https://interactive.wttw.com/sweepstakes-2022/enter?s=T-SWP-May22-WB-Overlay-02"
-    }
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

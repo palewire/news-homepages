@@ -1,5 +1,5 @@
 {
-  "created": 1656264792,
+  "created": 1656353855,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/10/items/franceinfo-2022",
@@ -4678,31 +4678,157 @@
       "sha1": "24a26517dbac593421a7605907ee649a623e8166"
     },
     {
+      "name": "franceinfo-2022-06-27T03:39:53.728072+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656293996",
+      "size": "94561",
+      "md5": "c40ca0e8e39a439fae6650eef31933dc",
+      "crc32": "2b90dc18",
+      "sha1": "bfdd799905f011a89b408fc6ebf4a6306439a07d",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-06-27T03:39:53.728072+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656293998",
+      "size": "139235",
+      "md5": "a6411aceb4a4dcb8e26b92eb00ccb924",
+      "crc32": "47abf67a",
+      "sha1": "a9c4f5e51ee1683449946ddd0337d445c2147541",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-06-27T03:39:53.728072+02:00.jpg",
+      "source": "original",
+      "mtime": "1656293994",
+      "size": "321001",
+      "md5": "63fa39080b28347e3c61ddfd7b3578fb",
+      "crc32": "42b509c2",
+      "sha1": "73e348b964dd43763052e463d870a79aaac26f13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-06-27T03:39:53.728072+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-06-27T03:39:53.728072+02:00.jpg",
+      "mtime": "1656294062",
+      "size": "11260",
+      "md5": "eee48193745a60d4a9225b5f6e41c978",
+      "crc32": "3eccea4b",
+      "sha1": "1493677bdd30c546e858e6cfd78094e1a6ce1503"
+    },
+    {
+      "name": "franceinfo-2022-06-27T11:33:58.540685+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656322441",
+      "size": "87847",
+      "md5": "088d6e77a0065f6551febefb7ed5c423",
+      "crc32": "692e6b01",
+      "sha1": "0df985be92c1d6cd2076f3e6915e0b59b4c8a532",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-06-27T11:33:58.540685+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656322444",
+      "size": "136147",
+      "md5": "6c6c30ca763cb8a9d760637ae34e62f2",
+      "crc32": "3926a333",
+      "sha1": "9a2510025b29fa3357e83e532e58514ee5f3506c",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-06-27T11:33:58.540685+02:00.jpg",
+      "source": "original",
+      "mtime": "1656322439",
+      "size": "274750",
+      "md5": "e6ce20226cec611674bca96f6735fbda",
+      "crc32": "a2699d78",
+      "sha1": "38fbbbd4382a412a49fa3d16c4fdfc062b595a03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-06-27T11:33:58.540685+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-06-27T11:33:58.540685+02:00.jpg",
+      "mtime": "1656322529",
+      "size": "9913",
+      "md5": "d758a10a09d12d6a3d633f764a41338f",
+      "crc32": "ce6aa3a7",
+      "sha1": "f1459d31719cbfb99bc55588b0e37749f71ffd3a"
+    },
+    {
+      "name": "franceinfo-2022-06-27T20:03:52.559745+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656353035",
+      "size": "88760",
+      "md5": "f130fb931beacc48e11f1f252831c351",
+      "crc32": "238512e1",
+      "sha1": "b56fa98b86bbfd2da9fceaeadbaf8839304148a8",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-06-27T20:03:52.559745+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656353037",
+      "size": "136188",
+      "md5": "0d47a7127158082b33f4cdc203305ddf",
+      "crc32": "bd351a79",
+      "sha1": "9e47e74ff30a47051455433852a6068af9e4f83b",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-06-27T20:03:52.559745+02:00.jpg",
+      "source": "original",
+      "mtime": "1656353033",
+      "size": "286146",
+      "md5": "b8d4ca51d960d0d8f1467e5b3e640ce2",
+      "crc32": "ae680b54",
+      "sha1": "95cded6e98e9bac5304ca12d34bcdf85f24c213d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-06-27T20:03:52.559745+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-06-27T20:03:52.559745+02:00.jpg",
+      "mtime": "1656353810",
+      "size": "10442",
+      "md5": "92b4780eb993afe302ef9152298c7a0a",
+      "crc32": "568781df",
+      "sha1": "c3b07e1a8d396461d11e487133a28da97377184d"
+    },
+    {
       "name": "franceinfo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "64ef7546252fbedc75ea75ff3aba824f7d8827a5",
-      "mtime": "1656264786",
-      "size": "97266",
-      "md5": "e7e91c005bfbaca368f0af34c45bb4cd",
-      "crc32": "754f872d",
-      "sha1": "6b92969ecf6d9362d74a7adb0065bfa3f7901d82",
+      "btih": "3cb46138971250a30f0598ab5cb6f9208b303306",
+      "mtime": "1656353823",
+      "size": "99842",
+      "md5": "95dd9be84cafe06231395fd1c3b26474",
+      "crc32": "4467ac91",
+      "sha1": "97e8e1de9920135deb57dd89d40b3a63610d71e1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "franceinfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "21696f662f6f745da791bbebd532ad26",
+      "md5": "22ada9e65dddcecf35c863858bd8fc33",
       "summation": "md5"
     },
     {
       "name": "franceinfo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656264734",
-      "size": "528384",
-      "md5": "cb81b4866ca16ca8b953952ccb275710",
-      "crc32": "968d1c42",
-      "sha1": "ea72e92b7fe893d78aec8bfb0689de09e6fa4dbe",
+      "mtime": "1656353061",
+      "size": "540672",
+      "md5": "25fbdccff3d0e802595f84f79c0f81ad",
+      "crc32": "34c695c5",
+      "sha1": "bd0d5ac1aa1c3a77121b7f00e9a7f163fd098ad6",
       "format": "Metadata"
     },
     {
@@ -4716,9 +4842,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 449,
-  "item_last_updated": 1656264786,
-  "item_size": 63647393,
+  "files_count": 461,
+  "item_last_updated": 1656353823,
+  "item_size": 65258507,
   "metadata": {
     "identifier": "franceinfo-2022",
     "collection": [
@@ -4735,10 +4861,10 @@
     "publicdate": "2022-04-09 13:42:09",
     "addeddate": "2022-04-09 13:42:09"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 116029818,
+  "server": "ia802504.us.archive.org",
+  "uniq": 145052366,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

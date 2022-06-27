@@ -1,5 +1,5 @@
 {
-  "created": 1656289448,
+  "created": 1656366690,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/qz-2022",
@@ -1234,31 +1234,157 @@
       "sha1": "b706edae216d3fe63bc9113d6c920cbe5eeb6234"
     },
     {
+      "name": "qz-2022-06-26T21:44:35.077595-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656294281",
+      "size": "14521",
+      "md5": "032a344c66986ee5ea4702256e12e1c3",
+      "crc32": "95c9772a",
+      "sha1": "c962f752e7e138c407d9f53d0debb175c2f8ffd2",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-26T21:44:35.077595-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656294282",
+      "size": "14020",
+      "md5": "a63e478b782a2fc21e92abba10c603d4",
+      "crc32": "c0751fea",
+      "sha1": "cd6e989e93d932c5efa8c5fc7b66b3b1722f8590",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-26T21:44:35.077595-04:00.jpg",
+      "source": "original",
+      "mtime": "1656294280",
+      "size": "266460",
+      "md5": "152ad2f314d094571a45bad2996545cd",
+      "crc32": "e3dd8b43",
+      "sha1": "b1c504d667e44b98642518f3ce8ecc827d58d89e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-26T21:44:35.077595-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-26T21:44:35.077595-04:00.jpg",
+      "mtime": "1656294328",
+      "size": "8717",
+      "md5": "a36b6f57afc0e574a5708063ba840eb7",
+      "crc32": "0c2aa249",
+      "sha1": "881ce7e9840c7f72a5cae4c7bcb4f18831a06cdd"
+    },
+    {
+      "name": "qz-2022-06-27T05:38:27.063490-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656322711",
+      "size": "14526",
+      "md5": "3774b013dd949a7e866ebb2d870f7838",
+      "crc32": "075fd307",
+      "sha1": "3417a268a5fbaf80fb43f4a88799d283c5228524",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-27T05:38:27.063490-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656322713",
+      "size": "14048",
+      "md5": "2c7926dd07be4ce150fd688d1ea7aeac",
+      "crc32": "075b596f",
+      "sha1": "f625b557cbfa00923684895ded3a6eeedc49d32d",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-27T05:38:27.063490-04:00.jpg",
+      "source": "original",
+      "mtime": "1656322709",
+      "size": "267618",
+      "md5": "09d27bee10cbd93fd2788476e511579d",
+      "crc32": "6a58668d",
+      "sha1": "c36c7a20b4459119d85911e10d6109dc058538fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-27T05:38:27.063490-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-27T05:38:27.063490-04:00.jpg",
+      "mtime": "1656322766",
+      "size": "8753",
+      "md5": "25c7225b8a862cb277296351a421d266",
+      "crc32": "741ec5f7",
+      "sha1": "54b98ed72309bfda142ccd62c70dee4fdacaff35"
+    },
+    {
+      "name": "qz-2022-06-27T14:09:37.942829-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656353382",
+      "size": "15002",
+      "md5": "ecc54c1c6642f2b509f2fe2867e243c2",
+      "crc32": "d5d29e4a",
+      "sha1": "a503cbe7ee6305dc98572362ac01edca76bfb5ce",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-27T14:09:37.942829-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656353383",
+      "size": "14617",
+      "md5": "160991f79a3e6ed3ccfda318fb83ec92",
+      "crc32": "49f78d59",
+      "sha1": "cd0541d2ee4ab1b1db305231bfad134e51ffce0d",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-27T14:09:37.942829-04:00.jpg",
+      "source": "original",
+      "mtime": "1656353380",
+      "size": "273981",
+      "md5": "64e4cda9cc2e692afe2b7530edc5ec5f",
+      "crc32": "c3f35499",
+      "sha1": "af9b959bbe5be8918dacd22da3c082815976f6bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-27T14:09:37.942829-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-27T14:09:37.942829-04:00.jpg",
+      "mtime": "1656354131",
+      "size": "8946",
+      "md5": "d5371a41f62bdffe4f5d8d226c78a62f",
+      "crc32": "27472e7b",
+      "sha1": "d298e313014763b984e66e5676a3e18094716c0f"
+    },
+    {
       "name": "qz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09f589465c3f113e8d6231e411f9f9535a03224b",
-      "mtime": "1656265042",
-      "size": "25217",
-      "md5": "7f85b931f7da193a610c7ebeb999b387",
-      "crc32": "761761cf",
-      "sha1": "297d65807c15e7f0b86a2399d65ba21f845d1093",
+      "btih": "4d50a8196293166d7004ad2d115a4f33f2e74e3e",
+      "mtime": "1656354136",
+      "size": "27672",
+      "md5": "50f9bccb273da4bb327eaad6acadcf78",
+      "crc32": "43358aaf",
+      "sha1": "65eb06e62699f633d6f512240d9998aaf6c5bb9a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "139f7f5df9d770f3afe0f561768e048a",
+      "md5": "60e35c2809b67b21455d996aacbf4af9",
       "summation": "md5"
     },
     {
       "name": "qz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656264998",
-      "size": "155648",
-      "md5": "7fa8d4d2d1692e0c98573308ca153006",
-      "crc32": "2cf7a959",
-      "sha1": "ceeeedd1fe983031a00fa161a77403e2f9983a05",
+      "mtime": "1656353391",
+      "size": "167936",
+      "md5": "f1ed95de7140e08a2ca73a7f98d2569e",
+      "crc32": "243a5139",
+      "sha1": "5195ef3f96351b6322837d406ce18658a84b1709",
       "format": "Metadata"
     },
     {
@@ -1272,9 +1398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 121,
-  "item_last_updated": 1656265042,
-  "item_size": 8174854,
+  "files_count": 133,
+  "item_last_updated": 1656354136,
+  "item_size": 9110806,
   "metadata": {
     "identifier": "qz-2022",
     "collection": [
@@ -1501,32 +1627,52 @@
       "url": "/emails/daily-brief/"
     },
     {
-      "text": "What abortion access will look like now in the US",
-      "url": "https://qz.com/2176050/where-is-abortion-legal-in-the-us/"
+      "text": "began to close",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-61933814"
     },
     {
-      "text": "The US Supreme Court has named other freedoms on the line",
+      "text": "Pride events",
+      "url": "https://www.nbcnews.com/news/us-news/supreme-court-abortion-decision-casts-shadow-pride-marches-us-rcna35371"
+    },
+    {
+      "text": "new urgency",
       "url": "https://qz.com/2181953/roe-v-wade-scotus-lists-freedoms-its-ready-to-take-away-next/"
     },
     {
-      "text": "How the three dissenting judges argued against overturning Roe v. Wade",
-      "url": "https://qz.com/2182099/powerful-quotes-from-the-dissenting-opinion-to-overturning-roe-v-wade/"
+      "text": "among those",
+      "url": "https://qz.com/work/2161510/the-growing-list-of-us-companies-expanding-abortion-benefits/"
     },
     {
-      "text": "How overturning Roe v. Wade will hurt the US economy",
-      "url": "https://qz.com/2164536/overturning-roe-v-wade-will-hurt-the-us-economy/"
+      "text": "made commitments",
+      "url": "https://www.theguardian.com/us-news/2022/jun/26/us-companies-pay-travel-costs-for-employees-seeking-abortions"
     },
     {
-      "text": "How US state abortion laws compare globally",
-      "url": "https://qz.com/2161542/how-us-state-abortion-laws-compare-globally/"
+      "text": "making the switch",
+      "url": "https://apnews.com/article/2022-midterm-elections-biden-covid-health-presidential-e50db07385831e67f866ec45402be8b9"
     },
     {
-      "text": "A list of countries where abortion is illegal",
-      "url": "https://qz.com/2161476/a-list-of-countries-where-abortion-is-illegal/"
+      "text": "The plan",
+      "url": "https://abcnews.go.com/Politics/rolls-global-infrastructure-plan-us-aims-contribute-200b/story?id=85739292"
     },
     {
-      "text": "Roe v. Wade reading list",
-      "url": "https://qz.com/re/roe-v-wade/"
+      "text": "impending",
+      "url": "https://www.reuters.com/business/energy/g7-hike-sanctions-russia-close-oil-price-cap-deal-us-official-2022-06-27/"
+    },
+    {
+      "text": "sanctions",
+      "url": "https://www.aljazeera.com/news/2022/6/26/g7-nations-to-ban-import-of-russian-gold-us"
+    },
+    {
+      "text": "first foreign debt default",
+      "url": "https://www.reuters.com/markets/europe/russia-slides-towards-default-payment-deadline-expires-2022-06-26/"
+    },
+    {
+      "text": "bids to join",
+      "url": "https://www.aljazeera.com/news/2022/6/26/thousands-demonstrate-in-madrid-ahead-of-nato-summit"
+    },
+    {
+      "text": "indigenous protests",
+      "url": "https://apnews.com/article/politics-caribbean-guillermo-lasso-ecuador-1c1b8520d4b73cdb10d913f07e624d0f"
     },
     {
       "text": "Quartz Privacy Policy",
@@ -1534,7 +1680,7 @@
     },
     {
       "text": "Read full briefing",
-      "url": "/essentials/2181997/june-25-26-2022-briefing/"
+      "url": "/essentials/2182335/june-27-2022-briefing/"
     },
     {
       "text": "All",
@@ -1553,32 +1699,32 @@
       "url": "/africa/latest/"
     },
     {
+      "text": ".ArtDirection__70899 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__70899 { padding-bottom: 56.66666666666667%; } }The postal service is already one of the US\u2019s main abortion providersQuartz \u2022 34 minutes ago",
+      "url": "/2182395/abortion-pills-by-mail-will-become-a-battleground-for-access/"
+    },
+    {
+      "text": ".ArtDirection__76091 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__76091 { padding-bottom: 56.66666666666667%; } }How much is Kate Bush making from \u201cRunning Up That Hill\u201d?Quartz \u2022 39 minutes ago",
+      "url": "/2182571/how-much-is-kate-bush-making-from-running-up-that-hill/"
+    },
+    {
+      "text": ".ArtDirection__51831 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__51831 { padding-bottom: 56.66666666666667%; } }One London insurance group is the key to squeezing Russia\u2019s oil revenuesQuartz \u2022 3 hours ago",
+      "url": "/2182390/one-insurance-group-is-the-key-to-squeezing-russias-oil-revenues/"
+    },
+    {
+      "text": ".ArtDirection__72531 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__72531 { padding-bottom: 56.66666666666667%; } }Walmart is offering doula benefitsQuartz \u2022 5 hours ago",
+      "url": "/2181586/walmart-benefits-include-a-doula/"
+    },
+    {
+      "text": ".ArtDirection__73055 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__73055 { padding-bottom: 56.66666666666667%; } }Can bankers fix their climate problem from the inside?Quartz \u2022 June 27, 2022",
+      "url": "/2180300/can-bankers-fix-their-climate-problem-from-the-inside/"
+    },
+    {
+      "text": ".ArtDirection__49335 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__49335 { padding-bottom: 56.66666666666667%; } }G7 leaders meet to discuss action plan for Russia and inflationQuartz \u2022 June 26, 2022",
+      "url": "/2182298/g7-leaders-meet-to-discuss-action-plan-for-russia-and-inflation/"
+    },
+    {
       "text": ".ArtDirection__68755 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__68755 { padding-bottom: 56.66666666666667%; } }To fight abortion stigma, frame it as healthcareQuartz \u2022 June 25, 2022",
       "url": "/2177641/how-mexico-used-the-right-to-health-to-protect-abortion/"
-    },
-    {
-      "text": ".ArtDirection__54987 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__54987 { padding-bottom: 56.66666666666667%; } }What\u2019s the song of the summer for 2022?Quartz \u2022 June 25, 2022",
-      "url": "/2181068/whats-the-song-of-the-summer-for-2022/"
-    },
-    {
-      "text": ".ArtDirection__69063 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__69063 { padding-bottom: 56.66666666666667%; } }Rumors of an Apple AR or VR headset just entered a new phaseQuartz \u2022 June 24, 2022",
-      "url": "/2182152/apples-ar-or-vr-wearable-device-is-now-even-closer-to-release/"
-    },
-    {
-      "text": ".ArtDirection__56007 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__56007 { padding-bottom: 56.66666666666667%; } }Alito made a tiny edit to his abortion opinion that reveals the weakness of his argumentQuartz \u2022 June 24, 2022",
-      "url": "/2182172/edit-in-alitos-abortion-opinion-reveals-weakness-in-legal-argument/"
-    },
-    {
-      "text": ".ArtDirection__67651 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__67651 { padding-bottom: 56.66666666666667%; } }The laws Alito cited in striking down Roe were passed before women could voteQuartz \u2022 June 24, 2022",
-      "url": "/2182156/scotus-overturned-roe-citing-laws-passed-before-women-could-vote/"
-    },
-    {
-      "text": ".ArtDirection__67655 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__67655 { padding-bottom: 56.66666666666667%; } }Abortion bans don\u2019t reduce abortions, they just make them less safeQuartz \u2022 June 24, 2022",
-      "url": "/2182193/abortion-bans-dont-lower-abortion-rates/"
-    },
-    {
-      "text": ".ArtDirection__54003 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__54003 { padding-bottom: 56.66666666666667%; } }Olive Garden, and other Darden restaurants, are not struggling to find restaurant workersQuartz \u2022 June 24, 2022",
-      "url": "/2182006/olive-garden-and-other-darden-restaurants-are-fully-staffed/"
     },
     {
       "text": "More latest stories",
@@ -1589,20 +1735,20 @@
       "url": "/india/2181236/ola-blinkit-and-others-laid-off-10000-employees-in-2022/"
     },
     {
-      "text": ".ArtDirection__52495 { padding-bottom: 100%; }India\u2019s crypto exchanges cheer the clarification issued on new tax rulesQuartz India \u2022 June 24, 2022",
-      "url": "/india/2181732/indias-crypto-exchanges-welcome-clarification-on-new-tds-rules/"
+      "text": ".ArtDirection__47479 { padding-bottom: 100%; }Nairobi\u2019s \u201csilicon savannah\u201d just got more attractive to investors and startupsQuartz Africa \u2022 June 27, 2022",
+      "url": "/africa/2181541/nairobis-silicon-savannah-just-got-more-attractive/"
     },
     {
-      "text": ".ArtDirection__45700 { padding-bottom: 100%; }China sends a fresh warning to its booming livestreaming industryQuartz \u2022 June 24, 2022",
-      "url": "/2181319/china-sends-a-fresh-warning-to-its-livestreamers/"
-    },
-    {
-      "text": ".ArtDirection__54466 { padding-bottom: 100%; }The US is paying for a wasted decade in economic policyQuartz \u2022 June 24, 2022",
-      "url": "/2181213/were-the-2010s-a-wasted-decade-for-us-economic-policy/"
+      "text": ".ArtDirection__40111 { padding-bottom: 100%; }Olive Garden, and other Darden restaurants, are not struggling to find restaurant workersQuartz \u2022 June 24, 2022",
+      "url": "/2182006/olive-garden-and-other-darden-restaurants-are-fully-staffed/"
     },
     {
       "text": ".ArtDirection__47521 { padding-bottom: 100%; }How the three dissenting justices argued against overturning Roe v. WadeQuartz \u2022 June 24, 2022",
       "url": "/2182099/powerful-quotes-from-the-dissenting-opinion-to-overturning-roe-v-wade/"
+    },
+    {
+      "text": ".ArtDirection__42169 { padding-bottom: 100%; }A list of countries where abortion is illegalQuartz \u2022 May 3, 2022",
+      "url": "/2161476/a-list-of-countries-where-abortion-is-illegal/"
     },
     {
       "text": "More popular Quartz storiesMore popular Quartz stories",
@@ -1866,7 +2012,7 @@
     }
   ],
   "server": "ia801405.us.archive.org",
-  "uniq": 1191146362,
+  "uniq": 1074192765,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

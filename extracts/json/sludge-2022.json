@@ -1,5 +1,5 @@
 {
-  "created": 1656289471,
+  "created": 1656366710,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/sludge-2022",
@@ -1190,31 +1190,157 @@
       "sha1": "cff931a13e55bba7c0e08537a45022892cc15b62"
     },
     {
+      "name": "sludge-2022-06-26T21:45:17.029509-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656294319",
+      "size": "26193",
+      "md5": "a092891a91a5eca5341f17e45f732172",
+      "crc32": "3937eb42",
+      "sha1": "64ddc3bca16c500703a6d80ab574637adf314571",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-06-26T21:45:17.029509-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656294321",
+      "size": "18893",
+      "md5": "780ddbd83c1997663e16a21a959e1966",
+      "crc32": "6e257056",
+      "sha1": "47bab98ef27e66f6bed1c5c261c4fc467999bee8",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-06-26T21:45:17.029509-04:00.jpg",
+      "source": "original",
+      "mtime": "1656294318",
+      "size": "197809",
+      "md5": "acdfdf35c68a545abd501fec824e8a8b",
+      "crc32": "c4e2cd9f",
+      "sha1": "c476ef6a16fdaed50a7c175fde8d4e3da999cd28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sludge-2022-06-26T21:45:17.029509-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sludge-2022-06-26T21:45:17.029509-04:00.jpg",
+      "mtime": "1656294368",
+      "size": "9442",
+      "md5": "0c147146c34aa36a7fb66dcb3012dda8",
+      "crc32": "c038ea78",
+      "sha1": "cff931a13e55bba7c0e08537a45022892cc15b62"
+    },
+    {
+      "name": "sludge-2022-06-27T05:39:22.029597-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656322767",
+      "size": "26193",
+      "md5": "a092891a91a5eca5341f17e45f732172",
+      "crc32": "3937eb42",
+      "sha1": "64ddc3bca16c500703a6d80ab574637adf314571",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-06-27T05:39:22.029597-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656322769",
+      "size": "18893",
+      "md5": "780ddbd83c1997663e16a21a959e1966",
+      "crc32": "6e257056",
+      "sha1": "47bab98ef27e66f6bed1c5c261c4fc467999bee8",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-06-27T05:39:22.029597-04:00.jpg",
+      "source": "original",
+      "mtime": "1656322764",
+      "size": "197809",
+      "md5": "acdfdf35c68a545abd501fec824e8a8b",
+      "crc32": "c4e2cd9f",
+      "sha1": "c476ef6a16fdaed50a7c175fde8d4e3da999cd28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sludge-2022-06-27T05:39:22.029597-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sludge-2022-06-27T05:39:22.029597-04:00.jpg",
+      "mtime": "1656322817",
+      "size": "9442",
+      "md5": "0c147146c34aa36a7fb66dcb3012dda8",
+      "crc32": "c038ea78",
+      "sha1": "cff931a13e55bba7c0e08537a45022892cc15b62"
+    },
+    {
+      "name": "sludge-2022-06-27T14:10:48.688400-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656353452",
+      "size": "26150",
+      "md5": "aeed66e37f99d81eceff70488f490078",
+      "crc32": "44b6b7a1",
+      "sha1": "daa95428095a54e337af5d94d66a2d8c6b527ded",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-06-27T14:10:48.688400-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656353454",
+      "size": "18893",
+      "md5": "3b96aaf7fb0613777b0fbe2ac5717899",
+      "crc32": "f2b572b4",
+      "sha1": "d04760daf443c3b9607f0d5d862cac42f460465c",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-06-27T14:10:48.688400-04:00.jpg",
+      "source": "original",
+      "mtime": "1656353450",
+      "size": "193961",
+      "md5": "3ae91419ce78fce5db2c14433b1ed34a",
+      "crc32": "2dab5cb2",
+      "sha1": "f58fad46667787138e9426e0ceb55a3fa39c30ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sludge-2022-06-27T14:10:48.688400-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sludge-2022-06-27T14:10:48.688400-04:00.jpg",
+      "mtime": "1656354183",
+      "size": "9262",
+      "md5": "770026a013db704c26cbaeb0cbe2a14b",
+      "crc32": "a192fdb8",
+      "sha1": "f5025a5cbdb9323c2542292b722aa3d0c46657c2"
+    },
+    {
       "name": "sludge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a66981d9ca811b4728a605b4b30780034725fa8",
-      "mtime": "1656265124",
-      "size": "24904",
-      "md5": "7952d64359b8cb7fd670a6c67f6403ca",
-      "crc32": "453f1165",
-      "sha1": "6d10ee7d8aae77d4e9ee717271f290a8f7b479cb",
+      "btih": "2dda24b9db5c2dd026b9eaa7988296c9364f34ad",
+      "mtime": "1656354215",
+      "size": "27387",
+      "md5": "8939f4df4f51963c4761e0f71ad29943",
+      "crc32": "dce87130",
+      "sha1": "9190b0c24b45083bf5f3ee32781e1ad41cd00353",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sludge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5cbd0ada7bebfdcb51bd2b8b0a04c74",
+      "md5": "0460ef6faa1ae1a11796486b5a87dbe8",
       "summation": "md5"
     },
     {
       "name": "sludge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656265081",
-      "size": "155648",
-      "md5": "e529c1b39b708ecb8421c199c58109fd",
-      "crc32": "b1e80dd9",
-      "sha1": "c85822daa73605be36e228d660634a3577533258",
+      "mtime": "1656353458",
+      "size": "167936",
+      "md5": "1b1cfe29e07e83339f2e3e8693266db5",
+      "crc32": "7e0eda1e",
+      "sha1": "73d5bba4faac45a1c7c0bfe616da3a485a8d5d78",
       "format": "Metadata"
     },
     {
@@ -1228,9 +1354,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 117,
-  "item_last_updated": 1656265124,
-  "item_size": 7624781,
+  "files_count": 129,
+  "item_last_updated": 1656354215,
+  "item_size": 8392492,
   "metadata": {
     "identifier": "sludge-2022",
     "collection": [
@@ -1302,24 +1428,24 @@
       "url": "https://readsludge.com/category/elections/2022/"
     },
     {
-      "text": "Here Are the Congressional Democrats Who Donated to Anti-Choice Dem Henry Cuellar",
-      "url": "https://readsludge.com/2022/06/24/here-are-the-congressional-democrats-who-donated-to-anti-choice-dem-henry-cuellar/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\n\t\n\t\t\t\t\t\tDonald Shaw\n\t\t\t\t\t",
-      "url": "https://readsludge.com/author/donald-shaw/"
-    },
-    {
-      "text": "\n\n\t\n",
-      "url": "https://readsludge.com/2022/06/24/here-are-the-congressional-democrats-who-donated-to-anti-choice-dem-henry-cuellar/"
-    },
-    {
       "text": "Hochul\u2019s Stadium Swindle",
       "url": "https://readsludge.com/2022/06/25/hochuls-stadium-swindle/"
     },
     {
-      "text": "By David Moore",
+      "text": "\n\t\t\t\t\t\t\n\n\t\n\t\t\t\t\t\tDavid Moore\n\t\t\t\t\t",
       "url": "https://readsludge.com/author/david-moore/"
+    },
+    {
+      "text": "\n\n\t\n",
+      "url": "https://readsludge.com/2022/06/25/hochuls-stadium-swindle/"
+    },
+    {
+      "text": "Here Are the Congressional Democrats Who Donated to Anti-Choice Dem Henry Cuellar",
+      "url": "https://readsludge.com/2022/06/24/here-are-the-congressional-democrats-who-donated-to-anti-choice-dem-henry-cuellar/"
+    },
+    {
+      "text": "By Donald Shaw",
+      "url": "https://readsludge.com/author/donald-shaw/"
     },
     {
       "text": "2022 Primary category in which blog post is published",
@@ -1327,7 +1453,7 @@
     },
     {
       "text": "\n\n\t\n",
-      "url": "https://readsludge.com/2022/06/25/hochuls-stadium-swindle/"
+      "url": "https://readsludge.com/2022/06/24/here-are-the-congressional-democrats-who-donated-to-anti-choice-dem-henry-cuellar/"
     },
     {
       "text": "Companies Butter Up Likely Next Energy and Commerce Chair",
@@ -1744,13 +1870,9 @@
     {
       "text": "\n\t\t\t\t\t\t\tContact Us at hello@readsludge.com\t\t\t\t\t\t",
       "url": "mailto:hello@readsludge.com"
-    },
-    {
-      "text": "Sumo",
-      "url": "javascript:void(0);"
     }
   ],
-  "uniq": 1002048957,
+  "uniq": 350567053,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"
