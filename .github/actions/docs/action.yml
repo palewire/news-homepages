@@ -23,5 +23,6 @@ runs:
         git status
         git pull origin $GITHUB_REF
         git add ./docs/sources.md
+        git add ./docs/sites
         git commit -m "Update docs" --author="palewire <palewire@users.noreply.github.com>" && git push || true
       shell: bash
