@@ -12,7 +12,7 @@ from . import utils
 
 DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
-DEFAULT_WAIT = "15000"
+DEFAULT_WAIT = "5000"
 
 logger = logging.getLogger(__name__)
 
