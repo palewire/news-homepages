@@ -9,15 +9,15 @@ orphan: true
 
 ![WBEZ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbez.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.wbez.org/](https://www.wbez.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wbez) |
-| Twitter handle | [@WBEZ](https://www.twitter.com/WBEZ)                 |
-| Location       | Chicago                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.wbez.org/](https://www.wbez.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wbez.xml) |
+| Twitter handle | [@WBEZ](https://www.twitter.com/WBEZ)                     |
+| Location       | Chicago                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

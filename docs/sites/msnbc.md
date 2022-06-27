@@ -9,15 +9,15 @@ orphan: true
 
 ![MSNBC](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.msnbc.com/](https://www.msnbc.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/msnbc) |
-| Twitter handle | [@msnbc](https://www.twitter.com/msnbc)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.msnbc.com/](https://www.msnbc.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/msnbc.xml) |
+| Twitter handle | [@msnbc](https://www.twitter.com/msnbc)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 344 screenshots stored at the Internet Archive.
+The archiving routine has captured 349 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,15 @@ orphan: true
 
 ![Fortune](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fortunemagazine.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://fortune.com/](https://fortune.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fortunemagazine) |
-| Twitter handle | [@FortuneMagazine](https://www.twitter.com/FortuneMagazine)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://fortune.com/](https://fortune.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fortunemagazine.xml) |
+| Twitter handle | [@FortuneMagazine](https://www.twitter.com/FortuneMagazine)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 19 screenshots stored at the Internet Archive.
+The archiving routine has captured 26 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

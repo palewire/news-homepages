@@ -9,15 +9,15 @@ orphan: true
 
 ![KQED](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kqed.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.kqed.org/](https://www.kqed.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kqed) |
-| Twitter handle | [@KQED](https://www.twitter.com/KQED)                 |
-| Location       | San Francisco                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.kqed.org/](https://www.kqed.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kqed.xml) |
+| Twitter handle | [@KQED](https://www.twitter.com/KQED)                     |
+| Location       | San Francisco                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 6 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

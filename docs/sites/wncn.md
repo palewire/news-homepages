@@ -9,15 +9,15 @@ orphan: true
 
 ![CBS 17](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wncn.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.cbs17.com/](https://www.cbs17.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wncn) |
-| Twitter handle | [@WNCN](https://www.twitter.com/WNCN)                 |
-| Location       | Raleigh                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.cbs17.com/](https://www.cbs17.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wncn.xml) |
+| Twitter handle | [@WNCN](https://www.twitter.com/WNCN)                     |
+| Location       | Raleigh                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 101 screenshots stored at the Internet Archive.
+The archiving routine has captured 108 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

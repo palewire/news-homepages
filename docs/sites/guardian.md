@@ -9,15 +9,15 @@ orphan: true
 
 ![The Guardian](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/guardian.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://theguardian.com/uk](https://theguardian.com/uk)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/guardian) |
-| Twitter handle | [@guardian](https://www.twitter.com/guardian)                 |
-| Location       | London                                                             |
-| Timezone       | Europe/London                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://theguardian.com/uk](https://theguardian.com/uk)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/guardian.xml) |
+| Twitter handle | [@guardian](https://www.twitter.com/guardian)                     |
+| Location       | London                                                                 |
+| Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 200 screenshots stored at the Internet Archive.
+The archiving routine has captured 207 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

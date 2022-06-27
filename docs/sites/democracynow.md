@@ -9,15 +9,15 @@ orphan: true
 
 ![Democracy Now](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/democracynow.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.democracynow.org/](https://www.democracynow.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/democracynow) |
-| Twitter handle | [@democracynow](https://www.twitter.com/democracynow)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.democracynow.org/](https://www.democracynow.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/democracynow.xml) |
+| Twitter handle | [@democracynow](https://www.twitter.com/democracynow)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 6 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,15 @@ orphan: true
 
 ![Quartz](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/qz.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://qz.com/](https://qz.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/qz) |
-| Twitter handle | [@qz](https://www.twitter.com/qz)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://qz.com/](https://qz.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/qz.xml) |
+| Twitter handle | [@qz](https://www.twitter.com/qz)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

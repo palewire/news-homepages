@@ -9,15 +9,15 @@ orphan: true
 
 ![The Berkeleyside](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkeleyside.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://berkeleyside.org/](https://berkeleyside.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/berkeleyside) |
-| Twitter handle | [@Berkeleyside](https://www.twitter.com/Berkeleyside)                 |
-| Location       | Berkeley                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://berkeleyside.org/](https://berkeleyside.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/berkeleyside.xml) |
+| Twitter handle | [@Berkeleyside](https://www.twitter.com/Berkeleyside)                     |
+| Location       | Berkeley                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 124 screenshots stored at the Internet Archive.
+The archiving routine has captured 131 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

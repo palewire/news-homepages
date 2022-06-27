@@ -9,15 +9,15 @@ orphan: true
 
 ![Wausau Daily Herald](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wausauherald.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.wausaudailyherald.com/](https://www.wausaudailyherald.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wausauherald) |
-| Twitter handle | [@wausauherald](https://www.twitter.com/wausauherald)                 |
-| Location       | Wausau                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.wausaudailyherald.com/](https://www.wausaudailyherald.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wausauherald.xml) |
+| Twitter handle | [@wausauherald](https://www.twitter.com/wausauherald)                     |
+| Location       | Wausau                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 109 screenshots stored at the Internet Archive.
+The archiving routine has captured 116 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

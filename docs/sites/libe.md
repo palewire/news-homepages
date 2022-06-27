@@ -9,15 +9,15 @@ orphan: true
 
 ![Libération](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/libe.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.liberation.fr/](https://www.liberation.fr/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/libe) |
-| Twitter handle | [@libe](https://www.twitter.com/libe)                 |
-| Location       | Paris                                                             |
-| Timezone       | Europe/Paris                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.liberation.fr/](https://www.liberation.fr/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/libe.xml) |
+| Twitter handle | [@libe](https://www.twitter.com/libe)                     |
+| Location       | Paris                                                                 |
+| Timezone       | Europe/Paris                                                                 |
 
-The archiving routine has captured 103 screenshots stored at the Internet Archive.
+The archiving routine has captured 110 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

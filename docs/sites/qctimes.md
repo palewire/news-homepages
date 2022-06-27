@@ -9,15 +9,15 @@ orphan: true
 
 ![Quad City Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/qctimes.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://qctimes.com/](https://qctimes.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/qctimes) |
-| Twitter handle | [@qctimes](https://www.twitter.com/qctimes)                 |
-| Location       | Davenport                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://qctimes.com/](https://qctimes.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/qctimes.xml) |
+| Twitter handle | [@qctimes](https://www.twitter.com/qctimes)                     |
+| Location       | Davenport                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 106 screenshots stored at the Internet Archive.
+The archiving routine has captured 112 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

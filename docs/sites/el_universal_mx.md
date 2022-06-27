@@ -9,15 +9,15 @@ orphan: true
 
 ![El Universal](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_universal_mx.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.eluniversal.com.mx/](https://www.eluniversal.com.mx/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/el_universal_mx) |
-| Twitter handle | [@El_Universal_Mx](https://www.twitter.com/El_Universal_Mx)                 |
-| Location       | Mexico City                                                             |
-| Timezone       | America/Mexico_City                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.eluniversal.com.mx/](https://www.eluniversal.com.mx/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/el_universal_mx.xml) |
+| Twitter handle | [@El_Universal_Mx](https://www.twitter.com/El_Universal_Mx)                     |
+| Location       | Mexico City                                                                 |
+| Timezone       | America/Mexico_City                                                                 |
 
-The archiving routine has captured 380 screenshots stored at the Internet Archive.
+The archiving routine has captured 387 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

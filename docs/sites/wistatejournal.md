@@ -9,15 +9,15 @@ orphan: true
 
 ![Wisconsin State Journal](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wistatejournal.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://madison.com/wsj/](https://madison.com/wsj/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wistatejournal) |
-| Twitter handle | [@WiStateJournal](https://www.twitter.com/WiStateJournal)                 |
-| Location       | Wisconsin                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://madison.com/wsj/](https://madison.com/wsj/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wistatejournal.xml) |
+| Twitter handle | [@WiStateJournal](https://www.twitter.com/WiStateJournal)                     |
+| Location       | Wisconsin                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 104 screenshots stored at the Internet Archive.
+The archiving routine has captured 111 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

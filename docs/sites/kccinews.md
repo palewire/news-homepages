@@ -9,15 +9,15 @@ orphan: true
 
 ![KCCI](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kccinews.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.kcci.com/](https://www.kcci.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kccinews) |
-| Twitter handle | [@KCCINews](https://www.twitter.com/KCCINews)                 |
-| Location       | Des Moines                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.kcci.com/](https://www.kcci.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kccinews.xml) |
+| Twitter handle | [@KCCINews](https://www.twitter.com/KCCINews)                     |
+| Location       | Des Moines                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 107 screenshots stored at the Internet Archive.
+The archiving routine has captured 112 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

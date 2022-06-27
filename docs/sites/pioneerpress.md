@@ -9,15 +9,15 @@ orphan: true
 
 ![Twin Cities Pioneer Press](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pioneerpress.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.twincities.com/](https://www.twincities.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/pioneerpress) |
-| Twitter handle | [@PioneerPress](https://www.twitter.com/PioneerPress)                 |
-| Location       | St. Paul                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.twincities.com/](https://www.twincities.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/pioneerpress.xml) |
+| Twitter handle | [@PioneerPress](https://www.twitter.com/PioneerPress)                     |
+| Location       | St. Paul                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 113 screenshots stored at the Internet Archive.
+The archiving routine has captured 120 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

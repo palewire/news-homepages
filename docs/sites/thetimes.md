@@ -9,15 +9,15 @@ orphan: true
 
 ![The Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetimes.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.thetimes.co.uk/](https://www.thetimes.co.uk/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thetimes) |
-| Twitter handle | [@TheTimes](https://www.twitter.com/TheTimes)                 |
-| Location       | London                                                             |
-| Timezone       | Europe/London                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.thetimes.co.uk/](https://www.thetimes.co.uk/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thetimes.xml) |
+| Twitter handle | [@TheTimes](https://www.twitter.com/TheTimes)                     |
+| Location       | London                                                                 |
+| Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 195 screenshots stored at the Internet Archive.
+The archiving routine has captured 202 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

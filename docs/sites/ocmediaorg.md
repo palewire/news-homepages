@@ -9,15 +9,15 @@ orphan: true
 
 ![Open Caucasus Media](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocmediaorg.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://oc-media.org/](https://oc-media.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ocmediaorg) |
-| Twitter handle | [@OCMediaorg](https://www.twitter.com/OCMediaorg)                 |
-| Location       | Tbilisi                                                             |
-| Timezone       | Asia/Tbilisi                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://oc-media.org/](https://oc-media.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ocmediaorg.xml) |
+| Twitter handle | [@OCMediaorg](https://www.twitter.com/OCMediaorg)                     |
+| Location       | Tbilisi                                                                 |
+| Timezone       | Asia/Tbilisi                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,15 @@ orphan: true
 
 ![The Markup](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themarkup.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://themarkup.org/](https://themarkup.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/themarkup) |
-| Twitter handle | [@themarkup](https://www.twitter.com/themarkup)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://themarkup.org/](https://themarkup.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/themarkup.xml) |
+| Twitter handle | [@themarkup](https://www.twitter.com/themarkup)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

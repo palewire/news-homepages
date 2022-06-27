@@ -9,15 +9,15 @@ orphan: true
 
 ![The Oaklandside](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://oaklandside.org/](https://oaklandside.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oaklandside) |
-| Twitter handle | [@Oaklandside](https://www.twitter.com/Oaklandside)                 |
-| Location       | Oakland                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://oaklandside.org/](https://oaklandside.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oaklandside.xml) |
+| Twitter handle | [@Oaklandside](https://www.twitter.com/Oaklandside)                     |
+| Location       | Oakland                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 123 screenshots stored at the Internet Archive.
+The archiving routine has captured 130 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

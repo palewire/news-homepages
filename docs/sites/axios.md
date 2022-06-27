@@ -9,15 +9,15 @@ orphan: true
 
 ![Axios](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/axios.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.axios.com/](https://www.axios.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/axios) |
-| Twitter handle | [@axios](https://www.twitter.com/axios)                 |
-| Location       | Washington                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.axios.com/](https://www.axios.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/axios.xml) |
+| Twitter handle | [@axios](https://www.twitter.com/axios)                     |
+| Location       | Washington                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

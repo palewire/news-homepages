@@ -9,15 +9,15 @@ orphan: true
 
 ![MinnPost](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.minnpost.com/](https://www.minnpost.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/minnpost) |
-| Twitter handle | [@MinnPost](https://www.twitter.com/MinnPost)                 |
-| Location       | Minneapolis                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.minnpost.com/](https://www.minnpost.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/minnpost.xml) |
+| Twitter handle | [@MinnPost](https://www.twitter.com/MinnPost)                     |
+| Location       | Minneapolis                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 113 screenshots stored at the Internet Archive.
+The archiving routine has captured 120 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

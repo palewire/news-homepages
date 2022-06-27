@@ -9,15 +9,15 @@ orphan: true
 
 ![FRANCE 24](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.france24.com/fr/](https://www.france24.com/fr/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/france24) |
-| Twitter handle | [@FRANCE24](https://www.twitter.com/FRANCE24)                 |
-| Location       | Paris                                                             |
-| Timezone       | Europe/Paris                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.france24.com/fr/](https://www.france24.com/fr/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/france24.xml) |
+| Twitter handle | [@FRANCE24](https://www.twitter.com/FRANCE24)                     |
+| Location       | Paris                                                                 |
+| Timezone       | Europe/Paris                                                                 |
 
-The archiving routine has captured 104 screenshots stored at the Internet Archive.
+The archiving routine has captured 111 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

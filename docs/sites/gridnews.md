@@ -9,15 +9,15 @@ orphan: true
 
 ![Grid](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gridnews.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.grid.news/](https://www.grid.news/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gridnews) |
-| Twitter handle | [@gridnews](https://www.twitter.com/gridnews)                 |
-| Location       | Washington                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.grid.news/](https://www.grid.news/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gridnews.xml) |
+| Twitter handle | [@gridnews](https://www.twitter.com/gridnews)                     |
+| Location       | Washington                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 37 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

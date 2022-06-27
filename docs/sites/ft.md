@@ -9,15 +9,15 @@ orphan: true
 
 ![Financial Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ft.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://ft.com/?edition=uk](https://ft.com/?edition=uk)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ft) |
-| Twitter handle | [@ft](https://www.twitter.com/ft)                 |
-| Location       | London                                                             |
-| Timezone       | Europe/London                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://ft.com/?edition=uk](https://ft.com/?edition=uk)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ft.xml) |
+| Twitter handle | [@ft](https://www.twitter.com/ft)                     |
+| Location       | London                                                                 |
+| Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 200 screenshots stored at the Internet Archive.
+The archiving routine has captured 207 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,15 @@ orphan: true
 
 ![Los Angeles Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/latimes.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.latimes.com](https://www.latimes.com)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/latimes) |
-| Twitter handle | [@latimes](https://www.twitter.com/latimes)                 |
-| Location       | Los Angeles                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.latimes.com](https://www.latimes.com)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/latimes.xml) |
+| Twitter handle | [@latimes](https://www.twitter.com/latimes)                     |
+| Location       | Los Angeles                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 360 screenshots stored at the Internet Archive.
+The archiving routine has captured 367 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

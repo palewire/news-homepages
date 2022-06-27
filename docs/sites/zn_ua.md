@@ -9,15 +9,15 @@ orphan: true
 
 ![ZN.UA](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/zn_ua.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://zn.ua/](https://zn.ua/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/zn_ua) |
-| Twitter handle | [@zn_ua](https://www.twitter.com/zn_ua)                 |
-| Location       | Kiev                                                             |
-| Timezone       | Europe/Kiev                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://zn.ua/](https://zn.ua/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/zn_ua.xml) |
+| Twitter handle | [@zn_ua](https://www.twitter.com/zn_ua)                     |
+| Location       | Kiev                                                                 |
+| Timezone       | Europe/Kiev                                                                 |
 
-The archiving routine has captured 187 screenshots stored at the Internet Archive.
+The archiving routine has captured 194 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

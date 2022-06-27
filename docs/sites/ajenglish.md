@@ -9,15 +9,15 @@ orphan: true
 
 ![Al Jazeera English](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ajenglish.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.aljazeera.com/](https://www.aljazeera.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ajenglish) |
-| Twitter handle | [@AJEnglish](https://www.twitter.com/AJEnglish)                 |
-| Location       | Doha                                                             |
-| Timezone       | Asia/Qatar                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.aljazeera.com/](https://www.aljazeera.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ajenglish.xml) |
+| Twitter handle | [@AJEnglish](https://www.twitter.com/AJEnglish)                     |
+| Location       | Doha                                                                 |
+| Timezone       | Asia/Qatar                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

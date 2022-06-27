@@ -9,15 +9,15 @@ orphan: true
 
 ![Source New Mexico](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/source_nm.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://sourcenm.com/](https://sourcenm.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/source_nm) |
-| Twitter handle | [@source_nm](https://www.twitter.com/source_nm)                 |
-| Location       | Sante Fe                                                             |
-| Timezone       | America/Denver                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://sourcenm.com/](https://sourcenm.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/source_nm.xml) |
+| Twitter handle | [@source_nm](https://www.twitter.com/source_nm)                     |
+| Location       | Sante Fe                                                                 |
+| Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 115 screenshots stored at the Internet Archive.
+The archiving routine has captured 122 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

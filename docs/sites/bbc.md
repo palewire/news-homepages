@@ -9,15 +9,15 @@ orphan: true
 
 ![BBC](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bbc.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.bbc.com/news](https://www.bbc.com/news)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bbc) |
-| Twitter handle | [@bbc](https://www.twitter.com/bbc)                 |
-| Location       | London                                                             |
-| Timezone       | Europe/London                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.bbc.com/news](https://www.bbc.com/news)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bbc.xml) |
+| Twitter handle | [@bbc](https://www.twitter.com/bbc)                     |
+| Location       | London                                                                 |
+| Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 202 screenshots stored at the Internet Archive.
+The archiving routine has captured 209 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

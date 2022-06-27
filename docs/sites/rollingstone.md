@@ -9,15 +9,15 @@ orphan: true
 
 ![Rolling Stone](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollingstone.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.rollingstone.com/](https://www.rollingstone.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rollingstone) |
-| Twitter handle | [@RollingStone](https://www.twitter.com/RollingStone)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.rollingstone.com/](https://www.rollingstone.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rollingstone.xml) |
+| Twitter handle | [@RollingStone](https://www.twitter.com/RollingStone)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

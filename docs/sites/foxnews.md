@@ -9,15 +9,15 @@ orphan: true
 
 ![Fox News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxnews.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.foxnews.com/](https://www.foxnews.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/foxnews) |
-| Twitter handle | [@foxnews](https://www.twitter.com/foxnews)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.foxnews.com/](https://www.foxnews.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/foxnews.xml) |
+| Twitter handle | [@foxnews](https://www.twitter.com/foxnews)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 344 screenshots stored at the Internet Archive.
+The archiving routine has captured 349 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

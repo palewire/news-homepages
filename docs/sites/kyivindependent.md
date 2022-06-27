@@ -9,15 +9,15 @@ orphan: true
 
 ![Kyiv Independent](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kyivindependent.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://kyivindependent.com/](https://kyivindependent.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivindependent) |
-| Twitter handle | [@kyivindependent](https://www.twitter.com/kyivindependent)                 |
-| Location       | Kiev                                                             |
-| Timezone       | Europe/Kiev                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://kyivindependent.com/](https://kyivindependent.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivindependent.xml) |
+| Twitter handle | [@kyivindependent](https://www.twitter.com/kyivindependent)                     |
+| Location       | Kiev                                                                 |
+| Timezone       | Europe/Kiev                                                                 |
 
-The archiving routine has captured 192 screenshots stored at the Internet Archive.
+The archiving routine has captured 199 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

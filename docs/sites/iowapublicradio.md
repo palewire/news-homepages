@@ -9,15 +9,15 @@ orphan: true
 
 ![Iowa Public Radio](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/iowapublicradio.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.iowapublicradio.org/](https://www.iowapublicradio.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/iowapublicradio) |
-| Twitter handle | [@IowaPublicRadio](https://www.twitter.com/IowaPublicRadio)                 |
-| Location       | Des Moines                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.iowapublicradio.org/](https://www.iowapublicradio.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/iowapublicradio.xml) |
+| Twitter handle | [@IowaPublicRadio](https://www.twitter.com/IowaPublicRadio)                     |
+| Location       | Des Moines                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 107 screenshots stored at the Internet Archive.
+The archiving routine has captured 114 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

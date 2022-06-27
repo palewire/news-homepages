@@ -9,15 +9,15 @@ orphan: true
 
 ![Breitbart](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breitbartnews.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.breitbart.com/](https://www.breitbart.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews) |
-| Twitter handle | [@BreitbartNews](https://www.twitter.com/BreitbartNews)                 |
-| Location       | Los Angeles                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.breitbart.com/](https://www.breitbart.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews.xml) |
+| Twitter handle | [@BreitbartNews](https://www.twitter.com/BreitbartNews)                     |
+| Location       | Los Angeles                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 107 screenshots stored at the Internet Archive.
+The archiving routine has captured 114 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

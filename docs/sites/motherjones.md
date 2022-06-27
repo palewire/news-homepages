@@ -9,15 +9,15 @@ orphan: true
 
 ![Mother Jones](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/motherjones.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.motherjones.com/](https://www.motherjones.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones) |
-| Twitter handle | [@MotherJones](https://www.twitter.com/MotherJones)                 |
-| Location       | San Francisco                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.motherjones.com/](https://www.motherjones.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones.xml) |
+| Twitter handle | [@MotherJones](https://www.twitter.com/MotherJones)                     |
+| Location       | San Francisco                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 29 screenshots stored at the Internet Archive.
+The archiving routine has captured 36 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

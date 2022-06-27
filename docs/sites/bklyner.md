@@ -9,15 +9,15 @@ orphan: true
 
 ![Bklyner](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bklyner.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://bklyner.com/](https://bklyner.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bklyner) |
-| Twitter handle | [@bklyner](https://www.twitter.com/bklyner)                 |
-| Location       | Brooklyn                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://bklyner.com/](https://bklyner.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bklyner.xml) |
+| Twitter handle | [@bklyner](https://www.twitter.com/bklyner)                     |
+| Location       | Brooklyn                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

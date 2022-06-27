@@ -9,15 +9,15 @@ orphan: true
 
 ![LAist](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/laist.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://laist.com/](https://laist.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/laist) |
-| Twitter handle | [@laist](https://www.twitter.com/laist)                 |
-| Location       | Los Angeles                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://laist.com/](https://laist.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/laist.xml) |
+| Twitter handle | [@laist](https://www.twitter.com/laist)                     |
+| Location       | Los Angeles                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 178 screenshots stored at the Internet Archive.
+The archiving routine has captured 185 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

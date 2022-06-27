@@ -9,15 +9,15 @@ orphan: true
 
 ![Ottumwa Courier](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottumwacourier.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.ottumwacourier.com/](https://www.ottumwacourier.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier) |
-| Twitter handle | [@OttumwaCourier](https://www.twitter.com/OttumwaCourier)                 |
-| Location       | Ottumwa                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.ottumwacourier.com/](https://www.ottumwacourier.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier.xml) |
+| Twitter handle | [@OttumwaCourier](https://www.twitter.com/OttumwaCourier)                     |
+| Location       | Ottumwa                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,15 @@ orphan: true
 
 ![TechMeme](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techmeme.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.techmeme.com/](https://www.techmeme.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/techmeme) |
-| Twitter handle | [@techmeme](https://www.twitter.com/techmeme)                 |
-| Location       | Silicon Valley                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.techmeme.com/](https://www.techmeme.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/techmeme.xml) |
+| Twitter handle | [@techmeme](https://www.twitter.com/techmeme)                     |
+| Location       | Silicon Valley                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 36 screenshots stored at the Internet Archive.
+The archiving routine has captured 43 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

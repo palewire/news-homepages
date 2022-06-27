@@ -9,15 +9,15 @@ orphan: true
 
 ![KPBS](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kpbs.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.kpbs.org/](https://www.kpbs.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kpbs) |
-| Twitter handle | [@kpbs](https://www.twitter.com/kpbs)                 |
-| Location       | San Diego                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.kpbs.org/](https://www.kpbs.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kpbs.xml) |
+| Twitter handle | [@kpbs](https://www.twitter.com/kpbs)                     |
+| Location       | San Diego                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 177 screenshots stored at the Internet Archive.
+The archiving routine has captured 184 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

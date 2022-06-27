@@ -9,15 +9,15 @@ orphan: true
 
 ![Intercept](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theintercept.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://theintercept.com/](https://theintercept.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theintercept) |
-| Twitter handle | [@theintercept](https://www.twitter.com/theintercept)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://theintercept.com/](https://theintercept.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theintercept.xml) |
+| Twitter handle | [@theintercept](https://www.twitter.com/theintercept)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

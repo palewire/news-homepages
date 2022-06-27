@@ -9,15 +9,15 @@ orphan: true
 
 ![New York Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.nytimes.com](https://www.nytimes.com)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes) |
-| Twitter handle | [@nytimes](https://www.twitter.com/nytimes)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.nytimes.com](https://www.nytimes.com)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml) |
+| Twitter handle | [@nytimes](https://www.twitter.com/nytimes)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 693 screenshots stored at the Internet Archive.
+The archiving routine has captured 698 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

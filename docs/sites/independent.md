@@ -9,15 +9,15 @@ orphan: true
 
 ![The Independent](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independent.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.independent.co.uk/](https://www.independent.co.uk/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/independent) |
-| Twitter handle | [@Independent](https://www.twitter.com/Independent)                 |
-| Location       | London                                                             |
-| Timezone       | Europe/London                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.independent.co.uk/](https://www.independent.co.uk/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/independent.xml) |
+| Twitter handle | [@Independent](https://www.twitter.com/Independent)                     |
+| Location       | London                                                                 |
+| Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 188 screenshots stored at the Internet Archive.
+The archiving routine has captured 195 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

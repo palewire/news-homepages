@@ -9,15 +9,15 @@ orphan: true
 
 ![Chequeado](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chequeado.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://chequeado.com/](https://chequeado.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/chequeado) |
-| Twitter handle | [@Chequeado](https://www.twitter.com/Chequeado)                 |
-| Location       | Buenos Aires                                                             |
-| Timezone       | America/Buenos_Aires                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://chequeado.com/](https://chequeado.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/chequeado.xml) |
+| Twitter handle | [@Chequeado](https://www.twitter.com/Chequeado)                     |
+| Location       | Buenos Aires                                                                 |
+| Timezone       | America/Buenos_Aires                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

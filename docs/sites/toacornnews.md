@@ -9,15 +9,15 @@ orphan: true
 
 ![Thousand Oaks Acorn](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/toacornnews.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.toacorn.com/](https://www.toacorn.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/toacornnews) |
-| Twitter handle | [@TOAcornNews](https://www.twitter.com/TOAcornNews)                 |
-| Location       | Thousand Oaks                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.toacorn.com/](https://www.toacorn.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/toacornnews.xml) |
+| Twitter handle | [@TOAcornNews](https://www.twitter.com/TOAcornNews)                     |
+| Location       | Thousand Oaks                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 27 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

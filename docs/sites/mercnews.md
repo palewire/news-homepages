@@ -9,15 +9,15 @@ orphan: true
 
 ![Mercury News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mercnews.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.mercurynews.com/](https://www.mercurynews.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mercnews) |
-| Twitter handle | [@mercnews](https://www.twitter.com/mercnews)                 |
-| Location       | San Jose                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.mercurynews.com/](https://www.mercurynews.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mercnews.xml) |
+| Twitter handle | [@mercnews](https://www.twitter.com/mercnews)                     |
+| Location       | San Jose                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 122 screenshots stored at the Internet Archive.
+The archiving routine has captured 129 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

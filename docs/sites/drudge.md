@@ -9,15 +9,15 @@ orphan: true
 
 ![Drudge Report](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/drudge.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://drudgereport.com/](https://drudgereport.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/drudge) |
-| Twitter handle | [@DRUDGE](https://www.twitter.com/DRUDGE)                 |
-| Location       | Miami                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://drudgereport.com/](https://drudgereport.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/drudge.xml) |
+| Twitter handle | [@DRUDGE](https://www.twitter.com/DRUDGE)                     |
+| Location       | Miami                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 111 screenshots stored at the Internet Archive.
+The archiving routine has captured 118 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

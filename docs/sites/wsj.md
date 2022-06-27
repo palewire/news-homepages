@@ -9,15 +9,15 @@ orphan: true
 
 ![Wall Street Journal](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsj.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.wsj.com/](https://www.wsj.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wsj) |
-| Twitter handle | [@wsj](https://www.twitter.com/wsj)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.wsj.com/](https://www.wsj.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wsj.xml) |
+| Twitter handle | [@wsj](https://www.twitter.com/wsj)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 183 screenshots stored at the Internet Archive.
+The archiving routine has captured 190 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

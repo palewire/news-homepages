@@ -9,15 +9,15 @@ orphan: true
 
 ![NPR](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/npr.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.npr.org/](https://www.npr.org/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/npr) |
-| Twitter handle | [@NPR](https://www.twitter.com/NPR)                 |
-| Location       | Washington                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.npr.org/](https://www.npr.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/npr.xml) |
+| Twitter handle | [@NPR](https://www.twitter.com/NPR)                     |
+| Location       | Washington                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

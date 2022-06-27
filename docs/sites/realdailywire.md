@@ -9,15 +9,15 @@ orphan: true
 
 ![Daily Wire](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/realdailywire.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.dailywire.com/](https://www.dailywire.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/realdailywire) |
-| Twitter handle | [@realDailyWire](https://www.twitter.com/realDailyWire)                 |
-| Location       | Nashville                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.dailywire.com/](https://www.dailywire.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/realdailywire.xml) |
+| Twitter handle | [@realDailyWire](https://www.twitter.com/realDailyWire)                     |
+| Location       | Nashville                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 109 screenshots stored at the Internet Archive.
+The archiving routine has captured 114 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

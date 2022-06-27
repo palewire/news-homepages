@@ -9,15 +9,15 @@ orphan: true
 
 ![Frederick News-Post](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/frednewspost.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.fredericknewspost.com/](https://www.fredericknewspost.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/frednewspost) |
-| Twitter handle | [@frednewspost](https://www.twitter.com/frednewspost)                 |
-| Location       | Frederick                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.fredericknewspost.com/](https://www.fredericknewspost.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/frednewspost.xml) |
+| Twitter handle | [@frednewspost](https://www.twitter.com/frednewspost)                     |
+| Location       | Frederick                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 113 screenshots stored at the Internet Archive.
+The archiving routine has captured 120 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

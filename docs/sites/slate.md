@@ -9,15 +9,15 @@ orphan: true
 
 ![Slate](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/slate.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://slate.com/](https://slate.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/slate) |
-| Twitter handle | [@Slate](https://www.twitter.com/Slate)                 |
-| Location       | New York                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://slate.com/](https://slate.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/slate.xml) |
+| Twitter handle | [@Slate](https://www.twitter.com/Slate)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

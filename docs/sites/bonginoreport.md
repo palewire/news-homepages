@@ -9,15 +9,15 @@ orphan: true
 
 ![Bongino Report](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bonginoreport.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://bonginoreport.com/](https://bonginoreport.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bonginoreport) |
-| Twitter handle | [@BonginoReport](https://www.twitter.com/BonginoReport)                 |
-| Location       | Florida                                                             |
-| Timezone       | America/New_York                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://bonginoreport.com/](https://bonginoreport.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bonginoreport.xml) |
+| Twitter handle | [@BonginoReport](https://www.twitter.com/BonginoReport)                     |
+| Location       | Florida                                                                 |
+| Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 107 screenshots stored at the Internet Archive.
+The archiving routine has captured 114 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

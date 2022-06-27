@@ -9,15 +9,15 @@ orphan: true
 
 ![San Francisco Chronicle](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sfchronicle.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.sfchronicle.com/](https://www.sfchronicle.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sfchronicle) |
-| Twitter handle | [@sfchronicle](https://www.twitter.com/sfchronicle)                 |
-| Location       | San Francisco                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.sfchronicle.com/](https://www.sfchronicle.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sfchronicle.xml) |
+| Twitter handle | [@sfchronicle](https://www.twitter.com/sfchronicle)                     |
+| Location       | San Francisco                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 121 screenshots stored at the Internet Archive.
+The archiving routine has captured 128 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

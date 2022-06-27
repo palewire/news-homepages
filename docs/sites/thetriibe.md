@@ -9,15 +9,15 @@ orphan: true
 
 ![The TriiBE](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetriibe.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://thetriibe.com/](https://thetriibe.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thetriibe) |
-| Twitter handle | [@TheTRiiBE](https://www.twitter.com/TheTRiiBE)                 |
-| Location       | Chicago                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://thetriibe.com/](https://thetriibe.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thetriibe.xml) |
+| Twitter handle | [@TheTRiiBE](https://www.twitter.com/TheTRiiBE)                     |
+| Location       | Chicago                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

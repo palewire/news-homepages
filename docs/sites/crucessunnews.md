@@ -9,15 +9,15 @@ orphan: true
 
 ![Las Cruces Sun News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/crucessunnews.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.lcsun-news.com/](https://www.lcsun-news.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/crucessunnews) |
-| Twitter handle | [@CrucesSunNews](https://www.twitter.com/CrucesSunNews)                 |
-| Location       | Las Cruces                                                             |
-| Timezone       | America/Denver                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.lcsun-news.com/](https://www.lcsun-news.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/crucessunnews.xml) |
+| Twitter handle | [@CrucesSunNews](https://www.twitter.com/CrucesSunNews)                     |
+| Location       | Las Cruces                                                                 |
+| Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 114 screenshots stored at the Internet Archive.
+The archiving routine has captured 121 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

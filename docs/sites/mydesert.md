@@ -9,15 +9,15 @@ orphan: true
 
 ![The Desert Sun](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydesert.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.desertsun.com/](https://www.desertsun.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mydesert) |
-| Twitter handle | [@MyDesert](https://www.twitter.com/MyDesert)                 |
-| Location       | Palm Springs                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.desertsun.com/](https://www.desertsun.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mydesert.xml) |
+| Twitter handle | [@MyDesert](https://www.twitter.com/MyDesert)                     |
+| Location       | Palm Springs                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 173 screenshots stored at the Internet Archive.
+The archiving routine has captured 180 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

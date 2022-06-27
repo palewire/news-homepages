@@ -9,15 +9,15 @@ orphan: true
 
 ![Santa Fe New Mexican](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewmexican.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.santafenewmexican.com/](https://www.santafenewmexican.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewmexican) |
-| Twitter handle | [@thenewmexican](https://www.twitter.com/thenewmexican)                 |
-| Location       | Sante Fe                                                             |
-| Timezone       | America/Denver                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.santafenewmexican.com/](https://www.santafenewmexican.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewmexican.xml) |
+| Twitter handle | [@thenewmexican](https://www.twitter.com/thenewmexican)                     |
+| Location       | Sante Fe                                                                 |
+| Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 113 screenshots stored at the Internet Archive.
+The archiving routine has captured 120 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

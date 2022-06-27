@@ -9,15 +9,15 @@ orphan: true
 
 ![Sahan Journal](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sahanjournal.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://sahanjournal.com/](https://sahanjournal.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sahanjournal) |
-| Twitter handle | [@SahanJournal](https://www.twitter.com/SahanJournal)                 |
-| Location       | Minneapolis                                                             |
-| Timezone       | America/Chicago                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://sahanjournal.com/](https://sahanjournal.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sahanjournal.xml) |
+| Twitter handle | [@SahanJournal](https://www.twitter.com/SahanJournal)                     |
+| Location       | Minneapolis                                                                 |
+| Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 113 screenshots stored at the Internet Archive.
+The archiving routine has captured 120 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

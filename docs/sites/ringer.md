@@ -9,15 +9,15 @@ orphan: true
 
 ![Ringer](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ringer.jpg)
 
-| Attribute      | Value                                                                           |
-| :------------- | :------------------------------------------------------------------------------ |
-| Site           | [https://www.theringer.com/](https://www.theringer.com/)                                                |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ringer) |
-| Twitter handle | [@ringer](https://www.twitter.com/ringer)                 |
-| Location       | Los Angeles                                                             |
-| Timezone       | America/Los_Angeles                                                             |
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.theringer.com/](https://www.theringer.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ringer.xml) |
+| Twitter handle | [@ringer](https://www.twitter.com/ringer)                     |
+| Location       | Los Angeles                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
