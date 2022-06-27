@@ -134,6 +134,7 @@ def _shoot(site: typing.Dict, output_dir: str):
             "#onetrust-consent-sdk",
             ".gdpr-huffpost-cookiewall",
             "#header-cts",
+            ".pum-overlay",
         ]
         target_str = ",".join(target_list)
         javascript = (
