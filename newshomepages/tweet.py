@@ -18,6 +18,40 @@ def cli():
 
 
 @cli.command()
+@click.option("-i", "--input-dir", "input_dir", default="./")
+def moasic(input_dir: str):
+    """Tweet a mosaic GIF."""
+    # Connect to Twitter
+    api = get_twitter_client()
+
+    # Get the timestamp
+    now = datetime.now()
+
+    # Convert it to local time
+    tz = pytz.timezone("America/Los_Angeles")
+    now_local = now.astimezone(tz)
+
+    # Create the headline
+    tweet = f"200 homepages from around the world at {now_local.strftime('%-I:%M %p')} in Los Angeles"
+
+    # Get the image
+    input_path = Path(input_dir)
+    input_path.mkdir(parents=True, exist_ok=True)
+    image_path = input_path / "mosaic.gif"
+    assert image_path.exists()
+
+    # Upload the image
+    io = open(image_path, "rb")
+    media_id = api.UploadMediaSimple(io)
+
+    # Post the media
+    api.PostMediaMetadata(media_id, tweet)
+
+    # Make the tweet
+    api.PostUpdate(tweet, media=media_id)
+
+
+@cli.command()
 @click.argument("handle")
 @click.option("-i", "--input-dir", "input_dir", default="./")
 def single(handle: str, input_dir: str):
