@@ -19,7 +19,7 @@ def cli():
 
 @cli.command()
 @click.option("-i", "--input-dir", "input_dir", default="./")
-def moasic(input_dir: str):
+def mosaic(input_dir: str):
     """Tweet a mosaic GIF."""
     # Connect to Twitter
     api = get_twitter_client()
@@ -32,7 +32,7 @@ def moasic(input_dir: str):
     now_local = now.astimezone(tz)
 
     # Create the headline
-    tweet = f"200 homepages from around the world at {now_local.strftime('%-I:%M %p')} in Los Angeles"
+    tweet = f"200 homepages from around the world captured at {now_local.strftime('%-I:%M %p')} in Los Angeles"
 
     # Get the image
     input_path = Path(input_dir)

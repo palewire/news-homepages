@@ -177,7 +177,7 @@ jobs:
         uses: ./.github/actions/commit
 
   mosaic:
-    name: Create image mosaics
+    name: Create GIF mosaic
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [jpg]
@@ -193,3 +193,26 @@ jobs:
       - id: mosaic
         name: Mosaic
         uses: ./.github/actions/mosaic
+
+  tweet:
+    name: Tweet GIF mosaic
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [mosaic]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: tweet
+        name: Tweet
+        uses: ./.github/actions/tweet
+        with:
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}

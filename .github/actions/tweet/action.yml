@@ -1,13 +1,7 @@
 name: Twitter
-description: Post the provided sites to Twitter
+description: Post the mosaic to Twitter
 
 inputs:
-  source:
-    description: "The site handle to screenshot"
-    required: true
-  command:
-    description: "The tweet.py command to run"
-    required: true
   consumer-key:
     required: true
   consumer-secret:
@@ -22,11 +16,11 @@ runs:
   steps:
     - uses: actions/download-artifact@v3
       with:
-        name: screenshots
+        name: mosaics
 
     - id: tweet
       name: Tweet
-      run: pipenv run python -m newshomepages.tweet ${{ inputs.command }} ${{ inputs.source }}
+      run: pipenv run python -m newshomepages.tweet mosaic -i ./mosaics
       shell: bash
       env:
         TWITTER_CONSUMER_KEY: ${{ inputs.consumer-key }}

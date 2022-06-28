@@ -1,3 +1,4 @@
+import math
 import random
 from pathlib import Path
 
@@ -20,9 +21,10 @@ def cli(input_dir: str, output_dir: str):
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    n = 4
+    n = 3
+    slide_count = math.floor(len(image_paths) / (n * n))
     slide_list = []
-    for i in range(12):
+    for i in range(slide_count):
         random.shuffle(image_paths)
         random_images = []
         for _x in range(n * n):
@@ -51,7 +53,7 @@ def cli(input_dir: str, output_dir: str):
                 image.paste(images[idx], offset)
 
         # Size down the image
-        smaller_image = image.resize((1000, 1000))
+        smaller_image = image.resize((675, 675))
 
         # Save an output
         click.echo(f"Writing mosiac {i+1} to {output_path}")
@@ -67,7 +69,7 @@ def cli(input_dir: str, output_dir: str):
         save_all=True,
         append_images=slide_list[1:],
         optimize=True,
-        duration=1000,
+        duration=1500,
         loop=0,
     )
 
