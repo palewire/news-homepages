@@ -21,7 +21,7 @@ def cli():
 @cli.command()
 def latest_screenshots():
     """Create page showing all of the latest screenshots."""
-    site_list = sorted(utils.get_site_list(), key=lambda x: x["name"])
+    site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
 
     context = {
         "site_list": site_list,
@@ -36,7 +36,7 @@ def latest_screenshots():
 @cli.command()
 def source_list():
     """Create source list."""
-    site_list = sorted(utils.get_site_list(), key=lambda x: x["name"])
+    site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
 
     context = {
         "site_list": site_list,
@@ -52,7 +52,7 @@ def source_list():
 def site_detail():
     """Create source detail pages."""
     # Get all sites
-    site_list = sorted(utils.get_site_list(), key=lambda x: x["name"])
+    site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
 
     # Get all screenshots and items
     csv_dir = utils.EXTRACT_DIR / "csv"
