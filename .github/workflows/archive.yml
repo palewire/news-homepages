@@ -198,7 +198,7 @@ jobs:
     name: Tweet GIF mosaic
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    needs: [mosaic]
+    needs: [commit,mosaic]
     steps:
       - id: checkout
         name: Checkout
