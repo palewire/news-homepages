@@ -4,6 +4,11 @@ description: Update templated documentation pages
 runs:
   using: "composite"
   steps:
+    - id: latest-screenshots
+      name: Update latest screenshots
+      run: pipenv run python -m newshomepages.docs latest-screenshots;
+      shell: bash
+
     - id: source-list
       name: Update source list
       run: pipenv run python -m newshomepages.docs source-list;
@@ -22,6 +27,7 @@ runs:
         git config pull.rebase false
         git status
         git pull origin $GITHUB_REF
+        git add ./docs/latest.md
         git add ./docs/sources.md
         git add ./docs/sites
         git commit -m "Update docs" --author="palewire <palewire@users.noreply.github.com>" && git push || true

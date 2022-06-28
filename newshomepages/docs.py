@@ -19,6 +19,21 @@ def cli():
 
 
 @cli.command()
+def latest_screenshots():
+    """Create page showing all of the latest screenshots."""
+    site_list = sorted(utils.get_site_list(), key=lambda x: x["name"])
+
+    context = {
+        "site_list": site_list,
+    }
+    template = TEMPLATE_ENV.get_template("latest.md.tmpl")
+    md = template.render(**context)
+
+    with open(PARENT_DIR / "docs" / "latest.md", "w") as fh:
+        fh.write(md)
+
+
+@cli.command()
 def source_list():
     """Create source list."""
     site_list = sorted(utils.get_site_list(), key=lambda x: x["name"])

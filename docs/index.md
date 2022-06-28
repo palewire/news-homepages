@@ -11,6 +11,7 @@ An open-source archive that gathers, saves and shares news homepages
 :maxdepth: 1
 :name: mastertoc
 
+latest
 sources
 extracts
 ```

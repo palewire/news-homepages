@@ -233,3 +233,14 @@ table.align-default {
     margin-left: 0 !important;
     margin-right: 0 !important;
 }
+
+.latest-parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.latest-child {
+    width: 250px;
+    margin: 0 5px 5px 0;
+}
