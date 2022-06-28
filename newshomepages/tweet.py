@@ -34,7 +34,7 @@ def mosaic(input_dir: str):
     # Create the headline
     tweet = f"""200 homepages from around the world captured at {now_local.strftime('%-I:%M %p')} in Los Angeles
 
-https://palewi.re/docs/news-homepages/latest.html
+📷 See them all at https://palewi.re/docs/news-homepages/latest.html
     """
 
     # Get the image
