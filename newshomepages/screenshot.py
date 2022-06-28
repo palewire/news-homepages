@@ -41,12 +41,16 @@ def bundle(slug: str, output_dir: str):
 
 
 @cli.command()
-def get_handle_json():
+@click.option("-b", "--bundle", "bundle", default=None)
+def get_handle_json(bundle):
     """Write out a list of site handles as a JSON list.
 
     Used by our GitHub Action to set a matrix of all sites.
     """
-    site_list = utils.get_site_list()
+    if bundle:
+        site_list = utils.get_sites_in_bundle(bundle)
+    else:
+        site_list = utils.get_site_list()
     handle_list = [s["handle"] for s in site_list]
     json.dump(handle_list, open("handles.json", "w"), indent=2)
 

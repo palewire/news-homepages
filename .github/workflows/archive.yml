@@ -20,7 +20,7 @@ jobs:
 
       - id: create-handles-json
         name: Create handles JSON
-        run:  pipenv run python -m newshomepages.screenshot get-handle-json
+        run: pipenv run python -m newshomepages.screenshot get-handle-json
         shell: bash
 
       - id: set-matrix
