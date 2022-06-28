@@ -131,8 +131,8 @@ jobs:
         with:
           source: ${{ matrix.source }}
           command: single
-          access-key: ${{ secrets.ia-access-key }}
-          secret-key: ${{ secrets.ia-secret-key }}
+          access-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
 
   archive:
     name: Post to archive.org
