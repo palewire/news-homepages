@@ -48,14 +48,6 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/apmreports.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/apmreports.jpg"
-     alt="APM Reports"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/ajenglish.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ajenglish.jpg"
      alt="Al Jazeera English"
@@ -91,6 +83,14 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/pajaropolitico.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pajaropolitico.jpg"
      alt="Animal Político"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/apmreports.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/apmreports.jpg"
+     alt="APM Reports"
      loading="lazy">
  </a>
 </div>
@@ -136,17 +136,17 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/bbc.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bbc.jpg"
-     alt="BBC"
+ <a href="https://palewi.re/docs/news-homepages/sites/baltimorebanner.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebanner.jpg"
+     alt="Baltimore Banner"
      loading="lazy">
  </a>
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/baltimorebanner.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebanner.jpg"
-     alt="Baltimore Banner"
+ <a href="https://palewi.re/docs/news-homepages/sites/bbc.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bbc.jpg"
+     alt="BBC"
      loading="lazy">
  </a>
 </div>
@@ -232,30 +232,6 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/wncn.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wncn.jpg"
-     alt="CBS 17"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/cbsnews.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbsnews.jpg"
-     alt="CBS News"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/cnn.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnn.jpg"
-     alt="CNN"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/capgaznews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capgaznews.jpg"
      alt="Capital Gazette"
@@ -267,6 +243,22 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/cpublicpress.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpublicpress.jpg"
      alt="Carolina Public Press"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wncn.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wncn.jpg"
+     alt="CBS 17"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cbsnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbsnews.jpg"
+     alt="CBS News"
      loading="lazy">
  </a>
 </div>
@@ -339,6 +331,14 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/clarionledger.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/clarionledger.jpg"
      alt="Clarion Ledger"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cnn.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnn.jpg"
+     alt="CNN"
      loading="lazy">
  </a>
 </div>
@@ -432,22 +432,6 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/foxla.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxla.jpg"
-     alt="FOX 11 Los Angeles"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/france24.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24.jpg"
-     alt="FRANCE 24"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/ft.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ft.jpg"
      alt="Financial Times"
@@ -496,6 +480,14 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/foxla.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxla.jpg"
+     alt="FOX 11 Los Angeles"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/foxnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxnews.jpg"
      alt="Fox News"
@@ -504,9 +496,25 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/france24.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24.jpg"
+     alt="FRANCE 24"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/france24_en.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24_en.jpg"
      alt="France 24 English"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/franceinfo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/franceinfo.jpg"
+     alt="franceinfo"
      loading="lazy">
  </a>
 </div>
@@ -547,6 +555,14 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/htrnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/htrnews.jpg"
      alt="Herald Times Reporter"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hromadskeua.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hromadskeua.jpg"
+     alt="hromadske"
      loading="lazy">
  </a>
 </div>
@@ -624,6 +640,14 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/knockdotla.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knockdotla.jpg"
+     alt="Knock.LA"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/komunews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/komunews.jpg"
      alt="KOMU"
@@ -664,14 +688,6 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/knockdotla.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knockdotla.jpg"
-     alt="Knock.LA"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/kyivindependent.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kyivindependent.jpg"
      alt="Kyiv Independent"
@@ -688,14 +704,6 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/laist.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/laist.jpg"
-     alt="LAist"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/lajornada.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg"
      alt="La Jornada"
@@ -707,6 +715,14 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/lacrossetribune.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lacrossetribune.jpg"
      alt="LaCrosse Tribune"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/laist.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/laist.jpg"
+     alt="LAist"
      loading="lazy">
  </a>
 </div>
@@ -792,14 +808,6 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/msnbc.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg"
-     alt="MSNBC"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/marshallproj.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marshallproj.jpg"
      alt="Marshall Project"
@@ -840,17 +848,17 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/minnpost.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg"
-     alt="MinnPost"
+ <a href="https://palewi.re/docs/news-homepages/sites/startribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startribune.jpg"
+     alt="Minneapolis Star Tribune"
      loading="lazy">
  </a>
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/startribune.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startribune.jpg"
-     alt="Minneapolis Star Tribune"
+ <a href="https://palewi.re/docs/news-homepages/sites/minnpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg"
+     alt="MinnPost"
      loading="lazy">
  </a>
 </div>
@@ -872,17 +880,9 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/nbcnews.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg"
-     alt="NBC News"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/npr.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/npr.jpg"
-     alt="NPR"
+ <a href="https://palewi.re/docs/news-homepages/sites/msnbc.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg"
+     alt="MSNBC"
      loading="lazy">
  </a>
 </div>
@@ -904,6 +904,14 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nbcnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg"
+     alt="NBC News"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nytimes.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg"
      alt="New York Times"
@@ -915,6 +923,22 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/newyorker.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newyorker.jpg"
      alt="New Yorker"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/npr.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/npr.jpg"
+     alt="NPR"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/okayplayer.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/okayplayer.jpg"
+     alt="okayplayer"
      loading="lazy">
  </a>
 </div>
@@ -976,17 +1000,17 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/politico.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politico.jpg"
-     alt="POLITICO"
+ <a href="https://palewi.re/docs/news-homepages/sites/pitchfork.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pitchfork.jpg"
+     alt="Pitchfork"
      loading="lazy">
  </a>
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/pitchfork.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pitchfork.jpg"
-     alt="Pitchfork"
+ <a href="https://palewi.re/docs/news-homepages/sites/politico.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politico.jpg"
+     alt="POLITICO"
      loading="lazy">
  </a>
 </div>
@@ -1064,14 +1088,6 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/rianru.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rianru.jpg"
-     alt="RIA Novosti"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/reuters.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reuters.jpg"
      alt="Reuters"
@@ -1083,6 +1099,14 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/reveal.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reveal.jpg"
      alt="Reveal"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/rianru.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rianru.jpg"
+     alt="RIA Novosti"
      loading="lazy">
  </a>
 </div>
@@ -1107,22 +1131,6 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/rollingstone.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollingstone.jpg"
      alt="Rolling Stone"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/sbnation.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sbnation.jpg"
-     alt="SB Nation"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/scotusblog.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotusblog.jpg"
-     alt="SCOTUS Blog"
      loading="lazy">
  </a>
 </div>
@@ -1155,6 +1163,22 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/thenewmexican.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewmexican.jpg"
      alt="Santa Fe New Mexican"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sbnation.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sbnation.jpg"
+     alt="SB Nation"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/scotusblog.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotusblog.jpg"
+     alt="SCOTUS Blog"
      loading="lazy">
  </a>
 </div>
@@ -1227,14 +1251,6 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/sltimes.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sltimes.jpg"
      alt="Storm Lake Times"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/time.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/time.jpg"
-     alt="TIME"
      loading="lazy">
  </a>
 </div>
@@ -1400,17 +1416,17 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/pioneerpress.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pioneerpress.jpg"
-     alt="Twin Cities Pioneer Press"
+ <a href="https://palewi.re/docs/news-homepages/sites/time.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/time.jpg"
+     alt="TIME"
      loading="lazy">
  </a>
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/usatoday.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usatoday.jpg"
-     alt="USA Today"
+ <a href="https://palewi.re/docs/news-homepages/sites/pioneerpress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pioneerpress.jpg"
+     alt="Twin Cities Pioneer Press"
      loading="lazy">
  </a>
 </div>
@@ -1432,9 +1448,9 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/vtdigger.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vtdigger.jpg"
-     alt="VT Digger"
+ <a href="https://palewi.re/docs/news-homepages/sites/usatoday.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usatoday.jpg"
+     alt="USA Today"
      loading="lazy">
  </a>
 </div>
@@ -1488,33 +1504,9 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/wbez.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbez.jpg"
-     alt="WBEZ"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/wnyc.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnyc.jpg"
-     alt="WNYC"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/wral.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wral.jpg"
-     alt="WRAL"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/wttw.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wttw.jpg"
-     alt="WTTW"
+ <a href="https://palewi.re/docs/news-homepages/sites/vtdigger.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vtdigger.jpg"
+     alt="VT Digger"
      loading="lazy">
  </a>
 </div>
@@ -1560,9 +1552,41 @@ The most recent homepages captured from 200 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wbez.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbez.jpg"
+     alt="WBEZ"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/wistatejournal.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wistatejournal.jpg"
      alt="Wisconsin State Journal"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wnyc.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnyc.jpg"
+     alt="WNYC"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wral.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wral.jpg"
+     alt="WRAL"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wttw.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wttw.jpg"
+     alt="WTTW"
      loading="lazy">
  </a>
 </div>
@@ -1579,30 +1603,6 @@ The most recent homepages captured from 200 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/zn_ua.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/zn_ua.jpg"
      alt="ZN.UA"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/franceinfo.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/franceinfo.jpg"
-     alt="franceinfo"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/hromadskeua.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hromadskeua.jpg"
-     alt="hromadske"
-     loading="lazy">
- </a>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/okayplayer.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/okayplayer.jpg"
-     alt="okayplayer"
      loading="lazy">
  </a>
 </div>
