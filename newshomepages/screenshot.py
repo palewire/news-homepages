@@ -80,7 +80,6 @@ def _shoot(site: typing.Dict, output_dir: str):
                 "--enable-logging=stderr",
                 "--log-level=0",
                 "--v=1",
-                "--hide-scrollbars",
             ],
             user_agent="News Homepages (https://homepages.news/)",
         )

@@ -17,6 +17,7 @@ runs:
     - uses: actions/download-artifact@v3
       with:
         name: mosaics
+        path: ./mosaics
 
     - id: tweet
       name: Tweet
