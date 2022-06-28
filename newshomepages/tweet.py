@@ -100,20 +100,13 @@ def bundle(slug: str, input_dir: str):
     # Pull the source metadata
     bundle = utils.get_bundle(slug)
     click.echo(f"Tweeting {bundle['name']}")
-    site_list = utils.get_sites_in_bundle(slug)
-
-    # Sort alphabetically by handle
-    sorted_list = sorted(site_list, key=lambda x: x["handle"].lower())
 
     # Set the input directory
     input_path = Path(input_dir)
 
-    # Cut any handles where the file doesn't exist
-    exists_list = []
-    for site in sorted_list:
-        image_path = input_path / f"{site['handle'].lower()}.jpg"
-        if image_path.exists():
-            exists_list.append(site)
+    # Pull images from input directory
+    image_paths = list(input_path.glob("*.jpg"))
+    click.echo(f"{len(image_paths)} images discovered in {input_path}")
 
     # Connect to Twitter
     api = get_twitter_client()
@@ -132,29 +125,17 @@ def bundle(slug: str, input_dir: str):
 
     # Loop through all the targets
     media_list = []
-    for i, site in enumerate(exists_list):
-        # Get the list item
-        emoji = utils.numoji(i + 1)
-        list_item = f"\n{emoji} {site['name']}"
-
-        # Get the image
-        image_path = input_path / f"{site['handle'].lower()}.jpg"
+    for image_path in image_paths:
+        # Create media upload
         io = open(image_path, "rb")
         media_id = api.UploadMediaSimple(io)
 
-        # Get the timestamp
-        site_now = datetime.now()
-
-        # Convert it to local time
-        tz = pytz.timezone(site["timezone"])
-        site_local = site_now.astimezone(tz)
-
         # Add the alt text to the image
-        alt_text = f"The {site['name']} homepage at {site_local.strftime('%-I:%M %p')} in {site['location']}"
+        alt_text = f"{bundle['name']} homepages at {now_local.strftime('%-I:%M %p')} in {bundle['location']}"
         api.PostMediaMetadata(media_id, alt_text)
 
         # Add it to our list
-        media_list.append([list_item, media_id])
+        media_list.append(media_id)
 
     # Break it into chunks of four
     chunk_list = utils.chunk(media_list, 4)
@@ -169,18 +150,17 @@ def bundle(slug: str, input_dir: str):
             tweet = ""
 
         # Build the lists
-        media_list = []
-        for list_item, media_id in chunk:
-            tweet += list_item
-            media_list.append(media_id)
+        tweet_media_list = []
+        for media_id in chunk:
+            tweet_media_list.append(media_id)
         tweet += f"\n\n{hashtags}"
 
         # Make the tweet
         if i == 0:
-            status = api.PostUpdate(tweet, media=media_list)
+            status = api.PostUpdate(tweet, media=tweet_media_list)
         else:
             status = api.PostUpdate(
-                tweet, media=media_list, in_reply_to_status_id=parent_status_id
+                tweet, media=tweet_media_list, in_reply_to_status_id=parent_status_id
             )
 
         # Pause to let it happen

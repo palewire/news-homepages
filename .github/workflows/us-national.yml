@@ -176,11 +176,11 @@ jobs:
         name: Commit
         uses: ./.github/actions/commit
 
-  tweet:
-    name: Tweet GIF mosaic
+  mosaic:
+    name: Create mosaic grids
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    needs: [commit]
+    needs: [jpg]
     steps:
       - id: checkout
         name: Checkout
@@ -193,11 +193,43 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: screenshots
-          path: ./_dist
+          path: ./_input
 
       - id: tweet
         name: Tweet
-        run: pipenv run python -m newshomepages.tweet bundle us-national -i ./_dist
+        run: pipenv run python -m newshomepages.mosaic grid -i ./_input -o ./_dist
+        shell: bash
+
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: mosaics
+          path: _dist
+          if-no-files-found: error
+
+  tweet:
+    name: Tweet GIF mosaic
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [mosaic]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - uses: actions/download-artifact@v3
+        with:
+          name: mosaics
+          path: ./_input
+
+      - id: tweet
+        name: Tweet
+        run: pipenv run python -m newshomepages.tweet bundle us-national -i ./_input
         shell: bash
         env:
           TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}

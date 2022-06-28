@@ -11,7 +11,7 @@ runs:
 
     - id: mosaic
       name: Mosaic
-      run: pipenv run python -m newshomepages.mosaic -i ./input -o ./_dist
+      run: pipenv run python -m newshomepages.mosaic -i gif ./input -o ./_dist
       shell: bash
 
     - id: save
