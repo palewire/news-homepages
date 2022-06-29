@@ -26,18 +26,10 @@ def cli():
 @cli.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-def single(handle: str, output_dir: str):
+def shoot(handle: str, output_dir: str):
     """Screenshot a single source."""
     site = utils.get_site(handle)
-    _shoot(site, output_dir)
-
-
-@cli.command()
-@click.argument("slug")
-@click.option("-o", "--output-dir", "output_dir", default="./")
-def bundle(slug: str, output_dir: str):
-    """Screenshot a bundle of sources."""
-    [_shoot(site, output_dir) for site in utils.get_sites_in_bundle(slug)]
+    _screenshot(site, output_dir)
 
 
 @cli.command()
@@ -55,7 +47,7 @@ def get_handle_json(bundle):
     json.dump(handle_list, open("handles.json", "w"), indent=2)
 
 
-def _shoot(site: typing.Dict, output_dir: str):
+def _screenshot(site: typing.Dict, output_dir: str):
     """Shoot the provided site."""
     click.echo(f"Screenshotting {site['name']}")
 

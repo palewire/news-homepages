@@ -5,13 +5,18 @@ inputs:
   source:
     description: “The site handle to screenshot”
     required: true
-  command:
-    description: "The screenshot.py command to run"
-    required: true
 
 runs:
   using: "composite"
   steps:
+    - id: checkout
+      name: Checkout
+      uses: actions/checkout@v3
+
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
+
     - id: cache-playwright
       name: Cache Playwright browsers
       uses: actions/cache@v2
@@ -26,7 +31,7 @@ runs:
 
     - id: shoot
       name: Take screenshot
-      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot screenshot ${{ inputs.source }} -o _dist
       shell: bash
       env:
         DEBUG: 'pw:api'
