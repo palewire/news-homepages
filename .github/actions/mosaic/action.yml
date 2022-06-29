@@ -9,14 +9,18 @@ inputs:
 runs:
   using: "composite"
   steps:
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
+
     - uses: actions/download-artifact@v3
       with:
         name: screenshots
-        path: ./input
+        path: ./_input
 
     - id: mosaic
       name: Mosaic
-      run: pipenv run python -m newshomepages.mosaic -i  ${{ inputs.command }} ./input -o ./_dist
+      run: pipenv run python -m newshomepages.mosaic ${{ inputs.command }} -i ./_input -o ./_dist
       shell: bash
 
     - id: save
