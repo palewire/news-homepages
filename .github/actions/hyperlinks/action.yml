@@ -9,6 +9,10 @@ inputs:
 runs:
   using: "composite"
   steps:
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
+
     - id: cache-playwright
       name: Cache Playwright browsers
       uses: actions/cache@v2

@@ -1,0 +1,188 @@
+name: U.S. national news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 10,17 * * *"
+
+jobs:
+  sources:
+    name: Source list
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
+      - id: create-handles-json
+        name: Create handles JSON
+        run: pipenv run python -m newshomepages.screenshot get-handle-json -b uk-national
+        shell: bash
+
+      - id: set-matrix
+        name: Export handles list
+        run: echo "::set-output name=handle_matrix::$(cat handles.json | jq -c)"
+    outputs:
+      handle_matrix: ${{ steps.set-matrix.outputs.handle_matrix }}
+
+  jpg:
+    name: JPG
+    runs-on: ubuntu-20.04
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: screenshot
+        name: Screenshot
+        uses: ./.github/actions/screenshot
+        with:
+          source: ${{ matrix.source }}
+
+  accessibility:
+    name: a11y
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: save-page
+        name: Save the accessibility tree
+        uses: ./.github/actions/accessibility
+        with:
+          source: ${{ matrix.source }}
+
+  hyperlinks:
+    name: Hyperlinks
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: save-page
+        name: Save hyperlinks
+        uses: ./.github/actions/hyperlinks
+        with:
+          source: ${{ matrix.source }}
+
+  wayback:
+    name: Wayback Machine
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: sources
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: save-page
+        name: Save in Wayback Machine
+        uses: ./.github/actions/wayback
+        with:
+          source: ${{ matrix.source }}
+          access-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
+
+  archive:
+    name: Post to archive.org
+    needs: [jpg,accessibility,hyperlinks,sources]
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: archive
+        name: Post
+        uses: ./.github/actions/archive
+        with:
+          source: ${{ matrix.source }}
+          access-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
+          collection: ${{ secrets.IA_COLLECTION }}
+
+  commit:
+    name: Commit to GitHub
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [jpg]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
+
+  mosaic:
+    name: Create GIF mosaic
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [jpg]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: mosaic
+        name: Mosaic
+        uses: ./.github/actions/mosaic
+        with:
+          command: jpg
+
+  tweet:
+    name: Tweet GIF mosaic
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [mosaic]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: tweet
+        name: Tweet
+        uses: ./.github/actions/tweet
+        with:
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          command: bundle uk-national
