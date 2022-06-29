@@ -5,6 +5,8 @@ from pathlib import Path
 import click
 from PIL import Image, ImageOps
 
+from . import utils
+
 
 @click.group()
 def cli():
@@ -15,8 +17,8 @@ def cli():
 @cli.command()
 @click.option("-i", "--input-dir", "input_dir", default="./")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-def grid(input_dir: str, output_dir: str):
-    """Combine images into grids ready for Twitter."""
+def jpg(input_dir: str, output_dir: str):
+    """Combine images into jpgs ready for Twitter."""
     # Get a list of images
     input_path = Path(input_dir)
     input_path.mkdir(parents=True, exist_ok=True)
@@ -58,7 +60,7 @@ def grid(input_dir: str, output_dir: str):
 
         # Save an output
         click.echo(f"Writing mosiac {i+1} to {output_path}")
-        image.save(output_path / f"grid-{i+1}.jpg", "JPEG")
+        image.save(output_path / f"{i+1}.jpg", "JPEG")
 
 
 @cli.command()
@@ -76,23 +78,32 @@ def gif(input_dir: str, output_dir: str):
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
+    # Set the size of our grids and the number of slides
     n = 3
     slide_count = math.floor(len(image_paths) / (n * n))
-    slide_list = []
+
+    # Pull random images from our source list
+    random_images = []
     for _i in range(slide_count):
         random.shuffle(image_paths)
-        random_images = []
         for _x in range(n * n):
             random_images.append(image_paths.pop())
 
-        size = (1300, 1300)
+    # Sort the images alphabetically
+    sorted_images = sorted(random_images)
+
+    slide_list = []
+    for i, image_chunk in enumerate(utils.chunk(sorted_images, n * n)):
+        click.echo(f"Creating slide {i+1}")
+
+        size = list(map(math.floor, (600 / n, 338 / n)))
         shape = (n, n)
 
         # Open images and resize them
         width, height = size
         images = [
             ImageOps.fit(image, size, Image.Resampling.LANCZOS, centering=(0.5, 0))
-            for image in map(Image.open, random_images)
+            for image in map(Image.open, image_chunk)
         ]
 
         # Create canvas for the final image with total size
@@ -107,11 +118,11 @@ def gif(input_dir: str, output_dir: str):
                 idx = row * shape[1] + col
                 image.paste(images[idx], offset)
 
-        # Size down the image
-        smaller_image = image.resize((675, 675))
+        click.echo(f"Writing slide {i+1} to {output_path}")
+        image.save(output_path / f"{i+1}.jpg", "JPEG")
 
         # Add to our master last
-        slide_list.append(smaller_image)
+        slide_list.append(image)
 
     # Combine slides into a GIF
     click.echo(f"Writing GIF to {output_path / 'mosaic.gif'}")

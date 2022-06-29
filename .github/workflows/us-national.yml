@@ -197,7 +197,7 @@ jobs:
 
       - id: tweet
         name: Tweet
-        run: pipenv run python -m newshomepages.mosaic grid -i ./_input -o ./_dist
+        run: pipenv run python -m newshomepages.mosaic jpg -i ./_input -o ./_dist
         shell: bash
 
       - id: save
