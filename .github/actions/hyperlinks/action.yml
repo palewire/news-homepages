@@ -2,9 +2,6 @@ inputs:
   source:
     description: “The site handle to screenshot”
     required: true
-  command:
-    description: "The hyperlinks.py command to run"
-    required: true
 
 runs:
   using: "composite"
@@ -27,7 +24,7 @@ runs:
 
     - id: parse-json
       name: Parse out hyperlinks
-      run: pipenv run python -m newshomepages.hyperlinks ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: pipenv run python -m newshomepages.hyperlinks single ${{ inputs.source }} -o _dist
       shell: bash
 
     - id: save
