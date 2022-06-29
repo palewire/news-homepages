@@ -128,6 +128,7 @@ def _screenshot(site: typing.Dict, output_dir: str):
             "#header-cts",
             ".pum-overlay",  # Common takeover ad
             "#pico_prompt",
+            ".mol-ads-cmp",  # Footer toaster thing on some sites
         ]
         target_str = ",".join(target_list)
         javascript = (
