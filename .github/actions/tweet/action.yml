@@ -3,25 +3,40 @@ description: Post the mosaic to Twitter
 
 inputs:
   consumer-key:
+    description: The Twitter consumer key
     required: true
   consumer-secret:
+    description: The Twitter consumer secret
     required: true
   access-token-key:
+    description: The Twitter access token key
     required: true
   access-token-secret:
+    description: The Twitter access token secret
+    required: true
+  command:
+    description: "The tweet.py command to run"
     required: true
 
 runs:
   using: "composite"
   steps:
+    - id: checkout
+      name: Checkout
+      uses: actions/checkout@v3
+
+    - id: install
+      name: Install
+      uses: ./.github/actions/install
+
     - uses: actions/download-artifact@v3
       with:
         name: mosaics
-        path: ./mosaics
+        path: ./_input
 
     - id: tweet
       name: Tweet
-      run: pipenv run python -m newshomepages.tweet mosaic -i ./mosaics
+      run: pipenv run python -m newshomepages.tweet ${{ inputs.command }} -i ./_input
       shell: bash
       env:
         TWITTER_CONSUMER_KEY: ${{ inputs.consumer-key }}

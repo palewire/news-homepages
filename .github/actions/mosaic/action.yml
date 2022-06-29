@@ -1,9 +1,22 @@
 name: Mosaic
 description: Create image mosaics from the latest screenshots
 
+inputs:
+  command:
+    description: "The mosaic.py command to run"
+    required: true
+
 runs:
   using: "composite"
   steps:
+    - id: checkout
+      name: Checkout
+      uses: actions/checkout@v3
+
+    - id: install
+      name: Install
+      uses: ./.github/actions/install
+
     - uses: actions/download-artifact@v3
       with:
         name: screenshots
@@ -11,7 +24,7 @@ runs:
 
     - id: mosaic
       name: Mosaic
-      run: pipenv run python -m newshomepages.mosaic -i gif ./input -o ./_dist
+      run: pipenv run python -m newshomepages.mosaic -i  ${{ inputs.command }} ./input -o ./_dist
       shell: bash
 
     - id: save

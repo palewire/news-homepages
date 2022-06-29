@@ -5,13 +5,18 @@ inputs:
   source:
     description: “The site handle to screenshot”
     required: true
-  command:
-    description: "The accessibility.py command to run"
-    required: true
 
 runs:
   using: "composite"
   steps:
+    - id: checkout
+      name: Checkout
+      uses: actions/checkout@v3
+
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
+
     - id: cache-playwright
       name: Cache Playwright browsers
       uses: actions/cache@v2
@@ -26,7 +31,7 @@ runs:
 
     - id: parse-a11y
       name: Parse accessibility tree JSON
-      run: pipenv run python -m newshomepages.accessibility ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: pipenv run python -m newshomepages.accessibility single ${{ inputs.source }} -o _dist
       shell: bash
 
     - id: save
