@@ -17,7 +17,7 @@ orphan: true
 | Location       | Sante Fe                                                                 |
 | Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 123 screenshots stored at the Internet Archive.
+The archiving routine has captured 127 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

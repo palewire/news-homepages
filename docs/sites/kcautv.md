@@ -17,7 +17,7 @@ orphan: true
 | Location       | Sioux City                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 112 screenshots stored at the Internet Archive.
+The archiving routine has captured 116 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -17,7 +17,7 @@ orphan: true
 | Location       | San Salvador                                                                 |
 | Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 11 screenshots stored at the Internet Archive.
+The archiving routine has captured 15 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

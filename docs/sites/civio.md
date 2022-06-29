@@ -17,7 +17,7 @@ orphan: true
 | Location       | Madrid                                                                 |
 | Timezone       | Europe/Madrid                                                                 |
 
-The archiving routine has captured 32 screenshots stored at the Internet Archive.
+The archiving routine has captured 36 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -17,7 +17,7 @@ orphan: true
 | Location       | New York                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 340 screenshots stored at the Internet Archive.
+The archiving routine has captured 347 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
