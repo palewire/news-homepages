@@ -5,8 +5,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  extract:
-    name: Extract
+  calculate:
+    name: Calculate
     runs-on: ubuntu-latest
     steps:
       - id: checkout
