@@ -4,10 +4,6 @@ description: Save the latest screenshots to the repository
 runs:
   using: "composite"
   steps:
-    - id: checkout
-      name: Checkout
-      uses: actions/checkout@v3
-
     - uses: actions/download-artifact@v3
       with:
         name: screenshots
