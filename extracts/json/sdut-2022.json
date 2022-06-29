@@ -1,5 +1,5 @@
 {
-  "created": 1656354279,
+  "created": 1656462281,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/4/items/sdut-2022",
@@ -7672,31 +7672,199 @@
       "sha1": "037f9b321218042f3290b1aee8abd16095fb869f"
     },
     {
+      "name": "sdut-2022-06-27T19:16:58.355650-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656382625",
+      "size": "50940",
+      "md5": "450884be806b6b1f2c666df6f40ed5a0",
+      "crc32": "bebeb6af",
+      "sha1": "27bfdb1a048c29430a7404cac32cf9e7bde64892",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-06-27T19:16:58.355650-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656382627",
+      "size": "66651",
+      "md5": "744ac2bb19244940aa0718729e7a6dc9",
+      "crc32": "248d191a",
+      "sha1": "7632eb869ebe4166aa77d5479b8094c8c03c12c0",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-06-27T19:16:58.355650-07:00.jpg",
+      "source": "original",
+      "mtime": "1656382623",
+      "size": "291287",
+      "md5": "b842c7d043f05fc73a3c63e557b353db",
+      "crc32": "cffbffff",
+      "sha1": "9621a759992bc501fc8da8c1fd73aca170141dcf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-06-27T19:16:58.355650-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-06-27T19:16:58.355650-07:00.jpg",
+      "mtime": "1656382691",
+      "size": "8547",
+      "md5": "b8ada9a944149220b4302dedd1812feb",
+      "crc32": "a47d7e13",
+      "sha1": "1d4cb4a581301d49439cefd0dac8d1187d6d02c5"
+    },
+    {
+      "name": "sdut-2022-06-27T20:44:23.236717-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656387865",
+      "size": "50918",
+      "md5": "6c1a5ff5fe69450fc217a229aab3310e",
+      "crc32": "4f842eda",
+      "sha1": "5bad2741990cf1663a84df0121d454ac1cbcd07b",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-06-27T20:44:23.236717-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656387867",
+      "size": "66527",
+      "md5": "dfd6af70d475883d1fafe50f5f9526aa",
+      "crc32": "9cf2cd8a",
+      "sha1": "c3727e7d43ed9ba4c1b2204d2aac3625e899be3e",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-06-27T20:44:23.236717-07:00.jpg",
+      "source": "original",
+      "mtime": "1656387864",
+      "size": "288595",
+      "md5": "929eba3316e46187d4380fb674443b35",
+      "crc32": "741031ae",
+      "sha1": "2a13a495f615a39d0d2ca9bf42b7f4676b5b74cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-06-27T20:44:23.236717-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-06-27T20:44:23.236717-07:00.jpg",
+      "mtime": "1656387981",
+      "size": "8566",
+      "md5": "dbf11292200e27e38e69a47b7039b2d6",
+      "crc32": "4c3940d6",
+      "sha1": "a72548451d7908e3bf801f119d23513efd9da8e0"
+    },
+    {
+      "name": "sdut-2022-06-28T02:39:01.538520-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656409147",
+      "size": "50785",
+      "md5": "2517aacb3c8c3c4beda9747410b3124c",
+      "crc32": "5c7635c6",
+      "sha1": "52bddfd4ccc116f6ce09f5e328f3f5633fc7dfa2",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-06-28T02:39:01.538520-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656409148",
+      "size": "66607",
+      "md5": "a4433357eebc44e2817d9f42f92bc437",
+      "crc32": "94d5ec77",
+      "sha1": "c12f7ea74513f3f79cbc2282fefb643c50bc6cb6",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-06-28T02:39:01.538520-07:00.jpg",
+      "source": "original",
+      "mtime": "1656409145",
+      "size": "291427",
+      "md5": "26b35c670d79cc416bdcee28b23c960b",
+      "crc32": "0041d93d",
+      "sha1": "bc0d552111cd369e8da1a6bc0fc0da20b0c5578e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-06-28T02:39:01.538520-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-06-28T02:39:01.538520-07:00.jpg",
+      "mtime": "1656409244",
+      "size": "8549",
+      "md5": "c512d8c448e14a7ba640cce82307c6ef",
+      "crc32": "a78831f7",
+      "sha1": "976fecb7c1df129e7239b714bee79218ff9895ac"
+    },
+    {
+      "name": "sdut-2022-06-28T10:45:17.940029-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656438325",
+      "size": "51354",
+      "md5": "e9189f91b51798d21826e19ac4aa3ca2",
+      "crc32": "c4a33d65",
+      "sha1": "2fc8dc41ffa714bc2d9a11fbacaa0f1eb5efd1b9",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-06-28T10:45:17.940029-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656438326",
+      "size": "67191",
+      "md5": "d96fd2f4b550179604dd80eb34136f72",
+      "crc32": "45849d1d",
+      "sha1": "ed0897de020714127303fc7318fb425616f62787",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-06-28T10:45:17.940029-07:00.jpg",
+      "source": "original",
+      "mtime": "1656438323",
+      "size": "295476",
+      "md5": "ff5dcd827f43255c3358d2cd6d725065",
+      "crc32": "c6bb341e",
+      "sha1": "b98f68a2f15d95b51b9509b3b2eb033068a822ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-06-28T10:45:17.940029-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-06-28T10:45:17.940029-07:00.jpg",
+      "mtime": "1656438421",
+      "size": "8485",
+      "md5": "0fef9e55cf83e45cac1d5d392560c746",
+      "crc32": "802dbdce",
+      "sha1": "9af910152fc43016a18c2561f10a53d525a55068"
+    },
+    {
       "name": "sdut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b5e86702b8fa2b8db539c0a4e9871bed992fdd2",
-      "mtime": "1656354249",
-      "size": "152358",
-      "md5": "ad8014beb75bddd27a2559652f2832d0",
-      "crc32": "b47cd100",
-      "sha1": "9c15c8c94ea7faae2f241cf3773915d84e050e8c",
+      "btih": "c546f810b7aa9295d0ee3003ccf8011bf7ac4692",
+      "mtime": "1656438429",
+      "size": "155670",
+      "md5": "3467d95eb6e9041b9f77dba7dbcf59e2",
+      "crc32": "9af2938b",
+      "sha1": "1ce88d3b4a21482ebba85a1594b010372fb4f6e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sdut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c312aa68180450ab070000f47b3bfdfe",
+      "md5": "286d8529913bd4d9cd84ccc38d9a5c05",
       "summation": "md5"
     },
     {
       "name": "sdut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656353440",
-      "size": "835584",
-      "md5": "23637f84516b64be4408e120966211b0",
-      "crc32": "96e46f2f",
-      "sha1": "b229b03dcb1f55c45a89c39e7b828aee820d3ac8",
+      "mtime": "1656438333",
+      "size": "851968",
+      "md5": "99b490135152ee1a34f208621e93f041",
+      "crc32": "9341b48d",
+      "sha1": "8aadf027607771b0c65e9c4abb1670a15f97a95b",
       "format": "Metadata"
     },
     {
@@ -7710,9 +7878,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 733,
-  "item_last_updated": 1656354249,
-  "item_size": 76830185,
+  "files_count": 749,
+  "item_last_updated": 1656438429,
+  "item_size": 78521786,
   "metadata": {
     "identifier": "sdut-2022",
     "collection": [
@@ -7729,10 +7897,1812 @@
     "publicdate": "2022-03-23 02:09:42",
     "addeddate": "2022-03-23 02:09:42"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 1899984546,
+  "sdut-2022": [
+    {
+      "text": "News",
+      "url": "https://www.sandiegouniontribune.com/news"
+    },
+    {
+      "text": "Local",
+      "url": "https://www.sandiegouniontribune.com/local"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.sandiegouniontribune.com/sports"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.sandiegouniontribune.com/business"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.sandiegouniontribune.com/entertainment"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.sandiegouniontribune.com/lifestyle"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.sandiegouniontribune.com/opinion"
+    },
+    {
+      "text": "Real Estate News",
+      "url": "https://www.sandiegouniontribune.com/business/real-estate"
+    },
+    {
+      "text": "Hot Property",
+      "url": "https://www.sandiegouniontribune.com/real-estate"
+    },
+    {
+      "text": "eNewspaper",
+      "url": "https://enewspaper.sandiegouniontribune.com/desktop/sdut/default.aspx?pubid=ee84df93-f3c1-463c-a82f-1ab095a198ca"
+    },
+    {
+      "text": "U-T En Espa\u00f1ol: Peri\u00f3dico Electr\u00f3nico",
+      "url": "https://enewspaper.sandiegouniontribune.com/desktop/sdut/default.aspx?pubname=&pubid=5837cb24-d1b7-4f8c-9dc4-46b50a8ee546"
+    },
+    {
+      "text": "Subscriptions",
+      "url": "https://membership.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Manage Subscription",
+      "url": "https://membership.sandiegouniontribune.com/"
+    },
+    {
+      "text": "EZPay",
+      "url": "https://membership.sandiegouniontribune.com/billing-info"
+    },
+    {
+      "text": "Delivery Issue",
+      "url": "https://membership.sandiegouniontribune.com/subscription-info"
+    },
+    {
+      "text": "eNewspaper",
+      "url": "https://enewspaper.sandiegouniontribune.com/desktop/sdut/default.aspx?pubid=ee84df93-f3c1-463c-a82f-1ab095a198ca"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.sandiegouniontribune.com/flyoutsubscribe"
+    },
+    {
+      "text": "Subscriber Terms",
+      "url": "https://www.sandiegouniontribune.com/subscriber-terms-and-conditions"
+    },
+    {
+      "text": "Gift Subscription Terms",
+      "url": "https://www.sandiegouniontribune.com/gift-subscription-terms"
+    },
+    {
+      "text": "Manage Subscription",
+      "url": "https://membership.sandiegouniontribune.com/"
+    },
+    {
+      "text": "EZPay",
+      "url": "https://membership.sandiegouniontribune.com/billing-info"
+    },
+    {
+      "text": "Delivery Issue",
+      "url": "https://membership.sandiegouniontribune.com/subscription-info"
+    },
+    {
+      "text": "eNewspaper",
+      "url": "https://enewspaper.sandiegouniontribune.com/desktop/sdut/default.aspx?pubid=ee84df93-f3c1-463c-a82f-1ab095a198ca"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.sandiegouniontribune.com/flyoutsubscribe"
+    },
+    {
+      "text": "Subscriber Terms",
+      "url": "https://www.sandiegouniontribune.com/subscriber-terms-and-conditions"
+    },
+    {
+      "text": "Gift Subscription Terms",
+      "url": "https://www.sandiegouniontribune.com/gift-subscription-terms"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.sandiegouniontribune.com/contact-us"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.sandiegouniontribune.com/contact-us"
+    },
+    {
+      "text": "Our Journalism Explained",
+      "url": "https://www.sandiegouniontribune.com/our-journalism-explained"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://membership.sandiegouniontribune.com/newsletters"
+    },
+    {
+      "text": "Readers Rep",
+      "url": "https://www.sandiegouniontribune.com/about-us/readers-rep"
+    },
+    {
+      "text": "Careers",
+      "url": "https://nantmedia.wd5.myworkdayjobs.com/SanDiegoUnion-TribuneCareers"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.sandiegouniontribune.com/events"
+    },
+    {
+      "text": "Historical Archives",
+      "url": "https://sandiegouniontribune.newsbank.com/"
+    },
+    {
+      "text": "Podcasts and Livestreams",
+      "url": "https://www.sandiegouniontribune.com/podcasts"
+    },
+    {
+      "text": "U-T Store",
+      "url": "https://store.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.sandiegouniontribune.com/contact-us"
+    },
+    {
+      "text": "Our Journalism Explained",
+      "url": "https://www.sandiegouniontribune.com/our-journalism-explained"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://membership.sandiegouniontribune.com/newsletters"
+    },
+    {
+      "text": "Readers Rep",
+      "url": "https://www.sandiegouniontribune.com/about-us/readers-rep"
+    },
+    {
+      "text": "Careers",
+      "url": "https://nantmedia.wd5.myworkdayjobs.com/SanDiegoUnion-TribuneCareers"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.sandiegouniontribune.com/events"
+    },
+    {
+      "text": "Historical Archives",
+      "url": "https://sandiegouniontribune.newsbank.com/"
+    },
+    {
+      "text": "Podcasts and Livestreams",
+      "url": "https://www.sandiegouniontribune.com/podcasts"
+    },
+    {
+      "text": "U-T Store",
+      "url": "https://store.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.sandiegouniontribune.com/events"
+    },
+    {
+      "text": "Advertising",
+      "url": "https://mediakit.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Place an ad",
+      "url": "https://placeanad.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Media kit",
+      "url": "https://mediakit.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Rate book",
+      "url": "https://ut-webassets.s3.us-west-1.amazonaws.com/images/media-kit/2022RATEBOOK-R3.pdf"
+    },
+    {
+      "text": "Report an ad problem",
+      "url": "https://www.sandiegouniontribune.com/sdut-about-our-ads"
+    },
+    {
+      "text": "Cars",
+      "url": "https://www.sandiegouniontribune.com/cars"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.sandiegouniontribune.com/classifieds"
+    },
+    {
+      "text": "Eldercare Directory",
+      "url": "http://sdut-eldercare.s3-website-us-west-2.amazonaws.com/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://jobs.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Vegas Guide",
+      "url": "https://www.latimes.com/vegasguide"
+    },
+    {
+      "text": "Newspaper ad directory",
+      "url": "https://local.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Newspaper special sections",
+      "url": "https://www.sandiegouniontribune.com/newspaper-special-sections"
+    },
+    {
+      "text": "Real Estate ",
+      "url": "https://www.sandiegouniontribune.com/real-estate"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://www.sandiegouniontribune.com/sponsored"
+    },
+    {
+      "text": "Stats Digital",
+      "url": "https://statsdigital.com/"
+    },
+    {
+      "text": "Place an ad",
+      "url": "https://placeanad.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Media kit",
+      "url": "https://mediakit.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Rate book",
+      "url": "https://ut-webassets.s3.us-west-1.amazonaws.com/images/media-kit/2022RATEBOOK-R3.pdf"
+    },
+    {
+      "text": "Report an ad problem",
+      "url": "https://www.sandiegouniontribune.com/sdut-about-our-ads"
+    },
+    {
+      "text": "Cars",
+      "url": "https://www.sandiegouniontribune.com/cars"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.sandiegouniontribune.com/classifieds"
+    },
+    {
+      "text": "Eldercare Directory",
+      "url": "http://sdut-eldercare.s3-website-us-west-2.amazonaws.com/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://jobs.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Vegas Guide",
+      "url": "https://www.latimes.com/vegasguide"
+    },
+    {
+      "text": "Newspaper ad directory",
+      "url": "https://local.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Newspaper special sections",
+      "url": "https://www.sandiegouniontribune.com/newspaper-special-sections"
+    },
+    {
+      "text": "Real Estate ",
+      "url": "https://www.sandiegouniontribune.com/real-estate"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://www.sandiegouniontribune.com/sponsored"
+    },
+    {
+      "text": "Stats Digital",
+      "url": "https://statsdigital.com/"
+    },
+    {
+      "text": "San Diego Drives",
+      "url": "https://drives.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Local jobs",
+      "url": "https://www.sandiegouniontribune.com/jobs-sdut"
+    },
+    {
+      "text": "CaregiverSD",
+      "url": "https://www.sandiegouniontribune.com/caregiversd-section"
+    },
+    {
+      "text": "Del Mar Times",
+      "url": "https://www.delmartimes.net/"
+    },
+    {
+      "text": "Encinitas Advocate",
+      "url": "https://www.encinitasadvocate.com/"
+    },
+    {
+      "text": "La Jolla Light",
+      "url": "https://www.lajollalight.com/"
+    },
+    {
+      "text": "PB Monthly",
+      "url": "https://www.pbmonthly.net/"
+    },
+    {
+      "text": "Point Loma-OB Monthly",
+      "url": "https://www.pointloma-obmonthly.com/"
+    },
+    {
+      "text": "Pomerado News",
+      "url": "https://www.sandiegouniontribune.com/pomerado-news/"
+    },
+    {
+      "text": "Poway News Chieftain",
+      "url": "https://www.sandiegouniontribune.com/pomerado-news/news/local-news/poway/"
+    },
+    {
+      "text": "Ramona Sentinel",
+      "url": "https://www.sandiegouniontribune.com/ramona-sentinel/"
+    },
+    {
+      "text": "Rancho Bernardo",
+      "url": "https://www.sandiegouniontribune.com/rancho-bernardo/"
+    },
+    {
+      "text": "Rancho Santa Fe Review",
+      "url": "https://www.ranchosantafereview.com/"
+    },
+    {
+      "text": "Del Mar Times",
+      "url": "https://www.delmartimes.net/"
+    },
+    {
+      "text": "Encinitas Advocate",
+      "url": "https://www.encinitasadvocate.com/"
+    },
+    {
+      "text": "La Jolla Light",
+      "url": "https://www.lajollalight.com/"
+    },
+    {
+      "text": "PB Monthly",
+      "url": "https://www.pbmonthly.net/"
+    },
+    {
+      "text": "Point Loma-OB Monthly",
+      "url": "https://www.pointloma-obmonthly.com/"
+    },
+    {
+      "text": "Pomerado News",
+      "url": "https://www.sandiegouniontribune.com/pomerado-news/"
+    },
+    {
+      "text": "Poway News Chieftain",
+      "url": "https://www.sandiegouniontribune.com/pomerado-news/news/local-news/poway/"
+    },
+    {
+      "text": "Ramona Sentinel",
+      "url": "https://www.sandiegouniontribune.com/ramona-sentinel/"
+    },
+    {
+      "text": "Rancho Bernardo",
+      "url": "https://www.sandiegouniontribune.com/rancho-bernardo/"
+    },
+    {
+      "text": "Rancho Santa Fe Review",
+      "url": "https://www.ranchosantafereview.com/"
+    },
+    {
+      "text": "Games, Puzzles, and Crossword",
+      "url": "https://www.sandiegouniontribune.com/games"
+    },
+    {
+      "text": "Crossword",
+      "url": "https://www.sandiegouniontribune.com/games/daily-crossword"
+    },
+    {
+      "text": "Sudoku",
+      "url": "https://www.sandiegouniontribune.com/games/sudoku"
+    },
+    {
+      "text": "Crossword",
+      "url": "https://www.sandiegouniontribune.com/games/daily-crossword"
+    },
+    {
+      "text": "Sudoku",
+      "url": "https://www.sandiegouniontribune.com/games/sudoku"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.sandiegouniontribune.com/obituaries"
+    },
+    {
+      "text": "Death Notices",
+      "url": "https://www.legacy.com/obituaries/sandiegouniontribune/"
+    },
+    {
+      "text": "Place an obituary",
+      "url": "https://placeanad.sandiegouniontribune.com/obituary"
+    },
+    {
+      "text": "Death Notices",
+      "url": "https://www.legacy.com/obituaries/sandiegouniontribune/"
+    },
+    {
+      "text": "Place an obituary",
+      "url": "https://placeanad.sandiegouniontribune.com/obituary"
+    },
+    {
+      "text": "U-T En Espa\u00f1ol",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/"
+    },
+    {
+      "text": "Deportes",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/deportes"
+    },
+    {
+      "text": "Comunidad",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/comunidad"
+    },
+    {
+      "text": "Espect\u00e1culos",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/espectaculos"
+    },
+    {
+      "text": "Cierre de Edici\u00f3n, fotos, videos",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/fotogalerias"
+    },
+    {
+      "text": "Noticias",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/noticias"
+    },
+    {
+      "text": "Peri\u00f3dico Electr\u00f3nico",
+      "url": "https://enewspaper.sandiegouniontribune.com/desktop/sdut/default.aspx?pubname=&pubid=5837cb24-d1b7-4f8c-9dc4-46b50a8ee546"
+    },
+    {
+      "text": "Deportes",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/deportes"
+    },
+    {
+      "text": "Comunidad",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/comunidad"
+    },
+    {
+      "text": "Espect\u00e1culos",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/espectaculos"
+    },
+    {
+      "text": "Cierre de Edici\u00f3n, fotos, videos",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/fotogalerias"
+    },
+    {
+      "text": "Noticias",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/noticias"
+    },
+    {
+      "text": "Peri\u00f3dico Electr\u00f3nico",
+      "url": "https://enewspaper.sandiegouniontribune.com/desktop/sdut/default.aspx?pubname=&pubid=5837cb24-d1b7-4f8c-9dc4-46b50a8ee546"
+    },
+    {
+      "text": "Privacy and Terms",
+      "url": "https://www.sandiegouniontribune.com/privacy-policy"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.sandiegouniontribune.com/privacy-policy"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.sandiegouniontribune.com/terms-of-service"
+    },
+    {
+      "text": "Advertising terms",
+      "url": "https://www.sandiegouniontribune.com/about-us/the-san-diego-union-tribune-llc-advertising-agreement-standard-terms-and-conditions-for-placement-of-print-digital-and-preprint-ads"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.sandiegouniontribune.com/privacy-policy"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.sandiegouniontribune.com/terms-of-service"
+    },
+    {
+      "text": "Advertising terms",
+      "url": "https://www.sandiegouniontribune.com/about-us/the-san-diego-union-tribune-llc-advertising-agreement-standard-terms-and-conditions-for-placement-of-print-digital-and-preprint-ads"
+    },
+    {
+      "text": "CA Notice of Collection",
+      "url": "https://www.sandiegouniontribune.com/privacy-policy#california-notice-of-collection"
+    },
+    {
+      "text": "Do Not Sell My Personal Information",
+      "url": "https://membership.sandiegouniontribune.com/privacy-settings"
+    },
+    {
+      "text": "",
+      "url": "https://www.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.sandiegouniontribune.com/sports"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.sandiegouniontribune.com/business"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.sandiegouniontribune.com/entertainment"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.sandiegouniontribune.com/lifestyle"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.sandiegouniontribune.com/opinion"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.sandiegouniontribune.com/business/real-estate"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.sandiegouniontribune.com/obituaries"
+    },
+    {
+      "text": "eNewspaper",
+      "url": "https://enewspaper.sandiegouniontribune.com/desktop/sdut/default.aspx?pubid=ee84df93-f3c1-463c-a82f-1ab095a198ca"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://membership.sandiegouniontribune.com/newsletters"
+    },
+    {
+      "text": "Subscribe",
+      "url": "#"
+    },
+    {
+      "text": "Log In",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Profile",
+      "url": "#"
+    },
+    {
+      "text": "Sign Out",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://www.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Weather\n          73\u00b0F",
+      "url": "https://www.accuweather.com/en/us/san-diego/92101/current-weather/347628?lang=en-us&partner=web_sdutrib_news"
+    },
+    {
+      "text": "Ukraine crisis",
+      "url": "https://www.sandiegouniontribune.com/topic/ukraine-crisis"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "COVID-19",
+      "url": "https://www.sandiegouniontribune.com/topic/coronavirus"
+    },
+    {
+      "text": "Latino life",
+      "url": "https://www.sandiegouniontribune.com/latino-life"
+    },
+    {
+      "text": "Crossword",
+      "url": "https://www.sandiegouniontribune.com/games/daily-crossword"
+    },
+    {
+      "text": "Sudoku",
+      "url": "https://www.sandiegouniontribune.com/games/sudoku"
+    },
+    {
+      "text": " Top stories",
+      "url": "https://www.sandiegouniontribune.com/top-stories"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/business/growth-development/story/2022-06-27/group-managing-clippers-nba-project-joins-sports-arena-team-midway-village"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "Group managing Clippers\u2019 NBA project joins sports arena team Midway Village+",
+      "url": "https://www.sandiegouniontribune.com/business/growth-development/story/2022-06-27/group-managing-clippers-nba-project-joins-sports-arena-team-midway-village"
+    },
+    {
+      "text": "50 migrants die in trailer abandoned in San Antonio heat",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-28/46-migrants-found-dead-in-abandoned-trailer-in-san-antonio"
+    },
+    {
+      "text": "City Council to discuss renewal of tax measure expected to raise $17.7 million for San Diego Zoo",
+      "url": "https://www.sandiegouniontribune.com/communities/san-diego/story/2022-06-27/zoos-tax-rate-ordinance-under-review-for-renewal"
+    },
+    {
+      "text": "Column: Teen outreach is aided by Billy Joel, Elton John, Rolling Stones ...",
+      "url": "https://www.sandiegouniontribune.com/columnists/story/2022-06-28/column-teen-outreach-is-aided-by-billy-joel-elton-john-rolling-stones-others"
+    },
+    {
+      "text": "As San Diego Rep closed its doors this month, artists of color called it out for past missteps",
+      "url": "https://www.sandiegouniontribune.com/entertainment/theater/story/2022-06-28/as-san-diego-rep-closed-its-doors-this-month-artists-of-color-called-it-out-for-past-missteps"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/watchdog/story/2022-06-27/gloria-withdraws-proposed-ash-street-settlement-minutes-before-monday-council-meeting"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "Gloria withdraws proposed Ash Street settlement minutes before Monday council meeting",
+      "url": "https://www.sandiegouniontribune.com/news/watchdog/story/2022-06-27/gloria-withdraws-proposed-ash-street-settlement-minutes-before-monday-council-meeting"
+    },
+    {
+      "text": "Indictments: Donovan prison guard accepted bribes from inmate who also ran COVID benefits fraud",
+      "url": "https://www.sandiegouniontribune.com/news/courts/story/2022-06-27/indictments-donovan-prison-guard-accepted-bribes-from-inmate-who-also-ran-covid-benefits-fraud"
+    },
+    {
+      "text": "San Diego will be a sunbather\u2019s paradise through the July 4th weekend",
+      "url": "https://www.sandiegouniontribune.com/weather/story/2022-06-28/san-diego-will-be-a-sunbathers-paradise-through-the-july-4th-weekend"
+    },
+    {
+      "text": "San Dieguito school board fires superintendent",
+      "url": "https://www.sandiegouniontribune.com/news/education/story/2022-06-27/san-dieguito-school-board-fires-superintendent-without-cause"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/public-safety/story/2022-06-27/superyacht-seized-from-russian-oligarch-sails-into-san-diego"
+    },
+    {
+      "text": "Superyacht feds say was seized from Russian oligarch sails into San Diego",
+      "url": "https://www.sandiegouniontribune.com/news/public-safety/story/2022-06-27/superyacht-seized-from-russian-oligarch-sails-into-san-diego"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/theater/story/2022-06-26/san-diego-theaters-have-reopened-but-where-has-the-audience-gone"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "San Diego theaters have reopened, but where has the audience gone?",
+      "url": "https://www.sandiegouniontribune.com/entertainment/theater/story/2022-06-26/san-diego-theaters-have-reopened-but-where-has-the-audience-gone"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/business/story/2022-06-27/auto-technicians-at-mercedes-benz-of-san-diego-dealership-go-on-strike"
+    },
+    {
+      "text": "Auto technicians at Mercedes-Benz of San Diego go on strike",
+      "url": "https://www.sandiegouniontribune.com/business/story/2022-06-27/auto-technicians-at-mercedes-benz-of-san-diego-dealership-go-on-strike"
+    },
+    {
+      "text": " Breaking",
+      "url": "https://www.sandiegouniontribune.com/breaking"
+    },
+    {
+      "text": "Body found in trunk of car in Mountain View; homicide investigation underway",
+      "url": "https://www.sandiegouniontribune.com/news/public-safety/story/2022-06-27/body-found-in-trunk-of-car-in-mountain-view-homicide-investigation-underway"
+    },
+    {
+      "text": "15 to life for driver who killed motorcyclist in North County crash",
+      "url": "https://www.sandiegouniontribune.com/news/courts/story/2022-06-27/15-to-life-for-driver-who-killed-motorcyclist-in-north-county-crash"
+    },
+    {
+      "text": "East County man sentenced to 30 days in prison for Capitol breach",
+      "url": "https://www.sandiegouniontribune.com/news/courts/story/2022-06-27/east-county-man-sentenced-to-30-days-in-prison-for-capitol-breach"
+    },
+    {
+      "text": "3 killed, dozens injured when Amtrak train traveling from LA to Chicago derails in Missouri",
+      "url": "https://www.sandiegouniontribune.com/news/california/story/2022-06-27/amtrak-train-collides-with-dump-truck-derails-in-missouri"
+    },
+    {
+      "text": "Man walking on I-8 on-ramp struck by vehicle, killed",
+      "url": "https://www.sandiegouniontribune.com/news/public-safety/story/2022-06-27/man-walking-on-i-8-on-ramp-struck-by-vehicle-killed"
+    },
+    {
+      "text": "Motorcycle rider dies after crashing into freeway sign on Interstate 5 in Chula Vista",
+      "url": "https://www.sandiegouniontribune.com/news/public-safety/story/2022-06-27/motorcycle-rider-dies-after-crashing-into-freeway-sign-on-interstate-5-in-chula-vista"
+    },
+    {
+      "text": "Abortion battles in state courts after Supreme Court ruling",
+      "url": "https://www.sandiegouniontribune.com/news/california/story/2022-06-28/abortion-battles-in-state-courts-after-supreme-court-ruling"
+    },
+    {
+      "text": "California constitutional amendment securing abortion, contraceptive rights goes to voters",
+      "url": "https://www.sandiegouniontribune.com/news/california/story/2022-06-27/california-voters-decide-abortion-rights-state-constitution"
+    },
+    {
+      "text": "Roe ruling shows complex relationship between court, public",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-26/roe-ruling-shows-complex-relationship-between-court-public"
+    },
+    {
+      "text": " Sports",
+      "url": "https://www.sandiegouniontribune.com/sports#San Diego Stadium "
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/sports/padres/story/2022-06-28/machado-caminiti-mvp-parallel-padres"
+    },
+    {
+      "text": "Column: Manny Machado\u2019s grit recalls a former Padre\u2019s MVP year",
+      "url": "https://www.sandiegouniontribune.com/sports/padres/story/2022-06-28/machado-caminiti-mvp-parallel-padres"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/sports/padres/story/2022-06-27/padres-luis-garcia-quit-baseball-phillies-yankees-tryout"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "Padres reliever Luis Garcia\u2019s journey helps him appreciate every day in big leagues",
+      "url": "https://www.sandiegouniontribune.com/sports/padres/story/2022-06-27/padres-luis-garcia-quit-baseball-phillies-yankees-tryout"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/sports/padres/gallery/mlb-power-rankings-time-to-recharge"
+    },
+    {
+      "text": "MLB power rankings: Time to recharge",
+      "url": "https://www.sandiegouniontribune.com/sports/padres/gallery/mlb-power-rankings-time-to-recharge"
+    },
+    {
+      "text": "        ",
+      "url": "https://latinolegacyfoundation.org/"
+    },
+    {
+      "text": "Latino Legacy Foundation releases second installment ",
+      "url": "https://latinolegacyfoundation.org/"
+    },
+    {
+      "text": " Subscribers are reading",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "Developer breaks ground on $285M downtown luxury apartment building with extended-stay hotel rooms",
+      "url": "https://www.sandiegouniontribune.com/business/story/2022-06-24/developer-breaks-ground-on-285m-downtown-luxury-apartment-building-with-long-stay-hotel-rooms"
+    },
+    {
+      "text": "Review: La Jolla Playhouse\u2019s \u2018Lempicka\u2019 an eye-popping study of enigmatic \u2018baroness with a brush\u2019",
+      "url": "https://www.sandiegouniontribune.com/entertainment/theater/story/2022-06-27/review-la-jolla-playhouses-lempicka-an-eye-popping-study-of-enigmatic-baroness-with-a-brush"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "Group managing Clippers\u2019 NBA project joins sports arena team Midway Village+",
+      "url": "https://www.sandiegouniontribune.com/business/growth-development/story/2022-06-27/group-managing-clippers-nba-project-joins-sports-arena-team-midway-village"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "San Diego theaters have reopened, but where has the audience gone?",
+      "url": "https://www.sandiegouniontribune.com/entertainment/theater/story/2022-06-26/san-diego-theaters-have-reopened-but-where-has-the-audience-gone"
+    },
+    {
+      "text": "Talking with ... Padres outfielder Jose Azocar",
+      "url": "https://www.sandiegouniontribune.com/sports/padres/story/2022-06-24/talking-with-padres-outfielder-jose-azocar"
+    },
+    {
+      "text": " State and national politics",
+      "url": "https://www.sandiegouniontribune.com/news/politics#National Politics"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/jan-6-panel-to-hold-surprise-hearing-present-new-evidence"
+    },
+    {
+      "text": "Jan. 6 hearing features key witness from Trump White House",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/jan-6-panel-to-hold-surprise-hearing-present-new-evidence"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/lawyer-who-advised-trump-says-federal-agents-seized-phone"
+    },
+    {
+      "text": "Trump legal adviser John Eastman says federal agents seized his phone",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/lawyer-who-advised-trump-says-federal-agents-seized-phone"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/jan-6-panel-calls-surprise-hearing-for-tuesday"
+    },
+    {
+      "text": "Jan. 6 panel calls surprise hearing to present new evidence",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/jan-6-panel-calls-surprise-hearing-for-tuesday"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/supreme-court-sides-with-coach-who-sought-to-pray-after-game"
+    },
+    {
+      "text": "Supreme Court backs coach in praying on field after games",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/supreme-court-sides-with-coach-who-sought-to-pray-after-game"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-26/what-to-watch-in-primaries-in-colorado-illinois-elsewhere"
+    },
+    {
+      "text": "What to watch in primaries in Colorado, Illinois, elsewhere",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-26/what-to-watch-in-primaries-in-colorado-illinois-elsewhere"
+    },
+    {
+      "text": " War in Ukraine",
+      "url": "https://www.sandiegouniontribune.com/topic/ukraine-crisis"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/russian-missile-strike-hits-crowded-shopping-mall-in-ukraine"
+    },
+    {
+      "text": "Macron says Russia can\u2019t win in Ukraine after strike on mall",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/russian-missile-strike-hits-crowded-shopping-mall-in-ukraine"
+    },
+    {
+      "text": "Live updates | US, Spain find consensus on defense, migrants",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-28/live-updates-g-7-talks-draw-to-close-nato-meet-to-begin"
+    },
+    {
+      "text": " Guides",
+      "url": "https://www.sandiegouniontribune.com/guides"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/things-to-do/story/2022-06-21/fourth-of-july-fireworks-parades-festivities-across-san-diego-2022"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "Fourth of July in San Diego: 48 fireworks shows and other events across the county in 2022",
+      "url": "https://www.sandiegouniontribune.com/entertainment/things-to-do/story/2022-06-21/fourth-of-july-fireworks-parades-festivities-across-san-diego-2022"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/story/2022-06-19/47-things-to-do-eat-and-see-in-san-diego-to-level-up-your-san-diego-summer"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "47 things to do, eat and see in San Diego to level up your summer",
+      "url": "https://www.sandiegouniontribune.com/entertainment/story/2022-06-19/47-things-to-do-eat-and-see-in-san-diego-to-level-up-your-san-diego-summer"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/columnists/story/2022-06-18/san-diego-summer-things-to-do-beach-museums-shopping-zoo"
+    },
+    {
+      "text": "San Diegans can be tourists, too. Here are 4 ways to your perfect San Diego summer",
+      "url": "https://www.sandiegouniontribune.com/columnists/story/2022-06-18/san-diego-summer-things-to-do-beach-museums-shopping-zoo"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/san-diego-news-fix"
+    },
+    {
+      "text": "San Diego News Fix",
+      "url": "https://www.sandiegouniontribune.com/san-diego-news-fix"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/bordercity"
+    },
+    {
+      "text": "Border City",
+      "url": "https://www.sandiegouniontribune.com/bordercity"
+    },
+    {
+      "text": " COVID-19",
+      "url": "https://www.sandiegouniontribune.com/topic/coronavirus"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/health/story/2022-06-23/covid-19-hospitalizations-rise-as-do-cases-county-reports"
+    },
+    {
+      "text": "COVID-19 hospitalizations rising, county reports",
+      "url": "https://www.sandiegouniontribune.com/news/health/story/2022-06-23/covid-19-hospitalizations-rise-as-do-cases-county-reports"
+    },
+    {
+      "text": "Families flock to Rady Children\u2019s Hospital for under-5 COVID vaccines",
+      "url": "https://www.sandiegouniontribune.com/news/health/story/2022-06-21/rady-begins-vaccinating-kids-as-young-as-six-months"
+    },
+    {
+      "text": "Data: Tracking coronavirus in San Diego County",
+      "url": "https://www.sandiegouniontribune.com/tracking-coronavirus-cases-san-diego-county"
+    },
+    {
+      "text": " Shareable",
+      "url": "https://www.sandiegouniontribune.com/shareable"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/business/story/2022-06-28/do-you-own-a-san-diego-microbusiness-dont-miss-the-deadline-for-this-covid-19-relief-money"
+    },
+    {
+      "text": "Do you own a San Diego microbusiness? Don\u2019t miss the deadline for this COVID-19 relief money",
+      "url": "https://www.sandiegouniontribune.com/business/story/2022-06-28/do-you-own-a-san-diego-microbusiness-dont-miss-the-deadline-for-this-covid-19-relief-money"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/story/2022-06-28/spider-man-beyond-amazing-exhibit-swings-into-comic-con-museum"
+    },
+    {
+      "text": " \u2018Spider-Man: Beyond Amazing\u2019 exhibit swings into Comic-Con Museum ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/story/2022-06-28/spider-man-beyond-amazing-exhibit-swings-into-comic-con-museum"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/health/story/2022-06-28/all-the-news-thats-fit-cancers-link-to-wildfires-testicular-tissue-and-forgetfulness"
+    },
+    {
+      "text": "All The News That\u2019s Fit: Cancer\u2019s link to wildfires, testicular tissue and forgetfulness",
+      "url": "https://www.sandiegouniontribune.com/news/health/story/2022-06-28/all-the-news-thats-fit-cancers-link-to-wildfires-testicular-tissue-and-forgetfulness"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/classical-music/story/2022-06-27/san-diego-opera-closes-2022-season-with-a-surplus-thanks-to-federal-grants-during-covid"
+    },
+    {
+      "text": "San Diego Opera closes 2022 season with a surplus, thanks to federal grants during COVID",
+      "url": "https://www.sandiegouniontribune.com/entertainment/classical-music/story/2022-06-27/san-diego-opera-closes-2022-season-with-a-surplus-thanks-to-federal-grants-during-covid"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/classical-music/story/2022-06-27/review-san-diego-symphony-summer-season-opens-with-bracing-berlioz-and-rousing-ravel"
+    },
+    {
+      "text": "Review: San Diego Symphony summer season opens with bracing Berlioz and rousing Ravel",
+      "url": "https://www.sandiegouniontribune.com/entertainment/classical-music/story/2022-06-27/review-san-diego-symphony-summer-season-opens-with-bracing-berlioz-and-rousing-ravel"
+    },
+    {
+      "text": "           ",
+      "url": "https://drives.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Have up to 100 San Diego dealers compete to buy your car at auction.",
+      "url": "https://drives.sandiegouniontribune.com/"
+    },
+    {
+      "text": "       ",
+      "url": "https://www.sandiegouniontribune.com/real-estate"
+    },
+    {
+      "text": "San Diego\u2019s most complete\nhome search is here.",
+      "url": "https://www.sandiegouniontribune.com/real-estate"
+    },
+    {
+      "text": "       ",
+      "url": "https://www.sandiegouniontribune.com/jobs-sdut"
+    },
+    {
+      "text": "Search for career opportunities in San Diego.",
+      "url": "https://www.sandiegouniontribune.com/jobs-sdut"
+    },
+    {
+      "text": "       ",
+      "url": "https://www.sandiegouniontribune.com/events"
+    },
+    {
+      "text": "Find out about our upcoming events. ",
+      "url": "https://www.sandiegouniontribune.com/events"
+    },
+    {
+      "text": " Ideas & Opinions",
+      "url": "https://www.sandiegouniontribune.com/opinion"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/opinion/editorials/story/2022-06-24/opinion-u-s-supreme-court-way-wrong-to-take-right-away"
+    },
+    {
+      "text": "Opinion: Overturning Roe v. Wade turned back American rights by 50 years. What\u2019s next?",
+      "url": "https://www.sandiegouniontribune.com/opinion/editorials/story/2022-06-24/opinion-u-s-supreme-court-way-wrong-to-take-right-away"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2022-06-24/the-future-of-abortion-as-the-u-s-supreme-court-overturns-roe-v-wade"
+    },
+    {
+      "text": "Opinion: The future of abortion as the U.S. Supreme Court overturns Roe v. Wade",
+      "url": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2022-06-24/the-future-of-abortion-as-the-u-s-supreme-court-overturns-roe-v-wade"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2022-06-24/opinion-have-your-say-on-how-the-city-should-regulate-street-vendors"
+    },
+    {
+      "text": "Opinion: Have Your Say on the future of abortion in the U.S after Roe v. Wade decision",
+      "url": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2022-06-24/opinion-have-your-say-on-how-the-city-should-regulate-street-vendors"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/opinion/editorials/story/2022-06-23/opinion-with-gun-bill-supreme-court-ruling-nation-takes-one-step-forward-and-many-steps-backward"
+    },
+    {
+      "text": "Opinion: With gun bill, Supreme Court ruling, nation takes one step forward and many steps backward",
+      "url": "https://www.sandiegouniontribune.com/opinion/editorials/story/2022-06-23/opinion-with-gun-bill-supreme-court-ruling-nation-takes-one-step-forward-and-many-steps-backward"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2022-06-23/opinion-gun-toting-candidate-from-missouri-should-be-disqualified"
+    },
+    {
+      "text": "Opinion: \u2018RINO hunting\u2019 candidate from Missouri should be disqualified from service",
+      "url": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2022-06-23/opinion-gun-toting-candidate-from-missouri-should-be-disqualified"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/opinion/editorials/story/2022-06-22/sd-ed-california-gas-prices-relief-stalled-recess-july-1"
+    },
+    {
+      "text": "Opinion: California lawmakers choose month-long recess over enacting relief from gasoline cost",
+      "url": "https://www.sandiegouniontribune.com/opinion/editorials/story/2022-06-22/sd-ed-california-gas-prices-relief-stalled-recess-july-1"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/opinion/steve-breen/gallery/steve-breens-recent-cartoons"
+    },
+    {
+      "text": "The latest from Steve Breen",
+      "url": "https://www.sandiegouniontribune.com/opinion/steve-breen/gallery/steve-breens-recent-cartoons"
+    },
+    {
+      "text": "here",
+      "url": "https://www.sandiegouniontribune.com/opinion/steve-breen/gallery/steve-breen-february-2021"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/opinion/commentary/story/2022-06-20/future-of-abortion-roe-v-wade"
+    },
+    {
+      "text": "Opinion: What the end of Roe V. Wade could mean to a divided nation",
+      "url": "https://www.sandiegouniontribune.com/opinion/commentary/story/2022-06-20/future-of-abortion-roe-v-wade"
+    },
+    {
+      "text": " community voices project",
+      "url": "https://www.sandiegouniontribune.com/community-voices-project"
+    },
+    {
+      "text": "Opinion: Let\u2019s teach every kid in San Diego County how to swim ",
+      "url": "https://www.sandiegouniontribune.com/community-voices-project/story/2022-06-22/opinion-lets-teach-every-kid-in-san-diego-county-how-to-swim"
+    },
+    {
+      "text": "Opinion: A Tijuana-San Diego binational roundtable could shape the future of our region",
+      "url": "https://www.sandiegouniontribune.com/community-voices-project/story/2022-06-21/a-tijuana-san-diego-roundtable-could-shape-the-future"
+    },
+    {
+      "text": " Columnists",
+      "url": "https://www.sandiegouniontribune.com/columnists"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/sdut-diane-bell-staff.html"
+    },
+    {
+      "text": "Diane Bell",
+      "url": "https://www.sandiegouniontribune.com/sdut-diane-bell-staff.html"
+    },
+    {
+      "text": "Chronicling life in and around the region.",
+      "url": "https://www.sandiegouniontribune.com/sdut-diane-bell-staff.html"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/sdut-nick-canepa-staff.html"
+    },
+    {
+      "text": "Nick Canepa",
+      "url": "https://www.sandiegouniontribune.com/sdut-nick-canepa-staff.html"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/sdut-lisa-deaderick-staff.html"
+    },
+    {
+      "text": "Lisa Deaderick",
+      "url": "https://www.sandiegouniontribune.com/sdut-lisa-deaderick-staff.html"
+    },
+    {
+      "text": "Social justice issues with activists, experts and everyday people.",
+      "url": "https://www.sandiegouniontribune.com/sdut-lisa-deaderick-staff.html"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/sdut-karla-peterson-staff.html"
+    },
+    {
+      "text": "Karla Peterson",
+      "url": "https://www.sandiegouniontribune.com/sdut-karla-peterson-staff.html"
+    },
+    {
+      "text": "Stories on San Diego\u2019s community and cultural life",
+      "url": "https://www.sandiegouniontribune.com/sdut-karla-peterson-staff.html"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/sdut-michael-smolens-staff.html"
+    },
+    {
+      "text": "Michael Smolens",
+      "url": "https://www.sandiegouniontribune.com/sdut-michael-smolens-staff.html"
+    },
+    {
+      "text": "Political analysis from a veteran San Diego journalist",
+      "url": "https://www.sandiegouniontribune.com/sdut-michael-smolens-staff.html"
+    },
+    {
+      "text": " Latino life",
+      "url": "https://www.sandiegouniontribune.com/latino-life"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/ap-source-at-least-40-found-dead-in-back-of-tractor-trailer"
+    },
+    {
+      "text": "46 migrants found dead in abandoned trailer in San Antonio",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-27/ap-source-at-least-40-found-dead-in-back-of-tractor-trailer"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/religion/story/2022-06-26/hospital-chaplains-steward-spiritual-healing-for-end-of-life-patients-and-their-families"
+    },
+    {
+      "text": "Hospital chaplains steward spiritual healing for end-of-life patients and their families",
+      "url": "https://www.sandiegouniontribune.com/news/religion/story/2022-06-26/hospital-chaplains-steward-spiritual-healing-for-end-of-life-patients-and-their-families"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/border-baja-california/story/2022-06-25/tens-of-thousands-flood-tijuana-for-the-citys-27th-pride-parade"
+    },
+    {
+      "text": "Tens of thousands show up for Tijuana\u2019s 27th Pride Parade",
+      "url": "https://www.sandiegouniontribune.com/news/border-baja-california/story/2022-06-25/tens-of-thousands-flood-tijuana-for-the-citys-27th-pride-parade"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/tv/story/2022-06-25/gordita-chronicles-hbo-max-review"
+    },
+    {
+      "text": "Authentically sunny and sweet, \u2018Gordita Chronicles\u2019 is the sitcom of the summer",
+      "url": "https://www.sandiegouniontribune.com/entertainment/tv/story/2022-06-25/gordita-chronicles-hbo-max-review"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/public-safety/story/2022-06-24/san-diegans-protest-scotus-decision-overturning-roe-v-wade"
+    },
+    {
+      "text": "Thousands of San Diegans protest SCOTUS decision overturning Roe v. Wade",
+      "url": "https://www.sandiegouniontribune.com/news/public-safety/story/2022-06-24/san-diegans-protest-scotus-decision-overturning-roe-v-wade"
+    },
+    {
+      "text": " San Diego Community Almanac",
+      "url": "https://www.sandiegouniontribune.com/almanac"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/topic/community-almanac"
+    },
+    {
+      "text": "San Diego County communities",
+      "url": "https://www.sandiegouniontribune.com/topic/community-almanac"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/almanac/story/2021-08-13/san-diego-county-amenities"
+    },
+    {
+      "text": "San Diego County amenities",
+      "url": "https://www.sandiegouniontribune.com/almanac/story/2021-08-13/san-diego-county-amenities"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/almanac/story/2021-08-13/tales-from-the-pandemic"
+    },
+    {
+      "text": "Tales from the pandemic",
+      "url": "https://www.sandiegouniontribune.com/almanac/story/2021-08-13/tales-from-the-pandemic"
+    },
+    {
+      "text": " Visual storytelling",
+      "url": "https://www.sandiegouniontribune.com/visual-storytelling"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/photography/gallery/the-week-in-photos"
+    },
+    {
+      "text": "Gallery: The week in photos",
+      "url": "https://www.sandiegouniontribune.com/photography/gallery/the-week-in-photos"
+    },
+    {
+      "text": "\u00d7",
+      "url": "#"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/00jda1d3dby-123"
+    },
+    {
+      "text": "The Poseidon desalination plant in Carlsbad",
+      "url": "https://www.sandiegouniontribune.com/00jda1d3dby-123"
+    },
+    {
+      "text": "\u00d7",
+      "url": "#"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/2kux7ig9way-123"
+    },
+    {
+      "text": "Tijuana plant-based tacos",
+      "url": "https://www.sandiegouniontribune.com/2kux7ig9way-123"
+    },
+    {
+      "text": " Latest",
+      "url": "https://www.sandiegouniontribune.com/latest"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/health/story/2022-06-28/these-often-missed-symptoms-in-a-woman-may-signal-heart-disease"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.sandiegouniontribune.com/news/health"
+    },
+    {
+      "text": "These often-missed symptoms in a woman may signal heart disease",
+      "url": "https://www.sandiegouniontribune.com/news/health/story/2022-06-28/these-often-missed-symptoms-in-a-woman-may-signal-heart-disease"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/theater/story/2022-06-28/theater-notebook-local-theater-community-mourns-award-winning-actor-cortez-l-johnson"
+    },
+    {
+      "text": "Theater",
+      "url": "https://www.sandiegouniontribune.com/entertainment/theater"
+    },
+    {
+      "text": "Theater Notebook: Local theater community mourns award-winning actor Cortez L. Johnson",
+      "url": "https://www.sandiegouniontribune.com/entertainment/theater/story/2022-06-28/theater-notebook-local-theater-community-mourns-award-winning-actor-cortez-l-johnson"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/politics/story/2022-06-27/mission-beach-leaders-file-complaint-over-citys-lack-of-street-vendor-enforcement"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.sandiegouniontribune.com/news/politics"
+    },
+    {
+      "text": "Mission Beach leaders file complaint over city\u2019s lack of street vendor enforcement",
+      "url": "https://www.sandiegouniontribune.com/news/politics/story/2022-06-27/mission-beach-leaders-file-complaint-over-citys-lack-of-street-vendor-enforcement"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/visual-arts/story/2022-06-27/in-the-buses-arefreedom-riders"
+    },
+    {
+      "text": "Visual Art",
+      "url": "https://www.sandiegouniontribune.com/entertainment/visual-arts"
+    },
+    {
+      "text": "In \u2018The Buses Are Coming,\u2019 the story of the Freedom Riders",
+      "url": "https://www.sandiegouniontribune.com/entertainment/visual-arts/story/2022-06-27/in-the-buses-arefreedom-riders"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/communities/north-county/san-marcos/story/2022-06-26/woman-football-player-relishes-her-vocation-as-recreation-leader-for-north-county-seniors"
+    },
+    {
+      "text": "San Marcos",
+      "url": "https://www.sandiegouniontribune.com/communities/north-county/san-marcos"
+    },
+    {
+      "text": "Woman football player relishes her vocation as recreation leader for North County seniors",
+      "url": "https://www.sandiegouniontribune.com/communities/north-county/san-marcos/story/2022-06-26/woman-football-player-relishes-her-vocation-as-recreation-leader-for-north-county-seniors"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/columnists/story/2022-06-26/social-justice-column-medical-physicist-and-researcher-discusses-the-recent-ruling-banning-trans-women-from-elite-swimming-competitions"
+    },
+    {
+      "text": "Columns",
+      "url": "https://www.sandiegouniontribune.com/columnists"
+    },
+    {
+      "text": "Banning transgender women from competing in women\u2019s sports is \u2018unnecessary\u2019 and \u2018restrictive\u2019",
+      "url": "https://www.sandiegouniontribune.com/columnists/story/2022-06-26/social-justice-column-medical-physicist-and-researcher-discusses-the-recent-ruling-banning-trans-women-from-elite-swimming-competitions"
+    },
+    {
+      "text": " Someone San Diego Should Know",
+      "url": "https://www.sandiegouniontribune.com/someone-san-diego-should-know"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/someone-san-diego-should-know/story/2022-06-23/cecil-steppe"
+    },
+    {
+      "text": "Someone San Diego Should Know: Cecil Steppe",
+      "url": "https://www.sandiegouniontribune.com/someone-san-diego-should-know/story/2022-06-23/cecil-steppe"
+    },
+    {
+      "text": " People",
+      "url": "https://www.sandiegouniontribune.com/lifestyle/people"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/lifestyle/people/story/2022-06-25/oceanside-sisters-want-more-women-of-color-in-health-and-wellness-spaces"
+    },
+    {
+      "text": "Oceanside sisters want more women of color in health and wellness spaces",
+      "url": "https://www.sandiegouniontribune.com/lifestyle/people/story/2022-06-25/oceanside-sisters-want-more-women-of-color-in-health-and-wellness-spaces"
+    },
+    {
+      "text": " Border & Immigration",
+      "url": "https://www.sandiegouniontribune.com/news/immigration"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/immigration/story/2022-06-26/syrian-family-tijuana-reunion"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "He tried to reunite with his Syrian refugee family in Tijuana, just briefly. Mexico said no",
+      "url": "https://www.sandiegouniontribune.com/news/immigration/story/2022-06-26/syrian-family-tijuana-reunion"
+    },
+    {
+      "text": "Settlement reaffirms right to film and photograph at border. But the signage is less clear",
+      "url": "https://www.sandiegouniontribune.com/news/border-baja-california/story/2022-06-23/filming-no-longer-prohibited-at-border"
+    },
+    {
+      "text": "A 9th Circuit panel tossed California\u2019s ban on private immigration facilities. That could change on appeal",
+      "url": "https://www.sandiegouniontribune.com/news/courts/story/2022-06-22/ab32-appeal-court-private-prisons"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "Afghans face insurmountable challenges in fleeing to U.S., a stark contrast to arriving Ukrainians",
+      "url": "https://www.sandiegouniontribune.com/news/immigration/story/2022-06-19/afghans-ukrainians-humanitarian-parole"
+    },
+    {
+      "text": "FBI seeks father whose baby went missing, girlfriend was found dead in Tijuana",
+      "url": "https://www.sandiegouniontribune.com/news/public-safety/story/2022-06-17/fbi-seeks-father-whose-baby-went-missing-girlfriend-was-found-dead-in-tijuana"
+    },
+    {
+      "text": " Military",
+      "url": "https://www.sandiegouniontribune.com/news/military"
+    },
+    {
+      "text": "Army helicopter catches fire at North Island, no injuries",
+      "url": "https://www.sandiegouniontribune.com/news/military/story/2022-06-23/army-helicopter-fire-north-island"
+    },
+    {
+      "text": "For subscribers",
+      "url": "https://www.sandiegouniontribune.com/topic/for-subscribers"
+    },
+    {
+      "text": "A solemn hike, a carving and closure. Marine survivors of Afghanistan\u2019s deadly Sangin Valley reunite",
+      "url": "https://www.sandiegouniontribune.com/news/military/story/2022-06-18/marine-survivors-sangin-reunite"
+    },
+    {
+      "text": "Secret hero of the Navy\u2019s greatest solo air battle is from Escondido. Will he finally get his Medal of Honor?",
+      "url": "https://www.sandiegouniontribune.com/communities/north-county/escondido/story/2022-06-17/news-feature-on-korean-war-veteran-pilot-capt-royce-williams-of-escondido"
+    },
+    {
+      "text": "Senate OKs enhanced benefits for vets exposed to burn pits",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-16/senate-set-to-enhance-benefits-for-vets-exposed-to-burn-pits"
+    },
+    {
+      "text": " From the Archives",
+      "url": "https://www.sandiegouniontribune.com/news/local-history"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/local-history/story/2022-06-28/from-the-archives-reagan-signed-california-law-easing-access-to-abortion-55-years-ago"
+    },
+    {
+      "text": "From the Archives: Reagan signed California law easing access to abortion 55 years ago ",
+      "url": "https://www.sandiegouniontribune.com/news/local-history/story/2022-06-28/from-the-archives-reagan-signed-california-law-easing-access-to-abortion-55-years-ago"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/local-history/story/2022-06-25/from-the-archives-san-diego-coronado-bridge"
+    },
+    {
+      "text": "From the Archives: Automobile toll eliminated on Coronado Bridge 20 years ago",
+      "url": "https://www.sandiegouniontribune.com/news/local-history/story/2022-06-25/from-the-archives-san-diego-coronado-bridge"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/news/local-history/story/2022-06-24/from-the-archives-carlsbad-voted-to-become-a-city-70-years-ago"
+    },
+    {
+      "text": "From the Archives: Carlsbad voted to become a city 70 years ago ",
+      "url": "https://www.sandiegouniontribune.com/news/local-history/story/2022-06-24/from-the-archives-carlsbad-voted-to-become-a-city-70-years-ago"
+    },
+    {
+      "text": " Pacific",
+      "url": "https://www.pacificsandiego.com/"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.pacificsandiego.com/eat-drink/story/2022-06-21/hilton-bayfront-debuts-hudson-nash"
+    },
+    {
+      "text": "Eat | Drink ",
+      "url": "https://www.pacificsandiego.com/eat-drink"
+    },
+    {
+      "text": "Hilton Bayfront debuts Hudson & Nash",
+      "url": "https://www.pacificsandiego.com/eat-drink/story/2022-06-21/hilton-bayfront-debuts-hudson-nash"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.pacificsandiego.com/eat-drink/story/2022-06-21/java-earth-opens-second-location-in-la-jolla"
+    },
+    {
+      "text": "Eat | Drink ",
+      "url": "https://www.pacificsandiego.com/eat-drink"
+    },
+    {
+      "text": "Java Earth opens second location in La Jolla",
+      "url": "https://www.pacificsandiego.com/eat-drink/story/2022-06-21/java-earth-opens-second-location-in-la-jolla"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.pacificsandiego.com/things-to-do/story/2022-06-08/san-diegos-top-weekend-events-june-9-12"
+    },
+    {
+      "text": "Things To Do",
+      "url": "https://www.pacificsandiego.com/things-to-do"
+    },
+    {
+      "text": "San Diego\u2019s top weekend events for June 9-12: Pride by the Beach, San Diego Beer Fest and more",
+      "url": "https://www.pacificsandiego.com/things-to-do/story/2022-06-08/san-diegos-top-weekend-events-june-9-12"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.pacificsandiego.com/eat-drink/story/2022-06-07/local-roots-tasting-room-opening-solana-beach"
+    },
+    {
+      "text": "Eat | Drink ",
+      "url": "https://www.pacificsandiego.com/eat-drink"
+    },
+    {
+      "text": "Not long after opening of The Boochyard, Local Roots to open Solana Beach tasting room",
+      "url": "https://www.pacificsandiego.com/eat-drink/story/2022-06-07/local-roots-tasting-room-opening-solana-beach"
+    },
+    {
+      "text": " Sports",
+      "url": "https://www.sandiegouniontribune.com/sports"
+    },
+    {
+      "text": "Longtime baseball scout Mike Wallace dies at 89",
+      "url": "https://www.sandiegouniontribune.com/sports/mlb/story/2022-06-27/longtime-baseball-scout-mike-wallace-dies-at-89"
+    },
+    {
+      "text": "Padres farmhands getting at look at robo umps, pitch clocks in El Paso",
+      "url": "https://www.sandiegouniontribune.com/sports/padres/story/2022-06-27/padres-minor-leaguers-robo-umps-pitch-clocks-el-paso"
+    },
+    {
+      "text": "Minors: James Wood homers for Storm; El Paso\u2019s Ryan Weathers stumbles",
+      "url": "https://www.sandiegouniontribune.com/sports/padres/story/2022-06-27/padres-minor-league-report-james-wood-ryan-weathers"
+    },
+    {
+      "text": " Business",
+      "url": "https://www.sandiegouniontribune.com/business"
+    },
+    {
+      "text": "Enduring words of wisdom from my wise father \n\n",
+      "url": "https://www.sandiegouniontribune.com/business/story/2022-06-27/enduring-words-of-wisdom-from-my-wise-father"
+    },
+    {
+      "text": "Borrowing some gems worth sharing",
+      "url": "https://www.sandiegouniontribune.com/business/story/2022-06-27/borrowing-some-gems-worth-sharing"
+    },
+    {
+      "text": "HOA Homefront \u2013 Reader questions about solar installations",
+      "url": "https://www.sandiegouniontribune.com/business/story/2022-06-25/hoa-homefront-reader-questions-about-solar-installations"
+    },
+    {
+      "text": " Entertainment",
+      "url": "https://www.sandiegouniontribune.com/entertainment"
+    },
+    {
+      "text": "In \u2018The Peacekeeper,\u2019 B.L. Blanchard imagines a \u2018never-colonized North America\u2019 ",
+      "url": "https://www.sandiegouniontribune.com/entertainment/books/story/2022-06-26/in-the-peacekeeper-b-l-blanchard-imagines-a-never-colonized-north-america"
+    },
+    {
+      "text": "Column: How San Diego author Laura Preble took a complicated heroine to Hollywood",
+      "url": "https://www.sandiegouniontribune.com/columnists/story/2022-06-25/author-laura-preble-anna-incognito-screenplay-awards"
+    },
+    {
+      "text": "Column: Brewery Rowe beer column returns to the Union-Tribune. Here\u2019s the latest in brew news",
+      "url": "https://www.sandiegouniontribune.com/entertainment/story/2022-06-24/column-brewery-rowe-beer-column-returns-to-the-union-tribune-heres-the-latest-in-brew-news"
+    },
+    {
+      "text": " Lifestyle",
+      "url": "https://www.sandiegouniontribune.com/lifestyle"
+    },
+    {
+      "text": "Photographer captures his love of San Francisco",
+      "url": "https://www.sandiegouniontribune.com/lifestyle/travel/story/2022-06-26/photographer-captures-his-love-of-san-francisco"
+    },
+    {
+      "text": "Unique storage options help tame household mess, add design flair",
+      "url": "https://www.sandiegouniontribune.com/lifestyle/home-and-garden/story/2022-06-25/cool-storage-options-to-tame-the-chaos-and-add-some-flair"
+    },
+    {
+      "text": "Column: America\u2019s Finest City called one of worst for raising a family",
+      "url": "https://www.sandiegouniontribune.com/columnists/story/2022-06-25/americas-finest-city-ranks-third-worst-for-families"
+    },
+    {
+      "text": " Local",
+      "url": "https://www.sandiegouniontribune.com/local"
+    },
+    {
+      "text": "Harrah\u2019s to give $150,000 in grants",
+      "url": "https://www.sandiegouniontribune.com/north-county-community-news/story/2022-06-27/harrahs-to-give-150-000-in-grants"
+    },
+    {
+      "text": "San Diego Botanic Garden puts on \u2018World of Houseplants\u2019 with rare and common species",
+      "url": "https://www.sandiegouniontribune.com/north-county-community-news/story/2022-06-27/san-diego-botanic-garden-puts-on-world-of-houseplants-with-rare-and-common-species"
+    },
+    {
+      "text": "Lemon Grove City Council appoints two new planning commissioners",
+      "url": "https://www.sandiegouniontribune.com/communities/east-county/lemon-grove/story/2022-06-27/lemon-grove-city-council-appoints-two-new-planning-commissioners"
+    },
+    {
+      "text": " California",
+      "url": "https://www.sandiegouniontribune.com/news/california"
+    },
+    {
+      "text": "Ex-GOP US Rep. Fortenberry of Nebraska gets 2 years probation, $25K fine for lying about illegal campaign contributions",
+      "url": "https://www.sandiegouniontribune.com/news/california/story/2022-06-28/ex-gop-us-rep-fortenberry-of-nebraska-gets-2-years-probation-25k-fine-for-lying-about-illegal-campaign-contributions"
+    },
+    {
+      "text": "NTSB investigators look into fatal Missouri Amtrak accident",
+      "url": "https://www.sandiegouniontribune.com/news/california/story/2022-06-28/ntsb-investigators-look-into-fatal-missouri-amtrak-accident"
+    },
+    {
+      "text": "Airbnb permanently bans parties at its rental locations",
+      "url": "https://www.sandiegouniontribune.com/news/california/story/2022-06-28/airbnb-makes-global-party-ban-permanent-saying-it-works"
+    },
+    {
+      "text": " Nation & World",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world"
+    },
+    {
+      "text": "Court lets Tennessee 6-week abortion ban take effect",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-28/court-lets-tennessee-6-week-abortion-ban-take-effect"
+    },
+    {
+      "text": "Mexican networks ramp up help for US women seeking abortions",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-28/mexican-networks-ramp-up-help-for-us-women-seeking-abortions"
+    },
+    {
+      "text": "Court lets Tennessee\u2019s 6-week abortion ban take effect after overturning of Roe v. Wade",
+      "url": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-06-28/court-lets-tennessees-6-week-abortion-ban-take-effect-after-overturning-of-roe-v-wade"
+    },
+    {
+      "text": " En Espa\u00f1ol",
+      "url": "https://www.sandiegouniontribune.com/enespanol/"
+    },
+    {
+      "text": "Biden: Muertes de migrantes son \u201cdesgarradoras\u201d",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/noticias/story/2022-06-28/biden-muertes-de-migrantes-son-desgarradoras"
+    },
+    {
+      "text": "Bolivia rechaza declaraci\u00f3n de Bolsonaro sobre expresidenta",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/noticias/story/2022-06-28/bolivia-rechaza-declaracion-de-bolsonaro-sobre-expresidenta"
+    },
+    {
+      "text": "Identifican a 8 trabajadores secuestrados y asesinados en el Caribe mexicano",
+      "url": "https://www.sandiegouniontribune.com/en-espanol/noticias/mexico/articulo/2022-06-28/identifican-a-8-trabajadores-secuestrados-y-asesinados-en-el-caribe-mexicano"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/uttoday"
+    },
+    {
+      "text": "Community livestreams",
+      "url": "https://www.sandiegouniontribune.com/uttoday"
+    },
+    {
+      "text": "           ",
+      "url": "https://drives.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Sell your car for top dollar",
+      "url": "https://drives.sandiegouniontribune.com/"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/games/sudoku"
+    },
+    {
+      "text": "Daily Sudoku",
+      "url": "https://www.sandiegouniontribune.com/games/sudoku"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/events"
+    },
+    {
+      "text": "Learn about upcoming events",
+      "url": "https://www.sandiegouniontribune.com/events"
+    },
+    {
+      "text": "           ",
+      "url": "https://go.sandiegouniontribune.com/2021festivalofbooks"
+    },
+    {
+      "text": "2021 Festival Of Books",
+      "url": "https://go.sandiegouniontribune.com/2021festivalofbooks"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/games/daily-crossword"
+    },
+    {
+      "text": "Daily crossword",
+      "url": "https://www.sandiegouniontribune.com/games/daily-crossword"
+    },
+    {
+      "text": "           ",
+      "url": "https://www.sandiegouniontribune.com/summeractivityguide"
+    },
+    {
+      "text": "Summer activities for kids",
+      "url": "https://www.sandiegouniontribune.com/summeractivityguide"
+    },
+    {
+      "text": "           ",
+      "url": "/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.sandiegouniontribune.com/privacy-policy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://www.sandiegouniontribune.com/terms-of-service"
+    },
+    {
+      "text": "Sign Up For Our Newsletters",
+      "url": "https://membership.sandiegouniontribune.com/newsletters"
+    },
+    {
+      "text": "twitter",
+      "url": "https://twitter.com/sdut"
+    },
+    {
+      "text": "instagram",
+      "url": "https://www.instagram.com/sandiegouniontribune/"
+    },
+    {
+      "text": "youtube",
+      "url": "https://www.youtube.com/channel/UCKCbC7uTe7dRtKPou10JKtQ"
+    },
+    {
+      "text": "facebook",
+      "url": "https://www.facebook.com/SanDiegoUnionTribune/"
+    },
+    {
+      "text": "linkedin",
+      "url": "https://www.linkedin.com/company/the-san-diego-union-tribune"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.sandiegouniontribune.com/about-us"
+    },
+    {
+      "text": "Contact the Union-Tribune",
+      "url": "https://www.sandiegouniontribune.com/contact-us"
+    },
+    {
+      "text": "Archives",
+      "url": "https://sandiegouniontribune.newsbank.com/"
+    },
+    {
+      "text": "E-Newspaper",
+      "url": "https://enewspaper.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.sandiegouniontribune.com/classifieds"
+    },
+    {
+      "text": "Find a Job",
+      "url": "https://nantmedia.wd5.myworkdayjobs.com/SanDiegoUnion-TribuneCareers"
+    },
+    {
+      "text": "Advertising",
+      "url": "https://mediakit.sandiegouniontribune.com/"
+    },
+    {
+      "text": "Coupons",
+      "url": "https://www.latimes.com/coupon-codes"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.sandiegouniontribune.com/sports"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.sandiegouniontribune.com/business"
+    },
+    {
+      "text": "Games",
+      "url": "https://www.sandiegouniontribune.com/games"
+    },
+    {
+      "text": "Site map",
+      "url": "https://www.sandiegouniontribune.com/sitemap"
+    },
+    {
+      "text": "CA Notice of Collection",
+      "url": "https://www.sandiegouniontribune.com/privacy-policy#california-notice-of-collection"
+    },
+    {
+      "text": "Do Not Sell My Personal Information",
+      "url": "https://membership.sandiegouniontribune.com/privacy-settings"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "//www.sandiegouniontribune.com/terms-of-service"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "//www.sandiegouniontribune.com/privacy-policy"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "//www.sandiegouniontribune.com/privacy-policy"
+    }
+  ],
+  "server": "ia802501.us.archive.org",
+  "uniq": 48166349,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

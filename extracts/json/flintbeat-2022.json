@@ -1,5 +1,5 @@
 {
-  "created": 1656353579,
+  "created": 1656462049,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/flintbeat-2022",
@@ -1350,31 +1350,199 @@
       "sha1": "2b1f61404cd11fb54c0badf1b027de7f580fe94e"
     },
     {
+      "name": "flintbeat-2022-06-27T21:11:08.230042-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656382270",
+      "size": "35285",
+      "md5": "e492a5a2195e388df57b72d8addd0af7",
+      "crc32": "d999ad45",
+      "sha1": "1f7a178a9480b8f9c0b2eace30173814a9cf6207",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-27T21:11:08.230042-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656382272",
+      "size": "30643",
+      "md5": "89cbe2e21f499d649f344255e96da854",
+      "crc32": "3a97be82",
+      "sha1": "b58de3d332076b5ad30e239cf601a376c0b9463a",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-27T21:11:08.230042-05:00.jpg",
+      "source": "original",
+      "mtime": "1656382269",
+      "size": "250637",
+      "md5": "7c38f391911f3800ceb7a084db4449c6",
+      "crc32": "381c34a8",
+      "sha1": "afd99afa14b42c48581644287112ebe1f0c8173a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-27T21:11:08.230042-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-27T21:11:08.230042-05:00.jpg",
+      "mtime": "1656382326",
+      "size": "9186",
+      "md5": "da9af5af05c5468cbcb91865a13e09bd",
+      "crc32": "fc8d92f5",
+      "sha1": "e064952f96273647051da0d272915ab2a30ce1ea"
+    },
+    {
+      "name": "flintbeat-2022-06-27T22:37:25.586087-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656387448",
+      "size": "35285",
+      "md5": "411e6e6416f9ace92d6e97523e86841f",
+      "crc32": "3dd693e4",
+      "sha1": "96a124d7e1040e6b6ba04a781c548de8e38d455b",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-27T22:37:25.586087-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656387450",
+      "size": "30643",
+      "md5": "89cbe2e21f499d649f344255e96da854",
+      "crc32": "3a97be82",
+      "sha1": "b58de3d332076b5ad30e239cf601a376c0b9463a",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-27T22:37:25.586087-05:00.jpg",
+      "source": "original",
+      "mtime": "1656387447",
+      "size": "250527",
+      "md5": "01801d5ee3044ad66a7304660b4847f8",
+      "crc32": "e21afd5e",
+      "sha1": "f068336ed32db30a5fb2a653fb61b583d06801a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-27T22:37:25.586087-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-27T22:37:25.586087-05:00.jpg",
+      "mtime": "1656387500",
+      "size": "9189",
+      "md5": "70312d8ee059c7226a755aeec8e91974",
+      "crc32": "c11476df",
+      "sha1": "dddbdc147359e51bf764e86ae26e807abef4bac0"
+    },
+    {
+      "name": "flintbeat-2022-06-28T04:33:36.370022-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656408820",
+      "size": "35285",
+      "md5": "7ec1b134af2070b8afb6409d2144381c",
+      "crc32": "df96da87",
+      "sha1": "7f0a6e6c27b800810aac5bdafe950c5cfac98155",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-28T04:33:36.370022-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656408821",
+      "size": "30643",
+      "md5": "89cbe2e21f499d649f344255e96da854",
+      "crc32": "3a97be82",
+      "sha1": "b58de3d332076b5ad30e239cf601a376c0b9463a",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-28T04:33:36.370022-05:00.jpg",
+      "source": "original",
+      "mtime": "1656408817",
+      "size": "250625",
+      "md5": "55f348ef3752a6734b1658382f5de542",
+      "crc32": "0187ec9e",
+      "sha1": "efe16a2eb8782b146312c480f8cb8a3e0468fdd7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-28T04:33:36.370022-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-28T04:33:36.370022-05:00.jpg",
+      "mtime": "1656408896",
+      "size": "9206",
+      "md5": "0aa01222dd2dd08faa5b992a5ddafb5f",
+      "crc32": "6fc84606",
+      "sha1": "4d6c79408d42c25c93575494a7725e6179c26e72"
+    },
+    {
+      "name": "flintbeat-2022-06-28T12:38:20.874000-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656437909",
+      "size": "35290",
+      "md5": "87efcf4106a8a85bbad6600e92a11359",
+      "crc32": "7e7d4d80",
+      "sha1": "f8337897729e12e36285f8197adc925f086a3039",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-28T12:38:20.874000-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656437911",
+      "size": "30529",
+      "md5": "2e276dc354f8f0e886397aeecce5d241",
+      "crc32": "c705ca6c",
+      "sha1": "7dc8f02ac5c664743c0e98c09d52fc67d3b75e05",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-06-28T12:38:20.874000-05:00.jpg",
+      "source": "original",
+      "mtime": "1656437903",
+      "size": "224431",
+      "md5": "597e470e6e1715a7670f7afdd83931df",
+      "crc32": "bda24cef",
+      "sha1": "543ea90dc08c70e278c1871e0a1f77429fd5831d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-06-28T12:38:20.874000-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-06-28T12:38:20.874000-05:00.jpg",
+      "mtime": "1656437956",
+      "size": "8841",
+      "md5": "dda0470e3b48db2c0e8c1952d1a9302c",
+      "crc32": "2d3b9b3a",
+      "sha1": "6268d7b4c18b267164df9adb1ab12ef558853237"
+    },
+    {
       "name": "flintbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d6aa69045607dac5956972ed8e5ecf6e6ac2e71",
-      "mtime": "1656353571",
-      "size": "28398",
-      "md5": "6019a67436479cbea4d16507aede5d83",
-      "crc32": "2e9b76ff",
-      "sha1": "6c13e26d1702da4c095d8514c5a7e4694920251d",
+      "btih": "a0c172680b8935e2f2bd664ebc3c7c84cfc7be26",
+      "mtime": "1656437958",
+      "size": "31770",
+      "md5": "c9a2d1d32cad965e6adb5ba54f6a5a06",
+      "crc32": "a39d51ff",
+      "sha1": "ee25a597acf252ffcacab6bc9cef63724d0faa9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flintbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f8e1ad3d6f83d716834705222dfacdab",
+      "md5": "7e388f33709963938ef1abded3957a94",
       "summation": "md5"
     },
     {
       "name": "flintbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656353027",
-      "size": "167936",
-      "md5": "72b326f71fa961add82d67ab21ec66fe",
-      "crc32": "d68c3ee5",
-      "sha1": "362320bc6894d24a358a1f21ccacb612543b6c18",
+      "mtime": "1656437913",
+      "size": "188416",
+      "md5": "bf25f0cb71ade335be7eca8d78152c78",
+      "crc32": "7c2dd6e7",
+      "sha1": "24f204bc4871ef3df58bac9b935a74df83d0090d",
       "format": "Metadata"
     },
     {
@@ -1388,9 +1556,907 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 132,
-  "item_last_updated": 1656353571,
-  "item_size": 8515722,
+  "files_count": 148,
+  "flintbeat-2022": [
+    {
+      "text": "Donate",
+      "url": "/donate?campaign=7013t000001ZDzCAAW"
+    },
+    {
+      "text": "About Us",
+      "url": "https://flintbeat.com/about-us/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://flintbeat.com/contact-us/"
+    },
+    {
+      "text": "Donor Transparency",
+      "url": "https://flintbeat.com/donor-transparency/"
+    },
+    {
+      "text": "Editorial Independence Policy",
+      "url": "https://flintbeat.com/editorial-independence-policy/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://flintbeat.com/donations/support-local-news"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.youtube.com/channel/UCqW4uDqNLvHG68wKc2oS9Ng"
+    },
+    {
+      "text": "Latinx \u2013 Noticias de Flint",
+      "url": "https://flintbeat.com/latinx-beat/"
+    },
+    {
+      "text": "City Hall",
+      "url": "https://flintbeat.com/city-hall-flint-news/"
+    },
+    {
+      "text": "Education",
+      "url": "https://flintbeat.com/education-flint-news/"
+    },
+    {
+      "text": "Community",
+      "url": "https://flintbeat.com/your-neighborhoods/"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "https://flintbeat.com/arts-culture/"
+    },
+    {
+      "text": "COVID-19",
+      "url": "https://flintbeat.com/covid-19/"
+    },
+    {
+      "text": "Water Crisis",
+      "url": "https://flintbeat.com/flint-water-crisis/"
+    },
+    {
+      "text": "Solutions Journalism \u2013 A fix for Flint",
+      "url": "https://flintbeat.com/solutions-journalism/"
+    },
+    {
+      "text": "Gun Violence",
+      "url": "https://flintbeat.com/gun-violence-flints-story/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://flintbeat.com/donations/support-local-news"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/FlintBeat"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/@flintbeat"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://youtube.com/channel/UCoZLyg5TxW5DrqszTDUZFUQ"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/FlintBeat"
+    },
+    {
+      "text": "Skip to content",
+      "url": "#main"
+    },
+    {
+      "text": "Donate",
+      "url": "https://flintbeat.com/donations/support-local-news"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/FlintBeat"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/@flintbeat"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://youtube.com/channel/UCoZLyg5TxW5DrqszTDUZFUQ"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/FlintBeat"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/"
+    },
+    {
+      "text": "Flint Beat",
+      "url": "https://flintbeat.com/"
+    },
+    {
+      "text": "Donate",
+      "url": "/donate?campaign=7013t000001ZDzCAAW"
+    },
+    {
+      "text": "Donate",
+      "url": "https://flintbeat.com/donations/support-local-news"
+    },
+    {
+      "text": "About Us",
+      "url": "https://flintbeat.com/about-us/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://flintbeat.com/contact-us/"
+    },
+    {
+      "text": "Donor Transparency",
+      "url": "https://flintbeat.com/donor-transparency/"
+    },
+    {
+      "text": "Editorial Independence Policy",
+      "url": "https://flintbeat.com/editorial-independence-policy/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://flintbeat.com/donations/support-local-news"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.youtube.com/channel/UCqW4uDqNLvHG68wKc2oS9Ng"
+    },
+    {
+      "text": "Latinx \u2013 Noticias de Flint",
+      "url": "https://flintbeat.com/latinx-beat/"
+    },
+    {
+      "text": "City Hall",
+      "url": "https://flintbeat.com/city-hall-flint-news/"
+    },
+    {
+      "text": "Education",
+      "url": "https://flintbeat.com/education-flint-news/"
+    },
+    {
+      "text": "Community",
+      "url": "https://flintbeat.com/your-neighborhoods/"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "https://flintbeat.com/arts-culture/"
+    },
+    {
+      "text": "COVID-19",
+      "url": "https://flintbeat.com/covid-19/"
+    },
+    {
+      "text": "Water Crisis",
+      "url": "https://flintbeat.com/flint-water-crisis/"
+    },
+    {
+      "text": "Solutions Journalism \u2013 A fix for Flint",
+      "url": "https://flintbeat.com/solutions-journalism/"
+    },
+    {
+      "text": "Gun Violence",
+      "url": "https://flintbeat.com/gun-violence-flints-story/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/faces-and-voices-of-flint-pride/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tCommunity\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/community/"
+    },
+    {
+      "text": "Faces and voices of Flint Pride",
+      "url": "https://flintbeat.com/faces-and-voices-of-flint-pride/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/mindriolo/"
+    },
+    {
+      "text": "Michael Indriolo",
+      "url": "https://flintbeat.com/author/mindriolo/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/movies-under-the-stars-returns-for-summer-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tCommunity\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/community/"
+    },
+    {
+      "text": "\u2018Movies Under the Stars\u2019 returns for summer 2022",
+      "url": "https://flintbeat.com/movies-under-the-stars-returns-for-summer-2022/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tHealth\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/health/"
+    },
+    {
+      "text": "Flint Bishop says his beliefs regarding LGBTQIA+ community won\u2019t impact mental health services provided at local churches",
+      "url": "https://flintbeat.com/flint-bishop-says-his-beliefs-regarding-lgbtqia-community-wont-impact-mental-health-services-provided-at-local-churches/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tBusiness\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/business/"
+    },
+    {
+      "text": "Farmers\u2019 Market partners with Flint Fresh to streamline operations for local farmers",
+      "url": "https://flintbeat.com/farmers-market-partners-with-flint-fresh-to-streamline-operations-for-local-farmers/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tCommunity\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/community/"
+    },
+    {
+      "text": "Flint\u2019s Smooth Steppers invites residents to come out and dance",
+      "url": "https://flintbeat.com/flints-smooth-steppers-invites-residents-to-come-out-and-dance/"
+    },
+    {
+      "text": "Amy Diaz",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "Proposed resolution would require Flint City Council approval for COVID-19 relief spending",
+      "url": "https://flintbeat.com/proposed-resolution-would-require-flint-city-council-approval-for-covid-19-relief-spending/"
+    },
+    {
+      "text": "Amy Diaz",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "Flint City Council seeks to change rules after administration spends $75k in COVID-19 funds without their approval",
+      "url": "https://flintbeat.com/council-seeks-to-change-rules-after-city-of-flint-administration-spends-75k-in-covid-19-funds-without-their-approval/"
+    },
+    {
+      "text": "Amy Diaz",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "Vaccination clinics at Flint Police mini stations to stop on May 21",
+      "url": "https://flintbeat.com/vaccination-clinics-at-flint-police-mini-stations-to-stop-on-may-21/"
+    },
+    {
+      "text": "Amy Diaz",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "Here\u2019s a list of COVID vaccination sites through May 21",
+      "url": "https://flintbeat.com/heres-a-list-of-covid-vaccination-sites-through-may-21/"
+    },
+    {
+      "text": "Flint Beat",
+      "url": "https://flintbeat.com/author/flintbeat/"
+    },
+    {
+      "text": "Or make a one-time donation.",
+      "url": "https://pico.link/flintbeat?short_code=r7xr3m4r"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/officials-hope-a-new-directory-will-help-increase-awareness-for-flint-area-bipoc-owned-businesses/"
+    },
+    {
+      "text": "Officials hope new directory will help increase awareness for Flint-area BIPOC-owned businesses",
+      "url": "https://flintbeat.com/officials-hope-a-new-directory-will-help-increase-awareness-for-flint-area-bipoc-owned-businesses/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-pastor-builds-laundromat-to-help-families-experiencing-hygiene-poverty/"
+    },
+    {
+      "text": "Flint pastor builds laundromat to help families experiencing hygiene poverty",
+      "url": "https://flintbeat.com/flint-pastor-builds-laundromat-to-help-families-experiencing-hygiene-poverty/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/can-3d-printed-homes-help-solve-flints-affordable-housing-shortage/"
+    },
+    {
+      "text": "Can 3D-printed homes help solve Flint\u2019s affordable housing shortage?",
+      "url": "https://flintbeat.com/can-3d-printed-homes-help-solve-flints-affordable-housing-shortage/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-may-14/"
+    },
+    {
+      "text": "Here\u2019s a list of Flint drop-in COVID vaccine\u00a0clinics through May 14",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-may-14/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Here\u2019s a list of Flint drop-in COVID vaccine\u00a0clinics through May 7",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-may-7/"
+    },
+    {
+      "text": "Here\u2019s a list of Flint drop-in COVID vaccine\u00a0clinics through April 30",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-april-30/"
+    },
+    {
+      "text": "Here\u2019s a list of Flint drop-in COVID vaccine\u00a0clinics through April 23",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-april-23/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-april-16/"
+    },
+    {
+      "text": "Here\u2019s a list of Flint drop-in COVID vaccine clinics through\u00a0April\u00a016",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-april-16/"
+    },
+    {
+      "text": "Amy Diaz",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "Here\u2019s a list of Flint drop-in COVID vaccine clinics through\u00a0April 9",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-april-9/"
+    },
+    {
+      "text": "City of Flint extends COVID vaccine and testing clinics at Flint Police Mini Stations",
+      "url": "https://flintbeat.com/city-of-flint-extends-covid-vaccine-and-testing-clinics-at-flint-police-mini-stations/"
+    },
+    {
+      "text": "Here\u2019s a list of Flint drop-in COVID vaccine clinics through\u00a0April 2",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-april-2/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-march-26/"
+    },
+    {
+      "text": "Here\u2019s a list of Flint drop-in COVID vaccine clinics through March 26",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-march-26/"
+    },
+    {
+      "text": "Carmen Nesbitt",
+      "url": "https://flintbeat.com/author/carmen-nesbitt/"
+    },
+    {
+      "text": "Flint area COVID cases decrease 85% over past month\u00a0",
+      "url": "https://flintbeat.com/flint-area-covid-cases-decrease-85-over-past-month/"
+    },
+    {
+      "text": "Here\u2019s a list of Flint drop-in COVID vaccine clinics through\u00a0March 19",
+      "url": "https://flintbeat.com/heres-a-list-of-flint-drop-in-covid-vaccine-clinics-through-march-19/"
+    },
+    {
+      "text": "Flint City Council to host community forum to discuss COVID relief March 19",
+      "url": "https://flintbeat.com/flint-city-council-to-host-community-forum-to-discuss-covid-relief-march-19/"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=Z7Vb1QaBaUM"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=2jTE4dhQyac"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=7M2jlKalI5A"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/two-nonprofits-partner-to-bring-walk-up-food-pantry-to-flints-west-side/"
+    },
+    {
+      "text": "Two nonprofits partner to bring walk-up food pantry to Flint\u2019s west side",
+      "url": "https://flintbeat.com/two-nonprofits-partner-to-bring-walk-up-food-pantry-to-flints-west-side/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Job fair to be held in Flint on June 21",
+      "url": "https://flintbeat.com/job-fair-to-be-held-in-flint-on-june-21/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/flintbeat/"
+    },
+    {
+      "text": "Flint Beat",
+      "url": "https://flintbeat.com/author/flintbeat/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flints-juneteenth-celebrations-bring-parades-music-parties-across-the-city/"
+    },
+    {
+      "text": "Flint\u2019s Juneteenth celebrations bring parades, music, parties across the city",
+      "url": "https://flintbeat.com/flints-juneteenth-celebrations-bring-parades-music-parties-across-the-city/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/mindriolo/"
+    },
+    {
+      "text": "Michael Indriolo",
+      "url": "https://flintbeat.com/author/mindriolo/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/crossover-outreach-breaks-ground-on-new-building-in-flint-to-better-serve-residents/"
+    },
+    {
+      "text": "Crossover Outreach breaks ground on new building in Flint to better serve residents",
+      "url": "https://flintbeat.com/crossover-outreach-breaks-ground-on-new-building-in-flint-to-better-serve-residents/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/flintbeat/"
+    },
+    {
+      "text": "Flint Beat",
+      "url": "https://flintbeat.com/author/flintbeat/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/oil-based-substance-in-flint-river-now-nearing-3x-amount-collected-initially/"
+    },
+    {
+      "text": "Oil-based substance in Flint River now nearing 3x amount collected initially",
+      "url": "https://flintbeat.com/oil-based-substance-in-flint-river-now-nearing-3x-amount-collected-initially/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-board-of-ed-votes-to-sell-13-vacant-school-properties-potentially-more/"
+    },
+    {
+      "text": "Flint Board of Ed. votes to sell 13 vacant school properties, potentially more",
+      "url": "https://flintbeat.com/flint-board-of-ed-votes-to-sell-13-vacant-school-properties-potentially-more/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flints-first-friday-brings-local-creatives-together/"
+    },
+    {
+      "text": "Flint\u2019s First Friday brings local creatives together",
+      "url": "https://flintbeat.com/flints-first-friday-brings-local-creatives-together/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/mindriolo/"
+    },
+    {
+      "text": "Michael Indriolo",
+      "url": "https://flintbeat.com/author/mindriolo/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-after-dark-the-citys-nightlife-shows-just-how-diverse-the-community-is/"
+    },
+    {
+      "text": "Flint After Dark: The city\u2019s nightlife shows just how diverse the community is",
+      "url": "https://flintbeat.com/flint-after-dark-the-citys-nightlife-shows-just-how-diverse-the-community-is/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/kkanazawich/"
+    },
+    {
+      "text": "KT Kanazawich",
+      "url": "https://flintbeat.com/author/kkanazawich/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-soap-box-derby-returns-after-two-year-hiatus/"
+    },
+    {
+      "text": "Flint Soap Box Derby returns after two-year hiatus",
+      "url": "https://flintbeat.com/flint-soap-box-derby-returns-after-two-year-hiatus/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Flint health and fitness center to open to the public again",
+      "url": "https://flintbeat.com/flint-health-and-fitness-center-to-open-to-the-public-again/"
+    },
+    {
+      "text": "Mott Foundation grants nearly $200k to support Flint neighborhood projects",
+      "url": "https://flintbeat.com/mott-foundation-grants-nearly-200k-to-support-flint-neighborhood-projects/"
+    },
+    {
+      "text": "EPA to provide Flint update in virtual press conference Dec. 7",
+      "url": "https://flintbeat.com/epa-to-provide-flint-update-in-virtual-press-conference-dec-7/"
+    },
+    {
+      "text": "City of Flint launches major push to Be Counted as Census deadline approaches",
+      "url": "https://flintbeat.com/city-of-flint-launches-major-push-to-be-counted-as-census-deadline-approaches/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/more-residents-needed-for-flint-water-system-advisory-council-to-meet-charter-requirements/"
+    },
+    {
+      "text": "More residents needed for Flint Water System Advisory Council to meet charter requirements",
+      "url": "https://flintbeat.com/more-residents-needed-for-flint-water-system-advisory-council-to-meet-charter-requirements/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "Amy Diaz",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-mayor-neeley-to-kickoff-flint-water-infrastructure-community-forum/"
+    },
+    {
+      "text": "Flint\u2019s Mayor Neeley to kickoff Flint Water Infrastructure Community Forum",
+      "url": "https://flintbeat.com/flint-mayor-neeley-to-kickoff-flint-water-infrastructure-community-forum/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/cityofflint/"
+    },
+    {
+      "text": "City of Flint",
+      "url": "https://flintbeat.com/author/cityofflint/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/judge-extends-deadline-for-flint-water-settlement-claims-to-june/"
+    },
+    {
+      "text": "Judge extends deadline for Flint water settlement claims to June",
+      "url": "https://flintbeat.com/judge-extends-deadline-for-flint-water-settlement-claims-to-june/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "Amy Diaz",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-residents-reminded-to-bag-leaves-yard-waste-pickup-is-through-nov-30/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tFlint City Hall\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/flint-city-hall/"
+    },
+    {
+      "text": "Flint residents reminded to bag leaves; Yard waste pickup is through Nov. 30",
+      "url": "https://flintbeat.com/flint-residents-reminded-to-bag-leaves-yard-waste-pickup-is-through-nov-30/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/cityofflint/"
+    },
+    {
+      "text": "City of Flint",
+      "url": "https://flintbeat.com/author/cityofflint/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/congressman-kildee-set-to-discuss-legislation-to-help-flint-families-with-children/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tLocal News\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/local-news/"
+    },
+    {
+      "text": "Congressman Kildee set to discuss legislation to help Flint families with children",
+      "url": "https://flintbeat.com/congressman-kildee-set-to-discuss-legislation-to-help-flint-families-with-children/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/flintbeat/"
+    },
+    {
+      "text": "Flint Beat",
+      "url": "https://flintbeat.com/author/flintbeat/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/starting-oct-24-area-codes-will-be-required-when-making-local-phone-calls/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tLocal News\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/local-news/"
+    },
+    {
+      "text": "Mandatory 10-digit local dialing goes into effect for parts of Michigan",
+      "url": "https://flintbeat.com/starting-oct-24-area-codes-will-be-required-when-making-local-phone-calls/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/aroth/"
+    },
+    {
+      "text": "Andrew Roth",
+      "url": "https://flintbeat.com/author/aroth/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/former-congressman-dale-kildee-passes-away-at-92/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tPolitics\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/politics/"
+    },
+    {
+      "text": "Former Congressman Dale Kildee dies at 92",
+      "url": "https://flintbeat.com/former-congressman-dale-kildee-passes-away-at-92/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "Kate Stockrahm",
+      "url": "https://flintbeat.com/author/kstockrahmflintbeat-com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/fire-department-tackles-2nd-flint-school-fire-officials-are-investigating/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tLocal News\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/local-news/"
+    },
+    {
+      "text": "Fire department tackles 2nd Flint school fire, officials are investigating",
+      "url": "https://flintbeat.com/fire-department-tackles-2nd-flint-school-fire-officials-are-investigating/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/carmen-nesbitt/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/kkanazawich/"
+    },
+    {
+      "text": "Carmen Nesbitt",
+      "url": "https://flintbeat.com/author/carmen-nesbitt/"
+    },
+    {
+      "text": "KT Kanazawich",
+      "url": "https://flintbeat.com/author/kkanazawich/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-trash-collector-adjusts-for-waste-pickup/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tLocal News\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/local-news/"
+    },
+    {
+      "text": "Flint trash collector adjusts for waste pickup",
+      "url": "https://flintbeat.com/flint-trash-collector-adjusts-for-waste-pickup/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/cityofflint/"
+    },
+    {
+      "text": "City of Flint",
+      "url": "https://flintbeat.com/author/cityofflint/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-family-says-theyre-traumatized-after-police-raid-wrong-house/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tLocal News\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/local-news/"
+    },
+    {
+      "text": "Flint Family says they\u2019re traumatized after police raid wrong house",
+      "url": "https://flintbeat.com/flint-family-says-theyre-traumatized-after-police-raid-wrong-house/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/carmen-nesbitt/"
+    },
+    {
+      "text": "Carmen Nesbitt",
+      "url": "https://flintbeat.com/author/carmen-nesbitt/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/genesee-county-corrections-deputy-facing-child-sexual-abuse-charges-following-sting-operation/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tLocal News\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/category/local-news/"
+    },
+    {
+      "text": "Genesee County Corrections Deputy facing child sexual abuse charges following sting operation",
+      "url": "https://flintbeat.com/genesee-county-corrections-deputy-facing-child-sexual-abuse-charges-following-sting-operation/"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "Amy Diaz",
+      "url": "https://flintbeat.com/author/amy-diaz/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/families-with-autism-find-acceptance-support-in-social-events/"
+    },
+    {
+      "text": "Flint area families with autism find acceptance, support in social events",
+      "url": "https://flintbeat.com/families-with-autism-find-acceptance-support-in-social-events/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/genesee-health-system-childrens-facility-nears-completion-in-flint/"
+    },
+    {
+      "text": "Genesee Health System children\u2019s facility nears completion in Flint",
+      "url": "https://flintbeat.com/genesee-health-system-childrens-facility-nears-completion-in-flint/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/mind-your-womb-discussion-about-black-womens-health-to-be-held-april-14/"
+    },
+    {
+      "text": "\u2018Mind Your Womb\u2019 discussion will focus on Black women\u2019s health",
+      "url": "https://flintbeat.com/mind-your-womb-discussion-about-black-womens-health-to-be-held-april-14/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-board-of-ed-to-host-workshop-on-vacant-properties-june-16/"
+    },
+    {
+      "text": "Flint Board of Ed. to host workshop on vacant properties June 16",
+      "url": "https://flintbeat.com/flint-board-of-ed-to-host-workshop-on-vacant-properties-june-16/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/westwood-heights-schools-to-renovate-former-elementary-into-multifamily-housing-complex/"
+    },
+    {
+      "text": "Westwood Heights Schools to renovate former elementary into multifamily housing complex",
+      "url": "https://flintbeat.com/westwood-heights-schools-to-renovate-former-elementary-into-multifamily-housing-complex/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-photos-flint-southwestern-prom-2022/"
+    },
+    {
+      "text": "Flint Photos: Flint Southwestern Prom 2022",
+      "url": "https://flintbeat.com/flint-photos-flint-southwestern-prom-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/stakeholders-in-buick-city-deal-address-flint-residents-skepticism/"
+    },
+    {
+      "text": "Stakeholders in Buick City deal address Flint residents\u2019 skepticism",
+      "url": "https://flintbeat.com/stakeholders-in-buick-city-deal-address-flint-residents-skepticism/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/a-year-on-smoking-js-bbq-more-is-now-open-in-dort-mall/"
+    },
+    {
+      "text": "A year on, Smoking J\u2019s BBQ & More is now open in Dort Mall",
+      "url": "https://flintbeat.com/a-year-on-smoking-js-bbq-more-is-now-open-in-dort-mall/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flints-draft-zoning-code-moves-one-step-closer-to-potential-adoption/"
+    },
+    {
+      "text": "Flint\u2019s draft zoning code moves one step closer to potential adoption",
+      "url": "https://flintbeat.com/flints-draft-zoning-code-moves-one-step-closer-to-potential-adoption/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-repertory-theatre-to-offer-new-take-on-worlds-longest-running-musical/"
+    },
+    {
+      "text": "Flint Repertory Theatre to offer new  take on world\u2019s longest-running musical",
+      "url": "https://flintbeat.com/flint-repertory-theatre-to-offer-new-take-on-worlds-longest-running-musical/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/flint-public-art-project-adds-new-local-artist-to-roster/"
+    },
+    {
+      "text": "Flint Public Art Project adds new local artist to roster",
+      "url": "https://flintbeat.com/flint-public-art-project-adds-new-local-artist-to-roster/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://flintbeat.com/first-friday-event-series-returns-to-downtown-flint-for-the-summer/"
+    },
+    {
+      "text": "First Friday event series returns to downtown Flint for the summer",
+      "url": "https://flintbeat.com/first-friday-event-series-returns-to-downtown-flint-for-the-summer/"
+    },
+    {
+      "text": "Or make a one-time donation.",
+      "url": "https://pico.link/flintbeat?short_code=r7xr3m4r"
+    },
+    {
+      "text": "",
+      "url": "https://flintbeat.com/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/FlintBeat"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/@flintbeat"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://youtube.com/channel/UCoZLyg5TxW5DrqszTDUZFUQ"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/FlintBeat"
+    },
+    {
+      "text": "\n\t\t\t\t\tProudly powered by Newspack by Automattic\t\t\t\t",
+      "url": "https://newspack.pub/"
+    }
+  ],
+  "item_last_updated": 1656437958,
+  "item_size": 9815819,
   "metadata": {
     "identifier": "flintbeat-2022",
     "collection": [
@@ -1408,7 +2474,7 @@
     "addeddate": "2022-06-19 23:24:22"
   },
   "server": "ia601509.us.archive.org",
-  "uniq": 561474814,
+  "uniq": 649756255,
   "workable_servers": [
     "ia601509.us.archive.org",
     "ia801509.us.archive.org"

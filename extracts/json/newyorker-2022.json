@@ -1,5 +1,5 @@
 {
-  "created": 1656375775,
+  "created": 1656462214,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -478,31 +478,199 @@
       "sha1": "cf7a7ed91ae61b5aa3d619a3a2484d43953143f3"
     },
     {
+      "name": "newyorker-2022-06-27T22:14:53.412559-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656382496",
+      "size": "46749",
+      "md5": "7bc89f12d2e3ebd39b5afb3992137ced",
+      "crc32": "b7173683",
+      "sha1": "f4920d7efade14dbcb7d01a44c72b7ad679a6ebc",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-06-27T22:14:53.412559-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656382498",
+      "size": "25683",
+      "md5": "19aa4663267bced3b546b2dda0613560",
+      "crc32": "82ebd09f",
+      "sha1": "86e248f787cde24af8b24bcae845c23fda62c517",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-06-27T22:14:53.412559-04:00.jpg",
+      "source": "original",
+      "mtime": "1656382495",
+      "size": "297527",
+      "md5": "bdef620728fb2e28db5dcd7da15cce70",
+      "crc32": "7e86df26",
+      "sha1": "382e76a8d2c323c2d12abe522f33a64571d79b97",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-06-27T22:14:53.412559-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-06-27T22:14:53.412559-04:00.jpg",
+      "mtime": "1656382573",
+      "size": "9805",
+      "md5": "621c57037143d4c27e610948cbd92752",
+      "crc32": "d24ad487",
+      "sha1": "274115fc11f5744760825605114991691e386cfa"
+    },
+    {
+      "name": "newyorker-2022-06-27T23:41:46.963381-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656387710",
+      "size": "46571",
+      "md5": "ae9d05614002ebf953176675640bf221",
+      "crc32": "bbaf0587",
+      "sha1": "b50ba177c1e38383ffd13164d43e885901fb2064",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-06-27T23:41:46.963381-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656387711",
+      "size": "25683",
+      "md5": "19aa4663267bced3b546b2dda0613560",
+      "crc32": "82ebd09f",
+      "sha1": "86e248f787cde24af8b24bcae845c23fda62c517",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-06-27T23:41:46.963381-04:00.jpg",
+      "source": "original",
+      "mtime": "1656387708",
+      "size": "297527",
+      "md5": "bdef620728fb2e28db5dcd7da15cce70",
+      "crc32": "7e86df26",
+      "sha1": "382e76a8d2c323c2d12abe522f33a64571d79b97",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-06-27T23:41:46.963381-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-06-27T23:41:46.963381-04:00.jpg",
+      "mtime": "1656387773",
+      "size": "9805",
+      "md5": "621c57037143d4c27e610948cbd92752",
+      "crc32": "d24ad487",
+      "sha1": "274115fc11f5744760825605114991691e386cfa"
+    },
+    {
+      "name": "newyorker-2022-06-28T05:36:36.631683-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656409000",
+      "size": "46697",
+      "md5": "ebe904e83ccf8c8bea41e50fb798eaa3",
+      "crc32": "610c5d19",
+      "sha1": "031a69ae895ae7298c8ab77b69068ef82438927f",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-06-28T05:36:36.631683-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656409002",
+      "size": "25683",
+      "md5": "19aa4663267bced3b546b2dda0613560",
+      "crc32": "82ebd09f",
+      "sha1": "86e248f787cde24af8b24bcae845c23fda62c517",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-06-28T05:36:36.631683-04:00.jpg",
+      "source": "original",
+      "mtime": "1656408998",
+      "size": "297527",
+      "md5": "bdef620728fb2e28db5dcd7da15cce70",
+      "crc32": "7e86df26",
+      "sha1": "382e76a8d2c323c2d12abe522f33a64571d79b97",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-06-28T05:36:36.631683-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-06-28T05:36:36.631683-04:00.jpg",
+      "mtime": "1656409044",
+      "size": "9805",
+      "md5": "621c57037143d4c27e610948cbd92752",
+      "crc32": "d24ad487",
+      "sha1": "274115fc11f5744760825605114991691e386cfa"
+    },
+    {
+      "name": "newyorker-2022-06-28T13:42:58.255663-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656438181",
+      "size": "47240",
+      "md5": "86354b2c634f633aaddd01f0bbd3c9ee",
+      "crc32": "46308836",
+      "sha1": "67e9b5e1ed0d0464b8c83f92646665dd4ba5d88b",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-06-28T13:42:58.255663-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656438183",
+      "size": "26263",
+      "md5": "50b08162f43a02e3f8eea0832a06371b",
+      "crc32": "bffc3507",
+      "sha1": "ccb44eafc7942bed9c494924706e67d91086e241",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-06-28T13:42:58.255663-04:00.jpg",
+      "source": "original",
+      "mtime": "1656438180",
+      "size": "292961",
+      "md5": "b6fe5d03bb3f22d26997c9612c295eb5",
+      "crc32": "c2d5e0ac",
+      "sha1": "2c334380777c845ccafa980bb8bb2b7aa874e534",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-06-28T13:42:58.255663-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-06-28T13:42:58.255663-04:00.jpg",
+      "mtime": "1656438229",
+      "size": "9580",
+      "md5": "7afd4827a43391b12a6f293168e1ead3",
+      "crc32": "4bd04a77",
+      "sha1": "b77206fe8c75e93c7fccc4cc999fc7e3eb61ee04"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "505d03212bbf7dc347b2a49c4a068bc02778b692",
-      "mtime": "1656354061",
-      "size": "10939",
-      "md5": "b33077ddbfa47aa07b8311e2d7595b59",
-      "crc32": "b1395538",
-      "sha1": "60c6dd2be9f61f283c996dbace0756daa931e7de",
+      "btih": "14a4b973f0ad1d5ee0f88bbf54da5fb8073ce5ca",
+      "mtime": "1656438232",
+      "size": "14331",
+      "md5": "de8f83198e30259530f4c2faba1495c7",
+      "crc32": "a5a4a5f9",
+      "sha1": "3450b2f668f79d61887e89e4b5cf6f5326f4df63",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f906260d912c392d273553efda1dbc3",
+      "md5": "7e04d796075157953a254a559c9471df",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656353264",
-      "size": "65536",
-      "md5": "bb95a10ac371093d3ef56f343cc2bf32",
-      "crc32": "9a560c06",
-      "sha1": "26111295e69f02acf6e48d8ae655337e13144ce8",
+      "mtime": "1656438186",
+      "size": "81920",
+      "md5": "6df35069885e0aa5d77ef4329734eb6d",
+      "crc32": "ad2ab298",
+      "sha1": "a8b4580ef1db3e49790afbcbd80da6a9819da2ca",
       "format": "Metadata"
     },
     {
@@ -516,9 +684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1656354061,
-  "item_size": 4194276,
+  "files_count": 65,
+  "item_last_updated": 1656438232,
+  "item_size": 5729158,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -630,22 +798,6 @@
     },
     {
       "text": "",
-      "url": "/magazine/2022/07/04/does-hungary-offer-a-glimpse-of-our-authoritarian-future"
-    },
-    {
-      "text": "Letter from Budapest",
-      "url": "/magazine/letter-from-budapest"
-    },
-    {
-      "text": "Does Hungary Offer a Glimpse of Our Authoritarian Future?",
-      "url": "/magazine/2022/07/04/does-hungary-offer-a-glimpse-of-our-authoritarian-future"
-    },
-    {
-      "text": "Andrew Marantz",
-      "url": "/contributors/andrew-marantz"
-    },
-    {
-      "text": "",
       "url": "/magazine/2022/07/04/the-gospel-according-to-mavis-staples"
     },
     {
@@ -659,6 +811,38 @@
     {
       "text": "David Remnick",
       "url": "/contributors/david-remnick"
+    },
+    {
+      "text": "",
+      "url": "/news/the-political-scene/the-political-strategy-of-ron-desantiss-dont-say-gay-bill"
+    },
+    {
+      "text": "The Political Scene",
+      "url": "/news/the-political-scene"
+    },
+    {
+      "text": "What\u2019s the Political Strategy of Ron DeSantis\u2019s \u201cDon\u2019t Say Gay\u201d Bill?",
+      "url": "/news/the-political-scene/the-political-strategy-of-ron-desantiss-dont-say-gay-bill"
+    },
+    {
+      "text": "Benjamin Wallace-Wells",
+      "url": "/contributors/benjamin-wallace-wells"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects"
+    },
+    {
+      "text": "Onward and Upward with the Arts",
+      "url": "/magazine/onward-and-upward-with-the-arts"
+    },
+    {
+      "text": "Foley Sound Effects and Their Weird, Analog Delights",
+      "url": "/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects"
+    },
+    {
+      "text": "Anna Wiener",
+      "url": "/contributors/anna-wiener"
     },
     {
       "text": "",
@@ -677,12 +861,44 @@
       "url": "/contributors/john-cassidy"
     },
     {
+      "text": "Daily Comment",
+      "url": "/news/daily-comment"
+    },
+    {
       "text": "",
-      "url": "/news/dispatch/roes-final-hours-in-one-of-americas-largest-abortion-clinics"
+      "url": "/news/daily-comment/a-film-produced-by-martin-scorsese-looks-at-the-catholic-churchs-treatment-of-the-lgbtq-community"
+    },
+    {
+      "text": "A Film Produced by Martin Scorsese Looks at the Catholic Church\u2019s Treatment of the L.G.B.T.Q. Community",
+      "url": "/news/daily-comment/a-film-produced-by-martin-scorsese-looks-at-the-catholic-churchs-treatment-of-the-lgbtq-community"
+    },
+    {
+      "text": "Paul Elie",
+      "url": "/contributors/paul-elie"
+    },
+    {
+      "text": "Musical Events",
+      "url": "/magazine/musical-events"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/04/anything-goes-at-the-ojai-festival"
+    },
+    {
+      "text": "Anything Goes at the Ojai Festival",
+      "url": "/magazine/2022/07/04/anything-goes-at-the-ojai-festival"
+    },
+    {
+      "text": "Alex Ross",
+      "url": "/contributors/alex-ross"
     },
     {
       "text": "Dispatch",
       "url": "/news/dispatch"
+    },
+    {
+      "text": "",
+      "url": "/news/dispatch/roes-final-hours-in-one-of-americas-largest-abortion-clinics"
     },
     {
       "text": "Roe\u2019s Final Hours in One of America\u2019s Largest Abortion Clinics",
@@ -695,6 +911,22 @@
     {
       "text": "Meridith Kohut",
       "url": "/contributors/meridith-kohut"
+    },
+    {
+      "text": "The Front Row",
+      "url": "/culture/the-front-row"
+    },
+    {
+      "text": "",
+      "url": "/culture/the-front-row/elvis-is-a-wikipedia-entry-directed-by-baz-luhrmann"
+    },
+    {
+      "text": "\u201cElvis\u201d Is a Wikipedia Entry Directed by Baz Luhrmann",
+      "url": "/culture/the-front-row/elvis-is-a-wikipedia-entry-directed-by-baz-luhrmann"
+    },
+    {
+      "text": "Richard Brody",
+      "url": "/contributors/richard-brody"
     },
     {
       "text": "Q. & A.",
@@ -711,50 +943,6 @@
     {
       "text": "Isaac Chotiner",
       "url": "/contributors/isaac-chotiner"
-    },
-    {
-      "text": "The New Yorker Interview",
-      "url": "/culture/the-new-yorker-interview"
-    },
-    {
-      "text": "",
-      "url": "/culture/the-new-yorker-interview/marina-warner-sees-the-myths-in-our-moment"
-    },
-    {
-      "text": "Marina Warner Sees the Myths in Our Moment",
-      "url": "/culture/the-new-yorker-interview/marina-warner-sees-the-myths-in-our-moment"
-    },
-    {
-      "text": "Katy Waldman",
-      "url": "/contributors/katy-waldman"
-    },
-    {
-      "text": "Daily Comment",
-      "url": "/news/daily-comment"
-    },
-    {
-      "text": "",
-      "url": "/news/daily-comment/the-supreme-court-decision-that-defined-abortion-rights-for-thirty-years"
-    },
-    {
-      "text": "The Supreme Court Decision That Defined Abortion Rights for Thirty Years",
-      "url": "/news/daily-comment/the-supreme-court-decision-that-defined-abortion-rights-for-thirty-years"
-    },
-    {
-      "text": "Jessica Winter",
-      "url": "/contributors/jessica-winter"
-    },
-    {
-      "text": "",
-      "url": "/magazine"
-    },
-    {
-      "text": "July 4, 2022",
-      "url": "/magazine"
-    },
-    {
-      "text": "Table of Contents \u00bb",
-      "url": "/magazine"
     },
     {
       "text": "",
@@ -787,6 +975,54 @@
     {
       "text": "Caption Contest",
       "url": "https://www.newyorker.com/cartoons/contest"
+    },
+    {
+      "text": "",
+      "url": "/news/daily-comment/the-supreme-court-decision-that-defined-abortion-rights-for-thirty-years"
+    },
+    {
+      "text": "Daily Comment",
+      "url": "/news/daily-comment"
+    },
+    {
+      "text": "The Decision That Defined Abortion Rights for Thirty Years",
+      "url": "/news/daily-comment/the-supreme-court-decision-that-defined-abortion-rights-for-thirty-years"
+    },
+    {
+      "text": "Jessica Winter",
+      "url": "/contributors/jessica-winter"
+    },
+    {
+      "text": "",
+      "url": "/culture/the-new-yorker-interview/marina-warner-sees-the-myths-in-our-moment"
+    },
+    {
+      "text": "The New Yorker Interview",
+      "url": "/culture/the-new-yorker-interview"
+    },
+    {
+      "text": "Marina Warner Sees the Myths in Our Moment",
+      "url": "/culture/the-new-yorker-interview/marina-warner-sees-the-myths-in-our-moment"
+    },
+    {
+      "text": "Katy Waldman",
+      "url": "/contributors/katy-waldman"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/04/does-hungary-offer-a-glimpse-of-our-authoritarian-future"
+    },
+    {
+      "text": "Letter from Budapest",
+      "url": "/magazine/letter-from-budapest"
+    },
+    {
+      "text": "Does Hungary Offer a Glimpse of Our Authoritarian Future?",
+      "url": "/magazine/2022/07/04/does-hungary-offer-a-glimpse-of-our-authoritarian-future"
+    },
+    {
+      "text": "Andrew Marantz",
+      "url": "/contributors/andrew-marantz"
     },
     {
       "text": "",
@@ -854,38 +1090,6 @@
     },
     {
       "text": "",
-      "url": "/podcast/the-new-yorker-radio-hour/why-do-conservatives-love-hungarys-viktor-orban"
-    },
-    {
-      "text": "The New Yorker Radio Hour",
-      "url": "/podcast/the-new-yorker-radio-hour"
-    },
-    {
-      "text": "Why Do Conservatives Love Viktor Orb\u00e1n?",
-      "url": "/podcast/the-new-yorker-radio-hour/why-do-conservatives-love-hungarys-viktor-orban"
-    },
-    {
-      "text": "David Remnick",
-      "url": "/contributors/david-remnick"
-    },
-    {
-      "text": "",
-      "url": "/news/daily-comment/the-supreme-courts-selective-memory-on-gun-rights"
-    },
-    {
-      "text": "Daily Comment",
-      "url": "/news/daily-comment"
-    },
-    {
-      "text": "The Supreme Court\u2019s Selective Memory\u00a0",
-      "url": "/news/daily-comment/the-supreme-courts-selective-memory-on-gun-rights"
-    },
-    {
-      "text": "Jill Lepore",
-      "url": "/contributors/jill-lepore"
-    },
-    {
-      "text": "",
       "url": "/magazine/2022/07/04/a-reporter-in-right-wing-crazy-town"
     },
     {
@@ -901,44 +1105,12 @@
       "url": "/contributors/bill-adair"
     },
     {
-      "text": "",
-      "url": "/news/the-political-scene/who-was-willing-to-stand-with-donald-trump"
-    },
-    {
-      "text": "The Political Scene",
-      "url": "/news/the-political-scene"
-    },
-    {
-      "text": "Who Was Willing to Stand with Donald Trump?",
-      "url": "/news/the-political-scene/who-was-willing-to-stand-with-donald-trump"
-    },
-    {
-      "text": "Benjamin Wallace-Wells",
-      "url": "/contributors/benjamin-wallace-wells"
-    },
-    {
       "text": "Sign up now for our newsletters today.",
       "url": "https://www.newyorker.com/newsletter"
     },
     {
       "text": "download the New Yorker app",
       "url": "https://apps.apple.com/us/app/the-new-yorker/id1081530898"
-    },
-    {
-      "text": "Audio available",
-      "url": "/magazine/2022/07/04/swamps-can-protect-against-climate-change-if-we-only-let-them"
-    },
-    {
-      "text": "Annals of Nature",
-      "url": "/magazine/annals-of-nature"
-    },
-    {
-      "text": "Swamps Can Protect Against Climate Change, If We Only Let Them",
-      "url": "/magazine/2022/07/04/swamps-can-protect-against-climate-change-if-we-only-let-them"
-    },
-    {
-      "text": "Annie Proulx",
-      "url": "/contributors/annie-proulx"
     },
     {
       "text": "Audio available",
@@ -958,19 +1130,19 @@
     },
     {
       "text": "Audio available",
-      "url": "/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects"
+      "url": "/magazine/2022/07/04/swamps-can-protect-against-climate-change-if-we-only-let-them"
     },
     {
-      "text": "Onward and Upward with the Arts",
-      "url": "/magazine/onward-and-upward-with-the-arts"
+      "text": "Annals of Nature",
+      "url": "/magazine/annals-of-nature"
     },
     {
-      "text": "The Weird, Analog Delights of Foley Sound Effects",
-      "url": "/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects"
+      "text": "Swamps Can Protect Against Climate Change, If We Only Let Them",
+      "url": "/magazine/2022/07/04/swamps-can-protect-against-climate-change-if-we-only-let-them"
     },
     {
-      "text": "Anna Wiener",
-      "url": "/contributors/anna-wiener"
+      "text": "Annie Proulx",
+      "url": "/contributors/annie-proulx"
     },
     {
       "text": "Audio available",
@@ -989,16 +1161,44 @@
       "url": "/contributors/dexter-filkins"
     },
     {
+      "text": "Audio available",
+      "url": "/magazine/2022/06/27/a-ukrainian-refugees-fight-to-save-the-family-she-left-behind"
+    },
+    {
+      "text": "A Reporter at Large",
+      "url": "/magazine/a-reporter-at-large"
+    },
+    {
+      "text": "A Ukrainian Refugee\u2019s Fight to Save the Family She Left Behind",
+      "url": "/magazine/2022/06/27/a-ukrainian-refugees-fight-to-save-the-family-she-left-behind"
+    },
+    {
+      "text": "Ed Caesar",
+      "url": "/contributors/ed-caesar"
+    },
+    {
       "text": "",
-      "url": "/news/daily-comment/the-supreme-courts-reckless-ruling-on-guns"
+      "url": "/news/daily-comment/the-supreme-courts-selective-memory-on-gun-rights"
     },
     {
       "text": "Daily Comment",
       "url": "/news/daily-comment"
     },
     {
-      "text": "The Court\u2019s Reckless Ruling on Guns",
-      "url": "/news/daily-comment/the-supreme-courts-reckless-ruling-on-guns"
+      "text": "The Supreme Court\u2019s Selective Memory\u00a0",
+      "url": "/news/daily-comment/the-supreme-courts-selective-memory-on-gun-rights"
+    },
+    {
+      "text": "",
+      "url": "/news/the-political-scene/who-was-willing-to-stand-with-donald-trump"
+    },
+    {
+      "text": "The Political Scene",
+      "url": "/news/the-political-scene"
+    },
+    {
+      "text": "Who Was Willing to Stand with Donald Trump?",
+      "url": "/news/the-political-scene/who-was-willing-to-stand-with-donald-trump"
     },
     {
       "text": "",
@@ -1014,18 +1214,6 @@
     },
     {
       "text": "",
-      "url": "/news/essay/the-many-afterlives-of-vincent-chin"
-    },
-    {
-      "text": "Essay",
-      "url": "/news/essay"
-    },
-    {
-      "text": "Vincent Chin\u2019s Many Afterlives",
-      "url": "/news/essay/the-many-afterlives-of-vincent-chin"
-    },
-    {
-      "text": "",
       "url": "/news/daily-comment/a-different-kind-of-bid-to-win-over-the-spanish-language-media-audience"
     },
     {
@@ -1035,6 +1223,30 @@
     {
       "text": "A Different Kind of Bid to Win Over the Spanish-Language Media Audience",
       "url": "/news/daily-comment/a-different-kind-of-bid-to-win-over-the-spanish-language-media-audience"
+    },
+    {
+      "text": "",
+      "url": "/news/daily-comment/the-supreme-courts-reckless-ruling-on-guns"
+    },
+    {
+      "text": "Daily Comment",
+      "url": "/news/daily-comment"
+    },
+    {
+      "text": "The Court\u2019s Reckless Ruling on Guns",
+      "url": "/news/daily-comment/the-supreme-courts-reckless-ruling-on-guns"
+    },
+    {
+      "text": "",
+      "url": "/news/essay/the-many-afterlives-of-vincent-chin"
+    },
+    {
+      "text": "Essay",
+      "url": "/news/essay"
+    },
+    {
+      "text": "Vincent Chin\u2019s Many Afterlives",
+      "url": "/news/essay/the-many-afterlives-of-vincent-chin"
     },
     {
       "text": "",
@@ -1050,18 +1262,6 @@
     },
     {
       "text": "",
-      "url": "/news/q-and-a/the-historical-cherry-picking-at-the-heart-of-the-supreme-courts-gun-rights-expansion"
-    },
-    {
-      "text": "Q. & A.",
-      "url": "/news/q-and-a"
-    },
-    {
-      "text": "The Supreme Court Cherry-Picks on Gun Rights",
-      "url": "/news/q-and-a/the-historical-cherry-picking-at-the-heart-of-the-supreme-courts-gun-rights-expansion"
-    },
-    {
-      "text": "",
       "url": "/news/letter-from-the-south/the-controversial-legal-strategy-behind-the-indictment-of-young-thug"
     },
     {
@@ -1073,36 +1273,24 @@
       "url": "/news/letter-from-the-south/the-controversial-legal-strategy-behind-the-indictment-of-young-thug"
     },
     {
-      "text": "",
-      "url": "/culture/the-front-row/cheese-is-a-model-of-what-independent-filmmaking-should-be"
-    },
-    {
-      "text": "The Front Row",
-      "url": "/culture/the-front-row"
-    },
-    {
-      "text": "\u201cChee$e\u201d Is a Model of What Independent Filmmaking Should Be",
-      "url": "/culture/the-front-row/cheese-is-a-model-of-what-independent-filmmaking-should-be"
-    },
-    {
       "text": "This week\u2019s cartoons \u00bb",
       "url": "https://www.newyorker.com/cartoons/issue-cartoons/cartoons-from-the-july-4-2022-issue"
     },
     {
       "text": "",
-      "url": "https://www.newyorker.com/cartoon/a26851"
+      "url": "https://www.newyorker.com/cartoon/a26852"
     },
     {
       "text": "Facebook",
-      "url": "https://www.facebook.com/dialog/feed?&display=popup&caption=&app_id=1147169538698836&link=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26851%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker%26utm_social-type%3Dearned"
+      "url": "https://www.facebook.com/dialog/feed?&display=popup&caption=&app_id=1147169538698836&link=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26852%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker%26utm_social-type%3Dearned"
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26851%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker%26utm_social-type%3Dearned&text=&via=NewYorker"
+      "url": "https://twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26852%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker%26utm_social-type%3Dearned&text=&via=NewYorker"
     },
     {
       "text": "Email",
-      "url": "mailto:?subject=&body=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26851%3Futm_source%3Donsite-share%26utm_medium%3Demail%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker"
+      "url": "mailto:?subject=&body=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26852%3Futm_source%3Donsite-share%26utm_medium%3Demail%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker"
     },
     {
       "text": "Shopping",
@@ -1218,43 +1406,35 @@
     },
     {
       "text": "",
-      "url": "/magazine/2022/07/04/missed-connections-at-the-capitol"
-    },
-    {
-      "text": "Shouts & Murmurs",
-      "url": "/magazine/shouts-murmurs"
-    },
-    {
-      "text": "Missed Connections at the Capitol",
-      "url": "/magazine/2022/07/04/missed-connections-at-the-capitol"
-    },
-    {
-      "text": "Mike O\u2019Brien",
-      "url": "/contributors/mike-obrien"
-    },
-    {
-      "text": "",
-      "url": "/humor/daily-shouts/meet-the-only-sustainable-clothing-company-that-upcycles-your-old-clothes-and-sells-them-back-to-you"
+      "url": "/humor/daily-shouts/quiz-is-it-kate-bush-eighties-nostalgia-or-the-onset-of-a-fascist-apocalypse"
     },
     {
       "text": "Daily Shouts",
       "url": "/humor/daily-shouts"
     },
     {
-      "text": "The Sustainable Clothing Company That Sells Your Old Clothes Back to You",
-      "url": "/humor/daily-shouts/meet-the-only-sustainable-clothing-company-that-upcycles-your-old-clothes-and-sells-them-back-to-you"
+      "text": "Quiz: Is It Kate Bush, Eighties Nostalgia, or the Onset of a Fascist Apocalypse?",
+      "url": "/humor/daily-shouts/quiz-is-it-kate-bush-eighties-nostalgia-or-the-onset-of-a-fascist-apocalypse"
     },
     {
-      "text": "Madeline Goetz",
-      "url": "/contributors/madeline-goetz"
+      "text": "Nina Sharma",
+      "url": "/contributors/nina-sharma"
     },
     {
-      "text": "Jack Sentell",
-      "url": "/contributors/jack-sentell"
+      "text": "",
+      "url": "/humor/daily-shouts/lesser-known-ships"
     },
     {
-      "text": "Ngoc Bui",
-      "url": "/contributors/ngoc-bui"
+      "text": "Daily Shouts",
+      "url": "/humor/daily-shouts"
+    },
+    {
+      "text": "Lesser-Known \u2019Ships",
+      "url": "/humor/daily-shouts/lesser-known-ships"
+    },
+    {
+      "text": "Olivia de Recat",
+      "url": "/contributors/olivia-de-recat"
     },
     {
       "text": "",
@@ -1290,39 +1470,43 @@
     },
     {
       "text": "",
-      "url": "/humor/daily-shouts/ways-the-woke-mob-has-affected-me-personally"
+      "url": "/humor/daily-shouts/meet-the-only-sustainable-clothing-company-that-upcycles-your-old-clothes-and-sells-them-back-to-you"
     },
     {
       "text": "Daily Shouts",
       "url": "/humor/daily-shouts"
     },
     {
-      "text": "Ways the Woke Mob Has Affected Me Personally",
-      "url": "/humor/daily-shouts/ways-the-woke-mob-has-affected-me-personally"
+      "text": "The Sustainable Clothing Company That Sells Your Old Clothes Back to You",
+      "url": "/humor/daily-shouts/meet-the-only-sustainable-clothing-company-that-upcycles-your-old-clothes-and-sells-them-back-to-you"
     },
     {
-      "text": "Mark Remy",
-      "url": "/contributors/mark-remy"
+      "text": "Madeline Goetz",
+      "url": "/contributors/madeline-goetz"
+    },
+    {
+      "text": "Jack Sentell",
+      "url": "/contributors/jack-sentell"
+    },
+    {
+      "text": "Ngoc Bui",
+      "url": "/contributors/ngoc-bui"
     },
     {
       "text": "",
-      "url": "/humor/daily-shouts/things-i-wish-were-subject-to-inflation"
+      "url": "/magazine/2022/07/04/missed-connections-at-the-capitol"
     },
     {
-      "text": "Daily Shouts",
-      "url": "/humor/daily-shouts"
+      "text": "Shouts & Murmurs",
+      "url": "/magazine/shouts-murmurs"
     },
     {
-      "text": "Things I Wish Were Subject to Inflation",
-      "url": "/humor/daily-shouts/things-i-wish-were-subject-to-inflation"
+      "text": "Missed Connections at the Capitol",
+      "url": "/magazine/2022/07/04/missed-connections-at-the-capitol"
     },
     {
-      "text": "Ginny Hogan",
-      "url": "/contributors/ginny-hogan"
-    },
-    {
-      "text": "Jason Adam Katzenstein",
-      "url": "/contributors/jason-adam-katzenstein"
+      "text": "Mike O\u2019Brien",
+      "url": "/contributors/mike-obrien"
     },
     {
       "text": "iconPlayCNE",
@@ -1493,10 +1677,10 @@
       "url": "https://instagram.com/newyorkermag/"
     }
   ],
-  "server": "ia801503.us.archive.org",
-  "uniq": 490367000,
+  "server": "ia601503.us.archive.org",
+  "uniq": 902882083,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

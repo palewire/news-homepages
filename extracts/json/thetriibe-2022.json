@@ -1,5 +1,5 @@
 {
-  "created": 1656354248,
+  "created": 1656462342,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/thetriibe-2022",
@@ -1338,31 +1338,199 @@
       "format": "JSON"
     },
     {
+      "name": "thetriibe-2022-06-27T21:19:12.093601-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656382756",
+      "size": "101",
+      "md5": "51a7a5c6bb0b6547fe10684273366c3c",
+      "crc32": "e61331ee",
+      "sha1": "e9fc011627649d128209f7642c069c98087d5206",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-06-27T21:19:12.093601-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656382758",
+      "size": "7876",
+      "md5": "1eaf4bfb78d7c8838cec02afe2ec5715",
+      "crc32": "4d7ea111",
+      "sha1": "ee3e2b4af229888d90b173652d353816a67a2bbf",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-06-27T21:19:12.093601-05:00.jpg",
+      "source": "original",
+      "mtime": "1656382754",
+      "size": "376449",
+      "md5": "11e19664abea6a27470c5912049622b2",
+      "crc32": "a65a909c",
+      "sha1": "9bc4f3c8cff1b1107d1ec565bc53a78b6ea85ffe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetriibe-2022-06-27T21:19:12.093601-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetriibe-2022-06-27T21:19:12.093601-05:00.jpg",
+      "mtime": "1656382814",
+      "size": "11255",
+      "md5": "abd2e011faffc8bb6ebafbdb6bc8db39",
+      "crc32": "e9d283ff",
+      "sha1": "3fa19df8ad62b2fb4b44963cc08ea9e453f829b8"
+    },
+    {
+      "name": "thetriibe-2022-06-27T22:45:49.969027-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656387953",
+      "size": "101",
+      "md5": "51a7a5c6bb0b6547fe10684273366c3c",
+      "crc32": "e61331ee",
+      "sha1": "e9fc011627649d128209f7642c069c98087d5206",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-06-27T22:45:49.969027-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656387955",
+      "size": "7876",
+      "md5": "1eaf4bfb78d7c8838cec02afe2ec5715",
+      "crc32": "4d7ea111",
+      "sha1": "ee3e2b4af229888d90b173652d353816a67a2bbf",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-06-27T22:45:49.969027-05:00.jpg",
+      "source": "original",
+      "mtime": "1656387951",
+      "size": "376449",
+      "md5": "11e19664abea6a27470c5912049622b2",
+      "crc32": "a65a909c",
+      "sha1": "9bc4f3c8cff1b1107d1ec565bc53a78b6ea85ffe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetriibe-2022-06-27T22:45:49.969027-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetriibe-2022-06-27T22:45:49.969027-05:00.jpg",
+      "mtime": "1656388019",
+      "size": "11255",
+      "md5": "abd2e011faffc8bb6ebafbdb6bc8db39",
+      "crc32": "e9d283ff",
+      "sha1": "3fa19df8ad62b2fb4b44963cc08ea9e453f829b8"
+    },
+    {
+      "name": "thetriibe-2022-06-28T04:41:08.332315-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656409271",
+      "size": "101",
+      "md5": "51a7a5c6bb0b6547fe10684273366c3c",
+      "crc32": "e61331ee",
+      "sha1": "e9fc011627649d128209f7642c069c98087d5206",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-06-28T04:41:08.332315-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656409273",
+      "size": "8580",
+      "md5": "17340f6a44250c03a305b7bbc1f8a79c",
+      "crc32": "77a6cd43",
+      "sha1": "581eac5a5a84f79e21d962905a4839778c6980d1",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-06-28T04:41:08.332315-05:00.jpg",
+      "source": "original",
+      "mtime": "1656409269",
+      "size": "383239",
+      "md5": "d62ff630fbad9a7e47a61d97076b50ea",
+      "crc32": "2c8cf3af",
+      "sha1": "e5ec0cf9f6f14a258355252354a19829a37dd907",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetriibe-2022-06-28T04:41:08.332315-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetriibe-2022-06-28T04:41:08.332315-05:00.jpg",
+      "mtime": "1656409319",
+      "size": "12249",
+      "md5": "aaa092105144a3953c8098bef0e9876f",
+      "crc32": "081feae1",
+      "sha1": "d8f8ed86699731f0f0a323eeca3c3a35d0810ffc"
+    },
+    {
+      "name": "thetriibe-2022-06-28T12:47:36.783283-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656438460",
+      "size": "101",
+      "md5": "51a7a5c6bb0b6547fe10684273366c3c",
+      "crc32": "e61331ee",
+      "sha1": "e9fc011627649d128209f7642c069c98087d5206",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-06-28T12:47:36.783283-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656438461",
+      "size": "8580",
+      "md5": "17340f6a44250c03a305b7bbc1f8a79c",
+      "crc32": "77a6cd43",
+      "sha1": "581eac5a5a84f79e21d962905a4839778c6980d1",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-06-28T12:47:36.783283-05:00.jpg",
+      "source": "original",
+      "mtime": "1656438458",
+      "size": "383151",
+      "md5": "bdef499a7e0ada77acabafddd9dfe240",
+      "crc32": "b8d4bbcd",
+      "sha1": "c2b5b75fe03b84e73ef8a408cbc5d9e1da03c14e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetriibe-2022-06-28T12:47:36.783283-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetriibe-2022-06-28T12:47:36.783283-05:00.jpg",
+      "mtime": "1656438507",
+      "size": "12268",
+      "md5": "eab327d6ee0cd5e6477e0898aad68326",
+      "crc32": "a61053cc",
+      "sha1": "ffa342f45df1fd787dd4addece0b5ecf51c249b5"
+    },
+    {
       "name": "thetriibe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0e44dd6d9f6c6465c656db8bb9159bb9b7f6063",
-      "mtime": "1656353641",
-      "size": "27871",
-      "md5": "8177a5de85c35e013e8c358059ba3b85",
-      "crc32": "e9d16582",
-      "sha1": "9ac982f3157826f4eb51cff60f3c12ec0b0e940e",
+      "btih": "d0663f56b0f3b2d4fcb206d95e0b807429f0962b",
+      "mtime": "1656438511",
+      "size": "31255",
+      "md5": "e51a60251ced9fad0a4a68d4098bfb8a",
+      "crc32": "5e57623a",
+      "sha1": "c26aa03589aef44e05a0ab9986f12aaf18a1af39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetriibe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "314995ea4c10a55aa363fbd2d04ab25c",
+      "md5": "2e44b2635f2d9c927bf4524da1dba4ff",
       "summation": "md5"
     },
     {
       "name": "thetriibe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656353605",
-      "size": "167936",
-      "md5": "409d4c4bd2dbace75367821a81443167",
-      "crc32": "ade8df91",
-      "sha1": "b75750fdf798cbda60c25f2b5bbb071417fe73e5",
+      "mtime": "1656438465",
+      "size": "188416",
+      "md5": "757fcb3de2f853a82cf0bafc509a6a4f",
+      "crc32": "e3076bcc",
+      "sha1": "8beef8c68a0fbd0bc14b0251dacfbbee97a00975",
       "format": "Metadata"
     },
     {
@@ -1376,9 +1544,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 131,
-  "item_last_updated": 1656353641,
-  "item_size": 2954632,
+  "files_count": 147,
+  "item_last_updated": 1656438511,
+  "item_size": 4578127,
   "metadata": {
     "identifier": "thetriibe-2022",
     "collection": [
@@ -1396,7 +1564,245 @@
     "addeddate": "2022-06-19 23:29:01"
   },
   "server": "ia601508.us.archive.org",
-  "uniq": 1486005273,
+  "thetriibe-2022": [
+    {
+      "text": "",
+      "url": "https://thetriibe.com/ads/jbforgovernor3-banner/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\t\t\n  The TRiiBE logo\n  .a{fill:white;}\n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n    \n  \n\n\t\t\t",
+      "url": "https://thetriibe.com/"
+    },
+    {
+      "text": "The News",
+      "url": "https://thetriibe.com/the-news/"
+    },
+    {
+      "text": "The Culture",
+      "url": "https://thetriibe.com/the-culture/"
+    },
+    {
+      "text": "The People",
+      "url": "https://thetriibe.com/the-people/"
+    },
+    {
+      "text": "The Works",
+      "url": "https://thetriibe.com/the-works/"
+    },
+    {
+      "text": "The Scene",
+      "url": "https://the-scene.thetriibe.com"
+    },
+    {
+      "text": "About",
+      "url": "https://thetriibe.com/about/"
+    },
+    {
+      "text": "The News",
+      "url": "https://thetriibe.com/the-news/"
+    },
+    {
+      "text": "The Culture",
+      "url": "https://thetriibe.com/the-culture/"
+    },
+    {
+      "text": "The People",
+      "url": "https://thetriibe.com/the-people/"
+    },
+    {
+      "text": "The Works",
+      "url": "https://thetriibe.com/the-works/"
+    },
+    {
+      "text": "The Scene",
+      "url": "https://the-scene.thetriibe.com"
+    },
+    {
+      "text": "About",
+      "url": "https://thetriibe.com/about/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t",
+      "url": "https://thetriibe.com/2022/06/new-web-series-finesse-finds-beauty-in-the-lives-and-intimacy-of-black-queer-people-in-chicago/"
+    },
+    {
+      "text": "\n\t\t\t\tThe Culture\t\t\t\t",
+      "url": "https://thetriibe.com/the-culture"
+    },
+    {
+      "text": "\n\t\t\t\tNew web series 'FINESSE' finds beauty in the lives and intimacy of Black queer people in Chicago\t\t\t\t",
+      "url": "https://thetriibe.com/2022/06/new-web-series-finesse-finds-beauty-in-the-lives-and-intimacy-of-black-queer-people-in-chicago/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://thetriibe.com/2022/06/cook-county-judge-removed-by-voters-in-2020-seeks-return-to-the-bench/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tThe News\t\t\t\t\t\t\t",
+      "url": "https://thetriibe.com/category/the-news"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tCook County judge removed by voters in 2020 seeks return to the bench\t\t\t\t\t\t",
+      "url": "https://thetriibe.com/2022/06/cook-county-judge-removed-by-voters-in-2020-seeks-return-to-the-bench/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://thetriibe.com/2022/06/false-alarms-a-recurring-trauma-for-many-on-house-arrest-in-cook-county/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tThe News\t\t\t\t\t\t\t",
+      "url": "https://thetriibe.com/category/the-news"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tFALSE ALARMS: A recurring trauma for many on house arrest in Cook County\t\t\t\t\t\t",
+      "url": "https://thetriibe.com/2022/06/false-alarms-a-recurring-trauma-for-many-on-house-arrest-in-cook-county/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://thetriibe.com/2022/06/essence-magazine-kicked-off-its-road-to-essence-fest-2022-in-chicago-with-black-entrepreneurs-and-more/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tThe Culture\t\t\t\t\t\t\t",
+      "url": "https://thetriibe.com/the-culture"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tEssence Magazine kicked off its road to ESSENCE Fest 2022 in Chicago with Black entrepreneurs and more\t\t\t\t\t\t",
+      "url": "https://thetriibe.com/2022/06/essence-magazine-kicked-off-its-road-to-essence-fest-2022-in-chicago-with-black-entrepreneurs-and-more/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://thetriibe.com/2022/06/cook-county-judge-removed-by-voters-in-2020-seeks-return-to-the-bench/"
+    },
+    {
+      "text": "\n      \n        \n        \n          \n            The People Rose Up: A Black Summer 2020 Timeline\n          \n          Click to view our interactive presentation of the 2020 uprisings\n        \n      \n    ",
+      "url": "https://thetriibe.com/the-people-rose-up-black-summer-chicago-timeline/"
+    },
+    {
+      "text": "Watch on Youtube",
+      "url": "https://thetriibe.com/2022/04/chance-the-rapper-is-ready-to-take-his-next-creative-risk/"
+    },
+    {
+      "text": "Go to app  >>> ",
+      "url": "https://the-scene.thetriibe.com"
+    },
+    {
+      "text": "Jun 28 Cheers to 10 Years: Election Night Happy Hour Lacuna Lofts",
+      "url": "https://the-scene.thetriibe.com/?ev=2729"
+    },
+    {
+      "text": "Jun 29 Black Out Performance of cullud wattah Victory Gardens Theater",
+      "url": "https://the-scene.thetriibe.com/?ev=2813"
+    },
+    {
+      "text": "Jun 29 Free Admission into the DuSable Museum of African-American DuSable Museum of African-American history",
+      "url": "https://the-scene.thetriibe.com/?ev=2709"
+    },
+    {
+      "text": "Jun 29 Free admission into the Adler Planetarium Alder Planetarium",
+      "url": "https://the-scene.thetriibe.com/?ev=2708"
+    },
+    {
+      "text": "Jun 30 ACTIVATE Intersection of LaSalle and Quincy ",
+      "url": "https://the-scene.thetriibe.com/?ev=2783"
+    },
+    {
+      "text": "Jul 01 First Fridays at the Artisan Collective The Artisan Collective ",
+      "url": "https://the-scene.thetriibe.com/?ev=2658"
+    },
+    {
+      "text": "\n\t\t\t\t\n      ",
+      "url": "https://thetriibe.com/2022/04/meet-the-chef-behind-this-summers-hottest-hotel-rooftop-in-chicago/"
+    },
+    {
+      "text": "\n\t\t\t\t\tMeet the chef behind this summer\u2019s hottest hotel rooftop in Chicago\t\t\t\t",
+      "url": "https://thetriibe.com/2022/04/meet-the-chef-behind-this-summers-hottest-hotel-rooftop-in-chicago/"
+    },
+    {
+      "text": "\n\t\t\t\t\n      ",
+      "url": "https://thetriibe.com/2022/04/chance-the-rapper-is-ready-to-take-his-next-creative-risk/"
+    },
+    {
+      "text": "\n\t\t\t\t\tChance the Rapper is ready to take his next creative risk\t\t\t\t",
+      "url": "https://thetriibe.com/2022/04/chance-the-rapper-is-ready-to-take-his-next-creative-risk/"
+    },
+    {
+      "text": "\n\t\t\t\t\n      ",
+      "url": "https://thetriibe.com/2022/04/the-silver-room-sound-system-block-party-is-back-this-july-with-a-new-location-and-more/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThe Silver Room Sound System Block Party is back this July with a new location and more\t\t\t\t",
+      "url": "https://thetriibe.com/2022/04/the-silver-room-sound-system-block-party-is-back-this-july-with-a-new-location-and-more/"
+    },
+    {
+      "text": "\n\t\t\t\t\n      ",
+      "url": "https://thetriibe.com/2022/05/cabrini-green-and-its-displaced-black-residents-should-be-included-in-chicago-lightfoot-casino-plans/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCabrini-Green and its displaced residents should be included in Chicago\u2019s casino plans\t\t\t\t",
+      "url": "https://thetriibe.com/2022/05/cabrini-green-and-its-displaced-black-residents-should-be-included-in-chicago-lightfoot-casino-plans/"
+    },
+    {
+      "text": "\n\t\t\t\t\n      ",
+      "url": "https://thetriibe.com/2022/05/exclusive-jhene-aiko-and-lucky-daye-will-close-out-the-2022-hyde-park-summer-fest%ef%bf%bc/"
+    },
+    {
+      "text": "\n\t\t\t\t\tEXCLUSIVE: Jhen\u00e9 Aiko and Lucky Daye will close out the 2022 Hyde Park Summer Fest\t\t\t\t",
+      "url": "https://thetriibe.com/2022/05/exclusive-jhene-aiko-and-lucky-daye-will-close-out-the-2022-hyde-park-summer-fest%ef%bf%bc/"
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "url": "https://thetriibe.com/privacy-policy/"
+    },
+    {
+      "text": "\n            \n  The TRiiBE logo\n  .a{fill:white;}\n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n    \n  \n\n        ",
+      "url": "https://thetriibe.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/thetriibe/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/intent/follow?screen_name=thetriibe"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/thetriibechicago/"
+    },
+    {
+      "text": "",
+      "url": "https://youtube.com/thetriibe?sub_confirmation=1"
+    },
+    {
+      "text": "About",
+      "url": "https://thetriibe.com/about/"
+    },
+    {
+      "text": "TRiiBE Guide 2021",
+      "url": "https://reshapethenarrative.com"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://thetriibe.com/jobs/"
+    },
+    {
+      "text": "Sponsorships & Advertising",
+      "url": "https://docs.google.com/presentation/d/e/2PACX-1vQZmBKkcGq_f3K8QgzQNTG821dRErIOeGzkQfwdU-n-UxNFh_hHzSKfnhgLTrz0l_5MzYHDceKnor0S/pub?start=false&loop=false&delayms=3000"
+    },
+    {
+      "text": "Contact",
+      "url": "https://thetriibe.com/contact/"
+    },
+    {
+      "text": "",
+      "url": "https://thetriibe.com/ads/chicago-votes-voting-guide/"
+    }
+  ],
+  "uniq": 1396120518,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"

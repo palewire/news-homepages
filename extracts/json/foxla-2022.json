@@ -1,5 +1,5 @@
 {
-  "created": 1656375687,
+  "created": 1656462060,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/foxla-2022",
@@ -7790,31 +7790,199 @@
       "sha1": "966c375aae7db47b4928b2e27f3225634390fb75"
     },
     {
+      "name": "foxla-2022-06-27T19:11:21.587268-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656382284",
+      "size": "44432",
+      "md5": "b4eabc4a45f4a7ad7c7401cf049076d4",
+      "crc32": "f5a9d945",
+      "sha1": "c23f3bc0a76857c0db386c52936d41d6e41e7f10",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-27T19:11:21.587268-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656382286",
+      "size": "39164",
+      "md5": "e878cba8eeb208e51ea5c5dcd2f85dc9",
+      "crc32": "624e3216",
+      "sha1": "41ac1d7beb4adb036863b789193c56d8d97c481d",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-27T19:11:21.587268-07:00.jpg",
+      "source": "original",
+      "mtime": "1656382282",
+      "size": "297791",
+      "md5": "893a3aa1d2beaee2854fa6aba2c685bf",
+      "crc32": "e6cb34d4",
+      "sha1": "91cc974ac3359f665e671509e3624c44a3337f37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-27T19:11:21.587268-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-27T19:11:21.587268-07:00.jpg",
+      "mtime": "1656382370",
+      "size": "10465",
+      "md5": "3a687fdf1a7ea09e0e5a54574ed6e765",
+      "crc32": "64135694",
+      "sha1": "f5267a8f45a9d001fcc56444b99c058d20d65a44"
+    },
+    {
+      "name": "foxla-2022-06-27T20:37:49.157203-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656387473",
+      "size": "44340",
+      "md5": "2f26aa72cffb7e386b15ff4da988b7df",
+      "crc32": "6737657b",
+      "sha1": "af27c25743a5273442720a6857f83eebf3ced3ed",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-27T20:37:49.157203-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656387475",
+      "size": "39328",
+      "md5": "6e8c2de89d771e553c7556fe32147dfa",
+      "crc32": "28f6e312",
+      "sha1": "b5f9778e04db2defe5b3475220ef2f4e2682f374",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-27T20:37:49.157203-07:00.jpg",
+      "source": "original",
+      "mtime": "1656387471",
+      "size": "297365",
+      "md5": "739575c5f146063e6ac63616f1965266",
+      "crc32": "78c2e69a",
+      "sha1": "44110035ff5293cc40b69e01c5ebb01fd64c72c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-27T20:37:49.157203-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-27T20:37:49.157203-07:00.jpg",
+      "mtime": "1656387560",
+      "size": "10448",
+      "md5": "e39f8c9c8258f3b2ddab621c59eddd4f",
+      "crc32": "14cb0a11",
+      "sha1": "59d0c37523ce5c0decfc5a468b953a225d89a9a1"
+    },
+    {
+      "name": "foxla-2022-06-28T02:33:00.947643-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656408788",
+      "size": "44559",
+      "md5": "92e887a4437a743452f6277e1c5a5ff4",
+      "crc32": "bb16f7fd",
+      "sha1": "0658866c459a7412fe4650c68b9de9bb378dc173",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-28T02:33:00.947643-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656408790",
+      "size": "39641",
+      "md5": "e034a26edb6c754a65100506c316ba3b",
+      "crc32": "d7ea1780",
+      "sha1": "91153ca09d1dd787a2d5d5e4fefbf90be0ed3a9d",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-28T02:33:00.947643-07:00.jpg",
+      "source": "original",
+      "mtime": "1656408786",
+      "size": "299087",
+      "md5": "c54a194e793d5dca2ade4312c4821834",
+      "crc32": "8a170256",
+      "sha1": "6632a7ec3f2aab9e82fc712012c70441a750b443",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-28T02:33:00.947643-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-28T02:33:00.947643-07:00.jpg",
+      "mtime": "1656408852",
+      "size": "10342",
+      "md5": "80b822feaeb7613817bb401397311696",
+      "crc32": "9bac8770",
+      "sha1": "e54485ba2f0b9ea3a500ffc1b73a1666f7facb7c"
+    },
+    {
+      "name": "foxla-2022-06-28T10:38:38.870663-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656437932",
+      "size": "44731",
+      "md5": "b05a6b02a4040f018f0f59988df4b213",
+      "crc32": "ac31a07d",
+      "sha1": "1a89a25fb1fd78af06708a0a63c72867d37db637",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-28T10:38:38.870663-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656437934",
+      "size": "39796",
+      "md5": "9ab089cd0bfb4deb9e6100b034a0ce23",
+      "crc32": "72d9c01c",
+      "sha1": "4283da159ae3a4f0c5e37e699e59ebcd3bcba54b",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-28T10:38:38.870663-07:00.jpg",
+      "source": "original",
+      "mtime": "1656437930",
+      "size": "306784",
+      "md5": "984f9278724304cec0273ef36426a428",
+      "crc32": "bd7f46a4",
+      "sha1": "be4a2ee65e9e3451453930a76d454a4714e7de16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-28T10:38:38.870663-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-28T10:38:38.870663-07:00.jpg",
+      "mtime": "1656437991",
+      "size": "10372",
+      "md5": "73fe328e983b4e9a413f95f9ffe94231",
+      "crc32": "d9f1c4a6",
+      "sha1": "8736df1a79fda30a429ede483f0c0a4c6273f7fd"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df39e37cdcecfcb5cc6c9b8e11f0aa31ae4f178a",
-      "mtime": "1656353626",
-      "size": "155604",
-      "md5": "5f1455ae17a292bde19a271fff15db28",
-      "crc32": "857cbc30",
-      "sha1": "c85474caf622f224f941d1e365b5bce2b94a1528",
+      "btih": "b1cf3f0aae2d22a62d5fef82ca1d8736b4ae1d3f",
+      "mtime": "1656437998",
+      "size": "158936",
+      "md5": "97171c0742ef7bca51804f09b45480c2",
+      "crc32": "066da59b",
+      "sha1": "59dd5642c7da8a58b74b656bad7267322a657091",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "088e1450deb9cf78f8df6833123c341a",
+      "md5": "fe8b8fc1d078c0119756c34828ef9196",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656353054",
-      "size": "847872",
-      "md5": "1bb4bb8ee4a5bbbb271e402710f30d19",
-      "crc32": "e59be11b",
-      "sha1": "d893e9837867147381eb3055dad68d7bdcd57afa",
+      "mtime": "1656437938",
+      "size": "864256",
+      "md5": "12ebae9ccb3ce4792681f1cad40d1c4c",
+      "crc32": "36b979e6",
+      "sha1": "15e3ef2602ee8e98b0addd59c5ea37a58e971940",
       "format": "Metadata"
     },
     {
@@ -7828,7 +7996,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 744,
+  "files_count": 760,
   "foxla-2022": [
     {
       "text": " ",
@@ -8267,108 +8435,108 @@
       "url": "/contact"
     },
     {
-      "text": "  ",
-      "url": "/news/at-least-10-injured-after-commuter-bus-crash-el-segundo"
+      "text": "   ",
+      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
     },
     {
-      "text": "At least 10 injured after commuter bus crash in El Segundo",
-      "url": "/news/at-least-10-injured-after-commuter-bus-crash-el-segundo"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-heat-wave-heres-how-hot-its-going-to-get"
-    },
-    {
-      "text": "LA heat wave: Here's how hot it's going to get",
-      "url": "/news/la-heat-wave-heres-how-hot-its-going-to-get"
+      "text": "Woman found shot in deadly 710 Freeway crash in Long Beach",
+      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
     },
     {
       "text": "  ",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
+      "url": "/news/california-direct-payments-from-government"
     },
     {
-      "text": "'Full House' star Jodie Sweetin shoved by LAPD during protest of Supreme Court ruling on LA freeway",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-allegedly-beaten-during-south-la-street-takeover"
-    },
-    {
-      "text": "Man allegedly beaten during South LA street takeover",
-      "url": "/news/man-allegedly-beaten-during-south-la-street-takeover"
+      "text": "Millions of Californians could get $1,050 direct payments from government: What to know",
+      "url": "/news/california-direct-payments-from-government"
     },
     {
       "text": "  ",
-      "url": "/sports/wnba-star-brittney-griner-russian-court"
+      "url": "/news/cassidy-hutchinson-january-6-panel-top-aide-mark-meadows-trump-white-house"
     },
     {
-      "text": "WNBA star Brittney Griner gets July 1 start date for trial",
-      "url": "/sports/wnba-star-brittney-griner-russian-court"
-    },
-    {
-      "text": "  ",
-      "url": "/news/supreme-court-sides-with-football-coach-who-wanted-to-pray-on-the-field"
-    },
-    {
-      "text": "Supreme Court sides with Bremerton football coach who wanted to pray on the field",
-      "url": "/news/supreme-court-sides-with-football-coach-who-wanted-to-pray-on-the-field"
+      "text": "January 6 panel to hear from top aide in Trump's White House during surprise hearing",
+      "url": "/news/cassidy-hutchinson-january-6-panel-top-aide-mark-meadows-trump-white-house"
     },
     {
       "text": "  ",
-      "url": "/news/9-year-old-drowns-lake-elsinore"
+      "url": "/news/canoga-park-hit-and-run-crash"
     },
     {
-      "text": "9-year-old boy drowns in Lake Elsinore",
-      "url": "/news/9-year-old-drowns-lake-elsinore"
-    },
-    {
-      "text": "  ",
-      "url": "/news/arrests-made-in-downtown-la-as-abortion-rights-protests-continue-for-a-3rd-day"
-    },
-    {
-      "text": "Downtown LA protests over SCOTUS abortion ruling enter 3rd day",
-      "url": "/news/arrests-made-in-downtown-la-as-abortion-rights-protests-continue-for-a-3rd-day"
+      "text": "Man killed in horrific hit-and-run crash in Canoga Park",
+      "url": "/news/canoga-park-hit-and-run-crash"
     },
     {
       "text": "  ",
-      "url": "/news/cardboard-city-opens-in-santa-monica"
+      "url": "/news/amtrak-train-derailment-missouri-los-angeles-chicago"
     },
     {
-      "text": "'Cardboard City' opens in Santa Monica",
-      "url": "/news/cardboard-city-opens-in-santa-monica"
-    },
-    {
-      "text": "  ",
-      "url": "/news/union-fire-jurupa-valley-riverside-county"
-    },
-    {
-      "text": "Union Fire: Crews make progress on Riverside Co. blaze, evacuations lifted",
-      "url": "/news/union-fire-jurupa-valley-riverside-county"
+      "text": "Amtrak derailment: 3 killed, several injured after train hits dump truck in Missouri",
+      "url": "/news/amtrak-train-derailment-missouri-los-angeles-chicago"
     },
     {
       "text": "  ",
-      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
+      "url": "/news/ben-afflecks-son-10-gets-in-lamborghini-drivers-seat-backs-into-bmw"
     },
     {
-      "text": "Pride parades march on with new urgency after abortion ruling",
-      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
-    },
-    {
-      "text": "  ",
-      "url": "/news/south-africa-club-deaths-east-london"
-    },
-    {
-      "text": "21 young people found dead in South African tavern after end-of-school party",
-      "url": "/news/south-africa-club-deaths-east-london"
+      "text": "Ben Affleck's son, 10, gets in Lamborghini driver's seat, backs into BMW in LA",
+      "url": "/news/ben-afflecks-son-10-gets-in-lamborghini-drivers-seat-backs-into-bmw"
     },
     {
       "text": "  ",
-      "url": "/news/taka-burn-survivor-therapy-dog-augusta-georgia"
+      "url": "/news/cvs-walmart-rite-aid-limiting-purchases-of-plan-b-pills-following-scotus-ruling"
     },
     {
-      "text": "From burn survivor to \u2018superdog\u2019: Taka\u2019s journey inspires patients near and far",
-      "url": "/news/taka-burn-survivor-therapy-dog-augusta-georgia"
+      "text": "CVS, Walmart, Rite Aid limiting purchases of Plan B pills following SCOTUS ruling",
+      "url": "/news/cvs-walmart-rite-aid-limiting-purchases-of-plan-b-pills-following-scotus-ruling"
+    },
+    {
+      "text": "  ",
+      "url": "/news/fire-ignites-inside-canoga-park-skilled-nursing-facility"
+    },
+    {
+      "text": "Fire ignites inside Canoga Park skilled nursing facility",
+      "url": "/news/fire-ignites-inside-canoga-park-skilled-nursing-facility"
+    },
+    {
+      "text": "  ",
+      "url": "/news/chick-fil-a-tests-express-drive-thru-lanes-nationwide-heres-how-it-works"
+    },
+    {
+      "text": "Chick-fil-A tests express drive-thru lanes nationwide. Here's how it works",
+      "url": "/news/chick-fil-a-tests-express-drive-thru-lanes-nationwide-heres-how-it-works"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/5-time-nba-all-star-john-wall-expected-to-sign-with-la-clippers-report-says"
+    },
+    {
+      "text": "5-time NBA All-Star John Wall expected to sign with LA Clippers, report says",
+      "url": "/sports/5-time-nba-all-star-john-wall-expected-to-sign-with-la-clippers-report-says"
+    },
+    {
+      "text": "  ",
+      "url": "/news/texas-mexico-border-chaos-at-least-20-migrants-found-dead-in-san-antonio-inside-18-wheeler-reports-say"
+    },
+    {
+      "text": "46 people found dead, 16 hospitalized after tractor-trailer containing migrants found in Texas",
+      "url": "/news/texas-mexico-border-chaos-at-least-20-migrants-found-dead-in-san-antonio-inside-18-wheeler-reports-say"
+    },
+    {
+      "text": "  ",
+      "url": "/news/death-toll-rises-to-50-after-migrants-found-abandoned-in-trailer-in-texas"
+    },
+    {
+      "text": "Death toll rises to 50 after migrants found in abandoned tractor-trailer in Texas",
+      "url": "/news/death-toll-rises-to-50-after-migrants-found-abandoned-in-trailer-in-texas"
+    },
+    {
+      "text": "  ",
+      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
+    },
+    {
+      "text": "Roe v. Wade: What to know about the now-overturned abortion ruling, and what's next for Arizona",
+      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
     },
     {
       "text": "Florence-Graham",
@@ -8376,51 +8544,51 @@
     },
     {
       "text": "  video",
-      "url": "/video/1086133"
+      "url": "/video/1086548"
     },
     {
-      "text": "Stretch your dollar: Saving money at festivals",
-      "url": "/video/1086133"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086117"
-    },
-    {
-      "text": "Bus accident reported in El Segundo",
-      "url": "/video/1086117"
+      "text": "Disney World celebrates 50 years",
+      "url": "/video/1086548"
     },
     {
       "text": "  video",
-      "url": "/video/1086106"
+      "url": "/video/1086538"
     },
     {
-      "text": "Stretch your dollar: Food delivery",
-      "url": "/video/1086106"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086071"
-    },
-    {
-      "text": "Chaos unfolds in South LA after man gets hit by big rig",
-      "url": "/video/1086071"
+      "text": "Deadly freeway shooting prompts investigation in Long Beach",
+      "url": "/video/1086538"
     },
     {
       "text": "  video",
-      "url": "/video/1086063"
+      "url": "/video/1086531"
     },
     {
-      "text": "Newsom, California lawmakers reach tentative deal on gas tax rebate: Here's how it would work",
-      "url": "/video/1086063"
+      "text": "2 hurt in 405 Freeway crash at Skirball Center",
+      "url": "/video/1086531"
     },
     {
       "text": "  video",
-      "url": "/video/1086037"
+      "url": "/video/1086517"
     },
     {
-      "text": "Man allegedly beaten during Willowbrook street takeover",
-      "url": "/video/1086037"
+      "text": "Woodcraft Rangers celebrate 100-year anniversary",
+      "url": "/video/1086517"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1086516"
+    },
+    {
+      "text": "Update on future of Bruce's Beach",
+      "url": "/video/1086516"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1086512"
+    },
+    {
+      "text": "New Disney World attractions",
+      "url": "/video/1086512"
     },
     {
       "text": "Privacy Policy",
@@ -8444,27 +8612,27 @@
     },
     {
       "text": "  video",
-      "url": "/video/1086057"
+      "url": "/video/1086228"
     },
     {
-      "text": "Cardboard City Museum opens in Santa Monica",
-      "url": "/video/1086057"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1085018"
-    },
-    {
-      "text": "Marking 50 years of Title IX with Natasha",
-      "url": "/video/1085018"
+      "text": "Getting the best flight deal",
+      "url": "/video/1086228"
     },
     {
       "text": "  video",
-      "url": "/video/1085002"
+      "url": "/video/1086164"
     },
     {
-      "text": "CHLA hosting its 6th annual Walk & Play LA",
-      "url": "/video/1085002"
+      "text": "Amanda Salas and the Critic Kids review 'Lightyear'",
+      "url": "/video/1086164"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1086135"
+    },
+    {
+      "text": "Keeping pets safe during fireworks celebrations",
+      "url": "/video/1086135"
     },
     {
       "text": "Coronavirus",
@@ -8473,6 +8641,14 @@
     {
       "text": "View More",
       "url": "/tag/health/coronavirus"
+    },
+    {
+      "text": "   ",
+      "url": "/news/bars-open-until-4-am-west-hollywood-considering-extending-last-call"
+    },
+    {
+      "text": "Bars open until 4 AM? West Hollywood considering extending last call",
+      "url": "/news/bars-open-until-4-am-west-hollywood-considering-extending-last-call"
     },
     {
       "text": "  ",
@@ -8515,14 +8691,6 @@
       "url": "/news/covid-vaccine-doses-for-kids-come-to-la-county"
     },
     {
-      "text": "  ",
-      "url": "/news/kids-covid-vaccine-la-county"
-    },
-    {
-      "text": "Kids' COVID vaccine: LA County readying to administer doses this week",
-      "url": "/news/kids-covid-vaccine-la-county"
-    },
-    {
       "text": "Politics",
       "url": "/tag/politics"
     },
@@ -8532,51 +8700,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
+      "url": "/news/cvs-walmart-rite-aid-limiting-purchases-of-plan-b-pills-following-scotus-ruling"
     },
     {
-      "text": "'Full House' star Jodie Sweetin shoved by LAPD during protest of Supreme Court ruling on LA freeway",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
-    },
-    {
-      "text": "  ",
-      "url": "/news/more-than-1-million-voters-switched-to-republican-party-over-the-last-year"
-    },
-    {
-      "text": "More than 1 million voters switched to Republican Party over the last year",
-      "url": "/news/more-than-1-million-voters-switched-to-republican-party-over-the-last-year"
+      "text": "CVS, Walmart, Rite Aid limiting purchases of Plan B pills following SCOTUS ruling",
+      "url": "/news/cvs-walmart-rite-aid-limiting-purchases-of-plan-b-pills-following-scotus-ruling"
     },
     {
       "text": "  ",
-      "url": "/news/arrests-made-in-downtown-la-as-abortion-rights-protests-continue-for-a-3rd-day"
+      "url": "/news/roe-v-wade-protests-demonstrators-march-downtown-for-abortion-rights"
     },
     {
-      "text": "Downtown LA protests over SCOTUS abortion ruling enter 3rd day",
-      "url": "/news/arrests-made-in-downtown-la-as-abortion-rights-protests-continue-for-a-3rd-day"
-    },
-    {
-      "text": "  ",
-      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
-    },
-    {
-      "text": "Pride parades march on with new urgency after abortion ruling",
-      "url": "/news/pride-parades-march-on-with-new-urgency-after-abortion-ruling"
+      "text": "Roe v. Wade protests: Demonstrators march downtown for abortion rights",
+      "url": "/news/roe-v-wade-protests-demonstrators-march-downtown-for-abortion-rights"
     },
     {
       "text": "  ",
-      "url": "/news/roe-v-wade-protests-demonstrations-continue-throughout-la-orange-counties"
+      "url": "/news/primaries-2022-what-to-watch-in-these-7-states"
     },
     {
-      "text": "Roe v. Wade protests: Demonstrations continue throughout LA, Orange counties",
-      "url": "/news/roe-v-wade-protests-demonstrations-continue-throughout-la-orange-counties"
+      "text": "2022 primaries: What to watch for in these 7 states",
+      "url": "/news/primaries-2022-what-to-watch-in-these-7-states"
     },
     {
       "text": "  ",
-      "url": "/news/confidence-in-supreme-court-hit-historic-low-ahead-of-abortion-ruling-gallup-poll-shows"
+      "url": "/news/roe-v-wade-decision-states-brace-for-court-fights-after-federal-abortion-ruling"
     },
     {
-      "text": "Confidence in Supreme Court hit historic low ahead of abortion ruling, Gallup poll shows",
-      "url": "/news/confidence-in-supreme-court-hit-historic-low-ahead-of-abortion-ruling-gallup-poll-shows"
+      "text": "Roe v. Wade decision: States brace for court fights after federal abortion ruling",
+      "url": "/news/roe-v-wade-decision-states-brace-for-court-fights-after-federal-abortion-ruling"
+    },
+    {
+      "text": "  ",
+      "url": "/news/california-voters-to-weigh-constitutional-right-to-abortion"
+    },
+    {
+      "text": "California voters to weigh constitutional right to abortion",
+      "url": "/news/california-voters-to-weigh-constitutional-right-to-abortion"
+    },
+    {
+      "text": "  ",
+      "url": "/news/rudy-giuliani-slapped-by-supermarket-employee-while-campaigning-for-son"
+    },
+    {
+      "text": "Rudy Giuliani slapped by supermarket employee while campaigning for son",
+      "url": "/news/rudy-giuliani-slapped-by-supermarket-employee-while-campaigning-for-son"
     },
     {
       "text": "California News",
@@ -8587,52 +8755,52 @@
       "url": "/tag/us/ca"
     },
     {
-      "text": "   ",
-      "url": "/news/california-gas-rebate-heres-how-it-would-work"
+      "text": "  ",
+      "url": "/news/californias-great-america-amusement-park-is-changing-hands"
     },
     {
-      "text": "California gas rebate: Here's how it would work",
-      "url": "/news/california-gas-rebate-heres-how-it-would-work"
+      "text": "California's Great America amusement park is changing hands; future uncertain",
+      "url": "/news/californias-great-america-amusement-park-is-changing-hands"
     },
     {
       "text": "  ",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
+      "url": "/news/california-direct-payments-from-government"
     },
     {
-      "text": "'Full House' star Jodie Sweetin shoved by LAPD during protest of Supreme Court ruling on LA freeway",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
-    },
-    {
-      "text": "  ",
-      "url": "/news/1-4m-powerball-ticket-bought-in-los-angeles"
-    },
-    {
-      "text": "$1.4M Powerball ticket purchased in Glendale",
-      "url": "/news/1-4m-powerball-ticket-bought-in-los-angeles"
+      "text": "Millions of Californians could get $1,050 direct payments from government: What to know",
+      "url": "/news/california-direct-payments-from-government"
     },
     {
       "text": "  ",
-      "url": "/news/9b-gas-refund-newsom-california-lawmakers-tentatively-agree-on-deal"
+      "url": "/news/california-voters-to-weigh-constitutional-right-to-abortion"
     },
     {
-      "text": "Californians could get up to $350 in gas refund: tentative deal with Newsom, lawmakers say",
-      "url": "/news/9b-gas-refund-newsom-california-lawmakers-tentatively-agree-on-deal"
-    },
-    {
-      "text": "  ",
-      "url": "/news/roe-v-wade-overturned-what-this-means-for-california-following-scotus-decision"
-    },
-    {
-      "text": "Roe v. Wade overturned: What this means for California following SCOTUS decision",
-      "url": "/news/roe-v-wade-overturned-what-this-means-for-california-following-scotus-decision"
+      "text": "California voters to weigh constitutional right to abortion",
+      "url": "/news/california-voters-to-weigh-constitutional-right-to-abortion"
     },
     {
       "text": "  ",
-      "url": "/news/california-west-coast-abortion-roe-v-wade"
+      "url": "/news/amtrak-train-derailment-missouri-los-angeles-chicago"
     },
     {
-      "text": "California, West Coast states promise access to abortion, contraceptives",
-      "url": "/news/california-west-coast-abortion-roe-v-wade"
+      "text": "Amtrak derailment: 3 killed, several injured after train hits dump truck in Missouri",
+      "url": "/news/amtrak-train-derailment-missouri-los-angeles-chicago"
+    },
+    {
+      "text": "  ",
+      "url": "/news/jury-awards-21-million-to-family-after-pregnant-teen-killed-by-fremont-police"
+    },
+    {
+      "text": "Federal jury awards $21 million to family after pregnant teen killed by Fremont police",
+      "url": "/news/jury-awards-21-million-to-family-after-pregnant-teen-killed-by-fremont-police"
+    },
+    {
+      "text": "  ",
+      "url": "/news/san-francisco-pride-event-ends-abruptly-after-pepper-spray-fired-into-crowd"
+    },
+    {
+      "text": "San Francisco Pride event ends abruptly after pepper spray fired into crowd",
+      "url": "/news/san-francisco-pride-event-ends-abruptly-after-pepper-spray-fired-into-crowd"
     },
     {
       "text": "Crime & Public Safety",
@@ -8644,51 +8812,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/man-accused-of-shooting-killing-glendale-food-delivery-driver"
+      "url": "/news/man-with-ar-15-style-rifle-arrested-after-stealing-food-from-ontario-little-caesars"
     },
     {
-      "text": "Man accused of shooting, killing Arizona Uber Eats delivery driver",
-      "url": "/news/man-accused-of-shooting-killing-glendale-food-delivery-driver"
-    },
-    {
-      "text": "  ",
-      "url": "/news/downtown-atlanta-subway-shooting-mayo-fight"
-    },
-    {
-      "text": "Customer kills Atlanta Subway worker, injures another in argument over mayo, police say",
-      "url": "/news/downtown-atlanta-subway-shooting-mayo-fight"
+      "text": "Man with 'AR-15 style' rifle arrested after stealing food from Ontario Little Caesars",
+      "url": "/news/man-with-ar-15-style-rifle-arrested-after-stealing-food-from-ontario-little-caesars"
     },
     {
       "text": "  ",
-      "url": "/news/paulding-county-domestic-disturbance-house-fire-woodwind-drive"
+      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
     },
     {
-      "text": "3 children dead after woman allegedly tried to stab kids during house fire, sheriff's office says",
-      "url": "/news/paulding-county-domestic-disturbance-house-fire-woodwind-drive"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-shot-to-death-in-woodland-hills-ralphs-parking-lot"
-    },
-    {
-      "text": "Man shot to death in Woodland Hills Ralphs parking lot",
-      "url": "/news/man-shot-to-death-in-woodland-hills-ralphs-parking-lot"
+      "text": "Woman found shot in deadly 710 Freeway crash in Long Beach",
+      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
     },
     {
       "text": "  ",
-      "url": "/news/officials-2-women-rescued-after-kidnapping-overnight-in-central-florida-suspect-shot-killed"
+      "url": "/news/canoga-park-hit-and-run-crash"
     },
     {
-      "text": "Officials: 2 hostages rescued after kidnapping overnight in Central Florida; suspect shot, killed",
-      "url": "/news/officials-2-women-rescued-after-kidnapping-overnight-in-central-florida-suspect-shot-killed"
+      "text": "Man killed in horrific hit-and-run crash in Canoga Park",
+      "url": "/news/canoga-park-hit-and-run-crash"
     },
     {
       "text": "  ",
-      "url": "/news/phoenix-homeowner-shoots-kills-intruders-police"
+      "url": "/news/police-in-pursuit-of-bears-in-la-canada-area"
     },
     {
-      "text": "Phoenix homeowner shoots and kills 2 intruders, police say",
-      "url": "/news/phoenix-homeowner-shoots-kills-intruders-police"
+      "text": "Bear roaming on side of 210 Freeway forces delays in La Ca\u00f1ada area",
+      "url": "/news/police-in-pursuit-of-bears-in-la-canada-area"
+    },
+    {
+      "text": "  ",
+      "url": "/news/azusa-neighborhood-evacuated-after-cache-of-illegal-fireworks-found-in-home"
+    },
+    {
+      "text": "Azusa neighborhood evacuated after cache of illegal fireworks found in home",
+      "url": "/news/azusa-neighborhood-evacuated-after-cache-of-illegal-fireworks-found-in-home"
+    },
+    {
+      "text": "  ",
+      "url": "/news/man-stabbed-to-death-in-canoga-park-police-search-for-suspect"
+    },
+    {
+      "text": "Man stabbed to death in Canoga Park, police search for suspect",
+      "url": "/news/man-stabbed-to-death-in-canoga-park-police-search-for-suspect"
     },
     {
       "text": "Consumer",
@@ -8697,6 +8865,22 @@
     {
       "text": "View More",
       "url": "/tag/consumer"
+    },
+    {
+      "text": "   ",
+      "url": "/news/fda-says-696000-cans-of-australian-baby-formula-will-be-available-this-summer"
+    },
+    {
+      "text": "FDA says 696,000 cans of Australian baby formula will be available this summer",
+      "url": "/news/fda-says-696000-cans-of-australian-baby-formula-will-be-available-this-summer"
+    },
+    {
+      "text": "  ",
+      "url": "/news/selling-a-home-front-door-color-matters-zillow-data-says"
+    },
+    {
+      "text": "Selling a home: Front door color matters, Zillow data says",
+      "url": "/news/selling-a-home-front-door-color-matters-zillow-data-says"
     },
     {
       "text": "  video",
@@ -8735,22 +8919,6 @@
       "url": "/news/fda-probe-baby-death-possibly-tied-abbott-formula"
     },
     {
-      "text": "  ",
-      "url": "/news/how-going-incognito-online-can-help-you-search-for-better-deals"
-    },
-    {
-      "text": "How going 'incognito' online can help you snag better deals",
-      "url": "/news/how-going-incognito-online-can-help-you-search-for-better-deals"
-    },
-    {
-      "text": "  ",
-      "url": "/news/fda-bans-juul-e-cigarettes-us"
-    },
-    {
-      "text": "FDA bans Juul e-cigarettes, orders them off the U.S. market",
-      "url": "/news/fda-bans-juul-e-cigarettes-us"
-    },
-    {
       "text": "Sports",
       "url": "/tag/sports"
     },
@@ -8759,56 +8927,52 @@
       "url": "/tag/sports"
     },
     {
-      "text": "   ",
+      "text": "  ",
+      "url": "/sports/russell-westbrook-to-return-to-la-lakers"
+    },
+    {
+      "text": "Russell Westbrook to return to LA Lakers: report",
+      "url": "/sports/russell-westbrook-to-return-to-la-lakers"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/5-time-nba-all-star-john-wall-expected-to-sign-with-la-clippers-report-says"
+    },
+    {
+      "text": "5-time NBA All-Star John Wall expected to sign with LA Clippers, report says",
+      "url": "/sports/5-time-nba-all-star-john-wall-expected-to-sign-with-la-clippers-report-says"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/jesse-winker-j-p-crawford-julio-rodriguez-suspended-by-mlb-after-brawl-with-angels"
+    },
+    {
+      "text": "Mariners' Jesse Winker, J.P. Crawford, Julio Rodriguez suspended by MLB after brawl with Angels",
+      "url": "/sports/jesse-winker-j-p-crawford-julio-rodriguez-suspended-by-mlb-after-brawl-with-angels"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/angels-interim-manager-phil-nevin-others-suspended-after-brawl-vs-mariners"
+    },
+    {
+      "text": "Angels interim manager Phil Nevin, others suspended after brawl vs. Mariners",
+      "url": "/sports/angels-interim-manager-phil-nevin-others-suspended-after-brawl-vs-mariners"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/could-kyrie-irving-land-on-the-lakers"
+    },
+    {
+      "text": "Could Kyrie Irving land on the Lakers?",
+      "url": "/sports/could-kyrie-irving-land-on-the-lakers"
+    },
+    {
+      "text": "  ",
       "url": "/sports/wnba-star-brittney-griner-russian-court"
     },
     {
       "text": "WNBA star Brittney Griner gets July 1 start date for trial",
       "url": "/sports/wnba-star-brittney-griner-russian-court"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/stanley-cup-2022-colorado-avalanche-beat-tampa-bay-lightning"
-    },
-    {
-      "text": "Stanley Cup 2022: Colorado Avalanche beat Tampa Bay Lightning",
-      "url": "/sports/stanley-cup-2022-colorado-avalanche-beat-tampa-bay-lightning"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/deshaun-watson-to-meet-with-nfl-disciplinary-officer-ap-sources"
-    },
-    {
-      "text": "Deshaun Watson to meet with NFL disciplinary officer: AP sources",
-      "url": "/sports/deshaun-watson-to-meet-with-nfl-disciplinary-officer-ap-sources"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/going-once-twice-lebron-james-triple-logoman-card-sells-for-2-4-million-at-auction"
-    },
-    {
-      "text": "Sold!: LeBron James 'Triple Logoman' card sells for $2.4 million at auction",
-      "url": "/sports/going-once-twice-lebron-james-triple-logoman-card-sells-for-2-4-million-at-auction"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1085582"
-    },
-    {
-      "text": "",
-      "url": "/video/1085582"
-    },
-    {
-      "text": "Roe v. Wade: Billie Jean King, Sue Bird react to SCOTUS decision",
-      "url": "/video/1085582"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/lakers-get-michigan-states-max-christie-with-2nd-round-pick"
-    },
-    {
-      "text": "Lakers get Michigan State\u2019s Max Christie with 2nd-round pick",
-      "url": "/sports/lakers-get-michigan-states-max-christie-with-2nd-round-pick"
     },
     {
       "text": "Unusual",
@@ -8817,6 +8981,22 @@
     {
       "text": "View More",
       "url": "/tag/unusual"
+    },
+    {
+      "text": "  ",
+      "url": "/news/multiple-stings-after-truck-carrying-200-beehives-rolls-over-on-highway"
+    },
+    {
+      "text": "Millions of bees on the loose after truck carrying 200 beehives rolls over",
+      "url": "/news/multiple-stings-after-truck-carrying-200-beehives-rolls-over-on-highway"
+    },
+    {
+      "text": "  ",
+      "url": "/news/suspect-struck-by-big-rig-becomes-combative-with-chp-officers"
+    },
+    {
+      "text": "Suspect struck by big rig attempts carjacking, gets combative with CHP officers",
+      "url": "/news/suspect-struck-by-big-rig-becomes-combative-with-chp-officers"
     },
     {
       "text": "  ",
@@ -8851,22 +9031,6 @@
       "url": "/news/omg-airbnb-offering-10m-to-create-the-craziest-properties-on-earth"
     },
     {
-      "text": "  ",
-      "url": "/news/british-man-turned-away-from-giving-blood-after-refusing-to-answer-if-he-was-pregnant-report"
-    },
-    {
-      "text": "British man turned away from giving blood after refusing to answer if he was pregnant: report",
-      "url": "/news/british-man-turned-away-from-giving-blood-after-refusing-to-answer-if-he-was-pregnant-report"
-    },
-    {
-      "text": "  ",
-      "url": "/news/mom-of-4-makes-living-teaching-how-to-play-video-games-im-breaking-that-stigma"
-    },
-    {
-      "text": "Mom of 4 makes living teaching how to play video games: \u2018I\u2019m breaking that stigma\u2019",
-      "url": "/news/mom-of-4-makes-living-teaching-how-to-play-video-games-im-breaking-that-stigma"
-    },
-    {
       "text": "Local News",
       "url": "/local-news"
     },
@@ -8876,51 +9040,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/at-least-10-injured-after-commuter-bus-crash-el-segundo"
+      "url": "/news/man-with-ar-15-style-rifle-arrested-after-stealing-food-from-ontario-little-caesars"
     },
     {
-      "text": "At least 10 injured after commuter bus crash in El Segundo",
-      "url": "/news/at-least-10-injured-after-commuter-bus-crash-el-segundo"
-    },
-    {
-      "text": "  ",
-      "url": "/news/union-fire-jurupa-valley-riverside-county"
-    },
-    {
-      "text": "Union Fire: Crews make progress on Riverside Co. blaze, evacuations lifted",
-      "url": "/news/union-fire-jurupa-valley-riverside-county"
+      "text": "Man with 'AR-15 style' rifle arrested after stealing food from Ontario Little Caesars",
+      "url": "/news/man-with-ar-15-style-rifle-arrested-after-stealing-food-from-ontario-little-caesars"
     },
     {
       "text": "  ",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
+      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
     },
     {
-      "text": "'Full House' star Jodie Sweetin shoved by LAPD during protest of Supreme Court ruling on LA freeway",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
-    },
-    {
-      "text": "  ",
-      "url": "/news/cardboard-city-opens-in-santa-monica"
-    },
-    {
-      "text": "'Cardboard City' opens in Santa Monica",
-      "url": "/news/cardboard-city-opens-in-santa-monica"
+      "text": "Woman found shot in deadly 710 Freeway crash in Long Beach",
+      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
     },
     {
       "text": "  ",
-      "url": "/news/man-allegedly-beaten-during-south-la-street-takeover"
+      "url": "/news/2-hurt-in-405-freeway-crash-near-skirball-center"
     },
     {
-      "text": "Man allegedly beaten during South LA street takeover",
-      "url": "/news/man-allegedly-beaten-during-south-la-street-takeover"
+      "text": "2 hurt in 405 Freeway crash near Skirball Center",
+      "url": "/news/2-hurt-in-405-freeway-crash-near-skirball-center"
     },
     {
       "text": "  ",
-      "url": "/news/la-heat-wave-heres-how-hot-its-going-to-get"
+      "url": "/news/la-county-to-approve-return-of-bruces-beach-to-black-family-who-owned-property-in-1920s"
     },
     {
-      "text": "LA heat wave: Here's how hot it's going to get",
-      "url": "/news/la-heat-wave-heres-how-hot-its-going-to-get"
+      "text": "LA County to approve return of Bruce's Beach to Black family who owned property in 1920s",
+      "url": "/news/la-county-to-approve-return-of-bruces-beach-to-black-family-who-owned-property-in-1920s"
+    },
+    {
+      "text": "  ",
+      "url": "/news/fire-ignites-inside-canoga-park-skilled-nursing-facility"
+    },
+    {
+      "text": "Fire ignites inside Canoga Park skilled nursing facility",
+      "url": "/news/fire-ignites-inside-canoga-park-skilled-nursing-facility"
+    },
+    {
+      "text": "  ",
+      "url": "/news/canoga-park-hit-and-run-crash"
+    },
+    {
+      "text": "Man killed in horrific hit-and-run crash in Canoga Park",
+      "url": "/news/canoga-park-hit-and-run-crash"
     },
     {
       "text": "National News",
@@ -8931,52 +9095,52 @@
       "url": "/national-news"
     },
     {
-      "text": "  ",
-      "url": "/news/supreme-court-sides-with-football-coach-who-wanted-to-pray-on-the-field"
+      "text": "   ",
+      "url": "/news/cassidy-hutchinson-january-6-panel-top-aide-mark-meadows-trump-white-house"
     },
     {
-      "text": "Supreme Court sides with Bremerton football coach who wanted to pray on the field",
-      "url": "/news/supreme-court-sides-with-football-coach-who-wanted-to-pray-on-the-field"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-accused-of-shooting-killing-glendale-food-delivery-driver"
-    },
-    {
-      "text": "Man accused of shooting, killing Arizona Uber Eats delivery driver",
-      "url": "/news/man-accused-of-shooting-killing-glendale-food-delivery-driver"
+      "text": "January 6 panel to hear from top aide in Trump's White House during surprise hearing",
+      "url": "/news/cassidy-hutchinson-january-6-panel-top-aide-mark-meadows-trump-white-house"
     },
     {
       "text": "  ",
-      "url": "/news/downtown-atlanta-subway-shooting-mayo-fight"
+      "url": "/news/gov-newsom-reportedly-plans-to-buy-cable-television-ads-in-florida"
     },
     {
-      "text": "Customer kills Atlanta Subway worker, injures another in argument over mayo, police say",
-      "url": "/news/downtown-atlanta-subway-shooting-mayo-fight"
-    },
-    {
-      "text": "  ",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
-    },
-    {
-      "text": "'Full House' star Jodie Sweetin shoved by LAPD during protest of Supreme Court ruling on LA freeway",
-      "url": "/news/full-house-star-jodie-sweetin-shoved-lapd-protest-supreme-court-ruling-la-freeway"
+      "text": "Gov. Newsom reportedly plans to buy cable television ads in Florida",
+      "url": "/news/gov-newsom-reportedly-plans-to-buy-cable-television-ads-in-florida"
     },
     {
       "text": "  ",
-      "url": "/news/more-than-1-million-voters-switched-to-republican-party-over-the-last-year"
+      "url": "/news/disney-world-anniversary-attractions"
     },
     {
-      "text": "More than 1 million voters switched to Republican Party over the last year",
-      "url": "/news/more-than-1-million-voters-switched-to-republican-party-over-the-last-year"
+      "text": "Disney World celebrates 50th anniversary with new attractions, experiences",
+      "url": "/news/disney-world-anniversary-attractions"
     },
     {
       "text": "  ",
-      "url": "/sports/deshaun-watson-to-meet-with-nfl-disciplinary-officer-ap-sources"
+      "url": "/news/californias-great-america-amusement-park-is-changing-hands"
     },
     {
-      "text": "Deshaun Watson to meet with NFL disciplinary officer: AP sources",
-      "url": "/sports/deshaun-watson-to-meet-with-nfl-disciplinary-officer-ap-sources"
+      "text": "California's Great America amusement park is changing hands; future uncertain",
+      "url": "/news/californias-great-america-amusement-park-is-changing-hands"
+    },
+    {
+      "text": "  ",
+      "url": "/news/capital-gazette-mass-shooting-victims-honored-at-wreath-laying-ceremony-in-annapolis"
+    },
+    {
+      "text": "Capital Gazette mass shooting victims honored at wreath-laying ceremony in Annapolis",
+      "url": "/news/capital-gazette-mass-shooting-victims-honored-at-wreath-laying-ceremony-in-annapolis"
+    },
+    {
+      "text": "  ",
+      "url": "/news/fda-says-696000-cans-of-australian-baby-formula-will-be-available-this-summer"
+    },
+    {
+      "text": "FDA says 696,000 cans of Australian baby formula will be available this summer",
+      "url": "/news/fda-says-696000-cans-of-australian-baby-formula-will-be-available-this-summer"
     },
     {
       "text": "Money",
@@ -8988,51 +9152,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/stretch-your-dollar-food-delivery"
+      "url": "/news/bars-open-until-4-am-west-hollywood-considering-extending-last-call"
     },
     {
-      "text": "How to save money on food delivery services",
-      "url": "/news/stretch-your-dollar-food-delivery"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-gas-rebate-heres-how-it-would-work"
-    },
-    {
-      "text": "California gas rebate: Here's how it would work",
-      "url": "/news/california-gas-rebate-heres-how-it-would-work"
+      "text": "Bars open until 4 AM? West Hollywood considering extending last call",
+      "url": "/news/bars-open-until-4-am-west-hollywood-considering-extending-last-call"
     },
     {
       "text": "  ",
-      "url": "/news/average-gas-prices-drop-for-13th-time-in-14-days"
+      "url": "/news/selling-a-home-front-door-color-matters-zillow-data-says"
     },
     {
-      "text": "Average gas prices drop for 13th time in 14 days",
-      "url": "/news/average-gas-prices-drop-for-13th-time-in-14-days"
-    },
-    {
-      "text": "  ",
-      "url": "/news/1-4m-powerball-ticket-bought-in-los-angeles"
-    },
-    {
-      "text": "$1.4M Powerball ticket purchased in Glendale",
-      "url": "/news/1-4m-powerball-ticket-bought-in-los-angeles"
+      "text": "Selling a home: Front door color matters, Zillow data says",
+      "url": "/news/selling-a-home-front-door-color-matters-zillow-data-says"
     },
     {
       "text": "  ",
-      "url": "/news/tax-refunds-irs-backlog-wheres-my-refund"
+      "url": "/news/california-direct-payments-from-government"
     },
     {
-      "text": "IRS tax return backlog swells as Americans await refunds",
-      "url": "/news/tax-refunds-irs-backlog-wheres-my-refund"
+      "text": "Millions of Californians could get $1,050 direct payments from government: What to know",
+      "url": "/news/california-direct-payments-from-government"
     },
     {
       "text": "  ",
-      "url": "/news/la-orange-county-gas-prices-drop-for-12th-time-in-13-days"
+      "url": "/money/school-districts-pricing-out-parents-on-record-requests-by-charging-tens-of-thousands-in-exorbitant-fees"
     },
     {
-      "text": "LA, Orange County gas prices drop for 12th time in 13 days",
-      "url": "/news/la-orange-county-gas-prices-drop-for-12th-time-in-13-days"
+      "text": "School districts pricing out parents on record requests by charging tens of thousands in 'exorbitant fees'",
+      "url": "/money/school-districts-pricing-out-parents-on-record-requests-by-charging-tens-of-thousands-in-exorbitant-fees"
+    },
+    {
+      "text": "  ",
+      "url": "/money/personal-loan-rates-june-27-2022"
+    },
+    {
+      "text": "Personal loan rates edge up: Still lower than this time last year",
+      "url": "/money/personal-loan-rates-june-27-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/money/todays-mortgage-refinance-rates-june-27-2022"
+    },
+    {
+      "text": "Today\u2019s mortgage refinance rates: 3 key rates edge down | June 27, 2022",
+      "url": "/money/todays-mortgage-refinance-rates-june-27-2022"
     },
     {
       "text": "News",
@@ -9483,8 +9647,8 @@
       "url": "/contact-us"
     }
   ],
-  "item_last_updated": 1656353626,
-  "item_size": 79732935,
+  "item_last_updated": 1656437998,
+  "item_size": 81331296,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -9501,10 +9665,10 @@
     "publicdate": "2022-03-23 20:59:13",
     "addeddate": "2022-03-23 20:59:13"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1404811674,
+  "server": "ia902501.us.archive.org",
+  "uniq": 868319903,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

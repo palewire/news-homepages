@@ -1,5 +1,5 @@
 {
-  "created": 1656354297,
+  "created": 1656462328,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/theonion-2022",
@@ -2926,31 +2926,199 @@
       "format": "JSON"
     },
     {
+      "name": "theonion-2022-06-27T21:19:33.927521-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656382776",
+      "size": "28561",
+      "md5": "588cb7e8aebff3163f8e06cd260f423b",
+      "crc32": "40166d2f",
+      "sha1": "088d966c7200d29225950440cf70362cc131e94f",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-27T21:19:33.927521-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656382778",
+      "size": "21076",
+      "md5": "da0f68d576d86a0da68cea6a9cb086eb",
+      "crc32": "ae2f8b2a",
+      "sha1": "91be8244ab58b503275aa0d07e2e91539dcbeb5c",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-27T21:19:33.927521-05:00.jpg",
+      "source": "original",
+      "mtime": "1656382775",
+      "size": "267136",
+      "md5": "313fa6f96ced54bf2521aec733982fc5",
+      "crc32": "a3dcc103",
+      "sha1": "92f2652438be9505ca050c4cc36e46cf8aa94329",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-27T21:19:33.927521-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-27T21:19:33.927521-05:00.jpg",
+      "mtime": "1656382831",
+      "size": "9784",
+      "md5": "6cfebdb3a1140a7ccf1f280f0acf2f3d",
+      "crc32": "9f9f1772",
+      "sha1": "1fba55b148dc70da6a3802427aa2ea0210bae882"
+    },
+    {
+      "name": "theonion-2022-06-27T22:46:05.101179-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656387968",
+      "size": "28561",
+      "md5": "588cb7e8aebff3163f8e06cd260f423b",
+      "crc32": "40166d2f",
+      "sha1": "088d966c7200d29225950440cf70362cc131e94f",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-27T22:46:05.101179-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656387970",
+      "size": "16921",
+      "md5": "c0c53a60aaef8a5b80c7f40686abadfa",
+      "crc32": "df3e91c9",
+      "sha1": "d568fdc79786de51eb9f58f3d171fdaecf68951c",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-27T22:46:05.101179-05:00.jpg",
+      "source": "original",
+      "mtime": "1656387967",
+      "size": "266585",
+      "md5": "43e243848609dbee194e9998a520c798",
+      "crc32": "6cdd7516",
+      "sha1": "fec4bb318cdce550b0d01fbe41cb3f386c47b1fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-27T22:46:05.101179-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-27T22:46:05.101179-05:00.jpg",
+      "mtime": "1656388019",
+      "size": "9773",
+      "md5": "99183dfad72a306551c9f909327d75e8",
+      "crc32": "3b16a60a",
+      "sha1": "d6da083a12ad70d4e27b8357a9a0bd42caa4bd13"
+    },
+    {
+      "name": "theonion-2022-06-28T04:41:27.931901-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656409290",
+      "size": "28561",
+      "md5": "588cb7e8aebff3163f8e06cd260f423b",
+      "crc32": "40166d2f",
+      "sha1": "088d966c7200d29225950440cf70362cc131e94f",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-28T04:41:27.931901-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656409291",
+      "size": "16921",
+      "md5": "c0c53a60aaef8a5b80c7f40686abadfa",
+      "crc32": "df3e91c9",
+      "sha1": "d568fdc79786de51eb9f58f3d171fdaecf68951c",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-28T04:41:27.931901-05:00.jpg",
+      "source": "original",
+      "mtime": "1656409289",
+      "size": "267387",
+      "md5": "9aeddacf746eec632a8422e52c452713",
+      "crc32": "6a74768c",
+      "sha1": "c60eb4406f035d9b5d198d0b4efa997a5539f2df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-28T04:41:27.931901-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-28T04:41:27.931901-05:00.jpg",
+      "mtime": "1656409393",
+      "size": "9780",
+      "md5": "e41ed998c90e05b8df8cff46feb8492d",
+      "crc32": "421d2fb4",
+      "sha1": "19781d0c53ad148854e43b4167d5d9f85bb2ef99"
+    },
+    {
+      "name": "theonion-2022-06-28T12:47:26.435767-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656438450",
+      "size": "28724",
+      "md5": "86954670de7906738d6d39c84759ba82",
+      "crc32": "d4daeeca",
+      "sha1": "95cc51bddbad7dc0d4bacb736787373fe63d2278",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-28T12:47:26.435767-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656438452",
+      "size": "17056",
+      "md5": "4ed0fe6144d5fa23e8a9a1b396855ec6",
+      "crc32": "e3eb0f6b",
+      "sha1": "c458d56edf526d4c21c43b8a3d30e091e32737f1",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-06-28T12:47:26.435767-05:00.jpg",
+      "source": "original",
+      "mtime": "1656438449",
+      "size": "280478",
+      "md5": "a8e9b75fe8cf156818899bfd40c6f19a",
+      "crc32": "14b52d91",
+      "sha1": "4f2231f89206e5f60c2d4e6bb2a2566d880332e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-06-28T12:47:26.435767-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-06-28T12:47:26.435767-05:00.jpg",
+      "mtime": "1656438515",
+      "size": "10023",
+      "md5": "b84fd8843b2c8a60ff6c74048783c8a4",
+      "crc32": "de611409",
+      "sha1": "0eeb5bdd9afb41deb2d7612073eeb3a966e419b0"
+    },
+    {
       "name": "theonion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6cf3e45b0dc2ffea112f26ff43e2b62636284efe",
-      "mtime": "1656353621",
-      "size": "59972",
-      "md5": "b3091f91f583baa18d29f0b1ad32f8b3",
-      "crc32": "e207b764",
-      "sha1": "8bc1d47054042cee4335a50e12c5eb2e4387d53f",
+      "btih": "d422bcc561a184c42afd0e3dcb779df141a39c02",
+      "mtime": "1656438520",
+      "size": "63349",
+      "md5": "64bcb27f0f06f73cc1418ee9ab066c63",
+      "crc32": "c295c59d",
+      "sha1": "900f9e0c06f19d4d43b1d5628a0c44be34b7d1ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theonion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f0db053cf1432a668e4e12305479b86",
+      "md5": "76008fd28166b05c2b5dade802b068e8",
       "summation": "md5"
     },
     {
       "name": "theonion-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656353585",
-      "size": "335872",
-      "md5": "5ab36618530afa8eb013051bdc985ce7",
-      "crc32": "836a15e6",
-      "sha1": "e8cc1c97191b5dc27a92569efeeb4961e9de4c84",
+      "mtime": "1656438455",
+      "size": "356352",
+      "md5": "2dbdf00f08fb97dfcdfa5b66654bf29f",
+      "crc32": "dc1cd4f5",
+      "sha1": "7e8fb31f9a32d8dcac5c113272394f3dcae65f4b",
       "format": "Metadata"
     },
     {
@@ -2964,9 +3132,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 282,
-  "item_last_updated": 1656353621,
-  "item_size": 24154991,
+  "files_count": 298,
+  "item_last_updated": 1656438520,
+  "item_size": 25486175,
   "metadata": {
     "identifier": "theonion-2022",
     "collection": [
@@ -2984,7 +3152,505 @@
     "addeddate": "2022-05-25 16:00:43"
   },
   "server": "ia801502.us.archive.org",
-  "uniq": 690877874,
+  "theonion-2022": [
+    {
+      "text": "Dog Fact: Did You Know?",
+      "url": "https://www.theonion.com/dog-fact-did-you-know-1849114051"
+    },
+    {
+      "text": "00:21Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\nFarmer Caught Googling \u2018What Is Corn\u2019",
+      "url": "https://www.theonion.com/farmer-caught-googling-what-is-corn-1849094088"
+    },
+    {
+      "text": "00:57Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\nWhat Is The #KillYourDad Challenge?",
+      "url": "https://www.theonion.com/what-is-the-killyourdad-challenge-1849071240"
+    },
+    {
+      "text": "00:21Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\nFDA Warns Americans To Take That Out Of Their Mouth This Instant",
+      "url": "https://www.theonion.com/fda-warns-americans-to-take-that-out-of-their-mouth-thi-1849065767"
+    },
+    {
+      "text": "01:32Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\nShigeru Miyamoto Gets Disturbingly Detailed About What He Would Do To Sonic The Hedgehog If He Ever Saw Him In Real Life",
+      "url": "https://www.theonion.com/shigeru-miyamoto-gets-disturbingly-detailed-about-what-1849059652"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/period-drama-1849117002"
+    },
+    {
+      "text": "Cartoons",
+      "url": "https://www.theonion.com/opinion/cartoons"
+    },
+    {
+      "text": "Period Drama",
+      "url": "https://www.theonion.com/period-drama-1849117002"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/supreme-court-overturns-right-v-wrong-1849106171"
+    },
+    {
+      "text": "Breaking News",
+      "url": "https://www.theonion.com/breaking-news"
+    },
+    {
+      "text": "Onion Store: Supreme Court Overturns \u2018Right v. Wrong\u2019",
+      "url": "https://www.theonion.com/supreme-court-overturns-right-v-wrong-1849106171"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/san-francisco-adds-no-public-restrooms-to-city-entran-1849117007"
+    },
+    {
+      "text": "News In Photos",
+      "url": "https://www.theonion.com/breaking-news/news-in-photos"
+    },
+    {
+      "text": "San Francisco Adds \u2018No Public Restrooms\u2019 To City Entrance Sign\u2019",
+      "url": "https://www.theonion.com/san-francisco-adds-no-public-restrooms-to-city-entran-1849117007"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/senators-say-trump-supreme-court-nominees-misled-them-1849114328"
+    },
+    {
+      "text": "American Voices",
+      "url": "https://www.theonion.com/opinion/american-voices"
+    },
+    {
+      "text": "Senators Say Trump Supreme Court Nominees Misled Them",
+      "url": "https://www.theonion.com/senators-say-trump-supreme-court-nominees-misled-them-1849114328"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/what-to-know-about-covid-vaccines-for-kids-under-5-1849101744"
+    },
+    {
+      "text": "Infographic",
+      "url": "https://www.theonion.com/breaking-news/infographic"
+    },
+    {
+      "text": "What To Know About Covid Vaccines For Kids Under 5",
+      "url": "https://www.theonion.com/what-to-know-about-covid-vaccines-for-kids-under-5-1849101744"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/dressage-practice-super-awkward-ever-since-horse-and-ri-1849111764"
+    },
+    {
+      "text": "News In Photos",
+      "url": "https://www.theonion.com/sports/news-in-photos"
+    },
+    {
+      "text": "Dressage Practice Super Awkward Ever Since Horse And Rider Stopped Hooking Up",
+      "url": "https://www.theonion.com/dressage-practice-super-awkward-ever-since-horse-and-ri-1849111764"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/amazing-in-flight-perks-that-airlines-had-in-the-1960s-1848946316"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/entertainment/slideshow"
+    },
+    {
+      "text": "Amazing In-Flight Perks That Airlines Had In The 1960s",
+      "url": "https://www.theonion.com/amazing-in-flight-perks-that-airlines-had-in-the-1960s-1848946316"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/ceo-doesn-t-expect-any-upcoming-layoffs-employees-deser-1849042242"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "CEO Doesn\u2019t Expect Any Upcoming Layoffs Employees Deserve To Know About",
+      "url": "https://www.theonion.com/ceo-doesn-t-expect-any-upcoming-layoffs-employees-deser-1849042242"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/realistic-concept-art-for-new-luxury-condos-features-ho-1848969299"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "Realistic Concept Art For New Luxury Condos Features Homeless Man Getting Arrested",
+      "url": "https://www.theonion.com/realistic-concept-art-for-new-luxury-condos-features-ho-1848969299"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/woman-at-potluck-disappointed-after-no-one-even-tried-n-1849022515"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "Woman At Potluck Disappointed After No One Even Tried Napkins She Brought",
+      "url": "https://www.theonion.com/woman-at-potluck-disappointed-after-no-one-even-tried-n-1849022515"
+    },
+    {
+      "text": "Local",
+      "url": "https://www.theonion.com/local"
+    },
+    {
+      "text": "Show all",
+      "url": "https://www.theonion.com/local"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/anti-abortion-advocate-excitedly-switches-focus-to-sham-1849106094"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/breaking-news/news-in-brief"
+    },
+    {
+      "text": "Anti-Abortion Advocate Excitedly Switches Focus To Shaming Young Unwed MothersDALLAS\u2014In the wake of the Supreme Court\u2019s 6-3 decision to overturn Roe v. Wade, local anti-abortion advocate Mary Firkins, 54, excitedly announced Friday that she would now switch her full-time attention to the shaming of young unwed mothers. \u201cIt\u2019s\u2026",
+      "url": "https://www.theonion.com/anti-abortion-advocate-excitedly-switches-focus-to-sham-1849106094"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/it-guy-requests-employees-stop-placing-difficult-to-rem-1849022263"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "IT Guy Requests Employees Stop Placing Difficult-To-Remove Stickers On Him",
+      "url": "https://www.theonion.com/it-guy-requests-employees-stop-placing-difficult-to-rem-1849022263"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/whole-conversation-wasted-getting-to-know-new-neighbors-1849022517"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "Whole Conversation Wasted Getting To Know New Neighbors Who Were Just Airbnb Guests",
+      "url": "https://www.theonion.com/whole-conversation-wasted-getting-to-know-new-neighbors-1849022517"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/woman-throws-away-all-the-food-in-grocery-store-so-she-1849022266"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "Woman Throws Away All The Food In Grocery Store So She Won\u2019t Be Tempted",
+      "url": "https://www.theonion.com/woman-throws-away-all-the-food-in-grocery-store-so-she-1849022266"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/grandma-coughing-better-these-days-1848995012"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/local/news-in-brief"
+    },
+    {
+      "text": "Grandma Coughing Better These Days",
+      "url": "https://www.theonion.com/grandma-coughing-better-these-days-1848995012"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.theonion.com/politics"
+    },
+    {
+      "text": "Show all",
+      "url": "https://www.theonion.com/politics"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/nation-s-centrists-stubbornly-double-down-on-claim-that-1849106211"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/breaking-news/news-in-brief"
+    },
+    {
+      "text": "Nation\u2019s Centrists Stubbornly Double Down On Claim That Roe v. Wade Not At RiskNEW YORK\u2014Asserting there was no need to worry about the highly unlikely outcome, the nation\u2019s centrists reportedly doubled down Friday on their claim that Roe v. Wade was not at risk. \u201cPeople are blowing this whole idea of overturning Roe completely\u2026",
+      "url": "https://www.theonion.com/nation-s-centrists-stubbornly-double-down-on-claim-that-1849106211"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/biggest-revelations-from-the-jan-6-hearings-1849072102"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/breaking-news/slideshow"
+    },
+    {
+      "text": "Biggest Revelations From The Jan. 6 Hearings",
+      "url": "https://www.theonion.com/biggest-revelations-from-the-jan-6-hearings-1849072102"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/mental-health-experts-warn-lack-of-purpose-accomplishm-1849017001"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/breaking-news/news-in-brief"
+    },
+    {
+      "text": "Mental Health Experts Warn Lack Of Purpose, Accomplishments Could Be Sign Democratic Leaders Depressed",
+      "url": "https://www.theonion.com/mental-health-experts-warn-lack-of-purpose-accomplishm-1849017001"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/kavanaugh-thomas-champion-creating-better-future-for-n-1849106105"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/breaking-news/news-in-brief"
+    },
+    {
+      "text": "Kavanaugh, Thomas Champion Creating Better Future For Next Generation Of Rapists",
+      "url": "https://www.theonion.com/kavanaugh-thomas-champion-creating-better-future-for-n-1849106105"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/texans-explain-why-they-are-voting-for-greg-abbott-1849058775"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/opinion/slideshow"
+    },
+    {
+      "text": "Texans Explain Why They Are Voting For Greg Abbott",
+      "url": "https://www.theonion.com/texans-explain-why-they-are-voting-for-greg-abbott-1849058775"
+    },
+    {
+      "text": "In Case You Missed It",
+      "url": "https://www.theonion.com/entertainment"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/things-to-never-say-to-someone-who-just-came-out-1849079422"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/local/slideshow"
+    },
+    {
+      "text": "Things To Never Say To Someone Who Just Came Out",
+      "url": "https://www.theonion.com/things-to-never-say-to-someone-who-just-came-out-1849079422"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/things-to-never-say-to-someone-who-owns-a-pit-bull-1849072170"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/local/slideshow"
+    },
+    {
+      "text": "Things To Never Say To Someone Who Owns A Pit Bull",
+      "url": "https://www.theonion.com/things-to-never-say-to-someone-who-owns-a-pit-bull-1849072170"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/jan-6-rioters-explain-why-they-stormed-the-capitol-1849059380"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/opinion/slideshow"
+    },
+    {
+      "text": "Jan. 6 Rioters Explain Why They Stormed The Capitol",
+      "url": "https://www.theonion.com/jan-6-rioters-explain-why-they-stormed-the-capitol-1849059380"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/most-frequent-google-search-in-every-state-1849055498"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/breaking-news/slideshow"
+    },
+    {
+      "text": "Most Frequent Google Search In Every State",
+      "url": "https://www.theonion.com/most-frequent-google-search-in-every-state-1849055498"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.theonion.com/entertainment"
+    },
+    {
+      "text": "Show all",
+      "url": "https://www.theonion.com/entertainment"
+    },
+    {
+      "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
+      "url": "https://www.theonion.com/dog-fact-did-you-know-1849114051"
+    },
+    {
+      "text": "TikTok",
+      "url": "https://www.theonion.com/entertainment/tiktok"
+    },
+    {
+      "text": "Dog Fact: Did You Know?",
+      "url": "https://www.theonion.com/dog-fact-did-you-know-1849114051"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/amazing-in-flight-perks-that-airlines-had-in-the-1960s-1848946316"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/entertainment/slideshow"
+    },
+    {
+      "text": "Amazing In-Flight Perks That Airlines Had In The 1960s",
+      "url": "https://www.theonion.com/amazing-in-flight-perks-that-airlines-had-in-the-1960s-1848946316"
+    },
+    {
+      "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
+      "url": "https://www.theonion.com/tiktok-do-your-thing-please-scratch-our-back-1849100667"
+    },
+    {
+      "text": "TikTok",
+      "url": "https://www.theonion.com/entertainment/tiktok"
+    },
+    {
+      "text": "TikTok, Do Your Thing: Please Scratch Our Back",
+      "url": "https://www.theonion.com/tiktok-do-your-thing-please-scratch-our-back-1849100667"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/the-onion-s-summer-2022-movie-preview-1849095537"
+    },
+    {
+      "text": "Infographic",
+      "url": "https://www.theonion.com/entertainment/infographic"
+    },
+    {
+      "text": "The Onion\u2019s Summer 2022 Movie Preview",
+      "url": "https://www.theonion.com/the-onion-s-summer-2022-movie-preview-1849095537"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.theonion.com/sports"
+    },
+    {
+      "text": "Show all",
+      "url": "https://www.theonion.com/sports"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/dressage-practice-super-awkward-ever-since-horse-and-ri-1849111764"
+    },
+    {
+      "text": "News In Photos",
+      "url": "https://www.theonion.com/sports/news-in-photos"
+    },
+    {
+      "text": "Dressage Practice Super Awkward Ever Since Horse And Rider Stopped Hooking Up",
+      "url": "https://www.theonion.com/dressage-practice-super-awkward-ever-since-horse-and-ri-1849111764"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/north-dakota-constructs-billion-dollar-stadium-just-in-1848969291"
+    },
+    {
+      "text": "News In Brief",
+      "url": "https://www.theonion.com/sports/news-in-brief"
+    },
+    {
+      "text": "North Dakota Constructs Billion-Dollar Stadium Just In Case Some NFL Franchise Gets Desperate",
+      "url": "https://www.theonion.com/north-dakota-constructs-billion-dollar-stadium-just-in-1848969291"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/deshaun-watson-rethinks-life-choices-after-finding-self-1849004731"
+    },
+    {
+      "text": "Football",
+      "url": "https://www.theonion.com/sports/football"
+    },
+    {
+      "text": "Deshaun Watson Rethinks Life Choices After Finding Self On Browns",
+      "url": "https://www.theonion.com/deshaun-watson-rethinks-life-choices-after-finding-self-1849004731"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/fifa-increases-revenue-by-requiring-brand-tattoos-for-a-1848987265"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.theonion.com/sports"
+    },
+    {
+      "text": "FIFA Increases Revenue By Requiring Brand Tattoos For All Players",
+      "url": "https://www.theonion.com/fifa-increases-revenue-by-requiring-brand-tattoos-for-a-1848987265"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.theonion.com/opinion"
+    },
+    {
+      "text": "Show all",
+      "url": "https://www.theonion.com/opinion"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/americans-explain-why-they-oppose-abolishing-the-police-1849053409"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/breaking-news/slideshow"
+    },
+    {
+      "text": "Americans Explain Why They Oppose Abolishing The Police",
+      "url": "https://www.theonion.com/americans-explain-why-they-oppose-abolishing-the-police-1849053409"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/americans-explain-why-assault-weapons-must-stay-legal-1849003677"
+    },
+    {
+      "text": "Slideshow",
+      "url": "https://www.theonion.com/opinion/slideshow"
+    },
+    {
+      "text": "Americans Explain Why Assault Weapons Must Stay Legal",
+      "url": "https://www.theonion.com/americans-explain-why-assault-weapons-must-stay-legal-1849003677"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/ancient-city-in-iraq-unearthed-after-extreme-drought-1849024829"
+    },
+    {
+      "text": "American Voices",
+      "url": "https://www.theonion.com/opinion/american-voices"
+    },
+    {
+      "text": "Ancient City In Iraq Unearthed After Extreme Drought",
+      "url": "https://www.theonion.com/ancient-city-in-iraq-unearthed-after-extreme-drought-1849024829"
+    },
+    {
+      "text": "",
+      "url": "https://www.theonion.com/thank-god-i-live-in-new-jersey-1848795884"
+    },
+    {
+      "text": "Commentary",
+      "url": "https://www.theonion.com/opinion/commentary"
+    },
+    {
+      "text": "Thank God I Live In New Jersey",
+      "url": "https://www.theonion.com/thank-god-i-live-in-new-jersey-1848795884"
+    }
+  ],
+  "uniq": 724342737,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

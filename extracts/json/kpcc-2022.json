@@ -1,5 +1,5 @@
 {
-  "created": 1656375731,
+  "created": 1656462129,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/kpcc-2022",
@@ -7694,31 +7694,199 @@
       "sha1": "b427866d4ba06fb77cd502da17d8b07fcadd6e36"
     },
     {
+      "name": "kpcc-2022-06-27T19:13:58.366717-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656382440",
+      "size": "20690",
+      "md5": "6c61f038304ee6deea8483ec5d2e7416",
+      "crc32": "06e65d2f",
+      "sha1": "b190762e668f1c57da2593361b5557acf06d4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-27T19:13:58.366717-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656382442",
+      "size": "30221",
+      "md5": "4d20f1b22c84bd5e817bf3a8f1eb0c8d",
+      "crc32": "be2ab0c2",
+      "sha1": "4d9807025a5b671a4180f3196b2b1ea31d575185",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-27T19:13:58.366717-07:00.jpg",
+      "source": "original",
+      "mtime": "1656382439",
+      "size": "244680",
+      "md5": "e2320f1bf945099e6e0e594b50749e03",
+      "crc32": "77ce4d69",
+      "sha1": "fa0cfa2c97114f30c6a1603316efcfca12fea492",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-06-27T19:13:58.366717-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-06-27T19:13:58.366717-07:00.jpg",
+      "mtime": "1656382533",
+      "size": "9308",
+      "md5": "e56518c2d5510f457451645fcadc995d",
+      "crc32": "1f64c2ca",
+      "sha1": "9f9c50fc1f9fce6679aef29b6251a1d8f2705768"
+    },
+    {
+      "name": "kpcc-2022-06-27T20:39:35.266221-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656387578",
+      "size": "20661",
+      "md5": "c95b62b70120834cb6219e450d7d22bf",
+      "crc32": "4e512656",
+      "sha1": "a56dd54beedf677acb7f9906eef0e7844e657be1",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-27T20:39:35.266221-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656387580",
+      "size": "30238",
+      "md5": "b500e49902a0ab54364a43ce4ca70c6c",
+      "crc32": "03927535",
+      "sha1": "833b888d03358126ba4b98688721bf109e382300",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-27T20:39:35.266221-07:00.jpg",
+      "source": "original",
+      "mtime": "1656387576",
+      "size": "244697",
+      "md5": "a4449cfbf4743eaddac76a14ff75ff15",
+      "crc32": "fc716064",
+      "sha1": "2caefa4c4bd6280bf84ae8076a35d3fbea202c48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-06-27T20:39:35.266221-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-06-27T20:39:35.266221-07:00.jpg",
+      "mtime": "1656387641",
+      "size": "9321",
+      "md5": "eb3501f8fa044e66721a79df16e22b68",
+      "crc32": "611619b3",
+      "sha1": "3922fc41c262eee77a04c03ad7cdfb53131ea8c0"
+    },
+    {
+      "name": "kpcc-2022-06-28T02:34:45.972469-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656408892",
+      "size": "20732",
+      "md5": "39519dee473ebea461d29353a7083ff3",
+      "crc32": "f9548785",
+      "sha1": "44f59f3ef3c5c621bff10ecda6c5d1e312c72a77",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-28T02:34:45.972469-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656408893",
+      "size": "30282",
+      "md5": "2f2114f3e8a8cacbd48d5e787807f26a",
+      "crc32": "3b2586e2",
+      "sha1": "ac6300f3f04ec7a6fb06f96aa16df41b5013fb57",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-28T02:34:45.972469-07:00.jpg",
+      "source": "original",
+      "mtime": "1656408890",
+      "size": "246639",
+      "md5": "d7a74da1777a5dd24cb9e5d5c0d5e1f8",
+      "crc32": "9665f955",
+      "sha1": "d45d78cc41e28946994a243b4c23dbd691ef6723",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-06-28T02:34:45.972469-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-06-28T02:34:45.972469-07:00.jpg",
+      "mtime": "1656408950",
+      "size": "9338",
+      "md5": "f3e53069680e41dd53ec228e445310d9",
+      "crc32": "c7e659f0",
+      "sha1": "25c465d91ea2f1910654f23ed821cf05e156084b"
+    },
+    {
+      "name": "kpcc-2022-06-28T10:40:33.009598-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656438040",
+      "size": "20799",
+      "md5": "59c86b3cf7cf48d7324868eb7c3079a3",
+      "crc32": "a3d4b5a5",
+      "sha1": "093f21f5fa438835326b34cd812e729974887a69",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-28T10:40:33.009598-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656438041",
+      "size": "30314",
+      "md5": "e9483a01b67bd620bdcf5e596ae30834",
+      "crc32": "58539293",
+      "sha1": "8e5709ca06c8aee08505043362a816fa72b14696",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-06-28T10:40:33.009598-07:00.jpg",
+      "source": "original",
+      "mtime": "1656438038",
+      "size": "247057",
+      "md5": "94e40b63d33ca5294a7280b974b585f2",
+      "crc32": "caec6a5c",
+      "sha1": "cacb944b567cf5d82695872e9b8aea72ff8312b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-06-28T10:40:33.009598-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-06-28T10:40:33.009598-07:00.jpg",
+      "mtime": "1656438099",
+      "size": "9330",
+      "md5": "6969f85d5ed52b5dc68c2092c7295334",
+      "crc32": "0dd9dfec",
+      "sha1": "af87120bad582c99a1e93bbd3cf52b70e8ea6e20"
+    },
+    {
       "name": "kpcc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6fb207a0aba3cfb61c0aae21b6f1dfad940096a5",
-      "mtime": "1656354121",
-      "size": "152087",
-      "md5": "6880c70c4b3f79b1312e9da54895ff90",
-      "crc32": "e25c61b1",
-      "sha1": "ebc7040c00540fad4172c64d0b74a3b1397686b1",
+      "btih": "8a958b9cf1be7563f60991910cc008a22390bb99",
+      "mtime": "1656438106",
+      "size": "155379",
+      "md5": "fc0b765c6c7b982415164316e0db8041",
+      "crc32": "b52a7f1d",
+      "sha1": "8a2338f9715aaa572dad9e185f126aa689ecee21",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b9bfefb3f718d9147c42588069a6206",
+      "md5": "68c682659d1684c6e8ed44db5e81b863",
       "summation": "md5"
     },
     {
       "name": "kpcc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656353135",
-      "size": "839680",
-      "md5": "67d820b00f8f0428986cb726c1e37f11",
-      "crc32": "feb30cd0",
-      "sha1": "a10587845b4adf13f29154b6248a9144ae1acd04",
+      "mtime": "1656438046",
+      "size": "856064",
+      "md5": "fba5340bcd069ee81c4204c81f305043",
+      "crc32": "594138db",
+      "sha1": "d42ca04756b9594686f8fb42a8051eb84adfe301",
       "format": "Metadata"
     },
     {
@@ -7732,9 +7900,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 735,
-  "item_last_updated": 1656354121,
-  "item_size": 59501828,
+  "files_count": 751,
+  "item_last_updated": 1656438106,
+  "item_size": 60745811,
   "kpcc-2022": [
     {
       "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                                \n                                \n                            \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
@@ -8254,75 +8422,75 @@
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/california-fails-to-collect-basic-abortion-data-even-as-it-invites-an-out-of-state-influx"
+      "url": "https://laist.com/news/politics/lets-make-a-deal-what-to-know-about-the-california-budget"
+    },
+    {
+      "text": "Politics",
+      "url": "https://laist.com/news/politics"
+    },
+    {
+      "text": "Let\u2019s Make A Deal: What To Know About The California Budget",
+      "url": "https://laist.com/news/politics/lets-make-a-deal-what-to-know-about-the-california-budget"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/cassidy-hutchinson-a-mark-meadows-aide-to-testify-at-tuesdays-jan-6-panel-hearing"
     },
     {
       "text": "News",
       "url": "https://laist.com/news"
     },
     {
-      "text": "California Fails To Collect Basic Abortion Data \u2014 Even As It Invites An Out-Of-State Influx ",
-      "url": "https://laist.com/news/california-fails-to-collect-basic-abortion-data-even-as-it-invites-an-out-of-state-influx"
+      "text": "Cassidy Hutchinson, A Mark Meadows Aide, To Testify At Tuesday\u2019s Jan. 6 Panel Hearing",
+      "url": "https://laist.com/news/cassidy-hutchinson-a-mark-meadows-aide-to-testify-at-tuesdays-jan-6-panel-hearing"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/morning-brief-abortion-rights-protests-loren-millers-house-saved-lausd-students-play-the-bowl"
+      "url": "https://laist.com/news/morning-brief-green-schoolyards-sriracha-shortage-skid-row-symphony"
     },
     {
       "text": "News",
       "url": "https://laist.com/news"
     },
     {
-      "text": "Morning Brief: Abortion Rights Protests, Loren Miller\u2019s House Saved, LAUSD Students Play The Bowl",
-      "url": "https://laist.com/news/morning-brief-abortion-rights-protests-loren-millers-house-saved-lausd-students-play-the-bowl"
+      "text": "Morning Brief: Green Schoolyards, Sriracha Shortage, Skid Row Symphony ",
+      "url": "https://laist.com/news/morning-brief-green-schoolyards-sriracha-shortage-skid-row-symphony"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/criminal-justice/mother-of-lapd-officer-fatally-injured-in-training-exercise-has-filed-wrongful-death-claim"
+      "url": "https://laist.com/news/criminal-justice/lapd-under-scrutiny-for-treatment-of-press-and-demonstrators-at-abortion-rights-rallies"
     },
     {
       "text": "Criminal Justice",
       "url": "https://laist.com/news/criminal-justice"
     },
     {
-      "text": "Mother Of LAPD Officer Fatally Injured In Training Exercise Has Filed Wrongful Death Claim",
-      "url": "https://laist.com/news/criminal-justice/mother-of-lapd-officer-fatally-injured-in-training-exercise-has-filed-wrongful-death-claim"
+      "text": "LAPD Under Scrutiny For Treatment Of Press And Demonstrators At Abortion Rights Rallies",
+      "url": "https://laist.com/news/criminal-justice/lapd-under-scrutiny-for-treatment-of-press-and-demonstrators-at-abortion-rights-rallies"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/peanuts-one-of-the-worlds-most-popular-cartoons-pushed-for-title-ix-in-the-1970s"
+      "url": "https://laist.com/news/transportation/3-dead-multiple-injured-after-an-amtrak-train-hits-a-truck-and-derails-in-missouri"
     },
     {
-      "text": "News",
-      "url": "https://laist.com/news"
+      "text": "Transportation and Mobility",
+      "url": "https://laist.com/news/transportation"
     },
     {
-      "text": "'Peanuts,' One Of The World's Most Popular Cartoons, Pushed For Title IX In The 1970s",
-      "url": "https://laist.com/news/peanuts-one-of-the-worlds-most-popular-cartoons-pushed-for-title-ix-in-the-1970s"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/the-national-park-service-expands-its-african-american-history-sites"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "The National Park Service Expands Its African-American History Sites",
-      "url": "https://laist.com/news/the-national-park-service-expands-its-african-american-history-sites"
+      "text": "3 Dead, Multiple Injuries After An Amtrak Train Hits A Truck And Derails In Missouri",
+      "url": "https://laist.com/news/transportation/3-dead-multiple-injured-after-an-amtrak-train-hits-a-truck-and-derails-in-missouri"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/arts-and-entertainment/lausd-students-open-day-2-of-hollywood-bowl-jazz-festival"
+      "url": "https://laist.com/news/arts-and-entertainment/street-symphony-plays-in-harmony-with-skid-rows-sacred-spaces"
     },
     {
       "text": "Arts and Entertainment",
       "url": "https://laist.com/news/arts-and-entertainment"
     },
     {
-      "text": "LAUSD Students Open Day 2 Of Hollywood Bowl Jazz Festival",
-      "url": "https://laist.com/news/arts-and-entertainment/lausd-students-open-day-2-of-hollywood-bowl-jazz-festival"
+      "text": "Street Symphony Plays In Harmony With Skid Row\u2019s \u2018Sacred Spaces\u2019",
+      "url": "https://laist.com/news/arts-and-entertainment/street-symphony-plays-in-harmony-with-skid-rows-sacred-spaces"
     },
     {
       "text": "Become a KPCC Sponsor",
@@ -8401,24 +8569,24 @@
       "url": "https://sponsorship.scpr.org/"
     },
     {
-      "text": "Supreme Court backs a high school coach's right to pray on the 50-yard line",
-      "url": "https://www.kpcc.org/npr-news/2022-06-27/supreme-court-backs-a-high-school-coachs-right-to-pray-on-the-50-yard-line"
+      "text": "Adolescents faced obstacles getting abortions. The Supreme Court just made it harder",
+      "url": "https://www.kpcc.org/npr-news/2022-06-28/adolescents-faced-obstacles-getting-abortions-the-supreme-court-just-made-it-harder"
     },
     {
-      "text": "In Michigan, abortion could come down to voters in November",
-      "url": "https://www.kpcc.org/npr-news/2022-06-27/in-michigan-abortion-could-come-down-to-voters-in-november"
+      "text": "Who is Cassidy Hutchinson, the surprise witness at Tuesday's Jan. 6 panel hearing?",
+      "url": "https://www.kpcc.org/npr-news/2022-06-28/who-is-cassidy-hutchinson-the-surprise-witness-at-tuesdays-jan-6-panel-hearing"
     },
     {
-      "text": "Democrats are bankrolling ads promoting fringe Republican candidates. Here's why",
-      "url": "https://www.kpcc.org/npr-news/2022-06-27/democrats-are-bankrolling-ads-promoting-fringe-republican-candidates-heres-why"
+      "text": "Arizona offers free college tuition to the state's Native students",
+      "url": "https://www.kpcc.org/npr-news/2022-06-28/arizona-offers-free-college-tuition-to-the-states-native-students"
     },
     {
-      "text": "More than 300 LGBTQ activists in Istanbul are released after being detained",
-      "url": "https://www.kpcc.org/npr-news/2022-06-27/more-than-300-lgbtq-activists-in-istanbul-are-released-after-being-detained"
+      "text": "Musicians react to Supreme Court decision on right to abortion",
+      "url": "https://www.kpcc.org/npr-news/2022-06-28/musicians-react-to-roe-v-wade-decision"
     },
     {
-      "text": "What's happening with Russia's 1st default on foreign debt in a century",
-      "url": "https://www.kpcc.org/2022-06-27/why-russia-says-it-has-not-defaulted-on-its-foreign-debt"
+      "text": "Cassidy Hutchinson, a Mark Meadows aide, to testify at Tuesday's Jan. 6 panel hearing",
+      "url": "https://www.kpcc.org/npr-news/2022-06-28/cassidy-hutchinson-a-mark-meadows-aide-to-testify-at-tuesdays-jan-6-panel-hearing"
     },
     {
       "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                            \n                        \n                    \n\n                    \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
@@ -8546,7 +8714,7 @@
     "addeddate": "2022-03-23 02:08:21"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 2008331514,
+  "uniq": 1208322736,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"
