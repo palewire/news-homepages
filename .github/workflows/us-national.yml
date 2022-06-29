@@ -3,7 +3,7 @@ name: U.S. national news
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 14,21 * * *"
 
 jobs:
   sources:
