@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 200 sites.
+The archiving routine is currently capturing 201 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -53,6 +53,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[CNN](https://palewi.re/docs/news-homepages/sites/cnn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnn.xml)|
 |[Columbia Journalism Review](https://palewi.re/docs/news-homepages/sites/cjr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cjr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cjr.xml)|
 |[Daily Caller](https://palewi.re/docs/news-homepages/sites/dailycaller.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycaller.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycaller.xml)|
+|[Daily Mail](https://palewi.re/docs/news-homepages/sites/mailonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mailonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mailonline.xml)|
 |[Daily Wire](https://palewi.re/docs/news-homepages/sites/realdailywire.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/realdailywire.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/realdailywire.xml)|
 |[Dallas Morning News](https://palewi.re/docs/news-homepages/sites/dallasnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasnews.xml)|
 |[Democracy Now](https://palewi.re/docs/news-homepages/sites/democracynow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/democracynow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/democracynow.xml)|
