@@ -168,7 +168,7 @@ jobs:
           command: jpg
 
   tweet:
-    name: Tweet GIF mosaic
+    name: Tweet JPG mosaic
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [mosaic]
