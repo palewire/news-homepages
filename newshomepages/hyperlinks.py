@@ -55,11 +55,8 @@ def _get_links(data, output_dir):
         # Open a page
         page = browser_obj.new_page()
 
-        # Set a long timeout
-        page.set_default_timeout(60 * 1000)
-
         # Go to the page
-        page.goto(data["url"])
+        page.goto(data["url"], timeout=60000)
 
         # Pull the html
         html = page.content()

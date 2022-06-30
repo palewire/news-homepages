@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-shot-scraper = ">=0.0.12"
 python-twitter = "*"
 click = "*"
 pytz = "*"
@@ -12,11 +11,14 @@ internetarchive = "*"
 python-slugify = "*"
 python-telegram-bot = "*"
 "discord.py" = "*"
-playwright = "==1.14.1"
+playwright = "==1.22.0"
 savepagenow = "==1.2.2"
 bs4 = "*"
 html5lib = "*"
 jinja2 = "*"
+shot-scraper = "*"
+csvkit = "*"
+pillow = "*"
 
 [dev-packages]
 pre-commit = "*"
@@ -34,6 +36,10 @@ types-pytz = "*"
 types-pyyaml = "*"
 sphinxcontrib-napoleon = "*"
 sphinx-click = "*"
+jupyterlab = "*"
+pandas = "*"
+altair = "*"
+altair-saver = "*"
 
 [requires]
 python_version = "3.9"

@@ -5,19 +5,13 @@ inputs:
   source:
     description: “The site handle to screenshot”
     required: true
-  command:
-    description: "The tweet.py command to run"
-    required: true
 
 runs:
   using: "composite"
   steps:
-    - id: install-apt-packages
-      name: Install apt packages
-      run: |
-        sudo apt-get update
-        sudo apt install -y ubuntu-restricted-extras ffmpeg libavcodec-extra
-      shell: bash
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
 
     - id: cache-playwright
       name: Cache Playwright browsers
@@ -28,13 +22,16 @@ runs:
 
     - id: install-playwright
       name: Install Playwright dependencies
-      run: pipenv run shot-scraper install --browser=chrome
+      run: pipenv run playwright install --with-deps chromium
       shell: bash
 
     - id: shoot
       name: Take screenshot
-      run: pipenv run python -m newshomepages.shoot ${{ inputs.command }} ${{ inputs.source }} -o _dist
+      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot shoot ${{ inputs.source }} -o _dist
       shell: bash
+      env:
+        DEBUG: 'pw:api'
+        CHROME_IPC_LOGGING: 1
 
     - id: save
       name: Save artifact

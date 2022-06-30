@@ -9,11 +9,6 @@ runs:
         name: screenshots
         path: ./latest-screenshots
 
-    - id: list
-      name: List
-      run: ls -alF
-      shell: bash
-
     - id: commit
       name: Commit
       run: |

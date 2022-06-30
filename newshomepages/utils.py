@@ -10,6 +10,7 @@ THIS_DIR = Path(__file__).parent.absolute()
 SOURCES_PATH = THIS_DIR / "sources"
 SITES_PATH = SOURCES_PATH / "sites.csv"
 BUNDLES_PATH = SOURCES_PATH / "bundles.csv"
+EXTENSIONS_PATH = THIS_DIR / "extensions"
 EXTRACT_DIR = THIS_DIR.parent / "extracts"
 
 

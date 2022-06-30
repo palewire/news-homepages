@@ -67,7 +67,9 @@ def consolidate():
 
         # Get all the items for this site
         site_json_list = [
-            p for p in json_list if site["handle"].lower() in p.name.lower()
+            p
+            for p in json_list
+            if site["handle"].lower() == p.name.split("-")[0].lower()
         ]
 
         # Parse out the data

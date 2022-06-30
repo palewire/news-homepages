@@ -5,9 +5,6 @@ inputs:
   source:
     description: “The site handle to screenshot”
     required: true
-  command:
-    description: "The archive.py command to run"
-    required: true
   access-key:
     description: An API key with permission to post to archive.org
     required: true
@@ -21,6 +18,10 @@ inputs:
 runs:
   using: "composite"
   steps:
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
+
     - uses: actions/download-artifact@v3
       with:
         name: screenshots
@@ -33,14 +34,9 @@ runs:
       with:
         name: hyperlinks
 
-    - id: list
-      name: List
-      run: ls -alF
-      shell: bash
-
     - id: archive
       name: Archive
-      run: pipenv run python -m newshomepages.archive ${{ inputs.command }} ${{ inputs.source }}
+      run: pipenv run python -m newshomepages.archive single ${{ inputs.source }}
       shell: bash
       env:
         IA_ACCESS_KEY: ${{ inputs.access-key }}

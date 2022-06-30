@@ -1,3 +1,3 @@
 document.querySelectorAll(
-  '.pre-content'
+  '.pre-content,.pf-widget'
 ).forEach(el => el.remove())

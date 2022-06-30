@@ -20,6 +20,7 @@ def cli():
     screenshot_list = utils.get_screenshot_list()
     now = datetime.now(pytz.utc)
     for site in site_list:
+        click.echo(f"Building RSS for {site['name']}")
         template = TEMPLATE_ENV.get_template("site.rss.tmpl")
         file_list = [
             s for s in screenshot_list if s["handle"].lower() == site["handle"].lower()
@@ -56,16 +57,22 @@ def cli():
     # Create full feed
     sorted_list = sorted(screenshot_list, key=lambda x: x["mtime"], reverse=True)
     trimmed_list = sorted_list[:100]
+    final_list = []
     for file_ in trimmed_list:
-        site = next(
-            s for s in site_list if s["handle"].lower() == file_["handle"].lower()
-        )
+        try:
+            site = next(
+                s for s in site_list if s["handle"].lower() == file_["handle"].lower()
+            )
+        except StopIteration:
+            print(f"Skipping {file_['handle']}")
+            continue
         file_["site_name"] = site["name"]
         site_tz = pytz.timezone(site["timezone"])
         file_["local_time"] = file_["mtime"].astimezone(site_tz)
+        final_list.append(file_)
     template = TEMPLATE_ENV.get_template("all.rss.tmpl")
     context = dict(
-        file_list=trimmed_list,
+        file_list=final_list,
         now=now,
     )
     all_ = template.render(**context)

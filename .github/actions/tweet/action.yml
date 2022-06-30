@@ -1,37 +1,38 @@
 name: Twitter
-description: Post the provided sites to Twitter
+description: Post the mosaic to Twitter
 
 inputs:
-  source:
-    description: "The site handle to screenshot"
+  consumer-key:
+    description: The Twitter consumer key
+    required: true
+  consumer-secret:
+    description: The Twitter consumer secret
+    required: true
+  access-token-key:
+    description: The Twitter access token key
+    required: true
+  access-token-secret:
+    description: The Twitter access token secret
     required: true
   command:
     description: "The tweet.py command to run"
-    required: true
-  consumer-key:
-    required: true
-  consumer-secret:
-    required: true
-  access-token-key:
-    required: true
-  access-token-secret:
     required: true
 
 runs:
   using: "composite"
   steps:
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
+
     - uses: actions/download-artifact@v3
       with:
-        name: screenshots
-
-    - id: list
-      name: List
-      run: ls -alF
-      shell: bash
+        name: mosaics
+        path: ./_input
 
     - id: tweet
       name: Tweet
-      run: pipenv run python -m newshomepages.tweet ${{ inputs.command }} ${{ inputs.source }}
+      run: pipenv run python -m newshomepages.tweet ${{ inputs.command }} -i ./_input
       shell: bash
       env:
         TWITTER_CONSUMER_KEY: ${{ inputs.consumer-key }}
