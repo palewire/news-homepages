@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 201 news sites.
+The most recent homepages captured from 204 news sites.
 
 <div class="latest-parent">
 
@@ -912,6 +912,14 @@ The most recent homepages captured from 201 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nbcbayarea.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcbayarea.jpg"
+     alt="NBC Bay Area"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nbcnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg"
      alt="NBC News"
@@ -1008,9 +1016,25 @@ The most recent homepages captured from 201 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/peninsupress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/peninsupress.jpg"
+     alt="Peninsula Press"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/pitchfork.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pitchfork.jpg"
      alt="Pitchfork"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pointreyeslight.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pointreyeslight.jpg"
+     alt="Point Reyes Light"
      loading="lazy">
  </a>
 </div>
