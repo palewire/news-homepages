@@ -1,5 +1,5 @@
 {
-  "created": 1656462113,
+  "created": 1656546926,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -772,31 +772,367 @@
       "sha1": "e54a4d117dc8146c94dc52e0aa66f5cc32f55867"
     },
     {
+      "name": "npr-2022-06-28T21:47:16.933055-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656467239",
+      "size": "29690",
+      "md5": "7f1cc0ce2f508f4c42cb33e2adb6d2af",
+      "crc32": "8c136b8b",
+      "sha1": "98e32091c2af6eba344a9b697831ef713e36d855",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-28T21:47:16.933055-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656467241",
+      "size": "47287",
+      "md5": "765c2f44f333032c1487aa2c324335ab",
+      "crc32": "f90069e9",
+      "sha1": "06796a3a368ef308d6335575d30b793ac896ae7c",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-28T21:47:16.933055-04:00.jpg",
+      "source": "original",
+      "mtime": "1656467238",
+      "size": "272075",
+      "md5": "12d0340e3bf570296410f99026b09244",
+      "crc32": "677c2081",
+      "sha1": "72ad69196cbfb93ddb90ba809bfb1caffb15992b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-06-28T21:47:16.933055-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-06-28T21:47:16.933055-04:00.jpg",
+      "mtime": "1656467302",
+      "size": "10074",
+      "md5": "f24bf72571c031e66c1537db330d2051",
+      "crc32": "857a4e46",
+      "sha1": "eef9a067d9df52e809267920e4ddc90d514030ed"
+    },
+    {
+      "name": "npr-2022-06-29T02:09:36.168189-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656482979",
+      "size": "25119",
+      "md5": "bbf968a12a58a0436f7ed36d44f9d1fa",
+      "crc32": "89005db8",
+      "sha1": "869e7b0824edadd6632d9437f1a4a0a655932610",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T02:09:36.168189-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656482981",
+      "size": "38742",
+      "md5": "d3e7fe3f76a781c34607e85ad700ac4f",
+      "crc32": "1be834ef",
+      "sha1": "a1b0fccf2f6c04948408cd3ed4e57f462897643c",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T02:09:36.168189-04:00.jpg",
+      "source": "original",
+      "mtime": "1656482977",
+      "size": "281849",
+      "md5": "e725cd83031302eb3782db18c18279a0",
+      "crc32": "c290cc6c",
+      "sha1": "9e951915549752fd6f7988bf1361c70e2bbc5ae6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-06-29T02:09:36.168189-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-06-29T02:09:36.168189-04:00.jpg",
+      "mtime": "1656483050",
+      "size": "10074",
+      "md5": "f083f9b4b587f8f1197fd1dec096b4ad",
+      "crc32": "ba5ca410",
+      "sha1": "6624838306d059bd1285bcf985610aedaf4d7344"
+    },
+    {
+      "name": "npr-2022-06-29T05:40:05.854847-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656495609",
+      "size": "20564",
+      "md5": "a9985ce887330f9df979bbdfe45d9784",
+      "crc32": "a409e988",
+      "sha1": "f874207516b99d12e0121a29721c1fb468247d3e",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T05:40:05.854847-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656495611",
+      "size": "31460",
+      "md5": "9115d63e169e1c20d8ed4307313c6032",
+      "crc32": "466b20d4",
+      "sha1": "0d3fc75787685555a5f09745b30bc3f71a416bac",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T05:40:05.854847-04:00.jpg",
+      "source": "original",
+      "mtime": "1656495607",
+      "size": "281263",
+      "md5": "eb3c8f1d4f3a7372e6a716aa13ad0786",
+      "crc32": "b2f92871",
+      "sha1": "6e4f2dcc50a18adeea6e60515ede1cf4cbce45c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-06-29T05:40:05.854847-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-06-29T05:40:05.854847-04:00.jpg",
+      "mtime": "1656495701",
+      "size": "10027",
+      "md5": "77ed87b9afdd4e22cd38bd121c9e45a7",
+      "crc32": "b82aa198",
+      "sha1": "a12325eea525fe9e5c564843e36616516fa33979"
+    },
+    {
+      "name": "npr-2022-06-29T08:11:02.613488-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656504665",
+      "size": "23269",
+      "md5": "8ac1ba7a3548838a2725d851ff07f872",
+      "crc32": "9b71916e",
+      "sha1": "cb164a495fc5ac93d1dc4dda815989db075736b1",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T08:11:02.613488-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656504667",
+      "size": "35238",
+      "md5": "bf794bb3ab479785c5e362417b9d9eb9",
+      "crc32": "2634a8aa",
+      "sha1": "6c3bb175da4aa2fa8e2d20937229c9a17c688ba3",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T08:11:02.613488-04:00.jpg",
+      "source": "original",
+      "mtime": "1656504663",
+      "size": "280118",
+      "md5": "5d280318ea87a7a17cb724edf6400e62",
+      "crc32": "1c2835ca",
+      "sha1": "48811b9a72c9b0b343360936dfbb7b27dd14411a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-06-29T08:11:02.613488-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-06-29T08:11:02.613488-04:00.jpg",
+      "mtime": "1656504735",
+      "size": "9862",
+      "md5": "08d27289abab8d7f16a2f8410090a570",
+      "crc32": "7d58b47e",
+      "sha1": "c6616e785d4a7c78cd0167cc0c0632560c5208b3"
+    },
+    {
+      "name": "npr-2022-06-29T13:49:31.867746-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656524975",
+      "size": "25468",
+      "md5": "1b1ffe79048e6a10973a5bd18ddcd624",
+      "crc32": "2796e678",
+      "sha1": "154d27ff6e35d9f19157380af9a59a046dcf5d52",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T13:49:31.867746-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656524976",
+      "size": "38972",
+      "md5": "7b7b6151556227999024837da431d477",
+      "crc32": "a5715aa0",
+      "sha1": "460416f217c709678fa345d042c46efb0b0da896",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T13:49:31.867746-04:00.jpg",
+      "source": "original",
+      "mtime": "1656524973",
+      "size": "264063",
+      "md5": "3be87729742083dcd135b35ca3919cd5",
+      "crc32": "d8b23aa2",
+      "sha1": "5ebe19048a9daefca974ae1513640ce51fd9a3f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-06-29T13:49:31.867746-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-06-29T13:49:31.867746-04:00.jpg",
+      "mtime": "1656525085",
+      "size": "10002",
+      "md5": "d9937d7b9294531d69988b6b115f2127",
+      "crc32": "1d7f1b94",
+      "sha1": "ced4ada9e5cf5b40ca36871f2ea14ee47b561b0c"
+    },
+    {
+      "name": "npr-2022-06-29T17:05:08.064057-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656536711",
+      "size": "30288",
+      "md5": "9ac300bb423612f18399e9ab75db30c1",
+      "crc32": "c1bdec30",
+      "sha1": "51fec5ea5f617b47ae0c4abecc6355b4e4545890",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T17:05:08.064057-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656536715",
+      "size": "50681",
+      "md5": "1bb8854277cde9641276cf811709d946",
+      "crc32": "861bc05b",
+      "sha1": "cb2d2522db3a4f33c90ae1ce546e643243ab2b0e",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T17:05:08.064057-04:00.jpg",
+      "source": "original",
+      "mtime": "1656536709",
+      "size": "252593",
+      "md5": "1cafe5aeefc5cdf0f7547832d2f5695d",
+      "crc32": "177eb920",
+      "sha1": "90c76646e64c87afea00acd6ed209f2f4f9d77c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-06-29T17:05:08.064057-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-06-29T17:05:08.064057-04:00.jpg",
+      "mtime": "1656536761",
+      "size": "10139",
+      "md5": "d079a7471e1ecf009fa73a7552ea8623",
+      "crc32": "72aeff72",
+      "sha1": "4715924d0796e0e3a97f66001f2ff9c0c1a09aeb"
+    },
+    {
+      "name": "npr-2022-06-29T17:16:24.939837-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656537388",
+      "size": "31764",
+      "md5": "067ddf0df57e8f13185add4939a7bc7c",
+      "crc32": "f1255919",
+      "sha1": "2fb258dfbb5708d9c67e25c6bedb43b5fbbf02d6",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T17:16:24.939837-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656537389",
+      "size": "50973",
+      "md5": "438f9d99a973015383c33e47bbe2f484",
+      "crc32": "d751c789",
+      "sha1": "ed6fbdacd4bf9875f6770eefb74752f758d46d5a",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T17:16:24.939837-04:00.jpg",
+      "source": "original",
+      "mtime": "1656537386",
+      "size": "249213",
+      "md5": "39adf06fce9ec46e7dba87d03d4a371e",
+      "crc32": "e9fb3cf0",
+      "sha1": "71d1198a96225f495708852c911c7ed126999ee0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-06-29T17:16:24.939837-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-06-29T17:16:24.939837-04:00.jpg",
+      "mtime": "1656537439",
+      "size": "10131",
+      "md5": "64bc0536db43f267c53bfdd5ec3243ea",
+      "crc32": "f902aa1d",
+      "sha1": "d0dc87f3d0c1cf26b09c22c51b64797890c6fe87"
+    },
+    {
+      "name": "npr-2022-06-29T19:08:34.163286-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656544117",
+      "size": "32106",
+      "md5": "68163c3b8c5f8ebeb354160b2356dadb",
+      "crc32": "499ff3f4",
+      "sha1": "647aed1b61c3acc7d6c482c18fa04b32d15fe8a3",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T19:08:34.163286-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656544119",
+      "size": "49847",
+      "md5": "5b7f31651b893c071c8e29645027ae1a",
+      "crc32": "9d52471f",
+      "sha1": "307c0f8c6f1b6a46e3e68a9a0f71c54c49c6940a",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-06-29T19:08:34.163286-04:00.jpg",
+      "source": "original",
+      "mtime": "1656544116",
+      "size": "242838",
+      "md5": "d042d916a4af6455e7242901ca042144",
+      "crc32": "311f4d02",
+      "sha1": "6b9228f86481d11b88c4a36a6957e051ccb609ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-06-29T19:08:34.163286-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-06-29T19:08:34.163286-04:00.jpg",
+      "mtime": "1656544184",
+      "size": "9984",
+      "md5": "0c69b3e165ac7a4bd8339ec0570241d3",
+      "crc32": "bb7c4358",
+      "sha1": "901ef87781e424974be87e8590774153d4c8d233"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70aad4800a2d43ff0c66389e2e77e37a0dfe58f2",
-      "mtime": "1656462096",
-      "size": "16364",
-      "md5": "4f18f68a75a2e12fc8418976f5367f02",
-      "crc32": "d67ece53",
-      "sha1": "62175cf71548c3c8146235cea68bda6bd2bd410d",
+      "btih": "095d28b615a8d4063b74bba541a7c13504908b78",
+      "mtime": "1656544198",
+      "size": "22943",
+      "md5": "183af14ecf7087e91fe2b0a140626a05",
+      "crc32": "17499cbe",
+      "sha1": "5eee37ea0880acf25692087044a5d1a37080ba1b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "274f0068a12bbece7e0a2586ffe70e1c",
+      "md5": "745a45631147251bbc2b07b820d5dd75",
       "summation": "md5"
     },
     {
       "name": "npr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656462031",
-      "size": "94208",
-      "md5": "48c243cbcefcbc9d22af819010a8bbc9",
-      "crc32": "f7db7244",
-      "sha1": "fe93e488d88a61cb0472f3a1924c92f753c3a3fe",
+      "mtime": "1656544122",
+      "size": "143360",
+      "md5": "106a4cf64e32c6d8fd2c2611d0a92334",
+      "crc32": "2265ee95",
+      "sha1": "ae2389af36af2a0dc422dd0b9b190b23188e11e0",
       "format": "Metadata"
     },
     {
@@ -810,9 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
-  "item_last_updated": 1656462096,
-  "item_size": 5927166,
+  "files_count": 109,
+  "item_last_updated": 1656544198,
+  "item_size": 8748670,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -830,7 +1166,7 @@
     "addeddate": "2022-06-24 22:58:47"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1157555265,
+  "uniq": 469728390,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

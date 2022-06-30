@@ -1,5 +1,5 @@
 {
-  "created": 1656462358,
+  "created": 1656544508,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/16/items/vicenews-2022",
@@ -1506,31 +1506,241 @@
       "sha1": "083af8e3771a4e02d0d0812a6e1706173a80b30f"
     },
     {
+      "name": "vicenews-2022-06-28T21:52:09.609078-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656467532",
+      "size": "4887",
+      "md5": "878d3e7cec9c4821e2708ce7d654d920",
+      "crc32": "a6c288da",
+      "sha1": "8a68afc4aebeb42ee1e30c7c002ed9aa64a0a2e5",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-28T21:52:09.609078-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656467533",
+      "size": "7089",
+      "md5": "f77a16d0b2575f366d026749cbd8e94a",
+      "crc32": "6530ba90",
+      "sha1": "db1bb613569ec28f94c9c619cd8838164c089441",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-28T21:52:09.609078-04:00.jpg",
+      "source": "original",
+      "mtime": "1656467530",
+      "size": "197756",
+      "md5": "8d441127bd370222adc11bbca863e91a",
+      "crc32": "f21f8297",
+      "sha1": "2621e82f5c09f76ac1e35dac6856d6d3855cdc49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-06-28T21:52:09.609078-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-06-28T21:52:09.609078-04:00.jpg",
+      "mtime": "1656467579",
+      "size": "9145",
+      "md5": "5428f48ce2648eb1bb596704e4259ab5",
+      "crc32": "a95418e1",
+      "sha1": "b7509a5fdfa3a1ebc2c45670adbca5a3cb92d759"
+    },
+    {
+      "name": "vicenews-2022-06-29T05:45:31.076270-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656495934",
+      "size": "12204",
+      "md5": "cbb1df3580cda57f850ba2a83ff4e66a",
+      "crc32": "59146907",
+      "sha1": "205593c61c19239d5d39986c1e83bba2f1c08fa1",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-29T05:45:31.076270-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656495935",
+      "size": "7089",
+      "md5": "f77a16d0b2575f366d026749cbd8e94a",
+      "crc32": "6530ba90",
+      "sha1": "db1bb613569ec28f94c9c619cd8838164c089441",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-29T05:45:31.076270-04:00.jpg",
+      "source": "original",
+      "mtime": "1656495932",
+      "size": "218937",
+      "md5": "d841a4c34f28188b7e9ed9068e601cbf",
+      "crc32": "25deede7",
+      "sha1": "52d8088658eb369731788c52197cfbd0b34bbf35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-06-29T05:45:31.076270-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-06-29T05:45:31.076270-04:00.jpg",
+      "mtime": "1656496016",
+      "size": "9260",
+      "md5": "efe005541fd4ccdb9540c8acaa38f6db",
+      "crc32": "a593459e",
+      "sha1": "538d566ebca03735782aa6e4b34150ca082bb832"
+    },
+    {
+      "name": "vicenews-2022-06-29T13:55:20.929972-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656525324",
+      "size": "12377",
+      "md5": "d76019b361ce280c45ccc38fec1d10b6",
+      "crc32": "80961979",
+      "sha1": "4a11641715fa7adcf6ddd4f49387705451c0a5ef",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-29T13:55:20.929972-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656525326",
+      "size": "7089",
+      "md5": "f77a16d0b2575f366d026749cbd8e94a",
+      "crc32": "6530ba90",
+      "sha1": "db1bb613569ec28f94c9c619cd8838164c089441",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-29T13:55:20.929972-04:00.jpg",
+      "source": "original",
+      "mtime": "1656525323",
+      "size": "185009",
+      "md5": "ceaf7c21861c49b3771f6eb842a3cfd0",
+      "crc32": "001fcaf0",
+      "sha1": "f7231f70feb2d5462828fd20981273c2bbe570da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-06-29T13:55:20.929972-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-06-29T13:55:20.929972-04:00.jpg",
+      "mtime": "1656525407",
+      "size": "9171",
+      "md5": "372a0bb7cf154589c488e46f1a4e8723",
+      "crc32": "9c3cd6c9",
+      "sha1": "5c2aa4b2f262a91f5c01e884da4b65c8322df149"
+    },
+    {
+      "name": "vicenews-2022-06-29T17:10:15.743427-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656537019",
+      "size": "12353",
+      "md5": "738662976842a0b138210cdcf5500695",
+      "crc32": "32ac9650",
+      "sha1": "ea8672465e50fee5c68c05c42c3c5c232e20e2cb",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-29T17:10:15.743427-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656537021",
+      "size": "7089",
+      "md5": "f77a16d0b2575f366d026749cbd8e94a",
+      "crc32": "6530ba90",
+      "sha1": "db1bb613569ec28f94c9c619cd8838164c089441",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-29T17:10:15.743427-04:00.jpg",
+      "source": "original",
+      "mtime": "1656537018",
+      "size": "194378",
+      "md5": "dc9a3f45d1d8cec9a677b7a16734b281",
+      "crc32": "70455beb",
+      "sha1": "44fde2a611469f7d430556ea852c99a50b5a45a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-06-29T17:10:15.743427-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-06-29T17:10:15.743427-04:00.jpg",
+      "mtime": "1656537104",
+      "size": "9228",
+      "md5": "4df959db2a0bb9e1816baf44247938d2",
+      "crc32": "1432569b",
+      "sha1": "0cc5c087a4f9091cf547544736417f745356ef87"
+    },
+    {
+      "name": "vicenews-2022-06-29T19:13:32.455759-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656544416",
+      "size": "4887",
+      "md5": "878d3e7cec9c4821e2708ce7d654d920",
+      "crc32": "a6c288da",
+      "sha1": "8a68afc4aebeb42ee1e30c7c002ed9aa64a0a2e5",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-29T19:13:32.455759-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656544418",
+      "size": "7089",
+      "md5": "f77a16d0b2575f366d026749cbd8e94a",
+      "crc32": "6530ba90",
+      "sha1": "db1bb613569ec28f94c9c619cd8838164c089441",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-06-29T19:13:32.455759-04:00.jpg",
+      "source": "original",
+      "mtime": "1656544414",
+      "size": "194238",
+      "md5": "0fc1502fed1c4bd1c2abd5b700ad11c0",
+      "crc32": "742cb043",
+      "sha1": "78ca79cd732b4d9fb638b55e0decb78615e1b10e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-06-29T19:13:32.455759-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-06-29T19:13:32.455759-04:00.jpg",
+      "mtime": "1656544485",
+      "size": "9228",
+      "md5": "290c96e860a9667e611d88e1980661b8",
+      "crc32": "237820c2",
+      "sha1": "17711eea1fc8923730a260a6309eb5db1812286b"
+    },
+    {
       "name": "vicenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f39812822c28972ac53971bfec1a14355a2c281",
-      "mtime": "1656438567",
-      "size": "31362",
-      "md5": "174035d07f55ece2544626b79a13de19",
-      "crc32": "d6cbc037",
-      "sha1": "417918f3d31e11effe847b4ce4ecb6163093457b",
+      "btih": "bd4c9593b5be64cb82413d2bb0ec2154288ef797",
+      "mtime": "1656544489",
+      "size": "35560",
+      "md5": "dbc8794a88056e24ef391de75035fb1f",
+      "crc32": "4f7b5f5c",
+      "sha1": "7425c2492eae52d924370a7714e639f2f3ced699",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vicenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa01684458e4f473f0dd51d1d59b69d6",
+      "md5": "b867f36548ab03ae4a538cce01874c67",
       "summation": "md5"
     },
     {
       "name": "vicenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656438508",
-      "size": "184320",
-      "md5": "d28105f5694fad5aa78b7999a97ad3b7",
-      "crc32": "6e4091ef",
-      "sha1": "8c285d03a11eb48d477af05969d49592f58ab510",
+      "mtime": "1656544420",
+      "size": "208896",
+      "md5": "013b8bed03243ebbe597fd0ae57281e6",
+      "crc32": "ada5d003",
+      "sha1": "ac0aa81087d4ade74d0edf74d7b5bbadc16b5faa",
       "format": "Metadata"
     },
     {
@@ -1544,9 +1754,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 147,
-  "item_last_updated": 1656438567,
-  "item_size": 8867170,
+  "files_count": 167,
+  "item_last_updated": 1656544489,
+  "item_size": 10014447,
   "metadata": {
     "identifier": "vicenews-2022",
     "collection": [
@@ -1563,476 +1773,10 @@
     "publicdate": "2022-06-19 23:29:15",
     "addeddate": "2022-06-19 23:29:15"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1678180207,
-  "vicenews-2022": [
-    {
-      "text": "",
-      "url": "/en/sign-in"
-    },
-    {
-      "text": "Sign In",
-      "url": "/en/sign-in"
-    },
-    {
-      "text": "Create Account",
-      "url": "/en/create-account"
-    },
-    {
-      "text": "VICE",
-      "url": "/en"
-    },
-    {
-      "text": "Video",
-      "url": "https://video.vice.com/en_us"
-    },
-    {
-      "text": "TV",
-      "url": "https://www.vicetv.com"
-    },
-    {
-      "text": "News",
-      "url": "/en/section/news"
-    },
-    {
-      "text": "Tech",
-      "url": "/en/section/tech"
-    },
-    {
-      "text": "Rec Room",
-      "url": "/en/section/shopping"
-    },
-    {
-      "text": "Food",
-      "url": "/en/section/food"
-    },
-    {
-      "text": "World News",
-      "url": "/en/section/world"
-    },
-    {
-      "text": "The 8:46 Project",
-      "url": "/en/topic/846"
-    },
-    {
-      "text": "Games",
-      "url": "/en/section/games"
-    },
-    {
-      "text": "Music",
-      "url": "/en/section/music"
-    },
-    {
-      "text": "Health",
-      "url": "/en/section/health"
-    },
-    {
-      "text": "Money",
-      "url": "/en/section/money"
-    },
-    {
-      "text": "Drugs",
-      "url": "/en/section/drugs"
-    },
-    {
-      "text": "Identity",
-      "url": "/en/section/identity"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/en/section/entertainment"
-    },
-    {
-      "text": "Environment",
-      "url": "/en/section/environment"
-    },
-    {
-      "text": "Travel",
-      "url": "/en/section/travel"
-    },
-    {
-      "text": "Horoscopes",
-      "url": "/en/topic/horoscopes"
-    },
-    {
-      "text": "Sex",
-      "url": "/en/section/sex"
-    },
-    {
-      "text": "VICE Magazine",
-      "url": "/en/topic/vice-magazine"
-    },
-    {
-      "text": "The Gender Spectrum Collection",
-      "url": "https://genderspectrum.vice.com/"
-    },
-    {
-      "text": "VICE",
-      "url": "/en"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/vice"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/vice"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/vice"
-    },
-    {
-      "text": "",
-      "url": "/en/sign-in"
-    },
-    {
-      "text": "Sign In",
-      "url": "/en/sign-in"
-    },
-    {
-      "text": "Create Account",
-      "url": "/en/create-account"
-    },
-    {
-      "text": "Video",
-      "url": "https://video.vice.com/en_us"
-    },
-    {
-      "text": "TV",
-      "url": "https://www.vicetv.com"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/en/series/krkbn6/podcasts"
-    },
-    {
-      "text": "Apps",
-      "url": "/en_us/page/app"
-    },
-    {
-      "text": "VICE Voices ",
-      "url": "https://voices.vice.com/h/s/6ojElfX90K6Ad2Hx7OuCo"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://link1.vice.com/join/6qz/signup"
-    },
-    {
-      "text": "Rec Room",
-      "url": "/en/section/shopping"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/vice"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/vice"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/vice"
-    },
-    {
-      "text": "",
-      "url": "https://www.reddit.com/user/vice"
-    },
-    {
-      "text": "",
-      "url": "https://vicemag.tumblr.com"
-    },
-    {
-      "text": "",
-      "url": "https://www.youtube.com/user/vice"
-    },
-    {
-      "text": "",
-      "url": "https://www.pinterest.com/vicemag"
-    },
-    {
-      "text": "News",
-      "url": "/en/section/news"
-    },
-    {
-      "text": "Tech",
-      "url": "/en/section/tech"
-    },
-    {
-      "text": "Rec Room",
-      "url": "/en/section/shopping"
-    },
-    {
-      "text": "Food",
-      "url": "/en/section/food"
-    },
-    {
-      "text": "World News",
-      "url": "/en/section/world"
-    },
-    {
-      "text": "The 8:46 Project",
-      "url": "/en/topic/846"
-    },
-    {
-      "text": "Games",
-      "url": "/en/section/games"
-    },
-    {
-      "text": "Music",
-      "url": "/en/section/music"
-    },
-    {
-      "text": "Health",
-      "url": "/en/section/health"
-    },
-    {
-      "text": "Money",
-      "url": "/en/section/money"
-    },
-    {
-      "text": "Drugs",
-      "url": "/en/section/drugs"
-    },
-    {
-      "text": "Identity",
-      "url": "/en/section/identity"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/en/section/entertainment"
-    },
-    {
-      "text": "Environment",
-      "url": "/en/section/environment"
-    },
-    {
-      "text": "Travel",
-      "url": "/en/section/travel"
-    },
-    {
-      "text": "Horoscopes",
-      "url": "/en/topic/horoscopes"
-    },
-    {
-      "text": "Sex",
-      "url": "/en/section/sex"
-    },
-    {
-      "text": "VICE Magazine",
-      "url": "/en/topic/vice-magazine"
-    },
-    {
-      "text": "The Gender Spectrum Collection",
-      "url": "https://genderspectrum.vice.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/"
-    },
-    {
-      "text": "About ",
-      "url": "https://company.vice.com"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://company.vice.com/careers/"
-    },
-    {
-      "text": "Partner",
-      "url": "https://advertise.vice.com/"
-    },
-    {
-      "text": "VICE Voices",
-      "url": "https://voices.vice.com/h/s/6ojElfX90K6Ad2Hx7OuCo"
-    },
-    {
-      "text": "Content Funding on VICE",
-      "url": "/en/page/content-funding-on-vice"
-    },
-    {
-      "text": "Security Policy",
-      "url": "/en/page/vice-responsible-disclosure-policy"
-    },
-    {
-      "text": "Privacy & Terms",
-      "url": "/en_us/page/privacy-and-terms"
-    },
-    {
-      "text": "Accessibility Statement",
-      "url": "/en/page/vice-media-accessibility-statement"
-    },
-    {
-      "text": "",
-      "url": "https://www.essentialaccessibility.com/vice-media?utm_source=vicemediahomepage&utm_medium=iconlarge&utm_term=iconlarge&utm_content=header&utm_campaign=vicemedia"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.vice.com/en/topic/politics"
-    },
-    {
-      "text": "Extremism",
-      "url": "https://www.vice.com/en/topic/extremism"
-    },
-    {
-      "text": "Issues",
-      "url": "https://www.vice.com/en/topic/issues"
-    },
-    {
-      "text": "Investigations",
-      "url": "https://www.vice.com/en/topic/investigations"
-    },
-    {
-      "text": "VICE News Tonight",
-      "url": "https://www.vice.com/en/topic/vice-news-tonight"
-    },
-    {
-      "text": "The 8:46 Project",
-      "url": "https://www.vice.com/en/topic/846-news"
-    },
-    {
-      "text": "\u2018I Have No Pity\u2019: An Arson Attack at an Abortion Clinic Predicts Our Future",
-      "url": "https://www.vice.com/en/article/bvmxxw/casper-wyoming-abortion-clinic-arson"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/bvmxxw/casper-wyoming-abortion-clinic-arson"
-    },
-    {
-      "text": "Pirates Are Holding Up Mexico's Oil Rigs at Gunpoint ",
-      "url": "https://www.vice.com/en/article/dy78y7/gulf-of-mexico-pirates-pemex-oil-rig"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/dy78y7/gulf-of-mexico-pirates-pemex-oil-rig"
-    },
-    {
-      "text": "An Abortion Ban Just Got Blocked in Texas",
-      "url": "https://www.vice.com/en/article/k7ba7n/abortion-ban-blocked-in-texas"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/k7ba7n/abortion-ban-blocked-in-texas"
-    },
-    {
-      "text": "Inside the QAnon Crypto Scam That Cost People Millions and One Man His Life",
-      "url": "https://www.vice.com/en/article/pkgda8/qanon-crypto-scam-whiplash347"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/pkgda8/qanon-crypto-scam-whiplash347"
-    },
-    {
-      "text": "White House: No Abortions on Federal Land, But Have You Considered Voting Harder?",
-      "url": "https://www.vice.com/en/article/jgpqg8/abortions-on-federal-lands"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/jgpqg8/abortions-on-federal-lands"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://vice-web-statics-cdn.vice.com/privacy-policy/en_us/page/terms-of-use.html"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://vice-web-statics-cdn.vice.com/privacy-policy/en_us/page/privacy-policy.html"
-    },
-    {
-      "text": "Create a VICE account",
-      "url": "/en_us/create-account"
-    },
-    {
-      "text": "What We Know So Far About the Sweltering Trailer That Killed 50 Migrants",
-      "url": "https://www.vice.com/en/article/3adnan/san-antonio-migrant-deaths-tractor-trailer"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/3adnan/san-antonio-migrant-deaths-tractor-trailer"
-    },
-    {
-      "text": "How to Write Poetry to Communicate With Aliens",
-      "url": "https://www.vice.com/en/article/jgpqxk/how-to-write-poetry-to-communicate-with-aliens"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/jgpqxk/how-to-write-poetry-to-communicate-with-aliens"
-    },
-    {
-      "text": "Russian Missile Attack on Ukraine Shopping Mall Labelled a \u2018War Crime\u2019 ",
-      "url": "https://www.vice.com/en/article/dy7837/kremenchuk-mall-ukraine-g7"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/dy7837/kremenchuk-mall-ukraine-g7"
-    },
-    {
-      "text": "Sinaloa Cartel Leader El Mayos \u2018Gordo\u2019 Son Got Off Light in a US Court. Why?",
-      "url": "https://www.vice.com/en/article/m7gav8/el-mayo-gordo-light-sentence"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/m7gav8/el-mayo-gordo-light-sentence"
-    },
-    {
-      "text": "101-Year-Old Former Nazi Camp Guard Jailed for 5 Years",
-      "url": "https://www.vice.com/en/article/7k89xb/josef-schuetz-germany-nazi"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/7k89xb/josef-schuetz-germany-nazi"
-    },
-    {
-      "text": "Here\u2019s What Life Looks Like in a Country That\u2019s Run Out of Fuel",
-      "url": "https://www.vice.com/en/article/qjkpkq/sri-lanka-fuel-economic-crisis-protest"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/qjkpkq/sri-lanka-fuel-economic-crisis-protest"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/"
-    },
-    {
-      "text": "About ",
-      "url": "https://company.vice.com"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://company.vice.com/careers/"
-    },
-    {
-      "text": "Partner",
-      "url": "https://advertise.vice.com/"
-    },
-    {
-      "text": "VICE Voices",
-      "url": "https://voices.vice.com/h/s/6ojElfX90K6Ad2Hx7OuCo"
-    },
-    {
-      "text": "Content Funding on VICE",
-      "url": "/en/page/content-funding-on-vice"
-    },
-    {
-      "text": "Security Policy",
-      "url": "/en/page/vice-responsible-disclosure-policy"
-    },
-    {
-      "text": "Privacy & Terms",
-      "url": "/en_us/page/privacy-and-terms"
-    },
-    {
-      "text": "Accessibility Statement",
-      "url": "/en/page/vice-media-accessibility-statement"
-    },
-    {
-      "text": "",
-      "url": "https://www.essentialaccessibility.com/vice-media?utm_source=vicemediahomepage&utm_medium=iconlarge&utm_term=iconlarge&utm_content=header&utm_campaign=vicemedia"
-    }
-  ],
+  "server": "ia801501.us.archive.org",
+  "uniq": 812728592,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

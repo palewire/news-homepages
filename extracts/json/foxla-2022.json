@@ -1,5 +1,5 @@
 {
-  "created": 1656462060,
+  "created": 1656544036,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/foxla-2022",
@@ -7958,31 +7958,241 @@
       "sha1": "8736df1a79fda30a429ede483f0c0a4c6273f7fd"
     },
     {
+      "name": "foxla-2022-06-28T18:42:48.920627-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656466972",
+      "size": "44459",
+      "md5": "8ec89ee17bfcd7ca0b5c4c13ee29c301",
+      "crc32": "6ee142d8",
+      "sha1": "f4a2510c69cccfd67d09cfbedc385a7df7d7e155",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-28T18:42:48.920627-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656466974",
+      "size": "40072",
+      "md5": "ba65e1ec8842c4e40e8d4eaa47986c7f",
+      "crc32": "2b9cb127",
+      "sha1": "0e4b5a9bd8590db7986d5959fea55ddab7e766cd",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-28T18:42:48.920627-07:00.jpg",
+      "source": "original",
+      "mtime": "1656466970",
+      "size": "306143",
+      "md5": "2166ca541407b8c261457560b3c8b075",
+      "crc32": "f271a809",
+      "sha1": "735b713af89719f5f08c697f9d4ba3ebe4bb4cd2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-28T18:42:48.920627-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-28T18:42:48.920627-07:00.jpg",
+      "mtime": "1656467041",
+      "size": "10540",
+      "md5": "b05215a4404d4b9d76a97d41617ab02f",
+      "crc32": "3ed2d7cd",
+      "sha1": "855624b0fd318cab3adb211ddaf9bc546d7b7cfa"
+    },
+    {
+      "name": "foxla-2022-06-29T02:37:07.116508-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656495436",
+      "size": "44297",
+      "md5": "0a62987f8834d4ce6810c1efecf99486",
+      "crc32": "c02ab7f6",
+      "sha1": "06c5b9177e892d0c0dc1853a7bbba93814200a9c",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-29T02:37:07.116508-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656495438",
+      "size": "39646",
+      "md5": "fa518415d8254d57e022ef5febe7dcbe",
+      "crc32": "a761c89f",
+      "sha1": "5428175d4ce9c2c08be96b79cd52f23d03dae0ac",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-29T02:37:07.116508-07:00.jpg",
+      "source": "original",
+      "mtime": "1656495435",
+      "size": "303245",
+      "md5": "560e095ad142c90710f397734222c0ba",
+      "crc32": "4ab6bf68",
+      "sha1": "129988e4331dbe7e0523d6adfd7944dec24d5b30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-29T02:37:07.116508-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-29T02:37:07.116508-07:00.jpg",
+      "mtime": "1656495532",
+      "size": "10461",
+      "md5": "4b34436e13edfab50cb37d8c330c6036",
+      "crc32": "2485abae",
+      "sha1": "efd64bdfc5052efbd54d6654638e1eb1d642551b"
+    },
+    {
+      "name": "foxla-2022-06-29T10:45:23.018164-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656524730",
+      "size": "44903",
+      "md5": "3a94bb82894d6afd686c18d4cdf091ba",
+      "crc32": "3d7dfd66",
+      "sha1": "506881eb4149e9f5fd197f8aaf7b38e8439182af",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-29T10:45:23.018164-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656524731",
+      "size": "39276",
+      "md5": "1f94795caac4d461972faf6d4f451056",
+      "crc32": "a90957f4",
+      "sha1": "69fa748e229cd0bedc9a1737f41e02d59f99fb3f",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-29T10:45:23.018164-07:00.jpg",
+      "source": "original",
+      "mtime": "1656524728",
+      "size": "282988",
+      "md5": "0e8e97efb741f64adb903d54fee343c1",
+      "crc32": "ddfa82c0",
+      "sha1": "4a38599f201e2da03189ad904d5bbe29dd9fc903",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-29T10:45:23.018164-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-29T10:45:23.018164-07:00.jpg",
+      "mtime": "1656524790",
+      "size": "10403",
+      "md5": "17422fab6fff3438c2ccad19a88514b9",
+      "crc32": "83c1f19b",
+      "sha1": "2a9b1d8c9067673d4aa82c27341713f0184b2f1c"
+    },
+    {
+      "name": "foxla-2022-06-29T14:01:20.297661-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656536484",
+      "size": "44994",
+      "md5": "fd95b5d48356c4b35204e697f73b1a05",
+      "crc32": "e4e7d7bb",
+      "sha1": "bd8eb81a8956387dc1325eccd636072da0ae2e81",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-29T14:01:20.297661-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656536486",
+      "size": "39576",
+      "md5": "c94a9030493d4878698ae6d236345fbb",
+      "crc32": "018979f5",
+      "sha1": "0577a982abf011ad0904fc349944b22a7454594d",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-29T14:01:20.297661-07:00.jpg",
+      "source": "original",
+      "mtime": "1656536482",
+      "size": "287244",
+      "md5": "eeb4bf88fa8d4e21db3c54865cabcb0f",
+      "crc32": "b150cc27",
+      "sha1": "a03988687398d70a0feb78ea97af8e5640da0e5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-29T14:01:20.297661-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-29T14:01:20.297661-07:00.jpg",
+      "mtime": "1656536565",
+      "size": "10422",
+      "md5": "1cef9a05e159816de1d11721c5e90bf5",
+      "crc32": "ce1a2958",
+      "sha1": "60ec9f83aa4478b66001d7aedc647c8125bcf5a1"
+    },
+    {
+      "name": "foxla-2022-06-29T16:04:43.843387-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656543887",
+      "size": "45260",
+      "md5": "31cfc48ca71abbcb822e95aefcdd0037",
+      "crc32": "f6168465",
+      "sha1": "71d2e89e4c834621b5a119f7962c55bcd0885c2a",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-29T16:04:43.843387-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656543888",
+      "size": "40110",
+      "md5": "57c5a5d0c2876f3243d0deeaea8bca71",
+      "crc32": "8c4c34e7",
+      "sha1": "f0fa7ffcbcb5cc21c22b98f145a7311e76fbd632",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-06-29T16:04:43.843387-07:00.jpg",
+      "source": "original",
+      "mtime": "1656543885",
+      "size": "292988",
+      "md5": "4befe140d4ae3cf9bd169a0ed02417f6",
+      "crc32": "9a73471b",
+      "sha1": "78c24f2c49284ff21b59c258100cd5b450a46e30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-06-29T16:04:43.843387-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-06-29T16:04:43.843387-07:00.jpg",
+      "mtime": "1656543995",
+      "size": "10410",
+      "md5": "d1976f3ec2d88fdd93b06c27c915ef6f",
+      "crc32": "76951253",
+      "sha1": "9243fff43d4b4a7f9fcbbb762fa0e4070b6292b7"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b1cf3f0aae2d22a62d5fef82ca1d8736b4ae1d3f",
-      "mtime": "1656437998",
-      "size": "158936",
-      "md5": "97171c0742ef7bca51804f09b45480c2",
-      "crc32": "066da59b",
-      "sha1": "59dd5642c7da8a58b74b656bad7267322a657091",
+      "btih": "583e65d15775ed5ef24d84df4e6b3cdac89317be",
+      "mtime": "1656544004",
+      "size": "163106",
+      "md5": "009b2f6d7309912f3759416e5e7e7c40",
+      "crc32": "14959f88",
+      "sha1": "40ad8ae3ef15607e2ef49a0950d2f70b41b4f7f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe8b8fc1d078c0119756c34828ef9196",
+      "md5": "fc519fe17083a720ce596ed9f4d31c07",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656437938",
-      "size": "864256",
-      "md5": "12ebae9ccb3ce4792681f1cad40d1c4c",
-      "crc32": "36b979e6",
-      "sha1": "15e3ef2602ee8e98b0addd59c5ea37a58e971940",
+      "mtime": "1656543891",
+      "size": "888832",
+      "md5": "6eb375a85944a1b6e59e659a223a5637",
+      "crc32": "5d709b1a",
+      "sha1": "7ca2ac727a9ea38e0090e6660adf98348f58c508",
       "format": "Metadata"
     },
     {
@@ -7996,1659 +8206,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 760,
-  "foxla-2022": [
-    {
-      "text": " ",
-      "url": "/"
-    },
-    {
-      "text": "Live",
-      "url": "/live"
-    },
-    {
-      "text": "News",
-      "url": "/news"
-    },
-    {
-      "text": "Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "Good Day LA",
-      "url": "/shows/good-day-la"
-    },
-    {
-      "text": "Contests",
-      "url": "/contests"
-    },
-    {
-      "text": "Lost Angeles",
-      "url": "https://www.foxla.com/news/homeless-los-angeles-homelessness-lost-angeles"
-    },
-    {
-      "text": "More",
-      "url": "#"
-    },
-    {
-      "text": "Watch Live",
-      "url": "/live"
-    },
-    {
-      "text": "Expand / Collapse search",
-      "url": "#"
-    },
-    {
-      "text": "\u2630",
-      "url": "#"
-    },
-    {
-      "text": "News",
-      "url": "/news"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/shows/coronavirus-in-california"
-    },
-    {
-      "text": "Local News",
-      "url": "/local-news"
-    },
-    {
-      "text": "California News",
-      "url": "/tag/us/ca"
-    },
-    {
-      "text": "National News",
-      "url": "/national-news"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/tag/entertainment"
-    },
-    {
-      "text": "Recalls",
-      "url": "/tag/consumer/recalls"
-    },
-    {
-      "text": "FOX 11 News App",
-      "url": "/apps"
-    },
-    {
-      "text": "Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "Forecast",
-      "url": "/weather"
-    },
-    {
-      "text": "Radar",
-      "url": "/weather"
-    },
-    {
-      "text": "Air Quality Map",
-      "url": "/california-air-quality-map"
-    },
-    {
-      "text": "Earthquakes",
-      "url": "/tag/weather/earthquakes"
-    },
-    {
-      "text": "Earthquake Preparedness",
-      "url": "/earthquake-preparedness"
-    },
-    {
-      "text": "Traffic",
-      "url": "/traffic"
-    },
-    {
-      "text": "Wildfires",
-      "url": "/tag/weather/wildfires"
-    },
-    {
-      "text": "Good Day LA",
-      "url": "/shows/good-day-la"
-    },
-    {
-      "text": "Guests",
-      "url": "/tag/series/guests"
-    },
-    {
-      "text": "Meet the Team",
-      "url": "/person/all"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/tag/entertainment"
-    },
-    {
-      "text": "Local News",
-      "url": "/local-news"
-    },
-    {
-      "text": "Seen on TV Links",
-      "url": "/seen-on-tv-links"
-    },
-    {
-      "text": "Politics",
-      "url": "/tag/politics"
-    },
-    {
-      "text": "California Politics",
-      "url": "/tag/politics/ca-politics"
-    },
-    {
-      "text": "2022 LA Mayor Election",
-      "url": "/tag/politics/ca-politics/la-mayor-election"
-    },
-    {
-      "text": "The Issue Is:",
-      "url": "https://www.foxla.com/shows/the-issue-is"
-    },
-    {
-      "text": "Joe Biden",
-      "url": "/tag/people/joe-biden"
-    },
-    {
-      "text": "Kamala Harris",
-      "url": "/tag/people/kamala-harris"
-    },
-    {
-      "text": "Gavin Newsom",
-      "url": "/tag/people/gavin-newsom"
-    },
-    {
-      "text": "George Gasc\u00f3n",
-      "url": "/tag/people/george-gascon"
-    },
-    {
-      "text": "Donald Trump",
-      "url": "/tag/people/donald-j-trump"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports"
-    },
-    {
-      "text": "Rams",
-      "url": "/tag/sports/nfl/rams"
-    },
-    {
-      "text": "Super Bowl LVI",
-      "url": "/tag/super-bowl-lvi"
-    },
-    {
-      "text": "Chargers",
-      "url": "/tag/sports/nfl/chargers"
-    },
-    {
-      "text": "Lakers",
-      "url": "/tag/sports/nba/lakers"
-    },
-    {
-      "text": "Clippers",
-      "url": "/tag/sports/nba/clippers"
-    },
-    {
-      "text": "Dodgers",
-      "url": "/tag/sports/mlb/dodgers"
-    },
-    {
-      "text": "Angels",
-      "url": "/tag/sports/mlb/angels"
-    },
-    {
-      "text": "Wildcats",
-      "url": "/tag/sports/xfl/wildcats"
-    },
-    {
-      "text": "Kings",
-      "url": "/tag/sports/nhl/kings"
-    },
-    {
-      "text": "Ducks",
-      "url": "/tag/sports/nhl/ducks"
-    },
-    {
-      "text": "LA Football Club",
-      "url": "/tag/sports/mls/lafc"
-    },
-    {
-      "text": "Angel City Football Club",
-      "url": "/tag/sports/mls/acfc"
-    },
-    {
-      "text": "Galaxy",
-      "url": "/tag/sports/mls/galaxy"
-    },
-    {
-      "text": "Sparks",
-      "url": "/tag/sports/wnba/sparks"
-    },
-    {
-      "text": "Features",
-      "url": "/"
-    },
-    {
-      "text": "Lost Angeles: City of Homeless",
-      "url": "https://www.foxla.com/news/homeless-los-angeles-homelessness-lost-angeles"
-    },
-    {
-      "text": "Community Champions",
-      "url": "/tag/series/community-champions"
-    },
-    {
-      "text": "Save Our Streets",
-      "url": "/shows/save-our-streets"
-    },
-    {
-      "text": "When Magic Shocked the World",
-      "url": "/shows/when-magic-shocked-the-world"
-    },
-    {
-      "text": "Destination Education",
-      "url": "/tag/education/back-to-school"
-    },
-    {
-      "text": "Get Inspired",
-      "url": "/tag/series/get-inspired"
-    },
-    {
-      "text": "Rising Up",
-      "url": "/shows/rising-up"
-    },
-    {
-      "text": "The Issue Is:",
-      "url": "/shows/the-issue-is"
-    },
-    {
-      "text": "Investigations",
-      "url": "/tag/series/investigations"
-    },
-    {
-      "text": "True Crime Files",
-      "url": "/tag/series/true-crime"
-    },
-    {
-      "text": "Point of View",
-      "url": "/tag/series/point-of-view"
-    },
-    {
-      "text": "In Depth",
-      "url": "/shows/in-depth"
-    },
-    {
-      "text": "Wednesday's Child",
-      "url": "/tag/series/wednesdays-child"
-    },
-    {
-      "text": "Culture Conversations",
-      "url": "/tag/series/culture-conversations"
-    },
-    {
-      "text": "Remembering Kobe",
-      "url": "/tag/people/kobe-bryant"
-    },
-    {
-      "text": "KTTV70",
-      "url": "/tag/series/kttv-70"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts"
-    },
-    {
-      "text": "The Issue Is: Podcast",
-      "url": "/shows/the-issue-is"
-    },
-    {
-      "text": "Silicon Sandbox",
-      "url": "/tag/series/silicon-sandbox"
-    },
-    {
-      "text": "What The Hal?",
-      "url": "/tag/series/what-the-hal"
-    },
-    {
-      "text": "Olympic & Bundy",
-      "url": "/tag/series/olympic-bundy"
-    },
-    {
-      "text": "COVID-19",
-      "url": "/shows/coronavirus-in-california"
-    },
-    {
-      "text": "Coronavirus in SoCal",
-      "url": "/tag/health/coronavirus/coronavirus-socal"
-    },
-    {
-      "text": "Stimulus Checks",
-      "url": "/tag/health/coronavirus/economy/stimulus-check"
-    },
-    {
-      "text": "Coronavirus Vaccine",
-      "url": "/tag/health/coronavirus-vaccine"
-    },
-    {
-      "text": "Coronavirus in California",
-      "url": "/tag/health/coronavirus/coronavirus-ca"
-    },
-    {
-      "text": "Coronavirus Interviews",
-      "url": "/tag/health/coronavirus"
-    },
-    {
-      "text": "COVID-19 and the Economy",
-      "url": "/tag/health/coronavirus/economy"
-    },
-    {
-      "text": "COVID-19 and Schools",
-      "url": "/tag/health/coronavirus/schools"
-    },
-    {
-      "text": "Money",
-      "url": "/money"
-    },
-    {
-      "text": "Economy",
-      "url": "/tag/money/us-economy"
-    },
-    {
-      "text": "Small Business",
-      "url": "/tag/business/small-business"
-    },
-    {
-      "text": "Personal Finance",
-      "url": "/tag/business/personal-finance"
-    },
-    {
-      "text": "Regional News",
-      "url": "/tag/us/ca"
-    },
-    {
-      "text": "San Francisco News - KTVU FOX 2",
-      "url": "https://www.ktvu.com/"
-    },
-    {
-      "text": "Phoenix News - FOX 10 Phoenix",
-      "url": "https://www.fox10phoenix.com/"
-    },
-    {
-      "text": "Seattle News - FOX 13 Seattle",
-      "url": "https://www.fox13seattle.com"
-    },
-    {
-      "text": "About Us",
-      "url": "/about-us"
-    },
-    {
-      "text": "Contests",
-      "url": "/contests"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/email"
-    },
-    {
-      "text": "Anchors & Reporters",
-      "url": "/person/all"
-    },
-    {
-      "text": "TV Schedule",
-      "url": "/whats-on-fox"
-    },
-    {
-      "text": "FOX Shows",
-      "url": "/shows/fox-content"
-    },
-    {
-      "text": "Jobs at FOX 11",
-      "url": "/jobs"
-    },
-    {
-      "text": "Advertising",
-      "url": "/advertising"
-    },
-    {
-      "text": "FCC Public File",
-      "url": "/public-file-inquiries"
-    },
-    {
-      "text": "FCC Applications",
-      "url": "https://www.foxla.com/fcc-applications"
-    },
-    {
-      "text": "Public Service Announcements",
-      "url": "/psa"
-    },
-    {
-      "text": "ATSC",
-      "url": "/atsc"
-    },
-    {
-      "text": "KCOP13",
-      "url": "/kcop13"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/contact"
-    },
-    {
-      "text": "   ",
-      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
-    },
-    {
-      "text": "Woman found shot in deadly 710 Freeway crash in Long Beach",
-      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-direct-payments-from-government"
-    },
-    {
-      "text": "Millions of Californians could get $1,050 direct payments from government: What to know",
-      "url": "/news/california-direct-payments-from-government"
-    },
-    {
-      "text": "  ",
-      "url": "/news/cassidy-hutchinson-january-6-panel-top-aide-mark-meadows-trump-white-house"
-    },
-    {
-      "text": "January 6 panel to hear from top aide in Trump's White House during surprise hearing",
-      "url": "/news/cassidy-hutchinson-january-6-panel-top-aide-mark-meadows-trump-white-house"
-    },
-    {
-      "text": "  ",
-      "url": "/news/canoga-park-hit-and-run-crash"
-    },
-    {
-      "text": "Man killed in horrific hit-and-run crash in Canoga Park",
-      "url": "/news/canoga-park-hit-and-run-crash"
-    },
-    {
-      "text": "  ",
-      "url": "/news/amtrak-train-derailment-missouri-los-angeles-chicago"
-    },
-    {
-      "text": "Amtrak derailment: 3 killed, several injured after train hits dump truck in Missouri",
-      "url": "/news/amtrak-train-derailment-missouri-los-angeles-chicago"
-    },
-    {
-      "text": "  ",
-      "url": "/news/ben-afflecks-son-10-gets-in-lamborghini-drivers-seat-backs-into-bmw"
-    },
-    {
-      "text": "Ben Affleck's son, 10, gets in Lamborghini driver's seat, backs into BMW in LA",
-      "url": "/news/ben-afflecks-son-10-gets-in-lamborghini-drivers-seat-backs-into-bmw"
-    },
-    {
-      "text": "  ",
-      "url": "/news/cvs-walmart-rite-aid-limiting-purchases-of-plan-b-pills-following-scotus-ruling"
-    },
-    {
-      "text": "CVS, Walmart, Rite Aid limiting purchases of Plan B pills following SCOTUS ruling",
-      "url": "/news/cvs-walmart-rite-aid-limiting-purchases-of-plan-b-pills-following-scotus-ruling"
-    },
-    {
-      "text": "  ",
-      "url": "/news/fire-ignites-inside-canoga-park-skilled-nursing-facility"
-    },
-    {
-      "text": "Fire ignites inside Canoga Park skilled nursing facility",
-      "url": "/news/fire-ignites-inside-canoga-park-skilled-nursing-facility"
-    },
-    {
-      "text": "  ",
-      "url": "/news/chick-fil-a-tests-express-drive-thru-lanes-nationwide-heres-how-it-works"
-    },
-    {
-      "text": "Chick-fil-A tests express drive-thru lanes nationwide. Here's how it works",
-      "url": "/news/chick-fil-a-tests-express-drive-thru-lanes-nationwide-heres-how-it-works"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/5-time-nba-all-star-john-wall-expected-to-sign-with-la-clippers-report-says"
-    },
-    {
-      "text": "5-time NBA All-Star John Wall expected to sign with LA Clippers, report says",
-      "url": "/sports/5-time-nba-all-star-john-wall-expected-to-sign-with-la-clippers-report-says"
-    },
-    {
-      "text": "  ",
-      "url": "/news/texas-mexico-border-chaos-at-least-20-migrants-found-dead-in-san-antonio-inside-18-wheeler-reports-say"
-    },
-    {
-      "text": "46 people found dead, 16 hospitalized after tractor-trailer containing migrants found in Texas",
-      "url": "/news/texas-mexico-border-chaos-at-least-20-migrants-found-dead-in-san-antonio-inside-18-wheeler-reports-say"
-    },
-    {
-      "text": "  ",
-      "url": "/news/death-toll-rises-to-50-after-migrants-found-abandoned-in-trailer-in-texas"
-    },
-    {
-      "text": "Death toll rises to 50 after migrants found in abandoned tractor-trailer in Texas",
-      "url": "/news/death-toll-rises-to-50-after-migrants-found-abandoned-in-trailer-in-texas"
-    },
-    {
-      "text": "  ",
-      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
-    },
-    {
-      "text": "Roe v. Wade: What to know about the now-overturned abortion ruling, and what's next for Arizona",
-      "url": "/news/roe-v-wade-what-you-should-know-about-the-abortion-ruling"
-    },
-    {
-      "text": "Florence-Graham",
-      "url": "https://www.foxla.com/weather"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086548"
-    },
-    {
-      "text": "Disney World celebrates 50 years",
-      "url": "/video/1086548"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086538"
-    },
-    {
-      "text": "Deadly freeway shooting prompts investigation in Long Beach",
-      "url": "/video/1086538"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086531"
-    },
-    {
-      "text": "2 hurt in 405 Freeway crash at Skirball Center",
-      "url": "/video/1086531"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086517"
-    },
-    {
-      "text": "Woodcraft Rangers celebrate 100-year anniversary",
-      "url": "/video/1086517"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086516"
-    },
-    {
-      "text": "Update on future of Bruce's Beach",
-      "url": "/video/1086516"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086512"
-    },
-    {
-      "text": "New Disney World attractions",
-      "url": "/video/1086512"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy-policy"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "/terms-of-service"
-    },
-    {
-      "text": " ",
-      "url": "https://www.foxla.com/shows/good-day-la"
-    },
-    {
-      "text": "\n        Good Day LA\n      ",
-      "url": "/shows/good-day-la"
-    },
-    {
-      "text": "View More",
-      "url": "/shows/good-day-la"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086228"
-    },
-    {
-      "text": "Getting the best flight deal",
-      "url": "/video/1086228"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086164"
-    },
-    {
-      "text": "Amanda Salas and the Critic Kids review 'Lightyear'",
-      "url": "/video/1086164"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086135"
-    },
-    {
-      "text": "Keeping pets safe during fireworks celebrations",
-      "url": "/video/1086135"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/tag/health/coronavirus"
-    },
-    {
-      "text": "View More",
-      "url": "/tag/health/coronavirus"
-    },
-    {
-      "text": "   ",
-      "url": "/news/bars-open-until-4-am-west-hollywood-considering-extending-last-call"
-    },
-    {
-      "text": "Bars open until 4 AM? West Hollywood considering extending last call",
-      "url": "/news/bars-open-until-4-am-west-hollywood-considering-extending-last-call"
-    },
-    {
-      "text": "  ",
-      "url": "/news/up-to-40k-army-guard-troops-unvaccinated-some-face-dismissal"
-    },
-    {
-      "text": "Up to 40K Army Guard troops unvaccinated, some face dismissal",
-      "url": "/news/up-to-40k-army-guard-troops-unvaccinated-some-face-dismissal"
-    },
-    {
-      "text": "  ",
-      "url": "/news/cdc-panel-elderly-americans-should-get-newer-souped-up-flu-vaccines"
-    },
-    {
-      "text": "CDC panel: Elderly Americans should get newer, souped-up flu vaccines",
-      "url": "/news/cdc-panel-elderly-americans-should-get-newer-souped-up-flu-vaccines"
-    },
-    {
-      "text": "  ",
-      "url": "/news/kids-covid-vaccines-slowly-roll-out-in-southern-california"
-    },
-    {
-      "text": "Kids' COVID vaccines slowly roll out in Southern California",
-      "url": "/news/kids-covid-vaccines-slowly-roll-out-in-southern-california"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-county-reports-12000-more-covid-cases-over-3-day-period"
-    },
-    {
-      "text": "LA County reports 12,000 more COVID cases over 3-day period",
-      "url": "/news/la-county-reports-12000-more-covid-cases-over-3-day-period"
-    },
-    {
-      "text": "  ",
-      "url": "/news/covid-vaccine-doses-for-kids-come-to-la-county"
-    },
-    {
-      "text": "COVID vaccines available for kids 5 and under in LA County",
-      "url": "/news/covid-vaccine-doses-for-kids-come-to-la-county"
-    },
-    {
-      "text": "Politics",
-      "url": "/tag/politics"
-    },
-    {
-      "text": "View More",
-      "url": "/tag/politics"
-    },
-    {
-      "text": "  ",
-      "url": "/news/cvs-walmart-rite-aid-limiting-purchases-of-plan-b-pills-following-scotus-ruling"
-    },
-    {
-      "text": "CVS, Walmart, Rite Aid limiting purchases of Plan B pills following SCOTUS ruling",
-      "url": "/news/cvs-walmart-rite-aid-limiting-purchases-of-plan-b-pills-following-scotus-ruling"
-    },
-    {
-      "text": "  ",
-      "url": "/news/roe-v-wade-protests-demonstrators-march-downtown-for-abortion-rights"
-    },
-    {
-      "text": "Roe v. Wade protests: Demonstrators march downtown for abortion rights",
-      "url": "/news/roe-v-wade-protests-demonstrators-march-downtown-for-abortion-rights"
-    },
-    {
-      "text": "  ",
-      "url": "/news/primaries-2022-what-to-watch-in-these-7-states"
-    },
-    {
-      "text": "2022 primaries: What to watch for in these 7 states",
-      "url": "/news/primaries-2022-what-to-watch-in-these-7-states"
-    },
-    {
-      "text": "  ",
-      "url": "/news/roe-v-wade-decision-states-brace-for-court-fights-after-federal-abortion-ruling"
-    },
-    {
-      "text": "Roe v. Wade decision: States brace for court fights after federal abortion ruling",
-      "url": "/news/roe-v-wade-decision-states-brace-for-court-fights-after-federal-abortion-ruling"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-voters-to-weigh-constitutional-right-to-abortion"
-    },
-    {
-      "text": "California voters to weigh constitutional right to abortion",
-      "url": "/news/california-voters-to-weigh-constitutional-right-to-abortion"
-    },
-    {
-      "text": "  ",
-      "url": "/news/rudy-giuliani-slapped-by-supermarket-employee-while-campaigning-for-son"
-    },
-    {
-      "text": "Rudy Giuliani slapped by supermarket employee while campaigning for son",
-      "url": "/news/rudy-giuliani-slapped-by-supermarket-employee-while-campaigning-for-son"
-    },
-    {
-      "text": "California News",
-      "url": "/tag/us/ca"
-    },
-    {
-      "text": "View More",
-      "url": "/tag/us/ca"
-    },
-    {
-      "text": "  ",
-      "url": "/news/californias-great-america-amusement-park-is-changing-hands"
-    },
-    {
-      "text": "California's Great America amusement park is changing hands; future uncertain",
-      "url": "/news/californias-great-america-amusement-park-is-changing-hands"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-direct-payments-from-government"
-    },
-    {
-      "text": "Millions of Californians could get $1,050 direct payments from government: What to know",
-      "url": "/news/california-direct-payments-from-government"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-voters-to-weigh-constitutional-right-to-abortion"
-    },
-    {
-      "text": "California voters to weigh constitutional right to abortion",
-      "url": "/news/california-voters-to-weigh-constitutional-right-to-abortion"
-    },
-    {
-      "text": "  ",
-      "url": "/news/amtrak-train-derailment-missouri-los-angeles-chicago"
-    },
-    {
-      "text": "Amtrak derailment: 3 killed, several injured after train hits dump truck in Missouri",
-      "url": "/news/amtrak-train-derailment-missouri-los-angeles-chicago"
-    },
-    {
-      "text": "  ",
-      "url": "/news/jury-awards-21-million-to-family-after-pregnant-teen-killed-by-fremont-police"
-    },
-    {
-      "text": "Federal jury awards $21 million to family after pregnant teen killed by Fremont police",
-      "url": "/news/jury-awards-21-million-to-family-after-pregnant-teen-killed-by-fremont-police"
-    },
-    {
-      "text": "  ",
-      "url": "/news/san-francisco-pride-event-ends-abruptly-after-pepper-spray-fired-into-crowd"
-    },
-    {
-      "text": "San Francisco Pride event ends abruptly after pepper spray fired into crowd",
-      "url": "/news/san-francisco-pride-event-ends-abruptly-after-pepper-spray-fired-into-crowd"
-    },
-    {
-      "text": "Crime & Public Safety",
-      "url": "/tag/crime-publicsafety"
-    },
-    {
-      "text": "View More",
-      "url": "/tag/crime-publicsafety"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-with-ar-15-style-rifle-arrested-after-stealing-food-from-ontario-little-caesars"
-    },
-    {
-      "text": "Man with 'AR-15 style' rifle arrested after stealing food from Ontario Little Caesars",
-      "url": "/news/man-with-ar-15-style-rifle-arrested-after-stealing-food-from-ontario-little-caesars"
-    },
-    {
-      "text": "  ",
-      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
-    },
-    {
-      "text": "Woman found shot in deadly 710 Freeway crash in Long Beach",
-      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
-    },
-    {
-      "text": "  ",
-      "url": "/news/canoga-park-hit-and-run-crash"
-    },
-    {
-      "text": "Man killed in horrific hit-and-run crash in Canoga Park",
-      "url": "/news/canoga-park-hit-and-run-crash"
-    },
-    {
-      "text": "  ",
-      "url": "/news/police-in-pursuit-of-bears-in-la-canada-area"
-    },
-    {
-      "text": "Bear roaming on side of 210 Freeway forces delays in La Ca\u00f1ada area",
-      "url": "/news/police-in-pursuit-of-bears-in-la-canada-area"
-    },
-    {
-      "text": "  ",
-      "url": "/news/azusa-neighborhood-evacuated-after-cache-of-illegal-fireworks-found-in-home"
-    },
-    {
-      "text": "Azusa neighborhood evacuated after cache of illegal fireworks found in home",
-      "url": "/news/azusa-neighborhood-evacuated-after-cache-of-illegal-fireworks-found-in-home"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-stabbed-to-death-in-canoga-park-police-search-for-suspect"
-    },
-    {
-      "text": "Man stabbed to death in Canoga Park, police search for suspect",
-      "url": "/news/man-stabbed-to-death-in-canoga-park-police-search-for-suspect"
-    },
-    {
-      "text": "Consumer",
-      "url": "/tag/consumer"
-    },
-    {
-      "text": "View More",
-      "url": "/tag/consumer"
-    },
-    {
-      "text": "   ",
-      "url": "/news/fda-says-696000-cans-of-australian-baby-formula-will-be-available-this-summer"
-    },
-    {
-      "text": "FDA says 696,000 cans of Australian baby formula will be available this summer",
-      "url": "/news/fda-says-696000-cans-of-australian-baby-formula-will-be-available-this-summer"
-    },
-    {
-      "text": "  ",
-      "url": "/news/selling-a-home-front-door-color-matters-zillow-data-says"
-    },
-    {
-      "text": "Selling a home: Front door color matters, Zillow data says",
-      "url": "/news/selling-a-home-front-door-color-matters-zillow-data-says"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1086063"
-    },
-    {
-      "text": "",
-      "url": "/video/1086063"
-    },
-    {
-      "text": "Newsom, California lawmakers reach tentative deal on gas tax rebate: Here's how it would work",
-      "url": "/video/1086063"
-    },
-    {
-      "text": "  ",
-      "url": "/news/juul-e-cigarettes-fda-ban"
-    },
-    {
-      "text": "Juul e-cigarettes can stay on the market for now, judge rules",
-      "url": "/news/juul-e-cigarettes-fda-ban"
-    },
-    {
-      "text": "  ",
-      "url": "/news/toyota-recall-electric-car-faulty-wheel"
-    },
-    {
-      "text": "Toyota recalls electric car for faulty wheel that may detach",
-      "url": "/news/toyota-recall-electric-car-faulty-wheel"
-    },
-    {
-      "text": "  ",
-      "url": "/news/fda-probe-baby-death-possibly-tied-abbott-formula"
-    },
-    {
-      "text": "FDA investigates new report of another baby\u2019s death possibly tied to Abbott formula",
-      "url": "/news/fda-probe-baby-death-possibly-tied-abbott-formula"
-    },
-    {
-      "text": "Sports",
-      "url": "/tag/sports"
-    },
-    {
-      "text": "View More",
-      "url": "/tag/sports"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/russell-westbrook-to-return-to-la-lakers"
-    },
-    {
-      "text": "Russell Westbrook to return to LA Lakers: report",
-      "url": "/sports/russell-westbrook-to-return-to-la-lakers"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/5-time-nba-all-star-john-wall-expected-to-sign-with-la-clippers-report-says"
-    },
-    {
-      "text": "5-time NBA All-Star John Wall expected to sign with LA Clippers, report says",
-      "url": "/sports/5-time-nba-all-star-john-wall-expected-to-sign-with-la-clippers-report-says"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/jesse-winker-j-p-crawford-julio-rodriguez-suspended-by-mlb-after-brawl-with-angels"
-    },
-    {
-      "text": "Mariners' Jesse Winker, J.P. Crawford, Julio Rodriguez suspended by MLB after brawl with Angels",
-      "url": "/sports/jesse-winker-j-p-crawford-julio-rodriguez-suspended-by-mlb-after-brawl-with-angels"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/angels-interim-manager-phil-nevin-others-suspended-after-brawl-vs-mariners"
-    },
-    {
-      "text": "Angels interim manager Phil Nevin, others suspended after brawl vs. Mariners",
-      "url": "/sports/angels-interim-manager-phil-nevin-others-suspended-after-brawl-vs-mariners"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/could-kyrie-irving-land-on-the-lakers"
-    },
-    {
-      "text": "Could Kyrie Irving land on the Lakers?",
-      "url": "/sports/could-kyrie-irving-land-on-the-lakers"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/wnba-star-brittney-griner-russian-court"
-    },
-    {
-      "text": "WNBA star Brittney Griner gets July 1 start date for trial",
-      "url": "/sports/wnba-star-brittney-griner-russian-court"
-    },
-    {
-      "text": "Unusual",
-      "url": "/tag/unusual"
-    },
-    {
-      "text": "View More",
-      "url": "/tag/unusual"
-    },
-    {
-      "text": "  ",
-      "url": "/news/multiple-stings-after-truck-carrying-200-beehives-rolls-over-on-highway"
-    },
-    {
-      "text": "Millions of bees on the loose after truck carrying 200 beehives rolls over",
-      "url": "/news/multiple-stings-after-truck-carrying-200-beehives-rolls-over-on-highway"
-    },
-    {
-      "text": "  ",
-      "url": "/news/suspect-struck-by-big-rig-becomes-combative-with-chp-officers"
-    },
-    {
-      "text": "Suspect struck by big rig attempts carjacking, gets combative with CHP officers",
-      "url": "/news/suspect-struck-by-big-rig-becomes-combative-with-chp-officers"
-    },
-    {
-      "text": "  ",
-      "url": "/news/made-from-crabs-new-whiskey-comes-in-unique-flavor"
-    },
-    {
-      "text": "Made from crabs: New whiskey comes in unique flavor",
-      "url": "/news/made-from-crabs-new-whiskey-comes-in-unique-flavor"
-    },
-    {
-      "text": "  ",
-      "url": "/news/jet-pack-man-lax"
-    },
-    {
-      "text": "'Jet pack man' back? FAA investigating new report near LAX",
-      "url": "/news/jet-pack-man-lax"
-    },
-    {
-      "text": "  ",
-      "url": "/news/frenchs-unveils-canadas-next-favorite-summer-treat-ketchup-flavored-popsicles"
-    },
-    {
-      "text": "French\u2019s unveils Canada\u2019s next favorite summer treat: Ketchup-flavored ice pops",
-      "url": "/news/frenchs-unveils-canadas-next-favorite-summer-treat-ketchup-flavored-popsicles"
-    },
-    {
-      "text": "  ",
-      "url": "/news/omg-airbnb-offering-10m-to-create-the-craziest-properties-on-earth"
-    },
-    {
-      "text": "OMG! Airbnb offering $10M to 'create the craziest' properties on earth",
-      "url": "/news/omg-airbnb-offering-10m-to-create-the-craziest-properties-on-earth"
-    },
-    {
-      "text": "Local News",
-      "url": "/local-news"
-    },
-    {
-      "text": "View More",
-      "url": "/local-news"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-with-ar-15-style-rifle-arrested-after-stealing-food-from-ontario-little-caesars"
-    },
-    {
-      "text": "Man with 'AR-15 style' rifle arrested after stealing food from Ontario Little Caesars",
-      "url": "/news/man-with-ar-15-style-rifle-arrested-after-stealing-food-from-ontario-little-caesars"
-    },
-    {
-      "text": "  ",
-      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
-    },
-    {
-      "text": "Woman found shot in deadly 710 Freeway crash in Long Beach",
-      "url": "/news/deadly-710-freeway-shoooting-in-long-beach"
-    },
-    {
-      "text": "  ",
-      "url": "/news/2-hurt-in-405-freeway-crash-near-skirball-center"
-    },
-    {
-      "text": "2 hurt in 405 Freeway crash near Skirball Center",
-      "url": "/news/2-hurt-in-405-freeway-crash-near-skirball-center"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-county-to-approve-return-of-bruces-beach-to-black-family-who-owned-property-in-1920s"
-    },
-    {
-      "text": "LA County to approve return of Bruce's Beach to Black family who owned property in 1920s",
-      "url": "/news/la-county-to-approve-return-of-bruces-beach-to-black-family-who-owned-property-in-1920s"
-    },
-    {
-      "text": "  ",
-      "url": "/news/fire-ignites-inside-canoga-park-skilled-nursing-facility"
-    },
-    {
-      "text": "Fire ignites inside Canoga Park skilled nursing facility",
-      "url": "/news/fire-ignites-inside-canoga-park-skilled-nursing-facility"
-    },
-    {
-      "text": "  ",
-      "url": "/news/canoga-park-hit-and-run-crash"
-    },
-    {
-      "text": "Man killed in horrific hit-and-run crash in Canoga Park",
-      "url": "/news/canoga-park-hit-and-run-crash"
-    },
-    {
-      "text": "National News",
-      "url": "/national-news"
-    },
-    {
-      "text": "View More",
-      "url": "/national-news"
-    },
-    {
-      "text": "   ",
-      "url": "/news/cassidy-hutchinson-january-6-panel-top-aide-mark-meadows-trump-white-house"
-    },
-    {
-      "text": "January 6 panel to hear from top aide in Trump's White House during surprise hearing",
-      "url": "/news/cassidy-hutchinson-january-6-panel-top-aide-mark-meadows-trump-white-house"
-    },
-    {
-      "text": "  ",
-      "url": "/news/gov-newsom-reportedly-plans-to-buy-cable-television-ads-in-florida"
-    },
-    {
-      "text": "Gov. Newsom reportedly plans to buy cable television ads in Florida",
-      "url": "/news/gov-newsom-reportedly-plans-to-buy-cable-television-ads-in-florida"
-    },
-    {
-      "text": "  ",
-      "url": "/news/disney-world-anniversary-attractions"
-    },
-    {
-      "text": "Disney World celebrates 50th anniversary with new attractions, experiences",
-      "url": "/news/disney-world-anniversary-attractions"
-    },
-    {
-      "text": "  ",
-      "url": "/news/californias-great-america-amusement-park-is-changing-hands"
-    },
-    {
-      "text": "California's Great America amusement park is changing hands; future uncertain",
-      "url": "/news/californias-great-america-amusement-park-is-changing-hands"
-    },
-    {
-      "text": "  ",
-      "url": "/news/capital-gazette-mass-shooting-victims-honored-at-wreath-laying-ceremony-in-annapolis"
-    },
-    {
-      "text": "Capital Gazette mass shooting victims honored at wreath-laying ceremony in Annapolis",
-      "url": "/news/capital-gazette-mass-shooting-victims-honored-at-wreath-laying-ceremony-in-annapolis"
-    },
-    {
-      "text": "  ",
-      "url": "/news/fda-says-696000-cans-of-australian-baby-formula-will-be-available-this-summer"
-    },
-    {
-      "text": "FDA says 696,000 cans of Australian baby formula will be available this summer",
-      "url": "/news/fda-says-696000-cans-of-australian-baby-formula-will-be-available-this-summer"
-    },
-    {
-      "text": "Money",
-      "url": "/money"
-    },
-    {
-      "text": "View More",
-      "url": "/money"
-    },
-    {
-      "text": "  ",
-      "url": "/news/bars-open-until-4-am-west-hollywood-considering-extending-last-call"
-    },
-    {
-      "text": "Bars open until 4 AM? West Hollywood considering extending last call",
-      "url": "/news/bars-open-until-4-am-west-hollywood-considering-extending-last-call"
-    },
-    {
-      "text": "  ",
-      "url": "/news/selling-a-home-front-door-color-matters-zillow-data-says"
-    },
-    {
-      "text": "Selling a home: Front door color matters, Zillow data says",
-      "url": "/news/selling-a-home-front-door-color-matters-zillow-data-says"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-direct-payments-from-government"
-    },
-    {
-      "text": "Millions of Californians could get $1,050 direct payments from government: What to know",
-      "url": "/news/california-direct-payments-from-government"
-    },
-    {
-      "text": "  ",
-      "url": "/money/school-districts-pricing-out-parents-on-record-requests-by-charging-tens-of-thousands-in-exorbitant-fees"
-    },
-    {
-      "text": "School districts pricing out parents on record requests by charging tens of thousands in 'exorbitant fees'",
-      "url": "/money/school-districts-pricing-out-parents-on-record-requests-by-charging-tens-of-thousands-in-exorbitant-fees"
-    },
-    {
-      "text": "  ",
-      "url": "/money/personal-loan-rates-june-27-2022"
-    },
-    {
-      "text": "Personal loan rates edge up: Still lower than this time last year",
-      "url": "/money/personal-loan-rates-june-27-2022"
-    },
-    {
-      "text": "  ",
-      "url": "/money/todays-mortgage-refinance-rates-june-27-2022"
-    },
-    {
-      "text": "Today\u2019s mortgage refinance rates: 3 key rates edge down | June 27, 2022",
-      "url": "/money/todays-mortgage-refinance-rates-june-27-2022"
-    },
-    {
-      "text": "News",
-      "url": "/news"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/shows/coronavirus-in-california"
-    },
-    {
-      "text": "Local News",
-      "url": "/local-news"
-    },
-    {
-      "text": "California News",
-      "url": "/tag/us/ca"
-    },
-    {
-      "text": "National News",
-      "url": "/national-news"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/tag/entertainment"
-    },
-    {
-      "text": "Recalls",
-      "url": "/tag/consumer/recalls"
-    },
-    {
-      "text": "FOX 11 News App",
-      "url": "/apps"
-    },
-    {
-      "text": "Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "Forecast",
-      "url": "/weather"
-    },
-    {
-      "text": "Radar",
-      "url": "/weather"
-    },
-    {
-      "text": "Air Quality Map",
-      "url": "/california-air-quality-map"
-    },
-    {
-      "text": "Earthquakes",
-      "url": "/tag/weather/earthquakes"
-    },
-    {
-      "text": "Earthquake Preparedness",
-      "url": "/earthquake-preparedness"
-    },
-    {
-      "text": "Traffic",
-      "url": "/traffic"
-    },
-    {
-      "text": "Wildfires",
-      "url": "/tag/weather/wildfires"
-    },
-    {
-      "text": "Good Day LA",
-      "url": "/shows/good-day-la"
-    },
-    {
-      "text": "Guests",
-      "url": "/tag/series/guests"
-    },
-    {
-      "text": "Meet the Team",
-      "url": "/person/all"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/tag/entertainment"
-    },
-    {
-      "text": "Local News",
-      "url": "/local-news"
-    },
-    {
-      "text": "Seen on TV Links",
-      "url": "/seen-on-tv-links"
-    },
-    {
-      "text": "Politics",
-      "url": "/tag/politics"
-    },
-    {
-      "text": "California Politics",
-      "url": "/tag/politics/ca-politics"
-    },
-    {
-      "text": "2022 LA Mayor Election",
-      "url": "/tag/politics/ca-politics/la-mayor-election"
-    },
-    {
-      "text": "The Issue Is:",
-      "url": "https://www.foxla.com/shows/the-issue-is"
-    },
-    {
-      "text": "Joe Biden",
-      "url": "/tag/people/joe-biden"
-    },
-    {
-      "text": "Kamala Harris",
-      "url": "/tag/people/kamala-harris"
-    },
-    {
-      "text": "Gavin Newsom",
-      "url": "/tag/people/gavin-newsom"
-    },
-    {
-      "text": "George Gasc\u00f3n",
-      "url": "/tag/people/george-gascon"
-    },
-    {
-      "text": "Donald Trump",
-      "url": "/tag/people/donald-j-trump"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports"
-    },
-    {
-      "text": "Rams",
-      "url": "/tag/sports/nfl/rams"
-    },
-    {
-      "text": "Super Bowl LVI",
-      "url": "/tag/super-bowl-lvi"
-    },
-    {
-      "text": "Chargers",
-      "url": "/tag/sports/nfl/chargers"
-    },
-    {
-      "text": "Lakers",
-      "url": "/tag/sports/nba/lakers"
-    },
-    {
-      "text": "Clippers",
-      "url": "/tag/sports/nba/clippers"
-    },
-    {
-      "text": "Dodgers",
-      "url": "/tag/sports/mlb/dodgers"
-    },
-    {
-      "text": "Angels",
-      "url": "/tag/sports/mlb/angels"
-    },
-    {
-      "text": "Wildcats",
-      "url": "/tag/sports/xfl/wildcats"
-    },
-    {
-      "text": "Kings",
-      "url": "/tag/sports/nhl/kings"
-    },
-    {
-      "text": "Ducks",
-      "url": "/tag/sports/nhl/ducks"
-    },
-    {
-      "text": "LA Football Club",
-      "url": "/tag/sports/mls/lafc"
-    },
-    {
-      "text": "Angel City Football Club",
-      "url": "/tag/sports/mls/acfc"
-    },
-    {
-      "text": "Galaxy",
-      "url": "/tag/sports/mls/galaxy"
-    },
-    {
-      "text": "Sparks",
-      "url": "/tag/sports/wnba/sparks"
-    },
-    {
-      "text": "Features",
-      "url": "/"
-    },
-    {
-      "text": "Lost Angeles: City of Homeless",
-      "url": "https://www.foxla.com/news/homeless-los-angeles-homelessness-lost-angeles"
-    },
-    {
-      "text": "Community Champions",
-      "url": "/tag/series/community-champions"
-    },
-    {
-      "text": "Save Our Streets",
-      "url": "/shows/save-our-streets"
-    },
-    {
-      "text": "When Magic Shocked the World",
-      "url": "/shows/when-magic-shocked-the-world"
-    },
-    {
-      "text": "Destination Education",
-      "url": "/tag/education/back-to-school"
-    },
-    {
-      "text": "Get Inspired",
-      "url": "/tag/series/get-inspired"
-    },
-    {
-      "text": "Rising Up",
-      "url": "/shows/rising-up"
-    },
-    {
-      "text": "The Issue Is:",
-      "url": "/shows/the-issue-is"
-    },
-    {
-      "text": "Investigations",
-      "url": "/tag/series/investigations"
-    },
-    {
-      "text": "True Crime Files",
-      "url": "/tag/series/true-crime"
-    },
-    {
-      "text": "Point of View",
-      "url": "/tag/series/point-of-view"
-    },
-    {
-      "text": "In Depth",
-      "url": "/shows/in-depth"
-    },
-    {
-      "text": "Wednesday's Child",
-      "url": "/tag/series/wednesdays-child"
-    },
-    {
-      "text": "Culture Conversations",
-      "url": "/tag/series/culture-conversations"
-    },
-    {
-      "text": "Remembering Kobe",
-      "url": "/tag/people/kobe-bryant"
-    },
-    {
-      "text": "KTTV70",
-      "url": "/tag/series/kttv-70"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts"
-    },
-    {
-      "text": "The Issue Is: Podcast",
-      "url": "/shows/the-issue-is"
-    },
-    {
-      "text": "Silicon Sandbox",
-      "url": "/tag/series/silicon-sandbox"
-    },
-    {
-      "text": "What The Hal?",
-      "url": "/tag/series/what-the-hal"
-    },
-    {
-      "text": "Olympic & Bundy",
-      "url": "/tag/series/olympic-bundy"
-    },
-    {
-      "text": "COVID-19",
-      "url": "/shows/coronavirus-in-california"
-    },
-    {
-      "text": "Coronavirus in SoCal",
-      "url": "/tag/health/coronavirus/coronavirus-socal"
-    },
-    {
-      "text": "Stimulus Checks",
-      "url": "/tag/health/coronavirus/economy/stimulus-check"
-    },
-    {
-      "text": "Coronavirus Vaccine",
-      "url": "/tag/health/coronavirus-vaccine"
-    },
-    {
-      "text": "Coronavirus in California",
-      "url": "/tag/health/coronavirus/coronavirus-ca"
-    },
-    {
-      "text": "Coronavirus Interviews",
-      "url": "/tag/health/coronavirus"
-    },
-    {
-      "text": "COVID-19 and the Economy",
-      "url": "/tag/health/coronavirus/economy"
-    },
-    {
-      "text": "COVID-19 and Schools",
-      "url": "/tag/health/coronavirus/schools"
-    },
-    {
-      "text": "Money",
-      "url": "/money"
-    },
-    {
-      "text": "Economy",
-      "url": "/tag/money/us-economy"
-    },
-    {
-      "text": "Small Business",
-      "url": "/tag/business/small-business"
-    },
-    {
-      "text": "Personal Finance",
-      "url": "/tag/business/personal-finance"
-    },
-    {
-      "text": "Regional News",
-      "url": "/tag/us/ca"
-    },
-    {
-      "text": "San Francisco News - KTVU FOX 2",
-      "url": "https://www.ktvu.com/"
-    },
-    {
-      "text": "Phoenix News - FOX 10 Phoenix",
-      "url": "https://www.fox10phoenix.com/"
-    },
-    {
-      "text": "Seattle News - FOX 13 Seattle",
-      "url": "https://www.fox13seattle.com"
-    },
-    {
-      "text": "About Us",
-      "url": "/about-us"
-    },
-    {
-      "text": "Contests",
-      "url": "/contests"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/email"
-    },
-    {
-      "text": "Anchors & Reporters",
-      "url": "/person/all"
-    },
-    {
-      "text": "TV Schedule",
-      "url": "/whats-on-fox"
-    },
-    {
-      "text": "FOX Shows",
-      "url": "/shows/fox-content"
-    },
-    {
-      "text": "Jobs at FOX 11",
-      "url": "/jobs"
-    },
-    {
-      "text": "Advertising",
-      "url": "/advertising"
-    },
-    {
-      "text": "FCC Public File",
-      "url": "/public-file-inquiries"
-    },
-    {
-      "text": "FCC Applications",
-      "url": "https://www.foxla.com/fcc-applications"
-    },
-    {
-      "text": "Public Service Announcements",
-      "url": "/psa"
-    },
-    {
-      "text": "ATSC",
-      "url": "/atsc"
-    },
-    {
-      "text": "KCOP13",
-      "url": "/kcop13"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/contact"
-    },
-    {
-      "text": "facebook",
-      "url": "https://www.facebook.com/fox11la/"
-    },
-    {
-      "text": "twitter",
-      "url": "https://twitter.com/FOXLA"
-    },
-    {
-      "text": "instagram",
-      "url": "https://www.instagram.com/foxla/"
-    },
-    {
-      "text": "email",
-      "url": "mailto:fox11news@foxtv.com"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "About Us",
-      "url": "/about-us"
-    },
-    {
-      "text": "Updated Privacy Policy",
-      "url": "/privacy-policy"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "/terms-of-service"
-    },
-    {
-      "text": "Do Not Sell my Personal Information ",
-      "url": "/do-not-sell-my-personal-information"
-    },
-    {
-      "text": "FCC Public File",
-      "url": "/public-file-inquiries"
-    },
-    {
-      "text": "EEO Public File",
-      "url": "https://publicfiles.fcc.gov/tv-profile/kttv/equal-employment-opportunity-records/"
-    },
-    {
-      "text": "Closed Captioning",
-      "url": "/closed-captioning"
-    },
-    {
-      "text": "Rescan your TV",
-      "url": "/rescan"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/contact-us"
-    }
-  ],
-  "item_last_updated": 1656437998,
-  "item_size": 81331296,
+  "files_count": 780,
+  "item_last_updated": 1656544004,
+  "item_size": 83307479,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -9665,10 +8225,10 @@
     "publicdate": "2022-03-23 20:59:13",
     "addeddate": "2022-03-23 20:59:13"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 868319903,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1417730044,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

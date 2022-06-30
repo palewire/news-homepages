@@ -1,5 +1,5 @@
 {
-  "created": 1656438631,
+  "created": 1656548403,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/wttw-2022",
@@ -646,31 +646,241 @@
       "sha1": "d8be7638e259f25f2bc1eeb3025c759011243469"
     },
     {
+      "name": "wttw-2022-06-28T20:53:26.560631-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656467609",
+      "size": "17711",
+      "md5": "80d07082deecd3f30fb5c33314778e97",
+      "crc32": "1e1963df",
+      "sha1": "ab42672e4378595b3edac78940bac232e218da50",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-28T20:53:26.560631-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656467611",
+      "size": "20212",
+      "md5": "d97eb21d1d4736389c9d4b7bfba0e6df",
+      "crc32": "5bba6779",
+      "sha1": "056e697df002991e0861708856d9d106893784e7",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-28T20:53:26.560631-05:00.jpg",
+      "source": "original",
+      "mtime": "1656467608",
+      "size": "352246",
+      "md5": "91b07f536d63d6501facc2740a4418bb",
+      "crc32": "5f9cad12",
+      "sha1": "63d591857e4de81d46d44b0a60f771fcbae6ea9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-28T20:53:26.560631-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-28T20:53:26.560631-05:00.jpg",
+      "mtime": "1656467668",
+      "size": "10630",
+      "md5": "6ef7b930cd1097271eb7bb381aab4286",
+      "crc32": "13e6cf7a",
+      "sha1": "4ab3f624b5b897be4e5c173f7aa95033409d12b7"
+    },
+    {
+      "name": "wttw-2022-06-29T04:46:09.413593-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656495972",
+      "size": "17430",
+      "md5": "1dc47ab45c8324cda6996c10c87d3884",
+      "crc32": "72a564b2",
+      "sha1": "eb7b97693900f4eb99961c4bb019e1fcab7fe46c",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T04:46:09.413593-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656495974",
+      "size": "21418",
+      "md5": "bee5449406a00a59cd6b8fb7ce3ef71f",
+      "crc32": "210e1c89",
+      "sha1": "5227b4841d2855bdd9cf272fef2ae98ece6af656",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T04:46:09.413593-05:00.jpg",
+      "source": "original",
+      "mtime": "1656495971",
+      "size": "311519",
+      "md5": "a03d5be64de033886617e1aac196d39b",
+      "crc32": "38dce91a",
+      "sha1": "f5a34001ccd1b9ed3206e1531496640713b76766",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-29T04:46:09.413593-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-29T04:46:09.413593-05:00.jpg",
+      "mtime": "1656496056",
+      "size": "10342",
+      "md5": "9b37ad978a816683f6171966a86d071e",
+      "crc32": "18a668cd",
+      "sha1": "169d98cfde00099a2302c654f97b4ee4e3316acd"
+    },
+    {
+      "name": "wttw-2022-06-29T12:56:04.998109-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656525367",
+      "size": "18191",
+      "md5": "c477c27b22e9793c3cc457d6019cff95",
+      "crc32": "7d42616c",
+      "sha1": "69b00fa2f3199618e12e904451c51b4093054239",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T12:56:04.998109-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656525369",
+      "size": "22230",
+      "md5": "e8643b4cadb71c4315caba525c924643",
+      "crc32": "c03b42f1",
+      "sha1": "a75d5969c65ec08e02e8c12b6abb8bf23e5e09f0",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T12:56:04.998109-05:00.jpg",
+      "source": "original",
+      "mtime": "1656525366",
+      "size": "305341",
+      "md5": "81362e7f867c519e4cdc4f0eef8e7f0b",
+      "crc32": "70c8fc3c",
+      "sha1": "2f95407b87fb5176da4ce1a331d0f4a38b6f2ac9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-29T12:56:04.998109-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-29T12:56:04.998109-05:00.jpg",
+      "mtime": "1656525426",
+      "size": "10092",
+      "md5": "5954ac030df190cbfe596c1133f6de6f",
+      "crc32": "780d7c1f",
+      "sha1": "a6aca9c700525835ccb37b6664c194dd47f21031"
+    },
+    {
+      "name": "wttw-2022-06-29T16:11:31.674291-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656537095",
+      "size": "18213",
+      "md5": "db109961775cb41c25f4d9a62a6b3ee6",
+      "crc32": "27f773a2",
+      "sha1": "1b0ba28ccb9b419c4949aadce322507f9ef7a092",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T16:11:31.674291-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656537096",
+      "size": "21945",
+      "md5": "137cf16d4fe762463e0a308bd86e979c",
+      "crc32": "790f0168",
+      "sha1": "2beda63d76f27936ac395783391ebc8300957261",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T16:11:31.674291-05:00.jpg",
+      "source": "original",
+      "mtime": "1656537093",
+      "size": "305197",
+      "md5": "36bcbdd3f40b644a4b63e078393026e9",
+      "crc32": "ac8715d8",
+      "sha1": "8cbc43b9e95c8af5c0821e25df79d906523812a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-29T16:11:31.674291-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-29T16:11:31.674291-05:00.jpg",
+      "mtime": "1656537141",
+      "size": "9957",
+      "md5": "3848580685361948343c404e04f9503c",
+      "crc32": "98b2aa9b",
+      "sha1": "146366fe5297252ebf5bc4d0250dc884a8fb1ad6"
+    },
+    {
+      "name": "wttw-2022-06-29T18:14:40.043539-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656544482",
+      "size": "18082",
+      "md5": "a511d3c07a08e259f375145abd39a8f4",
+      "crc32": "0c31c281",
+      "sha1": "4e59a831d625c0e83da94edde87d744642909b53",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T18:14:40.043539-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656544484",
+      "size": "20655",
+      "md5": "665d3b810fed9cb59325c7de5de911c9",
+      "crc32": "d5903359",
+      "sha1": "418c671ad6a55228562196897e0a0fe9b2857316",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T18:14:40.043539-05:00.jpg",
+      "source": "original",
+      "mtime": "1656544481",
+      "size": "301617",
+      "md5": "4de9a02d2ef7168c4344e56b74815754",
+      "crc32": "a20a3d91",
+      "sha1": "e7ab42f1868b95fff262305b6fd407c8a2720e84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-29T18:14:40.043539-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-29T18:14:40.043539-05:00.jpg",
+      "mtime": "1656544528",
+      "size": "9931",
+      "md5": "7a27f766403437d885330ab5b509c56a",
+      "crc32": "78f1e08d",
+      "sha1": "95c9fc495e53b08fefd54779f3bb8ce5ada1cf8d"
+    },
+    {
       "name": "wttw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e069a6dfc1436d708a88be16a2a1e7859bf80924",
-      "mtime": "1656438624",
-      "size": "13969",
-      "md5": "328cad3bcd74fc876e642d270a1676e7",
-      "crc32": "a1559309",
-      "sha1": "ed33ff76b02c1e56f293cc41f98f56f0ae9592b2",
+      "btih": "64227b4991ad862229bd2cdaa937949405458fae",
+      "mtime": "1656544531",
+      "size": "18098",
+      "md5": "c0e348b126e4d1bb4d08ad24767b906b",
+      "crc32": "4be6e876",
+      "sha1": "1189b67aa0acee8d3cfc61ef4e042a7c11fac7b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wttw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4432921d98332cbf286438122e7a3a1e",
+      "md5": "e29a60a6e81fcea1e3cc1a91dd17be05",
       "summation": "md5"
     },
     {
       "name": "wttw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656438571",
-      "size": "81920",
-      "md5": "fd4142e6ac818c4196861150b99b65a1",
-      "crc32": "4b4d85ba",
-      "sha1": "68474e50a8aa495218f27107257050a803ea7cc0",
+      "mtime": "1656544487",
+      "size": "110592",
+      "md5": "aa7f69d2ae73801903bccb5b87c4540b",
+      "crc32": "00c19ed8",
+      "sha1": "d3c85651c4a1df1ceb2cbff430412f05f1045940",
       "format": "Metadata"
     },
     {
@@ -684,9 +894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1656438624,
-  "item_size": 4756145,
+  "files_count": 85,
+  "item_last_updated": 1656544531,
+  "item_size": 6611905,
   "metadata": {
     "identifier": "wttw-2022",
     "collection": [
@@ -703,10 +913,832 @@
     "publicdate": "2022-06-24 23:05:07",
     "addeddate": "2022-06-24 23:05:07"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1711464081,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1141191348,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
+  ],
+  "wttw-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#main-content"
+    },
+    {
+      "text": "",
+      "url": "https://www.wttw.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/wttw11/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/wttw"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/wttwchicago/"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/wttwchicago"
+    },
+    {
+      "text": "News",
+      "url": "https://news.wttw.com"
+    },
+    {
+      "text": "Food",
+      "url": "https://interactive.wttw.com/food"
+    },
+    {
+      "text": "Neighborhoods",
+      "url": "https://www.wttw.com/geoffreybaer"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.wttw.com/kids"
+    },
+    {
+      "text": "Donate",
+      "url": "https://secure.wttw.com"
+    },
+    {
+      "text": "Live TV",
+      "url": "https://interactive.wttw.com/wttw-live-stream"
+    },
+    {
+      "text": "Schedule",
+      "url": "https://www.wttw.com/schedule"
+    },
+    {
+      "text": "Watch",
+      "url": "https://video.wttw.com"
+    },
+    {
+      "text": "Programs",
+      "url": "https://www.wttw.com/programs"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.wttw.com/events"
+    },
+    {
+      "text": "About",
+      "url": "https://www.wttw.com/about"
+    },
+    {
+      "text": "Support",
+      "url": "https://www.wttw.com/support"
+    },
+    {
+      "text": "WTTW Passport",
+      "url": "https://interactive.wttw.com/passport"
+    },
+    {
+      "text": "Shop",
+      "url": "https://secure.wttw.com/catalog"
+    },
+    {
+      "text": "Donate",
+      "url": "https://secure.wttw.com"
+    },
+    {
+      "text": "News",
+      "url": "https://news.wttw.com"
+    },
+    {
+      "text": "Food",
+      "url": "https://interactive.wttw.com/food"
+    },
+    {
+      "text": "Neighborhoods",
+      "url": "https://www.wttw.com/geoffreybaer"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.wttw.com/kids"
+    },
+    {
+      "text": "Schedule",
+      "url": "https://www.wttw.com/schedule"
+    },
+    {
+      "text": "Watch",
+      "url": "https://video.wttw.com"
+    },
+    {
+      "text": "Live TV",
+      "url": "https://interactive.wttw.com/wttw-live-stream"
+    },
+    {
+      "text": "10 That Changed America",
+      "url": "https://interactive.wttw.com/ten"
+    },
+    {
+      "text": "Art & Design in Chicago",
+      "url": "https://interactive.wttw.com/art-design-chicago"
+    },
+    {
+      "text": "Beyond Chicago from the Air with Geoffrey Baer",
+      "url": "https://interactive.wttw.com/beyond-chicago-from-the-air"
+    },
+    {
+      "text": "Black Voices",
+      "url": "https://news.wttw.com/voices"
+    },
+    {
+      "text": "Check, Please!",
+      "url": "https://checkplease.wttw.com"
+    },
+    {
+      "text": "Chicago by 'L' with Geoffrey Baer",
+      "url": "https://interactive.wttw.com/chicago-by-l"
+    },
+    {
+      "text": "Chicago from the Air with Geoffrey Baer",
+      "url": "https://interactive.wttw.com/chicago-from-the-air/watch"
+    },
+    {
+      "text": "Chicago Tonight",
+      "url": "https://news.wttw.com"
+    },
+    {
+      "text": "Chicago Tonight: Voices",
+      "url": "https://news.wttw.com/voices"
+    },
+    {
+      "text": "Firsthand: Coronavirus",
+      "url": "https://interactive.wttw.com/firsthand/coronavirus"
+    },
+    {
+      "text": "Firsthand: Gun Violence",
+      "url": "https://interactive.wttw.com/firsthand/gun-violence"
+    },
+    {
+      "text": "Firsthand: Living in Poverty",
+      "url": "https://interactive.wttw.com/firsthand/living-in-poverty-coming-soon"
+    },
+    {
+      "text": "The Great Chicago Fire: A Chicago Stories Special",
+      "url": "https://interactive.wttw.com/chicago-stories/chicago-fire"
+    },
+    {
+      "text": "The Great Chicago Quiz Show",
+      "url": "https://interactive.wttw.com/great-chicago-quiz-show"
+    },
+    {
+      "text": "Ida B. Wells: A Chicago Stories Special",
+      "url": "https://interactive.wttw.com/chicago-stories/ida-b-wells"
+    },
+    {
+      "text": "Latino Voices",
+      "url": "https://news.wttw.com/voices"
+    },
+    {
+      "text": "Prehistoric Road Trip",
+      "url": "https://interactive.wttw.com/prehistoric-road-trip"
+    },
+    {
+      "text": "Urban Nature",
+      "url": "https://interactive.wttw.com/urbannature#!/"
+    },
+    {
+      "text": "All Shows",
+      "url": "https://video.wttw.com"
+    },
+    {
+      "text": "Programs",
+      "url": "https://www.wttw.com/programs"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.wttw.com/events"
+    },
+    {
+      "text": "About",
+      "url": "https://www.wttw.com/about"
+    },
+    {
+      "text": "Support",
+      "url": "https://www.wttw.com/support"
+    },
+    {
+      "text": "Live TV",
+      "url": "https://interactive.wttw.com/wttw-live-stream"
+    },
+    {
+      "text": "Passport",
+      "url": "https://interactive.wttw.com/passport"
+    },
+    {
+      "text": "Shop",
+      "url": "https://secure.wttw.com/catalog"
+    },
+    {
+      "text": "Donate",
+      "url": "https://secure.wttw.com"
+    },
+    {
+      "text": "Live TV",
+      "url": "https://interactive.wttw.com/wttw-live-stream"
+    },
+    {
+      "text": "Passport",
+      "url": "https://interactive.wttw.com/passport"
+    },
+    {
+      "text": "Shop",
+      "url": "https://secure.wttw.com/catalog"
+    },
+    {
+      "text": "",
+      "url": "https://news.wttw.com/2022/06/29/bidders-hit-bump-road-chicago-s-asphalt-contract-city-rejects-offers-due-environmental"
+    },
+    {
+      "text": "Bidders Hit Bump in Road for Chicago\u2019s Asphalt Contract. City Rejects Offers Due to Environmental Concerns",
+      "url": "https://news.wttw.com/2022/06/29/bidders-hit-bump-road-chicago-s-asphalt-contract-city-rejects-offers-due-environmental"
+    },
+    {
+      "text": "Read More",
+      "url": "https://news.wttw.com/2022/06/29/bidders-hit-bump-road-chicago-s-asphalt-contract-city-rejects-offers-due-environmental"
+    },
+    {
+      "text": "",
+      "url": "https://news.wttw.com/2022/06/28/incumbents-sean-casten-marie-newman-face-race-illinois-6th-congressional-district"
+    },
+    {
+      "text": "Sean Casten Declares Victory Over Marie Newman in Race of Incumbents in 6th Congressional District",
+      "url": "https://news.wttw.com/2022/06/28/incumbents-sean-casten-marie-newman-face-race-illinois-6th-congressional-district"
+    },
+    {
+      "text": "Read More",
+      "url": "https://news.wttw.com/2022/06/28/incumbents-sean-casten-marie-newman-face-race-illinois-6th-congressional-district"
+    },
+    {
+      "text": "",
+      "url": "https://schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective/"
+    },
+    {
+      "text": "",
+      "url": "/content/nature-whale-detective-0"
+    },
+    {
+      "text": "Nature: The Whale Detective",
+      "url": "https://schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective/"
+    },
+    {
+      "text": "How to Identify Individual Whales",
+      "url": "https://schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective/?tp=c5e63dd2-b7ad-4016-a643-e22fc6646393"
+    },
+    {
+      "text": "Enter the Treasure Hunt!",
+      "url": "https://interactive.wttw.com/sweepstakes-2022"
+    },
+    {
+      "text": "",
+      "url": "https://interactive.wttw.com/sweepstakes-2022"
+    },
+    {
+      "text": "Hotel Portofino Recap: Episode 2",
+      "url": "https://interactive.wttw.com/playlist/2022/06/26/hotel-portofino-recap-episode-2"
+    },
+    {
+      "text": "",
+      "url": "https://interactive.wttw.com/playlist/2022/06/26/hotel-portofino-recap-episode-2"
+    },
+    {
+      "text": "New Chicago Office Aims to Help Formerly Incarcerated People Transition Out of Prison",
+      "url": "https://news.wttw.com/2022/06/26/new-chicago-office-aims-help-formerly-incarcerated-people-transition-out-prison"
+    },
+    {
+      "text": "",
+      "url": "https://news.wttw.com/2022/06/26/new-chicago-office-aims-help-formerly-incarcerated-people-transition-out-prison"
+    },
+    {
+      "text": "The Power of Observation: Empowering Children to Use Their Senses",
+      "url": "https://www.pbs.org/parents/thrive/the-power-of-observation-empowering-children-to-use-their-senses"
+    },
+    {
+      "text": "",
+      "url": "https://www.pbs.org/parents/thrive/the-power-of-observation-empowering-children-to-use-their-senses"
+    },
+    {
+      "text": "",
+      "url": "https://news.wttw.com/2022/06/28/west-side-produce-farm-works-provide-people-autism-life-skills"
+    },
+    {
+      "text": "West Side Produce Farm Works to Provide People With Autism Life Skills",
+      "url": "https://news.wttw.com/2022/06/28/west-side-produce-farm-works-provide-people-autism-life-skills"
+    },
+    {
+      "text": "",
+      "url": "https://interactive.wttw.com/playlist/2022/06/21/ten-iconic-chicago-restaurants"
+    },
+    {
+      "text": "Ten of Chicago's Most Iconic Restaurants",
+      "url": "https://interactive.wttw.com/playlist/2022/06/21/ten-iconic-chicago-restaurants"
+    },
+    {
+      "text": "",
+      "url": "https://interactive.wttw.com/chicago-stories/our-soldiers-our-lady-of-guadalupe/video?v=edward-cervantez"
+    },
+    {
+      "text": "White Sox Bat Boy and Vietnam Soldier",
+      "url": "https://interactive.wttw.com/chicago-stories/our-soldiers-our-lady-of-guadalupe/video?v=edward-cervantez"
+    },
+    {
+      "text": "",
+      "url": "https://news.wttw.com/2022/06/28/everything-you-ve-heard-about-ticks-probably-myth-here-s-what-everyone-even-urbanites"
+    },
+    {
+      "text": "Everything You\u2019ve Heard About Ticks Is Probably a Myth. Here\u2019s What Everyone, Even Urbanites, Needs To Know",
+      "url": "https://news.wttw.com/2022/06/28/everything-you-ve-heard-about-ticks-probably-myth-here-s-what-everyone-even-urbanites"
+    },
+    {
+      "text": "",
+      "url": "https://www.pbs.org/parents/thrive/how-to-talk-to-your-child-about-vaccines"
+    },
+    {
+      "text": "How to Talk to Your Child About Vaccines",
+      "url": "https://www.pbs.org/parents/thrive/how-to-talk-to-your-child-about-vaccines"
+    },
+    {
+      "text": "",
+      "url": "https://interactive.wttw.com/sweepstakes"
+    },
+    {
+      "text": "Grand Prize: 2023 Subaru Crosstrek",
+      "url": "https://interactive.wttw.com/sweepstakes"
+    },
+    {
+      "text": "Learn more",
+      "url": "http://interactive.wttw.com/support/corporate-support"
+    },
+    {
+      "text": "Full Schedule >",
+      "url": "https://schedule.wttw.com/"
+    },
+    {
+      "text": "BBC World News America",
+      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+    },
+    {
+      "text": "PBS NewsHour",
+      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+    },
+    {
+      "text": "Chicago Tonight",
+      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+    },
+    {
+      "text": "Nature",
+      "url": "//schedule.wttw.com/series/88/Nature"
+    },
+    {
+      "text": "The Whale Detective",
+      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+    },
+    {
+      "text": "NOVA",
+      "url": "//schedule.wttw.com/series/54/NOVA"
+    },
+    {
+      "text": "Great Electric Airplane Race",
+      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+    },
+    {
+      "text": "BBC World News America",
+      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+    },
+    {
+      "text": "PBS NewsHour",
+      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+    },
+    {
+      "text": "Chicago Tonight",
+      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+    },
+    {
+      "text": "Nature",
+      "url": "//schedule.wttw.com/series/88/Nature"
+    },
+    {
+      "text": "The Whale Detective",
+      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+    },
+    {
+      "text": "NOVA",
+      "url": "//schedule.wttw.com/series/54/NOVA"
+    },
+    {
+      "text": "Great Electric Airplane Race",
+      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+    },
+    {
+      "text": "BBC World News America",
+      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+    },
+    {
+      "text": "PBS NewsHour",
+      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+    },
+    {
+      "text": "Chicago Tonight",
+      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+    },
+    {
+      "text": "Nature",
+      "url": "//schedule.wttw.com/series/88/Nature"
+    },
+    {
+      "text": "The Whale Detective",
+      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+    },
+    {
+      "text": "NOVA",
+      "url": "//schedule.wttw.com/series/54/NOVA"
+    },
+    {
+      "text": "Great Electric Airplane Race",
+      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+    },
+    {
+      "text": "BBC World News America",
+      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+    },
+    {
+      "text": "PBS NewsHour",
+      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+    },
+    {
+      "text": "Chicago Tonight",
+      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+    },
+    {
+      "text": "Nature",
+      "url": "//schedule.wttw.com/series/88/Nature"
+    },
+    {
+      "text": "The Whale Detective",
+      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+    },
+    {
+      "text": "NOVA",
+      "url": "//schedule.wttw.com/series/54/NOVA"
+    },
+    {
+      "text": "Great Electric Airplane Race",
+      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+    },
+    {
+      "text": "BBC World News America",
+      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+    },
+    {
+      "text": "PBS NewsHour",
+      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+    },
+    {
+      "text": "Chicago Tonight",
+      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+    },
+    {
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+    },
+    {
+      "text": "Nature",
+      "url": "//schedule.wttw.com/series/88/Nature"
+    },
+    {
+      "text": "The Whale Detective",
+      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+    },
+    {
+      "text": "NOVA",
+      "url": "//schedule.wttw.com/series/54/NOVA"
+    },
+    {
+      "text": "Great Electric Airplane Race",
+      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://interactive.wttw.com/newsletter"
+    },
+    {
+      "text": "WTTW News",
+      "url": "https://news.wttw.com"
+    },
+    {
+      "text": "Main",
+      "url": "https://news.wttw.com"
+    },
+    {
+      "text": "Video",
+      "url": "https://news.wttw.com/video"
+    },
+    {
+      "text": "Archive",
+      "url": "https://news.wttw.com/archive"
+    },
+    {
+      "text": "Politics",
+      "url": "https://news.wttw.com/politics"
+    },
+    {
+      "text": "Education",
+      "url": "https://news.wttw.com/education"
+    },
+    {
+      "text": "Business",
+      "url": "https://news.wttw.com/business"
+    },
+    {
+      "text": "Culture",
+      "url": "https://news.wttw.com/culture"
+    },
+    {
+      "text": "Science/Technology",
+      "url": "https://news.wttw.com/science-technology"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://news.wttw.com/contact"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://news.wttw.com/content/wttw-business-partners"
+    },
+    {
+      "text": "About Us",
+      "url": "https://news.wttw.com/about"
+    },
+    {
+      "text": "Internships",
+      "url": "https://interactive.wttw.com/about/employment/internship-program-information"
+    },
+    {
+      "text": "Send Us a Tip",
+      "url": "https://news.wttw.com/contact"
+    },
+    {
+      "text": "Schedule",
+      "url": "https://schedule.wttw.com"
+    },
+    {
+      "text": "WTTW",
+      "url": "https://schedule.wttw.com/"
+    },
+    {
+      "text": "WTTW Prime",
+      "url": "https://schedule.wttw.com/"
+    },
+    {
+      "text": "WTTW Create",
+      "url": "https://schedule.wttw.com/"
+    },
+    {
+      "text": "WTTW/PBS Kids",
+      "url": "https://www.wttw.com/kids"
+    },
+    {
+      "text": "WTTW World",
+      "url": "https://schedule.wttw.com/"
+    },
+    {
+      "text": "Program Guide",
+      "url": "https://www.wttw.com/sites/default/files/WTTWWFMTGuide_June_2022.pdf"
+    },
+    {
+      "text": "Watch",
+      "url": "https://video.wttw.com"
+    },
+    {
+      "text": "All Video",
+      "url": "https://video.wttw.com"
+    },
+    {
+      "text": "Kids Video",
+      "url": "https://www.wttw.com/kids"
+    },
+    {
+      "text": "Live Stream",
+      "url": "https://interactive.wttw.com/wttw-live-stream"
+    },
+    {
+      "text": "Programs",
+      "url": "https://www.wttw.com/programs"
+    },
+    {
+      "text": "Programs A-Z",
+      "url": "https://www.wttw.com/programs"
+    },
+    {
+      "text": "Playlist",
+      "url": "https://interactive.wttw.com/playlist"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.wttw.com/events"
+    },
+    {
+      "text": "Event Calendar",
+      "url": "https://www.wttw.com/events"
+    },
+    {
+      "text": "About",
+      "url": "https://interactive.wttw.com/about/mission"
+    },
+    {
+      "text": "Our Mission",
+      "url": "https://interactive.wttw.com/about/mission"
+    },
+    {
+      "text": "Our History",
+      "url": "https://interactive.wttw.com/about/history"
+    },
+    {
+      "text": "Our Sponsors",
+      "url": "https://interactive.wttw.com/about/sponsors"
+    },
+    {
+      "text": "Chicago Production Center",
+      "url": "https://cpc.wttw.com/"
+    },
+    {
+      "text": "Local Productions",
+      "url": "https://interactive.wttw.com/about/productions/wttw-local-productions"
+    },
+    {
+      "text": "National Syndication",
+      "url": "https://interactive.wttw.com/about/productions/wttw-national-productions"
+    },
+    {
+      "text": "Pressroom",
+      "url": "https://interactive.wttw.com/about/pressroom"
+    },
+    {
+      "text": "Management & Board",
+      "url": "https://interactive.wttw.com/about/management-board"
+    },
+    {
+      "text": "Advisory Board",
+      "url": "https://interactive.wttw.com/about/community-advisory-board"
+    },
+    {
+      "text": "Financial Information",
+      "url": "https://interactive.wttw.com/about/financial-information"
+    },
+    {
+      "text": "Employment",
+      "url": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/jobSearch?org=WWCI&cws=40"
+    },
+    {
+      "text": "Volunteer",
+      "url": "https://interactive.wttw.com/volunteer"
+    },
+    {
+      "text": "Directions",
+      "url": "https://interactive.wttw.com/about/location"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://interactive.wttw.com/about/contact-us"
+    },
+    {
+      "text": "Support",
+      "url": "https://interactive.wttw.com/support"
+    },
+    {
+      "text": "Support WTTW",
+      "url": "https://interactive.wttw.com/support"
+    },
+    {
+      "text": "Join/Renew - Pledge",
+      "url": "https://secure.wttw.com/"
+    },
+    {
+      "text": "Offers & Contests",
+      "url": "https://interactive.wttw.com/support/contests"
+    },
+    {
+      "text": "Member Perks",
+      "url": "https://interactive.wttw.com/support/membership/member-perks"
+    },
+    {
+      "text": "Membership",
+      "url": "https://interactive.wttw.com/support/membership"
+    },
+    {
+      "text": "Family Membership",
+      "url": "https://interactive.wttw.com/support/membership/kidsclub"
+    },
+    {
+      "text": "Corporate/Foundation Gifts",
+      "url": "https://interactive.wttw.com/support/corporate-support"
+    },
+    {
+      "text": "Major/Planned Gifts",
+      "url": "https://wttw.giftplans.org/"
+    },
+    {
+      "text": "Vehicle Donation",
+      "url": "https://interactive.wttw.com/support/vehicle-donation"
+    },
+    {
+      "text": "Volunteer",
+      "url": "https://interactive.wttw.com/volunteer"
+    },
+    {
+      "text": "Membership FAQs",
+      "url": "https://interactive.wttw.com/support/membership"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://interactive.wttw.com/about/contact-us"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://interactive.wttw.com/wwci-privacy-policy"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://interactive.wttw.com/terms-of-use"
+    },
+    {
+      "text": "Public File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/wttw"
+    },
+    {
+      "text": "WWCI",
+      "url": "https://interactive.wttw.com/about/mission"
+    },
+    {
+      "text": "",
+      "url": "https://www.wfmt.com"
+    },
+    {
+      "text": "",
+      "url": "https://interactive.wttw.com/sweepstakes-2022/enter?s=T-SWP-May22-WB-Overlay-02"
+    }
   ]
 }

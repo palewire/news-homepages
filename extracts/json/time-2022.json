@@ -1,5 +1,5 @@
 {
-  "created": 1656462343,
+  "created": 1656546175,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/28/items/time-2022",
@@ -646,31 +646,241 @@
       "sha1": "53a818626c91bff4c6e285678cbc5f1a53ccbc9e"
     },
     {
+      "name": "time-2022-06-28T21:51:45.396287-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656467508",
+      "size": "40473",
+      "md5": "4e0adc2e06128c25440d0502542d1c1e",
+      "crc32": "358748be",
+      "sha1": "5b3b74454d99fb41d4442149211998589189dcc6",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-28T21:51:45.396287-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656467509",
+      "size": "48048",
+      "md5": "add2a12a1fc9f9e3b7e132769eb68980",
+      "crc32": "8c804caf",
+      "sha1": "15e202795d69af0f1811a4affcec193da518cca2",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-28T21:51:45.396287-04:00.jpg",
+      "source": "original",
+      "mtime": "1656467506",
+      "size": "286052",
+      "md5": "a737b0e11caa86795c0c978a6e2da7cb",
+      "crc32": "2c1cc691",
+      "sha1": "aef8e872bbfcd55deab35a038eb4ea1b8e160034",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-06-28T21:51:45.396287-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-06-28T21:51:45.396287-04:00.jpg",
+      "mtime": "1656467554",
+      "size": "11066",
+      "md5": "fa3bdb23178791afe385b720fba00968",
+      "crc32": "0c30db50",
+      "sha1": "6c420cada745732126cb4ecf2ec17c87c6dc63b4"
+    },
+    {
+      "name": "time-2022-06-29T05:44:39.581732-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656495883",
+      "size": "40846",
+      "md5": "a4fcbf545983c2643c1ab16ef0c93d06",
+      "crc32": "bac5d188",
+      "sha1": "df4c3098ff859e55b04f3262345bdeeafa67dc52",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-29T05:44:39.581732-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656495884",
+      "size": "47919",
+      "md5": "4fb0ad36415199718f7b9d802714bd46",
+      "crc32": "b59626f0",
+      "sha1": "570d4ea275ab6e59359c44bde3689291882962dc",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-29T05:44:39.581732-04:00.jpg",
+      "source": "original",
+      "mtime": "1656495881",
+      "size": "268648",
+      "md5": "c9850d8420390d9b302fd0226a8b5342",
+      "crc32": "2e166ab7",
+      "sha1": "6dc1bf07a8c5e5411daaa5d70a6edba31a5e339f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-06-29T05:44:39.581732-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-06-29T05:44:39.581732-04:00.jpg",
+      "mtime": "1656495978",
+      "size": "10729",
+      "md5": "066911c7c4b20e296835213ea41a008c",
+      "crc32": "dad1f9c0",
+      "sha1": "38227af74d9bf55a4edc284a95f1608dee764c98"
+    },
+    {
+      "name": "time-2022-06-29T13:54:38.884885-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656525282",
+      "size": "39589",
+      "md5": "918191a3c8b98f7798d8a542673b97c2",
+      "crc32": "d5d6b546",
+      "sha1": "36eed759dd6c1d36c40516e4f0d657e97dbf4b05",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-29T13:54:38.884885-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656525284",
+      "size": "47848",
+      "md5": "b965cae048fb5e604b388f12259c2a91",
+      "crc32": "62ea875f",
+      "sha1": "2c390de6916dc3af2473e0f30f9cad83c23c4fc3",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-29T13:54:38.884885-04:00.jpg",
+      "source": "original",
+      "mtime": "1656525281",
+      "size": "285255",
+      "md5": "1f4cbb981d7c02fccf1ac279cc5e1552",
+      "crc32": "b5d9d1fa",
+      "sha1": "c17209d4e718053b79d172ed6096c4177382dd75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-06-29T13:54:38.884885-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-06-29T13:54:38.884885-04:00.jpg",
+      "mtime": "1656525363",
+      "size": "10849",
+      "md5": "92ccb2021a843d85e482987ee1694b9f",
+      "crc32": "979eada5",
+      "sha1": "1e5b84bfd9db7d20789394a5aaaf9f59a59e7776"
+    },
+    {
+      "name": "time-2022-06-29T17:09:58.628246-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656537002",
+      "size": "40532",
+      "md5": "5e309d01f2b482c22a3d0f3e3cb005b3",
+      "crc32": "82b569a8",
+      "sha1": "297887568f708366d635ddf1e6b60b8fa15c86f9",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-29T17:09:58.628246-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656537004",
+      "size": "48048",
+      "md5": "369f975e09dbef03f02f364537d519d3",
+      "crc32": "db6f0e65",
+      "sha1": "0e796884467b02c25acd04100826706bd11e0f4f",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-29T17:09:58.628246-04:00.jpg",
+      "source": "original",
+      "mtime": "1656537000",
+      "size": "289847",
+      "md5": "10dc22a2b012f0f1531fb68d2e6529fb",
+      "crc32": "71c0c312",
+      "sha1": "535130bc47f28867070b1e6eccdaac8ff5c03958",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-06-29T17:09:58.628246-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-06-29T17:09:58.628246-04:00.jpg",
+      "mtime": "1656537055",
+      "size": "10892",
+      "md5": "e253514cee6aaf3321b677a0dc98406c",
+      "crc32": "44aeb3ec",
+      "sha1": "73b0ef0766beea0d1b8486b83ece358560bc089f"
+    },
+    {
+      "name": "time-2022-06-29T19:13:06.700907-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656544388",
+      "size": "40872",
+      "md5": "99c37b779c958775163baa437b9a0d84",
+      "crc32": "5bce6410",
+      "sha1": "67a39feeb75b0a8e2f023d76bf316f7a779ae939",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-29T19:13:06.700907-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656544390",
+      "size": "48314",
+      "md5": "a820069dfed6a09c4755598f369a8329",
+      "crc32": "dc5dd0a0",
+      "sha1": "bc0893d43506616fa8d9248f113feca9904d8562",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-06-29T19:13:06.700907-04:00.jpg",
+      "source": "original",
+      "mtime": "1656544387",
+      "size": "286754",
+      "md5": "e14e7bc27856a0c60a4d3ca7b539e33a",
+      "crc32": "e752805b",
+      "sha1": "d1ffcac5c00712dbb2190b9869c603fec257a43f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-06-29T19:13:06.700907-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-06-29T19:13:06.700907-04:00.jpg",
+      "mtime": "1656544439",
+      "size": "10867",
+      "md5": "c8ce2fa8e8b0d086bc37f89d468778d5",
+      "crc32": "962091d2",
+      "sha1": "f1940166989715e58ebd941e83c1b7e1ed0ade13"
+    },
+    {
       "name": "time-2022_archive.torrent",
       "source": "metadata",
-      "btih": "be8b08ae03e81a74b6bb5bce5b46e2368115d482",
-      "mtime": "1656438517",
-      "size": "14017",
-      "md5": "4e70fc327e6f991def2a7133eacfa7da",
-      "crc32": "539ae9e4",
-      "sha1": "5eeacf1294a100b4ac75d32351613ed7ec115f58",
+      "btih": "4c63f5d20b35ae749a76cc1ec07b2450cb034b63",
+      "mtime": "1656544442",
+      "size": "18148",
+      "md5": "5e84b1f5c2ff1e258b20977c9448a9a2",
+      "crc32": "0d58fd31",
+      "sha1": "16ce9ec7f7ac34d8f14d1bb5185c5b3d2a8987a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "time-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8496be885590b0be771c894c20ea3bbd",
+      "md5": "92d8a01bef9d26c27e41bef84588f785",
       "summation": "md5"
     },
     {
       "name": "time-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656438470",
-      "size": "81920",
-      "md5": "b676dda893c9f063bf0c071f8a82f6b9",
-      "crc32": "657c5c35",
-      "sha1": "4b3df49bc83a8fc26d30d21f70ccc62b486fccfd",
+      "mtime": "1656544393",
+      "size": "110592",
+      "md5": "92d4aa9ab59c4ba73e5426c37ea4bdb3",
+      "crc32": "06642ce0",
+      "sha1": "9393b2ca823ff335176554ea6c91c44e11965809",
       "format": "Metadata"
     },
     {
@@ -684,9 +894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1656438517,
-  "item_size": 5807640,
+  "files_count": 85,
+  "item_last_updated": 1656544442,
+  "item_size": 7753891,
   "metadata": {
     "identifier": "time-2022",
     "collection": [
@@ -704,885 +914,7 @@
     "addeddate": "2022-06-24 23:04:02"
   },
   "server": "ia801500.us.archive.org",
-  "time-2022": [
-    {
-      "text": "Sign Up for Our Newsletter \n              \n                \n                \n              \n            ",
-      "url": "https://cloud.newsletters.time.com/newsletters/?source=TD_CMS_HP_Nav"
-    },
-    {
-      "text": "\n                      \n                        TIME logo\n                        \n                      \n                  ",
-      "url": "/"
-    },
-    {
-      "text": "\n                    Sign In\n                  ",
-      "url": "#"
-    },
-    {
-      "text": "Manage Account",
-      "url": "/manage-account-header"
-    },
-    {
-      "text": "Digital Magazines",
-      "url": "https://geo.ema.gs/timegeo"
-    },
-    {
-      "text": "Subscriber Benefits",
-      "url": "/subscriber-benefits"
-    },
-    {
-      "text": "Help Center",
-      "url": "https://time.com/help"
-    },
-    {
-      "text": "Sign Out",
-      "url": ""
-    },
-    {
-      "text": "\n                            SUBSCRIBE FOR 99\u00a2\n                  ",
-      "url": "/subscribe-header-time"
-    },
-    {
-      "text": "\n                      \n                        TIME logo\n                        \n                      \n                  ",
-      "url": "/"
-    },
-    {
-      "text": "\n                            \n                                      SUBSCRIBE FOR 99\u00a2\n                            \n                            Subscribe\n                          ",
-      "url": "/subscribe-header-time"
-    },
-    {
-      "text": "\n                         Spotlight Story \n                        Anti-Abortion Centers' Databases Could Be Weaponized Post-Roe\n                      ",
-      "url": "https://time.com/6189528/anti-abortion-pregnancy-centers-collect-data-investigation/"
-    },
-    {
-      "text": "Manage Account",
-      "url": "/manage-account"
-    },
-    {
-      "text": "Digital\n                        Magazines",
-      "url": "https://geo.ema.gs/timegeo"
-    },
-    {
-      "text": "Subscriber Benefits",
-      "url": "/subscriber-benefits"
-    },
-    {
-      "text": "Help Center",
-      "url": "https://time.com/help"
-    },
-    {
-      "text": "Sign Out",
-      "url": ""
-    },
-    {
-      "text": "\n                    Sign In\n                  ",
-      "url": "/login-hamburger"
-    },
-    {
-      "text": "\n                      Home\n                    ",
-      "url": "https://time.com"
-    },
-    {
-      "text": "\n                      U.S.\n                    ",
-      "url": "https://time.com/section/us/"
-    },
-    {
-      "text": "\n                      Politics\n                    ",
-      "url": "https://time.com/section/politics/"
-    },
-    {
-      "text": "\n                      World\n                    ",
-      "url": "https://time.com/section/world/"
-    },
-    {
-      "text": "\n                      Health\n                    ",
-      "url": "https://time.com/section/health/"
-    },
-    {
-      "text": "\n                      Climate\n                    ",
-      "url": "https://time.com/section/climate/"
-    },
-    {
-      "text": "\n                      Personal Finance by NextAdvisor\n                    ",
-      "url": "https://time.com/nextadvisor/?utm_source=time&utm_medium=referral&utm_campaign=time_hb_nav"
-    },
-    {
-      "text": "\n                      Future of Work by Charter\n                    ",
-      "url": "https://time.com/charter/"
-    },
-    {
-      "text": "\n                      Business\n                    ",
-      "url": "https://time.com/section/business/"
-    },
-    {
-      "text": "\n                      Tech\n                    ",
-      "url": "https://time.com/section/tech/"
-    },
-    {
-      "text": "\n                      Entertainment\n                    ",
-      "url": "https://time.com/section/entertainment/"
-    },
-    {
-      "text": "\n                      Ideas\n                    ",
-      "url": "https://time.com/section/ideas/"
-    },
-    {
-      "text": "\n                      Science\n                    ",
-      "url": "https://time.com/section/science/"
-    },
-    {
-      "text": "\n                      History\n                    ",
-      "url": "https://time.com/section/history/"
-    },
-    {
-      "text": "\n                      Sports\n                    ",
-      "url": "https://time.com/section/sports/"
-    },
-    {
-      "text": "\n                      Magazine\n                    ",
-      "url": "https://time.com/magazine"
-    },
-    {
-      "text": "\n                      TIME 2030\n                    ",
-      "url": "https://time.com/time2030"
-    },
-    {
-      "text": "\n                      TIME Studios\n                    ",
-      "url": "https://time.com/studios/"
-    },
-    {
-      "text": "\n                      Video\n                    ",
-      "url": "https://time.com/collection/video/"
-    },
-    {
-      "text": "\n                      TIME100 Talks\n                    ",
-      "url": "https://time.com/collection/time100-talks/"
-    },
-    {
-      "text": "\n                      TIMEPieces\n                    ",
-      "url": "https://time.com/collection/timepieces-nft/"
-    },
-    {
-      "text": "\n                      The TIME Vault\n                    ",
-      "url": "https://time.com/vault/"
-    },
-    {
-      "text": "\n                      TIME for Health\n                    ",
-      "url": "https://time.com/collection/live-well/"
-    },
-    {
-      "text": "\n                      TIME for Kids\n                    ",
-      "url": "https://www.timeforkids.com"
-    },
-    {
-      "text": "\n                      TIME Edge\n                    ",
-      "url": "https://www.timeedge.com/login"
-    },
-    {
-      "text": "\n                      Red Border: Branded Content by TIME\n                    ",
-      "url": "http://time.com/partners/branded-content"
-    },
-    {
-      "text": "\n                      Newsletters\n                    ",
-      "url": "https://time.com/newsletters/?source=time_nav"
-    },
-    {
-      "text": "\n                      Subscribe\n                    ",
-      "url": "https://time.com/subscribe-hamburger-time"
-    },
-    {
-      "text": "\n                      Subscriber Benefits\n                    ",
-      "url": "https://time.com/subscriber-benefits/"
-    },
-    {
-      "text": "\n                      Give a Gift\n                    ",
-      "url": "https://time.com/give-a-gift/"
-    },
-    {
-      "text": "\n                      Shop the TIME Store\n                    ",
-      "url": "https://timecoverstore.com/"
-    },
-    {
-      "text": "\n                      Connect Wallet\n                    ",
-      "url": "https://time.com/connect-crypto-wallet/"
-    },
-    {
-      "text": "\n                      US & Canada\n                    ",
-      "url": "https://support.time.com/hc/en-us"
-    },
-    {
-      "text": "\n                      Global Help Center\n                    ",
-      "url": "https://support.time.com/hc/en-us/sections/1500001791741"
-    },
-    {
-      "text": "\n                      Careers\n                    ",
-      "url": "https://time.com/longform/join-time/"
-    },
-    {
-      "text": "\n                      Press Room\n                    ",
-      "url": "https://time.com/section/press-room/"
-    },
-    {
-      "text": "\n                      Contact the Editors\n                    ",
-      "url": "mailto:letters@time.com"
-    },
-    {
-      "text": "\n                      Media Kit\n                    ",
-      "url": "http://time.com/mediakit"
-    },
-    {
-      "text": "\n                      Reprints and Permissions\n                    ",
-      "url": "https://www.parsintl.com/publication/time"
-    },
-    {
-      "text": "\n                      Privacy Policy\n                    ",
-      "url": "https://time.com/privacy/generic_privacy_new.html"
-    },
-    {
-      "text": "\n                      Your California Privacy Rights\n                    ",
-      "url": "https://time.com/privacy/generic_privacy_new.html#_Toc26698205"
-    },
-    {
-      "text": "\n                      Terms of Use\n                    ",
-      "url": "https://time.com/privacy/privacy_terms_service.html"
-    },
-    {
-      "text": "\n                      Site Map\n                    ",
-      "url": "https://time.com/html-sitemap/"
-    },
-    {
-      "text": "\n                      \n                        \n                      \n                          ",
-      "url": "https://www.facebook.com/time"
-    },
-    {
-      "text": "\n                      \n                        \n                      \n                          ",
-      "url": "https://www.instagram.com/time/?hl=en"
-    },
-    {
-      "text": "\n                      \n                        \n                      \n                          ",
-      "url": "https://twitter.com/time"
-    },
-    {
-      "text": "\n                      \n                        \n                      \n                          ",
-      "url": "https://www.pinterest.com/timemagazine"
-    },
-    {
-      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
-      "url": "/6191737/abortion-biden-democrats-legal/"
-    },
-    {
-      "text": "\n                Democrats Want Biden to Do More on Abortion, But He Faces Tricky Legal Challenges\n              ",
-      "url": "/6191737/abortion-biden-democrats-legal/"
-    },
-    {
-      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
-      "url": "/6191581/abortion-safe-haven-states/"
-    },
-    {
-      "text": "\n                What Abortion Safe Haven States Can Do\n              ",
-      "url": "/6191581/abortion-safe-haven-states/"
-    },
-    {
-      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
-      "url": "/6191303/abortion-2022-elections-roe-v-wade/"
-    },
-    {
-      "text": "\n                By Overturning Roe v. Wade, Supreme Court Makes Abortion a Top Election Issue\n              ",
-      "url": "/6191303/abortion-2022-elections-roe-v-wade/"
-    },
-    {
-      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
-      "url": "/6190443/nato-summit-2022/"
-    },
-    {
-      "text": "\n                The 2022 NATO Summit Could Be the Most Important in Recent Decades. Here's Why\n              ",
-      "url": "/6190443/nato-summit-2022/"
-    },
-    {
-      "text": "\n                    Mary J. Blige Is on the 2022 TIME 100 List\n                  ",
-      "url": "/collection/100-most-influential-people-2022/6177743/mary-j-blige/"
-    },
-    {
-      "text": "Climate",
-      "url": "https://time.com/climate"
-    },
-    {
-      "text": "\n                    Planet Earth\u2019s Future Now Rests in the Hands of Big Business\n                  ",
-      "url": "/6166178/earths-future-big-business/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://time.com/politics"
-    },
-    {
-      "text": "\n                    Who is Cassidy Hutchinson, the Jan. 6 Committee's Latest Witness?\n                  ",
-      "url": "/6191821/cassidy-hutchinson-jan-6-witness/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://time.com/entertainment"
-    },
-    {
-      "text": "\n                    Only Murders in the Building Season 2 Wisely Sticks to a Winning Formula\n                  ",
-      "url": "/6190642/only-murders-in-the-building-season-2-review/"
-    },
-    {
-      "text": "\n                    ",
-      "url": "/6191760/texas-truck-migrants-heat/"
-    },
-    {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          Texas\n                        46 Dead After Trailer Carrying Migrants Found in San Antonio\n                        \n                            eric gay and elliot spagat / ap                \n                    \n                    \n                  ",
-      "url": "/6191760/texas-truck-migrants-heat/"
-    },
-    {
-      "text": "\n                    ",
-      "url": "/6190996/how-abortion-funds-work/"
-    },
-    {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          abortion\n                        What Abortion Funds Are and How They Work\n                        \n                            eliana dockterman                \n                    \n                    \n                  ",
-      "url": "/6190996/how-abortion-funds-work/"
-    },
-    {
-      "text": "\n                    ",
-      "url": "/6191385/biden-signs-gun-violence-bill/"
-    },
-    {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          Biden Administration\n                        President Biden Signs Landmark Gun Measure\n                        \n                            will weissert / ap                \n                    \n                    \n                  ",
-      "url": "/6191385/biden-signs-gun-violence-bill/"
-    },
-    {
-      "text": "\n                    ",
-      "url": "/6190401/home-covid-19-tests-experts/"
-    },
-    {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          COVID-19\n                        How to Use At-Home COVID-19 Tests, According to Experts\n                        \n                            jeffrey kluger                \n                    \n                    \n                  ",
-      "url": "/6190401/home-covid-19-tests-experts/"
-    },
-    {
-      "text": "\n                    ",
-      "url": "/6190852/protests-roe-v-wade-photos-supreme-court/"
-    },
-    {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          Supreme Court\n                        Protests After Roe v. Wade Overturned: See Photos\n                        \n                            katie reilly                \n                    \n                    \n                  ",
-      "url": "/6190852/protests-roe-v-wade-photos-supreme-court/"
-    },
-    {
-      "text": "Subscribe to The Coronavirus Brief",
-      "url": "https://time.com/newsletters/?source=SI+hp+link+mid+&newsletter_name=coronavirus"
-    },
-    {
-      "text": "\n          \n          \n            \n              \n            \n          \n          \n          \n          \n          \n          \n          \n        ",
-      "url": "https://time.com/5800901/coronavirus-map/"
-    },
-    {
-      "text": "\n          \n          \n            \n              \n            \n          \n          \n          \n          \n          \n          \n          \n        ",
-      "url": "https://time.com/5800901/coronavirus-map/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        1 in 5 People Who Get COVID-19 Develop Lingering Conditions\n                            Lung and respiratory issues are the most common\n                      \n                    \n                  ",
-      "url": "/6180861/covid-19-health-problems-after-recovery/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Why the Gym Is Risky for COVID-19\n                      \n                    \n                  ",
-      "url": "/6180385/gym-covid-19-risk-tips/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Air Pollution May Increase the Risk of Severe COVID-19\n                      \n                    \n                  ",
-      "url": "/6180749/air-pollution-covid-19/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        COVID-19 In Kids Under 5: What Parents Should Know\n                      \n                    \n                  ",
-      "url": "/6170315/omicron-covid-19-risks-kids-under-5/"
-    },
-    {
-      "text": "\n            Video\n          ",
-      "url": "/collection/video/"
-    },
-    {
-      "text": "kimiko matsuda-lawrence",
-      "url": "https://time.com/author/kimiko-matsuda-lawrence/"
-    },
-    {
-      "text": "\n                On Being Black and Asian in America\n              ",
-      "url": "/6172685/being-black-asian-america-essay/"
-    },
-    {
-      "text": "sara herchenroether",
-      "url": "https://time.com/author/sara-herchenroether/"
-    },
-    {
-      "text": "\n                I Thought I Had to Breastfeed My Babies. Then I Lost My Breasts\n              ",
-      "url": "/6177980/breastfeeding-formula-cancer/"
-    },
-    {
-      "text": "shoshana zuboff",
-      "url": "https://time.com/author/shoshana-zuboff/"
-    },
-    {
-      "text": "\n                Democracy Can Still End Big Tech's Dominance Over Our Lives\n              ",
-      "url": "/6173639/democracy-big-techs-dominance-shoshana-zuboff/"
-    },
-    {
-      "text": "ruth millington",
-      "url": "https://time.com/author/ruth-millington/"
-    },
-    {
-      "text": "\n                Dora Maar's Anti-Fascist Worldview Influenced Picasso's Art\n              ",
-      "url": "/6172547/picasso-dora-maar-anti-fascist-influence-art/"
-    },
-    {
-      "text": "suriya jayanti",
-      "url": "https://time.com/author/suriya-jayanti/"
-    },
-    {
-      "text": "\n                Ukraine Is in Worse Shape than You Think\n              ",
-      "url": "/6176748/ukraine-war-economy/"
-    },
-    {
-      "text": "vangela m. wade",
-      "url": "https://time.com/author/vangela-m-wade/"
-    },
-    {
-      "text": "\n                Don\u2019t Use Racial Equality to Justify Stripping Women of Their Right to Choose\n              ",
-      "url": "/6177542/abortion-supreme-court-racial-equality/"
-    },
-    {
-      "text": "\n                Billionaires Are Racing to Space\u2014and the Climate is Paying the Price\n              ",
-      "url": "/6191846/billionaire-space-race-climate/"
-    },
-    {
-      "text": "\n                Public Opinion About Gender Identity Is Increasingly Complex\n              ",
-      "url": "/6191662/gender-sex-transgender-rights-pew/"
-    },
-    {
-      "text": "\n                Which COVID-19 Vaccine Should Your Kid Get?\n              ",
-      "url": "/6190753/covid-19-vaccine-kids-pfizer-or-moderna/"
-    },
-    {
-      "text": "\n                'Honey & Spice' Is a Deliciously Modern Love Story\n              ",
-      "url": "/6189585/honey-and-spice-bolu-babalola-review/"
-    },
-    {
-      "text": "\n                Who is Cassidy Hutchinson, the Jan. 6 Committee's Latest Witness?\n              ",
-      "url": "/6191821/cassidy-hutchinson-jan-6-witness/"
-    },
-    {
-      "text": "\n                G-7 Launches Climate Club to Try and Avoid Green Trade Wars\n              ",
-      "url": "/6191816/g-7-climate-club-tariffs-2022/"
-    },
-    {
-      "text": "TIME.com",
-      "url": "http://time.com/"
-    },
-    {
-      "text": "\n          \n            subscribe now\n          \n        ",
-      "url": "https://time.com/subscribe-body-time/"
-    },
-    {
-      "text": "\n        \n          \n          \n          \n        \n        ",
-      "url": "https://time.com/subscribe-body-time/"
-    },
-    {
-      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
-      "url": "https://time.com/collection/time100-talks/"
-    },
-    {
-      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
-      "url": "https://ti.me/3dinygr"
-    },
-    {
-      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
-      "url": "https://timecoverstore.com/"
-    },
-    {
-      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
-      "url": "https://time.com/tag/climate-is-everything/"
-    },
-    {
-      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
-      "url": "https://www.timeforkids.com/family/"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://time.com/collection/time100-talks/"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://ti.me/3dinygr"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://timecoverstore.com/"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://time.com/tag/climate-is-everything/"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://www.timeforkids.com/family/"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://time.com/privacy/privacy_terms_service.html"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://time.com/privacy/privacy_policy.html"
-    },
-    {
-      "text": "\n              Ukraine Under Attack\n            ",
-      "url": "https://time.com/tag/ukraine/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                            \n                              Ciril Jazbec for TIME\n        \n                            \n                        \n        \n                      \n                        Inside Ukraine Soccer Team\u2019s World Cup Bid\n                            The players hope to raise morale as the war grinds on at home\u2014but first, they have to beat Scotland.\n                      \n                    \n                  ",
-      "url": "/6181469/world-cup-ukraine-soccer-fifa/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        The Foreign Women Joining Ukraine\u2019s Fight Against Russia  \n                      \n                    \n                  ",
-      "url": "/6174161/foreign-women-fighters-ukraine-volunteers/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Inside Zelensky's World\n                      \n                    \n                  ",
-      "url": "/6171277/volodymyr-zelensky-interview-ukraine-war/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        U.S. Welcomes Ukrainians\u2014But Without Benefits\n                      \n                    \n                  ",
-      "url": "/6170334/ukrainian-refugees-biden-program/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        5 Ukrainian Photographers Document the War \n                      \n                    \n                  ",
-      "url": "/6167254/ukraine-photographers-document-war/"
-    },
-    {
-      "text": "\n              The 46th President\n            ",
-      "url": "https://time.com/tag/joe-biden/"
-    },
-    {
-      "text": "Subscribe to our politics newsletter",
-      "url": "https://time.com/newsletters/?source=SI+hp+link+mid+&newsletter_name=politics"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                            \n                              Stefani Reynolds\u2014AFP/Getty\n                            \n                        \n        \n                      \n                        Buffalo Exposes Limits Of Biden's Domestic Terror Strategy\n                            \u201cThis is not 2001, where we\u2019re wondering why radicalization happens.\"\n                      \n                    \n                  ",
-      "url": "/6177847/biden-pledged-to-defeat-domestic-terror-buffalo-why-thats-not-enough/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Politicians Created the Formula Shortage. Can They Fix It?\n                      \n                    \n                  ",
-      "url": "/6177128/baby-formula-congress-monopoly-abbott/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Remain in Mexico Battle Shows Flawed U.S. Immigration Policy\n                      \n                    \n                  ",
-      "url": "/6169724/remain-in-mexico-battle-supreme-court/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Biden's Abortion Stance and Catholic Faith Have Never Been More at Odds\n                      \n                    \n                  ",
-      "url": "/6176375/bidens-abortion-catholic-democrats/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Biden Tries to Stop and Document Russian Atrocities in Ukraine\n                      \n                    \n                  ",
-      "url": "/6164972/biden-russia-war-crimes-document/"
-    },
-    {
-      "text": "\n              Race in America\n            ",
-      "url": "https://time.com/tag/identity"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        America Needs to Examine Its Relationship to Black Suffering\n                            Thirty years ago, all four Los Angeles Police Department officers involved in the beating of Rodney King were acquitted. Less than a year ago, the officer who killed George Floyd was convicted of second-degree murder,\n                      \n                    \n                  ",
-      "url": "/6180833/americans-images-of-black-suffering/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        On Being Black and Asian in America\n                      \n                    \n                  ",
-      "url": "/6172685/being-black-asian-america-essay/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Minneapolis' Struggle to Reform Police After George Floyd\n                      \n                    \n                  ",
-      "url": "/6180605/minneapolis-police-reform-george-floyd-murder/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        I Moved to America for a Better Life. Here's Why I'm Leaving\n                      \n                    \n                  ",
-      "url": "/6164750/leaving-america-vietnam/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        The Growing Racial Gap in Childhood Exposure to Gun Violence\n                      \n                    \n                  ",
-      "url": "/6163507/gun-violence-pandemic-disparity/"
-    },
-    {
-      "text": "Subscribe to the Leadership Brief newsletter",
-      "url": "https://time.com/newsletters/?source=SI+hp+mod+mid+&newsletter_name=the_brief"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Inside the Release of Unreal Engine 5\n                            TIME got exclusive access to developers and artists who have already started using Unreal Engine 5. Here\u2019s what\u2019s under the hood\n                      \n                    \n                  ",
-      "url": "/6164332/epic-unreal-engine-5-launch/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        3D-Printed Homes Could Help Solve Affordable Housing Crisis\n                      \n                    \n                  ",
-      "url": "/6162775/tiktok-3d-printed-houses/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        This Tech Leader is Harnessing Collective Action to Green the Grid\n                      \n                    \n                  ",
-      "url": "/6162201/open-source-green-grid/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Why Crypto Scams Are Driving an Online Crime Boom \u2014 And How to Outsmart Them\n                      \n                    \n                  ",
-      "url": "/6162350/crypto-scams-online-crime-boom/"
-    },
-    {
-      "text": "\n              Future of Work\n            ",
-      "url": "https://time.com/charter/"
-    },
-    {
-      "text": "Subscribe to the Charter newsletter",
-      "url": "https://www.charterworks.com/newsletter/?utm_source=time&utm_medium=nav&utm_campaign=timelaunch"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        To Relax Outside of Work This Summer, Rethink Your Workday\n                            Rather than treat rest as something that happens off the clock, employees and companies can build it into the way work is done.\n                      \n                    \n                  ",
-      "url": "/charter/6191754/summer-vacation-rest-self-care/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        4 Experts on How Workplaces Will Respond to the Loss of Roe v. Wade\n                      \n                    \n                  ",
-      "url": "/charter/6191594/workplaces-roe-v-wade/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        What Workplace Leaders Can Learn from Lizzo\u2019s Apology\n                      \n                    \n                  ",
-      "url": "/charter/6190644/lizzo-apology/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Reimagining a New York City Landmark for the Future of Work\n                      \n                    \n                  ",
-      "url": "/charter/6190058/lever-house/"
-    },
-    {
-      "text": "\n              Personal Finance by NextAdvisor\n            ",
-      "url": "https://time.com/nextadvisor/"
-    },
-    {
-      "text": "Subscribe to the NextAdvisor newsletter",
-      "url": "https://time.com/nextadvisor/subscribe/?utm_source=time&utm_medium=referral&utm_campaign=time_sub"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        How I'm Making My Kids Millionaires By Hiring Them and Investing Their Income\n                      \n                    \n                  ",
-      "url": "/nextadvisor/investing/investing-for-kids-custodial-roth-ira/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Mortgage Rates Are Rising Fast. Here's What It Means for You\n                      \n                    \n                  ",
-      "url": "/nextadvisor/mortgages/rates/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Bitcoin's Price: What New Crypto Investors Should Know\n                      \n                    \n                  ",
-      "url": "/nextadvisor/investing/cryptocurrency/price/bitcoin-btc/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Investing for Beginners: How to Get Started\n                      \n                    \n                  ",
-      "url": "/nextadvisor/investing/investing-for-beginners/"
-    },
-    {
-      "text": "\n              Climate Is Everything\n            ",
-      "url": "https://time.com/tag/climate-change/"
-    },
-    {
-      "text": "Subscribe to the climate newsletter",
-      "url": "https://time.com/newsletters/?source=SI+hp+link+mid+&newsletter_name=climate"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        This Is How We Quit Big Oil\n                            At the end of the first quarter of 2021, as the CEOs of the three biggest U.S. oil and gas companies presented their firms\u2019 earnings, investors fired off a range of questions about how they\n                      \n                    \n                  ",
-      "url": "/6175206/black-gold-fossil-fuel-industry/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Warmer Winters Are Erasing Alaskan Native Traditions in the Arctic\n                      \n                    \n                  ",
-      "url": "/6170359/climate-change-alaska-native-traditions/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Outdoor Workers Have Little Protection In A Warming World\n                      \n                    \n                  ",
-      "url": "/6181785/outdoor-workers-heat-climate-change/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        U.S. Plastic Recycling Rates Are Even Worse Than We Thought\n                      \n                    \n                  ",
-      "url": "/6178386/plastic-recycling-rates-overestimated/"
-    },
-    {
-      "text": "\n                    \n                      TIME logo\n                      \n                    \n                ",
-      "url": "/"
-    },
-    {
-      "text": "\n                  \n                    \n                  \n                      ",
-      "url": "https://www.facebook.com/time"
-    },
-    {
-      "text": "\n                  \n                    \n                  \n                      ",
-      "url": "https://www.instagram.com/time/?hl=en"
-    },
-    {
-      "text": "\n                  \n                    \n                  \n                      ",
-      "url": "https://twitter.com/time"
-    },
-    {
-      "text": "\n                  \n                    \n                  \n                      ",
-      "url": "https://www.pinterest.com/timemagazine"
-    },
-    {
-      "text": "\n                        Home\n                      ",
-      "url": "https://time.com"
-    },
-    {
-      "text": "\n                        U.S.\n                      ",
-      "url": "https://time.com/section/us/"
-    },
-    {
-      "text": "\n                        Politics\n                      ",
-      "url": "https://time.com/section/politics/"
-    },
-    {
-      "text": "\n                        World\n                      ",
-      "url": "https://time.com/section/world/"
-    },
-    {
-      "text": "\n                        Health\n                      ",
-      "url": "https://time.com/section/health/"
-    },
-    {
-      "text": "\n                        Personal Finance by NextAdvisor\n                      ",
-      "url": "https://time.com/nextadvisor/?utm_source=time&utm_medium=referral&utm_campaign=time_footer"
-    },
-    {
-      "text": "\n                        Future of Work by Charter\n                      ",
-      "url": "https://time.com/charter/"
-    },
-    {
-      "text": "\n                        Business\n                      ",
-      "url": "https://time.com/section/business/"
-    },
-    {
-      "text": "\n                        Tech\n                      ",
-      "url": "https://time.com/section/tech/"
-    },
-    {
-      "text": "\n                        Entertainment\n                      ",
-      "url": "https://time.com/section/entertainment/"
-    },
-    {
-      "text": "\n                        Ideas\n                      ",
-      "url": "https://time.com/section/ideas/"
-    },
-    {
-      "text": "\n                        Science\n                      ",
-      "url": "https://time.com/section/science/"
-    },
-    {
-      "text": "\n                        History\n                      ",
-      "url": "https://time.com/section/history/"
-    },
-    {
-      "text": "\n                        Newsfeed\n                      ",
-      "url": "https://time.com/section/newsfeed/"
-    },
-    {
-      "text": "\n                        Sports\n                      ",
-      "url": "https://time.com/section/sports/"
-    },
-    {
-      "text": "\n                        Magazine\n                      ",
-      "url": "https://time.com/magazine"
-    },
-    {
-      "text": "\n                        The TIME Vault\n                      ",
-      "url": "https://time.com/vault/"
-    },
-    {
-      "text": "\n                        TIME For Kids\n                      ",
-      "url": "https://www.timeforkids.com/"
-    },
-    {
-      "text": "\n                        TIME Edge\n                      ",
-      "url": "https://timeedge.com/login"
-    },
-    {
-      "text": "\n                        Video\n                      ",
-      "url": "https://time.com/collection/video/"
-    },
-    {
-      "text": "\n                        Masthead\n                      ",
-      "url": "https://time.com/time-masthead/"
-    },
-    {
-      "text": "\n                        Newsletters\n                      ",
-      "url": "https://time.com/newsletters/?source=TD_Footer_Link"
-    },
-    {
-      "text": "\n                        Subscribe\n                      ",
-      "url": "https://time.com/subscribe-footer-time"
-    },
-    {
-      "text": "\n                        Subscriber Benefits\n                      ",
-      "url": "https://time.com/subscriber-benefits/"
-    },
-    {
-      "text": "\n                        Give a Gift\n                      ",
-      "url": "https://time.com/giveagift/"
-    },
-    {
-      "text": "\n                        Shop the TIME Store\n                      ",
-      "url": "https://timecoverstore.com/"
-    },
-    {
-      "text": "\n                        Careers\n                      ",
-      "url": "https://time.com/longform/join-time/"
-    },
-    {
-      "text": "\n                        Press Room\n                      ",
-      "url": "https://time.com/section/press-room/"
-    },
-    {
-      "text": "\n                        TIME Studios\n                      ",
-      "url": "https://time.com/studios/"
-    },
-    {
-      "text": "\n                        U.S. & Canada Customer Care\n                      ",
-      "url": "https://support.time.com/hc/en-us"
-    },
-    {
-      "text": "\n                        Global Help Center\n                      ",
-      "url": "https://support.time.com/hc/en-us/sections/1500001791741"
-    },
-    {
-      "text": "\n                        Contact the Editors\n                      ",
-      "url": "mailto:feedback@time.com"
-    },
-    {
-      "text": "\n                        Reprints and Permissions\n                      ",
-      "url": "https://www.parsintl.com/publication/time"
-    },
-    {
-      "text": "\n                        Site Map\n                      ",
-      "url": "https://time.com/html-sitemap/"
-    },
-    {
-      "text": "\n                        Media Kit\n                      ",
-      "url": "https://time.com/mediakit/"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://time.com/privacy/privacy_terms_service.html"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://time.com/privacy/privacy_policy.html"
-    },
-    {
-      "text": "Your California Privacy Rights",
-      "url": "https://time.com/privacy/privacy_policy.html#_Toc26698205"
-    },
-    {
-      "text": "Do Not Sell My Personal Information",
-      "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/ec48745c-0b96-47da-aa41-f959ab79a818/e1de9460-d63a-4d4c-94d8-e876f7bbbb75.html"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://time.com/privacy/generic_privacy_new.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.onetrust.com/products/cookie-consent/"
-    }
-  ],
-  "uniq": 113620203,
+  "uniq": 764140388,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

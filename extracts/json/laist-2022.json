@@ -1,5 +1,5 @@
 {
-  "created": 1656462150,
+  "created": 1656544105,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/0/items/laist-2022",
@@ -7820,31 +7820,241 @@
       "sha1": "16239d925d00318a4949024526addfa257be50f3"
     },
     {
+      "name": "laist-2022-06-28T18:45:08.238285-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656467112",
+      "size": "34502",
+      "md5": "0f45f14f8f5ee9bdf2284e330fccd158",
+      "crc32": "8036c174",
+      "sha1": "3491f38ea28d4db320f230a8a6e1eda97e7689a8",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-28T18:45:08.238285-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656467113",
+      "size": "37741",
+      "md5": "9ffd1cf1bd81ea6ef87badff6e5f7002",
+      "crc32": "2e573ce0",
+      "sha1": "3ca7e69fe23d1e9b7bdf71e058021de5ed90581a",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-28T18:45:08.238285-07:00.jpg",
+      "source": "original",
+      "mtime": "1656467110",
+      "size": "354029",
+      "md5": "3a5679d92588696dbced49cc20202d20",
+      "crc32": "5a54e627",
+      "sha1": "c9e7793a6e11d5200ba2c33bc4a49b064a0027df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-06-28T18:45:08.238285-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-06-28T18:45:08.238285-07:00.jpg",
+      "mtime": "1656467170",
+      "size": "11220",
+      "md5": "241906305a31e2eae6d275fec4a5666f",
+      "crc32": "dfe0c957",
+      "sha1": "9e61e872666ed7af1bef3df1768a39ca98e67766"
+    },
+    {
+      "name": "laist-2022-06-29T02:38:28.225723-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656495514",
+      "size": "34505",
+      "md5": "5a7face290baef8d11aa5a56286416ef",
+      "crc32": "534a02bd",
+      "sha1": "749413edf5c246f67b6f4c10a90862c5a1844cc3",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-29T02:38:28.225723-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656495516",
+      "size": "37811",
+      "md5": "2f266c81d5937eedec3c804d893991c6",
+      "crc32": "5a88fcd8",
+      "sha1": "03bdfb709e2c6984f6609e11b6c2981f50f5971e",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-29T02:38:28.225723-07:00.jpg",
+      "source": "original",
+      "mtime": "1656495513",
+      "size": "354029",
+      "md5": "3a5679d92588696dbced49cc20202d20",
+      "crc32": "5a54e627",
+      "sha1": "c9e7793a6e11d5200ba2c33bc4a49b064a0027df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-06-29T02:38:28.225723-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-06-29T02:38:28.225723-07:00.jpg",
+      "mtime": "1656495650",
+      "size": "11220",
+      "md5": "241906305a31e2eae6d275fec4a5666f",
+      "crc32": "dfe0c957",
+      "sha1": "9e61e872666ed7af1bef3df1768a39ca98e67766"
+    },
+    {
+      "name": "laist-2022-06-29T10:48:17.781908-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656524908",
+      "size": "33797",
+      "md5": "ea3e64eec7e61b1758c6529b95f649ba",
+      "crc32": "84376758",
+      "sha1": "dae66da06a5c8b32fbb7adcdb3e01c3386116c9d",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-29T10:48:17.781908-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656524910",
+      "size": "37761",
+      "md5": "9e84476e55f7d38c2242cb4eacd9d1b3",
+      "crc32": "ea9cc895",
+      "sha1": "e69bf66d18a4d1532fe882d699545f00177655cf",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-29T10:48:17.781908-07:00.jpg",
+      "source": "original",
+      "mtime": "1656524906",
+      "size": "354029",
+      "md5": "3a5679d92588696dbced49cc20202d20",
+      "crc32": "5a54e627",
+      "sha1": "c9e7793a6e11d5200ba2c33bc4a49b064a0027df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-06-29T10:48:17.781908-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-06-29T10:48:17.781908-07:00.jpg",
+      "mtime": "1656524993",
+      "size": "11220",
+      "md5": "241906305a31e2eae6d275fec4a5666f",
+      "crc32": "dfe0c957",
+      "sha1": "9e61e872666ed7af1bef3df1768a39ca98e67766"
+    },
+    {
+      "name": "laist-2022-06-29T14:03:22.148231-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656536607",
+      "size": "34243",
+      "md5": "1f04369b55352aefef4087ae57bd7e12",
+      "crc32": "c76d6ed1",
+      "sha1": "ab21a5b894384e8bbf10ab84b9385780a9f0992d",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-29T14:03:22.148231-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656536609",
+      "size": "37538",
+      "md5": "3fd1cb811fe1f44ec1db3673e1114824",
+      "crc32": "85634672",
+      "sha1": "40ec728c8c66639303432743a74d2a720c858211",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-29T14:03:22.148231-07:00.jpg",
+      "source": "original",
+      "mtime": "1656536604",
+      "size": "354547",
+      "md5": "d7dddb38ba9ce9f3e6241d00067c1346",
+      "crc32": "856e77b8",
+      "sha1": "c546af6f42c78547688986f3993a52d3af8b143c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-06-29T14:03:22.148231-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-06-29T14:03:22.148231-07:00.jpg",
+      "mtime": "1656536769",
+      "size": "11240",
+      "md5": "6eb3e9b8f23d8c5024c5188f6370a673",
+      "crc32": "ec94ffb2",
+      "sha1": "f23a05825dcd2b7166bfd82ad08bd0f15de22cdb"
+    },
+    {
+      "name": "laist-2022-06-29T16:06:49.355689-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656544013",
+      "size": "31492",
+      "md5": "601329b05ba2c26d82695e07e56285cc",
+      "crc32": "b27e5916",
+      "sha1": "312f22e0c4dd6a2238dab95d6344ae6e451f9804",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-29T16:06:49.355689-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656544015",
+      "size": "35279",
+      "md5": "7e2fd092af0dc18f947fff75e876bf2a",
+      "crc32": "bdbcf81d",
+      "sha1": "479449a6ff6ec7cdfa68360697cc87f2280b01be",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-06-29T16:06:49.355689-07:00.jpg",
+      "source": "original",
+      "mtime": "1656544011",
+      "size": "302023",
+      "md5": "69d035de784e8154480827decf80b604",
+      "crc32": "66afa0ae",
+      "sha1": "586debb52cce266303034e6265b77d8fd7813336",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-06-29T16:06:49.355689-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-06-29T16:06:49.355689-07:00.jpg",
+      "mtime": "1656544079",
+      "size": "10278",
+      "md5": "b7dd1bf3d6e23c642ace6f69384c2550",
+      "crc32": "7bead981",
+      "sha1": "207c2773226d9599d5b1c255c4ccd89e6192dda3"
+    },
+    {
       "name": "laist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e86f6eb30636c0f2592baccda375146208f36058",
-      "mtime": "1656438126",
-      "size": "155958",
-      "md5": "0db9ef48f771db9e39fa568d5700515d",
-      "crc32": "07882324",
-      "sha1": "52fce826fa29b4983e2902cfb1de23c63b00a3d4",
+      "btih": "35db981358d44e3a127f2b6730a18799ddb5e267",
+      "mtime": "1656544092",
+      "size": "160128",
+      "md5": "59f2964453e40fbafd0f6b31b6190f60",
+      "crc32": "c5425a82",
+      "sha1": "7433a9245fd7e5f5d21ffa124ed762ed3c58821b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b653f7a69dbe95240f4d1d5ab2f7d36",
+      "md5": "7020719e05e01f7d9ec0e69aa5780b77",
       "summation": "md5"
     },
     {
       "name": "laist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656438062",
-      "size": "851968",
-      "md5": "405ae2cf42b1d040b52d421f5dda090e",
-      "crc32": "ae487706",
-      "sha1": "d33de2137e68c21a5f012e88c0cd977b8a9dcab2",
+      "mtime": "1656544017",
+      "size": "876544",
+      "md5": "3f3242f01e030cd08b8228118e085101",
+      "crc32": "04be6df2",
+      "sha1": "e7ce88aefb609e6a7c17586b6fa12fa9cfbb2ec7",
       "format": "Metadata"
     },
     {
@@ -7858,791 +8068,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 747,
-  "item_last_updated": 1656438126,
-  "item_size": 72524157,
-  "laist-2022": [
-    {
-      "text": "Become a sponsor",
-      "url": "https://sponsorship.scpr.org/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://support.laist.com/laistdefault?ms=nav"
-    },
-    {
-      "text": "The Brief\n            ",
-      "url": "https://laist.com/the-brief"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "Housing and Homelessness",
-      "url": "https://laist.com/news/housing-homelessness"
-    },
-    {
-      "text": "Politics",
-      "url": "https://laist.com/news/politics"
-    },
-    {
-      "text": "Transportation and Mobility",
-      "url": "https://laist.com/news/transportation"
-    },
-    {
-      "text": "Climate and Environment",
-      "url": "https://laist.com/news/climate-environment"
-    },
-    {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
-    },
-    {
-      "text": "Education",
-      "url": "https://laist.com/news/education"
-    },
-    {
-      "text": "Food",
-      "url": "https://laist.com/news/food"
-    },
-    {
-      "text": "Play In LA",
-      "url": "https://laist.com/news/los-angeles-activities"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "LA History",
-      "url": "https://laist.com/news/la-history"
-    },
-    {
-      "text": "Orange County",
-      "url": "https://laist.com/tags/orange-county"
-    },
-    {
-      "text": "Special Reports",
-      "url": "https://laist.com/news/specials"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "Housing and Homelessness",
-      "url": "https://laist.com/news/housing-homelessness"
-    },
-    {
-      "text": "Politics",
-      "url": "https://laist.com/news/politics"
-    },
-    {
-      "text": "Transportation and Mobility",
-      "url": "https://laist.com/news/transportation"
-    },
-    {
-      "text": "Climate and Environment",
-      "url": "https://laist.com/news/climate-environment"
-    },
-    {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
-    },
-    {
-      "text": "Education",
-      "url": "https://laist.com/news/education"
-    },
-    {
-      "text": "Food",
-      "url": "https://laist.com/news/food"
-    },
-    {
-      "text": "Play In LA",
-      "url": "https://laist.com/news/los-angeles-activities"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "LA History",
-      "url": "https://laist.com/news/la-history"
-    },
-    {
-      "text": "Orange County",
-      "url": "https://laist.com/tags/orange-county"
-    },
-    {
-      "text": "Special Reports",
-      "url": "https://laist.com/news/specials"
-    },
-    {
-      "text": "How To (New) LA\n            ",
-      "url": "https://laist.com/how-to-new-la"
-    },
-    {
-      "text": "Podcasts\n            ",
-      "url": "https://laist.com/podcasts"
-    },
-    {
-      "text": "Events\n            ",
-      "url": "https://laist.com/events/laist-events"
-    },
-    {
-      "text": "Newsletters\n            ",
-      "url": "https://laist.com/newsletters"
-    },
-    {
-      "text": "twitter",
-      "url": "https://twitter.com/LAist"
-    },
-    {
-      "text": "instagram",
-      "url": "https://www.instagram.com/Laistpics/"
-    },
-    {
-      "text": "facebook",
-      "url": "https://www.facebook.com/theLAist"
-    },
-    {
-      "text": "\n\n\n\n    \n      \n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n\n    \n     \n\n\n",
-      "url": "https://www.kpcc.org/"
-    },
-    {
-      "text": "Live Stream",
-      "url": "https://www.kpcc.org/"
-    },
-    {
-      "text": "Schedule",
-      "url": "https://kpcc.org/programs"
-    },
-    {
-      "text": "In Person",
-      "url": "https://kpcc.org/inperson"
-    },
-    {
-      "text": "Donate",
-      "url": "https://support.laist.com/laistdefault?ms=nav"
-    },
-    {
-      "text": "Things To Do This Week",
-      "url": "https://laist.com/news/arts-and-entertainment/best-events-things-to-do-this-week-los-angeles-southern-california-june-27-30-2022"
-    },
-    {
-      "text": "Latest Primary Results",
-      "url": "https://laist.com/live-updates/2022-election-results-california-primary"
-    },
-    {
-      "text": "Weekend Protests",
-      "url": "https://laist.com/news/morning-brief-abortion-rights-protests-loren-millers-house-saved-lausd-students-play-the-bowl"
-    },
-    {
-      "text": "Sriracha Shortage",
-      "url": "https://laist.com/news/food/la-restaurant-requests-sriracha-donations-in-face-of-unprecedented-shortage"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/cassidy-hutchinson-a-mark-meadows-aide-to-testify-at-tuesdays-jan-6-panel-hearing"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "Cassidy Hutchinson, A Mark Meadows Aide, To Testify At Tuesday\u2019s Jan. 6 Panel Hearing",
-      "url": "https://laist.com/news/cassidy-hutchinson-a-mark-meadows-aide-to-testify-at-tuesdays-jan-6-panel-hearing"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "LAPD Under Scrutiny For Treatment Of Press And Demonstrators At Abortion Rights Rallies",
-      "url": "https://laist.com/news/criminal-justice/lapd-under-scrutiny-for-treatment-of-press-and-demonstrators-at-abortion-rights-rallies"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/criminal-justice/lapd-under-scrutiny-for-treatment-of-press-and-demonstrators-at-abortion-rights-rallies"
-    },
-    {
-      "text": "Food",
-      "url": "https://laist.com/news/food"
-    },
-    {
-      "text": "Food",
-      "url": "https://laist.com/news/food"
-    },
-    {
-      "text": "LA Restaurant Requests Sriracha Donations In Face Of Unprecedented Shortage",
-      "url": "https://laist.com/news/food/la-restaurant-requests-sriracha-donations-in-face-of-unprecedented-shortage"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/food/la-restaurant-requests-sriracha-donations-in-face-of-unprecedented-shortage"
-    },
-    {
-      "text": "Climate and Environment",
-      "url": "https://laist.com/news/climate-environment"
-    },
-    {
-      "text": "Climate and Environment",
-      "url": "https://laist.com/news/climate-environment"
-    },
-    {
-      "text": "LAUSD Assigns Millions In Funding For 'Green Schoolyards'",
-      "url": "https://laist.com/news/climate-environment/lausd-assigns-millions-in-funding-for-green-schoolyards"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/climate-environment/lausd-assigns-millions-in-funding-for-green-schoolyards"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "Best Things To Do This Week In Los Angeles And SoCal: June 27 - 30",
-      "url": "https://laist.com/news/arts-and-entertainment/best-events-things-to-do-this-week-los-angeles-southern-california-june-27-30-2022"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/best-events-things-to-do-this-week-los-angeles-southern-california-june-27-30-2022"
-    },
-    {
-      "text": "Well....not so great L.A.",
-      "url": "https://laist.com/news/politics/2022-election-what-we-know-about-california-primary-turn-out-so-far"
-    },
-    {
-      "text": "Think of them like coaches before, during, and after pregnancy. Here's what you should know",
-      "url": "https://laist.com/news/health/what-do-doulas-do-and-how-can-i-find-one-in-la?utm_campaign=20220314+LAist+Top+5&utm_medium=email&utm_source=sfmc_&utm_content=&utm_term=167948837"
-    },
-    {
-      "text": "Demand \u2014 and prices \u2014 are up. Know before you go.",
-      "url": "https://laist.com/news/experts-say-demand-for-electric-cars-is-up-here-are-some-tips-if-youre-in-the-market-ev-hybrid"
-    },
-    {
-      "text": "Know your rights when it comes to taking time off because of COVID-19.",
-      "url": "https://laist.com/news/health/my-kids-are-sick-i-need-the-day-off-what-are-my-rights"
-    },
-    {
-      "text": "Ask Us Anything",
-      "url": "https://laist.com/tags/ask-us-anything"
-    },
-    {
-      "text": "View All",
-      "url": "/the-brief"
-    },
-    {
-      "text": "Let\u2019s Make A Deal: What To Know About The California Budget",
-      "url": "https://laist.com/news/politics/lets-make-a-deal-what-to-know-about-the-california-budget"
-    },
-    {
-      "text": "Morning Brief: Green Schoolyards, Sriracha Shortage, Skid Row Symphony ",
-      "url": "https://laist.com/news/morning-brief-green-schoolyards-sriracha-shortage-skid-row-symphony"
-    },
-    {
-      "text": "3 Dead, Multiple Injuries After An Amtrak Train Hits A Truck And Derails In Missouri",
-      "url": "https://laist.com/news/transportation/3-dead-multiple-injured-after-an-amtrak-train-hits-a-truck-and-derails-in-missouri"
-    },
-    {
-      "text": "Street Symphony Plays In Harmony With Skid Row\u2019s \u2018Sacred Spaces\u2019",
-      "url": "https://laist.com/news/arts-and-entertainment/street-symphony-plays-in-harmony-with-skid-rows-sacred-spaces"
-    },
-    {
-      "text": "Supreme Court Backs A High School Football Coach's Right To Pray On The 50-Yard Line",
-      "url": "https://laist.com/news/supreme-court-high-school-coach-right-to-pray"
-    },
-    {
-      "text": "His-And-Hers Cataract Surgeries, But His Bill Was 20 Times As Much",
-      "url": "https://laist.com/news/health/his-and-hers-cataract-surgeries-but-his-bill-was-20-times-as-much"
-    },
-    {
-      "text": "On Point LIVE",
-      "url": "https://laist.com/events/on-point-live"
-    },
-    {
-      "text": "More Info",
-      "url": "https://laist.com/events/on-point-live"
-    },
-    {
-      "text": "Ira Glass & Jad Abumrad: An Evening With The Creators Of This American Life & Radiolab",
-      "url": "https://laist.com/events/ira-glass-jad-abumrad-an-evening-with-the-creators-of-this-american-life-radiolab"
-    },
-    {
-      "text": "More Info",
-      "url": "https://laist.com/events/ira-glass-jad-abumrad-an-evening-with-the-creators-of-this-american-life-radiolab"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/podcasts/snooze"
-    },
-    {
-      "text": "Snooze",
-      "url": "https://laist.com/podcasts/snooze"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/podcasts/humannature"
-    },
-    {
-      "text": "Human/Nature",
-      "url": "https://laist.com/podcasts/humannature"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/podcasts/the-la-report"
-    },
-    {
-      "text": "The L.A. Report",
-      "url": "https://laist.com/podcasts/the-la-report"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/podcasts/imperfectparadise"
-    },
-    {
-      "text": "Imperfect Paradise",
-      "url": "https://laist.com/podcasts/imperfectparadise"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/podcasts/off-ramp"
-    },
-    {
-      "text": "Off-Ramp",
-      "url": "https://laist.com/podcasts/off-ramp"
-    },
-    {
-      "text": "\n                        View All Podcasts\n                        \n                    ",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/health/people-with-developmental-disabilities-want-their-home-health-workers-vaccinated"
-    },
-    {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
-    },
-    {
-      "text": "People With Developmental Disabilities Want Their Home Health Workers Vaccinated",
-      "url": "https://laist.com/news/health/people-with-developmental-disabilities-want-their-home-health-workers-vaccinated"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/la-history/mob-chinese-massacre-1871-memorial"
-    },
-    {
-      "text": "LA History",
-      "url": "https://laist.com/news/la-history"
-    },
-    {
-      "text": "A Mob Killed A Tenth of LA\u2019s Chinese Population. 150 Years Later, There's A Push To Remember",
-      "url": "https://laist.com/news/la-history/mob-chinese-massacre-1871-memorial"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/special-reports/child-care-unfiltered"
-    },
-    {
-      "text": "Special Reports",
-      "url": "https://laist.com/news/specials"
-    },
-    {
-      "text": "Child Care, Unfiltered",
-      "url": "https://laist.com/special-reports/child-care-unfiltered"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/criminal-justice/medical-parole-state-prison-decertified-nursing-home"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "Medical Parole Got Them Out Of State Prison. Now They're In A Decertified Nursing Home",
-      "url": "https://laist.com/news/criminal-justice/medical-parole-state-prison-decertified-nursing-home"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/criminal-justice/los-angeles-county-jail-medical-staff-outraged-by-jail-conditions"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "A Daily \u2018Human Rights Disaster\u2019: LA Jail Medical Staff Outraged By Jail Conditions And The Doctor In Charge",
-      "url": "https://laist.com/news/criminal-justice/los-angeles-county-jail-medical-staff-outraged-by-jail-conditions"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/education/hidden-curriculum"
-    },
-    {
-      "text": "Education",
-      "url": "https://laist.com/news/education"
-    },
-    {
-      "text": "You Can Succeed At College Once You Figure Out All The Little Things No One Tells You About",
-      "url": "https://laist.com/news/education/hidden-curriculum"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/food/your-laist-guide-to-a-great-grilling-season-in-10-simple-steps"
-    },
-    {
-      "text": "Food",
-      "url": "https://laist.com/news/food"
-    },
-    {
-      "text": "Your LAist Guide To A Great Grilling Season In 10 Simple Steps",
-      "url": "https://laist.com/news/food/your-laist-guide-to-a-great-grilling-season-in-10-simple-steps"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/climate-environment/houseplants-that-thrive-on-neglect"
-    },
-    {
-      "text": "Climate and Environment",
-      "url": "https://laist.com/news/climate-environment"
-    },
-    {
-      "text": "11 Houseplants That Thrive On Neglect",
-      "url": "https://laist.com/news/climate-environment/houseplants-that-thrive-on-neglect"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/climate-environment/your-a-z-guide-to-drought-friendly-aloes-and-agaves"
-    },
-    {
-      "text": "Climate and Environment",
-      "url": "https://laist.com/news/climate-environment"
-    },
-    {
-      "text": "Your A-Z Guide To Drought-Friendly Aloes And Agaves",
-      "url": "https://laist.com/news/climate-environment/your-a-z-guide-to-drought-friendly-aloes-and-agaves"
-    },
-    {
-      "text": "Climate and Environment",
-      "url": "https://laist.com/news/climate-environment"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/climate-environment/climate-friendly-cement-california-takes-on-a-high-carbon-industry"
-    },
-    {
-      "text": "Climate-Friendly Cement? California Takes On A High-Carbon Industry",
-      "url": "https://laist.com/news/climate-environment/climate-friendly-cement-california-takes-on-a-high-carbon-industry"
-    },
-    {
-      "text": "Education",
-      "url": "https://laist.com/news/education"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/education/california-to-boost-number-of-bilingual-teachers-in-asian-languages"
-    },
-    {
-      "text": "California To Boost Number Of Bilingual Teachers In Asian Languages",
-      "url": "https://laist.com/news/education/california-to-boost-number-of-bilingual-teachers-in-asian-languages"
-    },
-    {
-      "text": "Climate and Environment",
-      "url": "https://laist.com/news/climate-environment"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/climate-environment/recycled-sewage-water-southern-california"
-    },
-    {
-      "text": "From The Sewage To Your Cup. Can Recycling Water Save Southern California?",
-      "url": "https://laist.com/news/climate-environment/recycled-sewage-water-southern-california"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/california-fails-to-collect-basic-abortion-data-even-as-it-invites-an-out-of-state-influx"
-    },
-    {
-      "text": "California Fails To Collect Basic Abortion Data \u2014 Even As It Invites An Out-Of-State Influx ",
-      "url": "https://laist.com/news/california-fails-to-collect-basic-abortion-data-even-as-it-invites-an-out-of-state-influx"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/morning-brief-abortion-rights-protests-loren-millers-house-saved-lausd-students-play-the-bowl"
-    },
-    {
-      "text": "Morning Brief: Abortion Rights Protests, Loren Miller\u2019s House Saved, LAUSD Students Play The Bowl",
-      "url": "https://laist.com/news/morning-brief-abortion-rights-protests-loren-millers-house-saved-lausd-students-play-the-bowl"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/criminal-justice/mother-of-lapd-officer-fatally-injured-in-training-exercise-has-filed-wrongful-death-claim"
-    },
-    {
-      "text": "Mother Of LAPD Officer Fatally Injured In Training Exercise Has Filed Wrongful Death Claim",
-      "url": "https://laist.com/news/criminal-justice/mother-of-lapd-officer-fatally-injured-in-training-exercise-has-filed-wrongful-death-claim"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/peanuts-one-of-the-worlds-most-popular-cartoons-pushed-for-title-ix-in-the-1970s"
-    },
-    {
-      "text": "'Peanuts,' One Of The World's Most Popular Cartoons, Pushed For Title IX In The 1970s",
-      "url": "https://laist.com/news/peanuts-one-of-the-worlds-most-popular-cartoons-pushed-for-title-ix-in-the-1970s"
-    },
-    {
-      "text": "News",
-      "url": "https://laist.com/news"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/the-national-park-service-expands-its-african-american-history-sites"
-    },
-    {
-      "text": "The National Park Service Expands Its African-American History Sites",
-      "url": "https://laist.com/news/the-national-park-service-expands-its-african-american-history-sites"
-    },
-    {
-      "text": "Arts and Entertainment",
-      "url": "https://laist.com/news/arts-and-entertainment"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/arts-and-entertainment/lausd-students-open-day-2-of-hollywood-bowl-jazz-festival"
-    },
-    {
-      "text": "LAUSD Students Open Day 2 Of Hollywood Bowl Jazz Festival",
-      "url": "https://laist.com/news/arts-and-entertainment/lausd-students-open-day-2-of-hollywood-bowl-jazz-festival"
-    },
-    {
-      "text": "Politics",
-      "url": "https://laist.com/news/politics"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/politics/california-tax-relief-whats-in-the-tentative-deal"
-    },
-    {
-      "text": "California Tax Relief: A Deal Includes Refunds As High as $1,050",
-      "url": "https://laist.com/news/politics/california-tax-relief-whats-in-the-tentative-deal"
-    },
-    {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/health/for-doctors-abortion-restrictions-create-an-impossible-choice-when-providing-care"
-    },
-    {
-      "text": "For Doctors, Abortion Restrictions Create An 'Impossible Choice' When Providing Care",
-      "url": "https://laist.com/news/health/for-doctors-abortion-restrictions-create-an-impossible-choice-when-providing-care"
-    },
-    {
-      "text": "Health",
-      "url": "https://laist.com/news/health"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/news/health/how-can-the-supreme-court-overturn-of-roe-v-wade-affect-mental-health"
-    },
-    {
-      "text": "How Can The Supreme Court Overturn Of Roe V. Wade Affect Mental Health?",
-      "url": "https://laist.com/news/health/how-can-the-supreme-court-overturn-of-roe-v-wade-affect-mental-health"
-    },
-    {
-      "text": "\n                        Load More\n                        \n                    ",
-      "url": "?00000178-ad76-dbd8-a1ff-eff6ac9f0000-p=2"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/people/jessica-p-ogilvie"
-    },
-    {
-      "text": "Jessica P. Ogilvie",
-      "url": "https://laist.com/people/jessica-p-ogilvie"
-    },
-    {
-      "text": "The Rise Of Lady Lowriders And Other All-Women Car Clubs In LA",
-      "url": "https://laist.com/news/la-history/lowriders-car-club-women-all-female-los-angeles"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/people/julia-barajas"
-    },
-    {
-      "text": "Julia Barajas ",
-      "url": "https://laist.com/people/julia-barajas"
-    },
-    {
-      "text": "Cal State University Commemorates Juneteenth With First Biennial Conference",
-      "url": "https://laist.com/news/education/cal-state-university-commemorates-juneteenth-with-first-biennial-conference"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/people/brianna-lee"
-    },
-    {
-      "text": "Brianna Lee",
-      "url": "https://laist.com/people/brianna-lee"
-    },
-    {
-      "text": "California Counts Votes In Its Own Good Time. Here's Why Declaring Winners May Take A Minute",
-      "url": "https://laist.com/news/politics/2022-primary-why-california-takes-so-long-to-count-votes-after-elections"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/people/ryan-fonseca"
-    },
-    {
-      "text": "Ryan Fonseca",
-      "url": "https://laist.com/people/ryan-fonseca"
-    },
-    {
-      "text": "A Free E-Bike Lending Program Just Launched In The San Fernando Valley. Here\u2019s How It Works",
-      "url": "https://laist.com/news/transportation/free-electric-bike-lending-program-pacoima-san-fernando-valley"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/people/david-wagner"
-    },
-    {
-      "text": "David Wagner",
-      "url": "https://laist.com/people/david-wagner"
-    },
-    {
-      "text": "LA\u2019s City Council Asks: Is It Time To Phase Out COVID-19 Renter Protections? ",
-      "url": "https://laist.com/news/housing-homelessness/los-angeles-city-council-tenant-landlord-protections-eviction-moratorium-rent-increases"
-    },
-    {
-      "text": "\n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n",
-      "url": "https://laist.com/people/jackie-fortier"
-    },
-    {
-      "text": "Jackie Forti\u00e9r",
-      "url": "https://laist.com/people/jackie-fortier"
-    },
-    {
-      "text": "United States Supreme Court Ruling Overturning Roe V. Wade Won\u2019t Affect Abortion Access In California",
-      "url": "https://laist.com/news/health/united-states-supreme-court-ruling-wont-affect-abortion-access-in-california"
-    },
-    {
-      "text": "Become a sponsor",
-      "url": "https://sponsorship.scpr.org/"
-    },
-    {
-      "text": "\n    \n        \n        \n    \n    \n    \n        \n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n\n    \n    ",
-      "url": "/"
-    },
-    {
-      "text": "twitter",
-      "url": "https://twitter.com/LAist"
-    },
-    {
-      "text": "instagram",
-      "url": "https://www.instagram.com/Laistpics/"
-    },
-    {
-      "text": "facebook",
-      "url": "https://www.facebook.com/theLAist"
-    },
-    {
-      "text": "\n\n\n\n    \n      \n        \n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n\n    \n    \n    \n        \n    \n\n    \n        \n\n    \n\n\n    \n    \n\n    \n    \n    \n        \n\n    \n    \n    \n    \n    \n\n\n\n    \n     \n\n\n",
-      "url": "https://www.kpcc.org/"
-    },
-    {
-      "text": "Live Stream",
-      "url": "https://www.kpcc.org/"
-    },
-    {
-      "text": "Schedule",
-      "url": "https://kpcc.org/programs"
-    },
-    {
-      "text": "In Person",
-      "url": "https://kpcc.org/inperson"
-    },
-    {
-      "text": "About Us",
-      "url": "https://laist.com/about-us"
-    },
-    {
-      "text": "LAist Staff",
-      "url": "https://laist.com/staff"
-    },
-    {
-      "text": "Careers",
-      "url": "https://recruiting2.ultipro.com/AME1098APMG/JobBoard/4b7ae4eb-a67b-4318-80fc-6d9467f9c542/?q=&o=distance&w=Pasadena%2C+California%2C+USA&wc=-118.14426802178644%2C34.14745229314706&we=-118.244269%2C34.247451999999996%7C-118.04426899999999%2C34.04745199999999&wpst=1"
-    },
-    {
-      "text": "Advertising",
-      "url": "https://sponsorship.scpr.org/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://laist.com/contact-us"
-    },
-    {
-      "text": "Support Us",
-      "url": "https://laist.com/support-us"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://laist.com/newsletters"
-    },
-    {
-      "text": "Editorial Ethics and Guidelines",
-      "url": "https://laist.com/editorial-ethics-and-guidelines"
-    },
-    {
-      "text": "DEI Statement",
-      "url": "https://laist.com/diversity-equity-and-inclusion-plan"
-    },
-    {
-      "text": "Style Guide",
-      "url": "https://laist.com/dialogue"
-    },
-    {
-      "text": "Diversity Report",
-      "url": "https://laist.com/diversity-equity-and-inclusion-plan/southern-california-public-radio-diversity-report"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://www.americanpublicmedia.org/terms/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.americanpublicmedia.org/privacy/"
-    }
-  ],
+  "files_count": 767,
+  "item_last_updated": 1656544092,
+  "item_size": 74681407,
   "metadata": {
     "identifier": "laist-2022",
     "collection": [
@@ -8660,7 +8088,7 @@
     "addeddate": "2022-03-23 02:08:36"
   },
   "server": "ia902503.us.archive.org",
-  "uniq": 699647272,
+  "uniq": 1954221302,
   "workable_servers": [
     "ia902503.us.archive.org",
     "ia802503.us.archive.org"
