@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 204 sites.
+The archiving routine is currently capturing 206 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -110,6 +110,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Little Village](https://palewi.re/docs/news-homepages/sites/littlevillage.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml)|
 |[Los Angeles Sentinel](https://palewi.re/docs/news-homepages/sites/thelasentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thelasentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thelasentinel.xml)|
 |[Los Angeles Times](https://palewi.re/docs/news-homepages/sites/latimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/latimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/latimes.xml)|
+|[L’Obs](https://palewi.re/docs/news-homepages/sites/lobs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lobs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lobs.xml)|
 |[Marshall Project](https://palewi.re/docs/news-homepages/sites/marshallproj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marshallproj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marshallproj.xml)|
 |[Maryland Matters](https://palewi.re/docs/news-homepages/sites/marylandmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marylandmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marylandmatters.xml)|
 |[Meduza](https://palewi.re/docs/news-homepages/sites/meduzaproject.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/meduzaproject.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/meduzaproject.xml)|
@@ -150,6 +151,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Quinto Elemento Lab](https://palewi.re/docs/news-homepages/sites/quintoelab.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/quintoelab.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/quintoelab.xml)|
 |[Reuters](https://palewi.re/docs/news-homepages/sites/reuters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reuters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reuters.xml)|
 |[Reveal](https://palewi.re/docs/news-homepages/sites/reveal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reveal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reveal.xml)|
+|[RFI](https://palewi.re/docs/news-homepages/sites/rfi.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rfi.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rfi.xml)|
 |[RIA Novosti](https://palewi.re/docs/news-homepages/sites/rianru.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rianru.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rianru.xml)|
 |[Ringer](https://palewi.re/docs/news-homepages/sites/ringer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ringer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ringer.xml)|
 |[Riverside Press-Enterprise](https://palewi.re/docs/news-homepages/sites/pressenterprise.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pressenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pressenterprise.xml)|
