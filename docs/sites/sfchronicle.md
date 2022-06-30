@@ -17,7 +17,7 @@ orphan: true
 | Location       | San Francisco                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 135 screenshots stored at the Internet Archive.
+The archiving routine has captured 140 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

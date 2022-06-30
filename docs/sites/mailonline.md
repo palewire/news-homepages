@@ -17,7 +17,8 @@ orphan: true
 | Location       | London                                                                 |
 | Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 3 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[mailonline-2022](https://archive.org/details/mailonline-2022)|
