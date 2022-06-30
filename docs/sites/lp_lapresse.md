@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# La Presse
+
+![La Presse](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lp_lapresse.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.lapresse.ca/](https://www.lapresse.ca/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lp_lapresse.xml) |
+| Twitter handle | [@lp_lapresse](https://www.twitter.com/lp_lapresse)                     |
+| Location       | Montreal                                                                 |
+| Timezone       | America/New_York                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
