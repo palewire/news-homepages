@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 201 sites.
+The archiving routine is currently capturing 206 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -110,6 +110,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Little Village](https://palewi.re/docs/news-homepages/sites/littlevillage.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml)|
 |[Los Angeles Sentinel](https://palewi.re/docs/news-homepages/sites/thelasentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thelasentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thelasentinel.xml)|
 |[Los Angeles Times](https://palewi.re/docs/news-homepages/sites/latimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/latimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/latimes.xml)|
+|[L’Obs](https://palewi.re/docs/news-homepages/sites/lobs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lobs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lobs.xml)|
 |[Marshall Project](https://palewi.re/docs/news-homepages/sites/marshallproj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marshallproj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marshallproj.xml)|
 |[Maryland Matters](https://palewi.re/docs/news-homepages/sites/marylandmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marylandmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marylandmatters.xml)|
 |[Meduza](https://palewi.re/docs/news-homepages/sites/meduzaproject.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/meduzaproject.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/meduzaproject.xml)|
@@ -122,6 +123,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[MSNBC](https://palewi.re/docs/news-homepages/sites/msnbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/msnbc.xml)|
 |[National Post](https://palewi.re/docs/news-homepages/sites/nationalpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationalpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nationalpost.xml)|
 |[National Review](https://palewi.re/docs/news-homepages/sites/nro.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nro.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nro.xml)|
+|[NBC Bay Area](https://palewi.re/docs/news-homepages/sites/nbcbayarea.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcbayarea.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcbayarea.xml)|
 |[NBC News](https://palewi.re/docs/news-homepages/sites/nbcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml)|
 |[New York Times](https://palewi.re/docs/news-homepages/sites/nytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
 |[New Yorker](https://palewi.re/docs/news-homepages/sites/newyorker.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newyorker.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newyorker.xml)|
@@ -134,7 +136,9 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Orange County Register](https://palewi.re/docs/news-homepages/sites/ocregister.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ocregister.xml)|
 |[Ottumwa Courier](https://palewi.re/docs/news-homepages/sites/ottumwacourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottumwacourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier.xml)|
 |[PBS News Hour](https://palewi.re/docs/news-homepages/sites/newshour.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newshour.xml)|
+|[Peninsula Press](https://palewi.re/docs/news-homepages/sites/peninsupress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/peninsupress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/peninsupress.xml)|
 |[Pitchfork](https://palewi.re/docs/news-homepages/sites/pitchfork.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pitchfork.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pitchfork.xml)|
+|[Point Reyes Light](https://palewi.re/docs/news-homepages/sites/pointreyeslight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pointreyeslight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pointreyeslight.xml)|
 |[POLITICO](https://palewi.re/docs/news-homepages/sites/politico.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/politico.xml)|
 |[Politifact ](https://palewi.re/docs/news-homepages/sites/politifact.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politifact.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/politifact.xml)|
 |[Post and Courier](https://palewi.re/docs/news-homepages/sites/postandcourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/postandcourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/postandcourier.xml)|
@@ -147,6 +151,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Quinto Elemento Lab](https://palewi.re/docs/news-homepages/sites/quintoelab.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/quintoelab.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/quintoelab.xml)|
 |[Reuters](https://palewi.re/docs/news-homepages/sites/reuters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reuters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reuters.xml)|
 |[Reveal](https://palewi.re/docs/news-homepages/sites/reveal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reveal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reveal.xml)|
+|[RFI](https://palewi.re/docs/news-homepages/sites/rfi.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rfi.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rfi.xml)|
 |[RIA Novosti](https://palewi.re/docs/news-homepages/sites/rianru.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rianru.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rianru.xml)|
 |[Ringer](https://palewi.re/docs/news-homepages/sites/ringer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ringer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ringer.xml)|
 |[Riverside Press-Enterprise](https://palewi.re/docs/news-homepages/sites/pressenterprise.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pressenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pressenterprise.xml)|

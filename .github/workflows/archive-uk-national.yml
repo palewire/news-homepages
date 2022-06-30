@@ -1,9 +1,9 @@
-name: U.K. national news
+name: "Archive: U.K. national"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 10,17 * * *"
+    - cron: "0 9,16 * * *"
 
 jobs:
   sources:
@@ -152,7 +152,7 @@ jobs:
         uses: ./.github/actions/commit
 
   mosaic:
-    name: Create GIF mosaic
+    name: Create JPG mosaic
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [jpg]
