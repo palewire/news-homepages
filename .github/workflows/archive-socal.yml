@@ -1,9 +1,9 @@
-name: U.S. national news
+name: "Archive: Southern California"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 14,21 * * *"
+    - cron: "0 2 * * *"
 
 jobs:
   sources:
@@ -20,7 +20,7 @@ jobs:
 
       - id: create-handles-json
         name: Create handles JSON
-        run: pipenv run python -m newshomepages.screenshot get-handle-json -b us-national
+        run: pipenv run python -m newshomepages.screenshot get-handle-json -b socal
         shell: bash
 
       - id: set-matrix
@@ -152,7 +152,7 @@ jobs:
         uses: ./.github/actions/commit
 
   mosaic:
-    name: Create JPG mosaic
+    name: Create GIF mosaic
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [jpg]
@@ -168,7 +168,7 @@ jobs:
           command: jpg
 
   tweet:
-    name: Tweet GIF mosaic
+    name: Tweet JPG mosaic
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [mosaic]
@@ -185,4 +185,4 @@ jobs:
           consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
           access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
           access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-          command: bundle us-national
+          command: bundle socal
