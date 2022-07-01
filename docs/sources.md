@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 222 sites.
+The archiving routine is currently capturing 221 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -40,7 +40,6 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Calgary Herald](https://palewi.re/docs/news-homepages/sites/calgaryherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calgaryherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/calgaryherald.xml)|
 |[Capital Gazette](https://palewi.re/docs/news-homepages/sites/capgaznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capgaznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capgaznews.xml)|
 |[Carolina Public Press](https://palewi.re/docs/news-homepages/sites/cpublicpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpublicpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cpublicpress.xml)|
-|[CBC News](https://palewi.re/docs/news-homepages/sites/cbcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbcnews.xml)|
 |[CBS 17](https://palewi.re/docs/news-homepages/sites/wncn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wncn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wncn.xml)|
 |[CBS News](https://palewi.re/docs/news-homepages/sites/cbsnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbsnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbsnews.xml)|
 |[Cedar Rapids Gazette](https://palewi.re/docs/news-homepages/sites/gazettedotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazettedotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gazettedotcom.xml)|
