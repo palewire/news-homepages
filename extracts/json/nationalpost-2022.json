@@ -1,5 +1,5 @@
 {
-  "created": 1656548371,
+  "created": 1656628618,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/9/items/nationalpost-2022",
@@ -790,31 +790,367 @@
       "sha1": "6cf5c503186c1cc9a2457eb5b7976f62b960b97d"
     },
     {
+      "name": "nationalpost-2022-06-29T21:32:55.596242-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552781",
+      "size": "75691",
+      "md5": "47e12801ec39e24672bbc5aa39ade278",
+      "crc32": "27a439e6",
+      "sha1": "81b33676e1943890016522d7c0ebe9c85f19bf22",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-29T21:32:55.596242-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552783",
+      "size": "50896",
+      "md5": "2b09b4dd2859c9146b4d97f99a626fdb",
+      "crc32": "1ddb7471",
+      "sha1": "2afd330a4eabd99466470c1a2487fe56cc5c49e4",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-29T21:32:55.596242-04:00.jpg",
+      "source": "original",
+      "mtime": "1656552777",
+      "size": "317342",
+      "md5": "c0c1a01490778eabba78028fc15425b1",
+      "crc32": "e611a323",
+      "sha1": "6e93c680ccf1f24dc7d1abdbc3d09d1457a01e50",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-06-29T21:32:55.596242-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-06-29T21:32:55.596242-04:00.jpg",
+      "mtime": "1656552829",
+      "size": "10134",
+      "md5": "9cb8aa59044d2819e1f5384bc9d484a6",
+      "crc32": "346a7fe7",
+      "sha1": "15581a8a1fc70fdec66dfa2943a3db23bb81eb87"
+    },
+    {
+      "name": "nationalpost-2022-06-29T23:46:19.982331-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560783",
+      "size": "74767",
+      "md5": "bd93f31495b684b86ba9f1bd0f50b1c6",
+      "crc32": "a8828b5b",
+      "sha1": "0ea4a926b2c4e86bc36682eea3017a3a2d386aa2",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-29T23:46:19.982331-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560784",
+      "size": "50770",
+      "md5": "8e380985b4cc70b0b51f393d4632cc62",
+      "crc32": "0744341d",
+      "sha1": "20e250679d3c3c8a601f179f29e02f0eb7682e30",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-29T23:46:19.982331-04:00.jpg",
+      "source": "original",
+      "mtime": "1656560781",
+      "size": "312780",
+      "md5": "fa06cc4c18766e26a0e889f201d2f045",
+      "crc32": "da3f0a5a",
+      "sha1": "42bf1b870cd015697af507970a6e67814e659d6d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-06-29T23:46:19.982331-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-06-29T23:46:19.982331-04:00.jpg",
+      "mtime": "1656560832",
+      "size": "10162",
+      "md5": "f1904f2cc207bca39c4299e89d47ae4b",
+      "crc32": "ce01d0c6",
+      "sha1": "bf70a52bccffacb619b8675ac01eece63b810b0f"
+    },
+    {
+      "name": "nationalpost-2022-06-30T01:14:11.530135-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566055",
+      "size": "75791",
+      "md5": "7b3a567e8b75100fb3973c95de382254",
+      "crc32": "69cd1b1e",
+      "sha1": "5cb279fe12c50352dad7c9043b19229359c7eb78",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T01:14:11.530135-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566057",
+      "size": "50997",
+      "md5": "affbdab97a8aa531bd8bd89cc1199d2d",
+      "crc32": "08e5f2e6",
+      "sha1": "9a97f1c3cca3c426467f87eaeb1024c1210a95a4",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T01:14:11.530135-04:00.jpg",
+      "source": "original",
+      "mtime": "1656566053",
+      "size": "315521",
+      "md5": "0d2caa1c0ce17539ec22a95489183c23",
+      "crc32": "775f0c7c",
+      "sha1": "9c9475e78c5fa79d6ffd5e1c07db88d15684a95a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-06-30T01:14:11.530135-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-06-30T01:14:11.530135-04:00.jpg",
+      "mtime": "1656566103",
+      "size": "10174",
+      "md5": "3bb644ffa2acea01380bca124d6648d0",
+      "crc32": "8870879c",
+      "sha1": "60becebaa3b7fc244f089c9df0fb1ff868df0f3a"
+    },
+    {
+      "name": "nationalpost-2022-06-30T03:03:47.839152-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572631",
+      "size": "74752",
+      "md5": "523f197a3358285bb86c12ac53ab12b9",
+      "crc32": "eafcc76f",
+      "sha1": "6e87b3f598513911d63170dd51f72fed30049460",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T03:03:47.839152-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572632",
+      "size": "51198",
+      "md5": "b426e00e7cfdbaebfa8b12f5881f780e",
+      "crc32": "6fdb063c",
+      "sha1": "b6bf5d8ff6346883f0571d8407f60d724f1ac441",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T03:03:47.839152-04:00.jpg",
+      "source": "original",
+      "mtime": "1656572629",
+      "size": "314641",
+      "md5": "d163ecddd571051c8fb2968e3ace715b",
+      "crc32": "89c58697",
+      "sha1": "cd58ce68af25df9efc64863db4f64fbf87d95a99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-06-30T03:03:47.839152-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-06-30T03:03:47.839152-04:00.jpg",
+      "mtime": "1656572678",
+      "size": "10133",
+      "md5": "ea877366e884fed4aeeff262980278fa",
+      "crc32": "16e99436",
+      "sha1": "86431bd726d1ac8e22e7cf04cba03e78fd2287e6"
+    },
+    {
+      "name": "nationalpost-2022-06-30T05:07:33.666895-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580057",
+      "size": "74789",
+      "md5": "eb1aa809781273c2719bf8f9845df324",
+      "crc32": "3cd5fd82",
+      "sha1": "514f89198edfbc8ff7d02a0e02b80b2d65901a58",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T05:07:33.666895-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580059",
+      "size": "51137",
+      "md5": "e7d1423f4ac595e4e727453b7b92d46f",
+      "crc32": "3c437885",
+      "sha1": "4a813c81a9c8b1a8bb183eb178e38c8441fb6671",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T05:07:33.666895-04:00.jpg",
+      "source": "original",
+      "mtime": "1656580055",
+      "size": "314690",
+      "md5": "ab718359322447da22934b6192cfb317",
+      "crc32": "bc9014c9",
+      "sha1": "dc1b01918788770eabf3f155a5e067020efd79d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-06-30T05:07:33.666895-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-06-30T05:07:33.666895-04:00.jpg",
+      "mtime": "1656580206",
+      "size": "10141",
+      "md5": "c0f209dbb61abd71bd9afcf67ed74e00",
+      "crc32": "6589f5c4",
+      "sha1": "631c5af017061a12136ac47f46d4397fcb1b31d9"
+    },
+    {
+      "name": "nationalpost-2022-06-30T07:03:46.289137-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587029",
+      "size": "74478",
+      "md5": "5e668e3e1b60bad5243e478c177cc106",
+      "crc32": "e0da15e0",
+      "sha1": "5f5ef809cac01f570306cee09473a50736f7aecd",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T07:03:46.289137-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587031",
+      "size": "51156",
+      "md5": "1704f621eba82ebc18796b2d05920992",
+      "crc32": "4174e409",
+      "sha1": "ad044d6d68e9ecc3625cf207785bd1416c2dc2b2",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T07:03:46.289137-04:00.jpg",
+      "source": "original",
+      "mtime": "1656587027",
+      "size": "315046",
+      "md5": "d50abc7c7e15894a78468f009fb01ec5",
+      "crc32": "64bcf2ea",
+      "sha1": "b7767e011d82cf30e4aeaf4e6e07ed36b5bb5cfc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-06-30T07:03:46.289137-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-06-30T07:03:46.289137-04:00.jpg",
+      "mtime": "1656587079",
+      "size": "10165",
+      "md5": "cbe1716c5142a45c36d4aa4c5ecb7980",
+      "crc32": "f8ea1e3d",
+      "sha1": "273b2d016c486cb4840889fdfc91dd47bba31398"
+    },
+    {
+      "name": "nationalpost-2022-06-30T09:08:38.389740-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594522",
+      "size": "74534",
+      "md5": "ea831b7640ca5ca4a7594b2824999c9c",
+      "crc32": "cd7378c1",
+      "sha1": "339b2f13c5cdb3f12e873feed3dff0c5755de747",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T09:08:38.389740-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594523",
+      "size": "51073",
+      "md5": "fc62faa3dd6c439bb401eff3553851ce",
+      "crc32": "d088e071",
+      "sha1": "08d3629f95c1fa289656212c376e064108826b82",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T09:08:38.389740-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594520",
+      "size": "319797",
+      "md5": "fd5d3cb7a9ede16be493daabf0b5cfd9",
+      "crc32": "115f440c",
+      "sha1": "e440b90b7efb96e0233f2b9543237fb04092f8d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-06-30T09:08:38.389740-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-06-30T09:08:38.389740-04:00.jpg",
+      "mtime": "1656594575",
+      "size": "10125",
+      "md5": "291d088662c9771c7b7a629d68f1be2f",
+      "crc32": "ca93c6a0",
+      "sha1": "95c88c92b932ac4d9561d4dfd2982e24d600d9b5"
+    },
+    {
+      "name": "nationalpost-2022-06-30T18:35:50.602593-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656628558",
+      "size": "74677",
+      "md5": "7b0a0ef193dbf1a130c47422005a80ef",
+      "crc32": "6f49fde0",
+      "sha1": "61781ea23c7d62f8abc61ef5b1a6d51a9df9dd5e",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T18:35:50.602593-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656628559",
+      "size": "50380",
+      "md5": "8efe3b7ac85fd6344f09c5f06cd568b3",
+      "crc32": "120d09b4",
+      "sha1": "dc66a29079c7eaf2697cc51e2e6793235056a422",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-06-30T18:35:50.602593-04:00.jpg",
+      "source": "original",
+      "mtime": "1656628556",
+      "size": "303943",
+      "md5": "032b0c9ba72215b03e316d6f7695bab3",
+      "crc32": "4f9340c4",
+      "sha1": "7dccace525d01aaeb1648098d85828f8d26f2a3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-06-30T18:35:50.602593-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-06-30T18:35:50.602593-04:00.jpg",
+      "mtime": "1656628606",
+      "size": "9973",
+      "md5": "a4d13972c56682ad0c2c415d9bbbb813",
+      "crc32": "4bd160aa",
+      "sha1": "79db6e612de25177e631e641cdcef51216ae14e3"
+    },
+    {
       "name": "nationalpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07964d6f3fc750a31adf1c3fd1b08f1427999f14",
-      "mtime": "1656544151",
-      "size": "17568",
-      "md5": "e7f6d7d7e52631d692234a36c7ebf153",
-      "crc32": "03675bd2",
-      "sha1": "02d4f9e1496905f9ffbf6160f053baf9f8ca8edf",
+      "btih": "5fe0a0d995f3528f38a311b082ff1b882242e8ae",
+      "mtime": "1656628611",
+      "size": "24475",
+      "md5": "352c9b82e28bd814888ae9d85d85db4f",
+      "crc32": "bb0e6b9c",
+      "sha1": "ea3511fc64458aa478987a915e3f546614e7730b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nationalpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5364a856b27e789c066d9a46c8db3e45",
+      "md5": "7d0ff2b5603320e04510dd7d746b5d83",
       "summation": "md5"
     },
     {
       "name": "nationalpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544100",
-      "size": "106496",
-      "md5": "42a4dbe5fb7dc4c15aefceb0071015a1",
-      "crc32": "73efb7e9",
-      "sha1": "a003bc0cd89e3fe34db3b5e307fc7f478ed703b0",
+      "mtime": "1656628563",
+      "size": "147456",
+      "md5": "9069174ccb5a1cad8980d210de903179",
+      "crc32": "021b41d9",
+      "sha1": "0a17f0dffd16e9640370b3f0e816aa8287e560ab",
       "format": "Metadata"
     },
     {
@@ -828,9 +1164,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 79,
-  "item_last_updated": 1656544151,
-  "item_size": 6599369,
+  "files_count": 111,
+  "item_last_updated": 1656628611,
+  "item_size": 10249089,
   "metadata": {
     "identifier": "nationalpost-2022",
     "collection": [
@@ -847,1742 +1183,8 @@
     "publicdate": "2022-06-24 22:58:25",
     "addeddate": "2022-06-24 22:58:25"
   },
-  "nationalpost-2022": [
-    {
-      "text": "Skip to Content",
-      "url": "#main-content"
-    },
-    {
-      "text": " Summer Sale ",
-      "url": "https://nationalpost.com/subscribe/campaign/always-eblast/?utm_source=on-net&utm_medium=editorial&utm_campaign=June-summer-sale&utm_content=50peryear"
-    },
-    {
-      "text": " Get the National Post for only $50 per year. Get the National Post for only $50 per year. Subscribe now> ",
-      "url": "https://nationalpost.com/subscribe/campaign/always-eblast/?utm_source=on-net&utm_medium=editorial&utm_campaign=June-summer-sale&utm_content=50peryear"
-    },
-    {
-      "text": " Manage Print Subscription ",
-      "url": "/manage"
-    },
-    {
-      "text": "  National Post                                              ",
-      "url": "/"
-    },
-    {
-      "text": " Subscribe ",
-      "url": "/subscribe"
-    },
-    {
-      "text": " Subscribe ",
-      "url": "/subscribe"
-    },
-    {
-      "text": " Subscribe  ",
-      "url": "/subscribe/"
-    },
-    {
-      "text": " FAQ ",
-      "url": "/faq/"
-    },
-    {
-      "text": " My Account ",
-      "url": "/my-account/"
-    },
-    {
-      "text": " Manage My Subscriptions ",
-      "url": "/my-account/#/subscriptions/"
-    },
-    {
-      "text": " News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": " National ",
-      "url": "/category/news/national/"
-    },
-    {
-      "text": " World ",
-      "url": "/category/news/world/"
-    },
-    {
-      "text": " PostPandemic ",
-      "url": "http://postpandemic.nationalpost.com/"
-    },
-    {
-      "text": " Coronavirus ",
-      "url": "/tag/coronavirus/"
-    },
-    {
-      "text": " Heroes of the Pandemic ",
-      "url": "/tag/heroes-of-the-pandemic/"
-    },
-    {
-      "text": " Object Lessons of a Pandemic ",
-      "url": "/tag/object-lessons-of-a-pandemic/"
-    },
-    {
-      "text": " Trade ",
-      "url": "/tag/trade/"
-    },
-    {
-      "text": " Posted Newsletter ",
-      "url": "http://posted.nationalpost.com/p/1/"
-    },
-    {
-      "text": " Archives ",
-      "url": "https://www.tkqlhce.com/click-8833686-11570746?url=https://nationalpost.newspapers.com/?xid=3320/"
-    },
-    {
-      "text": " Mortgages ",
-      "url": "https://financialpost.com/category/real-estate/mortgages/"
-    },
-    {
-      "text": " NP Comment ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": " Politics ",
-      "url": "/category/news/politics/"
-    },
-    {
-      "text": " True Crime ",
-      "url": "/category/news/true-crime/"
-    },
-    {
-      "text": " Post Picks ",
-      "url": "/category/post-picks/"
-    },
-    {
-      "text": " More  ",
-      "url": "/category/life/"
-    },
-    {
-      "text": " Life ",
-      "url": "/category/life/"
-    },
-    {
-      "text": " National Indigenous Peoples Day ",
-      "url": "/category/special-sections/national-indigenous-peoples-day/"
-    },
-    {
-      "text": " Shopping Essentials ",
-      "url": "/category/shopping-essentials/"
-    },
-    {
-      "text": " Business Essentials ",
-      "url": "/category/business-essentials/"
-    },
-    {
-      "text": " Horoscopes ",
-      "url": "/category/life/horoscopes/"
-    },
-    {
-      "text": " Health ",
-      "url": "/category/health/"
-    },
-    {
-      "text": " Homes ",
-      "url": "/category/life/homes/"
-    },
-    {
-      "text": " Luxury Living ",
-      "url": "/category/luxury-living/"
-    },
-    {
-      "text": " Eating & Drinking ",
-      "url": "/category/life/food/"
-    },
-    {
-      "text": " Style ",
-      "url": "/category/shopping-essentials/style-beauty/"
-    },
-    {
-      "text": " Parenting ",
-      "url": "/category/life/parenting/"
-    },
-    {
-      "text": " Travel ",
-      "url": "/category/travel/"
-    },
-    {
-      "text": " MoneyWise Canada ",
-      "url": "/category/life/moneywise-pro/"
-    },
-    {
-      "text": " The Logic ",
-      "url": "/category/life/the-logic/"
-    },
-    {
-      "text": " Puzzles ",
-      "url": "/puzzles/"
-    },
-    {
-      "text": " Comics ",
-      "url": "/comics/"
-    },
-    {
-      "text": " Advice ",
-      "url": "/advice/"
-    },
-    {
-      "text": " New York Times Crossword ",
-      "url": "/nyt-puzzle/"
-    },
-    {
-      "text": " Sponsored ",
-      "url": "/category/sponsored/"
-    },
-    {
-      "text": " Play for Ontario ",
-      "url": "/category/sponsored/olg/"
-    },
-    {
-      "text": " Culture ",
-      "url": "/category/entertainment/"
-    },
-    {
-      "text": " Books ",
-      "url": "/category/entertainment/books/"
-    },
-    {
-      "text": " Celebrity ",
-      "url": "/category/entertainment/celebrity/"
-    },
-    {
-      "text": " Movies ",
-      "url": "/category/entertainment/movies/"
-    },
-    {
-      "text": " Music ",
-      "url": "/category/entertainment/music/"
-    },
-    {
-      "text": " Theatre ",
-      "url": "/category/entertainment/theatre/"
-    },
-    {
-      "text": " Television ",
-      "url": "/category/entertainment/television/"
-    },
-    {
-      "text": " Sports ",
-      "url": "/category/sports/"
-    },
-    {
-      "text": " Sports Betting ",
-      "url": "/category/sports/sports-betting/"
-    },
-    {
-      "text": " NHL ",
-      "url": "/category/sports/hockey/nhl/"
-    },
-    {
-      "text": " Baseball ",
-      "url": "/category/sports/baseball/"
-    },
-    {
-      "text": " Basketball ",
-      "url": "/category/sports/basketball/"
-    },
-    {
-      "text": " Football ",
-      "url": "/category/sports/football/"
-    },
-    {
-      "text": " Soccer ",
-      "url": "/category/sports/soccer/"
-    },
-    {
-      "text": " Golf ",
-      "url": "/category/sports/golf/"
-    },
-    {
-      "text": " Golf Videos ",
-      "url": "http://nationalpost.sportstonews.com/"
-    },
-    {
-      "text": " Tennis ",
-      "url": "/category/sports/tennis/"
-    },
-    {
-      "text": " The GrowthOp ",
-      "url": "https://www.thegrowthop.com/"
-    },
-    {
-      "text": " Remembering  ",
-      "url": "https://nationalpost.remembering.ca/"
-    },
-    {
-      "text": " Place an Obituary ",
-      "url": "https://nationalpost.remembering.ca/obituary/create/"
-    },
-    {
-      "text": " Place an In Memoriam ",
-      "url": "https://obituariesnationalpost.adperfect.com/channel/C0A801FE1df5d23683gT6659D225/publication/7F0000010a5b2275CEjUF9CD5AA0/category/7F0000010a5b2277BFku9D0544C5/classification/7F0000010a5b2277C0tGE1EF589A?create=new/"
-    },
-    {
-      "text": " Classifieds  ",
-      "url": "https://classifieds.nationalpost.com/"
-    },
-    {
-      "text": " Place an Ad ",
-      "url": "https://nationalpost.adperfect.com/"
-    },
-    {
-      "text": " Celebrations ",
-      "url": "https://classifieds.nationalpost.com/toronto/celebrating/search/"
-    },
-    {
-      "text": " Shopping ",
-      "url": "https://shopping.nationalpost.com/"
-    },
-    {
-      "text": " This Week's Flyers ",
-      "url": "/flyercity/"
-    },
-    {
-      "text": " Working ",
-      "url": "https://working.nationalpost.com/"
-    },
-    {
-      "text": " Financial Post ",
-      "url": "https://financialpost.com/"
-    },
-    {
-      "text": " Healthing ",
-      "url": "/category/healthing/"
-    },
-    {
-      "text": " Driving ",
-      "url": "/category/driving/"
-    },
-    {
-      "text": " The GrowthOp ",
-      "url": "/category/thegrowthop/"
-    },
-    {
-      "text": " NYT Crossword ",
-      "url": "/nyt-puzzle/"
-    },
-    {
-      "text": " Podcasts ",
-      "url": "/podcasts/"
-    },
-    {
-      "text": " Newsletters ",
-      "url": "/newsletters/"
-    },
-    {
-      "text": " E-Paper ",
-      "url": "http://epaper.nationalpost.com/"
-    },
-    {
-      "text": " Profile ",
-      "url": "/my-account"
-    },
-    {
-      "text": " Settings ",
-      "url": "/my-account/#/settings"
-    },
-    {
-      "text": " Manage Print Subscription / Tax Receipt ",
-      "url": "/manage"
-    },
-    {
-      "text": " Manage My Subscriptions ",
-      "url": "/my-account/#/subscriptions"
-    },
-    {
-      "text": " Manage My Newsletters ",
-      "url": "/my-account/#/newsletters"
-    },
-    {
-      "text": " Customer Service ",
-      "url": "/contact"
-    },
-    {
-      "text": " FAQ ",
-      "url": "/faq/"
-    },
-    {
-      "text": "News",
-      "url": "/category/news/"
-    },
-    {
-      "text": "NP Comment",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "Politics",
-      "url": "/category/news/politics/"
-    },
-    {
-      "text": "True Crime",
-      "url": "/category/news/true-crime/"
-    },
-    {
-      "text": "Post Picks",
-      "url": "/category/post-picks/"
-    },
-    {
-      "text": "Remembering",
-      "url": "https://nationalpost.remembering.ca/"
-    },
-    {
-      "text": "Financial Post",
-      "url": "https://financialpost.com/"
-    },
-    {
-      "text": "Healthing",
-      "url": "/category/healthing/"
-    },
-    {
-      "text": "Driving",
-      "url": "/category/driving/"
-    },
-    {
-      "text": "The GrowthOp",
-      "url": "/category/thegrowthop/"
-    },
-    {
-      "text": "NYT Crossword",
-      "url": "/nyt-puzzle/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/newsletters/"
-    },
-    {
-      "text": "E-Paper",
-      "url": "http://epaper.nationalpost.com/"
-    },
-    {
-      "text": "  R. Kelly sentenced to 30 years in sex trafficking case  ",
-      "url": "/news/rb-hitmaker-r-kelly-due-in-court-for-sex-abuse-sentencing"
-    },
-    {
-      "text": "         ",
-      "url": "/news/rb-hitmaker-r-kelly-due-in-court-for-sex-abuse-sentencing"
-    },
-    {
-      "text": "  Kelly McParland: A stunning portrait of Donald Trump's behaviour during the Jan. 6 riot  ",
-      "url": "/opinion/kelly-mcparland-a-stunning-portrait-of-donald-trumps-behaviour-during-the-jan-6-riot"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/kelly-mcparland-a-stunning-portrait-of-donald-trumps-behaviour-during-the-jan-6-riot"
-    },
-    {
-      "text": "  Kristopher Kinsinger: The rot in Canada\u2019s constitutional culture runs deep  ",
-      "url": "/opinion/kristopher-kinsinger-the-rot-in-canadas-constitutional-culture-runs-deep"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/kristopher-kinsinger-the-rot-in-canadas-constitutional-culture-runs-deep"
-    },
-    {
-      "text": "  Pro-Chinese agents pose as activists on social media to protest Canadian rare earth mine  ",
-      "url": "https://financialpost.com/commodities/mining/pro-chinese-agents-pose-as-activists-on-social-media-to-protest-canadian-rare-earth-mine"
-    },
-    {
-      "text": "         ",
-      "url": "https://financialpost.com/commodities/mining/pro-chinese-agents-pose-as-activists-on-social-media-to-protest-canadian-rare-earth-mine"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "  ArriveCan app may stay as part of larger border modernization, Mendicino's comments suggest   'It's not working,' says a Conservative MP who questions why the government is so invested in making ArriveCan permanent when so many people report problems  ",
-      "url": "/news/arrivecan-app-may-stay-as-part-of-larger-border-modernization-mendicinos-comments-suggest"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/arrivecan-app-may-stay-as-part-of-larger-border-modernization-mendicinos-comments-suggest"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "  Carson Jerema: The morally bankrupting influence of the Liberal party  ",
-      "url": "/opinion/carson-jerema-the-morally-bankrupting-influence-of-the-liberal-party"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/carson-jerema-the-morally-bankrupting-influence-of-the-liberal-party"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "  FIRST READING: Tories thought they needed a centrist to win. The polls disagree  ",
-      "url": "/news/canada/first-reading-tories-thought-they-needed-a-centrist-to-win-the-polls-disagree"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada/first-reading-tories-thought-they-needed-a-centrist-to-win-the-polls-disagree"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "  Brampton city councillor asks Patrick Brown to make up his mind over upcoming municipal election  ",
-      "url": "/news/politics/brampton-city-councillor-asks-patrick-brown-to-make-up-his-mind-over-upcoming-municipal-election"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/politics/brampton-city-councillor-asks-patrick-brown-to-make-up-his-mind-over-upcoming-municipal-election"
-    },
-    {
-      "text": "  World  ",
-      "url": "/category/world/"
-    },
-    {
-      "text": "  Ukrainian Canadians insist government must stand firm on Russian sanctions  ",
-      "url": "/news/world/ukrainian-canadians-insist-government-should-not-ease-russian-sanctions"
-    },
-    {
-      "text": "  World  ",
-      "url": "/category/world/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/world/ukrainian-canadians-insist-government-should-not-ease-russian-sanctions"
-    },
-    {
-      "text": "  Poker champion comes up a winner in high stakes showdown with CRA  ",
-      "url": "https://financialpost.com/personal-finance/taxes/poker-champion-comes-up-a-winner-in-high-stakes-showdown-with-cra"
-    },
-    {
-      "text": "         ",
-      "url": "https://financialpost.com/personal-finance/taxes/poker-champion-comes-up-a-winner-in-high-stakes-showdown-with-cra"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "  Canada announces four new embassies as NATO leader presses for more defence spending  ",
-      "url": "/news/politics/newsalert-canada-opening-new-embassies-in-estonia-lithuania-slovakia-and-armenia"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/politics/newsalert-canada-opening-new-embassies-in-estonia-lithuania-slovakia-and-armenia"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "  From the Editor in Chief: Disagree all you like with us. But engage us, don't abuse us  ",
-      "url": "/opinion/from-the-editor-in-chief-disagree-all-you-like-with-us-but-engage-us-dont-abuse-us"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/from-the-editor-in-chief-disagree-all-you-like-with-us-but-engage-us-dont-abuse-us"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "  Thunder Bay police under fire again as chief is suspended amid 'serious allegations'  ",
-      "url": "/news/canada/thunder-bay-police-under-fire-again-as-chief-is-suspended-amid-serious-allegations"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada/thunder-bay-police-under-fire-again-as-chief-is-suspended-amid-serious-allegations"
-    },
-    {
-      "text": " View More Videos > ",
-      "url": "/video-centre"
-    },
-    {
-      "text": "News",
-      "url": "/category/news/"
-    },
-    {
-      "text": "World",
-      "url": "/category/news/world/"
-    },
-    {
-      "text": "National",
-      "url": "/category/news/national/"
-    },
-    {
-      "text": "  Amber Heard still being investigated in Australia perjury case involving her dogs   The actress brought her two Yorkshire Terriers into the country in 2015 without declaring them, despite its strict quarantine policy, says an official  ",
-      "url": "/news/amber-heard-still-being-investigated-in-australia-perjury-case-involving-her-dogs"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/amber-heard-still-being-investigated-in-australia-perjury-case-involving-her-dogs"
-    },
-    {
-      "text": "  Travis Barker hospitalized for pancreatitis, according to reports   Multiple sources have confirmed the hospitalization was a result of pancreas inflammation which includes symptoms like nausea, intense stomach pain and vomiting  ",
-      "url": "/news/travis-barker-hospitalized-for-pancreatitis-according-to-reports"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/travis-barker-hospitalized-for-pancreatitis-according-to-reports"
-    },
-    {
-      "text": "  Canada reaches $150M settlement with Purdue Pharma over opioid addictions   Purdue's actions contributed to the opioid epidemic 'through their deceptive marketing,' says B.C. Attorney General David Eby  ",
-      "url": "/news/cp-newsalert-b-c-reaches-settlement-with-purdue-pharma-over-opioid-addictions"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/cp-newsalert-b-c-reaches-settlement-with-purdue-pharma-over-opioid-addictions"
-    },
-    {
-      "text": "  Why the WEF doesn\u2019t control the world (despite claiming to)   Everything Should Be Better: You might have heard Justin Trudeau parroting WEF talking points in a speech to the UN \u2014 but that doesn't mean he's a WEF puppet  ",
-      "url": "/opinion/does-world-economic-forum-wef-control-the-world"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/does-world-economic-forum-wef-control-the-world"
-    },
-    {
-      "text": "  EY to pay US$100 million fine because its auditors cheated on ethics exam   The SEC announced on Tuesday that EY would pay a US$100 million fine \u2014 the largest ever penalty for an audit firm  ",
-      "url": "/news/ernst-young-pays-us100-million-sec-fine-over-cpa-ethics-exam-cheaters"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/ernst-young-pays-us100-million-sec-fine-over-cpa-ethics-exam-cheaters"
-    },
-    {
-      "text": " More news stories > ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "  ArriveCan app may stay as part of larger border modernization, Mendicino's comments suggest  ",
-      "url": "/news/arrivecan-app-may-stay-as-part-of-larger-border-modernization-mendicinos-comments-suggest"
-    },
-    {
-      "text": "  FIRST READING: Tories thought they needed a centrist to win. The polls disagree  ",
-      "url": "/news/canada/first-reading-tories-thought-they-needed-a-centrist-to-win-the-polls-disagree"
-    },
-    {
-      "text": "  From the Editor in Chief: Disagree all you like with us. But engage us, don't abuse us  ",
-      "url": "/opinion/from-the-editor-in-chief-disagree-all-you-like-with-us-but-engage-us-dont-abuse-us"
-    },
-    {
-      "text": "  Kristopher Kinsinger: The rot in Canada\u2019s constitutional culture runs deep  ",
-      "url": "/opinion/kristopher-kinsinger-the-rot-in-canadas-constitutional-culture-runs-deep"
-    },
-    {
-      "text": "  Kelly McParland: A stunning portrait of Donald Trump's behaviour during the Jan. 6 riot  ",
-      "url": "/opinion/kelly-mcparland-a-stunning-portrait-of-donald-trumps-behaviour-during-the-jan-6-riot"
-    },
-    {
-      "text": "      View the latest edition  ",
-      "url": "http://epaper.nationalpost.com/"
-    },
-    {
-      "text": " Shopping Essentials ",
-      "url": "https://nationalpost.com/category/shopping-essentials/"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "Ottawa",
-      "url": "//shopping.nationalpost.com/"
-    },
-    {
-      "text": "NP Comment",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "  Sabrina Maddeaux: Canadian polarization is generational, not political   One of the dangers of relentless exposure to a neighbouring superpower\u2019s media and cultural commentariat is we tend to overidentify with their politics. We think American issues are our issues too, and often end up distracted by pointless arguments about problems we don\u2019t have.  ",
-      "url": "/opinion/sabrina-maddeaux-canadian-polarization-is-generational-not-political"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/sabrina-maddeaux-canadian-polarization-is-generational-not-political"
-    },
-    {
-      "text": "  Rupa Subramanya: Canada must rethink its vaccine procurement strategy   The federal government\u2019s current vaccine procurement commitments were made at a time of great uncertainty at the outset of the pandemic. More than two years on, they no longer make sense  ",
-      "url": "/opinion/rupa-subramanya-canada-must-rethink-its-vaccine-procurement-strategy"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/rupa-subramanya-canada-must-rethink-its-vaccine-procurement-strategy"
-    },
-    {
-      "text": "  Chris Selley: Canadian politics could use an honest-to-goodness 'freedom' candidate   Culture warriors are not freedom fighters. They just want to win  ",
-      "url": "/opinion/chris-selley-canadian-politics-could-use-an-honest-to-goodness-freedom-candidate"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/chris-selley-canadian-politics-could-use-an-honest-to-goodness-freedom-candidate"
-    },
-    {
-      "text": "  Adam Zivo: To win the abortion debate, Democrats need to be persuasive   Some pro-choice advocates, feeling unburdened of the duty to convince others of why abortion access was moral and necessary, undervalued the importance of building democratic support for their cause  ",
-      "url": "/opinion/adam-zivo-to-win-the-abortion-debate-democrats-need-to-be-persuasive"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/adam-zivo-to-win-the-abortion-debate-democrats-need-to-be-persuasive"
-    },
-    {
-      "text": "  Stephen M. Saideman: Civilian control of Canada's military is fundamental to democracy   Louise Arbour's report on the armed forces' sexual misconduct crisis did not go far enough  ",
-      "url": "/opinion/stephen-m-saideman-civilian-control-of-canadas-military-is-fundamental-to-democracy"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/stephen-m-saideman-civilian-control-of-canadas-military-is-fundamental-to-democracy"
-    },
-    {
-      "text": " More np comment stories > ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": " Business Essentials ",
-      "url": "https://nationalpost.com/category/business-essentials/"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "Politics",
-      "url": "/category/news/politics/"
-    },
-    {
-      "text": "  Unclear whether Canada will participate in G7 plan to counter China's Belt and Road Initiative   The U.S. has promised to contribute US$200B and the EU will put in 300 million euros, but it\u2019s unknown how much \u2014 if anything \u2014 Canada will chip in  ",
-      "url": "/news/politics/unclear-whether-canada-will-participate-in-g7-plan-to-counter-chinas-belt-and-road-initiative"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/politics/unclear-whether-canada-will-participate-in-g7-plan-to-counter-chinas-belt-and-road-initiative"
-    },
-    {
-      "text": "  New Ontario natural resources minister faces hearing on charges he harmed endangered turtles   A government press secretary for Graydon Smith confirmed that he was accused by a private citizen of violating the Endangered Species Act  ",
-      "url": "/news/politics/new-ontario-natural-resources-minister-faces-hearing-on-charges-he-harmed-endangered-turtles"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/politics/new-ontario-natural-resources-minister-faces-hearing-on-charges-he-harmed-endangered-turtles"
-    },
-    {
-      "text": "  Ontario NDP names Peter Tabuns, longtime Toronto caucus member, as interim leader   Tabuns has represented the riding of Toronto-Danforth since 2006 and has served as critic for various portfolios, including energy and environment  ",
-      "url": "/news/politics/cp-newsalert-ontario-ndp-names-peter-tabuns-as-interim-leader"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/politics/cp-newsalert-ontario-ndp-names-peter-tabuns-as-interim-leader"
-    },
-    {
-      "text": "  'There's merit to it': Former top Trudeau, Harper aides on centralizing power in the Prime Minister's Office   The demands of governing sometimes require stiff, centralized power, Gerald Butts and Ian Brodie told the crowd at Alberta Relaunch  ",
-      "url": "/news/politics/theres-merit-to-it-former-top-trudeau-harper-aides-on-centralizing-power-in-the-prime-ministers-office"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/politics/theres-merit-to-it-former-top-trudeau-harper-aides-on-centralizing-power-in-the-prime-ministers-office"
-    },
-    {
-      "text": "  Military looking to save money by cutting capabilities, handing some roles to civilians: new directive   The directive noted the need for reconstitution of the armed forces because of the ongoing problems it has had attracting new recruits and retaining skilled personnel  ",
-      "url": "/news/national/defence-watch/military-to-look-at-cutting-capabilities-to-save-money-says-directive-from-top-general-and-deputy-minister/wcm/b8ea6bab-270e-44f3-b463-276e177efe52"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/national/defence-watch/military-to-look-at-cutting-capabilities-to-save-money-says-directive-from-top-general-and-deputy-minister/wcm/b8ea6bab-270e-44f3-b463-276e177efe52"
-    },
-    {
-      "text": " More politics stories > ",
-      "url": "/category/news/politics/"
-    },
-    {
-      "text": " view complete forecast ",
-      "url": "/weather/"
-    },
-    {
-      "text": " MoneyWise Canada ",
-      "url": "/category/life/moneywise-pro/"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "     ",
-      "url": "#"
-    },
-    {
-      "text": "True Crime",
-      "url": "/category/news/true-crime/"
-    },
-    {
-      "text": "  Douglas Todd: Canadian cops far less likely to kill, or be killed, than U.S. counterparts   Analysis: Canadian police are often accused of using excessive force, but a U.S. officer is five times more likely than a Canadian cop to shoot and kill.  ",
-      "url": "/opinion/columnists/douglas-todd-canadian-cops-far-less-likely-to-kill-or-be-killed-than-u-s-counterparts"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/columnists/douglas-todd-canadian-cops-far-less-likely-to-kill-or-be-killed-than-u-s-counterparts"
-    },
-    {
-      "text": "  True Crime Byline: Families knew 'horrible creature' was taking Vancouver women long before police did   The DNA of 33 missing women was found on Robert Pickton's pig farm. But it's the story of the victims that stays with me, not the killer.  ",
-      "url": "/news/true-crime/true-crime-byline-families-knew-horrible-creature-was-taking-vancouver-women-long-before-police-did"
-    },
-    {
-      "text": "  True Crime  ",
-      "url": "/category/true-crime/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/true-crime/true-crime-byline-families-knew-horrible-creature-was-taking-vancouver-women-long-before-police-did"
-    },
-    {
-      "text": "  True Crime Byline podcast: This Isn't a Story about Robert Pickton   Listen to this podcast episode for the heartbreaking history of Canada\u2019s most prolific serial killer case, as told by Vancouver Sun reporter Lori Culbert.  ",
-      "url": "/news/true-crime/true-crime-byline/byline-podcast-episode-1-this-isnt-a-story-about-robert-pickton"
-    },
-    {
-      "text": "  True Crime Byline  ",
-      "url": "/category/true-crime-byline/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/true-crime/true-crime-byline/byline-podcast-episode-1-this-isnt-a-story-about-robert-pickton"
-    },
-    {
-      "text": "  Secrecy in the courts: Exclusive study reveals increasing use of publication bans in Canada   An investigation of discretionary publication bans requested during the past two years across four provinces shows a 25 per cent increase from one year to the next  ",
-      "url": "/news/canada/secrecy-in-the-courts-exclusive-study-reveals-increasing-use-of-publication-bans-in-canada"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada/secrecy-in-the-courts-exclusive-study-reveals-increasing-use-of-publication-bans-in-canada"
-    },
-    {
-      "text": "  Toronto van attacker gets life sentence after victims describe lost family, survivor\u2019s guilt and financial ruin   Five days had been set aside for the sentencing hearing, but all the tears and anger from victims and submissions from lawyers wrapped up in one gruelling day  ",
-      "url": "/news/canada/alek-minassian-gets-25-years-for-toronto-van-attack"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada/alek-minassian-gets-25-years-for-toronto-van-attack"
-    },
-    {
-      "text": " More true crime stories > ",
-      "url": "/category/news/true-crime/"
-    },
-    {
-      "text": " More Contests > ",
-      "url": "category/contests/"
-    },
-    {
-      "text": "Post Picks",
-      "url": "/category/post-picks/"
-    },
-    {
-      "text": "  'These gals seem like they could take on an alien invasion,' says Slash/Back creator   Nyla Innuksuk explains why she was adamant her science-fiction horror be set in a very particular Far North community  ",
-      "url": "/entertainment/movies/these-gals-seem-like-they-could-take-on-an-alien-invasion-says-slash-back-creator"
-    },
-    {
-      "text": "  Movies  ",
-      "url": "/category/movies/"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/movies/these-gals-seem-like-they-could-take-on-an-alien-invasion-says-slash-back-creator"
-    },
-    {
-      "text": "  Scott Stinson: Kyrie Irving's failed power play shows player empowerment has its limits   Having been allowed to seek his own deal, Irving discovered that contending teams were not lining up to part with good assets in return for his services  ",
-      "url": "/sports/scott-stinson-kyrie-irvings-failed-power-play-shows-that-player-empowerment-has-its-limits"
-    },
-    {
-      "text": "  Sports  ",
-      "url": "/category/sports/"
-    },
-    {
-      "text": "         ",
-      "url": "/sports/scott-stinson-kyrie-irvings-failed-power-play-shows-that-player-empowerment-has-its-limits"
-    },
-    {
-      "text": "  Juror in Amber Heard defamation trial says actress left them feeling 'uncomfortable'   In an interview after the trial, Heard revealed she has 'years worth of notes' from her therapist which she claims proves Depp's abuse  ",
-      "url": "/entertainment/jury-in-amber-heard-and-johnny-depps-defamation-trial-felt-uncomfortable"
-    },
-    {
-      "text": "  Culture  ",
-      "url": "/category/entertainment/"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/jury-in-amber-heard-and-johnny-depps-defamation-trial-felt-uncomfortable"
-    },
-    {
-      "text": "  Film review: Spiderhead could have been brilliant   The short story from which it is adapted is thought-provoking stuff. The movie, not so much  ",
-      "url": "/entertainment/movies/film-review-spiderhead-could-have-been-brilliant"
-    },
-    {
-      "text": "  Movies  ",
-      "url": "/category/movies/"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/movies/film-review-spiderhead-could-have-been-brilliant"
-    },
-    {
-      "text": "  Film review: Lightyear goes to emotional infinity, and ... you know   Sweet Toy Story spinoff tells the tale of the 'real' Buzz Lightyear  ",
-      "url": "/entertainment/movies/film-review-lightyear-goes-to-emotional-infinity-and-you-know"
-    },
-    {
-      "text": "  Movies  ",
-      "url": "/category/movies/"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/movies/film-review-lightyear-goes-to-emotional-infinity-and-you-know"
-    },
-    {
-      "text": " More post picks stories > ",
-      "url": "/category/post-picks/"
-    },
-    {
-      "text": "   Promoted By  Business Wire   ",
-      "url": "https://www.businesswire.com"
-    },
-    {
-      "text": " More News Releases > ",
-      "url": "/category/pmn/press-releases-pmn/business-wire-news-releases-pmn"
-    },
-    {
-      "text": "   Promoted By  GlobeNewswire   ",
-      "url": "https://www.globenewswire.com"
-    },
-    {
-      "text": " More News Releases > ",
-      "url": "/category/globe-newswire/"
-    },
-    {
-      "text": "More",
-      "url": "/category/life/"
-    },
-    {
-      "text": "Homes",
-      "url": "/category/life/homes/"
-    },
-    {
-      "text": "Food",
-      "url": "/category/life/food/"
-    },
-    {
-      "text": "  BILD Awards celebrate people and companies that shape the GTA   On June 22, the GTA\u2019s building and development industry gathered for the BILD Awards, which recognize excellence in the design, construction, marketing and sales of new homes in the GTA. As always, excitement and inspiration were in the air as we celebrated the remarkable people and dynamic companies shaping our region. In the limited space of this column, I can only mention a handful, but I invite you to visit www.bildawards.com for a full list.  ",
-      "url": "/life/homes/bild-awards-celebrate-people-and-companies-that-shape-the-gta"
-    },
-    {
-      "text": "  Homes  ",
-      "url": "/category/homes/"
-    },
-    {
-      "text": "         ",
-      "url": "/life/homes/bild-awards-celebrate-people-and-companies-that-shape-the-gta"
-    },
-    {
-      "text": "  Daily Horoscope for Wednesday, June 29   There are no restrictions to shopping or important decisions today. The Moon is in Cancer  ",
-      "url": "/life/horoscopes/daily-horoscope-for-wednesday-june-29"
-    },
-    {
-      "text": "  Horoscopes  ",
-      "url": "/category/horoscopes/"
-    },
-    {
-      "text": "         ",
-      "url": "/life/horoscopes/daily-horoscope-for-wednesday-june-29"
-    },
-    {
-      "text": "  Shedding light on garden storage   A garden shed can be a do-it-yourself project, but it depends on what you want, how big you want it to be, and what your local municipality dictates. While some homeowners may opt for a ready-made shed that just needs assembling, a well-built shed is sturdy and can last for years if built right. However, building a shed has restrictions, and you may need a permit, so always check with your local building authority.  ",
-      "url": "/life/homes/shedding-light-on-garden-storage"
-    },
-    {
-      "text": "  Homes  ",
-      "url": "/category/homes/"
-    },
-    {
-      "text": "         ",
-      "url": "/life/homes/shedding-light-on-garden-storage"
-    },
-    {
-      "text": "  Daily Horoscope for Tuesday, June 28   After 8 AM EDT today (5 AM PDT), there are no restrictions to shopping or important decisions today. The New Moon occurs in Cancer at 10:52 PM EDT (7:52 PM PDT)  ",
-      "url": "/life/horoscopes/daily-horoscope-for-tuesday-june-28"
-    },
-    {
-      "text": "  Horoscopes  ",
-      "url": "/category/horoscopes/"
-    },
-    {
-      "text": "         ",
-      "url": "/life/horoscopes/daily-horoscope-for-tuesday-june-28"
-    },
-    {
-      "text": "  Senior Living: A strategy for retiring early   A shrewd plan and self-discipline can help make your money last  ",
-      "url": "/life/senior-living-a-strategy-for-retiring-early"
-    },
-    {
-      "text": "  Life  ",
-      "url": "/category/life/"
-    },
-    {
-      "text": "         ",
-      "url": "/life/senior-living-a-strategy-for-retiring-early"
-    },
-    {
-      "text": " More more stories > ",
-      "url": "/category/life/"
-    },
-    {
-      "text": "Healthing",
-      "url": "/category/healthing/"
-    },
-    {
-      "text": "  Justin Bieber 'did something very important for the facial difference community'   Advocate Alim Somji says the pop star challenges the typical images of facial difference portrayed in the media as villains, such as Scar from the movie The Lion King.  ",
-      "url": "https://www.healthing.ca/diseases-and-conditions/justin-bieber-facial-difference"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/diseases-and-conditions/justin-bieber-facial-difference"
-    },
-    {
-      "text": "  WATCH: We take our medications out of the bathroom thanks to this TikTok trend   A bathrooms isn't a great storage option for meds, as the swings in temperatures and moist conditions can cause them to lose potency.  ",
-      "url": "https://www.healthing.ca/wellness/tiktok-tuesday-keep-medication-in-the-bathroom"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/wellness/tiktok-tuesday-keep-medication-in-the-bathroom"
-    },
-    {
-      "text": "  What are the signs of pancreatitis?   Acute and chronic pancreatitis are typically diagnosed between the ages of 40 and 70, with men more likely to be diagnosed across all age groups.  ",
-      "url": "https://www.healthing.ca/wellness/know-the-signs/what-are-the-signs-of-pancreatitis"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/wellness/know-the-signs/what-are-the-signs-of-pancreatitis"
-    },
-    {
-      "text": "  Machado: COVID has made socializing a little like having sex without protection   Getting back to some kind of normal means accepting the risk of COVID, and understanding that the feeling of liberation comes along with fear and uncertainty.  ",
-      "url": "https://www.healthing.ca/wellness/opinion/shift-lisa-machado/shift-can-we-learn-to-live-with-the-risk-of-covid"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.healthing.ca/wellness/opinion/shift-lisa-machado/shift-can-we-learn-to-live-with-the-risk-of-covid"
-    },
-    {
-      "text": "  What are the signs of Parkinson's disease?   For people living with Parkinson's disease, exercise and eating a balanced diet may help control symptoms and even slow progression of the disease.  ",
-      "url": "https://www.healthing.ca/diseases-and-conditions/parkinsons-disease/what-are-the-signs-of-parkinsons-disease"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/diseases-and-conditions/parkinsons-disease/what-are-the-signs-of-parkinsons-disease"
-    },
-    {
-      "text": " More healthing stories > ",
-      "url": "/category/healthing/"
-    },
-    {
-      "text": "Driving",
-      "url": "/category/driving/"
-    },
-    {
-      "text": "  Toddler dies after being left in car in an Ontario town   'It\u2019s such an unfathomable situation,' said Mayor Paul Jenkins  ",
-      "url": "https://driving.ca/auto-news/driver-info/toddler-dies-after-being-left-in-car-in-an-ontario-town"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/auto-news/driver-info/toddler-dies-after-being-left-in-car-in-an-ontario-town"
-    },
-    {
-      "text": "  Gen Z buyers feel the most frustration buying a car: study   But they're also the age group spending the most time looking at all their purchase options  ",
-      "url": "https://driving.ca/auto-news/awards-surveys/gen-z-buyers-feel-the-most-frustration-when-buying-a-car-study"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/auto-news/awards-surveys/gen-z-buyers-feel-the-most-frustration-when-buying-a-car-study"
-    },
-    {
-      "text": "  Volvo's lineup is going all-electrified in Canada for 2023   All of the Chinese-owned Swedish automaker's models on sale here will be mild-hybrid, hybrid, or all-electric  ",
-      "url": "https://driving.ca/auto-news/news/volvos-lineup-is-going-all-electrified-in-canada-for-2023"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/auto-news/news/volvos-lineup-is-going-all-electrified-in-canada-for-2023"
-    },
-    {
-      "text": "  Tesla cuts 200 Autopilot workers as California site closes   Teams were tasked with evaluating customer vehicle data related to the Autopilot driver-assistance features  ",
-      "url": "https://driving.ca/auto-news/industry/tesla-cuts-200-autopilot-workers-as-california-site-closes"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/auto-news/industry/tesla-cuts-200-autopilot-workers-as-california-site-closes"
-    },
-    {
-      "text": "  EU gets landmark deal to phase out combustion engine by 2035   Governments also agreed to strengthen the EU Emissions Trading System and bolster its price-control mechanism.  ",
-      "url": "https://driving.ca/auto-news/industry/eu-gets-landmark-deal-to-phase-out-combustion-engine-by-2035"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/auto-news/industry/eu-gets-landmark-deal-to-phase-out-combustion-engine-by-2035"
-    },
-    {
-      "text": " More driving stories > ",
-      "url": "/category/driving/"
-    },
-    {
-      "text": "The GrowthOp",
-      "url": "/category/thegrowthop/"
-    },
-    {
-      "text": "  Brittney Griner to stand trial in Russian court on Friday   31-year-old was shackled and appeared wary as she entered the closed-door hearing recently.  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/wnba-star-brittney-griner-set-to-appear-in-russian-court-on-friday"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/wnba-star-brittney-griner-set-to-appear-in-russian-court-on-friday"
-    },
-    {
-      "text": "  Lawyer looking to secure cannabis retail spot for client tried to bribe police chief   The lawyer approached a close relative of the police chief and offered that person $32,250 to speak to the chief.  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/lawyer-looking-to-secure-cannabis-retail-spot-for-client-tried-to-bribe-police-chief"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/lawyer-looking-to-secure-cannabis-retail-spot-for-client-tried-to-bribe-police-chief"
-    },
-    {
-      "text": "  Long-awaited anniversary phone call between Brittney Griner and wife goes unanswered   \u201cIf I can\u2019t trust you to catch a Saturday call outside of business hours, how can I trust you to actually be negotiating on my wife\u2019s behalf to come home?\u201d  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/long-awaited-anniversary-phone-call-between-brittney-griner-and-wife-goes-unanswered"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/long-awaited-anniversary-phone-call-between-brittney-griner-and-wife-goes-unanswered"
-    },
-    {
-      "text": "  Ontario man accused of impaired driving after cannabis and alcohol found inside his vehicle   Man taken into custody after the OPP received multiple complaints about his driving on Highway 12  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/ontario-man-accused-of-impaired-driving-after-cannabis-and-alcohol-found-inside-his-vehicle"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/ontario-man-accused-of-impaired-driving-after-cannabis-and-alcohol-found-inside-his-vehicle"
-    },
-    {
-      "text": "  Property left with $30,000 in damage after police failed to respond to eight calls about cannabis grow   Landlord claims photo and video evidence didn't lead to police response  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/property-left-with-30000-in-damage-after-police-failed-to-respond-to-eight-calls-about-cannabis-grow"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/property-left-with-30000-in-damage-after-police-failed-to-respond-to-eight-calls-about-cannabis-grow"
-    },
-    {
-      "text": " More the growthop stories > ",
-      "url": "/category/thegrowthop/"
-    },
-    {
-      "text": " Subscribe ",
-      "url": "/subscribe"
-    },
-    {
-      "text": "  ",
-      "url": "/"
-    },
-    {
-      "text": " News ",
-      "url": "/category/news/"
-    },
-    {
-      "text": " NP Comment ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": " Politics ",
-      "url": "/category/news/politics/"
-    },
-    {
-      "text": " True Crime ",
-      "url": "/category/news/true-crime/"
-    },
-    {
-      "text": " Post Picks ",
-      "url": "/category/post-picks/"
-    },
-    {
-      "text": " Remembering ",
-      "url": "https://nationalpost.remembering.ca/"
-    },
-    {
-      "text": " Financial Post ",
-      "url": "https://financialpost.com/"
-    },
-    {
-      "text": " Healthing ",
-      "url": "/category/healthing/"
-    },
-    {
-      "text": " Driving ",
-      "url": "/category/driving/"
-    },
-    {
-      "text": " The GrowthOp ",
-      "url": "/category/thegrowthop/"
-    },
-    {
-      "text": " NYT Crossword ",
-      "url": "/nyt-puzzle/"
-    },
-    {
-      "text": " Podcasts ",
-      "url": "/podcasts/"
-    },
-    {
-      "text": " Newsletters ",
-      "url": "/newsletters/"
-    },
-    {
-      "text": " E-Paper ",
-      "url": "http://epaper.nationalpost.com/"
-    },
-    {
-      "text": " Subscribe ",
-      "url": "/subscribe"
-    },
-    {
-      "text": " My Account ",
-      "url": "/my-account"
-    },
-    {
-      "text": " Manage My Print Subscription ",
-      "url": "/manage"
-    },
-    {
-      "text": " Manage My Tax Receipt ",
-      "url": "/manage"
-    },
-    {
-      "text": " ePaper ",
-      "url": "http://epaper.nationalpost.com/"
-    },
-    {
-      "text": " Contact Us ",
-      "url": "/contact"
-    },
-    {
-      "text": " Advertise With Us ",
-      "url": "https://www.postmediasolutions.com/contact-us/"
-    },
-    {
-      "text": " Appointment Notice ",
-      "url": "https://www.postmediasolutions.com/appointments"
-    },
-    {
-      "text": " Content Works ",
-      "url": "https://www.postmediasolutions.com/solutions/content/"
-    },
-    {
-      "text": " Partnerships ",
-      "url": "/partnerships"
-    },
-    {
-      "text": " Resources ",
-      "url": "http://www.postmediasolutions.com/client-resources/"
-    },
-    {
-      "text": " Remembering ",
-      "url": "http://nationalpost.remembering.ca/"
-    },
-    {
-      "text": " Celebrating ",
-      "url": "http://classifieds.nationalpost.com/"
-    },
-    {
-      "text": " Classifieds Marketplace ",
-      "url": "http://classifieds.nationalpost.com/"
-    },
-    {
-      "text": " Careers ",
-      "url": "http://www.working.com/"
-    },
-    {
-      "text": " FlyerCity ",
-      "url": "/flyercity/"
-    },
-    {
-      "text": " Post a Classified ad ",
-      "url": "http://nationalpost.adperfect.com/"
-    },
-    {
-      "text": " Local Directory ",
-      "url": "http://local.nationalpost.com/"
-    },
-    {
-      "text": " About Us ",
-      "url": "http://www.postmediasolutions.com/about-us/"
-    },
-    {
-      "text": " Financial Post ",
-      "url": "https://financialpost.com"
-    },
-    {
-      "text": " Canada.com ",
-      "url": "https://o.canada.com"
-    },
-    {
-      "text": " Canoe.com ",
-      "url": "https://canoe.com"
-    },
-    {
-      "text": " Driving.ca ",
-      "url": "https://driving.ca"
-    },
-    {
-      "text": " The GrowthOp ",
-      "url": "https://www.thegrowthop.com/"
-    },
-    {
-      "text": " Winnipeg Sun ",
-      "url": "https://winnipegsun.com"
-    },
-    {
-      "text": " The London Free Press ",
-      "url": "https://lfpress.com"
-    },
-    {
-      "text": " Regina Leader-Post ",
-      "url": "https://leaderpost.com"
-    },
-    {
-      "text": " Saskatoon StarPhoenix ",
-      "url": "https://thestarphoenix.com"
-    },
-    {
-      "text": " Windsor Star ",
-      "url": "https://windsorstar.com"
-    },
-    {
-      "text": " Ottawa Citizen ",
-      "url": "https://ottawacitizen.com"
-    },
-    {
-      "text": " The Province ",
-      "url": "https://theprovince.com"
-    },
-    {
-      "text": " Vancouver Sun ",
-      "url": "https://vancouversun.com"
-    },
-    {
-      "text": " Edmonton Journal ",
-      "url": "https://edmontonjournal.com"
-    },
-    {
-      "text": " Calgary Herald ",
-      "url": "https://calgaryherald.com/"
-    },
-    {
-      "text": " Montreal Gazette ",
-      "url": "https://montrealgazette.com"
-    },
-    {
-      "text": " Toronto Sun ",
-      "url": "https://torontosun.com"
-    },
-    {
-      "text": " Ottawa Sun ",
-      "url": "https://ottawasun.com"
-    },
-    {
-      "text": " Calgary Sun ",
-      "url": "https://calgarysun.com"
-    },
-    {
-      "text": " Edmonton Sun ",
-      "url": "https://edmontonsun.com"
-    },
-    {
-      "text": "  Financial Post  \u276f ",
-      "url": "https://financialpost.com"
-    },
-    {
-      "text": "  ",
-      "url": "https://www.instagram.com/nationalpost/"
-    },
-    {
-      "text": "  ",
-      "url": "https://www.facebook.com/NationalPost/"
-    },
-    {
-      "text": "  ",
-      "url": "https://www.youtube.com/user/nationalpost"
-    },
-    {
-      "text": "  ",
-      "url": "https://twitter.com/nationalpost"
-    },
-    {
-      "text": " Give us some feedback! ",
-      "url": "https://uxfeedback.typeform.com/to/GLLNLH?property=National%20Post"
-    },
-    {
-      "text": "  ",
-      "url": "https://www.postmedia.com/brands"
-    },
-    {
-      "text": " Privacy - Updated Terms ",
-      "url": "/privacy-statement/en/"
-    },
-    {
-      "text": " Copyright ",
-      "url": "/copyright/"
-    },
-    {
-      "text": " Digital Ad Registry ",
-      "url": "https://adregistry.postmedia.com/"
-    },
-    {
-      "text": " Sitemap ",
-      "url": "/sitemap/"
-    },
-    {
-      "text": " Contact us ",
-      "url": "/contact"
-    },
-    {
-      "text": "cookies here",
-      "url": "/cookie-policy/"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "/terms-of-service/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy-statement/en/"
-    }
-  ],
   "server": "ia801507.us.archive.org",
-  "uniq": 509972840,
+  "uniq": 1936136395,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

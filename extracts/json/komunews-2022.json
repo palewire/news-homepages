@@ -1,5 +1,5 @@
 {
-  "created": 1656544036,
+  "created": 1656634969,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/komunews-2022",
@@ -814,31 +814,325 @@
       "sha1": "3bf6ed817f5f31a4aad193cbaf7abe86b7f72a40"
     },
     {
+      "name": "komunews-2022-06-29T20:30:58.518607-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552661",
+      "size": "25016",
+      "md5": "ba9d3ab97a283e6291187ae581903201",
+      "crc32": "d967e011",
+      "sha1": "9798e2e8638bb2d8f45085a857a5fb4d3bee6713",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-29T20:30:58.518607-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552662",
+      "size": "46146",
+      "md5": "091f128994b516bb2e8e0ce72969ebaf",
+      "crc32": "b0389172",
+      "sha1": "62bb10e10f92d69819c20149ca6bf3107c5fb5f6",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-29T20:30:58.518607-05:00.jpg",
+      "source": "original",
+      "mtime": "1656552659",
+      "size": "305943",
+      "md5": "831ea148430e65f2c29cdb7f3d900ef9",
+      "crc32": "569769e9",
+      "sha1": "08035d36f8d4fbd61901bc7e76aee60b96e7673e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-06-29T20:30:58.518607-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "komunews-2022-06-29T20:30:58.518607-05:00.jpg",
+      "mtime": "1656552723",
+      "size": "10270",
+      "md5": "bf325f161de8b0be23e5b8e898bd3e33",
+      "crc32": "d39a9020",
+      "sha1": "2a49f0f5d24de18c870e558c6ac22438a90dcd37"
+    },
+    {
+      "name": "komunews-2022-06-29T22:44:02.573116-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560645",
+      "size": "24590",
+      "md5": "3785ef3d86a178bde73d1b460bbe6c5c",
+      "crc32": "722c6392",
+      "sha1": "b9caa8ce73602e8b978440d63127c54d0525235c",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-29T22:44:02.573116-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560647",
+      "size": "45033",
+      "md5": "e83205ced1f51ef9c4bc55dda143d543",
+      "crc32": "27c8ace3",
+      "sha1": "9542b1f12ea65bc0104d37d905f985f91484679f",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-29T22:44:02.573116-05:00.jpg",
+      "source": "original",
+      "mtime": "1656560644",
+      "size": "304956",
+      "md5": "2b95b348104560517ad6bae98daa2f06",
+      "crc32": "c2341a05",
+      "sha1": "0e079c798c4475201273608ece4d8349821cdb49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-06-29T22:44:02.573116-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "komunews-2022-06-29T22:44:02.573116-05:00.jpg",
+      "mtime": "1656560689",
+      "size": "9863",
+      "md5": "f80984728d00576f7be9ec685bbc366c",
+      "crc32": "148358fc",
+      "sha1": "0cc005104a396ae094706054825bf93927e8f7a8"
+    },
+    {
+      "name": "komunews-2022-06-30T00:12:16.334119-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656565938",
+      "size": "25769",
+      "md5": "cfc7fab3b238440c23f826e6a1c3d9f4",
+      "crc32": "b8817312",
+      "sha1": "68ab2eba374c3bfdd7c0a9facd3c493fbc5dcdb9",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T00:12:16.334119-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656565940",
+      "size": "47489",
+      "md5": "014b83320cf01f073685d7e89d1645aa",
+      "crc32": "4e85b8cc",
+      "sha1": "0aaa4e25829ee4fa4081792c454d8ad86bf22981",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T00:12:16.334119-05:00.jpg",
+      "source": "original",
+      "mtime": "1656565937",
+      "size": "306839",
+      "md5": "9dd0a3f130dfeaf22b20bd8e0fc2ada0",
+      "crc32": "1ff6d5f6",
+      "sha1": "e41257ea8cb468ad0207ccdd1523e9b40d6c4704",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-06-30T00:12:16.334119-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "komunews-2022-06-30T00:12:16.334119-05:00.jpg",
+      "mtime": "1656566065",
+      "size": "10191",
+      "md5": "94a1d97983cff57284f1cb3b7f9a0746",
+      "crc32": "ab7e8c22",
+      "sha1": "1191cd200ce0d2d870e7827d9d2b01321bb25180"
+    },
+    {
+      "name": "komunews-2022-06-30T02:02:13.361365-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572536",
+      "size": "24913",
+      "md5": "6551a25a9986a1e00cd57f45a8db5314",
+      "crc32": "a40c85c7",
+      "sha1": "e334817b38f06d33e2f034dead9a923f6ca6b26d",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T02:02:13.361365-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572537",
+      "size": "47836",
+      "md5": "7360d5f582c30a75f2625323c8890f6f",
+      "crc32": "b3031c68",
+      "sha1": "f63b0a431705260594888be95368bd48592a899d",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T02:02:13.361365-05:00.jpg",
+      "source": "original",
+      "mtime": "1656572534",
+      "size": "307458",
+      "md5": "6b08c7352fdca3b58ff9a5f49c213987",
+      "crc32": "25b3e307",
+      "sha1": "0ff493f4c93135e0b68ca21b19a90de695ca7646",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-06-30T02:02:13.361365-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "komunews-2022-06-30T02:02:13.361365-05:00.jpg",
+      "mtime": "1656572584",
+      "size": "10081",
+      "md5": "ab7a65ab7a6c7a53ac70214f84a20833",
+      "crc32": "42ff5104",
+      "sha1": "a5c1bc63e86f47e5e2c6a86ae54254cc1e7d5bb3"
+    },
+    {
+      "name": "komunews-2022-06-30T04:06:33.923561-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580001",
+      "size": "24917",
+      "md5": "858eb0b67d84b9f54992ce6a4bd0e7f2",
+      "crc32": "70500bb8",
+      "sha1": "e7a7d3f2760792dcdfcfbeba3873460533d3dac8",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T04:06:33.923561-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580002",
+      "size": "47836",
+      "md5": "54bb241fa09b998794c856f785668562",
+      "crc32": "69930678",
+      "sha1": "35036b5e2715b1ab86183796d2e942fed18052c8",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T04:06:33.923561-05:00.jpg",
+      "source": "original",
+      "mtime": "1656579999",
+      "size": "307443",
+      "md5": "5e4d696e2b54e11c30be3cca7bc8f7cd",
+      "crc32": "9b16823c",
+      "sha1": "aae0a4cdcc9eb4dbf9e1dbe0f1c675d6a49d8f11",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-06-30T04:06:33.923561-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "komunews-2022-06-30T04:06:33.923561-05:00.jpg",
+      "mtime": "1656580049",
+      "size": "10081",
+      "md5": "2f74e369517d1da64384499a43d83869",
+      "crc32": "196b76f2",
+      "sha1": "71625658959fbda7e3a1ac861f0911c925cce0b5"
+    },
+    {
+      "name": "komunews-2022-06-30T06:02:20.497040-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656586942",
+      "size": "24624",
+      "md5": "bb19eb3c0e52b17d7da800ed5fab2538",
+      "crc32": "971578ed",
+      "sha1": "ae5d22c213bf2971635df8fcca97e91396f39bad",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T06:02:20.497040-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656586944",
+      "size": "47079",
+      "md5": "1ddc31864b326e4329ed9bde57ed6b1e",
+      "crc32": "c0d8463f",
+      "sha1": "59c33e89ece2a953ed9070ed2453e4504cd35efe",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T06:02:20.497040-05:00.jpg",
+      "source": "original",
+      "mtime": "1656586941",
+      "size": "323079",
+      "md5": "b3d3833eb344a148cb6e89b124957ab2",
+      "crc32": "0afa2564",
+      "sha1": "3c49b59b8d2de97d954fa9f0d05948413a8cacd4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-06-30T06:02:20.497040-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "komunews-2022-06-30T06:02:20.497040-05:00.jpg",
+      "mtime": "1656586993",
+      "size": "10157",
+      "md5": "4378da59a82d0a053059d679b16613db",
+      "crc32": "6a5db34a",
+      "sha1": "0fc9b81c8c325641eaa21e05d78863425a30ab34"
+    },
+    {
+      "name": "komunews-2022-06-30T08:07:05.145966-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594428",
+      "size": "24623",
+      "md5": "90a22dcd0f586bf8de193d1c2063e45e",
+      "crc32": "8ad9291b",
+      "sha1": "d916b06976023a86767d3f3a15e8af9970c1ea45",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T08:07:05.145966-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594429",
+      "size": "47079",
+      "md5": "4c4e86744748183ae82653bcfd4f112c",
+      "crc32": "2a36fc31",
+      "sha1": "0bb1a1ee13a106608612cb443588e88f897b5bee",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-06-30T08:07:05.145966-05:00.jpg",
+      "source": "original",
+      "mtime": "1656594426",
+      "size": "313053",
+      "md5": "ab656ad11e01da27cd70fa6270485750",
+      "crc32": "22f83dd5",
+      "sha1": "390fffede1eb916faea978d557a912c1c364e879",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-06-30T08:07:05.145966-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "komunews-2022-06-30T08:07:05.145966-05:00.jpg",
+      "mtime": "1656594489",
+      "size": "10085",
+      "md5": "672ec44ba75f50a2f1a0195a2c0a1c61",
+      "crc32": "d708613a",
+      "sha1": "ec95b25f308b8f30f1cb799e080ca5aa911687ff"
+    },
+    {
       "name": "komunews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51510e5e42e0fb63b230ba6ed1439fc6ebd1c8cd",
-      "mtime": "1656544031",
-      "size": "17676",
-      "md5": "6de11888cfc0284b9e76324cde6b5c9f",
-      "crc32": "d9d8d605",
-      "sha1": "0547a73ff1c79af5dee958acca5eb1c6aed5a269",
+      "btih": "0870ebe64e07d917c57184295bc3b22218f0de6e",
+      "mtime": "1656594492",
+      "size": "23585",
+      "md5": "102452b53a834b84350bddba9a8f657b",
+      "crc32": "b0050faf",
+      "sha1": "36313a830a6ba495a8e17368c90d9475cc8746da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "komunews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d959b117812c1151c90394b5dedc3d9d",
+      "md5": "ea55f9798e9e539089575cf67e9a6e6c",
       "summation": "md5"
     },
     {
       "name": "komunews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656543987",
-      "size": "106496",
-      "md5": "75071268193051b20a643210abbd121f",
-      "crc32": "82c43172",
-      "sha1": "128ae7e402325f32418105af12cc7c14eb9a721f",
+      "mtime": "1656594432",
+      "size": "143360",
+      "md5": "9e0a6928571c156887200acef831850e",
+      "crc32": "83a8097e",
+      "sha1": "df95096b10556f7fd4ddaa5b78b5e15ae6e80eeb",
       "format": "Metadata"
     },
     {
@@ -852,9 +1146,1135 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 81,
-  "item_last_updated": 1656544031,
-  "item_size": 7561906,
+  "files_count": 109,
+  "item_last_updated": 1656594492,
+  "item_size": 10347128,
+  "komunews-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#main-page-container"
+    },
+    {
+      "text": "\n                    \n                    Facebook\n                ",
+      "url": "https://facebook.com/komu8/"
+    },
+    {
+      "text": "\n                    \n                    Twitter\n                ",
+      "url": "https://twitter.com/KOMUnews"
+    },
+    {
+      "text": "\n                    \n                    LinkedIn\n                ",
+      "url": "https://www.linkedin.com/company/komu8/"
+    },
+    {
+      "text": "\n                    \n                    YouTube\n                ",
+      "url": "https://www.youtube.com/user/komunews"
+    },
+    {
+      "text": "\n                    \n                    Instagram\n                ",
+      "url": "https://instagram.com/komunews"
+    },
+    {
+      "text": "\n                        Sign Up\n                    ",
+      "url": "https://www.komu.com/users/signup/?referer_url=https%3A%2F%2Fwww.komu.com%2F"
+    },
+    {
+      "text": "\n                        Log In\n                    ",
+      "url": "https://www.komu.com/users/login/?referer_url=https%3A%2F%2Fwww.komu.com%2F"
+    },
+    {
+      "text": "\n                            Dashboard\n                        ",
+      "url": "https://www.komu.com/users/admin/"
+    },
+    {
+      "text": " Dashboard",
+      "url": "https://www.komu.com/users/admin/"
+    },
+    {
+      "text": " Profile",
+      "url": ""
+    },
+    {
+      "text": " Saved items",
+      "url": "https://www.komu.com/users/admin/list/"
+    },
+    {
+      "text": "  WATCH NOW",
+      "url": "/streaming/"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "About Us",
+      "url": "/site/about.html"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/site/contact.html"
+    },
+    {
+      "text": "Meet the Team",
+      "url": "/meet-the-team4/"
+    },
+    {
+      "text": "Advertise",
+      "url": "/site/advertise.html"
+    },
+    {
+      "text": "Staying Connected",
+      "url": "/site/staying-connected.html"
+    },
+    {
+      "text": "Email Newsletter",
+      "url": "/newsletter/"
+    },
+    {
+      "text": "Local-E",
+      "url": "/locale"
+    },
+    {
+      "text": "Promote Your Event",
+      "url": "https://new.evvnt.com/?with_navbar&force_snap_sell&partner=&publisher_url:komu.com#/quick"
+    },
+    {
+      "text": "News Releases",
+      "url": "/site/newsreleases"
+    },
+    {
+      "text": "Award Winning Journalism",
+      "url": "/site/awards.html"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/site/terms.html"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/site/privacy.html"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews/"
+    },
+    {
+      "text": "State News",
+      "url": "/news/state"
+    },
+    {
+      "text": "COVID-19",
+      "url": "/news/covid19/"
+    },
+    {
+      "text": "COVID-19 Vaccine & Testing Information",
+      "url": "/news/covid19/vaccine/"
+    },
+    {
+      "text": "Elections",
+      "url": "/news/elections/"
+    },
+    {
+      "text": "EmVP",
+      "url": "/emvp/"
+    },
+    {
+      "text": "Local Lookout",
+      "url": "/news/locallookout/"
+    },
+    {
+      "text": "Target 8",
+      "url": "/target8/"
+    },
+    {
+      "text": "Streaming",
+      "url": "/streaming/"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather/"
+    },
+    {
+      "text": "Interactive Radar",
+      "url": "/weather/interactive-radar/"
+    },
+    {
+      "text": "Weather Maps",
+      "url": "/weather/weather-maps/"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic/"
+    },
+    {
+      "text": "Closings and Cancellations",
+      "url": "/weather/closings/"
+    },
+    {
+      "text": "Sunsense",
+      "url": "/weather/sunsense/"
+    },
+    {
+      "text": "Show Me Climate",
+      "url": "/weather/showmeclimate/"
+    },
+    {
+      "text": "Text Alerts",
+      "url": "https://my.textcaster.com/asa/Default.aspx?ID=7c690a59-e426-484c-b3e7-0ed00713c02b"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "High School Sports",
+      "url": "/highschoolsports/"
+    },
+    {
+      "text": "Mizzou Xtra",
+      "url": "/sports/mizzouxtra/"
+    },
+    {
+      "text": "Sports Xtra",
+      "url": "/sports/sportsxtra/"
+    },
+    {
+      "text": "Olympics",
+      "url": "/olympics/"
+    },
+    {
+      "text": "What's On",
+      "url": "/onkomu/"
+    },
+    {
+      "text": "KOMU 8 Cares",
+      "url": "/cares/"
+    },
+    {
+      "text": "A Brighter Tommorrow",
+      "url": "/abrightertomorrow/"
+    },
+    {
+      "text": "Community Calendar",
+      "url": "/local-events/"
+    },
+    {
+      "text": "Daily Pledge",
+      "url": "/dailypledge/"
+    },
+    {
+      "text": "KOMU 8 Fan Club",
+      "url": "/fanclub"
+    },
+    {
+      "text": "Contests",
+      "url": "/contests/"
+    },
+    {
+      "text": "\n                    About Us\n                ",
+      "url": "/site/about.html"
+    },
+    {
+      "text": "\n                    Contact Us\n                ",
+      "url": "/site/contact.html"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "\n                        Sign Up\n                    ",
+      "url": "https://www.komu.com/users/signup/?referer_url=https%3A%2F%2Fwww.komu.com%2F"
+    },
+    {
+      "text": "\n                        Log In\n                    ",
+      "url": "https://www.komu.com/users/login/?referer_url=https%3A%2F%2Fwww.komu.com%2F"
+    },
+    {
+      "text": "\n                            Dashboard\n                        ",
+      "url": "https://www.komu.com/users/admin/"
+    },
+    {
+      "text": " Dashboard",
+      "url": "https://www.komu.com/users/admin/"
+    },
+    {
+      "text": " Profile",
+      "url": ""
+    },
+    {
+      "text": " Saved items",
+      "url": "https://www.komu.com/users/admin/list/"
+    },
+    {
+      "text": "\n                    \n                    Facebook\n                ",
+      "url": "https://facebook.com/komu8/"
+    },
+    {
+      "text": "\n                    \n                    Twitter\n                ",
+      "url": "https://twitter.com/KOMUnews"
+    },
+    {
+      "text": "\n                    \n                    YouTube\n                ",
+      "url": "https://www.youtube.com/user/komunews"
+    },
+    {
+      "text": "\n                    \n                    Instagram\n                ",
+      "url": "https://instagram.com/komunews"
+    },
+    {
+      "text": "\n                    \n                    Email\n                ",
+      "url": "https://www.komu.com/newsletter/"
+    },
+    {
+      "text": "\n                    \n                    iOS App\n                ",
+      "url": "https://apps.apple.com/us/app/komu-8/id426967749"
+    },
+    {
+      "text": "\n                    \n                    Android App\n                ",
+      "url": "https://play.google.com/store/apps/details?id=com.Synapse.KOMU"
+    },
+    {
+      "text": "\n                    \n                    OTT\n                ",
+      "url": "https://www.komu.com/site/staying-connected.html"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "  WATCH NOW\n                ",
+      "url": "/streaming/"
+    },
+    {
+      "text": "Home\n                        \n                            \n                        \n                    \n                ",
+      "url": "/"
+    },
+    {
+      "text": "About Us",
+      "url": "/site/about.html"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/site/contact.html"
+    },
+    {
+      "text": "Meet the Team",
+      "url": "/meet-the-team4/"
+    },
+    {
+      "text": "Advertise",
+      "url": "/site/advertise.html"
+    },
+    {
+      "text": "Staying Connected",
+      "url": "/site/staying-connected.html"
+    },
+    {
+      "text": "Email Newsletter",
+      "url": "/newsletter/"
+    },
+    {
+      "text": "Local-E",
+      "url": "/locale"
+    },
+    {
+      "text": "Promote Your Event",
+      "url": "https://new.evvnt.com/?with_navbar&force_snap_sell&partner=&publisher_url:komu.com#/quick"
+    },
+    {
+      "text": "News Releases",
+      "url": "/site/newsreleases"
+    },
+    {
+      "text": "Award Winning Journalism",
+      "url": "/site/awards.html"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/site/terms.html"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/site/privacy.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video2:03\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/heres-what-you-need-to-know-thursday-june-30/article_bc40a1a0-f80c-11ec-9ea5-df06e481a550.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Here's what you need to know: Thursday, June 30",
+      "url": "/news/midmissourinews/heres-what-you-need-to-know-thursday-june-30/article_bc40a1a0-f80c-11ec-9ea5-df06e481a550.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Forecast: Heat is up, humidity is down today; July 4th weekend details",
+      "url": "/weather/forecast-heat-is-up-humidity-is-down-today-july-4th-weekend-details/article_8442f652-f859-11ec-a781-b7ab6657d64d.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Town hall scheduled to discuss JCPD body camera implementation",
+      "url": "/news/midmissourinews/town-hall-scheduled-to-discuss-jcpd-body-camera-implementation/article_26182e64-f7cb-11ec-9358-a7c85a91c251.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Sweden and Finland are on the cusp of joining NATO. Here's why that matters, and what comes next",
+      "url": "/news/nationworld/sweden-and-finland-are-on-the-cusp-of-joining-nato-heres-why-that-matters-and/article_b49778dd-8f59-54a2-b2a7-0abac891774e.html"
+    },
+    {
+      "text": "\n        \n\n        \n            4 people have been charged in the Texas semitruck smuggling operation that left 53 migrants dead",
+      "url": "/news/nationworld/4-people-have-been-charged-in-the-texas-semitruck-smuggling-operation-that-left-53-migrants/article_9f778758-2348-5794-aad6-b786ad53c12c.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Biden administration reaches agreement to purchase 105 million doses of Pfizer Covid-19 vaccine",
+      "url": "/news/nationworld/biden-administration-reaches-agreement-to-purchase-105-million-doses-of-pfizer-covid-19-vaccine/article_74a8da0f-3312-5671-a838-eab03a458fa8.html"
+    },
+    {
+      "text": "News\n                        \n                            \n                        \n                    \n                ",
+      "url": "/news"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews/"
+    },
+    {
+      "text": "State News",
+      "url": "/news/state"
+    },
+    {
+      "text": "COVID-19",
+      "url": "/news/covid19/"
+    },
+    {
+      "text": "COVID-19 Vaccine & Testing Information",
+      "url": "/news/covid19/vaccine/"
+    },
+    {
+      "text": "Elections",
+      "url": "/news/elections/"
+    },
+    {
+      "text": "EmVP",
+      "url": "/emvp/"
+    },
+    {
+      "text": "Local Lookout",
+      "url": "/news/locallookout/"
+    },
+    {
+      "text": "Target 8",
+      "url": "/target8/"
+    },
+    {
+      "text": "Streaming",
+      "url": "/streaming/"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video2:03\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/heres-what-you-need-to-know-thursday-june-30/article_bc40a1a0-f80c-11ec-9ea5-df06e481a550.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Here's what you need to know: Thursday, June 30",
+      "url": "/news/midmissourinews/heres-what-you-need-to-know-thursday-june-30/article_bc40a1a0-f80c-11ec-9ea5-df06e481a550.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Town hall scheduled to discuss JCPD body camera implementation",
+      "url": "/news/midmissourinews/town-hall-scheduled-to-discuss-jcpd-body-camera-implementation/article_26182e64-f7cb-11ec-9358-a7c85a91c251.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Sweden and Finland are on the cusp of joining NATO. Here's why that matters, and what comes next",
+      "url": "/news/nationworld/sweden-and-finland-are-on-the-cusp-of-joining-nato-heres-why-that-matters-and/article_b49778dd-8f59-54a2-b2a7-0abac891774e.html"
+    },
+    {
+      "text": "\n        \n\n        \n            4 people have been charged in the Texas semitruck smuggling operation that left 53 migrants dead",
+      "url": "/news/nationworld/4-people-have-been-charged-in-the-texas-semitruck-smuggling-operation-that-left-53-migrants/article_9f778758-2348-5794-aad6-b786ad53c12c.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Biden administration reaches agreement to purchase 105 million doses of Pfizer Covid-19 vaccine",
+      "url": "/news/nationworld/biden-administration-reaches-agreement-to-purchase-105-million-doses-of-pfizer-covid-19-vaccine/article_74a8da0f-3312-5671-a838-eab03a458fa8.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Agencies weigh in on adoption gaining popularity after Roe v. Wade decision",
+      "url": "/news/midmissourinews/agencies-weigh-in-on-adoption-gaining-popularity-after-roe-v-wade-decision/article_d08f2798-f803-11ec-8681-cbe3e9df4e2f.html"
+    },
+    {
+      "text": "Weather\n                        \n                            \n                        \n                    \n                ",
+      "url": "/weather/"
+    },
+    {
+      "text": "Interactive Radar",
+      "url": "/weather/interactive-radar/"
+    },
+    {
+      "text": "Weather Maps",
+      "url": "/weather/weather-maps/"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic/"
+    },
+    {
+      "text": "Closings and Cancellations",
+      "url": "/weather/closings/"
+    },
+    {
+      "text": "Sunsense",
+      "url": "/weather/sunsense/"
+    },
+    {
+      "text": "Show Me Climate",
+      "url": "/weather/showmeclimate/"
+    },
+    {
+      "text": "Text Alerts",
+      "url": "https://my.textcaster.com/asa/Default.aspx?ID=7c690a59-e426-484c-b3e7-0ed00713c02b"
+    },
+    {
+      "text": "\n                \n                \n                    Article with images+4\n                \n                \n                \n                        \n                ",
+      "url": "/weather/forecast-heat-is-up-humidity-is-down-today-july-4th-weekend-details/article_8442f652-f859-11ec-a781-b7ab6657d64d.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Forecast: Heat is up, humidity is down today; July 4th weekend details",
+      "url": "/weather/forecast-heat-is-up-humidity-is-down-today-july-4th-weekend-details/article_8442f652-f859-11ec-a781-b7ab6657d64d.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Forecast: One more day of low humidity for Thursday",
+      "url": "/weather/forecast-one-more-day-of-low-humidity-for-thursday/article_9f5e9920-f7fd-11ec-9a6f-d7f7e4d1f4bc.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Forecast: Temperatures are trending warmer, but humidity stays low until Friday",
+      "url": "/weather/forecast-temperatures-are-trending-warmer-but-humidity-stays-low-until-friday/article_5680c55c-f78f-11ec-98c1-7b09346f5fdc.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Forecast: Another sunny day with very low humidity, storms possible over July 4th weekend",
+      "url": "/weather/forecast-another-sunny-day-with-very-low-humidity-storms-possible-over-july-4th-weekend/article_50e988e0-f6c7-11ec-80bc-8710892bf57a.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Forecast: Low humidity continues through most of the week",
+      "url": "/weather/forecast-low-humidity-continues-through-most-of-the-week/article_729c23f8-f66d-11ec-b798-0b59a323b056.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Forecast: Comfortable weather to kick off the week; details on July 4th weekend",
+      "url": "/weather/forecast-comfortable-weather-to-kick-off-the-week-details-on-july-4th-weekend/article_f1981150-f5fd-11ec-b623-fbe6639cf10c.html"
+    },
+    {
+      "text": "Sports\n                        \n                            \n                        \n                    \n                ",
+      "url": "/sports"
+    },
+    {
+      "text": "High School Sports",
+      "url": "/highschoolsports/"
+    },
+    {
+      "text": "Mizzou Xtra",
+      "url": "/sports/mizzouxtra/"
+    },
+    {
+      "text": "Sports Xtra",
+      "url": "/sports/sportsxtra/"
+    },
+    {
+      "text": "Olympics",
+      "url": "/olympics/"
+    },
+    {
+      "text": "\n                \n                \n                    Article with images+2\n                \n                \n                \n                        \n                ",
+      "url": "/sports/columbia-college-wbb-hires-former-mizzou-star-chavis/article_0cee6b24-f7cb-11ec-be6d-1b51b1402abb.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Columbia College WBB hires former Mizzou star Chavis",
+      "url": "/sports/columbia-college-wbb-hires-former-mizzou-star-chavis/article_0cee6b24-f7cb-11ec-be6d-1b51b1402abb.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Mizzou MBB's '22-'23 SEC opponents released",
+      "url": "/sports/mizzouxtra/mizzou-mbbs-22-23-sec-opponents-released/article_76479d50-f7c8-11ec-b0da-3baba9f66dc0.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Local basketball coach Tony Phillips dies",
+      "url": "/sports/local-basketball-coach-tony-phillips-dies/article_7b4e21c8-f7c5-11ec-adbe-5fae05881b81.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Date of 2022 Mizzou-Kansas 'Border War' revealed",
+      "url": "/sports/mizzouxtra/date-of-2022-mizzou-kansas-border-war-revealed/article_206a65ca-f750-11ec-9464-5fc21339ccb8.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Dennis Gates on Sports Xtra",
+      "url": "/sports/mizzouxtra/dennis-gates-on-sports-xtra/article_cfd9b244-f66b-11ec-ba31-136546cae751.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Josh Day enters transfer portal; Mizzou baseball adds former Arkansas catcher",
+      "url": "/sports/mizzouxtra/josh-day-enters-transfer-portal-mizzou-baseball-adds-former-arkansas-catcher/article_9f8be2d4-f660-11ec-8e9b-87dd210ee088.html"
+    },
+    {
+      "text": "What's On\n                ",
+      "url": "/onkomu/"
+    },
+    {
+      "text": "KOMU 8 Cares\n                        \n                            \n                        \n                    \n                ",
+      "url": "/cares/"
+    },
+    {
+      "text": "A Brighter Tommorrow",
+      "url": "/abrightertomorrow/"
+    },
+    {
+      "text": "Community Calendar",
+      "url": "/local-events/"
+    },
+    {
+      "text": "Daily Pledge",
+      "url": "/dailypledge/"
+    },
+    {
+      "text": "KOMU 8 Fan Club",
+      "url": "/fanclub"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video1:44\n                \n                \n                \n                        \n                ",
+      "url": "/abrightertomorrow/stakeholders-hope-new-mental-heath-hotline-number-will-help-prevent-military-veteran-suicide/article_a751f5f2-f7e2-11ec-bca4-8fd2deb2a673.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Stakeholders hope new mental heath hotline number will help prevent military, veteran suicide",
+      "url": "/abrightertomorrow/stakeholders-hope-new-mental-heath-hotline-number-will-help-prevent-military-veteran-suicide/article_a751f5f2-f7e2-11ec-bca4-8fd2deb2a673.html"
+    },
+    {
+      "text": "Contests\n                ",
+      "url": "/contests/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video2:03\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/heres-what-you-need-to-know-thursday-june-30/article_bc40a1a0-f80c-11ec-9ea5-df06e481a550.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Here's what you need to know: Thursday, June 30",
+      "url": "/news/midmissourinews/heres-what-you-need-to-know-thursday-june-30/article_bc40a1a0-f80c-11ec-9ea5-df06e481a550.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/town-hall-scheduled-to-discuss-jcpd-body-camera-implementation/article_26182e64-f7cb-11ec-9358-a7c85a91c251.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Town hall scheduled to discuss JCPD body camera implementation",
+      "url": "/news/midmissourinews/town-hall-scheduled-to-discuss-jcpd-body-camera-implementation/article_26182e64-f7cb-11ec-9358-a7c85a91c251.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video2:35\n                \n                \n                \n                        \n                ",
+      "url": "/news/state/missouri-ags-office-says-abortion-ban-will-not-prohibit-emergency-contraception/article_85234fe4-f7e7-11ec-887a-f740887b075c.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Missouri AG's office says abortion ban will not prohibit emergency contraception",
+      "url": "/news/state/missouri-ags-office-says-abortion-ban-will-not-prohibit-emergency-contraception/article_85234fe4-f7e7-11ec-887a-f740887b075c.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video1:18\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/ntsb-says-amtrak-train-was-traveling-87-mph-at-impact-further-testing-needed/article_4f295dc4-f7fc-11ec-82ba-ffba08585ba4.html"
+    },
+    {
+      "text": "\n        \n\n        \n            NTSB says Amtrak train was traveling 87 mph at impact; further testing needed",
+      "url": "/news/midmissourinews/ntsb-says-amtrak-train-was-traveling-87-mph-at-impact-further-testing-needed/article_4f295dc4-f7fc-11ec-82ba-ffba08585ba4.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with video1:20Multiple images+2\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/court-documents-reveal-new-details-in-columbia-babys-death/article_ac47372e-f7c0-11ec-b146-9f53079a556f.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Court documents reveal new details in Columbia baby's death",
+      "url": "/news/midmissourinews/court-documents-reveal-new-details-in-columbia-babys-death/article_ac47372e-f7c0-11ec-b146-9f53079a556f.html"
+    },
+    {
+      "text": "\n                \n                KOMU 8 News\n                \n                    ",
+      "url": "/news/"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video2:03\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/heres-what-you-need-to-know-thursday-june-30/article_bc40a1a0-f80c-11ec-9ea5-df06e481a550.html"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews"
+    },
+    {
+      "text": "\n        \n\n        \n            Here's what you need to know: Thursday, June 30",
+      "url": "/news/midmissourinews/heres-what-you-need-to-know-thursday-june-30/article_bc40a1a0-f80c-11ec-9ea5-df06e481a550.html"
+    },
+    {
+      "text": "Heat is up, humidity is down today; July 4th weekend details",
+      "url": "/weather/heat-is-up-humidity-is-down-today-july-4th-weekend-details/video_3e490499-eb68-5277-a00c-c61924ae6ba2.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/town-hall-scheduled-to-discuss-jcpd-body-camera-implementation/article_26182e64-f7cb-11ec-9358-a7c85a91c251.html"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews"
+    },
+    {
+      "text": "\n        \n\n        \n            Town hall scheduled to discuss JCPD body camera implementation",
+      "url": "/news/midmissourinews/town-hall-scheduled-to-discuss-jcpd-body-camera-implementation/article_26182e64-f7cb-11ec-9358-a7c85a91c251.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video2:35\n                \n                \n                \n                        \n                ",
+      "url": "/news/state/missouri-ags-office-says-abortion-ban-will-not-prohibit-emergency-contraception/article_85234fe4-f7e7-11ec-887a-f740887b075c.html"
+    },
+    {
+      "text": "State News",
+      "url": "/news/state"
+    },
+    {
+      "text": "\n        \n\n        \n            Missouri AG's office says abortion ban will not prohibit emergency contraception",
+      "url": "/news/state/missouri-ags-office-says-abortion-ban-will-not-prohibit-emergency-contraception/article_85234fe4-f7e7-11ec-887a-f740887b075c.html"
+    },
+    {
+      "text": "Missouri AG's office says abortion ban will not prohibit emergency contraception",
+      "url": "/news/missouri-ags-office-says-abortion-ban-will-not-prohibit-emergency-contraception/video_393a331a-55e6-565f-a2b5-96c1bcb0314f.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video1:18\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/ntsb-says-amtrak-train-was-traveling-87-mph-at-impact-further-testing-needed/article_4f295dc4-f7fc-11ec-82ba-ffba08585ba4.html"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews"
+    },
+    {
+      "text": "\n        \n\n        \n            NTSB says Amtrak train was traveling 87 mph at impact; further testing needed",
+      "url": "/news/midmissourinews/ntsb-says-amtrak-train-was-traveling-87-mph-at-impact-further-testing-needed/article_4f295dc4-f7fc-11ec-82ba-ffba08585ba4.html"
+    },
+    {
+      "text": "VIDEO: NTSB says Amtrak train was traveling 87 mph at impact; further testing needed",
+      "url": "/news/video-ntsb-says-amtrak-train-was-traveling-87-mph-at-impact-further-testing-needed/video_79fda715-1976-5d05-af5d-8add145e32eb.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/nationworld/biden-administration-reaches-agreement-to-purchase-105-million-doses-of-pfizer-covid-19-vaccine/article_74a8da0f-3312-5671-a838-eab03a458fa8.html"
+    },
+    {
+      "text": "Nation & World News",
+      "url": "/news/nationworld"
+    },
+    {
+      "text": "\n        \n\n        \n            Biden administration reaches agreement to purchase 105 million doses of Pfizer Covid-19 vaccine",
+      "url": "/news/nationworld/biden-administration-reaches-agreement-to-purchase-105-million-doses-of-pfizer-covid-19-vaccine/article_74a8da0f-3312-5671-a838-eab03a458fa8.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with video1:20Multiple images+2\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/court-documents-reveal-new-details-in-columbia-babys-death/article_ac47372e-f7c0-11ec-b146-9f53079a556f.html"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews"
+    },
+    {
+      "text": "\n        \n\n        \n            Court documents reveal new details in Columbia baby's death",
+      "url": "/news/midmissourinews/court-documents-reveal-new-details-in-columbia-babys-death/article_ac47372e-f7c0-11ec-b146-9f53079a556f.html"
+    },
+    {
+      "text": "VIDEO: Court documents reveal new details in Columbia baby's death",
+      "url": "/news/video-court-documents-reveal-new-details-in-columbia-babys-death/video_6bcbe60c-7b5e-58ba-88d1-e0527c90a5de.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video1:23\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/agencies-weigh-in-on-adoption-gaining-popularity-after-roe-v-wade-decision/article_d08f2798-f803-11ec-8681-cbe3e9df4e2f.html"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews"
+    },
+    {
+      "text": "\n        \n\n        \n            Agencies weigh in on adoption gaining popularity after Roe v. Wade decision",
+      "url": "/news/midmissourinews/agencies-weigh-in-on-adoption-gaining-popularity-after-roe-v-wade-decision/article_d08f2798-f803-11ec-8681-cbe3e9df4e2f.html"
+    },
+    {
+      "text": "VIDEO: Agencies weigh in on adoption gaining popularity after Roe v. Wade decision",
+      "url": "/news/video-agencies-weigh-in-on-adoption-gaining-popularity-after-roe-v-wade-decision/video_794b243e-88c7-5405-9d9e-edea3009dd61.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with images+3\n                \n                \n                \n                        \n                ",
+      "url": "/news/nationworld/sweden-and-finland-are-on-the-cusp-of-joining-nato-heres-why-that-matters-and/article_b49778dd-8f59-54a2-b2a7-0abac891774e.html"
+    },
+    {
+      "text": "Nation & World News",
+      "url": "/news/nationworld"
+    },
+    {
+      "text": "\n        \n\n        \n            Sweden and Finland are on the cusp of joining NATO. Here's why that matters, and what comes next",
+      "url": "/news/nationworld/sweden-and-finland-are-on-the-cusp-of-joining-nato-heres-why-that-matters-and/article_b49778dd-8f59-54a2-b2a7-0abac891774e.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/nationworld/4-people-have-been-charged-in-the-texas-semitruck-smuggling-operation-that-left-53-migrants/article_9f778758-2348-5794-aad6-b786ad53c12c.html"
+    },
+    {
+      "text": "Nation & World News",
+      "url": "/news/nationworld"
+    },
+    {
+      "text": "\n        \n\n        \n            4 people have been charged in the Texas semitruck smuggling operation that left 53 migrants dead",
+      "url": "/news/nationworld/4-people-have-been-charged-in-the-texas-semitruck-smuggling-operation-that-left-53-migrants/article_9f778758-2348-5794-aad6-b786ad53c12c.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/second-former-fraternity-member-charged-in-mu-hazing-case-posts-bond/article_02cc7236-f7e8-11ec-80cf-675d1eb176b7.html"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews"
+    },
+    {
+      "text": "\n        \n\n        \n            Second former fraternity member charged in MU hazing case posts bond",
+      "url": "/news/midmissourinews/second-former-fraternity-member-charged-in-mu-hazing-case-posts-bond/article_02cc7236-f7e8-11ec-80cf-675d1eb176b7.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/names-of-individuals-killed-in-amtrak-train-derailment-released/article_4a448cac-f7d9-11ec-a211-cf8aeb83e0a8.html"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews"
+    },
+    {
+      "text": "\n        \n\n        \n            Names of individuals killed in Amtrak train derailment released",
+      "url": "/news/midmissourinews/names-of-individuals-killed-in-amtrak-train-derailment-released/article_4a448cac-f7d9-11ec-a211-cf8aeb83e0a8.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video1:39\n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/boone-health-officials-talk-about-caring-for-patients-after-the-amtrak-train-crash/article_0f514288-f7df-11ec-ada6-fbed023d5ea3.html"
+    },
+    {
+      "text": "Mid-Missouri News",
+      "url": "/news/midmissourinews"
+    },
+    {
+      "text": "\n        \n\n        \n            Boone Health officials talk about caring for patients after the Amtrak train crash",
+      "url": "/news/midmissourinews/boone-health-officials-talk-about-caring-for-patients-after-the-amtrak-train-crash/article_0f514288-f7df-11ec-ada6-fbed023d5ea3.html"
+    },
+    {
+      "text": "VIDEO: Boone Health officials talk about that day, helping patients, paying for hotel rooms",
+      "url": "/news/video-boone-health-officials-talk-about-that-day-helping-patients-paying-for-hotel-rooms/video_86ae5205-2171-5549-865f-f4de556232cb.html"
+    },
+    {
+      "text": "More News",
+      "url": "/news"
+    },
+    {
+      "text": "\n                \n                Sports\n                \n                    ",
+      "url": "/sports/"
+    },
+    {
+      "text": "\n                \n                \n                    Article with images+2\n                \n                \n                \n                        \n                ",
+      "url": "/sports/columbia-college-wbb-hires-former-mizzou-star-chavis/article_0cee6b24-f7cb-11ec-be6d-1b51b1402abb.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Columbia College WBB hires former Mizzou star Chavis",
+      "url": "/sports/columbia-college-wbb-hires-former-mizzou-star-chavis/article_0cee6b24-f7cb-11ec-be6d-1b51b1402abb.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/sports/mizzouxtra/mizzou-mbbs-22-23-sec-opponents-released/article_76479d50-f7c8-11ec-b0da-3baba9f66dc0.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Mizzou MBB's '22-'23 SEC opponents released",
+      "url": "/sports/mizzouxtra/mizzou-mbbs-22-23-sec-opponents-released/article_76479d50-f7c8-11ec-b0da-3baba9f66dc0.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/sports/local-basketball-coach-tony-phillips-dies/article_7b4e21c8-f7c5-11ec-adbe-5fae05881b81.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Local basketball coach Tony Phillips dies",
+      "url": "/sports/local-basketball-coach-tony-phillips-dies/article_7b4e21c8-f7c5-11ec-adbe-5fae05881b81.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with images+3\n                \n                \n                \n                        \n                ",
+      "url": "/sports/mizzouxtra/date-of-2022-mizzou-kansas-border-war-revealed/article_206a65ca-f750-11ec-9464-5fc21339ccb8.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Date of 2022 Mizzou-Kansas 'Border War' revealed",
+      "url": "/sports/mizzouxtra/date-of-2022-mizzou-kansas-border-war-revealed/article_206a65ca-f750-11ec-9464-5fc21339ccb8.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video11:58\n                \n                \n                \n                        \n                ",
+      "url": "/sports/mizzouxtra/dennis-gates-on-sports-xtra/article_cfd9b244-f66b-11ec-ba31-136546cae751.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Dennis Gates on Sports Xtra",
+      "url": "/sports/mizzouxtra/dennis-gates-on-sports-xtra/article_cfd9b244-f66b-11ec-ba31-136546cae751.html"
+    },
+    {
+      "text": "VIDEO:  1 on 1 with Mizzou basketball coach Dennis Gates",
+      "url": "/sports/video-1-on-1-with-mizzou-basketball-coach-dennis-gates/video_df38e4f0-8660-5030-8c6d-48a7ff238032.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with images+2\n                \n                \n                \n                        \n                ",
+      "url": "/sports/mizzouxtra/josh-day-enters-transfer-portal-mizzou-baseball-adds-former-arkansas-catcher/article_9f8be2d4-f660-11ec-8e9b-87dd210ee088.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Josh Day enters transfer portal; Mizzou baseball adds former Arkansas catcher",
+      "url": "/sports/mizzouxtra/josh-day-enters-transfer-portal-mizzou-baseball-adds-former-arkansas-catcher/article_9f8be2d4-f660-11ec-8e9b-87dd210ee088.html"
+    },
+    {
+      "text": "More Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "Detailed Forecast",
+      "url": "/weather/"
+    },
+    {
+      "text": "Manage your lists",
+      "url": "https://www.komu.com/users/admin/mailinglist/?utm_source=blox&utm_campaign=pop_up&utm_campaign_name=utm_campaign_name&utm_medium=utility_promo_designer&utm_content=utility_promo_designer"
+    },
+    {
+      "text": "Articles Articles",
+      "url": "#articles-957808"
+    },
+    {
+      "text": "images Images",
+      "url": "#images-957808"
+    },
+    {
+      "text": "Videos Videos",
+      "url": "#videos-957808"
+    },
+    {
+      "text": "Fatalities, multiple injuries reported after Amtrak train derails in Mendon",
+      "url": "/news/midmissourinews/fatalities-multiple-injuries-reported-after-amtrak-train-derails-in-mendon/article_6473ce28-f64c-11ec-b8cd-c39dfc3a998a.html"
+    },
+    {
+      "text": "Former fraternity member arrested during court hearing in MU hazing case",
+      "url": "/news/midmissourinews/former-fraternity-member-arrested-during-court-hearing-in-mu-hazing-case/article_092731bc-f3f5-11ec-9383-1b34c419b2de.html"
+    },
+    {
+      "text": "Wisconsin Boy Scouts played major role in Amtrak train derailment rescue",
+      "url": "/news/midmissourinews/wisconsin-boy-scouts-played-major-role-in-amtrak-train-derailment-rescue/article_92f752ca-f713-11ec-a55b-cf0faa3c40cc.html"
+    },
+    {
+      "text": "Baby identified, parents charged in 2019 'Baby Doe' case",
+      "url": "/news/midmissourinews/baby-identified-parents-charged-in-2019-baby-doe-case/article_3d1b8d76-f6ff-11ec-a1bb-b31131cf4212.html"
+    },
+    {
+      "text": "Columbia Public Schools announce two new district-level leaders",
+      "url": "/news/midmissourinews/columbia-public-schools-announce-two-new-district-level-leaders/article_961b4882-f333-11ec-a60c-e79dd3d050ad.html"
+    },
+    {
+      "text": "Trauma surgeon 'extremely proud' of EMS response to Chariton County train derailment",
+      "url": "/news/midmissourinews/trauma-surgeon-extremely-proud-of-ems-response-to-chariton-county-train-derailment/article_6572060c-f695-11ec-847b-3be115c267f6.html"
+    },
+    {
+      "text": "Local basketball coach Tony Phillips dies",
+      "url": "/sports/local-basketball-coach-tony-phillips-dies/article_7b4e21c8-f7c5-11ec-adbe-5fae05881b81.html"
+    },
+    {
+      "text": "Columbia PD respond to shots fired at south Columbia apartment complex",
+      "url": "/news/midmissourinews/columbia-pd-respond-to-shots-fired-at-south-columbia-apartment-complex/article_dd846b00-f62f-11ec-ad28-fb68a24dcde3.html"
+    },
+    {
+      "text": "AG Schmitt, Gov. Parson issue opinions outlawing abortion in Missouri",
+      "url": "/news/state/ag-schmitt-gov-parson-issue-opinions-outlawing-abortion-in-missouri/article_fc80c1d0-f3cc-11ec-a35c-6b08f7699e6a.html"
+    },
+    {
+      "text": "Nashville truck driver seriously injured after I-70 crash",
+      "url": "/news/midmissourinews/nashville-truck-driver-seriously-injured-after-i-70-crash/article_6ced7414-f403-11ec-841b-037a4f571c4a.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/weather/weather-maps/komu-live-radar-mobile-tn/image_d0a1ce06-b0ca-5a58-b31b-7fddaa8e2aaf.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/weather/weather-maps/missouri-current-satrad-mobile-tn/image_80fc2d91-4632-5a40-b893-f0a136287a5f.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/weather/weather-maps/local-current-temperatures-tn/image_38d4c3a1-ee0c-53f6-8fd5-6a29818f8918.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/weather/weather-maps/midwest-current-satrad-mobile-tn/image_ec2fe348-b736-52a2-a5e1-4ac247a44616.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/weather/weather-maps/missouri-watches-mobile-tn/image_09a6a763-d9a4-5c45-b195-894e05c57428.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/weather/weather-maps/local-warnings-mobile-tn/image_1dc048e6-93d0-5dcf-ace5-a9063ca40fe5.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/former-fraternity-member-arrested-during-court-hearing-in-mu-hazing-case/image_d3bbdb6e-f3f8-11ec-96d6-ab747bd473a1.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/weather/weather-maps/sunsense/image_1520c2aa-bbdc-5c1e-ae70-e9183872ce9a.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/nationworld/biden-administration-agrees-to-cancel-another-6-billion-in-student-loan-debt-for-defrauded-borrowers/image_10a6a805-2380-5058-a4b0-3cb138389269.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/weather/weather-maps/midwest-current-temps-mobile-tn/image_997471f4-1849-5b62-b732-e06cb5450941.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/midmissourinews/video-demolition-begins-on-mus-read-hall/video_c955545a-f346-11ec-92d4-7795ff2573d8.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/watch-aerial-of-amtrak-train-derailment/video_dfb03a4e-f70b-11ec-9474-ff3086ec3b8d.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/video-three-fatalities-multiple-injuries-reported-after-amtrak-train-derails-in-mendon/video_27def393-0109-51e8-8842-21fcbcfd79cf.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/video-the-overturn-of-roe-v-wade-causes-celebration-and-protest-across-mid-missouri/video_ec227263-868a-5ea1-a645-c84fb8ad4533.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/watch-angie-bailey-signs-off-on-komu-8-news-today/video_65e5f112-f258-5fbf-83ab-0826d9557f79.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/watch-supreme-court-overturns-roe-v-wade-nbc-news-now/video_eee0b142-f3c8-11ec-9239-1b038d7a5e66.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/video-central-missouri-honor-flight-returns-to-columbia-from-washington-d-c/video_556716e2-53f5-563b-9db9-0335684de2a0.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/video-eric-greitens-defends-rino-hunting-campaign-ad-saying-people-are-loving-it/video_9302de18-9372-5395-a948-dddaf35d76ec.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/video-chariton-county-community-bands-together-for-amtrak-disaster-relief/video_dac82db6-6f2c-55a8-b85a-e52d2fe5d6e9.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/video-cpd-says-clue-in-baby-doe-case-found-at-a-columbia-hotel/video_aa258182-e688-5020-b2f2-a6035027aa95.html"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "\n                    News\n                ",
+      "url": "/news"
+    },
+    {
+      "text": "\n                    Sports\n                ",
+      "url": "/sports"
+    },
+    {
+      "text": "\n                    Weather\n                ",
+      "url": "/weather/"
+    },
+    {
+      "text": "\n                    Traffic\n                ",
+      "url": "/traffic/"
+    },
+    {
+      "text": "\n                    Community Calendar\n                ",
+      "url": "/local-events/"
+    },
+    {
+      "text": "\n                    What's On\n                ",
+      "url": "/onkomu/"
+    },
+    {
+      "text": "\n                    KOMU 8 Cares\n                ",
+      "url": "/cares/"
+    },
+    {
+      "text": "\n                    Contests\n                ",
+      "url": "/contests/"
+    },
+    {
+      "text": "\n                    Multimedia\n                ",
+      "url": "/multimedia/"
+    },
+    {
+      "text": "\n                    Promote Your Event\n                ",
+      "url": "https://new.evvnt.com/?with_navbar&force_snap_sell&partner=&publisher_url:komu.com#/quick"
+    },
+    {
+      "text": "\n                    Search\n                ",
+      "url": "/search"
+    },
+    {
+      "text": "\n                    Weather\n                ",
+      "url": "/weather"
+    },
+    {
+      "text": "\n                    FCC Public Information\n                ",
+      "url": "/pages/fcc/"
+    },
+    {
+      "text": "\n                    FCC Online Public Inspection File\n                ",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KOMU-TV"
+    },
+    {
+      "text": "\n                    FCC Applications\n                ",
+      "url": "https://www.komu.com/fcc-applications/pdf_9eebc644-1adb-11eb-b6b9-476b9c2b707f.html"
+    },
+    {
+      "text": "news@komu.com",
+      "url": "mailto:news@komu.com"
+    },
+    {
+      "text": "\n                    \n                    Facebook\n                ",
+      "url": "https://www.facebook.com/komu8/"
+    },
+    {
+      "text": "\n                    \n                    Twitter\n                ",
+      "url": "https://twitter.com/KOMUnews/"
+    },
+    {
+      "text": "\n                    \n                    LinkedIn\n                ",
+      "url": "https://www.linkedin.com/company/komu8/"
+    },
+    {
+      "text": "\n                    \n                    YouTube\n                ",
+      "url": "https://youtube.com/user/komunews"
+    },
+    {
+      "text": "\n                    \n                    Instagram\n                ",
+      "url": "https://instagram.com/komunews"
+    },
+    {
+      "text": "KOMU 8",
+      "url": "/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/site/terms.html"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/site/privacy.html"
+    },
+    {
+      "text": "BLOX Content Management System",
+      "url": "https://bloxcms.com"
+    },
+    {
+      "text": "TownNews.com",
+      "url": "https://townnews.com/"
+    }
+  ],
   "metadata": {
     "identifier": "komunews-2022",
     "collection": [
@@ -872,7 +2292,7 @@
     "addeddate": "2022-06-24 22:57:45"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 134160389,
+  "uniq": 101468596,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

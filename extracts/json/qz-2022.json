@@ -1,5 +1,5 @@
 {
-  "created": 1656546400,
+  "created": 1656635101,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/qz-2022",
@@ -1738,31 +1738,325 @@
       "sha1": "da8c31ce010e91aa086574a3460ed845720a64a9"
     },
     {
+      "name": "qz-2022-06-29T21:34:29.911114-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552872",
+      "size": "14687",
+      "md5": "97ab66223d919e1cd6c0eff5b8dfe5c7",
+      "crc32": "b393e164",
+      "sha1": "3942c1574f4b0e6bcdac0088e7a491551628d112",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-29T21:34:29.911114-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552874",
+      "size": "14291",
+      "md5": "478d633d9a25de1b26a077d750920daa",
+      "crc32": "6b4d67d8",
+      "sha1": "e515be6eaf6efc82d89540fd813f9763bb62882c",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-29T21:34:29.911114-04:00.jpg",
+      "source": "original",
+      "mtime": "1656552871",
+      "size": "247314",
+      "md5": "6be69d967e480603845bf04b3aabf4e3",
+      "crc32": "97c534d8",
+      "sha1": "c5a9af2b1e48b81b5513acc2a75a29c2bf1af0cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-29T21:34:29.911114-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-29T21:34:29.911114-04:00.jpg",
+      "mtime": "1656552917",
+      "size": "8808",
+      "md5": "a2e6b7d650e61adc76cb5e24d5b716f5",
+      "crc32": "07fa497c",
+      "sha1": "0fef74be790b0a423a46ede4e76cbcc60248417f"
+    },
+    {
+      "name": "qz-2022-06-29T23:47:43.504994-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560866",
+      "size": "14702",
+      "md5": "5389d3274618494bb2579253f2075edb",
+      "crc32": "feaa4289",
+      "sha1": "7ca45f41f1ed12f286805f68690e816eb8b192d9",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-29T23:47:43.504994-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560868",
+      "size": "14318",
+      "md5": "775b4678e4b658115c8eb4f39c52eb17",
+      "crc32": "8c61fde2",
+      "sha1": "b0dbad07c9f8832912d0a9dceebbf1f69c88054c",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-29T23:47:43.504994-04:00.jpg",
+      "source": "original",
+      "mtime": "1656560864",
+      "size": "248157",
+      "md5": "508bbadac7240265a075d79c00dca9ed",
+      "crc32": "b4687f18",
+      "sha1": "e51ddf716c896444f1fb413ba866a4e5a7e27704",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-29T23:47:43.504994-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-29T23:47:43.504994-04:00.jpg",
+      "mtime": "1656560913",
+      "size": "8796",
+      "md5": "d6ad548fb2622cb5b5dc133d2bf842d0",
+      "crc32": "6505e0da",
+      "sha1": "7909abcb390f30548903360ba9a50527dfb940be"
+    },
+    {
+      "name": "qz-2022-06-30T01:15:40.776800-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566143",
+      "size": "14702",
+      "md5": "0f9c458acd96e2372fd45b0a6919c99e",
+      "crc32": "47d29908",
+      "sha1": "24672b5bc114e429d36d4f3d46aa496bb1168796",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T01:15:40.776800-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566144",
+      "size": "14318",
+      "md5": "d9a83b7fdca19538b98d677887f1ce3a",
+      "crc32": "8335f1fa",
+      "sha1": "e5caaa02ed4877ae1a6dce381f0b034368c153ee",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T01:15:40.776800-04:00.jpg",
+      "source": "original",
+      "mtime": "1656566141",
+      "size": "248601",
+      "md5": "4135a32cf74e1bf59346a957c04ae569",
+      "crc32": "239d2b8a",
+      "sha1": "c9509161fb916c6345ebe774b374199fb6895a67",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-30T01:15:40.776800-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-30T01:15:40.776800-04:00.jpg",
+      "mtime": "1656566196",
+      "size": "8801",
+      "md5": "5e93f41f86325fc0f8a20e84e38b7b63",
+      "crc32": "de55d64d",
+      "sha1": "571674a05a11a12146a34cb836f57d4f16b81645"
+    },
+    {
+      "name": "qz-2022-06-30T03:05:29.952632-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572733",
+      "size": "14634",
+      "md5": "ee1589778dbb8c7acbcee437b5130931",
+      "crc32": "eac9f8fc",
+      "sha1": "4a20842608d1316159217ba8102fbecaf7b33f87",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T03:05:29.952632-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572735",
+      "size": "14318",
+      "md5": "c12fd8eb924d41eb4af68a8d8857670d",
+      "crc32": "4bed28b5",
+      "sha1": "fc8f9d9b20f563702957f336208936f4a4c5fe2e",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T03:05:29.952632-04:00.jpg",
+      "source": "original",
+      "mtime": "1656572732",
+      "size": "248507",
+      "md5": "db6b87c78335ce5e5a3cede91f3b5e57",
+      "crc32": "45791612",
+      "sha1": "2aa355eda30addbf912a3a33d26a489ade486559",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-30T03:05:29.952632-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-30T03:05:29.952632-04:00.jpg",
+      "mtime": "1656572791",
+      "size": "8813",
+      "md5": "2e829aaaf84534c5f2455ae892d787c9",
+      "crc32": "b6d54824",
+      "sha1": "c4791df6a8e0bb76ce6fcf7712dd812cda69bb63"
+    },
+    {
+      "name": "qz-2022-06-30T05:10:32.059926-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580235",
+      "size": "14702",
+      "md5": "2b6405b1777e75606515a8c6d04c3290",
+      "crc32": "8e174ff1",
+      "sha1": "c16ea6814faf3f46556da855dd594ff82362418a",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T05:10:32.059926-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580237",
+      "size": "14318",
+      "md5": "f536611bcc03c945f4fb712578028e06",
+      "crc32": "f1c2f620",
+      "sha1": "b872711a5bfd28c626770396dd8602e5be404b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T05:10:32.059926-04:00.jpg",
+      "source": "original",
+      "mtime": "1656580234",
+      "size": "248156",
+      "md5": "f22c13d7c838e5188de0d02abfcc9d57",
+      "crc32": "5f5afd5e",
+      "sha1": "95b5cad92ff81fbc96eb19a0b592a440e887bbce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-30T05:10:32.059926-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-30T05:10:32.059926-04:00.jpg",
+      "mtime": "1656580294",
+      "size": "8800",
+      "md5": "738f30e99922292e015e3fc625011423",
+      "crc32": "751a81e1",
+      "sha1": "5925961e173b6eba5527962ec3cd6f5810e9c502"
+    },
+    {
+      "name": "qz-2022-06-30T07:06:49.813954-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587213",
+      "size": "14557",
+      "md5": "066c860bdc6d4178d3db2ddadbcf3cc2",
+      "crc32": "01d64591",
+      "sha1": "e402e156e66dca92e81f531990df840bbf66b4e4",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T07:06:49.813954-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587215",
+      "size": "14241",
+      "md5": "8ad54ee102312b3e878571ccac749970",
+      "crc32": "8228e3f1",
+      "sha1": "8a7821edfe836417acc4e74222ee08e09601bdad",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T07:06:49.813954-04:00.jpg",
+      "source": "original",
+      "mtime": "1656587212",
+      "size": "248049",
+      "md5": "01117ae45e2b0eabcc005f63d6c77404",
+      "crc32": "32e20f2c",
+      "sha1": "f0f2ce34df6fd428771f530386ca4458a74e0f0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-30T07:06:49.813954-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-30T07:06:49.813954-04:00.jpg",
+      "mtime": "1656587269",
+      "size": "8615",
+      "md5": "19f4b4a8ebd7da38d1123fe107a4e38e",
+      "crc32": "2494f87b",
+      "sha1": "63b1ba11c6bd69c2ead0f448bc2259e758b1ae49"
+    },
+    {
+      "name": "qz-2022-06-30T09:10:28.058192-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594631",
+      "size": "14559",
+      "md5": "40653e51d0cdb361a56e9a4b2af17d71",
+      "crc32": "528b22d2",
+      "sha1": "7ebe2aad1aa6e42e8142acc3d1b0ed692fc94d28",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T09:10:28.058192-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594633",
+      "size": "14241",
+      "md5": "8ad54ee102312b3e878571ccac749970",
+      "crc32": "8228e3f1",
+      "sha1": "8a7821edfe836417acc4e74222ee08e09601bdad",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-06-30T09:10:28.058192-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594629",
+      "size": "241224",
+      "md5": "34564ac729fd0a2f3afecbc2bb1c287b",
+      "crc32": "7db9806b",
+      "sha1": "520a10ee6df7a59c0b941c8d03fb34b0a238dad2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-06-30T09:10:28.058192-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-06-30T09:10:28.058192-04:00.jpg",
+      "mtime": "1656594729",
+      "size": "8605",
+      "md5": "6ce0828a54ce3bec946a6fa7676945a5",
+      "crc32": "7c4a7561",
+      "sha1": "652c915363fc53cb99de0a2579576acc8ec2d0de"
+    },
+    {
       "name": "qz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8582ea8a4d206e4f308eefcc6076587342be9a77",
-      "mtime": "1656544278",
-      "size": "35017",
-      "md5": "c2649043f195d5d3e97f75381a98f788",
-      "crc32": "81c54c99",
-      "sha1": "ba6c99be073bcc38b3485d172c2bd0bc24eec1f3",
+      "btih": "bb4ff18989138726d05d27441278786289153397",
+      "mtime": "1656594785",
+      "size": "40732",
+      "md5": "8cfae872548aa8e3a707fbd98c44edd2",
+      "crc32": "248522ab",
+      "sha1": "5898ec84406ddb1791a3a91dcfaff439e1802d12",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "53b8ee0c96b2076947c66c618362aa59",
+      "md5": "20ec93eb60e1f9adc5307a4bd93c27de",
       "summation": "md5"
     },
     {
       "name": "qz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544221",
-      "size": "208896",
-      "md5": "f3f441d28ec14975cd3ab93369c029bd",
-      "crc32": "10718a54",
-      "sha1": "c2c5cb735395681b8c9e45b782689b055930e520",
+      "mtime": "1656594636",
+      "size": "237568",
+      "md5": "a7e88743bd5c909b817b81699f855488",
+      "crc32": "766f3e60",
+      "sha1": "3a6e62f836098a592dea65af3f89f5b019f90ecf",
       "format": "Metadata"
     },
     {
@@ -1776,9 +2070,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 169,
-  "item_last_updated": 1656544278,
-  "item_size": 11793394,
+  "files_count": 197,
+  "item_last_updated": 1656594785,
+  "item_size": 13821615,
   "metadata": {
     "identifier": "qz-2022",
     "collection": [
@@ -1795,10 +2089,588 @@
     "publicdate": "2022-06-19 23:27:27",
     "addeddate": "2022-06-19 23:27:27"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1145097594,
+  "qz-2022": [
+    {
+      "text": "Skip to navigation",
+      "url": "#site-navigation"
+    },
+    {
+      "text": "Skip to content",
+      "url": "#site-content"
+    },
+    {
+      "text": "Membership",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/se/quartz-obsession-podcast/"
+    },
+    {
+      "text": "Field Guides",
+      "url": "/guides/"
+    },
+    {
+      "text": "Presentations",
+      "url": "/re/quartz-presents/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Trending",
+      "url": "/discover/trending/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "Featured",
+      "url": "/featured/"
+    },
+    {
+      "text": "Search",
+      "url": "/search/"
+    },
+    {
+      "text": "Quartz",
+      "url": "/"
+    },
+    {
+      "text": "Quartz at Work",
+      "url": "/work/"
+    },
+    {
+      "text": "Quartz Africa",
+      "url": "/africa/"
+    },
+    {
+      "text": "Quartz India",
+      "url": "/india/"
+    },
+    {
+      "text": "Quartz Japan",
+      "url": "/japan/"
+    },
+    {
+      "text": "About Quartz",
+      "url": "/about/"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "Diversity and inclusion",
+      "url": "/about/diversity-inclusion-equality-at-quartz/"
+    },
+    {
+      "text": "Help center",
+      "url": "https://help.qz.com"
+    },
+    {
+      "text": "Download our app",
+      "url": "/app/"
+    },
+    {
+      "text": "Quartz Creative",
+      "url": "/creative/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://facebook.com/qz"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/qz"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/qz/"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://youtube.com/channel/UC9f78Z5hgtDt0n8JWyfBk8Q"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/quartzmedia/"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "Discover",
+      "url": "/discover/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Featured",
+      "url": "/featured/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Become a member",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "",
+      "url": "/login/"
+    },
+    {
+      "text": "Become a member",
+      "url": "/subscribe/"
+    },
+    {
+      "text": ".ArtDirection__27787 { padding-bottom: 61.194029850746276%; }@media (min-width: 26.5625em) { .ArtDirection__27787 { padding-bottom: 56.11940298507463%; } }",
+      "url": "/emails/quartz-forecast/2181575/the-end-of-globalization-has-been-greatly-exaggerated/"
+    },
+    {
+      "text": "The Forecast",
+      "url": "/emails/quartz-forecast/archive/"
+    },
+    {
+      "text": "\u2726 Where globalization goes nextJune 26, 2022",
+      "url": "/emails/quartz-forecast/2181575/the-end-of-globalization-has-been-greatly-exaggerated/"
+    },
+    {
+      "text": ".ArtDirection__22351 { padding-bottom: 100%; }",
+      "url": "/emails/quartz-weekend-brief/2181932/did-the-us-waste-the-era-of-low-interest-rates/"
+    },
+    {
+      "text": "Quartz Weekend Brief",
+      "url": "/emails/quartz-weekend-brief/archive/"
+    },
+    {
+      "text": "\u2726 Did we waste the era of low interest rates?June 25, 2022",
+      "url": "/emails/quartz-weekend-brief/2181932/did-the-us-waste-the-era-of-low-interest-rates/"
+    },
+    {
+      "text": ".ArtDirection__23337 { padding-bottom: 100%; }",
+      "url": "/emails/quartz-how-to/2151634/%e2%9c%a6-how-to-break-a-habit/"
+    },
+    {
+      "text": "How To",
+      "url": "/emails/quartz-how-to/archive/"
+    },
+    {
+      "text": "\u2726 How to break a habitApril 8, 2022",
+      "url": "/emails/quartz-how-to/2151634/%e2%9c%a6-how-to-break-a-habit/"
+    },
+    {
+      "text": ".ArtDirection__26877 { padding-bottom: 100%; }",
+      "url": "/emails/quartz-company/2151022/%e2%9c%a6-ossurs-blades-of-glory/"
+    },
+    {
+      "text": "The Company",
+      "url": "/emails/quartz-company/archive/"
+    },
+    {
+      "text": "\u2726 \u00d6ssur\u2019s blades of gloryApril 7, 2022",
+      "url": "/emails/quartz-company/2151022/%e2%9c%a6-ossurs-blades-of-glory/"
+    },
+    {
+      "text": "More Quartz emailsMore Quartz emails",
+      "url": "/latest/emails/"
+    },
+    {
+      "text": "sign up \u2192",
+      "url": "/emails/daily-brief/"
+    },
+    {
+      "text": "take his seat",
+      "url": "https://www.nbcnews.com/politics/supreme-court/justice-stephen-breyer-step-thursday-rcna35952"
+    },
+    {
+      "text": "largest US military expansion",
+      "url": "https://www.wsj.com/articles/u-s-to-ramp-up-military-presence-in-europe-to-counter-russia-11656505684"
+    },
+    {
+      "text": "data security concerns",
+      "url": "https://www.cnbc.com/2022/06/29/fcc-commissioner-tells-apple-google-to-remove-tiktok-from-app-stores.html"
+    },
+    {
+      "text": "in the batch",
+      "url": "https://www.scmp.com/tech/tech-war/article/3183554/us-sanctions-25-chinese-entities-including-firm-touted-its-technology"
+    },
+    {
+      "text": "allegedly helping",
+      "url": "https://www.wsj.com/articles/u-s-blacklists-five-chinese-firms-for-allegedly-helping-russias-military-11656538213?mod=hp_lead_pos2"
+    },
+    {
+      "text": "filed a suit",
+      "url": "https://www.bloomberg.com/news/articles/2022-06-30/sec-rejects-grayscale-bid-to-turn-biggest-bitcoin-fund-into-etf?srnd=markets-vp&sref=P6Q0mxvj"
+    },
+    {
+      "text": "$200 million",
+      "url": "https://www.politico.com/news/2022/06/29/new-turmoil-rocks-crypto-as-court-orders-hedge-fund-to-liquidate-00043138"
+    },
+    {
+      "text": "27% decrease in sales",
+      "url": "https://edition.cnn.com/2022/06/29/investing/bed-bath-and-beyond-replaces-ceo/index.html"
+    },
+    {
+      "text": "Quartz Privacy Policy",
+      "url": "/about/privacy-policy/"
+    },
+    {
+      "text": "Read full briefing",
+      "url": "/essentials/2183643/june-30-2022-briefing/"
+    },
+    {
+      "text": "All",
+      "url": "/latest/"
+    },
+    {
+      "text": "Quartz at Work",
+      "url": "/work/latest/"
+    },
+    {
+      "text": "Quartz India",
+      "url": "/india/latest/"
+    },
+    {
+      "text": "Quartz Africa",
+      "url": "/africa/latest/"
+    },
+    {
+      "text": ".ArtDirection__52771 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__52771 { padding-bottom: 56.66666666666667%; } }A new UK official is in charge of preparing the country for winterQuartz \u2022 June 29, 2022",
+      "url": "/2183546/a-new-winter-resilience-official-is-preparing-the-uk-for-winter/"
+    },
+    {
+      "text": ".ArtDirection__69675 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__69675 { padding-bottom: 56.66666666666667%; } }Tesla is killing off coal and gas plants with its giant battery projectsQuartz \u2022 June 29, 2022",
+      "url": "/2182975/tesla-is-killing-coal-and-gas-plants-with-megapack-batteries/"
+    },
+    {
+      "text": ".ArtDirection__71507 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__71507 { padding-bottom: 56.66666666666667%; } }China is softening its zero-covid approach\u2014for nowQuartz \u2022 June 29, 2022",
+      "url": "/2183245/china-is-softening-its-zero-covid-approach-for-now/"
+    },
+    {
+      "text": ".ArtDirection__65347 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__65347 { padding-bottom: 56.66666666666667%; } }The FDA holds the key to expanding abortion accessQuartz \u2022 June 29, 2022",
+      "url": "/2182603/should-misoprostol-and-mifepristone-be-over-the-counter/"
+    },
+    {
+      "text": ".ArtDirection__50903 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__50903 { padding-bottom: 56.66666666666667%; } }Quartz investigation: H&M showed bogus environmental scores for its clothingQuartz \u2022 June 29, 2022",
+      "url": "/2180075/hm-showed-bogus-environmental-higg-index-scores-for-its-clothing/"
+    },
+    {
+      "text": ".ArtDirection__52215 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__52215 { padding-bottom: 56.66666666666667%; } }The controversial way fashion brands gauge sustainability is being suspendedQuartz \u2022 June 29, 2022",
+      "url": "/2180322/the-controversial-higg-sustainability-index-is-being-suspended/"
+    },
+    {
+      "text": ".ArtDirection__60227 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__60227 { padding-bottom: 56.66666666666667%; } }God is disappearing from the gun control debate\u00a0Quartz \u2022 June 28, 2022",
+      "url": "/2182279/thoughts-and-prayers-are-fading-from-the-gun-control-debate/"
+    },
+    {
+      "text": "More latest stories",
+      "url": "/latest/"
+    },
+    {
+      "text": ".ArtDirection__51532 { padding-bottom: 100%; }\u201cTop Gun: Maverick\u201d shows Hollywood can survive without China\u2019s film marketQuartz \u2022 June 28, 2022",
+      "url": "/2183133/top-gun-maverick-shows-hollywood-can-survive-without-china/"
+    },
+    {
+      "text": ".ArtDirection__51865 { padding-bottom: 100%; }Tesla is killing off coal and gas plants with its giant battery projectsQuartz \u2022 June 29, 2022",
+      "url": "/2182975/tesla-is-killing-coal-and-gas-plants-with-megapack-batteries/"
+    },
+    {
+      "text": ".ArtDirection__56677 { padding-bottom: 100%; }How much is Kate Bush making from \u201cRunning Up That Hill\u201d?Quartz \u2022 June 27, 2022",
+      "url": "/2182571/how-much-is-kate-bush-making-from-running-up-that-hill/"
+    },
+    {
+      "text": ".ArtDirection__50848 { padding-bottom: 100%; }Why India\u2019s ed-tech stars are going all in on offline educationQuartz India \u2022 June 27, 2022",
+      "url": "/india/2181305/why-byjus-unacademy-and-vedantu-are-setting-up-offline-centres/"
+    },
+    {
+      "text": ".ArtDirection__53500 { padding-bottom: 100%; }The Indian government is making Twitter silence Pakistani voicesQuartz India \u2022 June 29, 2022",
+      "url": "/india/2183270/the-indian-government-bans-twitter-handles-of-pakistani-embassies/"
+    },
+    {
+      "text": "More popular Quartz storiesMore popular Quartz stories",
+      "url": "/popular/"
+    },
+    {
+      "text": "The sustainable businessHow can sustainability and profitability work hand-in-hand to transform businesses?",
+      "url": "/se/the-sustainable-business"
+    },
+    {
+      "text": "More featured projectsMore featured projects",
+      "url": "/featured/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Become a member",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "Field guides",
+      "url": "/guides/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/se/quartz-obsession-podcast/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Popular",
+      "url": "/popular/"
+    },
+    {
+      "text": "Featured",
+      "url": "/featured/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "Emerging industries",
+      "url": "/topic/emerging-industries/"
+    },
+    {
+      "text": "Economics",
+      "url": "/topic/finance-and-economics/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/topic/lifestyle/"
+    },
+    {
+      "text": "Politics",
+      "url": "/topic/politics-and-policy/"
+    },
+    {
+      "text": "Science",
+      "url": "/topic/science-and-human-behavior/"
+    },
+    {
+      "text": "Tech",
+      "url": "/topic/tech-and-communications/"
+    },
+    {
+      "text": "Work",
+      "url": "/topic/work-and-management/"
+    },
+    {
+      "text": "Search",
+      "url": "/search/"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "About us",
+      "url": "/about/"
+    },
+    {
+      "text": "Contact us",
+      "url": "/about/#contact"
+    },
+    {
+      "text": "Help center",
+      "url": "https://help.qz.com/en"
+    },
+    {
+      "text": "Quartz Creative",
+      "url": "/creative/"
+    },
+    {
+      "text": "Send us tips",
+      "url": "/tips/"
+    },
+    {
+      "text": "Become a member",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "Download our app",
+      "url": "/app/"
+    },
+    {
+      "text": "Site map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Terms & conditions",
+      "url": "/about/terms-conditions/"
+    },
+    {
+      "text": "Privacy policy",
+      "url": "/about/privacy-policy/"
+    },
+    {
+      "text": "Notice at Collection",
+      "url": "/about/privacy-policy/#_Toc28539902"
+    },
+    {
+      "text": "Ethics and advertising agreements",
+      "url": "/about/ethicsandadvertisingguidelines/"
+    },
+    {
+      "text": "Licensing",
+      "url": "https://info.wrightsmedia.com/quartz-licensing-reprints-request"
+    },
+    {
+      "text": "\u2191 Beam me up, Scotty",
+      "url": "#top"
+    },
+    {
+      "text": "Discover",
+      "url": "/discover/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Membership",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/se/quartz-obsession-podcast/"
+    },
+    {
+      "text": "Field Guides",
+      "url": "/guides/"
+    },
+    {
+      "text": "Presentations",
+      "url": "/re/quartz-presents/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Trending",
+      "url": "/discover/trending/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "Featured",
+      "url": "/featured/"
+    },
+    {
+      "text": "Search",
+      "url": "/search/"
+    },
+    {
+      "text": "Quartz",
+      "url": "/"
+    },
+    {
+      "text": "Quartz at Work",
+      "url": "/work/"
+    },
+    {
+      "text": "Quartz Africa",
+      "url": "/africa/"
+    },
+    {
+      "text": "Quartz India",
+      "url": "/india/"
+    },
+    {
+      "text": "Quartz Japan",
+      "url": "/japan/"
+    },
+    {
+      "text": "About Quartz",
+      "url": "/about/"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "Diversity and inclusion",
+      "url": "/about/diversity-inclusion-equality-at-quartz/"
+    },
+    {
+      "text": "Help center",
+      "url": "https://help.qz.com"
+    },
+    {
+      "text": "Download our app",
+      "url": "/app/"
+    },
+    {
+      "text": "Quartz Creative",
+      "url": "/creative/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://facebook.com/qz"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/qz"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/qz/"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://youtube.com/channel/UC9f78Z5hgtDt0n8JWyfBk8Q"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/quartzmedia/"
+    }
+  ],
+  "server": "ia601405.us.archive.org",
+  "uniq": 428201405,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

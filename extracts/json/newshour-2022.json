@@ -1,5 +1,5 @@
 {
-  "created": 1656544155,
+  "created": 1656635039,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -1084,31 +1084,409 @@
       "sha1": "b6972941baf9b76e76e2d0172cab2ad25b19ed77"
     },
     {
+      "name": "newshour-2022-06-29T21:32:57.442730-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552780",
+      "size": "32545",
+      "md5": "b0d2d8e4578d2fd10d0e641b4749eaa8",
+      "crc32": "67aed628",
+      "sha1": "6bad45fa12a01777f67371c60f4ce0352f912e27",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-29T21:32:57.442730-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552782",
+      "size": "38479",
+      "md5": "a99995dc91fb1d6014a9723b52a492db",
+      "crc32": "5a318ff3",
+      "sha1": "2a0f1d506ac9444d25805171ca7b38915f3fc909",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-29T21:32:57.442730-04:00.jpg",
+      "source": "original",
+      "mtime": "1656552779",
+      "size": "290988",
+      "md5": "ec45e80706f649360e55c8c3dd66c6d3",
+      "crc32": "bca15cfa",
+      "sha1": "968675626f5febaca0a86380e474839d815ee26c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-06-29T21:32:57.442730-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-06-29T21:32:57.442730-04:00.jpg",
+      "mtime": "1656552913",
+      "size": "10540",
+      "md5": "d59273e63ab22f3484aa42ffeb96161d",
+      "crc32": "9e3292a1",
+      "sha1": "a693fa5881bea8540edc54b41203a14965a5c60b"
+    },
+    {
+      "name": "newshour-2022-06-29T23:46:28.765729-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560791",
+      "size": "33203",
+      "md5": "8c3ffb3a9016732bde9ccd73760eba7d",
+      "crc32": "d842d636",
+      "sha1": "0e3e6ba2203bc4766fa2b7cf88d1a907ffcbcf92",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-29T23:46:28.765729-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560792",
+      "size": "37089",
+      "md5": "f060e7ee5ef1f19f483965fcfdaad3c4",
+      "crc32": "159667c8",
+      "sha1": "03174e4597673ca4e18a82cb39c555aaa6b8099e",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-29T23:46:28.765729-04:00.jpg",
+      "source": "original",
+      "mtime": "1656560789",
+      "size": "326119",
+      "md5": "82f1e8418a7e431f8a709fa0ce4581ad",
+      "crc32": "ce395b2d",
+      "sha1": "b071a196bc2aa3530c88c40e6ab7ca39db5f9e5d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-06-29T23:46:28.765729-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-06-29T23:46:28.765729-04:00.jpg",
+      "mtime": "1656560837",
+      "size": "11033",
+      "md5": "c1c1963313d9aeca220f8bb7c7ac373c",
+      "crc32": "bbd16cfe",
+      "sha1": "32c98d208f5fea08277346cae0f8c94c0d288e38"
+    },
+    {
+      "name": "newshour-2022-06-30T01:14:15.819570-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566059",
+      "size": "33193",
+      "md5": "a9ccdffd6443112aeb062098fe1b01b4",
+      "crc32": "55b0a256",
+      "sha1": "5ef5b7d77775fd53d3e99fd58df17f3f190c5494",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T01:14:15.819570-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566060",
+      "size": "39428",
+      "md5": "5b4d2cbcdb41260fca5fbe94951febf4",
+      "crc32": "44cfafe6",
+      "sha1": "c3fe0b9c26794c90f7f8edac96dc8f3fd04e202b",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T01:14:15.819570-04:00.jpg",
+      "source": "original",
+      "mtime": "1656566058",
+      "size": "326130",
+      "md5": "10aa7fed03d765c63e37c0ec61268766",
+      "crc32": "bd3d9a9d",
+      "sha1": "6da92752989fd69b43623c2ce2f46f87af2d657e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-06-30T01:14:15.819570-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-06-30T01:14:15.819570-04:00.jpg",
+      "mtime": "1656566107",
+      "size": "11033",
+      "md5": "8c90b96574aa31935bf382166657ba0e",
+      "crc32": "24d2c250",
+      "sha1": "94a79695e7728831864c1141e8c4449bd82c1216"
+    },
+    {
+      "name": "newshour-2022-06-30T03:04:31.417583-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572674",
+      "size": "32852",
+      "md5": "aabb21fa58d8b3717f28bbeac23e1813",
+      "crc32": "64b02434",
+      "sha1": "d6a2320f17cc2ada59e4341452498a1683a61f12",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T03:04:31.417583-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572676",
+      "size": "39402",
+      "md5": "98430e020a5363f57ed7674bd01c7379",
+      "crc32": "b930a4af",
+      "sha1": "44b20d4d2f57be0d530b438ef3e4bb26ac82d945",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T03:04:31.417583-04:00.jpg",
+      "source": "original",
+      "mtime": "1656572673",
+      "size": "326130",
+      "md5": "10aa7fed03d765c63e37c0ec61268766",
+      "crc32": "bd3d9a9d",
+      "sha1": "6da92752989fd69b43623c2ce2f46f87af2d657e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-06-30T03:04:31.417583-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-06-30T03:04:31.417583-04:00.jpg",
+      "mtime": "1656572727",
+      "size": "11033",
+      "md5": "8c90b96574aa31935bf382166657ba0e",
+      "crc32": "24d2c250",
+      "sha1": "94a79695e7728831864c1141e8c4449bd82c1216"
+    },
+    {
+      "name": "newshour-2022-06-30T05:07:54.785204-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580077",
+      "size": "33417",
+      "md5": "19fcc6632f3cd539d1e1b9a705b1d6c2",
+      "crc32": "e9a2f743",
+      "sha1": "367860f777d26b226024b3575af00f607e77c47d",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T05:07:54.785204-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580078",
+      "size": "39431",
+      "md5": "f7f0e23aa61138510362f39e113f6911",
+      "crc32": "f0885a91",
+      "sha1": "00334e26c5455cffe5583d08865cd7e84a5f3bed",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T05:07:54.785204-04:00.jpg",
+      "source": "original",
+      "mtime": "1656580075",
+      "size": "326130",
+      "md5": "10aa7fed03d765c63e37c0ec61268766",
+      "crc32": "bd3d9a9d",
+      "sha1": "6da92752989fd69b43623c2ce2f46f87af2d657e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-06-30T05:07:54.785204-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-06-30T05:07:54.785204-04:00.jpg",
+      "mtime": "1656580160",
+      "size": "11033",
+      "md5": "8c90b96574aa31935bf382166657ba0e",
+      "crc32": "24d2c250",
+      "sha1": "94a79695e7728831864c1141e8c4449bd82c1216"
+    },
+    {
+      "name": "newshour-2022-06-30T07:04:14.462719-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587059",
+      "size": "33412",
+      "md5": "7024651c69c81c19a7b7a02dc18bb14f",
+      "crc32": "334ab1a4",
+      "sha1": "c34994f7914f3a52988fa7505fb92cfdf80a49e9",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T07:04:14.462719-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587061",
+      "size": "39567",
+      "md5": "d0867bbde6bc2bd5d1cef71b96132cf6",
+      "crc32": "0a009138",
+      "sha1": "19767819806f9b66cd2249bcef119c4ff2052f5e",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T07:04:14.462719-04:00.jpg",
+      "source": "original",
+      "mtime": "1656587056",
+      "size": "326130",
+      "md5": "10aa7fed03d765c63e37c0ec61268766",
+      "crc32": "bd3d9a9d",
+      "sha1": "6da92752989fd69b43623c2ce2f46f87af2d657e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-06-30T07:04:14.462719-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-06-30T07:04:14.462719-04:00.jpg",
+      "mtime": "1656587121",
+      "size": "11033",
+      "md5": "8c90b96574aa31935bf382166657ba0e",
+      "crc32": "24d2c250",
+      "sha1": "94a79695e7728831864c1141e8c4449bd82c1216"
+    },
+    {
+      "name": "newshour-2022-06-30T09:08:50.525105-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594534",
+      "size": "33109",
+      "md5": "f878cc15970e66c93e1cb5f872c410a1",
+      "crc32": "cac170f2",
+      "sha1": "8216b36b14506ce3ec7b644d7c0c7e050bed275a",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T09:08:50.525105-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594535",
+      "size": "39736",
+      "md5": "cedc345fbc9bda2d3ce686cd25f17608",
+      "crc32": "78ed6b2b",
+      "sha1": "97d5bdda1adddd98e29d812e9567990b8a5cf213",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T09:08:50.525105-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594532",
+      "size": "326130",
+      "md5": "10aa7fed03d765c63e37c0ec61268766",
+      "crc32": "bd3d9a9d",
+      "sha1": "6da92752989fd69b43623c2ce2f46f87af2d657e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-06-30T09:08:50.525105-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-06-30T09:08:50.525105-04:00.jpg",
+      "mtime": "1656594599",
+      "size": "11033",
+      "md5": "8c90b96574aa31935bf382166657ba0e",
+      "crc32": "24d2c250",
+      "sha1": "94a79695e7728831864c1141e8c4449bd82c1216"
+    },
+    {
+      "name": "newshour-2022-06-30T10:08:13.433456-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656598098",
+      "size": "33929",
+      "md5": "a4d64faa439390c7a0e0228c833f2881",
+      "crc32": "2a5905a2",
+      "sha1": "d21af1fe787be9be3584a2f422cbaa4f9e35d844",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T10:08:13.433456-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656598100",
+      "size": "39201",
+      "md5": "28bb3e896279a118aa48d312ceed35e1",
+      "crc32": "785ccf6c",
+      "sha1": "3d14bfa0e16ca10db8c8348954af1be907f7466f",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T10:08:13.433456-04:00.jpg",
+      "source": "original",
+      "mtime": "1656598095",
+      "size": "320030",
+      "md5": "0a192341ae702a6536623311de64e23f",
+      "crc32": "86d932d4",
+      "sha1": "c786d5bcd73d4088af9502ffdd6a8c45d304b5fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-06-30T10:08:13.433456-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-06-30T10:08:13.433456-04:00.jpg",
+      "mtime": "1656598190",
+      "size": "11098",
+      "md5": "7fc8ffbaa24ce07f59a7f3ef3f098049",
+      "crc32": "607dc427",
+      "sha1": "eaf9c57deb39720f4fd44cf13a3e741906b75756"
+    },
+    {
+      "name": "newshour-2022-06-30T17:07:08.068148-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656623232",
+      "size": "33463",
+      "md5": "a41c41f1535ab02f45866d46af0130eb",
+      "crc32": "34571d3e",
+      "sha1": "35c292ede1028249378879a1ff2397c446126be2",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T17:07:08.068148-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656623234",
+      "size": "38991",
+      "md5": "b976caf8c22311470ecc6c56e9254607",
+      "crc32": "a65d9157",
+      "sha1": "a96b1fd2c95051eda5f2848f795e2adeeac43dc4",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-06-30T17:07:08.068148-04:00.jpg",
+      "source": "original",
+      "mtime": "1656623230",
+      "size": "321609",
+      "md5": "6d629e2e38e815fed85945701050a7fd",
+      "crc32": "2ae33bd7",
+      "sha1": "9d0be109f1e0d2ec17e88750f57fa87bf2b96f41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-06-30T17:07:08.068148-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-06-30T17:07:08.068148-04:00.jpg",
+      "mtime": "1656623280",
+      "size": "10928",
+      "md5": "569223d64c8e1daaece7766defda704a",
+      "crc32": "9e7944dd",
+      "sha1": "8a96c7062b7fbbe7571bec67ad6b7ebecf65ca97"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df38ca0d612475d4da6b0005c2b6ff5924978953",
-      "mtime": "1656544149",
-      "size": "23155",
-      "md5": "3c0e9b15f56f018d787e3b4ba38ebc4a",
-      "crc32": "245a5962",
-      "sha1": "d419bcbcc7845670e18f53ff2153a5b667b4b83b",
+      "btih": "c8909cfec487d5943b3294cc2e010545c856d758",
+      "mtime": "1656623284",
+      "size": "30765",
+      "md5": "18e1f9aa105a0fb47a6f95cde44279ab",
+      "crc32": "9cd79b9c",
+      "sha1": "254e7ccf6e0f64d6f9cb16965cf72c78695b7265",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aacb1a3d07087195ad2e01f51098b513",
+      "md5": "367341710e11b33c1ca3d08b89323400",
       "summation": "md5"
     },
     {
       "name": "newshour-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544105",
-      "size": "143360",
-      "md5": "659ea4cae8c580420dcd5aa401f1d2d9",
-      "crc32": "adf385e7",
-      "sha1": "10487cdc72ea29f8bd910837ec0f26a030bcc6fc",
+      "mtime": "1656623236",
+      "size": "180224",
+      "md5": "02ba8f24a7eeff167c60dc9dbd8e0b91",
+      "crc32": "4870162a",
+      "sha1": "af65bb27016d32a03f1a7bb0516c7781aba0cae1",
       "format": "Metadata"
     },
     {
@@ -1122,9 +1500,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 107,
-  "item_last_updated": 1656544149,
-  "item_size": 9285068,
+  "files_count": 143,
+  "item_last_updated": 1656623284,
+  "item_size": 12968149,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -1141,10 +1519,976 @@
     "publicdate": "2022-06-24 22:58:21",
     "addeddate": "2022-06-24 22:58:21"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1788655245,
+  "newshour-2022": [
+    {
+      "text": "PBS",
+      "url": "http://www.pbs.org"
+    },
+    {
+      "text": "",
+      "url": "http://www.klrn.org"
+    },
+    {
+      "text": "Shows",
+      "url": "http://www.pbs.org/shows/"
+    },
+    {
+      "text": "Video",
+      "url": "http://www.pbs.org/video/"
+    },
+    {
+      "text": "TV Schedules",
+      "url": "http://www.pbs.org/cgi-registry/whatson/index.cgir"
+    },
+    {
+      "text": "\n                        \n                            \n                                \n                                \n                                \n                            \n                            \n                                \n                                    \n                                        \n                                    \n                                    \n                                \n                                \n                                    \n                                        \n                                    \n                                    \n                                \n                                \n                                    \n                                        \n                                    \n                                    \n                                \n                            \n                        \n                        Shop\n                    ",
+      "url": "https://shop.pbs.org/?utm_source=PBS&utm_medium=Link&utm_campaign=pbs_global_shopbuttontopnav"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.klrn.org/donate/"
+    },
+    {
+      "text": "",
+      "url": "http://www.klrn.org"
+    },
+    {
+      "text": "\n            \n                \n                    \n                \n                Full Episode\n            \n            \n                                                                            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/june-29-2022-pbs-newshour-full-episode"
+    },
+    {
+      "text": "Wednesday, Jun 29",
+      "url": "https://www.pbs.org/newshour/show/june-29-2022-pbs-newshour-full-episode"
+    },
+    {
+      "text": "\n                        \n                        PBS NewsHour\n                    ",
+      "url": "https://www.pbs.org/newshour/"
+    },
+    {
+      "text": "Episodes",
+      "url": "https://www.pbs.org/newshour/video"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.pbs.org/newshour/podcasts"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.pbs.org/newshour/subscribe"
+    },
+    {
+      "text": "The Latest",
+      "url": "https://www.pbs.org/newshour/latest"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "Brooks and Capehart",
+      "url": "https://www.pbs.org/newshour/tag/brooks-and-capehart"
+    },
+    {
+      "text": "Politics Monday",
+      "url": "https://www.pbs.org/newshour/tag/politics-monday"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.pbs.org/newshour/tag/supreme-court"
+    },
+    {
+      "text": "Arts",
+      "url": "https://www.pbs.org/newshour/arts"
+    },
+    {
+      "text": "CANVAS",
+      "url": "https://artscanvas.org"
+    },
+    {
+      "text": "Poetry",
+      "url": "https://www.pbs.org/newshour/arts/poetry"
+    },
+    {
+      "text": "Now Read This",
+      "url": "https://www.pbs.org/newshour/features/now-read-this/"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.pbs.org/newshour/tag/supreme-court"
+    },
+    {
+      "text": "Race Matters",
+      "url": "https://www.pbs.org/newshour/tag/race-matters"
+    },
+    {
+      "text": "Essays",
+      "url": "https://www.pbs.org/newshour/tag/essays"
+    },
+    {
+      "text": "Brief But Spectacular",
+      "url": "https://www.pbs.org/newshour/brief"
+    },
+    {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "Agents for Change",
+      "url": "https://www.pbs.org/newshour/world/agents-for-change"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.pbs.org/newshour/economy"
+    },
+    {
+      "text": "Making Sen$e",
+      "url": "https://www.pbs.org/newshour/economy/making-sense"
+    },
+    {
+      "text": "Paul Solman",
+      "url": "https://www.pbs.org/newshour/author/paul-solman"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.pbs.org/newshour/science"
+    },
+    {
+      "text": "The Leading Edge",
+      "url": "https://www.pbs.org/newshour/tag/the-leading-edge"
+    },
+    {
+      "text": "ScienceScope",
+      "url": "https://www.pbs.org/newshour/tag/sciencescope"
+    },
+    {
+      "text": "Basic Research",
+      "url": "https://www.pbs.org/newshour/tag/basic-research"
+    },
+    {
+      "text": "Innovation and Invention",
+      "url": "https://www.pbs.org/newshour/tag/invention"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.pbs.org/newshour/health"
+    },
+    {
+      "text": "Long-Term Care",
+      "url": "https://www.pbs.org/newshour/tag/long-term-care"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.pbs.org/newshour/education"
+    },
+    {
+      "text": "Teachers' Lounge",
+      "url": "https://www.pbs.org/newshour/tag/teachers-lounge"
+    },
+    {
+      "text": "Student Reporting Labs",
+      "url": "https://studentreportinglabs.org/"
+    },
+    {
+      "text": "For Teachers",
+      "url": "https://www.pbs.org/newshour/classroom/"
+    },
+    {
+      "text": "Newshour Classroom",
+      "url": "https://www.pbs.org/newshour/classroom/"
+    },
+    {
+      "text": "NewsHour Shop",
+      "url": "https://pbsnewshour.brandfuel.com/?utm_source=newshour&utm_medium=menu&utm_campaign=promo"
+    },
+    {
+      "text": "About",
+      "url": "https://www.pbs.org/newshour/about"
+    },
+    {
+      "text": "Feedback",
+      "url": "https://www.pbs.org/newshour/about/contact-us"
+    },
+    {
+      "text": "Funders",
+      "url": "https://www.pbs.org/newshour/about/funders"
+    },
+    {
+      "text": "Support",
+      "url": "https://www.pbs.org/newshour/support"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.pbs.org/newshour/jobs"
+    },
+    {
+      "text": "GIVE NOW",
+      "url": "https://give.newshour.org/page/41295/donate/1?ea.tracking.id=nh_fye2022_match_web_banner&appealCode=R2206HW0300001"
+    },
+    {
+      "text": "\n    \n    PBS NewsHour\n",
+      "url": "https://www.pbs.org/newshour/"
+    },
+    {
+      "text": "Full Episodes",
+      "url": "https://www.pbs.org/newshour/video"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.pbs.org/newshour/podcasts"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.pbs.org/newshour/subscribe"
+    },
+    {
+      "text": "Live",
+      "url": "https://www.pbs.org/newshour/live"
+    },
+    {
+      "text": "\n                \n                                    \n                            ",
+      "url": "https://www.pbs.org/newshour/show/nato-moves-to-expand-the-alliance-and-boost-defenses-to-counter-russia"
+    },
+    {
+      "text": "\n                    \n                        \n                    \n                    Watch\n                ",
+      "url": "https://www.pbs.org/newshour/show/nato-moves-to-expand-the-alliance-and-boost-defenses-to-counter-russia"
+    },
+    {
+      "text": "\n                    Listen\n                    \n                ",
+      "url": "https://www.pbs.org/newshour/show/nato-moves-to-expand-the-alliance-and-boost-defenses-to-counter-russia#audio"
+    },
+    {
+      "text": "\n                    Read\n                    \n                ",
+      "url": "https://www.pbs.org/newshour/show/nato-moves-to-expand-the-alliance-and-boost-defenses-to-counter-russia#transcript"
+    },
+    {
+      "text": "NATO moves to expand the alliance and boost defenses to counter Russia",
+      "url": "https://www.pbs.org/newshour/show/nato-moves-to-expand-the-alliance-and-boost-defenses-to-counter-russia"
+    },
+    {
+      "text": "\n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-what-to-know-about-tech-surveillance-and-abortion-access"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "WATCH: What to know about tech surveillance and abortion access",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-what-to-know-about-tech-surveillance-and-abortion-access"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 8:52\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/former-white-house-aides-testimony-could-pose-new-legal-challenges-for-trump"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "Former White House aide\u2019s testimony could pose new legal challenges for Trump",
+      "url": "https://www.pbs.org/newshour/show/former-white-house-aides-testimony-could-pose-new-legal-challenges-for-trump"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 5:57\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/democrats-pressure-biden-to-take-executive-action-on-abortion-rights"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "Democrats pressure Biden to take executive action on abortion rights",
+      "url": "https://www.pbs.org/newshour/show/democrats-pressure-biden-to-take-executive-action-on-abortion-rights"
+    },
+    {
+      "text": "\n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/nation/a-ballot-initiative-in-michigan-could-let-voters-choose-whether-abortion-is-a-protected-right"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "A ballot initiative in Michigan could let voters choose whether abortion is a protected right",
+      "url": "https://www.pbs.org/newshour/nation/a-ballot-initiative-in-michigan-could-let-voters-choose-whether-abortion-is-a-protected-right"
+    },
+    {
+      "text": "\n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-a-community-conversation-about-abortion-hosted-by-gbh-in-boston"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "WATCH LIVE: A community conversation about abortion hosted by GBH in Boston",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-a-community-conversation-about-abortion-hosted-by-gbh-in-boston"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 8:35\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/lack-of-adequate-mental-health-care-places-heavy-burden-on-young-people"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.pbs.org/newshour/health"
+    },
+    {
+      "text": "Lack of adequate mental health care places heavy burden on young people",
+      "url": "https://www.pbs.org/newshour/show/lack-of-adequate-mental-health-care-places-heavy-burden-on-young-people"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 7:11\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/rollout-of-new-national-mental-health-hotline-faces-obstacles"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.pbs.org/newshour/health"
+    },
+    {
+      "text": "Rollout of new national mental health hotline faces obstacles",
+      "url": "https://www.pbs.org/newshour/show/rollout-of-new-national-mental-health-hotline-faces-obstacles"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 7:02\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/louisiana-judge-blocks-states-trigger-law-banning-abortion"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "Louisiana judge blocks state\u2019s trigger law banning abortions",
+      "url": "https://www.pbs.org/newshour/show/louisiana-judge-blocks-states-trigger-law-banning-abortion"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 13:39\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/what-we-learned-on-day-6-of-the-jan-6-committee-hearings"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "What we learned on Day 6 of the Jan. 6 committee hearings",
+      "url": "https://www.pbs.org/newshour/show/what-we-learned-on-day-6-of-the-jan-6-committee-hearings"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://help.pbs.org/support/solutions/articles/5000677869"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://give.newshour.org/page/41295/donate/1?ea.tracking.id=nh_fye2022_match_web_ad&appealCode=R2206HW0300002"
+    },
+    {
+      "text": "\n            \n                \n                    \n                \n                Full Episode\n            \n            \n                                                                            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/june-29-2022-pbs-newshour-full-episode"
+    },
+    {
+      "text": "Wednesday, Jun 29",
+      "url": "https://www.pbs.org/newshour/show/june-29-2022-pbs-newshour-full-episode"
+    },
+    {
+      "text": "\n                        News Wrap: Death toll rises to 53 in Texas after migrants were found in abandoned truck\n                                    6 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-death-toll-rises-to-53-in-texas-after-migrants-were-found-in-abandoned-truck"
+    },
+    {
+      "text": "\n                        NATO moves to expand the alliance and boost defenses to counter Russia\n                                    7 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/nato-moves-to-expand-the-alliance-and-boost-defenses-to-counter-russia"
+    },
+    {
+      "text": "\n                        Former White House aide\u2019s testimony could pose new legal challenges for Trump\n                                    9 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/former-white-house-aides-testimony-could-pose-new-legal-challenges-for-trump"
+    },
+    {
+      "text": "\n                        Lack of adequate mental health care places heavy burden on young people\n                                    9 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/lack-of-adequate-mental-health-care-places-heavy-burden-on-young-people"
+    },
+    {
+      "text": "\n                        Rollout of new national mental health hotline faces obstacles\n                                    7 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/rollout-of-new-national-mental-health-hotline-faces-obstacles"
+    },
+    {
+      "text": "\n                        Democrats pressure Biden to take executive action on abortion rights\n                                    6 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/democrats-pressure-biden-to-take-executive-action-on-abortion-rights"
+    },
+    {
+      "text": "\n                        Climate change forces major lifestyle changes high in the Himalayan mountains\n                                    8 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/climate-change-forces-major-lifestyle-changes-high-in-the-himalayan-mountains"
+    },
+    {
+      "text": "Judy Woodruff",
+      "url": "https://www.pbs.org/newshour/about/judy-woodruff"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://www.bdo.com/"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://www.bnsf.com/"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://www.consumercellular.com/pbs"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://cpb.org"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://ad.doubleclick.net/ddm/trackclk/N805.PBS.org/B25181769.290605748;dc_trk_aid=484322745;dc_trk_cid=143057994;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755}"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "http://www.mutualofamerica.com/"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "http://www.pbs.org/cgi-registry/sitemembershiplink.cgir"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://www.pbs.org/newshour/support/friends-of-the-newshour?utm_source=newshour%20additional%20page&utm_medium=png"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.pbs.org/newshour/about/newshour-west"
+    },
+    {
+      "text": "See all",
+      "url": "https://www.pbs.org/newshour/latest"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.pbs.org/newshour/health"
+    },
+    {
+      "text": "\n                        \n                          \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/health/rural-parents-are-less-likely-to-say-their-pediatrician-recommended-covid-shots-heres-why-that-matters"
+    },
+    {
+      "text": "Rural parents are less likely to say their pediatrician recommended COVID shots. Here\u2019s why that matters",
+      "url": "https://www.pbs.org/newshour/health/rural-parents-are-less-likely-to-say-their-pediatrician-recommended-covid-shots-heres-why-that-matters"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.pbs.org/newshour/economy"
+    },
+    {
+      "text": "\n                        \n                          \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/economy/all-eyes-on-airlines-as-july-fourth-holiday-weekend-nears"
+    },
+    {
+      "text": "All eyes on airlines as Fourth of July holiday weekend nears",
+      "url": "https://www.pbs.org/newshour/economy/all-eyes-on-airlines-as-july-fourth-holiday-weekend-nears"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "\n                        \n                          \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/nation/much-of-northern-yellowstone-park-to-reopen-friday"
+    },
+    {
+      "text": "Much of northern Yellowstone park to reopen Friday",
+      "url": "https://www.pbs.org/newshour/nation/much-of-northern-yellowstone-park-to-reopen-friday"
+    },
+    {
+      "text": "\n        \n                                      \n                        \n        \n        \n        Following years of complaints, Justice Department to probe NYPD sex crimes unit\n                                By Michael R. Sisak, Larry Neumeister, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/politics/following-years-of-complaints-justice-department-to-probe-nypd-sex-crimes-unit"
+    },
+    {
+      "text": "\n        \n                                      \n                        \n        \n        \n        Secretary-General Stoltenberg vows to guard \u2018every inch of NATO territory\u2019 as Russia\u2019s invasion of Ukraine continues\n                                By Jill Lawless, Joseph Wilson, Sylvie Corbet, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/world/secretary-general-jens-stoltenberg-vows-to-guard-every-inch-of-nato-territory-as-russias-invasion-continues"
+    },
+    {
+      "text": "\n        \n                                      \n                        \n        \n        \n        Alabama cites abortion ruling to argue for transgender medication ban\n                                By Kim Chandler, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/politics/alabama-cites-abortion-ruling-to-argue-for-transgender-medication-ban"
+    },
+    {
+      "text": "\n        \n                                      \n                        \n        \n        \n        Biden supports filibuster exception to protect abortion access\n                                By Chris Megerian, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/politics/biden-supports-filibuster-exception-to-codify-abortion-access"
+    },
+    {
+      "text": "More stories",
+      "url": "https://www.pbs.org/newshour/latest"
+    },
+    {
+      "text": "\n                            Facebook\n                            \n                        ",
+      "url": "https://www.facebook.com/newshour"
+    },
+    {
+      "text": "\n                            Twitter\n                            \n                        ",
+      "url": "https://twitter.com/NewsHour"
+    },
+    {
+      "text": "\n                            YouTube\n                            \n                        ",
+      "url": "https://www.youtube.com/user/PBSNewsHour"
+    },
+    {
+      "text": "\n                        \n                            \n                    ",
+      "url": "https://www.pbs.org/newshour/politics/americans-dont-agree-on-what-to-call-jan-6-attack"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "Americans don\u2019t agree on what to call Jan. 6 attack",
+      "url": "https://www.pbs.org/newshour/politics/americans-dont-agree-on-what-to-call-jan-6-attack"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/politics/following-years-of-complaints-justice-department-to-probe-nypd-sex-crimes-unit"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "Following years of complaints, Justice Department to probe NYPD sex crimes unit",
+      "url": "https://www.pbs.org/newshour/politics/following-years-of-complaints-justice-department-to-probe-nypd-sex-crimes-unit"
+    },
+    {
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/world/secretary-general-jens-stoltenberg-vows-to-guard-every-inch-of-nato-territory-as-russias-invasion-continues"
+    },
+    {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "Secretary-General Stoltenberg vows to guard \u2018every inch of NATO territory\u2019 as Russia\u2019s invasion of Ukraine continues",
+      "url": "https://www.pbs.org/newshour/world/secretary-general-jens-stoltenberg-vows-to-guard-every-inch-of-nato-territory-as-russias-invasion-continues"
+    },
+    {
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/politics/alabama-cites-abortion-ruling-to-argue-for-transgender-medication-ban"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "Alabama cites abortion ruling to argue for transgender medication ban",
+      "url": "https://www.pbs.org/newshour/politics/alabama-cites-abortion-ruling-to-argue-for-transgender-medication-ban"
+    },
+    {
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/politics/biden-supports-filibuster-exception-to-codify-abortion-access"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "Biden supports filibuster exception to protect abortion access",
+      "url": "https://www.pbs.org/newshour/politics/biden-supports-filibuster-exception-to-codify-abortion-access"
+    },
+    {
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/politics/sen-patrick-leahy-to-undergo-hip-surgery-after-fall"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "Sen. Patrick Leahy to undergo hip surgery after fall",
+      "url": "https://www.pbs.org/newshour/politics/sen-patrick-leahy-to-undergo-hip-surgery-after-fall"
+    },
+    {
+      "text": "Raising the Future",
+      "url": "https://www.pbs.org/newshour/tag/raising-the-future"
+    },
+    {
+      "text": "",
+      "url": ""
+    },
+    {
+      "text": "Raising the Future: The Child Care Crisis \u2013 A PBS NewsHour Special",
+      "url": "https://www.pbs.org/newshour/nation/raising-the-future-the-child-care-crisis-a-pbs-newshour-special"
+    },
+    {
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/economy/the-pandemic-was-a-breaking-point-for-caretakers-will-it-be-a-turning-point"
+    },
+    {
+      "text": "Why millions of Americans feel they must choose between caring for loved ones and work",
+      "url": "https://www.pbs.org/newshour/economy/the-pandemic-was-a-breaking-point-for-caretakers-will-it-be-a-turning-point"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 4:59\n            \n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/show/can-americans-work-through-partisan-divides-to-create-a-national-child-care-system"
+    },
+    {
+      "text": "Can Americans resolve partisan divides to create a national child care system?",
+      "url": "https://www.pbs.org/newshour/show/can-americans-work-through-partisan-divides-to-create-a-national-child-care-system"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 8:46\n            \n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/show/could-the-military-child-care-system-be-a-model-for-the-nation"
+    },
+    {
+      "text": "Could the military child care system be a model for the nation?",
+      "url": "https://www.pbs.org/newshour/show/could-the-military-child-care-system-be-a-model-for-the-nation"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/politics/what-every-senate-democrat-has-said-about-filibuster-reform"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "What every Senate Democrat has said about filibuster reform",
+      "url": "https://www.pbs.org/newshour/politics/what-every-senate-democrat-has-said-about-filibuster-reform"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-jan-6-committee-hearings-day-6"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "WATCH: Jan. 6 Committee hearings \u2013 Day 6",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-jan-6-committee-hearings-day-6"
+    },
+    {
+      "text": "     Watch 8:35      ",
+      "url": "https://www.pbs.org/newshour/show/lack-of-adequate-mental-health-care-places-heavy-burden-on-young-people"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.pbs.org/newshour/health"
+    },
+    {
+      "text": "Lack of adequate mental health care places heavy burden on young people",
+      "url": "https://www.pbs.org/newshour/show/lack-of-adequate-mental-health-care-places-heavy-burden-on-young-people"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/nation/1955-warrant-in-emmett-till-case-found-family-seeks-arrest"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "1955 warrant in Emmett Till case found, family seeks arrest",
+      "url": "https://www.pbs.org/newshour/nation/1955-warrant-in-emmett-till-case-found-family-seeks-arrest"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/politics/how-to-watch-the-jan-6-hearings"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "How to watch the Jan. 6 hearings",
+      "url": "https://www.pbs.org/newshour/politics/how-to-watch-the-jan-6-hearings"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/politics/more-than-1-million-voters-switch-to-gop-raising-alarm-for-democrats"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "More than 1 million voters switch to GOP, raising alarm for Democrats",
+      "url": "https://www.pbs.org/newshour/politics/more-than-1-million-voters-switch-to-gop-raising-alarm-for-democrats"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/science/8-things-didnt-know-alan-turing"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.pbs.org/newshour/science"
+    },
+    {
+      "text": "8 things you didn\u2019t know about Alan Turing",
+      "url": "https://www.pbs.org/newshour/science/8-things-didnt-know-alan-turing"
+    },
+    {
+      "text": "     Watch 8:21      ",
+      "url": "https://www.pbs.org/newshour/show/climate-change-forces-major-lifestyle-changes-high-in-the-himalayan-mountains"
+    },
+    {
+      "text": "Agents for Change",
+      "url": "https://www.pbs.org/newshour/world/agents-for-change"
+    },
+    {
+      "text": "Climate change forces major lifestyle changes high in the Himalayan mountains",
+      "url": "https://www.pbs.org/newshour/show/climate-change-forces-major-lifestyle-changes-high-in-the-himalayan-mountains"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/nation/is-abortion-illegal-in-your-state-a-comprehensive-guide"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "Is abortion illegal in your state? A comprehensive guide",
+      "url": "https://www.pbs.org/newshour/nation/is-abortion-illegal-in-your-state-a-comprehensive-guide"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/world/russian-forces-leave-strategic-snake-island-keep-up-eastern-assault-on-last-luhansk-stronghold"
+    },
+    {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "Russian forces leave strategic Snake Island, keep up eastern assault on last Luhansk stronghold",
+      "url": "https://www.pbs.org/newshour/world/russian-forces-leave-strategic-snake-island-keep-up-eastern-assault-on-last-luhansk-stronghold"
+    },
+    {
+      "text": " World See all ",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/world/secretary-general-jens-stoltenberg-vows-to-guard-every-inch-of-nato-territory-as-russias-invasion-continues"
+    },
+    {
+      "text": " Secretary-General Stoltenberg vows to guard \u2018every inch of NATO territory\u2019 as Russia\u2019s invasion of Ukraine continues ",
+      "url": "https://www.pbs.org/newshour/world/secretary-general-jens-stoltenberg-vows-to-guard-every-inch-of-nato-territory-as-russias-invasion-continues"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/world/israeli-parliament-votes-to-dissolve-itself-triggering-fifth-election-in-under-four-years"
+    },
+    {
+      "text": "Israeli parliament votes to dissolve itself, triggering fifth election in under four years",
+      "url": "https://www.pbs.org/newshour/world/israeli-parliament-votes-to-dissolve-itself-triggering-fifth-election-in-under-four-years"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/world/russian-forces-leave-strategic-snake-island-keep-up-eastern-assault-on-last-luhansk-stronghold"
+    },
+    {
+      "text": "Russian forces leave strategic Snake Island, keep up eastern assault on last Luhansk stronghold",
+      "url": "https://www.pbs.org/newshour/world/russian-forces-leave-strategic-snake-island-keep-up-eastern-assault-on-last-luhansk-stronghold"
+    },
+    {
+      "text": " Economy See all ",
+      "url": "https://www.pbs.org/newshour/economy"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.pbs.org/newshour/economy"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/economy/all-eyes-on-airlines-as-july-fourth-holiday-weekend-nears"
+    },
+    {
+      "text": " All eyes on airlines as Fourth of July holiday weekend nears ",
+      "url": "https://www.pbs.org/newshour/economy/all-eyes-on-airlines-as-july-fourth-holiday-weekend-nears"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/economy/inflation-remains-at-6-3-percent-federal-reserve-report-shows"
+    },
+    {
+      "text": "Inflation remains at 6.3 percent, Federal Reserve report shows",
+      "url": "https://www.pbs.org/newshour/economy/inflation-remains-at-6-3-percent-federal-reserve-report-shows"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/economy/no-guarantee-fed-can-tame-inflation-without-hurting-employment-powell-warns"
+    },
+    {
+      "text": "\u2018No guarantee\u2019 Fed can tame inflation without hurting employment, Powell warns",
+      "url": "https://www.pbs.org/newshour/economy/no-guarantee-fed-can-tame-inflation-without-hurting-employment-powell-warns"
+    },
+    {
+      "text": " Nation See all ",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.pbs.org/newshour/health"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/health/rural-parents-are-less-likely-to-say-their-pediatrician-recommended-covid-shots-heres-why-that-matters"
+    },
+    {
+      "text": " Rural parents are less likely to say their pediatrician recommended COVID shots. Here\u2019s why that matters ",
+      "url": "https://www.pbs.org/newshour/health/rural-parents-are-less-likely-to-say-their-pediatrician-recommended-covid-shots-heres-why-that-matters"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/nation/much-of-northern-yellowstone-park-to-reopen-friday"
+    },
+    {
+      "text": "Much of northern Yellowstone park to reopen Friday",
+      "url": "https://www.pbs.org/newshour/nation/much-of-northern-yellowstone-park-to-reopen-friday"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/politics/alabama-cites-abortion-ruling-to-argue-for-transgender-medication-ban"
+    },
+    {
+      "text": "Alabama cites abortion ruling to argue for transgender medication ban",
+      "url": "https://www.pbs.org/newshour/politics/alabama-cites-abortion-ruling-to-argue-for-transgender-medication-ban"
+    },
+    {
+      "text": "\n                    \n                    PBS NewsHour\n                ",
+      "url": "https://www.pbs.org/newshour/"
+    },
+    {
+      "text": "The Latest",
+      "url": "https://www.pbs.org/newshour/latest"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "Arts",
+      "url": "https://www.pbs.org/newshour/arts"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.pbs.org/newshour/economy"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.pbs.org/newshour/science"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.pbs.org/newshour/health"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.pbs.org/newshour/education"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.pbs.org/newshour/about"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "https://www.pbs.org/newshour/tv-schedule"
+    },
+    {
+      "text": "Press",
+      "url": "https://www.pbs.org/newshour/press-releases"
+    },
+    {
+      "text": "Feedback",
+      "url": "https://www.pbs.org/newshour/about/contact-us"
+    },
+    {
+      "text": "Funders",
+      "url": "https://www.pbs.org/newshour/about/funders"
+    },
+    {
+      "text": "Support",
+      "url": "https://www.pbs.org/newshour/support"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.pbs.org/newshour/subscribe"
+    },
+    {
+      "text": "NewsHour West",
+      "url": "https://www.pbs.org/newshour/about/newshour-west"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.pbs.org/newshour/jobs"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.pbs.org/about/pbs-privacy-policy/"
+    },
+    {
+      "text": "\n                        Facebook\n                        \n                        ",
+      "url": "https://www.facebook.com/newshour"
+    },
+    {
+      "text": "\n                        Twitter\n                        \n                        ",
+      "url": "https://twitter.com/NewsHour"
+    },
+    {
+      "text": "\n                        YouTube\n                        \n                        ",
+      "url": "https://www.youtube.com/user/PBSNewsHour"
+    },
+    {
+      "text": "\n                        RSS\n                        \n                        ",
+      "url": "https://www.pbs.org/newshour/subscribe#rss-feeds"
+    },
+    {
+      "text": "\n            Support our journalism\n            Learn more about Friends of the NewsHour.\n            \n                \n            \n        ",
+      "url": "https://www.pbs.org/newshour/support/friends-of-the-newshour?utm_source=newshour%20support%20page&utm_medium=redbutton"
+    },
+    {
+      "text": "\n                    \n                ",
+      "url": "https://www.bdo.com/"
+    },
+    {
+      "text": "\n                    \n                ",
+      "url": "https://www.bnsf.com/"
+    },
+    {
+      "text": "\n                    \n                ",
+      "url": "https://www.consumercellular.com/pbs"
+    },
+    {
+      "text": "\n                    \n                ",
+      "url": "https://www.cpb.org/"
+    },
+    {
+      "text": "\n                    \n                ",
+      "url": "https://ad.doubleclick.net/ddm/trackclk/N805.PBS.org/B25181769.290605748;dc_trk_aid=484322745;dc_trk_cid=143057994;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755}"
+    },
+    {
+      "text": "\n                    \n                ",
+      "url": "http://www.mutualofamerica.com/"
+    }
+  ],
+  "server": "ia902505.us.archive.org",
+  "uniq": 1814156029,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

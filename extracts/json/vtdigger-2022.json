@@ -1,5 +1,5 @@
 {
-  "created": 1656544491,
+  "created": 1656635233,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/vtdigger-2022",
@@ -1738,31 +1738,325 @@
       "sha1": "de3971dc979437ed9c9fb1ec1a65c1d70cc8a805"
     },
     {
+      "name": "vtdigger-2022-06-29T21:38:11.934628-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656553095",
+      "size": "58837",
+      "md5": "3d3da4f4d93b0e0ee4f00ed118d332d9",
+      "crc32": "d3346894",
+      "sha1": "88a206f739b97e399638489924c66ce56fccfec1",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-29T21:38:11.934628-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656553097",
+      "size": "58621",
+      "md5": "f9939ff9e20e8c7cc1770b4c7d6d2068",
+      "crc32": "f8566989",
+      "sha1": "13db922f6c92c6b7c628d63a149933e83209470c",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-29T21:38:11.934628-04:00.jpg",
+      "source": "original",
+      "mtime": "1656553093",
+      "size": "343514",
+      "md5": "a35a33160187c3e160062cfbd749c997",
+      "crc32": "7fc2d0e7",
+      "sha1": "ff8f10d467684bd745d3175b63f7d44aab458082",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-06-29T21:38:11.934628-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-06-29T21:38:11.934628-04:00.jpg",
+      "mtime": "1656553141",
+      "size": "9021",
+      "md5": "6712493c814bd2f0f3276b145fac182c",
+      "crc32": "336cf4bc",
+      "sha1": "d26667b648d8f1e647c8df3be89595fe8e0555be"
+    },
+    {
+      "name": "vtdigger-2022-06-29T23:51:29.833477-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656561092",
+      "size": "58648",
+      "md5": "f49bed4d3301e88655dc294862e9cd4f",
+      "crc32": "7e75537d",
+      "sha1": "5f28ce8a700b7b0c3537513adc90ecf9787e4929",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-29T23:51:29.833477-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656561093",
+      "size": "58549",
+      "md5": "00144bdff0fcfaabe0b5a5952fdb6369",
+      "crc32": "c623c735",
+      "sha1": "da00b370ab249d044c4d7076b30a19bc80355a08",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-29T23:51:29.833477-04:00.jpg",
+      "source": "original",
+      "mtime": "1656561091",
+      "size": "343681",
+      "md5": "f6b113439934d75d509641322b2dae83",
+      "crc32": "2e57e793",
+      "sha1": "98a25535a641b2fec9b41fbf3391338be4051ea7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-06-29T23:51:29.833477-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-06-29T23:51:29.833477-04:00.jpg",
+      "mtime": "1656561219",
+      "size": "9069",
+      "md5": "60a9a943e33baa4e90d8170b64c4f55a",
+      "crc32": "7a399705",
+      "sha1": "33b26ebc8519031795b81218f89ad047cdbf19be"
+    },
+    {
+      "name": "vtdigger-2022-06-30T01:18:52.802318-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566336",
+      "size": "58633",
+      "md5": "d447bae9443875f6945f64bd5e515cef",
+      "crc32": "ba6bf2bd",
+      "sha1": "1fa5b0353e3a0aeee61dff269bedd190839d62c9",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T01:18:52.802318-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566338",
+      "size": "58534",
+      "md5": "be4d70b2a9e158321a8b319de589e012",
+      "crc32": "e133d071",
+      "sha1": "44b5a2f670c33c283f45010b96cec3bca259ab8f",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T01:18:52.802318-04:00.jpg",
+      "source": "original",
+      "mtime": "1656566335",
+      "size": "343681",
+      "md5": "f6b113439934d75d509641322b2dae83",
+      "crc32": "2e57e793",
+      "sha1": "98a25535a641b2fec9b41fbf3391338be4051ea7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-06-30T01:18:52.802318-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-06-30T01:18:52.802318-04:00.jpg",
+      "mtime": "1656566390",
+      "size": "9069",
+      "md5": "60a9a943e33baa4e90d8170b64c4f55a",
+      "crc32": "7a399705",
+      "sha1": "33b26ebc8519031795b81218f89ad047cdbf19be"
+    },
+    {
+      "name": "vtdigger-2022-06-30T03:09:04.856375-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572949",
+      "size": "59731",
+      "md5": "398c6e2378fd129c0d40bdcd59ad8cdc",
+      "crc32": "51f869d3",
+      "sha1": "d8377ce9ed7764509e441fbd6b7899e7e8caba2d",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T03:09:04.856375-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572951",
+      "size": "58534",
+      "md5": "be4d70b2a9e158321a8b319de589e012",
+      "crc32": "e133d071",
+      "sha1": "44b5a2f670c33c283f45010b96cec3bca259ab8f",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T03:09:04.856375-04:00.jpg",
+      "source": "original",
+      "mtime": "1656572947",
+      "size": "343681",
+      "md5": "f6b113439934d75d509641322b2dae83",
+      "crc32": "2e57e793",
+      "sha1": "98a25535a641b2fec9b41fbf3391338be4051ea7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-06-30T03:09:04.856375-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-06-30T03:09:04.856375-04:00.jpg",
+      "mtime": "1656573015",
+      "size": "9069",
+      "md5": "60a9a943e33baa4e90d8170b64c4f55a",
+      "crc32": "7a399705",
+      "sha1": "33b26ebc8519031795b81218f89ad047cdbf19be"
+    },
+    {
+      "name": "vtdigger-2022-06-30T05:13:06.845408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580389",
+      "size": "58615",
+      "md5": "9d03df76ee960cba5de17b8c0c1bc96e",
+      "crc32": "00be6eca",
+      "sha1": "b54ebacfdf37c7259e09243a843cddaf1a79cbca",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T05:13:06.845408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580391",
+      "size": "58516",
+      "md5": "66216e02f4bc0690ff41b893af0af756",
+      "crc32": "383c01aa",
+      "sha1": "00706b4560317c83be429cbdeaa3cf57dce813d8",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T05:13:06.845408-04:00.jpg",
+      "source": "original",
+      "mtime": "1656580388",
+      "size": "343681",
+      "md5": "f6b113439934d75d509641322b2dae83",
+      "crc32": "2e57e793",
+      "sha1": "98a25535a641b2fec9b41fbf3391338be4051ea7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-06-30T05:13:06.845408-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-06-30T05:13:06.845408-04:00.jpg",
+      "mtime": "1656580439",
+      "size": "9069",
+      "md5": "60a9a943e33baa4e90d8170b64c4f55a",
+      "crc32": "7a399705",
+      "sha1": "33b26ebc8519031795b81218f89ad047cdbf19be"
+    },
+    {
+      "name": "vtdigger-2022-06-30T07:09:50.346617-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587392",
+      "size": "58615",
+      "md5": "9d03df76ee960cba5de17b8c0c1bc96e",
+      "crc32": "00be6eca",
+      "sha1": "b54ebacfdf37c7259e09243a843cddaf1a79cbca",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T07:09:50.346617-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587393",
+      "size": "58488",
+      "md5": "a7fbb94fea2a89437c8eaa1e1400dee0",
+      "crc32": "e869189e",
+      "sha1": "54cb28a06d084182224526bfacba1ae9fcf44642",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T07:09:50.346617-04:00.jpg",
+      "source": "original",
+      "mtime": "1656587391",
+      "size": "343309",
+      "md5": "7536362fc567dc378611176d3f79033a",
+      "crc32": "6f771fb0",
+      "sha1": "e72d0a8249c778b060eb91fe62fff3d72433afc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-06-30T07:09:50.346617-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-06-30T07:09:50.346617-04:00.jpg",
+      "mtime": "1656587445",
+      "size": "9061",
+      "md5": "fa3c344ee1428e9bc13ba6343d4d40e0",
+      "crc32": "02e35367",
+      "sha1": "971f4478121fee1093700d40cc7029f512b62132"
+    },
+    {
+      "name": "vtdigger-2022-06-30T09:14:48.326573-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594892",
+      "size": "59092",
+      "md5": "17ea03886a94e2a568a09b302a50d397",
+      "crc32": "ce6b9d7b",
+      "sha1": "08c60db7a640c168d7921c057bf492f2d8a16913",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T09:14:48.326573-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594894",
+      "size": "59355",
+      "md5": "9057ffad79eb66f7b4e017f8b35c302f",
+      "crc32": "354813c4",
+      "sha1": "1a9a8866cb4c954816b5563928707c4a26fc95a7",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-06-30T09:14:48.326573-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594890",
+      "size": "341351",
+      "md5": "ad4a30f2d7fb711df8b5062106d2e688",
+      "crc32": "fda9f5dc",
+      "sha1": "83423793191b95d657594d4237015d2ef8a58794",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-06-30T09:14:48.326573-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-06-30T09:14:48.326573-04:00.jpg",
+      "mtime": "1656594942",
+      "size": "9172",
+      "md5": "fdd6b06b1d6d788afc0c648b63473ba7",
+      "crc32": "01e313bf",
+      "sha1": "d8480cd689218254c3f12dda80c0da197cf3e7c4"
+    },
+    {
       "name": "vtdigger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3486924c4a97fa4c95e6b2d86c8fbc57fdd6b53c",
-      "mtime": "1656544486",
-      "size": "36414",
-      "md5": "b5ee28cbbe7220752267c83af9d79c3a",
-      "crc32": "7a80b442",
-      "sha1": "c408aaf11229f18fead9bf44ead6746fe17ebf04",
+      "btih": "0d941f34d314282e5f8cb60a8d63e69e7af1c399",
+      "mtime": "1656594946",
+      "size": "42337",
+      "md5": "f72d47491f7857dabb9236c45d4317c7",
+      "crc32": "5f322faf",
+      "sha1": "7ac000b4e66164df4a7b553cc3a0efd52be98185",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vtdigger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f5baa840a7aa5e83d99a803a825ca838",
+      "md5": "c377ac39e1383809c61f9d0482333385",
       "summation": "md5"
     },
     {
       "name": "vtdigger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544438",
-      "size": "208896",
-      "md5": "ca18fe671b200753f9b9ab21a479732f",
-      "crc32": "29de2f36",
-      "sha1": "30c03550962926275e8ade19a5b6ec5acf6bab72",
+      "mtime": "1656594897",
+      "size": "241664",
+      "md5": "373d9de826da8a2bedb542cb481974de",
+      "crc32": "730d9404",
+      "sha1": "571969543286a5b0ab183696d667de09d721e25b",
       "format": "Metadata"
     },
     {
@@ -1776,9 +2070,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 169,
-  "item_last_updated": 1656544486,
-  "item_size": 21162789,
+  "files_count": 197,
+  "item_last_updated": 1656594946,
+  "item_size": 24490676,
   "metadata": {
     "identifier": "vtdigger-2022",
     "collection": [
@@ -1796,7 +2090,1537 @@
     "addeddate": "2022-06-19 23:29:49"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 1737099177,
+  "uniq": 1501371164,
+  "vtdigger-2022": [
+    {
+      "text": "VTDigger",
+      "url": "https://vtdigger.org/"
+    },
+    {
+      "text": "DONATE",
+      "url": "https://vtdigger.org/become-a-member?campaign=7013i0000009EmHAAU"
+    },
+    {
+      "text": "NEWSLETTER",
+      "url": "/vtdigger-by-email/"
+    },
+    {
+      "text": "SHOP",
+      "url": "https://shop.vtdigger.org"
+    },
+    {
+      "text": "Legislative Guide 2022",
+      "url": "https://vtdigger.org/2022-vermont-legislature-guide/"
+    },
+    {
+      "text": "Digger Debate Series",
+      "url": "https://vtdigger.org/2022/05/19/vtdigger-to-host-summer-debates-for-secretary-of-state-lieutenant-governor-attorney-general-and-us-house/"
+    },
+    {
+      "text": "U.S. House debate",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "Abortion fund donations",
+      "url": "https://vtdigger.org/2022/06/28/vermont-abortion-fund-reports-record-donations-after-supreme-court-overturns-roe-v-wade/"
+    },
+    {
+      "text": "Peter Newton",
+      "url": "https://vtdigger.org/2022/06/28/addison-county-sheriff-peter-newton-arrested-on-sex-assault-domestic-violence-and-unlawful-restraint-charges/"
+    },
+    {
+      "text": "Brattleboro EMS",
+      "url": "https://vtdigger.org/2022/06/28/as-brattleboro-ems-takeover-plan-launches-publics-questions-linger/"
+    },
+    {
+      "text": "Racial Equity Project",
+      "url": "https://vtdigger.org/2022/06/19/vtdigger-announces-new-underwriting-for-racial-equity-project/"
+    },
+    {
+      "text": "Business",
+      "url": "/category/business-economy"
+    },
+    {
+      "text": "Criminal Justice",
+      "url": "/category/courts-corrections"
+    },
+    {
+      "text": "Education",
+      "url": "/category/education"
+    },
+    {
+      "text": "Energy & Environment",
+      "url": "/category/environment"
+    },
+    {
+      "text": "Health Care",
+      "url": "/category/health-care"
+    },
+    {
+      "text": "Politics",
+      "url": "/category/politic"
+    },
+    {
+      "text": "People & Places",
+      "url": "/category/people-places"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/vtdigger-obituaries/"
+    },
+    {
+      "text": "Covid-19 in VT",
+      "url": "/coronavirus/"
+    },
+    {
+      "text": "Press Releases",
+      "url": "/press_release/"
+    },
+    {
+      "text": "Today's VTDigger sponsored by:",
+      "url": "/underwriting-self-service/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/vermont-schools-grapple-with-which-flags-to-fly-on-campuses/"
+    },
+    {
+      "text": "Vermont schools grapple with which flags to fly on campuses",
+      "url": "https://vtdigger.org/2022/06/29/vermont-schools-grapple-with-which-flags-to-fly-on-campuses/"
+    },
+    {
+      "text": "Peter D'Auria",
+      "url": "https://vtdigger.org/author/peter-dauria/"
+    },
+    {
+      "text": "Jun 29 2022, 8:14 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/vermont-schools-grapple-with-which-flags-to-fly-on-campuses/"
+    },
+    {
+      "text": "Chittenden Central Senate candidate Andrew Brown drops out of race",
+      "url": "https://vtdigger.org/election_brief/chittenden-central-senate-candidate-andrew-brown-drops-out-of-race/"
+    },
+    {
+      "text": "Becca Balint tests positive for Covid days before early voting begins",
+      "url": "https://vtdigger.org/election_brief/becca-balint-tests-positive-for-covid-days-before-early-voting-begins/"
+    },
+    {
+      "text": "Nolan hires campaign manager for her Senate run",
+      "url": "https://vtdigger.org/election_brief/nolan-hires-campaign-manager-for-her-senate-run/"
+    },
+    {
+      "text": "Visit VTDigger's Covid dashboard",
+      "url": "/coronavirus"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/30/patrick-leahy-to-undergo-hip-surgery-after-falling-at-home/"
+    },
+    {
+      "text": "Sen. Patrick Leahy to undergo hip surgery after falling at home",
+      "url": "https://vtdigger.org/2022/06/30/patrick-leahy-to-undergo-hip-surgery-after-falling-at-home/"
+    },
+    {
+      "text": "Paul Heintz",
+      "url": "https://vtdigger.org/author/paul-heintz/"
+    },
+    {
+      "text": "Jun 30 2022, 6:48 AMJune 30, 2022",
+      "url": "https://vtdigger.org/2022/06/30/patrick-leahy-to-undergo-hip-surgery-after-falling-at-home/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/high-court-wades-into-records-fight-in-dropped-sex-assault-case-against-former-st-albans-police-officer/"
+    },
+    {
+      "text": "High court wades into records fight in dropped sex assault case against former St. Albans police officer",
+      "url": "https://vtdigger.org/2022/06/29/high-court-wades-into-records-fight-in-dropped-sex-assault-case-against-former-st-albans-police-officer/"
+    },
+    {
+      "text": "Alan J. Keays",
+      "url": "https://vtdigger.org/author/alan-keays/"
+    },
+    {
+      "text": "Jun 29 2022, 9:08 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/high-court-wades-into-records-fight-in-dropped-sex-assault-case-against-former-st-albans-police-officer/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/burlington-police-commission-calls-for-independent-group-to-investigate-racial-disparities/"
+    },
+    {
+      "text": "Burlington Police Commission calls for independent group to investigate racial disparities",
+      "url": "https://vtdigger.org/2022/06/29/burlington-police-commission-calls-for-independent-group-to-investigate-racial-disparities/"
+    },
+    {
+      "text": "Jack Lyons",
+      "url": "https://vtdigger.org/author/jack-lyons/"
+    },
+    {
+      "text": "Jun 29 2022, 6:07 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/burlington-police-commission-calls-for-independent-group-to-investigate-racial-disparities/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/changing-room-surveillance-cameras-prompt-parents-to-pull-children-from-south-burlington-youth-football-teams/"
+    },
+    {
+      "text": "Changing room surveillance cameras prompt parents to pull children from South Burlington youth football teams",
+      "url": "https://vtdigger.org/2022/06/29/changing-room-surveillance-cameras-prompt-parents-to-pull-children-from-south-burlington-youth-football-teams/"
+    },
+    {
+      "text": "Ella Ruehsen",
+      "url": "https://vtdigger.org/author/ella-ruehsen/"
+    },
+    {
+      "text": "Jun 29 2022, 6:45 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/changing-room-surveillance-cameras-prompt-parents-to-pull-children-from-south-burlington-youth-football-teams/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/on-last-week-of-state-testing-covid-levels-remain-low/"
+    },
+    {
+      "text": "On last week of state testing, Covid levels remain \u2018low\u2019",
+      "url": "https://vtdigger.org/2022/06/29/on-last-week-of-state-testing-covid-levels-remain-low/"
+    },
+    {
+      "text": "Erin Petenko",
+      "url": "https://vtdigger.org/author/erinpetenko/"
+    },
+    {
+      "text": "Jun 29 2022, 3:52 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/on-last-week-of-state-testing-covid-levels-remain-low/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/south-pomfret-ski-area-to-change-name-citing-mental-health-awareness/"
+    },
+    {
+      "text": "South Pomfret ski area to change name, citing mental health awareness",
+      "url": "https://vtdigger.org/2022/06/29/south-pomfret-ski-area-to-change-name-citing-mental-health-awareness/"
+    },
+    {
+      "text": "Ethan Weinstein",
+      "url": "https://vtdigger.org/author/ethan-weinstein/"
+    },
+    {
+      "text": "Jun 29 2022, 4:17 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/south-pomfret-ski-area-to-change-name-citing-mental-health-awareness/"
+    },
+    {
+      "text": "Business & Economy",
+      "url": "https://vtdigger.org/category/business-economy/"
+    },
+    {
+      "text": "Unilever sells Ben & Jerry\u2019s business in Israel",
+      "url": "https://vtdigger.org/2022/06/29/unilever-sells-ben-jerrys-business-in-israel/"
+    },
+    {
+      "text": "Kori Skillman",
+      "url": "https://vtdigger.org/author/kori-skillman/"
+    },
+    {
+      "text": "Jun 29 2022, 8:40 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/unilever-sells-ben-jerrys-business-in-israel/"
+    },
+    {
+      "text": "People & Places",
+      "url": "https://vtdigger.org/category/people-places/"
+    },
+    {
+      "text": "Upper Valley Haven puts hot food on hold",
+      "url": "https://vtdigger.org/2022/06/29/upper-valley-haven-puts-hot-food-on-hold/"
+    },
+    {
+      "text": "Valley News",
+      "url": "https://vtdigger.org/author/valley-news/"
+    },
+    {
+      "text": "Jun 29 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/29/upper-valley-haven-puts-hot-food-on-hold/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://vtdigger.org/category/politic/"
+    },
+    {
+      "text": "At VTDigger debate, US House candidates grapple with Roe, court reforms and Jan. 6",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "Sarah Mearhoff",
+      "url": "https://vtdigger.org/author/sarah-mearhoff/"
+    },
+    {
+      "text": "Jun 29 2022June 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "Crime and Justice",
+      "url": "https://vtdigger.org/category/courts-corrections/"
+    },
+    {
+      "text": "US attorney drops charges against 4th defendant in EB-5 scandal",
+      "url": "https://vtdigger.org/2022/06/28/us-attorney-drops-charges-against-fourth-defendant-in-eb-5-scandal/"
+    },
+    {
+      "text": "Shaun Robinson",
+      "url": "https://vtdigger.org/author/shaun-robinson/"
+    },
+    {
+      "text": "Jun 28 2022June 29, 2022",
+      "url": "https://vtdigger.org/2022/06/28/us-attorney-drops-charges-against-fourth-defendant-in-eb-5-scandal/"
+    },
+    {
+      "text": "Related Story",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/05/19/vtdigger-to-host-summer-debates-for-secretary-of-state-lieutenant-governor-attorney-general-and-us-house/"
+    },
+    {
+      "text": "2022 Digger Debate Series",
+      "url": "https://vtdigger.org/2022/05/19/vtdigger-to-host-summer-debates-for-secretary-of-state-lieutenant-governor-attorney-general-and-us-house/"
+    },
+    {
+      "text": "VTDigger hosts summer debates for secretary of state, lieutenant governor, attorney general and US House \n",
+      "url": "https://vtdigger.org/2022/05/19/vtdigger-to-host-summer-debates-for-secretary-of-state-lieutenant-governor-attorney-general-and-us-house/"
+    },
+    {
+      "text": "'Unofficial' suspensions",
+      "url": "https://vtdigger.org/2022/06/12/vermont-has-rules-about-suspending-students-parents-and-advocates-say-some-schools-are-breaking-them/"
+    },
+    {
+      "text": "Vermont has rules about suspending students. Parents and advocates say some schools are breaking them.\n",
+      "url": "https://vtdigger.org/2022/06/12/vermont-has-rules-about-suspending-students-parents-and-advocates-say-some-schools-are-breaking-them/"
+    },
+    {
+      "text": "Search for resolution in Vermont\u2019s longest-running criminal case continues beyond the courtroom",
+      "url": "https://vtdigger.org/2022/05/15/search-for-resolution-in-vermonts-longest-running-criminal-case-continues-beyond-the-courtroom/"
+    },
+    {
+      "text": "The three-decade-old sexual assault case against a former New York police officer has raised questions about how just the criminal justice system is.\n",
+      "url": "https://vtdigger.org/2022/05/15/search-for-resolution-in-vermonts-longest-running-criminal-case-continues-beyond-the-courtroom/"
+    },
+    {
+      "text": "VTDigger founder Anne Galloway steps down as executive director",
+      "url": "https://vtdigger.org/2022/05/23/from-the-editor-paying-vtdigger-forwardefbfbc/"
+    },
+    {
+      "text": "\"I\u2019m stepping back from management of VTDigger and the Vermont Journalism Trust to become the founder and editor-at-large,\" Galloway wrote in her letter to readers.\n",
+      "url": "https://vtdigger.org/2022/05/23/from-the-editor-paying-vtdigger-forwardefbfbc/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/26/vermont-conversation-bill-mckibben-reconsiders-his-boyhood-and-the-american-dream/"
+    },
+    {
+      "text": "All Podcasts",
+      "url": "https://vtdigger.org/tag/podcast"
+    },
+    {
+      "text": "Then Again: The first Black pro baseball player briefly starred on a Montpelier team",
+      "url": "https://vtdigger.org/2022/06/19/then-again-the-first-black-pro-baseball-player-briefly-starred-on-a-montpelier-team/"
+    },
+    {
+      "text": "Mark Bushnell",
+      "url": "https://vtdigger.org/author/mark-bushnell/"
+    },
+    {
+      "text": "Jun 19 2022June 20, 2022",
+      "url": "https://vtdigger.org/2022/06/19/then-again-the-first-black-pro-baseball-player-briefly-starred-on-a-montpelier-team/"
+    },
+    {
+      "text": "Madeleine Kunin: After a 2-year Covid break, graduations are back",
+      "url": "https://vtdigger.org/2022/06/13/madeleine-kunin-after-a-two-year-covid-break-graduations-are-back/"
+    },
+    {
+      "text": "Madeleine May Kunin",
+      "url": "https://vtdigger.org/author/madeleine-may-kunin/"
+    },
+    {
+      "text": "Jun 13 2022June 13, 2022",
+      "url": "https://vtdigger.org/2022/06/13/madeleine-kunin-after-a-two-year-covid-break-graduations-are-back/"
+    },
+    {
+      "text": "Bill Schubart: Will artificial intelligence make life better or just make business more profitable?",
+      "url": "https://vtdigger.org/2022/06/26/bill-schubart-will-artificial-intelligence-make-life-better-or-just-make-business-more-profitable/"
+    },
+    {
+      "text": "Bill Schubart",
+      "url": "https://vtdigger.org/author/bill-schubart/"
+    },
+    {
+      "text": "Jun 26 2022June 24, 2022",
+      "url": "https://vtdigger.org/2022/06/26/bill-schubart-will-artificial-intelligence-make-life-better-or-just-make-business-more-profitable/"
+    },
+    {
+      "text": "Taxed out: I have paid in enough",
+      "url": "https://vtdigger.org/letters_to_editor/taxed-out-i-have-paid-in-enough/"
+    },
+    {
+      "text": "A democracy, or tyranny of the minority?",
+      "url": "https://vtdigger.org/letters_to_editor/a-democracy-or-tyranny-of-the-minority/"
+    },
+    {
+      "text": "Vermont Public ... what?",
+      "url": "https://vtdigger.org/letters_to_editor/vermont-public-what/"
+    },
+    {
+      "text": "Will it take another lawsuit to upgrade our school facilities?",
+      "url": "https://vtdigger.org/letters_to_editor/will-it-take-another-lawsuit-to-upgrade-our-school-facilities/"
+    },
+    {
+      "text": "\u2018Policing for profit\u2019? No way",
+      "url": "https://vtdigger.org/letters_to_editor/policing-for-profit-no-way/"
+    },
+    {
+      "text": "Read all letters",
+      "url": "/letters_to_editor/"
+    },
+    {
+      "text": "3 hurt slightly in Waterbury parade accident",
+      "url": "https://vtdigger.org/news-brief/three-hurt-slightly-in-waterbury-parade-accident/"
+    },
+    {
+      "text": "Bolton man faces charges in stabbing that was first reported as a case of road rage",
+      "url": "https://vtdigger.org/news-brief/bolton-man-faces-charges-in-stabbing-that-was-first-reported-as-a-case-of-road-rage/"
+    },
+    {
+      "text": "Springfield man arrested on federal gun charge",
+      "url": "https://vtdigger.org/news-brief/springfield-man-arrested-on-federal-gun-charge/"
+    },
+    {
+      "text": "Horse rescue sanctuary owner faces animal cruelty charges",
+      "url": "https://vtdigger.org/news-brief/horse-rescue-sanctuary-owner-faces-animal-cruelty-charges/"
+    },
+    {
+      "text": "Burlington Police respond to 'gunshots and screaming' downtown early Saturday",
+      "url": "https://vtdigger.org/news-brief/burlington-police-respond-to-gunshots-and-screaming-downtown-early-saturday/"
+    },
+    {
+      "text": "Read all briefs",
+      "url": "/news-brief/"
+    },
+    {
+      "text": "Shop now",
+      "url": "https://shop.vtdigger.org/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/30/patrick-leahy-to-undergo-hip-surgery-after-falling-at-home/"
+    },
+    {
+      "text": "Sen. Patrick Leahy to undergo hip surgery after falling at home",
+      "url": "https://vtdigger.org/2022/06/30/patrick-leahy-to-undergo-hip-surgery-after-falling-at-home/"
+    },
+    {
+      "text": "Paul Heintz",
+      "url": "https://vtdigger.org/author/paul-heintz/"
+    },
+    {
+      "text": "Jun 30 2022, 6:48 AMJune 30, 2022",
+      "url": "https://vtdigger.org/2022/06/30/patrick-leahy-to-undergo-hip-surgery-after-falling-at-home/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/high-court-wades-into-records-fight-in-dropped-sex-assault-case-against-former-st-albans-police-officer/"
+    },
+    {
+      "text": "High court wades into records fight in dropped sex assault case against former St. Albans police officer",
+      "url": "https://vtdigger.org/2022/06/29/high-court-wades-into-records-fight-in-dropped-sex-assault-case-against-former-st-albans-police-officer/"
+    },
+    {
+      "text": "Alan J. Keays",
+      "url": "https://vtdigger.org/author/alan-keays/"
+    },
+    {
+      "text": "Jun 29 2022, 9:08 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/high-court-wades-into-records-fight-in-dropped-sex-assault-case-against-former-st-albans-police-officer/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/unilever-sells-ben-jerrys-business-in-israel/"
+    },
+    {
+      "text": "Unilever sells Ben & Jerry\u2019s business in Israel",
+      "url": "https://vtdigger.org/2022/06/29/unilever-sells-ben-jerrys-business-in-israel/"
+    },
+    {
+      "text": "Kori Skillman",
+      "url": "https://vtdigger.org/author/kori-skillman/"
+    },
+    {
+      "text": "Jun 29 2022, 8:40 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/unilever-sells-ben-jerrys-business-in-israel/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/vermont-schools-grapple-with-which-flags-to-fly-on-campuses/"
+    },
+    {
+      "text": "Vermont schools grapple with which flags to fly on campuses",
+      "url": "https://vtdigger.org/2022/06/29/vermont-schools-grapple-with-which-flags-to-fly-on-campuses/"
+    },
+    {
+      "text": "Peter D'Auria",
+      "url": "https://vtdigger.org/author/peter-dauria/"
+    },
+    {
+      "text": "Jun 29 2022, 8:14 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/vermont-schools-grapple-with-which-flags-to-fly-on-campuses/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/changing-room-surveillance-cameras-prompt-parents-to-pull-children-from-south-burlington-youth-football-teams/"
+    },
+    {
+      "text": "Changing room surveillance cameras prompt parents to pull children from South Burlington youth football teams",
+      "url": "https://vtdigger.org/2022/06/29/changing-room-surveillance-cameras-prompt-parents-to-pull-children-from-south-burlington-youth-football-teams/"
+    },
+    {
+      "text": "Ella Ruehsen",
+      "url": "https://vtdigger.org/author/ella-ruehsen/"
+    },
+    {
+      "text": "Jun 29 2022, 6:45 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/changing-room-surveillance-cameras-prompt-parents-to-pull-children-from-south-burlington-youth-football-teams/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/burlington-police-commission-calls-for-independent-group-to-investigate-racial-disparities/"
+    },
+    {
+      "text": "Burlington Police Commission calls for independent group to investigate racial disparities",
+      "url": "https://vtdigger.org/2022/06/29/burlington-police-commission-calls-for-independent-group-to-investigate-racial-disparities/"
+    },
+    {
+      "text": "Jack Lyons",
+      "url": "https://vtdigger.org/author/jack-lyons/"
+    },
+    {
+      "text": "Jun 29 2022, 6:07 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/burlington-police-commission-calls-for-independent-group-to-investigate-racial-disparities/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/south-pomfret-ski-area-to-change-name-citing-mental-health-awareness/"
+    },
+    {
+      "text": "South Pomfret ski area to change name, citing mental health awareness",
+      "url": "https://vtdigger.org/2022/06/29/south-pomfret-ski-area-to-change-name-citing-mental-health-awareness/"
+    },
+    {
+      "text": "Ethan Weinstein",
+      "url": "https://vtdigger.org/author/ethan-weinstein/"
+    },
+    {
+      "text": "Jun 29 2022, 4:17 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/south-pomfret-ski-area-to-change-name-citing-mental-health-awareness/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/on-last-week-of-state-testing-covid-levels-remain-low/"
+    },
+    {
+      "text": "On last week of state testing, Covid levels remain \u2018low\u2019",
+      "url": "https://vtdigger.org/2022/06/29/on-last-week-of-state-testing-covid-levels-remain-low/"
+    },
+    {
+      "text": "Erin Petenko",
+      "url": "https://vtdigger.org/author/erinpetenko/"
+    },
+    {
+      "text": "Jun 29 2022, 3:52 PMJune 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/on-last-week-of-state-testing-covid-levels-remain-low/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/upper-valley-haven-puts-hot-food-on-hold/"
+    },
+    {
+      "text": "Upper Valley Haven puts hot food on hold",
+      "url": "https://vtdigger.org/2022/06/29/upper-valley-haven-puts-hot-food-on-hold/"
+    },
+    {
+      "text": "Valley News",
+      "url": "https://vtdigger.org/author/valley-news/"
+    },
+    {
+      "text": "Jun 29 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/29/upper-valley-haven-puts-hot-food-on-hold/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "At VTDigger debate, US House candidates grapple with Roe, court reforms and Jan. 6",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "Sarah Mearhoff",
+      "url": "https://vtdigger.org/author/sarah-mearhoff/"
+    },
+    {
+      "text": "Jun 29 2022June 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "[\u00a0More Cartoons\u00a0]",
+      "url": "/cartoons"
+    },
+    {
+      "text": "Rich Clark: Court\u2019s inconsistent reasoning further erodes American democracy\u00a0In one case, the court argues that rights cannot be regulated by states, whereas in the next the argument is to turn the matter completely over to the states. Bruen limits the states\u2019 regulation of rights, while Dobbs allows an established right to be limited and even repealed by states. ",
+      "url": "https://vtdigger.org/2022/06/30/rich-clark-courts-inconsistent-reasoning-further-erodes-american-democracy/"
+    },
+    {
+      "text": "Rev. Devon Thomas: We\u2019re telling women they can't decide or look out for themselvesWhile I agree that God is always a source of help, I disagree that a God of love would leave anyone without choice when it comes to bringing a human life into this world.",
+      "url": "https://vtdigger.org/2022/06/30/rev-devon-thomas-were-telling-women-they-cant-decide-or-look-out-for-themselves/"
+    },
+    {
+      "text": "Alison Despathy: Clean heat standard was corporate-driven, not a real solution for VermontThe majority of biofuels cost more energy to produce than they would actually save in use. ",
+      "url": "https://vtdigger.org/2022/06/30/alison-despathy-clean-heat-standard-was-corporate-driven-not-a-real-solution-for-vermont/"
+    },
+    {
+      "text": "Alex Hiam: Supreme Court is cherry-picking the scenarios it prefersThe claim that the court knows what the ratifiers of the 14th Amendment thought might be called the Biggest Lie, because unlike Trump\u2019s, this one actually worked.",
+      "url": "https://vtdigger.org/2022/06/29/alex-hiam-supreme-court-is-cherry-picking-the-scenarios-it-prefers/"
+    },
+    {
+      "text": "All Commentary",
+      "url": "/category/commentary"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/obituary/prudence-putnam-frost-baker-physical-therapist-lake-lover-grandmother/"
+    },
+    {
+      "text": "Prudence Putnam Frost Baker, physical therapist, lake lover, grandmother",
+      "url": "https://vtdigger.org/obituary/prudence-putnam-frost-baker-physical-therapist-lake-lover-grandmother/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://vtdigger.org/obituary/prudence-putnam-frost-baker-physical-therapist-lake-lover-grandmother/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/obituary/suzanne-k-marcotte-selfless-an-artist-in-the-kitchen-mother/"
+    },
+    {
+      "text": "Suzanne K. Marcotte, selfless, an artist in the kitchen, mother",
+      "url": "https://vtdigger.org/obituary/suzanne-k-marcotte-selfless-an-artist-in-the-kitchen-mother/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://vtdigger.org/obituary/suzanne-k-marcotte-selfless-an-artist-in-the-kitchen-mother/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/obituary/stan-swaim-outdoorsman-hall-of-fame-cyclist-burke-mountain-cross-country-ski-area-creator/"
+    },
+    {
+      "text": "Stan Swaim, outdoorsman, hall of fame cyclist, Burke Mountain Cross Country Ski Area creator",
+      "url": "https://vtdigger.org/obituary/stan-swaim-outdoorsman-hall-of-fame-cyclist-burke-mountain-cross-country-ski-area-creator/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://vtdigger.org/obituary/stan-swaim-outdoorsman-hall-of-fame-cyclist-burke-mountain-cross-country-ski-area-creator/"
+    },
+    {
+      "text": "click here",
+      "url": "https://vtdigger.org/submit-an-obituary-2/"
+    },
+    {
+      "text": "found here",
+      "url": "/vtdigger-obituaries/"
+    },
+    {
+      "text": "Submit a free obituary.",
+      "url": "/submit-an-obituary-2/"
+    },
+    {
+      "text": "Energy & Environment",
+      "url": "https://vtdigger.org/category/environment/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/28/montpelier-temporarily-stops-accepting-leachate-because-of-e-coli-levels-sends-it-out-of-state/"
+    },
+    {
+      "text": "Montpelier temporarily stops accepting leachate because of E. coli levels, sends it out of state",
+      "url": "https://vtdigger.org/2022/06/28/montpelier-temporarily-stops-accepting-leachate-because-of-e-coli-levels-sends-it-out-of-state/"
+    },
+    {
+      "text": "Emma Cotton",
+      "url": "https://vtdigger.org/author/emma-cotton/"
+    },
+    {
+      "text": "Jun 28 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/28/montpelier-temporarily-stops-accepting-leachate-because-of-e-coli-levels-sends-it-out-of-state/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://vtdigger.org/category/politic/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/28/as-brattleboro-ems-takeover-plan-launches-publics-questions-linger/"
+    },
+    {
+      "text": "As Brattleboro EMS takeover plan launches, public\u2019s questions linger",
+      "url": "https://vtdigger.org/2022/06/28/as-brattleboro-ems-takeover-plan-launches-publics-questions-linger/"
+    },
+    {
+      "text": "Kevin O'Connor",
+      "url": "https://vtdigger.org/author/kevin-oconnor/"
+    },
+    {
+      "text": "Jun 28 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/28/as-brattleboro-ems-takeover-plan-launches-publics-questions-linger/"
+    },
+    {
+      "text": "Health Care",
+      "url": "https://vtdigger.org/category/health-care/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/28/vermont-abortion-fund-reports-record-donations-after-supreme-court-overturns-roe-v-wade/"
+    },
+    {
+      "text": "Vermont abortion fund reports record donations after Supreme Court overturns Roe v. Wade",
+      "url": "https://vtdigger.org/2022/06/28/vermont-abortion-fund-reports-record-donations-after-supreme-court-overturns-roe-v-wade/"
+    },
+    {
+      "text": "Peter D'Auria",
+      "url": "https://vtdigger.org/author/peter-dauria/"
+    },
+    {
+      "text": "Jun 28 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/28/vermont-abortion-fund-reports-record-donations-after-supreme-court-overturns-roe-v-wade/"
+    },
+    {
+      "text": "Vermont officials seek public input on proposed wake boat rules",
+      "url": "https://vtdigger.org/2022/06/28/vermont-officials-seek-public-input-on-proposed-wake-boat-rules/"
+    },
+    {
+      "text": "Kori Skillman",
+      "url": "https://vtdigger.org/author/kori-skillman/"
+    },
+    {
+      "text": "Jun 28 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/28/vermont-officials-seek-public-input-on-proposed-wake-boat-rules/"
+    },
+    {
+      "text": "'I'm still the sheriff\u2019: Peter Newton rejects calls to resign Addison County post following arrest on sex assault charges",
+      "url": "https://vtdigger.org/2022/06/28/addison-county-sheriff-peter-newton-arrested-on-sex-assault-domestic-violence-and-unlawful-restraint-charges/"
+    },
+    {
+      "text": "Alan J. Keays",
+      "url": "https://vtdigger.org/author/alan-keays/"
+    },
+    {
+      "text": "Jun 28 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/28/addison-county-sheriff-peter-newton-arrested-on-sex-assault-domestic-violence-and-unlawful-restraint-charges/"
+    },
+    {
+      "text": "Gray, Balint campaigns tussle over super PACs, though none have entered the race",
+      "url": "https://vtdigger.org/2022/06/27/gray-balint-campaigns-go-tit-for-tat-on-super-pacs/"
+    },
+    {
+      "text": "Lola Duffort",
+      "url": "https://vtdigger.org/author/lola-duffort/"
+    },
+    {
+      "text": "Jun 27 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/27/gray-balint-campaigns-go-tit-for-tat-on-super-pacs/"
+    },
+    {
+      "text": "US House candidates to square off at VTDigger debate in Essex\ufffc",
+      "url": "https://vtdigger.org/2022/06/27/us-house-candidates-to-square-off-at-vtdigger-debate-in-essexefbfbc/"
+    },
+    {
+      "text": "VTD Editor",
+      "url": "https://vtdigger.org/author/vtd-editor/"
+    },
+    {
+      "text": "Jun 27 2022June 27, 2022",
+      "url": "https://vtdigger.org/2022/06/27/us-house-candidates-to-square-off-at-vtdigger-debate-in-essexefbfbc/"
+    },
+    {
+      "text": "\u2018Cruel and inhumane\u2019: Staffing shortage leads to emergency extended shifts at Springfield prison",
+      "url": "https://vtdigger.org/2022/06/27/cruel-and-inhumane-staffing-shortage-leads-to-emergency-extended-shifts-at-springfield-prison/"
+    },
+    {
+      "text": "Ethan Weinstein",
+      "url": "https://vtdigger.org/author/ethan-weinstein/"
+    },
+    {
+      "text": "Jun 27 2022June 27, 2022",
+      "url": "https://vtdigger.org/2022/06/27/cruel-and-inhumane-staffing-shortage-leads-to-emergency-extended-shifts-at-springfield-prison/"
+    },
+    {
+      "text": "Costs explode for July 4th fireworks displays",
+      "url": "https://vtdigger.org/2022/06/27/costs-explode-for-july-fourth-fireworks-displays/"
+    },
+    {
+      "text": "Valley News",
+      "url": "https://vtdigger.org/author/valley-news/"
+    },
+    {
+      "text": "Jun 27 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/27/costs-explode-for-july-fourth-fireworks-displays/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://vtdigger.org/category/politic/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "At VTDigger debate, US House candidates grapple with Roe, court reforms and\u2026",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "Sarah Mearhoff",
+      "url": "https://vtdigger.org/author/sarah-mearhoff/"
+    },
+    {
+      "text": "Jun 29 2022June 29, 2022",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "Crime and Justice",
+      "url": "https://vtdigger.org/category/courts-corrections/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/28/addison-county-sheriff-peter-newton-arrested-on-sex-assault-domestic-violence-and-unlawful-restraint-charges/"
+    },
+    {
+      "text": "'I'm still the sheriff\u2019: Peter Newton rejects calls to resign Addison County\u2026",
+      "url": "https://vtdigger.org/2022/06/28/addison-county-sheriff-peter-newton-arrested-on-sex-assault-domestic-violence-and-unlawful-restraint-charges/"
+    },
+    {
+      "text": "Alan J. Keays",
+      "url": "https://vtdigger.org/author/alan-keays/"
+    },
+    {
+      "text": "Jun 28 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/28/addison-county-sheriff-peter-newton-arrested-on-sex-assault-domestic-violence-and-unlawful-restraint-charges/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://vtdigger.org/category/politic/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/27/vermont-may-enshrine-abortion-access-in-its-constitution-but-what-if-congress-bans-it/"
+    },
+    {
+      "text": "Vermont may enshrine abortion access in its constitution. But what if Congress\u2026",
+      "url": "https://vtdigger.org/2022/06/27/vermont-may-enshrine-abortion-access-in-its-constitution-but-what-if-congress-bans-it/"
+    },
+    {
+      "text": "Peter D'Auria",
+      "url": "https://vtdigger.org/author/peter-dauria/"
+    },
+    {
+      "text": "Jun 27 2022June 27, 2022",
+      "url": "https://vtdigger.org/2022/06/27/vermont-may-enshrine-abortion-access-in-its-constitution-but-what-if-congress-bans-it/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://vtdigger.org/category/politic/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/06/28/burlington-city-council-approves-sweeping-restrictions-on-short-term-rentals/"
+    },
+    {
+      "text": "Burlington City Council approves sweeping restrictions on short-term rentals",
+      "url": "https://vtdigger.org/2022/06/28/burlington-city-council-approves-sweeping-restrictions-on-short-term-rentals/"
+    },
+    {
+      "text": "Jack Lyons",
+      "url": "https://vtdigger.org/author/jack-lyons/"
+    },
+    {
+      "text": "Jun 28 2022June 28, 2022",
+      "url": "https://vtdigger.org/2022/06/28/burlington-city-council-approves-sweeping-restrictions-on-short-term-rentals/"
+    },
+    {
+      "text": "'I'm still the sheriff\u2019: Peter Newton rejects calls to resign Addison County post following arrest on sex assault charges",
+      "url": "https://vtdigger.org/2022/06/28/addison-county-sheriff-peter-newton-arrested-on-sex-assault-domestic-violence-and-unlawful-restraint-charges/"
+    },
+    {
+      "text": "Vermont officials seek public input on proposed wake boat rules",
+      "url": "https://vtdigger.org/2022/06/28/vermont-officials-seek-public-input-on-proposed-wake-boat-rules/"
+    },
+    {
+      "text": "At VTDigger debate, US House candidates grapple with Roe, court reforms and Jan. 6",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "Changing room surveillance cameras prompt parents to pull children from South Burlington youth football teams",
+      "url": "https://vtdigger.org/2022/06/29/changing-room-surveillance-cameras-prompt-parents-to-pull-children-from-south-burlington-youth-football-teams/"
+    },
+    {
+      "text": "Burlington City Council approves sweeping restrictions on short-term rentals",
+      "url": "https://vtdigger.org/2022/06/28/burlington-city-council-approves-sweeping-restrictions-on-short-term-rentals/"
+    },
+    {
+      "text": "Press Releases",
+      "url": "#"
+    },
+    {
+      "text": "AVP promotions announced at The Bank of Bennington",
+      "url": "https://vtdigger.org/press_release/avp-promotions-announced-at-the-bank-of-bennington/"
+    },
+    {
+      "text": "Vermonters For Good Government releases statement after SCOTUS decision",
+      "url": "https://vtdigger.org/press_release/vermonters-for-good-government-releases-statement-after-scotus-decision/"
+    },
+    {
+      "text": "One small agency's mighty mission",
+      "url": "https://vtdigger.org/press_release/one-small-agencys-mighty-mission/"
+    },
+    {
+      "text": "Northern Express Care - Newport opening July 11th",
+      "url": "https://vtdigger.org/press_release/northern-express-care-newport-opening-july-11th/"
+    },
+    {
+      "text": "Former Vermont Secretary of State Don Hooper endorses Rep. Sarah Copeland Hanzas for Vermont Secretary of State",
+      "url": "https://vtdigger.org/press_release/former-vermont-secretary-of-state-don-hooper-endorses-rep-sarah-copeland-hanzas-for-vermont-secretary-of-state/"
+    },
+    {
+      "text": "Onward and Upward: Element Real Estate Acquires Heney Realtors to Further Expand into Central Vermont",
+      "url": "https://vtdigger.org/press_release/element-real-estate-acquires-heney-realtors/"
+    },
+    {
+      "text": "Deputy Secretary of State Chris Winters announces broad support from state leaders",
+      "url": "https://vtdigger.org/press_release/deputy-secretary-of-state-chris-winters-announces-broad-support-from-state-leaders/"
+    },
+    {
+      "text": "Rebecca Kincaid joins Gifford\u2019s pediatrics team",
+      "url": "https://vtdigger.org/press_release/rebecca-kincaid-joins-giffords-pediatrics-team/"
+    },
+    {
+      "text": "Health insurance is more affordable for Vermonters: Special enrollment period offers lower costs for thousands of Vermont households",
+      "url": "https://vtdigger.org/press_release/health-insurance-is-more-affordable-for-vermonters-special-enrollment-period-offers-lower-costs-for-thousands-of-vermont-households/"
+    },
+    {
+      "text": "Bullrock Corporation about to complete Mountain Haus Apartments Phase 2 in Stowe, Vermont.",
+      "url": "https://vtdigger.org/press_release/bullrock-corporation-about-to-complete-mountain-haus-apartments-phase-2-in-stowe-vermont/"
+    },
+    {
+      "text": "[\u00a0More Press Releases\u00a0]",
+      "url": "/press_release/"
+    },
+    {
+      "text": "[\u00a0Submit Press Release\u00a0]",
+      "url": "/submit-press-release/"
+    },
+    {
+      "text": "Business & Economy",
+      "url": "https://vtdigger.org/category/business-economy/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/29/unilever-sells-ben-jerrys-business-in-israel/"
+    },
+    {
+      "text": "Unilever sells Ben & Jerry\u2019s business in Israel",
+      "url": "https://vtdigger.org/2022/06/29/unilever-sells-ben-jerrys-business-in-israel/"
+    },
+    {
+      "text": "Costs explode for July 4th fireworks displays",
+      "url": "https://vtdigger.org/2022/06/27/costs-explode-for-july-fourth-fireworks-displays/"
+    },
+    {
+      "text": "Proposed communications tower divides Enosburgh neighborhood",
+      "url": "https://vtdigger.org/2022/06/26/proposed-communications-tower-divides-enosburgh-neighborhood/"
+    },
+    {
+      "text": "4 questions about short-term rentals in Burlington, answered",
+      "url": "https://vtdigger.org/2022/06/26/four-questions-about-short-term-rentals-in-burlington-answered/"
+    },
+    {
+      "text": "A new program aims to help BIPOC homebuyers with down payments",
+      "url": "https://vtdigger.org/2022/06/26/a-new-program-aims-to-help-bipoc-homebuyers-with-down-payments/"
+    },
+    {
+      "text": "Crime and Justice",
+      "url": "https://vtdigger.org/category/courts-corrections/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/29/high-court-wades-into-records-fight-in-dropped-sex-assault-case-against-former-st-albans-police-officer/"
+    },
+    {
+      "text": "High court wades into records fight in dropped sex assault case against former St. Albans police officer",
+      "url": "https://vtdigger.org/2022/06/29/high-court-wades-into-records-fight-in-dropped-sex-assault-case-against-former-st-albans-police-officer/"
+    },
+    {
+      "text": "Changing room surveillance cameras prompt parents to pull children from South Burlington youth football teams",
+      "url": "https://vtdigger.org/2022/06/29/changing-room-surveillance-cameras-prompt-parents-to-pull-children-from-south-burlington-youth-football-teams/"
+    },
+    {
+      "text": "Burlington Police Commission calls for independent group to investigate racial disparities",
+      "url": "https://vtdigger.org/2022/06/29/burlington-police-commission-calls-for-independent-group-to-investigate-racial-disparities/"
+    },
+    {
+      "text": "US attorney drops charges against 4th defendant in EB-5 scandal",
+      "url": "https://vtdigger.org/2022/06/28/us-attorney-drops-charges-against-fourth-defendant-in-eb-5-scandal/"
+    },
+    {
+      "text": "'I'm still the sheriff\u2019: Peter Newton rejects calls to resign Addison County post following arrest on sex assault charges",
+      "url": "https://vtdigger.org/2022/06/28/addison-county-sheriff-peter-newton-arrested-on-sex-assault-domestic-violence-and-unlawful-restraint-charges/"
+    },
+    {
+      "text": "Education",
+      "url": "https://vtdigger.org/category/education/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/29/vermont-schools-grapple-with-which-flags-to-fly-on-campuses/"
+    },
+    {
+      "text": "Vermont schools grapple with which flags to fly on campuses",
+      "url": "https://vtdigger.org/2022/06/29/vermont-schools-grapple-with-which-flags-to-fly-on-campuses/"
+    },
+    {
+      "text": "University of Vermont launches nationwide effort to pair colleges with local news organizations",
+      "url": "https://vtdigger.org/2022/06/23/university-of-vermont-launches-nationwide-effort-to-pair-colleges-with-local-news-organizations/"
+    },
+    {
+      "text": "\u2018Significant is an understatement\u2019: Supreme Court decision reverberates across Vermont\u2019s school system",
+      "url": "https://vtdigger.org/2022/06/21/significant-is-an-understatement-supreme-court-decision-reverberates-across-vermonts-school-system/"
+    },
+    {
+      "text": "Alumni voice \u2018profound disappointment\u2019 in Vermont College of Fine Arts\u2019 plan to end residencies, explore selling buildings",
+      "url": "https://vtdigger.org/2022/06/21/alumni-voice-profound-disappointment-in-vermont-college-of-fine-arts-plan-to-end-residencies-explore-selling-buildings/"
+    },
+    {
+      "text": "Dartmouth College nixes student loans",
+      "url": "https://vtdigger.org/2022/06/21/dartmouth-college-nixes-student-loans/"
+    },
+    {
+      "text": "Energy & Environment",
+      "url": "https://vtdigger.org/category/environment/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/28/montpelier-temporarily-stops-accepting-leachate-because-of-e-coli-levels-sends-it-out-of-state/"
+    },
+    {
+      "text": "Montpelier temporarily stops accepting leachate because of E. coli levels, sends it out of state",
+      "url": "https://vtdigger.org/2022/06/28/montpelier-temporarily-stops-accepting-leachate-because-of-e-coli-levels-sends-it-out-of-state/"
+    },
+    {
+      "text": "Vermont officials seek public input on proposed wake boat rules",
+      "url": "https://vtdigger.org/2022/06/28/vermont-officials-seek-public-input-on-proposed-wake-boat-rules/"
+    },
+    {
+      "text": "In struggle to protect Lake Champlain, prospects of more invasive species are worrisome",
+      "url": "https://vtdigger.org/2022/06/27/in-struggle-to-protect-lake-champlain-prospects-of-more-invasive-species-are-worrisome/"
+    },
+    {
+      "text": "Hearing looks to map out future for Treasure Island\ufffc",
+      "url": "https://vtdigger.org/2022/06/26/hearing-looks-to-map-out-future-for-treasure-islandefbfbc/"
+    },
+    {
+      "text": "Vermont Conversation: Bill McKibben reconsiders his boyhood and the American dream",
+      "url": "https://vtdigger.org/2022/06/26/vermont-conversation-bill-mckibben-reconsiders-his-boyhood-and-the-american-dream/"
+    },
+    {
+      "text": "Health Care",
+      "url": "https://vtdigger.org/category/health-care/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/29/on-last-week-of-state-testing-covid-levels-remain-low/"
+    },
+    {
+      "text": "On last week of state testing, Covid levels remain \u2018low\u2019",
+      "url": "https://vtdigger.org/2022/06/29/on-last-week-of-state-testing-covid-levels-remain-low/"
+    },
+    {
+      "text": "Vermont abortion fund reports record donations after Supreme Court overturns Roe v. Wade",
+      "url": "https://vtdigger.org/2022/06/28/vermont-abortion-fund-reports-record-donations-after-supreme-court-overturns-roe-v-wade/"
+    },
+    {
+      "text": "As Vermont begins vaccinating young children against Covid, some parents see possibilities",
+      "url": "https://vtdigger.org/2022/06/24/as-vermont-begins-vaccinating-young-children-against-covid-some-parents-see-possibilities/"
+    },
+    {
+      "text": "\u2018Constantly weighing the risk\u2019: Emergency room nurses contend with rising violence",
+      "url": "https://vtdigger.org/2022/06/23/constantly-weighing-the-risk-emergency-room-nurses-contend-with-rising-violence/"
+    },
+    {
+      "text": "Vermont Covid cases dip below 100 per day on eve of test site closures",
+      "url": "https://vtdigger.org/2022/06/22/vermont-covid-cases-dip-below-100-per-day-on-eve-of-test-site-closures/"
+    },
+    {
+      "text": "People & Places",
+      "url": "https://vtdigger.org/category/people-places/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/29/south-pomfret-ski-area-to-change-name-citing-mental-health-awareness/"
+    },
+    {
+      "text": "South Pomfret ski area to change name, citing mental health awareness",
+      "url": "https://vtdigger.org/2022/06/29/south-pomfret-ski-area-to-change-name-citing-mental-health-awareness/"
+    },
+    {
+      "text": "Upper Valley Haven puts hot food on hold",
+      "url": "https://vtdigger.org/2022/06/29/upper-valley-haven-puts-hot-food-on-hold/"
+    },
+    {
+      "text": "Aki Soga becomes first Asian American to lead the Burlington Free Press",
+      "url": "https://vtdigger.org/2022/06/27/aki-soga-becomes-first-asian-american-to-lead-the-burlington-free-press/"
+    },
+    {
+      "text": "YWP: Measuring my daughter",
+      "url": "https://vtdigger.org/2022/06/26/ywp-measuring-my-daughter/"
+    },
+    {
+      "text": "David Moats: \u2018The Most Costly Journey\u2019 tells migrant farmworkers\u2019 stories",
+      "url": "https://vtdigger.org/2022/06/22/david-moats-the-most-costly-journey-tells-migrant-farmworkers-stories/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://vtdigger.org/category/politic/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/30/patrick-leahy-to-undergo-hip-surgery-after-falling-at-home/"
+    },
+    {
+      "text": "Sen. Patrick Leahy to undergo hip surgery after falling at home",
+      "url": "https://vtdigger.org/2022/06/30/patrick-leahy-to-undergo-hip-surgery-after-falling-at-home/"
+    },
+    {
+      "text": "At VTDigger debate, US House candidates grapple with Roe, court reforms and Jan. 6",
+      "url": "https://vtdigger.org/2022/06/29/at-vtdigger-debate-u-s-house-candidates-grapple-with-roe-court-reforms-and-january-6/"
+    },
+    {
+      "text": "Burlington City Council passes $96.5 million budget",
+      "url": "https://vtdigger.org/2022/06/28/burlington-city-council-passes-96-5-million-budget/"
+    },
+    {
+      "text": "As Brattleboro EMS takeover plan launches, public\u2019s questions linger",
+      "url": "https://vtdigger.org/2022/06/28/as-brattleboro-ems-takeover-plan-launches-publics-questions-linger/"
+    },
+    {
+      "text": "Burlington City Council approves sweeping restrictions on short-term rentals",
+      "url": "https://vtdigger.org/2022/06/28/burlington-city-council-approves-sweeping-restrictions-on-short-term-rentals/"
+    },
+    {
+      "text": "Commentary",
+      "url": "/category/commentary"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/06/29/george-longenecker-our-teachers-are-not-demons-in-the-classroom/"
+    },
+    {
+      "text": "George Longenecker: Our teachers are not demons in the classroom",
+      "url": "https://vtdigger.org/2022/06/29/george-longenecker-our-teachers-are-not-demons-in-the-classroom/"
+    },
+    {
+      "text": "John McClaughry: Decision in Maine case points toward universal school choice",
+      "url": "https://vtdigger.org/2022/06/29/john-mcclaughry-decision-in-maine-case-points-toward-universal-school-choice/"
+    },
+    {
+      "text": "Janet McLaughlin: All children deserve a chance to experience the magic of play",
+      "url": "https://vtdigger.org/2022/06/28/janet-mclaughlin-all-children-deserve-a-chance-to-experience-the-magic-of-play/"
+    },
+    {
+      "text": "Nick Santoro: How to stop a mass shooting epidemic",
+      "url": "https://vtdigger.org/2022/06/28/nick-santoro-how-to-stop-a-mass-shooting-epidemic/"
+    },
+    {
+      "text": "Dan Young: Climate change and planetary disorder",
+      "url": "https://vtdigger.org/2022/06/27/dan-young-climate-change-and-planetary-disorder/"
+    },
+    {
+      "text": "Duane Sherwood: Indian enough",
+      "url": "https://vtdigger.org/2022/06/27/duane-sherwood-indian-enough/"
+    },
+    {
+      "text": "Don Keelan: In the Legislature, is it time to make some changes?\u00a0",
+      "url": "https://vtdigger.org/2022/06/26/don-keelan-in-the-legislature-is-it-time-to-make-some-changes/"
+    },
+    {
+      "text": "Bob Stannard: For 50 years, leaders buried heads in the sand as families buried their dead",
+      "url": "https://vtdigger.org/2022/06/26/bob-stannard-for-50-years-leaders-buried-heads-in-the-sand-as-families-buried-their-dead/"
+    },
+    {
+      "text": "Allen Gilbert: Act 60 turns 25 \u2014 an occasion to honor the common benefits clause",
+      "url": "https://vtdigger.org/2022/06/24/allen-gilbert-act-60-turns-25-an-occasion-to-honor-the-common-benefits-clause/"
+    },
+    {
+      "text": "Kem and Svetlana Phillips: Stop repeating the Kremlin\u2019s nonsense about Ukraine",
+      "url": "https://vtdigger.org/2022/06/23/kem-and-svetlana-phillips-stop-repeating-the-kremlins-nonsense-about-ukraine/"
+    },
+    {
+      "text": "\n\nHome\n",
+      "url": "/"
+    },
+    {
+      "text": "\n\nBack\n",
+      "url": "javascript:window.history.back()"
+    },
+    {
+      "text": "\n\nShare\n",
+      "url": "mailto:?subject=Sharing%20a%20page%20from%20VTDigger&body=https://vtdigger.org/2022/06/30/rich-clark-courts-inconsistent-reasoning-further-erodes-american-democracy/"
+    },
+    {
+      "text": "Our Story",
+      "url": "https://vtdigger.org/about-vtdigger-2/"
+    },
+    {
+      "text": "Inside VTDigger",
+      "url": "https://vtdigger.org/category/inside-vtdigger/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://vtdigger.org/contact-2/"
+    },
+    {
+      "text": "Underwriting",
+      "url": "https://projects.vtdigger.org/media-kit/"
+    },
+    {
+      "text": "Site Policies",
+      "url": "https://vtdigger.org/about-vtdigger/policies/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://vtdigger.org/vtdigger-by-email/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://vtdigger.org/jobs"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://vtdigger.org/vtdigger-obituaries"
+    },
+    {
+      "text": "Submit Press Release",
+      "url": "https://vtdigger.org/submit-press-release/"
+    },
+    {
+      "text": "Send a News Tip",
+      "url": "https://vtdigger.org/tipster/tip-drop/"
+    },
+    {
+      "text": "Shop VTD",
+      "url": "https://shop.vtdigger.org"
+    },
+    {
+      "text": "Donate",
+      "url": "https://vtdigger.org/become-a-member?campaign=7013i0000009EmQAAU"
+    },
+    {
+      "text": "Alan J. Keays",
+      "url": "https://vtdigger.org/author/alan-keays/"
+    },
+    {
+      "text": "Alicia Freese",
+      "url": "https://vtdigger.org/author/alicia-freese/"
+    },
+    {
+      "text": "Anne Galloway",
+      "url": "https://vtdigger.org/author/anne-galloway/"
+    },
+    {
+      "text": "Auditi Guha",
+      "url": "https://vtdigger.org/author/auditiguha/"
+    },
+    {
+      "text": "Diane Derby",
+      "url": "https://vtdigger.org/vtdigger-staff/#diane-derby"
+    },
+    {
+      "text": "Emma Cotton",
+      "url": "https://vtdigger.org/author/emma-cotton/"
+    },
+    {
+      "text": "Erin Petenko",
+      "url": "https://vtdigger.org/author/erinpetenko/"
+    },
+    {
+      "text": "Ethan Weinstein",
+      "url": "https://vtdigger.org/author/ethan-weinstein/"
+    },
+    {
+      "text": "Fred Thys",
+      "url": "https://vtdigger.org/author/fred-thys/"
+    },
+    {
+      "text": "Glenn Russell",
+      "url": "https://vtdigger.org/vtdigger-staff/#glenn-russell"
+    },
+    {
+      "text": "Jack Lyons",
+      "url": "https://vtdigger.org/author/jack-lyons/"
+    },
+    {
+      "text": "Jeralyn Darling",
+      "url": "https://vtdigger.org/author/jdarling/"
+    },
+    {
+      "text": "Jim Welch",
+      "url": "https://vtdigger.org/vtdigger-staff/#jim-welch/"
+    },
+    {
+      "text": "Katherine Fiegenbaum",
+      "url": "https://vtdigger.org/author/katherine-fiegenbaum/"
+    },
+    {
+      "text": "Kevin O'Connor",
+      "url": "https://vtdigger.org/author/kevin-oconnor/"
+    },
+    {
+      "text": "Liora Engel-Smith",
+      "url": "https://vtdigger.org/author/liora-engel-smith/"
+    },
+    {
+      "text": "Lola Duffort",
+      "url": "https://vtdigger.org/author/lola-duffort/"
+    },
+    {
+      "text": "Maggie Cassidy",
+      "url": "https://vtdigger.org/vtdigger-staff/#maggie-cassidy"
+    },
+    {
+      "text": "Michael Dougherty",
+      "url": "https://vtdigger.org/author/mikedougherty/"
+    },
+    {
+      "text": "Natalie Williams",
+      "url": "https://vtdigger.org/vtdigger-staff/#natalie-williams"
+    },
+    {
+      "text": "Paul Heintz",
+      "url": "https://vtdigger.org/author/paul-heintz/"
+    },
+    {
+      "text": "Peter D'Auria",
+      "url": "https://vtdigger.org/author/peter-dauria/"
+    },
+    {
+      "text": "Riley Robinson",
+      "url": "https://vtdigger.org/author/riley-robinson/"
+    },
+    {
+      "text": "Sarah Mearhoff",
+      "url": "https://vtdigger.org/author/sarah-mearhoff/"
+    },
+    {
+      "text": "Shaun Robinson",
+      "url": "https://vtdigger.org/author/shaun-robinson/"
+    },
+    {
+      "text": "Tiffany Tan",
+      "url": "https://vtdigger.org/author/tiffany-tan/"
+    },
+    {
+      "text": "Tom Kearney",
+      "url": "https://vtdigger.org/vtdigger-staff/#tom-kearney/"
+    },
+    {
+      "text": "Florencio Terra",
+      "url": "https://vtdigger.org/vtdigger-staff/#florencio-terra"
+    },
+    {
+      "text": "Jim Lehnhoff",
+      "url": "https://vtdigger.org/vtdigger-staff/#jim-lehnhoff"
+    },
+    {
+      "text": "Kate Olney",
+      "url": "https://vtdigger.org/vtdigger-staff/#kate-olney"
+    },
+    {
+      "text": "Kate O'Neill",
+      "url": "https://vtdigger.org/vtdigger-staff/#kate-oneill"
+    },
+    {
+      "text": "Libbie Sparadeo",
+      "url": "https://vtdigger.org/vtdigger-staff/#libbie-pattison"
+    },
+    {
+      "text": "Libby Johnson",
+      "url": "https://vtdigger.org/vtdigger-staff/#libby-johnson"
+    },
+    {
+      "text": "Marnie DeFreest",
+      "url": "https://vtdigger.org/vtdigger-staff/#marnie-defreest"
+    },
+    {
+      "text": "Taylor Haynes",
+      "url": "https://vtdigger.org/vtdigger-staff/#taylor-haynes"
+    },
+    {
+      "text": "Ella Ruehsen",
+      "url": "https://vtdigger.org/author/ella-ruehsen/"
+    },
+    {
+      "text": "Jenna Peterson",
+      "url": "https://vtdigger.org/author/jenna-peterson/"
+    },
+    {
+      "text": "Kathryn Field",
+      "url": "https://vtdigger.org/author/kathryn-field/"
+    },
+    {
+      "text": "Kori Skillman",
+      "url": "https://vtdigger.org/author/kori-skillman/"
+    },
+    {
+      "text": "Lia Chien",
+      "url": "https://vtdigger.org/author/lchien/"
+    },
+    {
+      "text": "VTDIGGER",
+      "url": "/"
+    },
+    {
+      "text": "contact@vtdigger.org",
+      "url": "mailto:contact@vtdigger.org"
+    },
+    {
+      "text": "www.vtdigger.org",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/"
+    },
+    {
+      "text": "VTDigger: News in pursuit of truth",
+      "url": "#"
+    },
+    {
+      "text": "Home",
+      "url": "https://vtdigger.org/home/"
+    },
+    {
+      "text": "Make a Donation",
+      "url": "https://bit.ly/give2VTD"
+    },
+    {
+      "text": "NEWS",
+      "url": "#"
+    },
+    {
+      "text": "BusinessVTDigger publishes Vermont business and economic news. We also specialize in coverage of state finances and the impact of tax and budget policy on Vermonters.",
+      "url": "https://vtdigger.org/category/business-economy/"
+    },
+    {
+      "text": "PoliticsVTDigger regularly publishes stories about Vermont politics. We cover state elections, the Vermont Legislature, the governor\u2019s office, state agencies and major political parties. Jasper Craven covers politics for VTDigger. He can be reached at jcraven@vtdigger.org.",
+      "url": "https://vtdigger.org/category/politic/"
+    },
+    {
+      "text": "Criminal JusticeVTDigger covers criminal justice issues including Vermont legal issues, Vermont courts and the Vermont Department of Corrections. Elizabeth Hewitt covers the criminal justice system for VTDigger. She can be reached at ehewitt@vtdigger.org.",
+      "url": "https://vtdigger.org/category/courts-corrections/"
+    },
+    {
+      "text": "Health CareVTDigger publishes daily stories on health care. We cover the state\u2019s hospitals, the state\u2019s psychiatric care system, the Green Mountain Care Board, insurers, state health care policy, Medicaid and Medicare. Erin Mansfield is VTDigger\u2019s health care reporter. She can be reached at emansfield@vtdigger.org.",
+      "url": "https://vtdigger.org/category/health-care/"
+    },
+    {
+      "text": "Energy & EnvironmentVTDigger publishes stories about Vermont environmental issues, including water quality, toxic waste, climate change and biodiversity. Our environmental reporter is Mike Polhamus. He can be reached at mpolhamus@vtdigger.org",
+      "url": "https://vtdigger.org/category/environment/"
+    },
+    {
+      "text": "EducationVTDigger publishes a wide range of stories about Vermont\u2019s educational system from early childhood education issues to public and private K-12 schools to higher education. Our education reporter is Tiffany Pache. She can be reached at tpache@vtdigger.org.",
+      "url": "https://vtdigger.org/category/education/"
+    },
+    {
+      "text": "People & Places",
+      "url": "https://vtdigger.org/category/people-places/"
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://vtdigger.org/press_release/"
+    },
+    {
+      "text": "CommentaryCommentary policy VTDigger.org publishes 12 to 18 commentaries a week from a broad range of community sources. All commentaries must include the author\u2019s first and last name, town of residence and a brief biography, including affiliations with political parties, lobbying or special interest groups. We have a minimum length of 400 words. We have found the ideal length is approximately 800 to 1,000 words. We provide some copyediting support, but we do not have the staff to fact-check commentaries. We reserve the right to reject opinions for matters of taste and accuracy. Commentaries are voices from the community and do not represent VTDigger in any way. Please send your commentary to Cate Chant, cchant@vtdigger.org and Anne Galloway, agalloway@vtdigger.org.",
+      "url": "https://vtdigger.org/category/commentary/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://vtdigger.org/vtdigger-obituaries/"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "https://vtdigger.org/letters_to_editor/"
+    },
+    {
+      "text": "Election 2020",
+      "url": "/elections"
+    },
+    {
+      "text": "ABOUT",
+      "url": "#"
+    },
+    {
+      "text": "About VTDigger",
+      "url": "https://vtdigger.org/about-vtdigger-2/"
+    },
+    {
+      "text": "Underwriting",
+      "url": "https://projects.vtdigger.org/media-kit/"
+    },
+    {
+      "text": "Send A Tip",
+      "url": "https://vtdigger.org/tipster/tip-drop/"
+    },
+    {
+      "text": "Policies",
+      "url": "https://vtdigger.org/about-vtdigger/policies/"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://vtdigger.org/about-vtdigger/frequently-asked-questions-vtdigger/"
+    },
+    {
+      "text": "",
+      "url": "https://facebook.com/vtdigger"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/vtdigger"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/vtdigger"
+    },
+    {
+      "text": "",
+      "url": "https://youtube.com/anneegalloway"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/rss-feeds"
+    },
+    {
+      "text": "SUBSCRIBE",
+      "url": "https://vtdigger.org/vtdigger-by-email/"
+    },
+    {
+      "text": "DONATE",
+      "url": "https://vtdigger.org/become-a-member?campaign=7013i000000BDVnAAO"
+    }
+  ],
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

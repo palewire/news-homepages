@@ -1,5 +1,5 @@
 {
-  "created": 1656544457,
+  "created": 1656635221,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/29/items/ukrinform-2022",
@@ -7996,31 +7996,325 @@
       "sha1": "5386c4f202a4b32f1ac43996b21523423b903d82"
     },
     {
+      "name": "ukrinform-2022-06-30T04:37:22.980855+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656553046",
+      "size": "64520",
+      "md5": "0dad7da9245a1d9f6d217460c0fe8ed9",
+      "crc32": "ecc07a8c",
+      "sha1": "5faa6ee7246925214a00e7aac31185122b1dd514",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T04:37:22.980855+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656553048",
+      "size": "61279",
+      "md5": "11ce84444086fbab370ae96b5dd08ea5",
+      "crc32": "b4627476",
+      "sha1": "1b0418746a55efbcc44d20451b15452a6680289e",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T04:37:22.980855+03:00.jpg",
+      "source": "original",
+      "mtime": "1656553045",
+      "size": "308925",
+      "md5": "a465c2ad35ccbc45ae7971f2457e574e",
+      "crc32": "3951dfba",
+      "sha1": "b7c1b8937b3b9710502c6c5b2d227f08e8052a68",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-06-30T04:37:22.980855+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-06-30T04:37:22.980855+03:00.jpg",
+      "mtime": "1656553103",
+      "size": "9673",
+      "md5": "9c63a6c6f9a21fa06e714b0e78fbaaef",
+      "crc32": "0d66bdd0",
+      "sha1": "aa913e9661a288815e719833796c5a784fe88093"
+    },
+    {
+      "name": "ukrinform-2022-06-30T06:50:32.822320+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656561036",
+      "size": "64321",
+      "md5": "23386724598f18f02435b88103b19a6a",
+      "crc32": "47decc5c",
+      "sha1": "8db5b23e930d214ddbe70f0a74e6015803d890dc",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T06:50:32.822320+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656561037",
+      "size": "61076",
+      "md5": "70f9f05989c18ffcc20a965d1a39f831",
+      "crc32": "7f06452f",
+      "sha1": "c49c3fa4d274278abb0b4e2dbccc01723d21863d",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T06:50:32.822320+03:00.jpg",
+      "source": "original",
+      "mtime": "1656561034",
+      "size": "307523",
+      "md5": "c688fea8636d59f3b544459ecede6ffa",
+      "crc32": "5e87239e",
+      "sha1": "73de0d9541448522046fe14b2da88bd920cdb50e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-06-30T06:50:32.822320+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-06-30T06:50:32.822320+03:00.jpg",
+      "mtime": "1656561091",
+      "size": "9644",
+      "md5": "5813396bf4ba9e58af8dae39c5605516",
+      "crc32": "b182e1c4",
+      "sha1": "20e30fa39d8961b5b5f9ba1fc65392ade1e1cd46"
+    },
+    {
+      "name": "ukrinform-2022-06-30T08:18:39.424865+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566321",
+      "size": "64184",
+      "md5": "44cc533a7b401c116cad4e10926f72d6",
+      "crc32": "2da14320",
+      "sha1": "d8e6636debd58035e8d00bb109b2122912605d40",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T08:18:39.424865+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566323",
+      "size": "60739",
+      "md5": "7d382a6c9fd30ba80d17f20d5365df49",
+      "crc32": "75adbb27",
+      "sha1": "6e15153605eb36fcf7de41a0c6fb1a5281c42da9",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T08:18:39.424865+03:00.jpg",
+      "source": "original",
+      "mtime": "1656566320",
+      "size": "300127",
+      "md5": "fac71a0018dfa6b0385145bc59dc1c3e",
+      "crc32": "902a9068",
+      "sha1": "ffba07b24cc080c518a09739817087e246049b57",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-06-30T08:18:39.424865+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-06-30T08:18:39.424865+03:00.jpg",
+      "mtime": "1656566386",
+      "size": "9691",
+      "md5": "439e8817045ecab7f8b9d43f3bc56b7d",
+      "crc32": "6bdc8d60",
+      "sha1": "26cac59f7e99a54ebdefc0f4914a4aca382855e7"
+    },
+    {
+      "name": "ukrinform-2022-06-30T10:09:23.770486+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572970",
+      "size": "63567",
+      "md5": "fab8f35f6e7cbdaa07fc4e9ea70ed60f",
+      "crc32": "3fbefc89",
+      "sha1": "3bb1bcc61f1858c5cf706148207627b7b591b099",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T10:09:23.770486+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572972",
+      "size": "61216",
+      "md5": "6e10fb1a58f3e0dea86d752ad4e4fa78",
+      "crc32": "013dcbd0",
+      "sha1": "04df7a1ccda126f4f73502992816d046643cb5dc",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T10:09:23.770486+03:00.jpg",
+      "source": "original",
+      "mtime": "1656572968",
+      "size": "332494",
+      "md5": "c7fbd846f49bf85ce2d025cd167d7002",
+      "crc32": "4d4fd01c",
+      "sha1": "fdf0d9e42336a00e650f88b6b59ff8250180e8db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-06-30T10:09:23.770486+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-06-30T10:09:23.770486+03:00.jpg",
+      "mtime": "1656573036",
+      "size": "9797",
+      "md5": "c0a48c36d140897f5993681d5201955f",
+      "crc32": "1046aa49",
+      "sha1": "68fff9330d558e6319014e1440790dc2e4b6dcaa"
+    },
+    {
+      "name": "ukrinform-2022-06-30T12:12:20.434848+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580347",
+      "size": "63417",
+      "md5": "ec91706e0e097fd183ab22074e2de526",
+      "crc32": "028b05d9",
+      "sha1": "047570de33b74ba9aa7db2ab0492a157656a3928",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T12:12:20.434848+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580348",
+      "size": "60745",
+      "md5": "7e8453eba5dbe90c25bfd1509476bed6",
+      "crc32": "acc5f504",
+      "sha1": "bf62baa13e91256bb4e086ab0da42e401005dd60",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T12:12:20.434848+03:00.jpg",
+      "source": "original",
+      "mtime": "1656580345",
+      "size": "350383",
+      "md5": "60c0d93f030973f6b86f94190b7c1781",
+      "crc32": "a0a32414",
+      "sha1": "6262d8d3b70c74b0011d1897624faffeebd4109d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-06-30T12:12:20.434848+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-06-30T12:12:20.434848+03:00.jpg",
+      "mtime": "1656580402",
+      "size": "9711",
+      "md5": "c8d228298257a2a4fb22873d6ff366eb",
+      "crc32": "bb435aa6",
+      "sha1": "937dc51a2f00c1912887d6e3743b10df2edec169"
+    },
+    {
+      "name": "ukrinform-2022-06-30T14:09:03.083390+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587351",
+      "size": "61745",
+      "md5": "bc2f379857a2a659b007e0a6fa6c7245",
+      "crc32": "1f50a54f",
+      "sha1": "2ae0c06ce281c27f52c8f37b88cf486fdd04cb95",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T14:09:03.083390+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587352",
+      "size": "57434",
+      "md5": "357fd725593efb18cf749a4bdeedeb1a",
+      "crc32": "de08b4fd",
+      "sha1": "490645b88c1cb1420fef35047577c77fb74e85d4",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T14:09:03.083390+03:00.jpg",
+      "source": "original",
+      "mtime": "1656587350",
+      "size": "266575",
+      "md5": "c83b2f1272393af1d811f31ab1ea4a7f",
+      "crc32": "d7ab7169",
+      "sha1": "9575c963aa60304c735186855c1a729299a63627",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-06-30T14:09:03.083390+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-06-30T14:09:03.083390+03:00.jpg",
+      "mtime": "1656587449",
+      "size": "9481",
+      "md5": "b3ca3f4d180ef543318f11e99b931f23",
+      "crc32": "e9127c47",
+      "sha1": "3c11bb4855d80512c38efeed01dfea31c326dd1c"
+    },
+    {
+      "name": "ukrinform-2022-06-30T16:14:13.829038+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594856",
+      "size": "64096",
+      "md5": "0646e7d60ff06d5a3c3454f64988e991",
+      "crc32": "76373b18",
+      "sha1": "77e5ef009fe0ce1da5813b192a692b10827ddb45",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T16:14:13.829038+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594858",
+      "size": "60894",
+      "md5": "52cabe7e7a5b2338105f5ac36343cb8a",
+      "crc32": "abef3e42",
+      "sha1": "7798964795f87f8bc4c1b6f3dde4c82a07a6ebd5",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-06-30T16:14:13.829038+03:00.jpg",
+      "source": "original",
+      "mtime": "1656594855",
+      "size": "337692",
+      "md5": "0b87259f099fa08971c1e30a7045c71a",
+      "crc32": "9a78f518",
+      "sha1": "03dd837eb6a069a97f440705605386622061926e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-06-30T16:14:13.829038+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-06-30T16:14:13.829038+03:00.jpg",
+      "mtime": "1656594954",
+      "size": "9991",
+      "md5": "b4c97cbab5b073f14461df313dbb3596",
+      "crc32": "eea87f8b",
+      "sha1": "e5d388faa08d262bfcd51d518db9533b3da43cf9"
+    },
+    {
       "name": "ukrinform-2022_archive.torrent",
       "source": "metadata",
-      "btih": "96bdbd111bf8cd27dd231b1c8575fd3a245a710c",
-      "mtime": "1656544448",
-      "size": "162920",
-      "md5": "12ad1bd3ce71983037431db68a1625f8",
-      "crc32": "852b4511",
-      "sha1": "d5e5e0f7c287da04258e87572137151ac5a7c3e1",
+      "btih": "4307ab0acafe032a31a95b4f9540997ae652e1f3",
+      "mtime": "1656594963",
+      "size": "168871",
+      "md5": "664326531115621b3732189b063c19a5",
+      "crc32": "81de41be",
+      "sha1": "968b041b8688a8b4a0c7d6e3c7280e97fca7241f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ukrinform-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ca1600cc1dbdb45f4376dd346739d06",
+      "md5": "1d83e557046f4bcf82486ddf9ef2735f",
       "summation": "md5"
     },
     {
       "name": "ukrinform-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544382",
-      "size": "876544",
-      "md5": "0535e5770189c3eb2d405773e5a26266",
-      "crc32": "b1bc351f",
-      "sha1": "79b73251c375f8b528acc1ea4161410e00764934",
+      "mtime": "1656594860",
+      "size": "909312",
+      "md5": "65108d28d11938508d71bf1537ad47d7",
+      "crc32": "8d086e51",
+      "sha1": "47aba4e64a270af37f3620eff19e8bca6e1c069d",
       "format": "Metadata"
     },
     {
@@ -8034,9 +8328,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 764,
-  "item_last_updated": 1656544448,
-  "item_size": 87625492,
+  "files_count": 792,
+  "item_last_updated": 1656594963,
+  "item_size": 90805151,
   "metadata": {
     "identifier": "ukrinform-2022",
     "collection": [
@@ -8054,7 +8348,1045 @@
     "addeddate": "2022-03-23 17:48:55"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 655814538,
+  "ukrinform-2022": [
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\u0412\u0456\u0439\u043d\u0430",
+      "url": "/rubric-ato"
+    },
+    {
+      "text": "#UA\u0440\u0430\u0437\u043e\u043c",
+      "url": "/rubric-uarazom"
+    },
+    {
+      "text": "\u041f\u043e\u043b\u0456\u0442\u0438\u043a\u0430",
+      "url": "/rubric-polytics"
+    },
+    {
+      "text": "\u0415\u043a\u043e\u043d\u043e\u043c\u0456\u043a\u0430",
+      "url": "/rubric-economy"
+    },
+    {
+      "text": "\u0421\u0432\u0456\u0442",
+      "url": "/rubric-world"
+    },
+    {
+      "text": "\u0421\u0443c\u043f\u0456\u043b\u044cc\u0442\u0432\u043e",
+      "url": "/rubric-society"
+    },
+    {
+      "text": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+      "url": "/rubric-culture"
+    },
+    {
+      "text": "\u0420\u0435\u0433\u0456\u043e\u043d\u0438",
+      "url": "/rubric-regions"
+    },
+    {
+      "text": "\u041a\u0438\u0457\u0432",
+      "url": "/rubric-kyiv"
+    },
+    {
+      "text": "\u041a\u0440\u0438\u043c",
+      "url": "/rubric-crimea"
+    },
+    {
+      "text": "\u0421\u043f\u043e\u0440\u0442",
+      "url": "/rubric-sports"
+    },
+    {
+      "text": "\u0414\u0456\u0430c\u043f\u043e\u0440\u0430",
+      "url": "/rubric-diaspora"
+    },
+    {
+      "text": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u0457",
+      "url": "/rubric-technology"
+    },
+    {
+      "text": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u0438",
+      "url": "/block-podcasts"
+    },
+    {
+      "text": "\u041f\u0443\u0431\u043b\u0456\u043a\u0430\u0446\u0456\u0457",
+      "url": "/block-publications"
+    },
+    {
+      "text": "\u0406\u043d\u0442\u0435\u0440\u0432'\u044e",
+      "url": "/block-interview"
+    },
+    {
+      "text": "\u0424\u043e\u0442\u043e",
+      "url": "/block-photo"
+    },
+    {
+      "text": "\u0412\u0456\u0434\u0435\u043e",
+      "url": "/block-video"
+    },
+    {
+      "text": "\u0411\u043b\u043e\u0433\u0438",
+      "url": "/block-blogs"
+    },
+    {
+      "text": "\u0406\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0456\u043a\u0430",
+      "url": "/block-infographics"
+    },
+    {
+      "text": "\u041b\u043e\u043d\u0433\u0440\u0456\u0434\u0438",
+      "url": "/block-longreads"
+    },
+    {
+      "text": "\u041a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0456\u0457",
+      "url": "/block-conferences"
+    },
+    {
+      "text": "\u041e\u0444\u0456\u0446\u0456\u0439\u043d\u0456 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438",
+      "url": "/block-docs"
+    },
+    {
+      "text": "\u0420\u0435\u043b\u0456\u0437\u0438",
+      "url": "/block-releases"
+    },
+    {
+      "text": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0438",
+      "url": "/info/contacts.html"
+    },
+    {
+      "text": "\u0411\u0456\u043b\u044c\u0448\u0435",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/ukrinform/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Ukrinform?fref=ts"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/UKRINFORM"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/c/UkrinformTV"
+    },
+    {
+      "text": "",
+      "url": "https://telegram.me/ukrinform_news"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\u0423\u043a\u0440",
+      "url": "#"
+    },
+    {
+      "text": "\u0423\u043a\u0440",
+      "url": "https://www.ukrinform.ua"
+    },
+    {
+      "text": "\u0420\u0443\u0441",
+      "url": "https://www.ukrinform.ru"
+    },
+    {
+      "text": "Eng",
+      "url": "https://www.ukrinform.net"
+    },
+    {
+      "text": "Esp",
+      "url": "https://www.ukrinform.es"
+    },
+    {
+      "text": "Deu",
+      "url": "https://www.ukrinform.de"
+    },
+    {
+      "text": "Fra",
+      "url": "https://www.ukrinform.fr"
+    },
+    {
+      "text": "\u65e5\u672c\u8a9e",
+      "url": "https://www.ukrinform.jp"
+    },
+    {
+      "text": "Pol",
+      "url": "https://www.ukrinform.pl"
+    },
+    {
+      "text": "\u0413\u043e\u043b\u043e\u0432\u043d\u0430",
+      "url": "https://www.ukrinform.ua"
+    },
+    {
+      "text": "\u041f\u0435\u0440\u0435\u0434\u043f\u043b\u0430\u0442\u0430",
+      "url": "https://newshub.ukrinform.com"
+    },
+    {
+      "text": "\u0424\u043e\u0442\u043e\u0431\u0430\u043d\u043a",
+      "url": "https://photonew.ukrinform.com"
+    },
+    {
+      "text": "\u041f\u0440\u0435\u0441\u0446\u0435\u043d\u0442\u0440",
+      "url": "/block-conferences"
+    },
+    {
+      "text": "\u0420\u0435\u043b\u0456\u0437\u0438",
+      "url": "https://www.ukrinform.ua/block-releases"
+    },
+    {
+      "text": "\u0410\u043d\u043e\u043d\u0441\u0438",
+      "url": "https://eventsnew.ukrinform.com/"
+    },
+    {
+      "text": "Live",
+      "url": "/info/uatv.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\u0412\u0456\u0439\u043d\u0430",
+      "url": "/rubric-ato"
+    },
+    {
+      "text": "#UA\u0440\u0430\u0437\u043e\u043c",
+      "url": "/rubric-uarazom"
+    },
+    {
+      "text": "\u041f\u043e\u043b\u0456\u0442\u0438\u043a\u0430",
+      "url": "/rubric-polytics"
+    },
+    {
+      "text": "\u0415\u043a\u043e\u043d\u043e\u043c\u0456\u043a\u0430",
+      "url": "/rubric-economy"
+    },
+    {
+      "text": "\u0421\u0432\u0456\u0442",
+      "url": "/rubric-world"
+    },
+    {
+      "text": "\u0421\u0443c\u043f\u0456\u043b\u044cc\u0442\u0432\u043e",
+      "url": "/rubric-society"
+    },
+    {
+      "text": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+      "url": "/rubric-culture"
+    },
+    {
+      "text": "\u0420\u0435\u0433\u0456\u043e\u043d\u0438",
+      "url": "/rubric-regions"
+    },
+    {
+      "text": "\u041a\u0438\u0457\u0432",
+      "url": "/rubric-kyiv"
+    },
+    {
+      "text": "\u041a\u0440\u0438\u043c",
+      "url": "/rubric-crimea"
+    },
+    {
+      "text": "\u0421\u043f\u043e\u0440\u0442",
+      "url": "/rubric-sports"
+    },
+    {
+      "text": "\u0414\u0456\u0430c\u043f\u043e\u0440\u0430",
+      "url": "/rubric-diaspora"
+    },
+    {
+      "text": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u0457",
+      "url": "/rubric-technology"
+    },
+    {
+      "text": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u0438",
+      "url": "/block-podcasts"
+    },
+    {
+      "text": "\u041f\u0443\u0431\u043b\u0456\u043a\u0430\u0446\u0456\u0457",
+      "url": "/block-publications"
+    },
+    {
+      "text": "\u0406\u043d\u0442\u0435\u0440\u0432'\u044e",
+      "url": "/block-interview"
+    },
+    {
+      "text": "\u0424\u043e\u0442\u043e",
+      "url": "/block-photo"
+    },
+    {
+      "text": "\u0412\u0456\u0434\u0435\u043e",
+      "url": "/block-video"
+    },
+    {
+      "text": "\u0411\u043b\u043e\u0433\u0438",
+      "url": "/block-blogs"
+    },
+    {
+      "text": "\u0406\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0456\u043a\u0430",
+      "url": "/block-infographics"
+    },
+    {
+      "text": "\u041b\u043e\u043d\u0433\u0440\u0456\u0434\u0438",
+      "url": "/block-longreads"
+    },
+    {
+      "text": "\u041a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0456\u0457",
+      "url": "/block-conferences"
+    },
+    {
+      "text": "\u041e\u0444\u0456\u0446\u0456\u0439\u043d\u0456 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438",
+      "url": "/block-docs"
+    },
+    {
+      "text": "\u0420\u0435\u043b\u0456\u0437\u0438",
+      "url": "/block-releases"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/ukrinform/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Ukrinform?fref=ts"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/UKRINFORM"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/c/UkrinformTV"
+    },
+    {
+      "text": "",
+      "url": "https://telegram.me/ukrinform_news"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "/"
+    },
+    {
+      "text": "\n                \n                \n                \n                    \u041c\u0430\u043c\u0430 \u0434\u0432\u043e\u0445 \u0430\u0437\u043e\u0432\u0446\u0456\u0432: \u0421\u0438\u043d\u0438 \u0441\u043a\u0430\u0437\u0430\u043b\u0438, \u0449\u043e \u0447\u043e\u043b\u043e\u0432\u0456\u043a\u0438 \u043f\u043e\u0432\u0438\u043d\u043d\u0456 \u0437\u0430\u0445\u0438\u0449\u0430\u0442\u0438 \u0434\u0456\u043c, \u043c\u0456\u0441\u0442\u043e, \u0411\u0430\u0442\u044c\u043a\u0456\u0432\u0449\u0438\u043d\u0443\n                    30.06.2022 12:11\n                \n            ",
+      "url": "/rubric-ato/3518191-mama-dvoh-azovciv-sini-skazali-so-coloviki-povinni-zahisati-dim-misto-batkivsinu.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                    \u041d\u0410\u0422\u041e \u043c\u0430\u0454 \u043d\u0430\u043c\u0456\u0440 \u043f\u0435\u0440\u0435\u043e\u0437\u0431\u0440\u043e\u0457\u0442\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0443 \u0441\u0443\u0447\u0430\u0441\u043d\u043e\u044e \u0437\u0431\u0440\u043e\u0454\u044e - \u0421\u0442\u043e\u043b\u0442\u0435\u043d\u0431\u0435\u0440\u0433\n                    30.06.2022 14:24\n                \n            ",
+      "url": "/rubric-ato/3518775-nato-mae-namir-pereozbroiti-ukrainu-sucasnou-zbroeu-stoltenberg.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                    \u041e\u0433\u043b\u044f\u0434\u041e\u0441\u0442\u0440\u0456\u0432 \u0417\u043c\u0456\u0457\u043d\u0438\u0439 \u0430\u0431\u043e \u00ab\u043c\u0438\u0441 \u0414\u043e\u0431\u0440\u043e\u0457 \u0412\u043e\u043b\u0456\u00bb: \u0443 \u0441\u043e\u0446\u043c\u0435\u0440\u0435\u0436\u0430\u0445 \u0441\u043c\u0456\u044e\u0442\u044c\u0441\u044f \u043d\u0430\u0434 \u0433\u0430\u043d\u0435\u0431\u043d\u043e\u044e \u0432\u0442\u0435\u0447\u0435\u044e \u043e\u043a\u0443\u043f\u0430\u043d\u0442\u0456\u0432\n                    30.06.2022 13:41\n                \n            ",
+      "url": "/rubric-ato/3518725-ostriv-zmiinij-abo-mis-dobroi-voli-u-socmerezah-smiutsa-nad-ganebnou-vteceu-okupantiv.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                    \u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0456\u0434\u043f\u0438\u0441\u0430\u0432 \u0437\u0430\u043a\u043e\u043d \u043f\u0440\u043e \u0441\u043a\u0430\u0441\u0443\u0432\u0430\u043d\u043d\u044f \u043d\u0443\u043b\u044c\u043e\u0432\u043e\u0433\u043e \u0440\u043e\u0437\u043c\u0438\u0442\u043d\u0435\u043d\u043d\u044f\n                    30.06.2022 12:24\n                \n            ",
+      "url": "/rubric-economy/3518650-zelenskij-pidpisav-zakon-pro-skasuvanna-nulovogo-rozmitnenna.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                    \u0406\u043d\u0442\u0435\u0440\u0432'\u044e\u041e\u043b\u0435\u043d\u0430 \u0425\u043e\u0445\u043b\u0430\u0442\u043a\u0438\u043d\u0430, \u0430\u043a\u0442\u043e\u0440\u043a\u0430 \u0442\u0435\u0430\u0442\u0440\u0443 \u0456 \u043a\u0456\u043d\u043e: \u0422\u0435\u0430\u0442\u0440 \u0432 \u00ab\u0434\u043d\u0440\u00bb? \u0412\u0438\u0431\u0430\u0447\u0442\u0435, \u044f \u043d\u0435 \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0442\u0438\u043c\u0443 \u0432 \u0446\u0438\u0445 \u0442\u0440\u044c\u043e\u0445 \u043b\u0456\u0442\u0435\u0440\u0430\u0445\n                    30.06.2022 09:50\n                \n            ",
+      "url": "/rubric-culture/3518517-olena-hohlatkina-aktorka-teatru-i-kino.html"
+    },
+    {
+      "text": "\u00a0",
+      "url": "/info/uatv.html"
+    },
+    {
+      "text": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u0438",
+      "url": "block-lastnews"
+    },
+    {
+      "text": "\n                        15:39\n                                                     \u0424\u043e\u0442\u043e\n                                                \u041d\u0430 \u0425\u0435\u0440\u0441\u043e\u043d\u0449\u0438\u043d\u0456 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0456 \u0440\u0430\u043a\u0435\u0442\u0438 \u0432\u043b\u0443\u0447\u0438\u043b\u0438 \u0432 \u0444\u0435\u0440\u043c\u0443 \u0456 \u0441\u0456\u043b\u044c\u0433\u043e\u0441\u043f\u0442\u0435\u0445\u043d\u0456\u043a\u0443\n                    ",
+      "url": "/rubric-diaspora/3518845-na-hersonsini-rosijski-raketi-vlucili-v-fermu-i-silgosptehniku.html"
+    },
+    {
+      "text": "\n                        15:32\n                                                \u0440\u043e\u0441\u0456\u044f \u043d\u0430\u0440\u043e\u0431\u0438\u043b\u0430 \u043f\u043e\u043c\u0438\u043b\u043e\u043a \u0432 \u0456\u043c\u0435\u043d\u0430\u0445 \u0443\u0447\u0430\u0441\u043d\u0438\u043a\u0456\u0432 \u0433\u0440\u0443\u043f\u0438 \u00ab\u041c\u0430\u043a\u0444\u043e\u043b\u0430 - \u0404\u0440\u043c\u0430\u043a\u0430\u00bb, \u043f\u0440\u043e\u0442\u0438 \u044f\u043a\u0438\u0445 \u0432\u0432\u0435\u043b\u0430 \u0441\u0430\u043d\u043a\u0446\u0456\u0457\n                    ",
+      "url": "/rubric-diaspora/3518836-rosia-narobila-pomilok-v-imenah-ucasnikiv-grupi-makfola-ermaka-proti-akih-vvela-sankcii.html"
+    },
+    {
+      "text": "\n                        15:29\n                                                \u0414\u043e\u0441\u0456 \u0454 \u0432\u0435\u043b\u0438\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043b\u0456\u043a \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0438\u0441\u0442\u0441\u044c\u043a\u0438\u0445 \u043a\u0430\u043d\u0430\u043b\u0456\u0432 \u0440\u0444, \u044f\u043a\u0438\u0445 \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e \u0437\u0430\u0431\u043b\u043e\u043a\u0443\u0432\u0430\u0442\u0438 \u2013 \u0413\u0435\u0440\u0430\u0441\u0438\u043c'\u044e\u043a\n                    ",
+      "url": "/rubric-diaspora/3518832-dosi-e-velikij-perelik-propagandistskih-kanaliv-rf-akih-potribno-zablokuvati-gerasimuk.html"
+    },
+    {
+      "text": "\n                        15:22\n                                                \u0412 \u041e\u041e\u041d \u0437\u0430\u043a\u043b\u0438\u043a\u0430\u043b\u0438 \u00ab\u043b/\u0434\u043d\u0440\u00bb \u043d\u0430\u0434\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u043d\u0435\u043d\u0438\u0445\n                    ",
+      "url": "/rubric-diaspora/3518828-v-oon-zaklikali-ldnr-nadati-dostup-do-ukrainskih-vijskovopolonenih.html"
+    },
+    {
+      "text": "\n                        15:18\n                                                \u0423 \u0440\u043e\u0441\u0456\u0457 \u0443\u0445\u0432\u0430\u043b\u0438\u043b\u0438 \u0437\u0430\u043a\u043e\u043d \u043f\u0440\u043e \u043f\u043e\u0437\u0430\u0441\u0443\u0434\u043e\u0432\u0435 \u0437\u0430\u043a\u0440\u0438\u0442\u0442\u044f \u0417\u041c\u0406 \u0437\u0430 \u00ab\u0444\u0435\u0439\u043a\u0438\u00bb \u0442\u0430 \u00ab\u0434\u0438\u0441\u043a\u0440\u0435\u0434\u0438\u0442\u0430\u0446\u0456\u044e\u00bb \u0430\u0440\u043c\u0456\u0457\n                    ",
+      "url": "/rubric-diaspora/3518823-u-rosii-uhvalili-zakon-pro-pozasudove-zakritta-zmi-za-fejki-ta-diskreditaciu-armii.html"
+    },
+    {
+      "text": "\n                        14:51\n                                                \u0412\u043e\u0440\u043e\u0433 \u043e\u0431\u0441\u0442\u0440\u0456\u043b\u044f\u0432 \u0421\u043b\u043e\u0432'\u044f\u043d\u0441\u044c\u043a \u043a\u0430\u0441\u0435\u0442\u043d\u0438\u043c\u0438 \u0431\u043e\u0454\u043f\u0440\u0438\u043f\u0430\u0441\u0430\u043c\u0438, \u0454 \u043f\u043e\u0440\u0430\u043d\u0435\u043d\u0456\n                    ",
+      "url": "/rubric-diaspora/3518797-vorog-obstrilav-slovansk-kasetnimi-boepripasami-e-poraneni.html"
+    },
+    {
+      "text": "\n                        14:49\n                                                     \u041e\u043f\u0438\u0442\u0443\u0432\u0430\u043d\u043d\u044f\n                                                \u0427\u0438 \u043e\u0431\u043c\u0435\u0436\u0443\u0432\u0430\u0442\u0438 \u0441\u0435\u0431\u0435 \u0432 \u043f\u043e\u043a\u0443\u043f\u043a\u0430\u0445 \u0442\u0430 \u0440\u043e\u0437\u0432\u0430\u0433\u0430\u0445 \u043f\u0456\u0434 \u0447\u0430\u0441 \u0432\u0456\u0439\u043d\u0438 - \u0434\u0443\u043c\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432\n                    ",
+      "url": "/rubric-diaspora/3518795-ci-obmezuvati-sebe-v-pokupkah-ta-rozvagah-pid-cas-vijni-dumki-ukrainciv.html"
+    },
+    {
+      "text": "\n                        14:41\n                                                     \u0412\u0456\u0434\u0435\u043e\n                                                \u0412\u0456\u0434\u0442\u0435\u043f\u0435\u0440 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456 \u043c\u043e\u0436\u0443\u0442\u044c \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043f\u0430\u0441\u043f\u043e\u0440\u0442 \u0443 \u0412\u0430\u0440\u0448\u0430\u0432\u0456 - \u0449\u043e \u0432\u0430\u0440\u0442\u043e \u0437\u043d\u0430\u0442\u0438\n                    ",
+      "url": "/rubric-diaspora/3518791-vidteper-ukrainci-mozut-otrimati-pasport-u-varsavi-so-varto-znati.html"
+    },
+    {
+      "text": "\n                        14:31\n                                                     \u0424\u043e\u0442\u043e\n                                                \u0412 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u0441\u0443\u0434 \u0430\u0440\u0435\u0448\u0442\u0443\u0432\u0430\u0432 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u0456 \u043f\u0440\u0430\u0432\u0430 \u043e\u0434\u043d\u0456\u0454\u0457 \u0437 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u0438\u0445 \u0442\u0443\u0440\u0438\u0441\u0442\u0438\u0447\u043d\u0438\u0445 \u0430\u0433\u0435\u043d\u0446\u0456\u0439\n                    ",
+      "url": "/rubric-diaspora/3518786-v-ukraini-sud-arestuvav-korporativni-prava-odniei-z-najbilsih-turisticnih-agencij.html"
+    },
+    {
+      "text": "\n                        14:24\n                                                \u041d\u0410\u0422\u041e \u043c\u0430\u0454 \u043d\u0430\u043c\u0456\u0440 \u043f\u0435\u0440\u0435\u043e\u0437\u0431\u0440\u043e\u0457\u0442\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0443 \u0441\u0443\u0447\u0430\u0441\u043d\u043e\u044e \u0437\u0431\u0440\u043e\u0454\u044e - \u0421\u0442\u043e\u043b\u0442\u0435\u043d\u0431\u0435\u0440\u0433\n                    ",
+      "url": "/rubric-diaspora/3518775-nato-mae-namir-pereozbroiti-ukrainu-sucasnou-zbroeu-stoltenberg.html"
+    },
+    {
+      "text": "\n                        14:23\n                                                     \u0424\u043e\u0442\u043e, \u0432\u0456\u0434\u0435\u043e\n                                                \u0412\u043e\u0440\u043e\u0433 \u043e\u0431\u0441\u0442\u0440\u0456\u043b\u044f\u0432 \u0431\u0430\u0433\u0430\u0442\u043e\u043f\u043e\u0432\u0435\u0440\u0445\u043e\u0432\u0438\u0439 \u0431\u0443\u0434\u0438\u043d\u043e\u043a \u0443 \u0413\u0443\u043b\u044f\u0439\u043f\u043e\u043b\u0456\n                    ",
+      "url": "/rubric-diaspora/3518774-vorog-obstrilav-bagatopoverhovij-budinok-u-gulajpoli.html"
+    },
+    {
+      "text": "\n                        14:17\n                                                \u041b\u0456\u0434\u0435\u0440\u0438 \u041d\u0410\u0422\u041e \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u0438\u043b\u0438 \u0448\u043b\u044f\u0445\u0438 \u0432\u0438\u0440\u0456\u0448\u0435\u043d\u043d\u044f \u043f\u0440\u043e\u0434\u043e\u0432\u043e\u043b\u044c\u0447\u043e\u0457 \u043a\u0440\u0438\u0437\u0438, \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043e\u0457 \u0440\u043e\u0441\u0456\u0454\u044e\n                    ",
+      "url": "/rubric-diaspora/3518778-lideri-nato-obgovorili-slahi-virisenna-prodovolcoi-krizi-stvorenoi-rosieu.html"
+    },
+    {
+      "text": "\n                        14:15\n                                                     \u041e\u043f\u0438\u0442\u0443\u0432\u0430\u043d\u043d\u044f\n                                                \u0412 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u043b\u0438\u0448\u0435 8% \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0456\u0432 \u043d\u0435 \u043c\u0430\u044e\u0442\u044c \u043d\u0430\u043c\u0456\u0440\u0443 \u043f\u043e\u0432\u0435\u0440\u0442\u0430\u0442\u0438\u0441\u044f \u0434\u043e\u0434\u043e\u043c\u0443\n                    ",
+      "url": "/rubric-diaspora/3518765-v-ukraini-lise-8-pereselenciv-ne-maut-namiru-povertatisa-dodomu.html"
+    },
+    {
+      "text": "\n                        14:15\n                                                     \u041c\u0435\u0434\u0456\u0430\u0446\u0435\u043d\u0442\u0440 \u0423\u043a\u0440\u0430\u0457\u043d\u0430 - \u0423\u043a\u0440\u0456\u043d\u0444\u043e\u0440\u043c\n                                                \u041e 14.30 - \u0431\u0440\u0438\u0444\u0456\u043d\u0433 \u043f\u0440\u043e \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0443 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044e \u043d\u0430 \u0444\u0440\u043e\u043d\u0442\u0456\n                    ",
+      "url": "/rubric-diaspora/3518470-o-1430-brifing-pro-operativnu-situaciu-na-fronti.html"
+    },
+    {
+      "text": "\n                        14:09\n                                                \u0421\u043f\u0440\u0430\u0432\u0443 \u043f\u0440\u043e \u0432\u0442\u0435\u0447\u0443 \u042f\u043d\u0443\u043a\u043e\u0432\u0438\u0447\u0430 \u0434\u043e \u0440\u043e\u0441\u0456\u0457 \u043f\u0435\u0440\u0435\u0434\u0430\u043b\u0438 \u0443 \u0441\u0443\u0434\n                    ",
+      "url": "/rubric-diaspora/3518756-spravu-pro-vtecu-anukovica-do-rosii-peredali-u-sud.html"
+    },
+    {
+      "text": "\u0412\u0441\u0456 \u043d\u043e\u0432\u0438\u043d\u0438",
+      "url": "block-lastnews"
+    },
+    {
+      "text": " ",
+      "url": "https://ua.sinoptik.ua/"
+    },
+    {
+      "text": "\n            \n                \u041a\u0438\u0457\u0432\n                \n                    \n                        \n                        +28\u00b0\n                        \n                    \n                    \u0432\u043e\u043b\u043e\u0433\u0456\u0441\u0442\u044c: 55%\n                        \u0442\u0438\u0441\u043a: 747 \u043c\u043c\n                        \u0432\u0456\u0442\u0435\u0440: 2.0 \u043c/\u0441, \n                \n            \n        ",
+      "url": "https://ua.sinoptik.ua/\u043f\u043e\u0433\u043e\u0434\u0430-\u043a\u0438\u0457\u0432"
+    },
+    {
+      "text": "sinoptik.ua",
+      "url": "https://ua.sinoptik.ua/\u043f\u043e\u0433\u043e\u0434\u0430-\u043a\u0438\u0457\u0432/10-\u0434\u043d\u0456\u0432"
+    },
+    {
+      "text": "\u041f\u0443\u0431\u043b\u0456\u043a\u0430\u0446\u0456\u0457",
+      "url": "block-publications"
+    },
+    {
+      "text": "\n                    \n                    \n                    \n                        \u041c\u0430\u043c\u0430 \u0434\u0432\u043e\u0445 \u0430\u0437\u043e\u0432\u0446\u0456\u0432: \u0421\u0438\u043d\u0438 \u0441\u043a\u0430\u0437\u0430\u043b\u0438, \u0449\u043e \u0447\u043e\u043b\u043e\u0432\u0456\u043a\u0438 \u043f\u043e\u0432\u0438\u043d\u043d\u0456 \u0437\u0430\u0445\u0438\u0449\u0430\u0442\u0438 \u0434\u0456\u043c, \u043c\u0456\u0441\u0442\u043e, \u0411\u0430\u0442\u044c\u043a\u0456\u0432\u0449\u0438\u043d\u0443\n                    \n                ",
+      "url": "/rubric-diaspora/3518191-mama-dvoh-azovciv-sini-skazali-so-coloviki-povinni-zahisati-dim-misto-batkivsinu.html"
+    },
+    {
+      "text": "\"\u0412\u043e\u043d\u0438 \u043d\u0430\u0440\u043e\u0434\u0438\u043b\u0438\u0441\u044f \u0443 90-\u0445, \u043a\u043e\u043b\u0438 \u043d\u0430\u0447\u0435\u0431\u0442\u043e \u0432\u0441\u0435, \u0432\u043a\u043b\u044e\u0447\u043d\u043e \u0456\u0437 \u043c\u043e\u0440\u0430\u043b\u043b\u044e, \u043b\u0435\u0442\u0456\u043b\u043e \u0432 \u0442\u0430\u0440\u0442\u0430\u0440\u0430\u0440\u0438, \u0430\u043b\u0435 \u044f \u0432\u0441\u0435 \u043e\u0434\u043d\u043e \u0457\u0445 \u043d\u0430\u043b\u0430\u0448\u0442\u043e\u0432\u0443\u0432\u0430\u043b\u0430: \u043d\u0435 \u0431\u0440\u0435\u0445\u0430\u0442\u0438, \u0447\u0443\u0436\u043e\u0433\u043e \u043d\u0435 \u0431\u0440\u0430\u0442\u0438, \u043d\u0435 \u043f\u0440\u0438\u043d\u0438\u0436\u0443\u0432\u0430\u0442\u0438\u0441\u044f, \u0432\u0456\u0440\u0438\u0442\u0438, \u0449\u043e \u0437\u043c\u043e\u0436\u0435\u0442\u0435 \u0434\u043e\u0441\u044f\u0433\u0442\u0438 \u0432\u0441\u044c\u043e\u0433\u043e...\"",
+      "url": "/rubric-diaspora/3518191-mama-dvoh-azovciv-sini-skazali-so-coloviki-povinni-zahisati-dim-misto-batkivsinu.html"
+    },
+    {
+      "text": "\n                    \n                    \n                    \n                        \u0414\u0435\u0444\u043e\u043b\u0442 \u0440\u0444: \u043f\u043e\u0437\u0438\u0442\u0438\u0432 \u0434\u043b\u044f \u0423\u043a\u0440\u0430\u0457\u043d\u0438, \u0445\u043e\u0447\u0430 \u0439 \u043d\u0435 \u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u0430 \u0434\u043b\u044f \u043a\u0440\u0435\u043c\u043b\u044f\n                    \n                ",
+      "url": "/rubric-diaspora/3518190-defolt-rf-pozitiv-dla-ukraini-hoca-j-ne-katastrofa-dla-kremla.html"
+    },
+    {
+      "text": "\u041d\u0438\u043d\u0456\u0448\u043d\u0456\u0439 \u0434\u0435\u0444\u043e\u043b\u0442, \u043d\u0430 \u0436\u0430\u043b\u044c, \u043d\u0435 \u0437\u043d\u0438\u0449\u0438\u0442\u044c \u0435\u043a\u043e\u043d\u043e\u043c\u0456\u043a\u0443 \u0434\u0435\u0440\u0436\u0430\u0432\u0438-\u0430\u0433\u0440\u0435\u0441\u043e\u0440\u0430, \u0430\u043b\u0435 \u0432\u0434\u0430\u0440\u0438\u0442\u044c \u043f\u043e \u0430\u043c\u0431\u0456\u0446\u0456\u044f\u0445 \u0440\u0444 \u0442\u0430 \u043f\u043e\u0441\u0438\u043b\u0438\u0442\u044c \u0457\u0457 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0443 \u0456\u0437\u043e\u043b\u044f\u0446\u0456\u044e",
+      "url": "/rubric-diaspora/3518190-defolt-rf-pozitiv-dla-ukraini-hoca-j-ne-katastrofa-dla-kremla.html"
+    },
+    {
+      "text": "\n                    \n                    \n                    \n                        \u0411\u0438\u0442\u0432\u0430 \u0437\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0443. \u0414\u0435\u043d\u044c \u0441\u0442\u043e \u0434\u0432\u0430\u0434\u0446\u044f\u0442\u044c \u0448\u043e\u0441\u0442\u0438\u0439\n                    \n                ",
+      "url": "/rubric-diaspora/3518265-bitva-za-ukrainu-den-sto-dvadcat-sostij.html"
+    },
+    {
+      "text": "\u0410\u0440\u0442\u0438\u043b\u0435\u0440\u0438\u0441\u0442\u0438 81 \u0431\u0440\u0438\u0433\u0430\u0434\u0438 \u0417\u0421\u0423 \u0437\u043d\u0438\u0449\u0438\u043b\u0438 \u0431\u0430\u0442\u0430\u0440\u0435\u044e 2\u04213 \"\u0410\u043a\u0430\u0446\u0456\u044f\" \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u043e\u043a\u0443\u043f\u0430\u043d\u0442\u0456\u0432",
+      "url": "/rubric-diaspora/3518265-bitva-za-ukrainu-den-sto-dvadcat-sostij.html"
+    },
+    {
+      "text": "\n                    \n                    \n                    \n                        \u041f\u0440\u043e \u0440\u043e\u0437\u0431\u0438\u0442\u0456 \u0432\u043e\u0440\u043e\u0436\u0456 \u0442\u0430\u043d\u043a\u0438, \u044f\u043a\u0456 \u043a\u043e\u043b\u0438\u0441\u044c \u0441\u0442\u0430\u043d\u0443\u0442\u044c \u0433\u043e\u043b\u043e\u0433\u0440\u0430\u043c\u0430\u043c\u0438\n                    \n                ",
+      "url": "/rubric-diaspora/3518251-pro-rozbiti-vorozi-tanki-aki-kolis-stanut-gologramami.html"
+    },
+    {
+      "text": "\u0423\u0432\u0456\u0447\u043d\u0435\u043d\u043d\u044f \u043f\u0430\u043c\u2019\u044f\u0442\u0456 \u0433\u0435\u0440\u043e\u0457\u0432 \u0456 \u0436\u0435\u0440\u0442\u0432 \u0446\u0456\u0454\u0457 \u0436\u0430\u0445\u043b\u0438\u0432\u043e\u0457 \u0442\u0430 \u0437\u0432\u0438\u0442\u044f\u0436\u043d\u043e\u0457 \u0412\u0435\u043b\u0438\u043a\u043e\u0457 \u0412\u0456\u0439\u043d\u0438 \u2013 \u043c\u0438 \u043c\u0430\u0454\u043c\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u0438 \u043f\u0440\u043e \u0446\u0435 \u0432\u0436\u0435 \u0441\u044c\u043e\u0433\u043e\u0434\u043d\u0456\u00a0",
+      "url": "/rubric-diaspora/3518251-pro-rozbiti-vorozi-tanki-aki-kolis-stanut-gologramami.html"
+    },
+    {
+      "text": "\u0411i\u043b\u044c\u0448\u0435 \u043f\u0443\u0431\u043b\u0456\u043a\u0430\u0446\u0456\u0439",
+      "url": "block-publications"
+    },
+    {
+      "text": "\u0406\u043d\u0442\u0435\u0440\u0432\u2019\u044e",
+      "url": "https://www.ukrinform.ua/block-interview"
+    },
+    {
+      "text": "",
+      "url": "/rubric-culture/3518517-olena-hohlatkina-aktorka-teatru-i-kino.html"
+    },
+    {
+      "text": "\u041e\u043b\u0435\u043d\u0430 \u0425\u043e\u0445\u043b\u0430\u0442\u043a\u0438\u043d\u0430, \u0430\u043a\u0442\u043e\u0440\u043a\u0430 \u0442\u0435\u0430\u0442\u0440\u0443 \u0456 \u043a\u0456\u043d\u043e",
+      "url": "/rubric-culture/3518517-olena-hohlatkina-aktorka-teatru-i-kino.html"
+    },
+    {
+      "text": "\u0422\u0435\u0430\u0442\u0440 \u0432 \u00ab\u0434\u043d\u0440\u00bb? \u0412\u0438\u0431\u0430\u0447\u0442\u0435, \u044f \u043d\u0435 \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0442\u0438\u043c\u0443 \u0432 \u0446\u0438\u0445 \u0442\u0440\u044c\u043e\u0445 \u043b\u0456\u0442\u0435\u0440\u0430\u0445",
+      "url": "/rubric-culture/3518517-olena-hohlatkina-aktorka-teatru-i-kino.html"
+    },
+    {
+      "text": "",
+      "url": "/rubric-technology/3517722-ivan-kiricenko-golovnij-konstruktor-kb-robotiks.html"
+    },
+    {
+      "text": "\u0406\u0432\u0430\u043d \u041a\u0438\u0440\u0438\u0447\u0435\u043d\u043a\u043e, \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0439 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u041a\u0411 \"\u0420\u043e\u0431\u043e\u0442\u0456\u043a\u0441\"",
+      "url": "/rubric-technology/3517722-ivan-kiricenko-golovnij-konstruktor-kb-robotiks.html"
+    },
+    {
+      "text": "\u0411\u043e\u0439\u043e\u0432\u0456 \u0440\u043e\u0431\u043e\u0442\u0438 \u0434\u0430\u044e\u0442\u044c \u0437\u043c\u043e\u0433\u0443 \u0448\u0442\u0443\u0440\u043c\u0443\u0432\u0430\u0442\u0438 \u0432\u043e\u0440\u043e\u0433\u0430 \u0431\u0435\u0437 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0430\u0440\u0442\u0438\u043b\u0435\u0440\u0456\u0457",
+      "url": "/rubric-technology/3517722-ivan-kiricenko-golovnij-konstruktor-kb-robotiks.html"
+    },
+    {
+      "text": "",
+      "url": "/rubric-economy/3517600-danilo-getmancev-golova-komitetu-vr-z-pitan-finansiv-podatkovoi-ta-mitnoi-politiki.html"
+    },
+    {
+      "text": "\u0414\u0430\u043d\u0438\u043b\u043e \u0413\u0435\u0442\u043c\u0430\u043d\u0446\u0435\u0432, \u0433\u043e\u043b\u043e\u0432\u0430 \u041a\u043e\u043c\u0456\u0442\u0435\u0442\u0443 \u0412\u0420 \u0437 \u043f\u0438\u0442\u0430\u043d\u044c \u0444\u0456\u043d\u0430\u043d\u0441\u0456\u0432, \u043f\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u043e\u0457 \u0442\u0430 \u043c\u0438\u0442\u043d\u043e\u0457 \u043f\u043e\u043b\u0456\u0442\u0438\u043a\u0438",
+      "url": "/rubric-economy/3517600-danilo-getmancev-golova-komitetu-vr-z-pitan-finansiv-podatkovoi-ta-mitnoi-politiki.html"
+    },
+    {
+      "text": "\u0414\u043b\u044f \u0454\u0432\u0440\u043e\u0456\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0456\u0457 \u043d\u0430\u043c \u0434\u043e\u0432\u0435\u0434\u0435\u0442\u044c\u0441\u044f \u0456\u043c\u043f\u043b\u0435\u043c\u0435\u043d\u0443\u0432\u0430\u0442\u0438 \u0434\u0435\u0441\u044f\u0442\u043a\u0438 \u0434\u0438\u0440\u0435\u043a\u0442\u0438\u0432, \u043f\u0440\u043e\u0446\u0435\u0441 \u0431\u0443\u0434\u0435 \u043f\u0443\u0431\u043b\u0456\u0447\u043d\u0438\u043c",
+      "url": "/rubric-economy/3517600-danilo-getmancev-golova-komitetu-vr-z-pitan-finansiv-podatkovoi-ta-mitnoi-politiki.html"
+    },
+    {
+      "text": "",
+      "url": "/rubric-sports/3517067-sergij-stahovskij-tenisist.html"
+    },
+    {
+      "text": "\u0421\u0435\u0440\u0433\u0456\u0439 \u0421\u0442\u0430\u0445\u043e\u0432\u0441\u044c\u043a\u0438\u0439, \u0442\u0435\u043d\u0456\u0441\u0438\u0441\u0442",
+      "url": "/rubric-sports/3517067-sergij-stahovskij-tenisist.html"
+    },
+    {
+      "text": "\u0406\u0437\u043e\u043b\u044f\u0446\u0456\u044f \u0440\u043e\u0441\u0456\u0457 - \u0446\u0435 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u0435 \u043f\u0438\u0442\u0430\u043d\u043d\u044f, \u043f\u0456\u0434 \u044f\u043a\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u0456 \u043f\u0456\u0434\u043f\u0430\u0434\u0430\u0442\u0438 \u0456 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0456 \u0441\u043f\u043e\u0440\u0442\u0441\u043c\u0435\u043d\u0438",
+      "url": "/rubric-sports/3517067-sergij-stahovskij-tenisist.html"
+    },
+    {
+      "text": "",
+      "url": "/rubric-ato/3516294-andrij-zolob-vijskovij-likar-lider-ukrainskogo-pankrok-gurtu-beton.html"
+    },
+    {
+      "text": "\u0410\u043d\u0434\u0440\u0456\u0439 \u0416\u043e\u043b\u043e\u0431, \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0438\u0439 \u043b\u0456\u043a\u0430\u0440, \u043b\u0456\u0434\u0435\u0440 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u043f\u0430\u043d\u043a-\u0440\u043e\u043a \u0433\u0443\u0440\u0442\u0443 \u00ab\u0411\u0435\u0442\u043e\u043d\u00bb",
+      "url": "/rubric-ato/3516294-andrij-zolob-vijskovij-likar-lider-ukrainskogo-pankrok-gurtu-beton.html"
+    },
+    {
+      "text": "\u0423 \u0433\u043e\u0441\u043f\u0456\u0442\u0430\u043b\u0456 \u043f\u043e\u0440\u0430\u043d\u0435\u043d\u0456 \u0434\u043e \u0442\u0435\u0431\u0435 \u0441\u0442\u0430\u0432\u043b\u044f\u0442\u044c\u0441\u044f, \u044f\u043a \u0434\u043e \u0434\u043e\u0431\u0440\u043e\u0433\u043e \u0447\u0430\u0440\u0456\u0432\u043d\u0438\u043a\u0430",
+      "url": "/rubric-ato/3516294-andrij-zolob-vijskovij-likar-lider-ukrainskogo-pankrok-gurtu-beton.html"
+    },
+    {
+      "text": "\u0411i\u043b\u044c\u0448\u0435 i\u043d\u0442\u0435\u0440\u0432\u2019\u044e",
+      "url": "https://www.ukrinform.ua/block-interview"
+    },
+    {
+      "text": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438",
+      "url": "/block-projects"
+    },
+    {
+      "text": "\n                        \n                        \n                        \n                        \u0423\u043a\u0440\u0456\u043d\u0444\u043e\u0440\u043c \u0443 Facebook\n                    ",
+      "url": "https://www.facebook.com/Ukrinform?fref=ts"
+    },
+    {
+      "text": "\n                        \n                        \n                        \n                        \u0427\u0438\u0442\u0430\u0439\u0442\u0435 \u043d\u0430\u0441 \u0432 Telegram\n                    ",
+      "url": "https://telegram.me/ukrinform_news"
+    },
+    {
+      "text": "\n                        \n                        \n                        \n                        \u0414\u0438\u0432\u0456\u0442\u044c\u0441\u044f \u043d\u0430\u0441 \u043d\u0430 Youtube\n                    ",
+      "url": "https://www.youtube.com/c/UkrinformTV"
+    },
+    {
+      "text": "\n                        \n                        \n                        \n                        Twitter \u0423\u043a\u0440\u0456\u043d\u0444\u043e\u0440\u043c\u0443\n                    ",
+      "url": "https://twitter.com/UKRINFORM"
+    },
+    {
+      "text": "\n                        \n                        \n                        \n                        \u0423\u043a\u0440\u0456\u043d\u0444\u043e\u0440\u043c \u0443 Facebook\n                    ",
+      "url": "https://www.facebook.com/Ukrinform?fref=ts"
+    },
+    {
+      "text": "\n                        \n                        \n                        \n                        \u0427\u0438\u0442\u0430\u0439\u0442\u0435 \u043d\u0430\u0441 \u0432 Telegram\n                    ",
+      "url": "https://telegram.me/ukrinform_news"
+    },
+    {
+      "text": "1",
+      "url": ""
+    },
+    {
+      "text": "2",
+      "url": ""
+    },
+    {
+      "text": "3",
+      "url": ""
+    },
+    {
+      "text": "4",
+      "url": ""
+    },
+    {
+      "text": "\u041d\u043e\u0432\u0438\u043d\u0438 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0456\u0432",
+      "url": "/block-partner"
+    },
+    {
+      "text": "\u041c\u0435\u0434\u0438\u043a\u0438 \u0412\u0456\u043d\u043d\u0438\u0447\u0447\u0438\u043d\u0438 \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u0447\u0456\u0442\u043a\u043e \u0456 \u0431\u0435\u0437 \u0441\u043a\u0430\u0440\u0433",
+      "url": "/rubric-other_news/3518506-mediki-vinniccini-pracuut-citko-i-bez-skarg.html"
+    },
+    {
+      "text": "\u041a\u043e\u0436\u0435\u043d \u0434\u0440\u0443\u0433\u0438\u0439 \u0443\u043a\u0440\u0430\u0457\u043d\u0435\u0446\u044c \u043c\u0430\u0454 \u0434\u043e\u043c\u0430\u0448\u043d\u044c\u043e\u0433\u043e \u0443\u043b\u044e\u0431\u043b\u0435\u043d\u0446\u044f",
+      "url": "/rubric-other_news/3517849-kozen-drugij-ukrainec-mae-domasnogo-ulublenca.html"
+    },
+    {
+      "text": "\u4e4c\u514b\u5170\u6b66\u88c5\u90e8\u961f\u6bc1\u706d\u4e86 35,250 \u540d\u4fc4\u7f57\u65af\u4fb5\u7565\u8005",
+      "url": "/rubric-other_news/3517780-wu-ke-lan-wu-zhuang-bu-dui-hui-mie-le-35250-ming-e-luo-si-qin-lue-zhe.html"
+    },
+    {
+      "text": "\u0411i\u043b\u044c\u0448\u0435",
+      "url": "/block-partner"
+    },
+    {
+      "text": "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043d\u0430 \u043d\u0430\u0448 \u043a\u0430\u043d\u0430\u043b youtube",
+      "url": "https://www.youtube.com/user/UkrinformTV"
+    },
+    {
+      "text": "\u0440\u043e\u0441\u0456\u044f\u043d\u0438 \u0437\u0430\u043b\u0438\u0448\u0438\u043b\u0438 \u0417\u043c\u0456\u0457\u043d\u0438\u0439, \u0431\u043e \u043d\u0435 \u0432\u0438\u0442\u0440\u0438\u043c\u0430\u043b\u0438 \u0443\u0434\u0430\u0440\u0456\u0432 \u0417\u0421\u0423 \u2013 \u0417\u0430\u043b\u0443\u0436\u043d\u0438\u0439",
+      "url": "https://www.ukrinform.ua/rubric-ato/3518710-rosiani-zalisili-zmiinij-bo-ne-vitrimali-udariv-zsu-zaluznij.html"
+    },
+    {
+      "text": "\u0412\u0456\u0434\u0435\u043e",
+      "url": "/block-video"
+    },
+    {
+      "text": "\n                            \n                            \n                        ",
+      "url": "/rubric-ato/3518543-sbu-vstanovila-detali-zapusku-rosijskih-raket-po-tc-u-kremencuci.html"
+    },
+    {
+      "text": "\u0421\u0411\u0423 \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0430 \u0434\u0435\u0442\u0430\u043b\u0456 \u0437\u0430\u043f\u0443\u0441\u043a\u0443 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0440\u0430\u043a\u0435\u0442 \u043f\u043e \u0422\u0426 \u0443 \u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0446\u0456",
+      "url": "/rubric-ato/3518543-sbu-vstanovila-detali-zapusku-rosijskih-raket-po-tc-u-kremencuci.html"
+    },
+    {
+      "text": "\n                            \n                            \n                        ",
+      "url": "/rubric-polytics/3518320-zelenskij-obgovoriv-iz-brensonom-zberezenna-uvagi-svitu-do-vijni-v-ukraini.html"
+    },
+    {
+      "text": "\u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u0438\u0432 \u0456\u0437 \u0411\u0440\u0435\u043d\u0441\u043e\u043d\u043e\u043c \u0437\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u043d\u044f \u0443\u0432\u0430\u0433\u0438 \u0441\u0432\u0456\u0442\u0443 \u0434\u043e \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456",
+      "url": "/rubric-polytics/3518320-zelenskij-obgovoriv-iz-brensonom-zberezenna-uvagi-svitu-do-vijni-v-ukraini.html"
+    },
+    {
+      "text": "\n                            \n                            \n                        ",
+      "url": "/rubric-ato/3518144-na-sumsini-prikordonniki-zbili-vorozij-dron-iz-potuznou-vibuhivkou.html"
+    },
+    {
+      "text": "\u041d\u0430 \u0421\u0443\u043c\u0449\u0438\u043d\u0456 \u043f\u0440\u0438\u043a\u043e\u0440\u0434\u043e\u043d\u043d\u0438\u043a\u0438 \u0437\u0431\u0438\u043b\u0438 \u0432\u043e\u0440\u043e\u0436\u0438\u0439 \u0434\u0440\u043e\u043d \u0456\u0437 \u043f\u043e\u0442\u0443\u0436\u043d\u043e\u044e \u0432\u0438\u0431\u0443\u0445\u0456\u0432\u043a\u043e\u044e",
+      "url": "/rubric-ato/3518144-na-sumsini-prikordonniki-zbili-vorozij-dron-iz-potuznou-vibuhivkou.html"
+    },
+    {
+      "text": "\n                            \n                            \n                        ",
+      "url": "/rubric-ato/3517696-tam-bulo-bagato-trupiv-sbu-dopitala-moraka-z-moskvi.html"
+    },
+    {
+      "text": "\u00ab\u0422\u0430\u043c \u0431\u0443\u043b\u043e \u0431\u0430\u0433\u0430\u0442\u043e \u0442\u0440\u0443\u043f\u0456\u0432\u00bb \u2013 \u0421\u0411\u0423 \u0434\u043e\u043f\u0438\u0442\u0430\u043b\u0430 \u043a\u043e\u043b\u0438\u0448\u043d\u044c\u043e\u0433\u043e \u00ab\u0440\u044f\u0442\u0456\u0432\u043d\u0438\u043a\u0430\u00bb \u043a\u0440\u0435\u0439\u0441\u0435\u0440\u0430 \u00ab\u041c\u043e\u0441\u043a\u0432\u0430\u00bb",
+      "url": "/rubric-ato/3517696-tam-bulo-bagato-trupiv-sbu-dopitala-moraka-z-moskvi.html"
+    },
+    {
+      "text": "\u0411\u0456\u043b\u044c\u0448\u0435 \u0432\u0456\u0434\u0435\u043e",
+      "url": "/block-video"
+    },
+    {
+      "text": "\u0424\u043e\u0442\u043e",
+      "url": "/block-photo"
+    },
+    {
+      "text": "\n                \n                \n                    \u0423 \u0425\u0430\u0440\u043a\u043e\u0432\u0456 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0430 \u0440\u0430\u043a\u0435\u0442\u0430 \u0432\u043b\u0443\u0447\u0438\u043b\u0430 \u0443 \u0434\u0435\u0440\u0435\u0432\u043e\u043e\u0431\u0440\u043e\u0431\u043d\u0435 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u043e\n                ",
+      "url": "/rubric-regions/3518723-u-harkovi-rosijska-raketa-vlucila-u-derevoobrobne-pidpriemstvo.html"
+    },
+    {
+      "text": "\n                \n                \n                    \u0423 \u0420\u0443\u043c\u0443\u043d\u0456\u0457 \u0437\u0456\u0439\u0448\u043b\u0438 \u0437 \u0440\u0435\u0439\u043e\u043a 15 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0432\u0430\u0433\u043e\u043d\u0456\u0432-\u0437\u0435\u0440\u043d\u043e\u0432\u043e\u0437\u0456\u0432\n                ",
+      "url": "/rubric-world/3518627-u-rumunii-zijsli-z-rejok-15-ukrainskih-vagonivzernovoziv.html"
+    },
+    {
+      "text": "\n                \n                \n                    \u041d\u0430 \u0414\u043e\u043d\u0435\u0447\u0447\u0438\u043d\u0456 \u0437\u0430 \u0434\u043e\u0431\u0443 \u0432\u043e\u0440\u043e\u0433 \u043e\u0431\u0441\u0442\u0440\u0456\u043b\u044f\u0432 10 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0445 \u043f\u0443\u043d\u043a\u0442\u0456\u0432\n                ",
+      "url": "/rubric-regions/3518550-na-doneccini-za-dobu-vorog-obstrilav-10-naselenih-punktiv.html"
+    },
+    {
+      "text": "\n                \n                \n                    \u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0456 \u0433\u0430\u0443\u0431\u0438\u0446\u0456 \u00ab\u041a\u0440\u0430\u0431\u00bb \u0443\u0436\u0435 \u0443\u0441\u043f\u0456\u0448\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043d\u0430 \u043f\u0435\u0440\u0435\u0434\u043e\u0432\u0456\u0439 - \u0417\u0430\u043b\u0443\u0436\u043d\u0438\u0439\n                ",
+      "url": "/rubric-ato/3518292-polski-gaubici-krab-uze-uspisno-pracuut-na-peredovij-zaluznij.html"
+    },
+    {
+      "text": "\u0411\u0456\u043b\u044c\u0448\u0435 \u0444\u043e\u0442\u043e",
+      "url": "/block-photo"
+    },
+    {
+      "text": "\u0411\u043b\u043e\u0433\u0438",
+      "url": "/block-blogs"
+    },
+    {
+      "text": "\n                \n                \n                                 \u041f\u0440\u043e \u0432\u0430\u0436\u043b\u0438\u0432\u0438\u0439 \u0443\u0440\u043e\u043a, \u044f\u043a\u0438\u0439 \u0441\u0432\u043e\u0454\u044e \u043a\u0440\u043e\u0432\u2019\u044e \u043d\u0430\u043f\u0438\u0441\u0430\u0432 \u0433\u0435\u043d\u0435\u0440\u0430\u043b \u0423\u041f\u0410 \u0428\u0443\u0445\u0435\u0432\u0438\u0447\n                \n                    \n                    \n                        \u0411\u043e\u0433\u0434\u0430\u043d \u0427\u0435\u0440\u0432\u0430\u043a\n                        30.06.2022\n                    \n                \n            ",
+      "url": "/rubric-ato/3518509-pro-vazlivij-urok-akij-svoeu-krovu-napisav-general-upa-suhevic.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.ukrinform.ru/rubric-society/3517687-kak-skryt-agressiu-masterklass-ot-rossijskih-vlastej.html"
+    },
+    {
+      "text": "\u042f\u043a \u043f\u0440\u0438\u0445\u043e\u0432\u0430\u0442\u0438 \u0430\u0433\u0440\u0435\u0441\u0456\u044e: \u043c\u0430\u0439\u0441\u0442\u0435\u0440-\u043a\u043b\u0430\u0441 \u0432\u0456\u0434 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e\u0457 \u0432\u043b\u0430\u0434\u0438",
+      "url": "https://www.ukrinform.ru/rubric-society/3517687-kak-skryt-agressiu-masterklass-ot-rossijskih-vlastej.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.ukrinform.ru/rubric-society/3517687-kak-skryt-agressiu-masterklass-ot-rossijskih-vlastej.html"
+    },
+    {
+      "text": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0430 \u0430\u043a\u0430\u0434\u0435\u043c\u0456\u044f \u0421\u0411\u0423 ",
+      "url": "/authors/nacionalnaa-akademia-sbu.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.ukrinform.ru/rubric-society/3517677-zavravsiesa-putinisty-ili-denacifikacia-v-krivom-zerkale-istoriceskih-falsifikacij.html"
+    },
+    {
+      "text": "\u041f\u0443\u0442\u0438\u043d\u0456\u0441\u0442\u0438, \u0449\u043e \u0437\u0430\u0431\u0440\u0435\u0445\u0430\u043b\u0438\u0441\u044f, \u0430\u0431\u043e \u00ab\u0434\u0435\u043d\u0430\u0446\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u044f\u00bb \u0443 \u043a\u0440\u0438\u0432\u043e\u043c\u0443 \u0434\u0437\u0435\u0440\u043a\u0430\u043b\u0456 \u0456\u0441\u0442\u043e\u0440\u0438\u0447\u043d\u0438\u0445 \u0444\u0430\u043b\u044c\u0441\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0439",
+      "url": "https://www.ukrinform.ru/rubric-society/3517677-zavravsiesa-putinisty-ili-denacifikacia-v-krivom-zerkale-istoriceskih-falsifikacij.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.ukrinform.ru/rubric-society/3517677-zavravsiesa-putinisty-ili-denacifikacia-v-krivom-zerkale-istoriceskih-falsifikacij.html"
+    },
+    {
+      "text": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0430 \u0430\u043a\u0430\u0434\u0435\u043c\u0456\u044f \u0421\u0411\u0423 ",
+      "url": "/authors/nacionalnaa-akademia-sbu.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.ukrinform.ru/rubric-ato/3518026-uzas-proishodasego-zaklucaetsa-v-tom-cto-my-vouem-s-zivymi-mertvecami.html"
+    },
+    {
+      "text": "\u0423 \u0440\u043e\u0441\u0456\u044f\u043d \u043d\u0435\u043c\u0430\u0454 \u0430\u043d\u0456 \u043a\u0440\u0430\u043f\u043b\u0456 \u0435\u043c\u043f\u0430\u0442\u0456\u0457: \u0432\u0456\u0434 \u043e\u0441\u0442\u0430\u043d\u043d\u044c\u043e\u0433\u043e \u0437\u0430\u0431\u0443\u043b\u0434\u0438\u0433\u0438 \u0437 \u0433\u043b\u0438\u0431\u0438\u043d\u043a\u0438 \u0434\u043e \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430 \u00ab\u0415\u0440\u043c\u0456\u0442\u0430\u0436\u0443\u00bb",
+      "url": "https://www.ukrinform.ru/rubric-ato/3518026-uzas-proishodasego-zaklucaetsa-v-tom-cto-my-vouem-s-zivymi-mertvecami.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.ukrinform.ru/rubric-ato/3518026-uzas-proishodasego-zaklucaetsa-v-tom-cto-my-vouem-s-zivymi-mertvecami.html"
+    },
+    {
+      "text": "\u0411\u043e\u0440\u0438\u0441 \u0424\u0456\u043b\u0430\u0442\u043e\u0432",
+      "url": "/authors/borisfilatov.html"
+    },
+    {
+      "text": "",
+      "url": "/rubric-world/3518001-de-zaznala-porazki-rosia-a-v-madridi.html"
+    },
+    {
+      "text": "\u0414\u0435 \u0437\u0430\u0437\u043d\u0430\u043b\u0430 \u043f\u043e\u0440\u0430\u0437\u043a\u0438 \u0440\u043e\u0441\u0456\u044f? \u0410 \u0432 \u041c\u0430\u0434\u0440\u0438\u0434\u0456!",
+      "url": "/rubric-world/3518001-de-zaznala-porazki-rosia-a-v-madridi.html"
+    },
+    {
+      "text": "",
+      "url": "/rubric-world/3518001-de-zaznala-porazki-rosia-a-v-madridi.html"
+    },
+    {
+      "text": "\u0421\u0435\u0440\u0433\u0456\u0439 \u0422\u0438\u0445\u0438\u0439",
+      "url": "/authors/sergejtihij.html"
+    },
+    {
+      "text": "\u0410\u0432\u0442\u043e\u0440\u0438",
+      "url": "/authors/"
+    },
+    {
+      "text": "\u0412\u0441\u0456 \u0431\u043b\u043e\u0433\u0438",
+      "url": "/block-blogs"
+    },
+    {
+      "text": "\n                \u0424\u043e\u0442\u043e \u0434\u043d\u044f",
+      "url": "https://photonew.ukrinform.com"
+    },
+    {
+      "text": "\n                \n            ",
+      "url": "https://photonew.ukrinform.com"
+    },
+    {
+      "text": "\u041f\u0440\u0435\u0441-\u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0456\u0457",
+      "url": "/block-conferences"
+    },
+    {
+      "text": "\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044f \u043d\u0430 \u0444\u0440\u043e\u043d\u0442\u0456",
+      "url": "#"
+    },
+    {
+      "text": "\u0406\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0456\u044f \u0432 \u0454\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u044c\u043a\u0438\u0439 \u043c\u0435\u0434\u0456\u0430\u043f\u0440\u043e\u0441\u0442\u0456\u0440. \u0414\u043e\u0440\u043e\u0436\u043d\u044f \u043a\u0430\u0440\u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+      "url": "#"
+    },
+    {
+      "text": "\u0420\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0442\u0435\u0440\u043e\u0440 \u0442\u0430 \u0433\u0435\u043d\u043e\u0446\u0438\u0434 \u0449\u043e\u0434\u043e \u0423\u043a\u0440\u0430\u0457\u043d\u0438: \u043a\u043e\u043b\u0438 \u043f\u043e\u0431\u0430\u0447\u0438\u043c\u043e \u043f\u043e\u043a\u0430\u0440\u0430\u043d\u043d\u044f \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0446\u0456\u0432",
+      "url": "#"
+    },
+    {
+      "text": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0430 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f \u043f\u0440\u043e \u043f\u043e\u0433\u0456\u0440\u0448\u0435\u043d\u043d\u044f \u0433\u0443\u043c\u0430\u043d\u0456\u0442\u0430\u0440\u043d\u043e\u0457 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u0457 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u043f\u0456\u0441\u043b\u044f \u0447\u043e\u0442\u0438\u0440\u044c\u043e\u0445 \u043c\u0456\u0441\u044f\u0446\u0456\u0432 \u0432\u0456\u0439\u043d\u0438",
+      "url": "#"
+    },
+    {
+      "text": "\u041f\u0440\u043e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0445 \u043f\u0435\u0440\u0435\u0439\u043c\u0435\u043d\u0443\u0432\u0430\u043d\u044c \u043c\u0456\u0441\u044c\u043a\u0438\u0445 \u043e\u0431'\u0454\u043a\u0442\u0456\u0432",
+      "url": "#"
+    },
+    {
+      "text": "\u041f\u0440\u043e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0445 \u043f\u0435\u0440\u0435\u0439\u043c\u0435\u043d\u0443\u0432\u0430\u043d\u044c \u043c\u0456\u0441\u044c\u043a\u0438\u0445 \u043e\u0431'\u0454\u043a\u0442\u0456\u0432",
+      "url": "/rubric-diaspora/3516831-pro-problemi-sucasnih-perejmenuvan-miskih-obektiv.html"
+    },
+    {
+      "text": "\u0447\u0438\u0442\u0430\u0442\u0438 \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e",
+      "url": "/rubric-diaspora/3516831-pro-problemi-sucasnih-perejmenuvan-miskih-obektiv.html"
+    },
+    {
+      "text": "\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044f \u043d\u0430 \u0444\u0440\u043e\u043d\u0442\u0456",
+      "url": "/rubric-diaspora/3518076-operativna-situacia-na-fronti.html"
+    },
+    {
+      "text": "\u0447\u0438\u0442\u0430\u0442\u0438 \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e",
+      "url": "/rubric-diaspora/3518076-operativna-situacia-na-fronti.html"
+    },
+    {
+      "text": "\u0406\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0456\u044f \u0432 \u0454\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u044c\u043a\u0438\u0439 \u043c\u0435\u0434\u0456\u0430\u043f\u0440\u043e\u0441\u0442\u0456\u0440. \u0414\u043e\u0440\u043e\u0436\u043d\u044f \u043a\u0430\u0440\u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+      "url": "/rubric-diaspora/3518063-integracia-v-evropejskij-mediaprostir-dorozna-karta-ukraini.html"
+    },
+    {
+      "text": "\u0447\u0438\u0442\u0430\u0442\u0438 \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e",
+      "url": "/rubric-diaspora/3518063-integracia-v-evropejskij-mediaprostir-dorozna-karta-ukraini.html"
+    },
+    {
+      "text": "\u0420\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0442\u0435\u0440\u043e\u0440 \u0442\u0430 \u0433\u0435\u043d\u043e\u0446\u0438\u0434 \u0449\u043e\u0434\u043e \u0423\u043a\u0440\u0430\u0457\u043d\u0438: \u043a\u043e\u043b\u0438 \u043f\u043e\u0431\u0430\u0447\u0438\u043c\u043e \u043f\u043e\u043a\u0430\u0440\u0430\u043d\u043d\u044f \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0446\u0456\u0432",
+      "url": "/rubric-diaspora/3517086-rosijskij-teror-ta-genocid-sodo-ukraini-koli-pobacimo-pokaranna-rosijskih-zlocinciv.html"
+    },
+    {
+      "text": "\u0447\u0438\u0442\u0430\u0442\u0438 \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e",
+      "url": "/rubric-diaspora/3517086-rosijskij-teror-ta-genocid-sodo-ukraini-koli-pobacimo-pokaranna-rosijskih-zlocinciv.html"
+    },
+    {
+      "text": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0430 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f \u043f\u0440\u043e \u043f\u043e\u0433\u0456\u0440\u0448\u0435\u043d\u043d\u044f \u0433\u0443\u043c\u0430\u043d\u0456\u0442\u0430\u0440\u043d\u043e\u0457 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u0457 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u043f\u0456\u0441\u043b\u044f \u0447\u043e\u0442\u0438\u0440\u044c\u043e\u0445 \u043c\u0456\u0441\u044f\u0446\u0456\u0432 \u0432\u0456\u0439\u043d\u0438",
+      "url": "/rubric-diaspora/3518032-aktualna-informacia-pro-pogirsenna-gumanitarnoi-situacii-v-ukraini-pisla-cotiroh-misaciv-vijni.html"
+    },
+    {
+      "text": "\u0447\u0438\u0442\u0430\u0442\u0438 \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e",
+      "url": "/rubric-diaspora/3518032-aktualna-informacia-pro-pogirsenna-gumanitarnoi-situacii-v-ukraini-pisla-cotiroh-misaciv-vijni.html"
+    },
+    {
+      "text": "\u041f\u0440\u043e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0445 \u043f\u0435\u0440\u0435\u0439\u043c\u0435\u043d\u0443\u0432\u0430\u043d\u044c \u043c\u0456\u0441\u044c\u043a\u0438\u0445 \u043e\u0431'\u0454\u043a\u0442\u0456\u0432",
+      "url": "/rubric-diaspora/3516831-pro-problemi-sucasnih-perejmenuvan-miskih-obektiv.html"
+    },
+    {
+      "text": "\u0447\u0438\u0442\u0430\u0442\u0438 \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e",
+      "url": "/rubric-diaspora/3516831-pro-problemi-sucasnih-perejmenuvan-miskih-obektiv.html"
+    },
+    {
+      "text": "\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044f \u043d\u0430 \u0444\u0440\u043e\u043d\u0442\u0456",
+      "url": "/rubric-diaspora/3518076-operativna-situacia-na-fronti.html"
+    },
+    {
+      "text": "\u0447\u0438\u0442\u0430\u0442\u0438 \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e",
+      "url": "/rubric-diaspora/3518076-operativna-situacia-na-fronti.html"
+    },
+    {
+      "text": "Prev",
+      "url": ""
+    },
+    {
+      "text": "Next",
+      "url": ""
+    },
+    {
+      "text": "\u0411\u0456\u043b\u044c\u0448\u0435 \u043f\u0440\u0435\u0441-\u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0456\u0439",
+      "url": "block-conference-last"
+    },
+    {
+      "text": "\u0410\u043d\u043e\u043d\u0441\u0438",
+      "url": "/block-conferences"
+    },
+    {
+      "text": "\u0424\u0456\u043a\u0441\u0430\u0446\u0456\u044f \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432. \u041f\u043e\u0434\u0430\u043d\u043d\u044f 14 \u0456\u0441\u0442\u043e\u0440\u0456\u0439 \u043d\u0430 \u0440\u043e\u0437\u0433\u043b\u044f\u0434 \u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043a\u0440\u0438\u043c\u0456\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0443\u0434\u0443 \u0432 \u0413\u0430\u0430\u0437\u0456",
+      "url": "/rubric-diaspora/3518101-fiksacia-voennih-zlociniv-podanna-14-istorij-na-rozglad-miznarodnogo-kriminalnogo-sudu-v-gaazi.html"
+    },
+    {
+      "text": "\u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c \u0443 \u043f\u0440\u043e\u0442\u0438\u0434\u0456\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0439\u043d\u0456\u0439 \u0430\u0433\u0440\u0435\u0441\u0456\u0457 \u043f\u0440\u043e\u0442\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+      "url": "/rubric-diaspora/3518625-strategia-ukrainciv-za-kordonom-u-protidii-informacijnij-agresii-proti-ukraini.html"
+    },
+    {
+      "text": "\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0456\u044f \u043f\u0456\u0434\u0440\u0443\u0447\u043d\u0438\u043a\u0430 \u0454\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u044c\u043a\u043e\u0457 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u043e\u0457 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u0437 \u043f\u0440\u043e\u0444\u0456\u043b\u0430\u043a\u0442\u0438\u043a\u0438 \u0432\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u043f\u0441\u0438\u0445\u043e\u0430\u043a\u0442\u0438\u0432\u043d\u0438\u0445 \u0440\u0435\u0447\u043e\u0432\u0438\u043d",
+      "url": "/rubric-diaspora/3518738-prezentacia-pidrucnika-evropejskoi-navcalnoi-programi-z-profilaktiki-vzivanna-psihoaktivnih-recovin.html"
+    },
+    {
+      "text": "\u0412\u0456\u0439\u043d\u0430",
+      "url": "/rubric-ato"
+    },
+    {
+      "text": "#UA\u0440\u0430\u0437\u043e\u043c",
+      "url": "/rubric-uarazom"
+    },
+    {
+      "text": "\u041f\u043e\u043b\u0456\u0442\u0438\u043a\u0430",
+      "url": "/rubric-polytics"
+    },
+    {
+      "text": "\u0415\u043a\u043e\u043d\u043e\u043c\u0456\u043a\u0430",
+      "url": "/rubric-economy"
+    },
+    {
+      "text": "\u0421\u0432\u0456\u0442",
+      "url": "/rubric-world"
+    },
+    {
+      "text": "\u0421\u0443c\u043f\u0456\u043b\u044cc\u0442\u0432\u043e",
+      "url": "/rubric-society"
+    },
+    {
+      "text": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+      "url": "/rubric-culture"
+    },
+    {
+      "text": "\u0420\u0435\u0433\u0456\u043e\u043d\u0438",
+      "url": "/rubric-regions"
+    },
+    {
+      "text": "\u041a\u0438\u0457\u0432",
+      "url": "/rubric-kyiv"
+    },
+    {
+      "text": "\u041a\u0440\u0438\u043c",
+      "url": "/rubric-crimea"
+    },
+    {
+      "text": "\u0421\u043f\u043e\u0440\u0442",
+      "url": "/rubric-sports"
+    },
+    {
+      "text": "\u0414\u0456\u0430c\u043f\u043e\u0440\u0430",
+      "url": "/rubric-diaspora"
+    },
+    {
+      "text": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u0457",
+      "url": "/rubric-technology"
+    },
+    {
+      "text": " \u041f\u0440\u043e \u043d\u0430\u0441 ",
+      "url": "/info/about_agency.html"
+    },
+    {
+      "text": " \u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0438 ",
+      "url": "/info/contacts.html"
+    },
+    {
+      "text": " \u041f\u0435\u0440\u0435\u0434\u043f\u043b\u0430\u0442\u0430 ",
+      "url": "/info/subscribe_conditions.html"
+    },
+    {
+      "text": " \u041f\u043e\u0441\u043b\u0443\u0433\u0438 ",
+      "url": "/info/services.html"
+    },
+    {
+      "text": " \u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u044f ",
+      "url": "/info/reg_rules.html"
+    },
+    {
+      "text": " \u0414\u041e\u041c ",
+      "url": "/info/uatv.html"
+    },
+    {
+      "text": " \u0422\u0435\u043d\u0434\u0435\u0440\u0438 ",
+      "url": "/info/tenders.html"
+    },
+    {
+      "text": " \u0417\u0430\u043f\u043e\u0431\u0456\u0433\u0430\u043d\u043d\u044f \u0442\u0430 \u043f\u0440\u043e\u0442\u0438\u0434\u0456\u044f \u043a\u043e\u0440\u0443\u043f\u0446\u0456\u0457 ",
+      "url": "/info/zapkor.html"
+    },
+    {
+      "text": " \u041f\u043e\u043b\u0456\u0442\u0438\u043a\u0430 \u043a\u043e\u043d\u0444\u0456\u0434\u0435\u043d\u0446\u0456\u0439\u043d\u043e\u0441\u0442\u0456 \u0442\u0430 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0445 \u0434\u0430\u043d\u0438\u0445  ",
+      "url": "/info/policy.html"
+    },
+    {
+      "text": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u0438",
+      "url": "/block-podcasts"
+    },
+    {
+      "text": "\u041f\u0443\u0431\u043b\u0456\u043a\u0430\u0446\u0456\u0457",
+      "url": "/block-publications"
+    },
+    {
+      "text": "\u0406\u043d\u0442\u0435\u0440\u0432'\u044e",
+      "url": "/block-interview"
+    },
+    {
+      "text": "\u0424\u043e\u0442\u043e",
+      "url": "/block-photo"
+    },
+    {
+      "text": "\u0412\u0456\u0434\u0435\u043e",
+      "url": "/block-video"
+    },
+    {
+      "text": "\u0411\u043b\u043e\u0433\u0438",
+      "url": "/block-blogs"
+    },
+    {
+      "text": "\u0406\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0456\u043a\u0430",
+      "url": "/block-infographics"
+    },
+    {
+      "text": "\u041b\u043e\u043d\u0433\u0440\u0456\u0434\u0438",
+      "url": "/block-longreads"
+    },
+    {
+      "text": "\u041a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0456\u0457",
+      "url": "/block-conferences"
+    },
+    {
+      "text": "\u041e\u0444\u0456\u0446\u0456\u0439\u043d\u0456 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438",
+      "url": "/block-docs"
+    },
+    {
+      "text": "\u0420\u0435\u043b\u0456\u0437\u0438",
+      "url": "/block-releases"
+    },
+    {
+      "text": "\u0421\u0442\u0443\u0434\u0456\u044f \u00abLaconica\u00bb",
+      "url": "http://laconicastudio.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/ukrinform/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Ukrinform?fref=ts"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/UKRINFORM"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/c/UkrinformTV"
+    },
+    {
+      "text": "",
+      "url": "https://telegram.me/ukrinform_news"
+    },
+    {
+      "text": "",
+      "url": "https://www.pinterest.com/ukrinform/"
+    },
+    {
+      "text": "",
+      "url": "#extended"
+    },
+    {
+      "text": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043f\u043e\u0448\u0443\u043a\u041f\u0440\u0438\u0445\u043e\u0432\u0430\u0442\u0438 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043f\u043e\u0448\u0443\u043a",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    }
+  ],
+  "uniq": 54512696,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

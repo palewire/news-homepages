@@ -1,5 +1,5 @@
 {
-  "created": 1656547270,
+  "created": 1656635014,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/16/items/marshallproj-2022",
@@ -2262,31 +2262,325 @@
       "sha1": "f8874636f649a3b3aa552eec367fe703b8beb4e5"
     },
     {
+      "name": "marshallproj-2022-06-29T21:32:11.496382-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552734",
+      "size": "15667",
+      "md5": "026341331efb00188bf55eb114336958",
+      "crc32": "9d394195",
+      "sha1": "045442a5c6117fd959c2ef15c40d773d0d631be6",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-29T21:32:11.496382-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552736",
+      "size": "20811",
+      "md5": "7b7b20d4818402eb4aedcfcb339ca7eb",
+      "crc32": "1b3a9713",
+      "sha1": "f4689787c8a5b745dc08056edde04ccf05e6ffd0",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-29T21:32:11.496382-04:00.jpg",
+      "source": "original",
+      "mtime": "1656552733",
+      "size": "165895",
+      "md5": "d7561276e06df724f88ab9e195fd5aca",
+      "crc32": "9cd83688",
+      "sha1": "ef2c2963ef65fa5c30a52f370f083a32ad950fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-06-29T21:32:11.496382-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-06-29T21:32:11.496382-04:00.jpg",
+      "mtime": "1656552789",
+      "size": "8001",
+      "md5": "32cd256e6908338f72afb8693e77ff51",
+      "crc32": "e8d35a9d",
+      "sha1": "f8874636f649a3b3aa552eec367fe703b8beb4e5"
+    },
+    {
+      "name": "marshallproj-2022-06-29T23:45:19.542196-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560727",
+      "size": "15667",
+      "md5": "026341331efb00188bf55eb114336958",
+      "crc32": "9d394195",
+      "sha1": "045442a5c6117fd959c2ef15c40d773d0d631be6",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-29T23:45:19.542196-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560728",
+      "size": "20811",
+      "md5": "7b7b20d4818402eb4aedcfcb339ca7eb",
+      "crc32": "1b3a9713",
+      "sha1": "f4689787c8a5b745dc08056edde04ccf05e6ffd0",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-29T23:45:19.542196-04:00.jpg",
+      "source": "original",
+      "mtime": "1656560725",
+      "size": "165895",
+      "md5": "d7561276e06df724f88ab9e195fd5aca",
+      "crc32": "9cd83688",
+      "sha1": "ef2c2963ef65fa5c30a52f370f083a32ad950fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-06-29T23:45:19.542196-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-06-29T23:45:19.542196-04:00.jpg",
+      "mtime": "1656560776",
+      "size": "8001",
+      "md5": "32cd256e6908338f72afb8693e77ff51",
+      "crc32": "e8d35a9d",
+      "sha1": "f8874636f649a3b3aa552eec367fe703b8beb4e5"
+    },
+    {
+      "name": "marshallproj-2022-06-30T01:13:08.995771-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656565992",
+      "size": "15667",
+      "md5": "026341331efb00188bf55eb114336958",
+      "crc32": "9d394195",
+      "sha1": "045442a5c6117fd959c2ef15c40d773d0d631be6",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T01:13:08.995771-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656565993",
+      "size": "20811",
+      "md5": "7b7b20d4818402eb4aedcfcb339ca7eb",
+      "crc32": "1b3a9713",
+      "sha1": "f4689787c8a5b745dc08056edde04ccf05e6ffd0",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T01:13:08.995771-04:00.jpg",
+      "source": "original",
+      "mtime": "1656565990",
+      "size": "165895",
+      "md5": "d7561276e06df724f88ab9e195fd5aca",
+      "crc32": "9cd83688",
+      "sha1": "ef2c2963ef65fa5c30a52f370f083a32ad950fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-06-30T01:13:08.995771-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-06-30T01:13:08.995771-04:00.jpg",
+      "mtime": "1656566058",
+      "size": "8001",
+      "md5": "32cd256e6908338f72afb8693e77ff51",
+      "crc32": "e8d35a9d",
+      "sha1": "f8874636f649a3b3aa552eec367fe703b8beb4e5"
+    },
+    {
+      "name": "marshallproj-2022-06-30T03:03:53.307970-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572635",
+      "size": "15667",
+      "md5": "026341331efb00188bf55eb114336958",
+      "crc32": "9d394195",
+      "sha1": "045442a5c6117fd959c2ef15c40d773d0d631be6",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T03:03:53.307970-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572636",
+      "size": "20811",
+      "md5": "7b7b20d4818402eb4aedcfcb339ca7eb",
+      "crc32": "1b3a9713",
+      "sha1": "f4689787c8a5b745dc08056edde04ccf05e6ffd0",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T03:03:53.307970-04:00.jpg",
+      "source": "original",
+      "mtime": "1656572634",
+      "size": "165895",
+      "md5": "d7561276e06df724f88ab9e195fd5aca",
+      "crc32": "9cd83688",
+      "sha1": "ef2c2963ef65fa5c30a52f370f083a32ad950fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-06-30T03:03:53.307970-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-06-30T03:03:53.307970-04:00.jpg",
+      "mtime": "1656572684",
+      "size": "8001",
+      "md5": "32cd256e6908338f72afb8693e77ff51",
+      "crc32": "e8d35a9d",
+      "sha1": "f8874636f649a3b3aa552eec367fe703b8beb4e5"
+    },
+    {
+      "name": "marshallproj-2022-06-30T05:07:19.891302-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580047",
+      "size": "15667",
+      "md5": "026341331efb00188bf55eb114336958",
+      "crc32": "9d394195",
+      "sha1": "045442a5c6117fd959c2ef15c40d773d0d631be6",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T05:07:19.891302-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580048",
+      "size": "20811",
+      "md5": "7b7b20d4818402eb4aedcfcb339ca7eb",
+      "crc32": "1b3a9713",
+      "sha1": "f4689787c8a5b745dc08056edde04ccf05e6ffd0",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T05:07:19.891302-04:00.jpg",
+      "source": "original",
+      "mtime": "1656580045",
+      "size": "165895",
+      "md5": "d7561276e06df724f88ab9e195fd5aca",
+      "crc32": "9cd83688",
+      "sha1": "ef2c2963ef65fa5c30a52f370f083a32ad950fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-06-30T05:07:19.891302-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-06-30T05:07:19.891302-04:00.jpg",
+      "mtime": "1656580109",
+      "size": "8001",
+      "md5": "32cd256e6908338f72afb8693e77ff51",
+      "crc32": "e8d35a9d",
+      "sha1": "f8874636f649a3b3aa552eec367fe703b8beb4e5"
+    },
+    {
+      "name": "marshallproj-2022-06-30T07:03:23.769470-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587006",
+      "size": "15663",
+      "md5": "539dea79ef937647233da14f509191a9",
+      "crc32": "b92c9cb8",
+      "sha1": "8755294d1248ad4889f3adbeb193f2c868f3ddf0",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T07:03:23.769470-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587008",
+      "size": "20802",
+      "md5": "660442098d05d490cdf9d39d779b7153",
+      "crc32": "e8e02b17",
+      "sha1": "8486cdd548fdbeab1577b19d041621305d9235c4",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T07:03:23.769470-04:00.jpg",
+      "source": "original",
+      "mtime": "1656587005",
+      "size": "165895",
+      "md5": "d7561276e06df724f88ab9e195fd5aca",
+      "crc32": "9cd83688",
+      "sha1": "ef2c2963ef65fa5c30a52f370f083a32ad950fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-06-30T07:03:23.769470-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-06-30T07:03:23.769470-04:00.jpg",
+      "mtime": "1656587060",
+      "size": "8001",
+      "md5": "32cd256e6908338f72afb8693e77ff51",
+      "crc32": "e8d35a9d",
+      "sha1": "f8874636f649a3b3aa552eec367fe703b8beb4e5"
+    },
+    {
+      "name": "marshallproj-2022-06-30T09:07:50.640361-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594474",
+      "size": "15613",
+      "md5": "0b49f19807d8e32119282768da3e8802",
+      "crc32": "de2cb5a7",
+      "sha1": "ecb7bd933c7ae6e2b178663d3ea7293f155c8a59",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T09:07:50.640361-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594475",
+      "size": "20720",
+      "md5": "22cab8f493bb3539d2d3a97354fa83c6",
+      "crc32": "feaeba2a",
+      "sha1": "39fbd62a0b241aebe999f5c8df26c5cd7a1b86af",
+      "format": "JSON"
+    },
+    {
+      "name": "marshallproj-2022-06-30T09:07:50.640361-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594472",
+      "size": "165895",
+      "md5": "d7561276e06df724f88ab9e195fd5aca",
+      "crc32": "9cd83688",
+      "sha1": "ef2c2963ef65fa5c30a52f370f083a32ad950fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marshallproj-2022-06-30T09:07:50.640361-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-06-30T09:07:50.640361-04:00.jpg",
+      "mtime": "1656594534",
+      "size": "8001",
+      "md5": "32cd256e6908338f72afb8693e77ff51",
+      "crc32": "e8d35a9d",
+      "sha1": "f8874636f649a3b3aa552eec367fe703b8beb4e5"
+    },
+    {
       "name": "marshallproj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1ab7737cbfe93bb5fc65600ff902c38d5850a893",
-      "mtime": "1656544120",
-      "size": "47362",
-      "md5": "c85719d67ab25c2283f9cedee29468d2",
-      "crc32": "feedaa88",
-      "sha1": "1d3a74ed8dbd65f0933d818b5b45cc5437c65987",
+      "btih": "2f40a74a8ac864a469de49567bf1783ee1b9499a",
+      "mtime": "1656594539",
+      "size": "53337",
+      "md5": "bf8774903f7300847e740e9f4ed68cfc",
+      "crc32": "8572757f",
+      "sha1": "e507072f59e475243576fdd546e89a06ad690655",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marshallproj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b102fc314722b3af0e95cc3bf47b9c0",
+      "md5": "cc5ace1d56f195d2018460c6aee37c9c",
       "summation": "md5"
     },
     {
       "name": "marshallproj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544071",
-      "size": "270336",
-      "md5": "44270f46b0f68183b90069877fced88b",
-      "crc32": "169aac6f",
-      "sha1": "f0f260c697db20df4a63c4e845bc452e68437939",
+      "mtime": "1656594479",
+      "size": "299008",
+      "md5": "dd04173d82b7a194a4de2e4112aaa1c9",
+      "crc32": "171bc4d8",
+      "sha1": "43565e1498c39178c67f5fdf9a2b30d7d9756e0f",
       "format": "Metadata"
     },
     {
@@ -2300,9 +2594,471 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 219,
-  "item_last_updated": 1656544120,
-  "item_size": 12711033,
+  "files_count": 247,
+  "item_last_updated": 1656594539,
+  "item_size": 14218140,
+  "marshallproj-2022": [
+    {
+      "text": "\n      \n  \n    \n      .logo-fill {\n        fill: #fff;\n      }\n    \n  \n  The Marshall Project\n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n    ",
+      "url": "/?ref=nav"
+    },
+    {
+      "text": "Search",
+      "url": "/search?via=navright"
+    },
+    {
+      "text": "About",
+      "url": "/about?via=navright"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters?via=navright"
+    },
+    {
+      "text": "Donate",
+      "url": "/donate?via=7010d000000xq2j"
+    },
+    {
+      "text": "Life Inside",
+      "url": "/tag/life-inside"
+    },
+    {
+      "text": "News Inside",
+      "url": "/tag/news-inside"
+    },
+    {
+      "text": "Mauled",
+      "url": "/mauled"
+    },
+    {
+      "text": "The Language Project",
+      "url": "/2021/04/12/the-language-project"
+    },
+    {
+      "text": "The Record",
+      "url": "/records"
+    },
+    {
+      "text": "The System",
+      "url": "/the-system"
+    },
+    {
+      "text": "We Are Witnesses",
+      "url": "/we-are-witnesses"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "/coronavirus"
+    },
+    {
+      "text": "Regional Reporting",
+      "url": "/tag/regional-reporting"
+    },
+    {
+      "text": "Death Penalty",
+      "url": "/records/4-death-penalty"
+    },
+    {
+      "text": "Immigration",
+      "url": "/records/31-immigration"
+    },
+    {
+      "text": "Juvenile Justice",
+      "url": "/records/2-juvenile-justice"
+    },
+    {
+      "text": "Mental Health",
+      "url": "/records/42-mental-health"
+    },
+    {
+      "text": "Policing",
+      "url": "/records/48-policing"
+    },
+    {
+      "text": "Politics and Reform",
+      "url": "/records/611-politics-of-criminal-justice"
+    },
+    {
+      "text": "Race",
+      "url": "/records/411-race"
+    },
+    {
+      "text": "About Us",
+      "url": "/about"
+    },
+    {
+      "text": "News & Awards",
+      "url": "/tag/news-and-awards"
+    },
+    {
+      "text": "Impact",
+      "url": "/about/impact"
+    },
+    {
+      "text": "People",
+      "url": "/people"
+    },
+    {
+      "text": "Supporters",
+      "url": "/funders"
+    },
+    {
+      "text": "Jobs",
+      "url": "/jobs"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters?ref=menu"
+    },
+    {
+      "text": "Events",
+      "url": "/events"
+    },
+    {
+      "text": "Donate",
+      "url": "/donate?via=7010d000000xq2o"
+    },
+    {
+      "text": "\n          \n        ",
+      "url": "https://www.instagram.com/marshallproj/"
+    },
+    {
+      "text": "\n          \n        ",
+      "url": "https://twitter.com/MarshallProj"
+    },
+    {
+      "text": "\n          \n        ",
+      "url": "https://www.facebook.com/TheMarshallProject.org"
+    },
+    {
+      "text": "\n          \n        ",
+      "url": "https://www.reddit.com/user/marshall_project/"
+    },
+    {
+      "text": "support@themarshallproject.org",
+      "url": "mailto:support@themarshallproject.org"
+    },
+    {
+      "text": "Death Sentences",
+      "url": "/tag/death-sentences"
+    },
+    {
+      "text": "\n          \n            The Supreme Court Let The Death Penalty Flourish. Now Americans are Ending It Themselves.\n          \n        ",
+      "url": "/2022/06/29/the-supreme-court-let-the-death-penalty-flourish-now-americans-are-ending-it-themselves"
+    },
+    {
+      "text": "Graphics",
+      "url": "/tag/graphics"
+    },
+    {
+      "text": "\n          \n            Out on Parole in Colorado? You Can Vote.\n          \n        ",
+      "url": "/2022/06/23/out-on-parole-in-colorado-you-can-vote"
+    },
+    {
+      "text": "News",
+      "url": "/tag/news"
+    },
+    {
+      "text": "\n          \n            Louisiana Limits Solitary Confinement for Youth\n          \n        ",
+      "url": "/2022/06/22/louisiana-limits-solitary-confinement-for-youth"
+    },
+    {
+      "text": "More about our emails",
+      "url": "/newsletters?ref=banner-details"
+    },
+    {
+      "text": "News and Awards",
+      "url": "/tag/news-and-awards"
+    },
+    {
+      "text": "\n          \n            Data Reporter Geoff Hing Joins The Marshall Project\n          \n          \n            Hing will expand investigative data journalism and reporting to expose abuses in criminal justice.\n          \n        ",
+      "url": "/2022/06/28/data-reporter-geoff-hing-joins-the-marshall-project"
+    },
+    {
+      "text": "\n          \n          ",
+      "url": "/2022/06/17/a-letter-from-our-cleveland-editor-in-chief"
+    },
+    {
+      "text": "News and Awards",
+      "url": "/tag/news-and-awards"
+    },
+    {
+      "text": "\n          \n            A Letter from our Cleveland Editor-in-Chief\n          \n          \n            The Marshall Project: A Journalism Public Service, Now Serving Cleveland\n          \n        ",
+      "url": "/2022/06/17/a-letter-from-our-cleveland-editor-in-chief"
+    },
+    {
+      "text": "Jim Crutchfield",
+      "url": "https://www.themarshallproject.org/staff/jim-crutchfield"
+    },
+    {
+      "text": "",
+      "url": "/records"
+    },
+    {
+      "text": "most popular topics",
+      "url": "/records"
+    },
+    {
+      "text": "\n                \n                  \n                    \n                      \n                        \n                      \n                      Supreme Court\n                    \n                  \n                \n              ",
+      "url": "/records/177-supreme-court"
+    },
+    {
+      "text": "\n                \n                  \n                    \n                      \n                        \n                      \n                      Roe v. Wade\n                    \n                  \n                \n              ",
+      "url": "/records/2807-roe-v-wade"
+    },
+    {
+      "text": "\n                \n                  \n                    \n                      \n                        \n                      \n                      Abortion\n                    \n                  \n                \n              ",
+      "url": "/records/1067-abortion"
+    },
+    {
+      "text": "\n                \n                  \n                    \n                      \n                        \n                      \n                      Texas\n                    \n                  \n                \n              ",
+      "url": "/records/243-texas"
+    },
+    {
+      "text": "\n                \n                  \n                    \n                      \n                        \n                      \n                      Dobbs v. Jackson Women's Health\n                    \n                  \n                \n              ",
+      "url": "/records/10822-dobbs-v-jackson-women-s-health"
+    },
+    {
+      "text": "\n                \n                  \n                    \n                      \n                        \n                      \n                      criminalizing abortion\n                    \n                  \n                \n              ",
+      "url": "/records/7582-criminalizing-abortion"
+    },
+    {
+      "text": "\n                \n                  \n                    \n                      \n                        \n                      \n                      Gun Violence\n                    \n                  \n                \n              ",
+      "url": "/records/26-gun-violence"
+    },
+    {
+      "text": "\n                \n                  \n                    \n                      \n                        \n                      \n                      New York\n                    \n                  \n                \n              ",
+      "url": "/records/162-new-york"
+    },
+    {
+      "text": "\n          \n          ",
+      "url": "/2022/06/17/i-joined-the-parole-board-to-make-a-difference-now-i-call-it-conveyor-belt-justice"
+    },
+    {
+      "text": "Life Inside",
+      "url": "/tag/life-inside"
+    },
+    {
+      "text": "\n          \n            I Joined the Parole Board to Make a Difference. Now I Call It \u2018Conveyor Belt Justice.\u2019\n          \n          \n            Between the grueling schedule, copious paperwork, abrupt hearings and risk-averse colleagues, prison reformer Carol Shapiro realized the New York parole system was dysfunctional by design.\n          \n        ",
+      "url": "/2022/06/17/i-joined-the-parole-board-to-make-a-difference-now-i-call-it-conveyor-belt-justice"
+    },
+    {
+      "text": "Beth Schwartzapfel",
+      "url": "https://www.themarshallproject.org/staff/beth-schwartzapfel"
+    },
+    {
+      "text": "\n          \n          ",
+      "url": "/2022/06/16/no-place-for-a-child"
+    },
+    {
+      "text": "Feature",
+      "url": "/tag/feature"
+    },
+    {
+      "text": "\n          \n            \u201cNo Place for A Child\u201d\n          \n          \n            In cells built for adults, one-third are child migrants. Border authorities have resisted improving conditions for minors in crowded, freezing facilities.\n          \n        ",
+      "url": "/2022/06/16/no-place-for-a-child"
+    },
+    {
+      "text": "Anna Flagg",
+      "url": "https://www.themarshallproject.org/staff/anna-flagg"
+    },
+    {
+      "text": "Julia Preston",
+      "url": "https://www.themarshallproject.org/staff/julia-preston"
+    },
+    {
+      "text": "\n          \n          ",
+      "url": "/2022/06/02/lawmakers-call-for-probe-into-deadly-federal-prison-in-illinois"
+    },
+    {
+      "text": "News",
+      "url": "/tag/news"
+    },
+    {
+      "text": "\n          \n             Lawmakers Call for Probe Into Deadly Federal Prison\n          \n          \n            Following a Marshall Project/NPR report detailing violence and abuse at the newest federal penitentiary, three members of Congress asked the Justice Department\u2019s inspector general to investigate. \n          \n        ",
+      "url": "/2022/06/02/lawmakers-call-for-probe-into-deadly-federal-prison-in-illinois"
+    },
+    {
+      "text": "Christie Thompson",
+      "url": "https://www.themarshallproject.org/staff/christie-thompson"
+    },
+    {
+      "text": "\n          \n          ",
+      "url": "/2022/06/14/announcing-the-marshall-project-cleveland"
+    },
+    {
+      "text": "News and Awards",
+      "url": "/tag/news-and-awards"
+    },
+    {
+      "text": "\n          \n            The Marshall Project Announces Cleveland Local News Team\n          \n          \n            A roster of award-winning journalists will produce investigative, data and engagement journalism to serve the people of Cuyahoga County, including those affected by its criminal justice system.\n          \n        ",
+      "url": "/2022/06/14/announcing-the-marshall-project-cleveland"
+    },
+    {
+      "text": "this mornings\u2019s email",
+      "url": "http://eepurl.com/h5CPDb"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Supreme Court Narrows Ruling for Tribes in Oklahoma\n                      \n                    \n                  \n                ",
+      "url": "https://www.nytimes.com/2022/06/29/us/supreme-court-ruling-oklahoma-tribes.html"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Missouri hospital stops offering Plan B, cites abortion ban\n                      \n                    \n                  \n                ",
+      "url": "https://amp.kansascity.com/news/politics-government/article262988028.html"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        FBI Eyed Idaho's White Nationalist 'Patriot Front' for a Year\n                      \n                    \n                  \n                ",
+      "url": "https://www.rollingstone.com/politics/politics-news/lgbtq-fbi-patriot-front-proud-boys-1375145/"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        San Antonio Tractor-Trailer Deaths Add to Rising Border Death Toll\n                      \n                    \n                  \n                ",
+      "url": "https://www.wsj.com/articles/san-antonio-tractor-trailer-deaths-add-to-rising-border-death-toll-11656502081"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        R. Kelly sentenced to 30 years in NY sex-trafficking case\n                      \n                    \n                  \n                ",
+      "url": "https://www.latimes.com/entertainment-arts/music/story/2022-06-29/r-kelly-sentenced-sex-trafficking-racketeering-case"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Chicago Teens on What Would Reduce Gun Violence\n                      \n                    \n                  \n                ",
+      "url": "https://www.thetrace.org/2022/06/chicago-gun-violence-summer-curfew/"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Jury is chosen to decide Florida school shooter's sentence\n                      \n                    \n                  \n                ",
+      "url": "https://apnews.com/article/education-florida-fort-lauderdale-parkland-school-shooting-nikolas-cruz-da4adabf12abd070d3e3e59d20105674"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Anti-Black, gay, Asian bias fuel California hate crime surge\n                      \n                    \n                  \n                ",
+      "url": "https://apnews.com/article/covid-health-crime-california-race-and-ethnicity-dfa510a5200e60f1b5f04e191b5414bc"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Former Congressman Fortenberry dodges prison time for concealing illegal campaign donation\n                      \n                    \n                  \n                ",
+      "url": "https://www.courthousenews.com/former-congressman-fortenberry-dodges-prison-time-for-concealing-illegal-campaign-donation/"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Hutchinson Testimony: A Deranged, Seditious President\n                      \n                    \n                  \n                ",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-deranged-seditious-president/661424/"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Opinion\n                      \n                    \n                  \n                ",
+      "url": "https://www.washingtonpost.com/opinions/2022/06/27/republican-religion-prevent-gun-violence/"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Secret Solitary \u2013 Guernica\n                      \n                    \n                  \n                ",
+      "url": "https://www.guernicamag.com/secret-solitary/"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Opinion\n                      \n                    \n                  \n                ",
+      "url": "https://www.nytimes.com/2022/06/24/opinion/addiction-overdose-mental-health.html"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        The Supreme Court\u2019s Unusual Move on the Death Penalty\n                      \n                    \n                  \n                ",
+      "url": "https://www.politico.com/news/magazine/2022/06/28/supreme-court-death-penalty-00042768"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Sentencing Law and Policy: Homicides (perhaps) trending down through first half of 2022, including in big cities like Chicago, New York City and Philadelphia\n                      \n                    \n                  \n                ",
+      "url": "https://sentencing.typepad.com/sentencing_law_and_policy/2022/06/homicides-way-down-to-start-in-2022-in-chicago-dallas-milwaukee-and-washington-dc-.html"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Biden Will Get His Man at ATF. But What Will Steve Dettelbach Do?\n                      \n                    \n                  \n                ",
+      "url": "https://newrepublic.com/article/166881/steve-dettelbach-atf-nominee-biden"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Column: More deaths of migrants, driven by desperation and U.S. border policies\n                      \n                    \n                  \n                ",
+      "url": "https://www.latimes.com/opinion/story/2022-06-28/migrants-border-death-truck-texas-smuggling"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        On 20th Anniversary of Atkins v. Virginia, Supreme Court Denies Petition to Review Procedural Loophole Permitting Execution of Intellectually Disabled Prisoners\n                      \n                    \n                  \n                ",
+      "url": "https://deathpenaltyinfo.org/news/on-20th-anniversary-of-atkins-v-virginia-supreme-court-denies-petition-to-review-procedural-loophole-permitting-execution-of-intellectually-disabled-prisoners"
+    },
+    {
+      "text": "\n                  \n                    \n                      \n                        Journalists in Uvalde are stonewalled, hassled, threatened by police\n                      \n                    \n                  \n                ",
+      "url": "https://www.washingtonpost.com/media/2022/06/28/we-were-seen-enemies-journalists-uvalde-threatened-by-police/"
+    },
+    {
+      "text": "\n          \n          ",
+      "url": "/2022/06/14/what-did-fbi-data-say-about-crime-in-2021-it-s-too-unreliable-to-tell"
+    },
+    {
+      "text": "Analysis",
+      "url": "/tag/analysis"
+    },
+    {
+      "text": "\n          \n            What Can FBI Data Say About Crime in 2021? It\u2019s Too Unreliable to Tell\n          \n          \n            The transition to a new data system creates huge gaps in national crime stats sure to be exploited by politicians in this election year.\n\n          \n        ",
+      "url": "/2022/06/14/what-did-fbi-data-say-about-crime-in-2021-it-s-too-unreliable-to-tell"
+    },
+    {
+      "text": "Weihua Li",
+      "url": "https://www.themarshallproject.org/staff/weihua-li"
+    },
+    {
+      "text": "\n          \n          ",
+      "url": "/2022/06/10/the-foul-mouthed-pagan-lesbian-who-inspired-my-jail-memoir"
+    },
+    {
+      "text": "Life Inside",
+      "url": "/tag/life-inside"
+    },
+    {
+      "text": "\n          \n            The \u2018Foul-Mouthed Pagan Lesbian\u2019 Who Inspired My Jail Memoir\n          \n          \n            Keri Blakinger\u2019s new book, \u201cCorrections in Ink,\u201d began with Susan Begg, an older woman the author met on her second day in jail. If only Susan had lived to see it in print.\n          \n        ",
+      "url": "/2022/06/10/the-foul-mouthed-pagan-lesbian-who-inspired-my-jail-memoir"
+    },
+    {
+      "text": "Keri Blakinger",
+      "url": "https://www.themarshallproject.org/staff/keri-blakinger"
+    },
+    {
+      "text": "\n          \n          ",
+      "url": "/2022/06/09/rethinking-prison-tourism"
+    },
+    {
+      "text": "Feature",
+      "url": "/tag/feature"
+    },
+    {
+      "text": "\n          \n            Rethinking Prison Tourism \n          \n          \n            Many former prison sites draw on the spooky and salacious to entertain visitors. But some are having second thoughts. \n          \n        ",
+      "url": "/2022/06/09/rethinking-prison-tourism"
+    },
+    {
+      "text": "\n          \n          ",
+      "url": "/2022/06/07/a-tupperware-of-heroin-or-how-i-ended-up-in-prison"
+    },
+    {
+      "text": "Feature",
+      "url": "/tag/feature"
+    },
+    {
+      "text": "\n          \n            A Tupperware of Heroin, Or How I Ended Up in Prison\n          \n          \n            In an excerpt from her new memoir, \u2018Corrections in Ink,\u2019 Keri Blakinger puts us at the scene of her drug arrest  \u2014 and her path to becoming The Marshall Project\u2019s first formerly incarcerated staff writer.\n          \n        ",
+      "url": "/2022/06/07/a-tupperware-of-heroin-or-how-i-ended-up-in-prison"
+    },
+    {
+      "text": "Keri Blakinger",
+      "url": "https://www.themarshallproject.org/staff/keri-blakinger"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "People",
+      "url": "/people"
+    },
+    {
+      "text": "Jobs",
+      "url": "/jobs"
+    },
+    {
+      "text": "Sitemap",
+      "url": "/sitemap"
+    },
+    {
+      "text": "Funders",
+      "url": "/funders"
+    },
+    {
+      "text": "\n      \n        \n          \n        \n      \n    ",
+      "url": "/"
+    }
+  ],
   "metadata": {
     "identifier": "marshallproj-2022",
     "collection": [
@@ -2320,7 +3076,7 @@
     "addeddate": "2022-06-17 17:22:20"
   },
   "server": "ia902503.us.archive.org",
-  "uniq": 2047792693,
+  "uniq": 1632133707,
   "workable_servers": [
     "ia902503.us.archive.org",
     "ia802503.us.archive.org"

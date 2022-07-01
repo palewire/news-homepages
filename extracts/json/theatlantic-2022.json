@@ -1,5 +1,5 @@
 {
-  "created": 1656544350,
+  "created": 1656635176,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/17/items/theatlantic-2022",
@@ -812,31 +812,325 @@
       "sha1": "4b5556e9f290bd4d52670c0e90f83224a86dc7ac"
     },
     {
+      "name": "theatlantic-2022-06-29T21:36:35.994973-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656553003",
+      "size": "25182",
+      "md5": "2ddffe6a6cf0e0e227f3834c4490b52d",
+      "crc32": "efe6f1ad",
+      "sha1": "5a1f20ee0717c0a2b1461cd6a57aaca6ffb7adf3",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-29T21:36:35.994973-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656553005",
+      "size": "28768",
+      "md5": "a5ec1eecd833af46b01453b1b52c179d",
+      "crc32": "98dd97ff",
+      "sha1": "ced0fdc1e837786e13c6d62c624197876258fe89",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-29T21:36:35.994973-04:00.jpg",
+      "source": "original",
+      "mtime": "1656553002",
+      "size": "265555",
+      "md5": "629ccec5d19acdff3943fa4bd2e9239c",
+      "crc32": "0c420645",
+      "sha1": "8486d4047647dbe7aa96d1de359bfebf6efef945",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-29T21:36:35.994973-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-29T21:36:35.994973-04:00.jpg",
+      "mtime": "1656553049",
+      "size": "10010",
+      "md5": "26ac12f5cd398f905d63d3fbcf7cc0f7",
+      "crc32": "fdda8718",
+      "sha1": "5bebc46afd1401f6b417f8f64857f0c905c0b585"
+    },
+    {
+      "name": "theatlantic-2022-06-29T23:49:59.273271-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656561002",
+      "size": "25182",
+      "md5": "2e69d8b0d6cf849056f6d8d6d5cc82d0",
+      "crc32": "cecea2a7",
+      "sha1": "cdd9a47e2998e320761a311f698cc03fdc9ca499",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-29T23:49:59.273271-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656561004",
+      "size": "28670",
+      "md5": "a18917f5680d0f6e2a3cae41ee137a62",
+      "crc32": "867c0bfc",
+      "sha1": "b0382a82776fbe71c5adae16d6bf4ce89777893d",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-29T23:49:59.273271-04:00.jpg",
+      "source": "original",
+      "mtime": "1656561000",
+      "size": "265555",
+      "md5": "629ccec5d19acdff3943fa4bd2e9239c",
+      "crc32": "0c420645",
+      "sha1": "8486d4047647dbe7aa96d1de359bfebf6efef945",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-29T23:49:59.273271-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-29T23:49:59.273271-04:00.jpg",
+      "mtime": "1656561065",
+      "size": "10010",
+      "md5": "26ac12f5cd398f905d63d3fbcf7cc0f7",
+      "crc32": "fdda8718",
+      "sha1": "5bebc46afd1401f6b417f8f64857f0c905c0b585"
+    },
+    {
+      "name": "theatlantic-2022-06-30T01:17:35.781222-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566259",
+      "size": "25186",
+      "md5": "675b55e189ba33901c69233f9e4b9776",
+      "crc32": "cb08daeb",
+      "sha1": "fbe99e00a1573cc480f8b46a02aaabd8955763b2",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T01:17:35.781222-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566260",
+      "size": "28748",
+      "md5": "be35319f6a2fd7008cdc028fa803df73",
+      "crc32": "7b21578b",
+      "sha1": "1835e8a8e9be986d67da784b9096813fed1a8ef6",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T01:17:35.781222-04:00.jpg",
+      "source": "original",
+      "mtime": "1656566257",
+      "size": "265585",
+      "md5": "af5320927ce78ca34daf29832f2d7ed9",
+      "crc32": "b1eb43d4",
+      "sha1": "f06237954081df170e0c121fa0fed8b329aff268",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-30T01:17:35.781222-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-30T01:17:35.781222-04:00.jpg",
+      "mtime": "1656566317",
+      "size": "10017",
+      "md5": "947da516602becba3aa295ece35cbbe3",
+      "crc32": "f489ce28",
+      "sha1": "f76e860630760e286aa91a7ddcc01285de030bbc"
+    },
+    {
+      "name": "theatlantic-2022-06-30T03:07:30.538656-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572853",
+      "size": "25250",
+      "md5": "b1092137a68dcbd2b2a9cf4c374bf904",
+      "crc32": "8f3320d3",
+      "sha1": "f496c01fd31ff32b245ad0c00456c51222af7d09",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T03:07:30.538656-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572855",
+      "size": "28748",
+      "md5": "08215197d4b1a006424edd4993227193",
+      "crc32": "fde5354f",
+      "sha1": "315c13d9c18595d020879cb0e829dbbdf78e2669",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T03:07:30.538656-04:00.jpg",
+      "source": "original",
+      "mtime": "1656572852",
+      "size": "265557",
+      "md5": "c0765bc73562e5331b8ca938bab661a0",
+      "crc32": "94cbbfe0",
+      "sha1": "ac0e80aa372f27157cf2ca48dfefdab4ef55d4f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-30T03:07:30.538656-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-30T03:07:30.538656-04:00.jpg",
+      "mtime": "1656572900",
+      "size": "10023",
+      "md5": "a696d32945f4156d49ea735c4707f4f7",
+      "crc32": "64d2b8f0",
+      "sha1": "22c1f5ab4b989e0fd03491d28a49fb77d4ce06fd"
+    },
+    {
+      "name": "theatlantic-2022-06-30T05:11:21.667436-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580285",
+      "size": "25209",
+      "md5": "727c64d25347cafdc060881a120a94c5",
+      "crc32": "99179780",
+      "sha1": "58f6977efc3f5fb492c1e462bf950d1c1f731362",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T05:11:21.667436-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580286",
+      "size": "28774",
+      "md5": "c0438dfd451fdac2145687a08ca93551",
+      "crc32": "b9499680",
+      "sha1": "1790e59e9ad869285e3b460801956c3d49485b3a",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T05:11:21.667436-04:00.jpg",
+      "source": "original",
+      "mtime": "1656580283",
+      "size": "265548",
+      "md5": "920e495d4dc16dbf81c0dd70aaf07176",
+      "crc32": "7b271ee7",
+      "sha1": "73fb01082f206c6cc7f0efbb906034870be9dd07",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-30T05:11:21.667436-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-30T05:11:21.667436-04:00.jpg",
+      "mtime": "1656580339",
+      "size": "10015",
+      "md5": "c4bf8b3a8f2aed1135f2a4aed104bb4c",
+      "crc32": "856270ad",
+      "sha1": "ab284764dbe744332ed3c3546b7b221a4e1a0ba9"
+    },
+    {
+      "name": "theatlantic-2022-06-30T07:07:49.040455-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587277",
+      "size": "25192",
+      "md5": "08dd2066480d3fc53935e40f805e4ca5",
+      "crc32": "3c955ca9",
+      "sha1": "35071a134fa721704d6efa3819c6fd0d4fdc58a0",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T07:07:49.040455-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587279",
+      "size": "28713",
+      "md5": "27d75d48ee5226b2a64d31f7b2125a24",
+      "crc32": "e111828d",
+      "sha1": "1cffed8401ba0a5edf97c3fb86d12d0d6674dcc6",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T07:07:49.040455-04:00.jpg",
+      "source": "original",
+      "mtime": "1656587271",
+      "size": "265551",
+      "md5": "8551a2c5c487792dd546c55ef4d0fb44",
+      "crc32": "0011db6d",
+      "sha1": "d7d6dd18623d4a98b5092ba33f3063107fd89e91",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-30T07:07:49.040455-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-30T07:07:49.040455-04:00.jpg",
+      "mtime": "1656587324",
+      "size": "10014",
+      "md5": "2fb8dcfc678598733fd4928ed09bc8c7",
+      "crc32": "17288849",
+      "sha1": "0da9383c0df1e2a75b94c0ff3d5f534a7dccb927"
+    },
+    {
+      "name": "theatlantic-2022-06-30T09:12:32.998078-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594757",
+      "size": "25496",
+      "md5": "d802ad36a6b27b76aac99ffc3bd227ed",
+      "crc32": "06b3dbff",
+      "sha1": "3d9cc1b008eb57c27eb060eca7b36386872e6136",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T09:12:32.998078-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594758",
+      "size": "28739",
+      "md5": "9669a0f513f326f531785e5406f5d330",
+      "crc32": "cdbfd9e2",
+      "sha1": "d3d87f6d6e7d0d3539d2fd2fac7b5a7fba4e8d6a",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-06-30T09:12:32.998078-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594755",
+      "size": "282371",
+      "md5": "c5af8b56a07c466472e8ea041724cda4",
+      "crc32": "951fba43",
+      "sha1": "2cbf2a8829082e7db1064453b49956cce0588937",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-06-30T09:12:32.998078-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-06-30T09:12:32.998078-04:00.jpg",
+      "mtime": "1656594802",
+      "size": "10150",
+      "md5": "77fdef02d6fdaa574be1c6decac45437",
+      "crc32": "5a077ee0",
+      "sha1": "05fc7e97df31f6488c8ce5424209f2d3d78669c9"
+    },
+    {
       "name": "theatlantic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b58ad569ae28d18528422553b5ea52b39c18cc3",
-      "mtime": "1656544347",
-      "size": "17897",
-      "md5": "7913dcf0b9e911e80262e2cf25b56228",
-      "crc32": "9b665128",
-      "sha1": "9d58f4c855daa7cf9b73c545b829be6703adaf4b",
+      "btih": "d70ffcfbec04317305bf6b9fea0f615eac059972",
+      "mtime": "1656594806",
+      "size": "23871",
+      "md5": "b7969691fd4fb282aeaae6bf7eca732c",
+      "crc32": "5004faf9",
+      "sha1": "41a75080d37e39023cae3a94101b8c1e917f8e5a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theatlantic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e0d8ae0435885259c537c9bac4c8088",
+      "md5": "02d954e4cf68a46f211fcc3e2e890014",
       "summation": "md5"
     },
     {
       "name": "theatlantic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544307",
-      "size": "110592",
-      "md5": "fe60956c4111b8cf7a15afed91e06c70",
-      "crc32": "1bd25b60",
-      "sha1": "0884facbbfb2f6cf9473ec0df74c1f0d7e42686c",
+      "mtime": "1656594762",
+      "size": "147456",
+      "md5": "e70292a525c767b8b2e3bae40113c4b2",
+      "crc32": "c7c50111",
+      "sha1": "d6a3a5ab3589162025563b875539305e38caaaf8",
       "format": "Metadata"
     },
     {
@@ -850,9 +1144,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 81,
-  "item_last_updated": 1656544347,
-  "item_size": 6458468,
+  "files_count": 109,
+  "item_last_updated": 1656594806,
+  "item_size": 8825124,
   "metadata": {
     "identifier": "theatlantic-2022",
     "collection": [
@@ -869,10 +1163,916 @@
     "publicdate": "2022-06-24 23:01:58",
     "addeddate": "2022-06-24 23:01:58"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 972952399,
+  "server": "ia801407.us.archive.org",
+  "theatlantic-2022": [
+    {
+      "text": "Skip to content",
+      "url": "#main-content"
+    },
+    {
+      "text": "The Atlantic",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "text": "Popular",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "Latest",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.theatlantic.com/politics/"
+    },
+    {
+      "text": "Ideas",
+      "url": "https://www.theatlantic.com/ideas/"
+    },
+    {
+      "text": "Fiction",
+      "url": "https://www.theatlantic.com/category/fiction/"
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.theatlantic.com/technology/"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.theatlantic.com/science/"
+    },
+    {
+      "text": "Photo",
+      "url": "https://www.theatlantic.com/photo/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.theatlantic.com/business/"
+    },
+    {
+      "text": "Culture",
+      "url": "https://www.theatlantic.com/culture/"
+    },
+    {
+      "text": "Planet",
+      "url": "https://www.theatlantic.com/planet/"
+    },
+    {
+      "text": "Global",
+      "url": "https://www.theatlantic.com/international/"
+    },
+    {
+      "text": "Books",
+      "url": "https://www.theatlantic.com/books/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.theatlantic.com/podcasts/"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.theatlantic.com/health/"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.theatlantic.com/education/"
+    },
+    {
+      "text": "Projects",
+      "url": "https://www.theatlantic.com/projects/"
+    },
+    {
+      "text": "America In Person",
+      "url": "https://www.theatlantic.com/projects/america-in-person/"
+    },
+    {
+      "text": "Family",
+      "url": "https://www.theatlantic.com/family/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.theatlantic.com/events/"
+    },
+    {
+      "text": "Shadowland",
+      "url": "https://www.theatlantic.com/shadowland/"
+    },
+    {
+      "text": "Progress",
+      "url": "https://www.theatlantic.com/progress/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.theatlantic.com/follow-the-atlantic/"
+    },
+    {
+      "text": "Play Crossword",
+      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/magazine/"
+    },
+    {
+      "text": "Latest Issue",
+      "url": "https://www.theatlantic.com/magazine/"
+    },
+    {
+      "text": "Past Issues",
+      "url": "https://www.theatlantic.com/magazine/backissues/"
+    },
+    {
+      "text": "Give a Gift",
+      "url": "https://accounts.theatlantic.com/products/gift"
+    },
+    {
+      "text": "Dear Therapist",
+      "url": "/projects/dear-therapist/"
+    },
+    {
+      "text": "Crossword Puzzle",
+      "url": "/free-daily-crossword-puzzle/"
+    },
+    {
+      "text": "Magazine Archive",
+      "url": "/magazine/backissues/"
+    },
+    {
+      "text": "Your Subscription",
+      "url": "https://accounts.theatlantic.com/accounts/subscription/"
+    },
+    {
+      "text": "Popular",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "Latest",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://accounts.theatlantic.com/login/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.theatlantic.com/subscribe/navbar/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/jan-6-hearings-fact-check-trump-supporters-2020-election/661428/"
+    },
+    {
+      "text": "The Reason Liz Cheney Is Narrating the January 6 Story",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/jan-6-hearings-fact-check-trump-supporters-2020-election/661428/"
+    },
+    {
+      "text": "Anne Applebaum",
+      "url": "https://www.theatlantic.com/author/anne-applebaum/"
+    },
+    {
+      "text": "How the Rest of the World Is Doing RTO",
+      "url": "https://www.theatlantic.com/international/archive/2022/06/remote-in-person-work-rto-policies/661407/"
+    },
+    {
+      "text": "Yasmeen Serhan",
+      "url": "https://www.theatlantic.com/author/yasmeen-serhan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/06/remote-in-person-work-rto-policies/661407/"
+    },
+    {
+      "text": "Don\u2019t Surround Yourself With Admirers",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/make-friends-you-admire-happiness/661245/"
+    },
+    {
+      "text": "Arthur C. Brooks",
+      "url": "https://www.theatlantic.com/author/arthur-c-brooks/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/make-friends-you-admire-happiness/661245/"
+    },
+    {
+      "text": "Don\u2019t Forget That 43 Senate Republicans Let Trump Get Away With It",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-jan-6-republican-senators-trump-second-impeachment/661436/"
+    },
+    {
+      "text": "Adam Serwer",
+      "url": "https://www.theatlantic.com/author/adam-serwer/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-jan-6-republican-senators-trump-second-impeachment/661436/"
+    },
+    {
+      "text": "The New First Date",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/zoom-dating-video-chat-screening-dates/661431/"
+    },
+    {
+      "text": "Lora Kelley",
+      "url": "https://www.theatlantic.com/author/lora-kelley/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/zoom-dating-video-chat-screening-dates/661431/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/anti-abortion-laws-medical-system/661445/"
+    },
+    {
+      "text": "The Domino Effects of New Anti-abortion Laws",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/anti-abortion-laws-medical-system/661445/"
+    },
+    {
+      "text": "Conor Friedersdorf",
+      "url": "https://www.theatlantic.com/author/conor-friedersdorf/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/kate-bush-stranger-things/661435/"
+    },
+    {
+      "text": "The Kate Bush Resurgence Is a Reminder That We Can Have Nice Things",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/kate-bush-stranger-things/661435/"
+    },
+    {
+      "text": "Spencer Kornhaber",
+      "url": "https://www.theatlantic.com/author/spencer-kornhaber/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/january-6-committee-trump-supporters/661441/"
+    },
+    {
+      "text": "We Now Know",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/january-6-committee-trump-supporters/661441/"
+    },
+    {
+      "text": "Tom Nichols",
+      "url": "https://www.theatlantic.com/author/tom-nichols/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/fda-updated-covid-fall-booster/661423/"
+    },
+    {
+      "text": "This Fall Will Be a Vaccination Reboot",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/fda-updated-covid-fall-booster/661423/"
+    },
+    {
+      "text": "Katherine J. Wu",
+      "url": "https://www.theatlantic.com/author/katherine-j-wu/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/couples-gender-inequality-household-chores-caregiving-management/661404/"
+    },
+    {
+      "text": "Lessons From 40 Men in Egalitarian Relationships",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/couples-gender-inequality-household-chores-caregiving-management/661404/"
+    },
+    {
+      "text": "Joe Pinsker",
+      "url": "https://www.theatlantic.com/author/joe-pinsker/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/how-late-can-you-take-abortion-pill/661437/"
+    },
+    {
+      "text": "The Abortion Pill Can Be Used Later Than the FDA Says",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/how-late-can-you-take-abortion-pill/661437/"
+    },
+    {
+      "text": "Sarah Zhang",
+      "url": "https://www.theatlantic.com/author/sarah-zhang/"
+    },
+    {
+      "text": "Perspectives: The Atlantic\u2019s Writers at the National Portrait Gallery",
+      "url": "https://www.theatlantic.com/perspectives-national-portrait-gallery/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/perspectives-national-portrait-gallery/"
+    },
+    {
+      "text": "America Is Growing Apart, Possibly for Good",
+      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
+    },
+    {
+      "text": "Ronald Brownstein",
+      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
+    },
+    {
+      "text": "The Dumbest Coup Attempt",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-trump-secret-service-jan-6-hearings/661427/"
+    },
+    {
+      "text": "Graeme Wood",
+      "url": "https://www.theatlantic.com/author/graeme-wood/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-trump-secret-service-jan-6-hearings/661427/"
+    },
+    {
+      "text": "A Gross Sense of Entitlement",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/john-allen-resignation-private-sector-work/661417/"
+    },
+    {
+      "text": "Andrew Exum",
+      "url": "https://www.theatlantic.com/author/andrew-exum/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/john-allen-resignation-private-sector-work/661417/"
+    },
+    {
+      "text": "Explore Newsletters",
+      "url": "https://www.theatlantic.com/subscriber-newsletters/"
+    },
+    {
+      "text": "Writers",
+      "url": "https://www.theatlantic.com/writers/"
+    },
+    {
+      "text": "see all",
+      "url": "https://www.theatlantic.com/writers/"
+    },
+    {
+      "text": "Conor Friedersdorf",
+      "url": "https://www.theatlantic.com/author/conor-friedersdorf/"
+    },
+    {
+      "text": "The Domino Effects of New Anti-abortion Laws",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/anti-abortion-laws-medical-system/661445/"
+    },
+    {
+      "text": "Sarah Zhang",
+      "url": "https://www.theatlantic.com/author/sarah-zhang/"
+    },
+    {
+      "text": "The Abortion Pill Can Be Used Later Than the FDA Says",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/how-late-can-you-take-abortion-pill/661437/"
+    },
+    {
+      "text": "Adam Serwer",
+      "url": "https://www.theatlantic.com/author/adam-serwer/"
+    },
+    {
+      "text": "Don\u2019t Forget That 43 Senate Republicans Let Trump Get Away With It",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-jan-6-republican-senators-trump-second-impeachment/661436/"
+    },
+    {
+      "text": "Spencer Kornhaber",
+      "url": "https://www.theatlantic.com/author/spencer-kornhaber/"
+    },
+    {
+      "text": "The Kate Bush Resurgence Is a Reminder That We Can Have Nice Things",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/kate-bush-stranger-things/661435/"
+    },
+    {
+      "text": "Alan Taylor",
+      "url": "https://www.theatlantic.com/author/alan-taylor/"
+    },
+    {
+      "text": "The Dust Devils of Mars",
+      "url": "https://www.theatlantic.com/photo/2022/06/photos-dust-devils-mars/661430/"
+    },
+    {
+      "text": "Anne Applebaum",
+      "url": "https://www.theatlantic.com/author/anne-applebaum/"
+    },
+    {
+      "text": "The Reason Liz Cheney Is Narrating the January 6 Story",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/jan-6-hearings-fact-check-trump-supporters-2020-election/661428/"
+    },
+    {
+      "text": "Robinson Meyer",
+      "url": "https://www.theatlantic.com/author/robinson-meyer/"
+    },
+    {
+      "text": "\u2018Greenwashing\u2019 Isn\u2019t About Consumers",
+      "url": "https://www.theatlantic.com/science/archive/2022/06/corporate-climate-action-employee-work/661425/"
+    },
+    {
+      "text": "Yasmeen Serhan",
+      "url": "https://www.theatlantic.com/author/yasmeen-serhan/"
+    },
+    {
+      "text": "How the Rest of the World Is Doing RTO",
+      "url": "https://www.theatlantic.com/international/archive/2022/06/remote-in-person-work-rto-policies/661407/"
+    },
+    {
+      "text": "Katherine J. Wu",
+      "url": "https://www.theatlantic.com/author/katherine-j-wu/"
+    },
+    {
+      "text": "Twice a Year, Reindeer Eyes Pull Off a Wonderful Magic Trick",
+      "url": "https://www.theatlantic.com/science/archive/2022/06/reindeer-eyes-winter-vision-adaptation/661419/"
+    },
+    {
+      "text": "David Frum",
+      "url": "https://www.theatlantic.com/author/david-frum/"
+    },
+    {
+      "text": "Kevin McCarthy, Have You No Sense of Decency?",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/january-6-hearings-liz-cheney-trump-cover-up/661421/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "The Most Damning January 6 Testimony Yet",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/january-6-hearings-trump-cassidy-hutchinson/661414/"
+    },
+    {
+      "text": "Jemele Hill",
+      "url": "https://www.theatlantic.com/author/jemele-hill/"
+    },
+    {
+      "text": "Why I\u2019m Talking About My Abortion",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/dobbs-roe-overturned-abortion-choice/661408/"
+    },
+    {
+      "text": "Magazine",
+      "url": "https://www.theatlantic.com/magazine/backissues/"
+    },
+    {
+      "text": "past issues",
+      "url": "https://www.theatlantic.com/magazine/backissues/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/subscribe/magazinemodule1/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.theatlantic.com/subscribe/magazinemodule1/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts/"
+    },
+    {
+      "text": "see all",
+      "url": "/podcasts/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/experiment/"
+    },
+    {
+      "text": "Stories From an Unfinished Country",
+      "url": "/podcasts/experiment/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/floodlines/"
+    },
+    {
+      "text": "The Story of an Unnatural Disaster",
+      "url": "/podcasts/floodlines/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2021/06/is-it-over/619174/"
+    },
+    {
+      "text": "Is It Over?",
+      "url": "https://www.theatlantic.com/health/archive/2021/06/is-it-over/619174/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/06/how-to-make-new-friends-as-an-adult/661369/"
+    },
+    {
+      "text": "The Misgivings of Friend-Making",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/06/how-to-make-new-friends-as-an-adult/661369/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/05/top-gun/629897/"
+    },
+    {
+      "text": "Top Gun",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/05/top-gun/629897/"
+    },
+    {
+      "text": "Latest",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "see all",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/make-friends-you-admire-happiness/661245/"
+    },
+    {
+      "text": "Don\u2019t Surround Yourself With Admirers",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/make-friends-you-admire-happiness/661245/"
+    },
+    {
+      "text": "Arthur C. Brooks",
+      "url": "https://www.theatlantic.com/author/arthur-c-brooks/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/anti-abortion-laws-medical-system/661445/"
+    },
+    {
+      "text": "The Domino Effects of New Anti-abortion Laws",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/anti-abortion-laws-medical-system/661445/"
+    },
+    {
+      "text": "Conor Friedersdorf",
+      "url": "https://www.theatlantic.com/author/conor-friedersdorf/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/january-6-committee-trump-supporters/661441/"
+    },
+    {
+      "text": "We Now Know",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/january-6-committee-trump-supporters/661441/"
+    },
+    {
+      "text": "Tom Nichols",
+      "url": "https://www.theatlantic.com/author/tom-nichols/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/how-late-can-you-take-abortion-pill/661437/"
+    },
+    {
+      "text": "The Abortion Pill Can Be Used Later Than the FDA Says",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/how-late-can-you-take-abortion-pill/661437/"
+    },
+    {
+      "text": "Sarah Zhang",
+      "url": "https://www.theatlantic.com/author/sarah-zhang/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-jan-6-republican-senators-trump-second-impeachment/661436/"
+    },
+    {
+      "text": "Don\u2019t Forget That 43 Senate Republicans Let Trump Get Away With It",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-jan-6-republican-senators-trump-second-impeachment/661436/"
+    },
+    {
+      "text": "Adam Serwer",
+      "url": "https://www.theatlantic.com/author/adam-serwer/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/kate-bush-stranger-things/661435/"
+    },
+    {
+      "text": "The Kate Bush Resurgence Is a Reminder That We Can Have Nice Things",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/kate-bush-stranger-things/661435/"
+    },
+    {
+      "text": "Spencer Kornhaber",
+      "url": "https://www.theatlantic.com/author/spencer-kornhaber/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-january-6-trump-criminal-charges-odds/661434/"
+    },
+    {
+      "text": "The People v. Donald Trump",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-january-6-trump-criminal-charges-odds/661434/"
+    },
+    {
+      "text": "David French",
+      "url": "https://www.theatlantic.com/author/david-french/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/photo/2022/06/photos-dust-devils-mars/661430/"
+    },
+    {
+      "text": "The Dust Devils of Mars",
+      "url": "https://www.theatlantic.com/photo/2022/06/photos-dust-devils-mars/661430/"
+    },
+    {
+      "text": "Alan Taylor",
+      "url": "https://www.theatlantic.com/author/alan-taylor/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/jan-6-hearings-fact-check-trump-supporters-2020-election/661428/"
+    },
+    {
+      "text": "The Reason Liz Cheney Is Narrating the January 6 Story",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/jan-6-hearings-fact-check-trump-supporters-2020-election/661428/"
+    },
+    {
+      "text": "Anne Applebaum",
+      "url": "https://www.theatlantic.com/author/anne-applebaum/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/zoom-dating-video-chat-screening-dates/661431/"
+    },
+    {
+      "text": "The New First Date",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/zoom-dating-video-chat-screening-dates/661431/"
+    },
+    {
+      "text": "Lora Kelley",
+      "url": "https://www.theatlantic.com/author/lora-kelley/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/vodou-haiti-misunderstood-religion/661429/"
+    },
+    {
+      "text": "The Religion That\u2019s Been Maligned for Centuries",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/vodou-haiti-misunderstood-religion/661429/"
+    },
+    {
+      "text": "Nadege Green",
+      "url": "https://www.theatlantic.com/author/nadege-green/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-trump-secret-service-jan-6-hearings/661427/"
+    },
+    {
+      "text": "The Dumbest Coup Attempt",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-trump-secret-service-jan-6-hearings/661427/"
+    },
+    {
+      "text": "Graeme Wood",
+      "url": "https://www.theatlantic.com/author/graeme-wood/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/06/corporate-climate-action-employee-work/661425/"
+    },
+    {
+      "text": "\u2018Greenwashing\u2019 Isn\u2019t About Consumers",
+      "url": "https://www.theatlantic.com/science/archive/2022/06/corporate-climate-action-employee-work/661425/"
+    },
+    {
+      "text": "Robinson Meyer",
+      "url": "https://www.theatlantic.com/author/robinson-meyer/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-deranged-seditious-president/661424/"
+    },
+    {
+      "text": "A Withering Indictment of the Entire GOP",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-deranged-seditious-president/661424/"
+    },
+    {
+      "text": "Peter Wehner",
+      "url": "https://www.theatlantic.com/author/peter-wehner/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/john-allen-resignation-private-sector-work/661417/"
+    },
+    {
+      "text": "A Gross Sense of Entitlement",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/john-allen-resignation-private-sector-work/661417/"
+    },
+    {
+      "text": "Andrew Exum",
+      "url": "https://www.theatlantic.com/author/andrew-exum/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/06/remote-in-person-work-rto-policies/661407/"
+    },
+    {
+      "text": "How the Rest of the World Is Doing RTO",
+      "url": "https://www.theatlantic.com/international/archive/2022/06/remote-in-person-work-rto-policies/661407/"
+    },
+    {
+      "text": "Yasmeen Serhan",
+      "url": "https://www.theatlantic.com/author/yasmeen-serhan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/06/reindeer-eyes-winter-vision-adaptation/661419/"
+    },
+    {
+      "text": "Twice a Year, Reindeer Eyes Pull Off a Wonderful Magic Trick",
+      "url": "https://www.theatlantic.com/science/archive/2022/06/reindeer-eyes-winter-vision-adaptation/661419/"
+    },
+    {
+      "text": "Katherine J. Wu",
+      "url": "https://www.theatlantic.com/author/katherine-j-wu/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/fda-updated-covid-fall-booster/661423/"
+    },
+    {
+      "text": "This Fall Will Be a Vaccination Reboot",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/fda-updated-covid-fall-booster/661423/"
+    },
+    {
+      "text": "Katherine J. Wu",
+      "url": "https://www.theatlantic.com/author/katherine-j-wu/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/january-6-hearings-liz-cheney-trump-cover-up/661421/"
+    },
+    {
+      "text": "Kevin McCarthy, Have You No Sense of Decency?",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/january-6-hearings-liz-cheney-trump-cover-up/661421/"
+    },
+    {
+      "text": "David Frum",
+      "url": "https://www.theatlantic.com/author/david-frum/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/january-6-testimony-russia-ukraine-war-civilians/661422/"
+    },
+    {
+      "text": "Today: January 6 Chaos, Russia\u2019s War Against Civilians",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/january-6-testimony-russia-ukraine-war-civilians/661422/"
+    },
+    {
+      "text": "Tom Nichols",
+      "url": "https://www.theatlantic.com/author/tom-nichols/"
+    },
+    {
+      "text": "Popular",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "see all",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-jan-6-republican-senators-trump-second-impeachment/661436/"
+    },
+    {
+      "text": "Don\u2019t Forget That 43 Senate Republicans Let Trump Get Away With It",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-jan-6-republican-senators-trump-second-impeachment/661436/"
+    },
+    {
+      "text": "Adam Serwer",
+      "url": "https://www.theatlantic.com/author/adam-serwer/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/jan-6-hearings-fact-check-trump-supporters-2020-election/661428/"
+    },
+    {
+      "text": "The Reason Liz Cheney Is Narrating the January 6 Story",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/jan-6-hearings-fact-check-trump-supporters-2020-election/661428/"
+    },
+    {
+      "text": "Anne Applebaum",
+      "url": "https://www.theatlantic.com/author/anne-applebaum/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-january-6-trump-criminal-charges-odds/661434/"
+    },
+    {
+      "text": "The People v. Donald Trump",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-january-6-trump-criminal-charges-odds/661434/"
+    },
+    {
+      "text": "David French",
+      "url": "https://www.theatlantic.com/author/david-french/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/couples-gender-inequality-household-chores-caregiving-management/661404/"
+    },
+    {
+      "text": "Lessons From 40 Men in Egalitarian Relationships",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/couples-gender-inequality-household-chores-caregiving-management/661404/"
+    },
+    {
+      "text": "Joe Pinsker",
+      "url": "https://www.theatlantic.com/author/joe-pinsker/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-trump-secret-service-jan-6-hearings/661427/"
+    },
+    {
+      "text": "The Dumbest Coup Attempt",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-trump-secret-service-jan-6-hearings/661427/"
+    },
+    {
+      "text": "Graeme Wood",
+      "url": "https://www.theatlantic.com/author/graeme-wood/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/covid-numbers-outdated-two-doses-six-feet/661366/"
+    },
+    {
+      "text": "Five COVID Numbers That Don\u2019t Make Sense Anymore",
+      "url": "https://www.theatlantic.com/health/archive/2022/06/covid-numbers-outdated-two-doses-six-feet/661366/"
+    },
+    {
+      "text": "Katherine J. Wu",
+      "url": "https://www.theatlantic.com/author/katherine-j-wu/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-deranged-seditious-president/661424/"
+    },
+    {
+      "text": "A Withering Indictment of the Entire GOP",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/hutchinson-testimony-deranged-seditious-president/661424/"
+    },
+    {
+      "text": "Peter Wehner",
+      "url": "https://www.theatlantic.com/author/peter-wehner/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
+    },
+    {
+      "text": "America Is Growing Apart, Possibly for Good",
+      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
+    },
+    {
+      "text": "Ronald Brownstein",
+      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/technology/archive/2022/06/spam-twitter-account-horse-ebooks-human-internet-relationship/661409/"
+    },
+    {
+      "text": "The 10-Year-Old Tweet That Still Defines the Internet",
+      "url": "https://www.theatlantic.com/technology/archive/2022/06/spam-twitter-account-horse-ebooks-human-internet-relationship/661409/"
+    },
+    {
+      "text": "Kaitlyn Tiffany",
+      "url": "https://www.theatlantic.com/author/kaitlyn-tiffany/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/january-6-hearings-liz-cheney-trump-cover-up/661421/"
+    },
+    {
+      "text": "Kevin McCarthy, Have You No Sense of Decency?",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/06/january-6-hearings-liz-cheney-trump-cover-up/661421/"
+    },
+    {
+      "text": "David Frum",
+      "url": "https://www.theatlantic.com/author/david-frum/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.theatlantic.com/newsletters/"
+    },
+    {
+      "text": "See All",
+      "url": "https://www.theatlantic.com/newsletters/"
+    },
+    {
+      "text": "The Atlantic's Privacy Policy",
+      "url": "https://www.theatlantic.com/privacy-policy/"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.theatlantic.com/terms-and-conditions/"
+    },
+    {
+      "text": "Crossword",
+      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
+    },
+    {
+      "text": "Play Crossword",
+      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
+    }
+  ],
+  "uniq": 19649489,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

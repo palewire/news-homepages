@@ -1,5 +1,5 @@
 {
-  "created": 1656544087,
+  "created": 1656628051,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/21/items/le_parisien-2022",
@@ -5182,31 +5182,367 @@
       "sha1": "943f655883ffbf7802a9aeae54ccfe0e2cf4b50a"
     },
     {
+      "name": "le_parisien-2022-06-30T03:31:43.632314+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552707",
+      "size": "89624",
+      "md5": "59fa610fe5065d57d67e71072a2cbbdb",
+      "crc32": "6c1c5604",
+      "sha1": "eebebdd0a3fd4e2c105637d795445cbcec9861f8",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T03:31:43.632314+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552708",
+      "size": "102450",
+      "md5": "11e4096db8b676af49012af10e9dab3f",
+      "crc32": "55080b46",
+      "sha1": "64db9820cf7be79a9c2a0c721a3027b1e62a7fff",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T03:31:43.632314+02:00.jpg",
+      "source": "original",
+      "mtime": "1656552705",
+      "size": "282980",
+      "md5": "f9fba8273dbcae71e413ecf6fd52fa53",
+      "crc32": "186d4377",
+      "sha1": "7d5a83378099250f2fffea9edd36f15df8452110",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-06-30T03:31:43.632314+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-06-30T03:31:43.632314+02:00.jpg",
+      "mtime": "1656552797",
+      "size": "9849",
+      "md5": "5872079e0f001655a7f6680c0970bddd",
+      "crc32": "4c828b04",
+      "sha1": "943f655883ffbf7802a9aeae54ccfe0e2cf4b50a"
+    },
+    {
+      "name": "le_parisien-2022-06-30T05:44:41.591885+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560688",
+      "size": "90814",
+      "md5": "9336632c45fd4d82d450e5b8870d1fdd",
+      "crc32": "508c70a8",
+      "sha1": "68c972343506d72dad858eb8d6d6328d9b18fa24",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T05:44:41.591885+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560690",
+      "size": "105824",
+      "md5": "560a07e97198636601359da66e8f229f",
+      "crc32": "973ed098",
+      "sha1": "502b6f046f00430c84a7dab9c2328f63e3573caa",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T05:44:41.591885+02:00.jpg",
+      "source": "original",
+      "mtime": "1656560686",
+      "size": "282588",
+      "md5": "deaeaa2d5b7f068a1512bc16a8d4bee7",
+      "crc32": "3eae3918",
+      "sha1": "5d2b5e373bef931d4eb8156d58c2655671d1345c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-06-30T05:44:41.591885+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-06-30T05:44:41.591885+02:00.jpg",
+      "mtime": "1656560773",
+      "size": "9862",
+      "md5": "efc25c050991fc1ae467a7d20545e3bd",
+      "crc32": "592f5530",
+      "sha1": "6245dc490d0b69d72307418760d86006b4cb034e"
+    },
+    {
+      "name": "le_parisien-2022-06-30T07:12:54.301336+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656565984",
+      "size": "90161",
+      "md5": "5f0829a70ec0fbedf3d1565777376758",
+      "crc32": "ad458df6",
+      "sha1": "a0ec7a25839c11dfd4280cd6412d7582488f1707",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T07:12:54.301336+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656565985",
+      "size": "103436",
+      "md5": "79b7c0b568e605f98800e8f9eb99f0f0",
+      "crc32": "9d4e7bec",
+      "sha1": "a70a882d736d9a9cbb2659c8d03c0a2668f6b6eb",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T07:12:54.301336+02:00.jpg",
+      "source": "original",
+      "mtime": "1656565982",
+      "size": "291655",
+      "md5": "520ff0ac0919ae1481ad410360791d77",
+      "crc32": "2399169c",
+      "sha1": "c8014003682d32f8273766d6c0372ee568c6abaa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-06-30T07:12:54.301336+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-06-30T07:12:54.301336+02:00.jpg",
+      "mtime": "1656566036",
+      "size": "9964",
+      "md5": "b6585b13b9cb1a800523777d8f7a50fa",
+      "crc32": "cede4da7",
+      "sha1": "e760ef15b52a06583d00e1f40d4dca77edb3ee1f"
+    },
+    {
+      "name": "le_parisien-2022-06-30T09:02:41.725031+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572567",
+      "size": "93032",
+      "md5": "1c2862d54715c3a9f4d1024857ee9999",
+      "crc32": "a8e45726",
+      "sha1": "809d1af3bd690520f2b0dab2d4ff3392409941aa",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T09:02:41.725031+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572568",
+      "size": "107914",
+      "md5": "e7fa5428aa9b1b485021bf283d59e1d0",
+      "crc32": "56fafc78",
+      "sha1": "748a220adab3c27348ffdeb6c236aaba5f6d51c6",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T09:02:41.725031+02:00.jpg",
+      "source": "original",
+      "mtime": "1656572565",
+      "size": "300062",
+      "md5": "25d7bd4a7e8bf21ecce91dacbb5bd4a8",
+      "crc32": "34b3b882",
+      "sha1": "243726196088ea49a38081aab7f9b711c52526cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-06-30T09:02:41.725031+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-06-30T09:02:41.725031+02:00.jpg",
+      "mtime": "1656572619",
+      "size": "10065",
+      "md5": "cbfbef242533924ddeb35a1005f42886",
+      "crc32": "8b7f17fa",
+      "sha1": "7b229e8170b85e869d8d78330fbc1a255dca0ce8"
+    },
+    {
+      "name": "le_parisien-2022-06-30T11:06:35.726909+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656579998",
+      "size": "92233",
+      "md5": "cb92d6f79b084d612a95074c6b8e105e",
+      "crc32": "3f237014",
+      "sha1": "edc0e76d15540e9dc0730661a9455191b0a8b2b0",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T11:06:35.726909+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656579999",
+      "size": "106856",
+      "md5": "bee3a38e582a6a849dac56f49a4b2235",
+      "crc32": "c071283d",
+      "sha1": "c0c754fcb026862d3aa34dc43403485bec4bd12e",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T11:06:35.726909+02:00.jpg",
+      "source": "original",
+      "mtime": "1656579996",
+      "size": "269714",
+      "md5": "29c00b8bace0ce6ebe92ffecb4eaf3e4",
+      "crc32": "69da269d",
+      "sha1": "bd099a9aafb536f03312e632cb23be20aa0bbe08",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-06-30T11:06:35.726909+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-06-30T11:06:35.726909+02:00.jpg",
+      "mtime": "1656580058",
+      "size": "9741",
+      "md5": "179a3cf36df4b2e1a09947d5261bb335",
+      "crc32": "bbe42071",
+      "sha1": "51dff4c6c309e5c05a2a54d5dc643b8d27c51ed2"
+    },
+    {
+      "name": "le_parisien-2022-06-30T13:03:07.257402+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656586989",
+      "size": "91345",
+      "md5": "8b22ca60940a2a187b12e36c3d2c25d3",
+      "crc32": "e93dbcce",
+      "sha1": "6687cbfd9abc4519004ec280f1d4c2e0fbcf1d6d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T13:03:07.257402+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656586991",
+      "size": "104129",
+      "md5": "f62697907547f210ed6d9a4041dc3ec8",
+      "crc32": "791f7488",
+      "sha1": "531e4a615d49421e6ca829e3ff845c6903133817",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T13:03:07.257402+02:00.jpg",
+      "source": "original",
+      "mtime": "1656586988",
+      "size": "261669",
+      "md5": "ecd76f2926eede634b8b664849f5bd7a",
+      "crc32": "d1ea81bf",
+      "sha1": "f79b0e11df208e77c85fc5d76803e670e948b79e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-06-30T13:03:07.257402+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-06-30T13:03:07.257402+02:00.jpg",
+      "mtime": "1656587081",
+      "size": "9500",
+      "md5": "1f76e92bb2f04fc61b0310d2481d98a4",
+      "crc32": "873c04c2",
+      "sha1": "eeb9b19ae537072ef9626d41171778f8412fc006"
+    },
+    {
+      "name": "le_parisien-2022-06-30T15:07:41.189011+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594464",
+      "size": "90530",
+      "md5": "7172dca777fb1f252860149a21f64ffb",
+      "crc32": "3ccf734b",
+      "sha1": "536128166e80344ddf831d18a38bc0accfd22068",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T15:07:41.189011+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594466",
+      "size": "104047",
+      "md5": "0a654c9cd5000a612efa88e3bd1d6f25",
+      "crc32": "f7881f1b",
+      "sha1": "29de8990b9caae2ba0c76b1954cb7c4599caa261",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-06-30T15:07:41.189011+02:00.jpg",
+      "source": "original",
+      "mtime": "1656594462",
+      "size": "258304",
+      "md5": "a00d2c8a8bf8f121ea1d271039f480f1",
+      "crc32": "2f1517be",
+      "sha1": "6dcb1d0f0a05cafa2416794aa90892cfbad78f4e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-06-30T15:07:41.189011+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-06-30T15:07:41.189011+02:00.jpg",
+      "mtime": "1656594554",
+      "size": "9776",
+      "md5": "f78feac9c4433c097e6a0470b05283e3",
+      "crc32": "bd567dd8",
+      "sha1": "e6482ece66bd2d99a57c104a43c249a70a543819"
+    },
+    {
+      "name": "le_parisien-2022-07-01T00:25:56.608105+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656627964",
+      "size": "91222",
+      "md5": "74bb2891ca0930ff307106f10103e5b6",
+      "crc32": "25990abb",
+      "sha1": "8c8dbea6798a532979b170f2d128e135637a8faf",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-07-01T00:25:56.608105+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656627965",
+      "size": "105537",
+      "md5": "c54629cb219e1df9f5c859c91de08c21",
+      "crc32": "58f10f2f",
+      "sha1": "66b3aaad9ac42a32a6c8eecf3797f056416b879a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-07-01T00:25:56.608105+02:00.jpg",
+      "source": "original",
+      "mtime": "1656627962",
+      "size": "263874",
+      "md5": "bb1be4a63b9d500f146fd46a03eafd07",
+      "crc32": "3d5822bd",
+      "sha1": "5b57e5659ea49832480c6f121f7426f4db0792a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-07-01T00:25:56.608105+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-07-01T00:25:56.608105+02:00.jpg",
+      "mtime": "1656628032",
+      "size": "9729",
+      "md5": "9afae036f50e513c7c9fe9e366ebebae",
+      "crc32": "f3d9bc92",
+      "sha1": "70217a76526c0bb2583b54e89f0bddbcaf96765c"
+    },
+    {
       "name": "le_parisien-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f9928a5c9bae4952f8a99d9e2a9ebf42e2e2874e",
-      "mtime": "1656544079",
-      "size": "107516",
-      "md5": "283834721c0712bd3558b23e14ccab4d",
-      "crc32": "584c372f",
-      "sha1": "0f4c0176cc18bb12be532cd3f6dc72918b4eb525",
+      "btih": "19282bf2402d1620ffa78fade65571fbae098a6f",
+      "mtime": "1656628038",
+      "size": "114413",
+      "md5": "d525172c00fbdf8acf6e84f550aba1d8",
+      "crc32": "4f008ad8",
+      "sha1": "c4ea2fa169a1b07ebb743f08628c434e573bbc51",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_parisien-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86fd6c1815a2a258eabbe2d7c3dc98c7",
+      "md5": "abae1e456c3dd6506d1ecfec06ce5940",
       "summation": "md5"
     },
     {
       "name": "le_parisien-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544028",
-      "size": "585728",
-      "md5": "fbfb0f4b46bcdf527ab574b2494ccaf4",
-      "crc32": "53d67ff0",
-      "sha1": "31c26384e95378a79b6942441d05f3a63b7777f1",
+      "mtime": "1656627970",
+      "size": "618496",
+      "md5": "e92c10c903d8b6a540ce8557d9681a59",
+      "crc32": "7d409787",
+      "sha1": "a02712eb66af6547f46fad31e5264acc1a3e7e5d",
       "format": "Metadata"
     },
     {
@@ -5220,9 +5556,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 497,
-  "item_last_updated": 1656544079,
-  "item_size": 60388420,
+  "files_count": 529,
+  "item_last_updated": 1656628038,
+  "item_size": 64286571,
   "metadata": {
     "identifier": "le_parisien-2022",
     "collection": [
@@ -5239,10 +5575,10 @@
     "publicdate": "2022-04-09 13:42:51",
     "addeddate": "2022-04-09 13:42:51"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1115724696,
+  "server": "ia902501.us.archive.org",
+  "uniq": 934663606,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

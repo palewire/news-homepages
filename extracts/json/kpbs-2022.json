@@ -1,5 +1,5 @@
 {
-  "created": 1656544084,
+  "created": 1656634972,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/6/items/kpbs-2022",
@@ -8048,31 +8048,367 @@
       "sha1": "b8ef4fe678cea1c34a66aaca9ff79ca83b02e1ea"
     },
     {
+      "name": "kpbs-2022-06-29T18:31:13.496101-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552675",
+      "size": "25061",
+      "md5": "4b424d9547cf1e6b519007876f8f61fc",
+      "crc32": "894786ee",
+      "sha1": "2ab3c53060ebf136eeefcfe0aeedd1cd5dd0590b",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-29T18:31:13.496101-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552677",
+      "size": "38137",
+      "md5": "e70efddfd5ef86160fcf51609cf088c4",
+      "crc32": "29af198e",
+      "sha1": "239d1746a50dfe28dcfe9eb5abdc58d394ccbe54",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-29T18:31:13.496101-07:00.jpg",
+      "source": "original",
+      "mtime": "1656552674",
+      "size": "250657",
+      "md5": "85e8dc84713ff1ee3b1005cb9b515589",
+      "crc32": "32957cee",
+      "sha1": "505dffc1717ca93f81791273efc5389d5548349f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-29T18:31:13.496101-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-29T18:31:13.496101-07:00.jpg",
+      "mtime": "1656552764",
+      "size": "10142",
+      "md5": "69749ad59801efb0a687066a55933912",
+      "crc32": "e0bda4e6",
+      "sha1": "4af2d5e1f77ec34a3cf91cf0fac97dca9679dd70"
+    },
+    {
+      "name": "kpbs-2022-06-29T20:44:52.698380-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560699",
+      "size": "26329",
+      "md5": "bdea6999e5f87b5a0426fe1f4a41fe46",
+      "crc32": "c5a7cfe2",
+      "sha1": "b0fcac0ac40a1326265825b9db48aa7174786b75",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-29T20:44:52.698380-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560701",
+      "size": "38146",
+      "md5": "5a63f85874c7f4d6162f3026b5c02c0d",
+      "crc32": "add37ff5",
+      "sha1": "e8243bfd3857b1150f89413a885b42019e9eecc0",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-29T20:44:52.698380-07:00.jpg",
+      "source": "original",
+      "mtime": "1656560698",
+      "size": "236372",
+      "md5": "ae41e8dbd29ee2694fd67185119b65ee",
+      "crc32": "8c2a3fee",
+      "sha1": "00bf88d2463bfdca7a509d6898e9a69e2c2102e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-29T20:44:52.698380-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-29T20:44:52.698380-07:00.jpg",
+      "mtime": "1656560756",
+      "size": "10062",
+      "md5": "957727e31bcdc98314ef8672a90b2571",
+      "crc32": "b99a2701",
+      "sha1": "0618dac6710a0752fcb79815bfc0c8db1c9347e3"
+    },
+    {
+      "name": "kpbs-2022-06-29T22:12:15.349453-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656565937",
+      "size": "26316",
+      "md5": "d962fa4679734ed091bd52ee9570fd21",
+      "crc32": "442d0b84",
+      "sha1": "4650f125e6ec616486361d68c120596c5a51abc4",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-29T22:12:15.349453-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656565939",
+      "size": "38154",
+      "md5": "a712fcddc787730d5d025db83799a409",
+      "crc32": "8b6e1be1",
+      "sha1": "033207cde874523203601c525b25008c30d2d52d",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-29T22:12:15.349453-07:00.jpg",
+      "source": "original",
+      "mtime": "1656565936",
+      "size": "236121",
+      "md5": "3f6b1255eea61ac00f11e24f58cffe6a",
+      "crc32": "3f7f99c4",
+      "sha1": "3e385e8240ba3be9642b364df440bf64e9648c58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-29T22:12:15.349453-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-29T22:12:15.349453-07:00.jpg",
+      "mtime": "1656565990",
+      "size": "10058",
+      "md5": "7623d364d303334f1c9b83b855984d44",
+      "crc32": "3b1c82e5",
+      "sha1": "82c0fcdbbdc900c420635589b7f50a9bebf7e36c"
+    },
+    {
+      "name": "kpbs-2022-06-30T00:01:44.625504-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572511",
+      "size": "26195",
+      "md5": "0a31cc04b0fe8dfe96c89256b849e572",
+      "crc32": "2b5fc5f4",
+      "sha1": "0c256197f2af7973b424e2dcb040282323cf4820",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T00:01:44.625504-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572513",
+      "size": "38256",
+      "md5": "c1a60073f8414685404abc9daf2827dd",
+      "crc32": "826182ee",
+      "sha1": "06317e1a8c6498e8c88f36b36160a0f61028a6e9",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T00:01:44.625504-07:00.jpg",
+      "source": "original",
+      "mtime": "1656572507",
+      "size": "237118",
+      "md5": "0d41a6d5bc03d8bdb58c8a61d61ed569",
+      "crc32": "13ea0fd7",
+      "sha1": "8b775e99d2deb217620389851344467a936d0845",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-30T00:01:44.625504-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-30T00:01:44.625504-07:00.jpg",
+      "mtime": "1656572571",
+      "size": "10057",
+      "md5": "90ed196831359a09b20f9232b771d023",
+      "crc32": "64a558cb",
+      "sha1": "6c6f24ea9f5fddb7d719d74ccc90bb7a7578b0ff"
+    },
+    {
+      "name": "kpbs-2022-06-30T02:05:38.447308-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656579943",
+      "size": "26040",
+      "md5": "a4b22facb09303a0153911a9dbbf2826",
+      "crc32": "0b4d4ab0",
+      "sha1": "94e233999f928708e40fc249c16b50096b416011",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T02:05:38.447308-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656579945",
+      "size": "38278",
+      "md5": "0a5c86af137ccb9c947ab639a1508617",
+      "crc32": "f6ea7657",
+      "sha1": "397c29e14c0d72d6686f9dee658b96d1c33c37c2",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T02:05:38.447308-07:00.jpg",
+      "source": "original",
+      "mtime": "1656579942",
+      "size": "236978",
+      "md5": "32c32b52436fe13a20fdba1c95126972",
+      "crc32": "7da21cf7",
+      "sha1": "132a95985b0358358e046aa072ee7f5a4ea8a329",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-30T02:05:38.447308-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-30T02:05:38.447308-07:00.jpg",
+      "mtime": "1656580031",
+      "size": "10058",
+      "md5": "a5b9e1aee8e7a925b34f473aeda0121a",
+      "crc32": "4b432d9c",
+      "sha1": "25e0e04e9bb26b47ec06cd7ff0d18ebec9346e61"
+    },
+    {
+      "name": "kpbs-2022-06-30T04:02:25.175402-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656586947",
+      "size": "26236",
+      "md5": "2eceb0e933b919e806dc7f15e64bcc09",
+      "crc32": "f4076391",
+      "sha1": "05f6cede3676e588be4338aeaf88ead15f264867",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T04:02:25.175402-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656586948",
+      "size": "38281",
+      "md5": "0afde7b0674cd95000227f9225a58cca",
+      "crc32": "fec74a11",
+      "sha1": "032833b7395ab88d8e2cf3e4e559a8fef1ae4e8e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T04:02:25.175402-07:00.jpg",
+      "source": "original",
+      "mtime": "1656586946",
+      "size": "237103",
+      "md5": "c8ca2e3e0f9e7178bd5079b438876320",
+      "crc32": "c1f6c81a",
+      "sha1": "12ee5eec4dca8c41bae56e8c0c6082d4384ef2df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-30T04:02:25.175402-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-30T04:02:25.175402-07:00.jpg",
+      "mtime": "1656587026",
+      "size": "10045",
+      "md5": "f793fa2cb96afe7915d06650c3ff4617",
+      "crc32": "c3e210b7",
+      "sha1": "ce2b17007769679b2401d700f79c7f2a0d1efa96"
+    },
+    {
+      "name": "kpbs-2022-06-30T06:06:20.774250-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594384",
+      "size": "24905",
+      "md5": "7fcd8d939d6d898314b08feaa327eba4",
+      "crc32": "ced4c963",
+      "sha1": "959be623146b5715207cf37e9a15462c2b4f3fce",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T06:06:20.774250-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594386",
+      "size": "38047",
+      "md5": "975ba692ffa20660e335ea19eac77693",
+      "crc32": "dbee460c",
+      "sha1": "e96eb2702fdb5eec209bae8ff0c74a72abc4fcde",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T06:06:20.774250-07:00.jpg",
+      "source": "original",
+      "mtime": "1656594382",
+      "size": "236901",
+      "md5": "edead13838ca29bf83115bcc2b073943",
+      "crc32": "e62085ef",
+      "sha1": "c78aabe92a0c7cf84189401089c1a3e9fb92d332",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-30T06:06:20.774250-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-30T06:06:20.774250-07:00.jpg",
+      "mtime": "1656594457",
+      "size": "10052",
+      "md5": "b2263fc41613f6af09b82d86cec7dff1",
+      "crc32": "67234aa7",
+      "sha1": "1c148a0d3a07fd863bba05cf23c3c7a854002a97"
+    },
+    {
+      "name": "kpbs-2022-06-30T13:24:15.285230-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656620662",
+      "size": "25463",
+      "md5": "5e87bcc290900189427ea83492c60164",
+      "crc32": "8db97294",
+      "sha1": "57d4c7dfbcf58cf4f9cc16bdcd3e36f87f9eb248",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T13:24:15.285230-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656620664",
+      "size": "38783",
+      "md5": "f0738f8c9cb2baaf2656abacee71269e",
+      "crc32": "4853494d",
+      "sha1": "6a6051f5832b498a2ec78b2dc83a8e321c819992",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T13:24:15.285230-07:00.jpg",
+      "source": "original",
+      "mtime": "1656620659",
+      "size": "283737",
+      "md5": "059f8075cc52cf159e821fdf05c56a87",
+      "crc32": "749aa223",
+      "sha1": "cde39df4a787f88f95ad6ff9d52e2e81feccd7e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-30T13:24:15.285230-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-30T13:24:15.285230-07:00.jpg",
+      "mtime": "1656620721",
+      "size": "10903",
+      "md5": "93dde4d36be41156500d2e440384dce8",
+      "crc32": "2af7cb6b",
+      "sha1": "76572b2e04786343659360b5958308a81e70aad1"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "263f2a25c62c442cd2be0644c3cbcfb0284c8cb8",
-      "mtime": "1656544068",
-      "size": "159776",
-      "md5": "1fbd720b4b302fba51e2c0b7f140419c",
-      "crc32": "e3606bad",
-      "sha1": "2261a977cbd02e39c7a83a695c298399f544febb",
+      "btih": "08001f135ca35cd9e24fe764ff658a7ff5d12336",
+      "mtime": "1656620735",
+      "size": "166388",
+      "md5": "44770aa3329cedd495c4a6d787264e3e",
+      "crc32": "60fac9df",
+      "sha1": "0ea430eb08df1858da815054122d75166157e8c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f98de3b5ade53e7f98caff86ba97b4d0",
+      "md5": "0203901c184379956eeb2146f7c6f797",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656543993",
-      "size": "880640",
-      "md5": "4cc0ab337d2db40b2d0db4bda5f0b744",
-      "crc32": "e9177360",
-      "sha1": "8752db0ad5bf42074cac3d3f9e74bd6edd70a35d",
+      "mtime": "1656620668",
+      "size": "913408",
+      "md5": "fdd7c7e188d75f56865910b362e9b1a0",
+      "crc32": "a67a40de",
+      "sha1": "6fbb635fcb7d09d2428c0ecd0ede303b10a9233a",
       "format": "Metadata"
     },
     {
@@ -8086,9 +8422,1135 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 769,
-  "item_last_updated": 1656544068,
-  "item_size": 79015899,
+  "files_count": 801,
+  "item_last_updated": 1656620735,
+  "item_size": 81604270,
+  "kpbs-2022": [
+    {
+      "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.kpbs.org/"
+    },
+    {
+      "text": "Local ",
+      "url": "https://www.kpbs.org/news/local"
+    },
+    {
+      "text": "National & World",
+      "url": "https://www.kpbs.org/national-and-world"
+    },
+    {
+      "text": "San Diego News Now Podcast",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now"
+    },
+    {
+      "text": "Tracking COVID-19",
+      "url": "https://www.kpbs.org/tags/coronavirus"
+    },
+    {
+      "text": "All News Sections",
+      "url": "https://www.kpbs.org/all-sections"
+    },
+    {
+      "text": "Local ",
+      "url": "https://www.kpbs.org/news/local"
+    },
+    {
+      "text": "National & World",
+      "url": "https://www.kpbs.org/national-and-world"
+    },
+    {
+      "text": "San Diego News Now Podcast",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now"
+    },
+    {
+      "text": "Tracking COVID-19",
+      "url": "https://www.kpbs.org/tags/coronavirus"
+    },
+    {
+      "text": "All News Sections",
+      "url": "https://www.kpbs.org/all-sections"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "https://www.kpbs.org/news/arts-culture"
+    },
+    {
+      "text": "Cinema Junkie",
+      "url": "https://www.kpbs.org/podcasts/cinema-junkie"
+    },
+    {
+      "text": "One Book, One San Diego",
+      "url": "https://www.kpbs.org/one-book-one-san-diego"
+    },
+    {
+      "text": "The Parker Edison Project Podcast",
+      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project"
+    },
+    {
+      "text": "Port of Entry Podcast",
+      "url": "https://www.kpbs.org/podcasts/port-of-entry"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "https://www.kpbs.org/news/arts-culture"
+    },
+    {
+      "text": "Cinema Junkie",
+      "url": "https://www.kpbs.org/podcasts/cinema-junkie"
+    },
+    {
+      "text": "One Book, One San Diego",
+      "url": "https://www.kpbs.org/one-book-one-san-diego"
+    },
+    {
+      "text": "The Parker Edison Project Podcast",
+      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project"
+    },
+    {
+      "text": "Port of Entry Podcast",
+      "url": "https://www.kpbs.org/podcasts/port-of-entry"
+    },
+    {
+      "text": "Watch KPBS On-Demand",
+      "url": "https://video.kpbs.org/"
+    },
+    {
+      "text": "KPBS Evening Edition",
+      "url": "https://www.kpbs.org/news/evening-edition"
+    },
+    {
+      "text": "KPBS Midday Edition",
+      "url": "https://www.kpbs.org/news/midday-edition"
+    },
+    {
+      "text": "KPBS News: This Week",
+      "url": "https://www.kpbs.org/news/this-week"
+    },
+    {
+      "text": "KPBS Roundtable",
+      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable"
+    },
+    {
+      "text": "Kids TV",
+      "url": "https://www.kpbs.org/kpbs-kids"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.kpbs.org/podcasts"
+    },
+    {
+      "text": "Radio Reading Service",
+      "url": "https://www.kpbs.org/radio/reading-service/"
+    },
+    {
+      "text": "Radio Shows",
+      "url": "https://www.kpbs.org/radio"
+    },
+    {
+      "text": "Radio 89.5 Schedule ",
+      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
+    },
+    {
+      "text": "TV Schedules",
+      "url": "https://www.kpbs.org/tv/schedule/"
+    },
+    {
+      "text": "TV Shows",
+      "url": "https://www.kpbs.org/tv/shows"
+    },
+    {
+      "text": "Classical San Diego Schedule",
+      "url": "https://www.kpbs.org/radio/shows/classical-san-diego"
+    },
+    {
+      "text": "Watch KPBS On-Demand",
+      "url": "https://video.kpbs.org/"
+    },
+    {
+      "text": "KPBS Evening Edition",
+      "url": "https://www.kpbs.org/news/evening-edition"
+    },
+    {
+      "text": "KPBS Midday Edition",
+      "url": "https://www.kpbs.org/news/midday-edition"
+    },
+    {
+      "text": "KPBS News: This Week",
+      "url": "https://www.kpbs.org/news/this-week"
+    },
+    {
+      "text": "KPBS Roundtable",
+      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable"
+    },
+    {
+      "text": "Kids TV",
+      "url": "https://www.kpbs.org/kpbs-kids"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.kpbs.org/podcasts"
+    },
+    {
+      "text": "Radio Reading Service",
+      "url": "https://www.kpbs.org/radio/reading-service/"
+    },
+    {
+      "text": "Radio Shows",
+      "url": "https://www.kpbs.org/radio"
+    },
+    {
+      "text": "Radio 89.5 Schedule ",
+      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
+    },
+    {
+      "text": "TV Schedules",
+      "url": "https://www.kpbs.org/tv/schedule/"
+    },
+    {
+      "text": "TV Shows",
+      "url": "https://www.kpbs.org/tv/shows"
+    },
+    {
+      "text": "Classical San Diego Schedule",
+      "url": "https://www.kpbs.org/radio/shows/classical-san-diego"
+    },
+    {
+      "text": "Membership Information",
+      "url": "https://www.kpbs.org/membership-information"
+    },
+    {
+      "text": "KPBS Passport",
+      "url": "https://www.kpbs.org/membership/passport/learn-more"
+    },
+    {
+      "text": "Directors Club",
+      "url": "https://www.kpbs.org/kpbs-directors-club"
+    },
+    {
+      "text": "Producers Club",
+      "url": "https://www.kpbs.org/pc/"
+    },
+    {
+      "text": "Major Giving",
+      "url": "https://www.kpbs.org/major-giving"
+    },
+    {
+      "text": "Building on Trust: The Campaign for KPBS",
+      "url": "https://campaign.kpbs.org/"
+    },
+    {
+      "text": "Vehicle Donation",
+      "url": "https://www.kpbs.org/give/car-donations"
+    },
+    {
+      "text": "Corporate Support",
+      "url": "https://www.kpbs.org/corporate-sponsorship"
+    },
+    {
+      "text": "Other Ways to Give",
+      "url": "https://www.kpbs.org/membership/other-ways-to-give"
+    },
+    {
+      "text": "Our Corporate Sponsors",
+      "url": "https://www.kpbs.org/corporate-sponsors"
+    },
+    {
+      "text": "Membership Information",
+      "url": "https://www.kpbs.org/membership-information"
+    },
+    {
+      "text": "KPBS Passport",
+      "url": "https://www.kpbs.org/membership/passport/learn-more"
+    },
+    {
+      "text": "Directors Club",
+      "url": "https://www.kpbs.org/kpbs-directors-club"
+    },
+    {
+      "text": "Producers Club",
+      "url": "https://www.kpbs.org/pc/"
+    },
+    {
+      "text": "Major Giving",
+      "url": "https://www.kpbs.org/major-giving"
+    },
+    {
+      "text": "Building on Trust: The Campaign for KPBS",
+      "url": "https://campaign.kpbs.org/"
+    },
+    {
+      "text": "Vehicle Donation",
+      "url": "https://www.kpbs.org/give/car-donations"
+    },
+    {
+      "text": "Corporate Support",
+      "url": "https://www.kpbs.org/corporate-sponsorship"
+    },
+    {
+      "text": "Other Ways to Give",
+      "url": "https://www.kpbs.org/membership/other-ways-to-give"
+    },
+    {
+      "text": "Our Corporate Sponsors",
+      "url": "https://www.kpbs.org/corporate-sponsors"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.kpbs.org/events/all"
+    },
+    {
+      "text": "Events Calendar",
+      "url": "https://www.kpbs.org/events/all"
+    },
+    {
+      "text": "Arts Calendar",
+      "url": "https://www.kpbs.org/events/arts"
+    },
+    {
+      "text": "Fourth of July",
+      "url": "https://www.kpbs.org/fourthofjuly"
+    },
+    {
+      "text": "Submit an Event",
+      "url": "https://www.kpbs.org/events/submit/"
+    },
+    {
+      "text": "Events Calendar",
+      "url": "https://www.kpbs.org/events/all"
+    },
+    {
+      "text": "Arts Calendar",
+      "url": "https://www.kpbs.org/events/arts"
+    },
+    {
+      "text": "Fourth of July",
+      "url": "https://www.kpbs.org/fourthofjuly"
+    },
+    {
+      "text": "Submit an Event",
+      "url": "https://www.kpbs.org/events/submit/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "https://www.kpbs.org/watch-live"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.kpbs.org/newsletters"
+    },
+    {
+      "text": "Voter Hub",
+      "url": "https://www.kpbs.org/tags/elections"
+    },
+    {
+      "text": "Gu\u00eda Electoral",
+      "url": "https://www.kpbs.org/tags/elecciones"
+    },
+    {
+      "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "Give Now",
+      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
+    },
+    {
+      "text": "The World ",
+      "url": "https://www.pri.org/programs/the-world"
+    },
+    {
+      "text": "1A",
+      "url": "https://the1a.org/"
+    },
+    {
+      "text": "Full Schedule\n                            ",
+      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
+    },
+    {
+      "text": "News",
+      "url": "https://www.kpbs.org/"
+    },
+    {
+      "text": "Local ",
+      "url": "https://www.kpbs.org/news/local"
+    },
+    {
+      "text": "National & World",
+      "url": "https://www.kpbs.org/national-and-world"
+    },
+    {
+      "text": "San Diego News Now Podcast",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now"
+    },
+    {
+      "text": "Tracking COVID-19",
+      "url": "https://www.kpbs.org/tags/coronavirus"
+    },
+    {
+      "text": "All News Sections",
+      "url": "https://www.kpbs.org/all-sections"
+    },
+    {
+      "text": "Local ",
+      "url": "https://www.kpbs.org/news/local"
+    },
+    {
+      "text": "National & World",
+      "url": "https://www.kpbs.org/national-and-world"
+    },
+    {
+      "text": "San Diego News Now Podcast",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now"
+    },
+    {
+      "text": "Tracking COVID-19",
+      "url": "https://www.kpbs.org/tags/coronavirus"
+    },
+    {
+      "text": "All News Sections",
+      "url": "https://www.kpbs.org/all-sections"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "https://www.kpbs.org/news/arts-culture"
+    },
+    {
+      "text": "Cinema Junkie",
+      "url": "https://www.kpbs.org/podcasts/cinema-junkie"
+    },
+    {
+      "text": "One Book, One San Diego",
+      "url": "https://www.kpbs.org/one-book-one-san-diego"
+    },
+    {
+      "text": "The Parker Edison Project Podcast",
+      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project"
+    },
+    {
+      "text": "Port of Entry Podcast",
+      "url": "https://www.kpbs.org/podcasts/port-of-entry"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "https://www.kpbs.org/news/arts-culture"
+    },
+    {
+      "text": "Cinema Junkie",
+      "url": "https://www.kpbs.org/podcasts/cinema-junkie"
+    },
+    {
+      "text": "One Book, One San Diego",
+      "url": "https://www.kpbs.org/one-book-one-san-diego"
+    },
+    {
+      "text": "The Parker Edison Project Podcast",
+      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project"
+    },
+    {
+      "text": "Port of Entry Podcast",
+      "url": "https://www.kpbs.org/podcasts/port-of-entry"
+    },
+    {
+      "text": "Watch KPBS On-Demand",
+      "url": "https://video.kpbs.org/"
+    },
+    {
+      "text": "KPBS Evening Edition",
+      "url": "https://www.kpbs.org/news/evening-edition"
+    },
+    {
+      "text": "KPBS Midday Edition",
+      "url": "https://www.kpbs.org/news/midday-edition"
+    },
+    {
+      "text": "KPBS News: This Week",
+      "url": "https://www.kpbs.org/news/this-week"
+    },
+    {
+      "text": "KPBS Roundtable",
+      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable"
+    },
+    {
+      "text": "Kids TV",
+      "url": "https://www.kpbs.org/kpbs-kids"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.kpbs.org/podcasts"
+    },
+    {
+      "text": "Radio Reading Service",
+      "url": "https://www.kpbs.org/radio/reading-service/"
+    },
+    {
+      "text": "Radio Shows",
+      "url": "https://www.kpbs.org/radio"
+    },
+    {
+      "text": "Radio 89.5 Schedule ",
+      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
+    },
+    {
+      "text": "TV Schedules",
+      "url": "https://www.kpbs.org/tv/schedule/"
+    },
+    {
+      "text": "TV Shows",
+      "url": "https://www.kpbs.org/tv/shows"
+    },
+    {
+      "text": "Classical San Diego Schedule",
+      "url": "https://www.kpbs.org/radio/shows/classical-san-diego"
+    },
+    {
+      "text": "Watch KPBS On-Demand",
+      "url": "https://video.kpbs.org/"
+    },
+    {
+      "text": "KPBS Evening Edition",
+      "url": "https://www.kpbs.org/news/evening-edition"
+    },
+    {
+      "text": "KPBS Midday Edition",
+      "url": "https://www.kpbs.org/news/midday-edition"
+    },
+    {
+      "text": "KPBS News: This Week",
+      "url": "https://www.kpbs.org/news/this-week"
+    },
+    {
+      "text": "KPBS Roundtable",
+      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable"
+    },
+    {
+      "text": "Kids TV",
+      "url": "https://www.kpbs.org/kpbs-kids"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.kpbs.org/podcasts"
+    },
+    {
+      "text": "Radio Reading Service",
+      "url": "https://www.kpbs.org/radio/reading-service/"
+    },
+    {
+      "text": "Radio Shows",
+      "url": "https://www.kpbs.org/radio"
+    },
+    {
+      "text": "Radio 89.5 Schedule ",
+      "url": "https://www.kpbs.org/radio/shows/89-5-fm"
+    },
+    {
+      "text": "TV Schedules",
+      "url": "https://www.kpbs.org/tv/schedule/"
+    },
+    {
+      "text": "TV Shows",
+      "url": "https://www.kpbs.org/tv/shows"
+    },
+    {
+      "text": "Classical San Diego Schedule",
+      "url": "https://www.kpbs.org/radio/shows/classical-san-diego"
+    },
+    {
+      "text": "Membership Information",
+      "url": "https://www.kpbs.org/membership-information"
+    },
+    {
+      "text": "KPBS Passport",
+      "url": "https://www.kpbs.org/membership/passport/learn-more"
+    },
+    {
+      "text": "Directors Club",
+      "url": "https://www.kpbs.org/kpbs-directors-club"
+    },
+    {
+      "text": "Producers Club",
+      "url": "https://www.kpbs.org/pc/"
+    },
+    {
+      "text": "Major Giving",
+      "url": "https://www.kpbs.org/major-giving"
+    },
+    {
+      "text": "Building on Trust: The Campaign for KPBS",
+      "url": "https://campaign.kpbs.org/"
+    },
+    {
+      "text": "Vehicle Donation",
+      "url": "https://www.kpbs.org/give/car-donations"
+    },
+    {
+      "text": "Corporate Support",
+      "url": "https://www.kpbs.org/corporate-sponsorship"
+    },
+    {
+      "text": "Other Ways to Give",
+      "url": "https://www.kpbs.org/membership/other-ways-to-give"
+    },
+    {
+      "text": "Our Corporate Sponsors",
+      "url": "https://www.kpbs.org/corporate-sponsors"
+    },
+    {
+      "text": "Membership Information",
+      "url": "https://www.kpbs.org/membership-information"
+    },
+    {
+      "text": "KPBS Passport",
+      "url": "https://www.kpbs.org/membership/passport/learn-more"
+    },
+    {
+      "text": "Directors Club",
+      "url": "https://www.kpbs.org/kpbs-directors-club"
+    },
+    {
+      "text": "Producers Club",
+      "url": "https://www.kpbs.org/pc/"
+    },
+    {
+      "text": "Major Giving",
+      "url": "https://www.kpbs.org/major-giving"
+    },
+    {
+      "text": "Building on Trust: The Campaign for KPBS",
+      "url": "https://campaign.kpbs.org/"
+    },
+    {
+      "text": "Vehicle Donation",
+      "url": "https://www.kpbs.org/give/car-donations"
+    },
+    {
+      "text": "Corporate Support",
+      "url": "https://www.kpbs.org/corporate-sponsorship"
+    },
+    {
+      "text": "Other Ways to Give",
+      "url": "https://www.kpbs.org/membership/other-ways-to-give"
+    },
+    {
+      "text": "Our Corporate Sponsors",
+      "url": "https://www.kpbs.org/corporate-sponsors"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.kpbs.org/events/all"
+    },
+    {
+      "text": "Events Calendar",
+      "url": "https://www.kpbs.org/events/all"
+    },
+    {
+      "text": "Arts Calendar",
+      "url": "https://www.kpbs.org/events/arts"
+    },
+    {
+      "text": "Fourth of July",
+      "url": "https://www.kpbs.org/fourthofjuly"
+    },
+    {
+      "text": "Submit an Event",
+      "url": "https://www.kpbs.org/events/submit/"
+    },
+    {
+      "text": "Events Calendar",
+      "url": "https://www.kpbs.org/events/all"
+    },
+    {
+      "text": "Arts Calendar",
+      "url": "https://www.kpbs.org/events/arts"
+    },
+    {
+      "text": "Fourth of July",
+      "url": "https://www.kpbs.org/fourthofjuly"
+    },
+    {
+      "text": "Submit an Event",
+      "url": "https://www.kpbs.org/events/submit/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "https://www.kpbs.org/watch-live"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.kpbs.org/newsletters"
+    },
+    {
+      "text": "Voter Hub",
+      "url": "https://www.kpbs.org/tags/elections"
+    },
+    {
+      "text": "Gu\u00eda Electoral",
+      "url": "https://www.kpbs.org/tags/elecciones"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n                    \n                        \n\n\n\n    \n\n\n\n                    \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
+    },
+    {
+      "text": " Today is the last day of our fiscal year! Your donation now helps bring independent news, educational documentaries and irresistible dramas for another year. Become a sustaining member today!",
+      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
+    },
+    {
+      "text": " \u2665 Give Now!",
+      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
+    },
+    {
+      "text": "Top Stories\n                ",
+      "url": "https://www.kpbs.org/news/local"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-sides-with-the-biden-administration-in-remain-in-mexico-case"
+    },
+    {
+      "text": "National",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "Supreme Court sides with the Biden administration in 'Remain in Mexico' case",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-sides-with-the-biden-administration-in-remain-in-mexico-case"
+    },
+    {
+      "text": "Supreme Court restricts the EPA's authority to mandate carbon emissions reductions",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-restricts-the-epas-authority-to-mandate-carbon-emissions"
+    },
+    {
+      "text": "How the Supreme Court could radically reshape elections for president and Congress",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/how-the-supreme-court-could-radically-reshape-elections-for-president-and-congress"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/border-immigration/2022/06/30/mexican-abortion-clinics-bracing-influx-americans"
+    },
+    {
+      "text": "Border & Immigration",
+      "url": "https://www.kpbs.org/news/border-immigration"
+    },
+    {
+      "text": "Mexican abortion clinics bracing for influx of Americans",
+      "url": "https://www.kpbs.org/news/border-immigration/2022/06/30/mexican-abortion-clinics-bracing-influx-americans"
+    },
+    {
+      "text": "Gustavo Solis",
+      "url": "https://www.kpbs.org/staff/gustavo-solis"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/29/california-one-step-closer-to-constitutional-amendment-protecting-abortion-rights"
+    },
+    {
+      "text": "Local",
+      "url": "https://www.kpbs.org/news/local"
+    },
+    {
+      "text": "California one step closer to constitutional amendment protecting abortion rights",
+      "url": "https://www.kpbs.org/news/local/2022/06/29/california-one-step-closer-to-constitutional-amendment-protecting-abortion-rights"
+    },
+    {
+      "text": "Maureen Cavanaugh",
+      "url": "https://www.kpbs.org/staff/maureen-cavanaugh"
+    },
+    {
+      "text": "Andrew Bracken",
+      "url": "https://www.kpbs.org/staff/andrew-bracken"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n                    \n                        \n\n\n\n    \n\n\n\n                    \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/tags/elections#election-results"
+    },
+    {
+      "text": "Featured Podcast\n                ",
+      "url": "https://www.kpbs.org/podcasts"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/san-diegos-climate-action-plan"
+    },
+    {
+      "text": "San Diego\u2019s climate action plan",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/san-diegos-climate-action-plan"
+    },
+    {
+      "text": "Read More",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/san-diegos-climate-action-plan"
+    },
+    {
+      "text": "Local News\n                ",
+      "url": "https://www.kpbs.org/news/local"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/controversial-pigs-as-police-art-installation-in-escondido-wont-be-removed"
+    },
+    {
+      "text": "Controversial 'pigs as police' art installation in Escondido won't be removed",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/controversial-pigs-as-police-art-installation-in-escondido-wont-be-removed"
+    },
+    {
+      "text": "Tania  Thorne",
+      "url": "https://www.kpbs.org/staff/tania-thorne"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/san-diego-weekend-arts-events-oma-auction-sauced-lora-mathis-black-panther"
+    },
+    {
+      "text": "San Diego weekend arts events: OMA auction, 'Sauced,' Lora Mathis, 'Black Panther' and more",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/san-diego-weekend-arts-events-oma-auction-sauced-lora-mathis-black-panther"
+    },
+    {
+      "text": "Julia Dixon Evans",
+      "url": "https://www.kpbs.org/staff/julia-dixon-evans"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/chp-plans-annual-fourth-of-july-maximum-enforcement-campaign"
+    },
+    {
+      "text": "CHP plans annual Fourth of July 'maximum enforcement' campaign",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/chp-plans-annual-fourth-of-july-maximum-enforcement-campaign"
+    },
+    {
+      "text": "City News Service",
+      "url": "https://www.kpbs.org/staff/city-news-service"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-says-several-gun-cases-deserve-a-new-look"
+    },
+    {
+      "text": "Supreme Court says several gun cases deserve a new look",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-says-several-gun-cases-deserve-a-new-look"
+    },
+    {
+      "text": "National News\n                ",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/election-deniers-have-taken-their-fraud-theories-on-tour-to-nearly-every-state"
+    },
+    {
+      "text": "National",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "Election deniers have taken their fraud theories on tour \u2014 to nearly every state",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/election-deniers-have-taken-their-fraud-theories-on-tour-to-nearly-every-state"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/international/2022/06/30/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-began"
+    },
+    {
+      "text": "International",
+      "url": "https://www.kpbs.org/news/international"
+    },
+    {
+      "text": "Scientists say they've solved a 700-year-old mystery: Where and when Black Death began",
+      "url": "https://www.kpbs.org/news/international/2022/06/30/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-began"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/the-u-s-is-facing-a-domestic-threat-from-trump-liz-cheney-says"
+    },
+    {
+      "text": "National",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "The U.S. is facing a domestic threat from Trump, Liz Cheney says",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/the-u-s-is-facing-a-domestic-threat-from-trump-liz-cheney-says"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/international/2022/06/30/mariupol-theater-bombing-was-a-clear-war-crime-amnesty-international-says"
+    },
+    {
+      "text": "International",
+      "url": "https://www.kpbs.org/news/international"
+    },
+    {
+      "text": "Mariupol theater bombing was a clear war crime, Amnesty International says",
+      "url": "https://www.kpbs.org/news/international/2022/06/30/mariupol-theater-bombing-was-a-clear-war-crime-amnesty-international-says"
+    },
+    {
+      "text": "Overturning of Roe v. Wade\n                ",
+      "url": "https://www.kpbs.org/news/health"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/24/supreme-court-overturns-roe-v-wade-dobbs-v-jackson-liveblog"
+    },
+    {
+      "text": "Live blog: Mexican abortion clinics bracing for influx of Americans",
+      "url": "https://www.kpbs.org/news/local/2022/06/24/supreme-court-overturns-roe-v-wade-dobbs-v-jackson-liveblog"
+    },
+    {
+      "text": "Biden says he supports change in Senate filibuster rules for abortion rights",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/biden-says-he-supports-change-in-senate-filibuster-rules-for-abortion-rights"
+    },
+    {
+      "text": "One man's outsized role in shaping the Supreme Court and overturning Roe",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/one-mans-outsized-role-in-shaping-the-supreme-court-and-overturning-roe"
+    },
+    {
+      "text": "Major health system stops, then resumes Plan B amid Missouri's abortion ban ambiguity",
+      "url": "https://www.kpbs.org/news/national/2022/06/29/major-health-system-stops-offering-plan-b-because-of-missouris-abortion-ban"
+    },
+    {
+      "text": "TV Highlights\n                ",
+      "url": "https://www.kpbs.org/tags/tv-highlights"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/2022/05/02/out-of-the-boondocks"
+    },
+    {
+      "text": "OUT OF THE BOONDOCKS",
+      "url": "https://www.kpbs.org/news/2022/05/02/out-of-the-boondocks"
+    },
+    {
+      "text": "Expect a Miracle: Finding Light in The Darkness of a Pandemic",
+      "url": "https://www.kpbs.org/news/arts-culture/2020/06/03/expect-miracle-finding-light-darkness-pandemic"
+    },
+    {
+      "text": "MIDSOMER MURDERS: Season 19 ",
+      "url": "https://www.kpbs.org/news/arts-culture/2021/06/08/midsomer-murders-season-19"
+    },
+    {
+      "text": "THE GREAT AMERICAN RECIPE",
+      "url": "https://www.kpbs.org/news/2022/06/03/the-great-american-recipe"
+    },
+    {
+      "text": "THE FOOD FLIRTS",
+      "url": "https://www.kpbs.org/news/arts-culture/2017/11/21/food-flirts"
+    },
+    {
+      "text": "Health\n                ",
+      "url": "https://www.kpbs.org/news/health"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/california-will-require-health-facilities-to-start-sharing-patient-data-with-each-other"
+    },
+    {
+      "text": "California will require health facilities to start sharing patient data with each other",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/california-will-require-health-facilities-to-start-sharing-patient-data-with-each-other"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/29/scripps-health-urges-covid-caution-over-fourth-of-july-weekend"
+    },
+    {
+      "text": "Scripps Health urges COVID caution over Fourth of July weekend",
+      "url": "https://www.kpbs.org/news/local/2022/06/29/scripps-health-urges-covid-caution-over-fourth-of-july-weekend"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/29/californias-change-to-concealed-carry-permits-would-reduce-wide-variations-among-counties"
+    },
+    {
+      "text": "California\u2019s change to concealed carry permits would reduce wide variations among counties\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/29/californias-change-to-concealed-carry-permits-would-reduce-wide-variations-among-counties"
+    },
+    {
+      "text": "Politics\n                ",
+      "url": "https://www.kpbs.org/news/politics"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/international/2022/06/30/ukraine-wins-back-control-over-snake-island"
+    },
+    {
+      "text": "Ukraine wins back control over Snake Island",
+      "url": "https://www.kpbs.org/news/international/2022/06/30/ukraine-wins-back-control-over-snake-island"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/nuclear-power-is-gaining-support-after-years-of-decline-but-old-hurdles-remain"
+    },
+    {
+      "text": "Nuclear power is gaining support after years of decline. But old hurdles remain",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/nuclear-power-is-gaining-support-after-years-of-decline-but-old-hurdles-remain"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/international/2022/06/29/dictators-son-ferdinand-marcos-jr-takes-oath-as-philippine-president"
+    },
+    {
+      "text": "Dictator's son Ferdinand Marcos Jr. takes oath as Philippine president",
+      "url": "https://www.kpbs.org/news/international/2022/06/29/dictators-son-ferdinand-marcos-jr-takes-oath-as-philippine-president"
+    },
+    {
+      "text": "Arts & Culture\n                ",
+      "url": "https://www.kpbs.org/news/arts-culture"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/29/wildsong-stages-jekyll-and-hyde-at-ob-playhouse"
+    },
+    {
+      "text": "Wildsong stages 'Jekyll and Hyde' at OB Playhouse",
+      "url": "https://www.kpbs.org/news/local/2022/06/29/wildsong-stages-jekyll-and-hyde-at-ob-playhouse"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/06/27/thumbprint-gallery-celebrates-13th-anniversary"
+    },
+    {
+      "text": "Thumbprint Gallery celebrates 13th anniversary",
+      "url": "https://www.kpbs.org/news/local/2022/06/27/thumbprint-gallery-celebrates-13th-anniversary"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/arts-culture/2022/06/24/this-weekend-elvis-or-the-black-phone"
+    },
+    {
+      "text": "This weekend: 'Elvis' or 'The Black Phone'",
+      "url": "https://www.kpbs.org/news/arts-culture/2022/06/24/this-weekend-elvis-or-the-black-phone"
+    },
+    {
+      "text": "Community Events\n                ",
+      "url": "https://www.kpbs.org/events/all"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/events/2022/06/30/three-dog-night-in-concert-of-hope-for-homeless-youth"
+    },
+    {
+      "text": "Three Dog Night in Concert of Hope for Homeless Youth",
+      "url": "https://www.kpbs.org/events/2022/06/30/three-dog-night-in-concert-of-hope-for-homeless-youth"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/events/2022/07/02/crown-city-classic-12k-5k"
+    },
+    {
+      "text": "Crown City Classic 12K & 5K",
+      "url": "https://www.kpbs.org/events/2022/07/02/crown-city-classic-12k-5k"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/events/2022/07/03/mission-bays-3rd-of-july-fireworks"
+    },
+    {
+      "text": "Mission Bay\u2019s 3rd of July fireworks",
+      "url": "https://www.kpbs.org/events/2022/07/03/mission-bays-3rd-of-july-fireworks"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/events/2022/07/04/coronado-fourth-of-july-fireworks-and-parade"
+    },
+    {
+      "text": "Coronado Fourth of July Fireworks and Parade",
+      "url": "https://www.kpbs.org/events/2022/07/04/coronado-fourth-of-july-fireworks-and-parade"
+    },
+    {
+      "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "twitter",
+      "url": "https://twitter.com/kpbs"
+    },
+    {
+      "text": "instagram",
+      "url": "https://www.instagram.com/kpbs/"
+    },
+    {
+      "text": "youtube",
+      "url": "https://www.youtube.com/channel/UCP9Zo2a0-bS9oPd_8tl92rQ"
+    },
+    {
+      "text": "facebook",
+      "url": "https://www.facebook.com/KPBSSanDiego"
+    },
+    {
+      "text": "About Us & Mission",
+      "url": "https://www.kpbs.org/about-us"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.kpbs.org/about/careers/"
+    },
+    {
+      "text": "FCC & Financial ",
+      "url": "https://www.kpbs.org/fcc-financial-and-other-reports"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.kpbs.org/kpbs-on-the-go"
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://www.kpbs.org/tags/press-releases"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.kpbs.org/privacy-policy"
+    },
+    {
+      "text": "Staff",
+      "url": "https://www.kpbs.org/staff/"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://www.kpbs.org/terms-of-service"
+    },
+    {
+      "text": "Audience and Member Services",
+      "url": "https://www.kpbs.org/kpbs-audience-and-member-services"
+    },
+    {
+      "text": "Closed Captioning",
+      "url": "https://www.kpbs.org/closed-captioning"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.kpbs.org/contact-us"
+    },
+    {
+      "text": "FAQs",
+      "url": "https://www.kpbs.org/faq"
+    },
+    {
+      "text": "How do I listen? ",
+      "url": "https://www.kpbs.org/radio/livestream#how-do-i-listen"
+    },
+    {
+      "text": "Corporate Support",
+      "url": "https://www.kpbs.org/corporate-sponsorship"
+    },
+    {
+      "text": "Donate ",
+      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&ref_medium=site-text-links&_ga=2.36619939.2060971585.1627846822-1201957814.1616689752&ref_campaign=membership-page#/home"
+    },
+    {
+      "text": "Membership Information",
+      "url": "https://www.kpbs.org/membership-information"
+    },
+    {
+      "text": "Other Ways to Give",
+      "url": "https://www.kpbs.org/membership/other-ways-to-give"
+    },
+    {
+      "text": "Tax ID",
+      "url": "https://www.kpbs.org/help/tax-id"
+    },
+    {
+      "text": "Vehicle Donation",
+      "url": "https://www.kpbs.org/give/car-donations"
+    }
+  ],
   "metadata": {
     "identifier": "kpbs-2022",
     "collection": [
@@ -8106,7 +9568,7 @@
     "addeddate": "2022-03-24 02:06:19"
   },
   "server": "ia902500.us.archive.org",
-  "uniq": 1300317387,
+  "uniq": 38367163,
   "workable_servers": [
     "ia902500.us.archive.org",
     "ia802500.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1656543920,
+  "created": 1656634900,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -1716,31 +1716,325 @@
       "sha1": "e7ed699c954e96c6ce753ad39129463b16a94378"
     },
     {
+      "name": "fivethirtyeight-2022-06-29T21:29:43.865918-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552586",
+      "size": "19594",
+      "md5": "96aed35c57e71b9a1c5fd30af75e900d",
+      "crc32": "61581e65",
+      "sha1": "61118370d1b23662fafac89da141a2208fd3e690",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-29T21:29:43.865918-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552587",
+      "size": "20696",
+      "md5": "afbe96b5970944e49da6d6f90af1e12a",
+      "crc32": "96c9cb99",
+      "sha1": "b931bbad18604753659b8bb9ffeb4b945b8315b1",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-29T21:29:43.865918-04:00.jpg",
+      "source": "original",
+      "mtime": "1656552584",
+      "size": "278735",
+      "md5": "b913b08ddfa941e8fbdde2456f16ab09",
+      "crc32": "ef46f04f",
+      "sha1": "a995bd8cba68b6cd94bb348062e011177ae6685f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-29T21:29:43.865918-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-06-29T21:29:43.865918-04:00.jpg",
+      "mtime": "1656552630",
+      "size": "9177",
+      "md5": "e958102e78df180589639ee31c9f76ca",
+      "crc32": "3e6a0892",
+      "sha1": "1258fbd2e7ca1474f4b96acddbe3ea5700366b0c"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-29T23:42:11.979978-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560535",
+      "size": "20029",
+      "md5": "7dfe639641587908a7798012e6cfd65e",
+      "crc32": "64dd416f",
+      "sha1": "4a10f09fe8d6b4627d21bd09e1352f27ae29158e",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-29T23:42:11.979978-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560536",
+      "size": "20582",
+      "md5": "c13c427fa6558748f7675517dd071a38",
+      "crc32": "1d45f073",
+      "sha1": "ed88b1afa5079d8876009325a101fffe31b8e2fe",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-29T23:42:11.979978-04:00.jpg",
+      "source": "original",
+      "mtime": "1656560533",
+      "size": "278896",
+      "md5": "2ea9f87949c71dc6e2387c9bf24715a5",
+      "crc32": "ad46fb92",
+      "sha1": "cf3615ddb88492cde1d41d17defcf27bc16dd3bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-29T23:42:11.979978-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-06-29T23:42:11.979978-04:00.jpg",
+      "mtime": "1656560591",
+      "size": "9172",
+      "md5": "9e2f4c507ca1bbb7896540e33b2f0ea4",
+      "crc32": "27ff9df9",
+      "sha1": "56b071a01f7438654f4ec25a6cfcdd384411fba9"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T01:10:48.709966-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656565852",
+      "size": "19133",
+      "md5": "66bf3ee20373ce9e0134b76d0851c127",
+      "crc32": "af119066",
+      "sha1": "83809d26e48eae284b4fb22df361746cca16e35a",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T01:10:48.709966-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656565856",
+      "size": "19767",
+      "md5": "e3d630e175f8f64c3bc274f78079e684",
+      "crc32": "c24543ad",
+      "sha1": "add4d5ad95d4d972c81d90ea6b17c62648483ae9",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T01:10:48.709966-04:00.jpg",
+      "source": "original",
+      "mtime": "1656565850",
+      "size": "278650",
+      "md5": "dff2a35b6635eb4362bf99400a797c8b",
+      "crc32": "837f4b88",
+      "sha1": "dc489f034b15ad3dda413dd0c77d714ef670bd63",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T01:10:48.709966-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-06-30T01:10:48.709966-04:00.jpg",
+      "mtime": "1656565917",
+      "size": "9177",
+      "md5": "b043c4dc0b18f640e888a017fdbaab9f",
+      "crc32": "faf7f964",
+      "sha1": "a1738eec3b54caec8ae7cf532e3a81bebfdbcd91"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T03:00:16.853860-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572419",
+      "size": "19234",
+      "md5": "704415a1beb0361021ee07b118146fc4",
+      "crc32": "df49fc1b",
+      "sha1": "c7aef16f6780aaf8b52d7e8be79ca37f5db2fbf8",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T03:00:16.853860-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572420",
+      "size": "20341",
+      "md5": "f69127bdd2d48beaa263fada04846c6a",
+      "crc32": "21fcc9a1",
+      "sha1": "6330ef0dd8e02e799e3d620daedc6df780bcebba",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T03:00:16.853860-04:00.jpg",
+      "source": "original",
+      "mtime": "1656572418",
+      "size": "278536",
+      "md5": "a464a45887886075a78b91adef1111c6",
+      "crc32": "d43c4503",
+      "sha1": "7bb462e3e4dd0a0cc6c8dce321fd2b8e26e95a4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T03:00:16.853860-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-06-30T03:00:16.853860-04:00.jpg",
+      "mtime": "1656572476",
+      "size": "9177",
+      "md5": "2c942871312b4e28623d45b53a0c05a4",
+      "crc32": "6d72b96e",
+      "sha1": "82a582b25c689482b35b992bed2082bede50c84a"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T05:03:15.261560-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656579799",
+      "size": "19251",
+      "md5": "644618e6253f0bcaa6127c9c66d3f028",
+      "crc32": "f0f30536",
+      "sha1": "31e5cd0d0d437fdeb737d28c0189b8e6c9cdfdd5",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T05:03:15.261560-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656579801",
+      "size": "19606",
+      "md5": "85adae7a5b8bf5302ba8f554bfa15aa7",
+      "crc32": "62577263",
+      "sha1": "a2093392d47a9e2e9e17b94d030c875410a4143a",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T05:03:15.261560-04:00.jpg",
+      "source": "original",
+      "mtime": "1656579797",
+      "size": "278596",
+      "md5": "86f0b7c39a46c6b6db27b38823e783b3",
+      "crc32": "1846a3df",
+      "sha1": "2c6c7a512281293e3c506bda05bb8c2881111ef2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T05:03:15.261560-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-06-30T05:03:15.261560-04:00.jpg",
+      "mtime": "1656579854",
+      "size": "9175",
+      "md5": "0e01e8385d04a423996928662d4a2c42",
+      "crc32": "5bc1d574",
+      "sha1": "e154fc664641eaf57a4f177ad55e549aa76b366e"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T07:00:11.559786-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656586819",
+      "size": "19742",
+      "md5": "263e6f9a10b3902a1535cb6352ed6b92",
+      "crc32": "f5aba75f",
+      "sha1": "e893eff8a7dc10eb90723fad4dedadcc6af89ba8",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T07:00:11.559786-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656586821",
+      "size": "20854",
+      "md5": "cd98c81f6b3e23780402080f58c89572",
+      "crc32": "e2bbc0ec",
+      "sha1": "7b26772e46c8d598c6fa22cd3e8e36a671e9a1b0",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T07:00:11.559786-04:00.jpg",
+      "source": "original",
+      "mtime": "1656586818",
+      "size": "280157",
+      "md5": "36e8946507491d82ebb340713a5d9fb4",
+      "crc32": "3a584e32",
+      "sha1": "e72d305311a507b492b03d949bd05986dbdb2782",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T07:00:11.559786-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-06-30T07:00:11.559786-04:00.jpg",
+      "mtime": "1656586883",
+      "size": "9175",
+      "md5": "bbcc7d37c151b0c31a9f5af1996ff61a",
+      "crc32": "87f65e46",
+      "sha1": "b240a14ee2424180083bfb56a1bac76e844e4448"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T09:04:26.368349-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594270",
+      "size": "19402",
+      "md5": "856739aae2fe6908b25250c719e33f85",
+      "crc32": "1c2f2f26",
+      "sha1": "94dc08c521b5521e44ad2f834896c3c7f13dfcb7",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T09:04:26.368349-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594272",
+      "size": "20665",
+      "md5": "7fd0b214e6d1b82c97f2463b0074f676",
+      "crc32": "b86ea675",
+      "sha1": "ee4d4e77e304e0f37b675f9e84dc1e73d3847273",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T09:04:26.368349-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594268",
+      "size": "271248",
+      "md5": "f2f0478dbd3c190dfd92c9450cdbbe74",
+      "crc32": "2682569f",
+      "sha1": "e5c925d87adc37b171abe6b3979d672058544ba0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-06-30T09:04:26.368349-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-06-30T09:04:26.368349-04:00.jpg",
+      "mtime": "1656594318",
+      "size": "9043",
+      "md5": "23fd52eaae753058fb3d0bf50f50ff93",
+      "crc32": "4095435c",
+      "sha1": "0845a5639a696a566c7ad80beabed0a9fcf10e9a"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73108bddf276804c30f419e2cb017caf920fdb1d",
-      "mtime": "1656543914",
-      "size": "36890",
-      "md5": "65ae69bb3db4e0f7d52d2f0db70fa859",
-      "crc32": "541f79ea",
-      "sha1": "3a5cf6c5426d082896fbb5e9d9c599f4522fcf5f",
+      "btih": "124f1e1f54a5c18d2b7dc43dcc259b30e3bbd3c2",
+      "mtime": "1656594321",
+      "size": "42969",
+      "md5": "63c82f8b1a0ae495ca56dcdfb16430c1",
+      "crc32": "4cbf443d",
+      "sha1": "19594a02fb6ee9a8f4c9676db3e29de7e9ee748e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf3bc2c7d32f8fb5a26ebd9558942992",
+      "md5": "369d32b71073d1a06c06b3d19453e01c",
       "summation": "md5"
     },
     {
       "name": "fivethirtyeight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656543869",
-      "size": "212992",
-      "md5": "93d2f2c9eb3a00fbd7550c5cc1c42aea",
-      "crc32": "7d84fb0c",
-      "sha1": "9c6bc3ccbb66878f84942d3791d5b036478a057a",
+      "mtime": "1656594275",
+      "size": "241664",
+      "md5": "c8924b2075badcc45692429b7e1acddf",
+      "crc32": "2893cf54",
+      "sha1": "ed750600d2931e6c202bf96af1ab459d3de47fbc",
       "format": "Metadata"
     },
     {
@@ -1754,9 +2048,511 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 167,
-  "item_last_updated": 1656543914,
-  "item_size": 12883877,
+  "files_count": 195,
+  "fivethirtyeight-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#content"
+    },
+    {
+      "text": "\n\t\t\t\t\tFiveThirtyEight\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\tABC News\n\t\t\t",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tPolitics\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/politics/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tSports\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/sports/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tScience\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/science/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tPodcasts\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/podcasts/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tVideo\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tABC News\t\t\t\t\t",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/even-exceptions-to-abortion-bans-pit-a-mothers-life-against-doctors-fears/"
+    },
+    {
+      "text": "Abortion",
+      "url": "https://fivethirtyeight.com/tag/abortion/"
+    },
+    {
+      "text": "\n\t\t\t\t\tEven Exceptions To Abortion Bans Pit A Mother\u2019s Life Against Doctors\u2019 Fears\t\t\t",
+      "url": "https://fivethirtyeight.com/features/even-exceptions-to-abortion-bans-pit-a-mothers-life-against-doctors-fears/"
+    },
+    {
+      "text": "Maggie Koerth",
+      "url": "https://fivethirtyeight.com/contributors/maggie-koerth/"
+    },
+    {
+      "text": "Amelia Thomson-DeVeaux",
+      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
+    },
+    {
+      "text": "NCAA",
+      "url": "https://fivethirtyeight.com/tag/ncaa/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tCollege Athletes Suffered When Schools Weren\u2019t Ready For NIL\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/college-athletes-suffered-when-schools-werent-ready-for-nil/"
+    },
+    {
+      "text": "Josh Planos",
+      "url": "https://fivethirtyeight.com/contributors/josh-planos/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/college-athletes-suffered-when-schools-werent-ready-for-nil/"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://fivethirtyeight.com/tag/2022-election/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tWhat Went Down During The June 28 Primary Elections\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/live-blog/ny-illinois-colorado-election-2022/"
+    },
+    {
+      "text": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/contributors/fivethirtyeight/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/live-blog/ny-illinois-colorado-election-2022/"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://fivethirtyeight.com/tag/2022-election/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tWhere The Midterms Could Most Affect Abortion Access\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/where-the-midterms-could-most-affect-abortion-access/"
+    },
+    {
+      "text": "Nathaniel Rakich",
+      "url": "https://fivethirtyeight.com/contributors/nathaniel-rakich/"
+    },
+    {
+      "text": "Geoffrey Skelley",
+      "url": "https://fivethirtyeight.com/contributors/geoffrey-skelley/"
+    },
+    {
+      "text": "Amelia Thomson-DeVeaux",
+      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/where-the-midterms-could-most-affect-abortion-access/"
+    },
+    {
+      "text": "\n\t\t\tEven Exceptions To Abortion Bans Pit A Mother\u2019s Life Against Doctors\u2019 Fears\t\t",
+      "url": "https://fivethirtyeight.com/features/even-exceptions-to-abortion-bans-pit-a-mothers-life-against-doctors-fears/"
+    },
+    {
+      "text": "\n\t\t\tCollege Athletes Suffered When Schools Weren\u2019t Ready For NIL\t\t",
+      "url": "https://fivethirtyeight.com/features/college-athletes-suffered-when-schools-werent-ready-for-nil/"
+    },
+    {
+      "text": "\n\t\t\tJackie Young\u2019s Breakout Has Lifted The Aces To The Top Of The WNBA\t\t",
+      "url": "https://fivethirtyeight.com/features/jackie-youngs-breakout-has-lifted-the-aces-to-the-top-of-the-wnba/"
+    },
+    {
+      "text": "\n\t\t\tThe Datasets We\u2019re Looking At This Week\t\t",
+      "url": "https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-7/"
+    },
+    {
+      "text": "\n\t\t\tWhere The Midterms Could Most Affect Abortion Access\t\t",
+      "url": "https://fivethirtyeight.com/features/where-the-midterms-could-most-affect-abortion-access/"
+    },
+    {
+      "text": "\n\t\t\tThe Supreme Court Dealt A Big Blow To The Separation Of Church And State\t\t",
+      "url": "https://fivethirtyeight.com/videos/the-supreme-court-dealt-a-big-blow-to-the-separation-of-church-and-state/"
+    },
+    {
+      "text": "\n\t\t\tThe Election Deniers Dominating The Primaries In Colorado\t\t",
+      "url": "https://fivethirtyeight.com/videos/the-election-deniers-dominating-the-primaries-in-colorado/"
+    },
+    {
+      "text": "\n\t\t\t21 Republican Primaries And A Special Election To Watch On June 28\t\t",
+      "url": "https://fivethirtyeight.com/features/21-republican-primaries-and-a-special-election-to-watch-on-june-28/"
+    },
+    {
+      "text": "All stories",
+      "url": "https://fivethirtyeight.com/features/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/jackie-youngs-breakout-has-lifted-the-aces-to-the-top-of-the-wnba/"
+    },
+    {
+      "text": "WNBA",
+      "url": "https://fivethirtyeight.com/tag/wnba/"
+    },
+    {
+      "text": "\n\t\t\t\t\tJackie Young\u2019s Breakout Has Lifted The Aces To The Top Of The WNBA\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/jackie-youngs-breakout-has-lifted-the-aces-to-the-top-of-the-wnba/"
+    },
+    {
+      "text": "James L. Jackson",
+      "url": "https://fivethirtyeight.com/contributors/james-l-jackson/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-7/"
+    },
+    {
+      "text": "Data Is Plural",
+      "url": "https://fivethirtyeight.com/tag/data-is-plural/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThe Datasets We\u2019re Looking At This Week\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-7/"
+    },
+    {
+      "text": "Jeremy Singer-Vine",
+      "url": "https://fivethirtyeight.com/contributors/jeremy-singer-vine/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/the-supreme-court-dealt-a-big-blow-to-the-separation-of-church-and-state/?cid=rrfeaturedvideo"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://fivethirtyeight.com/tag/supreme-court/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThe Supreme Court Dealt A Big Blow To The Separation Of Church And State\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/the-supreme-court-dealt-a-big-blow-to-the-separation-of-church-and-state/"
+    },
+    {
+      "text": "Amelia Thomson-DeVeaux",
+      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
+    },
+    {
+      "text": "Anna Rothschild",
+      "url": "https://fivethirtyeight.com/contributors/anna-rothschild/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/the-political-consequences-of-overturning-roe-v-wade/?cid=rrfeaturedvideo"
+    },
+    {
+      "text": "Politics Podcast",
+      "url": "https://fivethirtyeight.com/tag/politics-podcast/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThe Political Consequences Of Overturning Roe v. Wade\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/the-political-consequences-of-overturning-roe-v-wade/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/what-happens-when-you-cancel-the-youth-olympic-games/"
+    },
+    {
+      "text": "Olympics",
+      "url": "https://fivethirtyeight.com/tag/olympics/"
+    },
+    {
+      "text": "\n\t\t\t\t\tWhat Happens When You Cancel The Youth Olympic Games?\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/what-happens-when-you-cancel-the-youth-olympic-games/"
+    },
+    {
+      "text": "Sydney Bauer",
+      "url": "https://fivethirtyeight.com/contributors/sydney-bauer/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/roe-v-wade-defined-an-era-the-supreme-court-just-started-a-new-one/"
+    },
+    {
+      "text": "Abortion",
+      "url": "https://fivethirtyeight.com/tag/abortion/"
+    },
+    {
+      "text": "\n\t\t\t\t\tRoe v. Wade Defined An Era. The Supreme Court Just Started A New One.\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/roe-v-wade-defined-an-era-the-supreme-court-just-started-a-new-one/"
+    },
+    {
+      "text": "Amelia Thomson-DeVeaux",
+      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
+    },
+    {
+      "text": "Politics Podcast",
+      "url": "https://fivethirtyeight.com/tag/politics-podcast/"
+    },
+    {
+      "text": "What The Politics Of Abortion Look Like Now",
+      "url": "https://fivethirtyeight.com/features/politics-podcast-what-the-politics-of-abortion-look-like-now/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/the-supreme-courts-argument-for-overturning-roe-v-wade/"
+    },
+    {
+      "text": "Abortion",
+      "url": "https://fivethirtyeight.com/tag/abortion/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThe Supreme Court\u2019s Argument For Overturning Roe v. Wade\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/the-supreme-courts-argument-for-overturning-roe-v-wade/"
+    },
+    {
+      "text": "Amelia Thomson-DeVeaux",
+      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/supreme-court-gun-rights/?cid=rrfeaturedvideo"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://fivethirtyeight.com/tag/supreme-court/"
+    },
+    {
+      "text": "\n\t\t\t\t\tHow The Supreme Court\u2019s Gun Ruling Remakes Gun Control For Millions Of Americans\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/supreme-court-gun-rights/"
+    },
+    {
+      "text": "Amelia Thomson-DeVeaux",
+      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
+    },
+    {
+      "text": "Michael Tabb",
+      "url": "https://fivethirtyeight.com/contributors/michael-tabb/"
+    },
+    {
+      "text": "Anna Rothschild",
+      "url": "https://fivethirtyeight.com/contributors/anna-rothschild/"
+    },
+    {
+      "text": "More >",
+      "url": "https://fivethirtyeight.com/features/"
+    },
+    {
+      "text": "Politics Podcast",
+      "url": "https://fivethirtyeight.com/tag/politics-podcast/"
+    },
+    {
+      "text": "A Half-Dozen Incumbents Could Lose Primaries On June 28",
+      "url": "https://fivethirtyeight.com/videos/a-half-dozen-incumbents-could-lose-primaries-on-june-28/"
+    },
+    {
+      "text": "Subscribe on YouTube",
+      "url": "https://www.youtube.com/FiveThirtyEight?sub_confirmation=1"
+    },
+    {
+      "text": "All videos",
+      "url": "https://fivethirtyeight.com/videos/"
+    },
+    {
+      "text": "Sponsored Links by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Sponsored Links by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Promoted Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Promoted Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Jewels of Rome",
+      "url": "https://play.g5e.com/jewels-of-rome?type_of_interaction=click&app_id=com.g5e.romepg.winrt.g5en&partner_id=taboola&campaign=taboola_jor_pcv_us_cpc_mixed_2022-06&cost_type=cpc&taboola_click_id=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyCr61go6_mxrv2VrMB7&tblci=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyCr61go6_mxrv2VrMB7#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyCr61go6_mxrv2VrMB7&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Jewels of RomeFree prizes are awaiting you! Members of the Jewels of Rome receive exclusive in-game rewards.",
+      "url": "https://play.g5e.com/jewels-of-rome?type_of_interaction=click&app_id=com.g5e.romepg.winrt.g5en&partner_id=taboola&campaign=taboola_jor_pcv_us_cpc_mixed_2022-06&cost_type=cpc&taboola_click_id=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyCr61go6_mxrv2VrMB7&tblci=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyCr61go6_mxrv2VrMB7#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyCr61go6_mxrv2VrMB7&cid=referral_taboola_paid"
+    },
+    {
+      "text": "NerdWallet NMLS ID# 1617539",
+      "url": "https://www.nerdwallet.com/ur/?utm_content=991b6d&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=abcnews-fivethirtyeight&mktg_link=3136941486#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyCpiEEo7M-Wq86eydmTAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "NerdWallet NMLS ID# 1617539California: Discover great mortgage rates in 2022",
+      "url": "https://www.nerdwallet.com/ur/?utm_content=991b6d&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=abcnews-fivethirtyeight&mktg_link=3136941486#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyCpiEEo7M-Wq86eydmTAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "WarpedSpeed",
+      "url": "https://www.warpedspeed.com/g/can-you-name-every-state-capital/?utm_source=taboola&utm_medium=abcnews-fivethirtyeight&utm_content=14760181&utm_campaign=14760181abcnews-fivethirtyeight&utm_term=Quiz%3A+How+Well+Do+You+Know+America%27s+50+States&cid=referral_taboola_paid"
+    },
+    {
+      "text": "WarpedSpeedQuiz: How Well Do You Know America's 50 States",
+      "url": "https://www.warpedspeed.com/g/can-you-name-every-state-capital/?utm_source=taboola&utm_medium=abcnews-fivethirtyeight&utm_content=14760181&utm_campaign=14760181abcnews-fivethirtyeight&utm_term=Quiz%3A+How+Well+Do+You+Know+America%27s+50+States&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Starscope",
+      "url": "https://lmzzi.rdtk.io/61855069c87ae10001ac78ea?sub1=abcnews-fivethirtyeight&sub2=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Ff240b02123f58b98a5e306d737781779.png&sub3=Why+Is+this+%2447+Monocular+Better+than+%243000+Telescopes%3F&sub4=2022-06-30+12%3A33%3A44&sub5=Desktop&sub6=13758907&sub7=3048077541&sub8=1184468&ref_id=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyChp1Yo2Zy0_sH006dO&utm_source=taboola&utm_medium=referral#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyChp1Yo2Zy0_sH006dO&cid=referral_taboola_paid"
+    },
+    {
+      "text": "StarscopeWhy Is this $47 Monocular Better than $3000 Telescopes?",
+      "url": "https://lmzzi.rdtk.io/61855069c87ae10001ac78ea?sub1=abcnews-fivethirtyeight&sub2=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Ff240b02123f58b98a5e306d737781779.png&sub3=Why+Is+this+%2447+Monocular+Better+than+%243000+Telescopes%3F&sub4=2022-06-30+12%3A33%3A44&sub5=Desktop&sub6=13758907&sub7=3048077541&sub8=1184468&ref_id=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyChp1Yo2Zy0_sH006dO&utm_source=taboola&utm_medium=referral#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyChp1Yo2Zy0_sH006dO&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Forge Of Empires",
+      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_us_us_wl_broad&external_param=3008480516&pid=abcnews-fivethirtyeight&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyDJqD8oiNPsgsChvdlT#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyDJqD8oiNPsgsChvdlT&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Forge Of EmpiresIf You Spend Time on Your Computer, this Vintage Game is a Must-Have. No Install.",
+      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_us_us_wl_broad&external_param=3008480516&pid=abcnews-fivethirtyeight&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyDJqD8oiNPsgsChvdlT#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyDJqD8oiNPsgsChvdlT&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Capital One Shopping",
+      "url": "https://capitaloneshopping.com/blog/heres-the-best-way-to-buy-apple-bb5e702bc788?utm_source=jaguar11&utm_campaign=18931705&utm_term=3429977404&tblci=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyDR3kAo2u39n_WLso2-AQ#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyDR3kAo2u39n_WLso2-AQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Capital One ShoppingThe genius trick every Apple Shopper should know",
+      "url": "https://capitaloneshopping.com/blog/heres-the-best-way-to-buy-apple-bb5e702bc788?utm_source=jaguar11&utm_campaign=18931705&utm_term=3429977404&tblci=GiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyDR3kAo2u39n_WLso2-AQ#tblciGiBYRqkRdjZ24KwHIey8VodIGNiKtY0dkaC4MKjKTzRJEyDR3kAo2u39n_WLso2-AQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "CCPA Notice",
+      "url": "https://ccparequest.taboola.com/"
+    },
+    {
+      "text": "See all newsletters",
+      "url": "https://fivethirtyeight.com/newsletters/"
+    },
+    {
+      "text": "Store",
+      "url": "https://cottonbureau.com/stores/fivethirtyeight#/shop"
+    },
+    {
+      "text": "Newsletter",
+      "url": "https://fivethirtyeight.com/newsletter/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/fivethirtyeight"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/fivethirtyeight"
+    },
+    {
+      "text": "Data",
+      "url": "https://data.fivethirtyeight.com/"
+    },
+    {
+      "text": "RSS",
+      "url": "https://fivethirtyeight.com/features/fear-not-readers-we-have-rss-feeds/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://fivethirtyeight.com/about-us/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://fivethirtyeight.com/tag/fivethirtyeight-jobs/"
+    },
+    {
+      "text": "Masthead",
+      "url": "https://fivethirtyeight.com/masthead/"
+    },
+    {
+      "text": "Pitch FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/how-to-pitch-fivethirtyeight/"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "https://disneyadsales.com/our-brands/abc-news/"
+    },
+    {
+      "text": "About Nielsen Measurement",
+      "url": "http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html"
+    },
+    {
+      "text": "WordPress VIP",
+      "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=fivethirtyeight.com"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://disneytermsofuse.com/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://disneyprivacycenter.com/"
+    },
+    {
+      "text": "Do Not Sell My Personal Information",
+      "url": "#"
+    },
+    {
+      "text": "Your California Privacy Rights",
+      "url": "https://disneyprivacycenter.com/notice-to-california-residents/"
+    },
+    {
+      "text": "Children's Online Privacy Policy",
+      "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/"
+    },
+    {
+      "text": "Interest-Based Ads",
+      "url": "https://preferences-mgr.truste.com/?type=abcnews&affiliateId=11&cid=clicksource_4380645_footer_interestbasedads"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://disneytermsofuse.com/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://disneyprivacycenter.com/"
+    },
+    {
+      "text": "Your California Privacy Rights",
+      "url": "https://disneyprivacycenter.com/notice-to-california-residents/"
+    },
+    {
+      "text": "Children's Online Privacy Policy",
+      "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/"
+    },
+    {
+      "text": "Interest-Based Ads",
+      "url": "https://preferences-mgr.truste.com/?type=abcnews&affiliateId=11&cid=clicksource_4380645_footer_interestbasedads"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://disneyprivacycenter.com/cookies-policy-translations/cookies-policy/"
+    },
+    {
+      "text": "Your California Privacy Rights",
+      "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/"
+    },
+    {
+      "text": "link",
+      "url": "https://www.iabprivacy.com/optout.html"
+    },
+    {
+      "text": "Do Not Sell My Personal Information Rights",
+      "url": "https://privacy.thewaltdisneycompany.com/en/dnsmi/"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    }
+  ],
+  "item_last_updated": 1656594321,
+  "item_size": 15206438,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -1773,10 +2569,10 @@
     "publicdate": "2022-06-19 23:24:21",
     "addeddate": "2022-06-19 23:24:21"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 462379317,
+  "server": "ia801501.us.archive.org",
+  "uniq": 103796535,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

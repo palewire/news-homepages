@@ -1,5 +1,5 @@
 {
-  "created": 1656548403,
+  "created": 1656635251,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/wttw-2022",
@@ -856,31 +856,325 @@
       "sha1": "95c9fc495e53b08fefd54779f3bb8ce5ada1cf8d"
     },
     {
+      "name": "wttw-2022-06-29T20:38:31.481747-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656553114",
+      "size": "18101",
+      "md5": "5f7120a9bd018c5a6a4f212b29e93866",
+      "crc32": "adff254a",
+      "sha1": "b83ec4411cb50b7f6d541ce05ff99417894629aa",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T20:38:31.481747-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656553116",
+      "size": "20810",
+      "md5": "418cd57f92b6f16a5a1c1700e0f85492",
+      "crc32": "98f36a47",
+      "sha1": "f1c69545a99ea4f2ac55a54c9113c1ff42a1660d",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T20:38:31.481747-05:00.jpg",
+      "source": "original",
+      "mtime": "1656553112",
+      "size": "301210",
+      "md5": "dfa2a846ba11eb1a0686ed340c6ede11",
+      "crc32": "6b899018",
+      "sha1": "148b737fc6f922a376083592854bd172e3b73333",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-29T20:38:31.481747-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-29T20:38:31.481747-05:00.jpg",
+      "mtime": "1656553160",
+      "size": "9929",
+      "md5": "61040e2af153a1be14df327d525d1fe7",
+      "crc32": "926d5903",
+      "sha1": "9085e372c1337073cac2b54c985547da5195d8c4"
+    },
+    {
+      "name": "wttw-2022-06-29T22:51:42.893045-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656561105",
+      "size": "17897",
+      "md5": "c4e602dcd695116a5bb7619840b65bb1",
+      "crc32": "70e4e054",
+      "sha1": "4156fee2a62d0d02275d4488672545004dea7d29",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T22:51:42.893045-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656561107",
+      "size": "20806",
+      "md5": "cf4c507a396b6c4ebdb483cea3471b82",
+      "crc32": "d228715a",
+      "sha1": "3ce9107391e07ebcf18f2cd03f4d49be9689cfbc",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-29T22:51:42.893045-05:00.jpg",
+      "source": "original",
+      "mtime": "1656561104",
+      "size": "298633",
+      "md5": "1f8acf7094e4e5931e820615f0c1729d",
+      "crc32": "0de9301f",
+      "sha1": "2698d6af40e8d287ff8cf6ee0a2fcdb44cda0774",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-29T22:51:42.893045-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-29T22:51:42.893045-05:00.jpg",
+      "mtime": "1656561157",
+      "size": "10124",
+      "md5": "7141655f7f931aff3cb570633a201810",
+      "crc32": "d708ab4b",
+      "sha1": "30bc49514a6fa3946e6d56d667d7c2e2dddca14a"
+    },
+    {
+      "name": "wttw-2022-06-30T00:19:59.703185-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566402",
+      "size": "17872",
+      "md5": "96614c89991faa78026b9d5de67f7da2",
+      "crc32": "b4c6ef43",
+      "sha1": "b68f751a0e1a48ad9779f4d2511ba2634620b504",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T00:19:59.703185-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566403",
+      "size": "20546",
+      "md5": "d37dc777e19f0ae6606597d31e712c54",
+      "crc32": "9a74fe02",
+      "sha1": "b7fd0fc15828143c46161998f7f689374e94ed5d",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T00:19:59.703185-05:00.jpg",
+      "source": "original",
+      "mtime": "1656566400",
+      "size": "297887",
+      "md5": "c965703f6d70936cc6c7100103964e84",
+      "crc32": "5a383bb6",
+      "sha1": "4989af110f132001431bd05491360fa457ed641e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-30T00:19:59.703185-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-30T00:19:59.703185-05:00.jpg",
+      "mtime": "1656566453",
+      "size": "10112",
+      "md5": "1d0d4d097c6afeb30364dcf6fbb13726",
+      "crc32": "3cf9e8f1",
+      "sha1": "8cc6e68c7c8189dc9619441e5f4273488079e5ed"
+    },
+    {
+      "name": "wttw-2022-06-30T02:10:15.867393-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656573018",
+      "size": "17914",
+      "md5": "a0d9b23c859836b482aecc0b173684fc",
+      "crc32": "7ddb068f",
+      "sha1": "a1f04f8983dab468d5ee78342ceaac3c0f0d4def",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T02:10:15.867393-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656573020",
+      "size": "20748",
+      "md5": "797865d8fb7789340bf54d4318077b0c",
+      "crc32": "8e6afddc",
+      "sha1": "b87743b8c09ec3375d97b3abf5e204ad2714561b",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T02:10:15.867393-05:00.jpg",
+      "source": "original",
+      "mtime": "1656573017",
+      "size": "300848",
+      "md5": "6bc4da8a19fd333014a1a2c807ce5c46",
+      "crc32": "7b6a7012",
+      "sha1": "c03ace7edfaf5b4d577d0222eff1754e7cd22c02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-30T02:10:15.867393-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-30T02:10:15.867393-05:00.jpg",
+      "mtime": "1656573070",
+      "size": "10147",
+      "md5": "ea68f7b5088d32225b9814a4f7a3770f",
+      "crc32": "7da95928",
+      "sha1": "4e1e500f614284c1b0050e851efe279004c324a4"
+    },
+    {
+      "name": "wttw-2022-06-30T04:13:44.692993-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580427",
+      "size": "17975",
+      "md5": "97f39c9204c37609d834aaa7e359c6b0",
+      "crc32": "e2d91011",
+      "sha1": "53df3dda7729a62acdae4197c9a7aa7a6c8ab6af",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T04:13:44.692993-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580430",
+      "size": "21203",
+      "md5": "245af61168eac4489b0083b05b77ea8e",
+      "crc32": "3c1d01a2",
+      "sha1": "72d46e13866692f4f11bf8888946eca2a0230e5d",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T04:13:44.692993-05:00.jpg",
+      "source": "original",
+      "mtime": "1656580426",
+      "size": "302520",
+      "md5": "98ca4d382b69c2dca6927c600f561dbc",
+      "crc32": "89844e39",
+      "sha1": "07a8c829efce4e9b6fa513f13bac1256f73362f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-30T04:13:44.692993-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-30T04:13:44.692993-05:00.jpg",
+      "mtime": "1656580477",
+      "size": "10160",
+      "md5": "dd73cd7c6483ca6ac8799e4128551dda",
+      "crc32": "5449b8ee",
+      "sha1": "0990a01fb21f63b51bf8269cfa0632f8a14ea558"
+    },
+    {
+      "name": "wttw-2022-06-30T06:10:13.696964-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587420",
+      "size": "18130",
+      "md5": "ab69d7fd281656af22839bc15968ca6d",
+      "crc32": "0bf63c04",
+      "sha1": "06e2b57e58e58868900fd91864f4cc0cdb7c8fcb",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T06:10:13.696964-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587422",
+      "size": "21882",
+      "md5": "8102ab7017ebe81c41534d4f16e207d0",
+      "crc32": "6ad3ceff",
+      "sha1": "1a29f7ba681fa8982c62b71198129378e8203dba",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T06:10:13.696964-05:00.jpg",
+      "source": "original",
+      "mtime": "1656587419",
+      "size": "312516",
+      "md5": "46c6a53c8fcad363d29a9ce0bcbd2a5b",
+      "crc32": "b95775f5",
+      "sha1": "81b78f6d1e1b7ec060b1c800abf6f7646734ebff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-30T06:10:13.696964-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-30T06:10:13.696964-05:00.jpg",
+      "mtime": "1656587482",
+      "size": "10284",
+      "md5": "6e4137547f919f577308390adc66711f",
+      "crc32": "a2511477",
+      "sha1": "2438463249095507288a0e1ca4d5682d777fca91"
+    },
+    {
+      "name": "wttw-2022-06-30T08:15:23.104441-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594925",
+      "size": "18120",
+      "md5": "c3dea0993a56211e694ed72b59a62493",
+      "crc32": "6e1220e1",
+      "sha1": "860754be80009225b08992b88dc052aecbec1335",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T08:15:23.104441-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594928",
+      "size": "22007",
+      "md5": "6fbcadce0c6c7265893714fb0ff32f3d",
+      "crc32": "148feb21",
+      "sha1": "3d980065ac4a1e8a05496c94d070a0feb76af8d8",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-06-30T08:15:23.104441-05:00.jpg",
+      "source": "original",
+      "mtime": "1656594924",
+      "size": "313166",
+      "md5": "d72197268b30b411f3329ac7846eb636",
+      "crc32": "acc3c4bf",
+      "sha1": "e9a37a0911a838fe2fc7f91eb8c39f560bf263d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-06-30T08:15:23.104441-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-06-30T08:15:23.104441-05:00.jpg",
+      "mtime": "1656594975",
+      "size": "10280",
+      "md5": "b9bb0b7ffdf3fca17b813fbe7433498d",
+      "crc32": "2cebf6b7",
+      "sha1": "4d70787faddaa7627af119a9971de5c49fe22811"
+    },
+    {
       "name": "wttw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "64227b4991ad862229bd2cdaa937949405458fae",
-      "mtime": "1656544531",
-      "size": "18098",
-      "md5": "c0e348b126e4d1bb4d08ad24767b906b",
-      "crc32": "4be6e876",
-      "sha1": "1189b67aa0acee8d3cfc61ef4e042a7c11fac7b8",
+      "btih": "df583eb10444ef4a7650f35b432e6f96f290166f",
+      "mtime": "1656594980",
+      "size": "23895",
+      "md5": "8deed39815ebb3a4c8e54a1d91a90ef2",
+      "crc32": "0efcf82d",
+      "sha1": "e30ac72177722f88749072424bc384b5ef2a6494",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wttw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e29a60a6e81fcea1e3cc1a91dd17be05",
+      "md5": "b4888372d8330e8b65dfe5e8cabbae85",
       "summation": "md5"
     },
     {
       "name": "wttw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544487",
-      "size": "110592",
-      "md5": "aa7f69d2ae73801903bccb5b87c4540b",
-      "crc32": "00c19ed8",
-      "sha1": "d3c85651c4a1df1ceb2cbff430412f05f1045940",
+      "mtime": "1656594931",
+      "size": "147456",
+      "md5": "6abc473dfc5b8aff6d0ec14c5a0f01ce",
+      "crc32": "039bca00",
+      "sha1": "30f365f7fda68b37d5ecb60a93df59a041fc1491",
       "format": "Metadata"
     },
     {
@@ -894,9 +1188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 85,
-  "item_last_updated": 1656544531,
-  "item_size": 6611905,
+  "files_count": 113,
+  "item_last_updated": 1656594980,
+  "item_size": 9126393,
   "metadata": {
     "identifier": "wttw-2022",
     "collection": [
@@ -914,7 +1208,7 @@
     "addeddate": "2022-06-24 23:05:07"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1141191348,
+  "uniq": 295937408,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"
@@ -1178,19 +1472,15 @@
     },
     {
       "text": "",
-      "url": "https://schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective/"
+      "url": "https://schedule.wttw.com/episodes/574894/Broadchurch/Episode-3/"
     },
     {
       "text": "",
-      "url": "/content/nature-whale-detective-0"
+      "url": "/content/broadchurch-episode-3"
     },
     {
-      "text": "Nature: The Whale Detective",
-      "url": "https://schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective/"
-    },
-    {
-      "text": "How to Identify Individual Whales",
-      "url": "https://schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective/?tp=c5e63dd2-b7ad-4016-a643-e22fc6646393"
+      "text": "Broadchurch: Episode 3",
+      "url": "https://schedule.wttw.com/episodes/574894/Broadchurch/Episode-3/"
     },
     {
       "text": "Enter the Treasure Hunt!",
@@ -1234,19 +1524,19 @@
     },
     {
       "text": "",
-      "url": "https://interactive.wttw.com/playlist/2022/06/21/ten-iconic-chicago-restaurants"
+      "url": "https://interactive.wttw.com/playlist/2022/06/29/behind-scenes-wherewithall-restaurant"
     },
     {
-      "text": "Ten of Chicago's Most Iconic Restaurants",
-      "url": "https://interactive.wttw.com/playlist/2022/06/21/ten-iconic-chicago-restaurants"
+      "text": "A Day in the Life of a Fine Dining Restaurant",
+      "url": "https://interactive.wttw.com/playlist/2022/06/29/behind-scenes-wherewithall-restaurant"
     },
     {
       "text": "",
-      "url": "https://interactive.wttw.com/chicago-stories/our-soldiers-our-lady-of-guadalupe/video?v=edward-cervantez"
+      "url": "https://interactive.wttw.com/firsthand/segregation/video?v=rachel-toft"
     },
     {
-      "text": "White Sox Bat Boy and Vietnam Soldier",
-      "url": "https://interactive.wttw.com/chicago-stories/our-soldiers-our-lady-of-guadalupe/video?v=edward-cervantez"
+      "text": "Public Schools and Segregation",
+      "url": "https://interactive.wttw.com/firsthand/segregation/video?v=rachel-toft"
     },
     {
       "text": "",
@@ -1281,204 +1571,204 @@
       "url": "https://schedule.wttw.com/"
     },
     {
-      "text": "BBC World News America",
-      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+      "text": "Wild Kratts",
+      "url": "//schedule.wttw.com/series/17990/Wild-Kratts"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+      "text": "Wild Ponies",
+      "url": "//schedule.wttw.com/episodes/439741/Wild-Kratts/Wild-Ponies"
     },
     {
-      "text": "PBS NewsHour",
-      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+      "text": "Hero Elementary",
+      "url": "//schedule.wttw.com/series/30565/Hero-Elementary"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+      "text": "Squeak to Me / Team's Song Theme Song",
+      "url": "//schedule.wttw.com/episodes/497420/Hero-Elementary/Squeak-to-Me-/-Team's-Song-Theme-Song"
     },
     {
-      "text": "Chicago Tonight",
-      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+      "text": "Alma's Way",
+      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+      "text": "Steggie Rescue/Alma Hits The Right Note",
+      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
     },
     {
-      "text": "Nature",
-      "url": "//schedule.wttw.com/series/88/Nature"
+      "text": "Curious George",
+      "url": "//schedule.wttw.com/series/14227/Curious-George"
     },
     {
-      "text": "The Whale Detective",
-      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+      "text": "Doctor Monkey/Curious George The Architect",
+      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
     },
     {
-      "text": "NOVA",
-      "url": "//schedule.wttw.com/series/54/NOVA"
+      "text": "Daniel Tiger's Neighborhood",
+      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
     },
     {
-      "text": "Great Electric Airplane Race",
-      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
+      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
     },
     {
-      "text": "BBC World News America",
-      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+      "text": "Wild Kratts",
+      "url": "//schedule.wttw.com/series/17990/Wild-Kratts"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+      "text": "Wild Ponies",
+      "url": "//schedule.wttw.com/episodes/439741/Wild-Kratts/Wild-Ponies"
     },
     {
-      "text": "PBS NewsHour",
-      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+      "text": "Hero Elementary",
+      "url": "//schedule.wttw.com/series/30565/Hero-Elementary"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+      "text": "Squeak to Me / Team's Song Theme Song",
+      "url": "//schedule.wttw.com/episodes/497420/Hero-Elementary/Squeak-to-Me-/-Team's-Song-Theme-Song"
     },
     {
-      "text": "Chicago Tonight",
-      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+      "text": "Alma's Way",
+      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+      "text": "Steggie Rescue/Alma Hits The Right Note",
+      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
     },
     {
-      "text": "Nature",
-      "url": "//schedule.wttw.com/series/88/Nature"
+      "text": "Curious George",
+      "url": "//schedule.wttw.com/series/14227/Curious-George"
     },
     {
-      "text": "The Whale Detective",
-      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+      "text": "Doctor Monkey/Curious George The Architect",
+      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
     },
     {
-      "text": "NOVA",
-      "url": "//schedule.wttw.com/series/54/NOVA"
+      "text": "Daniel Tiger's Neighborhood",
+      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
     },
     {
-      "text": "Great Electric Airplane Race",
-      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
+      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
     },
     {
-      "text": "BBC World News America",
-      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+      "text": "Wild Kratts",
+      "url": "//schedule.wttw.com/series/17990/Wild-Kratts"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+      "text": "Wild Ponies",
+      "url": "//schedule.wttw.com/episodes/439741/Wild-Kratts/Wild-Ponies"
     },
     {
-      "text": "PBS NewsHour",
-      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+      "text": "Hero Elementary",
+      "url": "//schedule.wttw.com/series/30565/Hero-Elementary"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+      "text": "Squeak to Me / Team's Song Theme Song",
+      "url": "//schedule.wttw.com/episodes/497420/Hero-Elementary/Squeak-to-Me-/-Team's-Song-Theme-Song"
     },
     {
-      "text": "Chicago Tonight",
-      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+      "text": "Alma's Way",
+      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+      "text": "Steggie Rescue/Alma Hits The Right Note",
+      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
     },
     {
-      "text": "Nature",
-      "url": "//schedule.wttw.com/series/88/Nature"
+      "text": "Curious George",
+      "url": "//schedule.wttw.com/series/14227/Curious-George"
     },
     {
-      "text": "The Whale Detective",
-      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+      "text": "Doctor Monkey/Curious George The Architect",
+      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
     },
     {
-      "text": "NOVA",
-      "url": "//schedule.wttw.com/series/54/NOVA"
+      "text": "Daniel Tiger's Neighborhood",
+      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
     },
     {
-      "text": "Great Electric Airplane Race",
-      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
+      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
     },
     {
-      "text": "BBC World News America",
-      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+      "text": "Wild Kratts",
+      "url": "//schedule.wttw.com/series/17990/Wild-Kratts"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+      "text": "Wild Ponies",
+      "url": "//schedule.wttw.com/episodes/439741/Wild-Kratts/Wild-Ponies"
     },
     {
-      "text": "PBS NewsHour",
-      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+      "text": "Hero Elementary",
+      "url": "//schedule.wttw.com/series/30565/Hero-Elementary"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+      "text": "Squeak to Me / Team's Song Theme Song",
+      "url": "//schedule.wttw.com/episodes/497420/Hero-Elementary/Squeak-to-Me-/-Team's-Song-Theme-Song"
     },
     {
-      "text": "Chicago Tonight",
-      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+      "text": "Alma's Way",
+      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+      "text": "Steggie Rescue/Alma Hits The Right Note",
+      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
     },
     {
-      "text": "Nature",
-      "url": "//schedule.wttw.com/series/88/Nature"
+      "text": "Curious George",
+      "url": "//schedule.wttw.com/series/14227/Curious-George"
     },
     {
-      "text": "The Whale Detective",
-      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+      "text": "Doctor Monkey/Curious George The Architect",
+      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
     },
     {
-      "text": "NOVA",
-      "url": "//schedule.wttw.com/series/54/NOVA"
+      "text": "Daniel Tiger's Neighborhood",
+      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
     },
     {
-      "text": "Great Electric Airplane Race",
-      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
+      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
     },
     {
-      "text": "BBC World News America",
-      "url": "//schedule.wttw.com/series/18321/BBC-World-News-America"
+      "text": "Wild Kratts",
+      "url": "//schedule.wttw.com/series/17990/Wild-Kratts"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578345/BBC-World-News-America/"
+      "text": "Wild Ponies",
+      "url": "//schedule.wttw.com/episodes/439741/Wild-Kratts/Wild-Ponies"
     },
     {
-      "text": "PBS NewsHour",
-      "url": "//schedule.wttw.com/series/17033/PBS-NewsHour"
+      "text": "Hero Elementary",
+      "url": "//schedule.wttw.com/series/30565/Hero-Elementary"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/578222/PBS-NewsHour/"
+      "text": "Squeak to Me / Team's Song Theme Song",
+      "url": "//schedule.wttw.com/episodes/497420/Hero-Elementary/Squeak-to-Me-/-Team's-Song-Theme-Song"
     },
     {
-      "text": "Chicago Tonight",
-      "url": "//schedule.wttw.com/series/10978/Chicago-Tonight"
+      "text": "Alma's Way",
+      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
     },
     {
-      "text": "",
-      "url": "//schedule.wttw.com/episodes/510683/Chicago-Tonight/"
+      "text": "Steggie Rescue/Alma Hits The Right Note",
+      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
     },
     {
-      "text": "Nature",
-      "url": "//schedule.wttw.com/series/88/Nature"
+      "text": "Curious George",
+      "url": "//schedule.wttw.com/series/14227/Curious-George"
     },
     {
-      "text": "The Whale Detective",
-      "url": "//schedule.wttw.com/episodes/491190/Nature/The-Whale-Detective"
+      "text": "Doctor Monkey/Curious George The Architect",
+      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
     },
     {
-      "text": "NOVA",
-      "url": "//schedule.wttw.com/series/54/NOVA"
+      "text": "Daniel Tiger's Neighborhood",
+      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
     },
     {
-      "text": "Great Electric Airplane Race",
-      "url": "//schedule.wttw.com/episodes/529668/NOVA/Great-Electric-Airplane-Race"
+      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
+      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
     },
     {
       "text": "Subscribe",
@@ -1738,7 +2028,7 @@
     },
     {
       "text": "",
-      "url": "https://interactive.wttw.com/sweepstakes-2022/enter?s=T-SWP-May22-WB-Overlay-02"
+      "url": "https://interactive.wttw.com/fye?s=T-FY22-FYE-Overlay-02"
     }
   ]
 }

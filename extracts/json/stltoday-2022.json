@@ -1,5 +1,5 @@
 {
-  "created": 1656544358,
+  "created": 1656635166,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -774,31 +774,315 @@
       "sha1": "2ce0daf47ee101269050b0ea939d36abcdc1f6f7"
     },
     {
+      "name": "stltoday-2022-06-29T20:36:20.018755-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552982",
+      "size": "39672",
+      "md5": "ad43c75b392b67e7a4c7fd87331789ee",
+      "crc32": "2d85d36e",
+      "sha1": "c5100a13110c96a48386d2a272bacde5293341cc",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-29T20:36:20.018755-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552984",
+      "size": "87280",
+      "md5": "257987900fc7afad6a254798ad95cb66",
+      "crc32": "74351371",
+      "sha1": "35f6e657e35108b6d9ee401e6af00214fef57488",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-29T20:36:20.018755-05:00.jpg",
+      "source": "original",
+      "mtime": "1656552980",
+      "size": "300558",
+      "md5": "5188295f810e38d8f6e7a294b6b93048",
+      "crc32": "211b4933",
+      "sha1": "e3f74e02827f1c7f221318e2fccf832cc4f7abad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-06-29T20:36:20.018755-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-06-29T20:36:20.018755-05:00.jpg",
+      "mtime": "1656553043",
+      "size": "12065",
+      "md5": "22941a5657f4979566385affff4523cb",
+      "crc32": "04eea34e",
+      "sha1": "12ddbddd8938ed0338a4e9dc778feb5b46027b65"
+    },
+    {
+      "name": "stltoday-2022-06-29T22:49:28.728510-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560971",
+      "size": "40370",
+      "md5": "83cebbdc33c0222b6dca44865e9efd6d",
+      "crc32": "f053ffb1",
+      "sha1": "d4d457cc0bdfb1801780532edfebd371b0413433",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-29T22:49:28.728510-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560972",
+      "size": "89067",
+      "md5": "5dabcb6e0beaa6ed032d188247b5f01b",
+      "crc32": "c20276ec",
+      "sha1": "afe69f3f95a43674ae7d794bc6b86139651f10de",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-29T22:49:28.728510-05:00.jpg",
+      "source": "original",
+      "mtime": "1656560970",
+      "size": "322645",
+      "md5": "de081cfdfb6dfe5778765284e93bdcfb",
+      "crc32": "8eb64d42",
+      "sha1": "2a9dfd074b7feeb9dd52bdd6c445275e88ce3dfe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-06-29T22:49:28.728510-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-06-29T22:49:28.728510-05:00.jpg",
+      "mtime": "1656561017",
+      "size": "12457",
+      "md5": "bd894da7e3106c286bf6dcbcd6c7f252",
+      "crc32": "ed4ad3ab",
+      "sha1": "4c45232b0786174b2f93b06632f2500267009b59"
+    },
+    {
+      "name": "stltoday-2022-06-30T00:16:59.223825-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566223",
+      "size": "38320",
+      "md5": "acd5eb6871f354c8499e1193e14c6ae1",
+      "crc32": "8b7a1114",
+      "sha1": "44f8ce15a7364f7e1a9c4dbb8d1c18403a51c27c",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-30T00:16:59.223825-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566224",
+      "size": "84742",
+      "md5": "d2b3492b23f97ad9fc798b6d174df964",
+      "crc32": "bbfb9945",
+      "sha1": "bd70ea6d7deb087b375d67ab277afb8abe13de66",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-30T00:16:59.223825-05:00.jpg",
+      "source": "original",
+      "mtime": "1656566220",
+      "size": "347599",
+      "md5": "e8f69632b0eb4eb77e972a7cafacb0c9",
+      "crc32": "02ebb720",
+      "sha1": "34350c829631c23d10633e57adef07c5532e8a6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-06-30T00:16:59.223825-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-06-30T00:16:59.223825-05:00.jpg",
+      "mtime": "1656566276",
+      "size": "12850",
+      "md5": "a640365e57f1555a07bea5794d73a6a2",
+      "crc32": "4d9c155c",
+      "sha1": "89aeb7dc9ba3a6a1626aabc7c3ae694ea67fc3a9"
+    },
+    {
+      "name": "stltoday-2022-06-30T02:07:06.609309-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572830",
+      "size": "37422",
+      "md5": "f1337af829c3650fce1c00eeb2e47084",
+      "crc32": "d741349a",
+      "sha1": "909bdf2e1bb350cead96a0a480ee9b9ee4c3f944",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-30T02:07:06.609309-05:00.jpg",
+      "source": "original",
+      "mtime": "1656572828",
+      "size": "346945",
+      "md5": "75fe7464f83d54a906e3c7a021200cd1",
+      "crc32": "0d5f9058",
+      "sha1": "67604e8a48f5d634785c999c49faab7bc306ce7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-06-30T02:07:06.609309-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-06-30T02:07:06.609309-05:00.jpg",
+      "mtime": "1656572889",
+      "size": "12837",
+      "md5": "4d8d80c83cb56bd0968b3dfe5bac1130",
+      "crc32": "e6a74f1f",
+      "sha1": "f5bb95b61a15e31b92fd24e981271228baaae3da"
+    },
+    {
+      "name": "stltoday-2022-06-30T04:10:27.543652-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580231",
+      "size": "39376",
+      "md5": "6c0e8095dc7dae5e6c3befc76f4ba7f8",
+      "crc32": "187bc1b4",
+      "sha1": "8afc7a8900fea3504343be25c468c95052ef6fa9",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-30T04:10:27.543652-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580232",
+      "size": "89082",
+      "md5": "9f1aca0d70260070464cf2a34706be3e",
+      "crc32": "435aa969",
+      "sha1": "c7bdeaa8f81abc49f907902fc883b62e592c8af6",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-30T04:10:27.543652-05:00.jpg",
+      "source": "original",
+      "mtime": "1656580229",
+      "size": "324540",
+      "md5": "93b7622dc423bfeae883fbf9437bbedd",
+      "crc32": "6a87418b",
+      "sha1": "f290492d009ef4a67375c6f77c2741b6a4b4d6ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-06-30T04:10:27.543652-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-06-30T04:10:27.543652-05:00.jpg",
+      "mtime": "1656580282",
+      "size": "12364",
+      "md5": "63b7eccbcfe8b5c425d22e790284169e",
+      "crc32": "0c9a2f06",
+      "sha1": "33b8a4886e3ec2b1e01bdad4917ce294f8082b2b"
+    },
+    {
+      "name": "stltoday-2022-06-30T06:07:16.718369-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587239",
+      "size": "40111",
+      "md5": "3d76cf16e0565f9dca061e653f8d8cb6",
+      "crc32": "4d54f819",
+      "sha1": "351d5817899ebae5c18923fbc931dbd7dedf9c5d",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-30T06:07:16.718369-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587240",
+      "size": "89578",
+      "md5": "6414478169f520ff2a22c5e56c80cdfc",
+      "crc32": "ee600b35",
+      "sha1": "dc75e592ef808e9cb2f7745fd2df385be5cdfe5a",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-30T06:07:16.718369-05:00.jpg",
+      "source": "original",
+      "mtime": "1656587237",
+      "size": "324591",
+      "md5": "f76bdbb2251e0759b346c8fe40909885",
+      "crc32": "4ed86bd7",
+      "sha1": "420f4660d7c49e9cfe6d4ed6350634a0ad8daa37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-06-30T06:07:16.718369-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-06-30T06:07:16.718369-05:00.jpg",
+      "mtime": "1656587313",
+      "size": "12367",
+      "md5": "844a7721f2c500e43fc5ee3dd903ce86",
+      "crc32": "608efb53",
+      "sha1": "c6b95bc16ea441c79bbb7667bd6183cdbcdff72c"
+    },
+    {
+      "name": "stltoday-2022-06-30T08:11:53.259678-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594718",
+      "size": "38892",
+      "md5": "b2833e82a700ae58a1d96f398b930fc8",
+      "crc32": "a99e5a9e",
+      "sha1": "608afbcbd237c23a1e9cdf2faceabb04a38b2fe1",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-30T08:11:53.259678-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594720",
+      "size": "85872",
+      "md5": "71d8055ce3eb38046c8ef9c32e393964",
+      "crc32": "1918d904",
+      "sha1": "28bd4fc2d973b97017f8340191ad615cdb44d0fa",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-06-30T08:11:53.259678-05:00.jpg",
+      "source": "original",
+      "mtime": "1656594715",
+      "size": "323688",
+      "md5": "3b2ca40ac69316b00fe337883f0ce873",
+      "crc32": "2ebc0b80",
+      "sha1": "c37b6ed366b0900fd355649c17cdb73a770c46a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-06-30T08:11:53.259678-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-06-30T08:11:53.259678-05:00.jpg",
+      "mtime": "1656594770",
+      "size": "12336",
+      "md5": "4181b64b5d317345b7d04a5f642fb364",
+      "crc32": "6cbe52ec",
+      "sha1": "5d0c2457692fc2bf7d02bdf40278a9794df688d9"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1e960916814eb2754cfba98022c8d96d7d29338",
-      "mtime": "1656544354",
-      "size": "16870",
-      "md5": "caf940e046413139d5550ab4fa0a8939",
-      "crc32": "bca2b0c3",
-      "sha1": "a100288ec4d6bb566f74fe4a889f1d73f8c16da2",
+      "btih": "16e86af9f85fdd5a0958f68f1071381656aa9515",
+      "mtime": "1656594775",
+      "size": "22590",
+      "md5": "b0882bf91d5a3125c89e3df6da6fd011",
+      "crc32": "d4b5c526",
+      "sha1": "eecfaf7efd1a35e87ec69cc1e7d72d1b21cd694c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "500993e5f0a86951b7a2de76995ff3da",
+      "md5": "a04514a786de2dac0ce669cb9333fb2c",
       "summation": "md5"
     },
     {
       "name": "stltoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544308",
-      "size": "94208",
-      "md5": "c2cb631779ff1b953d0cfdf653a67677",
-      "crc32": "96083863",
-      "sha1": "e7f3f4c461e43eed3b4d1466eb4ec7052490233e",
+      "mtime": "1656594725",
+      "size": "139264",
+      "md5": "6d086623b4eb665d93b5931c06a73922",
+      "crc32": "418c6b56",
+      "sha1": "a60ee7f8de8642591947daa1171836578bf915d4",
       "format": "Metadata"
     },
     {
@@ -812,9 +1096,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
-  "item_last_updated": 1656544354,
-  "item_size": 8452935,
+  "files_count": 104,
+  "item_last_updated": 1656594775,
+  "item_size": 11681337,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -832,7 +1116,1489 @@
     "addeddate": "2022-06-24 23:01:32"
   },
   "server": "ia802502.us.archive.org",
-  "uniq": 255251542,
+  "stltoday-2022": [
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "#main-page-container"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "https://www.stltoday.com/#main-page-container"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "\n                    \n                        \n                    \n                    \n                        70\u00b0\n                    \n                    \n                ",
+      "url": "/weather/?weather_zip=63101"
+    },
+    {
+      "text": "\n                                        \n        \n        \n     Log In\n                                    ",
+      "url": "https://www.stltoday.com/users/login/?referer_url=https%3A%2F%2Fwww.stltoday.com%2F"
+    },
+    {
+      "text": "Subscribe $1 for 6 months",
+      "url": "https://subscriber.stltoday.com/cgi-bin/accept?level=dop&price=100#tracking-source=header&ir=true"
+    },
+    {
+      "text": "\n                                        \n                                        Guest\n                                    ",
+      "url": "https://www.stltoday.com/users/admin/"
+    },
+    {
+      "text": "Read Today's E-edition",
+      "url": "/eedition/"
+    },
+    {
+      "text": "\n                    \n                        \n                    News\n                ",
+      "url": "https://www.stltoday.com/news/local/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Metro\n                                ",
+      "url": "https://www.stltoday.com/news/local/metro/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    St. Charles\n                                ",
+      "url": "https://www.stltoday.com/news/local/stcharles/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Illinois\n                                ",
+      "url": "https://www.stltoday.com/news/local/illinois/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Nation & World\n                                ",
+      "url": "https://www.stltoday.com/news/national/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Lottery\n                                ",
+      "url": "https://www.stltoday.com/lottery/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    News topics\n                ",
+      "url": "https://www.stltoday.com/news/local/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Coronavirus/Health\n                                ",
+      "url": "https://www.stltoday.com/lifestyles/health-med-fit/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Education\n                                ",
+      "url": "https://www.stltoday.com/news/local/education/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Law & order\n                                ",
+      "url": "https://www.stltoday.com/news/local/crime-and-courts/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Politics\n                                ",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Traffic\n                                ",
+      "url": "https://www.stltoday.com/news/traffic/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Weather\n                                ",
+      "url": "https://www.stltoday.com/weather/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Explore\n                ",
+      "url": "https://www.stltoday.com/news/local/stl-info/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Top Workplaces\n                                ",
+      "url": "https://www.stltoday.com/business/workplaces/"
+    },
+    {
+      "text": "\n                                    STL 100 Restaurants\n                                ",
+      "url": "https://www.stltoday.com/entertainment/dining/restaurants/ian-froebs-stl-100-our-critics-2022-guide-to-the-best-restaurants-in-st-louis/article_1c4d22bd-a7c1-5f44-bc92-f0eafe336d80.html"
+    },
+    {
+      "text": "\n                                    Scholar Athletes\n                                ",
+      "url": "https://www.stltoday.com/sports/high-school/scholar-athletes/meet-the-2022-post-dispatch-scholar-athletes/collection_68319996-b81c-11ec-8945-4bc9f418528c.html"
+    },
+    {
+      "text": "\n                                    Homicide tracker\n                                ",
+      "url": "https://graphics.stltoday.com/apps/homicide-tracker/2022/"
+    },
+    {
+      "text": "\n                                    Public salaries\n                                ",
+      "url": "https://graphics.stltoday.com/apps/payrolls/salaries_2021"
+    },
+    {
+      "text": "\n                                    School guide\n                                ",
+      "url": "https://graphics.stltoday.com/apps/education/schools"
+    },
+    {
+      "text": "\n                    Columnists\n                ",
+      "url": "https://www.stltoday.com/lifestyles/columns/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Business\n                ",
+      "url": "https://www.stltoday.com/business/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Local\n                                ",
+      "url": "https://www.stltoday.com/business/local/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    National\n                                ",
+      "url": "https://www.stltoday.com/business/national-and-international/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Opinion\n                ",
+      "url": "https://www.stltoday.com/opinion/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Editorials\n                                ",
+      "url": "https://www.stltoday.com/opinion/editorial/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Columnists\n                                ",
+      "url": "https://www.stltoday.com/opinion/columnists/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Mailbag\n                                ",
+      "url": "https://www.stltoday.com/opinion/mailbag/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Submit a letter\n                                ",
+      "url": "https://www.stltoday.com/forms/contact/letter_to_the_editor/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Obituaries\n                ",
+      "url": "https://www.stltoday.com/obits/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Share your story\n                                ",
+      "url": "https://www.stltoday.com/obit/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Find an Obituary\n                                ",
+      "url": "https://www.legacy.com/obituaries/stltoday/obituary-search.aspx?affiliateid=1441&stateid=28"
+    },
+    {
+      "text": "\n                    \n                        \n                    Sports\n                ",
+      "url": "https://www.stltoday.com/sports/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Cardinals\n                                ",
+      "url": "https://www.stltoday.com/sports/baseball/professional/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Blues\n                                ",
+      "url": "https://www.stltoday.com/sports/hockey/professional/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Mizzou\n                                ",
+      "url": "https://www.stltoday.com/sports/college/mizzou/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Illini\n                                ",
+      "url": "https://www.stltoday.com/sports/college/illini/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    SLU\n                                ",
+      "url": "https://www.stltoday.com/sports/college/slu/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    STL City\n                                ",
+      "url": "https://www.stltoday.com/sports/soccer/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Forums\n                                ",
+      "url": "https://www.stltoday.com/sports/forums/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Betting\n                                ",
+      "url": "https://www.stltoday.com/sports/betting#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    High school sports\n                ",
+      "url": "https://www.stltoday.com/sports/high-school/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Schedules\n                                ",
+      "url": "https://www.stltoday.com/sports/high-school/schedules/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Schools\n                                ",
+      "url": "https://www.stltoday.com/schools/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Stats\n                                ",
+      "url": "https://www.stltoday.com/sports/high-school/stats/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Entertainment\n                ",
+      "url": "https://www.stltoday.com/entertainment/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Books\n                                ",
+      "url": "https://www.stltoday.com/entertainment/books-and-literature/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Dining\n                                ",
+      "url": "https://www.stltoday.com/entertainment/dining/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Music\n                                ",
+      "url": "https://www.stltoday.com/entertainment/music/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Movies\n                                ",
+      "url": "https://www.stltoday.com/entertainment/movies/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Television\n                                ",
+      "url": "https://www.stltoday.com/entertainment/television/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Theater\n                                ",
+      "url": "https://www.stltoday.com/entertainment/arts-and-theatre/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Lifestyles\n                ",
+      "url": "https://www.stltoday.com/lifestyles/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Food & cooking\n                                ",
+      "url": "https://www.stltoday.com/lifestyles/food-and-cooking/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Home & garden\n                                ",
+      "url": "https://www.stltoday.com/lifestyles/home-and-garden/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Parenting\n                                ",
+      "url": "https://www.stltoday.com/lifestyles/parenting#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    People\n                                ",
+      "url": "https://www.stltoday.com/people/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Pets\n                                ",
+      "url": "https://www.stltoday.com/lifestyles/pets/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Travel\n                                ",
+      "url": "https://www.stltoday.com/travel/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Advice\n                                ",
+      "url": "https://www.stltoday.com/lifestyles/relationships-and-special-occasions/columns/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Autos\n                                ",
+      "url": "https://www.stltoday.com/lifestyles/autos/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Fun & games\n                ",
+      "url": "https://www.stltoday.com/entertainment/comics/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Comics\n                                ",
+      "url": "https://www.stltoday.com/entertainment/comics/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Games & puzzles\n                                ",
+      "url": "https://www.stltoday.com/entertainment/comics/kingdom/puzzles/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Contests\n                                ",
+      "url": "https://www.stltoday.com/contests/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Events\n                                ",
+      "url": "https://www.stltoday.com/events/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Archives\n                                ",
+      "url": "https://www.stltoday.com/news/archives/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    E-Edition\n                                ",
+      "url": "https://www.stltoday.com/eedition/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Live chats\n                                ",
+      "url": "https://www.stltoday.com/chats/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Mobile apps\n                                ",
+      "url": "https://www.stltoday.com/apps/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Newsletters\n                                ",
+      "url": "https://www.stltoday.com/newsletters/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Podcasts\n                                ",
+      "url": "https://www.stltoday.com/podcasts/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Photo galleries\n                                ",
+      "url": "https://www.stltoday.com/gallery/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Videos\n                                ",
+      "url": "https://www.stltoday.com/video/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    News tip\n                                ",
+      "url": "https://www.stltoday.com/news-tip/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Press releases\n                                ",
+      "url": "https://www.stltoday.com/pr#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Share video\n                                ",
+      "url": "https://www.stringr.com/xlVnRHGhgoz"
+    },
+    {
+      "text": "\n                                    Send a story\n                                ",
+      "url": "https://stltoday.com/users/admin/contribute/article/"
+    },
+    {
+      "text": "\n                                    Share a photo\n                                ",
+      "url": "https://stltoday.com/users/admin/contribute/image/"
+    },
+    {
+      "text": "\n                    St. Louis Best Bridal\n                ",
+      "url": "https://www.stltoday.com/lifestyles/bestbridal/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    STL Pinch Hits\n                ",
+      "url": "https://stlpinchhits.com/"
+    },
+    {
+      "text": "\n                    Feast Magazine\n                ",
+      "url": "https://www.feastmagazine.com/"
+    },
+    {
+      "text": "\n                    Feast and Field\n                ",
+      "url": "https://www.stltoday.com/lifestyles/food-and-cooking/feast-and-field/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Ladue News\n                ",
+      "url": "https://www.laduenews.com/"
+    },
+    {
+      "text": "\n                    \n                        \n                    Brand Ave. Studios\n                ",
+      "url": "https://www.stltoday.com/brandavestudios/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    College Connection\n                                ",
+      "url": "https://www.stltoday.com/brandavestudios/college-connection/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Nurses\n                                ",
+      "url": "https://www.stltoday.com/brandavestudios/nurses/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Stories of Honor \n                                ",
+      "url": "https://www.stltoday.com/brandavestudios/stories-of-honor/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Teacher Appreciation\n                                ",
+      "url": "https://www.stltoday.com/brandavestudios/teacher-appreciation/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Schnucks Weekly Ad\n                ",
+      "url": "https://go.brandavestudios.com/schnucks-ad-stl"
+    },
+    {
+      "text": "\n                    \n                        \n                    Buy/sell\n                ",
+      "url": "https://www.stltoday.com/ads/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Place an Ad\n                                ",
+      "url": "https://www.stltoday.com/ads/place-an-ad/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Classifieds\n                                ",
+      "url": "https://www.stltoday.com/ads#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Homes\n                                ",
+      "url": "https://www.stltoday.com/homes/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Business Directory\n                                ",
+      "url": "https://www.stltoday.com/places/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Jobs\n                ",
+      "url": "https://www.stltoday.com/jobs/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Customer service\n                ",
+      "url": "https://www.stltoday.com/help/subscriber-services/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Manage Subscription\n                                ",
+      "url": "https://www.stltoday.com/services/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Activate Digital Subscription\n                                ",
+      "url": "https://www.stltoday.com/activate/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Contact us\n                                ",
+      "url": "https://www.stltoday.com/help/contact-us/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                    Facebook\n                ",
+      "url": "/facebook"
+    },
+    {
+      "text": "\n                    \n                    Twitter\n                ",
+      "url": "/twitter"
+    },
+    {
+      "text": "\n                    \n                    LinkedIn\n                ",
+      "url": "https://www.linkedin.com/company/st.-louis-post-dispatch/"
+    },
+    {
+      "text": "\n                    \n                    YouTube\n                ",
+      "url": "/youtube"
+    },
+    {
+      "text": "\n                    \n                    Pinterest\n                ",
+      "url": "https://www.pinterest.com/stltoday/"
+    },
+    {
+      "text": "\n                    \n                    Instagram\n                ",
+      "url": "https://www.instagram.com/stltoday/"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Subscribe $1 for 6 months",
+      "url": "https://subscriber.stltoday.com/cgi-bin/accept?level=dop&price=100#tracking-source=header&ir=true"
+    },
+    {
+      "text": "Read Today's E-Edition",
+      "url": "/eedition/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Join",
+      "url": "https://subscriber.stltoday.com/cgi-bin/accept?level=dop&price=100#tracking-source=header&ir=true"
+    },
+    {
+      "text": "\n                                                    \n                                                        \n        \n        \n    \n                                                    \n                                                    Log In\n                                                ",
+      "url": "https://www.stltoday.com/users/login/?referer_url=https%3A%2F%2Fwww.stltoday.com%2F"
+    },
+    {
+      "text": "My Membership",
+      "url": "//stltoday.com/services/"
+    },
+    {
+      "text": "Help Center",
+      "url": "/helpcenter/"
+    },
+    {
+      "text": " Dashboard",
+      "url": "https://www.stltoday.com/users/admin/"
+    },
+    {
+      "text": " Profile",
+      "url": ""
+    },
+    {
+      "text": " Saved items",
+      "url": "https://www.stltoday.com/users/admin/list/"
+    },
+    {
+      "text": "E-Edition\n                    \n                ",
+      "url": "https://www.stltoday.com/eedition/#tracking-source=main-nav"
+    },
+    {
+      "text": "News\n                    \n                ",
+      "url": "https://www.stltoday.com/news/local/#tracking-source=main-nav"
+    },
+    {
+      "text": "Obits\n                    \n                ",
+      "url": "https://www.legacy.com/obituaries/stltoday"
+    },
+    {
+      "text": "Sports\n                    \n                ",
+      "url": "https://www.stltoday.com/sports/#tracking-source=main-nav"
+    },
+    {
+      "text": "Opinion\n                    \n                ",
+      "url": "https://www.stltoday.com/opinion/#tracking-source=main-nav"
+    },
+    {
+      "text": "Entertainment\n                    \n                ",
+      "url": "https://www.stltoday.com/entertainment/#tracking-source=main-nav"
+    },
+    {
+      "text": "Lifestyles\n                    \n                ",
+      "url": "https://www.stltoday.com/lifestyles/#tracking-source=main-nav"
+    },
+    {
+      "text": "Business\n                    \n                ",
+      "url": "https://www.stltoday.com/business/#tracking-source=main-nav"
+    },
+    {
+      "text": "Jobs\n                    \n                ",
+      "url": "https://www.stltoday.com/jobs/#tracking-source=main-nav"
+    },
+    {
+      "text": "Schnucks Weekly Ad\n                    \n                ",
+      "url": "https://go.brandavestudios.com/schnucks-ad-stl"
+    },
+    {
+      "text": "\n                                                \n                                                    \n                                                    \n                                                \n                                                \n                                                    70\u00b0\n                                                    Sunny\n                                                \n                                                \n                                            ",
+      "url": "/weather/?weather_zip=63101"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/sports/baseball/professional/birdland/by-staying-grounded-legit-dude-pallante-rewriting-his-role-with-cardinals-on-the-fly/article_0360d127-a6e8-5df4-baf2-843816c5c9d4.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n\n        \n            By staying grounded, \u2018legit dude\u2019 Pallante rewriting his role with Cardinals on the fly",
+      "url": "https://www.stltoday.com/sports/baseball/professional/birdland/by-staying-grounded-legit-dude-pallante-rewriting-his-role-with-cardinals-on-the-fly/article_0360d127-a6e8-5df4-baf2-843816c5c9d4.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/business/local/granite-city-braces-for-future-without-steel-plant/article_94496482-0da1-568b-b0ca-029296a5e7b4.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n\n        \n            Granite City braces for future without steel plant",
+      "url": "https://www.stltoday.com/business/local/granite-city-braces-for-future-without-steel-plant/article_94496482-0da1-568b-b0ca-029296a5e7b4.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/danforth-super-pac-to-spend-up-to-20-million-to-lift-independent-john-wood-in/article_b5184dfd-4cdc-5903-a86b-3988d4e2f0ac.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n\n        \n            Danforth Super PAC to spend up to $20 million to lift independent John Wood in Missouri Senate race",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/danforth-super-pac-to-spend-up-to-20-million-to-lift-independent-john-wood-in/article_b5184dfd-4cdc-5903-a86b-3988d4e2f0ac.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/page-s-chief-of-staff-resigns-after-councilman-asks-for-probe-of-leaked-sex-video/article_386bc0f0-fe86-56d0-bfbf-c27ab0612aba.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n\n        \n            Page\u2019s chief of staff resigns after councilman asks for probe of leaked sex video",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/page-s-chief-of-staff-resigns-after-councilman-asks-for-probe-of-leaked-sex-video/article_386bc0f0-fe86-56d0-bfbf-c27ab0612aba.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/lifestyles/health-med-fit/health/hospital-system-does-about-face-on-emergency-contraceptives-says-missouri-law-unclear/article_ad9ab5b5-aaad-599e-ac88-6a3a0f6a65e8.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n\n        \n            Hospital system does about-face on emergency contraceptives, says Missouri law unclear",
+      "url": "https://www.stltoday.com/lifestyles/health-med-fit/health/hospital-system-does-about-face-on-emergency-contraceptives-says-missouri-law-unclear/article_ad9ab5b5-aaad-599e-ac88-6a3a0f6a65e8.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/local/columns/tony-messenger/messenger-former-st-louis-aldermanic-president-takes-the-fifth-in-twitter-blocking-case/article_536014a3-7027-5b61-b826-390c96ba82ac.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n\n        \n            Messenger: Former St. Louis aldermanic president takes the Fifth in Twitter-blocking case",
+      "url": "https://www.stltoday.com/news/local/columns/tony-messenger/messenger-former-st-louis-aldermanic-president-takes-the-fifth-in-twitter-blocking-case/article_536014a3-7027-5b61-b826-390c96ba82ac.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/missouri-governor-signs-law-aimed-at-cracking-down-on-homeless-camps/article_08f6d0c5-e3ab-5bb6-a58a-fca9cc2f81d7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n\n        \n            Missouri governor signs law aimed at cracking down on homeless camps",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/missouri-governor-signs-law-aimed-at-cracking-down-on-homeless-camps/article_08f6d0c5-e3ab-5bb6-a58a-fca9cc2f81d7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/page-s-chief-of-staff-resigns-after-councilman-asks-for-probe-of-leaked-sex-video/article_386bc0f0-fe86-56d0-bfbf-c27ab0612aba.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n        \n\n        \n            Page\u2019s chief of staff resigns after councilman asks for probe of leaked sex video",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/page-s-chief-of-staff-resigns-after-councilman-asks-for-probe-of-leaked-sex-video/article_386bc0f0-fe86-56d0-bfbf-c27ab0612aba.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/business/local/union-officials-vow-to-fight-job-losses-at-granite-city-steel-plant/article_d98a38db-d9d5-5d7a-8566-c62d1dd43763.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n        \n\n        \n            Union, officials vow to fight job losses at Granite City steel plant",
+      "url": "https://www.stltoday.com/business/local/union-officials-vow-to-fight-job-losses-at-granite-city-steel-plant/article_d98a38db-d9d5-5d7a-8566-c62d1dd43763.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/sports/baseball/professional/quick-hits-alcantara-completely-outlasts-cardinals-as-marlins-rally-4-3-to-avoid-sweep/article_ce51535b-be6e-510c-b4c0-324e158f4aef.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n        \n\n        \n            Quick Hits: Alcantara completely outlasts Cardinals as Marlins rally, 4-3, to avoid sweep",
+      "url": "https://www.stltoday.com/sports/baseball/professional/quick-hits-alcantara-completely-outlasts-cardinals-as-marlins-rally-4-3-to-avoid-sweep/article_ce51535b-be6e-510c-b4c0-324e158f4aef.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n                \n                The Latest\n                \n                    ",
+      "url": "https://www.stltoday.com/news/local#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/archives/the-day-they-closed-tony-fausts-the-most-famous-restaurant-in-st-louis/article_fb5167a2-9f97-5184-8838-1edc602a9d71.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n\n        \n            The day they closed Tony Faust's, the most famous restaurant in St. Louis",
+      "url": "https://www.stltoday.com/news/archives/the-day-they-closed-tony-fausts-the-most-famous-restaurant-in-st-louis/article_fb5167a2-9f97-5184-8838-1edc602a9d71.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/st-louis-land-bank-won-t-sell-property-in-certain-wards-until-aldermanic-leadership-returns/article_1c9acbe2-ec8f-539a-b98c-e13c4854c159.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n\n        \n            St. Louis land bank won\u2019t sell property in certain wards until \u2018aldermanic leadership\u2019 returns",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/st-louis-land-bank-won-t-sell-property-in-certain-wards-until-aldermanic-leadership-returns/article_1c9acbe2-ec8f-539a-b98c-e13c4854c159.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/entertainment/arts-and-theatre/this-st-louis-church-was-left-in-ruins-now-it-begins-a-new-life-as/article_5e27bb4a-c255-5de9-ab72-37a8ce55133b.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n\n        \n            This St. Louis church was left in ruins. Now it begins a new life as an arts venue.",
+      "url": "https://www.stltoday.com/entertainment/arts-and-theatre/this-st-louis-church-was-left-in-ruins-now-it-begins-a-new-life-as/article_5e27bb4a-c255-5de9-ab72-37a8ce55133b.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/missouri-enacts-photo-voter-id-law-before-november-elections/article_e19bf43c-844d-5e95-8625-9be822451eb3.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n\n        \n            Missouri enacts photo voter ID law before November elections",
+      "url": "https://www.stltoday.com/news/local/govt-and-politics/missouri-enacts-photo-voter-id-law-before-november-elections/article_e19bf43c-844d-5e95-8625-9be822451eb3.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                Live from Dierbergs\n                    ",
+      "url": "https://www.dierbergs.com/"
+    },
+    {
+      "text": "\n        \n\n        \n            Get Your Favorite Items Delivered. Now with Shipt and DoorDash.",
+      "url": "https://go.stltoday.com/shipt"
+    },
+    {
+      "text": "\n        \n\n        \n            Red, White & BBQ - Smoked Fresh Daily - Find your store.",
+      "url": "https://go.stltoday.com/BBQ"
+    },
+    {
+      "text": "\n        \n\n        \n            Time to shine...stock up for your party at Dierbergs.",
+      "url": "https://go.stltoday.com/timetoshine"
+    },
+    {
+      "text": "\n        \n\n        \n            Get Your Favorite Items Delivered. Now with Shipt and DoorDash.",
+      "url": "https://go.stltoday.com/shipt"
+    },
+    {
+      "text": "\n        \n\n        \n            Red, White & BBQ - Smoked Fresh Daily - Find your store.",
+      "url": "https://go.stltoday.com/BBQ"
+    },
+    {
+      "text": "\n        \n\n        \n            Time to shine...stock up for your party at Dierbergs.",
+      "url": "https://go.stltoday.com/timetoshine"
+    },
+    {
+      "text": "\n                \n                Sports\n                \n                    ",
+      "url": "https://www.stltoday.com/sports/#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/sports/baseball/professional/birdland/by-staying-grounded-legit-dude-pallante-rewriting-his-role-with-cardinals-on-the-fly/article_0360d127-a6e8-5df4-baf2-843816c5c9d4.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n\n        \n            By staying grounded, \u2018legit dude\u2019 Pallante rewriting his role with Cardinals on the fly",
+      "url": "https://www.stltoday.com/sports/baseball/professional/birdland/by-staying-grounded-legit-dude-pallante-rewriting-his-role-with-cardinals-on-the-fly/article_0360d127-a6e8-5df4-baf2-843816c5c9d4.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/sports/columns/jeff-gordon/tipsheet-freeman-experiences-regret-after-his-pujols-like-move-to-socal/article_91c80819-570e-5ff5-8efa-1fca92535d9a.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n\n        \n            Tipsheet: Freeman experiences regret after his Pujols-like move to SoCal",
+      "url": "https://www.stltoday.com/sports/columns/jeff-gordon/tipsheet-freeman-experiences-regret-after-his-pujols-like-move-to-socal/article_91c80819-570e-5ff5-8efa-1fca92535d9a.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/sports/college/mizzou/join-mizzou-beat-writer-dave-matter-for-his-live-chat-11-a-m/article_3a7e881d-0d44-5b4f-8010-23894e4d4702.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n\n        \n            Join Mizzou beat writer Dave Matter for his live chat, 11 a.m.",
+      "url": "https://www.stltoday.com/sports/college/mizzou/join-mizzou-beat-writer-dave-matter-for-his-live-chat-11-a-m/article_3a7e881d-0d44-5b4f-8010-23894e4d4702.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/sports/baseball/professional/photos-alcantara-pitches-complete-game-marlins-beat-cards-4-3/collection_7910bb20-833e-5f40-8abf-7034151a8274.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n\n        \n            Photos: Alcantara pitches complete game, Marlins beat Cards 4-3",
+      "url": "https://www.stltoday.com/sports/baseball/professional/photos-alcantara-pitches-complete-game-marlins-beat-cards-4-3/collection_7910bb20-833e-5f40-8abf-7034151a8274.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                Latest Video\n                \n                    ",
+      "url": "/video/"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/news/multimedia/videos/watch-now-st-louis-church-to-become-art-venue/video_272a9bba-5ea9-5223-ab98-28f05bf17a5d.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Watch now: St. Louis church to become art venue",
+      "url": "/news/multimedia/videos/watch-now-st-louis-church-to-become-art-venue/video_272a9bba-5ea9-5223-ab98-28f05bf17a5d.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/news/multimedia/videos/watch-now-larry-fallout-morris-5-favorite-live-bands/video_8e109e59-c14e-5a9e-85c2-53ada896066f.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Watch now: Larry \u2018Fallout\u2019 Morris\u2019 5 favorite live bands",
+      "url": "/news/multimedia/videos/watch-now-larry-fallout-morris-5-favorite-live-bands/video_8e109e59-c14e-5a9e-85c2-53ada896066f.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/lifestyles/health-med-fit/health/watch-now-st-louis-county-proposes-using-1-million-to-aid-abortion-access/video_248fad41-ede4-599c-95e2-652a83e8176e.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Watch now: St. Louis County proposes using $1 million to aid abortion access",
+      "url": "/lifestyles/health-med-fit/health/watch-now-st-louis-county-proposes-using-1-million-to-aid-abortion-access/video_248fad41-ede4-599c-95e2-652a83e8176e.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/business/columns/david-nicklaus/the-bottom-line-nfl-paid-the-price-for-deceiving-st-louis/video_f6d782c5-988c-5c60-a97f-0ae51a58461f.html"
+    },
+    {
+      "text": "\n        \n\n        \n            The Bottom Line: NFL paid the price for deceiving St. Louis",
+      "url": "/business/columns/david-nicklaus/the-bottom-line-nfl-paid-the-price-for-deceiving-st-louis/video_f6d782c5-988c-5c60-a97f-0ae51a58461f.html"
+    },
+    {
+      "text": "\n                \n                STL Pinch Hits\n                \n                    ",
+      "url": "https://stlpinchhits.com/"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://stlpinchhits.com/minor-leagues/minor-league-report-walker-burleson-atinco-have-multi-hit-games-hence-strikes-out-eight/article_be573037-530b-59e6-8024-14f80fd5ccbc.html"
+    },
+    {
+      "text": "\n        \n            \n\n        \n            Minor-league report: Walker, Burleson, Atinco have multi-hit games; Hence strikes out eight",
+      "url": "https://stlpinchhits.com/minor-leagues/minor-league-report-walker-burleson-atinco-have-multi-hit-games-hence-strikes-out-eight/article_be573037-530b-59e6-8024-14f80fd5ccbc.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://stlpinchhits.com/minor-leagues/nunez-belts-solo-homer-grand-slam-in-the-same-inning-of-springfield-comeback-win-over/article_d5a85f80-f76b-11ec-ab91-7710bfe214ce.html"
+    },
+    {
+      "text": "\n        \n            \n\n        \n            Nunez belts solo homer, grand slam in the same inning of Springfield comeback win over Wichita",
+      "url": "https://stlpinchhits.com/minor-leagues/nunez-belts-solo-homer-grand-slam-in-the-same-inning-of-springfield-comeback-win-over/article_d5a85f80-f76b-11ec-ab91-7710bfe214ce.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://stlpinchhits.com/minor-leagues/minor-league-report-walker-doubles-twice-burleson-s-three-run-homer-lifts-memphis-to-win/article_55f8fb60-f788-11ec-a702-938044683743.html"
+    },
+    {
+      "text": "\n        \n            \n\n        \n            Minor-league report: Walker doubles twice; Burleson\u2019s three-run homer lifts Memphis to win",
+      "url": "https://stlpinchhits.com/minor-leagues/minor-league-report-walker-doubles-twice-burleson-s-three-run-homer-lifts-memphis-to-win/article_55f8fb60-f788-11ec-a702-938044683743.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://stlpinchhits.com/minor-leagues/pickle-ball-watch-how-the-springfield-cardinals-execute-a-1-3-6-1-4-2/article_682feb78-f787-11ec-8fc1-e3c9cec8304a.html"
+    },
+    {
+      "text": "\n        \n            \n\n        \n            PICKLE BALL!: Watch how the Springfield Cardinals execute a 1-3-6-1-4-2-5-3-8 out",
+      "url": "https://stlpinchhits.com/minor-leagues/pickle-ball-watch-how-the-springfield-cardinals-execute-a-1-3-6-1-4-2/article_682feb78-f787-11ec-8fc1-e3c9cec8304a.html"
+    },
+    {
+      "text": "\n                \n                Latest Galleries\n                \n                    ",
+      "url": "https://www.stltoday.com/gallery/#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/archives/from-the-man-to-the-boss-30-iconic-images-that-were-taken-on-june-30/collection_3626acdd-8e29-5561-889c-9d4ab4f99d51.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n\n        \n            From The Man to The Boss: 30 iconic images that were taken on June 30",
+      "url": "https://www.stltoday.com/news/archives/from-the-man-to-the-boss-30-iconic-images-that-were-taken-on-june-30/collection_3626acdd-8e29-5561-889c-9d4ab4f99d51.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/opinion/columnists/dan-martins-postcards-from-mound-city/collection_973c7cb6-d353-5c3c-a2e7-ed74baba1fe7.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n\n        \n            Dan Martin's Postcards From Mound City",
+      "url": "https://www.stltoday.com/opinion/columnists/dan-martins-postcards-from-mound-city/collection_973c7cb6-d353-5c3c-a2e7-ed74baba1fe7.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/archives/testing-st-louis-children-29-iconic-photos-that-were-taken-on-june-29/collection_f62e1bce-39d3-598d-88f8-4bb0278925ad.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n\n        \n            Testing St. Louis children: 29 iconic photos that were taken on June 29",
+      "url": "https://www.stltoday.com/news/archives/testing-st-louis-children-29-iconic-photos-that-were-taken-on-june-29/collection_f62e1bce-39d3-598d-88f8-4bb0278925ad.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/local/metro/distributing-air-conditioners-scowling-at-scooters-the-weatherbirds-june-antics/collection_18a3de18-bd44-5ff8-88ca-402d20b1131a.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n\n        \n            Distributing air conditioners, scowling at scooters: The Weatherbird's June antics",
+      "url": "https://www.stltoday.com/news/local/metro/distributing-air-conditioners-scowling-at-scooters-the-weatherbirds-june-antics/collection_18a3de18-bd44-5ff8-88ca-402d20b1131a.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                Entertainment\n                \n                    ",
+      "url": "https://www.stltoday.com/entertainment/#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/entertainment/movies/what-to-stream-a-selection-of-movies-about-the-fight-for-abortion-access/article_7779fa9e-f3ea-56a3-90a2-9bb090d97eff.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n\n        \n            What to stream: A selection of movies about the fight for abortion access",
+      "url": "https://www.stltoday.com/entertainment/movies/what-to-stream-a-selection-of-movies-about-the-fight-for-abortion-access/article_7779fa9e-f3ea-56a3-90a2-9bb090d97eff.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/entertainment/music/kevin-johnson/shawn-mendes-george-clinton-and-9-more-must-see-july-concerts-in-st-louis/collection_d3287e89-408c-5fc5-9653-a7e97b59c29e.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n\n        \n            Shawn Mendes, George Clinton and 9 more must-see July concerts in St. Louis",
+      "url": "https://www.stltoday.com/entertainment/music/kevin-johnson/shawn-mendes-george-clinton-and-9-more-must-see-july-concerts-in-st-louis/collection_d3287e89-408c-5fc5-9653-a7e97b59c29e.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/entertainment/watch-now-movies-in-a-minute---elvis/video_047a3c16-91c2-550c-b4c3-4c63783ff603.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n\n        \n            WATCH NOW: Movies in a Minute - \u201cElvis\u201d",
+      "url": "https://www.stltoday.com/entertainment/watch-now-movies-in-a-minute---elvis/video_047a3c16-91c2-550c-b4c3-4c63783ff603.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                Lifestyles\n                \n                    ",
+      "url": "/lifestyles/"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/archives/the-day-they-closed-tony-fausts-the-most-famous-restaurant-in-st-louis/article_fb5167a2-9f97-5184-8838-1edc602a9d71.html"
+    },
+    {
+      "text": "\n        \n\n        \n            The day they closed Tony Faust's, the most famous restaurant in St. Louis",
+      "url": "/news/archives/the-day-they-closed-tony-fausts-the-most-famous-restaurant-in-st-louis/article_fb5167a2-9f97-5184-8838-1edc602a9d71.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/lifestyles/health-med-fit/health/hospital-system-does-about-face-on-emergency-contraceptives-says-missouri-law-unclear/article_ad9ab5b5-aaad-599e-ac88-6a3a0f6a65e8.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Hospital system does about-face on emergency contraceptives, says Missouri law unclear",
+      "url": "/lifestyles/health-med-fit/health/hospital-system-does-about-face-on-emergency-contraceptives-says-missouri-law-unclear/article_ad9ab5b5-aaad-599e-ac88-6a3a0f6a65e8.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/local/govt-and-politics/page-backs-1-million-st-louis-county-plan-to-help-residents-get-out-of-state/article_7e2c389d-21f3-5dd3-94b2-9116859eb039.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Page backs $1 million St. Louis County plan to help residents get out-of-state abortions",
+      "url": "/news/local/govt-and-politics/page-backs-1-million-st-louis-county-plan-to-help-residents-get-out-of-state/article_7e2c389d-21f3-5dd3-94b2-9116859eb039.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/local/govt-and-politics/missouri-mental-health-facility-struggles-to-find-room-to-isolate-patients-with-covid/article_27b95d5b-341b-55cf-87b1-b8a1a8968429.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Missouri mental health facility struggles to find room to isolate patients with COVID",
+      "url": "/news/local/govt-and-politics/missouri-mental-health-facility-struggles-to-find-room-to-isolate-patients-with-covid/article_27b95d5b-341b-55cf-87b1-b8a1a8968429.html"
+    },
+    {
+      "text": "\n                \n                Events\n                \n                    ",
+      "url": "https://www.stltoday.com/events/"
+    },
+    {
+      "text": "\n                \n                Opinion\n                \n                    ",
+      "url": "https://www.stltoday.com/opinion#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/opinion/columnists/does-the-media-have-a-bias-toward-bad-news-the-ethical-life-podcast/article_8b3308bc-c711-560d-804e-c7085135bea2.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n\n        \n            Does the media have a bias toward bad news? | The Ethical Life podcast",
+      "url": "https://www.stltoday.com/opinion/columnists/does-the-media-have-a-bias-toward-bad-news-the-ethical-life-podcast/article_8b3308bc-c711-560d-804e-c7085135bea2.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/opinion/editorial/in-the-cartoons-roe-jan-6-ketchup/collection_206e73f5-e94b-5480-838e-f020127d4a66.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n\n        \n            In the cartoons: Roe; Jan 6; Ketchup",
+      "url": "https://www.stltoday.com/opinion/editorial/in-the-cartoons-roe-jan-6-ketchup/collection_206e73f5-e94b-5480-838e-f020127d4a66.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/opinion/editorial/editorial-damning-testimony-brings-trump-closer-to-the-prospect-of-jail-time/article_dd3f0bc2-08ae-56eb-9608-4bf29dad1fda.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n\n        \n            Editorial: Damning testimony brings Trump closer to the prospect of jail time",
+      "url": "https://www.stltoday.com/opinion/editorial/editorial-damning-testimony-brings-trump-closer-to-the-prospect-of-jail-time/article_dd3f0bc2-08ae-56eb-9608-4bf29dad1fda.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/opinion/mailbag/letter-fentanyl-crisis-is-hitting-rural-missouri-equally-hard/article_c93e5f9e-54f6-545e-93cd-b6b16bde12f0.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n\n        \n            Letter: Fentanyl crisis is hitting rural Missouri equally hard",
+      "url": "https://www.stltoday.com/opinion/mailbag/letter-fentanyl-crisis-is-hitting-rural-missouri-equally-hard/article_c93e5f9e-54f6-545e-93cd-b6b16bde12f0.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                Business\n                \n                    ",
+      "url": "/business/"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/business/local/neman-our-new-retail-business-writer-re--introduces-himself/article_081f9dd6-fc1f-5be1-8c18-968b6e14cd1d.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Neman: Our new retail business writer (re-)introduces himself",
+      "url": "/business/local/neman-our-new-retail-business-writer-re--introduces-himself/article_081f9dd6-fc1f-5be1-8c18-968b6e14cd1d.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/local/govt-and-politics/st-louis-land-bank-won-t-sell-property-in-certain-wards-until-aldermanic-leadership-returns/article_1c9acbe2-ec8f-539a-b98c-e13c4854c159.html"
+    },
+    {
+      "text": "\n        \n\n        \n            St. Louis land bank won\u2019t sell property in certain wards until \u2018aldermanic leadership\u2019 returns",
+      "url": "/news/local/govt-and-politics/st-louis-land-bank-won-t-sell-property-in-certain-wards-until-aldermanic-leadership-returns/article_1c9acbe2-ec8f-539a-b98c-e13c4854c159.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/business/local/granite-city-braces-for-future-without-steel-plant/article_94496482-0da1-568b-b0ca-029296a5e7b4.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Granite City braces for future without steel plant",
+      "url": "/business/local/granite-city-braces-for-future-without-steel-plant/article_94496482-0da1-568b-b0ca-029296a5e7b4.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/business/local/union-officials-vow-to-fight-job-losses-at-granite-city-steel-plant/article_d98a38db-d9d5-5d7a-8566-c62d1dd43763.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Union, officials vow to fight job losses at Granite City steel plant",
+      "url": "/business/local/union-officials-vow-to-fight-job-losses-at-granite-city-steel-plant/article_d98a38db-d9d5-5d7a-8566-c62d1dd43763.html"
+    },
+    {
+      "text": "\n                \n                Nation & World\n                \n                    ",
+      "url": "/news/national"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/national/woman-pushing-a-baby-stroller-shot-dead-in-manhattan-police-say/article_24d8cc4c-65ea-5c5a-b898-234b6febbd89.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Woman pushing a baby stroller shot dead in Manhattan, police say",
+      "url": "/news/national/woman-pushing-a-baby-stroller-shot-dead-in-manhattan-police-say/article_24d8cc4c-65ea-5c5a-b898-234b6febbd89.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/lifestyles/technology/crypto-rules-to-make-europe-a-global-leader-as-prices-plunge/article_c9bb0c09-dc1f-56a4-92b5-d2e7d3d372de.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Crypto rules to make Europe a global leader as prices plunge",
+      "url": "/lifestyles/technology/crypto-rules-to-make-europe-a-global-leader-as-prices-plunge/article_c9bb0c09-dc1f-56a4-92b5-d2e7d3d372de.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/world/remains-of-patrice-lumumba-congo-s-independence-hero-interred-amid-honors/article_b167c570-93ff-5b33-9319-63f5895f789d.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Remains of Patrice Lumumba, Congo\u2019s independence hero, interred amid honors",
+      "url": "/news/world/remains-of-patrice-lumumba-congo-s-independence-hero-interred-amid-honors/article_b167c570-93ff-5b33-9319-63f5895f789d.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/national/lawsuits-target-virginia-school-board-sex-assault-response/article_ef681a69-db92-5f59-bc43-bfa0266607cd.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Lawsuits target Virginia school board sex-assault response",
+      "url": "/news/national/lawsuits-target-virginia-school-board-sex-assault-response/article_ef681a69-db92-5f59-bc43-bfa0266607cd.html"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/members/promo/subscriber/flex-your-brain-power-with-our-games-puzzles-page/article_b9f21607-fe01-52ca-b0ec-79fadd7d653a.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n        \n\n        \n            Flex your brain power with our Games & Puzzles page",
+      "url": "https://www.stltoday.com/members/promo/subscriber/flex-your-brain-power-with-our-games-puzzles-page/article_b9f21607-fe01-52ca-b0ec-79fadd7d653a.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://stltoday.secondstreetapp.com/Meet-me-at-the-Muny/?utm_source=stltoday&utm_medium=display&utm_campaign=MKTG_Muny22_Contest&utm_content=promobelt"
+    },
+    {
+      "text": "\n        \n\n        \n            Enter daily for your chance to catch a show in Forest Park this summer!",
+      "url": "https://stltoday.secondstreetapp.com/Meet-me-at-the-Muny/?utm_source=stltoday&utm_medium=display&utm_campaign=MKTG_Muny22_Contest&utm_content=promobelt"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://stltoday.secondstreetapp.com/St-Louis-Post-Dispatch--Great-Garden-Contest-2022/rounds/1/gallery?utm_source=stltoday&utm_medium=display&utm_campaign=MKTG_GreatGarden22_contests&utm_content=promobelt"
+    },
+    {
+      "text": "\n        \n\n        \n            Is your garden blooming with brilliant color, artfully placed hostas or beautiful water features? Show us!",
+      "url": "https://stltoday.secondstreetapp.com/St-Louis-Post-Dispatch--Great-Garden-Contest-2022/rounds/1/gallery?utm_source=stltoday&utm_medium=display&utm_campaign=MKTG_GreatGarden22_contests&utm_content=promobelt"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/business/workplaces/see-who-celebrated-the-2022-top-workplaces-winners/collection_605c0800-f3db-11ec-a38b-4f0d6db961b2.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n        \n\n        \n            See who celebrated the 2022 Top Workplaces winners!",
+      "url": "https://www.stltoday.com/business/workplaces/see-who-celebrated-the-2022-top-workplaces-winners/collection_605c0800-f3db-11ec-a38b-4f0d6db961b2.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n                \n                Listen Now Podcasts\n                \n                    ",
+      "url": "https://www.stltoday.com/podcasts/"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/opinion/columnists/does-the-media-have-a-bias-toward-bad-news-the-ethical-life-podcast/article_8b3308bc-c711-560d-804e-c7085135bea2.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n\n        \n            Does the media have a bias toward bad news? | The Ethical Life podcast",
+      "url": "https://www.stltoday.com/opinion/columnists/does-the-media-have-a-bias-toward-bad-news-the-ethical-life-podcast/article_8b3308bc-c711-560d-804e-c7085135bea2.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/entertainment/movies/minions-elvis-reactions-an-interview-with-henry-thomas-and-more-streamed-screened-podcast/article_928798c3-87ca-53b3-a305-f7f0f47e4f38.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n\n        \n            'Minions,' 'Elvis' reactions, an interview with Henry Thomas and more! | Streamed & Screened podcast",
+      "url": "https://www.stltoday.com/entertainment/movies/minions-elvis-reactions-an-interview-with-henry-thomas-and-more-streamed-screened-podcast/article_928798c3-87ca-53b3-a305-f7f0f47e4f38.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/national/history-of-redlining-in-lincoln-helps-create-blueprint-for-the-future/article_dd8a7068-e9ad-589d-acfd-8b7b6ce3ef85.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n\n        \n            History of redlining in Lincoln helps create blueprint for the future",
+      "url": "https://www.stltoday.com/news/national/history-of-redlining-in-lincoln-helps-create-blueprint-for-the-future/article_dd8a7068-e9ad-589d-acfd-8b7b6ce3ef85.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/news/national/how-well-do-you-know-tornadoes-we-look-at-the-top-10-tornado-myths-across/article_bf8311c1-634e-547c-9d2e-08bd508eb914.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n\n        \n            How well do you know tornadoes? We look at the top 10 tornado myths | Across the Sky podcast",
+      "url": "https://www.stltoday.com/news/national/how-well-do-you-know-tornadoes-we-look-at-the-top-10-tornado-myths-across/article_bf8311c1-634e-547c-9d2e-08bd508eb914.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                \n                    Sponsored\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/brandavestudios/graduates-praise-ponce-health-sciences-university-and-the-msms-program/article_c353096f-d33b-5646-bd20-121b4b3ad5b7.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n        \n\n        \n            Graduates praise Ponce Health Sciences University and the MSMS program",
+      "url": "https://www.stltoday.com/brandavestudios/graduates-praise-ponce-health-sciences-university-and-the-msms-program/article_c353096f-d33b-5646-bd20-121b4b3ad5b7.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "PHSU",
+      "url": "https://stlouis.psm.edu/apply/?utm_source=stlpostmedia&utm_medium=article"
+    },
+    {
+      "text": "Master of Science in Medical Science program",
+      "url": "https://stlouis.psm.edu/programs/msms/"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/brandavestudios/stories-of-honor/stories-of-honor-nominees-week-of-june-26/collection_c08bfd88-ece3-11ec-86b4-afe822d2ee75.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n        \n\n        \n            Stories of Honor nominees: Week of June 26",
+      "url": "https://www.stltoday.com/brandavestudios/stories-of-honor/stories-of-honor-nominees-week-of-june-26/collection_c08bfd88-ece3-11ec-86b4-afe822d2ee75.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n                \n                \n                    Sponsored\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/brandavestudios/core-main-is-invested-in-a-prosperous-future-for-employees-communities/article_f25b7f9c-4a7b-5bb6-b9c9-6ac71b79461b.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n        \n\n        \n            Core & Main is invested in a prosperous future for employees, communities",
+      "url": "https://www.stltoday.com/brandavestudios/core-main-is-invested-in-a-prosperous-future-for-employees-communities/article_f25b7f9c-4a7b-5bb6-b9c9-6ac71b79461b.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n                \n                \n                    Sponsored\n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/brandavestudios/a-global-life-science-company-is-committed-to-impacting-life-and-health-with-science/article_4fa37059-353e-5aea-815f-3b92ca20cb2d.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n        \n\n        \n            A global life science company is committed to impacting life and health with science",
+      "url": "https://www.stltoday.com/brandavestudios/a-global-life-science-company-is-committed-to-impacting-life-and-health-with-science/article_4fa37059-353e-5aea-815f-3b92ca20cb2d.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n                \n                Local Businesses\n                \n                    ",
+      "url": "https://www.stltoday.com/places/#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                    \n        \n                        \n    \n\n                        ",
+      "url": "https://www.stltoday.com/places/sizzor-shak/business_4000049930.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n        \n\n        \n            Sizzor Shak",
+      "url": "https://www.stltoday.com/places/sizzor-shak/business_4000049930.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                                        208 E Main St, Collinsville, IL 62234\n                                    ",
+      "url": "https://www.google.com/maps/dir//208%20E%20Main%20St%2BCollinsville%2BIL%2B62234"
+    },
+    {
+      "text": "\n                             Website\n                        ",
+      "url": "http://sizzorshak.com/"
+    },
+    {
+      "text": "\n                    \n        \n                        \n    \n\n                        ",
+      "url": "https://www.stltoday.com/places/business_professional_services/repair/miscellaneous/advanced-auto-service/business_4000073923.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n        \n\n        \n            Advanced Auto Service",
+      "url": "https://www.stltoday.com/places/business_professional_services/repair/miscellaneous/advanced-auto-service/business_4000073923.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                                        6123 Gravois Ave., St Louis, MO 63116\n                                    ",
+      "url": "https://www.google.com/maps/dir//6123%20Gravois%20Ave.%2BSt%20Louis%2BMO%2B63116"
+    },
+    {
+      "text": "\n                             Website\n                        ",
+      "url": "http://advancedautoserv.com/"
+    },
+    {
+      "text": "\n        \n\n        \n            Look After Hair Co",
+      "url": "https://www.stltoday.com/places/look-after-hair-co/business_4000122429.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                                        LAURA HALE, BALLWIN, MO 63011\n                                    ",
+      "url": "https://www.google.com/maps/dir//LAURA%20HALE%2BBALLWIN%2BMO%2B63011"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/fox-assoc-fox-theatre---ad-from-2022-06-26/pdfdisplayad_938edcb1-ec73-5bb5-b82a-bcfa62234629.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            FOX ASSOC. /FOX THEATRE - Ad from 2022-06-26",
+      "url": "https://www.stltoday.com/ads/service/fox-assoc-fox-theatre---ad-from-2022-06-26/pdfdisplayad_938edcb1-ec73-5bb5-b82a-bcfa62234629.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/nickolas-dalba-real-estate---ad-from-2022-06-26/pdfdisplayad_dec80696-1dcd-5166-91df-8898083b06b9.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            NICKOLAS DALBA REAL ESTATE - Ad from 2022-06-26",
+      "url": "https://www.stltoday.com/ads/service/office/nickolas-dalba-real-estate---ad-from-2022-06-26/pdfdisplayad_dec80696-1dcd-5166-91df-8898083b06b9.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/backspace---ad-from-2022-06-24/pdfdisplayad_daf2a0fc-e214-5d2d-9140-ad8cadf311ef.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            backspace. - Ad from 2022-06-24",
+      "url": "https://www.stltoday.com/ads/service/office/backspace---ad-from-2022-06-24/pdfdisplayad_daf2a0fc-e214-5d2d-9140-ad8cadf311ef.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/sale/home/food/vincent-12th-street-mkt---ad-from-2022-06-29/pdfdisplayad_cd40ab0f-178f-561b-8295-d493e3936cf3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            VINCENT 12TH STREET MKT - Ad from 2022-06-29",
+      "url": "https://www.stltoday.com/ads/sale/home/food/vincent-12th-street-mkt---ad-from-2022-06-29/pdfdisplayad_cd40ab0f-178f-561b-8295-d493e3936cf3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/gas-appliance-service---ad-from-2022-06-26/pdfdisplayad_3e4436fe-a8c6-5840-9c39-ec8a8198c4e2.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            GAS APPLIANCE SERVICE - Ad from 2022-06-26",
+      "url": "https://www.stltoday.com/ads/service/office/gas-appliance-service---ad-from-2022-06-26/pdfdisplayad_3e4436fe-a8c6-5840-9c39-ec8a8198c4e2.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/mercy-health---ad-from-2022-06-26/pdfdisplayad_65027463-ed2e-570b-8db2-fb760b4711a1.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            MERCY HEALTH - Ad from 2022-06-26",
+      "url": "https://www.stltoday.com/ads/service/office/mercy-health---ad-from-2022-06-26/pdfdisplayad_65027463-ed2e-570b-8db2-fb760b4711a1.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/stl-science-ctr---ad-from-2022-06-30/pdfdisplayad_df48a70e-06de-50fd-a58e-c2dd3c306d24.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            STL SCIENCE CTR - Ad from 2022-06-30",
+      "url": "https://www.stltoday.com/ads/service/office/stl-science-ctr---ad-from-2022-06-30/pdfdisplayad_df48a70e-06de-50fd-a58e-c2dd3c306d24.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/volume-carpet---ad-from-2022-06-29/pdfdisplayad_ed9a16a6-ebee-520a-a655-bbccd8005cc4.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            VOLUME CARPET - Ad from 2022-06-29",
+      "url": "https://www.stltoday.com/ads/service/office/volume-carpet---ad-from-2022-06-29/pdfdisplayad_ed9a16a6-ebee-520a-a655-bbccd8005cc4.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/delmar-gardens---ad-from-2022-06-26/pdfdisplayad_825a65e7-81d6-55ad-9b17-9e2ba924bd55.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            DELMAR GARDENS - Ad from 2022-06-26",
+      "url": "https://www.stltoday.com/ads/service/office/delmar-gardens---ad-from-2022-06-26/pdfdisplayad_825a65e7-81d6-55ad-9b17-9e2ba924bd55.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/backspace---ad-from-2022-06-27/pdfdisplayad_ea57e140-b1ac-52b6-aeb8-51e70065508a.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            backspace. - Ad from 2022-06-27",
+      "url": "https://www.stltoday.com/ads/service/office/backspace---ad-from-2022-06-27/pdfdisplayad_ea57e140-b1ac-52b6-aeb8-51e70065508a.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/fox-assoc-fox-theatre---ad-from-2022-06-26/pdfdisplayad_938edcb1-ec73-5bb5-b82a-bcfa62234629.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            FOX ASSOC. /FOX THEATRE - Ad from 2022-06-26",
+      "url": "https://www.stltoday.com/ads/service/fox-assoc-fox-theatre---ad-from-2022-06-26/pdfdisplayad_938edcb1-ec73-5bb5-b82a-bcfa62234629.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/nickolas-dalba-real-estate---ad-from-2022-06-26/pdfdisplayad_dec80696-1dcd-5166-91df-8898083b06b9.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            NICKOLAS DALBA REAL ESTATE - Ad from 2022-06-26",
+      "url": "https://www.stltoday.com/ads/service/office/nickolas-dalba-real-estate---ad-from-2022-06-26/pdfdisplayad_dec80696-1dcd-5166-91df-8898083b06b9.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/service/office/backspace---ad-from-2022-06-24/pdfdisplayad_daf2a0fc-e214-5d2d-9140-ad8cadf311ef.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            backspace. - Ad from 2022-06-24",
+      "url": "https://www.stltoday.com/ads/service/office/backspace---ad-from-2022-06-24/pdfdisplayad_daf2a0fc-e214-5d2d-9140-ad8cadf311ef.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://www.stltoday.com/ads/sale/home/food/vincent-12th-street-mkt---ad-from-2022-06-29/pdfdisplayad_cd40ab0f-178f-561b-8295-d493e3936cf3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n\n        \n            VINCENT 12TH STREET MKT - Ad from 2022-06-29",
+      "url": "https://www.stltoday.com/ads/sale/home/food/vincent-12th-street-mkt---ad-from-2022-06-29/pdfdisplayad_cd40ab0f-178f-561b-8295-d493e3936cf3.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "\n                    \n                    Facebook\n                ",
+      "url": "/facebook"
+    },
+    {
+      "text": "\n                    \n                    Twitter\n                ",
+      "url": "/twitter"
+    },
+    {
+      "text": "\n                    \n                    LinkedIn\n                ",
+      "url": "/linkedin"
+    },
+    {
+      "text": "\n                    \n                    YouTube\n                ",
+      "url": "/youtube"
+    },
+    {
+      "text": "\n                    \n                    Pinterest\n                ",
+      "url": "/pinterest"
+    },
+    {
+      "text": "\n                    \n                    Instagram\n                ",
+      "url": "/instagram"
+    },
+    {
+      "text": "Feast Magazine\n                    \n                ",
+      "url": "http://www.feastmagazine.com/"
+    },
+    {
+      "text": "Ladue News\n                    \n                ",
+      "url": "http://www.laduenews.com/"
+    },
+    {
+      "text": "St. Louis Best Bridal\n                    \n                ",
+      "url": "/lifestyles/bestbridal/"
+    },
+    {
+      "text": "STL High School Sports\n                    \n                ",
+      "url": "/sports/high-school/"
+    },
+    {
+      "text": "STL Pinch Hits\n                    \n                ",
+      "url": "https://stlpinchhits.com/"
+    },
+    {
+      "text": "Apps\n                    \n                ",
+      "url": "/apps"
+    },
+    {
+      "text": "Archives\n                    \n                ",
+      "url": "/news/archives/"
+    },
+    {
+      "text": "Calendar\n                    \n                ",
+      "url": "/events/"
+    },
+    {
+      "text": "Chats\n                    \n                ",
+      "url": "/chats/"
+    },
+    {
+      "text": "Comics & games\n                    \n                ",
+      "url": "/entertainment/comics/"
+    },
+    {
+      "text": "Contests\n                    \n                ",
+      "url": "/contests/"
+    },
+    {
+      "text": "E-edition\n                    \n                ",
+      "url": "/eedition/"
+    },
+    {
+      "text": "Forums\n                    \n                ",
+      "url": "/forums/"
+    },
+    {
+      "text": "Newsletters\n                    \n                ",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "Our events\n                    \n                ",
+      "url": "/ourevents/"
+    },
+    {
+      "text": "Press releases\n                    \n                ",
+      "url": "/pr/business/"
+    },
+    {
+      "text": "Online Features \n                    \n                ",
+      "url": "/online_features/"
+    },
+    {
+      "text": "Submit an event\n                    \n                ",
+      "url": "https://new.evvnt.com/?with_navbar&partner=THESTLOUISPOSTDISPATCH&partner_name=St.%20Louis%20Post-Dispatch"
+    },
+    {
+      "text": "Advertise with us\n                    \n                ",
+      "url": "/help/advertise-with-us/"
+    },
+    {
+      "text": "Autos\n                    \n                ",
+      "url": "/autos"
+    },
+    {
+      "text": "Classifieds\n                    \n                ",
+      "url": "/ads/"
+    },
+    {
+      "text": "Contact us\n                    \n                ",
+      "url": "https://www.stltoday.com/help/contact-us/"
+    },
+    {
+      "text": "Homes\n                    \n                ",
+      "url": "/homes/"
+    },
+    {
+      "text": "Jobs\n                    \n                ",
+      "url": "/jobs/"
+    },
+    {
+      "text": "Newspapers in Education\n                    \n                ",
+      "url": "http://nie.post-dispatch.com/"
+    },
+    {
+      "text": "Reprint Permissions\n                    \n                ",
+      "url": "/help/reprints-and-permissions/"
+    },
+    {
+      "text": "Post-Dispatch store\n                    \n                ",
+      "url": "http://www.thepost-dispatchstore.com/Default.asp"
+    },
+    {
+      "text": "Site help\n                    \n                ",
+      "url": "/help/"
+    },
+    {
+      "text": "St. Louis Best Bridal\n                    \n                ",
+      "url": "https://www.stltoday.com/lifestyles/bestbridal/contact-st-louis-best-bridal/article_dfaf4408-1310-11eb-85f7-e3a1047f624d.html?utm_campaign=snd-autopilot&utm_medium=social&utm_source=facebook_St._Louis_Best_Bridal&fbclid=IwAR1QhcrcB-nioyxSq_CR5Q6QVw77rWaGl"
+    },
+    {
+      "text": "Subscriber services\n                    \n                ",
+      "url": "/help/subscriber-services/"
+    },
+    {
+      "text": "Work here\n                    \n                ",
+      "url": "http://lee.net/careers/opportunities/?utm_source=newspaper&utm_medium=blox&utm_campaign=workhere"
+    },
+    {
+      "text": "St. Louis Post-Dispatch",
+      "url": "/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/terms/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy/"
+    },
+    {
+      "text": "Do Not Sell My Info",
+      "url": "/privacy/#ccpa"
+    },
+    {
+      "text": "BLOX Content Management System",
+      "url": "https://bloxcms.com"
+    },
+    {
+      "text": "TownNews.com",
+      "url": "https://townnews.com/"
+    },
+    {
+      "text": "",
+      "url": "{{url}}"
+    },
+    {
+      "text": "Notifications",
+      "url": "#notify-panel-content"
+    },
+    {
+      "text": "Settings",
+      "url": "#notify-panel-settings"
+    },
+    {
+      "text": " Close",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsvvSGH_wlf_1wrQ369HpgjprgDd13CZjV3KDT9BZPIIRvvrDSmteZTK7hEmXJoEeQkoFMt7aM1WAUZG23MLoPd2L_SUidWREoEjWGhbknb2ea_0WK6PGF4dI6G6UzyDh6oQhaBxzV6Hyk0ad-w_zBFDRHAvS2oj-5BI_16AZk8Bptvjm-pT-g2OVj5TmtvViuCTHsAa40MwelwHceuUkaYqntvf6u1GEpkBd3_EVCGUqv92fUUTkb4EJm4o6QwC1yiJt-qmq-XHDhHE2ekMoJa4vrUhIRV27U-0kQw_uBcDEZbOEDFfU_GMiCDZ7-LpthP6PyOs%2526sig%253DCg0ArKJSzIGKkImZYhWCEAE%2526fbs_aeid%253D%255Bgw_fbsaeid%255D%2526urlfix%253D1%2526adurl%253Dhttps://subscriber.stltoday.com/cgi-bin/accept?level=dop&price=100&utm_source=stltoday.com&utm_medium=display&utm_campaign=july2022_DFP"
+    }
+  ],
+  "uniq": 2127040007,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1656544386,
+  "created": 1656635171,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/32/items/telegraph-2022",
@@ -8754,31 +8754,409 @@
       "format": "JSON"
     },
     {
+      "name": "telegraph-2022-06-30T02:36:12.048560+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552975",
+      "size": "31532",
+      "md5": "9b06c7209a05e2c38edfdee490802f7e",
+      "crc32": "445ec6d0",
+      "sha1": "b133dd043942c2a4c31fe4f8040d3eaebef0c348",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T02:36:12.048560+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552976",
+      "size": "28266",
+      "md5": "0d53eb45900505607b94a61f81587ad9",
+      "crc32": "9d6e2544",
+      "sha1": "a6a4b31a3f5b2d95c45fd813f9e2be14e751256b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T02:36:12.048560+01:00.jpg",
+      "source": "original",
+      "mtime": "1656552973",
+      "size": "315965",
+      "md5": "edcfd39317156ba8ff36bca6da0cdb90",
+      "crc32": "c85a4595",
+      "sha1": "cd807fcf67bf64bff9aa72051c3b01a94ff2e801",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-06-30T02:36:12.048560+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-06-30T02:36:12.048560+01:00.jpg",
+      "mtime": "1656553033",
+      "size": "9663",
+      "md5": "f448afbfde7de5407a4734e81cd3a749",
+      "crc32": "c03e2b58",
+      "sha1": "92909cbfd37283f0d52db213cd09df0eff97271d"
+    },
+    {
+      "name": "telegraph-2022-06-30T04:49:05.447411+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560951",
+      "size": "31527",
+      "md5": "e099143d6967e3e57a0c8ab1db33b816",
+      "crc32": "6c391d0b",
+      "sha1": "7306e0daae9f6541e8f6d680b77439333c7f3391",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T04:49:05.447411+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560953",
+      "size": "28262",
+      "md5": "7c7c4cdd0f5a9963be9387625f543275",
+      "crc32": "c01d4503",
+      "sha1": "b1f3beefe227aef3848a3517e5de0ad53ca92b30",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T04:49:05.447411+01:00.jpg",
+      "source": "original",
+      "mtime": "1656560949",
+      "size": "314033",
+      "md5": "da9bb4ef451834485f18b4f415b3a9c3",
+      "crc32": "8db828e3",
+      "sha1": "2a24940a4e3bb92240bb49c7c7a71e13ac963c53",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-06-30T04:49:05.447411+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-06-30T04:49:05.447411+01:00.jpg",
+      "mtime": "1656561037",
+      "size": "9659",
+      "md5": "f7799d8cf3be8a92f6e90630787420e7",
+      "crc32": "2471ef28",
+      "sha1": "297e4154b977e404c4925590d89fc57cb2fa386d"
+    },
+    {
+      "name": "telegraph-2022-06-30T06:17:03.308537+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566229",
+      "size": "31480",
+      "md5": "2364fabeb7c610c517224a2473695520",
+      "crc32": "45f20f5e",
+      "sha1": "65a8c944dfb248fe0b319734cea242d1b2218e78",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T06:17:03.308537+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566231",
+      "size": "28351",
+      "md5": "2b1263525e15775e5fa9d6005efb3adf",
+      "crc32": "e5714a74",
+      "sha1": "5b9d60e53bf0d0674b25a2c791b69d507da7848a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T06:17:03.308537+01:00.jpg",
+      "source": "original",
+      "mtime": "1656566227",
+      "size": "313611",
+      "md5": "db52997e7f559fcc0ab5689fe8e6c352",
+      "crc32": "ecadd78f",
+      "sha1": "754a75be111961e33096356e3b40e64980f850ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-06-30T06:17:03.308537+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-06-30T06:17:03.308537+01:00.jpg",
+      "mtime": "1656566290",
+      "size": "9652",
+      "md5": "c9102c4f2feadf0557c9992f693f34c3",
+      "crc32": "f63833d3",
+      "sha1": "9beda2e9b0251d3dad8c05e642a0920fae7649ab"
+    },
+    {
+      "name": "telegraph-2022-06-30T08:07:30.130675+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572853",
+      "size": "32014",
+      "md5": "1807c6b1fff147a9f9ae1a27666418f5",
+      "crc32": "66bcf32e",
+      "sha1": "6cebab4c4ed469a9c865d4526d7d97b042d64383",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T08:07:30.130675+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572854",
+      "size": "28665",
+      "md5": "acc5a8a61f27a6e9504befd4ef5dc53c",
+      "crc32": "b2200b9a",
+      "sha1": "04b78a464f01c2915e702da800c6de0e3db599fa",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T08:07:30.130675+01:00.jpg",
+      "source": "original",
+      "mtime": "1656572851",
+      "size": "324073",
+      "md5": "2241f42642d866dc3dfc500f68af54bd",
+      "crc32": "7911ee8e",
+      "sha1": "6a9d631ed65a7aefbc0446ef53bff231b5cbc3c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-06-30T08:07:30.130675+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-06-30T08:07:30.130675+01:00.jpg",
+      "mtime": "1656572908",
+      "size": "9246",
+      "md5": "27548c15e05a54788e342177aaebebab",
+      "crc32": "ab8ddfbe",
+      "sha1": "c446f64ce7005974732e1c94f709d138e8dd1b2f"
+    },
+    {
+      "name": "telegraph-2022-06-30T10:11:19.276978+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580283",
+      "size": "32224",
+      "md5": "2a62a5da8d7f368a17f945d3933936f9",
+      "crc32": "a8ea79c9",
+      "sha1": "fc4e6095f834f194c15a1f7d54234c78c8c16c4d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T10:11:19.276978+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580285",
+      "size": "28773",
+      "md5": "1d01b82cdcb61c94ae88f66864d13d6e",
+      "crc32": "6d0f00b9",
+      "sha1": "873986fb2887e293cc7eda2e1fcf4e399fe0bf67",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T10:11:19.276978+01:00.jpg",
+      "source": "original",
+      "mtime": "1656580282",
+      "size": "336908",
+      "md5": "cb59a54a96cd4f11506a17e98b598e93",
+      "crc32": "59e7ce52",
+      "sha1": "d5a4b8cb7080e55e9a7da58eca80cf2cf2713e34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-06-30T10:11:19.276978+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-06-30T10:11:19.276978+01:00.jpg",
+      "mtime": "1656580358",
+      "size": "9490",
+      "md5": "361f0fd4c89bde8a68d8e4c26e91e7fb",
+      "crc32": "1caa4509",
+      "sha1": "585955ce79b5e7560c67639ef05db74edadd5aed"
+    },
+    {
+      "name": "telegraph-2022-06-30T11:56:30.677753+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656586597",
+      "size": "31487",
+      "md5": "9016eb5811dfcb18920943c1f6658945",
+      "crc32": "0ff50d88",
+      "sha1": "d50098d2b09c2b9514a9e10d6761119b3d296c45",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T11:56:30.677753+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656586599",
+      "size": "27916",
+      "md5": "c344d88c9d44d118d7f8d3a8a2793a2e",
+      "crc32": "25c4bc19",
+      "sha1": "dd1b44626082c721ce38c4f7a1f1dcaa7b411fb6",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T11:56:30.677753+01:00.jpg",
+      "source": "original",
+      "mtime": "1656586596",
+      "size": "350426",
+      "md5": "40659bda9aabddfa1c07688c595a8b22",
+      "crc32": "573e62fe",
+      "sha1": "6e485cf2db65e8d7b1d67146027b7b856b8ad46b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-06-30T11:56:30.677753+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-06-30T11:56:30.677753+01:00.jpg",
+      "mtime": "1656586697",
+      "size": "9628",
+      "md5": "a1a0c410c4100ee3b3294ab7bb2b498e",
+      "crc32": "567e1dac",
+      "sha1": "4de2983b5103bd4130a9ff2f02753ef5f7f7e89e"
+    },
+    {
+      "name": "telegraph-2022-06-30T12:07:39.181916+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587262",
+      "size": "31286",
+      "md5": "936c03b47497282519f7940e9f9171be",
+      "crc32": "dd7c96fd",
+      "sha1": "0db012cc498392d54b690135f7bdb9b57a43527c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T12:07:39.181916+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587264",
+      "size": "27998",
+      "md5": "2bb3d502beef67846c49504ff95bbf71",
+      "crc32": "1f87b054",
+      "sha1": "059974e6d996255743e21f03bfbb0e19040510d3",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T12:07:39.181916+01:00.jpg",
+      "source": "original",
+      "mtime": "1656587261",
+      "size": "344037",
+      "md5": "bc933b4ac02b1abb0f7889de869e38fb",
+      "crc32": "16a035cb",
+      "sha1": "c6b003ead5dee8665b17c2e17b5a75ae81440214",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-06-30T12:07:39.181916+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-06-30T12:07:39.181916+01:00.jpg",
+      "mtime": "1656587338",
+      "size": "9645",
+      "md5": "cae9a32408eea60e6b1e148990864142",
+      "crc32": "38d0c7e7",
+      "sha1": "28026c2352e9789fa23fc54bb384b8ac3d4a0a02"
+    },
+    {
+      "name": "telegraph-2022-06-30T14:12:27.612476+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594754",
+      "size": "31556",
+      "md5": "10b0dfde98b9d4c6a258ac53555927b4",
+      "crc32": "917ff872",
+      "sha1": "23774bc10ecb7736f769eeff8932a692d3dd1a9d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T14:12:27.612476+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594756",
+      "size": "28095",
+      "md5": "e116599221fc7ac0139c4fb4018e4dc3",
+      "crc32": "854906e9",
+      "sha1": "4565271fd82e96f38537e32e6a9fd50bf9448407",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T14:12:27.612476+01:00.jpg",
+      "source": "original",
+      "mtime": "1656594752",
+      "size": "330531",
+      "md5": "19f1ee21ba104389a27756e7aff59162",
+      "crc32": "503acb78",
+      "sha1": "300a00c40173ef8e4318c0774d874256674500c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-06-30T14:12:27.612476+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-06-30T14:12:27.612476+01:00.jpg",
+      "mtime": "1656594883",
+      "size": "9441",
+      "md5": "2f8613b18be538a02f78f1e6945b70fb",
+      "crc32": "5df8a077",
+      "sha1": "6676e36633686c6340d5146da09bd4312c9d4e6f"
+    },
+    {
+      "name": "telegraph-2022-06-30T18:13:39.421312+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656609222",
+      "size": "31550",
+      "md5": "1ceb95e6cc14f9c7a27ce4a2b4b8d36a",
+      "crc32": "d9869f0b",
+      "sha1": "76fb58a5c64c65ef45f9df1b51c88475c7e37583",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T18:13:39.421312+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656609224",
+      "size": "27990",
+      "md5": "1f82ee5cc402e0467642428335cfc8e9",
+      "crc32": "cfa88207",
+      "sha1": "cf51cae5d4dbb1c9307f4376b58d61591e74436b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-06-30T18:13:39.421312+01:00.jpg",
+      "source": "original",
+      "mtime": "1656609221",
+      "size": "333723",
+      "md5": "a26f259049069bfea6a3aa6b31626019",
+      "crc32": "83975f1c",
+      "sha1": "38858175fac710b1288d1c2d81b1071df5e78910",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-06-30T18:13:39.421312+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-06-30T18:13:39.421312+01:00.jpg",
+      "mtime": "1656609276",
+      "size": "9262",
+      "md5": "502fe5eba04e343db1b7a21200a1d4af",
+      "crc32": "12e9056f",
+      "sha1": "ef31958b4283bfcf3c832ae5b5a6d1ab855c0344"
+    },
+    {
       "name": "telegraph-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b396b2af73b92df72dabe1968986d61623e468ab",
-      "mtime": "1656544342",
-      "size": "177849",
-      "md5": "63e16368461d4feb5d4fa289ff48be04",
-      "crc32": "3798e1a2",
-      "sha1": "8fd5d0e9b994a4ae8a3bbb857db8403e0c5259bf",
+      "btih": "48adba046ec8ea315b47d5ba5cd8203692b3788b",
+      "mtime": "1656609284",
+      "size": "185486",
+      "md5": "30949aeed904b26739a9a8d84592c1b4",
+      "crc32": "bfbf4163",
+      "sha1": "ee600d7c7042d97403a0f69d56d2801d26b4ea84",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraph-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a803090d591f8113571d42f8dbc8719",
+      "md5": "33a0b621ffe557cb17f2069119843483",
       "summation": "md5"
     },
     {
       "name": "telegraph-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544302",
-      "size": "958464",
-      "md5": "59c2af55a5bc195013c1000403dedfd6",
-      "crc32": "62d35fa1",
-      "sha1": "5dea21a393bbad45f55cfb012015520946313bc4",
+      "mtime": "1656609228",
+      "size": "999424",
+      "md5": "15d089debd0cceb7d7e46cc2e1192c6a",
+      "crc32": "f36bd5f7",
+      "sha1": "56c210717896eaea3cc69f3e1912b13222f1e13a",
       "format": "Metadata"
     },
     {
@@ -8792,9 +9170,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 836,
-  "item_last_updated": 1656544342,
-  "item_size": 86219558,
+  "files_count": 872,
+  "item_last_updated": 1656609284,
+  "item_size": 89856120,
   "metadata": {
     "identifier": "telegraph-2022",
     "collection": [
@@ -8811,10 +9189,776 @@
     "publicdate": "2022-03-23 08:03:49",
     "addeddate": "2022-03-23 08:03:49"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 823310088,
+  "server": "ia802501.us.archive.org",
+  "telegraph-2022": [
+    {
+      "text": "Jump to content",
+      "url": "#main-content"
+    },
+    {
+      "text": "\n\nThe Telegraph logo\n\n\n",
+      "url": "/"
+    },
+    {
+      "text": "\nEXPLORE: Telegraph Extra\n",
+      "url": "https://extra.telegraph.co.uk/?icid=editorial_ultilities_portal_generic_utility-bar"
+    },
+    {
+      "text": "\nPLAY NOW: PlusWord\n",
+      "url": "https://www.telegraph.co.uk/news/plusword/"
+    },
+    {
+      "text": "\nLISTEN NOW: PLANET NORMAL PODCAST\n",
+      "url": "https://www.telegraph.co.uk/planet-normal/?icid=editorial_editorial_nav-bar_inarticle_utility-bar"
+    },
+    {
+      "text": "\n\n\nNews\n\n\n",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\n\nUkraine\n\n\n",
+      "url": "/russia-ukraine-war/"
+    },
+    {
+      "text": "\n\n\nSport\n\n\n",
+      "url": "/sport/"
+    },
+    {
+      "text": "\n\n\nBusiness\n\n\n",
+      "url": "/business/"
+    },
+    {
+      "text": "\n\n\nOpinion\n\n\n",
+      "url": "/opinion/"
+    },
+    {
+      "text": "\n\n\nMoney\n\n\n",
+      "url": "/money/"
+    },
+    {
+      "text": "\n\n\nLife\n\n\n",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": "\n\n\nStyle\n\n\n",
+      "url": "/style/"
+    },
+    {
+      "text": "\n\n\nTravel\n\n\n",
+      "url": "/travel/"
+    },
+    {
+      "text": "\n\n\nCulture\n\n\n",
+      "url": "/culture/"
+    },
+    {
+      "text": "\n\n\nPlusWord\n\n\n",
+      "url": "https://www.telegraph.co.uk/news/plusword/"
+    },
+    {
+      "text": "\n\nSearch Icon\n\n\n",
+      "url": "https://www.telegraph.co.uk/search.html"
+    },
+    {
+      "text": "\n\n\nSubscribe now\n\n\nFree for one month\n\n\n\n\n\n",
+      "url": "https://premium.telegraph.co.uk/?ICID=portal_premiumsub_generic_index_topnav"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tLog in\n\t\t\t\t\t\t\t\t",
+      "url": "/secure/login/?redirectTo=https%3A%2F%2Fwww.telegraph.co.uk%2F"
+    },
+    {
+      "text": "\n\n",
+      "url": "/all-sections/"
+    },
+    {
+      "text": "\nClaim this offer\n\nCorner Circle Decoration\n\n\n\n\n\n\n\n\n\n\n\n",
+      "url": "https://www.telegraph.co.uk/customer/subscribe/summerofsport?ICID=conversion-subscription_onsite-asset_onsite-asset_homepage_puff/%20"
+    },
+    {
+      "text": "\n\nSNP: No more Scottish money should be given to Ukraine for weapons\n\n",
+      "url": "/news/2022/06/30/nicola-sturgeons-snp-will-no-longer-send-money-ukraine-weapons/"
+    },
+    {
+      "text": "\n\nNicola Sturgeon accused of focusing '24 hours a day' on Indyref2\n\n",
+      "url": "/politics/2022/06/30/boris-johnson-news-sturgeon-snp-indyref2-brexit-eu-1922/"
+    },
+    {
+      "text": "\n\nUK security headache as Turkey to deport Isis 'Beatle' known as 'Jihadi Paul'\n\n",
+      "url": "/news/2022/06/30/islamic-state-beatle-aine-davis-deported-back-uk/"
+    },
+    {
+      "text": "\n\nAnalysis\nWhy Ukraine's Snake Island victory could be a major blow for Putin\n\n",
+      "url": "/world-news/2022/06/30/how-russias-retreat-snake-island-could-restart-grain-trade/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/world-news/2022/06/30/how-russias-retreat-snake-island-could-restart-grain-trade/"
+    },
+    {
+      "text": "\n\nSpecial report\nWhy Ukraine just wouldn't let Snake Island go\n\n",
+      "url": "/world-news/2022/06/30/snake-island-ukraine-russian-warship-battle-map-fight-keep/"
+    },
+    {
+      "text": "\n\n\n\n\nLive\n\n\nNew 'iron curtain' descending, warns Sergei Lavrov\n\n",
+      "url": "/world-news/2022/06/30/ukraine-news-russia-war-nato-summit-madrid-finland-sweden/"
+    },
+    {
+      "text": "\n\nEuropean court orders Russia not to execute captured British soldiers\n\n",
+      "url": "/world-news/2022/06/30/european-court-orders-russia-not-execute-british-soldiers-captured/"
+    },
+    {
+      "text": "\n\nVietnam \u2018Napalm girl\u2019 receives final round of burns treatment, 50 years after iconic photo\n\n",
+      "url": "/world-news/2022/06/30/vietnam-napalm-girl-receives-final-round-burns-treatment-fifty/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/world-news/2022/06/30/vietnam-napalm-girl-receives-final-round-burns-treatment-fifty/"
+    },
+    {
+      "text": "\n\nJoe Biden mixes up Sweden and Switzerland in latest gaffe\n\n",
+      "url": "/world-news/2022/06/30/joe-biden-mixes-sweden-switzerland-latest-gaffe/"
+    },
+    {
+      "text": "\n\nPutin: Topless Boris Johnson and Justin Trudeau would be 'disgusting sight'\n\n",
+      "url": "/world-news/2022/06/30/vladimir-putin-topless-boris-johnson-justin-trudeau-would-disgusting/"
+    },
+    {
+      "text": "\n\nFrench fear tax witch hunt as ex-Trotskyite gets key financial post\n\n",
+      "url": "/world-news/2022/06/30/french-tax-witch-hunt-fears-enemy-thatcherite-neoliberal-order/"
+    },
+    {
+      "text": "\n\nElon Musk escalates Tesla\u2019s war on working from home with 'please explain' emails\n\n",
+      "url": "/business/2022/06/30/elon-musk-escalates-teslas-war-working-home/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/business/2022/06/30/elon-musk-escalates-teslas-war-working-home/"
+    },
+    {
+      "text": "\n\nWarner Bros defends JK Rowling after questions about author were 'banned' at Harry Potter event\n\n",
+      "url": "/news/2022/06/30/warner-bros-defends-jk-rowling-questions-author-banned-harry/"
+    },
+    {
+      "text": "\n\nEU claims of UK silence on Northern Ireland Protocol talks are \u2018total rubbish\u2019\n\n",
+      "url": "/politics/2022/06/30/eu-claims-uk-silence-northern-ireland-protocol-talks-total-rubbish/"
+    },
+    {
+      "text": "\n\nWoke Halifax no longer understands its ordinary customers\n\n",
+      "url": "/news/2022/06/30/woke-halifax-no-longer-understands-ordinary-customers/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/authors/j/jk-jo/josephine-bartosch/"
+    },
+    {
+      "text": "\nJosephine Bartosch\n",
+      "url": "/authors/j/jk-jo/josephine-bartosch/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/news/2022/06/30/woke-halifax-no-longer-understands-ordinary-customers/"
+    },
+    {
+      "text": "\n\nStealth tax raid forces two million people into higher bands\n\n",
+      "url": "/tax/income-tax/two-million-people-pushed-higher-tax-rates-since-last-election/"
+    },
+    {
+      "text": "\n\n\n\n\nLive\n\n\nGermany to bail out UK power station owner as Putin squeezes gas supplies\n\n",
+      "url": "/business/2022/06/30/ftse-100-markets-live-news-heinz-tesco-recession-inflation-latest/"
+    },
+    {
+      "text": "\n\nShane Watson\nEight signs of incompatibility that lead to divorce\n\n",
+      "url": "/women/life/eight-signs-incompatibility-lead-divorce/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/women/life/eight-signs-incompatibility-lead-divorce/"
+    },
+    {
+      "text": "\n\nThe Princess: a damsel entertainingly dishing out heaps of distress\n\n",
+      "url": "/films/0/princess-review-damsel-entertainingly-dishing-heaps-distress/"
+    },
+    {
+      "text": "\n\nThe Undeclared War, review: a gripping cyber thriller with one glaring problem\n\n",
+      "url": "/tv/0/undeclared-war-review-gripping-cyber-thriller-one-glaring-problem/"
+    },
+    {
+      "text": "\n\n\n\n\nLive\n\n\nWimbledon\nNadal takes first two sets against Berankis - live updates\n\n",
+      "url": "/tennis/2022/06/30/wimbledon-2022-live-rafael-nadal-score-results-highlights-today/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/tennis/2022/06/30/wimbledon-2022-live-rafael-nadal-score-results-highlights-today/"
+    },
+    {
+      "text": "\n\nKatie Boulter dedicates thrilling Wimbledon win to her grandmother - who died two days ago\n\n",
+      "url": "/tennis/2022/06/30/katie-boulter-dedicates-thrilling-wimbledon-win-late-grandmother/"
+    },
+    {
+      "text": "\n\nLiam Broady stuns Wimbledon 12th seed Diego Schwartzman\n\n",
+      "url": "/tennis/2022/06/30/liam-broady-stuns-wimbledon-12th-seed-diego-schwartzman/"
+    },
+    {
+      "text": "\n\nNadine Dorries says Jonny Wilkinson kick her favourite 'rugby league' memory\n\n",
+      "url": "/rugby-league/2022/06/30/2003-drop-goal-nadine-dorries-says-jonny-wilkinson-kick-favourite/"
+    },
+    {
+      "text": "\n\nWarren Gatland\nEngland are under pressure. The big question for me is \u2013 what is Eddie Jones' plan?\n\n",
+      "url": "/rugby-union/2022/06/30/england-pressure-big-question-what-eddie-jones-plan/"
+    },
+    {
+      "text": "\n\nThere is no housing shortage in Britain\n\n",
+      "url": "/news/2022/06/30/no-housing-shortage-britain/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/authors/a/ak-ao/andrew-lilico/"
+    },
+    {
+      "text": "\nAndrew Lilico\n",
+      "url": "/authors/a/ak-ao/andrew-lilico/"
+    },
+    {
+      "text": "\n\nSturgeon should stick to the day job of uniting our country, not dividing it\n\n",
+      "url": "/politics/2022/06/30/sturgeon-should-stick-day-job-uniting-country-not-dividing/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/authors/a/ak-ao/alan-cochrane/"
+    },
+    {
+      "text": "\nAlan Cochrane\n",
+      "url": "/authors/a/ak-ao/alan-cochrane/"
+    },
+    {
+      "text": "\n\nHow to protect your money as a recession screeches into view\n\n",
+      "url": "/business/2022/06/30/how-protect-money-recession-screeches-view/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/authors/t/tk-to/tom-stevenson/"
+    },
+    {
+      "text": "\nTom Stevenson\n",
+      "url": "/authors/t/tk-to/tom-stevenson/"
+    },
+    {
+      "text": "\n\nLabour should embrace champagne socialism\n\n",
+      "url": "/news/2022/06/30/labour-should-embrace-champagne-socialism/"
+    },
+    {
+      "text": "\nTom Harris\n",
+      "url": "/authors/t/tk-to/tom-harris/"
+    },
+    {
+      "text": "\n\nDominic Raab\u2019s opera snobbery is proof of Britain\u2019s problem with \u2018highbrow\u2019 art\n\n",
+      "url": "/opera/what-to-see/dominic-raabs-opera-snobbery-proof-britains-problem-highbrow/"
+    },
+    {
+      "text": "\nAlexandra Wilson\n",
+      "url": "/authors/a/ak-ao/alexandra-wilson0/"
+    },
+    {
+      "text": "\n\n\u2018Decolonisation\u2019 is now a dangerous farce\n\n",
+      "url": "/news/2022/06/29/decolonisation-now-dangerous-farce/"
+    },
+    {
+      "text": "\nRobert Tombs\n",
+      "url": "/authors/r/rk-ro/robert-tombs/"
+    },
+    {
+      "text": "\n\nPutin is learning from his mistakes. We are not\n\n",
+      "url": "/news/2022/06/30/putin-learning-mistakes-not/"
+    },
+    {
+      "text": "\nCon Coughlin\n",
+      "url": "/authors/c/ck-co/con-coughlin/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/news/0/matt-cartoons-july-2022/"
+    },
+    {
+      "text": "\n\nAlex cartoons: June 2022\n\n\n\n\n",
+      "url": "/business/2022/05/31/alex-cartoons-june-2022/"
+    },
+    {
+      "text": "\n\nLetters to the editor\n\n\n\n\n",
+      "url": "/opinion/letters/"
+    },
+    {
+      "text": "\n\nGive Sturgeon her referendum \u2013 but under more rigorous terms\n\n",
+      "url": "/opinion/2022/06/30/letters-give-sturgeon-referendum-rigorous-terms/"
+    },
+    {
+      "text": "\n\nThe Telegraph View\n\n\n\n\n",
+      "url": "/opinion/telegraph-view/"
+    },
+    {
+      "text": "\n\nThe Met Police can't clean up its act without reform\n\n",
+      "url": "/opinion/2022/06/29/met-police-cant-clean-act-without-reform/"
+    },
+    {
+      "text": "\n\nTime for a mid-term reboot for both Labour and Conservatives\n\n",
+      "url": "/opinion/2022/06/30/time-mid-term-reboot-labour-conservatives/"
+    },
+    {
+      "text": "\n\nObituaries\n\n\n\n\n",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "\n\nMartin Bangemann, politician who helped to create the Single Market and was happy to take on the UK\n\n",
+      "url": "/obituaries/2022/06/30/martin-bangemann-politician-who-helped-create-single-market/"
+    },
+    {
+      "text": "\n\nSonny Barger, who led the way as the Hell\u2019s Angels grew into one of the world\u2019s most notorious gangs\n\n",
+      "url": "/obituaries/2022/06/30/sonny-barger-who-led-way-hells-angels-grew-local-motorcycle/"
+    },
+    {
+      "text": "\nNews\n",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\nMother and stepfather jailed for life for murdering 5-year old Logan Mwangi\n\n",
+      "url": "/news/2022/06/30/mother-stepfather-jailed-life-murdering-5-year-old-logan-mwangi/"
+    },
+    {
+      "text": "\n\nKiller whales take on great white sharks in a gory battle for the seas\n\n",
+      "url": "/world-news/2022/06/30/killer-whales-take-great-white-sharks-gory-battle-seas/"
+    },
+    {
+      "text": "\n\nPandas grew sixth \u2018thumb\u2019 six million years earlier than thought \u2013 here\u2019s how\n\n",
+      "url": "/news/2022/06/30/pandas-grew-sixth-thumb-six-million-years-earlier-thought-how/"
+    },
+    {
+      "text": "\n\nA prickly issue, as Labour council 'wastes residents' time' with hairy mayor game\n\n",
+      "url": "/news/2022/06/30/labour-councils-hairy-mayors-poll-gets-snippy-reaction-locals/"
+    },
+    {
+      "text": "\n\n'Octopus boom': Cornish fishermen report bumper sightings for first time in 70 years\n\n",
+      "url": "/news/2022/06/30/octopus-boom-cornish-fishermen-report-bumper-sightings-first/"
+    },
+    {
+      "text": "\n\nJail for SNP MP who spent fundraisers' cash on takeaways and a trip to Spain\n\n",
+      "url": "/news/2022/06/30/former-snp-mp-natalie-mcgarry-jailed-two-years-embezzlement/"
+    },
+    {
+      "text": "\n\n\u2018Shocking apologist\u2019 Bernie Ecclestone under fire for saying he would \u2018take a bullet\u2019 for Vladimir Putin\n\n",
+      "url": "/world-news/2022/06/30/bernie-ecclestone-take-bullet-vladimir-putin/"
+    },
+    {
+      "text": "\n\nBeachfront property seized from black couple in Jim Crow era returned to their descendants\n\n",
+      "url": "/world-news/2022/06/29/beachfront-property-seized-black-couple-jim-crow-era-returned/"
+    },
+    {
+      "text": "\n\nMore than one in three civil servants still working from home\n\n",
+      "url": "/politics/2022/06/30/one-three-civil-servants-still-working-home/"
+    },
+    {
+      "text": "\nBusiness\n",
+      "url": "/business/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/business/alex-cartoon/"
+    },
+    {
+      "text": "\n\nHouse price fall now \u2018unavoidable\u2019 as growth slows again\n\n",
+      "url": "/property/house-prices/house-price-fall-now-unavoidable-growth-slows/"
+    },
+    {
+      "text": "\n\nSearches for 'gay pride' banned as Amazon bows to UAE pressure\n\n",
+      "url": "/business/2022/06/30/amazon-blocks-lgbtq-searches-uae-political-pressure/"
+    },
+    {
+      "text": "\n\nHousehold incomes suffer longest fall on record \u2013 and worse is to come\n\n",
+      "url": "/business/2022/06/30/household-incomes-suffer-longest-fall-record-worse-come/"
+    },
+    {
+      "text": "\n\n'Total chaos' at Heathrow as airport orders 30 flights to be cancelled\n\n",
+      "url": "/news/2022/06/30/total-chaos-heathrow-airport-orders-30-flights-cancelled/"
+    },
+    {
+      "text": "\n\nExpand congestion zones and tolls to force drivers out of cars, says Boris Johnson adviser\n\n",
+      "url": "/business/2022/06/30/expand-congestion-zones-tolls-force-drivers-cars-says-boris/"
+    },
+    {
+      "text": "\n\nBruising encounter with culture wars puts Disney boss centre stage\n\n",
+      "url": "/business/2022/06/30/disneys-boss-faces-battle-survive-culture-wars-streaming-slump/"
+    },
+    {
+      "text": "\n\nHydrogen-powered electric trucks to be made in Britain\n\n",
+      "url": "/business/2022/06/30/hydrogen-powered-electric-trucks-made-britain/"
+    },
+    {
+      "text": "\nSport\n",
+      "url": "/sport/"
+    },
+    {
+      "text": "\n\nJim White\nBBC's obsession with celebrity is doing Wimbledon a disservice\n\n",
+      "url": "/tennis/2022/06/30/bbcs-obsession-celebrity-wimbledon-disservice/"
+    },
+    {
+      "text": "\n\nWhy Paul Pogba's Manchester United return proved a big-money failure\n\n",
+      "url": "/football/2022/06/30/why-paul-pogbas-manchester-united-return-proved-big-money-failure/"
+    },
+    {
+      "text": "\n\nFootball\nSecret weapons and sell-out crowds: What England need to do to win the Euros\n\n",
+      "url": "/football/2022/06/30/secret-weapons-sell-out-crowds-what-england-need-do-win-euros/"
+    },
+    {
+      "text": "\n\nFootball\nChelsea launch review into 'toxic culture' as suicide of club's former head of TV channel revealed\n\n",
+      "url": "/football/2022/06/30/chelsea-launch-review-toxic-culture-suicide-clubs-former-head/"
+    },
+    {
+      "text": "\n\nF1\nLewis Hamilton responds to Bernie Ecclestone and Nelson Piquet: 'Why are we giving older voices a platform?'\n\n",
+      "url": "/formula-1/2022/06/30/lewis-hamilton-responds-bernie-ecclestone-nelson-piquet-why/"
+    },
+    {
+      "text": "\n\nTour de France to begin under cloud after second police raid on Team Bahrain Victorious\n\n\n",
+      "url": "/cycling/2022/06/30/tour-de-france-begin-cloud-second-police-raid-team-bahrain-victorious/"
+    },
+    {
+      "text": "\n\nFashion\nThe key to Carole Middleton\u2019s chic Wimbledon style is already in your closet\n\n",
+      "url": "/fashion/people/key-carole-middletons-chic-wimbledon-style-already-closet/"
+    },
+    {
+      "text": "\n\nTravel\nBunk beds in economy class? The in-flight innovation we've been waiting for\n\n",
+      "url": "/travel/advice/lie-flat-beds-economy-class-in-flight-innovation-waiting/"
+    },
+    {
+      "text": "\n\nCulture\nSeven famous winks that rocked the world\n\n",
+      "url": "/news/2022/06/30/dominic-raab-wink-famous-winks/"
+    },
+    {
+      "text": "\n\nFamily\n\u2018Why I told my 10-year-old daughter about my abortion\u2019\n\n",
+      "url": "/women/life/why-told-10-year-old-daughter-abortion/"
+    },
+    {
+      "text": "\n\nBeauty\nWhy you're never too old for fake tan \u2013 in fact, it'll make you look younger\n\n",
+      "url": "/beauty/face/best-fake-tan-products-body-face-drops-look-younger-2022/"
+    },
+    {
+      "text": "\n\nTravel\nThe 15 things you need for a perfect UK seaside holiday (and the best places to find them)\n\n",
+      "url": "/travel/lists/anatomy-great-british-beach-break/"
+    },
+    {
+      "text": "\n\nInteriors\nHow flower arranging got cool again \u2013 and three ways to master it\n\n",
+      "url": "/interiors/home/how-flower-arranging-got-cool-three-ways-master/"
+    },
+    {
+      "text": "\n\nBeauty\nThe Glam-Ma Makeover: What this superstar makeup artist can teach midlife women\n\n",
+      "url": "/beauty/make-up/glam-ma-makeover-what-superstar-insta-makeup-artist-can-teach/"
+    },
+    {
+      "text": "\n\nKay Burley\n10 surprising lessons I learnt on holiday in South Africa\n\n",
+      "url": "/travel/destinations/africa/south-africa/10-surprising-lessons-learnt-holiday-south-africa/"
+    },
+    {
+      "text": "\nArts and Entertainment\n\n\n\n\n\n\n\n",
+      "url": "/culture/"
+    },
+    {
+      "text": "\n\nFilm\nEric Ravilious: Drawn to War: fascinating new light on a singularly English master\n\n",
+      "url": "/films/0/eric-ravilious-drawn-war-review-fascinating-new-light-singularly/"
+    },
+    {
+      "text": "\n\nFilm\nMinions: The Rise of Gru, review: a brilliant, breakneck throwback to Looney Tunes\n\n",
+      "url": "/films/0/minions-rise-gru-review-brilliant-breakneck-throwback-looney/"
+    },
+    {
+      "text": "\n\nBooks\n\u2018Normal\u2019 doesn\u2019t exist \u2013 and the search for it has ruined medicine\n\n",
+      "url": "/books/what-to-read/normal-doesnt-exist-search-has-ruined-medicine/"
+    },
+    {
+      "text": "\n\nTV\nBlack Bird, review: Ray Liotta burns up the screen in final TV appearance\n\n",
+      "url": "/tv/0/black-bird-review-ray-liotta-burns-screen-final-tv-appearance/"
+    },
+    {
+      "text": "\nBy\nAnita Singh\n",
+      "url": "/authors/a/ak-ao/anita-singh/"
+    },
+    {
+      "text": "\n\n\u2018Ghislaine Maxwell forced me into a room to be raped \u2013 and smiled at me when it was over\u2019\n\n",
+      "url": "/news/2022/06/29/ghislaine-maxwell-forced-room-raped-smiled-when/"
+    },
+    {
+      "text": "\n\nJehovah\u2019s Witness organisation has secret database of child sex abuse claims against members\n\n",
+      "url": "/news/2022/06/30/jehovahs-witness-organisation-has-secret-database-child-sex/"
+    },
+    {
+      "text": "\n\nMonkeypox is not a one-off \u2013 here\u2019s how we prepare for our new reality\n\n",
+      "url": "/global-health/science-and-disease/monkeypox-not-one-off-how-prepare-new-reality/"
+    },
+    {
+      "text": "\n\nThe CCTV footage that debunks Russia\u2019s lies about Kremenchuk shopping centre attack\n\n",
+      "url": "/world-news/2022/06/29/kremenchuk-shopping-centre-video-pictures-ukraine-mall-attack/"
+    },
+    {
+      "text": "\n\nWithout Deborah James, I wouldn\u2019t have gone to the doctors\n\n",
+      "url": "/women/life/without-deborah-james-wouldnt-have-gone-doctors/"
+    },
+    {
+      "text": "\nFamily\n\n\n\n\n\n\n\n",
+      "url": "/family/"
+    },
+    {
+      "text": "\n\nLosing my wife to suicide convinced me more men need to talk about the menopause\n\n",
+      "url": "/family/life/losing-wife-suicide-convinced-men-need-talk-menopause/"
+    },
+    {
+      "text": "\n\nMy wife is a total embarrassment at parties \u2013 and I dread going out with her\n\n",
+      "url": "/family/life/wife-total-embarrassment-parties-dread-going/"
+    },
+    {
+      "text": "\nWomen\n\n\n\n\n\n\n\n",
+      "url": "/women/"
+    },
+    {
+      "text": "\n\nEight signs of incompatibility that lead to divorce\n\n",
+      "url": "/women/life/eight-signs-incompatibility-lead-divorce/"
+    },
+    {
+      "text": "\n\n\u2018Why I told my 10-year-old daughter about my abortion\u2019\n\n",
+      "url": "/women/life/why-told-10-year-old-daughter-abortion/"
+    },
+    {
+      "text": "\nLuxury\n\n\n\n\n\n\n\n",
+      "url": "/luxury/"
+    },
+    {
+      "text": "\n\nWhy you can\u2019t buy a Rolex \u2013 and it\u2019s not because of the price\n\n",
+      "url": "/fashion/style/cant-buy-rolex-not-price/"
+    },
+    {
+      "text": "\n\nChanel's new headquarters isn't what you would expect\n\n",
+      "url": "/fashion/brands/chanels-new-headquarters-isnt-would-expect/"
+    },
+    {
+      "text": "\nHealth & Fitness\n\n\n\n\n\n\n\n",
+      "url": "/health-fitness/"
+    },
+    {
+      "text": "\n\nWill Iain Duncan Smith's \u2018MenoVest\u2019 make men more empathetic to female hot flushes?\n\n",
+      "url": "/health-fitness/body/will-wearing-menovest-make-men-empathetic-womens-hot-flushes/"
+    },
+    {
+      "text": "\n\nThe forces making our children fat and diabetic\n\n",
+      "url": "/health-fitness/body/forces-making-children-fat-diabetic/"
+    },
+    {
+      "text": "\nMoney\n\n\n\n\n\n\n\n",
+      "url": "/money/"
+    },
+    {
+      "text": "\n\nStealth tax raid forces two million people into higher bands\n\n",
+      "url": "/tax/income-tax/two-million-people-pushed-higher-tax-rates-since-last-election/"
+    },
+    {
+      "text": "\n\nThe highest paying jobs without a degree in 2022\n\n",
+      "url": "/money/consumer-affairs/highest-best-paid-jobs-salary-no-degree-university-uk-2022/"
+    },
+    {
+      "text": "\nFood & Drink\n\n\n\n\n\n\n\n",
+      "url": "/food-and-drink/"
+    },
+    {
+      "text": "\n\nThe best canned wines to drink this summer \n\n",
+      "url": "/food-and-drink/wine/best-canned-wines-drink-summer/"
+    },
+    {
+      "text": "\n\nJos\u00e9 Pizarro\u2019s three-course summery Spanish feast\n\n",
+      "url": "/food-and-drink/features/chef-jose-pizarros-three-course-summery-spanish-feast/"
+    },
+    {
+      "text": "\nGardening\n\n\n\n\n\n\n\n",
+      "url": "/gardening/"
+    },
+    {
+      "text": "\n\nTop tips on how to grow bougainvillea in your garden\n\n",
+      "url": "/gardening/how-to-grow/top-tips-how-to-grow-bougainvillea-garden-uk-summer-2022/"
+    },
+    {
+      "text": "\n\nHow to build a raised bed in one weekend and what to put in it\u00a0\n\n",
+      "url": "/gardening/how-to-grow/how-build-raised-bed-garden-what-grow-vegetables-uk-2022/"
+    },
+    {
+      "text": "\nFashion & Beauty\n\n\n\n\n\n\n\n",
+      "url": "/fashion/"
+    },
+    {
+      "text": "\n\n18 genius fashion buys on sale right now\n\n",
+      "url": "/fashion/shopping/18-genius-fashion-buys-sale-right-now/"
+    },
+    {
+      "text": "\n\nThe key to Carole Middleton\u2019s chic Wimbledon style is already in your closet\n\n",
+      "url": "/fashion/people/key-carole-middletons-chic-wimbledon-style-already-closet/"
+    },
+    {
+      "text": "\nCars\n\n\n\n\n\n\n\n",
+      "url": "/cars/"
+    },
+    {
+      "text": "\n\nThe beginner\u2019s guide to buying an electric car\n\n",
+      "url": "/cars/features/electric-cars-grants-beginners-guide-buying-ev-new-cost-2022/"
+    },
+    {
+      "text": "\n\nThe 10 best electric cars to buy for the new 22 registration and their benefits\n\n",
+      "url": "/cars/advice/best-electric-cars-top-10-evs-benefits-buy-uk-2022/"
+    },
+    {
+      "text": "\nTravel\n\n\n\n\n\n\n\n",
+      "url": "/travel/"
+    },
+    {
+      "text": "\n\nThe 10 best beach holidays in France for discerning British sunseekers\n\n",
+      "url": "/travel/destinations/europe/france/best-beach-holidays-france-summer-2022-trip-seaside-visit-sun/"
+    },
+    {
+      "text": "\n\nForget Center Parcs \u2013 vineyard stays are the new family holiday for summer 2022\n\n",
+      "url": "/travel/food-and-wine-holidays/forget-center-parcs-vineyard-stays-new-family-holiday/"
+    },
+    {
+      "text": "\nCulture\n\n\n\n\n\n\n\n",
+      "url": "/culture/"
+    },
+    {
+      "text": "\n\nThe Terminal List, review: military fetishism, gun porn and the dumbest TV show of the year\n\n",
+      "url": "/tv/0/terminal-list-review-military-fetishism-gun-porn-dumbest-tv/"
+    },
+    {
+      "text": "\n\nDominic Raab\u2019s opera snobbery is proof of Britain\u2019s problem with \u2018highbrow\u2019 art\n\n",
+      "url": "/opera/what-to-see/dominic-raabs-opera-snobbery-proof-britains-problem-highbrow/"
+    },
+    {
+      "text": "\nRecommended\n\n\n\n\n\n\n\n",
+      "url": "https://www.telegraph.co.uk/recommended/"
+    },
+    {
+      "text": "\n\nThe best mattress for back pain, recommended by an osteopath\n\n",
+      "url": "/recommended/home/best-mattress-back-pain/"
+    },
+    {
+      "text": "\n\nThis year's best pillows, including cooling pillows for summer\n\n",
+      "url": "/recommended/home/best-pillows-luxurious-nights-sleep/"
+    },
+    {
+      "text": "\n\nThe best cordless vacuum cleaners for 2022, tried and tested\n\n",
+      "url": "/recommended/home/best-cordless-vacuums/"
+    },
+    {
+      "text": "\nThe Daily Telegraph is a member of the Independent Press Standards Organisation (IPSO) and we subscribe to its Editors' Code of Practice. Find out more here.\n",
+      "url": "https://www.telegraph.co.uk/contact-us/editorial-complaints/"
+    },
+    {
+      "text": "\n\nThe Telegraph\n\n\n",
+      "url": "/"
+    },
+    {
+      "text": "\nBack to top\n\n\n\n",
+      "url": "#navigation"
+    },
+    {
+      "text": "\n\nFacebook icon\n\n\n",
+      "url": "https://www.facebook.com/TELEGRAPH.CO.UK/"
+    },
+    {
+      "text": "\n\nInstagram icon\n\n\n",
+      "url": "https://www.instagram.com/telegraph/"
+    },
+    {
+      "text": "\n\nTwitter icon\n\n\n",
+      "url": "https://twitter.com/@Telegraph"
+    },
+    {
+      "text": "\n\nSnapchat icon\n\n\n",
+      "url": "https://www.snapchat.com/discover/The_Telegraph/8148798159"
+    },
+    {
+      "text": "\n\nLinkedIn icon\n\n\n",
+      "url": "https://www.linkedin.com/company/9053/"
+    },
+    {
+      "text": "\n\nYouTube icon\n\n\n\n",
+      "url": "https://www.youtube.com/channel/UCPgLNge0xqQHWM5B5EFH9Cg"
+    },
+    {
+      "text": "Contact us",
+      "url": "/contact-us/"
+    },
+    {
+      "text": "About us",
+      "url": "https://corporate.telegraph.co.uk/"
+    },
+    {
+      "text": "Telegraph Extra",
+      "url": "https://extra.telegraph.co.uk/"
+    },
+    {
+      "text": "Reader Prints",
+      "url": "https://telegraph.newsprints.co.uk/"
+    },
+    {
+      "text": "Branded Content",
+      "url": "/branded-content/"
+    },
+    {
+      "text": "Syndication and Commissioning",
+      "url": "/syndication/"
+    },
+    {
+      "text": "Guidelines",
+      "url": "/about-us/editorial-and-commercial-guidelines3/"
+    },
+    {
+      "text": "Privacy",
+      "url": "/about-us/privacy-and-cookie-policy/"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "/about-us/terms-and-conditions/"
+    },
+    {
+      "text": "Advertising Terms",
+      "url": "/about-us/advertising-terms-and-conditions3/"
+    },
+    {
+      "text": "Fantasy Sport",
+      "url": "https://fantasyfootball.telegraph.co.uk/"
+    },
+    {
+      "text": "UK Voucher Codes",
+      "url": "https://www.telegraph.co.uk/vouchercodes"
+    },
+    {
+      "text": "Betting Offers",
+      "url": "/betting/free-bets/"
+    },
+    {
+      "text": "Modern Slavery",
+      "url": "/about-us/modern-slavery-statement/"
+    },
+    {
+      "text": "Tax Strategy",
+      "url": "/about-us/press-acquisitions-limited-tax-strategy-financial-year-2021/"
+    },
+    {
+      "text": "Broadband and Mobile Deals",
+      "url": "https://www.telegraph.co.uk/compare"
+    },
+    {
+      "text": "Manage Cookies",
+      "url": "#"
+    },
+    {
+      "text": "adblocking instructions",
+      "url": "https://www.telegraph.co.uk/go/adblocking/"
+    }
+  ],
+  "uniq": 259781866,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

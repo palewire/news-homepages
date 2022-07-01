@@ -1,5 +1,5 @@
 {
-  "created": 1656544446,
+  "created": 1656635194,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/28/items/themarkup-2022",
@@ -1716,31 +1716,325 @@
       "sha1": "94c46c82148c24649444f8843212c492e36cacad"
     },
     {
+      "name": "themarkup-2022-06-29T21:37:15.225356-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656553037",
+      "size": "6744",
+      "md5": "d2d85c689ee93203af98933f0db3613a",
+      "crc32": "61cc3163",
+      "sha1": "b142ad99d476f7a9e6426ba2970e3bc45a78e2c9",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-29T21:37:15.225356-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656553038",
+      "size": "9104",
+      "md5": "5b6096adf94f534013bc466d7d4ccdc1",
+      "crc32": "fcb379b3",
+      "sha1": "5c9d55fc0f42816ae9680623441d808a6e3bd7c8",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-29T21:37:15.225356-04:00.jpg",
+      "source": "original",
+      "mtime": "1656553036",
+      "size": "240535",
+      "md5": "f074b0936207aaab280d19b3888c4ecd",
+      "crc32": "e0c022c9",
+      "sha1": "864c3576323fe5386e5b2c81beccd717b0706fef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-06-29T21:37:15.225356-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-06-29T21:37:15.225356-04:00.jpg",
+      "mtime": "1656553098",
+      "size": "8934",
+      "md5": "1b1104824ca81e3c140bf286b0493cd3",
+      "crc32": "1005c583",
+      "sha1": "94c46c82148c24649444f8843212c492e36cacad"
+    },
+    {
+      "name": "themarkup-2022-06-29T23:49:44.399527-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560987",
+      "size": "6744",
+      "md5": "d2d85c689ee93203af98933f0db3613a",
+      "crc32": "61cc3163",
+      "sha1": "b142ad99d476f7a9e6426ba2970e3bc45a78e2c9",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-29T23:49:44.399527-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560989",
+      "size": "9104",
+      "md5": "5b6096adf94f534013bc466d7d4ccdc1",
+      "crc32": "fcb379b3",
+      "sha1": "5c9d55fc0f42816ae9680623441d808a6e3bd7c8",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-29T23:49:44.399527-04:00.jpg",
+      "source": "original",
+      "mtime": "1656560986",
+      "size": "240535",
+      "md5": "f074b0936207aaab280d19b3888c4ecd",
+      "crc32": "e0c022c9",
+      "sha1": "864c3576323fe5386e5b2c81beccd717b0706fef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-06-29T23:49:44.399527-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-06-29T23:49:44.399527-04:00.jpg",
+      "mtime": "1656561043",
+      "size": "8934",
+      "md5": "1b1104824ca81e3c140bf286b0493cd3",
+      "crc32": "1005c583",
+      "sha1": "94c46c82148c24649444f8843212c492e36cacad"
+    },
+    {
+      "name": "themarkup-2022-06-30T01:18:26.635074-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566309",
+      "size": "6744",
+      "md5": "d2d85c689ee93203af98933f0db3613a",
+      "crc32": "61cc3163",
+      "sha1": "b142ad99d476f7a9e6426ba2970e3bc45a78e2c9",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T01:18:26.635074-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566310",
+      "size": "9104",
+      "md5": "5b6096adf94f534013bc466d7d4ccdc1",
+      "crc32": "fcb379b3",
+      "sha1": "5c9d55fc0f42816ae9680623441d808a6e3bd7c8",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T01:18:26.635074-04:00.jpg",
+      "source": "original",
+      "mtime": "1656566308",
+      "size": "240535",
+      "md5": "f074b0936207aaab280d19b3888c4ecd",
+      "crc32": "e0c022c9",
+      "sha1": "864c3576323fe5386e5b2c81beccd717b0706fef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-06-30T01:18:26.635074-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-06-30T01:18:26.635074-04:00.jpg",
+      "mtime": "1656566380",
+      "size": "8934",
+      "md5": "1b1104824ca81e3c140bf286b0493cd3",
+      "crc32": "1005c583",
+      "sha1": "94c46c82148c24649444f8843212c492e36cacad"
+    },
+    {
+      "name": "themarkup-2022-06-30T03:08:13.748464-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572901",
+      "size": "6744",
+      "md5": "d2d85c689ee93203af98933f0db3613a",
+      "crc32": "61cc3163",
+      "sha1": "b142ad99d476f7a9e6426ba2970e3bc45a78e2c9",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T03:08:13.748464-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572902",
+      "size": "9104",
+      "md5": "5b6096adf94f534013bc466d7d4ccdc1",
+      "crc32": "fcb379b3",
+      "sha1": "5c9d55fc0f42816ae9680623441d808a6e3bd7c8",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T03:08:13.748464-04:00.jpg",
+      "source": "original",
+      "mtime": "1656572900",
+      "size": "240535",
+      "md5": "f074b0936207aaab280d19b3888c4ecd",
+      "crc32": "e0c022c9",
+      "sha1": "864c3576323fe5386e5b2c81beccd717b0706fef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-06-30T03:08:13.748464-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-06-30T03:08:13.748464-04:00.jpg",
+      "mtime": "1656572953",
+      "size": "8934",
+      "md5": "1b1104824ca81e3c140bf286b0493cd3",
+      "crc32": "1005c583",
+      "sha1": "94c46c82148c24649444f8843212c492e36cacad"
+    },
+    {
+      "name": "themarkup-2022-06-30T05:11:36.027390-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580299",
+      "size": "6744",
+      "md5": "d2d85c689ee93203af98933f0db3613a",
+      "crc32": "61cc3163",
+      "sha1": "b142ad99d476f7a9e6426ba2970e3bc45a78e2c9",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T05:11:36.027390-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580300",
+      "size": "9104",
+      "md5": "5b6096adf94f534013bc466d7d4ccdc1",
+      "crc32": "fcb379b3",
+      "sha1": "5c9d55fc0f42816ae9680623441d808a6e3bd7c8",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T05:11:36.027390-04:00.jpg",
+      "source": "original",
+      "mtime": "1656580297",
+      "size": "240535",
+      "md5": "f074b0936207aaab280d19b3888c4ecd",
+      "crc32": "e0c022c9",
+      "sha1": "864c3576323fe5386e5b2c81beccd717b0706fef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-06-30T05:11:36.027390-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-06-30T05:11:36.027390-04:00.jpg",
+      "mtime": "1656580354",
+      "size": "8934",
+      "md5": "1b1104824ca81e3c140bf286b0493cd3",
+      "crc32": "1005c583",
+      "sha1": "94c46c82148c24649444f8843212c492e36cacad"
+    },
+    {
+      "name": "themarkup-2022-06-30T07:08:01.789627-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587284",
+      "size": "6744",
+      "md5": "d2d85c689ee93203af98933f0db3613a",
+      "crc32": "61cc3163",
+      "sha1": "b142ad99d476f7a9e6426ba2970e3bc45a78e2c9",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T07:08:01.789627-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587286",
+      "size": "9104",
+      "md5": "5b6096adf94f534013bc466d7d4ccdc1",
+      "crc32": "fcb379b3",
+      "sha1": "5c9d55fc0f42816ae9680623441d808a6e3bd7c8",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T07:08:01.789627-04:00.jpg",
+      "source": "original",
+      "mtime": "1656587283",
+      "size": "240535",
+      "md5": "f074b0936207aaab280d19b3888c4ecd",
+      "crc32": "e0c022c9",
+      "sha1": "864c3576323fe5386e5b2c81beccd717b0706fef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-06-30T07:08:01.789627-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-06-30T07:08:01.789627-04:00.jpg",
+      "mtime": "1656587339",
+      "size": "8934",
+      "md5": "1b1104824ca81e3c140bf286b0493cd3",
+      "crc32": "1005c583",
+      "sha1": "94c46c82148c24649444f8843212c492e36cacad"
+    },
+    {
+      "name": "themarkup-2022-06-30T09:13:04.671913-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594787",
+      "size": "6744",
+      "md5": "d2d85c689ee93203af98933f0db3613a",
+      "crc32": "61cc3163",
+      "sha1": "b142ad99d476f7a9e6426ba2970e3bc45a78e2c9",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T09:13:04.671913-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594789",
+      "size": "9104",
+      "md5": "5b6096adf94f534013bc466d7d4ccdc1",
+      "crc32": "fcb379b3",
+      "sha1": "5c9d55fc0f42816ae9680623441d808a6e3bd7c8",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-06-30T09:13:04.671913-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594786",
+      "size": "240535",
+      "md5": "f074b0936207aaab280d19b3888c4ecd",
+      "crc32": "e0c022c9",
+      "sha1": "864c3576323fe5386e5b2c81beccd717b0706fef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-06-30T09:13:04.671913-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-06-30T09:13:04.671913-04:00.jpg",
+      "mtime": "1656594859",
+      "size": "8934",
+      "md5": "1b1104824ca81e3c140bf286b0493cd3",
+      "crc32": "1005c583",
+      "sha1": "94c46c82148c24649444f8843212c492e36cacad"
+    },
+    {
       "name": "themarkup-2022_archive.torrent",
       "source": "metadata",
-      "btih": "64840999f210b76ee34ebdb16824e4ee3e275a48",
-      "mtime": "1656544428",
-      "size": "35722",
-      "md5": "d93cd91efe6a40e4001d66191e9b0024",
-      "crc32": "f19f8623",
-      "sha1": "d9605a6943675636c0c30ff2b4357420c8d4ac03",
+      "btih": "0697d9a7ca3e5b4e1414265ccfd0f4e765085912",
+      "mtime": "1656594864",
+      "size": "41619",
+      "md5": "aaab88195eaf6fba341d7c41f2895dc8",
+      "crc32": "64371906",
+      "sha1": "61580145208f7ed69ba19602d3b0508ffb35d481",
       "format": "Archive BitTorrent"
     },
     {
       "name": "themarkup-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fdf8ae35a80eb7a7235eb4d8e0a103b1",
+      "md5": "08822e99bee25bd4f8d29d6b14d2ffb2",
       "summation": "md5"
     },
     {
       "name": "themarkup-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544351",
-      "size": "208896",
-      "md5": "3144651346a9d7646c307b86ad78d9b5",
-      "crc32": "ed916873",
-      "sha1": "ed8cdce063d1b8d15be7dd94f55f4d6dfa51789a",
+      "mtime": "1656594793",
+      "size": "241664",
+      "md5": "88e63725515df54ad1b6ec0c5db9f69f",
+      "crc32": "c63aabfc",
+      "sha1": "7c90c86d5e09b0a8dea6bfdee4f749fbe3a394c1",
       "format": "Metadata"
     },
     {
@@ -1754,9 +2048,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 167,
-  "item_last_updated": 1656544428,
-  "item_size": 11295631,
+  "files_count": 195,
+  "item_last_updated": 1656594864,
+  "item_size": 13191515,
   "metadata": {
     "identifier": "themarkup-2022",
     "collection": [
@@ -1774,7 +2068,253 @@
     "addeddate": "2022-06-19 23:29:00"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 1003830617,
+  "themarkup-2022": [
+    {
+      "text": "Amazon\u2019s Advantage",
+      "url": "/series/amazons-advantage"
+    },
+    {
+      "text": "Locked Out",
+      "url": "/series/locked-out"
+    },
+    {
+      "text": "Blacklight",
+      "url": "/series/blacklight"
+    },
+    {
+      "text": "Machine Learning",
+      "url": "https://themarkup.org/series/machine-learning"
+    },
+    {
+      "text": "Citizen Browser",
+      "url": "/series/citizen-browser"
+    },
+    {
+      "text": "Pixel Hunt",
+      "url": "/series/pixel-hunt/"
+    },
+    {
+      "text": "Denied",
+      "url": "/series/denied"
+    },
+    {
+      "text": "Prediction: Bias",
+      "url": "https://themarkup.org/series/prediction-bias"
+    },
+    {
+      "text": "Google the Giant",
+      "url": "/series/google-the-giant"
+    },
+    {
+      "text": "Working for an Algorithm",
+      "url": "https://themarkup.org/series/working-for-an-algorithm"
+    },
+    {
+      "text": "About Us",
+      "url": "/about"
+    },
+    {
+      "text": "Donate",
+      "url": "/donate/?utm_source=menu"
+    },
+    {
+      "text": "Events",
+      "url": "/events"
+    },
+    {
+      "text": "Have a Tip?",
+      "url": "/tips"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://boards.greenhouse.io/themarkup"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletter"
+    },
+    {
+      "text": "Team",
+      "url": "/team/"
+    },
+    {
+      "text": "\n            Facebook\n          ",
+      "url": "https://www.facebook.com/teammarkup/"
+    },
+    {
+      "text": "\n            Twitter\n          ",
+      "url": "https://www.twitter.com/themarkup/"
+    },
+    {
+      "text": "\n            Instagram\n          ",
+      "url": "https://www.instagram.com/the.markup/"
+    },
+    {
+      "text": "\n            RSS Feed\n          ",
+      "url": "/feeds/rss.xml"
+    },
+    {
+      "text": "Skip navigation",
+      "url": "#content"
+    },
+    {
+      "text": "\n        \n        The Markup\n      ",
+      "url": "/"
+    },
+    {
+      "text": "Donate\n      ",
+      "url": "/donate?utm_source=header"
+    },
+    {
+      "text": "About Us",
+      "url": "/about"
+    },
+    {
+      "text": "\n        Donate\n      ",
+      "url": "/donate?utm_source=header"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            The Breakdown\n          \n\n          \n            Police Are Looking to Algorithms to Predict Domestic Violence\n          \n        But will they be effective or reinforce bias-based practices?June 29, 2022 08:00 ET\n    \n  ",
+      "url": "https://themarkup.org/the-breakdown/2022/06/29/police-are-looking-to-algorithms-to-predict-domestic-violence"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            The Breakdown\n          \n\n          \n            Meet SmartLINK, the App Tracking Nearly a Quarter Million Immigrants\n          \n        Officials say the phone-based app is not meant to conduct \u201csurveillance\u201d\u2014and a quick test didn\u2019t raise red flags. But immigrants and advocates aren\u2019t convincedJune 27, 2022 07:00 ET\n    \n  ",
+      "url": "https://themarkup.org/the-breakdown/2022/06/27/meet-smartlink-the-app-tracking-nearly-a-quarter-million-immigrants"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            The Breakdown\n          \n\n          \n            Tech Giants Make Headway on Gig Worker Classification\n          \n        Georgia and Alabama laws say gig workers won\u2019t be considered employeesJune 22, 2022 08:00 ET\n    \n  ",
+      "url": "https://themarkup.org/the-breakdown/2022/06/22/tech-giants-make-headway-on-gig-worker-classification"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Pixel Hunt\n          \n\n          \n            Facebook and Anti-Abortion Clinics Are Collecting Highly Sensitive Info on Would-Be Patients\n          \n        The social media giant gathers data from crisis pregnancy centers through a tracking tool that works whether or not a person is logged in to their Facebook account June 15, 2022 06:00 ET\n    \n  ",
+      "url": "https://themarkup.org/pixel-hunt/2022/06/15/facebook-and-anti-abortion-clinics-are-collecting-highly-sensitive-info-on-would-be-patients"
+    },
+    {
+      "text": "Subscribe to the Klaxon Newsletter",
+      "url": ""
+    },
+    {
+      "text": "hCaptcha accessibility",
+      "url": "https://www.hcaptcha.com/accessibility"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Data Is Plural\n          \n\n          \n            State Abortion Laws, Automated Driving Crashes, and Bay Area\u00a0Rents\n          \n        This week\u2019s roundup of notable\u00a0dataJune 29, 2022 13:00 ET\n    \n  ",
+      "url": "https://themarkup.org/data-is-plural/2022/06/29/state-abortion-laws-automated-driving-crashes-and-bay-area-rents"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Data Is Plural\n          \n\n          \n            Monkeypox, Ukraine Air Raid Alerts, and Inclusive Crossword\u00a0Names\n          \n        This week\u2019s roundup of notable\u00a0dataJune 22, 2022 13:00 ET\n    \n  ",
+      "url": "https://themarkup.org/data-is-plural/2022/06/22/monkeypox-ukraine-air-raid-alerts-and-inclusive-crossword-names"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Pixel Hunt\n          \n\n          \n            This Children\u2019s Hospital Network Was Giving Kids\u2019 Information to\u00a0Facebook\n          \n        When parents scheduled an appointment for their children on the Nemours page, Facebook received that informationJune 21, 2022 13:00 ET\n    \n  ",
+      "url": "https://themarkup.org/pixel-hunt/2022/06/21/this-childrens-hospital-network-was-giving-kids-information-to-facebook"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Mark As Read\n          \n\n          \n            LaMDA\u2019s Soul, Apple\u2019s Give and Take, and Meta\u2019s New Battlegrounds\n          \n        Tech and privacy perspectives from around the\u00a0globeJune 17, 2022 08:00 ET\n    \n  ",
+      "url": "https://themarkup.org/mark-as-read/2022/06/17/lamdas-soul-apples-give-and-take-and-metas-new-battlegrounds"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Pixel Hunt\n          \n\n          \n            Facebook Is Receiving Sensitive Medical Information from Hospital Websites\n          \n        Experts say some hospitals\u2019 use of an ad tracking tool may violate a federal law protecting health informationJune 16, 2022 06:00 ET\n    \n  ",
+      "url": "https://themarkup.org/pixel-hunt/2022/06/16/facebook-is-receiving-sensitive-medical-information-from-hospital-websites"
+    },
+    {
+      "text": "\n    \n        \n        View all articles\n    ",
+      "url": "/archive"
+    },
+    {
+      "text": "Have a Tip?",
+      "url": "https://themarkup.org/tips"
+    },
+    {
+      "text": "\n    \n        \n        Send us a Tip\n    ",
+      "url": "https://themarkup.org/tips"
+    },
+    {
+      "text": "\n      Return to The Markup's homepage\n      \n    ",
+      "url": "/"
+    },
+    {
+      "text": "\n    \n        \n        Donate\n    ",
+      "url": "/donate?utm_source=page-footer"
+    },
+    {
+      "text": "About Us",
+      "url": "/about"
+    },
+    {
+      "text": "Our Donors",
+      "url": "/donors"
+    },
+    {
+      "text": "Ethics Policy",
+      "url": "/ethics"
+    },
+    {
+      "text": "Events",
+      "url": "/events/"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "/board-of-directors"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://boards.greenhouse.io/themarkup"
+    },
+    {
+      "text": "Team",
+      "url": "/team"
+    },
+    {
+      "text": "Have a Tip?",
+      "url": "/tips"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletter"
+    },
+    {
+      "text": "A Letter from the Editor",
+      "url": "/2020/02/25/editor-letter-julia-angwin"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "A Letter from the President",
+      "url": "/2020/02/25/president-letter-nabiha-syed"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/terms"
+    },
+    {
+      "text": "Announcements",
+      "url": "/announcements"
+    },
+    {
+      "text": "\n            Facebook\n          ",
+      "url": "https://www.facebook.com/teammarkup/"
+    },
+    {
+      "text": "\n            Twitter\n          ",
+      "url": "https://www.twitter.com/themarkup/"
+    },
+    {
+      "text": "\n            Instagram\n          ",
+      "url": "https://www.instagram.com/the.markup/"
+    },
+    {
+      "text": "\n            RSS Feed\n          ",
+      "url": "/feeds/rss.xml"
+    },
+    {
+      "text": "hCaptcha accessibility",
+      "url": "https://www.hcaptcha.com/accessibility"
+    }
+  ],
+  "uniq": 106644788,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

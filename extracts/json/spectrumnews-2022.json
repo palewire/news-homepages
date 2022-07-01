@@ -1,5 +1,5 @@
 {
-  "created": 1656544329,
+  "created": 1656635160,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/spectrumnews-2022",
@@ -846,31 +846,325 @@
       "sha1": "b2b8777ea87af93c84397457ff02dffac916f0a1"
     },
     {
+      "name": "spectrumnews-2022-06-29T19:36:19.573138-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552982",
+      "size": "19628",
+      "md5": "6eefbb35408219fe249a460c9d2021d4",
+      "crc32": "fbf7f9c3",
+      "sha1": "705e5febdbf985c8c32fe746ca1d9db2f38e8b47",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T19:36:19.573138-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552983",
+      "size": "26159",
+      "md5": "8e298cab87a6b51dcf9567b209fdc088",
+      "crc32": "557b2c34",
+      "sha1": "2767b2478e6c14a4f7b80cecebe96b69acccfd54",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T19:36:19.573138-06:00.jpg",
+      "source": "original",
+      "mtime": "1656552980",
+      "size": "245611",
+      "md5": "0097a1a88d875fe86428eae61081268e",
+      "crc32": "11980da1",
+      "sha1": "ca7381a23599b7dc901ed11f248815ed8cb92834",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T19:36:19.573138-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-06-29T19:36:19.573138-06:00.jpg",
+      "mtime": "1656553035",
+      "size": "9511",
+      "md5": "95c18a247a0d5bba22e8cb8af7b38c93",
+      "crc32": "1dc71d89",
+      "sha1": "61a8214a4d1b5a8627b5d05b86fbc01fd0e83859"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T21:48:47.816225-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560930",
+      "size": "21344",
+      "md5": "7eaa6ecd9912ca547b61910d523afeb8",
+      "crc32": "d19ace19",
+      "sha1": "abc7faf5e1345299ae51e2f9adead4f27e8a5541",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T21:48:47.816225-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560932",
+      "size": "32307",
+      "md5": "30fb132dfd4a22995663c61f4121b5a0",
+      "crc32": "4f29ac42",
+      "sha1": "2049e1183390b2f312a6a0c1f9d961f4163faf26",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T21:48:47.816225-06:00.jpg",
+      "source": "original",
+      "mtime": "1656560929",
+      "size": "246606",
+      "md5": "11d73b98f0db15792fe529e677601aad",
+      "crc32": "1e2ad323",
+      "sha1": "1d21239d50050bd71dc069bd34934709ceabd0c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T21:48:47.816225-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-06-29T21:48:47.816225-06:00.jpg",
+      "mtime": "1656560981",
+      "size": "9509",
+      "md5": "df5060be057832477bf5f17e40dd1d36",
+      "crc32": "7033dc8c",
+      "sha1": "c5ccfaaacee4c923abe85b4834deb74092533546"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T23:17:06.199724-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566228",
+      "size": "21339",
+      "md5": "285e335fe92f927ab60fb2db5f84911c",
+      "crc32": "3746576f",
+      "sha1": "eafab60e7f8d4082ad99a4816af27a4339fbf6cd",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T23:17:06.199724-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566229",
+      "size": "31300",
+      "md5": "89dee550516e1359e0419aa2f89f89e7",
+      "crc32": "c4aeac4f",
+      "sha1": "8e64ffb0c1caf46182ca1f2f555a5c2134cd4380",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T23:17:06.199724-06:00.jpg",
+      "source": "original",
+      "mtime": "1656566227",
+      "size": "252020",
+      "md5": "98a77c0577a6156587a6908b430d68ff",
+      "crc32": "b5bc58ca",
+      "sha1": "383e21223e587b6ec7a63af91734149a6dbe6144",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-06-29T23:17:06.199724-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-06-29T23:17:06.199724-06:00.jpg",
+      "mtime": "1656566311",
+      "size": "9564",
+      "md5": "986820bdeaaf5ddf9a989d423ad7f08a",
+      "crc32": "f9e97713",
+      "sha1": "655666bc15fa94d14720422a83b4d526f2294d3d"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T01:07:58.360706-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572881",
+      "size": "20749",
+      "md5": "c5da4d96fc2a1b41434096d1e8e1f40c",
+      "crc32": "45af67d8",
+      "sha1": "bc3e9e58fa3f11135239aa8be4c01d74b2d19ca5",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T01:07:58.360706-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572883",
+      "size": "33074",
+      "md5": "2e5ac33fa734b782faa2cfd9599f9c55",
+      "crc32": "b5297b51",
+      "sha1": "ac8277d711363cce9daecc397fbc72ca065d6062",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T01:07:58.360706-06:00.jpg",
+      "source": "original",
+      "mtime": "1656572879",
+      "size": "246948",
+      "md5": "4f81884217873c2cd75afa4b654b89fc",
+      "crc32": "33540ab8",
+      "sha1": "c5e1520826c38bf33f20ee60dc738bc6056c46e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T01:07:58.360706-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-06-30T01:07:58.360706-06:00.jpg",
+      "mtime": "1656572936",
+      "size": "9525",
+      "md5": "9867eedc8b91e5c5b61b62c5bc8b7db7",
+      "crc32": "b1ed2556",
+      "sha1": "6ff7ecb674e9a81260bef248f4b64d5ea9f7bd7d"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T03:11:00.195132-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580263",
+      "size": "21531",
+      "md5": "9e72cca6bb022f85a86cec10d77eda44",
+      "crc32": "8537644a",
+      "sha1": "95fba50a33d047a4141c3ebd7845740f744115d4",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T03:11:00.195132-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580264",
+      "size": "28661",
+      "md5": "29dd14f0ee05984ed1382d291d1ddb66",
+      "crc32": "53d64d5a",
+      "sha1": "8de08dfc6c7ca8c3115d71e5b83039fa94cc403f",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T03:11:00.195132-06:00.jpg",
+      "source": "original",
+      "mtime": "1656580261",
+      "size": "254274",
+      "md5": "019a019b687ed96a035ae320a7ed8d85",
+      "crc32": "98425254",
+      "sha1": "5281799f6de0b7bffadd4aac88da2506dad4e226",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T03:11:00.195132-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-06-30T03:11:00.195132-06:00.jpg",
+      "mtime": "1656580318",
+      "size": "9642",
+      "md5": "e19b60e47fce74ab28261e4bae823631",
+      "crc32": "ba81795a",
+      "sha1": "c8e152a2b344eb73f091eee3b4351c4b5857a318"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T05:07:14.417778-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587237",
+      "size": "21184",
+      "md5": "254b62c166b8acd3a34b95f37aa35d8e",
+      "crc32": "b6a0533e",
+      "sha1": "041242b996786e4960bc9108eeedb938caf1231a",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T05:07:14.417778-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587239",
+      "size": "33082",
+      "md5": "3fa4c7d9e0ad9854c9ced9100f15520a",
+      "crc32": "6a65ef9e",
+      "sha1": "d184824ceab019d761941b19b7235f525eea5dd0",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T05:07:14.417778-06:00.jpg",
+      "source": "original",
+      "mtime": "1656587236",
+      "size": "246327",
+      "md5": "50051d8eb7733d30a680466775c539a6",
+      "crc32": "459bd707",
+      "sha1": "4c89f3e47fb1f6289901d2a582482a0539523751",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T05:07:14.417778-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-06-30T05:07:14.417778-06:00.jpg",
+      "mtime": "1656587285",
+      "size": "9508",
+      "md5": "3f20e492b3ca6754f2e54390ddca676c",
+      "crc32": "cbc51db8",
+      "sha1": "37e898a6565b4a5e36be8bc07b7afe8ddebf13eb"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T07:11:33.289686-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594696",
+      "size": "20731",
+      "md5": "9e27905fdd30a762f481e32007beca51",
+      "crc32": "91844dd7",
+      "sha1": "0eabf728767169123c8969b4f3649938e513584d",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T07:11:33.289686-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594698",
+      "size": "29454",
+      "md5": "6311f5d300f8d9bb15ca86388f729451",
+      "crc32": "3c41df60",
+      "sha1": "b62be686c2d5b341a3706c839633616cd5d9a02e",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T07:11:33.289686-06:00.jpg",
+      "source": "original",
+      "mtime": "1656594694",
+      "size": "251575",
+      "md5": "7bdbcc2b76f6a38663d219d9c33355be",
+      "crc32": "015e27d3",
+      "sha1": "f241e2ca4e141a12a190856c6a2c5f4739a62f75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-06-30T07:11:33.289686-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-06-30T07:11:33.289686-06:00.jpg",
+      "mtime": "1656594747",
+      "size": "9607",
+      "md5": "e546b2c033307b544e63b7341d484c21",
+      "crc32": "9556e2c3",
+      "sha1": "d52b619fd6f9313c6b03dd868a97a6e50d70ee0c"
+    },
+    {
       "name": "spectrumnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53c9388027c1de88ca6ddf8858ef8f1f2bc267eb",
-      "mtime": "1656544326",
-      "size": "18569",
-      "md5": "bdae9d8f7dc29973e8804d5db9463cda",
-      "crc32": "bfd4ae59",
-      "sha1": "09020533949facb6a170669c174f711a883b0cc9",
+      "btih": "803012f2aa5c8788f1224f1fcbc39b71bec322b7",
+      "mtime": "1656594750",
+      "size": "24564",
+      "md5": "e9f25030db0864b38f5b96eb6006ee79",
+      "crc32": "1be5d411",
+      "sha1": "3418b4d92c02373b83fce25d0c79bfc3def99878",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectrumnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "484bd058b914ac4a7dcf0fd308f27873",
+      "md5": "a900bb269d677d1b194555b876da4490",
       "summation": "md5"
     },
     {
       "name": "spectrumnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544286",
-      "size": "110592",
-      "md5": "9352f3d949504a05f477e0e974e54dfc",
-      "crc32": "eebd055f",
-      "sha1": "3b48e51fad1db3d5f500fa63855e75cda3720068",
+      "mtime": "1656594701",
+      "size": "147456",
+      "md5": "e3b449317998ee0b4a36dac4a86de089",
+      "crc32": "35a8c87a",
+      "sha1": "815da3b490c79e14e2621421bdc39e897e9ebece",
       "format": "Metadata"
     },
     {
@@ -884,9 +1178,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 84,
-  "item_last_updated": 1656544326,
-  "item_size": 6195672,
+  "files_count": 112,
+  "item_last_updated": 1656594750,
+  "item_size": 8409301,
   "metadata": {
     "identifier": "spectrumnews-2022",
     "collection": [
@@ -903,10 +1197,608 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1845111675,
+  "server": "ia902507.us.archive.org",
+  "spectrumnews-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.thespectrum.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.thespectrum.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.thespectrum.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.thespectrum.com%2F"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Mesquite",
+      "url": "/mesquite/"
+    },
+    {
+      "text": "Cedar City",
+      "url": "/cedar-city/"
+    },
+    {
+      "text": "Life",
+      "url": "/life/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.thespectrum.com/obituaries"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.thespectrum.com/user/enewspaper"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.utahlegals.com/"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.thespectrum.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.thespectrum.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://login.thespectrum.com/PSTG-GUP/authenticate?success-url=https%3A%2F%2Fwww.thespectrum.com%2F&cancel-url=https%3A%2F%2Fwww.thespectrum.com%2F"
+    },
+    {
+      "text": " Early GOP primary results projected wins for Lee and Stewart",
+      "url": "/story/news/2022/06/28/early-gop-primary-results-projected-wins-lee-and-stewart/7747724001/"
+    },
+    {
+      "text": "Washington City sets fireworks restrictions ahead of July 4",
+      "url": "/story/news/2022/06/29/washington-city-sets-fireworks-restrictions-ahead-july-4/7757860001/"
+    },
+    {
+      "text": "Elison flips to Billings in Southwest Utah primary election",
+      "url": "/story/news/2022/06/29/incumbents-rep-chris-stewart-mike-lee-claim-victory-utah-gop-primary-washington-county/7765979001/"
+    },
+    {
+      "text": "Early primary results show incumbents with early leads",
+      "url": "/story/news/2022/06/28/iron-county-primary-voting-election-cozzens-bleak-vickers/7747713001/"
+    },
+    {
+      "text": " Planned Parenthood, ACLU sue over Utah abortion ban",
+      "url": "/story/news/2022/06/27/planned-parenthood-aclu-sue-over-utah-abortion-ban-trigger-law-roe-v-wade-scotus/7747453001/"
+    },
+    {
+      "text": " Jazz hiring ex-Celtics assistant as youngest active head\u2026",
+      "url": "/story/sports/nba/jazz/2022/06/28/jazz-hiring-will-hardy-youngest-active-nba-head-coach/7760343001/"
+    },
+    {
+      "text": " What the Roe v. Wade decision means for southwestern Utah",
+      "url": "/story/news/2022/06/24/what-supreme-court-decision-roe-v-wade-means-utah/7724526001/"
+    },
+    {
+      "text": " Ghislaine Maxwell sentenced to 20 years in sex abuse case",
+      "url": "/story/news/nation/2022/06/28/ghislaine-maxwell-sentenced-jeffrey-epstein/7754539001/"
+    },
+    {
+      "text": " GOP primary shows early lead for Elison, Walter, Jack\u2026",
+      "url": "/story/news/2022/06/28/gop-primary-shows-early-lead-elison-walter-jack-and-almquist/7747671001/"
+    },
+    {
+      "text": " Washington City sets fireworks restrictions ahead of July 4\u00a0",
+      "url": "/story/news/2022/06/29/washington-city-sets-fireworks-restrictions-ahead-july-4/7757860001/"
+    },
+    {
+      "text": " Elison flips to Billings in Southwest Utah primary election\u00a0",
+      "url": "/story/news/2022/06/29/incumbents-rep-chris-stewart-mike-lee-claim-victory-utah-gop-primary-washington-county/7765979001/"
+    },
+    {
+      "text": " GOP primary shows early lead for Elison, Walter, Jack and Almquist\u00a0",
+      "url": "/story/news/2022/06/28/gop-primary-shows-early-lead-elison-walter-jack-and-almquist/7747671001/"
+    },
+    {
+      "text": "More in News",
+      "url": "/news/"
+    },
+    {
+      "text": " Jazz hiring ex-Celtics assistant as youngest active head coach in NBA\u00a0",
+      "url": "/story/sports/nba/jazz/2022/06/28/jazz-hiring-will-hardy-youngest-active-nba-head-coach/7760343001/"
+    },
+    {
+      "text": "St. George Classic Legion Tournament gallery\u00a0",
+      "url": "/picture-gallery/sports/2022/06/29/st-george-classic-legion-tournament-photo-gallery/7771001001/"
+    },
+    {
+      "text": " Dixie Legion holds off Upper Valley, wins St. George Classic\u00a0",
+      "url": "/story/sports/2022/06/26/dixie-legion-holds-off-upper-valley-wins-st-george-classic/7739241001/"
+    },
+    {
+      "text": "More in Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": " Val Kilmer on 'Top Gun: Maverick' reunion with Tom Cruise, that hug\u00a0",
+      "url": "/story/entertainment/movies/2022/05/31/val-kilmer-top-gun-maverick-teary-reunion-hug-tom-cruise/9894341002/"
+    },
+    {
+      "text": " Many Americans max out credit as inflation soars\u00a0",
+      "url": "/story/money/2022/06/01/loans-inflation-credit-cards-debt/9954436002/"
+    },
+    {
+      "text": " Staying safe, active in the St. George summer heat\u00a0",
+      "url": "/story/news/2022/06/22/stay-active-but-safe-st-george-summer-heat/7696885001/"
+    },
+    {
+      "text": "More in Life",
+      "url": "/life/"
+    },
+    {
+      "text": "May 2022 Editorial Cartoon gallery\u00a0",
+      "url": "/picture-gallery/opinion/2022/05/04/may-2022-editorial-cartoon-gallery/9646803002/"
+    },
+    {
+      "text": " Guns and choices\u00a0Leigh Washburn\u00a0",
+      "url": "/story/opinion/2022/06/25/your-turn-guns-and-choices/7734001001/"
+    },
+    {
+      "text": " Remember the victims, have faith the shootings won't always be normal\u00a0Susan Miller\u00a0",
+      "url": "/story/opinion/2022/05/27/school-shootings-we-have-hope-these-tragedies-wont-normal/9938254002/"
+    },
+    {
+      "text": "More in Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "",
+      "url": "/picture-gallery/news/2022/06/02/candidates-senate-gop-primary-senate-debate-draper/7479003001/"
+    },
+    {
+      "text": "Enter Every Day\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/AIA-Vanity-Glam-Mirror-Giveaway/?itm_campaign=AIA%20Glam%20Mirror%20Sweeps&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Do Some Traveling on Us!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://spectrum.secondstreetapp.com/Travel-Explore-Discover/?itm_campaign=Travel%20Explore%20Discover%20Gen&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Enter Now!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/Bourbon-and-Beyond-VIP-Experience/?itm_campaign=Bourbon%20and%20Beyond%20VIP%20NON%20Louisville&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "Lintmit.com",
+      "url": "https://lintmit.com/david-tallichet-finds-missing-piece-in-aviation-history-in-papua-new-guinea/?utm_source=taboola_13750862&utm_term=gannettcompany-thespectrum_1008551&utm_content=3048012642&utm_medium=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESC71EgoxdCwwP7FwNfjAQ&utm_campaign=PlaneJungle2-All-A-TB-LIN#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESC71EgoxdCwwP7FwNfjAQ"
+    },
+    {
+      "text": "Man Finds Plane Hidden In Jungle, But When He Looks InsideLintmit.com|",
+      "url": "https://lintmit.com/david-tallichet-finds-missing-piece-in-aviation-history-in-papua-new-guinea/?utm_source=taboola_13750862&utm_term=gannettcompany-thespectrum_1008551&utm_content=3048012642&utm_medium=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESC71EgoxdCwwP7FwNfjAQ&utm_campaign=PlaneJungle2-All-A-TB-LIN#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESC71EgoxdCwwP7FwNfjAQ"
+    },
+    {
+      "text": "",
+      "url": "https://lintmit.com/david-tallichet-finds-missing-piece-in-aviation-history-in-papua-new-guinea/?utm_source=taboola_13750862&utm_term=gannettcompany-thespectrum_1008551&utm_content=3048012642&utm_medium=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESC71EgoxdCwwP7FwNfjAQ&utm_campaign=PlaneJungle2-All-A-TB-LIN#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESC71EgoxdCwwP7FwNfjAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "wolrdame.com",
+      "url": "https://wolrdame.com/how-to-get-your-gas-burners-sparkling-clean-in-1-minute/?utm_source=gannettcompany-thespectrum&utm_medium=thespectrum.com&utm_term=1008551&utm_campaign=OTH-ADV15-O.P-TST-DSK-S.B-0.03-How-To-Get-Your-Gas-Burners&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCu31Ior4LQ0--87Jdg#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCu31Ior4LQ0--87Jdg"
+    },
+    {
+      "text": "How to Clean Gas Stove Burners With Vinegar and Baking Sodawolrdame.com|",
+      "url": "https://wolrdame.com/how-to-get-your-gas-burners-sparkling-clean-in-1-minute/?utm_source=gannettcompany-thespectrum&utm_medium=thespectrum.com&utm_term=1008551&utm_campaign=OTH-ADV15-O.P-TST-DSK-S.B-0.03-How-To-Get-Your-Gas-Burners&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCu31Ior4LQ0--87Jdg#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCu31Ior4LQ0--87Jdg"
+    },
+    {
+      "text": "",
+      "url": "https://wolrdame.com/how-to-get-your-gas-burners-sparkling-clean-in-1-minute/?utm_source=gannettcompany-thespectrum&utm_medium=thespectrum.com&utm_term=1008551&utm_campaign=OTH-ADV15-O.P-TST-DSK-S.B-0.03-How-To-Get-Your-Gas-Burners&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCu31Ior4LQ0--87Jdg#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCu31Ior4LQ0--87Jdg"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Health Care",
+      "url": "https://cookingamour.com/10-ways-you-eat-avocado/?utm_source=taboola&utm_medium=referral&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDm-VEokPzS84DootuIAQ#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDm-VEokPzS84DootuIAQ"
+    },
+    {
+      "text": "10 Ways You Never Knew You Could Eat AvocadoHealth Care|",
+      "url": "https://cookingamour.com/10-ways-you-eat-avocado/?utm_source=taboola&utm_medium=referral&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDm-VEokPzS84DootuIAQ#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDm-VEokPzS84DootuIAQ"
+    },
+    {
+      "text": "",
+      "url": "https://cookingamour.com/10-ways-you-eat-avocado/?utm_source=taboola&utm_medium=referral&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDm-VEokPzS84DootuIAQ#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDm-VEokPzS84DootuIAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "NerdWallet NMLS ID# 1617539",
+      "url": "https://www.nerdwallet.com/ur/?utm_content=991b63&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=gannettcompany-thespectrum&mktg_link=3136941430#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCpiEEow4WZhNrImPZa"
+    },
+    {
+      "text": "San Antonio: Need More Space? Compare Mortgage LendersNerdWallet NMLS ID# 1617539|",
+      "url": "https://www.nerdwallet.com/ur/?utm_content=991b63&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=gannettcompany-thespectrum&mktg_link=3136941430#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCpiEEow4WZhNrImPZa"
+    },
+    {
+      "text": "",
+      "url": "https://www.nerdwallet.com/ur/?utm_content=991b63&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=gannettcompany-thespectrum&mktg_link=3136941430#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCpiEEow4WZhNrImPZa"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "top10.recetasget.com",
+      "url": "https://top10.recetasget.com/travel-insurance-for-your-canadian-road-trip/?utm_source=taboola&utm_medium=referral&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDBnFMo6_-_wsrpl_JG#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDBnFMo6_-_wsrpl_JG"
+    },
+    {
+      "text": "Travel Insurance for Your Canadian Road Triptop10.recetasget.com|",
+      "url": "https://top10.recetasget.com/travel-insurance-for-your-canadian-road-trip/?utm_source=taboola&utm_medium=referral&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDBnFMo6_-_wsrpl_JG#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDBnFMo6_-_wsrpl_JG"
+    },
+    {
+      "text": "",
+      "url": "https://top10.recetasget.com/travel-insurance-for-your-canadian-road-trip/?utm_source=taboola&utm_medium=referral&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDBnFMo6_-_wsrpl_JG#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDBnFMo6_-_wsrpl_JG"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "ViralBezz",
+      "url": "https://viralbezz.com/cats-slap/?utm_source=AhmedCat&utm_medium=referral&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDZz1Io84P-6r6HvK00#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDZz1Io84P-6r6HvK00"
+    },
+    {
+      "text": "4 Reasons for Cats Slap Each OtherViralBezz|",
+      "url": "https://viralbezz.com/cats-slap/?utm_source=AhmedCat&utm_medium=referral&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDZz1Io84P-6r6HvK00#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDZz1Io84P-6r6HvK00"
+    },
+    {
+      "text": "",
+      "url": "https://viralbezz.com/cats-slap/?utm_source=AhmedCat&utm_medium=referral&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDZz1Io84P-6r6HvK00#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDZz1Io84P-6r6HvK00"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "FoodMz",
+      "url": "https://foodmz.com/amazing-things-that-will-happen-when-you-eat-a-spoonful-of-honey-before-sleep-every-day/?utm_source=taboola&utm_medium=referral#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDChUoo1oyatraf38VM"
+    },
+    {
+      "text": "What Can Happen to Your Body If You Start Eating Honey Before BedFoodMz|",
+      "url": "https://foodmz.com/amazing-things-that-will-happen-when-you-eat-a-spoonful-of-honey-before-sleep-every-day/?utm_source=taboola&utm_medium=referral#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDChUoo1oyatraf38VM"
+    },
+    {
+      "text": "",
+      "url": "https://foodmz.com/amazing-things-that-will-happen-when-you-eat-a-spoonful-of-honey-before-sleep-every-day/?utm_source=taboola&utm_medium=referral#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDChUoo1oyatraf38VM"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "anymuscle.com",
+      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV227&utm_campaign=1008551&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDoqVIoudGegqX7qPI9#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDoqVIoudGegqX7qPI9"
+    },
+    {
+      "text": "4 Main Signs You Should Hire a Car Accident Lawyeranymuscle.com|",
+      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV227&utm_campaign=1008551&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDoqVIoudGegqX7qPI9#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDoqVIoudGegqX7qPI9"
+    },
+    {
+      "text": "",
+      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV227&utm_campaign=1008551&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDoqVIoudGegqX7qPI9#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESDoqVIoudGegqX7qPI9"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "ViralBezz",
+      "url": "https://viralbezz.com/love-them?utm_source=taboola&utm_medium=lovers+32&utm_campaign=1008551&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESD5g1Eo5IabjsyV798x#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESD5g1Eo5IabjsyV798x"
+    },
+    {
+      "text": "Top 10 Ways to Show Your Cats You Love ThemViralBezz|",
+      "url": "https://viralbezz.com/love-them?utm_source=taboola&utm_medium=lovers+32&utm_campaign=1008551&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESD5g1Eo5IabjsyV798x#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESD5g1Eo5IabjsyV798x"
+    },
+    {
+      "text": "",
+      "url": "https://viralbezz.com/love-them?utm_source=taboola&utm_medium=lovers+32&utm_campaign=1008551&tblci=GiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESD5g1Eo5IabjsyV798x#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESD5g1Eo5IabjsyV798x"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://trc.taboola.com/gannettcompany-thespectrum/log/3/click?pi=%2F&ri=145ac779169da325c449605ca7668ef1&sd=v2_468862660139afb0b0b8d67cb87ba098_5380e430-0bb9-49f4-84b1-6e9b58dbf11a-tuct9b71eee_1656592750_1656592750_CIi3jgYQp8c9GK6w_aSbMCABKAEw4QE4kaQOQPzYD0iYzdkDUIEFWABgAGj65vSQycbpjTRwAQ&ui=5380e430-0bb9-49f4-84b1-6e9b58dbf11a-tuct9b71eee&it=photo&ii=~~V1~~-1396218488646598779~~BFq_ST8GyTG6zu3fjYqg5sBqHLxwMKFq4ELQxIOxuGvTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RLN4BziiRG8SoBUS3BGZqwZI0vCWl47S19TFiPKBzcZrWCpAWVquss-0d26Z94wtXd6jfHGTwshOWVVTI3NPzZijxfAtsj75Zm6PzSBS4yNyep2boS36fZSwdoI1Bp-njo&pt=home&li=rbox-h2v&sig=fc4969a590e8786384c00b3fa82fab5ef906331ea9ef&redir=https%3A%2F%2Fviralbezz.com%2Flove-them%3Futm_source%3Dtaboola%26utm_medium%3Dlovers%2B32%26utm_campaign%3D1008551%26tblci%3DGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESD5g1Eo5IabjsyV798x%23tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESD5g1Eo5IabjsyV798x&vi=1656592750638&p=tdg-souadsoltane1858adv32&r=18&tvi2=7830&lti=deflated&ppb=CLAB&cpb=EhIyMDIyMDYzMC03LVJFTEVBU0UYgbjb0wYgnP__________ASoZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAzMzY4gIDSwgJAkaQOSPzYD1CYzdkDWIEFYwiaLhDTPRgyZGMI7C0Qlj0YAmRjCNcWENUfGCNkYwjcChD7GhgWZGMItCMQkDAYB2RjCJYUEJscGBhkYwjSAxDgBhgIZGMI6ioQnTkYCWRjCOskEO43GB1kYwj0FBCeHRgfZGMIpCcQijUYL2R4AYAB____________AYgB____________AQ&cta=true"
+    },
+    {
+      "text": "Forbes",
+      "url": "https://www.forbes.com/wheels/l/wheels/25-ugliest-cars/?utm_campaign=25-Ugliest-Cars-Wheels&utm_source=Taboola&utm_medium=tb4393d0us10110421&lcid=tb4393d0us10110421&utm_content=gannettcompany-thespectrum&utm_term=25+Ugliest+Cars%2C+Ranked#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCE0EQo7a3-n5qGy8_eAQ"
+    },
+    {
+      "text": "25 Ugliest Cars, RankedForbes|",
+      "url": "https://www.forbes.com/wheels/l/wheels/25-ugliest-cars/?utm_campaign=25-Ugliest-Cars-Wheels&utm_source=Taboola&utm_medium=tb4393d0us10110421&lcid=tb4393d0us10110421&utm_content=gannettcompany-thespectrum&utm_term=25+Ugliest+Cars%2C+Ranked#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCE0EQo7a3-n5qGy8_eAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.forbes.com/wheels/l/wheels/25-ugliest-cars/?utm_campaign=25-Ugliest-Cars-Wheels&utm_source=Taboola&utm_medium=tb4393d0us10110421&lcid=tb4393d0us10110421&utm_content=gannettcompany-thespectrum&utm_term=25+Ugliest+Cars%2C+Ranked#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCE0EQo7a3-n5qGy8_eAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "2022 Republican primary election voter guide for Utah",
+      "url": "/story/news/2022/06/29/2022-republican-primary-election-voter-guide-southwest-utah/7745639001/"
+    },
+    {
+      "text": "Congressional challengers face off in Utah's GOP primary",
+      "url": "/story/news/2022/06/28/utahs-gop-congressional-delegation-face-primary-challengers-blake-moore-chris-stewart-burgess-owens/7756446001/"
+    },
+    {
+      "text": "Justice Breyer to retire from Supreme Court at term's end on Thursday",
+      "url": "/story/news/politics/2022/06/29/breyer-retires-supreme-court/7767857001/"
+    },
+    {
+      "text": "Ketchup on the wall, scuffle at the wheel: Trump aide's testimony lands like a grenade",
+      "url": "/story/news/politics/2022/06/28/jan-6-trump-aide-testimony/7759004001/"
+    },
+    {
+      "text": "'Mitt Romney Republican' is now a potent GOP primary attack",
+      "url": "/story/news/2022/06/26/mitt-romney-republican-now-potent-gop-primary-attack/7739647001/"
+    },
+    {
+      "text": "",
+      "url": "https://cm.thespectrum.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.thespectrum.com%2F&marketName=thespectrum&cta=Right-Rail"
+    },
+    {
+      "text": "Qinux Zero",
+      "url": "https://qinuxshop.com/?widipub_id=5c8f769def2864110b1a3605&wtrd_offer_id=6143712c1f921d045b71f9d2&wtrd_offer_lids=61437196b0bdda01ad676ea6&_locale=en&wtrd_offer_pids=61437196b0bdda01ad676eac&utm_source=taboola&utm_medium=referral#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCr-1EorezVyZyi-rIN"
+    },
+    {
+      "text": "The tactical watch trusted by the army is now available for purchase online!Qinux Zero|",
+      "url": "https://qinuxshop.com/?widipub_id=5c8f769def2864110b1a3605&wtrd_offer_id=6143712c1f921d045b71f9d2&wtrd_offer_lids=61437196b0bdda01ad676ea6&_locale=en&wtrd_offer_pids=61437196b0bdda01ad676eac&utm_source=taboola&utm_medium=referral#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCr-1EorezVyZyi-rIN"
+    },
+    {
+      "text": "",
+      "url": "https://qinuxshop.com/?widipub_id=5c8f769def2864110b1a3605&wtrd_offer_id=6143712c1f921d045b71f9d2&wtrd_offer_lids=61437196b0bdda01ad676ea6&_locale=en&wtrd_offer_pids=61437196b0bdda01ad676eac&utm_source=taboola&utm_medium=referral#tblciGiBvlOOavEZsQxNf1830EP7Ez-FaLELtl-ERC7LHcH_8ESCr-1EorezVyZyi-rIN"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-thespectrum&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "About Us",
+      "url": "https://static.thespectrum.com/aboutus/"
+    },
+    {
+      "text": "Staff Directory",
+      "url": "https://www.thespectrum.com/contact/staff/"
+    },
+    {
+      "text": "Careers",
+      "url": "http://www.gannett.com/careers/"
+    },
+    {
+      "text": "Accessibility Support",
+      "url": "https://cm.thespectrum.com/accessibility"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.utahlegals.com/"
+    },
+    {
+      "text": "Our Ethical Principles",
+      "url": "https://cm.thespectrum.com/ethical-conduct"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://cm.thespectrum.com/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://cm.thespectrum.com/privacy"
+    },
+    {
+      "text": "Your California Privacy Rights / Privacy Policy",
+      "url": "https://cm.thespectrum.com/privacy-policy/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://help.thespectrum.com/contact-us"
+    },
+    {
+      "text": "Support Local Businesses",
+      "url": ""
+    },
+    {
+      "text": "Advertise Your Business",
+      "url": "https://localiq.com/markets/Utah/"
+    },
+    {
+      "text": "Advertising Terms and Conditions",
+      "url": "https://cm.thespectrum.com/advertising-terms-conditions"
+    },
+    {
+      "text": "Buy and Sell",
+      "url": "/placead/"
+    },
+    {
+      "text": "Licensing & Reprints",
+      "url": "https://imagn.com/licensing-reprints/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://help.thespectrum.com/"
+    },
+    {
+      "text": "Subscriber Guide",
+      "url": "https://cm.thespectrum.com/subscriberguide"
+    },
+    {
+      "text": "My Account",
+      "url": "https://account.thespectrum.com/"
+    },
+    {
+      "text": "Give Feedback",
+      "url": "https://cm.thespectrum.com/site-feedback/"
+    },
+    {
+      "text": "Subscribe Today",
+      "url": "https://subscribe.thespectrum.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://profile.thespectrum.com/newsletters/manage"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.thespectrum.com/subscriberguide/apps/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/TheSpectrumNews"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/SpectrumNews"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.thespectrum.com/user/enewspaper"
+    },
+    {
+      "text": "Storytellers",
+      "url": "https://www.storytellersproject.com/"
+    },
+    {
+      "text": "Archives",
+      "url": "http://www.tkqlhce.com/click-8144870-11570746?url=http://archives.thespectrum.com"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "http://static.thespectrum.com/rss/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.thespectrum.com/jobs/"
+    },
+    {
+      "text": "Cars",
+      "url": "https://www.thespectrum.com/cars/"
+    },
+    {
+      "text": "Homes",
+      "url": "http://www.thespectrum.com/marketplace/real-estate/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://classifieds.thespectrum.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Saint+George+Spectrum"
+    },
+    {
+      "text": "Reviewed",
+      "url": "https://www.reviewed.com/"
+    },
+    {
+      "text": "USA TODAY Sports+",
+      "url": "https://www.usatodaysportsplus.com/"
+    },
+    {
+      "text": "10Best",
+      "url": "https://www.10best.com/"
+    },
+    {
+      "text": "Reach Local",
+      "url": "http://www.reachlocal.com/us/en"
+    }
+  ],
+  "uniq": 658995725,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

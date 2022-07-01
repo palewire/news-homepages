@@ -1,5 +1,5 @@
 {
-  "created": 1656544160,
+  "created": 1656634998,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/19/items/lajornada-2022",
@@ -16152,31 +16152,325 @@
       "sha1": "2e38a850027132a1ed49f3e68816ff67aec69e08"
     },
     {
+      "name": "lajornada-2022-06-29T20:31:32.865501-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552697",
+      "size": "4488",
+      "md5": "937d1b54da2bec41fd457c5162ebc122",
+      "crc32": "a695307d",
+      "sha1": "a2e90a827757e20dc1183fd99c0d0a6c45aa6131",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-29T20:31:32.865501-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552699",
+      "size": "8570",
+      "md5": "01317368fe6e889cd63a284d692478e8",
+      "crc32": "4ac901b6",
+      "sha1": "3df80468819979848ebd988683036103a24de242",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-29T20:31:32.865501-05:00.jpg",
+      "source": "original",
+      "mtime": "1656552695",
+      "size": "163757",
+      "md5": "5ea25b04238affa56ac3ad300c2c0fa0",
+      "crc32": "4599de94",
+      "sha1": "171752b7c7a24f2e5cd6e9a47be5f6dd48c0dcc3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-06-29T20:31:32.865501-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-06-29T20:31:32.865501-05:00.jpg",
+      "mtime": "1656552785",
+      "size": "9058",
+      "md5": "f438b940f17d7a626c71c26aaa4002ae",
+      "crc32": "5dde8121",
+      "sha1": "c7c52ec0bc9d60c8ae7871673f97936ed26e0fe6"
+    },
+    {
+      "name": "lajornada-2022-06-29T22:44:42.633528-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560690",
+      "size": "4488",
+      "md5": "012534b5fb4a09438d66d9d16e92ac13",
+      "crc32": "051395a6",
+      "sha1": "115ac35ffda1de9c51a16a0c9afa59d24dfeba1e",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-29T22:44:42.633528-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560692",
+      "size": "8570",
+      "md5": "01317368fe6e889cd63a284d692478e8",
+      "crc32": "4ac901b6",
+      "sha1": "3df80468819979848ebd988683036103a24de242",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-29T22:44:42.633528-05:00.jpg",
+      "source": "original",
+      "mtime": "1656560684",
+      "size": "163742",
+      "md5": "c1ff5dc93b68a1433e2ca55f73a38a44",
+      "crc32": "4f187dda",
+      "sha1": "284af9c2842da60b7d416dc4ea3093c4a94e5b8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-06-29T22:44:42.633528-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-06-29T22:44:42.633528-05:00.jpg",
+      "mtime": "1656560777",
+      "size": "9060",
+      "md5": "dc541fa3f08992ac4fb2d05638136caa",
+      "crc32": "8e55871a",
+      "sha1": "f31ce104c32037877067b2fb30d588337b528d15"
+    },
+    {
+      "name": "lajornada-2022-06-30T00:12:42.127226-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656565966",
+      "size": "4488",
+      "md5": "17857bf8adcfe780ca6d93202f75b365",
+      "crc32": "6bcb585d",
+      "sha1": "56a5e4b8c0db72e64bb41becdd3fc6a131d7da4e",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T00:12:42.127226-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656565967",
+      "size": "8570",
+      "md5": "01317368fe6e889cd63a284d692478e8",
+      "crc32": "4ac901b6",
+      "sha1": "3df80468819979848ebd988683036103a24de242",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T00:12:42.127226-05:00.jpg",
+      "source": "original",
+      "mtime": "1656565964",
+      "size": "160600",
+      "md5": "f56a7996cc25152ac249231cfcb5c06e",
+      "crc32": "98bac28b",
+      "sha1": "bef815483507960f742171a95c8cf90f7e7f3558",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-06-30T00:12:42.127226-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-06-30T00:12:42.127226-05:00.jpg",
+      "mtime": "1656566097",
+      "size": "9025",
+      "md5": "b57360056af0c3201f631fc5a1a02274",
+      "crc32": "16fa83d0",
+      "sha1": "7f497602a25be746abf801dee5607f9156f4e0f8"
+    },
+    {
+      "name": "lajornada-2022-06-30T02:02:52.680743-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572576",
+      "size": "4480",
+      "md5": "44d924328cc6699662ad80818b9a275c",
+      "crc32": "899a6ec9",
+      "sha1": "4c80479a41186ee9b894b6829ea711f3c0db4104",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T02:02:52.680743-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572577",
+      "size": "8570",
+      "md5": "6cfe2a3cceb9858a4d3bfaaf7eac90a5",
+      "crc32": "1e05487f",
+      "sha1": "ba2430b70b00155b2c3f552d9329cb519e1803ce",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T02:02:52.680743-05:00.jpg",
+      "source": "original",
+      "mtime": "1656572574",
+      "size": "163623",
+      "md5": "caa863b14ab61301df626e9c08b91126",
+      "crc32": "3e28ecfb",
+      "sha1": "ee2830cfb0132b3a136897f791f27e57ae94d40a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-06-30T02:02:52.680743-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-06-30T02:02:52.680743-05:00.jpg",
+      "mtime": "1656572654",
+      "size": "9059",
+      "md5": "08260342fd8df48175591442d105c22b",
+      "crc32": "8ea3c02c",
+      "sha1": "6e7c1ba26ed5db6ed3c595539217b62ba64f5b08"
+    },
+    {
+      "name": "lajornada-2022-06-30T04:06:09.159907-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656579972",
+      "size": "4480",
+      "md5": "52b7820d5c934c50a2e7fe0ff0a7a455",
+      "crc32": "b598bb73",
+      "sha1": "3c11b9ec27f96629be8072f7f2eed440ff05ba53",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T04:06:09.159907-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656579973",
+      "size": "8570",
+      "md5": "6cfe2a3cceb9858a4d3bfaaf7eac90a5",
+      "crc32": "1e05487f",
+      "sha1": "ba2430b70b00155b2c3f552d9329cb519e1803ce",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T04:06:09.159907-05:00.jpg",
+      "source": "original",
+      "mtime": "1656579970",
+      "size": "163604",
+      "md5": "e55fe5071d442d82214750010f6e5323",
+      "crc32": "d3acc2ef",
+      "sha1": "12acf4d4c246a4660c470259be7128e7ed729893",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-06-30T04:06:09.159907-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-06-30T04:06:09.159907-05:00.jpg",
+      "mtime": "1656580111",
+      "size": "9058",
+      "md5": "8ac93989d8259ac0b6ea341b32c3bd6f",
+      "crc32": "029805ac",
+      "sha1": "69ac65176c975bcaf56753038b9ccd9dd239ddbf"
+    },
+    {
+      "name": "lajornada-2022-06-30T06:02:34.167307-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656586957",
+      "size": "4480",
+      "md5": "496cf6d718049b15fc68dc0b3f5acb3c",
+      "crc32": "1749f5da",
+      "sha1": "fc1e5a158199c397c6352d5fc1d0e06aa8768b12",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T06:02:34.167307-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656586959",
+      "size": "8570",
+      "md5": "6cfe2a3cceb9858a4d3bfaaf7eac90a5",
+      "crc32": "1e05487f",
+      "sha1": "ba2430b70b00155b2c3f552d9329cb519e1803ce",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T06:02:34.167307-05:00.jpg",
+      "source": "original",
+      "mtime": "1656586956",
+      "size": "163583",
+      "md5": "ab65f56b2c12ee6791c2c982f6e42299",
+      "crc32": "92fb8a29",
+      "sha1": "4112fe8b55400d861952aef00a9c1cac8ccf4b91",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-06-30T06:02:34.167307-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-06-30T06:02:34.167307-05:00.jpg",
+      "mtime": "1656587078",
+      "size": "9059",
+      "md5": "81e571be9ac1ab92abe38842195218a8",
+      "crc32": "ab34045b",
+      "sha1": "ea0c958657e62311acb51ba21e069b8159afe2a7"
+    },
+    {
+      "name": "lajornada-2022-06-30T08:06:56.821995-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594420",
+      "size": "4484",
+      "md5": "45d4d72900f848560839a087d392e692",
+      "crc32": "fa13151c",
+      "sha1": "da138239c79552c0610e17681d9af72356c8c392",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T08:06:56.821995-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594422",
+      "size": "8542",
+      "md5": "07ab6fd121dd7a2a6906710ee5726349",
+      "crc32": "e7f94a78",
+      "sha1": "75a92af9303fc0ada7bb43d153480ae27e99467c",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-06-30T08:06:56.821995-05:00.jpg",
+      "source": "original",
+      "mtime": "1656594418",
+      "size": "135166",
+      "md5": "aada98dafd954f19b7402f91ffdc4a30",
+      "crc32": "6a1d77f3",
+      "sha1": "1209277ebd2a4e0b64fc5d21d62e3615254d5a58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-06-30T08:06:56.821995-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-06-30T08:06:56.821995-05:00.jpg",
+      "mtime": "1656594506",
+      "size": "8296",
+      "md5": "86cb2d002a041545bf0b0e2f0e9399fb",
+      "crc32": "c9a22b34",
+      "sha1": "c42c007028a6f96c3f8dfd80b9ebfb2ed7406a71"
+    },
+    {
       "name": "lajornada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8e9a71b833eb8dffb6d330888c8519e1f4f581cb",
-      "mtime": "1656544143",
-      "size": "328765",
-      "md5": "a9979f28182a3f9bb357bb4d6c59cfda",
-      "crc32": "a3014352",
-      "sha1": "a6992d5baf3780d8266b629601e5b4de92d0104a",
+      "btih": "fb9ca0d51be15e46a0e781f51f305432ddfe298c",
+      "mtime": "1656594530",
+      "size": "334622",
+      "md5": "c4c0535e3d54b8143732a5b182a2ea16",
+      "crc32": "fdd58117",
+      "sha1": "39d227ac41d421766dac28d1efbdbb919488261c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4debc51dabf7871b4681d11bd5fd2224",
+      "md5": "a53c8ec4571d9ba2a1b35eb9610f0b73",
       "summation": "md5"
     },
     {
       "name": "lajornada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544009",
-      "size": "1773568",
-      "md5": "fd127e7b764382af517d7b2bd6c86381",
-      "crc32": "9dac20cf",
-      "sha1": "e3732f8728cc6efee7dc57dbb79a5e738caa393b",
+      "mtime": "1656594427",
+      "size": "1802240",
+      "md5": "199e784dea27ad90600a71ea72f54214",
+      "crc32": "e6cd92d9",
+      "sha1": "6c924f52ab2a4d7c479c4d07854f3e220465a05a",
       "format": "Metadata"
     },
     {
@@ -16190,9 +16484,471 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1542,
-  "item_last_updated": 1656544143,
-  "item_size": 186103325,
+  "files_count": 1570,
+  "item_last_updated": 1656594530,
+  "item_size": 187405894,
+  "lajornada-2022": [
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "/"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://libreria.jornada.com.mx/"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://promociones.jornada.com.mx/"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://www.jornada.com.mx/impresa"
+    },
+    {
+      "text": "Pol\u00edtica",
+      "url": "/category/politica.html"
+    },
+    {
+      "text": "Econom\u00eda",
+      "url": "/category/economia.html"
+    },
+    {
+      "text": "Mundo",
+      "url": "/category/mundo.html"
+    },
+    {
+      "text": "Estados",
+      "url": "/category/estados.html"
+    },
+    {
+      "text": "Capital",
+      "url": "/category/capital.html"
+    },
+    {
+      "text": "Sociedad",
+      "url": "/category/sociedad.html"
+    },
+    {
+      "text": "\nM\u00e1s secciones\n",
+      "url": "#"
+    },
+    {
+      "text": "Estados",
+      "url": "/category/estados/"
+    },
+    {
+      "text": "Capital",
+      "url": "/category/capital.html"
+    },
+    {
+      "text": "Sociedad",
+      "url": "/category/sociedad.html"
+    },
+    {
+      "text": " Deportes",
+      "url": "/category/deportes.html"
+    },
+    {
+      "text": " Cultura y Entretenimiento",
+      "url": "/category/cultura.html"
+    },
+    {
+      "text": " Ciencia y Tecnolog\u00eda",
+      "url": "/category/ciencia-y-tecnologia.html"
+    },
+    {
+      "text": " Autos",
+      "url": "/category/autos.html"
+    },
+    {
+      "text": "\n\n\n\n",
+      "url": "https://www.jornada.com.mx/sinfronteras"
+    },
+    {
+      "text": "Cartones",
+      "url": "/category/cartones.html"
+    },
+    {
+      "text": "Opini\u00f3n y Columnas",
+      "url": "/category/opinion.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.jornada.com.mx/blog.html"
+    },
+    {
+      "text": "Videos",
+      "url": "/galeria_videos.html"
+    },
+    {
+      "text": "Galer\u00edas",
+      "url": "/galeria_imagenes.html"
+    },
+    {
+      "text": "\n\nImpresa\n",
+      "url": "https://www.jornada.com.mx/impresa"
+    },
+    {
+      "text": " Mi perfil",
+      "url": "/pages/perfil/"
+    },
+    {
+      "text": "migrantes",
+      "url": "/searchtag.html?tag=migrantes"
+    },
+    {
+      "text": "texas",
+      "url": "/searchtag.html?tag=texas"
+    },
+    {
+      "text": "cdmx",
+      "url": "/searchtag.html?tag=cdmx"
+    },
+    {
+      "text": "amlo",
+      "url": "/searchtag.html?tag=amlo"
+    },
+    {
+      "text": "estados unidos",
+      "url": "/searchtag.html?tag=estados unidos"
+    },
+    {
+      "text": "\n Librer\u00eda\n",
+      "url": "https://libreria.jornada.com.mx/"
+    },
+    {
+      "text": "\n Promociones\n",
+      "url": "https://promociones.jornada.com.mx/"
+    },
+    {
+      "text": "\n Buscar\n",
+      "url": "/busqueda.html"
+    },
+    {
+      "text": "Se lanza la OTAN a una lucha frontal contra Rusia y China",
+      "url": "notas/2022/06/30/mundo/se-lanza-la-otan-a-una-lucha-frontal-contra-rusia-y-china/"
+    },
+    {
+      "text": "\u00bfQui\u00e9nes somos?",
+      "url": "/pages/quienes-somos/"
+    },
+    {
+      "text": "Franquicias",
+      "url": "/pages/franquicias/"
+    },
+    {
+      "text": "Promociones",
+      "url": "https://promociones.jornada.com.mx/"
+    },
+    {
+      "text": "Directorio",
+      "url": "/pages/directorio/"
+    },
+    {
+      "text": "Suplementos",
+      "url": "//www.jornada.com.mx/suplementos/"
+    },
+    {
+      "text": "Librer\u00eda",
+      "url": "https://libreria.jornada.com.mx/"
+    },
+    {
+      "text": "Publicidad comercial",
+      "url": "https://publicidadcomercial.jornada.com.mx/publi-index.html"
+    },
+    {
+      "text": "Suscripciones",
+      "url": "https://www.jornada.com.mx/suscripciones.html"
+    },
+    {
+      "text": "Publicidad",
+      "url": "https://www.jornada.com.mx/tarifas/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/lajornadaonline/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/lajornadaonline"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/lajornadaonline/"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/91901/"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCWXOegeUI7sWXji5oD4iRVA"
+    },
+    {
+      "text": "",
+      "url": "https://www.jornada.com.mx/contacto/"
+    },
+    {
+      "text": "Aviso Legal",
+      "url": "/pages/aviso-legal/"
+    },
+    {
+      "text": "Aviso de privacidad",
+      "url": "/pages/aviso-de-privacidad/"
+    },
+    {
+      "text": "C\u00f3digo de \u00c9tica",
+      "url": "https://www.jornada.com.mx/codigodeetica/codigodeetica.pdf"
+    },
+    {
+      "text": "\n\n\n\n\nLa Primera Ojeada\n\n",
+      "url": "/"
+    },
+    {
+      "text": "\n\n\n\n\nBuscar\n\n",
+      "url": "/busqueda.html"
+    },
+    {
+      "text": "\n\n",
+      "url": "/"
+    },
+    {
+      "text": "Pol\u00edtica",
+      "url": "/category/politica.html"
+    },
+    {
+      "text": "Econom\u00eda",
+      "url": "/category/economia.html"
+    },
+    {
+      "text": "Mundo",
+      "url": "/category/mundo.html"
+    },
+    {
+      "text": "Estados",
+      "url": "/category/estados.html"
+    },
+    {
+      "text": "Capital",
+      "url": "/category/capital.html"
+    },
+    {
+      "text": "Sociedad",
+      "url": "/category/sociedad.html"
+    },
+    {
+      "text": "\nM\u00e1s secciones\n",
+      "url": "#"
+    },
+    {
+      "text": "Estados",
+      "url": "/category/estados/"
+    },
+    {
+      "text": "Capital",
+      "url": "/category/capital.html"
+    },
+    {
+      "text": "Sociedad",
+      "url": "/category/sociedad.html"
+    },
+    {
+      "text": " Deportes",
+      "url": "/category/deportes.html"
+    },
+    {
+      "text": " Cultura y Entretenimiento",
+      "url": "/category/cultura.html"
+    },
+    {
+      "text": " Ciencia y Tecnolog\u00eda",
+      "url": "/category/ciencia-y-tecnologia.html"
+    },
+    {
+      "text": " Autos",
+      "url": "/category/autos.html"
+    },
+    {
+      "text": "\n\n\n\n",
+      "url": "https://www.jornada.com.mx/sinfronteras"
+    },
+    {
+      "text": "Cartones",
+      "url": "/category/cartones.html"
+    },
+    {
+      "text": "Opini\u00f3n y Columnas",
+      "url": "/category/opinion.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.jornada.com.mx/blog.html"
+    },
+    {
+      "text": "Videos",
+      "url": "/galeria_videos.html"
+    },
+    {
+      "text": "Galer\u00edas",
+      "url": "/galeria_imagenes.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "/"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://libreria.jornada.com.mx/"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://promociones.jornada.com.mx/"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://www.jornada.com.mx/impresa"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "/"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://libreria.jornada.com.mx/"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://promociones.jornada.com.mx/"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://www.jornada.com.mx/impresa"
+    },
+    {
+      "text": "Pol\u00edtica",
+      "url": "/category/politica.html"
+    },
+    {
+      "text": "Econom\u00eda",
+      "url": "/category/economia.html"
+    },
+    {
+      "text": "Mundo",
+      "url": "/category/mundo.html"
+    },
+    {
+      "text": "Estados",
+      "url": "/category/estados.html"
+    },
+    {
+      "text": "Capital",
+      "url": "/category/capital.html"
+    },
+    {
+      "text": "Sociedad",
+      "url": "/category/sociedad.html"
+    },
+    {
+      "text": "\nM\u00e1s secciones\n",
+      "url": "#"
+    },
+    {
+      "text": "Estados",
+      "url": "/category/estados/"
+    },
+    {
+      "text": "Capital",
+      "url": "/category/capital.html"
+    },
+    {
+      "text": "Sociedad",
+      "url": "/category/sociedad.html"
+    },
+    {
+      "text": " Deportes",
+      "url": "/category/deportes.html"
+    },
+    {
+      "text": " Cultura y Entretenimiento",
+      "url": "/category/cultura.html"
+    },
+    {
+      "text": " Ciencia y Tecnolog\u00eda",
+      "url": "/category/ciencia-y-tecnologia.html"
+    },
+    {
+      "text": " Autos",
+      "url": "/category/autos.html"
+    },
+    {
+      "text": "\n\n\n\n",
+      "url": "https://www.jornada.com.mx/sinfronteras"
+    },
+    {
+      "text": "Cartones",
+      "url": "/category/cartones.html"
+    },
+    {
+      "text": "Opini\u00f3n y Columnas",
+      "url": "/category/opinion.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.jornada.com.mx/blog.html"
+    },
+    {
+      "text": "Videos",
+      "url": "/galeria_videos.html"
+    },
+    {
+      "text": "Galer\u00edas",
+      "url": "/galeria_imagenes.html"
+    },
+    {
+      "text": "\n\nImpresa\n",
+      "url": "https://www.jornada.com.mx/impresa"
+    },
+    {
+      "text": " Mi perfil",
+      "url": "/pages/perfil/"
+    },
+    {
+      "text": "\n Librer\u00eda\n",
+      "url": "https://libreria.jornada.com.mx/"
+    },
+    {
+      "text": "\n Promociones\n",
+      "url": "https://promociones.jornada.com.mx/"
+    },
+    {
+      "text": "\n Buscar\n",
+      "url": "/busqueda.html"
+    },
+    {
+      "text": "",
+      "url": "javascript:;"
+    },
+    {
+      "text": "",
+      "url": "javascript:;"
+    },
+    {
+      "text": "",
+      "url": "javascript:;"
+    }
+  ],
   "metadata": {
     "identifier": "lajornada-2022",
     "collection": [
@@ -16209,10 +16965,10 @@
     "publicdate": "2022-04-15 20:40:39",
     "addeddate": "2022-04-15 20:40:39"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 890363324,
+  "server": "ia802501.us.archive.org",
+  "uniq": 826019202,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

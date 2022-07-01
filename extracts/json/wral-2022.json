@@ -1,5 +1,5 @@
 {
-  "created": 1656544549,
+  "created": 1656635248,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/32/items/wral-2022",
@@ -5290,31 +5290,325 @@
       "sha1": "612cd7ac4a76ba24cb15dccc7053eae9cedb6c8d"
     },
     {
+      "name": "wral-2022-06-29T21:42:06.613891-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656553334",
+      "size": "42135",
+      "md5": "e5ed07c1a5ba71f800de4eeb00fa977a",
+      "crc32": "3ca806ae",
+      "sha1": "1a6280e2397b8c027a65852f2efe27bdaafbb6fc",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-29T21:42:06.613891-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656553336",
+      "size": "97586",
+      "md5": "002e86d9794ce49024adfcf7f633fd84",
+      "crc32": "869fc058",
+      "sha1": "41dae2855ca21c79aed6f4dd98ef92f00cb4e79a",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-29T21:42:06.613891-04:00.jpg",
+      "source": "original",
+      "mtime": "1656553333",
+      "size": "306911",
+      "md5": "e162f64fe2d5585087148c1d893541e6",
+      "crc32": "aae6931b",
+      "sha1": "72d0270a29f7b74ff7ca05df8abe2ddd2d97f894",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wral-2022-06-29T21:42:06.613891-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wral-2022-06-29T21:42:06.613891-04:00.jpg",
+      "mtime": "1656553420",
+      "size": "9955",
+      "md5": "45423413bdd92c538c1002ff600734e7",
+      "crc32": "71aa2118",
+      "sha1": "689490ea1ddb55a835d9de623ef444c0f6a90b50"
+    },
+    {
+      "name": "wral-2022-06-29T23:50:08.431920-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656561011",
+      "size": "44703",
+      "md5": "bc5fa1350290aef78d2ac9c9b342bda4",
+      "crc32": "bf865965",
+      "sha1": "dd21e816c036a316dc2638693f17d77fa9731054",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-29T23:50:08.431920-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656561013",
+      "size": "98046",
+      "md5": "27ceb013f423aa9f4c353b99c454b8c7",
+      "crc32": "ef665b37",
+      "sha1": "94dd76a150552cbb0d87bf52340ee7884b8e8459",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-29T23:50:08.431920-04:00.jpg",
+      "source": "original",
+      "mtime": "1656561010",
+      "size": "293070",
+      "md5": "fcf02350cf4fdf66c100d263ab9612fa",
+      "crc32": "480c1be3",
+      "sha1": "5af3db6a81900bec857630b456fa2e6e5444d5ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wral-2022-06-29T23:50:08.431920-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wral-2022-06-29T23:50:08.431920-04:00.jpg",
+      "mtime": "1656561075",
+      "size": "9741",
+      "md5": "acf73e09df7f6f7172be3ba0c1809f41",
+      "crc32": "58077ed7",
+      "sha1": "f3337a4490e0ca6104ee809a4b746e230ddb8d9b"
+    },
+    {
+      "name": "wral-2022-06-30T01:19:27.872310-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566371",
+      "size": "43715",
+      "md5": "7e95215d32842e4ba2ed429a99a80ac1",
+      "crc32": "09063755",
+      "sha1": "446ac32754db1cec418ecd2026811b53b0ea75c1",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T01:19:27.872310-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566373",
+      "size": "98007",
+      "md5": "327b11304970c992f720a16edda79aca",
+      "crc32": "cb3966c5",
+      "sha1": "dc4f9c293d5480dabe893fe12aeeec2e7b1a1725",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T01:19:27.872310-04:00.jpg",
+      "source": "original",
+      "mtime": "1656566369",
+      "size": "291594",
+      "md5": "d6da526c8754536a901b7b8a815f3ff6",
+      "crc32": "1092743a",
+      "sha1": "031f7830641f28d3c514b07397c00184397a7585",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wral-2022-06-30T01:19:27.872310-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wral-2022-06-30T01:19:27.872310-04:00.jpg",
+      "mtime": "1656566436",
+      "size": "9784",
+      "md5": "a749a69f1604561589fd57130d9b3af4",
+      "crc32": "10ad5c4e",
+      "sha1": "4e2fac3a2779861f20012a148187f3b6a0fc5c5e"
+    },
+    {
+      "name": "wral-2022-06-30T03:10:32.924365-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656573037",
+      "size": "43416",
+      "md5": "d05e3ee0f73150001f16d76a578d8aa0",
+      "crc32": "d6bf9509",
+      "sha1": "c88004ffdc92b84a862533c0ddc7a6394d6c394e",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T03:10:32.924365-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656573038",
+      "size": "97979",
+      "md5": "a99a80de434b0c102f9f63ea18074c19",
+      "crc32": "04b04007",
+      "sha1": "8f1ab2de649f3761b49999c1473625e7a80cc32d",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T03:10:32.924365-04:00.jpg",
+      "source": "original",
+      "mtime": "1656573035",
+      "size": "292677",
+      "md5": "811e0a16340f7a83ab0ad6e5b8582790",
+      "crc32": "bddab2af",
+      "sha1": "99d947b35c303ce8b0efe2a80c9033c3317c9c26",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wral-2022-06-30T03:10:32.924365-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wral-2022-06-30T03:10:32.924365-04:00.jpg",
+      "mtime": "1656573192",
+      "size": "9738",
+      "md5": "103cc10fd54bf7f002ab7b83779e8ee4",
+      "crc32": "533d68a3",
+      "sha1": "ad0c71ef24f8da5d2c501c6d70fb01fffc38f236"
+    },
+    {
+      "name": "wral-2022-06-30T05:13:52.407020-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580436",
+      "size": "43988",
+      "md5": "6813162cdea7428310f5d75ccc2965e8",
+      "crc32": "f32cbb79",
+      "sha1": "d953908956f430ca098c8d18953558191e894983",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T05:13:52.407020-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580437",
+      "size": "96846",
+      "md5": "80f14eba41d837c809f97761d3d1773e",
+      "crc32": "34aa8fe2",
+      "sha1": "ae52454cc28aa54f192500a262894cd89079e138",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T05:13:52.407020-04:00.jpg",
+      "source": "original",
+      "mtime": "1656580434",
+      "size": "273645",
+      "md5": "04b0b4fdd0cefb43e9150b612afbfe5a",
+      "crc32": "00fa9004",
+      "sha1": "f4c798365bab78081c4183f51373f32c5f5d299a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wral-2022-06-30T05:13:52.407020-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wral-2022-06-30T05:13:52.407020-04:00.jpg",
+      "mtime": "1656580547",
+      "size": "9660",
+      "md5": "645b8a55f250b2e3b67bb30e4e5218c3",
+      "crc32": "dfc10fad",
+      "sha1": "b0c97b70f28656db98f1928d5ebeb1be9e031690"
+    },
+    {
+      "name": "wral-2022-06-30T07:09:58.709967-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587401",
+      "size": "44694",
+      "md5": "c25491cc6df7cef6b6e68033c62977da",
+      "crc32": "98afc573",
+      "sha1": "5af58196af3f085f6b4ef571ae349ddf1e717167",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T07:09:58.709967-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587403",
+      "size": "98239",
+      "md5": "4489f4bf279dbd77f46645f69afe3240",
+      "crc32": "c7f35778",
+      "sha1": "42b73012d979ea7dd75056d70e78d3e225e7e6d3",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T07:09:58.709967-04:00.jpg",
+      "source": "original",
+      "mtime": "1656587399",
+      "size": "279187",
+      "md5": "44ca9c8d4394755eafb847f15fe38b18",
+      "crc32": "7621a275",
+      "sha1": "8e1500fd0436d81a99a925cbd07640adb87d4ea9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wral-2022-06-30T07:09:58.709967-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wral-2022-06-30T07:09:58.709967-04:00.jpg",
+      "mtime": "1656587471",
+      "size": "9309",
+      "md5": "988a7c4fa947f65e82861ad499cc1570",
+      "crc32": "4fdf668d",
+      "sha1": "96caf4ba171f19a25ed2aab06a640e18a24b57ea"
+    },
+    {
+      "name": "wral-2022-06-30T09:15:05.976927-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594909",
+      "size": "45738",
+      "md5": "a7915a281268c3865fc60f76fefeeea9",
+      "crc32": "18f1c9fa",
+      "sha1": "fe9da90ed647667b79cd2c420707945645768bfa",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T09:15:05.976927-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594910",
+      "size": "98456",
+      "md5": "fd9e454d849e856ae34a1227cc096f74",
+      "crc32": "c71885b8",
+      "sha1": "8f4266cbad845611a90c344e33321e94bd87216a",
+      "format": "JSON"
+    },
+    {
+      "name": "wral-2022-06-30T09:15:05.976927-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594907",
+      "size": "294812",
+      "md5": "7b2c9fdfec82b87cb99c06c083aee835",
+      "crc32": "7673ad0a",
+      "sha1": "5d927fd124ff9cd9a8974896bfe1b28b545fd150",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wral-2022-06-30T09:15:05.976927-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wral-2022-06-30T09:15:05.976927-04:00.jpg",
+      "mtime": "1656594971",
+      "size": "9341",
+      "md5": "bac0eba88da4d9a52ec11d738dca5185",
+      "crc32": "e41d55dc",
+      "sha1": "4a3c8cba6a0efdce6a8b5223d44b9ad853c16a30"
+    },
+    {
       "name": "wral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b2aa38e3461a9c550abedd0429926c300567f9ef",
-      "mtime": "1656544536",
-      "size": "105641",
-      "md5": "74f8869f01b9d95674b4eefeb190ad63",
-      "crc32": "5124bccd",
-      "sha1": "423dec8c4ca060984aedd767d213ba0facb86a38",
+      "btih": "78752e4783a6e3383b872f5257aa32ccccbf154a",
+      "mtime": "1656594981",
+      "size": "111452",
+      "md5": "0500c2fdc5b28c9be26f9087f9a5563f",
+      "crc32": "506b8c16",
+      "sha1": "884ef82202a76e537c874f1a2c4bdcfafc33385e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "398994a01d483f56b8922f1b27d71c3a",
+      "md5": "b75e396145e56288077ebda18141c25a",
       "summation": "md5"
     },
     {
       "name": "wral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544474",
-      "size": "585728",
-      "md5": "5819f0bab43d0154428ee80362b4fd68",
-      "crc32": "166c3765",
-      "sha1": "223b4a0e8e1c8a0adb744c20be763f009b8a5fb1",
+      "mtime": "1656594918",
+      "size": "618496",
+      "md5": "71f0b2fcf249b8cf1f13ddd5b0ab36a1",
+      "crc32": "3a29ebac",
+      "sha1": "e48ff2fd68d91ea3438070d5ddd45a7381c076fd",
       "format": "Metadata"
     },
     {
@@ -5328,9 +5622,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 507,
-  "item_last_updated": 1656544536,
-  "item_size": 53992703,
+  "files_count": 535,
+  "item_last_updated": 1656594981,
+  "item_size": 57124254,
   "metadata": {
     "identifier": "wral-2022",
     "collection": [
@@ -5347,10 +5641,3060 @@
     "publicdate": "2022-03-26 14:57:50",
     "addeddate": "2022-03-26 14:57:50"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 2054164130,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1544186262,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
+  ],
+  "wral-2022": [
+    {
+      "text": "skip to main content",
+      "url": "#g-wrap-main"
+    },
+    {
+      "text": "Spotlight",
+      "url": "https://www.wral.com/marketplace/spotlight/"
+    },
+    {
+      "text": "Money Desk",
+      "url": "https://www.wral.com/money-desk/18992466/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.wral.com/capitol-broadcasting-podcast-network/18345827/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://obits.wral.com/obituaries/all-categories/search/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://classifieds.wral.com/"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.hpw.com/wral/"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://www.wral.com/rs/page/2173159/?forwardto=https%3A%2F%2Fwww.wral.com%2F"
+    },
+    {
+      "text": "\n\t\t\t        \n                ",
+      "url": "http://pubads.g.doubleclick.net/gampad/clk?id=4584583181&iu=/6167"
+    },
+    {
+      "text": "WRAL.com",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "News Home",
+      "url": "/news/"
+    },
+    {
+      "text": "Local",
+      "url": "/news/local/"
+    },
+    {
+      "text": "State",
+      "url": "/news/state/"
+    },
+    {
+      "text": "Politics",
+      "url": "#"
+    },
+    {
+      "text": "@NCCapitol",
+      "url": "/8915553"
+    },
+    {
+      "text": "Politifact",
+      "url": "/18768740"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/political/"
+    },
+    {
+      "text": "Education",
+      "url": "/news/education/"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic/"
+    },
+    {
+      "text": "Investigations",
+      "url": "/news/local/wral_investigates/"
+    },
+    {
+      "text": "WRAL Data Trackers",
+      "url": "/wral-data-trackers/19068264/"
+    },
+    {
+      "text": "Nation",
+      "url": "/news/national_world/national/"
+    },
+    {
+      "text": "World",
+      "url": "/news/national_world/world/"
+    },
+    {
+      "text": "Other News",
+      "url": "#"
+    },
+    {
+      "text": "Documentaries",
+      "url": "/news/local/documentaries/"
+    },
+    {
+      "text": "Public Records",
+      "url": "/news/public_records/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://obits.wral.com/"
+    },
+    {
+      "text": "Green",
+      "url": "/news/greenguide/"
+    },
+    {
+      "text": "Crime",
+      "url": "/news/local/crime/"
+    },
+    {
+      "text": "Strange",
+      "url": "/news/strange/"
+    },
+    {
+      "text": "Archives",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Fayetteville",
+      "url": "/fayetteville/"
+    },
+    {
+      "text": "Noticias",
+      "url": "/news/noticias/"
+    },
+    {
+      "text": "    ",
+      "url": "/bribery-conviction-overturned-in-major-north-carolina-political-scandal/20353220/"
+    },
+    {
+      "text": "Bribery conviction overturned in major North Carolina political scandal",
+      "url": "/bribery-conviction-overturned-in-major-north-carolina-political-scandal/20353220/"
+    },
+    {
+      "text": "    ",
+      "url": "/johnston-county-commissioner-arrested-indecent-liberties-with-child-from-his-church/20353429/"
+    },
+    {
+      "text": "Johnston County commissioner arrested for indecent liberties knew child from church",
+      "url": "/johnston-county-commissioner-arrested-indecent-liberties-with-child-from-his-church/20353429/"
+    },
+    {
+      "text": "    ",
+      "url": "/durhams-east-end-connector-to-open-to-drivers-this-afternoon/20354564/"
+    },
+    {
+      "text": "Durham's East End Connector to open to drivers this afternoon  ",
+      "url": "/durhams-east-end-connector-to-open-to-drivers-this-afternoon/20354564/"
+    },
+    {
+      "text": "2021 WRAL Voters' Choice Awards Go-To Guide",
+      "url": "/2021-wral-voters-choice-awards-go-to-guide/19868188/"
+    },
+    {
+      "text": "Subscribe to WRAL emails",
+      "url": "/rs/page/39538/"
+    },
+    {
+      "text": "Download WRAL apps",
+      "url": "/download-wral-apps/5787234/"
+    },
+    {
+      "text": "WRAL on Facebook",
+      "url": "https://www.facebook.com/WRALTV/"
+    },
+    {
+      "text": "\n\n\t\t\n\t\tAsk WRAL\n\t\tGet our apps for your smart speaker \u203a\n\n",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1368__zoneid=1__cb=e22a467216__oadest=https%3A%2F%2Fwww.wral.com%2Fget-wral-news-and-weather-on-amazon-echo-google-home%2F17877224%2F"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "/coronavirus/"
+    },
+    {
+      "text": "Coronavirus News",
+      "url": "/coronavirus/"
+    },
+    {
+      "text": "NC Maps & Cases",
+      "url": "/coronavirus/nc-coronavirus-cases-live-maps/19010016/"
+    },
+    {
+      "text": "Health",
+      "url": "/coronavirus/coronavirus-q-a-your-questions-expert-answers-on-coronavirus/18997023/"
+    },
+    {
+      "text": "Government",
+      "url": "/coronavirus/maybe-you-don-t-have-to-get-your-car-inspected-now-faq-on-coronavirus-government-and-you/19035456/"
+    },
+    {
+      "text": "Unemployment",
+      "url": "/coronavirus/how-to-apply-for-nc-coronavirus-unemployment-benefits/19032127/"
+    },
+    {
+      "text": "Stay-Home Orders",
+      "url": "/coronavirus/state-wake-durham-stay-at-home-orders/19030027/"
+    },
+    {
+      "text": "Food-To-Go",
+      "url": "/Support-local-raleigh-durham-businesses/19014546/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/19015999"
+    },
+    {
+      "text": "    ",
+      "url": "/coronavirus/omicron-subvariants-ba-4-and-ba-5-have-together-become-dominant-in-u-s-cdc-estimates/20352452/"
+    },
+    {
+      "text": "Omicron Subvariants BA.4 and BA.5 Have Together Become Dominant in U.S., CDC Estimates",
+      "url": "/coronavirus/omicron-subvariants-ba-4-and-ba-5-have-together-become-dominant-in-u-s-cdc-estimates/20352452/"
+    },
+    {
+      "text": "    ",
+      "url": "/coronavirus/fda-advisers-debate-updating-covid-booster-shots-for-fall/20351851/"
+    },
+    {
+      "text": "FDA advisers recommend updating COVID booster shots for fall",
+      "url": "/coronavirus/fda-advisers-debate-updating-covid-booster-shots-for-fall/20351851/"
+    },
+    {
+      "text": "    ",
+      "url": "/coronavirus/fda-may-move-toward-updating-vaccines/20349652/"
+    },
+    {
+      "text": "FDA to consider new version, booster for COVID vaccines",
+      "url": "/coronavirus/fda-may-move-toward-updating-vaccines/20349652/"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather/"
+    },
+    {
+      "text": "Weather Home",
+      "url": "/weather/"
+    },
+    {
+      "text": "Current Conditions",
+      "url": "/weather/page/13264720/"
+    },
+    {
+      "text": "Hourly",
+      "url": "/weather/page/1005691/"
+    },
+    {
+      "text": "Map Center",
+      "url": "/weather/page/8106570/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0DualDoppler5000",
+      "url": "/weather/page/8106570/?default_map=doppler&default_map_selected=centralnc"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0iControl",
+      "url": "/weather/iradar/page/2708786/"
+    },
+    {
+      "text": "Alert Center",
+      "url": "/weather/page/12171988/"
+    },
+    {
+      "text": "Hurricanes",
+      "url": "/weather/hurricanes/"
+    },
+    {
+      "text": "Closings",
+      "url": "/weather/closings/"
+    },
+    {
+      "text": "Beach & Mountains",
+      "url": "/weather/page/1004824/"
+    },
+    {
+      "text": "Weather Resources",
+      "url": "#"
+    },
+    {
+      "text": "CBC Solar Farm",
+      "url": "/news/greenguide/page/10631537/"
+    },
+    {
+      "text": "Almanac",
+      "url": "/weather/almanac/"
+    },
+    {
+      "text": "WRAL Live Cam Network",
+      "url": "/webcams/17905801/"
+    },
+    {
+      "text": "Weather Center Blog",
+      "url": "/weather/blog/1028424/"
+    },
+    {
+      "text": "Resources",
+      "url": "/weather/asset_gallery/13051669/"
+    },
+    {
+      "text": "Robocams",
+      "url": "/weather/page/10918254/"
+    },
+    {
+      "text": "NC County Map",
+      "url": "/presentation/v1/images/wx/nc-counties.pdf"
+    },
+    {
+      "text": "    ",
+      "url": "/tracking-the-tropics/20350142/"
+    },
+    {
+      "text": "Tracking the tropics: Rain coming for Caribbean, Houston area",
+      "url": "/tracking-the-tropics/20350142/"
+    },
+    {
+      "text": "    ",
+      "url": "/tips-for-observing-this-month-s-rare-planetary-alignment/20350272/"
+    },
+    {
+      "text": "Tips for observing this month's rare planetary alignment ",
+      "url": "/tips-for-observing-this-month-s-rare-planetary-alignment/20350272/"
+    },
+    {
+      "text": "    ",
+      "url": "/weather-forecast-Raleigh-Durham-Fayetteville/19792729/"
+    },
+    {
+      "text": "Drive slowly: Parts of central NC under dense fog advisory until 9 a.m. ",
+      "url": "/weather-forecast-Raleigh-Durham-Fayetteville/19792729/"
+    },
+    {
+      "text": "",
+      "url": "/weather/page/8106570/"
+    },
+    {
+      "text": "\n\n\t\t\n\t\tAsk WRAL\n\t\tGet our apps for your smart speaker \u203a\n\n",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1368__zoneid=1__cb=c2d60b0bc7__oadest=https%3A%2F%2Fwww.wral.com%2Fget-wral-news-and-weather-on-amazon-echo-google-home%2F17877224%2F"
+    },
+    {
+      "text": "Sports",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "Sports Home",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "Our Take",
+      "url": "#"
+    },
+    {
+      "text": "All Columns",
+      "url": "http://www.wralsportsfan.com/voices/page/3476225/"
+    },
+    {
+      "text": "Caulton Tudor",
+      "url": "http://www.wralsportsfan.com/voices/blog/12368982/"
+    },
+    {
+      "text": "Lauren Brownlow",
+      "url": "http://www.wralsportsfan.com/voices/blog/13905160/"
+    },
+    {
+      "text": "Marilyn Payne",
+      "url": "http://www.wralsportsfan.com/voices/blog/14848029/"
+    },
+    {
+      "text": "Adam Gold",
+      "url": "http://www.wralsportsfan.com/voices/blog/6348027/"
+    },
+    {
+      "text": "Joe Ovies",
+      "url": "http://www.wralsportsfan.com/voices/blog/6348185/"
+    },
+    {
+      "text": "Bob Holliday",
+      "url": "http://www.wralsportsfan.com/voices/blog/12828590/"
+    },
+    {
+      "text": "NC State",
+      "url": "http://www.wralsportsfan.com/ncsu/"
+    },
+    {
+      "text": "UNC",
+      "url": "http://www.wralsportsfan.com/unc/"
+    },
+    {
+      "text": "Duke",
+      "url": "http://www.wralsportsfan.com/duke/"
+    },
+    {
+      "text": "ECU",
+      "url": "http://www.wralsportsfan.com/ecu/"
+    },
+    {
+      "text": "Hurricanes",
+      "url": "http://www.wralsportsfan.com/hurricanes/"
+    },
+    {
+      "text": "Panthers",
+      "url": "http://www.wralsportsfan.com/panthers/"
+    },
+    {
+      "text": "Olympics",
+      "url": "http://www.wralsportsfan.com/olympics/"
+    },
+    {
+      "text": "HighSchoolOT",
+      "url": "http://www.highschoolot.com/"
+    },
+    {
+      "text": "More Sports",
+      "url": "#"
+    },
+    {
+      "text": "Bulls",
+      "url": "http://www.wralsportsfan.com/bulls/"
+    },
+    {
+      "text": "NASCAR",
+      "url": "http://www.wralsportsfan.com/nascar/"
+    },
+    {
+      "text": "Golf",
+      "url": "http://www.wralsportsfan.com/golf/"
+    },
+    {
+      "text": "Soccer",
+      "url": "http://www.wralsportsfan.com/soccer/"
+    },
+    {
+      "text": "MLB",
+      "url": "http://www.wralsportsfan.com/mlb/"
+    },
+    {
+      "text": "NBA",
+      "url": "http://www.wralsportsfan.com/nba/"
+    },
+    {
+      "text": "NFL",
+      "url": "http://www.wralsportsfan.com/nfl/"
+    },
+    {
+      "text": "NHL",
+      "url": "http://www.wralsportsfan.com/nhl/"
+    },
+    {
+      "text": "Tennis",
+      "url": "http://www.wralsportsfan.com/tennis/"
+    },
+    {
+      "text": "More Schools",
+      "url": "#"
+    },
+    {
+      "text": "Appalachian State",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "Campbell",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "NC Central",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "St. Augustine's",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "Shaw",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "    ",
+      "url": "https://www.wralsportsfan.com/sportsbook-could-be-part-of-pnc-arena-s-enhancement-project/20353057/"
+    },
+    {
+      "text": "Sportsbook could be part of PNC Arena's enhancement project",
+      "url": "https://www.wralsportsfan.com/sportsbook-could-be-part-of-pnc-arena-s-enhancement-project/20353057/"
+    },
+    {
+      "text": "    ",
+      "url": "https://www.wralsportsfan.com/swiatek-wins-36th-match-in-a-row-in-1st-round-at-wimbledon/20351556/"
+    },
+    {
+      "text": "Serena Williams loses at Wimbledon in 1st match in a year",
+      "url": "https://www.wralsportsfan.com/swiatek-wins-36th-match-in-a-row-in-1st-round-at-wimbledon/20351556/"
+    },
+    {
+      "text": "    ",
+      "url": "https://www.wralsportsfan.com/acc-eliminates-football-divisions-adopts-new-schedule-model-in-2023/20351600/"
+    },
+    {
+      "text": "ACC eliminates football divisions, adopts new schedule model in 2023",
+      "url": "https://www.wralsportsfan.com/acc-eliminates-football-divisions-adopts-new-schedule-model-in-2023/20351600/"
+    },
+    {
+      "text": "HighSchoolOT Honors",
+      "url": "https://www.highschoolot.com/highschoolot-honors/17504324/"
+    },
+    {
+      "text": "WRALSportsFan Podcasts",
+      "url": "https://www.wralsportsfan.com/sportsradio/page/14766290/"
+    },
+    {
+      "text": "Golf",
+      "url": "https://www.wralsportsfan.com/golf/asset_gallery/13125956/"
+    },
+    {
+      "text": "MLB",
+      "url": "https://www.wralsportsfan.com/college_basketball/asset_gallery/15611595/"
+    },
+    {
+      "text": "NASCAR",
+      "url": "https://www.wralsportsfan.com/nascar/asset_gallery/13125954/"
+    },
+    {
+      "text": "NBA",
+      "url": "https://www.wralsportsfan.com/nba/asset_gallery/13125942/"
+    },
+    {
+      "text": "NHL",
+      "url": "https://www.wralsportsfan.com/nhl/asset_gallery/13125947/"
+    },
+    {
+      "text": "NFL",
+      "url": "https://www.wralsportsfan.com/nfl/asset_gallery/13125884/"
+    },
+    {
+      "text": "\n\n\t\t\n\t\tGet the WRAL Weather App!\n\t\tDownload Now \u203a\n\n",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1405__zoneid=1__cb=be493af629__oadest=https%3A%2F%2Fwww.wral.com%2Fdownload-wral-apps%2F5787234%2F"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Business Home",
+      "url": "/business/"
+    },
+    {
+      "text": "Market Summary",
+      "url": "http://studio-5.financialcontent.com/wral/"
+    },
+    {
+      "text": "Market News",
+      "url": "http://markets.financialcontent.com/wral/markets/news"
+    },
+    {
+      "text": "Stock Quotes",
+      "url": "http://markets.financialcontent.com/wral/user/recentquotes"
+    },
+    {
+      "text": "Market Movers",
+      "url": "http://markets.financialcontent.com/wral/stocks/dashboard"
+    },
+    {
+      "text": "Tax Guide",
+      "url": "/business/taxguide/"
+    },
+    {
+      "text": "WRAL TechWire",
+      "url": "http://wraltechwire.com/"
+    },
+    {
+      "text": "    ",
+      "url": "https://wraltechwire.com/?p=206008"
+    },
+    {
+      "text": "Home affordability takes another plunge in Raleigh - but buying demand remains strong, agents say",
+      "url": "https://wraltechwire.com/?p=206008"
+    },
+    {
+      "text": "    ",
+      "url": "/site-of-first-char-grill-in-downtown-raleigh-to-be-torn-down-rebuilt-alongside-mixed-use-20-story-building/20354708/"
+    },
+    {
+      "text": "Site of first Char-Grill in downtown Raleigh to be torn down, rebuilt alongside mixed-use 20-story building",
+      "url": "/site-of-first-char-grill-in-downtown-raleigh-to-be-torn-down-rebuilt-alongside-mixed-use-20-story-building/20354708/"
+    },
+    {
+      "text": "    ",
+      "url": "https://wraltechwire.com/?p=206000"
+    },
+    {
+      "text": "NC's slowing economy: Unemployment rate rises in 89 counties in May",
+      "url": "https://wraltechwire.com/?p=206000"
+    },
+    {
+      "text": "Stock Market news and numbers",
+      "url": "/business/stocks_and_bonds/page/9956473/"
+    },
+    {
+      "text": "What happens in a recession?",
+      "url": "/what-happens-in-a-recession/18575409/"
+    },
+    {
+      "text": "How a recession could happen",
+      "url": "/what-to-fear-in-coming-months-how-a-recession-could-happen/18575424/"
+    },
+    {
+      "text": "\n\n\t\t\n\t\tGet the WRAL Weather App!\n\t\tDownload Now \u203a\n\n",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1405__zoneid=1__cb=01c3f342e9__oadest=https%3A%2F%2Fwww.wral.com%2Fdownload-wral-apps%2F5787234%2F"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Opinion Home",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Editorials",
+      "url": "/opinion/asset_gallery/15607289/"
+    },
+    {
+      "text": "Blog",
+      "url": "/opinion/blog/15793171/"
+    },
+    {
+      "text": "Editorial Cartoons",
+      "url": "/opinion/image_gallery/16553408/"
+    },
+    {
+      "text": "    ",
+      "url": "/editorial-neglect/20354250/"
+    },
+    {
+      "text": "Editorial: Neglect",
+      "url": "/editorial-neglect/20354250/"
+    },
+    {
+      "text": "    ",
+      "url": "/editorial-50-years-ago-an-nc-politician-stood-up-now-another-takes-the-low-road/20352548/"
+    },
+    {
+      "text": "Editorial: 50 years ago an NC politician stood up. Now another takes the low road ",
+      "url": "/editorial-50-years-ago-an-nc-politician-stood-up-now-another-takes-the-low-road/20352548/"
+    },
+    {
+      "text": "    ",
+      "url": "/editorial-now-it-s-voters-turn-on-the-status-of-abortion/20346881/"
+    },
+    {
+      "text": "Editorial: Now it's voters turn on the status of abortion",
+      "url": "/editorial-now-it-s-voters-turn-on-the-status-of-abortion/20346881/"
+    },
+    {
+      "text": "\n\n\t\t\n\t\tWRAL Data Trackers\n\t\tInteract with our analysis \u203a\n\n",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1540__zoneid=1__cb=34dd1bf278__oadest=https%3A%2F%2Fwww.wral.com%2Fwral-data-trackers%2F19068264%2F"
+    },
+    {
+      "text": "Consumer",
+      "url": "/consumer/"
+    },
+    {
+      "text": "Consumer Home",
+      "url": "/consumer/"
+    },
+    {
+      "text": "5 On Your Side",
+      "url": "/5onyourside/"
+    },
+    {
+      "text": "Restaurant Ratings",
+      "url": "/5onyourside/restaurants/page/1001540/"
+    },
+    {
+      "text": "Recalls",
+      "url": "/5onyourside/asset_gallery/1107971/"
+    },
+    {
+      "text": "Complaint Form",
+      "url": "/5onyourside/consumer_complaints/page/1001542/"
+    },
+    {
+      "text": "SmartShopper",
+      "url": "/5onyourside/smartshopper/"
+    },
+    {
+      "text": "Cyber Security",
+      "url": "/cyber-security-digital-security-password-identity-theft/17382589/"
+    },
+    {
+      "text": "Instant Savings",
+      "url": "/consumer/circulars/"
+    },
+    {
+      "text": "    ",
+      "url": "/how-to-get-control-of-your-energy-bill-and-how-to-get-help-if-you-can-t/20353887/"
+    },
+    {
+      "text": "How to get control of your energy bill, and how to get help if you can't",
+      "url": "/how-to-get-control-of-your-energy-bill-and-how-to-get-help-if-you-can-t/20353887/"
+    },
+    {
+      "text": "    ",
+      "url": "/summer-is-here-but-you-may-want-to-consider-starting-back-to-school-shopping/20353848/"
+    },
+    {
+      "text": "Summer is here, but you may want to consider starting back-to-school shopping",
+      "url": "/summer-is-here-but-you-may-want-to-consider-starting-back-to-school-shopping/20353848/"
+    },
+    {
+      "text": "    ",
+      "url": "/over-half-of-americans-are-living-paycheck-to-paycheck/20353838/"
+    },
+    {
+      "text": "Over half of Americans are living paycheck to paycheck ",
+      "url": "/over-half-of-americans-are-living-paycheck-to-paycheck/20353838/"
+    },
+    {
+      "text": "Cyber security: Protecting your digital life",
+      "url": "/cyber-security-digital-security-password-identity-theft/17382589/"
+    },
+    {
+      "text": "Don't Waste Your Money",
+      "url": "/dont-waste-your-money/18386953/"
+    },
+    {
+      "text": "WRAL SmartShopper",
+      "url": "/5onyourside/smartshopper/"
+    },
+    {
+      "text": "Consumer recalls",
+      "url": "/5onyourside/asset_gallery/1107971/"
+    },
+    {
+      "text": "\n\n\t\t\n\t\tWRAL Data Trackers\n\t\tInteract with our analysis \u203a\n\n",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1540__zoneid=1__cb=9917429ff2__oadest=https%3A%2F%2Fwww.wral.com%2Fwral-data-trackers%2F19068264%2F"
+    },
+    {
+      "text": "Health/Life",
+      "url": "/lifestyles/"
+    },
+    {
+      "text": "Health & Life Home",
+      "url": "/lifestyles/"
+    },
+    {
+      "text": "Health Team",
+      "url": "/lifestyles/healthteam/"
+    },
+    {
+      "text": "Go Ask Mom",
+      "url": "/lifestyles/goaskmom/"
+    },
+    {
+      "text": "Aging Well",
+      "url": "/lifestyles/agingwell/"
+    },
+    {
+      "text": "Pets",
+      "url": "/lifestyles/pets/"
+    },
+    {
+      "text": "Family",
+      "url": "/lifestyles/family/"
+    },
+    {
+      "text": "House & Home",
+      "url": "/lifestyles/house_and_home/"
+    },
+    {
+      "text": "Food",
+      "url": "/lifestyles/food/"
+    },
+    {
+      "text": "Local Dish",
+      "url": "/lifestyles/healthyrecipes/"
+    },
+    {
+      "text": "Travel",
+      "url": "/lifestyles/travel/"
+    },
+    {
+      "text": "    ",
+      "url": "/hemp-legalization-elevator-safety-alcohol-bills-and-more-head-to-cooper-for-signature/20353947/"
+    },
+    {
+      "text": "Hemp legalization, elevator safety, alcohol bills and more head to Cooper for signature ",
+      "url": "/hemp-legalization-elevator-safety-alcohol-bills-and-more-head-to-cooper-for-signature/20353947/"
+    },
+    {
+      "text": "    ",
+      "url": "/what-remains-what-happens-at-a-body-farm/20339783/"
+    },
+    {
+      "text": "What Remains: What happens at a body farm?",
+      "url": "/what-remains-what-happens-at-a-body-farm/20339783/"
+    },
+    {
+      "text": "    ",
+      "url": "/yellowstone-bison-gores-colorado-man-causes-arm-injury/20353300/"
+    },
+    {
+      "text": "Yellowstone bison gores Colorado man, causes arm injury",
+      "url": "/yellowstone-bison-gores-colorado-man-causes-arm-injury/20353300/"
+    },
+    {
+      "text": "Why So Many of Us Don\u2019t Lose Weight When We Exercise",
+      "url": "/why-so-many-of-us-don-t-lose-weight-when-we-exercise/18498340/"
+    },
+    {
+      "text": "Are Cold Workouts the New Hot Yoga?",
+      "url": "/are-cold-workouts-the-new-hot-yoga/18556316/"
+    },
+    {
+      "text": "Why do people avoid the flu shot?",
+      "url": "/lifestyles/healthteam/video/18047809/"
+    },
+    {
+      "text": "Flu Watch",
+      "url": "/flu_watch/15123559/"
+    },
+    {
+      "text": "\n\n\t\t\n\t\tCaring for aging parents and relatives?\n\t\tGet advice from our experts \u203a\n\n",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1438__zoneid=1__cb=b6ddce7d8a__oadest=https%3A%2F%2Fwww.wral.com%2Fagingwell"
+    },
+    {
+      "text": "Out & About",
+      "url": "/entertainment/out_and_about/"
+    },
+    {
+      "text": "Out & About Home",
+      "url": "/entertainment/out_and_about/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Voters' Choice",
+      "url": "https://www.wral.com/2021-wral-voters-choice-awards/19868188/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Restaurants",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=77"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Movies",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=84%2C85%2C86%2C90%2C89%2C91%2C98%2C97%2C94%2C87%2C88%2C96%2C92%2C93"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Music",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=78"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Books",
+      "url": "/bookin-NC-book-news-reviews-author-interviews-reading-lists-literary-events/18553741/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Out & About TV",
+      "url": "/entertainment/out_and_about/page/17753251/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0More O&A",
+      "url": "#"
+    },
+    {
+      "text": "Shopping & Retail",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=128"
+    },
+    {
+      "text": "Arts",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=79"
+    },
+    {
+      "text": "Sports",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=80"
+    },
+    {
+      "text": "Families",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=76"
+    },
+    {
+      "text": "Pets",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=74"
+    },
+    {
+      "text": "Community",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=75"
+    },
+    {
+      "text": "Yard Sales",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=82"
+    },
+    {
+      "text": "Seasonal",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=83"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/entertainment/"
+    },
+    {
+      "text": "919 Beer",
+      "url": "/entertainment/beer/blog/16732586"
+    },
+    {
+      "text": "Lottery",
+      "url": "/entertainment/lottery/"
+    },
+    {
+      "text": "Foodie",
+      "url": "/out-about-foodie/19510855/"
+    },
+    {
+      "text": "Contests",
+      "url": "/entertainment/contests/"
+    },
+    {
+      "text": "    ",
+      "url": "/Raleigh-Durham-weekend-events/20350134/"
+    },
+    {
+      "text": "Your guide to July 4th weekend in the Triangle",
+      "url": "/Raleigh-Durham-weekend-events/20350134/"
+    },
+    {
+      "text": "    ",
+      "url": "/10-things-to-do-with-your-kids-this-weekend-in-nc-july-1-3/20331619/"
+    },
+    {
+      "text": "10 Things to do with your kids this weekend in NC (July 1-3)",
+      "url": "/10-things-to-do-with-your-kids-this-weekend-in-nc-july-1-3/20331619/"
+    },
+    {
+      "text": "    ",
+      "url": "/14-family-events-coming-up-this-summer-in-the-raleigh-area/20351793/"
+    },
+    {
+      "text": "14 family events coming up this summer in the Raleigh area ",
+      "url": "/14-family-events-coming-up-this-summer-in-the-raleigh-area/20351793/"
+    },
+    {
+      "text": "2021 WRAL Voters' Choice Awards Go-To Guide",
+      "url": "/2021-wral-voters-choice-awards-go-to-guide/19868188/"
+    },
+    {
+      "text": "Submit your event",
+      "url": "/entertainment/out_and_about/page/4996688/"
+    },
+    {
+      "text": "WRAL, WRAL2 TV schedule",
+      "url": "/wral-tv/tv_schedule/"
+    },
+    {
+      "text": "FOX 50, MeTV, DABL TV schedule",
+      "url": "/fox50-wraz-metv-dabl-schedules/18186863/"
+    },
+    {
+      "text": "On the Record",
+      "url": "/news/local/asset_gallery/5997358/"
+    },
+    {
+      "text": "WRAL Documentaries",
+      "url": "/news/local/documentaries/"
+    },
+    {
+      "text": "\n    \n\t\t\n\t\tDownload the app\n\t\tGet alerts & the latest news \u203a\n    \n",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1463__zoneid=1__cb=dc6389552c__oadest=http%3A%2F%2Fwral.com%2Fapps"
+    },
+    {
+      "text": "Video",
+      "url": "/video/"
+    },
+    {
+      "text": "Video Home",
+      "url": "/video/"
+    },
+    {
+      "text": "Weather Forecast",
+      "url": "/weather/video/1076424/"
+    },
+    {
+      "text": "News Brief",
+      "url": "/news/video/1076526/"
+    },
+    {
+      "text": "Lottery Drawings",
+      "url": "#"
+    },
+    {
+      "text": "Day Pick 3, Pick 4",
+      "url": "/entertainment/lottery/video/2570000/"
+    },
+    {
+      "text": "Eve. Pick 3, Pick 4",
+      "url": "/entertainment/lottery/video/1075494/"
+    },
+    {
+      "text": "Powerball",
+      "url": "/entertainment/lottery/video/1075498/"
+    },
+    {
+      "text": "Mega Millions",
+      "url": "/entertainment/lottery/video/6938100/"
+    },
+    {
+      "text": "WRAL-TV Schedule",
+      "url": "/wral-tv/tv_schedule/"
+    },
+    {
+      "text": "NBC Shows",
+      "url": "/entertainment/nbc_shows/"
+    },
+    {
+      "text": "    ",
+      "url": "/latest-news-today/1082826/"
+    },
+    {
+      "text": "WRAL Morning News",
+      "url": "/latest-news-today/1082826/"
+    },
+    {
+      "text": "    ",
+      "url": "/raleigh-cary-durham-nc-weather-forecast/1076424/"
+    },
+    {
+      "text": "WRAL WeatherCenter Forecast",
+      "url": "/raleigh-cary-durham-nc-weather-forecast/1076424/"
+    },
+    {
+      "text": "    ",
+      "url": "/evening-pick-3-pick-4-and-cash-5/1075494/"
+    },
+    {
+      "text": "Evening Pick 3 Pick 4 and Cash 5",
+      "url": "/evening-pick-3-pick-4-and-cash-5/1075494/"
+    },
+    {
+      "text": "People of WRAL",
+      "url": "/wral-tv/aboutus/page/1010704/"
+    },
+    {
+      "text": "Contact WRAL",
+      "url": "/Contact-Us/1007423/"
+    },
+    {
+      "text": "WRAL, WRAL2 TV schedule",
+      "url": "/wral-tv/tv_schedule/"
+    },
+    {
+      "text": "FOX50, MeTV, DABL TV schedule",
+      "url": "/fox50-wraz-metv-dabl-schedules/18186863/"
+    },
+    {
+      "text": "WILM TV Schedule",
+      "url": "/wilm-tv/19863113/"
+    },
+    {
+      "text": "On the Record",
+      "url": "/news/local/asset_gallery/5997358/"
+    },
+    {
+      "text": "WRAL documentaries",
+      "url": "/news/local/documentaries/"
+    },
+    {
+      "text": "\n\n\t\t\n\t\tAsk WRAL\n\t\tGet our apps for your smart speaker \u203a\n\n",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1368__zoneid=1__cb=199ccb3b4c__oadest=https%3A%2F%2Fwww.wral.com%2Fget-wral-news-and-weather-on-amazon-echo-google-home%2F17877224%2F"
+    },
+    {
+      "text": "74\u00b0",
+      "url": "http://www.wral.com/weather/"
+    },
+    {
+      "text": "        ",
+      "url": "http://www.wral.com/weather/"
+    },
+    {
+      "text": "",
+      "url": "/weather/page/8106570/"
+    },
+    {
+      "text": "7-Day",
+      "url": "http://www.wral.com/weather/"
+    },
+    {
+      "text": "Hourly",
+      "url": "http://www.wral.com/weather/page/1005691/"
+    },
+    {
+      "text": "Currently",
+      "url": "http://www.wral.com/weather/page/13264720/"
+    },
+    {
+      "text": "\n\t\t\tWeather\n\t\t\t74\u00b0\n\t\t\t\n\t\t\t\t\n\t\t",
+      "url": "http://www.wral.com/weather/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\tMenu\n\t\t\t",
+      "url": "#sections"
+    },
+    {
+      "text": "2 Alerts",
+      "url": "#alerts"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tVideo\n\t\t\t\t\t",
+      "url": "http://www.wral.com/video/"
+    },
+    {
+      "text": "WRAL.com",
+      "url": "/"
+    },
+    {
+      "text": "\n\t\t\t\tFeeds\n\t\t\t\t\n\t\t\t",
+      "url": "#headlines"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://www.wral.com/rs/page/2173159/?forwardto=https%3A%2F%2Fwww.wral.com%2F"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "News Home",
+      "url": "/news/"
+    },
+    {
+      "text": "Local",
+      "url": "/news/local/"
+    },
+    {
+      "text": "State",
+      "url": "/news/state/"
+    },
+    {
+      "text": "@NCCapitol",
+      "url": "/8915553"
+    },
+    {
+      "text": "Politifact",
+      "url": "/18768740"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/political/"
+    },
+    {
+      "text": "Education",
+      "url": "/news/education/"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic/"
+    },
+    {
+      "text": "Investigations",
+      "url": "/news/local/wral_investigates/"
+    },
+    {
+      "text": "WRAL Data Trackers",
+      "url": "/wral-data-trackers/19068264/"
+    },
+    {
+      "text": "Nation",
+      "url": "/news/national_world/national/"
+    },
+    {
+      "text": "World",
+      "url": "/news/national_world/world/"
+    },
+    {
+      "text": "Documentaries",
+      "url": "/news/local/documentaries/"
+    },
+    {
+      "text": "Public Records",
+      "url": "/news/public_records/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://obits.wral.com/"
+    },
+    {
+      "text": "Green",
+      "url": "/news/greenguide/"
+    },
+    {
+      "text": "Crime",
+      "url": "/news/local/crime/"
+    },
+    {
+      "text": "Strange",
+      "url": "/news/strange/"
+    },
+    {
+      "text": "Archives",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Fayetteville",
+      "url": "/fayetteville/"
+    },
+    {
+      "text": "Noticias",
+      "url": "/news/noticias/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "/coronavirus/"
+    },
+    {
+      "text": "Coronavirus News",
+      "url": "/coronavirus/"
+    },
+    {
+      "text": "NC Maps & Cases",
+      "url": "/coronavirus/nc-coronavirus-cases-live-maps/19010016/"
+    },
+    {
+      "text": "Health",
+      "url": "/coronavirus/coronavirus-q-a-your-questions-expert-answers-on-coronavirus/18997023/"
+    },
+    {
+      "text": "Government",
+      "url": "/coronavirus/maybe-you-don-t-have-to-get-your-car-inspected-now-faq-on-coronavirus-government-and-you/19035456/"
+    },
+    {
+      "text": "Unemployment",
+      "url": "/coronavirus/how-to-apply-for-nc-coronavirus-unemployment-benefits/19032127/"
+    },
+    {
+      "text": "Stay-Home Orders",
+      "url": "/coronavirus/state-wake-durham-stay-at-home-orders/19030027/"
+    },
+    {
+      "text": "Food-To-Go",
+      "url": "/Support-local-raleigh-durham-businesses/19014546/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/19015999"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather/"
+    },
+    {
+      "text": "Weather Home",
+      "url": "/weather/"
+    },
+    {
+      "text": "Current Conditions",
+      "url": "/weather/page/13264720/"
+    },
+    {
+      "text": "Hourly",
+      "url": "/weather/page/1005691/"
+    },
+    {
+      "text": "Map Center",
+      "url": "/weather/page/8106570/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0DualDoppler5000",
+      "url": "/weather/page/8106570/?default_map=doppler&default_map_selected=centralnc"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0iControl",
+      "url": "/weather/iradar/page/2708786/"
+    },
+    {
+      "text": "Alert Center",
+      "url": "/weather/page/12171988/"
+    },
+    {
+      "text": "Hurricanes",
+      "url": "/weather/hurricanes/"
+    },
+    {
+      "text": "Closings",
+      "url": "/weather/closings/"
+    },
+    {
+      "text": "Beach & Mountains",
+      "url": "/weather/page/1004824/"
+    },
+    {
+      "text": "CBC Solar Farm",
+      "url": "/news/greenguide/page/10631537/"
+    },
+    {
+      "text": "Almanac",
+      "url": "/weather/almanac/"
+    },
+    {
+      "text": "WRAL Live Cam Network",
+      "url": "/webcams/17905801/"
+    },
+    {
+      "text": "Weather Center Blog",
+      "url": "/weather/blog/1028424/"
+    },
+    {
+      "text": "Resources",
+      "url": "/weather/asset_gallery/13051669/"
+    },
+    {
+      "text": "Robocams",
+      "url": "/weather/page/10918254/"
+    },
+    {
+      "text": "NC County Map",
+      "url": "/presentation/v1/images/wx/nc-counties.pdf"
+    },
+    {
+      "text": "Sports",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "Sports Home",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "All Columns",
+      "url": "http://www.wralsportsfan.com/voices/page/3476225/"
+    },
+    {
+      "text": "NC State",
+      "url": "http://www.wralsportsfan.com/ncsu/"
+    },
+    {
+      "text": "UNC",
+      "url": "http://www.wralsportsfan.com/unc/"
+    },
+    {
+      "text": "Duke",
+      "url": "http://www.wralsportsfan.com/duke/"
+    },
+    {
+      "text": "ECU",
+      "url": "http://www.wralsportsfan.com/ecu/"
+    },
+    {
+      "text": "Hurricanes",
+      "url": "http://www.wralsportsfan.com/hurricanes/"
+    },
+    {
+      "text": "Panthers",
+      "url": "http://www.wralsportsfan.com/panthers/"
+    },
+    {
+      "text": "Olympics",
+      "url": "http://www.wralsportsfan.com/olympics/"
+    },
+    {
+      "text": "Bulls",
+      "url": "http://www.wralsportsfan.com/bulls/"
+    },
+    {
+      "text": "NASCAR",
+      "url": "http://www.wralsportsfan.com/nascar/"
+    },
+    {
+      "text": "Golf",
+      "url": "http://www.wralsportsfan.com/golf/"
+    },
+    {
+      "text": "Soccer",
+      "url": "http://www.wralsportsfan.com/soccer/"
+    },
+    {
+      "text": "MLB",
+      "url": "http://www.wralsportsfan.com/mlb/"
+    },
+    {
+      "text": "NBA",
+      "url": "http://www.wralsportsfan.com/nba/"
+    },
+    {
+      "text": "NFL",
+      "url": "http://www.wralsportsfan.com/nfl/"
+    },
+    {
+      "text": "NHL",
+      "url": "http://www.wralsportsfan.com/nhl/"
+    },
+    {
+      "text": "Tennis",
+      "url": "http://www.wralsportsfan.com/tennis/"
+    },
+    {
+      "text": "Appalachian State",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "Campbell",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "NC Central",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "St. Augustine's",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "Shaw",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "HighSchoolOT",
+      "url": "http://www.highschoolot.com/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Business Home",
+      "url": "/business/"
+    },
+    {
+      "text": "Market Summary",
+      "url": "http://studio-5.financialcontent.com/wral/"
+    },
+    {
+      "text": "Market News",
+      "url": "http://markets.financialcontent.com/wral/markets/news"
+    },
+    {
+      "text": "Stock Quotes",
+      "url": "http://markets.financialcontent.com/wral/user/recentquotes"
+    },
+    {
+      "text": "Market Movers",
+      "url": "http://markets.financialcontent.com/wral/stocks/dashboard"
+    },
+    {
+      "text": "Tax Guide",
+      "url": "/business/taxguide/"
+    },
+    {
+      "text": "WRAL TechWire",
+      "url": "http://wraltechwire.com/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Opinion Home",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Editorials",
+      "url": "/opinion/asset_gallery/15607289/"
+    },
+    {
+      "text": "Blog",
+      "url": "/opinion/blog/15793171/"
+    },
+    {
+      "text": "Editorial Cartoons",
+      "url": "/opinion/image_gallery/16553408/"
+    },
+    {
+      "text": "Consumer",
+      "url": "/consumer/"
+    },
+    {
+      "text": "Consumer Home",
+      "url": "/consumer/"
+    },
+    {
+      "text": "5 On Your Side",
+      "url": "/5onyourside/"
+    },
+    {
+      "text": "Restaurant Ratings",
+      "url": "/5onyourside/restaurants/page/1001540/"
+    },
+    {
+      "text": "Recalls",
+      "url": "/5onyourside/asset_gallery/1107971/"
+    },
+    {
+      "text": "Complaint Form",
+      "url": "/5onyourside/consumer_complaints/page/1001542/"
+    },
+    {
+      "text": "SmartShopper",
+      "url": "/5onyourside/smartshopper/"
+    },
+    {
+      "text": "Cyber Security",
+      "url": "/cyber-security-digital-security-password-identity-theft/17382589/"
+    },
+    {
+      "text": "Instant Savings",
+      "url": "/consumer/circulars/"
+    },
+    {
+      "text": "Health/Life",
+      "url": "/lifestyles/"
+    },
+    {
+      "text": "Health & Life Home",
+      "url": "/lifestyles/"
+    },
+    {
+      "text": "Health Team",
+      "url": "/lifestyles/healthteam/"
+    },
+    {
+      "text": "Go Ask Mom",
+      "url": "/lifestyles/goaskmom/"
+    },
+    {
+      "text": "Aging Well",
+      "url": "/lifestyles/agingwell/"
+    },
+    {
+      "text": "Tar Heel Traveler",
+      "url": "/lifestyles/travel/asset_gallery/7864133/"
+    },
+    {
+      "text": "Pets",
+      "url": "/lifestyles/pets/"
+    },
+    {
+      "text": "Family",
+      "url": "/lifestyles/family/"
+    },
+    {
+      "text": "House & Home",
+      "url": "/lifestyles/house_and_home/"
+    },
+    {
+      "text": "Food",
+      "url": "/lifestyles/food/"
+    },
+    {
+      "text": "Local Dish",
+      "url": "/lifestyles/healthyrecipes/"
+    },
+    {
+      "text": "Travel",
+      "url": "/lifestyles/travel/"
+    },
+    {
+      "text": "Out & About",
+      "url": "/entertainment/out_and_about/"
+    },
+    {
+      "text": "Out & About Home",
+      "url": "/entertainment/out_and_about/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Voters' Choice",
+      "url": "https://www.wral.com/2021-wral-voters-choice-awards/19868188/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Restaurants",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=77"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Movies",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=84%2C85%2C86%2C90%2C89%2C91%2C98%2C97%2C94%2C87%2C88%2C96%2C92%2C93"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Music",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=78"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Books",
+      "url": "/bookin-NC-book-news-reviews-author-interviews-reading-lists-literary-events/18553741/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Out & About TV",
+      "url": "/entertainment/out_and_about/page/17753251/"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Shopping & Retail",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=128"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Arts",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=79"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Sports",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=80"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Families",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=76"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Pets",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=74"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Community",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=75"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Yard Sales",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=82"
+    },
+    {
+      "text": "\u00a0\u00a0\u2022\u00a0Seasonal",
+      "url": "/entertainment/out_and_about/page/4853892/?categories=83"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/entertainment/"
+    },
+    {
+      "text": "919 Beer",
+      "url": "/entertainment/beer/blog/16732586"
+    },
+    {
+      "text": "Lottery",
+      "url": "/entertainment/lottery/"
+    },
+    {
+      "text": "Foodie",
+      "url": "/out-about-foodie/19510855/"
+    },
+    {
+      "text": "Contests",
+      "url": "/entertainment/contests/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/"
+    },
+    {
+      "text": "Video Home",
+      "url": "/video/"
+    },
+    {
+      "text": "Weather Forecast",
+      "url": "/weather/video/1076424/"
+    },
+    {
+      "text": "News Brief",
+      "url": "/news/video/1076526/"
+    },
+    {
+      "text": "Day Pick 3, Pick 4",
+      "url": "/entertainment/lottery/video/2570000/"
+    },
+    {
+      "text": "Eve. Pick 3, Pick 4",
+      "url": "/entertainment/lottery/video/1075494/"
+    },
+    {
+      "text": "Powerball",
+      "url": "/entertainment/lottery/video/1075498/"
+    },
+    {
+      "text": "Mega Millions",
+      "url": "/entertainment/lottery/video/6938100/"
+    },
+    {
+      "text": "WRAL-TV Schedule",
+      "url": "/wral-tv/tv_schedule/"
+    },
+    {
+      "text": "NBC Shows",
+      "url": "/entertainment/nbc_shows/"
+    },
+    {
+      "text": "Spotlight",
+      "url": "https://www.wral.com/marketplace/spotlight/"
+    },
+    {
+      "text": "Money Desk",
+      "url": "https://www.wral.com/money-desk/18992466/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.wral.com/capitol-broadcasting-podcast-network/18345827/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://obits.wral.com/obituaries/all-categories/search/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://classifieds.wral.com/"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.hpw.com/wral/"
+    },
+    {
+      "text": "Report It",
+      "url": "/report-it/4519353/"
+    },
+    {
+      "text": "About Us",
+      "url": "/wral-tv/aboutus/page/1001311/"
+    },
+    {
+      "text": "Advertising",
+      "url": "/marketplace/clients/page/3661777/"
+    },
+    {
+      "text": "Privacy & Terms",
+      "url": "/marketplace/clients/page/3661777/"
+    },
+    {
+      "text": "Mobile Apps & Services",
+      "url": "/wral-tv/page/5787234/"
+    },
+    {
+      "text": "Wake County homes have never been less affordable than they are right now, data shows ",
+      "url": "https://wraltechwire.com/?p=206008"
+    },
+    {
+      "text": "Real estate data on Wake County shows that the median sales price during the second quarter of 2022 was $450,500, and the affordability index had dropped to 63, a record low in the data set.\n",
+      "url": "https://wraltechwire.com/?p=206008"
+    },
+    {
+      "text": "On WRAL at 6: Man charged with murder gets released after only months in jail. WRAL Investigates what\u2019s letting offenders back on the streets.",
+      "url": "/wral-investigates-what-s-letting-violent-offenders-back-out-on-the-streets/20353977/"
+    },
+    {
+      "text": "A man charged with murder served only months in jail. On WRAL-TV at 6, WRAL Investigates what's letting violent offenders back out on the streets\u200b.",
+      "url": "/wral-investigates-what-s-letting-violent-offenders-back-out-on-the-streets/20353977/"
+    },
+    {
+      "text": "",
+      "url": "/latest-news-today/1082826/"
+    },
+    {
+      "text": "WRAL Morning News",
+      "url": "/latest-news-today/1082826/"
+    },
+    {
+      "text": "\n                    \n                    ",
+      "url": "/raleigh-cary-durham-nc-weather-forecast/1076424/"
+    },
+    {
+      "text": "WRAL WeatherCenter Forecast",
+      "url": "/raleigh-cary-durham-nc-weather-forecast/1076424/"
+    },
+    {
+      "text": "Home affordability takes another plunge in Raleigh - but buying demand remains strong, agents say",
+      "url": "https://wraltechwire.com/?p=206008"
+    },
+    {
+      "text": "First-time home buyers frustrated by housing grant hurdles",
+      "url": "/first-time-home-buyers-frustrated-by-housing-grant-hurdles/20349786/"
+    },
+    {
+      "text": "Complicated rules, rising home prices keep assistance out of reach for homebuyers",
+      "url": "/complicated-rules-rising-home-prices-keep-assistance-out-of-reach-for-homebuyers/20350545/"
+    },
+    {
+      "text": "Hot housing: Investors and 'flippers' buying record number of Triangle homes",
+      "url": "https://wraltechwire.com/?p=205886"
+    },
+    {
+      "text": "Wake County real estate market sees a price pause - agents still predict prices will rise",
+      "url": "https://wraltechwire.com/?p=205686"
+    },
+    {
+      "text": "NC businessman selling his newly-purchased mansion for $5.9 million ",
+      "url": "/nc-businessman-selling-his-newly-purchased-mansion-for-5-9-million/20336932/"
+    },
+    {
+      "text": "\n    \t\t\n        ",
+      "url": "/weather-forecast-Raleigh-Durham-Fayetteville/19792729/"
+    },
+    {
+      "text": "Drive slowly: Parts of central NC under dense fog advisory until 9 a.m. ",
+      "url": "/weather-forecast-Raleigh-Durham-Fayetteville/19792729/"
+    },
+    {
+      "text": "\n                                \n                            ",
+      "url": "/take-a-look-at-cary-s-new-luxury-movie-theater-before-it-opens-at-the-fenton-development/20353953/"
+    },
+    {
+      "text": "Take a look at Cary's new luxury movie theater before it opens this week",
+      "url": "/take-a-look-at-cary-s-new-luxury-movie-theater-before-it-opens-at-the-fenton-development/20353953/"
+    },
+    {
+      "text": "Site of first Char-Grill in downtown Raleigh to be torn down, rebuilt alongside mixed-use 20-story building",
+      "url": "/site-of-first-char-grill-in-downtown-raleigh-to-be-torn-down-rebuilt-alongside-mixed-use-20-story-building/20354708/"
+    },
+    {
+      "text": "Durham's East End Connector to open to drivers this afternoon  ",
+      "url": "/durhams-east-end-connector-to-open-to-drivers-this-afternoon/20354564/"
+    },
+    {
+      "text": "'It was glowing.' Neighbors spring into action to save Raleigh family from burning home ",
+      "url": "/it-was-glowing-neighbors-spring-into-action-to-save-raleigh-family-from-burning-home/20352869/"
+    },
+    {
+      "text": "CBC OPINIONEditorial: Neglect",
+      "url": "/editorial-neglect/20354250/"
+    },
+    {
+      "text": "Wegmans eliminating plastic bags at all North Carolina stores starting Friday, July 1 ",
+      "url": "/wegmans-eliminating-plastic-bags-at-all-north-carolina-stores-starting-friday-july-1/20327984/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Hemp legalization, elevator safety, alcohol bills and more head to Cooper for signature \n                        ",
+      "url": "/hemp-legalization-elevator-safety-alcohol-bills-and-more-head-to-cooper-for-signature/20353947/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Arsenic, lead, mercury: Push to keep toxic metals out of baby food\n                        ",
+      "url": "/arsenic-lead-mercury-push-to-keep-toxic-metals-out-of-baby-food/20352255/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            WRAL Documentary Durham Under Fire investigates how city is fighting complex issue of gun violence \n                        ",
+      "url": "/wral-documentary-durham-under-fire-investigates-how-city-is-fighting-complex-issue-of-gun-violence/20350099/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Raleigh restaurants face delays due to supply-chain disruptions, rising costs and labor shortages\n                        ",
+      "url": "/raleigh-restaurants-face-delays-due-to-supply-chain-disruptions-rising-costs-and-labor-shortages/20350105/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Sharing your contact info to get a drink at a food-less bar? NC law seeks to overhaul requirement\n                        ",
+      "url": "/sharing-your-contact-info-to-get-a-drink-at-a-food-less-bar-nc-law-seeks-to-overhaul-requirement/20350312/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            5 North Carolina legislative races to watch after abortion ruling\n                        ",
+      "url": "/5-north-carolina-legislative-races-to-watch-after-abortion-ruling/20346789/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            How long will abortion remain legal in NC? State Republicans weigh next steps\n                        ",
+      "url": "/how-long-will-abortion-remain-legal-in-nc-state-republicans-weigh-next-steps/20346274/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            How sports gambling bills fell apart in NC House and what could come next\n                        ",
+      "url": "/how-sports-gambling-bills-fell-apart-in-nc-house-and-what-could-come-next/20345176/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Wake County's landfill is expected to reach capacity in the next 20 years. Where will the county put all its trash?\n                        ",
+      "url": "/wake-county-s-landfill-is-expected-to-reach-capacity-in-the-next-20-years-where-will-the-county-put-all-its-trash/20344720/"
+    },
+    {
+      "text": "\n                    View More Video \n                ",
+      "url": "/video"
+    },
+    {
+      "text": "\n                    \n                    WRAL Doc: Durham Under Fire \n                 ",
+      "url": "/wral-doc-durham-under-fire/20346415/"
+    },
+    {
+      "text": "\n                    \n                    North Carolina working to entice chip maker to Chatham County\n                 ",
+      "url": "/north-carolina-working-to-entice-chip-maker-to-chatham-county/20354085/"
+    },
+    {
+      "text": "\n                    \n                    Local woman warns about dangers of impaired drivers\n                 ",
+      "url": "/local-woman-warns-about-dangers-of-impaired-drivers/20354013/"
+    },
+    {
+      "text": "\n                    \n                    'Never saw this coming:' Family says commissioner went to same church as teen, bought her gifts \n                 ",
+      "url": "/never-saw-this-coming-family-says-commissioner-went-to-same-church-as-teen-bought-her-gifts/20353994/"
+    },
+    {
+      "text": "\n                    \n                    Pickleball gaining popularity across North Carolina \n                 ",
+      "url": "/pickleball-gaining-popularity-across-north-carolina/20353978/"
+    },
+    {
+      "text": "\n                    \n                    Family of murdered aspiring chef now bringing his dream to life\n                 ",
+      "url": "/family-of-murdered-aspiring-chef-now-bringing-his-dream-to-life/20353956/"
+    },
+    {
+      "text": "Tar Heel Traveler: 20 places in 20 days",
+      "url": "/tar-heel-traveler-20-places-in-20-days/20263626/"
+    },
+    {
+      "text": "COVID vaccine FAQ, locations",
+      "url": "/coronavirus/where-can-I-get-the-covid-19-vaccine-in-NC-Raleigh-Durham-Fayetteville/19466004/"
+    },
+    {
+      "text": "Top picnic spots in Raleigh",
+      "url": "/the-top-7-picnic-spots-in-raleigh/20304849/"
+    },
+    {
+      "text": "Summer fun in NC",
+      "url": "/summer-in-north-carolina-your-guide-to-festivals-concerts-pools-and-more/20289840/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Bribery conviction overturned in major North Carolina political scandal\n                        ",
+      "url": "/bribery-conviction-overturned-in-major-north-carolina-political-scandal/20353220/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Family hopes to launch food truck in memory of aspiring chef murdered in Rocky Mount\n                        ",
+      "url": "/family-of-aspiring-chef-killed-in-rocky-mount-working-to-live-his-dream-of-owning-a-food-truck/20353903/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            14 family events coming up this summer in the Raleigh area \n                        ",
+      "url": "/14-family-events-coming-up-this-summer-in-the-raleigh-area/20351793/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            What the 'use by' date can tell you about safely storing your food \n                        ",
+      "url": "/what-the-use-by-date-can-tell-you-about-safely-storing-your-food/20350586/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Stranger Things: Visit the spooky real-life 'Mirkwood' in Durham - and other real spots from the show \n                        ",
+      "url": "/stranger-things-visit-the-spooky-real-life-mirkwood-in-durham-and-other-real-spots-from-the-show/20347767/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Get ready for fireworks this weekend at DBAP\n                        ",
+      "url": "/get-ready-for-fireworks-this-weekend-at-dbap/20350020/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Cary pizza restaurant to close with plans to go mobile\n                        ",
+      "url": "/cary-pizza-restaurant-to-close-with-plans-to-go-mobile/20344384/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            A year ago today, the Raleigh zebra cobra slithered into the news cycle\n                        ",
+      "url": "/a-year-ago-today-the-raleigh-zebra-cobra-slithered-into-the-news-cycle/20353217/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Test drive the new WRAL.com -- faster, cleaner and more modern\n                        ",
+      "url": "/test-drive-the-new-wral-com-faster-cleaner-and-more-modern/20296380/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            Find your fireworks: List of Fourth of July events\n                        ",
+      "url": "/list-triangle-fourth-of-july-events/19730904/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            A roof over their head: Churches use tiny homes for homeless\n                        ",
+      "url": "/a-roof-over-their-head-churches-use-tiny-homes-for-homeless/20347301/"
+    },
+    {
+      "text": "\n                            \n                                                        \n                        \n                                                    \n                            In their words: What NC leaders want to see following US Supreme Court abortion ruling\n                        ",
+      "url": "/in-their-words-what-nc-leaders-want-to-see-following-us-supreme-court-abortion-ruling/20346514/"
+    },
+    {
+      "text": "\n                Find News Near Me\n            ",
+      "url": "/news/page/13696752/"
+    },
+    {
+      "text": "Local News",
+      "url": "/news/local/"
+    },
+    {
+      "text": "Trial begins for local rapper accused of killing 9-year-old boy in Durham ",
+      "url": "/trial-begins-for-local-rapper-accused-of-killing-9-year-old-boy-in-durham/20354081/"
+    },
+    {
+      "text": "NC Governor's Highway Safety Program hopes one woman's story of survival will discourage driving while impaired",
+      "url": "/nc-governor-s-highway-safety-program-hopes-one-woman-s-story-of-survival-will-discourage-driving-while-impaired/20353898/"
+    },
+    {
+      "text": "Cary man wanted after his wallet, ID found near scene of SC bank robbery",
+      "url": "/cary-man-wanted-after-his-wallet-id-found-near-scene-of-sc-bank-robbery/20353837/"
+    },
+    {
+      "text": "1 shot outside Durham apartment complex; roads closed in east Durham",
+      "url": "/1-shot-outside-durham-apartment-complex-roads-closed-in-east-durham/20353703/"
+    },
+    {
+      "text": "Sportsbook could be part of PNC Arena's enhancement project",
+      "url": "https://www.wralsportsfan.com/sportsbook-could-be-part-of-pnc-arena-s-enhancement-project/20353057/"
+    },
+    {
+      "text": "NYC producer of kelp yarns, AlgiKnit, moves HQ to Triangle - and just closed $13M Series A",
+      "url": "https://wraltechwire.com/?p=205852"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/news/local/"
+    },
+    {
+      "text": "Politifact",
+      "url": "/politifact/18768740/"
+    },
+    {
+      "text": "Fact check: Biden says abortion ruling makes U.S. 'an outlier among developed nations'",
+      "url": "/fact-check-biden-says-abortion-ruling-makes-u-s-an-outlier-among-developed-nations/20350123/"
+    },
+    {
+      "text": "Fact check: Has the Supreme Court ever taken away a constitutional right?",
+      "url": "/fact-check-has-the-supreme-court-ever-taken-away-a-constitutional-right/20340137/"
+    },
+    {
+      "text": "Fact check: Is the U.S. spending millions to guard unused border wall materials?",
+      "url": "/fact-check-is-the-u-s-spending-millions-to-guard-unused-border-wall-materials/20339478/"
+    },
+    {
+      "text": "Fact check: When Biden took office, how many Americans were on unemployment benefits?",
+      "url": "/fact-check-when-biden-took-office-how-many-americans-were-on-unemployment-benefits/20335383/"
+    },
+    {
+      "text": "Fact check: Carlson says no January 6 attacker was carrying a firearm",
+      "url": "/fact-check-carlson-says-no-january-6-attacker-was-carrying-a-firearm/20329756/"
+    },
+    {
+      "text": "Fact check: Is North Carolina home to 25% of U.S. hemp farmland?",
+      "url": "/fact-check-is-north-carolina-home-to-25-of-u-s-hemp-farmland/20328469/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/politifact/18768740/"
+    },
+    {
+      "text": "Nation/World",
+      "url": "/news/national_world/national/"
+    },
+    {
+      "text": "",
+      "url": "/jan-6-committee-subpoenas-pat-cipollone-former-wh-counsel/20354049/"
+    },
+    {
+      "text": "Jan. 6 panel subpoenas counsel who resisted Trump schemes",
+      "url": "/jan-6-committee-subpoenas-pat-cipollone-former-wh-counsel/20354049/"
+    },
+    {
+      "text": "Mexican migrant in Texas tragedy hoped to reach kin in Ohio",
+      "url": "/mexican-migrant-in-texas-tragedy-hoped-to-reach-kin-in-ohio/20353855/"
+    },
+    {
+      "text": "Louisiana AG warns doctors against performing abortions",
+      "url": "/louisiana-ag-warns-doctors-against-performing-abortions/20353778/"
+    },
+    {
+      "text": "Lone surviving attacker in Paris massacre guilty of murder",
+      "url": "/verdict-looms-in-trial-over-2015-paris-extremist-attacks/20352842/"
+    },
+    {
+      "text": "Most say nation on wrong track, including Dems: AP-NORC poll",
+      "url": "/most-say-nation-on-wrong-track-including-dems-ap-norc-poll/20353431/"
+    },
+    {
+      "text": "NATO deems Russia its 'most significant and direct threat'",
+      "url": "/nato-chief-alliances-faces-biggest-challenge-since-wwii/20352809/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/news/national_world/national/"
+    },
+    {
+      "text": "War in Ukraine",
+      "url": "/ukraine-russia/20157309/"
+    },
+    {
+      "text": "",
+      "url": "/ukrainian-survivor-only-a-monster-would-attack-a-mall/20352029/"
+    },
+    {
+      "text": "Ukrainian survivor: Only a 'monster' would attack a mall",
+      "url": "/ukrainian-survivor-only-a-monster-would-attack-a-mall/20352029/"
+    },
+    {
+      "text": "US boosting military presence in Europe amid Russia threat",
+      "url": "/biden-us-boosting-force-posture-in-europe-for-russia-threat/20352898/"
+    },
+    {
+      "text": "Syria to recognize Ukraine\u2019s Luhansk and Donetsk regions",
+      "url": "/syria-to-recognize-ukraine-s-luhansk-and-donetsk-regions/20353391/"
+    },
+    {
+      "text": "'Most surreal feeling.' Members of the 82nd Airborne Division returning from Poland reunited with loved ones",
+      "url": "/most-surreal-feeling-members-of-the-82nd-airborne-division-returning-from-poland-reunited-with-loved-ones/20350357/"
+    },
+    {
+      "text": "Macron says Russia can't win in Ukraine after strike on mall",
+      "url": "/russian-missile-strike-hits-crowded-shopping-mall-in-ukraine/20351088/"
+    },
+    {
+      "text": "G-7 leaders united behind Ukraine, aim at Kremlin oil money",
+      "url": "/g7-leaders-wrap-up-summit-meant-to-bolster-ukraine-support/20351122/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/ukraine-russia/20157309/"
+    },
+    {
+      "text": "\n                        \n                    ",
+      "url": "http://www.wralsportsfan.com"
+    },
+    {
+      "text": "",
+      "url": "https://www.wralsportsfan.com/the-stars-are-out-in-cary-with-the-2022-collegiate-national-team-training-camp-underway/20354370/"
+    },
+    {
+      "text": "The stars are out in Cary with the 2022 Collegiate National Team Training Camp underway",
+      "url": "https://www.wralsportsfan.com/the-stars-are-out-in-cary-with-the-2022-collegiate-national-team-training-camp-underway/20354370/"
+    },
+    {
+      "text": "Bulls best Knights 6-2",
+      "url": "https://www.wralsportsfan.com/bulls-best-knights-6-2/20354273/"
+    },
+    {
+      "text": "Williams, UNC's Larry Miller headed to college hoops Hall",
+      "url": "https://www.wralsportsfan.com/williams-calhoun-among-coaches-headed-to-college-hoops-hall/20353475/"
+    },
+    {
+      "text": "NCFC fall to Greenville Triumph SC",
+      "url": "https://www.wralsportsfan.com/ncfc-fall-to-greenville-triumph-sc/20354247/"
+    },
+    {
+      "text": "Heritage QB, NC State commit Lex Thomas enters senior season on a mission",
+      "url": "https://www.highschoolot.com/heritage-qb-nc-state-commit-lex-thomas-enters-senior-season-on-a-mission/20346124/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "http://www.wralsportsfan.com/"
+    },
+    {
+      "text": "\n                        \n                    ",
+      "url": "/news/state/nccapitol/"
+    },
+    {
+      "text": "",
+      "url": "/as-session-ticks-away-dim-prospects-for-medicaid-expansion/20354015/"
+    },
+    {
+      "text": "As session ticks away, dim prospects for Medicaid expansion",
+      "url": "/as-session-ticks-away-dim-prospects-for-medicaid-expansion/20354015/"
+    },
+    {
+      "text": "NC budget proposal stockpiles cash to tackle inflation",
+      "url": "/nc-budget-proposal-stockpiles-cash-to-tackle-inflation/20353605/"
+    },
+    {
+      "text": "$6M would go to light-based COVID treatment under proposed NC budget",
+      "url": "/coronavirus/6m-would-go-to-light-based-covid-treatment-under-proposed-nc-budget/20353492/"
+    },
+    {
+      "text": "NC House passes its own plan for Medicaid expansion, raising stakes in standoff with Senate ",
+      "url": "/nc-house-passes-its-own-plan-for-medicaid-expansion-raising-stakes-in-standoff-with-senate/20352301/"
+    },
+    {
+      "text": "Bill to bolster communication between NC prison officials and ICE clears House panel",
+      "url": "/bill-to-bolster-communication-between-nc-prison-officials-and-ice-clears-house-panel/20352240/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/news/state/nccapitol/blog/8915553/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/entertainment/"
+    },
+    {
+      "text": "",
+      "url": "/cameron-diaz-is-coming-out-of-retirement-thanks-to-jamie-foxx/20353833/"
+    },
+    {
+      "text": "Cameron Diaz is coming out of retirement, thanks to Jamie Foxx",
+      "url": "/cameron-diaz-is-coming-out-of-retirement-thanks-to-jamie-foxx/20353833/"
+    },
+    {
+      "text": "10 Things to do with your kids this weekend in NC (July 1-3)",
+      "url": "/10-things-to-do-with-your-kids-this-weekend-in-nc-july-1-3/20331619/"
+    },
+    {
+      "text": "R. Kelly timeline: Shining star to convicted sex trafficker",
+      "url": "/r-kelly-timeline-shining-star-to-convicted-sex-trafficker/20352734/"
+    },
+    {
+      "text": "Museums, patio dining, water balloons and more: You don't need a pool to stay cool this summer",
+      "url": "/museums-patio-dining-water-balloons-and-more-you-don-t-need-a-pool-to-stay-cool-this-summer/20289744/"
+    },
+    {
+      "text": "Chris Pratt picks military veterans for 'The Terminal List'",
+      "url": "/chris-pratt-picks-military-veterans-for-the-terminal-list/20351711/"
+    },
+    {
+      "text": "Lizzo called Beyonc\u00e9 her 'North Star' during her 'Carpool Karaoke' appearance",
+      "url": "/lizzo-called-beyonce-her-north-star-during-her-carpool-karaoke-appearance/20352064/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/entertainment/"
+    },
+    {
+      "text": "\n                        \n                    ",
+      "url": "/5onyourside/smartshopper/"
+    },
+    {
+      "text": "",
+      "url": "/early-amazon-prime-day-sales-live-now-ring-alarm-security-kits-music-unlimited-audible-premium-plus-smart-tvs/20340274/"
+    },
+    {
+      "text": "Early Amazon Prime Day sales live now: Ring Alarm Security Kits, Music Unlimited, Audible Premium Plus, Smart Tvs",
+      "url": "/early-amazon-prime-day-sales-live-now-ring-alarm-security-kits-music-unlimited-audible-premium-plus-smart-tvs/20340274/"
+    },
+    {
+      "text": "Harris Teeter deals June 29-July 5: Chicken breast, pork roast, cheese, ice cream, veggie burgers, 5-day sale, Buy 5 Save $5 promo",
+      "url": "/harris-teeter-deals-june-29-july-5-chicken-breast-pork-roast-cheese-ice-cream-veggie-burgers-5-day-sale-buy-5-save-5-promo/20352507/"
+    },
+    {
+      "text": "Food Lion deals June 29-July 5: Corn, blackberries, chicken leg quarters, frozen turkey breast, ice cream, cereal, 4-day sale",
+      "url": "/food-lion-deals-june-29-july-5-corn-blackberries-chicken-leg-quarters-frozen-turkey-breast-ice-cream-cereal-4-day-sale/20352274/"
+    },
+    {
+      "text": "ALDI deals June 29-July 5: Red grapes, strawberries, watermelon, ground beef, hot dogs, sliced cheddar, mustard, graham crackers",
+      "url": "/aldi-deals-june-29-july-5-red-grapes-strawberries-watermelon-ground-beef-hot-dogs-sliced-cheddar-mustard-graham-crackers/20353446/"
+    },
+    {
+      "text": "Lidl deals June 29-July 5: Ground beef, pork chops, sausage, deli sliced cheese, ice cream, marshmallows, 4-day sale",
+      "url": "/lidl-deals-june-29-july-5-ground-beef-pork-chops-sausage-deli-sliced-cheese-ice-cream-marshmallows-4-day-sale/20353520/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/5onyourside/smartshopper/blog/6543336/"
+    },
+    {
+      "text": "\n                        \n                    ",
+      "url": "/lifestyles/goaskmom/"
+    },
+    {
+      "text": "",
+      "url": "/know-when-it-s-time-to-go-from-a-pediatrician-to-an-adult-doctor/20333122/"
+    },
+    {
+      "text": "Know when it's time to go from a pediatrician to an adult doctor",
+      "url": "/know-when-it-s-time-to-go-from-a-pediatrician-to-an-adult-doctor/20333122/"
+    },
+    {
+      "text": "Life coach: What is needed to best support your teens this summer?",
+      "url": "/life-coach-what-is-needed-to-best-support-your-teens-this-summer/20353016/"
+    },
+    {
+      "text": "Tara Lynn: Love lessons from my pre-schooler",
+      "url": "/coronavirus/tara-lynn-love-lessons-from-my-pre-schooler/20351688/"
+    },
+    {
+      "text": "Meet the minions and Gru in Cary on Saturday",
+      "url": "/meet-the-minions-and-gru-in-cary-on-saturday/20349835/"
+    },
+    {
+      "text": "Meet this mom: Stephanie Farley",
+      "url": "/meet-this-mom-stephanie-farley/20345983/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/lifestyles/goaskmom/blog/6754024/"
+    },
+    {
+      "text": "\n        View More \n    ",
+      "url": "goodnews"
+    },
+    {
+      "text": "\n                    \n                    Couple celebrates 79 years of marriage \n                 ",
+      "url": "/couple-celebrates-79-years-of-marriage/20353829/"
+    },
+    {
+      "text": "\n                    \n                    Kitten pulled from a dumpster fire in Las Vegas has a new home\n                 ",
+      "url": "/kitten-pulled-from-a-dumpster-fire-in-las-vegas-has-a-new-home/20353115/"
+    },
+    {
+      "text": "\n                    \n                    NC animal shelter kicks off shelter buddies reading program\n                 ",
+      "url": "/nc-animal-shelter-kicks-off-shelter-buddies-reading-program/20352970/"
+    },
+    {
+      "text": "\n                    \n                    Beaufort County Habitat for Humanity gifts single mother a brand-new home \n                 ",
+      "url": "/beaufort-county-habitat-for-humanity-gifts-single-mother-a-brand-new-home/20352959/"
+    },
+    {
+      "text": "\n                    \n                    Fort Bragg soldiers reunited with families following deployment to Europe\n                 ",
+      "url": "/fort-bragg-soldiers-reunited-with-families-following-deployment-to-europe/20352446/"
+    },
+    {
+      "text": "\n                    \n                    Durham's unarmed responder program launches\n                 ",
+      "url": "/durham-s-unarmed-responder-program-launches/20351705/"
+    },
+    {
+      "text": "\n                        \n                    ",
+      "url": "/5onyourside/"
+    },
+    {
+      "text": "How to get control of your energy bill, and how to get help if you can't",
+      "url": "/how-to-get-control-of-your-energy-bill-and-how-to-get-help-if-you-can-t/20353887/"
+    },
+    {
+      "text": "Overloaded with emails, others digital clutter? 5 On Your Side shares ways to tame your inbox.",
+      "url": "/overloaded-with-emails-others-digital-clutter-5-on-your-side-shares-ways-to-tame-your-inbox/20352196/"
+    },
+    {
+      "text": "5 On Your Side shares ways to clear your digital clutter ",
+      "url": "/clear-your-digital-clutter/20351985/"
+    },
+    {
+      "text": "How long your food is really good for ",
+      "url": "/how-long-your-food-is-really-good-for/20350598/"
+    },
+    {
+      "text": "Avoid payment app pitfalls",
+      "url": "/avoid-payment-app-pitfalls/20350474/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/5onyourside/"
+    },
+    {
+      "text": "\n                        \n                    ",
+      "url": "https://www.wraltechwire.com/"
+    },
+    {
+      "text": "",
+      "url": "https://wraltechwire.com/?p=205137"
+    },
+    {
+      "text": "Millennials are on the move \u2013 but cities matter more than states",
+      "url": "https://wraltechwire.com/?p=205137"
+    },
+    {
+      "text": "Behind this week's $1.6B 'bright' deal with Brightly Software's CEO Kevin Kemmerer",
+      "url": "https://wraltechwire.com/?p=205998"
+    },
+    {
+      "text": "Raleigh startup VitalFlo partners with Bangalore, India firm to monitor respiratory health, air quality",
+      "url": "https://wraltechwire.com/?p=206005"
+    },
+    {
+      "text": "Work weary? Try the 90-second refresh and get some 'Ahhhhhh' back into your day",
+      "url": "https://wraltechwire.com/?p=205996"
+    },
+    {
+      "text": "FCC commissioner calls on Apple and Google to remove TikTok from their app stores",
+      "url": "https://wraltechwire.com/?p=206006"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "https://www.wraltechwire.com/"
+    },
+    {
+      "text": "\n                        \n                    ",
+      "url": "/7864133/"
+    },
+    {
+      "text": "History of Lake Junaluska involves Native American chief, U.S. president ",
+      "url": "/history-of-lake-junaluska-involves-native-american-chief-u-s-president/20352237/"
+    },
+    {
+      "text": "A tribute to late Raleigh artist, award-winning weightlifter Ronald Ragland",
+      "url": "/a-tribute-to-late-raleigh-artist-award-winning-weightlifter-ronald-ragland/20350538/"
+    },
+    {
+      "text": "Popular barbecue restaurant near Salisbury filled with vintage memorabilia ",
+      "url": "/popular-barbecue-restaurant-near-salisbury-filled-with-vintage-memorabilia/20345204/"
+    },
+    {
+      "text": "Chatham County community swears by natural springs' healing power ",
+      "url": "/chatham-county-community-swears-by-natural-springs-healing-power/20343339/"
+    },
+    {
+      "text": "Museum in Concord dedicated to Ford Mustang ",
+      "url": "/museum-in-concord-dedicated-to-ford-mustang/20341434/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/tar-heel-traveler/17382329/"
+    },
+    {
+      "text": "\n                        \n                    ",
+      "url": "/18951066/"
+    },
+    {
+      "text": "",
+      "url": "https://hometowncarolina.givebacks.com/"
+    },
+    {
+      "text": "Support local businesses, communities, non-profits through the Hometown Carolina store",
+      "url": "https://hometowncarolina.givebacks.com/"
+    },
+    {
+      "text": "Gig East partnership brings digital accessibility to Wilson",
+      "url": "https://wraltechwire.com/?p=204480"
+    },
+    {
+      "text": "How two development projects are preserving the character of Edenton",
+      "url": "/how-two-development-projects-are-preserving-the-character-of-edenton/20044571/"
+    },
+    {
+      "text": "Welcome to Wilson: the next innovation hub in North Carolina",
+      "url": "/welcome-to-wilson-the-next-innovation-hub-in-north-carolina/20098281/"
+    },
+    {
+      "text": "New e-sports program introduced at William Peace University",
+      "url": "/new-e-sports-program-introduced-at-william-peace-university/20303289/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/18951066/"
+    },
+    {
+      "text": "Offbeat",
+      "url": "/news/strange/"
+    },
+    {
+      "text": "Big cats in urban jungle: LA mountain lions, Mumbai leopards",
+      "url": "/big-cats-in-urban-jungle-la-mountain-lions-mumbai-leopards/20354415/"
+    },
+    {
+      "text": "Trooper crawls into drainage pipe to rescue missing dog",
+      "url": "/trooper-crawls-into-drainage-pipe-to-rescue-missing-dog/20351794/"
+    },
+    {
+      "text": "Poisonous bite leads German police to farm with 110 snakes",
+      "url": "/poisonous-bite-leads-german-police-to-farm-with-110-snakes/20348722/"
+    },
+    {
+      "text": "Tie in Alabama GOP race means winner to be selected by lot",
+      "url": "/tie-in-alabama-gop-race-means-winner-to-be-selected-by-lot/20348679/"
+    },
+    {
+      "text": "View More \u00bb",
+      "url": "/news/strange/"
+    },
+    {
+      "text": "Johnston County commissioner arrested for indecent liberties knew child from church",
+      "url": "/johnston-county-commissioner-arrested-indecent-liberties-with-child-from-his-church/20353429/"
+    },
+    {
+      "text": "New US Supreme Court Justice officially sworn in at noon",
+      "url": "/high-court-noon-jackson-to-be-sworn-in-as-breyer-retires/20353751/"
+    },
+    {
+      "text": "Sheriff: Longtime NC firefighter shot and killed by his wife ",
+      "url": "/sheriff-longtime-nc-firefighter-shot-and-killed-by-his-wife/20354636/"
+    },
+    {
+      "text": "NYC, State of NY announce lawsuits against ghost gun retailers, including Lee County-based company",
+      "url": "/nyc-state-of-ny-announce-lawsuits-against-ghost-gun-retailers-including-lee-county-based-company/20354234/"
+    },
+    {
+      "text": "IBM",
+      "url": "https://markets.financialcontent.com/wral/?Page=QUOTE&Ticker=IBM"
+    },
+    {
+      "text": "Duke Energy",
+      "url": "https://markets.financialcontent.com/wral/?Page=QUOTE&Ticker=DUK"
+    },
+    {
+      "text": "BofA",
+      "url": "https://markets.financialcontent.com/wral/?Page=QUOTE&Ticker=BAC"
+    },
+    {
+      "text": "PNC Financial ",
+      "url": "https://markets.financialcontent.com/wral/?Page=QUOTE&Ticker=PNC"
+    },
+    {
+      "text": "WRAL30",
+      "url": "https://markets.financialcontent.com/wral/?Page=QUOTE&Ticker=WRAL30"
+    },
+    {
+      "text": "Symbol Lookup",
+      "url": "https://markets.financialcontent.com/wral/?Page=LOOKUP"
+    },
+    {
+      "text": "WRALTechWire 30",
+      "url": "https://markets.financialcontent.com/wral/?Page=Quote&Ticker=%24WRAL30"
+    },
+    {
+      "text": "Market Summary",
+      "url": "https://markets.financialcontent.com/wral/?Page=MARKETSUMMARY"
+    },
+    {
+      "text": "Market Movers",
+      "url": "https://markets.financialcontent.com/wral/?Page=MARKETMOVERS"
+    },
+    {
+      "text": "A-Z Stock Listings",
+      "url": "https://markets.financialcontent.com/wral/?Page=LISTINGS"
+    },
+    {
+      "text": "My Portfolio",
+      "url": "https://markets.financialcontent.com/wral/?Page=LOGIN"
+    },
+    {
+      "text": "My Watchlist",
+      "url": "https://markets.financialcontent.com/wral/?Page=MYWATCHLIST"
+    },
+    {
+      "text": "",
+      "url": "/traffic"
+    },
+    {
+      "text": "",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5400962872&iu=/6167"
+    },
+    {
+      "text": "MIX 101.5 WRAL-FM",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5400962872&iu=/6167"
+    },
+    {
+      "text": "",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5401322591&iu=/6167"
+    },
+    {
+      "text": "95.7 That Station",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5401322591&iu=/6167"
+    },
+    {
+      "text": "",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5401323497&iu=/6167"
+    },
+    {
+      "text": "99.9 The Fan",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5401323497&iu=/6167"
+    },
+    {
+      "text": "Video Central",
+      "url": "/video/"
+    },
+    {
+      "text": "WRAL WeatherCenter Forecast",
+      "url": "/raleigh-cary-durham-nc-weather-forecast/1076424/"
+    },
+    {
+      "text": "WRAL Morning News",
+      "url": "/latest-news-today/1082826/"
+    },
+    {
+      "text": "Previous Days",
+      "url": "/video/"
+    },
+    {
+      "text": "\n                        \n                            \n                        \n                        HighSchoolOT Honors...\n                    ",
+      "url": "https://www.highschoolot.com/highschoolot-honors-award-show-jun-18-2022/20337665/"
+    },
+    {
+      "text": "\n                        \n                            \n                        \n                        HighSchoolOT Honors:...\n                    ",
+      "url": "https://www.highschoolot.com/highschoolot-honors-red-carpet-jun-18-2022/20337497/"
+    },
+    {
+      "text": "\n                        \n                            \n                        \n                        Thunderstorms roll...\n                    ",
+      "url": "/thunderstorms-roll-through-central-north-carolina/20334018/"
+    },
+    {
+      "text": "\n                        \n                            \n                        \n                        Carolina Fear Fest 2022\n                    ",
+      "url": "/carolina-fear-fest-2022/20304621/"
+    },
+    {
+      "text": "\n                        \n                            \n                        \n                        NCFC \n                    ",
+      "url": "/ncfc/20296266/"
+    },
+    {
+      "text": "\n                        \n                            \n                        \n                        Boys Lacrosse:...\n                    ",
+      "url": "https://www.highschoolot.com/boys-lacrosse-middle-creek-vs-weddington-may-21-2022/20293469/"
+    },
+    {
+      "text": "More Photos",
+      "url": "/news/asset_gallery/13152146/"
+    },
+    {
+      "text": "\n        \n            \n                \n            \n            \n                Your Home for Live Local Sports\n            \n        ",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1640__zoneid=2__cb=4d5aa01583__oadest=https%3A%2F%2Fwww.wralsportsfan.com%2FWRAL-Sports-Plus%2F20098438%2F"
+    },
+    {
+      "text": "NCEL",
+      "url": "http://www.nc-educationlottery.org"
+    },
+    {
+      "text": "Powerball",
+      "url": "/entertainment/lottery/"
+    },
+    {
+      "text": "Mega Millions",
+      "url": "/entertainment/lottery/"
+    },
+    {
+      "text": "Cash 5",
+      "url": "/entertainment/lottery/"
+    },
+    {
+      "text": "View winning numbers \u00bb",
+      "url": "/entertainment/lottery/"
+    },
+    {
+      "text": "\n                                Out & About\n                                \n                            ",
+      "url": "/entertainment/out_and_about/"
+    },
+    {
+      "text": "Live Music in the Taproom",
+      "url": "/entertainment/out_and_about/event/20013214/"
+    },
+    {
+      "text": "MAKRS @ Golden Belt",
+      "url": "/entertainment/out_and_about/event/20160356/"
+    },
+    {
+      "text": "Wonderbop",
+      "url": "/entertainment/out_and_about/event/20160354/"
+    },
+    {
+      "text": "Hammered Trivia w/ Thor",
+      "url": "/entertainment/out_and_about/event/20052927/"
+    },
+    {
+      "text": "Movies",
+      "url": "http://www.wral.com/entertainment/out_and_about/page/4853892/?keywords=Keyword%2C+Event+or+Venue&location=City+or+ZIP&categories=73&page_number=1"
+    },
+    {
+      "text": "Restaurants",
+      "url": "http://www.wral.com/entertainment/out_and_about/page/4853892/?keywords=Keyword%2C+Event+or+Venue&location=City+or+ZIP&categories=77&page_number=1"
+    },
+    {
+      "text": "Calendar",
+      "url": "http://www.wral.com/entertainment/out_and_about/page/10004483/"
+    },
+    {
+      "text": "\n                        \n                            \n                        \n                        2021 Ram 1500\n                    ",
+      "url": "https://classifieds.wral.com/ct/6476347"
+    },
+    {
+      "text": "\n                        \n                            \n                        \n                        2011 Honda Accord Cpe\n                    ",
+      "url": "https://classifieds.wral.com/ct/6476013"
+    },
+    {
+      "text": "\n                        \n                            \n                        \n                        2020 Chevrolet Tahoe\n                    ",
+      "url": "https://classifieds.wral.com/ct/6438779"
+    },
+    {
+      "text": "Foundation Vent Replacement",
+      "url": "http://classifieds.wral.com/index.php?a=2&b=6230037"
+    },
+    {
+      "text": "New & Refurbish Appliances Washer and Dryer, stove",
+      "url": "http://classifieds.wral.com/index.php?a=2&b=6455683"
+    },
+    {
+      "text": "Home Construction and Renovation",
+      "url": "http://classifieds.wral.com/index.php?a=2&b=55439"
+    },
+    {
+      "text": "Driveways/Grading/Roads/Trenching Work and more.",
+      "url": "http://classifieds.wral.com/index.php?a=2&b=6473015"
+    },
+    {
+      "text": "View All Classifieds",
+      "url": "http://classifieds.wral.com/"
+    },
+    {
+      "text": "Click to See All CONTESTS available from WRAL.com",
+      "url": "http://pubads.g.doubleclick.net/gampad/clk?id=40728619&iu=/6167"
+    },
+    {
+      "text": "Progressive Heating & Air - $49 HVAC Tune-Up",
+      "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5261049005&iu=/6167"
+    },
+    {
+      "text": "Bio Jobs: Find a job that changes lives, even yours.",
+      "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5992978691&iu=/6167"
+    },
+    {
+      "text": "Aluminum Company - Get A Free Estimate",
+      "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5827436569&iu=/6167"
+    },
+    {
+      "text": "Capital Financial - Learn how to secure lifetime retirement income.",
+      "url": "http://pubads.g.doubleclick.net/gampad/clk?id=5375130231&iu=/6167"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/johnston-county-commissioner-arrested-indecent-liberties-with-child-from-his-church/20353429/"
+    },
+    {
+      "text": "Johnston County commissioner arrested for indecent liberties knew child from church",
+      "url": "https://www.wral.com/johnston-county-commissioner-arrested-indecent-liberties-with-child-from-his-church/20353429/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/it-was-glowing-neighbors-spring-into-action-to-save-raleigh-family-from-burning-home/20352869/"
+    },
+    {
+      "text": "'It was glowing.' Neighbors spring into action to save Raleigh family from burning home",
+      "url": "https://www.wral.com/it-was-glowing-neighbors-spring-into-action-to-save-raleigh-family-from-burning-home/20352869/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/eeoc-2-fired-for-not-joining-company-christian-prayer/20351866/"
+    },
+    {
+      "text": "EEOC: 2 fired for not joining NC company in daily Christian prayer",
+      "url": "https://www.wral.com/eeoc-2-fired-for-not-joining-company-christian-prayer/20351866/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/bribery-conviction-overturned-in-major-north-carolina-political-scandal/20353220/"
+    },
+    {
+      "text": "Bribery conviction overturned in major North Carolina political scandal",
+      "url": "https://www.wral.com/bribery-conviction-overturned-in-major-north-carolina-political-scandal/20353220/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/police-man-fires-gun-inside-nc-target-after-being-assaulted-by-group-of-men/20352955/"
+    },
+    {
+      "text": "Police: Man fires gun inside NC Target after being assaulted by group of men",
+      "url": "https://www.wral.com/police-man-fires-gun-inside-nc-target-after-being-assaulted-by-group-of-men/20352955/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/science-experiment-explosion-leaves-nc-son-mother-with-3rd-degree-burns/20353518/"
+    },
+    {
+      "text": "Science experiment explosion leaves NC son, mother with 3rd-degree burns",
+      "url": "https://www.wral.com/science-experiment-explosion-leaves-nc-son-mother-with-3rd-degree-burns/20353518/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/raises-for-state-employees-preparations-for-recession-in-proposed-state-budget/20352092/"
+    },
+    {
+      "text": "Raises for state employees, preparations for recession in proposed state budget",
+      "url": "https://www.wral.com/raises-for-state-employees-preparations-for-recession-in-proposed-state-budget/20352092/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/cary-man-wanted-after-his-wallet-id-found-near-scene-of-sc-bank-robbery/20353837/"
+    },
+    {
+      "text": "Cary man wanted after his wallet, ID found near scene of SC bank robbery",
+      "url": "https://www.wral.com/cary-man-wanted-after-his-wallet-id-found-near-scene-of-sc-bank-robbery/20353837/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/sheriff-longtime-nc-firefighter-shot-and-killed-by-his-wife/20354636/"
+    },
+    {
+      "text": "Sheriff: Longtime NC firefighter shot and killed by his wife",
+      "url": "https://www.wral.com/sheriff-longtime-nc-firefighter-shot-and-killed-by-his-wife/20354636/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/take-a-look-at-cary-s-new-luxury-movie-theater-before-it-opens-at-the-fenton-development/20353953/"
+    },
+    {
+      "text": "Take a look at Cary's new luxury movie theater before it opens this week",
+      "url": "https://www.wral.com/take-a-look-at-cary-s-new-luxury-movie-theater-before-it-opens-at-the-fenton-development/20353953/"
+    },
+    {
+      "text": "                                                  \n                                             \n            ",
+      "url": "https://www.wral.com/trial-begins-for-local-rapper-accused-of-killing-9-year-old-boy-in-durham/20354081/"
+    },
+    {
+      "text": "Trial begins for local rapper accused of killing 9-year-old boy in Durham",
+      "url": "https://www.wral.com/trial-begins-for-local-rapper-accused-of-killing-9-year-old-boy-in-durham/20354081/"
+    },
+    {
+      "text": "",
+      "url": "/take-a-look-at-cary-s-new-luxury-movie-theater-before-it-opens-at-the-fenton-development/20353953/"
+    },
+    {
+      "text": "Take a look at Cary's new luxury movie theater before it opens this week",
+      "url": "/take-a-look-at-cary-s-new-luxury-movie-theater-before-it-opens-at-the-fenton-development/20353953/"
+    },
+    {
+      "text": "",
+      "url": "/bribery-conviction-overturned-in-major-north-carolina-political-scandal/20353220/"
+    },
+    {
+      "text": "Bribery conviction overturned in major North Carolina political scandal",
+      "url": "/bribery-conviction-overturned-in-major-north-carolina-political-scandal/20353220/"
+    },
+    {
+      "text": "",
+      "url": "/family-of-aspiring-chef-killed-in-rocky-mount-working-to-live-his-dream-of-owning-a-food-truck/20353903/"
+    },
+    {
+      "text": "Family hopes to launch food truck in memory of aspiring chef murdered in Rocky Mount",
+      "url": "/family-of-aspiring-chef-killed-in-rocky-mount-working-to-live-his-dream-of-owning-a-food-truck/20353903/"
+    },
+    {
+      "text": "",
+      "url": "/14-family-events-coming-up-this-summer-in-the-raleigh-area/20351793/"
+    },
+    {
+      "text": "14 family events coming up this summer in the Raleigh area ",
+      "url": "/14-family-events-coming-up-this-summer-in-the-raleigh-area/20351793/"
+    },
+    {
+      "text": "",
+      "url": "/what-the-use-by-date-can-tell-you-about-safely-storing-your-food/20350586/"
+    },
+    {
+      "text": "What the 'use by' date can tell you about safely storing your food ",
+      "url": "/what-the-use-by-date-can-tell-you-about-safely-storing-your-food/20350586/"
+    },
+    {
+      "text": "",
+      "url": "/stranger-things-visit-the-spooky-real-life-mirkwood-in-durham-and-other-real-spots-from-the-show/20347767/"
+    },
+    {
+      "text": "Stranger Things: Visit the spooky real-life 'Mirkwood' in Durham - and other real spots from the show ",
+      "url": "/stranger-things-visit-the-spooky-real-life-mirkwood-in-durham-and-other-real-spots-from-the-show/20347767/"
+    },
+    {
+      "text": "",
+      "url": "/get-ready-for-fireworks-this-weekend-at-dbap/20350020/"
+    },
+    {
+      "text": "Get ready for fireworks this weekend at DBAP",
+      "url": "/get-ready-for-fireworks-this-weekend-at-dbap/20350020/"
+    },
+    {
+      "text": "",
+      "url": "/cary-pizza-restaurant-to-close-with-plans-to-go-mobile/20344384/"
+    },
+    {
+      "text": "Cary pizza restaurant to close with plans to go mobile",
+      "url": "/cary-pizza-restaurant-to-close-with-plans-to-go-mobile/20344384/"
+    },
+    {
+      "text": "",
+      "url": "/a-year-ago-today-the-raleigh-zebra-cobra-slithered-into-the-news-cycle/20353217/"
+    },
+    {
+      "text": "A year ago today, the Raleigh zebra cobra slithered into the news cycle",
+      "url": "/a-year-ago-today-the-raleigh-zebra-cobra-slithered-into-the-news-cycle/20353217/"
+    },
+    {
+      "text": "",
+      "url": "/test-drive-the-new-wral-com-faster-cleaner-and-more-modern/20296380/"
+    },
+    {
+      "text": "Test drive the new WRAL.com -- faster, cleaner and more modern",
+      "url": "/test-drive-the-new-wral-com-faster-cleaner-and-more-modern/20296380/"
+    },
+    {
+      "text": "",
+      "url": "/list-triangle-fourth-of-july-events/19730904/"
+    },
+    {
+      "text": "List: Triangle Fourth of July events",
+      "url": "/list-triangle-fourth-of-july-events/19730904/"
+    },
+    {
+      "text": "",
+      "url": "/a-roof-over-their-head-churches-use-tiny-homes-for-homeless/20347301/"
+    },
+    {
+      "text": "A roof over their head: Churches use tiny homes for homeless",
+      "url": "/a-roof-over-their-head-churches-use-tiny-homes-for-homeless/20347301/"
+    },
+    {
+      "text": "",
+      "url": "/in-their-words-what-nc-leaders-want-to-see-following-us-supreme-court-abortion-ruling/20346514/"
+    },
+    {
+      "text": "In their words: What NC leaders want to see following US Supreme Court abortion ruling",
+      "url": "/in-their-words-what-nc-leaders-want-to-see-following-us-supreme-court-abortion-ruling/20346514/"
+    },
+    {
+      "text": "",
+      "url": "/search-histories-location-data-text-messages-how-personal-data-could-be-used-to-enforce-anti-abortion-laws/20346441/"
+    },
+    {
+      "text": "Search histories, location data, text messages: How personal data could be used to enforce anti-abortion laws",
+      "url": "/search-histories-location-data-text-messages-how-personal-data-could-be-used-to-enforce-anti-abortion-laws/20346441/"
+    },
+    {
+      "text": "",
+      "url": "/land-of-oz-opens-ticket-sales-for-wizard-of-oz-festival-in-september/20346376/"
+    },
+    {
+      "text": "Land of Oz opens ticket sales for 'Wizard of Oz Festival' in September ",
+      "url": "/land-of-oz-opens-ticket-sales-for-wizard-of-oz-festival-in-september/20346376/"
+    },
+    {
+      "text": "",
+      "url": "/mega-millions-drawing/6938100/"
+    },
+    {
+      "text": "Mega Millions Drawing",
+      "url": "/mega-millions-drawing/6938100/"
+    },
+    {
+      "text": "",
+      "url": "/latest-news-today/1082826/"
+    },
+    {
+      "text": "WRAL Morning News",
+      "url": "/latest-news-today/1082826/"
+    },
+    {
+      "text": "",
+      "url": "/students-learn-storytelling-via-social-media-in-unique-duke-course/20275558/"
+    },
+    {
+      "text": "Students learn storytelling via social media in unique Duke course",
+      "url": "/students-learn-storytelling-via-social-media-in-unique-duke-course/20275558/"
+    },
+    {
+      "text": "",
+      "url": "/evening-pick-3-pick-4-and-cash-5/1075494/"
+    },
+    {
+      "text": "Evening Pick 3 Pick 4 and Cash 5",
+      "url": "/evening-pick-3-pick-4-and-cash-5/1075494/"
+    },
+    {
+      "text": "",
+      "url": "/what-will-life-be-like-in-2071-new-museum-could-give-you-a-glimpse/20169107/"
+    },
+    {
+      "text": "What will life be like in 2071? New museum could give you a glimpse. ",
+      "url": "/what-will-life-be-like-in-2071-new-museum-could-give-you-a-glimpse/20169107/"
+    },
+    {
+      "text": "",
+      "url": "/powerball-drawing/1075498/"
+    },
+    {
+      "text": "Powerball Drawing",
+      "url": "/powerball-drawing/1075498/"
+    },
+    {
+      "text": "",
+      "url": "/guests-forced-to-leave-quality-inn-hotel-after-city-of-raleigh-deems-it-unsafe/20275405/"
+    },
+    {
+      "text": "Guests forced to leave Quality Inn hotel after city of Raleigh deems it unsafe",
+      "url": "/guests-forced-to-leave-quality-inn-hotel-after-city-of-raleigh-deems-it-unsafe/20275405/"
+    },
+    {
+      "text": "",
+      "url": "/wral-news-brief/1076526/"
+    },
+    {
+      "text": "WRAL News Brief",
+      "url": "/wral-news-brief/1076526/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wral.com/report-it/4519353/"
+    },
+    {
+      "text": "iOS",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1572__zoneid=3__cb=61ae8447ed__oadest=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fwral%2Fid300872165"
+    },
+    {
+      "text": "Google Play",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1572__zoneid=3__cb=61ae8447ed__oadest=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mylocaltv.wral"
+    },
+    {
+      "text": "View news brief",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1572__zoneid=3__cb=61ae8447ed__oadest=https%3A%2F%2Fwww.wral.com%2Fwral-news-brief%2F1076526%2F"
+    },
+    {
+      "text": "Send news tips",
+      "url": "https://www.wral.com/content/creative_services/promos/clickthru?oaparams=2__bannerid=1572__zoneid=3__cb=61ae8447ed__oadest=https%3A%2F%2Fwww.wral.com%2Freport-it%2F4519353%2F"
+    },
+    {
+      "text": "WRAL.com",
+      "url": "/"
+    },
+    {
+      "text": "About Us",
+      "url": "http://www.wral.com/wral-tv/aboutus/"
+    },
+    {
+      "text": "Help",
+      "url": "https://wral.zendesk.com/hc/en-us"
+    },
+    {
+      "text": "Contact Us",
+      "url": "http://www.wral.com/wral-tv/page/1007423/"
+    },
+    {
+      "text": "Advertising",
+      "url": "http://www.wraldigitalsolutions.com"
+    },
+    {
+      "text": "WRAL Digital Solutions",
+      "url": "http://www.wral.com/wral-digital-solutions/14995341/"
+    },
+    {
+      "text": "Ad Choices",
+      "url": "http://www.aboutads.info/choices/"
+    },
+    {
+      "text": "Mobile",
+      "url": "http://www.wral.com/wral-tv/page/5787234/"
+    },
+    {
+      "text": "Privacy",
+      "url": "http://www.wral.com/rs/page/14295546/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "http://cbc-raleigh.com/terms_use.asp"
+    },
+    {
+      "text": "Raleigh EEO",
+      "url": "https://www.capitolbroadcasting.com/2021-fcc-report-raleigh/"
+    },
+    {
+      "text": "Wilmington EEO",
+      "url": "https://www.wralsportsfan.com/19849614/"
+    },
+    {
+      "text": "FCC Public File",
+      "url": "https://www.wral.com/fcc-public-inspection-file/18195139/"
+    },
+    {
+      "text": "FCC Applications",
+      "url": "https://www.wral.com/wral-wraz-fcc-applications/19360711/"
+    },
+    {
+      "text": "Closed Captioning",
+      "url": "http://www.wral.com/wral-tv/aboutus/page/7249189/"
+    },
+    {
+      "text": "Contests",
+      "url": "http://www.wral.com/entertainment/contests/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t    Facebook\n\t\t\t\t\t\t    ",
+      "url": "https://facebook.com/wral-tv"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t    Twitter\n\t\t\t\t\t\t    ",
+      "url": "https://twitter.com/wral"
+    },
+    {
+      "text": "search by queryly ",
+      "url": "https://www.queryly.com/"
+    },
+    {
+      "text": "Advanced Search",
+      "url": "#"
+    },
+    {
+      "text": "Forgot your password?",
+      "url": "/rs/page/2173159/?s=password_recovery"
+    },
+    {
+      "text": "Register here.",
+      "url": "https://www.wral.com/rs/page/2173159/?s=registration"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1656547454,
+  "created": 1656635105,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -836,31 +836,315 @@
       "sha1": "2482e5b7ea2cf547d08d671bc65b210477d24c6c"
     },
     {
+      "name": "reuters-2022-06-29T21:35:09.962771-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552912",
+      "size": "36064",
+      "md5": "1679491972d4401b63e656787598a188",
+      "crc32": "073b99c2",
+      "sha1": "1ce5a036fd64c2168a3082cdd4b39b13dd720375",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-29T21:35:09.962771-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552913",
+      "size": "28487",
+      "md5": "9b7aedb22bcad42dab066c58e37ebddb",
+      "crc32": "2f454583",
+      "sha1": "f8e27e94dfd9312a971b114e878e673f955f000d",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-29T21:35:09.962771-04:00.jpg",
+      "source": "original",
+      "mtime": "1656552910",
+      "size": "221306",
+      "md5": "187e42752d1fd6a7c5fe6fd5549776c8",
+      "crc32": "cbc68065",
+      "sha1": "2bc7d512c546e27e11a960e00a07d9041147149b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-29T21:35:09.962771-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-29T21:35:09.962771-04:00.jpg",
+      "mtime": "1656552972",
+      "size": "8005",
+      "md5": "d68f119c2c67592f180eb6d7aae6899b",
+      "crc32": "a19c115f",
+      "sha1": "3c38aededcb7faa46a40ec1a7be7657518495268"
+    },
+    {
+      "name": "reuters-2022-06-29T23:47:49.614907-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560872",
+      "size": "36758",
+      "md5": "77b924cd0bf103ffcffac747e24adf09",
+      "crc32": "28c2df4a",
+      "sha1": "45be8e517109aa55500902f5b2ace724a93bec23",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-29T23:47:49.614907-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560873",
+      "size": "29435",
+      "md5": "5f5affac52c8158b6702584c9dca227f",
+      "crc32": "54c134d1",
+      "sha1": "7aa521db1e9c5e533d99d648b4523b5af019a266",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-29T23:47:49.614907-04:00.jpg",
+      "source": "original",
+      "mtime": "1656560870",
+      "size": "231548",
+      "md5": "1e2520a062361016f05d6a961ab235f4",
+      "crc32": "d465ecd2",
+      "sha1": "2971989c787ff23b0c5ae44ce8a225340db4d018",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-29T23:47:49.614907-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-29T23:47:49.614907-04:00.jpg",
+      "mtime": "1656560924",
+      "size": "8181",
+      "md5": "32549fa8cb3f1e8d6ab0e2f7347eb869",
+      "crc32": "638c8411",
+      "sha1": "da088adf12a623de8c0e6fcc2a820ab713cdaec2"
+    },
+    {
+      "name": "reuters-2022-06-30T01:16:09.646571-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566172",
+      "size": "39387",
+      "md5": "428c857a50f3e0f4fa76242323b0a44b",
+      "crc32": "f13ba6ab",
+      "sha1": "a84dae19094740eb851cf20f5ba4f8db05026ef5",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-30T01:16:09.646571-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566173",
+      "size": "27802",
+      "md5": "61021e8197e106b919b388f44ca8e08d",
+      "crc32": "482f7f5a",
+      "sha1": "bb2960196b54e3501224cba8990434ebd657d8b0",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-30T01:16:09.646571-04:00.jpg",
+      "source": "original",
+      "mtime": "1656566170",
+      "size": "226992",
+      "md5": "21138b6dc64305c6d4ea0fa4ecf5acac",
+      "crc32": "6c7d8a37",
+      "sha1": "5c37f7cc6255bc26253539aa02079ab6ecf2f91c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-30T01:16:09.646571-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-30T01:16:09.646571-04:00.jpg",
+      "mtime": "1656566265",
+      "size": "8337",
+      "md5": "60aca67ce7a7f44bac4573c4d627c54c",
+      "crc32": "e0a8df5f",
+      "sha1": "a3a8a91509aee09e4a4fe4fba2cbf6ad44754ca0"
+    },
+    {
+      "name": "reuters-2022-06-30T03:05:46.093367-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572750",
+      "size": "41483",
+      "md5": "bba23da26d83d7f272ceeaeba46bfb78",
+      "crc32": "d10c2316",
+      "sha1": "fed1ec01b85c644efa0d563b2d7b488024f0d55d",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-30T03:05:46.093367-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572752",
+      "size": "28601",
+      "md5": "89508dd27793d5d7223b75c247d32ae9",
+      "crc32": "cdbe8f15",
+      "sha1": "b422efca17cc7cdc86b02bf981aa644086830171",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-30T03:05:46.093367-04:00.jpg",
+      "source": "original",
+      "mtime": "1656572748",
+      "size": "221445",
+      "md5": "bc847f85e2cb21f33c2dea85904dbccb",
+      "crc32": "4a8e704f",
+      "sha1": "dcfd2238e64bffba7f1d1250f270e57285dc4541",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-30T03:05:46.093367-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-30T03:05:46.093367-04:00.jpg",
+      "mtime": "1656572814",
+      "size": "8198",
+      "md5": "9e5c9eeb7e6cb0fe52474f9247a761a6",
+      "crc32": "a7d7cdb1",
+      "sha1": "54874bd022f70848ff15a75eaf6216400c613960"
+    },
+    {
+      "name": "reuters-2022-06-30T05:09:22.086713-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580166",
+      "size": "42034",
+      "md5": "02c5b250b660b19170f2ee3b83781488",
+      "crc32": "f704764a",
+      "sha1": "36db14f2ad7c14343b8baffd2d0c8a3b7bb5513c",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-30T05:09:22.086713-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580167",
+      "size": "28118",
+      "md5": "07f4628989a45880f68186585700344d",
+      "crc32": "6beec516",
+      "sha1": "b55c260ab92f2903e1eb31d48c40a04603be0b7d",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-30T05:09:22.086713-04:00.jpg",
+      "source": "original",
+      "mtime": "1656580164",
+      "size": "215517",
+      "md5": "5b388620f17cef64dcf26debe32b44f7",
+      "crc32": "5b521f85",
+      "sha1": "a75d4a89b1c93cee3b792e094cf071a21b47622d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-30T05:09:22.086713-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-30T05:09:22.086713-04:00.jpg",
+      "mtime": "1656580230",
+      "size": "8165",
+      "md5": "6f87b9057d3dcf19254a417b43efaf02",
+      "crc32": "429f5f21",
+      "sha1": "620768cc436991ad4ec55bf60a9bff332a511a89"
+    },
+    {
+      "name": "reuters-2022-06-30T07:05:57.018380-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587160",
+      "size": "42055",
+      "md5": "0c0238e4d378035dd8d9c5c92803ec48",
+      "crc32": "dab536de",
+      "sha1": "a9bde753f5c4655a8fe4b097e1ae6a72e6b248de",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-30T07:05:57.018380-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587161",
+      "size": "27677",
+      "md5": "45a6bb42b7ac34dfb9382e5711c233a0",
+      "crc32": "a41d8d7e",
+      "sha1": "a903fc04a699a0cbcd9e69f05680e3e77f27501e",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-30T07:05:57.018380-04:00.jpg",
+      "source": "original",
+      "mtime": "1656587158",
+      "size": "216599",
+      "md5": "48397095416c4fcc9f56b588a08cee02",
+      "crc32": "0d0c7a2a",
+      "sha1": "0196f0dcd11c212d89d60cba840a392e0762fe80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-30T07:05:57.018380-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-30T07:05:57.018380-04:00.jpg",
+      "mtime": "1656587224",
+      "size": "7942",
+      "md5": "f6f37bd857cfd11745ae5c33cb5f6782",
+      "crc32": "a14570a2",
+      "sha1": "0a1950b151e57972e18196349567e62128f61cc4"
+    },
+    {
+      "name": "reuters-2022-06-30T09:10:33.637859-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594637",
+      "size": "41629",
+      "md5": "d2715ad1bae73138f0720ab1c8fce628",
+      "crc32": "e3cfc5d8",
+      "sha1": "9a48a009b08932724c3f737640a33ba3614b7baf",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-06-30T09:10:33.637859-04:00.jpg",
+      "source": "original",
+      "mtime": "1656594635",
+      "size": "215818",
+      "md5": "ef93e64eccb84ffe51e349ca4819a104",
+      "crc32": "5030c203",
+      "sha1": "9caf4679176bd075056f2c0296e2ab6b16356822",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-06-30T09:10:33.637859-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-06-30T09:10:33.637859-04:00.jpg",
+      "mtime": "1656594711",
+      "size": "8138",
+      "md5": "b4c68119e445aa7afa6bb3374ce83106",
+      "crc32": "71e52e85",
+      "sha1": "b07f7b50e250eadc2e38571067b7a94de44aca3a"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd20411985f904a3a5a70fe9313a296b9ae5bd34",
-      "mtime": "1656544302",
-      "size": "17910",
-      "md5": "edb68cca713728ee9a5fa0976d3e196a",
-      "crc32": "cd827500",
-      "sha1": "cd3689d5ddf57394babcfbfdd1bf5d7ad577d184",
+      "btih": "f0cca67f83f44c41029dd90c9e909c8ab276de38",
+      "mtime": "1656594740",
+      "size": "23555",
+      "md5": "a47674fe41326e97d347b5de47ff8f62",
+      "crc32": "17cb6d26",
+      "sha1": "fa7c4914e68f0b656fe09b620f7f57042560cd40",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3afba5c9188fd3651261a36a3683795a",
+      "md5": "3cf88af254338cdc68eff08bc403ff3c",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544237",
-      "size": "110592",
-      "md5": "9cd8a480cee10e0071564aa7de09d6cd",
-      "crc32": "d825ad4f",
-      "sha1": "b937a792307c00783618a0f7a1d85c2363cf4291",
+      "mtime": "1656594640",
+      "size": "143360",
+      "md5": "3d2ff3a8836516a83dced603d3fa240f",
+      "crc32": "3d8e625e",
+      "sha1": "cacc3757bcbe7b71fb3861c902787b6bbdbf5613",
       "format": "Metadata"
     },
     {
@@ -874,9 +1158,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 83,
-  "item_last_updated": 1656544302,
-  "item_size": 6123683,
+  "files_count": 110,
+  "item_last_updated": 1656594740,
+  "item_size": 8217817,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -893,8 +1177,1557 @@
     "publicdate": "2022-06-24 23:00:05",
     "addeddate": "2022-06-24 23:00:05"
   },
+  "reuters-2022": {
+    "role": "WebArea",
+    "name": "Breaking International News & Views | Reuters",
+    "children": [
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "link",
+        "name": "Skip to main content"
+      },
+      {
+        "role": "link",
+        "name": "Skip to floating mini video"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "combobox",
+        "name": "World",
+        "haspopup": "menu"
+      },
+      {
+        "role": "link",
+        "name": "Business"
+      },
+      {
+        "role": "combobox",
+        "name": "Business",
+        "haspopup": "menu"
+      },
+      {
+        "role": "link",
+        "name": "Legal"
+      },
+      {
+        "role": "combobox",
+        "name": "Legal",
+        "haspopup": "menu"
+      },
+      {
+        "role": "link",
+        "name": "Markets"
+      },
+      {
+        "role": "combobox",
+        "name": "Markets",
+        "haspopup": "menu"
+      },
+      {
+        "role": "combobox",
+        "name": "More",
+        "haspopup": "menu"
+      },
+      {
+        "role": "combobox",
+        "name": "My View",
+        "haspopup": "menu"
+      },
+      {
+        "role": "button",
+        "name": "Open search bar"
+      },
+      {
+        "role": "link",
+        "name": "Sign In"
+      },
+      {
+        "role": "link",
+        "name": "Register"
+      },
+      {
+        "role": "link",
+        "name": "SPX"
+      },
+      {
+        "role": "text",
+        "name": "3,818.83"
+      },
+      {
+        "role": "link",
+        "name": "DJI"
+      },
+      {
+        "role": "text",
+        "name": "31,029.31"
+      },
+      {
+        "role": "text",
+        "name": "0.27%"
+      },
+      {
+        "role": "text",
+        "name": "Positive"
+      },
+      {
+        "role": "link",
+        "name": "FTSE"
+      },
+      {
+        "role": "text",
+        "name": "7,164.68"
+      },
+      {
+        "role": "text",
+        "name": "2.02%"
+      },
+      {
+        "role": "text",
+        "name": "Negative"
+      },
+      {
+        "role": "link",
+        "name": "N225"
+      },
+      {
+        "role": "text",
+        "name": "26,393.04"
+      },
+      {
+        "role": "text",
+        "name": "1.54%"
+      },
+      {
+        "role": "text",
+        "name": "Negative"
+      },
+      {
+        "role": "link",
+        "name": "Markets data"
+      },
+      {
+        "role": "link",
+        "name": "Ukraine latest"
+      },
+      {
+        "role": "link",
+        "name": "Business"
+      },
+      {
+        "role": "link",
+        "name": "No foreign brands, no problem, shoppers say as Moscow mall opens its doors"
+      },
+      {
+        "role": "text",
+        "name": "9:51 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Pope implicitly accuses Russia of aggression, imperialism in Ukraine"
+      },
+      {
+        "role": "text",
+        "name": "10:05 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Russia open to dialogue on nuclear non-proliferation, Putin says"
+      },
+      {
+        "role": "text",
+        "name": "6 min ago"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Russia's Medvedev says sanctions could be justification for war"
+      },
+      {
+        "role": "text",
+        "name": "10:47 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "European court tells Russia to ensure two Britons do not face death penalty"
+      },
+      {
+        "role": "text",
+        "name": "19 min ago"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Putin: Russia will respond if NATO sets up infrastructure in Finland, Sweden"
+      },
+      {
+        "role": "text",
+        "name": "June 29, 2022"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Putin still wants most of Ukraine, war outlook grim -U.S. intelligence chief"
+      },
+      {
+        "role": "text",
+        "name": "June 29, 2022"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Russia abandons Snake Island in strategic victory for Ukraine , article with video"
+      },
+      {
+        "role": "text",
+        "name": "12:11 PM UTC \u00b7 5 min ago"
+      },
+      {
+        "role": "text",
+        "name": "Russian forces abandoned the strategic Black Sea outpost of Snake Island on Thursday, in a major victory for Ukraine that could loosen a Russian grain export blockade threatening to worsen global hunger."
+      },
+      {
+        "role": "link",
+        "name": "Ukraine and Russia: What you need to know right now"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "After Trump tirade testimony, DeSantis may be the biggest winner"
+      },
+      {
+        "role": "text",
+        "name": "This week's testimony at congressional hearings on the Jan. 6 U.S. Capitol assault portrayed an enraged Donald Trump throwing food against a White House wall, voicing support for threats against his vice president, and dismissing the news that some of his supporters had come armed with rifles."
+      },
+      {
+        "role": "text",
+        "name": "10:04 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Explainer: What charges might Trump face for trying to overturn 2020 election?"
+      },
+      {
+        "role": "link",
+        "name": "U.S. Capitol riot panel subpoenas White House counsel under Trump"
+      },
+      {
+        "role": "link",
+        "name": "Markets"
+      },
+      {
+        "role": "link",
+        "name": "Morning Bid: This is going to hurt , article with image"
+      },
+      {
+        "role": "text",
+        "name": "A look at the day ahead in markets from Julien Ponthus."
+      },
+      {
+        "role": "text",
+        "name": "6:52 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": "Special Report"
+      },
+      {
+        "role": "link",
+        "name": "In hacking litigation, cyber spies have become a secret weapon , article with image"
+      },
+      {
+        "role": "text",
+        "name": "11:17 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated an hour ago"
+      },
+      {
+        "role": "link",
+        "name": "Disrupted"
+      },
+      {
+        "role": "link",
+        "name": "How belief in AI sentience is becoming a problem , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "10:04 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Business"
+      },
+      {
+        "role": "link",
+        "name": "Saudi Arabia walks oil policy tightrope between Biden and Putin"
+      },
+      {
+        "role": "text",
+        "name": "Saudi Arabia's push for swifter oil production hikes by OPEC+, which were agreed in June, involved behind-the-scenes diplomacy to ensure Russia backed the move that followed U.S. appeals for more supply, two sources familiar with the discussions said."
+      },
+      {
+        "role": "text",
+        "name": "10:44 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": "EXPLAINER"
+      },
+      {
+        "role": "link",
+        "name": "How would U.S. corporate abortion travel benefits work? , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "an hour ago"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "text",
+        "name": "Report an ad"
+      },
+      {
+        "role": "heading",
+        "name": "Behind the News",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Shifting U.S. abortion landscape: What you need to know right now , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "1:22 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Factbox: How French court ruled in Paris Islamist attacks trial , article with video"
+      },
+      {
+        "role": "text",
+        "name": "June 29, 2022"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Factbox: Ambani children at centre of leadership change at India's Reliance , article with image"
+      },
+      {
+        "role": "text",
+        "name": "4:13 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Macro Matters"
+      },
+      {
+        "role": "link",
+        "name": "Emerging markets face bleak outlook after stormy start to the year , article with image"
+      },
+      {
+        "role": "text",
+        "name": "2:13 AM UTC"
+      },
+      {
+        "role": "heading",
+        "name": "Latest Stories",
+        "level": 2
+      },
+      {
+        "role": "tab",
+        "name": "World",
+        "selected": true
+      },
+      {
+        "role": "tab",
+        "name": "Business"
+      },
+      {
+        "role": "tab",
+        "name": "Legal"
+      },
+      {
+        "role": "tab",
+        "name": "Breakingviews"
+      },
+      {
+        "role": "tab",
+        "name": "Technology"
+      },
+      {
+        "role": "tab",
+        "name": "Sports"
+      },
+      {
+        "role": "link",
+        "name": "See all World"
+      },
+      {
+        "role": "button",
+        "name": "Scroll back World stories",
+        "disabled": true
+      },
+      {
+        "role": "button",
+        "name": "Scroll forward World stories"
+      },
+      {
+        "role": "text",
+        "name": "INSIGHT"
+      },
+      {
+        "role": "link",
+        "name": "Rise of Arab-Israel axis pushes Iran to redouble nuclear talks push , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "12:12 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 5 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Europe"
+      },
+      {
+        "role": "link",
+        "name": "Russia abandons Snake Island in strategic victory for Ukraine , article with video"
+      },
+      {
+        "role": "text",
+        "name": "12:11 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 5 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Europe"
+      },
+      {
+        "role": "link",
+        "name": "Russia open to dialogue on nuclear non-proliferation, Putin says , article with image"
+      },
+      {
+        "role": "text",
+        "name": "12:11 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 6 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Business"
+      },
+      {
+        "role": "link",
+        "name": "Factbox: Monkeypox cases around the world , article with video"
+      },
+      {
+        "role": "text",
+        "name": "12:05 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 11 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Americas"
+      },
+      {
+        "role": "link",
+        "name": "\"It's tough here\": Mexican migrant town faces lure and lore of the American dream"
+      },
+      {
+        "role": "text",
+        "name": "In the small, sleepy town of Izucar de Matamoros in central Mexico, vendors sell pastries, sunglasses, and shoe polish under the hot sun for a few dollars a day. Those who want to earn more soon dream of the United States."
+      },
+      {
+        "role": "text",
+        "name": "12 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Europe"
+      },
+      {
+        "role": "link",
+        "name": "Greece to submit request for purchase of 20 Lockheed F-35 fighter jets soon -sources , article with image"
+      },
+      {
+        "role": "text",
+        "name": "12:01 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 16 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Europe"
+      },
+      {
+        "role": "link",
+        "name": "European court tells Russia to ensure two Britons do not face death penalty , article with image"
+      },
+      {
+        "role": "text",
+        "name": "11:58 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 19 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Asia Pacific"
+      },
+      {
+        "role": "link",
+        "name": "Philippines starts new era of Marcos rule, decades after overthrow , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "11:56 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 20 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Europe"
+      },
+      {
+        "role": "link",
+        "name": "Some captured Azov fighters will face trial, Putin ally says , article with image"
+      },
+      {
+        "role": "text",
+        "name": "11:43 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 33 min ago"
+      },
+      {
+        "role": "link",
+        "name": "China"
+      },
+      {
+        "role": "link",
+        "name": "Hong Kong has 'risen from the ashes', China's Xi says on rare visit , article with video"
+      },
+      {
+        "role": "text",
+        "name": "11:42 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 35 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Africa"
+      },
+      {
+        "role": "link",
+        "name": "Protesters in Sudan rally against military on uprising anniversary , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "11:22 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated an hour ago"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "UK agrees deal with Nigeria to tackle shared illegal migration , article with image"
+      },
+      {
+        "role": "text",
+        "name": "11:00 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Asia Pacific"
+      },
+      {
+        "role": "link",
+        "name": "South Korea's Yoon warns at NATO summit of threat to 'universal values' , article with image"
+      },
+      {
+        "role": "text",
+        "name": "10:56 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Europe"
+      },
+      {
+        "role": "link",
+        "name": "Russia's Medvedev says sanctions could be justification for war , article with image"
+      },
+      {
+        "role": "text",
+        "name": "10:47 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Business"
+      },
+      {
+        "role": "link",
+        "name": "Germany presents plan to make changing gender easier , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "10:42 AM UTC"
+      },
+      {
+        "role": "heading",
+        "name": "Top Video News",
+        "level": 2
+      },
+      {
+        "role": "generic",
+        "name": "Video Player",
+        "children": [
+          {
+            "role": "generic",
+            "name": "Video Player",
+            "children": [
+              {
+                "role": "application",
+                "name": "Video Player",
+                "description": "Press shift question mark to access a list of keyboard shortcuts",
+                "children": [
+                  {
+                    "role": "Video",
+                    "name": "",
+                    "disabled": true
+                  },
+                  {
+                    "role": "text",
+                    "name": "0 seconds of 0 seconds"
+                  },
+                  {
+                    "role": "text",
+                    "name": "Volume 0%"
+                  },
+                  {
+                    "role": "button",
+                    "name": "Play"
+                  },
+                  {
+                    "role": "text",
+                    "name": "\u00a0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "role": "text",
+        "name": "Homepage US"
+      },
+      {
+        "role": "text",
+        "name": "\u00b7"
+      },
+      {
+        "role": "text",
+        "name": "June 30, 2022 \u00b7 8:42 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": "Samsung beats TSMC to mass produce 3nm chips"
+      },
+      {
+        "role": "text",
+        "name": "Samsung Electronics said on Thursday it has begun mass producing chips with advanced 3-nanometer technology, the first to do so globally, as it seeks new clients to catch far bigger rival TSMC in contract chip manufacturing. Jayson Albano reports."
+      },
+      {
+        "role": "text",
+        "name": "Up next"
+      },
+      {
+        "role": "button",
+        "name": "Business S. Africa power cuts hit small businesses , article with video"
+      },
+      {
+        "role": "button",
+        "name": "Business European stocks face worst quarter since pandemic , article with video"
+      },
+      {
+        "role": "button",
+        "name": "World News Ukrainian troops train with British Army , article with video"
+      },
+      {
+        "role": "button",
+        "name": "Business Unilever sells Ben & Jerry's Israeli business , article with video"
+      },
+      {
+        "role": "button",
+        "name": "Business Pfizer signs new COVID vaccine deal with U.S. , article with video"
+      },
+      {
+        "role": "button",
+        "name": "US Videos Mexico families await news after TX truck disaster , article with video"
+      },
+      {
+        "role": "button",
+        "name": "US Videos Goats munch on invasive weeds in NYC park , article with video"
+      },
+      {
+        "role": "button",
+        "name": "Environment Hundreds protest outside U.N. Ocean Conference , article with video"
+      },
+      {
+        "role": "button",
+        "name": "World News Israeli PM Bennett says he will not seek re-election , article with video"
+      },
+      {
+        "role": "link",
+        "name": "See all videos"
+      },
+      {
+        "role": "heading",
+        "name": "Talking Points",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "\"they've got a great business and it doesn't have to go away that quickly\" Ferrari to churn out gas guzzlers on its slow road to electric"
+      },
+      {
+        "role": "link",
+        "name": "Philippines begins new era of Marcos rule, decades after overthrow"
+      },
+      {
+        "role": "link",
+        "name": "$3.2B: Worth of deal Pfizer-BioNTech has signed with the U.S. government for COVID vaccines, including supplies of an Omicron-adapted shot"
+      },
+      {
+        "role": "link",
+        "name": "United States"
+      },
+      {
+        "role": "link",
+        "name": "At finish line, U.S. Supreme Court readies climate, immigration rulings , article with gallery"
+      },
+      {
+        "role": "link",
+        "name": "United States"
+      },
+      {
+        "role": "text",
+        "name": "\u00b7"
+      },
+      {
+        "role": "text",
+        "name": "June 30, 2022 \u00b7 10:11 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": "The U.S. Supreme Court is set on Thursday to issue its final two rulings of its current term, one on federal agency power to tackle climate change and the other on President Joe Biden's ability to end a hardline immigration policy begun under his predecessor Donald Trump."
+      },
+      {
+        "role": "link",
+        "name": "United States"
+      },
+      {
+        "role": "link",
+        "name": "Ketanji Brown Jackson to be sworn in as first Black woman on U.S. Supreme Court , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "10:18 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "United States"
+      },
+      {
+        "role": "link",
+        "name": "Biden unlikely to meet bold Democrat demands after abortion ruling, sources say , article with video"
+      },
+      {
+        "role": "text",
+        "name": "7:03 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "United States"
+      },
+      {
+        "role": "link",
+        "name": "U.S. to provide $1 bln to reconnect neighborhoods divided by highways, rail , article with image"
+      },
+      {
+        "role": "text",
+        "name": "9:04 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "United States"
+      },
+      {
+        "role": "link",
+        "name": "Liz Cheney calls Trump's election actions more chilling than imagined , article with video"
+      },
+      {
+        "role": "text",
+        "name": "5:22 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Business"
+      },
+      {
+        "role": "link",
+        "name": "European Markets"
+      },
+      {
+        "role": "link",
+        "name": "With IPOs on ice, banks' stock offering fees plummet , article with image"
+      },
+      {
+        "role": "text",
+        "name": "10:14 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Disrupted"
+      },
+      {
+        "role": "link",
+        "name": "Apple eyes fuel purchases from dashboard as it revs up car software , article with image"
+      },
+      {
+        "role": "text",
+        "name": "11:06 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Finance"
+      },
+      {
+        "role": "link",
+        "name": "Goldman Sachs partners with Derivative Path to grow transaction banking , article with image"
+      },
+      {
+        "role": "text",
+        "name": "11:28 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated an hour ago"
+      },
+      {
+        "role": "link",
+        "name": "Markets"
+      },
+      {
+        "role": "link",
+        "name": "Germany in bailout talks with Uniper amid gas crisis , article with image"
+      },
+      {
+        "role": "text",
+        "name": "11:49 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 27 min ago"
+      },
+      {
+        "role": "link",
+        "name": "United Kingdom"
+      },
+      {
+        "role": "link",
+        "name": "United Kingdom"
+      },
+      {
+        "role": "link",
+        "name": "UK's Johnson: Russia's Snake Island retreat shows Ukraine's ability to fight back , article with image"
+      },
+      {
+        "role": "text",
+        "name": "11:48 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 29 min ago"
+      },
+      {
+        "role": "link",
+        "name": "United Kingdom"
+      },
+      {
+        "role": "link",
+        "name": "UK PM Johnson: Sometimes we need to challenge what China is up to , article with image"
+      },
+      {
+        "role": "text",
+        "name": "12:06 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 11 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Macro Matters"
+      },
+      {
+        "role": "link",
+        "name": "Savings and algorithms: UK supermarkets battle cost of living crisis , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "6:20 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Macro Matters"
+      },
+      {
+        "role": "link",
+        "name": "UK balance of payments gap hits record, ONS urges caution over data , article with image"
+      },
+      {
+        "role": "text",
+        "name": "8:22 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Asia Pacific"
+      },
+      {
+        "role": "link",
+        "name": "Asia Pacific"
+      },
+      {
+        "role": "link",
+        "name": "Pakistan foreign minister calls for easing sanctions on Afghanistan , article with image"
+      },
+      {
+        "role": "text",
+        "name": "5:07 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Markets"
+      },
+      {
+        "role": "link",
+        "name": "Sri Lanka makes progress towards IMF credit facility - IMF , article with image"
+      },
+      {
+        "role": "text",
+        "name": "9:21 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Asia Pacific"
+      },
+      {
+        "role": "link",
+        "name": "Australia part of Asia, minister says on visit to Malaysian birthplace , article with image"
+      },
+      {
+        "role": "text",
+        "name": "6:49 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Future of Money"
+      },
+      {
+        "role": "link",
+        "name": "N.Korea may be behind new $100 mln cryptocurrency hack, experts say , article with image"
+      },
+      {
+        "role": "text",
+        "name": "3:29 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "Wimbledon"
+      },
+      {
+        "role": "text",
+        "name": "Tennis"
+      },
+      {
+        "role": "link",
+        "name": "Harmony returns between Tan and Korpatsch over doubles withdrawal , article with image"
+      },
+      {
+        "role": "text",
+        "name": "12:10 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 6 min ago"
+      },
+      {
+        "role": "text",
+        "name": "Tennis"
+      },
+      {
+        "role": "link",
+        "name": "Wimbledon day four , article with image"
+      },
+      {
+        "role": "text",
+        "name": "12:04 PM UTC"
+      },
+      {
+        "role": "text",
+        "name": ". Updated 12 min ago"
+      },
+      {
+        "role": "text",
+        "name": "Tennis"
+      },
+      {
+        "role": "link",
+        "name": "Spaniard Bautista Agut latest to pull out of Wimbledon due to COVID-19 , article with image"
+      },
+      {
+        "role": "text",
+        "name": "11:11 AM UTC"
+      },
+      {
+        "role": "text",
+        "name": "Tennis"
+      },
+      {
+        "role": "link",
+        "name": "Norrie embracing the pressure at Wimbledon , article with gallery"
+      },
+      {
+        "role": "text",
+        "name": "6:20 AM UTC"
+      },
+      {
+        "role": "heading",
+        "name": "Pictures",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Chinese spacecraft gets images of all of Mars , article with image"
+      },
+      {
+        "role": "text",
+        "name": "10:01 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Protests over U.S. abortion rights , article with image"
+      },
+      {
+        "role": "text",
+        "name": "10:12 AM UTC"
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Sandstorms shroud Iraq in orange haze , article with image"
+      },
+      {
+        "role": "text",
+        "name": "10:33 AM UTC"
+      },
+      {
+        "role": "heading",
+        "name": "The Last Read",
+        "level": 2
+      },
+      {
+        "role": "text",
+        "name": "Kanye sued over claim of illegal sample on 'Donda 2'"
+      },
+      {
+        "role": "link",
+        "name": "Kanye sued over claim of illegal sample on 'Donda 2'"
+      },
+      {
+        "role": "text",
+        "name": "Goats released in New York City park to eat invasive weeds"
+      },
+      {
+        "role": "link",
+        "name": "Goats released in New York City park to eat invasive weeds"
+      },
+      {
+        "role": "text",
+        "name": "A Minute With: Chris Pratt, Jack Carr and Constance Wu on 'The Terminal List'"
+      },
+      {
+        "role": "link",
+        "name": "A Minute With: Chris Pratt, Jack Carr and Constance Wu on 'The Terminal List'"
+      },
+      {
+        "role": "heading",
+        "name": "My View Reuters",
+        "level": 2
+      },
+      {
+        "role": "text",
+        "name": "Select Topics of interest to customize your view of the news"
+      },
+      {
+        "role": "link",
+        "name": "Learn more"
+      },
+      {
+        "role": "button",
+        "name": "United States United States"
+      },
+      {
+        "role": "button",
+        "name": "Asia Pacific Asia Pacific"
+      },
+      {
+        "role": "button",
+        "name": "Europe Europe"
+      },
+      {
+        "role": "button",
+        "name": "Healthcare & Pharmaceuticals Healthcare & Pharmaceuticals"
+      },
+      {
+        "role": "button",
+        "name": "China China"
+      },
+      {
+        "role": "button",
+        "name": "United Kingdom United Kingdom"
+      },
+      {
+        "role": "button",
+        "name": "Stocks Stocks"
+      },
+      {
+        "role": "button",
+        "name": "Energy Energy"
+      },
+      {
+        "role": "button",
+        "name": "Americas Americas"
+      },
+      {
+        "role": "button",
+        "name": "Middle East Middle East"
+      },
+      {
+        "role": "button",
+        "name": "Finance Finance"
+      },
+      {
+        "role": "button",
+        "name": "Africa Africa"
+      },
+      {
+        "role": "button",
+        "name": "Aerospace & Defense Aerospace & Defense"
+      },
+      {
+        "role": "button",
+        "name": "Autos & Transportation Autos & Transportation"
+      },
+      {
+        "role": "button",
+        "name": "Media & Telecom Media & Telecom"
+      },
+      {
+        "role": "button",
+        "name": "Environment Environment"
+      },
+      {
+        "role": "button",
+        "name": "Currencies Currencies"
+      },
+      {
+        "role": "button",
+        "name": "India India"
+      },
+      {
+        "role": "button",
+        "name": "Commodities Commodities"
+      },
+      {
+        "role": "button",
+        "name": "Retail & Consumer Retail & Consumer"
+      },
+      {
+        "role": "button",
+        "name": "US Markets US Markets"
+      },
+      {
+        "role": "button",
+        "name": "Deals Deals"
+      },
+      {
+        "role": "button",
+        "name": "Funds Funds"
+      },
+      {
+        "role": "button",
+        "name": "Global Market Data Global Market Data"
+      },
+      {
+        "role": "button",
+        "name": "Asian Markets Asian Markets"
+      },
+      {
+        "role": "button",
+        "name": "European Markets European Markets"
+      },
+      {
+        "role": "heading",
+        "name": "Site Index",
+        "level": 2
+      },
+      {
+        "role": "heading",
+        "name": "Latest",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "Home"
+      },
+      {
+        "role": "heading",
+        "name": "Browse",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "World"
+      },
+      {
+        "role": "link",
+        "name": "Business"
+      },
+      {
+        "role": "link",
+        "name": "Legal"
+      },
+      {
+        "role": "link",
+        "name": "Markets"
+      },
+      {
+        "role": "link",
+        "name": "Breakingviews"
+      },
+      {
+        "role": "link",
+        "name": "Technology"
+      },
+      {
+        "role": "link",
+        "name": "Investigations"
+      },
+      {
+        "role": "link",
+        "name": "Lifestyle"
+      },
+      {
+        "role": "heading",
+        "name": "Media",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "Videos"
+      },
+      {
+        "role": "link",
+        "name": "Pictures"
+      },
+      {
+        "role": "link",
+        "name": "Graphics"
+      },
+      {
+        "role": "heading",
+        "name": "About Reuters",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "About Reuters"
+      },
+      {
+        "role": "link",
+        "name": "Careers"
+      },
+      {
+        "role": "link",
+        "name": "Reuters News Agency"
+      },
+      {
+        "role": "link",
+        "name": "Brand Attribution Guidelines"
+      },
+      {
+        "role": "link",
+        "name": "Reuters Leadership"
+      },
+      {
+        "role": "link",
+        "name": "Reuters Fact Check"
+      },
+      {
+        "role": "link",
+        "name": "Reuters Diversity Report"
+      },
+      {
+        "role": "heading",
+        "name": "Stay Informed",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "Download the App"
+      },
+      {
+        "role": "link",
+        "name": "Newsletters"
+      },
+      {
+        "role": "heading",
+        "name": "Information you can trust",
+        "level": 2
+      },
+      {
+        "role": "text",
+        "name": "Reuters, the news and media division of Thomson Reuters, is the world\u2019s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers."
+      },
+      {
+        "role": "heading",
+        "name": "Follow Us",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "Reuters twitter"
+      },
+      {
+        "role": "link",
+        "name": "Reuters facebook"
+      },
+      {
+        "role": "link",
+        "name": "Reuters instagram"
+      },
+      {
+        "role": "link",
+        "name": "Reuters youtube"
+      },
+      {
+        "role": "link",
+        "name": "Reuters linkedin"
+      },
+      {
+        "role": "heading",
+        "name": "Thomson Reuters Products",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "Westlaw"
+      },
+      {
+        "role": "text",
+        "name": "Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology."
+      },
+      {
+        "role": "link",
+        "name": "Onesource"
+      },
+      {
+        "role": "text",
+        "name": "The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs."
+      },
+      {
+        "role": "link",
+        "name": "Checkpoint"
+      },
+      {
+        "role": "text",
+        "name": "The industry leader for online information for tax, accounting and finance professionals."
+      },
+      {
+        "role": "heading",
+        "name": "Refinitiv Products",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "Refinitiv Workspace"
+      },
+      {
+        "role": "text",
+        "name": "Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile."
+      },
+      {
+        "role": "link",
+        "name": "Refinitiv Data Catalogue"
+      },
+      {
+        "role": "text",
+        "name": "Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts."
+      },
+      {
+        "role": "link",
+        "name": "Refinitiv World-Check"
+      },
+      {
+        "role": "text",
+        "name": "Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks."
+      },
+      {
+        "role": "link",
+        "name": "Advertise With Us"
+      },
+      {
+        "role": "link",
+        "name": "Advertising Guidelines"
+      },
+      {
+        "role": "link",
+        "name": "Cookies"
+      },
+      {
+        "role": "link",
+        "name": "Terms of Use"
+      },
+      {
+        "role": "link",
+        "name": "Privacy"
+      },
+      {
+        "role": "link",
+        "name": "Digital Accessibility"
+      },
+      {
+        "role": "link",
+        "name": "Corrections"
+      },
+      {
+        "role": "link",
+        "name": "Site Feedback"
+      },
+      {
+        "role": "text",
+        "name": "All quotes delayed a minimum of 15 minutes."
+      },
+      {
+        "role": "link",
+        "name": "See here for a complete list of exchanges and delays"
+      },
+      {
+        "role": "text",
+        "name": "."
+      },
+      {
+        "role": "text",
+        "name": "\u00a9 2022 Reuters."
+      },
+      {
+        "role": "link",
+        "name": "All rights reserved"
+      }
+    ]
+  },
   "server": "ia802504.us.archive.org",
-  "uniq": 1381423344,
+  "uniq": 1051686724,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

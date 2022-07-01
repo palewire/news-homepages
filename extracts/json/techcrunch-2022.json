@@ -1,5 +1,5 @@
 {
-  "created": 1656544429,
+  "created": 1656635168,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/techcrunch-2022",
@@ -856,31 +856,325 @@
       "sha1": "0bb8f48d16f125f89ad663a03afcaa64ae30b139"
     },
     {
+      "name": "techcrunch-2022-06-29T18:36:04.138472-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552967",
+      "size": "29657",
+      "md5": "ab85ec45fdf15014485731b968383ca1",
+      "crc32": "7afcf0e6",
+      "sha1": "5f3a4357b9fcc57f969cd51b2734b82f0cec776e",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-29T18:36:04.138472-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552969",
+      "size": "12865",
+      "md5": "05228a35ed337cebb33029c70354d36e",
+      "crc32": "9b542547",
+      "sha1": "1d47df8971f43ec652b8d3473ab4840d5337c91c",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-29T18:36:04.138472-07:00.jpg",
+      "source": "original",
+      "mtime": "1656552965",
+      "size": "233402",
+      "md5": "708e45e3e3e4c577373724ac70864922",
+      "crc32": "e1b0fd91",
+      "sha1": "5268943d33675fb7bde646f96752a6e4c30849e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-06-29T18:36:04.138472-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-06-29T18:36:04.138472-07:00.jpg",
+      "mtime": "1656553026",
+      "size": "8397",
+      "md5": "c27ea6ca5302d1b8a01926d6a3799fe0",
+      "crc32": "7b131c17",
+      "sha1": "432b2dac68024d8aa6c331f863220b81040b4743"
+    },
+    {
+      "name": "techcrunch-2022-06-29T20:48:55.452348-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560939",
+      "size": "29712",
+      "md5": "943eef910a85f7898f64d6538070b580",
+      "crc32": "83374480",
+      "sha1": "29a3b1d643c32d5beb1db77e7c9c9014252d5a47",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-29T20:48:55.452348-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560941",
+      "size": "12882",
+      "md5": "51335d6034c694cbf6ce1ef9a838c378",
+      "crc32": "4f9ff3e6",
+      "sha1": "b16401385efdb5964d2d7cf4b77174b0b5cbb5f4",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-29T20:48:55.452348-07:00.jpg",
+      "source": "original",
+      "mtime": "1656560937",
+      "size": "233402",
+      "md5": "708e45e3e3e4c577373724ac70864922",
+      "crc32": "e1b0fd91",
+      "sha1": "5268943d33675fb7bde646f96752a6e4c30849e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-06-29T20:48:55.452348-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-06-29T20:48:55.452348-07:00.jpg",
+      "mtime": "1656561021",
+      "size": "8397",
+      "md5": "c27ea6ca5302d1b8a01926d6a3799fe0",
+      "crc32": "7b131c17",
+      "sha1": "432b2dac68024d8aa6c331f863220b81040b4743"
+    },
+    {
+      "name": "techcrunch-2022-06-29T22:17:10.600510-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566233",
+      "size": "29675",
+      "md5": "7d9e893ff89593c645d74784e6e2b1ad",
+      "crc32": "6bb38a74",
+      "sha1": "02e16c54f87e0eb7d86de72196bb024701864e61",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-29T22:17:10.600510-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566235",
+      "size": "12930",
+      "md5": "9dc4b066505a916b66087cad57097630",
+      "crc32": "ef23fe8a",
+      "sha1": "301937eabf0b9be37122b0e5535f0bd2c13c83bb",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-29T22:17:10.600510-07:00.jpg",
+      "source": "original",
+      "mtime": "1656566232",
+      "size": "232298",
+      "md5": "3f5485743321d1e09755d1b54043ad66",
+      "crc32": "4c12673f",
+      "sha1": "64b1c46e6a25a568a3d3d05d762e8545f05026e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-06-29T22:17:10.600510-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-06-29T22:17:10.600510-07:00.jpg",
+      "mtime": "1656566293",
+      "size": "8229",
+      "md5": "25c1406b6c46801a8434e44394d214e8",
+      "crc32": "9a315779",
+      "sha1": "66d7133c065b81bd72eac28d8504feadbbbdb509"
+    },
+    {
+      "name": "techcrunch-2022-06-30T00:07:06.584984-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572830",
+      "size": "29849",
+      "md5": "a0bf3af4fdb47e823dab311d28f1f481",
+      "crc32": "c283c64f",
+      "sha1": "4f7b0e79bfca6d956a48fb763c4c86319ab66795",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-30T00:07:06.584984-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572832",
+      "size": "12826",
+      "md5": "c366edb57b0a015766c5c07e8c527fcd",
+      "crc32": "e1bfa0f5",
+      "sha1": "04d0a50520ebc49ee93ccc9871d5ea1ce71c9215",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-30T00:07:06.584984-07:00.jpg",
+      "source": "original",
+      "mtime": "1656572828",
+      "size": "239318",
+      "md5": "914ab7cdeb14083a125c2a080fedf5b4",
+      "crc32": "358aae40",
+      "sha1": "98b8b7745f6da152be99180b8f6cc99d963b2a8f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-06-30T00:07:06.584984-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-06-30T00:07:06.584984-07:00.jpg",
+      "mtime": "1656572884",
+      "size": "8392",
+      "md5": "f45014612dd9822a6787aea8ae1b8060",
+      "crc32": "31b4e593",
+      "sha1": "10aff1ff56405e6ac40074acbcb2897837097595"
+    },
+    {
+      "name": "techcrunch-2022-06-30T02:11:15.321000-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580277",
+      "size": "28175",
+      "md5": "b74525aebee1a3e0ec5f2f15b2b83e42",
+      "crc32": "69cdff2e",
+      "sha1": "d04d6a4eb2b9a8fcdd9676588a1fd43e521f90e0",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-30T02:11:15.321000-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580279",
+      "size": "12003",
+      "md5": "26fb048dc307d4cb2814f4aa3f601715",
+      "crc32": "f02d4794",
+      "sha1": "aa2545fcbbdba85b7f44892ee3fccf83b43bbd66",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-30T02:11:15.321000-07:00.jpg",
+      "source": "original",
+      "mtime": "1656580276",
+      "size": "235954",
+      "md5": "1e8c69d697e03d6bac4621f65bc60746",
+      "crc32": "2029533c",
+      "sha1": "5ef2098c0a1b8ee77ca0960743f22e512bb021f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-06-30T02:11:15.321000-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-06-30T02:11:15.321000-07:00.jpg",
+      "mtime": "1656580322",
+      "size": "8488",
+      "md5": "756ba027882a5373e6dcc4c4afb7858a",
+      "crc32": "3ffd379f",
+      "sha1": "37128c3f8ea5b5747e705e38cf15ff3893cd9c65"
+    },
+    {
+      "name": "techcrunch-2022-06-30T04:07:11.648415-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587235",
+      "size": "26997",
+      "md5": "ac7625d20112053a83898785dc58f427",
+      "crc32": "fc31b324",
+      "sha1": "e207fb703975d6bda67556cb67cec84ff4c21377",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-30T04:07:11.648415-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587237",
+      "size": "11633",
+      "md5": "13810ff9889b95c42e9197a4eb7a996d",
+      "crc32": "92d4f48c",
+      "sha1": "0b01483be151053a9f75603b260eb9eae26c0313",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-30T04:07:11.648415-07:00.jpg",
+      "source": "original",
+      "mtime": "1656587233",
+      "size": "217294",
+      "md5": "0c2d6b7d1f3e7b9f02b2a013f58cbbbb",
+      "crc32": "2851d215",
+      "sha1": "00ac6210805d70cdb3bce993de1c794a309d948d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-06-30T04:07:11.648415-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-06-30T04:07:11.648415-07:00.jpg",
+      "mtime": "1656587282",
+      "size": "8332",
+      "md5": "7b641edec9ef33da8e29b8bae5894229",
+      "crc32": "21c3c6f9",
+      "sha1": "f811fd3904845749dfaeb68d13c9d0d29e63d0c5"
+    },
+    {
+      "name": "techcrunch-2022-06-30T06:11:57.465958-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594721",
+      "size": "26791",
+      "md5": "7d3fc676a3a34c5697d1000ef1313eba",
+      "crc32": "807d9d99",
+      "sha1": "06a4a64d4c807b49c6e2468f18822e9dcc6cf9c5",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-30T06:11:57.465958-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594730",
+      "size": "12520",
+      "md5": "c4ff081978749dfd465a0512e1abd0f5",
+      "crc32": "a2e35a92",
+      "sha1": "30b665db9b2aa7c7efafde89e64e130bfc68aa6e",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-06-30T06:11:57.465958-07:00.jpg",
+      "source": "original",
+      "mtime": "1656594719",
+      "size": "229164",
+      "md5": "f99eb54f6f138100034791949f3ebadc",
+      "crc32": "8b11ed20",
+      "sha1": "f1f1e2803306d39b0db7c1d4d7f68267cb0c67d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-06-30T06:11:57.465958-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-06-30T06:11:57.465958-07:00.jpg",
+      "mtime": "1656594800",
+      "size": "8380",
+      "md5": "dc2ab07d5c219e546fad2af815437d77",
+      "crc32": "12cd846a",
+      "sha1": "80be0e35db66d60e9d560d85197e044a640f7298"
+    },
+    {
       "name": "techcrunch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5bb5adc109857b2bb04a6641e0ddb8369b2bc03b",
-      "mtime": "1656544421",
-      "size": "18586",
-      "md5": "0937b82f0e429d8c5d9699cb02d349c4",
-      "crc32": "2a23ae32",
-      "sha1": "d4a961d6f78e23d0b2c8fa70dbd5098590e1783a",
+      "btih": "cff9ac32a726ca7a60d4e96a94cc501aea30b564",
+      "mtime": "1656594804",
+      "size": "24525",
+      "md5": "a8851bd21211ae018ab58b2f35d1e22b",
+      "crc32": "79d50417",
+      "sha1": "89fc94996996a10a20188e580a0e417342da5197",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techcrunch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b323531f99e7238a0faf98d325262a7e",
+      "md5": "3de45d962e77dace718cb2204f68c93b",
       "summation": "md5"
     },
     {
       "name": "techcrunch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544371",
-      "size": "110592",
-      "md5": "246a7c6c8255936f6d89c2e18a594a84",
-      "crc32": "39f922c7",
-      "sha1": "556b8d207067a179ed09465ae7d75291ac27ca13",
+      "mtime": "1656594735",
+      "size": "147456",
+      "md5": "bf6358ef66c4fd4e9b0e9cfb2d977e83",
+      "crc32": "777f788f",
+      "sha1": "d0b22d7c9f2214cb30c75e9890fd9e791d702f58",
       "format": "Metadata"
     },
     {
@@ -894,9 +1188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 85,
-  "item_last_updated": 1656544421,
-  "item_size": 5525800,
+  "files_count": 113,
+  "item_last_updated": 1656594804,
+  "item_size": 7536565,
   "metadata": {
     "identifier": "techcrunch-2022",
     "collection": [
@@ -913,10 +1207,440 @@
     "publicdate": "2022-06-24 23:01:49",
     "addeddate": "2022-06-24 23:01:49"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 240818585,
+  "server": "ia801505.us.archive.org",
+  "techcrunch-2022": [
+    {
+      "text": "TechCrunch",
+      "url": "https://techcrunch.com/"
+    },
+    {
+      "text": "Login",
+      "url": "https://oidc.techcrunch.com/login/?prompt=login&dest=https%3A%2F%2Ftechcrunch.com%2F"
+    },
+    {
+      "text": "Join TechCrunch+",
+      "url": "/subscribe?tpcc=homepagetout"
+    },
+    {
+      "text": "TC Sessions: Robotics",
+      "url": "/events/tc-sessions-robotics-2022/"
+    },
+    {
+      "text": "Startups",
+      "url": "/category/startups/"
+    },
+    {
+      "text": "TechCrunch+",
+      "url": "/techcrunchplus/?tpcc=ecleftnav"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/pages/podcasts/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters"
+    },
+    {
+      "text": "Startup Battlefield",
+      "url": "/events/tc-disrupt-2022/startup-battlefield-200/"
+    },
+    {
+      "text": "Advertise",
+      "url": "/pages/advertisement-events-calendar/"
+    },
+    {
+      "text": "Events",
+      "url": "/events/"
+    },
+    {
+      "text": "More",
+      "url": "/"
+    },
+    {
+      "text": "NFT giant OpenSea reports major email data breach",
+      "url": "/2022/06/30/nft-opensea-data-breach/"
+    },
+    {
+      "text": "Rita Liao",
+      "url": "/author/rita-liao/"
+    },
+    {
+      "text": "",
+      "url": "/2022/06/30/nft-opensea-data-breach/"
+    },
+    {
+      "text": "Samsung Electronics starts 3-nanometer chip production ahead of TSMC",
+      "url": "/2022/06/30/samsung-electronics-starts-3-nanometer-chip-production-ahead-of-tsmc/"
+    },
+    {
+      "text": "Kate Park",
+      "url": "/author/kate-park/"
+    },
+    {
+      "text": "Apple says developers will have to submit a new version to use third-party payment systems in South Korea",
+      "url": "/2022/06/30/apple-says-developers-will-have-to-submit-a-new-version-to-use-third-party-payment-systems-in-south-korea/"
+    },
+    {
+      "text": "Ivan Mehta",
+      "url": "/author/ivan-mehta/"
+    },
+    {
+      "text": "Lenskart acquires majority stake in eyewear brand Owndays in $400 million deal",
+      "url": "/2022/06/30/lenskart-owndays/"
+    },
+    {
+      "text": "Manish Singh",
+      "url": "/author/manish-singh/"
+    },
+    {
+      "text": "TechCrunch",
+      "url": "/"
+    },
+    {
+      "text": "Fundraising",
+      "url": "/techcrunchplus/fundraising/"
+    },
+    {
+      "text": "When it comes to sanctions, PE firms must proceed with great caution",
+      "url": "/2022/06/29/when-it-comes-to-sanctions-pe-firms-must-proceed-with-great-caution/"
+    },
+    {
+      "text": "Sne\u017eana Gebauer",
+      "url": "/author/snezana-gebauer/"
+    },
+    {
+      "text": "Wattpad introduces a creator program that can pay writers up to $25,000",
+      "url": "/2022/06/30/wattpad-introduces-a-creator-program-that-can-pay-writers-up-to-25000/"
+    },
+    {
+      "text": "Ivan Mehta",
+      "url": "/author/ivan-mehta/"
+    },
+    {
+      "text": "European Union keeps mobile roaming fees at bay for another decade",
+      "url": "/2022/06/30/eu-roaming-regulation-update/"
+    },
+    {
+      "text": "Natasha Lomas",
+      "url": "/author/natasha-lomas/"
+    },
+    {
+      "text": "A look into the British DFI\u2019s plan to invest in African economies, venture funds and tech startups",
+      "url": "/2022/06/30/a-look-into-the-british-dfis-plan-to-invest-in-african-economies-venture-funds-and-tech-startups/"
+    },
+    {
+      "text": "Tage Kene-Okafor",
+      "url": "/author/tage-kene-okafor/"
+    },
+    {
+      "text": "Taking on Bilt, Stake aims to expand its cash-back rewards program for renters",
+      "url": "/2022/06/30/taking-on-bilt-stake-aims-to-expand-its-cash-back-rewards-program-for-renters/"
+    },
+    {
+      "text": "Kyle Wiggers",
+      "url": "/author/kyle-wiggers/"
+    },
+    {
+      "text": "Brazilian motorcycle rental startup Mottu revs up with $40M to help more Latin Americans become couriers",
+      "url": "/2022/06/30/mottu-secures-40m-in-debt-equity-to-rent-motorcycles-to-couriers-in-latin-america/"
+    },
+    {
+      "text": "Mary Ann Azevedo",
+      "url": "/author/mary-ann-azevedo-2/"
+    },
+    {
+      "text": "MoHash raises $6M seed funding to bring sustainable, stable yields to DeFi",
+      "url": "/2022/06/30/mohash-raises-6m-seed-funding-to-bring-sustainable-stable-yields-to-defi/"
+    },
+    {
+      "text": "Manish Singh",
+      "url": "/author/manish-singh/"
+    },
+    {
+      "text": "Apple says developers will have to submit a new version to use third-party payment systems in South Korea",
+      "url": "/2022/06/30/apple-says-developers-will-have-to-submit-a-new-version-to-use-third-party-payment-systems-in-south-korea/"
+    },
+    {
+      "text": "Ivan Mehta",
+      "url": "/author/ivan-mehta/"
+    },
+    {
+      "text": "Samsung Electronics starts 3-nanometer chip production ahead of TSMC",
+      "url": "/2022/06/30/samsung-electronics-starts-3-nanometer-chip-production-ahead-of-tsmc/"
+    },
+    {
+      "text": "Kate Park",
+      "url": "/author/kate-park/"
+    },
+    {
+      "text": "TechCrunchTechCrunch Disrupt 2022Oct 18 - 20Time to sign up for the most iconic startup ecosystem conference in the world and your friend can come for free2-for-1 sale happening nowcarat-rightBuy Now",
+      "url": "/events/tc-disrupt-2022/"
+    },
+    {
+      "text": "Sava, a spend management platform for African businesses, gets $2M pre-seed backing",
+      "url": "/2022/06/30/sava-a-spend-management-platform-for-african-businesses-gets-2m-pre-seed-backing/"
+    },
+    {
+      "text": "Tage Kene-Okafor",
+      "url": "/author/tage-kene-okafor/"
+    },
+    {
+      "text": "See all newsletters(opens in a new window)",
+      "url": "https://link.techcrunch.com/join/134/signup-all-newsletters"
+    },
+    {
+      "text": "Lenskart acquires majority stake in eyewear brand Owndays in $400 million deal",
+      "url": "/2022/06/30/lenskart-owndays/"
+    },
+    {
+      "text": "Manish Singh",
+      "url": "/author/manish-singh/"
+    },
+    {
+      "text": "TechCrunch Live with Bee Partners and Rapid Robotics",
+      "url": "/events/techcrunch-live-with-bee-partners-and-rapid-robotics/"
+    },
+    {
+      "text": "Register",
+      "url": "/events/techcrunch-live-with-bee-partners-and-rapid-robotics/#tickets"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "TechCrunch Live with Forerunner Ventures and Attabotics",
+      "url": "/events/techcrunch-live-with-forerunner-ventures-and-attabotics/"
+    },
+    {
+      "text": "Register",
+      "url": "/events/techcrunch-live-with-forerunner-ventures-and-attabotics/#tickets"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "TC Sessions: Robotics 2022",
+      "url": "/events/tc-sessions-robotics-2022/"
+    },
+    {
+      "text": "Sign Up",
+      "url": "/events/tc-sessions-robotics-2022/#tickets"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "TechCrunch Disrupt 2022",
+      "url": "/events/tc-disrupt-2022/"
+    },
+    {
+      "text": "Buy Tickets",
+      "url": "/events/tc-disrupt-2022/tickets/"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "TC Sessions: Space 2022",
+      "url": "/events/tc-sessions-space-2022/"
+    },
+    {
+      "text": "Buy Tickets",
+      "url": "/events/tc-sessions-space-2022/#tickets"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "NFT giant OpenSea reports major email data breach",
+      "url": "/2022/06/30/nft-opensea-data-breach/"
+    },
+    {
+      "text": "Rita Liao",
+      "url": "/author/rita-liao/"
+    },
+    {
+      "text": "Black Swan analyzes social media to predict which products will be successful",
+      "url": "/2022/06/30/black-swan-analyzes-social-media-to-predict-which-products-will-be-successful/"
+    },
+    {
+      "text": "Kyle Wiggers",
+      "url": "/author/kyle-wiggers/"
+    },
+    {
+      "text": "Amazon Prime Video\u2019s Watch Party feature is now available on smart TVs and streaming devices",
+      "url": "/2022/06/29/amazon-prime-videos-watch-party-feature-is-now-available-on-smart-tvs-and-streaming-devices/"
+    },
+    {
+      "text": "Ivan Mehta",
+      "url": "/author/ivan-mehta/"
+    },
+    {
+      "text": "GetVantage offers revenue-based financing to India\u2019s founders",
+      "url": "/2022/06/29/getvantage-offers-revenue-based-financing-to-indias-founders/"
+    },
+    {
+      "text": "Catherine Shu",
+      "url": "/author/catherine-shu/"
+    },
+    {
+      "text": "Y Combinator announces Launch YC, a way for its portfolio to shout to the public",
+      "url": "/2022/06/29/y-combinator-announces-launch-yc-a-way-for-its-portfolio-to-shout-to-the-public/"
+    },
+    {
+      "text": "Natasha Mascarenhas",
+      "url": "/author/natasha-mascarenhas/"
+    },
+    {
+      "text": "Get hype for the first images from NASA\u2019s James Webb Space Telescope",
+      "url": "/2022/06/29/get-hype-for-the-first-images-from-nasas-james-webb-space-telescope/"
+    },
+    {
+      "text": "Aria Alamalhodaei",
+      "url": "/author/aria-alamalhodaei/"
+    },
+    {
+      "text": "Daily Crunch: Indian edtech giant Byju\u2019s delays $1B acquisition payment, lays off hundreds of workers",
+      "url": "/2022/06/29/daily-crunch-indian-edtech-giant-byjus-delays-1b-acquisition-payment-lays-off-hundreds-of-workers/"
+    },
+    {
+      "text": "Christine Hall",
+      "url": "/author/christine-hall/"
+    },
+    {
+      "text": "Google\u2019s \u2018deceptive\u2019 account sign-up process targeted with GDPR complaints",
+      "url": "/2022/06/29/google-account-gdpr-complaint/"
+    },
+    {
+      "text": "Natasha Lomas",
+      "url": "/author/natasha-lomas/"
+    },
+    {
+      "text": "Substack cuts 13 jobs to avoid raising more venture capital",
+      "url": "/2022/06/29/substack-cuts-13-jobs-to-avoid-raising-more-venture-captial/"
+    },
+    {
+      "text": "Amanda Silberling",
+      "url": "/author/amanda-silberling/"
+    },
+    {
+      "text": "Bird CEO Travis VanderZanden steps down as president",
+      "url": "/2022/06/29/bird-ceo-travis-vanderzanden-steps-down-as-president/"
+    },
+    {
+      "text": "Rebecca Bellan",
+      "url": "/author/rebecca-bellan/"
+    },
+    {
+      "text": "AlgiKnit\u2019s seaweed-sourced materials could mend the textile industry\u2019s toxic habits",
+      "url": "/2022/06/29/algiknits-seaweed-sourced-materials-could-mend-the-textile-industrys-toxic-habits/"
+    },
+    {
+      "text": "Kate Park",
+      "url": "/author/kate-park/"
+    },
+    {
+      "text": "The company behind Pok\u00e9mon GO, Niantic lays off 8% of staff and cancels 4 projects",
+      "url": "/2022/06/29/niantic-layoffs-cancel-projects-pokemon-go/"
+    },
+    {
+      "text": "Amanda Silberling",
+      "url": "/author/amanda-silberling/"
+    },
+    {
+      "text": "Watch Virgin Orbit\u2019s \u2018Straight Up\u2019 launch of Space Force satellites live tonight",
+      "url": "/2022/06/29/watch-virgin-orbits-straight-up-launch-of-space-force-satellites-live-tonight/"
+    },
+    {
+      "text": "Stefanie Waldek",
+      "url": "/author/stefanie-waldek/"
+    },
+    {
+      "text": "About",
+      "url": "/"
+    },
+    {
+      "text": "TechCrunch",
+      "url": "/"
+    },
+    {
+      "text": "Staff",
+      "url": "/pages/about-techcrunch"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/pages/contact-us/"
+    },
+    {
+      "text": "Advertise",
+      "url": "/pages/advertisement-events-calendar/"
+    },
+    {
+      "text": "Crunchboard Jobs",
+      "url": "https://www.crunchboard.com/"
+    },
+    {
+      "text": "Legal",
+      "url": "/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/index.html"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html"
+    },
+    {
+      "text": "TechCrunch+ Terms",
+      "url": "/pages/extra-crunch-terms-of-service/"
+    },
+    {
+      "text": "Do Not Sell My Personal Information",
+      "url": "https://guce.techcrunch.com/manage-selling-my-info?locale=en-US"
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "/pages/code-of-conduct/"
+    },
+    {
+      "text": "About Our Ads",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
+    },
+    {
+      "text": "FacebookFacebook(opens in a new window)",
+      "url": "https://www.facebook.com//techcrunch"
+    },
+    {
+      "text": "TwitterTwitter(opens in a new window)",
+      "url": "https://twitter.com/techcrunch"
+    },
+    {
+      "text": "YouTubeYouTube(opens in a new window)",
+      "url": "http://www.youtube.com/user/techcrunch"
+    },
+    {
+      "text": "InstagramInstagram(opens in a new window)",
+      "url": "http://instagram.com/techcrunch"
+    },
+    {
+      "text": "LinkedInLinkedIn(opens in a new window)",
+      "url": "http://www.linkedin.com/company/techcrunch"
+    },
+    {
+      "text": "WordPress VIP(opens in a new window)",
+      "url": "https://vip.wordpress.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit"
+    }
+  ],
+  "uniq": 406378408,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

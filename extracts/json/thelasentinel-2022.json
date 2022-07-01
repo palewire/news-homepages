@@ -1,5 +1,5 @@
 {
-  "created": 1656544418,
+  "created": 1656635190,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/4/items/thelasentinel-2022",
@@ -7942,31 +7942,367 @@
       "sha1": "494ccee115e7340a61690768270333a0c418221f"
     },
     {
+      "name": "thelasentinel-2022-06-29T18:37:04.801300-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656553027",
+      "size": "39761",
+      "md5": "4d54c2a29076718b638f18c0619ca4d3",
+      "crc32": "c7800342",
+      "sha1": "ee0ab1fcf6fd126ccbe68f1e08ad0b1c5f83c1d9",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T18:37:04.801300-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656553028",
+      "size": "44395",
+      "md5": "079801e8421fbf9256d631222373e67f",
+      "crc32": "8545d504",
+      "sha1": "a0718127fd1bbed5aa07c2f089cf0ce58d6ddcf0",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T18:37:04.801300-07:00.jpg",
+      "source": "original",
+      "mtime": "1656553025",
+      "size": "324697",
+      "md5": "671fc16ffba65b1520ca9fa11e78b980",
+      "crc32": "5cb85297",
+      "sha1": "7b51508b6f78c4ad3884c1c4869d8b5d99956227",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T18:37:04.801300-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-06-29T18:37:04.801300-07:00.jpg",
+      "mtime": "1656553087",
+      "size": "11431",
+      "md5": "46152f7df53cb303fc93d9cef0c13488",
+      "crc32": "b1cb6d15",
+      "sha1": "9291380c36bb9fe83fa3820da01fc3edb8a51038"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T20:50:02.620926-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656561005",
+      "size": "39761",
+      "md5": "4d54c2a29076718b638f18c0619ca4d3",
+      "crc32": "c7800342",
+      "sha1": "ee0ab1fcf6fd126ccbe68f1e08ad0b1c5f83c1d9",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T20:50:02.620926-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656561006",
+      "size": "44395",
+      "md5": "079801e8421fbf9256d631222373e67f",
+      "crc32": "8545d504",
+      "sha1": "a0718127fd1bbed5aa07c2f089cf0ce58d6ddcf0",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T20:50:02.620926-07:00.jpg",
+      "source": "original",
+      "mtime": "1656561003",
+      "size": "324697",
+      "md5": "671fc16ffba65b1520ca9fa11e78b980",
+      "crc32": "5cb85297",
+      "sha1": "7b51508b6f78c4ad3884c1c4869d8b5d99956227",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T20:50:02.620926-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-06-29T20:50:02.620926-07:00.jpg",
+      "mtime": "1656561059",
+      "size": "11431",
+      "md5": "46152f7df53cb303fc93d9cef0c13488",
+      "crc32": "b1cb6d15",
+      "sha1": "9291380c36bb9fe83fa3820da01fc3edb8a51038"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T22:17:32.923508-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566256",
+      "size": "38657",
+      "md5": "f38d700ab6307c5d5d413b0caec16017",
+      "crc32": "99854bc0",
+      "sha1": "210be0112748896105d3c790ba2ebce50dd07936",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T22:17:32.923508-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566258",
+      "size": "44395",
+      "md5": "079801e8421fbf9256d631222373e67f",
+      "crc32": "8545d504",
+      "sha1": "a0718127fd1bbed5aa07c2f089cf0ce58d6ddcf0",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T22:17:32.923508-07:00.jpg",
+      "source": "original",
+      "mtime": "1656566254",
+      "size": "324690",
+      "md5": "741e8079cab98bda75786fa81464ddc4",
+      "crc32": "ec104504",
+      "sha1": "2acd0bd9a32bd3cec5a12e9af40686da48dfca3b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-06-29T22:17:32.923508-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-06-29T22:17:32.923508-07:00.jpg",
+      "mtime": "1656566436",
+      "size": "11433",
+      "md5": "bcc431afae3a102391fb0eee791209f1",
+      "crc32": "1491c7f5",
+      "sha1": "22e16e42ae757710520f3e90d252381fd6bcb932"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T00:08:03.855869-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572887",
+      "size": "39761",
+      "md5": "4d54c2a29076718b638f18c0619ca4d3",
+      "crc32": "c7800342",
+      "sha1": "ee0ab1fcf6fd126ccbe68f1e08ad0b1c5f83c1d9",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T00:08:03.855869-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572889",
+      "size": "44395",
+      "md5": "079801e8421fbf9256d631222373e67f",
+      "crc32": "8545d504",
+      "sha1": "a0718127fd1bbed5aa07c2f089cf0ce58d6ddcf0",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T00:08:03.855869-07:00.jpg",
+      "source": "original",
+      "mtime": "1656572885",
+      "size": "324735",
+      "md5": "ef19629cc7644a467a59fc35a9a395b5",
+      "crc32": "bea25bea",
+      "sha1": "2ccc83b77b6685ee34dc519a69703ba0468d440b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T00:08:03.855869-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-06-30T00:08:03.855869-07:00.jpg",
+      "mtime": "1656572957",
+      "size": "11427",
+      "md5": "9f08ffb44b30bbdd5550e4d60a1ece77",
+      "crc32": "8d177b01",
+      "sha1": "e0204c26c8277c7375f2744c64cbf9d14552d417"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T02:12:08.453958-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580331",
+      "size": "42465",
+      "md5": "a3268598e3725331a8bc7502a0644b6c",
+      "crc32": "0b4bbe8c",
+      "sha1": "c159fdb172dc18bb9f3276405d2a88692aeda3bc",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T02:12:08.453958-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580336",
+      "size": "52369",
+      "md5": "b257c8e18f524f9cb4200a38ee58c073",
+      "crc32": "38638d68",
+      "sha1": "692c59d6761cd034b60336a6bac39a925eede9d7",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T02:12:08.453958-07:00.jpg",
+      "source": "original",
+      "mtime": "1656580329",
+      "size": "316691",
+      "md5": "3708386b8d51eefc4947619ad68c46a0",
+      "crc32": "47ae58bd",
+      "sha1": "820a1e2467b0ba85fb972312104532bed7455fc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T02:12:08.453958-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-06-30T02:12:08.453958-07:00.jpg",
+      "mtime": "1656580427",
+      "size": "11227",
+      "md5": "ed5eb13efe1085aa742cfd48df06476f",
+      "crc32": "11f470ab",
+      "sha1": "101c0fa836428fa53b8639485d00609845e13ccc"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T04:08:12.714720-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587301",
+      "size": "42465",
+      "md5": "a3268598e3725331a8bc7502a0644b6c",
+      "crc32": "0b4bbe8c",
+      "sha1": "c159fdb172dc18bb9f3276405d2a88692aeda3bc",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T04:08:12.714720-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587302",
+      "size": "48327",
+      "md5": "51178d1382371ab223f0c5f39b77b441",
+      "crc32": "e6b1b682",
+      "sha1": "dacb9c521b6e7bb62cfdafc9673047f4f1859803",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T04:08:12.714720-07:00.jpg",
+      "source": "original",
+      "mtime": "1656587299",
+      "size": "316697",
+      "md5": "cf294a773815f62d38a710ba8a589177",
+      "crc32": "f45a75d0",
+      "sha1": "0065f5e23710633d43e5a3f38e0deba9674f8780",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T04:08:12.714720-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-06-30T04:08:12.714720-07:00.jpg",
+      "mtime": "1656587436",
+      "size": "11227",
+      "md5": "a29b348a2332ce93e727f8c101c20831",
+      "crc32": "f6eb584a",
+      "sha1": "576c8ae93a826d97922c3922eeac681bb82376e8"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T06:13:23.851050-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594806",
+      "size": "43300",
+      "md5": "298efa750c156974c69caab583540f17",
+      "crc32": "97c0ef95",
+      "sha1": "220a25f4ebc0c88b78ca5e53c0130941da5c03a0",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T06:13:23.851050-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594808",
+      "size": "48992",
+      "md5": "b8923a94b0af8089129591e3c23da2c3",
+      "crc32": "fbb56845",
+      "sha1": "10a57ac2ec4db12e7d8db7e08e16ff92272bfe4d",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T06:13:23.851050-07:00.jpg",
+      "source": "original",
+      "mtime": "1656594805",
+      "size": "339541",
+      "md5": "24502cfea6a6940049501dde83b6b25e",
+      "crc32": "c288cc2f",
+      "sha1": "228231019dcd8d5efc8bae249fe171775cfce416",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T06:13:23.851050-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-06-30T06:13:23.851050-07:00.jpg",
+      "mtime": "1656594864",
+      "size": "11355",
+      "md5": "6e1bc1d5bc2c64073a8c36b11162d4f2",
+      "crc32": "42d71002",
+      "sha1": "e134463838e4cd7f2f8f91e7acf4623d526eb982"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T13:24:10.446464-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656620657",
+      "size": "43492",
+      "md5": "0b272ce9ff88afca103d7989209ccfcd",
+      "crc32": "b8ab815a",
+      "sha1": "906910c2fec53e455e17834c0c86e06819996111",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T13:24:10.446464-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656620659",
+      "size": "49411",
+      "md5": "7514b17c90cedc6d230116d57714508c",
+      "crc32": "eaaeb89d",
+      "sha1": "5173eb794f4b8c7e829e90ac4d2378ff3a5103ee",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T13:24:10.446464-07:00.jpg",
+      "source": "original",
+      "mtime": "1656620655",
+      "size": "341027",
+      "md5": "9b1d3799706d0fd6ee256299bf64421a",
+      "crc32": "958f01f9",
+      "sha1": "9073a8ae4f713726534ca8163b22d4ef9b95c784",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-06-30T13:24:10.446464-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-06-30T13:24:10.446464-07:00.jpg",
+      "mtime": "1656620715",
+      "size": "11245",
+      "md5": "e521d25cf292a8d91ee602f776333695",
+      "crc32": "5d43f2a4",
+      "sha1": "f0021dc9c2753fcd66a768a2f68c3fd8f738dcee"
+    },
+    {
       "name": "thelasentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "63109d267c4de6dcee67db2680d33b18506703ea",
-      "mtime": "1656544412",
-      "size": "165497",
-      "md5": "52eda942e266aaf95471951cb624cadd",
-      "crc32": "2ebc6f29",
-      "sha1": "ce8ab4fb6732ad37e07f7f2d19e19e31d41076a2",
+      "btih": "c78fe0f9c2f34cf95b3371ba3527e711963bc58c",
+      "mtime": "1656620723",
+      "size": "172437",
+      "md5": "495b64b20a900a5f0bae2049a06d2efa",
+      "crc32": "ae3d418e",
+      "sha1": "3a00b421f829d2817f06b538600b9ee3000c684c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelasentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c9adbcc2cf6c556ea2c0e643e841e558",
+      "md5": "d88c2456b0537d17f51bbf77ace6088d",
       "summation": "md5"
     },
     {
       "name": "thelasentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544354",
-      "size": "876544",
-      "md5": "666c54d46b365ed4be3775515e1f033d",
-      "crc32": "eeefff9c",
-      "sha1": "046bc47c687944d859692e3c641cff991a17fb96",
+      "mtime": "1656620661",
+      "size": "913408",
+      "md5": "7d4f9511642b141368e086d27d0009ea",
+      "crc32": "18c46093",
+      "sha1": "ef948ffb372cec3bec49f22706da60e7199d119c",
       "format": "Metadata"
     },
     {
@@ -7980,9 +8316,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 759,
-  "item_last_updated": 1656544412,
-  "item_size": 98074559,
+  "files_count": 791,
+  "item_last_updated": 1656620723,
+  "item_size": 101528255,
   "metadata": {
     "identifier": "thelasentinel-2022",
     "collection": [
@@ -8000,7 +8336,1645 @@
     "addeddate": "2022-03-25 02:05:03"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 2033475443,
+  "thelasentinel-2022": [
+    {
+      "text": "Click to Win!",
+      "url": "/win"
+    },
+    {
+      "text": "Classifieds",
+      "url": "/classifieds"
+    },
+    {
+      "text": "Archives",
+      "url": "/archives"
+    },
+    {
+      "text": "ePaper",
+      "url": "/epaper"
+    },
+    {
+      "text": " Subscribe ",
+      "url": "/subscribe"
+    },
+    {
+      "text": "My Account",
+      "url": "#"
+    },
+    {
+      "text": "Login / Register",
+      "url": "/my-account"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/subscribe"
+    },
+    {
+      "text": "ePaper",
+      "url": "/epaper"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact-us"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://tasteofsoul.org/"
+    },
+    {
+      "text": "Videos ",
+      "url": "/videos"
+    },
+    {
+      "text": "Galleries",
+      "url": "/galleries"
+    },
+    {
+      "text": "Cartoons",
+      "url": "/cartoons"
+    },
+    {
+      "text": "Calendar/Events",
+      "url": "/events"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/LASentinelNewspaper"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/thelasentinel"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/user/lasentinelnews"
+    },
+    {
+      "text": "",
+      "url": "https://instagram.com/LaSentinelNews"
+    },
+    {
+      "text": "Buy Cookbook",
+      "url": "/shop/taste-of-soul-cookbook"
+    },
+    {
+      "text": "Taste of Soul",
+      "url": "http://tasteofsoul.org"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "https://lasentinel.net/news"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://lasentinel.net/entertainment"
+    },
+    {
+      "text": "Sports",
+      "url": "https://lasentinel.net/sports"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://lasentinel.net/opinion"
+    },
+    {
+      "text": "Family",
+      "url": "https://lasentinel.net/family"
+    },
+    {
+      "text": "Crenshaw & Around",
+      "url": "https://lasentinel.net/crenshaw-around"
+    },
+    {
+      "text": "Religion",
+      "url": "https://lasentinel.net/religion"
+    },
+    {
+      "text": "Business",
+      "url": "https://lasentinel.net/business"
+    },
+    {
+      "text": "ePaper",
+      "url": "/epaper"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "My Account",
+      "url": "/my-account"
+    },
+    {
+      "text": "Login / Register",
+      "url": "/my-account"
+    },
+    {
+      "text": "ePaper",
+      "url": "/epaper"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/subscribe"
+    },
+    {
+      "text": "Click to Win!",
+      "url": "/win"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact-us"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Classifieds",
+      "url": "/classifieds"
+    },
+    {
+      "text": "Archives",
+      "url": "/archives"
+    },
+    {
+      "text": "Calendar/Events",
+      "url": "/events"
+    },
+    {
+      "text": "Videos ",
+      "url": "/videos"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/LASentinelNewspaper"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/thelasentinel"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/user/lasentinelnews"
+    },
+    {
+      "text": "",
+      "url": "https://instagram.com/LaSentinelNews"
+    },
+    {
+      "text": "Galleries",
+      "url": "/galleries"
+    },
+    {
+      "text": "Cartoons",
+      "url": "/cartoons"
+    },
+    {
+      "text": "Taste of Soul",
+      "url": "http://tasteofsoul.org"
+    },
+    {
+      "text": "Buy Cookbook",
+      "url": "/shop/taste-of-soul-cookbook"
+    },
+    {
+      "text": "News",
+      "url": "https://lasentinel.net/news"
+    },
+    {
+      "text": "",
+      "url": "javascript:void();"
+    },
+    {
+      "text": "Celebration of Life",
+      "url": "/news/celebration-of-life/"
+    },
+    {
+      "text": "COVID-19",
+      "url": "/news/covid-19/"
+    },
+    {
+      "text": "Daily Briefs",
+      "url": "/news/daily-briefs/"
+    },
+    {
+      "text": "District Attorney News",
+      "url": "/news/district-attorney-news/"
+    },
+    {
+      "text": "Education",
+      "url": "/news/education/"
+    },
+    {
+      "text": "Employment",
+      "url": "/news/employment/"
+    },
+    {
+      "text": "Exclusive",
+      "url": "/news/exclusive/"
+    },
+    {
+      "text": "History",
+      "url": "/news/history/"
+    },
+    {
+      "text": "International",
+      "url": "/news/international/"
+    },
+    {
+      "text": "Legends",
+      "url": "/news/legends/"
+    },
+    {
+      "text": "Local",
+      "url": "/news/local/"
+    },
+    {
+      "text": "National",
+      "url": "/news/national/"
+    },
+    {
+      "text": "Political",
+      "url": "/news/political/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://lasentinel.net/entertainment"
+    },
+    {
+      "text": "",
+      "url": "javascript:void();"
+    },
+    {
+      "text": "Book Releases",
+      "url": "/entertainment/book-releases/"
+    },
+    {
+      "text": "Comedy",
+      "url": "/entertainment/comedy/"
+    },
+    {
+      "text": "Exclusive (Entertainment)",
+      "url": "/entertainment/exclusive-entertainment/"
+    },
+    {
+      "text": "Movies",
+      "url": "/entertainment/movies/"
+    },
+    {
+      "text": "Music",
+      "url": "/entertainment/music/"
+    },
+    {
+      "text": "News (Entertainment)",
+      "url": "/entertainment/news-entertainment/"
+    },
+    {
+      "text": "Theater",
+      "url": "/entertainment/theater/"
+    },
+    {
+      "text": "TV",
+      "url": "/entertainment/tv/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://lasentinel.net/sports"
+    },
+    {
+      "text": "",
+      "url": "javascript:void();"
+    },
+    {
+      "text": "Baseball",
+      "url": "/sports/baseball/"
+    },
+    {
+      "text": "Basketball",
+      "url": "/sports/basketball/"
+    },
+    {
+      "text": "Boxing",
+      "url": "/sports/boxing/"
+    },
+    {
+      "text": "Football",
+      "url": "/sports/football/"
+    },
+    {
+      "text": "High School",
+      "url": "/sports/high-school/"
+    },
+    {
+      "text": "History (Sports)",
+      "url": "/sports/history-sports/"
+    },
+    {
+      "text": "News (Sports)",
+      "url": "/sports/news-sports/"
+    },
+    {
+      "text": "Soccer",
+      "url": "/sports/soccer/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://lasentinel.net/opinion"
+    },
+    {
+      "text": "",
+      "url": "javascript:void();"
+    },
+    {
+      "text": "Antonio Moore",
+      "url": "/opinion/antonio-moore/"
+    },
+    {
+      "text": "Ardena Joy Cota",
+      "url": "/opinion/ardena-clark/"
+    },
+    {
+      "text": "ASK DR. JEANETTE, SUCCESS ON THE WAY",
+      "url": "/opinion/dr-jeanette-parker/"
+    },
+    {
+      "text": "Charlene Crowell",
+      "url": "/opinion/charlene-crowell/"
+    },
+    {
+      "text": "Dr. Ben Chavis",
+      "url": "/opinion/dr-ben-chavis/"
+    },
+    {
+      "text": "Dr. Firpo W. Carr",
+      "url": "/opinion/dr-firpo-w-carr/"
+    },
+    {
+      "text": "Dr. Maulana Karenga",
+      "url": "/opinion/dr-maulana-karenga/"
+    },
+    {
+      "text": "Editorials",
+      "url": "/opinion/editorials/"
+    },
+    {
+      "text": "Jasmyne Cannick",
+      "url": "/opinion/jasmyne-cannick/"
+    },
+    {
+      "text": "John Warren",
+      "url": "/opinion/john-warren/"
+    },
+    {
+      "text": "Julianne Malveaux",
+      "url": "/opinion/julianne-malveaux/"
+    },
+    {
+      "text": "Larry Aubry",
+      "url": "/opinion/larry-aubry/"
+    },
+    {
+      "text": "Marc Morial",
+      "url": "/opinion/marc-morial/"
+    },
+    {
+      "text": "Op-Ed",
+      "url": "/opinion/op-ed/"
+    },
+    {
+      "text": "Reggie Jones-Sawyer",
+      "url": "/opinion/reggie-jones-sawyer/"
+    },
+    {
+      "text": "Rev. Jesse Jackson",
+      "url": "/opinion/rev-jesse-jackson/"
+    },
+    {
+      "text": "The Lobby",
+      "url": "/opinion/the-lobby/"
+    },
+    {
+      "text": "WENDY'S WINDOW",
+      "url": "/opinion/wendy-gladney/"
+    },
+    {
+      "text": "Family",
+      "url": "https://lasentinel.net/family"
+    },
+    {
+      "text": "",
+      "url": "javascript:void();"
+    },
+    {
+      "text": "Fashion",
+      "url": "/family/fashion/"
+    },
+    {
+      "text": "Health",
+      "url": "/family/health/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/family/lifestyle/"
+    },
+    {
+      "text": "News (Family)",
+      "url": "/family/news-family/"
+    },
+    {
+      "text": "Safety",
+      "url": "/family/safety/"
+    },
+    {
+      "text": "Crenshaw & Around",
+      "url": "https://lasentinel.net/crenshaw-around"
+    },
+    {
+      "text": "",
+      "url": "javascript:void();"
+    },
+    {
+      "text": "A Taste of Soul",
+      "url": "/crenshaw-around/a-taste-of-soul/"
+    },
+    {
+      "text": "Metro",
+      "url": "/crenshaw-around/metro/"
+    },
+    {
+      "text": "Religion",
+      "url": "https://lasentinel.net/religion"
+    },
+    {
+      "text": "Business",
+      "url": "https://lasentinel.net/business"
+    },
+    {
+      "text": "",
+      "url": "javascript:void();"
+    },
+    {
+      "text": "Economy",
+      "url": "/business/economy/"
+    },
+    {
+      "text": "Finance",
+      "url": "/business/finance/"
+    },
+    {
+      "text": "News (Business)",
+      "url": "/business/news-business/"
+    },
+    {
+      "text": "Real Estate",
+      "url": "/business/real-estate/"
+    },
+    {
+      "text": "Restaurant",
+      "url": "/business/restaurant/"
+    },
+    {
+      "text": "Religion",
+      "url": "https://lasentinel.net/religion"
+    },
+    {
+      "text": "Beloved Basketball Coach Michael Lynch Lauded in Surprise Ceremony",
+      "url": "https://lasentinel.net/beloved-basketball-coach-michael-lynch-lauded-in-surprise-ceremony.html"
+    },
+    {
+      "text": "News",
+      "url": "https://lasentinel.net/news"
+    },
+    {
+      "text": "UCLA Fielding School of Public Health Professor and Grad Student Recognized",
+      "url": "https://lasentinel.net/ucla-fielding-school-of-public-health-professor-and-grad-student-recognized.html"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://lasentinel.net/opinion"
+    },
+    {
+      "text": "Democracy is not a Spectator Sport",
+      "url": "https://lasentinel.net/democracy-is-not-a-spectator-sport.html"
+    },
+    {
+      "text": "Local",
+      "url": "https://lasentinel.net/news/local"
+    },
+    {
+      "text": "Sofi Stadium to Host Trailblazing Skateboarding Competition",
+      "url": "https://lasentinel.net/sofi-stadium-to-host-trailblazing-skateboarding-competition.html"
+    },
+    {
+      "text": "Basketball",
+      "url": "https://lasentinel.net/sports/basketball"
+    },
+    {
+      "text": "Lakers sign Sons of Shaquille O\u2019Neal, Scottie Pippen",
+      "url": "https://lasentinel.net/lakers-sign-sons-of-shaquille-oneal-scottie-pippen.html"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://lasentinel.net/entertainment"
+    },
+    {
+      "text": "\u2018All Rise\u2019 for Actress Simone Missick",
+      "url": "https://lasentinel.net/all-rise-for-actress-simone-missick.html"
+    },
+    {
+      "text": "WENDY'S WINDOW",
+      "url": "https://lasentinel.net/opinion/wendy-gladney"
+    },
+    {
+      "text": "Death is Part of Life",
+      "url": "https://lasentinel.net/death-is-part-of-life.html"
+    },
+    {
+      "text": "Cartoons",
+      "url": "https://lasentinel.net/cartoons"
+    },
+    {
+      "text": "David G. Brown Weekly Cartoon 6/30/22- 7/6/22",
+      "url": "https://lasentinel.net/david-g-brown-weekly-cartoon-63022-7622.html"
+    },
+    {
+      "text": "Celebration of Life",
+      "url": "https://lasentinel.net/news/celebration-of-life"
+    },
+    {
+      "text": "Dr. Willie Morrow, Black Media Pioneer and Creator of the \u2018Afro-Pick,\u2019 Passes at 82 \u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://lasentinel.net/dr-willie-morrow-black-media-pioneer-and-creator-of-the-afro-pick-passes-at-82.html"
+    },
+    {
+      "text": "Baseball",
+      "url": "https://lasentinel.net/sports/baseball"
+    },
+    {
+      "text": "Student Athlete of the Week: Ryu McGee-Burge",
+      "url": "https://lasentinel.net/student-athlete-of-the-week-ryu-mcgee-burge.html"
+    },
+    {
+      "text": "Religion",
+      "url": "https://lasentinel.net/religion"
+    },
+    {
+      "text": "Beloved Basketball Coach Michael Lynch Lauded in Surprise Ceremony",
+      "url": "https://lasentinel.net/beloved-basketball-coach-michael-lynch-lauded-in-surprise-ceremony.html"
+    },
+    {
+      "text": "News",
+      "url": "https://lasentinel.net/news"
+    },
+    {
+      "text": "UCLA Fielding School of Public Health Professor and Grad Student Recognized",
+      "url": "https://lasentinel.net/ucla-fielding-school-of-public-health-professor-and-grad-student-recognized.html"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://lasentinel.net/opinion"
+    },
+    {
+      "text": "Democracy is not a Spectator Sport",
+      "url": "https://lasentinel.net/democracy-is-not-a-spectator-sport.html"
+    },
+    {
+      "text": "Local",
+      "url": "https://lasentinel.net/news/local"
+    },
+    {
+      "text": "Sofi Stadium to Host Trailblazing Skateboarding Competition",
+      "url": "https://lasentinel.net/sofi-stadium-to-host-trailblazing-skateboarding-competition.html"
+    },
+    {
+      "text": "Basketball",
+      "url": "https://lasentinel.net/sports/basketball"
+    },
+    {
+      "text": "Lakers sign Sons of Shaquille O\u2019Neal, Scottie Pippen",
+      "url": "https://lasentinel.net/lakers-sign-sons-of-shaquille-oneal-scottie-pippen.html"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://lasentinel.net/entertainment"
+    },
+    {
+      "text": "\u2018All Rise\u2019 for Actress Simone Missick",
+      "url": "https://lasentinel.net/all-rise-for-actress-simone-missick.html"
+    },
+    {
+      "text": "WENDY'S WINDOW",
+      "url": "https://lasentinel.net/opinion/wendy-gladney"
+    },
+    {
+      "text": "Death is Part of Life",
+      "url": "https://lasentinel.net/death-is-part-of-life.html"
+    },
+    {
+      "text": "Cartoons",
+      "url": "https://lasentinel.net/cartoons"
+    },
+    {
+      "text": "David G. Brown Weekly Cartoon 6/30/22- 7/6/22",
+      "url": "https://lasentinel.net/david-g-brown-weekly-cartoon-63022-7622.html"
+    },
+    {
+      "text": "Celebration of Life",
+      "url": "https://lasentinel.net/news/celebration-of-life"
+    },
+    {
+      "text": "Dr. Willie Morrow, Black Media Pioneer and Creator of the \u2018Afro-Pick,\u2019 Passes at 82 \u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://lasentinel.net/dr-willie-morrow-black-media-pioneer-and-creator-of-the-afro-pick-passes-at-82.html"
+    },
+    {
+      "text": "Baseball",
+      "url": "https://lasentinel.net/sports/baseball"
+    },
+    {
+      "text": "Student Athlete of the Week: Ryu McGee-Burge",
+      "url": "https://lasentinel.net/student-athlete-of-the-week-ryu-mcgee-burge.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/april-verrett-unanimously-elected-as-secretary-treasurer-of-seiu-international-board.html"
+    },
+    {
+      "text": "April Verrett Unanimously Elected as Secretary Treasurer of SEIU International Board",
+      "url": "https://lasentinel.net/april-verrett-unanimously-elected-as-secretary-treasurer-of-seiu-international-board.html"
+    },
+    {
+      "text": "Read More \u00bb",
+      "url": "https://lasentinel.net/april-verrett-unanimously-elected-as-secretary-treasurer-of-seiu-international-board.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/despite-controversies-wesson-marks-multiple-successes-in-cd-10.html"
+    },
+    {
+      "text": "Despite Controversies, Wesson Marks Multiple Successes in CD 10",
+      "url": "https://lasentinel.net/despite-controversies-wesson-marks-multiple-successes-in-cd-10.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/l-a-metro-hosts-dedication-celebration-to-showcase-crenshawlax-leimert-park-station.html"
+    },
+    {
+      "text": "L.A. Metro Hosts Dedication Celebration to Showcase Crenshaw/LAX Leimert Park Station",
+      "url": "https://lasentinel.net/l-a-metro-hosts-dedication-celebration-to-showcase-crenshawlax-leimert-park-station.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/l-a-county-returns-of-bruces-beach-to-the-rightful-heirs-of-charles-and-willa-bruce.html"
+    },
+    {
+      "text": "L.A. County Returns of Bruce\u2019s Beach to the Rightful Heirs of Charles and Willa Bruce",
+      "url": "https://lasentinel.net/l-a-county-returns-of-bruces-beach-to-the-rightful-heirs-of-charles-and-willa-bruce.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/ag-rob-bonta-ruling-sends-fate-of-district-10-back-into-courts-hands.html"
+    },
+    {
+      "text": "AG Rob Bonta Ruling Sends Fate of District 10 Back into Court\u2019s Hands",
+      "url": "https://lasentinel.net/ag-rob-bonta-ruling-sends-fate-of-district-10-back-into-courts-hands.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/r-kelly-sentenced-to-30-years-in-sex-trafficking-case.html"
+    },
+    {
+      "text": "R. Kelly Sentenced to 30 Years in Sex Trafficking Case",
+      "url": "https://lasentinel.net/r-kelly-sentenced-to-30-years-in-sex-trafficking-case.html"
+    },
+    {
+      "text": "The Brilliance of Neurosurgeon Keith Black \u2013 A Profile in Excellence\u00a0\u00a0",
+      "url": "https://lasentinel.net/the-brilliance-of-neurosurgeon-keith-black-a-profile-in-excellence.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/the-brilliance-of-neurosurgeon-keith-black-a-profile-in-excellence.html"
+    },
+    {
+      "text": "Paul George Foundation and Brotherhood Crusade Host L.A. Students at Space Camp\u00a0",
+      "url": "https://lasentinel.net/paul-george-foundation-and-brotherhood-crusade-host-l-a-students-at-space-camp.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/paul-george-foundation-and-brotherhood-crusade-host-l-a-students-at-space-camp.html"
+    },
+    {
+      "text": "YWCA Celebrates Annual Phenomenal Woman Awards With Tiffany Haddish, Cedric the Entertainer and More\u00a0\u00a0",
+      "url": "https://lasentinel.net/ywca-celebrates-annual-phenomenal-woman-awards-with-tiffany-haddish-cedric-the-entertainer-and-more.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/ywca-celebrates-annual-phenomenal-woman-awards-with-tiffany-haddish-cedric-the-entertainer-and-more.html"
+    },
+    {
+      "text": "Tracy McGrady Showcases Overlooked Talent in Ones Basketball League\u00a0",
+      "url": "https://lasentinel.net/tracy-mcgrady-showcases-overlooked-talent-in-ones-basketball-league.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/tracy-mcgrady-showcases-overlooked-talent-in-ones-basketball-league.html"
+    },
+    {
+      "text": "McKinnor Takes Oath to Represent Assembly District 62",
+      "url": "https://lasentinel.net/mckinnor-takes-oath-to-represent-assembly-district-62.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/mckinnor-takes-oath-to-represent-assembly-district-62.html"
+    },
+    {
+      "text": "Skilled Trades 4 U Assists Former Gang Members and the Unsheltered",
+      "url": "https://lasentinel.net/233800.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/233800.html"
+    },
+    {
+      "text": "Harris-Dawson, Wesson\u202fto Host 4th Annual South LA Pride Celebration",
+      "url": "https://lasentinel.net/harris-dawson-wesson%e2%80%afto-host-4th-annual-south-la-pride-celebration.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/harris-dawson-wesson%e2%80%afto-host-4th-annual-south-la-pride-celebration.html"
+    },
+    {
+      "text": "Honor Thy Father Celebration Held on Juneteenth",
+      "url": "https://lasentinel.net/honor-thy-father-celebration-held-on-juneteenth.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/honor-thy-father-celebration-held-on-juneteenth.html"
+    },
+    {
+      "text": "Free Business Seminars Usher in Clean Wave Economic Opportunity for South L.A.",
+      "url": "https://lasentinel.net/free-business-seminars-usher-in-clean-wave-economic-opportunity-for-south-l-a.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/free-business-seminars-usher-in-clean-wave-economic-opportunity-for-south-l-a.html"
+    },
+    {
+      "text": "Lura\u2019s Kitchen, Inc. Lends Support to CCCF\u2019s Tower Project\u00a0",
+      "url": "https://lasentinel.net/luras-kitchen-inc-lends-support-to-cccfs-tower-project.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/luras-kitchen-inc-lends-support-to-cccfs-tower-project.html"
+    },
+    {
+      "text": "Spivey\u2019s Quilts Stitch Together African American Culture and History",
+      "url": "https://lasentinel.net/spiveys-quilts-stitch-together-african-american-culture-and-history.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/spiveys-quilts-stitch-together-african-american-culture-and-history.html"
+    },
+    {
+      "text": "L.A. Rams Celebrate Kenny Washington Scholarship Recipients",
+      "url": "https://lasentinel.net/l-a-rams-celebrate-kenny-washington-scholarship-recipients.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/l-a-rams-celebrate-kenny-washington-scholarship-recipients.html"
+    },
+    {
+      "text": "\u2018Tale of the Lion King\u2019 Director Paul Bryant",
+      "url": "https://lasentinel.net/tale-of-the-lion-king-director-paul-bryant.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/tale-of-the-lion-king-director-paul-bryant.html"
+    },
+    {
+      "text": "Student Athlete of the Week: Tamaya Hemphill",
+      "url": "https://lasentinel.net/student-athlete-of-the-week-tamaya-hemphill.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/student-athlete-of-the-week-tamaya-hemphill.html"
+    },
+    {
+      "text": "San Pedro Music Festival Set for July 31",
+      "url": "https://lasentinel.net/san-pedro-music-festival-set-for-july-31.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/san-pedro-music-festival-set-for-july-31.html"
+    },
+    {
+      "text": "African American and Community Leaders Speak Out on SCOTUS Roe Reversal",
+      "url": "https://lasentinel.net/african-american-and-community-leaders-speak-out-on-scotus-roe-reversal.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/african-american-and-community-leaders-speak-out-on-scotus-roe-reversal.html"
+    },
+    {
+      "text": "California Senate Gets Second Chance to Pass Prison Slavery Bill",
+      "url": "https://lasentinel.net/california-senate-gets-second-chance-to-pass-prison-slavery-bill.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/california-senate-gets-second-chance-to-pass-prison-slavery-bill.html"
+    },
+    {
+      "text": "California Black Women\u2019s Collective Celebrate Statewide Trailblazers and Leaders",
+      "url": "https://lasentinel.net/california-black-womens-collective-celebrate-statewide-trailblazers-and-leaders.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/california-black-womens-collective-celebrate-statewide-trailblazers-and-leaders.html"
+    },
+    {
+      "text": "Cautious Parents Weigh Decision to Give Children Under Five COVID Vaccine",
+      "url": "https://lasentinel.net/cautious-parents-weigh-decision-to-give-children-under-five-covid-vaccine.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/cautious-parents-weigh-decision-to-give-children-under-five-covid-vaccine.html"
+    },
+    {
+      "text": "Save Time, Skip the Line with DMV Driver\u2019s License Testing Options",
+      "url": "https://lasentinel.net/save-time-skip-the-line-with-dmv-drivers-license-testing-options.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/save-time-skip-the-line-with-dmv-drivers-license-testing-options.html"
+    },
+    {
+      "text": "Remembering our Ancestors and Securing our Future at Festival of Masks",
+      "url": "https://lasentinel.net/remembering-our-ancestors-and-securing-our-future-at-festival-of-masks.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/remembering-our-ancestors-and-securing-our-future-at-festival-of-masks.html"
+    },
+    {
+      "text": "Fenty Beauty \u2013 Has Everything for the No MakeUp \u2013 Make Up Trend",
+      "url": "https://lasentinel.net/234161.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/234161.html"
+    },
+    {
+      "text": "Celebrate Safely on This Fourth of July",
+      "url": "https://lasentinel.net/celebrate-safely-on-this-fourth-of-july.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/celebrate-safely-on-this-fourth-of-july.html"
+    },
+    {
+      "text": "Author Devyn Bakewell Continues College Love Story with Sequel, \u2018Greater Life\u2019",
+      "url": "https://lasentinel.net/author-devyn-bakewell-continues-college-love-story-with-sequel-greater-life.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/author-devyn-bakewell-continues-college-love-story-with-sequel-greater-life.html"
+    },
+    {
+      "text": "RELIGION",
+      "url": "https://lasentinel.net/religion"
+    },
+    {
+      "text": "Beloved Basketball Coach Michael Lynch Lauded in Surprise Ceremony",
+      "url": "https://lasentinel.net/beloved-basketball-coach-michael-lynch-lauded-in-surprise-ceremony.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/beloved-basketball-coach-michael-lynch-lauded-in-surprise-ceremony.html"
+    },
+    {
+      "text": "More Religion",
+      "url": "https://lasentinel.net/religion"
+    },
+    {
+      "text": "L.A. Mission Prayer Walk Reclaims Skid Row for Kingdom of God",
+      "url": "https://lasentinel.net/l-a-mission-prayer-walk-reclaims-skid-row-for-kingdom-of-god.html"
+    },
+    {
+      "text": "Mayor Butts Congratulates Joshua!",
+      "url": "https://lasentinel.net/mayor-butts-congratulates-joshua.html"
+    },
+    {
+      "text": "Faith Leaders Stand with Women After SCOTUS Decision",
+      "url": "https://lasentinel.net/faith-leaders-stand-with-women-after-scotus-decision.html"
+    },
+    {
+      "text": "New Book Highlights Vital Role of Black Fathers",
+      "url": "https://lasentinel.net/new-book-highlights-vital-role-of-black-fathers.html"
+    },
+    {
+      "text": "NEWS",
+      "url": "https://lasentinel.net/news"
+    },
+    {
+      "text": "UCLA Fielding School of Public Health Professor and Grad Student Recognized",
+      "url": "https://lasentinel.net/ucla-fielding-school-of-public-health-professor-and-grad-student-recognized.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/ucla-fielding-school-of-public-health-professor-and-grad-student-recognized.html"
+    },
+    {
+      "text": "More News",
+      "url": "https://lasentinel.net/news"
+    },
+    {
+      "text": "Pasadena School Board Approves Recommendations to Reduce Suspensions for Black Students",
+      "url": "https://lasentinel.net/pasadena-school-board-approves-recommendations-to-reduce-suspensions-for-black-students.html"
+    },
+    {
+      "text": "California Hawaii State NAACP Honors Maxine Waters",
+      "url": "https://lasentinel.net/california-hawaii-state-naacp-honors-maxine-waters.html"
+    },
+    {
+      "text": "Staying in the Black: Millionaires in Training",
+      "url": "https://lasentinel.net/staying-in-the-black-millionaires-in-training.html"
+    },
+    {
+      "text": "Kinecta Federal Credit Union Celebrates Black-Owned Businesses",
+      "url": "https://lasentinel.net/kinecta-federal-credit-union-celebrates-black-owned-businesses.html"
+    },
+    {
+      "text": "OPINION",
+      "url": "https://lasentinel.net/opinion"
+    },
+    {
+      "text": "Democracy is not a Spectator Sport",
+      "url": "https://lasentinel.net/democracy-is-not-a-spectator-sport.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/democracy-is-not-a-spectator-sport.html"
+    },
+    {
+      "text": "More Opinion",
+      "url": "https://lasentinel.net/opinion"
+    },
+    {
+      "text": "Start on Your Knees Then Roll Up Your Sleeves\u00a0",
+      "url": "https://lasentinel.net/start-on-your-knees-then-roll-up-your-sleeves.html"
+    },
+    {
+      "text": "Will 2022 L.A. Mayor\u2019s Race Mirror the One in 1993?\u00a0",
+      "url": "https://lasentinel.net/will-2022-l-a-mayors-race-mirror-the-one-in-1993.html"
+    },
+    {
+      "text": "Happy Juneteenth, Los Angeles!",
+      "url": "https://lasentinel.net/happy-juneteenth-los-angeles.html"
+    },
+    {
+      "text": "Juneteenth Message: Why Freedom?",
+      "url": "https://lasentinel.net/juneteenth-message-why-freedom.html"
+    },
+    {
+      "text": "LOCAL",
+      "url": "https://lasentinel.net/news/local"
+    },
+    {
+      "text": "Sofi Stadium to Host Trailblazing Skateboarding Competition",
+      "url": "https://lasentinel.net/sofi-stadium-to-host-trailblazing-skateboarding-competition.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/sofi-stadium-to-host-trailblazing-skateboarding-competition.html"
+    },
+    {
+      "text": "More Local",
+      "url": "https://lasentinel.net/news/local"
+    },
+    {
+      "text": "Dr. Ronald Simmons Transforms Lives of Those Affected by Drug and Alcohol Addiction",
+      "url": "https://lasentinel.net/dr-ronald-simmons-transforms-lives-of-those-affected-by-drug-and-alcohol-addiction.html"
+    },
+    {
+      "text": "27th Street Fireworks Explosion: One Year Later\u00a0",
+      "url": "https://lasentinel.net/27th-street-fireworks-explosion-one-year-later.html"
+    },
+    {
+      "text": "Caribbean Heritage Festival comes to South LA!\u00a0",
+      "url": "https://lasentinel.net/caribbean-heritage-festival-comes-to-south-la.html"
+    },
+    {
+      "text": "Nana Patrice Lumumba\u2019s Legacy: Living and Dying in Liberating Resistance",
+      "url": "https://lasentinel.net/nana-patrice-lumumbas-legacy-living-and-dying-in-liberating-resistance.html"
+    },
+    {
+      "text": "BASKETBALL",
+      "url": "https://lasentinel.net/sports/basketball"
+    },
+    {
+      "text": "Lakers sign Sons of Shaquille O\u2019Neal, Scottie Pippen",
+      "url": "https://lasentinel.net/lakers-sign-sons-of-shaquille-oneal-scottie-pippen.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/lakers-sign-sons-of-shaquille-oneal-scottie-pippen.html"
+    },
+    {
+      "text": "More Basketball",
+      "url": "https://lasentinel.net/sports/basketball"
+    },
+    {
+      "text": "Aces Outlast Sparks in 79-73 Victory",
+      "url": "https://lasentinel.net/aces-outlast-sparks-in-79-73-victory.html"
+    },
+    {
+      "text": "Candace Parker Makes a Triple-Double on the L.A. Sparks",
+      "url": "https://lasentinel.net/candace-parker-makes-a-triple-double-on-the-l-a-sparks.html"
+    },
+    {
+      "text": "Sparks Hold on Late in 84-82 Win over Mystics",
+      "url": "https://lasentinel.net/sparks-hold-on-late-in-84-82-win-over-mystics.html"
+    },
+    {
+      "text": "Detention Woes Continue for Brittney Griner",
+      "url": "https://lasentinel.net/detention-woes-continue-for-brittney-griner.html"
+    },
+    {
+      "text": "ENTERTAINMENT",
+      "url": "https://lasentinel.net/entertainment"
+    },
+    {
+      "text": "\u2018All Rise\u2019 for Actress Simone Missick",
+      "url": "https://lasentinel.net/all-rise-for-actress-simone-missick.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/all-rise-for-actress-simone-missick.html"
+    },
+    {
+      "text": "More Entertainment",
+      "url": "https://lasentinel.net/entertainment"
+    },
+    {
+      "text": "Lance Gross Hosts The Road to ESSENCE Festival of Culture Tour",
+      "url": "https://lasentinel.net/lance-gross-hosts-the-road-to-essence-festival-of-culture-tour.html"
+    },
+    {
+      "text": "Tonys Latest \u2018A Strange Loop\u2019 Wins for Best New Musical",
+      "url": "https://lasentinel.net/tonys-latest-a-strange-loop-wins-for-best-new-musical.html"
+    },
+    {
+      "text": "LOS ANGELES PHILHARMONIC ASSOCIATION NAMES ARSENIO HALL AS HOST FOR 2022 HOLLYWOOD BOWL JAZZ FESTIVAL \u00a0",
+      "url": "https://lasentinel.net/los-angeles-philharmonic-association-names-arsenio-hall-as-host-for-2022-hollywood-bowl-jazz-festival.html"
+    },
+    {
+      "text": "Tribeca Film Festival \u2014 It\u2019s A Wrap \u2014 2022",
+      "url": "https://lasentinel.net/tribeca-film-festival-its-a-wrap-2022.html"
+    },
+    {
+      "text": "WENDY'S WINDOW",
+      "url": "https://lasentinel.net/opinion/wendy-gladney"
+    },
+    {
+      "text": "Death is Part of Life",
+      "url": "https://lasentinel.net/death-is-part-of-life.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/death-is-part-of-life.html"
+    },
+    {
+      "text": "More WENDY'S WINDOW",
+      "url": "https://lasentinel.net/opinion/wendy-gladney"
+    },
+    {
+      "text": "Day of Jubilee\u00a0\u00a0",
+      "url": "https://lasentinel.net/day-of-jubilee.html"
+    },
+    {
+      "text": "CARTOONS",
+      "url": "https://lasentinel.net/cartoons"
+    },
+    {
+      "text": "David G. Brown Weekly Cartoon 6/30/22- 7/6/22",
+      "url": "https://lasentinel.net/david-g-brown-weekly-cartoon-63022-7622.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/david-g-brown-weekly-cartoon-63022-7622.html"
+    },
+    {
+      "text": "More Cartoons",
+      "url": "https://lasentinel.net/cartoons"
+    },
+    {
+      "text": "DAVID G. Brown Weekly Cartoon 6/23/22-6/29/22",
+      "url": "https://lasentinel.net/david-g-brown-weekly-cartoon-62322-62922.html"
+    },
+    {
+      "text": "David G. Brown Weekly Cartoon 6/16/22- 6/22/22",
+      "url": "https://lasentinel.net/david-g-brown-weekly-cartoon-61622-62222.html"
+    },
+    {
+      "text": "CELEBRATION OF LIFE",
+      "url": "https://lasentinel.net/news/celebration-of-life"
+    },
+    {
+      "text": "Dr. Willie Morrow, Black Media Pioneer and Creator of the \u2018Afro-Pick,\u2019 Passes at 82 \u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://lasentinel.net/dr-willie-morrow-black-media-pioneer-and-creator-of-the-afro-pick-passes-at-82.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/dr-willie-morrow-black-media-pioneer-and-creator-of-the-afro-pick-passes-at-82.html"
+    },
+    {
+      "text": "More Celebration of Life",
+      "url": "https://lasentinel.net/news/celebration-of-life"
+    },
+    {
+      "text": "Bernice Mitchell Passes Away",
+      "url": "https://lasentinel.net/bernice-mitchell-passes-away.html"
+    },
+    {
+      "text": "WATCH: Los Angeles Sentinel \u2018Daily Brief\u201d",
+      "url": "https://lasentinel.net/watch-los-angeles-sentinel-daily-brief.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/watch-los-angeles-sentinel-daily-brief.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/watch-los-angeles-sentinel-daily-brief.html"
+    },
+    {
+      "text": "WATCH:Black Money Matters Podcast Ep. 2 \u2013 Building and Maintaining Black Wealth Pt. 1 Ft. Deb Langford",
+      "url": "https://lasentinel.net/watch-black-money-matters-pt-2.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/watch-black-money-matters-pt-2.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/watch-black-money-matters-pt-2.html"
+    },
+    {
+      "text": "WATCH:Congressmember Jim Clyburn Supports Karen Bass for Mayor of Los Angeles",
+      "url": "https://lasentinel.net/watchcongressmember-jim-clyburn-supports-karen-bass-for-mayor-of-los-angeles.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/watchcongressmember-jim-clyburn-supports-karen-bass-for-mayor-of-los-angeles.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/watchcongressmember-jim-clyburn-supports-karen-bass-for-mayor-of-los-angeles.html"
+    },
+    {
+      "text": "WATCH: Black Money Matters Ep.1",
+      "url": "https://lasentinel.net/watch-black-money-matters-ep-1.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/watch-black-money-matters-ep-1.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/watch-black-money-matters-ep-1.html"
+    },
+    {
+      "text": "#BLACKHEALTH A Call for Community Healing: Black Participation in Alzheimer\u2019s Research",
+      "url": "https://lasentinel.net/blackhealth-a-call-for-community-healing-black-participation-in-alzheimers-research.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/blackhealth-a-call-for-community-healing-black-participation-in-alzheimers-research.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/blackhealth-a-call-for-community-healing-black-participation-in-alzheimers-research.html"
+    },
+    {
+      "text": "#Young #Black #Creative Inglewood Artist Produces Show \u2018In a Session.\u2019",
+      "url": "https://lasentinel.net/young-black-creative-inglewood-artist-produces-show-in-a-session.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/young-black-creative-inglewood-artist-produces-show-in-a-session.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/young-black-creative-inglewood-artist-produces-show-in-a-session.html"
+    },
+    {
+      "text": "#BlackHistory Living Local Legend: Dr. Saul Lankster, First Black Firefighter in Compton,CA",
+      "url": "https://lasentinel.net/blackhistory-living-local-legend-dr-saul-lankster-first-black-firefighter-in-comptonca.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/blackhistory-living-local-legend-dr-saul-lankster-first-black-firefighter-in-comptonca.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/blackhistory-living-local-legend-dr-saul-lankster-first-black-firefighter-in-comptonca.html"
+    },
+    {
+      "text": "#USC Includes Community Input for nationwide search for its next Department of Public Safety Chief",
+      "url": "https://lasentinel.net/usc-includes-community-input-for-nationwide-search-for-its-next-department-of-public-safety-chief-2.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/usc-includes-community-input-for-nationwide-search-for-its-next-department-of-public-safety-chief-2.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/usc-includes-community-input-for-nationwide-search-for-its-next-department-of-public-safety-chief-2.html"
+    },
+    {
+      "text": "All Videos >>",
+      "url": "/videos"
+    },
+    {
+      "text": "March 31: \u201cThe Fire Next Time\u201d 1963",
+      "url": "https://lasentinel.net/march-31-the-fire-next-time-1963.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/march-31-the-fire-next-time-1963.html"
+    },
+    {
+      "text": "All Facts >>",
+      "url": "/black-fact-of-the-day"
+    },
+    {
+      "text": "Fashions at the 94th Oscar Awards Ceremony (all photos by Valerie Goodloe)",
+      "url": "https://lasentinel.net/fashions-at-the-94th-oscar-awards-ceremony-all-photos-by-valerie-goodloe.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/fashions-at-the-94th-oscar-awards-ceremony-all-photos-by-valerie-goodloe.html"
+    },
+    {
+      "text": "All Photos>>",
+      "url": "/photo-of-the-day"
+    },
+    {
+      "text": "Come See an Award-Winning African American Art Exhibition in Malibu",
+      "url": "https://lasentinel.net/events/come-see-an-award-winning-african-american-art-exhibition-in-malibu-2"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/events/come-see-an-award-winning-african-american-art-exhibition-in-malibu-2"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/events/come-see-an-award-winning-african-american-art-exhibition-in-malibu-2"
+    },
+    {
+      "text": "All Events >>",
+      "url": "/events"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/epaper/june-30-2022"
+    },
+    {
+      "text": "Subscribe Now!",
+      "url": "/subscribe"
+    },
+    {
+      "text": "All ePapers >>",
+      "url": "/epaper"
+    },
+    {
+      "text": "",
+      "url": "https://itunes.apple.com/us/app/los-angeles-sentinel-mobile/id1071867238?mt=8"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=com.app_pdg1040.layout"
+    },
+    {
+      "text": "",
+      "url": "/win"
+    },
+    {
+      "text": "",
+      "url": "/classifieds"
+    },
+    {
+      "text": "",
+      "url": "/shop/taste-of-soul-cookbook"
+    },
+    {
+      "text": "",
+      "url": "http://lawattstimes.com/"
+    },
+    {
+      "text": "All Covers >>",
+      "url": "http://lawattstimes.com/index.php?option=com_content&view=category&layout=blog&id=41&Itemid=133"
+    },
+    {
+      "text": " Local \u00bb",
+      "url": "https://lasentinel.net/news/local"
+    },
+    {
+      "text": "Sofi Stadium to Host Trailblazing Skateboarding Competition",
+      "url": "https://lasentinel.net/sofi-stadium-to-host-trailblazing-skateboarding-competition.html"
+    },
+    {
+      "text": "Dr. Ronald Simmons Transforms Lives of Those Affected by Drug and Alcohol Addiction",
+      "url": "https://lasentinel.net/dr-ronald-simmons-transforms-lives-of-those-affected-by-drug-and-alcohol-addiction.html"
+    },
+    {
+      "text": "L.A. Metro Hosts Dedication Celebration to Showcase Crenshaw/LAX Leimert Park Station",
+      "url": "https://lasentinel.net/l-a-metro-hosts-dedication-celebration-to-showcase-crenshawlax-leimert-park-station.html"
+    },
+    {
+      "text": "27th Street Fireworks Explosion: One Year Later\u00a0",
+      "url": "https://lasentinel.net/27th-street-fireworks-explosion-one-year-later.html"
+    },
+    {
+      "text": " National \u00bb",
+      "url": "https://lasentinel.net/news/national"
+    },
+    {
+      "text": "African American and Community Leaders Speak Out on SCOTUS Roe Reversal",
+      "url": "https://lasentinel.net/african-american-and-community-leaders-speak-out-on-scotus-roe-reversal.html"
+    },
+    {
+      "text": "African American Leaders Speak Out on SCOTUS Roe Reversal",
+      "url": "https://lasentinel.net/african-american-leaders-speak-out-on-scotus-roe-reversal.html"
+    },
+    {
+      "text": "MLS and Black Players for Change Commemorate Juneteenth with \u201cFreedom to Be\u201d Jersey Numbers and Auction for Impact Organizations",
+      "url": "https://lasentinel.net/mls-and-black-players-for-change-commemorate-juneteenth-with-freedom-to-be-jersey-numbers-and-auction-for-impact-organizations.html"
+    },
+    {
+      "text": "L.A., Carson and Cities Across State Commemorate Juneteenth 2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://lasentinel.net/l-a-carson-and-cities-across-state-commemorate-juneteenth-2022.html"
+    },
+    {
+      "text": " International \u00bb",
+      "url": "https://lasentinel.net/news/international"
+    },
+    {
+      "text": "Growing African mangrove forests aim to combat climate woes\u00a0",
+      "url": "https://lasentinel.net/growing-african-mangrove-forests-aim-to-combat-climate-woes.html"
+    },
+    {
+      "text": "21 Abducted Schoolchildren Rescued in Northwestern Nigeria",
+      "url": "https://lasentinel.net/21-abducted-schoolchildren-rescued-in-northwestern-nigeria.html"
+    },
+    {
+      "text": "Sudan\u2019s PM Announces Resignation Amid Political Deadlock",
+      "url": "https://lasentinel.net/sudans-pm-announces-resignation-amid-political-deadlock.html"
+    },
+    {
+      "text": "Ethiopia Passes Law to Start National Dialogue Commission",
+      "url": "https://lasentinel.net/ethiopia-passes-law-to-start-national-dialogue-commission.html"
+    },
+    {
+      "text": " Business \u00bb",
+      "url": "https://lasentinel.net/business"
+    },
+    {
+      "text": "April Verrett Unanimously Elected as Secretary Treasurer of SEIU International Board",
+      "url": "https://lasentinel.net/april-verrett-unanimously-elected-as-secretary-treasurer-of-seiu-international-board.html"
+    },
+    {
+      "text": "First Black Woman Winery Owner Releases Memoir",
+      "url": "https://lasentinel.net/first-black-woman-winery-owner-releases-memoir.html"
+    },
+    {
+      "text": "Celebrity Designer and Opening Number for City Girls, Big Chan is the Complete Package",
+      "url": "https://lasentinel.net/celebrity-designer-and-opening-number-for-city-girls-big-chan-is-the-complete-package.html"
+    },
+    {
+      "text": "Lendistry Tapped to Administer State Grants Program for Entrepreneurs\u00a0\u00a0",
+      "url": "https://lasentinel.net/lendistry-tapped-to-administer-state-grants-program-for-entrepreneurs.html"
+    },
+    {
+      "text": " Entertainment \u00bb",
+      "url": "https://lasentinel.net/entertainment"
+    },
+    {
+      "text": "\u2018All Rise\u2019 for Actress Simone Missick",
+      "url": "https://lasentinel.net/all-rise-for-actress-simone-missick.html"
+    },
+    {
+      "text": "San Pedro Music Festival Set for July 31",
+      "url": "https://lasentinel.net/san-pedro-music-festival-set-for-july-31.html"
+    },
+    {
+      "text": "Lance Gross Hosts The Road to ESSENCE Festival of Culture Tour",
+      "url": "https://lasentinel.net/lance-gross-hosts-the-road-to-essence-festival-of-culture-tour.html"
+    },
+    {
+      "text": "Hilltop Coffee + Kitchen Hosts Menakem Booksigning with Angela Rye & Devi Brown",
+      "url": "https://lasentinel.net/hilltop-coffee-kitchen-hosts-menakem-booksigning-with-angela-rye-devi-brown.html"
+    },
+    {
+      "text": " Sports \u00bb",
+      "url": "https://lasentinel.net/sports"
+    },
+    {
+      "text": "Sofi Stadium to Host Trailblazing Skateboarding Competition",
+      "url": "https://lasentinel.net/sofi-stadium-to-host-trailblazing-skateboarding-competition.html"
+    },
+    {
+      "text": "Lakers sign Sons of Shaquille O\u2019Neal, Scottie Pippen",
+      "url": "https://lasentinel.net/lakers-sign-sons-of-shaquille-oneal-scottie-pippen.html"
+    },
+    {
+      "text": "Student Athlete of the Week: Ryu McGee-Burge",
+      "url": "https://lasentinel.net/student-athlete-of-the-week-ryu-mcgee-burge.html"
+    },
+    {
+      "text": "Aces Outlast Sparks in 79-73 Victory",
+      "url": "https://lasentinel.net/aces-outlast-sparks-in-79-73-victory.html"
+    },
+    {
+      "text": " Religion \u00bb",
+      "url": "https://lasentinel.net/religion"
+    },
+    {
+      "text": "Beloved Basketball Coach Michael Lynch Lauded in Surprise Ceremony",
+      "url": "https://lasentinel.net/beloved-basketball-coach-michael-lynch-lauded-in-surprise-ceremony.html"
+    },
+    {
+      "text": "L.A. Mission Prayer Walk Reclaims Skid Row for Kingdom of God",
+      "url": "https://lasentinel.net/l-a-mission-prayer-walk-reclaims-skid-row-for-kingdom-of-god.html"
+    },
+    {
+      "text": "Mayor Butts Congratulates Joshua!",
+      "url": "https://lasentinel.net/mayor-butts-congratulates-joshua.html"
+    },
+    {
+      "text": "Faith Leaders Stand with Women After SCOTUS Decision",
+      "url": "https://lasentinel.net/faith-leaders-stand-with-women-after-scotus-decision.html"
+    },
+    {
+      "text": " Family \u00bb",
+      "url": "https://lasentinel.net/family"
+    },
+    {
+      "text": "Remembering our Ancestors and Securing our Future at Festival of Masks",
+      "url": "https://lasentinel.net/remembering-our-ancestors-and-securing-our-future-at-festival-of-masks.html"
+    },
+    {
+      "text": "Celebrate Safely on This Fourth of July",
+      "url": "https://lasentinel.net/celebrate-safely-on-this-fourth-of-july.html"
+    },
+    {
+      "text": "Fenty Beauty \u2013 Has Everything for the No MakeUp \u2013 Make Up Trend",
+      "url": "https://lasentinel.net/234161.html"
+    },
+    {
+      "text": "Etienne Maurice, Founder of WalkGood LA",
+      "url": "https://lasentinel.net/etienne-maurice-founder-of-walkgood-la.html"
+    },
+    {
+      "text": " Crenshaw & Around \u00bb",
+      "url": "https://lasentinel.net/crenshaw-around"
+    },
+    {
+      "text": "Fannie Lou Hamer Calls Us\u00a0\u00a0",
+      "url": "https://lasentinel.net/fannie-lou-hamer-calls-us.html"
+    },
+    {
+      "text": "Sign Up For SoLa Tech Camp 2022!",
+      "url": "https://lasentinel.net/sign-up-for-sola-tech-camp-2022.html"
+    },
+    {
+      "text": "Become a Vendor for Taste of Soul",
+      "url": "https://lasentinel.net/become-a-vendor-for-taste-of-soul.html"
+    },
+    {
+      "text": "The Heroes Among Us\u00a0",
+      "url": "https://lasentinel.net/the-heroes-among-us.html"
+    },
+    {
+      "text": " Opinion \u00bb",
+      "url": "https://lasentinel.net/opinion"
+    },
+    {
+      "text": "Democracy is not a Spectator Sport",
+      "url": "https://lasentinel.net/democracy-is-not-a-spectator-sport.html"
+    },
+    {
+      "text": "Start on Your Knees Then Roll Up Your Sleeves\u00a0",
+      "url": "https://lasentinel.net/start-on-your-knees-then-roll-up-your-sleeves.html"
+    },
+    {
+      "text": "\u202f7 tips for budgeting during inflation\u00a0",
+      "url": "https://lasentinel.net/%e2%80%af7-tips-for-budgeting-during-inflation.html"
+    },
+    {
+      "text": "Will 2022 L.A. Mayor\u2019s Race Mirror the One in 1993?\u00a0",
+      "url": "https://lasentinel.net/will-2022-l-a-mayors-race-mirror-the-one-in-1993.html"
+    },
+    {
+      "text": " Editorials \u00bb",
+      "url": "https://lasentinel.net/opinion/editorials"
+    },
+    {
+      "text": "BLACK VOTERS WILL BE KEY TO STOPPING GAVIN NEWSOM RECALL EFFORTS",
+      "url": "https://lasentinel.net/black-voters-will-be-key-to-stopping-gavin-newsom-recall-efforts.html"
+    },
+    {
+      "text": "An Emphasis on Safety: Addressing COVID-19 vaccine hesitancy among pregnant women",
+      "url": "https://lasentinel.net/an-emphasis-on-safety-addressing-covid-19-vaccine-hesitancy-among-pregnant-women.html"
+    },
+    {
+      "text": "Los Angeles Sentinel 2020 Endorsement Slate",
+      "url": "https://lasentinel.net/los-angeles-sentinel-2020-endorsement-slate.html"
+    },
+    {
+      "text": "Gov. Newsom should sign AB 1460. It is vital to preparing students educationally and socially for the world in which they will live, work and eventually lead.",
+      "url": "https://lasentinel.net/gov-newsom-should-sign-ab-1460-it-is-vital-to-preparing-students-educationally-and-socially-for-the-world-in-which-they-will-live-work-and-eventually-lead.html"
+    },
+    {
+      "text": " Political \u00bb",
+      "url": "https://lasentinel.net/news/political"
+    },
+    {
+      "text": "Despite Controversies, Wesson Marks Multiple Successes in CD 10",
+      "url": "https://lasentinel.net/despite-controversies-wesson-marks-multiple-successes-in-cd-10.html"
+    },
+    {
+      "text": "California Senate Gets Second Chance to Pass Prison Slavery Bill",
+      "url": "https://lasentinel.net/california-senate-gets-second-chance-to-pass-prison-slavery-bill.html"
+    },
+    {
+      "text": "Black Women Leaders on State\u2019s Election Ballot\u00a0",
+      "url": "https://lasentinel.net/black-women-leaders-on-states-election-ballot.html"
+    },
+    {
+      "text": "Karen Bass Overtakes Caruso as Leading candidate for Mayor of Los Angeles\u00a0",
+      "url": "https://lasentinel.net/karen-bass-overtakes-caruso-as-leading-candidate-for-mayor-of-los-angeles.html"
+    },
+    {
+      "text": "Los Angeles Sentinel ",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Archives",
+      "url": "/archives"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact-us"
+    },
+    {
+      "text": "Corrections & Misprints",
+      "url": "/corrections-misprints"
+    },
+    {
+      "text": "Media Kit",
+      "url": "/media-kit"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/terms-of-service"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "LA Watts Times",
+      "url": "http://lawattstimes.com/"
+    },
+    {
+      "text": "Taste of Soul",
+      "url": "http://tasteofsoul.org/"
+    }
+  ],
+  "uniq": 378169058,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

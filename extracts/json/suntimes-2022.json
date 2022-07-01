@@ -1,5 +1,5 @@
 {
-  "created": 1656548390,
+  "created": 1656635167,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/3/items/suntimes-2022",
@@ -812,31 +812,315 @@
       "sha1": "95b81cb13962d5c272bf3ac356071357d2103e50"
     },
     {
+      "name": "suntimes-2022-06-29T20:36:00.461432-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552964",
+      "size": "45619",
+      "md5": "acfaf43ef8bcf1cf580a32ac6d1fcef7",
+      "crc32": "0199455c",
+      "sha1": "f7fc64bb1b1d1f1526b05924a2a3c77ec3ce6dd3",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-29T20:36:00.461432-05:00.jpg",
+      "source": "original",
+      "mtime": "1656552962",
+      "size": "200632",
+      "md5": "f1f5c5242dbccef79f5941234a65689b",
+      "crc32": "91ecca5d",
+      "sha1": "5283d386866cb315272be8030fea942a1b063d4a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-06-29T20:36:00.461432-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-06-29T20:36:00.461432-05:00.jpg",
+      "mtime": "1656553006",
+      "size": "9098",
+      "md5": "fd650df9d21443aef30ddad528736053",
+      "crc32": "8e11f216",
+      "sha1": "2bfec7ae7175dd2f2c0c21f1367befef16916165"
+    },
+    {
+      "name": "suntimes-2022-06-29T22:49:08.261515-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560952",
+      "size": "40712",
+      "md5": "2b919571ecc25251ee074d3ac225fd48",
+      "crc32": "c5d5fb3a",
+      "sha1": "a9843d201daac081cae5290d28a537f6ad13975c",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-29T22:49:08.261515-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560953",
+      "size": "58457",
+      "md5": "75fe51a00c26d0c3b5f1165646f5e879",
+      "crc32": "21b5daa2",
+      "sha1": "dc20312ad12b628ab11f9d3d18509b2c18f1c852",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-29T22:49:08.261515-05:00.jpg",
+      "source": "original",
+      "mtime": "1656560950",
+      "size": "217686",
+      "md5": "e622986f3df806be0df3daf5ba5f8162",
+      "crc32": "4a789716",
+      "sha1": "21af69795025676f758686f7a38737c0e2ff1020",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-06-29T22:49:08.261515-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-06-29T22:49:08.261515-05:00.jpg",
+      "mtime": "1656560996",
+      "size": "9835",
+      "md5": "8f178c12ff95994bf557dfdb6547aa5f",
+      "crc32": "759452ba",
+      "sha1": "ca696515f84108cda9a1d5155847c9ca76ff500f"
+    },
+    {
+      "name": "suntimes-2022-06-30T00:17:26.925030-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566249",
+      "size": "40945",
+      "md5": "c1997b1913c610d5e6f34b28a6acd7ac",
+      "crc32": "de6af8b6",
+      "sha1": "48fb1fe03d57c616eafb5e4ef69c70348c63f978",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T00:17:26.925030-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566251",
+      "size": "58487",
+      "md5": "bb82b203d94643464457de3e7bbbdf16",
+      "crc32": "565f01ee",
+      "sha1": "30229abd968fcecddc30e49fc9a0410922b45110",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T00:17:26.925030-05:00.jpg",
+      "source": "original",
+      "mtime": "1656566248",
+      "size": "217686",
+      "md5": "e622986f3df806be0df3daf5ba5f8162",
+      "crc32": "4a789716",
+      "sha1": "21af69795025676f758686f7a38737c0e2ff1020",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-06-30T00:17:26.925030-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-06-30T00:17:26.925030-05:00.jpg",
+      "mtime": "1656566300",
+      "size": "9835",
+      "md5": "8f178c12ff95994bf557dfdb6547aa5f",
+      "crc32": "759452ba",
+      "sha1": "ca696515f84108cda9a1d5155847c9ca76ff500f"
+    },
+    {
+      "name": "suntimes-2022-06-30T02:07:13.612436-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572837",
+      "size": "40753",
+      "md5": "40c452277ca60ab09be754795c7b09f7",
+      "crc32": "bd4d8c18",
+      "sha1": "2bb73ea64b0c3f6d65b07a4afef73acf8ac03224",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T02:07:13.612436-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572839",
+      "size": "58383",
+      "md5": "bd40c05efb7cb54eb26f02fb3ddc9382",
+      "crc32": "70a1db28",
+      "sha1": "d4be968d06b495acd4299945ac24088cea1f905c",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T02:07:13.612436-05:00.jpg",
+      "source": "original",
+      "mtime": "1656572835",
+      "size": "217563",
+      "md5": "7cc83bd357a114446a2419182e2fe869",
+      "crc32": "8317d094",
+      "sha1": "38f6da23cea1a48e73af2e690d3e892b0140eee5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-06-30T02:07:13.612436-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-06-30T02:07:13.612436-05:00.jpg",
+      "mtime": "1656572886",
+      "size": "9830",
+      "md5": "b5021a8fca8fc9445d7d3a264f726f6b",
+      "crc32": "2cf0ac49",
+      "sha1": "2fc0226845db72d3de7e622e98da06cbd04ca14d"
+    },
+    {
+      "name": "suntimes-2022-06-30T04:11:52.397666-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656580317",
+      "size": "40753",
+      "md5": "40c452277ca60ab09be754795c7b09f7",
+      "crc32": "bd4d8c18",
+      "sha1": "2bb73ea64b0c3f6d65b07a4afef73acf8ac03224",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T04:11:52.397666-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656580319",
+      "size": "58372",
+      "md5": "56d070480c82c86cb0a4656212cab2ff",
+      "crc32": "07d724ce",
+      "sha1": "d430f297247140a88a16e7a8ab4c48986eefd3ee",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T04:11:52.397666-05:00.jpg",
+      "source": "original",
+      "mtime": "1656580316",
+      "size": "217563",
+      "md5": "7cc83bd357a114446a2419182e2fe869",
+      "crc32": "8317d094",
+      "sha1": "38f6da23cea1a48e73af2e690d3e892b0140eee5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-06-30T04:11:52.397666-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-06-30T04:11:52.397666-05:00.jpg",
+      "mtime": "1656580395",
+      "size": "9830",
+      "md5": "b5021a8fca8fc9445d7d3a264f726f6b",
+      "crc32": "2cf0ac49",
+      "sha1": "2fc0226845db72d3de7e622e98da06cbd04ca14d"
+    },
+    {
+      "name": "suntimes-2022-06-30T06:07:06.714658-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656587232",
+      "size": "41148",
+      "md5": "562c891fb29352b9071a592f6db99171",
+      "crc32": "bc9381ba",
+      "sha1": "3b022ec161873a0ad210c3b7a8ac469169e99072",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T06:07:06.714658-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656587234",
+      "size": "58230",
+      "md5": "e4155704cb7fc340ee1c5ae60fa8cee6",
+      "crc32": "890aa93e",
+      "sha1": "1d5ac8de45ec511bea2ab18720f831f60b343378",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T06:07:06.714658-05:00.jpg",
+      "source": "original",
+      "mtime": "1656587230",
+      "size": "217563",
+      "md5": "7cc83bd357a114446a2419182e2fe869",
+      "crc32": "8317d094",
+      "sha1": "38f6da23cea1a48e73af2e690d3e892b0140eee5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-06-30T06:07:06.714658-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-06-30T06:07:06.714658-05:00.jpg",
+      "mtime": "1656587283",
+      "size": "9830",
+      "md5": "b5021a8fca8fc9445d7d3a264f726f6b",
+      "crc32": "2cf0ac49",
+      "sha1": "2fc0226845db72d3de7e622e98da06cbd04ca14d"
+    },
+    {
+      "name": "suntimes-2022-06-30T08:11:45.094598-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594708",
+      "size": "41495",
+      "md5": "9ac464c4ff0a6ed9cc1e0672411430e8",
+      "crc32": "4a2df314",
+      "sha1": "6d39f0f3710610e2dbbec8224782d6d85fff41d5",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T08:11:45.094598-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594710",
+      "size": "58272",
+      "md5": "b595863ccb576280a5bb3946905c3b54",
+      "crc32": "3b0aedfa",
+      "sha1": "e53f7450d79c0c0cae354314bd920deaccc30fe5",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-06-30T08:11:45.094598-05:00.jpg",
+      "source": "original",
+      "mtime": "1656594706",
+      "size": "217742",
+      "md5": "2aaae3bfd096623e799969824177190e",
+      "crc32": "e454d736",
+      "sha1": "1f2db19fa996419eda27a94821030482a5882419",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-06-30T08:11:45.094598-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-06-30T08:11:45.094598-05:00.jpg",
+      "mtime": "1656594787",
+      "size": "9818",
+      "md5": "00ea50987f1c732e91bb4eb7778a4a2d",
+      "crc32": "6c49ed92",
+      "sha1": "b47a28917a0e1aa76227dd98ba16e49ec9c57427"
+    },
+    {
       "name": "suntimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95def7eb7b77275ce07399fbf5a733b05f395c2a",
-      "mtime": "1656544426",
-      "size": "17641",
-      "md5": "83097d68272b8df4ffb9561085bd36c4",
-      "crc32": "165667ad",
-      "sha1": "07c90eb991e3a1b050757c4455aa3388af615d8d",
+      "btih": "62f8d4e9338c1901a0a45c9236b3aafa01589663",
+      "mtime": "1656594818",
+      "size": "23333",
+      "md5": "f5583814c669634da85504bc2f4c3bee",
+      "crc32": "15c403e6",
+      "sha1": "f88371c92580f291b6be8731e1fbc95d77630fef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "suntimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c2f104d4593850eef02b3d3660e8e5b5",
+      "md5": "66a48952dd874cdaf46ff8179531a1db",
       "summation": "md5"
     },
     {
       "name": "suntimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544381",
-      "size": "110592",
-      "md5": "33bc96cdca675a0947656720b940567c",
-      "crc32": "c089e69c",
-      "sha1": "dedc6ac4818c00cfb988834fe4d85b769148aede",
+      "mtime": "1656594713",
+      "size": "143360",
+      "md5": "84ef4c98f3cb54485526cb858bf0f665",
+      "crc32": "e5edded6",
+      "sha1": "99adafacc94e85283001ae2f0f07c41378933cc5",
       "format": "Metadata"
     },
     {
@@ -850,9 +1134,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 81,
-  "item_last_updated": 1656544426,
-  "item_size": 6773200,
+  "files_count": 108,
+  "item_last_updated": 1656594818,
+  "item_size": 9027797,
   "metadata": {
     "identifier": "suntimes-2022",
     "collection": [
@@ -869,7 +1153,7 @@
     "publicdate": "2022-06-24 23:02:19",
     "addeddate": "2022-06-24 23:02:19"
   },
-  "server": "ia802503.us.archive.org",
+  "server": "ia902503.us.archive.org",
   "suntimes-2022": [
     {
       "text": "\n    \n        \n    \n    ",
@@ -1705,75 +1989,63 @@
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/2022/6/29/23187929/r-kelly-sentencing-sex-abuse-sentencing-brooklyn-new-york"
+      "url": "https://chicago.suntimes.com/2022/6/29/23189063/emmett-till-1955-warrant-carolyn-bryant-donham"
     },
     {
-      "text": "R. Kelly",
-      "url": "https://chicago.suntimes.com/r-kelly"
+      "text": "Chicago",
+      "url": "https://chicago.suntimes.com/chicago"
     },
     {
-      "text": "R. Kelly sentenced to 30 years in sex trafficking case",
-      "url": "https://chicago.suntimes.com/2022/6/29/23187929/r-kelly-sentencing-sex-abuse-sentencing-brooklyn-new-york"
-    },
-    {
-      "text": "Associated Press",
-      "url": "https://chicago.suntimes.com/authors/associated-press"
+      "text": "1955 warrant in Emmett Till case found, family seeks arrest",
+      "url": "https://chicago.suntimes.com/2022/6/29/23189063/emmett-till-1955-warrant-carolyn-bryant-donham"
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/news/2022/6/29/23188697/cta-green-line-train-rescue"
+      "url": "https://chicago.suntimes.com/city-hall/2022/6/29/23188638/bike-lanes-protected-concrete-curbs-plastic-bollards-expanded-program-lily-grace-traffic-fatalities"
     },
     {
-      "text": "News",
-      "url": "https://chicago.suntimes.com/news"
+      "text": "City Hall",
+      "url": "https://chicago.suntimes.com/city-hall"
     },
     {
-      "text": "Firefighters raise L train car to rescue man underneath",
-      "url": "https://chicago.suntimes.com/news/2022/6/29/23188697/cta-green-line-train-rescue"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/metro-state/2022/6/29/23188358/illinois-firearm-trace-database-prevention-trafficking-violence-gun-crime-connect"
-    },
-    {
-      "text": "Metro/State",
-      "url": "https://chicago.suntimes.com/metro-state"
-    },
-    {
-      "text": "Illinois launches statewide gun trace database to combat illegal firearm trafficking",
-      "url": "https://chicago.suntimes.com/metro-state/2022/6/29/23188358/illinois-firearm-trace-database-prevention-trafficking-violence-gun-crime-connect"
+      "text": "Safer bike lanes, with concrete curbs, coming to Chicago streets",
+      "url": "https://chicago.suntimes.com/city-hall/2022/6/29/23188638/bike-lanes-protected-concrete-curbs-plastic-bollards-expanded-program-lily-grace-traffic-fatalities"
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23186743/illinois-secretary-of-state-primary-democratic-alexi-giannoulias-anna-valencia-moore-election-result"
+      "url": "https://chicago.suntimes.com/elections/2022/6/29/23188512/ken-griffin-richard-irvin-governor-illinois-cost-vote-republican-campaign-spending-j-b-pritzker"
     },
     {
       "text": "Elections",
       "url": "https://chicago.suntimes.com/elections"
     },
     {
-      "text": "Giannoulias scores political comeback with Democratic nomination for secretary of state",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23186743/illinois-secretary-of-state-primary-democratic-alexi-giannoulias-anna-valencia-moore-election-result"
+      "text": "Griffin blows nearly $418 per vote for Irvin\u2019s doomed campaign for governor \u2014 worst political investment in Illinois history",
+      "url": "https://chicago.suntimes.com/elections/2022/6/29/23188512/ken-griffin-richard-irvin-governor-illinois-cost-vote-republican-campaign-spending-j-b-pritzker"
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/crime/2022/6/28/23187023/jerome-halsey-chicago-police-shooting-video"
+      "url": "https://chicago.suntimes.com/2022/6/30/23188971/pope-francis-latin-mass-tridentine-rite-catholics-catholicism"
+    },
+    {
+      "text": "Religion",
+      "url": "https://chicago.suntimes.com/religion"
+    },
+    {
+      "text": "Pope Francis urges faithful to end ideological divide over old Latin Mass",
+      "url": "https://chicago.suntimes.com/2022/6/30/23188971/pope-francis-latin-mass-tridentine-rite-catholics-catholicism"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/6/30/23189430/6-year-old-boy-suffers-broken-ankle-after-being-pushed-out-a-third-floor-window-in-lawndale"
     },
     {
       "text": "Crime",
       "url": "https://chicago.suntimes.com/crime"
     },
     {
-      "text": "Video of police shootout in Englewood shows driver firing point-blank at Chicago police officer",
-      "url": "https://chicago.suntimes.com/crime/2022/6/28/23187023/jerome-halsey-chicago-police-shooting-video"
-    },
-    {
-      "text": "2022 Illinois Primary Results",
-      "url": "https://chicago.suntimes.com/elections/2022/illinois-primary-results"
-    },
-    {
-      "text": "View All Races ",
-      "url": "https://chicago.suntimes.com/elections/2022/illinois-primary-results"
+      "text": "6-year-old boy suffers broken ankle after being pushed out a third-floor window in Lawndale",
+      "url": "https://chicago.suntimes.com/crime/2022/6/30/23189430/6-year-old-boy-suffers-broken-ankle-after-being-pushed-out-a-third-floor-window-in-lawndale"
     },
     {
       "text": "Read More",
@@ -1841,43 +2113,43 @@
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/29/23187936/ken-griffin-hedge-fund-billionaire-richard-irvin-pritzker-republican-bailey-milhiser-kim-uihlein"
+      "url": "https://chicago.suntimes.com/elections/2022/6/29/23189010/pritzker-help-darren-bailey-donald-trump-republican-primary-november-election-general"
     },
     {
       "text": "Elections",
       "url": "https://chicago.suntimes.com/elections"
     },
     {
-      "text": "Whiffin\u2019 with Griffin? Departing hedge-fund billionaire 0 for 3 in last night\u2019s contested GOP primary races",
-      "url": "https://chicago.suntimes.com/elections/2022/6/29/23187936/ken-griffin-hedge-fund-billionaire-richard-irvin-pritzker-republican-bailey-milhiser-kim-uihlein"
+      "text": "Pritzker helped Bailey win \u2014 but now governor would rather all the credit go to Trump",
+      "url": "https://chicago.suntimes.com/elections/2022/6/29/23189010/pritzker-help-darren-bailey-donald-trump-republican-primary-november-election-general"
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/29/23188859/bailey-income-tax-returns-pritzker-republican-nominee-primary-irvin-uihlein-general-election"
+      "url": "https://chicago.suntimes.com/politics/2022/6/29/23188353/emanuel-chris-welch-shawnte-raines-madigan-judge-democratic-primary-jim-gleffe-nicholas-kantes"
+    },
+    {
+      "text": "Politics",
+      "url": "https://chicago.suntimes.com/politics"
+    },
+    {
+      "text": "House Speaker Emanuel \u2018Chris\u2019 Welch\u2019s wife among clout-heavy winners in primary judge races",
+      "url": "https://chicago.suntimes.com/politics/2022/6/29/23188353/emanuel-chris-welch-shawnte-raines-madigan-judge-democratic-primary-jim-gleffe-nicholas-kantes"
+    },
+    {
+      "text": "Washington",
+      "url": "https://chicago.suntimes.com/washington"
+    },
+    {
+      "text": "Medicare Advantage plans face criticism at congressional hearing for denying care, overcharging",
+      "url": "https://chicago.suntimes.com/2022/6/30/23188450/medicare-advantage-plans-congressional-hearing-denying-care-overcharging-erin-bliss-leslie-gordon"
     },
     {
       "text": "Elections",
       "url": "https://chicago.suntimes.com/elections"
     },
     {
-      "text": "Bailey pledges to bring \u2018common sense solutions to the table\u2019 \u2014 but not copies of his income tax returns",
-      "url": "https://chicago.suntimes.com/elections/2022/6/29/23188859/bailey-income-tax-returns-pritzker-republican-nominee-primary-irvin-uihlein-general-election"
-    },
-    {
-      "text": "Elections",
-      "url": "https://chicago.suntimes.com/elections"
-    },
-    {
-      "text": "Pritzker picks his opponent \u2014 now he has to beat him",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187490/democrat-pritzker-bailey-republican-nominee-primary-win-irvin-november-general-election-conservative"
-    },
-    {
-      "text": "City Hall",
-      "url": "https://chicago.suntimes.com/city-hall"
-    },
-    {
-      "text": "Catanzara blasts Lightfoot over comments about officers\u2019 \u2018incredible amount\u2019 of time off",
-      "url": "https://chicago.suntimes.com/city-hall/2022/6/28/23187057/chicago-police-officers-furlough-days-off-canceled-catanzara-lightfoot"
+      "text": "Whiffin\u2019 with Griffin? Departing hedge-fund billionaire 0 for 4 in Tuesday\u2019s contested GOP primary races",
+      "url": "https://chicago.suntimes.com/elections/2022/6/29/23187936/ken-griffin-hedge-fund-billionaire-richard-irvin-pritzker-republican-bailey-milhiser-kim-uihlein"
     },
     {
       "text": "Elections",
@@ -1893,6 +2165,22 @@
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/white-sox/2022/6/29/23189080/michael-kopech-takes-on-shohei-ohtani-as-white-sox-go-for-series-victory"
+    },
+    {
+      "text": "White Sox",
+      "url": "https://chicago.suntimes.com/white-sox"
+    },
+    {
+      "text": "\u2018Nobody is panicking,\u2019 Michael Kopech says after White Sox\u2019 sixth loss in eight games",
+      "url": "https://chicago.suntimes.com/white-sox/2022/6/29/23189080/michael-kopech-takes-on-shohei-ohtani-as-white-sox-go-for-series-victory"
+    },
+    {
+      "text": "Daryl Van Schouwen",
+      "url": "https://chicago.suntimes.com/authors/daryl-van-schouwen"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
       "url": "https://chicago.suntimes.com/bulls/2022/6/29/23188008/bulls-zach-lavine-nba-free-agency-max-contract"
     },
     {
@@ -1900,16 +2188,16 @@
       "url": "https://chicago.suntimes.com/bulls"
     },
     {
-      "text": "Bulls poised to make Zach LaVine a max player ... history be damned",
+      "text": "Bulls poised to make guard Zach LaVine a max player ... history be damned",
       "url": "https://chicago.suntimes.com/bulls/2022/6/29/23188008/bulls-zach-lavine-nba-free-agency-max-contract"
     },
     {
-      "text": "Joe Cowley",
-      "url": "https://chicago.suntimes.com/authors/joe-cowley"
+      "text": "Cubs",
+      "url": "https://chicago.suntimes.com/cubs"
     },
     {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/chicago-sky-and-wnba/2022/6/29/23188090/chicago-sky-extend-win-streak-to-four-games-with-91-83-victory-over-sun-candace-parker"
+      "text": "Cubs\u2019 Christopher Morel adjusting to league that has taken notice of him",
+      "url": "https://chicago.suntimes.com/cubs/2022/6/29/23189197/cubs-christopher-morel-adjusting-league-taken-notice-him-home-run-reds-wrigley-field"
     },
     {
       "text": "Chicago Sky and WNBA",
@@ -1924,24 +2212,8 @@
       "url": "https://chicago.suntimes.com/blackhawks"
     },
     {
-      "text": "Luke Richardson\u2019s self-belief in coaching abilities affirmed by Blackhawks hiring",
+      "text": "Being hired by Blackhawks affirms Luke Richardson\u2019s self-belief in coaching abilities",
       "url": "https://chicago.suntimes.com/blackhawks/2022/6/29/23188498/luke-richardson-blackhawks-coach-hiring-introduction-canadiens-domique-ducharme-kyle-davidson"
-    },
-    {
-      "text": "College Sports",
-      "url": "https://chicago.suntimes.com/college-sports"
-    },
-    {
-      "text": "Eye-rolling time: Ohio State\u2019s pomposity, a cheering sportswriter and racist comments in Formula One",
-      "url": "https://chicago.suntimes.com/2022/6/29/23188487/ohio-state-pomposity-cheering-sportwriter-racist-comments-formula-one-nelson-piquet-lewis-hamilton"
-    },
-    {
-      "text": "Blackhawks",
-      "url": "https://chicago.suntimes.com/blackhawks"
-    },
-    {
-      "text": "Blackhawks notebook: Kyle Davidson talking trades, looking for role for Derek King",
-      "url": "https://chicago.suntimes.com/blackhawks/2022/6/29/23188813/blackhawks-derek-king-coach-new-role-trade-rumors-alex-debrincat-first-round-draft-pick"
     },
     {
       "text": "\n                 Entertainment and culture\n             ",
@@ -1949,7 +2221,35 @@
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/movies-and-tv/2022/6/29/23184980/the-forgiven-review-movie-jessica-chastain-ralph-fiennes-morocco"
+      "url": "https://chicago.suntimes.com/movies-and-tv/2022/6/30/23186468/terminal-list-review-prime-video-amazon-chris-pratt"
+    },
+    {
+      "text": "Movies and TV",
+      "url": "https://chicago.suntimes.com/movies-and-tv"
+    },
+    {
+      "text": "\u2018The Terminal List\u2019: Military thriller\u2019s emotional demands prove too much for Chris Pratt",
+      "url": "https://chicago.suntimes.com/movies-and-tv/2022/6/30/23186468/terminal-list-review-prime-video-amazon-chris-pratt"
+    },
+    {
+      "text": "Richard Roeper",
+      "url": "https://chicago.suntimes.com/authors/richard-roeper"
+    },
+    {
+      "text": "Music",
+      "url": "https://chicago.suntimes.com/music"
+    },
+    {
+      "text": "Jim James embracing new positivity with My Morning Jacket\u2019s return to the road",
+      "url": "https://chicago.suntimes.com/2022/6/29/23176730/my-morning-jacket-chicago-jim-james-music"
+    },
+    {
+      "text": "Things To Do ",
+      "url": "https://chicago.suntimes.com/things-to-do"
+    },
+    {
+      "text": "The Mix: Cool things to do in Chicago June 30-July 6",
+      "url": "https://chicago.suntimes.com/2022/6/29/23187044/things-to-do-in-chicago-june-30-july-1-2-3-4-5-6-music-dance-4th-of-july-theater-festivals"
     },
     {
       "text": "Movies and TV",
@@ -1960,18 +2260,6 @@
       "url": "https://chicago.suntimes.com/movies-and-tv/2022/6/29/23184980/the-forgiven-review-movie-jessica-chastain-ralph-fiennes-morocco"
     },
     {
-      "text": "Richard Roeper",
-      "url": "https://chicago.suntimes.com/authors/richard-roeper"
-    },
-    {
-      "text": "Movies and TV",
-      "url": "https://chicago.suntimes.com/movies-and-tv"
-    },
-    {
-      "text": "\u2018Mr. Malcolm\u2019s List\u2019 a pleasant love story in the age of \u2018Bridgerton\u2019 \u2014 but tamer",
-      "url": "https://chicago.suntimes.com/movies-and-tv/2022/6/28/23183937/mr-malcolms-list-review-movie-bridgerton-freida-pinto-sope-dirisu-suzanne-allain"
-    },
-    {
       "text": "Theater",
       "url": "https://chicago.suntimes.com/theater"
     },
@@ -1980,20 +2268,208 @@
       "url": "https://chicago.suntimes.com/2022/6/27/23185647/choir-boy-review-steppenwolf-theatre-tarell-alvin-mcraney-theater-chicago"
     },
     {
-      "text": "Entertainment and Culture",
-      "url": "https://chicago.suntimes.com/entertainment-and-culture"
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/coronavirus/2022/6/30/23188991/covid-booster-shots-vaccinations-omicron-fda"
     },
     {
-      "text": "After viral video of polar bear on tiny patch of ice, Lincoln Park Zoo offers intimate details of animal\u2019s pampered life",
-      "url": "https://chicago.suntimes.com/entertainment-and-culture/2022/6/28/23186557/lincoln-park-zoo-polar-bear-viral-video-ice-patch"
+      "text": "Coronavirus",
+      "url": "https://chicago.suntimes.com/coronavirus"
     },
     {
-      "text": "Movies and TV",
-      "url": "https://chicago.suntimes.com/movies-and-tv"
+      "text": "COVID vaccination reboot coming this fall to add tweaks for new coronavirus variants",
+      "url": "https://chicago.suntimes.com/coronavirus/2022/6/30/23188991/covid-booster-shots-vaccinations-omicron-fda"
     },
     {
-      "text": "\u2018Right to Offend\u2019: How generations of Black comedians turned hot-button issues into hilarity",
-      "url": "https://chicago.suntimes.com/movies-and-tv/2022/6/27/23183850/right-to-offend-review-a-e-documentary-black-comedy-revolution-dick-gregory-richard-pryor"
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/6/30/23189438/robber-and-concealed-carry-holder-both-wounded-in-exchange-of-gunfire-in-east-garfield-park"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "Robber and concealed carry holder both wounded in exchange of gunfire in East Garfield Park",
+      "url": "https://chicago.suntimes.com/crime/2022/6/30/23189438/robber-and-concealed-carry-holder-both-wounded-in-exchange-of-gunfire-in-east-garfield-park"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/6/30/23188501/dear-abby-abusive-husband-wont-accept-that-marriage-is-over"
+    },
+    {
+      "text": "Dear Abby",
+      "url": "https://chicago.suntimes.com/dear-abby"
+    },
+    {
+      "text": "Dear Abby: Abusive husband won\u2019t accept that marriage is over",
+      "url": "https://chicago.suntimes.com/2022/6/30/23188501/dear-abby-abusive-husband-wont-accept-that-marriage-is-over"
+    },
+    {
+      "text": "Abigail Van Buren",
+      "url": "https://chicago.suntimes.com/authors/abigail-van-buren"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/6/30/23189422/three-people-wounded-when-gunman-opens-fire-outside-south-side-home-shooting-at-least-45-rounds"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "Three people wounded when gunman opens fire outside South Side home, shooting at least 45 rounds",
+      "url": "https://chicago.suntimes.com/crime/2022/6/30/23189422/three-people-wounded-when-gunman-opens-fire-outside-south-side-home-shooting-at-least-45-rounds"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/6/30/23188935/abortion-dobbs-supreme-court-legal-issues-nationwide"
+    },
+    {
+      "text": "Abortion rights",
+      "url": "https://chicago.suntimes.com/abortion-rights"
+    },
+    {
+      "text": "Supreme Court\u2019s abortion ruling in Dobbs case prompts new legal issues in courts nationwide",
+      "url": "https://chicago.suntimes.com/2022/6/30/23188935/abortion-dobbs-supreme-court-legal-issues-nationwide"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/6/30/23189418/three-men-found-shot-to-death-in-apartment-in-kankakee"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "Three men found shot to death in apartment in Kankakee",
+      "url": "https://chicago.suntimes.com/crime/2022/6/30/23189418/three-men-found-shot-to-death-in-apartment-in-kankakee"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/6/30/23189036/federal-reserve-jerome-powell-fed-inflation-jobs"
+    },
+    {
+      "text": "Washington",
+      "url": "https://chicago.suntimes.com/washington"
+    },
+    {
+      "text": "Federal Reserve chair Jerome Powell: \u2018No guarantee\u2019 Fed can tame inflation, spare jobs",
+      "url": "https://chicago.suntimes.com/2022/6/30/23189036/federal-reserve-jerome-powell-fed-inflation-jobs"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/6/30/23186547/chicago-police-helicopters-to-track-carjackings-is-a-bad-idea-election-judges-letters"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "https://chicago.suntimes.com/letters-to-the-editor"
+    },
+    {
+      "text": "Using helicopters to track carjackings is a bad idea",
+      "url": "https://chicago.suntimes.com/2022/6/30/23186547/chicago-police-helicopters-to-track-carjackings-is-a-bad-idea-election-judges-letters"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/6/30/23188793/horoscopes-today-thursday-june-30-2022"
+    },
+    {
+      "text": "Horoscopes",
+      "url": "https://chicago.suntimes.com/horoscopes"
+    },
+    {
+      "text": "Horoscope for Thursday, June 30, 2022",
+      "url": "https://chicago.suntimes.com/2022/6/30/23188793/horoscopes-today-thursday-june-30-2022"
+    },
+    {
+      "text": "Georgia Nicols",
+      "url": "https://chicago.suntimes.com/authors/georgia-nicols"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/6/29/23189072/neighbors-hold-vigil-honor-young-brothers-killed-west-humboldt-park-fire-these-my-angels"
+    },
+    {
+      "text": "Chicago",
+      "url": "https://chicago.suntimes.com/chicago"
+    },
+    {
+      "text": "Neighbors hold vigil to honor young brothers killed in West Humboldt Park fire: \u2018These are my angels\u2019",
+      "url": "https://chicago.suntimes.com/2022/6/29/23189072/neighbors-hold-vigil-honor-young-brothers-killed-west-humboldt-park-fire-these-my-angels"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/6/29/23189152/chicago-fire-topple-union-1-0-but-challenges-remain-in-seasons-second-half-federico-navarro"
+    },
+    {
+      "text": "Chicago Fire",
+      "url": "https://chicago.suntimes.com/fire"
+    },
+    {
+      "text": "Fire topple Union 1-0, but challenges remain in season\u2019s second half",
+      "url": "https://chicago.suntimes.com/2022/6/29/23189152/chicago-fire-topple-union-1-0-but-challenges-remain-in-seasons-second-half-federico-navarro"
+    },
+    {
+      "text": "Brian Sandalow",
+      "url": "https://chicago.suntimes.com/authors/brian-sandalow"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/white-sox/2022/6/29/23188505/white-sox-josh-harrison-singing-a-different-tune-in-june"
+    },
+    {
+      "text": "White Sox",
+      "url": "https://chicago.suntimes.com/white-sox"
+    },
+    {
+      "text": "White Sox\u2019 Josh Harrison singing a different tune in June",
+      "url": "https://chicago.suntimes.com/white-sox/2022/6/29/23188505/white-sox-josh-harrison-singing-a-different-tune-in-june"
+    },
+    {
+      "text": "Daryl Van Schouwen",
+      "url": "https://chicago.suntimes.com/authors/daryl-van-schouwen"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/cubs/2022/6/29/23188979/cubs-seiya-suzuki-headed-triple-a-iowa-rehab-assignment-jason-heyward"
+    },
+    {
+      "text": "Cubs",
+      "url": "https://chicago.suntimes.com/cubs"
+    },
+    {
+      "text": "Cubs\u2019 Seiya Suzuki headed to Triple-A Iowa on rehab assignment",
+      "url": "https://chicago.suntimes.com/cubs/2022/6/29/23188979/cubs-seiya-suzuki-headed-triple-a-iowa-rehab-assignment-jason-heyward"
+    },
+    {
+      "text": "Maddie Lee",
+      "url": "https://chicago.suntimes.com/authors/maddie-lee"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/city-hall/2022/6/29/23188844/lightfoot-paid-parental-leave-covid-coronavirus-pandemic-impact-study-women-affected-more-chicago"
+    },
+    {
+      "text": "City Hall",
+      "url": "https://chicago.suntimes.com/city-hall"
+    },
+    {
+      "text": "Lightfoot vows to expand paid parental leave for city workers, conduct \u2018pay equity\u2019 audit",
+      "url": "https://chicago.suntimes.com/city-hall/2022/6/29/23188844/lightfoot-paid-parental-leave-covid-coronavirus-pandemic-impact-study-women-affected-more-chicago"
+    },
+    {
+      "text": "Fran Spielman",
+      "url": "https://chicago.suntimes.com/authors/fran-spielman"
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
@@ -2013,19 +2489,19 @@
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/city-hall/2022/6/29/23188638/bike-lanes-protected-concrete-curbs-plastic-bollards-expanded-program-lily-grace-traffic-fatalities"
+      "url": "https://chicago.suntimes.com/2022/6/29/23187929/r-kelly-sentencing-sex-abuse-sentencing-brooklyn-new-york"
     },
     {
-      "text": "City Hall",
-      "url": "https://chicago.suntimes.com/city-hall"
+      "text": "R. Kelly",
+      "url": "https://chicago.suntimes.com/r-kelly"
     },
     {
-      "text": "Safer bike lanes, with concrete curbs, coming to Chicago streets",
-      "url": "https://chicago.suntimes.com/city-hall/2022/6/29/23188638/bike-lanes-protected-concrete-curbs-plastic-bollards-expanded-program-lily-grace-traffic-fatalities"
+      "text": "R. Kelly sentenced to 30 years in sex trafficking case",
+      "url": "https://chicago.suntimes.com/2022/6/29/23187929/r-kelly-sentencing-sex-abuse-sentencing-brooklyn-new-york"
     },
     {
-      "text": "Fran Spielman",
-      "url": "https://chicago.suntimes.com/authors/fran-spielman"
+      "text": "Associated Press",
+      "url": "https://chicago.suntimes.com/authors/associated-press"
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
@@ -2045,6 +2521,22 @@
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/blackhawks/2022/6/29/23188813/blackhawks-derek-king-coach-new-role-trade-rumors-alex-debrincat-first-round-draft-pick"
+    },
+    {
+      "text": "Blackhawks",
+      "url": "https://chicago.suntimes.com/blackhawks"
+    },
+    {
+      "text": "Blackhawks notebook: Kyle Davidson talking trades, looking for role for Derek King",
+      "url": "https://chicago.suntimes.com/blackhawks/2022/6/29/23188813/blackhawks-derek-king-coach-new-role-trade-rumors-alex-debrincat-first-round-draft-pick"
+    },
+    {
+      "text": "Ben Pope",
+      "url": "https://chicago.suntimes.com/authors/ben-pope"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
       "url": "https://chicago.suntimes.com/movies-and-tv/2022/6/29/23187235/marcel-the-shell-review-shoes-on-movie-jenny-slate"
     },
     {
@@ -2054,22 +2546,6 @@
     {
       "text": "\u2018Marcel the Shell\u2019 movie demonstrates the power of imagination",
       "url": "https://chicago.suntimes.com/movies-and-tv/2022/6/29/23187235/marcel-the-shell-review-shoes-on-movie-jenny-slate"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/politics/2022/6/29/23188353/emanuel-chris-welch-shawnte-raines-madigan-judge-democratic-primary-jim-gleffe-nicholas-kantes"
-    },
-    {
-      "text": "Politics",
-      "url": "https://chicago.suntimes.com/politics"
-    },
-    {
-      "text": "House Speaker Emanuel \u2018Chris\u2019 Welch\u2019s wife among clout-heavy winners in primary judge races",
-      "url": "https://chicago.suntimes.com/politics/2022/6/29/23188353/emanuel-chris-welch-shawnte-raines-madigan-judge-democratic-primary-jim-gleffe-nicholas-kantes"
-    },
-    {
-      "text": "Robert Herguth",
-      "url": "https://chicago.suntimes.com/authors/robert-herguth"
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
@@ -2105,15 +2581,19 @@
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/2022/6/29/23186877/schools-bullying-prevention-suicide-risk-mental-health-sally-weinstein-anand-kumar-uic-op-ed"
+      "url": "https://chicago.suntimes.com/news/2022/6/29/23188697/cta-green-line-train-rescue"
     },
     {
-      "text": "Other Views",
-      "url": "https://chicago.suntimes.com/other-views"
+      "text": "News",
+      "url": "https://chicago.suntimes.com/news"
     },
     {
-      "text": "Schools must prepare to do more to stop teen suicide, bullying",
-      "url": "https://chicago.suntimes.com/2022/6/29/23186877/schools-bullying-prevention-suicide-risk-mental-health-sally-weinstein-anand-kumar-uic-op-ed"
+      "text": "Firefighters raise L train car to rescue man underneath",
+      "url": "https://chicago.suntimes.com/news/2022/6/29/23188697/cta-green-line-train-rescue"
+    },
+    {
+      "text": "David Struett",
+      "url": "https://chicago.suntimes.com/authors/david-struett"
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
@@ -2130,6 +2610,70 @@
     {
       "text": "Matt Moore",
       "url": "https://chicago.suntimes.com/authors/matt-moore"
+    },
+    {
+      "text": "Illinois Primary 2022 Election Results",
+      "url": "https://chicago.suntimes.com/elections/2022/illinois-primary-results"
+    },
+    {
+      "text": "\u2018Downstate farmer\u2019 plows through the field \u2014 Darren Bailey handily wins six-candidate GOP governor\u2019s race",
+      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187510/darren-bailey-richard-irvin-pritzker-republican-governors-race-jesse-sullivan"
+    },
+    {
+      "text": "Lake County judge, former sheriff lead in race to succeed Justice (and former Chicago Bear) Bob Thomas on state Supreme Court.",
+      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187284/illinois-supreme-court-2nd-district-election-rochford-shanes"
+    },
+    {
+      "text": "Video of police shootout in Englewood shows driver firing point-blank at Chicago police officer",
+      "url": "https://chicago.suntimes.com/crime/2022/6/28/23187023/jerome-halsey-chicago-police-shooting-video"
+    },
+    {
+      "text": "Giannoulias scores political comeback with Democratic nomination for secretary of state",
+      "url": "https://chicago.suntimes.com/elections/2022/6/28/23186743/illinois-secretary-of-state-primary-democratic-alexi-giannoulias-anna-valencia-moore-election-result"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/6/29/23186877/schools-bullying-prevention-suicide-risk-mental-health-sally-weinstein-anand-kumar-uic-op-ed"
+    },
+    {
+      "text": "Other Views",
+      "url": "https://chicago.suntimes.com/other-views"
+    },
+    {
+      "text": "Schools must prepare to do more to stop teen suicide, bullying",
+      "url": "https://chicago.suntimes.com/2022/6/29/23186877/schools-bullying-prevention-suicide-risk-mental-health-sally-weinstein-anand-kumar-uic-op-ed"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/6/29/23188487/ohio-state-pomposity-cheering-sportwriter-racist-comments-formula-one-nelson-piquet-lewis-hamilton"
+    },
+    {
+      "text": "College Sports",
+      "url": "https://chicago.suntimes.com/college-sports"
+    },
+    {
+      "text": "Eye-rolling time: Ohio State\u2019s pomposity, a cheering sportswriter and racist comments in Formula One",
+      "url": "https://chicago.suntimes.com/2022/6/29/23188487/ohio-state-pomposity-cheering-sportwriter-racist-comments-formula-one-nelson-piquet-lewis-hamilton"
+    },
+    {
+      "text": "Rick Morrissey",
+      "url": "https://chicago.suntimes.com/authors/rick-morrissey"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/metro-state/2022/6/29/23188358/illinois-firearm-trace-database-prevention-trafficking-violence-gun-crime-connect"
+    },
+    {
+      "text": "Metro/State",
+      "url": "https://chicago.suntimes.com/metro-state"
+    },
+    {
+      "text": "Illinois launches statewide gun trace database to combat illegal firearm trafficking",
+      "url": "https://chicago.suntimes.com/metro-state/2022/6/29/23188358/illinois-firearm-trace-database-prevention-trafficking-violence-gun-crime-connect"
+    },
+    {
+      "text": "Andy Grimm",
+      "url": "https://chicago.suntimes.com/authors/andy-grimm"
     },
     {
       "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
@@ -2212,298 +2756,6 @@
       "url": "https://chicago.suntimes.com/authors/david-struett"
     },
     {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187284/illinois-supreme-court-2nd-district-election-rochford-shanes"
-    },
-    {
-      "text": "Elections",
-      "url": "https://chicago.suntimes.com/elections"
-    },
-    {
-      "text": "Lake County judge, former sheriff lead in race to succeed Justice (and former Chicago Bear) Bob Thomas on state Supreme Court.",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187284/illinois-supreme-court-2nd-district-election-rochford-shanes"
-    },
-    {
-      "text": "David Struett",
-      "url": "https://chicago.suntimes.com/authors/david-struett"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/2022/6/29/23187825/perch-fishing-recent-jumbo-success-clutching-hope-chicago-lakefront-stray-cast"
-    },
-    {
-      "text": "Outdoors",
-      "url": "https://chicago.suntimes.com/outdoors"
-    },
-    {
-      "text": "Clutching at hope on perch fishing with recent jumbo success on Chicago lakefront",
-      "url": "https://chicago.suntimes.com/2022/6/29/23187825/perch-fishing-recent-jumbo-success-clutching-hope-chicago-lakefront-stray-cast"
-    },
-    {
-      "text": "Dale Bowman",
-      "url": "https://chicago.suntimes.com/authors/dale-bowman"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/2022/6/29/23186539/dear-abby-husbands-great-but-i-wont-get-intimate-with-him"
-    },
-    {
-      "text": "Dear Abby",
-      "url": "https://chicago.suntimes.com/dear-abby"
-    },
-    {
-      "text": "Dear Abby: Husband\u2019s great, but I won\u2019t get intimate with him",
-      "url": "https://chicago.suntimes.com/2022/6/29/23186539/dear-abby-husbands-great-but-i-wont-get-intimate-with-him"
-    },
-    {
-      "text": "Abigail Van Buren",
-      "url": "https://chicago.suntimes.com/authors/abigail-van-buren"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/2022/6/29/23172066/how-to-make-red-walnut-mint-pesto-creamy-peppered-chicken-mushrooms-burger-tomato-recipes"
-    },
-    {
-      "text": "Recipes",
-      "url": "https://chicago.suntimes.com/recipes"
-    },
-    {
-      "text": "Menu planner: Red potatoes with walnut-mint pesto",
-      "url": "https://chicago.suntimes.com/2022/6/29/23172066/how-to-make-red-walnut-mint-pesto-creamy-peppered-chicken-mushrooms-burger-tomato-recipes"
-    },
-    {
-      "text": "Andrews McMeel Syndication",
-      "url": "https://chicago.suntimes.com/authors/andrews-mcmeel-syndication"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/crime/2022/6/29/23187715/1-killed-6-wounded-in-shootings-across-chicago-tuesday"
-    },
-    {
-      "text": "Crime",
-      "url": "https://chicago.suntimes.com/crime"
-    },
-    {
-      "text": "1 killed, 6 others wounded in shootings across Chicago Tuesday",
-      "url": "https://chicago.suntimes.com/crime/2022/6/29/23187715/1-killed-6-wounded-in-shootings-across-chicago-tuesday"
-    },
-    {
-      "text": "Sun-Times Wire",
-      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/2022/6/29/23187153/horoscopes-today-wednesday-june-29-2022"
-    },
-    {
-      "text": "Horoscopes",
-      "url": "https://chicago.suntimes.com/horoscopes"
-    },
-    {
-      "text": "Horoscope for Wednesday, June 29, 2022",
-      "url": "https://chicago.suntimes.com/2022/6/29/23187153/horoscopes-today-wednesday-june-29-2022"
-    },
-    {
-      "text": "Georgia Nicols",
-      "url": "https://chicago.suntimes.com/authors/georgia-nicols"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/crime/2022/6/28/23187669/man-killed-in-mckinley-park-shooting"
-    },
-    {
-      "text": "Crime",
-      "url": "https://chicago.suntimes.com/crime"
-    },
-    {
-      "text": "Man killed by gunman riding bike in McKinley Park",
-      "url": "https://chicago.suntimes.com/crime/2022/6/28/23187669/man-killed-in-mckinley-park-shooting"
-    },
-    {
-      "text": "Sun-Times Wire",
-      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187510/darren-bailey-richard-irvin-pritzker-republican-governors-race-jesse-sullivan"
-    },
-    {
-      "text": "News",
-      "url": "https://chicago.suntimes.com/news"
-    },
-    {
-      "text": "\u2018Downstate farmer\u2019 plows through the field \u2014 Darren Bailey handily wins six-candidate GOP governor\u2019s race",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187510/darren-bailey-richard-irvin-pritzker-republican-governors-race-jesse-sullivan"
-    },
-    {
-      "text": "Tom Schuba",
-      "url": "https://chicago.suntimes.com/authors/tom-schuba"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187468/gop-attorney-general-contest-too-close-to-call"
-    },
-    {
-      "text": "Elections",
-      "url": "https://chicago.suntimes.com/elections"
-    },
-    {
-      "text": "DeVore wins GOP attorney general contest",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187468/gop-attorney-general-contest-too-close-to-call"
-    },
-    {
-      "text": "Brett Chase",
-      "url": "https://chicago.suntimes.com/authors/brett-chase"
-    },
-    {
-      "text": "Illinois Primary 2022 Election Results",
-      "url": "https://chicago.suntimes.com/elections/2022/illinois-primary-results"
-    },
-    {
-      "text": "City rejects $500 million in asphalt bids over pollution concerns",
-      "url": "https://chicago.suntimes.com/2022/6/28/23186208/chicago-rejects-asphalt-bids-pollution-concerns"
-    },
-    {
-      "text": "15-year-old boy on bike struck and killed by delivery driver near Midway \u2014 4th child killed by drivers in June",
-      "url": "https://chicago.suntimes.com/news/2022/6/28/23187069/joshua-avina-bicyclist-death-austin-clearing"
-    },
-    {
-      "text": "Republican Bailey\u2019s forecast for \u2018political climate\u2019 of Illinois: A \u2018storm\u2019 is coming",
-      "url": "https://chicago.suntimes.com/2022/4/24/23038198/republican-governor-candidate-darren-bailey-illinois-downstate-campaign-trump-primary-irvin"
-    },
-    {
-      "text": "Crowd descends on Lake View again, jumping on CTA bus and smashing police car window",
-      "url": "https://chicago.suntimes.com/2022/6/28/23186203/lake-view-crowd"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187467/downstate-republicans-mary-miller-rodney-davis-trump-white-life-roe-wade-15th-congressional-district"
-    },
-    {
-      "text": "Elections",
-      "url": "https://chicago.suntimes.com/elections"
-    },
-    {
-      "text": "Republican Mary Miller Trumps fellow GOP incumbent Rodney Davis in downstate congressional primary",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187467/downstate-republicans-mary-miller-rodney-davis-trump-white-life-roe-wade-15th-congressional-district"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/white-sox/2022/6/28/23187051/white-sox-johnny-cueto-shakes-off-angels-homer-barrage"
-    },
-    {
-      "text": "White Sox",
-      "url": "https://chicago.suntimes.com/white-sox"
-    },
-    {
-      "text": "Johnny Cueto shakes off Angels homer barrage, White Sox erupt for 11-4 victory",
-      "url": "https://chicago.suntimes.com/white-sox/2022/6/28/23187051/white-sox-johnny-cueto-shakes-off-angels-homer-barrage"
-    },
-    {
-      "text": "Daryl Van Schouwen",
-      "url": "https://chicago.suntimes.com/authors/daryl-van-schouwen"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187325/delia-ramirez-defeats-gil-villegas-3rd-congressional-district-latina"
-    },
-    {
-      "text": "Elections",
-      "url": "https://chicago.suntimes.com/elections"
-    },
-    {
-      "text": "State Rep. Delia Ramirez defeats Ald. Gil Villegas in newly drawn Illinois 3rd District",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187325/delia-ramirez-defeats-gil-villegas-3rd-congressional-district-latina"
-    },
-    {
-      "text": "Lauren FitzPatrick",
-      "url": "https://chicago.suntimes.com/authors/lauren-fitzpatrick"
-    },
-    {
-      "text": "Elvia Malag\u00f3n",
-      "url": "https://chicago.suntimes.com/authors/elvia-malagon"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187390/dan-brady-gop-nomination-illinois-secretary-state-john-milhiser-jesse-white"
-    },
-    {
-      "text": "Elections",
-      "url": "https://chicago.suntimes.com/elections"
-    },
-    {
-      "text": "Bloomington state Rep. Dan Brady cruises to GOP nomination for Illinois secretary of state",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187390/dan-brady-gop-nomination-illinois-secretary-state-john-milhiser-jesse-white"
-    },
-    {
-      "text": "Nader Issa",
-      "url": "https://chicago.suntimes.com/authors/nader-issa"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/cubs/2022/6/28/23187584/keegan-thompson-cubs-midseason-tweaks-paying-dividends"
-    },
-    {
-      "text": "Cubs",
-      "url": "https://chicago.suntimes.com/cubs"
-    },
-    {
-      "text": "How Keegan Thompson\u2019s midseason tweaks are already paying dividends for Cubs",
-      "url": "https://chicago.suntimes.com/cubs/2022/6/28/23187584/keegan-thompson-cubs-midseason-tweaks-paying-dividends"
-    },
-    {
-      "text": "Maddie Lee",
-      "url": "https://chicago.suntimes.com/authors/maddie-lee"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187421/sean-casten-carries-slim-lead-in-6th-congressional-district-race-against-marie-newman-as-votes"
-    },
-    {
-      "text": "Elections",
-      "url": "https://chicago.suntimes.com/elections"
-    },
-    {
-      "text": "Sean Casten handily defeats Marie Newman in 6th Congressional District primary",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187421/sean-casten-carries-slim-lead-in-6th-congressional-district-race-against-marie-newman-as-votes"
-    },
-    {
-      "text": "Robert Herguth",
-      "url": "https://chicago.suntimes.com/authors/robert-herguth"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/2022/6/28/23187599/seeley-fire-pilsen"
-    },
-    {
-      "text": "News",
-      "url": "https://chicago.suntimes.com/news"
-    },
-    {
-      "text": "Pilsen fire investigation hampered by roof collapse",
-      "url": "https://chicago.suntimes.com/2022/6/28/23187599/seeley-fire-pilsen"
-    },
-    {
-      "text": "David Struett",
-      "url": "https://chicago.suntimes.com/authors/david-struett"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187338/toni-preckwinkle-primary-democrat-challenger-richard-boykin-cook-county-board-president-election"
-    },
-    {
-      "text": "Elections",
-      "url": "https://chicago.suntimes.com/elections"
-    },
-    {
-      "text": "Toni Preckwinkle beats Democratic primary challenger Richard Boykin for Cook County Board president",
-      "url": "https://chicago.suntimes.com/elections/2022/6/28/23187338/toni-preckwinkle-primary-democrat-challenger-richard-boykin-cook-county-board-president-election"
-    },
-    {
-      "text": "Manny Ramos",
-      "url": "https://chicago.suntimes.com/authors/manny-ramos"
-    },
-    {
       "text": "More Stories",
       "url": "?p=2"
     },
@@ -2536,9 +2788,9 @@
       "url": "https://chicago.suntimes.com/pages/terms-of-sale"
     }
   ],
-  "uniq": 2117195894,
+  "uniq": 1188982516,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

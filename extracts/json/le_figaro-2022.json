@@ -1,5 +1,5 @@
 {
-  "created": 1656548364,
+  "created": 1656635001,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/5/items/le_figaro-2022",
@@ -5162,31 +5162,367 @@
       "sha1": "3f7e4ca9c1dd93f7b81cc0cfd45d807fe3916bd8"
     },
     {
+      "name": "le_figaro-2022-06-30T03:31:46.069721+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552709",
+      "size": "99432",
+      "md5": "78aff71b4a5a769b5fe5b0268cd7fb7f",
+      "crc32": "bc653d9c",
+      "sha1": "04f5830f2b7268416d9891ad18cad69aef7cd7a2",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T03:31:46.069721+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552711",
+      "size": "116798",
+      "md5": "8679f8641da23757ecf17a74a9274432",
+      "crc32": "0b482a61",
+      "sha1": "528b4369249bf82136ec7e57d47c38a20b843f26",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T03:31:46.069721+02:00.jpg",
+      "source": "original",
+      "mtime": "1656552708",
+      "size": "381492",
+      "md5": "58f083912f4c3e62cd564342dadc829c",
+      "crc32": "17b6f22d",
+      "sha1": "ea38198cc7764e9476df7ae4de61bf4e3d32380e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-06-30T03:31:46.069721+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-06-30T03:31:46.069721+02:00.jpg",
+      "mtime": "1656552798",
+      "size": "10697",
+      "md5": "b50e148d30ebc1f8ef87b895f18d9340",
+      "crc32": "617d19be",
+      "sha1": "501171469f2514852c688399594eed7effe4d28e"
+    },
+    {
+      "name": "le_figaro-2022-06-30T05:44:55.395893+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560702",
+      "size": "99666",
+      "md5": "b4141c59cbf74154dc845032034fc73e",
+      "crc32": "0abcb905",
+      "sha1": "964efcd929b5a54b177fd379b429c60bfc17698d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T05:44:55.395893+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560704",
+      "size": "117564",
+      "md5": "3b93620cc5bcfcb12ea25c51c1e659ac",
+      "crc32": "fe0f3afc",
+      "sha1": "4a26b7d23d78e0d0fc3196fd633136857719ac25",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T05:44:55.395893+02:00.jpg",
+      "source": "original",
+      "mtime": "1656560700",
+      "size": "381492",
+      "md5": "58f083912f4c3e62cd564342dadc829c",
+      "crc32": "17b6f22d",
+      "sha1": "ea38198cc7764e9476df7ae4de61bf4e3d32380e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-06-30T05:44:55.395893+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-06-30T05:44:55.395893+02:00.jpg",
+      "mtime": "1656560757",
+      "size": "10697",
+      "md5": "b50e148d30ebc1f8ef87b895f18d9340",
+      "crc32": "617d19be",
+      "sha1": "501171469f2514852c688399594eed7effe4d28e"
+    },
+    {
+      "name": "le_figaro-2022-06-30T07:13:15.994548+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656566002",
+      "size": "95885",
+      "md5": "b895973dd72300c8b546fac99a98545b",
+      "crc32": "8bb15a9e",
+      "sha1": "b237005b529498d6fbc44b62ef45c1492c80466a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T07:13:15.994548+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656566004",
+      "size": "111043",
+      "md5": "df44d65251bb39d1e8ba0354c7308b48",
+      "crc32": "02835ed2",
+      "sha1": "d885e780cf7e12f309214f8253b9c74e7436540d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T07:13:15.994548+02:00.jpg",
+      "source": "original",
+      "mtime": "1656566000",
+      "size": "307561",
+      "md5": "c6fb81a36d207e9f7e52eff1aac3a747",
+      "crc32": "6aea8353",
+      "sha1": "8746f48c8bfcaa14596af83e91cb00c8b54f0c28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-06-30T07:13:15.994548+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-06-30T07:13:15.994548+02:00.jpg",
+      "mtime": "1656566064",
+      "size": "9914",
+      "md5": "dab592f54573434c5b67efedda8016e7",
+      "crc32": "ce06edc6",
+      "sha1": "2fa0312116b349d3527a1a9b6565c61721dcb588"
+    },
+    {
+      "name": "le_figaro-2022-06-30T09:02:44.713975+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572571",
+      "size": "95900",
+      "md5": "388776166052150474d5f76cc9b7a676",
+      "crc32": "b4b6c0df",
+      "sha1": "55f20d37ea645c45a9c55a19df86bae934261b1d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T09:02:44.713975+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572573",
+      "size": "112531",
+      "md5": "49d10446b68e1bac4dcae34a46a875d2",
+      "crc32": "bcc45e24",
+      "sha1": "f56c48f49f1e6f5ff3742feca3890afdb607b584",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T09:02:44.713975+02:00.jpg",
+      "source": "original",
+      "mtime": "1656572569",
+      "size": "296137",
+      "md5": "b8068b36bbfe81ec77e479385238ff2c",
+      "crc32": "22e8c2f3",
+      "sha1": "bc47bfaa68cb4f938d6a73a046c0c5a643528a5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-06-30T09:02:44.713975+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-06-30T09:02:44.713975+02:00.jpg",
+      "mtime": "1656572623",
+      "size": "9826",
+      "md5": "e04eee9df7424d1d0622c31dab4d3666",
+      "crc32": "e949a85c",
+      "sha1": "1b311ad9716c88b46a7fe8abd4153315ebe26ff1"
+    },
+    {
+      "name": "le_figaro-2022-06-30T11:05:55.379754+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656579958",
+      "size": "96885",
+      "md5": "90f16d264364882aa92197f91927e1ff",
+      "crc32": "ea2b1bf3",
+      "sha1": "ac30300bd3d7a3c4597d5459cdd843003038255f",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T11:05:55.379754+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656579960",
+      "size": "114516",
+      "md5": "f6d63805b8d50d2fe01834abf75a3ed9",
+      "crc32": "261f4869",
+      "sha1": "437e4e6b5442b5e86870cfb65e0ffea72fd3df74",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T11:05:55.379754+02:00.jpg",
+      "source": "original",
+      "mtime": "1656579957",
+      "size": "280619",
+      "md5": "e50e3d5d610ebb8fd5f1c122d2aee4db",
+      "crc32": "cff03c97",
+      "sha1": "84a8ad3e0826a1ea3350179f54f1a9fd0131cca1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-06-30T11:05:55.379754+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-06-30T11:05:55.379754+02:00.jpg",
+      "mtime": "1656580016",
+      "size": "9940",
+      "md5": "d0fe41cc18d85b89fbea16534be2fd88",
+      "crc32": "47854fcc",
+      "sha1": "5914553dcf406844db88b568f16558b3628df588"
+    },
+    {
+      "name": "le_figaro-2022-06-30T13:02:43.297421+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656586970",
+      "size": "97452",
+      "md5": "d6617a3b808478d7adeadd89adba31a7",
+      "crc32": "6d75f177",
+      "sha1": "124a6b7ca35388b0d4e1e2fb85bbff5f6efd9501",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T13:02:43.297421+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656586972",
+      "size": "116222",
+      "md5": "57773987ae178e9d69bb01b0fa942617",
+      "crc32": "def4cd35",
+      "sha1": "36050659d2ae055b633368421b3c779cfefd8a43",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T13:02:43.297421+02:00.jpg",
+      "source": "original",
+      "mtime": "1656586968",
+      "size": "264702",
+      "md5": "0f1229323a3b99c4431e3371fbfed9bc",
+      "crc32": "c3efc471",
+      "sha1": "7bc948ab459d222077f8fa6e6510d84a386c03d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-06-30T13:02:43.297421+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-06-30T13:02:43.297421+02:00.jpg",
+      "mtime": "1656587045",
+      "size": "9638",
+      "md5": "f7933154a3cd0363f9a2fdbe929a1a14",
+      "crc32": "5d833f4c",
+      "sha1": "f1364317f2e053ef56e1cd14b10cefe6f6882b01"
+    },
+    {
+      "name": "le_figaro-2022-06-30T15:07:27.184437+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594480",
+      "size": "97165",
+      "md5": "a086e6286051dbccc1a604b69526fe79",
+      "crc32": "b78da330",
+      "sha1": "f20603094064e88794215974c40fb5b002594be6",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T15:07:27.184437+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594482",
+      "size": "115581",
+      "md5": "08c0f4835cf0e84d9a949d60b929d7c4",
+      "crc32": "2db7c3a1",
+      "sha1": "1cdeb20ca0caced25312be14c038031a3d0130bc",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-06-30T15:07:27.184437+02:00.jpg",
+      "source": "original",
+      "mtime": "1656594479",
+      "size": "262088",
+      "md5": "14d1055eb0b82afbc4669997bc4245fb",
+      "crc32": "4c22ef5e",
+      "sha1": "ab3b338abbd71b8527908f47a4825bc99af6c7ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-06-30T15:07:27.184437+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-06-30T15:07:27.184437+02:00.jpg",
+      "mtime": "1656594548",
+      "size": "9423",
+      "md5": "318995a240d4ef2c13a83fdb3aabf248",
+      "crc32": "8d41761e",
+      "sha1": "af041d8da6d016c3b13e5148f3aa2619ea482159"
+    },
+    {
+      "name": "le_figaro-2022-07-01T00:26:03.641227+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656627969",
+      "size": "95877",
+      "md5": "afb15fa698b61eb9f12cfe8bf42151a4",
+      "crc32": "c8aa49c1",
+      "sha1": "432c682e664d2746f32591cc1cf591e665632f7d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-07-01T00:26:03.641227+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656627970",
+      "size": "112028",
+      "md5": "1b5f0dd26a41e81ec4918cffc2f95612",
+      "crc32": "d7b3ce99",
+      "sha1": "62a022fa2c98d14cc4c1d0f40d0ba1004e1982b8",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-07-01T00:26:03.641227+02:00.jpg",
+      "source": "original",
+      "mtime": "1656627967",
+      "size": "294746",
+      "md5": "92b2731790e9e439e2e74f149b67eee8",
+      "crc32": "4815011a",
+      "sha1": "47d0d5fb447b4b723cd206738efa85f23fbc2b60",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-07-01T00:26:03.641227+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-07-01T00:26:03.641227+02:00.jpg",
+      "mtime": "1656628016",
+      "size": "10035",
+      "md5": "b05a9781a033ee1ce9d44a66c2896ab8",
+      "crc32": "b215513c",
+      "sha1": "61eddce70c611aaf01003431c7663e7a36036393"
+    },
+    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c52dec8e42f0ffd6abf855b580ce108f742f40a5",
-      "mtime": "1656544107",
-      "size": "106260",
-      "md5": "c8ebe84f6e593c527f15757e97097603",
-      "crc32": "526b872c",
-      "sha1": "9f194506f926fe5ed14baea45eee40fb0f5ee800",
+      "btih": "b86b7b5f4f29feff6e6fbbb6d3cb394dca48fe86",
+      "mtime": "1656628022",
+      "size": "113095",
+      "md5": "0b5ba8faddaf8d75dee0a961df5a6c6c",
+      "crc32": "37cdc90c",
+      "sha1": "65502a55b08ae9cc8f19d661252cdc5c9e34344d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09245305bd99f6ced8012d1289533f67",
+      "md5": "acb48d875d475dd63bd14613c8a49282",
       "summation": "md5"
     },
     {
       "name": "le_figaro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656544027",
-      "size": "581632",
-      "md5": "6ae7dc7b15134f5d99e8f435ad8fa9d8",
-      "crc32": "9ce02fa3",
-      "sha1": "18a2090417ab5a185e26941ab1d6604cc43ee2e2",
+      "mtime": "1656627973",
+      "size": "618496",
+      "md5": "9891622cb13cbb7a9e9beca92ca4d32f",
+      "crc32": "dcc5e380",
+      "sha1": "47cb04de25303079eca6c5d65c64ce7c7b382d8b",
       "format": "Metadata"
     },
     {
@@ -5200,9 +5536,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 495,
-  "item_last_updated": 1656544107,
-  "item_size": 62730254,
+  "files_count": 527,
+  "item_last_updated": 1656628022,
+  "item_size": 67017505,
   "le_figaro-2022": [
     {
       "text": "Aller au contenu",
@@ -5505,28 +5841,16 @@
       "url": "https://abonnement.lefigaro.fr/lefigaro?origine=VWH20003&ga_source=VWH20003_header_mobile&redirect_uri=https%3A%2F%2Fwww.lefigaro.fr%2F"
     },
     {
-      "text": "\n\n                                Proc\u00e8s des attentats du 13-Novembre\u00a0: Salah Abdeslam condamn\u00e9 \u00e0 la perp\u00e9tuit\u00e9 incompressible\n                                                                                                    \n                \n                        Apr\u00e8s 148 jours d\u2019audience, les vingt accus\u00e9s sont condamn\u00e9s \u00e0 des peines allant de 2 ans d\u2019emprisonnement \u00e0 la perp\u00e9tuit\u00e9. Les condamn\u00e9s ont dix jours pour faire appel.\n            ",
-      "url": "https://www.lefigaro.fr/actualite-france/v13-apres-dix-mois-l-epilogue-d-un-proces-hors-norme-20220629"
+      "text": "Les hospitalisations pour Covid repartent nettement \u00e0 la hausseSous l\u2019impulsion du variant BA5, l\u2019\u00e9pid\u00e9mie conna\u00eet un regain d\u2019une ampleur inattendue.",
+      "url": "https://www.lefigaro.fr/sciences/les-hospitalisations-pour-covid-repartent-nettement-a-la-hausse-20220630"
     },
     {
-      "text": "\n                                                            \n                                                        \n                                \n                                    \n                                GRAND R\u00c9CIT - 13-Novembre: les le\u00e7ons d\u2019un proc\u00e8s historique\n                                                            \n                        ",
-      "url": "https://www.lefigaro.fr/actualite-france/13-novembre-les-lecons-d-un-proces-historique-20220629"
+      "text": "Covid-19\u00a0: 133.346 nouveaux cas en 24 heures, 42 morts dans les h\u00f4pitaux fran\u00e7ais",
+      "url": "https://www.lefigaro.fr/sciences/covid-19-42-morts-dans-les-hopitaux-francais-931-patients-en-reanimation-20220630"
     },
     {
-      "text": "\n                                                            \n                                                        \n                                \n                                    \n                                Proc\u00e8s des attentats du 13-Novembre\u00a0: apr\u00e8s dix mois, l'\u00e9pilogue d'un proc\u00e8s historique\n                                                            \n                        ",
-      "url": "https://www.lefigaro.fr/actualite-france/en-direct-proces-des-attentats-du-13-novembre-la-cour-d-assises-va-rendre-son-verdict-20220629"
-    },
-    {
-      "text": "\n                                                            \n                                                        \n                                \n                                    \n                                Le 13\u00a0novembre 2015, une nuit printani\u00e8re bascule dans l'horreur\n                                                            \n                        ",
-      "url": "https://www.lefigaro.fr/actualite-france/2016/11/06/01016-20161106ARTFIG00212-ce-13novembre-une-nuit-printaniere-bascule-dans-l-horreur.php"
-    },
-    {
-      "text": "\n                                                            \n                                                        \n                                \n                                    \n                                Proc\u00e8s du 13-Novembre\u00a0: qu'est-ce que la perp\u00e9tuit\u00e9 incompressible, \u00e0 laquelle a \u00e9t\u00e9 condamn\u00e9 Salah Abdeslam\u00a0?\n                                                            \n                        ",
-      "url": "https://www.lefigaro.fr/actualite-france/proces-du-13-novembre-qu-est-ce-que-la-perpetuite-incompressible-qu-encourt-salah-abdeslam-20220629"
-    },
-    {
-      "text": "Emmanuel Macron place \u00c9lisabeth Borne face au dilemme du vote de confianceANALYSE - La premi\u00e8re ministre, qui a consult\u00e9 les oppositions, doit rendre sa \u00abd\u00e9cision\u00bb.",
-      "url": "https://www.lefigaro.fr/politique/emmanuel-macron-place-elisabeth-borne-face-au-dilemme-du-vote-de-confiance-20220629"
+      "text": "ENQU\u00caTE - Comment les h\u00f4pitaux tentent aujourd\u2019hui d\u2019\u00e9viter le naufrage",
+      "url": "https://www.lefigaro.fr/actualite-france/comment-les-hopitaux-tentent-aujourd-hui-d-eviter-le-naufrage-20220630"
     },
     {
       "text": "FigaroLive",
@@ -5537,376 +5861,372 @@
       "url": "https://video.lefigaro.fr/"
     },
     {
-      "text": "DIRECT- Ya\u00ebl Braun-Pivet a pr\u00e9sid\u00e9 sa premi\u00e8re s\u00e9ance \u00e0 l'Assembl\u00e9e nationaleLors de sa premi\u00e8re s\u00e9ance au perchoir, les vice-pr\u00e9sidents de l'Assembl\u00e9e ont \u00e9t\u00e9 \u00e9lus.",
-      "url": "https://www.lefigaro.fr/politique/direct-assemblee-nationale-nouvelle-serie-de-nominations-ce-mercredi-dans-l-hemicycle-20220629"
+      "text": "Brevet des coll\u00e8ges\u00a0: l'\u00c9ducation nationale va porter plainte apr\u00e8s la fuite de sujetsLes sujets de secours seront utilis\u00e9s pour les \u00e9preuves d'histoire-g\u00e9ographie et de sciences vendredi en raison d'une \u00abfuite av\u00e9r\u00e9e\u00bb, a affirm\u00e9 le minist\u00e8re qui va d\u00e9poser plainte et lancer en parall\u00e8le une enqu\u00eate administrative interne.",
+      "url": "https://www.lefigaro.fr/actualite-france/brevet-l-education-nationale-va-porter-plainte-apres-la-fuite-de-sujets-20220630"
     },
     {
-      "text": "LR et RN, une entente parlementaire qui ne veut pas dire son nom",
-      "url": "https://www.lefigaro.fr/politique/lr-et-rn-une-entente-parlementaire-qui-ne-veut-pas-dire-son-nom-20220629"
+      "text": "Xi Jinping vient c\u00e9l\u00e9brer la reprise en main de HongkongLe pr\u00e9sident chinois assiste ce vendredi aux festivit\u00e9s marquant le 25e\u00a0anniversaire de la r\u00e9trocession de la ville \u00e0 la Chine.",
+      "url": "https://www.lefigaro.fr/international/xi-jinping-vient-celebrer-la-reprise-en-main-de-hongkong-20220630"
     },
     {
-      "text": "Assembl\u00e9e nationale: la Nupes accuse la Macronie de \u00abpactiser\u00bb avec LR et le RN pour l'attribution des postes",
-      "url": "https://www.lefigaro.fr/politique/assemblee-nationale-la-nupes-accuse-la-macronie-de-pactiser-avec-lr-et-le-rn-pour-l-attribution-des-postes-20220629"
+      "text": "ANALYSE - La Chine pousse ses pions dans le d\u00e9troit de Ta\u00efwan",
+      "url": "https://www.lefigaro.fr/international/la-chine-pousse-ses-pions-dans-le-detroit-de-taiwan-20220630"
     },
     {
-      "text": "Luc Ferry: \u00ab\u00c0 mes amis LR qui se fourvoient\u00bbCHRONIQUE - Il ne s\u2019agit pas de se placer, mais d\u2019aider \u00e0 redresser la France dans le souci de l\u2019int\u00e9r\u00eat g\u00e9n\u00e9ral.",
-      "url": "https://www.lefigaro.fr/vox/politique/luc-ferry-a-mes-amis-lr-qui-se-fourvoient-20220629"
+      "text": "Christian Jacob quitte la t\u00eate de LR vendredi\u00c9lu apr\u00e8s la d\u00e9mission de Laurent Wauquiez en 2019, Christian Jacob a f\u00eat\u00e9 ce jeudi son d\u00e9part du parti.Regarder la vid\u00e9o",
+      "url": "https://www.lefigaro.fr/politique/christian-jacob-quitte-la-tete-de-lr-vendredi-20220630"
     },
     {
-      "text": "Enqu\u00eate ouverte apr\u00e8s une plainte pour \u00abtentative de viol\u00bb visant Damien AbadUne plainte visant le ministre avait \u00e9t\u00e9 d\u00e9pos\u00e9e lundi pour \u00abtentative de viol\u00bb. Il s'agit de la troisi\u00e8me femme \u00e0 accuser le ministre de violences sexuelles.Publi\u00e9 il y\n                    a 2 heures\n                ",
-      "url": "https://www.lefigaro.fr/politique/enquete-ouverte-apres-une-plainte-pour-tentative-de-viol-visant-damien-abad-20220629"
+      "text": "\u00c9ric Coquerel, un id\u00e9ologue \u00e0 la t\u00eate de la commission des FinancesPORTRAIT - Le d\u00e9put\u00e9 LFI de Seine-Saint-Denis a emport\u00e9 jeudi matin la pr\u00e9sidence de cette puissante commission qui contr\u00f4le le budget de l'\u00c9tat et a le pouvoir de mener des enqu\u00eates fiscales.",
+      "url": "https://www.lefigaro.fr/politique/eric-coquerel-un-ideologue-a-la-tete-de-la-commission-des-finances-20220630"
     },
     {
-      "text": "Ces oligarques russes exc\u00e9d\u00e9s par la guerre en UkraineR\u00c9CIT - Malgr\u00e9 les repr\u00e9sailles qu\u2019ils risquent, des membres de l\u2019\u00e9lite \u00e9conomique russe prennent la parole pour d\u00e9noncer publiquement les cons\u00e9quences de la guerre.",
-      "url": "https://www.lefigaro.fr/international/ces-oligarques-russes-excedes-par-la-guerre-en-ukraine-20220629"
+      "text": "L'Insoumis \u00c9ric Coquerel acc\u00e8de \u00e0 la pr\u00e9sidence de la commission des finances",
+      "url": "https://www.lefigaro.fr/politique/assemblee-nationale-la-commission-des-finances-revient-a-l-insoumis-eric-coquerel-20220630"
     },
     {
-      "text": "L'Ukraine peut compter sur l'Otan \u00abaussi longtemps qu'il le faudra\u00bb",
-      "url": "https://www.lefigaro.fr/flash-actu/kiev-salue-la-position-lucide-de-l-otan-sur-la-russie-20220629"
+      "text": "INFOGRAPHIE - Un fort renouvellement aux postes cl\u00e9s de l'Assembl\u00e9e",
+      "url": "https://www.lefigaro.fr/politique/un-fort-renouvellement-aux-postes-cles-de-l-assemblee-20220630"
     },
     {
-      "text": "En Ukraine, la vie harassante des soutiers de la nouvelle route du bl\u00e9: le r\u00e9cit de l\u2019envoy\u00e9 sp\u00e9cial du Figaro",
-      "url": "https://www.lefigaro.fr//en-ukraine-la-vie-harassante-des-soutiers-de-la-nouvelle-route-du-ble-le-recit-de-l-envoye-special-du-figaro-20220629"
+      "text": "L\u2019\u00e9ditorial du Figaro: \u00abGauche radicale, droite honteuse\u00bbPar Vincent Tr\u00e9molet de Villers, directeur adjoint de la r\u00e9daction.",
+      "url": "https://www.lefigaro.fr/vox/politique/l-editorial-du-figaro-gauche-radicale-droite-honteuse-20220630"
     },
     {
-      "text": "REPORTAGE - Les Finlandais, un peuple en armes contre le p\u00e9ril russe",
-      "url": "https://www.lefigaro.fr/international/les-finlandais-un-peuple-en-armes-contre-le-peril-russe-20220629"
+      "text": "Assembl\u00e9e nationale\u00a0: \u00eates-vous satisfait de l'\u00e9lection d'\u00c9ric Coquerel \u00e0 la pr\u00e9sidence de la commission des Finances\u00a0?",
+      "url": "https://www.lefigaro.fr/politique/assemblee-nationale-etes-vous-satisfait-de-l-election-d-eric-coquerel-a-la-presidence-de-la-commission-des-finances-20220630"
     },
     {
-      "text": "Covid-19\u00a0: 124.724 nouveaux cas en 24 heures, 47 morts dans les h\u00f4pitaux fran\u00e7aisLa pression sur les h\u00f4pitaux fran\u00e7ais augmente: 15.690 patients \u00e9taient hospitalis\u00e9s ce mercredi contre 15.496 la veille.",
-      "url": "https://www.lefigaro.fr/sciences/covid-19-124-724-nouveaux-cas-en-24-heures-47-morts-dans-les-hopitaux-francais-20220629"
+      "text": "C\u00f4te d'Azur\u00a0: notre palmar\u00e8s 2022 des villes et villages o\u00f9 il fait bon vivreEXCLUSIF - S\u00e9curit\u00e9, environnement, pollution, transports, immobilier, loisirs, commerces, services\u2026 Sur la base d'une trentaine d'indicateurs, nous avons compar\u00e9 la qualit\u00e9 de vie dans 80 communes situ\u00e9es entre Hy\u00e8res et Menton.",
+      "url": "https://www.lefigaro.fr/actualite-france/cote-d-azur-notre-palmares-2022-des-villes-et-villages-ou-il-fait-bon-vivre-20220630"
     },
     {
-      "text": "Covid-19\u00a0: la 7e vague va-t-elle g\u00e2cher l'\u00e9t\u00e9\u00a0?",
-      "url": "https://www.lefigaro.fr/actualite-france/covid-19-la-7e-vague-va-t-elle-gacher-l-ete-20220629"
+      "text": "\u00c9tats-Unis\u00a0: la Cour supr\u00eame limite les moyens de l'\u00c9tat f\u00e9d\u00e9ral de lutter contre le r\u00e9chauffement climatiqueApr\u00e8s avoir renforc\u00e9 le droit \u00e0 porter des armes et apr\u00e8s avoir remis en cause le droit d'avorter, la Cour supr\u00eame a fortement limit\u00e9 jeudi les moyens dont dispose l'\u00c9tat f\u00e9d\u00e9ral pour lutter contre les gaz \u00e0 effet de serre.",
+      "url": "https://www.lefigaro.fr/flash-actu/usa-la-cour-supreme-limite-les-moyens-de-l-etat-federal-de-lutter-contre-le-rechauffement-climatique-20220630"
     },
     {
-      "text": "O\u00f9 placer son argent quand la Bourse baisse et les taux montent?D\u00c9CRYPTAGE - Les g\u00e9rants reviennent sur les secteurs ayant souffert, comme la tech et le luxe, mais en s\u00e9lectionnant soigneusement les soci\u00e9t\u00e9s.",
-      "url": "https://www.lefigaro.fr/placement/ou-placer-son-argent-quand-la-bourse-baisse-et-les-taux-montent-20220629"
+      "text": "27\u00a0ans apr\u00e8s, l\u2019affaire du chasseur d\u00e9capit\u00e9 rebonditR\u00c9CIT - Le corps de Christophe Doire avait \u00e9t\u00e9 retrouv\u00e9 en\u00a01995. Insoup\u00e7onn\u00e9e jusque-l\u00e0, sa veuve est mise en cause et \u00e9crou\u00e9e.",
+      "url": "https://www.lefigaro.fr/actualite-france/27-ans-apres-l-affaire-du-chasseur-decapite-rebondit-20220630"
     },
     {
-      "text": "A\u00e9roport de Roissy\u00a0: environ 10% des vols annul\u00e9s ce jeudiUn mouvement de gr\u00e8ve touche les pompiers de l'a\u00e9roport de Roissy, sur fond de n\u00e9gociations salariales.",
-      "url": "https://www.lefigaro.fr/flash-eco/greve-a-paris-charles-de-gaulle-environ-10-des-vols-annules-jeudi-20220629"
+      "text": "Brevet 2022\u00a0: d\u00e9couvrez les sujets et les corrig\u00e9s de fran\u00e7ais et de mathsEN DIRECT - Suivez la premi\u00e8re journ\u00e9e du brevet 2022 avec les \u00e9preuves de fran\u00e7ais et de math\u00e9matiques. Nos journalistes seront devant les coll\u00e8ges pour le d\u00e9but des \u00e9preuves. D\u00e9couvrez les sujets \u00e0 partir de 11h.",
+      "url": "https://etudiant.lefigaro.fr/article/brevet-2022-epreuves-francais-mathematiques-sujets-corriges_d53bd012-f3bb-11ec-a2bd-0bf159c49dfd/"
     },
     {
-      "text": "La maternelle face aux violences sexuelles entre enfantsENQU\u00caTE - Elles mettent au d\u00e9fi les institutions scolaire et judiciaire, en raison du tr\u00e8s jeune \u00e2ge des victimes et de leurs agresseurs pr\u00e9sum\u00e9s.",
-      "url": "https://www.lefigaro.fr/actualite-france/la-maternelle-face-aux-violences-sexuelles-entre-enfants-20220628"
+      "text": "Brevet 2022\u00a0: d\u00e9couvrez le sujet de r\u00e9daction de l\u2019\u00e9preuve de fran\u00e7ais",
+      "url": "https://etudiant.lefigaro.fr/article/brevet-2022-decouvrez-le-sujet-de-redaction-de-l-epreuve-de-francais_2d72b296-f61e-11ec-a311-08ed0407f6e0/"
     },
     {
-      "text": "Le chanteur am\u00e9ricain R. Kelly, reconnu coupable de crimes sexuels, condamn\u00e9 \u00e0 30 ans de prisonLa star am\u00e9ricaine d\u00e9chue est accus\u00e9e d'avoir dirig\u00e9 pendant des ann\u00e9es un \u00absyst\u00e8me\u00bb d'exploitation de jeunes femmes et jeunes hommes, dont des mineurs.",
-      "url": "https://www.lefigaro.fr/culture/le-chanteur-americain-r-kelly-reconnu-coupable-de-crimes-sexuels-risque-25-ans-de-prison-20220629"
+      "text": "\u00abLes dict\u00e9es n\u2019\u00e9taient pas difficiles\u00bb: une professeure de fran\u00e7ais r\u00e9agit aux textes donn\u00e9s au brevet des coll\u00e8ges",
+      "url": "https://www.lefigaro.fr/langue-francaise/actu-des-mots/les-dictees-n-etaient-pas-difficiles-une-professeure-de-francais-reagit-aux-textes-donnes-au-brevet-des-colleges-20220630"
     },
     {
-      "text": "Le pape Fran\u00e7ois met au ban\u00a0la \u00abmesse\u00a0en latin\u00bbANALYSE - Dans une lettre apostolique, il confirme que l\u2019\u00c9glise ne reconna\u00eet que la liturgie du concile Vatican II.",
-      "url": "https://www.lefigaro.fr/actualite-france/le-pape-francois-met-au-ban-la-messe-en-latin-20220629"
+      "text": "Des nouvelles normes pour les casques moto entrent en vigueur ce vendrediINFOGRAPHIE - Les normes d\u2019homologation des casques de moto changent le 1er juillet. Pour \u00eatre commercialis\u00e9s, ils devront r\u00e9sister \u00e0 des tests plus contraignants.",
+      "url": "https://www.lefigaro.fr/actualite-france/des-nouvelles-normes-pour-les-casques-moto-20220630"
     },
     {
-      "text": "Inflation\u00a0: un ch\u00e8que alimentaire de 100 euros par foyer propos\u00e9 pour les plus modestes, confirme Olivia Gr\u00e9goireLe projet de loi pouvoir d'achat devrait \u00eatre pr\u00e9sent\u00e9 le 6 juillet en Conseil des ministres.",
-      "url": "https://www.lefigaro.fr/conjoncture/le-cheque-alimentaire-de-100-euros-confirme-pour-les-9-millions-de-foyers-les-plus-modestes-20220629"
+      "text": "Eurock\u00e9ennes\u00a0: sept bless\u00e9s \u00aben urgence relative\u00bb apr\u00e8s de violentes bourasquesLa pr\u00e9fecture du Territoire de Belfort et les organisateurs ont pr\u00e9f\u00e9r\u00e9 renoncer \u00e0 sa soir\u00e9e d'ouvertue avec Stromae suite \u00e0 de tr\u00e8s fortes intemp\u00e9ries qui ont emport\u00e9 un pyl\u00f4ne m\u00e9tallique. La deuxi\u00e8me journ\u00e9e du festival, ce vendredi, a \u00e9galement \u00e9t\u00e9 annul\u00e9e.",
+      "url": "https://www.lefigaro.fr/culture/eurockeennes-la-premiere-soiree-annulee-apres-un-gros-orage-sept-blesses-en-urgence-relative-20220630"
     },
     {
-      "text": "Endom\u00e9triose\u00a0: \u00abdes m\u00e9decins parlent de fertilit\u00e9 \u00e0 des femmes qui ont des douleurs bien plus urgentes\u00bbT\u00c9MOIGNAGES - Mal inform\u00e9s sur cette maladie gyn\u00e9cologique, certains m\u00e9decins laissent les femmes sans r\u00e9ponse face \u00e0 leurs douleurs. Voire les incitent \u00e0 tomber enceintes... pour en gu\u00e9rir.",
-      "url": "https://www.lefigaro.fr/actualite-france/endometriose-des-medecins-parlent-de-fertilite-a-des-femmes-qui-ont-des-douleurs-bien-plus-urgentes-20220629"
+      "text": "Guerre en Ukraine\u00a0: le retrait russe de l'\u00eele aux Serpents, une victoire ukrainienne aux cons\u00e9quences militaires incertainesFOCUS - Situ\u00e9e \u00e0 50 kilom\u00e8tres des c\u00f4tes, cette petite \u00eele de 17 hectares conquise d\u00e8s le 24 f\u00e9vrier par les Russes \u00e9tait tr\u00e8s disput\u00e9e en mer Noire. Le retrait de Moscou est une victoire a minima symbolique pour Kiev.",
+      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-le-retrait-russe-de-l-ile-aux-serpents-une-victoire-ukrainienne-aux-consequences-militaires-incertaines-20220630"
     },
     {
-      "text": "Florence Parly pressentie \u00e0 la t\u00eate du conseil d'administration d'Air France-KLML'ex-ministre des Arm\u00e9es remplacerait une autre ancienne ministre, Anne-Marie Couderc.",
-      "url": "https://www.lefigaro.fr/societes/florence-parly-pressentie-a-la-tete-du-conseil-d-administration-d-air-france-klm-20220629"
+      "text": "Pour Moscou, un \u00abrideau de fer\u00bb s'abat entre la Russie et l'Occident",
+      "url": "https://www.lefigaro.fr/flash-actu/un-rideau-de-fer-s-abat-entre-la-russie-et-l-occident-20220630"
     },
     {
-      "text": "Les \u00abghostwriters\u00bb de LinkedIn, ces plumes pay\u00e9es pour \u00e9crire des posts aux chefs d'entrepriseENQU\u00caTE - Pour promouvoir leur marque ou leur propre image, des dirigeants sous-traitent discr\u00e8tement l'\u00e9criture de leurs publications sur le r\u00e9seau professionnel. Et ils sont pr\u00eats \u00e0 payer cher.",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/les-ghostwriters-de-linkedin-ces-plumes-payees-pour-ecrire-des-posts-aux-chefs-d-entreprise-20220629"
+      "text": "Carte de la guerre en Ukraine\u00a0: au 127e jour, la Russie presse Lisichansk \u00e0 l'Est et abandonne l'\u00eele aux Serpents \u00e0 l'Ouest",
+      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-carte-pour-suivre-la-situation-militaire-20220224"
     },
     {
-      "text": "Logement: hausse des impay\u00e9s et risque \u00e9lev\u00e9 d'expulsions en EuropeDans l'Union europ\u00e9enne, depuis la pand\u00e9mie de Covid-19, 8,3% des m\u00e9nages pauvres se trouvent en situation d'impay\u00e9 de loyer ou de remboursement d'emprunt immobilier, un ph\u00e9nom\u00e8ne qui a augment\u00e9 de 20% entre 2019 et 2020.Publi\u00e9 il y\n                    a 30 min\n                ",
-      "url": "https://www.lefigaro.fr/flash-eco/logement-hausse-des-impayes-et-risque-eleve-d-expulsions-en-europe-20220630"
+      "text": "Guerre en Ukraine\u00a0: Joe Biden annonce 800 millions de dollars pour l'Ukraine",
+      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-biden-annonce-800-millions-de-dollars-pour-l-ukraine-20220630"
     },
     {
-      "text": "Poutine d\u00e9nonce les \u00abambitions imp\u00e9riales\u00bb de l'Otan qui cherche \u00e0 affirmer son \u00abh\u00e9g\u00e9monie\u00bb via le conflit ukrainienLe pr\u00e9sident russe a affirm\u00e9 que \u00abl'Ukraine et le bien du peuple ukrainien\u00bb n'\u00e9tait pas \u00abl'objectif de l'Occident et de l'Otan\u00bb mais \u00abmais un moyen de d\u00e9fendre leurs propres int\u00e9r\u00eats\u00bb.",
-      "url": "https://www.lefigaro.fr/flash-actu/poutine-denonce-les-ambitions-imperiales-de-l-otan-qui-cherche-a-affirmer-son-hegemonie-via-le-conflit-ukrainien-20220629"
-    },
-    {
-      "text": "D\u00c9CRYPTAGE - La porte de l\u2019Otan s\u2019ouvre pour la Finlande et la Su\u00e8de",
-      "url": "https://www.lefigaro.fr/international/la-porte-de-l-otan-s-ouvre-pour-la-finlande-et-la-suede-20220629"
+      "text": "Retraites, ticket-restaurant...Ce qui change au 1er juillet 2022Le mois de juillet est marqu\u00e9 par une s\u00e9rie de mesures pour lutter contre l'inflation, comme l'encadrement des loyers, ainsi que par la fin des aides COVID.",
+      "url": "https://www.lefigaro.fr/conjoncture/retraites-ticket-restaurant-ce-qui-change-au-1er-juillet-2022-20220630"
     },
     {
       "text": " ",
       "url": "https://www.lefigaro.fr/dossier/les-podcasts-du-figaro-politique-television-culture-societe-science-sante"
     },
     {
-      "text": "Logement: hausse des impay\u00e9s et risque \u00e9lev\u00e9 d'expulsions en Europe",
-      "url": "https://www.lefigaro.fr/flash-eco/logement-hausse-des-impayes-et-risque-eleve-d-expulsions-en-europe-20220630"
+      "text": "Ain\u00a0: le concert de Kiss annul\u00e9 au Printemps de P\u00e9rouges en raison des intemp\u00e9ries",
+      "url": "https://www.lefigaro.fr/culture/ain-le-concert-de-kiss-annule-au-printemps-de-perouges-en-raison-des-intemperies-20220630"
     },
     {
-      "text": "Covid: les \u00c9tats-Unis ach\u00e8tent 105 millions de doses de vaccin Pfizer pour l'automne",
-      "url": "https://www.lefigaro.fr/flash-eco/covid-les-etats-unis-achetent-105-millions-de-doses-de-vaccin-pfizer-pour-l-automne-20220629"
+      "text": "La premi\u00e8re ministre n\u00e9oz\u00e9landaise re\u00e7ue \u00e0 Downing Street vendredi",
+      "url": "https://www.lefigaro.fr/flash-actu/la-premiere-ministre-neozelandaise-recue-a-downing-street-vendredi-20220630"
     },
     {
-      "text": "Le t\u00e9lescope James Webb va livrer l'image \u00abla plus profonde\u00bb de l'univers",
-      "url": "https://www.lefigaro.fr/flash-eco/le-telescope-james-webb-va-livrer-l-image-la-plus-profonde-de-l-univers-20220629"
+      "text": "Mexique\u00a0: le pr\u00e9sident offense les juifs en traitant d'\u00abhitl\u00e9rien\u00bb l'un de ses d\u00e9tracteurs",
+      "url": "https://www.lefigaro.fr/flash-actu/mexique-le-president-offense-les-juifs-en-traitant-d-hitlerien-l-un-de-ses-detracteurs-20220630"
     },
     {
-      "text": "Londres augmente massivement son soutien militaire \u00e0 Kiev",
-      "url": "https://www.lefigaro.fr/flash-actu/londres-augmente-massivement-son-soutien-militaire-a-kiev-20220629"
+      "text": "Washington d\u00e9plore \u00abl'\u00e9rosion de l'autonomie\u00bb \u00e0 Hongkong, 25 ans apr\u00e8s la r\u00e9trocession",
+      "url": "https://www.lefigaro.fr/flash-actu/washington-deplore-l-erosion-de-l-autonomie-a-hongkong-25-ans-apres-la-retrocession-20220630"
     },
     {
-      "text": "Ukraine\u00a0: Poutine rejette la responsabilit\u00e9 russe dans la frappe \u00e0 Krementchouk",
-      "url": "https://www.lefigaro.fr/flash-actu/ukraine-poutine-rejette-la-responsabilite-russe-dans-la-frappe-a-krementchouk-20220629"
+      "text": "LFI d\u00e9fend Coquerel contre des \u00abrumeurs sur son comportement avec les femmes\u00bb",
+      "url": "https://www.lefigaro.fr/flash-actu/lfi-defend-coquerel-contre-des-rumeurs-sur-son-comportement-avec-les-femmes-20220630"
     },
     {
-      "text": "Poutine d\u00e9nonce les \u00abambitions imp\u00e9riales\u00bb de l'Otan qui cherche \u00e0 affirmer son \u00abh\u00e9g\u00e9monie\u00bb via le conflit ukrainien",
-      "url": "https://www.lefigaro.fr/flash-actu/poutine-denonce-les-ambitions-imperiales-de-l-otan-qui-cherche-a-affirmer-son-hegemonie-via-le-conflit-ukrainien-20220629"
+      "text": "En attendant Galtier, le PSG d\u00e9bute officiellement son mercato avec Vitinha",
+      "url": "https://www.lefigaro.fr/sports/football/transferts/mercato-vitinha-au-psg-ca-brule-20220617"
     },
     {
-      "text": "Tour de France\u00a0: les six \u00e9tapes \u00e0 ne surtout pas manquer cette ann\u00e9e",
-      "url": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-les-six-etapes-a-ne-surtout-pas-manquer-cette-annee-20220629"
+      "text": "La justice am\u00e9ricaine enqu\u00eate pour \u00absexisme\u00bb \u00e0 la cellule \u00abcrimes sexuels\u00bb de la police new-yorkaise",
+      "url": "https://www.lefigaro.fr/flash-actu/la-justice-americaine-enquete-pour-sexisme-a-la-cellule-crimes-sexuels-de-la-police-new-yorkaise-20220630"
     },
     {
-      "text": "Enqu\u00eate ouverte apr\u00e8s une plainte pour \u00abtentative de viol\u00bb visant Damien Abad",
-      "url": "https://www.lefigaro.fr/politique/enquete-ouverte-apres-une-plainte-pour-tentative-de-viol-visant-damien-abad-20220629"
+      "text": "Narbonne\u00a0: un homme en garde \u00e0 vue apr\u00e8s le meurtre d'une jeune femme",
+      "url": "https://www.lefigaro.fr/flash-actu/narbonne-un-homme-en-garde-a-vue-apres-le-meurtre-d-une-jeune-femme-20220630"
     },
     {
-      "text": "Reconnaissance de l'ind\u00e9pendance de territoires prorusses\u00a0: Zelensky met fin aux relations diplomatiques avec la Syrie",
-      "url": "https://www.lefigaro.fr/flash-actu/reconnaissance-de-l-independance-de-territoires-prorusses-zelensky-met-fin-aux-relations-diplomatiques-avec-la-syrie-20220629"
+      "text": "Fille pouss\u00e9e du pont de Saint-Nazaire\u00a0: la mise en examen du p\u00e8re requise pour assassinat",
+      "url": "https://www.lefigaro.fr/flash-actu/fille-poussee-du-pont-de-saint-nazaire-la-mise-en-examen-du-pere-requise-pour-assassinat-20220630"
     },
     {
-      "text": "Nucl\u00e9aire iranien\u00a0: toujours pas les \u00abprogr\u00e8s esp\u00e9r\u00e9s par l'UE\u00bb dans les n\u00e9gociations de Doha",
-      "url": "https://www.lefigaro.fr/flash-actu/nucleaire-iranien-toujours-pas-les-progres-esperes-par-l-ue-dans-les-negociations-de-doha-20220629"
+      "text": "Coups de feu dans un bus \u00e0 Rennes\u00a0: cinq mineurs et un majeur renvoy\u00e9s devant un tribunal",
+      "url": "https://www.lefigaro.fr/flash-actu/coups-de-feu-dans-un-bus-a-rennes-cinq-mineurs-et-un-majeur-renvoyes-devant-un-tribunal-20220630"
     },
     {
-      "text": "Arctique\u00a0: la Norv\u00e8ge ne viole pas de trait\u00e9 en bloquant une cargaison russe vers le Svalbard, affirme Oslo",
-      "url": "https://www.lefigaro.fr/flash-eco/arctique-la-norvege-ne-viole-pas-de-traite-en-bloquant-une-cargaison-russe-vers-le-svalbard-affirme-oslo-20220629"
+      "text": "Brevet des coll\u00e8ges\u00a0: l'\u00c9ducation nationale va porter plainte apr\u00e8s la fuite de sujets",
+      "url": "https://www.lefigaro.fr/actualite-france/brevet-l-education-nationale-va-porter-plainte-apres-la-fuite-de-sujets-20220630"
     },
     {
-      "text": "Manche\u00a0: 86 migrants secourus au large des c\u00f4tes fran\u00e7aises",
-      "url": "https://www.lefigaro.fr/flash-actu/manche-86-migrants-secourus-au-large-des-cotes-francaises-20220629"
+      "text": "Christian Jacob quitte la t\u00eate de LR vendredi",
+      "url": "https://www.lefigaro.fr/politique/christian-jacob-quitte-la-tete-de-lr-vendredi-20220630"
     },
     {
-      "text": "Foot: cris de singe et salut nazi, 3 supporters des Boca Juniors arr\u00eat\u00e9s \u00e0 Sao Paulo",
-      "url": "https://www.lefigaro.fr/sports/football/foot-cris-de-singe-et-salut-nazi-3-supporters-des-boca-juniors-arretes-a-sao-paulo-20220629"
+      "text": "Les r\u00e9dactions de France T\u00e9l\u00e9vision votent la d\u00e9fiance contre leur directeur de l'information",
+      "url": "https://www.lefigaro.fr/medias/les-redactions-de-france-television-votent-la-defiance-contre-leur-directeur-de-l-information-20220630"
     },
     {
-      "text": "Vingt mois de prison pour un Am\u00e9ricano-Ukrainien de la galaxie Trump pour financement politique ill\u00e9gal",
-      "url": "https://www.lefigaro.fr/flash-actu/vingt-mois-de-prison-pour-un-americano-ukrainien-de-la-galaxie-trump-pour-financement-politique-illegal-20220629"
+      "text": "Espagne\u00a0: la gr\u00e8ve \u00e0 Ryanair entra\u00eene l'annulation d'une cinquantaine de vols",
+      "url": "https://www.lefigaro.fr/economie/espagne-la-greve-a-ryanair-entraine-l-annulation-d-une-cinquantaine-de-vols-20220630"
     },
     {
-      "text": "Portugal\u00a0: le gouvernement tranche en faveur d'un a\u00e9roport compl\u00e9mentaire \u00e0 Lisbonne",
-      "url": "https://www.lefigaro.fr/flash-actu/portugal-le-gouvernement-tranche-en-faveur-d-un-aeroport-complementaire-a-lisbonne-20220629"
+      "text": "Martinique\u00a0: les saisies d'armes \u00e0 feu en hausse de 25% au premier semestre",
+      "url": "https://www.lefigaro.fr/flash-actu/martinique-les-saisies-d-armes-a-feu-en-hausse-de-25-au-premier-semestre-20220630"
     },
     {
-      "text": "Isra\u00ebl\u00a0: la dissolution du Parlement repouss\u00e9e \u00e0 jeudi",
-      "url": "https://www.lefigaro.fr/flash-actu/israel-la-dissolution-du-parlement-repoussee-a-jeudi-20220629"
+      "text": "Yvelines\u00a0: un agent des imp\u00f4ts poursuivi pour d\u00e9tournement de fonds de l'h\u00f4pital de Poissy",
+      "url": "https://www.lefigaro.fr/flash-actu/yvelines-un-agent-des-impots-poursuivi-pour-detournement-de-fonds-de-l-hopital-de-poissy-20220630"
     },
     {
-      "text": "Football: Canal + remporte 100 % des droits des comp\u00e9titions europ\u00e9ennes",
-      "url": "https://www.lefigaro.fr/sports/football/football-canal-remporte-100-des-droits-des-competitions-europeennes-20220629"
+      "text": "\u00c9tats-Unis\u00a0: un r\u00e9gulateur r\u00e9clame 1,7 milliard de dollars \u00e0 une plateforme de cryptomonnaies accus\u00e9e de fraude",
+      "url": "https://www.lefigaro.fr/flash-eco/etats-unis-un-regulateur-reclame-1-7-milliard-de-dollars-a-une-plateforme-de-cryptomonnaies-accusee-de-fraude-20220630"
     },
     {
-      "text": "Ukraine\u00a0: la \u00abfr\u00e9quence\u00bb des bombardements sur Lyssytchansk est \u00ab\u00e9norme\u00bb",
-      "url": "https://www.lefigaro.fr/flash-actu/ukraine-la-frequence-des-bombardements-sur-lyssytchansk-est-enorme-20220629"
+      "text": "Malte va examiner l'interdiction de l'avortement apr\u00e8s une pol\u00e9mique",
+      "url": "https://www.lefigaro.fr/flash-actu/malte-va-examiner-l-interdiction-de-l-avortement-apres-une-polemique-20220630"
     },
     {
-      "text": "Pas d'unit\u00e9 du Conseil de s\u00e9curit\u00e9 de l'ONU sur le drame de Melilla",
-      "url": "https://www.lefigaro.fr/flash-actu/pas-d-unite-du-conseil-de-securite-de-l-onu-sur-le-drame-de-melilla-20220629"
+      "text": "Boris Johnson promet de ne pas \u00ababandonner\u00bb Hong Kong, 25 ans apr\u00e8s la r\u00e9trocession",
+      "url": "https://www.lefigaro.fr/flash-actu/boris-johnson-promet-de-ne-pas-abandonner-hong-kong-25-ans-apres-la-retrocession-20220630"
     },
     {
-      "text": "Soudan\u00a0: un mort dans de nouvelles manifestations contre le pouvoir militaire",
-      "url": "https://www.lefigaro.fr/flash-actu/soudan-un-mort-dans-de-nouvelles-manifestations-contre-le-pouvoir-militaire-20220629"
+      "text": "Ligue 1\u00a0: sur les droits TV, Canal+ encore d\u00e9bout\u00e9e par la justice",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-sur-les-droits-tv-canal-encore-deboutee-par-la-justice-20220630"
     },
     {
-      "text": "D\u00e9mant\u00e8lement d'une fili\u00e8re de recel de bijoux, pr\u00e8s de 4 millions de pr\u00e9judice",
-      "url": "https://www.lefigaro.fr/flash-actu/demantelement-d-une-filiere-de-recel-de-bijoux-pres-de-4-millions-de-prejudice-20220629"
+      "text": "Loire\u00a0: les dirigeants d'une structure sociale en garde \u00e0 vue",
+      "url": "https://www.lefigaro.fr/flash-actu/loire-les-dirigeants-d-une-structure-sociale-en-garde-a-vue-20220630"
     },
     {
-      "text": "Garrido et des militants victimes de gaz lacrymog\u00e8nes\u00a0: un mineur interpell\u00e9",
-      "url": "https://www.lefigaro.fr/flash-actu/garrido-et-des-militants-victimes-de-gaz-lacrymogenes-un-mineur-interpelle-20220629"
+      "text": "Washington g\u00e8le plus d'un milliard de dollars d'avoirs aux \u00c9tats-Unis d'un oligarque russe",
+      "url": "https://www.lefigaro.fr/flash-eco/washington-gele-plus-d-un-milliard-de-dollars-d-avoirs-aux-etats-unis-d-un-oligarque-russe-20220630"
     },
     {
-      "text": "Petite enfance\u00a0: des pistes pour rem\u00e9dier aux p\u00e9nuries d'effectifs",
-      "url": "https://www.lefigaro.fr/flash-actu/petite-enfance-des-pistes-pour-remedier-aux-penuries-d-effectifs-20220629"
+      "text": "Emploi: un march\u00e9 dynamique au premier trimestre selon la Dares",
+      "url": "https://www.lefigaro.fr/conjoncture/emploi-un-marche-dynamique-au-premier-trimestre-selon-la-dares-20220630"
     },
     {
-      "text": "Florence Parly pressentie \u00e0 la t\u00eate du conseil d'administration d'Air France-KLM",
-      "url": "https://www.lefigaro.fr/societes/florence-parly-pressentie-a-la-tete-du-conseil-d-administration-d-air-france-klm-20220629"
+      "text": "Moselle\u00a0: enqu\u00eate ouverte pour homicide volontaire apr\u00e8s le d\u00e9c\u00e8s d'un militaire",
+      "url": "https://www.lefigaro.fr/flash-actu/moselle-enquete-ouverte-pour-homicide-volontaire-apres-le-deces-d-un-militaire-20220630"
     },
     {
-      "text": "Covid-19\u00a0: 124.724 nouveaux cas en 24 heures, 47 morts dans les h\u00f4pitaux fran\u00e7ais",
-      "url": "https://www.lefigaro.fr/sciences/covid-19-124-724-nouveaux-cas-en-24-heures-47-morts-dans-les-hopitaux-francais-20220629"
+      "text": "Landes\u00a0: un homme arm\u00e9 retranch\u00e9 chez lui pendant 44 heures d\u00e9log\u00e9 par le GIGN",
+      "url": "https://www.lefigaro.fr/flash-actu/landes-un-homme-arme-retranche-chez-lui-pendant-44-heures-deloge-par-le-gign-20220630"
     },
     {
-      "text": "Risques pour le f\u0153tus\u00a0: un anti-\u00e9pileptique suscite de plus en plus d'inqui\u00e9tudes",
-      "url": "https://www.lefigaro.fr/flash-actu/risques-pour-le-foetus-un-anti-epileptique-suscite-de-plus-en-plus-d-inquietudes-20220629"
+      "text": "Propos de Johnson sur Poutine\u00a0: Moscou convoque l'ambassadrice britannique",
+      "url": "https://www.lefigaro.fr/flash-actu/propos-de-johnson-sur-poutine-moscou-convoque-l-ambassadrice-britannique-20220630"
     },
     {
-      "text": "Un Am\u00e9ricain d\u00e9tenu en Iran demande \u00e0 Biden de conclure un accord avec T\u00e9h\u00e9ran",
-      "url": "https://www.lefigaro.fr/flash-actu/un-americain-detenu-en-iran-demande-a-biden-de-conclure-un-accord-avec-teheran-20220629"
+      "text": "La France candidate \u00e0 l'organisation de la conf\u00e9rence sur les oc\u00e9ans de 2025",
+      "url": "https://www.lefigaro.fr/flash-actu/la-france-candidate-a-l-organisation-de-la-conference-sur-les-oceans-de-2025-20220630"
     },
     {
-      "text": "12 centimes au lieu de 10: TotalEnergies revoit sa ristourne \u00e0 la hausse pour les stations d'autoroutes cet \u00e9t\u00e9",
-      "url": "https://www.lefigaro.fr/societes/totalenergies-une-reduction-de-12-centimes-cet-ete-dans-les-stations-d-autoroutes-20220629"
+      "text": "Eurock\u00e9ennes\u00a0: sept bless\u00e9s \u00aben urgence relative\u00bb apr\u00e8s de violentes bourasques",
+      "url": "https://www.lefigaro.fr/culture/eurockeennes-la-premiere-soiree-annulee-apres-un-gros-orage-sept-blesses-en-urgence-relative-20220630"
     },
     {
-      "text": "Un homme bless\u00e9 par un bison dans le parc de Yellowstone aux \u00c9tats-Unis",
-      "url": "https://www.lefigaro.fr/flash-actu/un-homme-blesse-par-un-bison-dans-le-parc-de-yellowstone-aux-etats-unis-20220629"
+      "text": "La m\u00e9t\u00e9o du vendredi 1er juillet\u00a0: retour du soleil malgr\u00e9 des temp\u00e9ratures en dessous des normales",
+      "url": "https://www.lefigaro.fr/meteo/la-meteo-du-vendredi-1er-juillet-retour-du-soleil-malgre-des-temperatures-en-dessous-des-normales-20220630"
     },
     {
-      "text": "Libye\u00a0: l'ambassadeur am\u00e9ricain met en garde contre le chantage au p\u00e9trole",
-      "url": "https://www.lefigaro.fr/flash-actu/libye-l-ambassadeur-americain-met-en-garde-contre-le-chantage-au-petrole-20220629"
+      "text": "USA\u00a0: la Cour supr\u00eame enterre un d\u00e9cret migratoire contest\u00e9 de Trump",
+      "url": "https://www.lefigaro.fr/flash-actu/usa-la-cour-supreme-enterre-un-decret-migratoire-conteste-de-trump-20220630"
     },
     {
-      "text": "Le statut de r\u00e9fugi\u00e9 retir\u00e9 \u00e0 un Soudanais impliqu\u00e9 dans un r\u00e9seau de passeurs",
-      "url": "https://www.lefigaro.fr/flash-actu/le-statut-de-refugie-retire-a-un-soudanais-implique-dans-un-reseau-de-passeurs-20220629"
+      "text": "Covid-19\u00a0: 133.346 nouveaux cas en 24 heures, 42 morts dans les h\u00f4pitaux fran\u00e7ais",
+      "url": "https://www.lefigaro.fr/sciences/covid-19-42-morts-dans-les-hopitaux-francais-931-patients-en-reanimation-20220630"
     },
     {
-      "text": "L'image de la Chine se d\u00e9grade encore dans le monde",
-      "url": "https://www.lefigaro.fr/flash-actu/l-image-de-la-chine-se-degrade-encore-dans-le-monde-20220629"
+      "text": "La BCE met les banques en garde sur les dividendes face au risque de r\u00e9cession",
+      "url": "https://www.lefigaro.fr/flash-eco/la-bce-met-les-banques-en-garde-sur-les-dividendes-face-au-risque-de-recession-20220630"
     },
     {
-      "text": "La m\u00e9t\u00e9o du jeudi 30 juin\u00a0: le jour le plus \u00abmaussade\u00bb de la semaine",
-      "url": "https://www.lefigaro.fr/meteo/la-meteo-du-jeudi-30-juin-le-jour-le-plus-maussade-de-la-semaine-20220629"
+      "text": "En M\u00e9diterran\u00e9e, l'Ocean Viking a secouru 206 migrants en quelques jours",
+      "url": "https://www.lefigaro.fr/flash-actu/en-mediterranee-l-ocean-viking-a-secouru-206-migrants-en-quelques-jours-20220630"
     },
     {
-      "text": "Assembl\u00e9e nationale: la Nupes accuse la Macronie de \u00abpactiser\u00bb avec LR et le RN pour l'attribution des postes",
-      "url": "https://www.lefigaro.fr/politique/assemblee-nationale-la-nupes-accuse-la-macronie-de-pactiser-avec-lr-et-le-rn-pour-l-attribution-des-postes-20220629"
+      "text": "L'OMS s'attend \u00e0 des \u00abniveaux \u00e9lev\u00e9s\u00bb de Covid-19 cet \u00e9t\u00e9 en Europe",
+      "url": "https://www.lefigaro.fr/flash-actu/l-oms-s-attend-a-des-niveaux-eleves-de-covid-19-cet-ete-en-europe-20220630"
     },
     {
-      "text": "Un journaliste assassin\u00e9 au Mexique, le 12e depuis le d\u00e9but de l'ann\u00e9e",
-      "url": "https://www.lefigaro.fr/flash-actu/un-journaliste-assassine-au-mexique-le-12e-depuis-le-debut-de-l-annee-20220629"
+      "text": "Ceuta\u00a0: un tribunal confirme l'ill\u00e9galit\u00e9 du renvoi de mineurs vers le Maroc l'an dernier",
+      "url": "https://www.lefigaro.fr/flash-actu/ceuta-un-tribunal-confirme-l-illegalite-du-renvoi-de-mineurs-vers-le-maroc-l-an-dernier-20220630"
     },
     {
-      "text": "Isra\u00ebl\u00a0: le premier ministre sortant Naftali Bennett ne sera pas candidat aux prochaines \u00e9lections",
-      "url": "https://www.lefigaro.fr/flash-actu/israel-le-premier-ministre-sortant-naftali-bennett-ne-sera-pas-candidat-aux-prochaines-elections-20220629"
+      "text": "Le Qatar offre une aide de 60 millions de dollars \u00e0 l'arm\u00e9e libanaise",
+      "url": "https://www.lefigaro.fr/flash-actu/le-qatar-offre-une-aide-de-60-millions-de-dollars-a-l-armee-libanaise-20220630"
     },
     {
-      "text": "Plainte d'un journaliste pour des \u00abmenaces\u00bb re\u00e7ues de proches d'un d\u00e9put\u00e9 RN du Var",
-      "url": "https://www.lefigaro.fr/flash-actu/plainte-d-un-journaliste-pour-des-menaces-recues-de-proches-d-un-depute-rn-du-var-20220629"
+      "text": "Ukraine\u00a0: le pr\u00e9sident indon\u00e9sien dit avoir remis \u00e0 Poutine un message de Zelensky",
+      "url": "https://www.lefigaro.fr/flash-actu/ukraine-le-president-indonesien-dit-avoir-remis-a-poutine-un-message-de-zelensky-20220630"
     },
     {
-      "text": "Vend\u00e9e\u00a0: 10 ans de prison pour trafic de drogue, importantes saisies",
-      "url": "https://www.lefigaro.fr/flash-actu/vendee-10-ans-de-prison-pour-trafic-de-drogue-importantes-saisies-20220629"
+      "text": "Gr\u00e8ve\u00a0: \u00e0 nouveau environ 10% des vols annul\u00e9s vendredi \u00e0 Paris-Charles-de-Gaulle",
+      "url": "https://www.lefigaro.fr/flash-eco/greve-a-nouveau-environ-10-des-vols-annules-vendredi-a-paris-charles-de-gaulle-20220630"
     },
     {
-      "text": "Biden \u00abremercie\u00bb Erdogan pour son feu vert \u00e0 l'\u00e9largissement de l'Otan",
-      "url": "https://www.lefigaro.fr/flash-actu/biden-remercie-erdogan-pour-son-feu-vert-a-l-elargissement-de-l-otan-20220629"
+      "text": "Donn\u00e9es personnelles: plaintes contre Google de consommateurs europ\u00e9ens",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/donnees-personnelles-plaintes-contre-google-de-consommateurs-europeens-20220630"
     },
     {
-      "text": "Un p\u00e8re en garde \u00e0 vue apr\u00e8s avoir pouss\u00e9 sa fille du pont de Saint-Nazaire",
-      "url": "https://www.lefigaro.fr/flash-actu/un-pere-en-garde-a-vue-apres-avoir-pousse-sa-fille-du-pont-de-saint-nazaire-20220629"
+      "text": "Algues vertes\u00a0: triplement des capteurs d'hydrog\u00e8ne sulfur\u00e9 sur les plages bretonnes",
+      "url": "https://www.lefigaro.fr/social/algues-vertes-triplement-des-capteurs-d-hydrogene-sulfure-sur-les-plages-bretonnes-20220630"
     },
     {
-      "text": "Variole du singe\u00a0: l'OMS appelle au partage des donn\u00e9es sur l'efficacit\u00e9 des vaccins",
-      "url": "https://www.lefigaro.fr/flash-actu/variole-du-singe-l-oms-appelle-au-partage-des-donnees-sur-l-efficacite-des-vaccins-20220629"
+      "text": "\u00c9tats-Unis\u00a0: la Cour supr\u00eame limite les moyens de l'\u00c9tat f\u00e9d\u00e9ral de lutter contre le r\u00e9chauffement climatique",
+      "url": "https://www.lefigaro.fr/flash-actu/usa-la-cour-supreme-limite-les-moyens-de-l-etat-federal-de-lutter-contre-le-rechauffement-climatique-20220630"
     },
     {
-      "text": "Jordanie\u00a0: 5 Vietnamiens p\u00e9rissent dans une fuite de gaz dans le port d'Aqaba",
-      "url": "https://www.lefigaro.fr/flash-actu/jordanie-5-vietnamiens-perissent-dans-une-fuite-de-gaz-dans-le-port-d-aqaba-20220629"
+      "text": "Erdogan demande une \u00abvraie solidarit\u00e9\u00bb aux alli\u00e9s de l'Otan face au terrorisme",
+      "url": "https://www.lefigaro.fr/flash-actu/erdogan-demande-une-vraie-solidarite-aux-allies-de-l-otan-face-au-terrorisme-20220630"
     },
     {
-      "text": "Espagne\u00a0: la justice classe une plainte contre le pr\u00e9sident colombien",
-      "url": "https://www.lefigaro.fr/flash-actu/espagne-la-justice-classe-une-plainte-contre-le-president-colombien-20220629"
+      "text": "L'AP-HP d\u00e9baptise un b\u00e2timent du nom d'un m\u00e9decin vichyste",
+      "url": "https://www.lefigaro.fr/flash-actu/l-ap-hp-debaptise-un-batiment-du-nom-d-un-medecin-vichyste-20220630"
     },
     {
-      "text": "Foot: Le premier tournoi europ\u00e9en de r\u00e9fugi\u00e9s glan\u00e9 par l'Allemagne",
-      "url": "https://www.lefigaro.fr/sports/football/foot-le-premier-tournoi-europeen-de-refugies-glane-par-l-allemagne-20220629"
+      "text": "Joe Biden pr\u00eat \u00e0 bousculer les r\u00e8gles parlementaires pour prot\u00e9ger le droit \u00e0 l'avortement",
+      "url": "https://www.lefigaro.fr/flash-actu/joe-biden-pret-a-bousculer-les-regles-parlementaires-pour-proteger-le-droit-a-l-avortement-20220630"
     },
     {
-      "text": "Ukraine\u00a0: la Syrie reconna\u00eet l'ind\u00e9pendance de deux territoires prorusses",
-      "url": "https://www.lefigaro.fr/flash-actu/ukraine-la-syrie-reconnait-l-independance-de-deux-territoires-prorusses-20220629"
+      "text": "Fausses accusations contre Garrido et Corbi\u00e8re\u00a0: enqu\u00eate ouverte pour escroquerie",
+      "url": "https://www.lefigaro.fr/politique/fausses-accusations-contre-garrido-et-corbiere-enquete-ouverte-pour-escroquerie-20220630"
     },
     {
-      "text": "Bruxelles propose de faciliter le d\u00e9blocage de fonds europ\u00e9ens pour l'accueil des Ukrainiens",
-      "url": "https://www.lefigaro.fr/flash-eco/bruxelles-propose-de-faciliter-le-deblocage-de-fonds-europeens-pour-l-accueil-des-ukrainiens-20220629"
+      "text": "Joe Biden dit que les \u00c9tats-Unis doivent vendre des F-16 \u00e0 la Turquie",
+      "url": "https://www.lefigaro.fr/flash-actu/joe-biden-dit-que-les-etats-unis-doivent-vendre-des-f-16-a-la-turquie-20220630"
     },
     {
-      "text": "L'Ukraine participera au prochain sommet du G20 en fonction de sa \u00abcomposition\u00bb, avertit Zelensky",
-      "url": "https://www.lefigaro.fr/flash-actu/l-ukraine-participera-au-prochain-sommet-du-g20-en-fonction-de-sa-composition-avertit-zelensky-20220629"
+      "text": "Les allocations ch\u00f4mage revaloris\u00e9es de 2,9% au 1er juillet",
+      "url": "https://www.lefigaro.fr/conjoncture/les-allocations-chomage-revalorisees-de-2-9-au-1er-juillet-20220630"
     },
     {
-      "text": "Bleues: Wendie Renard touch\u00e9e \u00e0 une cuisse",
-      "url": "https://www.lefigaro.fr/flash-actu/bleues-wendie-renard-touchee-a-une-cuisse-20220629"
+      "text": "Pour Moscou, un \u00abrideau de fer\u00bb s'abat entre la Russie et l'Occident",
+      "url": "https://www.lefigaro.fr/flash-actu/un-rideau-de-fer-s-abat-entre-la-russie-et-l-occident-20220630"
     },
     {
-      "text": "Pour St\u00e9phane Bern, il y a une \u00abd\u00e9ficience de l'\u00c9tat\u00bb dans le dossier du patrimoine religieux",
-      "url": "https://www.lefigaro.fr/culture/patrimoine/pour-stephane-bern-il-y-a-une-deficience-de-l-etat-dans-le-dossier-du-patrimoine-religieux-20220629"
+      "text": "Biden annonce une nouvelle aide militaire de 800 millions de dollars pour l'Ukraine",
+      "url": "https://www.lefigaro.fr/international/biden-annonce-une-nouvelle-aide-militaire-de-800-millions-de-dollars-pour-l-ukraine-20220630"
     },
     {
-      "text": "Apr\u00e8s l'annonce sur un r\u00e9f\u00e9rendum, Elizabeth II re\u00e7oit la premi\u00e8re ministre \u00e9cossaise",
-      "url": "https://www.lefigaro.fr/flash-actu/apres-l-annonce-sur-un-referendum-elizabeth-ii-recoit-la-premiere-ministre-ecossaise-20220629"
+      "text": "Mort d'une Nig\u00e9riane dans les Alpes\u00a0: la justice refuse de rouvrir l'enqu\u00eate",
+      "url": "https://www.lefigaro.fr/flash-actu/mort-d-une-nigeriane-dans-les-alpes-la-justice-refuse-de-rouvrir-l-enquete-20220630"
     },
     {
-      "text": "Biden \u00e9voque \u00abl'engagement in\u00e9branlable\u00bb des Am\u00e9ricains pour la d\u00e9fense du Japon et de la Cor\u00e9e du Sud",
-      "url": "https://www.lefigaro.fr/flash-actu/biden-evoque-l-engagement-inebranlable-des-americains-pour-la-defense-du-japon-et-de-la-coree-du-sud-20220629"
+      "text": "Attentats 13-Novembre\u00a0: prison avec sursis pour le \u00ablogeur\u00bb d'Abdeslam \u00e0 Bruxelles \u00e0 la fin de sa cavale",
+      "url": "https://www.lefigaro.fr/faits-divers/attentats-13-novembre-prison-avec-sursis-pour-le-logeur-d-abdeslam-a-bruxelles-a-la-fin-de-sa-cavale-20220630"
     },
     {
-      "text": "Corps d\u00e9capit\u00e9 en 1995 dans l'Allier: une personne en garde \u00e0 vue",
-      "url": "https://www.lefigaro.fr/flash-actu/corps-decapite-en-1995-dans-l-allier-une-personne-en-garde-a-vue-20220629"
+      "text": "Covid-19\u00a0: le nombre de tests repasse au-dessus de la barre des 2 millions en une semaine",
+      "url": "https://www.lefigaro.fr/flash-eco/covid-19-le-nombre-de-tests-repasse-au-dessus-de-la-barre-des-2-millions-en-une-semaine-20220630"
     },
     {
-      "text": "L'Ukraine annonce l'\u00e9change de 144 soldats, dont 95 \u00abd\u00e9fenseurs d'Azovstal\u00bb",
-      "url": "https://www.lefigaro.fr/flash-actu/l-ukraine-annonce-l-echange-de-144-soldats-dont-95-defenseurs-d-azovstal-20220629"
+      "text": "Huit manifestants anti-putsch tu\u00e9s au Soudan",
+      "url": "https://www.lefigaro.fr/flash-actu/soudan-deux-manifestants-tues-par-balles-a-khartoum-20220630"
     },
     {
-      "text": "Le Conseil de s\u00e9curit\u00e9 de l'ONU mis en garde contre l'embrasement de l'est de la RDC",
-      "url": "https://www.lefigaro.fr/flash-actu/le-conseil-de-securite-de-l-onu-mis-en-garde-contre-l-embrasement-de-l-est-de-la-rdc-20220629"
+      "text": "16 millions d'Ukrainiens ont besoin d'aide humanitaire, selon l'ONU",
+      "url": "https://www.lefigaro.fr/flash-actu/16-millions-d-ukrainiens-ont-besoin-d-aide-humanitaire-selon-l-onu-20220630"
     },
     {
-      "text": "Un policier, responsable du syndicat Alliance, sera jug\u00e9 pour banqueroute",
-      "url": "https://www.lefigaro.fr/flash-actu/un-policier-responsable-du-syndicat-alliance-sera-juge-pour-banqueroute-20220629"
+      "text": "Le projet de loi pouvoir d'achat examin\u00e9 par l'Assembl\u00e9e \u00e0 partir du 18 juillet",
+      "url": "https://www.lefigaro.fr/conjoncture/le-projet-de-loi-pouvoir-d-achat-examine-par-l-assemblee-a-partir-du-18-juillet-20220630"
     },
     {
-      "text": "Wimbledon\u00a0: \u00abJe suis sur la bonne voie\u00bb, confie Ugo Humbert, tombeur du finaliste du dernier Roland-Garros",
-      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/wimbledon-ugo-humbert-s-offre-le-finaliste-de-roland-garros-casper-ruud-20220629"
+      "text": "La CGT porte plainte au p\u00e9nal contre Orpea et son \u00absyndicat maison\u00bb",
+      "url": "https://www.lefigaro.fr/flash-eco/la-cgt-porte-plainte-au-penal-contre-orpea-et-son-syndicat-maison-20220630"
     },
     {
-      "text": "Inflation\u00a0: un ch\u00e8que alimentaire de 100 euros par foyer propos\u00e9 pour les plus modestes, confirme Olivia Gr\u00e9goire",
-      "url": "https://www.lefigaro.fr/conjoncture/le-cheque-alimentaire-de-100-euros-confirme-pour-les-9-millions-de-foyers-les-plus-modestes-20220629"
+      "text": "Emmanuel Macron r\u00e9affirme son souhait que les ex-militants italiens soient jug\u00e9s en Italie",
+      "url": "https://www.lefigaro.fr/flash-actu/emmanuel-macron-reaffirme-son-souhait-que-les-ex-militants-italiens-soient-juges-en-italie-20220630"
     },
     {
-      "text": "L'Ukraine peut compter sur l'Otan \u00abaussi longtemps qu'il le faudra\u00bb",
-      "url": "https://www.lefigaro.fr/flash-actu/kiev-salue-la-position-lucide-de-l-otan-sur-la-russie-20220629"
+      "text": "Daniel Buren glisse ses rayures dans le golfe du Morbihan",
+      "url": "https://www.lefigaro.fr/arts-expositions/daniel-buren-glisse-ses-rayures-dans-le-golfe-du-morbihan-20220630"
     },
     {
-      "text": "Libye\u00a0: 20 personnes mortes de soif en plein d\u00e9sert",
-      "url": "https://www.lefigaro.fr/flash-actu/libye-20-personnes-mortes-de-soif-en-plein-desert-20220629"
+      "text": "Guerre G\u00e9orgie-Russie en 2008\u00a0: la CPI d\u00e9livre trois mandats d'arr\u00eat",
+      "url": "https://www.lefigaro.fr/flash-actu/guerre-georgie-russie-en-2008-la-cpi-delivre-trois-mandats-d-arret-20220630"
     },
     {
-      "text": "Forte houle \u00e0 La R\u00e9union\u00a0: d\u00e9c\u00e8s d'une femme emport\u00e9e par une vague",
-      "url": "https://www.lefigaro.fr/flash-actu/forte-houle-a-la-reunion-deces-d-une-femme-emportee-par-une-vague-20220629"
+      "text": "Centre du Nigeria\u00a0: attaque contre un site minier, au moins 4 employ\u00e9s chinois enlev\u00e9s",
+      "url": "https://www.lefigaro.fr/flash-actu/centre-du-nigeria-attaque-contre-un-site-minier-au-moins-4-employes-chinois-enleves-20220630"
     },
     {
-      "text": "L'Otan voit la Chine comme un \u00abd\u00e9fi\u00bb pour ses \u00abint\u00e9r\u00eats\u00bb et sa \u00abs\u00e9curit\u00e9\u00bb",
-      "url": "https://www.lefigaro.fr/flash-actu/l-otan-voit-la-chine-comme-un-defi-pour-ses-interets-et-sa-securite-20220629"
+      "text": "Londres, nouvel in\u00e9dit de Louis-Ferdinand C\u00e9line, para\u00eetra en octobre chez Gallimard",
+      "url": "https://www.lefigaro.fr/livres/londres-nouvel-inedit-de-louis-ferdinand-celine-paraitra-en-octobre-chez-gallimard-20220630"
     },
     {
-      "text": "Tour de France\u00a0: Thibaut Pinot au d\u00e9part malgr\u00e9 un r\u00e9cent test positif au Covid",
-      "url": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-thibaut-pinot-au-depart-malgre-un-recent-test-positif-au-covid-20220629"
+      "text": "Scholz juge \u00abridicule\u00bb les critiques de Poutine sur l'\u00abimp\u00e9rialisme\u00bb de l'Otan",
+      "url": "https://www.lefigaro.fr/flash-actu/scholz-juge-ridicule-les-critiques-de-poutine-sur-l-imperialisme-de-l-otan-20220630"
     },
     {
-      "text": "Passage \u00e0 tabac en 2015\u00a0: le militant d'ultradroite Lo\u00efk Le Priol condamn\u00e9 \u00e0 deux ans de prison ferme",
-      "url": "https://www.lefigaro.fr/flash-actu/passage-a-tabac-en-2015-le-militant-d-ultradroite-loik-le-priol-condamne-a-deux-ans-de-prison-ferme-20220629"
+      "text": "Nord\u00a0: un d\u00e9tenu s'\u00e9vade de l'h\u00f4pital de Lille",
+      "url": "https://www.lefigaro.fr/flash-actu/nord-un-detenu-s-evade-de-l-hopital-de-lille-20220630"
     },
     {
-      "text": "Services \u00e0 la personne\u00a0: les revalorisations salariales bloqu\u00e9es pour quelques centimes",
-      "url": "https://www.lefigaro.fr/societes/services-a-la-personne-les-revalorisations-salariales-bloquees-pour-quelques-centimes-20220629"
+      "text": "Chiffres de la d\u00e9linquance\u00a0: 673 \u00abfaux homicides\u00bb recens\u00e9s depuis 2016",
+      "url": "https://www.lefigaro.fr/flash-actu/chiffres-de-la-delinquance-673-faux-homicides-recenses-depuis-2016-20220630"
     },
     {
-      "text": "L'Otan lance formellement le processus d'adh\u00e9sion de la Su\u00e8de et de la Finlande",
-      "url": "https://www.lefigaro.fr/flash-actu/l-otan-lance-formellement-le-processus-d-adhesion-de-la-suede-et-de-la-finlande-20220629"
+      "text": "Inde\u00a0: le meurtre d'un tailleur hindou enflamme les r\u00e9seaux sociaux",
+      "url": "https://www.lefigaro.fr/flash-actu/inde-le-meurtre-d-un-tailleur-hindou-enflamme-les-reseaux-sociaux-20220630"
     },
     {
-      "text": "Otan\u00a0: Macron salue le \u00abconsensus\u00bb sur l'adh\u00e9sion de la Su\u00e8de et de la Finlande",
-      "url": "https://www.lefigaro.fr/flash-actu/otan-macron-salue-le-consensus-sur-l-adhesion-de-la-suede-et-de-la-finlande-20220629"
+      "text": "Nucl\u00e9aire\u00a0: T\u00e9h\u00e9ran \u00abd\u00e9termin\u00e9\u00bb \u00e0 continuer les pourparlers",
+      "url": "https://www.lefigaro.fr/flash-actu/nucleaire-teheran-determine-a-continuer-les-pourparlers-20220630"
     },
     {
-      "text": "Iran\u00a0: un garde iranien tu\u00e9 dans un \u00abincident\u00bb \u00e0 la fronti\u00e8re avec l'Afghanistan",
-      "url": "https://www.lefigaro.fr/flash-actu/iran-un-garde-iranien-tue-dans-un-incident-a-la-frontiere-avec-l-afghanistan-20220629"
+      "text": "Wimbledon\u00a0: Solide face \u00e0 l'Am\u00e9ricaine Liu, Cornet acc\u00e8de au 3e tour et attend Swiatek",
+      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/wimbledon-solide-face-a-l-americaine-liu-cornet-se-hisse-au-3-e-tour-et-attend-swiatek-20220630"
     },
     {
-      "text": "La Russie pas \u00abintimid\u00e9e\u00bb par le renforcement militaire am\u00e9ricain en Europe",
-      "url": "https://www.lefigaro.fr/flash-actu/la-russie-pas-intimidee-par-le-renforcement-militaire-americain-en-europe-20220629"
+      "text": "\u00c9lisabeth Borne prononcera son discours de politique g\u00e9n\u00e9rale \u00e0 l'Assembl\u00e9e nationale puis au S\u00e9nat le mercredi 6 juillet",
+      "url": "https://www.lefigaro.fr/politique/elisabeth-borne-prononcera-son-discours-de-politique-generale-a-l-assemblee-nationale-puis-au-senat-le-mercredi-6-juillet-20220630"
     },
     {
-      "text": "Un suspect de double infanticide en Allemagne interpell\u00e9 en France",
-      "url": "https://www.lefigaro.fr/flash-actu/un-suspect-de-double-infanticide-en-allemagne-interpelle-en-france-20220629"
+      "text": "La taxe sur les multinationales \u00absera mise en place\u00bb en Europe, avec ou sans la Hongrie, assure Le Maire",
+      "url": "https://www.lefigaro.fr/conjoncture/la-taxe-sur-les-multinationales-sera-mise-en-place-en-europe-avec-ou-sans-la-hongrie-assure-le-maire-20220630"
     },
     {
       "text": "",
@@ -5917,144 +6237,172 @@
       "url": "https://www.lefigaro.fr/flash-actu"
     },
     {
-      "text": "M\u00e9ningite\u00a0: \u00abMa fille a d\u00fb \u00eatre amput\u00e9e\u00bb",
-      "url": "https://www.lefigaro.fr/sciences/meningite-ma-fille-a-du-etre-amputee-20220629"
-    },
-    {
       "text": "Ces Fran\u00e7ais qui s\u2019exilent parce qu\u2019ils \u00abne reconnaissent plus la France\u00bb",
       "url": "https://www.lefigaro.fr/actualite-france/ces-francais-qui-s-exilent-parce-qu-ils-ne-reconnaissent-plus-la-france-20220511"
     },
     {
-      "text": "Le Maire et Darmanin, bras arm\u00e9s de Macron pour s\u00e9duire la droite",
-      "url": "https://www.lefigaro.fr/politique/le-maire-et-darmanin-bras-armes-de-macron-pour-seduire-la-droite-20220628"
+      "text": "C\u00f4te d'Azur\u00a0: notre palmar\u00e8s 2022 des villes et villages o\u00f9 il fait bon vivre",
+      "url": "https://www.lefigaro.fr/actualite-france/cote-d-azur-notre-palmares-2022-des-villes-et-villages-ou-il-fait-bon-vivre-20220630"
     },
     {
-      "text": "La m\u00e9t\u00e9o du jeudi 30 juin\u00a0: le jour le plus \u00abmaussade\u00bb de la semaine",
-      "url": "https://www.lefigaro.fr/meteo/la-meteo-du-jeudi-30-juin-le-jour-le-plus-maussade-de-la-semaine-20220629"
+      "text": "Endom\u00e9triose: \u00abDes m\u00e9decins parlent de fertilit\u00e9 \u00e0 des femmes qui ont des douleurs bien plus urgentes\u00bb",
+      "url": "https://www.lefigaro.fr/actualite-france/endometriose-des-medecins-parlent-de-fertilite-a-des-femmes-qui-ont-des-douleurs-bien-plus-urgentes-20220629"
     },
     {
-      "text": "Fran\u00e7ois de Closets: \u00abLes boomers ont dilapid\u00e9 l\u2019h\u00e9ritage\u00bb",
-      "url": "https://www.lefigaro.fr/actualite-france/francois-de-closets-les-boomers-ont-dilapide-l-heritage-20220628"
+      "text": "Assaut du Capitole\u00a0: Trump fragilis\u00e9 par le t\u00e9moignage accablant d'une proche collaboratrice",
+      "url": "https://www.lefigaro.fr/international/assaut-du-capitole-un-temoignage-inedit-dynamite-la-defense-de-trump-20220628"
+    },
+    {
+      "text": "La m\u00e9t\u00e9o du vendredi 1er juillet\u00a0: retour du soleil malgr\u00e9 des temp\u00e9ratures en dessous des normales",
+      "url": "https://www.lefigaro.fr/meteo/la-meteo-du-vendredi-1er-juillet-retour-du-soleil-malgre-des-temperatures-en-dessous-des-normales-20220630"
+    },
+    {
+      "text": "Fabien Devide: \u00abL\u2019e-sport vous embarque toujours dans une aventure\u00bb",
+      "url": "https://www.lefigaro.fr/sports/autres-sports/fabien-devide-l-e-sport-vous-embarque-toujours-dans-une-aventure-20220630"
     },
     {
       "text": "Guerre en Ukraine\u00a0: les reportages de nos envoy\u00e9s sp\u00e9ciaux",
       "url": "https://www.lefigaro.fr/international/dossier/guerre-en-ukraine-les-reportages-du-figaro"
     },
     {
-      "text": "Quand Vladimir Poutine affronte l\u2019Otan - Une le\u00e7on de rh\u00e9torique",
-      "url": "https://video.lefigaro.fr/figaro/video/quand-vladimir-poutine-confronte-lotan-une-lecon-de-rhetorique/"
+      "text": "Proc\u00e8s du 13-Novembre\u00a0: \u00abAu bout de ces 10 mois, il y a de la frustration\u00bb",
+      "url": "https://amp.lefigaro.fr/story/proces-du-13-novembre--au-bout-de-ces-10-mois-il-y-a-de-la-frustration-15207"
     },
     {
       "text": "Quiz brevet de fran\u00e7ais\u00a0: \u00eates-vous au point en analyse logique\u00a0?",
       "url": "https://etudiant.lefigaro.fr/article/quiz-brevet-de-francais-etes-vous-au-point-en-analyse-logique_20a61a62-f6fa-11ec-9380-76ccfe3e311e/"
     },
     {
-      "text": "Couple: quand faut-il partir, quand faut-il se battre?",
-      "url": "https://www.lefigaro.fr/actualite-france/couple-quand-faut-il-partir-quand-faut-il-se-battre-20211119"
-    },
-    {
-      "text": "Attentats du 13-Novembre: \u00abCoupable l\u00e9g\u00e8ret\u00e9\u00bb",
-      "url": "https://www.lefigaro.fr/vox/societe/attentats-du-13-novembre-coupable-legerete-20220629"
-    },
-    {
-      "text": "\u00cates-vous favorable \u00e0 l\u2019entr\u00e9e de la Su\u00e8de et la Finlande dans l\u2019Otan\u00a0?",
-      "url": "https://www.lefigaro.fr/international/etes-vous-favorable-a-l-entree-de-la-suede-et-la-finlande-dans-l-otan-20220629"
+      "text": "Le pape Fran\u00e7ois met au ban\u00a0la \u00abmesse\u00a0en latin\u00bb",
+      "url": "https://www.lefigaro.fr/actualite-france/le-pape-francois-met-au-ban-la-messe-en-latin-20220629"
     },
     {
       "text": "Un propri\u00e9taire doit-il attendre que le squatteur soit relog\u00e9 pour r\u00e9cup\u00e9rer son logement\u00a0?",
       "url": "https://www.lefigaro.fr/actualite-france/un-proprietaire-doit-il-attendre-que-le-squatteur-soit-reloge-pour-recuperer-son-logement-20220629"
     },
     {
-      "text": "Notre classement 2022 des meilleures maternit\u00e9s de Paris et d'\u00cele-de-France",
-      "url": "https://www.lefigaro.fr/sciences/notre-classement-2022-des-meilleures-maternites-d-ile-de-france-20220509"
+      "text": "L\u2019\u00e9ditorial du Figaro: \u00abGauche radicale, droite honteuse\u00bb",
+      "url": "https://www.lefigaro.fr/vox/politique/l-editorial-du-figaro-gauche-radicale-droite-honteuse-20220630"
     },
     {
-      "text": "L'\u00c9quipier, Decision to Leave, En roue libre... Les films \u00e0 voir ou \u00e0 \u00e9viter cette semaine",
-      "url": "https://www.lefigaro.fr/cinema/l-equipier-decision-to-leave-en-roue-libre-les-films-a-voir-ou-a-eviter-cette-semaine-20220629"
+      "text": "Couple: quand faut-il partir, quand faut-il se battre?",
+      "url": "https://www.lefigaro.fr/actualite-france/couple-quand-faut-il-partir-quand-faut-il-se-battre-20211119"
+    },
+    {
+      "text": "Assembl\u00e9e nationale\u00a0: \u00eates-vous satisfait de l'\u00e9lection d'\u00c9ric Coquerel \u00e0 la pr\u00e9sidence de la commission des Finances\u00a0?",
+      "url": "https://www.lefigaro.fr/politique/assemblee-nationale-etes-vous-satisfait-de-l-election-d-eric-coquerel-a-la-presidence-de-la-commission-des-finances-20220630"
     },
     {
       "text": "D\u00e9couvrez les podcasts du Figaro",
       "url": "https://www.lefigaro.fr/dossier/les-podcasts-du-figaro-politique-television-culture-societe-science-sante"
     },
     {
-      "text": "Patrice Jean, un \u00e9crivain contre les temps modernes",
-      "url": "https://www.lefigaro.fr/livres/patrice-jean-un-ecrivain-contre-les-temps-modernes-20220629"
+      "text": "Nathan Law, hussard de la\u00a0d\u00e9mocratie",
+      "url": "https://www.lefigaro.fr/international/nathan-law-hussard-de-la-democratie-20220630"
     },
     {
       "text": "En voir plus",
       "url": "http://video.lefigaro.fr/"
     },
     {
-      "text": "Proc\u00e8s du 13-Novembre: qu'est-ce que la perp\u00e9tuit\u00e9 incompressible\u00a0?                                    ",
-      "url": "https://video.lefigaro.fr/figaro/video/proces-du-13-novembre-quest-ce-que-la-perpetuite-incompressible/"
+      "text": "Christian Jacob quitte la t\u00eate des R\u00e9publicains                                    ",
+      "url": "https://video.lefigaro.fr/figaro/video/christian-jacob-quitte-la-tete-des-republicains/"
     },
     {
-      "text": "Proc\u00e8s des attentats du 13-Novembre: Salah Abdeslam condamn\u00e9 \u00e0 la perp\u00e9tuit\u00e9 incompressible                                    ",
-      "url": "https://video.lefigaro.fr/figaro/video/proces-des-attentats-du-13-novembre-salah-abdeslam-condamne-a-la-perpetuite-incompressible/"
+      "text": "Ukraine: le pr\u00e9sident indon\u00e9sien dit avoir remis \u00e0 Poutine un message de Zelensky                                    ",
+      "url": "https://video.lefigaro.fr/figaro/video/ukraine-le-president-indonesien-dit-avoir-remis-a-poutine-un-message-de-zelensky/"
     },
     {
-      "text": "Incendie dans les Pyr\u00e9n\u00e9es-Orientales: Darmanin \u00e9voque la piste d'un \u00abincendiaire\u00bb                                    ",
-      "url": "https://video.lefigaro.fr/figaro/video/incendie-dans-les-pyrenees-orientales-darmanin-evoque-la-piste-dun-incendiaire/"
+      "text": "Sommet de l'Otan: Biden accuse la Russie d'\u00eatre responsable des prix de l'\u00e9nergie et de la crise alimentaire                                    ",
+      "url": "https://video.lefigaro.fr/figaro/video/sommet-de-lotan-biden-accuse-la-russie-detre-responsable-des-prix-de-lenergie-et-de-la-crise-alimentaire/"
     },
     {
-      "text": "Rabault, Chenu, Fiat...: d\u00e9couvrez les six vice-pr\u00e9sidents de l'Assembl\u00e9e nationale                                    ",
-      "url": "https://video.lefigaro.fr/figaro/video/rabault-chenu-fiat-decouvrez-les-six-vice-presidents-de-lassemblee-nationale/"
+      "text": "Politique: La NUPES remporte la strat\u00e9gique commission des finances                                    ",
+      "url": "https://video.lefigaro.fr/figaro/video/politique-la-nupes-remporte-la-strategique-commission-des-finances/"
     },
     {
       "text": "Voir plus",
       "url": "http://video.lefigaro.fr/"
     },
     {
-      "text": "\u00cates-vous favorable \u00e0 l\u2019entr\u00e9e de la Su\u00e8de et la Finlande dans l\u2019Otan\u00a0?",
-      "url": "https://www.lefigaro.fr/international/etes-vous-favorable-a-l-entree-de-la-suede-et-la-finlande-dans-l-otan-20220629"
+      "text": "Le pape Fran\u00e7ois met au ban\u00a0la \u00abmesse\u00a0en latin\u00bbANALYSE - Dans une lettre apostolique, il confirme que l\u2019\u00c9glise ne reconna\u00eet que la liturgie du concile Vatican II.",
+      "url": "https://www.lefigaro.fr/actualite-france/le-pape-francois-met-au-ban-la-messe-en-latin-20220629"
     },
     {
-      "text": "\u00abIng\u00e9nieurs, mes camarades, la France attend vos solutions, pas vos \u00e9tats d\u2019\u00e2me!\u00bbTRIBUNE - Major de Polytechnique en 2004, Vincent Le Biez jette un regard \u00e0 la fois malicieux et inquiet sur ses cadets qui, lors des c\u00e9r\u00e9monies de dipl\u00f4mes de leurs grandes \u00e9coles, infligent \u00e0 l\u2019auditoire un sermon contre la formation qu\u2019ils ont re\u00e7ue.",
-      "url": "https://www.lefigaro.fr/vox/societe/ingenieurs-mes-camarades-la-france-attend-vos-solutions-pas-vos-etats-d-ame-20220627"
+      "text": "Pourquoi Leclerc affirme que les distributeurs ne peuvent pas \u00abvendre moins cher\u00bb\u00a0?\u00abAujourd'hui, on nous oblige \u00e0 prendre une marge de 10% sur les produits alimentaires\u00bb, d\u00e9plore Michel-Edouard Leclerc.",
+      "url": "https://www.lefigaro.fr/conso/pouvoir-d-achat-michel-edouard-leclerc-demande-l-aide-du-gouvernement-pour-soulager-les-consommateurs-20220404"
     },
     {
-      "text": "Canal+ rafle l\u2019int\u00e9gralit\u00e9 de la Champion\u2019s League jusqu\u2019en 2027M6 d\u00e9croche la finale en clair. Amazon, qui d\u00e9tient l\u2019essentiel de la Ligue 1, repart cette fois bredouille.",
-      "url": "https://www.lefigaro.fr/medias/les-plateformes-lorgnent-les-droits-de-la-champion-s-league-20220629"
+      "text": "GRAND FORMAT - De l'alimentation aux transports, comment l'inflation p\u00e8se au quotidien sur le pouvoir d'achat des Fran\u00e7ais",
+      "url": "https://www.lefigaro.fr/conso/de-l-alimentation-aux-transports-comment-l-inflation-pese-au-quotidien-sur-le-pouvoir-d-achat-des-francais-20220630"
     },
     {
-      "text": "12 centimes au lieu de 10: TotalEnergies revoit sa ristourne \u00e0 la hausse pour les stations d'autoroutes cet \u00e9t\u00e9La mesure prendra effet le 1er juillet et s'ach\u00e8vera le 31 ao\u00fbt. Bruno Le Maire avait enjoint l'entreprise \u00e0 faire un \u00abeffort suppl\u00e9mentaire\u00bb pour les automobilistes en pr\u00e9vision des vacances.",
-      "url": "https://www.lefigaro.fr/societes/totalenergies-une-reduction-de-12-centimes-cet-ete-dans-les-stations-d-autoroutes-20220629"
+      "text": "Covid-19\u00a0: comment la recomposition politique pourrait compliquer la mise en place de nouvelles mesures sanitairesD\u00c9CRYPTAGE - Alors que l'\u00e9tat d'urgence sanitaire prend officiellement fin le 31 juillet, la nouvelle majorit\u00e9 pr\u00e9sidentielle va devoir ferrailler pour la premi\u00e8re fois de la nouvelle l\u00e9gislature avec des oppositions renforc\u00e9es.",
+      "url": "https://www.lefigaro.fr/politique/covid-19-comment-la-recomposition-politique-pourrait-compliquer-la-mise-en-place-de-nouvelles-mesures-sanitaires-20220630"
     },
     {
-      "text": "Assaut du Capitole\u00a0: Trump fragilis\u00e9 par le t\u00e9moignage accablant d'une proche collaboratriceR\u00c9CIT - Le comportement du pr\u00e9sident attest\u00e9 par Cassidy Hutchinson, bras droit de l'ancien secr\u00e9taire g\u00e9n\u00e9ral de Maison-Blanche Mark Meadows, pourrait l'exposer \u00e0 des poursuites p\u00e9nales.",
+      "text": "Sacha Houli\u00e9, l\u2019itin\u00e9raire express d\u2019un \u00abMacron boy\u00bbPORTRAIT - Ce chantre du \u00ab\u00a0progressisme\u00a0\u00bb venu de la gauche s\u2019est hiss\u00e9 mardi, \u00e0 33 ans, \u00e0 la t\u00eate de la puissante commission des lois.",
+      "url": "https://www.lefigaro.fr/politique/sacha-houlie-l-itineraire-express-d-un-macron-boy-20220630"
+    },
+    {
+      "text": "EN DIRECT - La d\u00e9claration de politique g\u00e9n\u00e9rale d'\u00c9lisabeth Borne aura lieu mercredi \u00e0 l'Assembl\u00e9e et au S\u00e9nat",
+      "url": "https://www.lefigaro.fr/politique/en-direct-assemblee-nationale-le-president-de-la-commission-des-finances-elu-ce-jeudi-20220630"
+    },
+    {
+      "text": "ENTRETIEN - Stanislas Guerini: \u00abAucune compromission avec l\u2019extr\u00eame droite\u00bb",
+      "url": "https://www.lefigaro.fr/politique/stanislas-guerini-aucune-compromission-avec-l-extreme-droite-20220630"
+    },
+    {
+      "text": "Vis\u00e9 par une enqu\u00eate, Damien Abad reste combatif",
+      "url": "https://www.lefigaro.fr/politique/enquete-ouverte-apres-une-plainte-pour-tentative-de-viol-visant-damien-abad-20220629"
+    },
+    {
+      "text": "Luc Ferry: \u00ab\u00c0 mes amis LR qui se fourvoient\u00bbCHRONIQUE - Il ne s\u2019agit pas de se placer, mais d\u2019aider \u00e0 redresser la France dans le souci de l\u2019int\u00e9r\u00eat g\u00e9n\u00e9ral.",
+      "url": "https://www.lefigaro.fr/vox/politique/luc-ferry-a-mes-amis-lr-qui-se-fourvoient-20220629"
+    },
+    {
+      "text": "H\u00f4pital\u00a0: ce que contient le rapport Braun sur les urgences rendu \u00e0 \u00c9lisabeth BorneTri des patients, effectifs renforc\u00e9s, collaboration avec la ville, valorisation de la nuit\u2026 La \u00abmission flash\u00bb propose 41 pistes.",
+      "url": "https://www.lefigaro.fr/conjoncture/hopital-ce-que-contient-le-rapport-braun-sur-les-urgences-rendu-a-elisabeth-borne-20220630"
+    },
+    {
+      "text": "Fabien Devide: \u00abL\u2019e-sport vous embarque toujours dans une aventure\u00bbENTRETIEN - Le trentenaire a fond\u00e9 la plus grande structure de sports \u00e9lectroniques en France, suivie par plus de 15 millions de fans sur les r\u00e9seaux sociaux.",
+      "url": "https://www.lefigaro.fr/sports/autres-sports/fabien-devide-l-e-sport-vous-embarque-toujours-dans-une-aventure-20220630"
+    },
+    {
+      "text": "\u00abVingt ans de \u201cBloc-notes\u201d, au plus pr\u00e8s du r\u00e9el\u00bb\u00a0: les adieux d\u2019Ivan Rioufol aux lecteurs du FigaroCHRONIQUE - La retraite arrivant, notre chroniqueur a choisi de laisser la place. Il fait le bilan de ces nombreuses ann\u00e9es \u00e0 \u00eatre \u00able photographe et le commentateur des soubresauts de la soci\u00e9t\u00e9\u00bb.",
+      "url": "https://www.lefigaro.fr/vox/societe/vingt-ans-de-bloc-notes-au-plus-pres-du-reel-les-adieux-d-ivan-rioufol-aux-lecteurs-du-figaro-20220630"
+    },
+    {
+      "text": "Assaut du capitole\u00a0: que risque Donald Trump\u00a0?Alors que la commission d'enqu\u00eate sur le 6 janvier 2021 se poursuit, les preuves contre l'ancien pr\u00e9sident s'accumulent mais les perspectives de le voir condamn\u00e9 sont incertaines.",
+      "url": "https://www.lefigaro.fr/international/assaut-du-capitole-que-risque-donald-trump-20220630"
+    },
+    {
+      "text": "Assaut du Capitole\u00a0: Trump fragilis\u00e9 par le t\u00e9moignage accablant d'une proche collaboratrice",
       "url": "https://www.lefigaro.fr/international/assaut-du-capitole-un-temoignage-inedit-dynamite-la-defense-de-trump-20220628"
     },
     {
-      "text": "Accus\u00e9s \u00e0 tort d'exploiter une femme en situation irr\u00e9guli\u00e8re, Garrido et Corbi\u00e8re d\u00e9noncent une \u00abmotivation politique\u00bbLe couple de d\u00e9put\u00e9s LFI promet qu'il \u00abne l\u00e2chera rien\u00bb jusqu'\u00e0 ce que toute la lumi\u00e8re soit faite sur cette affaire, o\u00f9 plusieurs plaintes ont \u00e9t\u00e9 d\u00e9pos\u00e9es par les diff\u00e9rentes parties prenantes.",
-      "url": "https://www.lefigaro.fr/politique/accuses-a-tort-d-exploiter-une-femme-en-situation-irreguliere-garrido-et-corbiere-denoncent-une-motivation-politique-20220629"
-    },
-    {
-      "text": "Deux millions de mineurs expos\u00e9s \u00e0 de la pornographie\u00a0: pourquoi l'\u00c9tat peine tant \u00e0 prot\u00e9ger les enfantsENQU\u00caTE - Depuis 2020, une loi est cens\u00e9e emp\u00eacher les moins de 18 ans d'acc\u00e9der aux sites pour adultes. En pratique, la mesure prend l'eau.",
-      "url": "https://www.lefigaro.fr/medias/deux-millions-de-mineurs-exposes-a-de-la-pornographie-pourquoi-l-etat-peine-tant-a-proteger-les-enfants-20220629"
-    },
-    {
-      "text": "Des \u00e9paves, un blind\u00e9 allemand\u2026 En Italie, la s\u00e9cheresse d\u00e9voile des vestiges de la Seconde Guerre mondialeLa vague de chaleur record qui s'est abattue sur le nord de la p\u00e9ninsule italienne a fait remonter \u00e0 la surface du P\u00f4 deux navires de charge coul\u00e9s en 1944 ainsi qu'un v\u00e9hicule chenill\u00e9 qui, apr\u00e8s restauration, va terminer sa vie au mus\u00e9e.",
-      "url": "https://www.lefigaro.fr/culture/patrimoine/des-epaves-un-blinde-allemand-en-italie-la-secheresse-devoile-des-vestiges-de-la-seconde-guerre-mondiale-20220629"
+      "text": "Joe Biden pr\u00eat \u00e0 bousculer les r\u00e8gles parlementaires pour prot\u00e9ger le droit \u00e0 l'avortementLe pr\u00e9sident am\u00e9ricain entend prot\u00e9ger le droit \u00e0 l'avortement, r\u00e9cemment remis en cause par la Cour supr\u00eame des \u00c9tats-Unis, en faisant \u00abexception\u00bb \u00e0 une r\u00e8gle parlementaire de majorit\u00e9 qualifi\u00e9e.",
+      "url": "https://www.lefigaro.fr/flash-actu/joe-biden-pret-a-bousculer-les-regles-parlementaires-pour-proteger-le-droit-a-l-avortement-20220630"
     },
     {
       "text": "\n                    En voir plus\n                    ",
       "url": "https://kiosque.lefigaro.fr"
     },
     {
-      "text": "Jeudi 30 juin 2022",
-      "url": "https://kiosque.lefigaro.fr/catalog/le-figaro/le-figaro/2022-06-30"
+      "text": "Vendredi 1 juillet 2022",
+      "url": "https://kiosque.lefigaro.fr/catalog/le-figaro/le-figaro/2022-07-01"
     },
     {
-      "text": "Vendredi 24 juin 2022",
-      "url": "https://kiosque.lefigaro.fr/catalog/le-figaro-magazine/le-figaro-magazine/2022-06-24"
+      "text": "Vendredi 1 juillet 2022",
+      "url": "https://kiosque.lefigaro.fr/catalog/le-figaro-magazine/le-figaro-magazine/2022-07-01"
     },
     {
-      "text": "Vendredi 24 juin 2022",
-      "url": "https://kiosque.lefigaro.fr/catalog/madame-figaro/madame-figaro/2022-06-24"
+      "text": "Vendredi 1 juillet 2022",
+      "url": "https://kiosque.lefigaro.fr/catalog/madame-figaro/madame-figaro/2022-07-01"
     },
     {
-      "text": "Dimanche 26 juin 2022",
-      "url": "https://kiosque.lefigaro.fr/catalog/tv-magazine/tv-magazine/2022-06-26"
+      "text": "Dimanche 3 juillet 2022",
+      "url": "https://kiosque.lefigaro.fr/catalog/tv-magazine/tv-magazine/2022-07-03"
     },
     {
       "text": "\n                        Voir plus",
@@ -6065,48 +6413,56 @@
       "url": "https://www.lefigaro.fr/actualite-france/un-proprietaire-doit-il-attendre-que-le-squatteur-soit-reloge-pour-recuperer-son-logement-20220629"
     },
     {
-      "text": "Pour r\u00e9compenser ses 27 ans d'anciennet\u00e9, Burger King lui offre 15 dollars de cadeaux, les internautes 250.000 dollarsLe contenu de la pochette cadeaux, cens\u00e9e remercier l'employ\u00e9 pour pr\u00e8s de 30 ans de bons et loyaux services, a scandalis\u00e9 les internautes.",
-      "url": "https://www.lefigaro.fr/social/pour-recompenser-ses-27-ans-d-anciennete-burger-king-lui-offre-15-dollars-de-cadeaux-les-internautes-250-000-dollars-20220629"
+      "text": "Fausses accusations contre Garrido et Corbi\u00e8re\u00a0: enqu\u00eate ouverte pour escroquerieLa semaine derni\u00e8re, Le Point avait publi\u00e9 un article qui accusait ind\u00fbment le couple d'avoir exploit\u00e9 une femme de m\u00e9nage sans papiers.",
+      "url": "https://www.lefigaro.fr/politique/fausses-accusations-contre-garrido-et-corbiere-enquete-ouverte-pour-escroquerie-20220630"
     },
     {
-      "text": "Baisse g\u00e9n\u00e9rale des rejets de CO2 en FranceLe Haut Conseil pour le climat note un repli des \u00e9missions de gaz \u00e0 effet de serre dans tous les secteurs.",
-      "url": "https://www.lefigaro.fr/sciences/baisse-generale-des-rejets-de-co2-en-france-20220629"
+      "text": "\u00abPr\u00e8s d'un milliard d'euros par an\u00bb\u00a0: la Commission europ\u00e9enne a aussi massivement recours aux consultantsD\u00c9CRYPTAGE - Un rapport de la Cour des comptes europ\u00e9enne souligne que Bruxelles fait \u00abde plus en plus\u00bb appel aux cabinets de conseil et rel\u00e8ve plusieurs \u00abrisques\u00bb.",
+      "url": "https://www.lefigaro.fr/conjoncture/pres-d-un-milliard-d-euros-par-an-la-commission-europeenne-a-aussi-massivement-recours-aux-consultants-20220630"
     },
     {
-      "text": "Pr\u00e9sidence de la Commission des finances: \u00abCette \u00e9lection sera un test pour la cr\u00e9dibilit\u00e9 du RN\u00bbFIGAROVOX/ENTRETIEN - Ce jeudi 30 juin aura lieu l'\u00e9lection du pr\u00e9sident de la Commission des finances. La d\u00e9signation \u00e0 ce poste cl\u00e9 permettrait \u00e0 la premi\u00e8re force d'opposition de l\u00e9gitimer son groupe, explique Arnaud Benedetti.",
-      "url": "https://www.lefigaro.fr/vox/politique/presidence-de-la-commission-des-finances-cette-election-sera-un-test-pour-la-credibilite-du-rn-20220629"
+      "text": "Les r\u00e9dactions de France T\u00e9l\u00e9vision votent la d\u00e9fiance contre leur directeur de l'informationLa motion a \u00e9t\u00e9 vot\u00e9e par pr\u00e8s de 83% des suffrages exprim\u00e9s \u00e0 France 2.",
+      "url": "https://www.lefigaro.fr/medias/les-redactions-de-france-television-votent-la-defiance-contre-leur-directeur-de-l-information-20220630"
     },
     {
-      "text": "\u00c9ric Coquerel, seul candidat de la Nupes \u00e0 la commission des finances",
-      "url": "https://www.lefigaro.fr/politique/eric-coquerel-seul-candidat-de-la-nupes-a-la-commission-des-finances-20220628"
+      "text": "Ces Fran\u00e7ais qui s\u2019exilent parce qu\u2019ils \u00abne reconnaissent plus la France\u00bbENQU\u00caTE - Ins\u00e9curit\u00e9, incivilit\u00e9s, communautarisme, \u00abcancel culture\u00bb\u2026 Dans la part croissante de nos concitoyens qui s\u2019expatrient, un certain nombre y est pouss\u00e9 par d\u00e9pit.",
+      "url": "https://www.lefigaro.fr/actualite-france/ces-francais-qui-s-exilent-parce-qu-ils-ne-reconnaissent-plus-la-france-20220511"
     },
     {
-      "text": "Parents: l\u2019\u00e9ducation bienveillante produit-elle des enfants rois?ENQU\u00caTE - Le concept de bienveillance, souvent confondu avec le laxisme, cherche \u00e0 affermir la confiance de l\u2019enfant. Parfois jusqu\u2019\u00e0 l\u2019exc\u00e8s.",
-      "url": "https://www.lefigaro.fr/actualite-france/parents-bienveillants-enfants-tyrans-20200712"
+      "text": "La Chine, l\u2019autre menace pour l\u2019OtanD\u00c9CRYPTAGE - Dans les documents produits par le sommet de Madrid, la Chine n\u2019est pas qualifi\u00e9e d\u2019adversaire. Mais est cit\u00e9e comme repr\u00e9sentant un d\u00e9fi syst\u00e9mique pour l\u2019alliance atlantique.",
+      "url": "https://www.lefigaro.fr/international/la-chine-l-autre-menace-pour-l-otan-20220630"
     },
     {
-      "text": "Fatiha Boudjahlat: \u00abQuand Diam's ne peut plus \u00e9couter de musique car sa religion lui interdit\u00bbFIGAROVOX/TRIBUNE. - La chanteuse Diam's a r\u00e9cemment accord\u00e9 des interviews au m\u00e9dia Brut et \u00e0 l'\u00e9mission Sept \u00e0 Huit. Pour Fatiha Boudjahlat, l'attention m\u00e9diatique dont le retour de l'ex-rappeuse fait l'objet est la preuve de la na\u00efvet\u00e9 toujours plus forte d'un certain journalisme \u00e0 l'\u00e9gard d'un islam rigoriste.",
-      "url": "https://www.lefigaro.fr/vox/culture/fatiha-boudjahlat-quand-diam-s-ne-peut-plus-ecouter-de-musique-car-sa-religion-lui-interdit-20220628"
+      "text": "ANALYSE - Le sommet de Madrid ent\u00e9rine le fragile sursaut de l\u2019Otan",
+      "url": "https://www.lefigaro.fr/international/le-sommet-de-madrid-enterine-le-fragile-sursaut-de-l-otan-20220630"
     },
     {
-      "text": "Le salaire des cadres repart \u00e0 la hausseLa moiti\u00e9 d\u2019entre eux a b\u00e9n\u00e9fici\u00e9 d\u2019une augmentation de r\u00e9mun\u00e9ration en\u00a02021, avec une prime aux jeunes.",
-      "url": "https://www.lefigaro.fr/conjoncture/le-salaire-des-cadres-repart-a-la-hausse-20220629"
+      "text": "Nice\u00a0: d\u00e9couverte d'un corps coul\u00e9 dans un mur, des gardes \u00e0 vue en coursLe g\u00e9rant d'un caf\u00e9 aurait reconnu avoir eu un diff\u00e9rend avec un homme, l'avoir tu\u00e9, puis l'avoir dissimul\u00e9 dans une dalle de b\u00e9ton.",
+      "url": "https://www.lefigaro.fr/flash-actu/nice-decouverte-d-un-corps-coule-dans-un-mur-des-gardes-a-vue-en-cours-20220630"
     },
     {
-      "text": "Meghan Markle et le prince Harry ont eu une r\u00e9action \u00abvisc\u00e9rale\u00bb face aux d\u00e9cisions anti-avortement                                    ",
-      "url": "https://madame.lefigaro.fr/celebrites/actu-people/meghan-markle-et-le-prince-harry-ont-eu-une-reaction-epidermique-face-aux-decisions-anti-avortement-20220629"
+      "text": "13-Novembre\u00a0: peut-on dire que Salah Abdeslam est condamn\u00e9 \u00e0 \u00abla prison \u00e0 vie\u00bb?LA V\u00c9RIFICATION - Seul membre encore en vie des commandos terroristes, il a \u00e9t\u00e9 condamn\u00e9 jeudi \u00e0 la perp\u00e9tuit\u00e9 assortie de 30 ans de s\u00fbret\u00e9. Mais que se passera-t-il ensuite\u00a0?",
+      "url": "https://www.lefigaro.fr/actualite-france/13-novembre-peut-on-dire-que-salah-abdeslam-est-condamne-a-la-prison-a-vie-20220630"
     },
     {
-      "text": "Travis Barker, l'\u00e9poux de Kourtney Kardashian, hospitalis\u00e9 en urgence \u00e0 Los Angeles                                    ",
-      "url": "https://madame.lefigaro.fr/celebrites/actu-people/travis-barker-l-epoux-de-kourtney-kardashian-hospitalise-a-los-angeles-20220629"
+      "text": "Emploi: un march\u00e9 dynamique au premier trimestre selon la DaresUn nombre important de contrats ont \u00e9t\u00e9 sign\u00e9s au premier trimestre 2022, mais les sorties sont, elles aussi, \u00e0 un niveau \u00e9lev\u00e9.",
+      "url": "https://www.lefigaro.fr/conjoncture/emploi-un-marche-dynamique-au-premier-trimestre-selon-la-dares-20220630"
     },
     {
-      "text": "Adele, son compagnon, Lebron James et sa femme, invit\u00e9s ultra \u00e9l\u00e9gants d'un mariage new-yorkais                                    ",
-      "url": "https://madame.lefigaro.fr/style/news/adele-son-compagnon-lebron-james-et-sa-femme-invites-ultra-elegants-d-un-mariage-new-yorkais-20220629"
+      "text": "L'impressionnante routine sportive et alimentaire de Natalie Portman pour son r\u00f4le dans Thor",
+      "url": "https://madame.lefigaro.fr/bien-etre/forme-detente/l-impressionnante-routine-sportive-et-alimentaire-de-natalie-portman-pour-son-role-dans-thor-20220628"
     },
     {
-      "text": "Cette cr\u00e8me de pharmacie fran\u00e7aise \u00e0 8 euros qu'utilise Hailey Bieber contre ses probl\u00e8mes de peau                                    ",
-      "url": "https://madame.lefigaro.fr/beaute/make-up-soins/cette-creme-de-pharmacie-francaise-a-8-euros-qu-utilise-hailey-bieber-contre-ses-problemes-de-peau-20220628"
+      "text": "Ce torride baiser entre Cara Delevingne et Selena Gomez qui fait fondre la Toile                                    ",
+      "url": "https://madame.lefigaro.fr/celebrites/actu-people/ce-torride-baiser-entre-cara-delevingne-et-selena-gomez-qui-fait-fondre-la-toile-20220630"
+    },
+    {
+      "text": "Tidiane Sy, l'immense fils d'H\u00e9l\u00e8ne et Omar Sy, pose au c\u00f4t\u00e9 de sa m\u00e8re au S\u00e9n\u00e9gal                                    ",
+      "url": "https://madame.lefigaro.fr/celebrites/actu-people/tidiane-sy-l-immense-fils-d-helene-et-omar-sy-pose-au-cote-de-sa-mere-au-senegal-20220629"
+    },
+    {
+      "text": "L'Anses met en garde contre la consommation de compl\u00e9ments alimentaires \u00e0 base de curcuma                                    ",
+      "url": "https://madame.lefigaro.fr/bien-etre/nutrition/l-anses-met-en-garde-contre-la-consommation-de-complements-alimentaires-a-base-de-curcuma-20220629"
     },
     {
       "text": "Les lettres des journalistes",
@@ -6125,16 +6481,12 @@
       "url": "https://www.lefigaro.fr/lefigaromagazine/la-lettre-du-fig-mag-du-25-juin-2022-20220624"
     },
     {
-      "text": "Ces Fran\u00e7ais qui s\u2019exilent parce qu\u2019ils \u00abne reconnaissent plus la France\u00bbENQU\u00caTE - Ins\u00e9curit\u00e9, incivilit\u00e9s, communautarisme, \u00abcancel culture\u00bb\u2026 Dans la part croissante de nos concitoyens qui s\u2019expatrient, un certain nombre y est pouss\u00e9 par d\u00e9pit.",
-      "url": "https://www.lefigaro.fr/actualite-france/ces-francais-qui-s-exilent-parce-qu-ils-ne-reconnaissent-plus-la-france-20220511"
+      "text": "Comment s'opposer \u00e0 un projet \u00e9olienNOS CONSEILS - Des \u00e9oliennes risquent d'\u00eatre install\u00e9es pr\u00e8s de chez vous\u00a0? Des moyens existent pour contrecarrer ce type de projet, voire l'emp\u00eacher, \u00e0 condition de r\u00e9agir vite et d'adopter la bonne d\u00e9marche. Nos conseils pour r\u00e9sister.",
+      "url": "https://www.lefigaro.fr/actualite-france/comment-s-opposer-a-un-projet-eolien-20220630"
     },
     {
-      "text": "La consommation des m\u00e9nages a fait un bond en 2021 sans parvenir \u00e0 effacer les effets de la crise CovidMalgr\u00e9 une hausse de 5,2% en volume l'an dernier, la consommation reste inf\u00e9rieure \u00e0 son niveau d'avant crise.",
-      "url": "https://www.lefigaro.fr/conso/la-consommation-des-menages-a-fait-un-bond-en-2021-sans-parvenir-a-effacer-les-effets-de-la-crise-covid-20220629"
-    },
-    {
-      "text": "Fran\u00e7ois de Closets: \u00abLes boomers ont dilapid\u00e9 l\u2019h\u00e9ritage\u00bbENTRETIEN - Le journaliste pointe l\u2019\u00e9go\u00efsme de la g\u00e9n\u00e9ration d\u2019apr\u00e8s-guerre qui laisse \u00e0 la charge de ses enfants une France en faillite et vieillissante.",
-      "url": "https://www.lefigaro.fr/actualite-france/francois-de-closets-les-boomers-ont-dilapide-l-heritage-20220628"
+      "text": "Air France veut encore r\u00e9duire ses effectifs300 agents du court courrier pourraient quitter le groupe d\u2019eux-m\u00eames via un dispositif n\u00e9goci\u00e9 actuellement.",
+      "url": "https://www.lefigaro.fr/societes/air-france-veut-encore-reduire-ses-effectifs-20220630"
     },
     {
       "text": "L'\u00e9t\u00e9 en Croatie, une exp\u00e9rience \u00e0 vivreCroatie",
@@ -6153,16 +6505,16 @@
       "url": "https://www.lefigaro.fr/voyages/la-republique-dominicaine-comme-vous-ne-l-avez-jamais-vue-20220610"
     },
     {
-      "text": "Vagues artificielles \u00e9cologiques, nouveau mat\u00e9riel... Le surf s'adapte \u00e0 tous les publicsENQU\u00caTE - Un mode de vie qui fait r\u00eaver, des sensations fortes, un lien avec la nature\u2026 le surf fascine. Pour permettre \u00e0 un plus grand nombre de pratiquer, de nouvelles initiatives voient le jour loin des oc\u00e9ans.",
-      "url": "https://www.lefigaro.fr/voyages/vagues-artificielles-ecologiques-nouveau-materiel-le-surf-s-adapte-a-tous-les-publics-20220628"
+      "text": "O\u00f9 placer son argent quand la Bourse baisse et les taux montent?D\u00c9CRYPTAGE - Les g\u00e9rants reviennent sur les secteurs ayant souffert, comme la tech et le luxe, mais en s\u00e9lectionnant soigneusement les soci\u00e9t\u00e9s.",
+      "url": "https://www.lefigaro.fr/placement/ou-placer-son-argent-quand-la-bourse-baisse-et-les-taux-montent-20220629"
     },
     {
-      "text": "L'Anses met en garde contre la consommation de compl\u00e9ments alimentaires \u00e0 base de curcumaDans un rapport publi\u00e9 lundi 27 juin, l'autorit\u00e9 sanitaire souligne que l'\u00e9pice peut \u00eatre toxique, en particulier pour le foie",
-      "url": "https://madame.lefigaro.fr/bien-etre/nutrition/l-anses-met-en-garde-contre-la-consommation-de-complements-alimentaires-a-base-de-curcuma-20220629"
+      "text": "La taxe sur les multinationales \u00absera mise en place\u00bb en Europe, avec ou sans la Hongrie, assure Le MaireL'adoption d'une directive \u00e0 l'unanimit\u00e9 des \u00c9tats membres pendant cette pr\u00e9sidence de six mois qui se termine ce jeudi \u00e9tait un des objectifs prioritaires de la France.",
+      "url": "https://www.lefigaro.fr/conjoncture/la-taxe-sur-les-multinationales-sera-mise-en-place-en-europe-avec-ou-sans-la-hongrie-assure-le-maire-20220630"
     },
     {
-      "text": "Dans quelle commune paie-t-on le plus d'imp\u00f4t sur le revenu\u00a0? D\u00e9couvrez notre simulateurFIG DATA - Les grandes villes sont majoritairement celles o\u00f9 le montant de l'imp\u00f4t sur le revenu des contribuables est le plus \u00e9lev\u00e9. Gr\u00e2ce \u00e0 notre moteur de recherche, d\u00e9couvrez o\u00f9 se situe votre commune.",
-      "url": "https://www.lefigaro.fr/economie/dans-quelle-commune-paie-t-on-le-plus-d-impots-sur-le-revenu-20220629"
+      "text": "Huissiers et commissaires-priseurs fusionnentCes deux professions judiciaires, qui repr\u00e9sentent 3600 professionnels, ne feront plus qu\u2019une \u00e0 partir de vendredi. Si les premiers se satisfont plut\u00f4t de la r\u00e9forme, les seconds ont le sentiment d\u2019\u00eatre d\u00e9class\u00e9s.",
+      "url": "https://www.lefigaro.fr/actualite-france/huissiers-et-commissaires-priseurs-fusionnent-20220630"
     },
     {
       "text": "En voir plus",
@@ -6189,36 +6541,16 @@
       "url": "https://www.lefigaro.fr/dossier/fig-data-infographies-datavisualisation"
     },
     {
-      "text": "Main tendue du gouvernement \u00e0 la droite\u00a0: Lisnard d\u00e9nonce \u00able temps des postures\u00bb et des \u00abdiscours\u00bbBruno Le Maire et G\u00e9rald Darmanin multiplient depuis plusieurs jours les messages d'ouverture.Regarder la vid\u00e9o",
-      "url": "https://www.lefigaro.fr/politique/main-tendue-du-gouvernement-a-la-droite-lisnard-denonce-le-temps-des-postures-et-des-discours-20220629"
+      "text": "Emmanuel Macron renouvelle son appel en faveur d'un effort de d\u00e9fenseEn escale \u00e0 Lisbonne au Portugal, le pr\u00e9sident de la R\u00e9publique a demand\u00e9 une \u00abr\u00e9\u00e9valuation\u00bb de la loi de programmation militaire face aux menaces de la guerre.",
+      "url": "https://www.lefigaro.fr/international/emmanuel-macron-renouvelle-son-appel-en-faveur-d-un-effort-de-defense-20220630"
     },
     {
-      "text": "Vers un \u00e9t\u00e9 tr\u00e8s embouteill\u00e9 dans les rues de ParisLes travaux de r\u00e9fection de la chauss\u00e9e et d\u2019\u00abembellissement des quartiers\u00bb vont se multiplier dans la capitale, d\u00e8s le mois de juillet.",
-      "url": "https://www.lefigaro.fr/actualite-france/vers-un-ete-tres-embouteille-dans-les-rues-de-paris-20220629"
+      "text": "\u00abVioleur de la Sambre\u00bb\u00a0: 20 ans de r\u00e9clusion criminelle requis contre ScalaIl compara\u00eet pour 17 viols, 12 tentatives de viol et 27 agressions ou tentatives d'agression sexuelle.",
+      "url": "https://www.lefigaro.fr/faits-divers/violeur-de-la-sambre-20-ans-de-reclusion-criminelle-requis-contre-scala-20220630"
     },
     {
-      "text": "Ya\u00ebl Braun-Pivet: \u00abJe n\u2019ai pas\u00a0\u00e0 faire le tri entre\u00a0les d\u00e9put\u00e9s\u00bbENTRETIEN - La nouvelle pr\u00e9sidente de l\u2019Assembl\u00e9e nationale appelle les \u00e9lus \u00e0 d\u00e9passer les \u00abclivages id\u00e9ologiques\u00bb.",
-      "url": "https://www.lefigaro.fr/politique/yael-braun-pivet-je-n-ai-pas-a-faire-le-tri-entre-les-deputes-20220629"
-    },
-    {
-      "text": "PORTRAIT - Qui est Ya\u00ebl Braun-Pivet, la premi\u00e8re femme \u00e9lue pr\u00e9sidente de l'Assembl\u00e9e nationale\u00a0?",
-      "url": "https://www.lefigaro.fr/politique/qui-est-yael-braun-pivet-la-premiere-femme-presidente-de-l-assemblee-nationale-20220628"
-    },
-    {
-      "text": "Djokovic, Humbert, Garcia\u00a0: ce qu'il faut retenir de la troisi\u00e8me journ\u00e9e \u00e0 WimbledonJour 3 \u00e0 Londres marqu\u00e9 notamment par la d\u00e9monstration du tenant du titre serbe et par les performances des Tricolores d\u00e9cid\u00e9ment en verve, \u00e0 l'image de Caroline Garcia et d'Ugo Humbert.",
-      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/djokovic-humbert-garcia-ce-qu-il-faut-retenir-de-la-troisieme-journee-a-wimbledon-20220629"
-    },
-    {
-      "text": "Wimbledon\u00a0: \u00abJe suis sur la bonne voie\u00bb, confie Ugo Humbert, tombeur du finaliste du dernier Roland-Garros",
-      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/wimbledon-ugo-humbert-s-offre-le-finaliste-de-roland-garros-casper-ruud-20220629"
-    },
-    {
-      "text": "Wimbledon\u00a0: Caroline Garcia se r\u00e9jouit que son jeu \u00aboffensif paie\u00bb",
-      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/wimbledon-caroline-garcia-se-rejouit-que-son-jeu-offensif-paie-20220629"
-    },
-    {
-      "text": "Wimbledon\u00a0: programme et matches en direct",
-      "url": "https://www.lefigaro.fr/sports/tennis/calendriers-resultats"
+      "text": "Les \u00abghostwriters\u00bb de LinkedIn, ces plumes pay\u00e9es pour \u00e9crire des posts aux chefs d'entrepriseENQU\u00caTE - Pour promouvoir leur marque ou leur propre image, des dirigeants sous-traitent discr\u00e8tement l'\u00e9criture de leurs publications sur le r\u00e9seau professionnel. Et ils sont pr\u00eats \u00e0 payer cher.",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/les-ghostwriters-de-linkedin-ces-plumes-payees-pour-ecrire-des-posts-aux-chefs-d-entreprise-20220629"
     },
     {
       "text": "Furious Intent et la m\u00e9thode ZMET\u00a0: la cl\u00e9 pour comprendre les consommateursLe rendez-vous des PME",
@@ -6229,44 +6561,24 @@
       "url": "https://www.lefigaro.fr/economie/le-rendez-vous-des-pme/monika-bacardi-du-cinema-aux-web-series-comment-creer-une-societe-de-production-mondiale-20220506"
     },
     {
+      "text": "Aradei Capital\u00a0: acteur cl\u00e9 de l'immobilier locatif au MarocDelta",
+      "url": "https://www.lefigaro.fr/economie/aradei-capital-acteur-cle-de-l-immobilier-locatif-au-maroc-20220630"
+    },
+    {
       "text": "Turgis & Gaillard Groupe, d\u00e9velopper des syst\u00e8mes a\u00e9ronautiques innovantsDelta",
       "url": "https://www.lefigaro.fr/economie/turgis-gaillard-groupe-developper-des-systemes-aeronautiques-innovants-20220629"
     },
     {
-      "text": "FitnessBoutique\u00a0: le r\u00e9seau web et franchis\u00e9 passionn\u00e9 par le sportDelta",
-      "url": "https://www.lefigaro.fr/economie/fitnessboutique-le-reseau-web-et-franchise-passionne-par-le-sport-20220629"
+      "text": "Antoine Fr\u00e9rot, un capitaine d\u2019industrie qui s\u2019est forg\u00e9 dans l\u2019adversit\u00e9PORTRAIT - Directeur g\u00e9n\u00e9ral de Veolia, il c\u00e8de son poste ce 1er\u00a0juillet \u00e0 Estelle Brachlianoff.",
+      "url": "https://www.lefigaro.fr/conjoncture/antoine-frerot-un-capitaine-d-industrie-qui-s-est-forge-dans-l-adversite-20220630"
     },
     {
-      "text": "Wimbledon en direct",
-      "url": "/sports/tennis/calendriers-resultats"
+      "text": "Covid-19: les commer\u00e7ants ferm\u00e9s devront payer leurs loyers impay\u00e9sLa Cour de cassation estime que l\u2019interdiction de sortir de chez soi n\u2019est pas imputable aux propri\u00e9taires-bailleurs.",
+      "url": "https://immobilier.lefigaro.fr/article/covid-19-les-commercants-fermes-devront-payer-leurs-loyers-impayes_ad00f0f0-f884-11ec-a311-08ed0407f6e0/"
     },
     {
-      "text": "Tennis - Wimbledon Simple damesEn coursWangWatson54-75-Suivez le match",
-      "url": "/sports/tennis/live/wimbledon-dames-2022/286854/wang-watson"
-    },
-    {
-      "text": "Tennis - Wimbledon Simple messieurs\u00c0 venirMcDonaldGasquet12 : 00Acc\u00e9dez \u00e0 l'avant-match",
-      "url": "/sports/tennis/live/wimbledon-messieurs-2022/286727/mcdonald-gasquet"
-    },
-    {
-      "text": "Tennis - Wimbledon Simple dames\u00c0 venirLiuCornet12 : 00Acc\u00e9dez \u00e0 l'avant-match",
-      "url": "/sports/tennis/live/wimbledon-dames-2022/286822/liu-cornet"
-    },
-    {
-      "text": "Tennis - Wimbledon Simple messieurs\u00c0 venirSonegoGaston13 : 30Acc\u00e9dez \u00e0 l'avant-match",
-      "url": "/sports/tennis/live/wimbledon-messieurs-2022/286729/sonego-gaston"
-    },
-    {
-      "text": "Voir tous les matches du jour",
-      "url": "/sports/tennis/calendriers-resultats"
-    },
-    {
-      "text": "\u00c0 Versailles, le domaine du Trianon fait peau neuveParterre \u00e9ph\u00e9m\u00e8re, lac remis en beaut\u00e9\u2026 Les visiteurs du ch\u00e2teau de Versailles d\u00e9couvrent le nouvel environnement du refuge de Marie-Antoinette.",
-      "url": "https://www.lefigaro.fr/jardin/a-versailles-le-domaine-du-trianon-fait-peau-neuve-20220629"
-    },
-    {
-      "text": "Big Bang Eco du Figaro: automobile, m\u00e9tavers, alimentation du futur... Revivez l'\u00e9dition 2022 en replayVID\u00c9O - La voiture autonome va-t-elle changer nos vies\u00a0? Et le m\u00e9tavers\u00a0? Que mangerons-nous dans 250 ans\u00a0? Reportages, interviews, d\u00e9bats... en trois vid\u00e9os, retrouvez notre rendez-vous annuel au c\u0153ur de la r\u00e9volution technologique.",
-      "url": "https://www.lefigaro.fr/big-bang-eco-du-figaro-automobile-metavers-alimentation-du-futur-revivez-l-edition-2022-en-replay-20220629"
+      "text": "La maternelle face aux violences sexuelles entre enfantsENQU\u00caTE - Elles mettent au d\u00e9fi les institutions scolaire et judiciaire, en raison du tr\u00e8s jeune \u00e2ge des victimes et de leurs agresseurs pr\u00e9sum\u00e9s.",
+      "url": "https://www.lefigaro.fr/actualite-france/la-maternelle-face-aux-violences-sexuelles-entre-enfants-20220628"
     },
     {
       "text": "En voir plus",
@@ -6293,24 +6605,20 @@
       "url": "https://www.lefigaro.fr/story"
     },
     {
-      "text": "Tour de France\u00a0: Thibaut Pinot au d\u00e9part malgr\u00e9 un r\u00e9cent test positif au CovidLe Fran\u00e7ais prendra bien part au d\u00e9part du Tour de France apr\u00e8s s'\u00eatre remis d'un test positif au Covid dans la foul\u00e9e du Tour de Suisse.",
-      "url": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-thibaut-pinot-au-depart-malgre-un-recent-test-positif-au-covid-20220629"
+      "text": "Maxime Tandonnet: \u00abMacron n\u2019est pas de droite, pourquoi les LR s\u2019allieraient-ils avec lui?\u00bbTRIBUNE - Le chef de l\u2019Etat a men\u00e9 une politique marqu\u00e9e \u00e0 gauche, si l\u2019on \u00e9carte les pr\u00e9jug\u00e9s pour examiner les faits. Rien ne justifie donc un accord entre la droite et l\u2019ex\u00e9cutif, argumente l\u2019historien.",
+      "url": "https://www.lefigaro.fr/vox/politique/maxime-tandonnet-macron-n-est-pas-de-droite-pourquoi-les-lr-s-allieraient-ils-avec-lui-20220630"
     },
     {
-      "text": "PORTRAIT - Tour de France: Thibaut Pinot, la mont\u00e9e en frissons",
-      "url": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-thibaut-pinot-la-montee-en-frissons-20220629"
+      "text": "\u00abDans les facult\u00e9s de droit, il est urgent de revenir \u00e0 la s\u00e9lection \u00e0 l'entr\u00e9e du master 2\u00bbFIGAROVOX/TRIBUNE - Fr\u00e9d\u00e9ric Douet et Marc Nicod, professeurs de droit, appellent \u00e0 revenir pour les disciplines juridiques sur la r\u00e9forme qui a d\u00e9plac\u00e9 la s\u00e9lection \u00e0 la fin de la licence, laissant de nombreux \u00e9tudiants sans place en master.",
+      "url": "https://www.lefigaro.fr/vox/societe/dans-les-facultes-de-droit-il-est-urgent-de-revenir-a-la-selection-a-l-entree-du-master-2-20220630"
     },
     {
-      "text": "Paris boucle avec succ\u00e8s six mois d\u2019une pr\u00e9sidence de l\u2019UE percut\u00e9e par la guerreANALYSE - \u00abJe crois qu\u2019on est plus qu\u2019au rendez-vous\u00bb, estime le ministre d\u00e9l\u00e9gu\u00e9 charg\u00e9 de l\u2019Europe, Cl\u00e9ment Beaune.",
-      "url": "https://www.lefigaro.fr/international/paris-boucle-avec-succes-six-mois-d-une-presidence-de-l-ue-percutee-par-la-guerre-20220629"
+      "text": "Ce ch\u00e2teau n\u2019a pas trouv\u00e9 preneur lors de sa mise aux ench\u00e8resEN IMAGES - Le ch\u00e2teau de Saint-Elix, pr\u00e8s de Toulouse, avait d\u00e9j\u00e0 essuy\u00e9 une vente infructueuse en 2014.Visualiser le diaporama",
+      "url": "https://immobilier.lefigaro.fr/article/ce-chateau-n-a-pas-trouve-preneur-lors-de-sa-mise-aux-encheres_c2338d7a-f613-11ec-a4bd-b64c03324778/"
     },
     {
-      "text": "Les Gorges du Verdon sont \u00e0 sec\u00a0: pas de rafting cet \u00e9t\u00e9 mais la baignade restera possibleL'eau a recul\u00e9 comme sous l'effet d'une grande mar\u00e9e dans le plus grand canyon d'Europe, compromettant le rafting. Dans la r\u00e9gion, les lacs souffrent aussi.Regarder la vid\u00e9o",
-      "url": "https://www.lefigaro.fr/voyages/les-gorges-du-verdon-sont-a-sec-rafting-et-baignade-interdits-cet-ete-20220629"
-    },
-    {
-      "text": "Accor va remettre l'Orient-Express sur les railsEXCLUSIF - Le groupe h\u00f4telier fran\u00e7ais relancera en 2024 le Nostalgie-Istanbul-Orient-Express. Un ensemble de 17 voitures \u00e0 l'histoire mouvement\u00e9e qui ressuscitera le mythe du train de luxe le plus c\u00e9l\u00e8bre au monde.",
-      "url": "https://www.lefigaro.fr/voyages/accor-remet-l-orient-express-sur-les-rails-20220628"
+      "text": "Avec ses baskets No Name, Brigitte Macron met les ann\u00e9es 90 \u00e0 ses piedsLa premi\u00e8re dame fran\u00e7aise est une fervente adepte de ces baskets compens\u00e9es, port\u00e9es aux deux derniers sommets du G7.",
+      "url": "https://madame.lefigaro.fr/style/news/no-name-la-marque-francaise-phare-des-annees-90-adoree-par-brigitte-macron-20220629"
     },
     {
       "text": "Ces dix indices qui d\u00e9clenchent les contr\u00f4les fiscaux",
@@ -6329,84 +6637,100 @@
       "url": "https://madame.lefigaro.fr/bien-etre/psycho/j-ai-compris-que-je-ne-pouvais-pas-le-sauver-ils-sont-en-couple-avec-un-bipolaire-20220616"
     },
     {
-      "text": "Le bien mal acquis parisien de la famille el-Assad est remplac\u00e9 par 34 HLMApr\u00e8s avoir \u00e9t\u00e9 laiss\u00e9 en friche pendant 30 ans, ce terrain vague de pr\u00e8s de 800 m\u00b2 qui appartenait \u00e0 l\u2019oncle de Bachar el-Assad, conna\u00eet une seconde vie.",
-      "url": "https://immobilier.lefigaro.fr/article/le-bien-mal-acquis-parisien-de-la-famille-el-assad-est-remplace-par-34-hlm_675f69ba-f789-11ec-a311-08ed0407f6e0/"
+      "text": "Wimbledon en direct",
+      "url": "/sports/tennis/calendriers-resultats"
     },
     {
-      "text": "Ga\u00ebl, \u00e9tudiant, 1000 euros par mois et autant d'astuces pour organiser les voyages de ses r\u00eavesCH\u00c8RES VACANCES - C'est le moment o\u00f9 l'on aimerait tout oublier. Une contrainte s'impose pourtant avec plus ou moins de force au vacancier\u00a0: le budget. Ce baroudeur de 24 ans contourne les obstacles gr\u00e2ce \u00e0 une organisation sans faille.",
-      "url": "https://www.lefigaro.fr/conso/gael-etudiant-1000-euros-par-mois-et-autant-d-astuces-pour-organiser-les-voyages-de-ses-reves-20220629"
+      "text": "Tennis - Wimbledon Simple dames\u00c0 venirParryJabeur14 : 30Acc\u00e9dez \u00e0 l'avant-match",
+      "url": "/sports/tennis/live/wimbledon-dames-2022/286869/parry-jabeur"
     },
     {
-      "text": "IVG: \u00abLa Constitution n'est pas l\u00e0 pour faire des coups d'\u00e9clat symboliques\u00bbFIGAROVOX/ENTRETIEN - Pour le Professeur de droit public Anne Levade, la proposition du groupe Renaissance d'inscrire dans la Constitution un droit \u00e0 l'avortement n'est pas justifi\u00e9e juridiquement. Cette volont\u00e9 politique ne correspond pas au r\u00f4le de la Constitution, ajoute-t-elle.",
-      "url": "https://www.lefigaro.fr/vox/politique/ivg-la-constitution-n-est-pas-la-pour-faire-des-coups-d-eclat-symboliques-20220629"
+      "text": "Tennis - Wimbledon Simple messieurs\u00c0 venirHumbertGoffin15 : 30Acc\u00e9dez \u00e0 l'avant-match",
+      "url": "/sports/tennis/live/wimbledon-messieurs-2022/286735/humbert-goffin"
     },
     {
-      "text": "Proc\u00e8s Reiser: la famille \u00abd\u00e9sint\u00e9gr\u00e9e\u00bb de Sophie Le TanCOMPTE RENDU D\u2019AUDIENCE - Au troisi\u00e8me jour d\u2019audience, les proches de l\u2019\u00e9tudiante ont t\u00e9moign\u00e9 de leur douleur depuis sa mort, alors qu\u2019elle \u00e9tait leur \u00abpilier\u00bb.",
-      "url": "https://www.lefigaro.fr/actualite-france/proces-reiser-la-famille-desintegree-de-sophie-le-tan-20220629"
+      "text": "Tennis - Wimbledon Simple dames\u00c0 venirZhangGarcia17 : 30Acc\u00e9dez \u00e0 l'avant-match",
+      "url": "/sports/tennis/live/wimbledon-dames-2022/286867/zhang-garcia"
     },
     {
-      "text": "Mercato\u00a0: Neymar et le PSG veulent en finir cet \u00e9t\u00e9, mais\u2026D'apr\u00e8s les infos du Parisien, le joueur de 30 ans et le club de la capitale veulent se s\u00e9parer au cours du mercato estival. Ce ne sera toutefois pas simple...",
-      "url": "https://www.lefigaro.fr/sports/football/transferts/mercato-neymar-et-le-psg-veulent-en-finir-cet-ete-mais-20220629"
+      "text": "Tennis - Wimbledon Simple messieurs\u00c0 venirBasilashviliRijthoven12 : 00Acc\u00e9dez \u00e0 l'avant-match",
+      "url": "/sports/tennis/live/wimbledon-messieurs-2022/286732/basilashvili-rijthoven"
     },
     {
-      "text": "Mercato\u00a0: Galtier toujours pas officiellement intronis\u00e9 \u00e0 Paris mais attendu \u00e0 la reprise lundi prochain",
-      "url": "https://www.lefigaro.fr/sports/football/transferts/mercato-galtier-toujours-pas-officiellement-intronise-a-paris-mais-attendu-a-la-reprise-lundi-prochain-20220629"
+      "text": "Voir tous les matches du jour",
+      "url": "/sports/tennis/calendriers-resultats"
     },
     {
-      "text": "F1\u00a0: Nelson Piquet s'excuse d'avoir qualifi\u00e9 Lewis Hamilton de \u00abpetit noir\u00bb",
-      "url": "https://www.lefigaro.fr/sports/formule-1/f1-piquet-s-excuse-des-propos-racistes-envers-hamilton-20220629"
+      "text": "Quatre Bleues au 3e tour, Nadal, Kyrgios\u00a0: ce qu'il faut retenir de la 4e journ\u00e9e de WimbledonFin du 2e tour ce jeudi \u00e0 Londres. Six repr\u00e9sentants fran\u00e7ais disputeront le 3e tour (4 filles, 2 gar\u00e7ons). Malgr\u00e9 quelques petites frayeurs, Swiatek et Nadal poursuivent l'aventure.",
+      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/quatre-bleues-au-3-e-tour-nadal-kyrgios-ce-qu-il-faut-retenir-de-la-quatrieme-journee-de-wimbledon-20220630"
     },
     {
-      "text": "\u00abJ\u2019ai toujours ma croix sur moi et je prie\u00bb: comment la foi aide la grand reporter Liseron Boudoul sur le terrain de guerreFIGARO LIVE - De retour d\u2019Ukraine, la grand reporter de guerre de TF1 \u00e9tait l\u2019invit\u00e9e du \u00abBuzz TV de TV Magazine\u00bb ce mercredi. Elle raconte son dernier reportage dans le Donbass et revient aussi sur son parcours.",
-      "url": "https://tvmag.lefigaro.fr/programme-tv/j-ai-toujours-ma-croix-sur-moi-et-je-prie-comment-la-foi-aide-la-grand-reporter-liseron-boudoul-sur-le-terrain-de-guerre_089d41c0-f7a9-11ec-a311-08ed0407f6e0/"
+      "text": "Wimbledon\u00a0: \u00abJe reste dans ma bulle et je me surprends moi-m\u00eame\u00bb, souffle la surprise Harmony Tan",
+      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/wimbledon-tan-pour-la-premiere-fois-au-3-e-tour-d-un-grand-chelem-je-reste-dans-ma-bulle-et-je-me-surprends-moi-meme-20220630"
     },
     {
-      "text": "Guillaume Perrault: \u00abLes anciens terroristes des Brigades rouges, la \u2018\u2018doctrine Mitterrand\u2019\u2019 et nos amis italiens\u00bbFIGAROVOX/ANALYSE - La Cour d\u2019appel de Paris vient de stopper l\u2019extradition de dix anciens terroristes des Brigades rouges condamn\u00e9s en Italie pour crimes de sang, que Rome r\u00e9clame et qu\u2019Emmanuel Macron se proposait d\u2019extrader apr\u00e8s l\u2019affaire Battisti. Le parquet g\u00e9n\u00e9ral peut faire appel. Une affaire douloureuse et passionnante.",
-      "url": "https://www.lefigaro.fr/vox/societe/les-anciens-terroristes-des-brigades-rouges-la-doctrine-mitterrand-et-nos-amis-italiens-20210428"
+      "text": "Cornet, \u00e0 propos de Swiatek, sa future adversaire\u00a0: \u00abMes 15 ans d'exp\u00e9rience sur gazon pourront m'aider\u00bb",
+      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/cornet-a-propos-de-swiatek-sa-probable-future-adversaire-mes-15-ans-d-experience-sur-gazon-pourront-m-aider-20220630"
     },
     {
-      "text": "Orne\u00a0: la gendarmerie \u00e0 la recherche du cadavre d'une femme d\u00e9c\u00e9d\u00e9e il y a 33 ansUn homme aujourd'hui sexag\u00e9naire a avou\u00e9 sous la pression de leurs enfants communs le meurtre de Marlaine, sa compagne. Des fouilles sont en cours.",
-      "url": "https://www.lefigaro.fr/faits-divers/orne-la-gendarmerie-a-la-recherche-du-cadavre-d-une-femme-decedee-il-y-a-33-ans-20220629"
+      "text": "En attendant Galtier, le PSG d\u00e9bute officiellement son mercato avec VitinhaLe jeune (22 ans) milieu international portugais de Porto rejoint le Paris Saint-Germain pour 40 M\u20ac.",
+      "url": "https://www.lefigaro.fr/sports/football/transferts/mercato-vitinha-au-psg-ca-brule-20220617"
     },
     {
-      "text": "Ya\u00ebl Naz\u00e9\u00a0: \u00abLes femmes astronomes ont souvent \u00e9t\u00e9 effac\u00e9es de l\u2019histoire\u00bbENTRETIEN - Si Vera Rubin ou Jocelyn Bell ont finalement atteint la post\u00e9rit\u00e9, nombreuses sont rest\u00e9es au second plan, en d\u00e9pit de contributions parfois majeures, explique l\u2019astrophysicienne.",
-      "url": "https://www.lefigaro.fr/sciences/yael-naze-les-femmes-astronomes-ont-souvent-ete-effacees-de-l-histoire-20220629"
+      "text": "Ligue 1\u00a0: \u00abJe suis un entra\u00eeneur offensif\u00bb, affirme le n\u00e9o-Lillois Paulo Fonseca",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-je-suis-un-entraineur-offensif-affirme-le-neo-lillois-paulo-fonseca-20220630"
     },
     {
-      "text": "Le baisemain effectu\u00e9 dans les r\u00e8gles de l'art d'Emmanuel Macron \u00e0 Letizia d'Espagne \u00e0 MadridLe d\u00eener d\u2019ouverture du sommet de l\u2019Otan, organis\u00e9 cette ann\u00e9e par Felipe VI et Letizia d\u2019Espagne, s\u2019est tenu ce mardi 28 juin \u00e0 Madrid. L\u2019occasion pour le pr\u00e9sident fran\u00e7ais de s'autoriser un geste de galanterie.",
-      "url": "https://madame.lefigaro.fr/celebrites/actu-people/le-baisemain-effectue-dans-les-regles-de-l-art-d-emmanuel-macron-a-letizia-d-espagne-a-madrid-20220629"
+      "text": "Basket\u00a0: l'Asvel signe un \u00e9norme coup avec Nando De Colo",
+      "url": "https://www.lefigaro.fr/sports/basket/basket-l-asvel-rapatrie-nando-de-colo-20220630"
     },
     {
-      "text": "David, Lukaku, Fonseca, Malacia, Vitinha\u2026 Les infos mercato \u00e0 retenir ce mercrediRumeurs, d\u00e9clarations, officialisations... Retrouvez toutes les informations du mercato foot de ce mercredi 29 juin.",
-      "url": "https://www.lefigaro.fr/sports/football/transferts/direct-le-mercato-foot-romelu-lukaku-a-milan-pour-s-engager-avec-l-inter-20220629"
+      "text": "Fran\u00e7ois de Closets: \u00abLes boomers ont dilapid\u00e9 l\u2019h\u00e9ritage\u00bbENTRETIEN - Le journaliste pointe l\u2019\u00e9go\u00efsme de la g\u00e9n\u00e9ration d\u2019apr\u00e8s-guerre qui laisse \u00e0 la charge de ses enfants une France en faillite et vieillissante.",
+      "url": "https://www.lefigaro.fr/actualite-france/francois-de-closets-les-boomers-ont-dilapide-l-heritage-20220628"
     },
     {
-      "text": "Tidiane Sy, l'immense fils d'H\u00e9l\u00e8ne et Omar Sy, pose au c\u00f4t\u00e9 de sa m\u00e8re au S\u00e9n\u00e9galEn vacances ensemble, m\u00e8re et fils posent fi\u00e8rement sur un rare clich\u00e9 publi\u00e9 sur Instagram le mardi 28 juin.",
-      "url": "https://madame.lefigaro.fr/celebrites/actu-people/tidiane-sy-l-immense-fils-d-helene-et-omar-sy-pose-au-cote-de-sa-mere-au-senegal-20220629"
+      "text": "Tolisso, Vitinha, Tour\u00e9, Umtiti, Sissoko... Les infos mercato \u00e0 retenir ce vendrediRumeurs, d\u00e9clarations, officialisations ... Retrouvez toutes les informations du mercato foot de ce jeudi 30 juin.",
+      "url": "https://www.lefigaro.fr/sports/football/transferts/en-direct-foot-mercato-rumeurs-transferts-jeudi-30-juin-2022-20220630"
     },
     {
-      "text": "L'impressionnante routine sportive et alimentaire de Natalie Portman pour son r\u00f4le dans ThorPour assurer les cascades li\u00e9es \u00e0 son r\u00f4le de Jane Foster dans Thor\u00a0: Love and Thunder, Natalie Portman a d\u00fb adapter ses menus quotidiens et sa pratique sportive. Sa coach revient sur cette pr\u00e9paration de quatre mois, dans un entretien accord\u00e9 au site Insider.",
-      "url": "https://madame.lefigaro.fr/bien-etre/forme-detente/l-impressionnante-routine-sportive-et-alimentaire-de-natalie-portman-pour-son-role-dans-thor-20220628"
+      "text": "Cette vid\u00e9o du prince William fou de rage, s'emportant contre un photographe \u00e0 SandringhamUne vid\u00e9o du prince William tr\u00e8s en col\u00e8re face \u00e0 un paparazzi tourne sur les r\u00e9seaux sociaux depuis le d\u00e9but de la semaine. Supprim\u00e9e par YouTube \u00e0 la demande de Kensington Palace, elle est n\u00e9anmoins r\u00e9apparue sur Tiktok\u2026",
+      "url": "https://madame.lefigaro.fr/celebrites/actu-people/cette-video-du-prince-william-fou-de-rage-s-emportant-contre-un-photographe-20220630"
     },
     {
-      "text": "Les bienfaits insoup\u00e7onn\u00e9s de la betterave et de son jusSalissante, saveur trop terreuse\u2026 Si une certaine mauvaise r\u00e9putation pr\u00e9c\u00e8de la betterave, ce l\u00e9gume-racine m\u00e9rite toute sa place au repas sur le plan sant\u00e9. Pr\u00e9cisions avec deux sp\u00e9cialistes.",
-      "url": "https://madame.lefigaro.fr/bien-etre/nutrition/les-bienfaits-insoupconnes-de-la-betterave-et-de-son-jus-20220628"
+      "text": "Eva Longoria brille dans la nuit sicilienne en robe transparente \u00e0 dos nuVenue recevoir le Prix d'Honneur lors de la 78\u00e8me \u00e9dition du Festival du Film de Taormina, l'actrice am\u00e9ricaine a opt\u00e9 pour un choix stylistique marquant.",
+      "url": "https://madame.lefigaro.fr/style/news/eva-longoria-brille-dans-la-nuit-sicilienne-en-robe-transparente-a-dos-nu-20220630"
+    },
+    {
+      "text": "Victoria Beckham \u00e9pingle le pr\u00e9sentateur Chris Evans pour l'avoir un jour forc\u00e9e \u00e0 se peser \u00e0 la t\u00e9l\u00e9visionLe 28 mai 1999, la t\u00e9l\u00e9vision britannique diffusait sur Channel 4 TFI Friday, une interview de Victoria Beckham par l'animateur Chris Evans. Au sommaire, des questions personnelles sur son poids.",
+      "url": "https://madame.lefigaro.fr/bien-etre/victoria-beckham-epingle-le-presentateur-chris-evans-pour-l-avoir-un-jour-forcee-a-se-peser-a-la-television-20220630"
     },
     {
       "text": "La PS5 est disponible sur Amazon\u00a0!Figaro Services",
       "url": "https://www.lefigaro.fr/services/bons-plans/la-ps5-est-disponible-sur-amazon-20220628"
     },
     {
+      "text": "Super LOTO du vendredi 1 juillet 2022\u00a0: comment remporter 13 millions d\u2019euros\u00a0?Figaro Services",
+      "url": "https://www.lefigaro.fr/services/bons-plans/super-loto-du-vendredi-1-juillet-2022-comment-remporter-13-millions-d-euros-20220630"
+    },
+    {
+      "text": "EuroMillions du vendredi 1 juillet 2022\u00a0: comment remporter 198 millions d\u2019euros\u00a0?Figaro Services",
+      "url": "https://www.lefigaro.fr/services/bons-plans/euromillions-du-vendredi-1-juillet-2022-comment-remporter-198-millions-d-euros-20220630"
+    },
+    {
       "text": "Forfait mobile\u00a0: 100 Go pour moins de 7 euros, vous ne r\u00eavez pas c\u2019est l\u2019offre de l\u2019ann\u00e9e\u00a0!Figaro Services",
       "url": "https://www.lefigaro.fr/services/bons-plans/forfait-mobile-100-go-pour-moins-de-7-euros-vous-ne-revez-pas-c-est-l-offre-de-l-annee-20220629"
     },
     {
-      "text": "Les AirPods Pro en promo folle sur Amazon\u00a0!Figaro Services",
-      "url": "https://www.lefigaro.fr/services/bons-plans/les-airpods-pro-en-promo-folle-sur-amazon-20220628"
+      "text": "Le Tour de France, la\u00a0quintessence du\u00a0sport businessD\u00c9CRYPTAGE - La Grande Boucle, qui est le troisi\u00e8me \u00e9v\u00e9nement sportif au monde, part ce vendredi.",
+      "url": "https://www.lefigaro.fr/conjoncture/le-tour-de-france-la-quintessence-du-sport-business-20220630"
     },
     {
-      "text": "Xiaomi Redmi Note 10 Pro\u00a0: le smartphone premium est en m\u00e9ga promo sur Amazon\u00a0!Figaro Services",
-      "url": "https://www.lefigaro.fr/services/bons-plans/xiaomi-redmi-note-10-pro-le-smartphone-premium-est-en-mega-promo-sur-amazon-20220628"
+      "text": "R\u00c9CIT - Tour de France: le grand souffle du Nord",
+      "url": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-grand-souffle-du-nord-20220630"
+    },
+    {
+      "text": "Tour de France\u00a0: Lecroq ouvrira le bal \u00e0 16 heures, le programme du contre-la-montre",
+      "url": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-lecroq-ouvrira-le-bal-a-16-heures-le-programme-du-contre-la-montre-20220630"
     },
     {
       "text": "24 heures photoEN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, s\u00e9lectionn\u00e9es par la r\u00e9daction du Figaro Magazine.Visualiser le diaporama",
@@ -6417,224 +6741,232 @@
       "url": "https://www.lefigaro.fr/politique"
     },
     {
-      "text": "Enqu\u00eate ouverte apr\u00e8s une plainte pour \u00abtentative de viol\u00bb visant Damien Abad",
-      "url": "https://www.lefigaro.fr/politique/enquete-ouverte-apres-une-plainte-pour-tentative-de-viol-visant-damien-abad-20220629"
+      "text": "Christian Jacob quitte la t\u00eate de LR vendredi",
+      "url": "https://www.lefigaro.fr/politique/christian-jacob-quitte-la-tete-de-lr-vendredi-20220630"
     },
     {
-      "text": "Ya\u00ebl Braun-Pivet: \u00abJe n\u2019ai pas\u00a0\u00e0 faire le tri entre\u00a0les d\u00e9put\u00e9s\u00bb",
-      "url": "https://www.lefigaro.fr/politique/yael-braun-pivet-je-n-ai-pas-a-faire-le-tri-entre-les-deputes-20220629"
+      "text": "Un fort renouvellement aux postes cl\u00e9s de l'Assembl\u00e9e",
+      "url": "https://www.lefigaro.fr/politique/un-fort-renouvellement-aux-postes-cles-de-l-assemblee-20220630"
     },
     {
-      "text": "LR et RN, une entente parlementaire qui ne veut pas dire son nom",
-      "url": "https://www.lefigaro.fr/politique/lr-et-rn-une-entente-parlementaire-qui-ne-veut-pas-dire-son-nom-20220629"
+      "text": "Stanislas Guerini: \u00abAucune compromission avec l\u2019extr\u00eame droite\u00bb",
+      "url": "https://www.lefigaro.fr/politique/stanislas-guerini-aucune-compromission-avec-l-extreme-droite-20220630"
     },
     {
-      "text": "La direction du Parti socialiste durcit le ton face \u00e0 ses opposants internes",
-      "url": "https://www.lefigaro.fr/politique/la-direction-du-parti-socialiste-durcit-le-ton-face-a-ses-opposants-internes-20220629"
+      "text": "Sacha Houli\u00e9, l\u2019itin\u00e9raire express d\u2019un \u00abMacron boy\u00bb",
+      "url": "https://www.lefigaro.fr/politique/sacha-houlie-l-itineraire-express-d-un-macron-boy-20220630"
     },
     {
       "text": "International",
       "url": "https://www.lefigaro.fr/international"
     },
     {
-      "text": "Face \u00e0 la menace russe, Zelensky r\u00e9clame du \u00abcourage\u00bb \u00e0 l\u2019Otan",
-      "url": "https://www.lefigaro.fr/international/face-a-la-menace-russe-zelensky-reclame-du-courage-a-l-otan-20220629"
+      "text": "Guerre en Ukraine: l'artiste qui murmurait \u00e0 l'oreille des morts",
+      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-l-artiste-qui-murmurait-a-l-oreille-des-morts-20220630"
     },
     {
-      "text": "Paris boucle avec succ\u00e8s six mois d\u2019une pr\u00e9sidence de l\u2019UE percut\u00e9e par la guerre",
-      "url": "https://www.lefigaro.fr/international/paris-boucle-avec-succes-six-mois-d-une-presidence-de-l-ue-percutee-par-la-guerre-20220629"
+      "text": "Paul Krugman: \u00abJe ne pense pas que nous allions vers une crise telle que celle des ann\u00e9es 1970\u00bb",
+      "url": "https://www.lefigaro.fr/international/paul-krugman-je-ne-pense-pas-que-nous-allions-vers-une-crise-telle-que-celle-des-annees-1970-20220630"
     },
     {
-      "text": "\u00c9cosse: le gouvernement acc\u00e9l\u00e8re son projet d\u2019ind\u00e9pendance",
-      "url": "https://www.lefigaro.fr/international/ecosse-le-gouvernement-accelere-son-projet-d-independance-20220629"
+      "text": "La Chine, l\u2019autre menace pour l\u2019Otan",
+      "url": "https://www.lefigaro.fr/international/la-chine-l-autre-menace-pour-l-otan-20220630"
     },
     {
-      "text": "La porte de l\u2019Otan s\u2019ouvre pour la Finlande et la Su\u00e8de",
-      "url": "https://www.lefigaro.fr/international/la-porte-de-l-otan-s-ouvre-pour-la-finlande-et-la-suede-20220629"
+      "text": "Quand le massacre de Laguna Woods, aux \u00c9tats-Unis, relance le d\u00e9bat sur l\u2019identit\u00e9 ta\u00efwanaise",
+      "url": "https://www.lefigaro.fr/international/quand-le-massacre-de-laguna-woods-aux-etats-unis-relance-le-debat-sur-l-identite-taiwanaise-20220630"
     },
     {
       "text": "Soci\u00e9t\u00e9 & \u00c9ducation",
       "url": "https://www.lefigaro.fr/actualite-france/"
     },
     {
-      "text": "Proc\u00e8s des attentats du 13-Novembre: Salah Abdeslam condamn\u00e9 \u00e0 la perp\u00e9tuit\u00e9 incompressible",
-      "url": "https://www.lefigaro.fr/actualite-france/v13-apres-dix-mois-l-epilogue-d-un-proces-hors-norme-20220629"
+      "text": "27\u00a0ans apr\u00e8s, l\u2019affaire du chasseur d\u00e9capit\u00e9 rebondit",
+      "url": "https://www.lefigaro.fr/actualite-france/27-ans-apres-l-affaire-du-chasseur-decapite-rebondit-20220630"
     },
     {
-      "text": "Le groupe Galileo rach\u00e8te l\u2019\u00e9cole du chanteur Robbie Williams",
-      "url": "https://etudiant.lefigaro.fr/article/le-groupe-galileo-rachete-l-ecole-du-chanteur-robbie-williams_eea00702-f6cd-11ec-9380-76ccfe3e311e/"
+      "text": "C\u00f4te d'Azur\u00a0: notre palmar\u00e8s 2022 des villes et villages o\u00f9 il fait bon vivre",
+      "url": "https://www.lefigaro.fr/actualite-france/cote-d-azur-notre-palmares-2022-des-villes-et-villages-ou-il-fait-bon-vivre-20220630"
     },
     {
-      "text": "Le pape Fran\u00e7ois met au ban\u00a0la \u00abmesse\u00a0en latin\u00bb",
-      "url": "https://www.lefigaro.fr/actualite-france/le-pape-francois-met-au-ban-la-messe-en-latin-20220629"
+      "text": "Comment les h\u00f4pitaux tentent aujourd\u2019hui d\u2019\u00e9viter le naufrage",
+      "url": "https://www.lefigaro.fr/actualite-france/comment-les-hopitaux-tentent-aujourd-hui-d-eviter-le-naufrage-20220630"
     },
     {
-      "text": "13-Novembre: les le\u00e7ons d\u2019un proc\u00e8s historique",
-      "url": "https://www.lefigaro.fr/actualite-france/13-novembre-les-lecons-d-un-proces-historique-20220629"
+      "text": "D\u00e9j\u00e0 sous tension, les Ehpad tirent la sonnette d\u2019alarme avant l\u2019\u00e9t\u00e9",
+      "url": "https://www.lefigaro.fr/actualite-france/deja-sous-tension-les-ehpad-tirent-la-sonnette-d-alarme-avant-l-ete-20220630"
     },
     {
       "text": "\u00c9conomie",
       "url": "https://www.lefigaro.fr/economie"
     },
     {
-      "text": "Christine Lagarde: une nouvelle \u00e8re d\u2019inflation",
-      "url": "https://www.lefigaro.fr/conjoncture/christine-lagarde-une-nouvelle-ere-d-inflation-20220629"
+      "text": "Public S\u00e9nat fait le plein de nouveaut\u00e9s pour la rentr\u00e9e",
+      "url": "https://www.lefigaro.fr/medias/public-senat-fait-le-plein-de-nouveautes-pour-la-rentree-20220630"
     },
     {
-      "text": "Les Vingt-Sept adoptent le plan climat europ\u00e9en",
-      "url": "https://www.lefigaro.fr/conjoncture/les-vingt-sept-adoptent-le-plan-climat-europeen-20220629"
+      "text": "Casino devient partenaire d\u2019une plateforme de conciergerie pour seniors",
+      "url": "https://www.lefigaro.fr/societes/casino-devient-partenaire-d-une-plateforme-de-conciergerie-pour-seniors-20220630"
     },
     {
-      "text": "Les briques du p\u00f4le \u00e9lectrique de Stellantis se mettent en place",
-      "url": "https://www.lefigaro.fr/societes/les-briques-du-pole-electrique-de-stellantis-se-mettent-en-place-20220629"
+      "text": "Air France veut encore r\u00e9duire ses effectifs",
+      "url": "https://www.lefigaro.fr/societes/air-france-veut-encore-reduire-ses-effectifs-20220630"
     },
     {
-      "text": "Canal+ rafle l\u2019int\u00e9gralit\u00e9 de la Champion\u2019s League jusqu\u2019en 2027",
-      "url": "https://www.lefigaro.fr/medias/les-plateformes-lorgnent-les-droits-de-la-champion-s-league-20220629"
+      "text": "Bruxelles tente de relancer les accords commerciaux",
+      "url": "https://www.lefigaro.fr/conjoncture/bruxelles-tente-de-relancer-les-accords-commerciaux-20220630"
     },
     {
       "text": "Sciences & Sant\u00e9",
       "url": "https://www.lefigaro.fr/sciences"
     },
     {
+      "text": "En canc\u00e9rologie, un \u00e9t\u00e9 de tous les dangers",
+      "url": "https://sante.lefigaro.fr/medecine/en-cancerologie-un-ete-de-tous-les-dangers-20220630"
+    },
+    {
+      "text": "Les hospitalisations pour Covid repartent nettement \u00e0 la hausse",
+      "url": "https://www.lefigaro.fr/sciences/les-hospitalisations-pour-covid-repartent-nettement-a-la-hausse-20220630"
+    },
+    {
+      "text": "Covid-19\u00a0: comment la recomposition politique pourrait compliquer la mise en place de nouvelles mesures sanitaires",
+      "url": "https://www.lefigaro.fr/politique/covid-19-comment-la-recomposition-politique-pourrait-compliquer-la-mise-en-place-de-nouvelles-mesures-sanitaires-20220630"
+    },
+    {
       "text": "Baisse g\u00e9n\u00e9rale des rejets de CO2 en France",
       "url": "https://www.lefigaro.fr/sciences/baisse-generale-des-rejets-de-co2-en-france-20220629"
-    },
-    {
-      "text": "L\u2019ast\u00e9ro\u00efde Ryugu est encore plus primitif que pr\u00e9vu",
-      "url": "https://www.lefigaro.fr/sciences/l-asteroide-ryugu-est-encore-plus-primitif-que-prevu-20220629"
-    },
-    {
-      "text": "Attention \u00e0 ne pas abuser du curcuma",
-      "url": "https://sante.lefigaro.fr/mieux-etre/nutrition-aliments/attention-a-ne-pas-abuser-du-curcuma-20220629"
-    },
-    {
-      "text": "Ya\u00ebl Naz\u00e9: \u00abLes femmes astronomes ont souvent \u00e9t\u00e9 effac\u00e9es de l\u2019histoire\u00bb",
-      "url": "https://www.lefigaro.fr/sciences/yael-naze-les-femmes-astronomes-ont-souvent-ete-effacees-de-l-histoire-20220629"
     },
     {
       "text": "Sport",
       "url": "https://www.lefigaro.fr/sports"
     },
     {
-      "text": "Djokovic, Humbert, Garcia\u00a0: ce qu'il faut retenir de la troisi\u00e8me journ\u00e9e \u00e0 Wimbledon",
-      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/djokovic-humbert-garcia-ce-qu-il-faut-retenir-de-la-troisieme-journee-a-wimbledon-20220629"
+      "text": "Corinne Diacre\u00a0: \u00abLe malheur des unes fait le bonheur des autres\u00bb",
+      "url": "https://www.lefigaro.fr/sports/football/equipe-de-france/corinne-diacre-le-malheur-des-unes-fait-le-bonheur-des-autres-20220630"
     },
     {
-      "text": "Wimbledon\u00a0: Caroline Garcia se r\u00e9jouit que son jeu \u00aboffensif paie\u00bb",
-      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/wimbledon-caroline-garcia-se-rejouit-que-son-jeu-offensif-paie-20220629"
+      "text": "Wimbledon\u00a0: r\u00e9v\u00e9lation de Roland-Garros, Diane Parry a aussi la main verte",
+      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/wimbledon-revelation-de-roland-garros-diane-parry-a-aussi-la-main-verte-20220630"
     },
     {
-      "text": "Wimbledon\u00a0: \u00abIl a fallu lui nettoyer les \u00e9tats d'\u00e2me\u00bb, souffle Ascione, coach d'Ugo Humbert",
-      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/wimbledon-il-a-fallu-lui-nettoyer-les-etats-d-ame-souffle-ascione-coach-de-ugo-humbert-20220629"
+      "text": "Athl\u00e9: record de France pour Alice Finot sur 3.000 m steeple \u00e0 Stockholm",
+      "url": "https://www.lefigaro.fr/sports/athletisme/athle-record-de-france-pour-alice-finot-sur-3-000-m-steeple-a-stockholm-20220630"
     },
     {
-      "text": "Tour de France: Romain Bardet, l\u2019ambition en toute discr\u00e9tion",
-      "url": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-romain-bardet-l-ambition-en-toute-discretion-20220629"
+      "text": "Quatre Bleues au 3e tour, Nadal, Kyrgios\u00a0: ce qu'il faut retenir de la 4e journ\u00e9e de Wimbledon",
+      "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/quatre-bleues-au-3-e-tour-nadal-kyrgios-ce-qu-il-faut-retenir-de-la-quatrieme-journee-de-wimbledon-20220630"
     },
     {
       "text": "FigaroVox",
       "url": "https://www.lefigaro.fr/vox"
     },
     {
-      "text": "Attentats du 13-Novembre: \u00abCoupable l\u00e9g\u00e8ret\u00e9\u00bb",
-      "url": "https://www.lefigaro.fr/vox/societe/attentats-du-13-novembre-coupable-legerete-20220629"
+      "text": "L\u2019\u00e9ditorial du Figaro: \u00abGauche radicale, droite honteuse\u00bb",
+      "url": "https://www.lefigaro.fr/vox/politique/l-editorial-du-figaro-gauche-radicale-droite-honteuse-20220630"
     },
     {
-      "text": "Jacques de Saint Victor: \u00abLa question des civilisations est de retour\u00bb",
-      "url": "https://www.lefigaro.fr/vox/societe/jacques-de-saint-victor-la-question-des-civilisations-est-de-retour-20220629"
+      "text": "Mathieu Laine: \u00abLes R\u00e9publicains, ne faites pas perdre cinq\u00a0ans \u00e0 la France!\u00bb",
+      "url": "https://www.lefigaro.fr/vox/politique/mathieu-laine-les-republicains-ne-faites-pas-perdre-cinq-ans-a-la-france-20220630"
     },
     {
-      "text": "Charles Jaigu: \u00abLe bel avenir des p\u00e2tes\u00bb",
-      "url": "https://www.lefigaro.fr/vox/charles-jaigu-le-bel-avenir-des-pates-20220629"
+      "text": "Maxime Tandonnet: \u00abMacron n\u2019est pas de droite, pourquoi les LR s\u2019allieraient-ils avec lui?\u00bb",
+      "url": "https://www.lefigaro.fr/vox/politique/maxime-tandonnet-macron-n-est-pas-de-droite-pourquoi-les-lr-s-allieraient-ils-avec-lui-20220630"
     },
     {
-      "text": "Comment Volodymyr Zelensky est arriv\u00e9 jusqu'\u00e0 la t\u00eate de l'\u00c9tat ukrainien",
-      "url": "https://www.lefigaro.fr/vox/monde/comment-volodymyr-zelensky-est-arrive-jusqu-a-la-tete-de-l-etat-ukrainien-20220629"
+      "text": "Proc\u00e8s des attentats du 13-Novembre\u00a02015: un verdict pour mettre un point final",
+      "url": "https://www.lefigaro.fr/vox/societe/proces-des-attentats-du-13-novembre-2015-un-verdict-pour-mettre-un-point-final-20220630"
     },
     {
       "text": "Culture & TV",
       "url": "https://www.lefigaro.fr/culture"
     },
     {
-      "text": "Les 90 ans du Mus\u00e9e de Tel Aviv m\u00e9ritent bien une f\u00eate",
-      "url": "https://www.lefigaro.fr/arts-expositions/les-90-ans-du-musee-de-tel-aviv-meritent-bien-une-fete-20220629"
+      "text": "Ain\u00a0: le concert de Kiss annul\u00e9 au Printemps de P\u00e9rouges en raison des intemp\u00e9ries",
+      "url": "https://www.lefigaro.fr/culture/ain-le-concert-de-kiss-annule-au-printemps-de-perouges-en-raison-des-intemperies-20220630"
     },
     {
-      "text": "De la Tefaf \u00e0 la Brafa, le chass\u00e9-crois\u00e9 des foires d'art",
-      "url": "https://www.lefigaro.fr/arts-expositions/de-la-tefaf-a-la-brafa-le-chasse-croise-des-foires-d-art-20220629"
+      "text": "Vincent Lindon et A\u00efssa Ma\u00efga vont grossir les rangs de l'acad\u00e9mie des Oscars",
+      "url": "https://www.lefigaro.fr/culture/vincent-lindon-et-aissa-maiga-vont-grossir-les-rangs-de-l-academie-des-oscars-20220630"
     },
     {
-      "text": "Au Plaza Ath\u00e9n\u00e9e, une s\u00e9ance de cin\u00e9ma toqu\u00e9e",
-      "url": "https://www.lefigaro.fr/culture/au-plaza-athenee-une-seance-de-cinema-toquee-20220629"
+      "text": "Riccardo Muti explique pourquoi l'op\u00e9ra doit assumer son histoire, m\u00eame quand elle para\u00eet raciste",
+      "url": "https://www.lefigaro.fr/musique/riccardo-muti-explique-pourquoi-l-opera-doit-assumer-son-histoire-meme-quand-elle-parait-raciste-20220630"
     },
     {
-      "text": "\u00abJ\u2019ai toujours ma croix sur moi et je prie\u00bb: comment la foi aide la grand reporter Liseron Boudoul sur le terrain de guerre",
-      "url": "https://tvmag.lefigaro.fr/programme-tv/j-ai-toujours-ma-croix-sur-moi-et-je-prie-comment-la-foi-aide-la-grand-reporter-liseron-boudoul-sur-le-terrain-de-guerre_089d41c0-f7a9-11ec-a311-08ed0407f6e0/"
+      "text": "Eurock\u00e9ennes\u00a0: sept bless\u00e9s \u00aben urgence relative\u00bb apr\u00e8s de violentes bourasques",
+      "url": "https://www.lefigaro.fr/culture/eurockeennes-la-premiere-soiree-annulee-apres-un-gros-orage-sept-blesses-en-urgence-relative-20220630"
     },
     {
       "text": "Voyage",
       "url": "https://www.lefigaro.fr/voyages"
     },
     {
-      "text": "Jours f\u00e9ri\u00e9s 2022\u00a0: quelles sont les prochaines dates\u00a0? Calendrier pour savoir quand faire le pont",
-      "url": "https://www.lefigaro.fr/voyages/conseils/jours-feries-2022-quelles-sont-les-prochaines-dates-calendrier-pour-savoir-quand-faire-le-pont-20220629"
+      "text": "Tourisme \u00e0 Cuba\u00a0: ce qui a chang\u00e9 depuis la pand\u00e9mie",
+      "url": "https://www.lefigaro.fr/voyages/conseils/tourisme-a-cuba-ce-qui-a-change-depuis-la-pandemie-20220630"
     },
     {
-      "text": "Covid-19\u00a0: o\u00f9 voyager\u00a0? La carte des restrictions par pays",
-      "url": "https://www.lefigaro.fr/voyages/covid-dans-quels-pays-voyager-carte-des-restrictions-20220610"
+      "text": "Paris l'\u00e9t\u00e9 sans s'ennuyer\u00a0: Poissy, la cit\u00e9 qui cache ses atours",
+      "url": "https://www.lefigaro.fr/voyages/guides/paris-l-ete-sans-s-ennuyer-poissy-la-cite-qui-cache-ses-atours-20220630"
     },
     {
-      "text": "Vacances scolaires\u00a0: calendrier 2022-2023, dates par zone et liste des jours f\u00e9ri\u00e9s",
-      "url": "https://www.lefigaro.fr/voyages/conseils/vacances-scolaires-2020/vacances-scolaires-calendrier-2022-2023-dates-par-zone-et-liste-des-jours-feries-20220629"
+      "text": "Voici \u00ab le village pr\u00e9f\u00e9r\u00e9 des Fran\u00e7ais\u00a0\u00bb",
+      "url": "https://www.lefigaro.fr/voyages/voici-le-village-prefere-des-francais-20220630"
     },
     {
-      "text": "\u00abLe Village pr\u00e9f\u00e9r\u00e9 des Fran\u00e7ais\u00bb\u00a0: d\u00e9couvrez les 14 communes candidates",
-      "url": "https://www.lefigaro.fr/voyages/village-prefere-des-francais-et-les-14-communes-en-lice-sont-20220305"
+      "text": "Vacances sur la c\u00f4te belge\u00a0: en route pour un grand bol d'air",
+      "url": "https://www.lefigaro.fr/voyages/en-route-pour-un-grand-bol-d-air-sur-la-cote-belge-20200824"
     },
     {
       "text": "Style & Art de vivre",
       "url": "https://www.lefigaro.fr/style"
     },
     {
-      "text": "Volkswagen Concept ID.Aero, la future Passat \u00e9lectrique",
-      "url": "https://www.lefigaro.fr/automobile/volkswagen-concept-id-aero-la-future-passat-electrique-20220629"
+      "text": "\u00c0 la mesure de Dior Homme",
+      "url": "https://www.lefigaro.fr/industrie-mode/a-la-mesure-de-dior-homme-20220630"
     },
     {
-      "text": "\u00abLe chien le plus laid du monde\u00bb 2022 a \u00e9t\u00e9 \u00e9lu",
-      "url": "https://www.lefigaro.fr/animaux/le-chien-le-plus-laid-du-monde-2022-a-ete-elu-20220629"
+      "text": "Piaggio MP3 530, des prestations \u00e9lev\u00e9es",
+      "url": "https://www.lefigaro.fr/automobile/piaggio-mp3-530-des-prestations-elevees-20220630"
     },
     {
-      "text": "Vers un lin 100\u00a0% fran\u00e7ais?",
-      "url": "https://www.lefigaro.fr/jardin/vers-un-lin-100-francais-20220629"
+      "text": "Fashion week: Max Mara d\u00e9file sur un air de fado",
+      "url": "https://www.lefigaro.fr/industrie-mode/fashion-week-max-mara-defile-sur-un-air-de-fado-20220630"
     },
     {
-      "text": "\u00c0 Versailles, le domaine du Trianon fait peau neuve",
-      "url": "https://www.lefigaro.fr/jardin/a-versailles-le-domaine-du-trianon-fait-peau-neuve-20220629"
+      "text": "Immersion dans La Vie de Victor Prouv\u00e9 \u00e0 Issy-les-Moulineaux",
+      "url": "https://www.lefigaro.fr/sortir-paris/immersion-dans-la-vie-de-victor-prouve-a-issy-les-moulineaux-20220630"
     },
     {
       "text": "Madame Figaro",
       "url": "http://madame.lefigaro.fr/"
     },
     {
-      "text": "Siffl\u00e9e en 2012, la robe \u00e0 motifs de C\u00e9cile Duflot revient \u00e0 l'Assembl\u00e9e nationale",
-      "url": "https://madame.lefigaro.fr/style/news/sifflee-en-2012-la-robe-a-motifs-de-cecile-duflot-revient-a-l-assemblee-nationale-20220629"
+      "text": "Julia Roberts et George Clooney, duo explosif dans la bande-annonce de la com\u00e9die romantique Ticket to Paradise",
+      "url": "https://madame.lefigaro.fr/celebrites/cinema/julia-roberts-et-george-clooney-duo-explosif-dans-la-bande-annonce-de-la-comedie-romantique-ticket-to-paradise-20220630"
     },
     {
-      "text": "Des tribunaux au perchoir de l'Assembl\u00e9e nationale, le parcours sans rel\u00e2che de Ya\u00ebl Braun-Pivet",
-      "url": "https://madame.lefigaro.fr/societe/actu/des-tribunaux-au-perchoir-de-l-assemblee-nationale-le-parcours-sans-relache-de-yael-braun-pivet-20220629"
+      "text": "Isabelle Huppert\u00a0: \u00abJ'aime croire que les r\u00e9alisateurs appr\u00e9cient de travailler avec moi, car je suis comme leur petit objet\u00bb",
+      "url": "https://madame.lefigaro.fr/celebrites/isabelle-huppert-j-aime-croire-que-les-realisateurs-apprecient-travailler-avec-moi-car-je-suis-comme-leur-petit-objet-20220630"
     },
     {
-      "text": "\u00abLip Blush\u00bb\u00a0: la technique pour des l\u00e8vres sym\u00e9triques, repulp\u00e9es et ros\u00e9es (sans maquillage)",
-      "url": "https://madame.lefigaro.fr/beaute/make-up-soins/lip-blush-la-technique-pour-des-levres-symetriques-repulpees-et-rosees-sans-maquillage-20220629"
+      "text": "L'affaire R. Kelly\u00a0: 30 ans d'abus, 30 ans de prison",
+      "url": "https://madame.lefigaro.fr/societe/actu/l-affaire-r-kelly-30-ans-d-abus-30-ans-de-prison-20220630"
     },
     {
-      "text": "Dinh Van relance son maillon fort",
-      "url": "https://madame.lefigaro.fr/bijoux-et-montres/coups-de-coeur/dinh-van-relance-son-maillon-fort-20220629"
+      "text": "Victoria Beckham \u00e9pingle le pr\u00e9sentateur Chris Evans pour l'avoir un jour forc\u00e9e \u00e0 se peser \u00e0 la t\u00e9l\u00e9vision",
+      "url": "https://madame.lefigaro.fr/bien-etre/victoria-beckham-epingle-le-presentateur-chris-evans-pour-l-avoir-un-jour-forcee-a-se-peser-a-la-television-20220630"
     },
     {
       "text": "Immobilier",
       "url": "https://immobilier.lefigaro.fr/"
+    },
+    {
+      "text": "Covid-19: les commer\u00e7ants ferm\u00e9s devront payer leurs loyers impay\u00e9s",
+      "url": "https://immobilier.lefigaro.fr/article/covid-19-les-commercants-fermes-devront-payer-leurs-loyers-impayes_ad00f0f0-f884-11ec-a311-08ed0407f6e0/"
+    },
+    {
+      "text": "\u00c0 La D\u00e9fense, un parc g\u00e9ant de 5 hectares doit voir le jour d\u2019ici 2026",
+      "url": "https://immobilier.lefigaro.fr/article/a-la-defense-un-parc-geant-de-5-hectares-doit-voir-le-jour-d-ici-2026_ae1748e6-f7b1-11ec-9380-76ccfe3e311e/"
     },
     {
       "text": "Le bien mal acquis parisien de la famille el-Assad est remplac\u00e9 par 34 HLM",
@@ -6643,14 +6975,6 @@
     {
       "text": "Cr\u00e9dit immobilier: pas de gros coup de pouce pour les emprunteurs",
       "url": "https://immobilier.lefigaro.fr/article/credit-immobilier-pas-de-gros-coup-de-pouce-pour-les-emprunteurs_10b18992-f778-11ec-9380-76ccfe3e311e/"
-    },
-    {
-      "text": "Logement\u00a0: \u00ab\u00a0Il faut revoir le calendrier de la r\u00e9novation \u00e9nerg\u00e9tique\u00a0\u00bb",
-      "url": "https://immobilier.lefigaro.fr/annonces/edito/acheter/j-achete/logement-il-faut-revoir-le-calendrier-de-la-renovation"
-    },
-    {
-      "text": "Une piscine fait-elle vraiment grimper la valeur de votre maison?",
-      "url": "https://immobilier.lefigaro.fr/article/installer-une-piscine-est-moins-valorisee-dans-les-stations-balneaires-qu-ailleurs_911bd63a-f6bc-11ec-9380-76ccfe3e311e/"
     },
     {
       "text": "R\u00e9sultats des \u00e9lections",
@@ -7517,10 +7841,10 @@
     "publicdate": "2022-04-09 13:41:47",
     "addeddate": "2022-04-09 13:41:47"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 256912644,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1844090561,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

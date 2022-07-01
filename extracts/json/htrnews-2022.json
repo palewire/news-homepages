@@ -1,5 +1,5 @@
 {
-  "created": 1656544014,
+  "created": 1656634943,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/24/items/htrnews-2022",
@@ -5372,31 +5372,325 @@
       "sha1": "def2451f347558d249daf620215a66e7e5e9951f"
     },
     {
+      "name": "htrnews-2022-06-29T20:30:51.233295-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656552653",
+      "size": "22359",
+      "md5": "8a1c6042532899727550d46af74bbc18",
+      "crc32": "4bc98905",
+      "sha1": "f463e27e994599fc0cfa7de2b63def853ccf6d5b",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-29T20:30:51.233295-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656552654",
+      "size": "36885",
+      "md5": "08773cd5e14791169f41f7272ba1b9ba",
+      "crc32": "ef5b7523",
+      "sha1": "54876c3b17b4743d7b2aec817b777cfdb0c228e6",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-29T20:30:51.233295-05:00.jpg",
+      "source": "original",
+      "mtime": "1656552652",
+      "size": "247978",
+      "md5": "e81e7f675ccbd81ad034f92823e4aacf",
+      "crc32": "5e623b3d",
+      "sha1": "bcbf1ff66f24e1bf9c4be9545d9f7d04c06f5ef1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-29T20:30:51.233295-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-29T20:30:51.233295-05:00.jpg",
+      "mtime": "1656552732",
+      "size": "9470",
+      "md5": "27607ea4af15968e1f92180d9fee55fb",
+      "crc32": "a6a523dc",
+      "sha1": "cb2f1d1eb7dc0f126519334a9def7f2e74625ba7"
+    },
+    {
+      "name": "htrnews-2022-06-29T22:43:56.508961-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656560638",
+      "size": "22310",
+      "md5": "19ed113bfcbc12cab8efc54744498477",
+      "crc32": "cb0fc324",
+      "sha1": "37972a1e1a940686533dbf613fea68c130f25f20",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-29T22:43:56.508961-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656560640",
+      "size": "49092",
+      "md5": "98360ce9a08e69359ceb2a89b91ac927",
+      "crc32": "cec6e957",
+      "sha1": "5212c9f9081220c01b91d69673ab663414d52365",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-29T22:43:56.508961-05:00.jpg",
+      "source": "original",
+      "mtime": "1656560637",
+      "size": "252588",
+      "md5": "5e46d503bfd0326691741691f2fecb87",
+      "crc32": "28ef8d2a",
+      "sha1": "f90ded8b2b42c6c2e269d1b40a0021fc53b0304d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-29T22:43:56.508961-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-29T22:43:56.508961-05:00.jpg",
+      "mtime": "1656560714",
+      "size": "9149",
+      "md5": "42f23d415a5284b275270985d89ab55b",
+      "crc32": "820a46dd",
+      "sha1": "51904507420fd0af6eccc674c6803b838f30d000"
+    },
+    {
+      "name": "htrnews-2022-06-30T00:11:31.158156-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656565896",
+      "size": "24303",
+      "md5": "37df33fe898db1f9285e7bea562bd3e3",
+      "crc32": "a88d4b25",
+      "sha1": "8593bc0de0d6908ce5455f01c53c7ec387dcf6de",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T00:11:31.158156-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656565897",
+      "size": "38927",
+      "md5": "6f7001d5f4e2c7d0a46de702be9ecfe4",
+      "crc32": "49dba007",
+      "sha1": "f4531eedd0ef8d9c025d172a87a5092348edb372",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T00:11:31.158156-05:00.jpg",
+      "source": "original",
+      "mtime": "1656565894",
+      "size": "253798",
+      "md5": "408f95bd6e48ce76d5aa2af4ee246cdf",
+      "crc32": "59e70816",
+      "sha1": "dca1aca603736b3d7dc06de6bf554ac6fbc74bcf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-30T00:11:31.158156-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-30T00:11:31.158156-05:00.jpg",
+      "mtime": "1656565946",
+      "size": "9141",
+      "md5": "83d7d452f59e0881721599125830e8d6",
+      "crc32": "6e99f49f",
+      "sha1": "2ac25099f5aea3f3918a37f93ec443bdd3524414"
+    },
+    {
+      "name": "htrnews-2022-06-30T02:01:15.901331-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656572478",
+      "size": "24427",
+      "md5": "0d14248980d20439d8790d6dbc093f29",
+      "crc32": "3943678e",
+      "sha1": "a4b7f6f293e951ed1511e2806c397dd1b9d74825",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T02:01:15.901331-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656572480",
+      "size": "47201",
+      "md5": "93a120994764223aa30e7919251fae4e",
+      "crc32": "637a85a4",
+      "sha1": "b9e235cd453ba55c75f0dbae9276fceffc16ba1c",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T02:01:15.901331-05:00.jpg",
+      "source": "original",
+      "mtime": "1656572477",
+      "size": "251701",
+      "md5": "605c1ddcdb29cc13daff7f224f0ddcc9",
+      "crc32": "4439f5a1",
+      "sha1": "92e8e4b22ba5cbe5aafef72763d66b5caba8e9dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-30T02:01:15.901331-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-30T02:01:15.901331-05:00.jpg",
+      "mtime": "1656572533",
+      "size": "9143",
+      "md5": "1dc4227642b9651146705859ef44bc29",
+      "crc32": "cfc633d0",
+      "sha1": "585d7e0cfeb14843b5f3c19342418da1cee64e72"
+    },
+    {
+      "name": "htrnews-2022-06-30T04:04:34.292508-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656579877",
+      "size": "24336",
+      "md5": "4edc4d4974d5a7e57f00c5033e1ab9ef",
+      "crc32": "5e15856e",
+      "sha1": "ae02d16b5fadf497fea522042d256aed8823448a",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T04:04:34.292508-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656579879",
+      "size": "47620",
+      "md5": "7206c73d755f2ec18b38220c897671b0",
+      "crc32": "449b93dc",
+      "sha1": "d52287085db139ff3bd40bf81fb5d9c3baef63de",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T04:04:34.292508-05:00.jpg",
+      "source": "original",
+      "mtime": "1656579876",
+      "size": "251681",
+      "md5": "356bf75bfbb45705c6f3e84507a92ac8",
+      "crc32": "81a79e97",
+      "sha1": "faa413cf20eaa31520c6fcc04f9b54d24390bb7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-30T04:04:34.292508-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-30T04:04:34.292508-05:00.jpg",
+      "mtime": "1656580012",
+      "size": "9141",
+      "md5": "d96a5f79ebb13a27f686e58929123514",
+      "crc32": "46a0f704",
+      "sha1": "e185fb2c26050ec9ed68274b90242145450d8f5a"
+    },
+    {
+      "name": "htrnews-2022-06-30T06:01:24.411492-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656586887",
+      "size": "24562",
+      "md5": "a8462ef5d66394571bb969c6221560a0",
+      "crc32": "fa2bcc59",
+      "sha1": "1895ae98b8a50a12c6aa2abe37d770f919911281",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T06:01:24.411492-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656586889",
+      "size": "41193",
+      "md5": "02e18f3c49abf19da2c7152475d95cc1",
+      "crc32": "fef23b95",
+      "sha1": "932f5676d6ea36757cef888d9bafb617807ee806",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T06:01:24.411492-05:00.jpg",
+      "source": "original",
+      "mtime": "1656586886",
+      "size": "252817",
+      "md5": "74b55d120198a1ab921c94d109e28494",
+      "crc32": "52e280dd",
+      "sha1": "ff7a81f88f4be6c6524c113c61532b43bc55bb29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-30T06:01:24.411492-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-30T06:01:24.411492-05:00.jpg",
+      "mtime": "1656586942",
+      "size": "9153",
+      "md5": "7d621508b1547ce219545c365952c864",
+      "crc32": "c754c239",
+      "sha1": "d97de8e94974111f1512daa6d50b276113fba4b6"
+    },
+    {
+      "name": "htrnews-2022-06-30T08:05:58.900635-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656594362",
+      "size": "25041",
+      "md5": "35008498cb3e2f2286f58b5121cad39b",
+      "crc32": "9b51eb81",
+      "sha1": "cd61282e002cd9a70eeb17b63483636c3789f32c",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T08:05:58.900635-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656594365",
+      "size": "35119",
+      "md5": "9a76d61a59dba970629aab5aa580b80b",
+      "crc32": "62ce9d1e",
+      "sha1": "637dd342b2f51691bacb14a1fc61f1cbd60cccfd",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-06-30T08:05:58.900635-05:00.jpg",
+      "source": "original",
+      "mtime": "1656594360",
+      "size": "260356",
+      "md5": "af2538e6e0fd2cbd13ae8de5d9fb69e5",
+      "crc32": "405b0c7c",
+      "sha1": "75068c9456eb16b59b32d8c97c7d63bab8fb77bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-06-30T08:05:58.900635-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-06-30T08:05:58.900635-05:00.jpg",
+      "mtime": "1656594423",
+      "size": "9176",
+      "md5": "a8dcb870b266dd4b4341d12c387826c4",
+      "crc32": "341cb646",
+      "sha1": "1ddc90abeb28000d49822d1ee86e7436f32dc9d3"
+    },
+    {
       "name": "htrnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "58b1146a1b1edfae9311876615a5880820bb3ba6",
-      "mtime": "1656544006",
-      "size": "108437",
-      "md5": "1cc4c9ca225a35cd81721426fe8dadde",
-      "crc32": "cf0c780e",
-      "sha1": "c09c9051f33f4db3d8368fb156b3606154bf1eaa",
+      "btih": "e0eeb29044e14b0dd8708aead310218c984d2222",
+      "mtime": "1656594429",
+      "size": "114292",
+      "md5": "a397e986662230a075cb279897e5f142",
+      "crc32": "fcadae97",
+      "sha1": "d7778e0da137fa68f2850b753f8bf48f63a29001",
       "format": "Archive BitTorrent"
     },
     {
       "name": "htrnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2514fca7892d2e38e71483b1acc09d6d",
+      "md5": "9d7f62fe5e2a95a16961612052ac0d3a",
       "summation": "md5"
     },
     {
       "name": "htrnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656543907",
-      "size": "606208",
-      "md5": "f23e16fa57b3cddeea73eb385f3419d2",
-      "crc32": "4da6a02a",
-      "sha1": "9f4461075a39fb2429d19b10a4d715eb9fd2d75b",
+      "mtime": "1656594367",
+      "size": "634880",
+      "md5": "7e52f13c0ef7a6721019db818faa5adf",
+      "crc32": "51c1d89b",
+      "sha1": "ec7fc3a440ad1643e49c0b75885c8551ca12fbc8",
       "format": "Metadata"
     },
     {
@@ -5410,9 +5704,631 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 515,
-  "item_last_updated": 1656544006,
-  "item_size": 43286617,
+  "files_count": 543,
+  "htrnews-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Packers",
+      "url": "/packers/"
+    },
+    {
+      "text": "Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.htrnews.com/obituaries/"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://login.htrnews.com/PMAC-GUP/authenticate?success-url=https%3A%2F%2Fwww.htrnews.com%2F&cancel-url=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": " Abortion ban adds stress and health risks for Black mothers more than any others, advocates say",
+      "url": "/story/news/2022/06/30/wisconsin-abortion-ban-said-worsen-health-risks-black-mothers/7724587001/"
+    },
+    {
+      "text": "This photographer captured Manitowoc County in photos unlike anyone else at turn of the 20th century",
+      "url": "/story/life/2022/06/30/manitowoc-picture-postcards-1800-s-and-photographer-h-c-benke/7765651001/"
+    },
+    {
+      "text": "Tickets remain for Bayern-Man City soccer friendly at Lambeau Field",
+      "url": "/story/news/2022/06/30/tickets-remain-bayern-man-city-soccer-friendly-lambeau-field-green-bay-packers/7668216001/"
+    },
+    {
+      "text": "Vic Ferrari\u2019s final local concert kicks off July 4 weekend in Manitowoc. Here are 5 things to do.",
+      "url": "/story/entertainment/2022/06/29/vic-ferrari-final-show-manitowoc-kicks-off-fourth-july-weekend/7749895001/"
+    },
+    {
+      "text": " Opinion: Manitowoc County tourism rebounds from pandemic\u2026",
+      "url": "/story/opinion/2022/06/30/manitowoc-county-tourism-revenue-rebounds-covid-pandemic-2021/7759254001/"
+    },
+    {
+      "text": " Wisconsin Soccer Coaches Association announces all-state\u2026",
+      "url": "/story/sports/high-school/soccer/2022/06/30/kimberly-emily-mccarthy-dc-everest-jenna-baumann-all-state-2022-wisconsin-soccer-coaches-association/7751556001/"
+    },
+    {
+      "text": " Muskego educators stopped from teaching book about WWII\u2026",
+      "url": "/story/news/education/2022/06/30/muskego-educators-stopped-teaching-book-wwii-incarceration-japanese-americans/7756407001/"
+    },
+    {
+      "text": " Alexandria Ocasio-Cortez backs Mandela Barnes in U.S\u2026",
+      "url": "/story/news/politics/elections/2022/06/29/alexandria-ocasio-cortez-backs-mandela-barnes-wisconsin-u-s-senate-race-ron-johnson/7767258001/"
+    },
+    {
+      "text": " Second Road America a lot like starting over for NASCAR\u2026",
+      "url": "/story/sports/motor/2022/06/29/nascar-cup-series-next-gen-car-provides-new-challenge-road-america/7763990001/"
+    },
+    {
+      "text": " Abortion ban adds stress and health risks for Black mothers more than any others, advocates say\u00a0",
+      "url": "/story/news/2022/06/30/wisconsin-abortion-ban-said-worsen-health-risks-black-mothers/7724587001/"
+    },
+    {
+      "text": "Gessert's Ice Cream parlor brings back history in Elkhart Lake\u00a0",
+      "url": "/videos/news/2022/06/30/gesserts-ice-cream-celebrates-100th-year-summer-treats/7697455001/"
+    },
+    {
+      "text": " Chainsaw artist carved dead trees at Road America into bears, owls and more\u00a0",
+      "url": "/story/news/2022/06/30/road-america-tree-carvings-artist-ben-buschke-add-wisconsin-flair/7700133001/"
+    },
+    {
+      "text": "More in News",
+      "url": "/news/"
+    },
+    {
+      "text": " Wisconsin Soccer Coaches Association announces all-state girls teams\u00a0",
+      "url": "/story/sports/high-school/soccer/2022/06/30/kimberly-emily-mccarthy-dc-everest-jenna-baumann-all-state-2022-wisconsin-soccer-coaches-association/7751556001/"
+    },
+    {
+      "text": " This Manitowoc Lincoln sophomore throws 90 mph and is garnering interest from Power 5 schools\u00a0",
+      "url": "/story/sports/high-school/baseball/2022/06/23/manitowoc-lincolns-noah-wech-has-interest-sec-acc-programs/7686274001/"
+    },
+    {
+      "text": " Elliott, crew chief break down their 2021 Road America victory\u00a0",
+      "url": "/story/sports/motor/2022/06/30/chase-elliott-crew-chief-break-down-2021-road-america-nascar-cup-win/7770272001/"
+    },
+    {
+      "text": "More in Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": " Manitowoc, find out who bought and sold property in the city\u00a0",
+      "url": "/story/money/2022/06/24/manitowoc-homes-sold-and-real-estate-transfers-june-24-2022/7713909001/"
+    },
+    {
+      "text": " Ariens built a center in Brillion to provide subsidized daycare to employees. It's working.\u00a0",
+      "url": "/story/news/education/2022/06/23/heres-how-ariens-brillion-helps-employees-daycare-costs/7501784001/"
+    },
+    {
+      "text": " Summer of revenge travel continues as crowds pack popular Wisconsin spots\u00a0",
+      "url": "/story/travel/wisconsin/2022/06/23/summer-revenge-travel-continues-visitors-pack-wisconsin-tourism-destinations/9948385002/"
+    },
+    {
+      "text": "More in Business",
+      "url": "/business/"
+    },
+    {
+      "text": " Since 1922, summer crowds have streamed into Gessert's Ice Cream in Elkhart Lake, this is why\u00a0",
+      "url": "/story/life/food/2022/06/30/gesserts-wisconsin-serves-authentic-ice-cream-parlor-experience/9967558002/"
+    },
+    {
+      "text": " It's almost the Fourth of July. Here's how Door County is celebrating\u00a0",
+      "url": "/story/news/local/door-co/2022/06/24/fourth-july-door-county-when-where-fireworks-parades-concerts-strawberries-art-uw-marching-band/7706427001/"
+    },
+    {
+      "text": " Vic Ferrari\u2019s final local concert kicks off July 4 weekend in Manitowoc. Here are 5 things to do.\u00a0",
+      "url": "/story/entertainment/2022/06/29/vic-ferrari-final-show-manitowoc-kicks-off-fourth-july-weekend/7749895001/"
+    },
+    {
+      "text": "More in Go 920!",
+      "url": "/go-920/"
+    },
+    {
+      "text": " This photographer captured Manitowoc County in photos unlike anyone else at turn of the 20th century\u00a0",
+      "url": "/story/life/2022/06/30/manitowoc-picture-postcards-1800-s-and-photographer-h-c-benke/7765651001/"
+    },
+    {
+      "text": " 'Today' show visits Lake Geneva for summer getaways series\u00a0",
+      "url": "/story/travel/wisconsin/2022/06/27/today-show-lake-geneva-wisconsin-summer-getaways-series/7746522001/"
+    },
+    {
+      "text": " 5 small-town Wisconsin ice cream shops with big-city flavor worth the drive this summer\u00a0",
+      "url": "/story/life/food/2021/06/25/best-small-town-ice-cream-shops-wisconsin/7220049002/"
+    },
+    {
+      "text": "More in Life",
+      "url": "/life/"
+    },
+    {
+      "text": " Opinion: Manitowoc County tourism rebounds from pandemic with $112.2M in visitor spending in 2021\u00a0Jason Ring\u00a0",
+      "url": "/story/opinion/2022/06/30/manitowoc-county-tourism-revenue-rebounds-covid-pandemic-2021/7759254001/"
+    },
+    {
+      "text": " What should the candidates be talking about as they campaign in Wisconsin? Tell us.\u00a0",
+      "url": "/story/news/solutions/2022/06/28/what-should-candidates-talking-they-campaign-wisconsin/7690892001/"
+    },
+    {
+      "text": " Editorial: Ron Johnson's denials about Donald Trump's fake-elector plot don't add up\u00a0USA TODAY NETWORK-Wisconsin Editorial Board\u00a0",
+      "url": "/story/opinion/2022/06/28/senator-ron-johnsons-denials-trumps-fake-elector-plot-dont-add-up-wisconsin/7706935001/"
+    },
+    {
+      "text": "More in Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "",
+      "url": "/picture-gallery/news/2022/06/26/hundreds-attend-reproduction-freedom-rally-sheboygan/7741323001/"
+    },
+    {
+      "text": "Enter Every Day\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/AIA-Vanity-Glam-Mirror-Giveaway/?itm_campaign=AIA%20Glam%20Mirror%20Sweeps&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Enter Now!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/Bourbon-and-Beyond-VIP-Experience/?itm_campaign=Bourbon%20and%20Beyond%20VIP%20NON%20Louisville&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Winners Announced!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://htrnews.secondstreetapp.com/Best-of-the-Lakeshore-2022-Winners/?itm_campaign=Best%20of%20the%20Lakeshore%202022&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "California Department of Aging",
+      "url": "https://aging.ca.gov/?tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkoismSo7_5_-LKAQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkoismSo7_5_-LKAQ"
+    },
+    {
+      "text": "California's Aging Services are Here for You. Read More.California Department of Aging|",
+      "url": "https://aging.ca.gov/?tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkoismSo7_5_-LKAQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkoismSo7_5_-LKAQ"
+    },
+    {
+      "text": "",
+      "url": "https://aging.ca.gov/?tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkoismSo7_5_-LKAQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkoismSo7_5_-LKAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Benefits Seniors",
+      "url": "https://bestgoodslabs.com/life-insurance/?click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCexlcojN23zb6GsvjRAQ&site=gannettcompany-heraldtimesreporter&site_id=1010948&title=All+Adults+Over+45+Are+Due+a+Large+Benefit+This+Month+%28Check+If+You+Qualify%29&platform=Desktop&campaign_id=17687307&campaign_item_id=3263907856&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fcfb11e912de07667b749750553b9fec4.jpg&cpid=1057614c-f496-4d90-9a36-4a7f29c15798&utm_source=taboola&utm_medium=referral&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCexlcojN23zb6GsvjRAQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCexlcojN23zb6GsvjRAQ"
+    },
+    {
+      "text": "All Adults Over 45 Are Due a Large Benefit This Month (Check If You Qualify)Benefits Seniors|",
+      "url": "https://bestgoodslabs.com/life-insurance/?click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCexlcojN23zb6GsvjRAQ&site=gannettcompany-heraldtimesreporter&site_id=1010948&title=All+Adults+Over+45+Are+Due+a+Large+Benefit+This+Month+%28Check+If+You+Qualify%29&platform=Desktop&campaign_id=17687307&campaign_item_id=3263907856&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fcfb11e912de07667b749750553b9fec4.jpg&cpid=1057614c-f496-4d90-9a36-4a7f29c15798&utm_source=taboola&utm_medium=referral&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCexlcojN23zb6GsvjRAQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCexlcojN23zb6GsvjRAQ"
+    },
+    {
+      "text": "",
+      "url": "https://bestgoodslabs.com/life-insurance/?click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCexlcojN23zb6GsvjRAQ&site=gannettcompany-heraldtimesreporter&site_id=1010948&title=All+Adults+Over+45+Are+Due+a+Large+Benefit+This+Month+%28Check+If+You+Qualify%29&platform=Desktop&campaign_id=17687307&campaign_item_id=3263907856&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fcfb11e912de07667b749750553b9fec4.jpg&cpid=1057614c-f496-4d90-9a36-4a7f29c15798&utm_source=taboola&utm_medium=referral&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCexlcojN23zb6GsvjRAQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCexlcojN23zb6GsvjRAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "DollarKeeper",
+      "url": "https://www.dollarkeeper.net/collections/men-shoes/products/mens-good-arch-support-outdoor-breathable-light-travel-sneakers?utm_source=taboolag4cy&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDPyVkoubX0zvbzyai2AQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDPyVkoubX0zvbzyai2AQ"
+    },
+    {
+      "text": "The Best Men's Shoes for Walking and Standing All DayThese shoes were made for walking and to provide optimal comfort.DollarKeeper|",
+      "url": "https://www.dollarkeeper.net/collections/men-shoes/products/mens-good-arch-support-outdoor-breathable-light-travel-sneakers?utm_source=taboolag4cy&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDPyVkoubX0zvbzyai2AQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDPyVkoubX0zvbzyai2AQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.dollarkeeper.net/collections/men-shoes/products/mens-good-arch-support-outdoor-breathable-light-travel-sneakers?utm_source=taboolag4cy&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDPyVkoubX0zvbzyai2AQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDPyVkoubX0zvbzyai2AQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Shoeshome",
+      "url": "http://tick.shoeshome.live/872f4115-9cbb-45d4-bb43-8f1e758432b7?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&platform=Desktop&campaign_id=18686042&campaign_item_id=3426885833&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1edf947d62226a59fb63ba4f9969fd6f.jpg&campaign_name=sh00622_us_all_dv_dan_0525&utm_campaign=sh00622_us_all_dv_dan_0525&utm_medium=1010948&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDJuFgo056Hwrje8ZxT&utm_source=taboola&utm_medium=1010948&utm_campaign=sh00622_us_all_dv_dan_0525&utm_content=3426885833&utm_term=18686042&sitedomain=htrnews.com&timestamp=2022-06-30+12%3A34%3A41&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDJuFgo056Hwrje8ZxT#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDJuFgo056Hwrje8ZxT"
+    },
+    {
+      "text": "Doctor Designed Sandals Will Change Your Life\u00a0Shoeshome|",
+      "url": "http://tick.shoeshome.live/872f4115-9cbb-45d4-bb43-8f1e758432b7?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&platform=Desktop&campaign_id=18686042&campaign_item_id=3426885833&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1edf947d62226a59fb63ba4f9969fd6f.jpg&campaign_name=sh00622_us_all_dv_dan_0525&utm_campaign=sh00622_us_all_dv_dan_0525&utm_medium=1010948&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDJuFgo056Hwrje8ZxT&utm_source=taboola&utm_medium=1010948&utm_campaign=sh00622_us_all_dv_dan_0525&utm_content=3426885833&utm_term=18686042&sitedomain=htrnews.com&timestamp=2022-06-30+12%3A34%3A41&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDJuFgo056Hwrje8ZxT#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDJuFgo056Hwrje8ZxT"
+    },
+    {
+      "text": "",
+      "url": "http://tick.shoeshome.live/872f4115-9cbb-45d4-bb43-8f1e758432b7?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&platform=Desktop&campaign_id=18686042&campaign_item_id=3426885833&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1edf947d62226a59fb63ba4f9969fd6f.jpg&campaign_name=sh00622_us_all_dv_dan_0525&utm_campaign=sh00622_us_all_dv_dan_0525&utm_medium=1010948&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDJuFgo056Hwrje8ZxT&utm_source=taboola&utm_medium=1010948&utm_campaign=sh00622_us_all_dv_dan_0525&utm_content=3426885833&utm_term=18686042&sitedomain=htrnews.com&timestamp=2022-06-30+12%3A34%3A41&title=Doctor+Designed+Sandals+Will+Change+Your+Life%C2%A0&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDJuFgo056Hwrje8ZxT#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDJuFgo056Hwrje8ZxT"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "FungusDefend",
+      "url": "https://antifungusformula.com/preLP-TAB?s1=18556122&clickid=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDG9VgotZ2Qg_bltLdP&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDG9VgotZ2Qg_bltLdP#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDG9VgotZ2Qg_bltLdP"
+    },
+    {
+      "text": "Toenail Fungus? Try This At Home Immediately\u00a0FungusDefend|",
+      "url": "https://antifungusformula.com/preLP-TAB?s1=18556122&clickid=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDG9VgotZ2Qg_bltLdP&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDG9VgotZ2Qg_bltLdP#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDG9VgotZ2Qg_bltLdP"
+    },
+    {
+      "text": "",
+      "url": "https://antifungusformula.com/preLP-TAB?s1=18556122&clickid=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDG9VgotZ2Qg_bltLdP&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDG9VgotZ2Qg_bltLdP#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDG9VgotZ2Qg_bltLdP"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "COMFY SHOES",
+      "url": "https://seasideqs.com/products/slip-shoess?utm_source=taboola&utm_medium=referral&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCHwFkondzT_PKSoYgJ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCHwFkondzT_PKSoYgJ"
+    },
+    {
+      "text": "The Best walking  Shoes for Men to Wear All Day Long No TiredCOMFY SHOES|",
+      "url": "https://seasideqs.com/products/slip-shoess?utm_source=taboola&utm_medium=referral&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCHwFkondzT_PKSoYgJ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCHwFkondzT_PKSoYgJ"
+    },
+    {
+      "text": "",
+      "url": "https://seasideqs.com/products/slip-shoess?utm_source=taboola&utm_medium=referral&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCHwFkondzT_PKSoYgJ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCHwFkondzT_PKSoYgJ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "uDates.io",
+      "url": "https://tracking.dating2cloud.org/8acf47ac-824c-4acd-ab5f-de6c8b04b450?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=San+Francisco+is+actually+full+of+attractive+mature+women%C2%A0&platform=Desktop&campaign_id=18137636&campaign_item_id=3366053185&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F587dbfb9258905114265aebbdf70228e.jpg&afid=1880410422&lp=LP&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ"
+    },
+    {
+      "text": "San Francisco is actually full of attractive mature women\u00a0Prepare to create romance today!uDates.io|",
+      "url": "https://tracking.dating2cloud.org/8acf47ac-824c-4acd-ab5f-de6c8b04b450?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=San+Francisco+is+actually+full+of+attractive+mature+women%C2%A0&platform=Desktop&campaign_id=18137636&campaign_item_id=3366053185&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F587dbfb9258905114265aebbdf70228e.jpg&afid=1880410422&lp=LP&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ"
+    },
+    {
+      "text": "",
+      "url": "https://tracking.dating2cloud.org/8acf47ac-824c-4acd-ab5f-de6c8b04b450?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=San+Francisco+is+actually+full+of+attractive+mature+women%C2%A0&platform=Desktop&campaign_id=18137636&campaign_item_id=3366053185&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F587dbfb9258905114265aebbdf70228e.jpg&afid=1880410422&lp=LP&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCD11gokZuigtL8zPL4AQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Auto Savings Center",
+      "url": "https://popularsearches.net/index.php?rgid=199833&gclid=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCM41Yo1NzUvpOA7Za3AQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCM41Yo1NzUvpOA7Za3AQ"
+    },
+    {
+      "text": "Kia Has Done It Again. This Year's Lineup Left Us Speechless (See It Now)Auto Savings Center|",
+      "url": "https://popularsearches.net/index.php?rgid=199833&gclid=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCM41Yo1NzUvpOA7Za3AQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCM41Yo1NzUvpOA7Za3AQ"
+    },
+    {
+      "text": "",
+      "url": "https://popularsearches.net/index.php?rgid=199833&gclid=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCM41Yo1NzUvpOA7Za3AQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCM41Yo1NzUvpOA7Za3AQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "NewTech",
+      "url": "https://ac.2022gadgets.com/?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Americans+Are+Replacing+AC%27s+With+This+Tiny+Cooler&platform=Desktop&campaign_id=17540732&campaign_item_id=3424668037&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3bb78f84a16c84b37609aa7f964e4d74.jpg&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCtnFgo0JjR7NXRu4JL&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCtnFgo0JjR7NXRu4JL#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCtnFgo0JjR7NXRu4JL"
+    },
+    {
+      "text": "Americans Are Replacing AC's With This Tiny CoolerThis AC turned my room into an icebox quicker than any other AC I've triedNewTech|",
+      "url": "https://ac.2022gadgets.com/?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Americans+Are+Replacing+AC%27s+With+This+Tiny+Cooler&platform=Desktop&campaign_id=17540732&campaign_item_id=3424668037&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3bb78f84a16c84b37609aa7f964e4d74.jpg&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCtnFgo0JjR7NXRu4JL&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCtnFgo0JjR7NXRu4JL#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCtnFgo0JjR7NXRu4JL"
+    },
+    {
+      "text": "",
+      "url": "https://ac.2022gadgets.com/?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Americans+Are+Replacing+AC%27s+With+This+Tiny+Cooler&platform=Desktop&campaign_id=17540732&campaign_item_id=3424668037&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F3bb78f84a16c84b37609aa7f964e4d74.jpg&click_id=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCtnFgo0JjR7NXRu4JL&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCtnFgo0JjR7NXRu4JL#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCtnFgo0JjR7NXRu4JL"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "TeamPlanting",
+      "url": "https://teamplanting.com/blogs/gemstone-guides/the-best-chakra-stones-bracelet-in-2022?utm_source=taboola&utm_medium=referral&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDQvFYov8GV5o7Y7O_LAQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDQvFYov8GV5o7Y7O_LAQ"
+    },
+    {
+      "text": "This Buddhist Bracelet Not Only Looks Beautiful, But It Also Plants TreesTeamPlanting|",
+      "url": "https://teamplanting.com/blogs/gemstone-guides/the-best-chakra-stones-bracelet-in-2022?utm_source=taboola&utm_medium=referral&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDQvFYov8GV5o7Y7O_LAQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDQvFYov8GV5o7Y7O_LAQ"
+    },
+    {
+      "text": "",
+      "url": "https://teamplanting.com/blogs/gemstone-guides/the-best-chakra-stones-bracelet-in-2022?utm_source=taboola&utm_medium=referral&tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDQvFYov8GV5o7Y7O_LAQ#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSDQvFYov8GV5o7Y7O_LAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Manitowoc native retires after 50 years with Goodwill. 'I have loved my job,' Bob Rosinsky says.",
+      "url": "/story/news/local/2022/06/29/manitowoc-native-bob-rosinsky-retires-after-50-years-goodwill/7758233001/"
+    },
+    {
+      "text": "Gessert's Ice Cream parlor brings back history in Elkhart Lake\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "/videos/news/2022/06/30/gesserts-ice-cream-celebrates-100th-year-summer-treats/7697455001/"
+    },
+    {
+      "text": "Since 1922, summer crowds have streamed into Gessert's Ice Cream in Elkhart Lake, this is why",
+      "url": "/story/life/food/2022/06/30/gesserts-wisconsin-serves-authentic-ice-cream-parlor-experience/9967558002/"
+    },
+    {
+      "text": "Chainsaw artist carved dead trees at Road America into bears, owls and more",
+      "url": "/story/news/2022/06/30/road-america-tree-carvings-artist-ben-buschke-add-wisconsin-flair/7700133001/"
+    },
+    {
+      "text": "Get a six-month Herald Times Reporter subscription for $1",
+      "url": "/story/news/local/2018/02/06/herald-times-reporter-digital-subscription/1087736001/"
+    },
+    {
+      "text": "",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Right-Rail"
+    },
+    {
+      "text": "California Department of Aging",
+      "url": "https://aging.ca.gov/?tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkojvO7gILF2uAK#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkojvO7gILF2uAK"
+    },
+    {
+      "text": "California's Aging Services are Here for You. Read More.California Department of Aging|",
+      "url": "https://aging.ca.gov/?tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkojvO7gILF2uAK#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkojvO7gILF2uAK"
+    },
+    {
+      "text": "",
+      "url": "https://aging.ca.gov/?tblci=GiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkojvO7gILF2uAK#tblciGiBnNk2Gr_rmb7xx2jPo-HFJp2UhgdyuYbhSb5PPkQs7bSCYxlkojvO7gILF2uAK"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Staff Directory",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.gannett.com/careers/"
+    },
+    {
+      "text": "Accessibility Support",
+      "url": "https://cm.htrnews.com/accessibility"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "Our Ethical Principles",
+      "url": "https://cm.htrnews.com/ethical-conduct"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://cm.htrnews.com/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy"
+    },
+    {
+      "text": "Your California Privacy Rights / Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy-policy/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Support Local Businesses",
+      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=manitowoc"
+    },
+    {
+      "text": "Advertise Your Business",
+      "url": "https://localiq.com/markets/Wisconsin/"
+    },
+    {
+      "text": "Advertising Terms and Conditions",
+      "url": "https://cm.htrnews.com/advertising-terms-conditions"
+    },
+    {
+      "text": "Buy and Sell",
+      "url": "/placead/"
+    },
+    {
+      "text": "Licensing & Reprints",
+      "url": "https://imagn.com/licensing-reprints/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://help.htrnews.com/"
+    },
+    {
+      "text": "Subscriber Guide",
+      "url": "https://cm.htrnews.com/subscriberguide"
+    },
+    {
+      "text": "My Account",
+      "url": "https://account.htrnews.com/"
+    },
+    {
+      "text": "Feedback",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Footer"
+    },
+    {
+      "text": "Subscribe Today",
+      "url": "https://subscribe.htrnews.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://profile.htrnews.com/newsletters/manage"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.htrnews.com/subscriberguide/apps/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/HeraldTimesReporter"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/htrnews"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Storytellers",
+      "url": "https://www.storytellersproject.com/"
+    },
+    {
+      "text": "Archives",
+      "url": "http://www.tkqlhce.com/click-8144810-11570746?url=http://archives.htrnews.com"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "http://static.htrnews.com/rss/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.htrnews.com/jobs/"
+    },
+    {
+      "text": "Cars",
+      "url": "/cars/"
+    },
+    {
+      "text": "Homes",
+      "url": "http://www.htrnews.com/marketplace/real-estate/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://classifieds.htrnews.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Manitowoc+Herald+Times+Reporter"
+    },
+    {
+      "text": "Reviewed",
+      "url": "https://www.reviewed.com/"
+    },
+    {
+      "text": "10Best",
+      "url": "https://www.10best.com/"
+    },
+    {
+      "text": "USA TODAY Sports+",
+      "url": "https://www.usatodaysportsplus.com/"
+    },
+    {
+      "text": "Reach Local",
+      "url": "http://www.reachlocal.com/us/en"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/ccpa-privacy/"
+    }
+  ],
+  "item_last_updated": 1656594429,
+  "item_size": 45619811,
   "metadata": {
     "identifier": "htrnews-2022",
     "collection": [
@@ -5429,10 +6345,10 @@
     "publicdate": "2022-03-27 23:07:58",
     "addeddate": "2022-03-27 23:07:58"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 5431016,
+  "server": "ia802504.us.archive.org",
+  "uniq": 950421814,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }
