@@ -17,7 +17,7 @@ orphan: true
 | Location       | Des Moines                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 126 screenshots stored at the Internet Archive.
+The archiving routine has captured 133 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

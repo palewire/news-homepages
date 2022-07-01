@@ -17,7 +17,7 @@ orphan: true
 | Location       | Milwaukee                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 133 screenshots stored at the Internet Archive.
+The archiving routine has captured 140 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

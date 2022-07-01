@@ -17,7 +17,7 @@ orphan: true
 | Location       | Eau Claire                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 128 screenshots stored at the Internet Archive.
+The archiving routine has captured 135 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
