@@ -16,8 +16,8 @@ jobs:
       - id: install-chromedriver
         name: Install chromedriver
         run: |
-          apt update
-          apt-get install chromium-chromedriver
+          sudo apt update
+          sudo apt install chromium-chromedriver
         shell: bash
 
       - id: install
