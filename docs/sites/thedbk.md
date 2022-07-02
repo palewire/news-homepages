@@ -17,7 +17,7 @@ orphan: true
 | Location       | College Park                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 136 screenshots stored at the Internet Archive.
+The archiving routine has captured 138 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

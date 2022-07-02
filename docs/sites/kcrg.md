@@ -17,7 +17,7 @@ orphan: true
 | Location       | Cedar Rapids                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 127 screenshots stored at the Internet Archive.
+The archiving routine has captured 129 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
