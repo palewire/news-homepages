@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 221 sites.
+The archiving routine is currently capturing 222 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -78,6 +78,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[France 24 English](https://palewi.re/docs/news-homepages/sites/france24_en.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24_en.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/france24_en.xml)|
 |[franceinfo](https://palewi.re/docs/news-homepages/sites/franceinfo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/franceinfo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/franceinfo.xml)|
 |[Frederick News-Post](https://palewi.re/docs/news-homepages/sites/frednewspost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/frednewspost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/frednewspost.xml)|
+|[Gateway Pundit](https://palewi.re/docs/news-homepages/sites/gatewaypundit.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gatewaypundit.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gatewaypundit.xml)|
 |[Global News](https://palewi.re/docs/news-homepages/sites/globalnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/globalnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/globalnews.xml)|
 |[Green Bay Press-Gazette](https://palewi.re/docs/news-homepages/sites/gbpressgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gbpressgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gbpressgazette.xml)|
 |[Grid](https://palewi.re/docs/news-homepages/sites/gridnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gridnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gridnews.xml)|
