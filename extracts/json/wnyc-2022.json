@@ -1,5 +1,5 @@
 {
-  "created": 1656635244,
+  "created": 1656681861,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -730,31 +730,115 @@
       "sha1": "2d0f0531dd0978d9b9badaecfcfb4a0dceabe91e"
     },
     {
+      "name": "wnyc-2022-06-30T21:39:55.187658-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656639597",
+      "size": "9756",
+      "md5": "570c30f5589e544ee2c16297ee1cf943",
+      "crc32": "bbcc7ec0",
+      "sha1": "49f0d35f9549d0707e8758d09bfee66fafa8a609",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-06-30T21:39:55.187658-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656639598",
+      "size": "24505",
+      "md5": "2a7efbafbaedaa35ccf3e5449abd8c58",
+      "crc32": "f786dc14",
+      "sha1": "9ca753ab172f26e2b0c5eb38b593357fe382c55e",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-06-30T21:39:55.187658-04:00.jpg",
+      "source": "original",
+      "mtime": "1656639596",
+      "size": "190038",
+      "md5": "e71f2afdb461f7fc2efbc696fb0679de",
+      "crc32": "6bfb9806",
+      "sha1": "11066ec15dbe3c1d20667f4f24b2cfb8a6c2f5c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-06-30T21:39:55.187658-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-06-30T21:39:55.187658-04:00.jpg",
+      "mtime": "1656639645",
+      "size": "9203",
+      "md5": "ee0458852c13a4d183a2e52881926a58",
+      "crc32": "9ca4e9d7",
+      "sha1": "c4aaf05a0993972f0e6b18e7e2c9a97216df96b6"
+    },
+    {
+      "name": "wnyc-2022-07-01T09:23:00.295201-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656681784",
+      "size": "29550",
+      "md5": "55fb53cb31e26d0a76f6274866ed9472",
+      "crc32": "154e6ff6",
+      "sha1": "02316453f52892761ced399859a17da2d7ec907d",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-01T09:23:00.295201-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656681786",
+      "size": "24479",
+      "md5": "ac01bed720beb43baa54c4853310b36c",
+      "crc32": "a60f75bd",
+      "sha1": "9831c04f0e2e84769806d3ea50ffd3498a4ce00b",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-01T09:23:00.295201-04:00.jpg",
+      "source": "original",
+      "mtime": "1656681783",
+      "size": "194387",
+      "md5": "602f6c7f17621696d9def152603a8fc9",
+      "crc32": "84749f21",
+      "sha1": "5dd526fe28b0cb7aeb81308d7969622e7c85b948",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-07-01T09:23:00.295201-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-07-01T09:23:00.295201-04:00.jpg",
+      "mtime": "1656681839",
+      "size": "8958",
+      "md5": "10697363b1f28d1984a970ba27a0548a",
+      "crc32": "f2f6901a",
+      "sha1": "11e30c11e826aafbaf58904422f793afd55e2ffb"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d12345b8319679e8ec6003a210119a93ab8b566",
-      "mtime": "1656594937",
-      "size": "15569",
-      "md5": "e2c877f9caa8cc30f70cd8db62ab16a6",
-      "crc32": "57f6640c",
-      "sha1": "add65e2ac273772ed7d250d5500361dceb37d1d0",
+      "btih": "d4722c9a634bf858e71c8fd7d51b81bc615d1707",
+      "mtime": "1656681850",
+      "size": "17214",
+      "md5": "5773c01ab9d6eab923a2150385802475",
+      "crc32": "7b0afdfa",
+      "sha1": "96fc983f41ea9f1a1c22ed4fb5419fe7d925c950",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4dbecd1fbb0058ab4a5f69a74f3aef20",
+      "md5": "de77356f756ce44be1ec361b6be746d6",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656594888",
-      "size": "90112",
-      "md5": "a31f025be62a6949f7a66dd6e23dc740",
-      "crc32": "3aa6013f",
-      "sha1": "11cdc746a76c90d894e420c2ff248aad858d01b7",
+      "mtime": "1656681789",
+      "size": "98304",
+      "md5": "ef5d349d4a957160790353db0146701e",
+      "crc32": "dc3b2429",
+      "sha1": "6e320a833fe203d2ce8a7c4cb6b039b310aba26f",
       "format": "Metadata"
     },
     {
@@ -768,9 +852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 73,
-  "item_last_updated": 1656594937,
-  "item_size": 4572207,
+  "files_count": 81,
+  "item_last_updated": 1656681850,
+  "item_size": 5072920,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -788,665 +872,7 @@
     "addeddate": "2022-06-27 18:14:25"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 1482640685,
-  "wnyc-2022": [
-    {
-      "text": "\n    \n  \n\n\n\n",
-      "url": "https://www.wnyc.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    \n      \n    \n\n    \n      \n      \n      \n    \n\n    \n      \n      \n      \n      \n    \n\n    \n      \n    \n\n    \n      \n      \n    \n  \n\n\n\n",
-      "url": "https://www.gothamist.com?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n\n\n\n",
-      "url": "https://www.wnycstudios.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \nNJPR\n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\n\n",
-      "url": "http://www.njpublicradio.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n  \n  \n  \n  \n  \n  \n  \n\n\n\n",
-      "url": "https://www.wqxr.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n\n\n\n",
-      "url": "https://www.newsounds.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n  .bump { fill: #BBB; }\n  \n\n  \n    \n    \n    \n    \n    \n  \n  \n    \n    \n    \n  \n  \n    \n    \n    \n    \n    \n    \n  \n  \n    \n    \n    \n    \n    \n  \n\n\n\n",
-      "url": "https://www.thegreenespace.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n\n\n\n",
-      "url": "https://www.wnyc.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    \n      \n    \n\n    \n      \n      \n      \n    \n\n    \n      \n      \n      \n      \n    \n\n    \n      \n    \n\n    \n      \n      \n    \n  \n\n\n\n",
-      "url": "https://www.gothamist.com?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n\n\n\n",
-      "url": "https://www.wnycstudios.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \nNJPR\n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\n\n",
-      "url": "http://www.njpublicradio.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n  \n  \n  \n  \n  \n  \n  \n\n\n\n",
-      "url": "https://www.wqxr.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n\n\n\n",
-      "url": "https://www.newsounds.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "\n    \n  \n  .bump { fill: #BBB; }\n  \n\n  \n    \n    \n    \n    \n    \n  \n  \n    \n    \n    \n  \n  \n    \n    \n    \n    \n    \n    \n  \n  \n    \n    \n    \n    \n    \n  \n\n\n\n",
-      "url": "https://www.thegreenespace.org?utm_medium=partnersite&utm_campaign=brandheader&utm_source=wnyc"
-    },
-    {
-      "text": "Donate",
-      "url": "https://pledge3.wnyc.org/epledge/main?ref=button-donate-header"
-    },
-    {
-      "text": "Sign up",
-      "url": "/signup"
-    },
-    {
-      "text": "Log in",
-      "url": "/login"
-    },
-    {
-      "text": "\n            \n    \n\n\n\n        ",
-      "url": "/"
-    },
-    {
-      "text": "Radio",
-      "url": "/radio"
-    },
-    {
-      "text": "All Streams",
-      "url": "/streams"
-    },
-    {
-      "text": "Schedule",
-      "url": "/schedule"
-    },
-    {
-      "text": "Shows",
-      "url": "/shows"
-    },
-    {
-      "text": "Topics",
-      "url": "/topics"
-    },
-    {
-      "text": "Discover",
-      "url": "/discover/start"
-    },
-    {
-      "text": " Support Us",
-      "url": "https://www.nypublicradio.org/support/"
-    },
-    {
-      "text": "\n      \n    ",
-      "url": "http://www.twitter.com/wnyc"
-    },
-    {
-      "text": "\n      \n    ",
-      "url": "http://www.facebook.com/wnyc"
-    },
-    {
-      "text": "\n      \n    ",
-      "url": "https://www.instagram.com/wnyc"
-    },
-    {
-      "text": "Morning Edition",
-      "url": "https://www.wnyc.org/shows/me"
-    },
-    {
-      "text": "    \n      ",
-      "url": "https://gothamist.com/news/the-buskers-dilemma-whats-allowed-and-whats-not-for-subway-performers"
-    },
-    {
-      "text": "\n            The busker's dilemma: What's allowed and what's not for subway performers\n          ",
-      "url": "https://gothamist.com/news/the-buskers-dilemma-whats-allowed-and-whats-not-for-subway-performers"
-    },
-    {
-      "text": "    \n      ",
-      "url": "https://gothamist.com/news/supreme-court-new-york-guns-hochul-"
-    },
-    {
-      "text": "\n            In response to Supreme Court, NY gun ban poised to cover subways, day care facilities among others\n          ",
-      "url": "https://gothamist.com/news/supreme-court-new-york-guns-hochul-"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnyc.org/story/latest-newscast/"
-    },
-    {
-      "text": "\n            Latest Newscast From the WNYC Newsroom\n          ",
-      "url": "http://www.wnyc.org/story/latest-newscast/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "/story/jan-6-committee-subpoenas-pat-cipollone-trumps-former-white-house-counsel/"
-    },
-    {
-      "text": "\n            Jan. 6 committee subpoenas Pat Cipollone, Trump's former White House counsel\n          ",
-      "url": "/story/jan-6-committee-subpoenas-pat-cipollone-trumps-former-white-house-counsel/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "/story/supreme-court-hands-defeat-to-native-american-tribes-in-oklahoma/"
-    },
-    {
-      "text": "\n            Supreme Court hands defeat to Native American Tribes in Oklahoma\n          ",
-      "url": "/story/supreme-court-hands-defeat-to-native-american-tribes-in-oklahoma/"
-    },
-    {
-      "text": "\n              All Things Considered\n            ",
-      "url": "//www.wnyc.org/shows/atc"
-    },
-    {
-      "text": "    \n      ",
-      "url": "/story/still-testing-positive-after-day-10-how-to-decide-when-to-end-your-covid-isolation/"
-    },
-    {
-      "text": "\n            Still testing positive after day 10? How to decide when to end your COVID isolation\n          ",
-      "url": "/story/still-testing-positive-after-day-10-how-to-decide-when-to-end-your-covid-isolation/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "https://gothamist.com/news/kathy-hochul-lee-zeldin-race-to-define-the-ny-governor-campaign"
-    },
-    {
-      "text": "\n            Kathy Hochul, Lee Zeldin race to define the NY governor campaign\n          ",
-      "url": "https://gothamist.com/news/kathy-hochul-lee-zeldin-race-to-define-the-ny-governor-campaign"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnycstudios.org/story/roe-ivf-fertility/"
-    },
-    {
-      "text": "\n            The Overturning of Roe Could Make Fertility Treatments Like IVF More Complicated\n          ",
-      "url": "http://www.wnycstudios.org/story/roe-ivf-fertility/"
-    },
-    {
-      "text": "\n              The Takeaway\n            ",
-      "url": "//www.wnycstudios.org/podcasts/takeaway"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnyc.org/story/free-shakespeare-park-returns-richard-iii/"
-    },
-    {
-      "text": "\n            Free Shakespeare in the Park Returns with 'Richard III'\n          ",
-      "url": "http://www.wnyc.org/story/free-shakespeare-park-returns-richard-iii/"
-    },
-    {
-      "text": "\n              All Of It\n            ",
-      "url": "//www.wnyc.org/shows/all-of-it"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnyc.org/story/your-summer-travel-plans/"
-    },
-    {
-      "text": "\n            Your Summer Travel Plans\n          ",
-      "url": "http://www.wnyc.org/story/your-summer-travel-plans/"
-    },
-    {
-      "text": "\n              The Brian Lehrer Show\n            ",
-      "url": "//www.wnyc.org/shows/bl"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnycstudios.org/story/niecy-nash-jessica-betts-death-sex-money/"
-    },
-    {
-      "text": "\n            The Very Hot Marriage of Niecy Nash and Jessica Betts\n          ",
-      "url": "http://www.wnycstudios.org/story/niecy-nash-jessica-betts-death-sex-money/"
-    },
-    {
-      "text": "\n              Death, Sex & Money\n            ",
-      "url": "//www.wnycstudios.org/podcasts/deathsexmoney"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnyc.org/story/ms-marvel/"
-    },
-    {
-      "text": "\n            Directors Adil El Arbi & Bilall Fallah Discuss 'Ms. Marvel'\n          ",
-      "url": "http://www.wnyc.org/story/ms-marvel/"
-    },
-    {
-      "text": "\n              All Of It\n            ",
-      "url": "//www.wnyc.org/shows/all-of-it"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnycstudios.org/story/case-debate-almost-defined-abortion-law-roe-on-the-media/"
-    },
-    {
-      "text": "\n             Instead of Roe: The Case that Could Have Defined Abortion Law\n          ",
-      "url": "http://www.wnycstudios.org/story/case-debate-almost-defined-abortion-law-roe-on-the-media/"
-    },
-    {
-      "text": "\n              On the Media\n            ",
-      "url": "//www.wnycstudios.org/podcasts/otm"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnycstudios.org/story/alan-alda-podcaster-seg/"
-    },
-    {
-      "text": "\n            Alan Alda, Podcaster\n          ",
-      "url": "http://www.wnycstudios.org/story/alan-alda-podcaster-seg/"
-    },
-    {
-      "text": "\n              The New Yorker Radio Hour\n            ",
-      "url": "//www.wnycstudios.org/podcasts/tnyradiohour"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnycstudios.org/story/how-media-failed-amber-heard-on-the-media/"
-    },
-    {
-      "text": "\n            How The Media Failed Amber Heard\n          ",
-      "url": "http://www.wnycstudios.org/story/how-media-failed-amber-heard-on-the-media/"
-    },
-    {
-      "text": "\n              On the Media\n            ",
-      "url": "//www.wnycstudios.org/podcasts/otm"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.newsounds.org/story/weekly-music-roundup-phoenix-mireya-ramos-sg-goodman/"
-    },
-    {
-      "text": "\n            Weekly Music Roundup: Phoenix, Mireya Ramos, S.G. Goodman\n          ",
-      "url": "http://www.newsounds.org/story/weekly-music-roundup-phoenix-mireya-ramos-sg-goodman/"
-    },
-    {
-      "text": "\n              Soundcheck\n            ",
-      "url": "//www.newsounds.org/shows/soundcheck"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.newsounds.org/story/intimate-deranged-pop-songwritercomposer-gabriel-kahane-live-greene-space/"
-    },
-    {
-      "text": "\n            The Intimate, \"Deranged Pop\" of Songwriter/Composer Gabriel Kahane, Live From The Greene Space\n          ",
-      "url": "http://www.newsounds.org/story/intimate-deranged-pop-songwritercomposer-gabriel-kahane-live-greene-space/"
-    },
-    {
-      "text": "\n              Soundcheck\n            ",
-      "url": "//www.newsounds.org/shows/soundcheck"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.newsounds.org/story/buffalo-nichols-bringing-blues-past-future/"
-    },
-    {
-      "text": "\n            Buffalo Nichols Is Bringing the Blues of the Past Into the Future\n          ",
-      "url": "http://www.newsounds.org/story/buffalo-nichols-bringing-blues-past-future/"
-    },
-    {
-      "text": "\n              Soundcheck\n            ",
-      "url": "//www.newsounds.org/shows/soundcheck"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.newsounds.org/story/amythyst-kiahs-roots-music-deals-loss-grief-and-pain/"
-    },
-    {
-      "text": "\n            Amythyst Kiah's Roots Music Deals With Loss, Grief, and Pain\n          ",
-      "url": "http://www.newsounds.org/story/amythyst-kiahs-roots-music-deals-loss-grief-and-pain/"
-    },
-    {
-      "text": "\n              Soundcheck\n            ",
-      "url": "//www.newsounds.org/shows/soundcheck"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.newsounds.org/story/angelica-negron-performs-plant-art-live-greene-space/"
-    },
-    {
-      "text": "\n            Ang\u00e9lica Negr\u00f3n Performs on Plant Art, Live at The Greene Space\n          ",
-      "url": "http://www.newsounds.org/story/angelica-negron-performs-plant-art-live-greene-space/"
-    },
-    {
-      "text": "\n              Soundcheck\n            ",
-      "url": "//www.newsounds.org/shows/soundcheck"
-    },
-    {
-      "text": "Most Viewed",
-      "url": "#"
-    },
-    {
-      "text": "Most Listened",
-      "url": "#"
-    },
-    {
-      "text": "Most Commented",
-      "url": "#"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
-    },
-    {
-      "text": "\n                  Meet the NYS Lt. Gov Candidates; Monday Morning Politics: Roe Overturned; COVID Shots for Babies and Toddlers; Does Religious Freedom Apply to Jewish Americans?\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
-    },
-    {
-      "text": "\n                  NYS Primary Results; January 6th Surprise Hearing Recap; Sen. Gillibrand on Abortion Rights, Guns & More; Summer Travel\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/all-of-it-2022-06-23/"
-    },
-    {
-      "text": "\n                  ESPN's New Documentary \"37 Words,\" 50th anniversary of Title IX, \"The Martha Mitchell Effect\" on Netflix, \"Watergate: A New History,\" Remembering Vincent Chin\n                ",
-      "url": "http://www.wnyc.org/story/all-of-it-2022-06-23/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-chart-that-explains-everyone-character-alignment/"
-    },
-    {
-      "text": "\n                  The Chart That Explains Everyone\n                ",
-      "url": "http://www.wnyc.org/story/the-chart-that-explains-everyone-character-alignment/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-28/"
-    },
-    {
-      "text": "\n                  Exit Poll for New York Primary Day;\u00a0New York State Primary Preview;\u00a0Abortion Rights After the Overturn of Roe V. Wade;\u00a0Learning Your Heritage Language\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-28/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
-    },
-    {
-      "text": "\n                  NYS Primary Results; January 6th Surprise Hearing Recap; Sen. Gillibrand on Abortion Rights, Guns & More; Summer Travel\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/all-of-it-2022-06-29/"
-    },
-    {
-      "text": "\n                  Ukrainian Authors, Adam White's 'The Midcoast,' 'Richard III,' Josh Gondelman, Slow Burn on Roe v. Wade\n                ",
-      "url": "http://www.wnyc.org/story/all-of-it-2022-06-29/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-28/"
-    },
-    {
-      "text": "\n                  Exit Poll for New York Primary Day;\u00a0New York State Primary Preview;\u00a0Abortion Rights After the Overturn of Roe V. Wade;\u00a0Learning Your Heritage Language\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-28/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
-    },
-    {
-      "text": "\n                  Meet the NYS Lt. Gov Candidates; Monday Morning Politics: Roe Overturned; COVID Shots for Babies and Toddlers; Does Religious Freedom Apply to Jewish Americans?\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/all-of-it-2022-06-28/"
-    },
-    {
-      "text": "\n                  The Directors of 'Ms. Marvel,' Discussing the Primary Election, Jan 6th Hearing Preview\n                ",
-      "url": "http://www.wnyc.org/story/all-of-it-2022-06-28/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
-    },
-    {
-      "text": "\n                  Meet the NYS Lt. Gov Candidates; Monday Morning Politics: Roe Overturned; COVID Shots for Babies and Toddlers; Does Religious Freedom Apply to Jewish Americans?\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
-    },
-    {
-      "text": "\n                  NYS Primary Results; January 6th Surprise Hearing Recap; Sen. Gillibrand on Abortion Rights, Guns & More; Summer Travel\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-24/"
-    },
-    {
-      "text": "\n                  NYS Reacts to Supreme Court's Gun and Abortion Ruling; Supreme Court Upends Abortion Rights\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-24/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-23/"
-    },
-    {
-      "text": "\n                  Rep. Suozzi Runs for Gov; National Politics; EPA SCOTUS Case; COVID 'Shots for Tots'\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-23/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wqxr.org/story/bates-revolution-steve-jobs-santa-fe-opera/"
-    },
-    {
-      "text": "\n                  Saturday at 1pm: Bates's The (R)evolution of Steve Jobs from Santa Fe Opera\n                ",
-      "url": "http://www.wqxr.org/story/bates-revolution-steve-jobs-santa-fe-opera/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "https://www.thegreenespace.org/event/justin-austin-american-perspectives/"
-    },
-    {
-      "text": "\n            Mon, Jan 13 | Justin Austin: American Perspectives\n          ",
-      "url": "https://www.thegreenespace.org/event/justin-austin-american-perspectives/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "https://www.thegreenespace.org/event/staceyann-chin-june-22/"
-    },
-    {
-      "text": "\n            Wed, June 22 | Staceyann Chin in Residence\n          ",
-      "url": "https://www.thegreenespace.org/event/staceyann-chin-june-22/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "https://thegreenespace.org/watch/pity-these-ashes-tulsa-1921-2021/"
-    },
-    {
-      "text": "\n            Watch Now: Pity These Ashes: Tulsa 1921-2021\n          ",
-      "url": "https://thegreenespace.org/watch/pity-these-ashes-tulsa-1921-2021/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "https://thegreenespace.org/watch/jordan-bak-world-premiere-of-esteban-zapata-folk-songs/"
-    },
-    {
-      "text": "\n            Watch Now: Jordan Bak: World Premiere of Esteban Zapata Folk Songs\n          ",
-      "url": "https://thegreenespace.org/watch/jordan-bak-world-premiere-of-esteban-zapata-folk-songs/"
-    },
-    {
-      "text": "\n                        On Air Schedule\n                      ",
-      "url": "/schedule"
-    },
-    {
-      "text": "\n                        Daily Newsletter\n                      ",
-      "url": "/newsletters"
-    },
-    {
-      "text": "\n                        Events\n                      ",
-      "url": "/events"
-    },
-    {
-      "text": "\n                        Partner Events\n                      ",
-      "url": "/wnyc-partner-events"
-    },
-    {
-      "text": "\n                        Community\n                      ",
-      "url": "/community"
-    },
-    {
-      "text": "\n                        Giveaways\n                      ",
-      "url": "/articles/wnyc-contest-rules"
-    },
-    {
-      "text": "\n                        Weather\n                      ",
-      "url": "/weather"
-    },
-    {
-      "text": "\n                        Download Our Apps\n                      ",
-      "url": "/mobile"
-    },
-    {
-      "text": "\n                        Podcasts\n                      ",
-      "url": "https://www.wnycstudios.org"
-    },
-    {
-      "text": "\n                        Archived Shows\n                      ",
-      "url": "/archives/collections"
-    },
-    {
-      "text": "\n                        Audio Archives\n                      ",
-      "url": "/series/archives-preservation"
-    },
-    {
-      "text": "\n                        Audio Help\n                      ",
-      "url": "/audio/help"
-    },
-    {
-      "text": "\n                        Support Us\n                      ",
-      "url": "https://www.nypublicradio.org/support/"
-    },
-    {
-      "text": "\n                      About Us\n                    ",
-      "url": "/about"
-    },
-    {
-      "text": "\n                      Contact Us / Feedback\n                    ",
-      "url": "/contact"
-    },
-    {
-      "text": "\n                      Become a Sponsor\n                    ",
-      "url": "http://www.nypublicradio.org/underwriting/wnyc"
-    },
-    {
-      "text": "\n                      Careers\n                    ",
-      "url": "/careers"
-    },
-    {
-      "text": "\n                      Diversity (DEI)\n                    ",
-      "url": "https://www.nypublicradio.org/diversity-dei-overview/"
-    },
-    {
-      "text": "\n                      Press\n                    ",
-      "url": "/press"
-    },
-    {
-      "text": "\n                    \n                    Facebook\n                  ",
-      "url": "http://www.facebook.com/wnyc"
-    },
-    {
-      "text": "\n                    \n                    Twitter\n                  ",
-      "url": "http://www.twitter.com/wnyc"
-    },
-    {
-      "text": "\n                    \n                    Instagram\n                  ",
-      "url": "https://www.instagram.com/wnyc"
-    },
-    {
-      "text": "\n                    \n                    YouTube\n                  ",
-      "url": "https://www.youtube.com/user/wnycradio"
-    },
-    {
-      "text": "\n    \n  \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n      \n      \n    \n\n    \n      \n      \n    \n\n    \n      \n      \n      \n    \n\n    \n      \n      \n    \n\n    \n      \n      \n    \n\n    \n      \n    \n  \n  \n    \n    \n    \n    \n    \n  \n\n\n\n",
-      "url": "https://www.nypublicradio.org"
-    },
-    {
-      "text": "\n    \n  \n\n\n\n",
-      "url": "https://www.wnyc.org"
-    },
-    {
-      "text": "\n    \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n    \n      \n    \n\n    \n      \n      \n      \n    \n\n    \n      \n      \n      \n      \n    \n\n    \n      \n    \n\n    \n      \n      \n    \n  \n\n\n\n",
-      "url": "http://gothamist.com"
-    },
-    {
-      "text": "\n    \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n\n\n\n",
-      "url": "https://www.wnycstudios.org"
-    },
-    {
-      "text": "\n    \n  \n  \n  \n  \n  \n  \n  \n  \n\n\n\n",
-      "url": "https://www.wqxr.org"
-    },
-    {
-      "text": "\n    \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n\n\n\n",
-      "url": "https://www.newsounds.org"
-    },
-    {
-      "text": "\n    \nNJPR\n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\n\n",
-      "url": "http://www.njpublicradio.org"
-    },
-    {
-      "text": "\n    \n  \n  .bump { fill: #BBB; }\n  \n\n  \n    \n    \n    \n    \n    \n  \n  \n    \n    \n    \n  \n  \n    \n    \n    \n    \n    \n    \n  \n  \n    \n    \n    \n    \n    \n  \n\n\n\n",
-      "url": "http://www.thegreenespace.org"
-    },
-    {
-      "text": "\u00a9 2022 New York Public Radio",
-      "url": "http://www.newyorkpublicradio.org"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "/terms/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy/"
-    },
-    {
-      "text": "Accessibility",
-      "url": "https://media.wnyc.org/media/resources/2022/May/06/accessibility_policy_5.6.22.pdf"
-    },
-    {
-      "text": "Corrections",
-      "url": "/corrections/"
-    },
-    {
-      "text": "Giveaway\n                      Rules",
-      "url": "/articles/wnyc-contest-rules"
-    },
-    {
-      "text": "WNYC-FM FCC Public File",
-      "url": "https://publicfiles.fcc.gov/fm-profile/wnyc-fm"
-    },
-    {
-      "text": "EEO Report",
-      "url": "https://www.wnyc.org/resources/912769/fcc_eeo_public_file_report.pdf"
-    },
-    {
-      "text": "WNYC-AM FCC Public File",
-      "url": "https://publicfiles.fcc.gov/am-profile/wnyc"
-    }
-  ],
+  "uniq": 1567334340,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

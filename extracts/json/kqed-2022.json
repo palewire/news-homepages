@@ -1,5 +1,5 @@
 {
-  "created": 1656634976,
+  "created": 1656721432,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/kqed-2022",
@@ -1096,31 +1096,115 @@
       "sha1": "ebcd3482986d2e962f6d67486d29722e4bf2e437"
     },
     {
+      "name": "kqed-2022-06-30T18:31:07.492134-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656639070",
+      "size": "28964",
+      "md5": "22727c62a3eef836ef7ab11d98bbdf2e",
+      "crc32": "15b63a30",
+      "sha1": "ccd0b3971677c80a3a1346d3de0904c3dd741ce6",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-30T18:31:07.492134-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656639072",
+      "size": "18345",
+      "md5": "71c09215723e7b9e492395147bdd8347",
+      "crc32": "dc1a3aed",
+      "sha1": "72ef430d64a77fdbe3bdf9bb440126192a2b2296",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-06-30T18:31:07.492134-07:00.jpg",
+      "source": "original",
+      "mtime": "1656639069",
+      "size": "208367",
+      "md5": "960dcf9ce85034486248bb629d5c49a1",
+      "crc32": "e84dcef4",
+      "sha1": "a2d58749cebf3dc81d8b6f8d650cde94ab74ea6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-06-30T18:31:07.492134-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-06-30T18:31:07.492134-07:00.jpg",
+      "mtime": "1656639116",
+      "size": "8862",
+      "md5": "8bd87782e5bd1e0898b9004418feba40",
+      "crc32": "8d091f75",
+      "sha1": "19824d8990cc6da38ed2ba6115b9ced3419386d7"
+    },
+    {
+      "name": "kqed-2022-07-01T06:14:16.623741-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656681259",
+      "size": "28528",
+      "md5": "155e912ad1ab6905deff828c3bdeed41",
+      "crc32": "891f829c",
+      "sha1": "18edcf083b14549c65576ca3b252a077ebcaebc6",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-07-01T06:14:16.623741-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656681260",
+      "size": "18676",
+      "md5": "25acacddb5b9fd0d097bbf64aa7dd46f",
+      "crc32": "e6b767b9",
+      "sha1": "e23192f90883a25f4d5e5f294cd570eb12b70267",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-07-01T06:14:16.623741-07:00.jpg",
+      "source": "original",
+      "mtime": "1656681258",
+      "size": "202722",
+      "md5": "55700d8f0f15a5abd20dea1f23c88253",
+      "crc32": "03524f19",
+      "sha1": "25750857fa18ccac4e115c757ce63b8b41f7c3df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-07-01T06:14:16.623741-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-07-01T06:14:16.623741-07:00.jpg",
+      "mtime": "1656681316",
+      "size": "8827",
+      "md5": "10c5dc0db765204e7372bd050a7a740f",
+      "crc32": "d87f3567",
+      "sha1": "9774a4e283d05baf45b155c75aefadac032dee4a"
+    },
+    {
       "name": "kqed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "296c9d588b689d3fd5f3969cb745fd6d1c1e2be2",
-      "mtime": "1656594568",
-      "size": "22822",
-      "md5": "17e4bece8dc7bec9301d8b0c25073782",
-      "crc32": "be89bc82",
-      "sha1": "ae65d8a998f310e6f9a48b64761eaf4412b87e42",
+      "btih": "403fe01ba7f9e6dda30bfee890c9805412853b12",
+      "mtime": "1656681320",
+      "size": "24468",
+      "md5": "6c9518c3675368bf12b610b29b40130e",
+      "crc32": "2e5c249a",
+      "sha1": "c71e3e9a6f5758bdda6d8d868855170ef03ae4b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kqed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0263a6318adfbec0fd8f4653b1ec7f6",
+      "md5": "8084dd430069795ab7da6836a82557b0",
       "summation": "md5"
     },
     {
       "name": "kqed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656594419",
-      "size": "143360",
-      "md5": "e9cd679dc6c630b2a997b4653c500f33",
-      "crc32": "4c00167d",
-      "sha1": "f0ef988959f4ed754a02fe12ca6afb3b25e5af08",
+      "mtime": "1656681264",
+      "size": "151552",
+      "md5": "8d73ad81b59316bfc099c7e339676dcf",
+      "crc32": "53a9a3b2",
+      "sha1": "6a73e1bdb51bab05ba71bd4898d41a25bd50a9b4",
       "format": "Metadata"
     },
     {
@@ -1134,9 +1218,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 108,
-  "item_last_updated": 1656594568,
-  "item_size": 7503437,
+  "files_count": 116,
+  "item_last_updated": 1656681320,
+  "item_size": 8036566,
   "kqed-2022": [
     {
       "text": "Skip to Nav",
@@ -1463,8 +1547,8 @@
       "url": "/support/volunteer"
     },
     {
-      "text": "Campaign 21",
-      "url": "/campaign21"
+      "text": "Corporate Sponsorship",
+      "url": "/corporate-sponsorship"
     },
     {
       "text": "Twitter",
@@ -1655,15 +1739,15 @@
       "url": "/support/volunteer"
     },
     {
-      "text": "Campaign 21",
-      "url": "/campaign21"
+      "text": "Corporate Sponsorship",
+      "url": "/corporate-sponsorship"
     },
     {
       "text": "Morning Edition",
       "url": "/radio/program/morning-edition"
     },
     {
-      "text": "The Voting Rights Act requires certain jurisdictions across the country to provide election documents in multiple languages. But the law's reach is limited, and speakers of some increasingly popular languages are feeling left out. How local governments are picking up the slack. ",
+      "text": "When it comes to issues like same sex marriage and the separation of church and state, polls show that American voters agree less with the Christian right than in years past. Although the Christian right is at its lowest ebb in cultural influence since the 1980s, analysts say that in state legislatures and in the Supreme Court, the Christian right's political influence is growing. The rise of Christian nationalism.",
       "url": "/radio"
     },
     {
@@ -1679,7 +1763,7 @@
       "url": "/radio/program/morning-edition"
     },
     {
-      "text": "The Voting Rights Act requires certain jurisdictions across the country to provide election documents in multiple languages. But the law's reach is limited, and speakers of some increasingly popular languages are feeling left out. How local governments are picking up the slack. ",
+      "text": "When it comes to issues like same sex marriage and the separation of church and state, polls show that American voters agree less with the Christian right than in years past. Although the Christian right is at its lowest ebb in cultural influence since the 1980s, analysts say that in state legislatures and in the Supreme Court, the Christian right's political influence is growing. The rise of Christian nationalism.",
       "url": "/radio"
     },
     {
@@ -1692,7 +1776,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918216/environmental-groups-line-up-behind-residents-to-try-to-shut-down-diesel-generators-at-oakland-cannabis-facility"
+      "url": "/news/11918317/blacklisted-for-speaking-up-how-california-farmworkers-fighting-abuses-are-vulnerable-to-retaliation"
     },
     {
       "text": "Save Article",
@@ -1700,7 +1784,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918432/pacificas-wwii-prison-camp-has-been-largely-erased-but-it-was-there"
+      "url": "/news/11918529/a-message-from-the-bay-were-taking-july-off"
     },
     {
       "text": "Save Article",
@@ -1708,7 +1792,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918319/wow-south-bay-rep-zoe-lofgren-on-hutchinsons-testimony-about-jan-6-capitol-attack"
+      "url": "/news/11918590/pete-aguilar-on-the-january-6-hearings-and-a-ballot-measure-preview-with-marva-diaz"
     },
     {
       "text": "Save Article",
@@ -1716,7 +1800,7 @@
     },
     {
       "text": "",
-      "url": "/news/11825976/fireworks-2021"
+      "url": "/news/11918268/new-state-budget-will-cover-some-abortion-transportation-costs-but-only-for-travel-within-california"
     },
     {
       "text": "Save Article",
@@ -1724,7 +1808,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918271/california-takes-aim-at-supreme-courts-concealed-gun-ruling"
+      "url": "/news/11918517/supreme-court-sides-with-biden-on-ending-remain-in-mexico-asylum-policy"
     },
     {
       "text": "Save Article",
@@ -1732,7 +1816,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918174/central-valley-group-fears-local-repurcussions-of-abortion-ruling"
+      "url": "/science/1979779/california-climate-rules-wont-be-undercut-by-supreme-courts-ruling-experts-say"
     },
     {
       "text": "Save Article",
@@ -1745,6 +1829,14 @@
     {
       "text": "Science",
       "url": "/science"
+    },
+    {
+      "text": "",
+      "url": "/science/1979779/california-climate-rules-wont-be-undercut-by-supreme-courts-ruling-experts-say"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
     },
     {
       "text": "",
@@ -1757,14 +1849,6 @@
     {
       "text": "",
       "url": "/news/11917541/californians-ready-to-help-people-from-out-of-state-receive-abortion-care-state-may-offer-money-for-travel-child-care"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/science/1979560/cal-fire-fumbles-key-responsibilities-to-prevent-catastrophic-wildfires-despite-historic-budget"
     },
     {
       "text": "Save Article",
@@ -1784,7 +1868,7 @@
     },
     {
       "text": "",
-      "url": "/arts/13915562/r-kelly-is-sentenced-to-30-years-in-prison"
+      "url": "/arts/13915669/filmmaker-maya-cueva-focuses-on-reproductive-rights-and-immigration"
     },
     {
       "text": "Save Article",
@@ -1792,7 +1876,7 @@
     },
     {
       "text": "",
-      "url": "/arts/13915489/gstacks-smokers-barbecue-welder-american-made"
+      "url": "/arts/13914487/the-chinatown-nightclub-dancer-who-helped-squash-asian-stereotypes"
     },
     {
       "text": "Save Article",
@@ -1800,7 +1884,7 @@
     },
     {
       "text": "",
-      "url": "/arts/13915543/as-inflation-gets-worse-the-99\u00a2-iced-tea-persists"
+      "url": "/arts/13915289/hip-hop-songs-lyrics-abortion"
     },
     {
       "text": "Save Article",
@@ -1852,6 +1936,14 @@
     },
     {
       "text": "",
+      "url": "/news/11918382/starting-friday-thousands-of-california-tenants-still-waiting-on-rent-relief-can-be-evicted"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
       "url": "/news/11917071/more-california-cities-are-outlawing-harassment-by-landlords"
     },
     {
@@ -1875,16 +1967,24 @@
       "url": "#"
     },
     {
+      "text": "More Housing Affordability",
+      "url": "/housing"
+    },
+    {
       "text": "",
-      "url": "/news/11914765/your-biggest-ideas-on-how-to-solve-the-housing-crisis"
+      "url": "/arts/13915669/filmmaker-maya-cueva-focuses-on-reproductive-rights-and-immigration"
     },
     {
       "text": "Save Article",
       "url": "#"
     },
     {
-      "text": "More Housing Affordability",
-      "url": "/housing"
+      "text": "",
+      "url": "/news/11918317/blacklisted-for-speaking-up-how-california-farmworkers-fighting-abuses-are-vulnerable-to-retaliation"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
     },
     {
       "text": "",
@@ -1897,22 +1997,6 @@
     {
       "text": "",
       "url": "/news/11917597/immigrant-detainees-strike-over-working-conditions-california-regulators-investigate"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11917125/bay-area-daca-recipients-have-mixed-emotions-on-10-year-anniversary"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11914800/newsom-wants-to-expand-medi-cal-to-all-undocumented-immigrants-by-2024-advocates-say-they-need-it-sooner"
     },
     {
       "text": "Save Article",
@@ -1964,7 +2048,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918432/pacificas-wwii-prison-camp-has-been-largely-erased-but-it-was-there"
+      "url": "/news/11918529/a-message-from-the-bay-were-taking-july-off"
     },
     {
       "text": "Save Article",
@@ -1972,7 +2056,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918319/wow-south-bay-rep-zoe-lofgren-on-hutchinsons-testimony-about-jan-6-capitol-attack"
+      "url": "/news/11918590/pete-aguilar-on-the-january-6-hearings-and-a-ballot-measure-preview-with-marva-diaz"
     },
     {
       "text": "Save Article",
@@ -1980,7 +2064,7 @@
     },
     {
       "text": "",
-      "url": "/news/11825976/fireworks-2021"
+      "url": "/news/11918268/new-state-budget-will-cover-some-abortion-transportation-costs-but-only-for-travel-within-california"
     },
     {
       "text": "Save Article",
@@ -1988,7 +2072,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918216/environmental-groups-line-up-behind-residents-to-try-to-shut-down-diesel-generators-at-oakland-cannabis-facility"
+      "url": "/news/11918517/supreme-court-sides-with-biden-on-ending-remain-in-mexico-asylum-policy"
     },
     {
       "text": "Save Article",
@@ -1996,7 +2080,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918271/california-takes-aim-at-supreme-courts-concealed-gun-ruling"
+      "url": "/science/1979779/california-climate-rules-wont-be-undercut-by-supreme-courts-ruling-experts-say"
     },
     {
       "text": "Save Article",
@@ -2004,7 +2088,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918174/central-valley-group-fears-local-repurcussions-of-abortion-ruling"
+      "url": "/news/11918230/grand-jury-major-health-and-safety-violations-at-santa-rita-jail-require-urgent-attention"
     },
     {
       "text": "Save Article",
@@ -2012,7 +2096,7 @@
     },
     {
       "text": "",
-      "url": "/news/11918231/were-here-weve-been-here-we-will-continue-to-be-here"
+      "url": "/news/11917301/why-several-bay-area-shelters-are-waiving-adoption-fees-this-summer"
     },
     {
       "text": "Save Article",
@@ -2160,7 +2244,7 @@
     "addeddate": "2022-06-24 22:56:44"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 598108125,
+  "uniq": 621289244,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

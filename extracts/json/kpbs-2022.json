@@ -1,5 +1,5 @@
 {
-  "created": 1656634972,
+  "created": 1656721426,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/6/items/kpbs-2022",
@@ -8384,31 +8384,199 @@
       "sha1": "76572b2e04786343659360b5958308a81e70aad1"
     },
     {
+      "name": "kpbs-2022-06-30T18:31:41.623975-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656639106",
+      "size": "25997",
+      "md5": "f4ae57c6b5f105123c601faac4465d3e",
+      "crc32": "496a2b1c",
+      "sha1": "0f0686c94512051e1ad3df0542b002592286c645",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T18:31:41.623975-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656639107",
+      "size": "38968",
+      "md5": "757b80b803144d940c68c9c461a379c0",
+      "crc32": "0830d3b2",
+      "sha1": "5bcdc7321c5132b53e56845aa2e37b26606e7e9b",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T18:31:41.623975-07:00.jpg",
+      "source": "original",
+      "mtime": "1656639105",
+      "size": "331072",
+      "md5": "c5f1b5261908da28f39395c052ddca7c",
+      "crc32": "2f778b20",
+      "sha1": "5b724a2a520c703ce1dff47dbe44f24ae70c0f9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-30T18:31:41.623975-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-30T18:31:41.623975-07:00.jpg",
+      "mtime": "1656639167",
+      "size": "10769",
+      "md5": "57487f0279b59e1f21a96b805213456a",
+      "crc32": "c411eded",
+      "sha1": "64805931f527d355a0775abf26e6a8c1770cb43c"
+    },
+    {
+      "name": "kpbs-2022-06-30T20:01:08.142065-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656644473",
+      "size": "25918",
+      "md5": "ef4516ae8f7f860c66024fdc61d65ec9",
+      "crc32": "927d947b",
+      "sha1": "a807d232be539ec06a06de149a28a90f838f1335",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T20:01:08.142065-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656644476",
+      "size": "38744",
+      "md5": "1de46a153bbfc518c47c32a6d91a5ba1",
+      "crc32": "eaf23b0d",
+      "sha1": "568dd5b8d2c169a695971c0290e34e7fd51a49dd",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-06-30T20:01:08.142065-07:00.jpg",
+      "source": "original",
+      "mtime": "1656644471",
+      "size": "331440",
+      "md5": "e9c7dafdda48c41bce23bcbbc0b8ce8e",
+      "crc32": "01c232ff",
+      "sha1": "c96d95bd2ea37eb7bdabd2a937eaca7398ba3274",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-06-30T20:01:08.142065-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-06-30T20:01:08.142065-07:00.jpg",
+      "mtime": "1656644527",
+      "size": "10759",
+      "md5": "c23a3404174a70a77cc072bc8be2a0f5",
+      "crc32": "ebe78fc7",
+      "sha1": "3fb36db4468f5120cb4b73d32141a663ed5afc0c"
+    },
+    {
+      "name": "kpbs-2022-07-01T06:13:30.952708-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656681219",
+      "size": "24143",
+      "md5": "2cd15c44d9a213a70169a7bff1ef249a",
+      "crc32": "6fedc3dc",
+      "sha1": "1e279d9947665bff6ee99cf78bd9f015001acfe3",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-01T06:13:30.952708-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656681221",
+      "size": "37696",
+      "md5": "b8709a4d4a768884c39ca2208c743423",
+      "crc32": "351bad74",
+      "sha1": "2ee7002171235c8b1328b5b426095a532ac74161",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-01T06:13:30.952708-07:00.jpg",
+      "source": "original",
+      "mtime": "1656681218",
+      "size": "339090",
+      "md5": "d4b98c950595f0177a14f48edb6afb07",
+      "crc32": "09ca22db",
+      "sha1": "7174eb5309b73e2e3cf45f43319a7ac9292a380e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-07-01T06:13:30.952708-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-07-01T06:13:30.952708-07:00.jpg",
+      "mtime": "1656681322",
+      "size": "10411",
+      "md5": "fa44a285ef92289bbfbc0194d765719c",
+      "crc32": "4c2129cf",
+      "sha1": "4ef60d998dfa6677876ab4495c2d396835bcf2b2"
+    },
+    {
+      "name": "kpbs-2022-07-01T11:08:58.099439-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656698947",
+      "size": "24084",
+      "md5": "1bad5bc5982043b4fbe35a42c573b8bc",
+      "crc32": "967d5533",
+      "sha1": "04f508e7edf27b76cb4bfe42c4fde8a1be11848e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-01T11:08:58.099439-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656698949",
+      "size": "37295",
+      "md5": "33605f88443992196c7a71b09b06e222",
+      "crc32": "ea3ada61",
+      "sha1": "23f4ca95c31bfc18f62370ac0a7b3c18392ed422",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-01T11:08:58.099439-07:00.jpg",
+      "source": "original",
+      "mtime": "1656698945",
+      "size": "252326",
+      "md5": "b3e46e856ad2eb900c1246761414e3a6",
+      "crc32": "e38f643a",
+      "sha1": "b78776ea02af6e27ef4778f06c3e147009a55e28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-07-01T11:08:58.099439-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-07-01T11:08:58.099439-07:00.jpg",
+      "mtime": "1656699024",
+      "size": "9921",
+      "md5": "e5e92496e78cb087d3c35d9e103a9352",
+      "crc32": "470cc283",
+      "sha1": "d827112f9c7fa2d77bd3216489b285a12e0a4cd9"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08001f135ca35cd9e24fe764ff658a7ff5d12336",
-      "mtime": "1656620735",
-      "size": "166388",
-      "md5": "44770aa3329cedd495c4a6d787264e3e",
-      "crc32": "60fac9df",
-      "sha1": "0ea430eb08df1858da815054122d75166157e8c0",
+      "btih": "58d6c077ed072032f46e30d1e8c8b3abc02c4afb",
+      "mtime": "1656699038",
+      "size": "169703",
+      "md5": "f9475b9fd8b836e0b3022979a8ee3607",
+      "crc32": "bf2117a3",
+      "sha1": "4b9fd88af4af496a10a738ca763b9755ae33638d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0203901c184379956eeb2146f7c6f797",
+      "md5": "609c58bbed1b436637c5511030928b19",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656620668",
-      "size": "913408",
-      "md5": "fdd7c7e188d75f56865910b362e9b1a0",
-      "crc32": "a67a40de",
-      "sha1": "6fbb635fcb7d09d2428c0ecd0ede303b10a9233a",
+      "mtime": "1656698956",
+      "size": "933888",
+      "md5": "c8cd6ccad799530c90d44740959e657e",
+      "crc32": "19cfc427",
+      "sha1": "ed3d6f62a57646d6b081ebab10e9ee33d2fc5367",
       "format": "Metadata"
     },
     {
@@ -8422,9 +8590,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 801,
-  "item_last_updated": 1656620735,
-  "item_size": 81604270,
+  "files_count": 817,
+  "item_last_updated": 1656699038,
+  "item_size": 83176698,
   "kpbs-2022": [
     {
       "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
@@ -8759,12 +8927,12 @@
       "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
     },
     {
-      "text": "The World ",
-      "url": "https://www.pri.org/programs/the-world"
+      "text": "The Takeaway",
+      "url": "http://www.wnyc.org/shows/takeaway"
     },
     {
-      "text": "1A",
-      "url": "https://the1a.org/"
+      "text": "KPBS Midday Edition",
+      "url": "https://www.kpbs.org/news/midday-edition/"
     },
     {
       "text": "Full Schedule\n                            ",
@@ -9091,76 +9259,56 @@
       "url": "https://www.kpbs.org/tags/elecciones"
     },
     {
-      "text": "\n    \n        \n            \n                \n                    \n                        \n\n\n\n    \n\n\n\n                    \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
-    },
-    {
-      "text": " Today is the last day of our fiscal year! Your donation now helps bring independent news, educational documentaries and irresistible dramas for another year. Become a sustaining member today!",
-      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
-    },
-    {
-      "text": " \u2665 Give Now!",
-      "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
-    },
-    {
       "text": "Top Stories\n                ",
       "url": "https://www.kpbs.org/news/local"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-sides-with-the-biden-administration-in-remain-in-mexico-case"
-    },
-    {
-      "text": "National",
-      "url": "https://www.kpbs.org/news/national"
-    },
-    {
-      "text": "Supreme Court sides with the Biden administration in 'Remain in Mexico' case",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-sides-with-the-biden-administration-in-remain-in-mexico-case"
-    },
-    {
-      "text": "Supreme Court restricts the EPA's authority to mandate carbon emissions reductions",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-restricts-the-epas-authority-to-mandate-carbon-emissions"
-    },
-    {
-      "text": "How the Supreme Court could radically reshape elections for president and Congress",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/how-the-supreme-court-could-radically-reshape-elections-for-president-and-congress"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/border-immigration/2022/06/30/mexican-abortion-clinics-bracing-influx-americans"
-    },
-    {
-      "text": "Border & Immigration",
-      "url": "https://www.kpbs.org/news/border-immigration"
-    },
-    {
-      "text": "Mexican abortion clinics bracing for influx of Americans",
-      "url": "https://www.kpbs.org/news/border-immigration/2022/06/30/mexican-abortion-clinics-bracing-influx-americans"
-    },
-    {
-      "text": "Gustavo Solis",
-      "url": "https://www.kpbs.org/staff/gustavo-solis"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/06/29/california-one-step-closer-to-constitutional-amendment-protecting-abortion-rights"
+      "url": "https://www.kpbs.org/news/local/2022/06/30/pandemic-and-inflation-push-some-california-hospitals-to-financial-edge"
     },
     {
       "text": "Local",
       "url": "https://www.kpbs.org/news/local"
     },
     {
-      "text": "California one step closer to constitutional amendment protecting abortion rights",
-      "url": "https://www.kpbs.org/news/local/2022/06/29/california-one-step-closer-to-constitutional-amendment-protecting-abortion-rights"
+      "text": "Pandemic and inflation push some California hospitals to financial edge",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/pandemic-and-inflation-push-some-california-hospitals-to-financial-edge"
     },
     {
-      "text": "Maureen Cavanaugh",
-      "url": "https://www.kpbs.org/staff/maureen-cavanaugh"
+      "text": "Matt Hoffman",
+      "url": "https://www.kpbs.org/staff/matt-hoffman"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/midday-edition/2022/06/30/q-a-what-to-know-about-new-coronavirus-variants"
+    },
+    {
+      "text": "KPBS Midday Edition",
+      "url": "https://www.kpbs.org/news/midday-edition"
+    },
+    {
+      "text": "Q&A: What to know about new coronavirus variants",
+      "url": "https://www.kpbs.org/news/midday-edition/2022/06/30/q-a-what-to-know-about-new-coronavirus-variants"
+    },
+    {
+      "text": "Jade Hindmon",
+      "url": "https://www.kpbs.org/staff/jade-hindmon"
     },
     {
       "text": "Andrew Bracken",
       "url": "https://www.kpbs.org/staff/andrew-bracken"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/07/01/abortion-rights-advocates-in-the-13-trigger-law-states-refuse-to-give-up-post-roe"
+    },
+    {
+      "text": "National",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "Abortion-rights advocates in the 13 trigger law states refuse to give up post-Roe",
+      "url": "https://www.kpbs.org/news/national/2022/07/01/abortion-rights-advocates-in-the-13-trigger-law-states-refuse-to-give-up-post-roe"
     },
     {
       "text": "\n    \n        \n            \n                \n                    \n                        \n\n\n\n    \n\n\n\n                    \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -9172,15 +9320,15 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/san-diegos-climate-action-plan"
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/remain-in-mexico-ruling"
     },
     {
-      "text": "San Diego\u2019s climate action plan",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/san-diegos-climate-action-plan"
+      "text": "Remain in Mexico ruling",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/remain-in-mexico-ruling"
     },
     {
       "text": "Read More",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/san-diegos-climate-action-plan"
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/remain-in-mexico-ruling"
     },
     {
       "text": "Local News\n                ",
@@ -9188,35 +9336,11 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/06/30/controversial-pigs-as-police-art-installation-in-escondido-wont-be-removed"
+      "url": "https://www.kpbs.org/news/local/2022/07/01/free-transit-fare-pilot-program-for-foster-care-youth-goes-into-effect"
     },
     {
-      "text": "Controversial 'pigs as police' art installation in Escondido won't be removed",
-      "url": "https://www.kpbs.org/news/local/2022/06/30/controversial-pigs-as-police-art-installation-in-escondido-wont-be-removed"
-    },
-    {
-      "text": "Tania  Thorne",
-      "url": "https://www.kpbs.org/staff/tania-thorne"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/06/30/san-diego-weekend-arts-events-oma-auction-sauced-lora-mathis-black-panther"
-    },
-    {
-      "text": "San Diego weekend arts events: OMA auction, 'Sauced,' Lora Mathis, 'Black Panther' and more",
-      "url": "https://www.kpbs.org/news/local/2022/06/30/san-diego-weekend-arts-events-oma-auction-sauced-lora-mathis-black-panther"
-    },
-    {
-      "text": "Julia Dixon Evans",
-      "url": "https://www.kpbs.org/staff/julia-dixon-evans"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/06/30/chp-plans-annual-fourth-of-july-maximum-enforcement-campaign"
-    },
-    {
-      "text": "CHP plans annual Fourth of July 'maximum enforcement' campaign",
-      "url": "https://www.kpbs.org/news/local/2022/06/30/chp-plans-annual-fourth-of-july-maximum-enforcement-campaign"
+      "text": "Free transit fare pilot program for foster care youth goes into effect",
+      "url": "https://www.kpbs.org/news/local/2022/07/01/free-transit-fare-pilot-program-for-foster-care-youth-goes-into-effect"
     },
     {
       "text": "City News Service",
@@ -9224,11 +9348,35 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-says-several-gun-cases-deserve-a-new-look"
+      "url": "https://www.kpbs.org/news/local/2022/07/01/child-covid-19-vaccination-rates-lag-behind-general-population-county-says"
     },
     {
-      "text": "Supreme Court says several gun cases deserve a new look",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-says-several-gun-cases-deserve-a-new-look"
+      "text": "Child COVID-19 vaccination rates lag behind general population, county says",
+      "url": "https://www.kpbs.org/news/local/2022/07/01/child-covid-19-vaccination-rates-lag-behind-general-population-county-says"
+    },
+    {
+      "text": "City News Service",
+      "url": "https://www.kpbs.org/staff/city-news-service"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/07/01/california-first-to-cover-health-care-for-all-immigrants"
+    },
+    {
+      "text": "California first to cover health care for all immigrants",
+      "url": "https://www.kpbs.org/news/local/2022/07/01/california-first-to-cover-health-care-for-all-immigrants"
+    },
+    {
+      "text": "Adam Beam and Don Thompson / Associated Press",
+      "url": "https://newsroom.ap.org/home/search/?query=byline:%22ADAM%20BEAM%20and%20DON%20THOMPSON%22&mediaType=text&st=keyword&sortOrder=newest"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/07/01/san-diego-county-to-pay-8-1-million-for-unarmed-mans-death"
+    },
+    {
+      "text": "San Diego County to pay $8.1 million for unarmed man's death\n",
+      "url": "https://www.kpbs.org/news/local/2022/07/01/san-diego-county-to-pay-8-1-million-for-unarmed-mans-death"
     },
     {
       "text": "National News\n                ",
@@ -9236,51 +9384,51 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/election-deniers-have-taken-their-fraud-theories-on-tour-to-nearly-every-state"
-    },
-    {
-      "text": "National",
-      "url": "https://www.kpbs.org/news/national"
-    },
-    {
-      "text": "Election deniers have taken their fraud theories on tour \u2014 to nearly every state",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/election-deniers-have-taken-their-fraud-theories-on-tour-to-nearly-every-state"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/06/30/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-began"
+      "url": "https://www.kpbs.org/news/international/2022/07/01/shredded-trees-dead-dolphins-and-wildfires-how-russias-invasion-is-hurting-nature"
     },
     {
       "text": "International",
       "url": "https://www.kpbs.org/news/international"
     },
     {
-      "text": "Scientists say they've solved a 700-year-old mystery: Where and when Black Death began",
-      "url": "https://www.kpbs.org/news/international/2022/06/30/scientists-say-theyve-solved-a-700-year-old-mystery-where-and-when-black-death-began"
+      "text": "Shredded trees, dead dolphins and wildfires \u2014 how Russia's invasion is hurting nature",
+      "url": "https://www.kpbs.org/news/international/2022/07/01/shredded-trees-dead-dolphins-and-wildfires-how-russias-invasion-is-hurting-nature"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/the-u-s-is-facing-a-domestic-threat-from-trump-liz-cheney-says"
+      "url": "https://www.kpbs.org/news/national/2022/07/01/nonwhite-americans-are-eating-less-meat-vegan-activists-of-color-explain-why"
     },
     {
       "text": "National",
       "url": "https://www.kpbs.org/news/national"
     },
     {
-      "text": "The U.S. is facing a domestic threat from Trump, Liz Cheney says",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/the-u-s-is-facing-a-domestic-threat-from-trump-liz-cheney-says"
+      "text": "Nonwhite Americans are eating less meat. Vegan activists of color explain why",
+      "url": "https://www.kpbs.org/news/national/2022/07/01/nonwhite-americans-are-eating-less-meat-vegan-activists-of-color-explain-why"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/06/30/mariupol-theater-bombing-was-a-clear-war-crime-amnesty-international-says"
+      "url": "https://www.kpbs.org/news/international/2022/07/01/the-hong-kong-handover-turns-25-so-does-an-entire-generation"
     },
     {
       "text": "International",
       "url": "https://www.kpbs.org/news/international"
     },
     {
-      "text": "Mariupol theater bombing was a clear war crime, Amnesty International says",
-      "url": "https://www.kpbs.org/news/international/2022/06/30/mariupol-theater-bombing-was-a-clear-war-crime-amnesty-international-says"
+      "text": "The Hong Kong handover turns 25. So does an entire generation. ",
+      "url": "https://www.kpbs.org/news/international/2022/07/01/the-hong-kong-handover-turns-25-so-does-an-entire-generation"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/07/01/the-simpsons-production-workers-say-they-deserve-a-place-at-the-table"
+    },
+    {
+      "text": "National",
+      "url": "https://www.kpbs.org/news/national"
+    },
+    {
+      "text": "'The Simpsons' production workers go union, saying they deserve a place at the table",
+      "url": "https://www.kpbs.org/news/national/2022/07/01/the-simpsons-production-workers-say-they-deserve-a-place-at-the-table"
     },
     {
       "text": "Overturning of Roe v. Wade\n                ",
@@ -9312,19 +9460,15 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/2022/05/02/out-of-the-boondocks"
+      "url": "https://www.kpbs.org/news/2022/06/29/kpbs-arts-a-local-playwright-and-a-folk-punk-band"
     },
     {
-      "text": "OUT OF THE BOONDOCKS",
-      "url": "https://www.kpbs.org/news/2022/05/02/out-of-the-boondocks"
+      "text": "KPBS/Arts: A Local Playwright and a Folk-Punk Band",
+      "url": "https://www.kpbs.org/news/2022/06/29/kpbs-arts-a-local-playwright-and-a-folk-punk-band"
     },
     {
-      "text": "Expect a Miracle: Finding Light in The Darkness of a Pandemic",
-      "url": "https://www.kpbs.org/news/arts-culture/2020/06/03/expect-miracle-finding-light-darkness-pandemic"
-    },
-    {
-      "text": "MIDSOMER MURDERS: Season 19 ",
-      "url": "https://www.kpbs.org/news/arts-culture/2021/06/08/midsomer-murders-season-19"
+      "text": "WASHINGTON WEEK",
+      "url": "https://www.kpbs.org/news/arts-culture/2009/08/04/washington-week-gwen-ifill-and-national-journal"
     },
     {
       "text": "THE GREAT AMERICAN RECIPE",
@@ -9333,6 +9477,14 @@
     {
       "text": "THE FOOD FLIRTS",
       "url": "https://www.kpbs.org/news/arts-culture/2017/11/21/food-flirts"
+    },
+    {
+      "text": "AMERICAN ANTHEMS",
+      "url": "https://www.kpbs.org/news/2022/06/21/american-anthems"
+    },
+    {
+      "text": "LIVE AT THE BELLY UP: Jake Shimabukuro",
+      "url": "https://www.kpbs.org/news/2022/05/10/live-at-the-belly-up-jake-shimabukuro"
     },
     {
       "text": "Health\n                ",
@@ -9348,6 +9500,14 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/border-immigration/2022/06/30/mexican-abortion-clinics-bracing-influx-americans"
+    },
+    {
+      "text": "Mexican abortion clinics bracing for influx of Americans",
+      "url": "https://www.kpbs.org/news/border-immigration/2022/06/30/mexican-abortion-clinics-bracing-influx-americans"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
       "url": "https://www.kpbs.org/news/local/2022/06/29/scripps-health-urges-covid-caution-over-fourth-of-july-weekend"
     },
     {
@@ -9355,40 +9515,32 @@
       "url": "https://www.kpbs.org/news/local/2022/06/29/scripps-health-urges-covid-caution-over-fourth-of-july-weekend"
     },
     {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/06/29/californias-change-to-concealed-carry-permits-would-reduce-wide-variations-among-counties"
-    },
-    {
-      "text": "California\u2019s change to concealed carry permits would reduce wide variations among counties\n",
-      "url": "https://www.kpbs.org/news/local/2022/06/29/californias-change-to-concealed-carry-permits-would-reduce-wide-variations-among-counties"
-    },
-    {
       "text": "Politics\n                ",
       "url": "https://www.kpbs.org/news/politics"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/06/30/ukraine-wins-back-control-over-snake-island"
+      "url": "https://www.kpbs.org/news/environment/2022/06/30/san-diego-county-unveils-a-new-warning-system-for-ocean-pollution"
     },
     {
-      "text": "Ukraine wins back control over Snake Island",
-      "url": "https://www.kpbs.org/news/international/2022/06/30/ukraine-wins-back-control-over-snake-island"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/nuclear-power-is-gaining-support-after-years-of-decline-but-old-hurdles-remain"
-    },
-    {
-      "text": "Nuclear power is gaining support after years of decline. But old hurdles remain",
-      "url": "https://www.kpbs.org/news/national/2022/06/30/nuclear-power-is-gaining-support-after-years-of-decline-but-old-hurdles-remain"
+      "text": "San Diego County unveils a new warning system for ocean pollution",
+      "url": "https://www.kpbs.org/news/environment/2022/06/30/san-diego-county-unveils-a-new-warning-system-for-ocean-pollution"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/06/29/dictators-son-ferdinand-marcos-jr-takes-oath-as-philippine-president"
+      "url": "https://www.kpbs.org/news/local/2022/06/30/to-avoid-blackouts-california-may-tap-fossil-fuel-plants"
     },
     {
-      "text": "Dictator's son Ferdinand Marcos Jr. takes oath as Philippine president",
-      "url": "https://www.kpbs.org/news/international/2022/06/29/dictators-son-ferdinand-marcos-jr-takes-oath-as-philippine-president"
+      "text": "To avoid blackouts, California may tap fossil fuel plants",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/to-avoid-blackouts-california-may-tap-fossil-fuel-plants"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-says-several-gun-cases-deserve-a-new-look"
+    },
+    {
+      "text": "Supreme Court says several gun cases deserve a new look",
+      "url": "https://www.kpbs.org/news/national/2022/06/30/supreme-court-says-several-gun-cases-deserve-a-new-look"
     },
     {
       "text": "Arts & Culture\n                ",
@@ -9396,27 +9548,27 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/06/29/wildsong-stages-jekyll-and-hyde-at-ob-playhouse"
+      "url": "https://www.kpbs.org/news/local/2022/06/30/fireworks-drone-events-set-across-san-diego-for-july-4th"
     },
     {
-      "text": "Wildsong stages 'Jekyll and Hyde' at OB Playhouse",
-      "url": "https://www.kpbs.org/news/local/2022/06/29/wildsong-stages-jekyll-and-hyde-at-ob-playhouse"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/06/27/thumbprint-gallery-celebrates-13th-anniversary"
-    },
-    {
-      "text": "Thumbprint Gallery celebrates 13th anniversary",
-      "url": "https://www.kpbs.org/news/local/2022/06/27/thumbprint-gallery-celebrates-13th-anniversary"
+      "text": "Fireworks, drone events set across San Diego for July 4th",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/fireworks-drone-events-set-across-san-diego-for-july-4th"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/arts-culture/2022/06/24/this-weekend-elvis-or-the-black-phone"
+      "url": "https://www.kpbs.org/news/local/2022/06/30/spider-man-swings-into-comic-con-museum"
     },
     {
-      "text": "This weekend: 'Elvis' or 'The Black Phone'",
-      "url": "https://www.kpbs.org/news/arts-culture/2022/06/24/this-weekend-elvis-or-the-black-phone"
+      "text": "Spider-Man swings into Comic-Con Museum",
+      "url": "https://www.kpbs.org/news/local/2022/06/30/spider-man-swings-into-comic-con-museum"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/arts-culture/2022/06/30/artist-kenya-robinson-counter-surveillance-curriculum-local-youth"
+    },
+    {
+      "text": "Groundbreaking artist Kenya (Robinson) leading 'Counter Surveillance' curriculum for at-risk local youth",
+      "url": "https://www.kpbs.org/news/arts-culture/2022/06/30/artist-kenya-robinson-counter-surveillance-curriculum-local-youth"
     },
     {
       "text": "Community Events\n                ",
@@ -9424,19 +9576,11 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/06/30/three-dog-night-in-concert-of-hope-for-homeless-youth"
+      "url": "https://www.kpbs.org/events/ongoing/july-4th-carnival-fireworks-2022-national-city"
     },
     {
-      "text": "Three Dog Night in Concert of Hope for Homeless Youth",
-      "url": "https://www.kpbs.org/events/2022/06/30/three-dog-night-in-concert-of-hope-for-homeless-youth"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/07/02/crown-city-classic-12k-5k"
-    },
-    {
-      "text": "Crown City Classic 12K & 5K",
-      "url": "https://www.kpbs.org/events/2022/07/02/crown-city-classic-12k-5k"
+      "text": "July 4th Carnival & Fireworks 2022: National City",
+      "url": "https://www.kpbs.org/events/ongoing/july-4th-carnival-fireworks-2022-national-city"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -9448,11 +9592,19 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/07/04/coronado-fourth-of-july-fireworks-and-parade"
+      "url": "https://www.kpbs.org/events/2022/07/04/sprit-of-the-fourth-community-fair-parade"
     },
     {
-      "text": "Coronado Fourth of July Fireworks and Parade",
-      "url": "https://www.kpbs.org/events/2022/07/04/coronado-fourth-of-july-fireworks-and-parade"
+      "text": "Spirit of the Fourth Community Fair & Parade ",
+      "url": "https://www.kpbs.org/events/2022/07/04/sprit-of-the-fourth-community-fair-parade"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/events/2022/07/04/chula-vista-4th-fest"
+    },
+    {
+      "text": "Chula Vista 4th Fest",
+      "url": "https://www.kpbs.org/events/2022/07/04/chula-vista-4th-fest"
     },
     {
       "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
@@ -9567,10 +9719,10 @@
     "publicdate": "2022-03-24 02:06:19",
     "addeddate": "2022-03-24 02:06:19"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 38367163,
+  "server": "ia802500.us.archive.org",
+  "uniq": 878808866,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

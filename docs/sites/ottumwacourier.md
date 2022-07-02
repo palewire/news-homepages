@@ -17,7 +17,7 @@ orphan: true
 | Location       | Ottumwa                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 27 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
