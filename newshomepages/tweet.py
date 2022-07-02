@@ -1,3 +1,4 @@
+import json
 import os
 import time
 from datetime import datetime
@@ -15,6 +16,35 @@ from . import utils
 def cli():
     """Send a tweet."""
     pass
+
+
+@cli.command()
+def status_report():
+    """Tweet a periodic status report."""
+    # Connect to Twitter
+    api = get_twitter_client()
+
+    # Template out the tweet
+    data = json.load(open(utils.NOTEBOOKS_DIR / "status-report.json"))
+    msg = f"""🤖🖨️ STATUS REPORT 🖨️🤖
+
+Over the last 7️⃣ days, this bot has saved {utils.numoji(data['screenshots_this_week'])} screenshots from {utils.numoji(data['total_sites'])} sites.
+
+In total, it has deposited {utils.numoji(data['total_screenshots'])} screenshots with archive.org.
+"""
+
+    image_list = [
+        utils.NOTEBOOKS_DIR / "screenshots-by-date.png",
+        utils.NOTEBOOKS_DIR / "sites-by-date.png",
+    ]
+    media_list = []
+    for image_path in image_list:
+        # Upload the image
+        io = open(image_path, "rb")
+        media_id = api.UploadMediaSimple(io)
+        media_list.append(media_id)
+
+    api.PostUpdate(msg, media=media_list)
 
 
 @cli.command()

@@ -41,3 +41,23 @@ jobs:
           git add ./notebooks
           git commit -m "Status report data update" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
+
+  tweet:
+    name: Tweet GIF mosaic
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [calculate]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: tweet
+        name: Tweet
+        uses: ./.github/actions/tweet
+        with:
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          command: status-report

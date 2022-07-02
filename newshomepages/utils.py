@@ -12,6 +12,7 @@ SITES_PATH = SOURCES_PATH / "sites.csv"
 BUNDLES_PATH = SOURCES_PATH / "bundles.csv"
 EXTENSIONS_PATH = THIS_DIR / "extensions"
 EXTRACT_DIR = THIS_DIR.parent / "extracts"
+NOTEBOOKS_DIR = THIS_DIR.parent / "notebooks"
 
 
 def get_site_list() -> typing.List[typing.Dict]:
