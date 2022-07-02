@@ -38,6 +38,10 @@ Commands
    :prog: hyperlinks
    :nested: full
 
+.. click:: newshomepages.mosaic:cli
+   :prog: mosaic
+   :nested: full
+
 .. click:: newshomepages.rss:cli
    :prog: rss
    :nested: full
