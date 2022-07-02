@@ -186,3 +186,20 @@ jobs:
           access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
           access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
           command: bundle bay-area
+
+  telegram:
+    name: Post JPG mosaic to Telegram
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [mosaic]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: telegram
+        name: Telegram
+        uses: ./.github/actions/telegram
+        with:
+          api-key: ${{ secrets.TELEGRAM_API_KEY }}
+          command: bundle bay-area

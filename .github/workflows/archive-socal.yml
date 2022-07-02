@@ -197,8 +197,8 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: tweet
-        name: Tweet
+      - id: telegram
+        name: Telegram
         uses: ./.github/actions/telegram
         with:
           api-key: ${{ secrets.TELEGRAM_API_KEY }}

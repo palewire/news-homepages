@@ -23,7 +23,7 @@ runs:
 
     - id: telegram
       name: Telegram
-      run: pipenv run python -m newshomepages.telegrammer ${{ inputs.command }} -i _/input
+      run: pipenv run python -m newshomepages.telegrammer ${{ inputs.command }} -i ./_input
       shell: bash
       env:
         TELEGRAM_API_KEY: ${{ inputs.api-key }}
