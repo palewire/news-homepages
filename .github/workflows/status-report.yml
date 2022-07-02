@@ -52,12 +52,16 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
       - id: tweet
         name: Tweet
-        uses: ./.github/actions/tweet
-        with:
-          consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
-          consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-          access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
-          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-          command: status-report
+        run: pipenv run python -m newshomepages.tweet status-report
+        shell: bash
+        env:
+          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
