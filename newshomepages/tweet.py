@@ -24,6 +24,17 @@ def status_report():
     # Connect to Twitter
     api = get_twitter_client()
 
+    # Get the timestamp
+    now = datetime.now()
+
+    # Convert it to local time
+    tz = pytz.timezone("America/Los_Angeles")
+    now_local = now.astimezone(tz)
+
+    # Set hashtags
+    date_str = now_local.strftime("%Y%m%d")
+    hashtags = f"#statusreport #date{date_str}"
+
     # Template out the tweet
     data = json.load(open(utils.NOTEBOOKS_DIR / "status-report.json"))
     msg = f"""🤖🖨️ STATUS REPORT 🖨️🤖
@@ -31,6 +42,8 @@ def status_report():
 Over the last 7️⃣ days, this bot has saved {utils.numoji(data['screenshots_this_week'])} screenshots from {utils.numoji(data['total_sites'])} sites.
 
 In total, it has deposited {utils.numoji(data['total_screenshots'])} screenshots with archive.org.
+
+{hashtags}
 """
 
     image_list = [
