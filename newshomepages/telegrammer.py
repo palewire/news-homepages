@@ -1,6 +1,4 @@
 import os
-import time
-import typing
 from datetime import datetime
 from pathlib import Path
 
@@ -27,30 +25,6 @@ def single(handle: str, input_dir: str):
     # Get metadata
     site = utils.get_site(handle)
 
-    # Do the thing
-    _post(site, input_dir)
-
-
-@cli.command()
-@click.argument("slug")
-@click.option("-i", "--input-dir", "input_dir", default="./")
-def bundle(slug: str, input_dir: str):
-    """Send a bundle of sources."""
-    # Get the metadata
-    site_list = utils.get_sites_in_bundle(slug)
-
-    # Do the thing
-    for site in site_list:
-        _post(site, input_dir)
-        time.sleep(2.5)
-
-
-def _post(site: typing.Dict, input_dir: str):
-
-    # Connect to Telegram
-    assert isinstance(TELEGRAM_API_KEY, str)
-    bot = Bot(token=TELEGRAM_API_KEY)
-
     # Get the timestamp
     now = datetime.now()
 
@@ -67,12 +41,53 @@ def _post(site: typing.Dict, input_dir: str):
     input_path = Path(input_dir)
     image_path = input_path / f"{site['handle'].lower()}.jpg"
 
+    # Do the thing
+    _post(image_path, caption)
+
+
+@cli.command()
+@click.argument("slug")
+@click.option("-i", "--input-dir", "input_dir", default="./")
+def bundle(slug: str, input_dir: str):
+    """Send a bundle of sources."""
+    # Get the metadata
+    bundle = utils.get_bundle(slug)
+
+    # Get the timestamp
+    now = datetime.now()
+
+    # Convert it to local time
+    tz = pytz.timezone(bundle["timezone"])
+    now_local = now.astimezone(tz)
+
+    # Create the caption
+    caption = f"{bundle['name']} homepages at {now_local.strftime('%-I:%M %p')} in {bundle['location']}\n"
+
+    # Set the path
+    input_path = Path(input_dir)
+
+    # Pull images from input directory
+    image_paths = list(input_path.glob("*.jpg"))
+    click.echo(f"{len(image_paths)} images discovered in {input_path}")
+
+    # Send them out
+    for image_path in image_paths:
+        _post(image_path, caption)
+
+
+def _post(image_path: Path, caption: str):
+
+    # Connect to Telegram
+    assert isinstance(TELEGRAM_API_KEY, str)
+    bot = Bot(token=TELEGRAM_API_KEY)
+
     # If it doesn't exist, quit
     if not image_path.exists():
         click.echo("File does not exist")
         return
 
     # Get the image
+    click.echo(f"Posting {image_path}")
     with open(image_path, "rb") as io:
         # Send the photo
         bot.sendPhoto("@newshomepages", io, caption=caption)

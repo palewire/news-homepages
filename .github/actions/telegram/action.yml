@@ -2,9 +2,6 @@ name: Telegram
 description: Post screenshots to Telegram of the provided site
 
 inputs:
-  source:
-    description: “The site handle to screenshot”
-    required: true
   command:
     description: "The telegrammer.py command to run"
     required: true
@@ -15,18 +12,18 @@ inputs:
 runs:
   using: "composite"
   steps:
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
+
     - uses: actions/download-artifact@v3
       with:
-        name: screenshots
-
-    - id: list
-      name: List
-      run: ls -alF
-      shell: bash
+        name: mosaics
+        path: ./_input
 
     - id: telegram
       name: Telegram
-      run: pipenv run python -m newshomepages.telegrammer ${{ inputs.command }} ${{ inputs.source }}
+      run: pipenv run python -m newshomepages.telegrammer ${{ inputs.command }} -i _/input
       shell: bash
       env:
         TELEGRAM_API_KEY: ${{ inputs.api-key }}
