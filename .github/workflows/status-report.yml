@@ -43,7 +43,7 @@ jobs:
         shell: bash
 
   tweet:
-    name: Tweet GIF mosaic
+    name: Tweet
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [calculate]
