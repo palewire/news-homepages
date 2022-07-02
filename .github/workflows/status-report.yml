@@ -13,6 +13,13 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
+      - id: install-chromedriver
+        name: Install chromedriver
+        run: |
+          apt update
+          apt-get install chromium-chromedriver
+        shell: bash
+
       - id: install
         name: Install
         uses: ./.github/actions/install
