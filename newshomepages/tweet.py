@@ -82,7 +82,6 @@ def mosaic(input_dir: str):
 
     # Get the image
     input_path = Path(input_dir)
-    input_path.mkdir(parents=True, exist_ok=True)
     image_path = input_path / "mosaic.gif"
     assert image_path.exists()
 

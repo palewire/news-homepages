@@ -18,6 +18,32 @@ def cli():
 
 
 @cli.command()
+@click.option("-i", "--input-dir", "input_dir", default="./")
+def mosaic(input_dir: str):
+    """Tweet a mosaic GIF."""
+    # Get the timestamp
+    now = datetime.now()
+
+    # Convert it to local time
+    tz = pytz.timezone("America/Los_Angeles")
+    now_local = now.astimezone(tz)
+
+    # Create the headline
+    caption = f"""{len(utils.get_site_list())} homepages from around the world captured at {now_local.strftime('%-I:%M %p')} in Los Angeles
+
+📷 See them all at https://palewi.re/docs/news-homepages/latest.html
+    """
+
+    # Get the image
+    input_path = Path(input_dir)
+    image_path = input_path / "mosaic.gif"
+    assert image_path.exists()
+
+    # Do the thing
+    _post(image_path, caption)
+
+
+@cli.command()
 @click.argument("handle")
 @click.option("-i", "--input-dir", "input_dir", default="./")
 def single(handle: str, input_dir: str):

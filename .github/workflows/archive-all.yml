@@ -168,7 +168,7 @@ jobs:
           command: gif
 
   tweet:
-    name: Tweet GIF mosaic
+    name: Post GIF mosaic to Twitter
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [mosaic]
@@ -185,4 +185,21 @@ jobs:
           consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
           access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
           access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          command: mosaic
+
+  telegram:
+    name: Post GIF mosaic to Telegram
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [mosaic]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: telegram
+        name: Telegram
+        uses: ./.github/actions/telegram
+        with:
+          api-key: ${{ secrets.TELEGRAM_API_KEY }}
           command: mosaic
