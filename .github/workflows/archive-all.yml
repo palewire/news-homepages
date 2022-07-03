@@ -168,7 +168,7 @@ jobs:
           command: gif
 
   tweet:
-    name: Post GIF mosaic to Twitter
+    name: Post to Twitter
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [mosaic]
@@ -188,7 +188,7 @@ jobs:
           command: mosaic
 
   telegram:
-    name: Post GIF mosaic to Telegram
+    name: Post to Telegram
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [mosaic]

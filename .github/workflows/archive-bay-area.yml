@@ -168,7 +168,7 @@ jobs:
           command: jpg
 
   tweet:
-    name: Tweet JPG mosaic
+    name: Post to Twitter
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [mosaic]
@@ -188,7 +188,7 @@ jobs:
           command: bundle bay-area
 
   telegram:
-    name: Post JPG mosaic to Telegram
+    name: Post to Telegram
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [mosaic]
