@@ -1,5 +1,5 @@
 {
-  "created": 1656721553,
+  "created": 1656807993,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/9/items/nationalpost-2022",
@@ -1252,31 +1252,157 @@
       "sha1": "c3f27b7782449b217040b00d252093cad760608f"
     },
     {
+      "name": "nationalpost-2022-07-01T21:29:47.302437-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656725390",
+      "size": "74624",
+      "md5": "bce122f092ae788715b6be93214f40ab",
+      "crc32": "3772fa72",
+      "sha1": "648a344abdb6f2514c7dadf5359c2aae9c781982",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-07-01T21:29:47.302437-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656725391",
+      "size": "50036",
+      "md5": "179a183b09ebc7b6778e2ac423dcc0cb",
+      "crc32": "815d8a4c",
+      "sha1": "3ca808cfa7bdb7998b34507c1abff207c4c41c90",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-07-01T21:29:47.302437-04:00.jpg",
+      "source": "original",
+      "mtime": "1656725389",
+      "size": "328454",
+      "md5": "6e0c2f95776a9e663efc87f8142fddb9",
+      "crc32": "d2d2dfa4",
+      "sha1": "b3dfbbe1d3661056279c77ebaeb77ca367037225",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-07-01T21:29:47.302437-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-07-01T21:29:47.302437-04:00.jpg",
+      "mtime": "1656725439",
+      "size": "9785",
+      "md5": "cebf916a5a1a0885b72c413f1968641f",
+      "crc32": "1cb03d7d",
+      "sha1": "b94f4c357789b789c747bb2851d9a3c5392948ff"
+    },
+    {
+      "name": "nationalpost-2022-07-02T09:14:52.517254-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656767695",
+      "size": "74487",
+      "md5": "60b2c1fd5637c3f46b9f479c54b57cc4",
+      "crc32": "039a0470",
+      "sha1": "dbd28a18dd68563d0813317b5ae67abdab10191c",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-07-02T09:14:52.517254-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656767697",
+      "size": "49838",
+      "md5": "cf8a1cae2a018edcdea0b9e969102af8",
+      "crc32": "9cdfe5cd",
+      "sha1": "3d92b590c0515a55105246f033a55903a63e6a01",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-07-02T09:14:52.517254-04:00.jpg",
+      "source": "original",
+      "mtime": "1656767694",
+      "size": "333518",
+      "md5": "28f797c3438eefd1792c8138ab96bbb9",
+      "crc32": "c161d19e",
+      "sha1": "ad95be29d18547fad7f83f7a467b17b66e5f073e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-07-02T09:14:52.517254-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-07-02T09:14:52.517254-04:00.jpg",
+      "mtime": "1656767750",
+      "size": "9864",
+      "md5": "6292df6601c0ec2769df95e9d9a21ddd",
+      "crc32": "85fc35aa",
+      "sha1": "fbecc6af456d801419714ad33f6ab3e0e9be8381"
+    },
+    {
+      "name": "nationalpost-2022-07-02T10:12:44.671407-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656771167",
+      "size": "74747",
+      "md5": "1a2770bd283453482c36c0a11c3aff33",
+      "crc32": "7c5e6983",
+      "sha1": "d010d777b909f0c739437e1b805401b04601b209",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-07-02T10:12:44.671407-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656771169",
+      "size": "49783",
+      "md5": "7e103f6ab5690762346fd6c364a63d1a",
+      "crc32": "74478285",
+      "sha1": "445cd4f4a6acc24bdfe6f3e8aebf4457e0fc3ebd",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-07-02T10:12:44.671407-04:00.jpg",
+      "source": "original",
+      "mtime": "1656771166",
+      "size": "331263",
+      "md5": "98fae69e730e103bc5e1a5cf8250206a",
+      "crc32": "dcf61f06",
+      "sha1": "871ecb9f08b3ecf6ceadb0309b7c4a5b51c88109",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-07-02T10:12:44.671407-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-07-02T10:12:44.671407-04:00.jpg",
+      "mtime": "1656771241",
+      "size": "9879",
+      "md5": "50d4fa6ba34ebe78ed5d867a5e6b1ce2",
+      "crc32": "3ae01af7",
+      "sha1": "e40d4a51ef49ccf3c944e96458a279be72d958d4"
+    },
+    {
       "name": "nationalpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb9958b3dc485fe7ec3fddf2ff3858ba650547e4",
-      "mtime": "1656684793",
-      "size": "27072",
-      "md5": "36427b6b876c488419443f55d291366b",
-      "crc32": "b3272154",
-      "sha1": "0ae80bc025eefdfc1a8ae89ee4647c3cc320fff5",
+      "btih": "8e646b712fc2b0d10a56c6173e981e3d4e6607a0",
+      "mtime": "1656771250",
+      "size": "29647",
+      "md5": "b47ea90e5db743394f67479c7f9db8df",
+      "crc32": "0914af90",
+      "sha1": "cb8c18a1df817d22f0b0512c2238caf5ef1d094c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nationalpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57989c2ac6cde828e0bf052b4dd600bf",
+      "md5": "3d04555717fbb245a19b7157b6135b2a",
       "summation": "md5"
     },
     {
       "name": "nationalpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656684737",
-      "size": "159744",
-      "md5": "25cdffa579920922b425c7ee395f5c3d",
-      "crc32": "5b30284e",
-      "sha1": "17911941fd0f627e8cfa2cdd68d49323308b42c4",
+      "mtime": "1656771173",
+      "size": "172032",
+      "md5": "74251ae54b222478a5261a7b9f5c6c3f",
+      "crc32": "4c374982",
+      "sha1": "34637cf4a44212f78870078bc0a8fbe11a96e7c0",
       "format": "Metadata"
     },
     {
@@ -1290,9 +1416,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 123,
-  "item_last_updated": 1656684793,
-  "item_size": 11623933,
+  "files_count": 135,
+  "item_last_updated": 1656771250,
+  "item_size": 13035074,
   "metadata": {
     "identifier": "nationalpost-2022",
     "collection": [
@@ -1723,12 +1849,20 @@
       "url": "http://epaper.nationalpost.com/"
     },
     {
-      "text": "  We're one of the world's oldest democracies: Random facts to fill your heart with Canadian pride  ",
-      "url": "/news/canada/were-one-of-the-worlds-oldest-democracies-random-facts-to-fill-your-heart-with-canadian-pride"
+      "text": "  True Crime Byline podcast: The Article that Blew Up a Murder Trial  ",
+      "url": "/news/true-crime/true-crime-byline/true-crime-byline-podcast-the-article-that-blew-up-a-murder-trial"
     },
     {
       "text": "         ",
-      "url": "/news/canada/were-one-of-the-worlds-oldest-democracies-random-facts-to-fill-your-heart-with-canadian-pride"
+      "url": "/news/true-crime/true-crime-byline/true-crime-byline-podcast-the-article-that-blew-up-a-murder-trial"
+    },
+    {
+      "text": "  Sky cruise: Could people one day live on a luxurious nuclear-powered hotel above the clouds?  ",
+      "url": "/news/world/nuclear-powered-sky-hotel"
+    },
+    {
+      "text": "         ",
+      "url": "/news/world/nuclear-powered-sky-hotel"
     },
     {
       "text": "  B.C. woman says she spent more time stranded in airport looking for lost luggage than in Portugal  ",
@@ -1739,43 +1873,19 @@
       "url": "/news/canada/lost-baggage-canadian-airports"
     },
     {
-      "text": "  True Crime Byline podcast: The Article that Blew Up a Murder Trial  ",
-      "url": "/news/true-crime/true-crime-byline/true-crime-byline-podcast-the-article-that-blew-up-a-murder-trial"
+      "text": "  Raymond J. de Souza: 25 years since the handover of Hong Kong, China's oppression knows no bounds  ",
+      "url": "/opinion/raymond-j-de-souza-25-years-since-the-handover-of-hong-kong-chinas-oppression-knows-no-bounds"
     },
     {
       "text": "         ",
-      "url": "/news/true-crime/true-crime-byline/true-crime-byline-podcast-the-article-that-blew-up-a-murder-trial"
-    },
-    {
-      "text": "  Blue Mountain offers more than just its Film Festival movies  ",
-      "url": "/entertainment/weekend-post/blue-mountain-offers-more-than-just-its-film-festival-movies"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/weekend-post/blue-mountain-offers-more-than-just-its-film-festival-movies"
+      "url": "/opinion/raymond-j-de-souza-25-years-since-the-handover-of-hong-kong-chinas-oppression-knows-no-bounds"
     },
     {
       "text": "  Canada  ",
       "url": "/category/canada/"
     },
     {
-      "text": "  FIRST READING: The most high-security Canada Day in history   Hate ArriveCAN? Too bad Ottawa wants to make it permanent  ",
-      "url": "/news/canada/first-reading-the-most-high-security-canada-day-in-history"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada/first-reading-the-most-high-security-canada-day-in-history"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "  How can doctors be sure a medically assisted death is a 'peaceful' death?  ",
+      "text": "  How can doctors be sure a medically assisted death is a 'peaceful' death?   Despite tens of thousands of MAID deaths and concerns over expanding eligibility for medical assistance in dying, little has been said about how people die. Here's what we know  ",
       "url": "/news/canada/medical-assistance-in-dying-how-do-people-die-from-maid"
     },
     {
@@ -1785,38 +1895,6 @@
     {
       "text": "         ",
       "url": "/news/canada/medical-assistance-in-dying-how-do-people-die-from-maid"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "  CP conductor who exposed colleagues to undeclared COVID-like symptoms for days was fired despite later testing negative  ",
-      "url": "/news/cp-conductor-who-exposed-colleagues-to-undeclared-covid-like-symptoms-for-days-was-fired-despite-later-testing-negative"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/cp-conductor-who-exposed-colleagues-to-undeclared-covid-like-symptoms-for-days-was-fired-despite-later-testing-negative"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "  Canadian First World War soldier given full military burial in Flanders  ",
-      "url": "/news/canada/canadian-first-world-war-soldier-given-full-military-burial-in-flanders"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada/canadian-first-world-war-soldier-given-full-military-burial-in-flanders"
     },
     {
       "text": "  Canada  ",
@@ -1835,60 +1913,12 @@
       "url": "/news/canada/one-two-or-three-founders-how-canadas-historical-memory-is-changing"
     },
     {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "  Four arrested as months-long march by anti-vaccine mandate soldier ends at National War Memorial  ",
-      "url": "/news/canada/soldier-charged-for-criticizing-vaccine-mandates-arrives-in-ottawa-amid-protest-fears"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada/soldier-charged-for-criticizing-vaccine-mandates-arrives-in-ottawa-amid-protest-fears"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "  Conservative leadership campaigns given preliminary list of 675,000 party members to scrutinize  ",
-      "url": "/news/conservative-leadership-campaigns-given-preliminary-list-of-675000-party-members"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/conservative-leadership-campaigns-given-preliminary-list-of-675000-party-members"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "  Jordan Peterson suspended from Twitter, says it might as well be a ban: 'I won\u2019t apologize'  ",
-      "url": "/news/canada/jordan-peterson-twitter-ban"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada/jordan-peterson-twitter-ban"
-    },
-    {
       "text": "  NP Comment  ",
       "url": "/category/opinion/"
     },
     {
-      "text": "  Terry Glavin: The Liberals are funding hate. How else to describe the speakers at this Toronto convention?  ",
-      "url": "/opinion/terry-glavin-the-liberals-are-funding-hate-how-else-to-describe-the-speakers-at-this-toronto-convention"
+      "text": "  Jamil Jivani: Despite problems of wokeism in the classroom, teachers deserve our gratitude  ",
+      "url": "/opinion/jamil-jivani-despite-problems-of-wokeism-in-the-classroom-teachers-deserve-our-gratitude"
     },
     {
       "text": "  NP Comment  ",
@@ -1896,7 +1926,103 @@
     },
     {
       "text": "         ",
-      "url": "/opinion/terry-glavin-the-liberals-are-funding-hate-how-else-to-describe-the-speakers-at-this-toronto-convention"
+      "url": "/opinion/jamil-jivani-despite-problems-of-wokeism-in-the-classroom-teachers-deserve-our-gratitude"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "  Canada Day kicks off in Ottawa as protest organizer cancels event after War Memorial arrests  ",
+      "url": "/news/canada/ottawa-kicks-off-canada-day-expecting-anti-government-protests"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/canada/ottawa-kicks-off-canada-day-expecting-anti-government-protests"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/news/"
+    },
+    {
+      "text": "  CP conductor who exposed colleagues to undeclared COVID-like symptoms for days was fired despite later testing negative  ",
+      "url": "/news/cp-conductor-who-exposed-colleagues-to-undeclared-covid-like-symptoms-for-days-was-fired-despite-later-testing-negative"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/cp-conductor-who-exposed-colleagues-to-undeclared-covid-like-symptoms-for-days-was-fired-despite-later-testing-negative"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/news/"
+    },
+    {
+      "text": "  'It's gonna happen': Biden predicts states will try to arrest women who travel for abortions  ",
+      "url": "/news/biden-predicts-states-will-try-to-arrest-women-who-travel-for-abortions-2"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/biden-predicts-states-will-try-to-arrest-women-who-travel-for-abortions-2"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "  Court rejects bid by Assembly of First Nations National Chief RoseAnne Archibald to overturn suspension  ",
+      "url": "/news/canada/court-rejects-bid-by-afn-national-chief-roseanne-archibald-to-overturn-suspension"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/canada/court-rejects-bid-by-afn-national-chief-roseanne-archibald-to-overturn-suspension"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "  'Every dollar counts': Ontario gas tax cut brings some relief amid record prices  ",
+      "url": "/news/canada/six-month-cut-to-ontario-gas-and-fuel-tax-takes-effect-today"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/canada/six-month-cut-to-ontario-gas-and-fuel-tax-takes-effect-today"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "  We\u2019re number one! Celebrate Canada Day with all the ways we\u2019re the top nation  ",
+      "url": "/news/canada/were-number-one-celebrate-canada-day-with-all-the-ways-were-the-top-nation"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/canada/were-number-one-celebrate-canada-day-with-all-the-ways-were-the-top-nation"
     },
     {
       "text": " View More Videos > ",
@@ -1915,8 +2041,8 @@
       "url": "/category/news/national/"
     },
     {
-      "text": "  Hong Kong has 'risen from the ashes,' Xi says on 25th anniversary of its return to Chinese rule   On what is his first known trip outside the mainland in more than two years, Xi officiated the swearing-in ceremony of Hong Kong\u2019s new leader John Lee  ",
-      "url": "/news/world/hong-kong-has-risen-from-the-ashes-xi-says-on-25th-anniversary-of-its-return-to-chinese-rule"
+      "text": "  Traditional beetroot soup borshch added to UNESCO's list of protected Ukrainian heritage   The decision for some represented a win over Moscow, especially significant in the fifth month of a bloody full-scale war  ",
+      "url": "/news/world/unesco-declares-borshch-protected-ukrainian-heritage-at-risk-from-russian-invasion"
     },
     {
       "text": "  World  ",
@@ -1924,47 +2050,11 @@
     },
     {
       "text": "         ",
-      "url": "/news/world/hong-kong-has-risen-from-the-ashes-xi-says-on-25th-anniversary-of-its-return-to-chinese-rule"
+      "url": "/news/world/unesco-declares-borshch-protected-ukrainian-heritage-at-risk-from-russian-invasion"
     },
     {
-      "text": "  Another Canadian navy commander relieved from duty, for 'inappropriate conduct'   The navy says it took action against Lt.-Cmdr. David Dallin of HMCS Regina after an incident that recently took place on another vessel during a training exercise  ",
-      "url": "/news/canada/royal-canadian-navy-relieves-pacific-fleet-ship-commander-for-inappropriate-conduct"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada/royal-canadian-navy-relieves-pacific-fleet-ship-commander-for-inappropriate-conduct"
-    },
-    {
-      "text": "  New Canadian navy supply ships face another two-year delay and cost increases, officials confirm   At one point, the first Joint Supply Ship was supposed to arrive in 2012. That changed a number of times, with the current expected delivery date being 2025  ",
-      "url": "/news/national/defence-watch/new-navy-supply-ships-face-more-delays-and-cost-increases-federal-officials-confirm/wcm/37805fa9-6475-4967-a42f-295efbfc7896"
-    },
-    {
-      "text": "  Canada  ",
-      "url": "/category/canada/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/national/defence-watch/new-navy-supply-ships-face-more-delays-and-cost-increases-federal-officials-confirm/wcm/37805fa9-6475-4967-a42f-295efbfc7896"
-    },
-    {
-      "text": "  10/3 podcast: Political scandal overshadows inquiry into Canada's worst mass shooting   The inquiry into Canada\u2019s worst mass shooting has developed into a political scandal, with allegations the head of the RCMP interfered with the investigation to help push Liberal firearms policy.  ",
-      "url": "/news/politics/10-3-podcast-political-scandal-overshadows-inquiry-into-canadas-worst-mass-shooting"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/politics/10-3-podcast-political-scandal-overshadows-inquiry-into-canadas-worst-mass-shooting"
-    },
-    {
-      "text": "  Canadians should get boosted against COVID, urge federal health officials   About 40 per cent of adult Canadians who have had two shots haven\u2019t returned for a third  ",
-      "url": "/news/canadians-should-get-boosted-against-covid-urge-federal-health-officials"
+      "text": "  Seeking parole, convicted murderer and former track star Pistorius meets with girlfriend's father   He became eligible for parole last year, eight years after killing his girlfriend in his home in the South African capital, Pretoria  ",
+      "url": "/news/seeking-parole-pistorius-meets-with-girlfriends-father"
     },
     {
       "text": "  News  ",
@@ -1972,31 +2062,67 @@
     },
     {
       "text": "         ",
-      "url": "/news/canadians-should-get-boosted-against-covid-urge-federal-health-officials"
+      "url": "/news/seeking-parole-pistorius-meets-with-girlfriends-father"
+    },
+    {
+      "text": "  Brittney Griner transported 'significant amount' of cannabis oil,' says Russian prosecutor   The WNBA star sits trial in a Moscow suburb on Friday. She has been detained since February, a week before Russia's invasion of Ukraine  ",
+      "url": "/news/brittney-griner-transported-significant-amount-of-cannabis-oil-says-russian-prosecutor"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/brittney-griner-transported-significant-amount-of-cannabis-oil-says-russian-prosecutor"
+    },
+    {
+      "text": "  We're one of the world's oldest democracies: Random facts to fill your heart with Canadian pride   Twice, Canadians have invented a medical cure so revolutionary it caused people to rise from their death beds  ",
+      "url": "/news/canada/were-one-of-the-worlds-oldest-democracies-random-facts-to-fill-your-heart-with-canadian-pride"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/canada/were-one-of-the-worlds-oldest-democracies-random-facts-to-fill-your-heart-with-canadian-pride"
+    },
+    {
+      "text": "  FIRST READING: The most high-security Canada Day in history   Hate ArriveCAN? Too bad Ottawa wants to make it permanent  ",
+      "url": "/news/canada/first-reading-the-most-high-security-canada-day-in-history"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/canada/first-reading-the-most-high-security-canada-day-in-history"
     },
     {
       "text": " More news stories > ",
       "url": "/category/news/"
     },
     {
+      "text": "  How can doctors be sure a medically assisted death is a 'peaceful' death?  ",
+      "url": "/news/canada/medical-assistance-in-dying-how-do-people-die-from-maid"
+    },
+    {
       "text": "  Jordan Peterson suspended from Twitter, says it might as well be a ban: 'I won\u2019t apologize'  ",
       "url": "/news/canada/jordan-peterson-twitter-ban"
     },
     {
-      "text": "  Jamie Sarkonak: Federal government effectively declares Red Ensign a hate symbol  ",
-      "url": "/opinion/jamie-sarkonak-feds-effectively-declare-red-ensign-a-hate-symbol"
+      "text": "  Canada Day kicks off in Ottawa as protest organizer cancels event after War Memorial arrests  ",
+      "url": "/news/canada/ottawa-kicks-off-canada-day-expecting-anti-government-protests"
     },
     {
-      "text": "  Terry Glavin: The Liberals are funding hate. How else to describe the speakers at this Toronto convention?  ",
-      "url": "/opinion/terry-glavin-the-liberals-are-funding-hate-how-else-to-describe-the-speakers-at-this-toronto-convention"
+      "text": "  We\u2019re number one! Celebrate Canada Day with all the ways we\u2019re the top nation  ",
+      "url": "/news/canada/were-number-one-celebrate-canada-day-with-all-the-ways-were-the-top-nation"
     },
     {
-      "text": "  Four arrested as months-long march by anti-vaccine mandate soldier ends at National War Memorial  ",
-      "url": "/news/canada/soldier-charged-for-criticizing-vaccine-mandates-arrives-in-ottawa-amid-protest-fears"
-    },
-    {
-      "text": "  FIRST READING: The most high-security Canada Day in history  ",
-      "url": "/news/canada/first-reading-the-most-high-security-canada-day-in-history"
+      "text": "  Rex Murphy: Canada has been blessed. Take time to be grateful  ",
+      "url": "/opinion/rex-murphy-canada-has-been-blessed-take-time-to-be-grateful"
     },
     {
       "text": "      View the latest edition  ",
@@ -2095,6 +2221,42 @@
       "url": "/category/opinion/"
     },
     {
+      "text": "  NP View: Canada needs a police force free from political meddling   Brenda Lucki's willingness to go along just another example of RCMP incompetence  ",
+      "url": "/opinion/np-view-canada-needs-a-police-force-free-from-political-meddling"
+    },
+    {
+      "text": "  NP Comment  ",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/np-view-canada-needs-a-police-force-free-from-political-meddling"
+    },
+    {
+      "text": "  Kenneth Whyte: Canada Council is abusing its mandate with its bonkers exclusion of fact-based nonfiction   Why The Sutherland House is stepping into the breach with a new annual prize for nonfiction literature  ",
+      "url": "/opinion/kenneth-whyte-canada-council-is-abusing-its-mandate-with-its-bonkers-exclusion-of-fact-based-nonfiction"
+    },
+    {
+      "text": "  NP Comment  ",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/kenneth-whyte-canada-council-is-abusing-its-mandate-with-its-bonkers-exclusion-of-fact-based-nonfiction"
+    },
+    {
+      "text": "  Letters to the editor: Praise for 'the polite clich\u00e9 that is Canada'   \u2018A nation committed to peace, order and good government\u2019 Re: Peace, order and get on with it: Canadians proud, hopeful and agreeable, poll shows, Joseph Brean, June 27  ",
+      "url": "/opinion/letters-to-the-editor-praise-for-the-polite-cliche-that-is-canada"
+    },
+    {
+      "text": "  NP Comment  ",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/letters-to-the-editor-praise-for-the-polite-cliche-that-is-canada"
+    },
+    {
       "text": "  Rex Murphy: Canada has been blessed. Take time to be grateful   We Canadians should pause to reflect on what we have not experienced, what we have been spared, compared with less fortunate nations  ",
       "url": "/opinion/rex-murphy-canada-has-been-blessed-take-time-to-be-grateful"
     },
@@ -2107,30 +2269,6 @@
       "url": "/opinion/rex-murphy-canada-has-been-blessed-take-time-to-be-grateful"
     },
     {
-      "text": "  Jamil Jivani: Despite problems of wokeism in the classroom, teachers deserve our gratitude   Teaching was considered a thankless job well before COVID, but it has only gotten more so  ",
-      "url": "/opinion/jamil-jivani-despite-problems-of-wokeism-in-the-classroom-teachers-deserve-our-gratitude"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/jamil-jivani-despite-problems-of-wokeism-in-the-classroom-teachers-deserve-our-gratitude"
-    },
-    {
-      "text": "  Raymond J. de Souza: 25 years since the handover of Hong Kong, China's oppression knows no bounds   Halfway through China's 50-year agreement with Britain, there is one country, two styles of oppression \u2014 fierce and fiercer  ",
-      "url": "/opinion/raymond-j-de-souza-25-years-since-the-handover-of-hong-kong-chinas-oppression-knows-no-bounds"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/raymond-j-de-souza-25-years-since-the-handover-of-hong-kong-chinas-oppression-knows-no-bounds"
-    },
-    {
       "text": "  Randall Denley: Ford needs to reset his priorities, manage his expectations \u2014 like the rest of us   Naturally, Ford wants to expand the economy, but the real challenge is finding enough workers to keep it going at its current pace  ",
       "url": "/opinion/randall-denley-ford-needs-to-reset-his-priorities-manage-his-expectations-like-the-rest-of-us"
     },
@@ -2141,18 +2279,6 @@
     {
       "text": "         ",
       "url": "/opinion/randall-denley-ford-needs-to-reset-his-priorities-manage-his-expectations-like-the-rest-of-us"
-    },
-    {
-      "text": "  Jamie Sarkonak: Federal government effectively declares Red Ensign a hate symbol   Ottawa has no place policing the political views of students  ",
-      "url": "/opinion/jamie-sarkonak-feds-effectively-declare-red-ensign-a-hate-symbol"
-    },
-    {
-      "text": "  NP Comment  ",
-      "url": "/category/opinion/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/jamie-sarkonak-feds-effectively-declare-red-ensign-a-hate-symbol"
     },
     {
       "text": " More np comment stories > ",
@@ -2247,6 +2373,42 @@
       "url": "/category/news/politics/"
     },
     {
+      "text": "  New Canadian navy supply ships face another two-year delay and cost increases, officials confirm   At one point, the first Joint Supply Ship was supposed to arrive in 2012. That changed a number of times, with the current expected delivery date being 2025  ",
+      "url": "/news/national/defence-watch/new-navy-supply-ships-face-more-delays-and-cost-increases-federal-officials-confirm/wcm/37805fa9-6475-4967-a42f-295efbfc7896"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/canada/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/national/defence-watch/new-navy-supply-ships-face-more-delays-and-cost-increases-federal-officials-confirm/wcm/37805fa9-6475-4967-a42f-295efbfc7896"
+    },
+    {
+      "text": "  Conservative leadership campaigns given preliminary list of 675,000 party members to scrutinize   The campaigns will have until Monday at midnight \u2013 approximately 96 hours \u2013 to analyze the names and submit any challenges to the list  ",
+      "url": "/news/conservative-leadership-campaigns-given-preliminary-list-of-675000-party-members"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/conservative-leadership-campaigns-given-preliminary-list-of-675000-party-members"
+    },
+    {
+      "text": "  10/3 podcast: Political scandal overshadows inquiry into Canada's worst mass shooting   The inquiry into Canada\u2019s worst mass shooting has developed into a political scandal, with allegations the head of the RCMP interfered with the investigation to help push Liberal firearms policy.  ",
+      "url": "/news/politics/10-3-podcast-political-scandal-overshadows-inquiry-into-canadas-worst-mass-shooting"
+    },
+    {
+      "text": "  Canadian Politics  ",
+      "url": "/category/politics/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/politics/10-3-podcast-political-scandal-overshadows-inquiry-into-canadas-worst-mass-shooting"
+    },
+    {
       "text": "  Health Canada backs down from nutrition warning labels for ground meat after criticism   New regulations will require that most foods containing more than 15 per cent of the recommended daily intake of sodium be labelled  ",
       "url": "/news/health-canada-backs-down-from-nutrition-warning-labels-for-ground-meat-after-criticism"
     },
@@ -2269,42 +2431,6 @@
     {
       "text": "         ",
       "url": "/news/politics/all-is-forgiven-despite-adscam-jean-chretien-the-most-popular-modern-pm-poll-finds"
-    },
-    {
-      "text": "  Canada will be at G20 summit this fall even if Putin attends: Trudeau   Topic of global economy 'too important' to allow Russia's voice to go uncontested  ",
-      "url": "/news/canada-will-be-at-g20-summit-this-fall-even-if-putin-attends-trudeau"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/canada-will-be-at-g20-summit-this-fall-even-if-putin-attends-trudeau"
-    },
-    {
-      "text": "  John Ivison: Transport minister thinks he's done all he can to alleviate airport chaos. He's wrong   Not only can Omar Alghabra not guarantee a safe and efficient system, he can\u2019t even offer passengers faint hope about when things will get better  ",
-      "url": "/news/politics/john-ivison-transport-minister-thinks-hes-done-all-he-can-to-alleviate-airport-chaos-but-hes-wrong"
-    },
-    {
-      "text": "  Canadian Politics  ",
-      "url": "/category/politics/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/politics/john-ivison-transport-minister-thinks-hes-done-all-he-can-to-alleviate-airport-chaos-but-hes-wrong"
-    },
-    {
-      "text": "  ArriveCAN app may stay as part of larger border modernization, Mendicino's comments suggest   'It's not working,' says a Conservative MP who questions why the government is so invested in making ArriveCan permanent when so many people report problems  ",
-      "url": "/news/arrivecan-app-may-stay-as-part-of-larger-border-modernization-mendicinos-comments-suggest"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/arrivecan-app-may-stay-as-part-of-larger-border-modernization-mendicinos-comments-suggest"
     },
     {
       "text": " More politics stories > ",
@@ -2563,6 +2689,18 @@
       "url": "/category/life/food/"
     },
     {
+      "text": "  Daily Horoscope for Saturday, July 2   There are no restrictions to shopping or important decisions today. The Moon is in Leo  ",
+      "url": "/life/horoscopes/daily-horoscope-for-saturday-july-2"
+    },
+    {
+      "text": "  Horoscopes  ",
+      "url": "/category/horoscopes/"
+    },
+    {
+      "text": "         ",
+      "url": "/life/horoscopes/daily-horoscope-for-saturday-july-2"
+    },
+    {
       "text": "  Daily Horoscope for Friday, July 1   There are no restrictions to shopping or important decisions today. The Moon is in Leo  ",
       "url": "/life/horoscopes/daily-horoscope-for-saturday-july-1"
     },
@@ -2609,18 +2747,6 @@
     {
       "text": "         ",
       "url": "/life/horoscopes/daily-horoscope-for-wednesday-june-29"
-    },
-    {
-      "text": "  Shedding light on garden storage   A garden shed can be a do-it-yourself project, but it depends on what you want, how big you want it to be, and what your local municipality dictates. While some homeowners may opt for a ready-made shed that just needs assembling, a well-built shed is sturdy and can last for years if built right. However, building a shed has restrictions, and you may need a permit, so always check with your local building authority.  ",
-      "url": "/life/homes/shedding-light-on-garden-storage"
-    },
-    {
-      "text": "  Homes  ",
-      "url": "/category/homes/"
-    },
-    {
-      "text": "         ",
-      "url": "/life/homes/shedding-light-on-garden-storage"
     },
     {
       "text": " More more stories > ",
@@ -2679,6 +2805,14 @@
       "url": "/category/driving/"
     },
     {
+      "text": "  News Roundup: A peak at Honda's Pilot and Accord, Ford\u2019s new EV-resale rules, and more   Including pictures of Ben Affleck\u2019s 10-year-old son backing a Lambo into a BMW  ",
+      "url": "https://driving.ca/auto-news/news/news-roundup-a-peak-at-hondas-pilot-and-accord-fords-new-ev-resale-rules-and-more"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/news/news-roundup-a-peak-at-hondas-pilot-and-accord-fords-new-ev-resale-rules-and-more"
+    },
+    {
       "text": "  Hyundai drops the Veloster N hot hatch for 2023   The regular Velosters were discontinued earlier, and now the N is leaving, too  ",
       "url": "https://driving.ca/auto-news/news/hyundai-drops-the-veloster-n-hot-hatch-for-2023"
     },
@@ -2709,14 +2843,6 @@
     {
       "text": "         ",
       "url": "https://driving.ca/auto-news/crashes/german-court-doubles-red-light-runners-fine-due-to-suv-size"
-    },
-    {
-      "text": "  Cross-Canada Road Trip: Whitehorse to Toronto in two 2022 Toyota Tundras   Some 5,500 km and seven days of driving through one magnificent country show the new-gen truck is just as stout as the old  ",
-      "url": "https://driving.ca/reviews/road-trip/whitehorse-to-toronto-in-two-2022-toyota-tundras"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/reviews/road-trip/whitehorse-to-toronto-in-two-2022-toyota-tundras"
     },
     {
       "text": " More driving stories > ",
@@ -3051,10 +3177,10 @@
       "url": "/privacy-statement/en/"
     }
   ],
-  "server": "ia801507.us.archive.org",
-  "uniq": 630006456,
+  "server": "ia601507.us.archive.org",
+  "uniq": 1803411877,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

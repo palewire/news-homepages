@@ -1,5 +1,5 @@
 {
-  "created": 1656721432,
+  "created": 1656807900,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/kqed-2022",
@@ -1180,31 +1180,115 @@
       "sha1": "9774a4e283d05baf45b155c75aefadac032dee4a"
     },
     {
+      "name": "kqed-2022-07-01T18:28:04.855726-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656725287",
+      "size": "26248",
+      "md5": "7b4f1b8a84fbddf3981ee6486c122b21",
+      "crc32": "ac122d7b",
+      "sha1": "c4bdad083ff16c43d7f9f498ac03e3a32349ffa6",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-07-01T18:28:04.855726-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656725288",
+      "size": "18267",
+      "md5": "f2b47d001a33b64235af8e62abfa2956",
+      "crc32": "4e32b2d6",
+      "sha1": "73608278ad3637d48b7abceb9f1576f728dff2a8",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-07-01T18:28:04.855726-07:00.jpg",
+      "source": "original",
+      "mtime": "1656725285",
+      "size": "239076",
+      "md5": "bfe44437071919a4b402db590dacb0f6",
+      "crc32": "b457280f",
+      "sha1": "8f09f6ebc4619aa7e08ea15d691e66cddb44d841",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-07-01T18:28:04.855726-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-07-01T18:28:04.855726-07:00.jpg",
+      "mtime": "1656725387",
+      "size": "9087",
+      "md5": "f978e653afb8fc20bff65fa982d2ebeb",
+      "crc32": "b5d2b352",
+      "sha1": "f0c9a827b821a74f37ee4c95f5a932413c3a9d0c"
+    },
+    {
+      "name": "kqed-2022-07-02T06:12:14.905324-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656767538",
+      "size": "28318",
+      "md5": "1f65d307d490656ff40e2722b37b562c",
+      "crc32": "b0c4984c",
+      "sha1": "bfebf05812475762d004b01b6053e91023a3632c",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-07-02T06:12:14.905324-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656767540",
+      "size": "18533",
+      "md5": "cd1d954708c6e4fa437231568e3abd4a",
+      "crc32": "12522806",
+      "sha1": "26189fafcbf7bb5ba3fca2f4b7812ab1ba826997",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-07-02T06:12:14.905324-07:00.jpg",
+      "source": "original",
+      "mtime": "1656767536",
+      "size": "240654",
+      "md5": "7ae61464a2fa599b7d3e5c7367814811",
+      "crc32": "8033b283",
+      "sha1": "1499b0d5f11ac7efe511ff5685d2fd9bba72a39b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-07-02T06:12:14.905324-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-07-02T06:12:14.905324-07:00.jpg",
+      "mtime": "1656767633",
+      "size": "9180",
+      "md5": "7bc5355f1439dc51ec38a123f5fd2e54",
+      "crc32": "ea58dfc2",
+      "sha1": "2a39e20c84f386e78714210ef82b62d03b31ecc4"
+    },
+    {
       "name": "kqed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "403fe01ba7f9e6dda30bfee890c9805412853b12",
-      "mtime": "1656681320",
-      "size": "24468",
-      "md5": "6c9518c3675368bf12b610b29b40130e",
-      "crc32": "2e5c249a",
-      "sha1": "c71e3e9a6f5758bdda6d8d868855170ef03ae4b6",
+      "btih": "66892f1229f082e0b6f50800acc58608d2049547",
+      "mtime": "1656767657",
+      "size": "26114",
+      "md5": "f60e0aecde03d0142270bb614004a9fd",
+      "crc32": "f62e365d",
+      "sha1": "222cf1546900d10c3ac4864a6ed72a86335c87e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kqed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8084dd430069795ab7da6836a82557b0",
+      "md5": "25cfcd4a7efb3920f80f9319c36d75aa",
       "summation": "md5"
     },
     {
       "name": "kqed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656681264",
-      "size": "151552",
-      "md5": "8d73ad81b59316bfc099c7e339676dcf",
-      "crc32": "53a9a3b2",
-      "sha1": "6a73e1bdb51bab05ba71bd4898d41a25bd50a9b4",
+      "mtime": "1656767543",
+      "size": "159744",
+      "md5": "7d80fff250a5e19eeaceaf7a416c57d8",
+      "crc32": "8f478803",
+      "sha1": "11601c4410c3c8323ace9d706c748bd4095817c4",
       "format": "Metadata"
     },
     {
@@ -1218,9 +1302,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 116,
-  "item_last_updated": 1656681320,
-  "item_size": 8036566,
+  "files_count": 124,
+  "item_last_updated": 1656767657,
+  "item_size": 8635767,
   "kqed-2022": [
     {
       "text": "Skip to Nav",
@@ -1743,11 +1827,11 @@
       "url": "/corporate-sponsorship"
     },
     {
-      "text": "Morning Edition",
-      "url": "/radio/program/morning-edition"
+      "text": "Weekend Edition Saturday",
+      "url": "/radio/program/weekend-edition-saturday"
     },
     {
-      "text": "When it comes to issues like same sex marriage and the separation of church and state, polls show that American voters agree less with the Christian right than in years past. Although the Christian right is at its lowest ebb in cultural influence since the 1980s, analysts say that in state legislatures and in the Supreme Court, the Christian right's political influence is growing. The rise of Christian nationalism.",
+      "text": "From civil wars in Bosnia and El Salvador, to hospital rooms, police stations, and America's backyards, National Public Radio\u00ae's Peabody Award-winning correspondent Scott Simon brings a well-traveled perspective to his role as host of Weekend Edition.",
       "url": "/radio"
     },
     {
@@ -1759,11 +1843,11 @@
       "url": "/radio/schedule"
     },
     {
-      "text": "Morning Edition",
-      "url": "/radio/program/morning-edition"
+      "text": "Weekend Edition Saturday",
+      "url": "/radio/program/weekend-edition-saturday"
     },
     {
-      "text": "When it comes to issues like same sex marriage and the separation of church and state, polls show that American voters agree less with the Christian right than in years past. Although the Christian right is at its lowest ebb in cultural influence since the 1980s, analysts say that in state legislatures and in the Supreme Court, the Christian right's political influence is growing. The rise of Christian nationalism.",
+      "text": "From civil wars in Bosnia and El Salvador, to hospital rooms, police stations, and America's backyards, National Public Radio\u00ae's Peabody Award-winning correspondent Scott Simon brings a well-traveled perspective to his role as host of Weekend Edition.",
       "url": "/radio"
     },
     {
@@ -1784,6 +1868,38 @@
     },
     {
       "text": "",
+      "url": "/science/1979658/poorly-prepared-sf-civil-grand-jury-slams-city-for-not-protecting-residents-from-toxic-contamination"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11918672/nearly-20-of-k-12-classes-in-california-are-taught-by-underprepared-instructors"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11918631/competing-state-sports-betting-measures-headed-to-november-ballot-with-record-shattering-campaign-spending-likely"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11918252/sf-filipino-community-mobilizes-to-preserve-unique-elementary-school-language-program"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
       "url": "/news/11918529/a-message-from-the-bay-were-taking-july-off"
     },
     {
@@ -1791,38 +1907,6 @@
       "url": "#"
     },
     {
-      "text": "",
-      "url": "/news/11918590/pete-aguilar-on-the-january-6-hearings-and-a-ballot-measure-preview-with-marva-diaz"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11918268/new-state-budget-will-cover-some-abortion-transportation-costs-but-only-for-travel-within-california"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11918517/supreme-court-sides-with-biden-on-ending-remain-in-mexico-asylum-policy"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/science/1979779/california-climate-rules-wont-be-undercut-by-supreme-courts-ruling-experts-say"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
       "text": "Science",
       "url": "/science"
     },
@@ -1832,23 +1916,23 @@
     },
     {
       "text": "",
+      "url": "/science/1979658/poorly-prepared-sf-civil-grand-jury-slams-city-for-not-protecting-residents-from-toxic-contamination"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/science/1979517/baby-elephant-seals-learn-survival-skills-like-holding-their-breath-all-on-their-own"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
       "url": "/science/1979779/california-climate-rules-wont-be-undercut-by-supreme-courts-ruling-experts-say"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/science/1979474/dont-go-chasing-water-bugs"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11917541/californians-ready-to-help-people-from-out-of-state-receive-abortion-care-state-may-offer-money-for-travel-child-care"
     },
     {
       "text": "Save Article",
@@ -1868,7 +1952,7 @@
     },
     {
       "text": "",
-      "url": "/arts/13915669/filmmaker-maya-cueva-focuses-on-reproductive-rights-and-immigration"
+      "url": "/arts/13915709/jazz-titan-david-murray-to-play-free-outdoor-show-in-oakland"
     },
     {
       "text": "Save Article",
@@ -1876,7 +1960,7 @@
     },
     {
       "text": "",
-      "url": "/arts/13914487/the-chinatown-nightclub-dancer-who-helped-squash-asian-stereotypes"
+      "url": "/arts/13915702/mr-malcolms-list-susan-allain-regency-romance-london"
     },
     {
       "text": "Save Article",
@@ -1884,7 +1968,7 @@
     },
     {
       "text": "",
-      "url": "/arts/13915289/hip-hop-songs-lyrics-abortion"
+      "url": "/arts/13915646/barbacoa-mejia-richmond-flea-market"
     },
     {
       "text": "Save Article",
@@ -2048,6 +2132,38 @@
     },
     {
       "text": "",
+      "url": "/science/1979658/poorly-prepared-sf-civil-grand-jury-slams-city-for-not-protecting-residents-from-toxic-contamination"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11918672/nearly-20-of-k-12-classes-in-california-are-taught-by-underprepared-instructors"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11918631/competing-state-sports-betting-measures-headed-to-november-ballot-with-record-shattering-campaign-spending-likely"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11918252/sf-filipino-community-mobilizes-to-preserve-unique-elementary-school-language-program"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
       "url": "/news/11918529/a-message-from-the-bay-were-taking-july-off"
     },
     {
@@ -2065,38 +2181,6 @@
     {
       "text": "",
       "url": "/news/11918268/new-state-budget-will-cover-some-abortion-transportation-costs-but-only-for-travel-within-california"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11918517/supreme-court-sides-with-biden-on-ending-remain-in-mexico-asylum-policy"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/science/1979779/california-climate-rules-wont-be-undercut-by-supreme-courts-ruling-experts-say"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11918230/grand-jury-major-health-and-safety-violations-at-santa-rita-jail-require-urgent-attention"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11917301/why-several-bay-area-shelters-are-waiving-adoption-fees-this-summer"
     },
     {
       "text": "Save Article",
@@ -2244,7 +2328,7 @@
     "addeddate": "2022-06-24 22:56:44"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 621289244,
+  "uniq": 471491851,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"
