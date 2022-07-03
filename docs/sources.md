@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 222 sites.
+The archiving routine is currently capturing 224 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -40,6 +40,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Calgary Herald](https://palewi.re/docs/news-homepages/sites/calgaryherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calgaryherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/calgaryherald.xml)|
 |[Capital Gazette](https://palewi.re/docs/news-homepages/sites/capgaznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capgaznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capgaznews.xml)|
 |[Carolina Public Press](https://palewi.re/docs/news-homepages/sites/cpublicpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpublicpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cpublicpress.xml)|
+|[CBC News](https://palewi.re/docs/news-homepages/sites/cbcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbcnews.xml)|
 |[CBS 17](https://palewi.re/docs/news-homepages/sites/wncn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wncn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wncn.xml)|
 |[CBS News](https://palewi.re/docs/news-homepages/sites/cbsnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbsnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbsnews.xml)|
 |[Cedar Rapids Gazette](https://palewi.re/docs/news-homepages/sites/gazettedotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazettedotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gazettedotcom.xml)|
@@ -133,6 +134,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[National Post](https://palewi.re/docs/news-homepages/sites/nationalpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationalpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nationalpost.xml)|
 |[National Review](https://palewi.re/docs/news-homepages/sites/nro.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nro.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nro.xml)|
 |[NBC Bay Area](https://palewi.re/docs/news-homepages/sites/nbcbayarea.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcbayarea.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcbayarea.xml)|
+|[NBC Chicago](https://palewi.re/docs/news-homepages/sites/nbcchicago.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcchicago.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcchicago.xml)|
 |[NBC News](https://palewi.re/docs/news-homepages/sites/nbcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml)|
 |[New York Times](https://palewi.re/docs/news-homepages/sites/nytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
 |[New Yorker](https://palewi.re/docs/news-homepages/sites/newyorker.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newyorker.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newyorker.xml)|
