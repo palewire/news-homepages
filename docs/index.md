@@ -22,7 +22,7 @@ extracts
 :maxdepth: 1
 :name: contributing
 
-contributing
+gettingstarted
 adding
 reference
 ```

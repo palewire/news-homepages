@@ -1,7 +1,7 @@
 ```{include} _templates/nav.html
 ```
 
-# Contributing
+# Getting started
 
 ```{contents} Sections
 :local:
