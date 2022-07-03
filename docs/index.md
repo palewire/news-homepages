@@ -22,8 +22,7 @@ extracts
 :maxdepth: 1
 :name: contributing
 
-installation
-usage
+contributing
 adding
 reference
 ```
