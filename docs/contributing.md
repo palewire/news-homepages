@@ -3,7 +3,7 @@
 
 # Contributing
 
-```{contents} Files
+```{contents} Sections
 :local:
 :depth: 1
 ```
