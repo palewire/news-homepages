@@ -1,5 +1,5 @@
 {
-  "created": 1656808188,
+  "created": 1656894377,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/wttw-2022",
@@ -1318,31 +1318,157 @@
       "sha1": "b1b76084bd00b5fecc976a77ac00c988cf612195"
     },
     {
+      "name": "wttw-2022-07-02T20:39:02.566026-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656812345",
+      "size": "17910",
+      "md5": "a37dee509b5a263a5150d97dc7b0ed0e",
+      "crc32": "fbfed2f6",
+      "sha1": "d6b75f562ebe5d4ed989802135400e3601b31c24",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-07-02T20:39:02.566026-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656812346",
+      "size": "21573",
+      "md5": "afd2c9db4c82d213d7a2596b80c90f34",
+      "crc32": "c0dd669f",
+      "sha1": "2430cc974ccc1f21f23d0a6c433b2b31e74615fd",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-07-02T20:39:02.566026-05:00.jpg",
+      "source": "original",
+      "mtime": "1656812344",
+      "size": "340763",
+      "md5": "58e6d5a39eccb07829a6391ff26b080b",
+      "crc32": "60dea736",
+      "sha1": "b350e5bd995a69c13b0db9cbb6780f391fe685e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-07-02T20:39:02.566026-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-07-02T20:39:02.566026-05:00.jpg",
+      "mtime": "1656812395",
+      "size": "10449",
+      "md5": "d354796a326466b0dd06b98e84933600",
+      "crc32": "8cf46053",
+      "sha1": "efa2caf954471722e3f390dd061b7d4fe650795f"
+    },
+    {
+      "name": "wttw-2022-07-03T08:17:32.961630-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656854257",
+      "size": "17893",
+      "md5": "6079c755bd8b43449c49ac139bc13396",
+      "crc32": "a4ada16c",
+      "sha1": "7915a814bb8dc573c1e2e5853cf960dba3dc0d1d",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-07-03T08:17:32.961630-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656854258",
+      "size": "20913",
+      "md5": "74aa18fe60eb9515ea417cabe43fc2e0",
+      "crc32": "ffecc700",
+      "sha1": "39ff5a1e5416eef947b39adc42ae450e5959d925",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-07-03T08:17:32.961630-05:00.jpg",
+      "source": "original",
+      "mtime": "1656854254",
+      "size": "340671",
+      "md5": "d2680afca9fa247d8e7f3e291251dbd6",
+      "crc32": "20ed448a",
+      "sha1": "024288418165e1658f17ad30ce79a6a06c42dd95",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-07-03T08:17:32.961630-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-07-03T08:17:32.961630-05:00.jpg",
+      "mtime": "1656854308",
+      "size": "10481",
+      "md5": "7d5b896a37e1a1d6b1aec25b17d0208c",
+      "crc32": "316f2049",
+      "sha1": "18aeb01ce0c693059aba580110e5ec383ddfa466"
+    },
+    {
+      "name": "wttw-2022-07-03T10:29:15.006397-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656862160",
+      "size": "17894",
+      "md5": "6b6357988540ef598ceee30bee3ab967",
+      "crc32": "4891c785",
+      "sha1": "633c9c7bef89733b6b7052d449f9389e16cd6508",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-07-03T10:29:15.006397-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656862162",
+      "size": "21328",
+      "md5": "c9c834823b07181efb3256ba1f69c0d3",
+      "crc32": "5606a692",
+      "sha1": "b7f8cd94087daf278ba609e40d8bd6278617b28e",
+      "format": "JSON"
+    },
+    {
+      "name": "wttw-2022-07-03T10:29:15.006397-05:00.jpg",
+      "source": "original",
+      "mtime": "1656862158",
+      "size": "340215",
+      "md5": "4b00062d9919812df9b3548a178cdab1",
+      "crc32": "a547004c",
+      "sha1": "38503e414e9c5107af10091b02bdcfc4e8e7a260",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wttw-2022-07-03T10:29:15.006397-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wttw-2022-07-03T10:29:15.006397-05:00.jpg",
+      "mtime": "1656862206",
+      "size": "10469",
+      "md5": "810aae72b5cec653e2fd0df9dae41fa3",
+      "crc32": "e7573e70",
+      "sha1": "eb280093c270b0c54cb4c5eb5c7b05b2fa8e25f1"
+    },
+    {
       "name": "wttw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa7c9951c571e33a68e88cceb619ec5d617959c1",
-      "mtime": "1656768234",
-      "size": "27211",
-      "md5": "674225f02886351dc1394ad61de1d62e",
-      "crc32": "8c9d2cf4",
-      "sha1": "9ff802e40d1e77e372965adb11c4d671eadf4325",
+      "btih": "097e9bcc43775460c4687c298d8a9effb168a528",
+      "mtime": "1656862209",
+      "size": "29693",
+      "md5": "525f2ba0786ce7fbf75778bf2f9d62fc",
+      "crc32": "0f256748",
+      "sha1": "50e8af246b07ba3791c5b2a9d3a43b4ea7b6886c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wttw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2078d8a5cdab863863e9298dd84f111c",
+      "md5": "94c5ce17f909752b93abd04f96885668",
       "summation": "md5"
     },
     {
       "name": "wttw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656768104",
-      "size": "163840",
-      "md5": "4198496083958804836b546211070717",
-      "crc32": "3bb54d60",
-      "sha1": "aa4122d83468c286f1eb329522ca0a4fe13a37bc",
+      "mtime": "1656862165",
+      "size": "176128",
+      "md5": "0ec0bad5725e00215568433fb35a3c71",
+      "crc32": "5a7fd250",
+      "sha1": "cbe234cca119fd246222be672cb940f2cb62b7e5",
       "format": "Metadata"
     },
     {
@@ -1356,9 +1482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 129,
-  "item_last_updated": 1656768234,
-  "item_size": 10630059,
+  "files_count": 141,
+  "item_last_updated": 1656862209,
+  "item_size": 11815388,
   "metadata": {
     "identifier": "wttw-2022",
     "collection": [
@@ -1375,11 +1501,11 @@
     "publicdate": "2022-06-24 23:05:07",
     "addeddate": "2022-06-24 23:05:07"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 592439125,
+  "server": "ia801409.us.archive.org",
+  "uniq": 744332733,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ],
   "wttw-2022": [
     {
@@ -1640,15 +1766,19 @@
     },
     {
       "text": "",
-      "url": "https://schedule.wttw.com/episodes/553889/Lidias-Kitchen/Prepare-The-Harvest/"
+      "url": "https://schedule.wttw.com/episodes/575687/Hotel-Portofino/Invitations/"
     },
     {
       "text": "",
-      "url": "/content/lidias-kitchen-italian-essentials"
+      "url": "/content/hotel-portofino-invitations"
     },
     {
-      "text": "Lidia's Kitchen: Italian Essentials",
-      "url": "https://schedule.wttw.com/episodes/553889/Lidias-Kitchen/Prepare-The-Harvest/"
+      "text": "Hotel Portofino: Invitations",
+      "url": "https://schedule.wttw.com/episodes/575687/Hotel-Portofino/Invitations/"
+    },
+    {
+      "text": "Watch Preview",
+      "url": "https://schedule.wttw.com/episodes/575687/Hotel-Portofino/Invitations/?tp=24ae6599-3909-46ba-acd4-f920d704908f"
     },
     {
       "text": "What to Watch in July",
@@ -1739,204 +1869,204 @@
       "url": "https://schedule.wttw.com/"
     },
     {
-      "text": "Arthur",
-      "url": "//schedule.wttw.com/series/5894/Arthur"
+      "text": "Finding Your Roots",
+      "url": "//schedule.wttw.com/series/18945/Finding-Your-Roots"
     },
     {
-      "text": "The Boy with His Head in the Clouds/More!",
-      "url": "//schedule.wttw.com/episodes/458009/Arthur/The-Boy-with-His-Head-in-the-Clouds/More!"
+      "text": "Hard Times",
+      "url": "//schedule.wttw.com/episodes/470287/Finding-Your-Roots/Hard-Times"
     },
     {
-      "text": "Alma's Way",
-      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
+      "text": "Pritzker Military Presents",
+      "url": "//schedule.wttw.com/series/24852/Pritzker-Military-Presents"
     },
     {
-      "text": "Steggie Rescue/Alma Hits The Right Note",
-      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
+      "text": "Zero to Hero: from Bullied Kid to Warrior",
+      "url": "//schedule.wttw.com/episodes/466841/Pritzker-Military-Presents/Zero-to-Hero:-from-Bullied-Kid-to-Warrior"
     },
     {
-      "text": "Curious George",
-      "url": "//schedule.wttw.com/series/14227/Curious-George"
+      "text": "Great Performances at the Met",
+      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
     },
     {
-      "text": "Doctor Monkey/Curious George The Architect",
-      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
+      "text": "Ariadne Auf Naxos",
+      "url": "//schedule.wttw.com/episodes/579384/Great-Performances-at-the-Met/Ariadne-Auf-Naxos"
     },
     {
-      "text": "Daniel Tiger's Neighborhood",
-      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
+      "text": "Frank Ferrante's Groucho",
+      "url": "//schedule.wttw.com/series/34252/Frank-Ferrante's-Groucho"
     },
     {
-      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
-      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/564272/Frank-Ferrante's-Groucho/"
     },
     {
-      "text": "J Schwanke's Life In Bloom",
-      "url": "//schedule.wttw.com/series/28891/J-Schwanke's-Life-In-Bloom"
+      "text": "American Masters",
+      "url": "//schedule.wttw.com/series/136/American-Masters"
     },
     {
-      "text": "What Goes Around",
-      "url": "//schedule.wttw.com/episodes/569804/J-Schwanke's-Life-In-Bloom/What-Goes-Around"
+      "text": "Joe Papp In Five Acts",
+      "url": "//schedule.wttw.com/episodes/578197/American-Masters/Joe-Papp-In-Five-Acts"
     },
     {
-      "text": "Arthur",
-      "url": "//schedule.wttw.com/series/5894/Arthur"
+      "text": "Finding Your Roots",
+      "url": "//schedule.wttw.com/series/18945/Finding-Your-Roots"
     },
     {
-      "text": "The Boy with His Head in the Clouds/More!",
-      "url": "//schedule.wttw.com/episodes/458009/Arthur/The-Boy-with-His-Head-in-the-Clouds/More!"
+      "text": "Hard Times",
+      "url": "//schedule.wttw.com/episodes/470287/Finding-Your-Roots/Hard-Times"
     },
     {
-      "text": "Alma's Way",
-      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
+      "text": "Pritzker Military Presents",
+      "url": "//schedule.wttw.com/series/24852/Pritzker-Military-Presents"
     },
     {
-      "text": "Steggie Rescue/Alma Hits The Right Note",
-      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
+      "text": "Zero to Hero: from Bullied Kid to Warrior",
+      "url": "//schedule.wttw.com/episodes/466841/Pritzker-Military-Presents/Zero-to-Hero:-from-Bullied-Kid-to-Warrior"
     },
     {
-      "text": "Curious George",
-      "url": "//schedule.wttw.com/series/14227/Curious-George"
+      "text": "Great Performances at the Met",
+      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
     },
     {
-      "text": "Doctor Monkey/Curious George The Architect",
-      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
+      "text": "Ariadne Auf Naxos",
+      "url": "//schedule.wttw.com/episodes/579384/Great-Performances-at-the-Met/Ariadne-Auf-Naxos"
     },
     {
-      "text": "Daniel Tiger's Neighborhood",
-      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
+      "text": "Frank Ferrante's Groucho",
+      "url": "//schedule.wttw.com/series/34252/Frank-Ferrante's-Groucho"
     },
     {
-      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
-      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/564272/Frank-Ferrante's-Groucho/"
     },
     {
-      "text": "J Schwanke's Life In Bloom",
-      "url": "//schedule.wttw.com/series/28891/J-Schwanke's-Life-In-Bloom"
+      "text": "American Masters",
+      "url": "//schedule.wttw.com/series/136/American-Masters"
     },
     {
-      "text": "What Goes Around",
-      "url": "//schedule.wttw.com/episodes/569804/J-Schwanke's-Life-In-Bloom/What-Goes-Around"
+      "text": "Joe Papp In Five Acts",
+      "url": "//schedule.wttw.com/episodes/578197/American-Masters/Joe-Papp-In-Five-Acts"
     },
     {
-      "text": "Arthur",
-      "url": "//schedule.wttw.com/series/5894/Arthur"
+      "text": "Finding Your Roots",
+      "url": "//schedule.wttw.com/series/18945/Finding-Your-Roots"
     },
     {
-      "text": "The Boy with His Head in the Clouds/More!",
-      "url": "//schedule.wttw.com/episodes/458009/Arthur/The-Boy-with-His-Head-in-the-Clouds/More!"
+      "text": "Hard Times",
+      "url": "//schedule.wttw.com/episodes/470287/Finding-Your-Roots/Hard-Times"
     },
     {
-      "text": "Alma's Way",
-      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
+      "text": "Pritzker Military Presents",
+      "url": "//schedule.wttw.com/series/24852/Pritzker-Military-Presents"
     },
     {
-      "text": "Steggie Rescue/Alma Hits The Right Note",
-      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
+      "text": "Zero to Hero: from Bullied Kid to Warrior",
+      "url": "//schedule.wttw.com/episodes/466841/Pritzker-Military-Presents/Zero-to-Hero:-from-Bullied-Kid-to-Warrior"
     },
     {
-      "text": "Curious George",
-      "url": "//schedule.wttw.com/series/14227/Curious-George"
+      "text": "Great Performances at the Met",
+      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
     },
     {
-      "text": "Doctor Monkey/Curious George The Architect",
-      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
+      "text": "Ariadne Auf Naxos",
+      "url": "//schedule.wttw.com/episodes/579384/Great-Performances-at-the-Met/Ariadne-Auf-Naxos"
     },
     {
-      "text": "Daniel Tiger's Neighborhood",
-      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
+      "text": "Frank Ferrante's Groucho",
+      "url": "//schedule.wttw.com/series/34252/Frank-Ferrante's-Groucho"
     },
     {
-      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
-      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/564272/Frank-Ferrante's-Groucho/"
     },
     {
-      "text": "J Schwanke's Life In Bloom",
-      "url": "//schedule.wttw.com/series/28891/J-Schwanke's-Life-In-Bloom"
+      "text": "American Masters",
+      "url": "//schedule.wttw.com/series/136/American-Masters"
     },
     {
-      "text": "What Goes Around",
-      "url": "//schedule.wttw.com/episodes/569804/J-Schwanke's-Life-In-Bloom/What-Goes-Around"
+      "text": "Joe Papp In Five Acts",
+      "url": "//schedule.wttw.com/episodes/578197/American-Masters/Joe-Papp-In-Five-Acts"
     },
     {
-      "text": "Arthur",
-      "url": "//schedule.wttw.com/series/5894/Arthur"
+      "text": "Finding Your Roots",
+      "url": "//schedule.wttw.com/series/18945/Finding-Your-Roots"
     },
     {
-      "text": "The Boy with His Head in the Clouds/More!",
-      "url": "//schedule.wttw.com/episodes/458009/Arthur/The-Boy-with-His-Head-in-the-Clouds/More!"
+      "text": "Hard Times",
+      "url": "//schedule.wttw.com/episodes/470287/Finding-Your-Roots/Hard-Times"
     },
     {
-      "text": "Alma's Way",
-      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
+      "text": "Pritzker Military Presents",
+      "url": "//schedule.wttw.com/series/24852/Pritzker-Military-Presents"
     },
     {
-      "text": "Steggie Rescue/Alma Hits The Right Note",
-      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
+      "text": "Zero to Hero: from Bullied Kid to Warrior",
+      "url": "//schedule.wttw.com/episodes/466841/Pritzker-Military-Presents/Zero-to-Hero:-from-Bullied-Kid-to-Warrior"
     },
     {
-      "text": "Curious George",
-      "url": "//schedule.wttw.com/series/14227/Curious-George"
+      "text": "Great Performances at the Met",
+      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
     },
     {
-      "text": "Doctor Monkey/Curious George The Architect",
-      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
+      "text": "Ariadne Auf Naxos",
+      "url": "//schedule.wttw.com/episodes/579384/Great-Performances-at-the-Met/Ariadne-Auf-Naxos"
     },
     {
-      "text": "Daniel Tiger's Neighborhood",
-      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
+      "text": "Frank Ferrante's Groucho",
+      "url": "//schedule.wttw.com/series/34252/Frank-Ferrante's-Groucho"
     },
     {
-      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
-      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/564272/Frank-Ferrante's-Groucho/"
     },
     {
-      "text": "J Schwanke's Life In Bloom",
-      "url": "//schedule.wttw.com/series/28891/J-Schwanke's-Life-In-Bloom"
+      "text": "American Masters",
+      "url": "//schedule.wttw.com/series/136/American-Masters"
     },
     {
-      "text": "What Goes Around",
-      "url": "//schedule.wttw.com/episodes/569804/J-Schwanke's-Life-In-Bloom/What-Goes-Around"
+      "text": "Joe Papp In Five Acts",
+      "url": "//schedule.wttw.com/episodes/578197/American-Masters/Joe-Papp-In-Five-Acts"
     },
     {
-      "text": "Arthur",
-      "url": "//schedule.wttw.com/series/5894/Arthur"
+      "text": "Finding Your Roots",
+      "url": "//schedule.wttw.com/series/18945/Finding-Your-Roots"
     },
     {
-      "text": "The Boy with His Head in the Clouds/More!",
-      "url": "//schedule.wttw.com/episodes/458009/Arthur/The-Boy-with-His-Head-in-the-Clouds/More!"
+      "text": "Hard Times",
+      "url": "//schedule.wttw.com/episodes/470287/Finding-Your-Roots/Hard-Times"
     },
     {
-      "text": "Alma's Way",
-      "url": "//schedule.wttw.com/series/32940/Alma's-Way"
+      "text": "Pritzker Military Presents",
+      "url": "//schedule.wttw.com/series/24852/Pritzker-Military-Presents"
     },
     {
-      "text": "Steggie Rescue/Alma Hits The Right Note",
-      "url": "//schedule.wttw.com/episodes/552919/Alma's-Way/Steggie-Rescue/Alma-Hits-The-Right-Note"
+      "text": "Zero to Hero: from Bullied Kid to Warrior",
+      "url": "//schedule.wttw.com/episodes/466841/Pritzker-Military-Presents/Zero-to-Hero:-from-Bullied-Kid-to-Warrior"
     },
     {
-      "text": "Curious George",
-      "url": "//schedule.wttw.com/series/14227/Curious-George"
+      "text": "Great Performances at the Met",
+      "url": "//schedule.wttw.com/series/14651/Great-Performances-at-the-Met"
     },
     {
-      "text": "Doctor Monkey/Curious George The Architect",
-      "url": "//schedule.wttw.com/episodes/515212/Curious-George/Doctor-Monkey/Curious-George-The-Architect"
+      "text": "Ariadne Auf Naxos",
+      "url": "//schedule.wttw.com/episodes/579384/Great-Performances-at-the-Met/Ariadne-Auf-Naxos"
     },
     {
-      "text": "Daniel Tiger's Neighborhood",
-      "url": "//schedule.wttw.com/series/19344/Daniel-Tiger's-Neighborhood"
+      "text": "Frank Ferrante's Groucho",
+      "url": "//schedule.wttw.com/series/34252/Frank-Ferrante's-Groucho"
     },
     {
-      "text": "It's Time to Go/Daniel Doesn't Want to Stop Playing",
-      "url": "//schedule.wttw.com/episodes/391870/Daniel-Tiger's-Neighborhood/It's-Time-to-Go/Daniel-Doesn't-Want-to-Stop-Playing"
+      "text": "",
+      "url": "//schedule.wttw.com/episodes/564272/Frank-Ferrante's-Groucho/"
     },
     {
-      "text": "J Schwanke's Life In Bloom",
-      "url": "//schedule.wttw.com/series/28891/J-Schwanke's-Life-In-Bloom"
+      "text": "American Masters",
+      "url": "//schedule.wttw.com/series/136/American-Masters"
     },
     {
-      "text": "What Goes Around",
-      "url": "//schedule.wttw.com/episodes/569804/J-Schwanke's-Life-In-Bloom/What-Goes-Around"
+      "text": "Joe Papp In Five Acts",
+      "url": "//schedule.wttw.com/episodes/578197/American-Masters/Joe-Papp-In-Five-Acts"
     },
     {
       "text": "Subscribe",

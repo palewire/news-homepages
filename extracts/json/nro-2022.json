@@ -1,5 +1,5 @@
 {
-  "created": 1656808003,
+  "created": 1656894181,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/8/items/nro-2022",
@@ -5620,31 +5620,147 @@
       "sha1": "1dcffbcc25115ba1495c12ff47686162cd3b741d"
     },
     {
+      "name": "nro-2022-07-02T21:32:59.013861-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656811983",
+      "size": "91880",
+      "md5": "d8f4c4f56586c7c174b4847e6cca4f39",
+      "crc32": "eb6c4d48",
+      "sha1": "4c10ed8bd2c50f93aa35d5d6ec3ebfc9509bccd7",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-07-02T21:32:59.013861-04:00.jpg",
+      "source": "original",
+      "mtime": "1656811982",
+      "size": "293597",
+      "md5": "be09019264239b3887f48bf635949c6b",
+      "crc32": "f219fe50",
+      "sha1": "10dd013fccedee4e54e0479f6aa47c17cc00a742",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nro-2022-07-02T21:32:59.013861-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nro-2022-07-02T21:32:59.013861-04:00.jpg",
+      "mtime": "1656812042",
+      "size": "9843",
+      "md5": "3b1bac9aaa41370fe82008a725e28b38",
+      "crc32": "e6e3701c",
+      "sha1": "d7ff2263aaeac227abb49fe147d66e96f9cad4c3"
+    },
+    {
+      "name": "nro-2022-07-03T09:11:21.214114-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853888",
+      "size": "59926",
+      "md5": "2c9893f1d15a2423aacd5dbb234ba7fe",
+      "crc32": "3fc4b45d",
+      "sha1": "daea89d1ee35798a378e2f5b26ff304771bdd86b",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-07-03T09:11:21.214114-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853889",
+      "size": "104246",
+      "md5": "5bf01eaab87b45a8d7042971c7e987e1",
+      "crc32": "dab72a64",
+      "sha1": "80f04f7d2a592f2f71dc5bdaa6a3e9279005f785",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-07-03T09:11:21.214114-04:00.jpg",
+      "source": "original",
+      "mtime": "1656853886",
+      "size": "297051",
+      "md5": "c7db14a272121145f8ca5c8554a46f6d",
+      "crc32": "6f275869",
+      "sha1": "da467be9a3b2d8539fb68988bbcd0432fe3c4331",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nro-2022-07-03T09:11:21.214114-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nro-2022-07-03T09:11:21.214114-04:00.jpg",
+      "mtime": "1656853973",
+      "size": "9906",
+      "md5": "1a16f8681f3e6d017090047af45fbea0",
+      "crc32": "790f31a5",
+      "sha1": "1a0dfcf082e6f8bc0a093026f3701cd7b63ee6ab"
+    },
+    {
+      "name": "nro-2022-07-03T11:13:10.622506-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656861196",
+      "size": "60349",
+      "md5": "be1740f5580159617053b85c7183df0c",
+      "crc32": "54ff631a",
+      "sha1": "d03599843f49cc58a062990c83ba65515a9ee63e",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-07-03T11:13:10.622506-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656861198",
+      "size": "104283",
+      "md5": "a60f5184da28fc8e38148f264dd99768",
+      "crc32": "4e60d2f5",
+      "sha1": "464b2637c645781d4f4b66e8b291aca53211365e",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-07-03T11:13:10.622506-04:00.jpg",
+      "source": "original",
+      "mtime": "1656861194",
+      "size": "299628",
+      "md5": "e03b00407af32084e3189eaea2a248ce",
+      "crc32": "a1f279a3",
+      "sha1": "628b6fbffb79bf5f43270006142085ef3fe3b58f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nro-2022-07-03T11:13:10.622506-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nro-2022-07-03T11:13:10.622506-04:00.jpg",
+      "mtime": "1656861253",
+      "size": "9922",
+      "md5": "5febe990b5614f58ba018b5862b3c92b",
+      "crc32": "ee2eb42b",
+      "sha1": "3da6ea047cf909436ac5fa6840cd003480a2572e"
+    },
+    {
       "name": "nro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "553936d134ebe367c1698907413f8636200d9afa",
-      "mtime": "1656775544",
-      "size": "111738",
-      "md5": "4c07620f9ed38d7a8260b1ac93770a3d",
-      "crc32": "5dbb4ce0",
-      "sha1": "4f76753c6d8a580dc83ee27b2600a16c02eaccba",
+      "btih": "3e63821c8d4550fb2b1929eb656a7092bfd5bc36",
+      "mtime": "1656861260",
+      "size": "113998",
+      "md5": "a779057900462144340e02e67ee2c8ef",
+      "crc32": "e0eb5376",
+      "sha1": "21a10e3e8666e508f9558dbd39d4414bf4b50756",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a6ced3e4b04d28274453a38334bde9eb",
+      "md5": "b5731f1857fbf41b5bd956bebd309d17",
       "summation": "md5"
     },
     {
       "name": "nro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656775459",
-      "size": "614400",
-      "md5": "638147ca3048214ca28f8d620ec83a12",
-      "crc32": "31d33517",
-      "sha1": "df44e322f6c5c45724951859b38dbff78145e915",
+      "mtime": "1656861203",
+      "size": "630784",
+      "md5": "d8d05e7e6078feb5d09d1dafd73ddda2",
+      "crc32": "15348565",
+      "sha1": "9b6f914c75f5a49c79a97696c338a456e0be5acc",
       "format": "Metadata"
     },
     {
@@ -5658,9 +5774,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 538,
-  "item_last_updated": 1656775544,
-  "item_size": 60065651,
+  "files_count": 549,
+  "item_last_updated": 1656861260,
+  "item_size": 61424926,
   "metadata": {
     "identifier": "nro-2022",
     "collection": [
@@ -6479,28 +6595,28 @@
       "url": "#login-modal"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tWhy Roe Wasn't Codified\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/06/why-didnt-democrats-codify-roe-when-they-had-the-chance/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=first"
+      "text": "\n\t\t\t\t\t\t\tThe Left\u2019s Implosion\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/lessons-from-the-lefts-implosion/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=first"
     },
     {
       "text": "\n\t\t\t\t\t\t\tJan. 6 Committee Drama\t\t\t\t\t\t",
       "url": "https://www.nationalreview.com/2022/07/kinzinger-undermines-the-january-6-committee/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=second"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tPutin\u2019s Vow\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/putin-vows-to-accelerate-unification-of-russia-belarus-in-response-to-threat-from-collective-west/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=third"
+      "text": "\n\t\t\t\t\t\t\tUvalde Official Resigns\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/uvalde-school-police-chief-resigns-from-city-council/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=third"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tBiden's Weakness\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=fourth"
+      "text": "\n\t\t\t\t\t\t\tPoll: Biden Shouldn\u2019t Run\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/over-70-percent-of-americans-dont-want-biden-to-seek-a-second-term-poll/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=fourth"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tMitch Daniels Looks Back\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/how-mitch-daniels-made-purdue-an-affordable-free-speech-haven/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=fifth"
+      "text": "\n\t\t\t\t\t\t\tWhere Patriotism Starts\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/patriotism-starts-in-the-classroom/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=fifth"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tAmerica Still Rocks\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/the-morning-jolt/why-america-still-rocks/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=sixth"
+      "text": "\n\t\t\t\t\t\t\tNR Webathon\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/donate/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=header&utm_content=popular&utm_term=sixth"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -6512,63 +6628,75 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/the-weekend-jolt/america-needs-an-advocate/"
+      "url": "https://www.nationalreview.com/2022/07/patriotism-starts-in-the-classroom/"
     },
     {
-      "text": "NR Webathon",
-      "url": "/nr-webathon/"
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
     },
     {
-      "text": "America Needs an Advocate",
-      "url": "https://www.nationalreview.com/the-weekend-jolt/america-needs-an-advocate/"
+      "text": "Education",
+      "url": "/education/"
     },
     {
-      "text": "Judson Berger",
-      "url": "https://www.nationalreview.com/author/judson-berger/"
+      "text": "Patriotism Starts in the Classroom",
+      "url": "https://www.nationalreview.com/2022/07/patriotism-starts-in-the-classroom/"
     },
     {
-      "text": "Stand with NR to counter the defeatism and self-loathing.",
-      "url": "https://www.nationalreview.com/the-weekend-jolt/america-needs-an-advocate/"
+      "text": "Kenin M. Spivak",
+      "url": "https://www.nationalreview.com/author/kenin-m-spivak/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/"
-    },
-    {
-      "text": "White House",
-      "url": "/white-house/"
-    },
-    {
-      "text": "Who\u2019s in Charge?",
-      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/"
-    },
-    {
-      "text": "Matthew Continetti",
-      "url": "https://www.nationalreview.com/author/matthew-continetti/"
-    },
-    {
-      "text": "Biden\u2019s drift and weakness.",
-      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/"
+      "text": "Progressive doctrine is replacing traditional curricula in our K\u201312 schools. If not reversed, we could lose the next generation of Americans.",
+      "url": "https://www.nationalreview.com/2022/07/patriotism-starts-in-the-classroom/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/leaked-u-s-navy-pronoun-directive/"
+      "url": "https://www.nationalreview.com/2022/07/the-anti-parent-biden-administration/"
     },
     {
-      "text": "PC Culture",
-      "url": "/pc-culture/"
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
     },
     {
-      "text": "LEAKED: U.S. Navy Pronoun Directive",
-      "url": "https://www.nationalreview.com/corner/leaked-u-s-navy-pronoun-directive/"
+      "text": "Politics & Policy",
+      "url": "/politics-policy/"
     },
     {
-      "text": "Luther Ray Abel",
-      "url": "https://www.nationalreview.com/author/luther-ray-abel/"
+      "text": "The Anti-Parent Biden Administration",
+      "url": "https://www.nationalreview.com/2022/07/the-anti-parent-biden-administration/"
     },
     {
-      "text": "It would seem that the Navy\u2019s recent pronoun training video has left many sailors confused about what pronouns are. Some clarity.",
-      "url": "https://www.nationalreview.com/corner/leaked-u-s-navy-pronoun-directive/"
+      "text": "Jack Wolfsohn",
+      "url": "https://www.nationalreview.com/author/jack-wolfsohn/"
+    },
+    {
+      "text": "At every turn, the administration is making decisions that are antithetical to what\u2019s best for America\u2019s children.",
+      "url": "https://www.nationalreview.com/2022/07/the-anti-parent-biden-administration/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/john-brown-is-no-model-for-christians/"
+    },
+    {
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
+    },
+    {
+      "text": "Religion",
+      "url": "/religion/"
+    },
+    {
+      "text": "John Brown Is No Model for Christians",
+      "url": "https://www.nationalreview.com/2022/07/john-brown-is-no-model-for-christians/"
+    },
+    {
+      "text": "Sam Negus",
+      "url": "https://www.nationalreview.com/author/sam-negus/"
+    },
+    {
+      "text": "The clarity of his moral politics may be appealing, but the radical autonomy of his approach amounts to anarchy.",
+      "url": "https://www.nationalreview.com/2022/07/john-brown-is-no-model-for-christians/"
     },
     {
       "text": "\n\t\t\t\n\t\t\tNR WIRE\n\t\t\t\t\t\t\t",
@@ -6579,28 +6707,24 @@
       "url": "https://www.nationalreview.com/news/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tTexas Supreme Court Blocks Order That Allowed Abortions to Resume\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/texas-supreme-court-blocks-order-that-allowed-abortions-to-resume/"
+      "text": "\n\t\t\t\t\t\t\tBezos Mocks Biden for \u2018Do It Now\u2019 Demand That Gas Stations Lower Prices\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/bezos-mocks-biden-for-do-it-now-demand-that-gas-stations-lower-prices/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\u2018We Came for Freedom\u2019: Republican Vietnamese Refugee Looks to Flip Northern Virginia House Seat\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/running-against-identity-politics-republican-vietnamese-refugee-looks-to-flip-northern-virginia-house-seat/"
+      "text": "\n\t\t\t\t\t\t\tUvalde School Police Chief Resigns from City Council\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/uvalde-school-police-chief-resigns-from-city-council/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tTexas Safety Officials to Conduct Random Intruder Drills in Schools following Uvalde Shooting\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/texas-safety-officials-to-conduct-random-intruder-drills-in-schools-following-uvalde-shooting/"
+      "text": "\n\t\t\t\t\t\t\tOver 70 Percent of Americans Don\u2019t Want Biden to Seek a Second Term: Poll\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/over-70-percent-of-americans-dont-want-biden-to-seek-a-second-term-poll/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tNew York Moves to Enshrine Constitutional Amendment Guaranteeing Abortion Access\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/new-york-moves-to-enshrine-constitutional-amendment-guaranteeing-abortion-access/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tPutin Vows to \u2018Accelerate\u2019 Unification of Russia, Belarus in Response to Threat from \u2018Collective West\u2019\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/putin-vows-to-accelerate-unification-of-russia-belarus-in-response-to-threat-from-collective-west/"
+      "text": "\n\t\t\t\t\t\t\tGoogle Will Delete Location History for Users Who Visit Abortion Clinics\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/google-will-delete-location-history-for-users-who-visit-abortion-clinics/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/kinzinger-undermines-the-january-6-committee/"
+      "url": "https://www.nationalreview.com/2022/07/lessons-from-the-lefts-implosion/"
     },
     {
       "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
@@ -6611,56 +6735,36 @@
       "url": "/politics-policy/"
     },
     {
-      "text": "Kinzinger Undermines the January 6 Committee",
-      "url": "https://www.nationalreview.com/2022/07/kinzinger-undermines-the-january-6-committee/"
+      "text": "Lessons from the Left\u2019s Implosion",
+      "url": "https://www.nationalreview.com/2022/07/lessons-from-the-lefts-implosion/"
     },
     {
-      "text": "Andrew C. McCarthy",
-      "url": "https://www.nationalreview.com/author/andrew-c-mccarthy/"
+      "text": "Kevin D. Williamson",
+      "url": "https://www.nationalreview.com/author/kevin-d-williamson/"
     },
     {
-      "text": "The anti-Trump Republican foolishly brands a Secret Service agent a liar on Twitter, amid the fracas over Cassidy Hutchinson\u2019s testimony.",
-      "url": "https://www.nationalreview.com/2022/07/kinzinger-undermines-the-january-6-committee/"
+      "text": "When all your power is invested in a handful of institutions, losing one is devastating.",
+      "url": "https://www.nationalreview.com/2022/07/lessons-from-the-lefts-implosion/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tMcCarthy: The January 6 Committee Should Release the Engel and Ornato Depositions\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/the-january-6-committee-should-release-the-engel-and-ornato-depositions/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=hero&utm_content=related&utm_term=first"
+      "text": "\n\t\t\t\t\t\t\tMcCormack: Why Didn\u2019t Democrats Codify Roe When They Had the Chance?\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/corner/why-democrats-didnt-codify-roe-when-they-had-the-chance/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=hero&utm_content=related&utm_term=first"
     },
     {
-      "text": "Andrew C. McCarthy",
-      "url": "https://www.nationalreview.com/author/andrew-c-mccarthy/"
+      "text": "John McCormack",
+      "url": "https://www.nationalreview.com/author/john-mccormack/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tMcCarthy: A Closer Look at the \u2018Hearsay\u2019 Claims Surrounding Hutchinson\u2019s Trump Testimony\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/a-closer-look-at-the-hearsay-claims-surrounding-hutchinsons-trump-testimony/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=hero&utm_content=related&utm_term=second"
+      "text": "\n\t\t\t\t\t\t\tGrant: The Pro-Life Legal Movement Also Deserves Credit for Dobbs\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/the-pro-life-legal-movement-also-deserves-credit-for-dobbs/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=hero&utm_content=related&utm_term=second"
     },
     {
-      "text": "Andrew C. McCarthy",
-      "url": "https://www.nationalreview.com/author/andrew-c-mccarthy/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/texas-supreme-court-blocks-order-that-allowed-abortions-to-resume/"
-    },
-    {
-      "text": "Law & the Courts",
-      "url": "/law-the-courts/"
-    },
-    {
-      "text": "Texas Supreme Court Blocks Order That Allowed Abortions to Resume",
-      "url": "https://www.nationalreview.com/news/texas-supreme-court-blocks-order-that-allowed-abortions-to-resume/"
-    },
-    {
-      "text": "Brittany Bernstein",
-      "url": "https://www.nationalreview.com/author/brittany-bernstein/"
-    },
-    {
-      "text": "The state\u2019s longstanding abortion ban had been unenforceable during the 50 years that Roe v. Wade\u00a0legalized the procedure.",
-      "url": "https://www.nationalreview.com/news/texas-supreme-court-blocks-order-that-allowed-abortions-to-resume/"
+      "text": "Edward R. Grant",
+      "url": "https://www.nationalreview.com/author/edward-r-grant/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/how-mitch-daniels-made-purdue-an-affordable-free-speech-haven/"
+      "url": "https://www.nationalreview.com/2022/07/the-insanity-of-political-instagram/"
     },
     {
       "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
@@ -6671,100 +6775,124 @@
       "url": "/politics-policy/"
     },
     {
-      "text": "How Mitch Daniels Made Purdue an Affordable Free-Speech Haven",
-      "url": "https://www.nationalreview.com/2022/07/how-mitch-daniels-made-purdue-an-affordable-free-speech-haven/"
+      "text": "The Insanity of Political Instagram",
+      "url": "https://www.nationalreview.com/2022/07/the-insanity-of-political-instagram/"
     },
     {
       "text": "Charles Hilu",
       "url": "https://www.nationalreview.com/author/charles-hilu/"
     },
     {
-      "text": "The university president, a former governor and businessman, is set to leave the school much improved from when he found it.",
-      "url": "https://www.nationalreview.com/2022/07/how-mitch-daniels-made-purdue-an-affordable-free-speech-haven/"
+      "text": "The post-Dobbs memes are more disingenuous than usual, which is saying something.",
+      "url": "https://www.nationalreview.com/2022/07/the-insanity-of-political-instagram/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/running-against-identity-politics-republican-vietnamese-refugee-looks-to-flip-northern-virginia-house-seat/"
+      "url": "https://www.nationalreview.com/2022/07/how-the-constitution-advances-the-common-good/"
     },
     {
       "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
       "url": "/tag/nrplus-member-articles/"
     },
     {
-      "text": "Elections",
-      "url": "/elections/"
+      "text": "Politics & Policy",
+      "url": "/politics-policy/"
     },
     {
-      "text": "\u2018We Came for Freedom\u2019: Republican Vietnamese Refugee Looks to Flip Virginia House Seat",
-      "url": "https://www.nationalreview.com/news/running-against-identity-politics-republican-vietnamese-refugee-looks-to-flip-northern-virginia-house-seat/"
+      "text": "How the Constitution Advances the Common Good",
+      "url": "https://www.nationalreview.com/2022/07/how-the-constitution-advances-the-common-good/"
     },
     {
-      "text": "Brittany Bernstein",
-      "url": "https://www.nationalreview.com/author/brittany-bernstein/"
+      "text": "Adam M. Carrington",
+      "url": "https://www.nationalreview.com/author/adam-m-carrington/"
     },
     {
-      "text": "Cao pulled off a stunning upset in the May primary, winning the right to challenge Democrat Jennifer Wexton in the general election.",
-      "url": "https://www.nationalreview.com/news/running-against-identity-politics-republican-vietnamese-refugee-looks-to-flip-northern-virginia-house-seat/"
+      "text": "Conservatives shouldn\u2019t move beyond our Constitution, but through originalism, they should seek another, worthy task: its restoration.",
+      "url": "https://www.nationalreview.com/2022/07/how-the-constitution-advances-the-common-good/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/reminiscences-of-my-remaking/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/bezos-mocks-biden-for-do-it-now-demand-that-gas-stations-lower-prices/"
+    },
+    {
+      "text": "Capital Matters",
+      "url": "/capital-matters/"
+    },
+    {
+      "text": "Bezos Mocks Biden for \u2018Do It Now\u2019 Demand That Gas Stations Lower Prices",
+      "url": "https://www.nationalreview.com/news/bezos-mocks-biden-for-do-it-now-demand-that-gas-stations-lower-prices/"
+    },
+    {
+      "text": "Caroline Downey",
+      "url": "https://www.nationalreview.com/author/caroline-downey/"
+    },
+    {
+      "text": "The former Amazon CEO said the president was either intentionally distorting the inflation situation or speaking with embarrassing economic ignorance.",
+      "url": "https://www.nationalreview.com/news/bezos-mocks-biden-for-do-it-now-demand-that-gas-stations-lower-prices/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/how-china-fails-to-protect-women/"
     },
     {
       "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
       "url": "/tag/nrplus-member-articles/"
     },
     {
-      "text": "Art",
-      "url": "/art/"
+      "text": "World",
+      "url": "/world/"
     },
     {
-      "text": "Reminiscences of My Remaking",
-      "url": "https://www.nationalreview.com/2022/07/reminiscences-of-my-remaking/"
+      "text": "How China Fails to Protect Women",
+      "url": "https://www.nationalreview.com/2022/07/how-china-fails-to-protect-women/"
     },
     {
-      "text": "Brian T. Allen",
-      "url": "https://www.nationalreview.com/author/brian-t-allen/"
+      "text": "Jianli Yang",
+      "url": "https://www.nationalreview.com/author/jianli-yang/"
     },
     {
-      "text": "A reunion of the Williams College art-history graduate program, which has created professors, museum directors, curators \u2014 and at least one art critic.",
-      "url": "https://www.nationalreview.com/2022/07/reminiscences-of-my-remaking/"
+      "text": "Xueli Wang",
+      "url": "https://www.nationalreview.com/author/xueli-wang/"
+    },
+    {
+      "text": "A growing number of horrific incidents prove that Chinese women cannot count on government protection in the face of powerful men.",
+      "url": "https://www.nationalreview.com/2022/07/how-china-fails-to-protect-women/"
     },
     {
       "text": "The Corner",
       "url": "https://www.nationalreview.com/corner"
     },
     {
-      "text": "A Double Dare",
-      "url": "https://www.nationalreview.com/corner/a-double-dare/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=corner&utm_term=first"
+      "text": "How Much Is Courage Worth to You?",
+      "url": "https://www.nationalreview.com/corner/how-much-is-courage-worth-to-you/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=corner&utm_term=first"
     },
     {
-      "text": "Jack Butler",
-      "url": "https://www.nationalreview.com/author/jack-butler/"
+      "text": "Rich Lowry",
+      "url": "https://www.nationalreview.com/author/rich-lowry/"
+    },
+    {
+      "text": "The Long-Term Problem with Responding to a Crisis with Scapegoating",
+      "url": "https://www.nationalreview.com/corner/the-long-term-problem-with-responding-to-a-crisis-with-scapegoating/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=corner&utm_term=second"
+    },
+    {
+      "text": "Jim Geraghty",
+      "url": "https://www.nationalreview.com/author/jim-geraghty/"
+    },
+    {
+      "text": "On the Jimmy Carter vs. Joe Biden Comparison",
+      "url": "https://www.nationalreview.com/corner/on-the-jimmy-carter-vs-joe-biden-comparison/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=corner&utm_term=third"
+    },
+    {
+      "text": "George Leef",
+      "url": "https://www.nationalreview.com/author/george-leef/"
     },
     {
       "text": "LEAKED: U.S. Navy Pronoun Directive",
-      "url": "https://www.nationalreview.com/corner/leaked-u-s-navy-pronoun-directive/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=corner&utm_term=second"
+      "url": "https://www.nationalreview.com/corner/leaked-u-s-navy-pronoun-directive/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=corner&utm_term=fourth"
     },
     {
       "text": "Luther Ray Abel",
       "url": "https://www.nationalreview.com/author/luther-ray-abel/"
-    },
-    {
-      "text": "Climate Policy, the Pre-Modern, and Rationing",
-      "url": "https://www.nationalreview.com/corner/climate-policy-the-pre-modern-and-rationing/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=corner&utm_term=third"
-    },
-    {
-      "text": "Andrew Stuttaford",
-      "url": "https://www.nationalreview.com/author/andrew-stuttaford/"
-    },
-    {
-      "text": "Blade Runner at 40",
-      "url": "https://www.nationalreview.com/corner/blade-runner-at-40/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=corner&utm_term=fourth"
-    },
-    {
-      "text": "Jack Butler",
-      "url": "https://www.nationalreview.com/author/jack-butler/"
     },
     {
       "text": "\n\t\t\t\t\t\tSupreme Court\t\t\t\t\t",
@@ -6772,27 +6900,7 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/a-historically-great-term/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
-    },
-    {
-      "text": "Law & the Courts",
-      "url": "/law-the-courts/"
-    },
-    {
-      "text": "A Historically Great Term",
-      "url": "https://www.nationalreview.com/2022/07/a-historically-great-term/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
-    },
-    {
-      "text": "The Editors",
-      "url": "https://www.nationalreview.com/author/the-editors/"
-    },
-    {
-      "text": "The Supreme Court, for the first time in memory, completes a term in which it actually did its job.",
-      "url": "https://www.nationalreview.com/2022/07/a-historically-great-term/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/the-pro-life-legal-movement-also-deserves-credit-for-dobbs/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+      "url": "https://www.nationalreview.com/2022/07/the-pro-life-legal-movement-also-deserves-credit-for-dobbs/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
     },
     {
       "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
@@ -6804,15 +6912,35 @@
     },
     {
       "text": "The Pro-Life Legal Movement Also Deserves Credit for Dobbs",
-      "url": "https://www.nationalreview.com/2022/07/the-pro-life-legal-movement-also-deserves-credit-for-dobbs/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+      "url": "https://www.nationalreview.com/2022/07/the-pro-life-legal-movement-also-deserves-credit-for-dobbs/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
     },
     {
       "text": "Edward R. Grant",
       "url": "https://www.nationalreview.com/author/edward-r-grant/"
     },
     {
-      "text": "It should be not merely celebrated but emulated.",
-      "url": "https://www.nationalreview.com/2022/07/the-pro-life-legal-movement-also-deserves-credit-for-dobbs/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+      "text": "The intellectually, ideologically, and religiously diverse cohort of the historical pro-life legal movement should be not merely celebrated but emulated.",
+      "url": "https://www.nationalreview.com/2022/07/the-pro-life-legal-movement-also-deserves-credit-for-dobbs/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/a-historically-great-term/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+    },
+    {
+      "text": "Law & the Courts",
+      "url": "/law-the-courts/"
+    },
+    {
+      "text": "A Historically Great Term",
+      "url": "https://www.nationalreview.com/2022/07/a-historically-great-term/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+    },
+    {
+      "text": "The Editors",
+      "url": "https://www.nationalreview.com/author/the-editors/"
+    },
+    {
+      "text": "The Supreme Court, for the first time in memory, completes a term in which it actually did its job.",
+      "url": "https://www.nationalreview.com/2022/07/a-historically-great-term/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -6848,7 +6976,47 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/on-top-of-all-these-problems-an-economic-recession/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
+      "url": "https://www.nationalreview.com/news/over-70-percent-of-americans-dont-want-biden-to-seek-a-second-term-poll/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
+    },
+    {
+      "text": "Elections",
+      "url": "/elections/"
+    },
+    {
+      "text": "Over 70 Percent of Americans Don\u2019t Want Biden to Seek a Second Term: Poll",
+      "url": "https://www.nationalreview.com/news/over-70-percent-of-americans-dont-want-biden-to-seek-a-second-term-poll/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
+    },
+    {
+      "text": "Brittany Bernstein",
+      "url": "https://www.nationalreview.com/author/brittany-bernstein/"
+    },
+    {
+      "text": "Just 30 percent of Democrats said they would vote for Biden in a Democratic presidential primary.",
+      "url": "https://www.nationalreview.com/news/over-70-percent-of-americans-dont-want-biden-to-seek-a-second-term-poll/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+    },
+    {
+      "text": "White House",
+      "url": "/white-house/"
+    },
+    {
+      "text": "Who\u2019s in Charge?",
+      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+    },
+    {
+      "text": "Matthew Continetti",
+      "url": "https://www.nationalreview.com/author/matthew-continetti/"
+    },
+    {
+      "text": "Biden\u2019s drift and weakness.",
+      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/corner/on-top-of-all-these-problems-an-economic-recession/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
     },
     {
       "text": "Economy & Business",
@@ -6856,7 +7024,7 @@
     },
     {
       "text": "On Top of All These Problems, an Economic Recession?",
-      "url": "https://www.nationalreview.com/corner/on-top-of-all-these-problems-an-economic-recession/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
+      "url": "https://www.nationalreview.com/corner/on-top-of-all-these-problems-an-economic-recession/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
     },
     {
       "text": "Jim Geraghty",
@@ -6864,47 +7032,7 @@
     },
     {
       "text": "There is a good chance that on the morning of July 29, the headline will be, \u2018U.S. NOW IN RECESSION.\u2019",
-      "url": "https://www.nationalreview.com/corner/on-top-of-all-these-problems-an-economic-recession/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/joe-biden-wants-a-filibuster-carve-out-for-the-democratic-party/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
-    },
-    {
-      "text": "Politics & Policy",
-      "url": "/politics-policy/"
-    },
-    {
-      "text": "Joe Biden Wants a Filibuster Carve-Out for the Democratic Party",
-      "url": "https://www.nationalreview.com/corner/joe-biden-wants-a-filibuster-carve-out-for-the-democratic-party/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
-    },
-    {
-      "text": "Charles C. W. Cooke",
-      "url": "https://www.nationalreview.com/author/charles-c-w-cooke/"
-    },
-    {
-      "text": "It\u2019s a terrible, unworkable, cynical idea.",
-      "url": "https://www.nationalreview.com/corner/joe-biden-wants-a-filibuster-carve-out-for-the-democratic-party/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/kamala-harris-backtracks-after-guaranteeing-biden-will-run-in-2024/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
-    },
-    {
-      "text": "White House",
-      "url": "/white-house/"
-    },
-    {
-      "text": "Harris Backtracks after Guaranteeing Biden Will Run in 2024",
-      "url": "https://www.nationalreview.com/news/kamala-harris-backtracks-after-guaranteeing-biden-will-run-in-2024/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
-    },
-    {
-      "text": "Diana Glebova",
-      "url": "https://www.nationalreview.com/author/diana-glebova/"
-    },
-    {
-      "text": "Biden has not officially announced his 2024 bid.",
-      "url": "https://www.nationalreview.com/news/kamala-harris-backtracks-after-guaranteeing-biden-will-run-in-2024/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
+      "url": "https://www.nationalreview.com/corner/on-top-of-all-these-problems-an-economic-recession/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
     },
     {
       "text": "\n\t\t\t\n\t\t\t\tView More\t\t\t\n\t\t",
@@ -6915,28 +7043,8 @@
       "url": "/tag/ukraine"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/putin-vows-to-accelerate-unification-of-russia-belarus-in-response-to-threat-from-collective-west/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Putin Vows to \u2018Accelerate\u2019 Unification of Russia, Belarus",
-      "url": "https://www.nationalreview.com/news/putin-vows-to-accelerate-unification-of-russia-belarus-in-response-to-threat-from-collective-west/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
-    },
-    {
-      "text": "Diana Glebova",
-      "url": "https://www.nationalreview.com/author/diana-glebova/"
-    },
-    {
-      "text": "The comments come days after NATO formally invited Finland and Sweden to join the military alliance.",
-      "url": "https://www.nationalreview.com/news/putin-vows-to-accelerate-unification-of-russia-belarus-in-response-to-threat-from-collective-west/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
-    },
-    {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t69\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tView Slide Show\n\t\t\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/photos/russian-ukraine-war-week-18/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+      "url": "https://www.nationalreview.com/photos/russian-ukraine-war-week-18/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
     },
     {
       "text": "Russia-Ukraine Conflict",
@@ -6944,15 +7052,15 @@
     },
     {
       "text": "PHOTOS: Russian-Ukraine War",
-      "url": "https://www.nationalreview.com/photos/russian-ukraine-war-week-18/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+      "url": "https://www.nationalreview.com/photos/russian-ukraine-war-week-18/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
     },
     {
       "text": "Latest images from the war-torn region.",
-      "url": "https://www.nationalreview.com/photos/russian-ukraine-war-week-18/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+      "url": "https://www.nationalreview.com/photos/russian-ukraine-war-week-18/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=first"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/the-speakable-and-unspeakable/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
+      "url": "https://www.nationalreview.com/corner/the-speakable-and-unspeakable/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
     },
     {
       "text": "World",
@@ -6960,7 +7068,7 @@
     },
     {
       "text": "The Speakable and Unspeakable",
-      "url": "https://www.nationalreview.com/corner/the-speakable-and-unspeakable/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
+      "url": "https://www.nationalreview.com/corner/the-speakable-and-unspeakable/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
     },
     {
       "text": "Jay Nordlinger",
@@ -6968,7 +7076,27 @@
     },
     {
       "text": "Notes on Russia\u2019s ongoing assault on Ukraine and Ukrainians.",
-      "url": "https://www.nationalreview.com/corner/the-speakable-and-unspeakable/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
+      "url": "https://www.nationalreview.com/corner/the-speakable-and-unspeakable/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=second"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/corner/war-transforms-the-state/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "War Transforms the State",
+      "url": "https://www.nationalreview.com/corner/war-transforms-the-state/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
+    },
+    {
+      "text": "Michael Brendan Dougherty",
+      "url": "https://www.nationalreview.com/author/michael-brendan-dougherty/"
+    },
+    {
+      "text": "Aris Roussinos is one of the few Western journalists to actually embed with some of Ukraine\u2019s right-wing nationalist militias.",
+      "url": "https://www.nationalreview.com/corner/war-transforms-the-state/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=third"
     },
     {
       "text": "\n\t\t\t\n\t\t\t\tView More\t\t\t\n\t\t",
@@ -6977,6 +7105,322 @@
     {
       "text": "\n\t\t\t\t\tThe Latest\t\t\t\t",
       "url": "https://www.nationalreview.com/latest/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/the-anti-parent-biden-administration/"
+    },
+    {
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
+    },
+    {
+      "text": "Politics & Policy",
+      "url": "/politics-policy/"
+    },
+    {
+      "text": "The Anti-Parent Biden Administration",
+      "url": "https://www.nationalreview.com/2022/07/the-anti-parent-biden-administration/"
+    },
+    {
+      "text": "Jack Wolfsohn",
+      "url": "https://www.nationalreview.com/author/jack-wolfsohn/"
+    },
+    {
+      "text": "At every turn, the administration is making decisions that are antithetical to what\u2019s best for America\u2019s children.",
+      "url": "https://www.nationalreview.com/2022/07/the-anti-parent-biden-administration/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/bezos-mocks-biden-for-do-it-now-demand-that-gas-stations-lower-prices/"
+    },
+    {
+      "text": "Capital Matters",
+      "url": "/capital-matters/"
+    },
+    {
+      "text": "Bezos Mocks Biden for \u2018Do It Now\u2019 Demand That Gas Stations Lower Prices",
+      "url": "https://www.nationalreview.com/news/bezos-mocks-biden-for-do-it-now-demand-that-gas-stations-lower-prices/"
+    },
+    {
+      "text": "Caroline Downey",
+      "url": "https://www.nationalreview.com/author/caroline-downey/"
+    },
+    {
+      "text": "The former Amazon CEO said the president was either intentionally distorting the inflation situation or speaking with embarrassing economic ignorance.",
+      "url": "https://www.nationalreview.com/news/bezos-mocks-biden-for-do-it-now-demand-that-gas-stations-lower-prices/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/corner/the-long-term-problem-with-responding-to-a-crisis-with-scapegoating/"
+    },
+    {
+      "text": "Capital Matters",
+      "url": "/capital-matters/"
+    },
+    {
+      "text": "The Long-Term Problem with Responding to a Crisis with Scapegoating",
+      "url": "https://www.nationalreview.com/corner/the-long-term-problem-with-responding-to-a-crisis-with-scapegoating/"
+    },
+    {
+      "text": "Jim Geraghty",
+      "url": "https://www.nationalreview.com/author/jim-geraghty/"
+    },
+    {
+      "text": "Even if the president successfully blames others for problems on his watch, the country is still stuck with the lingering problems.",
+      "url": "https://www.nationalreview.com/corner/the-long-term-problem-with-responding-to-a-crisis-with-scapegoating/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/corner/how-much-is-courage-worth-to-you/"
+    },
+    {
+      "text": "NR Webathon",
+      "url": "/nr-webathon/"
+    },
+    {
+      "text": "How Much Is Courage Worth to You?",
+      "url": "https://www.nationalreview.com/corner/how-much-is-courage-worth-to-you/"
+    },
+    {
+      "text": "Rich Lowry",
+      "url": "https://www.nationalreview.com/author/rich-lowry/"
+    },
+    {
+      "text": "Courage, persistence, and attention to detail are invaluable qualities, and we\u2019re hoping you can affirm them with a contribution of any amount.",
+      "url": "https://www.nationalreview.com/corner/how-much-is-courage-worth-to-you/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/the-insanity-of-political-instagram/"
+    },
+    {
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
+    },
+    {
+      "text": "Politics & Policy",
+      "url": "/politics-policy/"
+    },
+    {
+      "text": "The Insanity of Political Instagram",
+      "url": "https://www.nationalreview.com/2022/07/the-insanity-of-political-instagram/"
+    },
+    {
+      "text": "Charles Hilu",
+      "url": "https://www.nationalreview.com/author/charles-hilu/"
+    },
+    {
+      "text": "The post-Dobbs memes are more disingenuous than usual, which is saying something.",
+      "url": "https://www.nationalreview.com/2022/07/the-insanity-of-political-instagram/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/how-china-fails-to-protect-women/"
+    },
+    {
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "How China Fails to Protect Women",
+      "url": "https://www.nationalreview.com/2022/07/how-china-fails-to-protect-women/"
+    },
+    {
+      "text": "Jianli Yang",
+      "url": "https://www.nationalreview.com/author/jianli-yang/"
+    },
+    {
+      "text": "Xueli Wang",
+      "url": "https://www.nationalreview.com/author/xueli-wang/"
+    },
+    {
+      "text": "A growing number of horrific incidents prove that Chinese women cannot count on government protection in the face of powerful men.",
+      "url": "https://www.nationalreview.com/2022/07/how-china-fails-to-protect-women/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/john-brown-is-no-model-for-christians/"
+    },
+    {
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
+    },
+    {
+      "text": "Religion",
+      "url": "/religion/"
+    },
+    {
+      "text": "John Brown Is No Model for Christians",
+      "url": "https://www.nationalreview.com/2022/07/john-brown-is-no-model-for-christians/"
+    },
+    {
+      "text": "Sam Negus",
+      "url": "https://www.nationalreview.com/author/sam-negus/"
+    },
+    {
+      "text": "The clarity of his moral politics may be appealing, but the radical autonomy of his approach amounts to anarchy.",
+      "url": "https://www.nationalreview.com/2022/07/john-brown-is-no-model-for-christians/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/lessons-from-the-lefts-implosion/"
+    },
+    {
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
+    },
+    {
+      "text": "Politics & Policy",
+      "url": "/politics-policy/"
+    },
+    {
+      "text": "Lessons from the Left\u2019s Implosion",
+      "url": "https://www.nationalreview.com/2022/07/lessons-from-the-lefts-implosion/"
+    },
+    {
+      "text": "Kevin D. Williamson",
+      "url": "https://www.nationalreview.com/author/kevin-d-williamson/"
+    },
+    {
+      "text": "When all your power is invested in a handful of institutions, losing one is devastating.",
+      "url": "https://www.nationalreview.com/2022/07/lessons-from-the-lefts-implosion/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/the-jews-of-the-middle-east-zionists-before-zionism/"
+    },
+    {
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
+    },
+    {
+      "text": "Religion",
+      "url": "/religion/"
+    },
+    {
+      "text": "The Jews of the Middle East: Zionists Before Zionism",
+      "url": "https://www.nationalreview.com/2022/07/the-jews-of-the-middle-east-zionists-before-zionism/"
+    },
+    {
+      "text": "Andrew Doran",
+      "url": "https://www.nationalreview.com/author/andrew-doran/"
+    },
+    {
+      "text": "The Sephardim whose forebears were driven from Middle Eastern countries make a unique contribution to Israel\u2019s culture and character.",
+      "url": "https://www.nationalreview.com/2022/07/the-jews-of-the-middle-east-zionists-before-zionism/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/patriotism-starts-in-the-classroom/"
+    },
+    {
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
+    },
+    {
+      "text": "Education",
+      "url": "/education/"
+    },
+    {
+      "text": "Patriotism Starts in the Classroom",
+      "url": "https://www.nationalreview.com/2022/07/patriotism-starts-in-the-classroom/"
+    },
+    {
+      "text": "Kenin M. Spivak",
+      "url": "https://www.nationalreview.com/author/kenin-m-spivak/"
+    },
+    {
+      "text": "Progressive doctrine is replacing traditional curricula in our K\u201312 schools. If not reversed, we could lose the next generation of Americans.",
+      "url": "https://www.nationalreview.com/2022/07/patriotism-starts-in-the-classroom/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/how-the-constitution-advances-the-common-good/"
+    },
+    {
+      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
+      "url": "/tag/nrplus-member-articles/"
+    },
+    {
+      "text": "Politics & Policy",
+      "url": "/politics-policy/"
+    },
+    {
+      "text": "How the Constitution Advances the Common Good",
+      "url": "https://www.nationalreview.com/2022/07/how-the-constitution-advances-the-common-good/"
+    },
+    {
+      "text": "Adam M. Carrington",
+      "url": "https://www.nationalreview.com/author/adam-m-carrington/"
+    },
+    {
+      "text": "Conservatives shouldn\u2019t move beyond our Constitution, but through originalism, they should seek another, worthy task: its restoration.",
+      "url": "https://www.nationalreview.com/2022/07/how-the-constitution-advances-the-common-good/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/uvalde-school-police-chief-resigns-from-city-council/"
+    },
+    {
+      "text": "U.S.",
+      "url": "/us/"
+    },
+    {
+      "text": "Uvalde School Police Chief Resigns from City Council",
+      "url": "https://www.nationalreview.com/news/uvalde-school-police-chief-resigns-from-city-council/"
+    },
+    {
+      "text": "Brittany Bernstein",
+      "url": "https://www.nationalreview.com/author/brittany-bernstein/"
+    },
+    {
+      "text": "Pete Arredondo was the on-scene commander during the Robb Elementary School shooting that left 19 students and 2 teachers dead.",
+      "url": "https://www.nationalreview.com/news/uvalde-school-police-chief-resigns-from-city-council/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/over-70-percent-of-americans-dont-want-biden-to-seek-a-second-term-poll/"
+    },
+    {
+      "text": "Elections",
+      "url": "/elections/"
+    },
+    {
+      "text": "Over 70 Percent of Americans Don\u2019t Want Biden to Seek a Second Term: Poll",
+      "url": "https://www.nationalreview.com/news/over-70-percent-of-americans-dont-want-biden-to-seek-a-second-term-poll/"
+    },
+    {
+      "text": "Brittany Bernstein",
+      "url": "https://www.nationalreview.com/author/brittany-bernstein/"
+    },
+    {
+      "text": "Just 30 percent of Democrats said they would vote for Biden in a Democratic presidential primary.",
+      "url": "https://www.nationalreview.com/news/over-70-percent-of-americans-dont-want-biden-to-seek-a-second-term-poll/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/news/google-will-delete-location-history-for-users-who-visit-abortion-clinics/"
+    },
+    {
+      "text": "Science & Tech",
+      "url": "/science-tech/"
+    },
+    {
+      "text": "Google Will Delete Location History for Users Who Visit Abortion Clinics",
+      "url": "https://www.nationalreview.com/news/google-will-delete-location-history-for-users-who-visit-abortion-clinics/"
+    },
+    {
+      "text": "Brittany Bernstein",
+      "url": "https://www.nationalreview.com/author/brittany-bernstein/"
+    },
+    {
+      "text": "More than 40 Democratic lawmakers had expressed concern that location data could be used to prosecute women who have abortions.",
+      "url": "https://www.nationalreview.com/news/google-will-delete-location-history-for-users-who-visit-abortion-clinics/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -6997,302 +7441,6 @@
     {
       "text": "The state\u2019s longstanding abortion ban had been unenforceable during the 50 years that Roe v. Wade\u00a0legalized the procedure.",
       "url": "https://www.nationalreview.com/news/texas-supreme-court-blocks-order-that-allowed-abortions-to-resume/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/leaked-u-s-navy-pronoun-directive/"
-    },
-    {
-      "text": "PC Culture",
-      "url": "/pc-culture/"
-    },
-    {
-      "text": "LEAKED: U.S. Navy Pronoun Directive",
-      "url": "https://www.nationalreview.com/corner/leaked-u-s-navy-pronoun-directive/"
-    },
-    {
-      "text": "Luther Ray Abel",
-      "url": "https://www.nationalreview.com/author/luther-ray-abel/"
-    },
-    {
-      "text": "It would seem that the Navy\u2019s recent pronoun training video has left many sailors confused about what pronouns are. Some clarity.",
-      "url": "https://www.nationalreview.com/corner/leaked-u-s-navy-pronoun-directive/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/climate-policy-the-pre-modern-and-rationing/"
-    },
-    {
-      "text": "Capital Matters",
-      "url": "/capital-matters/"
-    },
-    {
-      "text": "Climate Policy, the Pre-Modern, and Rationing",
-      "url": "https://www.nationalreview.com/corner/climate-policy-the-pre-modern-and-rationing/"
-    },
-    {
-      "text": "Andrew Stuttaford",
-      "url": "https://www.nationalreview.com/author/andrew-stuttaford/"
-    },
-    {
-      "text": "There is no rational reason that climate policy had to go in the direction that it has.",
-      "url": "https://www.nationalreview.com/corner/climate-policy-the-pre-modern-and-rationing/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/running-against-identity-politics-republican-vietnamese-refugee-looks-to-flip-northern-virginia-house-seat/"
-    },
-    {
-      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
-      "url": "/tag/nrplus-member-articles/"
-    },
-    {
-      "text": "Elections",
-      "url": "/elections/"
-    },
-    {
-      "text": "\u2018We Came for Freedom\u2019: Republican Vietnamese Refugee Looks to Flip Northern Virginia House Seat",
-      "url": "https://www.nationalreview.com/news/running-against-identity-politics-republican-vietnamese-refugee-looks-to-flip-northern-virginia-house-seat/"
-    },
-    {
-      "text": "Brittany Bernstein",
-      "url": "https://www.nationalreview.com/author/brittany-bernstein/"
-    },
-    {
-      "text": "Cao pulled off a stunning upset in the May primary, winning the right to challenge Democrat Jennifer Wexton in the general election.",
-      "url": "https://www.nationalreview.com/news/running-against-identity-politics-republican-vietnamese-refugee-looks-to-flip-northern-virginia-house-seat/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/kinzinger-undermines-the-january-6-committee/"
-    },
-    {
-      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
-      "url": "/tag/nrplus-member-articles/"
-    },
-    {
-      "text": "Politics & Policy",
-      "url": "/politics-policy/"
-    },
-    {
-      "text": "Kinzinger Undermines the January 6 Committee",
-      "url": "https://www.nationalreview.com/2022/07/kinzinger-undermines-the-january-6-committee/"
-    },
-    {
-      "text": "Andrew C. McCarthy",
-      "url": "https://www.nationalreview.com/author/andrew-c-mccarthy/"
-    },
-    {
-      "text": "The anti-Trump Republican foolishly brands a Secret Service agent a liar on Twitter, amid the fracas over Cassidy Hutchinson\u2019s testimony.",
-      "url": "https://www.nationalreview.com/2022/07/kinzinger-undermines-the-january-6-committee/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/blade-runner-at-40/"
-    },
-    {
-      "text": "Film & TV",
-      "url": "/film-tv/"
-    },
-    {
-      "text": "Blade Runner at 40",
-      "url": "https://www.nationalreview.com/corner/blade-runner-at-40/"
-    },
-    {
-      "text": "Jack Butler",
-      "url": "https://www.nationalreview.com/author/jack-butler/"
-    },
-    {
-      "text": "Brief notes on a sci-fi classic.",
-      "url": "https://www.nationalreview.com/corner/blade-runner-at-40/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/reminiscences-of-my-remaking/"
-    },
-    {
-      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
-      "url": "/tag/nrplus-member-articles/"
-    },
-    {
-      "text": "Art",
-      "url": "/art/"
-    },
-    {
-      "text": "Reminiscences of My Remaking",
-      "url": "https://www.nationalreview.com/2022/07/reminiscences-of-my-remaking/"
-    },
-    {
-      "text": "Brian T. Allen",
-      "url": "https://www.nationalreview.com/author/brian-t-allen/"
-    },
-    {
-      "text": "A reunion of the Williams College art-history graduate program, which has created professors, museum directors, curators \u2014 and at least one art critic.",
-      "url": "https://www.nationalreview.com/2022/07/reminiscences-of-my-remaking/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/how-mitch-daniels-made-purdue-an-affordable-free-speech-haven/"
-    },
-    {
-      "text": "\n\t\t\tNR\n\t\t\tPLUS\n\t\t",
-      "url": "/tag/nrplus-member-articles/"
-    },
-    {
-      "text": "Politics & Policy",
-      "url": "/politics-policy/"
-    },
-    {
-      "text": "How Mitch Daniels Made Purdue an Affordable Free-Speech Haven",
-      "url": "https://www.nationalreview.com/2022/07/how-mitch-daniels-made-purdue-an-affordable-free-speech-haven/"
-    },
-    {
-      "text": "Charles Hilu",
-      "url": "https://www.nationalreview.com/author/charles-hilu/"
-    },
-    {
-      "text": "The university president, a former governor and businessman, is set to leave the school much improved from when he found it.",
-      "url": "https://www.nationalreview.com/2022/07/how-mitch-daniels-made-purdue-an-affordable-free-speech-haven/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/"
-    },
-    {
-      "text": "White House",
-      "url": "/white-house/"
-    },
-    {
-      "text": "Who\u2019s in Charge?",
-      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/"
-    },
-    {
-      "text": "Matthew Continetti",
-      "url": "https://www.nationalreview.com/author/matthew-continetti/"
-    },
-    {
-      "text": "Biden\u2019s drift and weakness.",
-      "url": "https://www.nationalreview.com/2022/07/whos-in-charge/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/fifteen-things-that-caught-my-eye-today-christians-in-pakistan-getting-practical-about-life-after-roe-much-more/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Fifteen Things That Caught My Eye Today: Christians in Pakistan, Getting Practical about Life after Roe & Much More",
-      "url": "https://www.nationalreview.com/corner/fifteen-things-that-caught-my-eye-today-christians-in-pakistan-getting-practical-about-life-after-roe-much-more/"
-    },
-    {
-      "text": "Kathryn Jean Lopez",
-      "url": "https://www.nationalreview.com/author/kathryn-jean-lopez/"
-    },
-    {
-      "text": "The fifteen things that caught my eye today.",
-      "url": "https://www.nationalreview.com/corner/fifteen-things-that-caught-my-eye-today-christians-in-pakistan-getting-practical-about-life-after-roe-much-more/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/news/texas-safety-officials-to-conduct-random-intruder-drills-in-schools-following-uvalde-shooting/"
-    },
-    {
-      "text": "U.S.",
-      "url": "/us/"
-    },
-    {
-      "text": "Texas Safety Officials to Conduct Random Intruder Drills in Schools following Uvalde Shooting",
-      "url": "https://www.nationalreview.com/news/texas-safety-officials-to-conduct-random-intruder-drills-in-schools-following-uvalde-shooting/"
-    },
-    {
-      "text": "Caroline Downey",
-      "url": "https://www.nationalreview.com/author/caroline-downey/"
-    },
-    {
-      "text": "The unannounced assessments will be designed to avoid creating a potentially traumatic or triggering situation for students and staff.",
-      "url": "https://www.nationalreview.com/news/texas-safety-officials-to-conduct-random-intruder-drills-in-schools-following-uvalde-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/the-problem-of-gerontocracy/"
-    },
-    {
-      "text": "Elections",
-      "url": "/elections/"
-    },
-    {
-      "text": "The Problem of Gerontocracy",
-      "url": "https://www.nationalreview.com/corner/the-problem-of-gerontocracy/"
-    },
-    {
-      "text": "Jack Butler",
-      "url": "https://www.nationalreview.com/author/jack-butler/"
-    },
-    {
-      "text": "It\u2019s pretty obvious that American politics is disproportionately dominated by old people. Here\u2019s why that\u2019s bad \u2014 and what to do about it.",
-      "url": "https://www.nationalreview.com/corner/the-problem-of-gerontocracy/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/trump-and-the-suv/"
-    },
-    {
-      "text": "U.S.",
-      "url": "/us/"
-    },
-    {
-      "text": "Trump and the SUV",
-      "url": "https://www.nationalreview.com/corner/trump-and-the-suv/"
-    },
-    {
-      "text": "Rich Lowry",
-      "url": "https://www.nationalreview.com/author/rich-lowry/"
-    },
-    {
-      "text": "How do you grab the steering wheel from the back seat of a presumably quite large SUV?",
-      "url": "https://www.nationalreview.com/corner/trump-and-the-suv/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/2022/07/slouching-towards-stagflation/"
-    },
-    {
-      "text": "Capital Matters",
-      "url": "/capital-matters/"
-    },
-    {
-      "text": "Slouching towards Stagflation?",
-      "url": "https://www.nationalreview.com/2022/07/slouching-towards-stagflation/"
-    },
-    {
-      "text": "Andrew Stuttaford",
-      "url": "https://www.nationalreview.com/author/andrew-stuttaford/"
-    },
-    {
-      "text": "The week of June 27, 2022: Some ugly numbers, electric vehicles, supply chains, industrial policy, and much, much more.",
-      "url": "https://www.nationalreview.com/2022/07/slouching-towards-stagflation/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/where-are-the-aliens-are-they-evil/"
-    },
-    {
-      "text": "Science & Tech",
-      "url": "/science-tech/"
-    },
-    {
-      "text": "Where Are the Aliens? Are They Evil?",
-      "url": "https://www.nationalreview.com/corner/where-are-the-aliens-are-they-evil/"
-    },
-    {
-      "text": "Jack Butler",
-      "url": "https://www.nationalreview.com/author/jack-butler/"
-    },
-    {
-      "text": "Two recent studies attempt to answer two long-debated questions about extraterrestrial life.",
-      "url": "https://www.nationalreview.com/corner/where-are-the-aliens-are-they-evil/"
     },
     {
       "text": "\n\t\t\tLoad more stories from this section\n\t\t\t\n\t\t\t\tLoad More\t\t\t\n\t\t",
@@ -7377,6 +7525,50 @@
     {
       "text": "\n\t\t\t\n\t\t\t\tView More\t\t\t\n\t\t",
       "url": "https://www.nationalreview.com/magazine?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=river&utm_content=featured-content-trending&utm_term=view-more"
+    },
+    {
+      "text": "",
+      "url": "https://trends.revcontent.com/click.php?d=nR8eJuufMX3BAHg5YQoH4M%2B1irVj7NTVztQlymrtnOBWJqc38XpdaLA8Fclbf11Ti%2F9pq0Vf3GU%2FvgWOuqehrTVjl%2BqXJ0lCzhpXDTInlpevs8CQJ54Tg%2B8Z3lTQpZvJbGy2xxZtt5qJ0A904YPlWxOfZPco4f1O9LWY%2FEBSmLvEUm56nrzcSNQYnVPBdLNX0oZc%2FTa0yUdSfqrEjcklV%2FEMYCXo88fNBgJmTWsGNbGC9ZdEDAyiBZ4dRmYbGWF0annIx3UgNcMZk%2BCAj5GsazULlrK0BMYkNx12rH2sIKNB8FpipZYbjC9P9yGxiF7zxVSnQMW8cPQAjLHiUhgXvLnprPTW0YP%2BtuLLgVHae3l67y%2FaQlrwTysZ595tl%2FXAKmlfmSDXo1oXX0nLefqEsA%2FNnUYA7kXA8yFoiYQpLq2EDUxHDeGFENIbK6MXdK18byOtwKzgb%2BKLZK1b6RbPlWEoiehwRVTJTrMUYhReOxaGTQCWJ1OrcXpHYu7MIU08HkYll13yOmt7DXfoOuD65tJs%2BXFwK%2FkCbp46VuGXk7GRiO6FKfH2meynUbNkZn0xtQHVI0M%2BqHBPTp4BvFtP9q%2FaLOUGPwKzrB6uZyxlIQhcKhS2J0gbGKXv%2B0wvf%2B2cf54WdY9FyPZwq0is4688iQk4%2FXjpNW%2FqMV9QYI8kdw1WOVEjkbRUZ3UJXGKTjccR1NodWPQI2hSlYEfTioyg%2B4pa532QYJQ7T1uUY59bCcjQVG%2F0o5PZl7WAUVLl8kgN3NGNsin3WsiKZ%2BksrOYrSabizqg6r0zRH%2BVS5flZnZGlwUUJMXTpOJQck8Ph5lrmX20xIphce5%2BT7%2FpJT33Dj54o2dYH2DY52tDENQjxYgKDFiMjZPGrsDKt1u7JkMHiMKWMZBxRTKiyByEoarNXXVas%2B5WY%2BlBlWrOO3hayV7YUxKrtZV%2FD5X9OvRl1D0TQxMD47WtplqxB92P9szBE%2F4PzGIFRQeeLMKSdl2TQ1S%2BU2bJqZ5uo9CcA0pLkLdxHAcPU5VJyh96bs9TVgANasfzgbGElZHIEPnU1epJblXK8V9wgQDiAXXlSRkxx52XsqfFKsf368ajDPyvSKdLoZzVsy0lFOWaohky0TCKi8h95ltBFkln0CABRiw0dO2t0U2KvwQjTngpBB3VGhGsag0HdqVyib7arE4yZsH0Yf5lH77y%2FDo%2BANTg%2Fuot48P4NmQcCLF9yBFwdrukFt39SZF1bK8nIsLuD1d%2Behld2Kq2YgXNQRHL5V53FyjtYlR3CZ8JNSLLj%2B5CFThnfrpEw%2BXYQcHFFeHUeWK83ISnAW8Q%3D&s2s=1"
+    },
+    {
+      "text": "",
+      "url": "https://trends.revcontent.com/click.php?d=nR8eJuufMX3BAHg5YQoH4M%2B1irVj7NTVztQlymrtnOBWJqc38XpdaLA8Fclbf11Ti%2F9pq0Vf3GU%2FvgWOuqehrTVjl%2BqXJ0lCzhpXDTInlpevs8CQJ54Tg%2B8Z3lTQpZvJbGy2xxZtt5qJ0A904YPlWxOfZPco4f1O9LWY%2FEBSmLvEUm56nrzcSNQYnVPBdLNX0oZc%2FTa0yUdSfqrEjcklV%2FEMYCXo88fNBgJmTWsGNbGC9ZdEDAyiBZ4dRmYbGWF0annIx3UgNcMZk%2BCAj5GsazULlrK0BMYkNx12rH2sIKNB8FpipZYbjC9P9yGxiF7zxVSnQMW8cPQAjLHiUhgXvLnprPTW0YP%2BtuLLgVHae3l67y%2FaQlrwTysZ595tl%2FXAKmlfmSDXo1oXX0nLefqEsA%2FNnUYA7kXA8yFoiYQpLq2EDUxHDeGFENIbK6MXdK18byOtwKzgb%2BKLZK1b6RbPlWEoiehwRVTJTrMUYhReOxaGTQCWJ1OrcXpHYu7MIU08HkYll13yOmt7DXfoOuD65tJs%2BXFwK%2FkCbp46VuGXk7GRiO6FKfH2meynUbNkZn0xtQHVI0M%2BqHBPTp4BvFtP9q%2FaLOUGPwKzrB6uZyxlIQhcKhS2J0gbGKXv%2B0wvf%2B2cf54WdY9FyPZwq0is4688iQk4%2FXjpNW%2FqMV9QYI8kdw1WOVEjkbRUZ3UJXGKTjccR1NodWPQI2hSlYEfTioyg%2B4pa532QYJQ7T1uUY59bCcjQVG%2F0o5PZl7WAUVLl8kgN3NGNsin3WsiKZ%2BksrOYrSabizqg6r0zRH%2BVS5flZnZGlwUUJMXTpOJQck8Ph5lrmX20xIphce5%2BT7%2FpJT33Dj54o2dYH2DY52tDENQjxYgKDFiMjZPGrsDKt1u7JkMHiMKWMZBxRTKiyByEoarNXXVas%2B5WY%2BlBlWrOO3hayV7YUxKrtZV%2FD5X9OvRl1D0TQxMD47WtplqxB92P9szBE%2F4PzGIFRQeeLMKSdl2TQ1S%2BU2bJqZ5uo9CcA0pLkLdxHAcPU5VJyh96bs9TVgANasfzgbGElZHIEPnU1epJblXK8V9wgQDiAXXlSRkxx52XsqfFKsf368ajDPyvSKdLoZzVsy0lFOWaohky0TCKi8h95ltBFkln0CABRiw0dO2t0U2KvwQjTngpBB3VGhGsag0HdqVyib7arE4yZsH0Yf5lH77y%2FDo%2BANTg%2Fuot48P4NmQcCLF9yBFwdrukFt39SZF1bK8nIsLuD1d%2Behld2Kq2YgXNQRHL5V53FyjtYlR3CZ8JNSLLj%2B5CFThnfrpEw%2BXYQcHFFeHUeWK83ISnAW8Q%3D&s2s=1"
+    },
+    {
+      "text": "",
+      "url": "https://trends.revcontent.com/click.php?d=6g%2Bny7FM8Xuao00YJcmgk6byqZ1ydfYXm2a05%2BzXAmIoLglfp1B6uxsRMSO77oP%2BtNjYngVvUiNgw8z%2BCGWhUlXPwo91OsoLDuXspZFvXYszPRWWwd1SkWXu8AvZG97%2F56q0U19P98BLd%2B0wG7p5Ud37joM2SQylP26J4kjFLBxxZFOA1acsmW1z7Fj0qphzGioNQpmlMCOOBXxBnWxHmJjSIkO2OyaRzQ75fhp6n4piyKNb8%2Bb5pjbKgyBIJNgFMy9jPD5o0sc%2BNPMAV0vlnNGxmliiCrBhXx0o8CnZXZ14X0mJCDcv7LWA%2BIip6EaA%2BCBMKTKPsNSOmPifWjSMbWhHLAIvPGS6%2FVxRvHd6zDRgwfoOhL7ORXausHO%2BSqLbljclYmLCdK1Wo2nOo2Hrnff4JJ8K%2BHcp89Cxsfez801s%2Bub7jazNHGj7HoD9edHO54hMI1lntyzsw4aOLF%2FfUCmPUPha8gG8N2aKV8Tx3sBU4yvbKGrfNTOsLFpG1ruxev%2FE2147xhXuMI8zmjlOKnpBW%2BHGTnsvbvZeFBTJR0AUDHRFiGbpVRIzfD%2Fmeavq6k5X6I3v22WP1FsnTDMtyumozK5iS2%2FYEfGk7Na3aLI%2BxfkGe13BeU6vJYzL%2FELs%2FJhXXPtWI1Njsig%2BY%2BX1P7qIstiRvvrpOOJdzV3mKiT8yXHto6ALKrkjePmnb3vLCmXWNmvAB8FoV6yToydwRN1tjSQ7zNeSDDCxIistqNsVXTwE3Cul26iOLMyYlsDxS%2BhpAvupDnYf2RnpIA%2FKmfBHaqaXO8yoA7VLZVC9Sei7RG3nWERsYSpr9aRqGfXIj8BGc70wKPV%2FbimO7y4SdN%2F7z%2FRGKtA6PRFk%2BM%2FoewhoWX77ZI%2FfHTTeTZjGwzo6GkBnQrOgnq5PNDNUX5yle8CNIWT6LIzCY%2FMWMxbM22zYNY7anqc2i8m%2FnBVw8JmpFyhrieCAchtLOf6ybbH9fzBJB0aWEKGjQHF0RNy7QLID3I%2FgeK4iZ9lnFLEK474r97lUGK18ZRXDXIQHYJpkhcLWyF0xFSEtOI3yvrl9jc0kzTEAWBIXRmorkJqwVKgSBgwIoje6UFCW8dD7rGqnihtVb7tSsBY7Mdkp7LkUswM2uvLIZ8xTTlIz3Iu0ZMEXH50OeZnTLh4nK5KEPSdvXoSOcRXrsXTgUoXieu1xATsSzWhImRBi0F1BS68wUGaRG4pdn2tUQEQmz7Oi4mLxA3dAIp0Ol7UyodA1Sf4kRZyHZiikQv1VY62GY%2FIzmeX4l2WMU8P3boK7BdCWLwAJ%2B%2Boa5zOk0npTVFAJGtv4DvI%3D&s2s=1"
+    },
+    {
+      "text": "",
+      "url": "https://trends.revcontent.com/click.php?d=6g%2Bny7FM8Xuao00YJcmgk6byqZ1ydfYXm2a05%2BzXAmIoLglfp1B6uxsRMSO77oP%2BtNjYngVvUiNgw8z%2BCGWhUlXPwo91OsoLDuXspZFvXYszPRWWwd1SkWXu8AvZG97%2F56q0U19P98BLd%2B0wG7p5Ud37joM2SQylP26J4kjFLBxxZFOA1acsmW1z7Fj0qphzGioNQpmlMCOOBXxBnWxHmJjSIkO2OyaRzQ75fhp6n4piyKNb8%2Bb5pjbKgyBIJNgFMy9jPD5o0sc%2BNPMAV0vlnNGxmliiCrBhXx0o8CnZXZ14X0mJCDcv7LWA%2BIip6EaA%2BCBMKTKPsNSOmPifWjSMbWhHLAIvPGS6%2FVxRvHd6zDRgwfoOhL7ORXausHO%2BSqLbljclYmLCdK1Wo2nOo2Hrnff4JJ8K%2BHcp89Cxsfez801s%2Bub7jazNHGj7HoD9edHO54hMI1lntyzsw4aOLF%2FfUCmPUPha8gG8N2aKV8Tx3sBU4yvbKGrfNTOsLFpG1ruxev%2FE2147xhXuMI8zmjlOKnpBW%2BHGTnsvbvZeFBTJR0AUDHRFiGbpVRIzfD%2Fmeavq6k5X6I3v22WP1FsnTDMtyumozK5iS2%2FYEfGk7Na3aLI%2BxfkGe13BeU6vJYzL%2FELs%2FJhXXPtWI1Njsig%2BY%2BX1P7qIstiRvvrpOOJdzV3mKiT8yXHto6ALKrkjePmnb3vLCmXWNmvAB8FoV6yToydwRN1tjSQ7zNeSDDCxIistqNsVXTwE3Cul26iOLMyYlsDxS%2BhpAvupDnYf2RnpIA%2FKmfBHaqaXO8yoA7VLZVC9Sei7RG3nWERsYSpr9aRqGfXIj8BGc70wKPV%2FbimO7y4SdN%2F7z%2FRGKtA6PRFk%2BM%2FoewhoWX77ZI%2FfHTTeTZjGwzo6GkBnQrOgnq5PNDNUX5yle8CNIWT6LIzCY%2FMWMxbM22zYNY7anqc2i8m%2FnBVw8JmpFyhrieCAchtLOf6ybbH9fzBJB0aWEKGjQHF0RNy7QLID3I%2FgeK4iZ9lnFLEK474r97lUGK18ZRXDXIQHYJpkhcLWyF0xFSEtOI3yvrl9jc0kzTEAWBIXRmorkJqwVKgSBgwIoje6UFCW8dD7rGqnihtVb7tSsBY7Mdkp7LkUswM2uvLIZ8xTTlIz3Iu0ZMEXH50OeZnTLh4nK5KEPSdvXoSOcRXrsXTgUoXieu1xATsSzWhImRBi0F1BS68wUGaRG4pdn2tUQEQmz7Oi4mLxA3dAIp0Ol7UyodA1Sf4kRZyHZiikQv1VY62GY%2FIzmeX4l2WMU8P3boK7BdCWLwAJ%2B%2Boa5zOk0npTVFAJGtv4DvI%3D&s2s=1"
+    },
+    {
+      "text": "",
+      "url": "https://trends.revcontent.com/click.php?d=%2FGKL7wJErJBoEWZJ2h58O0MS0K2K6pzTNIibWEzBN7aowEm1pEh35tM1dDbShhfBfZ789jcfwQiX6etwnZc3HtGc%2FE%2FC0a6qizV9LwgM%2BXWOveP1ADFHpM%2BdbBoWFtpKOKr%2BJtCdwwtPxk725N3ApUGKhn%2FSmsv%2BdZAW1oeSsyRingGicXW5pY9jIFlMQxTin7d0fd7ASD6PJR1LwcAVytr3p8moxGKnhpVcy9Fla0PaI8ZV0Ce7K%2Br2pp3wF3pULcZis27nIjn%2FJJ8S7Z4da23ukLoecRzt4Ssx%2BxxsW1D91Qh0nHOHnMC%2FSd1AMJtayNjaD9S5rGa9rxrq0utOs7BI8ANfYAS2g8iSYbtVrwl0KcVUxsOALBB9yjZQ03pK8YshVbJ%2FXRVzpMYnqoIRfN9o6xeupJXHlrPfQG9mwEWdMjYvyMhWISPQ9WqWlNDQxqS3Y0kwyjN3wnVXhMY%2BccBp4tAZvmisZSBsPim%2FQm7Ov7ayxPnalz73PFg32T4IswC0STz1gVMc3nlkdqJxqiFrcxa9Zxaele6niNwTHtGKrT4eDEQ52q%2BxUJUYpv1bXXqkLMQqljFa8dczwABNLG8xS8R0zZEE8kDv6eIf94CdqNIhJUM%2BkEDgG6lVlbk6pJkCjh9Lgm1bee%2BdGgAjU6WD3c8Icht%2B836pEUXs10I6E8XbJ33TOqs76r5j489vcFTXEL1NPKsPb%2FWOx3ivhFCG5fEOKs1FrOh2U%2FPjeL6gUjKu7dI81%2BwZWraF5UbmZa9I%2BHrg6RZAfoQNe29h7Jn8yA5aim4fAzG5DTtr4nRxHE%2BMX%2B1zbmh4QyFfx8zNWIDvfc%2FNz5KBIuT%2BJGRp3xaSXA7yNpdJ8wVv9uDMdmzl%2Bwmcxu1Y0ZU0vO3ntEmy0iennz7J645I4bgtCNwYn0I2DFI2aHNYRa1Y4acqxqi0y0zIPGvX1M9HTuKWebwm6xHE7T2gh1jo5J1g9ibPescrDFICaJ9fYXXFF8zwCDnCJyx8exXQsxYeMBpebj8PbT1YbrNG8xlfGVZZ5LvDKm7F9%2FUA5NO5f8JSOY35jweTmslGOxQd1FpjY2%2BNLUNg6TgW%2By8JdasAcicitkprtQWripVn%2FYrO6MvK81F4ntMrA5BJX8jDq3cLoUI7ybo7lA%2F8oncjlLINv4Tb%2F9gYUa8plOGZ2ZIWM10ZD6pwOR8rlLlA8xmF07ER6n1b%2BLEkOqPl5ICzFjwMJD6tb9Yc5HH6ioIEsgVtuya9uDNEEf61MIpTtRshbtJdAtFsERDJfxVN97zA2MHBqU7Qj9Pb1E6FTtSvyI8dkDI6h4plwzc%3D&s2s=1"
+    },
+    {
+      "text": "",
+      "url": "https://trends.revcontent.com/click.php?d=%2FGKL7wJErJBoEWZJ2h58O0MS0K2K6pzTNIibWEzBN7aowEm1pEh35tM1dDbShhfBfZ789jcfwQiX6etwnZc3HtGc%2FE%2FC0a6qizV9LwgM%2BXWOveP1ADFHpM%2BdbBoWFtpKOKr%2BJtCdwwtPxk725N3ApUGKhn%2FSmsv%2BdZAW1oeSsyRingGicXW5pY9jIFlMQxTin7d0fd7ASD6PJR1LwcAVytr3p8moxGKnhpVcy9Fla0PaI8ZV0Ce7K%2Br2pp3wF3pULcZis27nIjn%2FJJ8S7Z4da23ukLoecRzt4Ssx%2BxxsW1D91Qh0nHOHnMC%2FSd1AMJtayNjaD9S5rGa9rxrq0utOs7BI8ANfYAS2g8iSYbtVrwl0KcVUxsOALBB9yjZQ03pK8YshVbJ%2FXRVzpMYnqoIRfN9o6xeupJXHlrPfQG9mwEWdMjYvyMhWISPQ9WqWlNDQxqS3Y0kwyjN3wnVXhMY%2BccBp4tAZvmisZSBsPim%2FQm7Ov7ayxPnalz73PFg32T4IswC0STz1gVMc3nlkdqJxqiFrcxa9Zxaele6niNwTHtGKrT4eDEQ52q%2BxUJUYpv1bXXqkLMQqljFa8dczwABNLG8xS8R0zZEE8kDv6eIf94CdqNIhJUM%2BkEDgG6lVlbk6pJkCjh9Lgm1bee%2BdGgAjU6WD3c8Icht%2B836pEUXs10I6E8XbJ33TOqs76r5j489vcFTXEL1NPKsPb%2FWOx3ivhFCG5fEOKs1FrOh2U%2FPjeL6gUjKu7dI81%2BwZWraF5UbmZa9I%2BHrg6RZAfoQNe29h7Jn8yA5aim4fAzG5DTtr4nRxHE%2BMX%2B1zbmh4QyFfx8zNWIDvfc%2FNz5KBIuT%2BJGRp3xaSXA7yNpdJ8wVv9uDMdmzl%2Bwmcxu1Y0ZU0vO3ntEmy0iennz7J645I4bgtCNwYn0I2DFI2aHNYRa1Y4acqxqi0y0zIPGvX1M9HTuKWebwm6xHE7T2gh1jo5J1g9ibPescrDFICaJ9fYXXFF8zwCDnCJyx8exXQsxYeMBpebj8PbT1YbrNG8xlfGVZZ5LvDKm7F9%2FUA5NO5f8JSOY35jweTmslGOxQd1FpjY2%2BNLUNg6TgW%2By8JdasAcicitkprtQWripVn%2FYrO6MvK81F4ntMrA5BJX8jDq3cLoUI7ybo7lA%2F8oncjlLINv4Tb%2F9gYUa8plOGZ2ZIWM10ZD6pwOR8rlLlA8xmF07ER6n1b%2BLEkOqPl5ICzFjwMJD6tb9Yc5HH6ioIEsgVtuya9uDNEEf61MIpTtRshbtJdAtFsERDJfxVN97zA2MHBqU7Qj9Pb1E6FTtSvyI8dkDI6h4plwzc%3D&s2s=1"
+    },
+    {
+      "text": "",
+      "url": "https://trends.revcontent.com/click.php?d=OJzUIKS8QAH53%2BacdxfMe00AxDqP4b5f5nixb7%2BoYhtEXhOtH%2FNlcrLune0oF8fpi2hbwlazZZYbDSMeuGzapCc9a1f4rNym5gNaNNt9WG6LbemXuYEtfwTLamVANjEGWymFMDOfhgPxVSZuKmbz27L3ktYcza8YsejDbWDHyiJhZg5wJ7uct2XIpPj1JTSBSi4lSfkTY3S1TE0iIN4xLP5%2F7dGJjB3YbDM%2FJsXDuJXXtnrfQD%2Fol0aVqljybDAtKSJxIybtZmQ9ebBhsygmBUEqxNyQFk6vKPt0pK9MKt3J0Yf%2Bu3IhWLpc8Wyf6g%2BUN6Cn0uAlAJ2u%2Fbr3j0q1Y9kC27HfAj26LkUPOG4f2HH8U%2FTE2sK9Cj7IyKR5785RvR7nNFakKWizxag%2Fa8OMK6dcLqs0jB1MpGp4173%2BLX4ILFJ4m9184UBdoTXxG4I%2F%2BQWDPlxC3U%2BJtFPES5s8hXMrqhrDUmPQOt7%2BNkcYniEYqwiL4em0xV3p3zaxoibLLcsz03qBx9PgpwPq7f2rTZ5AOXMNe0zirrPJzIUyBhxDoMo%2BsK%2Fox0p9TtOH06sTwKz2NJTty0FsY1UgGfpMgfQIwT4zIlKEZv5ZDVizv9mlLzs%2FvcixRAWZpW%2Bygpdb2bUHtvsI7lIqdsG5Ngbsb1cxCucD0qo6h3Lu7BoXmtfEsc20E6jZZ4kUHN2t%2F0K7Vo1m6hg6xD0WNWdl5iIZLyxL0cJfF5kNNCeN7Hb%2FEJ1geVGRvu85SpoJ5bodJLm7mcYUwQF1h4SG0vWgXw8eQBKYIR0Pv0PpfQ3r7Oc6NnartErF5G3wZThO02nL2M0GZCqwcC1hO26Tuqy0knWHG0JVdcp69QYNBl2pUdmoGgo2GcmA46W0Ziam%2FUXzCzlB9l1rwE0nFhkiuCMOD2LTKNmsfuUs6R7agxMKnHUMQDne9tKSBHPljAO6wea1vPPwgXBgrvw6kC%2FZXev3ICivH%2F7xq5%2Bho6EKmu8TNS5zpXDh7W%2BjzNSWtOiBwWcARDEwhU8VPEn2I76R%2FR0%2F0okc5%2BbjdV8aRzUnPST3jNM3vTNmMLTkYapLqL2Ch5uptXAouAl5ZJ%2BbvkCt23Z%2FxkVE9RUX4F1OuSCKv3zMR1PujV8R6lJYKNyWppAhhWjysi4Oypi8e0uFqU4AlQK9wcGcz4nDNvMrcmcRm56uIdjtJRyvSci7sk6BvwNsJjZahnZ9zr9vvVDU1ukO7ekbGooscW0TuW%2FmZiK3y7l8vnLPl3SiwEPQQE%2BiAB7iP1fbYuPSE2UAM3lUxvDnAw5EhRBKmgRLJs%2BbeyaV4N7l0mN297M%3D&s2s=1"
+    },
+    {
+      "text": "",
+      "url": "https://trends.revcontent.com/click.php?d=OJzUIKS8QAH53%2BacdxfMe00AxDqP4b5f5nixb7%2BoYhtEXhOtH%2FNlcrLune0oF8fpi2hbwlazZZYbDSMeuGzapCc9a1f4rNym5gNaNNt9WG6LbemXuYEtfwTLamVANjEGWymFMDOfhgPxVSZuKmbz27L3ktYcza8YsejDbWDHyiJhZg5wJ7uct2XIpPj1JTSBSi4lSfkTY3S1TE0iIN4xLP5%2F7dGJjB3YbDM%2FJsXDuJXXtnrfQD%2Fol0aVqljybDAtKSJxIybtZmQ9ebBhsygmBUEqxNyQFk6vKPt0pK9MKt3J0Yf%2Bu3IhWLpc8Wyf6g%2BUN6Cn0uAlAJ2u%2Fbr3j0q1Y9kC27HfAj26LkUPOG4f2HH8U%2FTE2sK9Cj7IyKR5785RvR7nNFakKWizxag%2Fa8OMK6dcLqs0jB1MpGp4173%2BLX4ILFJ4m9184UBdoTXxG4I%2F%2BQWDPlxC3U%2BJtFPES5s8hXMrqhrDUmPQOt7%2BNkcYniEYqwiL4em0xV3p3zaxoibLLcsz03qBx9PgpwPq7f2rTZ5AOXMNe0zirrPJzIUyBhxDoMo%2BsK%2Fox0p9TtOH06sTwKz2NJTty0FsY1UgGfpMgfQIwT4zIlKEZv5ZDVizv9mlLzs%2FvcixRAWZpW%2Bygpdb2bUHtvsI7lIqdsG5Ngbsb1cxCucD0qo6h3Lu7BoXmtfEsc20E6jZZ4kUHN2t%2F0K7Vo1m6hg6xD0WNWdl5iIZLyxL0cJfF5kNNCeN7Hb%2FEJ1geVGRvu85SpoJ5bodJLm7mcYUwQF1h4SG0vWgXw8eQBKYIR0Pv0PpfQ3r7Oc6NnartErF5G3wZThO02nL2M0GZCqwcC1hO26Tuqy0knWHG0JVdcp69QYNBl2pUdmoGgo2GcmA46W0Ziam%2FUXzCzlB9l1rwE0nFhkiuCMOD2LTKNmsfuUs6R7agxMKnHUMQDne9tKSBHPljAO6wea1vPPwgXBgrvw6kC%2FZXev3ICivH%2F7xq5%2Bho6EKmu8TNS5zpXDh7W%2BjzNSWtOiBwWcARDEwhU8VPEn2I76R%2FR0%2F0okc5%2BbjdV8aRzUnPST3jNM3vTNmMLTkYapLqL2Ch5uptXAouAl5ZJ%2BbvkCt23Z%2FxkVE9RUX4F1OuSCKv3zMR1PujV8R6lJYKNyWppAhhWjysi4Oypi8e0uFqU4AlQK9wcGcz4nDNvMrcmcRm56uIdjtJRyvSci7sk6BvwNsJjZahnZ9zr9vvVDU1ukO7ekbGooscW0TuW%2FmZiK3y7l8vnLPl3SiwEPQQE%2BiAB7iP1fbYuPSE2UAM3lUxvDnAw5EhRBKmgRLJs%2BbeyaV4N7l0mN297M%3D&s2s=1"
+    },
+    {
+      "text": "Revcontent's Privacy Policy",
+      "url": "https://help.revcontent.com/en/knowledge/revcontent-privacy-policy"
+    },
+    {
+      "text": "Increase Your Engagement Now!",
+      "url": "https://www.revcontent.com/popup?utm_source=ads&utm_medium=organic&utm_term=signup"
+    },
+    {
+      "text": "Submit a Report",
+      "url": "https://help.revcontent.com/en/knowledge/fake-news-complaints"
     },
     {
       "text": "Support the Fight for Life",
@@ -7527,28 +7719,28 @@
       "url": "https://www.nationalreview.com/author/andrew-c-mccarthy/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=first"
     },
     {
+      "text": "\n\t\t\t\t\t\t\t\tKevin D. Williamson\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/author/kevin-d-williamson/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=second"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tLessons from the Left\u2019s Implosion\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/2022/07/lessons-from-the-lefts-implosion/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=second"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/author/kevin-d-williamson/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=second"
+    },
+    {
       "text": "\n\t\t\t\t\t\t\t\tJim Geraghty\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/author/jim-geraghty/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=second"
+      "url": "https://www.nationalreview.com/author/jim-geraghty/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=third"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\tOn Top of All These Problems, an Economic Recession?\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/on-top-of-all-these-problems-an-economic-recession/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=second"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/author/jim-geraghty/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=second"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tMichael Brendan Dougherty\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/author/michael-brendan-dougherty/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=third"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tWar Transforms the State\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/corner/war-transforms-the-state/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=third"
+      "text": "\n\t\t\t\t\t\t\t\t\tThe Long-Term Problem with Responding to a Crisis with Scapegoating\t\t\t\t\t\t\t\t",
+      "url": "https://www.nationalreview.com/corner/the-long-term-problem-with-responding-to-a-crisis-with-scapegoating/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=third"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nationalreview.com/author/michael-brendan-dougherty/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=third"
+      "url": "https://www.nationalreview.com/author/jim-geraghty/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=featured-writers&utm_term=third"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\tDan McLaughlin\t\t\t\t\t\t\t",
@@ -7872,19 +8064,19 @@
     },
     {
       "text": "Stand with National Review",
-      "url": "https://a10.nationalreview.com/s/5zq?profileid=4fb47d36-fba2-431e-bc7d-abba1e5747a5"
+      "url": "https://a10.nationalreview.com/s/5zq?profileid=6b13b649-d693-4088-ab99-c7e7e2a92e5c"
     },
     {
       "text": "Stand with National Review",
-      "url": "https://a10.nationalreview.com/s/5zq?profileid=4fb47d36-fba2-431e-bc7d-abba1e5747a5"
+      "url": "https://a10.nationalreview.com/s/5zq?profileid=6b13b649-d693-4088-ab99-c7e7e2a92e5c"
     },
     {
       "text": "Give with Twice the Impact: Stand with NR",
-      "url": "https://a10.nationalreview.com/s/5zq?profileid=4fb47d36-fba2-431e-bc7d-abba1e5747a5"
+      "url": "https://a10.nationalreview.com/s/5zq?profileid=6b13b649-d693-4088-ab99-c7e7e2a92e5c"
     }
   ],
   "server": "ia801002.us.archive.org",
-  "uniq": 402521033,
+  "uniq": 844584459,
   "workable_servers": [
     "ia801002.us.archive.org",
     "ia601002.us.archive.org"

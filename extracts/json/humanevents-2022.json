@@ -1,5 +1,5 @@
 {
-  "created": 1656807881,
+  "created": 1656894063,
   "d1": "ia601806.us.archive.org",
   "d2": "ia801806.us.archive.org",
   "dir": "/20/items/humanevents-2022",
@@ -5784,31 +5784,157 @@
       "sha1": "aa23d86f1c2abb96c2dbf4508b2e6c6fc37d19e3"
     },
     {
+      "name": "humanevents-2022-07-02T21:29:44.986130-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656811787",
+      "size": "17971",
+      "md5": "2b4115d44a6a8014e9fdc991f152f873",
+      "crc32": "736c98af",
+      "sha1": "2a1e12c1bd11ab266ed9c2833954490b608ea05d",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-02T21:29:44.986130-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656811789",
+      "size": "26669",
+      "md5": "c4af8f19965a299da7b391d37614807f",
+      "crc32": "571ab9dd",
+      "sha1": "40ee66dc85421984b86b290f21ade818034e927c",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-02T21:29:44.986130-04:00.jpg",
+      "source": "original",
+      "mtime": "1656811786",
+      "size": "294477",
+      "md5": "c245499b37bd037ba7479e8e2dd8007c",
+      "crc32": "c5ab06f0",
+      "sha1": "b86e8fdb7295b99fa536581fc69b78e5681adc1e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-02T21:29:44.986130-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-02T21:29:44.986130-04:00.jpg",
+      "mtime": "1656811844",
+      "size": "10129",
+      "md5": "afa860384ce42413164d8094a940a6de",
+      "crc32": "9bd9a195",
+      "sha1": "0db935c347033a95f9c4afee046139b50a932f90"
+    },
+    {
+      "name": "humanevents-2022-07-03T09:08:39.751594-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853728",
+      "size": "17971",
+      "md5": "2b4115d44a6a8014e9fdc991f152f873",
+      "crc32": "736c98af",
+      "sha1": "2a1e12c1bd11ab266ed9c2833954490b608ea05d",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-03T09:08:39.751594-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853730",
+      "size": "26669",
+      "md5": "c4af8f19965a299da7b391d37614807f",
+      "crc32": "571ab9dd",
+      "sha1": "40ee66dc85421984b86b290f21ade818034e927c",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-03T09:08:39.751594-04:00.jpg",
+      "source": "original",
+      "mtime": "1656853727",
+      "size": "294477",
+      "md5": "c245499b37bd037ba7479e8e2dd8007c",
+      "crc32": "c5ab06f0",
+      "sha1": "b86e8fdb7295b99fa536581fc69b78e5681adc1e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-03T09:08:39.751594-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-03T09:08:39.751594-04:00.jpg",
+      "mtime": "1656853783",
+      "size": "10129",
+      "md5": "afa860384ce42413164d8094a940a6de",
+      "crc32": "9bd9a195",
+      "sha1": "0db935c347033a95f9c4afee046139b50a932f90"
+    },
+    {
+      "name": "humanevents-2022-07-03T11:12:57.293669-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656861179",
+      "size": "17506",
+      "md5": "ec541f2bb267a90489c3aeddbfcd6e66",
+      "crc32": "0e0c3143",
+      "sha1": "ed287eaa0085d4548fb1c105781690c58c0b862f",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-03T11:12:57.293669-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656861181",
+      "size": "26258",
+      "md5": "3414ee07e003849177d0e33678ef3b62",
+      "crc32": "e8e2a649",
+      "sha1": "dce34fd03a55958fab7f7f85fe91fbe7312e683d",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-03T11:12:57.293669-04:00.jpg",
+      "source": "original",
+      "mtime": "1656861178",
+      "size": "289658",
+      "md5": "6f7263ffbda56bd2b0a3b2318920c106",
+      "crc32": "d56c2856",
+      "sha1": "ad3aa0472d2875bf30ce4cd207cf25685db429af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-03T11:12:57.293669-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-03T11:12:57.293669-04:00.jpg",
+      "mtime": "1656861242",
+      "size": "9952",
+      "md5": "461c94db760a8b0571a129d5f0334dcf",
+      "crc32": "a16b9676",
+      "sha1": "f1b1f2f88f5e318f5b216ffa0dfed2400e3fd4c4"
+    },
+    {
       "name": "humanevents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ecfb0af150066bb856dc3d23b49e3da9def1fdd",
-      "mtime": "1656775529",
-      "size": "118951",
-      "md5": "7da18a2b148def9a844ea0c9cceffd41",
-      "crc32": "9b32ae5a",
-      "sha1": "193d09bf921a0238f56cc2375fa9383352ab5595",
+      "btih": "5d14017dfa54c6c51103481f21ca81fabd2d6f6e",
+      "mtime": "1656861258",
+      "size": "121516",
+      "md5": "6b9ddd7808e8576cc6a295195b75a0c9",
+      "crc32": "8e49843b",
+      "sha1": "a64c0814dd992d8b23617733e0fcd5562e2f100a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humanevents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad7aa526dddc79c25c91c7e0631ca6ff",
+      "md5": "53b0aa2b7a1c77a93194e1495867826c",
       "summation": "md5"
     },
     {
       "name": "humanevents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656775450",
-      "size": "647168",
-      "md5": "c29f53c5818c6c1aa596cd177ed34060",
-      "crc32": "ee69e6f0",
-      "sha1": "96e4c94c65bf80173900bddde45caf3fd48bd0fd",
+      "mtime": "1656861184",
+      "size": "663552",
+      "md5": "78ac8b358a26e546efdaf7aae59be532",
+      "crc32": "c002943f",
+      "sha1": "21eb2f7263596c8fa4fd472d5106b287074950e0",
       "format": "Metadata"
     },
     {
@@ -5822,7 +5948,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 554,
+  "files_count": 566,
   "humanevents-2022": [
     {
       "text": "Facebook",
@@ -5937,6 +6063,22 @@
       "url": "/author/humaneventsmedia"
     },
     {
+      "text": "Declaration of Independence ",
+      "url": "/trending/declaration-of-independence"
+    },
+    {
+      "text": "Independence Day ",
+      "url": "/trending/independence-day"
+    },
+    {
+      "text": "July 4th ",
+      "url": "/trending/july-4th"
+    },
+    {
+      "text": "Popular Conservatism ",
+      "url": "/trending/popular-conservatism"
+    },
+    {
       "text": "Ann Coulter ",
       "url": "/trending/ann-coulter"
     },
@@ -5965,24 +6107,24 @@
       "url": "/trending/charlie-kirk"
     },
     {
-      "text": "illegal immigration ",
-      "url": "/trending/illegal-immigration"
-    },
-    {
-      "text": "SCOTUS ",
-      "url": "/trending/scotus"
-    },
-    {
-      "text": "Biden ",
-      "url": "/trending/biden"
-    },
-    {
-      "text": "Department of Justice ",
-      "url": "/trending/department-of-justice"
-    },
-    {
       "text": "View All",
       "url": "/editorials/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/03/an-american-declination-of-codependence/"
+    },
+    {
+      "text": "FEATURE",
+      "url": "/category/feature"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tAn American Declination of Codependence\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/07/03/an-american-declination-of-codependence/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tThe following address was delivered on Saturday, July 3rd, 2021 as part of the Red, White, and Blue Tour in Sturgis, South Dakota.\n\nIt was 245 years ago that a brave group of American colonists...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tBrent Hamachek \n\t\t\t\t\t\t\t    July 3, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/07/03/an-american-declination-of-codependence/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
@@ -5993,11 +6135,7 @@
       "url": "/category/commentary"
     },
     {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPop Culture Warriors: Ann Coulter\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/07/01/pop-culture-warriors-ann-coulter/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tThis week\u2019s guest on\u00a0Pop Culture Warriors with Lisa De Pasquale: Ann Coulter\nAnn Coulter has pop culture icon\u00a0status \u2014\u00a0and now she\u2019s on\u00a0Substack, so that must be the new, big thing.\u00a0She...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tLisa De Pasquale \n\t\t\t\t\t\t\t    July 1, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPop Culture Warriors: Ann Coulter\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tThis week\u2019s guest on\u00a0Pop Culture Warriors with Lisa De Pasquale: Ann Coulter\nAnn Coulter has pop culture icon\u00a0status \u2014\u00a0and now she\u2019s on\u00a0Substack, so that must be the new, big thing.\u00a0She...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tLisa De Pasquale \n\t\t\t\t\t\t\t    July 1, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
       "url": "https://humanevents.com/2022/07/01/pop-culture-warriors-ann-coulter/"
     },
     {
@@ -6009,7 +6147,7 @@
       "url": "/category/opinion"
     },
     {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tKRAYDEN: J6 Hearings Have Gone From Stalinist Show Trial to Monty Python Sketch\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tWhat\u2019s a Cassidy Hutchinson?\nA nobody?\nUntil this week.\nShe was a cypher in the administration of President Donald Trump and apparently didn\u2019t get anything she wanted after its demise. Now...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDavid Krayden \n\t\t\t\t\t\t\t    July 1, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tKRAYDEN: J6 Hearings Have Gone From Stalinist Show Trial to Monty Python Sketch\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tWhat\u2019s a Cassidy Hutchinson?\nA nobody?\nUntil this week.\nShe was a cypher in the administration...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDavid Krayden \n\t\t\t\t\t\t\t    July 1, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
       "url": "https://humanevents.com/2022/07/01/krayden-j6-hearings-have-gone-from-stalinist-show-trial-to-monty-python-sketch/"
     },
     {
@@ -6025,18 +6163,6 @@
       "url": "https://humanevents.com/2022/06/30/hernandez-big-tech-keeps-trying-to-destroy-my-career-but-i-am-relentless/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/30/posobiec-biden-has-weaponized-the-fbi-and-doj-against-his-political-opponents-the-gop-needs-to-end-it/"
-    },
-    {
-      "text": "OPINION",
-      "url": "/category/opinion"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Biden Has Weaponized the FBI and DOJ Against His Political Opponents\u2014 The GOP Needs To End It\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOn June 23, federal agents stormed the Virginia home of former Department of Justice official and...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJack Posobiec \n\t\t\t\t\t\t\t    June 30, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/06/30/posobiec-biden-has-weaponized-the-fbi-and-doj-against-his-political-opponents-the-gop-needs-to-end-it/"
-    },
-    {
       "text": "View All",
       "url": "/news/"
     },
@@ -6045,32 +6171,32 @@
       "url": "/news/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDr. Vladimir Zelenko (1973-2022), Rest In Peace\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/30/dr-vladimir-zelenko-1973-2022-rest-in-peace/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAn American Declination of Codependence\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/03/an-american-declination-of-codependence/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHERNANDEZ: Big Tech Keeps Trying To Destroy My Career, But I Am Relentless\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/30/hernandez-big-tech-keeps-trying-to-destroy-my-career-but-i-am-relentless/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPop Culture Warriors: Ann Coulter\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/01/pop-culture-warriors-ann-coulter/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKRAYDEN: J6 Hearings Have Gone From Stalinist Show Trial to Monty Python Sketch\n\t\t\t\t\t\t\t\t",
       "url": "https://humanevents.com/2022/07/01/krayden-j6-hearings-have-gone-from-stalinist-show-trial-to-monty-python-sketch/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Biden Has Weaponized the FBI and DOJ Against His Political Opponents\u2014 The GOP Needs To End It\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/30/posobiec-biden-has-weaponized-the-fbi-and-doj-against-his-political-opponents-the-gop-needs-to-end-it/"
-    },
-    {
       "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBREAKING: Zelenko Labs Responds to Death of Dr. Vladimir 'Zev' Zelenko\n\t\t\t\t\t\t\t\t",
       "url": "https://humanevents.com/2022/06/30/breaking-zelenko-labs-responds-to-death-of-dr-vladimir-zev-zelenko/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTexas AG Ken Paxton Joins Charlie Kirk to Discuss 'Disappointing' SCOTUS Ruling on Remain in Mexico Policy\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/30/texas-ag-ken-paxton-joins-charlie-kirk-to-discuss-disappointing-scotus-ruling-on-remain-in-mexico-policy/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHERNANDEZ: Big Tech Keeps Trying To Destroy My Career, But I Am Relentless\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/30/hernandez-big-tech-keeps-trying-to-destroy-my-career-but-i-am-relentless/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPop Culture Warriors: Ann Coulter\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/01/pop-culture-warriors-ann-coulter/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDr. Vladimir Zelenko (1973-2022), Rest In Peace\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/30/dr-vladimir-zelenko-1973-2022-rest-in-peace/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPosobiec Praises SCOTUS Ruling on School Prayer, 'Separation of Church and State Isn't in the Constitution'\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/30/posobiec-praises-scotus-ruling-on-christian-coachs-prayer-the-first-amendment-is-about-the-establishment-of-religion/"
     },
     {
       "text": "\n\t\t\t\t    \n\t\t\t\t      \n\n\n\n\n\t\t\t\t    \n\t\t\t\t  \n\t\t\t\t     Jeff Webb\n\t\t\t\t    Publisher\n\t\t\t\t  \n\t\t\t\t  \n\t\t\t\t",
@@ -6157,32 +6283,32 @@
       "url": "/news/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDr. Vladimir Zelenko (1973-2022), Rest In Peace\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/30/dr-vladimir-zelenko-1973-2022-rest-in-peace/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAn American Declination of Codependence\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/03/an-american-declination-of-codependence/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHERNANDEZ: Big Tech Keeps Trying To Destroy My Career, But I Am Relentless\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/30/hernandez-big-tech-keeps-trying-to-destroy-my-career-but-i-am-relentless/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPop Culture Warriors: Ann Coulter\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/01/pop-culture-warriors-ann-coulter/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKRAYDEN: J6 Hearings Have Gone From Stalinist Show Trial to Monty Python Sketch\n\t\t\t\t\t\t\t\t",
       "url": "https://humanevents.com/2022/07/01/krayden-j6-hearings-have-gone-from-stalinist-show-trial-to-monty-python-sketch/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Biden Has Weaponized the FBI and DOJ Against His Political Opponents\u2014 The GOP Needs To End It\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/30/posobiec-biden-has-weaponized-the-fbi-and-doj-against-his-political-opponents-the-gop-needs-to-end-it/"
-    },
-    {
       "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBREAKING: Zelenko Labs Responds to Death of Dr. Vladimir 'Zev' Zelenko\n\t\t\t\t\t\t\t\t",
       "url": "https://humanevents.com/2022/06/30/breaking-zelenko-labs-responds-to-death-of-dr-vladimir-zev-zelenko/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTexas AG Ken Paxton Joins Charlie Kirk to Discuss 'Disappointing' SCOTUS Ruling on Remain in Mexico Policy\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/30/texas-ag-ken-paxton-joins-charlie-kirk-to-discuss-disappointing-scotus-ruling-on-remain-in-mexico-policy/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHERNANDEZ: Big Tech Keeps Trying To Destroy My Career, But I Am Relentless\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/30/hernandez-big-tech-keeps-trying-to-destroy-my-career-but-i-am-relentless/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPop Culture Warriors: Ann Coulter\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/01/pop-culture-warriors-ann-coulter/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDr. Vladimir Zelenko (1973-2022), Rest In Peace\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/30/dr-vladimir-zelenko-1973-2022-rest-in-peace/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPosobiec Praises SCOTUS Ruling on School Prayer, 'Separation of Church and State Isn't in the Constitution'\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/06/30/posobiec-praises-scotus-ruling-on-christian-coachs-prayer-the-first-amendment-is-about-the-establishment-of-religion/"
     },
     {
       "text": "View All",
@@ -6381,8 +6507,8 @@
       "url": "https://statcounter.com/"
     }
   ],
-  "item_last_updated": 1656775529,
-  "item_size": 47424076,
+  "item_last_updated": 1656861258,
+  "item_size": 48484891,
   "metadata": {
     "identifier": "humanevents-2022",
     "collection": [
@@ -6399,10 +6525,10 @@
     "publicdate": "2022-03-25 18:47:01",
     "addeddate": "2022-03-25 18:47:01"
   },
-  "server": "ia801806.us.archive.org",
-  "uniq": 1276606876,
+  "server": "ia601806.us.archive.org",
+  "uniq": 1376657243,
   "workable_servers": [
-    "ia801806.us.archive.org",
-    "ia601806.us.archive.org"
+    "ia601806.us.archive.org",
+    "ia801806.us.archive.org"
   ]
 }
