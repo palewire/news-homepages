@@ -15,7 +15,7 @@ orphan: true
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/desert_oracle.xml) |
 | Twitter handle | [@Desert_Oracle](https://www.twitter.com/Desert_Oracle)                     |
 | Location       | Joshua Tree                                                                 |
-| Timezone       |                                                                  |
+| Timezone       | America/Los_Angeles                                                                 |
 
 The archiving routine has captured 0 screenshots stored at the Internet Archive.
 
