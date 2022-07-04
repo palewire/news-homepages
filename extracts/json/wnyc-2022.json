@@ -1,5 +1,5 @@
 {
-  "created": 1656894373,
+  "created": 1656936941,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -982,31 +982,73 @@
       "sha1": "a8ce7c615af68ff152d201bd3325fdec2298c9ea"
     },
     {
+      "name": "wnyc-2022-07-03T21:42:29.477137-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898952",
+      "size": "9756",
+      "md5": "570c30f5589e544ee2c16297ee1cf943",
+      "crc32": "bbcc7ec0",
+      "sha1": "49f0d35f9549d0707e8758d09bfee66fafa8a609",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-03T21:42:29.477137-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898954",
+      "size": "24395",
+      "md5": "b75015d60801b59360e8dffe93ecf28f",
+      "crc32": "7152854f",
+      "sha1": "fe9fb2b7c237302d2122c25dc47b8463c2b53cd1",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-03T21:42:29.477137-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898951",
+      "size": "186474",
+      "md5": "95d98ecb730d4158ac42f5b7bf419e55",
+      "crc32": "cad92f1a",
+      "sha1": "e24f7d3672e57c01d51d5b4ee092b5d24253d0bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-07-03T21:42:29.477137-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-07-03T21:42:29.477137-04:00.jpg",
+      "mtime": "1656899005",
+      "size": "9047",
+      "md5": "be83398afe4e55290a818c9b012a6be2",
+      "crc32": "92ee04f2",
+      "sha1": "7e8cfa4b57956a0a7cac9caaa749740df623000d"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbf32549998fbcd9a0c6c8cdf9c60a04b0feda8a",
-      "mtime": "1656854320",
-      "size": "20507",
-      "md5": "3b158ace7e23d215bce78422573c7c02",
-      "crc32": "3386a9dc",
-      "sha1": "5218f29a987649f8314792de876f152ebe515e17",
+      "btih": "e7875c2d0b06abc3975701e2125ca3c96d6ec4c0",
+      "mtime": "1656899007",
+      "size": "21339",
+      "md5": "f4b2710200a6cb8599ea58935eef0756",
+      "crc32": "b7d79ef0",
+      "sha1": "7e201fea42f9095556b5c8ecd43ee4c9668875a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e926c1224ef7a56014702cf365928a9",
+      "md5": "90b5adf3a75926c24bee3774aced34bb",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656854274",
-      "size": "122880",
-      "md5": "fd76e14a1ccaaf386f8e234152a61676",
-      "crc32": "be66b448",
-      "sha1": "a1dadc064e35ad9d3c0e6c70853d3ee26e50e90f",
+      "mtime": "1656898958",
+      "size": "135168",
+      "md5": "a2b432c9566008cf7833e58cc2518cc4",
+      "crc32": "e1b05a9c",
+      "sha1": "51587a6defe870fdfc2ef1d806617a6738d65767",
       "format": "Metadata"
     },
     {
@@ -1020,9 +1062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 97,
-  "item_last_updated": 1656854320,
-  "item_size": 6106347,
+  "files_count": 101,
+  "item_last_updated": 1656899007,
+  "item_size": 6349139,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -1039,8 +1081,8 @@
     "publicdate": "2022-06-27 18:14:25",
     "addeddate": "2022-06-27 18:14:25"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1457127263,
+  "server": "ia601408.us.archive.org",
+  "uniq": 2142642950,
   "wnyc-2022": [
     {
       "text": "\n    \n  \n\n\n\n",
@@ -1155,8 +1197,8 @@
       "url": "https://www.instagram.com/wnyc"
     },
     {
-      "text": "Weekend Edition Sunday",
-      "url": "https://www.wnyc.org/shows/weekend-edition-sunday"
+      "text": "Freakonomics Radio",
+      "url": "http://freakonomics.com/hours"
     },
     {
       "text": "    \n      ",
@@ -1396,6 +1438,18 @@
     },
     {
       "text": "    \n      ",
+      "url": "//www.wnyc.org/story/cockroach-or-waterbug/"
+    },
+    {
+      "text": "\n                  Are Water Bugs the Same as Cockroaches?\n                ",
+      "url": "http://www.wnyc.org/story/cockroach-or-waterbug/"
+    },
+    {
+      "text": "\n                  WNBA star Brittney Griner begins trial in Moscow over drug charges\n                ",
+      "url": "/story/wnba-star-brittney-griner-begins-trial-in-moscow-over-drug-charges/"
+    },
+    {
+      "text": "    \n      ",
       "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
     },
     {
@@ -1404,27 +1458,11 @@
     },
     {
       "text": "    \n      ",
-      "url": "//www.wnyc.org/story/cockroach-or-waterbug/"
-    },
-    {
-      "text": "\n                  Are Water Bugs the Same as Cockroaches?\n                ",
-      "url": "http://www.wnyc.org/story/cockroach-or-waterbug/"
-    },
-    {
-      "text": "    \n      ",
       "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-07-01/"
     },
     {
       "text": "\n                  Combatting Post-Pandemic Food Insecurity; Climate Dread & Some Good News; School Diversity in Queens; Defining Gender\n                ",
       "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-07-01/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-30/"
-    },
-    {
-      "text": "\n                  Fossil Fuels in the EU; Noncitizen Voting in NYC; Moving Abroad; SCOTUS Update\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-30/"
     },
     {
       "text": "    \n      ",
@@ -1700,7 +1738,7 @@
     }
   ],
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

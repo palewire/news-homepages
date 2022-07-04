@@ -1,5 +1,5 @@
 {
-  "created": 1656894207,
+  "created": 1656936737,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -1402,31 +1402,73 @@
       "sha1": "aeb9bc77161d6ba2bc5c766318f56ff3f7f27c45"
     },
     {
+      "name": "politifact-2022-07-03T21:34:47.778169-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898490",
+      "size": "35945",
+      "md5": "adfe66e7087c74f373b3ed67be21b4c1",
+      "crc32": "5f4433ec",
+      "sha1": "bb5f14348218ae923339194326ff0eaf0b1abec8",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-03T21:34:47.778169-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898491",
+      "size": "22830",
+      "md5": "34630985896e40435ecb81d40304c5fe",
+      "crc32": "ea8d36ea",
+      "sha1": "b19177cca713377eea812763332de88b340307d9",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-03T21:34:47.778169-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898488",
+      "size": "247689",
+      "md5": "880c3bdf83972cb7ea17a3b1efec9df0",
+      "crc32": "af40fecb",
+      "sha1": "e991ab0339cdaf8cb46aba99afe2c28c33992df8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-03T21:34:47.778169-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-03T21:34:47.778169-04:00.jpg",
+      "mtime": "1656898541",
+      "size": "9759",
+      "md5": "e9c4b88b4db41d3c895fcd341238b7b6",
+      "crc32": "b739f571",
+      "sha1": "aeb9bc77161d6ba2bc5c766318f56ff3f7f27c45"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30993e272e8864ad9b6e514c7597a3c9bbb36a3c",
-      "mtime": "1656854065",
-      "size": "29627",
-      "md5": "0eacbce16faa7d0682b1d002afb077ed",
-      "crc32": "4cd4999c",
-      "sha1": "b04977051196787d89551e509b8c531c3a619674",
+      "btih": "ef493e69b62539c70b3a7d527b2e13c949b64a19",
+      "mtime": "1656898544",
+      "size": "30464",
+      "md5": "52a77d0067fd4a1d1ea934d1afa2b2a2",
+      "crc32": "53539ccc",
+      "sha1": "e02155eaf4a98e2dfef8c1a302a9e8cb6c731aa8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "757af10d768f6f091a1a6cd64ef88412",
+      "md5": "7ecf557c03f688f2f4dedf59c4f25bcc",
       "summation": "md5"
     },
     {
       "name": "politifact-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656854022",
-      "size": "172032",
-      "md5": "09a00dbd2f8ffeeb0a7f760305d408de",
-      "crc32": "d9b59cd2",
-      "sha1": "da9be8409417eeb6ed3536216c03eee870b51cfd",
+      "mtime": "1656898496",
+      "size": "176128",
+      "md5": "696507ce626dd78b1d514775f3c4c657",
+      "crc32": "c1b6de31",
+      "sha1": "464007d7ee4db93ece8b439b32ca533a620639f9",
       "format": "Metadata"
     },
     {
@@ -1440,9 +1482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1656854065,
-  "item_size": 9498304,
+  "files_count": 141,
+  "item_last_updated": 1656898544,
+  "item_size": 9819460,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -2258,7 +2300,7 @@
     }
   ],
   "server": "ia601407.us.archive.org",
-  "uniq": 2125375405,
+  "uniq": 2097302097,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

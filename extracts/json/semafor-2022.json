@@ -1,5 +1,5 @@
 {
-  "created": 1656894248,
+  "created": 1656936787,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/32/items/semafor-2022",
@@ -1358,31 +1358,73 @@
       "sha1": "6fd0585df4582c4f522e61937c8551f2e24559ae"
     },
     {
+      "name": "semafor-2022-07-03T21:35:40.250495-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898543",
+      "size": "1190",
+      "md5": "350af18dbb9e14d6ccddff2772ad67d0",
+      "crc32": "62c84ca2",
+      "sha1": "f10fbe6ce16ba5ac81610b2246398cc71e66f8e6",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-07-03T21:35:40.250495-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898544",
+      "size": "265",
+      "md5": "6763f1a03b3561a39c526971954daaab",
+      "crc32": "2503c8f5",
+      "sha1": "c29fc228db4980a7cec3785feb557e014c389d05",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-07-03T21:35:40.250495-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898541",
+      "size": "119144",
+      "md5": "23bd843a0300cd2ece363168aca9e5cd",
+      "crc32": "c9506a6a",
+      "sha1": "32200e55a501a851b2495cbb848b8ff3015593d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-07-03T21:35:40.250495-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-07-03T21:35:40.250495-04:00.jpg",
+      "mtime": "1656898594",
+      "size": "7553",
+      "md5": "f0dc0f58930edc3d052d56645a20a177",
+      "crc32": "bb0461d1",
+      "sha1": "6fd0585df4582c4f522e61937c8551f2e24559ae"
+    },
+    {
       "name": "semafor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99f5e4b9231a9225557ecb9b6284d810f6599852",
-      "mtime": "1656854125",
-      "size": "28101",
-      "md5": "d312e2b2e1d27208d0919a8ae0ee672f",
-      "crc32": "ea0eab8d",
-      "sha1": "f20f6889df5e36b8916c408b0f3e171e8cd1d372",
+      "btih": "72ec9eadb42e91295d89484860b5c520982f8c9a",
+      "mtime": "1656898597",
+      "size": "28923",
+      "md5": "62e38f28731a23b9148fa76bbbee27ba",
+      "crc32": "e25c31dd",
+      "sha1": "e45af8885cfe1e8dfefdbb93c575bd83591477f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "semafor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "591187cf82f44afd8c9040966f597be6",
+      "md5": "7d4d4ea0c339301810809e573b8df6cd",
       "summation": "md5"
     },
     {
       "name": "semafor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656854052",
-      "size": "172032",
-      "md5": "9ea3f92679d0954f8b2789498dfb1e80",
-      "crc32": "6b586959",
-      "sha1": "db0e88df39b06ac0ae1b12ed7abbc3c8d26aff8d",
+      "mtime": "1656898551",
+      "size": "176128",
+      "md5": "1700efc1e2c70939e6f1edca47443030",
+      "crc32": "98fd9adf",
+      "sha1": "0f13b406bb5eb14e0d968d7b28f1b95552c33ea0",
       "format": "Metadata"
     },
     {
@@ -1396,9 +1438,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 133,
-  "item_last_updated": 1656854125,
-  "item_size": 4339981,
+  "files_count": 137,
+  "item_last_updated": 1656898597,
+  "item_size": 4473051,
   "metadata": {
     "identifier": "semafor-2022",
     "collection": [
@@ -1433,10 +1475,10 @@
       "url": "/privacy.html"
     }
   ],
-  "server": "ia601407.us.archive.org",
-  "uniq": 756088346,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1316022626,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

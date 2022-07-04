@@ -1,5 +1,5 @@
 {
-  "created": 1656894251,
+  "created": 1656936796,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -6514,31 +6514,73 @@
       "sha1": "6bb71ff51caecfc86aee5cfc1158cc5eb5cedade"
     },
     {
+      "name": "sfchronicle-2022-07-03T18:36:49.688112-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898613",
+      "size": "92118",
+      "md5": "6ef09ced098b4364b8e7d5fbc2bd3f12",
+      "crc32": "cde4d0c4",
+      "sha1": "1e4db9dd248363236145cc29d6197aa32d980396",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-07-03T18:36:49.688112-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898615",
+      "size": "113054",
+      "md5": "bc0f5542f334e81a38e8353e9ea9865c",
+      "crc32": "37658631",
+      "sha1": "8d827c15b9b8b6c83c521a92dfc5ac648a863839",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-07-03T18:36:49.688112-07:00.jpg",
+      "source": "original",
+      "mtime": "1656898611",
+      "size": "333000",
+      "md5": "90e88bae7109703e4858eefed4b323c6",
+      "crc32": "b327c8fd",
+      "sha1": "15e815885da176ba65f045c915abe99c7dea5b62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sfchronicle-2022-07-03T18:36:49.688112-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-07-03T18:36:49.688112-07:00.jpg",
+      "mtime": "1656898680",
+      "size": "9748",
+      "md5": "2549ad2600cb1dd3a65732631bc04df0",
+      "crc32": "7423d50b",
+      "sha1": "e8ba132aca75c49236032802319d153b9612c905"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41e8d9cafc7e10d94679fe15cf7dbebb4c12db5c",
-      "mtime": "1656871999",
-      "size": "134835",
-      "md5": "7217f6a5ee2504ea1ab8dace5d1f2f25",
-      "crc32": "8df2268d",
-      "sha1": "04772884c1b863fcc946ac4dcda6bc033ac899b1",
+      "btih": "8e6de2373e81e92f0203647eb63d96d7d4de2595",
+      "mtime": "1656898692",
+      "size": "135697",
+      "md5": "63e69cdff1b30fdcc8bda85bf61c09fd",
+      "crc32": "97522417",
+      "sha1": "c596e44e226f4d56402134edc290abeaddb5d4f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cf2c3b05d498d9ba5797496d7d9a4e8",
+      "md5": "fdfe19b6dfa591cfbb2e39070565b993",
       "summation": "md5"
     },
     {
       "name": "sfchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656871943",
-      "size": "716800",
-      "md5": "81cfed97062db9fe23a50876db5d8889",
-      "crc32": "79a5324a",
-      "sha1": "38b73b95b07178900b37f3fcd7b03aeabde03cff",
+      "mtime": "1656898622",
+      "size": "720896",
+      "md5": "19e1e1c496388008ee1bd82ef4f6e6ba",
+      "crc32": "1d84c6b5",
+      "sha1": "310ad8e2a30c10be9805e4d53e1d7b34ddff988e",
       "format": "Metadata"
     },
     {
@@ -6552,9 +6594,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 623,
-  "item_last_updated": 1656871999,
-  "item_size": 83293831,
+  "files_count": 627,
+  "item_last_updated": 1656898692,
+  "item_size": 83846709,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -8062,6 +8104,14 @@
       "url": "/health/article/Bay-Area-health-officials-scramble-to-contain-17280555.php"
     },
     {
+      "text": "San Jose sideshow brings 500 citations, 7 arrests",
+      "url": "/crime/article/San-Jose-sideshow-results-in-500-citations-and-17282477.php"
+    },
+    {
+      "text": "These San Francisco parks aren\u2019t so accessible, says grand jury",
+      "url": "/sf/article/These-San-Francisco-parks-aren-t-so-accessible-17282466.php"
+    },
+    {
       "text": "Firefighters expect to increase Rices Fire containment despite warm weather",
       "url": "/california-wildfires/article/Rices-Fire-Firefighters-expect-to-increase-17282230.php"
     },
@@ -8074,47 +8124,31 @@
       "url": "/politics/joegarofoli/article/california-democrats-17280373.php"
     },
     {
-      "text": "Man killed in S.F. shooting, suspect arrested",
-      "url": "/bayarea/article/Man-killed-in-S-F-shooting-suspect-arrested-17281747.php"
-    },
-    {
-      "text": "Three arrested in armed robbery at Trader Joe\u2019s in Danville",
-      "url": "/bayarea/article/Three-arrested-for-armed-robbery-at-Trader-17281392.php"
-    },
-    {
-      "text": "Will foggy Bay Area weather clear out for July 4th? Here\u2019s the forecast",
-      "url": "/bayarea/article/Will-the-fog-clear-out-in-time-for-the-Fourth-of-17281236.php"
-    },
-    {
-      "text": "Teen\u2019s death shows why popular swimming lake is so dangerous",
-      "url": "/bayarea/article/As-a-family-mourns-the-drowning-death-of-a-17280042.php"
-    },
-    {
-      "text": "\n                                                                                                                                                                            \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                \n                                                                                                                        ",
-      "url": "/sf/article/The-state-of-the-SFPD-in-8-charts-17280332.php"
+      "text": "\n                                                                                                                                                                                                                                                                                                                                                                                                            \n                                                                                                                                            \n                                                                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                                                                    \n                                                                                                                                            \n                                                                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                                                                    \n                                                                                                                                            \n                                                                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                                                                    \n                                                                                        \n                                                                            ",
+      "url": "/bayarea/article/san-francisco-downtown-17277790.php"
     },
     {
       "text": "San Francisco",
       "url": "https://www.sfchronicle.com/sf/"
     },
     {
-      "text": "                                    How does SFPD compare to other police departments? These 8 charts show the key trends\n                                ",
-      "url": "/sf/article/The-state-of-the-SFPD-in-8-charts-17280332.php"
-    },
-    {
-      "text": "                                        These charts will help you better understand SFPD. From salaries/overtime pay, response time to urgent calls, number of officer-involved shootings, clearance rates over time, demographics, and more.\n                                    ",
-      "url": "/sf/article/The-state-of-the-SFPD-in-8-charts-17280332.php"
-    },
-    {
-      "text": "                                                                        Can pop-ups save downtown? Cities are trying to revive empty storefronts\n                                ",
+      "text": "                                    Can pop-ups save downtown San Francisco? How cities are trying to revive empty storefronts\n                                ",
       "url": "/bayarea/article/san-francisco-downtown-17277790.php"
+    },
+    {
+      "text": "                                        Cities and building owners must find inventive ways to fill vacant storefronts on a short-term basis \u2014 so that today\u2019s terrain of \u201cfor rent\u201d signs doesn\u2019t become a permanent blight on too many urban blocks.\n                                    ",
+      "url": "/bayarea/article/san-francisco-downtown-17277790.php"
+    },
+    {
+      "text": "                                                                        How does SFPD compare to other police departments? Charts show key trends\n                                ",
+      "url": "/sf/article/The-state-of-the-SFPD-in-8-charts-17280332.php"
     },
     {
       "text": "                                                                        \u2018Slow street\u2019 debate divides S.F. neighborhood, one side blames Mayor Breed\n                                ",
       "url": "/sf/article/San-Francisco-might-reverse-course-on-Richmond-17281679.php"
     },
     {
-      "text": "                                                                        What do San Franciscans want to know? It's in their Google search data\n                                ",
+      "text": "                                                                        What do San Franciscans want to know? Here\u2019s what Google searches reveal\n                                ",
       "url": "/sf/article/san-francisco-google-search-data-17279903.php"
     },
     {
@@ -8147,43 +8181,27 @@
     },
     {
       "text": "\n                                                                                                                                                                            \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                \n                                                                                                                        ",
-      "url": "/sports/article/San-Jose-State-Trenity-Edwards-17277398.php"
+      "url": "/sports/annkillion/article/A-little-bit-shook-Megan-Rapinoe-to-17282400.php"
     },
     {
       "text": "Sporting Green",
       "url": "https://www.sfchronicle.com/sports/"
     },
     {
-      "text": "                                    Through pregnancy and family crisis, San Jose State junior redefines athlete\u2019s limits\n                                ",
-      "url": "/sports/article/San-Jose-State-Trenity-Edwards-17277398.php"
+      "text": "                                    \u2018A little bit shook\u2019; Megan Rapinoe to receive Presidential Medal of Freedom\n                                ",
+      "url": "/sports/annkillion/article/A-little-bit-shook-Megan-Rapinoe-to-17282400.php"
     },
     {
-      "text": "                                        After her father died, Trenity Edwards devised a plan to run her family\u2019s hitting clinic in Oklahoma and play softball at San Jose State. It might have seemed far-fetched, but Edwards had already proved her perseverance.\n                                    ",
+      "text": "                                        Megan Rapinoe, the soccer star from Redding whose outspoken activism created tension with the previous administration, is headed to the White House this week to receive the Presidential Medal of Freedom.\n                                    ",
+      "url": "/sports/annkillion/article/A-little-bit-shook-Megan-Rapinoe-to-17282400.php"
+    },
+    {
+      "text": "                                                                        Through pregnancy and family crisis, San Jose State junior redefines limits\n                                ",
       "url": "/sports/article/San-Jose-State-Trenity-Edwards-17277398.php"
     },
     {
       "text": "                                                                        John Shea: Why the Giants should try to get Juan Soto in trade\n                                ",
       "url": "/sports/shea/article/Juan-Soto-17280396.php"
-    },
-    {
-      "text": "                                                                        Will Warriors gain clarity on James Wiseman\u2019s future in offseason?\n                                ",
-      "url": "/sports/warriors/article/warriors-james-wiseman-offseason-17280249.php"
-    },
-    {
-      "text": "\n                                                                                                                                                                            \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                \n                                                                                                                        ",
-      "url": "/opinion/editorials/article/san-francisco-single-family-zoning-17279817.php"
-    },
-    {
-      "text": "Chronicle Editorial",
-      "url": "https://www.sfchronicle.com/opinion/"
-    },
-    {
-      "text": "                                    S.F.\u2019s plan to end single-family zoning is a cheap lie\n                                ",
-      "url": "/opinion/editorials/article/san-francisco-single-family-zoning-17279817.php"
-    },
-    {
-      "text": "                                        The concept of single-family zoning was born from lies. Specifically, Bay Area lies. More dishonestly is the last thing we need.\n                                    ",
-      "url": "/opinion/editorials/article/san-francisco-single-family-zoning-17279817.php"
     },
     {
       "text": "\n                                                                                                                                                                            \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                \n                                                                                                                        ",
@@ -8226,6 +8244,22 @@
       "url": "/bayarea/article/asymptomatic-COVID-17277825.php"
     },
     {
+      "text": "\n                                                                                                                                                                            \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                    \n                                                \n                                                                                                                        ",
+      "url": "/opinion/editorials/article/san-francisco-single-family-zoning-17279817.php"
+    },
+    {
+      "text": "Chronicle Editorial",
+      "url": "https://www.sfchronicle.com/opinion/"
+    },
+    {
+      "text": "                                    S.F.\u2019s plan to end single-family zoning is a cheap lie\n                                ",
+      "url": "/opinion/editorials/article/san-francisco-single-family-zoning-17279817.php"
+    },
+    {
+      "text": "                                        The concept of single-family zoning was born from lies. Specifically, Bay Area lies. More dishonestly is the last thing we need.\n                                    ",
+      "url": "/opinion/editorials/article/san-francisco-single-family-zoning-17279817.php"
+    },
+    {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
       "url": "/election/article/These-were-the-neighborhoods-that-drove-the-17228393.php"
     },
@@ -8258,12 +8292,20 @@
       "url": "/sf/article/fewest-kids-maps-17193677.php"
     },
     {
-      "text": "\n                        \n                \n                    \n                    \n                \n            \n                    ",
-      "url": "https://www.sfchronicle.com/projects/california-fire-map/"
+      "text": "Terms of Use",
+      "url": "https://www.sfchronicle.com/terms_of_use/"
     },
     {
-      "text": "\n            Latest on wildfires across the state        ",
-      "url": "https://www.sfchronicle.com/projects/california-fire-map/"
+      "text": "Privacy Notice",
+      "url": "https://www.sfchronicle.com/privacy_policy/"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                    \n                \n            \n                    ",
+      "url": "https://www.sfchronicle.com/projects/drought-map-water-restrictions-bay-area/"
+    },
+    {
+      "text": "\n            Track water shortages and restrictions across Bay Area        ",
+      "url": "https://www.sfchronicle.com/projects/drought-map-water-restrictions-bay-area/"
     },
     {
       "text": "LATEST IN OPINION",
@@ -8282,16 +8324,12 @@
       "url": "/opinion/openforum/article/The-Supreme-Court-s-EPA-ruling-just-17277410.php"
     },
     {
-      "text": "Interactive Map",
-      "url": "https://projects.sfchronicle.com/2020/coronavirus-map/"
-    },
-    {
       "text": "\n                        \n                \n                    \n                    \n                \n            \n                    ",
-      "url": "https://www.sfchronicle.com/projects/coronavirus-map/"
+      "url": "https://www.sfchronicle.com/projects/pge-shutoff-power-outages-map/"
     },
     {
-      "text": "\n            Tracking COVID-19 cases across California        ",
-      "url": "https://www.sfchronicle.com/projects/coronavirus-map/"
+      "text": "\n            PG&E outage map: Bay Area shut-off details by address        ",
+      "url": "https://www.sfchronicle.com/projects/pge-shutoff-power-outages-map/"
     },
     {
       "text": "Restaurants",
@@ -8414,6 +8452,10 @@
       "url": "/california/article/California-2022-stimulus-17280588.php"
     },
     {
+      "text": "Bay Area health officials scramble to contain monkeypox outbreak",
+      "url": "/health/article/Bay-Area-health-officials-scramble-to-contain-17280555.php"
+    },
+    {
       "text": "How Warriors\u2019 Gui Santos, the 55th pick, stole spotlight at California Classic",
       "url": "/california/article/How-Warriors-Gui-Santos-the-55th-pick-stole-17281828.php"
     },
@@ -8422,16 +8464,20 @@
       "url": "/bayarea/article/Sonny-Barger-fearsome-leader-of-the-Oakland-17277034.php"
     },
     {
-      "text": "Bay Area health officials scramble to contain monkeypox outbreak",
-      "url": "/health/article/Bay-Area-health-officials-scramble-to-contain-17280555.php"
+      "text": "Slow Street debate divides S.F. neighborhood, with one side blaming Mayor Breed",
+      "url": "/sf/article/San-Francisco-might-reverse-course-on-Richmond-17281679.php"
     },
     {
-      "text": "\u2018Slow street\u2019 debate divides S.F. neighborhood, with one side blaming Mayor Breed",
-      "url": "/sf/article/San-Francisco-might-reverse-course-on-Richmond-17281679.php"
+      "text": "California has two choices in these dark times: lead or secede",
+      "url": "/politics/joegarofoli/article/california-democrats-17280373.php"
     },
     {
       "text": "California\u2019s drought is dire. But there\u2019s a surprising bright spot that may make this year better than last",
       "url": "/bayarea/article/California-drought-runoff-water-snowpack-17280681.php"
+    },
+    {
+      "text": "How does SFPD compare to other police departments? These 8 charts show the key trends",
+      "url": "/sf/article/The-state-of-the-SFPD-in-8-charts-17280332.php"
     },
     {
       "text": "It\u2019s a popular California swimming lake. A 16-year-old\u2019s death shows why it\u2019s also so dangerous.",
@@ -8442,68 +8488,68 @@
       "url": "/bayarea/article/Vacaville-can-t-be-held-responsible-for-17280047.php"
     },
     {
-      "text": "How does SFPD compare to other police departments? These 8 charts show the key trends",
-      "url": "/sf/article/The-state-of-the-SFPD-in-8-charts-17280332.php"
-    },
-    {
-      "text": "California has two choices in these dark times: lead or secede",
-      "url": "/politics/joegarofoli/article/california-democrats-17280373.php"
-    },
-    {
       "text": "Warriors",
       "url": "https://www.sfchronicle.com/sports/"
     },
     {
       "text": "",
+      "url": "/sports/warriors/article/warriors-james-wiseman-offseason-17280249.php"
+    },
+    {
+      "text": "Will Warriors gain clarity on James Wiseman\u2019s future in critical offseason?",
+      "url": "/sports/warriors/article/warriors-james-wiseman-offseason-17280249.php"
+    },
+    {
+      "text": "",
+      "url": "/sports/warriors/article/Damion-Lee-joins-Warriors-exodus-signs-one-year-17280723.php"
+    },
+    {
+      "text": "Damion Lee joins Warriors exodus, signs one-year deal with Suns",
+      "url": "/sports/warriors/article/Damion-Lee-joins-Warriors-exodus-signs-one-year-17280723.php"
+    },
+    {
+      "text": "",
+      "url": "/sports/warriors/article/Warriors-keep-Looney-add-DiVincenzo-and-endure-17280687.php"
+    },
+    {
+      "text": "Warriors keep Looney, add DiVincenzo and endure multiple departures",
+      "url": "/sports/warriors/article/Warriors-keep-Looney-add-DiVincenzo-and-endure-17280687.php"
+    },
+    {
+      "text": "",
       "url": "/california/article/How-Warriors-Gui-Santos-the-55th-pick-stole-17281828.php"
     },
     {
-      "text": "How Warriors\u2019 Gui Santos, the 55th pick, stole California Classic spotlight",
+      "text": "How Gui Santos, the 55th pick, stole California Classic spotlight",
       "url": "/california/article/How-Warriors-Gui-Santos-the-55th-pick-stole-17281828.php"
     },
     {
       "text": "",
-      "url": "/sports/warriors/article/Warriors-bringing-back-Kevon-Looney-on-17279807.php"
+      "url": "/sports/jenkins/article/Days-into-free-agency-Warriors-already-mourning-17280311.php"
     },
     {
-      "text": "Warriors bringing back Kevon Looney on three-year, $25.5 million deal",
-      "url": "/sports/warriors/article/Warriors-bringing-back-Kevon-Looney-on-17279807.php"
+      "text": "Warriors already mourning big losses with free agency just beginning",
+      "url": "/sports/jenkins/article/Days-into-free-agency-Warriors-already-mourning-17280311.php"
     },
     {
-      "text": "",
-      "url": "/sports/warriors/article/Warriors-agree-with-free-agent-Donte-DiVincenzo-17280436.php"
+      "text": "Giants\u2019 freefall continues, poor play leads to 13-4 loss, White Sox sweep",
+      "url": "/sports/giants/article/Giants-freefall-continues-poor-play-leads-to-17282700.php"
     },
     {
-      "text": "Warriors agree with free agent Donte DiVincenzo on two-year deal",
-      "url": "/sports/warriors/article/Warriors-agree-with-free-agent-Donte-DiVincenzo-17280436.php"
+      "text": "                    The San Francisco Giants, who got pounded 13-4 Sunday in a game that completed a sweep for the White Sox, have sunk to new depths \u2014 not necessarily with their record, but with how they play. It\u2019s...\n                ",
+      "url": "/sports/giants/article/Giants-freefall-continues-poor-play-leads-to-17282700.php"
     },
     {
-      "text": "",
-      "url": "/sports/warriors/article/Nemanja-Bjelica-declines-Warriors-offer-will-17279996.php"
+      "text": "\n                            \n                                \n                                \n                                \n                                \n                                \n                                \n                            \n                        ",
+      "url": "/sports/giants/article/Gabe-Kapler-s-strong-statement-Giants-17282610.php"
     },
     {
-      "text": "Nemanja Bjelica declines Warriors\u2019 offer, will head back to Turkey",
-      "url": "/sports/warriors/article/Nemanja-Bjelica-declines-Warriors-offer-will-17279996.php"
-    },
-    {
-      "text": "",
-      "url": "/sports/annkillion/article/Money-can-t-buy-Kevin-Durant-happiness-as-17278154.php"
-    },
-    {
-      "text": "Money can\u2019t buy Durant happiness as Warriors sit pretty in NBA free agency",
-      "url": "/sports/annkillion/article/Money-can-t-buy-Kevin-Durant-happiness-as-17278154.php"
+      "text": "Gabe Kapler\u2019s strong statement: Giants\u2019 energy lacking, time to refocus",
+      "url": "/sports/giants/article/Gabe-Kapler-s-strong-statement-Giants-17282610.php"
     },
     {
       "text": "Giants fall to White Sox again, have lost 3 straight and 9 of 12",
       "url": "/sports/giants/article/Giants-fall-to-White-Sox-again-have-lost-3-17281630.php"
-    },
-    {
-      "text": "                    The San Francisco Giants got a leadoff homer from LaMonte Wade Jr. in the bottom of the first inning on his bobblehead day, but little else went San Francisco\u2019s way in a 5-3 loss to the White Sox...\n                ",
-      "url": "/sports/giants/article/Giants-fall-to-White-Sox-again-have-lost-3-17281630.php"
-    },
-    {
-      "text": "\n                            \n                                \n                                \n                                \n                                \n                                \n                                \n                            \n                        ",
-      "url": "/sports/giants/article/Chicago-s-Johnny-Cueto-Giants-Carlos-Rod-n-17281451.php"
     },
     {
       "text": "Chicago\u2019s Cueto, Giants\u2019 Rod\u00f3n see \u2014 but don\u2019t face \u2014 ex-teammates",
@@ -8512,14 +8558,6 @@
     {
       "text": "Paul Blackburn sharp, but A\u2019s bullpen falters in loss to Mariners",
       "url": "/sports/athletics/article/Paul-Blackburn-sharp-A-s-bullpen-falters-in-17281593.php"
-    },
-    {
-      "text": "A\u2019s reliever Lou Trivino seeing early results from mechanical tweak",
-      "url": "/sports/athletics/article/A-s-reliever-Lou-Trivino-seeing-early-results-17281365.php"
-    },
-    {
-      "text": "USC and UCLA in the Big Ten? It\u2019s enough to make your head spin",
-      "url": "/sports/college/article/USC-and-UCLA-in-the-Big-Ten-It-s-enough-to-17280158.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -8566,12 +8604,12 @@
       "url": "/author/ann-killion/"
     },
     {
-      "text": "            Money can\u2019t buy Kevin Durant happiness as Warriors sit pretty...\n        ",
-      "url": "/sports/annkillion/article/Money-can-t-buy-Kevin-Durant-happiness-as-17278154.php"
+      "text": "            \u2018A little bit shook\u2019; Megan Rapinoe to receive Presidential...\n        ",
+      "url": "/sports/annkillion/article/A-little-bit-shook-Megan-Rapinoe-to-17282400.php"
     },
     {
-      "text": "                                The Golden State Warriors aren\u2019t looking to change much in NBA free agency, but former Warrior Kevin Durant wishes he was someplace else, again.\n            ",
-      "url": "/sports/annkillion/article/Money-can-t-buy-Kevin-Durant-happiness-as-17278154.php"
+      "text": "                                Megan Rapinoe, the soccer star from Redding whose outspoken activism created tension with the previous administration, is headed to the White House...\n            ",
+      "url": "/sports/annkillion/article/A-little-bit-shook-Megan-Rapinoe-to-17282400.php"
     },
     {
       "text": "Scott Ostler",
@@ -8707,6 +8745,14 @@
     },
     {
       "text": "",
+      "url": "/bayarea/article/As-a-family-mourns-the-drowning-death-of-a-17280042.php"
+    },
+    {
+      "text": "Teen\u2019s death shows why popular California swimming lake is so dangerous",
+      "url": "/bayarea/article/As-a-family-mourns-the-drowning-death-of-a-17280042.php"
+    },
+    {
+      "text": "",
       "url": "/bayarea/article/Two-historic-swastikas-on-a-building-caused-a-17277964.php"
     },
     {
@@ -8736,14 +8782,6 @@
     {
       "text": "S.F. fires nonprofit hired to clean Tenderloin. Here's why",
       "url": "/sf/article/S-F-fires-nonprofit-hired-to-clean-Tenderloin-17280154.php"
-    },
-    {
-      "text": "",
-      "url": "/bayarea/article/Person-dies-after-boat-crash-between-two-vessels-17278000.php"
-    },
-    {
-      "text": "Person dies after boat crash between two vessels in San Francisco Bay",
-      "url": "/bayarea/article/Person-dies-after-boat-crash-between-two-vessels-17278000.php"
     },
     {
       "text": "Bay Area telehealth companies trying to keep up with contraception demand",
@@ -8978,7 +9016,7 @@
       "url": "/opinion/openforum/article/california-unions-environmental-law-17279821.php"
     },
     {
-      "text": "How a handful of unions are hijacking California environmental law",
+      "text": "How a few unions are hijacking California environmental law",
       "url": "/opinion/openforum/article/california-unions-environmental-law-17279821.php"
     },
     {
@@ -9458,7 +9496,7 @@
       "url": "javascript:void(0)"
     }
   ],
-  "uniq": 1890490209,
+  "uniq": 1373506686,
   "workable_servers": [
     "ia902504.us.archive.org",
     "ia802504.us.archive.org"

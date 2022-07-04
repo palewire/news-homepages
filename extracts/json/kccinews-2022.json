@@ -1,5 +1,5 @@
 {
-  "created": 1656894077,
+  "created": 1656936555,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/27/items/kccinews-2022",
@@ -5670,31 +5670,73 @@
       "sha1": "5ffb33788a863d0bc069bb2f212421963ea5814f"
     },
     {
+      "name": "kccinews-2022-07-03T20:29:19.330057-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898163",
+      "size": "25533",
+      "md5": "4980c573d62a8af8593acd3a7543383e",
+      "crc32": "282d512b",
+      "sha1": "dd68fd194d7de58dac1e71a4678fe92ac860b60a",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-07-03T20:29:19.330057-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898164",
+      "size": "24517",
+      "md5": "d4aa9f647dc9b0f55ad381e825d5f2c8",
+      "crc32": "7d613c9c",
+      "sha1": "ec76800546e86be0c38db7f78f6e772fec261ead",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-07-03T20:29:19.330057-05:00.jpg",
+      "source": "original",
+      "mtime": "1656898161",
+      "size": "318144",
+      "md5": "e767b8b430bf5b8aac58cbe1bc75e43a",
+      "crc32": "d22339b0",
+      "sha1": "707653cf0b535d5e6946ee52551529e97559cd52",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kccinews-2022-07-03T20:29:19.330057-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kccinews-2022-07-03T20:29:19.330057-05:00.jpg",
+      "mtime": "1656898231",
+      "size": "10687",
+      "md5": "dafbb82111907f73a9937895d0ca4990",
+      "crc32": "df707464",
+      "sha1": "a96a659498d328649ee8d0cb6bd544b23d49ac84"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5dc263ae59495d17cfcfd1dc1e70e9c71b03a3d2",
-      "mtime": "1656853803",
-      "size": "115112",
-      "md5": "9a2050545d35dc3a577fdc6cfa1fea02",
-      "crc32": "11edd68e",
-      "sha1": "7d9875613494e1d606e3530b3dca9973b00e7293",
+      "btih": "e46e491050a23f49e27306a839209955a737074d",
+      "mtime": "1656898239",
+      "size": "115962",
+      "md5": "ed80d6fd5ab5ea77cc0d7e4de8616cc2",
+      "crc32": "b5c7c589",
+      "sha1": "2be4c40d806987ff4d0706f2fb7478f9635ba22c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6aa414b14752aa6accedd9bd1481eac2",
+      "md5": "91d0d21397bb99f346a71eef7ce6b187",
       "summation": "md5"
     },
     {
       "name": "kccinews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656853733",
-      "size": "630784",
-      "md5": "96ad33b9cae76b40f405af2e9c557db6",
-      "crc32": "71c22c80",
-      "sha1": "f55585859330c09bbd8296d014e4f6f4fe686b52",
+      "mtime": "1656898168",
+      "size": "634880",
+      "md5": "8b14018327a22baf945e348fe302879d",
+      "crc32": "b33f256e",
+      "sha1": "815fcc2c25f4c85fd388023eecb52ed65ef90f7c",
       "format": "Metadata"
     },
     {
@@ -5708,16 +5750,16 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 543,
-  "item_last_updated": 1656853803,
-  "item_size": 50445674,
+  "files_count": 547,
+  "item_last_updated": 1656898239,
+  "item_size": 50829501,
   "kccinews-2022": [
     {
       "text": "Skip to content",
       "url": "#"
     },
     {
-      "text": "\n        \n            \n                NOWCAST\n                KCCI News at 6am Sunday Morning\n            \n            \n                \n                    \n                \n\n                \n                                            Live Now\n                                    \n            \n        \n    ",
+      "text": "\n        \n            \n                NOWCAST\n                KCCI News at 5:30pm Sunday Evening\n            \n            \n                \n                    \n                \n\n                \n                                            Watch on Demand\n                                    \n            \n        \n    ",
       "url": "/nowcast"
     },
     {
@@ -5893,39 +5935,43 @@
       "url": "/"
     },
     {
-      "text": "66\u00b0Weather",
+      "text": "87\u00b0Weather",
       "url": "/weather"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tSevere Weather\n\t\t\t\t\t\t\n\t\t\t\t\t\tThere is currently 1 active weather alert\n\t\t\t\t\t",
+      "url": "/alerts"
     },
     {
       "text": "\n\t\t\t\t\tMORE\n\t\t\t\t\t\n\t\t\t\t",
       "url": "/weather"
     },
     {
-      "text": "Sign Up to Get Future Alerts",
-      "url": "https://www.kcci.com/subscribe"
-    },
-    {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/ribapalooza-is-iowa-familys-way-of-raising-awareness-for-organ-donation-kidney-failure-newton-wish-derek-carr/40490694"
+      "url": "/article/des-moines-iowa-family-forgives-drunk-driver-for-killing-mother-wife-in-2020-crash-vander-hart/40490261"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tKayla James\n\t\t\t\t",
-      "url": "/news-team/70adbc4f-6e54-49d2-bd37-3f1100832eb6"
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tLauren Johnson\n\t\t\t\t",
+      "url": "/news-team/911f1a5b-b6a0-48cb-a519-e75d029f582e"
     },
     {
-      "text": "\n\t\t\tRibapalooza is Iowa family\u2019s way of raising awareness for organ donation\n\t\t",
-      "url": "/article/ribapalooza-is-iowa-familys-way-of-raising-awareness-for-organ-donation-kidney-failure-newton-wish-derek-carr/40490694"
+      "text": "\n\t\t\tDes Moines family forgives drunk driver for killing mother, wife in 2020 crash\n\t\t",
+      "url": "/article/des-moines-iowa-family-forgives-drunk-driver-for-killing-mother-wife-in-2020-crash-vander-hart/40490261"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/article/ribapalooza-is-iowa-familys-way-of-raising-awareness-for-organ-donation-kidney-failure-newton-wish-derek-carr/40490694"
+      "url": "/article/des-moines-iowa-family-forgives-drunk-driver-for-killing-mother-wife-in-2020-crash-vander-hart/40490261"
+    },
+    {
+      "text": "Weather Alerts (1)",
+      "url": "alerts"
     },
     {
       "text": "Des Moines, IA 50309",
       "url": "/weather"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t66\n\t\t\t\t\t\t\u00b0\n\t\t\t\t\t\tF\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t87\n\t\t\t\t\t\t\u00b0\n\t\t\t\t\t\tF\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
       "url": "/weather"
     },
     {
@@ -5933,20 +5979,20 @@
       "url": "weather/radar"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tZane Satre\n\t\t\t\t",
-      "url": "/news-team/1b3dddd6-af1a-4b69-a59a-fd295b2bef87"
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tTrey Fulbright\n\t\t\t\t",
+      "url": "/news-team/4ac90114-397a-4134-9591-a76d82ca273b"
     },
     {
-      "text": "\n\t\t\tHeat & humidity set up shop most of next week\n\t\t",
-      "url": "/article/mainly-dry-weekend-with-storms-arriving-around-the-fourth/40488891"
+      "text": "\n\t\t\tPleasant Sunday before storm chances on Monday\n\t\t",
+      "url": "/article/pleasant-sunday-before-storm-chances-on-monday/40491690"
     },
     {
       "text": "Enjoy a 1-pound 'Papa' burger from a legendary Iowa tavern",
       "url": "/article/enjoy-a-1-pound-papa-burger-from-a-legendary-iowa-tavern/40448172"
     },
     {
-      "text": "Des Moines family forgives drunk driver for killing mother, wife in 2020 crash",
-      "url": "/article/des-moines-iowa-family-forgives-drunk-driver-for-killing-mother-wife-in-2020-crash-vander-hart/40490261"
+      "text": "Ribapalooza is Iowa family\u2019s way of raising awareness for organ donation",
+      "url": "/article/ribapalooza-is-iowa-familys-way-of-raising-awareness-for-organ-donation-kidney-failure-newton-wish-derek-carr/40490694"
     },
     {
       "text": "First monkeypox case confirmed in Iowa",
@@ -5961,11 +6007,19 @@
       "url": "/article/iowa-owned-horse-mo-donegal-sidelined-with-bone-bruising-des-moines-new-york/40489957"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/boston-travelers-react-to-delta-s-10k-offer-to-passengers-on-overbooked-flight/40490704"
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
+      "url": "/article/danish-police-say-several-people-have-been-hit-by-gunshots-at-a-shopping-mall/40492517"
     },
     {
-      "text": "\n\t\t\tDelta reportedly offers $10K to passengers on overbooked flight\n\t\t",
+      "text": "\n\t\t\tSeveral dead in Copenhagen mall shooting; suspect arrested\n\t\t",
+      "url": "/article/danish-police-say-several-people-have-been-hit-by-gunshots-at-a-shopping-mall/40492517"
+    },
+    {
+      "text": "Altercation breaks out at Patriot Front hate group march",
+      "url": "/article/altercation-breaks-out-at-patriot-front-hate-group-march/40492429"
+    },
+    {
+      "text": "Delta reportedly offers $10K to passengers on overbooked flight",
       "url": "/article/boston-travelers-react-to-delta-s-10k-offer-to-passengers-on-overbooked-flight/40490704"
     },
     {
@@ -5981,24 +6035,12 @@
       "url": "/article/uvalde-police-chief-resigns-city-council/40489833"
     },
     {
-      "text": "Where to find fireworks displays in central Iowa",
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
       "url": "/article/holiday-independence-day-fourth-of-july-2022-central-iowa-fireworks-displays/40311862"
     },
     {
-      "text": "World Health Organization gathers to determine threat level of monkeypox",
-      "url": "/article/monkeypox-cases-increasing-in-the-united-states-and-globally/40450015"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/thousands-attend-yankee-doodle-pops-after-three-year-hiatus/40487615"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tKayla James\n\t\t\t\t",
-      "url": "/news-team/70adbc4f-6e54-49d2-bd37-3f1100832eb6"
-    },
-    {
-      "text": "\n\t\t\tThousands attend Yankee Doodle Pops after three-year hiatus\n\t\t",
-      "url": "/article/thousands-attend-yankee-doodle-pops-after-three-year-hiatus/40487615"
+      "text": "\n\t\t\tWhere to find fireworks displays in central Iowa\n\t\t",
+      "url": "/article/holiday-independence-day-fourth-of-july-2022-central-iowa-fireworks-displays/40311862"
     },
     {
       "text": "\n\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\t",
@@ -6034,27 +6076,23 @@
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/lindsay-lohan-announces-marriage-to-financier-bader-shammas/40491382"
+      "url": "/article/bear-cub-rescued-after-getting-head-stuck-in-plastic-jug/40485274"
     },
     {
-      "text": "\n\t\t\t'My life and my everything': Lindsay Lohan announces marriage to financier Bader Shammas\n\t\t",
-      "url": "/article/lindsay-lohan-announces-marriage-to-financier-bader-shammas/40491382"
+      "text": "\n\t\t\tBear cub rescued after getting head stuck in plastic jug\n\t\t",
+      "url": "/article/bear-cub-rescued-after-getting-head-stuck-in-plastic-jug/40485274"
     },
     {
-      "text": "",
-      "url": "https://www.facebook.com/ChrisGloningerKCCI"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tThe best Fourth of July furniture sales happening right now\n\t\n\n\n\t\t\t\n\n          \n                  POPULAR MECHANICS\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/july-fourth-furniture-sales/40460296"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t'We need that sense of community': Cancer survivor uses talent to inspire others\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/we-need-that-sense-of-community-cancer-survivor-uses-talent-to-inspire-others/40490638"
     },
     {
       "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tStitch TV: Food & how it connects us\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
       "url": "/article/stitch-tv-food-and-how-it-connects-us/40484664"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t'We need that sense of community': Cancer survivor uses talent to inspire others\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/we-need-that-sense-of-community-cancer-survivor-uses-talent-to-inspire-others/40490638"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tThe best Fourth of July furniture sales happening right now\n\t\n\n\n\t\t\t\n\n          \n                  POPULAR MECHANICS\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/july-fourth-furniture-sales/40460296"
     },
     {
       "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tKnowing the dangers of celebratory gunfire\n\t\n\n\n\t\t\t\n\n          \n                  KOAT\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
@@ -6102,11 +6140,11 @@
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/new-york-overhauls-handgun-licensing-rules/40487261"
+      "url": "/article/supreme-court-marshal-seeks-enforcement-of-anti-picketing-laws/40491535"
     },
     {
-      "text": "\n\t\t\tNew York overhauls handgun licensing rules in effort to preserve some limits\n\t\t",
-      "url": "/article/new-york-overhauls-handgun-licensing-rules/40487261"
+      "text": "\n\t\t\tHigh court marshal seeks enforcement of anti-picketing laws\n\t\t",
+      "url": "/article/supreme-court-marshal-seeks-enforcement-of-anti-picketing-laws/40491535"
     },
     {
       "text": "Tropical Storm Colin dissipates over eastern North Carolina",
@@ -6117,24 +6155,24 @@
       "url": "/article/north-korea-slams-us-south-korea-japan-military-cooperation/40490864"
     },
     {
-      "text": "The surprising reason supermarkets sell flowers",
-      "url": "/article/surprising-reason-supermarkets-sell-flowers/40490393"
+      "text": "Unarmed 25-year-old Black man shot, killed by police in Ohio",
+      "url": "/article/unarmed-25-year-old-black-man-shot-killed-by-police-in-ohio/40493533"
+    },
+    {
+      "text": "New York overhauls handgun licensing rules in effort to preserve some limits",
+      "url": "/article/new-york-overhauls-handgun-licensing-rules/40487261"
     },
     {
       "text": "John Kerry says US climate setbacks are slowing work abroad",
       "url": "/article/john-kerry-climate-setbacks-slowing-work-abroad/40486501"
     },
     {
-      "text": "Ketanji Brown Jackson sworn in, becoming 1st Black woman on Supreme Court",
-      "url": "/article/ketanji-brown-jackson-sworn-in-to-supreme-court/40466758"
-    },
-    {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/for-now-wary-us-treads-water-with-fast-changing-covid-19/40489412"
+      "url": "/article/covid-19-vaccines-saved-20-million-lives-in-1st-year/40399337"
     },
     {
-      "text": "\n\t\t\tFor now, wary US treads water with fast-changing COVID-19\n\t\t",
-      "url": "/article/for-now-wary-us-treads-water-with-fast-changing-covid-19/40489412"
+      "text": "\n\t\t\tScientists: COVID-19 vaccines saved 20 million lives during their 1st year\n\t\t",
+      "url": "/article/covid-19-vaccines-saved-20-million-lives-in-1st-year/40399337"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
@@ -6153,16 +6191,16 @@
       "url": "/article/iowa-student-who-sued-college-for-off-campus-learning-during-pandemic-will-pursue-settlement-sydney-warner/40447029"
     },
     {
+      "text": "For now, wary US treads water with fast-changing COVID-19",
+      "url": "/article/for-now-wary-us-treads-water-with-fast-changing-covid-19/40489412"
+    },
+    {
       "text": "FDA recommends changing composition of COVID-19 vaccines for use this fall",
       "url": "/article/fda-covid-19-vaccines-for-use-this-fall/40477141"
     },
     {
       "text": "14-year-old tiger dies from COVID-19 complications, Ohio zoo says",
       "url": "/article/ohio-columbus-zoo-tiger-covid-19-pneumonia-death-virus/40477345"
-    },
-    {
-      "text": "WHO: COVID-19 cases rising nearly everywhere in the world",
-      "url": "/article/covid-19-cases-rising-nearly-everywhere-in-world/40470473"
     },
     {
       "text": "Iowa health care professionals prepare to administer pediatric COVID-19 vaccines",
@@ -6173,15 +6211,19 @@
       "url": "/article/cdc-study-more-than-13-of-high-school-students-reported-poor-mental-health-during-pandemic/40081458"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\tRob Kim/Getty Images\n\t\t\n\n\n\t\t\t\t\t\t",
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\tCindy Ord\n\t\t\n\n\n\t\t\t\t\t\t",
+      "url": "/article/lindsay-lohan-announces-marriage-to-financier-bader-shammas/40491382"
+    },
+    {
+      "text": "\n\t\t\t'My life and my everything': Lindsay Lohan announces marriage to financier Bader Shammas\n\t\t",
+      "url": "/article/lindsay-lohan-announces-marriage-to-financier-bader-shammas/40491382"
+    },
+    {
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
       "url": "/article/bret-michaels-shares-update-hospitalization/40489626"
     },
     {
       "text": "\n\t\t\tPoison singer Bret Michaels shares update on his hospitalization\n\t\t",
-      "url": "/article/bret-michaels-shares-update-hospitalization/40489626"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
       "url": "/article/bret-michaels-shares-update-hospitalization/40489626"
     },
     {
@@ -6193,11 +6235,7 @@
       "url": "/article/robin-williams-widow-opens-up-about-the-future-of-lewy-body-dementia/40487478"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/disney-princess-and-the-frog-splash-mountain-2024/40486439"
-    },
-    {
-      "text": "\n\t\t\tDisney confirms 'Princess and the Frog' rebrand of Splash Mountain coming in 2024\n\t\t",
+      "text": "Disney confirms 'Princess and the Frog' rebrand of Splash Mountain coming in 2024",
       "url": "/article/disney-princess-and-the-frog-splash-mountain-2024/40486439"
     },
     {
@@ -6215,10 +6253,6 @@
     {
       "text": "Cameron Diaz is coming out of retirement",
       "url": "/article/cameron-diaz-is-coming-out-of-retirement/40463827"
-    },
-    {
-      "text": "The timeline of R. Kelly: From R&B superstar to convicted sex trafficker",
-      "url": "/article/the-timeline-of-r-kelly-from-randb-superstar-to-convicted-sex-trafficker/40464344"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
@@ -6385,10 +6419,10 @@
     "publicdate": "2022-03-25 03:36:10",
     "addeddate": "2022-03-25 03:36:10"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 583967984,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1140080698,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }
