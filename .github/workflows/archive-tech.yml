@@ -7,6 +7,8 @@ on:
 
 jobs:
   archive-bundle:
+    name: Archive bundle
     uses: palewire/news-homepages/.github/workflows/reusable-archive-bundle-workflow.yml@main
     with:
       bundle: tech
+    secrets: inherit
