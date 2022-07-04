@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Daily News
+
+![Daily News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nydailynews.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.nydailynews.com/](https://www.nydailynews.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nydailynews.xml) |
+| Twitter handle | [@NYDailyNews](https://www.twitter.com/NYDailyNews)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |

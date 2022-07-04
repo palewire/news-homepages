@@ -5,15 +5,15 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# Tech Crunch
+# TechCrunch
 
-![Tech Crunch](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg)
+![TechCrunch](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg)
 
 | Attribute      | Value                                                                               |
 | :------------- | :---------------------------------------------------------------------------------- |
 | Site           | [https://techcrunch.com/](https://techcrunch.com/)                                                    |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/techcrunch.xml) |
-| Twitter handle | [@TechCrunch](https://www.twitter.com/TechCrunch)                     |
+| Twitter handle | [@techcrunch](https://www.twitter.com/techcrunch)                     |
 | Location       | San Francisco                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
