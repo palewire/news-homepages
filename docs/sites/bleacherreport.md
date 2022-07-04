@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Bleacher Report
+
+![Bleacher Report](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bleacherreport.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://bleacherreport.com/](https://bleacherreport.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bleacherreport.xml) |
+| Twitter handle | [@BleacherReport](https://www.twitter.com/BleacherReport)                     |
+| Location       | New York                                                                 |
+| Timezone       | America/New_York                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
