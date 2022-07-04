@@ -17,7 +17,7 @@ orphan: true
 | Location       | Silicon Valley                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 67 screenshots stored at the Internet Archive.
+The archiving routine has captured 68 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
