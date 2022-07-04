@@ -18,9 +18,15 @@ jobs:
         name: Install Python dependencies
         uses: ./.github/actions/install
 
+      - id: create-handles-json
+        name: Create handles JSON
+        run: pipenv run python -m newshomepages.batch sites_by_bundle tech > sites.json
+        shell: bash
+
       - id: set-matrix
         name: Export handles list
-        run: echo "::set-output name=handle_matrix::$(pipenv run python -m newshomepages.batch sites_by_bundle tech | jq -c)"
+        run: echo "::set-output name=handle_matrix::$(cat sites.json | jq -c)"
+        shell: bash
     outputs:
       handle_matrix: ${{ steps.set-matrix.outputs.handle_matrix }}
 
