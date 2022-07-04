@@ -1,4 +1,4 @@
-name: "Archive: San Francisco Bay Area"
+name: "Archive: Technology"
 
 on:
   workflow_dispatch:
@@ -20,7 +20,7 @@ jobs:
 
       - id: set-matrix
         name: Export handles list
-        run: echo "::set-output name=handle_matrix::$(pipenv run python -m newshomepages.batch sites_by_bundle bay-area | jq -c)"
+        run: echo "::set-output name=handle_matrix::$(pipenv run python -m newshomepages.batch sites_by_bundle tech | jq -c)"
     outputs:
       handle_matrix: ${{ steps.set-matrix.outputs.handle_matrix }}
 
@@ -180,7 +180,7 @@ jobs:
           consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
           access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
           access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-          command: bundle bay-area
+          command: bundle tech
 
   telegram:
     name: Post to Telegram
@@ -197,4 +197,4 @@ jobs:
         uses: ./.github/actions/telegram
         with:
           api-key: ${{ secrets.TELEGRAM_API_KEY }}
-          command: bundle bay-area
+          command: bundle tech
