@@ -7,28 +7,15 @@ on:
 
 jobs:
   sources:
-    name: Source list
+    name: Sources
     runs-on: ubuntu-latest
     steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
-
-      - id: install
-        name: Install Python dependencies
-        uses: ./.github/actions/install
-
-      - id: create-handles-json
-        name: Create handles JSON
-        run: pipenv run python -m newshomepages.batch sites-by-bundle tech > sites.json
-        shell: bash
-
-      - id: set-matrix
-        name: Export handles list
-        run: echo "::set-output name=handle_matrix::$(cat sites.json | jq -c)"
-        shell: bash
+      - id: get-site-list
+        uses: ./.github/actions/batch
+        with:
+          command: sites-by-bundle tech
     outputs:
-      handle_matrix: ${{ steps.set-matrix.outputs.handle_matrix }}
+      site-list: ${{ steps.get-site-list.outputs.site-list }}
 
   jpg:
     name: JPG
@@ -39,7 +26,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
@@ -60,7 +47,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
@@ -81,7 +68,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
@@ -101,7 +88,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
@@ -123,7 +110,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
