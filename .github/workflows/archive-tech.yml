@@ -7,6 +7,6 @@ on:
 
 jobs:
   archive-bundle:
-    uses: palewire/newshomepages/.github/workflows/reusable-archive-bundle-workflow.yml@main
+    uses: palewire/news-homepages/.github/workflows/reusable-archive-bundle-workflow.yml@main
     with:
       bundle: tech
