@@ -1,33 +1,28 @@
-name: Archive all sites
+name: Archive batch reusable workflow
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 */12 * * *"
+  workflow_call:
+    inputs:
+      batch:
+        description: "The batch number to archive"
+        required: true
+        type: string
 
 jobs:
   sources:
-    name: Source list
+    name: Sources
     runs-on: ubuntu-latest
     steps:
       - id: checkout
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: install
-        name: Install Python dependencies
-        uses: ./.github/actions/install
-
-      - id: create-handles-json
-        name: Create handles JSON
-        run: pipenv run python -m newshomepages.screenshot get-handle-json
-        shell: bash
-
-      - id: set-matrix
-        name: Export handles list
-        run: echo "::set-output name=handle_matrix::$(cat handles.json | jq -c)"
+      - id: get-site-list
+        uses: ./.github/actions/batch
+        with:
+          command: sites-by-batch ${{ inputs.batch }}
     outputs:
-      handle_matrix: ${{ steps.set-matrix.outputs.handle_matrix }}
+      site-list: ${{ steps.get-site-list.outputs.site-list }}
 
   jpg:
     name: JPG
@@ -38,7 +33,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
@@ -59,7 +54,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
@@ -80,7 +75,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
@@ -100,7 +95,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
@@ -122,7 +117,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJson(needs.sources.outputs.handle_matrix) }}
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
@@ -150,56 +145,3 @@ jobs:
       - id: commit
         name: Commit
         uses: ./.github/actions/commit
-
-  mosaic:
-    name: Create GIF mosaic
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    needs: [jpg]
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
-
-      - id: mosaic
-        name: Mosaic
-        uses: ./.github/actions/mosaic
-        with:
-          command: gif
-
-  tweet:
-    name: Post to Twitter
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    needs: [mosaic]
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
-
-      - id: tweet
-        name: Tweet
-        uses: ./.github/actions/tweet
-        with:
-          consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
-          consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-          access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
-          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-          command: mosaic
-
-  telegram:
-    name: Post to Telegram
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    needs: [mosaic]
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
-
-      - id: telegram
-        name: Telegram
-        uses: ./.github/actions/telegram
-        with:
-          api-key: ${{ secrets.TELEGRAM_API_KEY }}
-          command: mosaic
