@@ -1,5 +1,5 @@
 {
-  "created": 1656935772,
+  "created": 1656974662,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/9/items/vcstar-2022",
@@ -8808,31 +8808,157 @@
       "sha1": "be9622d9a05aa19be0f1d6982bc5f3f6b1970d49"
     },
     {
+      "name": "vcstar-2022-07-04T08:10:38.174300-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656947441",
+      "size": "20475",
+      "md5": "4563883174e42327842cc7b994925b4a",
+      "crc32": "ec2516fb",
+      "sha1": "3df6e195609b5d3f4779a4abd7f7481416435fdd",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-07-04T08:10:38.174300-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656947443",
+      "size": "31854",
+      "md5": "6085fcc9bef27d4106ca865018c9e37b",
+      "crc32": "1fb3b444",
+      "sha1": "9c1029efafaf509cb8e9ef1aa4c76cd814f5a8f1",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-07-04T08:10:38.174300-07:00.jpg",
+      "source": "original",
+      "mtime": "1656947439",
+      "size": "242942",
+      "md5": "a6fa2ea64f754b4eef41ad3a1024c849",
+      "crc32": "554d10bc",
+      "sha1": "77aea4c53fee07919611dd63ca38eac58ac64483",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vcstar-2022-07-04T08:10:38.174300-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vcstar-2022-07-04T08:10:38.174300-07:00.jpg",
+      "mtime": "1656947529",
+      "size": "9409",
+      "md5": "bf8dc6f3d9243e58a656c01d9990e1ff",
+      "crc32": "b7198880",
+      "sha1": "d804bc212c56d132152c9caa42c0096af4dfc7b1"
+    },
+    {
+      "name": "vcstar-2022-07-04T11:08:04.609634-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656958088",
+      "size": "18940",
+      "md5": "0bdb2ddceac959fb3da0ab48e4517396",
+      "crc32": "38c7a8a9",
+      "sha1": "62e4e9778dfdee54d417f2289c3249d5f73edc7e",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-07-04T11:08:04.609634-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656958089",
+      "size": "28947",
+      "md5": "152e9ec03bd66893a6b290f21c08014d",
+      "crc32": "66bd1f32",
+      "sha1": "7190bafe72f2246701c20829a9539168058299e4",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-07-04T11:08:04.609634-07:00.jpg",
+      "source": "original",
+      "mtime": "1656958086",
+      "size": "240555",
+      "md5": "45121363928beae71e91703cc0c70884",
+      "crc32": "5d2bd15b",
+      "sha1": "71c9b04aa1ad622ff268cb2b7d3560eb7bce21c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vcstar-2022-07-04T11:08:04.609634-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vcstar-2022-07-04T11:08:04.609634-07:00.jpg",
+      "mtime": "1656958170",
+      "size": "9166",
+      "md5": "408f71d5e65e2237a9134368de874c74",
+      "crc32": "c1ef796a",
+      "sha1": "8eb4b042823b19fee6d0d73f1412a4deacf6c6d6"
+    },
+    {
+      "name": "vcstar-2022-07-04T14:47:16.136898-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656971239",
+      "size": "19285",
+      "md5": "2535800b78e1ad269457e1f60ca26501",
+      "crc32": "9344920d",
+      "sha1": "d35e71be64cace1c52d5a498f0edc7d0df53aacf",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-07-04T14:47:16.136898-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656971241",
+      "size": "29984",
+      "md5": "754ec480b08b890f602cc6120465c436",
+      "crc32": "605870c0",
+      "sha1": "41049dc70e1a1c74b4c8128aa8a22cc0fe69d5fb",
+      "format": "JSON"
+    },
+    {
+      "name": "vcstar-2022-07-04T14:47:16.136898-07:00.jpg",
+      "source": "original",
+      "mtime": "1656971238",
+      "size": "238758",
+      "md5": "a1c5e0a2a57cb9e0ba55f99c59bcad45",
+      "crc32": "fa87a452",
+      "sha1": "9b089941736b5eae285809f3ef2aeac523c455d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vcstar-2022-07-04T14:47:16.136898-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vcstar-2022-07-04T14:47:16.136898-07:00.jpg",
+      "mtime": "1656971304",
+      "size": "9014",
+      "md5": "82fcf4a4da6896492b9af6ad9638ef47",
+      "crc32": "67577d8d",
+      "sha1": "bba51e319a6ccd5f7603fd485eb1abde9f184c1f"
+    },
+    {
       "name": "vcstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "296a439a093e7939713a07f2744551681831beba",
-      "mtime": "1656898949",
-      "size": "175964",
-      "md5": "ce57adf459ca2427d61235a617fc9e67",
-      "crc32": "46477b77",
-      "sha1": "d9ae4a1d0c4d63a5f8e50a5e92f819c861048e05",
+      "btih": "0c30c19a759d60b882cec73902f460222776b5b2",
+      "mtime": "1656971318",
+      "size": "178447",
+      "md5": "bdbebfba1be808cc7f711c16228e9a85",
+      "crc32": "43857887",
+      "sha1": "006958b453fbdb03b62397eac49ac3b2395e4d76",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vcstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30d2ebfa0b78ffdac21e8b8593699230",
+      "md5": "a7add59b568db481c6c22c0ff8782cd7",
       "summation": "md5"
     },
     {
       "name": "vcstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656898888",
-      "size": "958464",
-      "md5": "d23ea9bdc9f944f05aa645e499a95fa0",
-      "crc32": "c4b82b37",
-      "sha1": "c3353ce1ee4c5107c355f4ac4dbcd4a920c5591e",
+      "mtime": "1656971244",
+      "size": "970752",
+      "md5": "f3c8b924281ff4ab74587e228ed5d3fb",
+      "crc32": "afe87929",
+      "sha1": "776331352f4de3640828171f36a0df676f2f0194",
       "format": "Metadata"
     },
     {
@@ -8846,9 +8972,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 841,
-  "item_last_updated": 1656898949,
-  "item_size": 76808088,
+  "files_count": 853,
+  "item_last_updated": 1656971318,
+  "item_size": 77722188,
   "metadata": {
     "identifier": "vcstar-2022",
     "collection": [
@@ -8865,10 +8991,604 @@
     "publicdate": "2022-03-23 02:10:28",
     "addeddate": "2022-03-23 02:10:28"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1926318314,
+  "server": "ia902503.us.archive.org",
+  "uniq": 124509704,
+  "vcstar-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.vcstar.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.vcstar.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.vcstar.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.vcstar.com%2F"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.vcstar.com/news/schoolwatch/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.vcstar.com/obituaries"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.vcstar.com/user/enewspaper"
+    },
+    {
+      "text": "Legals",
+      "url": "http://classifieds.vcstar.com/"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.vcstar.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.vcstar.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://login.vcstar.com/PVCS-GUP/authenticate/?success-url=https%3A%2F%2Fwww.vcstar.com%2F&cancel-url=https%3A%2F%2Fwww.vcstar.com%2F"
+    },
+    {
+      "text": " Owners sell Channel Islands Aviation after 46 years",
+      "url": "/story/news/2022/07/04/channel-islands-aviation-changes-hands-after-46-years-camarillo-airport/7730149001/"
+    },
+    {
+      "text": "'Are we safe anywhere?: 6 dead, dozens wounded as shooting erupts at Highland Park parade",
+      "url": "/story/news/nation/2022/07/04/shooting-disrupts-fourth-july-parade-highland-park/7802855001/"
+    },
+    {
+      "text": "Fourth of July celebrations happening in Ventura County",
+      "url": "/story/news/local/communities/county/2022/06/27/july-4th-2022-festivals-firework-shows-parades-celebrations-ventura-county/7712456001/"
+    },
+    {
+      "text": "Same-sex couples fear their marriages could be targeted",
+      "url": "/story/news/2022/07/03/ventura-county-couples-worry-same-sex-unions-could-next-target/7729694001/"
+    },
+    {
+      "text": " \u2018Join us in California\u2019: Newsom targets GOP in Florida ad",
+      "url": "/story/news/nation/california/2022/07/03/california-gov-gavin-newsom-airs-political-ad-florida-targeting-gop-ron-desantis-fox-news/7800515001/"
+    },
+    {
+      "text": " Veterans: On July Fourth, we express our gratitude",
+      "url": "/story/news/2022/07/03/veterans-july-fourth-we-express-our-gratitude/7796877001/"
+    },
+    {
+      "text": " Californians to vote on 7 ballot measures this November",
+      "url": "/story/news/local/california/2022/07/03/election-2022-californians-vote-7-ballot-measures-abortion-sports-betting-vaping-tax-on-rich-schools/7799848001/"
+    },
+    {
+      "text": " Local water use drops in June, some areas fall short",
+      "url": "/story/news/2022/07/01/southern-california-water-use-drought-ventura-county/7610796001/"
+    },
+    {
+      "text": " New program offers young offenders a chance for change",
+      "url": "/story/news/local/communities/county/2022/07/01/restorative-justice-program-launches-ventura-county-young-offenders/7791041001/"
+    },
+    {
+      "text": "Channel Islands Aviation gets new ownership at Camarillo Airport\u00a0",
+      "url": "/picture-gallery/news/local/2022/07/04/channel-islands-aviation-gets-new-ownership-camarillo-airport/7750586001/"
+    },
+    {
+      "text": " Owners sell Channel Islands Aviation after 46 years\u00a0",
+      "url": "/story/news/2022/07/04/channel-islands-aviation-changes-hands-after-46-years-camarillo-airport/7730149001/"
+    },
+    {
+      "text": " Roundup: Gun brandished in Fillmore robbery; hiker rescued\u00a0",
+      "url": "/story/news/2022/07/03/gun-brandished-fillmore-robbery-injured-hiker-rescued-in-santa-paula-ventura-county-news-roundup/7800734001/"
+    },
+    {
+      "text": "More in News",
+      "url": "/news/"
+    },
+    {
+      "text": " Scully lends famous voice for local July 4th message\u00a0",
+      "url": "/story/news/2022/07/03/vin-scully-ventura-county-independence-day-message-july-4/7793221001/"
+    },
+    {
+      "text": " 'Miracle Girl': Madsen perseveres through harrowing battle with E. coli\u00a0",
+      "url": "/story/sports/high-school/2022/07/01/simi-valleys-madsen-perseveres-through-three-year-battle-e-coli/7768312001/"
+    },
+    {
+      "text": " Sahlman, Engelhardt earn top state track honors from Gatorade\u00a0",
+      "url": "/story/sports/high-school/track/2022/06/30/sahlman-engelhardt-named-california-track-players-year-gatorade/7781760001/"
+    },
+    {
+      "text": "More in Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": " Owners sell Channel Islands Aviation after 46 years\u00a0",
+      "url": "/story/news/2022/07/04/channel-islands-aviation-changes-hands-after-46-years-camarillo-airport/7730149001/"
+    },
+    {
+      "text": " T.O. dispensaries close to selling recreational pot\u00a0",
+      "url": "/story/news/local/communities/conejo-valley/2022/07/01/t-o-s-two-dispensaries-step-away-selling-recreational-pot/7778762001/"
+    },
+    {
+      "text": " Area's short-staffed hospitals seek workers in job fair\u00a0",
+      "url": "/story/news/2022/06/28/ventura-county-hospitals-look-job-fair-help-staff-labor-shortage/7729471001/"
+    },
+    {
+      "text": "More in Business",
+      "url": "/business/"
+    },
+    {
+      "text": " Why Newsom won\u2019t OK parole for Manson follower\u00a0Tom Elias\u00a0",
+      "url": "/story/opinion/columnists/2022/07/04/why-newsom-wont-ok-parole-manson-follower/7792132001/"
+    },
+    {
+      "text": " On Fourth of July, renew our commitment to liberty for all\u00a0Ed Jones\u00a0",
+      "url": "/story/opinion/columnists/2022/07/03/fourth-july-renew-our-commitment-liberty-all/7759900001/"
+    },
+    {
+      "text": " Will more school money improve academic outcomes?\u00a0Dan Walters\u00a0",
+      "url": "/story/opinion/columnists/2022/07/03/more-school-money-improve-academic-outcomes/7779501001/"
+    },
+    {
+      "text": "More in Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": " Fourth of July celebrations happening in Ventura County\u00a0",
+      "url": "/story/news/local/communities/county/2022/06/27/july-4th-2022-festivals-firework-shows-parades-celebrations-ventura-county/7712456001/"
+    },
+    {
+      "text": " Ventura County Fair announces grandstand acts\u00a0",
+      "url": "/story/news/2022/06/24/ventura-county-fair-announces-grandstand-acts/7724019001/"
+    },
+    {
+      "text": " Four bands booked for Camarillo summer concert series\u00a0",
+      "url": "/story/news/2022/06/20/four-bands-booked-camarillo-summer-concert-series/7664537001/"
+    },
+    {
+      "text": "More in Entertainment",
+      "url": "/entertainment/"
+    },
+    {
+      "text": " Eco-tip: Not all lawns will survive under local watering limits\u00a0",
+      "url": "/story/news/2022/07/03/eco-tip-not-all-lawns-survive-under-local-watering-limits/7793681001/"
+    },
+    {
+      "text": " Veterans: On July Fourth, we express our gratitude\u00a0",
+      "url": "/story/news/2022/07/03/veterans-july-fourth-we-express-our-gratitude/7796877001/"
+    },
+    {
+      "text": " Readers share frustrations with Uber option to LAX\u00a0",
+      "url": "/story/life/columnists/2022/07/01/david-loe-readers-share-frustrations-uber-option-lax/7727112001/"
+    },
+    {
+      "text": "More in Lifestyle",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": "",
+      "url": "/picture-gallery/news/local/2022/06/25/photos-westlake-village-protest-after-roe-v-wade-overturned/7731778001/"
+    },
+    {
+      "text": "Enter Now!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/Bourbon-and-Beyond-VIP-Experience/?itm_campaign=Bourbon%20and%20Beyond%20VIP%20NON%20Louisville&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Get Summer Waves!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/AIA-and-Beachwaver-Summer/?itm_campaign=AIA%20and%20Beachwaver%20Summer%20Sweeps&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Do Some Traveling on Us!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://vcstar.secondstreetapp.com/Travel-Explore-Discover/?itm_campaign=Travel%20Explore%20Discover%20Gen&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "Online Shopping Tools",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=gannettcompany-vcstar&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1c2086df4a7dbc37a66c6a7fa1df58cf.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278717&campaign=19603838&click_id=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMo0I6kp-KAir8v&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMo0I6kp-KAir8v#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMo0I6kp-KAir8v"
+    },
+    {
+      "text": "Amazon Left Scrambling As Shoppers Find Out About Secret DealsOnline Shopping Tools|",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=gannettcompany-vcstar&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1c2086df4a7dbc37a66c6a7fa1df58cf.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278717&campaign=19603838&click_id=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMo0I6kp-KAir8v&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMo0I6kp-KAir8v#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMo0I6kp-KAir8v"
+    },
+    {
+      "text": "",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=gannettcompany-vcstar&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1c2086df4a7dbc37a66c6a7fa1df58cf.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278717&campaign=19603838&click_id=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMo0I6kp-KAir8v&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMo0I6kp-KAir8v#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMo0I6kp-KAir8v"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "All Things Auto | Search Ads",
+      "url": "https://searchtopics.net/index.php?rgid=152973&gclid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCIrVQoiICMiImUioYC"
+    },
+    {
+      "text": "Most Affordable Camper VansAll Things Auto | Search Ads|",
+      "url": "https://searchtopics.net/index.php?rgid=152973&gclid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCIrVQoiICMiImUioYC"
+    },
+    {
+      "text": "",
+      "url": "https://searchtopics.net/index.php?rgid=152973&gclid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCIrVQoiICMiImUioYC"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Babbel",
+      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=gannettcompany-vcstar&utm_content=1053396_8026037_3439362986&tcid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSDvpz4o7cSB1J75o-enAQ&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSDvpz4o7cSB1J75o-enAQ#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSDvpz4o7cSB1J75o-enAQ"
+    },
+    {
+      "text": "Speak the Language During Your Summer Travels \u2013 Get 60% Off BabbelBabbel|",
+      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=gannettcompany-vcstar&utm_content=1053396_8026037_3439362986&tcid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSDvpz4o7cSB1J75o-enAQ&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSDvpz4o7cSB1J75o-enAQ#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSDvpz4o7cSB1J75o-enAQ"
+    },
+    {
+      "text": "",
+      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=gannettcompany-vcstar&utm_content=1053396_8026037_3439362986&tcid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSDvpz4o7cSB1J75o-enAQ&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSDvpz4o7cSB1J75o-enAQ#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSDvpz4o7cSB1J75o-enAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "TopgadgetWorld",
+      "url": "https://trk.greatdiscount.life/7100cf02-d394-4ae3-baf3-152e4ba1bca6?campaignid=15984494&site=gannettcompany-vcstar&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F19aa4ee39595dbd87c0f992a8cec5f8f.png&title=Why+All+Seniors+Should+Wear+This+Incredible+Health+Watch%3F+%28You+Should+Read+This%29&item=3428946430&timestamp=2022-07-04+20%3A56%3A16&platform=Desktop&step={step}&taboolaclickid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCf2VcogpzWtsOar5Iu&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCf2VcogpzWtsOar5Iu#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCf2VcogpzWtsOar5Iu"
+    },
+    {
+      "text": "Why All Seniors Should Wear This Incredible Health Watch? (You Should Read This)TopgadgetWorld|",
+      "url": "https://trk.greatdiscount.life/7100cf02-d394-4ae3-baf3-152e4ba1bca6?campaignid=15984494&site=gannettcompany-vcstar&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F19aa4ee39595dbd87c0f992a8cec5f8f.png&title=Why+All+Seniors+Should+Wear+This+Incredible+Health+Watch%3F+%28You+Should+Read+This%29&item=3428946430&timestamp=2022-07-04+20%3A56%3A16&platform=Desktop&step={step}&taboolaclickid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCf2VcogpzWtsOar5Iu&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCf2VcogpzWtsOar5Iu#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCf2VcogpzWtsOar5Iu"
+    },
+    {
+      "text": "",
+      "url": "https://trk.greatdiscount.life/7100cf02-d394-4ae3-baf3-152e4ba1bca6?campaignid=15984494&site=gannettcompany-vcstar&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F19aa4ee39595dbd87c0f992a8cec5f8f.png&title=Why+All+Seniors+Should+Wear+This+Incredible+Health+Watch%3F+%28You+Should+Read+This%29&item=3428946430&timestamp=2022-07-04+20%3A56%3A16&platform=Desktop&step={step}&taboolaclickid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCf2VcogpzWtsOar5Iu&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCf2VcogpzWtsOar5Iu#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCf2VcogpzWtsOar5Iu"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "All Things Auto",
+      "url": "https://searchtopics.net/index.php?rgid=161256&gclid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCIrVQo49-hg6GzvcO1AQ"
+    },
+    {
+      "text": "New Audi's Finally On SaleAll Things Auto|",
+      "url": "https://searchtopics.net/index.php?rgid=161256&gclid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCIrVQo49-hg6GzvcO1AQ"
+    },
+    {
+      "text": "",
+      "url": "https://searchtopics.net/index.php?rgid=161256&gclid=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCIrVQo49-hg6GzvcO1AQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Appliance Deals | Search Ads",
+      "url": "https://popularsearches.net/index.php?rgid=409864&sub=gannettcompany-vcstar#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCek1ko2KOcxo_FuOOqAQ"
+    },
+    {
+      "text": "San Francisco: Huge Appliance Clearance Sales: See PricesAppliance Deals | Search Ads|",
+      "url": "https://popularsearches.net/index.php?rgid=409864&sub=gannettcompany-vcstar#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCek1ko2KOcxo_FuOOqAQ"
+    },
+    {
+      "text": "",
+      "url": "https://popularsearches.net/index.php?rgid=409864&sub=gannettcompany-vcstar#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCek1ko2KOcxo_FuOOqAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "SUV Deals | Search Ads",
+      "url": "https://mysearches.net/index.php?rgid=184185&sub=gannettcompany-vcstar#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCjxUIousTcoqOlnLxj"
+    },
+    {
+      "text": "San Francisco: Unsold Never-Driven Cars Now Almost Being Given Away: See PricesSUV Deals | Search Ads|",
+      "url": "https://mysearches.net/index.php?rgid=184185&sub=gannettcompany-vcstar#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCjxUIousTcoqOlnLxj"
+    },
+    {
+      "text": "",
+      "url": "https://mysearches.net/index.php?rgid=184185&sub=gannettcompany-vcstar#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCjxUIousTcoqOlnLxj"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Particle for Men",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=gannettcompany-vcstar#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCc4EkonLv1_aW7w7OEAQ"
+    },
+    {
+      "text": "Men Only - How to Tighten Eyebags (Do This Twice a Day)The 6-in-1 anti-aging cream for menParticle for Men|",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=gannettcompany-vcstar#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCc4EkonLv1_aW7w7OEAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=gannettcompany-vcstar#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCc4EkonLv1_aW7w7OEAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://trc.taboola.com/gannettcompany-vcstar/log/3/click?pi=%2F&ri=dc675a78ff973463fe071cc5bdd1cffe&sd=v2_24ce27b492500df742f2a3ba70d00068_63891cae-c176-409c-aef6-f999b5525d44-tuct9bcd970_1656968176_1656968176_CIi3jgYQ1KVAGNrC_9ecMCABKAEw4QE4kaQOQIuwDkjz2NgDUKcGWABgAGj65vSQycbpjTRwAQ&ui=63891cae-c176-409c-aef6-f999b5525d44-tuct9bcd970&it=text&ii=~~V1~~-7086816824434186397~~WOEkg4zmFOsgYpfCsLozNRRYEeCsr_VFM34bi2qs1e_6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQIKiYZmEl3RMjJoyLcF9x2L7I5MK7B1QpyhF1wERuIDVo2Oq0RS2DNJwFtQu2bmIxurOygszEKnfPoVz8jrMGT7sVZ0we2WGwSJO9a6YYC5KfTw6Zk8F2EhRf_0BblwpeBpu91XY05xbXLp_l_PFXzd9-SclKaA0Frri4tfgzbgreHoT1KtHYvF_q1RAmSYVV&pt=home&li=rbox-h2v&sig=3905524d399935e60d5e22e9b474919801435e762fea&redir=https%3A%2F%2Fwww.particleformen.com%2Flist%2F10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-tb-video%2F%3Futm_source%3DFace-Cream-Prospecting-BROAD-USA-Desktop%26utm_medium%3DTaboola%26utm_term%3Dgannettcompany-vcstar%23tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSCc4EkonLv1_aW7w7OEAQ&vi=1656968175962&p=particle-sc&r=56&lti=deflated&ppb=CFM&cpb=EhIyMDIyMDcwNC01LVJFTEVBU0UYngsgnP__________ASoZbGEudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMjAyODA4gL7WpwFAkaQOSIuwDlDz2NgDWKcGYwjXFhDVHxgjZGMI6v__________ARDq__________8BGBZkYwj5__________8BEPn__________wEYB2RjCNIDEOAGGAhkYwiWFBCcHBgYZGMI2RQQ-RwYHWRjCPQUEJ4dGB9kYwjR__________8BENH__________wEYL2R4AYAB____________AYgB____________AQ&cta=true"
+    },
+    {
+      "text": "Scully lends famous voice for local July 4th message",
+      "url": "/story/news/2022/07/03/vin-scully-ventura-county-independence-day-message-july-4/7793221001/"
+    },
+    {
+      "text": "Fourth of July weekend fanfare kicks off in Simi Valley",
+      "url": "/story/news/2022/07/03/fourth-july-weekend-fanfare-kicks-off-simi-valley-saturday/7774142001/"
+    },
+    {
+      "text": "Eco-tip: Not all lawns will survive under local watering limits",
+      "url": "/story/news/2022/07/03/eco-tip-not-all-lawns-survive-under-local-watering-limits/7793681001/"
+    },
+    {
+      "text": "Roundup: Gun brandished in Fillmore robbery; hiker rescued",
+      "url": "/story/news/2022/07/03/gun-brandished-fillmore-robbery-injured-hiker-rescued-in-santa-paula-ventura-county-news-roundup/7800734001/"
+    },
+    {
+      "text": "'Miracle Girl': Madsen perseveres through harrowing battle with E. coli",
+      "url": "/story/sports/high-school/2022/07/01/simi-valleys-madsen-perseveres-through-three-year-battle-e-coli/7768312001/"
+    },
+    {
+      "text": "",
+      "url": "https://cm.vcstar.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.vcstar.com%2F&marketName=vcstar&cta=Right-Rail"
+    },
+    {
+      "text": "Online Shopping Tools",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=gannettcompany-vcstar&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1c2086df4a7dbc37a66c6a7fa1df58cf.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278717&campaign=19603838&click_id=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMoxv2RxOv64ZKAAQ&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMoxv2RxOv64ZKAAQ#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMoxv2RxOv64ZKAAQ"
+    },
+    {
+      "text": "Amazon Left Scrambling As Shoppers Find Out About Secret DealsOnline Shopping Tools|",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=gannettcompany-vcstar&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1c2086df4a7dbc37a66c6a7fa1df58cf.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278717&campaign=19603838&click_id=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMoxv2RxOv64ZKAAQ&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMoxv2RxOv64ZKAAQ#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMoxv2RxOv64ZKAAQ"
+    },
+    {
+      "text": "",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=gannettcompany-vcstar&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1c2086df4a7dbc37a66c6a7fa1df58cf.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278717&campaign=19603838&click_id=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMoxv2RxOv64ZKAAQ&tblci=GiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMoxv2RxOv64ZKAAQ#tblciGiAWmhHBCv8GuGWREsxto8vSXHCMoBq6kG0DCk8Z0CD1OSD-_lMoxv2RxOv64ZKAAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-vcstar&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "About Us",
+      "url": "https://marketing.usatoday.com/about-us/"
+    },
+    {
+      "text": "Staff Directory",
+      "url": "https://www.vcstar.com/contact/staff/"
+    },
+    {
+      "text": "Careers",
+      "url": "http://www.gannett.com/careers/"
+    },
+    {
+      "text": "Accessibility Support",
+      "url": "https://cm.vcstar.com/accessibility"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Legals",
+      "url": "http://classifieds.vcstar.com/"
+    },
+    {
+      "text": "Our Ethical Principles",
+      "url": "https://cm.vcstar.com/ethical-conduct"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://cm.vcstar.com/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://cm.vcstar.com/privacy"
+    },
+    {
+      "text": "Your California Privacy Rights / Privacy Policy",
+      "url": "https://cm.vcstar.com/privacy-policy/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://help.vcstar.com/contact-us"
+    },
+    {
+      "text": "Support Local Businesses",
+      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=ventura"
+    },
+    {
+      "text": "Advertise Your Business",
+      "url": "https://localiq.com/markets/California/"
+    },
+    {
+      "text": "Advertising Terms and Conditions",
+      "url": "https://cm.vcstar.com/advertising-terms-conditions"
+    },
+    {
+      "text": "Buy and Sell",
+      "url": "/placead/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://help.vcstar.com/"
+    },
+    {
+      "text": "Subscriber Guide",
+      "url": "https://cm.vcstar.com/subscriberguide"
+    },
+    {
+      "text": "My Account",
+      "url": "https://account.vcstar.com/"
+    },
+    {
+      "text": "Give Feedback",
+      "url": "https://cm.vcstar.com/site-feedback/"
+    },
+    {
+      "text": "Licensing & Reprints",
+      "url": "https://imagn.com/licensing-reprints/"
+    },
+    {
+      "text": "Promote Your Event",
+      "url": "https://new.evvnt.com/?with_navbar&partner=VCSTAR&publisher_id=7836&partner_name=Ventura%20County%20Star"
+    },
+    {
+      "text": "Subscribe Today",
+      "url": "https://subscribe.vcstar.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://profile.vcstar.com/newsletters/manage"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.vcstar.com/subscriberguide/apps/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/vcstar"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/vcstar"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.vcstar.com/user/enewspaper"
+    },
+    {
+      "text": "Storytellers",
+      "url": "https://www.storytellersproject.com/"
+    },
+    {
+      "text": "Archives",
+      "url": "https://www.tkqlhce.com/click-100489949-11570746?url=https://vcstar.newspapers.com/?xid=3885"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "http://static.vcstar.com/rss/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.vcstar.com/jobs/"
+    },
+    {
+      "text": "Cars",
+      "url": "https://www.vcstar.com/cars/"
+    },
+    {
+      "text": "Homes",
+      "url": "http://venturacounty.neighborhoodscope.com/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://classifieds.vcstar.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://gannettmediaeducation.gannett.com/"
+    },
+    {
+      "text": "Events",
+      "url": "/things-to-do/events"
+    },
+    {
+      "text": "Reviewed",
+      "url": "https://www.reviewed.com/"
+    },
+    {
+      "text": "USA TODAY Sports+",
+      "url": "https://www.usatodaysportsplus.com/"
+    },
+    {
+      "text": "10Best",
+      "url": "https://www.10best.com/"
+    },
+    {
+      "text": "Reach Local",
+      "url": "http://www.reachlocal.com/us/en"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/ccpa-privacy/"
+    }
+  ],
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

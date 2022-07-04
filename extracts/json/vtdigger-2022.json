@@ -1,5 +1,5 @@
 {
-  "created": 1656936923,
+  "created": 1656974670,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/vtdigger-2022",
@@ -2326,31 +2326,115 @@
       "sha1": "101a13c8576c3b33ee72d7790d755226840ed0d0"
     },
     {
+      "name": "vtdigger-2022-07-04T11:11:33.139821-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656947505",
+      "size": "59391",
+      "md5": "9a9e17ca74071837f955067ebc4ceec3",
+      "crc32": "e8a3580d",
+      "sha1": "06137e51be71508049ea67fe1740733e028695cd",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-07-04T11:11:33.139821-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656947506",
+      "size": "58189",
+      "md5": "37c479dc5e7915a636be906820e5e6a9",
+      "crc32": "73cd7599",
+      "sha1": "c1661899bac7ba398603c6074fb00cb49476a879",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-07-04T11:11:33.139821-04:00.jpg",
+      "source": "original",
+      "mtime": "1656947503",
+      "size": "366272",
+      "md5": "21ab8b24a533d90965a8adc08cacee14",
+      "crc32": "6d9623b3",
+      "sha1": "76004ca24e453f06b010376c7e947a6288149d97",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-07-04T11:11:33.139821-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-07-04T11:11:33.139821-04:00.jpg",
+      "mtime": "1656947564",
+      "size": "9642",
+      "md5": "a68f2848c45db5c2efed0c6f70dd2d98",
+      "crc32": "9817c11d",
+      "sha1": "04771a52651de4aec467872368b8f4b63ee7663d"
+    },
+    {
+      "name": "vtdigger-2022-07-04T17:47:42.000984-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656971265",
+      "size": "59356",
+      "md5": "c7cae3d983035d782440128cca23d985",
+      "crc32": "12f15f66",
+      "sha1": "4c908111e9b232c864a6391ec5dd5f3f70e72db2",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-07-04T17:47:42.000984-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656971267",
+      "size": "58113",
+      "md5": "0a64cfb592a0082df769393fd48b1e48",
+      "crc32": "d89b67f6",
+      "sha1": "67ab922c31703e83f5210e61793bfab4c500c1e1",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-07-04T17:47:42.000984-04:00.jpg",
+      "source": "original",
+      "mtime": "1656971263",
+      "size": "396896",
+      "md5": "19b038b6904428b254bd5b2df94234ed",
+      "crc32": "e25335da",
+      "sha1": "caa042d0b2ada0496a3bd5552d42c1746c28fe1e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-07-04T17:47:42.000984-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-07-04T17:47:42.000984-04:00.jpg",
+      "mtime": "1656971326",
+      "size": "9709",
+      "md5": "a48052a2edb2920f7a4dda0e8d76b404",
+      "crc32": "2bbdcee4",
+      "sha1": "30913811236c7cb403a0fc6d8832b019410a8bb9"
+    },
+    {
       "name": "vtdigger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7fbc1a6f0e1890c83529fc8f47e3d65b47f3f765",
-      "mtime": "1656899000",
-      "size": "48281",
-      "md5": "c6eb57b8812e5d5a7f963dce75edcded",
-      "crc32": "f75c3f02",
-      "sha1": "9cfc0a78a3436234dc47616b56b6329dea5c2619",
+      "btih": "48dde0f30394e8d18ad299ac8dc253abbcfabc65",
+      "mtime": "1656971331",
+      "size": "49979",
+      "md5": "792c98198a04a418c6451db1b6998c4f",
+      "crc32": "2fcb9c87",
+      "sha1": "97fc5e0a44604a18e8067b7691cc5d36001a5dd6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vtdigger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7f90f7b8deed7db9dca86be3dcf4f2e2",
+      "md5": "bcaab564f59dc79b0e383f28c41b611c",
       "summation": "md5"
     },
     {
       "name": "vtdigger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656898956",
-      "size": "274432",
-      "md5": "dddf660e8b00ed6219e83e32971fcc2c",
-      "crc32": "a8502c12",
-      "sha1": "d7ad04626035f7faa76b8cb6752d89fcbf1e1f47",
+      "mtime": "1656971280",
+      "size": "282624",
+      "md5": "5b356fb5c72528096a22e3a588e3e12c",
+      "crc32": "14e60bcb",
+      "sha1": "00a2855b9f4e1e01156eae9ef92ec17bfbba3132",
       "format": "Metadata"
     },
     {
@@ -2364,9 +2448,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 225,
-  "item_last_updated": 1656899000,
-  "item_size": 28102787,
+  "files_count": 233,
+  "item_last_updated": 1656971331,
+  "item_size": 29130245,
   "metadata": {
     "identifier": "vtdigger-2022",
     "collection": [
@@ -2384,7 +2468,7 @@
     "addeddate": "2022-06-19 23:29:49"
   },
   "server": "ia601507.us.archive.org",
-  "uniq": 389606779,
+  "uniq": 1336750677,
   "vtdigger-2022": [
     {
       "text": "VTDigger",
@@ -2476,19 +2560,19 @@
     },
     {
       "text": " ",
-      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
+      "url": "https://vtdigger.org/2022/07/04/hardwick-keeps-two-police-chiefs-on-payroll-as-investigations-drag-on/"
     },
     {
-      "text": "In Chittenden County prosecutor\u2019s race, a progressive view of justice is on the ballot",
-      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
+      "text": "Hardwick keeps two police chiefs on payroll as investigations drag on",
+      "url": "https://vtdigger.org/2022/07/04/hardwick-keeps-two-police-chiefs-on-payroll-as-investigations-drag-on/"
     },
     {
-      "text": "Jack Lyons",
-      "url": "https://vtdigger.org/author/jack-lyons/"
+      "text": "Katherine Fiegenbaum",
+      "url": "https://vtdigger.org/author/katherine-fiegenbaum/"
     },
     {
-      "text": "Jul 3 2022, 10:33 AMJuly 2, 2022",
-      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
+      "text": "Jul 4 2022, 7:12 AMJuly 3, 2022",
+      "url": "https://vtdigger.org/2022/07/04/hardwick-keeps-two-police-chiefs-on-payroll-as-investigations-drag-on/"
     },
     {
       "text": "Chittenden Central Senate candidate Andrew Brown drops out of race",
@@ -2508,6 +2592,38 @@
     },
     {
       "text": " ",
+      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
+    },
+    {
+      "text": "In Chittenden County prosecutor\u2019s race, a progressive view of justice is on the ballot",
+      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
+    },
+    {
+      "text": "Jack Lyons",
+      "url": "https://vtdigger.org/author/jack-lyons/"
+    },
+    {
+      "text": "Jul 3 2022July 2, 2022",
+      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
+    },
+    {
+      "text": "Fatal overdoses have soared since the pandemic began. Narcan distribution has, too",
+      "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
+    },
+    {
+      "text": "Ethan Weinstein",
+      "url": "https://vtdigger.org/author/ethan-weinstein/"
+    },
+    {
+      "text": "Jul 3 2022July 3, 2022",
+      "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
+    },
+    {
+      "text": " ",
       "url": "https://vtdigger.org/2022/07/03/bennington-county-sheriff-casts-shadow-over-three-way-race-for-his-successor/"
     },
     {
@@ -2519,8 +2635,24 @@
       "url": "https://vtdigger.org/author/tiffany-tan/"
     },
     {
-      "text": "Jul 3 2022, 9:22 AMJuly 3, 2022",
+      "text": "Jul 3 2022July 3, 2022",
       "url": "https://vtdigger.org/2022/07/03/bennington-county-sheriff-casts-shadow-over-three-way-race-for-his-successor/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/07/04/bolton-valley-reopens-its-bike-park-after-waiting-for-a-key-part-amid-a-worker-shortage/"
+    },
+    {
+      "text": "Bolton Valley reopens its bike park after waiting for a key part amid a worker shortage",
+      "url": "https://vtdigger.org/2022/07/04/bolton-valley-reopens-its-bike-park-after-waiting-for-a-key-part-amid-a-worker-shortage/"
+    },
+    {
+      "text": "Fred Thys",
+      "url": "https://vtdigger.org/author/fred-thys/"
+    },
+    {
+      "text": "Jul 4 2022, 6:56 AMJuly 1, 2022",
+      "url": "https://vtdigger.org/2022/07/04/bolton-valley-reopens-its-bike-park-after-waiting-for-a-key-part-amid-a-worker-shortage/"
     },
     {
       "text": " ",
@@ -2535,24 +2667,8 @@
       "url": "https://vtdigger.org/author/katherine-fiegenbaum/"
     },
     {
-      "text": "Jul 3 2022, 2:18 PMJuly 3, 2022",
+      "text": "Jul 3 2022July 3, 2022",
       "url": "https://vtdigger.org/2022/07/03/repeated-vandalism-plagues-shores-of-lake-willoughby/"
-    },
-    {
-      "text": " ",
-      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
-    },
-    {
-      "text": "In Chittenden County prosecutor\u2019s race, a progressive view of justice is on the ballot",
-      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
-    },
-    {
-      "text": "Jack Lyons",
-      "url": "https://vtdigger.org/author/jack-lyons/"
-    },
-    {
-      "text": "Jul 3 2022, 10:33 AMJuly 2, 2022",
-      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
     },
     {
       "text": " ",
@@ -2567,40 +2683,40 @@
       "url": "https://vtdigger.org/author/kori-skillman/"
     },
     {
-      "text": "Jul 3 2022, 4:02 PMJuly 3, 2022",
+      "text": "Jul 3 2022July 3, 2022",
       "url": "https://vtdigger.org/2022/07/03/brandon-based-artist-wins-first-ever-annual-vermont-prize/"
     },
     {
-      "text": " ",
-      "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
+      "text": "People & Places",
+      "url": "https://vtdigger.org/category/people-places/"
     },
     {
-      "text": "Fatal overdoses have soared since the pandemic began. Narcan distribution has, too\ufffc",
-      "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
+      "text": "A Life: Dieter Seier \u2018had a really rich internal world\u2019",
+      "url": "https://vtdigger.org/2022/07/04/a-life-dieter-seier-had-a-really-rich-internal-world/"
+    },
+    {
+      "text": "Valley News",
+      "url": "https://vtdigger.org/author/valley-news/"
+    },
+    {
+      "text": "Jul 4 2022, 8:03 AMJuly 1, 2022",
+      "url": "https://vtdigger.org/2022/07/04/a-life-dieter-seier-had-a-really-rich-internal-world/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://vtdigger.org/category/politic/"
+    },
+    {
+      "text": "Killington receives preliminary TIF approval, a move that could revitalize the town\u2019s resort village",
+      "url": "https://vtdigger.org/2022/07/04/killington-receives-preliminary-tif-approval-a-move-that-could-revitalize-the-towns-resort-village/"
     },
     {
       "text": "Ethan Weinstein",
       "url": "https://vtdigger.org/author/ethan-weinstein/"
     },
     {
-      "text": "Jul 3 2022, 8:38 AMJuly 2, 2022",
-      "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
-    },
-    {
-      "text": " ",
-      "url": "https://vtdigger.org/2022/07/01/after-pandemic-pause-vermont-fourth-of-july-festivities-return-with-a-bang/"
-    },
-    {
-      "text": "After pandemic pause, Vermont 4th of July festivities return with a bang",
-      "url": "https://vtdigger.org/2022/07/01/after-pandemic-pause-vermont-fourth-of-july-festivities-return-with-a-bang/"
-    },
-    {
-      "text": "Kevin O'Connor",
-      "url": "https://vtdigger.org/author/kevin-oconnor/"
-    },
-    {
-      "text": "Jul 1 2022July 3, 2022",
-      "url": "https://vtdigger.org/2022/07/01/after-pandemic-pause-vermont-fourth-of-july-festivities-return-with-a-bang/"
+      "text": "Jul 4 2022, 6:17 AMJuly 1, 2022",
+      "url": "https://vtdigger.org/2022/07/04/killington-receives-preliminary-tif-approval-a-move-that-could-revitalize-the-towns-resort-village/"
     },
     {
       "text": "Politics",
@@ -2615,7 +2731,7 @@
       "url": "https://vtdigger.org/author/david-goodman/"
     },
     {
-      "text": "Jul 3 2022, 12:22 PMJuly 3, 2022",
+      "text": "Jul 3 2022July 3, 2022",
       "url": "https://vtdigger.org/2022/07/03/vermont-conversation-the-courageous-doctor-who-helped-legalize-abortion-in-vermont/"
     },
     {
@@ -2631,44 +2747,8 @@
       "url": "https://vtdigger.org/author/mark-bushnell/"
     },
     {
-      "text": "Jul 3 2022, 7:42 AMJune 30, 2022",
+      "text": "Jul 3 2022June 30, 2022",
       "url": "https://vtdigger.org/2022/07/03/then-again-fame-eluded-brandon-man-who-invented-the-electric-motor/"
-    },
-    {
-      "text": "People & Places",
-      "url": "https://vtdigger.org/category/people-places/"
-    },
-    {
-      "text": "YWP: Everything and Nothing",
-      "url": "https://vtdigger.org/2022/07/03/ywp-everything-and-nothing/"
-    },
-    {
-      "text": "VTD Editor",
-      "url": "https://vtdigger.org/author/vtd-editor/"
-    },
-    {
-      "text": "Jul 3 2022, 6:42 AMJune 29, 2022",
-      "url": "https://vtdigger.org/2022/07/03/ywp-everything-and-nothing/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://vtdigger.org/category/politic/"
-    },
-    {
-      "text": "Abortion-rights campaign poised to spend heavily in Vermont election",
-      "url": "https://vtdigger.org/2022/07/02/abortion-rights-campaign-poised-to-spend-heavily-in-vermont-election/"
-    },
-    {
-      "text": "Mike Dougherty",
-      "url": "https://vtdigger.org/author/mikedougherty/"
-    },
-    {
-      "text": "Sarah Mearhoff",
-      "url": "https://vtdigger.org/author/sarah-mearhoff/"
-    },
-    {
-      "text": "Jul 2 2022July 2, 2022",
-      "url": "https://vtdigger.org/2022/07/02/abortion-rights-campaign-poised-to-spend-heavily-in-vermont-election/"
     },
     {
       "text": "Related Story",
@@ -2779,6 +2859,10 @@
       "url": "/letters_to_editor/"
     },
     {
+      "text": "State Police investigate fatal Barton crash",
+      "url": "https://vtdigger.org/news-brief/state-police-investigate-fatal-barton-crash/"
+    },
+    {
       "text": "Burlington Police arrest one after gunshots on North Avenue",
       "url": "https://vtdigger.org/news-brief/burlington-police-arrest-one-after-gunshots-on-north-avenue/"
     },
@@ -2795,16 +2879,76 @@
       "url": "https://vtdigger.org/news-brief/bolton-man-faces-charges-in-stabbing-that-was-first-reported-as-a-case-of-road-rage/"
     },
     {
-      "text": "Springfield man arrested on federal gun charge",
-      "url": "https://vtdigger.org/news-brief/springfield-man-arrested-on-federal-gun-charge/"
-    },
-    {
       "text": "Read all briefs",
       "url": "/news-brief/"
     },
     {
       "text": "Shop now",
       "url": "https://shop.vtdigger.org/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/07/04/a-life-dieter-seier-had-a-really-rich-internal-world/"
+    },
+    {
+      "text": "A Life: Dieter Seier \u2018had a really rich internal world\u2019",
+      "url": "https://vtdigger.org/2022/07/04/a-life-dieter-seier-had-a-really-rich-internal-world/"
+    },
+    {
+      "text": "Valley News",
+      "url": "https://vtdigger.org/author/valley-news/"
+    },
+    {
+      "text": "Jul 4 2022, 8:03 AMJuly 1, 2022",
+      "url": "https://vtdigger.org/2022/07/04/a-life-dieter-seier-had-a-really-rich-internal-world/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/07/04/hardwick-keeps-two-police-chiefs-on-payroll-as-investigations-drag-on/"
+    },
+    {
+      "text": "Hardwick keeps two police chiefs on payroll as investigations drag on",
+      "url": "https://vtdigger.org/2022/07/04/hardwick-keeps-two-police-chiefs-on-payroll-as-investigations-drag-on/"
+    },
+    {
+      "text": "Katherine Fiegenbaum",
+      "url": "https://vtdigger.org/author/katherine-fiegenbaum/"
+    },
+    {
+      "text": "Jul 4 2022, 7:12 AMJuly 3, 2022",
+      "url": "https://vtdigger.org/2022/07/04/hardwick-keeps-two-police-chiefs-on-payroll-as-investigations-drag-on/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/07/04/bolton-valley-reopens-its-bike-park-after-waiting-for-a-key-part-amid-a-worker-shortage/"
+    },
+    {
+      "text": "Bolton Valley reopens its bike park after waiting for a key part amid a worker shortage",
+      "url": "https://vtdigger.org/2022/07/04/bolton-valley-reopens-its-bike-park-after-waiting-for-a-key-part-amid-a-worker-shortage/"
+    },
+    {
+      "text": "Fred Thys",
+      "url": "https://vtdigger.org/author/fred-thys/"
+    },
+    {
+      "text": "Jul 4 2022, 6:56 AMJuly 1, 2022",
+      "url": "https://vtdigger.org/2022/07/04/bolton-valley-reopens-its-bike-park-after-waiting-for-a-key-part-amid-a-worker-shortage/"
+    },
+    {
+      "text": " ",
+      "url": "https://vtdigger.org/2022/07/04/killington-receives-preliminary-tif-approval-a-move-that-could-revitalize-the-towns-resort-village/"
+    },
+    {
+      "text": "Killington receives preliminary TIF approval, a move that could revitalize the town\u2019s resort village",
+      "url": "https://vtdigger.org/2022/07/04/killington-receives-preliminary-tif-approval-a-move-that-could-revitalize-the-towns-resort-village/"
+    },
+    {
+      "text": "Ethan Weinstein",
+      "url": "https://vtdigger.org/author/ethan-weinstein/"
+    },
+    {
+      "text": "Jul 4 2022, 6:17 AMJuly 1, 2022",
+      "url": "https://vtdigger.org/2022/07/04/killington-receives-preliminary-tif-approval-a-move-that-could-revitalize-the-towns-resort-village/"
     },
     {
       "text": " ",
@@ -2819,7 +2963,7 @@
       "url": "https://vtdigger.org/author/kori-skillman/"
     },
     {
-      "text": "Jul 3 2022, 4:02 PMJuly 3, 2022",
+      "text": "Jul 3 2022July 3, 2022",
       "url": "https://vtdigger.org/2022/07/03/brandon-based-artist-wins-first-ever-annual-vermont-prize/"
     },
     {
@@ -2835,7 +2979,7 @@
       "url": "https://vtdigger.org/author/katherine-fiegenbaum/"
     },
     {
-      "text": "Jul 3 2022, 2:18 PMJuly 3, 2022",
+      "text": "Jul 3 2022July 3, 2022",
       "url": "https://vtdigger.org/2022/07/03/repeated-vandalism-plagues-shores-of-lake-willoughby/"
     },
     {
@@ -2851,7 +2995,7 @@
       "url": "https://vtdigger.org/author/david-goodman/"
     },
     {
-      "text": "Jul 3 2022, 12:22 PMJuly 3, 2022",
+      "text": "Jul 3 2022July 3, 2022",
       "url": "https://vtdigger.org/2022/07/03/vermont-conversation-the-courageous-doctor-who-helped-legalize-abortion-in-vermont/"
     },
     {
@@ -2867,7 +3011,7 @@
       "url": "https://vtdigger.org/author/jack-lyons/"
     },
     {
-      "text": "Jul 3 2022, 10:33 AMJuly 2, 2022",
+      "text": "Jul 3 2022July 2, 2022",
       "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
     },
     {
@@ -2883,7 +3027,7 @@
       "url": "https://vtdigger.org/author/tiffany-tan/"
     },
     {
-      "text": "Jul 3 2022, 9:22 AMJuly 3, 2022",
+      "text": "Jul 3 2022July 3, 2022",
       "url": "https://vtdigger.org/2022/07/03/bennington-county-sheriff-casts-shadow-over-three-way-race-for-his-successor/"
     },
     {
@@ -2891,7 +3035,7 @@
       "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
     },
     {
-      "text": "Fatal overdoses have soared since the pandemic began. Narcan distribution has, too\ufffc",
+      "text": "Fatal overdoses have soared since the pandemic began. Narcan distribution has, too",
       "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
     },
     {
@@ -2899,76 +3043,8 @@
       "url": "https://vtdigger.org/author/ethan-weinstein/"
     },
     {
-      "text": "Jul 3 2022, 8:38 AMJuly 2, 2022",
+      "text": "Jul 3 2022July 3, 2022",
       "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
-    },
-    {
-      "text": " ",
-      "url": "https://vtdigger.org/2022/07/03/then-again-fame-eluded-brandon-man-who-invented-the-electric-motor/"
-    },
-    {
-      "text": "Then Again: Fame eluded Brandon man who invented the electric motor",
-      "url": "https://vtdigger.org/2022/07/03/then-again-fame-eluded-brandon-man-who-invented-the-electric-motor/"
-    },
-    {
-      "text": "Mark Bushnell",
-      "url": "https://vtdigger.org/author/mark-bushnell/"
-    },
-    {
-      "text": "Jul 3 2022, 7:42 AMJune 30, 2022",
-      "url": "https://vtdigger.org/2022/07/03/then-again-fame-eluded-brandon-man-who-invented-the-electric-motor/"
-    },
-    {
-      "text": " ",
-      "url": "https://vtdigger.org/2022/07/03/ywp-everything-and-nothing/"
-    },
-    {
-      "text": "YWP: Everything and Nothing",
-      "url": "https://vtdigger.org/2022/07/03/ywp-everything-and-nothing/"
-    },
-    {
-      "text": "VTD Editor",
-      "url": "https://vtdigger.org/author/vtd-editor/"
-    },
-    {
-      "text": "Jul 3 2022, 6:42 AMJune 29, 2022",
-      "url": "https://vtdigger.org/2022/07/03/ywp-everything-and-nothing/"
-    },
-    {
-      "text": " ",
-      "url": "https://vtdigger.org/2022/07/02/abortion-rights-campaign-poised-to-spend-heavily-in-vermont-election/"
-    },
-    {
-      "text": "Abortion-rights campaign poised to spend heavily in Vermont election",
-      "url": "https://vtdigger.org/2022/07/02/abortion-rights-campaign-poised-to-spend-heavily-in-vermont-election/"
-    },
-    {
-      "text": "Mike Dougherty",
-      "url": "https://vtdigger.org/author/mikedougherty/"
-    },
-    {
-      "text": "Sarah Mearhoff",
-      "url": "https://vtdigger.org/author/sarah-mearhoff/"
-    },
-    {
-      "text": "Jul 2 2022July 2, 2022",
-      "url": "https://vtdigger.org/2022/07/02/abortion-rights-campaign-poised-to-spend-heavily-in-vermont-election/"
-    },
-    {
-      "text": " ",
-      "url": "https://vtdigger.org/2022/07/01/essex-junction-celebrates-becoming-an-independent-city/"
-    },
-    {
-      "text": "Essex Junction celebrates becoming an independent city",
-      "url": "https://vtdigger.org/2022/07/01/essex-junction-celebrates-becoming-an-independent-city/"
-    },
-    {
-      "text": "Shaun Robinson",
-      "url": "https://vtdigger.org/author/shaun-robinson/"
-    },
-    {
-      "text": "Jul 1 2022July 2, 2022",
-      "url": "https://vtdigger.org/2022/07/01/essex-junction-celebrates-becoming-an-independent-city/"
     },
     {
       "text": "[\u00a0More Cartoons\u00a0]",
@@ -3048,6 +3124,50 @@
     },
     {
       "text": "",
+      "url": "https://vtdigger.org/2022/07/03/ywp-everything-and-nothing/"
+    },
+    {
+      "text": "YWP: Everything and Nothing",
+      "url": "https://vtdigger.org/2022/07/03/ywp-everything-and-nothing/"
+    },
+    {
+      "text": "VTD Editor",
+      "url": "https://vtdigger.org/author/vtd-editor/"
+    },
+    {
+      "text": "Jul 3 2022June 29, 2022",
+      "url": "https://vtdigger.org/2022/07/03/ywp-everything-and-nothing/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://vtdigger.org/category/politic/"
+    },
+    {
+      "text": "",
+      "url": "https://vtdigger.org/2022/07/02/abortion-rights-campaign-poised-to-spend-heavily-in-vermont-election/"
+    },
+    {
+      "text": "Abortion-rights campaign poised to spend heavily in Vermont election",
+      "url": "https://vtdigger.org/2022/07/02/abortion-rights-campaign-poised-to-spend-heavily-in-vermont-election/"
+    },
+    {
+      "text": "Mike Dougherty",
+      "url": "https://vtdigger.org/author/mikedougherty/"
+    },
+    {
+      "text": "Sarah Mearhoff",
+      "url": "https://vtdigger.org/author/sarah-mearhoff/"
+    },
+    {
+      "text": "Jul 2 2022July 2, 2022",
+      "url": "https://vtdigger.org/2022/07/02/abortion-rights-campaign-poised-to-spend-heavily-in-vermont-election/"
+    },
+    {
+      "text": "People & Places",
+      "url": "https://vtdigger.org/category/people-places/"
+    },
+    {
+      "text": "",
       "url": "https://vtdigger.org/2022/07/01/essex-junction-celebrates-becoming-an-independent-city/"
     },
     {
@@ -3063,14 +3183,6 @@
       "url": "https://vtdigger.org/2022/07/01/essex-junction-celebrates-becoming-an-independent-city/"
     },
     {
-      "text": "Crime and Justice",
-      "url": "https://vtdigger.org/category/courts-corrections/"
-    },
-    {
-      "text": "",
-      "url": "https://vtdigger.org/2022/07/01/vermont-supreme-court-sides-with-onecare-in-blocking-state-auditor-from-reviewing-financial-records/"
-    },
-    {
       "text": "Vermont Supreme Court sides with OneCare in blocking state auditor from reviewing financial records",
       "url": "https://vtdigger.org/2022/07/01/vermont-supreme-court-sides-with-onecare-in-blocking-state-auditor-from-reviewing-financial-records/"
     },
@@ -3081,14 +3193,6 @@
     {
       "text": "Jul 1 2022July 1, 2022",
       "url": "https://vtdigger.org/2022/07/01/vermont-supreme-court-sides-with-onecare-in-blocking-state-auditor-from-reviewing-financial-records/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://vtdigger.org/category/politic/"
-    },
-    {
-      "text": "",
-      "url": "https://vtdigger.org/2022/07/01/state-shifts-hotel-housing-program-to-longer-term-more-stable-transitional-housing/"
     },
     {
       "text": "State shifts hotel housing program to longer-term, more stable transitional housing",
@@ -3153,30 +3257,6 @@
     {
       "text": "Jul 1 2022July 1, 2022",
       "url": "https://vtdigger.org/2022/07/01/feds-extend-vermonts-medicaid-waiver-program-to-help-underinsured-residents-and-boost-medicaid-reimbursements/"
-    },
-    {
-      "text": "Woodstock names interim town manager",
-      "url": "https://vtdigger.org/2022/06/30/woodstock-names-interim-town-manager/"
-    },
-    {
-      "text": "Valley News",
-      "url": "https://vtdigger.org/author/valley-news/"
-    },
-    {
-      "text": "Jun 30 2022June 30, 2022",
-      "url": "https://vtdigger.org/2022/06/30/woodstock-names-interim-town-manager/"
-    },
-    {
-      "text": "State charges Walgreens with causing unsafe conditions for patients and staff",
-      "url": "https://vtdigger.org/2022/06/30/state-charges-walgreens-with-causing-unsafe-conditions-for-patients-and-staff/"
-    },
-    {
-      "text": "Katherine Fiegenbaum",
-      "url": "https://vtdigger.org/author/katherine-fiegenbaum/"
-    },
-    {
-      "text": "Jun 30 2022June 30, 2022",
-      "url": "https://vtdigger.org/2022/06/30/state-charges-walgreens-with-causing-unsafe-conditions-for-patients-and-staff/"
     },
     {
       "text": "Crime and Justice",
@@ -3259,24 +3339,24 @@
       "url": "https://vtdigger.org/2022/06/27/vermont-may-enshrine-abortion-access-in-its-constitution-but-what-if-congress-bans-it/"
     },
     {
-      "text": "State charges Walgreens with causing unsafe conditions for patients and staff",
-      "url": "https://vtdigger.org/2022/06/30/state-charges-walgreens-with-causing-unsafe-conditions-for-patients-and-staff/"
-    },
-    {
       "text": "After pandemic pause, Vermont 4th of July festivities return with a bang",
       "url": "https://vtdigger.org/2022/07/01/after-pandemic-pause-vermont-fourth-of-july-festivities-return-with-a-bang/"
     },
     {
-      "text": "Vermont Supreme Court sides with OneCare in blocking state auditor from reviewing financial records",
-      "url": "https://vtdigger.org/2022/07/01/vermont-supreme-court-sides-with-onecare-in-blocking-state-auditor-from-reviewing-financial-records/"
+      "text": "State charges Walgreens with causing unsafe conditions for patients and staff",
+      "url": "https://vtdigger.org/2022/06/30/state-charges-walgreens-with-causing-unsafe-conditions-for-patients-and-staff/"
     },
     {
-      "text": "The Deeper Dig: Why Vermont\u2019s 150-year-old school tuition system might have to change",
-      "url": "https://vtdigger.org/2022/07/01/the-deeper-dig-why-vermonts-150-year-old-school-tuition-system-might-have-to-change/"
+      "text": "Repeated vandalism plagues shores of Lake Willoughby",
+      "url": "https://vtdigger.org/2022/07/03/repeated-vandalism-plagues-shores-of-lake-willoughby/"
     },
     {
-      "text": "State shifts hotel housing program to longer-term, more stable transitional housing",
-      "url": "https://vtdigger.org/2022/07/01/state-shifts-hotel-housing-program-to-longer-term-more-stable-transitional-housing/"
+      "text": "In Chittenden County prosecutor\u2019s race, a progressive view of justice is on the ballot",
+      "url": "https://vtdigger.org/2022/07/03/in-chittenden-county-prosecutors-race-a-progressive-view-of-justice-is-on-the-ballot/"
+    },
+    {
+      "text": "Bennington County sheriff casts shadow over three-way race for his successor",
+      "url": "https://vtdigger.org/2022/07/03/bennington-county-sheriff-casts-shadow-over-three-way-race-for-his-successor/"
     },
     {
       "text": "Press Releases",
@@ -3336,7 +3416,11 @@
     },
     {
       "text": "",
-      "url": "https://vtdigger.org/2022/06/29/unilever-sells-ben-jerrys-business-in-israel/"
+      "url": "https://vtdigger.org/2022/07/04/bolton-valley-reopens-its-bike-park-after-waiting-for-a-key-part-amid-a-worker-shortage/"
+    },
+    {
+      "text": "Bolton Valley reopens its bike park after waiting for a key part amid a worker shortage",
+      "url": "https://vtdigger.org/2022/07/04/bolton-valley-reopens-its-bike-park-after-waiting-for-a-key-part-amid-a-worker-shortage/"
     },
     {
       "text": "Unilever sells Ben & Jerry\u2019s business in Israel",
@@ -3355,16 +3439,16 @@
       "url": "https://vtdigger.org/2022/06/26/four-questions-about-short-term-rentals-in-burlington-answered/"
     },
     {
-      "text": "A new program aims to help BIPOC homebuyers with down payments",
-      "url": "https://vtdigger.org/2022/06/26/a-new-program-aims-to-help-bipoc-homebuyers-with-down-payments/"
-    },
-    {
       "text": "Crime and Justice",
       "url": "https://vtdigger.org/category/courts-corrections/"
     },
     {
       "text": "",
-      "url": "https://vtdigger.org/2022/07/01/vermont-supreme-court-sides-with-onecare-in-blocking-state-auditor-from-reviewing-financial-records/"
+      "url": "https://vtdigger.org/2022/07/04/hardwick-keeps-two-police-chiefs-on-payroll-as-investigations-drag-on/"
+    },
+    {
+      "text": "Hardwick keeps two police chiefs on payroll as investigations drag on",
+      "url": "https://vtdigger.org/2022/07/04/hardwick-keeps-two-police-chiefs-on-payroll-as-investigations-drag-on/"
     },
     {
       "text": "Vermont Supreme Court sides with OneCare in blocking state auditor from reviewing financial records",
@@ -3381,10 +3465,6 @@
     {
       "text": "State\u2019s own expert deals blow to Vermont Attorney General\u2019s refiled murder case",
       "url": "https://vtdigger.org/2022/06/30/states-own-expert-deals-blow-to-vermont-attorney-generals-refiled-murder-case/"
-    },
-    {
-      "text": "Winooski man accused of racist road rage charged with federal hate crime",
-      "url": "https://vtdigger.org/2022/06/30/winooski-man-accused-of-racist-road-rage-charged-with-federal-hate-crime/"
     },
     {
       "text": "Education",
@@ -3451,7 +3531,7 @@
       "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
     },
     {
-      "text": "Fatal overdoses have soared since the pandemic began. Narcan distribution has, too\ufffc",
+      "text": "Fatal overdoses have soared since the pandemic began. Narcan distribution has, too",
       "url": "https://vtdigger.org/2022/07/03/fatal-overdoses-have-soared-since-the-pandemic-began-narcan-distribution-has-too/"
     },
     {
@@ -3476,7 +3556,11 @@
     },
     {
       "text": "",
-      "url": "https://vtdigger.org/2022/07/03/brandon-based-artist-wins-first-ever-annual-vermont-prize/"
+      "url": "https://vtdigger.org/2022/07/04/a-life-dieter-seier-had-a-really-rich-internal-world/"
+    },
+    {
+      "text": "A Life: Dieter Seier \u2018had a really rich internal world\u2019",
+      "url": "https://vtdigger.org/2022/07/04/a-life-dieter-seier-had-a-really-rich-internal-world/"
     },
     {
       "text": "Brandon-based artist wins first-ever annual Vermont Prize",
@@ -3495,16 +3579,16 @@
       "url": "https://vtdigger.org/2022/07/01/essex-junction-celebrates-becoming-an-independent-city/"
     },
     {
-      "text": "After pandemic pause, Vermont 4th of July festivities return with a bang",
-      "url": "https://vtdigger.org/2022/07/01/after-pandemic-pause-vermont-fourth-of-july-festivities-return-with-a-bang/"
-    },
-    {
       "text": "Politics",
       "url": "https://vtdigger.org/category/politic/"
     },
     {
       "text": "",
-      "url": "https://vtdigger.org/2022/07/03/vermont-conversation-the-courageous-doctor-who-helped-legalize-abortion-in-vermont/"
+      "url": "https://vtdigger.org/2022/07/04/killington-receives-preliminary-tif-approval-a-move-that-could-revitalize-the-towns-resort-village/"
+    },
+    {
+      "text": "Killington receives preliminary TIF approval, a move that could revitalize the town\u2019s resort village",
+      "url": "https://vtdigger.org/2022/07/04/killington-receives-preliminary-tif-approval-a-move-that-could-revitalize-the-towns-resort-village/"
     },
     {
       "text": "Vermont Conversation: The \u201ccourageous doctor\u201d who helped legalize abortion in Vermont",
@@ -3521,10 +3605,6 @@
     {
       "text": "Abortion-rights campaign poised to spend heavily in Vermont election",
       "url": "https://vtdigger.org/2022/07/02/abortion-rights-campaign-poised-to-spend-heavily-in-vermont-election/"
-    },
-    {
-      "text": "State shifts hotel housing program to longer-term, more stable transitional housing",
-      "url": "https://vtdigger.org/2022/07/01/state-shifts-hotel-housing-program-to-longer-term-more-stable-transitional-housing/"
     },
     {
       "text": "Commentary",
@@ -3559,22 +3639,6 @@
       "url": "https://vtdigger.org/2022/06/29/alex-hiam-supreme-court-is-cherry-picking-the-scenarios-it-prefers/"
     },
     {
-      "text": "George Longenecker: Our teachers are not demons in the classroom",
-      "url": "https://vtdigger.org/2022/06/29/george-longenecker-our-teachers-are-not-demons-in-the-classroom/"
-    },
-    {
-      "text": "John McClaughry: Decision in Maine case points toward universal school choice",
-      "url": "https://vtdigger.org/2022/06/29/john-mcclaughry-decision-in-maine-case-points-toward-universal-school-choice/"
-    },
-    {
-      "text": "Janet McLaughlin: All children deserve a chance to experience the magic of play",
-      "url": "https://vtdigger.org/2022/06/28/janet-mclaughlin-all-children-deserve-a-chance-to-experience-the-magic-of-play/"
-    },
-    {
-      "text": "Nick Santoro: How to stop a mass shooting epidemic",
-      "url": "https://vtdigger.org/2022/06/28/nick-santoro-how-to-stop-a-mass-shooting-epidemic/"
-    },
-    {
       "text": "\n\nHome\n",
       "url": "/"
     },
@@ -3584,7 +3648,7 @@
     },
     {
       "text": "\n\nShare\n",
-      "url": "mailto:?subject=Sharing%20a%20page%20from%20VTDigger&body=https://vtdigger.org/2022/07/03/brandon-based-artist-wins-first-ever-annual-vermont-prize/"
+      "url": "mailto:?subject=Sharing%20a%20page%20from%20VTDigger&body=https://vtdigger.org/2022/07/04/a-life-dieter-seier-had-a-really-rich-internal-world/"
     },
     {
       "text": "Our Story",
