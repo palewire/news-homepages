@@ -6,6 +6,7 @@ on:
       bundle:
         description: "The slug of the bundle to archive"
         required: true
+        type: string
 
 jobs:
   sources:
