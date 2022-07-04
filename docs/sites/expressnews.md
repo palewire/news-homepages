@@ -17,7 +17,8 @@ orphan: true
 | Location       | San Antonio                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[expressnews-2022](https://archive.org/details/expressnews-2022)|

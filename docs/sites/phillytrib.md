@@ -17,7 +17,7 @@ orphan: true
 | Location       | Philadelphia                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 2 screenshots stored at the Internet Archive.
+The archiving routine has captured 5 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

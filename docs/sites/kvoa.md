@@ -17,7 +17,8 @@ orphan: true
 | Location       | Tucson                                                                 |
 | Timezone       | America/Phoenix                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[kvoa-2022](https://archive.org/details/kvoa-2022)|
