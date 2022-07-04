@@ -1,5 +1,5 @@
 {
-  "created": 1656807996,
+  "created": 1656936686,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -1798,31 +1798,241 @@
       "sha1": "1e304f2b80f586257668838a8117ba17518c76ab"
     },
     {
+      "name": "newshour-2022-07-02T21:33:04.056378-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656811987",
+      "size": "33715",
+      "md5": "7a1a499ee784876e66deca40aa7a18c6",
+      "crc32": "8fe39291",
+      "sha1": "7ee025e488b13645a3c84784c9849f274af90cd9",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-02T21:33:04.056378-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656811988",
+      "size": "39327",
+      "md5": "c11b1d09d2a500c37cd8c0606f131d0b",
+      "crc32": "5b8795bf",
+      "sha1": "534a2d6e97dd91d37b5001fbc7763ae731364d7c",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-02T21:33:04.056378-04:00.jpg",
+      "source": "original",
+      "mtime": "1656811985",
+      "size": "320358",
+      "md5": "75ccf7283adeafc6734848c4416882af",
+      "crc32": "71bd77a1",
+      "sha1": "ecf809e359587f1b5445f7ecd91b60769e08f129",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-07-02T21:33:04.056378-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-07-02T21:33:04.056378-04:00.jpg",
+      "mtime": "1656812038",
+      "size": "10835",
+      "md5": "88abf6dd7b705eddb81f59ad9d8fd518",
+      "crc32": "b67e3358",
+      "sha1": "7cbdb799cf7234eb7c76ee033f3a0106d2664e9a"
+    },
+    {
+      "name": "newshour-2022-07-03T09:12:13.177369-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853937",
+      "size": "33833",
+      "md5": "9ac1e09066eb2e26f083ad80f1e79c50",
+      "crc32": "1b90143d",
+      "sha1": "24f91c4a299d1e50f47be113607705f721e53019",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-03T09:12:13.177369-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853938",
+      "size": "39289",
+      "md5": "153ecdef5255f6a6b198d463948ab161",
+      "crc32": "301a1278",
+      "sha1": "214b35c949937d363e9d59fe2315042d83b64f3f",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-03T09:12:13.177369-04:00.jpg",
+      "source": "original",
+      "mtime": "1656853935",
+      "size": "320358",
+      "md5": "75ccf7283adeafc6734848c4416882af",
+      "crc32": "71bd77a1",
+      "sha1": "ecf809e359587f1b5445f7ecd91b60769e08f129",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-07-03T09:12:13.177369-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-07-03T09:12:13.177369-04:00.jpg",
+      "mtime": "1656853997",
+      "size": "10835",
+      "md5": "88abf6dd7b705eddb81f59ad9d8fd518",
+      "crc32": "b67e3358",
+      "sha1": "7cbdb799cf7234eb7c76ee033f3a0106d2664e9a"
+    },
+    {
+      "name": "newshour-2022-07-03T10:06:44.013944-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656857206",
+      "size": "33796",
+      "md5": "7927a1b856494f18c4ece693d8f80200",
+      "crc32": "826f7f13",
+      "sha1": "b2d64d2a5e6fc5dde4969bc5aa3d400207c01765",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-03T10:06:44.013944-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656857208",
+      "size": "39027",
+      "md5": "946738bb6d7c218df1ea4718cc531955",
+      "crc32": "5473c08c",
+      "sha1": "24dd0db67aeb6346fb142fd0c1b487a39790e5b7",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-03T10:06:44.013944-04:00.jpg",
+      "source": "original",
+      "mtime": "1656857205",
+      "size": "320358",
+      "md5": "75ccf7283adeafc6734848c4416882af",
+      "crc32": "71bd77a1",
+      "sha1": "ecf809e359587f1b5445f7ecd91b60769e08f129",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-07-03T10:06:44.013944-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-07-03T10:06:44.013944-04:00.jpg",
+      "mtime": "1656857273",
+      "size": "10835",
+      "md5": "88abf6dd7b705eddb81f59ad9d8fd518",
+      "crc32": "b67e3358",
+      "sha1": "7cbdb799cf7234eb7c76ee033f3a0106d2664e9a"
+    },
+    {
+      "name": "newshour-2022-07-03T17:06:55.502128-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656882420",
+      "size": "33463",
+      "md5": "ee58205c6fa0ee1a5b70e90118a510e6",
+      "crc32": "3b9073f5",
+      "sha1": "cf052f2f7b89876a0970c2b1bfa0cc894c0fd477",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-03T17:06:55.502128-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656882421",
+      "size": "38034",
+      "md5": "78fa4e7a3e7fd86ed6aadf6f2d505a16",
+      "crc32": "9d5629b6",
+      "sha1": "a3ba886070c2bb1217555be11004755e8247e829",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-03T17:06:55.502128-04:00.jpg",
+      "source": "original",
+      "mtime": "1656882418",
+      "size": "333696",
+      "md5": "453d10aebb4bec886c5b15c8cb804807",
+      "crc32": "5b119f9a",
+      "sha1": "2f74ece1480b72f45c145bb15da51e1068002368",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-07-03T17:06:55.502128-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-07-03T17:06:55.502128-04:00.jpg",
+      "mtime": "1656882469",
+      "size": "10720",
+      "md5": "f25eb2d2a5153945141f5adf8d00fdf2",
+      "crc32": "2edd000e",
+      "sha1": "4bc8e2867d57843961121b1f6e076e01a1d44dbd"
+    },
+    {
+      "name": "newshour-2022-07-03T21:32:40.140047-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898363",
+      "size": "34092",
+      "md5": "8fa1122e339a659f5e3366ef74abeb55",
+      "crc32": "8cbcc858",
+      "sha1": "9b1613bca3d56e60a83994ada7b75716e1af46b7",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-03T21:32:40.140047-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898364",
+      "size": "38792",
+      "md5": "0013c3f6a4eb63fdf1052c041e5b26ec",
+      "crc32": "93abf327",
+      "sha1": "ef6b0fc71f16c0f3bd599b318a23c19224c11d4e",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-03T21:32:40.140047-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898361",
+      "size": "301950",
+      "md5": "66ecff76e0a77dc1d63d019d8919ab13",
+      "crc32": "7908b6bf",
+      "sha1": "97d743065c83b3d49ed0888de6bf50bb34743623",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-07-03T21:32:40.140047-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-07-03T21:32:40.140047-04:00.jpg",
+      "mtime": "1656898412",
+      "size": "10754",
+      "md5": "9e82411bc723258cdc23c38ae3a75cf3",
+      "crc32": "8a39fb54",
+      "sha1": "ae31bbe3530c4b8313cbe1bc40d8e100feda8adb"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b0070912caeba7b11a4f896bd580faa9e540adf",
-      "mtime": "1656796238",
-      "size": "37525",
-      "md5": "1bb91ac85c2bd9dc88ae275c60291de6",
-      "crc32": "bcf6e9f5",
-      "sha1": "5801d04eaa62bb431ddb2ffb9cc0ed90f7ab7435",
+      "btih": "821f797ae6ce4d5b28595a959a0a09ff0fe713c6",
+      "mtime": "1656898418",
+      "size": "41755",
+      "md5": "bee657ba72ae2d8d9456ae3b4698decd",
+      "crc32": "8eacb251",
+      "sha1": "e72a5bb5142ff918972dab85e25bec9b5afba12d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f2a95118454da52f9deda59c0be737b",
+      "md5": "cf424e15651fdd73737d4b17d16bb195",
       "summation": "md5"
     },
     {
       "name": "newshour-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656796183",
-      "size": "217088",
-      "md5": "95fd5f429ad4941590bfe951f90fbc54",
-      "crc32": "de29c165",
-      "sha1": "ab7c31d0ed716c54b7b354ce34603c7177586eab",
+      "mtime": "1656898367",
+      "size": "241664",
+      "md5": "9f9342a38bf2bbca2c40ceef8d0d32da",
+      "crc32": "92176f48",
+      "sha1": "e820405dc726baf21e8f52b5021ac3890b65fcf2",
       "format": "Metadata"
     },
     {
@@ -1836,9 +2046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1656796238,
-  "item_size": 16273364,
+  "files_count": 195,
+  "item_last_updated": 1656898418,
+  "item_size": 18316237,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -1862,7 +2072,7 @@
     },
     {
       "text": "",
-      "url": "http://www.kqed.org"
+      "url": "http://www.klrn.org"
     },
     {
       "text": "Shows",
@@ -1882,19 +2092,19 @@
     },
     {
       "text": "Donate",
-      "url": "https://donate.kqed.org/secure/kqedpbs"
+      "url": "https://www.klrn.org/donate/"
     },
     {
       "text": "",
-      "url": "http://www.kqed.org"
+      "url": "http://www.klrn.org"
     },
     {
       "text": "\n            \n                \n                    \n                \n                Full Episode\n            \n            \n                                                                            \n                    ",
-      "url": "https://www.pbs.org/newshour/show/july-1-2022-pbs-newshour-full-episode"
+      "url": "https://www.pbs.org/newshour/show/july-3-2022-pbs-news-weekend-full-episode"
     },
     {
-      "text": "Friday, Jul 1",
-      "url": "https://www.pbs.org/newshour/show/july-1-2022-pbs-newshour-full-episode"
+      "text": "Sunday, Jul 3",
+      "url": "https://www.pbs.org/newshour/show/july-3-2022-pbs-news-weekend-full-episode"
     },
     {
       "text": "\n                        \n                        PBS NewsHour\n                    ",
@@ -2085,79 +2295,119 @@
       "url": "https://www.pbs.org/newshour/live"
     },
     {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 13:23\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-supreme-courts-history-making-term-jan-6-revelations"
+      "text": "\n                \n                                    \n                            ",
+      "url": "https://www.pbs.org/newshour/show/how-americans-view-their-country-and-identify"
     },
     {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
+      "text": "\n                    \n                        \n                    \n                    Watch\n                ",
+      "url": "https://www.pbs.org/newshour/show/how-americans-view-their-country-and-identify"
     },
     {
-      "text": "Brooks and Marcus on the Supreme Court\u2019s history-making term, Jan. 6 revelations",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-supreme-courts-history-making-term-jan-6-revelations"
+      "text": "\n                    Listen\n                    \n                ",
+      "url": "https://www.pbs.org/newshour/show/how-americans-view-their-country-and-identify#audio"
     },
     {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 7:38\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/state-abortion-bans-face-legal-challenges-after-supreme-court-ruling-on-roe-v-wade"
+      "text": "\n                    Read\n                    \n                ",
+      "url": "https://www.pbs.org/newshour/show/how-americans-view-their-country-and-identify#transcript"
     },
     {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
+      "text": "How Americans view their country and identify",
+      "url": "https://www.pbs.org/newshour/show/how-americans-view-their-country-and-identify"
     },
     {
-      "text": "State abortion bans face legal challenges after Supreme Court ruling on Roe v. Wade",
-      "url": "https://www.pbs.org/newshour/show/state-abortion-bans-face-legal-challenges-after-supreme-court-ruling-on-roe-v-wade"
-    },
-    {
-      "text": "\n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/politics/kansas-will-be-the-first-state-to-vote-on-abortion-rights-after-roe-ruling-heres-what-that-means"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
-    },
-    {
-      "text": "Kansas will be the first state to vote on abortion rights after Roe ruling. Here\u2019s what that means",
-      "url": "https://www.pbs.org/newshour/politics/kansas-will-be-the-first-state-to-vote-on-abortion-rights-after-roe-ruling-heres-what-that-means"
-    },
-    {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 6:07\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/chinas-president-visits-hong-kong-25-years-after-the-end-of-british-rule"
+      "text": "\n                        \n                \n                    \n                \n                                Watch 1:55\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/russia-claims-control-of-pivotal-eastern-ukraine-city-of-lysychansk"
     },
     {
       "text": "World",
       "url": "https://www.pbs.org/newshour/world"
     },
     {
-      "text": "China\u2019s president visits Hong Kong 25 years after the end of British rule",
-      "url": "https://www.pbs.org/newshour/show/chinas-president-visits-hong-kong-25-years-after-the-end-of-british-rule"
+      "text": "Russia claims control of Lysychansk, a pivotal city in eastern Ukraine",
+      "url": "https://www.pbs.org/newshour/show/russia-claims-control-of-pivotal-eastern-ukraine-city-of-lysychansk"
     },
     {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 7:54\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/weather-forecasters-increasingly-address-climate-change"
+      "text": "\n                        \n                \n                    \n                \n                                Watch 6:19\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/global-rescue-effort-tries-to-help-afghans-female-judges-escape-the-taliban-regime"
     },
     {
-      "text": "Science",
-      "url": "https://www.pbs.org/newshour/science"
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
     },
     {
-      "text": "Weather forecasters increasingly address climate change",
-      "url": "https://www.pbs.org/newshour/show/weather-forecasters-increasingly-address-climate-change"
+      "text": "Global rescue effort tries to help Afghanistan\u2019s female judges escape the Taliban regime",
+      "url": "https://www.pbs.org/newshour/show/global-rescue-effort-tries-to-help-afghans-female-judges-escape-the-taliban-regime"
     },
     {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 3:52\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/supply-chain-issues-put-a-damper-on-july-4-fireworks"
+      "text": "\n                        \n                \n                    \n                \n                                Watch 4:03\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/how-people-can-protect-their-data-in-wake-of-the-roe-ruling"
     },
     {
-      "text": "Economy",
-      "url": "https://www.pbs.org/newshour/economy"
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "Supply chain issues put a damper on July 4 fireworks",
-      "url": "https://www.pbs.org/newshour/show/supply-chain-issues-put-a-damper-on-july-4-fireworks"
+      "text": "How people can protect their data in the wake of the Roe ruling",
+      "url": "https://www.pbs.org/newshour/show/how-people-can-protect-their-data-in-wake-of-the-roe-ruling"
     },
     {
-      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "text": "\n                        \n                \n                    \n                \n                                Watch 5:34\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/biden-encounters-obstacles-as-he-searches-for-options-to-protect-abortion-access"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "Biden encounters obstacles as he searches for options to protect abortion access",
+      "url": "https://www.pbs.org/newshour/show/biden-encounters-obstacles-as-he-searches-for-options-to-protect-abortion-access"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 6:32\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/u-s-soccer-legend-briana-scurry-opens-up-about-the-highs-and-lows-of-her-career"
+    },
+    {
+      "text": "",
+      "url": "https://artscanvas.org/"
+    },
+    {
+      "text": "Arts",
+      "url": "https://www.pbs.org/newshour/arts"
+    },
+    {
+      "text": "U.S. soccer legend Briana Scurry opens up about the highs and lows of her career",
+      "url": "https://www.pbs.org/newshour/show/u-s-soccer-legend-briana-scurry-opens-up-about-the-highs-and-lows-of-her-career"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 3:17\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/a-brief-but-spectacular-take-on-centering-black-leadership-in-climate-change-solutions"
+    },
+    {
+      "text": "",
+      "url": "https://artscanvas.org/"
+    },
+    {
+      "text": "Arts",
+      "url": "https://www.pbs.org/newshour/arts"
+    },
+    {
+      "text": "A Brief But spectacular take on centering Black leadership in climate change solutions",
+      "url": "https://www.pbs.org/newshour/show/a-brief-but-spectacular-take-on-centering-black-leadership-in-climate-change-solutions"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 5:25\n            \n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/show/how-the-roe-reversal-could-impact-domestic-violence-survivors"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "How the Roe reversal could impact domestic violence survivors",
+      "url": "https://www.pbs.org/newshour/show/how-the-roe-reversal-could-impact-domestic-violence-survivors"
+    },
+    {
+      "text": "\n                        \n                        \n                \n            \n                    ",
       "url": "https://www.pbs.org/newshour/health/as-covid-swept-the-state-native-communities-in-oklahoma-raced-to-preserve-culture"
     },
     {
@@ -2169,32 +2419,16 @@
       "url": "https://www.pbs.org/newshour/health/as-covid-swept-the-state-native-communities-in-oklahoma-raced-to-preserve-culture"
     },
     {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 7:58\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/newshour-staff-members-discuss-new-books-they-have-written"
-    },
-    {
-      "text": "",
-      "url": "https://artscanvas.org/"
-    },
-    {
-      "text": "Arts",
-      "url": "https://www.pbs.org/newshour/arts"
-    },
-    {
-      "text": "NewsHour staff members discuss new books they have written",
-      "url": "https://www.pbs.org/newshour/show/newshour-staff-members-discuss-new-books-they-have-written"
-    },
-    {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 6:55\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/supreme-court-hands-down-climate-change-immigration-rulings-on-final-day-of-historic-term"
+      "text": "\n                        \n                        \n                \n            \n                    ",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-what-to-know-about-tech-surveillance-and-abortion-access"
     },
     {
       "text": "Nation",
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "Supreme Court hands down climate change, immigration rulings on final day of historic term",
-      "url": "https://www.pbs.org/newshour/show/supreme-court-hands-down-climate-change-immigration-rulings-on-final-day-of-historic-term"
+      "text": "WATCH: What to know about tech surveillance and abortion access",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-what-to-know-about-tech-surveillance-and-abortion-access"
     },
     {
       "text": "Learn more",
@@ -2206,43 +2440,35 @@
     },
     {
       "text": "\n            \n                \n                    \n                \n                Full Episode\n            \n            \n                                                                            \n                    ",
-      "url": "https://www.pbs.org/newshour/show/july-1-2022-pbs-newshour-full-episode"
+      "url": "https://www.pbs.org/newshour/show/july-3-2022-pbs-news-weekend-full-episode"
     },
     {
-      "text": "Friday, Jul 1",
-      "url": "https://www.pbs.org/newshour/show/july-1-2022-pbs-newshour-full-episode"
+      "text": "Sunday, Jul 3",
+      "url": "https://www.pbs.org/newshour/show/july-3-2022-pbs-news-weekend-full-episode"
     },
     {
-      "text": "\n                        News Wrap: Barrage of Russian missiles kills 21 in southern Ukraine\n                                    4 min\n                    ",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-barrage-of-russian-missiles-kills-21-in-southern-ukraine"
+      "text": "\n                        Russia claims control of Lysychansk, a pivotal city in eastern Ukraine\n                                    2 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/russia-claims-control-of-pivotal-eastern-ukraine-city-of-lysychansk"
     },
     {
-      "text": "\n                        State abortion bans face legal challenges after Supreme Court ruling on Roe v. Wade\n                                    8 min\n                    ",
-      "url": "https://www.pbs.org/newshour/show/state-abortion-bans-face-legal-challenges-after-supreme-court-ruling-on-roe-v-wade"
+      "text": "\n                        News Wrap: Akron police fatally shot unarmed Black man Jayland Walker, authorities say\n                                    2 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-akron-police-fatally-shot-unarmed-black-man-jayland-walker-authorities-say"
     },
     {
-      "text": "\n                        China\u2019s president visits Hong Kong 25 years after the end of British rule\n                                    6 min\n                    ",
-      "url": "https://www.pbs.org/newshour/show/chinas-president-visits-hong-kong-25-years-after-the-end-of-british-rule"
+      "text": "\n                        How people can protect their data in the wake of the Roe ruling\n                                    4 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/how-people-can-protect-their-data-in-wake-of-the-roe-ruling"
     },
     {
-      "text": "\n                        Weather forecasters increasingly address climate change\n                                    8 min\n                    ",
-      "url": "https://www.pbs.org/newshour/show/weather-forecasters-increasingly-address-climate-change"
+      "text": "\n                        Global rescue effort tries to help Afghanistan\u2019s female judges escape the Taliban regime\n                                    6 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/global-rescue-effort-tries-to-help-afghans-female-judges-escape-the-taliban-regime"
     },
     {
-      "text": "\n                        Brooks and Marcus on the Supreme Court\u2019s history-making term, Jan. 6 revelations\n                                    13 min\n                    ",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-supreme-courts-history-making-term-jan-6-revelations"
+      "text": "\n                        How Americans view their country and identify\n                                    9 min\n                    ",
+      "url": "https://www.pbs.org/newshour/show/how-americans-view-their-country-and-identify"
     },
     {
-      "text": "\n                        Supply chain issues put a damper on July 4 fireworks\n                                    4 min\n                    ",
-      "url": "https://www.pbs.org/newshour/show/supply-chain-issues-put-a-damper-on-july-4-fireworks"
-    },
-    {
-      "text": "\n                        NewsHour staff members discuss new books they have written\n                                    8 min\n                    ",
-      "url": "https://www.pbs.org/newshour/show/newshour-staff-members-discuss-new-books-they-have-written"
-    },
-    {
-      "text": "Judy Woodruff",
-      "url": "https://www.pbs.org/newshour/about/judy-woodruff"
+      "text": "Geoff Bennett",
+      "url": "https://www.pbs.org/newshour/author/geoff-bennett"
     },
     {
       "text": "\n            \n        ",
@@ -2285,16 +2511,28 @@
       "url": "https://www.pbs.org/newshour/latest"
     },
     {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "\n                        \n                          \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/world/gunman-kills-several-people-in-copenhagen-mall-police-say"
+    },
+    {
+      "text": "Gunman kills at least 3 people in Copenhagen mall",
+      "url": "https://www.pbs.org/newshour/world/gunman-kills-several-people-in-copenhagen-mall-police-say"
+    },
+    {
       "text": "Nation",
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
       "text": "\n                        \n                          \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/nation/fourth-of-july-holiday-weekend-takes-u-s-airport-traffic-to-pandemic-high"
+      "url": "https://www.pbs.org/newshour/nation/black-man-fatally-shot-by-akron-police-officers-was-unarmed-authorities-say"
     },
     {
-      "text": "Fourth of July holiday weekend takes U.S. airport traffic to pandemic high",
-      "url": "https://www.pbs.org/newshour/nation/fourth-of-july-holiday-weekend-takes-u-s-airport-traffic-to-pandemic-high"
+      "text": "Black man fatally shot by Akron police officers was unarmed, authorities say",
+      "url": "https://www.pbs.org/newshour/nation/black-man-fatally-shot-by-akron-police-officers-was-unarmed-authorities-say"
     },
     {
       "text": "World",
@@ -2302,39 +2540,27 @@
     },
     {
       "text": "\n                        \n                          \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/world/london-marks-50-years-of-pride"
+      "url": "https://www.pbs.org/newshour/world/west-african-leaders-attend-summit-with-focus-on-neighboring-military-coups"
     },
     {
-      "text": "London marks 50 years of Pride",
-      "url": "https://www.pbs.org/newshour/world/london-marks-50-years-of-pride"
+      "text": "West African leaders attend summit with focus on neighboring military coups",
+      "url": "https://www.pbs.org/newshour/world/west-african-leaders-attend-summit-with-focus-on-neighboring-military-coups"
     },
     {
-      "text": "Nation",
-      "url": "https://www.pbs.org/newshour/nation"
+      "text": "\n        \n                                      \n                        \n        \n        \n        Centuries-long debate continues over \u2018all men are created equal\u2019\n                                By Hillel Italie, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/nation/centuries-long-debate-continues-over-all-men-are-created-equal"
     },
     {
-      "text": "\n                        \n                          \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/nation/uvalde-schools-police-chief-pete-arredondo-resigns-from-city-council"
+      "text": "\n        \n                                      \n                        \n        \n        \n        Thousands evacuate Sydney suburbs amid heavy rains and floods\n                                By Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/world/thousands-evacuate-sydney-suburbs-amid-heavy-rains-and-floods"
     },
     {
-      "text": "Uvalde schools\u2019 police Chief Pete Arredondo resigns from City Council",
-      "url": "https://www.pbs.org/newshour/nation/uvalde-schools-police-chief-pete-arredondo-resigns-from-city-council"
+      "text": "\n        \n                                      \n                        \n        \n        \n        Abortion ruling puts spotlight on gerrymandered legislatures\n                                By David A. Lieb, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/politics/abortion-ruling-puts-spotlight-on-gerrymandered-legislatures"
     },
     {
-      "text": "\n        \n                                      \n                        \n        \n        \n        UN chastises attack on Libya\u2019s parliament headquarters\n                                By Samy Magdy, Associated Press\n                            \n    ",
-      "url": "https://www.pbs.org/newshour/world/un-chastises-attack-on-libyas-parliament-headquarters"
-    },
-    {
-      "text": "\n        \n                                      \n                        \n        \n        \n        Democrats pull in $80 million following Supreme Court ruling on Roe\n                                By Brian Slodysko, Associated Press\n                            \n    ",
-      "url": "https://www.pbs.org/newshour/politics/democrats-pull-in-80-million-following-supreme-court-ruling-on-roe"
-    },
-    {
-      "text": "\n        \n                                      \n                        \n        \n        \n        Russians forces bombard eastern Ukraine stronghold\n                                By Maria Grazia Murru, Associated Press\n                            \n    ",
-      "url": "https://www.pbs.org/newshour/world/russians-forces-bombard-eastern-ukraine-stronghold"
-    },
-    {
-      "text": "\n        \n                                      \n                        \n        \n        \n        Ship sinks in storm off Hong Kong, rescuers search for dozens of missing crew members\n                                By Associated Press\n                            \n    ",
-      "url": "https://www.pbs.org/newshour/world/ship-sinks-in-storm-off-hong-kong-rescuers-search-for-dozens-of-missing-crew-members"
+      "text": "\n        \n                                      \n                        \n        \n        \n        Dozens of Russian diplomats expelled from Bulgaria\n                                By Valentina Petrova, Stephen McGrath, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/world/dozens-of-russian-diplomats-expelled-from-bulgaria"
     },
     {
       "text": "More stories",
@@ -2369,64 +2595,64 @@
       "url": "https://www.pbs.org/newshour/politics"
     },
     {
-      "text": "\n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/politics/democrats-pull-in-80-million-following-supreme-court-ruling-on-roe"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
-    },
-    {
-      "text": "Democrats pull in $80 million following Supreme Court ruling on Roe",
-      "url": "https://www.pbs.org/newshour/politics/democrats-pull-in-80-million-following-supreme-court-ruling-on-roe"
-    },
-    {
-      "text": "\n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/politics/supreme-court-leaves-little-hope-for-biden-administration-to-curb-climate-change"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
-    },
-    {
-      "text": "Supreme Court leaves little hope for Biden administration\u2019s plan to curb climate change",
-      "url": "https://www.pbs.org/newshour/politics/supreme-court-leaves-little-hope-for-biden-administration-to-curb-climate-change"
-    },
-    {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 4:25\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-barrage-of-russian-missiles-kills-21-in-southern-ukraine"
+      "text": "\n                        \n                \n                    \n                \n                                Watch 4:03\n            \n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/show/how-people-can-protect-their-data-in-wake-of-the-roe-ruling"
     },
     {
       "text": "Nation",
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "News Wrap: Barrage of Russian missiles kills 21 in southern Ukraine",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-barrage-of-russian-missiles-kills-21-in-southern-ukraine"
+      "text": "How people can protect their data in the wake of the Roe ruling",
+      "url": "https://www.pbs.org/newshour/show/how-people-can-protect-their-data-in-wake-of-the-roe-ruling"
     },
     {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 7:38\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/state-abortion-bans-face-legal-challenges-after-supreme-court-ruling-on-roe-v-wade"
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/nation/centuries-long-debate-continues-over-all-men-are-created-equal"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "Centuries-long debate continues over \u2018all men are created equal\u2019",
+      "url": "https://www.pbs.org/newshour/nation/centuries-long-debate-continues-over-all-men-are-created-equal"
+    },
+    {
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/politics/abortion-ruling-puts-spotlight-on-gerrymandered-legislatures"
     },
     {
       "text": "Politics",
       "url": "https://www.pbs.org/newshour/politics"
     },
     {
-      "text": "State abortion bans face legal challenges after Supreme Court ruling on Roe v. Wade",
-      "url": "https://www.pbs.org/newshour/show/state-abortion-bans-face-legal-challenges-after-supreme-court-ruling-on-roe-v-wade"
+      "text": "Abortion ruling puts spotlight on gerrymandered legislatures",
+      "url": "https://www.pbs.org/newshour/politics/abortion-ruling-puts-spotlight-on-gerrymandered-legislatures"
     },
     {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 6:07\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/chinas-president-visits-hong-kong-25-years-after-the-end-of-british-rule"
+      "text": "\n                        \n                \n                    \n                \n                                Watch 2:55\n            \n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-embattled-uvalde-schools-police-chief-steps-down-from-city-council"
     },
     {
-      "text": "World",
-      "url": "https://www.pbs.org/newshour/world"
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "China\u2019s president visits Hong Kong 25 years after the end of British rule",
-      "url": "https://www.pbs.org/newshour/show/chinas-president-visits-hong-kong-25-years-after-the-end-of-british-rule"
+      "text": "News Wrap: Embattled Uvalde schools police chief steps down from city council",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-embattled-uvalde-schools-police-chief-steps-down-from-city-council"
+    },
+    {
+      "text": "\n                        \n                \n                    \n                \n                                Watch 5:34\n            \n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/show/biden-encounters-obstacles-as-he-searches-for-options-to-protect-abortion-access"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "Biden encounters obstacles as he searches for options to protect abortion access",
+      "url": "https://www.pbs.org/newshour/show/biden-encounters-obstacles-as-he-searches-for-options-to-protect-abortion-access"
     },
     {
       "text": "Raising the Future",
@@ -2466,15 +2692,39 @@
     },
     {
       "text": "     ",
-      "url": "https://www.pbs.org/newshour/nation/uvalde-schools-police-chief-pete-arredondo-resigns-from-city-council"
+      "url": "https://www.pbs.org/newshour/science/goodbye-to-grass-more-americans-embracing-eco-friendly-lawns-and-gardens"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.pbs.org/newshour/science"
+    },
+    {
+      "text": "Goodbye to grass? More Americans embracing \u2018eco-friendly\u2019 lawns and gardens",
+      "url": "https://www.pbs.org/newshour/science/goodbye-to-grass-more-americans-embracing-eco-friendly-lawns-and-gardens"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/nation/centuries-long-debate-continues-over-all-men-are-created-equal"
     },
     {
       "text": "Nation",
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "Uvalde schools\u2019 police Chief Pete Arredondo resigns from City Council",
-      "url": "https://www.pbs.org/newshour/nation/uvalde-schools-police-chief-pete-arredondo-resigns-from-city-council"
+      "text": "Centuries-long debate continues over \u2018all men are created equal\u2019",
+      "url": "https://www.pbs.org/newshour/nation/centuries-long-debate-continues-over-all-men-are-created-equal"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/world/gunman-kills-several-people-in-copenhagen-mall-police-say"
+    },
+    {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "Gunman kills at least 3 people in Copenhagen mall",
+      "url": "https://www.pbs.org/newshour/world/gunman-kills-several-people-in-copenhagen-mall-police-say"
     },
     {
       "text": "     Watch 13:23      ",
@@ -2489,16 +2739,56 @@
       "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-supreme-courts-history-making-term-jan-6-revelations"
     },
     {
+      "text": "     Watch 8:57      ",
+      "url": "https://www.pbs.org/newshour/show/how-americans-view-their-country-and-identify"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "How Americans view their country and identify",
+      "url": "https://www.pbs.org/newshour/show/how-americans-view-their-country-and-identify"
+    },
+    {
       "text": "     ",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-rep-liz-cheney-debates-wyoming-gop-opponents-amid-jan-6-hearings"
+      "url": "https://www.pbs.org/newshour/arts/ancient-but-small-in-number-zoroastrians-confront-depletion-of-their-faith"
     },
     {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
+      "text": "",
+      "url": "https://artscanvas.org/"
     },
     {
-      "text": "WATCH: Rep. Liz Cheney debates Wyoming GOP primary opponents amid ongoing Jan. 6 hearings",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-rep-liz-cheney-debates-wyoming-gop-opponents-amid-jan-6-hearings"
+      "text": "Arts",
+      "url": "https://www.pbs.org/newshour/arts"
+    },
+    {
+      "text": "Ancient but small in number, Zoroastrians confront depletion of their faith",
+      "url": "https://www.pbs.org/newshour/arts/ancient-but-small-in-number-zoroastrians-confront-depletion-of-their-faith"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/nation/black-man-fatally-shot-by-akron-police-officers-was-unarmed-authorities-say"
+    },
+    {
+      "text": "Nation",
+      "url": "https://www.pbs.org/newshour/nation"
+    },
+    {
+      "text": "Black man fatally shot by Akron police officers was unarmed, authorities say",
+      "url": "https://www.pbs.org/newshour/nation/black-man-fatally-shot-by-akron-police-officers-was-unarmed-authorities-say"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/health/elvis-addiction-was-the-perfect-prescription-for-an-early-death"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.pbs.org/newshour/health"
+    },
+    {
+      "text": "Elvis\u2019 addiction was the perfect prescription for an early death",
+      "url": "https://www.pbs.org/newshour/health/elvis-addiction-was-the-perfect-prescription-for-an-early-death"
     },
     {
       "text": "     ",
@@ -2525,68 +2815,36 @@
       "url": "https://www.pbs.org/newshour/politics/kansas-will-be-the-first-state-to-vote-on-abortion-rights-after-roe-ruling-heres-what-that-means"
     },
     {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/arts/ancient-but-small-in-number-zoroastrians-confront-depletion-of-their-faith"
-    },
-    {
-      "text": "",
-      "url": "https://artscanvas.org/"
-    },
-    {
-      "text": "Arts",
-      "url": "https://www.pbs.org/newshour/arts"
-    },
-    {
-      "text": "Ancient but small in number, Zoroastrians confront depletion of their faith",
-      "url": "https://www.pbs.org/newshour/arts/ancient-but-small-in-number-zoroastrians-confront-depletion-of-their-faith"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/health/elvis-addiction-was-the-perfect-prescription-for-an-early-death"
-    },
-    {
-      "text": "Health",
-      "url": "https://www.pbs.org/newshour/health"
-    },
-    {
-      "text": "Elvis\u2019 addiction was the perfect prescription for an early death",
-      "url": "https://www.pbs.org/newshour/health/elvis-addiction-was-the-perfect-prescription-for-an-early-death"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/nation/is-abortion-illegal-in-your-state-a-comprehensive-guide"
+      "text": " Nation See all ",
+      "url": "https://www.pbs.org/newshour/nation"
     },
     {
       "text": "Nation",
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "Is abortion illegal in your state? A comprehensive guide",
-      "url": "https://www.pbs.org/newshour/nation/is-abortion-illegal-in-your-state-a-comprehensive-guide"
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/nation/black-man-fatally-shot-by-akron-police-officers-was-unarmed-authorities-say"
+    },
+    {
+      "text": " Black man fatally shot by Akron police officers was unarmed, authorities say ",
+      "url": "https://www.pbs.org/newshour/nation/black-man-fatally-shot-by-akron-police-officers-was-unarmed-authorities-say"
     },
     {
       "text": "     ",
-      "url": "https://www.pbs.org/newshour/politics/how-to-watch-the-jan-6-hearings"
+      "url": "https://www.pbs.org/newshour/nation/centuries-long-debate-continues-over-all-men-are-created-equal"
     },
     {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
-    },
-    {
-      "text": "How to watch the Jan. 6 hearings",
-      "url": "https://www.pbs.org/newshour/politics/how-to-watch-the-jan-6-hearings"
+      "text": "Centuries-long debate continues over \u2018all men are created equal\u2019",
+      "url": "https://www.pbs.org/newshour/nation/centuries-long-debate-continues-over-all-men-are-created-equal"
     },
     {
       "text": "     ",
-      "url": "https://www.pbs.org/newshour/nation/same-sex-couples-concerned-about-status-of-marriage-children-after-abortion-ruling"
+      "url": "https://www.pbs.org/newshour/politics/abortion-ruling-puts-spotlight-on-gerrymandered-legislatures"
     },
     {
-      "text": "Nation",
-      "url": "https://www.pbs.org/newshour/nation"
-    },
-    {
-      "text": "Same-sex couples concerned about status of marriage, children after abortion ruling",
-      "url": "https://www.pbs.org/newshour/nation/same-sex-couples-concerned-about-status-of-marriage-children-after-abortion-ruling"
+      "text": "Abortion ruling puts spotlight on gerrymandered legislatures",
+      "url": "https://www.pbs.org/newshour/politics/abortion-ruling-puts-spotlight-on-gerrymandered-legislatures"
     },
     {
       "text": " Health See all ",
@@ -2621,68 +2879,36 @@
       "url": "https://www.pbs.org/newshour/nation/americans-want-government-to-prioritize-abortion-womens-rights-after-roe-v-wade-ruling-according-to-poll"
     },
     {
-      "text": " World See all ",
-      "url": "https://www.pbs.org/newshour/world"
+      "text": " Economy See all ",
+      "url": "https://www.pbs.org/newshour/economy"
     },
     {
-      "text": "World",
-      "url": "https://www.pbs.org/newshour/world"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/world/london-marks-50-years-of-pride"
-    },
-    {
-      "text": " London marks 50 years of Pride ",
-      "url": "https://www.pbs.org/newshour/world/london-marks-50-years-of-pride"
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
     },
     {
       "text": "     ",
-      "url": "https://www.pbs.org/newshour/world/un-chastises-attack-on-libyas-parliament-headquarters"
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-leaves-little-hope-for-biden-administration-to-curb-climate-change"
     },
     {
-      "text": "UN chastises attack on Libya\u2019s parliament headquarters",
-      "url": "https://www.pbs.org/newshour/world/un-chastises-attack-on-libyas-parliament-headquarters"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/world/russians-forces-bombard-eastern-ukraine-stronghold"
-    },
-    {
-      "text": "Russians forces bombard eastern Ukraine stronghold",
-      "url": "https://www.pbs.org/newshour/world/russians-forces-bombard-eastern-ukraine-stronghold"
-    },
-    {
-      "text": " Nation See all ",
-      "url": "https://www.pbs.org/newshour/nation"
-    },
-    {
-      "text": "Nation",
-      "url": "https://www.pbs.org/newshour/nation"
+      "text": " Supreme Court leaves little hope for Biden administration\u2019s plan to curb climate change ",
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-leaves-little-hope-for-biden-administration-to-curb-climate-change"
     },
     {
       "text": "     ",
-      "url": "https://www.pbs.org/newshour/nation/uvalde-schools-police-chief-pete-arredondo-resigns-from-city-council"
+      "url": "https://www.pbs.org/newshour/economy/chip-shortage-drives-up-vehicle-prices-cuts-sales"
     },
     {
-      "text": " Uvalde schools\u2019 police Chief Pete Arredondo resigns from City Council ",
-      "url": "https://www.pbs.org/newshour/nation/uvalde-schools-police-chief-pete-arredondo-resigns-from-city-council"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/politics/democrats-pull-in-80-million-following-supreme-court-ruling-on-roe"
-    },
-    {
-      "text": "Democrats pull in $80 million following Supreme Court ruling on Roe",
-      "url": "https://www.pbs.org/newshour/politics/democrats-pull-in-80-million-following-supreme-court-ruling-on-roe"
+      "text": "Chip shortage drives up vehicle prices, cuts sales",
+      "url": "https://www.pbs.org/newshour/economy/chip-shortage-drives-up-vehicle-prices-cuts-sales"
     },
     {
       "text": "     ",
-      "url": "https://www.pbs.org/newshour/nation/new-york-lawmakers-overhaul-handgun-rules-after-supreme-court-decision"
+      "url": "https://www.pbs.org/newshour/economy/inflation-hits-record-8-6-percent-for-19-countries-using-the-euro"
     },
     {
-      "text": "New York lawmakers overhaul handgun rules after Supreme Court decision",
-      "url": "https://www.pbs.org/newshour/nation/new-york-lawmakers-overhaul-handgun-rules-after-supreme-court-decision"
+      "text": "Inflation hits record 8.6 percent for 19 countries using the euro",
+      "url": "https://www.pbs.org/newshour/economy/inflation-hits-record-8-6-percent-for-19-countries-using-the-euro"
     },
     {
       "text": "\n                    \n                    PBS NewsHour\n                ",
@@ -2809,10 +3035,10 @@
       "url": "http://www.mutualofamerica.com/"
     }
   ],
-  "server": "ia802505.us.archive.org",
-  "uniq": 957938745,
+  "server": "ia902505.us.archive.org",
+  "uniq": 691225486,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

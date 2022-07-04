@@ -1,5 +1,5 @@
 {
-  "created": 1656807879,
+  "created": 1656936538,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -1278,31 +1278,157 @@
       "sha1": "28174f4d9de88463fc7113061f251fd96795ac44"
     },
     {
+      "name": "huffpost-2022-07-02T21:29:00.426272-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656811743",
+      "size": "35172",
+      "md5": "f3850fcbf8986c4cc017f1d9d0fb1d9f",
+      "crc32": "b8ec5336",
+      "sha1": "891cf7faa155b62fe316c38be98b527b7107f8d7",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-02T21:29:00.426272-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656811745",
+      "size": "36416",
+      "md5": "687e6570e94d10b6a06d88885e95c824",
+      "crc32": "af0600d5",
+      "sha1": "f20a7ecab1e683b131d2adb5eeea7049245282a3",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-02T21:29:00.426272-04:00.jpg",
+      "source": "original",
+      "mtime": "1656811742",
+      "size": "216720",
+      "md5": "0a11c03f51038272ac383e230b368e50",
+      "crc32": "50461f27",
+      "sha1": "be06e48a1bfffe855b65063007218bdc4c365dc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-07-02T21:29:00.426272-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-07-02T21:29:00.426272-04:00.jpg",
+      "mtime": "1656811794",
+      "size": "10391",
+      "md5": "a2c04592e0f3c439511fbc04ccae5eaf",
+      "crc32": "b52c4b7a",
+      "sha1": "6265e725a789f20449bb23f02f6fd2babcf29b8f"
+    },
+    {
+      "name": "huffpost-2022-07-03T09:08:34.991316-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853717",
+      "size": "35605",
+      "md5": "f44ce74252a649a2fc902814483faaf2",
+      "crc32": "0e3a02b5",
+      "sha1": "a6ef6a7e5d2b9a84056f1636c28864501b167668",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-03T09:08:34.991316-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853718",
+      "size": "36498",
+      "md5": "0fc84f6b273bef0a24737f8fd9396229",
+      "crc32": "036a8fd1",
+      "sha1": "c02ac926a6e7850ecb49f1c764ee00972737e720",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-03T09:08:34.991316-04:00.jpg",
+      "source": "original",
+      "mtime": "1656853716",
+      "size": "232965",
+      "md5": "7547822a42c663d6968f04d718e6b183",
+      "crc32": "b4e1b461",
+      "sha1": "7d0d5b38ce07b1b9cf401d21012de12ca86482fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-07-03T09:08:34.991316-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-07-03T09:08:34.991316-04:00.jpg",
+      "mtime": "1656853767",
+      "size": "11194",
+      "md5": "bc86c526cf8a2f1a958d9e27f5fbdd4e",
+      "crc32": "1af243b6",
+      "sha1": "fe82691e50f953d24f6f05cab741ab88c026d724"
+    },
+    {
+      "name": "huffpost-2022-07-03T21:29:50.440752-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898193",
+      "size": "35605",
+      "md5": "eacdab3736e422e32eb581daa703dc29",
+      "crc32": "9328ee0e",
+      "sha1": "5ac21e541999fa3444301ae1daabfe06092457c5",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-03T21:29:50.440752-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898195",
+      "size": "37003",
+      "md5": "db61f7daf010003a8fa1bc9b968ae0d9",
+      "crc32": "7e78a938",
+      "sha1": "5441898d2f8cb1a2ee2c84b39c9f9bbc450792c5",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-03T21:29:50.440752-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898192",
+      "size": "239239",
+      "md5": "626f7f5bc30fe2f770815842a3a78103",
+      "crc32": "a70f42ee",
+      "sha1": "d54b9446c6e9ca3b3ed1f7359b6ff00710bdd540",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-07-03T21:29:50.440752-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-07-03T21:29:50.440752-04:00.jpg",
+      "mtime": "1656898239",
+      "size": "10315",
+      "md5": "553592df68cbc72204977b5b0b3e06d8",
+      "crc32": "89149392",
+      "sha1": "ffc342de3abe48f4104a8639197fb3f697fe9e63"
+    },
+    {
       "name": "huffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c241a333dbc2b3781503f685ecc31bd54e082ae9",
-      "mtime": "1656767546",
-      "size": "26863",
-      "md5": "cf3d8fb9326e5ccb5f18e6376c7f3758",
-      "crc32": "6c323ce5",
-      "sha1": "7408ae5df42312b0cfc5753157dff7e66ff24998",
+      "btih": "54344063522de81a607d26fff781e813fce15172",
+      "mtime": "1656898243",
+      "size": "29393",
+      "md5": "81641fac50bbcf51228149309fc5ebb3",
+      "crc32": "95561218",
+      "sha1": "8b76ee76753d60ef4403c52ea9706b4fe2874fcb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c61276da928845fd03dfad129e3d4453",
+      "md5": "2d4341c72368bf04afe2cb9100b690a0",
       "summation": "md5"
     },
     {
       "name": "huffpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656767480",
-      "size": "159744",
-      "md5": "9f8a37b81bddd28878fb3463af2afe5f",
-      "crc32": "682b53a0",
-      "sha1": "b0ba8ba61749b4c5b435b7a401cd85c3959e976d",
+      "mtime": "1656898198",
+      "size": "172032",
+      "md5": "3275c945c92e5e152a050f5afa4df2ed",
+      "crc32": "aa1ee917",
+      "sha1": "db01e9010e834dfe297894bdf47177fc614dde9f",
       "format": "Metadata"
     },
     {
@@ -1316,7 +1442,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
+  "files_count": 137,
   "huffpost-2022": [
     {
       "text": "Skip to Main Content",
@@ -1612,283 +1738,283 @@
     },
     {
       "text": "Go to featured article",
-      "url": "https://www.huffpost.com/entry/trump-jan-6-new-insights_n_62bf4464e4b014f50a31d668"
+      "url": "https://www.huffpost.com/entry/supreme-court-roe-contraception_n_62bf33d5e4b014f50a31c3bf"
     },
     {
-      "text": "CORROBORATED: SOURCES BACK BOMBSHELL TESTIMONY ON TRUMP",
-      "url": "https://www.huffpost.com/entry/trump-jan-6-new-insights_n_62bf4464e4b014f50a31d668"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/texas-supreme-court-abortions-continue-block_n_62bfeb85e4b0f61257273c84"
-    },
-    {
-      "text": "U.S. News",
-      "url": "https://www.huffpost.com/news/us-news"
-    },
-    {
-      "text": "Texas Supreme Court Blocks Order That Resumed Abortions",
-      "url": "https://www.huffpost.com/entry/texas-supreme-court-abortions-continue-block_n_62bfeb85e4b0f61257273c84"
+      "text": "FEAR: \u2018ANGRY\u2019 SUPREME COURT MAY TARGET BIRTH CONTROL NEXT",
+      "url": "https://www.huffpost.com/entry/supreme-court-roe-contraception_n_62bf33d5e4b014f50a31c3bf"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/2024-trump-jan-6-hutchinson_n_62bf3c77e4b065b10ad45edc"
+      "url": "https://www.huffpost.com/entry/kinzinger-capitol-riot-investigation_n_62c1e154e4b0a21d84284b98"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Trump Vulnerabilities For 2024 Mount After Damning Jan. 6 Testimony",
-      "url": "https://www.huffpost.com/entry/2024-trump-jan-6-hutchinson_n_62bf3c77e4b065b10ad45edc"
+      "text": "GOP Rep. Adam Kinzinger: More Witnesses, Evidence Surface In Jan. 6 Probe",
+      "url": "https://www.huffpost.com/entry/kinzinger-capitol-riot-investigation_n_62c1e154e4b0a21d84284b98"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/florida-dont-say-gay-rainbows-family-photos_n_62bf0f56e4b0a21d84263c06"
+      "url": "https://www.huffpost.com/entry/texas-clinics-halt-abortions-state-supreme-court-ruling_n_62c18a81e4b0f612572852eb"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Gay Florida Teachers Take Down Family Photos As \u2018Don\u2019t Say Gay\u2019 Law Goes Into Effect",
-      "url": "https://www.huffpost.com/entry/florida-dont-say-gay-rainbows-family-photos_n_62bf0f56e4b0a21d84263c06"
+      "text": "Texas Clinics Halt Abortions After State High Court Ruling",
+      "url": "https://www.huffpost.com/entry/texas-clinics-halt-abortions-state-supreme-court-ruling_n_62c18a81e4b0f612572852eb"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/new-york-concealed-carry-law-restrictions_n_62bfec48e4b00a9334e8597f"
-    },
-    {
-      "text": "U.S. News",
-      "url": "https://www.huffpost.com/news/us-news"
-    },
-    {
-      "text": "New York Governor Signs Bill Restricting Concealed Carry Of Firearms",
-      "url": "https://www.huffpost.com/entry/new-york-concealed-carry-law-restrictions_n_62bfec48e4b00a9334e8597f"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/drag-show-proud-boys-pepper-sprayed_n_62bf85a9e4b0f61257270bf0"
+      "url": "https://www.huffpost.com/entry/florida-pediatrician-gwynn-vaccine_n_62c0989ce4b0a21d842766ab"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Suspected Proud Boys Yelling Slurs At California LGBTQ Bar Get Pepper-Sprayed",
-      "url": "https://www.huffpost.com/entry/drag-show-proud-boys-pepper-sprayed_n_62bf85a9e4b0f61257270bf0"
+      "text": "Florida Pediatrician Axed From State Board For Pro-Vaccine Comments",
+      "url": "https://www.huffpost.com/entry/florida-pediatrician-gwynn-vaccine_n_62c0989ce4b0a21d842766ab"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/revolutionary-conservative-supreme-court-more-to-come_n_62bfceede4b065b10ad4bc61"
+      "url": "https://www.huffpost.com/entry/jeff-bezos-white-house-biden-oil-company-price-gouging-defense_n_62c20a4fe4b00a9334e9bbe1"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Supreme Court Shakes Nation To Core, Has No Plans To Ease Up",
-      "url": "https://www.huffpost.com/entry/revolutionary-conservative-supreme-court-more-to-come_n_62bfceede4b065b10ad4bc61"
+      "text": "Jeff Bezos Chastises Joe Biden For Telling Oil Companies To Stop Price Gouging",
+      "url": "https://www.huffpost.com/entry/jeff-bezos-white-house-biden-oil-company-price-gouging-defense_n_62c20a4fe4b00a9334e9bbe1"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/jill-wine-banks-donald-trump-crimes-oval-office_n_62bfbf07e4b0a21d8426e725"
+      "url": "https://www.huffpost.com/entry/russia-claims-capture-pivotal-city-eastern-ukraine_n_62c18dcde4b014f50a335327"
+    },
+    {
+      "text": "World News",
+      "url": "https://www.huffpost.com/news/world-news"
+    },
+    {
+      "text": "Russia Claims Control Of Pivotal Eastern Ukrainian Province",
+      "url": "https://www.huffpost.com/entry/russia-claims-capture-pivotal-city-eastern-ukraine_n_62c18dcde4b014f50a335327"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/july-4-parade-conservatives_n_62bf126ae4b065b10ad41361"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Watergate Prosecutor Names \u2018Best\u2019 Criminal Charge For Trump, America",
-      "url": "https://www.huffpost.com/entry/jill-wine-banks-donald-trump-crimes-oval-office_n_62bfbf07e4b0a21d8426e725"
+      "text": "A July 4 Parade In A Small Texas Town Has Been Divided By Right-Wing Culture Warriors",
+      "url": "https://www.huffpost.com/entry/july-4-parade-conservatives_n_62bf126ae4b065b10ad41361"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/jayland-walker-akron-ohio-police-death_n_62be5febe4b0ffe00a0fbba2"
+      "url": "https://www.huffpost.com/entry/pregnant-ohio-10-year-old-girl-abortion-indiana_n_62c0e06be4b065b10ad54d9f"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.huffpost.com/news/politics"
+    },
+    {
+      "text": "10-Year-Old Girl Reportedly Forced To Travel Out Of State For Abortion",
+      "url": "https://www.huffpost.com/entry/pregnant-ohio-10-year-old-girl-abortion-indiana_n_62c0e06be4b065b10ad54d9f"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/ar-15-battle-belt-texas-shooting-haltom-city_n_62c1155ae4b00a9334e9017b"
     },
     {
       "text": "Crime",
       "url": "https://www.huffpost.com/news/crime"
     },
     {
-      "text": "Ohio Police Officers On Paid Leave After Fatal Shooting Of Black Driver",
-      "url": "https://www.huffpost.com/entry/jayland-walker-akron-ohio-police-death_n_62be5febe4b0ffe00a0fbba2"
+      "text": "2 Killed, 3 Cops Wounded In Texas By Suspect With Assault-Style Rifle And \u2018Battle Belt\u2019",
+      "url": "https://www.huffpost.com/entry/ar-15-battle-belt-texas-shooting-haltom-city_n_62c1155ae4b00a9334e9017b"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/jon-stewart-supreme-court-fox-news-justice-roe-v-wade_n_62bfa29be4b0a21d8426d3ca"
+      "url": "https://www.huffpost.com/entry/michael-fanone-insurrection-beaten-ample-crime-evidence-trump-merrick-garland_n_62c10912e4b014f50a32da68"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Jon Stewart Bashes Supreme Court As The \u2018Fox News Of Justice\u2019",
-      "url": "https://www.huffpost.com/entry/jon-stewart-supreme-court-fox-news-justice-roe-v-wade_n_62bfa29be4b0a21d8426d3ca"
+      "text": "There\u2019s \u2018Ample Probable Cause To Charge Trump,\u2019 Says Ex-Cop Wounded In Insurrection",
+      "url": "https://www.huffpost.com/entry/michael-fanone-insurrection-beaten-ample-crime-evidence-trump-merrick-garland_n_62c10912e4b014f50a32da68"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/second-bison-goring-three-days-yellowstone_n_62bfb298e4b014f50a321c72"
-    },
-    {
-      "text": "U.S. News",
-      "url": "https://www.huffpost.com/news/us-news"
-    },
-    {
-      "text": "2nd Tourist In 3 Days Is Gored By Bison At Yellowstone",
-      "url": "https://www.huffpost.com/entry/second-bison-goring-three-days-yellowstone_n_62bfb298e4b014f50a321c72"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/women-medical-experiences-poor-care_n_62b36883e4b0cf43c85f446e"
-    },
-    {
-      "text": "HuffPost Personal",
-      "url": "https://www.huffpost.com/section/huffpost-personal"
-    },
-    {
-      "text": "I Spoke To Over 40 Women About Their Medical Experiences. They Offered A Disturbing Warning.",
-      "url": "https://www.huffpost.com/entry/women-medical-experiences-poor-care_n_62b36883e4b0cf43c85f446e"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/jordan-revlett-sentenced-sexy-farmer_n_62bf2da7e4b014f50a31b7eb"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
-    },
-    {
-      "text": "\u2018Sexy Farmer\u2019 Faces 30 Days For Storming The Capitol On Jan. 6",
-      "url": "https://www.huffpost.com/entry/jordan-revlett-sentenced-sexy-farmer_n_62bf2da7e4b014f50a31b7eb"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/celebrity-cannabis-brands_n_62bce972e4b014f50a2d65d3"
+      "url": "https://www.huffpost.com/entry/twitter-reacts-after-drake-joins-backstreet-boys-performance_n_62c1e41ce4b0f61257288cf7"
     },
     {
       "text": "Entertainment",
       "url": "https://www.huffpost.com/entertainment/entertainment"
     },
     {
-      "text": "Celebs Go To Pot By Creating Their Own Cannabis Brands",
-      "url": "https://www.huffpost.com/entry/celebrity-cannabis-brands_n_62bce972e4b014f50a2d65d3"
+      "text": "Twitter Goes Wild After Drake Joins Backstreet Boys To Perform \u201990s Classic Song",
+      "url": "https://www.huffpost.com/entry/twitter-reacts-after-drake-joins-backstreet-boys-performance_n_62c1e41ce4b0f61257288cf7"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/gas-station-wrong-tank-error_n_62bffc3de4b0f61257274657"
+      "url": "https://www.huffpost.com/entry/melting-glacier-italy-kills-6-hikers-climate-change_n_62c2020ae4b065b10ad62819"
     },
     {
-      "text": "U.S. News",
-      "url": "https://www.huffpost.com/news/us-news"
+      "text": "Environment",
+      "url": "https://www.huffpost.com/impact/green"
     },
     {
-      "text": "Georgia Drivers Upset After Filling Their Tanks With Wrong Liquid At Gas Station",
-      "url": "https://www.huffpost.com/entry/gas-station-wrong-tank-error_n_62bffc3de4b0f61257274657"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/minnesota-legalizes-thc-edibles-maybe-unintentionally_n_62bf7004e4b0f61257270363"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
-    },
-    {
-      "text": "Minnesota\u2019s GOP-Controlled Senate Legalizes THC Edibles \u2015 Not Totally On Purpose",
-      "url": "https://www.huffpost.com/entry/minnesota-legalizes-thc-edibles-maybe-unintentionally_n_62bf7004e4b0f61257270363"
+      "text": "At Least 6 Hikers Killed As Massive Chunk Of Melting Glacier Breaks Free In Italy",
+      "url": "https://www.huffpost.com/entry/melting-glacier-italy-kills-6-hikers-climate-change_n_62c2020ae4b065b10ad62819"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/kangaroo-escape-help-animal_n_62bfdc8de4b0ffe00a11fb01"
+      "url": "https://www.huffpost.com/entry/jhen%C3%A9-aiko-big-sean-reportedly-expecting-first-child-together_n_62c1bfe7e4b014f50a337674"
     },
     {
-      "text": "Weird News",
-      "url": "https://www.huffpost.com/section/weird-news"
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
     },
     {
-      "text": "Kangaroo Escapes Captivity Thanks To The Help Of Another Animal",
-      "url": "https://www.huffpost.com/entry/kangaroo-escape-help-animal_n_62bfdc8de4b0ffe00a11fb01"
+      "text": "Jhen\u00e9 Aiko And Longtime Partner Big Sean Reportedly Expecting First Child Together",
+      "url": "https://www.huffpost.com/entry/jhen%C3%A9-aiko-big-sean-reportedly-expecting-first-child-together_n_62c1bfe7e4b014f50a337674"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/best-vegan-cookout-recipes_l_5ec43ddac5b6551391deed7d"
+      "url": "https://www.huffpost.com/entry/crosby-stills-nash-spotify-joe-rogan_n_62c1379ee4b0ffe00a12cb32"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "Crosby, Stills & Nash\u2019s Music Returns To Spotify After Joe Rogan Protest",
+      "url": "https://www.huffpost.com/entry/crosby-stills-nash-spotify-joe-rogan_n_62c1379ee4b0ffe00a12cb32"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/husband-terminal-cancer-tumor-marriage-hope_n_62a5e290e4b06169ca8c65e2"
+    },
+    {
+      "text": "HuffPost Personal",
+      "url": "https://www.huffpost.com/section/huffpost-personal"
+    },
+    {
+      "text": "The Love Of My Life Has Cancer \u2014 And We Just Got Married. Here\u2019s What I Learned About Hope.",
+      "url": "https://www.huffpost.com/entry/husband-terminal-cancer-tumor-marriage-hope_n_62a5e290e4b06169ca8c65e2"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/alleged-stalker-taylor-swift-home_n_62c12023e4b00a9334e907e0"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "Alleged Stalker Reportedly Threatened Taylor Swift At Her Building",
+      "url": "https://www.huffpost.com/entry/alleged-stalker-taylor-swift-home_n_62c12023e4b00a9334e907e0"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/lenape-people-lenapehoking_n_628e542ee4b0cda85db9420c"
+    },
+    {
+      "text": "Exposure",
+      "url": "https://www.huffpost.com/section/exposure"
+    },
+    {
+      "text": "\u2018Tourists\u2019 In Our Own Homeland",
+      "url": "https://www.huffpost.com/entry/lenape-people-lenapehoking_n_628e542ee4b0cda85db9420c"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/easy-summer-dessert-recipes_l_5ec6d23dc5b6a4cf9bb3bae0"
     },
     {
       "text": "Food & Drink",
       "url": "https://www.huffpost.com/life/taste"
     },
     {
-      "text": "The Best Vegan Cookout Recipes For Summer Grilling",
-      "url": "https://www.huffpost.com/entry/best-vegan-cookout-recipes_l_5ec43ddac5b6551391deed7d"
+      "text": "31 Ridiculously Easy Summer Desserts To Make This Weekend",
+      "url": "https://www.huffpost.com/entry/easy-summer-dessert-recipes_l_5ec6d23dc5b6a4cf9bb3bae0"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/sunscreen-eyelids_l_629133d6e4b0b1d98455e711"
-    },
-    {
-      "text": "Style & Beauty",
-      "url": "https://www.huffpost.com/life/style"
-    },
-    {
-      "text": "The Important Body Part You\u2019re Probably Missing When You Apply Sunscreen",
-      "url": "https://www.huffpost.com/entry/sunscreen-eyelids_l_629133d6e4b0b1d98455e711"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/how-to-marinade-meat_l_60ef64f0e4b0d5140ebc473a"
-    },
-    {
-      "text": "Food & Drink",
-      "url": "https://www.huffpost.com/life/taste"
-    },
-    {
-      "text": "Is Your Marinade Doing Your Meat More Harm Than Good?",
-      "url": "https://www.huffpost.com/entry/how-to-marinade-meat_l_60ef64f0e4b0d5140ebc473a"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/what-to-do-three-day-weekend_n_591c6698e4b0a7458fa4c364"
+      "url": "https://www.huffpost.com/entry/how-quickly-heat-dehydrate-you_l_60edbd8ee4b01f1189538d54"
     },
     {
       "text": "Wellness",
       "url": "https://www.huffpost.com/life/healthy-living"
     },
     {
-      "text": "How To Make The Most Of A Long Weekend",
-      "url": "https://www.huffpost.com/entry/what-to-do-three-day-weekend_n_591c6698e4b0a7458fa4c364"
+      "text": "This Is How Quickly The Heat Can Dehydrate You",
+      "url": "https://www.huffpost.com/entry/how-quickly-heat-dehydrate-you_l_60edbd8ee4b01f1189538d54"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/clothing-and-accessories-amazon-customers-loving-right-now_l_62bc883ae4b0d26a9b17c037"
+      "url": "https://www.huffpost.com/entry/why-mosquitoes-bite-blood-type_l_5d67dfb5e4b01fcc69104b32"
     },
     {
-      "text": "26 Pieces Of Clothing And Accessories Amazon Customers Are Loving Right Now",
-      "url": "https://www.huffpost.com/entry/clothing-and-accessories-amazon-customers-loving-right-now_l_62bc883ae4b0d26a9b17c037"
+      "text": "Wellness",
+      "url": "https://www.huffpost.com/life/healthy-living"
     },
     {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/toys-to-entertain-kids-in-summer_l_62b603a4e4b06169caa68c03"
-    },
-    {
-      "text": "13 Brilliant Toys That Will Entertain Your Kids During Summer Break",
-      "url": "https://www.huffpost.com/entry/toys-to-entertain-kids-in-summer_l_62b603a4e4b06169caa68c03"
+      "text": "So THAT\u2019S Why Mosquitoes Bite Some People More Than Others",
+      "url": "https://www.huffpost.com/entry/why-mosquitoes-bite-blood-type_l_5d67dfb5e4b01fcc69104b32"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/personal-care-products_l_62ba045ae4b07b8f344105e0"
+      "url": "https://www.huffpost.com/entry/medicare-fraud-signs_l_62b214f8e4b0cdccbe63a6ff"
     },
     {
-      "text": "33 Personal Care Products That Just Make Sense To Have On Hand In Summer",
-      "url": "https://www.huffpost.com/entry/personal-care-products_l_62ba045ae4b07b8f344105e0"
+      "text": "Home & Living",
+      "url": "https://www.huffpost.com/life/huffpost-home"
+    },
+    {
+      "text": "3 Signs Of A Medicare Scam Every Senior And Caregiver Needs To Watch Out For",
+      "url": "https://www.huffpost.com/entry/medicare-fraud-signs_l_62b214f8e4b0cdccbe63a6ff"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/long-mens-swim-trunks_l_62b49783e4b06594c1e141f9"
+      "url": "https://www.huffpost.com/entry/thule-ridealong-bike-seat_l_62b4a17ee4b0c77098b9207a"
     },
     {
-      "text": "9 Pairs Of Long Men\u2019s Swim Trunks From Target, For Men Who Hate Short Shorts",
-      "url": "https://www.huffpost.com/entry/long-mens-swim-trunks_l_62b49783e4b06594c1e141f9"
+      "text": "The Ridealong Bike Seat That Parents Are Obsessed With",
+      "url": "https://www.huffpost.com/entry/thule-ridealong-bike-seat_l_62b4a17ee4b0c77098b9207a"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/best-portable-air-conditioner-units_l_6290d65ce4b05cfc269972b3"
+    },
+    {
+      "text": "These Portable AC Units Can Cool Your Home, Even Without Standard-Sized Windows",
+      "url": "https://www.huffpost.com/entry/best-portable-air-conditioner-units_l_6290d65ce4b05cfc269972b3"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/kids-products-summer-camp_l_62ba11c3e4b0355d9bbb1dc6"
+    },
+    {
+      "text": "19 Products To Send With Kids Going To Summer Camp",
+      "url": "https://www.huffpost.com/entry/kids-products-summer-camp_l_62ba11c3e4b0355d9bbb1dc6"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/best-patio-items-summer_l_62b614e9e4b06169caa6a923"
+    },
+    {
+      "text": "12 Patio Items That Will Transform Your Backyard Into The Ultimate Summer Oasis",
+      "url": "https://www.huffpost.com/entry/best-patio-items-summer_l_62b614e9e4b06169caa6a923"
     },
     {
       "text": "",
@@ -1904,75 +2030,75 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/freed-whale-netting-splash-barents-sea-norwegian-coast-guard_n_62bfd3c8e4b0a21d8426ef1a"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.huffpost.com/impact/green"
-    },
-    {
-      "text": "Watch Relieved Freed Whale Make A Splash With Norwegian Coast Guard",
-      "url": "https://www.huffpost.com/entry/freed-whale-netting-splash-barents-sea-norwegian-coast-guard_n_62bfd3c8e4b0a21d8426ef1a"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/pitch-stopped-vendor-dodgers-stadium_n_62bfc736e4b0f61257272ae6"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.huffpost.com/section/sports"
-    },
-    {
-      "text": "Dodgers\u2019 Peanut Pitcher Asked To Stop Doing The One Thing He\u2019s Known For",
-      "url": "https://www.huffpost.com/entry/pitch-stopped-vendor-dodgers-stadium_n_62bfc736e4b0f61257272ae6"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/chrishell-stause-g-flip-relationship-abortion-rights_n_62bf37d4e4b0ffe00a11944c"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.huffpost.com/entertainment/entertainment"
-    },
-    {
-      "text": "\u2018Selling Sunset\u2019s\u2019 Chrishell Stause Gushes About \u2018Super-Open\u2019 Relationship With G Flip",
-      "url": "https://www.huffpost.com/entry/chrishell-stause-g-flip-relationship-abortion-rights_n_62bf37d4e4b0ffe00a11944c"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/ashley-graham-balance-is-bullshit-mom-of-three_n_62bef802e4b0f612572631bd"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.huffpost.com/entertainment/entertainment"
-    },
-    {
-      "text": "Ashley Graham Says \u2018Balance Is Bulls**t\u2019 As A Mom Of 3",
-      "url": "https://www.huffpost.com/entry/ashley-graham-balance-is-bullshit-mom-of-three_n_62bef802e4b0f612572631bd"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/funniest-tweets-from-parents-june-25-july-1_l_62bf4bc1e4b0f6125726e16d"
-    },
-    {
-      "text": "Parenting",
-      "url": "https://www.huffpost.com/life/parents"
-    },
-    {
-      "text": "The Funniest Tweets From Parents This Week",
-      "url": "https://www.huffpost.com/entry/funniest-tweets-from-parents-june-25-july-1_l_62bf4bc1e4b0f6125726e16d"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/california-health-care-immigrants_n_62be8dcce4b0f61257250f3e"
+      "url": "https://www.huffpost.com/entry/kurt-bardella-trump-toddler-selfish-presidency-announcement_n_62c0c92ae4b014f50a32b934"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "California Becomes First State To Cover Health Care For All Undocumented Immigrants",
-      "url": "https://www.huffpost.com/entry/california-health-care-immigrants_n_62be8dcce4b0f61257250f3e"
+      "text": "Trump Likely To Announce Run Soon Because He\u2019s A \u2018Freaking Toddler,\u2019 Says Ex-GOP Official",
+      "url": "https://www.huffpost.com/entry/kurt-bardella-trump-toddler-selfish-presidency-announcement_n_62c0c92ae4b014f50a32b934"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/supreme-court-asks-states-stop-protests_n_62c0f5a2e4b014f50a32cb91"
+    },
+    {
+      "text": "U.S. News",
+      "url": "https://www.huffpost.com/news/us-news"
+    },
+    {
+      "text": "Supreme Court Asks State Officials To Stop Protests Outside Justices\u2019 Homes",
+      "url": "https://www.huffpost.com/entry/supreme-court-asks-states-stop-protests_n_62c0f5a2e4b014f50a32cb91"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/london-pride-heartstopper_n_62c0c118e4b0ffe00a1280ad"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "The \u2018Heartstopper\u2019 Cast Marched In London Pride And Melted Hearts",
+      "url": "https://www.huffpost.com/entry/london-pride-heartstopper_n_62c0c118e4b0ffe00a1280ad"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/lindsay-lohan-married-bader-shammas_n_62c087e2e4b0f6125727a000"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "Lindsay Lohan Reveals She\u2019s Married In Sweet Instagram Post",
+      "url": "https://www.huffpost.com/entry/lindsay-lohan-married-bader-shammas_n_62c087e2e4b0f6125727a000"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/venus-williams-tennis-reporter-question-laugh_n_62c0ff5ee4b065b10ad561a3"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.huffpost.com/section/sports"
+    },
+    {
+      "text": "Venus Williams Has Perfect Response To Tennis Reporter\u2019s Ridiculous Question",
+      "url": "https://www.huffpost.com/entry/venus-williams-tennis-reporter-question-laugh_n_62c0ff5ee4b065b10ad561a3"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/ice-cream-trucks-return-colorado_n_62c12a2de4b0a21d8427b3f4"
+    },
+    {
+      "text": "Weird News",
+      "url": "https://www.huffpost.com/section/weird-news"
+    },
+    {
+      "text": "Ice Cream Trucks Return To Colorado Community After 65 Years",
+      "url": "https://www.huffpost.com/entry/ice-cream-trucks-return-colorado_n_62c12a2de4b0a21d8427b3f4"
     },
     {
       "text": "Read HuffPost Personal.",
@@ -1980,15 +2106,27 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/alex-holder-donald-trump-expected-violence-documentary_n_62bf68a0e4b014f50a31fa8a"
+      "url": "https://www.huffpost.com/entry/pete-arredondo-resigns-uvalde-city-council_n_62c087f9e4b0a21d84275dc8"
+    },
+    {
+      "text": "U.S. News",
+      "url": "https://www.huffpost.com/news/us-news"
+    },
+    {
+      "text": "Uvalde School Police Chief Pete Arredondo Resigns From City Council",
+      "url": "https://www.huffpost.com/entry/pete-arredondo-resigns-uvalde-city-council_n_62c087f9e4b0a21d84275dc8"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/trump-truth-social-on-trial-jan-6-panel_n_62c12ec7e4b0ffe00a12c0e4"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Trump Used Mafia-Speak Against Pence Before Jan. 6 Violence, Documentarian Says",
-      "url": "https://www.huffpost.com/entry/alex-holder-donald-trump-expected-violence-documentary_n_62bf68a0e4b014f50a31fa8a"
+      "text": "Trump Admits He\u2019s The One \u2018On Trial\u2019 In Jan. 6 Hearings",
+      "url": "https://www.huffpost.com/entry/trump-truth-social-on-trial-jan-6-panel_n_62c12ec7e4b0ffe00a12c0e4"
     },
     {
       "text": "Mary Papenfuss",
@@ -1996,31 +2134,27 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/darren-hayes-savage-garden-secrets-depression-gay_n_62bb37c9e4b094be76a90714"
+      "url": "https://www.huffpost.com/entry/united-states-funeral-home-investigation_n_62c1ff6ae4b0f612572898d9"
     },
     {
-      "text": "HuffPost Personal",
-      "url": "https://www.huffpost.com/section/huffpost-personal"
+      "text": "Crime",
+      "url": "https://www.huffpost.com/news/crime"
     },
     {
-      "text": "I Was One Of The Most Famous Pop Stars In The World. No One Knew The Secret Pain I Hid.",
-      "url": "https://www.huffpost.com/entry/darren-hayes-savage-garden-secrets-depression-gay_n_62bb37c9e4b094be76a90714"
-    },
-    {
-      "text": "Darren Hayes",
-      "url": "https://www.huffpost.com/author/darren-hayes"
+      "text": "31 Bodies, Some Decomposing, Found At Indiana Funeral Home",
+      "url": "https://www.huffpost.com/entry/united-states-funeral-home-investigation_n_62c1ff6ae4b0f612572898d9"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/nintendo-man-buys-stock-question_n_62bfb2c7e4b065b10ad4ae90"
+      "url": "https://www.huffpost.com/entry/ricky-martin-abuse-allegations-denies_n_62c14bf4e4b0a21d8427dc2e"
     },
     {
       "text": "Entertainment",
       "url": "https://www.huffpost.com/entertainment/entertainment"
     },
     {
-      "text": "Man Spends $40,000 To Ask Nintendo One Question",
-      "url": "https://www.huffpost.com/entry/nintendo-man-buys-stock-question_n_62bfb2c7e4b065b10ad4ae90"
+      "text": "Ricky Martin Denies Domestic Abuse Allegations Following Restraining Order",
+      "url": "https://www.huffpost.com/entry/ricky-martin-abuse-allegations-denies_n_62c14bf4e4b0a21d8427dc2e"
     },
     {
       "text": "Ben Blanchet",
@@ -2028,63 +2162,15 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/abortion-roe-adam-laxalt-nevada_n_62bef54ee4b00a9334e746b5"
+      "url": "https://www.huffpost.com/entry/travis-barker-hospital-update_n_62c0b066e4b00a9334e8cf54"
     },
     {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
     },
     {
-      "text": "GOP Senate Candidate Adam Laxalt Says It\u2019s \u2018Sad\u2019 Nevada Protects Abortion Rights",
-      "url": "https://www.huffpost.com/entry/abortion-roe-adam-laxalt-nevada_n_62bef54ee4b00a9334e746b5"
-    },
-    {
-      "text": "Igor Bobic",
-      "url": "https://www.huffpost.com/author/igor-bobic"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/biden-presidential-medal-of-freedom_n_62bf15ffe4b0f61257268e6b"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
-    },
-    {
-      "text": "Joe Biden To Award Presidential Medal Of Freedom To 17 Recipients",
-      "url": "https://www.huffpost.com/entry/biden-presidential-medal-of-freedom_n_62bf15ffe4b0f61257268e6b"
-    },
-    {
-      "text": "Ryan Grenoble",
-      "url": "https://www.huffpost.com/author/ryan-grenoble"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/supreme-court-breaks-promise-tribes_n_62bf1efae4b0ffe00a117331"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.huffpost.com/section/opinion"
-    },
-    {
-      "text": "Opinion: Once Again The Supreme Court Breaks America\u2019s Promise To Tribes",
-      "url": "https://www.huffpost.com/entry/supreme-court-breaks-promise-tribes_n_62bf1efae4b0ffe00a117331"
-    },
-    {
-      "text": "Chuck Hoskin Jr., Guest Writer",
-      "url": "https://www.huffpost.com/author/chuck-hoskin-jr"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/funniest-pet-tweets-june-25-july-1_n_62bef942e4b0ffe00a110039"
-    },
-    {
-      "text": "Comedy",
-      "url": "https://www.huffpost.com/entertainment/comedy"
-    },
-    {
-      "text": "20 Of The Funniest Tweets About Cats And Dogs This Week",
-      "url": "https://www.huffpost.com/entry/funniest-pet-tweets-june-25-july-1_n_62bef942e4b0ffe00a110039"
+      "text": "Travis Barker Posts Positive Update From Hospital: \u2018I Am Currently Much Better\u2019",
+      "url": "https://www.huffpost.com/entry/travis-barker-hospital-update_n_62c0b066e4b00a9334e8cf54"
     },
     {
       "text": "Hilary Hanson",
@@ -2092,67 +2178,47 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/burger-king-found-delaware-mall_n_62bfa394e4b0ffe00a11dd23"
-    },
-    {
-      "text": "Weird News",
-      "url": "https://www.huffpost.com/section/weird-news"
-    },
-    {
-      "text": "Perfectly Preserved Fast-Food Restaurant Sparks New Interest After Viral Photo",
-      "url": "https://www.huffpost.com/entry/burger-king-found-delaware-mall_n_62bfa394e4b0ffe00a11dd23"
-    },
-    {
-      "text": "Ben Blanchet",
-      "url": "https://www.huffpost.com/author/ben-blanchet"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/jason-kander-book-invisible-storm_n_62be5767e4b0f6125724ec60"
+      "url": "https://www.huffpost.com/entry/patriot-front-boston-march-mayor-cowardly_n_62c0b7bbe4b0f6125727b360"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Jason Kander Opens Up About Struggling With Mental Illness In The Political Spotlight",
-      "url": "https://www.huffpost.com/entry/jason-kander-book-invisible-storm_n_62be5767e4b0f6125724ec60"
+      "text": "Boston Mayor Lashes March By \u2018Cowardly\u2019 Extremist Patriot Front Mob",
+      "url": "https://www.huffpost.com/entry/patriot-front-boston-march-mayor-cowardly_n_62c0b7bbe4b0f6125727b360"
     },
     {
-      "text": "Amanda Terkel",
-      "url": "https://www.huffpost.com/author/amanda-terkel"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/supreme-court-roe-contraception_n_62bf33d5e4b014f50a31c3bf"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
-    },
-    {
-      "text": "\u2018Angry Court\u2019 Might Come After Contraception Next, Experts Warn",
-      "url": "https://www.huffpost.com/entry/supreme-court-roe-contraception_n_62bf33d5e4b014f50a31c3bf"
-    },
-    {
-      "text": "Molly Redden",
-      "url": "https://www.huffpost.com/author/molly-redden"
+      "text": "Mary Papenfuss",
+      "url": "https://www.huffpost.com/author/mary-s-papenfuss"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/russia-ukraine-genocide_n_62bfae39e4b014f50a321a67"
+      "url": "https://www.huffpost.com/entry/london-metropolitan-police-fired-racist-slur-meghan-markle_n_62c0f89de4b00a9334e8ede7"
     },
     {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
+      "text": "Black Voices",
+      "url": "https://www.huffpost.com/voices/black-voices"
     },
     {
-      "text": "Congress Wary Of Calling Russia\u2019s Actions In Ukraine \u2018Genocide\u2019",
-      "url": "https://www.huffpost.com/entry/russia-ukraine-genocide_n_62bfae39e4b014f50a321a67"
+      "text": "2 London Cops Fired After Racist Post About Meghan Markle",
+      "url": "https://www.huffpost.com/entry/london-metropolitan-police-fired-racist-slur-meghan-markle_n_62c0f89de4b00a9334e8ede7"
     },
     {
-      "text": "Jonathan Nicholson",
-      "url": "https://www.huffpost.com/author/jonathan-nicholson"
+      "text": "Mary Papenfuss",
+      "url": "https://www.huffpost.com/author/mary-s-papenfuss"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/palestinian-journalist-killed-israel_n_62c0dd48e4b00a9334e8dccd"
+    },
+    {
+      "text": "World News",
+      "url": "https://www.huffpost.com/news/world-news"
+    },
+    {
+      "text": "Palestinians Give Bullet That Killed Journalist To U.S. Forensics Team",
+      "url": "https://www.huffpost.com/entry/palestinian-journalist-killed-israel_n_62c0dd48e4b00a9334e8dccd"
     },
     {
       "text": "",
@@ -2172,47 +2238,79 @@
     },
     {
       "text": "",
+      "url": "https://www.huffpost.com/entry/new-york-concealed-carry-law-restrictions_n_62bfec48e4b00a9334e8597f"
+    },
+    {
+      "text": "U.S. News",
+      "url": "https://www.huffpost.com/news/us-news"
+    },
+    {
+      "text": "New York Governor Signs Bill Restricting Concealed Carry Of Firearms",
+      "url": "https://www.huffpost.com/entry/new-york-concealed-carry-law-restrictions_n_62bfec48e4b00a9334e8597f"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/women-medical-experiences-poor-care_n_62b36883e4b0cf43c85f446e"
+    },
+    {
+      "text": "HuffPost Personal",
+      "url": "https://www.huffpost.com/section/huffpost-personal"
+    },
+    {
+      "text": "I Spoke To Over 40 Women About Their Medical Experiences. They Offered A Disturbing Warning.",
+      "url": "https://www.huffpost.com/entry/women-medical-experiences-poor-care_n_62b36883e4b0cf43c85f446e"
+    },
+    {
+      "text": "Susan Salenger",
+      "url": "https://www.huffpost.com/author/susan-salenger"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/freed-whale-netting-splash-barents-sea-norwegian-coast-guard_n_62bfd3c8e4b0a21d8426ef1a"
+    },
+    {
+      "text": "Environment",
+      "url": "https://www.huffpost.com/impact/green"
+    },
+    {
+      "text": "Watch Relieved Freed Whale Make A Splash With Norwegian Coast Guard",
+      "url": "https://www.huffpost.com/entry/freed-whale-netting-splash-barents-sea-norwegian-coast-guard_n_62bfd3c8e4b0a21d8426ef1a"
+    },
+    {
+      "text": "Mary Papenfuss",
+      "url": "https://www.huffpost.com/author/mary-s-papenfuss"
+    },
+    {
+      "text": "",
       "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
     },
     {
-      "text": "People Will Still Die In Anti-Abortion States That Have \u2018Lifesaving\u2019 ExceptionsHuffPost ",
-      "url": "https://www.huffpost.com/entry/death-risk-pregnancy-despite-lifesaving-exceptions-for-abortion_n_62b715c9e4b04a61736b0aa9"
+      "text": "Akron Police Say Black Driver Was Unarmed When Officers Fatally Shot HimHuffPost ",
+      "url": "https://www.huffpost.com/entry/akron-police-jayland-walker-deadly-shooting_n_62c1d4afe4b0ffe00a135097"
     },
     {
-      "text": "Jason Kander Opens Up About Struggling With Mental Illness In The Political SpotlightHuffPost ",
-      "url": "https://www.huffpost.com/entry/jason-kander-book-invisible-storm_n_62be5767e4b0f6125724ec60"
+      "text": "Chris Hemsworth\u2019s Kids \u2018Unimpressed\u2019 With His Superhero AnticsHuffPost ",
+      "url": "https://www.huffpost.com/entry/chris-hemsworths-kids-unimpressed-with-his-superhero-antics_n_62c22c45e4b0a21d84287074"
     },
     {
-      "text": "\u2018Angry Court\u2019 Might Come After Contraception Next, Experts WarnHuffPost ",
-      "url": "https://www.huffpost.com/entry/supreme-court-roe-contraception_n_62bf33d5e4b014f50a31c3bf"
+      "text": "Jeff Bezos Chastises Joe Biden For Telling Oil Companies To Stop Price Gouging At Gas PumpsHuffPost ",
+      "url": "https://www.huffpost.com/entry/jeff-bezos-white-house-biden-oil-company-price-gouging-defense_n_62c20a4fe4b00a9334e9bbe1"
     },
     {
-      "text": "Congress Wary Of Calling Russia\u2019s Actions In Ukraine \u2018Genocide\u2019HuffPost ",
-      "url": "https://www.huffpost.com/entry/russia-ukraine-genocide_n_62bfae39e4b014f50a321a67"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/roe-wade-abortion-25-weeks_n_61b210e6e4b04ae319fb8a15"
-    },
-    {
-      "text": "I Had An Abortion At 25 Weeks, 6 Days. Faced With The Same Horrific Choice, I\u2019d Do It Again.",
-      "url": "https://www.huffpost.com/entry/roe-wade-abortion-25-weeks_n_61b210e6e4b04ae319fb8a15"
-    },
-    {
-      "text": "Molly Hawkey",
-      "url": "https://www.huffpost.com/author/molly-hawkey"
+      "text": "Twitter Goes Wild After Drake Joins Backstreet Boys To Perform '90s Classic SongHuffPost ",
+      "url": "https://www.huffpost.com/entry/twitter-reacts-after-drake-joins-backstreet-boys-performance_n_62c1e41ce4b0f61257288cf7"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/transgender-brigham-young-university_n_5c545934e4b01d3c1f12f639"
+      "url": "https://www.huffpost.com/entry/darren-hayes-savage-garden-secrets-depression-gay_n_62bb37c9e4b094be76a90714"
     },
     {
-      "text": "I Had To Live In My School\u2019s Women\u2019s Housing For 3 Years Even Though I\u2019m A Man",
-      "url": "https://www.huffpost.com/entry/transgender-brigham-young-university_n_5c545934e4b01d3c1f12f639"
+      "text": "I Was One Of The Most Famous Pop Stars In The World. No One Knew The Secret Pain I Hid.",
+      "url": "https://www.huffpost.com/entry/darren-hayes-savage-garden-secrets-depression-gay_n_62bb37c9e4b094be76a90714"
     },
     {
-      "text": "Andy WinderGuest Writer",
-      "url": "https://www.huffpost.com/author/andy-winder"
+      "text": "Darren Hayes",
+      "url": "https://www.huffpost.com/author/darren-hayes"
     },
     {
       "text": "",
@@ -2240,39 +2338,75 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/rodneyse-bichotte-hermelyn-brooklyn-the-city_n_62bf4dffe4b065b10ad47408"
+      "url": "https://www.huffpost.com/entry/camp-boyfriend-married-sister_n_62af1151e4b04a61735da457"
     },
     {
-      "text": "Rodneyse Bichotte Hermelyn Railed Against Brooklyn\u2019s Democratic Machine. Then She Became It.",
-      "url": "https://www.huffpost.com/entry/rodneyse-bichotte-hermelyn-brooklyn-the-city_n_62bf4dffe4b065b10ad47408"
+      "text": "I Dated My Camp Boyfriend For 3 Summers. Years Later, His Sister Found Me \u2014 And We Fell In Love.",
+      "url": "https://www.huffpost.com/entry/camp-boyfriend-married-sister_n_62af1151e4b04a61735da457"
     },
     {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/judy-chu-arrested-abortion-rights-protest-capitol_n_62beb5e1e4b0a21d842520b0"
-    },
-    {
-      "text": "Democratic Rep. Arrested At Abortion Rights Protest Outside U.S. Capitol",
-      "url": "https://www.huffpost.com/entry/judy-chu-arrested-abortion-rights-protest-capitol_n_62beb5e1e4b0a21d842520b0"
+      "text": "Nikki Weiss Goldstein",
+      "url": "https://www.huffpost.com/author/nikki-weiss-goldstein"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/adam-kinzinger-stephen-colbert-coup_n_62be7bc5e4b0ffe00a0fcccf"
+      "url": "https://www.huffpost.com/entry/russia-ukraine-genocide_n_62bfae39e4b014f50a321a67"
     },
     {
-      "text": "GOP Rep. Adam Kinzinger: When You Try A Coup In The U.S., You Have To Pay For That",
-      "url": "https://www.huffpost.com/entry/adam-kinzinger-stephen-colbert-coup_n_62be7bc5e4b0ffe00a0fcccf"
+      "text": "Congress Wary Of Calling Russia\u2019s Actions In Ukraine \u2018Genocide\u2019",
+      "url": "https://www.huffpost.com/entry/russia-ukraine-genocide_n_62bfae39e4b014f50a321a67"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/alberto-gonzales-trump-crimes_n_62be30f9e4b014f50a2fdc84"
+      "url": "https://www.huffpost.com/entry/jason-kander-book-invisible-storm_n_62be5767e4b0f6125724ec60"
     },
     {
-      "text": "Bush Attorney General Lists Crimes Trump Could Be Prosecuted For Over Jan. 6",
-      "url": "https://www.huffpost.com/entry/alberto-gonzales-trump-crimes_n_62be30f9e4b014f50a2fdc84"
+      "text": "Jason Kander Opens Up About Struggling With Mental Illness In The Political Spotlight",
+      "url": "https://www.huffpost.com/entry/jason-kander-book-invisible-storm_n_62be5767e4b0f6125724ec60"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/revolutionary-conservative-supreme-court-more-to-come_n_62bfceede4b065b10ad4bc61"
+    },
+    {
+      "text": "Supreme Court Shakes Nation To Core, Has No Plans To Ease Up",
+      "url": "https://www.huffpost.com/entry/revolutionary-conservative-supreme-court-more-to-come_n_62bfceede4b065b10ad4bc61"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/jill-wine-banks-donald-trump-crimes-oval-office_n_62bfbf07e4b0a21d8426e725"
+    },
+    {
+      "text": "Watergate Prosecutor Names 'Best' Criminal Charge For Trump, America",
+      "url": "https://www.huffpost.com/entry/jill-wine-banks-donald-trump-crimes-oval-office_n_62bfbf07e4b0a21d8426e725"
     },
     {
       "text": "More Politics",
       "url": "https://www.huffpost.com/news/politics"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/celebrity-cannabis-brands_n_62bce972e4b014f50a2d65d3"
+    },
+    {
+      "text": "Celebs Go To Pot By Creating Their Own Cannabis Brands",
+      "url": "https://www.huffpost.com/entry/celebrity-cannabis-brands_n_62bce972e4b014f50a2d65d3"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/nintendo-man-buys-stock-question_n_62bfb2c7e4b065b10ad4ae90"
+    },
+    {
+      "text": "Man Spends $40,000 To Ask Nintendo One Question",
+      "url": "https://www.huffpost.com/entry/nintendo-man-buys-stock-question_n_62bfb2c7e4b065b10ad4ae90"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/chrishell-stause-g-flip-relationship-abortion-rights_n_62bf37d4e4b0ffe00a11944c"
+    },
+    {
+      "text": "'Selling Sunset's' Chrishell Stause Gushes About 'Super-Open' Relationship With G Flip",
+      "url": "https://www.huffpost.com/entry/chrishell-stause-g-flip-relationship-abortion-rights_n_62bf37d4e4b0ffe00a11944c"
     },
     {
       "text": "",
@@ -2283,32 +2417,16 @@
       "url": "https://www.huffpost.com/entry/shanna-moakler-travis-barker-hospitalization_n_62bf189ee4b065b10ad42653"
     },
     {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/i-love-a-mamas-boy-weirdly-sexual-mother-son-dance_n_62bf15c0e4b065b10ad41d31"
-    },
-    {
-      "text": "Mother And Son Rehearse Weirdly Sexual Wedding Dance On TLC\u2019s 'I Love A Mama\u2019s Boy'",
-      "url": "https://www.huffpost.com/entry/i-love-a-mamas-boy-weirdly-sexual-mother-son-dance_n_62bf15c0e4b065b10ad41d31"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/busy-philipps-arrested-supreme-court_n_62bef8d0e4b00a9334e75478"
-    },
-    {
-      "text": "Busy Philipps Arrested Outside Supreme Court Wearing 'I Will Aid And Abet Abortion' Shirt",
-      "url": "https://www.huffpost.com/entry/busy-philipps-arrested-supreme-court_n_62bef8d0e4b00a9334e75478"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/randy-bachman-guitar-reunion_n_62bf5f4de4b0ffe00a11c041"
-    },
-    {
-      "text": "Rock Star Randy Bachman Reunited With Beloved Stolen Guitar After 45 Long Years",
-      "url": "https://www.huffpost.com/entry/randy-bachman-guitar-reunion_n_62bf5f4de4b0ffe00a11c041"
-    },
-    {
       "text": "More Entertainment",
       "url": "https://www.huffpost.com/entertainment/"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/funniest-tweets-from-parents-june-25-july-1_l_62bf4bc1e4b0f6125726e16d"
+    },
+    {
+      "text": "The Funniest Tweets From Parents This Week",
+      "url": "https://www.huffpost.com/entry/funniest-tweets-from-parents-june-25-july-1_l_62bf4bc1e4b0f6125726e16d"
     },
     {
       "text": "",
@@ -2333,14 +2451,6 @@
     {
       "text": "Dermatologists Warn About TikTok\u2019s Dangerous Skin Care Lies",
       "url": "https://www.huffpost.com/entry/tiktok-skin-care-lies-misinformation_l_62b46c93e4b0cf43c8611f69"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/roe-v-wade-period-trackers_l_62bb8747e4b0187add1958f1"
-    },
-    {
-      "text": "Delete Your Period Tracking Apps And Use One Of These Journals Instead",
-      "url": "https://www.huffpost.com/entry/roe-v-wade-period-trackers_l_62bb8747e4b0187add1958f1"
     },
     {
       "text": "More Life",
@@ -2519,8 +2629,8 @@
       "url": "javascript:window.__uspapi('displayUspUi');"
     }
   ],
-  "item_last_updated": 1656767546,
-  "item_size": 9692718,
+  "item_last_updated": 1656898243,
+  "item_size": 10644659,
   "metadata": {
     "identifier": "huffpost-2022",
     "collection": [
@@ -2537,10 +2647,10 @@
     "publicdate": "2022-06-24 22:56:52",
     "addeddate": "2022-06-24 22:56:52"
   },
-  "server": "ia902502.us.archive.org",
-  "uniq": 26161077,
+  "server": "ia802502.us.archive.org",
+  "uniq": 688086162,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }

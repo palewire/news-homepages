@@ -1,5 +1,5 @@
 {
-  "created": 1656796312,
+  "created": 1656936950,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -1820,31 +1820,241 @@
       "sha1": "12dc8682e97c706d2c961bfe265fab0e1292ce73"
     },
     {
+      "name": "yahoonews-2022-07-02T21:39:25.446540-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656812369",
+      "size": "38326",
+      "md5": "ab6bab4628006d32ba76d57e78ddb5d1",
+      "crc32": "c49354dd",
+      "sha1": "2a5b374b07308cd5cab370241de538552406973b",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-02T21:39:25.446540-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656812370",
+      "size": "14649",
+      "md5": "52e5f1eef55d8b0f4b143631b868748d",
+      "crc32": "6d15c430",
+      "sha1": "005f8f5bcf29c0ce1f566a1247bdfb54a1b7e763",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-02T21:39:25.446540-04:00.jpg",
+      "source": "original",
+      "mtime": "1656812367",
+      "size": "317148",
+      "md5": "e8a3a0730398984bf3552367aef3f349",
+      "crc32": "86bf804b",
+      "sha1": "9cfee673b8a14ecf7368697c6f840d90a5a93b03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-02T21:39:25.446540-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-02T21:39:25.446540-04:00.jpg",
+      "mtime": "1656812415",
+      "size": "9950",
+      "md5": "fbf855243c3d7e5ce11b6b0833a2794b",
+      "crc32": "2eff437e",
+      "sha1": "0d4df029904120c18bea1e9721a69e53aa240401"
+    },
+    {
+      "name": "yahoonews-2022-07-03T09:17:30.172485-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656854254",
+      "size": "41505",
+      "md5": "6c8fe53c92357d8eb387c76c25d5bb98",
+      "crc32": "c11dd7d7",
+      "sha1": "bed17ea05156b05da6967193f632752f1f9c5d84",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-03T09:17:30.172485-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656854255",
+      "size": "14253",
+      "md5": "c4fb2df68918d030fd3b2caf25c25313",
+      "crc32": "c302c449",
+      "sha1": "7fe08383f0e0b254f9e1b94f7f89428e1c6e8f7d",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-03T09:17:30.172485-04:00.jpg",
+      "source": "original",
+      "mtime": "1656854252",
+      "size": "328265",
+      "md5": "492f0e2f037aa0c81ce8f7747f0df298",
+      "crc32": "d18bd102",
+      "sha1": "af067d470a0c902e0e055ef60c4548171c1f8ebf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-03T09:17:30.172485-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-03T09:17:30.172485-04:00.jpg",
+      "mtime": "1656854303",
+      "size": "9966",
+      "md5": "a15fb594d5b40edb72f6db6863d6ca49",
+      "crc32": "8f0d62ca",
+      "sha1": "a47c45100f810a12b0a788941c1dc34e25431f11"
+    },
+    {
+      "name": "yahoonews-2022-07-03T10:06:40.351988-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656857203",
+      "size": "37164",
+      "md5": "da36eefa95203f0819b81941380468d7",
+      "crc32": "be2ba58e",
+      "sha1": "f12c369b171a666cc38e96f836bba66762ba8297",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-03T10:06:40.351988-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656857204",
+      "size": "14287",
+      "md5": "5f89cd7b6921b747813a953997b5f451",
+      "crc32": "4aee069b",
+      "sha1": "2e622f9449718f37af40d80f01aa04296a18e02d",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-03T10:06:40.351988-04:00.jpg",
+      "source": "original",
+      "mtime": "1656857202",
+      "size": "329029",
+      "md5": "329e2587b47b40d0fec63c995ab0cfc1",
+      "crc32": "7cff12b5",
+      "sha1": "a4a1161cc2ef3c2ab8e15bd81ec411e72e7816e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-03T10:06:40.351988-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-03T10:06:40.351988-04:00.jpg",
+      "mtime": "1656857253",
+      "size": "9934",
+      "md5": "0dd300e5b764b2db20b5509166975f6b",
+      "crc32": "98635401",
+      "sha1": "3c7027936a2b149b97b56c9d8a7a94d0c43bfe7f"
+    },
+    {
+      "name": "yahoonews-2022-07-03T17:06:55.811351-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656882420",
+      "size": "38116",
+      "md5": "bb7a75ebd4d20b661e870a84effcb69c",
+      "crc32": "10878a3c",
+      "sha1": "9386c1f4138566dd49ee4c28b2a098a1aecd6d81",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-03T17:06:55.811351-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656882421",
+      "size": "15222",
+      "md5": "6b199eaf9417dda1a689747e88094563",
+      "crc32": "c6a2f351",
+      "sha1": "5eef176d2ed00f22147dfd91ec312e385f7efcf7",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-03T17:06:55.811351-04:00.jpg",
+      "source": "original",
+      "mtime": "1656882418",
+      "size": "319139",
+      "md5": "4442961ad104d03734ef5faf0e8f1872",
+      "crc32": "308087b4",
+      "sha1": "20812fa63801ac6e31c89693306172b62c7178dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-03T17:06:55.811351-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-03T17:06:55.811351-04:00.jpg",
+      "mtime": "1656882466",
+      "size": "10048",
+      "md5": "91bbaa795d8c2fb45c949a1bb7b60f92",
+      "crc32": "66769c4a",
+      "sha1": "c90e93b7d8774f7736123b7f267718a6b75ee062"
+    },
+    {
+      "name": "yahoonews-2022-07-03T21:42:10.857192-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898934",
+      "size": "38241",
+      "md5": "546414302d69374f1e3df84cab59a5f8",
+      "crc32": "98766fd1",
+      "sha1": "a52158f08c7da967b1703b4ca1cb6b5496468297",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-03T21:42:10.857192-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898936",
+      "size": "15970",
+      "md5": "fbca177dac5f626690b9cd4d4f6ac9fa",
+      "crc32": "fd4f22a6",
+      "sha1": "2621af4289c64b334b160f357f18dffdf7cfecdd",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-03T21:42:10.857192-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898933",
+      "size": "335086",
+      "md5": "895882b970c0b5efa62a4785bff09ffa",
+      "crc32": "f45b7397",
+      "sha1": "6ea19ecc9fe6c7c517a30dca069eef8d5f1abf1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-03T21:42:10.857192-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-03T21:42:10.857192-04:00.jpg",
+      "mtime": "1656898997",
+      "size": "10070",
+      "md5": "266b65a731e7e2748e10f2f85b4e96d4",
+      "crc32": "2cf94460",
+      "sha1": "81948e9960b646ecdaac34993e097c5bbf9f27a1"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ab5cc9bc3724efbb83d668e9803692e7266a6505",
-      "mtime": "1656796268",
-      "size": "38102",
-      "md5": "79cac711cfcd9624c183f1ae654f5698",
-      "crc32": "90cb3af0",
-      "sha1": "a720b5294e179708ca8f05536f5d140d3bbfca37",
+      "btih": "9c4e9fe6c5d2ce52eaf947a682568e4bc74b540d",
+      "mtime": "1656899000",
+      "size": "42349",
+      "md5": "0285b55e276de15006f3bb283d6c3a23",
+      "crc32": "645ec216",
+      "sha1": "3f1593063eaa15829f729797bf03eaa8bfeb4ea0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6941462d75b45d279e8fb9c8881a5cbb",
+      "md5": "4abb3e4f4995649bc1faf0af0dd7d25f",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656796187",
-      "size": "221184",
-      "md5": "a183f5861da47d794f87de96bc6ec6c1",
-      "crc32": "2b246cc7",
-      "sha1": "90c0b3cebdd1eb18f7ae2a6c5443194dae0b8e96",
+      "mtime": "1656898940",
+      "size": "245760",
+      "md5": "4100667e7b3db9b39ac8c631e877a80f",
+      "crc32": "deb3b3d1",
+      "sha1": "ce2cc4179348f5254f3ae46fb6facba461ef368f",
       "format": "Metadata"
     },
     {
@@ -1858,9 +2068,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1656796268,
-  "item_size": 16258339,
+  "files_count": 197,
+  "item_last_updated": 1656899000,
+  "item_size": 18233530,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -1878,9 +2088,415 @@
     "addeddate": "2022-06-24 23:04:11"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 679764306,
+  "uniq": 1478335108,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"
+  ],
+  "yahoonews-2022": [
+    {
+      "text": "      HOME",
+      "url": "https://www.yahoo.com/"
+    },
+    {
+      "text": " MAIL",
+      "url": "https://mail.yahoo.com/"
+    },
+    {
+      "text": " NEWS",
+      "url": "https://news.yahoo.com/"
+    },
+    {
+      "text": " FINANCE",
+      "url": "https://finance.yahoo.com/"
+    },
+    {
+      "text": " SPORTS",
+      "url": "https://sports.yahoo.com/"
+    },
+    {
+      "text": " ENTERTAINMENT",
+      "url": "https://www.yahoo.com/entertainment/"
+    },
+    {
+      "text": " LIFE",
+      "url": "https://www.yahoo.com/lifestyle"
+    },
+    {
+      "text": " SEARCH",
+      "url": "https://search.yahoo.com/search/"
+    },
+    {
+      "text": " SHOPPING",
+      "url": "https://shopping.yahoo.com/"
+    },
+    {
+      "text": " YAHOO PLUS",
+      "url": "https://www.yahoo.com/plus"
+    },
+    {
+      "text": " MORE...",
+      "url": "https://www.yahoo.com/everything/"
+    },
+    {
+      "text": "    Upgrade Now   ",
+      "url": "https://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23644564.308265615;dc_trk_aid=490102767;dc_trk_cid=127172993;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+    },
+    {
+      "text": "                   Yahoo News",
+      "url": "https://news.yahoo.com/"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://login.yahoo.com/?.lang=en-US&src=news&.done=https%3A%2F%2Fnews.yahoo.com%2F&pspid=1197800621&activity=ybar-signin"
+    },
+    {
+      "text": "       Mail",
+      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
+    },
+    {
+      "text": " News   News",
+      "url": "https://news.yahoo.com"
+    },
+    {
+      "text": " US   US",
+      "url": "https://news.yahoo.com/us/"
+    },
+    {
+      "text": " Politics   Politics",
+      "url": "https://news.yahoo.com/politics/"
+    },
+    {
+      "text": " World   World",
+      "url": "https://news.yahoo.com/world/"
+    },
+    {
+      "text": " COVID-19   COVID-19",
+      "url": "https://news.yahoo.com/coronavirus/"
+    },
+    {
+      "text": " Climate Change   Climate Change",
+      "url": "https://www.yahoo.com/news/tagged/climate-change/"
+    },
+    {
+      "text": " Health   Health",
+      "url": "https://news.yahoo.com/health/"
+    },
+    {
+      "text": " Science   Science",
+      "url": "https://news.yahoo.com/science/"
+    },
+    {
+      "text": " Originals   Originals",
+      "url": "https://news.yahoo.com/originals/"
+    },
+    {
+      "text": "The 360The 360",
+      "url": "https://news.yahoo.com/tagged/360/"
+    },
+    {
+      "text": "Skullduggery PodcastSkullduggery Podcast",
+      "url": "https://news.yahoo.com/tagged/skullduggery/"
+    },
+    {
+      "text": "ConspiracylandConspiracyland",
+      "url": "https://news.yahoo.com/tagged/conspiracyland/"
+    },
+    {
+      "text": " Veterans   Veterans",
+      "url": "https://www.yahoo.com/partner/wounded-warrior-project/index.html"
+    },
+    {
+      "text": " Contact Us   Contact Us",
+      "url": "https://yahoo.uservoice.com/forums/204992-us-news"
+    },
+    {
+      "text": "'Pure terror': 3 dead in Denmark mall shootingWitnesses said people were crying and hid in shops. After the shooting, an enormous contingent of heavily-armed police officers patrolled the area.22-year-old Danish man arrested \u00bb",
+      "url": "/several-people-shot-copenhagen-shopping-171702943.html"
+    },
+    {
+      "text": "Glacier collapses, killing at least 6 people",
+      "url": "/glacier-collapses-italian-alps-least-155216595.html"
+    },
+    {
+      "text": "Secret Service agent backing Trump lied before: Ex-aides",
+      "url": "/two-former-white-house-aides-100012762.html"
+    },
+    {
+      "text": "White supremacist group marches through Boston",
+      "url": "/masked-white-supremacist-march-boston-014402749.html"
+    },
+    {
+      "text": "Potentially lifesaving masks that 'no one knows about'",
+      "url": "/clunky-mask-may-answer-airborne-151340339.html"
+    },
+    {
+      "text": "'I am leading in all the polls': Trump eyes a run in 2024",
+      "url": "/trump-told-allies-might-announce-124017672.html"
+    },
+    {
+      "text": "Ricky Martin faces restraining order in Puerto Rico",
+      "url": "/ricky-martin-faces-restraining-order-230339300.html"
+    },
+    {
+      "text": "Ricky Martin Hit With Restraining Order in Puerto RicoThe Wrap",
+      "url": "/ricky-martin-hit-restraining-order-011111148.html"
+    },
+    {
+      "text": "Ricky Martin faces domestic dispute restraining order, says claims are 'completely false'USA TODAY",
+      "url": "/ricky-martin-faces-domestic-dispute-150414564.html"
+    },
+    {
+      "text": "A 10-year-old was forced to cross state lines for an abortion after Ohio's ban went into place. The Indiana doctor who helped her will soon be unable to assist others.",
+      "url": "/10-old-forced-cross-state-014401194.html"
+    },
+    {
+      "text": "An Ohio 10-year-old crossed state lines for abortion care in Indiana. She isn't aloneUSA TODAY",
+      "url": "/ohio-10-old-crossed-state-170801115.html"
+    },
+    {
+      "text": "10-year-old rape victim forced to travel from Ohio to Indiana for abortionThe Guardian",
+      "url": "/10-old-rape-victim-forced-175559349.html"
+    },
+    {
+      "text": "White House hits back at Jeff Bezos, saying it's 'not surprising' he thinks oil and gas companies should 'reap record profits at the expense of the American people'",
+      "url": "/white-house-hits-back-jeff-231855141.html"
+    },
+    {
+      "text": "Bezos slams Biden\u2019s call to cut gas prices:  \u2018Inflation is far too important a problem for the White House to keep making statements like this\u2019Fortune",
+      "url": "/bezos-slams-biden-call-cut-162649808.html"
+    },
+    {
+      "text": "Bezos slams Biden appeal for lower gasoline pricesAFP",
+      "url": "/bezos-slams-biden-appeal-lower-222020795.html"
+    },
+    {
+      "text": "Russian diplomats depart Bulgaria amid soaring tensions",
+      "url": "/russian-diplomats-depart-bulgaria-amid-144306466.html"
+    },
+    {
+      "text": "Jan. 6 panel member \u2018surprised\u2019 by prosecutors\u2019 reaction to Hutchinson testimony",
+      "url": "/jan-6-panel-member-surprised-130000705.html"
+    },
+    {
+      "text": "Sunday shows preview: Cassidy Hutchinson gives bombshell testimony before Jan. 6 panelThe Hill",
+      "url": "/sunday-shows-preview-cassidy-hutchinson-200040986.html"
+    },
+    {
+      "text": "Attacks on Cassidy Hutchinson were predictable, House committee member saysPolitico",
+      "url": "/attacks-cassidy-hutchinson-were-predictable-130000868.html"
+    },
+    {
+      "text": "Kristi Noem Gets Grilled on Whether South Dakota Would Force 10-Year-Old to Have Baby",
+      "url": "/kristi-noem-gets-grilled-whether-161344643.html"
+    },
+    {
+      "text": "Gov. Kristi Noem says 'every life is precious' when asked if a pregnant 10-year-old girl should be forced to have a baby under abortion lawsINSIDER",
+      "url": "/gov-kristi-noem-says-every-170842736.html"
+    },
+    {
+      "text": "\u2018A tragic situation\u2019: Governor discusses pregnant 10-year-old with CNN hostPolitico",
+      "url": "/tragic-situation-governor-discusses-pregnant-173921124.html"
+    },
+    {
+      "text": "Home sellers are realizing it's no longer their housing market",
+      "url": "/home-sellers-housing-market-200114132.html"
+    },
+    {
+      "text": "A judge in Brazil ordered a 10-year-old rape victim to be removed from her family and sent to a shelter to prevent her from having an abortion",
+      "url": "/judge-brazil-ordered-10-old-155532018.html"
+    },
+    {
+      "text": "Gov. Kristi Noem says 'every life is precious' when asked if a pregnant 10-year-old girl should be forced to have a baby under abortion lawsINSIDER",
+      "url": "/gov-kristi-noem-says-every-170842736.html"
+    },
+    {
+      "text": "10-year-old rape victim forced to travel from Ohio to Indiana for abortionThe Guardian",
+      "url": "/10-old-rape-victim-forced-175559349.html"
+    },
+    {
+      "text": "Trump thinks announcing a 2024 run now could distract from the January 6 hearings, a report says. Some Republicans worry he could hurt them in the midterms.",
+      "url": "/trump-thinks-announcing-2024-run-012909372.html"
+    },
+    {
+      "text": "On The Hill: Political panel talks midterm elections, SCOTUS decisions, January 6 hearings and moreWTTG",
+      "url": "/hill-political-panel-talks-midterm-164314985.html"
+    },
+    {
+      "text": "Trump Eyes Early 2024 Announcement as Jan. 6 Scrutiny IntensifiesThe New York Times",
+      "url": "/trump-eyes-early-2024-announcement-125936416.html"
+    },
+    {
+      "text": "Moscow blames Ukrainian missile attack for deaths in south Russian city",
+      "url": "/least-three-killed-blasts-russias-033415081.html"
+    },
+    {
+      "text": "\u2018How quickly the tables have turned\u2019: Falling mortgage rates have homebuyers so emboldened they\u2019re asking sellers for cash",
+      "url": "/quickly-tables-turned-falling-mortgage-140000312.html"
+    },
+    {
+      "text": "Sickening Footage Shows Akron Cops Kill Unarmed Black Man in Hail of Bullets",
+      "url": "/sickening-footage-shows-akron-cops-175907540.html"
+    },
+    {
+      "text": "Video shows Ohio officers killed unarmed Black man in hail of bulletsReuters",
+      "url": "/video-show-ohio-officers-kill-165403083.html"
+    },
+    {
+      "text": "March after deadly police shooting of Black man in OhioReuters Videos",
+      "url": "/march-deadly-police-shooting-black-020633438.html"
+    },
+    {
+      "text": "Russia's messages with missiles tell West to back off",
+      "url": "/russias-messages-missiles-tell-west-063847414.html"
+    },
+    {
+      "text": "A rustic private island in Maine is on the market, but the owner will only sell to someone willing to stay overnight\u2014despite perilous weather",
+      "url": "/rustic-private-island-maine-market-141500239.html"
+    },
+    {
+      "text": "A huge mass of used wet wipes has formed an 'island' that has changed the course of England's second longest river, MP says",
+      "url": "/huge-mass-used-wet-wipes-153303358.html"
+    },
+    {
+      "text": "Yemen's mountain of trash piles on the country's woes",
+      "url": "/yemens-mountain-trash-piles-countrys-124134070.html"
+    },
+    {
+      "text": "Single-sex lavatories to be mandatory in all new public buildings",
+      "url": "/single-sex-lavatories-mandatory-public-200000831.html"
+    },
+    {
+      "text": "Nearly 850,000 people signed a petition demanding that Justice Clarence Thomas should be booted from the Supreme Court following Roe v. Wade ruling",
+      "url": "/nearly-850-000-people-signed-144812024.html"
+    },
+    {
+      "text": "Roe v. Wade and tech: 'The problem' is that too many companies are collecting dataYahoo Finance",
+      "url": "/roe-v-wade-tech-problem-collecting-data-120701393.html"
+    },
+    {
+      "text": "Supreme Court in Texas blocks order that allowed clinics to resume abortionYahoo News Video",
+      "url": "/supreme-court-texas-blocks-order-150937727.html"
+    },
+    {
+      "text": "Bezos slams Biden's call for gasoline stations to cut prices",
+      "url": "/bezos-slams-bidens-call-gasoline-225436666.html"
+    },
+    {
+      "text": "Jeff Bezos Criticizes Biden\u2019s Call for Gas Stations to Cut PricesThe Wall Street Journal",
+      "url": "/m/96e9ef78-5fdc-39a2-b4a0-1de6cbbb94af/jeff-bezos-criticizes-biden%E2%80%99s.html"
+    },
+    {
+      "text": "Bezos slams Biden\u2019s call to cut gas prices:  \u2018Inflation is far too important a problem for the White House to keep making statements like this\u2019Fortune",
+      "url": "/bezos-slams-biden-call-cut-162649808.html"
+    },
+    {
+      "text": "2 Killed, 3 Cops Wounded In Texas By Suspect With Assault-Style Rifle And 'Battle Belt'",
+      "url": "/2-killed-3-cops-wounded-054324687.html"
+    },
+    {
+      "text": "Suspect dead after killing 2 and injuring 4, including 3 officers, in Haltom City shootingCBS-Dallas",
+      "url": "/suspect-dead-killing-2-injuring-033600060.html"
+    },
+    {
+      "text": "3 Kentucky police officers dead, others wounded after suspect with rifle opens fireUSA TODAY",
+      "url": "/2-kentucky-police-officers-dead-181558694.html"
+    },
+    {
+      "text": "Former Trump White House senior counselor Kellyanne Conway says Ron DeSantis has done a 'remarkable' job as Florida's governor",
+      "url": "/former-trump-white-house-senior-185948602.html"
+    },
+    {
+      "text": "Kellyanne Conway: Jared Kushner tried 'to ice me out' from the Trump White House transition after the 2016 electionINSIDER",
+      "url": "/kellyanne-conway-jared-kushner-tried-143003960.html"
+    },
+    {
+      "text": "California Gov. Gavin Newsom Has July 4 Attack Ad Fireworks For Florida\u2019s Gov. Ron DeSantisDeadline",
+      "url": "/california-gov-gavin-newsom-july-205953370.html"
+    },
+    {
+      "text": "Lukashenko says Belarus intercepted attempted missile strikes by Ukraine",
+      "url": "/lukashenko-says-belarus-intercepted-attempted-165214899.html"
+    },
+    {
+      "text": "Belarus leader stands with Russia in campaignReuters",
+      "url": "/belarus-leader-stands-russia-campaign-220127148.html"
+    },
+    {
+      "text": "Lukashenko accuses Ukraine of trying to strike at military facilities in BelarusThe New Voice of Ukraine",
+      "url": "/lukashenko-accuses-ukraine-trying-strike-111400280.html"
+    },
+    {
+      "text": "Police say the repeal of Indiana's handgun permit law means someone openly carrying a gun can be on a sidewalk eyeing a school but cops can't legally ask them what they're doing",
+      "url": "/police-repeal-indianas-handgun-permit-013523162.html"
+    },
+    {
+      "text": "Jet Truck driver dies in accident at Michigan air show",
+      "url": "/jet-truck-driver-dies-accident-043409880.html"
+    },
+    {
+      "text": "Father Of Chris Darnell, Truck Driver Killed In Michigan Air Show Accident, Says Son Was 'Living The Dream'TODAY",
+      "url": "/father-chris-darnell-truck-driver-152840908.html"
+    },
+    {
+      "text": "Shockwave Jet Truck driver dies in Michigan air show accidentWFTV",
+      "url": "/shockwave-jet-truck-driver-dies-140629095.html"
+    },
+    {
+      "text": "Top election officials in Arizona county leave amid threats",
+      "url": "/top-election-officials-arizona-county-004753106.html"
+    },
+    {
+      "text": "Will AI one day become sentient?",
+      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
+    },
+    {
+      "text": "Read the 360",
+      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
+    },
+    {
+      "text": "Las Vegas Strip Venue Abruptly Shuts Down With No Warning",
+      "url": "/m/2a4dec59-c7ef-3b15-bf7e-e60b8b598271/las-vegas-strip-venue.html"
+    },
+    {
+      "text": "Kate Hudson, 43, poses topless on Instagram while sipping her morning coffee: 'Sun's out'",
+      "url": "/kate-hudson-topless-photo-coffee-self-care-181217706.html"
+    },
+    {
+      "text": "Jan. 6 panel member \u2018surprised\u2019 by prosecutors\u2019 reaction to Hutchinson testimony",
+      "url": "/jan-6-panel-member-surprised-130000705.html"
+    },
+    {
+      "text": "J.Lo Puts An A String Bikini And Heels, Announces 'Summer Mode Activated'",
+      "url": "/j-lo-puts-string-bikini-110000970.html"
+    },
+    {
+      "text": "A rustic private island in Maine is on the market, but the owner will only sell to someone willing to stay overnight\u2014despite perilous weather",
+      "url": "/rustic-private-island-maine-market-141500239.html"
+    },
+    {
+      "text": "Trump thinks announcing a 2024 run now could distract from the January 6 hearings, a report says. Some Republicans worry he could hurt them in the midterms.",
+      "url": "/trump-thinks-announcing-2024-run-012909372.html"
+    },
+    {
+      "text": "Kinzinger says more witnesses have come forward after Hutchinson testimony",
+      "url": "/kinzinger-says-more-witnesses-come-144724291.html"
+    },
+    {
+      "text": "Kristi Noem Gets Grilled on Whether South Dakota Would Force 10-Year-Old to Have Baby",
+      "url": "/kristi-noem-gets-grilled-whether-161344643.html"
+    },
+    {
+      "text": "NBA rumors: Nets' asking price for Kevin Durant trade revealed, and it's huge",
+      "url": "/nba-rumors-nets-asking-price-143717722.html"
+    },
+    {
+      "text": "A judge in Brazil ordered a 10-year-old rape victim to be removed from her family and sent to a shelter to prevent her from having an abortion",
+      "url": "/judge-brazil-ordered-10-old-155532018.html"
+    }
   ]
 }

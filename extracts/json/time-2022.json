@@ -1,5 +1,5 @@
 {
-  "created": 1656808145,
+  "created": 1656936883,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/28/items/time-2022",
@@ -1318,31 +1318,157 @@
       "sha1": "fe42eab1be0b4b0f223cbdb3a5a5298dc6e9dc71"
     },
     {
+      "name": "time-2022-07-02T21:37:50.094272-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656812272",
+      "size": "40982",
+      "md5": "c0428bdd0d11793e72c278d61f8c9225",
+      "crc32": "2f410807",
+      "sha1": "3918dc280a1d964cd3e651693d6b3e4fe5f7f973",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-02T21:37:50.094272-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656812274",
+      "size": "48748",
+      "md5": "4ce1e336d6163849c3fbe46384355fcd",
+      "crc32": "0ac15ea1",
+      "sha1": "9511751efb3ee7486b16a6d7064d0a40966abfac",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-02T21:37:50.094272-04:00.jpg",
+      "source": "original",
+      "mtime": "1656812271",
+      "size": "334277",
+      "md5": "4d080bf24263e775329174370e247233",
+      "crc32": "758aee3d",
+      "sha1": "72e81e78b90ac0a0754c801f152c5666ebb62861",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-07-02T21:37:50.094272-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-07-02T21:37:50.094272-04:00.jpg",
+      "mtime": "1656812318",
+      "size": "10481",
+      "md5": "e6be52f862db5bc8a90514892a1819d3",
+      "crc32": "3a2b82c7",
+      "sha1": "f9f51545cda54a13d3d4bc4ef9f732350bf95824"
+    },
+    {
+      "name": "time-2022-07-03T09:16:18.003997-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656854181",
+      "size": "40948",
+      "md5": "9f7e08832b0961d84cdd5d2c5aae81e1",
+      "crc32": "86b1ee57",
+      "sha1": "eb5d2e411d2716ffa514730f5471ca46a4d4e185",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-03T09:16:18.003997-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656854183",
+      "size": "48704",
+      "md5": "d78e9247000343bf30835d192a0bbac0",
+      "crc32": "26579bba",
+      "sha1": "f7bd814ac4284102d92652f787f974e394c2c153",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-03T09:16:18.003997-04:00.jpg",
+      "source": "original",
+      "mtime": "1656854180",
+      "size": "334618",
+      "md5": "d0037805b54e3d728136bed91ec23a2a",
+      "crc32": "1f3c992e",
+      "sha1": "bc25040ede1cf529ecac89dcf4ae9a8822d2f216",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-07-03T09:16:18.003997-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-07-03T09:16:18.003997-04:00.jpg",
+      "mtime": "1656854231",
+      "size": "10493",
+      "md5": "01d0ea3448213e1aba67ca0c780f53a2",
+      "crc32": "a095bc1c",
+      "sha1": "4b1efa2d90fb55c2ab1c0c4dfee9ca3cc08b6972"
+    },
+    {
+      "name": "time-2022-07-03T21:41:54.652089-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898918",
+      "size": "41491",
+      "md5": "9790e3c89b577374ff4182e4b582ff84",
+      "crc32": "666b39d3",
+      "sha1": "bb2e107f062b00fd40c697759054777093259444",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-03T21:41:54.652089-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898920",
+      "size": "48659",
+      "md5": "2b6b5c4d23ad56e5cdd51276a5382b78",
+      "crc32": "4be38927",
+      "sha1": "fab2a799366e7212516ab91ed6d738ac1bd22b30",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-03T21:41:54.652089-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898916",
+      "size": "336984",
+      "md5": "80ddb7aef20c30f755d2e1c9f7687113",
+      "crc32": "cfff8425",
+      "sha1": "bfeac607b5016c450ec71df42d2b92061c6cc15d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-07-03T21:41:54.652089-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-07-03T21:41:54.652089-04:00.jpg",
+      "mtime": "1656898976",
+      "size": "10674",
+      "md5": "a8025b5a4cac1c9d05fda1741dc02eff",
+      "crc32": "a0954f40",
+      "sha1": "21be44c804aaf8b5344f6b081a33987e205a9b20"
+    },
+    {
       "name": "time-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb75c248c7fdae6f8ba38c0042ec74ba30a84479",
-      "mtime": "1656768059",
-      "size": "27282",
-      "md5": "51fa035c4cd2bd3200d42df3b6f98221",
-      "crc32": "5eb500a9",
-      "sha1": "7e5ebc745754bf459451cd2778aa2656b4811bed",
+      "btih": "1fe27dd8698cbb9035d5f29b2d271a97fb452695",
+      "mtime": "1656898980",
+      "size": "29764",
+      "md5": "4f282c490b7153873beb84a5dba14fd9",
+      "crc32": "39c69da8",
+      "sha1": "5de37fa133aae8b2915d6b041530cbf0299cd842",
       "format": "Archive BitTorrent"
     },
     {
       "name": "time-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd1ae83bf6099bdbea49891756e94a80",
+      "md5": "721b321a7540b5696a6e685bd0a4daff",
       "summation": "md5"
     },
     {
       "name": "time-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656767991",
-      "size": "163840",
-      "md5": "5e0d8d5b30e147ec93923569f2d11f7b",
-      "crc32": "49975c55",
-      "sha1": "d163fe887c3d4c16b724054c49365309881cb164",
+      "mtime": "1656898923",
+      "size": "176128",
+      "md5": "db5d0b152136e81f62ea2aac8fbccb2c",
+      "crc32": "ff69e5a7",
+      "sha1": "d0304a155713e90ad5df64b7492aba874608b1b8",
       "format": "Metadata"
     },
     {
@@ -1356,9 +1482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 129,
-  "item_last_updated": 1656768059,
-  "item_size": 12245838,
+  "files_count": 141,
+  "item_last_updated": 1656898980,
+  "item_size": 13567667,
   "metadata": {
     "identifier": "time-2022",
     "collection": [
@@ -1375,7 +1501,7 @@
     "publicdate": "2022-06-24 23:04:02",
     "addeddate": "2022-06-24 23:04:02"
   },
-  "server": "ia601500.us.archive.org",
+  "server": "ia801500.us.archive.org",
   "time-2022": [
     {
       "text": "Sign Up for Our Newsletter \n              \n                \n                \n              \n            ",
@@ -1422,8 +1548,8 @@
       "url": "/subscribe-header-time"
     },
     {
-      "text": "\n                         Spotlight Story \n                        Anti-'critical race theory' laws are working\n                      ",
-      "url": "https://time.com/6192708/critical-race-theory-teachers-racism/"
+      "text": "\n                         Spotlight Story \n                        Why Air Travel is Hell This Summer\n                      ",
+      "url": "https://time.com/6192903/why-air-travel-is-bad-now/"
     },
     {
       "text": "Manage Account",
@@ -1655,11 +1781,11 @@
     },
     {
       "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
-      "url": "/6192857/biden-climate-scotus-west-virginia/"
+      "url": "/6193480/texas-supreme-court-abortions-roe/"
     },
     {
-      "text": "\n                How the Biden Administration Is Responding to the SCOTUS Climate Setback\n              ",
-      "url": "/6192857/biden-climate-scotus-west-virginia/"
+      "text": "\n                Texas Supreme Court Blocks Order That Resumed Abortions Up to Six Weeks of Pregnancy\n              ",
+      "url": "/6193480/texas-supreme-court-abortions-roe/"
     },
     {
       "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
@@ -1668,14 +1794,6 @@
     {
       "text": "\n                What Trump Knew\n              ",
       "url": "/6192383/donald-trump-knew-jan-6-hearings/"
-    },
-    {
-      "text": "Ideas",
-      "url": "https://time.com/ideas"
-    },
-    {
-      "text": "\n                    Hong Kong 'Cage Homes' a Reminder of Its Inequities\n                  ",
-      "url": "/6191786/hong-kong-china-handover-cage-homes/"
     },
     {
       "text": "Entertainment",
@@ -1690,16 +1808,40 @@
       "url": "https://time.com/entertainment"
     },
     {
+      "text": "\n                    The True Story Behind Elvis and Priscilla Presley\u2019s Relationship\n                  ",
+      "url": "/6191111/elvis-priscilla-presley-true-story/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://time.com/entertainment"
+    },
+    {
       "text": "\n                    Let's Break Down the Ending of Stranger Things 4: Part Two\n                  ",
       "url": "/6192902/stranger-things-4-part-two-ending/"
     },
     {
-      "text": "Ideas",
-      "url": "https://time.com/ideas"
+      "text": "Entertainment",
+      "url": "https://time.com/entertainment"
     },
     {
-      "text": "\n                    The Legal Trick That Could Undermine the 2024 Election\u2014If the Supreme Court Doesn't Shut It Down\n                  ",
-      "url": "/6192872/supreme-court-independent-state-legislature/"
+      "text": "\n                    The 21 Best Shows to Watch on HBO Max\n                  ",
+      "url": "/6191990/best-hbo-max-shows/"
+    },
+    {
+      "text": "\n                    ",
+      "url": "/6193502/uvalde-school-district-police-chief-resigns-texas/"
+    },
+    {
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          Texas\n                        Uvalde School District's Police Chief Resigns From City Council\n                        \n                            associated press                \n                    \n                    \n                  ",
+      "url": "/6193502/uvalde-school-district-police-chief-resigns-texas/"
+    },
+    {
+      "text": "\n                    ",
+      "url": "/6193517/google-location-information-abortion-clnics/"
+    },
+    {
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          Tech\n                        Google to Automatically Delete Location Data When Users Visit Abortion Clinics\n                        \n                        \n                    \n                    \n                  ",
+      "url": "/6193517/google-location-information-abortion-clnics/"
     },
     {
       "text": "\n                    ",
@@ -1711,27 +1853,11 @@
     },
     {
       "text": "\n                    ",
-      "url": "/6192726/supreme-court-remain-in-mexico/"
-    },
-    {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          Supreme Court\n                        Supreme Court Rules Biden Can End the \u2018Remain In Mexico\u2019 Policy \n                        \n                            jasmine aguilera                      and\n                            madeleine carlisle                \n                    \n                    \n                  ",
-      "url": "/6192726/supreme-court-remain-in-mexico/"
-    },
-    {
-      "text": "\n                    ",
       "url": "/6192385/pregnant-covid-19-vaccine-timing-when-to-get/"
     },
     {
       "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          COVID-19\n                        Why Pregnant People Should Get COVID-19 Vaccines\n                        \n                            tara law                      and\n                            emily barone                \n                    \n                    \n                  ",
       "url": "/6192385/pregnant-covid-19-vaccine-timing-when-to-get/"
-    },
-    {
-      "text": "\n                    ",
-      "url": "/6192390/nato-expansion-risks-russia-china/"
-    },
-    {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          NATO\n                        The Risks of NATO's Rebirth\n                        \n                            charlie campbell                \n                    \n                    \n                  ",
-      "url": "/6192390/nato-expansion-risks-russia-china/"
     },
     {
       "text": "\n                    ",
@@ -1830,28 +1956,28 @@
       "url": "/6177542/abortion-supreme-court-racial-equality/"
     },
     {
-      "text": "\n                America Insists It Is Great. It Should Work on Being Decent\n              ",
-      "url": "/6190395/american-exceptionalism-guns-essay/"
+      "text": "\n                President Biden to Award Medal of Freedom to Simone Biles, John McCain and 15 Others\n              ",
+      "url": "/6193564/president-biden-to-award-medal-of-freedom-biles-mccain/"
     },
     {
-      "text": "\n                Europe's Refugee Crisis Is Going to Get Worse\n              ",
-      "url": "/6192422/europe-ukrainian-refugees/"
+      "text": "\n                Several People Dead in Copenhagen Shopping Mall: Authorities\n              ",
+      "url": "/6193556/copenhagen-mall-shooting/"
     },
     {
-      "text": "\n                Brittney Griner Case Timeline\n              ",
-      "url": "/6193324/brittney-griner-timeline-russia/"
+      "text": "\n                Russia Claims Control Over Last Ukrainian Stronghold in Luhansk Region\n              ",
+      "url": "/6193547/russia-claims-last-ukrainian-stronghold-luhansk-region/"
     },
     {
-      "text": "\n                About Those Devastating Deaths in Stranger Things Season 4\n              ",
-      "url": "/6193358/who-died-stranger-things-season-4-volume-2/"
+      "text": "\n                \u2018Minions: The Rise of Gru\u2019 Sets Box Office on Fire With $108.5 Million Debut\n              ",
+      "url": "/6193541/minions-debut-box-office/"
     },
     {
-      "text": "\n                High Gas Prices Are Discouraging Americans From Buying Cars Right Now\n              ",
-      "url": "/6193412/high-gas-prices-car-buying/"
+      "text": "\n                Texas Gunman Kills 2, and Wounds 3 Police Officers \n              ",
+      "url": "/6193531/texas-shooter-kills-2-wounds-officers/"
     },
     {
-      "text": "\n                Biden Discusses Abortion Access With Democratic Governors\n              ",
-      "url": "/6193413/biden-abortion-access-options-democratic-governors/"
+      "text": "\n                At Least 6 Killed After Alpine Glacier Chunk Strikes Hikers\n              ",
+      "url": "/6193527/four-killed-alpine-glacier-strikes-hikers/"
     },
     {
       "text": "TIME.com",
@@ -2266,9 +2392,9 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "uniq": 961901923,
+  "uniq": 1365271554,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

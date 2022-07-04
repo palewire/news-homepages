@@ -433,7 +433,7 @@
       "url": "/the_delacorte_lectures"
     }
   ],
-  "created": 1656807770,
+  "created": 1656936403,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/22/items/cjr-2022",
@@ -1752,31 +1752,157 @@
       "sha1": "d9c46a429027da4a635532d790e91d9729704921"
     },
     {
+      "name": "cjr-2022-07-02T21:26:36.703166-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656811601",
+      "size": "13800",
+      "md5": "33c66f42ba53c5e5b11386de6bcc1916",
+      "crc32": "37870612",
+      "sha1": "bd1816e4de1c6b07fe58ceb1337aee42beef4e52",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-07-02T21:26:36.703166-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656811603",
+      "size": "15081",
+      "md5": "263c42ce40eb1bacc923a04a1523f151",
+      "crc32": "90e0e7c8",
+      "sha1": "4753ba380eaba26a2984902eaa34091b1e340303",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-07-02T21:26:36.703166-04:00.jpg",
+      "source": "original",
+      "mtime": "1656811597",
+      "size": "288848",
+      "md5": "26b2e2a8113c9ded274c5ac770c4b53b",
+      "crc32": "2b6b6024",
+      "sha1": "857a0788153a82bd2734a8d96c08482128304696",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cjr-2022-07-02T21:26:36.703166-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cjr-2022-07-02T21:26:36.703166-04:00.jpg",
+      "mtime": "1656811660",
+      "size": "10336",
+      "md5": "9c05261eccff399cff928799bb4cdcdc",
+      "crc32": "7abd8398",
+      "sha1": "59d5fdc03be4f14b475c836d4984b143b20fa1d2"
+    },
+    {
+      "name": "cjr-2022-07-03T09:05:47.231345-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853550",
+      "size": "13800",
+      "md5": "33c66f42ba53c5e5b11386de6bcc1916",
+      "crc32": "37870612",
+      "sha1": "bd1816e4de1c6b07fe58ceb1337aee42beef4e52",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-07-03T09:05:47.231345-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853551",
+      "size": "15081",
+      "md5": "263c42ce40eb1bacc923a04a1523f151",
+      "crc32": "90e0e7c8",
+      "sha1": "4753ba380eaba26a2984902eaa34091b1e340303",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-07-03T09:05:47.231345-04:00.jpg",
+      "source": "original",
+      "mtime": "1656853548",
+      "size": "288848",
+      "md5": "26b2e2a8113c9ded274c5ac770c4b53b",
+      "crc32": "2b6b6024",
+      "sha1": "857a0788153a82bd2734a8d96c08482128304696",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cjr-2022-07-03T09:05:47.231345-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cjr-2022-07-03T09:05:47.231345-04:00.jpg",
+      "mtime": "1656853599",
+      "size": "10336",
+      "md5": "9c05261eccff399cff928799bb4cdcdc",
+      "crc32": "7abd8398",
+      "sha1": "59d5fdc03be4f14b475c836d4984b143b20fa1d2"
+    },
+    {
+      "name": "cjr-2022-07-03T21:27:11.970657-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898034",
+      "size": "13800",
+      "md5": "33c66f42ba53c5e5b11386de6bcc1916",
+      "crc32": "37870612",
+      "sha1": "bd1816e4de1c6b07fe58ceb1337aee42beef4e52",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-07-03T21:27:11.970657-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898036",
+      "size": "15081",
+      "md5": "263c42ce40eb1bacc923a04a1523f151",
+      "crc32": "90e0e7c8",
+      "sha1": "4753ba380eaba26a2984902eaa34091b1e340303",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-07-03T21:27:11.970657-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898033",
+      "size": "289685",
+      "md5": "b8098ee0be7445df907cfccd6216d5ee",
+      "crc32": "6c417446",
+      "sha1": "49eddb4ea2cb71ce92ff5112907cbe8397f0f11f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cjr-2022-07-03T21:27:11.970657-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cjr-2022-07-03T21:27:11.970657-04:00.jpg",
+      "mtime": "1656898084",
+      "size": "10368",
+      "md5": "6788a1f0cac36e6e7b80448cdd16b631",
+      "crc32": "fc4cb5e6",
+      "sha1": "d9c46a429027da4a635532d790e91d9729704921"
+    },
+    {
       "name": "cjr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a578c14d662ee28693bc99c45f4b7528cdf84843",
-      "mtime": "1656767386",
-      "size": "27087",
-      "md5": "9db27a61930d46d8982e644e4c37917d",
-      "crc32": "d9eccfce",
-      "sha1": "f0cdd77f5bb7d84f07e747bf782d8e30267fa1c8",
+      "btih": "342373e01663108b0bca30c79ba7e661ff3fc289",
+      "mtime": "1656898091",
+      "size": "29537",
+      "md5": "388f7c577972583d68aeeb8d9f63e10c",
+      "crc32": "df536496",
+      "sha1": "7affbbbb6593a9cb0ce3fd65adf4767e5bf42a29",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cjr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3850f070c50149f0b58666a5104741c6",
+      "md5": "0b182ec8cb7c667222945fd5a11aee14",
       "summation": "md5"
     },
     {
       "name": "cjr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656767323",
-      "size": "163840",
-      "md5": "ca953b9b82ebcde6c61c4ec3cfac2d0b",
-      "crc32": "c7575499",
-      "sha1": "c19ea36b5797b1f79b6fbe8b66ddf5c9624c9be8",
+      "mtime": "1656898039",
+      "size": "176128",
+      "md5": "3ec47d91e8775d14af8fbcb080b8c126",
+      "crc32": "46d9966a",
+      "sha1": "3307d2270232b370254834c5c68637896059fd65",
       "format": "Metadata"
     },
     {
@@ -1790,9 +1916,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 129,
-  "item_last_updated": 1656767386,
-  "item_size": 10559387,
+  "files_count": 141,
+  "item_last_updated": 1656898091,
+  "item_size": 11559189,
   "metadata": {
     "identifier": "cjr-2022",
     "collection": [
@@ -1809,10 +1935,10 @@
     "publicdate": "2022-06-24 22:53:41",
     "addeddate": "2022-06-24 22:53:41"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 1547718650,
+  "server": "ia801508.us.archive.org",
+  "uniq": 2090377049,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

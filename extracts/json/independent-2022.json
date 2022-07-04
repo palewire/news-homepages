@@ -1,5 +1,5 @@
 {
-  "created": 1656807884,
+  "created": 1656926640,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/23/items/independent-2022",
@@ -9246,31 +9246,283 @@
       "sha1": "5519133f54d1808413918ece330b7fb568bc97f6"
     },
     {
+      "name": "independent-2022-07-03T02:30:08.043949+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656811811",
+      "size": "50901",
+      "md5": "ae1786539fb63260705b6681a95f91a3",
+      "crc32": "854dd65d",
+      "sha1": "46ba2e5b003543e288a8dd080f87dd0f70854475",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-03T02:30:08.043949+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656811813",
+      "size": "55148",
+      "md5": "af0a2266433294ea8a0b2fc6931697ef",
+      "crc32": "a2e77655",
+      "sha1": "d07047574fc939b2b9d2ef5d7b4b6dcb8a0fed0f",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-03T02:30:08.043949+01:00.jpg",
+      "source": "original",
+      "mtime": "1656811809",
+      "size": "282077",
+      "md5": "552d59d89260445787ca12a5a25634f1",
+      "crc32": "8d5ab90c",
+      "sha1": "7f5fc626f79e90c35056c5debaca46f75dd8017a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent-2022-07-03T02:30:08.043949+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent-2022-07-03T02:30:08.043949+01:00.jpg",
+      "mtime": "1656811871",
+      "size": "9794",
+      "md5": "7c41f9c20a47c5a871d762a48fd561bf",
+      "crc32": "15f497d5",
+      "sha1": "032726aee7ed873f11e56abe763471d30d168caa"
+    },
+    {
+      "name": "independent-2022-07-03T10:08:26.316634+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656839312",
+      "size": "50802",
+      "md5": "bb91e31d6189aa0260afffae7ffdb2f8",
+      "crc32": "a1a0d5d3",
+      "sha1": "f7157b94c73b103df8aadb9d708aaa2892667fff",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-03T10:08:26.316634+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656839314",
+      "size": "54538",
+      "md5": "111b8977aca1894b0110f7dfa9627d66",
+      "crc32": "857d9037",
+      "sha1": "df967f1832bfbc1c3df90952d1bd31d6b0d8df0b",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-03T10:08:26.316634+01:00.jpg",
+      "source": "original",
+      "mtime": "1656839311",
+      "size": "282125",
+      "md5": "4d13e0149f861bd285aa6155f3021343",
+      "crc32": "e3c5de54",
+      "sha1": "3551b6ba6217fdfd65e57605c8d0538953faef36",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent-2022-07-03T10:08:26.316634+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent-2022-07-03T10:08:26.316634+01:00.jpg",
+      "mtime": "1656839372",
+      "size": "9771",
+      "md5": "4ce22834be9c9633c749de547605c280",
+      "crc32": "c66834d3",
+      "sha1": "12a8ad52b74b24074bf031f51be13fd73d6d4eee"
+    },
+    {
+      "name": "independent-2022-07-03T14:08:26.894020+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853713",
+      "size": "50719",
+      "md5": "af39bbb1d4f117429c40f93755c9f6dd",
+      "crc32": "b7083cd1",
+      "sha1": "ba4677854070b80ffd1524aa5a2054add51c835b",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-03T14:08:26.894020+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853714",
+      "size": "54243",
+      "md5": "8df505451f0016ec42981858ab44abc3",
+      "crc32": "90309a09",
+      "sha1": "8456bf08f9f1e3c2273ece34a6fd1fecc0e35843",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-03T14:08:26.894020+01:00.jpg",
+      "source": "original",
+      "mtime": "1656853711",
+      "size": "286425",
+      "md5": "8f102847cff925befd584837a3709e7d",
+      "crc32": "92dce231",
+      "sha1": "d7314d3f0d25c758ff74839ee8f4c823b6a32fa1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent-2022-07-03T14:08:26.894020+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent-2022-07-03T14:08:26.894020+01:00.jpg",
+      "mtime": "1656853774",
+      "size": "9753",
+      "md5": "ffc47ba277488d81eaeaf0429c5d6e99",
+      "crc32": "35650c55",
+      "sha1": "45a87e691a2fe782353546f8db9ee5080752bd2e"
+    },
+    {
+      "name": "independent-2022-07-03T17:09:01.290792+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656864545",
+      "size": "50612",
+      "md5": "e66bbb66df708b8b3ab20acda40aa3e5",
+      "crc32": "92585c25",
+      "sha1": "c921b67c9a468f9a8318d8b79116df1f06566fcf",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-03T17:09:01.290792+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656864547",
+      "size": "53683",
+      "md5": "f69413d703700ba8a2eb1dad969ee2f5",
+      "crc32": "28f6d89b",
+      "sha1": "c3757af7e756e6b5ac1cd37d0be6a8936af89745",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-03T17:09:01.290792+01:00.jpg",
+      "source": "original",
+      "mtime": "1656864543",
+      "size": "289710",
+      "md5": "40327fe32d97e6b4444442be7d210dfd",
+      "crc32": "188e616d",
+      "sha1": "b8d449137ced2aebbbc4338e1bd91a2d60767a63",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent-2022-07-03T17:09:01.290792+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent-2022-07-03T17:09:01.290792+01:00.jpg",
+      "mtime": "1656864607",
+      "size": "9813",
+      "md5": "11e72b647ab1aeedd06c486ab74a48d7",
+      "crc32": "53e7c26d",
+      "sha1": "2e78b2f3e539afbea75f944f01876f7459312406"
+    },
+    {
+      "name": "independent-2022-07-04T02:29:15.089285+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898158",
+      "size": "50874",
+      "md5": "2d5c87f2cb5b4c90355bbfd89135dc79",
+      "crc32": "46879ea7",
+      "sha1": "3eba229234ea11fe41b47208688827071883a958",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-04T02:29:15.089285+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898160",
+      "size": "54185",
+      "md5": "004b7d1f434fe2bd0077deeb3220c5e8",
+      "crc32": "9e523d9f",
+      "sha1": "edb4495285d47bfa6ad6b848e1de9fbb250422d7",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-04T02:29:15.089285+01:00.jpg",
+      "source": "original",
+      "mtime": "1656898156",
+      "size": "317320",
+      "md5": "cce56259747b5eb34454ac4131b24185",
+      "crc32": "550d87be",
+      "sha1": "bb92e9ec0c10f966554685b1aa0d85b9efc3e3bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent-2022-07-04T02:29:15.089285+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent-2022-07-04T02:29:15.089285+01:00.jpg",
+      "mtime": "1656898216",
+      "size": "9892",
+      "md5": "40eff971ff249c645be8de29c3d2f69f",
+      "crc32": "d4c80134",
+      "sha1": "c7d5e5eec9424d5f567a5693ae112a08c5d90209"
+    },
+    {
+      "name": "independent-2022-07-04T10:21:08.423762+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656926476",
+      "size": "50465",
+      "md5": "e549cfdbb1a23002ca5901942ef47cd8",
+      "crc32": "253fdc99",
+      "sha1": "6b17f1940e091f6cd74b72b5b17fcac411a00687",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-04T10:21:08.423762+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656926478",
+      "size": "53951",
+      "md5": "d851f96bffac2f1ee24520c12214cbcb",
+      "crc32": "70f43dd1",
+      "sha1": "72e86e9eb6e04446983ee4b8c5a3c4d197ac5f5e",
+      "format": "JSON"
+    },
+    {
+      "name": "independent-2022-07-04T10:21:08.423762+01:00.jpg",
+      "source": "original",
+      "mtime": "1656926474",
+      "size": "308007",
+      "md5": "760c0712a4ae7f2c277027533f8dbbb9",
+      "crc32": "7104db6c",
+      "sha1": "6adc355eb2e92bca28089177f415fa295921a322",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent-2022-07-04T10:21:08.423762+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent-2022-07-04T10:21:08.423762+01:00.jpg",
+      "mtime": "1656926583",
+      "size": "9834",
+      "md5": "504abc4e62af46f8a38e7b78f59c449c",
+      "crc32": "4b9e1a09",
+      "sha1": "106aefc75cb0d09a45c9bbf16e9ef3c668f83b95"
+    },
+    {
       "name": "independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "309e8b6f69ff0f9d890ba32f0321927841d0600d",
-      "mtime": "1656778267",
-      "size": "189724",
-      "md5": "ad398c5f9ff77840bd6aff30a1364999",
-      "crc32": "0c69a40b",
-      "sha1": "7f41dd54304c216b1835c44e9921cede1f9db0a9",
+      "btih": "a6d77f8d501bb85f2852348bbcf93266f4ff703f",
+      "mtime": "1656926600",
+      "size": "194850",
+      "md5": "2956b66ee3ff63b87b47566c8c3e446e",
+      "crc32": "c417e2da",
+      "sha1": "78277f9c01d7ea8b44ce730b959c209840cd44d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47942e73f50c2069dc9c9c8053157ae6",
+      "md5": "40b7aa5478e3eb1859d3d3998caea89d",
       "summation": "md5"
     },
     {
       "name": "independent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656778195",
-      "size": "1015808",
-      "md5": "07a07e3c89ae039fdb89cdb7dbef5f31",
-      "crc32": "0f9e29ae",
-      "sha1": "49d9c90f439f7419ca9d9fc4026909f3685e6478",
+      "mtime": "1656926483",
+      "size": "1044480",
+      "md5": "a064f2cc48682fd2168b6e36fa542000",
+      "crc32": "7e520832",
+      "sha1": "eea70570793733dc71765ea33e11851f5521f45d",
       "format": "Metadata"
     },
     {
@@ -9284,1843 +9536,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 883,
-  "independent-2022": [
-    {
-      "text": "Jump to content",
-      "url": "#content"
-    },
-    {
-      "text": " ",
-      "url": "/"
-    },
-    {
-      "text": "Contribute",
-      "url": "/donations?itm_channel=native&itm_campaign=top_right_contribute"
-    },
-    {
-      "text": "Subscribe",
-      "url": "/subscribe?itm_channel=native&itm_campaign=top_right_subscribe"
-    },
-    {
-      "text": "Login",
-      "url": "/login?regSourceMethod=login%20overlay"
-    },
-    {
-      "text": "Contribute",
-      "url": "/donations?itm_channel=native&itm_campaign=top_right_contribute"
-    },
-    {
-      "text": "Subscribe",
-      "url": "/subscribe?itm_channel=native&itm_campaign=top_right_subscribe"
-    },
-    {
-      "text": "Login",
-      "url": "/login?regSourceMethod=login%20overlay"
-    },
-    {
-      "text": "News",
-      "url": "/us"
-    },
-    {
-      "text": "UK",
-      "url": "/news/uk"
-    },
-    {
-      "text": "World",
-      "url": "/news/world"
-    },
-    {
-      "text": "Europe",
-      "url": "/news/world/europe"
-    },
-    {
-      "text": "Independent TV",
-      "url": "/tv/editors-picks"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/world/americas/us-politics"
-    },
-    {
-      "text": "Climate",
-      "url": "/climate-change"
-    },
-    {
-      "text": "SGI",
-      "url": "/climate-change/sgi"
-    },
-    {
-      "text": "COP26",
-      "url": "/topic/cop26"
-    },
-    {
-      "text": "Climate Voices",
-      "url": "/climate-change/opinion"
-    },
-    {
-      "text": "Climate News",
-      "url": "/climate-change/news"
-    },
-    {
-      "text": "Climate Life",
-      "url": "/climate-change/sustainable-living"
-    },
-    {
-      "text": "Voices",
-      "url": "/us/voices"
-    },
-    {
-      "text": "Mary Dejevsky",
-      "url": "/author/mary-dejevsky"
-    },
-    {
-      "text": "Indy100",
-      "url": "https://www.indy100.com"
-    },
-    {
-      "text": "Sport",
-      "url": "/sport"
-    },
-    {
-      "text": "US sports",
-      "url": "/sport/us-sport"
-    },
-    {
-      "text": "Soccer",
-      "url": "/sport/football"
-    },
-    {
-      "text": "Tennis",
-      "url": "/sport/tennis"
-    },
-    {
-      "text": "Boxing",
-      "url": "/sport/general/boxing"
-    },
-    {
-      "text": "Formula 1",
-      "url": "/sport/motor-racing"
-    },
-    {
-      "text": "UFC",
-      "url": "/sport/ufc"
-    },
-    {
-      "text": "Culture",
-      "url": "/arts-entertainment"
-    },
-    {
-      "text": "Film",
-      "url": "/arts-entertainment/films"
-    },
-    {
-      "text": "TV",
-      "url": "/arts-entertainment/tv"
-    },
-    {
-      "text": "Music",
-      "url": "/arts-entertainment/music"
-    },
-    {
-      "text": "Books",
-      "url": "/arts-entertainment/books"
-    },
-    {
-      "text": "Crosswords & Puzzles",
-      "url": "https://puzzles.independent.co.uk/?utm_campaign=navbar&utm_medium=nav&utm_source=navpuzzles"
-    },
-    {
-      "text": "Travel",
-      "url": "/travel"
-    },
-    {
-      "text": "indy/life",
-      "url": "/life-style"
-    },
-    {
-      "text": "Fashion & Beauty",
-      "url": "/life-style/fashion"
-    },
-    {
-      "text": "Tech",
-      "url": "/tech"
-    },
-    {
-      "text": "Food & Drink",
-      "url": "/life-style/food-and-drink"
-    },
-    {
-      "text": "Travel",
-      "url": "/travel"
-    },
-    {
-      "text": "Health & Fitness",
-      "url": "/life-style/health-and-families"
-    },
-    {
-      "text": "Love & relationships",
-      "url": "/life-style/love-sex"
-    },
-    {
-      "text": "IndyBest",
-      "url": "/extras/indybest/us"
-    },
-    {
-      "text": "My Independent ",
-      "url": "/my-independent"
-    },
-    {
-      "text": "Most commented",
-      "url": "/comments"
-    },
-    {
-      "text": "Ask Me Anything",
-      "url": "/ask-me-anything"
-    },
-    {
-      "text": "Virtual Events",
-      "url": "/virtual-events"
-    },
-    {
-      "text": "Independent Newsletters",
-      "url": "/independent-newsletters"
-    },
-    {
-      "text": "Competitions",
-      "url": "https://www.independent.co.uk/competitions"
-    },
-    {
-      "text": "UK Edition",
-      "url": "/"
-    },
-    {
-      "text": "US Edition",
-      "url": "/us"
-    },
-    {
-      "text": "Asia Edition",
-      "url": "/asia"
-    },
-    {
-      "text": "Edici\u00f3n en Espa\u00f1ol",
-      "url": "https://www.independentespanol.com/"
-    },
-    {
-      "text": "\u00d7",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "Richard Hall",
-      "url": "/author/richard-hall"
-    },
-    {
-      "text": "Here\u2019s what is missing in the response to the San Antonio tragedy",
-      "url": "/voices/san-antonio-migrant-deaths-border-iraq-b2114163.html"
-    },
-    {
-      "text": "Skylar Baker-Jordan",
-      "url": "/author/skylar-baker-jordan"
-    },
-    {
-      "text": "This July 4th, I\u2019m not proud to be an American. But I do have a plan",
-      "url": "/voices/july-4th-american-supreme-court-protests-b2114158.html"
-    },
-    {
-      "text": "David Callaway",
-      "url": "/author/david-callaway"
-    },
-    {
-      "text": "The US decision on climate is so ruthless, big business don\u2019t want it",
-      "url": "/climate-change/opinion/us-supreme-court-epa-climate-decision-b2113584.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/texas-supreme-court-abortion-ban-b2114457.html"
-    },
-    {
-      "text": "Texas Supreme Court allows abortion ban to go into effect",
-      "url": "/news/world/americas/texas-supreme-court-abortion-ban-b2114457.html"
-    },
-    {
-      "text": "Roe v Wade forces Europe to look at its own abortion laws",
-      "url": "/independentpremium/world/roe-wade-abortion-europe-laws-b2113827.html"
-    },
-    {
-      "text": "Women outside the Supreme Court say America betrayed them with Roe",
-      "url": "/news/world/americas/supreme-court-women-rights-abortion-b2114398.html"
-    },
-    {
-      "text": "Medication abortion is common; here's how it works",
-      "url": "/news/ap-supreme-court-food-and-drug-administration-side-effects-justice-department-b2114397.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/new-york-azsia-johnson-murder-b2114293.html"
-    },
-    {
-      "text": "US Crime News",
-      "url": "/news/world/americas/crime"
-    },
-    {
-      "text": "Ex-boyfriend charged with murder of woman shot dead on New York street",
-      "url": "/news/world/americas/crime/new-york-azsia-johnson-murder-b2114293.html"
-    },
-    {
-      "text": "Azsia Johnson\u2019s heartbroken mother says \u2018police failed my daughter\u2019 ",
-      "url": "/news/world/americas/crime/azsia-johnson-new-york-shooting-domestic-violence-b2113836.html"
-    },
-    {
-      "text": "Azsia Johnson named as mother shot dead on Upper East Side",
-      "url": "/news/world/americas/crime/mother-upper-east-side-shooting-azsia-johnson-b2113262.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/brittney-griner-russia-detained-wnba-wife-b2113753.html"
-    },
-    {
-      "text": "Brittney Griner\u2019s first hearing adjourned as Biden begged to cut deal with Russia",
-      "url": "/news/world/americas/brittney-griner-russia-detained-wnba-wife-b2113753.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/minnesota-vadnais-child-dead-homicide-b2114411.html"
-    },
-    {
-      "text": "US Crime News",
-      "url": "/news/world/americas/crime"
-    },
-    {
-      "text": "\u2018Potential triple homicide\u2019 after bodies of two children found in lake",
-      "url": "/news/world/americas/crime/minnesota-vadnais-child-dead-homicide-b2114411.html"
-    },
-    {
-      "text": "",
-      "url": "/tech/facebook-mark-zuckerberg-meta-economy-b2114385.html"
-    },
-    {
-      "text": "Tech",
-      "url": "/tech"
-    },
-    {
-      "text": "Facebook founder Mark Zuckerberg delivers harsh message to employees",
-      "url": "/tech/facebook-mark-zuckerberg-meta-economy-b2114385.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/donald-trump-campaign-2024-july-b2114433.html"
-    },
-    {
-      "text": "US politics",
-      "url": "/news/world/americas/us-politics"
-    },
-    {
-      "text": "Trump may launch surprise bid for White House as soon as this month",
-      "url": "/news/world/americas/us-politics/donald-trump-campaign-2024-july-b2114433.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/rugby/rugby-union/wales-south-africa-live-stream-score-result-b2114349.html"
-    },
-    {
-      "text": "Rugby Union",
-      "url": "/sport/rugby/rugby-union"
-    },
-    {
-      "text": "South Africa v Wales LIVE rugby: Latest score updates from first Test",
-      "url": "/sport/rugby/rugby-union/wales-south-africa-live-stream-score-result-b2114349.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/simone-biles-megan-rapinoe-presidential-medal-freedom-b2113950.html"
-    },
-    {
-      "text": "Simone Biles and Megan Rapinoe receive Presidential Medal of Freedom",
-      "url": "/life-style/simone-biles-megan-rapinoe-presidential-medal-freedom-b2113950.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/new-york-guns-public-places-b2114246.html"
-    },
-    {
-      "text": "US politics",
-      "url": "/news/world/americas/us-politics"
-    },
-    {
-      "text": "New York lawmakers block concealed weapons in many public places",
-      "url": "/news/world/americas/us-politics/new-york-guns-public-places-b2114246.html"
-    },
-    {
-      "text": "",
-      "url": "/news/uk/home-news/british-airways-heathrow-flight-cancelled-b2114400.html"
-    },
-    {
-      "text": "More flight disruption due as airline deadline for cancellations looms",
-      "url": "/news/uk/home-news/british-airways-heathrow-flight-cancelled-b2114400.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/supreme-court-abortion-second-amendment-b2114221.html"
-    },
-    {
-      "text": "US politics",
-      "url": "/news/world/americas/us-politics"
-    },
-    {
-      "text": "The Supreme Court ends its term with a streak of devastating rulings",
-      "url": "/news/world/americas/us-politics/supreme-court-abortion-second-amendment-b2114221.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/amtrak-derailment-missouri-truck-lawsuit-b2113981.html"
-    },
-    {
-      "text": "Amtrak sues owner of truck hit in fatal Missouri derailment",
-      "url": "/news/world/americas/amtrak-derailment-missouri-truck-lawsuit-b2113981.html"
-    },
-    {
-      "text": "US Crime News",
-      "url": "/news/world/americas/crime"
-    },
-    {
-      "text": "How cyclist\u2019s alleged killer evaded bungling officials for seven weeks",
-      "url": "/news/world/americas/crime/kaitlin-armstrong-costa-rica-cyclist-murder-b2113874.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/kaitlin-armstrong-costa-rica-cyclist-murder-b2113874.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/kaitlin-armstrong-costa-rica-cyclist-murder-b2113874.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/florida-dont-say-gay-critical-race-theory-b2114088.html"
-    },
-    {
-      "text": "Why Florida teachers are bracing for \u2018straight-up indoctrination\u2019",
-      "url": "/news/world/americas/us-politics/florida-dont-say-gay-critical-race-theory-b2114088.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/fashion/beyonce-renaissance-album-cover-naked-b2113934.html"
-    },
-    {
-      "text": "Fashion",
-      "url": "/life-style/fashion"
-    },
-    {
-      "text": "Fans react to Beyonc\u00e9\u2019s almost naked cover of new album Renaissance",
-      "url": "/life-style/fashion/beyonce-renaissance-album-cover-naked-b2113934.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/myth-violence-roe-v-wade-supreme-court-b2110634.html"
-    },
-    {
-      "text": "What happened to the Roe v Wade \u2018night of rage\u2019?",
-      "url": "/news/world/americas/us-politics/myth-violence-roe-v-wade-supreme-court-b2110634.html"
-    },
-    {
-      "text": "Trump may launch 2024 bid soon as reports back up Secret Service altercation",
-      "url": "/news/world/americas/us-politics/trump-news-jan-6-hearings-cassidy-hutchinson-b2113509.html"
-    },
-    {
-      "text": "Will Cassidy Hutchinson testimony lead to criminal charges for Trump?",
-      "url": "/news/world/americas/us-politics/donald-trump-charges-cassidy-hutchinson-b2113144.html"
-    },
-    {
-      "text": "Cheney says Trump trying to \u2018unravel\u2019 US rule of law",
-      "url": "/news/world/americas/us-politics/liz-cheney-trump-domestic-threat-b2112988.html"
-    },
-    {
-      "text": "Trump: Cassidy Hutchinson \u2018living in fantasy land\u2019",
-      "url": "/news/world/americas/us-politics/trump-cassidy-hutchinson-newsmax-interview-b2113089.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/trump-news-jan-6-hearings-cassidy-hutchinson-b2113509.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/trump-news-jan-6-hearings-cassidy-hutchinson-b2113509.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/trump-secret-service-hutchinson-testimony-b2114153.html"
-    },
-    {
-      "text": "Cassidy Hutchinson\u2019s account of Trump fight with bodyguards confirmed",
-      "url": "/news/world/americas/us-politics/trump-secret-service-hutchinson-testimony-b2114153.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/donald-trump-steering-wheel-jan-6-b2114092.html"
-    },
-    {
-      "text": "Twitter users claim footage shows Trump trying to grab steering wheel",
-      "url": "/news/world/americas/us-politics/donald-trump-steering-wheel-jan-6-b2114092.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/republican-donors-trump-desantis-b2114146.html"
-    },
-    {
-      "text": "US politics",
-      "url": "/news/world/americas/us-politics"
-    },
-    {
-      "text": "Republican donors look for alternatives to Trump amid damning evidence",
-      "url": "/news/world/americas/us-politics/republican-donors-trump-desantis-b2114146.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/shane-vaughn-cassidy-hutchinson-trump-b2113916.html"
-    },
-    {
-      "text": "Trump cultist MAGA pastor calls Cassidy Hutchinson a \u2018lying witch\u2019",
-      "url": "/news/world/americas/us-politics/shane-vaughn-cassidy-hutchinson-trump-b2113916.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/proud-boys-drag-show-california-b2114106.html"
-    },
-    {
-      "text": "Alleged Proud Boys pepper sprayed while trying to attack drag show",
-      "url": "/news/world/americas/proud-boys-drag-show-california-b2114106.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/text-messages-san-antonio-migrant-truck-b2114201.html"
-    },
-    {
-      "text": "Complaint details texts in San Antonio migrant truck disaster buildup",
-      "url": "/news/world/americas/text-messages-san-antonio-migrant-truck-b2114201.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/r-kelly-suicide-watch-prison-b2114136.html"
-    },
-    {
-      "text": "US Crime News",
-      "url": "/news/world/americas/crime"
-    },
-    {
-      "text": "R Kelly placed on suicide watch after sentencing, lawyer says",
-      "url": "/news/world/americas/crime/r-kelly-suicide-watch-prison-b2114136.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/rupert-murdoch-divorce-jerry-hall-b2114184.html"
-    },
-    {
-      "text": "Supermodel Jerry Hall cites \u2018irreconcilable differences\u2019 in Murdoch divorce",
-      "url": "/news/world/americas/rupert-murdoch-divorce-jerry-hall-b2114184.html"
-    },
-    {
-      "text": "",
-      "url": "/climate-change/news/fireworks-july-environment-pollution-fire-b2114193.html"
-    },
-    {
-      "text": "News",
-      "url": "/climate-change/news"
-    },
-    {
-      "text": "Are fireworks bad for the environment? What to know",
-      "url": "/climate-change/news/fireworks-july-environment-pollution-fire-b2114193.html"
-    },
-    {
-      "text": "",
-      "url": "/climate-change/news/tire-deflate-nyc-protest-b2114042.html"
-    },
-    {
-      "text": "News",
-      "url": "/climate-change/news"
-    },
-    {
-      "text": "Tyre Extinguishers claim to \u2018disarm\u2019 40 SUVs in NYC climate protest",
-      "url": "/climate-change/news/tire-deflate-nyc-protest-b2114042.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/ramiro-gonzales-death-row-kidney-b2114222.html"
-    },
-    {
-      "text": "US Crime News",
-      "url": "/news/world/americas/crime"
-    },
-    {
-      "text": "Texas death row prisoner asks for execution reprieve to donate kidney",
-      "url": "/news/world/americas/crime/ramiro-gonzales-death-row-kidney-b2114222.html"
-    },
-    {
-      "text": "",
-      "url": "/climate-change/news/biden-oil-drilling-gulf-alaska-b2114209.html"
-    },
-    {
-      "text": "News",
-      "url": "/climate-change/news"
-    },
-    {
-      "text": "Environmentalists hit out as Biden sneaks news of potential drilling",
-      "url": "/climate-change/news/biden-oil-drilling-gulf-alaska-b2114209.html"
-    },
-    {
-      "text": "US Crime News",
-      "url": "/news/world/americas/crime"
-    },
-    {
-      "text": "A look inside Ghislaine Maxwell\u2019s \u2018Disneyland\u2019 prison",
-      "url": "/news/world/americas/crime/ghislaine-maxwell-fci-danbury-disneyland-b2113375.html"
-    },
-    {
-      "text": "Why did R Kelly get a longer sentence than Ghislaine Maxwell?",
-      "url": "/news/world/americas/r-kelly-sentence-ghislaine-maxwell-sex-trafficking-b2113216.html"
-    },
-    {
-      "text": "Ghislaine Maxwell: The Epstein associate guilty of sex trafficking",
-      "url": "/news/world/americas/ghislaine-maxwell-sentence-who-jeffrey-epstein-b2110909.html"
-    },
-    {
-      "text": "Lawyer for Epstein victims says Maxwell sentencing a \u2018monumental day\u2019",
-      "url": "/tv/news/ghislaine-maxwell-sentencing-jeffrey-epstein-b2112095.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/ghislaine-maxwell-fci-danbury-disneyland-b2113375.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/ghislaine-maxwell-fci-danbury-disneyland-b2113375.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/lgbt-gun-owners-hate-crimes-b2111974.html"
-    },
-    {
-      "text": "Why some LGBT+ Americans are turning to guns amid rising hatred",
-      "url": "/news/world/americas/us-politics/lgbt-gun-owners-hate-crimes-b2111974.html"
-    },
-    {
-      "text": "",
-      "url": "/climate-change/machu-picchu-peru-fire-threat-b2113688.html"
-    },
-    {
-      "text": "Machu Picchu: Ancient city \u2018threatened\u2019 by wildfire in Peru ",
-      "url": "/climate-change/machu-picchu-peru-fire-threat-b2113688.html"
-    },
-    {
-      "text": "",
-      "url": "/travel/news-and-advice/covid-wave-flight-cancelled-airline-staff-b2113810.html"
-    },
-    {
-      "text": "News & Advice",
-      "url": "/travel/news-and-advice"
-    },
-    {
-      "text": "Is new Covid wave causing flight cancellations?",
-      "url": "/travel/news-and-advice/covid-wave-flight-cancelled-airline-staff-b2113810.html"
-    },
-    {
-      "text": "Tokata Iron Eyes\u2019 parents on Ezra Miller\u2019s cult-like control",
-      "url": "/news/world/americas/ezra-miller-tokata-iron-eyes-parents-cult-b2112404.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/ezra-miller-tokata-iron-eyes-parents-cult-b2112404.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/ezra-miller-tokata-iron-eyes-parents-cult-b2112404.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/films/news/chris-pratt-terminal-list-james-gunn-b2113652.html"
-    },
-    {
-      "text": "News",
-      "url": "/arts-entertainment/films/news"
-    },
-    {
-      "text": "James Gunn defends Chris Pratt as backlash against actor continues",
-      "url": "/arts-entertainment/films/news/chris-pratt-terminal-list-james-gunn-b2113652.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/trans-history-underground-sugical-clinic-b2110589.html"
-    },
-    {
-      "text": "\u2018Never ask permission\u2019: How two trans women ran a legendary underground surgical clinic in a rural tractor barn",
-      "url": "/news/world/americas/trans-history-underground-sugical-clinic-b2110589.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/fashion/best-fashion-style-wimbledon-2022-b2113841.html"
-    },
-    {
-      "text": "Fashion",
-      "url": "/life-style/fashion"
-    },
-    {
-      "text": "The best style moments from Wimbledon 2022",
-      "url": "/life-style/fashion/best-fashion-style-wimbledon-2022-b2113841.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/shark-bite-swimmer-long-island-b2114189.html"
-    },
-    {
-      "text": "Police say swimmer may have suffered shark bite off Long Island beach",
-      "url": "/news/world/americas/shark-bite-swimmer-long-island-b2114189.html"
-    },
-    {
-      "text": "",
-      "url": "/news/uk/politics/boris-johnson-carrie-conor-burns-b2113988.html"
-    },
-    {
-      "text": "UK Politics",
-      "url": "/news/uk/politics"
-    },
-    {
-      "text": "MP who walked in on Boris and Carrie in \u2018compromising situation\u2019 named",
-      "url": "/news/uk/politics/boris-johnson-carrie-conor-burns-b2113988.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/richest-lose-billions-musk-bezos-b2114109.html"
-    },
-    {
-      "text": "World\u2019s richest lost $1.4 trillion in the first half of 2022",
-      "url": "/news/world/americas/richest-lose-billions-musk-bezos-b2114109.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/fugitive-parents-arrested-appalachian-trail-b2113994.html"
-    },
-    {
-      "text": "US Crime News",
-      "url": "/news/world/americas/crime"
-    },
-    {
-      "text": "Parents whose child died in house fire arrested after weeks on the run",
-      "url": "/news/world/americas/crime/fugitive-parents-arrested-appalachian-trail-b2113994.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/visitor-gore-bison-yellowstone-park-b2114202.html"
-    },
-    {
-      "text": "Second person gored by bison at Yellowstone national park",
-      "url": "/news/world/americas/visitor-gore-bison-yellowstone-park-b2114202.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/new-york-teenager-hate-crimes-stabbed-b2114043.html"
-    },
-    {
-      "text": "US Crime News",
-      "url": "/news/world/americas/crime"
-    },
-    {
-      "text": "New York teenager accused of perpetrating hate crimes stabbed to death",
-      "url": "/news/world/americas/crime/new-york-teenager-hate-crimes-stabbed-b2114043.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/tv/news/jon-stewart-supreme-court-fox-news-justice-b2114113.html"
-    },
-    {
-      "text": "News",
-      "url": "/arts-entertainment/tv/news"
-    },
-    {
-      "text": "Jon Stewart says \u2018Supreme Court is now the Fox News of justice\u2019",
-      "url": "/arts-entertainment/tv/news/jon-stewart-supreme-court-fox-news-justice-b2114113.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/florida-girl-saved-shark-attack-b2113908.html"
-    },
-    {
-      "text": "Teen loses part of her leg in horrific shark attack on Florida beach",
-      "url": "/news/world/americas/florida-girl-saved-shark-attack-b2113908.html"
-    },
-    {
-      "text": "The enduring mystery of the three missing men of Alcatraz",
-      "url": "/news/world/americas/alcatraz-escape-anglin-john-clarence-b2110551.html"
-    },
-    {
-      "text": "Trio who escaped Alcatraz in 1960s and could still be alive: photos",
-      "url": "/news/world/americas/alcatraz-escape-san-francisco-sketch-b2105545.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/alcatraz-escape-anglin-john-clarence-b2110551.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/alcatraz-escape-anglin-john-clarence-b2110551.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/films/news/stephen-king-book-twitter-transformers-b2113517.html"
-    },
-    {
-      "text": "News",
-      "url": "/arts-entertainment/films/news"
-    },
-    {
-      "text": "Stephen King names the \u2018only film\u2019 he\u2019s ever \u2018walked out of\u2019",
-      "url": "/arts-entertainment/films/news/stephen-king-book-twitter-transformers-b2113517.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/aoc-biden-filibuster-abortion-roe-b2112978.html"
-    },
-    {
-      "text": "US politics",
-      "url": "/news/world/americas/us-politics"
-    },
-    {
-      "text": "AOC praises Biden saying he\u2019d support filibuster change for abortion",
-      "url": "/news/world/americas/us-politics/aoc-biden-filibuster-abortion-roe-b2112978.html"
-    },
-    {
-      "text": "",
-      "url": "/space/gamma-ray-bursts-wobble-b2113378.html"
-    },
-    {
-      "text": "Space",
-      "url": "/space"
-    },
-    {
-      "text": "How wobbling black holes explain blinking cosmic lights ",
-      "url": "/space/gamma-ray-bursts-wobble-b2113378.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/biden-presidential-medal-freedom-list-b2114059.html"
-    },
-    {
-      "text": "US politics",
-      "url": "/news/world/americas/us-politics"
-    },
-    {
-      "text": "Who\u2019s on Biden\u2019s presidential medal of freedom list?",
-      "url": "/news/world/americas/us-politics/biden-presidential-medal-freedom-list-b2114059.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/europe/bezos-superyacht-bridge-rotterdam-holland-b2114110.html"
-    },
-    {
-      "text": "Europe",
-      "url": "/news/world/europe"
-    },
-    {
-      "text": "Bezos\u2019 superyacht stuck after firm decides against dismantling bridge",
-      "url": "/news/world/europe/bezos-superyacht-bridge-rotterdam-holland-b2114110.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/europe/ukraine-war-russia-attack-nato-snake-island-b2113676.html"
-    },
-    {
-      "text": "Europe",
-      "url": "/news/world/europe"
-    },
-    {
-      "text": "Russia accused of dropping phosphorus bombs on Snake Island",
-      "url": "/news/world/europe/ukraine-war-russia-attack-nato-snake-island-b2113676.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/jaylon-ferguson-baltimore-ravens-death-fentanyl-b2114165.html"
-    },
-    {
-      "text": "NFL linebacker found to have died from effects of cocaine, fentanyl",
-      "url": "/news/world/americas/jaylon-ferguson-baltimore-ravens-death-fentanyl-b2114165.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/crime/miles-bridges-mychelle-johnson-nba-b2113821.html"
-    },
-    {
-      "text": "US Crime News",
-      "url": "/news/world/americas/crime"
-    },
-    {
-      "text": "NBA player\u2019s wife posts photos of injuries after he turns himself in",
-      "url": "/news/world/americas/crime/miles-bridges-mychelle-johnson-nba-b2113821.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/trump-sweden-trade-war-asap-b2113845.html"
-    },
-    {
-      "text": "Americas",
-      "url": "/news/world/americas"
-    },
-    {
-      "text": "Trump threatened Sweden with a trade war to release ASAP Rocky",
-      "url": "/news/world/americas/trump-sweden-trade-war-asap-b2113845.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/ted-cruz-bahamas-flight-cancun-b2113969.html"
-    },
-    {
-      "text": "Ted Cruz confirms he went on vacation amid Texas weather crisis ",
-      "url": "/news/world/americas/ted-cruz-bahamas-flight-cancun-b2113969.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/us-politics/blake-masters-trump-gop-senate-endorsement-b2114028.html"
-    },
-    {
-      "text": "US politics",
-      "url": "/news/world/americas/us-politics"
-    },
-    {
-      "text": "Blake Masters picks up endorsement from neo-Nazi publisher",
-      "url": "/news/world/americas/us-politics/blake-masters-trump-gop-senate-endorsement-b2114028.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/films/news/lena-headey-thor-love-and-thunder-sued-b2113374.html"
-    },
-    {
-      "text": "News",
-      "url": "/arts-entertainment/films/news"
-    },
-    {
-      "text": "Lena Headey being sued for axed Thor: Love and Thunder role and more",
-      "url": "/arts-entertainment/films/news/lena-headey-thor-love-and-thunder-sued-b2113374.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/americas/texas-trailer-migrant-victims-everything-b2113180.html"
-    },
-    {
-      "text": "Everything we know about the victims of the Texas migrant truck",
-      "url": "/news/world/americas/texas-trailer-migrant-victims-everything-b2113180.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/music/features/the-prodigy-fat-of-the-land-album-b2112341.html"
-    },
-    {
-      "text": "Features",
-      "url": "/arts-entertainment/music/features"
-    },
-    {
-      "text": "How The Prodigy\u2019s The Fat of the Land fell out of favour",
-      "url": "/arts-entertainment/music/features/the-prodigy-fat-of-the-land-album-b2112341.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/royal-family/the-princess-diana-documentary-film-b2113751.html"
-    },
-    {
-      "text": "Royal Family",
-      "url": "/life-style/royal-family"
-    },
-    {
-      "text": "Did Princess Diana make Britain go mad? ",
-      "url": "/life-style/royal-family/the-princess-diana-documentary-film-b2113751.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/music/reviews/wolf-alice-review-glastonbury-2022-b2108603.html"
-    },
-    {
-      "text": "Reviews",
-      "url": "/arts-entertainment/music/reviews"
-    },
-    {
-      "text": "Wolf Alice call on their reserves after almost missing Glastonbury",
-      "url": "/arts-entertainment/music/reviews/wolf-alice-review-glastonbury-2022-b2108603.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/tv/news/heartstopper-pride-london-joe-locke-b2114436.html"
-    },
-    {
-      "text": "News",
-      "url": "/arts-entertainment/tv/news"
-    },
-    {
-      "text": "Heartstopper stars dance by homophobic protesters at Pride in London",
-      "url": "/arts-entertainment/tv/news/heartstopper-pride-london-joe-locke-b2114436.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/tv/news/hugo-speer-full-monty-sacked-disney-plus-b2114376.html"
-    },
-    {
-      "text": "News",
-      "url": "/arts-entertainment/tv/news"
-    },
-    {
-      "text": "Hugo Speer sacked from Full Monty after \u2018inappropriate conduct\u2019 claims",
-      "url": "/arts-entertainment/tv/news/hugo-speer-full-monty-sacked-disney-plus-b2114376.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/music/news/joey-kramer-wife-linda-death-b2114388.html"
-    },
-    {
-      "text": "News",
-      "url": "/arts-entertainment/music/news"
-    },
-    {
-      "text": "Aerosmith drummer Joey Kramer\u2019s wife of 13 years Linda dies aged 55",
-      "url": "/arts-entertainment/music/news/joey-kramer-wife-linda-death-b2114388.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/music/music-magazine/live-music/live-reviews/adele-hyde-park-bst-review-b2114312.html"
-    },
-    {
-      "text": "Live Reviews",
-      "url": "/arts-entertainment/music/music-magazine/live-music/live-reviews"
-    },
-    {
-      "text": "Adele\u2019s vocal ability and charm remain unmatched at BST Hyde Park",
-      "url": "/arts-entertainment/music/music-magazine/live-music/live-reviews/adele-hyde-park-bst-review-b2114312.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/music/news/rihanna-asap-rocky-crystal-palace-wireless-b2114356.html"
-    },
-    {
-      "text": "News",
-      "url": "/arts-entertainment/music/news"
-    },
-    {
-      "text": "Rihanna shocks fans as she and A$AP Rocky visit Crystal Palace barbers",
-      "url": "/arts-entertainment/music/news/rihanna-asap-rocky-crystal-palace-wireless-b2114356.html"
-    },
-    {
-      "text": "",
-      "url": "/arts-entertainment/tv/news/steve-wright-radio-2-bbc-scott-mills-b2114061.html"
-    },
-    {
-      "text": "News",
-      "url": "/arts-entertainment/tv/news"
-    },
-    {
-      "text": "Fans react to Steve Wright\u2019s Radio 2 replacement after 24 years",
-      "url": "/arts-entertainment/tv/news/steve-wright-radio-2-bbc-scott-mills-b2114061.html"
-    },
-    {
-      "text": "",
-      "url": "/tv/news/rump-tried-grab-wheel-jan-6-riot-capitol-v1f212f84"
-    },
-    {
-      "text": "Trump tried to 'grab wheel' when told he wasn't being taken to Capitol, Jan 6 hearing told",
-      "url": "/tv/news/rump-tried-grab-wheel-jan-6-riot-capitol-v1f212f84"
-    },
-    {
-      "text": "",
-      "url": "/tv/news/san-antonio-texas-deaths-truck-v51d92b87"
-    },
-    {
-      "text": "San Antonio police take three into custody after 46 bodies found in lorry trailer",
-      "url": "/tv/news/san-antonio-texas-deaths-truck-v51d92b87"
-    },
-    {
-      "text": "",
-      "url": "/tv/news/aide-trump-supporters-jan-6-vf8312d59"
-    },
-    {
-      "text": "Trump was told that supporters at Jan 6 rally had guns and knives, but 'didn't f***ing care', panel hears",
-      "url": "/tv/news/aide-trump-supporters-jan-6-vf8312d59"
-    },
-    {
-      "text": "",
-      "url": "/tv/news/amtrak-derailment-missouri-dump-truck-v9d432c3a"
-    },
-    {
-      "text": "Amtrak derailment: Three killed and dozens injured as passenger train hits dump truck",
-      "url": "/tv/news/amtrak-derailment-missouri-dump-truck-v9d432c3a"
-    },
-    {
-      "text": "",
-      "url": "/news/shellee-uu-dara-alrededor-b2108284.html"
-    },
-    {
-      "text": "News",
-      "url": "/"
-    },
-    {
-      "text": "EE.UU. dar\u00e1 alrededor de 300 mil visas de trabajo a mexicanos ",
-      "url": "/news/shellee-uu-dara-alrededor-b2108284.html"
-    },
-    {
-      "text": "",
-      "url": "/news/shell-un-perro-puede-entender-cuando-b2108285.html"
-    },
-    {
-      "text": "News",
-      "url": "/"
-    },
-    {
-      "text": "\u00bfUn perro puede entender cuando le hablas? Esto dicen los expertos",
-      "url": "/news/shell-un-perro-puede-entender-cuando-b2108285.html"
-    },
-    {
-      "text": "",
-      "url": "/news/shellel-rincon-de-los-libros-leer-en-papel-b2108289.html"
-    },
-    {
-      "text": "News",
-      "url": "/"
-    },
-    {
-      "text": "El rinc\u00f3n de los libros: Leer en papel vs leer en kindle",
-      "url": "/news/shellel-rincon-de-los-libros-leer-en-papel-b2108289.html"
-    },
-    {
-      "text": "",
-      "url": "/news/shellmexico-suma-mas-de-15-000-nuevos-casos-b2108287.html"
-    },
-    {
-      "text": "News",
-      "url": "/"
-    },
-    {
-      "text": "M\u00e9xico suma m\u00e1s de 15.000 nuevos casos de covid-19 en 24 horas",
-      "url": "/news/shellmexico-suma-mas-de-15-000-nuevos-casos-b2108287.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/cycling/tour-de-france-live-stage-2-times-standings-b2114309.html"
-    },
-    {
-      "text": "Cycling",
-      "url": "/sport/cycling"
-    },
-    {
-      "text": "Tour de France 2022 LIVE: Stage 2 latest updates, times and standings",
-      "url": "/sport/cycling/tour-de-france-live-stage-2-times-standings-b2114309.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/tennis/wimbledon-2022-live-scores-updates-results-b2114303.html"
-    },
-    {
-      "text": "Tennis",
-      "url": "/sport/tennis"
-    },
-    {
-      "text": "Wimbledon LIVE: Gauff knocked out as Swiatek in action & Nadal to come",
-      "url": "/sport/tennis/wimbledon-2022-live-scores-updates-results-b2114303.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/tennis/coco-gauff-result-wimbledon-2022-anisimova-b2114448.html"
-    },
-    {
-      "text": "Tennis",
-      "url": "/sport/tennis"
-    },
-    {
-      "text": "Gauff knocked out of Wimbledon as Anisimova seals three-set comeback",
-      "url": "/sport/tennis/coco-gauff-result-wimbledon-2022-anisimova-b2114448.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/tennis/kyrgios-tsitsipas-live-stream-wimbledon-2022-b2113701.html"
-    },
-    {
-      "text": "Tennis",
-      "url": "/sport/tennis"
-    },
-    {
-      "text": "How to watch Nick Kyrgios vs Stefanos Tsitsipas at Wimbledon today ",
-      "url": "/sport/tennis/kyrgios-tsitsipas-live-stream-wimbledon-2022-b2113701.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/tennis/rafael-nadal-time-today-wimbledon-2022-b2113692.html"
-    },
-    {
-      "text": "Tennis",
-      "url": "/sport/tennis"
-    },
-    {
-      "text": "What time is Rafael Nadal playing at Wimbledon today?",
-      "url": "/sport/tennis/rafael-nadal-time-today-wimbledon-2022-b2113692.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/tennis/wimbledon-2022-order-of-play-day-6-b2113687.html"
-    },
-    {
-      "text": "Tennis",
-      "url": "/sport/tennis"
-    },
-    {
-      "text": "Who is on at Wimbledon today? Day 6 order of play featuring Nadal ",
-      "url": "/sport/tennis/wimbledon-2022-order-of-play-day-6-b2113687.html"
-    },
-    {
-      "text": "",
-      "url": "/independentpremium/sport/heather-watson-wimbledon-2022-tennis-b2114449.html"
-    },
-    {
-      "text": "Sport",
-      "url": "/independentpremium/sport"
-    },
-    {
-      "text": "Lawrence Ostlere",
-      "url": "/author/lawrence-ostlere"
-    },
-    {
-      "text": "Heather Watson: The tennis star playing the Wimbledon of her life",
-      "url": "/independentpremium/sport/heather-watson-wimbledon-2022-tennis-b2114449.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/football/lee-bowyer-laurence-bassini-birmingham-watford-b2114438.html"
-    },
-    {
-      "text": "Football",
-      "url": "/sport/football"
-    },
-    {
-      "text": "Bowyer sacked by Birmingham amid takeover uncertainty",
-      "url": "/sport/football/lee-bowyer-laurence-bassini-birmingham-watford-b2114438.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/australia-england-eddie-jones-wallabies-perth-b2114444.html"
-    },
-    {
-      "text": "Sport",
-      "url": "/sport"
-    },
-    {
-      "text": "Swain red card helped Australia against England, Jones claims",
-      "url": "/sport/australia-england-eddie-jones-wallabies-perth-b2114444.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/tennis/broady-de-minaur-result-wimbledon-2022-b2114421.html"
-    },
-    {
-      "text": "Tennis",
-      "url": "/sport/tennis"
-    },
-    {
-      "text": "De Minaur sees off spirited Broady to reach Wimbledon fourth round",
-      "url": "/sport/tennis/broady-de-minaur-result-wimbledon-2022-b2114421.html"
-    },
-    {
-      "text": "",
-      "url": "/news/world/africa/oscar-pistorius-reeva-steenkamp-father-b2114340.html"
-    },
-    {
-      "text": "Africa",
-      "url": "/news/world/africa"
-    },
-    {
-      "text": "Oscar Pistorius meets father of murdered Reeva Steenkamp in parole bid",
-      "url": "/news/world/africa/oscar-pistorius-reeva-steenkamp-father-b2114340.html"
-    },
-    {
-      "text": "",
-      "url": "/sport/andy-farrell-johnny-sexton-dunedin-new-zealand-ian-foster-b2114428.html"
-    },
-    {
-      "text": "Sport",
-      "url": "/sport"
-    },
-    {
-      "text": "Ireland hopeful over Sexton after post-match check on head injury",
-      "url": "/sport/andy-farrell-johnny-sexton-dunedin-new-zealand-ian-foster-b2114428.html"
-    },
-    {
-      "text": "Powered by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=eslmedia-theindependent&utm_medium=referral&utm_content=thumbs-hero-01-a:MS Hero | Card 1:"
-    },
-    {
-      "text": "Powered by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=eslmedia-theindependent&utm_medium=referral&utm_content=thumbs-hero-01-a:MS Hero | Card 1:"
-    },
-    {
-      "text": "",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-secret-service-hutchinson-testimony-b2114153.html"
-    },
-    {
-      "text": "newsCassidy Hutchinson\u2019s testimony of Trump\u2019s altercation with Secret Service confirmed",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-secret-service-hutchinson-testimony-b2114153.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.independent.co.uk/news/world/americas/trump-sweden-trade-war-asap-b2113845.html"
-    },
-    {
-      "text": "newsTrump threatened Sweden with a trade war to release ASAP Rocky",
-      "url": "https://www.independent.co.uk/news/world/americas/trump-sweden-trade-war-asap-b2113845.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.independent.co.uk/news/uk/crime/nigel-malt-trial-west-winch-laura-b2113565.html"
-    },
-    {
-      "text": "newsFather \u2018murdered\u2019 teenage daughter \u2018by driving over her twice in a rage\u2019",
-      "url": "https://www.independent.co.uk/news/uk/crime/nigel-malt-trial-west-winch-laura-b2113565.html"
-    },
-    {
-      "text": "Forge Of Empires - Free Online Game",
-      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_en_us_h122&&external_param=3408310851&pid=eslmedia-theindependent&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiBUqjrErkcliBkVtuKAq4yxZNm_yWzDfB5TsnWyIDuNNCDJqD8oloj7t8To7frOAQ#tblciGiBUqjrErkcliBkVtuKAq4yxZNm_yWzDfB5TsnWyIDuNNCDJqD8oloj7t8To7frOAQ"
-    },
-    {
-      "text": "Forge Of Empires - Free Online GameIf You Need To Kill Time On Your Computer, You Have to Play this Vintage Gam\u2026",
-      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_en_us_h122&&external_param=3408310851&pid=eslmedia-theindependent&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiBUqjrErkcliBkVtuKAq4yxZNm_yWzDfB5TsnWyIDuNNCDJqD8oloj7t8To7frOAQ#tblciGiBUqjrErkcliBkVtuKAq4yxZNm_yWzDfB5TsnWyIDuNNCDJqD8oloj7t8To7frOAQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.independent.co.uk/voices/ted-cruz-josh-hawley-scotus-abortion-january-6-b2114185.html"
-    },
-    {
-      "text": "voicesRepublicans wanted another January 6 after Roe\u2019s overturn. They didn\u2019t get it",
-      "url": "https://www.independent.co.uk/voices/ted-cruz-josh-hawley-scotus-abortion-january-6-b2114185.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.independent.co.uk/tv/news/ukraine-snake-island-russia-assault-b2112994.html"
-    },
-    {
-      "text": "Footage shows Ukrainian military \u2018driving Russian forces\u2019 from Snake Island",
-      "url": "https://www.independent.co.uk/tv/news/ukraine-snake-island-russia-assault-b2112994.html"
-    },
-    {
-      "text": "Particle for Men",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-55-rt/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=eslmedia-theindependent#tblciGiBUqjrErkcliBkVtuKAq4yxZNm_yWzDfB5TsnWyIDuNNCCc4EkowOOG5c2D4a5v"
-    },
-    {
-      "text": "Particle for Men10 Reasons Men Are Jumping on This Radical New Face Cream",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-over-are-jumping-on-particles-anti-aging-formula-55-rt/?utm_source=Face-Cream-Prospecting-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=eslmedia-theindependent#tblciGiBUqjrErkcliBkVtuKAq4yxZNm_yWzDfB5TsnWyIDuNNCCc4EkowOOG5c2D4a5v"
-    },
-    {
-      "text": "Powered by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=eslmedia-theindependent&utm_medium=referral&utm_content=thumbs-hero-01-b:MS Hero | Card 1:"
-    },
-    {
-      "text": "Powered by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=eslmedia-theindependent&utm_medium=referral&utm_content=thumbs-hero-01-b:MS Hero | Card 1:"
-    },
-    {
-      "text": "",
-      "url": "/tech/elon-musk-twitter-silence-pope-b2114279.html"
-    },
-    {
-      "text": "Tech",
-      "url": "/tech"
-    },
-    {
-      "text": "Elon Musk breaks Twitter silence after nine days",
-      "url": "/tech/elon-musk-twitter-silence-pope-b2114279.html"
-    },
-    {
-      "text": "",
-      "url": "/space/nasa-distant-inbound-comet-ever-found-b2114182.html"
-    },
-    {
-      "text": "Space",
-      "url": "/space"
-    },
-    {
-      "text": "Nasa\u2019s shares image of most distant in-bound comet ever found",
-      "url": "/space/nasa-distant-inbound-comet-ever-found-b2114182.html"
-    },
-    {
-      "text": "",
-      "url": "/space/massive-black-hole-slow-spin-b2114174.html"
-    },
-    {
-      "text": "Space",
-      "url": "/space"
-    },
-    {
-      "text": "Slow dance with a monster: Scientist measure massive black hole\u2019s spin",
-      "url": "/space/massive-black-hole-slow-spin-b2114174.html"
-    },
-    {
-      "text": "",
-      "url": "/tech/apple-jobs-biden-medal-freedom-b2114000.html"
-    },
-    {
-      "text": "Tech",
-      "url": "/tech"
-    },
-    {
-      "text": "Steve Jobs awarded posthumous presidential medal of freedom",
-      "url": "/tech/apple-jobs-biden-medal-freedom-b2114000.html"
-    },
-    {
-      "text": "",
-      "url": "/independentpremium/world/scientist-ai-study-publish-journal-b2114029.html"
-    },
-    {
-      "text": "World",
-      "url": "/independentpremium/world"
-    },
-    {
-      "text": "Vishwam Sankaran",
-      "url": "/author/vishwam-sankaran"
-    },
-    {
-      "text": "Scientist makes AI write academic paper about itself",
-      "url": "/independentpremium/world/scientist-ai-study-publish-journal-b2114029.html"
-    },
-    {
-      "text": "",
-      "url": "/tech/instagram-reels-facebook-tiktok-meta-b2113911.html"
-    },
-    {
-      "text": "Tech",
-      "url": "/tech"
-    },
-    {
-      "text": "Instagram tests turning every video into a Reel",
-      "url": "/tech/instagram-reels-facebook-tiktok-meta-b2113911.html"
-    },
-    {
-      "text": "",
-      "url": "/tech/ai-crime-prediction-artificial-intelligence-b2113872.html"
-    },
-    {
-      "text": "Tech",
-      "url": "/tech"
-    },
-    {
-      "text": "AI predicts crime a week before it happens",
-      "url": "/tech/ai-crime-prediction-artificial-intelligence-b2113872.html"
-    },
-    {
-      "text": "",
-      "url": "/tech/science-stop-ageing-disrupting-death-b2017446.html"
-    },
-    {
-      "text": "Tech",
-      "url": "/tech"
-    },
-    {
-      "text": "Sean T Smith",
-      "url": "/author/sean-t-smith"
-    },
-    {
-      "text": "The science of disrupting death and growing old gracefully",
-      "url": "/tech/science-stop-ageing-disrupting-death-b2017446.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/love-sex/rachel-stevens-alex-bourne-split-b2114442.html"
-    },
-    {
-      "text": "Love & Sex",
-      "url": "/life-style/love-sex"
-    },
-    {
-      "text": "Rachel Stevens splits from Alex Bourne after 12 years of marriage",
-      "url": "/life-style/love-sex/rachel-stevens-alex-bourne-split-b2114442.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/pride-march-london-route-2022-b2114307.html"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/life-style"
-    },
-    {
-      "text": "Pride in London march gets underway as thousands celebrate - live",
-      "url": "/life-style/pride-march-london-route-2022-b2114307.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/food-and-drink/max-halley-sandwich-shop-pret-b2110976.html"
-    },
-    {
-      "text": "Food and Drink",
-      "url": "/life-style/food-and-drink"
-    },
-    {
-      "text": "Best thing since sliced bread: Sandwiches go from humble to haute",
-      "url": "/life-style/food-and-drink/max-halley-sandwich-shop-pret-b2110976.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/royal-family/prince-william-jacinda-ardern-kensington-b2114377.html"
-    },
-    {
-      "text": "Royal Family",
-      "url": "/life-style/royal-family"
-    },
-    {
-      "text": "Prince William welcomes New Zealand\u2019s Jacinda Ardern",
-      "url": "/life-style/royal-family/prince-william-jacinda-ardern-kensington-b2114377.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/pride-london-couple-married-at-first-sight-b2114357.html"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/life-style"
-    },
-    {
-      "text": "First gay Married At First Sight UK couple to march at Pride in London",
-      "url": "/life-style/pride-london-couple-married-at-first-sight-b2114357.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/london-pride-parade-march-route-b2114299.html"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/life-style"
-    },
-    {
-      "text": "What is the London Pride march route and what time does it start?",
-      "url": "/life-style/london-pride-parade-march-route-b2114299.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/berlin-mosque-pride-lgbt-flag-b2114337.html"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/life-style"
-    },
-    {
-      "text": "Berlin mosque becomes \u2018first\u2019 in Germany to fly rainbow flag for Pride",
-      "url": "/life-style/berlin-mosque-pride-lgbt-flag-b2114337.html"
-    },
-    {
-      "text": "",
-      "url": "/life-style/women/katherine-jenkins-dad-death-cancer-b2114325.html"
-    },
-    {
-      "text": "Women",
-      "url": "/life-style/women"
-    },
-    {
-      "text": "Katherine Jenkins says her father\u2019s death was a \u2018crossroads moment\u2019",
-      "url": "/life-style/women/katherine-jenkins-dad-death-cancer-b2114325.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.indy100.com/viral/rudy-giuliani-selling-sandals-jokes"
-    },
-    {
-      "text": "19 of the funniest jokes about Rudy Giuliani selling sandals",
-      "url": "https://www.indy100.com/viral/rudy-giuliani-selling-sandals-jokes"
-    },
-    {
-      "text": "",
-      "url": "https://www.indy100.com/news/fundraiser-reaches-halfway-point-of-year-long-marathon-challenge"
-    },
-    {
-      "text": "Fundraiser reaches halfway point of year-long marathon challenge",
-      "url": "https://www.indy100.com/news/fundraiser-reaches-halfway-point-of-year-long-marathon-challenge"
-    },
-    {
-      "text": "",
-      "url": "https://www.indy100.com/news/in-pictures-pride-parade-returns-to-streets-of-london"
-    },
-    {
-      "text": "In Pictures: Pride parade returns to streets of London",
-      "url": "https://www.indy100.com/news/in-pictures-pride-parade-returns-to-streets-of-london"
-    },
-    {
-      "text": "",
-      "url": "https://www.indy100.com/news/heartstopper-cast-march-during-pride-in-london-celebrations"
-    },
-    {
-      "text": "Heartstopper cast march during Pride in London celebrations",
-      "url": "https://www.indy100.com/news/heartstopper-cast-march-during-pride-in-london-celebrations"
-    },
-    {
-      "text": "",
-      "url": "https://www.indy100.com/science-tech/men-smart-women-sexy-study"
-    },
-    {
-      "text": "Study reveals what men really think about smart women",
-      "url": "https://www.indy100.com/science-tech/men-smart-women-sexy-study"
-    },
-    {
-      "text": "",
-      "url": "https://www.indy100.com/politics/trump-july-4th-presidential-run"
-    },
-    {
-      "text": "Trump will announce he's running for president on July 4th",
-      "url": "https://www.indy100.com/politics/trump-july-4th-presidential-run"
-    },
-    {
-      "text": "",
-      "url": "https://www.indy100.com/viral/burger-king-found-mall-delware"
-    },
-    {
-      "text": "Perfectly preserved Burger King restaurant found behind a wall in mall",
-      "url": "https://www.indy100.com/viral/burger-king-found-mall-delware"
-    },
-    {
-      "text": "\n\n",
-      "url": "/"
-    },
-    {
-      "text": "Get in touch",
-      "url": "https://www.independent.co.uk"
-    },
-    {
-      "text": "Contact us",
-      "url": "/service/contact-us-759589.html"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://independentjobs.independent.co.uk/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.facebook.com/TheIndependentOnline"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://twitter.com/Independent"
-    },
-    {
-      "text": "Our Products",
-      "url": "https://www.independent.co.uk"
-    },
-    {
-      "text": "Subscribe",
-      "url": "/subscribe?itm_channel=native&itm_campaign=footer&itm_audience=prospecting&itm_content=subscribe"
-    },
-    {
-      "text": "Register",
-      "url": "/register?itm_channel=native&itm_campaign=footer&itm_content=register"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/newsletters?itm_channel=native&itm_campaign=footer&itm_audience=prospecting&itm_content=newsletters"
-    },
-    {
-      "text": "Donate",
-      "url": "/donations?itm_channel=native&itm_campaign=footer&itm_audience=prospecting&itm_content=donate"
-    },
-    {
-      "text": "Install our app",
-      "url": "/subscribe/app?itm_channel=native&itm_campaign=app_selling_page&itm_audience=prospecting&itm_content=footer"
-    },
-    {
-      "text": "Archive",
-      "url": "/archive"
-    },
-    {
-      "text": "Other publications",
-      "url": "https://www.independent.co.uk"
-    },
-    {
-      "text": "International editions",
-      "url": "/news/world/journalism-license-srmg-middle-east-news-world-global-a9579111.html"
-    },
-    {
-      "text": "Independent en Espa\u00f1ol",
-      "url": "https://www.independentespanol.com/"
-    },
-    {
-      "text": "Independent Arabia",
-      "url": "https://www.independentarabia.com/"
-    },
-    {
-      "text": "Independent Turkish",
-      "url": "https://www.indyturk.com/"
-    },
-    {
-      "text": "Independent Persian",
-      "url": "https://www.independentpersian.com/"
-    },
-    {
-      "text": "Independent Urdu",
-      "url": "https://www.independenturdu.com/"
-    },
-    {
-      "text": "Evening Standard",
-      "url": "https://www.standard.co.uk/"
-    },
-    {
-      "text": "Novaya Gazeta",
-      "url": "http://en.novayagazeta.ru/"
-    },
-    {
-      "text": "Extras",
-      "url": "https://www.independent.co.uk"
-    },
-    {
-      "text": "All topics",
-      "url": "/topics-list"
-    },
-    {
-      "text": "Voucher codes",
-      "url": "/vouchercodes"
-    },
-    {
-      "text": "Compare",
-      "url": "/compare"
-    },
-    {
-      "text": "Independent Advertising",
-      "url": "https://www.independentadvertising.com/"
-    },
-    {
-      "text": "Syndication",
-      "url": "https://www.independentadvertising.com/licensing-and-syndication/"
-    },
-    {
-      "text": "Working at The Independent",
-      "url": "https://www.linkedin.com/company/the-independent/jobs/"
-    },
-    {
-      "text": "Legal",
-      "url": "https://www.independent.co.uk"
-    },
-    {
-      "text": "Code of conduct and complaints",
-      "url": "/service/code-of-conduct-a6184241.html"
-    },
-    {
-      "text": "Contributors",
-      "url": "/service/external-contributors-policy-7905982.html"
-    },
-    {
-      "text": "Cookie policy",
-      "url": "/service/cookie-policy-a6184186.html"
-    },
-    {
-      "text": "Donations Terms & Conditions",
-      "url": "/service/contributions-terms-and-conditions-a9308071.html"
-    },
-    {
-      "text": "Privacy notice",
-      "url": "/service/privacy-policy-a6184181.html"
-    },
-    {
-      "text": "User policies",
-      "url": "/service/user-policies-a6184151.html"
-    },
-    {
-      "text": "Modern Slavery Act",
-      "url": "https://static.independent.co.uk/static-assets/IDNMLModSlav0721.pdf"
-    },
-    {
-      "text": "UK Edition\n\n",
-      "url": "https://www.independent.co.uk/"
-    },
-    {
-      "text": "Asia Edition\n\n",
-      "url": "https://www.independent.co.uk/asia"
-    },
-    {
-      "text": "Edici\u00f3n en Espa\u00f1ol\n\n",
-      "url": "https://www.independentespanol.com/"
-    },
-    {
-      "text": "\u00d7",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "Wimbledon\n\n",
-      "url": "/topic/wimbledon"
-    },
-    {
-      "text": "Latest covid news\n\n",
-      "url": "/topic/covid"
-    },
-    {
-      "text": "{{#stampSmall}}\n\n{{/stampSmall}}{{#stampClimate}}\n\n{{/stampClimate}}{{#stampPremium}}\n\n\n{{/stampPremium}}{{title}}{{#desc}}{{desc}}{{/desc}}",
-      "url": "{{path}}"
-    },
-    {
-      "text": "{{title}}\n\n",
-      "url": "{{path}}"
-    },
-    {
-      "text": "Crosswords & Puzzles\n\n",
-      "url": "https://puzzles.independent.co.uk/?utm_campaign=navbar&utm_medium=nav&utm_source=navpuzzles"
-    },
-    {
-      "text": "Most Commented\n\n",
-      "url": "/comments"
-    },
-    {
-      "text": "Newsletters\n\n",
-      "url": "/newsletters?itm_channel=native&itm_campaign=burger_nav&itm_audience=prospecting&itm_content=newsletters"
-    },
-    {
-      "text": "Ask Me Anything\n\n",
-      "url": "/ask-me-anything"
-    },
-    {
-      "text": "Virtual Events\n\n",
-      "url": "/virtual-events"
-    },
-    {
-      "text": "Vouchers\n\n",
-      "url": "/vouchercodes"
-    },
-    {
-      "text": "Compare\n\n",
-      "url": "/compare"
-    },
-    {
-      "text": "\n\n\n\n\n\n",
-      "url": "https://www.indy100.com"
-    },
-    {
-      "text": "Forgotten your password?",
-      "url": "/forgotten-password"
-    },
-    {
-      "text": "Register",
-      "url": "/register"
-    },
-    {
-      "text": "View offers",
-      "url": "/subscribe?itm_channel=native&itm_campaign=login_overlay&itm_audience=prospecting"
-    },
-    {
-      "text": "Privacy notice",
-      "url": "https://policies.google.com/privacy?hl=en"
-    },
-    {
-      "text": "Terms of service",
-      "url": "https://policies.google.com/terms?hl=en"
-    },
-    {
-      "text": "My Independent Premium",
-      "url": "/independent-premium#events"
-    },
-    {
-      "text": "    \nAccount details",
-      "url": "/profile"
-    },
-    {
-      "text": "    \nHelp centre    \n",
-      "url": "https://independentnews.zendesk.com/hc/en-us"
-    },
-    {
-      "text": "    \nLogout",
-      "url": "/user/logout"
-    }
-  ],
-  "item_last_updated": 1656778267,
-  "item_size": 90405114,
+  "files_count": 907,
+  "item_last_updated": 1656926600,
+  "item_size": 92893554,
   "metadata": {
     "identifier": "independent-2022",
     "collection": [
@@ -11137,10 +9555,10 @@
     "publicdate": "2022-03-23 08:03:37",
     "addeddate": "2022-03-23 08:03:37"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 1027789395,
+  "server": "ia902509.us.archive.org",
+  "uniq": 1178385042,
   "workable_servers": [
-    "ia802509.us.archive.org",
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

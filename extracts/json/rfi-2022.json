@@ -1,5 +1,5 @@
 {
-  "created": 1656808066,
+  "created": 1656923161,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/rfi-2022",
@@ -310,31 +310,283 @@
       "sha1": "82ffa0ba9111cda402e1ca24e330034abd34f9e3"
     },
     {
+      "name": "rfi-2022-07-03T03:35:08.876468+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656812111",
+      "size": "29868",
+      "md5": "65d8ffb1ed5d61fa8f06746227d19710",
+      "crc32": "f76bbc5e",
+      "sha1": "eeb2b3378a5df2b939ebf9fe7095a5d550b8cf1f",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-03T03:35:08.876468+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656812112",
+      "size": "48845",
+      "md5": "810e0bf3fe0f0515022d933989b5baa8",
+      "crc32": "a9189a85",
+      "sha1": "e27042dfbfbc514aec9e8762fa2ee57ea0c5c36f",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-03T03:35:08.876468+02:00.jpg",
+      "source": "original",
+      "mtime": "1656812109",
+      "size": "153245",
+      "md5": "51a535167e851bf7417d1c1b8a3f54f6",
+      "crc32": "1e8d96e2",
+      "sha1": "2c97305b1feebcc22a865606e59dd0b7da3197fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rfi-2022-07-03T03:35:08.876468+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-07-03T03:35:08.876468+02:00.jpg",
+      "mtime": "1656812187",
+      "size": "8424",
+      "md5": "f4135a873582f24894f59348a8c105e9",
+      "crc32": "27943f8e",
+      "sha1": "5fbe578304f5006f3f9055e77d7741f7b5c48d23"
+    },
+    {
+      "name": "rfi-2022-07-03T10:08:52.884554+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656835736",
+      "size": "30115",
+      "md5": "1faccfca242681eb297f76d5f5bc1197",
+      "crc32": "9b27f99e",
+      "sha1": "cf12bdd4595561d6e602b893b99abc1c0ca4ac1f",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-03T10:08:52.884554+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656835737",
+      "size": "49173",
+      "md5": "7a7afa12136b075b1c5c62bc38e84772",
+      "crc32": "fd67f594",
+      "sha1": "bdf9724d5e68ff56a074af1c8e76a76ea268d9b3",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-03T10:08:52.884554+02:00.jpg",
+      "source": "original",
+      "mtime": "1656835734",
+      "size": "158266",
+      "md5": "c29df73fe2c2d004ef517875d4e5504d",
+      "crc32": "6500f09a",
+      "sha1": "2da559a2b7c7d4cce2f02609d45330697d76865f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rfi-2022-07-03T10:08:52.884554+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-07-03T10:08:52.884554+02:00.jpg",
+      "mtime": "1656835783",
+      "size": "8406",
+      "md5": "d10926a977aca4a4e0727312a8e8bc24",
+      "crc32": "f1cab2e1",
+      "sha1": "7aef36ed9828a090ae89c083a6f28bd389e5c50a"
+    },
+    {
+      "name": "rfi-2022-07-03T15:13:39.615615+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656854022",
+      "size": "30823",
+      "md5": "86243f50c1a0703407824c3637980759",
+      "crc32": "7e96ea52",
+      "sha1": "9d89f1ee522dee53600d020f04a7d2da50afede6",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-03T15:13:39.615615+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656854023",
+      "size": "51107",
+      "md5": "a0d21e7b256d0492ee8ad2be8271c626",
+      "crc32": "cfe945d8",
+      "sha1": "ce0820b5b68bc99248474c118f7ee80b3571927c",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-03T15:13:39.615615+02:00.jpg",
+      "source": "original",
+      "mtime": "1656854020",
+      "size": "150348",
+      "md5": "6bd4ea1e45d942417fa3e9193bd9e164",
+      "crc32": "44ed5b6c",
+      "sha1": "ea39767be3a30836ae13a22dbdaa9d1a42c8509d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rfi-2022-07-03T15:13:39.615615+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-07-03T15:13:39.615615+02:00.jpg",
+      "mtime": "1656854067",
+      "size": "8315",
+      "md5": "644c7bc7f13fedfbfbcd7022396af4ea",
+      "crc32": "c333e7db",
+      "sha1": "7c5bd78e6461e701f56682d26487ebca13107a49"
+    },
+    {
+      "name": "rfi-2022-07-03T17:14:37.605498+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656861288",
+      "size": "31554",
+      "md5": "1832a73adae3b1eb5365f6553cf8dc69",
+      "crc32": "aea27249",
+      "sha1": "802c7bce034581d46534971379d32e6198d3b1e9",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-03T17:14:37.605498+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656861290",
+      "size": "51653",
+      "md5": "77cdcb3492605673e193fd5ecbe72c9b",
+      "crc32": "6dc59951",
+      "sha1": "be283a0fc9b2f340d719ee5c041f0e38daf56c57",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-03T17:14:37.605498+02:00.jpg",
+      "source": "original",
+      "mtime": "1656861286",
+      "size": "294988",
+      "md5": "7f959458bd6cb35579d0a7817a2c447f",
+      "crc32": "f1c7ec45",
+      "sha1": "f9800f9c659d165ea4c275ee8b6202ad9f640f90",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rfi-2022-07-03T17:14:37.605498+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-07-03T17:14:37.605498+02:00.jpg",
+      "mtime": "1656861346",
+      "size": "9987",
+      "md5": "38a20095f9804d68ebd8c454f87469e8",
+      "crc32": "503605c6",
+      "sha1": "f5ea6beadc8579c8ece55687e4d0e7196623f384"
+    },
+    {
+      "name": "rfi-2022-07-04T03:35:06.298047+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898509",
+      "size": "30256",
+      "md5": "ea1108a9470c50340f7376f5096f6947",
+      "crc32": "69ea1b35",
+      "sha1": "3ac610f6c094c9a5de3102f3c4c4c4a6b4e718b3",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-04T03:35:06.298047+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898510",
+      "size": "50130",
+      "md5": "29d3cf2788215970a1ac8c8fc529efc8",
+      "crc32": "a0f5143c",
+      "sha1": "4ce4709514ae592a7e53ae12b94fa3fe86554fdb",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-04T03:35:06.298047+02:00.jpg",
+      "source": "original",
+      "mtime": "1656898507",
+      "size": "268777",
+      "md5": "18337848a556611302893483e1200358",
+      "crc32": "699efe7d",
+      "sha1": "5dc16d615fbd326885f2de54f971b6a2a4c06390",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rfi-2022-07-04T03:35:06.298047+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-07-04T03:35:06.298047+02:00.jpg",
+      "mtime": "1656898641",
+      "size": "9699",
+      "md5": "6ef9c7833380b3373067386ac9319883",
+      "crc32": "9b019176",
+      "sha1": "c90c83e7d93fb77f36d6c1631504a7ff774636bf"
+    },
+    {
+      "name": "rfi-2022-07-04T10:24:59.663772+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656923104",
+      "size": "30703",
+      "md5": "7f28369f04344ecfd75c90eb4dca71ed",
+      "crc32": "d6d2a871",
+      "sha1": "978c129e66a16b8c1a2df9e89b34b830570bf997",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-04T10:24:59.663772+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656923105",
+      "size": "50899",
+      "md5": "e038d775d2add3c749888324903be2bf",
+      "crc32": "b29480e9",
+      "sha1": "4b98ff4a3aac6ddcb87ff18cb4683425b4fd27c2",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-04T10:24:59.663772+02:00.jpg",
+      "source": "original",
+      "mtime": "1656923102",
+      "size": "282308",
+      "md5": "b63505a9a58c044c4b68706f77c9b47a",
+      "crc32": "e3469f72",
+      "sha1": "84b71ba78af54eb93a38b2f659a6da3c8c5f48de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rfi-2022-07-04T10:24:59.663772+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-07-04T10:24:59.663772+02:00.jpg",
+      "mtime": "1656923150",
+      "size": "9640",
+      "md5": "fb2dddd3e25e658b4b3cc9e3e31c5ee8",
+      "crc32": "e78784ee",
+      "sha1": "bff2c2ae085119621ec2c01cce799c0ee37ccc97"
+    },
+    {
       "name": "rfi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "690e402a9d512afd53d8bd4254dd22d4984ad929",
-      "mtime": "1656767929",
-      "size": "7302",
-      "md5": "e53ee0a2c96c4d5425f3c83a7f7eeed5",
-      "crc32": "feea53b3",
-      "sha1": "db61ea19b0de1b2c5ed0d6b583d9ef8303abd9a9",
+      "btih": "916c670693624e0fad7fb98ee4fe9466a0c7c230",
+      "mtime": "1656923154",
+      "size": "12217",
+      "md5": "c5a09a77c605644363ab0d9bf827ceab",
+      "crc32": "fb280af1",
+      "sha1": "05dbd1c5c0375ff8845957a47196583c4a723d62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rfi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "85de254e3857f37d12da12bd62aafd23",
+      "md5": "d791989bfcfe2abf48ba837d03e5c80a",
       "summation": "md5"
     },
     {
       "name": "rfi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656767860",
-      "size": "49152",
-      "md5": "07f14640247b9bc39eae14825f84ec97",
-      "crc32": "f71e547a",
-      "sha1": "cac9a0bd6e33e3729e96bed10c90a27c2feb4669",
+      "mtime": "1656923108",
+      "size": "73728",
+      "md5": "5dc117137a75924448d4ffc41b757067",
+      "crc32": "66532ea4",
+      "sha1": "6121638ee9e9b63524d219cad1d1598bf0ce1ec5",
       "format": "Metadata"
     },
     {
@@ -348,9 +600,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
-  "item_last_updated": 1656767929,
-  "item_size": 1726012,
+  "files_count": 57,
+  "item_last_updated": 1656923154,
+  "item_size": 3603032,
   "metadata": {
     "identifier": "rfi-2022",
     "collection": [
@@ -367,828 +619,10 @@
     "publicdate": "2022-06-30 22:26:42",
     "addeddate": "2022-06-30 22:26:42"
   },
-  "rfi-2022": [
-    {
-      "text": "Acc\u00e9der au contenu principal",
-      "url": "#main-content"
-    },
-    {
-      "text": "    RFI - Actualit\u00e9s, info, news en direct - Radio France Internationale\n",
-      "url": "/fr/"
-    },
-    {
-      "text": "Fran\u00e7ais",
-      "url": "/fr/"
-    },
-    {
-      "text": "English",
-      "url": "/en/"
-    },
-    {
-      "text": "Espa\u00f1ol",
-      "url": "/es/"
-    },
-    {
-      "text": "Portugu\u00eas",
-      "url": "/pt/"
-    },
-    {
-      "text": "Portugu\u00eas do Brasil",
-      "url": "/br/"
-    },
-    {
-      "text": "Hausa",
-      "url": "/ha/"
-    },
-    {
-      "text": "Kiswahili",
-      "url": "/sw/"
-    },
-    {
-      "text": "Mandenkan",
-      "url": "/ma/"
-    },
-    {
-      "text": "Fulfulde",
-      "url": "/ff/"
-    },
-    {
-      "text": "Rom\u00e2nia",
-      "url": "https://www.rfi.ro/"
-    },
-    {
-      "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
-      "url": "/ru/"
-    },
-    {
-      "text": "Ti\u1ebfng Vi\u1ec7t",
-      "url": "/vi/"
-    },
-    {
-      "text": "\u534e\u8bed",
-      "url": "/cn/"
-    },
-    {
-      "text": "\u83ef\u8a9e",
-      "url": "/tw/"
-    },
-    {
-      "text": "\u1797\u17b6\u179f\u17b6\u1781\u17d2\u1798\u17c2\u179a",
-      "url": "/km/"
-    },
-    {
-      "text": "\u0641\u0627\u0631\u0633\u06cc",
-      "url": "/fa/"
-    },
-    {
-      "text": "Accueil",
-      "url": "/fr/"
-    },
-    {
-      "text": "Afrique",
-      "url": "/fr/afrique/"
-    },
-    {
-      "text": "Am\u00e9riques",
-      "url": "/fr/am%C3%A9riques/"
-    },
-    {
-      "text": "Asie-Pacifique",
-      "url": "/fr/asie-pacifique/"
-    },
-    {
-      "text": "Europe",
-      "url": "/fr/europe/"
-    },
-    {
-      "text": "Moyen-Orient",
-      "url": "/fr/moyen-orient/"
-    },
-    {
-      "text": "France",
-      "url": "/fr/france/"
-    },
-    {
-      "text": "Environnement",
-      "url": "/fr/environnement/"
-    },
-    {
-      "text": "\u00c9conomie",
-      "url": "/fr/%C3%A9conomie/"
-    },
-    {
-      "text": "Culture et M\u00e9dias",
-      "url": "/fr/culture-m%C3%A9dias/"
-    },
-    {
-      "text": "Sports",
-      "url": "/fr/sports/"
-    },
-    {
-      "text": "Afrique Foot",
-      "url": "/fr/afrique-foot/"
-    },
-    {
-      "text": "Sciences",
-      "url": "/fr/sciences/"
-    },
-    {
-      "text": "Tech",
-      "url": "/fr/tech/"
-    },
-    {
-      "text": "Prenez le temps",
-      "url": "/fr/interactif/"
-    },
-    {
-      "text": "Stop l'infox",
-      "url": "/fr/stop-infox/"
-    },
-    {
-      "text": "RFI Musique",
-      "url": "https://musique.rfi.fr/"
-    },
-    {
-      "text": "Apprendre le fran\u00e7ais",
-      "url": "https://savoirs.rfi.fr/fr/apprendre-enseigner"
-    },
-    {
-      "text": "Voyage D\u00e9couverte",
-      "url": "/fr/tag/voyage-d%C3%A9couverte/"
-    },
-    {
-      "text": "RFI Connaissances",
-      "url": "/fr/connaissances/"
-    },
-    {
-      "text": "Contenus sponsoris\u00e9s",
-      "url": "/fr/contenus-partenaires/"
-    },
-    {
-      "text": "RFI Monde en direct",
-      "url": "/fr/direct-monde"
-    },
-    {
-      "text": "RFI Afrique en direct",
-      "url": "/fr/direct-afrique"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/fr/podcasts/"
-    },
-    {
-      "text": "Vid\u00e9os",
-      "url": "/fr/vid%C3%A9os"
-    },
-    {
-      "text": "Les journaux Monde",
-      "url": "/fr/journaux-monde/"
-    },
-    {
-      "text": "Les journaux Afrique",
-      "url": "/fr/journaux-afrique/"
-    },
-    {
-      "text": "Les journaux Am\u00e9riques/Ha\u00efti",
-      "url": "/fr/podcasts/journal-ha%C3%AFti-am%C3%A9riques"
-    },
-    {
-      "text": "Les journaux en fran\u00e7ais facile",
-      "url": "/fr/podcasts/journal-fran%C3%A7ais-facile"
-    },
-    {
-      "text": "Grille des programmes Monde",
-      "url": "/fr/grille-des-programmes-monde"
-    },
-    {
-      "text": "Grille des programmes Afrique",
-      "url": "/fr/grille-des-programmes-afrique"
-    },
-    {
-      "text": "\n",
-      "url": "https://rfi.my/FBfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://rfi.my/TWfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://rfi.my/IGfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://rfi.my/YTfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://rfi.my/DMfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://rfi.my/TGfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://rfi.my/TIfr"
-    },
-    {
-      "text": "\n",
-      "url": "https://rfi.my/SC"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://emailing.rfi.fr/fr/subscribe"
-    },
-    {
-      "text": "Applications",
-      "url": "/fr/applications"
-    },
-    {
-      "text": "M\u00e9dias partenaires",
-      "url": "/fr/medias-partenaires/"
-    },
-    {
-      "text": "Capter RFI",
-      "url": "/fr/capter-rfi"
-    },
-    {
-      "text": "RSS",
-      "url": "/fr/contenu/20091023-rss"
-    },
-    {
-      "text": "Qui sommes-nous ?",
-      "url": "/fr/qui-sommes-nous"
-    },
-    {
-      "text": "Nous \u00e9crire",
-      "url": "https://www.francemediasmonde.com/fr/contact/?brand=rfi"
-    },
-    {
-      "text": "R\u00e9gie publicitaire",
-      "url": "https://www.rfiadvertising.com/"
-    },
-    {
-      "text": "Vente de contenus",
-      "url": "https://www.francemediasmonde.com/fr/contact?brand=rfi&topic=vente_contenu"
-    },
-    {
-      "text": "Nous rejoindre",
-      "url": "https://fmm.io/jobs"
-    },
-    {
-      "text": "Communiqu\u00e9s de presse",
-      "url": "/fr/tag/communiqu%C3%A9s-de-presse-rfi/"
-    },
-    {
-      "text": "Mentions l\u00e9gales",
-      "url": "https://www.francemediasmonde.com/fr/legal-notice"
-    },
-    {
-      "text": "Confidentialit\u00e9",
-      "url": "https://www.francemediasmonde.com/fr/privacy"
-    },
-    {
-      "text": "Cookies",
-      "url": "https://www.francemediasmonde.com/fr/cookies"
-    },
-    {
-      "text": "Centre de pr\u00e9f\u00e9rences",
-      "url": "#"
-    },
-    {
-      "text": "Gestion des notifications",
-      "url": "/fr/gestion-notifications"
-    },
-    {
-      "text": "RFI",
-      "url": "https://www.rfi.fr/fr/"
-    },
-    {
-      "text": "Apprendre le fran\u00e7ais",
-      "url": "https://savoirs.rfi.fr/"
-    },
-    {
-      "text": "RFI Musique",
-      "url": "https://musique.rfi.fr/"
-    },
-    {
-      "text": "RFI Instrumental",
-      "url": "https://www.rfi-instrumental.com/fr"
-    },
-    {
-      "text": "Mondoblog",
-      "url": "https://mondoblog.org/"
-    },
-    {
-      "text": "France 24",
-      "url": "https://www.france24.com/fr/"
-    },
-    {
-      "text": "MCD",
-      "url": "https://www.mc-doualiya.com/"
-    },
-    {
-      "text": "InfoMigrants",
-      "url": "https://www.infomigrants.net/fr/"
-    },
-    {
-      "text": "CFI",
-      "url": "https://www.cfi.fr/fr"
-    },
-    {
-      "text": "Acad\u00e9mie",
-      "url": "https://academie.france24-mcd-rfi.com/fr/"
-    },
-    {
-      "text": "France M\u00e9dias Monde",
-      "url": "https://www.francemediasmonde.com/fr/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rfi.fr/fr/"
-    },
-    {
-      "text": "",
-      "url": "https://www.france24.com/fr/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mc-doualiya.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.francemediasmonde.com/fr/"
-    },
-    {
-      "text": "\n",
-      "url": "/fr/"
-    },
-    {
-      "text": "#Ukraine",
-      "url": "https://www.rfi.fr/fr/tag/ukraine/"
-    },
-    {
-      "text": "#TDF2022",
-      "url": "https://www.rfi.fr/fr/tag/tour-de-france-2022/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/fr/podcasts/"
-    },
-    {
-      "text": "Afrique",
-      "url": "/fr/afrique/"
-    },
-    {
-      "text": "Afrique Foot",
-      "url": "/fr/afrique-foot/"
-    },
-    {
-      "text": "Les plus lus",
-      "url": "/fr/les-plus-lus"
-    },
-    {
-      "text": "Stop l'infox",
-      "url": "/fr/stop-infox/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage\n                                                    Sievierodonetsk, une semaine apr\u00e8s la chute\n                                \n        ",
-      "url": "/fr/europe/20220702-sievierodonetsk-une-semaine-apr%C3%A8s-la-chute"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Union europ\u00e9enne: nouveau record d'inflation dans la zone euro\n                            \n        ",
-      "url": "/fr/europe/20220702-union-europ%C3%A9enne-nouveau-record-d-inflation-dans-la-zone-euro"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Ukraine: apr\u00e8s le retrait des Russes de l'\u00eele aux Serpents, \u00abune dynamique de desserrement du blocus\u00bb\n                            \n        ",
-      "url": "/fr/europe/20220702-ukraine-apr%C3%A8s-le-retrait-des-russes-de-l-%C3%AEle-aux-serpents-une-dynamique-de-desserrement-du-blocus"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Le chef spirituel des talibans somme l'Occident d'arr\u00eater de \u00abse m\u00ealer\u00bb des affaires afghanes\n                            \n        ",
-      "url": "/fr/asie-pacifique/20220702-le-chef-spirituel-des-talibans-somme-l-occident-d-arr%C3%AAter-de-se-m%C3%AAler-des-affaires-afghanes"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \u00c9tats-Unis: pour prot\u00e9ger le droit \u00e0 l'avortement, Joe Biden se tourne vers les urnes\n                            \n        ",
-      "url": "/fr/am%C3%A9riques/20220702-%C3%A9tats-unis-pour-prot%C3%A9ger-le-droit-%C3%A0-l-avortement-joe-biden-se-tourne-vers-les-urnes"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \u00c9tats-Unis: Google va supprimer les donn\u00e9es sur les visites aux plannings familiaux\n                            \n        ",
-      "url": "/fr/am%C3%A9riques/20220702-%C3%A9tats-unis-google-va-supprimer-les-donn%C3%A9es-sur-les-visites-aux-plannings-familiaux"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    CAN 2022 f\u00e9minine: quelle \u00e9quipe pourra d\u00e9tr\u00f4ner le Nigeria?\n                            \n        ",
-      "url": "/fr/afrique-foot/20220701-can-2022-f%C3%A9minine-quelle-%C3%A9quipe-pourra-d%C3%A9tr%C3%B4ner-le-nigeria"
-    },
-    {
-      "text": "\n        De nombreux disparus lors d'un naufrage en mer de Chine m\u00e9ridionale\n        \n    ",
-      "url": "/fr/en-bref/20220702-de-nombreux-disparus-lors-d-un-naufrage-en-mer-de-chine-m%C3%A9ridionale"
-    },
-    {
-      "text": "\n        Syrie: une frappe isra\u00e9lienne fait deux bless\u00e9s, dit le minist\u00e8re de la D\u00e9fense\n        \n    ",
-      "url": "/fr/en-bref/20220702-syrie-une-frappe-isra%C3%A9lienne-fait-deux-bless%C3%A9s-dit-le-minist%C3%A8re-de-la-d%C3%A9fense"
-    },
-    {
-      "text": "\n        Un s\u00e9isme peu profond de magnitude 6.2 secoue le sud de l'Iran, plusieurs tu\u00e9s\n        \n    ",
-      "url": "/fr/en-bref/20220702-un-s%C3%A9isme-peu-profond-de-magnitude-6-2-secoue-le-sud-de-l-iran-usgs"
-    },
-    {
-      "text": "\n        L'arm\u00e9e ukrainienne accuse les Russes d'avoir tir\u00e9 des bombes au phosphore sur l'\u00eele aux Serpents (\u00e9tat-major)\n        \n    ",
-      "url": "/fr/en-bref/20220701-l-arm%C3%A9e-ukrainienne-accuse-les-russes-d-avoir-tir%C3%A9-des-bombes-au-phosphore-sur-l-%C3%AEle-aux-serpents-%C3%A9tat-major"
-    },
-    {
-      "text": "\n        En Libye, des manifestants investissent le si\u00e8ge du Parlement de Tobrouk\n        \n    ",
-      "url": "/fr/en-bref/20220701-en-libye-des-manifestants-investissent-le-si%C3%A8ge-du-parlement-de-tobrouk"
-    },
-    {
-      "text": "\n                    Toute l'actualit\u00e9 en bref \n\n                ",
-      "url": "/fr/en-bref/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Guerre en Ukraine: frappes meurtri\u00e8res pr\u00e8s d'Odessa\n                                \n        ",
-      "url": "/fr/europe/20220701-guerre-en-ukraine-frappes-meurtri%C3%A8res-pr%C3%A8s-d-odessa"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Guerre en Ukraine: l'arm\u00e9e russe se retire de l'\u00eele aux Serpents\n                            \n        ",
-      "url": "/fr/en-bref/20220630-ukraine-l-arm%C3%A9e-russe-annonce-son-retrait-de-l-%C3%AEle-aux-serpents"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Fin du sommet de l'Otan: l'Alliance atlantique avance sur tous les dossiers\n                            \n        ",
-      "url": "/fr/monde/20220630-fin-du-sommet-de-l-otan-l-alliance-atlantique-avance-sur-tous-les-dossiers-%C3%A9pineux"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Analyse\n                                                    L\u2019inqui\u00e9tude des voisins de l\u2019exclave russe de Kaliningrad\n                            \n        ",
-      "url": "/fr/europe/20220630-l-inqui%C3%A9tude-des-voisins-de-l-exclave-russe-de-kaliningrad"
-    },
-    {
-      "text": "\n                    Toute l'actualit\u00e9 sur la guerre en Ukraine \n\n                ",
-      "url": "https://www.rfi.fr/fr/tag/ukraine/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Moyen-orient: cyberguerre entre Isra\u00ebl et l'iran\n                            \n        ",
-      "url": "/fr/moyen-orient/20220702-moyen-orient-cyberguerre-entre-isra%C3%ABl-et-l-iran"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \u00abCOP des villes\u00bb \u00e0 Abidjan: les m\u00e9tropoles s'engagent dans la lutte contre le changement climatique\n                            \n        ",
-      "url": "/fr/afrique/20220702-cop-des-villes-%C3%A0-abidjan-les-m%C3%A9tropoles-s-engagent-dans-la-lutte-contre-le-changement-climatique"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage\n                                                    \nTransport a\u00e9rien: de nombreux vols annul\u00e9s \u00e0 l'a\u00e9roport Roissy-Charles-de-Gaulle\n                            \n        ",
-      "url": "/fr/france/20220702-transports-de-nombreux-vols-annul%C3%A9s-%C3%A0-l-a%C3%A9roport-roissy-charles-de-gaulle"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                REPORTAGE\n                                                    Inde: des milliers de p\u00e8lerins v\u00e9n\u00e8rent les menstruations de leur d\u00e9esse\n                            \n        ",
-      "url": "/fr/asie-pacifique/20220702-inde-des-milliers-de-p%C3%A8lerins-v%C3%A9n%C3%A8rent-les-menstruations-de-leur-d%C3%A9esse"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Politique, le choix de la semaine\n                                                    \nJean-Luc M\u00e9lenchon, et maintenant?\n                            \n        ",
-      "url": "/fr/podcasts/politique-le-choix-de-la-semaine/20220702-jean-luc-m%C3%A9lenchon-et-maintenant"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Aux Pays-Bas, les m\u00e9decins g\u00e9n\u00e9ralistes en gr\u00e8ve face \u00e0 la surcharge de travail\n                            \n        ",
-      "url": "/fr/europe/20220702-aux-pays-bas-les-m%C3%A9decins-g%C3%A9n%C3%A9ralistes-en-gr%C3%A8ve-face-%C3%A0-la-surcharge-de-travail"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Rugby Africa Cup: Ousmane Man\u00e9, un S\u00e9n\u00e9galais aux commandes du XV d'Alg\u00e9rie\n                            \n        ",
-      "url": "/fr/sports/20220702-rugby-africa-cup-ousmane-man%C3%A9-un-s%C3%A9n%C3%A9galais-aux-commandes-du-xv-d-alg%C3%A9rie"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Tour du monde des correspondants\n                                                    \nUne forte recrudescence du Covid-19 attendue cet \u00e9t\u00e9 dans le monde\n                            \n        ",
-      "url": "/fr/podcasts/tour-du-monde-des-correspondants/20220702-une-forte-recrudescence-du-covid-19-attendue-cet-%C3%A9t%C3%A9-dans-le-monde"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage\n                                                    Jeux M\u00e9diterran\u00e9ens 2022: Imane Khelif, la nouvelle star de la boxe alg\u00e9rienne\n                                \n        ",
-      "url": "/fr/sports/20220701-jeux-m%C3%A9diterran%C3%A9ens-2022-imane-khelif-la-nouvelle-star-de-la-boxe-alg%C3%A9rienne"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Entretien\n                                                    Arona Diedhiou: \u00abUn dilemme pour l\u2019organisation des comp\u00e9titions en Afrique du fait du changement climatique\u00bb\n                            \n        ",
-      "url": "/fr/afrique-foot/20220701-arona-diedhiou-le-changement-climatique-un-dilemme-pour-l-organisation-des-comp%C3%A9titions-en-afrique"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                ANALYSE\n                                                    La CPI f\u00eate ses 20 ans sans avoir acquis la reconnaissance universelle\n                            \n        ",
-      "url": "/fr/europe/20220701-la-cpi-f%C3%AAte-ses-20-ans-sans-avoir-acquis-la-reconnaissance-universelle"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Joueur africain de l\u2019ann\u00e9e: la CAF d\u00e9voile les nomm\u00e9s pour ses troph\u00e9es 2022\n                            \n        ",
-      "url": "/fr/afrique-foot/20220630-joueur-africain-de-l-ann%C3%A9e-la-caf-d%C3%A9voile-les-nomm%C3%A9s-pour-ses-troph%C3%A9es-2022"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Irlande: un plan pour lutter contre les violences conjugales, sexuelles et sexistes\n                            \n        ",
-      "url": "/fr/europe/20220701-irlande-un-plan-pour-lutter-contre-les-violences-conjugales-sexuelles-et-sexistes"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Entretien\n                                                    Huawei: \u00abL\u2019Afrique reste pour nous un march\u00e9 strat\u00e9gique\u00bb\n                            \n        ",
-      "url": "/fr/%C3%A9conomie/20220630-groupe-huawei-l-afrique-reste-pour-nous-un-march%C3%A9-strat%C3%A9gique"
-    },
-    {
-      "text": "\n                    Toute notre s\u00e9lection \n\n                ",
-      "url": "/fr/notre-s\u00e9lection/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Royaume-Uni: un d\u00e9put\u00e9 conservateur accus\u00e9 d'attouchements sexuels d\u00e9missionne\n                            \n        ",
-      "url": "/fr/europe/20220702-royaume-uni-un-d%C3%A9put%C3%A9-conservateur-accus%C3%A9-d-attouchements-sexuels-d%C3%A9missionne"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Avant la marche des fiert\u00e9s, les couleurs LGBT dans une mosqu\u00e9e lib\u00e9rale de Berlin\n                            \n        ",
-      "url": "/fr/europe/20220702-avant-la-marche-des-fiert%C3%A9s-les-couleurs-lgbt-dans-une-mosqu%C3%A9e-lib%C3%A9rale-de-berlin"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Chemins d'\u00e9criture\n                                                    \nAbdulrazak Gurnah: \u00abPersonne ne m\u2019a influenc\u00e9\u00bb\u00a0(2/2)\n                            \n        ",
-      "url": "/fr/podcasts/chemins-d-%C3%A9criture/20220702-abdulrazak-gurnah-personne-ne-m-a-influenc%C3%A9-2-2"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Affaire Pegasus: l\u2019enqu\u00eate en France confi\u00e9e \u00e0 un juge d\u2019instruction\n                            \n        ",
-      "url": "/fr/france/20220702-affaire-pegasus-l-enqu%C3%AAte-en-france-confi%C3%A9e-%C3%A0-un-juge-d-instruction"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage\n                                                    Jeux M\u00e9diterran\u00e9ens 2022: Imane Khelif, la nouvelle star de la boxe alg\u00e9rienne\n                            \n        ",
-      "url": "/fr/sports/20220701-jeux-m%C3%A9diterran%C3%A9ens-2022-imane-khelif-la-nouvelle-star-de-la-boxe-alg%C3%A9rienne"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage international\n                                                    \nSuriname: l'exploitation future du p\u00e9trole ne fait pas l'unanimit\u00e9\n                            \n        ",
-      "url": "/fr/podcasts/reportage-international/20220701-suriname-l-exploitation-future-du-p%C3%A9trole-ne-fait-pas-l-unanimit%C3%A9"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Litt\u00e9rature sans fronti\u00e8res\n                                                    \nMax Monnehay, autrice de polars entre La Rochelle et la prison de l'\u00eele de R\u00e9\n                                \n        ",
-      "url": "/fr/podcasts/litt%C3%A9rature-sans-fronti%C3%A8res/20220701-max-monnehay-autrice-de-polars-entre-la-rochelle-et-la-prison-de-l-%C3%AEle-de-r%C3%A9"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Grand reportage\n                                                    \nLe paradoxe su\u00e9dois: entre mod\u00e8le et illusion climatique\n                            \n        ",
-      "url": "/fr/podcasts/grand-reportage/20220701-le-paradoxe-su%C3%A9dois-entre-mod%C3%A8le-et-illusion-climatique"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Appels sur l'actualit\u00e9\n                                                    \n[Vos r\u00e9actions] La libre antenne\n                            \n        ",
-      "url": "/fr/podcasts/appels-sur-l-actualit%C3%A9/20220701-vos-r%C3%A9actions-la-libre-antenne"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Le d\u00e9bat du jour\n                                                    \nFin du proc\u00e8s 13-Novembre: jusqu\u2019o\u00f9 la justice peut-elle aller?\n                            \n        ",
-      "url": "/fr/podcasts/d%C3%A9bat-du-jour/20220630-fin-du-proc%C3%A8s-13-novembre-jusqu-o%C3%B9-la-justice-peut-elle-aller"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                C'est pas du vent\n                                                    \nClimat: la France doit acc\u00e9l\u00e9rer et structurer ses efforts\n                            \n        ",
-      "url": "/fr/podcasts/c-est-pas-du-vent/20220701-climat-la-france-doit-acc%C3%A9l%C3%A9rer-et-structurer-ses-efforts"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Couleurs tropicales\n                                                    \nPatrice Emery Lumumba, h\u00e9ros universel, chef coutumier de Onalua\n                            \n        ",
-      "url": "/fr/podcasts/couleurs-tropicales/20220630-patrice-emery-lumumba-h%C3%A9ros-universel-chef-coutumier-de-onalua"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Priorit\u00e9 sant\u00e9\n                                                    \nQuestions de femmes:\u00a0comment retrouver l\u2019amour?\n                            \n        ",
-      "url": "/fr/podcasts/priorit%C3%A9-sant%C3%A9/20220701-questions-de-femmes-comment-retrouver-l-amour"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                7 milliards de voisins\n                                                    \nK-Pop: la culture cor\u00e9enne \u00e0 l\u2019assaut du monde\n                            \n        ",
-      "url": "/fr/podcasts/7-milliards-de-voisins/20220701-k-pop-la-culture-cor%C3%A9enne-%C3%A0-l-assaut-du-monde"
-    },
-    {
-      "text": "\n                    Tous nos podcasts \n\n                ",
-      "url": "/fr/podcasts/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Libye: des manifestants investissent le si\u00e8ge du parlement \u00e0 Tobrouk\n                            \n        ",
-      "url": "/fr/afrique/20220701-libye-des-manifestants-investissent-le-si%C3%A8ge-du-parlement-%C3%A0-tobrouk"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Guin\u00e9e: le FNDC interpelle la C\u00e9d\u00e9ao pour obtenir un d\u00e9lai raisonnable de la transition\n                            \n        ",
-      "url": "/fr/afrique/20220702-guin%C3%A9e-le-fndc-interpelle-la-c%C3%A9d%C3%A9ao-pour-obtenir-un-d%C3%A9lai-raisonnable-de-la-transition"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Madagascar: faire de la biodiversit\u00e9 un moteur de d\u00e9veloppement \u00e9conomique et social\n                            \n        ",
-      "url": "/fr/afrique/20220702-madagascar-faire-de-la-biodiversit%C3%A9-un-moteur-de-d%C3%A9veloppement-%C3%A9conomique-et-social"
-    },
-    {
-      "text": "\n                    Tous les contenus \n\n                ",
-      "url": "/fr/afrique/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \n\u00c0 la Une: la RDC f\u00eate ses 62 ans d\u2019ind\u00e9pendance\n                                \n        ",
-      "url": "/fr/podcasts/la-une-de-la-presse-cette-semaine-%C3%A0-kinshasa/20220702-%C3%A0-la-une-la-rdc-f%C3%AAte-ses-62-ans-d-ind%C3%A9pendance"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \u00c0 la Une: en \u00c9quateur, un compromis qui laissera des traces\n                            \n        ",
-      "url": "/fr/am%C3%A9riques/20220701-%C3%A0-la-une-en-%C3%A9quateur-un-compromis-qui-laissera-des-traces"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \u00c0 la Une: la bronca des Balkans contre l'UE\n                            \n        ",
-      "url": "/fr/europe/20220701-%C3%A0-la-une-la-bronca-des-balkans-contre-l-ue"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \n\u00c0 la Une: le projet de Constitution d\u00e9voil\u00e9 en Tunisie\n                            \n        ",
-      "url": "/fr/podcasts/revue-de-presse-afrique/20220701-%C3%A0-la-une-le-projet-de-constitution-d%C3%A9voil%C3%A9-en-tunisie"
-    },
-    {
-      "text": "\n                    Tous les contenus \n\n                ",
-      "url": "/fr/tag/revue-de-presse/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nQuestions de femmes:\u00a0comment retrouver l\u2019amour?\n                            \n        ",
-      "url": "/fr/podcasts/priorit%C3%A9-sant%C3%A9/20220701-questions-de-femmes-comment-retrouver-l-amour"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nSexualit\u00e9: les pr\u00e9liminaires\n                            \n        ",
-      "url": "/fr/podcasts/priorit%C3%A9-sant%C3%A9/20220630-sexualit%C3%A9-les-pr%C3%A9liminaires"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLes conseils aux voyageurs\n                            \n        ",
-      "url": "/fr/podcasts/priorit%C3%A9-sant%C3%A9/20220629-les-conseils-aux-voyageurs"
-    },
-    {
-      "text": "\n                    Tous les contenus \n\n                ",
-      "url": "/fr/podcasts/priorit\u00e9-sant\u00e9/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nAbdulrazak Gurnah: \u00abPersonne ne m\u2019a influenc\u00e9\u00bb\u00a0(2/2)\n                            \n        ",
-      "url": "/fr/podcasts/chemins-d-%C3%A9criture/20220702-abdulrazak-gurnah-personne-ne-m-a-influenc%C3%A9-2-2"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Congo-Brazzaville: naissance de la F\u00e9d\u00e9ration des chorales du Congo\n                            \n        ",
-      "url": "/fr/afrique/20220702-congo-brazzaville-naissance-de-la-f%C3%A9d%C3%A9ration-des-chorales-du-congo"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Oran, d\u00e9test\u00e9e par Albert Camus, ville de c\u0153ur de Kamel Daoud\n                            \n        ",
-      "url": "/fr/culture/20220701-oran-d%C3%A9test%C3%A9e-par-albert-camus-ville-de-c%C5%93ur-de-kamel-daoud"
-    },
-    {
-      "text": "\n                    Tous les contenus \n\n                ",
-      "url": "/fr/culture-m\u00e9dias/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Diam's ou M\u00e9lanie ? sortie du documentaire \"Salam\"\n                            \n        ",
-      "url": "https://musique.rfi.fr/rap/20220701-diams-melanie-sortie-documentaire-salam"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Afro-Club, le hit des platines avec Kizz Daniel & Tekno, Gloire Grace et Floby\n                            \n        ",
-      "url": "https://musique.rfi.fr/musique-africaine/20220630-afro-club-le-hit-platines-kizz-daniel-tekno-gloire-grace-floby"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Boby Lapointe, l'empreinte moderne\n                            \n        ",
-      "url": "https://musique.rfi.fr/chanson-francophone/20220629-boby-lapointe-lempreinte-moderne"
-    },
-    {
-      "text": "\n                    Vers RFI Musique \n\n                ",
-      "url": "https://musique.rfi.fr/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                RFI explique\n                                                    Six questions pour comprendre le r\u00e9gime semi-pr\u00e9sidentiel en France\n                            \n        ",
-      "url": "/fr/connaissances/20220625-six-points-pour-comprendre-le-r%C3%A9gime-semi-pr%C3%A9sidentiel-fran%C3%A7ais"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Entretien\n                                                    Climat: pourquoi les vagues de chaleur se multiplient et pourquoi il faut agir tout de suite\n                            \n        ",
-      "url": "/fr/connaissances/20210709-climat-pourquoi-les-vagues-de-chaleur-se-multiplient-et-pourquoi-il-faut-agir-tout-de-suite"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                A d\u00e9couvrir\n                                                    Enrichissez vos connaissances\n                            \n        ",
-      "url": "https://www.rfi.fr/fr/connaissances/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Tous nos outils pour apprendre et enseigner le fran\u00e7ais\n                            \n        ",
-      "url": "https://savoirs.rfi.fr/fr/apprendre-enseigner"
-    },
-    {
-      "text": "\n                    Tous nos longs formats \n\n                ",
-      "url": "/fr/interactif/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Fin du sommet de l'Otan: l'Alliance atlantique avance sur tous les dossiers\n                            \n        ",
-      "url": "/fr/monde/20220630-fin-du-sommet-de-l-otan-l-alliance-atlantique-avance-sur-tous-les-dossiers-%C3%A9pineux"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Allemagne: Aminata Tour\u00e9, premi\u00e8re femme noire nomm\u00e9e ministre en r\u00e9gion\n                            \n        ",
-      "url": "/fr/europe/20220629-allemagne-aminata-tour%C3%A9-premi%C3%A8re-femme-noire-nomm%C3%A9e-ministre-en-r%C3%A9gion"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    R\u00e9cemment r\u00e9unis virtuellement \u00e0 P\u00e9kin, les Brics entendent poursuivre leur expansion\n                            \n        ",
-      "url": "/fr/asie-pacifique/20220629-r%C3%A9unis-virtuellement-%C3%A0-p%C3%A9kin-les-brics-entendent-poursuivre-leur-expansion"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Coup d'envoi du Rimpac, regroupant les \u00c9tats-Unis et 26 pays alli\u00e9s\n                            \n        ",
-      "url": "/fr/am%C3%A9riques/20220629-coup-d-envoi-du-rimpac-regroupant-les-%C3%A9tats-unis-et-26-pays-alli%C3%A9s"
-    },
-    {
-      "text": "\n                    Tous les contenus \n\n                ",
-      "url": "/fr/les-plus-lus"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                La relance en Afrique\n                                                                                                            \n                            Pr\u00e9sent\u00e9 par                                \n                                    \n\n\n\n\n                                                    \n                                                            Relance en Afrique : la coop\u00e9ration japonaise pr\u00eate \u00e0 donner le top d\u00e9part\n                            \n        ",
-      "url": "/fr/contenus-partenaires/20220629-relance-en-afrique-la-coop%C3%A9ration-japonaise-pr%C3%AAte-%C3%A0-donner-le-top-d%C3%A9part"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                Economie\n                                                                                                            \n                            Pr\u00e9sent\u00e9 par                                \n                                    \n\n\n\n\n                                                    \n                                                            Vendre dans le nouveau monde du travail\n                            \n        ",
-      "url": "/fr/contenus-partenaires/20220523-vendre-dans-le-nouveau-monde-du-travail"
-    },
-    {
-      "text": "\n                    Tous les contenus sponsoris\u00e9s \n\n                ",
-      "url": "/fr/contenus-partenaires/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Concert en hologramme Oum Kalthoum\n                            \n        ",
-      "url": "https://globalgala.com/_oum_kalthum_palais_des_congres_2"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Assises de la parit\u00e9\n                            \n        ",
-      "url": "https://2022.assises-parite.com/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Op\u00e9ra poussi\u00e8re de Jean D'Am\u00e9rique\n                            \n        ",
-      "url": "https://www.editionstheatrales.fr/livres/opera-poussiere-1654.html"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Festival de Marseille\n                            \n        ",
-      "url": "https://www.festivaldemarseille.com/"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    SUR LA ROUTE DES CHEFFERIES\n                            \n        ",
-      "url": "https://www.quaibranly.fr/fr/expositions-evenements/au-musee/expositions/details-de-levenement/e/sur-la-route-des-chefferies-du-cameroun-39132/?utm_source=france24&utm_medium=site_web_400x225&utm_campaign=laroutedeschefferies"
-    },
-    {
-      "text": "\n                                                                                                                \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Nos langues fran\u00e7aises\n                            \n        ",
-      "url": "https://www.editions-du-patrimoine.fr/Librairie/Hors-collection/Nos-langues-francaises"
-    },
-    {
-      "text": "\n                    Tous nos partenaires \n\n                ",
-      "url": "/fr/partenaires"
-    },
-    {
-      "text": "2022",
-      "url": "/fr/archives/2022/"
-    },
-    {
-      "text": "2021",
-      "url": "/fr/archives/2021/"
-    },
-    {
-      "text": "2020",
-      "url": "/fr/archives/2020/"
-    },
-    {
-      "text": "2019",
-      "url": "/fr/archives/2019/"
-    },
-    {
-      "text": "2018",
-      "url": "/fr/archives/2018/"
-    },
-    {
-      "text": "2017",
-      "url": "/fr/archives/2017/"
-    },
-    {
-      "text": "2016",
-      "url": "/fr/archives/2016/"
-    },
-    {
-      "text": "2015",
-      "url": "/fr/archives/2015/"
-    },
-    {
-      "text": "2014",
-      "url": "/fr/archives/2014/"
-    },
-    {
-      "text": "2013",
-      "url": "/fr/archives/2013/"
-    },
-    {
-      "text": "2012",
-      "url": "/fr/archives/2012/"
-    },
-    {
-      "text": "2011",
-      "url": "/fr/archives/2011/"
-    },
-    {
-      "text": "2010",
-      "url": "/fr/archives/2010/"
-    },
-    {
-      "text": "2009",
-      "url": "/fr/archives/2009/"
-    },
-    {
-      "text": "2008",
-      "url": "/fr/archives/2008/"
-    },
-    {
-      "text": "2007",
-      "url": "/fr/archives/2007/"
-    }
-  ],
-  "server": "ia801506.us.archive.org",
-  "uniq": 264123461,
+  "server": "ia601506.us.archive.org",
+  "uniq": 472686865,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

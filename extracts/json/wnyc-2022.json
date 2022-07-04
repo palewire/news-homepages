@@ -1,5 +1,5 @@
 {
-  "created": 1656808181,
+  "created": 1656936941,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -898,31 +898,157 @@
       "sha1": "b83d186f70b95ced15a5e34387844ddc8b143abe"
     },
     {
+      "name": "wnyc-2022-07-02T21:38:57.872712-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656812340",
+      "size": "29996",
+      "md5": "c4f73dcd3e68ae3f658e4ae82e7fdfa8",
+      "crc32": "59411c25",
+      "sha1": "98318a2aaa9d73c71a149a7314b64aee4573cc6c",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-02T21:38:57.872712-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656812342",
+      "size": "24524",
+      "md5": "358e52a8f3d26f8fcd827d9e7506d832",
+      "crc32": "a462aaac",
+      "sha1": "368d32dc6e73071e6ee7c751237e936632531010",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-02T21:38:57.872712-04:00.jpg",
+      "source": "original",
+      "mtime": "1656812339",
+      "size": "188369",
+      "md5": "5205a451f43fb1402800bfa002bd1558",
+      "crc32": "8e585ddc",
+      "sha1": "d179c3676dc551ddd26bf600da339a8a16cf82f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-07-02T21:38:57.872712-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-07-02T21:38:57.872712-04:00.jpg",
+      "mtime": "1656812393",
+      "size": "9081",
+      "md5": "91cfbed0211d78e63e00e8abfcbd7591",
+      "crc32": "e517c13d",
+      "sha1": "5e040796a58a01d65d19e0b56a0d4a10d29a48f8"
+    },
+    {
+      "name": "wnyc-2022-07-03T09:17:45.418176-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656854269",
+      "size": "30122",
+      "md5": "00023a1734a89f850f03adb4ecf55c3d",
+      "crc32": "494d12eb",
+      "sha1": "c5a821699e5452bb7b8d08ea84f7b0d518ef568a",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-03T09:17:45.418176-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656854271",
+      "size": "24521",
+      "md5": "948f8a0ded91ecb890c176766befb93e",
+      "crc32": "e0645729",
+      "sha1": "222569015f6c9e5ecbef1283377952dea7c71594",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-03T09:17:45.418176-04:00.jpg",
+      "source": "original",
+      "mtime": "1656854268",
+      "size": "187680",
+      "md5": "e3e3c84ceea28a953944c83257332433",
+      "crc32": "781a9ec9",
+      "sha1": "84e8abbece5dc44dd73ebd8bd50b1c461b4cf8e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-07-03T09:17:45.418176-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-07-03T09:17:45.418176-04:00.jpg",
+      "mtime": "1656854317",
+      "size": "9066",
+      "md5": "2c62fa6ed389330685ace5b224ade8a7",
+      "crc32": "cb556a8a",
+      "sha1": "a8ce7c615af68ff152d201bd3325fdec2298c9ea"
+    },
+    {
+      "name": "wnyc-2022-07-03T21:42:29.477137-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898952",
+      "size": "9756",
+      "md5": "570c30f5589e544ee2c16297ee1cf943",
+      "crc32": "bbcc7ec0",
+      "sha1": "49f0d35f9549d0707e8758d09bfee66fafa8a609",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-03T21:42:29.477137-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898954",
+      "size": "24395",
+      "md5": "b75015d60801b59360e8dffe93ecf28f",
+      "crc32": "7152854f",
+      "sha1": "fe9fb2b7c237302d2122c25dc47b8463c2b53cd1",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-03T21:42:29.477137-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898951",
+      "size": "186474",
+      "md5": "95d98ecb730d4158ac42f5b7bf419e55",
+      "crc32": "cad92f1a",
+      "sha1": "e24f7d3672e57c01d51d5b4ee092b5d24253d0bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-07-03T21:42:29.477137-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-07-03T21:42:29.477137-04:00.jpg",
+      "mtime": "1656899005",
+      "size": "9047",
+      "md5": "be83398afe4e55290a818c9b012a6be2",
+      "crc32": "92ee04f2",
+      "sha1": "7e8cfa4b57956a0a7cac9caaa749740df623000d"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d95ec5de603a83c0f0463c84b58ac3c2626bedc",
-      "mtime": "1656768146",
-      "size": "18861",
-      "md5": "9eb8cf101444c192b23439b47fd0e846",
-      "crc32": "a0e26067",
-      "sha1": "5cfb3e651a50b5beeb64a297119cfc188ec1d931",
+      "btih": "e7875c2d0b06abc3975701e2125ca3c96d6ec4c0",
+      "mtime": "1656899007",
+      "size": "21339",
+      "md5": "f4b2710200a6cb8599ea58935eef0756",
+      "crc32": "b7d79ef0",
+      "sha1": "7e201fea42f9095556b5c8ecd43ee4c9668875a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2bfbf367b2597cd80a5971a1dd91684d",
+      "md5": "90b5adf3a75926c24bee3774aced34bb",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656768052",
-      "size": "114688",
-      "md5": "f387596d72f28378e4828f22ee7bdb1c",
-      "crc32": "ca68e0fa",
-      "sha1": "0244052874c6f426c9a4aa7cbb49462353395dcd",
+      "mtime": "1656898958",
+      "size": "135168",
+      "md5": "a2b432c9566008cf7833e58cc2518cc4",
+      "crc32": "e1b05a9c",
+      "sha1": "51587a6defe870fdfc2ef1d806617a6738d65767",
       "format": "Metadata"
     },
     {
@@ -936,9 +1062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1656768146,
-  "item_size": 5593150,
+  "files_count": 101,
+  "item_last_updated": 1656899007,
+  "item_size": 6349139,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -956,7 +1082,7 @@
     "addeddate": "2022-06-27 18:14:25"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 1623809597,
+  "uniq": 2142642950,
   "wnyc-2022": [
     {
       "text": "\n    \n  \n\n\n\n",
@@ -1071,8 +1197,8 @@
       "url": "https://www.instagram.com/wnyc"
     },
     {
-      "text": "Weekend Edition Saturday",
-      "url": "https://www.wnyc.org/shows/weekend-edition-saturday"
+      "text": "Freakonomics Radio",
+      "url": "http://freakonomics.com/hours"
     },
     {
       "text": "    \n      ",
@@ -1104,19 +1230,19 @@
     },
     {
       "text": "    \n      ",
-      "url": "/story/these-candidates-lost-badly-but-now-are-claiming-fraud/"
+      "url": "http://www.wnyc.org/story/weekend-arts-planner-photography-cindy-sherman-and-free-nicole-atkins-concert/"
     },
     {
-      "text": "\n            These candidates lost badly, but now are claiming fraud\n          ",
-      "url": "/story/these-candidates-lost-badly-but-now-are-claiming-fraud/"
+      "text": "\n            Weekend Arts Planner: The photography of Cindy Sherman and a free Nicole Atkins concert\n          ",
+      "url": "http://www.wnyc.org/story/weekend-arts-planner-photography-cindy-sherman-and-free-nicole-atkins-concert/"
     },
     {
       "text": "    \n      ",
-      "url": "/story/fourth-of-july-fireworks-cancelled-and-delayed-due-to-worker-shortage/"
+      "url": "http://www.wnyc.org/story/week-politics-looking-ahead-new-yorks-august-primary-and-governors-race/"
     },
     {
-      "text": "\n            Fourth of July fireworks cancelled and delayed due to worker shortage\n          ",
-      "url": "/story/fourth-of-july-fireworks-cancelled-and-delayed-due-to-worker-shortage/"
+      "text": "\n            This Week in Politics: Looking ahead to New York's August primary and the governor's race\n          ",
+      "url": "http://www.wnyc.org/story/week-politics-looking-ahead-new-yorks-august-primary-and-governors-race/"
     },
     {
       "text": "    \n      ",
@@ -1128,11 +1254,11 @@
     },
     {
       "text": "    \n      ",
-      "url": "https://gothamist.com/news/kathy-hochul-lee-zeldin-race-to-define-the-ny-governor-campaign"
+      "url": "/story/these-candidates-lost-badly-but-now-are-claiming-fraud/"
     },
     {
-      "text": "\n            Kathy Hochul, Lee Zeldin race to define the NY governor campaign\n          ",
-      "url": "https://gothamist.com/news/kathy-hochul-lee-zeldin-race-to-define-the-ny-governor-campaign"
+      "text": "\n            These candidates lost badly, but now are claiming fraud\n          ",
+      "url": "/story/these-candidates-lost-badly-but-now-are-claiming-fraud/"
     },
     {
       "text": "    \n      ",
@@ -1304,30 +1430,6 @@
     },
     {
       "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
-    },
-    {
-      "text": "\n                  Meet the NYS Lt. Gov Candidates; Monday Morning Politics: Roe Overturned; COVID Shots for Babies and Toddlers; Does Religious Freedom Apply to Jewish Americans?\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-30/"
-    },
-    {
-      "text": "\n                  Fossil Fuels in the EU; Noncitizen Voting in NYC; Moving Abroad; SCOTUS Update\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-30/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-07-01/"
-    },
-    {
-      "text": "\n                  Combatting Post-Pandemic Food Insecurity; Climate Dread & Some Good News; School Diversity in Queens; Defining Gender\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-07-01/"
-    },
-    {
-      "text": "    \n      ",
       "url": "//www.wnyc.org/story/the-chart-that-explains-everyone-character-alignment/"
     },
     {
@@ -1336,11 +1438,31 @@
     },
     {
       "text": "    \n      ",
-      "url": "//www.wnyc.org/story/good-vibes-viral-photo-judge-ketanji-brown-jacksons-daughter/"
+      "url": "//www.wnyc.org/story/cockroach-or-waterbug/"
     },
     {
-      "text": "\n                  Good Vibes: The Viral Photo Of Judge Ketanji Brown Jackson's Daughter\n                ",
-      "url": "http://www.wnyc.org/story/good-vibes-viral-photo-judge-ketanji-brown-jacksons-daughter/"
+      "text": "\n                  Are Water Bugs the Same as Cockroaches?\n                ",
+      "url": "http://www.wnyc.org/story/cockroach-or-waterbug/"
+    },
+    {
+      "text": "\n                  WNBA star Brittney Griner begins trial in Moscow over drug charges\n                ",
+      "url": "/story/wnba-star-brittney-griner-begins-trial-in-moscow-over-drug-charges/"
+    },
+    {
+      "text": "    \n      ",
+      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
+    },
+    {
+      "text": "\n                  Meet the NYS Lt. Gov Candidates; Monday Morning Politics: Roe Overturned; COVID Shots for Babies and Toddlers; Does Religious Freedom Apply to Jewish Americans?\n                ",
+      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-27/"
+    },
+    {
+      "text": "    \n      ",
+      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-07-01/"
+    },
+    {
+      "text": "\n                  Combatting Post-Pandemic Food Insecurity; Climate Dread & Some Good News; School Diversity in Queens; Defining Gender\n                ",
+      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-07-01/"
     },
     {
       "text": "    \n      ",
@@ -1360,19 +1482,19 @@
     },
     {
       "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
-    },
-    {
-      "text": "\n                  NYS Primary Results; January 6th Surprise Hearing Recap; Sen. Gillibrand on Abortion Rights, Guns & More; Summer Travel\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
-    },
-    {
-      "text": "    \n      ",
       "url": "//www.wnyc.org/story/all-of-it-2022-07-01/"
     },
     {
       "text": "\n                  Roy Wood Jr, Adam McKay on 'Don't Look Up,' Lindsey Vonn's 'RISE,' Michelle D. Hord's 'The Other Side of Yet,' Eric Kim's Korean American Food, Stephen Merchant\n                ",
       "url": "http://www.wnyc.org/story/all-of-it-2022-07-01/"
+    },
+    {
+      "text": "    \n      ",
+      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
+    },
+    {
+      "text": "\n                  NYS Primary Results; January 6th Surprise Hearing Recap; Sen. Gillibrand on Abortion Rights, Guns & More; Summer Travel\n                ",
+      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-06-29/"
     },
     {
       "text": "    \n      ",
@@ -1408,11 +1530,11 @@
     },
     {
       "text": "    \n      ",
-      "url": "//www.wqxr.org/story/bates-revolution-steve-jobs-santa-fe-opera/"
+      "url": "//www.wqxr.org/story/berlioz-damnation-faust-salzburg-festival-austria/"
     },
     {
-      "text": "\n                  Saturday at 1pm: Bates's The (R)evolution of Steve Jobs from Santa Fe Opera\n                ",
-      "url": "http://www.wqxr.org/story/bates-revolution-steve-jobs-santa-fe-opera/"
+      "text": "\n                  Saturday at 1pm: Berlioz's The Damnation of Faust from the Salzburg Festival\n                ",
+      "url": "http://www.wqxr.org/story/berlioz-damnation-faust-salzburg-festival-austria/"
     },
     {
       "text": "    \n      ",

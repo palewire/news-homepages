@@ -1,5 +1,5 @@
 {
-  "created": 1656796321,
+  "created": 1656936689,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -1822,31 +1822,241 @@
       "sha1": "198122b9896bb11ea5acb8dc30268a5bf515d56c"
     },
     {
+      "name": "npr-2022-07-02T21:32:29.520149-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656811953",
+      "size": "20179",
+      "md5": "60d41dd612edde939610f5a4390b3480",
+      "crc32": "d8000ddd",
+      "sha1": "ee1950541dc54fc721f6a5be6f1e080bcdf6fa9b",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-02T21:32:29.520149-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656811955",
+      "size": "33353",
+      "md5": "7ceb74de4519eda7d4ac01a9f9248052",
+      "crc32": "18d23831",
+      "sha1": "3670c9984fc9e1ec7185759d6e13e42b4f0e888b",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-02T21:32:29.520149-04:00.jpg",
+      "source": "original",
+      "mtime": "1656811952",
+      "size": "265089",
+      "md5": "1fadb9d098f2a4875e028be003c89264",
+      "crc32": "629d0bad",
+      "sha1": "c0a011b34658e1de09588cdae6926849290bd947",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-02T21:32:29.520149-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-02T21:32:29.520149-04:00.jpg",
+      "mtime": "1656812018",
+      "size": "9866",
+      "md5": "b042106055252ba3c3390e8e2ce6d8d9",
+      "crc32": "440e1b94",
+      "sha1": "4c189ae28850257b89fff4b686d60faab48615c8"
+    },
+    {
+      "name": "npr-2022-07-03T09:11:52.594408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853916",
+      "size": "23287",
+      "md5": "5f90ec42b11d00bdb7b25c6c5d486530",
+      "crc32": "62fbf98f",
+      "sha1": "ffb74217ee86ef0be998a472cf4c95cdc23927e7",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-03T09:11:52.594408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853917",
+      "size": "36479",
+      "md5": "42b37fa178ca4f17edc7f4950979d5fa",
+      "crc32": "ad330e0c",
+      "sha1": "22b58569fd27df3296a8278aedd80bc0b51790b7",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-03T09:11:52.594408-04:00.jpg",
+      "source": "original",
+      "mtime": "1656853914",
+      "size": "219616",
+      "md5": "a7559f482cade5f7350d9828d9c05941",
+      "crc32": "11b499bf",
+      "sha1": "cdbb584f25a7e637895b3e9da8be6b661fb4aafa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-03T09:11:52.594408-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-03T09:11:52.594408-04:00.jpg",
+      "mtime": "1656853963",
+      "size": "9311",
+      "md5": "b4e4feee9e335d448111d66a8fa66f03",
+      "crc32": "9e8d425f",
+      "sha1": "5fb10d0d92267a62739732f5252672d09e019b90"
+    },
+    {
+      "name": "npr-2022-07-03T10:06:36.502356-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656857200",
+      "size": "20550",
+      "md5": "8263580314e86c1dda3bf8637f0fca12",
+      "crc32": "b4d8b951",
+      "sha1": "11ce2e1b4763d1bd185d0161ed7c16cdf1045b68",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-03T10:06:36.502356-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656857202",
+      "size": "33508",
+      "md5": "39c0fcdc63c324a986b6c30653a268cf",
+      "crc32": "d7240398",
+      "sha1": "73d583503dc6c30a91537863c3c973fb8dc84495",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-03T10:06:36.502356-04:00.jpg",
+      "source": "original",
+      "mtime": "1656857198",
+      "size": "240601",
+      "md5": "2dabdf3e26f850ffff6e9b4c42845444",
+      "crc32": "0b3fd0e3",
+      "sha1": "cf40a6d7f835ca4c181a7c7342b117bba9ba14c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-03T10:06:36.502356-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-03T10:06:36.502356-04:00.jpg",
+      "mtime": "1656857250",
+      "size": "9786",
+      "md5": "d35e357e25a93ea909dacf99c531e6fa",
+      "crc32": "1586e2c6",
+      "sha1": "f313015df0032140359faf4a6fcc1e69b5b5f287"
+    },
+    {
+      "name": "npr-2022-07-03T17:07:05.971116-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656882430",
+      "size": "18018",
+      "md5": "e5077ed498b4b95b0963362eb261a3f3",
+      "crc32": "bda01fb6",
+      "sha1": "b20b197f2750a458a0c41923aa5c4ccbfb7ecded",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-03T17:07:05.971116-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656882431",
+      "size": "29869",
+      "md5": "e01fa7837c51b714b1c83cc46c414671",
+      "crc32": "8a41c777",
+      "sha1": "502d606002c08cb64bc131461d45c56f3c152385",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-03T17:07:05.971116-04:00.jpg",
+      "source": "original",
+      "mtime": "1656882428",
+      "size": "240191",
+      "md5": "2aace31a69ad3010b39d5b244089b6f1",
+      "crc32": "9bce4bee",
+      "sha1": "f016cdafef2398c269020e999deea936d6325ab6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-03T17:07:05.971116-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-03T17:07:05.971116-04:00.jpg",
+      "mtime": "1656882475",
+      "size": "9262",
+      "md5": "177bab9a8bf1c58a7ca13341180cb995",
+      "crc32": "3d018e15",
+      "sha1": "35341acdd223c151244c1ecef893ada6e94b09d2"
+    },
+    {
+      "name": "npr-2022-07-03T21:32:52.948565-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898377",
+      "size": "19351",
+      "md5": "628d4b052550a464c6e094563b8a39e8",
+      "crc32": "e0331d26",
+      "sha1": "cf2258ca8f39f01d2e80fdb795ac0d051be38966",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-03T21:32:52.948565-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898378",
+      "size": "30629",
+      "md5": "75d7a2b8ae77565b94a4d506ec621df0",
+      "crc32": "0bb95308",
+      "sha1": "9d6002518aada508bb8fddbc4ac4edfb4feeda40",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-03T21:32:52.948565-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898375",
+      "size": "221280",
+      "md5": "2480812015370d041d5cb8e6140cf57f",
+      "crc32": "95887436",
+      "sha1": "22ce4c228fdb659d0f0ea424d5b75003980edb2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-03T21:32:52.948565-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-03T21:32:52.948565-04:00.jpg",
+      "mtime": "1656898443",
+      "size": "9233",
+      "md5": "caae1854c3f453ded5ccd8e9c88d878d",
+      "crc32": "626a5854",
+      "sha1": "7aa4e4c31c862dcc7980248a7598f8b852600a36"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f24a75217d2f4312722280518de6955a30f075b",
-      "mtime": "1656796284",
-      "size": "36924",
-      "md5": "312b7b12917cd94179d2fe785a364a97",
-      "crc32": "a71cb3b7",
-      "sha1": "8a19fe4065c2e393341aa577c5533ff9646dc3a5",
+      "btih": "189612e49d75ddeb6d33b5ac40bd9617a897ccde",
+      "mtime": "1656898448",
+      "size": "41029",
+      "md5": "82abaa3d8dbd968b0d4f6da57c1a8757",
+      "crc32": "fc687441",
+      "sha1": "95eb18a379ef2abf58e3791748cf473b84f67826",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aaf6a18aa26c1cd872b1cb84d068ead6",
+      "md5": "13d395da74d51c5cf0b2bff8ce645371",
       "summation": "md5"
     },
     {
       "name": "npr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656796183",
-      "size": "217088",
-      "md5": "1f6801237f54a2e9cefe44360b545367",
-      "crc32": "a12f8481",
-      "sha1": "7d15798f7693d183a825c9cea74cbbb0efe3ed46",
+      "mtime": "1656898382",
+      "size": "237568",
+      "md5": "14d3b879b4122af14a7b5262f81c9610",
+      "crc32": "d03e727a",
+      "sha1": "bb25c0ad96bad09c8bccd0f7c32b93966706b7b3",
       "format": "Metadata"
     },
     {
@@ -1860,9 +2070,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1656796284,
-  "item_size": 14332015,
+  "files_count": 197,
+  "item_last_updated": 1656898448,
+  "item_size": 15856058,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -1879,10 +2089,744 @@
     "publicdate": "2022-06-24 22:58:47",
     "addeddate": "2022-06-24 22:58:47"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 835478403,
+  "npr-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#mainContent"
+    },
+    {
+      "text": "Keyboard shortcuts for audio player",
+      "url": "https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player"
+    },
+    {
+      "text": "\n                    \n                ",
+      "url": "/"
+    },
+    {
+      "text": "NPR Shop",
+      "url": "https://shop.npr.org"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/sections/news/"
+    },
+    {
+      "text": "National",
+      "url": "/sections/national/"
+    },
+    {
+      "text": "World",
+      "url": "/sections/world/"
+    },
+    {
+      "text": "Politics",
+      "url": "/sections/politics/"
+    },
+    {
+      "text": "Business",
+      "url": "/sections/business/"
+    },
+    {
+      "text": "Health",
+      "url": "/sections/health/"
+    },
+    {
+      "text": "Science",
+      "url": "/sections/science/"
+    },
+    {
+      "text": "Climate",
+      "url": "/sections/climate/"
+    },
+    {
+      "text": "Race",
+      "url": "/sections/codeswitch/"
+    },
+    {
+      "text": "Culture",
+      "url": "/sections/culture/"
+    },
+    {
+      "text": "Books",
+      "url": "/books/"
+    },
+    {
+      "text": "Movies",
+      "url": "/sections/movies/"
+    },
+    {
+      "text": "Television",
+      "url": "/sections/television/"
+    },
+    {
+      "text": "Pop Culture",
+      "url": "/sections/pop-culture/"
+    },
+    {
+      "text": "Food",
+      "url": "/sections/food/"
+    },
+    {
+      "text": "Art & Design",
+      "url": "/sections/art-design/"
+    },
+    {
+      "text": "Performing Arts",
+      "url": "/sections/performing-arts/"
+    },
+    {
+      "text": "Life Kit",
+      "url": "/lifekit/"
+    },
+    {
+      "text": "Music",
+      "url": "/music/"
+    },
+    {
+      "text": "\n        Tiny Desk Contest\n    ",
+      "url": "https://www.npr.org/series/1072544367/tiny-desk-contest"
+    },
+    {
+      "text": "\n        #NowPlaying\n    ",
+      "url": "https://www.npr.org/series/1002643619/now-playing"
+    },
+    {
+      "text": "\n        All Songs Considered\n    ",
+      "url": "https://www.npr.org/sections/allsongs/"
+    },
+    {
+      "text": "\n        Tiny Desk\n    ",
+      "url": "https://www.npr.org/series/tiny-desk-concerts/"
+    },
+    {
+      "text": "\n        Music Features\n    ",
+      "url": "https://www.npr.org/sections/music-features"
+    },
+    {
+      "text": "\n        Live Sessions\n    ",
+      "url": "https://www.npr.org/series/770565791/npr-music-live-sessions"
+    },
+    {
+      "text": "Podcasts & Shows",
+      "url": "/podcasts-and-shows/"
+    },
+    {
+      "text": "\n                                    \n                                    Morning Edition\n                                ",
+      "url": "/programs/morning-edition/"
+    },
+    {
+      "text": "\n                                    \n                                    Weekend Edition Saturday\n                                ",
+      "url": "/programs/weekend-edition-saturday/"
+    },
+    {
+      "text": "\n                                    \n                                    Weekend Edition Sunday\n                                ",
+      "url": "/programs/weekend-edition-sunday/"
+    },
+    {
+      "text": "\n                                    \n                                    All Things Considered\n                                ",
+      "url": "/programs/all-things-considered/"
+    },
+    {
+      "text": "\n                                    \n                                    Fresh Air\n                                ",
+      "url": "/programs/fresh-air/"
+    },
+    {
+      "text": "\n                                    \n                                    Up First\n                                ",
+      "url": "/podcasts/510318/up-first/"
+    },
+    {
+      "text": "\n        \n        Pop Culture Happy Hour\n    ",
+      "url": "https://www.npr.org/podcasts/510282/pop-culture-happy-hour"
+    },
+    {
+      "text": "\n        \n        Short Wave\n    ",
+      "url": "https://www.npr.org/podcasts/510351/short-wave"
+    },
+    {
+      "text": "\n        \n        The Indicator from Planet Money\n    ",
+      "url": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money"
+    },
+    {
+      "text": "\n        \n        State of Ukraine\n    ",
+      "url": "https://www.npr.org/podcasts/510366/state-of-ukraine"
+    },
+    {
+      "text": "More Podcasts & Shows",
+      "url": "/podcasts-and-shows/"
+    },
+    {
+      "text": "Search",
+      "url": "/search/"
+    },
+    {
+      "text": "NPR Shop",
+      "url": "https://shop.npr.org"
+    },
+    {
+      "text": "\n                        \n                        \n                    ",
+      "url": "/music/"
+    },
+    {
+      "text": "\n        Tiny Desk Contest\n    ",
+      "url": "https://www.npr.org/series/1072544367/tiny-desk-contest"
+    },
+    {
+      "text": "\n        #NowPlaying\n    ",
+      "url": "https://www.npr.org/series/1002643619/now-playing"
+    },
+    {
+      "text": "\n        All Songs Considered\n    ",
+      "url": "https://www.npr.org/sections/allsongs/"
+    },
+    {
+      "text": "\n        Tiny Desk\n    ",
+      "url": "https://www.npr.org/series/tiny-desk-concerts/"
+    },
+    {
+      "text": "\n        Music Features\n    ",
+      "url": "https://www.npr.org/sections/music-features"
+    },
+    {
+      "text": "\n        Live Sessions\n    ",
+      "url": "https://www.npr.org/series/770565791/npr-music-live-sessions"
+    },
+    {
+      "text": "About NPR",
+      "url": "/about/"
+    },
+    {
+      "text": "Diversity",
+      "url": "/diversity/"
+    },
+    {
+      "text": "Organization",
+      "url": "/organization/"
+    },
+    {
+      "text": "Support",
+      "url": "/support/"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "Connect",
+      "url": "/connect/"
+    },
+    {
+      "text": "Press",
+      "url": "/press/"
+    },
+    {
+      "text": "Ethics",
+      "url": "/ethics/"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/1109015302/abortion-prosecuting-pregnancy-loss"
+    },
+    {
+      "text": "\n                        Reproductive rights in America\n                        ",
+      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
+    },
+    {
+      "text": "\n                Losing a pregnancy could land you in jail in post-Roe America\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109015302/abortion-prosecuting-pregnancy-loss"
+    },
+    {
+      "text": "\n                Now that the Supreme Court has struck down Roe v. Wade, experts warn that prosecutions will increase for miscarriages, stillbirths and self-induced abortions.\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109015302/abortion-prosecuting-pregnancy-loss"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/1109625359/ukraine-luhansk-donbas-russia"
+    },
+    {
+      "text": "\n                            Europe\n                            ",
+      "url": "https://www.npr.org/sections/europe/"
+    },
+    {
+      "text": "\n            The last city in Luhansk has fallen to Russia. What does that mean for Ukraine?\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109625359/ukraine-luhansk-donbas-russia"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/1108748259/ecologists-wildfire-plans-climate-change"
+    },
+    {
+      "text": "\n                            National\n                            ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n            Ecologists say federal wildfire plans are dangerously out of step with climate change\n            ",
+      "url": "https://www.npr.org/2022/07/03/1108748259/ecologists-wildfire-plans-climate-change"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.wksu.org/government-politics/2022-07-03/family-of-jayland-walker-demands-accountability-following-fatal-shooting-by-akron-police"
+    },
+    {
+      "text": "\n            Akron police release bodycam video of Jayland Walker shooting\n            ",
+      "url": "https://www.wksu.org/government-politics/2022-07-03/family-of-jayland-walker-demands-accountability-following-fatal-shooting-by-akron-police"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting"
+    },
+    {
+      "text": "\n                            Europe\n                            ",
+      "url": "https://www.npr.org/sections/europe/"
+    },
+    {
+      "text": "\n            A gunman killed 3 people and wounded others at a Copenhagen mall\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109620631/copenhagen-fields-mall-shooting"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps"
+    },
+    {
+      "text": "\n                            Europe\n                            ",
+      "url": "https://www.npr.org/sections/europe/"
+    },
+    {
+      "text": "\n            At least 6 hikers were killed after a piece of glacier broke loose in Italy\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109646066/glacier-italy-hikers-climate-change-alps"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2021/01/25/960423678/how-to-set-boundaries-with-family-and-stick-to-them"
+    },
+    {
+      "text": "\n                            Life Kit\n                            ",
+      "url": "https://www.npr.org/lifekit"
+    },
+    {
+      "text": "\n            How to set boundaries with family \u2014 and stick to them\n            ",
+      "url": "https://www.npr.org/2021/01/25/960423678/how-to-set-boundaries-with-family-and-stick-to-them"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6"
+    },
+    {
+      "text": "\n                                    Investigations\n                                    ",
+      "url": "https://www.npr.org/sections/investigations/"
+    },
+    {
+      "text": "\n                        Election deniers have taken their fraud theories on tour \u2014 to nearly every state\n                    ",
+      "url": "https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6"
+    },
+    {
+      "text": "\n                        Even as the Jan. 6 hearings play out, election misinformation keeps spreading. NPR tracked four leaders preaching false information about election fraud at hundreds of grassroots events nationwide.\n                    ",
+      "url": "https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            8:14\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220630_atc_election_deniers_have_taken_their_fraud_theories_on_tour_to_nearly_every_state.mp3?orgId=1&topicId=1150&d=494&p=2&story=1107868327&dl=1&sc=siteplayer&size=7909504&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220630_atc_election_deniers_have_taken_their_fraud_theories_on_tour_to_nearly_every_state.mp3?orgId=1&topicId=1150&d=494&p=2&story=1107868327&dl=1&sc=siteplayer&size=7909504&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n                    \n                    Transcript\n                  ",
+      "url": "https://www.npr.org/transcripts/1107868327"
+    },
+    {
+      "text": "\n        \n            These candidates lost badly, but now are claiming fraud\n        \n    ",
+      "url": "https://www.npr.org/2022/07/02/1109442956/these-candidates-lost-badly-but-now-are-claiming-fraud"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/1109651063/haltom-city-shooting-dallas-fort-worth-texas"
+    },
+    {
+      "text": "\n                        National\n                        ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n                A gunman killed 2 people and wounded 3 police officers in Texas\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109651063/haltom-city-shooting-dallas-fort-worth-texas"
+    },
+    {
+      "text": "\n                A gunman killed two people and wounded four others, including three police officers, before taking his own life on Saturday in the Dallas-Fort Worth area.\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109651063/haltom-city-shooting-dallas-fort-worth-texas"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/1109614708/protests-at-homes-of-supreme-court-justices"
+    },
+    {
+      "text": "\n                        Law\n                        ",
+      "url": "https://www.npr.org/sections/law/"
+    },
+    {
+      "text": "\n                The Supreme Court marshal asks state officials to act on protests at justices' homes\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109614708/protests-at-homes-of-supreme-court-justices"
+    },
+    {
+      "text": "\n                The protests have carried on for weeks since the leak of a draft of the court's eventual decision to overturn Roe v. Wade. State officials had previously called on federal law enforcement for help.\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109614708/protests-at-homes-of-supreme-court-justices"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.iowapublicradio.org/agriculture/2022-06-30/some-of-iowas-queer-farmers-are-taking-a-different-approach-to-agriculture"
+    },
+    {
+      "text": "\n                Some of Iowa's queer farmers are taking a different approach to agriculture\n            ",
+      "url": "https://www.iowapublicradio.org/agriculture/2022-06-30/some-of-iowas-queer-farmers-are-taking-a-different-approach-to-agriculture"
+    },
+    {
+      "text": "\n                There aren't any definite numbers on how many LGBTQ farmers there are in this country, but some are making a point to be visible in their communities.\n            ",
+      "url": "https://www.iowapublicradio.org/agriculture/2022-06-30/some-of-iowas-queer-farmers-are-taking-a-different-approach-to-agriculture"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules"
+    },
+    {
+      "text": "\n                        Europe\n                        ",
+      "url": "https://www.npr.org/sections/europe/"
+    },
+    {
+      "text": "\n                A day trip to Venice will require a reservation \u2014 and a fee\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules"
+    },
+    {
+      "text": "\n                City officials unveiled new rules for day-trippers that go into effect on Jan. 16. It's part of a bid to better manage visitors who often far outnumber residents in the historic center.\n            ",
+      "url": "https://www.npr.org/2022/07/03/1109615164/italy-venice-travel-new-rules"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/344034980/influential-theater-director-peter-brook-dies-at-97"
+    },
+    {
+      "text": "\n                        Obituaries\n                        ",
+      "url": "https://www.npr.org/sections/obituaries/"
+    },
+    {
+      "text": "\n                Influential theater director Peter Brook dies at 97\n            ",
+      "url": "https://www.npr.org/2022/07/03/344034980/influential-theater-director-peter-brook-dies-at-97"
+    },
+    {
+      "text": "\n                Brook's work ranged from classical star-studded productions to radical experiments in theater. He reinvented King Lear and explored the fragility of civilization in the film Lord of the Flies.\n            ",
+      "url": "https://www.npr.org/2022/07/03/344034980/influential-theater-director-peter-brook-dies-at-97"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/06/22/1106357168/rosewave-110-songs-for-your-summer-getaway"
+    },
+    {
+      "text": "\n                                    Ros\u00e9wave: Your Summer Soundtrack\n                                    ",
+      "url": "https://www.npr.org/sections/allsongs/611745187/ros-wave-your-summer-soundtrack"
+    },
+    {
+      "text": "\n                        Ros\u00e9wave: 110 songs for your summer getaway\n                    ",
+      "url": "https://www.npr.org/2022/06/22/1106357168/rosewave-110-songs-for-your-summer-getaway"
+    },
+    {
+      "text": "\n                        Hit play and vibe all day. Ros\u00e9wave is a lifestyle, not a genre, based around summer feels. To kick things off, here's a seven-hour soundtrack for your getaway or staycation.\n                    ",
+      "url": "https://www.npr.org/2022/06/22/1106357168/rosewave-110-songs-for-your-summer-getaway"
+    },
+    {
+      "text": "\n        \n            5 protest songs that have taken on new meaning post-Roe\n        \n    ",
+      "url": "https://www.npr.org/2022/07/02/1109336452/protest-music-abortion-rights-roe-wade-march-blm"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/03/1109483662/doctors-werent-considered-in-dobbs-but-now-theyre-on-abortions-legal-front-lines"
+    },
+    {
+      "text": "\n                        Shots - Health News\n                        ",
+      "url": "https://www.npr.org/sections/health-shots/"
+    },
+    {
+      "text": "\n                Doctors weren't considered in Dobbs, but now they're on abortion's legal front lines\n            ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/03/1109483662/doctors-werent-considered-in-dobbs-but-now-theyre-on-abortions-legal-front-lines"
+    },
+    {
+      "text": "\n                In a departure from earlier Supreme Court decisions on abortion, Justice Alito's abortion opinion barely mentions medicine. This creates a perilous new legal reality for doctors, legal analysts say.\n            ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/03/1109483662/doctors-werent-considered-in-dobbs-but-now-theyre-on-abortions-legal-front-lines"
+    },
+    {
+      "text": "\n        \n            Alabama is using the case that ended Roe to argue it can ban gender-affirming care\n        \n    ",
+      "url": "https://www.npr.org/2022/07/03/1109613520/alabama-abortion-rights-gender-affirming-care-law"
+    },
+    {
+      "text": "\n        \n            For doctors, abortion restrictions create an 'impossible choice' when providing care\n        \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2022/06/24/1107316711/doctors-ethical-bind-abortion"
+    },
+    {
+      "text": "\n        \n            Abortion-rights advocates in the 13 trigger law states refuse to give up post-Roe\n        \n    ",
+      "url": "https://www.npr.org/2022/07/01/1107662821/abortion-rights-advocates-in-the-13-trigger-law-states-refuse-to-give-up-post-ro"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/03/1108890230/public-restroom-in-new-york-city"
+    },
+    {
+      "text": "\n                        National\n                        ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n                New York City is lacking public restrooms, but officials hope to offer some relief\n            ",
+      "url": "https://www.npr.org/2022/07/03/1108890230/public-restroom-in-new-york-city"
+    },
+    {
+      "text": "\n                The largest city in the U.S. ranks 93rd in access to public restrooms. But a new effort \"will allow those New Yorkers with the dignity of a place to go,\" Manhattan Borough President Mark Levine says.\n            ",
+      "url": "https://www.npr.org/2022/07/03/1108890230/public-restroom-in-new-york-city"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/pictureshow/2022/06/25/1103324203/octopus-seahorse-jellyfish-national-geographic-liittschwager"
+    },
+    {
+      "text": "\n                                    The Picture Show\n                                    ",
+      "url": "https://www.npr.org/sections/pictureshow/"
+    },
+    {
+      "text": "\n                        His job is to actually really stare at octopus, seahorse, jellyfish\n                    ",
+      "url": "https://www.npr.org/sections/pictureshow/2022/06/25/1103324203/octopus-seahorse-jellyfish-national-geographic-liittschwager"
+    },
+    {
+      "text": "\n                        Photographer David Liittschwager spent 12 years photographing these underwater creatures at more than 28 locations around the globe with his 500-pound studio.\n                    ",
+      "url": "https://www.npr.org/sections/pictureshow/2022/06/25/1103324203/octopus-seahorse-jellyfish-national-geographic-liittschwager"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8"
+    },
+    {
+      "text": "\n                        National\n                        ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n                Minnesota lawmakers voted to legalize THC edibles. Some did it accidentally\n            ",
+      "url": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8"
+    },
+    {
+      "text": "\n                After Minnesota lawmakers approved a measure to legalize the sale of certain types of THC edibles, at least one Republican said he didn't realize what he was approving.\n            ",
+      "url": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/02/1107956953/the-case-of-the-incredible-shrinking-fritter-a-report-from-kenyas-street-stalls"
+    },
+    {
+      "text": "\n                                    Goats and Soda\n                                ",
+      "url": "https://www.npr.org/sections/goatsandsoda/"
+    },
+    {
+      "text": "\n                    The case of the incredible shrinking fritter: A report from Kenya's street stalls\n                ",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/02/1107956953/the-case-of-the-incredible-shrinking-fritter-a-report-from-kenyas-street-stalls"
+    },
+    {
+      "text": "                    \n                    Inflation \u2014 fueled by the pandemic, the war in Ukraine and local issues \u2014 has made everything more expensive, including the oil used to fry street food. Here's how vendors and customers are coping.\n                ",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/02/1107956953/the-case-of-the-incredible-shrinking-fritter-a-report-from-kenyas-street-stalls"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            3:20\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220610_atc_africa_inflation.mp3?orgId=1&topicId=1053&d=200&story=1107956953&dl=1&sc=siteplayer&size=3208717&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220610_atc_africa_inflation.mp3?orgId=1&topicId=1053&d=200&story=1107956953&dl=1&sc=siteplayer&size=3208717&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/02/1108587023/highly-recommended-books-we-love"
+    },
+    {
+      "text": "\n                                    Books\n                                    ",
+      "url": "https://www.npr.org/books/"
+    },
+    {
+      "text": "\n                        Here are the 14 books that NPR staff and critics are loving the most so far this year\n                    ",
+      "url": "https://www.npr.org/2022/07/02/1108587023/highly-recommended-books-we-love"
+    },
+    {
+      "text": "\n                        Every year, we ask NPR staff and contributors to tell us about their favorite books. From a list of 167 books so far this year, here are the 14 that the most people chose as their top pick.\n                    ",
+      "url": "https://www.npr.org/2022/07/02/1108587023/highly-recommended-books-we-love"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/02/1109105779/monthly-car-payments-record-700"
+    },
+    {
+      "text": "\n                        Business\n                        ",
+      "url": "https://www.npr.org/sections/business/"
+    },
+    {
+      "text": "\n                Why it matters that monthly car payments have crossed a record $700\n            ",
+      "url": "https://www.npr.org/2022/07/02/1109105779/monthly-car-payments-record-700"
+    },
+    {
+      "text": "\n                The average cost of a new car is also at the highest on record, topping $47,000. At this rate, an essential household purchase is starting to feel like a luxury in America.\n            ",
+      "url": "https://www.npr.org/2022/07/02/1109105779/monthly-car-payments-record-700"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s"
+    },
+    {
+      "text": "\n                                    Shots - Health News\n                                    ",
+      "url": "https://www.npr.org/sections/health-shots/"
+    },
+    {
+      "text": "\n                        Tracking the coronavirus around the U.S.: See how your state is doing\n                    ",
+      "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s"
+    },
+    {
+      "text": "\n                        View NPR's maps and graphics to see where COVID-19 is hitting hardest in the U.S., which state outbreaks are under control and where cases are still spreading.\n                    ",
+      "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s"
+    },
+    {
+      "text": "\n        \n            Do you need to wear a mask where you live? Understand the CDC's new guidance\n        \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2021/07/28/1021795290/cdc-mask-guidelines-indoors-vaccinated-by-county-covid-spread"
+    },
+    {
+      "text": "\n        \n            Are COVID hospitalizations high where you live? Look up your hospital\n        \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2020/12/09/944379919/new-data-reveal-which-hospitals-are-dangerously-full-is-yours"
+    },
+    {
+      "text": "\n        \n            How are the COVID-19 vaccine and booster campaigns going in your state?\n        \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2021/01/28/960901166/how-is-the-covid-19-vaccination-campaign-going-in-your-state"
+    },
+    {
+      "text": "news",
+      "url": "/sections/news/"
+    },
+    {
+      "text": "culture",
+      "url": "/sections/culture/"
+    },
+    {
+      "text": "music",
+      "url": "/music/"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/sections/news/"
+    },
+    {
+      "text": "Culture",
+      "url": "/sections/culture/"
+    },
+    {
+      "text": "Music",
+      "url": "/music/"
+    },
+    {
+      "text": "Podcasts & Shows",
+      "url": "/podcasts-and-shows"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/NPR/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/NPR"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/npr/"
+    },
+    {
+      "text": "Press",
+      "url": "/press/"
+    },
+    {
+      "text": "Contact & Help",
+      "url": "https://help.npr.org/contact/s/"
+    },
+    {
+      "text": "Overview",
+      "url": "/about/"
+    },
+    {
+      "text": "Diversity",
+      "url": "/diversity/"
+    },
+    {
+      "text": "Ethics",
+      "url": "/ethics/"
+    },
+    {
+      "text": "Finances",
+      "url": "/about-npr/178660742/public-radio-finances"
+    },
+    {
+      "text": "Public Editor",
+      "url": "/sections/publiceditor/"
+    },
+    {
+      "text": "Corrections",
+      "url": "/corrections/"
+    },
+    {
+      "text": "Support Public Radio",
+      "url": "/support/"
+    },
+    {
+      "text": "Sponsor NPR",
+      "url": "/about-npr/186948703/corporate-sponsorship"
+    },
+    {
+      "text": "NPR Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "NPR Shop",
+      "url": "https://shop.npr.org/"
+    },
+    {
+      "text": "NPR Events",
+      "url": "https://www.nprpresents.org"
+    },
+    {
+      "text": "NPR Extra",
+      "url": "/sections/npr-extra/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/about-npr/179876898/terms-of-use"
+    },
+    {
+      "text": "Privacy",
+      "url": "/about-npr/179878450/privacy-policy"
+    },
+    {
+      "text": "Your Privacy Choices",
+      "url": "/about-npr/179878450/privacy-policy#yourchoices"
+    },
+    {
+      "text": "Text Only",
+      "url": "https://text.npr.org/"
+    },
+    {
+      "text": "Become an NPR sponsor",
+      "url": "/about-npr/186948703/corporate-sponsorship"
+    }
+  ],
+  "server": "ia601409.us.archive.org",
+  "uniq": 743875209,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

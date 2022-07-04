@@ -1,5 +1,5 @@
 {
-  "created": 1656800685,
+  "created": 1656936797,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/slate-2022",
@@ -1318,31 +1318,157 @@
       "sha1": "d79555f13fbbb71a08d80f745ec8a9478feb9aef"
     },
     {
+      "name": "slate-2022-07-02T21:35:20.201319-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656812122",
+      "size": "37020",
+      "md5": "33be157abcfcbb7f401adbf102c1692b",
+      "crc32": "ee69e77e",
+      "sha1": "a9b67295d17a89f4727b471375cd15b6fd0d94b4",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-02T21:35:20.201319-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656812124",
+      "size": "56552",
+      "md5": "c8de02aa4006ef83953c2d64f05fe0f4",
+      "crc32": "d173ead5",
+      "sha1": "f8cc55dafe991ef5f762fb096ffc3f1d4e18d247",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-02T21:35:20.201319-04:00.jpg",
+      "source": "original",
+      "mtime": "1656812121",
+      "size": "222453",
+      "md5": "d8f86ec9df4f6b3767d15d63601b0223",
+      "crc32": "055fa1c9",
+      "sha1": "255f0ad920ae6cd3e5b5c25991449ba4c4052e33",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "slate-2022-07-02T21:35:20.201319-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "slate-2022-07-02T21:35:20.201319-04:00.jpg",
+      "mtime": "1656812172",
+      "size": "9338",
+      "md5": "5f4986f877fa6d5407ae09dfbdaf593f",
+      "crc32": "d1052528",
+      "sha1": "6a75f17c0675fa9ba1b3bce4e36cacdb926af14e"
+    },
+    {
+      "name": "slate-2022-07-03T09:14:04.574218-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656854048",
+      "size": "26218",
+      "md5": "a7a0c65590f319cee51280fe57f1ff2a",
+      "crc32": "525ee734",
+      "sha1": "b32ab2f067f2770e34fe4aa5d24c93c6db6c715c",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-03T09:14:04.574218-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656854049",
+      "size": "52948",
+      "md5": "da1aed8e44153bbc8fd83971543af379",
+      "crc32": "c3eeafea",
+      "sha1": "ecfea61666c7929b4d39bd2a6972148eaf2e6fc3",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-03T09:14:04.574218-04:00.jpg",
+      "source": "original",
+      "mtime": "1656854046",
+      "size": "218693",
+      "md5": "c45581963acb21b359b526dc9218b07f",
+      "crc32": "7adf24f0",
+      "sha1": "e901c8cc993de8d79f0f61642e789564ba9543a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "slate-2022-07-03T09:14:04.574218-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "slate-2022-07-03T09:14:04.574218-04:00.jpg",
+      "mtime": "1656854104",
+      "size": "9259",
+      "md5": "44564bb4b2c58892676e60785c8ddc38",
+      "crc32": "4a9ce065",
+      "sha1": "a66046b85f4f02ce505f62301d9db93a23e2bb7e"
+    },
+    {
+      "name": "slate-2022-07-03T21:35:44.848147-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898548",
+      "size": "36352",
+      "md5": "ed63b17ba3faab9a37d0501e45d12eb9",
+      "crc32": "2a987b72",
+      "sha1": "756e2a7186cb74bae2c8e1612d685526c060cb25",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-03T21:35:44.848147-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898549",
+      "size": "56735",
+      "md5": "b397a42f9af9d76a15f9aa7e59271aa2",
+      "crc32": "805c83e4",
+      "sha1": "2bd819cb46c3074b125caa5eb5dedd5b0026a2c9",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-03T21:35:44.848147-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898546",
+      "size": "216981",
+      "md5": "df2a704b51dc6b0a712d8894264e3f7f",
+      "crc32": "591b0cb3",
+      "sha1": "5315a538dab8cbc859a2528a31759f30c195ef18",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "slate-2022-07-03T21:35:44.848147-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "slate-2022-07-03T21:35:44.848147-04:00.jpg",
+      "mtime": "1656898593",
+      "size": "9449",
+      "md5": "ca81387da4d65042b0056a0cabbd0681",
+      "crc32": "9fc5a8c3",
+      "sha1": "16015f70a24cee698cba3e4dd7de40a160e52da1"
+    },
+    {
       "name": "slate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cef1e4496f76ac8ea6602d65cc2769f25517c76b",
-      "mtime": "1656767940",
-      "size": "27328",
-      "md5": "c7effe5d8e4b1f80807d79daa5d5532d",
-      "crc32": "d0cb39c0",
-      "sha1": "889f194e650d035b7838cff27b0653243536cd9b",
+      "btih": "4c9edffeff9b2da3242e22acdc9b43d27d25e713",
+      "mtime": "1656898596",
+      "size": "29819",
+      "md5": "40a4312a9fa81fa368c1d47131e0c10e",
+      "crc32": "22d7e693",
+      "sha1": "5015c0c9aa1be869630ab950063daa9aa4d1dee7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "slate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bff7a72cc5474a5ea7e0c886d36888e3",
+      "md5": "47640b584d042cb8b00c1e797f34cd56",
       "summation": "md5"
     },
     {
       "name": "slate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656767875",
-      "size": "163840",
-      "md5": "cc24d8d8383285323fc5d28fb0c793cf",
-      "crc32": "09626b32",
-      "sha1": "b196c06a372bc9fba365e3cfb0d674f42f963a10",
+      "mtime": "1656898552",
+      "size": "176128",
+      "md5": "405c239215383d8d7dd792ae4bf1fb5c",
+      "crc32": "70237921",
+      "sha1": "6affa33b06ca3939f8fb8c4cc1b7d83b6f31909e",
       "format": "Metadata"
     },
     {
@@ -1356,9 +1482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 129,
-  "item_last_updated": 1656767940,
-  "item_size": 10885585,
+  "files_count": 141,
+  "item_last_updated": 1656898596,
+  "item_size": 11852362,
   "metadata": {
     "identifier": "slate-2022",
     "collection": [
@@ -1376,7 +1502,1029 @@
     "addeddate": "2022-06-24 23:01:12"
   },
   "server": "ia601405.us.archive.org",
-  "uniq": 527056974,
+  "slate-2022": [
+    {
+      "text": "Skip to the content",
+      "url": "#main"
+    },
+    {
+      "text": "Slow Burn: Roe v. Wade",
+      "url": "https://slate.com/podcasts/slow-burn/s7/roe-v-wade"
+    },
+    {
+      "text": "Monkeypox",
+      "url": "https://slate.com/technology/2022/07/monkey-pox-vaccine-questions-jynneos.html"
+    },
+    {
+      "text": "For All Mankind",
+      "url": "https://slate.com/culture/2022/07/for-all-mankind-season-3-apple-tv-deaths.html"
+    },
+    {
+      "text": "Kevin Durant",
+      "url": "https://slate.com/culture/2022/07/kevin-durant-trade-demand-brooklyn-nets-kyrie-irving.html"
+    },
+    {
+      "text": "Capitol Riot",
+      "url": "https://slate.com/culture/2022/07/jan-6-hearings-cassidy-hutchinson-liz-cheney.html"
+    },
+    {
+      "text": "George Bush",
+      "url": "https://slate.com/news-and-politics/2022/07/bush-gore-roe-wade-abortion-supreme-court.html"
+    },
+    {
+      "text": "The Black Phone",
+      "url": "https://slate.com/culture/2022/07/black-phone-ethan-hawke-joe-hill-movie-review.html"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://slate.com/sign-in"
+    },
+    {
+      "text": "\n                Account\n\n    ",
+      "url": "https://slate.com/account"
+    },
+    {
+      "text": "\n                Sign out\n\n    ",
+      "url": "https://slate.com/sign-out"
+    },
+    {
+      "text": "\n    \n      Slate homepage\n      \n    \n  ",
+      "url": "https://slate.com"
+    },
+    {
+      "text": "News & Politics",
+      "url": "/news-and-politics"
+    },
+    {
+      "text": "Culture",
+      "url": "/culture"
+    },
+    {
+      "text": "Technology",
+      "url": "/technology"
+    },
+    {
+      "text": "Business",
+      "url": "/business"
+    },
+    {
+      "text": "Human Interest",
+      "url": "/human-interest"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "Slow Burn: Roe v. Wade",
+      "url": "https://slate.com/podcasts/slow-burn/s7/roe-v-wade"
+    },
+    {
+      "text": "Monkeypox",
+      "url": "https://slate.com/technology/2022/07/monkey-pox-vaccine-questions-jynneos.html"
+    },
+    {
+      "text": "For All Mankind",
+      "url": "https://slate.com/culture/2022/07/for-all-mankind-season-3-apple-tv-deaths.html"
+    },
+    {
+      "text": "Kevin Durant",
+      "url": "https://slate.com/culture/2022/07/kevin-durant-trade-demand-brooklyn-nets-kyrie-irving.html"
+    },
+    {
+      "text": "Capitol Riot",
+      "url": "https://slate.com/culture/2022/07/jan-6-hearings-cassidy-hutchinson-liz-cheney.html"
+    },
+    {
+      "text": "George Bush",
+      "url": "https://slate.com/news-and-politics/2022/07/bush-gore-roe-wade-abortion-supreme-court.html"
+    },
+    {
+      "text": "The Black Phone",
+      "url": "https://slate.com/culture/2022/07/black-phone-ethan-hawke-joe-hill-movie-review.html"
+    },
+    {
+      "text": "News & Politics",
+      "url": "/news-and-politics"
+    },
+    {
+      "text": "Culture",
+      "url": "/culture"
+    },
+    {
+      "text": "Technology",
+      "url": "/technology"
+    },
+    {
+      "text": "Business",
+      "url": "/business"
+    },
+    {
+      "text": "Human Interest",
+      "url": "/human-interest"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "\n            \n              \n            \n            Search\n          ",
+      "url": "/search"
+    },
+    {
+      "text": "\n              \n                Slate on Instagram\n                \n              \n            ",
+      "url": "https://www.instagram.com/slate/"
+    },
+    {
+      "text": "\n              \n                Slate on Twitter\n                \n              \n            ",
+      "url": "https://twitter.com/slate"
+    },
+    {
+      "text": "\n              \n                Slate on Facebook\n                \n              \n            ",
+      "url": "https://www.facebook.com/Slate/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://slate.com/plus?utm_medium=link&utm_campaign=plus&utm_content=nav_bar&utm_source=nav"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://slate.com/sign-in"
+    },
+    {
+      "text": "Account",
+      "url": "https://slate.com/account"
+    },
+    {
+      "text": "Sign out",
+      "url": "https://slate.com/sign-out"
+    },
+    {
+      "text": "\n    \n      Slate homepage\n      \n    \n  ",
+      "url": "https://slate.com"
+    },
+    {
+      "text": "Account",
+      "url": "https://slate.com/account"
+    },
+    {
+      "text": "\n              What Rocks and Plants Don\u2019t Have\n            ",
+      "url": "https://slate.com/culture/2022/07/animals-dream-immense-world-book-review.html"
+    },
+    {
+      "text": "\n            \n              Slate on Instagram\n              \n            \n          ",
+      "url": "https://www.instagram.com/slate/"
+    },
+    {
+      "text": "\n            \n              Slate on Twitter\n              \n            \n          ",
+      "url": "https://twitter.com/slate"
+    },
+    {
+      "text": "\n            \n              Slate on Facebook\n              \n            \n          ",
+      "url": "https://www.facebook.com/Slate/"
+    },
+    {
+      "text": "",
+      "url": "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsuJWCQcNfOEvyXdXsrRvtgVWDskqcW5pmIz5t53JTzm9DkEIua9SzmKrY24nfwFi0dE_7inZF_Lmm3sfNatQxdSw3HfkEz_8AdCMaiB4fZDp9BIf9Jh9wBZ2PCkzj2GnmPE6k1W3_laCDUllcJZpzAvemM9cYekXanmPRzEOX8NKLbQ-09bA1QghggQ8ntSZpkQ4m1c87NcfkhV89pKCWDEC8BspxNptA8IQieIURKqVWxonOcYZ6PnuiYm16k1VvWxm86nNrTiQJhnEVSmbSEq0Hwy8jGn6IU3ltr29pTd9YK3DqqF21j2ZgOp&sai=AMfl-YTRkb5J9pZXEaD-6nGONUUWEPLgACdVVyJwl5Ce-6A1r9lTUhcBJEIdq1Eb8onhroAR1J3lu1f0VpyJ523Rtt4Byuia8IAYh7qt9gQNFosMVvRIgsXwPHrTMS6QNPnh&sig=Cg0ArKJSzE-HzOWeQnn9EAE&fbs_aeid=[gw_fbsaeid]&urlfix=1&adurl=https://slate.com/plus?utm_medium=display&utm_campaign=plus_support&utm_content=thank_you_Dahlia_1100x250&utm_source=article"
+    },
+    {
+      "text": "\n    \n\n    \n      \n        \n        Cassidy Hutchinson vs. the Mob-Like MAGA Goons\n      \n\n        \n          Jim Newell\n        \n\n      \n    \n  ",
+      "url": "https://slate.com/news-and-politics/2022/07/the-surge-cassidy-hutchinson-trump-jan-6-scotus.html"
+    },
+    {
+      "text": "\n\n      \n        \n      \n\n    \n      \n        \n        The Show That Gets How Stupid Death Can Be\n      \n        \n          Sam Adams\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/culture/2022/07/for-all-mankind-season-3-apple-tv-deaths.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        All Your Monkeypox Vaccine Questions, Answered\n      \n        \n          Hannah Docter-Loeb and Emma Wallenbrock\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/technology/2022/07/monkey-pox-vaccine-questions-jynneos.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        The Biden-McConnell Deal to Make an Anti-Abortion Advocate a Federal Judge Is Still On\n      \n        \n          Mark Joseph Stern\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/news-and-politics/2022/07/biden-mcconnell-chad-meredith-abortion-kentucky-judge.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        Forget Under the Banner of Heaven. There\u2019s Another Show That Actually Gets the Mormon Church.\n      \n        \n          Haley Swenson\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/culture/2022/07/mormon-no-more-under-the-banner-heaven-stay-sweet-review.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        The Jan. 6 Hearings Are a TV Hit With an Unexpected Main Character\n      \n        \n          Laura Miller\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/culture/2022/07/jan-6-hearings-cassidy-hutchinson-liz-cheney.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        Who Should Be Most Terrified by USC and UCLA\u2019s Move to the Big Ten?\n      \n        \n          Alex Kirshner\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/culture/2022/07/usc-ucla-big-ten-pac-12-college-football-realignment.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        The Best Movies and TV Shows Coming to Netflix, HBO, Amazon Prime, and Hulu in July\n      \n        \n          Sam Adams, Nadira Goffe, and Forrest Wickman\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/culture/2022/07/new-streaming-july-2022-hbo-netflix-amazon-hulu.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        The Possible Recession Terrifies Me. So Does My Potential Solution.\n      \n        \n          Athena Valentine\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/business/2022/07/advice-to-investor-looking-at-the-bear-market.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        Dear Care and Feeding: So, My 5-Year-Old Is Extremely Obsessed With My \u201cBoobies\u201d\n      \n        \n          Jamilah Lemieux\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/human-interest/2022/07/booby-obsession-care-and-feeding.html"
+    },
+    {
+      "text": "\n      Podcast\n      Working\n      Interviews with Americans about their workdays.\n    ",
+      "url": "/podcasts/working"
+    },
+    {
+      "text": "\n        \n\n",
+      "url": "https://slate.com/podcasts/working/2022/07/creators-the-other-two-showrunners-comedy-writers-room"
+    },
+    {
+      "text": "\n        The Creators of The Other Two on Running a Comedy Writers\u2019 Room\n        \u201cIt\u2019s a combination of hosting a party and trying to put together a puzzle in your mind.\u201d\n      ",
+      "url": "https://slate.com/podcasts/working/2022/07/creators-the-other-two-showrunners-comedy-writers-room"
+    },
+    {
+      "text": "\n            \n\n          Slate\n\n      ",
+      "url": "https://slate.com/podcasts/working/2022/07/creators-the-other-two-showrunners-comedy-writers-room"
+    },
+    {
+      "text": "\n            \n\n          Apple Podcasts\n\n      ",
+      "url": "https://podcasts.apple.com/us/podcast/working/id930665651"
+    },
+    {
+      "text": "\n            \n              \n            \n          \n          Spotify\n\n      ",
+      "url": "https://open.spotify.com/show/3PAmCMXWsNRtZTOt2nRkq3?si=5T_uO7MqQO2duVOFOYEvUw"
+    },
+    {
+      "text": "\n            \n              \n            \n          \n          Stitcher\n\n      ",
+      "url": "https://www.stitcher.com/podcast/slates-working"
+    },
+    {
+      "text": "Want to listen ad free?",
+      "url": "/plus?utm_medium=link&utm_campaign=plus&utm_content=what_next_promo&utm_source=homepage"
+    },
+    {
+      "text": "\n    \n\n    \n      \n        \n        A 2022 Horror Movie With a Queer Pedophile Serial Killer?\n      \n\n        \n          Paul M. Renfro and Danielle Wiggins\n        \n\n      \n    \n  ",
+      "url": "https://slate.com/culture/2022/07/black-phone-ethan-hawke-joe-hill-movie-review.html"
+    },
+    {
+      "text": "\n\n      \n        \n      \n\n    \n      \n        \n        Think You\u2019re Pretty Smart? Prove It With This Week\u2019s Quiz.\n      \n        \n          Ray Hamel\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/news-and-politics/2022/07/slate-trivia-quiz-movies-film-noir-classics-comedy-television.html"
+    },
+    {
+      "text": "\n\n      \n        \n      \n\n    \n      \n        \n        Neil Gorsuch to Non-Christian Kids Who Don\u2019t Want Prayer in Public School: Get Over It\n      \n        \n          Dahlia Lithwick and Mark Joseph Stern\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/news-and-politics/2022/06/coach-kennedy-gorsuch-prayer-public-schools.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        I Work in Porn. The Much-Hyped New \u201cRaw and Real\u201d Movie About the Industry Has a Glaring Problem.\n      \n        \n          Noelle Perdue\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/culture/2022/06/pleasure-movie-streaming-review-controversy.html"
+    },
+    {
+      "text": "\n\n\n    \n      \n        \n        Liz \u201cShowtime\u201d Cheney Is Dropping Beguiling Hints About Another Potential Jan. 6 Bombshell\n      \n        \n          Ben Mathis-Lilley\n        \n      \n    \n\n  ",
+      "url": "https://slate.com/news-and-politics/2022/07/liz-showtime-cheney-is-dropping-beguiling-hints-about-another-potential-jan-6-bombshell.html"
+    },
+    {
+      "text": "\n          \n\n      ",
+      "url": "/human-interest/dear-prudence"
+    },
+    {
+      "text": "\n          \n            Ask a question\n            \n          \n      ",
+      "url": "https://slate.com/prudie"
+    },
+    {
+      "text": "View all",
+      "url": "/human-interest/dear-prudence"
+    },
+    {
+      "text": "\n\n        \n          \n        \n\n        \n\n            \n              \n                It never occurred to me to invite these people to my wedding, and they only learned of it when I shared photos online.\n                \n                  \n                \n              \n            \n        \n      ",
+      "url": "https://slate.com/human-interest/2022/07/dear-prudence-gay-wedding-no-invite.html"
+    },
+    {
+      "text": "\n          \n            \n            Help! My Husband\u2019s New Wife Is Very Into PDA\u2014With Me.\n          \n        ",
+      "url": "https://slate.com/human-interest/2022/07/dear-prudie-ex-husbands-new-wife-pda.html"
+    },
+    {
+      "text": "\n              \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n          \n            \n            Help! My Long-Distance Lover Died. Then I Met His Wife.\n          \n        ",
+      "url": "https://slate.com/human-interest/2022/07/lover-died-met-wife-dear-prudie-advice.html"
+    },
+    {
+      "text": "\n              \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n          \n            \n            Dear Prudence Uncensored: \u201cComing Un-Hinged\u201d\n          \n        ",
+      "url": "https://slate.com/human-interest/2022/06/dear-prudence-uncensored-coming-unhinged.html"
+    },
+    {
+      "text": "\n              \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n          \n            \n            Help! My Partner Is Accusing My Family of Defrauding a Local Business.\n          \n        ",
+      "url": "https://slate.com/human-interest/2022/06/partner-accusing-family-defrauding-supermarket-dear-prudence-advice.html"
+    },
+    {
+      "text": "\n        \n          \n        \n\n        \n          How to Do It\n          I Know the Secret to Great Sex in Your 70s. I\u2019m Worried About My Husband\u2019s Reaction.\n        \n      ",
+      "url": "https://slate.com/human-interest/2022/06/ask-husband-sex-toys-advice.html"
+    },
+    {
+      "text": "View all Most Recent stories",
+      "url": "https://slate.com/full-slate"
+    },
+    {
+      "text": "\n        \n          3h ago\n        \n        \n          \nRich Juzwiak\n            \n          \n            My Boyfriend Keeps \u201cPushing It\u201d With Me in the Most Frustrating Way\n          \n        \n      ",
+      "url": "https://slate.com/human-interest/2022/07/boyfriend-pushing-it-advice.html"
+    },
+    {
+      "text": "\n        \n          13h ago\n        \n        \n          \nSlate Staff\n            \n          \n            Help! My Husband\u2019s New Wife Is Very Into PDA\u2014With Me.\n          \n        \n      ",
+      "url": "https://slate.com/human-interest/2022/07/dear-prudie-ex-husbands-new-wife-pda.html"
+    },
+    {
+      "text": "\n        \n          14h ago\n        \n        \n          \n\n      \n        Podcast Episode\n        \n      \n    \n              Working\n\n          \n            The Creators of The Other Two on Running a Comedy Writers\u2019 Room\n          \n        \n      ",
+      "url": "https://slate.com/podcasts/working/2022/07/creators-the-other-two-showrunners-comedy-writers-room"
+    },
+    {
+      "text": "\n        \n          14h ago\n        \n        \n          \nMichelle Herman\n            \n          \n            Dear Care and Feeding: My Daughter Was Very Unplanned. Should I Ever Share This With Her?\n          \n        \n      ",
+      "url": "https://slate.com/human-interest/2022/07/children-conception-unplanned-pregnancy.html"
+    },
+    {
+      "text": "\n        \n          15h ago\n        \n        \n          \n\n      \n        Podcast Episode\n        \n      \n    \n              What Next: TBD\n\n          \n            The Good Hackers\n          \n        \n      ",
+      "url": "https://slate.com/podcasts/what-next-tbd/2022/07/doj-cfaa-guidelines"
+    },
+    {
+      "text": "\n        \n          15h ago\n        \n        \n          \nRay Hamel\n            \n          \n            Think You\u2019re Pretty Smart? Prove It With This Week\u2019s Quiz.\n          \n        \n      ",
+      "url": "https://slate.com/news-and-politics/2022/07/slate-trivia-quiz-movies-film-noir-classics-comedy-television.html"
+    },
+    {
+      "text": "\n\n          \n            \n          \n\n\n          \n            \n            All Your Monkeypox Vaccine Questions, Answered\n          \n\n        \nHannah Docter-Loeb and Emma Wallenbrock\n                  \n\n      ",
+      "url": "https://slate.com/technology/2022/07/monkey-pox-vaccine-questions-jynneos.html"
+    },
+    {
+      "text": "\n\n          \n            \n          \n\n\n          \n            \n            What Do Animals Dream?\n          \n\n        \nLaura Miller\n                  \n\n      ",
+      "url": "https://slate.com/culture/2022/07/animals-dream-immense-world-book-review.html"
+    },
+    {
+      "text": "\n\n\n\n          \n            Slate News Quiz\n          \n            Think you\u2019re pretty smart? Prove it with this week\u2019s quiz.\n\n        \nRay Hamel\n                  \n\n      ",
+      "url": "https://slate.com/news-and-politics/2022/07/slate-trivia-quiz-movies-film-noir-classics-comedy-television.html"
+    },
+    {
+      "text": "Culture",
+      "url": "https://slate.com/culture"
+    },
+    {
+      "text": "Movies",
+      "url": "/culture/movies"
+    },
+    {
+      "text": "Music",
+      "url": "/culture/music"
+    },
+    {
+      "text": "Television",
+      "url": "/culture/television"
+    },
+    {
+      "text": "Books",
+      "url": "/culture/books"
+    },
+    {
+      "text": "Video Games",
+      "url": "/culture/video-games"
+    },
+    {
+      "text": "Sports",
+      "url": "/culture/sports"
+    },
+    {
+      "text": "Wide Angle",
+      "url": "/culture/wide-angle"
+    },
+    {
+      "text": "Brow Beat",
+      "url": "/culture/brow-beat"
+    },
+    {
+      "text": "\n        View all\n        Culture\n      ",
+      "url": "/culture"
+    },
+    {
+      "text": "\n          \n\n          \n            \n              False Flag\n            \n            \nAlec Nevala-Lee\n              \n              The story we tell ourselves about today\u2019s Stars and Stripes is a lie. The truth is much stranger.\n          \n        ",
+      "url": "https://slate.com/culture/2022/06/american-flag-history-scam-designer-robert-heft-50-stars.html"
+    },
+    {
+      "text": "\n\n            \n              What Do Animals Dream?\n            \n            \nLaura Miller\n              \n\n        ",
+      "url": "https://slate.com/culture/2022/07/animals-dream-immense-world-book-review.html"
+    },
+    {
+      "text": "\n\n            \n              The Bridge: Sync Is Both Stranger and Shameless\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                Hit Parade\n\n\n        ",
+      "url": "https://slate.com/podcasts/hit-parade/2022/07/tv-and-movie-syncs-can-change-an-artists-trajectory"
+    },
+    {
+      "text": "\n\n            \n              The Show That Gets How Stupid Death Can Be\n            \n            \nSam Adams\n              \n\n        ",
+      "url": "https://slate.com/culture/2022/07/for-all-mankind-season-3-apple-tv-deaths.html"
+    },
+    {
+      "text": "\n\n            \n              Forget Under the Banner of Heaven. There\u2019s Another Show That Actually Gets the Mormon Church.\n            \n            \nHaley Swenson\n              \n\n        ",
+      "url": "https://slate.com/culture/2022/07/mormon-no-more-under-the-banner-heaven-stay-sweet-review.html"
+    },
+    {
+      "text": "\n\n            \n              Daily Harvest Is Crumbling\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                ICYMI\n\n\n        ",
+      "url": "https://slate.com/podcasts/icymi/2022/07/daily-harvest-lentil-leek-crumbles-gallbladder-surgery"
+    },
+    {
+      "text": "\n\n            \n              Every Person Is Exactly Like Kevin Durant Except in the One Big Way\n            \n            \nBen Mathis-Lilley\n              \n\n        ",
+      "url": "https://slate.com/culture/2022/07/kevin-durant-trade-demand-brooklyn-nets-kyrie-irving.html"
+    },
+    {
+      "text": "Tech & Business",
+      "url": "https://slate.com/technology"
+    },
+    {
+      "text": "Moneybox",
+      "url": "/business/moneybox"
+    },
+    {
+      "text": "Metropolis",
+      "url": "/business/metropolis"
+    },
+    {
+      "text": "The Industry",
+      "url": "/technology/the-industry"
+    },
+    {
+      "text": "The Media",
+      "url": "/business/the-media"
+    },
+    {
+      "text": "Users",
+      "url": "/technology/users"
+    },
+    {
+      "text": "Future Tense",
+      "url": "/technology/future-tense"
+    },
+    {
+      "text": "Science",
+      "url": "/technology/science"
+    },
+    {
+      "text": "Medical Examiner",
+      "url": "/technology/medical-examiner"
+    },
+    {
+      "text": "\n        View all\n        Tech & Business\n      ",
+      "url": "/technology"
+    },
+    {
+      "text": "\n          \n\n          \n            \n              Far-Right Extremists Are Using Personal Radios to Plan Violence\n            \n            \nMax Fenton\n              \n              Is the government prepared to stop them?\n          \n        ",
+      "url": "https://slate.com/technology/2022/06/far-right-extremism-radio-jan-6.html"
+    },
+    {
+      "text": "\n          \n            \n              The Possible Recession Terrifies Me. So Does My Potential Solution.\n            \n            \nAthena Valentine\n              \n          \n        ",
+      "url": "https://slate.com/business/2022/07/advice-to-investor-looking-at-the-bear-market.html"
+    },
+    {
+      "text": "\n          \n            \n              What the Right-Wing Media Did to Cassidy Hutchinson All Week\n            \n            \nJustin Peters\n              \n          \n        ",
+      "url": "https://slate.com/business/2022/06/cassidy-hutchinson-fox-news-newsmax-conservative-media-jan-6.html"
+    },
+    {
+      "text": "\n          \n            \n              My Husband Is About to Find Out Just How Rich I Am\n            \n            \nElizabeth Spiers\n              \n          \n        ",
+      "url": "https://slate.com/business/2022/06/inherit-millions-husband-unaware-advice.html"
+    },
+    {
+      "text": "\n          \n            \n              A New Lawsuit Says Instagram Hurts Teenagers by Design\n            \n            \nWayne Unger\n              \n          \n        ",
+      "url": "https://slate.com/technology/2022/06/spence-lawsuit-instagram-meta.html"
+    },
+    {
+      "text": "\n          \n            \n              What\u2019s Behind Squirrels\u2019 Reign of Terror in National Parks?\n            \n            \nEmma Wallenbrock\n              \n          \n        ",
+      "url": "https://slate.com/technology/2022/06/squirrel-bites-national-parks.html"
+    },
+    {
+      "text": "\n          \n            \n              What to Make of All the Drama Surrounding New York Magazine\u2019s \u201cCanceled at 17\u201d\n            \n            \nShannon Palus\n              \n          \n        ",
+      "url": "https://slate.com/business/2022/06/drama-of-cancelled-at-seventeen-nymag-unpacked.html"
+    },
+    {
+      "text": "\n\n          \n            \n          \n\n          \n            \n              All Your Monkeypox Vaccine Questions, Answered\n            \n            \nHannah Docter-Loeb and Emma Wallenbrock\n              \n          \n        ",
+      "url": "https://slate.com/technology/2022/07/monkey-pox-vaccine-questions-jynneos.html"
+    },
+    {
+      "text": "Human Interest",
+      "url": "https://slate.com/human-interest"
+    },
+    {
+      "text": "Family",
+      "url": "/human-interest/family"
+    },
+    {
+      "text": "Relationships",
+      "url": "/human-interest/relationships"
+    },
+    {
+      "text": "Work",
+      "url": "/human-interest/work"
+    },
+    {
+      "text": "Downtime",
+      "url": "/human-interest/downtime"
+    },
+    {
+      "text": "Dear Prudence",
+      "url": "/human-interest/dear-prudence "
+    },
+    {
+      "text": "Care and Feeding",
+      "url": "/human-interest/care-and-feeding"
+    },
+    {
+      "text": "How to Do It",
+      "url": "/human-interest/how-to-do-it"
+    },
+    {
+      "text": "\n        View all\n        Human Interest\n      ",
+      "url": "/human-interest"
+    },
+    {
+      "text": "\n          \n\n          \n            \n              The Heartbreaking Story of One Woman Who Was Forced to Surrender a Baby Before Roe\n            \n            \nAnn Fessler\n              \n              \u201cI feel like I was in a car accident. \u2026 It changed my personality.\u201d\n          \n        ",
+      "url": "https://slate.com/human-interest/2022/06/dobbs-decision-surrendering-babies-adoption-before-roe-ann-fessler.html"
+    },
+    {
+      "text": "\n\n            \n              My Boyfriend Keeps \u201cPushing It\u201d With Me in the Most Frustrating Way\n            \n            \nRich Juzwiak\n              \n\n        ",
+      "url": "https://slate.com/human-interest/2022/07/boyfriend-pushing-it-advice.html"
+    },
+    {
+      "text": "\n\n            \n              Help! My Husband\u2019s New Wife Is Very Into PDA\u2014With Me.\n            \n            \nSlate Staff\n              \n\n        ",
+      "url": "https://slate.com/human-interest/2022/07/dear-prudie-ex-husbands-new-wife-pda.html"
+    },
+    {
+      "text": "\n\n            \n              Dear Care and Feeding: My Daughter Was Very Unplanned. Should I Ever Share This With Her?\n            \n            \nMichelle Herman\n              \n\n        ",
+      "url": "https://slate.com/human-interest/2022/07/children-conception-unplanned-pregnancy.html"
+    },
+    {
+      "text": "\n\n                \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n            \n              Dear Care and Feeding: Our Family Vacations Are Starting to Get a Little Weird\n            \n            \nMichelle Herman\n              \n\n        ",
+      "url": "https://slate.com/human-interest/2022/07/family-vacation-room-care-and-feeding-advice.html"
+    },
+    {
+      "text": "\n\n            \n              Help! My Family Kicked Me Out for Being Gay. Now They\u2019re Furious I Didn\u2019t Invite Them to My Wedding.\n            \n            \nR. Eric Thomas\n              \n\n        ",
+      "url": "https://slate.com/human-interest/2022/07/dear-prudence-gay-wedding-no-invite.html"
+    },
+    {
+      "text": "\n\n                \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n            \n              Dear Care and Feeding: My Father Has Imposed a Really Difficult Rule About Our Unborn Child\n            \n            \nJamilah Lemieux\n              \n\n        ",
+      "url": "https://slate.com/human-interest/2022/07/baby-gender-secret-care-and-feeding-advice.html"
+    },
+    {
+      "text": "News & Politics",
+      "url": "https://slate.com/news-and-politics"
+    },
+    {
+      "text": "Politics",
+      "url": "/news-and-politics/politics"
+    },
+    {
+      "text": "Jurisprudence",
+      "url": "/news-and-politics/jurisprudence"
+    },
+    {
+      "text": "War Stories",
+      "url": "/news-and-politics/war-stories"
+    },
+    {
+      "text": "The World",
+      "url": "/news-and-politics/the-world"
+    },
+    {
+      "text": "The Slatest",
+      "url": "/news-and-politics/the-slatest"
+    },
+    {
+      "text": "\n        View all\n        News & Politics\n      ",
+      "url": "/news-and-politics"
+    },
+    {
+      "text": "\n          \n\n          \n            \n              The Story This Court Is Telling About Who Deserves Rights\n            \n            \nDahlia Lithwick\n              \n              Men are free to pray everywhere. Women do not even retain autonomy over their own bodies.\n          \n        ",
+      "url": "https://slate.com/news-and-politics/2022/06/supreme-court-women-rights-versus-men.html"
+    },
+    {
+      "text": "\n          \n            \n              From Climate to Reproduction, the Winners Are the Same at SCOTUS\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                Amicus\n\n          \n        ",
+      "url": "https://slate.com/podcasts/amicus/2022/07/the-end-of-a-supreme-court-term-that-fundamentally-rearranged-rights"
+    },
+    {
+      "text": "\n          \n            \n              Cassidy Hutchinson vs. the Mob-Like MAGA Goons\n            \n            \nJim Newell\n              \n          \n        ",
+      "url": "https://slate.com/news-and-politics/2022/07/the-surge-cassidy-hutchinson-trump-jan-6-scotus.html"
+    },
+    {
+      "text": "\n          \n            \n              The Biden-McConnell Deal to Make an Anti-Abortion Advocate a Federal Judge Is Still On\n            \n            \nMark Joseph Stern\n              \n          \n        ",
+      "url": "https://slate.com/news-and-politics/2022/07/biden-mcconnell-chad-meredith-abortion-kentucky-judge.html"
+    },
+    {
+      "text": "\n          \n            \n              If It Weren\u2019t for George W. Bush, We Might Still Have Roe\n            \n            \nNitish Pahwa\n              \n          \n        ",
+      "url": "https://slate.com/news-and-politics/2022/07/bush-gore-roe-wade-abortion-supreme-court.html"
+    },
+    {
+      "text": "\n          \n            \n              The Supreme Court\u2019s Elevation of School Prayer Over Other Free Speech Is Untenable\n            \n            \nRonald Krotoszynski\n              \n          \n        ",
+      "url": "https://slate.com/news-and-politics/2022/07/supreme-court-kennedy-school-prayer-untenable.html"
+    },
+    {
+      "text": "\n          \n            \n              The Future of Abortion Rights: Stronger Than Roe?\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                A Word \u2026 With Jason Johnson\n\n          \n        ",
+      "url": "https://slate.com/podcasts/a-word/2022/07/after-roe-whats-at-stake-for-black-women"
+    },
+    {
+      "text": "\n\n          \n            \n          \n\n          \n            \n              Think You\u2019re Pretty Smart? Prove It With This Week\u2019s Quiz.\n            \n            \nRay Hamel\n              \n          \n        ",
+      "url": "https://slate.com/news-and-politics/2022/07/slate-trivia-quiz-movies-film-noir-classics-comedy-television.html"
+    },
+    {
+      "text": "Grammarly",
+      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAABTestDesktop&utm_medium=cpc&utm_content=slate-homepage&utm_placement=Desktop&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD67j4o0cKpovvo1NIJ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD67j4o0cKpovvo1NIJ"
+    },
+    {
+      "text": "Avoid Writing Mistakes With This Desktop AppGrammarly|",
+      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAABTestDesktop&utm_medium=cpc&utm_content=slate-homepage&utm_placement=Desktop&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD67j4o0cKpovvo1NIJ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD67j4o0cKpovvo1NIJ"
+    },
+    {
+      "text": "",
+      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAABTestDesktop&utm_medium=cpc&utm_content=slate-homepage&utm_placement=Desktop&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD67j4o0cKpovvo1NIJ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD67j4o0cKpovvo1NIJ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
+    },
+    {
+      "text": "Install Now",
+      "url": "https://trc.taboola.com/slate-homepage/log/3/click?pi=%2F&ri=12171ddf7d82bfaeba7e461452a917ce&sd=v2_801e1cd2ae5b05463858dc7b53907cbf_c859c61c-7fa4-428e-9d52-03f4980b2746-tuct9bbbbc4_1656895044_1656895044_CIi3jgYQhq9GGPj2j7WcMCABKAEw4QE4kaQOQPzYD0iYzdkDUIEFWABgAGj65vSQycbpjTRwAQ&ui=c859c61c-7fa4-428e-9d52-03f4980b2746-tuct9bbbbc4&it=text&ii=~~V1~~-2935932378691314825~~OGhDgiHmTN51s-CuIczX1WPbNWxDO4qn_-nlSilmIsf6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQIKiYZmEl3RMjJoyLcF9x2L7I5MK7B1QpyhF1wERuIDVo2Oq0RS2DNJwFtQu2bmIxurOygszEKnfPoVz8jrMGT3CusD0W6SSiR-BkTSm_3420Vv6oap0as-GMRVRqI4MUnCpkVmYSQpss8t-i-42j-3JPofTToSYKGmvaDeLoeHFCd3vT9BTqsc3eu3LaT0CdwJbDhemgCcbIWwRNGGadmo6zhr_uog6GC70OqLAd6RE&pt=home&li=rbox-h2v&sig=13188dab39888a59e0026d66a6034a6c1caf6eb1490f&redir=https%3A%2F%2Fwww.grammarly.com%3Futm_source%3Dtaboola%26utm_campaign%3DNAABTestDesktop%26utm_medium%3Dcpc%26utm_content%3Dslate-homepage%26utm_placement%3DDesktop%26tblci%3DGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD67j4o0cKpovvo1NIJ%23tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD67j4o0cKpovvo1NIJ&vi=1656895044472&p=grammarly-sc&r=12&lti=deflated&ppb=CBE&cpb=EhIyMDIyMDYzMC03LVJFTEVBU0UYz7MCIJz__________wEqGXVzLnRhYm9vbGFzeW5kaWNhdGlvbi5jb20yCHRyYzEwMjU3OICKhaMBQJGkDkj82A9QmM3ZA1iBBWMI1xYQ1R8YI2RjCPn__________wEQ-f__________ARgHZGMI0gMQ4AYYCGRjCJYUEJ4cGBhkYwiLLRCdPhgqZGMI9BQQnh0YH2RjCKQnEIM1GC9keAGAAf___________wGIAf___________wE&cta=true"
+    },
+    {
+      "text": "Elvenar -Fantasy City Builder Game",
+      "url": "https://om.elvenar.com/ox/us/?ref=tab_en&external_param=3044122691&pid=slate-homepage&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F967286bff359c402c4e6ef2ce39d5d09.jpeg&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCPyT8ol9aCxeGTqI0Y#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCPyT8ol9aCxeGTqI0Y"
+    },
+    {
+      "text": "If you like to play Age of Empires, try out this game. No Ads. No Install.Elvenar -Fantasy City Builder Game|",
+      "url": "https://om.elvenar.com/ox/us/?ref=tab_en&external_param=3044122691&pid=slate-homepage&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F967286bff359c402c4e6ef2ce39d5d09.jpeg&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCPyT8ol9aCxeGTqI0Y#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCPyT8ol9aCxeGTqI0Y"
+    },
+    {
+      "text": "",
+      "url": "https://om.elvenar.com/ox/us/?ref=tab_en&external_param=3044122691&pid=slate-homepage&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F967286bff359c402c4e6ef2ce39d5d09.jpeg&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCPyT8ol9aCxeGTqI0Y#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCPyT8ol9aCxeGTqI0Y"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
+    },
+    {
+      "text": "Online Shopping Tools",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=slate-homepage&title=There%27s+No+Way+Amazon+Wants+You+To+Know+This+%28It%E2%80%99s+Genius%29&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3439290474&campaign=19603838&click_id=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD-_lMoh-iZw9v9jMrZAQ&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD-_lMoh-iZw9v9jMrZAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD-_lMoh-iZw9v9jMrZAQ"
+    },
+    {
+      "text": "There's No Way Amazon Wants You To Know This (It\u2019s Genius)Online Shopping Tools|",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=slate-homepage&title=There%27s+No+Way+Amazon+Wants+You+To+Know+This+%28It%E2%80%99s+Genius%29&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3439290474&campaign=19603838&click_id=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD-_lMoh-iZw9v9jMrZAQ&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD-_lMoh-iZw9v9jMrZAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD-_lMoh-iZw9v9jMrZAQ"
+    },
+    {
+      "text": "",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=slate-homepage&title=There%27s+No+Way+Amazon+Wants+You+To+Know+This+%28It%E2%80%99s+Genius%29&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3439290474&campaign=19603838&click_id=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD-_lMoh-iZw9v9jMrZAQ&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD-_lMoh-iZw9v9jMrZAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSD-_lMoh-iZw9v9jMrZAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
+    },
+    {
+      "text": "Americans Take Way Too Much Melatonin. It\u2019s Leading to Terrible Things. Emma WallenbrockEmma WallenbrockUser: Emma Wallenbrock",
+      "url": "https://slate.com/technology/2022/06/melatonin-overdose-kids-drug-prescription.html"
+    },
+    {
+      "text": "The Hidden Message in Bill Barr\u2019s Jan. 6 Hearing Testimony Dahlia LithwickDahlia LithwickUser: Dahlia Lithwick",
+      "url": "https://slate.com/news-and-politics/2022/06/jan-6-hearings-bill-barrs-testimony-election-subversion-donald-trump-silly.html"
+    },
+    {
+      "text": "A New Netflix Hit Has Fans in Ecstasy, but They\u2019re Missing Its Troubling Subtext Nitish PahwaNitish PahwaUser: Nitish Pahwa",
+      "url": "https://slate.com/culture/2022/06/rrr-review-indian-blockbuster-netflix-hindu-nationalism.html"
+    },
+    {
+      "text": "\u201cThe Organs Come Out These Large Holes Because the Wounds Are So Big\u201d Mary HarrisMary HarrisUser: Mary Harris",
+      "url": "https://slate.com/news-and-politics/2022/06/gun-violence-mass-shootings-photos-horror.html"
+    },
+    {
+      "text": "There\u2019s a New Manifestation of OCD I Keep Seeing More and More Lindsay-Rose DykemaLindsay-Rose DykemaUser: Lindsay-Rose Dykema",
+      "url": "https://slate.com/technology/2022/06/obsessive-compulsive-disorder-being-canceled.html"
+    },
+    {
+      "text": "We Now Know Trump\u2019s Most Terrifying Election Plot Came Before Jan. 6 Dahlia LithwickDahlia LithwickUser: Dahlia Lithwick",
+      "url": "https://slate.com/news-and-politics/2022/06/jan-6-hearing-fake-electors-donald-trump-2024-election-subversion.html"
+    },
+    {
+      "text": "Power Life",
+      "url": "https://www2.muscledefense.com/cid/7013w000002HIAtAAO?subid1=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDG9Uwo4f-V97WoqMmyAQ&utm_content=site_slate-homepage_campaign_id_3424702931_&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDG9Uwo4f-V97WoqMmyAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDG9Uwo4f-V97WoqMmyAQ"
+    },
+    {
+      "text": "Power Life|",
+      "url": "https://www2.muscledefense.com/cid/7013w000002HIAtAAO?subid1=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDG9Uwo4f-V97WoqMmyAQ&utm_content=site_slate-homepage_campaign_id_3424702931_&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDG9Uwo4f-V97WoqMmyAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDG9Uwo4f-V97WoqMmyAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www2.muscledefense.com/cid/7013w000002HIAtAAO?subid1=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDG9Uwo4f-V97WoqMmyAQ&utm_content=site_slate-homepage_campaign_id_3424702931_&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDG9Uwo4f-V97WoqMmyAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDG9Uwo4f-V97WoqMmyAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
+    },
+    {
+      "text": "Haulhot",
+      "url": "https://www.haulhot.com/products/sora-bra-ef-bf-bdc-front-closure-5d-shaping-push-up-bra-ef-bf-bdc-seamless-beauty-back-comfy?spm=..collection.collection_detail_1.1&spm_prev=..product.header_1.1&utm_source=taboola&utm_medium=referral&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCI71go6pHniIj1hL7BAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCI71go6pHniIj1hL7BAQ"
+    },
+    {
+      "text": "Haulhot|",
+      "url": "https://www.haulhot.com/products/sora-bra-ef-bf-bdc-front-closure-5d-shaping-push-up-bra-ef-bf-bdc-seamless-beauty-back-comfy?spm=..collection.collection_detail_1.1&spm_prev=..product.header_1.1&utm_source=taboola&utm_medium=referral&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCI71go6pHniIj1hL7BAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCI71go6pHniIj1hL7BAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.haulhot.com/products/sora-bra-ef-bf-bdc-front-closure-5d-shaping-push-up-bra-ef-bf-bdc-seamless-beauty-back-comfy?spm=..collection.collection_detail_1.1&spm_prev=..product.header_1.1&utm_source=taboola&utm_medium=referral&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCI71go6pHniIj1hL7BAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCI71go6pHniIj1hL7BAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
+    },
+    {
+      "text": "Babbel",
+      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=slate-homepage&utm_content=1152902_8026037_3433080215&tcid=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDvpz4oseOlzKy93s3YAQ&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDvpz4oseOlzKy93s3YAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDvpz4oseOlzKy93s3YAQ"
+    },
+    {
+      "text": "Babbel|",
+      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=slate-homepage&utm_content=1152902_8026037_3433080215&tcid=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDvpz4oseOlzKy93s3YAQ&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDvpz4oseOlzKy93s3YAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDvpz4oseOlzKy93s3YAQ"
+    },
+    {
+      "text": "",
+      "url": "https://go.babbel.com/v1/tl?bsc=ch-paiddiscovery-so-taboola-ca-tb_d_100experts_ps_pwl-lp-100experts25off&btp=default&utm_source=Taboola&utm_medium=CON&utm_campaign=TB_D_100Experts_PS_PWL&utm_term=slate-homepage&utm_content=1152902_8026037_3433080215&tcid=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDvpz4oseOlzKy93s3YAQ&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDvpz4oseOlzKy93s3YAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDvpz4oseOlzKy93s3YAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
+    },
+    {
+      "text": "Apartments.com",
+      "url": "https://www.apartments.com/?utm_source=taboola&utm_medium=display&utm_campaign=native%20prospecting&utm_content=slate.com&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDZslcolNLwybiVhYGjAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDZslcolNLwybiVhYGjAQ"
+    },
+    {
+      "text": "Apartments.com|",
+      "url": "https://www.apartments.com/?utm_source=taboola&utm_medium=display&utm_campaign=native%20prospecting&utm_content=slate.com&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDZslcolNLwybiVhYGjAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDZslcolNLwybiVhYGjAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.apartments.com/?utm_source=taboola&utm_medium=display&utm_campaign=native%20prospecting&utm_content=slate.com&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDZslcolNLwybiVhYGjAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDZslcolNLwybiVhYGjAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 3:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 3:"
+    },
+    {
+      "text": "Wolf &amp; Shepherd",
+      "url": "https://wolfandshepherd.com/pages/home?utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_VTgronkd_broad_home_desc&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCrhEEowfLV7oTEna7vAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCrhEEowfLV7oTEna7vAQ"
+    },
+    {
+      "text": "Wolf & Shepherd|",
+      "url": "https://wolfandshepherd.com/pages/home?utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_VTgronkd_broad_home_desc&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCrhEEowfLV7oTEna7vAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCrhEEowfLV7oTEna7vAQ"
+    },
+    {
+      "text": "",
+      "url": "https://wolfandshepherd.com/pages/home?utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_VTgronkd_broad_home_desc&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCrhEEowfLV7oTEna7vAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCrhEEowfLV7oTEna7vAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 3:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 3:"
+    },
+    {
+      "text": "TruthFinder",
+      "url": "https://tracking.truthfinder.com/?a=102&oc=27&c=396&s1=CM-SpeechlessMosaicTestControl&s2=AG-DesktopTablet&s3=CRE-LocateAnyoneAddicting+TamaraUnplash&s4=LP-396&s5=1152902&subtheme=&utm_source=taboola&utm_medium=referral&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCOnj8oy5uzksX62bA6#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCOnj8oy5uzksX62bA6"
+    },
+    {
+      "text": "TruthFinder|",
+      "url": "https://tracking.truthfinder.com/?a=102&oc=27&c=396&s1=CM-SpeechlessMosaicTestControl&s2=AG-DesktopTablet&s3=CRE-LocateAnyoneAddicting+TamaraUnplash&s4=LP-396&s5=1152902&subtheme=&utm_source=taboola&utm_medium=referral&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCOnj8oy5uzksX62bA6#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCOnj8oy5uzksX62bA6"
+    },
+    {
+      "text": "",
+      "url": "https://tracking.truthfinder.com/?a=102&oc=27&c=396&s1=CM-SpeechlessMosaicTestControl&s2=AG-DesktopTablet&s3=CRE-LocateAnyoneAddicting+TamaraUnplash&s4=LP-396&s5=1152902&subtheme=&utm_source=taboola&utm_medium=referral&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCOnj8oy5uzksX62bA6#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCOnj8oy5uzksX62bA6"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 4:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 4:"
+    },
+    {
+      "text": "Particle for Men",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=slate-homepage#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCc4Eko2Zvivf25nchT"
+    },
+    {
+      "text": "Particle for Men|",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=slate-homepage#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCc4Eko2Zvivf25nchT"
+    },
+    {
+      "text": "",
+      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=slate-homepage#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCc4Eko2Zvivf25nchT"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 4:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 4:"
+    },
+    {
+      "text": "Baldwin Shavers",
+      "url": "http://go.click2run.me/5619/5305/?clickid=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCRxVEotKC3g7-sjP5l&pub=Taboola_slate-homepage&extra=Baldwin_US_TOF_DSK_13.03.22_LF+6.5.22+-+TCPA+45&sub_pub_id= 16947970_slate.com_1152902&utm_source=Taboola&utm_medium=cpc&keyword=slate.com_Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&ad_content=Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&bp=boxes3&apg=0&order=cr&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCRxVEotKC3g7-sjP5l#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCRxVEotKC3g7-sjP5l"
+    },
+    {
+      "text": "Baldwin Shavers|",
+      "url": "http://go.click2run.me/5619/5305/?clickid=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCRxVEotKC3g7-sjP5l&pub=Taboola_slate-homepage&extra=Baldwin_US_TOF_DSK_13.03.22_LF+6.5.22+-+TCPA+45&sub_pub_id= 16947970_slate.com_1152902&utm_source=Taboola&utm_medium=cpc&keyword=slate.com_Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&ad_content=Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&bp=boxes3&apg=0&order=cr&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCRxVEotKC3g7-sjP5l#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCRxVEotKC3g7-sjP5l"
+    },
+    {
+      "text": "",
+      "url": "http://go.click2run.me/5619/5305/?clickid=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCRxVEotKC3g7-sjP5l&pub=Taboola_slate-homepage&extra=Baldwin_US_TOF_DSK_13.03.22_LF+6.5.22+-+TCPA+45&sub_pub_id= 16947970_slate.com_1152902&utm_source=Taboola&utm_medium=cpc&keyword=slate.com_Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&ad_content=Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&bp=boxes3&apg=0&order=cr&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCRxVEotKC3g7-sjP5l#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCRxVEotKC3g7-sjP5l"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
+    },
+    {
+      "text": "EV SUVs",
+      "url": "https://bestsearches.net/index.php?rgid=316308&utm_source=taboola&utm_medium=referral&gclid=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDO51co9p-H8vf5pq2RAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDO51co9p-H8vf5pq2RAQ"
+    },
+    {
+      "text": "EV SUVs|",
+      "url": "https://bestsearches.net/index.php?rgid=316308&utm_source=taboola&utm_medium=referral&gclid=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDO51co9p-H8vf5pq2RAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDO51co9p-H8vf5pq2RAQ"
+    },
+    {
+      "text": "",
+      "url": "https://bestsearches.net/index.php?rgid=316308&utm_source=taboola&utm_medium=referral&gclid=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDO51co9p-H8vf5pq2RAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSDO51co9p-H8vf5pq2RAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
+    },
+    {
+      "text": "Winchoice USA",
+      "url": "https://deals.winchoiceusa.com/best-deals-of-2022-b4g2?utm_source=taboola&utm_medium=referral&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCgwVko6LnewcXZ65zgAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCgwVko6LnewcXZ65zgAQ"
+    },
+    {
+      "text": "Winchoice USA|",
+      "url": "https://deals.winchoiceusa.com/best-deals-of-2022-b4g2?utm_source=taboola&utm_medium=referral&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCgwVko6LnewcXZ65zgAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCgwVko6LnewcXZ65zgAQ"
+    },
+    {
+      "text": "",
+      "url": "https://deals.winchoiceusa.com/best-deals-of-2022-b4g2?utm_source=taboola&utm_medium=referral&tblci=GiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCgwVko6LnewcXZ65zgAQ#tblciGiD_QzU_oIWGUhtPOk7-xhWkSV5yYs9Lor82CxeNyUujoSCgwVko6LnewcXZ65zgAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
+    },
+    {
+      "text": "About Us",
+      "url": "/about"
+    },
+    {
+      "text": "Work With Us",
+      "url": "https://jobs.lever.co/slate"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    },
+    {
+      "text": "Pitch Guidelines",
+      "url": "/pitch"
+    },
+    {
+      "text": "Send Us Tips",
+      "url": "/tips"
+    },
+    {
+      "text": "Corrections",
+      "url": "/news-and-politics/corrections"
+    },
+    {
+      "text": "Commenting",
+      "url": "/commenting"
+    },
+    {
+      "text": "Reprints",
+      "url": "http://www.slatereprints.com/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://slate.com/plus"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://slate.com/sign-in"
+    },
+    {
+      "text": "Account",
+      "url": "https://slate.com/account"
+    },
+    {
+      "text": "Subscription FAQs",
+      "url": "/plus/faq"
+    },
+    {
+      "text": "Podcast FAQs",
+      "url": "/podcastfaqs"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/signup"
+    },
+    {
+      "text": "Customer Support",
+      "url": "https://slatehelp.freshdesk.com/support/solutions"
+    },
+    {
+      "text": "Site Advertising",
+      "url": "http://mediakit.slate.com/"
+    },
+    {
+      "text": "Podcast Advertising",
+      "url": "http://mediakit.slate.com/"
+    },
+    {
+      "text": "AdChoices",
+      "url": "http://optout.aboutads.info/"
+    },
+    {
+      "text": "Cookie Preferences",
+      "url": "/do-not-sell"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
+      "url": "https://www.facebook.com/Slate/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
+      "url": "https://twitter.com/slate"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
+      "url": "https://www.instagram.com/slate/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRSS Feed\n\t\t\t\t\t",
+      "url": "/rss"
+    },
+    {
+      "text": "User Agreement",
+      "url": "/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://slate.com/privacy"
+    },
+    {
+      "text": "More information",
+      "url": "https://cookiepedia.co.uk/giving-consent-to-cookies"
+    },
+    {
+      "text": "here",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    }
+  ],
+  "uniq": 448609224,
   "workable_servers": [
     "ia601405.us.archive.org",
     "ia801405.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1656807982,
+  "created": 1656936610,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/motherjones-2022",
@@ -2494,31 +2494,157 @@
       "sha1": "fa7a87c5531843f29c09eb3012dcf5e75ff1c590"
     },
     {
+      "name": "motherjones-2022-07-02T18:32:16.880433-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656811939",
+      "size": "34104",
+      "md5": "269af92fb12d9e33e3286ce4dc42f676",
+      "crc32": "e5756e51",
+      "sha1": "d3b80716b1b4d1ca54db79660e1bd7e75cb7296f",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-07-02T18:32:16.880433-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656811941",
+      "size": "28011",
+      "md5": "f56e46941e6d7dc899fd70501dd08d90",
+      "crc32": "bcfbe946",
+      "sha1": "cca0a373075e0864bdd9f4e829a9681f0cd77360",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-07-02T18:32:16.880433-07:00.jpg",
+      "source": "original",
+      "mtime": "1656811938",
+      "size": "290273",
+      "md5": "099c3360916310ecc61cd2a0bd1e694f",
+      "crc32": "393077a8",
+      "sha1": "13d167744d62faf7fa559a930013cbd141fd9b29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-07-02T18:32:16.880433-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-07-02T18:32:16.880433-07:00.jpg",
+      "mtime": "1656811986",
+      "size": "9980",
+      "md5": "f5418971a580df6b1b80954e5a22d23e",
+      "crc32": "ff390dc5",
+      "sha1": "8463735dd48d83de7875224e776b29e97c8cd875"
+    },
+    {
+      "name": "motherjones-2022-07-03T06:10:53.431387-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853858",
+      "size": "34072",
+      "md5": "2f0b6c7cb8770c86d0ff138a9d7d5400",
+      "crc32": "4bf94653",
+      "sha1": "8fe43d8de027f1b1306c5eb16bb23592910741a8",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-07-03T06:10:53.431387-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853859",
+      "size": "28008",
+      "md5": "5153eb1e70df84bb8fa16455d7bf83bc",
+      "crc32": "a3a2c6b5",
+      "sha1": "fb864096e691587d3cdd31234ee51f9d7d669c98",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-07-03T06:10:53.431387-07:00.jpg",
+      "source": "original",
+      "mtime": "1656853856",
+      "size": "290231",
+      "md5": "8e0997250de679ab74cbb47fb7e5e0c6",
+      "crc32": "9460a715",
+      "sha1": "f7053218de4cf2cbe575c07fe002dc6573b18f8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-07-03T06:10:53.431387-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-07-03T06:10:53.431387-07:00.jpg",
+      "mtime": "1656853906",
+      "size": "9972",
+      "md5": "ec82862f6938abf8d379a4f90f3339c5",
+      "crc32": "db4a9ef1",
+      "sha1": "eb923da0d4303e19d87022bbb90a62fc5dd8c7bc"
+    },
+    {
+      "name": "motherjones-2022-07-03T18:31:51.310569-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898316",
+      "size": "34000",
+      "md5": "9d323013cdc4656cfafbb3f75666def4",
+      "crc32": "487c3bf4",
+      "sha1": "d954dfad7eeca2e85ca19fedf073e152490ac765",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-07-03T18:31:51.310569-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898317",
+      "size": "28041",
+      "md5": "9a5052e9052573b725c2bc6f3514b05f",
+      "crc32": "cc1d776f",
+      "sha1": "182a6cc5d50534319c7b0ae2a13e35ba82599ffd",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-07-03T18:31:51.310569-07:00.jpg",
+      "source": "original",
+      "mtime": "1656898314",
+      "size": "258542",
+      "md5": "6f5e2dbd802da5cd8730c26f0d353586",
+      "crc32": "29aae4bb",
+      "sha1": "a7554d7a5a0f5cde0c48578873f23531c99ce6f7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-07-03T18:31:51.310569-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-07-03T18:31:51.310569-07:00.jpg",
+      "mtime": "1656898363",
+      "size": "9938",
+      "md5": "e87e3051d2413bd243f3262b5e402838",
+      "crc32": "7d072dd3",
+      "sha1": "9709fb665dd23452fa853cf6a80605f87b888305"
+    },
+    {
       "name": "motherjones-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b59a24489606bb15f2cb4eb9ebb9d2bf0f290f72",
-      "mtime": "1656767727",
-      "size": "52062",
-      "md5": "0b8c47bad34348d7011e1cfcb1cbd43c",
-      "crc32": "e765c17a",
-      "sha1": "99a89b43e4019235710bf281205f913e341e2e61",
+      "btih": "800aba2b0e800e9f3412aa479b40dfd2010eaecd",
+      "mtime": "1656898366",
+      "size": "54625",
+      "md5": "76d56b5a2efa337b92b8f9ca07151ebb",
+      "crc32": "fd286368",
+      "sha1": "392a82a63bdb004b481b78e9a2f45a1b0c987a8f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "motherjones-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "02a0d0902e4ba79014133201e715b9a7",
+      "md5": "051e42db4b204e3d7a8f450e28c36a1b",
       "summation": "md5"
     },
     {
       "name": "motherjones-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656767657",
-      "size": "290816",
-      "md5": "6930c1c7c0c6099be15ce61d58828a4d",
-      "crc32": "daf2f2f2",
-      "sha1": "b328493da3b29e35f9c8bee9c6d8ab0b6fb966a0",
+      "mtime": "1656898321",
+      "size": "303104",
+      "md5": "e8da664cb5e40673a0100e8611d08cf4",
+      "crc32": "ac4a39bd",
+      "sha1": "900ee20467eef5c35f6595f12b5a870e3e1386c8",
       "format": "Metadata"
     },
     {
@@ -2532,9 +2658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 241,
-  "item_last_updated": 1656767727,
-  "item_size": 20951555,
+  "files_count": 253,
+  "item_last_updated": 1656898366,
+  "item_size": 22021578,
   "metadata": {
     "identifier": "motherjones-2022",
     "collection": [
@@ -2551,876 +2677,10 @@
     "publicdate": "2022-06-18 17:10:05",
     "addeddate": "2022-06-18 17:10:05"
   },
-  "motherjones-2022": [
-    {
-      "text": "Skip to main content",
-      "url": "#main"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\t\t\t",
-      "url": "/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP002|PEGP002"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP007|PEGP007"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYIP&c=SEGYIC&d=SEGYID&f=SEGYIF"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.motherjones.com/topics/coronavirus/"
-    },
-    {
-      "text": "Pride Month",
-      "url": "https://www.motherjones.com/politics/2022/06/supreme-court-alito-roe-obergefell-same-sex-marriage-family/"
-    },
-    {
-      "text": "Justice Samuel Alito",
-      "url": "https://www.motherjones.com/politics/2022/06/it-was-always-going-to-be-alito/"
-    },
-    {
-      "text": "Cassidy Hutchinson",
-      "url": "https://www.motherjones.com/politics/2022/06/cassidy-hutchinsons-testimony-was-15-months-too-late/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.motherjones.com/./politics/"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.motherjones.com/./environment/"
-    },
-    {
-      "text": "Crime and Justice",
-      "url": "https://www.motherjones.com/./crime-justice/"
-    },
-    {
-      "text": "Food",
-      "url": "https://www.motherjones.com/./food/"
-    },
-    {
-      "text": "Media",
-      "url": "https://www.motherjones.com/./media/"
-    },
-    {
-      "text": "Investigations",
-      "url": "https://www.motherjones.com/topics/investigations/"
-    },
-    {
-      "text": "Photos",
-      "url": "https://www.motherjones.com/topics/photoessays/"
-    },
-    {
-      "text": "Magazine",
-      "url": "/magazine"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.motherjones.com/topics/coronavirus/"
-    },
-    {
-      "text": "Pride Month",
-      "url": "https://www.motherjones.com/politics/2022/06/supreme-court-alito-roe-obergefell-same-sex-marriage-family/"
-    },
-    {
-      "text": "Justice Samuel Alito",
-      "url": "https://www.motherjones.com/politics/2022/06/it-was-always-going-to-be-alito/"
-    },
-    {
-      "text": "Cassidy Hutchinson",
-      "url": "https://www.motherjones.com/politics/2022/06/cassidy-hutchinsons-testimony-was-15-months-too-late/"
-    },
-    {
-      "text": "\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tSubscribe to our magazine\n\t\t\t",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYOP&c=SEGYOC&d=SEGYOD&f=SEGYOF"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\n\t\t\t\t",
-      "url": "/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tDonate\n\t\t\t\t\t\n\t\t\t\t",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP001|PEGP001"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.motherjones.com/./politics/"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.motherjones.com/./environment/"
-    },
-    {
-      "text": "Crime and Justice",
-      "url": "https://www.motherjones.com/./crime-justice/"
-    },
-    {
-      "text": "Food",
-      "url": "https://www.motherjones.com/./food/"
-    },
-    {
-      "text": "Media",
-      "url": "https://www.motherjones.com/./media/"
-    },
-    {
-      "text": "Investigations",
-      "url": "https://www.motherjones.com/topics/investigations/"
-    },
-    {
-      "text": "Photos",
-      "url": "https://www.motherjones.com/topics/photoessays/"
-    },
-    {
-      "text": "Magazine",
-      "url": "/magazine"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.motherjones.com/newsletters/?mj_oac=desktop_header_nav"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/07/new-york-is-expanding-abortion-access-now-it-just-needs-to-become-liveable/"
-    },
-    {
-      "text": "New York Is Expanding Abortion Access. Now It Just Needs to Become Liveable.",
-      "url": "https://www.motherjones.com/politics/2022/07/new-york-is-expanding-abortion-access-now-it-just-needs-to-become-liveable/"
-    },
-    {
-      "text": "Tim Murphy",
-      "url": "https://www.motherjones.com/author/tim-murphy/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/07/geoengineering-politics-science-climate-hacking/"
-    },
-    {
-      "text": "The Nightmare Politics and Sticky Science of Hacking the Climate",
-      "url": "https://www.motherjones.com/politics/2022/07/geoengineering-politics-science-climate-hacking/"
-    },
-    {
-      "text": "Matt Simon",
-      "url": "https://www.motherjones.com/author/matt-simon/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/07/this-is-what-liz-cheney-is-up-against-in-wyoming/"
-    },
-    {
-      "text": "This Is What Liz Cheney Is Up Against In Wyoming",
-      "url": "https://www.motherjones.com/politics/2022/07/this-is-what-liz-cheney-is-up-against-in-wyoming/"
-    },
-    {
-      "text": "Tim Murphy",
-      "url": "https://www.motherjones.com/author/tim-murphy/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/07/complaining-about-air-travel-is-a-no-brainer-for-democrats/"
-    },
-    {
-      "text": "Complaining About Air Travel Is a No-Brainer for Democrats",
-      "url": "https://www.motherjones.com/politics/2022/07/complaining-about-air-travel-is-a-no-brainer-for-democrats/"
-    },
-    {
-      "text": "Tim Murphy",
-      "url": "https://www.motherjones.com/author/tim-murphy/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/07/ivf-worked-and-2-embryos-remain-soon-she-may-not-be-allowed-to-decide-what-happens-to-them/"
-    },
-    {
-      "text": "IVF Worked, and 2 Embryos Remain. Soon She May Not Be Allowed To Decide What Happens to Them.",
-      "url": "https://www.motherjones.com/politics/2022/07/ivf-worked-and-2-embryos-remain-soon-she-may-not-be-allowed-to-decide-what-happens-to-them/"
-    },
-    {
-      "text": "Kiera Butler",
-      "url": "https://www.motherjones.com/author/kiera-butler/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/07/national-abortion-ban-republicans-congress/"
-    },
-    {
-      "text": "This Is the Republican Roadmap for Eradicating Reproductive Rights",
-      "url": "https://www.motherjones.com/politics/2022/07/national-abortion-ban-republicans-congress/"
-    },
-    {
-      "text": "Abby Vesoulis",
-      "url": "https://www.motherjones.com/author/abby-vesoulis/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/07/supreme-courts-epa-west-virginia-climate-ruling/"
-    },
-    {
-      "text": "The Real Target of the Supreme Court\u2019s EPA Decision",
-      "url": "https://www.motherjones.com/politics/2022/07/supreme-courts-epa-west-virginia-climate-ruling/"
-    },
-    {
-      "text": "Blake Emerson",
-      "url": "https://www.motherjones.com/author/blake-emerson/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/sponsored/an-activist-athlete-elevates-the-game-rallying-for-self-care-and-protesting-banks-conduct/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tAn Activist-Athlete Elevates the Game, Rallying for Self-Care and Protesting Banks\u2019 Conduct\t\t\t\t\t\t",
-      "url": "https://www.motherjones.com/sponsored/an-activist-athlete-elevates-the-game-rallying-for-self-care-and-protesting-banks-conduct/"
-    },
-    {
-      "text": "Kyle Thiermann\u2019s journey from surfer to activist",
-      "url": "https://www.motherjones.com/sponsored/an-activist-athlete-elevates-the-game-rallying-for-self-care-and-protesting-banks-conduct/"
-    },
-    {
-      "text": "MUD\\WTR",
-      "url": "https://mudwtr.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/07/democrats-abortion-biden-roe-wade/"
-    },
-    {
-      "text": "Democrats Need to Realize That the End of Roe Is About More Than Abortion",
-      "url": "https://www.motherjones.com/politics/2022/07/democrats-abortion-biden-roe-wade/"
-    },
-    {
-      "text": "Pema Levy",
-      "url": "https://www.motherjones.com/author/pema-levy/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/west-virginia-v-epa-supreme-court/"
-    },
-    {
-      "text": "The Supreme Court Limits the EPA\u2019s Ability to Regulate Greenhouse Gas Emissions",
-      "url": "https://www.motherjones.com/politics/2022/06/west-virginia-v-epa-supreme-court/"
-    },
-    {
-      "text": "Emily Hofstaedter",
-      "url": "https://www.motherjones.com/author/emily-hofstaedter/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/supreme-court-has-just-ruled-the-biden-administration-can-end-remain-in-mexico-policy/"
-    },
-    {
-      "text": "Supreme Court Has Just Ruled the Biden Administration Can End Remain in Mexico Policy",
-      "url": "https://www.motherjones.com/politics/2022/06/supreme-court-has-just-ruled-the-biden-administration-can-end-remain-in-mexico-policy/"
-    },
-    {
-      "text": "Isabela Dias",
-      "url": "https://www.motherjones.com/author/isabela-dias/"
-    },
-    {
-      "text": "Videos",
-      "url": "/topics/video/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/uvalde-police-abject-failure-robb-elementary/"
-    },
-    {
-      "text": "Uvalde Police Response Was an \u201cAbject Failure,\u201d Texas Public Safety Director Says",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/uvalde-police-abject-failure-robb-elementary/"
-    },
-    {
-      "text": "Abigail Weinberg",
-      "url": "https://www.motherjones.com/author/abigail-weinberg/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/mike-pence-is-still-a-mealymouthed-trump-stooge/"
-    },
-    {
-      "text": "Mike Pence Is Still a Mealymouthed Trump Stooge",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/mike-pence-is-still-a-mealymouthed-trump-stooge/"
-    },
-    {
-      "text": "Inae Oh",
-      "url": "https://www.motherjones.com/author/inae-oh/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/yellowstone-national-park-flood-rainfall-snowmelt-anniversary/"
-    },
-    {
-      "text": "Yellowstone Turned 150 This Year. Now It\u2019s Being Inundated With Floodwater.",
-      "url": "https://www.motherjones.com/politics/2022/06/yellowstone-national-park-flood-rainfall-snowmelt-anniversary/"
-    },
-    {
-      "text": "Jackie Flynn Mogensen",
-      "url": "https://www.motherjones.com/author/jackie-flynn-mogensen/"
-    },
-    {
-      "text": "Staff Blog",
-      "url": "/blogs/mojo-wire/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t",
-      "url": "/blogs/mojo-wire/"
-    },
-    {
-      "text": "It\u2019s Not 2016",
-      "url": "https://www.motherjones.com/mojo-wire/2022/07/its-not-2016/"
-    },
-    {
-      "text": "Jacob Rosenberg",
-      "url": "https://www.motherjones.com/author/jacob-rosenberg/"
-    },
-    {
-      "text": "San Antonio\u2019s Migrant Tragedy Shows There\u2019s No Limit to GOP Opportunism",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/san-antonios-migrant-tragedy-shows-theres-no-limit-to-gop-opportunism/"
-    },
-    {
-      "text": "Isabela Dias",
-      "url": "https://www.motherjones.com/author/isabela-dias/"
-    },
-    {
-      "text": "It Looks Like Two More Years of Lauren Boebert in Congress",
-      "url": "https://www.motherjones.com/mojo-wire/2022/06/term-boebert-republican-primary-colorado/"
-    },
-    {
-      "text": "Abigail Weinberg",
-      "url": "https://www.motherjones.com/author/abigail-weinberg/"
-    },
-    {
-      "text": "Good News Blog",
-      "url": "/recharge/"
-    },
-    {
-      "text": "",
-      "url": "/recharge/"
-    },
-    {
-      "text": "Remembering George P\u00e9rez, a Superhero of Superhero Comics",
-      "url": "https://www.motherjones.com/recharge/2022/05/remembering-george-perez-a-superhero-of-superhero-comics/"
-    },
-    {
-      "text": "Dan Spinelli",
-      "url": "https://www.motherjones.com/author/dan-spinelli/"
-    },
-    {
-      "text": "Ukrainian and Russian Dancers Join Onstage (in Italy) to Fundraise for the Red Cross",
-      "url": "https://www.motherjones.com/recharge/2022/04/ukrainian-russian-antiwar-ballet-dancers-for-peace/"
-    },
-    {
-      "text": "Daniel King",
-      "url": "https://www.motherjones.com/author/daniel-king/"
-    },
-    {
-      "text": "Mass Shootings Persist, But a New Book Brings Hope and Science to Grappling With Their Prevention",
-      "url": "https://www.motherjones.com/recharge/2022/04/mass-shooting-prevention-trigger-points/"
-    },
-    {
-      "text": "Daniel King",
-      "url": "https://www.motherjones.com/author/daniel-king/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/the-maga-grocery-king-of-southwest-florida/"
-    },
-    {
-      "text": "\n\t\t\t\tThe MAGA Grocery King of Southwest Florida\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/the-maga-grocery-king-of-southwest-florida/"
-    },
-    {
-      "text": "David Silverberg",
-      "url": "https://www.motherjones.com/author/david-silverberg/"
-    },
-    {
-      "text": "Close",
-      "url": "#sailthru-signup-widget"
-    },
-    {
-      "text": "privacy policy",
-      "url": "https://www.motherjones.com/about/privacy-policy/"
-    },
-    {
-      "text": "terms of use",
-      "url": "https://www.motherjones.com/about/terms/"
-    },
-    {
-      "text": "Politics",
-      "url": "/politics"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/ketanji-brown-jackson-supreme-court-sworin-in/"
-    },
-    {
-      "text": "Ketanji Brown Jackson Sworn in as Associate Supreme Court Justice",
-      "url": "https://www.motherjones.com/politics/2022/06/ketanji-brown-jackson-supreme-court-sworin-in/"
-    },
-    {
-      "text": "Noah Y. Kim",
-      "url": "https://www.motherjones.com/author/noah-y-kim/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/this-is-what-it-was-like-to-be-an-abortion-escort-before-roe-ended/"
-    },
-    {
-      "text": "This Is What It Was Like to Be an Abortion Escort Before Roe Ended",
-      "url": "https://www.motherjones.com/politics/2022/06/this-is-what-it-was-like-to-be-an-abortion-escort-before-roe-ended/"
-    },
-    {
-      "text": "a. l. Dawson",
-      "url": "https://www.motherjones.com/author/a-l-dawson/"
-    },
-    {
-      "text": "J. Shoshanna Ehrlich",
-      "url": "https://www.motherjones.com/author/j-shoshanna-ehrlich/"
-    },
-    {
-      "text": "Environment",
-      "url": "/environment"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/environment/2022/06/fashion-brands-halt-higg-sustainability-index-greenwashing/"
-    },
-    {
-      "text": "Fashion Brands Halt Use of \u201cGreenwashing\u201d Sustainability Index",
-      "url": "https://www.motherjones.com/environment/2022/06/fashion-brands-halt-higg-sustainability-index-greenwashing/"
-    },
-    {
-      "text": "Fleur Britten",
-      "url": "https://www.motherjones.com/author/fleur-britten/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/environment/2022/06/un-summit-ocean-emergency-lisbon-portugal/"
-    },
-    {
-      "text": "UN Chief Declares \u201cOcean Emergency\u201d as Leaders Gather in Lisbon",
-      "url": "https://www.motherjones.com/environment/2022/06/un-summit-ocean-emergency-lisbon-portugal/"
-    },
-    {
-      "text": "Karen McVeigh",
-      "url": "https://www.motherjones.com/author/karen-mcveigh/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/topics/coronavirus"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/animals-testing-monkey-primate-shortage-covid-monkeypox-future-pandemic-vaccines/"
-    },
-    {
-      "text": "A Plane of Monkeys, a Pandemic, and a Botched Deal: Inside the Science Crisis You\u2019ve Never Heard Of",
-      "url": "https://www.motherjones.com/politics/2022/06/animals-testing-monkey-primate-shortage-covid-monkeypox-future-pandemic-vaccines/"
-    },
-    {
-      "text": "Jackie Flynn Mogensen",
-      "url": "https://www.motherjones.com/author/jackie-flynn-mogensen/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/insurrectionist-anti-vaxx-doctor-simone-gold-was-just-sentenced-to-60-days-in-jail/"
-    },
-    {
-      "text": "Insurrectionist Anti-Vax Doctor Simone Gold Was Just Sentenced to 60 Days in Prison",
-      "url": "https://www.motherjones.com/politics/2022/06/insurrectionist-anti-vaxx-doctor-simone-gold-was-just-sentenced-to-60-days-in-jail/"
-    },
-    {
-      "text": "Stephanie Mencimer",
-      "url": "https://www.motherjones.com/author/stephanie-mencimer/"
-    },
-    {
-      "text": "Food",
-      "url": "/food"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/food/2022/07/as-heat-rises-who-will-protect-farmworkers/"
-    },
-    {
-      "text": "As Heat Rises, Who Will Protect Farmworkers?",
-      "url": "https://www.motherjones.com/food/2022/07/as-heat-rises-who-will-protect-farmworkers/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/food/2022/06/congress-keep-kids-fed-act/"
-    },
-    {
-      "text": "Congress Just Passed A Bill To Help Schools Feed Kids\u2014But It\u2019s \u201cToo Little, Too Late\u201d for Many Districts",
-      "url": "https://www.motherjones.com/food/2022/06/congress-keep-kids-fed-act/"
-    },
-    {
-      "text": "Abby Vesoulis",
-      "url": "https://www.motherjones.com/author/abby-vesoulis/"
-    },
-    {
-      "text": "Crime & Justice",
-      "url": "/crime-justice"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/january-6-oath-keepers-operations-leader-indicted-michael-greene-stewart-rhodes/"
-    },
-    {
-      "text": "January 6 Case Against Oath Keepers Expands With Indictment of \u201cOperations Leader\u201d",
-      "url": "https://www.motherjones.com/politics/2022/06/january-6-oath-keepers-operations-leader-indicted-michael-greene-stewart-rhodes/"
-    },
-    {
-      "text": "Dan Friedman",
-      "url": "https://www.motherjones.com/author/dan-friedman/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/crime-justice/2022/06/lgbtq-pride-organizers-weigh-multiple-threats-from-police-brutality-to-vigilante-violence/"
-    },
-    {
-      "text": "LGBTQ Pride Organizers Weigh Multiple Threats, From Police Brutality to Vigilante Violence",
-      "url": "https://www.motherjones.com/crime-justice/2022/06/lgbtq-pride-organizers-weigh-multiple-threats-from-police-brutality-to-vigilante-violence/"
-    },
-    {
-      "text": "Samantha Michaels",
-      "url": "https://www.motherjones.com/author/samantha-michaels/"
-    },
-    {
-      "text": "Immigration",
-      "url": "/topics/immigration"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/first-roe-then-plyler-the-gops-40-year-fight-to-keep-undocumented-kids-out-of-public-school/"
-    },
-    {
-      "text": "First Roe, Then Plyler? The GOP\u2019s 40-Year Fight to Keep Undocumented Kids Out of Public School",
-      "url": "https://www.motherjones.com/politics/2022/06/first-roe-then-plyler-the-gops-40-year-fight-to-keep-undocumented-kids-out-of-public-school/"
-    },
-    {
-      "text": "Isabela Dias",
-      "url": "https://www.motherjones.com/author/isabela-dias/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/05/end-title-42-border-preparation-tucson-san-diego/"
-    },
-    {
-      "text": "\u201cThis Is Not Our First Rodeo\u201d: Key Border Cities Say They\u2019re Ready for the End of Title 42",
-      "url": "https://www.motherjones.com/politics/2022/05/end-title-42-border-preparation-tucson-san-diego/"
-    },
-    {
-      "text": "Fernanda Echavarri",
-      "url": "https://www.motherjones.com/author/fernanda-echavarri/"
-    },
-    {
-      "text": "The Big Feature",
-      "url": "/topics/the-big-feature/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/why-are-iuds-so-painful-treatment-contraception-roe-dobbs-supreme-court/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWhy Haven\u2019t We Figured Out How to Make IUDs Less Excruciating?\t\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/why-are-iuds-so-painful-treatment-contraception-roe-dobbs-supreme-court/"
-    },
-    {
-      "text": "Ruth Murai",
-      "url": "https://www.motherjones.com/author/ruth-murai/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/texas-clinics-abortion-ban-pivot-services-travel/"
-    },
-    {
-      "text": "\n\t\t\t\t\tThe Texas Abortion Ban Has Turned Clinics Into Travel Agencies\t\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/texas-clinics-abortion-ban-pivot-services-travel/"
-    },
-    {
-      "text": "Mary Tuma",
-      "url": "https://www.motherjones.com/author/mary-tuma/"
-    },
-    {
-      "text": "Investigations",
-      "url": "/topics/investigations/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/guo-wengui-lin-wood-steve-bannon-million-maga-march/"
-    },
-    {
-      "text": "\n\t\t\t\t\tA Fugitive Chinese Mogul Spent Big to Overturn the 2020 Election\t\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/guo-wengui-lin-wood-steve-bannon-million-maga-march/"
-    },
-    {
-      "text": "Dan Friedman",
-      "url": "https://www.motherjones.com/author/dan-friedman/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/susan-gore-erik-prince-right-wing-spy-op-wyoming/"
-    },
-    {
-      "text": "\n\t\t\t\t\tHow a Former Transcendental Meditation Devotee Ended Up Funding America\u2019s Wildest Right-Wing Spy Op\t\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/susan-gore-erik-prince-right-wing-spy-op-wyoming/"
-    },
-    {
-      "text": "Tim Murphy",
-      "url": "https://www.motherjones.com/author/tim-murphy/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYGP&c=SEGYGC&d=SEGYGD&f=SEGYGF"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/media/2021/07/january-6-insurrection-capitol-cnn-jake-tapper-podcast/"
-    },
-    {
-      "text": "January 6 Reckoning: CNN\u2019s Jake Tapper Says the Media Must Confront Republicans\u2019 Big Lie",
-      "url": "https://www.motherjones.com/media/2021/07/january-6-insurrection-capitol-cnn-jake-tapper-podcast/"
-    },
-    {
-      "text": "Abigail Weinberg",
-      "url": "https://www.motherjones.com/author/abigail-weinberg/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2021/06/podcast-january-6-qanon-history-whats-next/"
-    },
-    {
-      "text": "We Need to Understand How We Got to January 6 Before We Can Move Forward",
-      "url": "https://www.motherjones.com/politics/2021/06/podcast-january-6-qanon-history-whats-next/"
-    },
-    {
-      "text": "Fernanda Echavarri",
-      "url": "https://www.motherjones.com/author/fernanda-echavarri/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2021/05/vaccine-patents-biden-covid-india-dean-baker-pandemic/"
-    },
-    {
-      "text": "A Radical Idea for Forcing Vaccine Companies to Share Knowledge With the World",
-      "url": "https://www.motherjones.com/politics/2021/05/vaccine-patents-biden-covid-india-dean-baker-pandemic/"
-    },
-    {
-      "text": "Molly Schwartz",
-      "url": "https://www.motherjones.com/author/molly-schwartz/"
-    },
-    {
-      "text": "Jamilah King",
-      "url": "https://www.motherjones.com/author/jamilah-king/"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://podcasts.apple.com/us/podcast/the-mother-jones-podcast/id1386408605"
-    },
-    {
-      "text": "\n                            Subscribe to the Mother Jones Podcast and you'll never miss an episode.\n                        ",
-      "url": "https://podcasts.apple.com/us/podcast/the-mother-jones-podcast/id1386408605"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tPhotography\n\t\t\t\t\t\t",
-      "url": "https://www.motherjones.com/topics/photoessays/"
-    },
-    {
-      "text": "",
-      "url": "https://www.motherjones.com/politics/2022/06/the-gruesome-attraction-of-prison-tourism-is-being-challenged-at-last/"
-    },
-    {
-      "text": "\n\t\t\t\tThe Gruesome Attraction of Prison Tourism Is Being Challenged at Last\t\t\t",
-      "url": "https://www.motherjones.com/politics/2022/06/the-gruesome-attraction-of-prison-tourism-is-being-challenged-at-last/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGPBA1|PEGPBA1"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYGP&c=SEGYGC&d=SEGYGD&f=SEGYGF"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t",
-      "url": "/mag/2022/07/toc/"
-    },
-    {
-      "text": "August 2022",
-      "url": "/mag/2022/07/toc"
-    },
-    {
-      "text": "",
-      "url": "/mag/2022/05/toc"
-    },
-    {
-      "text": "June 2022",
-      "url": "/mag/2022/05/toc"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t",
-      "url": "/mag/2022/03/toc/"
-    },
-    {
-      "text": "April 2022",
-      "url": "/mag/2022/03/toc"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t",
-      "url": "https://itunes.apple.com/us/podcast/the-mother-jones-podcast/id1386408605?mt=2"
-    },
-    {
-      "text": "Subscribe \u00bb",
-      "url": "https://itunes.apple.com/us/podcast/the-mother-jones-podcast/id1386408605?mt=2"
-    },
-    {
-      "text": "Close",
-      "url": "#sailthru-signup-widget"
-    },
-    {
-      "text": "privacy policy",
-      "url": "https://www.motherjones.com/about/privacy-policy/"
-    },
-    {
-      "text": "terms of use",
-      "url": "https://www.motherjones.com/about/terms/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\t\t\t",
-      "url": "/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.facebook.com/motherjones"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://twitter.com/motherjones"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.instagram.com/motherjonesmag/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "http://feeds.feedburner.com/motherjones/feed"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/newsletters"
-    },
-    {
-      "text": "About",
-      "url": "https://www.motherjones.com/about/"
-    },
-    {
-      "text": "Our Staff",
-      "url": "https://www.motherjones.com/about/staff/"
-    },
-    {
-      "text": "Financials",
-      "url": "https://www.motherjones.com/about/financials/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://www.motherjones.com/jobs/"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.motherjones.com/events/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.motherjones.com/contact/"
-    },
-    {
-      "text": "Support",
-      "url": "https://www.motherjones.com/support/"
-    },
-    {
-      "text": "Ways to Give",
-      "url": "https://www.motherjones.com/support/"
-    },
-    {
-      "text": "Advertise With Us",
-      "url": "https://www.motherjones.com/advertising/"
-    },
-    {
-      "text": "Licensing / Reprints",
-      "url": "https://www.motherjones.com/customer-service/permissions/"
-    },
-    {
-      "text": "Store",
-      "url": "http://store.motherjones.com/?utm_source=motherjones&utm_medium=footer&utm_content=orangefooterlink&utm_campaign=evergreen"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&c=SEGMOC&d=SEGMOD&f=SEGMOF"
-    },
-    {
-      "text": "Magazine Subscriptions",
-      "url": "https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&c=SEGMOC&d=SEGMOD&f=SEGMOF"
-    },
-    {
-      "text": "Give a Gift Subscription",
-      "url": "https://secure.motherjones.com/flex/mj/key/YGIFUP/"
-    },
-    {
-      "text": "Email Newsletters",
-      "url": "https://www.motherjones.com/newsletters/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.motherjones.com/podcasts/"
-    },
-    {
-      "text": "Customer Service",
-      "url": "https://www.motherjones.com/customer-service/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://policies.google.com/privacy"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://policies.google.com/terms"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://www.motherjones.com/about/terms/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.motherjones.com/about/privacy-policy/"
-    },
-    {
-      "text": "",
-      "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=www.motherjones.com"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tDonate\n\t\t\t\t\t",
-      "url": "https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGZS1A|PEGZS1A"
-    },
-    {
-      "text": "Close",
-      "url": "#sailthru-signup-widget"
-    }
-  ],
-  "server": "ia802500.us.archive.org",
-  "uniq": 1970749275,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1661935435,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1656807853,
+  "created": 1656936505,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/17/items/ft-2022",
@@ -9680,31 +9680,283 @@
       "sha1": "bdaec6a497ae9a0b2090916f05e7368f45e901cf"
     },
     {
+      "name": "ft-2022-07-03T02:28:47.580177+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656811730",
+      "size": "41140",
+      "md5": "a8b339556f7a477ab70121083e29ef40",
+      "crc32": "4097e212",
+      "sha1": "59e1bbfddef8db6ae3755fd396ee29a4d7ac0d44",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-03T02:28:47.580177+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656811731",
+      "size": "52245",
+      "md5": "0fedddc6e5cb1b507c8a160013fe1f52",
+      "crc32": "b1c07528",
+      "sha1": "dce8534564e26389056bf11eee75bd543890a444",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-03T02:28:47.580177+01:00.jpg",
+      "source": "original",
+      "mtime": "1656811728",
+      "size": "323989",
+      "md5": "55c68c3f46082b28c2d8251c9549692b",
+      "crc32": "3bdf6ce9",
+      "sha1": "18814830fb4e91c549451f4aa415fb0a840f3bbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-03T02:28:47.580177+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-03T02:28:47.580177+01:00.jpg",
+      "mtime": "1656811851",
+      "size": "10018",
+      "md5": "57619f38faf138a76475060de7c6fe28",
+      "crc32": "c57f84e8",
+      "sha1": "91ae2f38c48978c05974fecc572070638b6cf615"
+    },
+    {
+      "name": "ft-2022-07-03T10:08:35.183491+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656839321",
+      "size": "38823",
+      "md5": "94fa0e0288f088ca4c63252a80d4ce02",
+      "crc32": "e7bfe16b",
+      "sha1": "dd80ab082e65d9c99b0a9b4b286e58463302f552",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-03T10:08:35.183491+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656839324",
+      "size": "52359",
+      "md5": "bae71f5d935eb120b59162cba69171eb",
+      "crc32": "9cf03f25",
+      "sha1": "f86db852e130efcdde3bc03956fb6d0a84a5d22c",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-03T10:08:35.183491+01:00.jpg",
+      "source": "original",
+      "mtime": "1656839319",
+      "size": "344217",
+      "md5": "044f9cec37a59343636039508fe49abb",
+      "crc32": "39b9b7a5",
+      "sha1": "251f7f00f72064ed857a5961d420dd971ac4d42a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-03T10:08:35.183491+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-03T10:08:35.183491+01:00.jpg",
+      "mtime": "1656839383",
+      "size": "10238",
+      "md5": "f12462ab2cbd1541023f1948657d0bf7",
+      "crc32": "9735ea18",
+      "sha1": "5b1f7453070c3ac917e39633d9ca272fa2803842"
+    },
+    {
+      "name": "ft-2022-07-03T14:07:39.977307+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853666",
+      "size": "39343",
+      "md5": "6f5696e53dfeb1a10596553b067c37f9",
+      "crc32": "706049b4",
+      "sha1": "659f70dae03a5c05cd76c8c3c8f5184578433ec5",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-03T14:07:39.977307+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853668",
+      "size": "52483",
+      "md5": "cf79edb3c16a0df3e4699b3fda03a4af",
+      "crc32": "287d7377",
+      "sha1": "2e49eafa4bb84078e57cadd0fa17e81255472404",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-03T14:07:39.977307+01:00.jpg",
+      "source": "original",
+      "mtime": "1656853665",
+      "size": "332880",
+      "md5": "e143891e40c87ad172cafad99f73502d",
+      "crc32": "7cb1de71",
+      "sha1": "66903c3418593db42c8889bb5f7c406b80be69aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-03T14:07:39.977307+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-03T14:07:39.977307+01:00.jpg",
+      "mtime": "1656853742",
+      "size": "10045",
+      "md5": "015d526cde914bcb6d6fc7d7fdf10f67",
+      "crc32": "abd2ac51",
+      "sha1": "e3ae8597bdc81ce81aae4083ba3d7984229b848b"
+    },
+    {
+      "name": "ft-2022-07-03T17:09:14.048049+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656864559",
+      "size": "38974",
+      "md5": "1c6e0b851ad6b777efda37da248c9fc3",
+      "crc32": "f770d475",
+      "sha1": "5687e42bd4c29af2215d16d09baca6fa11043bec",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-03T17:09:14.048049+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656864560",
+      "size": "51673",
+      "md5": "fcb4c660450427251e91f1f91b2c1314",
+      "crc32": "350503da",
+      "sha1": "9e70fdbc9a09395e056bfc207c93d38631ca0ed1",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-03T17:09:14.048049+01:00.jpg",
+      "source": "original",
+      "mtime": "1656864558",
+      "size": "320238",
+      "md5": "a652c51560cd1326e6ca76fa88eb7c1f",
+      "crc32": "8bf67be2",
+      "sha1": "179622df789cca7e258cc5e565239c3cccccb35d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-03T17:09:14.048049+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-03T17:09:14.048049+01:00.jpg",
+      "mtime": "1656864620",
+      "size": "10194",
+      "md5": "11ecc3806fb5f1bf526847a6fbb6093d",
+      "crc32": "bda68386",
+      "sha1": "f318362786bbdbd35365027b5a791eb96a3ebc26"
+    },
+    {
+      "name": "ft-2022-07-04T02:28:16.925964+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898100",
+      "size": "38868",
+      "md5": "88e7abbf4549de9f30969ad678afacbf",
+      "crc32": "4810e8c5",
+      "sha1": "f177b0faaf2a211a9e54254ac025220da9b9370b",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-04T02:28:16.925964+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898102",
+      "size": "51887",
+      "md5": "d793aa11f165e62636c0eb3be8a3d800",
+      "crc32": "1384f7e5",
+      "sha1": "ac948964c284c0b1fe9faadf0902a4925674cd2d",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-04T02:28:16.925964+01:00.jpg",
+      "source": "original",
+      "mtime": "1656898099",
+      "size": "308140",
+      "md5": "756b8b7e5add2441e093e0b4bee1b3c9",
+      "crc32": "e8d03198",
+      "sha1": "1f9f3252bb4fcbf99542387a0e0cb7d54684294f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-04T02:28:16.925964+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-04T02:28:16.925964+01:00.jpg",
+      "mtime": "1656898157",
+      "size": "10206",
+      "md5": "59e3bfa10ce0265799f2754a6023bd18",
+      "crc32": "06d6c597",
+      "sha1": "81675572428571b90a5efac77d8db93876f85142"
+    },
+    {
+      "name": "ft-2022-07-04T10:15:53.469909+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656926161",
+      "size": "41593",
+      "md5": "3d0c929d2ebc03478cc0ae6cac2c7551",
+      "crc32": "a44a9179",
+      "sha1": "8f263e5011f1057e6923abfc8bcc46ccdc8aacf2",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-04T10:15:53.469909+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656926162",
+      "size": "50249",
+      "md5": "df06d1eef7684a60b7d0e4a4c97b1ecc",
+      "crc32": "a81bc45c",
+      "sha1": "7b0ec973585bc07991b3192e7eb092c689b2197d",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-04T10:15:53.469909+01:00.jpg",
+      "source": "original",
+      "mtime": "1656926159",
+      "size": "306075",
+      "md5": "ce9d7827d353eef53e830921e5da1a7d",
+      "crc32": "dad26233",
+      "sha1": "1eef24e0eee4bcbeb2d808b85222150cffd9c745",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-04T10:15:53.469909+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-04T10:15:53.469909+01:00.jpg",
+      "mtime": "1656926248",
+      "size": "10100",
+      "md5": "66579441f1fa4014861116bb35990346",
+      "crc32": "1549a18a",
+      "sha1": "b7cb98a23f342d8dbf6590993abcef3b404fa12c"
+    },
+    {
       "name": "ft-2022_archive.torrent",
       "source": "metadata",
-      "btih": "976a5ca362ed2c66b3952e935016ad36c3d86622",
-      "mtime": "1656778297",
-      "size": "190233",
-      "md5": "f931dbff4272c4b86aa49294d6f78f12",
-      "crc32": "d0e3f11d",
-      "sha1": "f03585c52e20382ba5f56c89a043522ff725ad63",
+      "btih": "f2a59705f7135d12f93f8a72a92ab2c34be58afb",
+      "mtime": "1656926268",
+      "size": "195169",
+      "md5": "9f409c0628923223e139d32292b994bb",
+      "crc32": "918c6d6b",
+      "sha1": "73aefeba5c4e86c7fd666893a38c45b7fc177cf4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ft-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5bd93d763fd2a94b1f03e943b3dd4742",
+      "md5": "7354e545695dfcf1b9b39ecc5659541c",
       "summation": "md5"
     },
     {
       "name": "ft-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656778191",
-      "size": "1044480",
-      "md5": "6154bb39f954ea0d1a35ac91e8438674",
-      "crc32": "7bf577f4",
-      "sha1": "a05d6ca7a0446c61077ccd54f433203600484191",
+      "mtime": "1656926165",
+      "size": "1073152",
+      "md5": "13581abdc7157b11e03db6c606a45e4b",
+      "crc32": "d5377a3e",
+      "sha1": "fef3b52e0f82ff34fc6ce245f9219f31e22d7bb4",
       "format": "Metadata"
     },
     {
@@ -9718,7 +9970,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 924,
+  "files_count": 948,
   "ft-2022": [
     {
       "text": "Accessibility help",
@@ -9737,30 +9989,6 @@
       "url": "#site-footer"
     },
     {
-      "text": "FTSE 100-0.01%",
-      "url": "https://markets.ft.com/data/indices/tearsheet/summary?s=FTSE:FSI"
-    },
-    {
-      "text": "S&P 500+1.06%",
-      "url": "https://markets.ft.com/data/indices/tearsheet/summary?s=INX:IOM"
-    },
-    {
-      "text": "Euro/Dollar-0.52%",
-      "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=EURUSD"
-    },
-    {
-      "text": "Pound/Dollar-0.67%",
-      "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=GBPUSD"
-    },
-    {
-      "text": "Brent Crude Oil-2.96%",
-      "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=IB.1:IEU"
-    },
-    {
-      "text": "10 Year US Gov-4.51%",
-      "url": "https://markets.ft.com/data/indices/tearsheet/summary?s=JPMUS10YCMY:REU"
-    },
-    {
       "text": "Visit Markets Data",
       "url": "https://markets.ft.com/data"
     },
@@ -9774,7 +10002,7 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\tManage cookies\n\t\t\t\t\t\t\t\t",
-      "url": "https://www.ft.com/preferences/manage-cookies?redirect=https%3A%2F%2Fwww.ft.com%2F%3Fedition%3Duk"
+      "url": "/preferences/manage-cookies"
     },
     {
       "text": "Sign In",
@@ -9881,24 +10109,24 @@
       "url": "/australia-newzealand"
     },
     {
-      "text": "UK mortgage rates rise at fastest pace in a decade",
-      "url": "/content/c41094b4-050d-4522-88ad-fc9a9829bd80"
+      "text": "ECB to discuss blocking banks from multibillion-euro windfall as rates rise",
+      "url": "/content/5ce8f458-8a59-4789-820a-8c59ed67f416"
     },
     {
-      "text": "Cern scientists restart hunt for answers to mysteries of universe ",
-      "url": "/content/cbe55858-86c4-441f-a4db-ebfe0ae60969"
+      "text": "Labour ready to fight Boris Johnson over effects of Brexit, says Keir Starmer ",
+      "url": "/content/3d2217f4-916d-411b-ba6a-866f26607cb1"
     },
     {
-      "text": "Eurozone inflation hits record 8.6% in June",
-      "url": "/content/cb77a45e-0b61-4be3-a7c2-54498c78c808"
+      "text": "Jeff Bezos clashes with Biden administration again over inflation",
+      "url": "/content/b7ac1a47-c42c-4eb1-90e6-f10b18693c72"
     },
     {
-      "text": "UK science minister in dispute with Treasury over post-Brexit funding",
-      "url": "/content/f471d783-5942-4495-892a-361bb0b6aaf0"
+      "text": "Several dead in Copenhagen mall shooting",
+      "url": "/content/70b4587a-03d3-44e7-82e4-1ef36962fb3d"
     },
     {
-      "text": "\u2018It\u2019s hard to leave\u2019: Moscow\u2019s fresh wave of missile attacks rekindle Kyivans\u2019 fear",
-      "url": "/content/479a1c1c-1198-47a3-8637-8e3c251e4bc8"
+      "text": "Russia claims full control of Luhansk region after seizing last stronghold",
+      "url": "/content/9f0318d5-5789-4f69-b6db-30179657c456"
     },
     {
       "text": "UK",
@@ -9929,24 +10157,24 @@
       "url": "/personal-finance"
     },
     {
-      "text": "UK mortgage rates rise at fastest pace in a decade",
-      "url": "/content/c41094b4-050d-4522-88ad-fc9a9829bd80"
+      "text": "Labour ready to fight Boris Johnson over effects of Brexit, says Keir Starmer ",
+      "url": "/content/3d2217f4-916d-411b-ba6a-866f26607cb1"
     },
     {
-      "text": "UK science minister in dispute with Treasury over post-Brexit funding",
-      "url": "/content/f471d783-5942-4495-892a-361bb0b6aaf0"
+      "text": "Crackdown on UK company directors who abused Covid support schemes",
+      "url": "/content/a71e21a6-b07e-47c4-a1e0-e85c751eff0e"
     },
     {
-      "text": "UK plans to cut pipelines to EU if Russia gas crisis intensifies",
-      "url": "/content/175ef927-efa2-439e-8ede-1dfc7edd23a6"
+      "text": "UK mortgage holders face higher bills as their fixed-rate contracts expire",
+      "url": "/content/750b9ce8-ca4d-41f0-8d44-03f07bb381ff"
     },
     {
-      "text": "Omicron variants drive 34% jump in England\u2019s Covid infections",
-      "url": "/content/f765fd55-3a2c-4dd6-b863-61854c9a7e67"
+      "text": "Pressure mounts on Boris Johnson over Chris Pincher appointment",
+      "url": "/content/c4ea1346-5a85-467e-83c4-5238fcb80b61"
     },
     {
-      "text": "Tory MP suspended from party over assault allegations",
-      "url": "/content/dd5e6dd3-8717-4993-84d6-a15b44d43d0c"
+      "text": "Low UK income growth leaves families \u2018brutally exposed\u2019 to surging inflation",
+      "url": "/content/d78c9c3c-5148-4db4-bd1f-f1fe586efbff"
     },
     {
       "text": "Companies",
@@ -9997,24 +10225,24 @@
       "url": "/companies/transport"
     },
     {
-      "text": "Klarna valuation crashes to $6.5bn from $46bn",
-      "url": "/content/fe1347ac-3ced-4e9e-bf2a-1630c985c449"
+      "text": "Wirecard\u2019s former top accountant admits forging documents for KPMG special audit",
+      "url": "/content/04e53da2-e9ea-4b8f-89ab-de8bcd965805"
     },
     {
-      "text": "Ryanair chief warns fares will rise for 5 years because flying is \u2018too cheap\u2019",
-      "url": "/content/32108696-9ef5-49ad-8a07-fa30375702bf"
+      "text": "Credit Suisse struggles with backlog of new wealthy client accounts in Asia",
+      "url": "/content/e02c676f-0d62-4fad-811e-4b308f3c64f6"
     },
     {
-      "text": "Boots left in limbo as bids fail to emerge",
-      "url": "/content/ef04cc7c-0b51-404e-9e40-58e10e9b8f75"
+      "text": "US energy stocks buck dismal trend with \u2018massive outperformance\u2019 ",
+      "url": "/content/5f41ca00-96b4-40d8-beb1-df84a91ced93"
     },
     {
-      "text": "Vatican suffers \u00a3100mn-plus loss on Knightsbridge office sale",
-      "url": "/content/3cecd61a-73e2-4e59-8438-dc9daec790d2"
+      "text": "Shipping boss says Japan has no choice but to buy Russian gas",
+      "url": "/content/01ea5892-a13c-4e3c-95a1-e2c2ee4efdae"
     },
     {
-      "text": "Covid could not sink cruise lines \u2014 but they now face an iceberg of debt",
-      "url": "/content/7a486b7b-e92f-47b7-a6bd-9da9637b42ac"
+      "text": "China\u2019s self-styled Warren Buffett haunted by Fosun\u2019s $40bn debt",
+      "url": "/content/6e070719-6c4e-492d-8215-c050c4fd8068"
     },
     {
       "text": "Tech",
@@ -10073,24 +10301,24 @@
       "url": "/cryptocurrencies"
     },
     {
-      "text": "Klarna valuation crashes to $6.5bn from $46bn",
-      "url": "/content/fe1347ac-3ced-4e9e-bf2a-1630c985c449"
+      "text": "Live news updates: Inflation in Turkey nears 80% as prices and wages spiral upwards",
+      "url": "/content/67f14a1b-54f8-4bb4-8861-12002b834a06"
     },
     {
-      "text": "US government bonds rally after factory data heighten recession fears",
-      "url": "/content/06141633-2f7d-43d6-b7e2-e90d6ccdb122"
+      "text": "Emerging markets are in better shape than you think",
+      "url": "/content/25701623-8322-4af8-a34a-bb7f289bb846"
     },
     {
-      "text": "A soft landing is becoming a distant dream ",
-      "url": "/content/67c0096e-230f-44cb-8277-2001ae46795b"
+      "text": "ECB to warn eurozone countries over crypto regulation ",
+      "url": "/content/50388307-08a8-4330-be8e-ff17f41e8e13"
     },
     {
-      "text": "The looming risks in private equity returns",
-      "url": "/content/b8bb3343-5eb0-422b-ac0c-95ddb5762b50"
+      "text": "Bitcoin fund fees tumble amid \u2018crypto winter\u2019",
+      "url": "/content/dc1cf04a-fd07-42a9-94e6-c302a1d655f7"
     },
     {
-      "text": "Live news updates from July 1: Crypto in focus as FTX buys BlockFi and Voyager Digital halts trading, Eurozone inflation hits record",
-      "url": "/content/3ba3cfbb-25f2-4038-af91-64e160bb0783"
+      "text": "The inflation blame-game will lead to bad outcomes",
+      "url": "/content/feabcdca-8f7d-47ee-8bc1-dd30c23b9354"
     },
     {
       "text": "Climate",
@@ -10129,24 +10357,24 @@
       "url": "/letters"
     },
     {
-      "text": "The end of the frictionless life",
-      "url": "/content/d4cd1138-7a81-4df0-a547-14969bb12346"
+      "text": "Emerging markets are in better shape than you think",
+      "url": "/content/25701623-8322-4af8-a34a-bb7f289bb846"
     },
     {
-      "text": "When it comes to inflation, it\u2019s not d\u00e9j\u00e0 vu all over again",
-      "url": "/content/3fe38639-5121-4a44-8fd6-4787da87eff3"
+      "text": "Crypto evangelists keep the faith as prices fall",
+      "url": "/content/e15fdb19-9f5f-4fa9-b12c-fb2d1263ab16"
     },
     {
-      "text": "A soft landing is becoming a distant dream ",
-      "url": "/content/67c0096e-230f-44cb-8277-2001ae46795b"
+      "text": "Central banks should keep their cool on inflation",
+      "url": "/content/c1fe1e65-7bf8-4c2b-aca7-6d7eecfc4db1"
     },
     {
-      "text": "Mukesh Ambani: India\u2019s top businessman starts succession planning",
-      "url": "/content/0e89b29b-a961-4cf2-804a-afa2d80cc764"
+      "text": "Banks cannot escape a gloomy economic outlook",
+      "url": "/content/45bb3a26-c4e0-4afb-9b86-f5574d2462f8"
     },
     {
-      "text": "Time to change my subscription model",
-      "url": "/content/326b8b57-97cd-46d7-9f53-ad9bcfdf24db"
+      "text": "America needs to get women back into work",
+      "url": "/content/eb36dc5c-ec5d-4c8e-8eb3-c8f501ae56ac"
     },
     {
       "text": "Work & Careers",
@@ -10181,24 +10409,24 @@
       "url": "/business-travel"
     },
     {
-      "text": "How can I move from being a specialist police detective to financial services?",
-      "url": "/content/671fb8c6-dac7-4289-b5df-e63e9a78d63d"
+      "text": "Michael Lewis: \u2018The thing that really works for Trump is: the system\u2019s rigged\u2019",
+      "url": "/content/af3448b7-3908-4a24-85a1-1ec4dea55390"
     },
     {
-      "text": "What\u2019s a good (and bad) way to leave your job?  ",
-      "url": "/content/616a0df1-64b9-42d9-9ed1-e48c8b116b37"
+      "text": "Help truly wanted, even if you\u2019ve been in jail",
+      "url": "/content/948f3601-1a95-420d-afa5-29e797a4b238"
     },
     {
-      "text": "If you want to be more likeable, try showing more stress",
-      "url": "/content/e29805d9-2d28-4ba0-a5e9-506f56f4c58c"
+      "text": "Pop-up leaders and flexible staff are ready for a new crisis",
+      "url": "/content/c317ebc6-5930-485b-b9b2-8fc95406a65a"
     },
     {
-      "text": "\u2018Exactly how much virtue do you really want to signal?\u2019",
-      "url": "/content/68d060fa-e8d1-43d8-9416-ec34ffb26789"
+      "text": "British Rail: A New History \u2014 a timely reminder of how to run a railway ",
+      "url": "/content/f97bc627-bf5a-4094-ab9b-7e0430f9afed"
     },
     {
-      "text": "JSR\u2019s Eric Johnson: \u2018I encourage people to tell me exactly how they think\u2019",
-      "url": "/content/a0221a0d-6614-4d1a-99de-c2b4d1bc6d71"
+      "text": "Meet the founders with the boomerang factor",
+      "url": "/content/62d23954-cc4c-4f2e-ac84-fcec8b2a60f6"
     },
     {
       "text": "Life & Arts",
@@ -10241,24 +10469,24 @@
       "url": "/globetrotter"
     },
     {
-      "text": "Serhii Plokhy: Putin\u2019s imperialist narrative \u2018is being crushed\u2019",
-      "url": "/content/05bdabc8-e027-4600-a20e-aaad1d6c2f2d"
-    },
-    {
-      "text": "Life on the idyllic Swedish island where WW3 could start",
-      "url": "/content/a9883916-09e0-4ac9-96f5-cfb575732ec9"
+      "text": "Swimsuits to make a splash in\u00a0",
+      "url": "/content/9acc4595-a72c-4871-94ef-4fb21130ea18"
     },
     {
       "text": "The end of the frictionless life",
       "url": "/content/d4cd1138-7a81-4df0-a547-14969bb12346"
     },
     {
-      "text": "Have we had enough of the nanny employer?",
-      "url": "/content/0506901f-d2a9-45bb-8a79-5ceb202e1675"
+      "text": "Life on the idyllic Swedish island where WW3 could start",
+      "url": "/content/a9883916-09e0-4ac9-96f5-cfb575732ec9"
     },
     {
-      "text": "Swimsuits to make a splash in\u00a0",
-      "url": "/content/9acc4595-a72c-4871-94ef-4fb21130ea18"
+      "text": "Mashama Bailey is the most important chef in America",
+      "url": "/content/1267274b-3524-45bd-a83e-9950e0e41b5c"
+    },
+    {
+      "text": "George Orwell\u2019s wild island retreat",
+      "url": "/content/cddb7870-c216-4647-a81a-1179b0576fee"
     },
     {
       "text": "HTSI",
@@ -10337,412 +10565,420 @@
       "url": "https://subs.ft.com/sd33_ddd?segmentid=61895f85-b88c-ba04-7a0a-b3ca54c20651"
     },
     {
-      "text": "Cyber warfare",
-      "url": "https://www.ft.com/stream/14e2aafc-b4fc-431f-847b-be2742e5c6f9"
+      "text": "Brexit",
+      "url": "https://www.ft.com/brexit"
     },
     {
-      "text": "Chinese hackers kept up hiring drive despite FBI indictment",
-      "url": "/content/341d7b60-228d-497e-bbb3-14ac0537f96a"
+      "text": "Labour ready to fight Johnson over effects of Brexit, says Starmer",
+      "url": "/content/3d2217f4-916d-411b-ba6a-866f26607cb1"
     },
     {
-      "text": "Beijing-backed groups sought to recruit with job adverts from front companies that disguise nature of work",
-      "url": "/content/341d7b60-228d-497e-bbb3-14ac0537f96a"
+      "text": "Opposition leader to set out 5-point plan to tackle economic pain caused by UK\u2019s exit from EU",
+      "url": "/content/3d2217f4-916d-411b-ba6a-866f26607cb1"
     },
     {
-      "text": "FT Investigations. China lured graduate jobseekers into digital espionage",
-      "url": "/content/2e4359e4-c0ca-4428-bc7e-456bf3060f45"
+      "text": "Negative impact of Brexit is clear, claims EU",
+      "url": "/content/c1821751-731a-49c3-b563-ca0241107b27"
     },
     {
-      "text": "Pro-China group attacks US rare earths plant in fake social media posts",
-      "url": "/content/57d5c3fd-35ec-4146-aa6d-9e3fc87fbcbf"
+      "text": "The Big Read. The deafening silence over Brexit\u2019s economic fallout",
+      "url": "/content/7a209a34-7d95-47aa-91b0-bf02d4214764"
     },
     {
       "text": "",
-      "url": "/content/07fa9884-b539-4c9b-ac41-7f084774e586"
+      "url": "/content/136af78b-dee2-446f-8ba8-21d25ce74ff8"
+    },
+    {
+      "text": "Yen",
+      "url": "https://www.ft.com/yen"
+    },
+    {
+      "text": "The Big Read. Global inflation: Japan faces a moment of truth ",
+      "url": "/content/136af78b-dee2-446f-8ba8-21d25ce74ff8"
+    },
+    {
+      "text": "",
+      "url": "/content/45bb3a26-c4e0-4afb-9b86-f5574d2462f8"
+    },
+    {
+      "text": " opinion content.\u00a0Inside Business. Banks cannot escape a gloomy economic outlook",
+      "url": "/content/45bb3a26-c4e0-4afb-9b86-f5574d2462f8"
+    },
+    {
+      "text": "Patrick Jenkins",
+      "url": "https://www.ft.com/patrick-jenkins"
+    },
+    {
+      "text": "Economist\u2019s arrest ends last vestige of liberal influence in Putin\u2019s Russia ",
+      "url": "/content/76feacd1-235b-4b7f-990a-0ea75069614e"
+    },
+    {
+      "text": "",
+      "url": "/content/67f14a1b-54f8-4bb4-8861-12002b834a06"
+    },
+    {
+      "text": "FT live news",
+      "url": "https://www.ft.com/stream/71da3673-1793-4e83-a4b1-2d08639fe0f6"
+    },
+    {
+      "text": "Live news updates: Inflation in Turkey nears 80% as prices and wages spiral upwards",
+      "url": "/content/67f14a1b-54f8-4bb4-8861-12002b834a06"
+    },
+    {
+      "text": " markets content.\u00a0Markets Briefing. European stocks rise as traders weigh health of global economy",
+      "url": "/content/69541f92-636b-458c-be8f-b79d6e1371d6"
+    },
+    {
+      "text": "",
+      "url": "/content/04e53da2-e9ea-4b8f-89ab-de8bcd965805"
+    },
+    {
+      "text": "Wirecard AG",
+      "url": "https://www.ft.com/stream/ffd38f36-a94c-43f7-8a62-2f45caf1bea3"
+    },
+    {
+      "text": "Wirecard\u2019s former top accountant admits forging documents for KPMG special audit",
+      "url": "/content/04e53da2-e9ea-4b8f-89ab-de8bcd965805"
+    },
+    {
+      "text": "Stephan von Erffa said fabricated payment authorisation was an isolated event ",
+      "url": "/content/04e53da2-e9ea-4b8f-89ab-de8bcd965805"
+    },
+    {
+      "text": "",
+      "url": "/content/5ce8f458-8a59-4789-820a-8c59ed67f416"
+    },
+    {
+      "text": "European Central Bank",
+      "url": "https://www.ft.com/stream/60da3242-e372-44d6-8b46-b497ef106d88"
+    },
+    {
+      "text": "ECB to discuss blocking banks from multibillion-euro windfall as rates rise",
+      "url": "/content/5ce8f458-8a59-4789-820a-8c59ed67f416"
+    },
+    {
+      "text": "Governing council to discuss potential bonanza for lenders from ultra-cheap pandemic loans",
+      "url": "/content/5ce8f458-8a59-4789-820a-8c59ed67f416"
+    },
+    {
+      "text": "ECB to warn eurozone countries over crypto regulation ",
+      "url": "/content/50388307-08a8-4330-be8e-ff17f41e8e13"
+    },
+    {
+      "text": "",
+      "url": "/content/a71e21a6-b07e-47c4-a1e0-e85c751eff0e"
+    },
+    {
+      "text": "Coronavirus economic impact",
+      "url": "https://www.ft.com/coronavirus-economic-impact"
+    },
+    {
+      "text": "Crackdown on UK company directors who abused Covid support schemes",
+      "url": "/content/a71e21a6-b07e-47c4-a1e0-e85c751eff0e"
+    },
+    {
+      "text": "More than one-third of those disqualified in the past two months found to have misused loan or furlough programmes",
+      "url": "/content/a71e21a6-b07e-47c4-a1e0-e85c751eff0e"
+    },
+    {
+      "text": "US politics & policy",
+      "url": "https://www.ft.com/world/us/politics"
+    },
+    {
+      "text": "The Henry Mance Interview. Michael Lewis: \u2018The thing that really works for Trump is: the system\u2019s rigged\u2019",
+      "url": "/content/af3448b7-3908-4a24-85a1-1ec4dea55390"
+    },
+    {
+      "text": "One of the greatest chroniclers of America\u2019s financial crisis takes aim at the former president \u2014 and at the US response to Covid",
+      "url": "/content/af3448b7-3908-4a24-85a1-1ec4dea55390"
+    },
+    {
+      "text": "",
+      "url": "/content/af3448b7-3908-4a24-85a1-1ec4dea55390"
+    },
+    {
+      "text": "",
+      "url": "/content/25701623-8322-4af8-a34a-bb7f289bb846"
+    },
+    {
+      "text": "Emerging markets",
+      "url": "https://www.ft.com/emerging-markets"
+    },
+    {
+      "text": " opinion content.\u00a0Emerging markets are in better shape than you think",
+      "url": "/content/25701623-8322-4af8-a34a-bb7f289bb846"
+    },
+    {
+      "text": "Dour commentary misses reform in the largest developing economies since the taper tantrum last sent investors fleeing",
+      "url": "/content/25701623-8322-4af8-a34a-bb7f289bb846"
+    },
+    {
+      "text": "Ruchir Sharma",
+      "url": "https://www.ft.com/ruchir-sharma"
+    },
+    {
+      "text": "",
+      "url": "/content/62113516-4f4b-4a82-9e71-11845f56d65f"
+    },
+    {
+      "text": "UK Power Networks Holdings Ltd",
+      "url": "https://www.ft.com/stream/00c60a9d-9956-49a8-bab4-01f1c7639fbc"
+    },
+    {
+      "text": "\u00a315bn deal for UK Power Networks collapses after owner lifts price ",
+      "url": "/content/62113516-4f4b-4a82-9e71-11845f56d65f"
+    },
+    {
+      "text": "KKR and Macquarie walk away after Li Ka-shing group decided inflation had increased the electricity distributor\u2019s value ",
+      "url": "/content/62113516-4f4b-4a82-9e71-11845f56d65f"
+    },
+    {
+      "text": "",
+      "url": "/content/5dea4ed7-5370-4679-b3ca-d2745c03d5fb"
+    },
+    {
+      "text": "Xi Jinping",
+      "url": "https://www.ft.com/topics/people/Xi_Jinping"
+    },
+    {
+      "text": "Beijing silent over Xi\u2019s brush with Covid-19 in Hong Kong",
+      "url": "/content/5dea4ed7-5370-4679-b3ca-d2745c03d5fb"
+    },
+    {
+      "text": "Lawmaker tested positive for virus just days after being photographed with Chinese president ",
+      "url": "/content/5dea4ed7-5370-4679-b3ca-d2745c03d5fb"
+    },
+    {
+      "text": "",
+      "url": "/content/e02c676f-0d62-4fad-811e-4b308f3c64f6"
+    },
+    {
+      "text": "Credit Suisse Group AG",
+      "url": "https://www.ft.com/stream/04164be8-1bd6-47cb-8b1c-951601246f58"
+    },
+    {
+      "text": "Credit Suisse struggles with backlog of new wealthy client accounts in Asia",
+      "url": "/content/e02c676f-0d62-4fad-811e-4b308f3c64f6"
+    },
+    {
+      "text": "Waiting list for applications underlines tension between lifting profits and avoiding future scandals",
+      "url": "/content/e02c676f-0d62-4fad-811e-4b308f3c64f6"
+    },
+    {
+      "text": "ECB to discuss blocking banks from multibillion-euro windfall as rates rise",
+      "url": "/content/5ce8f458-8a59-4789-820a-8c59ed67f416"
+    },
+    {
+      "text": "Russia claims full control of Luhansk region after seizing last stronghold",
+      "url": "/content/9f0318d5-5789-4f69-b6db-30179657c456"
+    },
+    {
+      "text": "Bezos clashes with Biden administration again over inflation",
+      "url": "/content/b7ac1a47-c42c-4eb1-90e6-f10b18693c72"
+    },
+    {
+      "text": "Labour ready to fight Johnson over effects of Brexit, says Starmer",
+      "url": "/content/3d2217f4-916d-411b-ba6a-866f26607cb1"
+    },
+    {
+      "text": "Why Mexico is missing its chance to profit from US-China decoupling",
+      "url": "/content/7fc2adf0-0577-4e13-b9a3-218dda2ddd5b"
+    },
+    {
+      "text": "",
+      "url": "/content/c4ea1346-5a85-467e-83c4-5238fcb80b61"
+    },
+    {
+      "text": "UK politics & policy",
+      "url": "https://www.ft.com/world/uk/politics"
+    },
+    {
+      "text": "Pressure mounts on Boris Johnson over Chris Pincher appointment",
+      "url": "/content/c4ea1346-5a85-467e-83c4-5238fcb80b61"
+    },
+    {
+      "text": "Labour seeks \u2018urgent answers\u2019 as fresh claims emerge of alleged inappropriate behaviour by former Tory whip",
+      "url": "/content/c4ea1346-5a85-467e-83c4-5238fcb80b61"
+    },
+    {
+      "text": "",
+      "url": "/content/9f0318d5-5789-4f69-b6db-30179657c456"
     },
     {
       "text": "War in Ukraine",
       "url": "https://www.ft.com/war-in-ukraine"
     },
     {
-      "text": "The Big Read. Nato\u2019s revival: will the resolve withstand an economic crisis?",
-      "url": "/content/07fa9884-b539-4c9b-ac41-7f084774e586"
+      "text": "Russia claims full control of Luhansk region after seizing last stronghold",
+      "url": "/content/9f0318d5-5789-4f69-b6db-30179657c456"
+    },
+    {
+      "text": "Ukraine general staff confirms loss of Lysychansk in significant military achievement for Putin",
+      "url": "/content/9f0318d5-5789-4f69-b6db-30179657c456"
+    },
+    {
+      "text": "Europe Express. Ukraine prepares for reconstruction talks with international partners ",
+      "url": "/content/dc16961e-96ff-4688-82cf-4c7672659c1a"
     },
     {
       "text": "",
-      "url": "/content/d4cd1138-7a81-4df0-a547-14969bb12346"
+      "url": "/content/b7ac1a47-c42c-4eb1-90e6-f10b18693c72"
     },
     {
-      "text": " opinion content.\u00a0The end of the frictionless life",
-      "url": "/content/d4cd1138-7a81-4df0-a547-14969bb12346"
+      "text": "US Inflation",
+      "url": "https://www.ft.com/stream/7982616a-e179-45f1-86f6-948f1fc35523"
     },
     {
-      "text": "Janan Ganesh",
-      "url": "https://www.ft.com/janan-ganesh"
+      "text": "Bezos clashes with Biden administration again over inflation",
+      "url": "/content/b7ac1a47-c42c-4eb1-90e6-f10b18693c72"
     },
     {
-      "text": " opinion content.\u00a0When it comes to inflation, it\u2019s not d\u00e9j\u00e0 vu all over again",
-      "url": "/content/3fe38639-5121-4a44-8fd6-4787da87eff3"
+      "text": "Amazon founder accuses White House of \u2018misdirection\u2019 in tackling soaring prices",
+      "url": "/content/b7ac1a47-c42c-4eb1-90e6-f10b18693c72"
     },
     {
-      "text": "Crypto hedge fund Three Arrows files for US bankruptcy",
-      "url": "/content/8e4538cc-e8c5-4cc2-9448-053074f72f67"
+      "text": " opinion content.\u00a0Markets Insight. The inflation blame-game will lead to bad outcomes",
+      "url": "/content/feabcdca-8f7d-47ee-8bc1-dd30c23b9354"
     },
     {
-      "text": "Collapsed investment firm expected to face claims from \u2018significant number of creditors\u2019, court documents show",
-      "url": "/content/8e4538cc-e8c5-4cc2-9448-053074f72f67"
-    },
-    {
-      "text": "",
-      "url": "/content/8e4538cc-e8c5-4cc2-9448-053074f72f67"
-    },
-    {
-      "text": "Klarna valuation crashes to $6.5bn from $46bn",
-      "url": "/content/fe1347ac-3ced-4e9e-bf2a-1630c985c449"
-    },
-    {
-      "text": "FTX agrees deal with option to buy BlockFi for up to $240mn",
-      "url": "/content/fa95d027-8afd-43f1-b9b1-ee8c204435c7"
-    },
-    {
-      "text": "Deribit claims crypto hedge fund Three Arrows failed to repay $80mn",
-      "url": "/content/09f2cb5a-5e2d-4b5f-96cd-ffed455ae23b"
-    },
-    {
-      "text": "EU finalises sweeping rules for \u2018wild west\u2019 crypto industry",
-      "url": "/content/38df2e75-76a8-4be9-bde5-ad410e3f95e0"
+      "text": "Jean Boivin",
+      "url": "https://www.ft.com/stream/a39d4954-2d78-473f-b577-a3f329f5d8f4"
     },
     {
       "text": "",
-      "url": "/content/f471d783-5942-4495-892a-361bb0b6aaf0"
+      "url": "/content/d78c9c3c-5148-4db4-bd1f-f1fe586efbff"
     },
     {
-      "text": "Science",
-      "url": "https://www.ft.com/science"
+      "text": "Cost of living crisis",
+      "url": "https://www.ft.com/cost-of-living-crisis"
     },
     {
-      "text": "UK science minister in dispute with Treasury over post-Brexit funding",
-      "url": "/content/f471d783-5942-4495-892a-361bb0b6aaf0"
+      "text": "Low UK income growth leaves families \u2018brutally exposed\u2019 to surging inflation",
+      "url": "/content/d78c9c3c-5148-4db4-bd1f-f1fe586efbff"
     },
     {
-      "text": "Plan for an alternative to EU\u2019s flagship Horizon project has yet to win finance ministry\u2019s agreement ",
-      "url": "/content/f471d783-5942-4495-892a-361bb0b6aaf0"
+      "text": "Resolution Foundation finds renters, single parents and those with young children to be most vulnerable ",
+      "url": "/content/d78c9c3c-5148-4db4-bd1f-f1fe586efbff"
     },
     {
-      "text": "",
-      "url": "/content/479a1c1c-1198-47a3-8637-8e3c251e4bc8"
-    },
-    {
-      "text": "War in Ukraine",
-      "url": "https://www.ft.com/war-in-ukraine"
-    },
-    {
-      "text": "\u2018It\u2019s hard to leave\u2019: Moscow\u2019s fresh wave of missile attacks rekindle Kyivans\u2019 fear",
-      "url": "/content/479a1c1c-1198-47a3-8637-8e3c251e4bc8"
-    },
-    {
-      "text": "Bars provide respite from conflict amid barricades and sandbags in Ukraine capital",
-      "url": "/content/479a1c1c-1198-47a3-8637-8e3c251e4bc8"
-    },
-    {
-      "text": "Life & Arts",
-      "url": "https://www.ft.com/life-arts"
-    },
-    {
-      "text": "Lunch with the FT. Serhii Plokhy: Putin\u2019s imperialist narrative \u2018is being crushed\u2019",
-      "url": "/content/05bdabc8-e027-4600-a20e-aaad1d6c2f2d"
-    },
-    {
-      "text": "The Ukrainian historian on the end of empire, life under a nuclear shadow \u2014 and why Putin\u2019s war might end in a new Russia ",
-      "url": "/content/05bdabc8-e027-4600-a20e-aaad1d6c2f2d"
+      "text": "Government to consult on cutting adult-child ratio in English nurseries",
+      "url": "/content/e2d56063-5c7c-42cd-996e-0009268712e4"
     },
     {
       "text": "",
-      "url": "/content/05bdabc8-e027-4600-a20e-aaad1d6c2f2d"
+      "url": "/content/7fc2adf0-0577-4e13-b9a3-218dda2ddd5b"
+    },
+    {
+      "text": "Mexico",
+      "url": "https://www.ft.com/stream/2956a666-6476-484c-b33b-1445feb1166f"
+    },
+    {
+      "text": "The Big Read. Why Mexico is missing its chance to profit from US-China decoupling",
+      "url": "/content/7fc2adf0-0577-4e13-b9a3-218dda2ddd5b"
+    },
+    {
+      "text": "A predicted economic boom from American companies relocating closer to home has not arrived. Many blame the president",
+      "url": "/content/7fc2adf0-0577-4e13-b9a3-218dda2ddd5b"
     },
     {
       "text": "",
-      "url": "/content/c5d735a0-c037-4e44-a6b1-6b6962900504"
+      "url": "/content/3c18caba-34f2-4b57-a6d9-c4a69810e490"
     },
     {
-      "text": "Life & Arts",
-      "url": "https://www.ft.com/life-arts"
+      "text": "Turkish politics",
+      "url": "https://www.ft.com/stream/83fdcd44-99c2-41e6-90f2-9296768996f8"
     },
     {
-      "text": " opinion content.\u00a0We may not agree with the Taliban but we should help Afghanistan ",
-      "url": "/content/c5d735a0-c037-4e44-a6b1-6b6962900504"
+      "text": "Istanbul mayor urges Turkish business community to show \u2018courage\u2019 towards Erdo\u011fan",
+      "url": "/content/3c18caba-34f2-4b57-a6d9-c4a69810e490"
     },
     {
-      "text": "An eye-witness dispatch from the scene of last week\u2019s earthquake",
-      "url": "/content/c5d735a0-c037-4e44-a6b1-6b6962900504"
-    },
-    {
-      "text": "House & Home",
-      "url": "https://www.ft.com/house-home"
-    },
-    {
-      "text": "The interiors life: how writers use decor to draw fictional characters",
-      "url": "/content/3aa9fd31-88c4-4a5a-ac23-8f0c45fe1e04"
-    },
-    {
-      "text": "From Philip Larkin\u2019s bleak bedsits to Henry James\u2019s \u2018slippery\u2019 armchair, rooms and furniture hold surprising insights",
-      "url": "/content/3aa9fd31-88c4-4a5a-ac23-8f0c45fe1e04"
+      "text": "Ekrem \u0130mamo\u011flu says company leaders are \u2018culpable\u2019 for Turkey\u2019s economic crisis",
+      "url": "/content/3c18caba-34f2-4b57-a6d9-c4a69810e490"
     },
     {
       "text": "",
-      "url": "/content/3aa9fd31-88c4-4a5a-ac23-8f0c45fe1e04"
+      "url": "/content/f360f766-7865-4821-b740-ca0276efec19"
     },
     {
-      "text": "FT Magazine. Life on the idyllic Swedish island where WW3 could start",
-      "url": "/content/a9883916-09e0-4ac9-96f5-cfb575732ec9"
+      "text": "Japanese business & finance",
+      "url": "https://www.ft.com/reports/japan-banking-finance"
     },
     {
-      "text": "The Weekend Essay. Have we had enough of the nanny employer?",
-      "url": "/content/0506901f-d2a9-45bb-8a79-5ceb202e1675"
+      "text": "Japanese court ruling poised to make Big Tech open up on algorithms",
+      "url": "/content/f360f766-7865-4821-b740-ca0276efec19"
     },
     {
-      "text": " opinion content.\u00a0You don\u2019t need a crowd for a communal moment",
-      "url": "/content/efa5aaac-e5b5-4b6f-8aaf-85e72ef3d1c6"
-    },
-    {
-      "text": "Jo Ellison",
-      "url": "https://www.ft.com/jo-ellison"
-    },
-    {
-      "text": "FT Magazine. The fixer, the cheat and the corruption crisis in global tennis",
-      "url": "/content/10622850-b86b-4cad-88cf-b4d021a6920d"
-    },
-    {
-      "text": "",
-      "url": "/content/5236bfab-2ec6-4b64-966b-800415ef71ca"
-    },
-    {
-      "text": " opinion content.\u00a0FT Magazine. The first-class cellar under King\u2019s College",
-      "url": "/content/5236bfab-2ec6-4b64-966b-800415ef71ca"
-    },
-    {
-      "text": "The Cambridge don with a sideline in record-breaking wine",
-      "url": "/content/5236bfab-2ec6-4b64-966b-800415ef71ca"
-    },
-    {
-      "text": "Jancis Robinson",
-      "url": "https://www.ft.com/life-arts/jancis-robinson"
-    },
-    {
-      "text": "FT Books Essay. The future of farming: how to feed a troubled world ",
-      "url": "/content/e3f6a07d-3716-42d8-b45a-e066caeae28f"
-    },
-    {
-      "text": "Life on the idyllic Swedish island where WW3 could start",
-      "url": "/content/a9883916-09e0-4ac9-96f5-cfb575732ec9"
-    },
-    {
-      "text": "Klarna valuation crashes to $6.5bn from $46bn",
-      "url": "/content/fe1347ac-3ced-4e9e-bf2a-1630c985c449"
-    },
-    {
-      "text": "Serhii Plokhy: Putin\u2019s imperialist narrative \u2018is being crushed\u2019",
-      "url": "/content/05bdabc8-e027-4600-a20e-aaad1d6c2f2d"
-    },
-    {
-      "text": "Have we had enough of the nanny employer?",
-      "url": "/content/0506901f-d2a9-45bb-8a79-5ceb202e1675"
-    },
-    {
-      "text": "Xi Jinping marks Hong Kong handover with call for \u2018patriots\u2019 to bring order",
-      "url": "/content/05b57511-333f-41da-a532-5d94f77b57a2"
-    },
-    {
-      "text": "",
-      "url": "/content/32108696-9ef5-49ad-8a07-fa30375702bf"
-    },
-    {
-      "text": "Ryanair Holdings PLC",
-      "url": "https://www.ft.com/stream/4aa316bb-9bd9-49cd-8bd3-46a4f9f6a2ad"
-    },
-    {
-      "text": "Ryanair chief warns fares will rise for 5 years because flying is \u2018too cheap\u2019",
-      "url": "/content/32108696-9ef5-49ad-8a07-fa30375702bf"
-    },
-    {
-      "text": "Low-cost pioneer O\u2019Leary blames high oil prices and environmental charges for increases",
-      "url": "/content/32108696-9ef5-49ad-8a07-fa30375702bf"
-    },
-    {
-      "text": "",
-      "url": "/content/ef04cc7c-0b51-404e-9e40-58e10e9b8f75"
-    },
-    {
-      "text": "Boots UK Ltd",
-      "url": "https://www.ft.com/stream/e5210578-da7c-4654-a1ec-57f7c8082697"
-    },
-    {
-      "text": "Boots left in limbo as bids fail to emerge",
-      "url": "/content/ef04cc7c-0b51-404e-9e40-58e10e9b8f75"
-    },
-    {
-      "text": "UK pharmacy chain has increased market share but detractors say tired stores have dented its reputation",
-      "url": "/content/ef04cc7c-0b51-404e-9e40-58e10e9b8f75"
-    },
-    {
-      "text": " opinion content.\u00a0Lex. Walgreens: without a sale of Boots, US group needs a health check ",
-      "url": "/content/d5d37298-d4ee-49c4-ae5c-69890706be71"
-    },
-    {
-      "text": "",
-      "url": "/content/057438ca-b9de-42d6-8069-6822b8145848"
-    },
-    {
-      "text": "Sophie Freud",
-      "url": "https://www.ft.com/stream/6c83a439-9e3b-4aee-ab4c-120e47334129"
-    },
-    {
-      "text": "Obituary. Sophie Freud, academic and social worker, 1924-2022",
-      "url": "/content/057438ca-b9de-42d6-8069-6822b8145848"
-    },
-    {
-      "text": "The famous psychoanalyst\u2019s granddaughter spent much of her life publicly opposing his theories ",
-      "url": "/content/057438ca-b9de-42d6-8069-6822b8145848"
-    },
-    {
-      "text": "",
-      "url": "/content/d4c9b1d6-71a3-427c-acd9-75c3ffae8c18"
-    },
-    {
-      "text": "Social affairs",
-      "url": "https://www.ft.com/social-affairs"
-    },
-    {
-      "text": "Google closes data loophole amid privacy fears over abortion ruling",
-      "url": "/content/d4c9b1d6-71a3-427c-acd9-75c3ffae8c18"
-    },
-    {
-      "text": "Researchers welcome move to restrict developers\u2019 ability to see which other apps are installed on people\u2019s phones",
-      "url": "/content/d4c9b1d6-71a3-427c-acd9-75c3ffae8c18"
-    },
-    {
-      "text": " opinion content.\u00a0Conservatives on the Supreme Court are emboldened after Roe vs Wade repeal",
-      "url": "/content/7a6c4e35-b1c3-42c9-93d0-05eef336534d"
-    },
-    {
-      "text": "Mary Ziegler",
-      "url": "https://www.ft.com/stream/095d8d87-062a-45f5-adf8-f7b2729cd453"
-    },
-    {
-      "text": "",
-      "url": "/content/0e89b29b-a961-4cf2-804a-afa2d80cc764"
-    },
-    {
-      "text": "Mukesh Ambani",
-      "url": "https://www.ft.com/stream/695cd152-1bf8-40ad-bbef-58d3cac26fd4"
-    },
-    {
-      "text": "Person in the News. Mukesh Ambani: India\u2019s top businessman starts succession planning",
-      "url": "/content/0e89b29b-a961-4cf2-804a-afa2d80cc764"
-    },
-    {
-      "text": "The founder of the country\u2019s most powerful conglomerate looks to the next generation",
-      "url": "/content/0e89b29b-a961-4cf2-804a-afa2d80cc764"
-    },
-    {
-      "text": "",
-      "url": "/content/7a486b7b-e92f-47b7-a6bd-9da9637b42ac"
-    },
-    {
-      "text": "Coronavirus pandemic",
-      "url": "https://www.ft.com/coronavirus"
-    },
-    {
-      "text": "Covid could not sink cruise lines \u2014 but they now face an iceberg of debt",
-      "url": "/content/7a486b7b-e92f-47b7-a6bd-9da9637b42ac"
-    },
-    {
-      "text": "Passenger bookings have bounced back but the industry\u2019s balance sheets are far from shipshape",
-      "url": "/content/7a486b7b-e92f-47b7-a6bd-9da9637b42ac"
-    },
-    {
-      "text": "Volatility and gambling reform toughen the odds for 888 bond deal ",
-      "url": "/content/5ef704a0-d62c-47ec-94ff-6820e7fc5d12"
-    },
-    {
-      "text": "",
-      "url": "/content/ab54188e-0b13-44f4-9414-e580a9168b84"
-    },
-    {
-      "text": "Wise",
-      "url": "https://www.ft.com/stream/0658d2fb-593f-486d-bc95-0036640f68da"
-    },
-    {
-      "text": "News in-depth. Wise man looks for silver lining as dark clouds gather ",
-      "url": "/content/ab54188e-0b13-44f4-9414-e580a9168b84"
-    },
-    {
-      "text": "Kristo K\u00e4\u00e4rmann puts positive spin on payment app\u2019s first year as public company despite FCA probe and jump in costs",
-      "url": "/content/ab54188e-0b13-44f4-9414-e580a9168b84"
+      "text": "Legal experts suggest case related to recommendations site Kakaku.com could have broader implications",
+      "url": "/content/f360f766-7865-4821-b740-ca0276efec19"
     },
     {
       "text": "Opinion",
       "url": "/opinion"
     },
     {
-      "text": " opinion content.\u00a0Warning: Britain\u2019s new bill of rights is a cynical power grab",
-      "url": "/content/0676e6b9-c10d-4476-9ff8-c8652cbcda78"
+      "text": " opinion content.\u00a0America needs to get women back into work",
+      "url": "/content/eb36dc5c-ec5d-4c8e-8eb3-c8f501ae56ac"
     },
     {
-      "text": "The proposals will endanger judicial independence and maroon society in a romance with the past",
-      "url": "/content/0676e6b9-c10d-4476-9ff8-c8652cbcda78"
+      "text": "Female labour force participation is falling because families can\u2019t get affordable, flexible childcare",
+      "url": "/content/eb36dc5c-ec5d-4c8e-8eb3-c8f501ae56ac"
     },
     {
-      "text": "Helena Kennedy",
-      "url": "https://www.ft.com/stream/9a4c34b9-5785-4f1a-90e4-783609ff5b39"
+      "text": "Rana Foroohar",
+      "url": "https://www.ft.com/rana-foroohar"
     },
     {
       "text": "",
-      "url": "/content/0676e6b9-c10d-4476-9ff8-c8652cbcda78"
+      "url": "/content/eb36dc5c-ec5d-4c8e-8eb3-c8f501ae56ac"
     },
     {
-      "text": " opinion content.\u00a0Lex. Smoking: Europeans need more than a ban on flavoured products to go tobacco-free",
-      "url": "/content/132023dd-22cd-4d1c-b48e-e835f21b0995"
+      "text": " opinion content.\u00a0Pop-up leaders and flexible staff are ready for a new crisis",
+      "url": "/content/c317ebc6-5930-485b-b9b2-8fc95406a65a"
     },
     {
-      "text": " opinion content.\u00a0The time has come to purge the rot from Scotland Yard",
-      "url": "/content/2c895f56-fbed-419f-8efb-6c10a3553059"
+      "text": "Andrew Hill",
+      "url": "https://www.ft.com/andrew-hill"
     },
     {
-      "text": "Camilla Cavendish",
-      "url": "https://www.ft.com/camilla-cavendish"
+      "text": " opinion content.\u00a0Crypto evangelists keep the faith as prices fall",
+      "url": "/content/e15fdb19-9f5f-4fa9-b12c-fb2d1263ab16"
     },
     {
-      "text": " opinion content.\u00a0We should have limited empathy for the Big Boss resignation ",
-      "url": "/content/c0aa5e5c-63f1-416c-90a6-1bc45a74a39f"
+      "text": "Elaine Moore",
+      "url": "https://www.ft.com/elaine-moore"
     },
     {
-      "text": "Henry Mance",
-      "url": "https://www.ft.com/henry-mance"
+      "text": " opinion content.\u00a0Central banks should keep their cool on inflation",
+      "url": "/content/c1fe1e65-7bf8-4c2b-aca7-6d7eecfc4db1"
     },
     {
-      "text": " opinion content.\u00a0The FT View. Hong Kong\u2019s mid-life existential crisis",
-      "url": "/content/b33c0f5d-b200-4fa9-9984-3106ddd0a282"
+      "text": "Martin Sandbu",
+      "url": "https://www.ft.com/martin-sandbu"
+    },
+    {
+      "text": " opinion content.\u00a0Help truly wanted, even if you\u2019ve been in jail",
+      "url": "/content/948f3601-1a95-420d-afa5-29e797a4b238"
+    },
+    {
+      "text": "Pilita Clark",
+      "url": "https://www.ft.com/pilita-clark"
+    },
+    {
+      "text": " opinion content.\u00a0The FT View. UK needs to decide how it will share the economic pain",
+      "url": "/content/fd3baf2d-d6c3-4227-bff8-dcecbf779ce4"
     },
     {
       "text": "The editorial board",
       "url": "https://www.ft.com/ft-view"
     },
     {
-      "text": " opinion content.\u00a0On Wall Street. Abortion and other ESG issues rise up the AGM agenda",
-      "url": "/content/669a758b-3341-4c2d-ac7a-7ff84050cd0c"
+      "text": " opinion content.\u00a0An independence referendum should be the last thing on Sturgeon\u2019s mind ",
+      "url": "/content/45bb6648-fb2b-43b2-b17a-adb4465da6c9"
     },
     {
-      "text": "Patrick Temple-West",
-      "url": "https://www.ft.com/patrick-temple-west"
-    },
-    {
-      "text": " opinion content.\u00a0The Long View. A soft landing is becoming a distant dream ",
-      "url": "/content/67c0096e-230f-44cb-8277-2001ae46795b"
-    },
-    {
-      "text": "Katie Martin",
-      "url": "https://www.ft.com/katie-martin"
+      "text": "Anas Sarwar",
+      "url": "https://www.ft.com/stream/feed56bf-eaed-4920-bcfe-18d5435a02b0"
     },
     {
       "text": "The FT View",
@@ -10777,40 +11013,40 @@
       "url": "/world/uk"
     },
     {
-      "text": "Vatican suffers \u00a3100mn-plus loss on Knightsbridge office sale",
-      "url": "/content/3cecd61a-73e2-4e59-8438-dc9daec790d2"
+      "text": "Rolls-Royce reveals site shortlist for first small nuclear reactor factory",
+      "url": "/content/59a4f13e-ece4-44d2-94b2-904b746e4072"
     },
     {
-      "text": "London estate agents puzzled by decline in value for prime property on Sloane Avenue",
-      "url": "/content/3cecd61a-73e2-4e59-8438-dc9daec790d2"
+      "text": "UK chancellor Rishi Sunak\u2019s constituency in North Yorkshire among 6 contenders ",
+      "url": "/content/59a4f13e-ece4-44d2-94b2-904b746e4072"
     },
     {
       "text": "",
-      "url": "/content/3cecd61a-73e2-4e59-8438-dc9daec790d2"
+      "url": "/content/59a4f13e-ece4-44d2-94b2-904b746e4072"
     },
     {
-      "text": "UK mortgage rates rise at fastest pace in a decade",
-      "url": "/content/c41094b4-050d-4522-88ad-fc9a9829bd80"
+      "text": "UK moves closer to US-style class actions\u00a0",
+      "url": "/content/97df2830-1008-49f1-a3e7-5c0d818a545c"
     },
     {
-      "text": "New CBI president warns over tough two years of economic crisis ",
-      "url": "/content/b63c2abf-6c33-4022-8d23-05855a8ba27a"
+      "text": "Germany and Ireland accuse UK of not acting in \u2018good faith\u2019 over Northern Ireland",
+      "url": "/content/bd6eac54-18ae-4509-82f0-29ccf443f9e6"
     },
     {
-      "text": "Robert Tchenguiz loses court fight with CMC over spread betting debt",
-      "url": "/content/ec626ef4-39e3-495f-b1a0-39ee9d42aad8"
+      "text": "UK motor insurers headed for underwriting losses as inflation bites",
+      "url": "/content/5dca87fb-1e03-4309-8a4a-01dee4fe4748"
     },
     {
-      "text": "UK ministers clash with watchdog over insurance rules shake-up",
-      "url": "/content/9ad560b5-071b-4ac9-9abe-7d2de1b57e7b"
+      "text": "Credibility of Scottish census damaged by poor participation rates",
+      "url": "/content/06700594-5b27-4a5a-ab77-46e0fd1a8a55"
     },
     {
-      "text": "Omicron variants drive 34% jump in England\u2019s Covid infections",
-      "url": "/content/f765fd55-3a2c-4dd6-b863-61854c9a7e67"
+      "text": "UK mortgage holders face higher bills as their fixed-rate contracts expire",
+      "url": "/content/750b9ce8-ca4d-41f0-8d44-03f07bb381ff"
     },
     {
-      "text": "Improved pay offer still \u2018unacceptable\u2019, say teaching unions",
-      "url": "/content/c4774d52-e001-41f3-b8b9-b995c60311dd"
+      "text": "Labour shortfall leading to \u2018catastrophic\u2019 food waste, UK farmers warn",
+      "url": "/content/695d9cfb-ce13-4328-984c-48d277e9376b"
     },
     {
       "text": "UK Business & Economy",
@@ -10914,63 +11150,63 @@
     },
     {
       "text": "",
-      "url": "/content/cddb7870-c216-4647-a81a-1179b0576fee"
+      "url": "/content/23026baf-8532-4a98-8ea4-a9aab4b2a632"
     },
     {
-      "text": "Travel",
-      "url": "https://www.ft.com/travel"
+      "text": "Tennis",
+      "url": "https://www.ft.com/tennis"
     },
     {
-      "text": "George Orwell\u2019s wild island retreat",
-      "url": "/content/cddb7870-c216-4647-a81a-1179b0576fee"
-    },
-    {
-      "text": "",
-      "url": "/content/1267274b-3524-45bd-a83e-9950e0e41b5c"
-    },
-    {
-      "text": "Restaurants",
-      "url": "https://www.ft.com/restaurants"
-    },
-    {
-      "text": "FT Magazine. Mashama Bailey is the most important chef in America",
-      "url": "/content/1267274b-3524-45bd-a83e-9950e0e41b5c"
+      "text": "FT Globetrotter. Serving for the scoop: tennis as a journalistic tool",
+      "url": "/content/23026baf-8532-4a98-8ea4-a9aab4b2a632"
     },
     {
       "text": "",
-      "url": "/content/02982773-1466-4a95-865d-dbc2496f4c53"
+      "url": "/content/15c9b374-d838-48c7-b017-d51b36c18dfc"
     },
     {
-      "text": "Visual Arts",
-      "url": "https://www.ft.com/visual-arts"
+      "text": "Television",
+      "url": "https://www.ft.com/television"
     },
     {
-      "text": "In the Black Fantastic at Hayward Gallery \u2014 visually stunning, intellectually cohesive",
-      "url": "/content/02982773-1466-4a95-865d-dbc2496f4c53"
-    },
-    {
-      "text": "",
-      "url": "/summerbooks22"
-    },
-    {
-      "text": "Life & Arts",
-      "url": "https://www.ft.com/life-arts"
-    },
-    {
-      "text": "Summer Books 2022",
-      "url": "/summerbooks22"
+      "text": "Review. Black Bird \u2014 true story of a convict trying to catch a killer",
+      "url": "/content/15c9b374-d838-48c7-b017-d51b36c18dfc"
     },
     {
       "text": "",
-      "url": "/content/6e20bca3-96a5-4687-ac5c-880931d99068"
+      "url": "/content/016c55ae-5e9f-44ff-8c8e-b5a164253c95"
     },
     {
-      "text": "Non-Fiction",
-      "url": "https://www.ft.com/non-fiction"
+      "text": "Music",
+      "url": "https://www.ft.com/music"
     },
     {
-      "text": "Review. Cloudmoney \u2014 making the case for cash",
-      "url": "/content/6e20bca3-96a5-4687-ac5c-880931d99068"
+      "text": "Interview. Music executive Amanda Ghost: she\u2019s the boss \u2014 but don\u2019t call her \u2018bossy\u2019",
+      "url": "/content/016c55ae-5e9f-44ff-8c8e-b5a164253c95"
+    },
+    {
+      "text": "",
+      "url": "/content/f133f472-8304-4414-9795-e5e76a13b30c"
+    },
+    {
+      "text": "Arts",
+      "url": "https://www.ft.com/arts"
+    },
+    {
+      "text": "Review. Podcast review \u2014 Edge of Reality shines a light on a troubling genre ",
+      "url": "/content/f133f472-8304-4414-9795-e5e76a13b30c"
+    },
+    {
+      "text": "",
+      "url": "/content/d9553ac6-a727-4ce3-b93d-5de082006035"
+    },
+    {
+      "text": "Style",
+      "url": "https://www.ft.com/style"
+    },
+    {
+      "text": "HTSI. Aurora James has changed the way America shops",
+      "url": "/content/d9553ac6-a727-4ce3-b93d-5de082006035"
     },
     {
       "text": "Video",
@@ -11037,12 +11273,8 @@
       "url": "https://ig.ft.com/carbon-food-labelling"
     },
     {
-      "text": "Vinod Khosla: AI and climate investors can help western values win out ",
-      "url": "/content/127b03ac-56be-4c70-903c-29c53293fc4a"
-    },
-    {
-      "text": "Q&A. How worried should we be about new Covid variants?",
-      "url": "/content/95756fce-ae61-401d-b8f3-5915e49d0a7f"
+      "text": "Scoreboard. The unlikely alliance between Real Madrid and Barcelona",
+      "url": "/content/2b86fbd7-517c-4a5f-9024-f5be8c061ef4"
     },
     {
       "text": " opinion content.\u00a0Dear Jonathan. How can I move from being a specialist police detective to financial services?",
@@ -11053,16 +11285,20 @@
       "url": "https://www.ft.com/jonathan-black"
     },
     {
-      "text": "America Inc steps up training to solve staff shortfalls",
-      "url": "/content/70c10759-50d9-41f2-b35c-dfb705de92a7"
+      "text": "Vinod Khosla: AI and climate investors can help western values win out ",
+      "url": "/content/127b03ac-56be-4c70-903c-29c53293fc4a"
     },
     {
-      "text": "What\u2019s a good (and bad) way to leave your job?  ",
-      "url": "/content/616a0df1-64b9-42d9-9ed1-e48c8b116b37"
+      "text": "Q&A. How worried should we be about new Covid variants?",
+      "url": "/content/95756fce-ae61-401d-b8f3-5915e49d0a7f"
     },
     {
-      "text": "FT Wealth. Is Mackenzie Scott\u2019s \u2018hands off\u2019 approach paving a new way for rich donors\u2019? ",
-      "url": "/content/35f00c25-3b4c-42a6-b69f-bef0d71dc7ef"
+      "text": "FT Books Essay. The future of farming: how to feed a troubled world ",
+      "url": "/content/e3f6a07d-3716-42d8-b45a-e066caeae28f"
+    },
+    {
+      "text": "FT Magazine. The fixer, the cheat and the corruption crisis in global tennis",
+      "url": "/content/10622850-b86b-4cad-88cf-b4d021a6920d"
     },
     {
       "text": "Moral Money",
@@ -11097,40 +11333,40 @@
       "url": "/markets"
     },
     {
-      "text": "Copper trades below $8,000 a tonne as recession fears take hold",
-      "url": "/content/34f670bf-6432-423f-b887-00700478b249"
+      "text": "Beijing announces interest rate swaps with Hong Kong after Xi visit",
+      "url": "/content/7e7bd3b4-10e7-496f-b0b6-e613a2415da0"
     },
     {
-      "text": "World\u2019s most important industrial metal had struck a record high above $10,600 earlier this year",
-      "url": "/content/34f670bf-6432-423f-b887-00700478b249"
+      "text": "Scheme to deepen financial connectivity with mainland coincides with expanded currency agreement",
+      "url": "/content/7e7bd3b4-10e7-496f-b0b6-e613a2415da0"
     },
     {
       "text": "",
+      "url": "/content/7e7bd3b4-10e7-496f-b0b6-e613a2415da0"
+    },
+    {
+      "text": "Crypto hedge fund Three Arrows files for US bankruptcy",
+      "url": "/content/8e4538cc-e8c5-4cc2-9448-053074f72f67"
+    },
+    {
+      "text": "ETF Hub. Bitcoin fund fees tumble amid \u2018crypto winter\u2019",
+      "url": "/content/dc1cf04a-fd07-42a9-94e6-c302a1d655f7"
+    },
+    {
+      "text": "FTX agrees deal with option to buy BlockFi for up to $240mn",
+      "url": "/content/fa95d027-8afd-43f1-b9b1-ee8c204435c7"
+    },
+    {
+      "text": "Deribit claims crypto hedge fund Three Arrows failed to repay $80mn",
+      "url": "/content/09f2cb5a-5e2d-4b5f-96cd-ffed455ae23b"
+    },
+    {
+      "text": "EU finalises sweeping rules for \u2018wild west\u2019 crypto industry",
+      "url": "/content/38df2e75-76a8-4be9-bde5-ad410e3f95e0"
+    },
+    {
+      "text": "Copper trades below $8,000 a tonne as recession fears take hold",
       "url": "/content/34f670bf-6432-423f-b887-00700478b249"
-    },
-    {
-      "text": "UK pension schemes confronted by growing liquidity strains",
-      "url": "/content/09cc7f6a-8da8-43f5-bf30-d3216d0eb28d"
-    },
-    {
-      "text": " markets content.\u00a0Markets Briefing. US government bonds rally after factory data heighten recession fears",
-      "url": "/content/06141633-2f7d-43d6-b7e2-e90d6ccdb122"
-    },
-    {
-      "text": "Italy issues bonds at highest borrowing costs since wake of eurozone debt crisis",
-      "url": "/content/f9beb1a0-22ba-4f43-b4c0-0b0470747af4"
-    },
-    {
-      "text": "Singapore regulator censures embattled crypto fund Three Arrows ",
-      "url": "/content/39f5dea5-96a0-4dda-a22d-f0f116bdd5a3"
-    },
-    {
-      "text": "Hedge funds scoop up biotech stocks after \u2018catastrophic\u2019 declines",
-      "url": "/content/bfd7d96f-2af9-4614-b1eb-78949365de9a"
-    },
-    {
-      "text": "Chinese stocks set for largest monthly rise since 2020",
-      "url": "/content/8739e5e0-104a-4458-8389-d25c5adc019e"
     },
     {
       "text": "Alphaville",
@@ -11177,15 +11413,27 @@
       "url": "/technology"
     },
     {
-      "text": "#techFT. Tech\u2019s downturn and two half hitches",
-      "url": "/content/542b2363-c43d-49b3-a4a1-6441d3864cec"
+      "text": "Special treatment for Tesla not in India\u2019s \u2018interest\u2019, Ola says  ",
+      "url": "/content/aaf5bb36-6e74-49e8-bba4-4d164e8353c8"
     },
     {
-      "text": "Apple insider trading, Amazon qualifies for Champions League, Hong Kong gets Soul ",
-      "url": "/content/542b2363-c43d-49b3-a4a1-6441d3864cec"
+      "text": "Ride-hailing company that is expanding into electric vehicle production warns against offering incentives to US group ",
+      "url": "/content/aaf5bb36-6e74-49e8-bba4-4d164e8353c8"
     },
     {
       "text": "",
+      "url": "/content/aaf5bb36-6e74-49e8-bba4-4d164e8353c8"
+    },
+    {
+      "text": "FT Investigations. Chinese hackers kept up hiring drive despite FBI indictment",
+      "url": "/content/341d7b60-228d-497e-bbb3-14ac0537f96a"
+    },
+    {
+      "text": "Google closes data loophole amid privacy fears over abortion ruling",
+      "url": "/content/d4c9b1d6-71a3-427c-acd9-75c3ffae8c18"
+    },
+    {
+      "text": "#techFT. Tech\u2019s downturn and two half hitches",
       "url": "/content/542b2363-c43d-49b3-a4a1-6441d3864cec"
     },
     {
@@ -11199,22 +11447,6 @@
     {
       "text": "Amazon signs Champions League football streaming deal in UK",
       "url": "/content/0de893be-ecdd-4430-9092-c873775716c2"
-    },
-    {
-      "text": "Metaverse dating app popular with young people in China vies for HK listing",
-      "url": "/content/a475774a-6f54-426d-99b0-08f05bd992dc"
-    },
-    {
-      "text": "Home entertainment with everything but the popcorn",
-      "url": "/content/dc6f1e27-bf14-4729-aba9-4d2b0a869adc"
-    },
-    {
-      "text": " opinion content.\u00a0The invisible science of eyewear beats augmented reality",
-      "url": "/content/90ac67a3-7604-4b44-856e-ce836a8b60b9"
-    },
-    {
-      "text": "John Gapper",
-      "url": "https://www.ft.com/john-gapper"
     },
     {
       "text": "#techFT",
@@ -11231,42 +11463,6 @@
     {
       "text": "",
       "url": "https://ep.ft.com/newsletters/575981ede74eb90300a44d8e/subscribe"
-    },
-    {
-      "text": "FT Live",
-      "url": "https://live.ft.com"
-    },
-    {
-      "text": "Capitalising on Disruption to Create Business Opportunities",
-      "url": "https://disruption.live.ft.com/?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
-    },
-    {
-      "text": "FT Live",
-      "url": "https://live.ft.com"
-    },
-    {
-      "text": "Made in Italy Pre-Summit",
-      "url": "https://events.bizzabo.com/412413?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
-    },
-    {
-      "text": "FT Live",
-      "url": "https://live.ft.com"
-    },
-    {
-      "text": "Preparing the Insurance Industry for the Next Crisis",
-      "url": "https://resilientinsurance.live.ft.com/?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
-    },
-    {
-      "text": "Women In Business Forum",
-      "url": "https://forums.ft.com/women-in-business-forum?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
-    },
-    {
-      "text": "Future Forum",
-      "url": "https://forums.ft.com/future-forum?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
-    },
-    {
-      "text": "Climate Capital Council",
-      "url": "https://forums.ft.com/climate-capital-council?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
     },
     {
       "text": "View Site Tips",
@@ -11833,8 +12029,8 @@
       "url": "/login?location=/"
     }
   ],
-  "item_last_updated": 1656778297,
-  "item_size": 99031191,
+  "item_last_updated": 1656926268,
+  "item_size": 101610776,
   "metadata": {
     "identifier": "ft-2022",
     "collection": [
@@ -11851,10 +12047,10 @@
     "publicdate": "2022-03-23 08:03:16",
     "addeddate": "2022-03-23 08:03:16"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1984772854,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1733147998,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1656808061,
+  "created": 1656936754,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/qz-2022",
@@ -2200,31 +2200,157 @@
       "sha1": "4fb692acbcc1108cd6767b23b68528a1543c981a"
     },
     {
+      "name": "qz-2022-07-02T21:34:40.829289-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656812084",
+      "size": "12643",
+      "md5": "99d975859b826edbe7ff64460cde0437",
+      "crc32": "bb8ff27c",
+      "sha1": "fa0f29bfd38cfef3c0a94459af5333cfa8c282c5",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-02T21:34:40.829289-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656812085",
+      "size": "13781",
+      "md5": "1bd6aac6e2cb5b63dd53d2a21b0446dc",
+      "crc32": "34cbbb41",
+      "sha1": "986b4d5733d15a85ce9e67e1cfe96b6bc0d1fe00",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-02T21:34:40.829289-04:00.jpg",
+      "source": "original",
+      "mtime": "1656812083",
+      "size": "245130",
+      "md5": "0d39aab207b70bec250a5201578b14bb",
+      "crc32": "368d32cb",
+      "sha1": "1e3028938f5ef61f37bb2ef4e5b2f753d54402d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-07-02T21:34:40.829289-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-07-02T21:34:40.829289-04:00.jpg",
+      "mtime": "1656812132",
+      "size": "8463",
+      "md5": "2cd76f8f37356e5559f33b42371f2ac4",
+      "crc32": "76a72e08",
+      "sha1": "c7dbbaefd43e217d08c21908144d29c0f1f3ce2a"
+    },
+    {
+      "name": "qz-2022-07-03T09:13:34.435786-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656854017",
+      "size": "12615",
+      "md5": "0d3e45b6712e9d2de91f9fa2f5bf9984",
+      "crc32": "2c0ad3ee",
+      "sha1": "b4162fcad2f26be11d173eb2d0ec8cd9f26ddc22",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-03T09:13:34.435786-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656854019",
+      "size": "13741",
+      "md5": "a3509ae6ca0483a6d7dd3c5a1f9174fc",
+      "crc32": "d5c48b93",
+      "sha1": "bc501b6bd890d753b186c22a8f3b5b017f3db9d1",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-03T09:13:34.435786-04:00.jpg",
+      "source": "original",
+      "mtime": "1656854016",
+      "size": "247419",
+      "md5": "4a92cb502a2d1b842e69e9291d8c4051",
+      "crc32": "ff325ee5",
+      "sha1": "efda1314a80e8158213e15e4be20b1622745f335",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-07-03T09:13:34.435786-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-07-03T09:13:34.435786-04:00.jpg",
+      "mtime": "1656854072",
+      "size": "8480",
+      "md5": "9f13772ae7f1b191ef3368f857d36a21",
+      "crc32": "bae5855f",
+      "sha1": "e390578b00dcaecabd1f401da1bbb8490d451cb7"
+    },
+    {
+      "name": "qz-2022-07-03T21:34:55.666999-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898499",
+      "size": "14285",
+      "md5": "6a8b0c42a14d9bfe8e58225b3c394277",
+      "crc32": "3a523c13",
+      "sha1": "539a1ee7eb07340947f69a09e80515b939b532b1",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-03T21:34:55.666999-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898500",
+      "size": "14180",
+      "md5": "e14a2831e1702c22507b700b42b60392",
+      "crc32": "c5b9a14b",
+      "sha1": "6384f43f2baf3ecf688b68bd9c42fa7ac0d1b11b",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-03T21:34:55.666999-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898497",
+      "size": "249973",
+      "md5": "a65390801f31e9ea7f4340841ac6bf25",
+      "crc32": "34d9d397",
+      "sha1": "be399b3dc2cd4f3d48bdee9bb522cd48091e15ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-07-03T21:34:55.666999-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-07-03T21:34:55.666999-04:00.jpg",
+      "mtime": "1656898545",
+      "size": "8710",
+      "md5": "75d5ae985795d008286d9ddbe30d0712",
+      "crc32": "bdd4f4a0",
+      "sha1": "032f3101ec72567af6039be0d2a3b7aad0a40a5a"
+    },
+    {
       "name": "qz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "66b9b209f21e310ffa27b02f713710831e5afc96",
-      "mtime": "1656767941",
-      "size": "43992",
-      "md5": "2fc13ef1ded32417506e0b06b1d6751b",
-      "crc32": "7fde0d42",
-      "sha1": "1d66e6af37723ab27ff00c98b463c55849ad412b",
+      "btih": "ac7897a2f4f47ab462391d2f7a59c65f5f40dc77",
+      "mtime": "1656898548",
+      "size": "46447",
+      "md5": "035be5cb1984dbbc34132b7f72f06a46",
+      "crc32": "0b75de67",
+      "sha1": "f438e9b2cc2268d550ba47f7e9906b6516da6033",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b804b3d7a65f77633c00faea28b95e2e",
+      "md5": "557579c5f6bc4995c33131399f219e3f",
       "summation": "md5"
     },
     {
       "name": "qz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656767791",
-      "size": "258048",
-      "md5": "07047e785fecdb1d579fa67632eaecb6",
-      "crc32": "ac74b69e",
-      "sha1": "f2f5fc95a811a8e4229f67aababacf3cd72cd30c",
+      "mtime": "1656898503",
+      "size": "270336",
+      "md5": "33edeffa076a52a46ed310499d3e2b2e",
+      "crc32": "33d8c1be",
+      "sha1": "22b12c1931cc0ea3eaaabbd7f3132eac7ee886fc",
       "format": "Metadata"
     },
     {
@@ -2238,9 +2364,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 213,
-  "item_last_updated": 1656767941,
-  "item_size": 14976855,
+  "files_count": 225,
+  "item_last_updated": 1656898548,
+  "item_size": 15841018,
   "metadata": {
     "identifier": "qz-2022",
     "collection": [
@@ -2411,7 +2537,19 @@
       "url": "/subscribe/"
     },
     {
-      "text": ".ArtDirection__22997 { padding-bottom: 61.194029850746276%; }@media (min-width: 26.5625em) { .ArtDirection__22997 { padding-bottom: 56.11940298507463%; } }",
+      "text": ".ArtDirection__26325 { padding-bottom: 61.194029850746276%; }@media (min-width: 26.5625em) { .ArtDirection__26325 { padding-bottom: 56.11940298507463%; } }",
+      "url": "/emails/quartz-forecast/2184378/what-crispr-will-enable-humanity-to-do-next/"
+    },
+    {
+      "text": "The Forecast",
+      "url": "/emails/quartz-forecast/archive/"
+    },
+    {
+      "text": "\u2726 Our Crispr futureJuly 3, 2022",
+      "url": "/emails/quartz-forecast/2184378/what-crispr-will-enable-humanity-to-do-next/"
+    },
+    {
+      "text": ".ArtDirection__22791 { padding-bottom: 100%; }",
       "url": "/emails/quartz-weekend-brief/2184503/the-us-supreme-courts-hard-right-turn/"
     },
     {
@@ -2419,20 +2557,8 @@
       "url": "/emails/quartz-weekend-brief/archive/"
     },
     {
-      "text": "\u2726 The US Supreme Court\u2019s hard right turn4 hours ago",
+      "text": "\u2726 The US Supreme Court\u2019s hard right turnJuly 2, 2022",
       "url": "/emails/quartz-weekend-brief/2184503/the-us-supreme-courts-hard-right-turn/"
-    },
-    {
-      "text": ".ArtDirection__27581 { padding-bottom: 100%; }",
-      "url": "/emails/quartz-forecast/2181575/the-end-of-globalization-has-been-greatly-exaggerated/"
-    },
-    {
-      "text": "The Forecast",
-      "url": "/emails/quartz-forecast/archive/"
-    },
-    {
-      "text": "\u2726 Where globalization goes nextJune 26, 2022",
-      "url": "/emails/quartz-forecast/2181575/the-end-of-globalization-has-been-greatly-exaggerated/"
     },
     {
       "text": ".ArtDirection__23337 { padding-bottom: 100%; }",
@@ -2467,24 +2593,40 @@
       "url": "/emails/daily-brief/"
     },
     {
-      "text": "How has the Supreme Court impacted the US\u2019s fight against climate change?",
-      "url": "https://qz.com/2183808/the-supreme-courts-climate-ruling-will-limit-the-epa/"
+      "text": "latest defaulter on offshore debt",
+      "url": "https://www.reuters.com/business/chinese-property-developer-shimao-misses-repayment-1-bln-bond-2022-07-03/"
     },
     {
-      "text": "What\u2019s wrong with H&M\u2019s environmental scores for clothing?",
-      "url": "https://qz.com/2180075/hm-showed-bogus-environmental-higg-index-scores-for-its-clothing/"
+      "text": "below analysts\u2019 predictions",
+      "url": "https://www.cnbc.com/2022/07/02/tesla-tsla-q2-2022-vehicle-delivery-and-production-numbers.html"
     },
     {
-      "text": "What are the next startup investment hotspots in west Africa?",
-      "url": "https://qz.com/africa/2183677/ghana-and-senegal-follow-nigerias-regional-lead-in-startup-funding/"
+      "text": "lockdowns in China",
+      "url": "https://techcrunch.com/2022/07/02/tesla-ev-deliveries-fall-nearly-18-in-second-quarter-following-china-factory-shutdown/"
     },
     {
-      "text": "What should we make of Unilever\u2019s sale of Ben & Jerry\u2019s in Israel?",
-      "url": "https://qz.com/2184298/unilevers-israeli-ben-jerrys-sale-is-avoidance-not-leadership/"
+      "text": "fall to Russia",
+      "url": "https://www.cnn.com/2022/07/03/europe/russia-ukraine-luhansk-lysychansk-intl/index.html"
     },
     {
-      "text": "What\u2019s going on in the wheat market?",
-      "url": "https://qz.com/2182766/the-war-in-ukraine-is-no-longer-shocking-the-wheat-market-2/"
+      "text": "allow investors",
+      "url": "https://fundselectorasia.com/hong-kongs-etf-connect-set-to-launch/"
+    },
+    {
+      "text": "thousands to evacuate",
+      "url": "https://www.cnn.com/2022/07/02/weather/sydney-australia-flooding-intl-hnk/index.html"
+    },
+    {
+      "text": "record-breaking heat wave",
+      "url": "https://www.nytimes.com/2022/06/25/world/asia/japan-heat-wave.html"
+    },
+    {
+      "text": "getting out ",
+      "url": "https://www.bloomberg.com/news/articles/2022-07-03/tether-fails-to-calm-jittery-nerves-with-short-sellers-circling?srnd=premium"
+    },
+    {
+      "text": "are wondering",
+      "url": "https://www.wsj.com/articles/celsius-customers-are-losing-hope-for-their-locked-up-crypto-11656840601?mod=hp_lead_pos3"
     },
     {
       "text": "Quartz Privacy Policy",
@@ -2492,7 +2634,7 @@
     },
     {
       "text": "Read full briefing",
-      "url": "/essentials/2184359/july-2-3-2022-briefing/"
+      "url": "/essentials/2184687/july-4-2022-briefing/"
     },
     {
       "text": "All",
@@ -2511,15 +2653,15 @@
       "url": "/africa/latest/"
     },
     {
-      "text": ".ArtDirection__53999 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__53999 { padding-bottom: 56.66666666666667%; } }Delta is experimenting with flight information boards that know who you are and where you\u2019re goingQuartz \u2022 1 hour ago",
+      "text": ".ArtDirection__53999 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__53999 { padding-bottom: 56.66666666666667%; } }Delta is experimenting with flight information boards that know who you are and where you\u2019re goingQuartz \u2022 July 2, 2022",
       "url": "/2183996/delta-is-trying-personalized-flight-information-boards-called-parallel-reality/"
     },
     {
-      "text": ".ArtDirection__57303 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__57303 { padding-bottom: 56.66666666666667%; } }GameStop trading nearly destroyed RobinhoodQuartz \u2022 2 hours ago",
+      "text": ".ArtDirection__57303 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__57303 { padding-bottom: 56.66666666666667%; } }GameStop trading nearly destroyed RobinhoodQuartz \u2022 July 2, 2022",
       "url": "/2184431/robinhood-nearly-defaulted-during-the-gamestop-short-squeeze/"
     },
     {
-      "text": ".ArtDirection__67367 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__67367 { padding-bottom: 56.66666666666667%; } }The US can still fight climate change, but only the hard and expensive waysQuartz \u2022 2 hours ago",
+      "text": ".ArtDirection__67367 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__67367 { padding-bottom: 56.66666666666667%; } }The US can still fight climate change, but only the hard and expensive waysQuartz \u2022 July 2, 2022",
       "url": "/2184539/supreme-courts-epa-ruling-will-prompt-federal-mandates-to-fight-climate-change/"
     },
     {
@@ -2543,24 +2685,24 @@
       "url": "/latest/"
     },
     {
+      "text": ".ArtDirection__42586 { padding-bottom: 100%; }GameStop trading nearly destroyed RobinhoodQuartz \u2022 July 2, 2022",
+      "url": "/2184431/robinhood-nearly-defaulted-during-the-gamestop-short-squeeze/"
+    },
+    {
       "text": ".ArtDirection__52393 { padding-bottom: 100%; }Trump\u2019s Truth Social just got a criminal subpoena over its dubious SPAC dealQuartz \u2022 July 1, 2022",
       "url": "/2184555/donald-trumps-truth-social-receives-subpoena/"
     },
     {
-      "text": ".ArtDirection__50116 { padding-bottom: 100%; }New York City is trying to reduce subway crime by harassing beloved station musiciansQuartz \u2022 July 1, 2022",
-      "url": "/2183598/new-york-is-cracking-down-on-subway-performers-to-fight-crime/"
-    },
-    {
-      "text": ".ArtDirection__52774 { padding-bottom: 100%; }A bunch of men are about to make a fortune on Plan BQuartz \u2022 June 30, 2022",
-      "url": "/2183865/plan-bs-male-investors-are-about-to-make-a-fortune/"
-    },
-    {
-      "text": ".ArtDirection__51865 { padding-bottom: 100%; }Tesla is killing off coal and gas plants with its giant battery projectsQuartz \u2022 June 29, 2022",
-      "url": "/2182975/tesla-is-killing-coal-and-gas-plants-with-megapack-batteries/"
-    },
-    {
       "text": ".ArtDirection__47950 { padding-bottom: 100%; }These are the next startup investment hotspots in west AfricaQuartz Africa \u2022 June 30, 2022",
       "url": "/africa/2183677/ghana-and-senegal-follow-nigerias-regional-lead-in-startup-funding/"
+    },
+    {
+      "text": ".ArtDirection__56677 { padding-bottom: 100%; }How much is Kate Bush making from \u201cRunning Up That Hill\u201d?Quartz \u2022 June 27, 2022",
+      "url": "/2182571/how-much-is-kate-bush-making-from-running-up-that-hill/"
+    },
+    {
+      "text": ".ArtDirection__53362 { padding-bottom: 100%; }How powerful is your country\u2019s passport?Quartz \u2022 January 16, 2022",
+      "url": "/2113502/which-countries-have-the-most-powerful-passports/"
     },
     {
       "text": "More popular Quartz storiesMore popular Quartz stories",
@@ -2823,10 +2965,10 @@
       "url": "https://www.linkedin.com/company/quartzmedia/"
     }
   ],
-  "server": "ia801405.us.archive.org",
-  "uniq": 1291961052,
+  "server": "ia601405.us.archive.org",
+  "uniq": 2099109150,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

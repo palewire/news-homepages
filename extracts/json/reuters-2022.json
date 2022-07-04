@@ -1,5 +1,5 @@
 {
-  "created": 1656808065,
+  "created": 1656898631,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -1288,31 +1288,157 @@
       "sha1": "53e19b6112d680fe0d99af44e5fdb2ea7b9d3c11"
     },
     {
+      "name": "reuters-2022-07-02T21:34:30.495076-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656812073",
+      "size": "35297",
+      "md5": "4c81dd7bb9ffd72eee669c9e196b7f78",
+      "crc32": "dc698dfe",
+      "sha1": "69582d53ee86a61e728deecb5914710842c97625",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-02T21:34:30.495076-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656812075",
+      "size": "26723",
+      "md5": "3e77096bbad235736d91c8ca3237cd76",
+      "crc32": "ce8d56d3",
+      "sha1": "0623ce680542fb2ec75ec3f39b6dc35bfada1d87",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-02T21:34:30.495076-04:00.jpg",
+      "source": "original",
+      "mtime": "1656812072",
+      "size": "265551",
+      "md5": "e9483c8ae5ee34869b393423121f957f",
+      "crc32": "056de7c8",
+      "sha1": "933d98bc97bf1761b8c3b0378342b20af7e5b016",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-07-02T21:34:30.495076-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-07-02T21:34:30.495076-04:00.jpg",
+      "mtime": "1656812119",
+      "size": "8897",
+      "md5": "659b23ae4db342aa4b6be65abe22320a",
+      "crc32": "699570c2",
+      "sha1": "308deb200a1f6e5855d040ac504db8026663f16b"
+    },
+    {
+      "name": "reuters-2022-07-03T09:13:03.941770-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656853989",
+      "size": "37190",
+      "md5": "6b47f0557573f8fde202c88f670ae197",
+      "crc32": "8991b688",
+      "sha1": "4eb72a9150927d6398b51337803e6a54263f58af",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-03T09:13:03.941770-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656853991",
+      "size": "28521",
+      "md5": "1c91c806f8f65e2a09f7ea6d1bb3538b",
+      "crc32": "38a31441",
+      "sha1": "bfda360b44aea3415c5b07bf146f15f48c265680",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-03T09:13:03.941770-04:00.jpg",
+      "source": "original",
+      "mtime": "1656853988",
+      "size": "275612",
+      "md5": "c3c28e40300513745e7a5ee07b331a85",
+      "crc32": "69622e03",
+      "sha1": "9ab93b35b09d4d3b8a7d0dc0a419d5a2e5364eae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-07-03T09:13:03.941770-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-07-03T09:13:03.941770-04:00.jpg",
+      "mtime": "1656854037",
+      "size": "8917",
+      "md5": "63c078d8b6e08874e58c29da4c662aa0",
+      "crc32": "4777b100",
+      "sha1": "103eec1d671ee3d2028cc43effb5dd614591672f"
+    },
+    {
+      "name": "reuters-2022-07-03T21:35:05.947486-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656898509",
+      "size": "40258",
+      "md5": "ee015dd355e8879b9f544f579f9896c4",
+      "crc32": "1a21d2cb",
+      "sha1": "a8f6c07abf0fd540b956ce8adfcc0f71db4f2a2f",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-03T21:35:05.947486-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656898510",
+      "size": "29969",
+      "md5": "96792157e72cd3f8df7b0e5fbce3ef91",
+      "crc32": "71e01f7c",
+      "sha1": "3523deaab6780e8b55196259101aee14d1f0b64d",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-03T21:35:05.947486-04:00.jpg",
+      "source": "original",
+      "mtime": "1656898507",
+      "size": "271465",
+      "md5": "b9ee2e77d6edc5c5594f77584eb0f161",
+      "crc32": "a1f45cad",
+      "sha1": "ed896e872580d492f3f1294d8962f2a29f2c3ffc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-07-03T21:35:05.947486-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-07-03T21:35:05.947486-04:00.jpg",
+      "mtime": "1656898588",
+      "size": "8971",
+      "md5": "8c7d3b8af2e0a57c70da6f0bc62a4a8a",
+      "crc32": "a4187c2c",
+      "sha1": "dc0b52377ed1f55c793ace8aa3cab74abc8092d0"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f8c59e6e4ec6b14e99b142330e24c536e6e35cb",
-      "mtime": "1656767829",
-      "size": "26895",
-      "md5": "de42f5ae017a569d16a5f3ca12aa6166",
-      "crc32": "9bc6377e",
-      "sha1": "e0bc58e282aa6f7b88cb63214d0c6bbee91207f0",
+      "btih": "066d9c2b37b81ebebc5835a893b131f2e4592e73",
+      "mtime": "1656898613",
+      "size": "29410",
+      "md5": "7a21be1b54a4dfc791b0cad74ae5e4af",
+      "crc32": "3d47ff16",
+      "sha1": "cea18a9a38a9269d8d629e3d2a199a2ebdc2b291",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2137098f96ce27b3a308c764d154f3cf",
+      "md5": "eb765f578338427e6767efad74aa6a9d",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656767787",
-      "size": "159744",
-      "md5": "0d01424fc643896ee1a0dbf513d21e41",
-      "crc32": "6caad73d",
-      "sha1": "0a8b322fcbf7ceed781946f2befc2d8ccfc2905f",
+      "mtime": "1656898513",
+      "size": "172032",
+      "md5": "fd040ddf39c82f0138fb4e89decb8099",
+      "crc32": "aa51beec",
+      "sha1": "6c67821b7d03eabb787cddefe20ce39ff315c7e6",
       "format": "Metadata"
     },
     {
@@ -1326,9 +1452,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 126,
-  "item_last_updated": 1656767829,
-  "item_size": 9436175,
+  "files_count": 138,
+  "item_last_updated": 1656898613,
+  "item_size": 10488349,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -1345,840 +1471,10 @@
     "publicdate": "2022-06-24 23:00:05",
     "addeddate": "2022-06-24 23:00:05"
   },
-  "reuters-2022": [
-    {
-      "text": "Skip to main content",
-      "url": "#main-content"
-    },
-    {
-      "text": "Skip to floating mini video",
-      "url": "#mini-floating-vid"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Legal",
-      "url": "/legal/"
-    },
-    {
-      "text": "Markets",
-      "url": "/markets/"
-    },
-    {
-      "text": "Sign In",
-      "url": "https://www.reuters.com/signin/?redirect=https%3A%2F%2Fwww.reuters.com%2F"
-    },
-    {
-      "text": "Register",
-      "url": "/signup/"
-    },
-    {
-      "text": "SPX",
-      "url": "https://www.reuters.com/quote/.SPX"
-    },
-    {
-      "text": "DJI",
-      "url": "https://www.reuters.com/quote/.DJI"
-    },
-    {
-      "text": "FTSE",
-      "url": "https://www.reuters.com/quote/.FTSE"
-    },
-    {
-      "text": "N225",
-      "url": "https://www.reuters.com/quote/.N225"
-    },
-    {
-      "text": "Markets data",
-      "url": "/markets/global-market-data"
-    },
-    {
-      "text": "The latest on Ukraine and Russia",
-      "url": "https://www.reuters.com/world/europe/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Exclusive: Ukraine requests Turkey detain Russian-flagged ship it says carrying Ukrainian grain",
-      "url": "/world/ukraine-requests-turkey-detain-russian-flagged-ship-carrying-ukrainian-grain-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Ukraine says link restored to Zaporizhzhia nuclear station",
-      "url": "/world/europe/ukraine-says-link-restored-zaporizhzhia-nuclear-station-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Ukraine's Berlin envoy draws Israeli, Polish ire with views on WW2 nationalist",
-      "url": "/world/europe/ukraines-berlin-envoy-draws-israeli-polish-ire-with-views-ww2-nationalist-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "German regulator hints at gas rationing priorities, Funke reports",
-      "url": "/world/europe/german-regulator-hints-gas-rationing-priorities-funke-reports-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Two more Britons charged with being mercenaries in separatist-held east Ukraine -TASS",
-      "url": "/world/europe/two-britons-charged-with-mercenary-activities-separatist-held-east-ukraine-tass-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "U.S. sending Ukraine two surface-to-air missile systems -Pentagon",
-      "url": "/world/europe/us-sending-ukraine-two-surface-to-air-missile-systems-pentagon-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "UNESCO declares borshch protected Ukrainian heritage at risk from Russian invasion",
-      "url": "/world/europe/unesco-declares-borshch-protected-ukrainian-heritage-risk-russian-invasion-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Blasts rock Ukraine city as Russian missiles drive up civilian death toll, article with gallery",
-      "url": "/world/europe/blasts-rock-ukraines-mykolaiv-after-missiles-kill-21-near-odesa-2022-07-02/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/europe/blasts-rock-ukraines-mykolaiv-after-missiles-kill-21-near-odesa-2022-07-02/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Biden predicts states will try to arrest women who travel for abortions",
-      "url": "/world/americas/biden-not-enough-votes-change-filibuster-abortion-rights-2022-07-01/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/us/millions-hit-road-us-fourth-july-holiday-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Millions hit the road, skies, for U.S. Fourth of July holiday, article with video",
-      "url": "/world/us/millions-hit-road-us-fourth-july-holiday-2022-07-01/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/us/new-york-may-ban-concealed-guns-many-places-including-times-square-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "New York bans guns in many public places after Supreme Court ruling, article with video",
-      "url": "/world/us/new-york-may-ban-concealed-guns-many-places-including-times-square-2022-07-01/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/middle-east/magnitude-60-earthquake-strikes-southern-iran-emsc-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "At least five killed in magnitude 6.1 quake on Iran Gulf coast, article with video",
-      "url": "/world/middle-east/magnitude-60-earthquake-strikes-southern-iran-emsc-2022-07-01/"
-    },
-    {
-      "text": "Technology",
-      "url": "/technology/"
-    },
-    {
-      "text": "Elon Musk breaks silence on Twitter, posts a picture with the pope",
-      "url": "/technology/musk-breaks-silence-twitter-posts-picture-with-pope-2022-07-02/"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/lifestyle/"
-    },
-    {
-      "text": "Jerry Hall files for divorce from Rupert Murdoch, asks for spousal support, article with image",
-      "url": "/lifestyle/jerry-hall-files-divorce-rupert-murdoch-2022-07-02/"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/jerry-hall-files-divorce-rupert-murdoch-2022-07-02/"
-    },
-    {
-      "text": "Special ReportDozens of Russian weapons tycoons have faced no Western sanctions",
-      "url": "https://www.reuters.com/world/europe/dozens-russian-weapons-tycoons-have-faced-no-western-sanctions-2022-07-01/"
-    },
-    {
-      "text": "See all World",
-      "url": "/world/"
-    },
-    {
-      "text": "",
-      "url": "/world/asia-pacific/philippines-president-marcos-vetoes-economic-zone-bill-championed-by-sister-2022-07-02/"
-    },
-    {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "Philippines President Marcos vetoes economic zone bill championed by sister, article with image",
-      "url": "/world/asia-pacific/philippines-president-marcos-vetoes-economic-zone-bill-championed-by-sister-2022-07-02/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/europe/ukraine-russia-what-you-need-know-right-now-2022-06-04/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Ukraine and Russia: What you need to know right now, article with gallery",
-      "url": "/world/europe/ukraine-russia-what-you-need-know-right-now-2022-06-04/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/asia-pacific/over-two-dozen-crew-missing-storm-chaba-hits-hong-kong-2022-07-02/"
-    },
-    {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "Over two dozen crew missing as storm Chaba hits Hong Kong, article with gallery",
-      "url": "/world/asia-pacific/over-two-dozen-crew-missing-storm-chaba-hits-hong-kong-2022-07-02/"
-    },
-    {
-      "text": "",
-      "url": "/world/china/china-lashed-by-years-first-typhoon-record-rains-forecast-2022-07-02/"
-    },
-    {
-      "text": "China",
-      "url": "/world/china/"
-    },
-    {
-      "text": "China lashed by year's first typhoon, record rains forecast, article with image",
-      "url": "/world/china/china-lashed-by-years-first-typhoon-record-rains-forecast-2022-07-02/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/india/indian-police-arrest-masterminds-behind-execution-hindu-tailor-officials-2022-07-02/"
-    },
-    {
-      "text": "India",
-      "url": "/world/india/"
-    },
-    {
-      "text": "Indian police arrest 'masterminds' behind murder of Hindu tailor - officials, article with gallery",
-      "url": "/world/india/indian-police-arrest-masterminds-behind-execution-hindu-tailor-officials-2022-07-02/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/middle-east/magnitude-60-earthquake-strikes-southern-iran-emsc-2022-07-01/"
-    },
-    {
-      "text": "Middle East",
-      "url": "/world/middle-east/"
-    },
-    {
-      "text": "At least five killed in magnitude 6.1 quake on Iran Gulf coast, article with video",
-      "url": "/world/middle-east/magnitude-60-earthquake-strikes-southern-iran-emsc-2022-07-01/"
-    },
-    {
-      "text": "",
-      "url": "/business/aerospace-defense/striking-paris-airport-workers-call-new-walkout-july-8-10-2022-07-02/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Striking Paris airport workers call new walkout on July 8-10, article with image",
-      "url": "/business/aerospace-defense/striking-paris-airport-workers-call-new-walkout-july-8-10-2022-07-02/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/europe/blasts-rock-ukraines-mykolaiv-after-missiles-kill-21-near-odesa-2022-07-02/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Blasts rock Ukraine city as Russian missiles drive up civilian death toll, article with gallery",
-      "url": "/world/europe/blasts-rock-ukraines-mykolaiv-after-missiles-kill-21-near-odesa-2022-07-02/"
-    },
-    {
-      "text": "",
-      "url": "/world/middle-east/iranian-flagged-tanker-greece-tugged-piraeus-port-2022-07-02/"
-    },
-    {
-      "text": "Middle East",
-      "url": "/world/middle-east/"
-    },
-    {
-      "text": "Iranian-flagged tanker in Greece tugged to Piraeus port, article with image",
-      "url": "/world/middle-east/iranian-flagged-tanker-greece-tugged-piraeus-port-2022-07-02/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/africa/jailed-south-african-paralympic-star-pistorius-met-victims-father-2022-07-01/"
-    },
-    {
-      "text": "Africa",
-      "url": "/world/africa/"
-    },
-    {
-      "text": "Jailed South African paralympic star Pistorius met victim's father, article with gallery",
-      "url": "/world/africa/jailed-south-african-paralympic-star-pistorius-met-victims-father-2022-07-01/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/middle-east/power-cut-protests-hit-libyan-cities-showing-anger-factional-leaders-2022-07-01/"
-    },
-    {
-      "text": "Middle East",
-      "url": "/world/middle-east/"
-    },
-    {
-      "text": "Angry protests against feuding leaders grip Libyan cities, article with gallery",
-      "url": "/world/middle-east/power-cut-protests-hit-libyan-cities-showing-anger-factional-leaders-2022-07-01/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/australians-rally-against-us-overturning-key-abortion-ruling-2022-07-02/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Australians rally against U.S. overturning of key abortion ruling, article with video",
-      "url": "/world/australians-rally-against-us-overturning-key-abortion-ruling-2022-07-02/"
-    },
-    {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "Protests break out in Uzbek autonomous region over constitution reform plan",
-      "url": "/world/asia-pacific/protests-break-out-uzbek-autonomous-region-over-constitution-reform-plan-2022-07-02/"
-    },
-    {
-      "text": "Middle East",
-      "url": "/world/middle-east/"
-    },
-    {
-      "text": "Two injured in Israeli 'aggression' targeting Syria's Tartus, Syria says",
-      "url": "/world/middle-east/two-injured-israeli-aggression-targeting-syrias-tartus-ministry-2022-07-02/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/africa/sudan-security-forces-skirmish-with-demonstrators-after-protest-deaths-2022-07-01/"
-    },
-    {
-      "text": "Africa",
-      "url": "/world/africa/"
-    },
-    {
-      "text": "Sudan security forces skirmish with demonstrators after protest deaths, article with video",
-      "url": "/world/africa/sudan-security-forces-skirmish-with-demonstrators-after-protest-deaths-2022-07-01/"
-    },
-    {
-      "text": "See all videos",
-      "url": "/video?chan:20q07aeu"
-    },
-    {
-      "text": "",
-      "url": "https://graphics.reuters.com/CYCLING-FRANCE/egpbkggexvq/index.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.reuters.com/world/middle-east/muslim-pilgrims-flock-mecca-first-post-pandemic-haj-2022-07-01/"
-    },
-    {
-      "text": "",
-      "url": "https://www.reuters.com/world/us/major-us-airlines-let-passengers-book-tickets-with-gender-neutral-option-2022-07-01/"
-    },
-    {
-      "text": "",
-      "url": "https://www.reuters.com/legal/litigation/kosher-cert-group-accuses-jetblue-selling-food-with-fake-kosher-label-2022-06-23/?utm_source=homepage&utm_medium=icymi&utm_id=July1"
-    },
-    {
-      "text": "",
-      "url": "https://www.reuters.com/business/amazon-places-purchase-limit-emergency-contraceptive-pills-2022-06-28/?utm_source=homepage&utm_medium=icymi&utm_id=July1"
-    },
-    {
-      "text": "",
-      "url": "https://www.reuters.com/business/retail-consumer/fashion-retailer-hms-second-quarter-profit-beats-expectations-2022-06-29/?utm_source=homepage&utm_medium=icymi&utm_id=July1"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us/trump-hires-former-9th-circuit-judge-kozinski-twitter-court-fight-2022-07-02/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "Trump hires former 9th Circuit judge Kozinski for Twitter court fight, article with gallery",
-      "url": "/world/us/trump-hires-former-9th-circuit-judge-kozinski-twitter-court-fight-2022-07-02/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us/r-kelly-sues-brooklyn-jail-putting-him-suicide-watch-2022-07-02/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "R. Kelly sues Brooklyn jail for putting him on suicide watch, article with gallery",
-      "url": "/world/us/r-kelly-sues-brooklyn-jail-putting-him-suicide-watch-2022-07-02/"
-    },
-    {
-      "text": "",
-      "url": "/world/us/whats-new-yorks-new-gun-laws-after-supreme-court-ruling-2022-07-02/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "Factbox: What's in New York's new gun laws after Supreme Court ruling?, article with image",
-      "url": "/world/us/whats-new-yorks-new-gun-laws-after-supreme-court-ruling-2022-07-02/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us/business-booms-people-smugglers-using-trucks-texas-risks-grow-2022-07-01/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "With migrant smuggling into the U.S. surging, cartels step in, article with gallery",
-      "url": "/world/us/business-booms-people-smugglers-using-trucks-texas-risks-grow-2022-07-01/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "",
-      "url": "/business/aerospace-defense/sas-its-pilots-extend-wage-talks-until-monday-2022-07-02/"
-    },
-    {
-      "text": "Aerospace & Defense",
-      "url": "/business/aerospace-defense/"
-    },
-    {
-      "text": "SAS and its pilots extend wage talks until Monday, article with image",
-      "url": "/business/aerospace-defense/sas-its-pilots-extend-wage-talks-until-monday-2022-07-02/"
-    },
-    {
-      "text": "",
-      "url": "/business/energy/exxon-signals-big-profits-second-quarter-oil-gas-output-2022-07-01/"
-    },
-    {
-      "text": "Energy",
-      "url": "/business/energy/"
-    },
-    {
-      "text": "Exxon signals operating profits could double over the first quarter, article with image",
-      "url": "/business/energy/exxon-signals-big-profits-second-quarter-oil-gas-output-2022-07-01/"
-    },
-    {
-      "text": "",
-      "url": "/markets/europe/berkshire-hathaway-buys-99-mln-more-occidental-shares-has-174-stake-2022-07-02/"
-    },
-    {
-      "text": "Markets",
-      "url": "/markets/"
-    },
-    {
-      "text": "Berkshire Hathaway buys 9.9 mln more Occidental shares, has 17.4% stake, article with image",
-      "url": "/markets/europe/berkshire-hathaway-buys-99-mln-more-occidental-shares-has-174-stake-2022-07-02/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us/dreaded-us-west-coast-port-labor-contract-expiration-ticks-closer-2022-07-01/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "U.S. West Coast port labor contract expires, raising stakes for talks, article with gallery",
-      "url": "/world/us/dreaded-us-west-coast-port-labor-contract-expiration-ticks-closer-2022-07-01/"
-    },
-    {
-      "text": "Africa",
-      "url": "/world/africa/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/middle-east/power-cut-protests-hit-libyan-cities-showing-anger-factional-leaders-2022-07-01/"
-    },
-    {
-      "text": "Middle East",
-      "url": "/world/middle-east/"
-    },
-    {
-      "text": "Angry protests against feuding leaders grip Libyan cities, article with gallery",
-      "url": "/world/middle-east/power-cut-protests-hit-libyan-cities-showing-anger-factional-leaders-2022-07-01/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/africa/sudan-security-forces-skirmish-with-demonstrators-after-protest-deaths-2022-07-01/"
-    },
-    {
-      "text": "Africa",
-      "url": "/world/africa/"
-    },
-    {
-      "text": "Sudan security forces skirmish with demonstrators after protest deaths, article with video",
-      "url": "/world/africa/sudan-security-forces-skirmish-with-demonstrators-after-protest-deaths-2022-07-01/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/africa/jailed-south-african-paralympic-star-pistorius-met-victims-father-2022-07-01/"
-    },
-    {
-      "text": "Africa",
-      "url": "/world/africa/"
-    },
-    {
-      "text": "Jailed South African paralympic star Pistorius met victim's father, article with gallery",
-      "url": "/world/africa/jailed-south-african-paralympic-star-pistorius-met-victims-father-2022-07-01/"
-    },
-    {
-      "text": "",
-      "url": "/world/africa/nigeria-lost-1-billion-q1-revenue-crude-oil-theft-2022-07-02/"
-    },
-    {
-      "text": "Africa",
-      "url": "/world/africa/"
-    },
-    {
-      "text": "Nigeria lost $1 billion in Q1 revenue to crude oil theft, article with image",
-      "url": "/world/africa/nigeria-lost-1-billion-q1-revenue-crude-oil-theft-2022-07-02/"
-    },
-    {
-      "text": "Wimbledon ",
-      "url": "/lifestyle/sports/tennis/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/lifestyle/sports/serena-conqueror-tan-crushes-boulter-make-last-16-2022-07-02/"
-    },
-    {
-      "text": "Serena conqueror Tan crushes Boulter to make last 16, article with gallery",
-      "url": "/lifestyle/sports/serena-conqueror-tan-crushes-boulter-make-last-16-2022-07-02/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/lifestyle/sports/lure-wimbledon-grass-courts-too-much-venus-resist-2022-07-02/"
-    },
-    {
-      "text": "Lure of Wimbledon grass courts too much for Venus to resist, article with gallery",
-      "url": "/lifestyle/sports/lure-wimbledon-grass-courts-too-much-venus-resist-2022-07-02/"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/sports/tsitsipas-faces-early-hurdle-high-flying-kyrgios-2022-07-01/"
-    },
-    {
-      "text": "Tsitsipas faces early hurdle in high-flying Kyrgios, article with image",
-      "url": "/lifestyle/sports/tsitsipas-faces-early-hurdle-high-flying-kyrgios-2022-07-01/"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/sports/wimbledon-day-five-2022-07-01/"
-    },
-    {
-      "text": "Wimbledon day five, article with image",
-      "url": "/lifestyle/sports/wimbledon-day-five-2022-07-01/"
-    },
-    {
-      "text": "",
-      "url": "/world/europe/ukrainians-train-fight-with-molotov-cocktails-2022-03-02/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Pictures of the month: June, article with image",
-      "url": "/world/europe/ukrainians-train-fight-with-molotov-cocktails-2022-03-02/"
-    },
-    {
-      "text": "",
-      "url": "/world/inside-besieged-mariupol-left-ruins-after-russian-bombardment-2022-03-24/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Abortion protests across America, article with image",
-      "url": "/world/inside-besieged-mariupol-left-ruins-after-russian-bombardment-2022-03-24/"
-    },
-    {
-      "text": "",
-      "url": "/world/ukrainian-villagers-count-dead-after-weeks-confined-school-basement-2022-04-08/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Our top photos of the week, article with image",
-      "url": "/world/ukrainian-villagers-count-dead-after-weeks-confined-school-basement-2022-04-08/"
-    },
-    {
-      "text": "",
-      "url": "https://www.reuters.com/world/india/india-bans-single-use-plastic-combat-pollution-2022-07-01/"
-    },
-    {
-      "text": "",
-      "url": "https://www.reuters.com/business/environment/whale-fight-trapped-whale-freed-arctic-norway-2022-07-01/"
-    },
-    {
-      "text": "",
-      "url": "https://www.reuters.com/markets/deals/universal-music-acquires-cosmik-debris-guitarist-frank-zappas-catalog-2022-06-30/"
-    },
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Legal",
-      "url": "/legal/"
-    },
-    {
-      "text": "Markets",
-      "url": "/markets/"
-    },
-    {
-      "text": "Breakingviews",
-      "url": "/breakingviews/"
-    },
-    {
-      "text": "Technology",
-      "url": "/technology/"
-    },
-    {
-      "text": "Investigations",
-      "url": "/investigates/"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "/lifestyle/"
-    },
-    {
-      "text": "Videos",
-      "url": "https://www.reuters.com/video/"
-    },
-    {
-      "text": "Pictures",
-      "url": "https://www.reuters.com/news/pictures"
-    },
-    {
-      "text": "Graphics",
-      "url": "https://graphics.reuters.com/"
-    },
-    {
-      "text": "About Reuters",
-      "url": "https://www.reutersagency.com/en/about/about-us/"
-    },
-    {
-      "text": "Careers",
-      "url": "https://www.thomsonreuters.com/en/careers.html"
-    },
-    {
-      "text": "Reuters News Agency",
-      "url": "https://www.reutersagency.com/en/?utm_source=website&utm_medium=reuters&utm_campaign=site-referral&utm_content=us&utm_term=0"
-    },
-    {
-      "text": "Brand Attribution Guidelines",
-      "url": "https://www.reutersagency.com/en/about/about-us/brand-attribution-guidelines/"
-    },
-    {
-      "text": "Reuters Leadership",
-      "url": "https://www.reutersagency.com/en/about/leadership-team/"
-    },
-    {
-      "text": "Reuters Fact Check",
-      "url": "https://www.reuters.com/fact-check/"
-    },
-    {
-      "text": "Reuters Diversity Report",
-      "url": "https://www.reuters.com/DiversityReportApril2022"
-    },
-    {
-      "text": "Download the App",
-      "url": "https://www.reuters.com/tools/mobile/us"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://newslink.reuters.com/join/subscribe"
-    },
-    {
-      "text": "",
-      "url": "https://www.twitter.com/Reuters"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/Reuters"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/Reuters"
-    },
-    {
-      "text": "",
-      "url": "https://www.youtube.com/user/ReutersVideo"
-    },
-    {
-      "text": "",
-      "url": "https://www.linkedin.com/company/10256858/"
-    },
-    {
-      "text": "Westlaw",
-      "url": "https://legal.thomsonreuters.com/en/products/westlaw"
-    },
-    {
-      "text": "Onesource",
-      "url": "https://tax.thomsonreuters.com/en/onesource"
-    },
-    {
-      "text": "Checkpoint",
-      "url": "https://tax.thomsonreuters.com/en/checkpoint"
-    },
-    {
-      "text": "Refinitiv Workspace",
-      "url": " https://www.refinitiv.com/en/products/refinitiv-workspace"
-    },
-    {
-      "text": "Refinitiv Data Catalogue",
-      "url": " https://www.refinitiv.com/en/financial-data"
-    },
-    {
-      "text": "Refinitiv World-Check",
-      "url": "https://www.refinitiv.com/en/products/world-check-kyc-screening"
-    },
-    {
-      "text": "Advertise With Us",
-      "url": "https://www.reutersagency.com/en/services/advertising-solutions/"
-    },
-    {
-      "text": "Advertising Guidelines",
-      "url": "/info-pages/advertising-guidelines/"
-    },
-    {
-      "text": "Cookies",
-      "url": "https://www.thomsonreuters.com/en/privacy-statement.html#cookies"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "/info-pages/terms-of-use/"
-    },
-    {
-      "text": "Privacy",
-      "url": "https://www.thomsonreuters.com/en/privacy-statement.html"
-    },
-    {
-      "text": "Digital Accessibility",
-      "url": "https://www.thomsonreuters.com/en/policies/digital-accessibility-policy.html"
-    },
-    {
-      "text": "Corrections",
-      "url": "/info-pages/contact-us/"
-    },
-    {
-      "text": "Site Feedback",
-      "url": "https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz"
-    },
-    {
-      "text": "See here for a complete list of exchanges and delays",
-      "url": "https://www.reuters.com/info-pages/disclaimer/"
-    },
-    {
-      "text": "All rights reserved",
-      "url": "https://www.thomsonreuters.com/en/policies/copyright.html"
-    },
-    {
-      "text": "here",
-      "url": "https://privacyportal.onetrust.com/webform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d"
-    },
-    {
-      "text": "Privacy Statement",
-      "url": "https://www.thomsonreuters.com/en/privacy-statement.html#california"
-    },
-    {
-      "text": "link",
-      "url": "https://www.thomsonreuters.com/en/privacy-statement.html#cookies"
-    },
-    {
-      "text": "",
-      "url": "https://www.onetrust.com/products/cookie-consent/"
-    },
-    {
-      "text": "",
-      "url": "https://www.onetrust.com/products/cookie-consent/"
-    }
-  ],
-  "server": "ia902504.us.archive.org",
-  "uniq": 516475512,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1863168834,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }
