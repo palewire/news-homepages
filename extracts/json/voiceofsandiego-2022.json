@@ -1,5 +1,5 @@
 {
-  "created": 1656981490,
+  "created": 1657023509,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/voiceofsandiego-2022",
@@ -8852,31 +8852,73 @@
       "sha1": "4f5bf2f8f7147bc4bc68136afb73181ddb946eff"
     },
     {
+      "name": "voiceofsandiego-2022-07-04T20:56:56.235497-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656993419",
+      "size": "20387",
+      "md5": "03265f1d7cd79bfbf56535a3a7015a16",
+      "crc32": "0b8f2668",
+      "sha1": "734f3f15734e8dad668f6cfa1fda3dbe8854da28",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofsandiego-2022-07-04T20:56:56.235497-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656993421",
+      "size": "25643",
+      "md5": "0f1b0d9f5287433f1a199591162cc441",
+      "crc32": "9cf0cdc7",
+      "sha1": "381fc46a273de3507f9f8edc5e3f73ce4fba9d47",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofsandiego-2022-07-04T20:56:56.235497-07:00.jpg",
+      "source": "original",
+      "mtime": "1656993418",
+      "size": "288992",
+      "md5": "f00891c7a6d9ffec2bb3d9e525bd7260",
+      "crc32": "40486265",
+      "sha1": "1d75769823f110d05584619783d3b06eb771ebbe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voiceofsandiego-2022-07-04T20:56:56.235497-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voiceofsandiego-2022-07-04T20:56:56.235497-07:00.jpg",
+      "mtime": "1656993474",
+      "size": "10535",
+      "md5": "d95aaa0bd45f25159539cac22da83285",
+      "crc32": "226ef29b",
+      "sha1": "3c056546f4d9ea3b59f89c54baa1af8a71df99e5"
+    },
+    {
       "name": "voiceofsandiego-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03436e10bfdd33e0c9d8865e984eb01fc14fef14",
-      "mtime": "1656971321",
-      "size": "184844",
-      "md5": "c4ce2e3c07b23a44848c9a2c95ad2c1d",
-      "crc32": "e6c14e96",
-      "sha1": "685d305a52d39e3b1b069f59d71d0bdafcb4ded2",
+      "btih": "c1672d60225dbc1797cd9cb747b6afb7c2176cd4",
+      "mtime": "1656993484",
+      "size": "185722",
+      "md5": "52e8056911a208f86532b80e2ce0fb9c",
+      "crc32": "42f172c1",
+      "sha1": "4f104fa66919da56e4e256a3399907e81f99bf9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofsandiego-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d22f0534c252245548f535438d5f1dec",
+      "md5": "4c4bb8d992913394a7ef34e36ce8a415",
       "summation": "md5"
     },
     {
       "name": "voiceofsandiego-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656971258",
-      "size": "983040",
-      "md5": "ce94ebcc14a7c53d5bd766bd147e4a9c",
-      "crc32": "a917a9ce",
-      "sha1": "07638d782b4dd1a15b7c0d1d5efbcbca46af94cb",
+      "mtime": "1656993424",
+      "size": "991232",
+      "md5": "ed5f488348caaf6334cc560d29ccc50d",
+      "crc32": "d578a556",
+      "sha1": "1540178283a739efc171919afeaae9c723fe1857",
       "format": "Metadata"
     },
     {
@@ -8890,9 +8932,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 846,
-  "item_last_updated": 1656971321,
-  "item_size": 74280472,
+  "files_count": 850,
+  "item_last_updated": 1656993484,
+  "item_size": 74635099,
   "metadata": {
     "identifier": "voiceofsandiego-2022",
     "collection": [
@@ -8909,8 +8951,8 @@
     "publicdate": "2022-03-26 02:09:17",
     "addeddate": "2022-03-26 02:09:17"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 233729926,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1618971526,
   "voiceofsandiego-2022": [
     {
       "text": "Sign In",
@@ -9802,7 +9844,7 @@
     }
   ],
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1656971638,
+  "created": 1657022902,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -58,31 +58,73 @@
       "sha1": "e0f1b60a3a0269a9ae2c4c172ec35c1503e3a270"
     },
     {
+      "name": "fox12oregon-2022-07-04T18:55:12.601382-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656986115",
+      "size": "37182",
+      "md5": "6ee722950c3a0f8f442a566a7993711b",
+      "crc32": "0b5e4d98",
+      "sha1": "8252032c65701b7fd2642113c330552f6dc934ac",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-04T18:55:12.601382-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656986117",
+      "size": "22549",
+      "md5": "b0623b834d7b757ea8c05b44027489d7",
+      "crc32": "ae02ce4a",
+      "sha1": "e80fe08d2c685416bd589a49ebc3834e06612d25",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-04T18:55:12.601382-07:00.jpg",
+      "source": "original",
+      "mtime": "1656986114",
+      "size": "384366",
+      "md5": "17a3e0a4b3fca83f014ffb14cfd0d2ab",
+      "crc32": "ebc7efbe",
+      "sha1": "b6e4a2bb6a5cf3d5383f027b459831986b79ef16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-07-04T18:55:12.601382-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-07-04T18:55:12.601382-07:00.jpg",
+      "mtime": "1656986161",
+      "size": "11231",
+      "md5": "b0f987285e5073d61be2e6872ebd12f5",
+      "crc32": "a006c0ad",
+      "sha1": "22c51a3a53369f60f83c221c137b111ab9414330"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2a189fc152a4ee0270691ca14febb34d1c98a21",
-      "mtime": "1656971632",
-      "size": "2495",
-      "md5": "d2e979090ce734f17ca2f66f39223621",
-      "crc32": "66bdf6df",
-      "sha1": "106547e7929cf2a7a93f0a14e9d224633624fd4c",
+      "btih": "43b8a740f79fd4f5b846cf9cc8e6ca3151a1f5b6",
+      "mtime": "1656986165",
+      "size": "3357",
+      "md5": "c8299a648b1109ff26ecd1436fae70d6",
+      "crc32": "40e20af9",
+      "sha1": "61545d201d20c354285d205aba0787ce9ac3e47b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa589a682f63dba285a6fafca3815439",
+      "md5": "600bdafb68fa8f1c5479bb8e5189baa7",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656971584",
-      "size": "20480",
-      "md5": "6a940df4a936e698975559c440609096",
-      "crc32": "c1c15f4c",
-      "sha1": "ef5ff1b52345f5e65615dc79d30dc0efd90af494",
+      "mtime": "1656986121",
+      "size": "28672",
+      "md5": "e1ef5092f7495e6b1f95e5b6413b18d6",
+      "crc32": "ec80f068",
+      "sha1": "50bdf1118de6e3e6b0b645e6e9e4e250fd47bf72",
       "format": "Metadata"
     },
     {
@@ -96,9 +138,879 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 9,
-  "item_last_updated": 1656971632,
-  "item_size": 463574,
+  "files_count": 13,
+  "fox12oregon-2022": [
+    {
+      "text": "Skip to content",
+      "url": "#main"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "77\u00b0Portland, OR",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon"
+    },
+    {
+      "text": "Outdoor GPS",
+      "url": "/outdoorgps"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Steals & Deals",
+      "url": "https://localstealsanddeals.com/?utm_source=Meredith&utm_medium=banner&utm_campaign=KPTV&knocking_aff=KPTV"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/page/advertise-with-us/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/livestream"
+    },
+    {
+      "text": "Home",
+      "url": "/homepage"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "National News",
+      "url": "/news/national"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "/health/coronavirus"
+    },
+    {
+      "text": "Digital Exclusives",
+      "url": "/news/digital-exclusives"
+    },
+    {
+      "text": "FOX 12 Featured Stories",
+      "url": "/video-gallery/news/features/"
+    },
+    {
+      "text": "Most Wanted",
+      "url": "/news/crime/most-wanted"
+    },
+    {
+      "text": "School Authority",
+      "url": "/news/education/school-authority"
+    },
+    {
+      "text": "Submit a Tip",
+      "url": "/page/submit-a-tip"
+    },
+    {
+      "text": "News Links - As Seen On TV",
+      "url": "/page/as-seen-on"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Submit Weather Photos",
+      "url": "/page/submit-weather-photos"
+    },
+    {
+      "text": "Weather Blog",
+      "url": "/weather/blog"
+    },
+    {
+      "text": "Weather Podcast",
+      "url": "/podcasts/weather"
+    },
+    {
+      "text": "7 Day Forecast",
+      "url": "/weather/7day"
+    },
+    {
+      "text": "Weather Maps",
+      "url": "/weather/maps"
+    },
+    {
+      "text": "Closings",
+      "url": "/weather/closings"
+    },
+    {
+      "text": "Weather Alerts",
+      "url": "/weather/alerts"
+    },
+    {
+      "text": "Wildfires",
+      "url": "/wildfires"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Gas Prices",
+      "url": "/traffic/gas-prices"
+    },
+    {
+      "text": "Community",
+      "url": "/community"
+    },
+    {
+      "text": "Community Calendar",
+      "url": "/community/calendar"
+    },
+    {
+      "text": "Hunger Free Project",
+      "url": "/hungerfreeproject"
+    },
+    {
+      "text": "Clean Water - It's Our Future",
+      "url": "/page/clean-water-its-our-future/"
+    },
+    {
+      "text": "Better Together",
+      "url": "/page/better-together"
+    },
+    {
+      "text": "Be The Change",
+      "url": "/page/be-the-change"
+    },
+    {
+      "text": "Surprise Squad",
+      "url": "/page/surprise-squad"
+    },
+    {
+      "text": "Rose Festival",
+      "url": "/rosefestival/"
+    },
+    {
+      "text": "Classroom of the Month",
+      "url": "/page/classroom"
+    },
+    {
+      "text": "Submit Photos & Video",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "High Schools",
+      "url": "/sports/high-school"
+    },
+    {
+      "text": "Trail Blazers",
+      "url": "/sports/nba/blazers"
+    },
+    {
+      "text": "Timbers",
+      "url": "/sports/mls/timbers"
+    },
+    {
+      "text": "Thorns",
+      "url": "/sports/nwsl/thorns"
+    },
+    {
+      "text": "National Sports",
+      "url": "/sports/national"
+    },
+    {
+      "text": "Outdoor GPS",
+      "url": "/outdoorgps"
+    },
+    {
+      "text": "Health",
+      "url": "/health"
+    },
+    {
+      "text": "Kaiser Permanente Thrive",
+      "url": "/health/kaiser-permanente"
+    },
+    {
+      "text": "Providence Health & Services",
+      "url": "/health/providence"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon"
+    },
+    {
+      "text": "On the Go",
+      "url": "/programming/good-day-oregon/on-the-go/"
+    },
+    {
+      "text": "Andy's Adventures",
+      "url": "/video-gallery/programming/good-day-oregon/andys-adventures"
+    },
+    {
+      "text": "Share Your Child's 1st Birthday",
+      "url": "/page/1st-birthday"
+    },
+    {
+      "text": "Good Day Pets",
+      "url": "/page/good-day-pets/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/about-us/contact-us"
+    },
+    {
+      "text": "Meet the Team",
+      "url": "/about-us/meet-the-team"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Our Apps",
+      "url": "/page/apps/"
+    },
+    {
+      "text": "FOX 12 on Youtube",
+      "url": "https://www.youtube.com/c/fox12"
+    },
+    {
+      "text": "Alexa",
+      "url": "/page/alexa"
+    },
+    {
+      "text": "Get a Copy of a Newscast",
+      "url": "/page/get-a-copy-of-a-newscast/"
+    },
+    {
+      "text": "FOX 12 Plus",
+      "url": "/page/fox-12-plus/"
+    },
+    {
+      "text": "Station Video Tour",
+      "url": "/page/fox-oregon-station-tour/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://gray.tv/careers#currentopenings"
+    },
+    {
+      "text": "Closed Captioning",
+      "url": "/page/closed-captioning"
+    },
+    {
+      "text": "Translators",
+      "url": "/page/kptv-translators/"
+    },
+    {
+      "text": "NextGen TV",
+      "url": "/page/nextgen-tv"
+    },
+    {
+      "text": "Steals & Deals",
+      "url": "https://localstealsanddeals.com/?utm_source=Meredith&utm_medium=banner&utm_campaign=KPTV&knocking_aff=KPTV"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/page/advertise-with-us/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/livestream"
+    },
+    {
+      "text": "Latest Newscasts",
+      "url": "https://www.vuit.com/publishers/226/kptv/vod"
+    },
+    {
+      "text": "Job Connection",
+      "url": "/business/jobs"
+    },
+    {
+      "text": "Circle - Country Music & Lifestyle",
+      "url": "https://www.circleallaccess.com/"
+    },
+    {
+      "text": "Gray DC Bureau",
+      "url": "https://www.graydc.com/"
+    },
+    {
+      "text": "Investigate TV",
+      "url": "https://www.investigatetv.com/"
+    },
+    {
+      "text": "PowerNation",
+      "url": "/powernation"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/fox12oregon"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/fox12oregon"
+    },
+    {
+      "text": "",
+      "url": "https://www.twitter.com/fox12oregon"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCyWF77WR3CfkZ52cc9XK5wQ"
+    },
+    {
+      "text": " Police: Man wanted in connection with Chicago-area parade shooting taken into custodyA gunman on a rooftop opened fire on an Independence Day parade in suburban Chicago on Monday, killing at least six people, wounding at least 30 and sending hundreds of marchers, parents with strollers and children on bicycles fleeing in terror, police said.",
+      "url": "/2022/07/04/police-respond-july-4-parade-amid-reports-shooting/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/04/police-respond-july-4-parade-amid-reports-shooting/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/ppb-responding-active-hostage-situation-se-portland/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/04/ppb-responding-active-hostage-situation-se-portland/"
+    },
+    {
+      "text": " Suspect in hostage situation surrenders to Portland police",
+      "url": "/2022/07/04/ppb-responding-active-hostage-situation-se-portland/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/where-watch-fourth-july-fireworks-around-portland/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/04/where-watch-fourth-july-fireworks-around-portland/"
+    },
+    {
+      "text": " Where to watch Fourth of July fireworks around Portland",
+      "url": "/2022/07/04/where-watch-fourth-july-fireworks-around-portland/"
+    },
+    {
+      "text": "Grammarly",
+      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAABTestDesktop&utm_medium=cpc&utm_content=meredith-kptv&utm_placement=Desktop&tblci=GiDDBiCyopP4YPwmLmB85D6fuXKG8mxAkNqZDUfe7RcyUCD67j4oy4D5vIL6jcyoAQ#tblciGiDDBiCyopP4YPwmLmB85D6fuXKG8mxAkNqZDUfe7RcyUCD67j4oy4D5vIL6jcyoAQ"
+    },
+    {
+      "text": "Avoid Writing Mistakes With This Desktop AppGrammarly|",
+      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAABTestDesktop&utm_medium=cpc&utm_content=meredith-kptv&utm_placement=Desktop&tblci=GiDDBiCyopP4YPwmLmB85D6fuXKG8mxAkNqZDUfe7RcyUCD67j4oy4D5vIL6jcyoAQ#tblciGiDDBiCyopP4YPwmLmB85D6fuXKG8mxAkNqZDUfe7RcyUCD67j4oy4D5vIL6jcyoAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAABTestDesktop&utm_medium=cpc&utm_content=meredith-kptv&utm_placement=Desktop&tblci=GiDDBiCyopP4YPwmLmB85D6fuXKG8mxAkNqZDUfe7RcyUCD67j4oy4D5vIL6jcyoAQ#tblciGiDDBiCyopP4YPwmLmB85D6fuXKG8mxAkNqZDUfe7RcyUCD67j4oy4D5vIL6jcyoAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=meredith-kptv&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=meredith-kptv&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Recommended by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=meredith-kptv&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Recommended by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=meredith-kptv&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/05/professionals-prep-fourth-july-festivities/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/05/professionals-prep-fourth-july-festivities/"
+    },
+    {
+      "text": " Professionals prep for Fourth of July festivities",
+      "url": "/2022/07/05/professionals-prep-fourth-july-festivities/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/gray-whale-washes-ashore-near-manzanita/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/04/gray-whale-washes-ashore-near-manzanita/"
+    },
+    {
+      "text": " Gray whale washes ashore near Manzanita",
+      "url": "/2022/07/04/gray-whale-washes-ashore-near-manzanita/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/discarded-fireworks-likely-cause-garage-fire-roseburg/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/04/discarded-fireworks-likely-cause-garage-fire-roseburg/"
+    },
+    {
+      "text": "Discarded fireworks likely cause of garage fire in Roseburg",
+      "url": "/2022/07/04/discarded-fireworks-likely-cause-garage-fire-roseburg/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/watch-large-pacific-octopus-caught-off-oregon-coast/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/04/watch-large-pacific-octopus-caught-off-oregon-coast/"
+    },
+    {
+      "text": " WATCH: Giant Pacific octopus caught off Oregon coast",
+      "url": "/2022/07/04/watch-large-pacific-octopus-caught-off-oregon-coast/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/4th-july-safety-helpful-tips-protect-your-pets-during-firework-displays/"
+    },
+    {
+      "text": " 4th of July safety: Helpful tips to protect your pets during firework displays",
+      "url": "/2022/07/04/4th-july-safety-helpful-tips-protect-your-pets-during-firework-displays/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/survivor-speaks-out-one-year-after-deadly-ne-portland-apartment-fire/"
+    },
+    {
+      "text": " Survivor speaks out one year after deadly NE Portland apartment fire",
+      "url": "/2022/07/04/survivor-speaks-out-one-year-after-deadly-ne-portland-apartment-fire/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/03/man-arrested-bias-crime-after-man-daughter-punched-eastbank-esplanade-portland/"
+    },
+    {
+      "text": " Man arrested for bias crime after man, daughter punched on Eastbank Esplanade in Portland",
+      "url": "/2022/07/03/man-arrested-bias-crime-after-man-daughter-punched-eastbank-esplanade-portland/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "/hungerfreeproject"
+    },
+    {
+      "text": "",
+      "url": "/hungerfreeproject"
+    },
+    {
+      "text": "",
+      "url": "/page/as-seen-on/"
+    },
+    {
+      "text": "",
+      "url": "/page/as-seen-on/"
+    },
+    {
+      "text": " FOX 12 Plus+",
+      "url": "/page/fox-12-plus"
+    },
+    {
+      "text": "",
+      "url": "/page/fox-12-plus"
+    },
+    {
+      "text": " FOX 12's Most Wanted",
+      "url": "/news/crime/most-wanted"
+    },
+    {
+      "text": "",
+      "url": "/news/crime/most-wanted"
+    },
+    {
+      "text": " Digital Exclusives",
+      "url": "/news/digital-exclusives"
+    },
+    {
+      "text": "",
+      "url": "/news/digital-exclusives"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon/"
+    },
+    {
+      "text": "",
+      "url": "/programming/good-day-oregon/"
+    },
+    {
+      "text": "On The Go",
+      "url": "/programming/good-day-oregon/on-the-go/"
+    },
+    {
+      "text": "",
+      "url": "/programming/good-day-oregon/on-the-go/"
+    },
+    {
+      "text": "Submit Photos & Videos",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "LATEST VIDEO",
+      "url": "/video-gallery/news"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/05/gray-whale-washes-ashore-near-manzanita/"
+    },
+    {
+      "text": "Gray whale washes ashore near Manzanita",
+      "url": "/video/2022/07/05/gray-whale-washes-ashore-near-manzanita/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/04/extended-interview-with-buoy-beer-co-founder-david-kroening/"
+    },
+    {
+      "text": "Extended interview with Buoy Beer co-founder David Kroening",
+      "url": "/video/2022/07/04/extended-interview-with-buoy-beer-co-founder-david-kroening/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/04/giant-pacific-octopus-caught-off-oregon-coast/"
+    },
+    {
+      "text": "Giant Pacific Octopus caught off Oregon coast",
+      "url": "/video/2022/07/04/giant-pacific-octopus-caught-off-oregon-coast/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/04/gray-whale-washes-ashore-near-manzanita/"
+    },
+    {
+      "text": "Gray whale washes ashore near Manzanita",
+      "url": "/video/2022/07/04/gray-whale-washes-ashore-near-manzanita/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/portland-wwii-veteran-celebrates-100th-birthday-fourth-july/"
+    },
+    {
+      "text": " Portland WWII veteran celebrates 100th birthday on Fourth of July",
+      "url": "/2022/07/04/portland-wwii-veteran-celebrates-100th-birthday-fourth-july/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/suspect-not-located-after-hours-long-standoff-ne-portland/"
+    },
+    {
+      "text": "Suspect not located after hours-long standoff in NE Portland",
+      "url": "/2022/07/04/suspect-not-located-after-hours-long-standoff-ne-portland/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/wanted-man-arrested-drugs-seized-during-traffic-stop-hood-river/"
+    },
+    {
+      "text": "Wanted man arrested, drugs seized during traffic stop in Hood River",
+      "url": "/2022/07/04/wanted-man-arrested-drugs-seized-during-traffic-stop-hood-river/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/man-dies-after-being-hit-by-2-vehicles-hwy-126w-lane-county/"
+    },
+    {
+      "text": "Man dies after being hit by 2 vehicles on Hwy 126W in Lane County",
+      "url": "/2022/07/04/man-dies-after-being-hit-by-2-vehicles-hwy-126w-lane-county/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/03/happy-valley-man-seriously-injured-after-falling-hundreds-feet-mount-hood/"
+    },
+    {
+      "text": "Happy Valley man seriously injured after falling hundreds of feet on Mount Hood",
+      "url": "/2022/07/03/happy-valley-man-seriously-injured-after-falling-hundreds-feet-mount-hood/"
+    },
+    {
+      "text": "National News",
+      "url": "/2022/07/03/several-people-shot-copenhagen-shopping-mall-police-say/"
+    },
+    {
+      "text": " Motive likely not terror-related in \u2018brutal\u2019 Danish shooting ",
+      "url": "/2022/07/03/several-people-shot-copenhagen-shopping-mall-police-say/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/04/niezgoda-timbers-tie-2-2-with-nashville/"
+    },
+    {
+      "text": "Niezgoda, Timbers tie 2-2 with Nashville",
+      "url": "/2022/07/04/niezgoda-timbers-tie-2-2-with-nashville/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/03/1-dead-1-injured-hillsboro-crash-roads-closed-investigation/"
+    },
+    {
+      "text": " 1 dead, 1 injured in Hillsboro rollover crash",
+      "url": "/2022/07/03/1-dead-1-injured-hillsboro-crash-roads-closed-investigation/"
+    },
+    {
+      "text": "Most Wanted",
+      "url": "/2022/07/03/30-american-flags-stolen-washington-co-neighborhood/"
+    },
+    {
+      "text": " 30 American flags stolen from Washington Co. neighborhood",
+      "url": "/2022/07/03/30-american-flags-stolen-washington-co-neighborhood/"
+    },
+    {
+      "text": "Most Wanted",
+      "url": "/2022/07/03/interpreting-business-hit-by-thieves-twice-one-morning-downtown-portland/"
+    },
+    {
+      "text": " Interpreting business hit by thieves twice in one morning in downtown Portland",
+      "url": "/2022/07/03/interpreting-business-hit-by-thieves-twice-one-morning-downtown-portland/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/02/oregon-man-arrested-allegedly-luring-13-year-old-girl-canada/"
+    },
+    {
+      "text": " Suspect arrested after 13-year-old girl missing from Canada found in Oregon City",
+      "url": "/2022/07/02/oregon-man-arrested-allegedly-luring-13-year-old-girl-canada/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/01/man-armed-with-pitchfork-threatens-people-portland-water-bureau-police/"
+    },
+    {
+      "text": " Man armed with pitchfork threatens people at Portland Water Bureau: Police",
+      "url": "/2022/07/01/man-armed-with-pitchfork-threatens-people-portland-water-bureau-police/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/02/unlawful-assembly-declared-after-windows-broken-portland/"
+    },
+    {
+      "text": " Unlawful assembly declared after windows broken in Portland",
+      "url": "/2022/07/02/unlawful-assembly-declared-after-windows-broken-portland/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/02/lifeguard-shortages-affecting-local-swimming-holes/"
+    },
+    {
+      "text": " Lifeguard shortages affecting local swimming holes",
+      "url": "/2022/07/02/lifeguard-shortages-affecting-local-swimming-holes/"
+    },
+    {
+      "text": "Crime",
+      "url": "/2022/07/02/deputies-arrest-burglary-suspect-hazel-dell/"
+    },
+    {
+      "text": "Deputies arrest burglary suspect in Hazel Dell",
+      "url": "/2022/07/02/deputies-arrest-burglary-suspect-hazel-dell/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/02/person-pulled-apartment-fire-with-serious-burns-se-portland/"
+    },
+    {
+      "text": " Person pulled from apartment fire with serious burns in SE Portland",
+      "url": "/2022/07/02/person-pulled-apartment-fire-with-serious-burns-se-portland/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/02/washington-law-enforcement-agencies-increase-dui-patrols-fourth-july/"
+    },
+    {
+      "text": " Washington law enforcement agencies to increase DUI patrols for Fourth of July",
+      "url": "/2022/07/02/washington-law-enforcement-agencies-increase-dui-patrols-fourth-july/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/01/oregon-reports-second-case-monkeypox/"
+    },
+    {
+      "text": "Oregon reports second case of monkeypox",
+      "url": "/2022/07/01/oregon-reports-second-case-monkeypox/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/01/1-person-injured-shooting-near-gresham-max-station-trimet-blue-line-service-disrupted/"
+    },
+    {
+      "text": " Victim in Gresham MAX station shooting has died, Gresham P.D. says",
+      "url": "/2022/07/01/1-person-injured-shooting-near-gresham-max-station-trimet-blue-line-service-disrupted/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/02/logging-accident-severely-injures-oregon-man/"
+    },
+    {
+      "text": " Logging accident severely injures Oregon man",
+      "url": "/2022/07/02/logging-accident-severely-injures-oregon-man/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/02/public-pianos-placed-throughout-portland/"
+    },
+    {
+      "text": " Public pianos placed throughout Portland",
+      "url": "/2022/07/02/public-pianos-placed-throughout-portland/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/02/thieves-break-through-food-cart-roof/"
+    },
+    {
+      "text": " Thieves break in through food cart roof in SE Portland",
+      "url": "/2022/07/02/thieves-break-through-food-cart-roof/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "About Us",
+      "url": "/about-us"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Community Calendar",
+      "url": "/community/calendar"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Meet the Team",
+      "url": "/about-us/meet-the-team"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/video/livestream"
+    },
+    {
+      "text": "Submit Photos & Video",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/page/advertise-with-us/"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon"
+    },
+    {
+      "text": "Sign Up for Newsletters",
+      "url": "/newsletter"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Careers",
+      "url": "https://gray.tv/careers#currentopenings"
+    },
+    {
+      "text": "KPTV Public Inspection File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPTV"
+    },
+    {
+      "text": "KPDX Public Inspection File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPDX"
+    },
+    {
+      "text": "Closed Captioning/Audio Description",
+      "url": "/page/closed-captioning"
+    },
+    {
+      "text": "FCC Applications",
+      "url": "https://webpubcontent.gray.tv/gdm/fcc/kptv-fcc_applications.pdf"
+    },
+    {
+      "text": "KPTV Children's Programming",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPTV/programs-list"
+    },
+    {
+      "text": "KPDX Children's Programming",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPDX/programs-list"
+    },
+    {
+      "text": "EEO Public File Report",
+      "url": "https://publicfiles.fcc.gov/api/manager/download/13d93aa2-4579-eff3-7899-81ec77639306/de328b66-3a49-489f-8137-1524077cac7c.pdf"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/terms-of-service"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "Advertising",
+      "url": "/advertising"
+    },
+    {
+      "text": "search by queryly ",
+      "url": "https://www.queryly.com/"
+    },
+    {
+      "text": "Advanced Search",
+      "url": "#"
+    }
+  ],
+  "item_last_updated": 1656986165,
+  "item_size": 927956,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -116,7 +1028,7 @@
     "addeddate": "2022-07-04 21:52:58"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 889158455,
+  "uniq": 1049067180,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

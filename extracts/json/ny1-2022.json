@@ -1,5 +1,5 @@
 {
-  "created": 1656971449,
+  "created": 1657023243,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/14/items/ny1-2022",
@@ -58,31 +58,63 @@
       "sha1": "057599355a50ac619b41d1e2ec494d09dd73f02a"
     },
     {
+      "name": "ny1-2022-07-04T23:11:53.025905-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656990716",
+      "size": "27573",
+      "md5": "dcf13228ec8179b3d5950f1e9c83d6d2",
+      "crc32": "17dc627c",
+      "sha1": "cc44fd42b0fdad4d3b3f80d43f495ba2a7177318",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-04T23:11:53.025905-04:00.jpg",
+      "source": "original",
+      "mtime": "1656990714",
+      "size": "315778",
+      "md5": "4739aafe21f83a84902398f02f82e71b",
+      "crc32": "915fc2eb",
+      "sha1": "7392911618ec61f5f31c424476d263fa4e9b0dc5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ny1-2022-07-04T23:11:53.025905-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-04T23:11:53.025905-04:00.jpg",
+      "mtime": "1656990797",
+      "size": "10094",
+      "md5": "49b1ad0922945ffc0691c8324625783b",
+      "crc32": "aacf927f",
+      "sha1": "02840192e291ca50d1fecf7dde5aaa2a206c1629"
+    },
+    {
       "name": "ny1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53def32dfdaeb0af1f3aff6fc678f1df56e8d6c4",
-      "mtime": "1656971444",
-      "size": "2389",
-      "md5": "a2860cd25a538936ba1b2801ff3d745d",
-      "crc32": "15daf84a",
-      "sha1": "774b1889e7b528ac0c59e70894cda3641c88f62f",
+      "btih": "14848e296fe474169c1e8b1f0e5430107aa961a4",
+      "mtime": "1656990807",
+      "size": "3013",
+      "md5": "24034f4c0c70b4d5ab0dacfba2a3c426",
+      "crc32": "563e6d32",
+      "sha1": "a2cdaa8c28fd48c977de5c7dfc68ade0aa2bac72",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ny1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e03d4c63064961ed35b58702b06e660",
+      "md5": "81d0478f8b5f9c7507384be1e8bbf0cd",
       "summation": "md5"
     },
     {
       "name": "ny1-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656971400",
-      "size": "20480",
-      "md5": "0fe9e3b02a8cd5b2a25b035209b685b7",
-      "crc32": "34301785",
-      "sha1": "3c023f036ea06a0d81b35c83f83a3b99a340eee8",
+      "mtime": "1656990720",
+      "size": "28672",
+      "md5": "c803b6799954faf265e79b9427d24d76",
+      "crc32": "e23d89b2",
+      "sha1": "17d970f1dd5733432298f7d6d16fa6998e09ff9e",
       "format": "Metadata"
     },
     {
@@ -96,9 +128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 9,
-  "item_last_updated": 1656971444,
-  "item_size": 431481,
+  "files_count": 12,
+  "item_last_updated": 1656990807,
+  "item_size": 793742,
   "metadata": {
     "identifier": "ny1-2022",
     "collection": [
@@ -115,8 +147,1181 @@
     "publicdate": "2022-07-04 21:49:52",
     "addeddate": "2022-07-04 21:49:52"
   },
+  "ny1-2022": {
+    "role": "WebArea",
+    "name": "Spectrum News NY1 | New York City",
+    "children": [
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "ALL BOROUGHS"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "77\u00b0"
+      },
+      {
+        "role": "link",
+        "name": "New York City, NY"
+      },
+      {
+        "role": "link",
+        "name": "EDIT"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "LOG IN"
+      },
+      {
+        "role": "link",
+        "name": "WATCH LIVE"
+      },
+      {
+        "role": "textbox",
+        "name": "Search"
+      },
+      {
+        "role": "link",
+        "name": "LATEST NEWS"
+      },
+      {
+        "role": "link",
+        "name": "WEATHER"
+      },
+      {
+        "role": "link",
+        "name": "TRANSIT"
+      },
+      {
+        "role": "link",
+        "name": "POLITICS"
+      },
+      {
+        "role": "link",
+        "name": "ARTS+CULTURE"
+      },
+      {
+        "role": "link",
+        "name": "COMMUNITY+NEIGHBORHOODS"
+      },
+      {
+        "role": "link",
+        "name": "PODCASTS"
+      },
+      {
+        "role": "link",
+        "name": "OUR JOURNALISTS"
+      },
+      {
+        "role": "link",
+        "name": "LIVE UPDATES How Coronavirus is Impacting New York"
+      },
+      {
+        "role": "link",
+        "name": "Law enforcement search after a mass shooting at the Highland Park Fourth of July parade in downtown Highland Park, Ill., a Chicago suburb on Monday. (AP Photo/Nam Y. Huh)"
+      },
+      {
+        "role": "link",
+        "name": "ILLINOIS SHOOTING"
+      },
+      {
+        "role": "link",
+        "name": "Police find man suspected in shooting at Chicago-area parade"
+      },
+      {
+        "role": "text",
+        "name": "At least six people were killed, and at least 30 were wounded Monday."
+      },
+      {
+        "role": "text",
+        "name": "ILLINOIS"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "44 MINUTES AGO"
+      },
+      {
+        "role": "link",
+        "name": "Spectrum Mobile"
+      },
+      {
+        "role": "heading",
+        "name": "ONLY ON NY1",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "Macy's fireworks 6:44"
+      },
+      {
+        "role": "link",
+        "name": "HUMAN INTEREST"
+      },
+      {
+        "role": "link",
+        "name": "Macy's Fourth of July Fireworks: What you need to know"
+      },
+      {
+        "role": "text",
+        "name": "This year's show will be launched over the East River."
+      },
+      {
+        "role": "link",
+        "name": "Bree Driscoll takes a look at what's in the papers on this Monday, July 4, 2022. 6:23"
+      },
+      {
+        "role": "link",
+        "name": "IN THE PAPERS"
+      },
+      {
+        "role": "link",
+        "name": "In The Papers: Canada cutting hospital hours and a very smart 2-year-old"
+      },
+      {
+        "role": "text",
+        "name": "Bree Driscoll takes a look at what's in the papers on this Monday, July 4, 2022."
+      },
+      {
+        "role": "link",
+        "name": "ny elections"
+      },
+      {
+        "role": "link",
+        "name": "DECISION 2022"
+      },
+      {
+        "role": "link",
+        "name": "Interactive: How New Yorkers voted in the 2022 primaries for governor"
+      },
+      {
+        "role": "text",
+        "name": "Gov. Kathy Hochul and U.S. Rep. Lee Zeldin won their respective primaries."
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "PODCAST"
+      },
+      {
+        "role": "link",
+        "name": "Primary recap: low turnout leads to few surprises"
+      },
+      {
+        "role": "text",
+        "name": "Zack Fink, Courtney Gross and Juan Manuel Ben\u00edtez analyzed what may have happened on election night."
+      },
+      {
+        "role": "text",
+        "name": "Sign up to get our newsletter every weekday morning:"
+      },
+      {
+        "role": "textbox",
+        "name": "Sign up to get our newsletter every weekday morning:",
+        "required": true,
+        "invalid": "true"
+      },
+      {
+        "role": "button",
+        "name": "SUBSCRIBE"
+      },
+      {
+        "role": "link",
+        "name": "live stream"
+      },
+      {
+        "role": "heading",
+        "name": "HEADLINES",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "HUMAN INTEREST"
+      },
+      {
+        "role": "link",
+        "name": "Macy's 4th of July Fireworks"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Macy's 4th of July Fireworks show lights up NYC sky for 46th year"
+      },
+      {
+        "role": "text",
+        "name": "MANHATTAN"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "15 MINUTES AGO"
+      },
+      {
+        "role": "link",
+        "name": "SPORTS"
+      },
+      {
+        "role": "link",
+        "name": "WNBA star and two-time Olympic gold medalist Brittney Griner is escorted to a courtroom for a hearing, in Khimki just outside Moscow, Russia, Friday, July 1, 2022. U.S. basketball star Brittney Griner is set to go on trial in a Moscow-area court Friday. The proceedings that are scheduled to begin Friday come about 4 1/2 months after she was arrested on cannabis possession charges at an airport while traveling to play for a Russian team. (AP Photo/Alexander Zemlianichenko)"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Griner sends letter to President Biden pleading for his help"
+      },
+      {
+        "role": "text",
+        "name": "NATIONWIDE"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "5 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": "TRANSIT"
+      },
+      {
+        "role": "link",
+        "name": "Alternate side parking"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "NYC's alternate side parking resumes"
+      },
+      {
+        "role": "text",
+        "name": "NEW YORK CITY"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "6 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Police lights."
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Off-duty correction officer injured in shooting released from hospital"
+      },
+      {
+        "role": "text",
+        "name": "QUEENS"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "10 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": "RUSSIA-UKRAINE WAR"
+      },
+      {
+        "role": "link",
+        "name": "ukraine soldier"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "\u2018Hell on earth\u2019: Ukrainian soldiers describe eastern front"
+      },
+      {
+        "role": "text",
+        "name": "INTERNATIONAL"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "14 HOURS AGO"
+      },
+      {
+        "role": "text",
+        "name": "OUR JOURNALISTS"
+      },
+      {
+        "role": "link",
+        "name": "Juan Manuel Ben\u00edtez"
+      },
+      {
+        "role": "link",
+        "name": "JUAN MANUEL JOINED NY1 IN 2003 AS A MEMBER OF THE REPORTING TEAM LAUNCHING OUR SPANISH-LANGUAGE SISTER STATION NY1 NOTICIAS."
+      },
+      {
+        "role": "heading",
+        "name": "AROUND NYC",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "fireworks"
+      },
+      {
+        "role": "link",
+        "name": "FOURTH OF JULY"
+      },
+      {
+        "role": "link",
+        "name": "A turbulent U.S. this July 4, but many see cause to celebrate"
+      },
+      {
+        "role": "text",
+        "name": "NATIONWIDE"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "14 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": "Firework safety 5:23"
+      },
+      {
+        "role": "link",
+        "name": "PUBLIC SAFETY"
+      },
+      {
+        "role": "link",
+        "name": "Firework safety on this holiday weekend"
+      },
+      {
+        "role": "text",
+        "name": "NEW YORK CITY"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "1 DAY AGO"
+      },
+      {
+        "role": "link",
+        "name": "Med student saves friend after getting shot by stray bullet 2:27"
+      },
+      {
+        "role": "link",
+        "name": "CRIME"
+      },
+      {
+        "role": "link",
+        "name": "Med student saves friend after both were struck by stray bullet in back of a cab"
+      },
+      {
+        "role": "text",
+        "name": "MANHATTAN"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "1 DAY AGO"
+      },
+      {
+        "role": "link",
+        "name": "Con Ed employee injured"
+      },
+      {
+        "role": "link",
+        "name": "MANHATTAN"
+      },
+      {
+        "role": "link",
+        "name": "Con Ed employee injured in Manhattan gas explosion"
+      },
+      {
+        "role": "text",
+        "name": "MANHATTAN"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "1 DAY AGO"
+      },
+      {
+        "role": "link",
+        "name": "President Joe Biden speaks during an Independence Day celebration at the White House on July 4, 2021, in Washington. (AP Photo/Patrick Semansky, File)"
+      },
+      {
+        "role": "link",
+        "name": "POLITICS"
+      },
+      {
+        "role": "link",
+        "name": "From one July Fourth to the next, a steep slide for Biden"
+      },
+      {
+        "role": "text",
+        "name": "NATIONWIDE"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "1 DAY AGO"
+      },
+      {
+        "role": "link",
+        "name": "(Jens Dresling/Polfoto via AP)"
+      },
+      {
+        "role": "link",
+        "name": "PUBLIC SAFETY"
+      },
+      {
+        "role": "link",
+        "name": "3 dead, 3 critically wounded in shooting at Denmark mall"
+      },
+      {
+        "role": "text",
+        "name": "INTERNATIONAL"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "1 DAY AGO"
+      },
+      {
+        "role": "heading",
+        "name": "POLITICS",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "JAN. 6 COMMITTEE"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Jan. 6 committee: More people turn up with evidence against Trump"
+      },
+      {
+        "role": "link",
+        "name": "POLITICS"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Abortion ruling puts spotlight on gerrymandered legislatures"
+      },
+      {
+        "role": "link",
+        "name": "POLITICS"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "COP26 eight months later: Where do things stand in the climate change fight?"
+      },
+      {
+        "role": "text",
+        "name": "2:32"
+      },
+      {
+        "role": "heading",
+        "name": "PUBLIC SAFETY",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "ILLINOIS SHOOTING"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Police find man suspected in shooting at Chicago-area parade"
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Off-duty correction officer injured in shooting released from hospital"
+      },
+      {
+        "role": "link",
+        "name": "NEWS"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Akron releases video from Jayland Walker shooting, awaits independent investigation"
+      },
+      {
+        "role": "heading",
+        "name": "TRANSIT",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "TRANSIT"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "NYC's alternate side parking resumes"
+      },
+      {
+        "role": "link",
+        "name": "TRANSIT"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Former Yonkers police commissioner named MTA police chief"
+      },
+      {
+        "role": "link",
+        "name": "TRANSIT"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "MTA to 'refresh' Grand Concourse stations during rehab work"
+      },
+      {
+        "role": "text",
+        "name": "2:27"
+      },
+      {
+        "role": "heading",
+        "name": "ARTS+CULTURE",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "ARTS"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "LGBTQ arts program provides a safe haven for marginalized youth"
+      },
+      {
+        "role": "text",
+        "name": "2:47"
+      },
+      {
+        "role": "link",
+        "name": "ARTS"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Metropolitan Museum of Art to raise out-of-state admission prices"
+      },
+      {
+        "role": "link",
+        "name": "ARTS"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Wyatt Kahn\u2019s 'Life in the Abstract' comes to City Hall Park"
+      },
+      {
+        "role": "text",
+        "name": "1:53"
+      },
+      {
+        "role": "heading",
+        "name": "NEW YORKER OF THE WEEK",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "For creating a league all their own, Andy Hort is our New Yorker of the Week. 2:00"
+      },
+      {
+        "role": "link",
+        "name": "NYER OF THE WEEK"
+      },
+      {
+        "role": "link",
+        "name": "New Yorker of the Week: Andy Hort"
+      },
+      {
+        "role": "text",
+        "name": "He's making a team where everyone can succeed."
+      },
+      {
+        "role": "heading",
+        "name": "SCHOLAR ATHLETE",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "Scholar Athlete 2:18"
+      },
+      {
+        "role": "link",
+        "name": "SCHOLAR ATHLETE"
+      },
+      {
+        "role": "link",
+        "name": "Derwin Guzman: Acing the execution of achieving goals"
+      },
+      {
+        "role": "text",
+        "name": "Meet our latest Scholar Athlete."
+      },
+      {
+        "role": "heading",
+        "name": "NATIONAL",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "NASA satellite breaks from orbit around Earth, heads to moon"
+      },
+      {
+        "role": "text",
+        "name": "AP"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "28 MINUTES AGO"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Morgan scores twice and US women down Haiti 3-0"
+      },
+      {
+        "role": "text",
+        "name": "AP"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "1 HOUR AGO"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Sydney floods impact 50,000 around Australia's largest city"
+      },
+      {
+        "role": "text",
+        "name": "AP"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "1 HOUR AGO"
+      },
+      {
+        "role": "heading",
+        "name": "U.S. POLITICS",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Jan. 6 panel: More turning up with evidence against Trump"
+      },
+      {
+        "role": "text",
+        "name": "WASHINGTON"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "5 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Uneasy US tries to fete a July 4 marred by parade shooting"
+      },
+      {
+        "role": "text",
+        "name": "LEXINGTON"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "6 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Ousters, upsets halfway through 2022 primary election season"
+      },
+      {
+        "role": "text",
+        "name": "AP"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "11 HOURS AGO"
+      },
+      {
+        "role": "heading",
+        "name": "INTERNATIONAL",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Sydney floods impact 50,000 around Australia's largest city"
+      },
+      {
+        "role": "text",
+        "name": "AP"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "1 HOUR AGO"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Cardinal Hummes, close friend of Pope Francis, dies at 87"
+      },
+      {
+        "role": "text",
+        "name": "AP"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "3 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "A migrant survivor of the trailer: 'They couldn't breathe'"
+      },
+      {
+        "role": "text",
+        "name": "AP"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "3 HOURS AGO"
+      },
+      {
+        "role": "heading",
+        "name": "ENTERTAINMENT",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Dior does folklore in Paris couture, riffing on Ukraine art"
+      },
+      {
+        "role": "text",
+        "name": "PARIS"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "5 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Judge in Italy ends detention for Haggis in sex abuse case"
+      },
+      {
+        "role": "text",
+        "name": "ROME"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "7 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Heard seeks to throw out verdict in Depp defamation trial"
+      },
+      {
+        "role": "text",
+        "name": "AP"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|\u00a0\u00a0"
+      },
+      {
+        "role": "text",
+        "name": "10 HOURS AGO"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "SPECTRUM NEWS"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "CONTACT"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "ABOUT"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "RSS"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "FAQ"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "SITEMAP"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "CAREERS"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "ADVERTISE WITH US"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "CERTIFICATIONS"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "TERMS"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "PRIVACY"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "CALIFORNIA CONSUMER PRIVACY RIGHTS"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "CALIFORNIA CONSUMER DO NOT SELL MY PERSONAL INFORMATION"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "text",
+        "name": "\u00a9 2022, Charter Communications, all rights reserved."
+      }
+    ]
+  },
   "server": "ia601503.us.archive.org",
-  "uniq": 2016464140,
+  "uniq": 1658762606,
   "workable_servers": [
     "ia601503.us.archive.org",
     "ia801503.us.archive.org"

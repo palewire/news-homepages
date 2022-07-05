@@ -1,5 +1,5 @@
 {
-  "created": 1656971347,
+  "created": 1656993478,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -1108,31 +1108,73 @@
       "sha1": "15464ad397e98196842141036aa777e42391497b"
     },
     {
+      "name": "wnyc-2022-07-04T23:57:01.822216-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656993425",
+      "size": "28978",
+      "md5": "9fc1ee45ff6c39efc7c154478578d53d",
+      "crc32": "577ac7b0",
+      "sha1": "019c35b4d4c6dcb921b927e51f0425a9718993c0",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-04T23:57:01.822216-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656993426",
+      "size": "24318",
+      "md5": "0ee9f2c08139ebafd5899a52477b071b",
+      "crc32": "a74fc98d",
+      "sha1": "d38ce78709daa6cf07ea8e215f23bdf215cd7708",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-04T23:57:01.822216-04:00.jpg",
+      "source": "original",
+      "mtime": "1656993423",
+      "size": "192852",
+      "md5": "9cef8cea53a6ffb25664f28528eea172",
+      "crc32": "8102f854",
+      "sha1": "e2ec7b3ae1ad725785b3c093d346666e8738b470",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-07-04T23:57:01.822216-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-07-04T23:57:01.822216-04:00.jpg",
+      "mtime": "1656993470",
+      "size": "9107",
+      "md5": "f47d58ed5d6aa1dd950b0b2707cbfa4a",
+      "crc32": "d3aa6f55",
+      "sha1": "e907758fb5c4d186d40db622439ee05b0d882550"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "992642b818d5796a8c206f515b3a9974f184bccf",
-      "mtime": "1656971340",
-      "size": "22985",
-      "md5": "d0d91ca795ae08dbce5aaeb7c2ee1679",
-      "crc32": "6fe31b1a",
-      "sha1": "d48b45881c7c275021e615624bdb1322b54e3aaf",
+      "btih": "c34de333a76f116da00a63c0669ab7bb6c614297",
+      "mtime": "1656993473",
+      "size": "23798",
+      "md5": "f3badb77a2de4e459d396157cca40499",
+      "crc32": "05b825d3",
+      "sha1": "c27296061811d5c8527be70eba62efa2658f43f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70c0801651a0418108d7961ca4850079",
+      "md5": "e847b78b7ddd53ac71af036484d5e936",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656971297",
-      "size": "143360",
-      "md5": "62b0f484544de35c029cfafe0c1c81ab",
-      "crc32": "c69b64a0",
-      "sha1": "3bd05ac6b88e03ab5012603ffd6e70236fb5d743",
+      "mtime": "1656993429",
+      "size": "147456",
+      "md5": "2119431967bd6d01781c16c2931fa1b6",
+      "crc32": "15c53264",
+      "sha1": "5e3b0b6b946ff4b22b40946489e34c3fd5addda3",
       "format": "Metadata"
     },
     {
@@ -1146,9 +1188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 109,
-  "item_last_updated": 1656971340,
-  "item_size": 6858605,
+  "files_count": 113,
+  "item_last_updated": 1656993473,
+  "item_size": 7118769,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -1165,10 +1207,10 @@
     "publicdate": "2022-06-27 18:14:25",
     "addeddate": "2022-06-27 18:14:25"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 996226751,
+  "server": "ia801408.us.archive.org",
+  "uniq": 414266057,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

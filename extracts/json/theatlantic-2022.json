@@ -1,5 +1,5 @@
 {
-  "created": 1656971203,
+  "created": 1657023432,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/17/items/theatlantic-2022",
@@ -1484,31 +1484,73 @@
       "sha1": "c04067273727f66760ce0cb50a672d100034f225"
     },
     {
+      "name": "theatlantic-2022-07-04T23:54:45.361514-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656993287",
+      "size": "24985",
+      "md5": "c59ed7c1cf581930c0fc61e1c62dae8c",
+      "crc32": "36472cbf",
+      "sha1": "25d1fe50aef7f76d975ca65e31332e974d4974f0",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-07-04T23:54:45.361514-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656993288",
+      "size": "28538",
+      "md5": "ce0a9de088754509197e86e7b300740e",
+      "crc32": "d85c498d",
+      "sha1": "8f857ae2b382aabbd12d14d794c469df5f751e2f",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-07-04T23:54:45.361514-04:00.jpg",
+      "source": "original",
+      "mtime": "1656993286",
+      "size": "266691",
+      "md5": "3332b6d370d53c526d9a9c89904e3008",
+      "crc32": "d09abb77",
+      "sha1": "0e2bf9d0785aaf79d5ff806cb365d3bfa8dbdd00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-07-04T23:54:45.361514-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-07-04T23:54:45.361514-04:00.jpg",
+      "mtime": "1656993335",
+      "size": "10020",
+      "md5": "f62088f90bb28a424c9c7dd5d79ec0eb",
+      "crc32": "0d5ea199",
+      "sha1": "c04067273727f66760ce0cb50a672d100034f225"
+    },
+    {
       "name": "theatlantic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09b0d79fe7f62a0b0bcea0eae90951c2d9d83dd1",
-      "mtime": "1656971186",
-      "size": "31562",
-      "md5": "8a91439768548037ad786a0d0bcd6fa0",
-      "crc32": "a2c3bf73",
-      "sha1": "0199be616c5e815940b38b676ac73d70758f3bdc",
+      "btih": "7a470549deb27749b1f66d6a249fd789e8ddfafe",
+      "mtime": "1656993339",
+      "size": "32424",
+      "md5": "b7a116585d3abcaca0625426f49788f1",
+      "crc32": "18da4ccd",
+      "sha1": "5160d3f91349c2142db69aa8b92ef1d676133d15",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theatlantic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75d0b25cf22f74aa7c22fee2cecbb455",
+      "md5": "548f42e326973f8eadf0ffa817e2abf8",
       "summation": "md5"
     },
     {
       "name": "theatlantic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656971136",
-      "size": "188416",
-      "md5": "4b7573371b95456b14dab56eabdc6d31",
-      "crc32": "ae1fe6e0",
-      "sha1": "ad801f4fdcf26c233390bbd012e37e374e7e7aad",
+      "mtime": "1656993292",
+      "size": "192512",
+      "md5": "f96117330df32448469717499451711c",
+      "crc32": "b41acd9e",
+      "sha1": "8976c22817ce6cf7ae2eac32e0f9c4bffbc32325",
       "format": "Metadata"
     },
     {
@@ -1522,9 +1564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 145,
-  "item_last_updated": 1656971186,
-  "item_size": 11832330,
+  "files_count": 149,
+  "item_last_updated": 1656993339,
+  "item_size": 12167522,
   "metadata": {
     "identifier": "theatlantic-2022",
     "collection": [
@@ -1542,7 +1584,921 @@
     "addeddate": "2022-06-24 23:01:58"
   },
   "server": "ia601407.us.archive.org",
-  "uniq": 1359124556,
+  "theatlantic-2022": [
+    {
+      "text": "Skip to content",
+      "url": "#main-content"
+    },
+    {
+      "text": "The Atlantic",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "text": "Popular",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "Latest",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.theatlantic.com/politics/"
+    },
+    {
+      "text": "Ideas",
+      "url": "https://www.theatlantic.com/ideas/"
+    },
+    {
+      "text": "Fiction",
+      "url": "https://www.theatlantic.com/category/fiction/"
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.theatlantic.com/technology/"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.theatlantic.com/science/"
+    },
+    {
+      "text": "Photo",
+      "url": "https://www.theatlantic.com/photo/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.theatlantic.com/business/"
+    },
+    {
+      "text": "Culture",
+      "url": "https://www.theatlantic.com/culture/"
+    },
+    {
+      "text": "Planet",
+      "url": "https://www.theatlantic.com/planet/"
+    },
+    {
+      "text": "Global",
+      "url": "https://www.theatlantic.com/international/"
+    },
+    {
+      "text": "Books",
+      "url": "https://www.theatlantic.com/books/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.theatlantic.com/podcasts/"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.theatlantic.com/health/"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.theatlantic.com/education/"
+    },
+    {
+      "text": "Projects",
+      "url": "https://www.theatlantic.com/projects/"
+    },
+    {
+      "text": "America In Person",
+      "url": "https://www.theatlantic.com/projects/america-in-person/"
+    },
+    {
+      "text": "Family",
+      "url": "https://www.theatlantic.com/family/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.theatlantic.com/events/"
+    },
+    {
+      "text": "Shadowland",
+      "url": "https://www.theatlantic.com/shadowland/"
+    },
+    {
+      "text": "Progress",
+      "url": "https://www.theatlantic.com/progress/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.theatlantic.com/follow-the-atlantic/"
+    },
+    {
+      "text": "Play Crossword",
+      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/magazine/"
+    },
+    {
+      "text": "Latest Issue",
+      "url": "https://www.theatlantic.com/magazine/"
+    },
+    {
+      "text": "Past Issues",
+      "url": "https://www.theatlantic.com/magazine/backissues/"
+    },
+    {
+      "text": "Give a Gift",
+      "url": "https://accounts.theatlantic.com/products/gift"
+    },
+    {
+      "text": "Dear Therapist",
+      "url": "/projects/dear-therapist/"
+    },
+    {
+      "text": "Crossword Puzzle",
+      "url": "/free-daily-crossword-puzzle/"
+    },
+    {
+      "text": "Magazine Archive",
+      "url": "/magazine/backissues/"
+    },
+    {
+      "text": "Your Subscription",
+      "url": "https://accounts.theatlantic.com/accounts/subscription/"
+    },
+    {
+      "text": "Popular",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "Latest",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://accounts.theatlantic.com/login/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.theatlantic.com/subscribe/navbar/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/"
+    },
+    {
+      "text": "America Is in Denial",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/"
+    },
+    {
+      "text": "Mitt Romney",
+      "url": "https://www.theatlantic.com/author/mitt-romney/"
+    },
+    {
+      "text": "America\u2019s Necessary Myth for the World",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/american-involvement-ukraine-trump-election/661460/"
+    },
+    {
+      "text": "Tom McTague",
+      "url": "https://www.theatlantic.com/author/tom-mctague/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/american-involvement-ukraine-trump-election/661460/"
+    },
+    {
+      "text": "Books for a Sun-Addled Mind",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/classic-novels-summer-book-covers/661261/"
+    },
+    {
+      "text": "Oliver Munday",
+      "url": "https://www.theatlantic.com/author/oliver-munday/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/classic-novels-summer-book-covers/661261/"
+    },
+    {
+      "text": "Actually Good News About Voting for a Change",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/colorado-automatic-voter-registration-elections/661475/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/colorado-automatic-voter-registration-elections/661475/"
+    },
+    {
+      "text": "A Guide to The Atlantic\u2019s Coverage of Guns in America",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/05/us-mass-shootings-massacre-gun-violence/631650/"
+    },
+    {
+      "text": "Caroline Mimbs Nyce",
+      "url": "https://www.theatlantic.com/author/caroline-mimbs-nyce/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/05/us-mass-shootings-massacre-gun-violence/631650/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/top-gun-maverick-tom-cruise-us-military/661472/"
+    },
+    {
+      "text": "Hell Yeah, Tom Cruise",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/top-gun-maverick-tom-cruise-us-military/661472/"
+    },
+    {
+      "text": "Caitlin Flanagan",
+      "url": "https://www.theatlantic.com/author/caitlin-flanagan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/"
+    },
+    {
+      "text": "You\u2019re Not Allowed to Have the Best Sunscreens in the World",
+      "url": "https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/"
+    },
+    {
+      "text": "Amanda Mull",
+      "url": "https://www.theatlantic.com/author/amanda-mull/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "How to Forgive Ourselves for What We Can\u2019t Change",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "Rebecca Rashid",
+      "url": "https://www.theatlantic.com/author/rebecca-rashid/"
+    },
+    {
+      "text": "Olga Khazan",
+      "url": "https://www.theatlantic.com/author/olga-khazan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/respiratory-viruses-transmission-prevention-knowledge-action/661463/"
+    },
+    {
+      "text": "Don\u2019t Worry, It\u2019s Not COVID",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/respiratory-viruses-transmission-prevention-knowledge-action/661463/"
+    },
+    {
+      "text": "Jacob Stern",
+      "url": "https://www.theatlantic.com/author/jacob-stern/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/marcel-the-shell-movie-review/661450/"
+    },
+    {
+      "text": "Marcel the Shell Is the Hero the World Needs",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/marcel-the-shell-movie-review/661450/"
+    },
+    {
+      "text": "Shirley Li",
+      "url": "https://www.theatlantic.com/author/shirley-li/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/british-uk-us-differences-immigration/661480/"
+    },
+    {
+      "text": "What\u2019s Better in Britain",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/british-uk-us-differences-immigration/661480/"
+    },
+    {
+      "text": "Yasmeen Serhan",
+      "url": "https://www.theatlantic.com/author/yasmeen-serhan/"
+    },
+    {
+      "text": "When the Fourth of July Was a Black Holiday",
+      "url": "https://www.theatlantic.com/ideas/archive/2018/07/fourth-of-july-black-holiday/564320/"
+    },
+    {
+      "text": "Ethan J. Kytle",
+      "url": "https://www.theatlantic.com/author/ethan-j-kytle/"
+    },
+    {
+      "text": "Blain Roberts",
+      "url": "https://www.theatlantic.com/author/blaine-roberts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2018/07/fourth-of-july-black-holiday/564320/"
+    },
+    {
+      "text": "It\u2019s Not a Sandwich",
+      "url": "https://www.theatlantic.com/entertainment/archive/2015/11/its-not-a-sandwich/414352/"
+    },
+    {
+      "text": "Megan Garber",
+      "url": "https://www.theatlantic.com/author/megan-garber/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/entertainment/archive/2015/11/its-not-a-sandwich/414352/"
+    },
+    {
+      "text": "Perspectives: The Atlantic\u2019s Writers at the National Portrait Gallery",
+      "url": "https://www.theatlantic.com/perspectives-national-portrait-gallery/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/perspectives-national-portrait-gallery/"
+    },
+    {
+      "text": "North Carolina Is a Warning",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/north-carolina-democracy-doom-loop/661464/"
+    },
+    {
+      "text": "James Piltch",
+      "url": "https://www.theatlantic.com/author/james-piltch/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/north-carolina-democracy-doom-loop/661464/"
+    },
+    {
+      "text": "Explore Newsletters",
+      "url": "https://www.theatlantic.com/subscriber-newsletters/"
+    },
+    {
+      "text": "Writers",
+      "url": "https://www.theatlantic.com/writers/"
+    },
+    {
+      "text": "see all",
+      "url": "https://www.theatlantic.com/writers/"
+    },
+    {
+      "text": "Rebecca Rashid",
+      "url": "https://www.theatlantic.com/author/rebecca-rashid/"
+    },
+    {
+      "text": "How to Forgive Ourselves for What We Can\u2019t Change",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "Olga Khazan",
+      "url": "https://www.theatlantic.com/author/olga-khazan/"
+    },
+    {
+      "text": "How to Forgive Ourselves for What We Can\u2019t Change",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "Actually Good News About Voting for a Change",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/colorado-automatic-voter-registration-elections/661475/"
+    },
+    {
+      "text": "Caitlin Flanagan",
+      "url": "https://www.theatlantic.com/author/caitlin-flanagan/"
+    },
+    {
+      "text": "Hell Yeah, Tom Cruise",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/top-gun-maverick-tom-cruise-us-military/661472/"
+    },
+    {
+      "text": "Tom McTague",
+      "url": "https://www.theatlantic.com/author/tom-mctague/"
+    },
+    {
+      "text": "America\u2019s Necessary Myth for the World",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/american-involvement-ukraine-trump-election/661460/"
+    },
+    {
+      "text": "Yasmeen Serhan",
+      "url": "https://www.theatlantic.com/author/yasmeen-serhan/"
+    },
+    {
+      "text": "What\u2019s Better in Britain",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/british-uk-us-differences-immigration/661480/"
+    },
+    {
+      "text": "Jacob Stern",
+      "url": "https://www.theatlantic.com/author/jacob-stern/"
+    },
+    {
+      "text": "Don\u2019t Worry, It\u2019s Not COVID",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/respiratory-viruses-transmission-prevention-knowledge-action/661463/"
+    },
+    {
+      "text": "Faith Hill",
+      "url": "https://www.theatlantic.com/author/faith-hill/"
+    },
+    {
+      "text": "Literature for a Post-Roe World",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/books-briefing-margaret-atwood-louise-erdrich/661432/"
+    },
+    {
+      "text": "Amanda Mull",
+      "url": "https://www.theatlantic.com/author/amanda-mull/"
+    },
+    {
+      "text": "You\u2019re Not Allowed to Have the Best Sunscreens in the World",
+      "url": "https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/"
+    },
+    {
+      "text": "Alan Taylor",
+      "url": "https://www.theatlantic.com/author/alan-taylor/"
+    },
+    {
+      "text": "Photos of the Week: Lightning Rod, Crown Fountain, Lunar Transit",
+      "url": "https://www.theatlantic.com/photo/2022/07/photos-of-the-week-lightning-rod-crown-fountain-lunar-transit/661454/"
+    },
+    {
+      "text": "Ronald Brownstein",
+      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
+    },
+    {
+      "text": "Is Biden a Man Out of Time?",
+      "url": "https://www.theatlantic.com/politics/archive/2022/06/biden-roe-response-democrats-2024-election/661449/"
+    },
+    {
+      "text": "Shirley Li",
+      "url": "https://www.theatlantic.com/author/shirley-li/"
+    },
+    {
+      "text": "Marcel the Shell Is the Hero the World Needs",
+      "url": "https://www.theatlantic.com/culture/archive/2022/06/marcel-the-shell-movie-review/661450/"
+    },
+    {
+      "text": "Magazine",
+      "url": "https://www.theatlantic.com/magazine/backissues/"
+    },
+    {
+      "text": "past issues",
+      "url": "https://www.theatlantic.com/magazine/backissues/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/subscribe/magazinemodule1/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.theatlantic.com/subscribe/magazinemodule1/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts/"
+    },
+    {
+      "text": "see all",
+      "url": "/podcasts/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/experiment/"
+    },
+    {
+      "text": "Stories From an Unfinished Country",
+      "url": "/podcasts/experiment/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/floodlines/"
+    },
+    {
+      "text": "The Story of an Unnatural Disaster",
+      "url": "/podcasts/floodlines/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2021/06/is-it-over/619174/"
+    },
+    {
+      "text": "Is It Over?",
+      "url": "https://www.theatlantic.com/health/archive/2021/06/is-it-over/619174/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "How to Forgive Ourselves for What We Can\u2019t Change",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/05/top-gun/629897/"
+    },
+    {
+      "text": "Top Gun",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/05/top-gun/629897/"
+    },
+    {
+      "text": "Latest",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "see all",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "How to Forgive Ourselves for What We Can\u2019t Change",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "Rebecca Rashid",
+      "url": "https://www.theatlantic.com/author/rebecca-rashid/"
+    },
+    {
+      "text": "Olga Khazan",
+      "url": "https://www.theatlantic.com/author/olga-khazan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/colorado-automatic-voter-registration-elections/661475/"
+    },
+    {
+      "text": "Actually Good News About Voting for a Change",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/colorado-automatic-voter-registration-elections/661475/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/top-gun-maverick-tom-cruise-us-military/661472/"
+    },
+    {
+      "text": "Hell Yeah, Tom Cruise",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/top-gun-maverick-tom-cruise-us-military/661472/"
+    },
+    {
+      "text": "Caitlin Flanagan",
+      "url": "https://www.theatlantic.com/author/caitlin-flanagan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/classic-novels-summer-book-covers/661261/"
+    },
+    {
+      "text": "Books for a Sun-Addled Mind",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/classic-novels-summer-book-covers/661261/"
+    },
+    {
+      "text": "Oliver Munday",
+      "url": "https://www.theatlantic.com/author/oliver-munday/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/"
+    },
+    {
+      "text": "America Is in Denial",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/"
+    },
+    {
+      "text": "Mitt Romney",
+      "url": "https://www.theatlantic.com/author/mitt-romney/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/british-uk-us-differences-immigration/661480/"
+    },
+    {
+      "text": "What\u2019s Better in Britain",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/british-uk-us-differences-immigration/661480/"
+    },
+    {
+      "text": "Yasmeen Serhan",
+      "url": "https://www.theatlantic.com/author/yasmeen-serhan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/american-involvement-ukraine-trump-election/661460/"
+    },
+    {
+      "text": "America\u2019s Necessary Myth for the World",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/american-involvement-ukraine-trump-election/661460/"
+    },
+    {
+      "text": "Tom McTague",
+      "url": "https://www.theatlantic.com/author/tom-mctague/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/poem-rio-cortez-ars-poetica-mother-and-dogs/661479/"
+    },
+    {
+      "text": "Ars Poetica With Mother and Dogs",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/poem-rio-cortez-ars-poetica-mother-and-dogs/661479/"
+    },
+    {
+      "text": "Rio Cortez",
+      "url": "https://www.theatlantic.com/author/rio-cortez/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/mosquitoes-virus-human-scents-attractive/661462/"
+    },
+    {
+      "text": "As if Mosquitoes Weren\u2019t Evil Enough",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/mosquitoes-virus-human-scents-attractive/661462/"
+    },
+    {
+      "text": "Penghua Wang",
+      "url": "https://www.theatlantic.com/author/penghua-wang/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/humility-tweet-self-promotion/661444/"
+    },
+    {
+      "text": "Truly Humbled to Be the Author of This Article",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/humility-tweet-self-promotion/661444/"
+    },
+    {
+      "text": "David Brooks",
+      "url": "https://www.theatlantic.com/author/david-brooks/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/north-carolina-democracy-doom-loop/661464/"
+    },
+    {
+      "text": "North Carolina Is a Warning",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/north-carolina-democracy-doom-loop/661464/"
+    },
+    {
+      "text": "James Piltch",
+      "url": "https://www.theatlantic.com/author/james-piltch/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/san-francisco-school-board-lowell/661470/"
+    },
+    {
+      "text": "If It Can Happen in San Francisco, It Can Happen Anywhere",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/san-francisco-school-board-lowell/661470/"
+    },
+    {
+      "text": "Gary Kamiya",
+      "url": "https://www.theatlantic.com/author/gary-kamiya/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/climate-change-vancouver-seafood-restaurant-menus/661465/"
+    },
+    {
+      "text": "You Can Spot Climate Change in Old Restaurant Menus",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/climate-change-vancouver-seafood-restaurant-menus/661465/"
+    },
+    {
+      "text": "Ian Rose",
+      "url": "https://www.theatlantic.com/author/ian-rose/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/the-true-meaning-of-no-trespass/661471/"
+    },
+    {
+      "text": "What Lies Behind That \u2018No Trespass\u2019 Sign",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/the-true-meaning-of-no-trespass/661471/"
+    },
+    {
+      "text": "Brian Sawers",
+      "url": "https://www.theatlantic.com/author/brian-sawers/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/january-6-bennie-thompson-trump-blame/661466/"
+    },
+    {
+      "text": "The January 6 Committee Is Going to Have the Final Word",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/january-6-bennie-thompson-trump-blame/661466/"
+    },
+    {
+      "text": "Quinta Jurecic",
+      "url": "https://www.theatlantic.com/author/quinta-jurecic/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/nato-europe-america-trump-strategy/661459/"
+    },
+    {
+      "text": "The Accidental Trumpification of NATO",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/nato-europe-america-trump-strategy/661459/"
+    },
+    {
+      "text": "Tom McTague",
+      "url": "https://www.theatlantic.com/author/tom-mctague/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/pretenders-nick-lowe-elvis-costello-rock-nostalgia/661477/"
+    },
+    {
+      "text": "Rock Never Dies\u2014But It Does Get Older and Wiser",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/pretenders-nick-lowe-elvis-costello-rock-nostalgia/661477/"
+    },
+    {
+      "text": "Tom Nichols",
+      "url": "https://www.theatlantic.com/author/tom-nichols/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/nell-zinks-avalon-fails-give-life-its-narrator/661457/"
+    },
+    {
+      "text": "A Portrait of the Artist Who Never Makes Art",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/nell-zinks-avalon-fails-give-life-its-narrator/661457/"
+    },
+    {
+      "text": "Brandon Taylor",
+      "url": "https://www.theatlantic.com/author/brandon-taylor/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/laws-and-rights-after-roe/661456/"
+    },
+    {
+      "text": "What Comes After Roe?",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/laws-and-rights-after-roe/661456/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/respiratory-viruses-transmission-prevention-knowledge-action/661463/"
+    },
+    {
+      "text": "Don\u2019t Worry, It\u2019s Not COVID",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/respiratory-viruses-transmission-prevention-knowledge-action/661463/"
+    },
+    {
+      "text": "Jacob Stern",
+      "url": "https://www.theatlantic.com/author/jacob-stern/"
+    },
+    {
+      "text": "Popular",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "see all",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/"
+    },
+    {
+      "text": "America Is in Denial",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/"
+    },
+    {
+      "text": "Mitt Romney",
+      "url": "https://www.theatlantic.com/author/mitt-romney/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/02/covid-anti-vaccine-smoking/622819/"
+    },
+    {
+      "text": "COVID Won\u2019t End Up Like the Flu. It Will Be Like Smoking.",
+      "url": "https://www.theatlantic.com/health/archive/2022/02/covid-anti-vaccine-smoking/622819/"
+    },
+    {
+      "text": "Benjamin Mazer",
+      "url": "https://www.theatlantic.com/author/benjamin-mazer/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/top-gun-maverick-tom-cruise-us-military/661472/"
+    },
+    {
+      "text": "Hell Yeah, Tom Cruise",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/top-gun-maverick-tom-cruise-us-military/661472/"
+    },
+    {
+      "text": "Caitlin Flanagan",
+      "url": "https://www.theatlantic.com/author/caitlin-flanagan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/"
+    },
+    {
+      "text": "You\u2019re Not Allowed to Have the Best Sunscreens in the World",
+      "url": "https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/"
+    },
+    {
+      "text": "Amanda Mull",
+      "url": "https://www.theatlantic.com/author/amanda-mull/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/san-francisco-school-board-lowell/661470/"
+    },
+    {
+      "text": "If It Can Happen in San Francisco, It Can Happen Anywhere",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/san-francisco-school-board-lowell/661470/"
+    },
+    {
+      "text": "Gary Kamiya",
+      "url": "https://www.theatlantic.com/author/gary-kamiya/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/summer-air-travel-flights-cancelled/661385/"
+    },
+    {
+      "text": "Air Travel Is a Disaster Right Now. Here\u2019s Why.",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/summer-air-travel-flights-cancelled/661385/"
+    },
+    {
+      "text": "Derek Thompson",
+      "url": "https://www.theatlantic.com/author/derek-thompson/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/climate-change-vancouver-seafood-restaurant-menus/661465/"
+    },
+    {
+      "text": "You Can Spot Climate Change in Old Restaurant Menus",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/climate-change-vancouver-seafood-restaurant-menus/661465/"
+    },
+    {
+      "text": "Ian Rose",
+      "url": "https://www.theatlantic.com/author/ian-rose/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/american-involvement-ukraine-trump-election/661460/"
+    },
+    {
+      "text": "America\u2019s Necessary Myth for the World",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/american-involvement-ukraine-trump-election/661460/"
+    },
+    {
+      "text": "Tom McTague",
+      "url": "https://www.theatlantic.com/author/tom-mctague/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
+    },
+    {
+      "text": "America Is Growing Apart, Possibly for Good",
+      "url": "https://www.theatlantic.com/politics/archive/2022/06/red-and-blue-state-divide-is-growing-michael-podhorzer-newsletter/661377/"
+    },
+    {
+      "text": "Ronald Brownstein",
+      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/colorado-automatic-voter-registration-elections/661475/"
+    },
+    {
+      "text": "Actually Good News About Voting for a Change",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/colorado-automatic-voter-registration-elections/661475/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.theatlantic.com/newsletters/"
+    },
+    {
+      "text": "See All",
+      "url": "https://www.theatlantic.com/newsletters/"
+    },
+    {
+      "text": "The Atlantic's Privacy Policy",
+      "url": "https://www.theatlantic.com/privacy-policy/"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.theatlantic.com/terms-and-conditions/"
+    },
+    {
+      "text": "Crossword",
+      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
+    },
+    {
+      "text": "Play Crossword",
+      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
+    }
+  ],
+  "uniq": 797490177,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

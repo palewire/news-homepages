@@ -1,5 +1,5 @@
 {
-  "created": 1656971517,
+  "created": 1657023319,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -688,31 +688,73 @@
       "sha1": "f9e1ed86a2c6aed2fc591cfdf2bd1531082c290c"
     },
     {
+      "name": "pointreyeslight-2022-07-04T20:12:52.577596-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656990775",
+      "size": "923",
+      "md5": "2f7395fcfc3a7e06d5df61570a56e655",
+      "crc32": "faa675e4",
+      "sha1": "08a2564a3754886e4e2ed5a76c823b6efc61d787",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-07-04T20:12:52.577596-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656990777",
+      "size": "185",
+      "md5": "ddfac41f63809b6f9769aa7f7c3f1dd4",
+      "crc32": "84bcda13",
+      "sha1": "ae16863a87644138529161a7f9533ee62e6fc296",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-07-04T20:12:52.577596-07:00.jpg",
+      "source": "original",
+      "mtime": "1656990774",
+      "size": "241291",
+      "md5": "6c9ad284bd9f0c2cfe75e4347e4ce316",
+      "crc32": "f23e75e7",
+      "sha1": "11254a9e27ed5408468006d4ded7cca798baf9c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pointreyeslight-2022-07-04T20:12:52.577596-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pointreyeslight-2022-07-04T20:12:52.577596-07:00.jpg",
+      "mtime": "1656990844",
+      "size": "9066",
+      "md5": "fd2528b47ed3acdb5fafce74d8dec3fb",
+      "crc32": "120d1c30",
+      "sha1": "f9e1ed86a2c6aed2fc591cfdf2bd1531082c290c"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9cf5cd87ddb86b6fadc1fb563d7a694e064aac95",
-      "mtime": "1656971510",
-      "size": "15477",
-      "md5": "b4bbbff5858e9a79aa27d500698cfe7c",
-      "crc32": "cf5f1e25",
-      "sha1": "73e97a4604f4d385e86b00117eae062de6557b5c",
+      "btih": "4d1b79b60d7b5f82075bb7b687eb1ecfa95527be",
+      "mtime": "1656990847",
+      "size": "16350",
+      "md5": "e4c8f18b69ba2c34ba6256b7052f4121",
+      "crc32": "15f7f69b",
+      "sha1": "f9ef5c52d72efcc22ff2df77cadcd671279cc870",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pointreyeslight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56305484409f7687baac7ddef5e181d9",
+      "md5": "3586377edff7ec5e1671387cb3d1d79f",
       "summation": "md5"
     },
     {
       "name": "pointreyeslight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656971464",
-      "size": "86016",
-      "md5": "e4d1cd20490639902ace4c980eb6439b",
-      "crc32": "9339b9ec",
-      "sha1": "b5bc196d8cbde508ee90032afc4b22af3c249cb7",
+      "mtime": "1656990780",
+      "size": "98304",
+      "md5": "e5f529a46b9eb3f8d00acc77e3a8dc4e",
+      "crc32": "bec20c37",
+      "sha1": "07e3c4f6a25401cb95b4a15dce4e40973bf927a0",
       "format": "Metadata"
     },
     {
@@ -726,9 +768,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 69,
-  "item_last_updated": 1656971510,
-  "item_size": 4101293,
+  "files_count": 73,
+  "item_last_updated": 1656990847,
+  "item_size": 4365919,
   "metadata": {
     "identifier": "pointreyeslight-2022",
     "collection": [
@@ -745,10 +787,20 @@
     "publicdate": "2022-06-30 20:48:29",
     "addeddate": "2022-06-30 20:48:29"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 2031606393,
+  "pointreyeslight-2022": [
+    {
+      "text": "",
+      "url": "https://premedic.us/figurelamellibranch.php?b=3327"
+    },
+    {
+      "text": "Cloudflare",
+      "url": "https://www.cloudflare.com/5xx-error-landing/"
+    }
+  ],
+  "server": "ia801408.us.archive.org",
+  "uniq": 532301395,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

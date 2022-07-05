@@ -1,5 +1,5 @@
 {
-  "created": 1656971569,
+  "created": 1657023350,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/pucknews-2022",
@@ -2746,31 +2746,73 @@
       "sha1": "7c6cee443670e4df6a82a09ea2fc1c8c2e6215d8"
     },
     {
+      "name": "pucknews-2022-07-04T23:14:06.545115-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656990850",
+      "size": "15431",
+      "md5": "d19e8686da17d6720e8ed61a320dfa30",
+      "crc32": "72eb4a58",
+      "sha1": "19ea8cd3b285ecc98fe0566a815dec9511894f9c",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-07-04T23:14:06.545115-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656990851",
+      "size": "12126",
+      "md5": "cc71578ca5211098d3ae92ce9a65ee18",
+      "crc32": "4f13058e",
+      "sha1": "35e95655bd07833d248a7bca17cc42c4899df0df",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-07-04T23:14:06.545115-04:00.jpg",
+      "source": "original",
+      "mtime": "1656990848",
+      "size": "192285",
+      "md5": "bc93ce5537493c2509c6cd416ed12822",
+      "crc32": "cfc9caf1",
+      "sha1": "5cb10e11478f79163bd229aba790da4d7d441723",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-07-04T23:14:06.545115-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-07-04T23:14:06.545115-04:00.jpg",
+      "mtime": "1656990916",
+      "size": "8548",
+      "md5": "78e68fd15de7465f367be30052925eaf",
+      "crc32": "f9a65b5b",
+      "sha1": "ab528779c7a19490fe4c64395c579e413f1e2e2c"
+    },
+    {
       "name": "pucknews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d22933cb6ec389290336bf048af9d042d11aad9",
-      "mtime": "1656971564",
-      "size": "56033",
-      "md5": "8874b571e4c6877d0bf5309fa6b25d2a",
-      "crc32": "ad045a23",
-      "sha1": "fc5f4a7d030f66c275b916db4a32814c6d7932f4",
+      "btih": "a517f69bf78ca184c968e509f567abde73342638",
+      "mtime": "1656990919",
+      "size": "56862",
+      "md5": "e3af3696f1391cb222d7da9d819725ac",
+      "crc32": "8cda1d28",
+      "sha1": "4715c57ab1319213f029982f63d32e9161c76339",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pucknews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "650ae3311645674458eeda0c7250bc83",
+      "md5": "7869272daac918a6585c1f212b4dce25",
       "summation": "md5"
     },
     {
       "name": "pucknews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656971518",
-      "size": "315392",
-      "md5": "5b1dc62c02b0ed65ba1d1d219020f1b4",
-      "crc32": "19eb2076",
-      "sha1": "960bebf1789679d98abe109aec74d66101e221b3",
+      "mtime": "1656990855",
+      "size": "319488",
+      "md5": "d41ea0a4803e5fc687ed1b696f0f4e64",
+      "crc32": "8f909c49",
+      "sha1": "70d611494dda4882042616a61c08ffa868e1deef",
       "format": "Metadata"
     },
     {
@@ -2784,9 +2826,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 265,
-  "item_last_updated": 1656971564,
-  "item_size": 13820870,
+  "files_count": 269,
+  "item_last_updated": 1656990919,
+  "item_size": 14054185,
   "metadata": {
     "identifier": "pucknews-2022",
     "collection": [
@@ -2803,8 +2845,234 @@
     "publicdate": "2022-06-18 17:10:26",
     "addeddate": "2022-06-18 17:10:26"
   },
+  "pucknews-2022": [
+    {
+      "text": "HOLLYWOOD",
+      "url": "https://puck.news/category/hollywood/"
+    },
+    {
+      "text": "WALL STREET",
+      "url": "https://puck.news/category/wall-street/"
+    },
+    {
+      "text": "SILICON VALLEY",
+      "url": "https://puck.news/category/silicon-valley/"
+    },
+    {
+      "text": "WASHINGTON",
+      "url": "https://puck.news/category/washington/"
+    },
+    {
+      "text": "\n                      \n                      Matthew Belloni\n                    ",
+      "url": "https://puck.news/author/matthew-belloni/"
+    },
+    {
+      "text": "\n                      \n                      William D. Cohan\n                    ",
+      "url": "https://puck.news/author/william-cohan/"
+    },
+    {
+      "text": "\n                      \n                      Dylan Byers\n                    ",
+      "url": "https://puck.news/author/dylan-byers/"
+    },
+    {
+      "text": "Join Puck",
+      "url": "https://puck.news/subscribe/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://puck.news/newsletters/"
+    },
+    {
+      "text": "Authors",
+      "url": "https://puck.news/authors/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://puck.news/podcasts/"
+    },
+    {
+      "text": "\n                      ",
+      "url": "https://puck.news/"
+    },
+    {
+      "text": "\n                                ",
+      "url": "https://puck.news/"
+    },
+    {
+      "text": "Join Puck",
+      "url": "https://puck.news/subscribe/"
+    },
+    {
+      "text": "\n          \n            So, Which TV Networks Will Be Around in Five Years?\n          \n\n          \n            \n              \n                \n              \n            \n\n            \n              \n                                  \n                    \n                  \n                  \n                    Matthew Belloni\n                    \n                  \n                              \n\n              In this special July 4th Edition, I attempt to answer some of Hollywood\u2019s burning questions, like\u2026 What\u2019s the future of cable? Why is Netflix moving so fast on ads? What\u2019s the endgame for agents? And how much will Tom Cruise make on Top Gun: Maverick?\n              READ FULL STORY\n            \n          \n        ",
+      "url": "https://puck.news/so-which-tv-networks-will-be-around-in-five-years/"
+    },
+    {
+      "text": "\n                  \n                    Matthew Belloni\n                                        \u2022\n                    June 30, 2022\n                  \n\n                  CAA and the Barbelling of the Talent Business\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      Tim Cook and Eddy Cue. Rupert and Lachlan Murdoch. Bryan Lourd and Chris Silbermann??\u00a0 It\u2019s happening. At the Allen & Co. mogul retreat next week in Sun Valley, the CAA contingent will be perhaps the most intriguing executive pair strolling that traditional resort-casual perp walk past the gawking media. Lourd, who now runs Hollywood\u2019s largest [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
+      "url": "https://puck.news/caa-and-the-barbelling-of-the-talent-business/"
+    },
+    {
+      "text": "MORE HOLLYWOOD STORIES",
+      "url": "https://puck.news/category/hollywood/"
+    },
+    {
+      "text": "\n                  \n                    Theodore Schleifer\n                                        \u2022\n                    June 28, 2022\n                  \n\n                  Silicon D.C.\u2019s Post-Crash Reckoning\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      Silicon Valley sources and friends who have received my midnight texts and emails already know that I\u2019m darting across various time zones this week. While I\u2019m on the road, however, I connected with Puck\u2019s executive editor, Benjamin Landy, to discuss the current mood in political and philanthropic circles following a tech-stock meltdown that has drained [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
+      "url": "https://puck.news/silicon-d-c-s-post-crash-reckoning/"
+    },
+    {
+      "text": "MORE SILICON VALLEY STORIES",
+      "url": "https://puck.news/category/silicon-valley/"
+    },
+    {
+      "text": "\n                  \n                    William D. Cohan\n                                        \u2022\n                    July 3, 2022\n                  \n\n                  Will Trump Get Indicted?\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      There\u2019s not a lot of love for Donald Trump on Wall Street, for obvious reasons. He\u2019s notoriously poor at paying his debts and has stiffed major banks out of hundreds of millions of dollars over the years. Then there was his regrettable one term as president, during which he upended nearly every civic norm and [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
+      "url": "https://puck.news/will-trump-get-indicted/"
+    },
+    {
+      "text": "MORE WALL STREET STORIES",
+      "url": "https://puck.news/category/wall-street/"
+    },
+    {
+      "text": "\n                  \n                    Tara Palmeri\n                                        \u2022\n                    June 30, 2022\n                  \n\n                  WaPo Sweepstakes & The Cassidy Hutchinson Market\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      In Washington, funerals aren\u2019t merely the place to mourn. They\u2019re also a ripe setting for gossip, politicking, business card exchanges, and more\u2014a mosaic of only-in-D.C. behavior that Mark Leibovich depicted brilliantly in the opening chapter of This Town, where he portrayed how Tim Russert\u2019s state-like funeral devolved into a networking happy hour between legislators, top [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
+      "url": "https://puck.news/wapo-sweepstakes-the-cassidy-hutchinson-market/"
+    },
+    {
+      "text": "MORE WASHINGTON STORIES",
+      "url": "https://puck.news/category/washington/"
+    },
+    {
+      "text": "\n          \n            Tina Nguyen\n          \n          \u2022\n          June 29, 2022\n          Is the G.O.P. Consciously Uncoupling from Trump?\n        ",
+      "url": "https://puck.news/is-the-g-o-p-consciously-uncoupling-from-trump/"
+    },
+    {
+      "text": "\n          \n            Tara Palmeri\n          \n          \u2022\n          June 30, 2022\n          WaPo Sweepstakes & The Cassidy Hutchinson Market\n        ",
+      "url": "https://puck.news/wapo-sweepstakes-the-cassidy-hutchinson-market/"
+    },
+    {
+      "text": "\n          \n            William D. Cohan\n          \n          \u2022\n          June 29, 2022\n          The Billion-Dollar Book Deal of the Century\n        ",
+      "url": "https://puck.news/the-billion-dollar-book-deal-of-the-century/"
+    },
+    {
+      "text": "listen To Our Podcasts",
+      "url": "https://puck.news/podcasts/"
+    },
+    {
+      "text": "\n            Baratunde Thurston\n            A best-selling author, podcast and television host, and cultural critic focused on the intersection of race, tech, democracy, and climate change in America.\n          ",
+      "url": "https://puck.news/author/baratunde-thurston/"
+    },
+    {
+      "text": "\n            Dylan Byers\n            A veteran media reporter who has served at NBC News, CNN, and Politico, reporting on the business of media, technology, and entertainment.\n          ",
+      "url": "https://puck.news/author/dylan-byers/"
+    },
+    {
+      "text": "\n            Eriq Gardner\n            Former legal editor-at-large at The Hollywood Reporter; now Founding Partner and National Correspondent for Puck, reporting on the intersection of law, media, Hollywood, and Wall Street.\n          ",
+      "url": "https://puck.news/author/eriq-gardner/"
+    },
+    {
+      "text": "\n            Julia Ioffe\n            A veteran of The Atlantic, The New Yorker, and Politico reporting from Washington, D.C. on politics and media after Trump.\n          ",
+      "url": "https://puck.news/author/julia-ioffe/"
+    },
+    {
+      "text": "\n            Matthew Belloni\n            Formerly the editor of The Hollywood Reporter, and an entertainment lawyer, Belloni covers the inside conversation about money and power in Hollywood.\n          ",
+      "url": "https://puck.news/author/matthew-belloni/"
+    },
+    {
+      "text": "\n            Peter Hamby\n            Emmy award-winning journalist and host of Snapchat\u2019s Good Luck America, reporting on politics, media, and technology.\n          ",
+      "url": "https://puck.news/author/peter-hamby/"
+    },
+    {
+      "text": "\n            Tara Palmeri\n            A former Playbook lead author and ABC News White House Correspondent, now reporting on the convergence of Capitol Hill, K Street, the West Wing, and the D.C. media companies who cover it all.\n          ",
+      "url": "https://puck.news/author/tara-palmeri/"
+    },
+    {
+      "text": "\n            Theodore Schleifer\n            A former Recode and CNN reporter, now covering power, influence, and money in Silicon Valley.\n          ",
+      "url": "https://puck.news/author/theodore-schleifer/"
+    },
+    {
+      "text": "\n            Tina Nguyen\n            Formerly a political correspondent at Politico and Vanity Fair, chronicling the egos and intrigues inside Trumpworld.\n          ",
+      "url": "https://puck.news/author/tina-nguyen/"
+    },
+    {
+      "text": "\n            William D. Cohan\n            A bestselling author, financial journalist, and former M&A banker, covering what\u2019s really happening on Wall Street.\n          ",
+      "url": "https://puck.news/author/william-cohan/"
+    },
+    {
+      "text": "\n              ",
+      "url": "https://puck.news/"
+    },
+    {
+      "text": "Terms",
+      "url": "https://puck.news/terms/"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://puck.news/privacy/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://puck.news/contact/"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://puck.news/faq"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/puckdotnews/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/PuckNews"
+    },
+    {
+      "text": "\n\n\n\n\t\n\t\n\t\n\n",
+      "url": "https://www.instagram.com/puckdotnews/"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/pucknews"
+    },
+    {
+      "text": "I DID NOT RECEIVE A LINK",
+      "url": "mailto:fritz@puck.news"
+    },
+    {
+      "text": "try again",
+      "url": ""
+    },
+    {
+      "text": "fritz@puck.news",
+      "url": "mailto:fritz@puck.news"
+    },
+    {
+      "text": "\n                  \n                    \n                  \n                  Sign Up with Google\n                ",
+      "url": "/wp-login.php?redirect_to=%2F&connection=google-oauth2"
+    },
+    {
+      "text": "\n                  \n                    \n                  \n                  Sign Up with Apple\n                ",
+      "url": "/wp-login.php?redirect_to=%2F&connection=apple"
+    },
+    {
+      "text": "I DID NOT RECEIVE A LINK",
+      "url": "mailto:fritz@puck.news"
+    },
+    {
+      "text": "try again",
+      "url": ""
+    },
+    {
+      "text": "fritz@puck.news",
+      "url": "mailto:fritz@puck.news"
+    },
+    {
+      "text": "\n                      \n                        \n                      \n                      Sign in with Google\n                    ",
+      "url": "/wp-login.php?redirect_to=%2F&connection=google-oauth2"
+    },
+    {
+      "text": "\n                      \n                        \n                      \n                      Sign in with Apple\n                    ",
+      "url": "/wp-login.php?redirect_to=%2F&connection=apple"
+    }
+  ],
   "server": "ia802501.us.archive.org",
-  "uniq": 95699311,
+  "uniq": 603272636,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

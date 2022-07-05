@@ -1,5 +1,5 @@
 {
-  "created": 1656971729,
+  "created": 1657023000,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/24/items/htrnews-2022",
@@ -6044,31 +6044,73 @@
       "sha1": "6edd6e03e4bfced79bfbeca0859c564aba18c89c"
     },
     {
+      "name": "htrnews-2022-07-04T20:56:13.316154-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656986185",
+      "size": "17716",
+      "md5": "d6b4955b0bb001cccb1cd58d6b7316d5",
+      "crc32": "a01ab891",
+      "sha1": "f92e2b46398e80a3da983f382cdc91d5bf58cdfa",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-07-04T20:56:13.316154-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656986186",
+      "size": "33556",
+      "md5": "d33b86ec2c6fea1a6cad05813e97b44f",
+      "crc32": "1aea2434",
+      "sha1": "5c4c690d0ad94c4d99ba0d0d837b1ff86ec0a618",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-07-04T20:56:13.316154-05:00.jpg",
+      "source": "original",
+      "mtime": "1656986183",
+      "size": "251148",
+      "md5": "34f885ecee742f38d4439c1ea4356167",
+      "crc32": "b8f4ca53",
+      "sha1": "5b992751bc327704ee375b3c6ed3a98fe10ccd74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-07-04T20:56:13.316154-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-07-04T20:56:13.316154-05:00.jpg",
+      "mtime": "1656986245",
+      "size": "9360",
+      "md5": "99badcf8e777316249444ce2e2b9ecdc",
+      "crc32": "a609a190",
+      "sha1": "95579c8775d7185e4cb13ac9f20f59b60e2d4951"
+    },
+    {
       "name": "htrnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73d726b416dad02437b8edee797cc2268a223cc8",
-      "mtime": "1656971723",
-      "size": "121837",
-      "md5": "ab8705c98a446fbd41b247344a05f70f",
-      "crc32": "c59fa0c5",
-      "sha1": "57c96421e11ce9dbe238137ab8f1cc7fd21ce45b",
+      "btih": "72845c7a297759ca60eaf2b349898fdc0bb0e43c",
+      "mtime": "1656986252",
+      "size": "122682",
+      "md5": "d9b0ef364b56cdbdafd8a350b4110b4c",
+      "crc32": "8d357066",
+      "sha1": "4443cb7bd249f01929d5b1f6ce504caed01ca43d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "htrnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a868c3992d6538e7b859880f3c931673",
+      "md5": "c7e68c513ff4aa00c92e63f7e920482a",
       "summation": "md5"
     },
     {
       "name": "htrnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656971660",
-      "size": "671744",
-      "md5": "a7d5732bf59fd1f3c724be6b705d19c0",
-      "crc32": "08b4dd16",
-      "sha1": "99d6afb69c9344875100bdf876f382a44f7faaa6",
+      "mtime": "1656986190",
+      "size": "675840",
+      "md5": "fc423163f2fb7a5c0f4f3e8cdebab2c0",
+      "crc32": "36bca23a",
+      "sha1": "d165cefa9e142ee199c2c1f733ccc5f61e68b519",
       "format": "Metadata"
     },
     {
@@ -6082,9 +6124,627 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 579,
-  "item_last_updated": 1656971723,
-  "item_size": 48768375,
+  "files_count": 583,
+  "htrnews-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Packers",
+      "url": "/packers/"
+    },
+    {
+      "text": "Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.htrnews.com/obituaries/"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022FOURTHJULY&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://login.htrnews.com/PMAC-GUP/authenticate/?success-url=https%3A%2F%2Fwww.htrnews.com%2F&cancel-url=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": " Weather leads to canceled fireworks in some areas; others 'good to go'",
+      "url": "/story/news/2022/07/04/manitowoc-two-rivers-postpones-cancels-fireworks-fourth-of-july-2022-green-bay-to-take-place/7805542001/"
+    },
+    {
+      "text": "Man arrested in shooting parade shooting that killed 6, hurt dozens",
+      "url": "/story/news/nation/2022/07/04/shooting-disrupts-fourth-july-parade-highland-park/7802855001/"
+    },
+    {
+      "text": "No injuries reported in situation involving SWAT in Manitowoc",
+      "url": "/story/news/2022/07/04/swat-team-responds-shots-fired-incident-manitowoc/7804986001/"
+    },
+    {
+      "text": "This Wisconsin flagpole will soon lose its distinction as the world\u2019s tallest free-flying US flag",
+      "url": "/story/news/2022/06/29/sheboygan-acuity-us-flag-may-beat-worlds-tallest-maine-flagpole/7700111001/"
+    },
+    {
+      "text": " What should the candidates be talking about as they\u2026",
+      "url": "/story/news/solutions/2022/06/28/what-should-candidates-talking-they-campaign-wisconsin/7690892001/"
+    },
+    {
+      "text": " Manitowoc postpones, Two Rivers cancels Fourth of July\u2026",
+      "url": "/story/news/2022/06/27/manitowoc-fourth-july-and-subfest-activities-schedule-2022/7724738001/"
+    },
+    {
+      "text": " What each move the Bucks made this offseason means for\u2026",
+      "url": "/story/sports/nba/bucks/2022/07/01/milwaukee-bucks-make-moves-with-bobby-portis-pat-connaughton-marjon-beauchamp-thanasis-joe-ingles/7782763001/"
+    },
+    {
+      "text": " Since 1922, summer crowds have streamed into Gessert's\u2026",
+      "url": "/story/life/food/2022/06/30/gesserts-wisconsin-serves-authentic-ice-cream-parlor-experience/9967558002/"
+    },
+    {
+      "text": "NASCAR: Tyler Reddick wins Kwik Trip 250 at Road America",
+      "url": "/picture-gallery/sports/motor/2022/07/03/nascar-tyler-reddick-wins-kwik-trip-250-road-america/7801080001/"
+    },
+    {
+      "text": "Sheboygan Fourth of July parade features plenty of smiles\u00a0",
+      "url": "/picture-gallery/news/2022/07/04/sheboygan-fourth-july-features-plenty-smiles/7804623001/"
+    },
+    {
+      "text": "Fourth of July: Rain dampens holiiday\u00a0",
+      "url": "/picture-gallery/news/2022/07/04/fourth-july-rain-dampens-activities-but-not-fun/7806287001/"
+    },
+    {
+      "text": " Manitowoc postpones, Two Rivers cancels Fourth of July fireworks\u00a0",
+      "url": "/story/news/2022/06/27/manitowoc-fourth-july-and-subfest-activities-schedule-2022/7724738001/"
+    },
+    {
+      "text": "More in News",
+      "url": "/news/"
+    },
+    {
+      "text": " Wisconsin Soccer Coaches Association announces all-state girls teams\u00a0",
+      "url": "/story/sports/high-school/soccer/2022/06/30/kimberly-emily-mccarthy-dc-everest-jenna-baumann-all-state-2022-wisconsin-soccer-coaches-association/7751556001/"
+    },
+    {
+      "text": " This Manitowoc Lincoln sophomore throws 90 mph and is garnering interest from Power 5 schools\u00a0",
+      "url": "/story/sports/high-school/baseball/2022/06/23/manitowoc-lincolns-noah-wech-has-interest-sec-acc-programs/7686274001/"
+    },
+    {
+      "text": " What each move the Bucks made this offseason means for 2022-23\u00a0",
+      "url": "/story/sports/nba/bucks/2022/07/01/milwaukee-bucks-make-moves-with-bobby-portis-pat-connaughton-marjon-beauchamp-thanasis-joe-ingles/7782763001/"
+    },
+    {
+      "text": "More in Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": " Bank First gets regulatory approval for\u00a0merger with Denmark Bancshares set to take effect Aug. 12\u00a0",
+      "url": "/story/money/2022/06/30/bank-first-gets-regulatory-approval-merger-denmark-bancshares/7783204001/"
+    },
+    {
+      "text": " Manitowoc, find out who bought and sold property in the city\u00a0",
+      "url": "/story/money/2022/07/01/manitowoc-homes-sold-and-real-estate-transfers-july-1-2022/7767779001/"
+    },
+    {
+      "text": " Scam targets Facebook Marketplace sellers with account upgrade request\u00a0",
+      "url": "/story/marketplace/2022/06/30/facebook-marketplace-scams-target-sellers-via-account-upgrade-requests-refunds/7766777001/"
+    },
+    {
+      "text": "More in Business",
+      "url": "/business/"
+    },
+    {
+      "text": " Since 1922, summer crowds have streamed into Gessert's Ice Cream in Elkhart Lake, this is why\u00a0",
+      "url": "/story/life/food/2022/06/30/gesserts-wisconsin-serves-authentic-ice-cream-parlor-experience/9967558002/"
+    },
+    {
+      "text": " Vic Ferrari\u2019s final local concert kicks off July 4 weekend in Manitowoc. Here are 5 things to do.\u00a0",
+      "url": "/story/entertainment/2022/06/29/vic-ferrari-final-show-manitowoc-kicks-off-fourth-july-weekend/7749895001/"
+    },
+    {
+      "text": " Maroon 5 cancels Resch Center concert\u00a0",
+      "url": "/story/entertainment/music/2022/06/30/maroon-5-cancels-resch-center-concert-scheduled-aug-15-green-bay/7779906001/"
+    },
+    {
+      "text": "More in Go 920!",
+      "url": "/go-920/"
+    },
+    {
+      "text": " This photographer captured Manitowoc County in photos unlike anyone else at turn of the 20th century\u00a0",
+      "url": "/story/life/2022/06/30/manitowoc-picture-postcards-1800-s-and-photographer-h-c-benke/7765651001/"
+    },
+    {
+      "text": " 'Today' show visits Lake Geneva for summer getaways series\u00a0",
+      "url": "/story/travel/wisconsin/2022/06/27/today-show-lake-geneva-wisconsin-summer-getaways-series/7746522001/"
+    },
+    {
+      "text": " 5 small-town Wisconsin ice cream shops with big-city flavor worth the drive this summer\u00a0",
+      "url": "/story/life/food/2021/06/25/best-small-town-ice-cream-shops-wisconsin/7220049002/"
+    },
+    {
+      "text": "More in Life",
+      "url": "/life/"
+    },
+    {
+      "text": " 'We hold these truths to be self-evident.' The Declaration of Independence.\u00a0",
+      "url": "/story/opinion/2022/07/04/we-hold-these-truths-declaration-independence/7755127001/"
+    },
+    {
+      "text": " Opinion: Manitowoc County tourism rebounds from pandemic with $112.2M in visitor spending in 2021\u00a0Jason Ring\u00a0",
+      "url": "/story/opinion/2022/06/30/manitowoc-county-tourism-revenue-rebounds-covid-pandemic-2021/7759254001/"
+    },
+    {
+      "text": " What should the candidates be talking about as they campaign in Wisconsin? Tell us.\u00a0",
+      "url": "/story/news/solutions/2022/06/28/what-should-candidates-talking-they-campaign-wisconsin/7690892001/"
+    },
+    {
+      "text": "More in Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "",
+      "url": "/picture-gallery/news/2022/07/04/fourth-july-sheboygans-venetian-boat-parade/7801634001/"
+    },
+    {
+      "text": "Get Summer Waves!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/AIA-and-Beachwaver-Summer/?itm_campaign=AIA%20and%20Beachwaver%20Summer%20Sweeps&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Enter Now!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/Bourbon-and-Beyond-VIP-Experience/?itm_campaign=Bourbon%20and%20Beyond%20VIP%20NON%20Louisville&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Winners Announced!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://htrnews.secondstreetapp.com/Best-of-the-Lakeshore-2022-Winners/?itm_campaign=Best%20of%20the%20Lakeshore%202022&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "anymuscle.com",
+      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV133&utm_campaign=1010948&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC9wlEo7IWL7Pi4_fUe#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC9wlEo7IWL7Pi4_fUe"
+    },
+    {
+      "text": "4 Main Signs You Should Hire a Car Accident Lawyeranymuscle.com|",
+      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV133&utm_campaign=1010948&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC9wlEo7IWL7Pi4_fUe#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC9wlEo7IWL7Pi4_fUe"
+    },
+    {
+      "text": "",
+      "url": "https://anymuscle.com/when-do-you-need-to-hire-a-car-accident-lawyer/?utm_source=Taboola&utm_medium=WHEN+DO+YOU+NEED+TO+HIRE+A+CAR+ACCIDENT+LAWYER+ADV133&utm_campaign=1010948&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC9wlEo7IWL7Pi4_fUe#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC9wlEo7IWL7Pi4_fUe"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "ViralBezz",
+      "url": "https://viralbezz.com/cats-slap/?utm_source=AhmedCat&utm_medium=referral&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCmo1EondSKtcq59bymAQ#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCmo1EondSKtcq59bymAQ"
+    },
+    {
+      "text": "4 Reasons for Cats Slap Each OtherViralBezz|",
+      "url": "https://viralbezz.com/cats-slap/?utm_source=AhmedCat&utm_medium=referral&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCmo1EondSKtcq59bymAQ#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCmo1EondSKtcq59bymAQ"
+    },
+    {
+      "text": "",
+      "url": "https://viralbezz.com/cats-slap/?utm_source=AhmedCat&utm_medium=referral&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCmo1EondSKtcq59bymAQ#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCmo1EondSKtcq59bymAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "fit-2-me",
+      "url": "https://my.fit-2-me.com/the-strongest-10-exercises-to-build-chest-muscle-growth-2/?utm_source=taboola&utm_medium=referral&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCa4k8oidCBq-_6sbs4#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCa4k8oidCBq-_6sbs4"
+    },
+    {
+      "text": "Simple Efficient chest Workouts To Build Might Musclefit-2-me|",
+      "url": "https://my.fit-2-me.com/the-strongest-10-exercises-to-build-chest-muscle-growth-2/?utm_source=taboola&utm_medium=referral&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCa4k8oidCBq-_6sbs4#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCa4k8oidCBq-_6sbs4"
+    },
+    {
+      "text": "",
+      "url": "https://my.fit-2-me.com/the-strongest-10-exercises-to-build-chest-muscle-growth-2/?utm_source=taboola&utm_medium=referral&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCa4k8oidCBq-_6sbs4#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCa4k8oidCBq-_6sbs4"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "FinancialAdvisorHeroes",
+      "url": "https://financialadvisorheroes.com/big-bank-accounts/net-worth-monica-lewinsky?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=7321513&utm_term=Monica+Lewinsky%27s+Net+Worth+Left+Us+In+Disbelief&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1e9625466f22d68a26246c65143216b5.jpg&ts=2022-07-05+01%3A41%3A46&tbv=HeFIEHcIxSCGs3MpQXxLKDLo5m7q74m0lG1cqS9GnQQ=&pcl=1"
+    },
+    {
+      "text": "Monica Lewinsky's Net Worth Left Us In DisbeliefFinancialAdvisorHeroes|",
+      "url": "https://financialadvisorheroes.com/big-bank-accounts/net-worth-monica-lewinsky?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=7321513&utm_term=Monica+Lewinsky%27s+Net+Worth+Left+Us+In+Disbelief&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1e9625466f22d68a26246c65143216b5.jpg&ts=2022-07-05+01%3A41%3A46&tbv=HeFIEHcIxSCGs3MpQXxLKDLo5m7q74m0lG1cqS9GnQQ=&pcl=1"
+    },
+    {
+      "text": "",
+      "url": "https://financialadvisorheroes.com/big-bank-accounts/net-worth-monica-lewinsky?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=7321513&utm_term=Monica+Lewinsky%27s+Net+Worth+Left+Us+In+Disbelief&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1e9625466f22d68a26246c65143216b5.jpg&ts=2022-07-05+01%3A41%3A46&tbv=HeFIEHcIxSCGs3MpQXxLKDLo5m7q74m0lG1cqS9GnQQ=&pcl=1"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Elle",
+      "url": "https://www.elle.com/culture/celebrities/g28397/like-father-like-son?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_pm_g28397&utm_content=gannettcompany-heraldtimesreporter#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCyqkQos73tstz0qYHiAQ"
+    },
+    {
+      "text": "These Celebrity Fathers and Sons Look Almost Identical at the Same AgeElle|",
+      "url": "https://www.elle.com/culture/celebrities/g28397/like-father-like-son?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_pm_g28397&utm_content=gannettcompany-heraldtimesreporter#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCyqkQos73tstz0qYHiAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.elle.com/culture/celebrities/g28397/like-father-like-son?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_pm_g28397&utm_content=gannettcompany-heraldtimesreporter#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCyqkQos73tstz0qYHiAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Doctor Report",
+      "url": "https://doctoreport.com/trending/celebs-caught-without-makeup-who-prove-cosmetics-are-just-another-way-to-apply-more-beauty-to-their-faces-meghan-markle-mors?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=19602905&utm_term=Gwen+Stefani&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe3b1f74398dd581b4007a614f98c72fa.jpg&id=2022-07-05+01%3A41%3A46&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=19602905&utm_term=Gwen+Stefani%27s+No+Makeup+Photo%3A+Her+Real+Face+Is+Quite+Different&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe3b1f74398dd581b4007a614f98c72fa.jpg&ts=2022-07-05+01%3A41%3A46&tbv=HX97Ar_9UPsThQwDc3t7aWlb2H1u-xJWkWLK11Hb5Sw=&pcl=1&br=1"
+    },
+    {
+      "text": "Gwen Stefani's No Makeup Photo: Her Real Face Is Quite DifferentDoctor Report|",
+      "url": "https://doctoreport.com/trending/celebs-caught-without-makeup-who-prove-cosmetics-are-just-another-way-to-apply-more-beauty-to-their-faces-meghan-markle-mors?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=19602905&utm_term=Gwen+Stefani&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe3b1f74398dd581b4007a614f98c72fa.jpg&id=2022-07-05+01%3A41%3A46&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=19602905&utm_term=Gwen+Stefani%27s+No+Makeup+Photo%3A+Her+Real+Face+Is+Quite+Different&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe3b1f74398dd581b4007a614f98c72fa.jpg&ts=2022-07-05+01%3A41%3A46&tbv=HX97Ar_9UPsThQwDc3t7aWlb2H1u-xJWkWLK11Hb5Sw=&pcl=1&br=1"
+    },
+    {
+      "text": "",
+      "url": "https://doctoreport.com/trending/celebs-caught-without-makeup-who-prove-cosmetics-are-just-another-way-to-apply-more-beauty-to-their-faces-meghan-markle-mors?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=19602905&utm_term=Gwen+Stefani&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe3b1f74398dd581b4007a614f98c72fa.jpg&id=2022-07-05+01%3A41%3A46&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=19602905&utm_term=Gwen+Stefani%27s+No+Makeup+Photo%3A+Her+Real+Face+Is+Quite+Different&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe3b1f74398dd581b4007a614f98c72fa.jpg&ts=2022-07-05+01%3A41%3A46&tbv=HX97Ar_9UPsThQwDc3t7aWlb2H1u-xJWkWLK11Hb5Sw=&pcl=1&br=1"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Geas.best",
+      "url": "https://geasbest.com/bathroom/?utm_source=taboola&utm_medium={BathroomReda}&utm_campaign=1010948#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCPgU8o8_vmrMHu58PHAQ"
+    },
+    {
+      "text": "Top 18 Reasons Why Cats Follow Us to The BathroomGeas.best|",
+      "url": "https://geasbest.com/bathroom/?utm_source=taboola&utm_medium={BathroomReda}&utm_campaign=1010948#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCPgU8o8_vmrMHu58PHAQ"
+    },
+    {
+      "text": "",
+      "url": "https://geasbest.com/bathroom/?utm_source=taboola&utm_medium={BathroomReda}&utm_campaign=1010948#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCPgU8o8_vmrMHu58PHAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "PensAndPatron",
+      "url": "https://pensandpatron.com/lists/figure-skaters-tb-5/?prch=3559d65349661b44ffb9bf7a3b1c1036&utm_campaign=Figure%20Skaters%20TAN%20MBS%202AD%20KatarinaOksana%20SoHy0702%20SB%20En%20-%20Desktop%20USA&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_term=25+Iconic+Figure+Skaters+-+And+How+They+Look+Now&utm_content=http%3A%2F%2Fdjdy6whc2vqt5.cloudfront.net%2F3f53d8c4-199b-4a56-a397-48bc0b6acfb7.jpg&psl=g_c5afe5&c=bF647r3Ids1w2diOzaMFl1JRATfOsq3cc1sWs3YgYMU=&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC7hU4o652Mif_tsMv4AQ#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC7hU4o652Mif_tsMv4AQ"
+    },
+    {
+      "text": "25 Iconic Figure Skaters - And How They Look NowPensAndPatron|",
+      "url": "https://pensandpatron.com/lists/figure-skaters-tb-5/?prch=3559d65349661b44ffb9bf7a3b1c1036&utm_campaign=Figure%20Skaters%20TAN%20MBS%202AD%20KatarinaOksana%20SoHy0702%20SB%20En%20-%20Desktop%20USA&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_term=25+Iconic+Figure+Skaters+-+And+How+They+Look+Now&utm_content=http%3A%2F%2Fdjdy6whc2vqt5.cloudfront.net%2F3f53d8c4-199b-4a56-a397-48bc0b6acfb7.jpg&psl=g_c5afe5&c=bF647r3Ids1w2diOzaMFl1JRATfOsq3cc1sWs3YgYMU=&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC7hU4o652Mif_tsMv4AQ#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC7hU4o652Mif_tsMv4AQ"
+    },
+    {
+      "text": "",
+      "url": "https://pensandpatron.com/lists/figure-skaters-tb-5/?prch=3559d65349661b44ffb9bf7a3b1c1036&utm_campaign=Figure%20Skaters%20TAN%20MBS%202AD%20KatarinaOksana%20SoHy0702%20SB%20En%20-%20Desktop%20USA&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_term=25+Iconic+Figure+Skaters+-+And+How+They+Look+Now&utm_content=http%3A%2F%2Fdjdy6whc2vqt5.cloudfront.net%2F3f53d8c4-199b-4a56-a397-48bc0b6acfb7.jpg&psl=g_c5afe5&c=bF647r3Ids1w2diOzaMFl1JRATfOsq3cc1sWs3YgYMU=&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC7hU4o652Mif_tsMv4AQ#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyC7hU4o652Mif_tsMv4AQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "8Greatest",
+      "url": "http://8greatest.com/2021/02/18/10-most-beautiful-cities-in-italy-see-and-die/?utm_source=taboola2/boats&utm_medium=referral&utm_term=gannettcompany-heraldtimesreporter&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fb4926dd299701268d29840be4d5c01be.jpg &utm_term=gannettcompany-heraldtimesreporter#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCM7EEom4223-XngPnhAQ"
+    },
+    {
+      "text": "10 most beautiful cities in Italy: see and die!8Greatest|",
+      "url": "http://8greatest.com/2021/02/18/10-most-beautiful-cities-in-italy-see-and-die/?utm_source=taboola2/boats&utm_medium=referral&utm_term=gannettcompany-heraldtimesreporter&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fb4926dd299701268d29840be4d5c01be.jpg &utm_term=gannettcompany-heraldtimesreporter#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCM7EEom4223-XngPnhAQ"
+    },
+    {
+      "text": "",
+      "url": "http://8greatest.com/2021/02/18/10-most-beautiful-cities-in-italy-see-and-die/?utm_source=taboola2/boats&utm_medium=referral&utm_term=gannettcompany-heraldtimesreporter&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fb4926dd299701268d29840be4d5c01be.jpg &utm_term=gannettcompany-heraldtimesreporter#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyCM7EEom4223-XngPnhAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "saanjees",
+      "url": "https://saanjees.com/?utm_source=Taboola&utm_term=gannettcompany-heraldtimesreporter_1010948&utm_medium=referral&utm_campaign=17709828&utm_id=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyDRgk4ojInl9pq4iZ8u&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyDRgk4ojInl9pq4iZ8u#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyDRgk4ojInl9pq4iZ8u"
+    },
+    {
+      "text": "Start Play Best Online Games Heresaanjees|",
+      "url": "https://saanjees.com/?utm_source=Taboola&utm_term=gannettcompany-heraldtimesreporter_1010948&utm_medium=referral&utm_campaign=17709828&utm_id=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyDRgk4ojInl9pq4iZ8u&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyDRgk4ojInl9pq4iZ8u#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyDRgk4ojInl9pq4iZ8u"
+    },
+    {
+      "text": "",
+      "url": "https://saanjees.com/?utm_source=Taboola&utm_term=gannettcompany-heraldtimesreporter_1010948&utm_medium=referral&utm_campaign=17709828&utm_id=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyDRgk4ojInl9pq4iZ8u&tblci=GiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyDRgk4ojInl9pq4iZ8u#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyDRgk4ojInl9pq4iZ8u"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Fourth of July: Rain dampens holiiday\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "/picture-gallery/news/2022/07/04/fourth-july-rain-dampens-activities-but-not-fun/7806287001/"
+    },
+    {
+      "text": "'We hold these truths to be self-evident.' The Declaration of Independence.",
+      "url": "/story/opinion/2022/07/04/we-hold-these-truths-declaration-independence/7755127001/"
+    },
+    {
+      "text": "Wisconsin fireworks laws: Here's what's legal and what's not",
+      "url": "/story/news/2019/07/01/wisconsin-fireworks-laws-whats-illegal-fourth-july/1594988001/"
+    },
+    {
+      "text": "Sheboygan Fourth of July parade features plenty of smiles\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "/picture-gallery/news/2022/07/04/sheboygan-fourth-july-features-plenty-smiles/7804623001/"
+    },
+    {
+      "text": "Get a six-month Herald Times Reporter subscription for $1",
+      "url": "/story/news/local/2018/02/06/herald-times-reporter-digital-subscription/1087736001/"
+    },
+    {
+      "text": "",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Right-Rail"
+    },
+    {
+      "text": "BindRight Auto Insurance Quotes",
+      "url": "https://www.bindright.com/pa/?tg_ref=brwmd&camp_id=Virginia+Drivers+With+No+Tickets+In+3+Years+Are+Shocked+By+This+Insurance+Tip&keyword=gannettcompany-heraldtimesreporter&sub2=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F0f8c329b00cff32a9a6f6f927d2f4278.jpeg#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyD0qVEoxoCWpY_fh5T9AQ"
+    },
+    {
+      "text": "Virginia Drivers With No Tickets In 3 Years Are Shocked By This Insurance TipBindRight Auto Insurance Quotes|",
+      "url": "https://www.bindright.com/pa/?tg_ref=brwmd&camp_id=Virginia+Drivers+With+No+Tickets+In+3+Years+Are+Shocked+By+This+Insurance+Tip&keyword=gannettcompany-heraldtimesreporter&sub2=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F0f8c329b00cff32a9a6f6f927d2f4278.jpeg#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyD0qVEoxoCWpY_fh5T9AQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.bindright.com/pa/?tg_ref=brwmd&camp_id=Virginia+Drivers+With+No+Tickets+In+3+Years+Are+Shocked+By+This+Insurance+Tip&keyword=gannettcompany-heraldtimesreporter&sub2=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F0f8c329b00cff32a9a6f6f927d2f4278.jpeg#tblciGiBeMRguhhayF_ZsAEgfH_ebHIzYBe6HH4twImCqf-lHAyD0qVEoxoCWpY_fh5T9AQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Staff Directory",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.gannett.com/careers/"
+    },
+    {
+      "text": "Accessibility Support",
+      "url": "https://cm.htrnews.com/accessibility"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "Our Ethical Principles",
+      "url": "https://cm.htrnews.com/ethical-conduct"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://cm.htrnews.com/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy"
+    },
+    {
+      "text": "Your California Privacy Rights / Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy-policy/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Support Local Businesses",
+      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=manitowoc"
+    },
+    {
+      "text": "Advertise Your Business",
+      "url": "https://localiq.com/markets/Wisconsin/"
+    },
+    {
+      "text": "Advertising Terms and Conditions",
+      "url": "https://cm.htrnews.com/advertising-terms-conditions"
+    },
+    {
+      "text": "Buy and Sell",
+      "url": "/placead/"
+    },
+    {
+      "text": "Licensing & Reprints",
+      "url": "https://imagn.com/licensing-reprints/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://help.htrnews.com/"
+    },
+    {
+      "text": "Subscriber Guide",
+      "url": "https://cm.htrnews.com/subscriberguide"
+    },
+    {
+      "text": "My Account",
+      "url": "https://account.htrnews.com/"
+    },
+    {
+      "text": "Feedback",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Footer"
+    },
+    {
+      "text": "Subscribe Today",
+      "url": "https://subscribe.htrnews.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://profile.htrnews.com/newsletters/manage"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.htrnews.com/subscriberguide/apps/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/HeraldTimesReporter"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/htrnews"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Storytellers",
+      "url": "https://www.storytellersproject.com/"
+    },
+    {
+      "text": "Archives",
+      "url": "http://www.tkqlhce.com/click-8144810-11570746?url=http://archives.htrnews.com"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "http://static.htrnews.com/rss/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.htrnews.com/jobs/"
+    },
+    {
+      "text": "Cars",
+      "url": "/cars/"
+    },
+    {
+      "text": "Homes",
+      "url": "http://www.htrnews.com/marketplace/real-estate/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://classifieds.htrnews.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Manitowoc+Herald+Times+Reporter"
+    },
+    {
+      "text": "Reviewed",
+      "url": "https://www.reviewed.com/"
+    },
+    {
+      "text": "10Best",
+      "url": "https://www.10best.com/"
+    },
+    {
+      "text": "USA TODAY Sports+",
+      "url": "https://www.usatodaysportsplus.com/"
+    },
+    {
+      "text": "Reach Local",
+      "url": "http://www.reachlocal.com/us/en"
+    }
+  ],
+  "item_last_updated": 1656986252,
+  "item_size": 49085096,
   "metadata": {
     "identifier": "htrnews-2022",
     "collection": [
@@ -6101,10 +6761,10 @@
     "publicdate": "2022-03-27 23:07:58",
     "addeddate": "2022-03-27 23:07:58"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1014386043,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1441708148,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }
