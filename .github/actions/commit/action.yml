@@ -12,8 +12,7 @@ runs:
         git config pull.rebase false
       shell: bash
 
-    - id: git-status
-      name: Git status
+    - name: Git status
       run: git status
       shell: bash
 
@@ -22,8 +21,7 @@ runs:
       run: git pull origin $GITHUB_REF
       shell: bash
 
-    - id: git-status
-      name: Git status
+    - name: Git status
       run: git status
       shell: bash
 
@@ -32,8 +30,7 @@ runs:
         name: screenshots
         path: ./latest-screenshots
 
-    - id: git-status
-      name: Git status
+    - name: Git status
       run: git status
       shell: bash
 
