@@ -187,7 +187,9 @@ def bundle(slug: str, input_dir: str):
     for i, chunk in enumerate(chunk_list):
         # Set the headline, if it's the first tweet in the thread
         if i == 0:
-            tweet = f"{bundle['name']} homepages at {now_local.strftime('%-I:%M %p')} in {bundle['location']}\n"
+            tweet = f"""{bundle['name']} homepages at {now_local.strftime('%-I:%M %p')} in {bundle['location']}\n
+
+📷 See them all at https://palewi.re/docs/news-homepages/bundles/{bundle['slug']}.html"""
         else:
             tweet = ""
 
