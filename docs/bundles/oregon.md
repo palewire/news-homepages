@@ -7,14 +7,7 @@ orphan: true
 
 # Oregon
 
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/oregon.xml)         |
-| Twitter hashtag | [#oregon](https://twitter.com/hashtag/oregon)           |
-| Location        | Portland                                                               |
-| Timezone        | America/Los_Angeles                                                               |
-
-The most recent homepages captured from the 5 news sites in this bundle.
+The most recent homepages from 5 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -59,6 +52,17 @@ The most recent homepages captured from the 5 news sites in this bundle.
 </div>
 
 </div>
+
+### About this bundle
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/oregon.xml)         |
+| Twitter hashtag | [#oregon](https://twitter.com/hashtag/oregon)           |
+| Location        | Portland                                                               |
+| Timezone        | America/Los_Angeles                                                               |
+
+### Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

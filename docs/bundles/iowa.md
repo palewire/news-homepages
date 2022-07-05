@@ -7,14 +7,7 @@ orphan: true
 
 # Iowa
 
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/iowa.xml)         |
-| Twitter hashtag | [#iowa](https://twitter.com/hashtag/iowa)           |
-| Location        | Iowa City                                                               |
-| Timezone        | America/Chicago                                                               |
-
-The most recent homepages captured from the 14 news sites in this bundle.
+The most recent homepages from 14 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -131,6 +124,17 @@ The most recent homepages captured from the 14 news sites in this bundle.
 </div>
 
 </div>
+
+### About this bundle
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/iowa.xml)         |
+| Twitter hashtag | [#iowa](https://twitter.com/hashtag/iowa)           |
+| Location        | Iowa City                                                               |
+| Timezone        | America/Chicago                                                               |
+
+### Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

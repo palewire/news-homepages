@@ -7,14 +7,7 @@ orphan: true
 
 # Eastern Europe
 
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/eastern-europe.xml)         |
-| Twitter hashtag | [#easterneurope](https://twitter.com/hashtag/easterneurope)           |
-| Location        | Kiev                                                               |
-| Timezone        | Europe/Kiev                                                               |
-
-The most recent homepages captured from the 6 news sites in this bundle.
+The most recent homepages from 6 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -67,6 +60,17 @@ The most recent homepages captured from the 6 news sites in this bundle.
 </div>
 
 </div>
+
+### About this bundle
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/eastern-europe.xml)         |
+| Twitter hashtag | [#easterneurope](https://twitter.com/hashtag/easterneurope)           |
+| Location        | Kiev                                                               |
+| Timezone        | Europe/Kiev                                                               |
+
+### Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

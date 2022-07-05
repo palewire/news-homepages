@@ -7,14 +7,7 @@ orphan: true
 
 # Sports
 
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/sports.xml)         |
-| Twitter hashtag | [#sports](https://twitter.com/hashtag/sports)           |
-| Location        | Madison Square Garden                                                               |
-| Timezone        | America/New_York                                                               |
-
-The most recent homepages captured from the 7 news sites in this bundle.
+The most recent homepages from 7 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -75,6 +68,17 @@ The most recent homepages captured from the 7 news sites in this bundle.
 </div>
 
 </div>
+
+### About this bundle
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/sports.xml)         |
+| Twitter hashtag | [#sports](https://twitter.com/hashtag/sports)           |
+| Location        | Madison Square Garden                                                               |
+| Timezone        | America/New_York                                                               |
+
+### Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

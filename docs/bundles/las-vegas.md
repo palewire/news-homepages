@@ -7,14 +7,7 @@ orphan: true
 
 # Las Vegas
 
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/las-vegas.xml)         |
-| Twitter hashtag | [#lasvegas](https://twitter.com/hashtag/lasvegas)           |
-| Location        | The Strip                                                               |
-| Timezone        | America/Los_Angeles                                                               |
-
-The most recent homepages captured from the 3 news sites in this bundle.
+The most recent homepages from 3 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -43,6 +36,17 @@ The most recent homepages captured from the 3 news sites in this bundle.
 </div>
 
 </div>
+
+### About this bundle
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/las-vegas.xml)         |
+| Twitter hashtag | [#lasvegas](https://twitter.com/hashtag/lasvegas)           |
+| Location        | The Strip                                                               |
+| Timezone        | America/Los_Angeles                                                               |
+
+### Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
