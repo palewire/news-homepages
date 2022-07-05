@@ -53,7 +53,7 @@ jobs:
 
       - id: tweet
         name: Tweet
-        run: pipenv run python -m newshomepages.tweet mosaic -i /_input/mosaic.gif
+        run: pipenv run python -m newshomepages.tweet mosaic -i ./_input/mosaic.gif
         shell: bash
         env:
           TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
