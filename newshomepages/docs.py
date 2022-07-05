@@ -3,6 +3,7 @@ from pathlib import Path
 
 import click
 import jinja2
+from slugify import slugify
 
 from . import utils
 
@@ -46,6 +47,27 @@ def source_list():
 
     with open(PARENT_DIR / "docs" / "sources.md", "w") as fh:
         fh.write(md)
+
+
+@cli.command()
+def bundle_detail():
+    """Create bundle detail pages."""
+    # Get all bundles
+    bundle_list = sorted(utils.get_bundle_list(), key=lambda x: x["name"].lower())
+
+    # For each site ...
+    for bundle in bundle_list:
+        bundle["hashtag"] = slugify(bundle["name"], separator="")
+        site_list = utils.get_sites_in_bundle(bundle["slug"])
+        context = {
+            "bundle": bundle,
+            "site_list": site_list,
+        }
+        template = TEMPLATE_ENV.get_template("bundle_detail.md.tmpl")
+        md = template.render(**context)
+
+        with open(PARENT_DIR / "docs" / "bundles" / f"{bundle['slug']}.md", "w") as fh:
+            fh.write(md)
 
 
 @cli.command()

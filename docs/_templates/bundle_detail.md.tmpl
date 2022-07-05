@@ -1,0 +1,37 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# {{ bundle.name }}
+
+The most recent homepages captured from the {{ site_list|length }} news sites in this bundle.
+
+<div class="latest-parent">
+{% for obj in site_list %}
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg"
+     alt="{{ obj.name }}"
+     loading="lazy">
+ </a>
+</div>
+{% endfor %}
+</div>
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ bundle.slug }}.xml)         |
+| Twitter hashtag | [#{{ bundle.hashtag }}](https://twitter.com/hashtag/{{ bundle.hashtag }})           |
+| Location        | {{ bundle.location }}                                                               |
+| Timezone        | {{ bundle.timezone }}                                                               |
+
+## Sites
+
+| Site  | Latest screenshot | RSS |
+| :---- | :---------------: | :-- |
+{% for obj in site_list -%}
+|[{{ obj.name }}](https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ obj.handle.lower() }}.xml)|
+{% endfor %}

@@ -19,6 +19,11 @@ runs:
       run: pipenv run python -m newshomepages.docs site-detail;
       shell: bash
 
+    - id: bundle-detail
+      name: Update bundle detail
+      run: pipenv run python -m newshomepages.docs bundle-detail;
+      shell: bash
+
     - id: configure-github
       name: Configure GitHub
       run: |
