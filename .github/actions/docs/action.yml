@@ -53,10 +53,7 @@ runs:
 
     - id: git-add
       name: Git add
-      run: |
-        git add ./docs/latest.md
-        git add ./docs/sources.md
-        git add ./docs/sites
+      run:  git add ./docs
       shell: bash
 
     - id: git-commit
