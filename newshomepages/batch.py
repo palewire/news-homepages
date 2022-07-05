@@ -1,5 +1,6 @@
 import json
 import logging
+import typing
 
 import click
 
@@ -34,14 +35,14 @@ def sites_by_bundle(bundle: str):
     _dump(site_list)
 
 
-def _dump(site_list: list[dict]):
+def _dump(site_list: typing.List):
     """Print out the provided site list as JSON."""
     handle_list = [s["handle"] for s in site_list]
     data = json.dumps(handle_list, indent=2)
     click.echo(data)
 
 
-def _batch(li: list, n: int):
+def _batch(li: typing.List, n: int):
     """Yield n number of sequential chunks from l."""
     d, r = divmod(len(li), n)
     for i in range(n):
