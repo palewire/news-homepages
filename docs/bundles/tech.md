@@ -7,6 +7,13 @@ orphan: true
 
 # Technology
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/tech.xml)         |
+| Twitter hashtag | [#technology](https://twitter.com/hashtag/technology)           |
+| Location        | Silicon Valley                                                               |
+| Timezone        | America/Los_Angeles                                                               |
+
 The most recent homepages captured from the 12 news sites in this bundle.
 
 <div class="latest-parent">
@@ -108,15 +115,6 @@ The most recent homepages captured from the 12 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tech.xml)         |
-| Twitter hashtag | [#technology](https://twitter.com/hashtag/technology)           |
-| Location        | Silicon Valley                                                               |
-| Timezone        | America/Los_Angeles                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

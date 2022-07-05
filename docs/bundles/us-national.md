@@ -7,6 +7,13 @@ orphan: true
 
 # U.S. national news
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/us-national.xml)         |
+| Twitter hashtag | [#usnationalnews](https://twitter.com/hashtag/usnationalnews)           |
+| Location        | New York                                                               |
+| Timezone        | America/New_York                                                               |
+
 The most recent homepages captured from the 12 news sites in this bundle.
 
 <div class="latest-parent">
@@ -108,15 +115,6 @@ The most recent homepages captured from the 12 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/us-national.xml)         |
-| Twitter hashtag | [#usnationalnews](https://twitter.com/hashtag/usnationalnews)           |
-| Location        | New York                                                               |
-| Timezone        | America/New_York                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

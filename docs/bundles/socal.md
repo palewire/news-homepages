@@ -7,6 +7,13 @@ orphan: true
 
 # Southern California
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/socal.xml)         |
+| Twitter hashtag | [#southerncalifornia](https://twitter.com/hashtag/southerncalifornia)           |
+| Location        | Los Angeles                                                               |
+| Timezone        | America/Los_Angeles                                                               |
+
 The most recent homepages captured from the 16 news sites in this bundle.
 
 <div class="latest-parent">
@@ -140,15 +147,6 @@ The most recent homepages captured from the 16 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/socal.xml)         |
-| Twitter hashtag | [#southerncalifornia](https://twitter.com/hashtag/southerncalifornia)           |
-| Location        | Los Angeles                                                               |
-| Timezone        | America/Los_Angeles                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

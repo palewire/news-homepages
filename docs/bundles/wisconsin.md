@@ -7,6 +7,13 @@ orphan: true
 
 # Wisconsin
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/wisconsin.xml)         |
+| Twitter hashtag | [#wisconsin](https://twitter.com/hashtag/wisconsin)           |
+| Location        | Milwaukee                                                               |
+| Timezone        | America/Chicago                                                               |
+
 The most recent homepages captured from the 9 news sites in this bundle.
 
 <div class="latest-parent">
@@ -84,15 +91,6 @@ The most recent homepages captured from the 9 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wisconsin.xml)         |
-| Twitter hashtag | [#wisconsin](https://twitter.com/hashtag/wisconsin)           |
-| Location        | Milwaukee                                                               |
-| Timezone        | America/Chicago                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

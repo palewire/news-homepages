@@ -7,6 +7,13 @@ orphan: true
 
 # Arizona
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/arizona.xml)         |
+| Twitter hashtag | [#arizona](https://twitter.com/hashtag/arizona)           |
+| Location        | Phoenix                                                               |
+| Timezone        | America/Phoenix                                                               |
+
 The most recent homepages captured from the 4 news sites in this bundle.
 
 <div class="latest-parent">
@@ -44,15 +51,6 @@ The most recent homepages captured from the 4 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/arizona.xml)         |
-| Twitter hashtag | [#arizona](https://twitter.com/hashtag/arizona)           |
-| Location        | Phoenix                                                               |
-| Timezone        | America/Phoenix                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

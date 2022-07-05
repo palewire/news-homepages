@@ -7,6 +7,13 @@ orphan: true
 
 # Mexico
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/mexico.xml)         |
+| Twitter hashtag | [#mexico](https://twitter.com/hashtag/mexico)           |
+| Location        | Mexico                                                               |
+| Timezone        | America/Mexico_City                                                               |
+
 The most recent homepages captured from the 3 news sites in this bundle.
 
 <div class="latest-parent">
@@ -36,15 +43,6 @@ The most recent homepages captured from the 3 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mexico.xml)         |
-| Twitter hashtag | [#mexico](https://twitter.com/hashtag/mexico)           |
-| Location        | Mexico                                                               |
-| Timezone        | America/Mexico_City                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

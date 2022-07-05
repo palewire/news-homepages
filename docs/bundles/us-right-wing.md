@@ -7,6 +7,13 @@ orphan: true
 
 # U.S. right wing
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/us-right-wing.xml)         |
+| Twitter hashtag | [#usrightwing](https://twitter.com/hashtag/usrightwing)           |
+| Location        | Washington                                                               |
+| Timezone        | America/New_York                                                               |
+
 The most recent homepages captured from the 12 news sites in this bundle.
 
 <div class="latest-parent">
@@ -108,15 +115,6 @@ The most recent homepages captured from the 12 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/us-right-wing.xml)         |
-| Twitter hashtag | [#usrightwing](https://twitter.com/hashtag/usrightwing)           |
-| Location        | Washington                                                               |
-| Timezone        | America/New_York                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
