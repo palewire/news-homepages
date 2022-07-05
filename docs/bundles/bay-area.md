@@ -7,6 +7,13 @@ orphan: true
 
 # California Bay Area
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/bay-area.xml)         |
+| Twitter hashtag | [#californiabayarea](https://twitter.com/hashtag/californiabayarea)           |
+| Location        | San Francisco                                                               |
+| Timezone        | America/Los_Angeles                                                               |
+
 The most recent homepages captured from the 8 news sites in this bundle.
 
 <div class="latest-parent">
@@ -76,15 +83,6 @@ The most recent homepages captured from the 8 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bay-area.xml)         |
-| Twitter hashtag | [#californiabayarea](https://twitter.com/hashtag/californiabayarea)           |
-| Location        | San Francisco                                                               |
-| Timezone        | America/Los_Angeles                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

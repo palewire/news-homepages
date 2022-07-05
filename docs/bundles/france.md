@@ -7,6 +7,13 @@ orphan: true
 
 # France
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/france.xml)         |
+| Twitter hashtag | [#france](https://twitter.com/hashtag/france)           |
+| Location        | Paris                                                               |
+| Timezone        | Europe/Paris                                                               |
+
 The most recent homepages captured from the 12 news sites in this bundle.
 
 <div class="latest-parent">
@@ -108,15 +115,6 @@ The most recent homepages captured from the 12 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/france.xml)         |
-| Twitter hashtag | [#france](https://twitter.com/hashtag/france)           |
-| Location        | Paris                                                               |
-| Timezone        | Europe/Paris                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

@@ -7,6 +7,13 @@ orphan: true
 
 # Washington
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/washington.xml)         |
+| Twitter hashtag | [#washington](https://twitter.com/hashtag/washington)           |
+| Location        | Seattle                                                               |
+| Timezone        | America/Los_Angeles                                                               |
+
 The most recent homepages captured from the 3 news sites in this bundle.
 
 <div class="latest-parent">
@@ -36,15 +43,6 @@ The most recent homepages captured from the 3 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/washington.xml)         |
-| Twitter hashtag | [#washington](https://twitter.com/hashtag/washington)           |
-| Location        | Seattle                                                               |
-| Timezone        | America/Los_Angeles                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

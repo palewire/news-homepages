@@ -7,6 +7,13 @@ orphan: true
 
 # Canada
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/canada.xml)         |
+| Twitter hashtag | [#canada](https://twitter.com/hashtag/canada)           |
+| Location        | Toronto                                                               |
+| Timezone        | America/New_York                                                               |
+
 The most recent homepages captured from the 17 news sites in this bundle.
 
 <div class="latest-parent">
@@ -148,15 +155,6 @@ The most recent homepages captured from the 17 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/canada.xml)         |
-| Twitter hashtag | [#canada](https://twitter.com/hashtag/canada)           |
-| Location        | Toronto                                                               |
-| Timezone        | America/New_York                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

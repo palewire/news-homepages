@@ -7,6 +7,13 @@ orphan: true
 
 # New Mexico
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-mexico.xml)         |
+| Twitter hashtag | [#newmexico](https://twitter.com/hashtag/newmexico)           |
+| Location        | Albuquerque                                                               |
+| Timezone        | America/Denver                                                               |
+
 The most recent homepages captured from the 4 news sites in this bundle.
 
 <div class="latest-parent">
@@ -44,15 +51,6 @@ The most recent homepages captured from the 4 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/new-mexico.xml)         |
-| Twitter hashtag | [#newmexico](https://twitter.com/hashtag/newmexico)           |
-| Location        | Albuquerque                                                               |
-| Timezone        | America/Denver                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

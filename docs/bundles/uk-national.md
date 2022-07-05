@@ -7,6 +7,13 @@ orphan: true
 
 # U.K. national news
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/uk-national.xml)         |
+| Twitter hashtag | [#uknationalnews](https://twitter.com/hashtag/uknationalnews)           |
+| Location        | London                                                               |
+| Timezone        | Europe/London                                                               |
+
 The most recent homepages captured from the 8 news sites in this bundle.
 
 <div class="latest-parent">
@@ -76,15 +83,6 @@ The most recent homepages captured from the 8 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/uk-national.xml)         |
-| Twitter hashtag | [#uknationalnews](https://twitter.com/hashtag/uknationalnews)           |
-| Location        | London                                                               |
-| Timezone        | Europe/London                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

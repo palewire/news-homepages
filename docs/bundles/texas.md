@@ -7,6 +7,13 @@ orphan: true
 
 # Texas
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/texas.xml)         |
+| Twitter hashtag | [#texas](https://twitter.com/hashtag/texas)           |
+| Location        | Austin                                                               |
+| Timezone        | America/Chicago                                                               |
+
 The most recent homepages captured from the 5 news sites in this bundle.
 
 <div class="latest-parent">
@@ -52,15 +59,6 @@ The most recent homepages captured from the 5 news sites in this bundle.
 </div>
 
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/sites/texas.xml)         |
-| Twitter hashtag | [#texas](https://twitter.com/hashtag/texas)           |
-| Location        | Austin                                                               |
-| Timezone        | America/Chicago                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
