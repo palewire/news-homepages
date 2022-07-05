@@ -4,6 +4,10 @@ description: Update templated documentation pages
 runs:
   using: "composite"
   steps:
+    - id: install
+      name: Install
+      uses: ./.github/actions/install
+
     - id: latest-screenshots
       name: Update latest screenshots
       run: pipenv run python -m newshomepages.docs latest-screenshots;

@@ -13,9 +13,47 @@ TEMPLATE_LOADER = jinja2.FileSystemLoader(searchpath=TEMPLATE_DIR)
 TEMPLATE_ENV = jinja2.Environment(loader=TEMPLATE_LOADER)
 
 
-@click.command()
+@click.group()
 def cli():
     """Create RSS feeds."""
+    pass
+
+
+@cli.command()
+def bundles():
+    """Create bundle feeds."""
+    bundle_list = utils.get_bundle_list()
+    screenshot_list = utils.get_screenshot_list()
+    now = datetime.now(pytz.utc)
+    for bundle in bundle_list:
+        site_list = utils.get_sites_in_bundle(bundle["slug"])
+        handle_list = [s["handle"].lower() for s in site_list]
+        file_list = [s for s in screenshot_list if s["handle"].lower() in handle_list]
+        click.echo(f"Building RSS for {bundle['name']}")
+        template = TEMPLATE_ENV.get_template("bundle.rss.tmpl")
+        bundle_tz = pytz.timezone(bundle["timezone"])
+        for file in file_list:
+            file["local_time"] = file["mtime"].astimezone(bundle_tz)
+            file["name"] = next(
+                s for s in site_list if s["handle"].lower() == file["handle"].lower()
+            )["name"]
+        sorted_list = sorted(file_list, key=lambda x: x["mtime"], reverse=True)
+        context = dict(
+            now=now,
+            obj=bundle,
+            file_list=sorted_list[:50],
+        )
+        rss = template.render(**context)
+        rss_path = (
+            PARENT_DIR / "docs" / "_extra" / "rss" / "bundles" / f"{bundle['slug']}.xml"
+        )
+        with open(rss_path, "w") as fh:
+            fh.write(rss)
+
+
+@cli.command()
+def sites():
+    """Create site feeds."""
     site_list = utils.get_site_list()
     screenshot_list = utils.get_screenshot_list()
     now = datetime.now(pytz.utc)
