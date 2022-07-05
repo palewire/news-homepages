@@ -22,6 +22,10 @@ Commands
    :prog: archive
    :nested: full
 
+.. click:: newshomepages.batch:cli
+   :prog: batch
+   :nested: full
+
 .. click:: newshomepages.discorder:cli
    :prog: discorder
    :nested: full
