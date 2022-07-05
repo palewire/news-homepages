@@ -17,7 +17,7 @@ orphan: true
 | Location       | Kiev                                                                 |
 | Timezone       | Europe/Kiev                                                                 |
 
-The archiving routine has captured 222 screenshots stored at the Internet Archive.
+The archiving routine has captured 223 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
