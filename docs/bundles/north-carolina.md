@@ -7,14 +7,7 @@ orphan: true
 
 # North Carolina
 
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/north-carolina.xml)         |
-| Twitter hashtag | [#northcarolina](https://twitter.com/hashtag/northcarolina)           |
-| Location        | Raleigh                                                               |
-| Timezone        | America/New_York                                                               |
-
-The most recent homepages captured from the 3 news sites in this bundle.
+The most recent homepages from 3 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -43,6 +36,17 @@ The most recent homepages captured from the 3 news sites in this bundle.
 </div>
 
 </div>
+
+### About this bundle
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/north-carolina.xml)         |
+| Twitter hashtag | [#northcarolina](https://twitter.com/hashtag/northcarolina)           |
+| Location        | Raleigh                                                               |
+| Timezone        | America/New_York                                                               |
+
+### Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

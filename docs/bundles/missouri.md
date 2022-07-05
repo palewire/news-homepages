@@ -7,14 +7,7 @@ orphan: true
 
 # Missouri
 
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/missouri.xml)         |
-| Twitter hashtag | [#missouri](https://twitter.com/hashtag/missouri)           |
-| Location        | The Arch                                                               |
-| Timezone        | America/Chicago                                                               |
-
-The most recent homepages captured from the 9 news sites in this bundle.
+The most recent homepages from 9 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -91,6 +84,17 @@ The most recent homepages captured from the 9 news sites in this bundle.
 </div>
 
 </div>
+
+### About this bundle
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/missouri.xml)         |
+| Twitter hashtag | [#missouri](https://twitter.com/hashtag/missouri)           |
+| Location        | The Arch                                                               |
+| Timezone        | America/Chicago                                                               |
+
+### Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

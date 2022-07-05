@@ -7,14 +7,7 @@ orphan: true
 
 # Philadelphia
 
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/philadelphia.xml)         |
-| Twitter hashtag | [#philadelphia](https://twitter.com/hashtag/philadelphia)           |
-| Location        | Independence Hall                                                               |
-| Timezone        | America/New_York                                                               |
-
-The most recent homepages captured from the 8 news sites in this bundle.
+The most recent homepages from 8 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -83,6 +76,17 @@ The most recent homepages captured from the 8 news sites in this bundle.
 </div>
 
 </div>
+
+### About this bundle
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/philadelphia.xml)         |
+| Twitter hashtag | [#philadelphia](https://twitter.com/hashtag/philadelphia)           |
+| Location        | Independence Hall                                                               |
+| Timezone        | America/New_York                                                               |
+
+### Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

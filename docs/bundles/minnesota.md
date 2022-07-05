@@ -7,14 +7,7 @@ orphan: true
 
 # Minnesota
 
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/minnesota.xml)         |
-| Twitter hashtag | [#minnesota](https://twitter.com/hashtag/minnesota)           |
-| Location        | Minneapolis                                                               |
-| Timezone        | America/Chicago                                                               |
-
-The most recent homepages captured from the 4 news sites in this bundle.
+The most recent homepages from 4 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -51,6 +44,17 @@ The most recent homepages captured from the 4 news sites in this bundle.
 </div>
 
 </div>
+
+### About this bundle
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/minnesota.xml)         |
+| Twitter hashtag | [#minnesota](https://twitter.com/hashtag/minnesota)           |
+| Location        | Minneapolis                                                               |
+| Timezone        | America/Chicago                                                               |
+
+### Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
