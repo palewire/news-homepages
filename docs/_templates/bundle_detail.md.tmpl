@@ -7,6 +7,13 @@ orphan: true
 
 # {{ bundle.name }}
 
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/{{ bundle.slug }}.xml)         |
+| Twitter hashtag | [#{{ bundle.hashtag }}](https://twitter.com/hashtag/{{ bundle.hashtag }})           |
+| Location        | {{ bundle.location }}                                                               |
+| Timezone        | {{ bundle.timezone }}                                                               |
+
 The most recent homepages captured from the {{ site_list|length }} news sites in this bundle.
 
 <div class="latest-parent">
@@ -20,15 +27,6 @@ The most recent homepages captured from the {{ site_list|length }} news sites in
 </div>
 {% endfor %}
 </div>
-
-| Attribute       | Value                                                                               |
-| :-------------  | :---------------------------------------------------------------------------------- |
-| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/{{ bundle.slug }}.xml)         |
-| Twitter hashtag | [#{{ bundle.hashtag }}](https://twitter.com/hashtag/{{ bundle.hashtag }})           |
-| Location        | {{ bundle.location }}                                                               |
-| Timezone        | {{ bundle.timezone }}                                                               |
-
-## Sites
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
