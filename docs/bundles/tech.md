@@ -114,7 +114,7 @@ The most recent homepages from 12 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/tech.xml)         |
-| Twitter hashtag | [#technology](https://twitter.com/hashtag/technology)           |
+| Twitter hashtag | [#technology](https://twitter.com/search?q=%23technology%20from%3A%40newshomepages)           |
 | Location        | Silicon Valley                                                               |
 | Timezone        | America/Los_Angeles                                                               |
 

@@ -114,7 +114,7 @@ The most recent homepages from 12 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/us-right-wing.xml)         |
-| Twitter hashtag | [#usrightwing](https://twitter.com/hashtag/usrightwing)           |
+| Twitter hashtag | [#usrightwing](https://twitter.com/search?q=%23usrightwing%20from%3A%40newshomepages)           |
 | Location        | Washington                                                               |
 | Timezone        | America/New_York                                                               |
 

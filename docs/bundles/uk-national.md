@@ -82,7 +82,7 @@ The most recent homepages from 8 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/uk-national.xml)         |
-| Twitter hashtag | [#uknationalnews](https://twitter.com/hashtag/uknationalnews)           |
+| Twitter hashtag | [#uknationalnews](https://twitter.com/search?q=%23uknationalnews%20from%3A%40newshomepages)           |
 | Location        | London                                                               |
 | Timezone        | Europe/London                                                               |
 

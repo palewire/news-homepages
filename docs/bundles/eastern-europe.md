@@ -66,7 +66,7 @@ The most recent homepages from 6 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/eastern-europe.xml)         |
-| Twitter hashtag | [#easterneurope](https://twitter.com/hashtag/easterneurope)           |
+| Twitter hashtag | [#easterneurope](https://twitter.com/search?q=%23easterneurope%20from%3A%40newshomepages)           |
 | Location        | Kiev                                                               |
 | Timezone        | Europe/Kiev                                                               |
 

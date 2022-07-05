@@ -58,7 +58,7 @@ The most recent homepages from 5 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/oregon.xml)         |
-| Twitter hashtag | [#oregon](https://twitter.com/hashtag/oregon)           |
+| Twitter hashtag | [#oregon](https://twitter.com/search?q=%23oregon%20from%3A%40newshomepages)           |
 | Location        | Portland                                                               |
 | Timezone        | America/Los_Angeles                                                               |
 

@@ -114,7 +114,7 @@ The most recent homepages from 12 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/france.xml)         |
-| Twitter hashtag | [#france](https://twitter.com/hashtag/france)           |
+| Twitter hashtag | [#france](https://twitter.com/search?q=%23france%20from%3A%40newshomepages)           |
 | Location        | Paris                                                               |
 | Timezone        | Europe/Paris                                                               |
 

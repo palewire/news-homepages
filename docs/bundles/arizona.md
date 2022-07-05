@@ -50,7 +50,7 @@ The most recent homepages from 4 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/arizona.xml)         |
-| Twitter hashtag | [#arizona](https://twitter.com/hashtag/arizona)           |
+| Twitter hashtag | [#arizona](https://twitter.com/search?q=%23arizona%20from%3A%40newshomepages)           |
 | Location        | Phoenix                                                               |
 | Timezone        | America/Phoenix                                                               |
 

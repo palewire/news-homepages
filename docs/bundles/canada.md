@@ -154,7 +154,7 @@ The most recent homepages from 17 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/canada.xml)         |
-| Twitter hashtag | [#canada](https://twitter.com/hashtag/canada)           |
+| Twitter hashtag | [#canada](https://twitter.com/search?q=%23canada%20from%3A%40newshomepages)           |
 | Location        | Toronto                                                               |
 | Timezone        | America/New_York                                                               |
 

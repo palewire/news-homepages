@@ -50,7 +50,7 @@ The most recent homepages from 4 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/minnesota.xml)         |
-| Twitter hashtag | [#minnesota](https://twitter.com/hashtag/minnesota)           |
+| Twitter hashtag | [#minnesota](https://twitter.com/search?q=%23minnesota%20from%3A%40newshomepages)           |
 | Location        | Minneapolis                                                               |
 | Timezone        | America/Chicago                                                               |
 

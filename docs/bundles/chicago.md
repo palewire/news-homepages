@@ -114,7 +114,7 @@ The most recent homepages from 12 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/chicago.xml)         |
-| Twitter hashtag | [#chicago](https://twitter.com/hashtag/chicago)           |
+| Twitter hashtag | [#chicago](https://twitter.com/search?q=%23chicago%20from%3A%40newshomepages)           |
 | Location        | The Loop                                                               |
 | Timezone        | America/Chicago                                                               |
 

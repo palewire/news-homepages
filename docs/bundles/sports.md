@@ -74,7 +74,7 @@ The most recent homepages from 7 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/sports.xml)         |
-| Twitter hashtag | [#sports](https://twitter.com/hashtag/sports)           |
+| Twitter hashtag | [#sports](https://twitter.com/search?q=%23sports%20from%3A%40newshomepages)           |
 | Location        | Madison Square Garden                                                               |
 | Timezone        | America/New_York                                                               |
 

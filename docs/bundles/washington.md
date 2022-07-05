@@ -42,7 +42,7 @@ The most recent homepages from 3 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/washington.xml)         |
-| Twitter hashtag | [#washington](https://twitter.com/hashtag/washington)           |
+| Twitter hashtag | [#washington](https://twitter.com/search?q=%23washington%20from%3A%40newshomepages)           |
 | Location        | Seattle                                                               |
 | Timezone        | America/Los_Angeles                                                               |
 

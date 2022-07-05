@@ -50,7 +50,7 @@ The most recent homepages from 4 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/maryland.xml)         |
-| Twitter hashtag | [#maryland](https://twitter.com/hashtag/maryland)           |
+| Twitter hashtag | [#maryland](https://twitter.com/search?q=%23maryland%20from%3A%40newshomepages)           |
 | Location        | Baltimore                                                               |
 | Timezone        | America/New_York                                                               |
 

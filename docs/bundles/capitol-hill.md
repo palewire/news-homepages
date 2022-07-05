@@ -114,7 +114,7 @@ The most recent homepages from 12 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/capitol-hill.xml)         |
-| Twitter hashtag | [#capitolhill](https://twitter.com/hashtag/capitolhill)           |
+| Twitter hashtag | [#capitolhill](https://twitter.com/search?q=%23capitolhill%20from%3A%40newshomepages)           |
 | Location        | The Capitol                                                               |
 | Timezone        | America/New_York                                                               |
 

@@ -90,7 +90,7 @@ The most recent homepages from 9 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/missouri.xml)         |
-| Twitter hashtag | [#missouri](https://twitter.com/hashtag/missouri)           |
+| Twitter hashtag | [#missouri](https://twitter.com/search?q=%23missouri%20from%3A%40newshomepages)           |
 | Location        | The Arch                                                               |
 | Timezone        | America/Chicago                                                               |
 

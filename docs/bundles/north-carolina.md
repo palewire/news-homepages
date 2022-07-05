@@ -42,7 +42,7 @@ The most recent homepages from 3 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/north-carolina.xml)         |
-| Twitter hashtag | [#northcarolina](https://twitter.com/hashtag/northcarolina)           |
+| Twitter hashtag | [#northcarolina](https://twitter.com/search?q=%23northcarolina%20from%3A%40newshomepages)           |
 | Location        | Raleigh                                                               |
 | Timezone        | America/New_York                                                               |
 

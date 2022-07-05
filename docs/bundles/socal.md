@@ -146,7 +146,7 @@ The most recent homepages from 16 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/socal.xml)         |
-| Twitter hashtag | [#southerncalifornia](https://twitter.com/hashtag/southerncalifornia)           |
+| Twitter hashtag | [#southerncalifornia](https://twitter.com/search?q=%23southerncalifornia%20from%3A%40newshomepages)           |
 | Location        | Los Angeles                                                               |
 | Timezone        | America/Los_Angeles                                                               |
 

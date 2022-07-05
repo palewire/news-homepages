@@ -58,7 +58,7 @@ The most recent homepages from 5 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/texas.xml)         |
-| Twitter hashtag | [#texas](https://twitter.com/hashtag/texas)           |
+| Twitter hashtag | [#texas](https://twitter.com/search?q=%23texas%20from%3A%40newshomepages)           |
 | Location        | Austin                                                               |
 | Timezone        | America/Chicago                                                               |
 

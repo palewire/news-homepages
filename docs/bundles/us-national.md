@@ -114,7 +114,7 @@ The most recent homepages from 12 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/us-national.xml)         |
-| Twitter hashtag | [#usnationalnews](https://twitter.com/hashtag/usnationalnews)           |
+| Twitter hashtag | [#usnationalnews](https://twitter.com/search?q=%23usnationalnews%20from%3A%40newshomepages)           |
 | Location        | New York                                                               |
 | Timezone        | America/New_York                                                               |
 

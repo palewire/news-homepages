@@ -50,7 +50,7 @@ The most recent homepages from 4 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-mexico.xml)         |
-| Twitter hashtag | [#newmexico](https://twitter.com/hashtag/newmexico)           |
+| Twitter hashtag | [#newmexico](https://twitter.com/search?q=%23newmexico%20from%3A%40newshomepages)           |
 | Location        | Albuquerque                                                               |
 | Timezone        | America/Denver                                                               |
 

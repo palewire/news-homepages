@@ -90,7 +90,7 @@ The most recent homepages from 9 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/wisconsin.xml)         |
-| Twitter hashtag | [#wisconsin](https://twitter.com/hashtag/wisconsin)           |
+| Twitter hashtag | [#wisconsin](https://twitter.com/search?q=%23wisconsin%20from%3A%40newshomepages)           |
 | Location        | Milwaukee                                                               |
 | Timezone        | America/Chicago                                                               |
 

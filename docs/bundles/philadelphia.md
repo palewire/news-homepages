@@ -82,7 +82,7 @@ The most recent homepages from 8 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/philadelphia.xml)         |
-| Twitter hashtag | [#philadelphia](https://twitter.com/hashtag/philadelphia)           |
+| Twitter hashtag | [#philadelphia](https://twitter.com/search?q=%23philadelphia%20from%3A%40newshomepages)           |
 | Location        | Independence Hall                                                               |
 | Timezone        | America/New_York                                                               |
 

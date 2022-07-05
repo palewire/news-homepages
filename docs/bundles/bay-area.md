@@ -82,7 +82,7 @@ The most recent homepages from 8 news sites in this bundle.
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/bay-area.xml)         |
-| Twitter hashtag | [#californiabayarea](https://twitter.com/hashtag/californiabayarea)           |
+| Twitter hashtag | [#californiabayarea](https://twitter.com/search?q=%23californiabayarea%20from%3A%40newshomepages)           |
 | Location        | San Francisco                                                               |
 | Timezone        | America/Los_Angeles                                                               |
 
