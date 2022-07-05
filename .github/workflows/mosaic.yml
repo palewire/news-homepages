@@ -33,7 +33,7 @@ jobs:
           if-no-files-found: error
 
   tweet:
-    name: Tweet
+    name: Post to Twitter
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [mosaic]
