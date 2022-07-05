@@ -9,14 +9,30 @@ runs:
         name: screenshots
         path: ./latest-screenshots
 
-    - id: commit
-      name: Commit
+    - id: configure-github
+      name: Configure GitHub
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git config pull.rebase false
-        git status
-        git pull origin $GITHUB_REF
-        git add ./latest-screenshots/*.jpg
-        git commit -m "Latest screenshots" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+      shell: bash
+
+    - id: git-status
+      name: Git status
+      run: git status
+      shell: bash
+
+    - id: git-pull
+      name: Git pull
+      run: git pull origin $GITHUB_REF
+      shell: bash
+
+    - id: git-add
+      name: Git add
+      run: git add ./latest-screenshots/*.jpg
+      shell: bash
+
+    - id: git-commit
+      name: Git commit
+      run: git commit -m "Latest screenshots" --author="palewire <palewire@users.noreply.github.com>" && git push || true
       shell: bash
