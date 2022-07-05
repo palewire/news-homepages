@@ -17,7 +17,8 @@ orphan: true
 | Location       | Joshua Tree                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[desert_oracle-2022](https://archive.org/details/desert_oracle-2022)|

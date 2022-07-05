@@ -17,7 +17,8 @@ orphan: true
 | Location       | Columbia                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[comissourian-2022](https://archive.org/details/comissourian-2022)|

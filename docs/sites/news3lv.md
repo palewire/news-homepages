@@ -17,7 +17,8 @@ orphan: true
 | Location       | Las Vegas                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[news3lv-2022](https://archive.org/details/news3lv-2022)|

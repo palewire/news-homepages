@@ -17,7 +17,8 @@ orphan: true
 | Location       | New York                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[fastcompany-2022](https://archive.org/details/fastcompany-2022)|

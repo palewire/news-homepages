@@ -17,7 +17,8 @@ orphan: true
 | Location       | Silicon Valley                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[mashable-2022](https://archive.org/details/mashable-2022)|

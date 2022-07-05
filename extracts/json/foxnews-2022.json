@@ -1,5 +1,5 @@
 {
-  "created": 1656936490,
+  "created": 1656981292,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -15596,31 +15596,199 @@
       "sha1": "f36aad64a8f4f5e737d24117bb03a1fdad22a207"
     },
     {
+      "name": "foxnews-2022-07-04T10:48:36.789593-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656946130",
+      "size": "81731",
+      "md5": "2c0f86114cbfe2d866df79686e3fa509",
+      "crc32": "c981001d",
+      "sha1": "8a627a84826ae55dcbe6daebb983759c00d8b787",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-07-04T10:48:36.789593-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656946131",
+      "size": "100915",
+      "md5": "ef230db58de55e559d369804ebc11396",
+      "crc32": "3a699267",
+      "sha1": "c00983ce148cba9812baf9d624fbd77b1a1ce70c",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-07-04T10:48:36.789593-04:00.jpg",
+      "source": "original",
+      "mtime": "1656946128",
+      "size": "424494",
+      "md5": "05e63822ad2ac76881bbab43dbce8f41",
+      "crc32": "42b28a4f",
+      "sha1": "af8edd7a333d49dce03b12a1b4e56f10a81f8119",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-07-04T10:48:36.789593-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-07-04T10:48:36.789593-04:00.jpg",
+      "mtime": "1656946232",
+      "size": "11799",
+      "md5": "43b78be7d16e1b4a9487a31ccae1ed7e",
+      "crc32": "e85fdabd",
+      "sha1": "d0f153e63c16ce52a9589049df58f9ccfa26d314"
+    },
+    {
+      "name": "foxnews-2022-07-04T11:43:26.401131-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656949424",
+      "size": "80639",
+      "md5": "72044cf0f09e2681972c837e405280bc",
+      "crc32": "c4351e2e",
+      "sha1": "fddaae670b84684d87dd38b127276d93de978214",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-07-04T11:43:26.401131-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656949425",
+      "size": "100131",
+      "md5": "e127f48f0df1c64773e97035bf87f9ef",
+      "crc32": "98976416",
+      "sha1": "84d1be5fc0cd5340ae720f3d19bd955b62e333c6",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-07-04T11:43:26.401131-04:00.jpg",
+      "source": "original",
+      "mtime": "1656949422",
+      "size": "431723",
+      "md5": "55729e0859759ceaced87a0d4ec60b3d",
+      "crc32": "c2568291",
+      "sha1": "2e3ef56f4d4ecd8a9437e1e552b987bb128598c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-07-04T11:43:26.401131-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-07-04T11:43:26.401131-04:00.jpg",
+      "mtime": "1656949502",
+      "size": "11546",
+      "md5": "aed332c5cf140c77d5c069820a7dc867",
+      "crc32": "8e16f307",
+      "sha1": "6ef68e6f4dd71ec61bf3778fad560806bdab9106"
+    },
+    {
+      "name": "foxnews-2022-07-04T17:53:00.975752-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656971593",
+      "size": "78184",
+      "md5": "be742a374ce83a56d904019fbdf3c31e",
+      "crc32": "75caebbd",
+      "sha1": "2de213ddb25dbe2edb78ee3c7df8d0736bd5f951",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-07-04T17:53:00.975752-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656971595",
+      "size": "98067",
+      "md5": "04880ecc3d2066e673aef7e13bd1cc79",
+      "crc32": "4e6eac7a",
+      "sha1": "56ab32acd3ab9e86664d55abc1f9d508c4e774a2",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-07-04T17:53:00.975752-04:00.jpg",
+      "source": "original",
+      "mtime": "1656971590",
+      "size": "453707",
+      "md5": "2bdfc29f42f597750385c38d34b29e56",
+      "crc32": "3bcbea1c",
+      "sha1": "01d1acb7805ee436a2c4557254840c86c6d25eca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-07-04T17:53:00.975752-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-07-04T17:53:00.975752-04:00.jpg",
+      "mtime": "1656971677",
+      "size": "11797",
+      "md5": "cd5ad29510b379547594dc4f5ec6d5bf",
+      "crc32": "f22c0121",
+      "sha1": "bc35c9ad875ce0299538743070a07b894e7fd11d"
+    },
+    {
+      "name": "foxnews-2022-07-04T18:00:54.378754-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656972060",
+      "size": "78256",
+      "md5": "47673282acfca3ed7b424a57f6833ae8",
+      "crc32": "22561a22",
+      "sha1": "fa8de911ca8eadf31824745c34e92ca3007e737a",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-07-04T18:00:54.378754-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656972062",
+      "size": "98119",
+      "md5": "a4f9f3abe75746f9ddf6a6393a06c3cb",
+      "crc32": "db22ae60",
+      "sha1": "ac6d7023946d4830f56080da6dfef8b4b6ae277d",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-07-04T18:00:54.378754-04:00.jpg",
+      "source": "original",
+      "mtime": "1656972057",
+      "size": "460427",
+      "md5": "188bac3046be003ed45165fe610898c4",
+      "crc32": "0d5d43c7",
+      "sha1": "0b3742b75c697fa610c8864d8aba895b08f9482c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-07-04T18:00:54.378754-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-07-04T18:00:54.378754-04:00.jpg",
+      "mtime": "1656972179",
+      "size": "11767",
+      "md5": "3de784782719bcb2ddc200d334dcf00a",
+      "crc32": "8ec3e51a",
+      "sha1": "a895b5856d29bd6a9a37921f4231eada2d49785e"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "765da821385d2a2df2687d6de81fa8e49d1fe318",
-      "mtime": "1656898214",
-      "size": "314204",
-      "md5": "40b29a49b35f36db89b3bed96ad98332",
-      "crc32": "b75e385d",
-      "sha1": "26cff6a1de5a5cc09d2e37180658211edc945ba8",
+      "btih": "007fa4759697d5886d4d2b89ec1ec8e088be8dc4",
+      "mtime": "1656972210",
+      "size": "317610",
+      "md5": "03a6772f821cca56ac7c3d8189c137f4",
+      "crc32": "137e27cd",
+      "sha1": "634d4c6f79091e5fefdd7d1fa7080b1929a783f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9746297d981b7513d7bf531d0a4b655e",
+      "md5": "10765e62777c54d1d2ab0ab0e95b76c7",
       "summation": "md5"
     },
     {
       "name": "foxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656898104",
-      "size": "1671168",
-      "md5": "857743dddbf0c977c0925c8537c28032",
-      "crc32": "7f60b637",
-      "sha1": "381344321c47c613aef2a5ee873cf36a9b9adce0",
+      "mtime": "1656972075",
+      "size": "1691648",
+      "md5": "2254b043b4e72ef96a124c01a7d5883f",
+      "crc32": "7a283d34",
+      "sha1": "09a270a41c3437fdce6d59ae8372f0175c1e3684",
       "format": "Metadata"
     },
     {
@@ -15634,7 +15802,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1485,
+  "files_count": 1501,
   "foxnews-2022": [
     {
       "text": "Fox News",
@@ -15709,23 +15877,27 @@
       "url": "#"
     },
     {
-      "text": "\nSUPREME COURT FALLOUT",
-      "url": "https://www.foxnews.com/media/msnbc-ali-velshi-praises-foreign-dictatorships-access-abortion"
+      "text": "PARADE SHOOTING\n",
+      "url": "https://www.foxnews.com/live-news/highland-park-illinois-fourth-of-july-parade-shooting"
+    },
+    {
+      "text": "SUPREME COURT FALLOUT",
+      "url": "https://www.foxnews.com/politics/mississippi-gov-reeves-culture-life-roe-v-wade"
     },
     {
       "text": "FOURTH OF JULY",
-      "url": "https://www.foxnews.com/lifestyle/america-50-landmarks-national-story"
+      "url": "https://www.foxnews.com/lifestyle/july-4th-photo-pictures-america-independence"
     },
     {
-      "text": "S&P 500 -0.38%",
+      "text": "S&P 500 +1.06%",
       "url": "#"
     },
     {
-      "text": "NASDAQ -0.33%",
+      "text": "NASDAQ +0.90%",
       "url": "#"
     },
     {
-      "text": "DJIA -0.38%",
+      "text": "DJIA +1.05%",
       "url": "#"
     },
     {
@@ -16193,256 +16365,248 @@
       "url": "//video.foxnews.com/v/5614615980001/?#sp=watch-live"
     },
     {
-      "text": "Sunday Night in America with Trey Gowdy",
-      "url": "https://www.foxnews.com/shows/sunday-night-in-america-with-trey-gowdy"
+      "text": "Your World",
+      "url": "https://www.foxnews.com/shows/your-world-cavuto"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309077619112/"
+      "url": "https://video.foxnews.com/v/6309116853112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309077619112/"
+      "url": "https://video.foxnews.com/v/6309116853112/"
     },
     {
-      "text": "sunday night in america",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Gowdy: July 4 is a reason to celebrate democracy and freedom",
-      "url": "https://video.foxnews.com/v/6309077619112/"
+      "text": "Rep. Brad Schneider on mass shooting in his community: 'A lot of pain today'",
+      "url": "https://video.foxnews.com/v/6309116853112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309076255112/"
+      "url": "https://video.foxnews.com/v/6309118730112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309076255112/"
+      "url": "https://video.foxnews.com/v/6309118730112/"
     },
     {
-      "text": "sunday night in america",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Brian Kilmeade on what is great about America",
-      "url": "https://video.foxnews.com/v/6309076255112/"
+      "text": "Police ask for public\u2019s help in investigating parade shooting",
+      "url": "https://video.foxnews.com/v/6309118730112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309071951112/"
+      "url": "https://video.foxnews.com/v/6309115156112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309071951112/"
+      "url": "https://video.foxnews.com/v/6309115156112/"
     },
     {
-      "text": "fox report weekend",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Attitude towards veterans cannot go from 'leave no man behind' to 'every man for himself'",
-      "url": "https://video.foxnews.com/v/6309071951112/"
+      "text": "Steve Rogers: Highland Park shooter 'knew' the area and was probably 'trained'",
+      "url": "https://video.foxnews.com/v/6309115156112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309067513112/"
+      "url": "https://video.foxnews.com/v/6309112147112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309067513112/"
+      "url": "https://video.foxnews.com/v/6309112147112/"
     },
     {
-      "text": "the big weekend show",
+      "text": "outnumbered",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Leo Terrell: Biden 'sold his soul' to the progressive-Left to become President",
-      "url": "https://video.foxnews.com/v/6309067513112/"
+      "text": "Tammy Bruce: It's obvious Americans have been held as 'schmucks throughout this process'",
+      "url": "https://video.foxnews.com/v/6309112147112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309070895112/"
+      "url": "https://video.foxnews.com/v/6309109101112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309070895112/"
+      "url": "https://video.foxnews.com/v/6309109101112/"
     },
     {
-      "text": "the big sunday show",
+      "text": "fox news live\n",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Retired Marine Johnny 'Joey' Jones on the meaning of service",
-      "url": "https://video.foxnews.com/v/6309070895112/"
+      "text": "Ted Williams slams Chicago Mayor Lori Lightfoot amid deadly weekend violence: 'Summer of hell'",
+      "url": "https://video.foxnews.com/v/6309109101112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309060655112/"
+      "url": "https://video.foxnews.com/v/6309109399112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309060655112/"
+      "url": "https://video.foxnews.com/v/6309109399112/"
     },
     {
-      "text": "fox news sunday",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "\nHoward Kurtz on the state of Biden's America: 'Things are out of control'",
-      "url": "https://video.foxnews.com/v/6309060655112/"
+      "text": "Suspected murderer in love triangle murder tracked down",
+      "url": "https://video.foxnews.com/v/6309109399112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309047269112/"
+      "url": "https://video.foxnews.com/v/6309111215112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309047269112/"
+      "url": "https://video.foxnews.com/v/6309111215112/"
     },
     {
-      "text": "mediabuzz",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Will states follow abortion ruling?",
-      "url": "https://video.foxnews.com/v/6309047269112/"
+      "text": "Fentanyl involved in 70% of 2020 drug overdoses, CDC says",
+      "url": "https://video.foxnews.com/v/6309111215112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309049662112/"
+      "url": "https://video.foxnews.com/v/6309110279112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309049662112/"
+      "url": "https://video.foxnews.com/v/6309110279112/"
     },
     {
-      "text": "mediabuzz",
+      "text": "Fox & Friends",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Media\u2019s biased Supreme Court coverage",
-      "url": "https://video.foxnews.com/v/6309049662112/"
+      "text": "Rep. Waltz slams Independence Day critics: It shows a level of cynicism and lack of perspective",
+      "url": "https://video.foxnews.com/v/6309110279112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309043776112/"
+      "url": "https://video.foxnews.com/v/6309105258112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309043776112/"
+      "url": "https://video.foxnews.com/v/6309105258112/"
     },
     {
-      "text": "sunday morning futures",
+      "text": "Fox & Friends",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Washington Senate candidate shares value of 'service over self'",
-      "url": "https://video.foxnews.com/v/6309043776112/"
+      "text": "Tim Kennedy shares Fourth of July message: 'Never been more proud' of US",
+      "url": "https://video.foxnews.com/v/6309105258112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309045620112/"
+      "url": "https://video.foxnews.com/v/6309108233112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309045620112/"
+      "url": "https://video.foxnews.com/v/6309108233112/"
     },
     {
-      "text": "fox news sunday",
+      "text": "Fox & Friends",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Biden was \u2018honest\u2019 about gas prices prior to Russian invasion: John Kirby",
-      "url": "https://video.foxnews.com/v/6309045620112/"
+      "text": "Janice Dean to judge Nathan's hot dog eating contest this Fourth of July",
+      "url": "https://video.foxnews.com/v/6309108233112/"
     },
     {
       "text": "Show More",
       "url": "#"
     },
     {
-      "text": "STARS AND GRIPES",
-      "url": "https://www.foxnews.com/politics/orlando-says-people-probably-dont-want-celebrate-july-4th-backtracks"
+      "text": "'SHELTER IN PLACE'",
+      "url": "https://www.foxnews.com/us/highland-park-shooting-suspect-description-released-july-4-parade-attack-kills-6"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Police warn residents as hunt intensifies for shooter who slaughtered several at parade in Chicago suburb",
+      "url": "https://www.foxnews.com/us/highland-park-shooting-suspect-description-released-july-4-parade-attack-kills-6"
+    },
+    {
+      "text": "3:00",
+      "url": "https://video.foxnews.com/v/5614615980001/"
+    },
+    {
+      "text": "Watch Fox News Channel for developing coverage of deadly mass shooting in Highland Park, Illinois",
+      "url": "https://video.foxnews.com/v/5614615980001/"
+    },
+    {
+      "text": "FOURHT OF JULY HORROR: At least 6 people slain, over 30 hurt, as they watched holiday parade in Illinois",
+      "url": "https://www.foxnews.com/us/chaos-erupts-multiple-people-are-shot-4th-july-parade"
+    },
+    {
+      "text": "'BROKEN INSIDE'",
+      "url": "https://www.foxnews.com/live-news/highland-park-illinois-fourth-of-july-parade-shooting"
+    },
+    {
+      "text": "LIVE UPDATES:First victim of parade massacre ID'd as beloved grandfather",
+      "url": "https://www.foxnews.com/live-news/highland-park-illinois-fourth-of-july-parade-shooting"
+    },
+    {
+      "text": "Illinois governor 'monitoring' parade shooting aftermath, Chicago mayor deploys police to assist",
+      "url": "https://www.foxnews.com/us/illinois-gov-pritzker-monitoring-highland-park-shooting-aftermath-mayor-lightfoot-deploys-police-assist"
+    },
+    {
+      "text": "'LIKE A WAR ZONE'",
+      "url": "https://www.foxnews.com/us/highland-park-july-4th-parade-shooting-like-a-war-zone-witness-says"
+    },
+    {
+      "text": "U.S.\n",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Witness recalls horrifying moment of 'total chaos' as parade came under fire",
+      "url": "https://www.foxnews.com/us/highland-park-july-4th-parade-shooting-like-a-war-zone-witness-says"
+    },
+    {
+      "text": "Former investigator says circumstances suggest parade shooting was pre-planned",
+      "url": "https://www.foxnews.com/media/former-investigator-illinois-parade-shooting-circumstances-suggest-pre-planning-involved"
+    },
+    {
+      "text": "PRIMARY CONCERN",
+      "url": "https://www.foxnews.com/politics/gop-group-working-elect-republicans-says-economy-remains-focus-voters-ahead-midterms"
     },
     {
       "text": "Politics",
       "url": "https://www.foxnews.com/politics"
     },
     {
-      "text": "Major city immediately backtracks after claiming people 'probably don't want to celebrate' America",
-      "url": "https://www.foxnews.com/politics/orlando-says-people-probably-dont-want-celebrate-july-4th-backtracks"
+      "text": "Group working to elect Republicans at state level says one issue remains focus",
+      "url": "https://www.foxnews.com/politics/gop-group-working-elect-republicans-says-economy-remains-focus-voters-ahead-midterms"
     },
     {
-      "text": "TRUE COLORS: Democrats promote 'f--- the 4th' event as Americans celebrate holiday",
-      "url": "https://www.foxnews.com/politics/arizona-democrats-plan-4th-event-mourn-supreme-court-abortion-decision"
+      "text": "'JULY 4TH CANCELED'",
+      "url": "https://www.foxnews.com/entertainment/katy-perry-bette-midler-jessica-chastain-lead-online-independence-day-protest-july-4th-canceled"
     },
     {
-      "text": "Cornell University removes Gettysburg Address, Lincoln bust from library after alleged complaint",
-      "url": "https://www.foxnews.com/us/cornell-university-removes-gettysburg-address-lincoln-bust-from-library-alleged-complaint"
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
     },
     {
-      "text": "WATCH:Americans don't mince words when asked if they are proud of the US",
-      "url": "https://www.foxnews.com/us/july-4th-america-answers-are-you-proud-american"
-    },
-    {
-      "text": "FOX NEWS POLL:Pride in US down significantly while voters reveal which party is the most patriotic",
-      "url": "https://www.foxnews.com/official-polls/fox-news-poll-pride-us-down-significantly"
-    },
-    {
-      "text": "CLOCK IS TICKING",
-      "url": "https://www.foxnews.com/media/jeh-johnson-biden-decides-not-run-2024-should-announce-sooner-rather-later"
-    },
-    {
-      "text": "Media",
-      "url": "https://www.foxnews.com/media"
-    },
-    {
-      "text": "Obama admin alum has 'unconventional' advice for Biden about his 2024 plans",
-      "url": "https://www.foxnews.com/media/jeh-johnson-biden-decides-not-run-2024-should-announce-sooner-rather-later"
-    },
-    {
-      "text": "SLIP 'N SLIDE: Report admits Biden has seen 'steep' drop in standing since last Fourth of July",
-      "url": "https://www.foxnews.com/media/bidens-political-standing-a-steep-slide-from-last-july-4-associated-press-reports"
-    },
-    {
-      "text": "BORDER BLAME",
-      "url": "https://www.foxnews.com/politics/dhs-secretary-mayorkas-appears-blame-migrants-53-people-dead-texas-truck"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.foxnews.com/politics"
-    },
-    {
-      "text": "Top Biden admin official appears to point finger after migrants found dead in truck",
-      "url": "https://www.foxnews.com/politics/dhs-secretary-mayorkas-appears-blame-migrants-53-people-dead-texas-truck"
-    },
-    {
-      "text": "Tractor-trailer driver smiles for Border Patrol cameras hours before migrants found dead",
-      "url": "https://www.foxnews.com/us/texas-tractor-trailer-driver-smiles-border-patrol-checkpoint-hours-before-migrants-found-dead"
-    },
-    {
-      "text": "DEAFENING SILENCE",
-      "url": "https://www.foxnews.com/sports/espn-bob-ley-liv-golf-criticism-nba"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.foxnews.com/sports"
-    },
-    {
-      "text": "Former ESPN star asks where 'outrage' is for NBA's China ties as LIV Golf gets hit",
-      "url": "https://www.foxnews.com/sports/espn-bob-ley-liv-golf-criticism-nba"
-    },
-    {
-      "text": "'I'M NOT KIDDING'",
-      "url": "https://www.foxnews.com/media/salon-reporter-argues-joe-biden-similar-founding-fathers"
-    },
-    {
-      "text": "Media",
-      "url": "https://www.foxnews.com/media"
-    },
-    {
-      "text": "Liberal writer compares Biden to Washington and Jefferson",
-      "url": "https://www.foxnews.com/media/salon-reporter-argues-joe-biden-similar-founding-fathers"
+      "text": "Woke Hollywood elites rally social media protests against Independence Day",
+      "url": "https://www.foxnews.com/entertainment/katy-perry-bette-midler-jessica-chastain-lead-online-independence-day-protest-july-4th-canceled"
     },
     {
       "text": "",
@@ -16457,208 +16621,336 @@
       "url": "//video.foxnews.com/v/5614615980001/?#sp=watch-live"
     },
     {
-      "text": "Sunday Night in America with Trey Gowdy",
-      "url": "https://www.foxnews.com/shows/sunday-night-in-america-with-trey-gowdy"
+      "text": "Your World",
+      "url": "https://www.foxnews.com/shows/your-world-cavuto"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309077619112/"
+      "url": "https://video.foxnews.com/v/6309116853112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309077619112/"
+      "url": "https://video.foxnews.com/v/6309116853112/"
     },
     {
-      "text": "sunday night in america",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Gowdy: July 4 is a reason to celebrate democracy and freedom",
-      "url": "https://video.foxnews.com/v/6309077619112/"
+      "text": "Rep. Brad Schneider on mass shooting in his community: 'A lot of pain today'",
+      "url": "https://video.foxnews.com/v/6309116853112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309076255112/"
+      "url": "https://video.foxnews.com/v/6309118730112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309076255112/"
+      "url": "https://video.foxnews.com/v/6309118730112/"
     },
     {
-      "text": "sunday night in america",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Brian Kilmeade on what is great about America",
-      "url": "https://video.foxnews.com/v/6309076255112/"
+      "text": "Police ask for public\u2019s help in investigating parade shooting",
+      "url": "https://video.foxnews.com/v/6309118730112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309071951112/"
+      "url": "https://video.foxnews.com/v/6309115156112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309071951112/"
+      "url": "https://video.foxnews.com/v/6309115156112/"
     },
     {
-      "text": "fox report weekend",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Attitude towards veterans cannot go from 'leave no man behind' to 'every man for himself'",
-      "url": "https://video.foxnews.com/v/6309071951112/"
+      "text": "Steve Rogers: Highland Park shooter 'knew' the area and was probably 'trained'",
+      "url": "https://video.foxnews.com/v/6309115156112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309067513112/"
+      "url": "https://video.foxnews.com/v/6309112147112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309067513112/"
+      "url": "https://video.foxnews.com/v/6309112147112/"
     },
     {
-      "text": "the big weekend show",
+      "text": "outnumbered",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Leo Terrell: Biden 'sold his soul' to the progressive-Left to become President",
-      "url": "https://video.foxnews.com/v/6309067513112/"
+      "text": "Tammy Bruce: It's obvious Americans have been held as 'schmucks throughout this process'",
+      "url": "https://video.foxnews.com/v/6309112147112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309070895112/"
+      "url": "https://video.foxnews.com/v/6309109101112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309070895112/"
+      "url": "https://video.foxnews.com/v/6309109101112/"
     },
     {
-      "text": "the big sunday show",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Retired Marine Johnny 'Joey' Jones on the meaning of service",
-      "url": "https://video.foxnews.com/v/6309070895112/"
+      "text": "Ted Williams slams Chicago Mayor Lori Lightfoot amid deadly weekend violence: 'Summer of hell'",
+      "url": "https://video.foxnews.com/v/6309109101112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309060655112/"
+      "url": "https://video.foxnews.com/v/6309109399112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309060655112/"
+      "url": "https://video.foxnews.com/v/6309109399112/"
     },
     {
-      "text": "fox news sunday",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Howard Kurtz on the state of Biden's America: 'Things are out of control'",
-      "url": "https://video.foxnews.com/v/6309060655112/"
+      "text": "Suspected murderer in love triangle murder tracked down",
+      "url": "https://video.foxnews.com/v/6309109399112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309047269112/"
+      "url": "https://video.foxnews.com/v/6309111215112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309047269112/"
+      "url": "https://video.foxnews.com/v/6309111215112/"
     },
     {
-      "text": "mediabuzz",
+      "text": "fox news live",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Will states follow abortion ruling?",
-      "url": "https://video.foxnews.com/v/6309047269112/"
+      "text": "Fentanyl involved in 70% of 2020 drug overdoses, CDC says",
+      "url": "https://video.foxnews.com/v/6309111215112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309049662112/"
+      "url": "https://video.foxnews.com/v/6309110279112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309049662112/"
+      "url": "https://video.foxnews.com/v/6309110279112/"
     },
     {
-      "text": "mediabuzz",
+      "text": "Fox & Friends",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Media\u2019s biased Supreme Court coverage",
-      "url": "https://video.foxnews.com/v/6309049662112/"
+      "text": "Rep. Waltz slams Independence Day critics: It shows a level of cynicism and lack of perspective",
+      "url": "https://video.foxnews.com/v/6309110279112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309043776112/"
+      "url": "https://video.foxnews.com/v/6309105258112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309043776112/"
+      "url": "https://video.foxnews.com/v/6309105258112/"
     },
     {
-      "text": "sunday morning futures",
+      "text": "Fox & Friends",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Washington Senate candidate shares value of 'service over self'",
-      "url": "https://video.foxnews.com/v/6309043776112/"
+      "text": "Tim Kennedy shares Fourth of July message: 'Never been more proud' of US",
+      "url": "https://video.foxnews.com/v/6309105258112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309045620112/"
+      "url": "https://video.foxnews.com/v/6309108233112/"
     },
     {
       "text": "",
-      "url": "https://video.foxnews.com/v/6309045620112/"
+      "url": "https://video.foxnews.com/v/6309108233112/"
     },
     {
-      "text": "fox news sunday",
+      "text": "Fox & Friends",
       "url": "https://www.foxnews.com/shows"
     },
     {
-      "text": "Biden was \u2018honest\u2019 about gas prices prior to Russian invasion: John Kirby",
-      "url": "https://video.foxnews.com/v/6309045620112/"
+      "text": "Janice Dean to judge Nathan's hot dog eating contest this Fourth of July",
+      "url": "https://video.foxnews.com/v/6309108233112/"
     },
     {
       "text": "Show More",
       "url": "#"
     },
     {
-      "text": "",
-      "url": "https://www.foxnews.com/us/akron-police-bodycam-video-shooting-jayland-walker"
+      "text": "\n",
+      "url": "https://www.foxnews.com/us/texas-murder-suspect-armstrong-had-sisters-passport-costa-rica-receipt-plastic-surgery-receipt"
     },
     {
       "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "BODYCAM FOOTAGE: Police release video of deadly officer-involved shooting, urge calm amid probe",
-      "url": "https://www.foxnews.com/us/akron-police-bodycam-video-shooting-jayland-walker"
+      "text": "LIFE ON THE RUN: Cyclist murder fugitive nabbed with sister's passport, 'receipt' for surgery",
+      "url": "https://www.foxnews.com/us/texas-murder-suspect-armstrong-had-sisters-passport-costa-rica-receipt-plastic-surgery-receipt"
     },
     {
       "text": "",
-      "url": "https://www.foxbusiness.com/economy/toyota-recall-2022-tundra"
-    },
-    {
-      "text": "Economy",
-      "url": "https://www.foxbusiness.com/category/economy"
-    },
-    {
-      "text": "Major automaker recalls thousands of vehicles over potential danger",
-      "url": "https://www.foxbusiness.com/economy/toyota-recall-2022-tundra"
+      "url": "https://www.foxnews.com/us/chicago-crowds-attack-police-shoot-fireworks-late-night-unrest"
     },
     {
       "text": "",
-      "url": "https://www.foxnews.com/media/gov-kristi-noem-asked-south-dakota-force-10-year-old-have-baby-cnns-state-union"
+      "url": "https://www.foxnews.com/us/chicago-crowds-attack-police-shoot-fireworks-late-night-unrest"
+    },
+    {
+      "text": "U.S.\n",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Violent crowds in Dem-run city attack police, shoot fireworks",
+      "url": "https://www.foxnews.com/us/chicago-crowds-attack-police-shoot-fireworks-late-night-unrest"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/sports/daughter-blue-jays-coach-dies"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.foxnews.com/sports"
+    },
+    {
+      "text": "'DEVASTATING LOSS': MLB coach leaves dugout after tragedy claims daughter's life",
+      "url": "https://www.foxnews.com/sports/daughter-blue-jays-coach-dies"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/somali-music-festival-boos-ilhan-omar-minnesota-get-the-f-out-of-here"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/somali-music-festival-boos-ilhan-omar-minnesota-get-the-f-out-of-here"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "'Squad' member receives alarmingly hostile reaction from hometown crowd",
+      "url": "https://www.foxnews.com/us/somali-music-festival-boos-ilhan-omar-minnesota-get-the-f-out-of-here"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/entertainment/amber-heard-asks-court-toss-10m-verdict-johnny-depp-defamation-case"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Amber Heard asks court to toss $10M verdict in Johnny Depp defamation case",
+      "url": "https://www.foxnews.com/entertainment/amber-heard-asks-court-toss-10m-verdict-johnny-depp-defamation-case"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/kamala-harris-heading-chicago-after-bloody-holiday-weekend"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "CRIME CRISIS: VP Harris will travel to Democrat-run city after deadly shootings over the weekend",
+      "url": "https://www.foxnews.com/politics/kamala-harris-heading-chicago-after-bloody-holiday-weekend"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/world/hacker-biggest-chinese-data-breach-resident-records"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "HISTORIC HACK: More than a billion records reportedly stolen in massive China breach",
+      "url": "https://www.foxnews.com/world/hacker-biggest-chinese-data-breach-resident-records"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxbusiness.com/politics/company-vows-support-employees-who-give-brith-response-employers-covering-abortion-costs"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.foxbusiness.com/category/politics"
+    },
+    {
+      "text": "LIFE SUPPORT: Firm adds perks for pregnant workers, slams companies paying for abortions",
+      "url": "https://www.foxbusiness.com/politics/company-vows-support-employees-who-give-brith-response-employers-covering-abortion-costs"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/philadelphia-juveniles-failed-robbery-turns-violent-man-shot-woman-baby-report"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Failed robbery attempt by alleged juvenile suspect reportedly ends with man shot while with woman and baby",
+      "url": "https://www.foxnews.com/us/philadelphia-juveniles-failed-robbery-turns-violent-man-shot-woman-baby-report"
+    },
+    {
+      "text": "",
+      "url": "https://www.outkick.com/joey-chestnut-choked-out-a-protestor/"
+    },
+    {
+      "text": "Protestor finds out the hard way not to interrupt Joey Chestnut when he's eating hot dogs",
+      "url": "https://www.outkick.com/joey-chestnut-choked-out-a-protestor/"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/dobbs-msnbc-legal-analyst-predicts-privacy-abolished-desegregation-next"
     },
     {
       "text": "Media",
       "url": "https://www.foxnews.com/media"
     },
     {
-      "text": "Governor grilled over abortion 'trigger law' after pregnant child denied in Ohio",
-      "url": "https://www.foxnews.com/media/gov-kristi-noem-asked-south-dakota-force-10-year-old-have-baby-cnns-state-union"
+      "text": "MSNBC analyst predicts Supreme Court will bring back segregation",
+      "url": "https://www.foxnews.com/media/dobbs-msnbc-legal-analyst-predicts-privacy-abolished-desegregation-next"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/4th-july-npr-scraps-declaration-reading-tradition-equality-discussion"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "On 4th of July, NPR scraps Declaration reading tradition for \u2018equality\u2019 discussion",
+      "url": "https://www.foxnews.com/media/4th-july-npr-scraps-declaration-reading-tradition-equality-discussion"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/north-carolina-thieves-steal-7k-copper-wire-lowes-report"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Thieves allegedly make off with $7k in copper wire from Lowe's",
+      "url": "https://www.foxnews.com/us/north-carolina-thieves-steal-7k-copper-wire-lowes-report"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxbusiness.com/politics/u-s-energy-roast-biden-demanding-companies-running-gas-stations-lower-pump-prices"
     },
     {
       "text": "",
@@ -16669,128 +16961,8 @@
       "url": "https://www.foxbusiness.com/category/politics"
     },
     {
-      "text": "\n'ECON 101': US energy producers roast Biden for demanding 'companies running gas stations' lower prices",
+      "text": "FUELING FURY: Energy producers go scorched earth on Biden's gas price tweet",
       "url": "https://www.foxbusiness.com/politics/u-s-energy-roast-biden-demanding-companies-running-gas-stations-lower-pump-prices"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/us/100-year-old-wwii-vet-breaks-down-says-country-we-fought"
-    },
-    {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
-    },
-    {
-      "text": "'DOWN THE DRAIN': World War II hero breaks down in tears discussing what America has become",
-      "url": "https://www.foxnews.com/us/100-year-old-wwii-vet-breaks-down-says-country-we-fought"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/politics/newsom-july-4-ad-targets-desantis"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.foxnews.com/politics"
-    },
-    {
-      "text": "2024 WATCH: California governor makes waves by running campaign ad \u2014 in Florida",
-      "url": "https://www.foxnews.com/politics/newsom-july-4-ad-targets-desantis"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/media/msnbc-ali-velshi-praises-foreign-dictatorships-access-abortion"
-    },
-    {
-      "text": "Media",
-      "url": "https://www.foxnews.com/media"
-    },
-    {
-      "text": "MSNBC pundit praises dictatorships for abortion access, slams Supreme Court",
-      "url": "https://www.foxnews.com/media/msnbc-ali-velshi-praises-foreign-dictatorships-access-abortion"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/politics/political-experts-weigh-economys-impact-midterm-elections-amid-bad-economic-policies"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.foxnews.com/politics"
-    },
-    {
-      "text": "'SAFE SEATS WILL BE LOST': Experts warn Democrats are headed for midterm bloodbath as recession looms",
-      "url": "https://www.foxnews.com/politics/political-experts-weigh-economys-impact-midterm-elections-amid-bad-economic-policies"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/us/border-patrol-agents-texas-migrants-inside-toolboxes"
-    },
-    {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
-    },
-    {
-      "text": "Border Patrol agents discover migrants smuggled inside toolboxes at checkpoint",
-      "url": "https://www.foxnews.com/us/border-patrol-agents-texas-migrants-inside-toolboxes"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/us/chicago-35-people-shot-5-killed-bloody-july-4-weekend"
-    },
-    {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
-    },
-    {
-      "text": "BLOODY WEEKEND: Dozens shot, at least 5 people killed, as violence erupts in big Democrat-run city",
-      "url": "https://www.foxnews.com/us/chicago-35-people-shot-5-killed-bloody-july-4-weekend"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/media/dems-hate-democratic-process-judging-reaction-supreme-court-epa-ruling-sen-lee"
-    },
-    {
-      "text": "Media",
-      "url": "https://www.foxnews.com/media"
-    },
-    {
-      "text": "GOP senator: How you can tell Democrats 'hate' democratic process",
-      "url": "https://www.foxnews.com/media/dems-hate-democratic-process-judging-reaction-supreme-court-epa-ruling-sen-lee"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/us/florida-mans-hand-blown-off-fireworks"
-    },
-    {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
-    },
-    {
-      "text": "Man's hand blown off by fireworks, doctors reportedly unable to reattach",
-      "url": "https://www.foxnews.com/us/florida-mans-hand-blown-off-fireworks"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/sports/mets-jacob-degrom-interesting-suitor-report"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.foxnews.com/sports"
-    },
-    {
-      "text": "Mets' star pitcher may reportedly have interesting suitor if he opts out of deal",
-      "url": "https://www.foxnews.com/sports/mets-jacob-degrom-interesting-suitor-report"
-    },
-    {
-      "text": "",
-      "url": "https://www.foxnews.com/world/denmark-mall-shooting-several-dead-terrorism"
-    },
-    {
-      "text": "World",
-      "url": "https://www.foxnews.com/world"
-    },
-    {
-      "text": "'SHOOTING INTO THE CROWD': Several killed, terrorism not ruled out after gunman opens fire at Denmark mall",
-      "url": "https://www.foxnews.com/world/denmark-mall-shooting-several-dead-terrorism"
     },
     {
       "text": "",
@@ -16806,79 +16978,71 @@
     },
     {
       "text": "",
-      "url": "https://www.foxnews.com/politics/white-house-declines-clarify-biden-comments-gas-stations-lower-prices"
+      "url": "https://www.foxnews.com/entertainment/ricky-martin-denies-restraining-order-calls-allegations-completely-false"
     },
     {
-      "text": "Politics",
-      "url": "https://www.foxnews.com/politics"
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
     },
     {
-      "text": "RUNNING ON FUMES?: White House refuses to clarify Biden's controversial tweet about surging prices",
-      "url": "https://www.foxnews.com/politics/white-house-declines-clarify-biden-comments-gas-stations-lower-prices"
-    },
-    {
-      "text": "Video",
-      "url": "https://video.foxnews.com/v/6309043188112/"
-    },
-    {
-      "text": "Fox & Friends",
-      "url": "https://www.foxnews.com/shows"
-    },
-    {
-      "text": "\nFourth of July DIY projects that bring patriotic fun to the whole family",
-      "url": "https://video.foxnews.com/v/6309043188112/"
+      "text": "Ricky Martin breaks silence on allegations, restraining order",
+      "url": "https://www.foxnews.com/entertainment/ricky-martin-denies-restraining-order-calls-allegations-completely-false"
     },
     {
       "text": "",
-      "url": "https://www.foxnews.com/sports/kevin-durant-rumors-warriors-nba"
+      "url": "https://www.foxnews.com/sports/wimbledon-champ-rips-nick-kyrgios-outbursts"
     },
     {
       "text": "Sports",
       "url": "https://www.foxnews.com/sports"
     },
     {
-      "text": "NBA insider says a Kevin Durant return to the Warriors not out of the question",
-      "url": "https://www.foxnews.com/sports/kevin-durant-rumors-warriors-nba"
+      "text": "Wimbledon champ rips Nick Kyrgios over outbursts during Stefanos Tsitsipas match: 'Just an absolute circus'",
+      "url": "https://www.foxnews.com/sports/wimbledon-champ-rips-nick-kyrgios-outbursts"
     },
     {
       "text": "",
-      "url": "https://www.foxnews.com/politics/nsc-spox-responds-bezos-accusation-wh-inflation-misdirection"
+      "url": "https://www.foxbusiness.com/economy/burger-king-employee-gift-bag-27-years-300k-donations"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.foxbusiness.com/category/economy"
+    },
+    {
+      "text": "KING-SIZED GIFT: Exceptional employee gets big reward after boss hands him meager present",
+      "url": "https://www.foxbusiness.com/economy/burger-king-employee-gift-bag-27-years-300k-donations"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/orlando-says-people-probably-dont-want-celebrate-july-4th-backtracks"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/politics/orlando-says-people-probably-dont-want-celebrate-july-4th-backtracks"
     },
     {
       "text": "Politics",
       "url": "https://www.foxnews.com/politics"
     },
     {
-      "text": "FUMING OVER FUELING: WH fires back after Bezos accuses Biden of 'misdirection' over gas price tweet",
-      "url": "https://www.foxnews.com/politics/nsc-spox-responds-bezos-accusation-wh-inflation-misdirection"
+      "text": "STARS AND GRIPES: Big city backtracks after claiming people 'probably don't want to celebrate' July 4",
+      "url": "https://www.foxnews.com/politics/orlando-says-people-probably-dont-want-celebrate-july-4th-backtracks"
+    },
+    {
+      "text": "\n",
+      "url": "https://www.foxnews.com/politics/arizona-democrats-plan-4th-event-mourn-supreme-court-abortion-decision"
     },
     {
       "text": "",
-      "url": "https://www.foxnews.com/world/worker-disappears-accidentally-paid-300-times-salary"
+      "url": "https://www.foxnews.com/politics/arizona-democrats-plan-4th-event-mourn-supreme-court-abortion-decision"
     },
     {
-      "text": "",
-      "url": "https://www.foxnews.com/world/worker-disappears-accidentally-paid-300-times-salary"
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
     },
     {
-      "text": "World",
-      "url": "https://www.foxnews.com/world"
-    },
-    {
-      "text": "Worker disappears after accidentally overpaid 330 times his salary",
-      "url": "https://www.foxnews.com/world/worker-disappears-accidentally-paid-300-times-salary"
-    },
-    {
-      "text": "Video",
-      "url": "https://video.foxnews.com/v/6309041629112/"
-    },
-    {
-      "text": "Fox & Friends",
-      "url": "https://www.foxnews.com/shows"
-    },
-    {
-      "text": "How to cook up an Independence Day meal",
-      "url": "https://video.foxnews.com/v/6309041629112/"
+      "text": "TRUE COLORS: Democrats promote 'f--- the 4th' event as Americans celebrate holiday",
+      "url": "https://www.foxnews.com/politics/arizona-democrats-plan-4th-event-mourn-supreme-court-abortion-decision"
     },
     {
       "text": "",
@@ -16889,8 +17053,52 @@
       "url": "https://www.foxnews.com/sports"
     },
     {
-      "text": "SEE PICS:If you thought even Tom Brady takes a load off during a vacation to Italy, think again",
+      "text": "G.O.A.T. ON A BOAT: Pics show Tom Brady vacationing with family on massive yacht",
       "url": "https://www.foxnews.com/sports/buccaneers-tom-brady-training-session-son-vacationing-italy-family"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/left-renounces-independence-day-twitter-burn-country-ground"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/media/left-renounces-independence-day-twitter-burn-country-ground"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Leftists renounce Independence Day on Twitter: 'Burn country to godd--- ground'",
+      "url": "https://www.foxnews.com/media/left-renounces-independence-day-twitter-burn-country-ground"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/july-4th-america-answers-are-you-proud-american"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/july-4th-america-answers-are-you-proud-american"
+    },
+    {
+      "text": "\nU.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "WATCH:Americans don't mince words when asked if they are proud of the US",
+      "url": "https://www.foxnews.com/us/july-4th-america-answers-are-you-proud-american"
+    },
+    {
+      "text": "",
+      "url": "https://www.foxnews.com/us/cornell-university-removes-gettysburg-address-lincoln-bust-from-library-alleged-complaint"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Cornell University removes Gettysburg Address, Lincoln bust from library after alleged complaint",
+      "url": "https://www.foxnews.com/us/cornell-university-removes-gettysburg-address-lincoln-bust-from-library-alleged-complaint"
     },
     {
       "text": "",
@@ -16913,11 +17121,11 @@
       "url": "https://www.foxnews.com/lifestyle"
     },
     {
-      "text": "SEA TO SHINING SEA: Celebrate the natural and historic wonders of the US with these iconic sites",
+      "text": "ICONIC AMERICA: The must-see historic wonders of the US for your summer road trip",
       "url": "https://www.foxnews.com/lifestyle/america-50-landmarks-national-story"
     },
     {
-      "text": "",
+      "text": "\n",
       "url": "https://www.foxnews.com/lifestyle/4th-july-quiz-independence-day"
     },
     {
@@ -16925,7 +17133,7 @@
       "url": "https://www.foxnews.com/lifestyle"
     },
     {
-      "text": "\nFOURTH OF JULY QUIZ! How well do you know Independence Day?",
+      "text": "FOURTH OF JULY QUIZ! How well do you know Independence Day?",
       "url": "https://www.foxnews.com/lifestyle/4th-july-quiz-independence-day"
     },
     {
@@ -16941,10 +17149,6 @@
       "url": "https://www.foxnews.com/politics/cartoons-slideshow"
     },
     {
-      "text": "",
-      "url": "https://www.foxnews.com/go"
-    },
-    {
       "text": "Join Now",
       "url": "https://nation.foxnews.com/watch/4f30b728ef3642e401040448feae51c7/?cmpid=org=NAT::ag=owned::mc=FNC_display::src=FNC_web::cmp=homepage::add=watch_platform_vd_AmericanDynasty&utm_source=FNC_display&utm_medium=FNC_web&utm_campaign=homepage&utm_content=watch_platform_vd_creative"
     },
@@ -16957,6 +17161,14 @@
       "url": "#"
     },
     {
+      "text": "July 4th restaurant freebies and deals you can't miss",
+      "url": "https://www.foxbusiness.com/lifestyle/july-4th-restaurant-freebies-deals"
+    },
+    {
+      "text": "Grilled salmon skewers for summer barbecues: Try the recipe",
+      "url": "https://www.foxnews.com/food-drink/grilled-salmon-skewers-recipe"
+    },
+    {
       "text": "Host a special Fourth of July feast with blueberry barbeque pulled pork and Tex-Mex chicken pull apart bread",
       "url": "https://www.foxnews.com/media/fourth-of-july-feast-blueberry-barbeque-pulled-pork-tex-mex-chicken-bread"
     },
@@ -16965,16 +17177,8 @@
       "url": "https://www.foxnews.com/lifestyle/try-easy-4th-july-bundt-cake-recipe-looks-like-firework-beautiful"
     },
     {
-      "text": "For Independence Day, try these delicious, low-calorie dessert ideas",
-      "url": "https://www.foxnews.com/lifestyle/10-low-calorie-desserts-for-4th-of-july"
-    },
-    {
       "text": "Dogs, cats go missing on the holiday more than any other day",
       "url": "https://www.foxnews.com/lifestyle/4th-july-pets-dogs-cats-go-missing-holiday-more-any-other-day"
-    },
-    {
-      "text": "Celebrate the 4th of July weekend in Boston: 'All about traditions'",
-      "url": "https://www.foxnews.com/lifestyle/celebrate-4th-july-weekend-boston-traditions"
     },
     {
       "text": "Your Money",
@@ -17049,43 +17253,43 @@
       "url": "https://video.foxnews.com/v/6308730502112/"
     },
     {
-      "text": "When pets go MISSING",
-      "url": "https://www.foxnews.com/lifestyle/4th-july-pets-dogs-cats-go-missing-holiday-more-any-other-day"
+      "text": "Chestnut competes on CRUTCHES",
+      "url": "https://www.foxnews.com/lifestyle/coney-island-hot-dog-champ-joey-chestnut"
     },
     {
-      "text": "Stars SHARE health updates",
-      "url": "https://www.foxnews.com/entertainment/travis-barker-kourtney-kardashian-share-updates-health-scare"
+      "text": "Singer CANCELS concert",
+      "url": "https://www.foxnews.com/entertainment/harry-styles-cancels-copenhagen-concert-heartbroken-mall-shooting-three-people-killed"
     },
     {
-      "text": "Actress TIED the knot",
-      "url": "https://www.foxnews.com/entertainment/lindsay-lohan-marries-bader-shammas"
+      "text": "Star celebrates MILESTONE",
+      "url": "https://www.foxnews.com/entertainment/tom-cruise-birthday-60"
     },
     {
-      "text": "Dad DEFENDS son amid legal troubles",
-      "url": "https://www.foxnews.com/entertainment/todd-julie-chrisley-son-grayson-guard-tender-heart-legal-troubles"
+      "text": "Fourth of July hits WRONG note",
+      "url": "https://www.foxnews.com/entertainment/katy-perry-bette-midler-jessica-chastain-lead-online-independence-day-protest-july-4th-canceled"
     },
     {
-      "text": "Drummer's wife dead at 55\n",
-      "url": "https://www.foxnews.com/entertainment/aerosmith-drummers-wife-linda-kramer-dead-55"
+      "text": "Twenty YEARS married today",
+      "url": "https://www.foxnews.com/entertainment/julia-roberts-praises-husband-danny-moder-20th-wedding-anniversary-cant-stop-smiling"
     },
     {
-      "text": "The MOST American car is ..?",
-      "url": "https://www.foxnews.com/auto/tesla-model-3-most-american-made-car"
+      "text": "Most powerful USA cars",
+      "url": "https://www.foxnews.com/auto/the-most-powerful-american-cars-ever"
     },
     {
-      "text": "How fireworks can affect VETERANS",
-      "url": "https://www.foxnews.com/lifestyle/fourth-july-fireworks-ptsd-veterans-holiday"
+      "text": "July 4th FREEBIES and deals",
+      "url": "https://www.foxbusiness.com/lifestyle/july-4th-restaurant-freebies-deals"
     },
     {
-      "text": "New David Bowie Barbie REVEALED",
-      "url": "https://www.foxbusiness.com/lifestyle/david-bowie-barbie-doll-dressed-iconic-blue-suit-released-mattel"
+      "text": "Man catches HUGE snapping turtle",
+      "url": "https://www.foxnews.com/great-outdoors/texas-fisherman-reels-massive-alligator-snapping-turtle"
     },
     {
-      "text": "When Chick-fil-A's breakfast ENDS",
-      "url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-breakfast-time-does-end"
+      "text": "TRY IT: Easy July 4th Bundt cake",
+      "url": "https://www.foxnews.com/lifestyle/try-easy-4th-july-bundt-cake-recipe-looks-like-firework-beautiful"
     },
     {
-      "text": "\nThis SUV is BULLETPROOF",
+      "text": "This SUV is BULLETPROOF",
       "url": "https://www.foxnews.com/auto/safe-armored-lexus-lx-600-suv"
     },
     {
@@ -17158,50 +17362,50 @@
     },
     {
       "text": "",
-      "url": "//www.foxbusiness.com/politics/u-s-energy-roast-biden-demanding-companies-running-gas-stations-lower-pump-prices"
+      "url": "//www.foxbusiness.com/lifestyle/most-least-independent-states-2022-report"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxbusiness.com/category/lifestyle"
+    },
+    {
+      "text": "The most, least independent states in 2022: report",
+      "url": "//www.foxbusiness.com/lifestyle/most-least-independent-states-2022-report"
     },
     {
       "text": "Politics",
       "url": "https://www.foxbusiness.com/category/politics"
     },
     {
-      "text": "US energy producers roast Biden for demanding 'companies running gas stations' lower pump prices",
-      "url": "//www.foxbusiness.com/politics/u-s-energy-roast-biden-demanding-companies-running-gas-stations-lower-pump-prices"
+      "text": "Company vows support for employees who give birth in response to employers covering abortion costs",
+      "url": "//www.foxbusiness.com/politics/company-vows-support-employees-who-give-brith-response-employers-covering-abortion-costs"
     },
     {
-      "text": "Politics",
-      "url": "https://www.foxbusiness.com/category/politics"
+      "text": "Lifestyle",
+      "url": "https://www.foxbusiness.com/category/lifestyle"
     },
     {
-      "text": "Germany\u2019s union head warns cutting off Russian gas could topple major industries",
-      "url": "//www.foxbusiness.com/politics/germans-union-head-warns-cutting-russian-gas-topple-major-industries"
+      "text": "Career challenge in 2022: How should you handle a lazy co-worker?",
+      "url": "//www.foxbusiness.com/lifestyle/career-how-handle-co-worker"
     },
     {
       "text": "Economy",
       "url": "https://www.foxbusiness.com/category/economy"
     },
     {
-      "text": "Toyota recalling thousands of 2022 Tundra vehicles",
-      "url": "//www.foxbusiness.com/economy/toyota-recall-2022-tundra"
+      "text": "\nJuly Fourth fireworks: Biden's inflation means everything is sky-high for Americans this year",
+      "url": "//www.foxbusiness.com/economy/july-fourth-fireworks-biden-inflation-means-everything-sky-high"
     },
     {
-      "text": "Markets",
-      "url": "https://www.foxbusiness.com/category/markets"
+      "text": "Economy",
+      "url": "https://www.foxbusiness.com/category/economy"
     },
     {
-      "text": "Why ETFs are a good investment value",
-      "url": "//www.foxbusiness.com/markets/why-etfs-good-investment-value"
+      "text": "Burger King employee awarded gift bag for never missing a day in 27 years receives $300K in donations",
+      "url": "//www.foxbusiness.com/economy/burger-king-employee-gift-bag-27-years-300k-donations"
     },
     {
-      "text": "Markets",
-      "url": "https://www.foxbusiness.com/category/markets"
-    },
-    {
-      "text": "Factors that should guide your ETF choices",
-      "url": "//www.foxbusiness.com/markets/factors-should-guide-your-etf-choices"
-    },
-    {
-      "text": "Coronavirus",
+      "text": "\nCoronavirus",
       "url": "//www.foxnews.com/category/health/infectious-disease/coronavirus"
     },
     {
@@ -17210,14 +17414,22 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/us/us-religious-leaders-explain-why-faith-god-hit-lowest-level-ever-say-covid-made-worse"
+      "url": "//www.foxnews.com/health/july-4th-covid-killing-hundreds-americans-day"
     },
     {
-      "text": "U.S.\n",
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "This July 4th, COVID is still killing hundreds of Americans each day",
+      "url": "//www.foxnews.com/health/july-4th-covid-killing-hundreds-americans-day"
+    },
+    {
+      "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "US religious leaders explain why faith in God hit lowest level ever, say COVID made it worse",
+      "text": "\nUS religious leaders explain why faith in God hit lowest level ever, say COVID made it worse",
       "url": "//www.foxnews.com/us/us-religious-leaders-explain-why-faith-god-hit-lowest-level-ever-say-covid-made-worse"
     },
     {
@@ -17245,14 +17457,6 @@
       "url": "//www.foxnews.com/world/russia-scraps-remaining-covid-restrictions"
     },
     {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
-    },
-    {
-      "text": "FDA wants COVID boosters targeting Omicron BA.4, BA.5 subvariants",
-      "url": "//www.foxnews.com/us/fda-wants-covid-boosters-targeting-omicron-ba-4-ba-5-subvariants"
-    },
-    {
       "text": "Fox News Flash",
       "url": "//www.foxnews.com/category/media/fox-news-flash"
     },
@@ -17262,14 +17466,38 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/media/dems-hate-democratic-process-judging-reaction-supreme-court-epa-ruling-sen-lee"
+      "url": "//www.foxnews.com/media/former-investigator-illinois-parade-shooting-circumstances-suggest-pre-planning-involved"
     },
     {
       "text": "Media",
       "url": "https://www.foxnews.com/media"
     },
     {
-      "text": "\nDems 'hate' democratic process judging by reaction to Supreme Court EPA ruling: Sen. Lee",
+      "text": "Former investigator on Illinois parade shooting: Circumstances suggest there was pre-planning involved",
+      "url": "//www.foxnews.com/media/former-investigator-illinois-parade-shooting-circumstances-suggest-pre-planning-involved"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Let's rise above the culture wars this Fourth of July and come together as Americans: Steve Hilton",
+      "url": "//www.foxnews.com/media/steve-hilton-culture-wars-fourth-of-july"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Shannon Bream explains the proper role of the Supreme Court that is outlined in the Constitution",
+      "url": "//www.foxnews.com/media/shannon-bream-explains-proper-role-supreme-court-constitution"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Dems 'hate' democratic process judging by reaction to Supreme Court EPA ruling: Sen. Lee",
       "url": "//www.foxnews.com/media/dems-hate-democratic-process-judging-reaction-supreme-court-epa-ruling-sen-lee"
     },
     {
@@ -17281,30 +17509,6 @@
       "url": "//www.foxnews.com/media/texas-gov-abbott-mounting-border-crisis-biden-abandoned-all-border-states"
     },
     {
-      "text": "Media",
-      "url": "https://www.foxnews.com/media"
-    },
-    {
-      "text": "July 4th: Americans feel less patriotic, but Joey Jones urges focus on 'amazing history and trajectory'",
-      "url": "//www.foxnews.com/media/july-4th-americans-feel-less-patriotic-joey-jones-amazing-history-trajectory"
-    },
-    {
-      "text": "Media",
-      "url": "https://www.foxnews.com/media"
-    },
-    {
-      "text": "Lee Zeldin calls out Kathy Hochul for 'targeting' law-abiding citizens with NY gun law",
-      "url": "//www.foxnews.com/media/lee-zeldin-calls-kathy-hochul-targeting-law-abiding-citizens-ny-gun-law"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.foxnews.com/opinion"
-    },
-    {
-      "text": "Greg Gutfeld ripped the LA Times for 'mysteriously' leaving off one show from their January 6 Committee recap",
-      "url": "//www.foxnews.com/opinion/greg-gutfeld-ripped-la-times-january-6-committee-recap"
-    },
-    {
       "text": "Politics",
       "url": "//www.foxnews.com/politics"
     },
@@ -17314,47 +17518,47 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/politics/dhs-secretary-mayorkas-appears-blame-migrants-53-people-dead-texas-truck"
+      "url": "//www.foxnews.com/politics/july-4th-politics-hassan-charges-gop-challengers-battleground-new-hampshire-extreme"
+    },
+    {
+      "text": "Politics\n",
+      "url": "https://www.foxnews.com/politics"
+    },
+    {
+      "text": "July 4th politics: Hassan charges her GOP challengers in battleground New Hampshire are \u2018extreme opponents\u2019",
+      "url": "//www.foxnews.com/politics/july-4th-politics-hassan-charges-gop-challengers-battleground-new-hampshire-extreme"
     },
     {
       "text": "Politics",
       "url": "https://www.foxnews.com/politics"
     },
     {
-      "text": "DHS Secretary Mayorkas appears to place blame on migrants after 53 people found dead in Texas truck",
-      "url": "//www.foxnews.com/politics/dhs-secretary-mayorkas-appears-blame-migrants-53-people-dead-texas-truck"
+      "text": "\nGOP group working to elect Republicans at state level says economy remains focus for voters ahead of midterms",
+      "url": "//www.foxnews.com/politics/gop-group-working-elect-republicans-says-economy-remains-focus-voters-ahead-midterms"
     },
     {
       "text": "Politics",
       "url": "https://www.foxnews.com/politics"
     },
     {
-      "text": "White House declines to clarify Biden's comments imploring gas stations to lower prices",
-      "url": "//www.foxnews.com/politics/white-house-declines-clarify-biden-comments-gas-stations-lower-prices"
+      "text": "Kamala Harris heading to Chicago after bloody July 4th holiday weekend",
+      "url": "//www.foxnews.com/politics/kamala-harris-heading-chicago-after-bloody-holiday-weekend"
     },
     {
       "text": "Politics",
       "url": "https://www.foxnews.com/politics"
     },
     {
-      "text": "Newsom July 4 ad targets DeSantis: 'Freedom is under attack'",
-      "url": "//www.foxnews.com/politics/newsom-july-4-ad-targets-desantis"
+      "text": "AOC-backed Dem has history of trashing America, called US founding 'awful'",
+      "url": "//www.foxnews.com/politics/aoc-backed-dem-history-trashing-america-called-us-founding-awful"
     },
     {
       "text": "Politics",
       "url": "https://www.foxnews.com/politics"
     },
     {
-      "text": "\nMississippi Gov. Reeves focuses on \u2018culture of life\u2019 after Roe v. Wade: \u2018Not simply about being anti-abortion\u2019",
-      "url": "//www.foxnews.com/politics/mississippi-gov-reeves-culture-life-roe-v-wade"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.foxnews.com/politics"
-    },
-    {
-      "text": "Becerra: Federal gov 'looking into' helping women cross state lines for abortions",
-      "url": "//www.foxnews.com/politics/becerra-federal-gov-looking-helping-women-cross-state-lines-abortions"
+      "text": "Biden says America's 'best days still lie ahead' in July 4th message",
+      "url": "//www.foxnews.com/politics/biden-says-best-days-still-lie-ahead-july-4th-message"
     },
     {
       "text": "U.S.",
@@ -17366,47 +17570,47 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/us/chicago-35-people-shot-5-killed-bloody-july-4-weekend"
+      "url": "//www.foxnews.com/us/highland-park-july-4th-parade-shooting-like-a-war-zone-witness-says"
     },
     {
       "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "Chicago sees 37 people shot, 7 killed, in bloody July 4 weekend",
-      "url": "//www.foxnews.com/us/chicago-35-people-shot-5-killed-bloody-july-4-weekend"
+      "text": "Highland Park July 4th parade shooting was 'like a war zone,' witness says",
+      "url": "//www.foxnews.com/us/highland-park-july-4th-parade-shooting-like-a-war-zone-witness-says"
     },
     {
       "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "Florida man's gets hand blown off by fireworks",
-      "url": "//www.foxnews.com/us/florida-mans-hand-blown-off-fireworks"
+      "text": "North Carolina thieves steal $7K in copper wire from Lowe's: report",
+      "url": "//www.foxnews.com/us/north-carolina-thieves-steal-7k-copper-wire-lowes-report"
     },
     {
       "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "Border Patrol agents in Texas discover migrants smuggled inside toolboxes at checkpoint",
-      "url": "//www.foxnews.com/us/border-patrol-agents-texas-migrants-inside-toolboxes"
+      "text": "Philadelphia juvenile's failed robbery turns violent, man shot while with woman and baby: report",
+      "url": "//www.foxnews.com/us/philadelphia-juveniles-failed-robbery-turns-violent-man-shot-woman-baby-report"
     },
     {
       "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "\nAkron police release bodycam video in shooting of Jayland Walker",
-      "url": "//www.foxnews.com/us/akron-police-bodycam-video-shooting-jayland-walker"
+      "text": "Texas murder suspect Armstrong had sister\u2019s passport in Costa Rica, \u2018receipt\u2019 for plastic surgery: report",
+      "url": "//www.foxnews.com/us/texas-murder-suspect-armstrong-had-sisters-passport-costa-rica-receipt-plastic-surgery-receipt"
     },
     {
       "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "Long-missing Alexander Hamilton letter put on public display",
-      "url": "//www.foxnews.com/us/long-missing-alexander-hamilton-letter-public-display"
+      "text": "Illinois 4th of July parade erupts into chaos after shooter kills 6, injures 31 others; manhunt underway",
+      "url": "//www.foxnews.com/us/chaos-erupts-multiple-people-are-shot-4th-july-parade"
     },
     {
       "text": "World",
@@ -17418,22 +17622,38 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/world/denmark-mall-shooting-several-dead-terrorism"
+      "url": "//www.foxnews.com/world/hacker-biggest-chinese-data-breach-resident-records"
     },
     {
       "text": "World",
       "url": "https://www.foxnews.com/world"
     },
     {
-      "text": "\nDenmark mall shooting update: several dead, terrorism not ruled out",
-      "url": "//www.foxnews.com/world/denmark-mall-shooting-several-dead-terrorism"
+      "text": "Hacker claims biggest Chinese data breach with 1 billion resident records stolen: Report",
+      "url": "//www.foxnews.com/world/hacker-biggest-chinese-data-breach-resident-records"
     },
     {
       "text": "World",
       "url": "https://www.foxnews.com/world"
     },
     {
-      "text": "Italian glacier collapse leaves at least five people dead",
+      "text": "Pope Francis dismisses rumors about resigning, says he wants to visit Moscow, Kyiv",
+      "url": "//www.foxnews.com/world/pope-francis-dismisses-rumors-resigning"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Denmark mall shooting: Suspect acted alone and incident was not terror-related, Copenhagen police say",
+      "url": "//www.foxnews.com/world/denmark-mall-shooting-suspect-alone-not-terror-copenhagen"
+    },
+    {
+      "text": "World",
+      "url": "https://www.foxnews.com/world"
+    },
+    {
+      "text": "Italian glacier collapse leaves at least six people dead",
       "url": "//www.foxnews.com/world/italian-glacier-collapse-leaves-five-people-dead"
     },
     {
@@ -17441,24 +17661,8 @@
       "url": "https://www.foxnews.com/world"
     },
     {
-      "text": "Denmark shopping mall shooting unfolds across the street from Harry Styles concert venue",
-      "url": "//www.foxnews.com/world/denmark-shopping-mall-shooting-harry-styles-concert-venue"
-    },
-    {
-      "text": "World",
-      "url": "https://www.foxnews.com/world"
-    },
-    {
-      "text": "Bus falls into deep ravine in southwest Pakistan, killing 19",
-      "url": "//www.foxnews.com/world/bus-falls-ravine-southwest-pakistan-killing-19"
-    },
-    {
-      "text": "World",
-      "url": "https://www.foxnews.com/world"
-    },
-    {
-      "text": "More Chinese cities impose COVID lockdowns as 'clusters' spread",
-      "url": "//www.foxnews.com/world/more-chinese-cities-impose-covid-lockdowns-clusters-spread"
+      "text": "Denmark mall shooting update: 3 dead and 3 in critical condition, terrorism not ruled out",
+      "url": "//www.foxnews.com/world/denmark-mall-shooting-several-dead-terrorism"
     },
     {
       "text": "America Together",
@@ -17470,7 +17674,15 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/media/july-4th-americans-feel-less-patriotic-joey-jones-amazing-history-trajectory"
+      "url": "//www.foxnews.com/lifestyle/july-4th-photo-pictures-america-independence"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "July 4th photo feature: These pictures over the years honor and celebrate America's independence",
+      "url": "//www.foxnews.com/lifestyle/july-4th-photo-pictures-america-independence"
     },
     {
       "text": "Media",
@@ -17501,16 +17713,8 @@
       "url": "https://www.foxnews.com/media"
     },
     {
-      "text": "\n5 things to stream on Fox Nation that celebrate America this July",
+      "text": "5 things to stream on Fox Nation that celebrate America this July",
       "url": "//www.foxnews.com/media/5-things-stream-fox-nation-celebrate-america-this-july"
-    },
-    {
-      "text": "Lifestyle",
-      "url": "https://www.foxnews.com/lifestyle"
-    },
-    {
-      "text": "July 4th trivia: Who were the signers of the Declaration of Independence?",
-      "url": "//www.foxnews.com/lifestyle/july-4-signers-declaration-independence"
     },
     {
       "text": "Opinion",
@@ -17522,10 +17726,26 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/opinion/july-4th-commit-restoring-american-dream"
+      "url": "//www.foxnews.com/opinion/i-am-democrat-still-love-my-country"
     },
     {
       "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "I am a Democrat and I still love my country",
+      "url": "//www.foxnews.com/opinion/i-am-democrat-still-love-my-country"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.foxnews.com/opinion"
+    },
+    {
+      "text": "On July 4th, I celebrate my remarkable journey which is only possible in America",
+      "url": "//www.foxnews.com/opinion/july-4th-celebrate-remarkable-journey-possible-america"
+    },
+    {
+      "text": "\nOpinion",
       "url": "https://www.foxnews.com/opinion"
     },
     {
@@ -17547,22 +17767,6 @@
     {
       "text": "This July 4th, House GOP pledges to honor our fundamental freedoms",
       "url": "//www.foxnews.com/opinion/july-4th-house-gop-pledges-honor"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.foxnews.com/opinion"
-    },
-    {
-      "text": "Real July 4th fireworks -- don't let the left cancel Independence Day",
-      "url": "//www.foxnews.com/opinion/july-4th-fireworks-left-cancel-independence-day"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.foxnews.com/opinion"
-    },
-    {
-      "text": "Greg Gutfeld ripped the LA Times for 'mysteriously' leaving off one show from their January 6 Committee recap",
-      "url": "//www.foxnews.com/opinion/greg-gutfeld-ripped-la-times-january-6-committee-recap"
     },
     {
       "text": "What to Watch",
@@ -17630,47 +17834,47 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/auto/the-most-powerful-american-cars-ever"
+      "url": "//www.foxnews.com/auto/jeep-most-patriotic-automaker-brand"
     },
     {
       "text": "Cars + Trucks",
       "url": "https://www.foxnews.com/auto"
     },
     {
-      "text": "The most powerful American cars ever",
-      "url": "//www.foxnews.com/auto/the-most-powerful-american-cars-ever"
+      "text": "Jeep named most patriotic automaker and brand",
+      "url": "//www.foxnews.com/auto/jeep-most-patriotic-automaker-brand"
     },
     {
-      "text": "Opinion",
-      "url": "https://www.foxnews.com/opinion"
+      "text": "Politics",
+      "url": "https://www.foxnews.com/politics"
     },
     {
-      "text": "This July 4th, House GOP pledges to honor our fundamental freedoms",
-      "url": "//www.foxnews.com/opinion/july-4th-house-gop-pledges-honor"
+      "text": "Capitol July 4th concert resumes with in-person crowds after two years",
+      "url": "//www.foxnews.com/politics/capitol-july-4th-concert-resumes-crowds-after-two-years"
+    },
+    {
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
+    },
+    {
+      "text": "Jeep salutes U.S. military with Wrangler and Gladiator Freedom edition trucks",
+      "url": "//www.foxnews.com/auto/jeep-salutes-us-military-wrangler-gladiator-freedom-trucks"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.foxnews.com/lifestyle"
+    },
+    {
+      "text": "July 4th photo feature: These pictures over the years honor and celebrate America's independence",
+      "url": "//www.foxnews.com/lifestyle/july-4th-photo-pictures-america-independence"
     },
     {
       "text": "Media",
       "url": "https://www.foxnews.com/media"
     },
     {
-      "text": "July 4th: Americans feel less patriotic, but Joey Jones urges focus on 'amazing history and trajectory'",
-      "url": "//www.foxnews.com/media/july-4th-americans-feel-less-patriotic-joey-jones-amazing-history-trajectory"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.foxnews.com/opinion"
-    },
-    {
-      "text": "Real July 4th fireworks -- don't let the left cancel Independence Day",
-      "url": "//www.foxnews.com/opinion/july-4th-fireworks-left-cancel-independence-day"
-    },
-    {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
-    },
-    {
-      "text": "Ahead of July 4th, America answers: Are you proud to be an American?",
-      "url": "//www.foxnews.com/us/july-4th-america-answers-are-you-proud-american"
+      "text": "Let's rise above the culture wars this Fourth of July and come together as Americans: Steve Hilton",
+      "url": "//www.foxnews.com/media/steve-hilton-culture-wars-fourth-of-july"
     },
     {
       "text": "Family",
@@ -17689,7 +17893,7 @@
       "url": "https://www.foxnews.com/health"
     },
     {
-      "text": "\nGoing away this summer? Make sure to avoid carbon monoxide poisoning",
+      "text": "Going away this summer? Make sure to avoid carbon monoxide poisoning",
       "url": "//www.foxnews.com/health/summer-avoid-carbon-monoxide-poisoning"
     },
     {
@@ -17717,7 +17921,7 @@
       "url": "//www.foxnews.com/us/new-jersey-man-sentenced-150-years-prison-killing-family-members-2017"
     },
     {
-      "text": "Entertainment\n",
+      "text": "Entertainment",
       "url": "https://www.foxnews.com/entertainment"
     },
     {
@@ -17734,47 +17938,47 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/entertainment/jhene-aiko-pregnant-overjoyed-expecting-first-child-rapper-big-sean"
+      "url": "//www.foxnews.com/entertainment/katy-perry-bette-midler-jessica-chastain-lead-online-independence-day-protest-july-4th-canceled"
     },
     {
       "text": "Entertainment",
       "url": "https://www.foxnews.com/entertainment"
     },
     {
-      "text": "\nJhen\u00e9 Aiko is pregnant and 'overjoyed' to be expecting first child with rapper boyfriend Big Sean",
-      "url": "//www.foxnews.com/entertainment/jhene-aiko-pregnant-overjoyed-expecting-first-child-rapper-big-sean"
+      "text": "\nKaty Perry, Bette Midler and Jessica Chastain lead online Independence Day protests: 'July 4th canceled'",
+      "url": "//www.foxnews.com/entertainment/katy-perry-bette-midler-jessica-chastain-lead-online-independence-day-protest-july-4th-canceled"
     },
     {
       "text": "Entertainment",
       "url": "https://www.foxnews.com/entertainment"
     },
     {
-      "text": "'Minions' set box office on fire with $108.5 million debut",
-      "url": "//www.foxnews.com/entertainment/minions-makes-108-million-box-office-debut"
+      "text": "Julia Roberts praises husband Danny Moder on 20th wedding anniversary: 'Can\u2019t stop smiling'",
+      "url": "//www.foxnews.com/entertainment/julia-roberts-praises-husband-danny-moder-20th-wedding-anniversary-cant-stop-smiling"
     },
     {
       "text": "Entertainment",
       "url": "https://www.foxnews.com/entertainment"
     },
     {
-      "text": "Prince Harry says he sees his mother Princess Diana's legacy in his own children every day",
-      "url": "//www.foxnews.com/entertainment/prince-harry-mother-princess-dianas-legacy-own-children"
+      "text": "Amber Heard asks court to toss $10M verdict in Johnny Depp defamation case",
+      "url": "//www.foxnews.com/entertainment/amber-heard-asks-court-toss-10m-verdict-johnny-depp-defamation-case"
     },
     {
       "text": "Entertainment",
       "url": "https://www.foxnews.com/entertainment"
     },
     {
-      "text": "Hollywood's surprising take on divorce",
-      "url": "//www.foxnews.com/entertainment/hollywood-surprising-take-divorce"
+      "text": "Ricky Martin denies restraining order, calls allegations 'completely false'",
+      "url": "//www.foxnews.com/entertainment/ricky-martin-denies-restraining-order-calls-allegations-completely-false"
     },
     {
       "text": "Entertainment",
       "url": "https://www.foxnews.com/entertainment"
     },
     {
-      "text": "Sports Illustrated Swimsuit model Camille Kostek on the 2022 issue, staying in shape: 'Up for the challenge'",
-      "url": "//www.foxnews.com/entertainment/sports-illustrated-swimsuit-model-camille-kostek-2022-issue"
+      "text": "Kate Hudson poses topless on Instagram and receives awkward reaction from older brother Oliver",
+      "url": "//www.foxnews.com/entertainment/kate-hudson-poses-topless-instagram-awkward-reaction-older-brother-oliver"
     },
     {
       "text": "Sports",
@@ -17786,47 +17990,47 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/sports/lightning-trade-ryan-mcdonagh-predators"
+      "url": "//www.foxnews.com/sports/justin-thomas-shade-liv-golf-competitors-ryder-cup"
     },
     {
       "text": "Sports",
       "url": "https://www.foxnews.com/sports"
     },
     {
-      "text": "Lightning trade Ryan McDonagh to Predators in cap-clearing move",
-      "url": "//www.foxnews.com/sports/lightning-trade-ryan-mcdonagh-predators"
+      "text": "Justin Thomas throws shade at LIV Golf competitors over Ryder Cup remarks",
+      "url": "//www.foxnews.com/sports/justin-thomas-shade-liv-golf-competitors-ryder-cup"
     },
     {
       "text": "Sports",
       "url": "https://www.foxnews.com/sports"
     },
     {
-      "text": "Wimbledon 2022: Novak Djokovic cedes set to wild-card entry, still wins",
-      "url": "//www.foxnews.com/sports/wimbledon-2022-novak-djokovic-wild-card-entry"
+      "text": "Wimbledon champ rips Nick Kyrgios over outbursts during Stefanos Tsitsipas match: 'Just an absolute circus'",
+      "url": "//www.foxnews.com/sports/wimbledon-champ-rips-nick-kyrgios-outbursts"
     },
     {
       "text": "Sports",
       "url": "https://www.foxnews.com/sports"
     },
     {
-      "text": "Wimbledon 2022: Ons Jabeur reaches quarterfinal again, sets 'very high' goals",
-      "url": "//www.foxnews.com/sports/wimbledon-2022-ons-jabeur-quarterfinal-again"
+      "text": "Wimbledon appeals fine from WTA over Russia ban",
+      "url": "//www.foxnews.com/sports/wimbledon-appeals-fine-wta"
     },
     {
       "text": "Sports",
       "url": "https://www.foxnews.com/sports"
     },
     {
-      "text": "Kevin Durant trade rumors: Warriors team to 'keep an eye on,' NBA insider says",
-      "url": "//www.foxnews.com/sports/kevin-durant-rumors-warriors-nba"
+      "text": "Davante Adams' numbers may suffer without Aaron Rodgers as his quarterback, Brett Favre says",
+      "url": "//www.foxnews.com/sports/davante-adams-without-aaron-rodgers-brett-favre"
     },
     {
       "text": "Sports",
       "url": "https://www.foxnews.com/sports"
     },
     {
-      "text": "Money in the Bank 2022: Liv Morgan big winner at WWE pay-per-view",
-      "url": "//www.foxnews.com/sports/money-in-the-bank-liv-morgan-wwe"
+      "text": "2022 Wimbledon: A look at the third tennis major of the season",
+      "url": "//www.foxnews.com/sports/2022-wimbledon-slideshow"
     },
     {
       "text": "Personal Finance",
@@ -17994,23 +18198,23 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/auto/the-most-powerful-american-cars-ever"
+      "url": "//www.foxnews.com/auto/jeep-most-patriotic-automaker-brand"
     },
     {
       "text": "Cars + Trucks",
       "url": "https://www.foxnews.com/auto"
     },
     {
-      "text": "\nThe most powerful American cars ever",
-      "url": "//www.foxnews.com/auto/the-most-powerful-american-cars-ever"
+      "text": "Jeep named most patriotic automaker and brand\n",
+      "url": "//www.foxnews.com/auto/jeep-most-patriotic-automaker-brand"
     },
     {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
     },
     {
-      "text": "Georgia hot car death of 1-year-old at Walgreens is 9th in US this year: Report",
-      "url": "//www.foxnews.com/us/georgia-hot-car-death-walgreens"
+      "text": "Tyler Reddick prevails at Road America race for first NASCAR Cup Series win",
+      "url": "//www.foxnews.com/auto/tyler-reddick-road-america-nascar-cup-series"
     },
     {
       "text": "Cars + Trucks",
@@ -18021,20 +18225,20 @@
       "url": "//www.foxnews.com/auto/jeep-salutes-us-military-wrangler-gladiator-freedom-trucks"
     },
     {
-      "text": "Entertainment",
-      "url": "https://www.foxnews.com/entertainment"
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
     },
     {
-      "text": "Hells Angels founder Sonny Barger dead: Motorcycle club leader 'passed peacefully' from cancer at 83",
-      "url": "//www.foxnews.com/entertainment/hells-angels-founder-sonny-barger-dead-motorcycle-club-leader-passed-peacefully-cancer"
+      "text": "Tom Cruise celebrates 60th birthday watching F1 driver Lewis Hamilton",
+      "url": "//www.foxnews.com/auto/tom-cruise-birthday-f1-lewis-hamilton"
     },
     {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
+      "text": "Cars + Trucks",
+      "url": "https://www.foxnews.com/auto"
     },
     {
-      "text": "WV ex-police clerk pleads guilty to perjury",
-      "url": "//www.foxnews.com/us/wv-ex-police-officer-pleads-guilty-perjury"
+      "text": "The most powerful American cars ever",
+      "url": "//www.foxnews.com/auto/the-most-powerful-american-cars-ever"
     },
     {
       "text": "Travel + Outdoors",
@@ -18046,7 +18250,39 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/us/boston-man-convicted-killing-two-people-housing-complex"
+      "url": "//www.foxnews.com/us/highland-park-july-4th-parade-shooting-like-a-war-zone-witness-says"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Highland Park July 4th parade shooting was 'like a war zone,' witness says",
+      "url": "//www.foxnews.com/us/highland-park-july-4th-parade-shooting-like-a-war-zone-witness-says"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.foxnews.com/media"
+    },
+    {
+      "text": "Former investigator on Illinois parade shooting: Circumstances suggest there was pre-planning involved",
+      "url": "//www.foxnews.com/media/former-investigator-illinois-parade-shooting-circumstances-suggest-pre-planning-involved"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Illinois 4th of July parade erupts into chaos after shooter kills 6, injures 31 others; manhunt underway",
+      "url": "//www.foxnews.com/us/chaos-erupts-multiple-people-are-shot-4th-july-parade"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "\nIllinois Gov Pritzker 'monitoring' Highland Park shooting aftermath, Mayor Lightfoot deploys police to assist",
+      "url": "//www.foxnews.com/us/illinois-gov-pritzker-monitoring-highland-park-shooting-aftermath-mayor-lightfoot-deploys-police-assist"
     },
     {
       "text": "U.S.",
@@ -18057,48 +18293,32 @@
       "url": "//www.foxnews.com/us/boston-man-convicted-killing-two-people-housing-complex"
     },
     {
-      "text": "Great Outdoors",
-      "url": "https://www.foxnews.com/great-outdoors"
-    },
-    {
-      "text": "Texas fisherman reels in massive alligator snapping turtle: 'Everything went crazy'",
-      "url": "//www.foxnews.com/great-outdoors/texas-fisherman-reels-massive-alligator-snapping-turtle"
-    },
-    {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
-    },
-    {
-      "text": "Providence gang shootout sends 3 people to prison",
-      "url": "//www.foxnews.com/us/providence-gang-shootout-sends-3-people-prison"
-    },
-    {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
-    },
-    {
-      "text": "Texas police shoot and kill armed man in Dallas-area hospital",
-      "url": "//www.foxnews.com/us/texas-police-shoot-kill-armed-man-dallas-area-hospital"
-    },
-    {
-      "text": "U.S.",
-      "url": "https://www.foxnews.com/us"
-    },
-    {
-      "text": "Oxford High School shooting: New lawsuit targets gun dealer after victim, 14, shot in face",
-      "url": "//www.foxnews.com/us/oxford-high-school-shooting-new-lawsuit-targets-gun-dealer-victim-shot-face"
-    },
-    {
       "text": "Food + Drink",
       "url": "//www.foxnews.com/food-drink"
     },
     {
-      "text": "View All",
+      "text": "\nView All",
       "url": "//www.foxnews.com/food-drink"
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/food-drink/grilled-teriyaki-chicken-pineapple-skewers-recipe"
+      "url": "//www.foxnews.com/food-drink/grilled-salmon-skewers-recipe"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.foxnews.com/food-drink"
+    },
+    {
+      "text": "Grilled salmon skewers for summer barbecues: Try the recipe",
+      "url": "//www.foxnews.com/food-drink/grilled-salmon-skewers-recipe"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.foxnews.com/food-drink"
+    },
+    {
+      "text": "Hot dogs: 5 little-known facts",
+      "url": "//www.foxnews.com/food-drink/hot-dogs-little-known-facts"
     },
     {
       "text": "Food & Drink",
@@ -18123,22 +18343,6 @@
     {
       "text": "These are the best immune-boosting foods, according to nutrition experts",
       "url": "//www.foxnews.com/food-drink/best-immune-boosting-foods-nutrition-experts"
-    },
-    {
-      "text": "Food & Drink",
-      "url": "https://www.foxnews.com/food-drink"
-    },
-    {
-      "text": "These chipotle mezcal steak fajitas are a summer hit: Try the recipe",
-      "url": "//www.foxnews.com/food-drink/chipotle-mezcal-steak-fajitas-recipe"
-    },
-    {
-      "text": "Food & Drink",
-      "url": "https://www.foxnews.com/food-drink"
-    },
-    {
-      "text": "Mediterranean sheet pan shrimp and veggies: Try the recipe",
-      "url": "//www.foxnews.com/food-drink/mediterranean-sheet-pan-shrimp-veggies-recipe"
     },
     {
       "text": "Fitness + Well-being",
@@ -18173,7 +18377,7 @@
       "url": "https://www.foxnews.com/lifestyle"
     },
     {
-      "text": "CDC tells public to not 'kiss or snuggle' chickens, ducks, backyard poultry amid salmonella outbreaks",
+      "text": "\nCDC tells public to not 'kiss or snuggle' chickens, ducks, backyard poultry amid salmonella outbreaks",
       "url": "//www.foxnews.com/lifestyle/cdc-chickens-ducks-poultry-salmonella"
     },
     {
@@ -18181,7 +18385,7 @@
       "url": "https://www.foxnews.com/lifestyle"
     },
     {
-      "text": "\nThe best vegetables for your health, according to nutritionists",
+      "text": "The best vegetables for your health, according to nutritionists",
       "url": "//www.foxnews.com/lifestyle/best-vegetables-for-health-nutritionists"
     },
     {
@@ -18254,7 +18458,23 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/health/travis-barker-life-threatening-pancreatitis-recent-endoscopy"
+      "url": "//www.foxnews.com/health/july-4th-covid-killing-hundreds-americans-day"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "This July 4th, COVID is still killing hundreds of Americans each day",
+      "url": "//www.foxnews.com/health/july-4th-covid-killing-hundreds-americans-day"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.foxnews.com/health"
+    },
+    {
+      "text": "Iowa health officials say first probable case of monkeypox in the state has been reported",
+      "url": "//www.foxnews.com/health/iowa-health-officials-first-probable-case-monkeypox-reported"
     },
     {
       "text": "Health",
@@ -18281,22 +18501,6 @@
       "url": "//www.foxnews.com/health/mit-human-liver-model-regenerate-liver-hope-patients-transplants"
     },
     {
-      "text": "Health",
-      "url": "https://www.foxnews.com/health"
-    },
-    {
-      "text": "Going away this summer? Make sure to avoid carbon monoxide poisoning",
-      "url": "//www.foxnews.com/health/summer-avoid-carbon-monoxide-poisoning"
-    },
-    {
-      "text": "Health",
-      "url": "https://www.foxnews.com/health"
-    },
-    {
-      "text": "What is pancreatitis: symptoms, causes, and treatment",
-      "url": "//www.foxnews.com/health/what-pancreatitis-symptoms-causes-treatment"
-    },
-    {
       "text": "FOX Weather",
       "url": "https://www.foxweather.com/"
     },
@@ -18306,47 +18510,47 @@
     },
     {
       "text": "",
-      "url": "//www.foxweather.com/weather-news/july-4th-forecast"
+      "url": "//www.foxweather.com/weather-news/independence-day-forecast-2022"
     },
     {
       "text": "WEATHER NEWS",
       "url": "//www.foxweather.com"
     },
     {
-      "text": "Weather improves for millions of Americans' 4th of July weekend plans",
-      "url": "//www.foxweather.com/weather-news/july-4th-forecast"
+      "text": "Stormy, soggy 4th of July ahead for northern tier of US as dangerous heat sears Plains, Midwest",
+      "url": "//www.foxweather.com/weather-news/independence-day-forecast-2022"
     },
     {
-      "text": "NORTHEAST",
+      "text": "WEATHER NEWS",
       "url": "//www.foxweather.com"
     },
     {
-      "text": "Severe storms with damaging wind, large hail and tornadoes possible from Northern Rockies to Plains",
-      "url": "//www.foxweather.com/weather-news/severe-thunderstorm-weekend-threat"
-    },
-    {
-      "text": "US",
-      "url": "//www.foxweather.com"
-    },
-    {
-      "text": "So long, Colin! Post-tropical storm pulling away from US coast",
-      "url": "//www.foxweather.com/weather-news/tropical-storm-colin-south-carolina-coast"
+      "text": "Severe storms could kick off the workweek from Plains to Midwest, mid-Atlantic",
+      "url": "//www.foxweather.com/weather-news/severe-storms-plains-midwest-mid-atlantic-early-july"
     },
     {
       "text": "LIFESTYLE",
       "url": "//www.foxweather.com"
     },
     {
-      "text": "\nHow was the weather when the US declared independence in Philadelphia on July 4, 1776?",
+      "text": "How was the weather when the US declared independence in Philadelphia on July 4, 1776?",
       "url": "//www.foxweather.com/lifestyle/first-independence-day-weather-4th-of-july-1776-philadelphia"
     },
     {
-      "text": "HOLIDAYS",
+      "text": "NATURE",
       "url": "//www.foxweather.com"
     },
     {
-      "text": "The secret to winning the annual Nathan's Hot Dog Eating Contest could be the weather",
-      "url": "//www.foxweather.com/lifestyle/hot-dog-eating-forecast"
+      "text": "\n'Absolutely mind-boggling!\" Aurora chaser snaps glowing skies; glowing jellyfish in same photo",
+      "url": "//www.foxweather.com/weather-news/aurora-northern-lights-bioluminescence-jellyfish-washington-coast"
+    },
+    {
+      "text": "WILDFIRES",
+      "url": "//www.foxweather.com"
+    },
+    {
+      "text": "Some 4th of July fireworks being replaced with drones due to fire concerns",
+      "url": "//www.foxweather.com/lifestyle/4th-of-july-fireworks-replaced-drones-wildfire"
     },
     {
       "text": "Good News",
@@ -18410,51 +18614,51 @@
     },
     {
       "text": "",
-      "url": "//video.foxnews.com/v/6309077146112"
+      "url": "//video.foxnews.com/v/6309114366112"
     },
     {
       "text": "",
-      "url": "//video.foxnews.com/v/6309077146112"
+      "url": "//video.foxnews.com/v/6309114366112"
     },
     {
       "text": "Video",
       "url": "//video.foxnews.com/"
     },
     {
-      "text": "The Big Sunday Show - Sunday, July 3",
-      "url": "//video.foxnews.com/v/6309077146112"
+      "text": "Outnumbered - Monday, July 4",
+      "url": "//video.foxnews.com/v/6309114366112"
     },
     {
       "text": "",
-      "url": "//video.foxnews.com/v/6309014003112"
+      "url": "//video.foxnews.com/v/6309089775112"
     },
     {
-      "text": "Lawrence Jones Cross Country - Saturday, July 2",
-      "url": "//video.foxnews.com/v/6309014003112"
-    },
-    {
-      "text": "",
-      "url": "//video.foxnews.com/v/6309008530112"
-    },
-    {
-      "text": "Unfiltered with Dan Bongino - Saturday, July 2",
-      "url": "//video.foxnews.com/v/6309008530112"
+      "text": "A West Point Independence Day Celebration",
+      "url": "//video.foxnews.com/v/6309089775112"
     },
     {
       "text": "",
-      "url": "//video.foxnews.com/v/6309008706112"
+      "url": "//video.foxnews.com/v/6309085478112"
     },
     {
-      "text": "One Nation w/ Brian Kilmeade - Saturday, July 2",
-      "url": "//video.foxnews.com/v/6309008706112"
+      "text": "The Next Revolution w/ Steve Hilton - Sunday, July 3",
+      "url": "//video.foxnews.com/v/6309085478112"
     },
     {
       "text": "",
-      "url": "//video.foxnews.com/v/6309000111112"
+      "url": "//video.foxnews.com/v/6309084528112"
     },
     {
-      "text": "The Big Saturday Show - Saturday, July 2",
-      "url": "//video.foxnews.com/v/6309000111112"
+      "text": "Life, Liberty & Levin - Sunday, July 3",
+      "url": "//video.foxnews.com/v/6309084528112"
+    },
+    {
+      "text": "",
+      "url": "//video.foxnews.com/v/6309083310112"
+    },
+    {
+      "text": "Fox News Sunday - Sunday, July 3",
+      "url": "//video.foxnews.com/v/6309083310112"
     },
     {
       "text": "Crime",
@@ -18466,47 +18670,47 @@
     },
     {
       "text": "",
-      "url": "//www.foxnews.com/us/chicago-35-people-shot-5-killed-bloody-july-4-weekend"
+      "url": "//www.foxnews.com/us/highland-park-july-4th-parade-shooting-like-a-war-zone-witness-says"
     },
     {
       "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "Chicago sees 37 people shot, 7 killed, in bloody July 4 weekend",
-      "url": "//www.foxnews.com/us/chicago-35-people-shot-5-killed-bloody-july-4-weekend"
+      "text": "Highland Park July 4th parade shooting was 'like a war zone,' witness says",
+      "url": "//www.foxnews.com/us/highland-park-july-4th-parade-shooting-like-a-war-zone-witness-says"
     },
     {
       "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "Florida man's gets hand blown off by fireworks",
-      "url": "//www.foxnews.com/us/florida-mans-hand-blown-off-fireworks"
-    },
-    {
-      "text": "World",
-      "url": "https://www.foxnews.com/world"
-    },
-    {
-      "text": "Denmark mall shooting update: several dead, terrorism not ruled out",
-      "url": "//www.foxnews.com/world/denmark-mall-shooting-several-dead-terrorism"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.foxnews.com/politics"
-    },
-    {
-      "text": "DHS Secretary Mayorkas appears to place blame on migrants after 53 people found dead in Texas truck",
-      "url": "//www.foxnews.com/politics/dhs-secretary-mayorkas-appears-blame-migrants-53-people-dead-texas-truck"
+      "text": "North Carolina thieves steal $7K in copper wire from Lowe's: report",
+      "url": "//www.foxnews.com/us/north-carolina-thieves-steal-7k-copper-wire-lowes-report"
     },
     {
       "text": "U.S.",
       "url": "https://www.foxnews.com/us"
     },
     {
-      "text": "Akron police release bodycam video in shooting of Jayland Walker",
-      "url": "//www.foxnews.com/us/akron-police-bodycam-video-shooting-jayland-walker"
+      "text": "Philadelphia juvenile's failed robbery turns violent, man shot while with woman and baby: report",
+      "url": "//www.foxnews.com/us/philadelphia-juveniles-failed-robbery-turns-violent-man-shot-woman-baby-report"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.foxnews.com/entertainment"
+    },
+    {
+      "text": "Amber Heard asks court to toss $10M verdict in Johnny Depp defamation case",
+      "url": "//www.foxnews.com/entertainment/amber-heard-asks-court-toss-10m-verdict-johnny-depp-defamation-case"
+    },
+    {
+      "text": "U.S.",
+      "url": "https://www.foxnews.com/us"
+    },
+    {
+      "text": "Texas murder suspect Armstrong had sister\u2019s passport in Costa Rica, \u2018receipt\u2019 for plastic surgery: report",
+      "url": "//www.foxnews.com/us/texas-murder-suspect-armstrong-had-sisters-passport-costa-rica-receipt-plastic-surgery-receipt"
     },
     {
       "text": "U.S.",
@@ -18561,7 +18765,7 @@
       "url": "https://www.foxnews.com/category/world/conflicts"
     },
     {
-      "text": "\nTerrorism",
+      "text": "Terrorism",
       "url": "https://www.foxnews.com/category/world/terrorism"
     },
     {
@@ -18573,7 +18777,7 @@
       "url": "https://www.foxnews.com/category/world/global-economy"
     },
     {
-      "text": "Environment",
+      "text": "\nEnvironment",
       "url": "https://www.foxnews.com/category/world/environment"
     },
     {
@@ -18681,7 +18885,7 @@
       "url": "https://www.foxbusiness.com/technology"
     },
     {
-      "text": "Lifestyle",
+      "text": "\nLifestyle",
       "url": "https://www.foxnews.com/lifestyle"
     },
     {
@@ -18757,7 +18961,7 @@
       "url": "https://www.foxnews.com/category/tech/topics/innovation"
     },
     {
-      "text": "\nDrones",
+      "text": "Drones",
       "url": "https://www.foxnews.com/category/tech/technologies/drones"
     },
     {
@@ -19001,8 +19205,8 @@
       "url": "https://www.foxnews.com/terms-of-use"
     }
   ],
-  "item_last_updated": 1656898214,
-  "item_size": 195705797,
+  "item_last_updated": 1656972210,
+  "item_size": 198262985,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -19020,7 +19224,7 @@
     "addeddate": "2022-03-23 01:45:55"
   },
   "server": "ia902505.us.archive.org",
-  "uniq": 1070506537,
+  "uniq": 424024756,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"

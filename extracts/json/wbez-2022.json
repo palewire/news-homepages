@@ -1,5 +1,5 @@
 {
-  "created": 1656936926,
+  "created": 1656971324,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/wbez-2022",
@@ -1454,31 +1454,157 @@
       "sha1": "52dfca90cb4f724d0e1c02a8cac8b0a64d23c054"
     },
     {
+      "name": "wbez-2022-07-04T10:11:42.053265-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656947507",
+      "size": "13174",
+      "md5": "8aba91e6b985db8319f5833d52731ed7",
+      "crc32": "b3dcff40",
+      "sha1": "de08013e0455b878bf8aaa560ab9cf9550e37f1a",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-04T10:11:42.053265-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656947510",
+      "size": "10308",
+      "md5": "d772992dbbef7feab141dcea5393c778",
+      "crc32": "d3828a25",
+      "sha1": "1007436f002d361aecc244b8701c021432d12887",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-04T10:11:42.053265-05:00.jpg",
+      "source": "original",
+      "mtime": "1656947506",
+      "size": "308950",
+      "md5": "058b71db5d81acba4e8e8ff29787e1c6",
+      "crc32": "30037420",
+      "sha1": "bf1a7ffdc479a099ca0e0da9e0ebd939ef53d9aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-04T10:11:42.053265-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-04T10:11:42.053265-05:00.jpg",
+      "mtime": "1656947559",
+      "size": "10182",
+      "md5": "ab48748595aaa613577fc9862dcd265a",
+      "crc32": "861399b6",
+      "sha1": "475e5c5850c36b2477fd7605a6fb6e5ecda2fe36"
+    },
+    {
+      "name": "wbez-2022-07-04T10:43:59.469434-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656949443",
+      "size": "13263",
+      "md5": "9ee72d3510ec51782ff0d8323ef96c17",
+      "crc32": "f26d36f5",
+      "sha1": "07fc07b4cf080d6ea51493ee9b9c4b95da1ce2e4",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-04T10:43:59.469434-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656949444",
+      "size": "10044",
+      "md5": "3f39ad59e75b4c7bce994b8ea50eeed3",
+      "crc32": "518ecbd5",
+      "sha1": "563d41dca24c6174197717bbedc29f2bf219720f",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-04T10:43:59.469434-05:00.jpg",
+      "source": "original",
+      "mtime": "1656949441",
+      "size": "316414",
+      "md5": "6df937bee0d61a6df398e5c0c8b74384",
+      "crc32": "de3119e9",
+      "sha1": "8ca8b72c85bac724c8a60dcc9cc8756df3a409e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-04T10:43:59.469434-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-04T10:43:59.469434-05:00.jpg",
+      "mtime": "1656949491",
+      "size": "10253",
+      "md5": "4d4a3b1a83abf066624491a527d778bd",
+      "crc32": "6ac7bdcd",
+      "sha1": "ec59b79b780642872d1cc55c9826d43c555debdb"
+    },
+    {
+      "name": "wbez-2022-07-04T16:47:44.967521-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1656971268",
+      "size": "13644",
+      "md5": "75aab9313f63e207c50fba4ffcb253e3",
+      "crc32": "6451ae2a",
+      "sha1": "29fb7415b4926f1255d70e8665b493ed7e1308c4",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-04T16:47:44.967521-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1656971269",
+      "size": "10501",
+      "md5": "29332786f94e0657ea67248ad521eae9",
+      "crc32": "f9ab3ffb",
+      "sha1": "e528c440d0728fdac090676fa7ac81635fc7b736",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-04T16:47:44.967521-05:00.jpg",
+      "source": "original",
+      "mtime": "1656971266",
+      "size": "332768",
+      "md5": "84ddf8b863b6c2039dd651e423b835ed",
+      "crc32": "700ce6ba",
+      "sha1": "9fee28c46e7360ae5157ba75437626294af17337",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-04T16:47:44.967521-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-04T16:47:44.967521-05:00.jpg",
+      "mtime": "1656971316",
+      "size": "10223",
+      "md5": "c719ea981c3358a474f91f8782c79ac7",
+      "crc32": "0bad4f15",
+      "sha1": "cf66414c20844bfd56c69a21dd3d9df2ecc1697f"
+    },
+    {
       "name": "wbez-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4bd61eed0eff89fa17b11f91be4c32769000558c",
-      "mtime": "1656898928",
-      "size": "29906",
-      "md5": "b9f4b19c26607ca74f9840e69aa5a956",
-      "crc32": "1c097506",
-      "sha1": "2cb7e5a0465659c3a8826e312dc2b3d79b1f78dd",
+      "btih": "b231718fa74d6caa336f99b264acd32881b92e3d",
+      "mtime": "1656971319",
+      "size": "32388",
+      "md5": "53539fe3cc4eb7533b2c98e5d9d93964",
+      "crc32": "c5ebf0f6",
+      "sha1": "e5c4ce550759fa577d914808a85f2744d739afef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbez-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6c09bb66c3fc8cab50308d310437758",
+      "md5": "03cc49434c7a49f8cbe6c176083e645f",
       "summation": "md5"
     },
     {
       "name": "wbez-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656898880",
-      "size": "180224",
-      "md5": "db304e92d60246e8ef3ce172574dcc66",
-      "crc32": "c382050f",
-      "sha1": "797d26f34460d5a26ec487595cc7e60f3b68cce9",
+      "mtime": "1656971273",
+      "size": "192512",
+      "md5": "3312d0d7316e8f0512f508214c876064",
+      "crc32": "eebe4810",
+      "sha1": "228ba62abf82621c956cbe22c306f8f031fbc243",
       "format": "Metadata"
     },
     {
@@ -1492,9 +1618,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1656898928,
-  "item_size": 11714446,
+  "files_count": 154,
+  "item_last_updated": 1656971319,
+  "item_size": 12788940,
   "metadata": {
     "identifier": "wbez-2022",
     "collection": [
@@ -1512,309 +1638,7 @@
     "addeddate": "2022-06-24 23:03:38"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 958058218,
-  "wbez-2022": [
-    {
-      "text": "\n      Skip to main content\n    ",
-      "url": "#maincontent"
-    },
-    {
-      "text": "Home ",
-      "url": "/"
-    },
-    {
-      "text": "\n          Listen Live\n          ",
-      "url": "/#player"
-    },
-    {
-      "text": "\n          Search ",
-      "url": "/search"
-    },
-    {
-      "text": "\n          Menu\n          ",
-      "url": "/#menu"
-    },
-    {
-      "text": "\n          Donate ",
-      "url": "https://donate.wbez.org/?affordance_placement=header"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "    ",
-      "url": "/#player"
-    },
-    {
-      "text": "",
-      "url": "/search"
-    },
-    {
-      "text": "",
-      "url": "/#menu"
-    },
-    {
-      "text": "\n        Chicagoans breathe the most polluted air of the year on July 4\n      ",
-      "url": "/stories/chicagoans-breathe-in-extra-air-pollution-on-july-4/9a4c432f-cdd1-4f52-b98a-d01e638636f4"
-    },
-    {
-      "text": "\n        The WBEZ guide to the best free things to do this summer\n      ",
-      "url": "/stories/chicago-free-things-to-do-summer-music-concerts-theater-dance-neighborhood-festivals/e418f574-41ce-41ed-b6f1-13307e6b7404"
-    },
-    {
-      "text": "\n        Youth dancers take center stage in a new short film about the Bud Billiken Parade\n      ",
-      "url": "/stories/billiken-film-art-on-themart-wills-glasspiegel-shkunna-stewart-brandon-k-calhoun/4b469bc5-92f2-44ba-98fc-f91473a021e9"
-    },
-    {
-      "text": "\n        Traveling parties are part of a queer Chicago culture of partying as resistance\n      ",
-      "url": "/stories/the-history-of-executive-sweet-parties-in-chicago/70a6f9e4-16cf-4c5a-8206-9837397bfe85"
-    },
-    {
-      "text": "\n        We made a big correction to our story about the city\u2019s speed camera ticketing program. Here\u2019s why.\n      ",
-      "url": "/stories/correction-wbez-citys-speed-camera-ticketing-program/9a39cd77-a498-45f0-a6b2-3697aedd5979"
-    },
-    {
-      "text": "\n        Chicago\u2019s speed cameras yield more tickets and fines, but also complaints and controversy\n      ",
-      "url": "/stories/chicago-traffic-speed-cameras-increase-tickets-cash/a8f2353a-6e5b-4aa8-9760-98c5dc39a5a1"
-    },
-    {
-      "text": "\n      Consider donating today\n    ",
-      "url": "https://donate.wbez.org/?affordance_placement=Affordance-No-Thanks"
-    },
-    {
-      "text": "\n        Everything you need to know about Illinois\u2019 $4,000 electric vehicle rebate\n      ",
-      "url": "/stories/how-to-get-illinois-4000-electric-vehicle-rebate/494ee051-f519-43b4-b60b-299a501e432d"
-    },
-    {
-      "text": "\n        Updated: The WBEZ guide to 80-plus summer farmers\u2019 markets in Chicago and the suburbs\n      ",
-      "url": "/stories/2022-farmers-markets-in-chicago-and-suburbs/9be36896-1eda-46f9-a42c-63c39ffa64dd"
-    },
-    {
-      "text": "\n        With Roe v. Wade overturned, Chicago area residents share their perspectives on abortion\n      ",
-      "url": "/stories/abortion-perspectives-from-chicago-area-residents/6ce5f5d1-9bae-42bb-85e1-ae56e9962d76"
-    },
-    {
-      "text": "\n        As cops leave Chicago public schools, staff move fitfully toward a new model of helping students\n      ",
-      "url": "/stories/as-cops-leave-chicago-public-schools-staff-move-fitfully-toward-a-new-model-of-helping-students/a759ff02-4386-43b2-a544-c87ffae3232d"
-    },
-    {
-      "text": "\n        Shielded from public view, misconduct by corrections staff in Illinois prisons received scant discipline\n      ",
-      "url": "/stories/correctional-officer-misconduct-in-illinois-prisons/e489ab14-472f-4ade-b185-8fc98bc34440"
-    },
-    {
-      "text": "\n        Politics\n      ",
-      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
-    },
-    {
-      "text": "\n        Gov. JB Pritzker is not gloating about Griffin\u2019s losses after Tuesday\u2019s primary\n      ",
-      "url": "/stories/pritzker-not-gloating-about-griffins-election-losses/ca94ce4e-0d09-4bc3-8b1f-bca7998eac9a"
-    },
-    {
-      "text": "\n        Education\n      ",
-      "url": "/topics/education/05a15558-22e6-45f0-81a8-7f201d2f6f3a"
-    },
-    {
-      "text": "\n        WBEZ Investigations\n      ",
-      "url": "/topics/wbez-investigations/ba3072e6-6d90-4f71-9584-521a1c7a5a49"
-    },
-    {
-      "text": "\n        Celebrated all-boys charter school in Chicago cited by CPS for \u2018dismal\u2019 financial management\n      ",
-      "url": "/stories/celebrated-all-boys-charter-school-in-chicago-cited-by-cps-for-dismal-financial-management/784432ac-1269-4fdc-8638-e04e85578500"
-    },
-    {
-      "text": "\n        My first year sober: Why I did it and what I\u2019ve learned\n      ",
-      "url": "/stories/my-first-year-sober-why-i-did-it-and-what-ive-learned/431fbe7b-c3af-4c43-a0e3-9719e17ad75d"
-    },
-    {
-      "text": "\n        Crying in the Bathroom with Erika S\u00e1nchez and Mar\u00eda In\u00e9s Zamudio\n      ",
-      "url": "/events/crying-in-the-bathroom-with-erika-sanchez-and-maria-ines-zamudio/187"
-    },
-    {
-      "text": "\n        More events \u2192\n      ",
-      "url": "/events"
-    },
-    {
-      "text": "\n        Politics\n      ",
-      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
-    },
-    {
-      "text": "\n        What did $50 million buy Ken Griffin in Illinois\u2019 primary? Not much.\n      ",
-      "url": "/stories/ken-griffins-50-million-didnt-buy-much-in-illinois/1d359c28-ef31-4f6c-8529-9e4cbce34eb4"
-    },
-    {
-      "text": "\n        Environment & Public Health\n      ",
-      "url": "/topics/environment-and-public-health/78f1d3ad-6823-451d-9de7-302f95acbc4e"
-    },
-    {
-      "text": "\n        Youngest Chicagoans are the focus of the latest vaccination push\n      ",
-      "url": "/stories/youngest-chicagoans-are-the-focus-of-the-latest-vaccination-push/e1d36b66-e5bc-40bf-a305-416d9612f4a8"
-    },
-    {
-      "text": "\n        Reset with Sasha-Ann Simons\n        ",
-      "url": "/shows/reset-with-sasha-ann-simons/087fda4e-bff3-402c-a30f-bc32285a5237"
-    },
-    {
-      "text": "\n        Culture & The Arts\n      ",
-      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
-    },
-    {
-      "text": "\n        What\u2019s that building? 165 N. May\n      ",
-      "url": "/stories/whats-that-building-165-n-may/e74075b4-4f4e-46dd-b0a4-8940d9c5b241"
-    },
-    {
-      "text": "\n        Reset with Sasha-Ann Simons\n        ",
-      "url": "/shows/reset-with-sasha-ann-simons/087fda4e-bff3-402c-a30f-bc32285a5237"
-    },
-    {
-      "text": "\n        Environment & Public Health\n      ",
-      "url": "/topics/environment-and-public-health/78f1d3ad-6823-451d-9de7-302f95acbc4e"
-    },
-    {
-      "text": "\n        Armadillos are on their way to Chicago\n      ",
-      "url": "/stories/armadillos-are-on-their-way-to-chicago/a58a0312-3960-4778-a3c5-0ac7b177348f"
-    },
-    {
-      "text": "\n        Criminal Justice\n      ",
-      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
-    },
-    {
-      "text": "\n        16 years after a corruption scandal, a Chicago cop is finally facing discipline\n      ",
-      "url": "/stories/tom-sherry-faces-discipline-hearing-after-police-corruption-scandal/8f499a22-4bd9-43c0-8669-f06e22e0458f"
-    },
-    {
-      "text": "\n      DONATE NOW\n    ",
-      "url": "https://donate.wbez.org/?affordance_placement=Home_End"
-    },
-    {
-      "text": "WBEZ.org ",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "//twitter.com/WBEZ"
-    },
-    {
-      "text": "",
-      "url": "//www.facebook.com/wbez915"
-    },
-    {
-      "text": "",
-      "url": "//instagram.com/wbezchicago/"
-    },
-    {
-      "text": "",
-      "url": "//www.youtube.com/user/wbez"
-    },
-    {
-      "text": "\n            About Us\n          ",
-      "url": "/about"
-    },
-    {
-      "text": "\n              Careers\n            ",
-      "url": "/jobs"
-    },
-    {
-      "text": "\n              Staff\n            ",
-      "url": "/staff"
-    },
-    {
-      "text": "\n              Contact Us\n            ",
-      "url": "/contact"
-    },
-    {
-      "text": "\n              The Sounding Board\n            ",
-      "url": "/pages/sounding-board"
-    },
-    {
-      "text": "\n              Radio Schedule\n            ",
-      "url": "/schedule"
-    },
-    {
-      "text": "\n              Board of Directors\n            ",
-      "url": "/pages/board-of-directors"
-    },
-    {
-      "text": "\n              Pressroom\n            ",
-      "url": "/pressroom"
-    },
-    {
-      "text": "\n              Public & Financial Documents\n            ",
-      "url": "/pages/public-financial-documents"
-    },
-    {
-      "text": "\n              Newsletters & Email Alerts\n            ",
-      "url": "/newsletters"
-    },
-    {
-      "text": "\n              Volunteer\n            ",
-      "url": "//cloud.email.wbez.org/volunteers"
-    },
-    {
-      "text": "\n              Events Calendar\n            ",
-      "url": "/events"
-    },
-    {
-      "text": "\n              Wait Wait \u2026 Don't Tell Me! Tickets\n            ",
-      "url": "/events/wait-wait-dont-tell-me-tickets"
-    },
-    {
-      "text": "\n              Mobile Apps\n            ",
-      "url": "/mobile-apps"
-    },
-    {
-      "text": "\n            Support\n          ",
-      "url": "/support-us"
-    },
-    {
-      "text": "\n              Donate\n            ",
-      "url": "https://donate.wbez.org/?affordance_placement=footer"
-    },
-    {
-      "text": "\n              Join our Giving Circles\n            ",
-      "url": "/pages/giving-circles"
-    },
-    {
-      "text": "\n              Donate Your Car\n            ",
-      "url": "//wbez.careasy.org/home"
-    },
-    {
-      "text": "\n              Gifts of Securities\n            ",
-      "url": "/pages/securities"
-    },
-    {
-      "text": "\n              Planned Giving\n            ",
-      "url": "/pages/planned-giving"
-    },
-    {
-      "text": "\n              Matching Gifts\n            ",
-      "url": "/support-us/matching-gifts"
-    },
-    {
-      "text": "\n              Become a Sponsor\n            ",
-      "url": "//wbezsponsor.org/"
-    },
-    {
-      "text": "\n              Manage Your Membership Account\n            ",
-      "url": "https://donate.wbez.org/user"
-    },
-    {
-      "text": "\n          Privacy Policy\n        ",
-      "url": "//www.wbez.org/privacy-policy"
-    },
-    {
-      "text": "\n          Terms of Use\n        ",
-      "url": "//www.wbez.org/terms-of-use"
-    },
-    {
-      "text": "\n          FCC Public Filing Info\n        ",
-      "url": "//publicfiles.fcc.gov/fm-profile/wbez"
-    },
-    {
-      "text": "\n          Notice of FCC Applications\n        ",
-      "url": "//wbez-assets.s3.amazonaws.com/pdf/fcc-notices_8-12-2020.pdf"
-    }
-  ],
+  "uniq": 893363729,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

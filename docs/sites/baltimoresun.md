@@ -17,7 +17,7 @@ orphan: true
 | Location       | Baltimore                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 144 screenshots stored at the Internet Archive.
+The archiving routine has captured 147 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

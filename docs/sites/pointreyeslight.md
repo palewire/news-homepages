@@ -17,7 +17,7 @@ orphan: true
 | Location       | Point Reyes                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 16 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
