@@ -1,0 +1,12 @@
+```{include} _templates/nav.html
+```
+
+# Bundle directory
+
+The archiving routine is currently organized into {{ bundle_list|length }} bundles of sites.
+
+| Bundle  | RSS |
+| :-----  | :-- |
+{% for obj in bundle_list -%}
+|[{{ obj.name }}](https://palewi.re/docs/news-homepages/bundles/{{ obj.slug }}.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/{{ obj.slug }}.xml)|
+{% endfor %}

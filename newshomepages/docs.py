@@ -50,6 +50,21 @@ def source_list():
 
 
 @cli.command()
+def bundle_list():
+    """Create bundle list."""
+    bundle_list = sorted(utils.get_bundle_list(), key=lambda x: x["name"].lower())
+
+    context = {
+        "bundle_list": bundle_list,
+    }
+    template = TEMPLATE_ENV.get_template("bundles.md.tmpl")
+    md = template.render(**context)
+
+    with open(PARENT_DIR / "docs" / "bundles.md", "w") as fh:
+        fh.write(md)
+
+
+@cli.command()
 def bundle_detail():
     """Create bundle detail pages."""
     # Get all bundles

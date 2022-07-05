@@ -14,6 +14,11 @@ runs:
       run: pipenv run python -m newshomepages.docs source-list;
       shell: bash
 
+    - id: bundle-list
+      name: Update bundle list
+      run: pipenv run python -m newshomepages.docs bundle-list;
+      shell: bash
+
     - id: site-detail
       name: Update site detail
       run: pipenv run python -m newshomepages.docs site-detail;
