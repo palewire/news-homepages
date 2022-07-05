@@ -4,11 +4,6 @@ description: Save the latest screenshots to the repository
 runs:
   using: "composite"
   steps:
-    - uses: actions/download-artifact@v3
-      with:
-        name: screenshots
-        path: ./latest-screenshots
-
     - id: configure-github
       name: Configure GitHub
       run: |
@@ -25,6 +20,21 @@ runs:
     - id: git-pull
       name: Git pull
       run: git pull origin $GITHUB_REF
+      shell: bash
+
+    - id: git-status
+      name: Git status
+      run: git status
+      shell: bash
+
+    - uses: actions/download-artifact@v3
+      with:
+        name: screenshots
+        path: ./latest-screenshots
+
+    - id: git-status
+      name: Git status
+      run: git status
       shell: bash
 
     - id: git-add
