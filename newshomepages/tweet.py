@@ -61,8 +61,8 @@ In total, it has deposited {utils.numoji(data['total_screenshots'])} screenshots
 
 
 @cli.command()
-@click.option("-i", "--input-dir", "input_dir", default="./")
-def mosaic(input_dir: str):
+@click.option("-i", "--image-path", "input_path", default="./")
+def mosaic(input_path: str):
     """Tweet a mosaic GIF."""
     # Connect to Twitter
     api = get_twitter_client()
@@ -81,8 +81,7 @@ def mosaic(input_dir: str):
     """
 
     # Get the image
-    input_path = Path(input_dir)
-    image_path = input_path / "mosaic.gif"
+    image_path = Path(input_path)
     assert image_path.exists()
 
     # Upload the image

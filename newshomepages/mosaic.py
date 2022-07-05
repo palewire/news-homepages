@@ -64,7 +64,7 @@ def jpg(input_dir: str, output_dir: str):
 
 
 @cli.command()
-@click.option("-i", "--input-dir", "input_dir", default="./")
+@click.option("-i", "--input-dir", "input_dir", default="./latest-screenshots")
 @click.option("-o", "--output-dir", "output_dir", default="./")
 def gif(input_dir: str, output_dir: str):
     """Combine images into a mosaic GIF."""
@@ -131,7 +131,7 @@ def gif(input_dir: str, output_dir: str):
         save_all=True,
         append_images=slide_list[1:],
         optimize=True,
-        duration=1500,
+        duration=1000,
         loop=0,
     )
 
