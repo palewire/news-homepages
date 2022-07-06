@@ -77,7 +77,7 @@ def _screenshot(site: typing.Dict, output_dir: str):
                 "--log-level=0",
                 "--v=1",
             ],
-            user_agent="News Homepages (https://homepages.news/)",
+            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
         )
 
         # Wait for adguard filters to load
