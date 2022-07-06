@@ -1,0 +1,14 @@
+name: "Archive: Scotland"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * MON,WED"
+
+jobs:
+  archive-bundle:
+    name: Archive bundle
+    uses: palewire/news-homepages/.github/workflows/reusable-archive-bundle-workflow.yml@main
+    with:
+      bundle: scotland
+    secrets: inherit
