@@ -1,5 +1,5 @@
 {
-  "created": 1657023060,
+  "created": 1657067890,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/6/items/kpbs-2022",
@@ -9056,31 +9056,115 @@
       "sha1": "5818f4d2ac4b74290503c089c9fb5f96567fe42c"
     },
     {
+      "name": "kpbs-2022-07-05T07:37:37.069917-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657031860",
+      "size": "33704",
+      "md5": "fb98d1f82b9c5e60e6dbe0067ca18460",
+      "crc32": "95991bd2",
+      "sha1": "251355df768e7aa39801fa9d34a8a4ee88ce6c22",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-05T07:37:37.069917-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657031862",
+      "size": "45417",
+      "md5": "46c458d1ed2333de4817d9d1afd06ed5",
+      "crc32": "539b5044",
+      "sha1": "1f86943f2ccaba7cd2b5c90dd846cde724a9bedb",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-05T07:37:37.069917-07:00.jpg",
+      "source": "original",
+      "mtime": "1657031859",
+      "size": "327694",
+      "md5": "6c5ed1b9f44244d1f8e41eab6dfb2e63",
+      "crc32": "dc9ebea5",
+      "sha1": "eab9604bc3708e955a8230bb7c5adc77b69dbd9d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-07-05T07:37:37.069917-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-07-05T07:37:37.069917-07:00.jpg",
+      "mtime": "1657031981",
+      "size": "10483",
+      "md5": "481287e08effc304e887eb7402f9ce09",
+      "crc32": "710a3798",
+      "sha1": "378bca26cf73f0f620b3252907ddbe5b9548b6f6"
+    },
+    {
+      "name": "kpbs-2022-07-05T11:19:23.250133-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657045177",
+      "size": "33396",
+      "md5": "621df2264c5e7b2df21564fea9418b96",
+      "crc32": "e60e3835",
+      "sha1": "8310b3452f61e31a9f24c1364add64f13ac73585",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-05T11:19:23.250133-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657045180",
+      "size": "44360",
+      "md5": "fa461fb030e83b661e73c1646c4111c3",
+      "crc32": "82a1e080",
+      "sha1": "bd4889e7817c41f9b4c6627b45e17e6cbf8519b5",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-05T11:19:23.250133-07:00.jpg",
+      "source": "original",
+      "mtime": "1657045174",
+      "size": "279445",
+      "md5": "333f03f80e935e7e532910ce9c38cc7f",
+      "crc32": "8784610a",
+      "sha1": "0a0c1aebc161d53b44df719b48b693b09461a319",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-07-05T11:19:23.250133-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-07-05T11:19:23.250133-07:00.jpg",
+      "mtime": "1657045303",
+      "size": "10367",
+      "md5": "2261078e10f3e798b2955222c6cb707c",
+      "crc32": "208006f2",
+      "sha1": "c03453bc082b160843dfc4d0eac740709baa1271"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f877840a2c532b3a575c288818ebcc4b5f8294c1",
-      "mtime": "1656986293",
-      "size": "179629",
-      "md5": "2a7519a4418fea88a1274fbad268ada1",
-      "crc32": "731f3300",
-      "sha1": "736dcd20763ee801a92b5d05bc842a9d3a852484",
+      "btih": "19b959200624bbcd6a75f167ea27070cd1017c21",
+      "mtime": "1657045322",
+      "size": "181277",
+      "md5": "e603f18541a56d74874ae1b318e8496a",
+      "crc32": "a4de0b5d",
+      "sha1": "d1afa6a1f6baa8b90817b81e1f7a09c8c14a2c20",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03e77cbc93312916a1879a6582dd0c45",
+      "md5": "4a8f4f85f218da4a4fd6de80bf13f25e",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656986234",
-      "size": "987136",
-      "md5": "9d6f0b0fea07266965f053a981fd3cd6",
-      "crc32": "b601e824",
-      "sha1": "5911b4ec6ee9823355f4842392b380be43760af6",
+      "mtime": "1657045186",
+      "size": "995328",
+      "md5": "f08687775d417dbd5b0f0bfb15e477af",
+      "crc32": "097a5796",
+      "sha1": "b733f71c21db0288c88b8101d8b5f23aa5b598bd",
       "format": "Metadata"
     },
     {
@@ -9094,9 +9178,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 865,
-  "item_last_updated": 1656986293,
-  "item_size": 87465155,
+  "files_count": 873,
+  "item_last_updated": 1657045322,
+  "item_size": 88259861,
   "kpbs-2022": [
     {
       "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
@@ -9431,12 +9515,12 @@
       "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
     },
     {
-      "text": "All Things Considered",
-      "url": "http://www.npr.org/programs/all-things-considered/"
+      "text": "The Takeaway",
+      "url": "http://www.wnyc.org/shows/takeaway"
     },
     {
-      "text": "Marketplace",
-      "url": "http://www.marketplace.org/shows/marketplace"
+      "text": "KPBS Midday Edition",
+      "url": "https://www.kpbs.org/news/midday-edition/"
     },
     {
       "text": "Full Schedule\n                            ",
@@ -9768,6 +9852,26 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/public-safety/2022/07/05/san-diego-start-firing-employees-refuse-covid-vaccines-antests"
+    },
+    {
+      "text": "Public Safety",
+      "url": "https://www.kpbs.org/news/public-safety"
+    },
+    {
+      "text": "San Diego to start process of firing employees who refuse COVID vaccines and tests",
+      "url": "https://www.kpbs.org/news/public-safety/2022/07/05/san-diego-start-firing-employees-refuse-covid-vaccines-antests"
+    },
+    {
+      "text": "Claire Trageser",
+      "url": "https://www.kpbs.org/staff/claire-trageser"
+    },
+    {
+      "text": "Coronavirus FAQ: Can I get COVID outdoors? (With printable poster on how to cut risks)",
+      "url": "https://www.kpbs.org/news/national/2022/07/01/coronavirus-faq-can-i-get-covid-outdoors-with-printable-poster-on-how-to-cut-risks"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
       "url": "https://www.kpbs.org/news/local/2022/07/04/abortion-rights-supporters-protest-the-4th-of-july-rather-than-celebrate"
     },
     {
@@ -9775,20 +9879,12 @@
       "url": "https://www.kpbs.org/news/local"
     },
     {
-      "text": "Abortion rights supporters protest the 4th of July rather than celebrate",
+      "text": "Abortion rights supporters protest on July 4 rather than celebrate",
       "url": "https://www.kpbs.org/news/local/2022/07/04/abortion-rights-supporters-protest-the-4th-of-july-rather-than-celebrate"
     },
     {
       "text": "M.G. Perez",
       "url": "https://www.kpbs.org/staff/mg-perez"
-    },
-    {
-      "text": "6 immigrants reflect on their complicated relationships with the 4th of July",
-      "url": "https://www.kpbs.org/news/national/2022/07/04/6-immigrants-reflect-on-their-complicated-relationships-with-the-4th-of-july"
-    },
-    {
-      "text": "Losing a pregnancy could land you in jail in post-Roe America",
-      "url": "https://www.kpbs.org/news/national/2022/07/03/losing-a-pregnancy-could-land-you-in-jail-in-post-roe-america"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -9807,40 +9903,20 @@
       "url": "https://www.kpbs.org/staff/tania-thorne"
     },
     {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/events-independence-day-san-diego-county"
-    },
-    {
-      "text": "KPBS Evening Edition",
-      "url": "https://www.kpbs.org/news/evening-edition"
-    },
-    {
-      "text": "Dozens of events set for Independence Day in San Diego County\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/events-independence-day-san-diego-county"
-    },
-    {
-      "text": "City News Service",
-      "url": "https://www.kpbs.org/staff/city-news-service"
-    },
-    {
-      "text": "Steve Walsh",
-      "url": "https://www.kpbs.org/staff/steve-walsh"
-    },
-    {
       "text": "Featured Podcast\n                ",
       "url": "https://www.kpbs.org/podcasts"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/intercambio-a-conversation-on-the-cross-border-economy"
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/food-insecurity-in-vista"
     },
     {
-      "text": "Intercambio: A conversation on the cross-border economy",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/intercambio-a-conversation-on-the-cross-border-economy"
+      "text": "Food insecurity in Vista",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/food-insecurity-in-vista"
     },
     {
       "text": "Read More",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/intercambio-a-conversation-on-the-cross-border-economy"
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/food-insecurity-in-vista"
     },
     {
       "text": "Overturning of Roe v. Wade\n                ",
@@ -9851,20 +9927,20 @@
       "url": "https://www.kpbs.org/news/local/2022/06/24/supreme-court-overturns-roe-v-wade-dobbs-v-jackson-liveblog"
     },
     {
-      "text": "Live blog: Doctors weren't considered in Dobbs, but now they're on abortion's legal front lines",
+      "text": "Live blog: The Supreme Court is the most conservative in 90 years",
       "url": "https://www.kpbs.org/news/local/2022/06/24/supreme-court-overturns-roe-v-wade-dobbs-v-jackson-liveblog"
+    },
+    {
+      "text": "Advocates struggle with how much they can help with self-managed abortions",
+      "url": "https://www.kpbs.org/news/national/2022/07/05/advocates-struggle-with-how-much-they-can-help-with-self-managed-abortions"
+    },
+    {
+      "text": "The fight to fund abortions in post-Roe America",
+      "url": "https://www.kpbs.org/news/national/2022/07/05/the-fight-to-fund-abortions-in-post-roe-america"
     },
     {
       "text": "Losing a pregnancy could land you in jail in post-Roe America",
       "url": "https://www.kpbs.org/news/national/2022/07/03/losing-a-pregnancy-could-land-you-in-jail-in-post-roe-america"
-    },
-    {
-      "text": "The Supreme Court marshal asks state officials to act on protests at justices' homes",
-      "url": "https://www.kpbs.org/news/national/2022/07/03/the-supreme-court-marshal-asks-state-officials-to-act-on-protests-at-justices-homes"
-    },
-    {
-      "text": "The abortion ruling has troops and veterans speaking out, some for the first time",
-      "url": "https://www.kpbs.org/news/national/2022/07/04/the-abortion-ruling-has-troops-and-veterans-speaking-out-some-for-the-first-time"
     },
     {
       "text": "Local\n                ",
@@ -9872,47 +9948,35 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/silver-strand-shoreline-open-advisory-2-san-diego-county-beaches"
+      "url": "https://www.kpbs.org/news/local/2022/07/05/california-will-end-arrests-for-loitering-for-prostitution"
     },
     {
-      "text": "Silver Strand shoreline open; Advisory in effect at 2 other area beaches\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/silver-strand-shoreline-open-advisory-2-san-diego-county-beaches"
-    },
-    {
-      "text": "City News Service",
-      "url": "https://www.kpbs.org/staff/city-news-service"
+      "text": "California will end arrests for loitering for prostitution",
+      "url": "https://www.kpbs.org/news/local/2022/07/05/california-will-end-arrests-for-loitering-for-prostitution"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/average-san-diego-county-gas-price-sets-independence-day-record"
+      "url": "https://www.kpbs.org/news/local/2022/07/05/woman-who-killed-pimp-pardoned-by-california-governor"
     },
     {
-      "text": "Average San Diego County gas price sets Independence Day record\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/average-san-diego-county-gas-price-sets-independence-day-record"
-    },
-    {
-      "text": "City News Service",
-      "url": "https://www.kpbs.org/staff/city-news-service"
+      "text": "Woman who killed pimp pardoned by California governor",
+      "url": "https://www.kpbs.org/news/local/2022/07/05/woman-who-killed-pimp-pardoned-by-california-governor"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/join-us-in-california-newsom-targets-gop-in-florida-ad"
+      "url": "https://www.kpbs.org/news/local/2022/07/05/newsoms-opponent-im-reasonable-not-a-crazy-republican"
     },
     {
-      "text": "'Join us in California': Newsom targets GOP in Florida ad",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/join-us-in-california-newsom-targets-gop-in-florida-ad"
+      "text": "Newsom's opponent: I'm reasonable, not a 'crazy Republican'",
+      "url": "https://www.kpbs.org/news/local/2022/07/05/newsoms-opponent-im-reasonable-not-a-crazy-republican"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/delays-san-diego-international-airport-through-friday"
+      "url": "https://www.kpbs.org/news/local/2022/07/05/california-forest-fire-temporarily-strands-july-4th-revelers"
     },
     {
-      "text": "Significant delays expected at San Diego International through Friday\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/04/delays-san-diego-international-airport-through-friday"
-    },
-    {
-      "text": "City News Service",
-      "url": "https://www.kpbs.org/staff/city-news-service"
+      "text": "California forest fire temporarily strands July 4th revelers",
+      "url": "https://www.kpbs.org/news/local/2022/07/05/california-forest-fire-temporarily-strands-july-4th-revelers"
     },
     {
       "text": "National\n                ",
@@ -9920,39 +9984,39 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/07/04/biden-urges-unity-in-july-4th-speech-while-acknowledging-the-countrys-sour-mood"
+      "url": "https://www.kpbs.org/news/2022/07/05/76-million-year-old-dinosaur-skeleton-to-be-auctioned-in-nyc"
     },
     {
       "text": "National",
       "url": "https://www.kpbs.org/news/national"
     },
     {
-      "text": "Biden urges unity in July 4th speech, while acknowledging the country's sour mood",
-      "url": "https://www.kpbs.org/news/national/2022/07/04/biden-urges-unity-in-july-4th-speech-while-acknowledging-the-countrys-sour-mood"
+      "text": "76 million-year-old dinosaur skeleton to be auctioned in NYC",
+      "url": "https://www.kpbs.org/news/2022/07/05/76-million-year-old-dinosaur-skeleton-to-be-auctioned-in-nyc"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/07/04/joey-chestnut-miki-sudo-chow-their-way-to-victory-in-nathans-hot-dog-eating-contest"
+      "url": "https://www.kpbs.org/news/national/2022/07/05/the-poets-house-is-a-droll-coming-of-age-story-and-an-absolute-keeper-of-a-novel"
     },
     {
       "text": "National",
       "url": "https://www.kpbs.org/news/national"
     },
     {
-      "text": "Joey Chestnut, Miki Sudo chow their way to victory in Nathan's hot dog eating contest",
-      "url": "https://www.kpbs.org/news/national/2022/07/04/joey-chestnut-miki-sudo-chow-their-way-to-victory-in-nathans-hot-dog-eating-contest"
+      "text": "'The Poet's House' is a droll coming-of-age story \u2014 and an absolute keeper of a novel",
+      "url": "https://www.kpbs.org/news/national/2022/07/05/the-poets-house-is-a-droll-coming-of-age-story-and-an-absolute-keeper-of-a-novel"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/07/04/police-respond-to-a-shooting-at-a-july-fourth-parade-in-a-chicago-suburb"
+      "url": "https://www.kpbs.org/news/national/2022/07/05/the-suspected-highland-park-parade-shooter-had-posted-violent-imagery-online"
     },
     {
       "text": "National",
       "url": "https://www.kpbs.org/news/national"
     },
     {
-      "text": "Highland Park police take a man into custody over the July Fourth parade shooting",
-      "url": "https://www.kpbs.org/news/national/2022/07/04/police-respond-to-a-shooting-at-a-july-fourth-parade-in-a-chicago-suburb"
+      "text": "The Highland Park shooting was planned for weeks, officials say",
+      "url": "https://www.kpbs.org/news/national/2022/07/05/the-suspected-highland-park-parade-shooter-had-posted-violent-imagery-online"
     },
     {
       "text": "\n    \n        \n            \n                \n                    \n                        \n\n\n\n    \n\n\n\n                    \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -10016,11 +10080,11 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/2022/06/27/a-capitol-fourth-2022"
+      "url": "https://www.kpbs.org/news/2021/12/03/finding-your-roots-all-in-the-family"
     },
     {
-      "text": "A Capitol Fourth 2022",
-      "url": "https://www.kpbs.org/news/2022/06/27/a-capitol-fourth-2022"
+      "text": "FINDING YOUR ROOTS: All in the Family",
+      "url": "https://www.kpbs.org/news/2021/12/03/finding-your-roots-all-in-the-family"
     },
     {
       "text": "AMERICA OUTDOORS WITH BARATUNDE THURSTON (New Series Premiere)",
@@ -10044,35 +10108,35 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/07/04/big-bay-boom-2022"
+      "url": "https://www.kpbs.org/events/2022/07/05/green-community-clean-up-morning-after-mess-family-friendly"
     },
     {
-      "text": "Big Bay Boom 2022",
-      "url": "https://www.kpbs.org/events/2022/07/04/big-bay-boom-2022"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/07/04/july-4-fireworks-viewing-and-picnic"
-    },
-    {
-      "text": "July 4 Fireworks Viewing and Picnic",
-      "url": "https://www.kpbs.org/events/2022/07/04/july-4-fireworks-viewing-and-picnic"
+      "text": "Green Community Clean-up: Morning After Mess (Family Friendly!)",
+      "url": "https://www.kpbs.org/events/2022/07/05/green-community-clean-up-morning-after-mess-family-friendly"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/07/04/coronado-fourth-of-july-fireworks-and-parade"
+      "url": "https://www.kpbs.org/events/2022/07/07/tanabata-celebration-at-the-japanese-friendship-garden"
     },
     {
-      "text": "Coronado Fourth of July Fireworks and Parade",
-      "url": "https://www.kpbs.org/events/2022/07/04/coronado-fourth-of-july-fireworks-and-parade"
+      "text": "'Tanabata' Celebration at the Japanese Friendship Garden",
+      "url": "https://www.kpbs.org/events/2022/07/07/tanabata-celebration-at-the-japanese-friendship-garden"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/07/04/red-white-boom-fourth-of-july-at-legoland"
+      "url": "https://www.kpbs.org/events/ongoing/san-diego-padres-vs-san-francisco-giants"
     },
     {
-      "text": "Red, White & BOOM! Fourth of July at LEGOLAND",
-      "url": "https://www.kpbs.org/events/2022/07/04/red-white-boom-fourth-of-july-at-legoland"
+      "text": "San Diego Padres vs. San Francisco Giants",
+      "url": "https://www.kpbs.org/events/ongoing/san-diego-padres-vs-san-francisco-giants"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/events/2022/07/09/san-diego-pride-she-fest"
+    },
+    {
+      "text": "San Diego Pride: She Fest",
+      "url": "https://www.kpbs.org/events/2022/07/09/san-diego-pride-she-fest"
     },
     {
       "text": "Investigations\n                ",
@@ -10148,6 +10212,18 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/intercambio-a-conversation-on-the-cross-border-economy"
+    },
+    {
+      "text": "Intercambio: A conversation on the cross-border economy",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/intercambio-a-conversation-on-the-cross-border-economy"
+    },
+    {
+      "text": "Read More",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/intercambio-a-conversation-on-the-cross-border-economy"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
       "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/supreme-court-ruling-puts-california-gun-magazine-ban-in-doubt"
     },
     {
@@ -10159,24 +10235,16 @@
       "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/supreme-court-ruling-puts-california-gun-magazine-ban-in-doubt"
     },
     {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable/roundtable-californias-response-to-the-u-s-supreme-court"
-    },
-    {
-      "text": "Roundtable: California's response to the U.S. Supreme Court",
-      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable/roundtable-californias-response-to-the-u-s-supreme-court"
-    },
-    {
-      "text": "Read More",
-      "url": "https://www.kpbs.org/podcasts/kpbs-roundtable/roundtable-californias-response-to-the-u-s-supreme-court"
-    },
-    {
       "text": "Environment\n                ",
       "url": "https://www.kpbs.org/news/environment"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/07/04/in-light-of-epa-court-ruling-new-focus-on-states-power"
+      "url": "https://www.kpbs.org/news/local/2022/07/04/silver-strand-shoreline-open-advisory-2-san-diego-county-beaches"
+    },
+    {
+      "text": "Silver Strand shoreline open; Advisory in effect at 2 other area beaches\n",
+      "url": "https://www.kpbs.org/news/local/2022/07/04/silver-strand-shoreline-open-advisory-2-san-diego-county-beaches"
     },
     {
       "text": "In light of EPA court ruling, new focus on states' power",
@@ -10189,10 +10257,6 @@
     {
       "text": "California sets nation's toughest rules for reducing single-use plastics",
       "url": "https://www.kpbs.org/news/local/2022/06/30/california-sets-nations-toughest-rules-for-reducing-single-use-plastics"
-    },
-    {
-      "text": "California responds to Supreme Court ruling limiting EPA's powers",
-      "url": "https://www.kpbs.org/news/midday-edition/2022/06/30/california-responds-to-supreme-court-ruling-limiting-epas-powers"
     },
     {
       "text": "Military\n                ",
@@ -10228,27 +10292,23 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/07/03/ukraines-farmers-face-russias-blockade-and-ordnance-in-their-farms-this-harvest"
+      "url": "https://www.kpbs.org/news/international/2022/07/05/nato-poised-to-sign-accession-protocols-for-sweden-finland"
     },
     {
-      "text": "Ukraine's farmers face Russia's blockade and explosives on their lands this harvest",
-      "url": "https://www.kpbs.org/news/international/2022/07/03/ukraines-farmers-face-russias-blockade-and-ordnance-in-their-farms-this-harvest"
+      "text": "NATO poised to sign accession protocols for Sweden, Finland",
+      "url": "https://www.kpbs.org/news/international/2022/07/05/nato-poised-to-sign-accession-protocols-for-sweden-finland"
     },
     {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/07/03/texas-clinics-halt-abortions-after-state-high-court-ruling"
-    },
-    {
-      "text": "Texas clinics halt abortions after state high court ruling",
-      "url": "https://www.kpbs.org/news/national/2022/07/03/texas-clinics-halt-abortions-after-state-high-court-ruling"
+      "text": "Russia has control of a key eastern Ukrainian city",
+      "url": "https://www.kpbs.org/news/international/2022/07/04/russia-has-control-of-a-key-eastern-ukrainian-city"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/07/03/russians-press-assault-on-eastern-ukrainian-city"
+      "url": "https://www.kpbs.org/news/local/2022/07/04/join-us-in-california-newsom-targets-gop-in-florida-ad"
     },
     {
-      "text": "Russians press assault on eastern Ukrainian city",
-      "url": "https://www.kpbs.org/news/international/2022/07/03/russians-press-assault-on-eastern-ukrainian-city"
+      "text": "'Join us in California': Newsom targets GOP in Florida ad",
+      "url": "https://www.kpbs.org/news/local/2022/07/04/join-us-in-california-newsom-targets-gop-in-florida-ad"
     },
     {
       "text": "Public Safety\n                ",
@@ -10392,7 +10452,7 @@
     "addeddate": "2022-03-24 02:06:19"
   },
   "server": "ia902500.us.archive.org",
-  "uniq": 1920381485,
+  "uniq": 170032611,
   "workable_servers": [
     "ia902500.us.archive.org",
     "ia802500.us.archive.org"

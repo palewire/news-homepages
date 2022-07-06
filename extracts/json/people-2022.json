@@ -1,5 +1,5 @@
 {
-  "created": 1657023311,
+  "created": 1657068072,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/people-2022",
@@ -90,31 +90,73 @@
       "sha1": "5f0aa6c2e51e804cdf19009491848b5f9317b6a4"
     },
     {
+      "name": "people-2022-07-05T11:56:16.809783-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657036580",
+      "size": "35416",
+      "md5": "a0f15c49e611f040f613606ab6b18cdc",
+      "crc32": "6a211abe",
+      "sha1": "74b99da87a8f7b2225c3243fa9fcf88f235f7050",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-07-05T11:56:16.809783-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657036583",
+      "size": "60811",
+      "md5": "9bb9787d9436292976964285881b2654",
+      "crc32": "25fa111d",
+      "sha1": "9fc76928446ac500f53e14e5062521c1d4ef7830",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-07-05T11:56:16.809783-04:00.jpg",
+      "source": "original",
+      "mtime": "1657036579",
+      "size": "312503",
+      "md5": "bf0b38989fd92f68a8344fdc3ebe274a",
+      "crc32": "e6b20efc",
+      "sha1": "f8fc118310d22959d6fcb7ad482a97ff7152453b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "people-2022-07-05T11:56:16.809783-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "people-2022-07-05T11:56:16.809783-04:00.jpg",
+      "mtime": "1657036660",
+      "size": "10070",
+      "md5": "c2bbbb16c7f15ec166d258e3465b4ba8",
+      "crc32": "57158d7f",
+      "sha1": "17a36fd97ee5829ef94dd59625b654cdf0308884"
+    },
+    {
       "name": "people-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc1acba9a97b0c1a8d467b086232c7752f10daea",
-      "mtime": "1656990857",
-      "size": "3060",
-      "md5": "c1717f4747d6b3abe201365b88a43821",
-      "crc32": "191cb154",
-      "sha1": "7f44faed0c0687e45779df98ee492fcdb5182920",
+      "btih": "afb9a1365d3afdf00f0bbaa1e3375338f3f983fc",
+      "mtime": "1657036671",
+      "size": "3902",
+      "md5": "a74bcc489bd2c4ed372388bda083d4ad",
+      "crc32": "66251224",
+      "sha1": "cb80c4561793bcc0533026107ea14eea29f8a941",
       "format": "Archive BitTorrent"
     },
     {
       "name": "people-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ffba35c3beb048017dc3b93f8d878d3e",
+      "md5": "2eda0bbb6ce629a943cf532be5fa4f10",
       "summation": "md5"
     },
     {
       "name": "people-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656990783",
-      "size": "28672",
-      "md5": "974afd34c8be932ea25b90fad7bbe98d",
-      "crc32": "943b2b29",
-      "sha1": "69a312af481c842690982caf048570ba84721822",
+      "mtime": "1657036586",
+      "size": "32768",
+      "md5": "5d70e7d779745775776464204152b241",
+      "crc32": "03ffe779",
+      "sha1": "b9988c127faa091ba5faa8c9ed9780c56d21bb48",
       "format": "Metadata"
     },
     {
@@ -128,9 +170,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 12,
-  "item_last_updated": 1656990857,
-  "item_size": 850399,
+  "files_count": 16,
+  "item_last_updated": 1657036671,
+  "item_size": 1274137,
   "metadata": {
     "identifier": "people-2022",
     "collection": [
@@ -147,1237 +189,1570 @@
     "publicdate": "2022-07-04 21:50:55",
     "addeddate": "2022-07-04 21:50:55"
   },
-  "people-2022": {
-    "role": "WebArea",
-    "name": "People.com | Celebrity News, Exclusives, Photos and Videos",
-    "children": [
-      {
-        "role": "link",
-        "name": "SKIP TO CONTENT"
-      },
-      {
-        "role": "heading",
-        "name": "Top Navigation",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "PEOPLE.com"
-      },
-      {
-        "role": "button",
-        "name": "Open search box"
-      },
-      {
-        "role": "heading",
-        "name": "Profile Menu",
-        "level": 2
-      },
-      {
-        "role": "button",
-        "name": "Join Now"
-      },
-      {
-        "role": "link",
-        "name": "Login"
-      },
-      {
-        "role": "link",
-        "name": "Sweepstakes"
-      },
-      {
-        "role": "button",
-        "name": "Explore PEOPLE.com"
-      },
-      {
-        "role": "combobox",
-        "name": "NEWS",
-        "haspopup": "menu"
-      },
-      {
-        "role": "combobox",
-        "name": "ENTERTAINMENT",
-        "haspopup": "menu"
-      },
-      {
-        "role": "link",
-        "name": "ROYALS"
-      },
-      {
-        "role": "combobox",
-        "name": "LIFESTYLE",
-        "haspopup": "menu"
-      },
-      {
-        "role": "link",
-        "name": "PEOPLETV"
-      },
-      {
-        "role": "combobox",
-        "name": "SHOPPING",
-        "haspopup": "menu"
-      },
-      {
-        "role": "combobox",
-        "name": "PODCASTS",
-        "haspopup": "menu"
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE",
-        "description": "this link is to an external site that may or may not meet accessibility guidelines."
-      },
-      {
-        "role": "heading",
-        "name": "PEOPLE.com Home",
-        "level": 1
-      },
-      {
-        "role": "link",
-        "name": "Dad Recalls Escape From Highland Park Parade Shooter: 'I Was Staring at This Guy Shooting at Me'",
-        "description": "Dad Recalls Escape From Highland Park Parade Shooter: 'I Was Staring at This Guy Shooting at Me'"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "text",
-        "name": "Chris Harris"
-      },
-      {
-        "role": "text",
-        "name": "5 hours ago"
-      },
-      {
-        "role": "text",
-        "name": "Exclusive"
-      },
-      {
-        "role": "link",
-        "name": "Savage Garden's Darren Hayes Says Music 'Saved My Life' After Years of Denying His Gay Identity",
-        "description": "Savage Garden's Darren Hayes Says Music 'Saved My Life' After Years of Denying His Gay Identity"
-      },
-      {
-        "role": "text",
-        "name": "8 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Calif. Woman Pardoned 27 Years After Killing the Man Who Trafficked Her as a Teen"
-      },
-      {
-        "role": "text",
-        "name": "10 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Joey Chestnut Eats 63 Hot Dogs as He Wins His 15th Nathan's July 4 Eating Contest"
-      },
-      {
-        "role": "text",
-        "name": "4 hours ago"
-      },
-      {
-        "role": "text",
-        "name": "1"
-      },
-      {
-        "role": "link",
-        "name": "Jayland Walker Shot at Least 60 Times in Bodycam Footage Released by Akron Police"
-      },
-      {
-        "role": "text",
-        "name": "11 hours ago"
-      },
-      {
-        "role": "text",
-        "name": "2"
-      },
-      {
-        "role": "link",
-        "name": "Film Producer and Actor Charged with Murders of Model and Architect Dumped Outside L.A. Hospitals"
-      },
-      {
-        "role": "text",
-        "name": "July 03, 2022"
-      },
-      {
-        "role": "text",
-        "name": "3"
-      },
-      {
-        "role": "link",
-        "name": "Rebel Wilson Gets Real About Putting on Weight as She Shares Swimsuit Pic: It 'Doesn't Define You'"
-      },
-      {
-        "role": "text",
-        "name": "July 03, 2022"
-      },
-      {
-        "role": "heading",
-        "name": "Today's Must-See Photos",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "*EXCLUSIVE* Kurt Russell and Goldie Hawn look in great spirits while pictured on holiday in Italy"
-      },
-      {
-        "role": "link",
-        "name": "Kurt Russell and Goldie Hawn step out for a stroll on July 3, while vacationing in Ravello, Italy.\u00a0"
-      },
-      {
-        "role": "link",
-        "name": "MORE STARTRACKS"
-      },
-      {
-        "role": "link",
-        "name": "Venus Williams Claps Back at Reporter Who Tried to Pit Her Against Sister Serena Williams",
-        "description": "Venus Williams Claps Back at Reporter Who Tried to Pit Her Against Sister Serena Williams"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "text",
-        "name": "Amethyst Tate"
-      },
-      {
-        "role": "text",
-        "name": "7 hours ago"
-      },
-      {
-        "role": "heading",
-        "name": "Related",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Barack and Michelle Obama Honor Daughter Malia on 24th Birthday: 'You'll Always Be My Baby'"
-      },
-      {
-        "role": "text",
-        "name": "8 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Tom Sturridge and Alexa Chung Kiss While Sitting By His Ex Sienna Miller at Wimbledon"
-      },
-      {
-        "role": "text",
-        "name": "8 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Kris Jenner Shares Zebra Bikini Throwback Photo as She Celebrates BFF Faye Resnick's Birthday"
-      },
-      {
-        "role": "text",
-        "name": "9 hours ago"
-      },
-      {
-        "role": "heading",
-        "name": "WHAT WE'RE TALKING ABOUT",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Julia Roberts Posts 'Can't Stop Kissing' Pic to Celebrate 20th Anniversary with Danny Moder"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "text",
-        "name": "Charmaine Patterson"
-      },
-      {
-        "role": "link",
-        "name": "Adele Opens Up About Her Desire to Have 'a Couple More Kids': 'It Would Be Wonderful if We Can'"
-      },
-      {
-        "role": "link",
-        "name": "Ozzy and Sharon Osbourne Celebrate 40 Years of Marriage: 'Happy Anniversary My Love'"
-      },
-      {
-        "role": "text",
-        "name": "Exclusive"
-      },
-      {
-        "role": "link",
-        "name": "Steve Harvey Shares the Secret to a Viral Family Feud Moment: 'Pure, Unintentional Ignorance'"
-      },
-      {
-        "role": "heading",
-        "name": "Related",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "TV News"
-      },
-      {
-        "role": "text",
-        "name": "Must see TV"
-      },
-      {
-        "role": "link",
-        "name": "Tamron Hall on Her Second Emmy Win and Advice for New Daytime Host Sherri Shepherd: 'Know Your Intention'"
-      },
-      {
-        "role": "link",
-        "name": "Danny Roberts Blasts Real World Homecoming for Cutting His HIV Journey: 'Huge Missed Opportunity'"
-      },
-      {
-        "role": "text",
-        "name": "Movie News"
-      },
-      {
-        "role": "text",
-        "name": "What's new in film"
-      },
-      {
-        "role": "link",
-        "name": "Tom Cruise on Top Gun's Most Famous Catchphrase\u2014and the Surprising Place He's Never Heard it Quoted"
-      },
-      {
-        "role": "link",
-        "name": "Chris Hemsworth Joins TikTok and Gets Excited for Thor: Love and Thunder Release: 'Love You Guys!'"
-      },
-      {
-        "role": "text",
-        "name": "Music News"
-      },
-      {
-        "role": "text",
-        "name": "Get the latest"
-      },
-      {
-        "role": "link",
-        "name": "Bret Michaels 'Gives 100%' in Return to Stage After Hospitalization: 'Sick and in the Pouring Rain'"
-      },
-      {
-        "role": "link",
-        "name": "Drake Makes Surprise Appearance on Stage at Backstreet Boys Show, Performs 'I Want It That Way'"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "How Stars Are Celebrating the Fourth of July in 2022"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "text",
-        "name": "People Staff"
-      },
-      {
-        "role": "heading",
-        "name": "ALL THINGS CELEB",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Bachelorette Alum Chase McNary Is Engaged to Ellie White: 'It Was Always You'"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "text",
-        "name": "Dory Jackson"
-      },
-      {
-        "role": "link",
-        "name": "Carrie Underwood Joins Guns 'N Roses During London Concert: 'How Did I Get So Lucky?'"
-      },
-      {
-        "role": "link",
-        "name": "Khloe Kardashian Spends Her 38th Birthday With Daughter True, Laughs at Their Photo Shoot Attempt"
-      },
-      {
-        "role": "link",
-        "name": "Sandra Lee Celebrates Birthday with 'Romantic' Sunset Cruise and Kiss from Boyfriend Ben Youcef\u00a0"
-      },
-      {
-        "role": "link",
-        "name": "'60s Soul Singer P.P. Arnold Claims She was Raped By Ike Turner in New Memoir Soul Survivor"
-      },
-      {
-        "role": "link",
-        "name": "Music"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "an hour ago"
-      },
-      {
-        "role": "link",
-        "name": "Oprah Winfrey Surprises Her Father Vernon with an Appreciation Day amid His Ongoing Illness"
-      },
-      {
-        "role": "link",
-        "name": "TV"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "an hour ago"
-      },
-      {
-        "role": "link",
-        "name": "Melissa Joan Hart Rewears 21-Year-Old Dress for Fourth of July: 'The Eagle Dress Has Landed'"
-      },
-      {
-        "role": "link",
-        "name": "Style"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "2 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Protests Erupt in Akron, Ohio After Body Cam Footage Showing Black Man's Shooting Death Released"
-      },
-      {
-        "role": "link",
-        "name": "Crime"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "2 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Person of Interest Taken into Custody in Connection to July 4 Parade Shooting in Highland Park"
-      },
-      {
-        "role": "link",
-        "name": "Crime"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "2 hours ago"
-      },
-      {
-        "role": "text",
-        "name": "Exclusive"
-      },
-      {
-        "role": "link",
-        "name": "Family of 4! Quentin Tarantino and Wife Daniella Welcome Their Second Child Together"
-      },
-      {
-        "role": "link",
-        "name": "Parents"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "2 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Yoga Teacher Accused of Killing Cyclist Mo Wilson May Have Used Sister's Passport to Flee U.S."
-      },
-      {
-        "role": "link",
-        "name": "Crime"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "3 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Brittney Griner Pleads for Help in Letter to President Biden: 'I'm Terrified I Might Be Here Forever'"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "3 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "David and Victoria Beckham Mark Their 23rd Wedding Anniversary: 'She Will Always Be My Posh'"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "3 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Texas Shooter Kills 2 and Injures 3 Police Officers Before Turning Gun on Himself"
-      },
-      {
-        "role": "link",
-        "name": "Crime"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "4 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Tamra Judge's 13-Year-Old Dog Bronx Dies: 'Our Lives Will Never Be the Same Without You'"
-      },
-      {
-        "role": "link",
-        "name": "Pets"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "4 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Joey Chestnut Eats 63 Hot Dogs as He Wins His 15th Nathan's July 4 Eating Contest"
-      },
-      {
-        "role": "link",
-        "name": "Food"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "4 hours ago"
-      },
-      {
-        "role": "text",
-        "name": "Exclusive"
-      },
-      {
-        "role": "link",
-        "name": "Alexis Ohanian Talks Being a 'Business Dad' to Daughter Olympia, 4: I Want Her 'to See Me Working'"
-      },
-      {
-        "role": "link",
-        "name": "Parents"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "5 hours ago"
-      },
-      {
-        "role": "text",
-        "name": "Exclusive"
-      },
-      {
-        "role": "link",
-        "name": "Dad Recalls Escape From Highland Park Parade Shooter: 'I Was Staring at This Guy Shooting at Me'"
-      },
-      {
-        "role": "link",
-        "name": "Crime"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "5 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Julia Roberts Posts 'Can't Stop Kissing' Pic to Celebrate 20th Anniversary with Danny Moder"
-      },
-      {
-        "role": "link",
-        "name": "Movies"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "5 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Red, White & I Do: Stars Who Married on the Fourth of July"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "link",
-        "name": "Celebrity"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "5 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Rachel Brosnahan and Richard Marx, Who Grew Up in Highland Park, React to July 4th Parade Shooting"
-      },
-      {
-        "role": "link",
-        "name": "Crime"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "2 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Jessica Chastain Flips Off Camera as She Makes Statement About 'Independence' Day, Women's 'Rights'"
-      },
-      {
-        "role": "link",
-        "name": "Movies"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "6 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Olivia Rodrigo Surprises Fans with Cover of 'Torn' at Dive Bar in Manchester, England"
-      },
-      {
-        "role": "link",
-        "name": "Music"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "6 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Venus Williams Claps Back at Reporter Who Tried to Pit Her Against Sister Serena Williams"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "7 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Metallica's 'Master of Puppets' Trends up the Charts After Epic Stranger Things Season 4 Finale"
-      },
-      {
-        "role": "link",
-        "name": "Music"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "7 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "How Stars Are Celebrating the Fourth of July in 2022"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "link",
-        "name": "Celebrity"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "7 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "ALL LATEST NEWS"
-      },
-      {
-        "role": "heading",
-        "name": "BUY IT",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "From can\u2019t-miss deals to editor-tested top picks, here\u2019s everything you\u2019ll want to add to your cart"
-      },
-      {
-        "role": "link",
-        "name": "SEE ALL"
-      },
-      {
-        "role": "link",
-        "name": "76 Epic Fourth of July Sales You'll Want to Shop Before the Fireworks Go Off"
-      },
-      {
-        "role": "text",
-        "name": "June 30, 2022"
-      },
-      {
-        "role": "link",
-        "name": "Amazon's Overstock Outlet Is Packed with Early Prime Day Furniture Discounts \u2014 Up to 66% Off"
-      },
-      {
-        "role": "text",
-        "name": "July 02, 2022"
-      },
-      {
-        "role": "link",
-        "name": "The Best Beach Towels We Tested in Our Lab"
-      },
-      {
-        "role": "text",
-        "name": "May 16, 2022"
-      },
-      {
-        "role": "generic",
-        "name": ""
-      },
-      {
-        "role": "status",
-        "name": "",
-        "children": [
-          {
-            "role": "img",
-            "name": "Loading"
-          }
-        ]
-      },
-      {
-        "role": "button",
-        "name": "play"
-      },
-      {
-        "role": "generic",
-        "name": "",
-        "children": [
-          {
-            "role": "slider",
-            "name": "video seek",
-            "valuetext": "",
-            "valuemax": 100,
-            "valuemin": 0,
-            "orientation": "horizontal",
-            "value": 0
-          }
-        ]
-      },
-      {
-        "role": "button",
-        "name": "play"
-      },
-      {
-        "role": "button",
-        "name": "mute"
-      },
-      {
-        "role": "slider",
-        "name": "volume",
-        "valuetext": "",
-        "valuemax": 100,
-        "valuemin": 1,
-        "orientation": "horizontal",
-        "value": 100
-      },
-      {
-        "role": "generic",
-        "name": ""
-      },
-      {
-        "role": "button",
-        "name": "share video"
-      },
-      {
-        "role": "button",
-        "name": "settings"
-      },
-      {
-        "role": "button",
-        "name": "enter fullscreen"
-      },
-      {
-        "role": "link",
-        "name": "Top 10 Patriotic Movie Moments"
-      },
-      {
-        "role": "text",
-        "name": "On this July 4th, we break down the very best scenes from your favorite patriotic films"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "text",
-        "name": "People Staff"
-      },
-      {
-        "role": "heading",
-        "name": "TRUE CRIME",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "Our expert reporting breaks down today\u2019s most shocking headlines and dives into Hollywood\u2019s most notorious crimes"
-      },
-      {
-        "role": "link",
-        "name": "SEE ALL"
-      },
-      {
-        "role": "link",
-        "name": "Uvalde Police Chief Resigns from City Council a Month After Being Sworn in Following School Shooting"
-      },
-      {
-        "role": "link",
-        "name": "Todd and Julie Chrisley Told 16-Year-Old Son Grayson to Protect His 'Tender Heart' amid Family Legal Woes"
-      },
-      {
-        "role": "link",
-        "name": "Uvalde Police Chief Resigns from City Council a Month After Being Sworn in Following School Shooting",
-        "description": "Uvalde Police Chief Resigns from City Council a Month After Being Sworn in Following School Shooting"
-      },
-      {
-        "role": "link",
-        "name": "Man Charged with Murder After NYC Mom Azsia Johnson Was Shot in the Head While Pushing Her Baby in a Stroller"
-      },
-      {
-        "role": "link",
-        "name": "Film Producer and Actor Charged with Murders of Model and Architect Dumped Outside L.A. Hospitals"
-      },
-      {
-        "role": "link",
-        "name": "Harry Styles Cancels Copenhagen Gig After Deadly Shooting in Mall Near Venue: 'I'm Devastated'"
-      },
-      {
-        "role": "link",
-        "name": "N.Y. Man Allegedly Looked for Ex-Girlfriend's Home for More than a Week Before Killing Her"
-      },
-      {
-        "role": "link",
-        "name": "'You Are Killing My Mom': Pa. Mother's 2 Daughters Allegedly Witnessed Boyfriend Strangling Her"
-      },
-      {
-        "role": "heading",
-        "name": "THE ROYALS",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "Covering everything you need to know about every royal, from London to Los Angeles"
-      },
-      {
-        "role": "link",
-        "name": "SEE ALL"
-      },
-      {
-        "role": "img",
-        "name": "Royals Header Divider"
-      },
-      {
-        "role": "link",
-        "name": "New Zealand Prime Minister Jacinda Ardern Gives Prince William Women's Rugby Shirt and Gifts For His Kids"
-      },
-      {
-        "role": "link",
-        "name": "How Kate Middleton and Prince William Are Modeling Princess Diana's Parenting Style"
-      },
-      {
-        "role": "link",
-        "name": "Prince Harry Says He Sees Princess Diana's Legacy 'When I Look at My Own Children' on Her Birthday"
-      },
-      {
-        "role": "link",
-        "name": "'Extraordinarily Rare' Portrait of Princess Diana Goes on Public Display for First Time"
-      },
-      {
-        "role": "link",
-        "name": "Prince Albert and Princess Charlene of Monaco Celebrate 11th Wedding Anniversary with New Portrait"
-      },
-      {
-        "role": "heading",
-        "name": "BEAUTY & STYLE",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "All the stars, all the outfits, all the glam moments \u2014 all day long"
-      },
-      {
-        "role": "link",
-        "name": "SEE ALL"
-      },
-      {
-        "role": "link",
-        "name": "Victoria Beckham Recalls Being Forced to Weigh Herself on Live TV Soon After Giving Birth"
-      },
-      {
-        "role": "link",
-        "name": "Victoria Beckham Recalls Being Forced to Weigh Herself on Live TV Soon After Giving Birth"
-      },
-      {
-        "role": "link",
-        "name": "Adam Levine Debuts Barbie-Inspired Manicure Because Pink 'Always Wins'"
-      },
-      {
-        "role": "link",
-        "name": "Cara Delevingne Goes Topless and Says 'It's All of Our Jobs' to Fight for Women's and Trans Rights"
-      },
-      {
-        "role": "link",
-        "name": "Rihanna Shows Off Her Juicy Pout in New Fenty Beauty Promo as She Makes First Appearance Since Baby's Birth"
-      },
-      {
-        "role": "heading",
-        "name": "REAL LIFE STORIES",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "Extraordinary moments in the lives of everyday people"
-      },
-      {
-        "role": "link",
-        "name": "SEE ALL"
-      },
-      {
-        "role": "text",
-        "name": "1"
-      },
-      {
-        "role": "link",
-        "name": "World War II-Era Boat Exposed at Lake Mead as Water Levels Decline"
-      },
-      {
-        "role": "text",
-        "name": "2"
-      },
-      {
-        "role": "link",
-        "name": "Emily Engel-Natzke Makes NHL History as the First Female Full-Time Coach, Joining Washington Capitals"
-      },
-      {
-        "role": "text",
-        "name": "3"
-      },
-      {
-        "role": "link",
-        "name": "3 Children and a Mother Found Dead After Being Pulled from a Minnesota Lake: 'a Tragic Event'"
-      },
-      {
-        "role": "link",
-        "name": "10-Year-Old Ohio Girl Travels to Indiana for Abortion After SCOTUS Overturns Roe v. Wade"
-      },
-      {
-        "role": "link",
-        "name": "1 Killed in Pyrotechnics Accident at Air Show, Father Says He Was 'Living the Dream'"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Miranda Lambert Reveals How Her Mom and Grandma Inspired New Home Goods Line Wanda June"
-      },
-      {
-        "role": "text",
-        "name": "The country star's Wanda June Home collection is available at Walmart"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "text",
-        "name": "Jeff Nelson"
-      },
-      {
-        "role": "heading",
-        "name": "LIVING",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "Your inspirational and entertaining escape for travel, wellness, food, pets and more"
-      },
-      {
-        "role": "link",
-        "name": "SEE ALL"
-      },
-      {
-        "role": "text",
-        "name": "1"
-      },
-      {
-        "role": "text",
-        "name": "Exclusive"
-      },
-      {
-        "role": "link",
-        "name": "Nathan's Fourth of July Hot Dog-Eating Contest: The Wildest Rules Competitors Have to Follow"
-      },
-      {
-        "role": "text",
-        "name": "2"
-      },
-      {
-        "role": "link",
-        "name": "Tenn. Kitten Rescued by Firefighters After Getting Stuck in a Pepsi Vending Machine at Walmart"
-      },
-      {
-        "role": "text",
-        "name": "3"
-      },
-      {
-        "role": "text",
-        "name": "Exclusive"
-      },
-      {
-        "role": "link",
-        "name": "Young Elephant Shot in the Trunk Recovers from Injury Thanks to Pet Product and Lots of Love"
-      },
-      {
-        "role": "link",
-        "name": "Elvis Presley's One-Time Mississippi Home Will Go Up for Auction: 'Incredibly Special'"
-      },
-      {
-        "role": "link",
-        "name": "Disney Reveals Splash Mountain Will Be Transformed Into Tiana's Bayou Adventure by 2024"
-      },
-      {
-        "role": "link",
-        "name": "15 of Tom Cruise's Dreamiest Throwback Photos in Honor of His Birthday"
-      },
-      {
-        "role": "text",
-        "name": "From The Archives"
-      },
-      {
-        "role": "text",
-        "name": "15 of Tom Cruise's Dreamiest Throwback Photos in Honor of His Birthday"
-      },
-      {
-        "role": "text",
-        "name": "READ THE STORY"
-      },
-      {
-        "role": "link",
-        "name": "The\u00a0Top Gun:Maverick\u00a0star turns 60 on July 3",
-        "description": "The\u00a0<em>Top Gun:Maverick\u00a0</em>star turns 60 on July 3"
-      },
-      {
-        "role": "link",
-        "name": "PEOPLE.com"
-      },
-      {
-        "role": "heading",
-        "name": "Magazines & More",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Magazines & More"
-      },
-      {
-        "role": "heading",
-        "name": "Learn More",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Subscribe this link opens in a new tab",
-        "description": "this link is to an external site that may or may not meet accessibility guidelines."
-      },
-      {
-        "role": "link",
-        "name": "Advertise this link opens in a new tab",
-        "description": "this link is to an external site that may or may not meet accessibility guidelines."
-      },
-      {
-        "role": "link",
-        "name": "Content Licensing",
-        "description": "this link is to an external site that may or may not meet accessibility guidelines."
-      },
-      {
-        "role": "link",
-        "name": "Accolades this link opens in a new tab"
-      },
-      {
-        "role": "heading",
-        "name": "Connect",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Share on facebook (opens in a new window)",
-        "description": "facebook share (opens in a new window)"
-      },
-      {
-        "role": "link",
-        "name": "Share on twitter (opens in a new window)",
-        "description": "twitter share (opens in a new window)"
-      },
-      {
-        "role": "link",
-        "name": "Share on pinterest (opens in a new window)",
-        "description": "pinterest share (opens in a new window)"
-      },
-      {
-        "role": "link",
-        "name": "Share on instagram (opens in a new window)",
-        "description": "instagram share (opens in a new window)"
-      },
-      {
-        "role": "link",
-        "name": "Share on youtube (opens in a new window)",
-        "description": "youtube share (opens in a new window)"
-      },
-      {
-        "role": "link",
-        "name": "Share on snapchat (opens in a new window)",
-        "description": "snapchat share (opens in a new window)"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe to Our Newsletter"
-      },
-      {
-        "role": "text",
-        "name": "Meredith"
-      },
-      {
-        "role": "text",
-        "name": "\u00a9 Copyright 2022"
-      },
-      {
-        "role": "link",
-        "name": "Meredith Corporation this link opens in a new tab"
-      },
-      {
-        "role": "text",
-        "name": ". People is a registered trademark of Meredith Corporation All Rights Reserved. People may receive compensation for some links to products and services on this website. Offers may be subject to change without notice."
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy this link opens in a new tab"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Service this link opens in a new tab"
-      },
-      {
-        "role": "link",
-        "name": "Ad Choices this link opens in a new tab"
-      },
-      {
-        "role": "link",
-        "name": "Manage Push Notifications this link opens in a new tab"
-      },
-      {
-        "role": "link",
-        "name": "California Do Not Sell"
-      },
-      {
-        "role": "link",
-        "name": "Web Accessibility this link opens in a new tab"
-      }
-    ]
-  },
+  "people-2022": [
+    {
+      "text": "Skip to content",
+      "url": "#main-content"
+    },
+    {
+      "text": "PEOPLE.com     ",
+      "url": "/"
+    },
+    {
+      "text": "PEOPLE.com     ",
+      "url": "/"
+    },
+    {
+      "text": "Join Now",
+      "url": "/account/signup?regSource=23009&returnURL=%2F"
+    },
+    {
+      "text": "My Profile",
+      "url": "/account/profile"
+    },
+    {
+      "text": "Email Preferences",
+      "url": "https://secure.people.com/common/profile/member/optout/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://people.com/account/quick-signup?regsource=23186"
+    },
+    {
+      "text": "Manage Your Subscription",
+      "url": "https://w1.buysub.com/servlet/CSGateway?cds_mag_code=PPL"
+    },
+    {
+      "text": "Logout",
+      "url": "/account/signout?successPage=https%3A%2F%2Fpeople.com%2F"
+    },
+    {
+      "text": "Give a Gift Subscription",
+      "url": "https://www.magazines.com/people-magazine.html"
+    },
+    {
+      "text": "Premium",
+      "url": "https://webreader.people.com/"
+    },
+    {
+      "text": "Join Now",
+      "url": "/account/signup?regSource=23009&returnURL=%2F"
+    },
+    {
+      "text": "My Profile",
+      "url": "/account/profile"
+    },
+    {
+      "text": "Email Preferences",
+      "url": "https://secure.people.com/common/profile/member/optout/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://people.com/account/quick-signup?regsource=23186"
+    },
+    {
+      "text": "Manage Your Subscription",
+      "url": "https://w1.buysub.com/servlet/CSGateway?cds_mag_code=PPL"
+    },
+    {
+      "text": "Logout",
+      "url": "/account/signout?successPage=https%3A%2F%2Fpeople.com%2F"
+    },
+    {
+      "text": "Give a Gift Subscription",
+      "url": "https://www.magazines.com/people-magazine.html"
+    },
+    {
+      "text": "Premium",
+      "url": "https://webreader.people.com/"
+    },
+    {
+      "text": " Login",
+      "url": "/account/signin?regSource=23009&returnURL=%2F"
+    },
+    {
+      "text": " Sweepstakes ",
+      "url": "https://people.com/sweepstakes/"
+    },
+    {
+      "text": " Subscribe ",
+      "url": "https://www.magazines.com/?containerName=ib3gdsm16&utm_source=people.com&utm_medium=owned&utm_campaign=i111ppr1w2660"
+    },
+    {
+      "text": "PEOPLE.com     ",
+      "url": "/"
+    },
+    {
+      "text": "PEOPLE.com     ",
+      "url": "/"
+    },
+    {
+      "text": "All News",
+      "url": "https://people.com/tag/news/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://people.com/tag/coronavirus/"
+    },
+    {
+      "text": "Crime",
+      "url": "https://people.com/crime/"
+    },
+    {
+      "text": "Human Interest",
+      "url": "https://people.com/human-interest/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://people.com/politics/"
+    },
+    {
+      "text": "Heroes",
+      "url": "https://people.com/tag/heroes/"
+    },
+    {
+      "text": "Stories to Make You Smile",
+      "url": "https://people.com/tag/stories-to-make-you-smile/"
+    },
+    {
+      "text": "All Entertainment",
+      "url": "https://people.com/entertainment/"
+    },
+    {
+      "text": "Celebrity",
+      "url": "https://people.com/celebrity/"
+    },
+    {
+      "text": "TV",
+      "url": "https://people.com/tv/"
+    },
+    {
+      "text": "Movies",
+      "url": "https://people.com/movies/"
+    },
+    {
+      "text": "Music",
+      "url": "https://people.com/music/"
+    },
+    {
+      "text": "Country",
+      "url": "https://people.com/country/"
+    },
+    {
+      "text": "Awards",
+      "url": "https://people.com/awards/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://people.com/sports/"
+    },
+    {
+      "text": "Theater",
+      "url": "https://people.com/theater/"
+    },
+    {
+      "text": "Books",
+      "url": "https://people.com/books/"
+    },
+    {
+      "text": "Royals",
+      "url": "https://people.com/royals/"
+    },
+    {
+      "text": "All Lifestyle",
+      "url": "https://people.com/lifestyle/"
+    },
+    {
+      "text": "Style",
+      "url": "https://people.com/style/"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://people.com/fashion/"
+    },
+    {
+      "text": "Beauty",
+      "url": "https://people.com/beauty/"
+    },
+    {
+      "text": "Health",
+      "url": "https://people.com/health/"
+    },
+    {
+      "text": "Parents",
+      "url": "https://people.com/parents/"
+    },
+    {
+      "text": "Home",
+      "url": "https://people.com/home/"
+    },
+    {
+      "text": "Pets",
+      "url": "https://people.com/pets/"
+    },
+    {
+      "text": "Food",
+      "url": "https://people.com/food/"
+    },
+    {
+      "text": "Tech",
+      "url": "https://people.com/tech/"
+    },
+    {
+      "text": "Travel",
+      "url": "https://people.com/travel/"
+    },
+    {
+      "text": "PeopleTV",
+      "url": "https://peopletv.com"
+    },
+    {
+      "text": "All Shopping",
+      "url": "https://people.com/shopping/"
+    },
+    {
+      "text": "People Tested",
+      "url": "https://people.com/shopping/people-tested/"
+    },
+    {
+      "text": "All Podcasts",
+      "url": "https://people.com/podcasts/"
+    },
+    {
+      "text": "Me Becoming Mom",
+      "url": "https://people.com/podcasts/me-becoming-mom/"
+    },
+    {
+      "text": "People Every Day",
+      "url": "https://people.com/podcasts/people-every-day-podcast/"
+    },
+    {
+      "text": "PEOPLE in the '90s",
+      "url": "https://people.com/podcasts/people-in-the-90s/"
+    },
+    {
+      "text": "Join Now",
+      "url": "/account/signup?regSource=23009&returnURL=%2F"
+    },
+    {
+      "text": "My Profile",
+      "url": "/account/profile"
+    },
+    {
+      "text": "Email Preferences",
+      "url": "https://secure.people.com/common/profile/member/optout/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://people.com/account/quick-signup?regsource=23186"
+    },
+    {
+      "text": "Manage Your Subscription",
+      "url": "https://w1.buysub.com/servlet/CSGateway?cds_mag_code=PPL"
+    },
+    {
+      "text": "Logout",
+      "url": "/account/signout?successPage=https%3A%2F%2Fpeople.com%2F"
+    },
+    {
+      "text": "Give a Gift Subscription",
+      "url": "https://www.magazines.com/people-magazine.html"
+    },
+    {
+      "text": "Premium",
+      "url": "https://webreader.people.com/"
+    },
+    {
+      "text": "Join Now",
+      "url": "/account/signup?regSource=23009&returnURL=%2F"
+    },
+    {
+      "text": "My Profile",
+      "url": "/account/profile"
+    },
+    {
+      "text": "Email Preferences",
+      "url": "https://secure.people.com/common/profile/member/optout/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://people.com/account/quick-signup?regsource=23186"
+    },
+    {
+      "text": "Manage Your Subscription",
+      "url": "https://w1.buysub.com/servlet/CSGateway?cds_mag_code=PPL"
+    },
+    {
+      "text": "Logout",
+      "url": "/account/signout?successPage=https%3A%2F%2Fpeople.com%2F"
+    },
+    {
+      "text": "Give a Gift Subscription",
+      "url": "https://www.magazines.com/people-magazine.html"
+    },
+    {
+      "text": "Premium",
+      "url": "https://webreader.people.com/"
+    },
+    {
+      "text": " Login",
+      "url": "/account/signin?regSource=23009&returnURL=%2F"
+    },
+    {
+      "text": " Subscribe ",
+      "url": "https://www.magazines.com/?containerName=ib3gdsm16&utm_source=people.com&utm_medium=owned&utm_campaign=i111ppr1w2660"
+    },
+    {
+      "text": "PEOPLE.com     ",
+      "url": "/"
+    },
+    {
+      "text": "PEOPLE.com     ",
+      "url": "/"
+    },
+    {
+      "text": " Explore  ",
+      "url": "#"
+    },
+    {
+      "text": "    Rita Moreno Says She Dated Elvis as Revenge Against Cheating Ex Marlon Brando: 'It Was Wonderful' ",
+      "url": "https://people.com/movies/rita-moreno-says-she-dated-elvis-as-revenge-against-cheating-ex-marlon-brando-it-was-wonderful/"
+    },
+    {
+      "text": " Rita Moreno Says She Dated Elvis as Revenge Against Cheating Ex Marlon Brando: 'It Was Wonderful'",
+      "url": "https://people.com/movies/rita-moreno-says-she-dated-elvis-as-revenge-against-cheating-ex-marlon-brando-it-was-wonderful/"
+    },
+    {
+      "text": "Read More ",
+      "url": "https://people.com/movies/rita-moreno-says-she-dated-elvis-as-revenge-against-cheating-ex-marlon-brando-it-was-wonderful/"
+    },
+    {
+      "text": "    Machine Gun Kelly Poses with Daughter Casie at the 2021 American Music Awards ",
+      "url": "https://people.com/parents/2021-american-music-awards-machine-gun-kelly-brings-daughter-casie/"
+    },
+    {
+      "text": " Machine Gun Kelly Poses with Daughter Casie at the 2021 American Music Awards",
+      "url": "https://people.com/parents/2021-american-music-awards-machine-gun-kelly-brings-daughter-casie/"
+    },
+    {
+      "text": "Read More ",
+      "url": "https://people.com/parents/2021-american-music-awards-machine-gun-kelly-brings-daughter-casie/"
+    },
+    {
+      "text": "    Jennifer Lopez Sings from the Heart in New 'On My Way' Music Video ",
+      "url": "https://people.com/music/jennifer-lopez-releases-on-my-way-music-video/"
+    },
+    {
+      "text": " Jennifer Lopez Sings from the Heart in New 'On My Way' Music Video",
+      "url": "https://people.com/music/jennifer-lopez-releases-on-my-way-music-video/"
+    },
+    {
+      "text": "Read More ",
+      "url": "https://people.com/music/jennifer-lopez-releases-on-my-way-music-video/"
+    },
+    {
+      "text": " News  ",
+      "url": "#"
+    },
+    {
+      "text": "See All News",
+      "url": "https://people.com/tag/news/"
+    },
+    {
+      "text": "    Stars Who Opened Up About Their Sexuality and Gender Identity in 2021 ",
+      "url": "https://people.com/celebrity/stars-who-came-out-in-2021/"
+    },
+    {
+      "text": " Stars Who Opened Up About Their Sexuality and Gender Identity in 2021",
+      "url": "https://people.com/celebrity/stars-who-came-out-in-2021/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://people.com/tag/coronavirus/"
+    },
+    {
+      "text": "Crime",
+      "url": "https://people.com/crime/"
+    },
+    {
+      "text": "Human Interest",
+      "url": "https://people.com/human-interest/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://people.com/politics/"
+    },
+    {
+      "text": "Heroes",
+      "url": "https://people.com/tag/heroes/"
+    },
+    {
+      "text": "Stories to Make You Smile",
+      "url": "https://people.com/tag/stories-to-make-you-smile/"
+    },
+    {
+      "text": " Entertainment  ",
+      "url": "#"
+    },
+    {
+      "text": "See All Entertainment",
+      "url": "https://people.com/entertainment/"
+    },
+    {
+      "text": "    The Best (& Worst) Jeopardy! Celebrity Guest Host Show Moments ",
+      "url": "https://people.com/tv/jeopardy-celebrity-hosts-best-and-worst-moments/"
+    },
+    {
+      "text": " The Best (& Worst) Jeopardy! Celebrity Guest Host Show Moments",
+      "url": "https://people.com/tv/jeopardy-celebrity-hosts-best-and-worst-moments/"
+    },
+    {
+      "text": "Celebrity",
+      "url": "https://people.com/celebrity/"
+    },
+    {
+      "text": "TV",
+      "url": "https://people.com/tv/"
+    },
+    {
+      "text": "Movies",
+      "url": "https://people.com/movies/"
+    },
+    {
+      "text": "Music",
+      "url": "https://people.com/music/"
+    },
+    {
+      "text": "Country",
+      "url": "https://people.com/country/"
+    },
+    {
+      "text": "Awards",
+      "url": "https://people.com/awards/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://people.com/sports/"
+    },
+    {
+      "text": "Theater",
+      "url": "https://people.com/theater/"
+    },
+    {
+      "text": "Books",
+      "url": "https://people.com/books/"
+    },
+    {
+      "text": " Royals ",
+      "url": "https://people.com/royals/"
+    },
+    {
+      "text": " Lifestyle  ",
+      "url": "#"
+    },
+    {
+      "text": "See All Lifestyle",
+      "url": "https://people.com/lifestyle/"
+    },
+    {
+      "text": "    Billie Eilish Ditches Her Blonde Hair for Brunette Tresses: 'Miss Me?' ",
+      "url": "https://people.com/style/billie-eilish-dyes-blonde-hair-brunette-photos/"
+    },
+    {
+      "text": " Billie Eilish Ditches Her Blonde Hair for Brunette Tresses: 'Miss Me?'",
+      "url": "https://people.com/style/billie-eilish-dyes-blonde-hair-brunette-photos/"
+    },
+    {
+      "text": "Style",
+      "url": "https://people.com/style/"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://people.com/fashion/"
+    },
+    {
+      "text": "Beauty",
+      "url": "https://people.com/beauty/"
+    },
+    {
+      "text": "Health",
+      "url": "https://people.com/health/"
+    },
+    {
+      "text": "Parents",
+      "url": "https://people.com/parents/"
+    },
+    {
+      "text": "Home",
+      "url": "https://people.com/home/"
+    },
+    {
+      "text": "Pets",
+      "url": "https://people.com/pets/"
+    },
+    {
+      "text": "Food",
+      "url": "https://people.com/food/"
+    },
+    {
+      "text": "Tech",
+      "url": "https://people.com/tech/"
+    },
+    {
+      "text": "Travel",
+      "url": "https://people.com/travel/"
+    },
+    {
+      "text": " PeopleTV ",
+      "url": "https://peopletv.com"
+    },
+    {
+      "text": " Shopping  ",
+      "url": "#"
+    },
+    {
+      "text": "See All Shopping",
+      "url": "https://people.com/shopping/"
+    },
+    {
+      "text": "People Tested",
+      "url": "https://people.com/shopping/people-tested/"
+    },
+    {
+      "text": " Podcasts  ",
+      "url": "#"
+    },
+    {
+      "text": "See All Podcasts",
+      "url": "https://people.com/podcasts/"
+    },
+    {
+      "text": "    Sen. Tammy Duckworth Calls Going Back to Work After Having a Miscarriage 'Inhumane' ",
+      "url": "https://people.com/parents/tammy-duckworth-calls-going-back-to-work-after-miscarriage-inhumane-exclusive/"
+    },
+    {
+      "text": " Sen. Tammy Duckworth Calls Going Back to Work After Having a Miscarriage 'Inhumane'",
+      "url": "https://people.com/parents/tammy-duckworth-calls-going-back-to-work-after-miscarriage-inhumane-exclusive/"
+    },
+    {
+      "text": "Me Becoming Mom",
+      "url": "https://people.com/podcasts/me-becoming-mom/"
+    },
+    {
+      "text": "People Every Day",
+      "url": "https://people.com/podcasts/people-every-day-podcast/"
+    },
+    {
+      "text": "PEOPLE in the '90s",
+      "url": "https://people.com/podcasts/people-in-the-90s/"
+    },
+    {
+      "text": "Subscribe  this link opens in a new tab  ",
+      "url": "https://www.magazines.com/?containerName=ib3gdsm16&utm_source=people.com&utm_medium=owned&utm_campaign=i111ppr5w2660"
+    },
+    {
+      "text": "Join Now",
+      "url": "/account/signup?regSource=23009&returnURL=%2F"
+    },
+    {
+      "text": "My Profile",
+      "url": "/account/profile"
+    },
+    {
+      "text": "Email Preferences",
+      "url": "https://secure.people.com/common/profile/member/optout/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://people.com/account/quick-signup?regsource=23186"
+    },
+    {
+      "text": "Manage Your Subscription",
+      "url": "https://w1.buysub.com/servlet/CSGateway?cds_mag_code=PPL"
+    },
+    {
+      "text": "Logout",
+      "url": "/account/signout?successPage=https%3A%2F%2Fpeople.com%2F"
+    },
+    {
+      "text": "Give a Gift Subscription",
+      "url": "https://www.magazines.com/people-magazine.html"
+    },
+    {
+      "text": "Premium",
+      "url": "https://webreader.people.com/"
+    },
+    {
+      "text": "Join Now",
+      "url": "/account/signup?regSource=23009&returnURL=%2F"
+    },
+    {
+      "text": "My Profile",
+      "url": "/account/profile"
+    },
+    {
+      "text": "Email Preferences",
+      "url": "https://secure.people.com/common/profile/member/optout/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://people.com/account/quick-signup?regsource=23186"
+    },
+    {
+      "text": "Manage Your Subscription",
+      "url": "https://w1.buysub.com/servlet/CSGateway?cds_mag_code=PPL"
+    },
+    {
+      "text": "Logout",
+      "url": "/account/signout?successPage=https%3A%2F%2Fpeople.com%2F"
+    },
+    {
+      "text": "Give a Gift Subscription",
+      "url": "https://www.magazines.com/people-magazine.html"
+    },
+    {
+      "text": "Premium",
+      "url": "https://webreader.people.com/"
+    },
+    {
+      "text": " Login",
+      "url": "/account/signin?regSource=23009&returnURL=%2F"
+    },
+    {
+      "text": " Sweepstakes ",
+      "url": "https://people.com/sweepstakes/"
+    },
+    {
+      "text": " ",
+      "url": "https://www.facebook.com/peoplemag"
+    },
+    {
+      "text": " ",
+      "url": "https://twitter.com/people"
+    },
+    {
+      "text": " ",
+      "url": "https://www.pinterest.com/people/"
+    },
+    {
+      "text": " ",
+      "url": "https://www.instagram.com/people/"
+    },
+    {
+      "text": "  ",
+      "url": "https://www.youtube.com/user/people"
+    },
+    {
+      "text": "  ",
+      "url": "https://www.snapchat.com/discover/People-Magazine/0407249978"
+    },
+    {
+      "text": "     ",
+      "url": ""
+    },
+    {
+      "text": "    Camilla, Duchess of Cornwall  Top Story ",
+      "url": "https://people.com/royals/kate-middleton-photographs-camilla-duchess-of-cornwall-country-life-magazine/"
+    },
+    {
+      "text": " Camilla Asked Kate Middleton to Photograph Her for Magazine Cover ",
+      "url": "https://people.com/royals/kate-middleton-photographs-camilla-duchess-of-cornwall-country-life-magazine/"
+    },
+    {
+      "text": " Dad Recalls Escape From Highland Park Parade Shooter: 'I Was Staring at This Guy Shooting at Me' ",
+      "url": "https://people.com/crime/dad-recalls-escape-from-highland-park-july-4-parade-shooter/"
+    },
+    {
+      "text": "    An armored police vehicle sits outside the Philadelphia Museum of Art following a shooting during a fireworks show in Philadelphia  ",
+      "url": "https://people.com/crime/2-philadelphia-police-officers-released-from-hospital-shot-july4/"
+    },
+    {
+      "text": " 2 Philadelphia Police Officers Released from Hospital After Shooting During July 4 Festivities ",
+      "url": "https://people.com/crime/2-philadelphia-police-officers-released-from-hospital-shot-july4/"
+    },
+    {
+      "text": "    Sig Hansen    ",
+      "url": "https://people.com/parents/deadliest-catch-sig-hansen-meets-granddaughter-sailor-marie-first-time-clip-exclusive/"
+    },
+    {
+      "text": " Deadliest Catch Star Sig Hansen Meets Granddaughter Sailor Marie for First Time in Adorable Clip ",
+      "url": "https://people.com/parents/deadliest-catch-sig-hansen-meets-granddaughter-sailor-marie-first-time-clip-exclusive/"
+    },
+    {
+      "text": " Woman Drowns 3 Children in Minnesota Lake Hours After Husband's Suicide ",
+      "url": "https://people.com/crime/woman-drowns-3-children-in-minnesota-lake-hours-after-husbands-suicide/"
+    },
+    {
+      "text": " Grandfather, 76, Identified as Victim of July 4 Parade Shooting: He 'Saved All Our Lives' ",
+      "url": "https://people.com/crime/grandfather-76-identified-as-victim-of-july-4-parade-shooting-he-saved-all-our-lives/"
+    },
+    {
+      "text": " Jayland Walker Shot at Least 60 Times in Bodycam Footage Released by Akron Police ",
+      "url": "https://people.com/crime/jayland-walker-shot-at-least-60-times-in-bodycam-footage-released-by-akron-police/"
+    },
+    {
+      "text": " Kurt Russell and Goldie Hawn step out for a stroll on July 3, while vacationing in Ravello, Italy.\u00a0  ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": "    *EXCLUSIVE* Kurt Russell and Goldie Hawn look in great spirits while pictured on holiday in Italy   ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": " Kurt Russell and Goldie Hawn step out for a stroll on July 3, while vacationing in Ravello, Italy.\u00a0  ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": "       ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": " Lil' Kim kicks off a performance with The Roots during the 2022 Essence Festival of Culture at the Louisiana Superdome on July 3 in New Orleans, Louisiana  ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": "    Tiffany Haddish Disney Influencer Panel, Essence Festival Of Culture, New Orleans   ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": " Tiffany Haddish is all smiles in head-to-toe yellow while attending the Disney Influencer Panel at the 2022 Essence Festival of Culture in New Orleans, Louisiana on July 3.  ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": "    Travis Scott Performs At E11EVEN Miami   ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": " Travis Scott performs at E11EVEN Miami on July 3 in Miami, Florida  ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": " Kurt Russell and Goldie Hawn step out for a stroll on July 3, while vacationing in Ravello, Italy.\u00a0  ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": " More Startracks ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": "    Alexis Ohanian Talks Being a 'Business Dad' to Daughter Olympia, 4: I Want Her 'to See Me Working'  ",
+      "url": "https://people.com/parents/alexis-ohanian-on-being-a-business-dad-to-daughter-olympia/"
+    },
+    {
+      "text": " Alexis Ohanian Talks Being a 'Business Dad' to Daughter Olympia, 4: I Want Her 'to See Me Working' ",
+      "url": "https://people.com/parents/alexis-ohanian-on-being-a-business-dad-to-daughter-olympia/"
+    },
+    {
+      "text": "    Alexa Chung and Tom Sturridge, Sienna Miller and Oli Green on Centre Court Wimbledon Tennis Championships ",
+      "url": "https://people.com/tv/tom-sturridge-and-alexa-chung-kiss-while-sitting-by-his-ex-sienna-miller-at-wimbledon/"
+    },
+    {
+      "text": " Tom Sturridge and Alexa Chung Kiss While Sitting By His Ex Sienna Miller at Wimbledon",
+      "url": "https://people.com/tv/tom-sturridge-and-alexa-chung-kiss-while-sitting-by-his-ex-sienna-miller-at-wimbledon/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/tv/tom-sturridge-and-alexa-chung-kiss-while-sitting-by-his-ex-sienna-miller-at-wimbledon/"
+    },
+    {
+      "text": "    CANNES, FRANCE - MAY 21: Daniella Tarantino (L) and Quentin Tarantino attend the Once Upon A Time In Hollywood After Party at JW Marriott on May 21, 2019 in Cannes, France. (Photo by Antony Jones/Getty Images for Sony Pictures) ",
+      "url": "https://people.com/parents/quentin-tarantino-and-wife-daniella-welcome-second-child/"
+    },
+    {
+      "text": " Family of 4! Quentin Tarantino and Wife Daniella Welcome Their Second Child Together",
+      "url": "https://people.com/parents/quentin-tarantino-and-wife-daniella-welcome-second-child/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/parents/quentin-tarantino-and-wife-daniella-welcome-second-child/"
+    },
+    {
+      "text": "    Brittney Griner ",
+      "url": "https://people.com/sports/brittney-griner-pleads-for-help-in-letter-to-president-biden/"
+    },
+    {
+      "text": " Brittney Griner Pleads for Help in Letter to President Biden: 'I'm Terrified I Might Be Here Forever'",
+      "url": "https://people.com/sports/brittney-griner-pleads-for-help-in-letter-to-president-biden/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/sports/brittney-griner-pleads-for-help-in-letter-to-president-biden/"
+    },
+    {
+      "text": "    julia roberts celebrates 20th wedding anniversary. https://www.instagram.com/p/CfmD5bVrqjX/?hl=en ",
+      "url": "https://people.com/movies/julia-roberts-posts-cant-stop-kissing-pic-to-celebrate-20th-anniversary-with-danny-moder/"
+    },
+    {
+      "text": " Julia Roberts Posts 'Can't Stop Kissing' Pic to Celebrate 20th Anniversary with Danny Moder ",
+      "url": "https://people.com/movies/julia-roberts-posts-cant-stop-kissing-pic-to-celebrate-20th-anniversary-with-danny-moder/"
+    },
+    {
+      "text": "    Adele attends The BRIT Awards 2022 ",
+      "url": "https://people.com/parents/adele-hopes-to-have-a-couple-more-kids-says-it-would-be-wonderful/"
+    },
+    {
+      "text": " Adele Opens Up About Her Desire to Have 'a Couple More Kids': 'It Would Be Wonderful if We Can' ",
+      "url": "https://people.com/parents/adele-hopes-to-have-a-couple-more-kids-says-it-would-be-wonderful/"
+    },
+    {
+      "text": "    LONDON, ENGLAND - OCTOBER 30: Ozzy and Sharon Osbourne attend the Pride Of Britain Awards at Grosvenor House, on October 30, 2017 in London, England. (Photo by Mike Marsland/Mike Marsland/WireImage) ",
+      "url": "https://people.com/music/ozzy-and-sharon-osbourne-celebrate-40-years-of-marriage-happy-anniversary-my-love/"
+    },
+    {
+      "text": " Ozzy and Sharon Osbourne Celebrate 40 Years of Marriage: 'Happy Anniversary My Love' ",
+      "url": "https://people.com/music/ozzy-and-sharon-osbourne-celebrate-40-years-of-marriage-happy-anniversary-my-love/"
+    },
+    {
+      "text": " Steve Harvey Shares the Secret to a Viral Family Feud Moment: 'Pure, Unintentional Ignorance' ",
+      "url": "https://people.com/tv/steve-harvey-abbott-elementary-celebrity-family-feud-exclusive/"
+    },
+    {
+      "text": "    STRANGER THINGS. (L to R) Jamie Campbell Bower as Peter Ballard and Millie Bobby Brown as Eleven in STRANGER THINGS. Cr. Courtesy of Netflix \u00a9 2022  ",
+      "url": "https://people.com/tv/stranger-things-jamie-campbell-bower-printed-photos-vecnas-victims-crossed-their-eyes-out/"
+    },
+    {
+      "text": " Stranger Things' Jamie Campbell Bower Printed Photos of Vecna's Victims and 'Crossed Their Eyes Out'",
+      "url": "https://people.com/tv/stranger-things-jamie-campbell-bower-printed-photos-vecnas-victims-crossed-their-eyes-out/"
+    },
+    {
+      "text": "    bob saget, tom bergeron    ",
+      "url": "https://people.com/tv/steve-harvey-abbott-elementary-celebrity-family-feud-exclusive/"
+    },
+    {
+      "text": " Steve Harvey Shares the Secret to a Viral Family Feud Moment: 'Pure, Unintentional Ignorance'",
+      "url": "https://people.com/tv/steve-harvey-abbott-elementary-celebrity-family-feud-exclusive/"
+    },
+    {
+      "text": "    Chris Hemsworth  ",
+      "url": "https://people.com/movies/chris-hemsworth-joins-tiktok/"
+    },
+    {
+      "text": " Chris Hemsworth Joins TikTok and Gets Excited for Thor: Love and Thunder Release: 'Love You Guys!'",
+      "url": "https://people.com/movies/chris-hemsworth-joins-tiktok/"
+    },
+    {
+      "text": "    07/02/2022 Margot Robbie and Ryan Gosling are spotted on the set of Barbie in Los Angeles. The duo filmed a scene at a bus stop with Margot in her hot pink Barbie costume and Ryan dressed as the iconic Ken character. Margot's husband, Tom Ackerley was also spotted visiting his wife on set. **VIDEO AVAILABLE** sales@theimagedirect.com Please byline:TheImageDirect.com; 07/02/2022 Margot Robbie is Presented With a Barbie Cake on Her Birthday After a Day of Filming on the Set of Barbie in Los Angeles sales@theimagedirect.com Please byline:TheImageDirect.com  ",
+      "url": "https://people.com/movies/margot-robbie-celebrates-32nd-birthday-pink-barbie-cake-on-set-greta-gerwig-movie/"
+    },
+    {
+      "text": " Margot Robbie Celebrates 32nd Birthday with Pink Barbie Cake on Set of Greta Gerwig Movie",
+      "url": "https://people.com/movies/margot-robbie-celebrates-32nd-birthday-pink-barbie-cake-on-set-greta-gerwig-movie/"
+    },
+    {
+      "text": "    Olivia Rodrigo performs during her 2022 SOUR Tour at Radio City Music Hall on April 26, 2022 in New York City.  ",
+      "url": "https://people.com/music/olivia-rodrigo-surprises-fans-with-cover-of-torn-at-dive-bar-in-manchester-england/"
+    },
+    {
+      "text": " Olivia Rodrigo Surprises Fans with Cover of 'Torn' at Dive Bar in Manchester, England",
+      "url": "https://people.com/music/olivia-rodrigo-surprises-fans-with-cover-of-torn-at-dive-bar-in-manchester-england/"
+    },
+    {
+      "text": "    Joseph Quinn as Eddie Munson in STRANGER THINGS  ",
+      "url": "https://people.com/music/metallicas-master-of-puppets-trends-up-the-charts-after-epic-stranger-things-season-4-finale/"
+    },
+    {
+      "text": " Metallica's 'Master of Puppets' Trends up the Charts After Epic Stranger Things Season 4 Finale",
+      "url": "https://people.com/music/metallicas-master-of-puppets-trends-up-the-charts-after-epic-stranger-things-season-4-finale/"
+    },
+    {
+      "text": "     Andrea Bartz  ",
+      "url": "https://people.com/movies/we-were-never-here-author-andrea-bartz-on-upcoming-movie-adaptation-exclusive/"
+    },
+    {
+      "text": " We Were Never Here Author on Movie Adaptation and Real-Life Trip That Inspired Deadly Thriller ",
+      "url": "https://people.com/movies/we-were-never-here-author-andrea-bartz-on-upcoming-movie-adaptation-exclusive/"
+    },
+    {
+      "text": "    Savage Garden Singer Darren Hayes ",
+      "url": "https://people.com/music/savage-garden-singer-darren-hayes-on-music-after-coming-out-exclusive/"
+    },
+    {
+      "text": " Savage Garden's Darren Hayes Says Music 'Saved My Life' After Years of Denying His Gay Identity ",
+      "url": "https://people.com/music/savage-garden-singer-darren-hayes-on-music-after-coming-out-exclusive/"
+    },
+    {
+      "text": "    LONDON, ENGLAND - JULY 02: Adele performs on stage as American Express present BST Hyde Park in Hyde Park on July 02, 2022 in London, England. (Photo by Gareth Cattermole/Getty Images for Adele) ",
+      "url": "https://people.com/music/adele-stands-by-decision-to-cancel-vegas-shows-because-it-wasnt-good-enough-you-cant-buy-me/"
+    },
+    {
+      "text": " Adele Stands by Decision to Cancel Las Vegas Shows for Not Being 'Good Enough': 'You Can't Buy Me' ",
+      "url": "https://people.com/music/adele-stands-by-decision-to-cancel-vegas-shows-because-it-wasnt-good-enough-you-cant-buy-me/"
+    },
+    {
+      "text": "    Jhene Aiko and big sean . FYIbrand comm requested not to be credited ",
+      "url": "https://people.com/parents/jhene-aiko-is-pregnant-expecting-her-first-baby-with-big-sean/"
+    },
+    {
+      "text": " Jhen\u00e9 Aiko Is Pregnant, Expecting Her First Baby with Longtime Partner Big Sean ",
+      "url": "https://people.com/parents/jhene-aiko-is-pregnant-expecting-her-first-baby-with-big-sean/"
+    },
+    {
+      "text": " Heartstopper Cast Drowns Out Anti-LGBTQ Protesters with Whitney Houston at London Pride ",
+      "url": "https://people.com/tv/heartstopper-cast-drowns-out-anti-lgbtq-protesters-whitney-houston-london-pride/"
+    },
+    {
+      "text": "    Keanu Reeves Befriends a Young Fan at Airport in Adorable Twitter Takeover ",
+      "url": "https://people.com/movies/keanu-reeves-talks-with-young-fan-in-adorable-airport-interaction-captured-on-twitter/"
+    },
+    {
+      "text": " Keanu Reeves Talks With Young Fan in Adorable Airport Interaction Captured on Twitter ",
+      "url": "https://people.com/movies/keanu-reeves-talks-with-young-fan-in-adorable-airport-interaction-captured-on-twitter/"
+    },
+    {
+      "text": "Movies",
+      "url": "https://people.com/movies/"
+    },
+    {
+      "text": "    Mitt Romney, Donald Trump ",
+      "url": "https://people.com/politics/mitt-romney-us-nation-denial-return-donald-trump-would-feed-sickness/"
+    },
+    {
+      "text": " Mitt Romney: U.S. Is a 'Nation in Denial' and the Return of Donald Trump Would 'Feed the Sickness' ",
+      "url": "https://people.com/politics/mitt-romney-us-nation-denial-return-donald-trump-would-feed-sickness/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://people.com/politics/"
+    },
+    {
+      "text": "    Sig Hansen ",
+      "url": "https://people.com/parents/deadliest-catch-sig-hansen-meets-granddaughter-sailor-marie-first-time-clip-exclusive/"
+    },
+    {
+      "text": " Deadliest Catch Star Sig Hansen Meets Granddaughter Sailor Marie for First Time in Adorable Clip ",
+      "url": "https://people.com/parents/deadliest-catch-sig-hansen-meets-granddaughter-sailor-marie-first-time-clip-exclusive/"
+    },
+    {
+      "text": "    ",
+      "url": "https://people.com/parents/deadliest-catch-sig-hansen-meets-granddaughter-sailor-marie-first-time-clip-exclusive/"
+    },
+    {
+      "text": "Parents",
+      "url": "https://people.com/parents/"
+    },
+    {
+      "text": "    Minions: The Rise of Gru ",
+      "url": "https://people.com/movies/minions-rise-of-gru-smashes-fourth-of-july-box-office-record-with-125m-opening/"
+    },
+    {
+      "text": " Minions: Rise of Gru Smashes Fourth of July Box Office Record with $125M Opening ",
+      "url": "https://people.com/movies/minions-rise-of-gru-smashes-fourth-of-july-box-office-record-with-125m-opening/"
+    },
+    {
+      "text": "Movies",
+      "url": "https://people.com/movies/"
+    },
+    {
+      "text": "    Amanda Kloots ",
+      "url": "https://people.com/tv/amanda-kloots-remembers-nick-cordero-on-the-second-anniversary-of-his-death/"
+    },
+    {
+      "text": " Amanda Kloots Remembers Nick Cordero on Second Anniversary of His Death: 'I Will Celebrate With Him' ",
+      "url": "https://people.com/tv/amanda-kloots-remembers-nick-cordero-on-the-second-anniversary-of-his-death/"
+    },
+    {
+      "text": "TV",
+      "url": "https://people.com/tv/"
+    },
+    {
+      "text": "    LONDON, ENGLAND - APRIL 10: David Harbour and Lily Allen attend The Olivier Awards 2022 with MasterCard at the Royal Albert Hall on April 10, 2022 in London, England. (Photo by Gareth Cattermole/Getty Images) ",
+      "url": "https://people.com/tv/david-harbour-and-lily-allen-relationship-timeline/"
+    },
+    {
+      "text": " David Harbour and Lily Allen's Relationship Timeline ",
+      "url": "https://people.com/tv/david-harbour-and-lily-allen-relationship-timeline/"
+    },
+    {
+      "text": "TV",
+      "url": "https://people.com/tv/"
+    },
+    {
+      "text": "    STRANGER THINGS. Millie Bobby Brown as Eleven in STRANGER THINGS. ",
+      "url": "https://people.com/tv/stranger-things-season-5-everything-to-know/"
+    },
+    {
+      "text": " Everything to Know About Stranger Things Season 5 ",
+      "url": "https://people.com/tv/stranger-things-season-5-everything-to-know/"
+    },
+    {
+      "text": "TV",
+      "url": "https://people.com/tv/"
+    },
+    {
+      "text": "    nicolas toledo ",
+      "url": "https://people.com/crime/grandfather-76-identified-as-victim-of-july-4-parade-shooting-he-saved-all-our-lives/"
+    },
+    {
+      "text": " Grandfather, 76, Identified as Victim of July 4 Parade Shooting: He 'Saved All Our Lives' ",
+      "url": "https://people.com/crime/grandfather-76-identified-as-victim-of-july-4-parade-shooting-he-saved-all-our-lives/"
+    },
+    {
+      "text": "Crime",
+      "url": "https://people.com/crime/"
+    },
+    {
+      "text": "    Caeli Lea Ann Ratcliffe ",
+      "url": "https://people.com/crime/south-carolina-mom-charged-murder-allegedly-set-house-fire-daughter-inside/"
+    },
+    {
+      "text": " S.C. Mom Who Allegedly Set House on Fire and Left Daughter, 6, Sleeping Inside Is Charged with Murder ",
+      "url": "https://people.com/crime/south-carolina-mom-charged-murder-allegedly-set-house-fire-daughter-inside/"
+    },
+    {
+      "text": "Crime",
+      "url": "https://people.com/crime/"
+    },
+    {
+      "text": "    Meghan, Duchess of Sussex attends the Land Rover Driving Challenge, on day 1 of the Invictus Games 2020 at Zuiderpark on April 16, 2022 in The Hague, Netherlands. ",
+      "url": "https://people.com/royals/meghan-markle-new-pinky-ring-revealed-hidden-message-women-empowerment/"
+    },
+    {
+      "text": " Meghan Markle's New Pinky Ring Revealed \u2014 and It Has a Hidden Message for Women's Empowerment ",
+      "url": "https://people.com/royals/meghan-markle-new-pinky-ring-revealed-hidden-message-women-empowerment/"
+    },
+    {
+      "text": "Royals",
+      "url": "https://people.com/royals/"
+    },
+    {
+      "text": "    Andrea Bartz ",
+      "url": "https://people.com/movies/we-were-never-here-author-andrea-bartz-on-upcoming-movie-adaptation-exclusive/"
+    },
+    {
+      "text": " We Were Never Here Author on Movie Adaptation and Real-Life Trip That Inspired Deadly Thriller ",
+      "url": "https://people.com/movies/we-were-never-here-author-andrea-bartz-on-upcoming-movie-adaptation-exclusive/"
+    },
+    {
+      "text": "Movies",
+      "url": "https://people.com/movies/"
+    },
+    {
+      "text": "    An armored police vehicle sits outside the Philadelphia Museum of Art following a shooting during a fireworks show in Philadelphia ",
+      "url": "https://people.com/crime/2-philadelphia-police-officers-released-from-hospital-shot-july4/"
+    },
+    {
+      "text": " 2 Philadelphia Police Officers Released from Hospital After Shooting During July 4 Festivities ",
+      "url": "https://people.com/crime/2-philadelphia-police-officers-released-from-hospital-shot-july4/"
+    },
+    {
+      "text": "Crime",
+      "url": "https://people.com/crime/"
+    },
+    {
+      "text": "    Camilla, Duchess of Cornwall ",
+      "url": "https://people.com/royals/kate-middleton-photographs-camilla-duchess-of-cornwall-country-life-magazine/"
+    },
+    {
+      "text": " Camilla Asked Kate Middleton to Photograph Her for Magazine Cover: 'I'd Quite Like Catherine to Do It' ",
+      "url": "https://people.com/royals/kate-middleton-photographs-camilla-duchess-of-cornwall-country-life-magazine/"
+    },
+    {
+      "text": "Royals",
+      "url": "https://people.com/royals/"
+    },
+    {
+      "text": "    LONDON, ENGLAND - JULY 05: Catherine, Duchess of Cambridge and Prince William, Duke of Cambridge at All England Lawn Tennis and Croquet Club on July 05, 2022 in London, England. (Photo by Karwai Tang/WireImage) ",
+      "url": "https://people.com/royals/kate-middleton-prince-william-attends-wimbledon-2022/"
+    },
+    {
+      "text": " Kate Middleton Makes Her First Wimbledon Appearance of the Year Alongside Prince William ",
+      "url": "https://people.com/royals/kate-middleton-prince-william-attends-wimbledon-2022/"
+    },
+    {
+      "text": "Royals",
+      "url": "https://people.com/royals/"
+    },
+    {
+      "text": "    Clockwise from left, Spc. 5 Dwight Birdwell; Spc. 5 Dennis Fujii; Staff Sgt. Edward Kaneshiro; and Maj. John Duffy ",
+      "url": "https://people.com/politics/president-joe-biden-to-award-medal-of-honor-to-4-vietnam-veterans-on-tuesday/"
+    },
+    {
+      "text": " President Joe Biden to Award Medal of Honor to 4 Vietnam Veterans on Tuesday ",
+      "url": "https://people.com/politics/president-joe-biden-to-award-medal-of-honor-to-4-vietnam-veterans-on-tuesday/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://people.com/politics/"
+    },
+    {
+      "text": "    *EXCLUSIVE* Kurt Russell and Goldie Hawn look in great spirits while pictured on holiday in Italy ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": " Kurt Russell and Goldie Hawn Vacation in Italy, Plus Lil' Kim, Natalie Portman, Travis Scott and More ",
+      "url": "https://people.com/celebrity/star-tracks-tuesday-july-5-2022/"
+    },
+    {
+      "text": "Celebrity",
+      "url": "https://people.com/celebrity/"
+    },
+    {
+      "text": "    LONDON, ENGLAND - OCTOBER 11: PP Arnold performs on stage at Islington Assembly Hall on October 11, 2019 in London, England. (Photo by Lorne Thomson/Redferns) ",
+      "url": "https://people.com/music/pp-arnold-claims-she-was-raped-by-ike-turner-in-new-memoir/"
+    },
+    {
+      "text": " '60s Soul Singer P.P. Arnold Claims She was Raped By Ike Turner in New Memoir Soul Survivor ",
+      "url": "https://people.com/music/pp-arnold-claims-she-was-raped-by-ike-turner-in-new-memoir/"
+    },
+    {
+      "text": "Music",
+      "url": "https://people.com/music/"
+    },
+    {
+      "text": "    Oprah Winfrey ",
+      "url": "https://people.com/tv/oprah-winfrey-surprises-father-vernon-with-appreciation-day-amid-illness/"
+    },
+    {
+      "text": " Oprah Winfrey Surprises Her Father Vernon with an Appreciation Day amid His Ongoing Illness ",
+      "url": "https://people.com/tv/oprah-winfrey-surprises-father-vernon-with-appreciation-day-amid-illness/"
+    },
+    {
+      "text": "TV",
+      "url": "https://people.com/tv/"
+    },
+    {
+      "text": "    https://www.instagram.com/p/Cfm4T7av8BH/ melissajoanhart Verified The eagle dress has landed. \ud83e\udd85 A little history about the dress that has decorated my always changing shape for 21 years now. Purchased in 2000 in Melbourne, Australia. I wore it on the #LateShow with #JayLeno in 2021 after 9/11 when I only wore red, white and blue for the better part of a year. It became a July 4th staple in my Tahoe closet in about 2008 and I have since worn it every year minus 2019 when I spent Independence Day on the east coast. And some doctored up photo of me with @bryancranston and @hilaryduff that never actually happened in my memory. Slide show included for reference. Happy July 4th to my fellow Americans. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 1h ",
+      "url": "https://people.com/style/melissa-joan-hart-rewears-21-year-old-eagle-dress-for-4th-of-jukly/"
+    },
+    {
+      "text": " Melissa Joan Hart Rewears 21-Year-Old Dress for Fourth of July: 'The Eagle Dress Has Landed' ",
+      "url": "https://people.com/style/melissa-joan-hart-rewears-21-year-old-eagle-dress-for-4th-of-jukly/"
+    },
+    {
+      "text": "Style",
+      "url": "https://people.com/style/"
+    },
+    {
+      "text": "    A protestor stands in the street in front of the Akron City Justice Center in Akron, Ohio on Saturday July 2, 2022. Akron police fatally shot 25 year old Jayland Walker June 25th after a short chase insighting public unrest with law enforcement. Protestors gather at the Akron Justice Center, Ohio, United States - 02 Jul 2022 ",
+      "url": "https://people.com/crime/protests-in-akron-ohio-erupt-after-footage-showing-black-man-shooting-death-released/"
+    },
+    {
+      "text": " Protests Erupt in Akron, Ohio After Body Cam Footage Showing Black Man's Shooting Death Released ",
+      "url": "https://people.com/crime/protests-in-akron-ohio-erupt-after-footage-showing-black-man-shooting-death-released/"
+    },
+    {
+      "text": "Crime",
+      "url": "https://people.com/crime/"
+    },
+    {
+      "text": "    Mandatory Credit: Photo by TANNEN MAURY/EPA-EFE/Shutterstock (13017697o) Law enforcement officers investigate the scene of a mass shooting at a 4th of July celebration and parade in Highland Park, Illinois, USA, 04 July 2022. A gunman opened fire as people gathered to watch a Fourth of July parade in Highland Park, Illinois, killing at least six people and injuring dozens. Highland Park, Illinois, USA 4th of July parade shooting - 04 Jul 2022 ",
+      "url": "https://people.com/crime/person-of-interest-in-custody-after-july-4-parade-shooting-in-highland-park-illinois/"
+    },
+    {
+      "text": " Person of Interest Taken into Custody in Connection to July 4 Parade Shooting in Highland Park ",
+      "url": "https://people.com/crime/person-of-interest-in-custody-after-july-4-parade-shooting-in-highland-park-illinois/"
+    },
+    {
+      "text": "Crime",
+      "url": "https://people.com/crime/"
+    },
+    {
+      "text": "    CANNES, FRANCE - MAY 21: Daniella Tarantino (L) and Quentin Tarantino attend the Once Upon A Time In Hollywood After Party at JW Marriott on May 21, 2019 in Cannes, France. (Photo by Antony Jones/Getty Images for Sony Pictures) ",
+      "url": "https://people.com/parents/quentin-tarantino-and-wife-daniella-welcome-second-child/"
+    },
+    {
+      "text": " Family of 4! Quentin Tarantino and Wife Daniella Welcome Their Second Child Together ",
+      "url": "https://people.com/parents/quentin-tarantino-and-wife-daniella-welcome-second-child/"
+    },
+    {
+      "text": "Parents",
+      "url": "https://people.com/parents/"
+    },
+    {
+      "text": "           ",
+      "url": "/tag/news"
+    },
+    {
+      "text": "             ",
+      "url": "/tag/news"
+    },
+    {
+      "text": "  See All   ",
+      "url": "/shopping/"
+    },
+    {
+      "text": "    High-Waisted Swimsuit Outlet Deals ",
+      "url": "https://people.com/fashion/amazon-outlet-high-waisted-swimsuit-deals-july-2022/"
+    },
+    {
+      "text": " Celebrities and Customers Love High-Waisted Swimsuits, and Amazon's Outlet Has Tons on Sale Starting at $10",
+      "url": "https://people.com/fashion/amazon-outlet-high-waisted-swimsuit-deals-july-2022/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/fashion/amazon-outlet-high-waisted-swimsuit-deals-july-2022/"
+    },
+    {
+      "text": "    Outdoor Voices Sale Tout ",
+      "url": "https://people.com/fashion/outdoor-voices-july-4-sale/"
+    },
+    {
+      "text": " The Outdoor Voices Exercise Dress That's Copied Everywhere Is 30% Off \u2014 Along with Tons of Other Activewear",
+      "url": "https://people.com/fashion/outdoor-voices-july-4-sale/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/fashion/outdoor-voices-july-4-sale/"
+    },
+    {
+      "text": "    air fryers ",
+      "url": "https://people.com/food/best-air-fryers/"
+    },
+    {
+      "text": " The Best Air Fryers We Tested in Our Kitchen",
+      "url": "https://people.com/food/best-air-fryers/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/food/best-air-fryers/"
+    },
+    {
+      "text": " Celebrity Astrology Investigation:The Zodiak of Marvel ",
+      "url": "https://people.com/entertainment/watch-people-in-10/"
+    },
+    {
+      "text": "  See All   ",
+      "url": "/crime"
+    },
+    {
+      "text": "    An armored police vehicle sits outside the Philadelphia Museum of Art following a shooting during a fireworks show in Philadelphia  ",
+      "url": "https://people.com/crime/2-philadelphia-police-officers-released-from-hospital-shot-july4/"
+    },
+    {
+      "text": " 2 Philadelphia Police Officers Released from Hospital After Shooting During July 4 Festivities ",
+      "url": "https://people.com/crime/2-philadelphia-police-officers-released-from-hospital-shot-july4/"
+    },
+    {
+      "text": "    Christy Giles, Hilda Marcela  ",
+      "url": "https://people.com/crime/2-men-charged-with-murder-of-la-model-and-architect/"
+    },
+    {
+      "text": " Film Producer and Actor Charged with Murders of Model and Architect Dumped Outside L.A. Hospitals ",
+      "url": "https://people.com/crime/2-men-charged-with-murder-of-la-model-and-architect/"
+    },
+    {
+      "text": " Harry Styles Cancels Copenhagen Gig After Deadly Shooting in Mall Near Venue: 'I'm Devastated' ",
+      "url": "https://people.com/crime/several-dead-in-copenhagen-mall-shooting-near-harry-styles-concert-venue/"
+    },
+    {
+      "text": "    This undated photo released by the California Department of Corrections shows Sara Kruzan. Gov. Newsom on Friday, July 1, 2022 pardoned Sara Kruzan, a former inmate who received a life sentence when she was a teenager for killing her former pimp, among nearly three dozens such actions that affected some other elderly and youthful offenders. Kruzan served 18 years in prison until Newsom's predecessor, then-Gov. Jerry Brown, allowed her release in 2013.  ",
+      "url": "https://people.com/crime/calif-woman-pardoned-27-years-after-killing-the-man-who-trafficked-her-as-a-teen/"
+    },
+    {
+      "text": " Calif. Woman Pardoned 27 Years After Killing the Man Who Trafficked Her as a Teen ",
+      "url": "https://people.com/crime/calif-woman-pardoned-27-years-after-killing-the-man-who-trafficked-her-as-a-teen/"
+    },
+    {
+      "text": " Harry Styles Cancels Copenhagen Gig After Deadly Shooting in Mall Near Venue: 'I'm Devastated' ",
+      "url": "https://people.com/crime/several-dead-in-copenhagen-mall-shooting-near-harry-styles-concert-venue/"
+    },
+    {
+      "text": " 6-Year-Old Girl Goes Missing as Her Mother Is Found Dead at Home From Apparent Suicide ",
+      "url": "https://people.com/human-interest/minnesota-girl-elle-ragin-6-missing-mother-dead-home-apparent-suicide/"
+    },
+    {
+      "text": " Man Charged with Murder After NYC Mom Azsia Johnson Was Shot in the Head While Pushing Her Baby in a Stroller ",
+      "url": "https://people.com/crime/man-charged-murder-after-nyc-mom-azsia-johnson-shot-pushing-baby-stroller/"
+    },
+    {
+      "text": " N.Y. Teen Who Witnessed Her Father's Murder Is Found in Shallow Grave Weeks Later ",
+      "url": "https://people.com/crime/teen-allegedly-witnessed-father-murder-found-dead-weeks-later/"
+    },
+    {
+      "text": " S.C. Mom Who Allegedly Set House on Fire and Left Daughter, 6, Sleeping Inside Is Charged with Murder ",
+      "url": "https://people.com/crime/south-carolina-mom-charged-murder-allegedly-set-house-fire-daughter-inside/"
+    },
+    {
+      "text": "  See All   ",
+      "url": "/royals/"
+    },
+    {
+      "text": "    LONDON, ENGLAND - JULY 02: (NO SALES) (EDITORIAL USE ONLY) In this handout photo issued by Kensington Palace, Prince William, Duke of Cambridge meets with New Zealand Prime Minister Jacinda Ardern at Kensington Palace in London during her visit to the UK, on July 2, 2022 in London, England. (Photo by Peter Livingstone / Kensington Palace via Getty Images) This photograph is provided to you strictly on condition that you will make no charge for the supply, release or publication of it and that these conditions and restrictions will apply. There shall be no commercial use whatsoever of the photograph (including by way of example only) any use in merchandising, advertising or any other non-news editorial use. The photographs must not be digitally enhanced, manipulated or modified in any manner or form and must include all of the individuals in the photograph when published. All other requests for use should be directed to the Press Office at Kensington Palace in writing. ",
+      "url": "https://people.com/royals/new-zealand-prime-minister-jacinda-ardern-gifts-prince-william-womens-rugby-shirt-and-book-for-kids/"
+    },
+    {
+      "text": " New Zealand Prime Minister Jacinda Ardern Gives Prince William Women's Rugby Shirt and Gifts For His Kids",
+      "url": "https://people.com/royals/new-zealand-prime-minister-jacinda-ardern-gifts-prince-william-womens-rugby-shirt-and-book-for-kids/"
+    },
+    {
+      "text": "    prince harry, princess diana, prince william ",
+      "url": "https://people.com/royals/kate-middleton-prince-william-modeling-princess-diana-parenting-style/"
+    },
+    {
+      "text": " How Kate Middleton and Prince William Are Modeling Princess Diana's Parenting Style ",
+      "url": "https://people.com/royals/kate-middleton-prince-william-modeling-princess-diana-parenting-style/"
+    },
+    {
+      "text": " Prince Harry Says He Sees Princess Diana's Legacy 'When I Look at My Own Children' on Her Birthday",
+      "url": "https://people.com/royals/prince-harry-remembers-princess-diana-61st-birthday-sees-legacy-in-children-archie-lilibet/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/royals/prince-harry-remembers-princess-diana-61st-birthday-sees-legacy-in-children-archie-lilibet/"
+    },
+    {
+      "text": "    Nelson Shanks (1937-2015) Diana, Princess of Wales (1961-1997) ",
+      "url": "https://people.com/royals/princess-diana-extraordinarily-rare-portrait-public-display-first-time-london/"
+    },
+    {
+      "text": " 'Extraordinarily Rare' Portrait of Princess Diana Goes on Public Display for First Time ",
+      "url": "https://people.com/royals/princess-diana-extraordinarily-rare-portrait-public-display-first-time-london/"
+    },
+    {
+      "text": "    Palais Princier de Monaco - Prince's Palace of Monaco ",
+      "url": "https://people.com/royals/prince-albert-princess-charlene-monaco-11th-wedding-anniversary-new-portrait/"
+    },
+    {
+      "text": " Prince Albert and Princess Charlene of Monaco Celebrate 11th Wedding Anniversary with New Portrait ",
+      "url": "https://people.com/royals/prince-albert-princess-charlene-monaco-11th-wedding-anniversary-new-portrait/"
+    },
+    {
+      "text": "  See All   ",
+      "url": "/beauty/"
+    },
+    {
+      "text": "    Unknown    ",
+      "url": "https://people.com/style/kate-hudson-topless-photo-coffee-brother-oliver-response/"
+    },
+    {
+      "text": " Kate Hudson Shares Topless Photo of Herself Sipping Coffee, Prompting Hilarious Response From Brother Oliver ",
+      "url": "https://people.com/style/kate-hudson-topless-photo-coffee-brother-oliver-response/"
+    },
+    {
+      "text": "    https://www.instagram.com/p/Cfm4T7av8BH/ melissajoanhart Verified The eagle dress has landed. \ud83e\udd85 A little history about the dress that has decorated my always changing shape for 21 years now. Purchased in 2000 in Melbourne, Australia. I wore it on the #LateShow with #JayLeno in 2021 after 9/11 when I only wore red, white and blue for the better part of a year. It became a July 4th staple in my Tahoe closet in about 2008 and I have since worn it every year minus 2019 when I spent Independence Day on the east coast. And some doctored up photo of me with @bryancranston and @hilaryduff that never actually happened in my memory. Slide show included for reference. Happy July 4th to my fellow Americans. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 1h  ",
+      "url": "https://people.com/style/melissa-joan-hart-rewears-21-year-old-eagle-dress-for-4th-of-jukly/"
+    },
+    {
+      "text": " Melissa Joan Hart Rewears 21-Year-Old Dress for Fourth of July: 'The Eagle Dress Has Landed' ",
+      "url": "https://people.com/style/melissa-joan-hart-rewears-21-year-old-eagle-dress-for-4th-of-jukly/"
+    },
+    {
+      "text": "    Kris Jenner and Faye Resnick attend the \"American Woman\" premiere party at Chateau Marmont on May 31, 2018 in Los Angeles, California.  ",
+      "url": "https://people.com/tv/kris-jenner-shares-zebra-bikini-throwback-photo-celebrates-bff-faye-resnick-birthday/"
+    },
+    {
+      "text": " Kris Jenner Shares Zebra Bikini Throwback Photo as She Celebrates BFF Faye Resnick's Birthday ",
+      "url": "https://people.com/tv/kris-jenner-shares-zebra-bikini-throwback-photo-celebrates-bff-faye-resnick-birthday/"
+    },
+    {
+      "text": "    Mert Alas & Marcus Piggott. The August issue of British Vogue is available on newsstands and via digital download from Tuesday 19th July. \u2014 Cara Delevingne Says 'It's All of Our Jobs' to Fight for Women\u2019s and Trans Rights: 'Stand Up'  ",
+      "url": "https://people.com/style/cara-delevingne-topless-vogue-all-fight-womens-trans-rights/"
+    },
+    {
+      "text": " Cara Delevingne Goes Topless and Says 'It's All of Our Jobs' to Fight for Women's and Trans Rights ",
+      "url": "https://people.com/style/cara-delevingne-topless-vogue-all-fight-womens-trans-rights/"
+    },
+    {
+      "text": "  See All   ",
+      "url": "/human-interest/"
+    },
+    {
+      "text": " World War II-Era Boat Exposed at Lake Mead as Water Levels Decline ",
+      "url": "https://people.com/human-interest/world-war-ii-era-boat-exposed-at-lake-mead-as-water-levels-decline/"
+    },
+    {
+      "text": " Emily Engel-Natzke Makes NHL History as the First Female Full-Time Coach, Joining Washington Capitals ",
+      "url": "https://people.com/sports/emily-engel-natzke-becomes-nhl-first-female-full-time-coach/"
+    },
+    {
+      "text": " 3 Children and a Mother Found Dead After Being Pulled from a Minnesota Lake: 'a Tragic Event' ",
+      "url": "https://people.com/crime/three-children-a-mother-found-dead-after-being-pulled-from-minnesota-lake-potential-triple-homicide/"
+    },
+    {
+      "text": "    WASHINGTON, UNITED STATES - JUNE 25: Pro-life-abortion and abortion rights demonstrators gather in front of the US Supreme Court in Washington, DC, on June 25, 2022. (Photo by Yasin Ozturk/Anadolu Agency via Getty Images) ",
+      "url": "https://people.com/health/10-year-old-ohio-girl-travels-indiana-abortion-after-scotus-overturns-roe-v-wade/"
+    },
+    {
+      "text": " 10-Year-Old Ohio Girl Travels to Indiana for Abortion After SCOTUS Overturns Roe v. Wade",
+      "url": "https://people.com/health/10-year-old-ohio-girl-travels-indiana-abortion-after-scotus-overturns-roe-v-wade/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/health/10-year-old-ohio-girl-travels-indiana-abortion-after-scotus-overturns-roe-v-wade/"
+    },
+    {
+      "text": "    1 Killed in Pyrotechnics Accident at Air Show , Father Says He Was \u2018Living the Dream\u2019. https://www.youtube.com/watch?v=AFYtTgerbsQ Today ",
+      "url": "https://people.com/human-interest/1-killed-in-pyrotechnics-accident-at-air-show-father-says-he-was-living-the-dream/"
+    },
+    {
+      "text": " 1 Killed in Pyrotechnics Accident at Air Show, Father Says He Was 'Living the Dream'",
+      "url": "https://people.com/human-interest/1-killed-in-pyrotechnics-accident-at-air-show-father-says-he-was-living-the-dream/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/human-interest/1-killed-in-pyrotechnics-accident-at-air-show-father-says-he-was-living-the-dream/"
+    },
+    {
+      "text": "     Steve Harvey  ",
+      "url": "https://people.com/tv/steve-harvey-abbott-elementary-celebrity-family-feud-exclusive/"
+    },
+    {
+      "text": " Steve Harvey Shares the Secret to a Viral Family Feud Moment: 'Pure, Unintentional Ignorance' ",
+      "url": "https://people.com/tv/steve-harvey-abbott-elementary-celebrity-family-feud-exclusive/"
+    },
+    {
+      "text": "  See All   ",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": " Pregnant Pinky Cole Surprised with Baby Shower from Partner Derrick Hayes \u2013 See the Photos! ",
+      "url": "https://people.com/parents/see-all-the-photos-from-pinky-cole-surprise-baby-shower-exclusive/"
+    },
+    {
+      "text": " Rebel Wilson Gets Real About Putting on Weight as She Shares Swimsuit Pic: It 'Doesn't Define You' ",
+      "url": "https://people.com/health/rebel-wilson-gets-real-about-putting-on-weight-shares-swimsuit-snap/"
+    },
+    {
+      "text": " Danny Roberts Blasts Real World Homecoming for Cutting His HIV Journey: 'Huge Missed Opportunity' ",
+      "url": "https://people.com/tv/danny-roberts-blasts-real-world-homecoming-cutting-his-hiv-journey/"
+    },
+    {
+      "text": "    NEW YORK, USA - JULY 04: Joey Chestnut won first place eating 63 hot dogs in 10 minutes during the men 2022 Nathan's Famous International Hot Dog Eating Contest at Maimonides Park of Coney Island in the Brooklyn borough of New York City, United States on July 4, 2022. (Photo by Tayfun Coskun/Anadolu Agency via Getty Images) ",
+      "url": "https://people.com/food/joey-chestnut-wins-his-15th-nathans-july-4-hot-dog-eating-contest-2022/"
+    },
+    {
+      "text": " Joey Chestnut Eats 63 Hot Dogs as He Wins His 15th Nathan's July 4 Eating Contest",
+      "url": "https://people.com/food/joey-chestnut-wins-his-15th-nathans-july-4-hot-dog-eating-contest-2022/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/food/joey-chestnut-wins-his-15th-nathans-july-4-hot-dog-eating-contest-2022/"
+    },
+    {
+      "text": "    Kate Bock and Kevin Love Wedding ",
+      "url": "https://people.com/food/see-kevin-love-and-kate-bocks-wedding-cake-complete-with-a-sweet-tribute-to-their-grandmothers/"
+    },
+    {
+      "text": " See Kevin Love and Kate Bock's Wedding Cake Complete with a Sweet Tribute to Their Grandmothers",
+      "url": "https://people.com/food/see-kevin-love-and-kate-bocks-wedding-cake-complete-with-a-sweet-tribute-to-their-grandmothers/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://people.com/food/see-kevin-love-and-kate-bocks-wedding-cake-complete-with-a-sweet-tribute-to-their-grandmothers/"
+    },
+    {
+      "text": "    American Pie WATN  ",
+      "url": "https://people.com/movies/american-pie-20-anniversary-where-are-they-now/"
+    },
+    {
+      "text": " The teen sex comedy \u2014 a story of four boys trying to lose their virginity \u2014 was released July 9, 1999. ",
+      "url": "https://people.com/movies/american-pie-20-anniversary-where-are-they-now/"
+    },
+    {
+      "text": "PEOPLE.com     ",
+      "url": "/"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.magazines.com/people-magazine.html?utm_source=people.com&utm_medium=owned&utm_campaign=i204pprfw2804"
+    },
+    {
+      "text": "Subscribe this link opens in a new tab",
+      "url": "https://www.magazines.com/people-magazine.html"
+    },
+    {
+      "text": "Advertise this link opens in a new tab",
+      "url": "https://www.meredith.com/PEOPLE-Media-Kit.pdf"
+    },
+    {
+      "text": "Content Licensing",
+      "url": "https://www.meredithcontentlicensing.com"
+    },
+    {
+      "text": "Accolades this link opens in a new tab",
+      "url": "https://meredithaccolades.com/index.html"
+    },
+    {
+      "text": " ",
+      "url": "https://www.facebook.com/peoplemag"
+    },
+    {
+      "text": " ",
+      "url": "https://twitter.com/people"
+    },
+    {
+      "text": " ",
+      "url": "https://www.pinterest.com/people/"
+    },
+    {
+      "text": " ",
+      "url": "https://www.instagram.com/people/"
+    },
+    {
+      "text": "  ",
+      "url": "https://www.youtube.com/user/people"
+    },
+    {
+      "text": "  ",
+      "url": "https://www.snapchat.com/discover/People-Magazine/0407249978"
+    },
+    {
+      "text": "Subscribe to Our Newsletter",
+      "url": "https://people.com/account/quick-signup?regsource=23187"
+    },
+    {
+      "text": "Meredith Corporationthis link opens in a new tab",
+      "url": "https://www.meredith.com/"
+    },
+    {
+      "text": " Privacy Policythis link opens in a new tab",
+      "url": "https://www.meredith.com/nmg/privacy"
+    },
+    {
+      "text": " Terms of Servicethis link opens in a new tab",
+      "url": "https://www.meredith.com/legal-ti/people/privacy_terms_service.html"
+    },
+    {
+      "text": " Ad Choicesthis link opens in a new tab",
+      "url": "https://www.meredith.com/adchoices"
+    },
+    {
+      "text": " Manage Push Notificationsthis link opens in a new tab",
+      "url": "#"
+    },
+    {
+      "text": "California Do Not Sell",
+      "url": "javascript:void(0)"
+    },
+    {
+      "text": " Web Accessibilitythis link opens in a new tab",
+      "url": "https://www.meredith.com/legal/web-accessibility"
+    },
+    {
+      "text": "Google Chrome and Android",
+      "url": "https://support.google.com/chrome/answer/3220216"
+    },
+    {
+      "text": "Firefox",
+      "url": "https://support.mozilla.org/en-US/kb/push-notifications-firefox"
+    },
+    {
+      "text": "Safari",
+      "url": "https://support.apple.com/guide/safari/customize-website-notifications-sfri40734/mac"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://blogs.windows.com/msedgedev/2016/05/16/web-notifications-microsoft-edge/"
+    },
+    {
+      "text": "\n    \n        Go to Opt Out Form\n    ",
+      "url": "https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/424d0d20-a84d-41ed-9a27-379d31f2551d.html"
+    },
+    {
+      "text": "www.aboutads.info/choices",
+      "url": "https://www.aboutads.info/choices"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    }
+  ],
   "server": "ia802507.us.archive.org",
-  "uniq": 1458524999,
+  "uniq": 405839640,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

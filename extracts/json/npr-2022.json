@@ -1,5 +1,5 @@
 {
-  "created": 1657023238,
+  "created": 1657068018,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -2242,31 +2242,157 @@
       "sha1": "37b8d0acd7d0a967034aac546385233e36a2676f"
     },
     {
+      "name": "npr-2022-07-05T11:49:05.292877-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657036149",
+      "size": "19443",
+      "md5": "4dec1800735aae0191c7a318f404d977",
+      "crc32": "bd40dab2",
+      "sha1": "6ffa0a93beb939feb096b66b475fae788cbf9cd4",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-05T11:49:05.292877-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657036151",
+      "size": "31575",
+      "md5": "829f90c550556dacc33c1c97c9337e2d",
+      "crc32": "46c10070",
+      "sha1": "218a9dc55e83149e25acfd1e766b5c543bb55c01",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-05T11:49:05.292877-04:00.jpg",
+      "source": "original",
+      "mtime": "1657036147",
+      "size": "248859",
+      "md5": "9693a31e37134d641cde2de3b722f006",
+      "crc32": "f70d9463",
+      "sha1": "02be15ee8ae2da5a1a0f0cf310325e8e1e0916d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-05T11:49:05.292877-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-05T11:49:05.292877-04:00.jpg",
+      "mtime": "1657036293",
+      "size": "10110",
+      "md5": "fd360b0ed9d944796fb8d321f7820149",
+      "crc32": "2f798500",
+      "sha1": "aa9cb048e128e0610098ca5563d4cae3c9f5deeb"
+    },
+    {
+      "name": "npr-2022-07-05T11:54:50.943988-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657036496",
+      "size": "20015",
+      "md5": "65d9904a800bab4c9a3d3b1e27b80ed4",
+      "crc32": "b6359e2d",
+      "sha1": "2aa14dfa93f832aa4ef6cdb7b134995ffad0669b",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-05T11:54:50.943988-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657036498",
+      "size": "32409",
+      "md5": "47fff7075a725d19368f040fca2fffbd",
+      "crc32": "def664a6",
+      "sha1": "272ad3cb3b6b96832820d1046bb1fb9c684fb46c",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-05T11:54:50.943988-04:00.jpg",
+      "source": "original",
+      "mtime": "1657036493",
+      "size": "243451",
+      "md5": "2b0946fb0addd02cd6a1a98eded01bad",
+      "crc32": "0c87ab5e",
+      "sha1": "b5f9f9c321cb121908c56799c40b75842e03978d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-05T11:54:50.943988-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-05T11:54:50.943988-04:00.jpg",
+      "mtime": "1657036552",
+      "size": "10406",
+      "md5": "71d06d4179bd7336a6669ca94cd4e8cd",
+      "crc32": "ad87bc7c",
+      "sha1": "fcc181d8629643102d6ee2149759f542cfcb181b"
+    },
+    {
+      "name": "npr-2022-07-05T17:07:23.946689-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657055249",
+      "size": "22910",
+      "md5": "25f60540d8477f6dcecd63ee726b9dae",
+      "crc32": "1e918c98",
+      "sha1": "61d280ffe6e6078df9da044cf08888a255bc6de4",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-05T17:07:23.946689-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657055251",
+      "size": "36841",
+      "md5": "d02fe172a28a641c6e80de58bfe662e2",
+      "crc32": "ca356958",
+      "sha1": "0f1e242d1e617384fe9bcc7942aafb5e79e0b1ce",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-05T17:07:23.946689-04:00.jpg",
+      "source": "original",
+      "mtime": "1657055246",
+      "size": "276978",
+      "md5": "8d9ba076d56059d85e51a5168998b2d2",
+      "crc32": "7db7d555",
+      "sha1": "ef19016d5f99828f8580fe0ebde611fb892fcb3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-05T17:07:23.946689-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-05T17:07:23.946689-04:00.jpg",
+      "mtime": "1657055365",
+      "size": "10216",
+      "md5": "16a5547fc9a69d9e2d7d1bd66d4edac6",
+      "crc32": "0df325d7",
+      "sha1": "ec7c5494644a3a07c190afe30bb7e94e4b546479"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f08c35956e22f83db3d23b8bbac7a55e4c57977",
-      "mtime": "1656990775",
-      "size": "45137",
-      "md5": "1bbe01fe156012bde4a1322c4d7b9063",
-      "crc32": "af6550d3",
-      "sha1": "2f68d6763e2864c20060162351af906dc9912c56",
+      "btih": "c84c1433a008e49b31f4ae6cc2ecfd29ad36c778",
+      "mtime": "1657055369",
+      "size": "47607",
+      "md5": "b699f43889a985e24d946b8c7d056f95",
+      "crc32": "912d1ed4",
+      "sha1": "bce8b3b100715a41bdaf95562e2d828abad98ffa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a24399d732099ba3db5c896240ad3ac2",
+      "md5": "4bd4658b447890176bea4f2662bece71",
       "summation": "md5"
     },
     {
       "name": "npr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656990722",
-      "size": "262144",
-      "md5": "bc95c305c3969a56098d2f39379a188a",
-      "crc32": "f9b6f9e9",
-      "sha1": "87d16647f07b01012286955f5b9dee93384e7db0",
+      "mtime": "1657055256",
+      "size": "274432",
+      "md5": "f070bf68ecb783b8cbc8c86a382beefb",
+      "crc32": "8c0a1a41",
+      "sha1": "51dd529d36f5b9b1ae936deb9d5eb455e3714ac1",
       "format": "Metadata"
     },
     {
@@ -2280,9 +2406,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 217,
-  "item_last_updated": 1656990775,
-  "item_size": 17548470,
+  "files_count": 229,
+  "item_last_updated": 1657055369,
+  "item_size": 18526441,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -2313,8 +2439,16 @@
       "url": "/"
     },
     {
+      "text": "Sign In",
+      "url": "#"
+    },
+    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
+    },
+    {
+      "text": "Donate",
+      "url": "/donations/support"
     },
     {
       "text": "Home",
@@ -2473,6 +2607,10 @@
       "url": "/search/"
     },
     {
+      "text": "Sign In",
+      "url": "#"
+    },
+    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
     },
@@ -2538,163 +2676,395 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/04/1109700508/shooting-july-fourth-parade-chicago-suburb"
+      "url": "https://www.npr.org/2022/07/05/1109793161/highland-park-chicago-july-4-shooting-latest"
     },
     {
       "text": "\n                        National\n                        ",
       "url": "https://www.npr.org/sections/national/"
     },
     {
-      "text": "\n                Highland Park police take a man into custody over the July Fourth parade shooting\n            ",
-      "url": "https://www.npr.org/2022/07/04/1109700508/shooting-july-fourth-parade-chicago-suburb"
+      "text": "\n                A 7th person has died a day after the Highland Park parade shooting\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109793161/highland-park-chicago-july-4-shooting-latest"
     },
     {
-      "text": "\n                Officials are calling the 22-year-old a person of interest. Police Chief Lou Jogmen says the man gave himself up after a brief pursuit in his car. At least six people were killed and dozens of others wounded.\n            ",
-      "url": "https://www.npr.org/2022/07/04/1109700508/shooting-july-fourth-parade-chicago-suburb"
+      "text": "\n                The suspected shooter is also believed to have acted alone, and authorities found a second weapon in his car. Here's what else we know as of midday Tuesday.\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109793161/highland-park-chicago-july-4-shooting-latest"
     },
     {
-      "text": "\n        \n            Halfway through year, America has already seen at least 309 mass shootings\n        \n    ",
-      "url": "https://www.npr.org/2022/05/15/1099008586/mass-shootings-us-2022-tally-number"
+      "text": "\n        \n            A grandfather visiting family was one of six people killed in a Highland Park mass shooting\n        \n    ",
+      "url": "https://www.wbez.org/stories/grandfather-identified-as-highland-park-shooting-victim/a2daa97c-bb55-4fec-a988-7c01762fa8f0"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/04/1109743558/biden-urges-unity-in-july-4th-speech-while-acknowledging-the-countrys-sour-mood"
+      "url": "https://www.npr.org/2022/07/05/1109871416/grand-jury-subpoena-giuliani-eastman-graham"
     },
     {
       "text": "\n                            Politics\n                            ",
       "url": "https://www.npr.org/sections/politics/"
     },
     {
-      "text": "\n            Biden urges unity in his July Fourth speech, while acknowledging the country's sour mood\n            ",
-      "url": "https://www.npr.org/2022/07/04/1109743558/biden-urges-unity-in-july-4th-speech-while-acknowledging-the-countrys-sour-mood"
+      "text": "\n            Georgia grand jury subpoenas top Trump allies, including Giuliani and Eastman\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109871416/grand-jury-subpoena-giuliani-eastman-graham"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2021/01/26/959656218/comic-how-to-raise-informed-active-citizens"
+      "url": "https://www.npr.org/2022/07/05/1109538056/election-deniers-are-spreading-misinformation-nationwide-here-are-4-things-to-kn"
     },
     {
-      "text": "\n                            Life Kit\n                            ",
-      "url": "https://www.npr.org/lifekit"
+      "text": "\n                            Investigations\n                            ",
+      "url": "https://www.npr.org/sections/investigations/"
     },
     {
-      "text": "\n            How to get kids thinking about what it means to be a good citizen\n            ",
-      "url": "https://www.npr.org/2021/01/26/959656218/comic-how-to-raise-informed-active-citizens"
+      "text": "\n            Election deniers are spreading misinformation nationwide. Here are 4 things to know\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109538056/election-deniers-are-spreading-misinformation-nationwide-here-are-4-things-to-kn"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/04/1109722326/4th-july-independence-day-immigrants"
+      "url": "https://www.npr.org/2022/07/05/1107499235/canadian-abortion-providers-dont-know-how-many-u-s-women-will-now-travel-there"
     },
     {
       "text": "\n                            National\n                            ",
       "url": "https://www.npr.org/sections/national/"
     },
     {
-      "text": "\n            6 immigrants reflect on their complicated relationships with the 4th of July\n            ",
-      "url": "https://www.npr.org/2022/07/04/1109722326/4th-july-independence-day-immigrants"
+      "text": "\n            Canadian abortion providers don't know how many U.S. women will now travel there\n            ",
+      "url": "https://www.npr.org/2022/07/05/1107499235/canadian-abortion-providers-dont-know-how-many-u-s-women-will-now-travel-there"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/04/1109618252/military-veterans-abortion-roe-v-wade"
+      "url": "https://www.npr.org/2022/07/05/1108949918/thor-love-and-thunder-review"
+    },
+    {
+      "text": "\n                            Pop Culture Happy Hour\n                            ",
+      "url": "https://www.npr.org/series/pop-culture-happy-hour"
+    },
+    {
+      "text": "\n            In 'Thor: Love and Thunder,' Taika Waititi's familiar strains feel familiar and strained\n            ",
+      "url": "https://www.npr.org/2022/07/05/1108949918/thor-love-and-thunder-review"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/emma-choi-old-bay"
+    },
+    {
+      "text": "\n                            I'm Really Into\n                            ",
+      "url": "https://www.npr.org/series/1092291871/really-into"
+    },
+    {
+      "text": "\n            Old Bay in my bag: How I make anything taste like home\n            ",
+      "url": "https://www.npr.org/emma-choi-old-bay"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/04/1109772095/a-federal-judge-sides-with-3-major-drug-distributors-in-a-landmark-opioid-lawsui"
     },
     {
       "text": "\n                            National\n                            ",
       "url": "https://www.npr.org/sections/national/"
     },
     {
-      "text": "\n            The abortion ruling has troops and veterans speaking out, some for the first time\n            ",
-      "url": "https://www.npr.org/2022/07/04/1109618252/military-veterans-abortion-roe-v-wade"
+      "text": "\n            A federal judge sides with 3 major drug distributors in a landmark opioid lawsuit\n            ",
+      "url": "https://www.npr.org/2022/07/04/1109772095/a-federal-judge-sides-with-3-major-drug-distributors-in-a-landmark-opioid-lawsui"
+    },
+    {
+      "text": "Station Finder",
+      "url": "/stations/"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/04/1109683789/shireen-abu-akleh-death-investigation"
+      "url": "https://www.npr.org/2022/07/05/1108814874/rubber-ducky-watches-that-dont-tell-time-clock-in-tiktok-views"
     },
     {
-      "text": "\n                            Middle East\n                            ",
-      "url": "https://www.npr.org/sections/middle-east/"
+      "text": "\n                        Culture\n                        ",
+      "url": "https://www.npr.org/sections/culture/"
     },
     {
-      "text": "\n            The Israeli army likely fired the bullet that killed journalist Shireen Abu Akleh, the U.S. says\n            ",
-      "url": "https://www.npr.org/2022/07/04/1109683789/shireen-abu-akleh-death-investigation"
+      "text": "\n                Rubber ducky watches that don't tell time clock in TikTok views\n            ",
+      "url": "https://www.npr.org/2022/07/05/1108814874/rubber-ducky-watches-that-dont-tell-time-clock-in-tiktok-views"
+    },
+    {
+      "text": "\n                \"How many times do you look at a clock, or look at time, and are happy?\" says Kevin Bertolero, the maker of watches that feature tiny rubber duckies instead of numbers.\n            ",
+      "url": "https://www.npr.org/2022/07/05/1108814874/rubber-ducky-watches-that-dont-tell-time-clock-in-tiktok-views"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/03/1109629190/madrid-flamenco-amor-de-dios-photos"
+      "url": "https://www.npr.org/sections/health-shots/2022/07/05/1109493650/abortion-pills-underground"
     },
     {
-      "text": "\n                            Europe\n                            ",
+      "text": "\n                        Shots - Health News\n                        ",
+      "url": "https://www.npr.org/sections/health-shots/"
+    },
+    {
+      "text": "\n                Advocates struggle with how much they can help with self-managed abortions\n            ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/05/1109493650/abortion-pills-underground"
+    },
+    {
+      "text": "\n                Reproductive rights proponents worry about the risk of counseling those who seek medication abortions, though they've published online support techniques and guides for safe use of the drugs.\n            ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/05/1109493650/abortion-pills-underground"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings"
+    },
+    {
+      "text": "\n                                    House Jan. 6 committee hearings\n                                    ",
+      "url": "https://www.npr.org/series/1098490189/jan-6-subcommittee-hearings"
+    },
+    {
+      "text": "\n                        5 things we've learned so far from the Jan. 6 committee hearings\n                    ",
+      "url": "https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings"
+    },
+    {
+      "text": "\n                        The House select committee investigating the Jan. 6 insurrection plans at least two more hearings this month. Here's what we have learned in the first six.\n                    ",
+      "url": "https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal"
+    },
+    {
+      "text": "\n                        Europe\n                        ",
       "url": "https://www.npr.org/sections/europe/"
     },
     {
-      "text": "\n            At Madrid's Amor de Dios flamenco center, dancers are finding their rhythm again\n            ",
-      "url": "https://www.npr.org/2022/07/03/1109629190/madrid-flamenco-amor-de-dios-photos"
+      "text": "\n                2 key U.K. senior ministers quit Boris Johnson's government\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal"
+    },
+    {
+      "text": "\n                The two ministers resigned after a day in which the prime minister acknowledged he had changed his story on how he handled sexual misconduct allegations against a government official.\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109863241/uk-ministers-resign-boris-johnson-scandal"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/04/1109740442/fourth-of-july-nathans-hot-dog-eating-champions-miki-sudo-joey-chestnut"
+      "url": "https://www.npr.org/2022/07/05/1109444617/the-supreme-court-conservative"
+    },
+    {
+      "text": "\n                        Law\n                        ",
+      "url": "https://www.npr.org/sections/law/"
+    },
+    {
+      "text": "\n                This Supreme Court is the most conservative in 90 years\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109444617/the-supreme-court-conservative"
+    },
+    {
+      "text": "\n                In an astounding 62% of the decisions, conservatives prevailed, and more importantly, often prevailed in dramatic ways, according to new data.\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109444617/the-supreme-court-conservative"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109678316/edward-dwight-space-race-nasa-astronaut-moon"
+    },
+    {
+      "text": "\n                                    Radio Diaries\n                                ",
+      "url": "https://www.npr.org/series/92479240/-radio-diaries"
+    },
+    {
+      "text": "\n                    Ed Dwight was in line to be the first Black astronaut. History had other ideas\n                ",
+      "url": "https://www.npr.org/2022/07/05/1109678316/edward-dwight-space-race-nasa-astronaut-moon"
+    },
+    {
+      "text": "                    \n                    At the height of the space race in the 1960s, Air Force Captain Ed Dwight was chosen to attend a special astronaut training program. He tells the story of what happened next.\n                ",
+      "url": "https://www.npr.org/2022/07/05/1109678316/edward-dwight-space-race-nasa-astronaut-moon"
+    },
+    {
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220704_atc_the_almost_astronaut_from_radio_diaries.mp3?orgId=1&topicId=1026&aggIds=92479240&d=737&story=1109678316&dl=1&sc=siteplayer&size=11797778&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109085564/this-conservative-leader-is-trying-to-make-white-evangelical-politics-less-white"
+    },
+    {
+      "text": "\n                        Politics\n                        ",
+      "url": "https://www.npr.org/sections/politics/"
+    },
+    {
+      "text": "\n                This conservative leader is trying to make white evangelical politics less white\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109085564/this-conservative-leader-is-trying-to-make-white-evangelical-politics-less-white"
+    },
+    {
+      "text": "\n                Faith and Freedom Coalition founder Ralph Reed, an activist in GOP politics for three decades, is working to turn out and expand the evangelical vote in 2022.\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109085564/this-conservative-leader-is-trying-to-make-white-evangelical-politics-less-white"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1107126834/dall-e-mini-text-image-memes-machine-learning"
+    },
+    {
+      "text": "\n                    Weird Dall-E Mini Generations\n                    ",
+      "url": "https://twitter.com/weirddalle/status/1542134102849208322/photo/1"
+    },
+    {
+      "text": "\n        Weird Dall-E Mini Generations\n        ",
+      "url": "https://twitter.com/weirddalle/status/1542134102849208322/photo/1"
+    },
+    {
+      "text": "\n                                    Technology\n                                    ",
+      "url": "https://www.npr.org/sections/technology/"
+    },
+    {
+      "text": "\n                        When machine learning meets surrealist art meets Reddit, you get DALL-E mini\n                    ",
+      "url": "https://www.npr.org/2022/07/05/1107126834/dall-e-mini-text-image-memes-machine-learning"
+    },
+    {
+      "text": "\n                        DALL-E is the AI image generator social media users are employing to crank out bizarre art memes that range from beautiful to horrifying.\n                    ",
+      "url": "https://www.npr.org/2022/07/05/1107126834/dall-e-mini-text-image-memes-machine-learning"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109798215/the-poets-house-jean-thompson-book-review"
+    },
+    {
+      "text": "\n                        Book Reviews\n                        ",
+      "url": "https://www.npr.org/sections/book-reviews/"
+    },
+    {
+      "text": "\n                'The Poet's House' is a droll coming-of-age story \u2014 and an absolute keeper of a novel\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109798215/the-poets-house-jean-thompson-book-review"
+    },
+    {
+      "text": "\n                Jean Thompson's novel follows an insecure young woman as she's drawn into a clique of poets. The Poet's House is a story about the corrosive power of shame and the primal fear of sounding stupid.\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109798215/the-poets-house-jean-thompson-book-review"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider"
+    },
+    {
+      "text": "\n                        Space\n                        ",
+      "url": "https://www.npr.org/sections/space/"
+    },
+    {
+      "text": "\n                The Large Hadron Collider will embark on a third run to uncover more cosmic secrets\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider"
+    },
+    {
+      "text": "\n                Ten years ago, the discovery of the Higgs Boson particle helped make sense of our universe. But in doing so, it unlocked a whole host of new questions.\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109742531/cern-large-hadron-collider"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help"
     },
     {
       "text": "\n                        National\n                        ",
       "url": "https://www.npr.org/sections/national/"
     },
     {
-      "text": "\n                Joey Chestnut and Miki Sudo chow their way to victory in Nathan's hot dog eating contest\n            ",
-      "url": "https://www.npr.org/2022/07/04/1109740442/fourth-of-july-nathans-hot-dog-eating-champions-miki-sudo-joey-chestnut"
+      "text": "\n                Brittney Griner writes a letter to President Biden asking for his help\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help"
     },
     {
-      "text": "\n                Chestnut took his 15th win at Nathan's Famous Fourth of July hot dog eating contest, and Sudo made a decisive comeback to win the women's title.\n            ",
-      "url": "https://www.npr.org/2022/07/04/1109740442/fourth-of-july-nathans-hot-dog-eating-champions-miki-sudo-joey-chestnut"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2017/07/03/535060572/why-i-love-and-question-independence-day"
-    },
-    {
-      "text": "\n                            Opinion\n                            ",
-      "url": "https://www.npr.org/sections/opinion/"
-    },
-    {
-      "text": "\n                        Goats and Soda\n                        ",
-      "url": "https://www.npr.org/sections/goatsandsoda/"
-    },
-    {
-      "text": "\n                Why I love (and question) Independence Day\n            ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2017/07/03/535060572/why-i-love-and-question-independence-day"
-    },
-    {
-      "text": "\n                He grew up marching to celebrate Ghana's independence and now marvels at America's big July 4 bash. George Mwinnyaa reflects on the meaning of independence.\n            ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2017/07/03/535060572/why-i-love-and-question-independence-day"
+      "text": "\n                The basketball star detained in Russia wrote a letter saying she feared she might never return home and asking that he not \" forget about me and the other American Detainees.\"\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109776396/brittney-griner-writes-a-letter-to-president-biden-asking-for-his-help"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6"
+      "url": "https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to"
     },
     {
-      "text": "\n                                    Investigations\n                                    ",
-      "url": "https://www.npr.org/sections/investigations/"
+      "text": "\n                        Asia\n                        ",
+      "url": "https://www.npr.org/sections/asia/"
     },
     {
-      "text": "\n                        Election deniers have taken their fraud theories on tour \u2014 to nearly every state\n                    ",
-      "url": "https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6"
+      "text": "\n                Sydney floods worsen as 50,000 Australians are warned to evacuate or be ready to\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to"
     },
     {
-      "text": "\n                        Even as the Jan. 6 hearings play out, election misinformation keeps spreading. NPR tracked four leaders preaching false information about election fraud at hundreds of grassroots events nationwide.\n                    ",
-      "url": "https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6"
+      "text": "\n                Days of torrential rain have caused dams to overflow and waterways to break their banks, bringing a fourth flood emergency in 16 months to parts of the city of 5 million people.\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109791381/sydney-floods-worsen-as-50-000-australians-are-warned-to-evacuate-or-be-ready-to"
     },
     {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            8:14\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220630_atc_election_deniers_have_taken_their_fraud_theories_on_tour_to_nearly_every_state.mp3?orgId=1&topicId=1150&d=494&p=2&story=1107868327&dl=1&sc=siteplayer&size=7909504&dl=1&aw_0_1st.playerid=siteplayer"
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/02/1109565803/data-privacy-abortion-roe-apps"
+    },
+    {
+      "text": "\n                        Technology\n                        ",
+      "url": "https://www.npr.org/sections/technology/"
+    },
+    {
+      "text": "\n                Data privacy concerns make the post-Roe era uncharted territory\n            ",
+      "url": "https://www.npr.org/2022/07/02/1109565803/data-privacy-abortion-roe-apps"
+    },
+    {
+      "text": "\n                Digital privacy advocates are encouraging abortion seekers to err on the side of caution. Text messages, browser histories and emails could be used in criminal investigations.\n            ",
+      "url": "https://www.npr.org/2022/07/02/1109565803/data-privacy-abortion-roe-apps"
+    },
+    {
+      "text": "\n        \n            How companies offering to cover travel for out-of-state abortions might work\n        \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109401395/abortion-out-of-state-travel-costs-companies-roe-v-wade"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/world-cafe/2022/07/05/1109834856/soak-performs-mini-concert-for-world-cafe-of-debut-album"
+    },
+    {
+      "text": "\n                                    World Cafe\n                                ",
+      "url": "https://www.npr.org/sections/world-cafe/"
+    },
+    {
+      "text": "\n                    Hear a mini-concert from Northern Ireland-based singer-songwriter SOAK\n                ",
+      "url": "https://www.npr.org/sections/world-cafe/2022/07/05/1109834856/soak-performs-mini-concert-for-world-cafe-of-debut-album"
+    },
+    {
+      "text": "                    \n                    Northern Ireland-based singer-songwriter Bridie Monds-Watson's third and latest album, If I never know you like this again, draws inspiration from indie bands like Broken Social Scene and Pavement.\n                ",
+      "url": "https://www.npr.org/sections/world-cafe/2022/07/05/1109834856/soak-performs-mini-concert-for-world-cafe-of-debut-album"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/money/2022/07/05/1109080841/the-fight-to-fund-abortions-in-post-roe-america"
+    },
+    {
+      "text": "\n                        Planet Money\n                        ",
+      "url": "https://www.npr.org/sections/money/"
+    },
+    {
+      "text": "\n                The fight to fund abortions in post-Roe America\n            ",
+      "url": "https://www.npr.org/sections/money/2022/07/05/1109080841/the-fight-to-fund-abortions-in-post-roe-america"
+    },
+    {
+      "text": "\n                In post-Roe America, money is even more determinative of who can get an abortion and who can't. Abortion funds are trying to close the gap, but they are now forced to navigate a murky legal landscape.\n            ",
+      "url": "https://www.npr.org/sections/money/2022/07/05/1109080841/the-fight-to-fund-abortions-in-post-roe-america"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109781500/rescuers-are-using-drones-to-help-search-for-avalanche-survivors-in-italy"
+    },
+    {
+      "text": "\n                        Environment\n                        ",
+      "url": "https://www.npr.org/sections/environment/"
+    },
+    {
+      "text": "\n                Rescuers are using drones to help search for avalanche survivors in Italy\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109781500/rescuers-are-using-drones-to-help-search-for-avalanche-survivors-in-italy"
+    },
+    {
+      "text": "\n                The terrain being searched is still so unstable that rescue crews are using drones to try to find any survivors while helicopters searched overhead.\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109781500/rescuers-are-using-drones-to-help-search-for-avalanche-survivors-in-italy"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1108635464/25-years-on-lilith-fair-is-a-reminder-of-how-one-womans-radical-idea-changed-mus"
+    },
+    {
+      "text": "\n                                    Music Features\n                                ",
+      "url": "https://www.npr.org/sections/music-features"
+    },
+    {
+      "text": "\n                    25 years on, Lilith Fair is a reminder of how one woman's radical idea changed music\n                ",
+      "url": "https://www.npr.org/2022/07/05/1108635464/25-years-on-lilith-fair-is-a-reminder-of-how-one-womans-radical-idea-changed-mus"
+    },
+    {
+      "text": "                    \n                    Lilith Fair brought an eclectic array of women's music to millions of fans and was the top grossing music festival of the 1990s.\n                ",
+      "url": "https://www.npr.org/2022/07/05/1108635464/25-years-on-lilith-fair-is-a-reminder-of-how-one-womans-radical-idea-changed-mus"
     },
     {
       "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220630_atc_election_deniers_have_taken_their_fraud_theories_on_tour_to_nearly_every_state.mp3?orgId=1&topicId=1150&d=494&p=2&story=1107868327&dl=1&sc=siteplayer&size=7909504&dl=1&aw_0_1st.playerid=siteplayer"
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220705_me_25_years_on_lilith_fair_is_a_reminder_of_how_one_womans_radical_idea_changed_music.mp3?orgId=1&topicId=613820055&d=439&p=3&story=1108635464&dl=1&sc=siteplayer&size=7037641&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "\n                    \n                    Transcript\n                  ",
-      "url": "https://www.npr.org/transcripts/1107868327"
-    },
-    {
-      "text": "\n        \n            These candidates lost badly, but now are claiming fraud\n        \n    ",
-      "url": "https://www.npr.org/2022/07/02/1109442956/these-candidates-lost-badly-but-now-are-claiming-fraud"
+      "url": "https://www.npr.org/transcripts/1108635464"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -2730,63 +3100,27 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/04/1109367458/my-body-my-choice-vaccines"
+      "url": "https://www.npr.org/2022/07/05/1107943923/j-paul-getty-biography-growing-up-getty"
     },
     {
-      "text": "\n                                    Shots - Health News\n                                    ",
-      "url": "https://www.npr.org/sections/health-shots/"
+      "text": "\n                                    Author Interviews\n                                ",
+      "url": "https://www.npr.org/sections/author-interviews/"
     },
     {
-      "text": "\n                        'My body, my choice': How vaccine foes co-opted the abortion rallying cry\n                    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/04/1109367458/my-body-my-choice-vaccines"
+      "text": "\n                    A billion here, a billion there: A new book tells the story of J. Paul Getty\n                ",
+      "url": "https://www.npr.org/2022/07/05/1107943923/j-paul-getty-biography-growing-up-getty"
     },
     {
-      "text": "\n                        Anti-vaccine advocates have repurposed a catchy, succinct, and potent slogan. Its unlikely source: the reproductive rights movement, which has been linked to the phrase for more than 50 years.\n                    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/04/1109367458/my-body-my-choice-vaccines"
+      "text": "                    \n                    In his day, J. Paul Getty was known as \"the richest man in America.\" James Reginato's biography, Growing Up Getty, is an exhaustive account of how the rich are different from most people.\n                ",
+      "url": "https://www.npr.org/2022/07/05/1107943923/j-paul-getty-biography-growing-up-getty"
     },
     {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/03/1109015302/abortion-prosecuting-pregnancy-loss"
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220705_me_a_billion_here_a_billion_there_a_new_book_tells_the_story_of_j_paul_getty.mp3?orgId=1&topicId=1033&d=217&p=3&story=1107943923&dl=1&sc=siteplayer&size=3487496&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
-      "text": "\n                        Reproductive rights in America\n                        ",
-      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
-    },
-    {
-      "text": "\n                Losing a pregnancy could land you in jail in post-Roe America\n            ",
-      "url": "https://www.npr.org/2022/07/03/1109015302/abortion-prosecuting-pregnancy-loss"
-    },
-    {
-      "text": "\n                Now that the Supreme Court has struck down Roe v. Wade, experts warn that prosecutions will increase for miscarriages, stillbirths and self-induced abortions.\n            ",
-      "url": "https://www.npr.org/2022/07/03/1109015302/abortion-prosecuting-pregnancy-loss"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/04/1109091043/black-marines-were-dogged-on-this-base-in-the-1940s-now-theyre-honored-there"
-    },
-    {
-      "text": "\n                                    Race\n                                    ",
-      "url": "https://www.npr.org/sections/race/"
-    },
-    {
-      "text": "\n                        Black Marines were 'dogged' on this base in the 1940s. Now they're honored there\n                    ",
-      "url": "https://www.npr.org/2022/07/04/1109091043/black-marines-were-dogged-on-this-base-in-the-1940s-now-theyre-honored-there"
-    },
-    {
-      "text": "\n                        In the 1940s about 20,000 men trained on racially segregated Montford Point in North Carolina. Some of the 300 surviving Marines recently returned for the reopening of a restored museum honoring them.\n                    ",
-      "url": "https://www.npr.org/2022/07/04/1109091043/black-marines-were-dogged-on-this-base-in-the-1940s-now-theyre-honored-there"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.iowapublicradio.org/agriculture/2022-06-30/some-of-iowas-queer-farmers-are-taking-a-different-approach-to-agriculture"
-    },
-    {
-      "text": "\n                Some of Iowa's queer farmers are taking a different approach to agriculture\n            ",
-      "url": "https://www.iowapublicradio.org/agriculture/2022-06-30/some-of-iowas-queer-farmers-are-taking-a-different-approach-to-agriculture"
-    },
-    {
-      "text": "\n                There aren't any definite numbers on how many LGBTQ farmers there are in this country, but some are making a point to be visible in their communities.\n            ",
-      "url": "https://www.iowapublicradio.org/agriculture/2022-06-30/some-of-iowas-queer-farmers-are-taking-a-different-approach-to-agriculture"
+      "text": "\n                    \n                    Transcript\n                  ",
+      "url": "https://www.npr.org/transcripts/1107943923"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -2962,7 +3296,7 @@
     }
   ],
   "server": "ia801409.us.archive.org",
-  "uniq": 975740191,
+  "uniq": 94860103,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

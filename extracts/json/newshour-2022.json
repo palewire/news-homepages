@@ -1,5 +1,5 @@
 {
-  "created": 1657023233,
+  "created": 1657068013,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -2218,31 +2218,157 @@
       "sha1": "0ef924c7bd46fab09196c4ea3242a0bcaa8e0815"
     },
     {
+      "name": "newshour-2022-07-05T11:52:45.650271-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657036372",
+      "size": "34108",
+      "md5": "ec5908fcc691c704cb7bfecd56239985",
+      "crc32": "49cf007f",
+      "sha1": "e8055687e76084c0c2b0fe237c6f392ef3c141a8",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-05T11:52:45.650271-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657036374",
+      "size": "39393",
+      "md5": "2c34b20b914d4bd048f455022987df64",
+      "crc32": "4f132c82",
+      "sha1": "a8701b52721d768491ec4e1401b148cd927ba619",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-05T11:52:45.650271-04:00.jpg",
+      "source": "original",
+      "mtime": "1657036369",
+      "size": "316629",
+      "md5": "346837135b91dd7f4f6a43adba9ff15e",
+      "crc32": "60ad830d",
+      "sha1": "7aece8f60972446b8fe44599ddb66aa61fce9d01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-07-05T11:52:45.650271-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-07-05T11:52:45.650271-04:00.jpg",
+      "mtime": "1657036458",
+      "size": "10863",
+      "md5": "76614c82e9de7c41034235a668eceaed",
+      "crc32": "6ec29756",
+      "sha1": "158579b7e54d3b6111e2954c62771fc538cd0bf4"
+    },
+    {
+      "name": "newshour-2022-07-05T11:58:30.474013-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657036713",
+      "size": "34000",
+      "md5": "f69e7cd30f3bc1e8a91d29454f1a5079",
+      "crc32": "3368eefb",
+      "sha1": "f21ab2e6777ea8feccfb174ddce93521ffd96310",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-05T11:58:30.474013-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657036716",
+      "size": "39526",
+      "md5": "6b4734c743b8508c517e97f5f4f76d66",
+      "crc32": "6350b334",
+      "sha1": "da25e229b27597bb15c160557d12aea69172099b",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-05T11:58:30.474013-04:00.jpg",
+      "source": "original",
+      "mtime": "1657036711",
+      "size": "314967",
+      "md5": "b23429a73c1a307c0bf02f6f23f211f5",
+      "crc32": "0917d18b",
+      "sha1": "81c224e5398e7267814d42936abe374fc59607e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-07-05T11:58:30.474013-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-07-05T11:58:30.474013-04:00.jpg",
+      "mtime": "1657036788",
+      "size": "10792",
+      "md5": "4bb20a06c24330e83f1f00df7f86d4a5",
+      "crc32": "3a91745d",
+      "sha1": "16d23fe49b6ea6ceec0f4e8b3dc0d98a30f6a94b"
+    },
+    {
+      "name": "newshour-2022-07-05T17:07:17.672436-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657055242",
+      "size": "33767",
+      "md5": "30bbff807b521111348805c93fe36049",
+      "crc32": "e5e04ae3",
+      "sha1": "2a7efdbca5bf5ccd7e2f7847bbcfaf1413c05e4f",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-05T17:07:17.672436-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657055244",
+      "size": "34672",
+      "md5": "76770e74c258d930c38bddec44dc6202",
+      "crc32": "9e5f3641",
+      "sha1": "8f1fe25fad179432f5fa91904bb570f9694558a3",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-07-05T17:07:17.672436-04:00.jpg",
+      "source": "original",
+      "mtime": "1657055240",
+      "size": "317486",
+      "md5": "89cb4dfe3fe28fcfcc3db9b9123d292e",
+      "crc32": "d6de3b0d",
+      "sha1": "e213d77be0dac3a0d1af8e36f51087a36e72c18e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-07-05T17:07:17.672436-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-07-05T17:07:17.672436-04:00.jpg",
+      "mtime": "1657055409",
+      "size": "10798",
+      "md5": "97bb47294cba2a66f21e2147b379bf8f",
+      "crc32": "2c4e288f",
+      "sha1": "cd9b560c8d658017a10f0c0655de063868ece8b3"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6bda65a1689e78b783267748652b10816f837a89",
-      "mtime": "1656990742",
-      "size": "45985",
-      "md5": "70e3903506bee33baa6f594d9894d9b5",
-      "crc32": "81e7e79b",
-      "sha1": "269a75b548e72133f6e0a253a8fd618207edfba3",
+      "btih": "661580467b79eafbf71544a1246f7c8b645fe918",
+      "mtime": "1657055436",
+      "size": "48535",
+      "md5": "e9dcc28a60f03c0bf2f095a943e0c527",
+      "crc32": "813bf4f1",
+      "sha1": "bf3ab3fd72b6be6ea69f329ad702b6d2b2aab744",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa6718b38c737c8522476300e08d52d1",
+      "md5": "fb0324641be1a7201620406904d1b748",
       "summation": "md5"
     },
     {
       "name": "newshour-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656990694",
-      "size": "262144",
-      "md5": "099c4cdd32b634760c2025f695968315",
-      "crc32": "75c6182e",
-      "sha1": "62242916cbda40796e6f506e5ba6b797d39dedf9",
+      "mtime": "1657055248",
+      "size": "278528",
+      "md5": "1c6431194267e59807dab59862bab59f",
+      "crc32": "9897b11f",
+      "sha1": "ea2d60cd1e0395db063606307f76a268128a12f2",
       "format": "Metadata"
     },
     {
@@ -2256,9 +2382,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "item_last_updated": 1656990742,
-  "item_size": 20333555,
+  "files_count": 227,
+  "item_last_updated": 1657055436,
+  "item_size": 21549490,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -2282,7 +2408,7 @@
     },
     {
       "text": "",
-      "url": "https://vpm.org/"
+      "url": "https://www.pbsnc.org"
     },
     {
       "text": "Shows",
@@ -2302,11 +2428,11 @@
     },
     {
       "text": "Donate",
-      "url": "http://donate.vpm.org/site/Donation2?df_id=1587&mfc_pref=T&1587.donation=form1"
+      "url": "https://www.pledgecart.org/pledgecart3/user/home?campaign=A899D8CC-EC00-4E0B-9453-95468847F22B&source=#/home"
     },
     {
       "text": "",
-      "url": "https://vpm.org/"
+      "url": "https://www.pbsnc.org"
     },
     {
       "text": "\n            \n                \n                    \n                \n                Full Episode\n            \n            \n                                                                            \n                    ",
@@ -2553,7 +2679,7 @@
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "WATCH LIVE: A Capitol Fourth 2022",
+      "text": "WATCH: A Capitol Fourth 2022",
       "url": "https://www.pbs.org/newshour/nation/watch-live-a-capitol-fourth-2022"
     },
     {
@@ -2713,16 +2839,16 @@
       "url": "https://www.pbs.org/newshour/latest"
     },
     {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
     },
     {
       "text": "\n                        \n                          \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/politics/awaiting-trial-in-a-russian-prison-wnba-star-griner-sends-letter-to-biden-pleading-for-help"
+      "url": "https://www.pbs.org/newshour/world/eu-urges-north-macedonia-to-back-french-proposed-compromise-with-bulgaria"
     },
     {
-      "text": "Awaiting trial in a Russian prison, WNBA star Griner sends letter to Biden pleading for help",
-      "url": "https://www.pbs.org/newshour/politics/awaiting-trial-in-a-russian-prison-wnba-star-griner-sends-letter-to-biden-pleading-for-help"
+      "text": "EU urges North Macedonia to back French-proposed compromise with Bulgaria",
+      "url": "https://www.pbs.org/newshour/world/eu-urges-north-macedonia-to-back-french-proposed-compromise-with-bulgaria"
     },
     {
       "text": "Nation",
@@ -2730,39 +2856,39 @@
     },
     {
       "text": "\n                        \n                          \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/nation/watch-police-name-person-of-interest-for-4th-of-july-parade-shooting-in-highland-park"
+      "url": "https://www.pbs.org/newshour/nation/watch-live-officials-provide-update-on-highland-park-july-4-shooting"
     },
     {
-      "text": "WATCH: Police name \u2018person of interest\u2019 for 4th of July parade shooting in Highland Park",
-      "url": "https://www.pbs.org/newshour/nation/watch-police-name-person-of-interest-for-4th-of-july-parade-shooting-in-highland-park"
+      "text": "WATCH LIVE: Officials provide update on Highland Park July 4 shooting",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-officials-provide-update-on-highland-park-july-4-shooting"
     },
     {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
     },
     {
       "text": "\n                        \n                          \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/politics/jan-6-committee-member-says-new-evidence-against-trump-in-july-hearings"
+      "url": "https://www.pbs.org/newshour/world/30-detained-after-turkish-police-break-up-lgbtq-pride-march"
     },
     {
-      "text": "Jan. 6 committee member says new evidence against Trump coming in July hearings",
-      "url": "https://www.pbs.org/newshour/politics/jan-6-committee-member-says-new-evidence-against-trump-in-july-hearings"
+      "text": "30 detained after Turkish police break up LGBTQ Pride march",
+      "url": "https://www.pbs.org/newshour/world/30-detained-after-turkish-police-break-up-lgbtq-pride-march"
     },
     {
-      "text": "\n        \n                                      \n                        \n        \n        \n        Shooting at 4th of July parade in Chicago suburb Highland Park leaves 6 dead, two dozen hospitalized\n                                By Kathleen Foody, Michael Tarm, Roger Schneider, Associated Press\n                            \n    ",
-      "url": "https://www.pbs.org/newshour/nation/shooting-reported-at-4th-of-july-parade-in-chicago-suburb-highland-park"
+      "text": "\n        \n                                      \n                        \n        \n        \n        4 ways parents can help kids enjoy their summer at camp\n                                By Melissa Rayworth, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/education/4-ways-parents-can-help-kids-enjoy-their-summer-at-camp"
     },
     {
-      "text": "\n        \n                                      \n                        \n        \n        \n        Copenhagen mall shooting not likely terror-related, authorities say\n                                By Jan M. Olsen, Karl Ritter, Associated Press\n                            \n    ",
-      "url": "https://www.pbs.org/newshour/world/copenhagen-mall-shooting-not-likely-terror-related-authorities-say"
+      "text": "\n        \n                                      \n                        \n        \n        \n        Ukrainian city of Sloviansk hit by \u2018massive shelling,\u2019 mayor says\n                                By Francesca Ebel, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/world/ukrainian-city-of-sloviansk-hit-by-massive-shelling-mayor-says"
     },
     {
-      "text": "\n        \n                                      \n                        \n        \n        \n        WATCH LIVE: President Biden delivers remarks at  July 4th event with military families\n                                By Bobby Caina Calvan, Associated Press\n                            \n    ",
-      "url": "https://www.pbs.org/newshour/nation/watch-live-president-biden-delivers-remarks-at-july-4th-event-with-military-families"
+      "text": "\n        \n                                      \n                        \n        \n        \n        Hopes dim as rescuers continue to search for survivors of Italian avalanche\n                                By Paolo Santalucia, Nicole Winfield, Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/world/hopes-dim-as-rescuers-continue-to-search-for-survivors-of-italian-avalanche"
     },
     {
-      "text": "\n        \n                                      \n                        \n        \n        \n        Funding increases for abortion-related causes as \u2018rage giving\u2019 continues\n                                By Glenn Gamboa, Associated Press\n                            \n    ",
-      "url": "https://www.pbs.org/newshour/nation/funding-increases-for-abortion-related-causes-as-rage-giving-continues"
+      "text": "\n        \n                                      \n                        \n        \n        \n        WATCH: Police say gunman fired more than 70 rounds at Highland Park 4th of July parade\n                                By Associated Press\n                            \n    ",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-highland-park-authorities-give-update-following-arrest-of-man-in-july-4-parade-shooting"
     },
     {
       "text": "More stories",
@@ -2798,63 +2924,63 @@
     },
     {
       "text": "\n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/politics/awaiting-trial-in-a-russian-prison-wnba-star-griner-sends-letter-to-biden-pleading-for-help"
+      "url": "https://www.pbs.org/newshour/world/eu-urges-north-macedonia-to-back-french-proposed-compromise-with-bulgaria"
+    },
+    {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "EU urges North Macedonia to back French-proposed compromise with Bulgaria",
+      "url": "https://www.pbs.org/newshour/world/eu-urges-north-macedonia-to-back-french-proposed-compromise-with-bulgaria"
+    },
+    {
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/world/30-detained-after-turkish-police-break-up-lgbtq-pride-march"
+    },
+    {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "30 detained after Turkish police break up LGBTQ Pride march",
+      "url": "https://www.pbs.org/newshour/world/30-detained-after-turkish-police-break-up-lgbtq-pride-march"
+    },
+    {
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-press-secretary-karine-jean-pierre-holds-news-briefing-9"
     },
     {
       "text": "Politics",
       "url": "https://www.pbs.org/newshour/politics"
     },
     {
-      "text": "Awaiting trial in a Russian prison, WNBA star Griner sends letter to Biden pleading for help",
-      "url": "https://www.pbs.org/newshour/politics/awaiting-trial-in-a-russian-prison-wnba-star-griner-sends-letter-to-biden-pleading-for-help"
+      "text": "WATCH: White House press secretary Karine Jean-Pierre speaks on Highland Park shooting",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-press-secretary-karine-jean-pierre-holds-news-briefing-9"
     },
     {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 6:08\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/gunman-kills-at-least-6-people-at-fourth-of-july-parade-outside-chicago"
-    },
-    {
-      "text": "Nation",
-      "url": "https://www.pbs.org/newshour/nation"
-    },
-    {
-      "text": "What we know about the Highland Park mass shooting",
-      "url": "https://www.pbs.org/newshour/show/gunman-kills-at-least-6-people-at-fourth-of-july-parade-outside-chicago"
-    },
-    {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 5:33\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-akron-declares-state-of-emergency-after-police-killing-of-unarmed-black-man"
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/nation/judge-to-hear-challenge-of-mississippi-abortion-ban"
     },
     {
       "text": "Nation",
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "News Wrap: Akron declares state of emergency after police killing of unarmed Black man",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-akron-declares-state-of-emergency-after-police-killing-of-unarmed-black-man"
+      "text": "Judge to hear challenge of Mississippi abortion ban",
+      "url": "https://www.pbs.org/newshour/nation/judge-to-hear-challenge-of-mississippi-abortion-ban"
     },
     {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 9:16\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/high-gas-prices-and-canceled-flights-create-holiday-headaches-for-americans"
-    },
-    {
-      "text": "Economy",
-      "url": "https://www.pbs.org/newshour/economy"
-    },
-    {
-      "text": "High gas prices and canceled flights create holiday headaches for Americans",
-      "url": "https://www.pbs.org/newshour/show/high-gas-prices-and-canceled-flights-create-holiday-headaches-for-americans"
-    },
-    {
-      "text": "\n                        \n                \n                    \n                \n                                Watch 8:52\n            \n                        \n                        \n                  \n              \n                    ",
-      "url": "https://www.pbs.org/newshour/show/what-the-supreme-court-monumental-rulings-tell-us-about-the-new-conservative-majority"
+      "text": "\n                        \n                        \n                  \n              \n                    ",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-president-joe-biden-awards-the-medal-of-honor-to-4-vietnam-war-veterans"
     },
     {
       "text": "Politics",
       "url": "https://www.pbs.org/newshour/politics"
     },
     {
-      "text": "What the Supreme Court\u2019s monumental rulings tell us about the new conservative majority",
-      "url": "https://www.pbs.org/newshour/show/what-the-supreme-court-monumental-rulings-tell-us-about-the-new-conservative-majority"
+      "text": "WATCH: President Joe Biden awards the Medal of Honor to 4 Vietnam War veterans",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-president-joe-biden-awards-the-medal-of-honor-to-4-vietnam-war-veterans"
     },
     {
       "text": "Raising the Future",
@@ -2901,7 +3027,7 @@
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "WATCH LIVE: A Capitol Fourth 2022",
+      "text": "WATCH: A Capitol Fourth 2022",
       "url": "https://www.pbs.org/newshour/nation/watch-live-a-capitol-fourth-2022"
     },
     {
@@ -2915,6 +3041,18 @@
     {
       "text": "Tamara Keith and Amy Walter on divisions in America, Jan. 6 hearings",
       "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-divisions-in-america-jan-6-hearings"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-press-secretary-karine-jean-pierre-holds-news-briefing-9"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "WATCH: White House press secretary Karine Jean-Pierre speaks on Highland Park shooting",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-press-secretary-karine-jean-pierre-holds-news-briefing-9"
     },
     {
       "text": "     ",
@@ -2941,16 +3079,40 @@
       "url": "https://www.pbs.org/newshour/nation/after-police-kill-unarmed-black-man-jayland-walker-akron-police-release-bodycam-footage"
     },
     {
-      "text": "     Watch 6:08      ",
-      "url": "https://www.pbs.org/newshour/show/gunman-kills-at-least-6-people-at-fourth-of-july-parade-outside-chicago"
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-president-biden-delivers-remarks-at-july-4th-event-with-military-families"
     },
     {
       "text": "Nation",
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "What we know about the Highland Park mass shooting",
-      "url": "https://www.pbs.org/newshour/show/gunman-kills-at-least-6-people-at-fourth-of-july-parade-outside-chicago"
+      "text": "WATCH: President Biden delivers July 4th remarks in the wake of another mass shooting",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-president-biden-delivers-remarks-at-july-4th-event-with-military-families"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/politics/how-the-u-s-compares-with-the-rest-of-the-world-on-abortion-rights"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+      "text": "How the U.S. compares with the rest of the world on abortion rights",
+      "url": "https://www.pbs.org/newshour/politics/how-the-u-s-compares-with-the-rest-of-the-world-on-abortion-rights"
+    },
+    {
+      "text": "     ",
+      "url": "https://www.pbs.org/newshour/world/nato-signs-off-on-sweden-and-finlands-membership-bids"
+    },
+    {
+      "text": "World",
+      "url": "https://www.pbs.org/newshour/world"
+    },
+    {
+      "text": "NATO signs off on Sweden and Finland\u2019s membership bids",
+      "url": "https://www.pbs.org/newshour/world/nato-signs-off-on-sweden-and-finlands-membership-bids"
     },
     {
       "text": "     ",
@@ -2965,148 +3127,16 @@
       "url": "https://www.pbs.org/newshour/nation/shooting-reported-at-4th-of-july-parade-in-chicago-suburb-highland-park"
     },
     {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/politics/awaiting-trial-in-a-russian-prison-wnba-star-griner-sends-letter-to-biden-pleading-for-help"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
-    },
-    {
-      "text": "Awaiting trial in a Russian prison, WNBA star Griner sends letter to Biden pleading for help",
-      "url": "https://www.pbs.org/newshour/politics/awaiting-trial-in-a-russian-prison-wnba-star-griner-sends-letter-to-biden-pleading-for-help"
-    },
-    {
-      "text": "     Watch 8:52      ",
-      "url": "https://www.pbs.org/newshour/show/what-the-supreme-court-monumental-rulings-tell-us-about-the-new-conservative-majority"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
-    },
-    {
-      "text": "What the Supreme Court\u2019s monumental rulings tell us about the new conservative majority",
-      "url": "https://www.pbs.org/newshour/show/what-the-supreme-court-monumental-rulings-tell-us-about-the-new-conservative-majority"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/nation/watch-officials-provide-update-after-highland-park-july-4-parade-shooting"
+      "text": "     Watch 6:08      ",
+      "url": "https://www.pbs.org/newshour/show/gunman-kills-at-least-6-people-at-fourth-of-july-parade-outside-chicago"
     },
     {
       "text": "Nation",
       "url": "https://www.pbs.org/newshour/nation"
     },
     {
-      "text": "WATCH: Officials provide update after Highland Park July 4 parade shooting",
-      "url": "https://www.pbs.org/newshour/nation/watch-officials-provide-update-after-highland-park-july-4-parade-shooting"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/nation/watch-live-president-biden-delivers-remarks-at-july-4th-event-with-military-families"
-    },
-    {
-      "text": "Nation",
-      "url": "https://www.pbs.org/newshour/nation"
-    },
-    {
-      "text": "WATCH LIVE: President Biden delivers remarks at July 4th event with military families",
-      "url": "https://www.pbs.org/newshour/nation/watch-live-president-biden-delivers-remarks-at-july-4th-event-with-military-families"
-    },
-    {
-      "text": " World See all ",
-      "url": "https://www.pbs.org/newshour/world"
-    },
-    {
-      "text": "World",
-      "url": "https://www.pbs.org/newshour/world"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/world/copenhagen-mall-shooting-not-likely-terror-related-authorities-say"
-    },
-    {
-      "text": " Copenhagen mall shooting not likely terror-related, authorities say ",
-      "url": "https://www.pbs.org/newshour/world/copenhagen-mall-shooting-not-likely-terror-related-authorities-say"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/world/al-jazeera-broadcaster-killed-in-west-bank-was-shot-from-israeli-military-positions-u-s-officials-say"
-    },
-    {
-      "text": "Al Jazeera broadcaster killed in West Bank was shot from Israeli military positions, U.S. officials say",
-      "url": "https://www.pbs.org/newshour/world/al-jazeera-broadcaster-killed-in-west-bank-was-shot-from-israeli-military-positions-u-s-officials-say"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/world/search-continues-for-a-dozen-hikers-in-italian-glacier-avalanche-but-rain-hampering-efforts"
-    },
-    {
-      "text": "Search continues for a dozen hikers in Italian glacier avalanche, but rain hampering efforts",
-      "url": "https://www.pbs.org/newshour/world/search-continues-for-a-dozen-hikers-in-italian-glacier-avalanche-but-rain-hampering-efforts"
-    },
-    {
-      "text": " Health See all ",
-      "url": "https://www.pbs.org/newshour/health"
-    },
-    {
-      "text": "Nation",
-      "url": "https://www.pbs.org/newshour/nation"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/nation/funding-increases-for-abortion-related-causes-as-rage-giving-continues"
-    },
-    {
-      "text": " Funding increases for abortion-related causes as \u2018rage giving\u2019 continues ",
-      "url": "https://www.pbs.org/newshour/nation/funding-increases-for-abortion-related-causes-as-rage-giving-continues"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/politics/how-the-u-s-compares-with-the-rest-of-the-world-on-abortion-rights"
-    },
-    {
-      "text": "How the U.S. compares with the rest of the world on abortion rights",
-      "url": "https://www.pbs.org/newshour/politics/how-the-u-s-compares-with-the-rest-of-the-world-on-abortion-rights"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/health/african-officials-treating-monkeypox-spread-as-an-emergency-call-for-equitable-vaccine-distribution"
-    },
-    {
-      "text": "African officials treating monkeypox spread as an emergency, call for equitable vaccine distribution",
-      "url": "https://www.pbs.org/newshour/health/african-officials-treating-monkeypox-spread-as-an-emergency-call-for-equitable-vaccine-distribution"
-    },
-    {
-      "text": " Politics See all ",
-      "url": "https://www.pbs.org/newshour/politics"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.pbs.org/newshour/politics"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/politics/awaiting-trial-in-a-russian-prison-wnba-star-griner-sends-letter-to-biden-pleading-for-help"
-    },
-    {
-      "text": " Awaiting trial in a Russian prison, WNBA star Griner sends letter to Biden pleading for help ",
-      "url": "https://www.pbs.org/newshour/politics/awaiting-trial-in-a-russian-prison-wnba-star-griner-sends-letter-to-biden-pleading-for-help"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/politics/jan-6-committee-member-says-new-evidence-against-trump-in-july-hearings"
-    },
-    {
-      "text": "Jan. 6 committee member says new evidence against Trump coming in July hearings",
-      "url": "https://www.pbs.org/newshour/politics/jan-6-committee-member-says-new-evidence-against-trump-in-july-hearings"
-    },
-    {
-      "text": "     ",
-      "url": "https://www.pbs.org/newshour/world/putin-declares-victory-in-eastern-ukrainian-region-of-luhansk"
-    },
-    {
-      "text": "Putin declares victory in eastern Ukrainian region of Luhansk",
-      "url": "https://www.pbs.org/newshour/world/putin-declares-victory-in-eastern-ukrainian-region-of-luhansk"
+      "text": "What we know about the Highland Park mass shooting",
+      "url": "https://www.pbs.org/newshour/show/gunman-kills-at-least-6-people-at-fourth-of-july-parade-outside-chicago"
     },
     {
       "text": "\n                    \n                    PBS NewsHour\n                ",
@@ -3234,7 +3264,7 @@
     }
   ],
   "server": "ia902505.us.archive.org",
-  "uniq": 1832658299,
+  "uniq": 959629679,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"

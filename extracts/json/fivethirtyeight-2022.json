@@ -1,5 +1,5 @@
 {
-  "created": 1657022891,
+  "created": 1657067794,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -2472,31 +2472,73 @@
       "sha1": "d2080c0abee425bc865080f3ab5358a2da99a96f"
     },
     {
+      "name": "fivethirtyeight-2022-07-05T09:20:19.790074-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657027223",
+      "size": "19318",
+      "md5": "b6b0cfda196fee562c1fbe61fc85658c",
+      "crc32": "3a5d0dae",
+      "sha1": "a5a1a81d3db8ff49629686be866a2522ce085451",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-05T09:20:19.790074-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657027225",
+      "size": "21641",
+      "md5": "8a3786c885852db044f22cb11acec23b",
+      "crc32": "0c51e4db",
+      "sha1": "e294f7f1b1e6cd9dd5cfc8dd2f85ab8c6a6ec901",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-05T09:20:19.790074-04:00.jpg",
+      "source": "original",
+      "mtime": "1657027222",
+      "size": "249442",
+      "md5": "0f42bd56cb0dc463b3b6dbbea1a4dd1e",
+      "crc32": "549bc07c",
+      "sha1": "0481ab9600c81aed6d3b88beeb8a78fbc023231a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-05T09:20:19.790074-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-07-05T09:20:19.790074-04:00.jpg",
+      "mtime": "1657027301",
+      "size": "8952",
+      "md5": "e335e20153bccb8ac6b7dee8aeca85ae",
+      "crc32": "57dfad23",
+      "sha1": "41cec472ab3aefd3476cea691b995fb4421b5155"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "144dfb88f92c29a2e700465cefdaf29e71989f46",
-      "mtime": "1656981527",
-      "size": "52536",
-      "md5": "dd01beef3f2b068e68177a827ddc878f",
-      "crc32": "a7d170fd",
-      "sha1": "39d655b1bc232663e5ea61b1575cc32a768cbd8e",
+      "btih": "4ef29558edbd74cd49364c792ddb045f43100b21",
+      "mtime": "1657027349",
+      "size": "53393",
+      "md5": "3b1c26154701928e0926e0760c6af92e",
+      "crc32": "60cd931e",
+      "sha1": "45e83611f9275f510b4b7c38c8759cafa06332f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "12071969cc6fc88dd8162d62c316da09",
+      "md5": "2c73c4492845184867b9b763381a6971",
       "summation": "md5"
     },
     {
       "name": "fivethirtyeight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656981481",
-      "size": "290816",
-      "md5": "f061b2f27995e55e9d662e9027e689b7",
-      "crc32": "40e545a7",
-      "sha1": "b4aeed90d104da60394dcc898bbd71b9374928ac",
+      "mtime": "1657027229",
+      "size": "299008",
+      "md5": "829b3732cdfa5a1f54ebf9ffb553c8a8",
+      "crc32": "5411600b",
+      "sha1": "46fb9343ca08dbba9b7a90fd64fe9285e1996210",
       "format": "Metadata"
     },
     {
@@ -2510,7 +2552,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 239,
+  "files_count": 243,
   "fivethirtyeight-2022": [
     {
       "text": "Skip to main content",
@@ -2554,15 +2596,51 @@
     },
     {
       "text": "\n",
-      "url": "https://projects.fivethirtyeight.com/2022-election-forecast/"
+      "url": "https://fivethirtyeight.com/features/what-do-older-progressive-voters-want/"
+    },
+    {
+      "text": "Political Outliers",
+      "url": "https://fivethirtyeight.com/tag/political-outliers/"
+    },
+    {
+      "text": "\n\t\t\t\t\tWhat Do Older Progressive Voters Want?\t\t\t",
+      "url": "https://fivethirtyeight.com/features/what-do-older-progressive-voters-want/"
+    },
+    {
+      "text": "Alex Samuels",
+      "url": "https://fivethirtyeight.com/contributors/alex-samuels/"
     },
     {
       "text": "2022 Election Forecast",
       "url": "https://fivethirtyeight.com/tag/2022-election-forecast/"
     },
     {
-      "text": "\n\t\t\t\t\t2022 Election Forecast\t\t\t",
+      "text": "\n\t\t\t\t\t\t2022 Election Forecast\t\t\t\t\t",
       "url": "https://projects.fivethirtyeight.com/2022-election-forecast/"
+    },
+    {
+      "text": "\n",
+      "url": "https://projects.fivethirtyeight.com/2022-election-forecast/"
+    },
+    {
+      "text": "Tennis",
+      "url": "https://fivethirtyeight.com/tag/tennis/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tOutdoor Tennis Could Be Sports\u2019 First Big Climate Change Casualty\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/outdoor-tennis-could-be-sports-first-big-climate-change-casualty/"
+    },
+    {
+      "text": "Jonathon Braden",
+      "url": "https://fivethirtyeight.com/contributors/jonathon-braden/"
+    },
+    {
+      "text": "Matt Fitzpatrick",
+      "url": "https://fivethirtyeight.com/contributors/matt-fitzpatrick/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/outdoor-tennis-could-be-sports-first-big-climate-change-casualty/"
     },
     {
       "text": "MLB",
@@ -2581,32 +2659,12 @@
       "url": "https://fivethirtyeight.com/features/the-toronto-blue-jays-stars-havent-delivered-but-an-unsung-hero-is-picking-up-the-slack/"
     },
     {
-      "text": "2022 Election",
-      "url": "https://fivethirtyeight.com/tag/2022-election/"
+      "text": "\n\t\t\tOutdoor Tennis Could Be Sports\u2019 First Big Climate Change Casualty\t\t",
+      "url": "https://fivethirtyeight.com/features/outdoor-tennis-could-be-sports-first-big-climate-change-casualty/"
     },
     {
-      "text": "\n\t\t\t\t\t\tEvan McMullin Is Not A Democrat. Utah Democrats Are Supporting His Senate Campaign Anyway.\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/videos/evan-mcmullin-is-not-a-democrat-utah-democrats-are-supporting-his-senate-campaign-anyway/"
-    },
-    {
-      "text": "Michael Tabb",
-      "url": "https://fivethirtyeight.com/contributors/michael-tabb/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
-      "url": "https://fivethirtyeight.com/videos/evan-mcmullin-is-not-a-democrat-utah-democrats-are-supporting-his-senate-campaign-anyway/?cid=rrfeaturedvideo"
-    },
-    {
-      "text": "Contracts",
-      "url": "https://fivethirtyeight.com/tag/contracts/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tThe Bobby Bonilla Retirement Plan: Quit Baseball In 2001, Get Paid Until 2035\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/videos/the-bobby-bonilla-retirement-plan-quit-baseball-in-2001-get-paid-until-2035/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
-      "url": "https://fivethirtyeight.com/videos/the-bobby-bonilla-retirement-plan-quit-baseball-in-2001-get-paid-until-2035/?cid=rrfeaturedvideo"
+      "text": "\n\t\t\tWhat Do Older Progressive Voters Want?\t\t",
+      "url": "https://fivethirtyeight.com/features/what-do-older-progressive-voters-want/"
     },
     {
       "text": "\n\t\t\tThe Toronto Blue Jays\u2019 Stars Haven\u2019t Delivered \u2014 But An Unsung Hero Is Picking Up The Slack\t\t",
@@ -2633,16 +2691,36 @@
       "url": "https://fivethirtyeight.com/features/why-republicans-are-favored-to-win-the-house-but-not-the-senate/"
     },
     {
-      "text": "\n\t\t\tPolitics Podcast: Why The 2022 Forecast Suggests The Senate Is A Toss-Up\t\t",
-      "url": "https://fivethirtyeight.com/features/politics-podcast-why-the-2022-forecast-suggests-the-senate-is-a-toss-up/"
-    },
-    {
-      "text": "\n\t\t\t2022 Election Forecast\t\t",
-      "url": "https://projects.fivethirtyeight.com/2022-election-forecast/"
-    },
-    {
       "text": "All stories",
       "url": "https://fivethirtyeight.com/features/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/evan-mcmullin-is-not-a-democrat-utah-democrats-are-supporting-his-senate-campaign-anyway/?cid=rrfeaturedvideo"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://fivethirtyeight.com/tag/2022-election/"
+    },
+    {
+      "text": "\n\t\t\t\t\tEvan McMullin Is Not A Democrat. Utah Democrats Are Supporting His Senate Campaign Anyway.\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/evan-mcmullin-is-not-a-democrat-utah-democrats-are-supporting-his-senate-campaign-anyway/"
+    },
+    {
+      "text": "Michael Tabb",
+      "url": "https://fivethirtyeight.com/contributors/michael-tabb/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/the-bobby-bonilla-retirement-plan-quit-baseball-in-2001-get-paid-until-2035/?cid=rrfeaturedvideo"
+    },
+    {
+      "text": "Contracts",
+      "url": "https://fivethirtyeight.com/tag/contracts/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThe Bobby Bonilla Retirement Plan: Quit Baseball In 2001, Get Paid Until 2035\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/the-bobby-bonilla-retirement-plan-quit-baseball-in-2001-get-paid-until-2035/"
     },
     {
       "text": "\n",
@@ -2773,64 +2851,20 @@
       "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
     },
     {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/college-athletes-suffered-when-schools-werent-ready-for-nil/"
-    },
-    {
-      "text": "NCAA",
-      "url": "https://fivethirtyeight.com/tag/ncaa/"
-    },
-    {
-      "text": "\n\t\t\t\t\tCollege Athletes Suffered When Schools Weren\u2019t Ready For NIL\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/college-athletes-suffered-when-schools-werent-ready-for-nil/"
-    },
-    {
-      "text": "Josh Planos",
-      "url": "https://fivethirtyeight.com/contributors/josh-planos/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/where-the-midterms-could-most-affect-abortion-access/"
+      "text": "More >",
+      "url": "https://fivethirtyeight.com/features/"
     },
     {
       "text": "2022 Election",
       "url": "https://fivethirtyeight.com/tag/2022-election/"
     },
     {
-      "text": "\n\t\t\t\t\tWhere The Midterms Could Most Affect Abortion Access\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/where-the-midterms-could-most-affect-abortion-access/"
+      "text": "Evan McMullin Is Not A Democrat. Utah Democrats Are Supporting His Senate Campaign Anyway.",
+      "url": "https://fivethirtyeight.com/videos/evan-mcmullin-is-not-a-democrat-utah-democrats-are-supporting-his-senate-campaign-anyway/"
     },
     {
-      "text": "Nathaniel Rakich",
-      "url": "https://fivethirtyeight.com/contributors/nathaniel-rakich/"
-    },
-    {
-      "text": "Geoffrey Skelley",
-      "url": "https://fivethirtyeight.com/contributors/geoffrey-skelley/"
-    },
-    {
-      "text": "Amelia Thomson-DeVeaux",
-      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
-    },
-    {
-      "text": "More >",
-      "url": "https://fivethirtyeight.com/features/"
-    },
-    {
-      "text": "Supreme Court",
-      "url": "https://fivethirtyeight.com/tag/supreme-court/"
-    },
-    {
-      "text": "The Supreme Court Dealt A Big Blow To The Separation Of Church And State",
-      "url": "https://fivethirtyeight.com/videos/the-supreme-court-dealt-a-big-blow-to-the-separation-of-church-and-state/"
-    },
-    {
-      "text": "Amelia Thomson-DeVeaux",
-      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
-    },
-    {
-      "text": "Anna Rothschild",
-      "url": "https://fivethirtyeight.com/contributors/anna-rothschild/"
+      "text": "Michael Tabb",
+      "url": "https://fivethirtyeight.com/contributors/michael-tabb/"
     },
     {
       "text": "Subscribe on YouTube",
@@ -2857,52 +2891,52 @@
       "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
     },
     {
-      "text": "Taonga: The Island Farm",
-      "url": "https://taongafarm.com/en/landings/gp/28?ref=W_170122_US_Click_Video_WL&mng=VK&utm_source=taboola&utm_campaign=W_170122_US_Click_Video_WL&utm_term=1184468_abcnews-fivethirtyeight&utm_content=3112418940#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yDJpEcomsHV4oP6qIPaAQ&cid=referral_taboola_paid"
+      "text": "Fisher Investments",
+      "url": "https://www.fisherinvestments.com/en-us/campaigns/dgri/lc?country=US&PC=TABBY55E99&CC=KZ8B&taclid=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD_vD0o2b6S7sXQ-Mp_&alleycode=LC&utm_source=Taboola&utm_medium=Native&utm_campaign=TrueRON_Desktop_tCPA&utm_term=abcnews-fivethirtyeight&utm_content=How+Long+Does+%241+Million+Last+After+60%3F&tblci=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD_vD0o2b6S7sXQ-Mp_#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD_vD0o2b6S7sXQ-Mp_&cid=referral_taboola_paid"
     },
     {
-      "text": "Taonga: The Island FarmThe most relaxing farm game of 2022. No Install",
-      "url": "https://taongafarm.com/en/landings/gp/28?ref=W_170122_US_Click_Video_WL&mng=VK&utm_source=taboola&utm_campaign=W_170122_US_Click_Video_WL&utm_term=1184468_abcnews-fivethirtyeight&utm_content=3112418940#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yDJpEcomsHV4oP6qIPaAQ&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Starscope",
-      "url": "https://lmzzi.rdtk.io/61855069c87ae10001ac78ea?sub1=abcnews-fivethirtyeight&sub2=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Ff240b02123f58b98a5e306d737781779.png&sub3=Why+Is+this+%2447+Monocular+Better+than+%243000+Telescopes%3F&sub4=2022-07-05+00%3A29%3A19&sub5=Desktop&sub6=13758907&sub7=3048077541&sub8=1184468&ref_id=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yChp1Yo5sOy8e2nj4o5&utm_source=taboola&utm_medium=referral#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yChp1Yo5sOy8e2nj4o5&cid=referral_taboola_paid"
-    },
-    {
-      "text": "StarscopeWhy Is this $47 Monocular Better than $3000 Telescopes?",
-      "url": "https://lmzzi.rdtk.io/61855069c87ae10001ac78ea?sub1=abcnews-fivethirtyeight&sub2=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Ff240b02123f58b98a5e306d737781779.png&sub3=Why+Is+this+%2447+Monocular+Better+than+%243000+Telescopes%3F&sub4=2022-07-05+00%3A29%3A19&sub5=Desktop&sub6=13758907&sub7=3048077541&sub8=1184468&ref_id=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yChp1Yo5sOy8e2nj4o5&utm_source=taboola&utm_medium=referral#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yChp1Yo5sOy8e2nj4o5&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Las Vegas Vacations",
-      "url": "https://bestsearches.net/index.php?rgid=315767&utm_source=taboola&utm_medium=referral&gclid=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yDP51coi4ny98CLrL3tAQ#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yDP51coi4ny98CLrL3tAQ&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Las Vegas VacationsLas Vegas Vacation Deals: Packages, Hotels, Flights & More. Top Discounts",
-      "url": "https://bestsearches.net/index.php?rgid=315767&utm_source=taboola&utm_medium=referral&gclid=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yDP51coi4ny98CLrL3tAQ#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yDP51coi4ny98CLrL3tAQ&cid=referral_taboola_paid"
+      "text": "Fisher InvestmentsHow Long Does $1 Million Last After 60?",
+      "url": "https://www.fisherinvestments.com/en-us/campaigns/dgri/lc?country=US&PC=TABBY55E99&CC=KZ8B&taclid=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD_vD0o2b6S7sXQ-Mp_&alleycode=LC&utm_source=Taboola&utm_medium=Native&utm_campaign=TrueRON_Desktop_tCPA&utm_term=abcnews-fivethirtyeight&utm_content=How+Long+Does+%241+Million+Last+After+60%3F&tblci=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD_vD0o2b6S7sXQ-Mp_#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD_vD0o2b6S7sXQ-Mp_&cid=referral_taboola_paid"
     },
     {
       "text": "Online Shopping Tools",
-      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=abcnews-fivethirtyeight&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278718&campaign=19603838&click_id=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD-_lMo6tCo-MjjoI3XAQ&tblci=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD-_lMo6tCo-MjjoI3XAQ#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD-_lMo6tCo-MjjoI3XAQ&cid=referral_taboola_paid"
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=abcnews-fivethirtyeight&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F82d9c53bbf7c7cbae71fcd740faa5915.jpg&campaign_name=6H_Desktop_Top94&utm_content=3440156318&campaign=19603838&click_id=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD-_lMoyIS-3OXa2ZVZ&tblci=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD-_lMoyIS-3OXa2ZVZ#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD-_lMoyIS-3OXa2ZVZ&cid=referral_taboola_paid"
     },
     {
       "text": "Online Shopping ToolsAmazon Left Scrambling As Shoppers Find Out About Secret Deals",
-      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=abcnews-fivethirtyeight&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278718&campaign=19603838&click_id=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD-_lMo6tCo-MjjoI3XAQ&tblci=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD-_lMo6tCo-MjjoI3XAQ#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD-_lMo6tCo-MjjoI3XAQ&cid=referral_taboola_paid"
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=abcnews-fivethirtyeight&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F82d9c53bbf7c7cbae71fcd740faa5915.jpg&campaign_name=6H_Desktop_Top94&utm_content=3440156318&campaign=19603838&click_id=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD-_lMoyIS-3OXa2ZVZ&tblci=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD-_lMoyIS-3OXa2ZVZ#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yD-_lMoyIS-3OXa2ZVZ&cid=referral_taboola_paid"
     },
     {
-      "text": "Wolf &amp; Shepherd",
-      "url": "https://wolfandshepherd.com/pages/home?utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_VTgronkd_broad_home_desc&tblci=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yCrhEEoqYKmmfyVisTsAQ#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yCrhEEoqYKmmfyVisTsAQ&cid=referral_taboola_paid"
+      "text": "NerdWallet NMLS ID# 1617539",
+      "url": "https://www.nerdwallet.com/ur/?utm_content=991b6a&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=abcnews-fivethirtyeight&mktg_link=3136941465#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yCpiEEogcCKn535hMRS&cid=referral_taboola_paid"
     },
     {
-      "text": "Wolf & ShepherdNFL Star Rob Gronkowski Loves These Shoes",
-      "url": "https://wolfandshepherd.com/pages/home?utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_VTgronkd_broad_home_desc&tblci=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yCrhEEoqYKmmfyVisTsAQ#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yCrhEEoqYKmmfyVisTsAQ&cid=referral_taboola_paid"
+      "text": "NerdWallet NMLS ID# 1617539Iowa: Discover great mortgage rates in 2022",
+      "url": "https://www.nerdwallet.com/ur/?utm_content=991b6a&nw_campaign_id=636865&utm_medium=ntv&utm_source=tb&utm_campaign=mr_mktg_paid_020422_ron_d_tb&utm_term=abcnews-fivethirtyeight&mktg_link=3136941465#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yCpiEEogcCKn535hMRS&cid=referral_taboola_paid"
     },
     {
-      "text": "Grammarly",
-      "url": "https://www.grammarly.com/?utm_source=taboola&utm_campaign=NAABTestDesktop&utm_medium=cpc&utm_content=abcnews-fivethirtyeight&utm_placement=Desktop&tblci=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD67j4okqCinbXVuq65AQ#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD67j4okqCinbXVuq65AQ&cid=referral_taboola_paid"
+      "text": "Taonga: The Island Farm",
+      "url": "https://taongafarm.com/en/landings/gp/28?ref=W_170122_US_Click_Video_WL&mng=VK&utm_source=taboola&utm_campaign=W_170122_US_Click_Video_WL&utm_term=1184468_abcnews-fivethirtyeight&utm_content=3112418940#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDJpEcolsDcys7F8IjYAQ&cid=referral_taboola_paid"
     },
     {
-      "text": "GrammarlyAvoid Writing Mistakes With This Desktop App",
-      "url": "https://www.grammarly.com/?utm_source=taboola&utm_campaign=NAABTestDesktop&utm_medium=cpc&utm_content=abcnews-fivethirtyeight&utm_placement=Desktop&tblci=GiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD67j4okqCinbXVuq65AQ#tblciGiC2Vb1DzwxRP_AkOeC_LJgqF16OBspF8T2Qh5tl1WJe7yD67j4okqCinbXVuq65AQ&cid=referral_taboola_paid"
+      "text": "Taonga: The Island FarmThe most relaxing farm game of 2022. No Install",
+      "url": "https://taongafarm.com/en/landings/gp/28?ref=W_170122_US_Click_Video_WL&mng=VK&utm_source=taboola&utm_campaign=W_170122_US_Click_Video_WL&utm_term=1184468_abcnews-fivethirtyeight&utm_content=3112418940#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDJpEcolsDcys7F8IjYAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "2022 SUV Guide | Search Ads",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDO51co6Zju96K1zvVe#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDO51co6Zju96K1zvVe&cid=referral_taboola_paid"
+    },
+    {
+      "text": "2022 SUV Guide | Search AdsThe Future Of Hybrid & Electric SUVs Is Here, See 2022's Top Models",
+      "url": "https://bestsearches.net/index.php?rgid=233508&utm_source=taboola&utm_medium=referral&gclid=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDO51co6Zju96K1zvVe#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDO51co6Zju96K1zvVe&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Forge Of Empires",
+      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_us_us_wl_broad&external_param=3008480516&pid=abcnews-fivethirtyeight&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDJqD8o74zqo9mE7d2OAQ#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDJqD8o74zqo9mE7d2OAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Forge Of EmpiresIf You Spend Time on Your Computer, this Vintage Game is a Must-Have. No Install.",
+      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_us_us_wl_broad&external_param=3008480516&pid=abcnews-fivethirtyeight&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDJqD8o74zqo9mE7d2OAQ#tblciGiCrCBFHAdKet-6vROp93lHAU7msR5Oz5LUwPoGpcM3Y7yDJqD8o74zqo9mE7d2OAQ&cid=referral_taboola_paid"
     },
     {
       "text": "See all newsletters",
@@ -3025,8 +3059,8 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "item_last_updated": 1656981527,
-  "item_size": 18542996,
+  "item_last_updated": 1657027349,
+  "item_size": 18851398,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -3044,7 +3078,7 @@
     "addeddate": "2022-06-19 23:24:21"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 697736112,
+  "uniq": 2066875087,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

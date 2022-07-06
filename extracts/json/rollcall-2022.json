@@ -1,5 +1,5 @@
 {
-  "created": 1657023370,
+  "created": 1657068115,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -100,31 +100,73 @@
       "sha1": "05ba91adfb5b88e987a3dfbe8edff9fc5102e48c"
     },
     {
+      "name": "rollcall-2022-07-05T12:02:05.664283-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657036930",
+      "size": "37745",
+      "md5": "78c6d5073e1eea58d22b4c0a93e9b00c",
+      "crc32": "d1187d32",
+      "sha1": "22f295df7b51cdc814a866cb20872bbe22eb64b9",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-07-05T12:02:05.664283-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657036932",
+      "size": "27399",
+      "md5": "34c60e5702642cee1d166f7a0c6a052e",
+      "crc32": "688354d5",
+      "sha1": "36832af459788e279c164bbb350a99f1795c5d44",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-07-05T12:02:05.664283-04:00.jpg",
+      "source": "original",
+      "mtime": "1657036928",
+      "size": "242860",
+      "md5": "e0b727bef226f92723664aa6fcb2f65c",
+      "crc32": "8cb6d59a",
+      "sha1": "1ec2c1530c8dd7d65ba6e259eb887ad6f6cb065e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollcall-2022-07-05T12:02:05.664283-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollcall-2022-07-05T12:02:05.664283-04:00.jpg",
+      "mtime": "1657037262",
+      "size": "10335",
+      "md5": "f08f405c75e6214d64e87400316a2318",
+      "crc32": "3ec3e749",
+      "sha1": "ebbbd39f310696db54ee6929ff2f799ecbebbebe"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5df1d22d45ad55d6a997fd2568e2061ca5cf237",
-      "mtime": "1656990887",
-      "size": "3306",
-      "md5": "c16b5666eb6b9e2a1d5964f6b69063cb",
-      "crc32": "c6c50437",
-      "sha1": "4270b22bdc045a1f74466744e4bf03cc305db4a5",
+      "btih": "f83aeb372cfa6cc8237aacc3615de76aaf7ac29d",
+      "mtime": "1657037294",
+      "size": "4136",
+      "md5": "1447efe20862b6bcd2128308b9b27321",
+      "crc32": "d0015a61",
+      "sha1": "754eb9d8360655578fe7298a7e344cf2be3a3d2e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04eab836e2585cc5610acfff00c66531",
+      "md5": "e8b322ee32d10006ad4c629f0315e9da",
       "summation": "md5"
     },
     {
       "name": "rollcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1656990842",
-      "size": "28672",
-      "md5": "f9a2f0d2bebfe81ec6989024be4bf67e",
-      "crc32": "e7d06437",
-      "sha1": "3e4e8adad64a6596c4f2216b5702282aebc9748d",
+      "mtime": "1657037009",
+      "size": "32768",
+      "md5": "9b41ce8b6f17544ad1ff835e7b31c81c",
+      "crc32": "fa3c4431",
+      "sha1": "be997daadf293de761befaa745f8ae760413a949",
       "format": "Metadata"
     },
     {
@@ -138,9 +180,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 13,
-  "item_last_updated": 1656990887,
-  "item_size": 694442,
+  "files_count": 17,
+  "item_last_updated": 1657037294,
+  "item_size": 1017707,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -1088,7 +1130,7 @@
     }
   ],
   "server": "ia801407.us.archive.org",
-  "uniq": 171359518,
+  "uniq": 139561617,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"
