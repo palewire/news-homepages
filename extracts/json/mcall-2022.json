@@ -1,5 +1,5 @@
 {
-  "created": 1657067986,
+  "created": 1657109570,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/23/items/mcall-2022",
@@ -1546,31 +1546,73 @@
       "sha1": "3c26558f5fea84176550a416b014eb5079a1d403"
     },
     {
+      "name": "mcall-2022-07-05T22:03:57.701291-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657073044",
+      "size": "74344",
+      "md5": "108d67ae60639b0b76dec07b700633a7",
+      "crc32": "1ac2e171",
+      "sha1": "36f5b686fdc5cae0edb08dd4fd13a19db45708e6",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-07-05T22:03:57.701291-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657073046",
+      "size": "90175",
+      "md5": "69865fcc71c2fb552e031810f6c70d2c",
+      "crc32": "6930e3b0",
+      "sha1": "42ba74634767a79341cd7dab7c20bdb442f80711",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-07-05T22:03:57.701291-04:00.jpg",
+      "source": "original",
+      "mtime": "1657073039",
+      "size": "294711",
+      "md5": "a354ef73c86020ecb68e7a0f59f8bf84",
+      "crc32": "651d8807",
+      "sha1": "f3d25377dab4311478f1d2cca8264f1f809621b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcall-2022-07-05T22:03:57.701291-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcall-2022-07-05T22:03:57.701291-04:00.jpg",
+      "mtime": "1657073243",
+      "size": "9491",
+      "md5": "fc37112db8d4bc5a3768660bf95f3736",
+      "crc32": "32c26b2e",
+      "sha1": "aa1b2c13bdf9ca9cb6d43e0cdc33f5d599a09c90"
+    },
+    {
       "name": "mcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "85cc7f9c617e7e2898ec2be5aa6a53d024081671",
-      "mtime": "1657032612",
-      "size": "32033",
-      "md5": "609e40926b1f8ad1cf3589540ed5cb5f",
-      "crc32": "6e6c62f3",
-      "sha1": "8ac60755092f2dbf38ee4d9f8f53395f76359953",
+      "btih": "f33ac0768437b1ea90b70f762edf32949d474d86",
+      "mtime": "1657073248",
+      "size": "32870",
+      "md5": "8408e4794714779cc1a45c6c2e913eb8",
+      "crc32": "be3409dc",
+      "sha1": "0ae67b24895a91fdee5534205aa182daffb03c4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb2d3ef57e13f4b2a0b0b4bf78c1530c",
+      "md5": "7755a05d206dae00169ed838041e8991",
       "summation": "md5"
     },
     {
       "name": "mcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657032522",
-      "size": "188416",
-      "md5": "abd0cd766f2c4e161b51768f8dd267b0",
-      "crc32": "35588afe",
-      "sha1": "50f757c048ca66c9d544851621b1a18076d2f569",
+      "mtime": "1657073134",
+      "size": "196608",
+      "md5": "e9bea9fb00acb57ba8324a40a343c321",
+      "crc32": "b259d172",
+      "sha1": "bdfc66e3e73e5489f0d8276afca6df3fccb8fa93",
       "format": "Metadata"
     },
     {
@@ -1584,9 +1626,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 151,
-  "item_last_updated": 1657032612,
-  "item_size": 15450881,
+  "files_count": 155,
+  "item_last_updated": 1657073248,
+  "item_size": 15928631,
   "mcall-2022": [
     {
       "text": "Skip to content",
@@ -1669,7 +1711,7 @@
       "url": "https://subscription.mcall.com/MTRDigitalLJ?Ofrgp_ID=5779&g2i_or_o=DI&g2i_or_p=EARS&siteCode=800&g2i_or_os=MCJ422&int=amc_digitaladshouse_foj-sale-2022_acquisition-subscriber_arc_image_ears"
     },
     {
-      "text": "  79\u00b0F ",
+      "text": "  73\u00b0F ",
       "url": "/news/weather#nt=masthead-weather"
     },
     {
@@ -1677,12 +1719,12 @@
       "url": "/news/breaking/#nt=trendingbar"
     },
     {
-      "text": "Fireworks",
-      "url": "/holidays/mc-ent-fourth-of-july-fireworks-events-2022-20220627-cubcyqvsavhvpneo2jvzbltf44-story.html#nt=trendingbar"
+      "text": "Weather",
+      "url": "/news/weather/#nt=trendingbar"
     },
     {
-      "text": "Graduation",
-      "url": "/news/local/graduation/#nt=trendingbar"
+      "text": "Dining",
+      "url": "/entertainment/food-drink/#nt=trendingbar"
     },
     {
       "text": "E-Newspaper",
@@ -1697,48 +1739,140 @@
       "url": "https://fun.mcall.com/#ed=trendingbar"
     },
     {
+      "text": " Police & Courts ",
+      "url": "https://www.mcall.com/news/police/#nt=taxonomy-article"
+    },
+    {
+      "text": "Former Easton Area High School wrestling coach awarded $250,000 in discrimination suit against school district",
+      "url": "/news/police/mc-nws-billman-verdict-20220705-d6m3s7qj3fc7vdhwusk4cxr3l4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-centerpiece~D6M3S7QJ3FC7VDHWUSK4CXR3L4~1~1~1~14~art yes"
+    },
+    {
+      "text": "  ",
+      "url": "/news/police/mc-nws-billman-verdict-20220705-d6m3s7qj3fc7vdhwusk4cxr3l4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-centerpiece~D6M3S7QJ3FC7VDHWUSK4CXR3L4~1~1~1~14~art yes"
+    },
+    {
+      "text": " Police & Courts ",
+      "url": "https://www.mcall.com/news/police/#nt=taxonomy-article"
+    },
+    {
+      "text": "Former Easton Area High School wrestling coach awarded $250,000 in discrimination suit against school district",
+      "url": "/news/police/mc-nws-billman-verdict-20220705-d6m3s7qj3fc7vdhwusk4cxr3l4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-centerpiece~D6M3S7QJ3FC7VDHWUSK4CXR3L4~1~1~1~14~art yes"
+    },
+    {
+      "text": "Daniel Patrick Sheehan",
+      "url": "/mc-bio-daniel-patrick-sheehan-staff.html#nt=byline"
+    },
+    {
+      "text": "  ",
+      "url": "/news/local/allentown/mc-nws-allentown-toddler-drowns-county-coroner-report-20220705-e2ri7fdz3vdivd5zrsf26hnc6i-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-crash~E2RI7FDZ3VDIVD5ZRSF26HNC6I~1~2~2~14~art yes"
+    },
+    {
+      "text": " Allentown News ",
+      "url": "https://www.mcall.com/news/local/allentown/#nt=taxonomy-article"
+    },
+    {
+      "text": "Allentown toddler drowns over Fourth of July holiday",
+      "url": "/news/local/allentown/mc-nws-allentown-toddler-drowns-county-coroner-report-20220705-e2ri7fdz3vdivd5zrsf26hnc6i-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-crash~E2RI7FDZ3VDIVD5ZRSF26HNC6I~1~2~2~14~art yes"
+    },
+    {
+      "text": "Leif Greiss",
+      "url": "/leif-greiss-staff.html#nt=byline"
+    },
+    {
+      "text": "North Catasauqua man dies nearly a month after being injured in motorcycle crash",
+      "url": "https://www.mcall.com/news/police/mc-nws-north-catasauqua-motorcyclist-death-20220705-lox6topxmrdzlnkdp4tswxzmki-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-crash~E2RI7FDZ3VDIVD5ZRSF26HNC6I~2~2~2~14~art no"
+    },
+    {
+      "text": "  ",
+      "url": "/business/retail-watch/mc-biz-nonprofit-coffee-company-opening-second-lehigh-valley-location-20220705-fkvfv2bvmjannk32le5i4wgiwi-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-retail~FKVFV2BVMJANNK32LE5I4WGIWI~1~1~3~14~art yes"
+    },
+    {
+      "text": " Retail Watch ",
+      "url": "https://www.mcall.com/business/retail-watch/#nt=taxonomy-article"
+    },
+    {
+      "text": "Nonprofit coffee company, employing people with special needs, to open second Lehigh Valley location alongside new florist",
+      "url": "/business/retail-watch/mc-biz-nonprofit-coffee-company-opening-second-lehigh-valley-location-20220705-fkvfv2bvmjannk32le5i4wgiwi-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-retail~FKVFV2BVMJANNK32LE5I4WGIWI~1~1~3~14~art yes"
+    },
+    {
+      "text": "Ryan Kneller",
+      "url": "/mc-bio-ryan-kneller-staff.html#nt=byline"
+    },
+    {
+      "text": "  ",
+      "url": "/news/local/mc-nws-cosmo-dinardo-killings-remembered-20220705-3kv6u2rk5bf3dnnil7uozqdznm-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-dinardo~3KV6U2RK5BF3DNNIL7UOZQDZNM~1~2~4~14~art yes"
+    },
+    {
+      "text": " Lehigh Valley News ",
+      "url": "https://www.mcall.com/news/local/#nt=taxonomy-article"
+    },
+    {
+      "text": "Five years after Cosmo DiNardo, Sean Kratz killing spree, inside the investigation of the four \u2018lost boys of Bucks County\u2019",
+      "url": "/news/local/mc-nws-cosmo-dinardo-killings-remembered-20220705-3kv6u2rk5bf3dnnil7uozqdznm-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-dinardo~3KV6U2RK5BF3DNNIL7UOZQDZNM~1~2~4~14~art yes"
+    },
+    {
+      "text": "From the archives: Families recall horror of Cosmo DiNardo's killing of four young men in Bucks County",
+      "url": "https://www.mcall.com/news/pennsylvania/mc-nws-bucks-dinardo-victims-remember-20180721-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-dinardo~3KV6U2RK5BF3DNNIL7UOZQDZNM~2~2~4~14~art no"
+    },
+    {
+      "text": "  ",
+      "url": "/news/nation-world/ct-highland-park-shooting-day-after-20220705-2bfeprry5vckpjhugmn5oiuaj4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-paradeshooting~2BFEPRRY5VCKPJHUGMN5OIUAJ4~1~1~5~14~art yes"
+    },
+    {
+      "text": " Nation/World ",
+      "url": "https://www.mcall.com/news/nation-world/#nt=taxonomy-article"
+    },
+    {
+      "text": "Suspect in Fourth of July parade shooting in Chicago suburb planned attack for weeks before firing more than 70 rounds while wearing women\u2019s clothing, police say",
+      "url": "/news/nation-world/ct-highland-park-shooting-day-after-20220705-2bfeprry5vckpjhugmn5oiuaj4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-paradeshooting~2BFEPRRY5VCKPJHUGMN5OIUAJ4~1~1~5~14~art yes"
+    },
+    {
+      "text": "Madeline Buckley",
+      "url": "/ct-madeline-buckley-staff.html#nt=byline"
+    },
+    {
+      "text": "John Keilman",
+      "url": "/chi-john-keilman-staff.html#nt=byline"
+    },
+    {
+      "text": "Jake Sheridan",
+      "url": "/chinews-jake-sheridan-staff.html#nt=byline"
+    },
+    {
+      "text": "Emily Hoerner",
+      "url": "/ct-emily-hoerner-staff.html#nt=byline"
+    },
+    {
+      "text": "Gavin Good",
+      "url": "/ct-gavin-good-staff.html#nt=byline"
+    },
+    {
+      "text": "Megan Crepeau",
+      "url": "/redeye-megan-crepeau-staff.html#nt=byline"
+    },
+    {
+      "text": "Tracy Swartz",
+      "url": "/chi-tracy-swartz-staff.html#nt=byline"
+    },
+    {
+      "text": "Annie Sweeney",
+      "url": "/chi-anne-sweeney-staff.html#nt=byline"
+    },
+    {
+      "text": "  ",
+      "url": "/news/breaking/mc-nws-pa-philadelphia-police-shot-fourth-of-july-20220705-hkuceql2endybbr6kcnbpky6s4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-phillyshooting~HKUCEQL2ENDYBBR6KCNBPKY6S4~1~1~6~14~art yes"
+    },
+    {
       "text": " Breaking News ",
       "url": "https://www.mcall.com/news/breaking/#nt=taxonomy-article"
     },
     {
-      "text": "Shooting at Philadelphia 4th of July celebration injures 2 police officers, including Montgomery County sheriff\u2019s deputy",
-      "url": "/news/breaking/mc-nws-pa-philadelphia-police-shot-fourth-of-july-20220705-hkuceql2endybbr6kcnbpky6s4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-centerpiece~HKUCEQL2ENDYBBR6KCNBPKY6S4~1~2~1~14~art yes"
+      "text": "Shooting at Philadelphia 4th of July celebration causes panic; two police officers, including Montco sheriff\u2019s deputy, shot",
+      "url": "/news/breaking/mc-nws-pa-philadelphia-police-shot-fourth-of-july-20220705-hkuceql2endybbr6kcnbpky6s4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-phillyshooting~HKUCEQL2ENDYBBR6KCNBPKY6S4~1~1~6~14~art yes"
     },
     {
       "text": "  ",
-      "url": "/news/breaking/mc-nws-pa-philadelphia-police-shot-fourth-of-july-20220705-hkuceql2endybbr6kcnbpky6s4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-centerpiece~HKUCEQL2ENDYBBR6KCNBPKY6S4~1~2~1~14~art yes"
-    },
-    {
-      "text": " Breaking News ",
-      "url": "https://www.mcall.com/news/breaking/#nt=taxonomy-article"
-    },
-    {
-      "text": "Shooting at Philadelphia 4th of July celebration injures 2 police officers, including Montgomery County sheriff\u2019s deputy",
-      "url": "/news/breaking/mc-nws-pa-philadelphia-police-shot-fourth-of-july-20220705-hkuceql2endybbr6kcnbpky6s4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-centerpiece~HKUCEQL2ENDYBBR6KCNBPKY6S4~1~2~1~14~art yes"
-    },
-    {
-      "text": "Mass shooting at Fourth of July parade in Chicago suburb kills 6; suspect apparently posted videos",
-      "url": "https://www.mcall.com/news/nation-world/ct-highland-park-shooting-gun-20220705-dltcauygmzfl7lyz5y5fvtfcte-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-centerpiece~HKUCEQL2ENDYBBR6KCNBPKY6S4~2~2~1~14~art no"
-    },
-    {
-      "text": "  ",
-      "url": "/news/pennsylvania/mc-nws-pa-population-estimates-2021-census-20220705-umq7tql7azcnplz34kgxwalbm4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-census~UMQ7TQL7AZCNPLZ34KGXWALBM4~1~1~2~14~art yes"
-    },
-    {
-      "text": " Pennsylvania News ",
-      "url": "https://www.mcall.com/news/pennsylvania/#nt=taxonomy-article"
-    },
-    {
-      "text": "Pennsylvania is getting older and more diverse, but not uniformly: Census [Maps]",
-      "url": "/news/pennsylvania/mc-nws-pa-population-estimates-2021-census-20220705-umq7tql7azcnplz34kgxwalbm4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-census~UMQ7TQL7AZCNPLZ34KGXWALBM4~1~1~2~14~art yes"
-    },
-    {
-      "text": "Eugene Tauber",
-      "url": "/mc-bio-eugene-tauber-staff.html#nt=byline"
-    },
-    {
-      "text": "  ",
-      "url": "/news/weather/mc-nws-lehigh-valley-weather-20220705-wnoy3weegzfklctcs32rm6n32u-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-weather~WNOY3WEEGZFKLCTCS32RM6N32U~1~1~3~14~art yes"
+      "url": "/news/weather/mc-nws-lehigh-valley-weather-20220705-wnoy3weegzfklctcs32rm6n32u-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-weather~WNOY3WEEGZFKLCTCS32RM6N32U~1~1~7~14~art yes"
     },
     {
       "text": " Weather ",
@@ -1746,7 +1880,7 @@
     },
     {
       "text": "Lehigh Valley weather: Week won\u2019t be a washout, but chance of severe thunderstorms returns",
-      "url": "/news/weather/mc-nws-lehigh-valley-weather-20220705-wnoy3weegzfklctcs32rm6n32u-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-weather~WNOY3WEEGZFKLCTCS32RM6N32U~1~1~3~14~art yes"
+      "url": "/news/weather/mc-nws-lehigh-valley-weather-20220705-wnoy3weegzfklctcs32rm6n32u-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-weather~WNOY3WEEGZFKLCTCS32RM6N32U~1~1~7~14~art yes"
     },
     {
       "text": "John Misinco",
@@ -1754,51 +1888,7 @@
     },
     {
       "text": "  ",
-      "url": "/news/local/nazareth/mc-nws-upper-mount-bethel-township-bridge-20220702-ign75f6m7nh4hlvl5cac3z5cyi-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-bridge~IGN75F6M7NH4HLVL5CAC3Z5CYI~1~1~4~14~art yes"
-    },
-    {
-      "text": " Nazareth/Slate Belt ",
-      "url": "https://www.mcall.com/news/local/nazareth/#nt=taxonomy-article"
-    },
-    {
-      "text": "A washed out bridge and crumbling road threatened to leave a woman stranded in her remote home in Slate Belt. Enter Project Saving Charlotte.",
-      "url": "/news/local/nazareth/mc-nws-upper-mount-bethel-township-bridge-20220702-ign75f6m7nh4hlvl5cac3z5cyi-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-bridge~IGN75F6M7NH4HLVL5CAC3Z5CYI~1~1~4~14~art yes"
-    },
-    {
-      "text": "Anthony Salamone",
-      "url": "/mc-bio-anthony-salamone-staff.html#nt=byline"
-    },
-    {
-      "text": "  ",
-      "url": "/news/breaking/mc-nws-east-penn-township-murder-suicide-20220704-7grqzrlbirdkrmc2agl54c4yye-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-murdersuicide~7GRQZRLBIRDKRMC2AGL54C4YYE~1~1~5~14~art yes"
-    },
-    {
-      "text": " Breaking News ",
-      "url": "https://www.mcall.com/news/breaking/#nt=taxonomy-article"
-    },
-    {
-      "text": "Carbon County man killed wife, then himself, state police say",
-      "url": "/news/breaking/mc-nws-east-penn-township-murder-suicide-20220704-7grqzrlbirdkrmc2agl54c4yye-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-murdersuicide~7GRQZRLBIRDKRMC2AGL54C4YYE~1~1~5~14~art yes"
-    },
-    {
-      "text": "  ",
-      "url": "/sports/varsity/mc-spt-around-the-valley-liberty-basketball-20220704-vq4iys5clbhynkjdku5inlflim-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-liberty~VQ4IYS5CLBHYNKJDKU5INLFLIM~1~1~6~14~art yes"
-    },
-    {
-      "text": " High School Sports ",
-      "url": "https://www.mcall.com/sports/varsity/#nt=taxonomy-article"
-    },
-    {
-      "text": "Liberty basketball team deals with loss of 2022 graduate, a special young man",
-      "url": "/sports/varsity/mc-spt-around-the-valley-liberty-basketball-20220704-vq4iys5clbhynkjdku5inlflim-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-liberty~VQ4IYS5CLBHYNKJDKU5INLFLIM~1~1~6~14~art yes"
-    },
-    {
-      "text": "Keith Groller",
-      "url": "/mc-bio-keith-groller-staff.html#nt=byline"
-    },
-    {
-      "text": "  ",
-      "url": "/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-blueberry~UQW3VLI5SBHS3HOH62URMVMY24~1~1~7~14~art yes"
+      "url": "/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-blueberry~UQW3VLI5SBHS3HOH62URMVMY24~1~1~8~14~art yes"
     },
     {
       "text": " Food & Drink ",
@@ -1806,7 +1896,7 @@
     },
     {
       "text": "Summer\u2019s sweetest event: Your guide to Bethlehem\u2019s 35th annual Blueberry Festival ",
-      "url": "/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-blueberry~UQW3VLI5SBHS3HOH62URMVMY24~1~1~7~14~art yes"
+      "url": "/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-blueberry~UQW3VLI5SBHS3HOH62URMVMY24~1~1~8~14~art yes"
     },
     {
       "text": "Jennifer Sheehan",
@@ -1814,87 +1904,67 @@
     },
     {
       "text": "  ",
-      "url": "/news/local/mc-nws-july-4-celebration-20220704-5mwzvwsjt5dgdjlbaxcv5tjate-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-july4~5MWZVWSJT5DGDJLBAXCV5TJATE~1~1~8~14~art yes"
+      "url": "/news/pennsylvania/mc-nws-pa-miss-pennsylvania-berks-county-20220705-m6unmksdsvc3jfsuw4njjr6x2m-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-berks~M6UNMKSDSVC3JFSUW4NJJR6X2M~1~1~9~14~art yes"
     },
     {
-      "text": " Lehigh Valley News ",
-      "url": "https://www.mcall.com/news/local/#nt=taxonomy-article"
+      "text": " Pennsylvania News ",
+      "url": "https://www.mcall.com/news/pennsylvania/#nt=taxonomy-article"
     },
     {
-      "text": "Lehigh Valley revels in Fourth of July celebrations with sunny-day festival, ringing Liberty Bell replica",
-      "url": "/news/local/mc-nws-july-4-celebration-20220704-5mwzvwsjt5dgdjlbaxcv5tjate-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-july4~5MWZVWSJT5DGDJLBAXCV5TJATE~1~1~8~14~art yes"
-    },
-    {
-      "text": "Graysen Golter",
-      "url": "/graysen-golter-staff.html#nt=byline"
+      "text": "Berks County woman is crowned Miss Pennsylvania 2022, first since 1960s",
+      "url": "/news/pennsylvania/mc-nws-pa-miss-pennsylvania-berks-county-20220705-m6unmksdsvc3jfsuw4njjr6x2m-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-berks~M6UNMKSDSVC3JFSUW4NJJR6X2M~1~1~9~14~art yes"
     },
     {
       "text": "  ",
-      "url": "/sports/varsity/mc-spt-liberty-baseball-team-all-area-20220705-ygg6wdx54bevleaookhpyyinee-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-baseball~YGG6WDX54BEVLEAOOKHPYYINEE~1~1~9~14~art yes"
+      "url": "/news/pennsylvania/mc-nws-pa-population-estimates-2021-census-20220705-umq7tql7azcnplz34kgxwalbm4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-census~UMQ7TQL7AZCNPLZ34KGXWALBM4~1~1~10~14~art yes"
     },
     {
-      "text": " High School Sports ",
-      "url": "https://www.mcall.com/sports/varsity/#nt=taxonomy-article"
+      "text": " Pennsylvania News ",
+      "url": "https://www.mcall.com/news/pennsylvania/#nt=taxonomy-article"
     },
     {
-      "text": "Varsity baseball honors: Liberty\u2019s unexpected run to the state finals makes them The Morning Call\u2019s team of the year",
-      "url": "/sports/varsity/mc-spt-liberty-baseball-team-all-area-20220705-ygg6wdx54bevleaookhpyyinee-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-baseball~YGG6WDX54BEVLEAOOKHPYYINEE~1~1~9~14~art yes"
+      "text": "Pennsylvania is getting older and more diverse, but not uniformly: Census [Maps]",
+      "url": "/news/pennsylvania/mc-nws-pa-population-estimates-2021-census-20220705-umq7tql7azcnplz34kgxwalbm4-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-census~UMQ7TQL7AZCNPLZ34KGXWALBM4~1~1~10~14~art yes"
     },
     {
-      "text": "Keith Groller",
-      "url": "/mc-bio-keith-groller-staff.html#nt=byline"
-    },
-    {
-      "text": "  ",
-      "url": "/news/local/mc-nws-allentown-abortion-before-roe-20220703-g5ptlpjmazav7paa4cq5h5pdfi-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-abortion~G5PTLPJMAZAV7PAA4CQ5H5PDFI~1~1~10~14~art yes"
-    },
-    {
-      "text": " Lehigh Valley News ",
-      "url": "https://www.mcall.com/news/local/#nt=taxonomy-article"
-    },
-    {
-      "text": "How people got abortions in the pre-Roe Lehigh Valley",
-      "url": "/news/local/mc-nws-allentown-abortion-before-roe-20220703-g5ptlpjmazav7paa4cq5h5pdfi-story.html#nt=pf-double chain~mc-home-top-chain~flex feature~curated~mc-home-abortion~G5PTLPJMAZAV7PAA4CQ5H5PDFI~1~1~10~14~art yes"
-    },
-    {
-      "text": "Rachel Shin",
-      "url": "/mc-rachel-shin-staff.html#nt=byline"
+      "text": "Eugene Tauber",
+      "url": "/mc-bio-eugene-tauber-staff.html#nt=byline"
     },
     {
       "text": " Breaking News\u00a0  See more Breaking News\u00a0  articles      ",
       "url": "/news/breaking#nt=recommender-header"
     },
     {
-      "text": " Former Easton High wrestling coach awarded $250K in discrimination suit against school district ",
-      "url": "https://www.mcall.com/news/police/mc-nws-billman-verdict-20220705-d6m3s7qj3fc7vdhwusk4cxr3l4-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~D6M3S7QJ3FC7VDHWUSK4CXR3L4~1~8~11~14~art no"
+      "text": " Agent for Philadelphia Flyers goaltending prospect Ivan Fedotov says prospect sent to Russian military base ",
+      "url": "https://www.mcall.com/sports/phantoms-flyers/mc-spt-flyers-ivan-fedotov-sent-to-russian-military-base-20220705-dqoyodxbhvfj3a3swk4mhtedie-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~DQOYODXBHVFJ3A3SWK4MHTEDIE~1~8~11~14~art no"
     },
     {
-      "text": " Summer\u2019s sweetest event: Your guide to Bethlehem\u2019s 35th annual Blueberry Festival ",
-      "url": "https://www.mcall.com/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~UQW3VLI5SBHS3HOH62URMVMY24~2~8~11~14~art no"
+      "text": " Bethlehem rejected plan for an art gallery at 168-year-old church. Here\u2019s what\u2019s coming instead. ",
+      "url": "https://www.mcall.com/business/mc-biz-bethlehem-unitarian-church-sold-again-20220705-6np3xp3oivh3howugp6cctxt4m-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~6NP3XP3OIVH3HOWUGP6CCTXT4M~2~8~11~14~art no"
     },
     {
-      "text": " Lehigh Valley weather: Week won\u2019t be a washout, but chance of severe thunderstorms returns ",
-      "url": "https://www.mcall.com/news/weather/mc-nws-lehigh-valley-weather-20220705-wnoy3weegzfklctcs32rm6n32u-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~WNOY3WEEGZFKLCTCS32RM6N32U~3~8~11~14~art no"
+      "text": " American chestnut trees that grew to 100 feet tall used to tower over the Pennsylvania landscape until blight came along. Now there are new hopes for a revival. ",
+      "url": "https://www.mcall.com/news/pennsylvania/mc-nws-pa-american-chestnut-tree-comeback-20220705-kohou6cq2jgefnjqdqbgs5jrtq-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~KOHOU6CQ2JGEFNJQDQBGS5JRTQ~3~8~11~14~art no"
     },
     {
-      "text": " The Sixers\u2019 two biggest offseason additions are still on the way ",
-      "url": "https://www.mcall.com/sports/mc-spt-sixers-maxey-harden-20220705-vr7giz4yangavc23xhtnhfmqyq-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~VR7GIZ4YANGAVC23XHTNHFMQYQ~4~8~11~14~art no"
+      "text": " Varsity baseball honors: The Morning Call\u2019s players of the year for the 2022 season ",
+      "url": "https://www.mcall.com/sports/varsity/mc-spt-baseball-all-area-players-of-the-year-20220705-tdgcjj5jlrgnxezpfx3hrpel6m-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~TDGCJJ5JLRGNXEZPFX3HRPEL6M~4~8~11~14~art no"
     },
     {
-      "text": " A washed out bridge and crumbling road threatened to leave a woman stranded in her remote home in Slate Belt. Enter Project Saving Charlotte. ",
-      "url": "https://www.mcall.com/news/local/nazareth/mc-nws-upper-mount-bethel-township-bridge-20220702-ign75f6m7nh4hlvl5cac3z5cyi-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~IGN75F6M7NH4HLVL5CAC3Z5CYI~5~8~11~14~art no"
+      "text": " Top 3 Lehigh Valley area concerts: Aubrey Haddard, The Witherbees, and Asia featuring John Payne ",
+      "url": "https://www.mcall.com/entertainment/lehigh-valley-music/mc-ent-top-3-concerts-0707-20220705-oofkhl65gzepfgufcougxphduu-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~OOFKHL65GZEPFGUFCOUGXPHDUU~5~8~11~14~art no"
     },
     {
-      "text": " Shooting at Philadelphia 4th of July celebration injures 2 police officers, including Montgomery County sheriff\u2019s deputy ",
-      "url": "https://www.mcall.com/news/breaking/mc-nws-pa-philadelphia-police-shot-fourth-of-july-20220705-hkuceql2endybbr6kcnbpky6s4-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~HKUCEQL2ENDYBBR6KCNBPKY6S4~6~8~11~14~art no"
+      "text": " Fact check: Mastriano\u2019s COVID nursing home deaths claim is baseless, but campaign trail mainstay ",
+      "url": "https://www.mcall.com/news/elections/mc-nws-pa-doug-mastriano-nursing-homes-20220705-pxnig4b6nzcqpmy75a4bxvegdm-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~PXNIG4B6NZCQPMY75A4BXVEGDM~6~8~11~14~art no"
     },
     {
-      "text": " Pennsylvania is getting older and more diverse, but not uniformly: Census [Maps] ",
-      "url": "https://www.mcall.com/news/pennsylvania/mc-nws-pa-population-estimates-2021-census-20220705-umq7tql7azcnplz34kgxwalbm4-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~UMQ7TQL7AZCNPLZ34KGXWALBM4~7~8~11~14~art no"
+      "text": " Five years after Cosmo DiNardo, Sean Kratz killing spree, inside the investigation of the four \u2018lost boys of Bucks County\u2019 ",
+      "url": "https://www.mcall.com/news/local/mc-nws-cosmo-dinardo-killings-remembered-20220705-3kv6u2rk5bf3dnnil7uozqdznm-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~3KV6U2RK5BF3DNNIL7UOZQDZNM~7~8~11~14~art no"
     },
     {
-      "text": " Varsity baseball honors: Liberty\u2019s unexpected run to the state finals makes them The Morning Call\u2019s team of the year ",
-      "url": "https://www.mcall.com/sports/varsity/mc-spt-liberty-baseball-team-all-area-20220705-ygg6wdx54bevleaookhpyyinee-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~YGG6WDX54BEVLEAOOKHPYYINEE~8~8~11~14~art no"
+      "text": " Boys of Summer: Tom Bonekemper loved baseball and the Quakertown Blazers ",
+      "url": "https://www.mcall.com/sports/varsity/mc-spt-lehigh-valley-baseball-boys-of-summer-tom-bonekemper-20220705-qdarjkl2bzblvhialwwnyh4ntm-story.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-breaking-news-recommender~QDARJKL2BZBLVHIALWWNYH4NTM~8~8~11~14~art no"
     },
     {
       "text": " Galleries See more Galleries articles      ",
@@ -1910,27 +1980,27 @@
     },
     {
       "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "https://www.mcall.com/news/mc-pictures-fourth-of-july-20220704-vq5skdty6jc6ho42eapp7vydfa-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~VQ5SKDTY6JC6HO42EAPP7VYDFA~2~4~12~14~art yes"
+      "url": "https://www.mcall.com/photos/mc-pictures-fishing-feature-20220705-3tjuhjh6pvfbfodwqdvmastr5u-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~3TJUHJH6PVFBFODWQDVMASTR5U~2~4~12~14~art yes"
+    },
+    {
+      "text": " Fishing | PHOTOS ",
+      "url": "https://www.mcall.com/photos/mc-pictures-fishing-feature-20220705-3tjuhjh6pvfbfodwqdvmastr5u-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~3TJUHJH6PVFBFODWQDVMASTR5U~2~4~12~14~art yes"
+    },
+    {
+      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
+      "url": "https://www.mcall.com/news/mc-pictures-fourth-of-july-20220704-vq5skdty6jc6ho42eapp7vydfa-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~VQ5SKDTY6JC6HO42EAPP7VYDFA~3~4~12~14~art yes"
     },
     {
       "text": " Fourth of July celebrations in the Lehigh Valley | PHOTOS ",
-      "url": "https://www.mcall.com/news/mc-pictures-fourth-of-july-20220704-vq5skdty6jc6ho42eapp7vydfa-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~VQ5SKDTY6JC6HO42EAPP7VYDFA~2~4~12~14~art yes"
+      "url": "https://www.mcall.com/news/mc-pictures-fourth-of-july-20220704-vq5skdty6jc6ho42eapp7vydfa-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~VQ5SKDTY6JC6HO42EAPP7VYDFA~3~4~12~14~art yes"
     },
     {
       "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "https://www.mcall.com/news/local/mc-pictures-liberty-bell-museum-recognized-20220704-onxupxhq3fb53oonrq3cicfcrq-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~ONXUPXHQ3FB53OONRQ3CICFCRQ~3~4~12~14~art yes"
+      "url": "https://www.mcall.com/news/local/mc-pictures-liberty-bell-museum-recognized-20220704-onxupxhq3fb53oonrq3cicfcrq-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~ONXUPXHQ3FB53OONRQ3CICFCRQ~4~4~12~14~art yes"
     },
     {
       "text": " Allentown Liberty Bell Museum Recognized | PHOTOS ",
-      "url": "https://www.mcall.com/news/local/mc-pictures-liberty-bell-museum-recognized-20220704-onxupxhq3fb53oonrq3cicfcrq-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~ONXUPXHQ3FB53OONRQ3CICFCRQ~3~4~12~14~art yes"
-    },
-    {
-      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "https://www.mcall.com/news/mc-pictures-smithfield-township-fire-20220704-w5c3bhcv55fwlh6md2s3jz7sve-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~W5C3BHCV55FWLH6MD2S3JZ7SVE~4~4~12~14~art yes"
-    },
-    {
-      "text": " Firefighters battle a blaze Sunday in Middle Smithfield Township | PHOTOS ",
-      "url": "https://www.mcall.com/news/mc-pictures-smithfield-township-fire-20220704-w5c3bhcv55fwlh6md2s3jz7sve-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~W5C3BHCV55FWLH6MD2S3JZ7SVE~4~4~12~14~art yes"
+      "url": "https://www.mcall.com/news/local/mc-pictures-liberty-bell-museum-recognized-20220704-onxupxhq3fb53oonrq3cicfcrq-photogallery.html#nt=pf-double chain~mc-home-top-chain~recommender~automated~mc-galleries-recommender~ONXUPXHQ3FB53OONRQ3CICFCRQ~4~4~12~14~art yes"
     },
     {
       "text": " Coronavirus ",
@@ -1970,27 +2040,31 @@
     },
     {
       "text": "  ",
-      "url": "/news/breaking/mc-nws-east-penn-township-murder-suicide-20220704-7grqzrlbirdkrmc2agl54c4yye-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-police~7GRQZRLBIRDKRMC2AGL54C4YYE~1~1~1~7~art yes"
+      "url": "/news/police/mc-nws-north-catasauqua-motorcyclist-death-20220705-lox6topxmrdzlnkdp4tswxzmki-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-police~LOX6TOPXMRDZLNKDP4TSWXZMKI~1~1~1~7~art yes"
     },
     {
-      "text": " Breaking News ",
-      "url": "https://www.mcall.com/news/breaking/#nt=taxonomy-article"
+      "text": " Police & Courts ",
+      "url": "https://www.mcall.com/news/police/#nt=taxonomy-article"
     },
     {
-      "text": "Carbon County man killed wife, then himself, state police say",
-      "url": "/news/breaking/mc-nws-east-penn-township-murder-suicide-20220704-7grqzrlbirdkrmc2agl54c4yye-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-police~7GRQZRLBIRDKRMC2AGL54C4YYE~1~1~1~7~art yes"
+      "text": "North Catasauqua man dies nearly a month after being injured in motorcycle crash",
+      "url": "/news/police/mc-nws-north-catasauqua-motorcyclist-death-20220705-lox6topxmrdzlnkdp4tswxzmki-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-police~LOX6TOPXMRDZLNKDP4TSWXZMKI~1~1~1~7~art yes"
+    },
+    {
+      "text": "Daniel Patrick Sheehan",
+      "url": "/mc-bio-daniel-patrick-sheehan-staff.html#nt=byline"
     },
     {
       "text": "  ",
-      "url": "/sports/mc-spt-sixers-maxey-harden-20220705-vr7giz4yangavc23xhtnhfmqyq-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-sports~VR7GIZ4YANGAVC23XHTNHFMQYQ~1~1~2~7~art yes"
+      "url": "/sports/varsity/mc-spt-high-school-sports-scores-wednesday-20220706-nzrefj3l45aujbd7lc26jlfacy-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-sports~NZREFJ3L45AUJBD7LC26JLFACY~1~1~2~7~art yes"
     },
     {
-      "text": " Sports ",
-      "url": "https://www.mcall.com/sports/#nt=taxonomy-article"
+      "text": " High School Sports ",
+      "url": "https://www.mcall.com/sports/varsity/#nt=taxonomy-article"
     },
     {
-      "text": "The Sixers\u2019 two biggest offseason additions are still on the way",
-      "url": "/sports/mc-spt-sixers-maxey-harden-20220705-vr7giz4yangavc23xhtnhfmqyq-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-sports~VR7GIZ4YANGAVC23XHTNHFMQYQ~1~1~2~7~art yes"
+      "text": "Lehigh Valley sports scores and a look at Wednesday\u2019s schedule",
+      "url": "/sports/varsity/mc-spt-high-school-sports-scores-wednesday-20220706-nzrefj3l45aujbd7lc26jlfacy-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-sports~NZREFJ3L45AUJBD7LC26JLFACY~1~1~2~7~art yes"
     },
     {
       "text": "  ",
@@ -2042,27 +2116,27 @@
     },
     {
       "text": "  ",
-      "url": "/entertainment/mc-ent-faith-values-nelson-0702-20220702-pnfnmqlhpvex5bgisszv2ch5gu-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-entertainment~PNFNMQLHPVEX5BGISSZV2CH5GU~1~1~6~7~art yes"
+      "url": "/entertainment/lehigh-valley-music/mc-ent-top-3-concerts-0707-20220705-oofkhl65gzepfgufcougxphduu-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-entertainment~OOFKHL65GZEPFGUFCOUGXPHDUU~1~1~6~7~art yes"
     },
     {
-      "text": " Entertainment ",
-      "url": "https://www.mcall.com/entertainment/#nt=taxonomy-article"
+      "text": " LV Music ",
+      "url": "https://www.mcall.com/entertainment/lehigh-valley-music/#nt=taxonomy-article"
     },
     {
-      "text": "Faith & Values: Understanding the repeat offender",
-      "url": "/entertainment/mc-ent-faith-values-nelson-0702-20220702-pnfnmqlhpvex5bgisszv2ch5gu-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-entertainment~PNFNMQLHPVEX5BGISSZV2CH5GU~1~1~6~7~art yes"
+      "text": "Top 3 Lehigh Valley area concerts: Aubrey Haddard, The Witherbees, and Asia featuring John Payne",
+      "url": "/entertainment/lehigh-valley-music/mc-ent-top-3-concerts-0707-20220705-oofkhl65gzepfgufcougxphduu-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-entertainment~OOFKHL65GZEPFGUFCOUGXPHDUU~1~1~6~7~art yes"
     },
     {
       "text": "  ",
-      "url": "/business/retail-watch/mc-biz-phenix-salon-suites-opens-whitehall-retail-watch-20220702-aq26gbnqlncineoklmte3viheu-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-retail~AQ26GBNQLNCINEOKLMTE3VIHEU~1~1~7~7~art yes"
+      "url": "/business/retail-watch/mc-biz-nonprofit-coffee-company-opening-second-lehigh-valley-location-20220705-fkvfv2bvmjannk32le5i4wgiwi-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-retail~FKVFV2BVMJANNK32LE5I4WGIWI~1~1~7~7~art yes"
     },
     {
       "text": " Retail Watch ",
       "url": "https://www.mcall.com/business/retail-watch/#nt=taxonomy-article"
     },
     {
-      "text": "Retail Watch: \u2018Be your own boss\u2019: New salon suite franchise in Whitehall gives hair stylists and other lifestyle professionals freedom to grow business",
-      "url": "/business/retail-watch/mc-biz-phenix-salon-suites-opens-whitehall-retail-watch-20220702-aq26gbnqlncineoklmte3viheu-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-retail~AQ26GBNQLNCINEOKLMTE3VIHEU~1~1~7~7~art yes"
+      "text": "Nonprofit coffee company, employing people with special needs, to open second Lehigh Valley location alongside new florist",
+      "url": "/business/retail-watch/mc-biz-nonprofit-coffee-company-opening-second-lehigh-valley-location-20220705-fkvfv2bvmjannk32le5i4wgiwi-story.html#nt=pf-double chain~mc-featured-chain~feed-driven flex feature~automated~mc-featured-retail~FKVFV2BVMJANNK32LE5I4WGIWI~1~1~7~7~art yes"
     },
     {
       "text": "Ryan Kneller",
@@ -2178,35 +2252,35 @@
     },
     {
       "text": "  ",
-      "url": "/sports/mc-spt-sixers-maxey-harden-20220705-vr7giz4yangavc23xhtnhfmqyq-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~VR7GIZ4YANGAVC23XHTNHFMQYQ~1~6~1~3~art yes"
+      "url": "/sports/varsity/mc-spt-high-school-sports-scores-wednesday-20220706-nzrefj3l45aujbd7lc26jlfacy-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~NZREFJ3L45AUJBD7LC26JLFACY~1~6~1~3~art yes"
     },
     {
-      "text": " Sports ",
-      "url": "https://www.mcall.com/sports/#nt=taxonomy-article"
+      "text": " High School Sports ",
+      "url": "https://www.mcall.com/sports/varsity/#nt=taxonomy-article"
     },
     {
-      "text": "The Sixers\u2019 two biggest offseason additions are still on the way",
-      "url": "/sports/mc-spt-sixers-maxey-harden-20220705-vr7giz4yangavc23xhtnhfmqyq-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~VR7GIZ4YANGAVC23XHTNHFMQYQ~1~6~1~3~art yes"
+      "text": "Lehigh Valley sports scores and a look at Wednesday\u2019s schedule",
+      "url": "/sports/varsity/mc-spt-high-school-sports-scores-wednesday-20220706-nzrefj3l45aujbd7lc26jlfacy-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~NZREFJ3L45AUJBD7LC26JLFACY~1~6~1~3~art yes"
     },
     {
-      "text": " Varsity baseball honors: Liberty\u2019s unexpected run to the state finals makes them The Morning Call\u2019s team of the year ",
-      "url": "https://www.mcall.com/sports/varsity/mc-spt-liberty-baseball-team-all-area-20220705-ygg6wdx54bevleaookhpyyinee-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~YGG6WDX54BEVLEAOOKHPYYINEE~2~6~1~3~art no"
+      "text": " Flyers release their six-game 2022-23 preseason schedule ",
+      "url": "https://www.mcall.com/sports/phantoms-flyers/mc-spt-flyers-preseason-schedule-released-20220706-44yzzklgrnadxnjvl6nvdaowvm-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~44YZZKLGRNADXNJVL6NVDAOWVM~2~6~1~3~art no"
     },
     {
-      "text": " Despite perceived improvement, Eagles have their skeptics ",
-      "url": "https://www.mcall.com/sports/eagles/mc-spt-eagles-optimism-overstated-20220705-qjyccvx2nzb3rj5gts2rcpftbq-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~QJYCCVX2NZB3RJ5GTS2RCPFTBQ~3~6~1~3~art no"
+      "text": " Agent for Philadelphia Flyers goaltending prospect Ivan Fedotov says prospect sent to Russian military base ",
+      "url": "https://www.mcall.com/sports/phantoms-flyers/mc-spt-flyers-ivan-fedotov-sent-to-russian-military-base-20220705-dqoyodxbhvfj3a3swk4mhtedie-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~DQOYODXBHVFJ3A3SWK4MHTEDIE~3~6~1~3~art no"
     },
     {
-      "text": " Lehigh Valley sports scores and a look at Tuesday\u2019s schedule ",
-      "url": "https://www.mcall.com/sports/varsity/mc-spt-high-school-sports-scores-tuesday-20220705-w3zwzzxktza5tkesmsdk2uzida-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~W3ZWZZXKTZA5TKESMSDK2UZIDA~4~6~1~3~art no"
+      "text": " Let\u2019s make a deal: Trade proposals for the Phillies to land another hitter, starting pitching help ",
+      "url": "https://www.mcall.com/sports/ironpigs-phillies/mc-spt-phillies-trade-proposals-20220705-a72pdepw3zhvheq5lln7cq4q3u-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~A72PDEPW3ZHVHEQ5LLN7CQ4Q3U~4~6~1~3~art no"
     },
     {
-      "text": " Rhys Hoskins, J.T. Realmuto power Phillies to 4-0 victory, series win over Cardinals ",
-      "url": "https://www.mcall.com/sports/ironpigs-phillies/mc-spt-phillies-defeat-cardinals-sunday-20220704-h4jwsi3rg5b3vdxplnrj5fx2zm-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~H4JWSI3RG5B3VDXPLNRJ5FX2ZM~5~6~1~3~art no"
+      "text": " Flyers draft: Five years after selecting Nolan Patrick at No. 2, Philly must get selections right this time ",
+      "url": "https://www.mcall.com/sports/phantoms-flyers/mc-spt-flyers-draft-2022-20220705-gltt7xwb5bbhdpj7ugc33zdggm-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~GLTT7XWB5BBHDPJ7UGC33ZDGGM~5~6~1~3~art no"
     },
     {
-      "text": " Liberty basketball team deals with loss of 2022 graduate, a special young man ",
-      "url": "https://www.mcall.com/sports/varsity/mc-spt-around-the-valley-liberty-basketball-20220704-vq4iys5clbhynkjdku5inlflim-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~VQ4IYS5CLBHYNKJDKU5INLFLIM~6~6~1~3~art no"
+      "text": " Phillies\u2019 Bryce Harper offers no date for return but vows he will play again this season ",
+      "url": "https://www.mcall.com/sports/ironpigs-phillies/mc-spt-phillies-bryce-harper-update-20220705-ahtl7n24cfcxjet5dry6trhvqy-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-sports-recommender~AHTL7N24CFCXJET5DRY6TRHVQY~6~6~1~3~art no"
     },
     {
       "text": " Go Guide See more Go Guide articles      ",
@@ -2214,35 +2288,35 @@
     },
     {
       "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "https://www.mcall.com/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~UQW3VLI5SBHS3HOH62URMVMY24~1~4~2~3~art yes"
+      "url": "https://www.mcall.com/entertainment/lehigh-valley-music/mc-ent-top-3-concerts-0707-20220705-oofkhl65gzepfgufcougxphduu-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~OOFKHL65GZEPFGUFCOUGXPHDUU~1~4~2~3~art yes"
+    },
+    {
+      "text": " Top 3 Lehigh Valley area concerts: Aubrey Haddard, The Witherbees, and Asia featuring John Payne ",
+      "url": "https://www.mcall.com/entertainment/lehigh-valley-music/mc-ent-top-3-concerts-0707-20220705-oofkhl65gzepfgufcougxphduu-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~OOFKHL65GZEPFGUFCOUGXPHDUU~1~4~2~3~art yes"
+    },
+    {
+      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
+      "url": "https://www.mcall.com/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~UQW3VLI5SBHS3HOH62URMVMY24~2~4~2~3~art yes"
     },
     {
       "text": " Summer\u2019s sweetest event: Your guide to Bethlehem\u2019s 35th annual Blueberry Festival ",
-      "url": "https://www.mcall.com/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~UQW3VLI5SBHS3HOH62URMVMY24~1~4~2~3~art yes"
+      "url": "https://www.mcall.com/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~UQW3VLI5SBHS3HOH62URMVMY24~2~4~2~3~art yes"
     },
     {
       "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "https://www.mcall.com/entertainment/mc-ent-faith-values-nelson-0702-20220702-pnfnmqlhpvex5bgisszv2ch5gu-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~PNFNMQLHPVEX5BGISSZV2CH5GU~2~4~2~3~art yes"
+      "url": "https://www.mcall.com/entertainment/mc-ent-faith-values-nelson-0702-20220702-pnfnmqlhpvex5bgisszv2ch5gu-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~PNFNMQLHPVEX5BGISSZV2CH5GU~3~4~2~3~art yes"
     },
     {
       "text": " Faith & Values: Understanding the repeat offender ",
-      "url": "https://www.mcall.com/entertainment/mc-ent-faith-values-nelson-0702-20220702-pnfnmqlhpvex5bgisszv2ch5gu-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~PNFNMQLHPVEX5BGISSZV2CH5GU~2~4~2~3~art yes"
+      "url": "https://www.mcall.com/entertainment/mc-ent-faith-values-nelson-0702-20220702-pnfnmqlhpvex5bgisszv2ch5gu-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~PNFNMQLHPVEX5BGISSZV2CH5GU~3~4~2~3~art yes"
     },
     {
       "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "https://www.mcall.com/entertainment/mc-ent-help-for-gardeners-water-cut-weed-20220702-ka4orsw2nrbtzmtjltokyalnva-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~KA4ORSW2NRBTZMTJLTOKYALNVA~3~4~2~3~art yes"
+      "url": "https://www.mcall.com/entertainment/mc-ent-help-for-gardeners-water-cut-weed-20220702-ka4orsw2nrbtzmtjltokyalnva-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~KA4ORSW2NRBTZMTJLTOKYALNVA~4~4~2~3~art yes"
     },
     {
       "text": " Help for Gardeners: Things to do and reminders for July ",
-      "url": "https://www.mcall.com/entertainment/mc-ent-help-for-gardeners-water-cut-weed-20220702-ka4orsw2nrbtzmtjltokyalnva-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~KA4ORSW2NRBTZMTJLTOKYALNVA~3~4~2~3~art yes"
-    },
-    {
-      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "https://www.mcall.com/entertainment/food-drink/beer/mc-ent-lehigh-valley-craft-breweries-map-20191112-qjbbkbtqcjd7nhn5wgnnebekom-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~QJBBKBTQCJD7NHN5WGNNEBEKOM~4~4~2~3~art yes"
-    },
-    {
-      "text": " Addition of newest Lehigh Valley brewery and taproom brings total to 28. Find them all on this map ",
-      "url": "https://www.mcall.com/entertainment/food-drink/beer/mc-ent-lehigh-valley-craft-breweries-map-20191112-qjbbkbtqcjd7nhn5wgnnebekom-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~QJBBKBTQCJD7NHN5WGNNEBEKOM~4~4~2~3~art yes"
+      "url": "https://www.mcall.com/entertainment/mc-ent-help-for-gardeners-water-cut-weed-20220702-ka4orsw2nrbtzmtjltokyalnva-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-goguide-recommender~KA4ORSW2NRBTZMTJLTOKYALNVA~4~4~2~3~art yes"
     },
     {
       "text": " Local See more Local articles      ",
@@ -2250,35 +2324,31 @@
     },
     {
       "text": "  ",
-      "url": "/news/local/nazareth/mc-nws-upper-mount-bethel-township-bridge-20220702-ign75f6m7nh4hlvl5cac3z5cyi-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~IGN75F6M7NH4HLVL5CAC3Z5CYI~1~5~3~3~art yes"
+      "url": "/news/local/mc-nws-cosmo-dinardo-killings-remembered-20220705-3kv6u2rk5bf3dnnil7uozqdznm-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~3KV6U2RK5BF3DNNIL7UOZQDZNM~1~5~3~3~art yes"
     },
     {
-      "text": " Nazareth/Slate Belt ",
-      "url": "https://www.mcall.com/news/local/nazareth/#nt=taxonomy-article"
+      "text": " Lehigh Valley News ",
+      "url": "https://www.mcall.com/news/local/#nt=taxonomy-article"
     },
     {
-      "text": "A washed out bridge and crumbling road threatened to leave a woman stranded in her remote home in Slate Belt. Enter Project Saving Charlotte.",
-      "url": "/news/local/nazareth/mc-nws-upper-mount-bethel-township-bridge-20220702-ign75f6m7nh4hlvl5cac3z5cyi-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~IGN75F6M7NH4HLVL5CAC3Z5CYI~1~5~3~3~art yes"
+      "text": "Five years after Cosmo DiNardo, Sean Kratz killing spree, inside the investigation of the four \u2018lost boys of Bucks County\u2019",
+      "url": "/news/local/mc-nws-cosmo-dinardo-killings-remembered-20220705-3kv6u2rk5bf3dnnil7uozqdznm-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~3KV6U2RK5BF3DNNIL7UOZQDZNM~1~5~3~3~art yes"
     },
     {
-      "text": "Anthony Salamone",
-      "url": "/mc-bio-anthony-salamone-staff.html#nt=byline"
+      "text": " Allentown toddler drowns over Fourth of July holiday ",
+      "url": "https://www.mcall.com/news/local/allentown/mc-nws-allentown-toddler-drowns-county-coroner-report-20220705-e2ri7fdz3vdivd5zrsf26hnc6i-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~E2RI7FDZ3VDIVD5ZRSF26HNC6I~2~5~3~3~art no"
     },
     {
-      "text": " Lehigh Valley revels in Fourth of July celebrations with sunny-day festival, ringing Liberty Bell replica ",
-      "url": "https://www.mcall.com/news/local/mc-nws-july-4-celebration-20220704-5mwzvwsjt5dgdjlbaxcv5tjate-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~5MWZVWSJT5DGDJLBAXCV5TJATE~2~5~3~3~art no"
+      "text": " 8 displaced in Allentown fire ",
+      "url": "https://www.mcall.com/news/breaking/mc-nws-allentown-fire-displace-eight-20220705-xze3a7mdovbcfd5ntw6sqe436m-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~XZE3A7MDOVBCFD5NTW6SQE436M~3~5~3~3~art no"
     },
     {
-      "text": " Varsity baseball honors: Liberty\u2019s Andy Pitsilos is The Morning Call\u2019s coach of the year ",
-      "url": "https://www.mcall.com/sports/varsity/mc-spt-baseball-coach-of-the-year-andy-pitsilos-20220704-tpzzaf4s3fdbhpdgl4gplwcutu-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~TPZZAF4S3FDBHPDGL4GPLWCUTU~3~5~3~3~art no"
+      "text": " Summer\u2019s sweetest event: Your guide to Bethlehem\u2019s 35th annual Blueberry Festival ",
+      "url": "https://www.mcall.com/entertainment/food-drink/mc-ent-bethlehem-blueberry-festival-market-to-go-2022-20220705-uqw3vli5sbhs3hoh62urmvmy24-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~UQW3VLI5SBHS3HOH62URMVMY24~4~5~3~3~art no"
     },
     {
-      "text": " Police: Man shot early Sunday in Upper Macungie ",
-      "url": "https://www.mcall.com/news/local/mc-nws-upper-macungie-shooting-20220703-7dsadnythbetjp7m5csuyp7afu-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~7DSADNYTHBETJP7M5CSUYP7AFU~4~5~3~3~art no"
-    },
-    {
-      "text": " Morning Call editor with ALS: How I was reborn on the Fourth of July ",
-      "url": "https://www.mcall.com/opinion/mc-opi-july-fourth-independence-als-20220703-v5llkgju2vf4ndcfsku75kc2s4-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~V5LLKGJU2VF4NDCFSKU75KC2S4~5~5~3~3~art no"
+      "text": " A washed out bridge and crumbling road threatened to leave a woman stranded in her remote home in Slate Belt. Enter Project Saving Charlotte. ",
+      "url": "https://www.mcall.com/news/local/nazareth/mc-nws-upper-mount-bethel-township-bridge-20220702-ign75f6m7nh4hlvl5cac3z5cyi-story.html#nt=pf-triple chain~mc-section-chain-1~recommender~automated~mc-local-recommender~IGN75F6M7NH4HLVL5CAC3Z5CYI~5~5~3~3~art no"
     },
     {
       "text": "Reader Rewards",
@@ -2297,24 +2367,24 @@
       "url": "https://www.mcall.com/athlete#nt=barker-chain"
     },
     {
-      "text": " Pa. budget talks slow down, leaving Lehigh Valley lawmakers uncertain on needy schools, property taxes ",
-      "url": "https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-lv-lawmakers-budget-20220701-2rw54gukmjdpvmodqbiz52tlda-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~2RW54GUKMJDPVMODQBIZ52TLDA~1~5~1~6~art no"
+      "text": " Varsity baseball honors: The Morning Call\u2019s players of the year for the 2022 season ",
+      "url": "https://www.mcall.com/sports/varsity/mc-spt-baseball-all-area-players-of-the-year-20220705-tdgcjj5jlrgnxezpfx3hrpel6m-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~TDGCJJ5JLRGNXEZPFX3HRPEL6M~1~5~1~6~art no"
     },
     {
-      "text": " Fire destroys townhome in Bath ",
-      "url": "https://www.mcall.com/news/breaking/mc-nws-bath-house-fire-20200504-lgkasoozfbhq5dnyh3q2q4sdoe-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~LGKASOOZFBHQ5DNYH3Q2Q4SDOE~2~5~1~6~art no"
+      "text": " Allentown toddler drowns over Fourth of July holiday ",
+      "url": "https://www.mcall.com/news/local/allentown/mc-nws-allentown-toddler-drowns-county-coroner-report-20220705-e2ri7fdz3vdivd5zrsf26hnc6i-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~E2RI7FDZ3VDIVD5ZRSF26HNC6I~2~5~1~6~art no"
     },
     {
-      "text": " Dale Wiles, one of former Allentown Mayor Ed Pawlowski\u2019s co-conspirators in contract fixing, dies at 54 ",
-      "url": "https://www.mcall.com/news/police/mc-nws-dale-wiles-dies-20220615-y56xosshsjcrvk62ckdnsqbkfm-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~Y56XOSSHSJCRVK62CKDNSQBKFM~3~5~1~6~art no"
+      "text": " Five years after Cosmo DiNardo, Sean Kratz killing spree, inside the investigation of the four \u2018lost boys of Bucks County\u2019 ",
+      "url": "https://www.mcall.com/news/local/mc-nws-cosmo-dinardo-killings-remembered-20220705-3kv6u2rk5bf3dnnil7uozqdznm-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~3KV6U2RK5BF3DNNIL7UOZQDZNM~3~5~1~6~art no"
     },
     {
-      "text": " Revolutionary War heroics in Allentown: A marker will pay tribute to an audacious middle-of-the-night adventure to save the Liberty Bell ",
-      "url": "https://www.mcall.com/opinion/mc-opi-liberty-bell-museum-historical-marker-muschick-20220704-3ltb7je7orgexpy3grlu3u2lgm-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~3LTB7JE7ORGEXPY3GRLU3U2LGM~4~5~1~6~art no"
+      "text": " Nonprofit coffee company, employing people with special needs, to open second Lehigh Valley location alongside new florist ",
+      "url": "https://www.mcall.com/business/retail-watch/mc-biz-nonprofit-coffee-company-opening-second-lehigh-valley-location-20220705-fkvfv2bvmjannk32le5i4wgiwi-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~FKVFV2BVMJANNK32LE5I4WGIWI~4~5~1~6~art no"
     },
     {
-      "text": " Allentown considers \u2018complete overhaul\u2019 of monthly parking and ticket rates. Here\u2019s what you need to know. ",
-      "url": "https://www.mcall.com/news/local/allentown/mc-nws-allentown-parking-authority-increase-rate-ticket-costs-20220628-dlfouxnimzhqdcfofskxrx5yai-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~DLFOUXNIMZHQDCFOFSKXRX5YAI~5~5~1~6~art no"
+      "text": " Agent for Philadelphia Flyers goaltending prospect Ivan Fedotov says prospect sent to Russian military base ",
+      "url": "https://www.mcall.com/sports/phantoms-flyers/mc-spt-flyers-ivan-fedotov-sent-to-russian-military-base-20220705-dqoyodxbhvfj3a3swk4mhtedie-story.html#nt=pf-double chain~mc-editors-picks-chain~recommender~automated~mc-most-read~DQOYODXBHVFJ3A3SWK4MHTEDIE~5~5~1~6~art no"
     },
     {
       "text": "  ",
@@ -2433,56 +2503,56 @@
       "url": "/business#nt=recommender-header"
     },
     {
+      "text": " Bethlehem rejected plan for an art gallery at 168-year-old church. Here\u2019s what\u2019s coming instead. ",
+      "url": "https://www.mcall.com/business/mc-biz-bethlehem-unitarian-church-sold-again-20220705-6np3xp3oivh3howugp6cctxt4m-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-business-recommender~6NP3XP3OIVH3HOWUGP6CCTXT4M~1~3~2~4~art no"
+    },
+    {
+      "text": " Nonprofit coffee company, employing people with special needs, to open second Lehigh Valley location alongside new florist ",
+      "url": "https://www.mcall.com/business/retail-watch/mc-biz-nonprofit-coffee-company-opening-second-lehigh-valley-location-20220705-fkvfv2bvmjannk32le5i4wgiwi-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-business-recommender~FKVFV2BVMJANNK32LE5I4WGIWI~2~3~2~4~art no"
+    },
+    {
       "text": " A washed out bridge and crumbling road threatened to leave a woman stranded in her remote home in Slate Belt. Enter Project Saving Charlotte. ",
-      "url": "https://www.mcall.com/news/local/nazareth/mc-nws-upper-mount-bethel-township-bridge-20220702-ign75f6m7nh4hlvl5cac3z5cyi-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-business-recommender~IGN75F6M7NH4HLVL5CAC3Z5CYI~1~3~2~4~art no"
-    },
-    {
-      "text": " Retail Watch: \u2018Be your own boss\u2019: New salon suite franchise in Whitehall gives hair stylists and other lifestyle professionals freedom to grow business ",
-      "url": "https://www.mcall.com/business/retail-watch/mc-biz-phenix-salon-suites-opens-whitehall-retail-watch-20220702-aq26gbnqlncineoklmte3viheu-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-business-recommender~AQ26GBNQLNCINEOKLMTE3VIHEU~2~3~2~4~art no"
-    },
-    {
-      "text": " Want to return an online order? You may be able to keep it and get a refund as well ",
-      "url": "https://www.mcall.com/business/mc-biz-keeping-retail-returns-20220702-7butg3gyhjdthkuxh4ukgmt6iy-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-business-recommender~7BUTG3GYHJDTHKUXH4UKGMT6IY~3~3~2~4~art no"
+      "url": "https://www.mcall.com/news/local/nazareth/mc-nws-upper-mount-bethel-township-bridge-20220702-ign75f6m7nh4hlvl5cac3z5cyi-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-business-recommender~IGN75F6M7NH4HLVL5CAC3Z5CYI~3~3~2~4~art no"
     },
     {
       "text": " Pennsylvania See more Pennsylvania articles      ",
       "url": "/news/pennsylvania#nt=recommender-header"
     },
     {
-      "text": " Shooting at Philadelphia 4th of July celebration injures 2 police officers, including Montgomery County sheriff\u2019s deputy ",
-      "url": "https://www.mcall.com/news/breaking/mc-nws-pa-philadelphia-police-shot-fourth-of-july-20220705-hkuceql2endybbr6kcnbpky6s4-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-pa-recommender~HKUCEQL2ENDYBBR6KCNBPKY6S4~1~3~3~4~art no"
+      "text": " American chestnut trees that grew to 100 feet tall used to tower over the Pennsylvania landscape until blight came along. Now there are new hopes for a revival. ",
+      "url": "https://www.mcall.com/news/pennsylvania/mc-nws-pa-american-chestnut-tree-comeback-20220705-kohou6cq2jgefnjqdqbgs5jrtq-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-pa-recommender~KOHOU6CQ2JGEFNJQDQBGS5JRTQ~1~3~3~4~art no"
     },
     {
-      "text": " Pennsylvania is getting older and more diverse, but not uniformly: Census [Maps] ",
-      "url": "https://www.mcall.com/news/pennsylvania/mc-nws-pa-population-estimates-2021-census-20220705-umq7tql7azcnplz34kgxwalbm4-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-pa-recommender~UMQ7TQL7AZCNPLZ34KGXWALBM4~2~3~3~4~art no"
+      "text": " Fact check: Mastriano\u2019s COVID nursing home deaths claim is baseless, but campaign trail mainstay ",
+      "url": "https://www.mcall.com/news/elections/mc-nws-pa-doug-mastriano-nursing-homes-20220705-pxnig4b6nzcqpmy75a4bxvegdm-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-pa-recommender~PXNIG4B6NZCQPMY75A4BXVEGDM~2~3~3~4~art no"
     },
     {
-      "text": " With Pa. climate action in the spotlight, Gov. Tom Wolf\u2019s carbon rule takes effect ",
-      "url": "https://www.mcall.com/news/pennsylvania/mc-nws-pa-carbon-rule-20220704-en64rdrslvdebkoaikvoht23dm-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-pa-recommender~EN64RDRSLVDEBKOAIKVOHT23DM~3~3~3~4~art no"
+      "text": " Shooting at Philadelphia 4th of July celebration causes panic; two police officers, including Montco sheriff\u2019s deputy, shot ",
+      "url": "https://www.mcall.com/news/breaking/mc-nws-pa-philadelphia-police-shot-fourth-of-july-20220705-hkuceql2endybbr6kcnbpky6s4-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-pa-recommender~HKUCEQL2ENDYBBR6KCNBPKY6S4~3~3~3~4~art no"
     },
     {
       "text": " Nation/World See more Nation/World articles      ",
       "url": "/news/nation-world#nt=recommender-header"
     },
     {
-      "text": " Highland Park shooting: 6 dead at parade, suspect in custody ",
-      "url": "https://www.mcall.com/news/nation-world/ct-highland-park-shooting-fourth-of-july-parade-20220704-ai4yuthlqfac7ljmv5zj2tiybe-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~AI4YUTHLQFAC7LJMV5ZJ2TIYBE~1~5~4~4~art no"
+      "text": " A partial list of mass shootings in the U.S. in 2022 ",
+      "url": "https://www.mcall.com/news/nation-world/ct-aud-nw-nyt-united-states-mass-shootings-20220705-prbxg3mvtzhfdhni7axyh2lxqu-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~PRBXG3MVTZHFDHNI7AXYH2LXQU~1~5~4~4~art no"
     },
     {
-      "text": " Highland Park shooting: Suspect apparently posted videos ",
-      "url": "https://www.mcall.com/news/nation-world/ct-highland-park-shooting-gun-20220705-dltcauygmzfl7lyz5y5fvtfcte-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~DLTCAUYGMZFL7LYZ5Y5FVTFCTE~2~5~4~4~art no"
+      "text": " Georgia prosecutor wants testimony from Rudy Giuliani and Lindsey Graham in Donald Trump election probe ",
+      "url": "https://www.mcall.com/news/nation-world/ct-aud-nw-rudy-giuliani-donald-trump-20220705-3lubdh7wu5ecpckczvqdpig7ia-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~3LUBDH7WU5ECPCKCZVQDPIG7IA~2~5~4~4~art no"
     },
     {
-      "text": " Flight cancellations ease slightly as July 4 weekend ends \u2014 but 25K delayed over holiday ",
-      "url": "https://www.mcall.com/news/nation-world/ct-aud-nw-flight-cancellations-20220704-xejrd3n4gjhgrhly2kanauskgu-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~XEJRD3N4GJHGRHLY2KANAUSKGU~3~5~4~4~art no"
+      "text": " Court battles continue across South in wake of Roe v. Wade decision ",
+      "url": "https://www.mcall.com/news/nation-world/ct-aud-nw-mississippi-abortion-law-20220705-4tdroa5kabhpnhfxjfheytq3fa-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~4TDROA5KABHPNHFXJFHEYTQ3FA~3~5~4~4~art no"
     },
     {
-      "text": " Highland Park Fourth of July parade shooting rocks country already filled with turmoil over SCOTUS rulings, Jan. 6 hearings ",
-      "url": "https://www.mcall.com/news/nation-world/ct-aud-nw-independence-day-nation-20220704-k6yj4st7ibgmzoidvdrqr4z72m-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~K6YJ4ST7IBGMZOIDVDRQR4Z72M~4~5~4~4~art no"
+      "text": " NATO nations sign accession protocols for Sweden and Finland ",
+      "url": "https://www.mcall.com/news/nation-world/ct-aud-nw-nato-sweden-finland-20220705-z6lfxif225clhmwinzgdrqtq54-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~Z6LFXIF225CLHMWINZGDRQTQ54~4~5~4~4~art no"
     },
     {
-      "text": " Timeline: List of recent high-profile shootings in the US ",
-      "url": "https://www.mcall.com/news/nation-world/ct-aud-nw-mass-shootings-united-states-20220704-n4gdz2hbhbhhld4dv4tkkpwkha-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~N4GDZ2HBHBHHLD4DV4TKKPWKHA~5~5~4~4~art no"
+      "text": " Reduced COVID-19 testing across the U.S. is blurring view of the pandemic ",
+      "url": "https://www.mcall.com/news/nation-world/ct-aud-nw-nyt-covid-testing-pandemic-20220705-ngae7kjrrfhuhdedrrvqkhowee-story.html#nt=pf-triple chain~mc-section-chain-2~recommender~automated~mc-nation-world-recommender~NGAE7KJRRFHUHDEDRRVQKHOWEE~5~5~4~4~art no"
     },
     {
       "text": " Food & Drink See more Food & Drink articles      ",
@@ -2554,11 +2624,11 @@
     },
     {
       "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "https://www.mcall.com/business/retail-watch/mc-biz-wawa-hereford-opening-20220630-nr4b7yvtcre5xjftfagpxefig4-story.html#nt=pf-triple chain~unnamed-chain-1~recommender~automated~mc-retail-watch-recommend~NR4B7YVTCRE5XJFTFAGPXEFIG4~1~1~3~3~art yes"
+      "url": "https://www.mcall.com/business/retail-watch/mc-biz-phenix-salon-suites-opens-whitehall-retail-watch-20220702-aq26gbnqlncineoklmte3viheu-story.html#nt=pf-triple chain~unnamed-chain-1~recommender~automated~mc-retail-watch-recommend~AQ26GBNQLNCINEOKLMTE3VIHEU~1~1~3~3~art yes"
     },
     {
-      "text": " Wawa opens its newest location in Berks, not far from Lehigh Valley ",
-      "url": "https://www.mcall.com/business/retail-watch/mc-biz-wawa-hereford-opening-20220630-nr4b7yvtcre5xjftfagpxefig4-story.html#nt=pf-triple chain~unnamed-chain-1~recommender~automated~mc-retail-watch-recommend~NR4B7YVTCRE5XJFTFAGPXEFIG4~1~1~3~3~art yes"
+      "text": " Retail Watch: \u2018Be your own boss\u2019: New salon suite franchise in Whitehall gives hair stylists and other lifestyle professionals freedom to grow business ",
+      "url": "https://www.mcall.com/business/retail-watch/mc-biz-phenix-salon-suites-opens-whitehall-retail-watch-20220702-aq26gbnqlncineoklmte3viheu-story.html#nt=pf-triple chain~unnamed-chain-1~recommender~automated~mc-retail-watch-recommend~AQ26GBNQLNCINEOKLMTE3VIHEU~1~1~3~3~art yes"
     },
     {
       "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
@@ -2790,6 +2860,66 @@
     },
     {
       "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
+      "url": "/news/local/mc-nws-upper-macungie-shooting-20220703-7dsadnythbetjp7m5csuyp7afu-story.html#nt=barker"
+    },
+    {
+      "text": " Lehigh Valley News ",
+      "url": "https://www.mcall.com/news/local/#nt=taxonomy-article"
+    },
+    {
+      "text": " Police: Man shot early Sunday in Upper Macungie ",
+      "url": "/news/local/mc-nws-upper-macungie-shooting-20220703-7dsadnythbetjp7m5csuyp7afu-story.html#nt=barker"
+    },
+    {
+      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
+      "url": "/opinion/mc-opi-july-fourth-independence-als-20220703-v5llkgju2vf4ndcfsku75kc2s4-story.html#nt=barker"
+    },
+    {
+      "text": " Opinion ",
+      "url": "https://www.mcall.com/opinion/#nt=taxonomy-article"
+    },
+    {
+      "text": " Morning Call editor with ALS: How I was reborn on the Fourth of July ",
+      "url": "/opinion/mc-opi-july-fourth-independence-als-20220703-v5llkgju2vf4ndcfsku75kc2s4-story.html#nt=barker"
+    },
+    {
+      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
+      "url": "/news/education/mc-nws-bethlehem-afghan-immigrant-family-20220703-itq5m6cr2vblxi26xpzotphwpe-story.html#nt=barker"
+    },
+    {
+      "text": " Education ",
+      "url": "https://www.mcall.com/news/education/#nt=taxonomy-article"
+    },
+    {
+      "text": " For one 6-year-old girl whose family fled the Taliban, everything in Bethlehem was scary \u2014 even recess ",
+      "url": "/news/education/mc-nws-bethlehem-afghan-immigrant-family-20220703-itq5m6cr2vblxi26xpzotphwpe-story.html#nt=barker"
+    },
+    {
+      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
+      "url": "/news/local/mc-nws-allentown-abortion-before-roe-20220703-g5ptlpjmazav7paa4cq5h5pdfi-story.html#nt=barker"
+    },
+    {
+      "text": " Lehigh Valley News ",
+      "url": "https://www.mcall.com/news/local/#nt=taxonomy-article"
+    },
+    {
+      "text": " How people got abortions in the pre-Roe Lehigh Valley ",
+      "url": "/news/local/mc-nws-allentown-abortion-before-roe-20220703-g5ptlpjmazav7paa4cq5h5pdfi-story.html#nt=barker"
+    },
+    {
+      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
+      "url": "/business/mc-biz-keeping-retail-returns-20220702-7butg3gyhjdthkuxh4ukgmt6iy-story.html#nt=barker"
+    },
+    {
+      "text": " Business ",
+      "url": "https://www.mcall.com/business/#nt=taxonomy-article"
+    },
+    {
+      "text": " Want to return an online order? You may be able to keep it and get a refund as well ",
+      "url": "/business/mc-biz-keeping-retail-returns-20220702-7butg3gyhjdthkuxh4ukgmt6iy-story.html#nt=barker"
+    },
+    {
+      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
       "url": "/news/local/mc-nws-palmer-township-farmhouse-20220702-pswow2cjxzdf3c6my6irserbey-story.html#nt=barker"
     },
     {
@@ -2907,66 +3037,6 @@
     {
       "text": " Should Pennsylvania tout itself as a destination for abortions? ",
       "url": "/opinion/mc-opi-pennsylvania-abortion-law-economic-impact-muschick-20220630-fhj6d3bgtjan3d44klyqqhwjdy-story.html#nt=barker"
-    },
-    {
-      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "/news/local/bethlehem/mc-nws-bethlehem-lerta-progress-update-20220630-klfg5gwl6bdcdioswjizcfjt5e-story.html#nt=barker"
-    },
-    {
-      "text": " Bethlehem News ",
-      "url": "https://www.mcall.com/news/local/bethlehem/#nt=taxonomy-article"
-    },
-    {
-      "text": " Bethlehem is focusing its efforts to get developers to take on blighted properties on a specific, smaller area of the city ",
-      "url": "/news/local/bethlehem/mc-nws-bethlehem-lerta-progress-update-20220630-klfg5gwl6bdcdioswjizcfjt5e-story.html#nt=barker"
-    },
-    {
-      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "/news/education/mc-nws-allentown-school-budget-passed-20220629-fw446ftjwrcolf34gyoctiop4q-story.html#nt=barker"
-    },
-    {
-      "text": " Education ",
-      "url": "https://www.mcall.com/news/education/#nt=taxonomy-article"
-    },
-    {
-      "text": " Allentown School District taxes to increase for 6th year in a row as board passes 5.3% hike; some members warn of burden on struggling families ",
-      "url": "/news/education/mc-nws-allentown-school-budget-passed-20220629-fw446ftjwrcolf34gyoctiop4q-story.html#nt=barker"
-    },
-    {
-      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "/news/pennsylvania/mc-nws-pa-voting-rolls-20220629-m4fcoaajkjfh3djn2ajzg2wspq-story.html#nt=barker"
-    },
-    {
-      "text": " Pennsylvania News ",
-      "url": "https://www.mcall.com/news/pennsylvania/#nt=taxonomy-article"
-    },
-    {
-      "text": " Doug Mastriano\u2019s plan to \u2018reset\u2019 Pa. voter registrations ignores safeguards that already remove hundreds of thousands of ineligible voters ",
-      "url": "/news/pennsylvania/mc-nws-pa-voting-rolls-20220629-m4fcoaajkjfh3djn2ajzg2wspq-story.html#nt=barker"
-    },
-    {
-      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "/health/mc-hea-hecktown-oaks-third-phase-completed-20220629-ale62so3arg43d6wmkwoim23qm-story.html#nt=barker"
-    },
-    {
-      "text": " Health ",
-      "url": "https://www.mcall.com/health/#nt=taxonomy-article"
-    },
-    {
-      "text": " LVHN finishes expansion to Hecktown Oaks hospital ",
-      "url": "/health/mc-hea-hecktown-oaks-third-phase-completed-20220629-ale62so3arg43d6wmkwoim23qm-story.html#nt=barker"
-    },
-    {
-      "text": "      img.full-width1{flex-shrink:0;object-fit:contain;min-height:50%;height:auto;width:100%} ",
-      "url": "/news/local/mc-nws-hellertown-area-library-update-20220629-7qg5in3pwve7fmhmogljd7jjmm-story.html#nt=barker"
-    },
-    {
-      "text": " Lehigh Valley News ",
-      "url": "https://www.mcall.com/news/local/#nt=taxonomy-article"
-    },
-    {
-      "text": " Hellertown library board can keep Lower Saucon residents until end of next year or seek to ax township sooner, state says ",
-      "url": "/news/local/mc-nws-hellertown-area-library-update-20220629-7qg5in3pwve7fmhmogljd7jjmm-story.html#nt=barker"
     },
     {
       "text": "    ",
@@ -3126,7 +3196,7 @@
     "addeddate": "2022-06-24 22:58:06"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 499933424,
+  "uniq": 452918937,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

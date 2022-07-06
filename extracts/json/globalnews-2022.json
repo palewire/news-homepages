@@ -1,5 +1,5 @@
 {
-  "created": 1657067838,
+  "created": 1657109398,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/35/items/globalnews-2022",
@@ -650,31 +650,73 @@
       "sha1": "40014b9524c44bf455ee6f7749623a333eea5b95"
     },
     {
+      "name": "globalnews-2022-07-05T22:01:31.527066-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657072895",
+      "size": "23831",
+      "md5": "447132cb0f36120173aa1a4ae07b6a6a",
+      "crc32": "9d2093cd",
+      "sha1": "ed19efd2b5a5076b120b0ab4c67d3691b9b4db24",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-07-05T22:01:31.527066-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657072897",
+      "size": "67624",
+      "md5": "98404c18aeceea764e551c9d8e4c1a5b",
+      "crc32": "146d2d55",
+      "sha1": "af892d7370d2b29c5b41c1a9af4eb67132223783",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-07-05T22:01:31.527066-04:00.jpg",
+      "source": "original",
+      "mtime": "1657072893",
+      "size": "358489",
+      "md5": "ae76c98e82562e8e2f44d9bc0e9a36f9",
+      "crc32": "e27ef51e",
+      "sha1": "a0208318d56b8ee056d0d9ceccdf7962ad25a20b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globalnews-2022-07-05T22:01:31.527066-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globalnews-2022-07-05T22:01:31.527066-04:00.jpg",
+      "mtime": "1657073159",
+      "size": "11484",
+      "md5": "baaa33972138a9108512e607e35710bf",
+      "crc32": "0cc63279",
+      "sha1": "3f985fc25aa3ba3c618953502af789d5ecef85e9"
+    },
+    {
       "name": "globalnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9636df44e7acbd8f20cf46b8fe3687b06491fdf0",
-      "mtime": "1657036682",
-      "size": "14435",
-      "md5": "441356099fd6ca53c16e83b02b12886f",
-      "crc32": "ef913c69",
-      "sha1": "319f33cd8e6716449a202b64e8e5f6815099bb8a",
+      "btih": "43f3238c4dc203a08093a15aa1b324ef8f486b4a",
+      "mtime": "1657073167",
+      "size": "15293",
+      "md5": "af0e1fefbc185dde312831ea370a9af9",
+      "crc32": "45b3ad05",
+      "sha1": "83c89fe6d3805bd8f7da74867744e1b87677a724",
       "format": "Archive BitTorrent"
     },
     {
       "name": "globalnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "efda11f8c4b612370e0837a50cee52bd",
+      "md5": "bbcff3420d2a9db8f4bb2ad2030aab0d",
       "summation": "md5"
     },
     {
       "name": "globalnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657036628",
-      "size": "81920",
-      "md5": "efd6443fdc85d6ef75690aee8ab52e83",
-      "crc32": "f93bf050",
-      "sha1": "e7262ec326f5abdce8f2385876a9159abb2c6f7b",
+      "mtime": "1657072933",
+      "size": "86016",
+      "md5": "94a502c4a8f123463b6a8917762e6e40",
+      "crc32": "f0212bae",
+      "sha1": "ff0b8c7e82cd043fa994a889cf6bc22e7f4488c3",
       "format": "Metadata"
     },
     {
@@ -688,769 +730,1179 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "globalnews-2022": {
-    "role": "WebArea",
-    "name": "Global News | Latest & Current News - Weather, Sports & Health News",
-    "children": [
-      {
-        "role": "link",
-        "name": "SKIP TO MAIN CONTENT"
-      },
-      {
-        "role": "text",
-        "name": "IN THE NEWS"
-      },
-      {
-        "role": "link",
-        "name": "NATO"
-      },
-      {
-        "role": "link",
-        "name": "Travis Barker"
-      },
-      {
-        "role": "link",
-        "name": "Long Covid"
-      },
-      {
-        "role": "link",
-        "name": "Roe V. Wade"
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE"
-      },
-      {
-        "role": "link",
-        "name": "LIVE"
-      },
-      {
-        "role": "link",
-        "name": "AdChoices AdChoices"
-      },
-      {
-        "role": "link",
-        "name": "GlobalNews"
-      },
-      {
-        "role": "link",
-        "name": "World"
-      },
-      {
-        "role": "link",
-        "name": "Canada"
-      },
-      {
-        "role": "button",
-        "name": "Local"
-      },
-      {
-        "role": "link",
-        "name": "Politics"
-      },
-      {
-        "role": "link",
-        "name": "Money"
-      },
-      {
-        "role": "link",
-        "name": "Health"
-      },
-      {
-        "role": "link",
-        "name": "Entertainment"
-      },
-      {
-        "role": "link",
-        "name": "Lifestyle"
-      },
-      {
-        "role": "link",
-        "name": "Watch"
-      },
-      {
-        "role": "link",
-        "name": "Perspectives"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "Commentary"
-      },
-      {
-        "role": "link",
-        "name": "Contests"
-      },
-      {
-        "role": "link",
-        "name": "Podcasts"
-      },
-      {
-        "role": "button",
-        "name": "Full Menu"
-      },
-      {
-        "role": "button",
-        "name": "Search Menu"
-      },
-      {
-        "role": "heading",
-        "name": "GlobalNews homepage",
-        "level": 1
-      },
-      {
-        "role": "link",
-        "name": "AFN general assembly gets underway amid controversy over national chief\u2019s suspension"
-      },
-      {
-        "role": "generic",
-        "name": "Click to play video: 'AFN national chief removed from assembly agenda' PLAY VIDEO"
-      },
-      {
-        "role": "link",
-        "name": "CANADA|2 HOURS The suspension of National Chief Roseanne Archibald, who has accused the Assembly of First Nations of corruption and intimidation, is likely to dominate the three-day-long meeting."
-      },
-      {
-        "role": "link",
-        "name": "Arrest made in shooting that killed 6, injured 30 at Chicago-area Fourth of July parade WORLD|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Sweden, Finland step closer to joining NATO after signing accession protocol WORLD|3 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "\u2018Freedom Convoy\u2019 organizer Tamara Lich expected to have bail hearing Tuesday CANADA|4 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "\u2018Collateral damage\u2019: Recession, job losses likely as interest rates rise, study shows ECONOMY|38 MINS"
-      },
-      {
-        "role": "link",
-        "name": "Halifax waterfront stairs to get safety signage after swim video goes viral CANADA|52 MINS"
-      },
-      {
-        "role": "link",
-        "name": "Air Canada flight cancellations: How to get refunds, other compensation CONSUMER|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "\u2018The Green Planet\u2019: David Attenborough explores the plant world in lush BBC Earth series ENTERTAINMENT|3 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "Don\u2019t \u2018forget about me\u2019: Brittney Griner pleads with Joe Biden in letter from Russia TRENDING|35 MINS"
-      },
-      {
-        "role": "link",
-        "name": "Canada denied access to trial of Chinese-Canadian billionaire, embassy says CANADA|3 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "Italian glacier avalanche: Drone search continues for missing hikers after 7 killed WORLD|4 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "Blue Jays aim to stop 4-game slide, play the Athletics SPORTS|8 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "Limited access to abortion clinics in U.S. adds pressure to rural West HEALTH|12 HOURS"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "button",
-        "name": "CHANGE REGION Change regionToronto, ON"
-      },
-      {
-        "role": "link",
-        "name": "20\u00b0 22\u00b0 17\u00b0",
-        "description": "Weather"
-      },
-      {
-        "role": "link",
-        "name": "Showers in the Vicinity",
-        "description": "Weather"
-      },
-      {
-        "role": "link",
-        "name": "TRAFFIC Travel times & incidents"
-      },
-      {
-        "role": "heading",
-        "name": "TRENDING",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Arrest made in shooting that killed 6, injured 30 at Chicago-area Fourth of July parade"
-      },
-      {
-        "role": "link",
-        "name": "Inside Ontario group homes where kids were called \u2018paychecks\u2019"
-      },
-      {
-        "role": "link",
-        "name": "Air Canada flight cancellations: How to get refunds, other compensation"
-      },
-      {
-        "role": "link",
-        "name": "Daughter of Jays coach died in tubing accident"
-      },
-      {
-        "role": "link",
-        "name": "Blue Jays mourn death of coach\u2019s daughter"
-      },
-      {
-        "role": "link",
-        "name": "Global News Live",
-        "description": "Global News Live"
-      },
-      {
-        "role": "text",
-        "name": "Stay in the loop"
-      },
-      {
-        "role": "text",
-        "name": "Get a roundup of the most important and intriguing national stories delivered to your inbox every weekday."
-      },
-      {
-        "role": "text",
-        "name": "Sign up for National newsletter"
-      },
-      {
-        "role": "textbox",
-        "name": "Sign up for National newsletter"
-      },
-      {
-        "role": "button",
-        "name": "SIGN UP"
-      },
-      {
-        "role": "heading",
-        "name": "RUSSIA-UKRAINE WAR",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Click to read more Russia-Ukraine war news VIEW ALL"
-      },
-      {
-        "role": "link",
-        "name": "A month after Russia seized Mariupol, families of Ukrainian fighters seek their release WORLD|JUN 20"
-      },
-      {
-        "role": "link",
-        "name": "Ukraine schools closed by war: what\u2019s next? CANADA|JUN 24"
-      },
-      {
-        "role": "link",
-        "name": "Too old for army, Ukrainian partisan stole weapons from Russians WORLD|JUN 24"
-      },
-      {
-        "role": "link",
-        "name": "Ukraine crisis highlights refugee care inequities in Canada: \u2018No easy fix\u2019 CANADA|JUN 19"
-      },
-      {
-        "role": "heading",
-        "name": "LOCAL NEWS",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "NATIONAL",
-        "description": "National"
-      },
-      {
-        "role": "button",
-        "name": "Change your local region"
-      },
-      {
-        "role": "link",
-        "name": "U.S. judge rules in favour of 3 drug distributors in West Virginia opioid lawsuit WORLD|12 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "\u2018They couldn\u2019t breathe\u2019: Migrant survived deadly trailer found in Texas by staying near door WORLD|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Over 50,000 residents impacted by flood emergency in Sydney WEATHER|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Canadians donated $26.4M to Conservatives, $18.1M to Liberals in 2021 POLITICS|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Irving Abella, who documented Canada\u2019s refusal of Jewish refugees in WWII, dies at 82 CANADA|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "MORE LOCAL STORIES"
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "heading",
-        "name": "LATEST NEWS",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "CLICK TO READ MORE LATEST NEWS VIEW ALL"
-      },
-      {
-        "role": "link",
-        "name": "CN strike to end early Tuesday after union agrees to binding arbitration The employees walked off the job across the country on June 18 but have agreed to binding arbitration and will end their strike on Tuesday. CANADA|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Canada\u2019s monkeypox cases hit 300 as numbers exceed 5,800 globally As of July 4, there are 211 monkeypox cases in Quebec, 77 cases in Ontario, eight cases in Alberta and four cases in British Columbia. HEALTH|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Daughter of Blue Jays 1B coach died in Va. tubing accident RICHMOND, Va. (AP) \u2014 The 17-year-old daughter of Toronto Blue Jays first base coach Mark Budzinski died in a boating accident in Virginia over the weekend, authorities said Monday. SPORTS|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Orlando apologizes for saying they \u2018can\u2019t blame\u2019 people who won\u2019t celebrate 4th of July The City of Orlando felt compelled to backtrack, but many say their statement perfectly summed up their current feelings about the state of affairs in America. WORLD|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Daughter of Jays coach died in tubing accident Julia Budzinski, the 17-year-old daughter of first-base coach Mark (Bud) Budzinski, died in a tubing accident in Virginia on the weekend. SPORTS|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Ottawa must fill \u2018vital\u2019 victims of crime watchdog role, senator urges The federal government has left the victims of crime ombudsman job vacant since Oct. 1, 2021, and the job application process was only launched at the end of February. CANADA|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Michigan police apologize for using pictures of Black men for target practice Children on a Boy Scouts field trip were taken into the police shooting range, where images of Black men holding guns were being used for target practice. WORLD|JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Ottawa reaches $20B child welfare settlement with First Nations children Ottawa says it has signed a $20-billion final settlement agreement to compensate First Nations children and families harmed by chronic underfunding of child welfare. CANADA|JUL 4"
-      },
-      {
-        "role": "button",
-        "name": "CLICK OR HIT ENTER TO LOAD 24 MORE ITEMS LOAD MORE STORIES"
-      },
-      {
-        "role": "heading",
-        "name": "VIDEOS",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "CLICK TO SEE MORE VIDEOS VIEW ALL"
-      },
-      {
-        "role": "img",
-        "name": "Click to play video: '\u2018It was just horrible\u2019: 6 killed in mass shooting at 4th of July parade near Chicago'"
-      },
-      {
-        "role": "text",
-        "name": "2:09"
-      },
-      {
-        "role": "text",
-        "name": "\u2018It was just horrible\u2019: 6 killed in mass shooting at 4th of July parade near Chicago"
-      },
-      {
-        "role": "link",
-        "name": "\u2018It was just horrible\u2019: 6 killed in mass shooting at 4th of July parade near Chicago CRIME",
-        "description": "\u2018It was just horrible\u2019: 6 killed in mass shooting at 4th of July parade near Chicago"
-      },
-      {
-        "role": "link",
-        "name": "More details and questions about twin brothers killed in shootout with police CANADA",
-        "description": "More details and questions about twin brothers killed in shootout with police"
-      },
-      {
-        "role": "link",
-        "name": "Sentencing hearing begins for man who kidnapped, sexually assaulted Edmonton child CRIME",
-        "description": "Sentencing hearing begins for man who kidnapped, sexually assaulted Edmonton child"
-      },
-      {
-        "role": "link",
-        "name": "Air Canada flight cancellation fallout GLOBAL NEWS MORNING TORONTO",
-        "description": "Air Canada flight cancellation fallout"
-      },
-      {
-        "role": "link",
-        "name": "\u2018There was no village for us,\u2019 says former group home youth NEWS",
-        "description": "\u2018There was no village for us,\u2019 says former group home youth"
-      },
-      {
-        "role": "link",
-        "name": "MORE VIDEOS"
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "heading",
-        "name": "Latest articles by topic",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "WORLD",
-        "description": "World"
-      },
-      {
-        "role": "link",
-        "name": "Advocates stress app awareness after missing 13-year-old Edmonton girl found alive in U.S. JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Alberta to launch temporary financial support program for Ukrainian nationals JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Amber Heard seeks to throw out verdict in Johnny Depp defamation trial JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "CANADA",
-        "description": "Canada"
-      },
-      {
-        "role": "link",
-        "name": "Heartland Petrochemical Complex northeast of Edmonton produces first plastic pellets 32 MINS"
-      },
-      {
-        "role": "link",
-        "name": "One person in critical condition after \u2018serious\u2019 Main Street incident, Winnipeg police say 37 MINS"
-      },
-      {
-        "role": "link",
-        "name": "Humanitarian flight with 230 Ukrainians arrives in Regina 46 MINS"
-      },
-      {
-        "role": "link",
-        "name": "POLITICS",
-        "description": "Politics"
-      },
-      {
-        "role": "link",
-        "name": "Provincial income tax policy costs Albertans more: University of Calgary study 3 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "City of Toronto directing contractors to accommodate security guards requesting religious exemptions 5 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "Talks ongoing, but no negotiations yet with CSEC on Calgary event centre project: city committee 11 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "MONEY",
-        "description": "Money"
-      },
-      {
-        "role": "link",
-        "name": "Cathedral Energy Services buying U.S. company Altitude Energy Partners JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "SaskGaming revenue doubles in 2021-22 as COVID-19 restrictions lifted across the province JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Calgary home sales ease as some markets see pullback: board JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "HEALTH",
-        "description": "Health"
-      },
-      {
-        "role": "link",
-        "name": "Summer \u2018baby boom\u2019 returns, according to London Health Sciences Centre 1 HOUR"
-      },
-      {
-        "role": "link",
-        "name": "\u2018A nurse can\u2019t be everywhere\u2019: Ontario health care staff shortages prompt ER closures 5 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "B.C. in the midst of 3rd wave of Omicron with the peak coming in August, expert says JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "ENTERTAINMENT",
-        "description": "Entertainment"
-      },
-      {
-        "role": "link",
-        "name": "City of Guelph accepting poems for art exhibit JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Travis Barker shares details of his \u2018life-threatening\u2019 hospitalization JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "5 Songs You Must Hear This Week: 04 July 2022 JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "LIFESTYLE",
-        "description": "Lifestyle"
-      },
-      {
-        "role": "link",
-        "name": "Okanagan art exhibits challenge viewers to reinterpret definition of trash JUL 4"
-      },
-      {
-        "role": "link",
-        "name": "Raymond Stampede welcomes back professional rodeo for 120th anniversary JUL 3"
-      },
-      {
-        "role": "link",
-        "name": "Kinistin Saulteaux Nation getting Tikinagan Family Resource Centre JUL 3"
-      },
-      {
-        "role": "link",
-        "name": "PERSPECTIVES",
-        "description": "Perspectives"
-      },
-      {
-        "role": "link",
-        "name": "B.C. siblings with a rare degenerative disease inspire and help each other JUN 30"
-      },
-      {
-        "role": "link",
-        "name": "Indigenous film takes aim at \u2018Doctrine of Discovery\u2019 ahead of Pope\u2019s Canadian visit JUN 29"
-      },
-      {
-        "role": "link",
-        "name": "\u2018Intertwined\u2019: Disability and queerness intersect to form community JUN 29"
-      },
-      {
-        "role": "link",
-        "name": "SPORTS",
-        "description": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "Regina Riot players fundraise to represent Team Canada at world championship 1 HOUR"
-      },
-      {
-        "role": "link",
-        "name": "\u2018Just a small measure\u2019: North Saanich, B.C. hires security to enforce pickleball court hours 12 HOURS"
-      },
-      {
-        "role": "link",
-        "name": "Winnipeg Blue Bombers edge Argonauts to move to 4-0 12 HOURS"
-      },
-      {
-        "role": "heading",
-        "name": "MORE SPORTS NEWS",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "\u00a0"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0"
-      },
-      {
-        "role": "link",
-        "name": "SPORTSNET.CA"
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "heading",
-        "name": "Sponsored content from Outbrain",
-        "level": 2
-      },
-      {
-        "role": "heading",
-        "name": "FLYERS",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "MORE WEEKLY FLYERS"
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "heading",
-        "name": "Sponsored stories",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Global News Home"
-      },
-      {
-        "role": "link",
-        "name": "Global News Facebook Pages"
-      },
-      {
-        "role": "link",
-        "name": "Global News Twitter Accounts"
-      },
-      {
-        "role": "link",
-        "name": "Global News Youtube Channel"
-      },
-      {
-        "role": "link",
-        "name": "Global News on Instagram"
-      },
-      {
-        "role": "link",
-        "name": "Global News on Linked-In"
-      },
-      {
-        "role": "link",
-        "name": "Global News on Pinterest"
-      },
-      {
-        "role": "link",
-        "name": "Global News RSS Feeds"
-      },
-      {
-        "role": "link",
-        "name": "About"
-      },
-      {
-        "role": "link",
-        "name": "Principles & Practices"
-      },
-      {
-        "role": "link",
-        "name": "Branded Content"
-      },
-      {
-        "role": "link",
-        "name": "Contact us"
-      },
-      {
-        "role": "link",
-        "name": "RSS"
-      },
-      {
-        "role": "link",
-        "name": "Newsletters"
-      },
-      {
-        "role": "link",
-        "name": "Notifications"
-      },
-      {
-        "role": "link",
-        "name": "Smart home"
-      },
-      {
-        "role": "link",
-        "name": "Advertisers Election Registry"
-      },
-      {
-        "role": "text",
-        "name": "\u00a92022 Global News, a division of Corus Entertainment Inc. Corus News. All rights reserved. Powered by"
-      },
-      {
-        "role": "link",
-        "name": "WordPress VIP"
-      },
-      {
-        "role": "link",
-        "name": "Corus Entertainment Home"
-      },
-      {
-        "role": "text",
-        "name": "/"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy"
-      },
-      {
-        "role": "text",
-        "name": "/"
-      },
-      {
-        "role": "link",
-        "name": "Copyright"
-      },
-      {
-        "role": "text",
-        "name": "/"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Use"
-      },
-      {
-        "role": "text",
-        "name": "/"
-      },
-      {
-        "role": "link",
-        "name": "Advertise"
-      },
-      {
-        "role": "text",
-        "name": "/"
-      },
-      {
-        "role": "link",
-        "name": "Advertising Standards Terms"
-      },
-      {
-        "role": "link",
-        "name": "Corus Entertainment"
-      }
-    ]
-  },
-  "item_last_updated": 1657036682,
-  "item_size": 7269647,
+  "files_count": 69,
+  "globalnews-2022": [
+    {
+      "text": "SKIP TO MAIN CONTENT",
+      "url": "#content"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tHighland Park\n\t\t\t\t\t",
+      "url": "/tag/highland-park"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tAFN\n\t\t\t\t\t",
+      "url": "/tag/afn"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tNATO\n\t\t\t\t\t",
+      "url": "/tag/nato"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tlong covid\n\t\t\t\t\t",
+      "url": "/tag/long-covid"
+    },
+    {
+      "text": "\n\t\t\t\tGlobal News Home\n\t\t\t\t\n\t\t\t",
+      "url": "https://globalnews.ca"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\tSUBSCRIBE\n\t\t\t",
+      "url": "/pages/email-alerts/"
+    },
+    {
+      "text": "\n\t\t\t\tLIVE\n\t\t\t",
+      "url": "/live/national/"
+    },
+    {
+      "text": "\n\t\t\t\tAdChoices\n\t\t\t\tAdChoices\n\t\t\t\t\n\t\t\t",
+      "url": "https://www.corusent.com/privacy-policy/#adchoices"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t",
+      "url": "https://globalnews.ca"
+    },
+    {
+      "text": "World",
+      "url": "https://globalnews.ca/world/"
+    },
+    {
+      "text": "Canada",
+      "url": "https://globalnews.ca/canada/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://globalnews.ca/politics/"
+    },
+    {
+      "text": "Money",
+      "url": "https://globalnews.ca/money/"
+    },
+    {
+      "text": "Health",
+      "url": "https://globalnews.ca/health/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://globalnews.ca/entertainment/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://globalnews.ca/lifestyle/"
+    },
+    {
+      "text": "Watch",
+      "url": "/videos/"
+    },
+    {
+      "text": "Perspectives",
+      "url": "https://globalnews.ca/perspectives/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://globalnews.ca/sports/"
+    },
+    {
+      "text": "Commentary",
+      "url": "https://globalnews.ca/commentary/"
+    },
+    {
+      "text": "Contests",
+      "url": "/contests/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://curiouscast.ca/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\t\t\t\tHome\n\t\t\t\n\t\t",
+      "url": "/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\t\t\t\tTrending\n\t\t\t\n\t\t",
+      "url": "/top-trending"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\t\t\t\tLive\n\t\t\t\n\t\t",
+      "url": "/live/national/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\t\t\t\tLocal\n\t\t\t\n\t\t",
+      "url": "https://globalnews.ca/national/"
+    },
+    {
+      "text": "World",
+      "url": "https://globalnews.ca/world/"
+    },
+    {
+      "text": "Canada",
+      "url": "https://globalnews.ca/canada/"
+    },
+    {
+      "text": "NationalChange location",
+      "url": "https://globalnews.ca/national/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://globalnews.ca/politics/"
+    },
+    {
+      "text": "Money",
+      "url": "https://globalnews.ca/money/"
+    },
+    {
+      "text": "Health",
+      "url": "https://globalnews.ca/health/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://globalnews.ca/entertainment/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://globalnews.ca/lifestyle/"
+    },
+    {
+      "text": "Watch",
+      "url": "/videos/"
+    },
+    {
+      "text": "Perspectives",
+      "url": "https://globalnews.ca/perspectives/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://globalnews.ca/sports/"
+    },
+    {
+      "text": "Commentary",
+      "url": "https://globalnews.ca/commentary/"
+    },
+    {
+      "text": "Contests",
+      "url": "/contests/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://curiouscast.ca/"
+    },
+    {
+      "text": "Global National",
+      "url": "/national/program/global-national"
+    },
+    {
+      "text": "West Block",
+      "url": "https://globalnews.ca/national/program/the-west-block"
+    },
+    {
+      "text": "Personalities",
+      "url": "/national/staff/personalities/"
+    },
+    {
+      "text": "Video Centre",
+      "url": "/national/videos/"
+    },
+    {
+      "text": "More\u2026",
+      "url": "/national/tv-news-programs"
+    },
+    {
+      "text": "Email alerts",
+      "url": "https://globalnews.ca/pages/email-alerts/"
+    },
+    {
+      "text": "Alexa",
+      "url": "https://globalnews.ca/pages/alexa/"
+    },
+    {
+      "text": "Notifications",
+      "url": "https://globalnews.ca/pages/notifications/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://globalnews.ca/pages/contact-us/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\tNational\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t",
+      "url": "/national/"
+    },
+    {
+      "text": "Barrie",
+      "url": "https://globalnews.ca/barrie/"
+    },
+    {
+      "text": "BC",
+      "url": "https://globalnews.ca/bc/"
+    },
+    {
+      "text": "Calgary",
+      "url": "https://globalnews.ca/calgary/"
+    },
+    {
+      "text": "Durham",
+      "url": "https://globalnews.ca/durham/"
+    },
+    {
+      "text": "Edmonton",
+      "url": "https://globalnews.ca/edmonton/"
+    },
+    {
+      "text": "Guelph",
+      "url": "https://globalnews.ca/guelph/"
+    },
+    {
+      "text": "Halifax",
+      "url": "https://globalnews.ca/halifax/"
+    },
+    {
+      "text": "Hamilton",
+      "url": "https://globalnews.ca/radio/900chml/"
+    },
+    {
+      "text": "Kingston",
+      "url": "https://globalnews.ca/kingston/"
+    },
+    {
+      "text": "Kitchener",
+      "url": "https://globalnews.ca/kitchener/"
+    },
+    {
+      "text": "Lethbridge",
+      "url": "https://globalnews.ca/lethbridge/"
+    },
+    {
+      "text": "London",
+      "url": "https://globalnews.ca/radio/am980/"
+    },
+    {
+      "text": "Montreal",
+      "url": "https://globalnews.ca/montreal/"
+    },
+    {
+      "text": "New Brunswick",
+      "url": "https://globalnews.ca/new-brunswick/"
+    },
+    {
+      "text": "Okanagan",
+      "url": "https://globalnews.ca/okanagan/"
+    },
+    {
+      "text": "Ottawa",
+      "url": "https://globalnews.ca/ottawa/"
+    },
+    {
+      "text": "Peterborough",
+      "url": "https://globalnews.ca/peterborough/"
+    },
+    {
+      "text": "Regina",
+      "url": "https://globalnews.ca/regina/"
+    },
+    {
+      "text": "Saskatoon",
+      "url": "https://globalnews.ca/saskatoon/"
+    },
+    {
+      "text": "Toronto",
+      "url": "https://globalnews.ca/toronto/"
+    },
+    {
+      "text": "Winnipeg",
+      "url": "https://globalnews.ca/winnipeg/"
+    },
+    {
+      "text": "\n\tGlobal News Facebook Pages\n\t\t\n\t\t\n\t\n\t",
+      "url": "/pages/facebook/"
+    },
+    {
+      "text": "\n\tGlobal News Twitter Accounts\n\t\t\n\t\t\n\t\n\t",
+      "url": "/pages/twitter/"
+    },
+    {
+      "text": "\n\tGlobal News Youtube Channel\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.youtube.com/globalnews"
+    },
+    {
+      "text": "\n\tGlobal News on Instagram\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://instagram.com/globalnews"
+    },
+    {
+      "text": "\n\tGlobal News on Linked-In\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.linkedin.com/company/global-television?trk=biz-companies-cym"
+    },
+    {
+      "text": "\n\tGlobal News on Pinterest\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.pinterest.com/globaltvnews/"
+    },
+    {
+      "text": "\n\tGlobal News RSS Feeds\n\t\t\n\t\t\n\t\n\t",
+      "url": "/pages/feeds/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNational\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "url": "/national/"
+    },
+    {
+      "text": "Barrie",
+      "url": "https://globalnews.ca/barrie/"
+    },
+    {
+      "text": "BC",
+      "url": "https://globalnews.ca/bc/"
+    },
+    {
+      "text": "Calgary",
+      "url": "https://globalnews.ca/calgary/"
+    },
+    {
+      "text": "Durham",
+      "url": "https://globalnews.ca/durham/"
+    },
+    {
+      "text": "Edmonton",
+      "url": "https://globalnews.ca/edmonton/"
+    },
+    {
+      "text": "Guelph",
+      "url": "https://globalnews.ca/guelph/"
+    },
+    {
+      "text": "Halifax",
+      "url": "https://globalnews.ca/halifax/"
+    },
+    {
+      "text": "Hamilton",
+      "url": "https://globalnews.ca/radio/900chml/"
+    },
+    {
+      "text": "Kingston",
+      "url": "https://globalnews.ca/kingston/"
+    },
+    {
+      "text": "Kitchener",
+      "url": "https://globalnews.ca/kitchener/"
+    },
+    {
+      "text": "Lethbridge",
+      "url": "https://globalnews.ca/lethbridge/"
+    },
+    {
+      "text": "London",
+      "url": "https://globalnews.ca/radio/am980/"
+    },
+    {
+      "text": "Montreal",
+      "url": "https://globalnews.ca/montreal/"
+    },
+    {
+      "text": "New Brunswick",
+      "url": "https://globalnews.ca/new-brunswick/"
+    },
+    {
+      "text": "Okanagan",
+      "url": "https://globalnews.ca/okanagan/"
+    },
+    {
+      "text": "Ottawa",
+      "url": "https://globalnews.ca/ottawa/"
+    },
+    {
+      "text": "Peterborough",
+      "url": "https://globalnews.ca/peterborough/"
+    },
+    {
+      "text": "Regina",
+      "url": "https://globalnews.ca/regina/"
+    },
+    {
+      "text": "Saskatoon",
+      "url": "https://globalnews.ca/saskatoon/"
+    },
+    {
+      "text": "Toronto",
+      "url": "https://globalnews.ca/toronto/"
+    },
+    {
+      "text": "Winnipeg",
+      "url": "https://globalnews.ca/winnipeg/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tShare this item on Facebook\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\t\t\t\t\tfacebook\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fglobalnews%2Eca"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tShare this item via WhatsApp\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\t\t\t\t\twhatsapp\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "whatsapp://send?text=Global%20News%20%7C%20Latest%20%26%20Current%20News%20-%20Weather%2C%20Sports%20%26%20Health%20News%20-%20https%3A%2F%2Fglobalnews%2Eca"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tShare this item on Twitter\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\t\t\t\t\ttwitter\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://twitter.com/intent/tweet?text=Global%20News%20%7C%20Latest%20%26%20Current%20News%20-%20Weather%2C%20Sports%20%26%20Health%20News%20https%3A%2F%2Fglobalnews%2Eca"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tSend this page to someone via email\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\t\t\t\t\temail\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "mailto:?Subject=Global%20News%20%7C%20Latest%20%26%20Current%20News%20-%20Weather%2C%20Sports%20%26%20Health%20News&body=%0D%0AGlobal%20News%20%7C%20Latest%20%26%20Current%20News%20-%20Weather%2C%20Sports%20%26%20Health%20News%0D%0Ahttps%3A%2F%2Fglobalnews%2Eca%0D%0A%0D%0A%0D%0A"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tShare this item on Pinterest\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\t\t\t\t\tpinterest\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fglobalnews%2Eca&media=&description=Global%20News%20%7C%20Latest%20%26%20Current%20News%20-%20Weather%2C%20Sports%20%26%20Health%20News"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tShare this item on Reddit\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\t\t\t\t\treddit\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.reddit.com/submit?url=https%3A%2F%2Fglobalnews%2Eca&title=Global%20News%20%7C%20Latest%20%26%20Current%20News%20-%20Weather%2C%20Sports%20%26%20Health%20News"
+    },
+    {
+      "text": "Video link",
+      "url": "https://globalnews.ca"
+    },
+    {
+      "text": "Headline link",
+      "url": "https://globalnews.ca"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tDeath toll in July 4 Illinois shooting rises to 7 as police continue probe\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968539/highland-park-shooting/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tDeath toll in July 4 Illinois shooting rises to 7 as police continue probe\n\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWorld\n\t\t\t\t\t\t\t\t\t6 hours\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tMore than 30 people were wounded in the attack, including one who died Tuesday, said a spokesperson from the Lake County Major Crime Task Force.\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968539/highland-park-shooting/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\u2018Burying the hatchet\u2019: First Nations chiefs reject suspension of AFN national chief\n\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tPolitics\n\t\t\t\t\t\t\t\t2 hours\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968261/burying-the-hatchet-first-nations-chiefs-reject-suspension-of-afn-national-chief/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\tHighland Park shooting: Grandfather, \u2018tireless\u2019 synagogue teacher among victims\n\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCrime\n\t\t\t\t\t\t\t\t8 hours\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967721/highland-park-illinois-shooting-victims/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tTamara Lich breached conditions by appearing with fellow convoy leader, Crown says\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJul 5\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967229/freedom-convoy-organizer-tamara-lich-bail-hearing/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tHighland Park shooting suspect: What we know about the man in custody\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWorld\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967807/highland-park-shooting-suspect-robert-crimo/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tCanada ratifies NATO membership bids by Sweden, Finland as Russian assault continues\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968368/canada-ratifies-sweden-finland-nato-membership-bids/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tCanada\u2019s foreign minister will attend G20 despite Russia being there too\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968442/canada-attend-g20-russia/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\u2018Collateral damage\u2019: Recession, job losses likely as interest rates rise, study shows\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEconomy\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967478/interest-rates-recession-inflation-job-losses/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tBritish PM Boris Johnson\u2019s government loses multiple members as scandal mounts\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWorld\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 hour\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969410/boris-johnsons-loses-members/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tCanada will decide on whether to approve COVID-19 shot for kids under 5 by mid-July\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHealth\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969209/canada-covid-shot-for-kids-under-5/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tHighland Park shooting: Suspect charged with 7 counts of 1st-degree murder\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWorld\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969252/highland-park-shooting-suspect/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tFew arrests made during \u2018unprecedented\u2019 Ottawa police operation on Canada Day weekend\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCrime\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969212/ottawa-police-arrests-canada-day-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tCanada to throw away more than half of expired AstraZeneca vaccine doses\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHealth\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969124/canada-astrazeneca-vaccine-expired/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tCanada to make electric vehicle, battery manufacturing pitch Japanese automakers\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968867/canada-electric-vehicle-battery-pitch-japan/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tFans hurt by gunfire at Jays-A\u2019s game\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSports\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969079/fans-hurt-by-gunfire-at-jays-as-game/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/tag/ukraine/?utm_source=featured_widget_1&utm_medium=internal&utm_campaign=ukraine_war_2022"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t23\n\t\t\t\t\n\t\t\t\t\t26\n\t\t\t\t\t17\n\t\t\t\t\n\t\t\t\n\t\t",
+      "url": "/national/weather/CAXX0504"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tPartly Cloudy/Wind\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "url": "/national/weather/CAXX0504"
+    },
+    {
+      "text": "\n\t\t\tTraffic\n\t\t\tTravel times & incidents\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+      "url": "/national/traffic/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tFamily of man accused of luring 13-year-old Edmonton girl releases statement\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t38029\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968258/man-accused-child-luring-13-year-old-edmonton-girl-statement/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tArrest made in shooting that killed 6, injured 30 at Chicago-area Fourth of July parade\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t26644\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8965170/highland-park-illinois-shooting-fourth-of-july-parade/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tInside Ontario group homes where kids were called \u2018paychecks\u2019\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t18832\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8955604/ontario-group-home-connor-homes-kids-called-paychecks/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t$350K raised for Burger King worker who got a paltry gift bag for 27-year service\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t17517\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968708/burger-king-kevin-ford-gofundme/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tDaughter of Jays coach died in tubing accident\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t14923\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8966065/daughter-of-jays-coach-died-in-tubing-accident/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/live/national/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tFamily of man accused of luring 13-year-old Edmonton girl releases statement\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t38029\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968258/man-accused-child-luring-13-year-old-edmonton-girl-statement/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tArrest made in shooting that killed 6, injured 30 at Chicago-area Fourth of July parade\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t26644\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8965170/highland-park-illinois-shooting-fourth-of-july-parade/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tInside Ontario group homes where kids were called \u2018paychecks\u2019\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t18832\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8955604/ontario-group-home-connor-homes-kids-called-paychecks/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t$350K raised for Burger King worker who got a paltry gift bag for 27-year service\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t17517\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968708/burger-king-kevin-ford-gofundme/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tDaughter of Jays coach died in tubing accident\n\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t14923\n\t\t\t\t\t\t\tRead\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/news/8966065/daughter-of-jays-coach-died-in-tubing-accident/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/live/national/"
+    },
+    {
+      "text": "\n\t\t\tClick to read more Russia-Ukraine war news\n\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "/tag/ukraine/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tA month after Russia seized Mariupol, families of Ukrainian fighters seek their release\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWorld\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJun 20\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8927751/ukriane-russia-mariupol-azovstal-families/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tUkraine schools closed by war: what\u2019s next?\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJun 24\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8944619/ukraine-schools-closed-whats-next/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tToo old for army, Ukrainian partisan stole weapons from Russians\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWorld\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJun 24\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8944479/partisan-stole-weapons-russians-gave-to-ukrainian/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tUkraine crisis highlights refugee care inequities in Canada: \u2018No easy fix\u2019\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJun 19\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8915495/ukraine-canada-refugee-care/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tMore stories\n\t\t\t\t\n\t\t\t\n",
+      "url": "/tag/ukraine/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\tNational\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t",
+      "url": "/national/"
+    },
+    {
+      "text": "Barrie",
+      "url": "https://globalnews.ca/barrie/"
+    },
+    {
+      "text": "BC",
+      "url": "https://globalnews.ca/bc/"
+    },
+    {
+      "text": "Calgary",
+      "url": "https://globalnews.ca/calgary/"
+    },
+    {
+      "text": "Durham",
+      "url": "https://globalnews.ca/durham/"
+    },
+    {
+      "text": "Edmonton",
+      "url": "https://globalnews.ca/edmonton/"
+    },
+    {
+      "text": "Guelph",
+      "url": "https://globalnews.ca/guelph/"
+    },
+    {
+      "text": "Halifax",
+      "url": "https://globalnews.ca/halifax/"
+    },
+    {
+      "text": "Hamilton",
+      "url": "https://globalnews.ca/radio/900chml/"
+    },
+    {
+      "text": "Kingston",
+      "url": "https://globalnews.ca/kingston/"
+    },
+    {
+      "text": "Kitchener",
+      "url": "https://globalnews.ca/kitchener/"
+    },
+    {
+      "text": "Lethbridge",
+      "url": "https://globalnews.ca/lethbridge/"
+    },
+    {
+      "text": "London",
+      "url": "https://globalnews.ca/radio/am980/"
+    },
+    {
+      "text": "Montreal",
+      "url": "https://globalnews.ca/montreal/"
+    },
+    {
+      "text": "New Brunswick",
+      "url": "https://globalnews.ca/new-brunswick/"
+    },
+    {
+      "text": "Okanagan",
+      "url": "https://globalnews.ca/okanagan/"
+    },
+    {
+      "text": "Ottawa",
+      "url": "https://globalnews.ca/ottawa/"
+    },
+    {
+      "text": "Peterborough",
+      "url": "https://globalnews.ca/peterborough/"
+    },
+    {
+      "text": "Regina",
+      "url": "https://globalnews.ca/regina/"
+    },
+    {
+      "text": "Saskatoon",
+      "url": "https://globalnews.ca/saskatoon/"
+    },
+    {
+      "text": "Toronto",
+      "url": "https://globalnews.ca/toronto/"
+    },
+    {
+      "text": "Winnipeg",
+      "url": "https://globalnews.ca/winnipeg/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tCanada to make electric vehicle, battery manufacturing pitch Japanese automakers\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968867/canada-electric-vehicle-battery-pitch-japan/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tFans hurt by gunfire at Jays-A\u2019s game\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSports\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969079/fans-hurt-by-gunfire-at-jays-as-game/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tS&P/TSX composite closes down nearly 200 points, crude oil plummets\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tConsumer\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968956/sp-tsx-composite-closes-down-nearly-200-points-crude-oil-plummets/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tFans injured by \u2018celebratory gunfire\u2019 following Blue Jays game in Oakland\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCrime\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968836/fans-injured-celebratory-gunfire-blue-jays-game-oakland/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t$350K raised for Burger King worker who got a paltry gift bag for 27-year service\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTrending\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968708/burger-king-kevin-ford-gofundme/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tA report card look at Blue Jays\u2019 first half\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSports\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968523/a-report-card-look-at-blue-jays-first-half/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tMore Local Stories\n\t\t\t\t\n\t\t\t\n",
+      "url": "/national/"
+    },
+    {
+      "text": "\n\t\t\tClick to see more videos\n\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "/videos/"
+    },
+    {
+      "text": "\n\t\t\tClick to see more videos\n\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "/videos/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tNews\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tAdvocates urge online safety after missing Edmonton teen found in U.S.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tA 41-year-old man is facing child luring charges after a missing Edmonton 13-year-old was found in Oregon. Now, many people want to know how to prevent something similar from happening to other children. Kim Smith reports. \t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/video/8966806/advocates-urge-online-safety-after-missing-edmonton-teen-found-in-u-s/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tNews\n\t\t\t\t\n\t\t\t\t\t\tAdvocates urge online safety after missing Edmonton teen found in U.S.\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8966806/advocates-urge-online-safety-after-missing-edmonton-teen-found-in-u-s/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tCrime\n\t\t\t\t\n\t\t\t\t\t\t\u2018It was just horrible\u2019: 6 killed in mass shooting at 4th of July parade near Chicago\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8966863/it-was-just-horrible-6-killed-in-mass-shooting-at-4th-of-july-parade-near-chicago/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tCanada\n\t\t\t\t\n\t\t\t\t\t\tOregon man arrested for child luring, as missing girl reunites with family\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8964695/oregon-man-arrested-for-child-luring-as-missing-girl-reunites-with-family/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tCanada\n\t\t\t\t\n\t\t\t\t\t\tMore details and questions about twin brothers killed in shootout with police\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8966945/more-details-and-questions-about-twin-brothers-killed-in-shootout-with-police/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tCrime\n\t\t\t\t\n\t\t\t\t\t\tSentencing hearing begins for man who kidnapped, sexually assaulted Edmonton child\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8967117/sentencing-hearing-begins-for-man-who-kidnapped-sexually-assaulted-edmonton-child/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tGlobal News Morning Toronto\n\t\t\t\t\n\t\t\t\t\t\tAir Canada flight cancellation fallout\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8965032/air-canada-flight-cancellation-fallout/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tNews\n\t\t\t\t\n\t\t\t\t\t\t\u2018There was no village for us,\u2019 says former group home youth\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8966246/there-was-no-village-for-us-says-former-group-home-youth/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tCrime\n\t\t\t\t\n\t\t\t\t\t\tSuspected gunman planned attack \u2018for several weeks\u2019 before Fourth of July parade shooting, police say\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8968005/suspected-gunman-planned-attack-for-several-weeks-before-fourth-of-july-parade-shooting-police-say/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tCanada\n\t\t\t\t\n\t\t\t\t\t\tNational Chief  removed from AFN Assembly agenda\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8967012/national-chief-removed-from-afn-assembly-agenda/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tGlobal News at 6 Halifax\n\t\t\t\t\n\t\t\t\t\t\tSpring Garden Road closes to vehicle traffic\n\t\t\n\t",
+      "url": "https://globalnews.ca/video/8966210/spring-garden-road-closes-to-vehicle-traffic/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\t\tCrime\n\t\t\t\t\n\t\t\t\u2018It was just horrible\u2019: 6 killed in mass shooting at 4th of July parade near Chicago\n\t\t",
+      "url": "https://globalnews.ca/video/8966863/it-was-just-horrible-6-killed-in-mass-shooting-at-4th-of-july-parade-near-chicago/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\t\tCanada\n\t\t\t\t\n\t\t\tOregon man arrested for child luring, as missing girl reunites with family\n\t\t",
+      "url": "https://globalnews.ca/video/8964695/oregon-man-arrested-for-child-luring-as-missing-girl-reunites-with-family/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\t\tCanada\n\t\t\t\t\n\t\t\tMore details and questions about twin brothers killed in shootout with police\n\t\t",
+      "url": "https://globalnews.ca/video/8966945/more-details-and-questions-about-twin-brothers-killed-in-shootout-with-police/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\t\tCrime\n\t\t\t\t\n\t\t\tSentencing hearing begins for man who kidnapped, sexually assaulted Edmonton child\n\t\t",
+      "url": "https://globalnews.ca/video/8967117/sentencing-hearing-begins-for-man-who-kidnapped-sexually-assaulted-edmonton-child/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tMore videos\n\t\t\t\t\n\t\t\t\n",
+      "url": "/videos/"
+    },
+    {
+      "text": "\n\t\t\tClick to read more latest news\n\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "/latest"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tA report card look at Blue Jays\u2019 first half\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAfter closing the first half of the regular season at 44-37, the Toronto Blue Jays find themselves hovering near the playoff cutline as the second half of the campaign begins.\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSports\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968523/a-report-card-look-at-blue-jays-first-half/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tHighland Park suspect planned attack, wore women\u2019s clothes to evade police\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tPolice in the Chicago suburb scarred by America's latest mass shooting say the suspect planned the attack for several weeks and wore women's clothing to conceal his identity.\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968294/highland-park-suspect-planned-attack-womens-clothes-police/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tFamily of man accused of luring 13-year-old Edmonton girl releases statement\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tThe family of a 40-year-old man charged with child luring involving an Edmonton teenager released a statement Tuesday.\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCrime\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968258/man-accused-child-luring-13-year-old-edmonton-girl-statement/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tAlberta to intervene in proceedings on Rogers, Shaw merger\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tThe notice of intervention states that the ``successes and failures'' of the deal will have an impact on Alberta consumers and the province's economy.\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEconomy\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968153/alberta-intervene-proceedings-rogers-shaw-merger/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tYukon under heat warning as wildfires close roads and residents evacuate\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tParts of the Yukon Territories are under an evacuation alert as well as a heat warning as wildfires force the closure of part of the Klondike Highway.\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEnvironment\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968288/yukon-heart-warning-wildfires/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tQuebec victims group surprised after man gets conditional discharge for sex assault\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA Quebec court judge gave Simon Houle probation and a conditional discharge, in part because a conviction would make it hard for him to travel for his job as an engineer.\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968230/quebec-man-conditional-discharge-sexual-assault/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\tSome Quebec overnight camps are being forced to close following COVID-19 outbreaks\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn association representing summer camps in Quebec is asking for some public health orders including masking and screening to be reinstated following COVID-19 outbreaks.\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHealth\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968126/quebec-overnight-camps-closures-covid-19-outbreaks/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\u2018The truth will be told\u2019: AFN national chief leads procession into annual general assembly\n\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tBefore the grand procession on Tuesday, a small rally was held outside the Vancouver Convention Centre to support National Chief RoseAnne Archibald.\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\t\t\n\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967792/afn-national-chief-annual-general-assembly/"
+    },
+    {
+      "text": "\n\t\t\tClick to see more videos\n\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "/videos/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\tAdvocates urge online safety after missing Edmonton teen found in U.S.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tNews\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\u2018It was just horrible\u2019: 6 killed in mass shooting at 4th of July parade near Chicago\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tCrime\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\n\t\t\tOregon man arrested for child luring, as missing girl reunites with family\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tCanada\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\n\t\t\tMore details and questions about twin brothers killed in shootout with police\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tCanada\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\n\t\t\tSentencing hearing begins for man who kidnapped, sexually assaulted Edmonton child\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tCrime\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tMore videos\n\t\t\t\t\n\t\t\t\n",
+      "url": "/videos/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tWorld\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/world/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/world/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tMixed reaction from rescue groups as Canada bans commercial dogs from high-risk rabies countries\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967911/reaction-dog-rescue-groups-canada-ban-rabies/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tHighland Park community in \u2018unbelievable shock\u2019 after deadly July 4 shooting\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t10 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967621/highland-park-july-4-shooting-reaction/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tDon\u2019t \u2018forget about me\u2019: Brittney Griner pleads with Joe Biden in letter from Russia\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967481/brittney-griner-letter-joe-biden-russia-wnba/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tMore World stories\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/world/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tCanada\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/canada/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/canada/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tB.C. emergency crews rescue injured climber from Skaha Bluffs\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 hour\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969418/injured-climber-rescued-skaha-bluffs/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tVernon among B.C.\u2019s \u2018deadliest communities\u2019 for black bears\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 hour\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969347/vernon-bc-deadliest-communities-black-bears/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tOkanagan bracing for possible labour unrest as numerous contracts set to expire\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969177/okanagan-bracing-labour-unrest/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tMore Canada stories\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/canada/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tPolitics\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/politics/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/politics/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tCUPE calls for Saskatchewan long-term health care facilities to remain in public sector\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t23 mins\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969473/cupe-long-term-care-facilities-public-sector/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tProvince offers B.C. public sector union 11% annual pay raise as job action looms\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 hour\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969396/bcgeu-talks-offer-job-action/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tTwo Calgary city councillors sanctioned after investigation by integrity commissioner\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969206/calgary-city-councillors-sanctioned-july-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tMore Politics stories\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/politics/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tMoney\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/money/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/money/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tSome Albertans are driving the extra mile to save money at the gas pumps\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 hour\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969351/higher-gas-prices-in-cities-versus-rural-alberta/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tRetirement? In this economy? How young Canadians can save amid high inflation\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t11 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967542/retirement-in-this-economy-how-young-canadians-can-save-amid-high-inflation/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tProvincial income tax policy costs Albertans more: University of Calgary study\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJul 5\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8965245/de-indexation-more-taxes-alberta/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tMore Money stories\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/money/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tHealth\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/health/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/health/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tAHS adds 9 more ambulances to Calgary and Edmonton\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968741/nine-new-ambulances-calgary-edmonton/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tPeel Region, South Asian community disproportionately hit during first year of COVID-19: study\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967841/peel-region-south-asian-community-covid-19-impact-study/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tEnd of COVID 19 isolation requirement in N.S. sparks calls for paid sick leave\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968342/end-of-covid-19-isolation-requirement-in-n-s-sparks-calls-for-paid-sick-leave/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tMore Health stories\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/health/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tEntertainment\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/entertainment/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/entertainment/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tCalgary buzzing with Stampede kickoff just days away: \u2018It\u2019s so exciting\u2019\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969338/calgary-stampede-2022-kickoff/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tShakespeare Kelowna offering up laughs with the Merry Wives of Windsor\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968820/shakespeare-kelowna-offering-up-laughs-with-the-merry-wives-of-windsor/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\u2018The Green Planet\u2019: David Attenborough explores the plant world in lush BBC Earth series\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJul 5\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8955794/the-green-planet-david-attenborough-plants-bbc-earth/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tMore Entertainment stories\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/entertainment/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tLifestyle\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/lifestyle/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/lifestyle/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tOkanagan art exhibits challenge viewers to reinterpret definition of trash\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJul 4\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8966518/okanagan-art-exhibits-trash-kelowna/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tRaymond Stampede welcomes back professional rodeo for 120th anniversary\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJul 3\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8964521/raymond-stampede-professional-rodeo-returns/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tKinistin Saulteaux Nation getting Tikinagan Family Resource Centre\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJul 3\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8964460/kinistin-saulteaux-nation-getting-tikinagan-famile-resource-centre/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tMore Lifestyle stories\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/lifestyle/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tPerspectives\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/perspectives/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/perspectives/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tB.C. siblings with a rare degenerative disease inspire and help each other\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJun 30\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8960707/b-c-siblings-with-a-rare-degenerative-disease-inspire-and-help-each-other/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tIndigenous film takes aim at \u2018Doctrine of Discovery\u2019 ahead of Pope\u2019s Canadian visit\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJun 29\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8956653/indigenous-film-doctrine-of-discovery-papal-visit/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\u2018Intertwined\u2019: Disability and queerness intersect to form community\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJun 29\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8942924/queercrip-disability-queerness/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tMore Perspectives stories\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/perspectives/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSports\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://globalnews.ca/sports/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tView all\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/sports/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tElks defence ready to flip script against Stampeders on Thursday\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t51 mins\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8969514/edmonton-elks-defence-calgary-stampeders-cfl/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tFormer Oilers player Mike Grier becomes NHL\u2019s 1st Black GM\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8968970/former-oiler-mike-grier-first-nhl-black-gm-sharks/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tWickenheiser among 3 Toronto Maple Leafs promoted to assistant general manager\n\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t10 hours\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://globalnews.ca/news/8967686/wickenheiser-among-3-toronto-maple-leafs-promoted/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tMore Sports stories\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca/sports/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tSportsnet.ca\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://sportsnet.ca"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tSportsnet.ca\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://sportsnet.ca"
+    },
+    {
+      "text": "\n\t\t\t\n\t\tMore weekly flyers\n\t\t\t\t\n\t\t\t\n",
+      "url": "https://globalnews.ca/pages/flyers/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://globalnews.ca"
+    },
+    {
+      "text": "\n\tGlobal News Facebook Pages\n\t\t\n\t\t\n\t\n\t",
+      "url": "/pages/facebook/"
+    },
+    {
+      "text": "\n\tGlobal News Twitter Accounts\n\t\t\n\t\t\n\t\n\t",
+      "url": "/pages/twitter/"
+    },
+    {
+      "text": "\n\tGlobal News Youtube Channel\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.youtube.com/globalnews"
+    },
+    {
+      "text": "\n\tGlobal News on Instagram\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://instagram.com/globalnews"
+    },
+    {
+      "text": "\n\tGlobal News on Linked-In\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.linkedin.com/company/global-television?trk=biz-companies-cym"
+    },
+    {
+      "text": "\n\tGlobal News on Pinterest\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.pinterest.com/globaltvnews/"
+    },
+    {
+      "text": "\n\tGlobal News RSS Feeds\n\t\t\n\t\t\n\t\n\t",
+      "url": "/pages/feeds/"
+    },
+    {
+      "text": "About",
+      "url": "https://globalnews.ca/pages/about/"
+    },
+    {
+      "text": "Principles & Practices",
+      "url": "https://globalnews.ca/pages/principles-practices/"
+    },
+    {
+      "text": "Branded Content",
+      "url": "https://globalnews.ca/branded-content/"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://globalnews.ca/pages/contact-us/"
+    },
+    {
+      "text": "RSS",
+      "url": "https://globalnews.ca/pages/feeds/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://globalnews.ca/pages/email-alerts/"
+    },
+    {
+      "text": "Notifications",
+      "url": "https://globalnews.ca/pages/notifications/"
+    },
+    {
+      "text": "Smart home",
+      "url": "https://globalnews.ca/pages/alexa/"
+    },
+    {
+      "text": "Advertisers Election Registry",
+      "url": "https://globalnews.ca/pages/advertisers-election-registry/"
+    },
+    {
+      "text": "WordPress VIP",
+      "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=globalnews.ca"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://www.corusent.com/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.corusent.com/privacy-policy/"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.corusent.com/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.corusent.com/terms-of-use/"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://www.corusent.com/advertising/"
+    },
+    {
+      "text": "Advertising Standards Terms",
+      "url": "https://www.corusent.com/terms-and-conditions/"
+    },
+    {
+      "text": "Corus Entertainment",
+      "url": "https://www.corusent.com/media-centre/brands/"
+    }
+  ],
+  "item_last_updated": 1657073167,
+  "item_size": 7736029,
   "metadata": {
     "identifier": "globalnews-2022",
     "collection": [
@@ -1468,7 +1920,7 @@
     "addeddate": "2022-06-30 22:35:53"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 1682234653,
+  "uniq": 1543081594,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

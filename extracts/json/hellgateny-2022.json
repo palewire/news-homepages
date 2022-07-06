@@ -1,5 +1,5 @@
 {
-  "created": 1657067842,
+  "created": 1657109411,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/hellgateny-2022",
@@ -142,31 +142,73 @@
       "sha1": "f0ab109d4cc44786a697238d44ed2d72d3b4a6b6"
     },
     {
+      "name": "hellgateny-2022-07-05T22:01:31.744809-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657072897",
+      "size": "4528",
+      "md5": "fd8922957088a9527f1ccde7a4654d8a",
+      "crc32": "2895ace7",
+      "sha1": "fc88d0ac82c019765432568415c0bcafe4e23985",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-07-05T22:01:31.744809-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657072899",
+      "size": "6729",
+      "md5": "ab58cc83ac0ae3f26c55064a69893e9f",
+      "crc32": "c6859973",
+      "sha1": "4c30095a274f687e666e9429e86a8e489ef16e2d",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-07-05T22:01:31.744809-04:00.jpg",
+      "source": "original",
+      "mtime": "1657072896",
+      "size": "236769",
+      "md5": "e177138a3459198f5278419782196f97",
+      "crc32": "3b23f113",
+      "sha1": "4977c387162e9ee48a9a5509bf2422f857e10a62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-07-05T22:01:31.744809-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-07-05T22:01:31.744809-04:00.jpg",
+      "mtime": "1657073136",
+      "size": "8462",
+      "md5": "870f0d7cc9568172d55aa6e4809a0011",
+      "crc32": "8a35aaa3",
+      "sha1": "f0ab109d4cc44786a697238d44ed2d72d3b4a6b6"
+    },
+    {
       "name": "hellgateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c38cb41f99c3163c3920acbc97b556c7fd89b0f0",
-      "mtime": "1657032490",
-      "size": "4169",
-      "md5": "2f1aa4e8187bf22db9e3f7e979acc911",
-      "crc32": "1b000b53",
-      "sha1": "41e6f24a1965ce8e248802f4e7d81ae637fe48cd",
+      "btih": "00a811dd47bf4bd223feb9fdcad5fbd03a98c27f",
+      "mtime": "1657073140",
+      "size": "5024",
+      "md5": "56da8ef350e93d53748549d60d51e0e7",
+      "crc32": "0dfcb6a2",
+      "sha1": "f34e404d72a9d75e39f124a4d8477fe3fa67a170",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hellgateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "64e47aa124777d75aa240d22ede0214e",
+      "md5": "149fc9e9c8914e3951894ed82fe884a9",
       "summation": "md5"
     },
     {
       "name": "hellgateny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657032452",
-      "size": "32768",
-      "md5": "aba31abadbcd1ab6d375ad32f372fddd",
-      "crc32": "ea55fc79",
-      "sha1": "ba32bdd604da86979a4008c5f046d3f3604f9f7d",
+      "mtime": "1657072933",
+      "size": "36864",
+      "md5": "e3e74276ff25052fec9aa0125f54bb18",
+      "crc32": "3bb059c0",
+      "sha1": "6308773261b22d97b0bf9eed75d0a18a4b4c696a",
       "format": "Metadata"
     },
     {
@@ -180,7 +222,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 17,
+  "files_count": 21,
   "hellgateny-2022": [
     {
       "text": "Good Blogs for the Greatest City",
@@ -295,8 +337,8 @@
       "url": "https://ghost.org/"
     }
   ],
-  "item_last_updated": 1657032490,
-  "item_size": 820679,
+  "item_last_updated": 1657073140,
+  "item_size": 1082118,
   "metadata": {
     "identifier": "hellgateny-2022",
     "collection": [
@@ -314,7 +356,7 @@
     "addeddate": "2022-07-04 21:54:35"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 101561626,
+  "uniq": 1350142708,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

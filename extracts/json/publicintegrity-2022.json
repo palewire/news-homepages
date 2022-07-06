@@ -1,5 +1,5 @@
 {
-  "created": 1657068095,
+  "created": 1657109690,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/publicintegrity-2022",
@@ -2976,31 +2976,73 @@
       "sha1": "271db33103e775c934f654b3afc7de2807c703ab"
     },
     {
+      "name": "publicintegrity-2022-07-05T23:14:47.826632-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657077294",
+      "size": "20763",
+      "md5": "607ff421521fd8529d047dd11b7c02dd",
+      "crc32": "24cf7b0d",
+      "sha1": "afce2e1e28b8761d651da97b59670db23b158d55",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-05T23:14:47.826632-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657077296",
+      "size": "25031",
+      "md5": "b2fd43be6a72d4e7d4f1c432238c49a9",
+      "crc32": "447eabba",
+      "sha1": "b775be89c863c7bfc8717dc41d30d34530d8e53d",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-05T23:14:47.826632-04:00.jpg",
+      "source": "original",
+      "mtime": "1657077292",
+      "size": "306729",
+      "md5": "3e0885a1a36f93e09f5043f1ec64c8ab",
+      "crc32": "45209716",
+      "sha1": "7e318d0019f60875b4b426bc166c327821639e19",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicintegrity-2022-07-05T23:14:47.826632-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicintegrity-2022-07-05T23:14:47.826632-04:00.jpg",
+      "mtime": "1657077365",
+      "size": "10453",
+      "md5": "c90bad5d7e00917dc4f23821d9e2f2cc",
+      "crc32": "747b5244",
+      "sha1": "271db33103e775c934f654b3afc7de2807c703ab"
+    },
+    {
       "name": "publicintegrity-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4818f2a6a1ade38d4af0ead56435462758902860",
-      "mtime": "1657036774",
-      "size": "63090",
-      "md5": "fda47995d6b2535f45dc03623828e0a6",
-      "crc32": "9007a2c2",
-      "sha1": "9f3f60ffa0da30feab51388cb9fa3077997a2359",
+      "btih": "3c007caee8d412ab93ba14b7e2186267fa5188e2",
+      "mtime": "1657077370",
+      "size": "63968",
+      "md5": "0dfbdb280026d97286b5573196786c64",
+      "crc32": "26d23eb7",
+      "sha1": "f0aa8a34803630272b947c9035a39ef2f1efa256",
       "format": "Archive BitTorrent"
     },
     {
       "name": "publicintegrity-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31d70785b7894b1f4da358200c76767d",
+      "md5": "b22aa297f41d7e3996ba6ede0815678d",
       "summation": "md5"
     },
     {
       "name": "publicintegrity-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657036719",
-      "size": "348160",
-      "md5": "8563180753a25f8fcfaaa103e9edbb65",
-      "crc32": "4613e613",
-      "sha1": "5f77ed8808bc6be9563fe14ed4c3cbcf34503bbc",
+      "mtime": "1657077299",
+      "size": "352256",
+      "md5": "b98b88f3c2907266fc16143fd10f9e42",
+      "crc32": "2b019780",
+      "sha1": "028f8f602ff36a7e473ffb20f82a6ba6ea9cada1",
       "format": "Metadata"
     },
     {
@@ -3014,9 +3056,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 287,
-  "item_last_updated": 1657036774,
-  "item_size": 25096234,
+  "files_count": 291,
+  "item_last_updated": 1657077370,
+  "item_size": 25464184,
   "metadata": {
     "identifier": "publicintegrity-2022",
     "collection": [
@@ -3034,10 +3076,6 @@
     "addeddate": "2022-06-18 03:27:11"
   },
   "publicintegrity-2022": [
-    {
-      "text": "",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=cpi&campaign=7015G000001IzlqQAC&_gl=1*sf04p7*_ga*MTAxNDU3NzI1Mi4xNjU2MDk2MzM5"
-    },
     {
       "text": "DEMOCRACY",
       "url": "https://publicintegrity.org/topics/politics/"
@@ -3783,10 +3821,10 @@
       "url": "https://publicintegrity.org/about/privacy-policy-and-terms-of-use%ef%bb%bf/"
     }
   ],
-  "server": "ia601407.us.archive.org",
-  "uniq": 704158995,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1727072841,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

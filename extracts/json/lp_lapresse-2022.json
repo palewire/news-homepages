@@ -1,5 +1,5 @@
 {
-  "created": 1657067978,
+  "created": 1657109562,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/25/items/lp_lapresse-2022",
@@ -730,31 +730,73 @@
       "sha1": "651387a4751dd38c43e651cdef3928e2728c8a6c"
     },
     {
+      "name": "lp_lapresse-2022-07-05T22:03:52.119919-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657073038",
+      "size": "91339",
+      "md5": "162d0df7dcafff4e6bcef619f3ac8505",
+      "crc32": "14375f11",
+      "sha1": "90a8c98af1a42fcf2e40db2b0b506482d13b1f0c",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-07-05T22:03:52.119919-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657073042",
+      "size": "151362",
+      "md5": "cf05b230f2af8051cf4c8da91196bfd2",
+      "crc32": "a004be15",
+      "sha1": "88ba6c03f54dd889d217af793f67ef28e3fa1916",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-07-05T22:03:52.119919-04:00.jpg",
+      "source": "original",
+      "mtime": "1657073035",
+      "size": "231670",
+      "md5": "1898fc2b89e1e92664748084ce79ff67",
+      "crc32": "bf8a931e",
+      "sha1": "aca35a84ef815ad21eb15ea16210f1258dc99f75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lp_lapresse-2022-07-05T22:03:52.119919-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lp_lapresse-2022-07-05T22:03:52.119919-04:00.jpg",
+      "mtime": "1657073248",
+      "size": "9823",
+      "md5": "d9f8ef5ee1eafc8f53f2acdc3e8ff947",
+      "crc32": "2627fc06",
+      "sha1": "85c145a62caf6a9bfb70f2018ca5b4e39a1c73a7"
+    },
+    {
       "name": "lp_lapresse-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3c1bb136f579f9ff181ac70ef7cb50bcd640b92",
-      "mtime": "1657036518",
-      "size": "16345",
-      "md5": "64369e131a1918cf748888a145c746d0",
-      "crc32": "f34b445f",
-      "sha1": "aca8137e46725cb83069ed4283b8bb08db7da571",
+      "btih": "25c1c2079440a1b4a435535e21c09ff2f6f7f306",
+      "mtime": "1657073251",
+      "size": "17188",
+      "md5": "15ec936b3ac7819a6a0995001bf68808",
+      "crc32": "19c5a48d",
+      "sha1": "dd76f6a4d4902fc58c93bf43c04bc964817ac3d3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lp_lapresse-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c53e1b4273b3fc3555e1f9baaddba099",
+      "md5": "854d41193cdb6608eb26c287e266da77",
       "summation": "md5"
     },
     {
       "name": "lp_lapresse-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657036446",
-      "size": "90112",
-      "md5": "9aaff35070744b2f0611fb9847cf806a",
-      "crc32": "6bfaf2c9",
-      "sha1": "b2ede7980a5cf1a572a4c623593532ab2fb2f1e9",
+      "mtime": "1657073133",
+      "size": "102400",
+      "md5": "1254a195493f18e43323d86dd2cf30e6",
+      "crc32": "f93abbe8",
+      "sha1": "0700fb2dde353c29e6bc0ef27e4315ed0e6d9262",
       "format": "Metadata"
     },
     {
@@ -768,9 +810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 73,
-  "item_last_updated": 1657036518,
-  "item_size": 9458146,
+  "files_count": 77,
+  "item_last_updated": 1657073251,
+  "item_size": 9955471,
   "lp_lapresse-2022": [
     {
       "text": "\u00c0 propos de La Presse",
@@ -785,7 +827,7 @@
       "url": "https://www.lapresse.ca"
     },
     {
-      "text": "\n            Montr\u00e9al\n            \n            20\u00b0C\n        ",
+      "text": "\n            Montr\u00e9al\n            \n            18\u00b0C\n        ",
       "url": "https://www.lapresse.ca/meteo/ville/1827"
     },
     {
@@ -1381,6 +1423,34 @@
       "url": "https://www.lapresse.ca/politique.php"
     },
     {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                                    Balados\n                                ",
+      "url": "/sports/balados/"
+    },
+    {
+      "text": "Sortie de zone, saison\u00a03",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                        \u00c9pisode\u00a060\u00a0: Nos pr\u00e9dictions des trois premiers choix\n                    ",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/international/2022-07-05/le-monde-en-images.php"
+    },
+    {
+      "text": "\n                                    International\n                                ",
+      "url": "/international/"
+    },
+    {
+      "text": "\n                        Le monde en images\n                    ",
+      "url": "https://www.lapresse.ca/international/2022-07-05/le-monde-en-images.php"
+    },
+    {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    01:06\n\n\n                            ",
       "url": "https://www.lapresse.ca/affaires/economie/2022-07-05/mieux-comprendre-l-inflation.php"
     },
@@ -1394,167 +1464,167 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/arts/spectacles/2022-07-05/festival-international-de-jazz-de-montreal/a-voir-aujourd-hui.php"
-    },
-    {
-      "text": "\n                                    Spectacles\n                                ",
-      "url": "/arts/spectacles/"
-    },
-    {
-      "text": "Festival international de jazz de Montr\u00e9al",
-      "url": "https://www.lapresse.ca/arts/spectacles/2022-07-05/festival-international-de-jazz-de-montreal/a-voir-aujourd-hui.php"
-    },
-    {
-      "text": "\n                        \u00c0 voir aujourd\u2019hui\n                    ",
-      "url": "https://www.lapresse.ca/arts/spectacles/2022-07-05/festival-international-de-jazz-de-montreal/a-voir-aujourd-hui.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/arts/arts-visuels/2022-07-05/les-tours-de-force-de-claude-tousignant.php"
-    },
-    {
-      "text": "\n                                    Arts visuels\n                                ",
-      "url": "/arts/arts-visuels/"
-    },
-    {
-      "text": "\n                        Les tours de force de Claude Tousignant\n                    ",
-      "url": "https://www.lapresse.ca/arts/arts-visuels/2022-07-05/les-tours-de-force-de-claude-tousignant.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
-    },
-    {
-      "text": "\n                                    Affaires\n                                ",
-      "url": "/affaires/"
-    },
-    {
-      "text": "Place aux lecteurs",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
-    },
-    {
-      "text": "\n                        Hausse du taux directeur\u00a0: des craintes pour l\u2019avenir\n                    ",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/covid-19/2022-07-05/une-ombre-au-dessus-des-camps-de-vacances.php"
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-prendre-maintenant-ou-attendre-a-l-automne.php"
     },
     {
       "text": "\n                                    COVID-19\n                                ",
       "url": "/covid-19/"
     },
     {
-      "text": "\n                        Une ombre au-dessus des camps de vacances\n                    ",
-      "url": "https://www.lapresse.ca/covid-19/2022-07-05/une-ombre-au-dessus-des-camps-de-vacances.php"
+      "text": "4e\u00a0dose de vaccin",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-prendre-maintenant-ou-attendre-a-l-automne.php"
     },
     {
-      "text": "Vaness Gigu\u00e8re ne d\u00e9col\u00e8re pas. Elle a d\u00fb aller chercher ses deux enfants lundi matin au camp de vacances o\u00f9 ils \u00e9taient cens\u00e9s passer la semaine. \u00ab\u00a0\u00c7a fait deux ans et demi qu\u2019on vit avec la COVID-19. Je ne peux pas croire qu\u2019ils n\u2019avaient pas \u00e9labor\u00e9 un plan de mesures d\u2019urgence pour \u00e9viter une fermeture compl\u00e8te en cas d\u2019\u00e9closion.\u00a0\u00bb ",
-      "url": "https://www.lapresse.ca/covid-19/2022-07-05/une-ombre-au-dessus-des-camps-de-vacances.php"
+      "text": "\n                        La prendre maintenant ou attendre \u00e0 l\u2019automne\u00a0? \n                    ",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-prendre-maintenant-ou-attendre-a-l-automne.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/panne-a-l-enregistrement-des-bagages/retards-monstres-a-l-aeroport-de-montreal.php"
+    },
+    {
+      "text": "\n                                    Actualit\u00e9s\n                                ",
+      "url": "/actualites/"
+    },
+    {
+      "text": "Panne \u00e0 l\u2019enregistrement des bagages",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/panne-a-l-enregistrement-des-bagages/retards-monstres-a-l-aeroport-de-montreal.php"
+    },
+    {
+      "text": "\n                        Retards monstres \u00e0 l\u2019a\u00e9roport de Montr\u00e9al\n                    ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/panne-a-l-enregistrement-des-bagages/retards-monstres-a-l-aeroport-de-montreal.php"
+    },
+    {
+      "text": "Un probl\u00e8me technique du syst\u00e8me informatique permettant l\u2019enregistrement des bagages \u00e0 l\u2019a\u00e9roport Pierre-Elliott-Trudeau de Montr\u00e9al mardi soir a entra\u00een\u00e9 des retards monstres pour les voyageurs, qu\u2019ils soient \u00e0 destination de la m\u00e9tropole ou sur leur d\u00e9part. ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/panne-a-l-enregistrement-des-bagages/retards-monstres-a-l-aeroport-de-montreal.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/grand-montreal/2022-07-05/des-gens-sans-logement-des-hlm-sans-occupants.php"
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/transports-federaux/la-vaccination-obligatoire-etait-justifiee-tranche-la-cour-superieure.php"
+    },
+    {
+      "text": "\n                                    Actualit\u00e9s\n                                ",
+      "url": "/actualites/"
+    },
+    {
+      "text": "Transports f\u00e9d\u00e9raux",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/transports-federaux/la-vaccination-obligatoire-etait-justifiee-tranche-la-cour-superieure.php"
+    },
+    {
+      "text": "\n                        La vaccination obligatoire \u00e9tait justifi\u00e9e, tranche la Cour sup\u00e9rieure\n                    ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/transports-federaux/la-vaccination-obligatoire-etait-justifiee-tranche-la-cour-superieure.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/actualites/grand-montreal/2022-07-05/champ-des-monarques-fauche/le-ministre-des-transports-rencontrera-aeroports-de-montreal.php"
     },
     {
       "text": "\n                                    Grand Montr\u00e9al\n                                ",
       "url": "/actualites/grand-montreal/"
     },
     {
-      "text": "\n                        Des gens sans logement, des HLM sans occupants\n                    ",
-      "url": "https://www.lapresse.ca/actualites/grand-montreal/2022-07-05/des-gens-sans-logement-des-hlm-sans-occupants.php"
+      "text": "\u00ab\u00a0Champ des monarques\u00a0\u00bb fauch\u00e9\u00a0",
+      "url": "https://www.lapresse.ca/actualites/grand-montreal/2022-07-05/champ-des-monarques-fauche/le-ministre-des-transports-rencontrera-aeroports-de-montreal.php"
+    },
+    {
+      "text": "\n                        Le ministre des Transports rencontrera A\u00e9roports de Montr\u00e9al\n                    ",
+      "url": "https://www.lapresse.ca/actualites/grand-montreal/2022-07-05/champ-des-monarques-fauche/le-ministre-des-transports-rencontrera-aeroports-de-montreal.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/international/asie-et-oceanie/2022-07-05/chine/la-ville-de-xi-an-se-ferme-pour-eviter-une-flambee-de-covid-19.php"
+      "url": "https://www.lapresse.ca/actualites/chroniques/2022-07-05/un-agresseur-de-bonne-moralite.php"
     },
     {
-      "text": "\n                                    Asie et Oc\u00e9anie\n                                ",
-      "url": "/international/asie-et-oceanie/"
+      "text": "\n                                    Chroniques\n                                ",
+      "url": "/actualites/chroniques/"
     },
     {
-      "text": "Chine",
-      "url": "https://www.lapresse.ca/international/asie-et-oceanie/2022-07-05/chine/la-ville-de-xi-an-se-ferme-pour-eviter-une-flambee-de-covid-19.php"
-    },
-    {
-      "text": "\n                        La ville de Xi\u2019an se ferme pour \u00e9viter une \u00ab\u00a0flamb\u00e9e\u00a0\u00bb de COVID-19\n                    ",
-      "url": "https://www.lapresse.ca/international/asie-et-oceanie/2022-07-05/chine/la-ville-de-xi-an-se-ferme-pour-eviter-une-flambee-de-covid-19.php"
+      "text": "\n                        Un agresseur de bonne moralit\u00e9 \n                    ",
+      "url": "https://www.lapresse.ca/actualites/chroniques/2022-07-05/un-agresseur-de-bonne-moralite.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/sante/2022-07-05/cas-de-cancer-a-rouyn-noranda/le-rapport-promis-par-le-dr-arruda-sera-presente-mercredi.php"
-    },
-    {
-      "text": "\n                                    Sant\u00e9\n                                ",
-      "url": "/actualites/sante/"
-    },
-    {
-      "text": "Cas de cancer \u00e0 Rouyn-Noranda",
-      "url": "https://www.lapresse.ca/actualites/sante/2022-07-05/cas-de-cancer-a-rouyn-noranda/le-rapport-promis-par-le-dr-arruda-sera-presente-mercredi.php"
-    },
-    {
-      "text": "\n                        Le rapport promis par le Dr\u00a0Arruda sera pr\u00e9sent\u00e9 mercredi\n                    ",
-      "url": "https://www.lapresse.ca/actualites/sante/2022-07-05/cas-de-cancer-a-rouyn-noranda/le-rapport-promis-par-le-dr-arruda-sera-presente-mercredi.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/train-a-grande-frequence/alstom-plaide-pour-une-solution-du-xxie-siecle.php"
-    },
-    {
-      "text": "\n                                    Entreprises\n                                ",
-      "url": "/affaires/entreprises/"
-    },
-    {
-      "text": "Train \u00e0 grande fr\u00e9quence",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/train-a-grande-frequence/alstom-plaide-pour-une-solution-du-xxie-siecle.php"
-    },
-    {
-      "text": "\n                        Alstom plaide pour une \u00ab\u00a0solution du\u00a0XXIe\u00a0si\u00e8cle\u00a0\u00bb \n                    ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/train-a-grande-frequence/alstom-plaide-pour-une-solution-du-xxie-siecle.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/guerre-en-ukraine/pour-conquerir-les-russes-detruisent.php"
-    },
-    {
-      "text": "\n                                    Europe\n                                ",
-      "url": "/international/europe/"
-    },
-    {
-      "text": "Guerre en Ukraine",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/guerre-en-ukraine/pour-conquerir-les-russes-detruisent.php"
-    },
-    {
-      "text": "\n                        \u00ab\u00a0Pour conqu\u00e9rir, les Russes d\u00e9truisent\u00a0\u00bb\n                    ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/guerre-en-ukraine/pour-conquerir-les-russes-detruisent.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/l-otan-lance-la-ratification-pour-l-adhesion-de-la-suede-et-de-la-finlande.php"
-    },
-    {
-      "text": "\n                                    Europe\n                                ",
-      "url": "/international/europe/"
-    },
-    {
-      "text": "\n                        L\u2019OTAN lance la ratification pour l'adh\u00e9sion de la Su\u00e8de et de la Finlande \u00a0\n                    ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/l-otan-lance-la-ratification-pour-l-adhesion-de-la-suede-et-de-la-finlande.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/mise-a-jour-de-la-loi-101/un-premier-test-devant-les-tribunaux-dans-un-mois.php"
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/capitale-nationale/le-corps-de-charleric-ouellet-retrouve-a-quebec.php"
     },
     {
       "text": "\n                                    Justice et faits divers\n                                ",
       "url": "/actualites/justice-et-faits-divers/"
     },
     {
-      "text": "Mise \u00e0 jour de la loi\u00a0101",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/mise-a-jour-de-la-loi-101/un-premier-test-devant-les-tribunaux-dans-un-mois.php"
+      "text": "Capitale-Nationale",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/capitale-nationale/le-corps-de-charleric-ouellet-retrouve-a-quebec.php"
     },
     {
-      "text": "\n                        Un premier test\u00a0devant les\u00a0tribunaux dans\u00a0un\u00a0mois\n                    ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/mise-a-jour-de-la-loi-101/un-premier-test-devant-les-tribunaux-dans-un-mois.php"
+      "text": "\n                        Le corps de Charleric Ouellet retrouv\u00e9 \u00e0 Qu\u00e9bec\n                    ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/capitale-nationale/le-corps-de-charleric-ouellet-retrouve-a-quebec.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    01:22\n\n\n                            ",
+      "url": "https://www.lapresse.ca/actualites/sante/2022-07-05/contamination-de-l-air-a-rouyn-noranda/la-fermeture-de-la-fonderie-horne-evoquee.php"
+    },
+    {
+      "text": "\n                                    Sant\u00e9\n                                ",
+      "url": "/actualites/sante/"
+    },
+    {
+      "text": "Contamination de l\u2019air \u00e0 Rouyn-Noranda",
+      "url": "https://www.lapresse.ca/actualites/sante/2022-07-05/contamination-de-l-air-a-rouyn-noranda/la-fermeture-de-la-fonderie-horne-evoquee.php"
+    },
+    {
+      "text": "\n                        La fermeture de la Fonderie Horne \u00e9voqu\u00e9e\n                    ",
+      "url": "https://www.lapresse.ca/actualites/sante/2022-07-05/contamination-de-l-air-a-rouyn-noranda/la-fermeture-de-la-fonderie-horne-evoquee.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/l-apn-rejette-une-resolution-demandant-la-suspension-de-la-chef-archibald.php"
+    },
+    {
+      "text": "\n                                    Actualit\u00e9s\n                                ",
+      "url": "/actualites/"
+    },
+    {
+      "text": "\n                        L\u2019APN rejette une r\u00e9solution demandant la suspension de la chef Archibald\n                    ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/l-apn-rejette-une-resolution-demandant-la-suspension-de-la-chef-archibald.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/le-canada-se-prepare-a-jeter-13-6-millions-de-doses-du-vaccin-d-astrazeneca.php"
+    },
+    {
+      "text": "\n                                    COVID-19\n                                ",
+      "url": "/covid-19/"
+    },
+    {
+      "text": "\n                        Le Canada se pr\u00e9pare \u00e0 jeter 13,6 millions de doses du vaccin d\u2019AstraZeneca\n                    ",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/le-canada-se-prepare-a-jeter-13-6-millions-de-doses-du-vaccin-d-astrazeneca.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                                    Balados\n                                ",
+      "url": "/sports/balados/"
+    },
+    {
+      "text": "Sortie de zone, saison\u00a03",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                        \u00c9pisode\u00a060\u00a0: Nos pr\u00e9dictions des trois premiers choix\n                    ",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/international/2022-07-05/le-monde-en-images.php"
+    },
+    {
+      "text": "\n                                    International\n                                ",
+      "url": "/international/"
+    },
+    {
+      "text": "\n                        Le monde en images\n                    ",
+      "url": "https://www.lapresse.ca/international/2022-07-05/le-monde-en-images.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    01:06\n\n\n                            ",
@@ -1570,54 +1640,22 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/arts/spectacles/2022-07-05/festival-international-de-jazz-de-montreal/a-voir-aujourd-hui.php"
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-prendre-maintenant-ou-attendre-a-l-automne.php"
     },
     {
-      "text": "\n                                    Spectacles\n                                ",
-      "url": "/arts/spectacles/"
+      "text": "\n                                    COVID-19\n                                ",
+      "url": "/covid-19/"
     },
     {
-      "text": "Festival international de jazz de Montr\u00e9al",
-      "url": "https://www.lapresse.ca/arts/spectacles/2022-07-05/festival-international-de-jazz-de-montreal/a-voir-aujourd-hui.php"
+      "text": "4e\u00a0dose de vaccin",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-prendre-maintenant-ou-attendre-a-l-automne.php"
     },
     {
-      "text": "\n                        \u00c0 voir aujourd\u2019hui\n                    ",
-      "url": "https://www.lapresse.ca/arts/spectacles/2022-07-05/festival-international-de-jazz-de-montreal/a-voir-aujourd-hui.php"
+      "text": "\n                        La prendre maintenant ou attendre \u00e0 l\u2019automne\u00a0? \n                    ",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-prendre-maintenant-ou-attendre-a-l-automne.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/arts/arts-visuels/2022-07-05/les-tours-de-force-de-claude-tousignant.php"
-    },
-    {
-      "text": "\n                                    Arts visuels\n                                ",
-      "url": "/arts/arts-visuels/"
-    },
-    {
-      "text": "\n                        Les tours de force de Claude Tousignant\n                    ",
-      "url": "https://www.lapresse.ca/arts/arts-visuels/2022-07-05/les-tours-de-force-de-claude-tousignant.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
-    },
-    {
-      "text": "\n                                    Affaires\n                                ",
-      "url": "/affaires/"
-    },
-    {
-      "text": "Place aux lecteurs",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
-    },
-    {
-      "text": "\n                        Hausse du taux directeur\u00a0: des craintes pour l\u2019avenir\n                    ",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
-    },
-    {
-      "text": "\u00c9crivez-nous",
-      "url": "mailto:affaires+appelweb@lapresse.ca"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    00:58\n\n\n                            ",
       "url": "https://www.lapresse.ca/international/europe/2022-07-05/guerre-en-ukraine-jour-132/les-russes-avancent-dans-le-donbass-bombardement-massif-sur-sloviansk.php"
     },
     {
@@ -1625,7 +1663,7 @@
       "url": "/international/europe/"
     },
     {
-      "text": "Guerre en Ukraine, jour 132",
+      "text": "Guerre en Ukraine, jour\u00a0132",
       "url": "https://www.lapresse.ca/international/europe/2022-07-05/guerre-en-ukraine-jour-132/les-russes-avancent-dans-le-donbass-bombardement-massif-sur-sloviansk.php"
     },
     {
@@ -1705,112 +1743,108 @@
       "url": "/actualites/"
     },
     {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    01:26\n\n\n                            ",
+      "url": "https://www.lapresse.ca/actualites/politique/2022-07-05/elections-provinciales/pascale-dery-confirmee-candidate-de-la-caq-dans-repentigny.php"
+    },
+    {
+      "text": "\n                                    Politique\n                                ",
+      "url": "/actualites/politique/"
+    },
+    {
+      "text": "\u00c9lections provinciales",
+      "url": "https://www.lapresse.ca/actualites/politique/2022-07-05/elections-provinciales/pascale-dery-confirmee-candidate-de-la-caq-dans-repentigny.php"
+    },
+    {
+      "text": "\n                        Pascale D\u00e9ry confirm\u00e9e candidate de la CAQ dans Repentigny\n                    ",
+      "url": "https://www.lapresse.ca/actualites/politique/2022-07-05/elections-provinciales/pascale-dery-confirmee-candidate-de-la-caq-dans-repentigny.php"
+    },
+    {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-05/ce-saccage-aurait-du-etre-evite.php"
-    },
-    {
-      "text": "\n                                    Environnement\n                                ",
-      "url": "/actualites/environnement/"
-    },
-    {
-      "text": "\n                        \u00ab\u00a0Ce saccage aurait d\u00fb \u00eatre \u00e9vit\u00e9\u00a0\u00bb \n                    ",
-      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-05/ce-saccage-aurait-du-etre-evite.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/incarcere-depuis-pres-de-25-ans/crazy-mike-peut-aller-en-maison-de-transition.php"
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/convoi-de-la-liberte/des-messages-textes-compromettants.php"
     },
     {
       "text": "\n                                    Justice et faits divers\n                                ",
       "url": "/actualites/justice-et-faits-divers/"
     },
     {
-      "text": "Incarc\u00e9r\u00e9 depuis pr\u00e8s de 25\u00a0ans",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/incarcere-depuis-pres-de-25-ans/crazy-mike-peut-aller-en-maison-de-transition.php"
+      "text": "\u00ab\u00a0Convoi de la libert\u00e9\u00a0\u00bb ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/convoi-de-la-liberte/des-messages-textes-compromettants.php"
     },
     {
-      "text": "\n                        Crazy Mike peut aller en\u00a0maison de transition\n                    ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/incarcere-depuis-pres-de-25-ans/crazy-mike-peut-aller-en-maison-de-transition.php"
+      "text": "\n                        Des messages textes compromettants\n                    ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/convoi-de-la-liberte/des-messages-textes-compromettants.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/2022-07-05/usine-d-agropur-a-granby/la-greve-se-poursuit-mais-le-lait-n-est-plus-jete.php"
+      "url": "https://www.lapresse.ca/actualites/politique/2022-07-05/rencontre-du-g20-a-bali/ottawa-ne-laissera-pas-passer-la-rhetorique-de-moscou.php"
     },
     {
-      "text": "\n                                    Actualit\u00e9s\n                                ",
-      "url": "/actualites/"
+      "text": "\n                                    Politique\n                                ",
+      "url": "/actualites/politique/"
     },
     {
-      "text": "Usine d\u2019Agropur \u00e0 Granby",
-      "url": "https://www.lapresse.ca/actualites/2022-07-05/usine-d-agropur-a-granby/la-greve-se-poursuit-mais-le-lait-n-est-plus-jete.php"
+      "text": "Rencontre du G20 \u00e0 Bali",
+      "url": "https://www.lapresse.ca/actualites/politique/2022-07-05/rencontre-du-g20-a-bali/ottawa-ne-laissera-pas-passer-la-rhetorique-de-moscou.php"
     },
     {
-      "text": "\n                        La gr\u00e8ve se poursuit, mais le lait n\u2019est plus jet\u00e9\n                    ",
-      "url": "https://www.lapresse.ca/actualites/2022-07-05/usine-d-agropur-a-granby/la-greve-se-poursuit-mais-le-lait-n-est-plus-jete.php"
+      "text": "\n                        Ottawa ne laissera pas passer la rh\u00e9torique de Moscou\n                    ",
+      "url": "https://www.lapresse.ca/actualites/politique/2022-07-05/rencontre-du-g20-a-bali/ottawa-ne-laissera-pas-passer-la-rhetorique-de-moscou.php"
     },
     {
       "text": "\n            International\n        ",
       "url": "/international/"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    01:17\n\n\n                            ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/la-secheresse-dans-l-ouest-menace-le-colorado-et-le-barrage-hoover.php"
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/tuerie-a-highland-park/le-tireur-inculpe-de-sept-meurtres.php"
     },
     {
       "text": "\n                                    \u00c9tats-Unis\n                                ",
       "url": "/international/etats-unis/"
     },
     {
-      "text": "\n                        La s\u00e9cheresse dans l\u2019Ouest menace le Colorado et le barrage Hoover\n                    ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/la-secheresse-dans-l-ouest-menace-le-colorado-et-le-barrage-hoover.php"
+      "text": "Tuerie \u00e0 Highland Park",
+      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/tuerie-a-highland-park/le-tireur-inculpe-de-sept-meurtres.php"
+    },
+    {
+      "text": "\n                        Le tireur inculp\u00e9 de sept meurtres\n                    ",
+      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/tuerie-a-highland-park/le-tireur-inculpe-de-sept-meurtres.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/international/afrique/2022-07-04/algerie/l-algerie-celebre-le-60e-anniversaire-de-son-independance.php"
-    },
-    {
-      "text": "\n                                    Afrique\n                                ",
-      "url": "/international/afrique/"
-    },
-    {
-      "text": "Alg\u00e9rie",
-      "url": "https://www.lapresse.ca/international/afrique/2022-07-04/algerie/l-algerie-celebre-le-60e-anniversaire-de-son-independance.php"
-    },
-    {
-      "text": "\n                        L\u2019Alg\u00e9rie c\u00e9l\u00e8bre le 60e anniversaire de son ind\u00e9pendance\n                    ",
-      "url": "https://www.lapresse.ca/international/afrique/2022-07-04/algerie/l-algerie-celebre-le-60e-anniversaire-de-son-independance.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/fusillade-de-copenhague/le-danemark-rend-hommage-aux-victimes.php"
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/suede-et-finlande/l-otan-lance-le-processus-d-integration.php"
     },
     {
       "text": "\n                                    Europe\n                                ",
       "url": "/international/europe/"
     },
     {
-      "text": "Fusillade de Copenhague",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/fusillade-de-copenhague/le-danemark-rend-hommage-aux-victimes.php"
+      "text": "Su\u00e8de et Finlande",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/suede-et-finlande/l-otan-lance-le-processus-d-integration.php"
     },
     {
-      "text": "\n                        Le Danemark rend hommage aux victimes\n                    ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/fusillade-de-copenhague/le-danemark-rend-hommage-aux-victimes.php"
+      "text": "\n                        L\u2019OTAN lance le processus d'int\u00e9gration\n                    ",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/suede-et-finlande/l-otan-lance-le-processus-d-integration.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/scandales-secouant-le-gouvernement/deux-ministres-britanniques-demissionnent.php"
+    },
+    {
+      "text": "\n                                    Europe\n                                ",
+      "url": "/international/europe/"
+    },
+    {
+      "text": "Scandales secouant le gouvernement",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/scandales-secouant-le-gouvernement/deux-ministres-britanniques-demissionnent.php"
+    },
+    {
+      "text": "\n                        Deux ministres britanniques d\u00e9missionnent\n                    ",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/scandales-secouant-le-gouvernement/deux-ministres-britanniques-demissionnent.php"
     },
     {
       "text": "\n            Affaires\n        ",
       "url": "/affaires/"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/marche-immobilier/2022-07-05/les-frais-d-amenagement-penalisent-la-densification-du-territoire.php"
-    },
-    {
-      "text": "\n                                    March\u00e9 immobilier\n                                ",
-      "url": "/affaires/marche-immobilier/"
-    },
-    {
-      "text": "\n                        Les frais d\u2019am\u00e9nagement p\u00e9nalisent la densification du territoire \n                    ",
-      "url": "https://www.lapresse.ca/affaires/marche-immobilier/2022-07-05/les-frais-d-amenagement-penalisent-la-densification-du-territoire.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
@@ -1825,28 +1859,52 @@
       "url": "https://www.lapresse.ca/affaires/economie/2022-07-05/etude-du-ccpa/les-hausses-de-taux-d-interet-risquent-d-entrainer-une-recession.php"
     },
     {
-      "text": "\n                        Les hausses de taux d\u2019int\u00e9r\u00eat risquent d'entra\u00eener une r\u00e9cession\n                    ",
+      "text": "\n                        Les hausses de taux d\u2019int\u00e9r\u00eat risquent d\u2019entra\u00eener une r\u00e9cession\n                    ",
       "url": "https://www.lapresse.ca/affaires/economie/2022-07-05/etude-du-ccpa/les-hausses-de-taux-d-interet-risquent-d-entrainer-une-recession.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
+      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/moins-de-postes-affiches-dans-les-societes-technologiques.php"
     },
     {
-      "text": "\n                                    Affaires\n                                ",
-      "url": "/affaires/"
+      "text": "\n                                    Entreprises\n                                ",
+      "url": "/affaires/entreprises/"
     },
     {
-      "text": "Place aux lecteurs",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
+      "text": "\n                        Moins de postes affich\u00e9s dans les soci\u00e9t\u00e9s technologiques\n                    ",
+      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/moins-de-postes-affiches-dans-les-societes-technologiques.php"
     },
     {
-      "text": "\n                        Hausse du taux directeur\u00a0: des craintes pour l\u2019avenir\n                    ",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/affaires/marches/2022-07-05/wall-street-finit-en-ordre-disperse-la-baisse-des-taux-profite-au-secteur-technologique.php"
+    },
+    {
+      "text": "\n                                    March\u00e9s\n                                ",
+      "url": "/affaires/marches/"
+    },
+    {
+      "text": "\n                        Wall\u00a0Street finit en ordre dispers\u00e9, la baisse des taux profite au secteur technologique\n                    ",
+      "url": "https://www.lapresse.ca/affaires/marches/2022-07-05/wall-street-finit-en-ordre-disperse-la-baisse-des-taux-profite-au-secteur-technologique.php"
     },
     {
       "text": "\n            COVID-19\n        ",
       "url": "/covid-19/"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/bilan-de-la-covid-19-au-quebec/20-deces-147-hospitalisations-de-plus.php"
+    },
+    {
+      "text": "\n                                    COVID-19\n                                ",
+      "url": "/covid-19/"
+    },
+    {
+      "text": "Bilan de la COVID-19 au Qu\u00e9bec",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/bilan-de-la-covid-19-au-quebec/20-deces-147-hospitalisations-de-plus.php"
+    },
+    {
+      "text": "\n                        20 d\u00e9c\u00e8s, 147 hospitalisations de plus\n                    ",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/bilan-de-la-covid-19-au-quebec/20-deces-147-hospitalisations-de-plus.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
@@ -1881,22 +1939,6 @@
       "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-dose-de-la-prudence-ou-du-voyage.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/covid-19/2022-07-05/six-premiers-mois-de-l-annee/deja-plus-de-morts-qu-en-2021.php"
-    },
-    {
-      "text": "\n                                    COVID-19\n                                ",
-      "url": "/covid-19/"
-    },
-    {
-      "text": "Six premiers mois de l\u2019ann\u00e9e",
-      "url": "https://www.lapresse.ca/covid-19/2022-07-05/six-premiers-mois-de-l-annee/deja-plus-de-morts-qu-en-2021.php"
-    },
-    {
-      "text": "\n                        D\u00e9j\u00e0 plus de morts qu\u2019en 2021\n                    ",
-      "url": "https://www.lapresse.ca/covid-19/2022-07-05/six-premiers-mois-de-l-annee/deja-plus-de-morts-qu-en-2021.php"
-    },
-    {
       "text": "\u00a0",
       "url": "/evolution-covid-19?utm_source=lpca&utm_medium=bandeauaccueil&utm_campaign=dashboardcovid"
     },
@@ -1910,6 +1952,114 @@
     },
     {
       "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/actualites/chroniques/2022-07-05/un-agresseur-de-bonne-moralite.php"
+    },
+    {
+      "text": "\n                                            Chroniques\n                                        ",
+      "url": "/actualites/chroniques/"
+    },
+    {
+      "text": "\n                                                                Un agresseur de bonne moralit\u00e9 \n                            ",
+      "url": "https://www.lapresse.ca/actualites/chroniques/2022-07-05/un-agresseur-de-bonne-moralite.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/panne-a-l-enregistrement-des-bagages/retards-monstres-a-l-aeroport-de-montreal.php"
+    },
+    {
+      "text": "\n                                            Actualit\u00e9s\n                                        ",
+      "url": "/actualites/"
+    },
+    {
+      "text": "\n                                                                    Panne \u00e0 l\u2019enregistrement des bagages\n                                                                Retards monstres \u00e0 l\u2019a\u00e9roport de Montr\u00e9al\n                            ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/panne-a-l-enregistrement-des-bagages/retards-monstres-a-l-aeroport-de-montreal.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/capitale-nationale/le-corps-de-charleric-ouellet-retrouve-a-quebec.php"
+    },
+    {
+      "text": "\n                                            Justice et faits divers\n                                        ",
+      "url": "/actualites/justice-et-faits-divers/"
+    },
+    {
+      "text": "\n                                                                    Capitale-Nationale\n                                                                Le corps de Charleric Ouellet retrouv\u00e9 \u00e0 Qu\u00e9bec\n                            ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/capitale-nationale/le-corps-de-charleric-ouellet-retrouve-a-quebec.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/transports-federaux/la-vaccination-obligatoire-etait-justifiee-tranche-la-cour-superieure.php"
+    },
+    {
+      "text": "\n                                            Actualit\u00e9s\n                                        ",
+      "url": "/actualites/"
+    },
+    {
+      "text": "\n                                                                    Transports f\u00e9d\u00e9raux\n                                                                La vaccination obligatoire \u00e9tait justifi\u00e9e, tranche la Cour sup\u00e9rieure\n                            ",
+      "url": "https://www.lapresse.ca/actualites/2022-07-05/transports-federaux/la-vaccination-obligatoire-etait-justifiee-tranche-la-cour-superieure.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/agression-sexuelle/le-dpcp-portera-en-appel-l-absolution-d-un-ingenieur-accordee-pour-proteger-sa-carriere.php"
+    },
+    {
+      "text": "\n                                            Justice et faits divers\n                                        ",
+      "url": "/actualites/justice-et-faits-divers/"
+    },
+    {
+      "text": "\n                                                                    Agression sexuelle\n                                                                Le DPCP portera en appel l\u2019absolution d\u2019un ing\u00e9nieur accord\u00e9e pour prot\u00e9ger sa...\n                            ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/agression-sexuelle/le-dpcp-portera-en-appel-l-absolution-d-un-ingenieur-accordee-pour-proteger-sa-carriere.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/actualites/grand-montreal/2022-07-05/champ-des-monarques-fauche/le-ministre-des-transports-rencontrera-aeroports-de-montreal.php"
+    },
+    {
+      "text": "\n                                            Grand Montr\u00e9al\n                                        ",
+      "url": "/actualites/grand-montreal/"
+    },
+    {
+      "text": "\n                                                                    \u00ab\u00a0Champ des monarques\u00a0\u00bb fauch\u00e9\u00a0\n                                                                Le ministre des Transports rencontrera A\u00e9roports de Montr\u00e9al\n                            ",
+      "url": "https://www.lapresse.ca/actualites/grand-montreal/2022-07-05/champ-des-monarques-fauche/le-ministre-des-transports-rencontrera-aeroports-de-montreal.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/agression-sexuelle/le-dpcp-portera-en-appel-l-absolution-d-un-ingenieur-accordee-pour-proteger-sa-carriere.php"
+    },
+    {
+      "text": "\n                                            Justice et faits divers\n                                        ",
+      "url": "/actualites/justice-et-faits-divers/"
+    },
+    {
+      "text": "\n                                                                    Agression sexuelle\n                                                                Le DPCP portera en appel l\u2019absolution d\u2019un ing\u00e9nieur accord\u00e9e pour prot\u00e9ger sa...\n                            ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/agression-sexuelle/le-dpcp-portera-en-appel-l-absolution-d-un-ingenieur-accordee-pour-proteger-sa-carriere.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/actualites/chroniques/2022-07-05/un-agresseur-de-bonne-moralite.php"
+    },
+    {
+      "text": "\n                                            Chroniques\n                                        ",
+      "url": "/actualites/chroniques/"
+    },
+    {
+      "text": "\n                                                                Un agresseur de bonne moralit\u00e9 \n                            ",
+      "url": "https://www.lapresse.ca/actualites/chroniques/2022-07-05/un-agresseur-de-bonne-moralite.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/violence-conjugale/six-mois-de-prison-pour-l-ex-conjoint-d-elisabeth-rioux.php"
+    },
+    {
+      "text": "\n                                            Justice et faits divers\n                                        ",
+      "url": "/actualites/justice-et-faits-divers/"
+    },
+    {
+      "text": "\n                                                                    Violence conjugale\n                                                                Six mois de prison pour l\u2019ex-conjoint d\u2019Elisabeth Rioux\n                            ",
+      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/violence-conjugale/six-mois-de-prison-pour-l-ex-conjoint-d-elisabeth-rioux.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
       "url": "https://www.lapresse.ca/covid-19/2022-07-05/une-ombre-au-dessus-des-camps-de-vacances.php"
     },
     {
@@ -1919,18 +2069,6 @@
     {
       "text": "\n                                                                Une ombre au-dessus des camps de vacances\n                            ",
       "url": "https://www.lapresse.ca/covid-19/2022-07-05/une-ombre-au-dessus-des-camps-de-vacances.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/arts/chroniques/2022-07-05/des-trucs-pour-adoucir-la-facture-tele.php"
-    },
-    {
-      "text": "\n                                            Chroniques\n                                        ",
-      "url": "/arts/chroniques/"
-    },
-    {
-      "text": "\n                                                                Des trucs pour adoucir la facture t\u00e9l\u00e9\u00a0! \n                            ",
-      "url": "https://www.lapresse.ca/arts/chroniques/2022-07-05/des-trucs-pour-adoucir-la-facture-tele.php"
     },
     {
       "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
@@ -1946,111 +2084,15 @@
     },
     {
       "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/international/asie-et-oceanie/2022-07-05/chine/la-ville-de-xi-an-se-ferme-pour-eviter-une-flambee-de-covid-19.php"
+      "url": "https://www.lapresse.ca/actualites/politique/2022-07-05/elections-provinciales/une-candidate-federaliste-pour-la-caq.php"
     },
     {
-      "text": "\n                                            Asie et Oc\u00e9anie\n                                        ",
-      "url": "/international/asie-et-oceanie/"
+      "text": "\n                                            Politique\n                                        ",
+      "url": "/actualites/politique/"
     },
     {
-      "text": "\n                                                                    Chine\n                                                                La ville de Xi\u2019an se ferme pour \u00e9viter une \u00ab\u00a0flamb\u00e9e\u00a0\u00bb de COVID-19\n                            ",
-      "url": "https://www.lapresse.ca/international/asie-et-oceanie/2022-07-05/chine/la-ville-de-xi-an-se-ferme-pour-eviter-une-flambee-de-covid-19.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/incarcere-depuis-pres-de-25-ans/crazy-mike-peut-aller-en-maison-de-transition.php"
-    },
-    {
-      "text": "\n                                            Justice et faits divers\n                                        ",
-      "url": "/actualites/justice-et-faits-divers/"
-    },
-    {
-      "text": "\n                                                                    Incarc\u00e9r\u00e9 depuis pr\u00e8s de 25\u00a0ans\n                                                                Crazy Mike peut aller en\u00a0maison de transition\n                            ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/incarcere-depuis-pres-de-25-ans/crazy-mike-peut-aller-en-maison-de-transition.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/arts/chroniques/2022-07-05/qui-a-peur-de-barbada.php"
-    },
-    {
-      "text": "\n                                            Chroniques\n                                        ",
-      "url": "/arts/chroniques/"
-    },
-    {
-      "text": "\n                                                                Qui a peur de Barbada\u00a0? \n                            ",
-      "url": "https://www.lapresse.ca/arts/chroniques/2022-07-05/qui-a-peur-de-barbada.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                            \n    00:54\n\n\n                                                    ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-04/fusillade-en-illinois/le-suspect-arrete-au-moins-six-morts-et-30-blesses.php"
-    },
-    {
-      "text": "\n                                            \u00c9tats-Unis\n                                        ",
-      "url": "/international/etats-unis/"
-    },
-    {
-      "text": "\n                                                                    Fusillade en Illinois\n                                                                Le suspect arr\u00eat\u00e9, au moins six morts et 30\u00a0bless\u00e9s\n                            ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-04/fusillade-en-illinois/le-suspect-arrete-au-moins-six-morts-et-30-blesses.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/affaires/economie/2022-07-04/vers-une-hausse-du-taux-directeur-de-la-banque-du-canada-de-75-points.php"
-    },
-    {
-      "text": "\n                                            \u00c9conomie\n                                        ",
-      "url": "/affaires/economie/"
-    },
-    {
-      "text": "\n                                                                Vers une hausse du taux directeur de la Banque du Canada de 75 points\n                            ",
-      "url": "https://www.lapresse.ca/affaires/economie/2022-07-04/vers-une-hausse-du-taux-directeur-de-la-banque-du-canada-de-75-points.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/societe/sexualite/2022-07-03/derriere-la-porte/une-histoire-d-echangisme-qui-finit-mal.php"
-    },
-    {
-      "text": "\n                                            Sexualit\u00e9\n                                        ",
-      "url": "/societe/sexualite/"
-    },
-    {
-      "text": "\n                                                                    Derri\u00e8re la porte\n                                                                Une histoire d\u2019\u00e9changisme qui finit mal\n                            ",
-      "url": "https://www.lapresse.ca/societe/sexualite/2022-07-03/derriere-la-porte/une-histoire-d-echangisme-qui-finit-mal.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-04/teletravail/des-incidents-lies-a-des-logiciels-de-mouvement-de-souris-chez-hydro.php"
-    },
-    {
-      "text": "\n                                            Entreprises\n                                        ",
-      "url": "/affaires/entreprises/"
-    },
-    {
-      "text": "\n                                                                    T\u00e9l\u00e9travail\n                                                                Des incidents li\u00e9s \u00e0 des logiciels de \u00ab\u00a0mouvement de souris\u00a0\u00bb chez Hydro\n                            ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-04/teletravail/des-incidents-lies-a-des-logiciels-de-mouvement-de-souris-chez-hydro.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/covid-19/2022-07-05/une-ombre-au-dessus-des-camps-de-vacances.php"
-    },
-    {
-      "text": "\n                                            COVID-19\n                                        ",
-      "url": "/covid-19/"
-    },
-    {
-      "text": "\n                                                                Une ombre au-dessus des camps de vacances\n                            ",
-      "url": "https://www.lapresse.ca/covid-19/2022-07-05/une-ombre-au-dessus-des-camps-de-vacances.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/tuerie-de-concordia/fabrikant-de-nouveau-deboute.php"
-    },
-    {
-      "text": "\n                                            Justice et faits divers\n                                        ",
-      "url": "/actualites/justice-et-faits-divers/"
-    },
-    {
-      "text": "\n                                                                    Tuerie de Concordia\n                                                                Fabrikant de nouveau d\u00e9bout\u00e9\n                            ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-05/tuerie-de-concordia/fabrikant-de-nouveau-deboute.php"
+      "text": "\n                                                                    \u00c9lections provinciales\n                                                                Une candidate f\u00e9d\u00e9raliste pour la CAQ\n                            ",
+      "url": "https://www.lapresse.ca/actualites/politique/2022-07-05/elections-provinciales/une-candidate-federaliste-pour-la-caq.php"
     },
     {
       "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
@@ -2066,18 +2108,6 @@
     },
     {
       "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-04/teletravail/des-incidents-lies-a-des-logiciels-de-mouvement-de-souris-chez-hydro.php"
-    },
-    {
-      "text": "\n                                            Entreprises\n                                        ",
-      "url": "/affaires/entreprises/"
-    },
-    {
-      "text": "\n                                                                    T\u00e9l\u00e9travail\n                                                                Des incidents li\u00e9s \u00e0 des logiciels de \u00ab\u00a0mouvement de souris\u00a0\u00bb chez Hydro\n                            ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-04/teletravail/des-incidents-lies-a-des-logiciels-de-mouvement-de-souris-chez-hydro.php"
-    },
-    {
-      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
       "url": "https://www.lapresse.ca/societe/sexualite/2022-07-03/derriere-la-porte/une-histoire-d-echangisme-qui-finit-mal.php"
     },
     {
@@ -2087,6 +2117,18 @@
     {
       "text": "\n                                                                    Derri\u00e8re la porte\n                                                                Une histoire d\u2019\u00e9changisme qui finit mal\n                            ",
       "url": "https://www.lapresse.ca/societe/sexualite/2022-07-03/derriere-la-porte/une-histoire-d-echangisme-qui-finit-mal.php"
+    },
+    {
+      "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
+      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-04/teletravail/des-incidents-lies-a-des-logiciels-de-mouvement-de-souris-chez-hydro.php"
+    },
+    {
+      "text": "\n                                            Entreprises\n                                        ",
+      "url": "/affaires/entreprises/"
+    },
+    {
+      "text": "\n                                                                    T\u00e9l\u00e9travail\n                                                                Des incidents li\u00e9s \u00e0 des logiciels de \u00ab\u00a0mouvement de souris\u00a0\u00bb chez Hydro\n                            ",
+      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-04/teletravail/des-incidents-lies-a-des-logiciels-de-mouvement-de-souris-chez-hydro.php"
     },
     {
       "text": "\n                            \n                                                                    \n                                                                    \n                                                                \n                            \n                                                    ",
@@ -2130,47 +2172,51 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/sports/chroniques/2022-07-05/repechage-de-la-lnh/la-pomme-tombe-souvent-pres-de-l-arbre.php"
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
     },
     {
-      "text": "\n                                    Chroniques\n                                ",
-      "url": "/sports/chroniques/"
+      "text": "\n                                    Balados\n                                ",
+      "url": "/sports/balados/"
+    },
+    {
+      "text": "Sortie de zone, saison\u00a03",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                        \u00c9pisode\u00a060\u00a0: Nos pr\u00e9dictions des trois premiers choix\n                    ",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/repechage-de-la-lnh/d-autres-candidats-a-surveiller.php"
+    },
+    {
+      "text": "\n                                    Hockey\n                                ",
+      "url": "/sports/hockey/"
     },
     {
       "text": "Rep\u00eachage de la LNH",
-      "url": "https://www.lapresse.ca/sports/chroniques/2022-07-05/repechage-de-la-lnh/la-pomme-tombe-souvent-pres-de-l-arbre.php"
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/repechage-de-la-lnh/d-autres-candidats-a-surveiller.php"
     },
     {
-      "text": "\n                        La pomme tombe souvent pr\u00e8s de\u00a0l\u2019arbre\n                    ",
-      "url": "https://www.lapresse.ca/sports/chroniques/2022-07-05/repechage-de-la-lnh/la-pomme-tombe-souvent-pres-de-l-arbre.php"
+      "text": "\n                        D\u2019autres candidats \u00e0 surveiller\u00a0!\n                    ",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/repechage-de-la-lnh/d-autres-candidats-a-surveiller.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/sports/2022-07-05/championnats-du-monde-d-athletisme/de-grasse-espere-avoir-retrouve-la-forme.php"
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    00:20\n\n\n                            ",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/sharks-de-san-jose/mike-grier-marque-l-histoire.php"
     },
     {
-      "text": "\n                                    Sports\n                                ",
-      "url": "/sports/"
+      "text": "\n                                    Hockey\n                                ",
+      "url": "/sports/hockey/"
     },
     {
-      "text": "Championnats du monde d\u2019athl\u00e9tisme",
-      "url": "https://www.lapresse.ca/sports/2022-07-05/championnats-du-monde-d-athletisme/de-grasse-espere-avoir-retrouve-la-forme.php"
+      "text": "Sharks de San Jos\u00e9",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/sharks-de-san-jose/mike-grier-marque-l-histoire.php"
     },
     {
-      "text": "\n                        De Grasse esp\u00e8re avoir retrouv\u00e9 la forme\n                    ",
-      "url": "https://www.lapresse.ca/sports/2022-07-05/championnats-du-monde-d-athletisme/de-grasse-espere-avoir-retrouve-la-forme.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/sports/soccer/2022-07-05/le-cf-montreal-corrige-a-los-angeles.php"
-    },
-    {
-      "text": "\n                                    Soccer\n                                ",
-      "url": "/sports/soccer/"
-    },
-    {
-      "text": "\n                        Le CF\u00a0Montr\u00e9al corrig\u00e9 \u00e0 Los\u00a0Angeles\n                    ",
-      "url": "https://www.lapresse.ca/sports/soccer/2022-07-05/le-cf-montreal-corrige-a-los-angeles.php"
+      "text": "\n                        Mike Grier marque l\u2019histoire\n                    ",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/sharks-de-san-jose/mike-grier-marque-l-histoire.php"
     },
     {
       "text": "\n            D\u00e9bats\n        ",
@@ -2178,6 +2224,34 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/debats/courrier-des-lecteurs/2022-07-05/l-exquise-errance.php"
+    },
+    {
+      "text": "\n                                    Courrier des lecteurs\n                                ",
+      "url": "/debats/courrier-des-lecteurs/"
+    },
+    {
+      "text": "\n                        \u00ab\u00a0L\u2019exquise errance\u00a0\u00bb\n                    ",
+      "url": "https://www.lapresse.ca/debats/courrier-des-lecteurs/2022-07-05/l-exquise-errance.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/debats/opinions/2022-07-05/replique/diabete-de-type-1-de-l-insuline-de-l-amour-et-de-l-argent.php"
+    },
+    {
+      "text": "\n                                    Opinions\n                                ",
+      "url": "/debats/opinions/"
+    },
+    {
+      "text": "R\u00e9plique",
+      "url": "https://www.lapresse.ca/debats/opinions/2022-07-05/replique/diabete-de-type-1-de-l-insuline-de-l-amour-et-de-l-argent.php"
+    },
+    {
+      "text": "\n                        Diab\u00e8te de type\u00a01\u00a0: de l\u2019insuline, de l\u2019amour\u2026 et de\u00a0l\u2019argent\u00a0!\n                    ",
+      "url": "https://www.lapresse.ca/debats/opinions/2022-07-05/replique/diabete-de-type-1-de-l-insuline-de-l-amour-et-de-l-argent.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
       "url": "https://www.lapresse.ca/debats/opinions/2022-07-05/plus-facile-de-se-faire-deloger-que-de-se-loger.php"
     },
     {
@@ -2189,72 +2263,80 @@
       "url": "https://www.lapresse.ca/debats/opinions/2022-07-05/plus-facile-de-se-faire-deloger-que-de-se-loger.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/debats/opinions/2022-07-05/le-mot-en-n.php"
-    },
-    {
-      "text": "\n                                    Opinions\n                                ",
-      "url": "/debats/opinions/"
-    },
-    {
-      "text": "\n                        Le \u00ab\u00a0mot en n\u00a0\u00bb\n                    ",
-      "url": "https://www.lapresse.ca/debats/opinions/2022-07-05/le-mot-en-n.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/debats/caricatures/2022-07-05/pas-ma-valise.php"
-    },
-    {
-      "text": "\n                                    Caricatures\n                                ",
-      "url": "/debats/caricatures/"
-    },
-    {
-      "text": "\n                        Pas ma valise\n                    ",
-      "url": "https://www.lapresse.ca/debats/caricatures/2022-07-05/pas-ma-valise.php"
-    },
-    {
       "text": "\n            Arts\n        ",
       "url": "/arts/"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/arts/musique/2022-07-05/lisa-leblanc-ariane-roy-et-fernie-a-m-pour-montreal.php"
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/haute-demolition/un-2e-roman-de-jean-philippe-baril-guerard-au-petit-ecran.php"
     },
     {
-      "text": "\n                                    Musique\n                                ",
-      "url": "/arts/musique/"
+      "text": "\n                                    T\u00e9l\u00e9vision\n                                ",
+      "url": "/arts/television/"
     },
     {
-      "text": "\n                        Lisa Leblanc, Ariane Roy et Fernie \u00e0 M pour Montr\u00e9al\n                    ",
-      "url": "https://www.lapresse.ca/arts/musique/2022-07-05/lisa-leblanc-ariane-roy-et-fernie-a-m-pour-montreal.php"
+      "text": "Haute d\u00e9molition",
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/haute-demolition/un-2e-roman-de-jean-philippe-baril-guerard-au-petit-ecran.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/arts/arts-visuels/2022-07-05/les-tours-de-force-de-claude-tousignant.php"
-    },
-    {
-      "text": "\n                                    Arts visuels\n                                ",
-      "url": "/arts/arts-visuels/"
-    },
-    {
-      "text": "\n                        Les tours de force de Claude Tousignant\n                    ",
-      "url": "https://www.lapresse.ca/arts/arts-visuels/2022-07-05/les-tours-de-force-de-claude-tousignant.php"
+      "text": "\n                        Un 2e\u00a0roman de Jean-Philippe Baril Gu\u00e9rard au petit \u00e9cran\n                    ",
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/haute-demolition/un-2e-roman-de-jean-philippe-baril-guerard-au-petit-ecran.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/arts/spectacles/2022-07-05/festival-international-de-jazz-de-montreal/a-voir-aujourd-hui.php"
+      "url": "https://www.lapresse.ca/arts/humour/2022-07-05/juste-pour-rire/adib-alkhalidey-sera-de-tous-les-galas-du-40e.php"
     },
     {
-      "text": "\n                                    Spectacles\n                                ",
-      "url": "/arts/spectacles/"
+      "text": "\n                                    Humour\n                                ",
+      "url": "/arts/humour/"
     },
     {
-      "text": "Festival international de jazz de Montr\u00e9al",
-      "url": "https://www.lapresse.ca/arts/spectacles/2022-07-05/festival-international-de-jazz-de-montreal/a-voir-aujourd-hui.php"
+      "text": "Juste pour rire",
+      "url": "https://www.lapresse.ca/arts/humour/2022-07-05/juste-pour-rire/adib-alkhalidey-sera-de-tous-les-galas-du-40e.php"
     },
     {
-      "text": "\n                        \u00c0 voir aujourd\u2019hui\n                    ",
-      "url": "https://www.lapresse.ca/arts/spectacles/2022-07-05/festival-international-de-jazz-de-montreal/a-voir-aujourd-hui.php"
+      "text": "\n                        Adib Alkhalidey sera de tous les galas du 40e\n                    ",
+      "url": "https://www.lapresse.ca/arts/humour/2022-07-05/juste-pour-rire/adib-alkhalidey-sera-de-tous-les-galas-du-40e.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/rita-baga-animera-la-premiere-saison-de-drag-race-belgique.php"
+    },
+    {
+      "text": "\n                                    T\u00e9l\u00e9vision\n                                ",
+      "url": "/arts/television/"
+    },
+    {
+      "text": "\n                        Rita Baga animera la premi\u00e8re saison de Drag Race Belgique\n                    ",
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/rita-baga-animera-la-premiere-saison-de-drag-race-belgique.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                                    Balados\n                                ",
+      "url": "/sports/balados/"
+    },
+    {
+      "text": "Sortie de zone, saison\u00a03",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                        \u00c9pisode\u00a060\u00a0: Nos pr\u00e9dictions des trois premiers choix\n                    ",
+      "url": "https://www.lapresse.ca/sports/balados/2022-07-05/sortie-de-zone-saison-3/episode-60-nos-predictions-des-trois-premiers-choix.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/international/2022-07-05/le-monde-en-images.php"
+    },
+    {
+      "text": "\n                                    International\n                                ",
+      "url": "/international/"
+    },
+    {
+      "text": "\n                        Le monde en images\n                    ",
+      "url": "https://www.lapresse.ca/international/2022-07-05/le-monde-en-images.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    01:06\n\n\n                            ",
@@ -2267,6 +2349,146 @@
     {
       "text": "\n                        Mieux comprendre l'inflation\n                    ",
       "url": "https://www.lapresse.ca/affaires/economie/2022-07-05/mieux-comprendre-l-inflation.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-prendre-maintenant-ou-attendre-a-l-automne.php"
+    },
+    {
+      "text": "\n                                    COVID-19\n                                ",
+      "url": "/covid-19/"
+    },
+    {
+      "text": "4e\u00a0dose de vaccin",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-prendre-maintenant-ou-attendre-a-l-automne.php"
+    },
+    {
+      "text": "\n                        La prendre maintenant ou attendre \u00e0 l\u2019automne\u00a0? \n                    ",
+      "url": "https://www.lapresse.ca/covid-19/2022-07-05/4e-dose-de-vaccin/la-prendre-maintenant-ou-attendre-a-l-automne.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/voyage/quebec-et-canada/2022-07-05/appel-a-tous/votre-plage-preferee-au-quebec.php"
+    },
+    {
+      "text": "\n                                    Qu\u00e9bec et Canada\n                                ",
+      "url": "/voyage/quebec-et-canada/"
+    },
+    {
+      "text": "Appel \u00e0 tous",
+      "url": "https://www.lapresse.ca/voyage/quebec-et-canada/2022-07-05/appel-a-tous/votre-plage-preferee-au-quebec.php"
+    },
+    {
+      "text": "\n                        Votre plage pr\u00e9f\u00e9r\u00e9e au Qu\u00e9bec\n                    ",
+      "url": "https://www.lapresse.ca/voyage/quebec-et-canada/2022-07-05/appel-a-tous/votre-plage-preferee-au-quebec.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/actualites/grand-montreal/2022-07-05/des-gens-sans-logement-des-hlm-sans-occupants.php"
+    },
+    {
+      "text": "\n                                    Grand Montr\u00e9al\n                                ",
+      "url": "/actualites/grand-montreal/"
+    },
+    {
+      "text": "\n                        Des gens sans logement, des HLM sans occupants\n                    ",
+      "url": "https://www.lapresse.ca/actualites/grand-montreal/2022-07-05/des-gens-sans-logement-des-hlm-sans-occupants.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/haute-demolition/un-2e-roman-de-jean-philippe-baril-guerard-au-petit-ecran.php"
+    },
+    {
+      "text": "\n                                    T\u00e9l\u00e9vision\n                                ",
+      "url": "/arts/television/"
+    },
+    {
+      "text": "Haute d\u00e9molition",
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/haute-demolition/un-2e-roman-de-jean-philippe-baril-guerard-au-petit-ecran.php"
+    },
+    {
+      "text": "\n                        Un 2e\u00a0roman de Jean-Philippe Baril Gu\u00e9rard au petit \u00e9cran\n                    ",
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/haute-demolition/un-2e-roman-de-jean-philippe-baril-guerard-au-petit-ecran.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/debats/courrier-des-lecteurs/2022-07-05/l-exquise-errance.php"
+    },
+    {
+      "text": "\n                                    Courrier des lecteurs\n                                ",
+      "url": "/debats/courrier-des-lecteurs/"
+    },
+    {
+      "text": "\n                        \u00ab\u00a0L\u2019exquise errance\u00a0\u00bb\n                    ",
+      "url": "https://www.lapresse.ca/debats/courrier-des-lecteurs/2022-07-05/l-exquise-errance.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/repechage-de-la-lnh/d-autres-candidats-a-surveiller.php"
+    },
+    {
+      "text": "\n                                    Hockey\n                                ",
+      "url": "/sports/hockey/"
+    },
+    {
+      "text": "Rep\u00eachage de la LNH",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/repechage-de-la-lnh/d-autres-candidats-a-surveiller.php"
+    },
+    {
+      "text": "\n                        D\u2019autres candidats \u00e0 surveiller\u00a0!\n                    ",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/repechage-de-la-lnh/d-autres-candidats-a-surveiller.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/arts/musique/2022-07-05/lisa-leblanc-ariane-roy-et-fernie-a-m-pour-montreal.php"
+    },
+    {
+      "text": "\n                                    Musique\n                                ",
+      "url": "/arts/musique/"
+    },
+    {
+      "text": "\n                        Lisa Leblanc, Ariane Roy et Fernie \u00e0 M pour Montr\u00e9al\n                    ",
+      "url": "https://www.lapresse.ca/arts/musique/2022-07-05/lisa-leblanc-ariane-roy-et-fernie-a-m-pour-montreal.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/gourmand/2022-07-05/circuit-gourmand/decouvrir-les-cantons-de-l-ouest.php"
+    },
+    {
+      "text": "\n                                    Gourmand\n                                ",
+      "url": "/gourmand/"
+    },
+    {
+      "text": "Circuit gourmand",
+      "url": "https://www.lapresse.ca/gourmand/2022-07-05/circuit-gourmand/decouvrir-les-cantons-de-l-ouest.php"
+    },
+    {
+      "text": "\n                        D\u00e9couvrir les \u00ab\u00a0Cantons de l\u2019Ouest\u00a0\u00bb\n                    ",
+      "url": "https://www.lapresse.ca/gourmand/2022-07-05/circuit-gourmand/decouvrir-les-cantons-de-l-ouest.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/societe/mode-et-beaute/2022-07-05/chanel-explore-l-univers-equestre.php"
+    },
+    {
+      "text": "\n                                    Mode et beaut\u00e9\n                                ",
+      "url": "/societe/mode-et-beaute/"
+    },
+    {
+      "text": "\n                        Chanel explore l\u2019univers \u00e9questre\n                    ",
+      "url": "https://www.lapresse.ca/societe/mode-et-beaute/2022-07-05/chanel-explore-l-univers-equestre.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/prime-video-signe-une-serie-d-humour-avec-juste-pour-rire.php"
+    },
+    {
+      "text": "\n                                    T\u00e9l\u00e9vision\n                                ",
+      "url": "/arts/television/"
+    },
+    {
+      "text": "\n                        Prime Video signe une s\u00e9rie d\u2019humour avec Juste pour rire\n                    ",
+      "url": "https://www.lapresse.ca/arts/television/2022-07-05/prime-video-signe-une-serie-d-humour-avec-juste-pour-rire.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
@@ -2313,184 +2535,8 @@
       "url": "https://www.lapresse.ca/affaires/2022-07-05/place-aux-lecteurs/hausse-du-taux-directeur-des-craintes-pour-l-avenir.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/questions-de-leadership/tout-sauf-glamour.php"
-    },
-    {
-      "text": "\n                                    Affaires\n                                ",
-      "url": "/affaires/"
-    },
-    {
-      "text": "Questions de leadership",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/questions-de-leadership/tout-sauf-glamour.php"
-    },
-    {
-      "text": "\n                        Tout sauf glamour\n                    ",
-      "url": "https://www.lapresse.ca/affaires/2022-07-05/questions-de-leadership/tout-sauf-glamour.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/debats/editoriaux/2022-07-05/parlons-en-au-contraire.php"
-    },
-    {
-      "text": "\n                                    \u00c9ditoriaux\n                                ",
-      "url": "/debats/editoriaux/"
-    },
-    {
-      "text": "\n                        Parlons-en, au\u00a0contraire\n                    ",
-      "url": "https://www.lapresse.ca/debats/editoriaux/2022-07-05/parlons-en-au-contraire.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/debats/caricatures/2022-07-05/pas-ma-valise.php"
-    },
-    {
-      "text": "\n                                    Caricatures\n                                ",
-      "url": "/debats/caricatures/"
-    },
-    {
-      "text": "\n                        Pas ma valise\n                    ",
-      "url": "https://www.lapresse.ca/debats/caricatures/2022-07-05/pas-ma-valise.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/arts/musique/2022-07-05/festival-international-de-jazz-de-montreal/le-sens-des-responsabilites-de-robert-glasper.php"
-    },
-    {
-      "text": "\n                                    Musique\n                                ",
-      "url": "/arts/musique/"
-    },
-    {
-      "text": "Festival international de jazz de Montr\u00e9al",
-      "url": "https://www.lapresse.ca/arts/musique/2022-07-05/festival-international-de-jazz-de-montreal/le-sens-des-responsabilites-de-robert-glasper.php"
-    },
-    {
-      "text": "\n                        Le sens des responsabilit\u00e9s de Robert Glasper\n                    ",
-      "url": "https://www.lapresse.ca/arts/musique/2022-07-05/festival-international-de-jazz-de-montreal/le-sens-des-responsabilites-de-robert-glasper.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/le-panier-bleu-a-une-chance-reelle-de-succes.php"
-    },
-    {
-      "text": "\n                                    Entreprises\n                                ",
-      "url": "/affaires/entreprises/"
-    },
-    {
-      "text": "\n                        \u00ab\u00a0Le Panier bleu a une chance r\u00e9elle de succ\u00e8s\u00a0\u00bb \n                    ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/le-panier-bleu-a-une-chance-reelle-de-succes.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    01:30\n\n\n                            ",
-      "url": "https://www.lapresse.ca/cinema/2022-07-05/guillaume-lambert-au-nirvana-avec-niagara.php"
-    },
-    {
-      "text": "\n                                    Cin\u00e9ma\n                                ",
-      "url": "/cinema/"
-    },
-    {
-      "text": "\n                        Guillaume Lambert au nirvana avec Niagara \n                    ",
-      "url": "https://www.lapresse.ca/cinema/2022-07-05/guillaume-lambert-au-nirvana-avec-niagara.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/sciences/2022-07-05/un-satellite-de-la-nasa-se-dirige-vers-la-lune.php"
-    },
-    {
-      "text": "\n                                    Sciences\n                                ",
-      "url": "/actualites/sciences/"
-    },
-    {
-      "text": "\n                        Un satellite de la NASA se dirige vers la Lune\n                    ",
-      "url": "https://www.lapresse.ca/actualites/sciences/2022-07-05/un-satellite-de-la-nasa-se-dirige-vers-la-lune.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/international/2022-07-04/le-monde-en-images.php"
-    },
-    {
-      "text": "\n                                    International\n                                ",
-      "url": "/international/"
-    },
-    {
-      "text": "\n                        Le monde en images\n                    ",
-      "url": "https://www.lapresse.ca/international/2022-07-04/le-monde-en-images.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-04/meurtres-a-montreal-en-2022/la-tendance-a-la-hausse-se-dessine.php"
-    },
-    {
-      "text": "\n                                    Justice et faits divers\n                                ",
-      "url": "/actualites/justice-et-faits-divers/"
-    },
-    {
-      "text": "Meurtres \u00e0 Montr\u00e9al en 2022",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-04/meurtres-a-montreal-en-2022/la-tendance-a-la-hausse-se-dessine.php"
-    },
-    {
-      "text": "\n                        La tendance \u00e0 la hausse se dessine\n                    ",
-      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-04/meurtres-a-montreal-en-2022/la-tendance-a-la-hausse-se-dessine.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-04/l-amerique-craque-de-toutes-parts.php"
-    },
-    {
-      "text": "\n                                    \u00c9tats-Unis\n                                ",
-      "url": "/international/etats-unis/"
-    },
-    {
-      "text": "\n                        \u00ab\u00a0L\u2019Am\u00e9rique craque de toutes parts\u00a0\u00bb\n                    ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-04/l-amerique-craque-de-toutes-parts.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/train-a-grande-frequence/alstom-plaide-pour-une-solution-du-xxie-siecle.php"
-    },
-    {
-      "text": "\n                                    Entreprises\n                                ",
-      "url": "/affaires/entreprises/"
-    },
-    {
-      "text": "Train \u00e0 grande fr\u00e9quence",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/train-a-grande-frequence/alstom-plaide-pour-une-solution-du-xxie-siecle.php"
-    },
-    {
-      "text": "\n                        Alstom plaide pour une \u00ab\u00a0solution du\u00a0XXIe\u00a0si\u00e8cle\u00a0\u00bb \n                    ",
-      "url": "https://www.lapresse.ca/affaires/entreprises/2022-07-05/train-a-grande-frequence/alstom-plaide-pour-une-solution-du-xxie-siecle.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/maison/immobilier/2022-07-04/le-tour-du-proprietaire/en-pleine-nature-de-charlevoix.php"
-    },
-    {
-      "text": "\n                                    Immobilier\n                                ",
-      "url": "/maison/immobilier/"
-    },
-    {
-      "text": "Le tour du propri\u00e9taire",
-      "url": "https://www.lapresse.ca/maison/immobilier/2022-07-04/le-tour-du-proprietaire/en-pleine-nature-de-charlevoix.php"
-    },
-    {
-      "text": "\n                        En pleine nature de\u00a0Charlevoix\n                    ",
-      "url": "https://www.lapresse.ca/maison/immobilier/2022-07-04/le-tour-du-proprietaire/en-pleine-nature-de-charlevoix.php"
-    },
-    {
       "text": "\n                    XTRA\n                ",
       "url": "/xtra/"
-    },
-    {
-      "text": "\n                        \n                            \n                            \n                            \n                        \n                                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-10/pwc-canada/relever-les-defis-d-un-transfert-reussi-ca-se-fete.php"
-    },
-    {
-      "text": "\n                                PwC Canada\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-10/pwc-canada/relever-les-defis-d-un-transfert-reussi-ca-se-fete.php"
-    },
-    {
-      "text": "\n                                Relever les d\u00e9fis d\u2019un transfert r\u00e9ussi\u00a0: \u00e7a se f\u00eate !\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-10/pwc-canada/relever-les-defis-d-un-transfert-reussi-ca-se-fete.php"
     },
     {
       "text": "\n                        \n                            \n                            \n                            \n                        \n                                            ",
@@ -2506,27 +2552,39 @@
     },
     {
       "text": "\n                        \n                            \n                            \n                            \n                        \n                                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-14/energir/la-place-du-gaz-naturel-dans-la-transition-energetique.php"
+      "url": "https://www.lapresse.ca/xtra/2022-06-27/aon/partenaire-d-innovation-et-de-confiance-des-entreprises-quebecoises-depuis-25-ans.php"
     },
     {
-      "text": "\n                                \u00c9nergir\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-14/energir/la-place-du-gaz-naturel-dans-la-transition-energetique.php"
+      "text": "\n                                 Aon\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-27/aon/partenaire-d-innovation-et-de-confiance-des-entreprises-quebecoises-depuis-25-ans.php"
     },
     {
-      "text": "\n                                La place du gaz naturel dans la transition \u00e9nerg\u00e9tique\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-14/energir/la-place-du-gaz-naturel-dans-la-transition-energetique.php"
+      "text": "\n                                Partenaire d\u2019innovation et de confiance des entreprises qu\u00e9b\u00e9coises depuis 25...\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-27/aon/partenaire-d-innovation-et-de-confiance-des-entreprises-quebecoises-depuis-25-ans.php"
     },
     {
       "text": "\n                        \n                            \n                            \n                            \n                        \n                                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-16/destination-quebec-cite/5-bonnes-raisons-de-decouvrir-quebec-cet-ete.php"
+      "url": "https://www.lapresse.ca/xtra/2022-06-30/jean-coutu/toujours-pres-des-gens.php"
     },
     {
-      "text": "\n                                Destination Qu\u00e9bec cit\u00e9\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-16/destination-quebec-cite/5-bonnes-raisons-de-decouvrir-quebec-cet-ete.php"
+      "text": "\n                                Jean Coutu\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-30/jean-coutu/toujours-pres-des-gens.php"
     },
     {
-      "text": "\n                                5 bonnes raisons de d\u00e9couvrir Qu\u00e9bec cet \u00e9t\u00e9\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-16/destination-quebec-cite/5-bonnes-raisons-de-decouvrir-quebec-cet-ete.php"
+      "text": "\n                                Toujours pr\u00e8s des gens\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-30/jean-coutu/toujours-pres-des-gens.php"
+    },
+    {
+      "text": "\n                        \n                            \n                            \n                            \n                        \n                                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-29/fondation-christian-vachon/reussite-educative-l-urgence-d-agir.php"
+    },
+    {
+      "text": "\n                                Fondation Christian Vachon\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-29/fondation-christian-vachon/reussite-educative-l-urgence-d-agir.php"
+    },
+    {
+      "text": "\n                                R\u00e9ussite \u00e9ducative\u00a0: l\u2019urgence d\u2019agir\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-29/fondation-christian-vachon/reussite-educative-l-urgence-d-agir.php"
     },
     {
       "text": "\n                        \n                            \n                            \n                            \n                        \n                                            ",
@@ -2542,15 +2600,15 @@
     },
     {
       "text": "\n                        \n                            \n                            \n                            \n                        \n                                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-06/accenture/tendances-technologiques-comment-preparer-votre-entreprise-au-metavers.php"
+      "url": "https://www.lapresse.ca/xtra/2022-06-25/liste/alcool-local.php"
     },
     {
-      "text": "\n                                Accenture\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-06/accenture/tendances-technologiques-comment-preparer-votre-entreprise-au-metavers.php"
+      "text": "\n                                Liste\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-25/liste/alcool-local.php"
     },
     {
-      "text": "\n                                Tendances technologiques : comment pr\u00e9parer votre entreprise au m\u00e9tavers ?\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-06/accenture/tendances-technologiques-comment-preparer-votre-entreprise-au-metavers.php"
+      "text": "\n                                Alcool local\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-25/liste/alcool-local.php"
     },
     {
       "text": "\n                        \n                            \n                            \n                            \n                        \n                                                    \n    00:30\n\n\n                                            ",
@@ -2566,19 +2624,67 @@
     },
     {
       "text": "\n                        \n                            \n                            \n                            \n                        \n                                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-20/investir-au-canada/l-investissement-direct-etranger-pour-batir-nos-communautes.php"
+      "url": "https://www.lapresse.ca/xtra/2022-06-20/caa-quebec/faire-le-plein-d-economies-sur-la-route-des-vacances.php"
     },
     {
-      "text": "\n                                Investir au Canada\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-20/investir-au-canada/l-investissement-direct-etranger-pour-batir-nos-communautes.php"
+      "text": "\n                                CAA-Qu\u00e9bec\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-20/caa-quebec/faire-le-plein-d-economies-sur-la-route-des-vacances.php"
     },
     {
-      "text": "\n                                L\u2019investissement direct \u00e9tranger pour b\u00e2tir nos communaut\u00e9s\n                            ",
-      "url": "https://www.lapresse.ca/xtra/2022-06-20/investir-au-canada/l-investissement-direct-etranger-pour-batir-nos-communautes.php"
+      "text": "\n                                Faire le plein d\u2019\u00e9conomies sur la route des vacances\n                            ",
+      "url": "https://www.lapresse.ca/xtra/2022-06-20/caa-quebec/faire-le-plein-d-economies-sur-la-route-des-vacances.php"
     },
     {
       "text": "\n            Vid\u00e9os\n        ",
       "url": "/videos/"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    00:58\n\n\n                            ",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/guerre-en-ukraine-jour-132/les-russes-avancent-dans-le-donbass-bombardement-massif-sur-sloviansk.php"
+    },
+    {
+      "text": "\n                                    Europe\n                                ",
+      "url": "/international/europe/"
+    },
+    {
+      "text": "Guerre en Ukraine, jour\u00a0132",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/guerre-en-ukraine-jour-132/les-russes-avancent-dans-le-donbass-bombardement-massif-sur-sloviansk.php"
+    },
+    {
+      "text": "\n                        Les Russes avancent dans le Donbass, bombardement massif sur Sloviansk\n                    ",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/guerre-en-ukraine-jour-132/les-russes-avancent-dans-le-donbass-bombardement-massif-sur-sloviansk.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    01:22\n\n\n                            ",
+      "url": "https://www.lapresse.ca/actualites/sante/2022-07-05/contamination-de-l-air-a-rouyn-noranda/la-fermeture-de-la-fonderie-horne-evoquee.php"
+    },
+    {
+      "text": "\n                                    Sant\u00e9\n                                ",
+      "url": "/actualites/sante/"
+    },
+    {
+      "text": "Contamination de l\u2019air \u00e0 Rouyn-Noranda",
+      "url": "https://www.lapresse.ca/actualites/sante/2022-07-05/contamination-de-l-air-a-rouyn-noranda/la-fermeture-de-la-fonderie-horne-evoquee.php"
+    },
+    {
+      "text": "\n                        La fermeture de la Fonderie Horne \u00e9voqu\u00e9e\n                    ",
+      "url": "https://www.lapresse.ca/actualites/sante/2022-07-05/contamination-de-l-air-a-rouyn-noranda/la-fermeture-de-la-fonderie-horne-evoquee.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    00:55\n\n\n                            ",
+      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/highland-park/le-choc-et-des-questions-dans-cette-ville-huppee.php"
+    },
+    {
+      "text": "\n                                    \u00c9tats-Unis\n                                ",
+      "url": "/international/etats-unis/"
+    },
+    {
+      "text": "Highland Park ",
+      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/highland-park/le-choc-et-des-questions-dans-cette-ville-huppee.php"
+    },
+    {
+      "text": "\n                        Le choc et des questions dans cette ville hupp\u00e9e\n                    ",
+      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/highland-park/le-choc-et-des-questions-dans-cette-ville-huppee.php"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    01:06\n\n\n                            ",
@@ -2593,108 +2699,64 @@
       "url": "https://www.lapresse.ca/affaires/economie/2022-07-05/mieux-comprendre-l-inflation.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    00:56\n\n\n                            ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/italie/les-recherches-se-poursuivent-au-glacier-de-la-marmolada-sans-grand-espoir.php"
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    00:51\n\n\n                            ",
+      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-05/des-tortues-sauvees-d-un-contrebandier-a-l-aeroport-de-bangkok.php"
     },
     {
-      "text": "\n                                    Europe\n                                ",
-      "url": "/international/europe/"
+      "text": "\n                                    Environnement\n                                ",
+      "url": "/actualites/environnement/"
     },
     {
-      "text": "Italie",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/italie/les-recherches-se-poursuivent-au-glacier-de-la-marmolada-sans-grand-espoir.php"
+      "text": "\n                        Des tortues sauv\u00e9es d'un contrebandier \u00e0 l'a\u00e9roport de Bangkok\n                    ",
+      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-05/des-tortues-sauvees-d-un-contrebandier-a-l-aeroport-de-bangkok.php"
     },
     {
-      "text": "\n                        Les recherches se poursuivent au glacier de la Marmolada, sans grand espoir\n                    ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/italie/les-recherches-se-poursuivent-au-glacier-de-la-marmolada-sans-grand-espoir.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    01:07\n\n\n                            ",
-      "url": "https://www.lapresse.ca/international/asie-et-oceanie/2022-07-05/inondations-en-australie/des-milliers-d-habitants-contraints-d-evacuer-la-region-de-sydney.php"
-    },
-    {
-      "text": "\n                                    Asie et Oc\u00e9anie\n                                ",
-      "url": "/international/asie-et-oceanie/"
-    },
-    {
-      "text": "Inondations en Australie",
-      "url": "https://www.lapresse.ca/international/asie-et-oceanie/2022-07-05/inondations-en-australie/des-milliers-d-habitants-contraints-d-evacuer-la-region-de-sydney.php"
-    },
-    {
-      "text": "\n                        Des milliers d\u2019habitants contraints d\u2019\u00e9vacuer la r\u00e9gion de Sydney \n                    ",
-      "url": "https://www.lapresse.ca/international/asie-et-oceanie/2022-07-05/inondations-en-australie/des-milliers-d-habitants-contraints-d-evacuer-la-region-de-sydney.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    00:58\n\n\n                            ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/italie/c-etait-comme-une-bombe-raconte-un-miracule-du-viaduc-de-genes.php"
-    },
-    {
-      "text": "\n                                    Europe\n                                ",
-      "url": "/international/europe/"
-    },
-    {
-      "text": "Italie",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/italie/c-etait-comme-une-bombe-raconte-un-miracule-du-viaduc-de-genes.php"
-    },
-    {
-      "text": "\n                        \u00ab\u2009C\u2019\u00e9tait comme une bombe\u2009\u00bb, raconte un miracul\u00e9 du viaduc de G\u00eanes\n                    ",
-      "url": "https://www.lapresse.ca/international/europe/2022-07-05/italie/c-etait-comme-une-bombe-raconte-un-miracule-du-viaduc-de-genes.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    01:06\n\n\n                            ",
-      "url": "https://www.lapresse.ca/arts/arts-visuels/2022-07-05/des-portraits-et-monuments-faits-a-la-machine-a-ecrire.php"
-    },
-    {
-      "text": "\n                                    Arts visuels\n                                ",
-      "url": "/arts/arts-visuels/"
-    },
-    {
-      "text": "\n                        Des portraits et monuments faits \u00e0 la machine \u00e0 \u00e9crire\n                    ",
-      "url": "https://www.lapresse.ca/arts/arts-visuels/2022-07-05/des-portraits-et-monuments-faits-a-la-machine-a-ecrire.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    01:17\n\n\n                            ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/la-secheresse-dans-l-ouest-menace-le-colorado-et-le-barrage-hoover.php"
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    02:10\n\n\n                            ",
+      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/fusillade-a-philadelphie/le-maire-a-declare-s-attendre-a-des-evenements-tragiques-tout-le-temps.php"
     },
     {
       "text": "\n                                    \u00c9tats-Unis\n                                ",
       "url": "/international/etats-unis/"
     },
     {
-      "text": "\n                        La s\u00e9cheresse dans l\u2019Ouest menace le Colorado et le barrage Hoover\n                    ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/la-secheresse-dans-l-ouest-menace-le-colorado-et-le-barrage-hoover.php"
+      "text": "Fusillade \u00e0 Philadelphie",
+      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/fusillade-a-philadelphie/le-maire-a-declare-s-attendre-a-des-evenements-tragiques-tout-le-temps.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    00:54\n\n\n                            ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-04/fusillade-en-illinois/le-suspect-arrete-au-moins-six-morts-et-30-blesses.php"
+      "text": "\n                        Le maire a d\u00e9clar\u00e9 s'attendre \u00e0 des \u00e9v\u00e9nements tragiques \u00ab tout le temps\u00a0\u00bb\n                    ",
+      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-05/fusillade-a-philadelphie/le-maire-a-declare-s-attendre-a-des-evenements-tragiques-tout-le-temps.php"
     },
     {
-      "text": "\n                                    \u00c9tats-Unis\n                                ",
-      "url": "/international/etats-unis/"
-    },
-    {
-      "text": "Fusillade en Illinois",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-04/fusillade-en-illinois/le-suspect-arrete-au-moins-six-morts-et-30-blesses.php"
-    },
-    {
-      "text": "\n                        Le suspect arr\u00eat\u00e9, au moins six morts et 30\u00a0bless\u00e9s\n                    ",
-      "url": "https://www.lapresse.ca/international/etats-unis/2022-07-04/fusillade-en-illinois/le-suspect-arrete-au-moins-six-morts-et-30-blesses.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    02:02\n\n\n                            ",
-      "url": "https://www.lapresse.ca/sports/hockey/2022-07-04/repechage-de-la-lnh/aucune-option-ecartee-par-kent-hughes-ni-meme-une-transaction.php"
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    00:20\n\n\n                            ",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/sharks-de-san-jose/mike-grier-marque-l-histoire.php"
     },
     {
       "text": "\n                                    Hockey\n                                ",
       "url": "/sports/hockey/"
     },
     {
-      "text": "Rep\u00eachage de la LNH",
-      "url": "https://www.lapresse.ca/sports/hockey/2022-07-04/repechage-de-la-lnh/aucune-option-ecartee-par-kent-hughes-ni-meme-une-transaction.php"
+      "text": "Sharks de San Jos\u00e9",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/sharks-de-san-jose/mike-grier-marque-l-histoire.php"
     },
     {
-      "text": "\n                        Aucune option \u00e9cart\u00e9e par Kent Hughes, ni m\u00eame une transaction\n                    ",
-      "url": "https://www.lapresse.ca/sports/hockey/2022-07-04/repechage-de-la-lnh/aucune-option-ecartee-par-kent-hughes-ni-meme-une-transaction.php"
+      "text": "\n                        Mike Grier marque l\u2019histoire\n                    ",
+      "url": "https://www.lapresse.ca/sports/hockey/2022-07-05/sharks-de-san-jose/mike-grier-marque-l-histoire.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                                    \n    00:56\n\n\n                            ",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/italie/aucun-signe-de-vie-sur-le-glacier-effondre.php"
+    },
+    {
+      "text": "\n                                    Europe\n                                ",
+      "url": "/international/europe/"
+    },
+    {
+      "text": "Italie",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/italie/aucun-signe-de-vie-sur-le-glacier-effondre.php"
+    },
+    {
+      "text": "\n                        Aucun signe de vie sur le glacier effondr\u00e9\n                    ",
+      "url": "https://www.lapresse.ca/international/europe/2022-07-05/italie/aucun-signe-de-vie-sur-le-glacier-effondre.php"
     },
     {
       "text": "\n            Environnement\n        ",
@@ -2702,35 +2764,27 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-04/planete-bleue-idees-vertes/moins-de-viande-pour-les-politiques.php"
+      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-05/les-canadiens-s-informent-peu-sur-les-changements-climatiques.php"
     },
     {
       "text": "\n                                    Environnement\n                                ",
       "url": "/actualites/environnement/"
     },
     {
-      "text": "Plan\u00e8te bleue, id\u00e9es vertes",
-      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-04/planete-bleue-idees-vertes/moins-de-viande-pour-les-politiques.php"
+      "text": "\n                        Les Canadiens s\u2019informent peu sur les changements climatiques\n                    ",
+      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-05/les-canadiens-s-informent-peu-sur-les-changements-climatiques.php"
     },
     {
-      "text": "\n                        Moins de viande pour les politiques\n                    ",
-      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-04/planete-bleue-idees-vertes/moins-de-viande-pour-les-politiques.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-03/emissions-d-arsenic-a-rouyn-noranda/cri-du-coeur-des-medecins.php"
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    00:51\n\n\n                            ",
+      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-05/des-tortues-sauvees-d-un-contrebandier-a-l-aeroport-de-bangkok.php"
     },
     {
       "text": "\n                                    Environnement\n                                ",
       "url": "/actualites/environnement/"
     },
     {
-      "text": "\u00c9missions d'arsenic \u00e0 Rouyn-Noranda",
-      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-03/emissions-d-arsenic-a-rouyn-noranda/cri-du-coeur-des-medecins.php"
-    },
-    {
-      "text": "\n                        Cri du c\u0153ur des m\u00e9decins\n                    ",
-      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-03/emissions-d-arsenic-a-rouyn-noranda/cri-du-coeur-des-medecins.php"
+      "text": "\n                        Des tortues sauv\u00e9es d'un contrebandier \u00e0 l'a\u00e9roport de Bangkok\n                    ",
+      "url": "https://www.lapresse.ca/actualites/environnement/2022-07-05/des-tortues-sauvees-d-un-contrebandier-a-l-aeroport-de-bangkok.php"
     },
     {
       "text": "\n            Sciences\n        ",
@@ -2830,15 +2884,19 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/societe/mode-et-beaute/2022-07-04/et-si-les-vetements-et-le-plancher-sentaient-le-lilas.php"
+      "url": "https://www.lapresse.ca/societe/mode-et-beaute/2022-07-05/defile-dedie-a-barbara/stephane-rolland-emeut-avec-ses-robes-haute-couture.php"
     },
     {
       "text": "\n                                    Mode et beaut\u00e9\n                                ",
       "url": "/societe/mode-et-beaute/"
     },
     {
-      "text": "\n                        Et si les v\u00eatements (et\u00a0le\u00a0plancher) sentaient le lilas\u00a0?\n                    ",
-      "url": "https://www.lapresse.ca/societe/mode-et-beaute/2022-07-04/et-si-les-vetements-et-le-plancher-sentaient-le-lilas.php"
+      "text": "D\u00e9fil\u00e9 d\u00e9di\u00e9 \u00e0 Barbara",
+      "url": "https://www.lapresse.ca/societe/mode-et-beaute/2022-07-05/defile-dedie-a-barbara/stephane-rolland-emeut-avec-ses-robes-haute-couture.php"
+    },
+    {
+      "text": "\n                        St\u00e9phane Rolland \u00e9meut avec ses robes haute couture\n                    ",
+      "url": "https://www.lapresse.ca/societe/mode-et-beaute/2022-07-05/defile-dedie-a-barbara/stephane-rolland-emeut-avec-ses-robes-haute-couture.php"
     },
     {
       "text": "\n            Voyage\n        ",
@@ -2846,6 +2904,22 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/voyage/quebec-et-canada/2022-07-05/appel-a-tous/votre-plage-preferee-au-quebec.php"
+    },
+    {
+      "text": "\n                                    Qu\u00e9bec et Canada\n                                ",
+      "url": "/voyage/quebec-et-canada/"
+    },
+    {
+      "text": "Appel \u00e0 tous",
+      "url": "https://www.lapresse.ca/voyage/quebec-et-canada/2022-07-05/appel-a-tous/votre-plage-preferee-au-quebec.php"
+    },
+    {
+      "text": "\n                        Votre plage pr\u00e9f\u00e9r\u00e9e au Qu\u00e9bec\n                    ",
+      "url": "https://www.lapresse.ca/voyage/quebec-et-canada/2022-07-05/appel-a-tous/votre-plage-preferee-au-quebec.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
       "url": "https://www.lapresse.ca/voyage/2022-07-04/les-jeunes-prennent-le-large.php"
     },
     {
@@ -2857,23 +2931,27 @@
       "url": "https://www.lapresse.ca/voyage/2022-07-04/les-jeunes-prennent-le-large.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/voyage/quebec-et-canada/2022-07-03/toujours-le-temps-de-reserver-pour-les-provinces-de-l-est.php"
-    },
-    {
-      "text": "\n                                    Qu\u00e9bec et Canada\n                                ",
-      "url": "/voyage/quebec-et-canada/"
-    },
-    {
-      "text": "\n                        Toujours le temps de r\u00e9server pour les provinces de l\u2019Est\n                    ",
-      "url": "https://www.lapresse.ca/voyage/quebec-et-canada/2022-07-03/toujours-le-temps-de-reserver-pour-les-provinces-de-l-est.php"
-    },
-    {
       "text": "\n            Auto\n        ",
       "url": "/auto/"
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/auto/guide-auto/2022-07-05/hyundai/l-ioniq-6-prepare-une-riposte-stylisee-a-la-model-3.php"
+    },
+    {
+      "text": "\n                                    Guide auto\n                                ",
+      "url": "/auto/guide-auto/"
+    },
+    {
+      "text": "Hyundai",
+      "url": "https://www.lapresse.ca/auto/guide-auto/2022-07-05/hyundai/l-ioniq-6-prepare-une-riposte-stylisee-a-la-model-3.php"
+    },
+    {
+      "text": "\n                        L\u2019Ioniq\u00a06 pr\u00e9pare une riposte stylis\u00e9e \u00e0 la Model\u00a03\n                    ",
+      "url": "https://www.lapresse.ca/auto/guide-auto/2022-07-05/hyundai/l-ioniq-6-prepare-une-riposte-stylisee-a-la-model-3.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
       "url": "https://www.lapresse.ca/auto/guide-auto/2022-07-04/volkswagen/l-id-aero-augmentera-l-offre-electrique-chez-les-berlines.php"
     },
     {
@@ -2887,18 +2965,6 @@
     {
       "text": "\n                        L\u2019ID.Aero augmentera l\u2019offre \u00e9lectrique chez les berlines\n                    ",
       "url": "https://www.lapresse.ca/auto/guide-auto/2022-07-04/volkswagen/l-id-aero-augmentera-l-offre-electrique-chez-les-berlines.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/auto/conseils/2022-07-03/l-automobile-en-questions.php"
-    },
-    {
-      "text": "\n                                    Conseils\n                                ",
-      "url": "/auto/conseils/"
-    },
-    {
-      "text": "\n                        L\u2019automobile en questions\n                    ",
-      "url": "https://www.lapresse.ca/auto/conseils/2022-07-03/l-automobile-en-questions.php"
     },
     {
       "text": "\n            Maison\n        ",
@@ -2942,6 +3008,22 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/gourmand/2022-07-05/circuit-gourmand/decouvrir-les-cantons-de-l-ouest.php"
+    },
+    {
+      "text": "\n                                    Gourmand\n                                ",
+      "url": "/gourmand/"
+    },
+    {
+      "text": "Circuit gourmand",
+      "url": "https://www.lapresse.ca/gourmand/2022-07-05/circuit-gourmand/decouvrir-les-cantons-de-l-ouest.php"
+    },
+    {
+      "text": "\n                        D\u00e9couvrir les \u00ab\u00a0Cantons de l\u2019Ouest\u00a0\u00bb\n                    ",
+      "url": "https://www.lapresse.ca/gourmand/2022-07-05/circuit-gourmand/decouvrir-les-cantons-de-l-ouest.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
       "url": "https://www.lapresse.ca/gourmand/2022-07-04/thes/camellia-sinensis-un-gout-de-nouveaute.php"
     },
     {
@@ -2955,22 +3037,6 @@
     {
       "text": "\n                        Camellia Sinensis\u00a0: un go\u00fbt de nouveaut\u00e9\n                    ",
       "url": "https://www.lapresse.ca/gourmand/2022-07-04/thes/camellia-sinensis-un-gout-de-nouveaute.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/gourmand/2022-07-03/circuit-fromager/des-fromageries-monteregiennes-sur-un-plateau.php"
-    },
-    {
-      "text": "\n                                    Gourmand\n                                ",
-      "url": "/gourmand/"
-    },
-    {
-      "text": "Circuit fromager",
-      "url": "https://www.lapresse.ca/gourmand/2022-07-03/circuit-fromager/des-fromageries-monteregiennes-sur-un-plateau.php"
-    },
-    {
-      "text": "\n                        Des fromageries mont\u00e9r\u00e9giennes sur un\u00a0plateau\n                    ",
-      "url": "https://www.lapresse.ca/gourmand/2022-07-03/circuit-fromager/des-fromageries-monteregiennes-sur-un-plateau.php"
     },
     {
       "text": "\n            Alcools\n        ",
@@ -3021,20 +3087,16 @@
       "url": "https://www.lapresse.ca/cinema/2022-07-05/guillaume-lambert-au-nirvana-avec-niagara.php"
     },
     {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/cinema/2022-07-05/les-minions-2/des-ados-en-costumes-interdits-de-cinemas-britanniques.php"
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                                    \n    02:16\n\n\n                            ",
+      "url": "https://www.lapresse.ca/cinema/2022-07-05/tu-te-souviendras-de-moi-sur-les-ecrans-le-4-novembre.php"
     },
     {
       "text": "\n                                    Cin\u00e9ma\n                                ",
       "url": "/cinema/"
     },
     {
-      "text": "Les Minions 2",
-      "url": "https://www.lapresse.ca/cinema/2022-07-05/les-minions-2/des-ados-en-costumes-interdits-de-cinemas-britanniques.php"
-    },
-    {
-      "text": "\n                        Des ados en costumes interdits de cin\u00e9mas britanniques\n                    ",
-      "url": "https://www.lapresse.ca/cinema/2022-07-05/les-minions-2/des-ados-en-costumes-interdits-de-cinemas-britanniques.php"
+      "text": "\n                        Tu te souviendras de moi sur les \u00e9crans le 4\u00a0novembre\n                    ",
+      "url": "https://www.lapresse.ca/cinema/2022-07-05/tu-te-souviendras-de-moi-sur-les-ecrans-le-4-novembre.php"
     },
     {
       "text": "\n            Techno\n        ",
@@ -3042,6 +3104,22 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/affaires/techno/2022-07-05/securite-des-donnees/des-senateurs-americains-demandent-une-enquete-sur-tiktok.php"
+    },
+    {
+      "text": "\n                                    Techno\n                                ",
+      "url": "/affaires/techno/"
+    },
+    {
+      "text": "S\u00e9curit\u00e9 des donn\u00e9es",
+      "url": "https://www.lapresse.ca/affaires/techno/2022-07-05/securite-des-donnees/des-senateurs-americains-demandent-une-enquete-sur-tiktok.php"
+    },
+    {
+      "text": "\n                        Des s\u00e9nateurs am\u00e9ricains demandent une enqu\u00eate sur TikTok\n                    ",
+      "url": "https://www.lapresse.ca/affaires/techno/2022-07-05/securite-des-donnees/des-senateurs-americains-demandent-une-enquete-sur-tiktok.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
       "url": "https://www.lapresse.ca/affaires/techno/2022-07-05/un-pirate-affirme-avoir-vole-les-donnees-d-un-milliard-de-chinois.php"
     },
     {
@@ -3051,18 +3129,6 @@
     {
       "text": "\n                        Un pirate affirme avoir vol\u00e9 les donn\u00e9es d\u2019un milliard de Chinois\n                    ",
       "url": "https://www.lapresse.ca/affaires/techno/2022-07-05/un-pirate-affirme-avoir-vole-les-donnees-d-un-milliard-de-chinois.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/techno/2022-07-03/clins-d-oeil-technologiques.php"
-    },
-    {
-      "text": "\n                                    Techno\n                                ",
-      "url": "/affaires/techno/"
-    },
-    {
-      "text": "\n                        Clins d\u2019\u0153il technologiques\n                    ",
-      "url": "https://www.lapresse.ca/affaires/techno/2022-07-03/clins-d-oeil-technologiques.php"
     },
     {
       "text": "\n                Portfolio\n            ",
@@ -3138,6 +3204,18 @@
     },
     {
       "text": "\n                                    \n                                                    \n                                                    \n                                                                            \n                                                    \n                                                \n                    \n                                            ",
+      "url": "https://www.lapresse.ca/affaires/finances-personnelles/2022-07-05/l-epargne-retraite-hors-de-portee-pour-certains-jeunes-adultes-canadiens.php"
+    },
+    {
+      "text": "\n                                    Finances personnelles\n                                ",
+      "url": "/affaires/finances-personnelles/"
+    },
+    {
+      "text": "\n                        L\u2019\u00e9pargne-retraite hors de port\u00e9e pour certains jeunes adultes canadiens\n                    ",
+      "url": "https://www.lapresse.ca/affaires/finances-personnelles/2022-07-05/l-epargne-retraite-hors-de-portee-pour-certains-jeunes-adultes-canadiens.php"
+    },
+    {
+      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
       "url": "https://www.lapresse.ca/affaires/finances-personnelles/2022-07-04/mettre-l-ia-au-service-des-petits-investisseurs.php"
     },
     {
@@ -3147,22 +3225,6 @@
     {
       "text": "\n                        Mettre l\u2019IA au service des petits investisseurs\n                    ",
       "url": "https://www.lapresse.ca/affaires/finances-personnelles/2022-07-04/mettre-l-ia-au-service-des-petits-investisseurs.php"
-    },
-    {
-      "text": "\n                                    \n                                                    \n                                                    \n                                                \n                    \n                                            ",
-      "url": "https://www.lapresse.ca/affaires/finances-personnelles/2022-07-03/train-de-vie/acheter-un-condo-a-17-ans.php"
-    },
-    {
-      "text": "\n                                    Finances personnelles\n                                ",
-      "url": "/affaires/finances-personnelles/"
-    },
-    {
-      "text": "Train de vie ",
-      "url": "https://www.lapresse.ca/affaires/finances-personnelles/2022-07-03/train-de-vie/acheter-un-condo-a-17-ans.php"
-    },
-    {
-      "text": "\n                        Acheter un condo \u00e0 17\u00a0ans\u00a0?\n                    ",
-      "url": "https://www.lapresse.ca/affaires/finances-personnelles/2022-07-03/train-de-vie/acheter-un-condo-a-17-ans.php"
     },
     {
       "text": "\n            Insolite\n        ",
@@ -3346,7 +3408,7 @@
     "addeddate": "2022-06-30 22:35:44"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 116336367,
+  "uniq": 468932736,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

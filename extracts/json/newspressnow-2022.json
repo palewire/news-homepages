@@ -1,5 +1,5 @@
 {
-  "created": 1657068014,
+  "created": 1657109610,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/newspressnow-2022",
@@ -142,31 +142,73 @@
       "sha1": "80137c1b5bcca3a152700fd0e404c4a28ba241a9"
     },
     {
+      "name": "newspressnow-2022-07-05T22:12:36.721182-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657077159",
+      "size": "28385",
+      "md5": "2b9432e84e7bc73ae1c4582a203fa0dd",
+      "crc32": "fcc3c996",
+      "sha1": "757557924e9bf8ca9cd6600dcd359831420765ec",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-05T22:12:36.721182-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657077161",
+      "size": "34695",
+      "md5": "608f4921888744f337a2b436beecd09f",
+      "crc32": "576f5ddb",
+      "sha1": "a780ae27ecc03f03b0684a4875dc578a2483f91b",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-05T22:12:36.721182-05:00.jpg",
+      "source": "original",
+      "mtime": "1657077158",
+      "size": "371536",
+      "md5": "7836610c6cd757cf27ab325f0bad98d8",
+      "crc32": "a42e72ba",
+      "sha1": "acbb82847b5b191408d71f27db56632fe5622849",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newspressnow-2022-07-05T22:12:36.721182-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newspressnow-2022-07-05T22:12:36.721182-05:00.jpg",
+      "mtime": "1657077221",
+      "size": "10929",
+      "md5": "30d6eee3bd58c2aa00f3e287115c07d9",
+      "crc32": "bce213d2",
+      "sha1": "d6bd128c291e9b96d766ddaee488670b4c269e54"
+    },
+    {
       "name": "newspressnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d309e3e54f7bd0c7a0850311f1a3ec45912486d8",
-      "mtime": "1657036561",
-      "size": "4217",
-      "md5": "fe48f16877c9e1b877791e350a1be377",
-      "crc32": "db0c1797",
-      "sha1": "7eede15ed76227035246ef8db8ac65a7eb3b9a81",
+      "btih": "0b839f5f6b28a5fab0f09f77cf3eda389f0ecd37",
+      "mtime": "1657077224",
+      "size": "5083",
+      "md5": "552f1d52c111097bd8ab6bceef5fc6b0",
+      "crc32": "fea24360",
+      "sha1": "2040d43ab7abe628ef29f607150fb35831cc4f9b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newspressnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "317b03601d60c05fb6ffb786b41327ff",
+      "md5": "cf7cbe9c055f194d6865f46036c45233",
       "summation": "md5"
     },
     {
       "name": "newspressnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657036506",
-      "size": "32768",
-      "md5": "31f6d65fdcaea32420e917a56f8d8e5a",
-      "crc32": "6869b562",
-      "sha1": "164d886169eaa84e49902a2f6a2859f8169d60b6",
+      "mtime": "1657077163",
+      "size": "36864",
+      "md5": "9d9e92b7900a15dbdd57a200cb00ee11",
+      "crc32": "df15b640",
+      "sha1": "dcc7b841b51e3dbf990db590ee6f528d4b3853dc",
       "format": "Metadata"
     },
     {
@@ -180,9 +222,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 17,
-  "item_last_updated": 1657036561,
-  "item_size": 1023515,
+  "files_count": 21,
+  "item_last_updated": 1657077224,
+  "item_size": 1474022,
   "metadata": {
     "identifier": "newspressnow-2022",
     "collection": [
@@ -227,10 +269,6 @@
     {
       "text": " Saved items",
       "url": "https://www.newspressnow.com/users/admin/list/"
-    },
-    {
-      "text": "eEdition",
-      "url": "/eedition/"
     },
     {
       "text": "News",
@@ -525,11 +563,11 @@
       "url": "/eedition/"
     },
     {
-      "text": "\nWATCH\n\t",
-      "url": "https://www.newspressnow.com/livestream"
+      "text": "\nLIVE\n\t",
+      "url": "https://www.newspressnow.com/livestream/"
     },
     {
-      "text": "\n                \n                    \n                    \n                \n                \n                    83\u00b0\n                    \n                \n                \n            ",
+      "text": "\n                \n                    \n                    \n                \n                \n                    85\u00b0\n                    \n                \n                \n            ",
       "url": "/weather/?weather_zip=64501"
     },
     {
@@ -581,40 +619,36 @@
       "url": "https://stjoelocallinks.com/"
     },
     {
-      "text": "\n                                See it for yourself!\n                            ",
-      "url": "/eedition?utm_source=blox&utm_campaign=pop_up&utm_campaign_name=utm_campaign_name&utm_medium=utility_promo_designer&utm_content=Matters"
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "/news/local_news/public_safety/no-injury-crashes-reported-over-holiday-weekend-mshp-says/article_57ad3140-fcd0-11ec-92e8-97856319e597.html"
     },
     {
-      "text": "\n                \n                \n                    Article with a video\n                \n                \n                \n                        \n                ",
-      "url": "/news/local_news/public_safety/sudden-slowdowns-introduce-additional-risk-on-highway/article_13017f4c-f95b-11ec-9350-df52f9821883.html"
+      "text": "\n        \n\n        \n            No injury crashes reported over holiday weekend, MSHP says",
+      "url": "/news/local_news/public_safety/no-injury-crashes-reported-over-holiday-weekend-mshp-says/article_57ad3140-fcd0-11ec-92e8-97856319e597.html"
     },
     {
-      "text": "\n        \n\n        \n            Sudden slowdowns introduce additional risk on highway",
-      "url": "/news/local_news/public_safety/sudden-slowdowns-introduce-additional-risk-on-highway/article_13017f4c-f95b-11ec-9350-df52f9821883.html"
+      "text": "\n                \n                \n                    Article with videoMultiple images+2\n                \n                \n                \n                        \n                ",
+      "url": "/news/local_news/social_services/second-harvest-program-provides-lunches-for-kids-during-summer/article_1fa71d8a-fcb0-11ec-8e3e-573144102f8c.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Second Harvest program provides lunches for kids during summer",
+      "url": "/news/local_news/social_services/second-harvest-program-provides-lunches-for-kids-during-summer/article_1fa71d8a-fcb0-11ec-8e3e-573144102f8c.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/local_news/business/fireworks-remain-holiday-tradition-despite-rising-costs/article_c29a6e92-fbe4-11ec-a7d4-5f106685429e.html"
+      "url": "/news/local_news/education/sjsd-adopts-plan-to-soothe-stress-challenges/article_04122826-fcb0-11ec-a4be-6ba8315d0fd8.html"
     },
     {
-      "text": "\n        \n\n        \n            Fireworks remain holiday tradition despite rising costs",
-      "url": "/news/local_news/business/fireworks-remain-holiday-tradition-despite-rising-costs/article_c29a6e92-fbe4-11ec-a7d4-5f106685429e.html"
-    },
-    {
-      "text": "\n                \n                \n                    Article with a video\n                \n                \n                \n                        \n                ",
-      "url": "/news/local_news/government/hegeman-leaves-jefferson-city-after-19-years-in-legislature/article_419c1528-f646-11ec-aa87-2f4cd52ecb5e.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Hegeman leaves Jefferson City after 19 years in legislature",
-      "url": "/news/local_news/government/hegeman-leaves-jefferson-city-after-19-years-in-legislature/article_419c1528-f646-11ec-aa87-2f4cd52ecb5e.html"
+      "text": "\n        \n\n        \n            SJSD adopts plan to soothe stress challenges",
+      "url": "/news/local_news/education/sjsd-adopts-plan-to-soothe-stress-challenges/article_04122826-fcb0-11ec-a4be-6ba8315d0fd8.html"
     },
     {
       "text": "\n                \n                \n                    Article with a video\n                \n                \n                \n                        \n                ",
-      "url": "/news/local_news/business/doniphan-county-pet-rescue-works-to-renovate-new-shelter-space/article_064b54ba-f660-11ec-a414-a3b80802979e.html"
+      "url": "/news/local_news/public_safety/gower-human-remains-to-be-sent-to-texas-lab-for-identification/article_68f03b2c-fcb3-11ec-9f36-c389d77fd36c.html"
     },
     {
-      "text": "\n        \n\n        \n            Doniphan County Pet Rescue works to renovate new shelter space",
-      "url": "/news/local_news/business/doniphan-county-pet-rescue-works-to-renovate-new-shelter-space/article_064b54ba-f660-11ec-a414-a3b80802979e.html"
+      "text": "\n        \n\n        \n            Gower human remains to be sent to Texas lab for identification",
+      "url": "/news/local_news/public_safety/gower-human-remains-to-be-sent-to-texas-lab-for-identification/article_68f03b2c-fcb3-11ec-9f36-c389d77fd36c.html"
     },
     {
       "text": "\n                \n                Special Reports\n                \n                    ",
@@ -654,27 +688,27 @@
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/regional_news/central_missouri/truman-hospital-running-on-backup-power-procedures-postponed/article_f9af31af-f150-578e-b72b-51f2c8eb946d.html"
+      "url": "/news/regional_news/central_missouri/fire-damages-golf-cart-outbuilding-and-boat-in-osage-beach/article_96ac52bd-fb71-50fe-8d9e-a0d79004373a.html"
     },
     {
-      "text": "\n        \n\n        \n            Truman Hospital running on backup power; procedures postponed",
-      "url": "/news/regional_news/central_missouri/truman-hospital-running-on-backup-power-procedures-postponed/article_f9af31af-f150-578e-b72b-51f2c8eb946d.html"
+      "text": "\n        \n\n        \n            Fire damages golf cart, outbuilding and boat in Osage Beach",
+      "url": "/news/regional_news/central_missouri/fire-damages-golf-cart-outbuilding-and-boat-in-osage-beach/article_96ac52bd-fb71-50fe-8d9e-a0d79004373a.html"
     },
     {
-      "text": "\n        \n\n        \n            Two teens flown to University Hospital after UTV crash",
-      "url": "/news/regional_news/central_missouri/two-teens-flown-to-university-hospital-after-utv-crash/article_ca800607-b5e2-5c5c-b599-6d4e6037dce2.html"
+      "text": "\n        \n\n        \n            Gravois Mills man seriously injured after motorcycle crash in Camden County",
+      "url": "/news/regional_news/central_missouri/gravois-mills-man-seriously-injured-after-motorcycle-crash-in-camden-county/article_ffd40764-ab4e-5741-9372-fbb7da6d3ea2.html"
     },
     {
-      "text": "\n        \n\n        \n            Columbia house fire engulfs garage on Tuesday morning",
-      "url": "/news/regional_news/central_missouri/columbia-house-fire-engulfs-garage-on-tuesday-morning/article_77677f80-dfbc-5f8e-afd3-969309017cbb.html"
+      "text": "\n        \n\n        \n            Montgomery County Sheriff\u2019s Dept. looking for a suspect that stole a trailer and excavator",
+      "url": "/news/regional_news/central_missouri/montgomery-county-sheriff-s-dept-looking-for-a-suspect-that-stole-a-trailer-and-excavator/article_96b234af-b026-5a7a-a708-1d645aaa2c68.html"
     },
     {
-      "text": "\n        \n\n        \n            City Council of Jefferson City to discuss pay raises again at council meeting",
-      "url": "/news/regional_news/central_missouri/city-council-of-jefferson-city-to-discuss-pay-raises-again-at-council-meeting/article_15d5723b-284e-57ab-b26b-85a96454129a.html"
+      "text": "\n        \n\n        \n            Lane restrictions on Interstate 70 at High Hill in Montgomery County will be down to one lane Wednesday",
+      "url": "/news/regional_news/central_missouri/lane-restrictions-on-interstate-70-at-high-hill-in-montgomery-county-will-be-down-to/article_db35f754-9e77-52b9-9d4c-3d3ccf1efc06.html"
     },
     {
-      "text": "\n        \n\n        \n            QUESTION OF THE DAY: Which issue will be a bigger factor in the midterm elections?",
-      "url": "/news/regional_news/central_missouri/question-of-the-day-which-issue-will-be-a-bigger-factor-in-the-midterm-elections/article_a0f75c9d-c269-544e-bdeb-318d02378543.html"
+      "text": "\n        \n\n        \n            Boone County Commission funds five more outdoor warning sirens",
+      "url": "/news/regional_news/central_missouri/boone-county-commission-funds-five-more-outdoor-warning-sirens/article_e615e438-4d65-59ee-9584-3095ccccf2d7.html"
     },
     {
       "text": "More Regional News \u2192",
@@ -789,28 +823,28 @@
       "url": "/news/nation_and_world/"
     },
     {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/national_news/politics/covid-nursing-home-deaths-claim-is-campaign-trail-mainstay/article_b2f491ba-ab58-51f2-afb0-605154e4c61e.html"
+      "text": "\n                \n                \n                    Article with images+52\n                \n                \n                \n                        \n                ",
+      "url": "/news/national_news/parade-shooting-suspect-bought-5-weapons-despite-threats/article_d4a6734b-49e7-5561-a3ba-ca8bf5cf84c7.html"
     },
     {
-      "text": "\n        \n\n        \n            COVID nursing home deaths claim is campaign trail mainstay",
-      "url": "/news/national_news/politics/covid-nursing-home-deaths-claim-is-campaign-trail-mainstay/article_b2f491ba-ab58-51f2-afb0-605154e4c61e.html"
+      "text": "\n        \n\n        \n            Parade shooting suspect bought 5 weapons despite threats",
+      "url": "/news/national_news/parade-shooting-suspect-bought-5-weapons-despite-threats/article_d4a6734b-49e7-5561-a3ba-ca8bf5cf84c7.html"
     },
     {
-      "text": "\n        \n\n        \n            After abortion ruling, clinic staff grapple with trauma",
-      "url": "/news/national_news/after-abortion-ruling-clinic-staff-grapple-with-trauma/article_77920cb1-fd27-5dc7-b9e3-465052f3383c.html"
+      "text": "\n        \n\n        \n            West Coast dockworkers still talking after contract expires",
+      "url": "/news/national_news/west-coast-dockworkers-still-talking-after-contract-expires/article_8322e766-0be1-544f-ac48-4e763653d5ba.html"
     },
     {
-      "text": "\n        \n\n        \n            Many won't rely on virtual options after COVID: AP-NORC poll",
-      "url": "/news/national_news/election2020/many-wont-rely-on-virtual-options-after-covid-ap-norc-poll/article_b3935de5-355b-5573-a422-c6349dc30197.html"
+      "text": "\n        \n\n        \n            Homes of 85,000 people at risk, but rain eases around Sydney",
+      "url": "/news/world_news/homes-of-85-000-people-at-risk-but-rain-eases-around-sydney/article_a90658f9-5dbb-58b3-a287-91383321fea9.html"
     },
     {
-      "text": "\n        \n\n        \n            High cost of Russian gains in Ukraine may limit new advance",
-      "url": "/news/national_news/election2020/high-cost-of-russian-gains-in-ukraine-may-limit-new-advance/article_37902cd0-9048-52bf-8445-81dd37b6e26d.html"
+      "text": "\n        \n\n        \n            Parents of boy, 2, found alone at parade shooting among dead",
+      "url": "/news/world_news/parents-of-boy-2-found-alone-at-parade-shooting-among-dead/article_60e30fc5-8e5d-5c5c-abf1-7d6bc23cee54.html"
     },
     {
-      "text": "\n        \n\n        \n            Rwanda, Congo leaders to meet in Angola amid tensions",
-      "url": "/news/world_news/rwanda-congo-leaders-to-meet-in-angola-amid-tensions/article_02e161d0-cc65-53e1-af50-08964c9065fd.html"
+      "text": "\n        \n\n        \n            New evacuations for communities near California forest fire",
+      "url": "/news/national_news/new-evacuations-for-communities-near-california-forest-fire/article_c1fd5e85-f018-5371-93e4-10dfc9cf8748.html"
     },
     {
       "text": "See more Nation and World News \u2192",
@@ -822,51 +856,51 @@
     },
     {
       "text": "\n                \n                \n                    Article with a video\n                \n                \n                \n                        \n                ",
-      "url": "/news/local_news/public_safety/new-fire-station-puts-safety-first-improves-accessibility/article_423616ca-f8a6-11ec-ac83-43e3c85024f6.html"
+      "url": "/news/local_news/public_safety/wildfire-response-starts-with-identifying-threat-level/article_308eb84a-fc99-11ec-aad7-8f5229856eed.html"
     },
     {
       "text": "Public Safety",
       "url": "/news/local_news/public_safety"
     },
     {
-      "text": "\n        \n\n        \n            New fire station puts safety first, improves accessibility",
-      "url": "/news/local_news/public_safety/new-fire-station-puts-safety-first-improves-accessibility/article_423616ca-f8a6-11ec-ac83-43e3c85024f6.html"
+      "text": "\n        \n\n        \n            Wildfire response starts with identifying threat-level",
+      "url": "/news/local_news/public_safety/wildfire-response-starts-with-identifying-threat-level/article_308eb84a-fc99-11ec-aad7-8f5229856eed.html"
     },
     {
-      "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/local_news/public_safety/summer-favorite-foods-a-choking-hazard-if-not-prepped-right/article_6f90bdfc-f7eb-11ec-b796-b7ca63437559.html"
-    },
-    {
-      "text": "Public Safety",
-      "url": "/news/local_news/public_safety"
-    },
-    {
-      "text": "\n        \n\n        \n            Summer favorite foods a choking hazard if not prepped right",
-      "url": "/news/local_news/public_safety/summer-favorite-foods-a-choking-hazard-if-not-prepped-right/article_6f90bdfc-f7eb-11ec-b796-b7ca63437559.html"
-    },
-    {
-      "text": "\n                \n                \n                    Article with a video1:45\n                \n                \n                \n                        \n                ",
-      "url": "/news/local_news/consumer/animal-shelter-at-critical-capacity-as-owner-surrenders-increase/article_ec2b0766-f8f2-11ec-ac39-3beeabd9e72c.html"
+      "text": "\n                \n                \n                    Article with a video\n                \n                \n                \n                        \n                ",
+      "url": "/news/local_news/consumer/rate-review-could-increase-water-prices-for-st-joseph-residents/article_c9c8a998-fc90-11ec-94f3-bb746cf9fec5.html"
     },
     {
       "text": "Consumer",
       "url": "/news/local_news/consumer"
     },
     {
-      "text": "\n        \n\n        \n            Animal shelter at critical capacity as owner surrenders increase",
-      "url": "/news/local_news/consumer/animal-shelter-at-critical-capacity-as-owner-surrenders-increase/article_ec2b0766-f8f2-11ec-ac39-3beeabd9e72c.html"
+      "text": "\n        \n\n        \n            Rate review could increase water prices for St. Joseph residents",
+      "url": "/news/local_news/consumer/rate-review-could-increase-water-prices-for-st-joseph-residents/article_c9c8a998-fc90-11ec-94f3-bb746cf9fec5.html"
     },
     {
       "text": "\n                \n                \n                \n                \n                        \n                ",
-      "url": "/news/local_news/public_safety/residents-discuss-effects-of-downtown-stoplight-removal/article_ae7c7e22-f7c1-11ec-9860-57cf4f5e375a.html"
+      "url": "/news/local_news/government/forney-named-citys-public-works-director/article_7cb51f74-fc8b-11ec-aead-9b640af46c0e.html"
+    },
+    {
+      "text": "Government",
+      "url": "/news/local_news/government"
+    },
+    {
+      "text": "\n        \n\n        \n            Forney named city's public works director",
+      "url": "/news/local_news/government/forney-named-citys-public-works-director/article_7cb51f74-fc8b-11ec-aead-9b640af46c0e.html"
+    },
+    {
+      "text": "\n                \n                \n                    Article with a video\n                \n                \n                \n                        \n                ",
+      "url": "/news/local_news/public_safety/sudden-slowdowns-introduce-additional-risk-on-highway/article_13017f4c-f95b-11ec-9350-df52f9821883.html"
     },
     {
       "text": "Public Safety",
       "url": "/news/local_news/public_safety"
     },
     {
-      "text": "\n        \n\n        \n            Residents discuss effects of Downtown stoplight removal",
-      "url": "/news/local_news/public_safety/residents-discuss-effects-of-downtown-stoplight-removal/article_ae7c7e22-f7c1-11ec-9860-57cf4f5e375a.html"
+      "text": "\n        \n\n        \n            Sudden slowdowns introduce additional risk on highway",
+      "url": "/news/local_news/public_safety/sudden-slowdowns-introduce-additional-risk-on-highway/article_13017f4c-f95b-11ec-9350-df52f9821883.html"
     },
     {
       "text": "More Local News \u2192",
@@ -893,12 +927,12 @@
       "url": "/news/local_news/public_safety/information-released-on-woman-who-died-in-police-custody/article_00a5e378-f7bd-11ec-a27b-e304bac64ca8.html"
     },
     {
-      "text": "July 4 mega-guide: Where to watch fireworks in Kansas City area this holiday weekend",
-      "url": "/st_joe_live/national_entertainment/july-4-mega-guide-where-to-watch-fireworks-in-kansas-city-area-this-holiday-weekend/article_088dc17c-8e4e-5ac4-801c-8d38004fd5ac.html"
-    },
-    {
       "text": "Man, woman killed in Tuesday night crash",
       "url": "/news/local_news/public_safety/man-woman-killed-in-tuesday-night-crash/article_ccae4534-f7b6-11ec-9053-b71971c839a0.html"
+    },
+    {
+      "text": "July 4 mega-guide: Where to watch fireworks in Kansas City area this holiday weekend",
+      "url": "/st_joe_live/national_entertainment/july-4-mega-guide-where-to-watch-fireworks-in-kansas-city-area-this-holiday-weekend/article_088dc17c-8e4e-5ac4-801c-8d38004fd5ac.html"
     },
     {
       "text": "St. Joseph Country Club holds opening ceremony for new road",
@@ -913,36 +947,76 @@
       "url": "/st_joe_live/regional-groups-plan-july-fourth-celebrations/article_c8ede5d6-f7e7-11ec-8793-a79982c77fcf.html"
     },
     {
-      "text": "Two crashes occur on I-29 within hours of each other",
-      "url": "/news/local_news/public_safety/two-crashes-occur-on-i-29-within-hours-of-each-other/article_6c18bfe8-f89b-11ec-88f4-c32979f0e6fb.html"
-    },
-    {
       "text": "Airshow to bring historic aircraft to St. Joseph",
       "url": "/news/local_news/military/airshow-to-bring-historic-aircraft-to-st-joseph/article_bea4606a-f93f-11ec-a938-a7fcead8ca15.html"
     },
     {
-      "text": "",
-      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/dessert/cake/banana-cake-with-buttercream-frosting.html&s=10000&do=www.newspressnow.com"
-    },
-    {
-      "text": "Banana Cake With Buttercream Frosting",
-      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/dessert/cake/banana-cake-with-buttercream-frosting.html&s=10000&do=www.newspressnow.com"
+      "text": "Two crashes occur on I-29 within hours of each other",
+      "url": "/news/local_news/public_safety/two-crashes-occur-on-i-29-within-hours-of-each-other/article_6c18bfe8-f89b-11ec-88f4-c32979f0e6fb.html"
     },
     {
       "text": "",
-      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/dessert/cake/mamma-sewards-strawberry-cake-2.html&s=10000&do=www.newspressnow.com"
+      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/side/vegetable/summer-squash-cheesy-bake.html&s=10000&do=www.newspressnow.com"
     },
     {
-      "text": "Mama Seward's Strawberry Cake Recipe",
-      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/dessert/cake/mamma-sewards-strawberry-cake-2.html&s=10000&do=www.newspressnow.com"
+      "text": "Summer Squash Cheesy Bake",
+      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/side/vegetable/summer-squash-cheesy-bake.html&s=10000&do=www.newspressnow.com"
     },
     {
       "text": "",
-      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/main-course/chicken/grilled-chicken-patty.html&s=10000&do=www.newspressnow.com"
+      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/dessert/cake/gooey-peach-cake.html&s=10000&do=www.newspressnow.com"
     },
     {
-      "text": "Grilled Chicken Patty",
-      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/main-course/chicken/grilled-chicken-patty.html&s=10000&do=www.newspressnow.com"
+      "text": "Gooey Peach Cake",
+      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/dessert/cake/gooey-peach-cake.html&s=10000&do=www.newspressnow.com"
+    },
+    {
+      "text": "",
+      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/side/side-casserole/debs-easy-corn-casserole.html&s=10000&do=www.newspressnow.com"
+    },
+    {
+      "text": "Deb's Easy Corn Casserole",
+      "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10243&p=/recipes/side/side-casserole/debs-easy-corn-casserole.html&s=10000&do=www.newspressnow.com"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/multimedia/newscast_videos/rate-review-could-raise-water-prices-for-residents/video_7bc2d31b-1ad3-5d51-aea0-6be0f08eab12.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Rate review could raise water prices for residents",
+      "url": "/multimedia/newscast_videos/rate-review-could-raise-water-prices-for-residents/video_7bc2d31b-1ad3-5d51-aea0-6be0f08eab12.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/multimedia/newscast_videos/second-harvest-program-provides-food-for-kids-during-summer/video_533155ca-b0eb-56dc-a350-9e11d198bca8.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Second Harvest program provides food for kids during summer",
+      "url": "/multimedia/newscast_videos/second-harvest-program-provides-food-for-kids-during-summer/video_533155ca-b0eb-56dc-a350-9e11d198bca8.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/multimedia/newscast_videos/fire-response-starts-with-identifying-threat-level/video_3d0900d6-eb4a-528d-9c78-257e0ca5c7d8.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Fire response starts with identifying threat level",
+      "url": "/multimedia/newscast_videos/fire-response-starts-with-identifying-threat-level/video_3d0900d6-eb4a-528d-9c78-257e0ca5c7d8.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/multimedia/newscast_videos/human-remains-found-near-gower-to-texas-lab/video_98ef8465-9477-52fe-832f-ba8754f777fe.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Human remains found near Gower to Texas lab",
+      "url": "/multimedia/newscast_videos/human-remains-found-near-gower-to-texas-lab/video_98ef8465-9477-52fe-832f-ba8754f777fe.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/multimedia/newscast_videos/last-chance-to-register-to-vote-for-primary/video_688546f6-7c5b-5ea1-9b6a-f60a45edfc9f.html"
+    },
+    {
+      "text": "\n        \n\n        \n            Last chance to register to vote for primary",
+      "url": "/multimedia/newscast_videos/last-chance-to-register-to-vote-for-primary/video_688546f6-7c5b-5ea1-9b6a-f60a45edfc9f.html"
     },
     {
       "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
@@ -961,52 +1035,12 @@
       "url": "/multimedia/newscast_videos/sudden-slowdowns-add-risk-on-highway/video_90fd400d-4dd4-5428-b2f9-f7df90ac840d.html"
     },
     {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                         \n                ",
       "url": "/multimedia/newscast_videos/new-fire-station-prepares-to-open/video_628069e2-9e5b-5397-9419-9711c2ffca72.html"
     },
     {
       "text": "\n        \n\n        \n            New fire station prepares to open",
       "url": "/multimedia/newscast_videos/new-fire-station-prepares-to-open/video_628069e2-9e5b-5397-9419-9711c2ffca72.html"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "/multimedia/newscast_videos/hegeman-out-of-terms-in-legislature/video_7919be80-8eb3-560e-8e78-fd3ef88047da.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Hegeman out of terms in legislature",
-      "url": "/multimedia/newscast_videos/hegeman-out-of-terms-in-legislature/video_7919be80-8eb3-560e-8e78-fd3ef88047da.html"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "/multimedia/newscast_videos/pet-rescue-receives-building-donation/video_f1991117-7e8e-54f6-ad7f-6ea1300ad593.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Pet rescue receives building donation",
-      "url": "/multimedia/newscast_videos/pet-rescue-receives-building-donation/video_f1991117-7e8e-54f6-ad7f-6ea1300ad593.html"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "/multimedia/newscast_videos/sudden-slowdowns-add-risk-on-highway/video_b79a5ecd-e204-5bfc-94bb-1449f6a5ee4e.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Sudden slowdowns add risk on highway",
-      "url": "/multimedia/newscast_videos/sudden-slowdowns-add-risk-on-highway/video_b79a5ecd-e204-5bfc-94bb-1449f6a5ee4e.html"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "/multimedia/newscast_videos/world-cup-preparation/video_f5942b78-ca81-5da4-b47a-4b9045b4ec8c.html"
-    },
-    {
-      "text": "\n        \n\n        \n            World Cup Preparation",
-      "url": "/multimedia/newscast_videos/world-cup-preparation/video_f5942b78-ca81-5da4-b47a-4b9045b4ec8c.html"
-    },
-    {
-      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
-      "url": "/multimedia/newscast_videos/prayers-in-schools/video_e6cb4de0-be06-5aa8-8709-50c1f3b08efa.html"
-    },
-    {
-      "text": "\n        \n\n        \n            Prayers in Schools",
-      "url": "/multimedia/newscast_videos/prayers-in-schools/video_e6cb4de0-be06-5aa8-8709-50c1f3b08efa.html"
     },
     {
       "text": "See more Top Videos \u2192",
@@ -1149,10 +1183,10 @@
       "url": "https://townnews.com/"
     }
   ],
-  "server": "ia801500.us.archive.org",
-  "uniq": 1170426647,
+  "server": "ia601500.us.archive.org",
+  "uniq": 615612642,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
