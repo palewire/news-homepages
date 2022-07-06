@@ -1,8 +1,13 @@
 name: "Build website"
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 */3 * * *"
+
+concurrency:
+  group: docs
+  cancel-in-progress: true
 
 jobs:
   docs:

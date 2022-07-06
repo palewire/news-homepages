@@ -8,6 +8,8 @@ on:
         required: true
         type: string
 
+concurrency: archive-batch
+
 jobs:
   sources:
     name: Sources

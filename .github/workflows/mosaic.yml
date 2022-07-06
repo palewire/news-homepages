@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 20 * * *"
 
+concurrency:
+  group: mosaic
+  cancel-in-progress: true
+
 jobs:
   mosaic:
     name: Create Mosaic GIF
