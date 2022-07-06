@@ -17,7 +17,7 @@ orphan: true
 | Location       | Green Bay                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 151 screenshots stored at the Internet Archive.
+The archiving routine has captured 152 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

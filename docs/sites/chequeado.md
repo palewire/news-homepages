@@ -17,7 +17,7 @@ orphan: true
 | Location       | Buenos Aires                                                                 |
 | Timezone       | America/Buenos_Aires                                                                 |
 
-The archiving routine has captured 60 screenshots stored at the Internet Archive.
+The archiving routine has captured 61 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
