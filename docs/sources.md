@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 305 sites.
+The archiving routine is currently capturing 311 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -68,8 +68,11 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[CQ](https://palewi.re/docs/news-homepages/sites/cqnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cqnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cqnow.xml)|
 |[CTV News](https://palewi.re/docs/news-homepages/sites/ctvnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ctvnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ctvnews.xml)|
 |[Daily Caller](https://palewi.re/docs/news-homepages/sites/dailycaller.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycaller.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycaller.xml)|
+|[Daily Herald](https://palewi.re/docs/news-homepages/sites/heraldscotland.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldscotland.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldscotland.xml)|
 |[Daily Mail](https://palewi.re/docs/news-homepages/sites/mailonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mailonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mailonline.xml)|
+|[Daily Mirror](https://palewi.re/docs/news-homepages/sites/dailymirror.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailymirror.xml)|
 |[Daily News](https://palewi.re/docs/news-homepages/sites/nydailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nydailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nydailynews.xml)|
+|[Daily Record](https://palewi.re/docs/news-homepages/sites/daily_record.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/daily_record.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/daily_record.xml)|
 |[Daily Wire](https://palewi.re/docs/news-homepages/sites/realdailywire.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/realdailywire.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/realdailywire.xml)|
 |[Dallas Morning News](https://palewi.re/docs/news-homepages/sites/dallasnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasnews.xml)|
 |[Deadspin](https://palewi.re/docs/news-homepages/sites/deadspin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/deadspin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/deadspin.xml)|
@@ -90,6 +93,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[El Universal](https://palewi.re/docs/news-homepages/sites/el_universal_mx.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_universal_mx.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_universal_mx.xml)|
 |[Engadget](https://palewi.re/docs/news-homepages/sites/engadget.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/engadget.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/engadget.xml)|
 |[ESPN](https://palewi.re/docs/news-homepages/sites/espn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/espn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/espn.xml)|
+|[Evening Standard](https://palewi.re/docs/news-homepages/sites/eveningstandard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eveningstandard.xml)|
 |[Fast Company](https://palewi.re/docs/news-homepages/sites/fastcompany.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fastcompany.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fastcompany.xml)|
 |[Financial Post](https://palewi.re/docs/news-homepages/sites/financialpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/financialpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/financialpost.xml)|
 |[Financial Times](https://palewi.re/docs/news-homepages/sites/ft.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ft.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ft.xml)|
@@ -175,6 +179,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Mother Jones](https://palewi.re/docs/news-homepages/sites/motherjones.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/motherjones.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones.xml)|
 |[Mountain State Spotlight](https://palewi.re/docs/news-homepages/sites/mtnstspotlight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtnstspotlight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtnstspotlight.xml)|
 |[MSNBC](https://palewi.re/docs/news-homepages/sites/msnbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/msnbc.xml)|
+|[National](https://palewi.re/docs/news-homepages/sites/scotnational.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotnational.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scotnational.xml)|
 |[National Geographic](https://palewi.re/docs/news-homepages/sites/natgeo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/natgeo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/natgeo.xml)|
 |[National Journal](https://palewi.re/docs/news-homepages/sites/nationaljournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationaljournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nationaljournal.xml)|
 |[National Post](https://palewi.re/docs/news-homepages/sites/nationalpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationalpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nationalpost.xml)|
@@ -239,6 +244,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[San Francisco Chronicle](https://palewi.re/docs/news-homepages/sites/sfchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sfchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sfchronicle.xml)|
 |[Santa Fe New Mexican](https://palewi.re/docs/news-homepages/sites/thenewmexican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewmexican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewmexican.xml)|
 |[SB Nation](https://palewi.re/docs/news-homepages/sites/sbnation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sbnation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sbnation.xml)|
+|[Scotsman](https://palewi.re/docs/news-homepages/sites/thescotsman.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thescotsman.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thescotsman.xml)|
 |[SCOTUS Blog](https://palewi.re/docs/news-homepages/sites/scotusblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotusblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scotusblog.xml)|
 |[Searchlight New Mexico](https://palewi.re/docs/news-homepages/sites/searchlightnm.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/searchlightnm.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/searchlightnm.xml)|
 |[Seattle Times](https://palewi.re/docs/news-homepages/sites/seattletimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/seattletimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/seattletimes.xml)|

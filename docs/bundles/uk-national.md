@@ -7,7 +7,7 @@ orphan: true
 
 # U.K. national news
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 10 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -75,6 +75,22 @@ The most recent homepages from 8 news sites in this bundle.
  </a>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailymirror.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg"
+     alt="Daily Mirror"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/eveningstandard.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg"
+     alt="Evening Standard"
+     loading="lazy">
+ </a>
+</div>
+
 </div>
 
 ### About this bundle
@@ -98,3 +114,5 @@ The most recent homepages from 8 news sites in this bundle.
 |[The Telegraph](https://palewi.re/docs/news-homepages/sites/telegraph.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegraph.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/telegraph.xml)|
 |[The Sun](https://palewi.re/docs/news-homepages/sites/thesun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thesun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thesun.xml)|
 |[The Times](https://palewi.re/docs/news-homepages/sites/thetimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetimes.xml)|
+|[Daily Mirror](https://palewi.re/docs/news-homepages/sites/dailymirror.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailymirror.xml)|
+|[Evening Standard](https://palewi.re/docs/news-homepages/sites/eveningstandard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eveningstandard.xml)|
